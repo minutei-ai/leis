@@ -1,5 +1,3 @@
-###DEC-087496-0-000-18-08-1982@@@
-
 Decreto nº 87.496, de 18 de agosto de 1982
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis situados, respectivamente, na Avenida Giovanni Gronchi e na Rua Dona Vitu Giorgi, em Paraisópolis, Bairro do Morumbi, Município de São Paulo, Estado de São Paulo, destinados à instalação de Estação Telefônica, naquela cidade, a cargo da Telecomunicações de São Paulo S. A. - TELESP.

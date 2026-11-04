@@ -1,5 +1,3 @@
-###DEC-047823-0-000-04-03-1960@@@
-
 DECRETO Nº 47.823, DE 4 DE MARÇO DE 1960.
 
 Dispõe sôbre a doação do imóvel que menciona, à Associação Damas de Caridade, com sede em Itaqui, no Estado do Rio Grande do Sul.

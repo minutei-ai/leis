@@ -1,5 +1,3 @@
-###DEC-059979-0-000-10-01-1967@@@
-
 DECRETO Nº 59.979, de 10 de Janeiro de 1697.
 
 Retifica o art. 1º do Decreto número 29.384, de 26 de março de 1951.

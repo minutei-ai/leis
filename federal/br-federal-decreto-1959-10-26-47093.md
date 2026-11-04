@@ -1,5 +1,3 @@
-###DEC-047093-0-000-26-10-1959@@@
-
 DECRETO Nº 47.093, DE 26 DE OUTUBRO DE 1959.
 
 Estende ao pessoal da Comissão de Marinha Mercante as vantagens da Lei nº 1.741, de 22 de novembro de 1952.

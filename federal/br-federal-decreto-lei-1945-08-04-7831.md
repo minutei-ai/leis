@@ -1,5 +1,3 @@
-###DEL-007831-0-000-04-08-1945@@@
-
 DECRETO-LEI N. 7.831 – DE 4 DE AGÔSTO DE 1945
 
 Cria a Seção II do “Diário da Justiça".

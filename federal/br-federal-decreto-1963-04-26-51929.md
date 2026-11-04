@@ -1,5 +1,3 @@
-###DEC-051929-0-000-26-04-1963@@@
-
 DECRETO Nº 51.929, DE 26 DE ABRIL DE 1963.
 
 Autoriza a firma A. Millah & Teixeira Limitada, a comprar pedras preciosas.

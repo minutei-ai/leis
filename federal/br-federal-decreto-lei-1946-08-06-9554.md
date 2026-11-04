@@ -1,5 +1,3 @@
-###DEL-009554-0-000-06-08-1946@@@
-
 DECRETO-LEI N. 9.554 – DE 6 DE AGÔSTO DE 1946
 
 Dispõe sôbre a escala-padrão de salários  dos extranumerários-mensalistas da União .

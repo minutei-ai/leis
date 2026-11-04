@@ -1,5 +1,3 @@
-###DEC-049601-0-000-28-12-1960@@@
-
 DECRETO Nº 49.601, DE 28 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Benedito Cotomácio a pesquisar dolomita no Município de Pirapora do Bom Jesus, Estado de São Paulo.

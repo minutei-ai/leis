@@ -1,5 +1,3 @@
-###DEC-055382-0-000-31-12-1964@@@
-
 DECRETO Nº 55.382, DE 31 DE DEZEMBRO DE 1964.
 
 Concede à “SONAL” - Sociedade Nacional de Mineração Limitada, autorização para funcionar como emprêsa de mineração.

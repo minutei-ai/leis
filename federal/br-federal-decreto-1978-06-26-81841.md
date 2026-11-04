@@ -1,5 +1,3 @@
-###DEC-081841-0-000-26-06-1978@@@
-
 decreto n 81.841, de 26 de junho de 1978
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências de Ponte Nova, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-16-12-1830@@@
-
 LEI - DE 16 DE DEZEMBRO DE 1830
 
 Manda executar o Codigo Criminal.

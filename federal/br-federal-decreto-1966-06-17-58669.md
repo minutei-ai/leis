@@ -1,5 +1,3 @@
-###DEC-058669-0-000-17-06-1966@@@
-
 decreto nº 58.669, de 17 de junho de 1966.
 
 Concede reconhecimento ao Instituto Politécnico da Universidade Católica de Minas Gerais.

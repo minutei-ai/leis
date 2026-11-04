@@ -1,5 +1,3 @@
-###DEC-080244-0-000-29-08-1977@@@
-
 DECRETO Nº 80.244, DE 29 de agosto DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Araxá, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-070956-0-000-09-08-1972@@@
-
 DECRETO Nº 70.956, de 9 de Agosto de 1972.
 
 Concede reconhecimento à Faculdade de Artes Plásticas e Comunicações de São Paulo - SP.

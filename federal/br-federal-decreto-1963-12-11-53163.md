@@ -1,5 +1,3 @@
-###DEC-053163-0-000-11-12-1963@@@
-
 DECRETO Nº 53.163, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia de Eletrificação Centro Norte do Ceará, - CENORTE - a construir linha de transmissão.

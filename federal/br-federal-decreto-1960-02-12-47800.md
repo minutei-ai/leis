@@ -1,5 +1,3 @@
-###DEC-047800-0-000-12-02-1960@@@
-
 DECRETO Nº 47.800, DE 12 DE FEVEREIRO DE 1960.
 
 Concede à sociedade anônima Eno – Scott & Bowne (Brazil) Limited autorização para continuar a funcionar na República.

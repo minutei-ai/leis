@@ -1,5 +1,3 @@
-###DEC-071108-0-000-14-09-1972@@@
-
 Decreto nº 71.108, de 14 de setembro de 1972.
 
 Prorroga o prazo a que se refere o artigo 4º do Decreto nº 70.408, de 14 de abril de 1972.

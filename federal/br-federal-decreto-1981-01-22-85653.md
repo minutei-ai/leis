@@ -1,5 +1,3 @@
-###DEC-085653-0-000-22-01-1981@@@
-
 Decreto nº 85.653, de 22 de janeiro de 1981.
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRAS, imóveis constituídos de terras e benfeitorias, que menciona.

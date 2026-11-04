@@ -1,5 +1,3 @@
-###DEL-004779-0-000-02-10-1942@@@
-
 DECRETO-LEI N. 4.779 – DE 2 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 182:068$0 para atender às despesas de adaptação de edifício

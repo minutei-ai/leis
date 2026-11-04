@@ -1,5 +1,3 @@
-###DEC-003325-0-000-30-12-1999@@@
-
 DECRETO Nº 3.325, DE 30 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a Execução da Resolução nº 252, do Comitê de Representantes da Associação Latino-Americana de Integração (ALADI).
@@ -22,7 +20,19 @@ FERNANDO HENRIQUE CARDOSO
 
 Luiz Felipe de Seixas Corrêa
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:180.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">TEXTO CONSOLIDADO E ORDENADO DO REGIME GERAL DE ORIGEM DA ALADI</span></p></td><td style="width:14.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:223.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">ALADI/CR/Resolução 252 4 de agosto de 1999</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:180.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+TEXTO CONSOLIDADO E ORDENADO DO REGIME GERAL DE ORIGEM DA ALADI
+
+</td><td style="width:14.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:223.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+ALADI/CR/Resolução 252 4 de agosto de 1999
+
+</td></tr></tbody></table>
 
 RESOLUÇÃO 252
 

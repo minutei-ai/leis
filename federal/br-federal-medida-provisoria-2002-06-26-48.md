@@ -1,5 +1,3 @@
-###MPV-000048-0-000-26-06-2002@@@
-
 MEDIDA PROVISÓRIA Nº 48, DE 26 DE JUNHO DE 2002
 
 Dispõe sobre a criação da Gratificação de Desempenho de Atividade de Controle e Segurança de Tráfego Aéreo - GDASA e da Gratificação Especial de Controle do Tráfego Aéreo - GECTA, e dá outras providências.
@@ -68,8 +66,6 @@ Geraldo Magela da Cruz Quitão
 
 Guilherme Gomes Dias
 
-###MPV-000048-0-000-26-06-2002@@@REP01+++
-
 MEDIDA PROVISÓRIA Nº 48, DE 26 DE JUNHO DE 2002(\*)
 
 Dispõe sobre a criação da Gratificação de Desempenho de Atividade de Controle e Segurança de Tráfego Aéreo - GDASA e da Gratificação Especial de Controle do Tráfego Aéreo - GECTA, e dá outras providências.
@@ -80,6 +76,16 @@ TABELA DE VALORES DA GRATIFICAÇÃO ESPECIAL DE
 
 CONTROLE DE TRÁFEGO AÉREO - GECTA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:89.9pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NÍVEL DO CARGO</span></p></td><td style="width:71.55pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>GECTA EM R$</span></p></td></tr><tr><td style="width:89.9pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUPERIOR</span></p></td><td style="width:71.55pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>852,55</span></p></td></tr><tr><td style="width:89.9pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INTERMEDIÁRIO</span></p></td><td style="width:71.55pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>583,69</span></p></td></tr></tbody></table>
+NÍVEL DO CARGO
+
+GECTA EM R$
+
+SUPERIOR
+
+852,55
+
+INTERMEDIÁRIO
+
+583,69
 
 Republicado o Anexo III por ter saído com incorreção na Edição nº 122 do Diário Oficial da União de 27 de junho de 2002, Seção 1, pág. 4.

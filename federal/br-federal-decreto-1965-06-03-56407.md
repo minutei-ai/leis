@@ -1,5 +1,3 @@
-###DEC-056407-0-000-03-06-1965@@@
-
 DECRETO Nº 56.407, DE 3 DE JUNHO DE 1965.
 
 Autoriza a Companhia Cimento Brasileiro a pesquisar calcário no município de Pinheiro Machado, Estado do Rio grande do Sul.

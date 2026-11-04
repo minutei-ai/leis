@@ -1,5 +1,3 @@
-###DEC-071621-0-000-27-12-1972@@@
-
 DECRETO Nº 71.621 - DE 27 DE DEZEMBRO DE 1972
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de São Gonçalo, Estado do Rio de Janeiro.

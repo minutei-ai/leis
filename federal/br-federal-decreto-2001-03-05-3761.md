@@ -1,5 +1,3 @@
-###DEC-003761-0-000-05-03-2001@@@
-
 DECRETO Nº 3.761, DE 5 DE MARÇO DE 2001
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Alcance Parcial para a Facilitação do Comércio nº 5 (Acordo de Recife), entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de setembro de 2000.
@@ -24,8 +22,6 @@ FERNANDO HENRIQUE CARDOSO
 
 Celso Lafer
 
-<br>
-
 Anexo ao Decreto nº 3.761, de 5 de março de 2001
 
 ACORDO DE ALCANCE PARCIAL PARA A
@@ -49,8 +45,6 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos vinte e nove dias do mês de setembro de dois mil, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos. (a:) Pelo Governo da República Argentina: Carlos Onis Vigil; Pelo Governo da República Federativa do Brasil: José Artur Denot Medeiro: Pelo Governo da República do Paraguai: Efraín Darío Centurión; Pelo Governo da República Oriental do Uruguai: Jorge Rodolfo Talice
 
 \_\_\_\_\_\_\_\_
-
-<br>
 
 ANEXO
 
@@ -275,8 +269,6 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos vinte e nove dias do mês de setembro de dois mil, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos. (a:) Pelo Governo da República Argentina: Carlos Onis Vigil; Pelo Governo da República Federativa do Brasil: José Artur Denot Medeiros; Pelo Governo da República do Paraguai: Efraín Darío Centurión; Pelo Governo da República Oriental do Uruguai: Jorge Rodolfo Talice
 
 \-------------------------------
-
-<br>
 
 ANEXO
 

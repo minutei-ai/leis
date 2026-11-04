@@ -1,5 +1,3 @@
-###DEC-061375-0-000-18-09-1967@@@
-
 DECRETO Nº 61.375, DE 18 DE SETEMBRO DE 1967.
 
 Transfere da Prefeitura Municipal de Tombos para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Tombos, Estado de Minas Gerais e dá outras providências.

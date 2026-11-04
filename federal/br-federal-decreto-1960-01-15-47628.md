@@ -1,5 +1,3 @@
-###DEC-047628-0-000-15-01-1960@@@
-
 Decreto nº 47.628, de 15 de janeiro de 1960.
 
 Renova o Decreto nº 28.995, de 15 de dezembro de 1950.

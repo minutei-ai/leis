@@ -1,5 +1,3 @@
-###DEC-086036-0-000-27-05-1981@@@
-
 Decreto nº 86.036, de 27 de maio de 1981.
 
 Regulamenta a Lei nº 6.606, de 07 de dezembro de 1978, que obriga as emissoras de televisão a incluir, nas suas programações semanais de filmes estrangeiros, um filme, pelo menos, com legenda em português.

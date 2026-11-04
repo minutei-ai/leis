@@ -1,5 +1,3 @@
-###DEC-045918-0-000-29-04-1959@@@
-
 decreto nº 45.918, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Dario Barreto dos Santos a pesquisar calcário, no município de Pinheiro Machado, Estado do Rio Grande do Sul.

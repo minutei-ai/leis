@@ -1,7 +1,3 @@
-1
-
-###DEC-001677-0-000-18-10-1995@@@
-
 DECRETO Nº 1.677, DE 18 DE OUTUBRO DE 1995
 
 Dá nova redação ao art. 3º do Decreto nº 1.503, de 25 de maio de 1995, que inclui empresas no Programa Nacional de Desestatização - PND.

@@ -1,5 +1,3 @@
-###DEC-072484-0-000-17-07-1973@@@
-
 DECRETO Nº 72.484, DE 17 DE JULHO DE 1973.
 
 Concede à Indústria Cerâmica Oxford Ltda., o direito de lavrar argila no Município de Campo Alegre, Estado de Santa Catarina.

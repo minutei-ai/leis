@@ -1,5 +1,3 @@
-###DEC-071239-0-000-11-10-1972@@@
-
 DECRETO Nº 71.239, DE 11 DE OUTUBRO DE 1972.
 
 Retifica o Decreto nº 69.679, de 3 dezembro de 1971, que autoriza permuta de terrenos em Brasília, no Distrito Federal.

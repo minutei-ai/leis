@@ -40,31 +40,29 @@ ERNANI VARJAL MEDICIS PINTO
 
 “ANEXO II
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="630" style="width:472.35pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="366" valign="top" style="width:274.75pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1. OFICIAIS</span></p></td><td width="263" valign="top" style="width:197.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">QUANTITATIVO</span></p></td></tr><tr><td width="366" valign="top" style="width:274.75pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.1 Quadro de Oficiais Policiais Militares (QOPM)</span></p></td><td width="263" valign="top" style="width:197.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.770 (NR)</span></p></td></tr><tr><td width="366" valign="top" style="width:274.75pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">……………………………………………….</span></p></td><td width="263" valign="top" style="width:197.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">..............................................................</span></p></td></tr><tr><td width="366" valign="top" style="width:274.75pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.1.6. 2º Tenente PM (2º Ten PM)</span></p></td><td width="263" valign="top" style="width:197.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">665 (NR)</span></p></td></tr><tr><td width="366" valign="top" style="width:274.75pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">……………………………………………….</span></p></td><td width="263" valign="top" style="width:197.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">..............................................................</span></p></td></tr><tr><td width="366" valign="top" style="width:274.75pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL DE EFETIVO</span></p></td><td width="263" valign="top" style="width:197.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">26.496 (NR)</span></p></td></tr></tbody></table>
+1. OFICIAIS
+
+QUANTITATIVO
+
+1.1 Quadro de Oficiais Policiais Militares (QOPM)
+
+1.770 (NR)
+
+……………………………………………….
+
+..............................................................
+
+1.1.6. 2º Tenente PM (2º Ten PM)
+
+665 (NR)
+
+……………………………………………….
+
+..............................................................
+
+TOTAL DE EFETIVO
+
+26.496 (NR)
 
                                                                                                                                                                                    ”
 
@@ -72,30 +70,6 @@ ERNANI VARJAL MEDICIS PINTO
 
 “ANEXO III
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1. OFICIAS</span></p></td></tr><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">......................................................................</span></p></td><td width="307" valign="top" style="width:230.3pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">.....................................................................</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">2º Tenente BM</span></p></td><td width="307" valign="top" style="width:230.3pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">206 (NR)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL</span></p></td><td width="307" valign="top" style="width:230.3pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">533 (NR)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">……………………………………………….</span></p></td><td width="307" valign="top" style="width:230.3pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">..............................................................</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">TOTAL GERAL DO EFETIVO</span></p></td><td width="307" valign="top" style="width:230.3pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">5.088 (NR)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> 1. OFICIAS </td></tr><tr><td colspan="2" valign="top"> 1.1 QUADRO DE OFICIAIS COMBATENTES (QOC/BM) </td></tr><tr><td valign="top"> ...................................................................... </td><td valign="top"> ..................................................................... </td></tr><tr><td valign="top"> 2º Tenente BM </td><td valign="top"> 206 (NR) </td></tr><tr><td valign="top"> TOTAL </td><td valign="top"> 533 (NR) </td></tr><tr><td valign="top"> ………………………………………………. </td><td valign="top"> .............................................................. </td></tr><tr><td valign="top"> TOTAL GERAL DO EFETIVO </td><td valign="top"> 5.088 (NR) </td></tr></tbody></table>
 
                                                                                                                                                                              ”

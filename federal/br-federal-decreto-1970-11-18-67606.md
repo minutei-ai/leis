@@ -1,5 +1,3 @@
-###DEC-067606-0-000-18-11-1970@@@
-
 DECRETO Nº 67.606, DE 18 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 22.084, de 18 de novembro de 1746.

@@ -1,5 +1,3 @@
-###DEC-074246-0-000-01-07-1974@@@
-
 DECRETO Nº 74.246 - DE 1º DE JULHO DE 1974
 
 Concede reconhecimento ao curso de Administração do Instituto de Ciências Sociais "São Judas Tadeu", mantido pelo Instituto Alberto Mesquita de Camargo, com sede na cidade de São Paulo, Estado de São Paulo.

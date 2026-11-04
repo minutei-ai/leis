@@ -1,5 +1,3 @@
-###DEC-064504-0-000-14-05-1969@@@
-
 DECRETO Nº 64.504, DE 14 DE MAIO DE 1969.
 
 Concede a COPACAL S.A., Mineração e Comércio, o direito de lavrar calcário, no município de Itapeva, Estado de São Paulo.

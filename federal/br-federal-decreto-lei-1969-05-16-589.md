@@ -1,5 +1,3 @@
-###DEL-000589-0-000-16-05-1969@@@
-
 DECRETO-LEI Nº 589, DE 16 DE MAIO DE 1969
 
 Autoriza o Poder Executivo a desapropriar imóvel que menciona, situado na Ilha do Governador, Estado da Guanabara.

@@ -28,7 +28,8 @@ Dispõe sobre a promoção da alimentação adequada e saudável no ambiente esc
 
 **VII -** comunicação mercadológica: toda e qualquer atividade de comunicação comercial, inclusive publicidade, para a divulgação de produtos, serviços, marcas e empresas independentemente do suporte, da mídia ou do meio utilizado.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Das ações de educação alimentar e nutricional
 
 **Art. 4º** - A escola deverá incluir a educação alimentar e nutricional de forma transversal no currículo escolar, enquanto campo de ação da Segurança Alimentar e Nutricional e da Promoção da Saúde, em conformidade com a Lei nº 13.666 de 16 de maio de 2018, abordando o tema alimentação e nutrição e práticas saudáveis de vida no processo de ensino e aprendizagem, inserido no projeto político pedagógico das escolas. 
@@ -37,7 +38,8 @@ Das ações de educação alimentar e nutricional
 
 **Art. 5º** - A organização de hortas no ambiente escolar e a prática da culinária podem compor as estratégias de educação alimentar e nutricional, conforme viabilidade operacional de infraestrutura das escolas e outras estratégias de educação alimentar e nutricional (EAN), de acordo com as possibilidades e realidade local das escolas.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Das ações de doação e comercialização de alimentos e bebidas no ambiente escolar
 
 **Art. 6º** - A doação e comercialização de alimentos, bebidas e preparações culinárias no ambiente escolar deve priorizar aqueles in natura e minimamente processados, de forma variada e segura, que respeitem a cultura e as tradições locais, em conformidade com a faixa etária e o estado de saúde do aluno, inclusive dos que necessitem de atenção específica.
@@ -46,7 +48,8 @@ Das ações de doação e comercialização de alimentos e bebidas no ambiente e
 
 **Art. 7º** - Todos os estabelecimentos comerciais localizados no interior das escolas públicas ou privadas (cantinas, refeitórios, restaurantes, lanchonetes e afins), as empresas fornecedoras de alimentação escolar, os serviços de delivery ou qualquer sistema de entrega de alimentos (contratação de lanche pronto) no ambiente escolar estão sujeitos a esta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Das ações de comunicação mercadológica de alimentos no ambiente escolar
 
 **Art. 8º** - É vedado, na unidade escolar, qualquer tipo de comunicação mercadológica de alimentos, preparações ou bebidas cuja oferta e comercialização seja proibida por esta Lei, nos termos da Lei 14.045 de 27 de dezembro de 2018.
@@ -73,12 +76,14 @@ Das ações de comunicação mercadológica de alimentos no ambiente escolar
 
 **IX -** promoção com competições ou jogos com apelo ao público infantil.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 Das ações de fiscalização e controle social
 
 **Art. 11** - Qualquer cidadão pode denunciar o não cumprimento desta Lei ao Sistema de Ouvidoria da Secretaria Estadual de Educação ou outros canais de atendimento disponibilizados.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 Das disposições finais
 
 **Art. 12** - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.

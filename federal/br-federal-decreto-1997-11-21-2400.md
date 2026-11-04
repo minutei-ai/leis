@@ -1,5 +1,3 @@
-###DEC-002400-0-000-21-11-1997@@@
-
 DECRETO Nº 2.400, DE 21 DE NOVEMBRO DE 1997
 
 Promulga a Convenção Interamericana sobre Conflitos de Leis em Matéria de Sociedades Mercantis, concluída em Montevidéu, em 8 de maio de 1979.

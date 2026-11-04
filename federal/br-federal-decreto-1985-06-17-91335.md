@@ -1,5 +1,3 @@
-###DEC-091335-0-000-17-06-1985@@@
-
 Decreto Nº 91.335, de 17 de junho de 1985
 
 Altera a constituição da Comissão Nacional para programar e coordenar as comemorações do V Centenário do Descobrimento da América.

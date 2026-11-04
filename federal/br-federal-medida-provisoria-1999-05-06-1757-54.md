@@ -1,5 +1,3 @@
-###MPV-001757-0-054-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.757-54, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

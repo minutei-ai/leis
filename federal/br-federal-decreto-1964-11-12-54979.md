@@ -1,5 +1,3 @@
-###DEC-054979-0-000-12-11-1964@@@
-
 DECRETO Nº 54.979, DE 12 DE NOVEMBRO DE 1964.
 
 Autoriza Constantino Pedro de Vasconcelos a comprar pedras preciosas.

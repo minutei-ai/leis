@@ -1,5 +1,3 @@
-###DEC-006924-0-000-05-08-2009@@@
-
 DECRETO Nº 6.924, DE 5 DE AGOSTO DE 2009.
 
 Institui o Prêmio de “Boas Práticas na Aplicação, Divulgação ou Implementação da Lei Maria da Penha”.       

@@ -1,5 +1,3 @@
-###DEC-068823-0-000-29-06-1971@@@
-
 DECRETO Nº 68.823 - DE 29 DE JUNHO DE 1971.
 
 Autorização para funcionamento do Instituto de Ciências Biológicas de Mogi das Cruzes, com os Cursos de Licenciatura e Bacharelado e transferência do Curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Mogi das Cruzes para o referido Instituto, em Mogi das Cruzes - S. P.

@@ -1,5 +1,3 @@
-###DEC-057365-0-000-30-11-1965@@@
-
 DECRETO Nº 57.365, DE 30 DE NOVEMBRO DE 1965.
 
 Fixa os preços mínimos básicos relativos à safra do próximo ano de 1966, para a juta e malva da Região Amazônica.
@@ -38,7 +36,29 @@ Art. 5º Os preços constantes dêste decreto poderão ser reajustados por ocasi
 
 Art. 6º Os ágios e deságios para os diversos tipos de juta e malva serão estabelecidos de acôrdo com os seguintes percentuais relativos ao tipo 5 - básico:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:284.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Tipos</span></p></td><td style="width:129.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Percentuais</span></p></td></tr><tr><td style="width:284.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:129.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Nominal</span></p></td></tr><tr><td style="width:284.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:129.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>17%</span></p></td></tr><tr><td style="width:284.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:129.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Básico</span></p></td></tr><tr><td style="width:284.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:129.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8%</span></p></td></tr><tr><td style="width:284.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9</span></p></td><td style="width:129.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25%</span></p></td></tr></tbody></table>
+Tipos
+
+Percentuais
+
+1
+
+Nominal
+
+3
+
+17%
+
+5
+
+Básico
+
+7
+
+8%
+
+9
+
+25%
 
 Art. 7º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

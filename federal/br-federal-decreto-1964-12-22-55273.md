@@ -1,5 +1,3 @@
-###DEC-055273-0-000-22-12-1964@@@
-
 DECRETO Nº 55.273, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza a assinatura do Têrmo de Aditamento e Alteração ao Convênio firmado pelo Govêrno do Estado do Rio Grande do Sul, para execução das obras civis relativas ao aproveitamento hidrelétrico do Rio Passo Fundo e autorizado pelo Decreto nº 49.534 de 15-12-1960.

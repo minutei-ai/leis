@@ -1,5 +1,3 @@
-###DEC-054774-0-000-30-10-1964@@@
-
 DECRETO Nº 54.774, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o destaque da importância de Cr$7.521,655,50, dos recursos provenientes das medidas estabelecidas pelo Decreto nº 2.096, de 1963, para atender às despesas de supervisão.

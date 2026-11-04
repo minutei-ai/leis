@@ -1,5 +1,3 @@
-###DEC-097401-0-000-22-12-1988@@@
-
 DECRETO Nº 97.401, DE 22 DE DEZEMBRO DE 1988
 
 Concede à EMBRAER - Empresa Brasileira de Aeronáutica S.A. - autorização para proceder o aumento de seu capital social pela incorporação de bem imóvel da União e dá outras providências.

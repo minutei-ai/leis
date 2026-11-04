@@ -1,5 +1,3 @@
-###DEL-007658-0-000-19-06-1945@@@
-
 DECRETO-LEI N. 7.658 – DE 19 DE JUNHO DE 1945
 
 Altera disposições da Lei do Serviço Militar e dá outras providências

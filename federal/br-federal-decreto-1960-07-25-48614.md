@@ -1,5 +1,3 @@
-###DEC-048614-0-000-25-07-1960@@@
-
 DECRETO Nº 48.614, DE 25 DE JULHO DE 1960.
 
 Autoriza a Emprêsa Maranhense de Mineração Limitada a pesquisar gipsita no município de Codó, Estado do Maranhão.

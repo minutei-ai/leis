@@ -1,5 +1,3 @@
-###DEC-045113-0-000-26-12-1958@@@
-
 decreto nº 45.113, de 26 de dezembro de 1958.
 
 Concede reconhecimento ao Curso de Auxiliar de Enfermagem da Escola Auxiliares de Enfermagem do Hospital Moinhos de Vento.

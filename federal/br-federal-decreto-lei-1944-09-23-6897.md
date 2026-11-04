@@ -1,5 +1,3 @@
-###DEL-006897-0-000-23-09-1944@@@
-
 DECRETO-LEI N. 6.897 – DE 23 DE SETEMBRO DE 1944
 
 Dispõe sôbre o funcionamento dos estabelecimentos de ensino superior ainda não reconhecidos

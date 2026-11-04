@@ -1,5 +1,3 @@
-###DEC-073454-0-000-14-01-1974@@@
-
 DECRETO Nº 73.454, DE JANEIRO DE 1974.
 
 Fixa as proporções para o cálculo do número mínimo de vagas que deveriam ser abertas em 1973, para a aplicação  da Cota Compulsória no Ministério da Marinha.
@@ -14,7 +12,87 @@ CORPO OU QUADRO
 
 I - Corpo da Armada
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Proporções:</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ..................................................................................................................1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">II - Corpo de Fuzileiros Navais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ..................................................................................................................1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">III - Corpo de Engenheiros e Técnico Navais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ...................................................................................................... 1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta .......................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IV - Corpo de Intendentes da Marinha</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ..................................................................................................................1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">V - Corpo de Saúde da Marinha</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Quadro de Médicos</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ..................................................................................................................1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Quadro de Farmacêuticos</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ..................................................................................................................1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">c) Quadro de Cirurgiões-Dentistas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra ...........................................................................................................1/8</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata...................................................................................................................1/15</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/20</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VI - Quadro de Oficiais Auxiliares</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Quadro de Oficiais Auxiliares da Marinha</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ....................................................................................................................1/4</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/10</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes .....................................................................................................................1/18</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Quadros de Oficiais auxiliares do Corpo de Fuzileiros Navais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ....................................................................................................................1/4</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..................................................................................................................1/10</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes .....................................................................................................................1/18</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">c) Quadro de Oficiais Músicos do Corpo de Fuzileiros Navais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes .....................................................................................................................1/10</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">primeiros-tenentes .....................................................................................................................1/20</span></p></td></tr></tbody></table>
+Proporções:
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata ..................................................................................................................1/15
+
+Capitães-de-Corveta ..................................................................................................................1/20
+
+II - Corpo de Fuzileiros Navais
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata ..................................................................................................................1/15
+
+Capitães-de-Corveta ..................................................................................................................1/20
+
+III - Corpo de Engenheiros e Técnico Navais
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata ...................................................................................................... 1/15
+
+Capitães-de-Corveta .......................................................................................................1/20
+
+IV - Corpo de Intendentes da Marinha
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata ..................................................................................................................1/15
+
+Capitães-de-Corveta ..................................................................................................................1/20
+
+V - Corpo de Saúde da Marinha
+
+a) Quadro de Médicos
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata ..................................................................................................................1/15
+
+Capitães-de-Corveta ..................................................................................................................1/20
+
+b) Quadro de Farmacêuticos
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata ..................................................................................................................1/15
+
+Capitães-de-Corveta ..................................................................................................................1/20
+
+c) Quadro de Cirurgiões-Dentistas
+
+Capitães-de-Mar-e-Guerra ...........................................................................................................1/8
+
+Capitães-de-Fragata...................................................................................................................1/15
+
+Capitães-de-Corveta ..................................................................................................................1/20
+
+VI - Quadro de Oficiais Auxiliares
+
+a) Quadro de Oficiais Auxiliares da Marinha
+
+Capitães-de-Fragata ....................................................................................................................1/4
+
+Capitães-de-Corveta ..................................................................................................................1/10
+
+Capitães-Tenentes .....................................................................................................................1/18
+
+b) Quadros de Oficiais auxiliares do Corpo de Fuzileiros Navais
+
+Capitães-de-Fragata ....................................................................................................................1/4
+
+Capitães-de-Corveta ..................................................................................................................1/10
+
+Capitães-Tenentes .....................................................................................................................1/18
+
+c) Quadro de Oficiais Músicos do Corpo de Fuzileiros Navais
+
+Capitães-Tenentes .....................................................................................................................1/10
+
+primeiros-tenentes .....................................................................................................................1/20
 
 Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

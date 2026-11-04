@@ -1,5 +1,3 @@
-###DEC-055819-0-000-08-03-1965@@@
-
 DECRETO Nº 55.819, DE 8 DE MARÇO DE 1965.
 
 Cria um Grupo de Trabalho com a finalidade de estudar a organização de Serviços de Contrôle, Escuta e Localização de Estações de Emissoras.

@@ -1,5 +1,3 @@
-###DEC-083649-0-000-28-06-1979@@@
-
 Decreto nº 83.649, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Ciências das Faculdades Integradas Castelo Branco, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

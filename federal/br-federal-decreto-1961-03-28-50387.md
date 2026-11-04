@@ -1,5 +1,3 @@
-###DEC-050387-0-000-28-03-1961@@@
-
 DECRETO Nº 50.387, DE 28 DE MARÇO DE 1961.
 
 Regulamenta o exercício da enfermagem e suas funções auxiliares no território nacional.

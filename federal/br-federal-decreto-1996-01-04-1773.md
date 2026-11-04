@@ -1,5 +1,3 @@
-###DEC-001773-0-000-04-01-1996@@@
-
 DECRETO Nº 1.773, DE 04 DE JANEIRO DE 1996
 
 Dispõe sobre o remanejamento dos cargos em comissão e funções gratificadas que menciona.

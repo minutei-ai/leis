@@ -1,5 +1,3 @@
-###DEC-082184-0-000-28-08-1978@@@
-
 DECRETO Nº 82.184, DE 28 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

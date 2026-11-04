@@ -1,5 +1,3 @@
-###DEC-086196-0-000-13-07-1981@@@
-
 Decreto nº 86.196, de 13 de julho de 1981.
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004852-0-000-02-10-2003@@@
-
 DECRETO Nº 4.852,  DE 2 DE OUTUBRO DE 2003.
 
        Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo da República do Chile Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Relação ao Imposto sobre a Renda, de 3 de abril de 2001.
@@ -22,16 +20,22 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 2 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
-# CONVENÇÃO ENTRE A REPÚBLICA FEDERATIVA DO<br>
-BRASIL E A REPÚBLICA DO CHILE DESTINADA A EVITAR<br>
-A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL<br>
+# CONVENÇÃO ENTRE A REPÚBLICA FEDERATIVA DO
+
+BRASIL E A REPÚBLICA DO CHILE DESTINADA A EVITAR
+
+A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL
+
 EM RELAÇÃO AO IMPOSTO SOBRE A RENDA
 
-        Governo da República Federativa do Brasil<br>
-        e<br>
+        Governo da República Federativa do Brasil
+
+        e
+
         O Governo da República do Chile,
 
         Desejando concluir uma Convenção destinada a evitar a dupla tributação e prevenir a evasão fiscal em relação ao imposto sobre a renda,
@@ -494,16 +498,22 @@ Denúncia
 
         Feito em Santiago em 03 de abril de 2001, em dois exemplares originais, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL<br>
-Everardo de Almeida Maciel<br>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+
+Everardo de Almeida Maciel
+
 Secretário da Receita Federal
 
-PELO GOVERNO DA REPÚBLICA DO CHILE<br>
-Nicolás Eyzaguirre Guzmán<br>
+PELO GOVERNO DA REPÚBLICA DO CHILE
+
+Nicolás Eyzaguirre Guzmán
+
 Ministro da Fazenda
 
-# PROTOCOLO DA CONVENÇÃO ENTRE A REPUBLICA FEDERATIVA DO BRASIL<br>
-E A REPUBLICA DO CHILE PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR<br>
+# PROTOCOLO DA CONVENÇÃO ENTRE A REPUBLICA FEDERATIVA DO BRASIL
+
+E A REPUBLICA DO CHILE PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR
+
 A EVASÃO FISCAL EM RELAÇÃO AO IMPOSTO SOBRE A RENDA
 
         No momento da assinatura da Convenção entre a República Federativa do Brasil e a República do Chile para evitar a dupla tributação e prevenir a evasão fiscal em relação ao imposto sobre a renda, os signatários, para isso devidamente autorizados,     convieram nas seguintes disposições que constituem parte integrante desta Convenção.
@@ -566,10 +576,14 @@ A EVASÃO FISCAL EM RELAÇÃO AO IMPOSTO SOBRE A RENDA
 
         Feito em Santiago, em 03 de abril de 2001, em dois exemplares originais, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL<br>
-Everardo de Almeida Maciel<br>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+
+Everardo de Almeida Maciel
+
 Secretário da Receita Federal
 
-PELO GOVERNO DA REPÚBLICA DO CHILE<br>
-Nicolás Eyzaguirre Guzmán<br>
+PELO GOVERNO DA REPÚBLICA DO CHILE
+
+Nicolás Eyzaguirre Guzmán
+
 Ministro da Fazenda

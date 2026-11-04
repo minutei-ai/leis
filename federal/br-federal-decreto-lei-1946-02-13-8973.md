@@ -1,5 +1,3 @@
-###DEL-008973-0-000-13-02-1946@@@
-
 DECRETO-LEI N. 8.973 – DE 13 DE FEVEREIRO DE 1946
 
 Altera a redação de rubricas do “Plano de Obras e Equipamentos” para 1946:

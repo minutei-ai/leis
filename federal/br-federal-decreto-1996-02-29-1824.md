@@ -1,5 +1,3 @@
-###DEC-001824-0-000-29-02-1996@@@
-
 DECRETO Nº 1.824, DE 29 DE FEVEREIRO DE 1996
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Comercial Nº 27, Setor da Indústria do Vidro, entre Brasil e Venezuela, de 30 de dezembro de 1994.

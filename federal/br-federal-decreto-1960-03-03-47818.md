@@ -1,5 +1,3 @@
-###DEC-047818-0-000-03-03-1960@@@
-
 DECRETO Nº 47.818, DE 3 DE MARÇO DE1960.
 
 Suprime cargos extintos

@@ -1,5 +1,3 @@
-###DEC-094437-0-000-11-06-1987@@@
-
 DECRETO Nº 94.437, DE 11 DE JUNHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras, nos Municípios de Joselândia, Presidente Dutra e Santo Antônio dos Lopes, no Estado do Maranhão, e dá outras providências.

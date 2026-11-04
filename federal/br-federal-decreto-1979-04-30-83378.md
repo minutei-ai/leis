@@ -1,5 +1,3 @@
-###DEC-083378-0-000-30-04-1979@@@
-
 Decreto nº 83.378, de 30 de abril de 1979.
 
 Autoriza a conversão do curso de Matemática em curso de Ciências, com habilitação em Matemática, da Faculdade de Filosofia, Ciências e Letras de Cataguases, em Cataguases, Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-008038-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.038 – DE 4 DE OUTUBRO DE 1945
 
 Altera carreira no Quadro Permanente do Ministério da Agricultura e dá outras providências.

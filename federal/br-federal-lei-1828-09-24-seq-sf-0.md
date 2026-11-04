@@ -1,5 +1,3 @@
-###LEI-000000-0-000-24-09-1828@@@
-
 LEI - DE 24 DE SETEMBRO DE 1828
 
 Regula o fornecimento das rações de etapa do Exercito.
@@ -12,7 +10,7 @@ Art. 2º Ficam revogadas todas as leis, e ordens em contrario.
 
 Tabella da etapa para fornecimento dos corpos
 
-Farinha ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAgCAYAAACcuBHKAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA0ElEQVR4nGNgGAWjYJgAPiBOA+KTQBw+UI6oAOJnQPwfiCMGyhEgIDPqiFFHjDoCC+iBOgCGTwyUQ+gC/tMIjwKqAw8g/g7ENlC+DhBfYEAN9pdA7EcrB/hCHfAfyRE/GCA1qjyUzw3EC6FqTKjtgGAgvssAqcaRHQFil6CptUBTQxUQyQDxrRQWC+jiiHggXs8ACWZsFtDcEalAPAGImfBYQHNH/GPAX/hsoIcjsAF0C0C5A1R/IOeOBQw0yh24HIGtnHgFxP60csAoGAV0AQCd62GQpPq2/gAAAABJRU5ErkJggg==) de alqueire.
+Farinha ![](../assets/md-inline/5a58936930e7bcb9f4c3b6670bb4c47053b69014d0d4e53ab872c1d4af44013c.png) de alqueire.
 
 Carne fresca uma libra.
 
@@ -24,7 +22,7 @@ Sal uma onça.
 
 Lenha vinte e quatro onças.
 
-A ração de carne fresca de uma libra será substituida por meia libra de carne secca, e as quatro onças de arroz por ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAfCAYAAAD5h919AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAr0lEQVR4nGNgGAXDCQQB8XZaW8ICxK+A+AatLQIBmVGLRi2iq0U8QPwfis/Q2rKhCf5TEQ8egK/wjAbia0C8F8qPAOK/DBAfvAZiTWItwVd4lkMt8QRiTqjYDyB2hrIbgHgXsRaBALb8YgbEl4BYAE38CxLbBIgPUGrRSiDeAMQfGFCDiOoWPYQaxMiAGkRUt+gjDgOpbhEuA6luEa7URXaqw1V44sovZOejUTCCAQBBz1Lm3WWLxQAAAABJRU5ErkJggg==) de alqueire de feijão.
+A ração de carne fresca de uma libra será substituida por meia libra de carne secca, e as quatro onças de arroz por ![](../assets/md-inline/1fafad92117ebfe1eac5ad7970574924d2cf39a4e120a5ab6af78b6781031f5c.png) de alqueire de feijão.
 
 A ração de vinho, ou aguardente, será fornecida sómente quando os corpos se acham em exercicios.
 

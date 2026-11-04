@@ -1,5 +1,3 @@
-###DEC-060930-0-000-03-07-1967@@@
-
 DECRETO Nº 60.930, DE 3 DE JULHO DE 1967.
 
 Altera o art. 7º do Regulamento para Alojamento das Tripulações da Marinha Mercante, aprovado pelo Decreto nº 46.130, de 2 de junho de 1959.

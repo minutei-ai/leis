@@ -1,5 +1,3 @@
-###DEC-068019-0-000-31-12-1970@@@
-
 DECREto Nº 68.019, DE 31 DE DEZEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Instituto Nacional de Previdência Social cargo originário do Departamento Nacional de Estradas de Ferro e dá outras providências.

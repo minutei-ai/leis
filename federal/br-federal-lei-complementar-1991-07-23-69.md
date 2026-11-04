@@ -1,7 +1,3 @@
-1
-
-###LCP-000069-0-000-23-07-1991@@@
-
 # LEI COMPLEMENTAR N° 69, DE 23 DE JULHO DE 1991
 
 Dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas.

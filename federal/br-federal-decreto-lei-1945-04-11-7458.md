@@ -1,5 +1,3 @@
-###DEL-007458-0-000-11-04-1945@@@
-
 DECRETO-LEI N. 7.458 – DE 11 DE ABRIL DE 1945
 
 Incorpora o Montepio Operário dos Arsenais de Marinha e Diretoria do Armamento ao Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências

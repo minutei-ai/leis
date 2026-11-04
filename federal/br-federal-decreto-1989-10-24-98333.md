@@ -1,7 +1,3 @@
-1
-
-###DEC-098333-0-000-24-10-1989@@@
-
 DECRETO Nº 98.333, DE 24 DE OUTUBRO DE 1989
 
 Delega competência aos Ministros de Estado da Marinha, do Exército, e da Aeronáutica.

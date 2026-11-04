@@ -1,5 +1,3 @@
-###DEC-084944-0-000-22-07-1980@@@
-
 Decreto nº 84.944, de 22 de julho de 1980.
 
 Autoriza o funcionamento dos cursos de Administração, de Ciências e de Letras, da Fundação de Ensino Superior da Região Centro-Sul, com sede em Camaquã, Rio Grande do Sul.

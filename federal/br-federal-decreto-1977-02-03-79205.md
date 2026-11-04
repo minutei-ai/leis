@@ -1,5 +1,3 @@
-###DEC-079205-0-000-03-02-1977@@@
-
 DECRETO Nº 79.205, DE 3 DE FEVEREIRO DE 1977
 
 Acrescenta letra e parágrafo ao artigo 2º do Decreto nº 79.132, de 17 de janeiro de 1977.

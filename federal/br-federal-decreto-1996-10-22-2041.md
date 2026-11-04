@@ -1,7 +1,3 @@
-1
-
-###DEC-002041-0-000-22-10-1996@@@
-
 DECRETO N° 2.041, DE 22 DE OUTUBRO DE 1996.
 
 Fixa os preços mínimos básicos para os produtos agrícolas da safra de verão e para os produtos regionais 1996/97.

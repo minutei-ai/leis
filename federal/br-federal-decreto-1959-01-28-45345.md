@@ -1,5 +1,3 @@
-###DEC-045345-0-000-28-01-1959@@@
-
 Decreto nº 45.345, de 28 de janeiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Pederneiras, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002480-0-000-03-10-1988@@@
-
 # DECRETO‑LEI N° 2.480, DE 3 DE OUTUBRO DE 1988
 
 Dá nova redação ao artigo 1° do Decreto‑Lei n° 2.442, de 23 de junho de 1988.

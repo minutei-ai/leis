@@ -1,5 +1,3 @@
-###DEC-070299-0-000-20-03-1972@@@
-
 DECRETO Nº 70.299, DE 20 DE MARÇO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

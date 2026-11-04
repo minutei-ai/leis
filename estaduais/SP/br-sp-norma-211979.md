@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211979)<br>
-
 # DECRETO N° 70.199, DE 12 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

@@ -1,5 +1,3 @@
-###MPV-000478-0-000-29-12-2009@@@
-
 MEDIDA PROVISÓRIA Nº 478, DE 29 DE DEZEMBRO DE 2009.
 
 Dispõe sobre a extinção da Apólice do Seguro Habitacional do Sistema Financeiro da Habitação -  SH/SFH, altera a legislação tributária relativamente às regras de preços de transferência, e dá outras providências.

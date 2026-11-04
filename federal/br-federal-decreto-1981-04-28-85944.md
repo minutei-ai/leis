@@ -1,5 +1,3 @@
-###DEC-085944-0-000-28-04-1981@@@
-
 Decreto nº 85.944, de 28 de abril de 1981.
 
 Concede autorização à empresa HUSKY OIL INTERNATIONAL LTD. para operar no mar territorial do Brasil, fixado pelo Decreto-lei Nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A.- PETROBRÁS.

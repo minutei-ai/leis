@@ -1,5 +1,3 @@
-###DEC-006733-0-000-12-01-2009@@@
-
 DECRETO Nº 6.733, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Acordo de Sede entre o Governo da República Federativa do Brasil e a Liga dos Estados Árabes para a Instalação da Delegação Permanente da Liga dos Estados Árabes em Brasília, celebrado no Cairo, em 23 de abril de 2007.

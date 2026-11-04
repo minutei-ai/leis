@@ -1,7 +1,3 @@
-1
-
-###DEL-000723-0-000-31-07-1969@@@
-
 DECRETO-LEi Nº 723, DE 31 De JULHO DE 1969
 
 Dá nova redação ao artigo 26 do Decreto-lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração).

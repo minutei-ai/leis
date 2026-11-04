@@ -1,5 +1,3 @@
-###DEL-000044-0-000-07-12-1937@@@
-
 DECRETO-LEI N. 44 – DE 7 DE DEZEMBRO DE 1937
 
 Concede o título de engenheiro-angrônomo aos diplomados por estabelecimentos de ensino agronômico e dá outras providências

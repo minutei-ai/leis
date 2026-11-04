@@ -1,5 +1,3 @@
-###DEL-004409-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.409 – DE 25 De JUNHO DE 1942
 
 Autoriza a amortização da dívida com garantia hipotecária da Companhia Carbonífera Rio Grandense

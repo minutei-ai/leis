@@ -1,5 +1,3 @@
-###DEC-007332-0-000-19-10-2010-PUB-01@@@
-
 DECRETO Nº 7.332, DE 19 DE OUTUBRO DE 2010.
 
 Dá nova redação e acresce artigos ao Decreto no 5.209, de 17 de setembro de 2004, que regulamenta a Lei no 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

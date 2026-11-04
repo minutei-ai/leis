@@ -1,5 +1,3 @@
-###DEC-090785-0-000-31-12-1984@@@
-
 Decreto nº 90.785, de 31 de dezembro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da Nuclebrás Equipamentos Pesados S/A-NUCLEP.

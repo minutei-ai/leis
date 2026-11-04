@@ -1,5 +1,3 @@
-###DEL-009008-0-000-21-02-1946@@@
-
 DECRETO-LEI N. 9.008 – DE 21 DE FEVEREIRO DE 1946
 
 (\*) Modifica o Estandarte-distintivo do Regimento Sampaio

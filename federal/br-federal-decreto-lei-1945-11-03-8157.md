@@ -1,5 +1,3 @@
-###DEL-008157-0-000-03-11-1945@@@
-
 DECRETO-LEI N. 8.157 –  DE 3 DE NOVEMBRO DE 1945
 
 Revoga o artigo 143 do Decreto-lei n° 7.586, de 28 de maio de 1945

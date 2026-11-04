@@ -1,7 +1,3 @@
-1
-
-###DEC-001181-0-000-06-07-1994@@@
-
 DECRETO N° 1.181, DE 6 DE JULHO DE 1994
 
 Da nova redação aos arts. 1° e 7° do Decreto n° 969, de 3 de novembro de 1993, que dispõe sobre o benefício-alimentação destinado aos servidores civis dos órgãos da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

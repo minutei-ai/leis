@@ -1,5 +1,3 @@
-###DEL-007051-0-000-14-11-1944@@@
-
 DECRETO-LEI N. 7.051 – DE 14 DE NOVEMBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 9.935,00, para pagamento de gratificação de magistério

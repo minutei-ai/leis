@@ -1,5 +1,3 @@
-###DEC-003802-0-000-23-04-2001@@@
-
 DECRETO N° 3.802, DE 23 DE ABRIL DE 2001
 
 Delega competência ao Chefe da Casa Civil da Presidência da República para a prática do ato que menciona.

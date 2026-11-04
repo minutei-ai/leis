@@ -1,5 +1,3 @@
-###DEC-068126-0-000-28-01-1971@@@
-
 DECRETO Nº 68.126, DE 28 DE JANEIRO DE 1971.
 
 Declara de utilidade Público Sociedade Beneficente São Vicente de Paula, com sede em Osório, Estado do Rio Grande do Sul.

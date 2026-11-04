@@ -1,5 +1,3 @@
-###DEC-062480-0-000-28-03-1968@@@
-
 DECRETO Nº 62.480, DE 28 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Instituto dos Advogados de São Paulo” com sede em São Paulo, Estado de São Paulo.

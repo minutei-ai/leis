@@ -1,6 +1,10 @@
 > **LEI Nº 4.182, DE 11 DE OUTUBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a regulamentação da Junta Administrativa de Recurso de Infração - JARI, conforme a Lei Federal nº 9.503, de 23 de setembro de 1997, que instituiu o Código de Trânsito Brasileiro - CTB.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a regulamentação da Junta Administrativa de Recurso de Infração - JARI, conforme a Lei Federal nº 9.503, de 23 de setembro de 1997, que instituiu o Código de Trânsito Brasileiro - CTB.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

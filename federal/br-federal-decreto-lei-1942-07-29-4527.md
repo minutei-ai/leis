@@ -1,5 +1,3 @@
-###DEL-004527-0-000-29-07-1942@@@
-
 DECRETO-LEI N. 4.527 – DE 29 DE JULHO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de 5.400:000$0, para aparelhagem e instalação do Hospital dos Servidores do Estado

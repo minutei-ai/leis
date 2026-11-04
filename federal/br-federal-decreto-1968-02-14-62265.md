@@ -1,5 +1,3 @@
-###DEC-062265-0-000-14-02-1968@@@
-
 DECRETO Nº 62.265, DE 14 DE FEVEREIRO DE 1968.
 
 Autoriza Jorge Salomó Minguell a comprar pedras preciosas.

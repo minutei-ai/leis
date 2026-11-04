@@ -1,5 +1,3 @@
-###DEC-000000-0-000-14-02-1823@@@
-
 DECRETO - DE 14 DE FEVEREIRO DE 1823
 
 Manda commutar a pena ultima a que estão sujeitos diversos réos militares, em degredo perpetuo e trabalho de fortificação.

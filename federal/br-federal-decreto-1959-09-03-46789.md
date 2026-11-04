@@ -1,5 +1,3 @@
-###DEC-046789-0-000-03-09-1959@@@
-
 Decreto nº 46.789, de 3 de setembro de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Mauá Companhia de Seguros Gerais.

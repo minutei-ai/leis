@@ -1,5 +1,3 @@
-###DEC-083725-0-000-16-07-1979@@@
-
 Decreto nº 83.725, de 16 de julho de 1979.
 
 Concede à empresa EXPRESO MAIPU SOCIEDAD ANONIMA COMERCIAL, INDUSTRIAL Y FINANCEIRA, autorização para funcionar na República Federativa do Brasil.

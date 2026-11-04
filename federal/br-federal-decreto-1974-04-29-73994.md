@@ -1,5 +1,3 @@
-###DEC-073994-0-000-29-04-1974@@@
-
 DECRETO nº 73.994, de 29 de abril de 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Educação e Estudos Sociais de Araraquara, mantida pela Associação São Bento de Ensino, com sede na cidade de Araraquara, Estado de São Paulo.

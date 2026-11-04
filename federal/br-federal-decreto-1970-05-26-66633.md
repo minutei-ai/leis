@@ -1,5 +1,3 @@
-###DEC-066633-0-000-26-05-1970@@@
-
 DECRETO Nº 66.633, DE 26 DE MAIO DE 1970.
 
 Concede à firma individual Antônio de Barros Motta o direito de lavrar talco, no município de Ribeirão Branco, Estado de S. Paulo.

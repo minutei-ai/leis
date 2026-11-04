@@ -1,5 +1,3 @@
-###DEC-007373-0-000-26-11-2010-PUB-01@@@
-
 DECRETO Nº 7.373, DE 26 DE NOVEMBRO DE 2010.
 
 Cria o Conselho Gestor do Plano de Desenvolvimento Sustentável da Região Turística do Meio-Norte - PDSRT do Meio Norte.

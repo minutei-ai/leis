@@ -1,5 +1,3 @@
-###DEC-073363-0-000-26-12-1973@@@
-
 DECRETO Nº 73.363 - DE 26 DE DEZEMBRO DE 1973
 
 Concede reconhecimento à Faculdade de Direito de Piracicaba, mantida pelo Instituto Educacional Piracicabano, com sede na Cidade de Piracicaba, Estado de São Paulo.

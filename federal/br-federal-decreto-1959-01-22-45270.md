@@ -1,5 +1,3 @@
-###DEC-045270-0-000-22-01-1959@@@
-
 DECRETO Nº 45.270, DE 22 DE JANEIRO DE 1959.
 
 Regulamenta a Lei nº 3.381, de 24 de abril de 1958, e dá outras providências.

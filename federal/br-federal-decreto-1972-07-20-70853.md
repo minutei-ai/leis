@@ -1,5 +1,3 @@
-###DEC-070853-0-000-20-07-1972@@@
-
 DECRETO Nº 70.853, DE 20 DE JUlHO DE 1972.
 
 Concede a P. Amaral Sobreira, firma individual, o direito de lavrar minério de ferro no município de Antônio Dias, Estado de Minas Gerais.

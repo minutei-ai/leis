@@ -1,5 +1,3 @@
-###DEC-071813-0-000-07-02-1973@@@
-
 DECRETO Nº 71.813, DE 7 DE FEVEREIRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

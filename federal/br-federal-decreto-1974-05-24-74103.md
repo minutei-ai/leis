@@ -1,5 +1,3 @@
-###DEC-074103-0-000-24-05-1974@@@
-
 DECRETO Nº 74.103, de 24 de MAIO DE 1974
 
 Retifica o Decreto nº 70.412, de 14 de abril de 1972, que declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na cidade de Blumenau, Estado de Santa Catarina , destinado à instalação da central de telex e de comutação telefônica automática e serviços afins, integrantes do Sistema Nacional de Telecomunicações.

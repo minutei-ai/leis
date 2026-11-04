@@ -1,5 +1,3 @@
-###DEL-005162-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.162 – DE 31 DE DEZEMBRO DE 1942
 
 Dispõe sobre a remodelação dos serviços de bondes no Distrito Federal, revisão dos contratos em vigor, concessão de um aumento condicional de tarifas, e dá outras providências

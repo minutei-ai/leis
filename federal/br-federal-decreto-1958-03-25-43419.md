@@ -1,14 +1,12 @@
-###DEC-043419-0-000-25-03-1958@@@
+**DECRETO Nº 43.419, DE 25 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.419, DE 25 DE MARÇO DE 1958.</strong>
+***Altera o Regulamento do Gabinete do Ministro da Aeronáutica.***
 
-<em><strong>Altera o Regulamento do Gabinete do Ministro da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam alterados os artigos 12, 13, 14 e 24 do Regulamento do Gabinete do Ministro da Aeronáutica aprovado pelo Decreto nº 35.545, de 21 de maio de 1954, que passam a vigorar com a seguinte redação:
+**Art**. 1º Ficam alterados os artigos 12, 13, 14 e 24 do Regulamento do Gabinete do Ministro da Aeronáutica aprovado pelo Decreto nº 35.545, de 21 de maio de 1954, que passam a vigorar com a seguinte redação:
 
 “Art. 12. As Seções de Estudo e Informações serão em número mínimo de seis (6) e terão sua constituição e atribuições fixadas pelo Ministro”.
 
@@ -18,10 +16,10 @@
 
 “Art. 24. Para atender aos encargos previstos no art. 2º dêste Regulamento, poderá o Gabinete dispor de sete (7) Auxiliares de Gabinete, civis designados pelo Ministro”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 25 de março de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/111c7681-0ef6-44d9-8126-e5eeaf78ca8f/texto#nowhere)
 
-###DEL-000373-0-000-20-12-1968@@@
-
 DECRETO-LEI Nº 373, DE 20 DE DEZEMBRO DE 1968
 
 Reajusta os vencimentos dos servidores da Secretaria e dos Serviços Auxiliares do Tribunal de Justiça do Distrito Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068919-0-000-15-07-1971@@@
-
 DECRETO Nº 68.919, DE 15 DE JULHO DE 1971.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno, feita pela Municipalidade de Caravelas, Bahia, para a instalação da sede da Agência da Capitania dos Portos do Estado da Bahia em Caravelas.

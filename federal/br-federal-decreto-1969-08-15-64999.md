@@ -1,5 +1,3 @@
-###DEC-064999-0-000-15-08-1969@@@
-
 DECRETO Nº 64.999 - DE 15 DE AGÔSTO DE 1969.
 
 Provê sôbre a cessão de prédio da Escola Industrial Federal do Pará ao Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-075054-0-000-06-12-1974@@@
-
 DECRETO Nº 75.054, DE 6 DE DEZEMBRO DE 1974.
 
 Aprova alteração introduzida nos Estatutos da Centrais, Elétricas Brasileiras S.A. - ELETROBRÁS.

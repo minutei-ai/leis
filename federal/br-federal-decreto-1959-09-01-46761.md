@@ -1,5 +1,3 @@
-###DEC-046761-0-000-01-09-1959@@@
-
 decreto nº 46.761, de 1 de setembro de 1959.
 
 Autoriza a Comissão do Vale do São Francisco a aceitar a doação do terreno onde deverá ser perfurado um poço profundo, no Município de Jacobina, no Estado da Bahia, e a instituição de servidão.

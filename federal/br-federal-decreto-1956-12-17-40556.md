@@ -1,22 +1,20 @@
-###DEC-040556-0-000-17-12-1956@@@
+**DECRETO Nº 40.556, DE 17 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.556, DE 17 DE DEZEMBRO DE 1956.</strong>
+***Regula o uso das condecorações nos uniformes militares e dá outras providências.***
 
-<em><strong>Regula o uso das condecorações nos uniformes militares e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Os militares das Fôrças Armadas (Marinha, Exército e Aeronáutica) e Fôrças Auxiliares (Polícia Militar do Distrito Federal e Corpo de Bombeiros do Distrito Federal) usarão, em seus uniformes, as condecorações nacionais discriminadas no art. 2º, e as condecorações estrangeiras e internacionais na forma do que estabelecem os arts. 3º e 4º, do presente Regulamento.
 
-<strong>Art</strong>. 1º Os militares das Fôrças Armadas (Marinha, Exército e Aeronáutica) e Fôrças Auxiliares (Polícia Militar do Distrito Federal e Corpo de Bombeiros do Distrito Federal) usarão, em seus uniformes, as condecorações nacionais discriminadas no art. 2º, e as condecorações estrangeiras e internacionais na forma do que estabelecem os arts. 3º e 4º, do presente Regulamento.
-
-<strong>Art</strong>. 2º As condecorações nacionais cujo uso é autorizado nos uniformes militares são as seguintes:
+**Art**. 2º As condecorações nacionais cujo uso é autorizado nos uniformes militares são as seguintes:
 
 a) destinadas a premiar a bravura militar:
 
 \- Cruz Naval (M)
 
-\- Cruz de Combate de 1<sup>a</sup> e 2<sup>a</sup> classes (E)
+\- Cruz de Combate de 1ª e 2ª classes (E)
 
 \- Cruz de Bravura (A);
 
@@ -82,7 +80,7 @@ h) destinadas a reconhecer serviços prestados às Fôrças Armadas:
 
 i) destinadas a premiar serviços extraordinários prestados à humanidade:
 
-\- Medalhas de Distinção de 1<sup>a</sup> e 2<sup>a</sup> classes (Decreto nº 58 de 14 de dezembro de 1889);
+\- Medalhas de Distinção de 1ª e 2ª classes (Decreto nº 58 de 14 de dezembro de 1889);
 
 j) destinadas a premiar a aplicação aos estudos militares ou à instrução militar:
 
@@ -114,19 +112,19 @@ j) destinadas a premiar a aplicação aos estudos militares ou à instrução mi
 
 \- Medalhas-prêmios do Colégio Militar "Duque de Caxias", "Almirante Barroso", "Marques do Herval", "Visconde de Inhaúma", "Conde de Pôrto Alegre", "Marques de Tamandaré", "Marechal Deodoro", "Marechal Carlod Machado", "General Polidoro", "General Benjamin Constant", "Barão do Rio Branco" - Decretos números 10.202, de 9-3-1889.371, de 2-5-1890, 750-A, de 2-3-1892, 6.465, de 29 de abril de 1907, 9.677, de 24-7-1912, 12.956, de 10-4-1918, 15.416, de 27 de março de 1922, 18.729, de 2-5-1929, 53, de 11-9-1934, 3.809, de 13-3-1939 e 12.277 de 19-4-1943.
 
-<strong>Art</strong>. 3º As condecorações estrangeiras de uso autorizado nos uniformes militares serão as concedidas pelos Governos das nações amigas para premiar serviços de natureza essencialmente militar.
+**Art**. 3º As condecorações estrangeiras de uso autorizado nos uniformes militares serão as concedidas pelos Governos das nações amigas para premiar serviços de natureza essencialmente militar.
 
-<strong>Art</strong>. 4º As condecorações de caráter internacional de uso autorizado nos uniformes militares serão as concedidas por organização mundial ou continental de que participe o Brasil, ou, em nome delas, por Govêrno de nação amiga, para premiar serviços de natureza essencialmente militar.
+**Art**. 4º As condecorações de caráter internacional de uso autorizado nos uniformes militares serão as concedidas por organização mundial ou continental de que participe o Brasil, ou, em nome delas, por Govêrno de nação amiga, para premiar serviços de natureza essencialmente militar.
 
-<strong>Art</strong>. 5º Os militares agraciados com condecorações enquadradas nos artigos 3º e 4º do presente Regulamento deverão submeter ao Ministério respectivo o diploma correspondente ou ato de concessão para a devida apreciação e posterior publicação no Boletim da fôrça respectiva.
+**Art**. 5º Os militares agraciados com condecorações enquadradas nos artigos 3º e 4º do presente Regulamento deverão submeter ao Ministério respectivo o diploma correspondente ou ato de concessão para a devida apreciação e posterior publicação no Boletim da fôrça respectiva.
 
 Parágrafo único. Somente após o cumprimento do que prescreve êste artigo ficará concretizada a autorização para uso da condecoração outorgada dentro das especificações dos artigos 3º e 4º.
 
-<strong>Art</strong>. 6º As condecorações serão usadas obrigatoriamente nas paradas e desfiles, nas recepções e cerimônias em que assim fôr determinado ou quando o uniforme prescrito para o ato ou solenidade fixar expressamente essa obrigatoriedade, de acôrdo com os Regulamentos e Planos de Uniformes da Fôrça respectiva.
+**Art**. 6º As condecorações serão usadas obrigatoriamente nas paradas e desfiles, nas recepções e cerimônias em que assim fôr determinado ou quando o uniforme prescrito para o ato ou solenidade fixar expressamente essa obrigatoriedade, de acôrdo com os Regulamentos e Planos de Uniformes da Fôrça respectiva.
 
-<strong>Art</strong>. 7º As barretas serão usadas em substituição às condecorações, nos uniformes que assim estipulem, quando fôr determinado por autoridade competente ou a critério de seus possuidores, nos uniformes de passeio.
+**Art**. 7º As barretas serão usadas em substituição às condecorações, nos uniformes que assim estipulem, quando fôr determinado por autoridade competente ou a critério de seus possuidores, nos uniformes de passeio.
 
-<strong>Art</strong>. 8º As faixas, comendas e placas serão usadas de acôrdo com as seguintes normas:
+**Art**. 8º As faixas, comendas e placas serão usadas de acôrdo com as seguintes normas:
 
 a) será usada apenas uma faixa de cada vez, colocada a tiracolo, do ombro direito para o quadril esquerdo, por baixo da dragona ou platina e do talim ou cinto. Será dada prioridade à faixa de condecoração nacional, nas solenidades e atos oficiais, no Brasil ou no estrangeiro;
 
@@ -134,7 +132,7 @@ b) o uso de faixa de determinada condecoração implicará na obrigatoriedade do
 
 c) em solenidades e atos oficiais nacionais, no Brasil ou no estrangeiro, terão prioridade de uso comendas e placas referentes a condecorações nacionais.
 
-<strong>Art</strong>. 9º As condecorações usadas no peito serão colocadas em linha horizontal, do lado esquerdo, acima do bolso superior, a partir da linha dos botões, em fileiras de quatro, no máximo, umas abaixo das outras, na seguinte ordem:
+**Art**. 9º As condecorações usadas no peito serão colocadas em linha horizontal, do lado esquerdo, acima do bolso superior, a partir da linha dos botões, em fileiras de quatro, no máximo, umas abaixo das outras, na seguinte ordem:
 
 1\) as nacionais de bravura;
 
@@ -166,17 +164,17 @@ c) em solenidades e atos oficiais nacionais, no Brasil ou no estrangeiro, terão
 
 § 5º As prescrições do presente artigo serão também observadas quando forem usadas as barretas em lugar das condecorações.
 
-<strong>Art</strong>. 10. Os diferentes Ministérios fixarão, nos Regulamentos de Uniformes para a respectiva fôrça, os detalhes referentes ao uso de condecorações no que não colidir com o estatuído no presente Regulamento.
+**Art**. 10. Os diferentes Ministérios fixarão, nos Regulamentos de Uniformes para a respectiva fôrça, os detalhes referentes ao uso de condecorações no que não colidir com o estatuído no presente Regulamento.
 
-<strong>Art</strong>. 11. As condecorações que vierem a ser criadas posteriormente à promulgação do presente Regulamento terão seu uso nos uniformes militares regulado em ato do Poder Executivo, que fixará expressamente a sua inclusão numa das categorias fixadas no art. 2º e a sua precedência em relação às aí relacionadas.
+**Art**. 11. As condecorações que vierem a ser criadas posteriormente à promulgação do presente Regulamento terão seu uso nos uniformes militares regulado em ato do Poder Executivo, que fixará expressamente a sua inclusão numa das categorias fixadas no art. 2º e a sua precedência em relação às aí relacionadas.
 
-<strong>Art</strong>. 12. O presente Regulamento conterá, em separata, um resumo da legislação nele indicada, bem como os modêlos das condecorações citadas no artigo 2º.
+**Art**. 12. O presente Regulamento conterá, em separata, um resumo da legislação nele indicada, bem como os modêlos das condecorações citadas no artigo 2º.
 
-<strong>Art</strong>. 13. O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 13. O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 17 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 

@@ -1,5 +1,3 @@
-###DEC-051318-0-000-02-09-1961@@@
-
 DECRETO Nº 51.318, DE 2 DE SETEMBRO DE 1961.
 
 Dispõe sôbre transferência de alunos matriculados em Brasília, no corrente ano letivo.

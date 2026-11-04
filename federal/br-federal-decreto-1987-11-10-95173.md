@@ -1,5 +1,3 @@
-###DEC-095173-0-000-10-11-1987@@@
-
 DECRETO N° 95.173, DE 10 DE NOVEMBRO DE 1987
 
 Aprova o Plano Geral de Convocação para o Serviço Militar Inicial nas Forças Armadas em 1989.

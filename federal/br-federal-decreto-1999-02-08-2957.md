@@ -1,5 +1,3 @@
-###DEC-002957-0-000-08-02-1999@@@
-
 DECRETO Nº 2.957, DE 8 DE FEVEREIRO DE 1999.
 
 Dá nova redação ao art. 2º do Decreto nº 2.947, de 26 de janeiro de 1999, que dispõe sobre delegação de competência para a prática de atos de provimento no âmbito da Administração Pública Federal.

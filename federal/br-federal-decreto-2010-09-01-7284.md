@@ -1,5 +1,3 @@
-###DEC-007284-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.284, DE 1º DE SETEMBRO DE 2010.
 
 Dispõe sobre a incorporação ao ordenamento jurídico brasileiro do texto do Septuagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica no 18 (74PA-ACE18), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, em 31 de maio de 2010.

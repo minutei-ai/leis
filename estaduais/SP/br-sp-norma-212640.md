@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212640)<br>
-
 # DECRETO N° 70.633, DE 21 DE MAIO DE 2026
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Piedade, que declarou Situação de Emergência em áreas do Município._

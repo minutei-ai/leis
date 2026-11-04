@@ -1,5 +1,3 @@
-###DEC-052430-0-000-02-09-1963@@@
-
 Decreto nº 52.430, de 2 de setembro de 1963.
 
 Autoriza o IPASE a assinar convênio com “A Eqüitativa dos Estados Unidos do Brasil, sociedade Mútua de seguros Gerais”.

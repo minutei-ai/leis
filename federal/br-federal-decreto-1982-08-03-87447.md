@@ -1,5 +1,3 @@
-###DEC-087447-0-000-03-08-1982@@@
-
 DECRETO Nº 87.447, DE 03 DE AGOSTO DE 1982.
 
 Renova por 10 (dez) anos a concessão outorgada à RADIO EDUCADORA DE PARNAÍBA S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Parnaíba, Estado do Piauí.

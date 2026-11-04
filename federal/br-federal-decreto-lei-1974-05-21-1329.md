@@ -1,5 +1,3 @@
-###DEL-001329-0-000-21-05-1974@@@
-
 # DECRETO-LEI Nº 1.329, DE 21 DE MAIO DE 1974
 
 Dispõe sobre a remessa de valores para o exterior

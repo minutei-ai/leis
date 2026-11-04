@@ -1,5 +1,3 @@
-###DEC-075196-0-000-08-01-1975@@@
-
 DECRETO Nº 75.196, DE 8 DE JANEIRO DE 1975.
 
 Concede a Cerâmica Porto Ferreira Ltda., o direito de lavrar argila no Município de Descalvado, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095794-0-000-08-03-1988@@@
-
 DECRETO N° 95.794, DE 8 DE MARÇO DE 1988
 
 Renova a concessão outorgada à Rádio Camboriú Ltda., para explorar serviço de radiodifusão sonora em onde média, na cidade de Camboriú, Estado de Santa Catarina.

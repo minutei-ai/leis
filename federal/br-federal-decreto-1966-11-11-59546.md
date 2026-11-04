@@ -1,5 +1,3 @@
-###DEC-059546-0-000-11-11-1966@@@
-
 DECRETO Nº 59.546, DE 11 DE NOVEMBRO DE 1966.
 
 Abre ao Ministério da Agricultura, o crédito especial de Cr$15.093.341.026 (quinze bilhões, noventa e três milhões, trezentos e quarenta e um mil e vinte e seis cruzeiros), para o fim que se especifica.

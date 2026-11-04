@@ -1,36 +1,34 @@
-###DEC-027599-0-000-15-12-1949@@@
+**DECRETO Nº 27.599, DE 15 DE DEZEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.599, DE 15 DE DEZEMBRO DE 1949.</strong>
+***Aprova o Regimento da Comissão Permanente de Crenologia do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento da Comissão Permanente de Crenologia do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Comissão Permanente de Crelologia (C .P. C.) que, assinado pelo Ministro de Estado dos Negócios da Agricultura, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Comissão Permanente de Crelologia (C .P. C.) que, assinado pelo Ministro de Estado dos Negócios da Agricultura, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de Dezembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho
 
-<strong>REGIMENTO DA COMISSÃO PERMANENTE DE CRENOLOGIA</strong>
+**REGIMENTO DA COMISSÃO PERMANENTE DE CRENOLOGIA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Comissão Permanente de Crenologia (C. P. C.), instituída pelo decreto-lei nº 7.841, de 8 de agôsto de 1945, é órgão integrante do Ministério da Agricultura, diretamente subordinado ao Ministro de Estado, tendo por finalidade colaborar no fiel cumprimento do Código de Águas Minerais.
+**Art**. 1º A Comissão Permanente de Crenologia (C. P. C.), instituída pelo decreto-lei nº 7.841, de 8 de agôsto de 1945, é órgão integrante do Ministério da Agricultura, diretamente subordinado ao Ministro de Estado, tendo por finalidade colaborar no fiel cumprimento do Código de Águas Minerais.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A  C. P. C. será presidida pelo Diretor Geral do Departamento Nacional da Produção Mineral e se comporá de quatro especialistas no assunto, designados pelo Presidente da República.
+**Art**. 2º A  C. P. C. será presidida pelo Diretor Geral do Departamento Nacional da Produção Mineral e se comporá de quatro especialistas no assunto, designados pelo Presidente da República.
 
 § 1º - Um dos membros a que se refere êste artigo será escolhido entre o pessoal técnico especializado do Laboratório da Produção Mineral do D. N. P. M.
 
@@ -38,13 +36,13 @@ Daniel de Carvalho
 
 § 3º - O Ministro da Agricultura poderá designar até dez especialistas para participarem dos trabalhos da Comissão, como membros honorários, não remunerados, com as mesmas, as regalias dos membros efetivos, exceto o direito de voto.
 
-<strong>Art</strong>. 3º A.C. P.  C. terá um secretário designado pelo Ministro de Estado e escolhido entre servidores públicos federais.
+**Art**. 3º A.C. P.  C. terá um secretário designado pelo Ministro de Estado e escolhido entre servidores públicos federais.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA</em>
+*DA COMPETÊNCIA*
 
-<strong>Art</strong>. 4º À C. P. C. compete:
+**Art**. 4º À C. P. C. compete:
 
 I) - estabelecer os princípios para classificação das águas minerais, termais, gasosas, potáveis de mesa ou destinadas a fins balneários, colaborando com o D. N. P. M., em casos específicos.
 
@@ -74,11 +72,11 @@ XIII)- propor e incentivar a publicação de trabalho especializados e dar parec
 
 XIV) - opinar, dentro da órbita do D. N. P. M., em todo processo e assunto que lhe fôr presente e que se refira ao Código de Águas Minerais ou, de modo geral, à sua exploração técnico-industrial.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 5º Ao Presidente da C. P. C. compete:
+**Art**. 5º Ao Presidente da C. P. C. compete:
 
 I) - despachar com o Ministro de Estado;
 
@@ -100,7 +98,7 @@ IX) - autorizar a publicações de acôrdo com a deliberação da C. P. C.
 
 X) - providenciar sôbre requisição de transporte, franquia postal e telegráfica para os membros ou auxiliares da C. P. C., quando em objeto de serviço.
 
-<strong>Art</strong>. 6º A cada membro da C. P. C. compete:
+**Art**. 6º A cada membro da C. P. C. compete:
 
 I) - comparecer às sessões;
 
@@ -112,7 +110,7 @@ IV) - relatar os assuntos que lhe forem distribuídos, apresentando conclusões;
 
 V) - efetuar estudos e inspeções técnica sôbre questões ligadas á competência da C. P. C.;
 
-<strong>Art</strong>. 7º Ao Secretário compete:
+**Art**. 7º Ao Secretário compete:
 
 I) - organizar e manter em dia todos os serviços de expediente e de arquivo;
 
@@ -120,7 +118,7 @@ II) - redigir tôda correspondência e submetê-la à assinatura do Presidente;
 
 III) - assistir às sessões da C. P. C. e redigir as atas para serem submetidas à aprovação no dia seguinte;
 
-IV) - enviar as atas ou seu resumo, conforme deliberação do Presidente, para publicação no <em>Diário Oficial</em>;
+IV) - enviar as atas ou seu resumo, conforme deliberação do Presidente, para publicação no *Diário Oficial*;
 
 V) - auxiliar o Presidente na redação do relatório anual;
 
@@ -134,23 +132,23 @@ IX) - receber, registrar e distribuir, expedir e guardar a correspondência ofic
 
 X) - prestar aos interessados informação sôbre andamento de papéis.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 8º A C. P. C. terá a lotação que fôr aprovada por decreto.
+**Art**. 8º A C. P. C. terá a lotação que fôr aprovada por decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 9º O horário normal de trabalho da C. P. C. será fixado pelo Presidente, respeitado o número de horas semanais ou mensais estabelecido no Serviço Público Civil para órgão de sua natureza.
+**Art**. 9º O horário normal de trabalho da C. P. C. será fixado pelo Presidente, respeitado o número de horas semanais ou mensais estabelecido no Serviço Público Civil para órgão de sua natureza.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 10. Serão substituídos automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 10. Serão substituídos automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I) - O Presidente, por um dos membros da C. P. C., designado pelo Ministro de Estado, por indicação do referido Presidente;
 
@@ -158,28 +156,28 @@ II) - O Secretário, por servidor indicado pelo Presidente e designado pelo Mini
 
 Parágrafo único. - Haverá, sempre, servidores designados prèviamente para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 11. A C. P. C. reunir-se-á, no mínimo, três vêzes por mês, e, em casos especiais, tantas vêzes quantas se fizerem necessárias, mediante convocação do Presidente.
+**Art**. 11. A C. P. C. reunir-se-á, no mínimo, três vêzes por mês, e, em casos especiais, tantas vêzes quantas se fizerem necessárias, mediante convocação do Presidente.
 
-<strong>Art</strong>. 12. As sessões só se poderão realizar com presença de, pelo menos, três dos membros da C. P. C.
+**Art**. 12. As sessões só se poderão realizar com presença de, pelo menos, três dos membros da C. P. C.
 
 § 1º As deliberações serão tomadas por maioria absoluta.
 
 § 2º O Presidente da C. P. C. sòmente terá direito ao voto de qualidade.
 
-<strong>Art</strong>. 13. As propostas ou projetos apresentados por um ou mais membros da C. P. C. serão submetidos a discussão e a aprovação desta.
+**Art**. 13. As propostas ou projetos apresentados por um ou mais membros da C. P. C. serão submetidos a discussão e a aprovação desta.
 
-<strong>Art</strong>. 14. Será considerado resignatário qualquer membro da C. P. C. que, sem causa justificada, faltar a quatro sessões ordinárias consecutivas.
+**Art**. 14. Será considerado resignatário qualquer membro da C. P. C. que, sem causa justificada, faltar a quatro sessões ordinárias consecutivas.
 
 Parágrafo único. - Aberta vaga de membro da Comissão, o Presidente comunicará ao Ministro da Agricultura e proporá seu preenchimento.
 
-<strong>Art</strong>. 15. As conclusões a que chegar qualquer subcomissão nomeada de acôrdo com o item V do Art. 5º dêste Regimento, serão convenientemente formuladas em relatório especial apresentado ao Presidente, que o submeterá à deliberação da C. P. C.
+**Art**. 15. As conclusões a que chegar qualquer subcomissão nomeada de acôrdo com o item V do Art. 5º dêste Regimento, serão convenientemente formuladas em relatório especial apresentado ao Presidente, que o submeterá à deliberação da C. P. C.
 
-<strong>Art</strong>. 16. Os casos omissos serão solucionados pelo Ministro da Agricultura.
+**Art**. 16. Os casos omissos serão solucionados pelo Ministro da Agricultura.
 
 Rio de Janeiro, em 15 de Dezembro de 1949.
 
-<strong>DANIEL DE CARVALHO</strong>
+**DANIEL DE CARVALHO**

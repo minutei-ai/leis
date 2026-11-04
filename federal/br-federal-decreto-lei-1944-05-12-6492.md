@@ -1,5 +1,3 @@
-###DEL-006492-0-000-12-05-1944@@@
-
 DECRETO-LEI N. 6.492 – DE 12 DE MAIO DE 1944
 
  Cria a 10ª Companhia de Transmissões

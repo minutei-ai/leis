@@ -1,5 +1,3 @@
-###DEC-079694-0-000-11-05-1977@@@
-
 DECRETO Nº 79.694, DE 11 DE MAIO DE 1977.
 
 Dispõe sobre a incorporação de bens ao patrimônio da Companhia Brasileira de Armazenamento - CIBRAZEM e dá outras providências.

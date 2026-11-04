@@ -1,5 +1,3 @@
-###DEC-083844-0-000-14-08-1979@@@
-
 DECRETO Nº 83.844, DE 14 DE AGOSTO DE 1979.
 
 Altera a redação do artigo 7º do Decreto nº 77.336, de 25 de março de 1976, que dispõe sobre o Grupo-Direção e Assessoramento Superiores (DAS).

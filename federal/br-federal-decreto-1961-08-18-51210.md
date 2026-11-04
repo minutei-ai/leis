@@ -1,5 +1,3 @@
-###DEC-051210-0-000-18-08-1961@@@
-
 Decreto nº 51.210, de 18 de agôsto de 1961.
 
 Altera a denominação da Universidade do Rio de Janeiro.

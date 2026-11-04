@@ -1,5 +1,3 @@
-###DEL-000835-0-000-08-09-1969@@@
-
 DECRETO-LEI Nº 835, DE 8 DE setembRo DE 1969
 
 Regula a aplicação dos Fundos previstos nos incisos I, II e III do artigo 26 da Constituição.

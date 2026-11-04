@@ -1,5 +1,3 @@
-###DEC-091819-0-000-22-10-1985@@@
-
 Decreto nº 91.819, de 22 de outubro de 1985
 
 Renova a concessão outorgada à TV RECORD DE RIO PRETO S/A, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de São José do Rio Preto, Estado de São Paulo.

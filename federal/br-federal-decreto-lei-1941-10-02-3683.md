@@ -1,5 +1,3 @@
-###DEL-003683-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.683 – DE 2 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 3.127:200$0, para estudos de jazidas de minérios

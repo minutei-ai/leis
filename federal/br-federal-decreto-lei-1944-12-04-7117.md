@@ -1,5 +1,3 @@
-###DEL-007117-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.117 – DE 4 DE DEZEMBRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 4.229, de 2 de abril de 1942, prorrogada pelo de nº 6.037, de 25 de novembro de 1943.

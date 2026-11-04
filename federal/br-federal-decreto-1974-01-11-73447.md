@@ -1,5 +1,3 @@
-###DEC-073447-0-000-11-01-1974@@@
-
 DECRETO Nº 73.447, DE 11 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 64.266, de 21 de março de 1969, através do qual foi concedido à Liz S.A. - Comércio e Beneficiamento de Calcário o direito de lavrar calcário, no Município de Laranjeiras, Estado de Sergipe.

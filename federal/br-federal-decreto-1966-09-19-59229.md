@@ -1,5 +1,3 @@
-###DEC-059229-0-000-19-09-1966@@@
-
 DECRETO N.º 59.229, DE 19 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Francisco França de Carvalho a pesquisar cristal de rocha, no município de Sete Lagoas, Estado de Minas Gerais.

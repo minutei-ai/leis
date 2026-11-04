@@ -1,5 +1,3 @@
-###DEL-005069-0-000-11-12-1942@@@
-
 DECRETO-LEI N. 5.069 – DE 11 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 85.000,00 para atender a despesas com as solenidades de formatura na Universidade do Brasil.

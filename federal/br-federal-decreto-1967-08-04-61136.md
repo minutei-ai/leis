@@ -1,5 +1,3 @@
-###DEC-061136-0-000-04-08-1967@@@
-
 DECRETO Nº 61.136, DE 4 DE AGÔSTO DE 1967.
 
 Extingue as Seções de Mecanização do Ministério da Fazenda e dá outras providências.

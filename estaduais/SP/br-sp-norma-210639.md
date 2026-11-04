@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210639)<br>
-
 # DECRETO N° 69.364, DE 19 DE FEVEREIRO DE 2025
 
 ### _Autoriza a outorga de uso, à Fundação Centro de Atendimento Socioeducativo ao Adolescente - Fundação CASA, de parte do imóvel que especifica, e dá providências correlatas._

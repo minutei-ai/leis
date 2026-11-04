@@ -1,5 +1,3 @@
-###DEC-054097-0-000-05-08-1964@@@
-
 DECRETO Nº 54.097, DE 5 AGôSTO DE 1964.
 
 Exclui da proibição constante do Decreto nº 54.003, de 3 de julho de 1964, as nomeações para cargos de magistério, e dá outras providências.

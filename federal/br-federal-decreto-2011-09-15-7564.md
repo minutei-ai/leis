@@ -1,5 +1,3 @@
-###DEC-007564-0-000-15-09-2011-PUB-01@@@
-
 DECRETO Nº 7.564, DE 15 DE SETEMBRO DE 2011
 
 Dá nova redação aos artigos que especifica do Anexo ao Decreto nº 6.952, de 2 de setembro de 2009, que aprova o Regulamento do Fundo de Desenvolvimento do Nordeste - FDNE.

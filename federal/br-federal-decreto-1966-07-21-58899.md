@@ -1,5 +1,3 @@
-###DEC-058899-0-000-21-07-1966@@@
-
 DECRETO Nº 58.899, DE 21 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro Celino Júlio de Oliveira a pesquisar mica no município de São José da Safira, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-061356-0-000-15-09-1967@@@
-
 DECRETO Nº 61.356, DE 15 DE SETEMBRO DE 1967.
 
 Altera dispositivos do Decreto número 55.842, de 16 de março de 1965, e da outras Providências.

@@ -1,5 +1,3 @@
-###DEC-071414-0-000-21-11-1972@@@
-
 DECRETO Nº 71.414 - DE 21 DE NOVEMBRO DE 1972.
 
 Concede a Itapetinga Agro-Industrial S.A., o direito de lavrar calcário no município de Mossoró, Estado do Rio Grande do Norte.

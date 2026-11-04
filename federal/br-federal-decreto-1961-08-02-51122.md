@@ -1,5 +1,3 @@
-###DEC-051122-0-000-02-08-1961@@@
-
 DECRETO Nº 51.122, DE 2 DE AGÔSTO DE 1961.
 
 Concede à Emprêsa de Navegação Santa Catarina Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

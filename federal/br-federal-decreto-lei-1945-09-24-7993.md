@@ -1,5 +1,3 @@
-###DEL-007993-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.993 – DE 24 DE SETEMBRO DE 1945
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Fazenda.

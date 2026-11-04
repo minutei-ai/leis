@@ -1,5 +1,3 @@
-###DEC-070403-0-000-13-04-1972@@@
-
 DECRETO Nº 70.403, DE 13 DE ABRIL DE 1972.
 
 Retifica o Decreto n.º 68.803, de 25 de junho de 1971, que redistribuiu cargos com os respectivos ocupantes para o Ministério da Fazenda.

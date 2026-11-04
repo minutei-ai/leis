@@ -1,5 +1,3 @@
-###DEC-054441-0-000-13-10-1964@@@
-
 DECRETO Nº 54.441, DE 13 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Oscar Machado Vieira a pesquisar minério de manganês, no município de Saúde, Estado da Bahia.

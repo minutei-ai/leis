@@ -1,5 +1,3 @@
-###DEC-068174-0-000-05-02-1971@@@
-
 DECRETO Nº 68.714, DE 5 DE FEVEREIRO DE 1971
 
 Dispõe Sobre redistribuição de servidor do extinto Serviço de Alimentação da Previdência Social (SAPS).

@@ -1,5 +1,3 @@
-###DEC-050184-0-000-28-01-1961@@@
-
 Decreto nº 50.184, de 28 de janeiro de 1961.
 
 Outorga concessão à Rádio Independência do Paraná Limitada para estabelecer uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEL-003301-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.301 – DE 22 DE MAIO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 380:000$0 para instalação do Corpo de Cadetes da Escola de Aeronáutica

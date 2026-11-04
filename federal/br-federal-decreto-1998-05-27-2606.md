@@ -1,5 +1,3 @@
-###DEC-002606-0-000-27-05-1998@@@
-
 DECRETO Nº 2.606, DE 27 DE MAIO DE 1998
 
 Promulga o Acordo para Cooperação Usos Pacíficos da Energia Nuclear celebrado entre o Governo República Federativa do Brasil e o Governo do Canadá, em Brasília, em 22 de maio de 1996.

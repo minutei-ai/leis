@@ -1,5 +1,3 @@
-###DEC-057030-0-000-11-10-1965@@@
-
 DECRETO Nº 57.030, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Bianor Dias do Carmo, a comprar pedras preciosas.

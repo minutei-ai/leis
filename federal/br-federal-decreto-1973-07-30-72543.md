@@ -1,5 +1,3 @@
-###DEC-072543-0-000-30-07-1973@@@
-
 decreto nº 72.543, de 30 de julho de 1973.
 
 Autoriza o funcionamento da Faculdade de Economia, mantida pela Fundação Armando Álvares Penteado, São Paulo, Estado de São Paulo.

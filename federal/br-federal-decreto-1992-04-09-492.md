@@ -1,7 +1,3 @@
-1
-
-###DEC-000492-0-000-09-04-1992@@@
-
 DECRETO Nº 492, DE 9 DE ABRIL DE 1992
 
 Dispõe sobre a cessão de servidores de órgãos ou entidades da Administração Pública Federal.

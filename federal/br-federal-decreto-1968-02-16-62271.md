@@ -1,5 +1,3 @@
-###DEC-062271-0-000-16-02-1968@@@
-
 DECRETO Nº 62.271, DE 16 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública o “Hospital Santa Catarina”, com sede em Blumenau, Estado de Santa Catarina.

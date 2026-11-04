@@ -1,5 +1,3 @@
-###DEC-092818-0-000-24-06-1986@@@
-
 DECRETO Nº 92.818, DE 24 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Tobasa", lote 27, Gleba 3, 2ª  etapa, do Loteamento Praia Chata, situado no Município de São Sebastião do Tocantins, no Estado de Goiás, compreendido na zona prioritária para fins de reforma agrária, fixada pelo Decreto nº 92.690 de 19 de maio de 1986 e dá outras providências.

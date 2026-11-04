@@ -1,5 +1,3 @@
-###DEC-006484-0-000-17-06-2008@@@
-
 DECRETO Nº 6.484, DE 17 DE JUNHO DE 2008.
 
 Altera o art. 3º do Decreto nº 3.939, de 26 de setembro de 2001, que dispõe sobre a Comissão Interministerial para os Recursos do Mar (CIRM).
@@ -57,5 +55,3 @@ Brasília, 17 de junho de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 17.6.2008

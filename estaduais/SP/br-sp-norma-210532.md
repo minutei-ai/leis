@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210532)<br>
-
 # DECRETO N° 69.305, DE 09 DE JANEIRO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Controladoria Geral do Estado nos Sistemas de Administração Financeira e Orçamentária do Estado_

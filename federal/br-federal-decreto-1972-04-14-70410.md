@@ -1,5 +1,3 @@
-###DEC-070410-0-000-14-04-1972@@@
-
 DECRETO Nº 70.410, DE 14 DE ABRIL DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados na cidade de Vitória, estado de Espírito Santo, destinados a ampliação da Central Telefônica da Companhia Telefônica do Espírito Santo.

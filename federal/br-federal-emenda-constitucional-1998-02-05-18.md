@@ -1,12 +1,10 @@
-###EMC-000018-0-000-05-02-1998@@@
+# **EMENDA CONSTITUCIONAL Nº 18**
 
-<h1 style="margin-top:6pt; margin-bottom:12pt; text-align:center;font-weight:normal;font-style:normal"><span style="font-size:0.5em; font-weight:bold; text-transform:uppercase"><span><strong>EMENDA CONSTITUCIONAL Nº</strong></span></span><span style="font-size:0.5em; font-weight:bold; text-transform:uppercase"><span><strong> 18</strong></span></span></h1>
+*Dispõ**e sobre o regime constitucional dos militares.*
 
-<em>Dispõ</em><em>e sobre o regime constitucional dos militares.</em>
+As Mesas da **CÂMARA DOS DEPUTADOS** e do SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-As Mesas da <strong>CÂ</strong><strong>MARA DOS DEPUTADOS</strong> e do SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
-
-<strong>Art</strong>. 1º O art. 37, inciso XV, da Constituição passa a vigorar com a seguinte redação:
+**Art**. 1º O art. 37, inciso XV, da Constituição passa a vigorar com a seguinte redação:
 
 "Art. 37...........................................................................................................................
 
@@ -16,7 +14,7 @@ XV - os vencimentos dos servidores públicos são irredutíveis, e a remuneraç�
 
 ..............................................................................................................................................."
 
-<strong>Art</strong>. 2º A Seção II do Capítulo VII do Título III da Constituição passa a denominar-se "DOS SERVIDORES PÚBLICOS" e a Seção III do Capítulo VII do Título III da Constituição Federal passa a denominar-se "DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS", dando-se ao art. 42 a seguinte redação:
+**Art**. 2º A Seção II do Capítulo VII do Título III da Constituição passa a denominar-se "DOS SERVIDORES PÚBLICOS" e a Seção III do Capítulo VII do Título III da Constituição Federal passa a denominar-se "DOS MILITARES DOS ESTADOS, DO DISTRITO FEDERAL E DOS TERRITÓRIOS", dando-se ao art. 42 a seguinte redação:
 
 "Art. 42 Os membros das Polícias Militares e Corpos de Bombeiros Militares, instituições organizadas com base na hierarquia e disciplina, são militares dos Estados, do Distrito Federal e dos Territórios.
 
@@ -24,7 +22,7 @@ XV - os vencimentos dos servidores públicos são irredutíveis, e a remuneraç�
 
 § 2º Aos militares dos Estados, do Distrito Federal e dos Territórios e a seus pensionistas aplica-se o disposto no art. 40, §§ 4º e 5º; e aos militares do Distrito Federal e dos Territórios, o disposto no art. 40, § 6º."
 
-<strong>Art</strong>. 3º O inciso II do § 1º do art. 61 da Constituição passa a vigorar com as seguintes alterações:
+**Art**. 3º O inciso II do § 1º do art. 61 da Constituição passa a vigorar com as seguintes alterações:
 
 "Art. 61 ...........................................................................................................................
 
@@ -40,11 +38,11 @@ c) servidores públicos da União e Territórios, seu regime jurídico, provimen
 
 f) militares das Forças Armadas, seu regime jurídico, provimento de cargos, promoções, estabilidade, remuneração, reforma e transferência para a reserva."
 
-<strong>Art</strong>. 4º Acrescente-se o seguinte § 3º ao art. 142 da Constituição:
+**Art**. 4º Acrescente-se o seguinte § 3º ao art. 142 da Constituição:
 
 "Art. 142. ......................................................................................................................
 
-<em>§</em> 3º Os membros das Forças Armadas são denominados militares, aplicando-se-lhes, além das que vierem a ser fixadas em lei, as seguintes disposições:
+*§* 3º Os membros das Forças Armadas são denominados militares, aplicando-se-lhes, além das que vierem a ser fixadas em lei, as seguintes disposições:
 
 I - as patentes, com prerrogativas, direitos e deveres a elas inerentes, são conferidas pelo Presidente da República e asseguradas em plenitude aos oficiais da ativa, da reserva ou reformados, sendo-lhes privativos os títulos e postos militares e, juntamente com os demais membros, o uso dos uniformes das Forças Armadas;
 
@@ -66,7 +64,7 @@ IX - aplica-se aos militares e a seus pensionistas o disposto no art. 40, §§ 4
 
 X - a lei disporá sobre o ingresso nas Forças Armadas, os limites de idade, a estabilidade e outras condições de transferência do militar para a inatividade, os direitos, os deveres, a remuneração, as prerrogativas e outras situações especiais dos militares, consideradas as peculiaridades de suas atividades, inclusive aquelas cumpridas por força de compromissos internacionais e de guerra."
 
-<strong>Art</strong>. 5º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art**. 5º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 5 de fevereiro de 1998
 

@@ -1,5 +1,3 @@
-###DEC-051934-B-000-26-04-1963@@@
-
 DECRETO Nº 51.934-B, DE 26 de ABRIL DE 1963.
 
 Autoriza a firma “Bemitul” Beneficiamento de Minérios Indústria e Comércio Ltda., a comprar pedras preciosas.

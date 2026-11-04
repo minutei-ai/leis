@@ -1,5 +1,3 @@
-###DEC-097603-0-000-31-03-1989@@@
-
 DECRETO N° 97.603, DE 31 DE MARÇO DE 1989
 
 Dispõe sobre a transformação de Comando Militar de Área do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056838-0-000-03-09-1965@@@
-
 DECRETO Nº 56.838, DE 3 DE SETEMBRO DE 1965.
 
 Aprova o Regimento Interno do Conselho Nacional de Transportes, criado pela Lei nº 4.563, de 11 de dezembro de 1964.

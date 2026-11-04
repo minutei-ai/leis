@@ -1,5 +1,3 @@
-###DEC-072302-0-000-29-05-1973@@@
-
 DECRETO Nº 72.302, DE 29 DE MAIO DE 1973.
 
 Autoriza o funcionamento do Curso de Administração, da faculdade de Ciências Exatas, Administrativas e Sociais de Brasília, mantida pela União Pioneira de Integração Social de Brasília, na cidade de Brasília, Distrito Federal.

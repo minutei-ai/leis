@@ -1,4 +1,5 @@
-LEI Nº 23.026, DE 7 DE OUTUBRO DE 2024<br>
+LEI Nº 23.026, DE 7 DE OUTUBRO DE 2024
+
 \- [Vide Decreto nº 10.638, de 6-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110424/decreto-10638) - (Regulamenta esta Lei).
 
 Institui o Programa Bolsa Profissionalizante para os estudantes dos cursos de Educação Profissional e Tecnológica das Escolas do Futuro do Estado de Goiás – EFGs e das Unidades Descentralizadas de Educação Profissional e Inovação – UDEPIs.

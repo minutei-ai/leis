@@ -1,7 +1,3 @@
-1
-
-###DEC-000858-0-000-05-07-1993@@@
-
 DECRETO N° 858, DE 5 DE JULHO DE 1993
 
 Dispõe sobre a operação de crédito a que se refere a Medida Provisória n° 331, de 30 de junho de 1993.

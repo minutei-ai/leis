@@ -1,5 +1,3 @@
-###DEC-056848-0-000-10-09-1965@@@
-
 DECRETO Nº 56.848, DE 10 DE SETEMBRO DE 1965.
 
 Prorroga o prazo a que se referem os arts. 2º do Decreto nº 814, de 31 de março de 1962, e 1º dos Decretos ns. 1.396, de 19 de setembro de 1962, 1.878, de 13 de dezembro de 1962, 51.863, de 25 de março de 1963, 52.148, de 25 de junho de 1963, 52.477, de 16 de setembro de 1963 e 54.286, de 14 de setembro de 1964.

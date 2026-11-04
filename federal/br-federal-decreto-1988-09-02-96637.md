@@ -1,5 +1,3 @@
-###DEC-096637-0-000-02-09-1988@@@
-
 DECRETO N° 96.637, DE 2 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO XIMANGO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Alenquer, Estado do Pará.

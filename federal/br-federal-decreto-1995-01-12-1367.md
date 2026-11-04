@@ -1,7 +1,3 @@
-1
-
-###DEC-001367-0-000-12-01-1995@@@
-
 DECRETO Nº 1.367, DE 12 DE JANEIRO DE 1995
 
 Altera dispositivo do Regulamento para o Quadro de Oficiais Temporários do Ministério da Aeronáutica, aprovado pelo Decreto nº 85.866, de 1º de abril de 1981.

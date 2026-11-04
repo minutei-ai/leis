@@ -1,5 +1,3 @@
-###DEC-053416-0-000-20-01-1964@@@
-
 DECRETO Nº 53.416, DE 20 de janeiro de 1964.
 
 Autoriza o Departamento Nacional de Obras Contra as Sêcas a instalar uma usina Hidrelétrica a jusante do açude General Sampaio, município de Canindé, Estado do Ceará.

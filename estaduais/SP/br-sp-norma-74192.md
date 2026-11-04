@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74192)
-
 # LEI Nº 12.702, DE 04 DE OUTUBRO DE 2007
 
 ### _Autoriza a Fazenda do Estado a transmitir ao Município de Itobi, mediante cessão gratuita de direitos, benfeitorias edificadas em imóvel que especifica._

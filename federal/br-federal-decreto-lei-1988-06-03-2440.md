@@ -1,7 +1,3 @@
-1
-
-###DEL-002440-0-000-03-06-1988@@@
-
 # DECRETO‑LEI N° 2.440, DE 3 DE JUNHO DE 1988
 
 Dispõe sobre a aplicação das disponibilidades financeiras do Fundo de Defesa da Economia Cafeeira - FUNCAFÉ.

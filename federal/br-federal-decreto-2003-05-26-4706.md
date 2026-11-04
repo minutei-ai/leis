@@ -1,5 +1,3 @@
-###DEC-004706-0-000-26-05-2003@@@
-
 DECRETO Nº 4.706, DE 26 DE MAIO DE 2003.
 
        Prorroga, em caráter excepcional, o prazo de remanejamento dos cargos que menciona, e dá outras providências.
@@ -18,5 +16,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 26 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

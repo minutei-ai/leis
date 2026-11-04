@@ -1,5 +1,3 @@
-###DEC-004588-0-000-07-02-2003@@@
-
 DECRETO Nº 4.588, DE 7 DE FEVEREIRO DE 2003.
 
        Revoga o Decreto no 4.481, de 22 de novembro de 2002, que dispõe sobre os critérios para definição dos hospitais estratégicos, no âmbito do Sistema Único de Saúde - SUS.

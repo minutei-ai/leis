@@ -1,5 +1,3 @@
-###DEC-051986-0-000-02-05-1963@@@
-
 DECRETO Nº 51.986, DE 2 DE MAIO DE 1963.
 
 Modifica os Estatutos do Instituto Brasileiro de Educação Ciências e Cultura.

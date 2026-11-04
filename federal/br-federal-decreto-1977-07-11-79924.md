@@ -1,5 +1,3 @@
-###DEC-079924-0-000-11-07-1977@@@
-
 DECRETO Nº 79.924, DE 11 DE JULHO DE 1977
 
 Concede à Sandspar Minério Ltda. o direito de lavrar fedspato, petalita, ambligonita e berilo no Município de Itinga, Estado de Minas Gerais.

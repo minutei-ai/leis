@@ -1,5 +1,3 @@
-###DEC-081667-0-000-16-05-1978@@@
-
 decreto nº 81.667, de 16 de maio de 1978
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

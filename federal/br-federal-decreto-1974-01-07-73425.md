@@ -1,5 +1,3 @@
-###DEC-073425-0-000-07-01-1974@@@
-
 DECRETO Nº 73.425, DE 7 DE JANEIRO DE 1974.
 
 Distribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Fazenda, e dá outras providências.

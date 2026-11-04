@@ -1,5 +1,3 @@
-###DEC-005120-0-000-29-06-2004@@@
-
 DECRETO Nº 5.120,  DE 29 DE JUNHO DE 2004
 
 Dá nova redação ao inciso II do art. 1º do Decreto nº 4.939, de 29 de dezembro de 2003, que dispõe sobre a execução de atividades de administração de pessoal, material, patrimônio, serviços gerais e de orçamento e finanças, relativas à manutenção dos órgãos que menciona.

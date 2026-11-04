@@ -1,7 +1,3 @@
-1
-
-###DEC-098196-0-000-27-09-1989@@@
-
 DECRETO Nº 98.196, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária o imóvel rural denominado “FAZENDA DO NORTE-B”, situado no Município de Nova Venécia, Estado do Espírito Santo, e dá outras providências.

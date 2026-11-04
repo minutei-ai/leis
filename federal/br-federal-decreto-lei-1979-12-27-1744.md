@@ -1,5 +1,3 @@
-###DEL-001744-0-000-27-12-1979@@@
-
 # Decreto-Lei nº 1.744, de 27 de dezembro de 1979
 
 Fixa alíquotas do Imposto sobre Operações relativas à Circulação de Mercadorias (ICM) nos Territórios Federais.

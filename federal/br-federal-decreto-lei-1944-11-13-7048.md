@@ -1,5 +1,3 @@
-###DEL-007048-0-000-13-11-1944@@@
-
 DECRETO-LEI N. 7.048 – DE 13 DE NOVEMBRO DE 1944
 
 Cria funções gratificadas no Ministério da Agricultura e dá outras providências

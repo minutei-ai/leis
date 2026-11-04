@@ -1,5 +1,3 @@
-###DEC-071411-0-000-21-11-1972@@@
-
 Decreto nº 71.411, de 21 de novembro de 1972.
 
 Declara de utilidade pública para fins de desapropriação o acervo de bens da Rede Telefônica Sergipana.

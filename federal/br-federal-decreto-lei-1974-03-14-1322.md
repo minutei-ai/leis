@@ -1,5 +1,3 @@
-###DEL-001322-0-000-14-03-1974@@@
-
 # DECRETO-LEI Nº 1.322, DE 14 De MARÇO DE 1974
 
 Exclui do disposto no artigo 1º do Decreto-lei nº 1.302, de 31 de dezembro de 1973 as empresas concessionárias de serviços públicos de energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-004843-0-000-24-09-2003@@@
-
 DECRETO Nº 4.843,  DE 24 DE SETEMBRO DE 2003.
 
        Dá nova redação aos arts. 1º, 2o e 5o do Decreto nº 1.519, de 8 de junho de 1995, que regulamenta a Lei nº 9.015, de 30 de março de 1995, que instituiu a Retribuição Variável da Comissão de Valores Mobiliários - RVCVM e a Retribuição Variável da Superintendência de Seguros Privados - RVSUSEP.
@@ -24,6 +22,8 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBL
 
         Brasília, 24 de setembro de 2003; 182o da Independência e 115o da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-Antonio Palocci Filho<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+Antonio Palocci Filho
+
 Guido Mantega

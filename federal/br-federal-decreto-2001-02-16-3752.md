@@ -1,5 +1,3 @@
-###DEC-003752-0-000-16-02-2001@@@
-
 DECRETO Nº 3.752, DE 16 DE FEVEREIRO DE 2001
 
 Prorroga a vigência do Acordo Internacional de Madeiras Tropicais, assinado em Genebra, em 26 de janeiro de 1994 e promulgado pelo Decreto nº 2.707, de 4 de agosto de 1998.
@@ -950,24 +948,276 @@ Em testemunho do que, as partes abaixo assinadas, devidamente credenciadas, firm
 
 Feito em Genebra, em vinte e seis de janeiro, de mil novecentos e noventa e quatro, o texto deste Acordo nos idiomas árabe, chinês, inglês, francês, russo e espanhol, sendo igualmente autênticos.
 
-<br>
-
-<br>
-
 Anexo A
 
 Relação dos Países Produtores com recursos de Floresta Tropical e/ou Exportadores Líquidos de
 
 Madeira Tropical em Termos de Volume, e Alocação de Votos para os Propósitos do Artigo 41
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Bolívia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>21</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Brasil</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>133</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Camarões</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Colômbia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>24</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Congo</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Costa Rica</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>09</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Costa do Marfim</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Equador</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>14</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>El Salvador</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>09</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Filipinas</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Guiné: Equatorial</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Gabão</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Gana</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Guiana</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>14</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Honduras</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>09</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Índia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>34</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Indonésia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>170</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Libéria</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Malásia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>139</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>México</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>14</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Myanmar</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>33</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Nova Guiné</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>28</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Panamá</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Paraguai</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Peru</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>República Dominicana</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>09</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>República Unida da Tanzânia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tailândia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Togo</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Trinidad e Tobago</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>09</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Venezuela</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Zaire</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>23</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Total</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1000</span></p></td></tr></tbody></table>
+Bolívia
 
-<br>
+21
 
-<br>
+Brasil
+
+133
+
+Camarões
+
+23
+
+Colômbia
+
+24
+
+Congo
+
+23
+
+Costa Rica
+
+09
+
+Costa do Marfim
+
+23
+
+Equador
+
+14
+
+El Salvador
+
+09
+
+Filipinas
+
+25
+
+Guiné: Equatorial
+
+23
+
+Gabão
+
+23
+
+Gana
+
+23
+
+Guiana
+
+14
+
+Honduras
+
+09
+
+Índia
+
+34
+
+Indonésia
+
+170
+
+Libéria
+
+23
+
+Malásia
+
+139
+
+México
+
+14
+
+Myanmar
+
+33
+
+Nova Guiné
+
+28
+
+Panamá
+
+10
+
+Paraguai
+
+11
+
+Peru
+
+25
+
+República Dominicana
+
+09
+
+República Unida da Tanzânia
+
+3
+
+Tailândia
+
+20
+
+Togo
+
+23
+
+Trinidad e Tobago
+
+09
+
+Venezuela
+
+10
+
+Zaire
+
+23
+
+Total
+
+1000
 
 Anexo B
 
 Relação dos Países Consumidores e Alocação de Votos para os Propósitos do Artigo 41
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Afeganistão</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Argélia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Austrália</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>18</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Áustria</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Baráin</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Bulgáriav</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Canadá</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>12</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Chile</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>China</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>36</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Comunidade Européia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>(302)</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Alemanha</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>35</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Bélgica-Luxemburgo,</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>26</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Dinamarca</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Espanha</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>França</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>44</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Grécia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Holanda</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>40</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Irlanda</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Itália</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>35</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Portugal</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>18</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Reino Unido</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>42</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Coréia do Sul</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>97</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Egito</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>14</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Estados Unidos da América</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>51</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Federação Russa</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Finlândia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Japão</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>320</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Nepal</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Nova Zelândia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Noruega</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>República Eslovaca</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Suécia</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Suíça</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1000</span></p></td></tr></tbody></table>
+Afeganistão
+
+10
+
+Argélia
+
+13
+
+Austrália
+
+18
+
+Áustria
+
+11
+
+Baráin
+
+11
+
+Bulgáriav
+
+10
+
+Canadá
+
+12
+
+Chile
+
+10
+
+China
+
+36
+
+Comunidade Européia
+
+(302)
+
+Alemanha
+
+35
+
+Bélgica-Luxemburgo,
+
+26
+
+Dinamarca
+
+11
+
+Espanha
+
+25
+
+França
+
+44
+
+Grécia
+
+13
+
+Holanda
+
+40
+
+Irlanda
+
+13
+
+Itália
+
+35
+
+Portugal
+
+18
+
+Reino Unido
+
+42
+
+Coréia do Sul
+
+97
+
+Egito
+
+14
+
+Estados Unidos da América
+
+51
+
+Federação Russa
+
+13
+
+Finlândia
+
+10
+
+Japão
+
+320
+
+Nepal
+
+10
+
+Nova Zelândia
+
+10
+
+Noruega
+
+10
+
+República Eslovaca
+
+11
+
+Suécia
+
+10
+
+Suíça
+
+1000

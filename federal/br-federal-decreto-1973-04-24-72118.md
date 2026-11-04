@@ -1,5 +1,3 @@
-###DEC-072118-0-000-24-04-1973@@@
-
 decreto nº 72.118, de 24 de abril de 1973.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas mantidas pela Fundação Sanjoanense de Ensino, de São João da Boa Vista, SP.

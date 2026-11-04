@@ -1,14 +1,12 @@
-###DEC-020530-0-000-24-01-1946@@@
+**DECRETO Nº 20.530, DE 24 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.530, DE 24 DE JANEIRO DE 1946.</strong>
+***Altera a lotação do Ministério da Guerra.***
 
-<em><strong>Altera a lotação do Ministério da Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam introduzidas as seguintes alterações na lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Guerra:
+**Art**. 1º Ficam introduzidas as seguintes alterações na lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Guerra:
 
 I - Incluem-se nas repartições abaixo os seguintes órgãos:
 
@@ -104,18 +102,868 @@ Guarnição Militar de Fernando Noronha.
 
 II - Eleva-se para 1.850 o número de cargos da lotação permanente da carreira de Escriturário, que passa a ser a seguinte distribuição:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Gabinete do Ministro:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Gabinete ................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>21</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Secretaria Geral do Ministério da Guerra:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Secretaria ..............................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>94</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Administração do Edifício da Guerra......................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Biblioteca Militar ....................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Comissão de Orçamento........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Comissão de Recebimento de Material dos E.U. ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria do Arquivo do Exército ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>14</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Gabinete Fotocartográfico .....................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Imprensa Militar .....................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Conselho Superior de Economias da Guerra:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Secretaria do Conselho .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Caixa Geral de Economia da Guerra ....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria das Armas:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria .................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>35</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Artilharia de Costa - Órgãos sediados no Distrito Federal:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General do Grupamento de Oeste............................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Artilharia de Costa - Órgãos sediados nos Estados:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General do Grupamento de Leste ............................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Engenharia - Órgãos sediados no Distrito Federal:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>46</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Depósito Central de Material de Engenharia .........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Prefeitura Militar ....................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Engenharia - Órgãos sediados nos Estados:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Rêde Elétrica Piquete - Itajubá - M. Gerais .........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria do Ensino do Exército - Órgãos sediados no Distrito Federal:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Instrução e Especialização do Realengo ..............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Instrução Especializada ........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Campo de Instrução de Gericinó ...........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Colégio Militar ........................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>26</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola de Artilharia de Costa ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola de Educação Física do Exército ................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola de Intendência do Exército ........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola de Saúde do Exército ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola Técnica do Exército ...................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>14</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola de Transmissões .......................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola de Veterinária do Exército .........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Instituto Militar de Tecnologia ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria do Ensino do Exército - Órgãos sediados nos Estados:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola Militar de Resende .....................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>24</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola Preparatória de Fortaleza ..........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>16</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola Preparatória de Pôrto Alegre .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola Preparatória de São Paulo ........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Intendência do Exército - Órgãos sediados no Distrito Federal:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Serviço Especial de Transportes ...........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Subdiretoria de Fundos .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>25</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Pagadoria Central da Fôrça Expedicionária Brasileira ..........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>20</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Seção Comercial de Material de Intendência do Rio ............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>13</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Subdiretoria de Subsistência do Intendência do Rio .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Subdiretoria de Subsistência do Exército ..............................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência Militar do Rio ....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>13</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Intendência do Exército - Órgãos sediados nos Estados:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 2ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 3ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 4ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 5ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 6ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 7ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 8ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 9ª Região Militar ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Fundos da 10ª Região Militar ................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Material de Intendência de S. Paulo .....................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Material de Intendência da 3ª R. M. ......................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>18</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Material de Intendência de Recife ........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>15</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência Militar de São Paulo ........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 3ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 4ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 5ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 6ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 7ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 8ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 9ª R. Militar .................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento de Subsistência da 10ª R. Militar ...............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria do Material Bélico - Órgãos sediados no Distrito Federal:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>40</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Arsenal de Guerra do Rio ......................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>58</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Depósito Central de Material Bélico ......................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica do Andaraí ................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>35</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica de Bonsucesso .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>20</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica de Realengo .............................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>48</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Oficinas da Urca ....................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria do Material Bélico - Órgãos sediados nos Estados:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica de Curitiba ................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>22</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica de Itajubá ..................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>17</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica de Juiz de Fora .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>46</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica Presidente Vargas ....................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>52</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Serviço de Material Bélico da 4ª Região Militar .....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Arsenal de Guerra General</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Câmara ..................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>20</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Motomecanização:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Parque Central de Motomecanização ...................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>56</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Recrutamento - Órgãos sediados no Distrito Federal:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>17</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>1ª Circunscrição de Recrutamento ........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>46</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Asilo de Inválidos da Pátria ...................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Recrutamento - Órgãos sediados nos Estados:</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>2ª Circunscrição de Recrutamento - E. do Rio .....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>3ª Circunscrição de Recrutamento - E. Santo ......................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>4ª Circunscrição de Recrutamento - São Paulo ...................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>14</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>5ª Circunscrição de Recrutamento - São Paulo....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>6ª Circunscrição de Recrutamento - São Paulo ...................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>16</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>7ª Circunscrição de Recrutamento - Goiás ...........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>8ª Circunscrição de Recrutamento - Rio Grande do Sul ......................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>9ª Circunscrição de Recrutamento - Rio Grande do Sul ......................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>10ª Circunscrição de Recrutamento - Rio Grande do Sul ....................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>11ª Circunscrição de Recrutamento - Minas Gerais .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>12ª Circunscrição de Recrutamento - Minas Gerais .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>13ª Circunscrição de Recrutamento - Minas Gerais .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>15ª Circunscrição de Recrutamento - Paraná ......................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>16ª Circunscrição de Recrutamento - Santa Catarina ..........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>17ª Circunscrição de Recrutamento - Bahia .........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>19ª Circunscrição de Recrutamento - Sergipe .....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>20ª Circunscrição de Recrutamento - Alagoas .....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>21ª Circunscrição de Recrutamento - Pernambuco .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>22ª Circunscrição de Recrutamento - Pernambuco .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>23ª Circunscrição de Recrutamento - Paraíba .....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>24ª Circunscrição de Recrutamento - R. G. do Norte ...........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>25ª Circunscrição de Recrutamento - Ceará ........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>26ª Circunscrição de Recrutamento - Piauí ..........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>27ª Circunscrição de Recrutamento - Maranhão ..................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>28ª Circunscrição de Recrutamento - Pará ..........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>29ª Circunscrição de Recrutamento - Amazonas e Acre .....................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>30ª Circunscrição de Recrutamento - Mato Grosso .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Remonta e Veterinária</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Depósito Central de Material Veterinário ...............................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Saúde do Exército - Órgãos sediados no Distrito Federal</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>18</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estabelecimento Central de Material Sanitário do Exército ..................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Farmácia Central do Exército ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Central do Exército ..................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>27</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Instituto de Biologia do Exército ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Laboratório Químico Farmacêutico do Exército ....................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>20</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Policlínica Militar ....................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Pôsto de Assistência na Vila Militar .......................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Saúde do Exército - Órgãos sediados nos Estados </span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Alegrete ....................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Bagé .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar da Bahia ........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Belém .......................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Cachoeira .................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Campina Grande ......................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Campo Grande ........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Cruz Alta ..................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Curitiba .....................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Florianópolis .............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Fortaleza ..................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Juiz de Fôra .............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Natal .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Pôrto Alegre .............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Recife .......................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>8</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Santo Ângelo ...........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Santa Maria ..............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Santana do Livramento ............................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de S. Gabriel .................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de S. Paulo ...................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>9</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Ponta Grossa ...........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Hospital Militar de Uruguaiana ..............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sanatório Militar de Itatiaia ....................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>6</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>3º Depósito Regional de Material Sanitário - P. Alegre ........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>5º Depósito Regional de Material Sanitário - Curitiba ...........................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>7º Depósito Regional de Material Sanitário - Recife .............................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Depósito de Convalescentes de Campo Belo .......................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Diretoria de Transmissões</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sede ......................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>11</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Fábrica de Material de Transmissões ...................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estado Maior do Exército - Órgãos sediados no Distrito Federal</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estado Maior .........................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>32</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Escola do Estado Maior .........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>20</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Serviço Geográfico do Exército .............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Estado Maior do Exército - Órgãos sediados nos Estados Comissão de Rêde nº 2 - S. Paulo .....................................................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Comissão de Rêde nº 3 - Rio Grande do Sul .......................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Comissão de Rêde nº 5 - Bahia ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Comissão de Rêde nº 6 - S. Paulo .......................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Comissão de Rêde nº 7 - Recife ...........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Inspetoria de Arma de Cavalaria ...........................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Justiça Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Supremo Tribunal Militar .......................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>12</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Procuradoria Geral da J. Militar .............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria de Correição ...........................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>1ª Auditoria da 1ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>2ª Auditoria da 1ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>3ª Auditoria da 1ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>1ª Auditoria da 2ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>2ª Auditoria da 2ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>1ª Auditoria da 3ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>2ª Auditoria da 3ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>3ª Auditoria da 3ª Região Militar ............................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria da 4ª Região Militar ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria da 5ª Região Militar ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria da 6ª Região Militar ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria da 7ª Região Militar ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria da 8ª Região Militar ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Auditoria da 9ª Região Militar ................................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Primeira Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 1ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>9</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da Artilharia Divisionária da 1ª Região Militar .............................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da Infantaria Divisionária da 1ª Região Militar ............................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Preparação de Oficiais da Reserva do Rio de Janeiro .........................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Inspetoria Regional dos Tiros de Guerra ...............................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Segunda Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 2ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>17</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Preparação de Oficiais da Reserva de S. Paulo ..................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Terceira Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 3ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quarta Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 4ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>14</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da Infantaria Divisória da 4ª Região Militar .................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Preparação de Oficiais da Reserva de Belo Horizonte ........................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quinta Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 5ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sexta Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 6ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Preparação de Oficiais da Reserva de Salvador</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Sétima Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 7ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>10</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da Infantaria Divisória da 7ª Região Militar .................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 2ª Brigada de Infantaria da 7ª Divisão de Infantaria ..............................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Guarnição Militar de Fernando de Noronha ..........................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>5</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Oitava Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 8ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>7</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Centro de Preparação de Oficiais da Reserva de Belém</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Nona Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 9ª Região Militar .....................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>16</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Décima Região Militar</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:400.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span><span>Quartel General da 10ª Região Militar ...................................................................................</span></span></p></td><td style="width:24.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4</span></span></p></td></tr></tbody></table>
+Gabinete do Ministro:
+
+Gabinete ................................................................................................................................
+
+21
+
+Secretaria Geral do Ministério da Guerra:
+
+Secretaria ..............................................................................................................................
+
+94
+
+Administração do Edifício da Guerra......................................................................................
+
+4
+
+Biblioteca Militar ....................................................................................................................
+
+5
+
+Comissão de Orçamento........................................................................................................
+
+3
+
+Comissão de Recebimento de Material dos E.U. ..................................................................
+
+2
+
+Diretoria do Arquivo do Exército ............................................................................................
+
+14
+
+Gabinete Fotocartográfico .....................................................................................................
+
+2
+
+Imprensa Militar .....................................................................................................................
+
+2
+
+Conselho Superior de Economias da Guerra:
+
+Secretaria do Conselho .........................................................................................................
+
+1
+
+Caixa Geral de Economia da Guerra ....................................................................................
+
+3
+
+Diretoria das Armas:
+
+Diretoria .................................................................................................................................
+
+35
+
+Diretoria de Artilharia de Costa - Órgãos sediados no Distrito Federal:
+
+Sede ......................................................................................................................................
+
+8
+
+Quartel General do Grupamento de Oeste............................................................................
+
+2
+
+Diretoria de Artilharia de Costa - Órgãos sediados nos Estados:
+
+Quartel General do Grupamento de Leste ............................................................................
+
+2
+
+Diretoria de Engenharia - Órgãos sediados no Distrito Federal:
+
+Sede ......................................................................................................................................
+
+46
+
+Depósito Central de Material de Engenharia .........................................................................
+
+2
+
+Prefeitura Militar ....................................................................................................................
+
+2
+
+Diretoria de Engenharia - Órgãos sediados nos Estados:
+
+Rêde Elétrica Piquete - Itajubá - M. Gerais .........................................................................
+
+2
+
+Diretoria do Ensino do Exército - Órgãos sediados no Distrito Federal:
+
+Sede ......................................................................................................................................
+
+12
+
+Centro de Instrução e Especialização do Realengo ..............................................................
+
+6
+
+Centro de Instrução Especializada ........................................................................................
+
+4
+
+Campo de Instrução de Gericinó ...........................................................................................
+
+6
+
+Colégio Militar ........................................................................................................................
+
+26
+
+Escola de Artilharia de Costa ................................................................................................
+
+2
+
+Escola de Educação Física do Exército ................................................................................
+
+3
+
+Escola de Intendência do Exército ........................................................................................
+
+8
+
+Escola de Saúde do Exército ................................................................................................
+
+4
+
+Escola Técnica do Exército ...................................................................................................
+
+14
+
+Escola de Transmissões .......................................................................................................
+
+2
+
+Escola de Veterinária do Exército .........................................................................................
+
+3
+
+Instituto Militar de Tecnologia ................................................................................................
+
+6
+
+Diretoria do Ensino do Exército - Órgãos sediados nos Estados:
+
+Escola Militar de Resende .....................................................................................................
+
+24
+
+Escola Preparatória de Fortaleza ..........................................................................................
+
+16
+
+Escola Preparatória de Pôrto Alegre .....................................................................................
+
+5
+
+Escola Preparatória de São Paulo ........................................................................................
+
+6
+
+Diretoria de Intendência do Exército - Órgãos sediados no Distrito Federal:
+
+Sede ......................................................................................................................................
+
+8
+
+Serviço Especial de Transportes ...........................................................................................
+
+12
+
+Subdiretoria de Fundos .........................................................................................................
+
+25
+
+Pagadoria Central da Fôrça Expedicionária Brasileira ..........................................................
+
+20
+
+Seção Comercial de Material de Intendência do Rio ............................................................
+
+13
+
+Subdiretoria de Subsistência do Intendência do Rio .............................................................
+
+3
+
+Subdiretoria de Subsistência do Exército ..............................................................................
+
+5
+
+Estabelecimento de Subsistência Militar do Rio ....................................................................
+
+13
+
+Diretoria de Intendência do Exército - Órgãos sediados nos Estados:
+
+Estabelecimento de Fundos da 2ª Região Militar ..................................................................
+
+7
+
+Estabelecimento de Fundos da 3ª Região Militar ..................................................................
+
+8
+
+Estabelecimento de Fundos da 4ª Região Militar ..................................................................
+
+8
+
+Estabelecimento de Fundos da 5ª Região Militar ..................................................................
+
+6
+
+Estabelecimento de Fundos da 6ª Região Militar ..................................................................
+
+5
+
+Estabelecimento de Fundos da 7ª Região Militar ..................................................................
+
+10
+
+Estabelecimento de Fundos da 8ª Região Militar ..................................................................
+
+6
+
+Estabelecimento de Fundos da 9ª Região Militar ..................................................................
+
+10
+
+Estabelecimento de Fundos da 10ª Região Militar ................................................................
+
+6
+
+Estabelecimento de Material de Intendência de S. Paulo .....................................................
+
+6
+
+Estabelecimento de Material de Intendência da 3ª R. M. ......................................................
+
+18
+
+Estabelecimento de Material de Intendência de Recife ........................................................
+
+15
+
+Estabelecimento de Subsistência Militar de São Paulo ........................................................
+
+4
+
+Estabelecimento de Subsistência da 3ª R. Militar .................................................................
+
+5
+
+Estabelecimento de Subsistência da 4ª R. Militar .................................................................
+
+4
+
+Estabelecimento de Subsistência da 5ª R. Militar .................................................................
+
+12
+
+Estabelecimento de Subsistência da 6ª R. Militar .................................................................
+
+8
+
+Estabelecimento de Subsistência da 7ª R. Militar .................................................................
+
+4
+
+Estabelecimento de Subsistência da 8ª R. Militar .................................................................
+
+6
+
+Estabelecimento de Subsistência da 9ª R. Militar .................................................................
+
+4
+
+Estabelecimento de Subsistência da 10ª R. Militar ...............................................................
+
+12
+
+Diretoria do Material Bélico - Órgãos sediados no Distrito Federal:
+
+Sede ......................................................................................................................................
+
+40
+
+Arsenal de Guerra do Rio ......................................................................................................
+
+58
+
+Depósito Central de Material Bélico ......................................................................................
+
+10
+
+Fábrica do Andaraí ................................................................................................................
+
+35
+
+Fábrica de Bonsucesso .........................................................................................................
+
+20
+
+Fábrica de Realengo .............................................................................................................
+
+48
+
+Oficinas da Urca ....................................................................................................................
+
+10
+
+Diretoria do Material Bélico - Órgãos sediados nos Estados:
+
+Fábrica de Curitiba ................................................................................................................
+
+22
+
+Fábrica de Itajubá ..................................................................................................................
+
+17
+
+Fábrica de Juiz de Fora .........................................................................................................
+
+46
+
+Fábrica Presidente Vargas ....................................................................................................
+
+52
+
+Serviço de Material Bélico da 4ª Região Militar .....................................................................
+
+2
+
+Arsenal de Guerra General
+
+Câmara ..................................................................................................................................
+
+20
+
+Diretoria de Motomecanização:
+
+Sede ......................................................................................................................................
+
+10
+
+Parque Central de Motomecanização ...................................................................................
+
+56
+
+Diretoria de Recrutamento - Órgãos sediados no Distrito Federal:
+
+Sede ......................................................................................................................................
+
+17
+
+1ª Circunscrição de Recrutamento ........................................................................................
+
+46
+
+Asilo de Inválidos da Pátria ...................................................................................................
+
+3
+
+Diretoria de Recrutamento - Órgãos sediados nos Estados:
+
+2ª Circunscrição de Recrutamento - E. do Rio .....................................................................
+
+10
+
+3ª Circunscrição de Recrutamento - E. Santo ......................................................................
+
+6
+
+4ª Circunscrição de Recrutamento - São Paulo ...................................................................
+
+14
+
+5ª Circunscrição de Recrutamento - São Paulo....................................................................
+
+10
+
+6ª Circunscrição de Recrutamento - São Paulo ...................................................................
+
+16
+
+7ª Circunscrição de Recrutamento - Goiás ...........................................................................
+
+7
+
+8ª Circunscrição de Recrutamento - Rio Grande do Sul ......................................................
+
+6
+
+9ª Circunscrição de Recrutamento - Rio Grande do Sul ......................................................
+
+6
+
+10ª Circunscrição de Recrutamento - Rio Grande do Sul ....................................................
+
+6
+
+11ª Circunscrição de Recrutamento - Minas Gerais .............................................................
+
+7
+
+12ª Circunscrição de Recrutamento - Minas Gerais .............................................................
+
+8
+
+13ª Circunscrição de Recrutamento - Minas Gerais .............................................................
+
+7
+
+15ª Circunscrição de Recrutamento - Paraná ......................................................................
+
+6
+
+16ª Circunscrição de Recrutamento - Santa Catarina ..........................................................
+
+8
+
+17ª Circunscrição de Recrutamento - Bahia .........................................................................
+
+6
+
+19ª Circunscrição de Recrutamento - Sergipe .....................................................................
+
+6
+
+20ª Circunscrição de Recrutamento - Alagoas .....................................................................
+
+6
+
+21ª Circunscrição de Recrutamento - Pernambuco .............................................................
+
+12
+
+22ª Circunscrição de Recrutamento - Pernambuco .............................................................
+
+6
+
+23ª Circunscrição de Recrutamento - Paraíba .....................................................................
+
+6
+
+24ª Circunscrição de Recrutamento - R. G. do Norte ...........................................................
+
+6
+
+25ª Circunscrição de Recrutamento - Ceará ........................................................................
+
+6
+
+26ª Circunscrição de Recrutamento - Piauí ..........................................................................
+
+7
+
+27ª Circunscrição de Recrutamento - Maranhão ..................................................................
+
+6
+
+28ª Circunscrição de Recrutamento - Pará ..........................................................................
+
+7
+
+29ª Circunscrição de Recrutamento - Amazonas e Acre .....................................................
+
+6
+
+30ª Circunscrição de Recrutamento - Mato Grosso .............................................................
+
+6
+
+Diretoria de Remonta e Veterinária
+
+Sede ......................................................................................................................................
+
+6
+
+Depósito Central de Material Veterinário ...............................................................................
+
+4
+
+Diretoria de Saúde do Exército - Órgãos sediados no Distrito Federal
+
+Sede ......................................................................................................................................
+
+18
+
+Estabelecimento Central de Material Sanitário do Exército ..................................................
+
+8
+
+Farmácia Central do Exército ................................................................................................
+
+2
+
+Hospital Central do Exército ..................................................................................................
+
+27
+
+Instituto de Biologia do Exército ............................................................................................
+
+6
+
+Laboratório Químico Farmacêutico do Exército ....................................................................
+
+20
+
+Policlínica Militar ....................................................................................................................
+
+8
+
+Pôsto de Assistência na Vila Militar .......................................................................................
+
+3
+
+Diretoria de Saúde do Exército - Órgãos sediados nos Estados
+
+Hospital Militar de Alegrete ....................................................................................................
+
+2
+
+Hospital Militar de Bagé .........................................................................................................
+
+2
+
+Hospital Militar da Bahia ........................................................................................................
+
+3
+
+Hospital Militar de Belém .......................................................................................................
+
+4
+
+Hospital Militar de Cachoeira .................................................................................................
+
+2
+
+Hospital Militar de Campina Grande ......................................................................................
+
+4
+
+Hospital Militar de Campo Grande ........................................................................................
+
+3
+
+Hospital Militar de Cruz Alta ..................................................................................................
+
+2
+
+Hospital Militar de Curitiba .....................................................................................................
+
+4
+
+Hospital Militar de Florianópolis .............................................................................................
+
+2
+
+Hospital Militar de Fortaleza ..................................................................................................
+
+6
+
+Hospital Militar de Juiz de Fôra .............................................................................................
+
+4
+
+Hospital Militar de Natal .........................................................................................................
+
+3
+
+Hospital Militar de Pôrto Alegre .............................................................................................
+
+7
+
+Hospital Militar de Recife .......................................................................................................
+
+8
+
+Hospital Militar de Santo Ângelo ...........................................................................................
+
+2
+
+Hospital Militar de Santa Maria ..............................................................................................
+
+3
+
+Hospital Militar de Santana do Livramento ............................................................................
+
+2
+
+Hospital Militar de S. Gabriel .................................................................................................
+
+2
+
+Hospital Militar de S. Paulo ...................................................................................................
+
+9
+
+Hospital Militar de Ponta Grossa ...........................................................................................
+
+3
+
+Hospital Militar de Uruguaiana ..............................................................................................
+
+2
+
+Sanatório Militar de Itatiaia ....................................................................................................
+
+6
+
+3º Depósito Regional de Material Sanitário - P. Alegre ........................................................
+
+2
+
+5º Depósito Regional de Material Sanitário - Curitiba ...........................................................
+
+2
+
+7º Depósito Regional de Material Sanitário - Recife .............................................................
+
+2
+
+Depósito de Convalescentes de Campo Belo .......................................................................
+
+3
+
+Diretoria de Transmissões
+
+Sede ......................................................................................................................................
+
+11
+
+Fábrica de Material de Transmissões ...................................................................................
+
+12
+
+Estado Maior do Exército - Órgãos sediados no Distrito Federal
+
+Estado Maior .........................................................................................................................
+
+32
+
+Escola do Estado Maior .........................................................................................................
+
+20
+
+Serviço Geográfico do Exército .............................................................................................
+
+12
+
+Estado Maior do Exército - Órgãos sediados nos Estados Comissão de Rêde nº 2 - S. Paulo .....................................................................................................................................
+
+1
+
+Comissão de Rêde nº 3 - Rio Grande do Sul .......................................................................
+
+1
+
+Comissão de Rêde nº 5 - Bahia ............................................................................................
+
+1
+
+Comissão de Rêde nº 6 - S. Paulo .......................................................................................
+
+1
+
+Comissão de Rêde nº 7 - Recife ...........................................................................................
+
+1
+
+Inspetoria de Arma de Cavalaria ...........................................................................................
+
+3
+
+Justiça Militar
+
+Supremo Tribunal Militar .......................................................................................................
+
+12
+
+Procuradoria Geral da J. Militar .............................................................................................
+
+5
+
+Auditoria de Correição ...........................................................................................................
+
+3
+
+1ª Auditoria da 1ª Região Militar ............................................................................................
+
+2
+
+2ª Auditoria da 1ª Região Militar ............................................................................................
+
+3
+
+3ª Auditoria da 1ª Região Militar ............................................................................................
+
+5
+
+1ª Auditoria da 2ª Região Militar ............................................................................................
+
+2
+
+2ª Auditoria da 2ª Região Militar ............................................................................................
+
+3
+
+1ª Auditoria da 3ª Região Militar ............................................................................................
+
+2
+
+2ª Auditoria da 3ª Região Militar ............................................................................................
+
+2
+
+3ª Auditoria da 3ª Região Militar ............................................................................................
+
+3
+
+Auditoria da 4ª Região Militar ................................................................................................
+
+3
+
+Auditoria da 5ª Região Militar ................................................................................................
+
+3
+
+Auditoria da 6ª Região Militar ................................................................................................
+
+3
+
+Auditoria da 7ª Região Militar ................................................................................................
+
+5
+
+Auditoria da 8ª Região Militar ................................................................................................
+
+3
+
+Auditoria da 9ª Região Militar ................................................................................................
+
+3
+
+Primeira Região Militar
+
+Quartel General da 1ª Região Militar .....................................................................................
+
+9
+
+Quartel General da Artilharia Divisionária da 1ª Região Militar .............................................
+
+2
+
+Quartel General da Infantaria Divisionária da 1ª Região Militar ............................................
+
+2
+
+Centro de Preparação de Oficiais da Reserva do Rio de Janeiro .........................................
+
+4
+
+Inspetoria Regional dos Tiros de Guerra ...............................................................................
+
+3
+
+Segunda Região Militar
+
+Quartel General da 2ª Região Militar .....................................................................................
+
+17
+
+Centro de Preparação de Oficiais da Reserva de S. Paulo ..................................................
+
+2
+
+Terceira Região Militar
+
+Quartel General da 3ª Região Militar .....................................................................................
+
+5
+
+Quarta Região Militar
+
+Quartel General da 4ª Região Militar .....................................................................................
+
+14
+
+Quartel General da Infantaria Divisória da 4ª Região Militar .................................................
+
+2
+
+Centro de Preparação de Oficiais da Reserva de Belo Horizonte ........................................
+
+2
+
+Quinta Região Militar
+
+Quartel General da 5ª Região Militar .....................................................................................
+
+5
+
+Sexta Região Militar
+
+Quartel General da 6ª Região Militar .....................................................................................
+
+4
+
+Centro de Preparação de Oficiais da Reserva de Salvador
+
+Sétima Região Militar
+
+Quartel General da 7ª Região Militar .....................................................................................
+
+10
+
+Quartel General da Infantaria Divisória da 7ª Região Militar .................................................
+
+4
+
+Quartel General da 2ª Brigada de Infantaria da 7ª Divisão de Infantaria ..............................
+
+4
+
+Guarnição Militar de Fernando de Noronha ..........................................................................
+
+5
+
+Oitava Região Militar
+
+Quartel General da 8ª Região Militar .....................................................................................
+
+7
+
+Centro de Preparação de Oficiais da Reserva de Belém
+
+Nona Região Militar
+
+Quartel General da 9ª Região Militar .....................................................................................
+
+16
+
+Décima Região Militar
+
+Quartel General da 10ª Região Militar ...................................................................................
+
+4
 
 III - Suprime-se da lotação suplementar a carreira de Escrevente.
 
 IV - Passa a lotação numérica do Ministério a figurar com um total de 4.994 cargos, sendo 2.925 na lotação permanente e 2.069 na lotação suplementar.
 
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de Janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Canrobert Pereira da Costa

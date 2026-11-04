@@ -1,5 +1,3 @@
-###MPV-000151-0-000-18-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 151, DE 18 DE DEZEMBRO 2003.
 
 Dispõe sobre a criação do Instituto Nacional do Semi-Árido - INSA, unidade de pesquisa integrante da estrutura básica do Ministério da Ciência e Tecnologia, e dá outras providências.

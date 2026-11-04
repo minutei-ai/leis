@@ -56,8 +56,6 @@ Art. 10. Esta Lei entra em vigor na data de sua publicação, com efeitos financ
 
 Goiânia, 17 de fevereiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

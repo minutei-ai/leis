@@ -1,5 +1,3 @@
-###DEC-061631-0-000-03-11-1967@@@
-
 DECRETO Nº 61.631, DE 3 DE NOVEMBRO DE 1967.
 
 Abre, pelo Ministério dos Transportes o crédito especial de NCr$8.500.000,00, para o fim que especifica.

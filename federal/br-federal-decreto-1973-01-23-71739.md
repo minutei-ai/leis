@@ -1,5 +1,3 @@
-###DEC-071739-0-000-23-01-1973@@@
-
 DECRETO Nº 71.739, DE 23 DE JANEIRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona.

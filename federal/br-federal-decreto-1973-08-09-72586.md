@@ -1,5 +1,3 @@
-###DEC-072586-0-000-09-08-1973@@@
-
 DECRETO Nº 72.586, de 9 de Agosto de 1973.
 
 Autoriza o funcionamento da Faculdade de Turismo da Guanabara, com o curso de Turismo, com sede no Cidade Rio de Janeiro, Estado da Guanabara, e mantida pela Organização Bandeirantes de Tecnologia e Cultura, de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-070855-0-000-21-07-1972@@@
-
 DECRETO Nº 70.855, DE 21 DE JULHO DE 1972.
 
 Regula a execução do disposto nos artigos 15, 16 e 17 da Lei nº 5.740, de 1 de dezembro de 1971.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209717)<br>
-
 # LEI N° 17.981, DE 15 DE JULHO DE 2024
 
 ## (Projeto de lei n° 986/2023, do Deputado Gilmaci Santos - REPUBLICANOS)

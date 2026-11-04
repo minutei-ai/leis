@@ -1,5 +1,3 @@
-###DEC-089440-0-000-13-03-1984@@@
-
 Decreto nº 89.440, de 13 de março de 1984
 
 Altera o artigo 1º do Decreto nº 87.092, de 12 de abril de 1982, que cria a Estação Ecológica do Jari.

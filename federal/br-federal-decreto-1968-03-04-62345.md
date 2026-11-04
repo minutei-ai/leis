@@ -1,5 +1,3 @@
-###DEC-062345-0-000-04-03-1968@@@
-
 DECRETO Nº 62.345, DE 4 DE MARÇO DE 1968.
 
 Provê sôbre a transferência da Divisão do Orçamento, do Departamento de Administração, do Ministério da Educação e Cultura, para a Inspetoria Geral de Finanças do mesmo Ministério, e dá outras providências.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/6152)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1997/compilacao-lei-9903-30.12.1997.html)
 
 # LEI N° 9.903, DE 30 DE DEZEMBRO DE 1997
@@ -7,11 +6,16 @@
 
 ### _Dispõe sobre alíquota do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**<br>
-Artigo 1.° -** Até 31 de dezembro de 1998, a alíquota de 17% (dezessete por cento) prevista no inciso I do Artigo 34 da Lei n. 6.374, de 1.° de março de 1989, fica elevada em 1 (um) ponto percentual, passando para 18% (dezoito por cento).**<br>
-Artigo 2.° -** Passa a vigorar com a seguinte redação a alínea "i" do item 15 acrescentado pela [Lei n. 9.794, de 30 de setembro de 1997](https://www.al.sp.gov.br/norma/5489), ao § 1.° do Artigo 34 da Lei n. 6.374, de 1.° de março de 1989:<br>
-"i) postes  6810.99.00;".**<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**
+
+Artigo 1.° -** Até 31 de dezembro de 1998, a alíquota de 17% (dezessete por cento) prevista no inciso I do Artigo 34 da Lei n. 6.374, de 1.° de março de 1989, fica elevada em 1 (um) ponto percentual, passando para 18% (dezoito por cento).**
+
+Artigo 2.° -** Passa a vigorar com a seguinte redação a alínea "i" do item 15 acrescentado pela [Lei n. 9.794, de 30 de setembro de 1997](https://www.al.sp.gov.br/norma/5489), ao § 1.° do Artigo 34 da Lei n. 6.374, de 1.° de março de 1989:
+
+"i) postes  6810.99.00;".**
+
 Artigo 3.° -** O Poder Executivo publicará, mensalmente, no Diário Oficial do Estado, até o dia 10 (dez) do mês subseqüente, a aplicação dos recursos provenientes da elevação da alíquota de que trata o Artigo 1.°.
 
 ~~Artigo 4.° - Vetado:~~
@@ -86,14 +90,24 @@ _\- § 3° vetado pelo Governador._
 
 _\- § 3°_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=19980521&Caderno=Legislativo&NumeroPagina=1)_, que rejeitou o veto oposto pelo Governador._
 
-**Artigo 5.° -** A Secretaria da Fazenda baixará as instruções necessárias ao cumprimento desta lei.**<br>
-Artigo 6.° -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, aos 30 de dezembro de 1997.<br>
-MÁRIO COVAS<br>
-Yoshiaki Nakano<br>
-Secretário da Fazenda<br>
-Walter Feldman<br>
-Secretário-Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
+**Artigo 5.° -** A Secretaria da Fazenda baixará as instruções necessárias ao cumprimento desta lei.**
+
+Artigo 6.° -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, aos 30 de dezembro de 1997.
+
+MÁRIO COVAS
+
+Yoshiaki Nakano
+
+Secretário da Fazenda
+
+Walter Feldman
+
+Secretário-Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 30 de dezembro de 1997.

@@ -1,5 +1,3 @@
-###MPV-001815-0-000-05-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.815, DE 5 DE MARÇO DE 1999.
 
 Suspende a concessão de promoções e progressões funcionais a todo servidor da Administração Federal direta, das autarquias e das fundações e extingue o adicional por tempo de serviço de que trata o art. 67 da Lei nº 8.112, de 11 de dezembro de 1990.

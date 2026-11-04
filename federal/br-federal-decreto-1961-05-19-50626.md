@@ -1,5 +1,3 @@
-###DEC-050626-0-000-19-05-1961@@@
-
 DECRETO Nº 50.626, DE 19 DE MAIO DE 1961.
 
 Concede autorização para o funcionamento de cursos.

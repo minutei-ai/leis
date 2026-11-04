@@ -1,5 +1,3 @@
-###DEC-072743-0-000-04-09-1973@@@
-
 DECRETO Nº 72.743, DE 4 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para efeitos de desapropriação, a área que menciona, situada na cidade do Rio de Janeiro, Estado da Guanabara, necessária ao Ministério da Marinha, para ampliação das instalações do Centro Médico Naval Marcílio Dias.

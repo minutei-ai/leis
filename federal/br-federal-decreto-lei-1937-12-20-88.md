@@ -1,5 +1,3 @@
-###DEL-000088-0-000-20-12-1937@@@
-
 DECRETO-LEI N. 88 – DE 20 DE DEZEMBRO DE 1937
 
 Modifica a lei n. 244, de 11 de setembro de 1936, que instituiu o Tribunal de Segurança Nacional, e dá outras providências

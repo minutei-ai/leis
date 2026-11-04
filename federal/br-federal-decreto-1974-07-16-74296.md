@@ -1,5 +1,3 @@
-###DEC-074296-0-000-16-07-1974@@@
-
 Decreto nº 74.296 - de 16 de julho de 1974.
 
 Dispõe sobre a estrutura básica do Ministério do Trabalho (MTb), e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001658-0-000-05-10-1995@@@
-
 DECRETO N° 1.658, DE 5 DE OUTUBRO DE 1995.
 
 Dispõe sobre a realização de concursos públicos e nomeação para cargos de provimento efetivo, e dá outras providências.

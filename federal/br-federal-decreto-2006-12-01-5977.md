@@ -1,5 +1,3 @@
-###DEC-005977-0-000-01-12-2006@@@
-
 DECRETO Nº 5.977 DE 1º DE DEZEMBRO DE 2006.
 
 Regulamenta o art. 3o, caput e § 1o, da Lei no 11.079, de 30 de dezembro de 2004, que dispõe sobre a aplicação, às parcerias público-privadas, do art. 21 da Lei no 8.987, de 13 de fevereiro de 1995, e do art. 31 da Lei no 9.074, de 7 de julho de 1995, para apresentação de projetos, estudos, levantamentos ou investigações, a serem utilizados em modelagens de parcerias público-privadas no âmbito da administração pública federal, e dá outras providências.
@@ -149,5 +147,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 4.12.2006

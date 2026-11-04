@@ -1,5 +1,3 @@
-###DEC-060545-0-000-07-04-1967@@@
-
 DECRETO Nº 60.545, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Associação Paranaense da Igreja Adventista do Sétimo Dia”, com sede em Curitiba, Estado do Paraná.

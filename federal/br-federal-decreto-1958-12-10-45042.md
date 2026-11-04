@@ -1,5 +1,3 @@
-###DEC-045042-0-000-10-12-1958@@@
-
 decreto nº 45.042, de 10 de dezembro de 1958.
 
 Regulamenta a concessão da gratificação prevista no art. 145, item VI, da Lei nº 1.711, de 28 de outubro de 1952, aos Servidores lotados no Departamento Federal de Segurança Pública (D.F.S.P.), do Ministério da Justiça e Negócios Interiores, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098139-0-000-13-09-1989@@@
-
 DECRETO N° 98.139, DE 13 DE SETEMBRO DE 1989
 
 Dá nova redação ao art. 111 do Decreto n° 59.832, de 21 de dezembro de 1966, que regulamenta o Decreto-lei n° 5, de 4 de abril de 1966.

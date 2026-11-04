@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.496, de 03 de Dezembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 3.779, DE 01 DE SETEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Extingue o Instituto de Gestão de Saúde do Acre - IGESAC, cria quadro de pessoal em extinção no âmbito da SESACRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Extingue o Instituto de Gestão de Saúde do Acre - IGESAC, cria quadro de pessoal em extinção no âmbito da SESACRE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -50,7 +54,7 @@ Modificada pela Lei nº [4.496, de 03 de Dezembro de 2024.](https://legis.ac.gov
 
 ~~**II -** Divisão Contábil; (Revogado pela Lei nº 4.496, de 03/12/2024)~~
 
-~~**III -** Divisão Jurídica.~~ ~~(Revogado pela Lei nº 4.496, de 03/12/2024)~~
+~~**III -** Divisão Jurídica.(Revogado pela Lei nº 4.496, de 03/12/2024)~~
 
 **Art. 7º** Fica o Poder Executivo autorizado a realizar as adequações necessárias em seu orçamento para atender ao disposto nesta lei.
 

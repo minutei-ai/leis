@@ -1,7 +1,3 @@
-1
-
-###DEC-099190-0-000-19-03-1990@@@
-
 DECRETO Nº 99.190, DE 19 DE MARÇO DE 1990
 
 Altera os incisos I e VI do artigo 1º do Decreto nº 98.660, de 21 de dezembro de 1989, que fixa os efetivos do Exército para 1990.

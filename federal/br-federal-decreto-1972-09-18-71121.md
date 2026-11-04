@@ -1,5 +1,3 @@
-###DEC-071121-0-000-18-09-1972@@@
-
 decreto nº 71.121, de 18 de setembro de 1972.
 
 Cria o Centro Médico Naval Marcílio Dias, extingue o Hospital Naval Marcílio Dias e dá outras providências.

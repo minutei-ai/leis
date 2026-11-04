@@ -1,5 +1,3 @@
-###DEL-006368-0-000-23-03-1944@@@
-
 DECRETO-LEI N. 6.368 – DE 23 DE MARÇO  DE  1944
 
 Cria uma coletoria federal no município de Bandeirantes, no Estado do Paraná, e dá outras providências

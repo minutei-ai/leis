@@ -1,7 +1,3 @@
-1
-
-###DEC-095727-0-000-12-02-1988@@@
-
 DECRETO N° 95.727, DE 12 DE FEVEREIRO DE 1988
 
 Revoga os Decretos n°s 49.325/60, 75.769/75, 77.404/76 e 81.139/77, que aprovaram e alteraram, respectivamente, a regulamentação de Estação Rádio da Marinha.

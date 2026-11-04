@@ -1,5 +1,3 @@
-###DEC-052878-0-000-20-11-1963@@@
-
 DECRETO Nº 52.878, DE 20 DE NOVEMBRO DE 1963.
 
 Abre pelo Ministério da Fazenda, o crédito especial de Cr$2.000.000,00, para o fim que específica.

@@ -1,5 +1,3 @@
-###DEC-059139-0-000-25-08-1966@@@
-
 DECRETO Nº 59.139, DE 25 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Jacintho Henrique Corrêa a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

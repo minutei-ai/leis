@@ -1,5 +1,3 @@
-###DEL-006402-0-000-04-04-1944@@@
-
 DECRETO-LEI N. 6.402 – DE 4 DE ABRIL DE 1944
 
 Declara sem efeito o Decreto-lei nº 6.129, de 21 de dezembro de 1943

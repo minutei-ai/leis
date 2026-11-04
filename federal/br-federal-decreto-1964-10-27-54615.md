@@ -1,5 +1,3 @@
-###DEC-054615-0-000-27-10-1964@@@
-
 decreto nº 54.615, de 27 de outubro de 1964.
 
 Autoriza o cidadão Brasileiro ManoeI Bento dos Santos a pesquisar quartzo e ametista, no município de Chambicá, Estado de Goiás.

@@ -1,19 +1,17 @@
-###DEC-019379-0-000-08-08-1945@@@
+**DECRETO Nº 19.379, DE 8 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.379, DE 8 DE AGÔSTO DE 1945.</strong>
+***Suprime cargo provisório.***
 
-<em><strong>Suprime cargo provisório.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da constituição, e nos têrmos do artigo 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da constituição, e nos têrmos do artigo 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica suprimido um cargo da classe E da carreira de Guarda-livros, do Quadro Único - Parte Permanente - do Ministério do Trabalho, Indústria e Comércio, vago em virtude da exoneração de Florisbela de Oliveira, devendo a dotação correspondente ser levada a crédito da Conta-Corrente dos referidos Quadro e Parte do mesmo Ministério.
 
-<strong>Art</strong>. 1º Fica suprimido um cargo da classe E da carreira de Guarda-livros, do Quadro Único - Parte Permanente - do Ministério do Trabalho, Indústria e Comércio, vago em virtude da exoneração de Florisbela de Oliveira, devendo a dotação correspondente ser levada a crédito da Conta-Corrente dos referidos Quadro e Parte do mesmo Ministério.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de agôsto de 1945, 124º. da Independência e 57º. da  República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Alexandre Marcondes Filho

@@ -1,7 +1,3 @@
-1
-
-###DEC-095682-0-000-28-01-1988@@@
-
 DECRETO N° 95.682, DE 28 DE JANEIRO DE 1988
 
 Dispõe sobre medidas de contenção de despesas nos órgãos e entidades da Administração Federal, e dá outras providências.

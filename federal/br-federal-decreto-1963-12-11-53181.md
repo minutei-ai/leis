@@ -1,5 +1,3 @@
-###DEC-053181-0-000-11-12-1963@@@
-
 DECRETO Nº 53.181, DE 11 DE DEZEMBRO DE 1963.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$2.000.000.000,00 (dois bilhões de cruzeiros) para o fim que especifica.

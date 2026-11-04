@@ -1,5 +1,3 @@
-###DEC-083705-0-000-09-07-1979@@@
-
 Decreto nº 83.705, de 09 de julho de 1979.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Ijuí, com sede na cidade de Ijuí, Estado do Rio Grande do Sul.

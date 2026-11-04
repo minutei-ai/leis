@@ -1,5 +1,3 @@
-###DEC-061128-0-000-02-08-1967@@@
-
 DECRETO Nº 61.128, DE 2 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública a “Conferência São Vicente de Paulo do Divino Espírito Santo”, com sede em Cruz Alta, Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001560-0-000-19-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.560, DE 19 DE DEZEMBRO DE 1996.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Estados e do Distrito Federal.

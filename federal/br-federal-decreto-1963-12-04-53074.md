@@ -1,5 +1,3 @@
-###DEC-053074-0-000-04-12-1963@@@
-
 Decreto nº 53.074, de 4 de dezembro de 1963.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão em favor da Petróleo, Brasileiro S.A. - Petrobrás, terras situadas no Município de Betim Estado de Minas Gerais.
@@ -21,8 +19,6 @@ Brasília, 4 de dezembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-053074-0-000-04-12-1963@@@RET01+++
 
 DECRETO Nº 53.074, DE 4 de DEZEMBRO DE 1963.
 

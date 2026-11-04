@@ -1,5 +1,3 @@
-###DEC-002488-0-000-02-02-1998@@@
-
 DECRETO Nº 2.488, DE 2 DE FEVEREIRO DE 1998
 
 Define medidas de organização administrativa específicas para as autarquias e fundações qualificadas como Agências Executivas e dá outras providências.

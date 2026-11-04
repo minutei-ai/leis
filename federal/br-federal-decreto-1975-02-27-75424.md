@@ -1,5 +1,3 @@
-###DEC-075424-0-000-27-02-1975@@@
-
 DECRETO Nº 75.424, DE 27 DE FEVEREIRO DE 1975.
 
 Autoriza a instituição de servidão de solo, em favor de concessão de lavra.

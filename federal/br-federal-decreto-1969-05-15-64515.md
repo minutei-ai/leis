@@ -1,5 +1,3 @@
-###DEC-064515-0-000-15-05-1969@@@
-
 DECRETO Nº 64.515, DE 15 DE MAIO DE 1969.
 
 Dispõe sôbre a classificação de órgão de deliberação coletiva e dá outras providências.

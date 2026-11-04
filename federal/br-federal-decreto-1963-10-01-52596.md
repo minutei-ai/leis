@@ -1,5 +1,3 @@
-###DEC-052596-0-000-01-10-1963@@@
-
 DECRETO Nº 52.596, DE 1º DE OUTUBRO DE 1963.
 
 Outorga concessão, à Companhia de Eletrificação Centro Norte do Ceará para distribuir energia elétrica em diversos municípios.

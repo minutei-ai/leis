@@ -1,7 +1,3 @@
-1
-
-###DEC-000672-0-000-21-10-1992@@@
-
 DECRETO N° 672, DE 21 DE OUTUBRO DE 1992
 
 Acrescenta parágrafo único ao art. 88 das Normas do Cerimonial Público, aprovadas pelo Decreto n° 70.274, de 9 de março de 1972.

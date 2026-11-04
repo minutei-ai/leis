@@ -1,5 +1,3 @@
-###DEC-074226-0-000-27-06-1974@@@
-
 DECRETO Nº 74.226, DE 27 DE JUNHO DE 1974.
 
 Dispõe sobre a Estrutura Básica e concede autonomia administrativa e financeira ao Observatório Nacional do Ministério da Educação e Cultura.

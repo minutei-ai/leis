@@ -1,5 +1,3 @@
-###LCP-000011-0-000-25-05-1971@@@
-
 # LEI COMPLEMENTAR Nº 11, DE 25 DE MAIO DE 1971
 
 Institui o Programa de Assistência ao Trabalhador Rural, e dá outras providências.
@@ -180,8 +178,6 @@ Rocha Lagoa
 
 Mário Cláudio da Costa Braga
 
-###LCP-000011-0-000-25-05-1971@@@RET01+++
-
 # lei complementar nº 11, de 25 de maio de 1971
 
 Institui o Programa de Assistência ao Trabalhador Rural, e dá outras providências.
@@ -197,8 +193,6 @@ V - Serviço de Saúde;
 LEIA-SE:
 
 V - Serviços de Saúde;
-
-###LCP-000011-0-000-25-05-1971@@@REP01+++
 
 # (\*) LEI COMPLEMENTAR Nº 11, DE 25 DE MAIO DE 1971
 
@@ -380,8 +374,6 @@ F. Rocha Lagôa
 
 Mário Claúdio da Costa Braga
 
-###LCP-000011-0-000-25-05-1971@@@REP02+++
-
 # (\*) LEI COMPLEMENTAR Nº 11, DE 25 DE MAIO DE 1971
 
 Institui o Programa de Assistência ao Trabalhador Rural, e dá outras providências.
@@ -561,8 +553,6 @@ F. Rocha Lagôa
 Mário Cláudio da Costa Braga
 
 (\*) Nota do S.Pb. - Republica-se por ter saído com incorreções nos Diário Oficial de 265 de maio de 1971 e 5-8-1971.
-
-###LCP-000011-0-000-25-05-1971@@@REP03+++
 
 # (\*) lei complementar nº 11, de 25 de maio de 1971
 

@@ -1,5 +1,3 @@
-###DEC-066248-0-000-23-02-1970@@@
-
 Decreto nº 66.248 - de 23 de fevereiro de 1970
 
 Altera o enquadramento do pessoal do Território Federal de Rondônia de que trata o Decreto nº 63.735, de 6 de dezembro de 1968.

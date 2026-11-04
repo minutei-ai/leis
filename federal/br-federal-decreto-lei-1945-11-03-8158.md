@@ -1,5 +1,3 @@
-###DEL-008158-0-000-03-11-1945@@@
-
 DECRETO-LEI N. 8.158 – De 3 DE NOVEMBRO DE 1945
 
 Torna insubsistente o Decreto-lei número 8.090, de 15 de outubro de 1945

@@ -1,5 +1,3 @@
-###DEC-084929-0-000-17-07-1980@@@
-
 decreto nº 84.929 de 17 de julho de 1980.
 
 Declara perempta a concessão outorgada à Radio Guarani Sociedade Anônima, atualmente denominada S.A. Rádio Guarani, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belo Horizonte, Estado de Minas Gerais.

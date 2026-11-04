@@ -1,5 +1,3 @@
-###DEC-089583-0-000-24-04-1984@@@
-
 Decreto nº 89.583, de 24 de abril de 1984
 
 Altera a redação do Art. 1º, do Decreto nº 89.003, de 16 de novembro de 1983, que declarou de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Londrina da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

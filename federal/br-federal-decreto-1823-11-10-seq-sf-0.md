@@ -1,5 +1,3 @@
-###DEC-000000-0-000-10-11-1823@@@
-
 DECRETO - DE 10 DE NOVEMBRO DE 1823
 
 Iguala os vencimentos dos musicos do regimento de caçadores de S. Paulo aos que percebem os dos corpos da guarnição da Côrte.

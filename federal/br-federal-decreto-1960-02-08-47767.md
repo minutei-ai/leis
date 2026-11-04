@@ -1,5 +1,3 @@
-###DEC-047767-0-000-08-02-1960@@@
-
 DEcreto nº 47.767, de 8 de fevereiro de 1960.
 
 Inclui funções gratificadas em Ministério da Educação e Cultura, e dá outras providências.

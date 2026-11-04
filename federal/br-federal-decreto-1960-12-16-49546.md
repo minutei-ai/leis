@@ -1,5 +1,3 @@
-###DEC-049546-0-000-16-12-1960@@@
-
 Decreto nº 49.546, de 16 de dezembro de 1960.
 
 Considera de interêsse militar junções exercidas no Conselho Coordenador do Abastecimento e na Sociedade Termo-Elétrica de Capivari e dá outras providências.

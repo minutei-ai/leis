@@ -1,5 +1,3 @@
-###DEC-076485-0-000-20-10-1975@@@
-
 DECRETO Nº 76.485, DE 20 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Presidente Venceslau, em Presidente Venceslau, Estado de São Paulo.

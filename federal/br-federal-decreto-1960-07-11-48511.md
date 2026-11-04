@@ -1,5 +1,3 @@
-###DEC-048511-0-000-11-07-1960@@@
-
 DECRETO Nº 48.511, DE 11 DE JULHO DE 1960.
 
 Transfere função da Tabele Única de Extranumérico-mensalista do Ministério da Agricultura, para a Tabela Única de Extranumerário mensalista do Ministério da Fazenda.

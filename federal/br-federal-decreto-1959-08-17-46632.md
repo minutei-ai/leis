@@ -1,5 +1,3 @@
-###DEC-046632-0-000-17-08-1959@@@
-
 Decreto nº 46.632, de 17 de agôsto de 1959.
 
 Autoriza a Prefeitura do Distrito Federal a instalar um grupo gerador na Ilha de Paquetá bem como a reformar rêde de distribuição com que é fornecida energia elétrica às estações elevatórias e de tratamento de esgotos sanitários existentes na referida Ilha.

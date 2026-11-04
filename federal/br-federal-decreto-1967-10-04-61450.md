@@ -1,5 +1,3 @@
-###DEC-061450-0-000-04-10-1967@@@
-
 DECRETO Nº 61.450, DE 4 DE OUTUBRO DE 1967.
 
 Transfere do Departamento de Águas e Energia do Estado de Pernambuco para a Companhia de Eletricidade de Pernambuco, a concessão para distribuir energia elétrica no município de Limoeiro, Estado de Pernambuco.

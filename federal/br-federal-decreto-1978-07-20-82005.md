@@ -1,5 +1,3 @@
-###DEC-082005-0-000-20-07-1978@@@
-
 DECRETO Nº 82.005, DE 20 DE JULHO DE 1978.
 
 Retifica a concessão de lavra outorgada à Cal Oeste Ltda. pelo Decreto nº 80.172, de 16 de agosto de 1977.

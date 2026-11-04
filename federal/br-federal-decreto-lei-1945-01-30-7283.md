@@ -1,5 +1,3 @@
-###DEL-007283-0-000-30-01-1945@@@
-
 DECRETO-LEI N. 7.283 – DE 30 DE JANEIRO DE 1945
 
 Institui pensão especial em benefício da viúva e quatro descendentes de Clóvis Bevilaqua

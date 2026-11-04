@@ -1,5 +1,3 @@
-###DEC-068845-0-000-02-07-1971@@@
-
 Decreto nº 68.845, de 2 de julho de 1971.
 
 Concede à Companhia Siderúrgica Paulista COSIPA, o direito de lavrar calcário, no município de Salto de Pirapora, Estado de São Paulo.

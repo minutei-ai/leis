@@ -44,9 +44,10 @@ Art. 2º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Rio Verde, aos 27 de março de 2018.
 
-PAULO FARIA DO VALE<br>
+PAULO FARIA DO VALE
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral<br>
+VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral

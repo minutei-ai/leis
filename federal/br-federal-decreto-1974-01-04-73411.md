@@ -1,5 +1,3 @@
-###DEC-073411-0-000-04-01-1974@@@
-
 DECRETO Nº 73.411, DE 4 DE JANEIRO DE 1974.
 
 Institui o Conselho Nacional de Pós-Graduação e dá outras providências.

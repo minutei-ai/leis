@@ -1,5 +1,3 @@
-###DEC-094413-0-000-10-06-1987@@@
-
 DECRETO Nº 94.413, DE 10 DE JUNHO DE 1987
 
 Revoga a concessão outorgada à RÁDIO SOCIEDADE DA BAHIA S.A. através do Decreto nº 38.065, de 12 de outubro de 1955, publicado no Diário Oficial da União de 16 de novembro do mesmo ano.

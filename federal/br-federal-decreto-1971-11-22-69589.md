@@ -1,5 +1,3 @@
-###DEC-069589-0-000-22-11-1971@@@
-
 DECRETO Nº 69.589 - DE 22 DE NOVEMBRO DE 1971
 
 Concede indulto a sentenciados primários e dá outras providências.

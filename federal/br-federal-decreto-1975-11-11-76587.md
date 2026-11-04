@@ -1,5 +1,3 @@
-###DEC-076587-0-000-11-11-1975@@@
-
 DECRETO N.º 76.587, de 11 DE NOVEMBRO DE 1975.
 
 Reconhece direito a reintegração em favor de Mário Torquato de Souza.

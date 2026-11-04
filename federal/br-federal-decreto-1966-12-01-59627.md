@@ -1,5 +1,3 @@
-###DEC-059627-0-000-01-12-1966@@@
-
 DECRETO Nº 59.627, DE 1º DE DEZEMBRO DE 1966.
 
 Transfere da Companhia de Eletrificação Centro-Norte do Ceará para a Companhia de Eletrificação Rural do Nordeste, concessão para distribuir energia elétrica.

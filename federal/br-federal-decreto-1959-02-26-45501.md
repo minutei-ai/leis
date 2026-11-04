@@ -1,5 +1,3 @@
-###DEC-045501-0-000-26-02-1959@@@
-
 DECRETO Nº 45.501, DE 26 DE FEVEREIRO DE 1959.
 
 Altera a redação do Decreto número 45.039, de 5 de dezembro de 1958.

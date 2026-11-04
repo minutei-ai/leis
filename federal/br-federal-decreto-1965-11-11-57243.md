@@ -1,5 +1,3 @@
-###DEC-057243-0-000-11-11-1965@@@
-
 DECRETO Nº 57.243, DE 11 DE NOVEMBRO DE 1965.
 
 Dá nova redação ao art. 3º do Decreto nº 54.015, de 13 de julho de 1964, que dispõe sôbre a classificação dos cargos de nível universitário.

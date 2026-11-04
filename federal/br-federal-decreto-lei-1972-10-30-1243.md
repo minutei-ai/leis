@@ -1,5 +1,3 @@
-###DEL-001243-0-000-30-10-1972@@@
-
 # DECRETO-LEI Nº 1.243, DE 30 DE OUTUBRO DE 1972
 
 Eleva a dotação do Programa de Integração Nacional (PIN) criado pelo Decreto-lei nº 1.106, de 16 de junho de 1970, altera o Decreto-lei nº 1.164, de 1º de abril de 1971, e dá outras providências.

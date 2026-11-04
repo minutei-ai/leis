@@ -1,5 +1,3 @@
-###DEC-091574-0-000-26-08-1985@@@
-
 Decreto nº 91.574, de 26 de agosto de 1985
 
 Renova a concessão outorgada à RÁDIO CAPIBARIBE DO RECIFE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Recife, Estado de Pernambuco.

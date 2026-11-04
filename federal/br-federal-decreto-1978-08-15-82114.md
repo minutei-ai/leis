@@ -1,5 +1,3 @@
-###DEC-082114-0-000-15-08-1978@@@
-
 Decreto nº 82.114, de 15 de agosto de 1978.
 
 Concede reconhecimento ao curso de Bacharelado em Estatística do Instituto de Matemática e Estatística da Universidade de São Paulo, mantida pela Universidade de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

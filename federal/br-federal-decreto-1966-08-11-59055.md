@@ -1,5 +1,3 @@
-###DEC-059055-0-000-11-08-1966@@@
-
 DECRETO Nº 59.055, DE 11 DE AGÔSTO DE 1966.
 
 Declara de utilidade pública a Sociedade Beneficente Israelita Brasileira - Hospital Albert Einstein com sede em São Paulo, Estado de São Paulo.

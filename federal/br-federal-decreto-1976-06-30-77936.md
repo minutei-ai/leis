@@ -1,5 +1,3 @@
-###DEC-077936-0-000-30-06-1976@@@
-
 DECRETO Nº 77.936, DE 30 DE JUnHO DE 1976.
 
 Declara sem efeito o Decreto número 55.457, de 5 de janeiro de 1965, que concedeu a Jonas Veiga o direito de lavrar minério de ferro.

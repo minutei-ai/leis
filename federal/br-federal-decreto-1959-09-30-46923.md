@@ -1,5 +1,3 @@
-###DEC-046923-0-000-30-09-1959@@@
-
 DECRETO Nº 46.923, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Marques Aguiar a pesquisar areia no município de Ubatuba, Estado de São Paulo.

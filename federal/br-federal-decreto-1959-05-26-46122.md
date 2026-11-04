@@ -1,5 +1,3 @@
-###DEC-046122-0-000-26-05-1959@@@
-
 DECRETO Nº 46.122, DE 26 DE MAIO DE 1959.
 
 Autoriza a concessão de suprimento de recursos à Viação Férrea do Rio Grande do Sul e dá outras providências.

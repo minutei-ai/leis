@@ -1,5 +1,3 @@
-###DEL-005881-0-000-05-10-1943@@@
-
 DECRETO‑LEI N. 5.881 – DE 5 DE OUTUBRO DE 1943
 
 Aprova acôrdo suplementar sôbre fixação de preços da borracha
@@ -44,16 +42,136 @@ Testemunhas. – Valetim 'Bouças. – C. A. Silvestre.
 
 Preços de venda f.o.b. Belém – São Luiz – Fortaleza – Natal – Redía Baía – Corumbá e Cuiabá
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ttulonome" style="margin-bottom:12pt; text-indent:0pt"><span>(GÊNERO MANIHOT)</span></p><p class="Tabela" style="margin-top:12pt; margin-bottom:0pt; text-indent:0pt"><span>Maniçoba:</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Humidade máxima</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>US$</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Laminada, prensada é estampada por meio de máquina apropriada 3 m/m de espessura</span><span>‑</span><span>defumada.....................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,43</span><span>‑</span><span>1/2</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Idem, idem, idem, 3 m/m de espessura </span><span>‑</span><span> sêca ao ar.......................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,42</span><span>‑</span><span>1/2</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lavada, laminada, crepada (Crepe. nº 1)........................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,40</span><span>‑</span><span>1/4</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Idem, idem, idem (Crepe nº 2).......................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,36</span><span>‑</span><span>1/2</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>jequié – laminada – 6 m/m de espessura – Nº 1.............................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7%</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,34</span><span>‑</span><span>5/8</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>jequié – laminada – 6 m/m de espessura – Nº 2.............................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15%</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,31</span><span>‑</span><span>1/2</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bruta – Nº 1................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10%</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,33-1/2</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bruta – Nº 2...............................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20%</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,27</span><span>‑</span><span>3/4</span></p></td></tr><tr><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bruta – Nº 3...............................................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>30%</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,22</span><span>‑</span><span>1/2</span></p></td></tr></tbody></table>
+(GÊNERO MANIHOT)
+
+Maniçoba:
+
+Humidade máxima
+
+US$
+
+Laminada, prensada é estampada por meio de máquina apropriada 3 m/m de espessura‑defumada.....................................
+
+Isenta
+
+0,43‑1/2
+
+Idem, idem, idem, 3 m/m de espessura ‑ sêca ao ar.......................
+
+Isenta
+
+0,42‑1/2
+
+Lavada, laminada, crepada (Crepe. nº 1)........................................
+
+Isenta
+
+0,40‑1/4
+
+Idem, idem, idem (Crepe nº 2).......................................................
+
+Isenta
+
+0,36‑1/2
+
+jequié – laminada – 6 m/m de espessura – Nº 1.............................
+
+7%
+
+0,34‑5/8
+
+jequié – laminada – 6 m/m de espessura – Nº 2.............................
+
+15%
+
+0,31‑1/2
+
+Bruta – Nº 1................................................................................
+
+10%
+
+0,33-1/2
+
+Bruta – Nº 2...............................................................................
+
+20%
+
+0,27‑3/4
+
+Bruta – Nº 3...............................................................................
+
+30%
+
+0,22‑1/2
 
 Preços de venda f. o. b. Belém – São Luiz – Fortaleza – Natal – Recife – Baía ‑ Corumbá e Cuiabá
 
 (GÊNERO  NÃO ESPECIFICADO)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Humilde máxima</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>US$</span></p></td></tr><tr><td style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Choro bruto......................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>33%</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,21-1/2</span></p></td></tr></tbody></table>
+Humilde máxima
+
+US$
+
+Choro bruto......................................................................
+
+33%
+
+0,21-1/2
 
 Preços de venda F.o. b. Belém – São Luiz – Fortaleza – Natal – Recife – Baía – Corumbá e Cuiabá
 
 (GÊNERO HANCORNIA)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mangabeira:</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Humidade máxima</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>US$</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Laminada, prensada e estampada por meio de máquina apropriada 3 m/m espessura – defumada.......................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,43</span><span>‑</span><span>1/2</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Idem, idem, idem 3 m/m não defumada..........................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7%</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,39</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lavada, laminada, crepada (Crepe nº 1)..........................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,39</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Idem, idem, idem (Crepe nº 2).........................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Isenta</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,36-1/2</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Laminada </span><span>‑</span><span> 6 m/m de espessura......................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15%</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,30-1/2</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bruta nº 1......................................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25%</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,26-1/4</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bruta nº 2......................................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>35%</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,22-3/8</span></p></td></tr><tr><td style="width:251.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bruta nº 3......................................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>45%</span></p></td><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,18-1/4</span></p></td></tr></tbody></table>
+Mangabeira:
+
+Humidade máxima
+
+US$
+
+Laminada, prensada e estampada por meio de máquina apropriada 3 m/m espessura – defumada.......................
+
+Isenta
+
+0,43‑1/2
+
+Idem, idem, idem 3 m/m não defumada..........................
+
+7%
+
+0,39
+
+Lavada, laminada, crepada (Crepe nº 1)..........................
+
+Isenta
+
+0,39
+
+Idem, idem, idem (Crepe nº 2).........................................
+
+Isenta
+
+0,36-1/2
+
+Laminada ‑ 6 m/m de espessura......................................
+
+15%
+
+0,30-1/2
+
+Bruta nº 1......................................................................
+
+25%
+
+0,26-1/4
+
+Bruta nº 2......................................................................
+
+35%
+
+0,22-3/8
+
+Bruta nº 3......................................................................
+
+45%
+
+0,18-1/4

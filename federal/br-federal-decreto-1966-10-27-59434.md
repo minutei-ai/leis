@@ -1,5 +1,3 @@
-###DEC-059434-0-000-27-10-1966@@@
-
 Decreto nº 59.434, de 27 de outubro de 1966
 
 Autoriza o funcionamento da Faculdade de Engenharia de Belo Horizonte.

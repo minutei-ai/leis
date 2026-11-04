@@ -1,5 +1,3 @@
-###DEC-062100-0-000-11-01-1968@@@
-
 DECRETO Nº 62.100, DE 11 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Província Brasileira da Congregação da Missão” (Padres Lazaristas) com sede no Estado da Guanabara.

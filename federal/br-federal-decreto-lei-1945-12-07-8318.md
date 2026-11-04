@@ -1,5 +1,3 @@
-###DEL-008318-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.318 – DE 7 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 200.000,00, à Verba que especifica

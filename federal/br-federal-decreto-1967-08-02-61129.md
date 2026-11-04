@@ -1,5 +1,3 @@
-###DEC-061129-0-000-02-08-1967@@@
-
 DECRETO Nº 61.129, DE 2 DE AGÔSTO DE 1967.
 
 Autoriza o funcionamento da Faculdade de Engenharia, da Fundação Armando Álvares Penteado, São Paulo.

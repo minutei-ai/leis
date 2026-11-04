@@ -1,5 +1,3 @@
-###DEC-066794-0-000-29-06-1970@@@
-
 DECRETO Nº 66.794 - DE 29 DE JUNHO DE 1970
 
 Revoga o Decreto que concedeu à emprêsa Gasmotoren Fabrik Deutz autorização para funcionar na República Federativa do Brasil.

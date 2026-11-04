@@ -1,5 +1,3 @@
-###DEC-061056-0-000-24-07-1967@@@
-
 DECRETO Nº 61.056, DE 24 DE JULHO DE 1967.
 
 Regulamenta o art. 191 do Decreto-lei nº 200, d e25 de fevereiro de 1967, constitui a Financiadora de Estutos de Projetos S.A (FINEP) e dá outras providências.

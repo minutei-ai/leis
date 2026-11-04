@@ -1,7 +1,3 @@
-1
-
-###DEC-001130-0-000-03-05-1994@@@
-
 DECRETO N° 1.130, DE 3 DE MAIO DE 1994
 
 Dispõe sobre a execução do Vigésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 5 de outubro de 1993.

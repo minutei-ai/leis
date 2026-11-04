@@ -1,5 +1,3 @@
-###DEC-062527-0-000-16-04-1968@@@
-
 DECRETO Nº 62.527, DE 16 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Casa de Nazaré’’, com sede em Araxá, Estado de Minas Gerais.

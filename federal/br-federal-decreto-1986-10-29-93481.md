@@ -1,5 +1,3 @@
-###DEC-093481-0-000-29-10-1986@@@
-
 DECRETO Nº 93.481, DE 29 DE OUTUBRO DE 1986.
 
 Dispõe sobre a atuação da Administração Federal no que concerne às pessoas portadoras de deficiências, institui a Coordenadoria para Integração da Pessoa Portadora de Deficiência - CORDE, e dá outras providências.

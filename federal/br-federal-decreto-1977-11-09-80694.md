@@ -1,5 +1,3 @@
-###DEC-080694-0-000-09-11-1977@@@
-
 dECRETO Nº 80.694, DE 09 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Curtumes e Tanantes, da Universidade Federal do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

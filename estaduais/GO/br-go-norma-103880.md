@@ -1,4 +1,5 @@
-DECRETO Nº 9.814, DE 18 DE FEVEREIRO DE 2021<br>
+DECRETO Nº 9.814, DE 18 DE FEVEREIRO DE 2021
+
 \- [Revogado pelo Decreto nº 10.298, de 7-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107620/decreto-10298).
 
 ~~Qualifica como organização social de saúde, no âmbito do Estado de Goiás, o Instituto de Desenvolvimento, Ensino e Assistência à Saúde – IDEAS.~~
@@ -12,8 +13,6 @@ DECRETO Nº 9.814, DE 18 DE FEVEREIRO DE 2021<br>
 ~~Art. 2º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 18 de fevereiro de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

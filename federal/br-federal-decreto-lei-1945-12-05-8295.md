@@ -1,5 +1,3 @@
-###DEL-008295-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.295 – DE 5 DE DEZEMBRO DE 1945
 
 Autoriza a concessão de um abono de emergência ao pessoal das autarquias federais.

@@ -1,12 +1,10 @@
-###EMC-000031-0-000-14-12-2000@@@
+**EMENDA CONSTITUCIONAL Nº 31.**
 
-<strong>EMENDA CONSTITUCIONAL Nº 31.</strong>
-
-<em><strong>Altera o Ato das Disposições Constitucionais Transitórias, introduzindo artigos que criam o Fundo de Combate e Erradicação da Pobreza.</strong></em>
+***Altera o Ato das Disposições Constitucionais Transitórias, introduzindo artigos que criam o Fundo de Combate e Erradicação da Pobreza.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º A Constituição Federal, no Ato das Disposições Constitucionais Transitórias, é acrescida dos seguintes artigos:
+**Art**. 1º A Constituição Federal, no Ato das Disposições Constitucionais Transitórias, é acrescida dos seguintes artigos:
 
 “Art. 79. É instituído, para vigorar até o ano de 2010, no âmbito do Poder Executivo Federal, o Fundo de Combate e Erradicação da Pobreza, a ser regulado por lei complementar com o objetivo de viabilizar a todos os brasileiros acesso a níveis dignos de subsistência, cujos recursos serão aplicados em ações suplementares de nutrição, habitação, educação, saúde, reforço de renda familiar e outros programas de relevante interesse social voltados para melhoria da qualidade de vida.
 
@@ -46,13 +44,13 @@ Art. 82. Os Estados, o Distrito Federal e os Municípios devem instituir Fundos 
 
 Art. 83. Lei federal definirá os produtos e serviços supérfluos a que se referem os arts. 80, inciso II, e 82, § 1º e 2º.”
 
-<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 14 de dezembro de 2000.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
+**MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO MICHEL TEMER</strong>
+**DEPUTADO MICHEL TEMER**
 
 Presidente
 

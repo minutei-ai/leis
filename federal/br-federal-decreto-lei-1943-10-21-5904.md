@@ -1,5 +1,3 @@
-###DEL-005904-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.904 – DE 21 DE OUTUBRO De 1943
 
 Abre ao Ministério da Fazenda o crédito Suplementar de Cr$ 15.000,00,  à  verba que especifica
@@ -16,13 +14,19 @@ Consignação II – Material de Consumo
 
 S/c. n. 17 – Artigos de expediente, desenho, ensino e educação; artigos escolares para distribuição; fichas e livros de escrituração, impressos e material de classificação
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>11 – Alfândegas</span><span style="-aw-import:spaces">&nbsp; </span><span>.......................................................</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 5.000,00</span></p></td></tr></tbody></table>
+11 – Alfândegas  .......................................................
+
+Cr$ 5.000,00
 
 Consignação III – Diversas Despesas
 
 S/c. n. 42 – Telefone, telefonemas, telegramas, radiogramas e porte postal
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>11 – Alfândegas ........................................................</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ </span><span style="text-decoration:underline">10.000,00</span></p></td></tr><tr><td style="width:340.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>&nbsp;</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ </span><span style="text-decoration:underline">15.000,00</span></p></td></tr></tbody></table>
+11 – Alfândegas ........................................................
+
+Cr$ 10.000,00
+
+Cr$ 15.000,00
 
 Parágrafo único . O crédito a que  se refere êste artigo se destina à Alfândega de Manaus.
 

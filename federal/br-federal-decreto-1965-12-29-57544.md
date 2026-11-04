@@ -1,5 +1,3 @@
-###DEC-057544-0-000-29-12-1965@@@
-
 DECRETO Nº 57.544, DE 29 DE DEZEMBRO DE 1965.
 
 Autoriza a construção de linha de transmissão.

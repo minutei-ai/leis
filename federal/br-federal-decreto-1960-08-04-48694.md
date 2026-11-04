@@ -1,5 +1,3 @@
-###DEC-048694-0-000-04-08-1960@@@
-
 DECRETO Nº 48.694, DE 4 DE AGÔSTO DE 1960.
 
 Dá nova redação ao art. 1º do Decreto nº 47.405, de 10 de dezembro de 1959.

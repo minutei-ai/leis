@@ -1,5 +1,3 @@
-###DEC-046067-0-000-19-05-1959@@@
-
 DECRETO Nº 46.067, DE 19 DE MAIO DE 1959.
 
 Autoriza a cessão de terreno de marinha e de acrescido que menciona, ao Estado do Pará.

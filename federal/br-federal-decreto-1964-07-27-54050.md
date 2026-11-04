@@ -1,5 +1,3 @@
-###DEC-054050-0-000-27-07-1964@@@
-
 DECRETO Nº 54.050, DE 27 DE JULHO DE 1964.
 
 Autoriza o Ministério da Viação e Obras Públicas a aceitar financiamento externo para importação de equipamento de telecomunicações destinados à ampliação das rêdes do Departamento dos Correios e Telégrafos.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209833)<br>
-
 # DECRETO N° 68.765, DE 09 DE AGOSTO DE 2024
 
 ### _Cria a Assessoria Policial-Civil da Secretaria da Segurança Pública, na estrutura da Polícia Civil do Estado de São Paulo, disciplina a fixação e limites da gratificação mensal aos Assessores Policiais Civis no âmbito da Pasta, e dá outras providências._

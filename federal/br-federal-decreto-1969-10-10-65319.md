@@ -1,5 +1,3 @@
-###DEC-065319-0-000-10-10-1969@@@
-
 DECRETO Nº 65.319 - DE 10 DE OUTUBRO de 1969.
 
 Dá nova redação ao artigo 1º do Decreto nº 64.605, de 29 de maio de 1969, que declara de utilidade pública, para efeito de desapropriação os imóveis constitutivos da área que menciona, no município de Santos, Estado e São Paulo, e dá outras providências.

@@ -1,6 +1,7 @@
 LEI Nº 1.669 DE 12 DE ABRIL DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique.
 
 Cria o Município de Presidente Dutra, desmembrado do de Central.
@@ -53,4 +54,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

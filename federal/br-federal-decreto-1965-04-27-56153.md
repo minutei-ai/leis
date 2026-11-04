@@ -1,5 +1,3 @@
-###DEC-056153-0-000-27-04-1965@@@
-
 decreto nº 56.153, de 27 de abril de 1965.
 
 Autoriza o cidadão brasileiro Iveraldo Pio de Azevedo a pesquisar baritina, no município de Macaubas, Estado da Bahia.

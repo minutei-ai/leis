@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209840)<br>
-
 # DECRETO N° 68.770, DE 14 DE AGOSTO DE 2024
 
 ### _Institui a "Medalha do Mérito do Quadragésimo Primeiro Batalhão de Polícia Militar do Interior - Ten. Cel. PM Antonio de Oliveira" e dá providências correlatas._

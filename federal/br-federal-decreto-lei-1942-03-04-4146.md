@@ -1,6 +1,4 @@
-###DEL-004146-0-000-04-03-1942@@@
-
- DECRETO-LEI N. 4.146 – DE 4 DE MARÇO DE 1942
+DECRETO-LEI N. 4.146 – DE 4 DE MARÇO DE 1942
 
 Dispõe sobre a proteção dos depósitos fossilíferos
 

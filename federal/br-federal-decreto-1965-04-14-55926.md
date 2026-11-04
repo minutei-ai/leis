@@ -1,5 +1,3 @@
-###DEC-055926-0-000-14-04-1965@@@
-
 DECRETO Nº 55.926, DE 14 DE ABRIL DE 1965.
 
 Retifica as relações que acompanham os Decretos que menciona.

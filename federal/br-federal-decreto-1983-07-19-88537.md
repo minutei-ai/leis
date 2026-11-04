@@ -1,5 +1,3 @@
-###DEC-088537-0-000-19-07-1983@@@
-
 DECRETO Nº 88.537, de 19 de julho de 1983.
 
 Extingue Organização Militar no Ministério do Exército e dá outras providências.

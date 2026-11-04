@@ -1,5 +1,3 @@
-###DEL-006549-0-000-31-05-1944@@@
-
 DECRETO-LEI N. 6.549 – DE 31 DE MAIO DE 1944
 
 Dispõe sôbre a divisão territorial do país

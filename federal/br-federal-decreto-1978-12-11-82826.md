@@ -1,5 +1,3 @@
-###DEC-082826-0-000-11-12-1978@@@
-
 Decreto nº 82 826, de 11 de dezembro de 1978
 
 Autoriza o funcionamento da habilitação de Formação de Psicólogo do cursos de Psicologia do Centro de Estudos Superiores de Londrina, Estado do Paraná.

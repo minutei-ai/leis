@@ -1,5 +1,3 @@
-###DEL-003191-0-000-10-04-1941@@@
-
 DECRETO-LEI N. 3.191 – DE 10 DE ABRIL DE 1941
 
 Dispõe sobre ação judicial entre súditos de paises beligerantes não residentes no Brasil.

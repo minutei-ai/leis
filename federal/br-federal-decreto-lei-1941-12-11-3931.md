@@ -1,5 +1,3 @@
-###DEL-003931-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.931 – DE 11 DE DEZEMBRO DE 1941
 
 Lei de Introdução do Código de Processo Penal (decreto-lei n. 3.689, de 3 de outubro de 1941)

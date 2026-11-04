@@ -1,5 +1,3 @@
-###DEC-093910-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.910, DE 09 DE JANEIRO DE 1987
 
 Altera dispositivos do Decreto nº 84.324, de 19 de dezembro de 1979, que institui a Secretaria da Comissão Interministerial para os Recursos do Mar (SECIRM).

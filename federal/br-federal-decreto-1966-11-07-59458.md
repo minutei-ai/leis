@@ -1,5 +1,3 @@
-###DEC-059458-0-000-07-11-1966@@@
-
 DECRETO Nº 59.458, DE 7 DE NOVEMBRO DE 1966.
 
 Abre ao Ministério da Saúde o crédito suplementar de Cr$3.725.269.100 (três bilhões, setecentos e vinte e cinco milhões, duzentos e sessenta e nove mil e cem cruzeiros), em refôrço à dotação orçamentária destinada a aquisição de gêneros de alimentação para os hospitais de diversos órgãos daquela Secretaria de Estado.
@@ -12,7 +10,25 @@ Art. 1º Fica aberto ao Ministério da Saúde o crédito suplementar de Cr$3.725
 
 Lei nº 4.900, de 10 de dezembro de 1965
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:41.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.14.00</span></p></td><td style="width:380.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério da Saúde.</span></p></td></tr><tr><td style="width:41.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.14.06</span></p></td><td style="width:380.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Departamento de Administração (Órgãos Dependentes)</span></p></td></tr><tr><td style="width:41.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0</span></p></td><td style="width:380.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:41.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.0.0</span></p></td><td style="width:380.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Custeio</span></p></td></tr><tr><td style="width:41.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.2.0</span></p></td><td style="width:380.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Material de Consumo - Cr$ 4.364.850.000</span></p></td></tr></tbody></table>
+4.14.00
+
+- Ministério da Saúde.
+
+4.14.06
+
+- Departamento de Administração (Órgãos Dependentes)
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.2.0
+
+- Material de Consumo - Cr$ 4.364.850.000
 
 Art. 2º O crédito suplementar de que trata o artigo 1º será automàticamente registrado pelo Tribunal de Contas da União e distribuído ao Tesouro Nacional.
 

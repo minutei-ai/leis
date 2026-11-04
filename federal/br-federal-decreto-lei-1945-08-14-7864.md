@@ -1,5 +1,3 @@
-###DEL-007864-0-000-14-08-1945@@@
-
 DECRETO-LEI N. 7.864 – DE 14 DE AGÔSTO DE 1945
 
 Altera o art. 2º do Decreto-lei número 3.199, de 14 de abril de 1941, que estabelece as bases de organização dos desportos em todo o país e cria a função gratificada de Secretário do Conselho Nacional de Desportos.

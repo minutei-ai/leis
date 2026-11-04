@@ -1,5 +1,3 @@
-###DEC-083701-0-000-05-07-1979@@@
-
 decreto nº 83.701, de 05 de julho de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Mostardas, Estado do Rio Grande do Sul.

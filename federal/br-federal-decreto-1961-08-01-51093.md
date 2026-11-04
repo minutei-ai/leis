@@ -1,5 +1,3 @@
-###DEC-051093-0-000-01-08-1961@@@
-
 DECRETO Nº 51.093, DE 1º DE AGôSTO DE 1961.
 
 Concede a sociedade anônima estrangeira, funcionando no Brasil, autorização para aumentar seu capital.

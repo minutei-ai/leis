@@ -1,5 +1,3 @@
-###DEC-048099-0-000-12-04-1960@@@
-
 DECRETO Nº 48.099, DE 12 DE ABRIL DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da Madepinho Seguradora S.A.

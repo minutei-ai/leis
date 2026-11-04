@@ -1,5 +1,3 @@
-###DEC-081571-0-000-18-04-1978@@@
-
 Decreto nº 81.571, de 18 de abril de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

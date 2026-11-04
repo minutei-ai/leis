@@ -1,5 +1,3 @@
-###DEC-069012-0-000-04-08-1971@@@
-
 decreto nº 69.012, de 4 de AGôSTO de 1971.
 
 Exclui do relacionamento de extinção e de disponibilidade, respectivamente, o cargo e funcionário que indica, do Ministério da Aeronáutica.

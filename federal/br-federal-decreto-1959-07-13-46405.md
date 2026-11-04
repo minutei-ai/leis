@@ -1,5 +1,3 @@
-###DEC-046405-0-000-13-07-1959@@@
-
 DECRETO Nº 46.405, DE 13 DE JULHO DE 1959.
 
 Altera a lotação do Ministério da Viação e Obras.

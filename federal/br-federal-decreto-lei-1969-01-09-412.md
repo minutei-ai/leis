@@ -1,7 +1,3 @@
-1
-
-###DEL-000412-0-000-09-01-1969@@@
-
 DECRETO-LEI Nº 412, DE 9 DE JANEIRO DE 1969
 
 Aprova o Acôrdo de Pesca e Preservação de Recursos Vivos, entre o Brasil e o Uruguai, assinado em Montevidéu, a 12 de dezembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-072395-0-000-25-06-1973@@@
-
 DECRETO nº 72.395, DE 25 DE JUNHO DE 1973.
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis, e de Administração, na Faculdade de Ciências Econômicas de São João da Boa vista, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

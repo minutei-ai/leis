@@ -1,5 +1,3 @@
-###DEC-054811-0-000-03-11-1964@@@
-
 DECRETO Nº 54.811, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Nacional a pesquisar minérios de Ferro e manganês, nos municípios de Ouro Preto, Itabirito e Belo Vale, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-071372-0-000-14-11-1972@@@
-
 DECRETO Nº 71.372 - DE 14 DE NOVEMBRO DE 1972.
 
 Redistribui, com os respectivos ocupantes, cargos de Quadro de Pessoal do Ministério da Agricultura para o do Ministério da Educação e Cultura.

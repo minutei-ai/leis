@@ -1,5 +1,3 @@
-###DEC-071353-0-000-09-11-1972@@@
-
 DECRETO Nº 71.353 - DE 9 DE NOVEMBRO DE 1972.
 
 Dispõe sobre o Sistema de Planejamento Federal e dá outras providências.

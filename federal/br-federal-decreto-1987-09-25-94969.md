@@ -1,5 +1,3 @@
-###DEC-094969-0-000-25-09-1987@@@
-
 DECRETO Nº 94.969, DE 25 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Vila Amazônia", classificado no Cadastro de Imóveis Rurais do INCRA como “latifúndio por exploração”, situado no Município de Parintins, no Estado do Amazonas, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.679, de 19 de maio de 1986, e dá outras providências.

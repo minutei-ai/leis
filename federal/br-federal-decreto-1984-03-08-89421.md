@@ -1,5 +1,3 @@
-###DEC-089421-0-000-08-03-1984@@@
-
 Decreto nº 89.421, de 08 de março de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terras, com benfeitorias, situadas nos Municípios de GASPAR, ILHOTA, ITAJAÍ, NAVEGANTES, PIÇARRAS e PENHA, no Estado de Santa Catarina.

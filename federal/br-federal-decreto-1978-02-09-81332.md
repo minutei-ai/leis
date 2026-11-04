@@ -1,5 +1,3 @@
-###DEC-081332-0-000-09-02-1978@@@
-
 DECRETO Nº 81.332, DE 9 DE FEVEREIRO DE 1978
 
 Altera a redação de dispositivos do Regulamento para o Alto-Comando do Exército (R-189), aprovado por Decreto nº 76.098, de 8 de agosto de 1975.

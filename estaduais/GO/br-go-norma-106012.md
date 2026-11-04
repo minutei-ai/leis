@@ -62,8 +62,6 @@ b) ao art. 3º deste Decreto.
 
 Goiânia, 22 de agosto de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

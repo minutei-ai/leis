@@ -1,5 +1,3 @@
-###DEC-055496-0-000-11-01-1965@@@
-
 DECRETO Nº 55.496, DE 11 DE JANEIRO DE 1965.
 
 Declara sem efeito o decreto nº 23.781, de 6 de outubro de 1947.

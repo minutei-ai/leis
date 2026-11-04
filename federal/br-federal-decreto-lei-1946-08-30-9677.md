@@ -1,5 +1,3 @@
-###DEL-009677-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.677 – DE 30 DE AGÔSTO DE 1946
 
 Altera dispositivo do Decreto-lei número 9.202, de 26 de Abril de 1946, e dá outras providências.

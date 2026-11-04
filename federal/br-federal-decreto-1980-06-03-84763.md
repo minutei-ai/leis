@@ -1,5 +1,3 @@
-###DEC-084763-0-000-03-06-1980@@@
-
 Decreto nº 84.763, de 03 de junho de 1980.
 
 Altera a redação do artigo 2º do Regulamento aprovado pelo Decreto nº 58.984, de 3 de agosto de 1966.

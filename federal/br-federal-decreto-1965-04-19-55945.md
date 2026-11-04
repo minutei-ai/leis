@@ -1,5 +1,3 @@
-###DEC-055945-0-000-19-04-1965@@@
-
 DECRETO Nº 55.945, DE 19 DE ABRIL DE 1965.
 
 Declara de utilidade pública para fins de desapropriação o imóvel que menciona necessário ao Ministério da Guerra.

@@ -493,7 +493,3 @@ Maria Coeli Simões Pires
 Renata Maria Paes de Vilhena
 
 Leonardo Maurício Colombini Lima
-
-\============================================================
-
-Data da última atualização: 2/8/2021.

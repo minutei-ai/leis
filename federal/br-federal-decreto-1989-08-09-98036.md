@@ -1,7 +1,3 @@
-1
-
-###DEC-098036-0-000-09-08-1989@@@
-
 DECRETO N° 98.036, DE 9 DE AGOSTO DE 1989
 
 Altera o Decreto n° 96.620, de 31 de agosto de 1988, e dá outras providências.

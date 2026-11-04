@@ -1,5 +1,3 @@
-###DEC-090685-0-000-11-12-1984@@@
-
 DECRETO nº 90.685, de 11 de dezembro de 1984.
 
 Altera a razão social da Centrais Elétricas do Amazonas S.A.- CELETRAMAZON - de que trata o Decreto nº 54.363, de 1º de outubro de 1964.

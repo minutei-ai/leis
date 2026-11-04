@@ -1,5 +1,3 @@
-###DEC-088868-0-000-17-10-1983@@@
-
 Decreto nº 88.868, de 17 de outubro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, a área compreendida pelos imóveis sitos, respectivamente, nas ruas João Pessoa, 110, 114 e 120 e Siqueira Campos s/nº, na cidade de Vitória da Conquista, Estado da Bahia, destinados a ampliação da Central TANDEN, a cargo da Telecomunicações da Bahia S.A. - TELEBAHIA.

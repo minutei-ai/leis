@@ -1,5 +1,3 @@
-###DEC-003463-0-000-17-05-2000@@@
-
 decreto nº 3.463, de 17 de maio de 2000.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Polônia sobre a Isenção Recíproca de Vistos, celebrado em Brasília, em 14 de julho de 1999.
@@ -126,4 +124,22 @@ No dia de sua entrada em vigor, este Acordo substituirá o Acordo entre o Govern
 
 Feito em Brasília, em 14 de julho de 1999, em dois exemplares originais, nos idiomas português, polonês e inglês, sendo os textos igualmente autênticos. Em caso de divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Luiz Felipe de Seixas Corrêa</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Ministro, interino, das Relações Exteriores</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:201.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República da Polônia</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-style:italic">Radoslaw Silorski</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+Luiz Felipe de Seixas Corrêa
+
+Ministro, interino, das Relações Exteriores
+
+&nbsp;
+
+</td><td style="width:201.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República da Polônia
+
+Radoslaw Silorski
+
+Ministro dos Negócios Estrangeiros
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-049301-0-000-21-11-1960@@@
-
 DECRETO N° 49.301 , DE 21 DE NOVEMBRO DE 1960
 
 Introduz modificação no Plano de  Uniformes para os Colégios Militares aprovado pelo Decreto número 1.539, de 30 de março de 1937,

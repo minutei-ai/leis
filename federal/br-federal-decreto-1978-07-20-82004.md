@@ -1,5 +1,3 @@
-###DEC-082004-0-000-20-07-1978@@@
-
 dECRETO Nº 82.004, DE 20 DE JULHO DE 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

@@ -1,5 +1,3 @@
-###DEL-005779-0-000-26-08-1943@@@
-
 DECRETO-LEI N. 5.779 – DE 26 DE AGÔSTO DE 1943
 
 Abre ao Ministério de Justiça e Negócios Interiores o crédito suplementar de Cr$ 530.000,00, à verba que especifica

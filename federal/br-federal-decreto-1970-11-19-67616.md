@@ -1,5 +1,3 @@
-###DEC-067616-0-000-19-11-1970@@@
-
 DECRETO Nº 67.616, DE 19 DE NOVEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial do Ministério da Agricultura, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

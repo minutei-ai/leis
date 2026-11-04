@@ -1,5 +1,3 @@
-###DEC-046273-0-000-27-06-1959@@@
-
 DECRETO Nº 46.273, DE 27 DE JUNHO DE 1959.
 
 Declara perempta a concessão outorgada à Rádio Belo Horizonte Limitada para estabelecer uma estação radiodifusora na cidade de Belo Horizonte, Estado de Minas Gerais.

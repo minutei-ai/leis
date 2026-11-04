@@ -1,5 +1,3 @@
-###DEC-087861-0-000-23-11-1982@@@
-
 Decreto nº 87.861, de 23 de novembro de 1982
 
 Declara de interesse social, para fins de denominado desapropriação, o imóvel rural denominado "Redonda", situado no Município de Aracati no Estado do Ceará, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 60.465, de 14 de março de 1967, alterado pelos Decretos nºs 61.106 de 28 de julho de 1967, 68.085, de 19 e janeiro de 1971, 75.147, de 27 de dezembro de 1974, e 82.884, de 19 de dezembro de 1978.

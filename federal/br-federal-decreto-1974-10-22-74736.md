@@ -1,5 +1,3 @@
-###DEC-074736-0-000-22-10-1974@@@
-
 DECRETO Nº 74.736, DE 22 de outubro DE 1974.
 
 Autoriza a empresa norte-amereicana Geometrics a participar de atividades de aerolevantamento.

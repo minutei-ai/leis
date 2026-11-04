@@ -1,5 +1,3 @@
-###DEC-090797-0-000-10-01-1985@@@
-
 DECRETO Nº 90.797, DE 10 DE JANEIRO DE 1985.
 
 Altera o Regulamento de Passaportes aprovado pelo Decreto nº 84.541, de 11 de março de 1980.

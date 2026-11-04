@@ -1,5 +1,3 @@
-###DEC-046836-0-000-15-09-1959@@@
-
 DECRETO Nº 46.836, DE 15 DE SETEMBRO DE 1959.
 
 Altera os artigos 100, 101, 102 e 103, das especificações aprovadas pelo Decreto nº 45.772, de 9 de abril de 1959, e referentes à classificação e fiscalização da exportação das frutas cítricas.

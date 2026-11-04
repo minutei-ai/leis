@@ -1,5 +1,3 @@
-###DEC-072341-0-000-08-06-1973@@@
-
 DECRETO Nº 72.341, DE 8 DE JUNHO DE 1973.
 
 Concede à empresa Impresit Girola Lodigiani (Impregilo) S.p.A autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-070244-0-000-07-03-1972@@@
-
 DECRETO Nº 70.244, DE 7 DE MARÇO DE 1972.
 
 Autoriza o funcionamento do Curso de Ciências Biológicas da Faculdade de "Auxilium" de Filosofia, Ciências e Letras, em Lins, Estado de São Paulo.

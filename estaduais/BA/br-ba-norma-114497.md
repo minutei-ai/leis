@@ -1,6 +1,7 @@
 LEI Nº 1.762 DE 28 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.092](https://www.legislabahia.ba.gov.br/documentos/lei-no-14092-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, de acordo com a Lei nº 12.057, de 11 de janeiro de 2011, os limites dos municípios de Cícero Dantas, Coronel João Sá, Jeremoabo, Nova Soure, Novo Triunfo, Paripiranga, Pedro Alexandre, Ribeira do Amparo, Ribeira do Pombal, Santa Brígida e Sítio do Quinto.
 
 Cria o Município de "Coronel João Sá", desmembrado do de Geremoabo.
@@ -53,4 +54,4 @@ Governador
 
 Adhemar Martinelli Braga
 
-* * *
+ *

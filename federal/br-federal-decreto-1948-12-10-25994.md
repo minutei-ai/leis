@@ -1,26 +1,24 @@
-###DEC-025994-0-000-10-12-1948@@@
+**DECRETO Nº 25.994, DE 10 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.994, DE 10 DE DEZEMBRO DE 1948.</strong>
+***Aprova cláusulas de convênio entre a União e o Estado do Ceará, para execução de obras no pôrto de Mucuripe.***
 
-<em><strong>Aprova cláusulas de convênio entre a União e o Estado do Ceará, para execução de obras no pôrto de Mucuripe.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** tendo em vista no disposto no Decreto número 23.606, de 20 de dezembro de 1933 e a autorização constante da Lei Orçamentária n.º 162, de ??? de dezembro de 1947,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> tendo em vista no disposto no Decreto número 23.606, de 20 de dezembro de 1933 e a autorização constante da Lei Orçamentária n.º 162, de ??? de dezembro de 1947,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Ficam o Ministério da Viação e Obras Públicas e o Govêrno do Estado do Ceará autorizados a assinar convênio de acordo com as cláusulas que com êste baixam, devidamente autenticadas pelo titular da referida pasta, para execução de dragagem, atêrro e obras completamente no pôrto de Mucuripe naquele Estado.
 
-<strong>Art</strong>. 1.º Ficam o Ministério da Viação e Obras Públicas e o Govêrno do Estado do Ceará autorizados a assinar convênio de acordo com as cláusulas que com êste baixam, devidamente autenticadas pelo titular da referida pasta, para execução de dragagem, atêrro e obras completamente no pôrto de Mucuripe naquele Estado.
-
-<strong>Art</strong>. 2.º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2.º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 10 de dezembro de 1948.; 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO N.º 25.994 – DE 10 DE DEZEMBRO DE 1948</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO N.º 25.994 – DE 10 DE DEZEMBRO DE 1948**
 
-Primeira – O Govêrno Federal como poder concedente e o do Estado do Ceará como concessionário do pôrto de Fortaleza, <em>ex-vi</em> do contrato de concessão autorizado pelo Decreto número 23.606, de 20 de dezembro de 1933, convencionam entre si e de comum acôrdo que a dragagem atêrro e obras complementares do pôrto de Mucuripe sejam feitos diretamente pelo primeiro com os recursos consignados na Lei Orçamentária Federal, para o corrente exercício, especificadamente para aplicação naquele pôrto e, nos demais exercício, pelos créditos que forem concedidos para o mesmo fim.
+Primeira – O Govêrno Federal como poder concedente e o do Estado do Ceará como concessionário do pôrto de Fortaleza, *ex-vi* do contrato de concessão autorizado pelo Decreto número 23.606, de 20 de dezembro de 1933, convencionam entre si e de comum acôrdo que a dragagem atêrro e obras complementares do pôrto de Mucuripe sejam feitos diretamente pelo primeiro com os recursos consignados na Lei Orçamentária Federal, para o corrente exercício, especificadamente para aplicação naquele pôrto e, nos demais exercício, pelos créditos que forem concedidos para o mesmo fim.
 
 Parágrafo Primeiro – O Estado do Ceará reserva para si o direito de executar parte das obras constantes desta cláusula, com seu próprio numerário mediante prévio entendimento com o Departamento Nacional de Portos, Rios e Canais uma vez que essa iniciativa venha concorrer para a mais rápida exploração industrial do citado pôrto.
 
@@ -36,4 +34,4 @@ Quarta – O presente convênio terá sua validade dependente de aprovação da 
 
 Rio de Janeiro, 10 de dezembro de 1948.
 
-<strong>CLÓVIS PESTANA.</strong>
+**CLÓVIS PESTANA.**

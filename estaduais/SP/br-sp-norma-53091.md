@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53091)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-11920-24.03.2005.html)
 
 # LEI Nº 11.920, DE 24 DE MARÇO DE 2005
@@ -32,8 +31,6 @@
 ~~Secretário-Chefe da Casa Civil~~
 
 ~~Publicada na Assessoria Técnico-Legislativa, aos 24 de março de 2005.~~
-
-<br>
 
 Revogada.
 

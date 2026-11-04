@@ -1,5 +1,3 @@
-###DEL-008650-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.650 – DE 11 DE JANEIRO DE 1946
 
 Cria função gratificada no Quadro Permanente do Ministério da Agricultura e dá outras providências

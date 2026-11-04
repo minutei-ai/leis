@@ -1,5 +1,3 @@
-###DEC-087386-0-000-12-07-1982@@@
-
 Decreto nº 87.386, de 12 de julho de 1982
 
 Concede à Companhia Siderúrgica de Mogi das Cruzes - COSIM autorização para proceder a aumento do seu capital social.

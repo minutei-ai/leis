@@ -1,5 +1,3 @@
-###DEC-078598-0-000-21-10-1976@@@
-
 DECRETO Nº 78.598, DE 21 DE OUTUBRO DE 1976.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Caxias, Estado do Maranhão, compreendido na área prioritária de Reforma Agrária, assim declarada pelo Decreto nº 77.073, de 22 de janeiro de 1976, e ampliada pelo Decreto nº 78.250, de 16 agosto de 1976.

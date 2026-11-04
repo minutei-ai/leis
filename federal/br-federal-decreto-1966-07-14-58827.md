@@ -1,5 +1,3 @@
-###DEC-058827-0-000-14-07-1966@@@
-
 DECRETO Nº 58.827, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção nº 113, relativa ao exame médico dos pescadores.
@@ -114,4 +112,20 @@ O texto que procede é o texto autêntico da Convenção devidamente adotada pel
 
 Em fé de que, assinaram a 15 de junho de 1959.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Presidente da Conferência</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Erik Dreyer</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Diretor-Geral da Repartição Internacional do Trabalho</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>David A. Morse</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Presidente da Conferência
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Erik Dreyer
+
+</td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Diretor-Geral da Repartição Internacional do Trabalho
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+David A. Morse
+
+</td></tr></tbody></table>

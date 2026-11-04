@@ -1,5 +1,3 @@
-###DEC-076213-0-000-04-09-1975@@@
-
 DECRETO Nº 76.213 - DE 4 DE SETEMBRO DE 1975
 
 Dispõe sobre a transferência da execução do Plano de Melhoramento da Alimentação e do Manejo do Gado Leiteiro - PLAMAM - para a Empresa Brasileira de Assistência Técnica e Extensão Rural - EMBRATER e dá outras providências.

@@ -26,7 +26,8 @@ Art. 4º - As reduções autorizadas nos termos do artigo anterior constarão ob
 
 Art. 5º - O pagamento do imposto de circulação de mercadorias, fora do prazo legal, antes de qualquer procedimento ou diligência do Fisco, será acrescido das multas seguintes:
 
-Ver também:<br>
+Ver também:
+
 Art. 5º da Lei nº 3.138, de 11 de julho de 1973: "Ficam reduzidas de 50% (cinqüenta por cento) as multas previstas nos incisos I, II e III do artigo 5º da Lei 2.923, de 26 de abril de 1971."
 
 I - de dez por cento (10%) do imposto, quando esse for pago no prazo de trinta (30) dias, contado da data do débito;
@@ -37,7 +38,8 @@ III - de trinta por cento (30%) do imposto, quando o pagamento ocorrer depois de
 
 Parágrafo único - Os contribuintes que efetuarem o pagamento do imposto em atraso, sem adição da multa de mora que lhe for correspondente, em razão do respectivo prazo, ficam sujeitos às multas constantes dos incisos I, II ou III deste artigo, cuja redução, prevista no artigo 5º da Lei nº 3.138 de 11 de  julho de 1973, somente é aplicada se houver espontaneidade.
 
-Redação de acordo com o art. 5º da Lei nº 3.306, de 21 de dezembro de 1974.<br>
+Redação de acordo com o art. 5º da Lei nº 3.306, de 21 de dezembro de 1974.
+
 Redação original: "Parágrafo único - O contribuinte que efetuar pagamento do imposto em atraso, sem adição de multa fixada no artigo anterior e em razão do respectivo prazo, ficará sujeito à multa de cincoenta por cento (50%) do valor do mesmo, recolhido intempestivamente."
 
 Art. 6º - Fica extinta a "Notificação Fiscal" prevista no [artigo 18, § 2º, da Lei nº 2.425, de 30 de dezembro de 1966](https://www.legislabahia.ba.gov.br/documentos/lei-no-2425-de-30-de-dezembro-de-1966#LO_2_425_Art__18_P__2) e no regulamento aprovado com o Decreto nº 20.582, de 31 de janeiro de 1968.

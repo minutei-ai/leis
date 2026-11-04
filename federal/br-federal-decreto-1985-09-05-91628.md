@@ -1,5 +1,3 @@
-###DEC-091628-0-000-05-09-1985@@@
-
 Decreto nº 91.628, de 05 de setembro de 1985
 
 Institui Comitê para coordenação das diretrizes referentes ao aprimoramento da educação técnica.

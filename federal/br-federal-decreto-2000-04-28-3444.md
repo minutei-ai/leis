@@ -1,5 +1,3 @@
-###DEC-003444-0-000-28-04-2000@@@
-
 Decreto nº 3.444, de 28 de abril de 2000.
 
 Delega competência ao Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior para autorizar o funcionamento no Brasil de empresa ou sociedade estrangeira, na forma prevista nos arts. 59 a 73 do Decreto-Lei nº 2.627, de 26 de setembro de 1940, mantidos pelo art. 300 da Lei nº 6.404, de 15 de dezembro de 1976.

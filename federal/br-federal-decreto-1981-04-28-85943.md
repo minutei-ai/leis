@@ -1,5 +1,3 @@
-###DEC-085943-0-000-28-04-1981@@@
-
 Decreto nº 85.943, de 28 de abril de 1981.
 
 Concede autorização à HISPANICA DE PETRÓLEOS S.A. (HISPANOIL), HUDBAY OIL (BRAZIL) LTD. e DEMINEX BRAZIL LIMITED para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

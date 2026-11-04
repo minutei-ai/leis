@@ -1,5 +1,3 @@
-###DEL-000146-0-000-03-02-1967@@@
-
 DECRETO-Lei Nº 146, de 3 DE fevereiro DE 1967
 
 Dispõe sôbre vencimentos dos Tesoureiros efetivos, Tesoureiros - Auxiliares do Serviço Público Federal e Autárquico, e Conferentes das Caixas Econômicas Federais, e dá outras providências.
@@ -10,7 +8,43 @@ RESOLVE BAIXAR O SEGUINTE DECRETO-LEI:
 
 Art. 1º Os atuais titulares efetivos de cargos de tesoureiro, amparados pelo art. 11 da Lei nº 403, de 24 de setembro de 1948, ou beneficiados pela Lei nº 1.741, de 22 de novembro de 1952, de Tesoureiro-Auxiliar e de Conferente das Caixas Econômicas Federais, nomeados até 25 de junho de 1964, passam a integrar a parte suplementar de respectivo quadro de pessoal, com os seguintes vencimentos mensais, nêles já incluído o aumento concedido pelo Decreto-lei nº 81, de 21 de dezembro de 1966:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I -</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiro de 1ª categoria .........................</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>705.000</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II -</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiro de 2ª categoria .........................</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>660.000</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ill -</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiro de 3ª categoria .........................</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>630.000</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV -</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiro-Auxiliar e Conferente de 1ª categoria .................................................</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>630.000</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V -</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiro-Auxiliar e Conferente de 2ª categoria .................................................</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>600.000</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI -</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiro-Auxiliar e Conferente de 3ª categoria .................................................</span></p></td><td style="width:190.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>570.000</span></p></td></tr></tbody></table>
+Cr$
+
+I -
+
+Tesoureiro de 1ª categoria .........................
+
+705.000
+
+II -
+
+Tesoureiro de 2ª categoria .........................
+
+660.000
+
+Ill -
+
+Tesoureiro de 3ª categoria .........................
+
+630.000
+
+IV -
+
+Tesoureiro-Auxiliar e Conferente de 1ª categoria .................................................
+
+630.000
+
+V -
+
+Tesoureiro-Auxiliar e Conferente de 2ª categoria .................................................
+
+600.000
+
+VI -
+
+Tesoureiro-Auxiliar e Conferente de 3ª categoria .................................................
+
+570.000
 
 Parágrafo único. O disposto neste decreto-Iei não aplica aos Tesoureiros, Tesoureiros-Auxiliares e Conferentes que tenham sido providos nos respectivos cargos após 26 de julho de 1964.
 

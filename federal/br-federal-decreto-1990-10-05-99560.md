@@ -1,5 +1,3 @@
-###DEC-099560-0-000-05-10-1990@@@
-
 DECRETO N° 99.560, DE 5 DE OUTUBRO DE 1990
 
 Promulga o Acordo Básico de Cooperação Técnica, entre a República Federativa do Brasil e a República da Nicarágua.

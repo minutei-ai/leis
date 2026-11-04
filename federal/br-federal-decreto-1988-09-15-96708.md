@@ -1,5 +1,3 @@
-###DEC-096708-0-000-15-09-1988@@@
-
 DECRETO N° 96.708, DE 15 DE SETEMBRO DE 1988
 
 Outorga concessão à LUQUI COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de São Paulo, Estado de São Paulo.

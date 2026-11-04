@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208954)<br>
-
 # DECRETO N° 68.205, DE 15 DE DEZEMBRO DE 2023
 
 ### _Institui o Sistema de Informações Gerenciais do Governo de São Paulo e dá providências correlatas._

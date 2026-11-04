@@ -1,5 +1,3 @@
-###DEC-069095-0-000-18-08-1971@@@
-
 DECRETO Nº 69.095, DE 18 DE AGôSTO DE 1971.
 
 Declara de utilidade pública o Hospital de Caridade São Vicente de Paulo, com sede em Quatiguá, Estado do Paraná.

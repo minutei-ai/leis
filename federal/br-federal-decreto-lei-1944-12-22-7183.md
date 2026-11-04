@@ -1,5 +1,3 @@
-###DEL-007183-0-000-22-12-1944@@@
-
 DECRETO-LEI N. 7.183 – DE 22 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 28.000.000,00 para aquisição de material destinado à cunhagem de moedas e ao aparelhamento das oficinas da Casa da Moeda, e dá outras providências

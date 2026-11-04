@@ -1,5 +1,3 @@
-###DEC-004333-0-000-12-08-2002@@@
-
 DECRETO Nº 4.333, DE 12 DE AGOSTO DE 2002
 
 Regulamenta a delimitação das áreas do Porto Organizado de Fortaleza, Santos e Vitória, suas instalações, infra-estrutura e planta geográfica.

@@ -1,5 +1,3 @@
-###DEC-055223-0-000-15-12-1964@@@
-
 Decreto Nº 55.223, DE 15 DE DEZEMBRO DE 1964.
 
 Concede à Mica do Brasil Ltda., autorização para funcionar como emprêsa de mineração.

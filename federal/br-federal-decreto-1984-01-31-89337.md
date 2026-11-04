@@ -1,5 +1,3 @@
-###DEC-089337-0-000-31-01-1984@@@
-
 Decreto nº 89.337 de 31 de janeiro de 1984
 
 Autoriza o Governo do Estado de Minas Gerais a explorar, através da RÁDIO INCONFIDÊNCIA LTDA., na cidade de Belo Horizonte, Estado de Minas Gerais, serviço de radiodifusão sonora em onda curta, mediante convênio a ser celebrado com o Ministério das Comunicações.

@@ -1,5 +1,3 @@
-###DEC-090738-0-000-19-12-1984@@@
-
 Decreto nº 90.738, de 19 de dezembro de 1984
 
 Altera dispositivos do Regulamento Interno dos III, da Serviços da Aeronáutica.

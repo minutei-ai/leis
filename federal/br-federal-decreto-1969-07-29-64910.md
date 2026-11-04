@@ -1,5 +1,3 @@
-###DEC-064910-0-000-29-07-1969@@@
-
 DECRETO Nº 64.910 - DE 29 DE JULHO DE 1969.
 
 Cria a Comissão de Coordenação do Transporte Aérea Civil (COTAC) e dá outras providências.

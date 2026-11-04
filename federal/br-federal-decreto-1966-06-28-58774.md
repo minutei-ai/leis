@@ -1,5 +1,3 @@
-###DEC-058774-0-000-28-06-1966@@@
-
 DECRETO Nº 58.774, DE 28 DE JUNHO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da A Fortaleza, Companhia Nacional de Seguros, relativa ao aumento do capital social.

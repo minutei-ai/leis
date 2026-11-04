@@ -1,5 +1,3 @@
-###DEC-085643-0-000-15-01-1981@@@
-
 Decreto nº 85.643, de 15 de janeiro de 1981
 
 Autoriza o funcionamento de cursos de Tecnólogos, na Faculdade de Tecnologia de Rio Claro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-003240-0-000-11-11-1999@@@
-
 DECRETO Nº 3.240, DE 11 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a redução do tempo do Serviço Militar Inicial e dá outras providências.

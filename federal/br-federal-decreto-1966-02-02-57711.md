@@ -1,5 +1,3 @@
-###DEC-057711-0-000-02-02-1966@@@
-
 decreto nº 57.711, de 2 de fevereiro de 1966.
 
 Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento das corredeiras de Estreito, no rio Grande.

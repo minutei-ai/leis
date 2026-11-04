@@ -1,5 +1,3 @@
-###DEC-056231-0-000-30-04-1965@@@
-
 Decreto nº 56.231, de 30 de abril de 1965.
 
 Declara caduco o Decreto nº 31.216, de 30 de julho de 1952.

@@ -1,5 +1,3 @@
-###DEC-068325-0-000-09-03-1971@@@
-
 Decreto nº 68.325, de 9 de março de 1971.
 
 Declara de utilidade pública a Associação de Cultura Franco-Brasileira, com sede no Rio de Janeiro, Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-048722-0-000-04-08-1960@@@
-
 DECRETO Nº 48.722, DE 4 DE AGÔSTO DE 1960.
 
 Concede à sociedade anônima Gilleitte Sajeiy Razor Company of Brazil autorização para continuar a funcionar na República.

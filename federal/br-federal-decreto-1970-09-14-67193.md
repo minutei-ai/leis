@@ -1,5 +1,3 @@
-###DEC-067193-0-000-14-09-1970@@@
-
 DECRETO Nº 67.193, DE 14 DE SETEMBRO DE 1970.
 
 Extingue as Comissões de Rêde ns 1,2,3,4,5,6,7,8,9 e 10 e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002116-0-018-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.116-18, DE 26 DE ABRIL DE 2001
 
 Assegura percepção de gratificação por servidores das carreiras Policial Federal, Delegado de Polícia do Distrito Federal e de Polícia Civil do Distrito Federal, altera as Leis nº s 4.878, de 3 de dezembro de 1965, 5.619, de 3 de novembro de 1970, e 5.906, de 23 de julho de 1973, e dá outras providências.

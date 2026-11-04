@@ -1,7 +1,3 @@
-1
-
-###DEL-001083-0-000-06-02-1970@@@
-
 # DECRETO-LEI Nº 1.083, DE 6 de FEvEREIRO DE 1970
 
 Dispõe sôbre a incidência e cobrança do impôsto único sôbre minerais, concede isenções e dá outras providências.

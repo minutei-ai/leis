@@ -1,5 +1,3 @@
-###DEC-091491-0-000-26-07-1985@@@
-
 DECRETO Nº 91.491, DE 26 DE JULHO DE 1985
 
 Revoga o artigo 18 e dá nova redação ao artigo 19 do Regulamento da Medalha Militar aprovado pelo Decreto nº 39.207, de 22 de maio de 1956, alterado pelos Decretos nºs 69.313, de 05 de outubro de 1971, 70.751, de 23 de junho de 1972 e 88.247, de 22 de abril de 1983.

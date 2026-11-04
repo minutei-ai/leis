@@ -1,5 +1,3 @@
-###DEC-076758-0-000-09-12-1975@@@
-
 DECRETO Nº 76.758, DE 9 DE DEZEMBRO DE 1975.
 
 Altera dispositivos do Decreto número 71.534, de 12 de dezembro de 1972, que dispõe sobre a estrutura, funcionamento e competência do Ministério das Relações Exteriores.

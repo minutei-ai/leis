@@ -1,5 +1,3 @@
-###DEC-052151-0-000-25-06-1963@@@
-
 DECRETO Nº52.151, DE 25 DE JUNHO DE1963.
 
 Aprova normas para elaboração de convênios entre as União e os Estados para aplicação das leis de intervenção no domínio econômico.
@@ -33,8 +31,6 @@ Art. 5º Êste decreto entrará em vigor na data de sua publicação, revogadas 
 Brasília, em 25 de junho de 1963; 142º da Independência e 75º da República.
 
 joÃo goulart
-
-###DEC-052151-0-000-25-06-1963@@@RET01+++
 
 Decreto nº 52.151, de 25 de junho de 1963.
 

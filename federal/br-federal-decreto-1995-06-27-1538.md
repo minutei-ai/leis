@@ -1,7 +1,3 @@
-1
-
-###DEC-001538-0-000-27-06-1995@@@
-
 DECRETO Nº 1.538, DE 27 DE JUNHO DE 1995.
 
 Cria o Grupo Executivo de Repressão ao Trabalho Forçado e dá outras providências.

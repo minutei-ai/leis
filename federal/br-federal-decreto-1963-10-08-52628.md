@@ -1,5 +1,3 @@
-###DEC-052628-0-000-08-10-1963@@@
-
 DECRETO Nº 52.628, DE 8 DE OUTUBRO DE 1963.
 
 Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica da queda dágua denominada Goio-Erê, existente no rio Goio-Erê, situado entre os municípios de Cruzeiro do Oeste e Goio-Erê, Estado do Paraná.

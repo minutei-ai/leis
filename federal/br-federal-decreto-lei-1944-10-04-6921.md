@@ -1,5 +1,3 @@
-###DEL-006921-0-000-04-10-1944@@@
-
 DECRETO-LEI N. 6.921 – DE 4 DE OUTUBRO DE 1944
 
 Cria funções gratificadas no Quadro I – Parte Permanente – do Ministério da Viação e Obras Públicas

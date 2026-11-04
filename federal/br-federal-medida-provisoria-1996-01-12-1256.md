@@ -1,7 +1,3 @@
-1
-
-###MPV-001256-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.256, DE 12 DE JANEIRO DE 1996.
 
 Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001448-0-000-06-04-1995@@@
-
 DECRETO Nº 1.448, DE 6 DE ABRIL DE 1995
 
 Dá nova redação ao art. 2º do Decreto nº 99.438, de 7 de agosto de 1990, que dispõe sobre a composição do Conselho Nacional de Saúde, e dá outra providência.

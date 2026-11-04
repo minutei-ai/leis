@@ -1,5 +1,3 @@
-###DEL-003586-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.586 – DE 4 DE SETEMBRO DE 1941
 
 Modifica, em parte, o decreto-lei n. 2.222, de 23 de maio de 1940

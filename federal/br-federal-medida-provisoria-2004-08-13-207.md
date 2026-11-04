@@ -1,5 +1,3 @@
-###MPV-000207-0-000-13-08-2004@@@
-
 MEDIDA PROVISÓRIA Nº 207, DE 13 DE AGOSTO 2004
 
 Altera disposições das Leis nºs 10.683, de 28 de maio de 2003, e 9.650, de 27 de maio de 1998.

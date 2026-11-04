@@ -1,5 +1,3 @@
-###DEC-047102-0-000-26-10-1959@@@
-
 DECRETO Nº 47.102, DE 26 DE OUTUBRO DE 1959.
 
 Modifica artigos do Regulamento baixado pelo Decreto nº 42.222, de 5 de setembro de 1957, e dá outras providências.

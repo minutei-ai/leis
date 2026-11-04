@@ -1,5 +1,3 @@
-###DEC-085140-0-000-15-09-1980@@@
-
 DECRETO Nº 85.140, DE 15 DE SETEMBRO DE 1980
 
 Autoriza o funcionamento do curso de Psicologia, da Faculdade Riopretense de Filosofia, Ciências e Letras, de São José do Rio Preto, São Paulo.

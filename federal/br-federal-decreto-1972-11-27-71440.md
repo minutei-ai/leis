@@ -1,5 +1,3 @@
-###DEC-071440-0-000-27-11-1972@@@
-
 DECRETO Nº 71.440 - DE 27 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração e finanças de Machado, Estado de Minas Gerais.

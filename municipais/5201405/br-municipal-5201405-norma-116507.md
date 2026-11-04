@@ -8,8 +8,10 @@ Art. 1º - Denomina-se “PRAÇA OSMAR RODRIGUES DE OLIVEIRA”, localizada entr
 
 Art. 2º - Esta Lei entrará em vigor na data de sua publicação. Gabinete do Prefeito Municipal de Aparecida Goiânia, Estado de Goiás, 10 de Outubro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

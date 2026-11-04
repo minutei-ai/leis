@@ -1,5 +1,3 @@
-###DEC-053270-0-000-13-12-1963@@@
-
 DECRETO Nº 53.270, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Mario Oliveira Borges a pesquisar calcita e Mármore no município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

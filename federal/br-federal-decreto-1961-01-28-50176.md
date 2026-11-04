@@ -1,5 +1,3 @@
-###DEC-050176-0-000-28-01-1961@@@
-
 DECRETO Nº 50.176, DE 28 DE JANEIRO 1961.
 
 Autoriza o cidadão brasileiro Florido da Silva Valladares a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

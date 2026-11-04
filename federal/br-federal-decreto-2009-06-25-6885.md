@@ -1,5 +1,3 @@
-###DEC-006885-0-000-25-06-2009@@@
-
 DECRETO Nº 6.885, DE 25 DE JUNHO DE 2009.
 
 Altera o art. 4o do Decreto no 5.113, de 22 de junho de 2004, que regulamenta o art. 20, inciso XVI, da Lei no 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço - FGTS.

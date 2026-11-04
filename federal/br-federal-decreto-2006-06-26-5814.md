@@ -1,5 +1,3 @@
-###DEC-005814-0-000-26-06-2006@@@
-
 DECRETO Nº 5.814, DE 26 DE JUNHO DE 2006.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República do Panamá no Campo da Luta contra o Crime Organizado, celebrado em Brasília, em 21 de agosto de 2001.
@@ -24,11 +22,7 @@ Promulga o Acordo de Cooperação entre o Governo da República Federativa do Br
 
 LUIZ INÁCIO LULA DA SILVA
 
-          Samuel Pinheiro Guimaraes Neto
-
-Este texto não substitui o publicado no D.O.U. de 27.6.2006.
-
-ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA
+          Samuel Pinheiro Guimaraes NetoACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA
 
 REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA
 

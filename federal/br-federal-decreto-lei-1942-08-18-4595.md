@@ -1,5 +1,3 @@
-###DEL-004595-0-000-18-08-1942@@@
-
 DECRETO-LEI N. 4.595 – DE 18 DE AGOSTO DE 1942
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de 8:834$0, para pagamento de gratificação adicional

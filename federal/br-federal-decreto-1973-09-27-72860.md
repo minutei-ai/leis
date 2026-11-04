@@ -1,5 +1,3 @@
-###DEC-072860-0-000-27-09-1973@@@
-
 DECRETO Nº 72.860, DE 27 DE SeTEMBRO DE 1973.
 
 Concede à Agrícola Monte Carmelo S.A. o direito de lavrar argila e areia nos Municípios de Jaguariuna e Paulínia, Estado de São Paulo.

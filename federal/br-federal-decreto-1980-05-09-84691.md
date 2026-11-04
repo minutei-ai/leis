@@ -1,5 +1,3 @@
-###DEC-084691-0-000-09-05-1980@@@
-
 Decreto nº 84.691, de 09 de maio de 1980.
 
 Concede à DIGIBRÁS - Empresa Digital Brasileira S.A. autorização para promover o aumento do seu capital.

@@ -1,5 +1,3 @@
-###DEL-009610-0-000-19-08-1946@@@
-
 DECRETO-LEI N. 9.610 – DE 19 DE AGÔSTO DE 1946
 
 Autoriza a locação de bens incorporados ao Patrimônio Nacional e dá outras providências.

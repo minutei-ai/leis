@@ -1,5 +1,3 @@
-###DEC-087872-0-000-29-11-1982@@@
-
 Decreto nº 87.872, de 29 de novembro de 1982
 
 Altera dispositivos do Regulamento da Comissão Mista Brasileiro-Argentina para a construção da Ponte sobre o Rio Iguaçu, criada pelas Notas trocadas entre os Ministros das Relações Exteriores dos dois países, em 17 de maio de 1980, aprovado pelo Decreto nº 85.112, de 02 de setembro de 1980.

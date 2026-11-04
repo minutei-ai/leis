@@ -1,5 +1,3 @@
-###DEC-082862-0-000-18-12-1978@@@
-
 Decreto nº 82.862, de 18 de dezembro de 1978
 
 Retifica a concessão de lavra outorgada à Ormindo Barreto Costa - Firma Individual pelo Decreto nº 79.616, de 28 de abril de 1977.

@@ -1,5 +1,3 @@
-###DEC-052350-0-000-12-08-1963@@@
-
 DECRETO Nº 52.350, DE 12 DE AGÔSTO DE 1963.
 
 Altera o parágrafo único do art. 11, do Regulamento aprovado pelo Decreto nº 52.149, de 25 de junho de 1963, para a execução da Lei nº 4.216, de 6 de maio de 1963, que estende à região amazônica os benefícios do art. 34 da Lei nº 3.995, de 14 de dezembro de 1961 (Plano Diretor da SUDENE).

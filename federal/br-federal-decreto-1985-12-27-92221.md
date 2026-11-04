@@ -1,5 +1,3 @@
-###DEC-092221-0-000-27-12-1985@@@
-
 Decreto nº 92.221, de 27 de dezembro de 1985
 
 Concede à Empresa THE GILLETTE COMPANY, autorização para funcionar na República Federativa do Brasil.

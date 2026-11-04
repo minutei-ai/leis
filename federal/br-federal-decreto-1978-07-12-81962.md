@@ -1,5 +1,3 @@
-###DEC-081962-0-000-12-07-1978@@@
-
 Decreto nº 81.962, de 12 de julho de 1978
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à pesquisa e lavra de petróleo, situados nos municípios de Conceição da Barra e São Mateus, no Estado do Espírito Santo.

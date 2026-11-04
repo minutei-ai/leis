@@ -1,5 +1,3 @@
-###DEC-088007-0-000-29-12-1982@@@
-
 # Decreto nº 88.007, de 29 de dezembro de 1982.
 
 Reajusta os valores da gratificação pela representação de Gabinete e os de indenização de representação.

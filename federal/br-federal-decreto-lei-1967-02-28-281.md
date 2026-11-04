@@ -1,5 +1,3 @@
-###DEL-000281-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 281, DE 28 De FEVEREIRO DE 1967
 
 Extingue o Instituto Nacional do Mate e dá outras providências.

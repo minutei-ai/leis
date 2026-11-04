@@ -1,5 +1,3 @@
-###DEC-091839-0-000-25-10-1985@@@
-
 Decreto nº 91.839, de 25 de outubro de 1985
 
 Criação da Embaixada do Brasil em São Cristóvão e Névis.

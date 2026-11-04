@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d9158c19-4c7b-43cc-8db5-cdfa36a8eea5/texto#nowhere)
 
-###DEL-000807-0-000-04-09-1969@@@
-
 DECRETO-LEI Nº 807, DE 4 DE SETEMBRO DE 1969
 
 Dispõe sôbre a transcrição de imóveis incorporados às sociedades por ações da Administração indireta da União,

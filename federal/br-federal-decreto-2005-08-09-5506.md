@@ -1,5 +1,3 @@
-###DEC-005506-0-000-09-08-2005@@@
-
 DECRETO Nº 5.506, DE 9 DE AGOSTO DE 2005.
 
        Promulga o Protocolo à Convenção Internacional para a Conservação do Atum Atlântico, de 5 de junho de 1992.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 10.8.2005
-
-        PROTOCOLO PARA EMENDAR O PARÁGRAFO 2 DO ARTIGO X DA CONVENÇÃO INTERNACIONAL PARA A CONSERVAÇÃO DO ATUM ATLÂNTICO
+        Celso Luiz Nunes AmorimPROTOCOLO PARA EMENDAR O PARÁGRAFO 2 DO ARTIGO X DA CONVENÇÃO INTERNACIONAL PARA A CONSERVAÇÃO DO ATUM ATLÂNTICO
 
 (ADOTADO EM 5 DE JUNHO DE 1992, EM MADRI)
 

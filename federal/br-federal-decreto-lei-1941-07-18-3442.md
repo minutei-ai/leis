@@ -1,5 +1,3 @@
-###DEL-003442-0-000-18-07-1941@@@
-
 DECRETO-LEI N. 3.442 – DE 18 DE JULHO DE 1941
 
 Cria, no Ministério da Justiça e Negócios Interiores, o Quadro VIII - Tribunal de Segurança Nacional – e dá outras providências

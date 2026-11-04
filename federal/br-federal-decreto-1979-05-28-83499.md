@@ -1,5 +1,3 @@
-###DEC-083499-0-000-28-05-1979@@@
-
 Decreto nº 83.499, de 28 de maio de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Hipódromo, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

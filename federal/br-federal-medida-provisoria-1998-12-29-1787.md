@@ -1,5 +1,3 @@
-###MPV-001787-0-000-29-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.787, DE 29 DE DEZEMBRO DE 1998.
 
 Altera e acresce dispositivos ao Decreto-Lei nº 73, de 21 de novembro de 1966, às Leis nºs 5.972, de 11 de dezembro de 1973, e 9.636, de 15 de maio de 1998, e dá outras providências.

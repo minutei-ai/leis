@@ -1,5 +1,3 @@
-###DEC-051998-0-000-13-05-1963@@@
-
 DECRETO Nº 51.998, DE 13 DE MAIO DE 1963.
 
 Revoga o Decreto nº 42.941 de 30 de dezembro de 1957, que outorgou concessão à Rádio. Sociedade Anônima Mayrink Veiga para estabelecer uma estação de radiotelevisão na cidade do Rio de Janeiro , Estado da Guanabara.

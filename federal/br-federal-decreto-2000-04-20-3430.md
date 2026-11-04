@@ -1,5 +1,3 @@
-###DEC-003430-0-000-20-04-2000@@@
-
 DECRETO Nº 3.430, DE 20 DE ABRIL DE 2000.
 
 Dispõe sobre a execução do Regulamento 9 (Adoção de Requisitos Exigíveis Comuns para a Matrícula de Embarcações, Inscrição de Contratos de Utilização e Intercâmbio de Informação sobre Matrícula de Embarcações, Altas, Baixa e Modificações) do Acordo de Alcance Parcial nº 5, assinado ao amparo do art. 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, em 2 de fevereiro de 2000.

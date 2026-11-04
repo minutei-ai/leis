@@ -1,5 +1,3 @@
-###DEC-059921-0-000-30-12-1966@@@
-
 Decreto nº 59.921, de 30 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Sebastião Bonetti a pesquisar feldspato e quartzo no Município de Socorro, Estado de São Paulo.

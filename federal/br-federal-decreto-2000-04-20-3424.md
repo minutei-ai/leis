@@ -1,5 +1,3 @@
-###DEC-003424-0-000-20-04-2000@@@
-
 decreto nº 3.424, de 20 de abril de 2000.
 
 Promulgo o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Colômbia sobre Sanidade Animal para o Intercâmbio de Animais e Produtos de Origem Animal, celebrado em Bogotá, em 9 de fevereiro de 1988.
@@ -86,4 +84,14 @@ Artigo VIII
 
 Feito em Bogotá, aos 09 dias do mês de fevereiro de 1988, em dois exemplares em português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República da Colômbia</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Roberto de Abreu Sodré</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Julio Londono Paredes</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro das Relações Exteriores</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República da Colômbia
+
+Roberto de Abreu Sodré
+
+Julio Londono Paredes
+
+Ministro das Relações Exteriores
+
+Ministro de Relações Exteriores

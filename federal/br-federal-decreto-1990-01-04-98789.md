@@ -1,7 +1,3 @@
-1
-
-###DEC-098789-0-000-04-01-1990@@@
-
 DECRETO Nº 98.789, DE 4 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, entre o Brasil e a Bolívia (Acordo nº 8).

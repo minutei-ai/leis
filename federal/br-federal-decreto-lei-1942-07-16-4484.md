@@ -1,5 +1,3 @@
-###DEL-004484-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.484 – DE 16 DE JULHO DE 1942
 
 Prorroga até 31 de dezembro de 1942 o prazo para comprovação de um  adiantamento recebido na Delegacia do Tesouro Brasileiro em Nova York

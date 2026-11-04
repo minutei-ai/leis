@@ -1,5 +1,3 @@
-###DEC-091437-0-000-15-07-1985@@@
-
 Decreto nº 91.437, de 15 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO ALVORADA DE PARINTINS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Parintins, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-075078-0-000-12-12-1974@@@
-
 DECRETO Nº 75.078, DE 12 DE Dezembro De 1974.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de acrescidos de marinha que menciona, situado no Estado da Guanabara.

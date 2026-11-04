@@ -1,5 +1,3 @@
-###MPV-001164-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.164, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

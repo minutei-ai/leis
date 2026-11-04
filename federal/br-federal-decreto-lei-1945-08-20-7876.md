@@ -1,5 +1,3 @@
-###DEL-007876-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.876 – DE 20 DE AGÔSTO DE 1945
 
 Cria, no Quadro Único do Ministério do Trabalho, Indústria e Comércio, o cargo de Consultor Técnico, e da outras providência.

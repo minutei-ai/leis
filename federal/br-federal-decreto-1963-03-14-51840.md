@@ -1,5 +1,3 @@
-###DEC-051840-0-000-14-03-1963@@@
-
 decreto nº 51.840, de 14 de março de 1963.
 
 Baixa Normas Técnicas Especiais para o Combate à Peste.

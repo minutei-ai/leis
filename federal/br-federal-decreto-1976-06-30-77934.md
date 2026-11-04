@@ -1,5 +1,3 @@
-###DEC-077934-0-000-30-06-1976@@@
-
 Decreto nº 77.934, de 30 de junho de 1976.
 
 Declara sem efeito o Decreto número 11.129, de 24 de dezembro de 1942, que concedeu a Delfina Maria de Freitas o direito de lavrar canga e ocres.

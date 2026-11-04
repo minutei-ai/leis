@@ -1,5 +1,3 @@
-###DEC-087376-0-000-12-07-1982@@@
-
 Decreto nº 87.376, de 12 de julho de 1982
 
 Altera dispositivo do Decreto nº 79.399, de 16 de março de 1977, e dá outras providências.

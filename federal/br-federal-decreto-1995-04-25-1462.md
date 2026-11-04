@@ -1,7 +1,3 @@
-1
-
-###DEC-001462-0-000-25-04-1995@@@
-
 DECRETO Nº 1.462, DE 25 DE ABRIL DE 1995
 
 Dá nova redação ao art. 1º do Decreto nº 96.759, de 22 de setembro de 1988, que dispõe sobre o Conselho Nacional das Zonas de Processamento de Exportação CZPE.

@@ -1,5 +1,3 @@
-###DEL-009836-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.836 – DE 11 DE SETEMBRO DE 1946
 
 Cria a Subcontadoria Secional junto à Estrada de Ferro Central do Piauí e dá outras providências.

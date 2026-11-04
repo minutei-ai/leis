@@ -1,5 +1,3 @@
-###DEC-089091-0-000-02-12-1983@@@
-
 Decreto nº 89.091, de 02 de dezembro de 1983
 
 Declara de utilidade pública para fins de desapropriação, área de terreno, sem benfeitoria, situada no Município de Carapicuíba, Estado de São Paulo, destinada à instalação de Central Telefônica, a cargo da Telecomunicações de São Paulo S. A. - TELESP.

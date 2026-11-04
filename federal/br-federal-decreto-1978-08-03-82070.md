@@ -1,5 +1,3 @@
-###DEC-082070-0-000-03-08-1978@@@
-
 Decreto nº 82.070, de 03 de agosto de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Amazonas.

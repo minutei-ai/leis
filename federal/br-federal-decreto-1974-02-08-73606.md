@@ -1,5 +1,3 @@
-###DEC-073606-0-000-08-02-1974@@@
-
 DECRETO Nº 73.606, DE 8 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento do Centro de Tecnologia da Indústria e Construção, mantido pela Fundação Educacional do Amazonas, com sede na Cidade de Manaus, Estado do Amazonas.

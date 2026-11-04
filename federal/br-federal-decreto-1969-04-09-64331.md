@@ -1,5 +1,3 @@
-###DEC-064331-0-000-09-04-1969@@@
-
 Decreto Nº 64.331, DE 9 DE ABRIL DE 1969.
 
 Aprova incorporação de emprêsa de energia elétrica no Estado da Bahia e da outras providências.

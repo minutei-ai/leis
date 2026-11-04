@@ -1,7 +1,3 @@
-1
-
-###DEC-097937-0-000-10-07-1989@@@
-
 DECRETO N° 97.937, DE 10 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Administração da Escola Superior de Propaganda e Marketing, com sede em São Paulo, Estado de São Paulo.

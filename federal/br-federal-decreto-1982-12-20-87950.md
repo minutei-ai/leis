@@ -1,5 +1,3 @@
-###DEC-087950-0-000-20-12-1982@@@
-
 Decreto nº 87.950, de 20 de dezembro de 1982
 
 Autoriza a Companhia Hidro Elétrica do São Francisco - CHESF a proceder ao aumento do seu Capital Social.

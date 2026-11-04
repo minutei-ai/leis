@@ -1,5 +1,3 @@
-###DEC-059937-0-000-06-01-1967@@@
-
 DECRETO Nº 59.937, DE 6 DE JANEIRO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$2.000.000.000 (dois bilhões de cruzeiros), autorizado pelo Decreto-lei nº 39, de 18 de novembro de 1966, consignado ao Conselho Nacional de Telecomunicações.

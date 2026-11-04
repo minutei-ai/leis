@@ -1,5 +1,3 @@
-###DEC-066602-0-000-20-05-1970@@@
-
 DECRETO Nº 66.602, DE 20 DE MAIO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Ituiutaba, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050466-0-000-15-04-1961@@@
-
 DECRETO Nº 50.466, DE 15 DE ABRIL DE 1961.
 
 Institui um Grupo de Estudos para apresentar sugestões relativas à política nacional de Armazéns e Silos.

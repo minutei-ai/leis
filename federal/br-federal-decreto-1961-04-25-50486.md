@@ -1,5 +1,3 @@
-###DEC-050486-0-000-25-04-1961@@@
-
 DECRETO Nº 50.486, DE 25 DE ABRIL DE 1961.
 
 Regulamenta o art. 31 da Lei nº 3.115, de 16 de março de 1957.

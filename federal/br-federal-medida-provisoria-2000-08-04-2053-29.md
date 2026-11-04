@@ -1,5 +1,3 @@
-###MPV-002053-0-029-04-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.053-29, DE 4 DE AGOSTO DE 2000.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

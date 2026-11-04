@@ -1,5 +1,3 @@
-###DEC-068508-0-000-14-04-1971@@@
-
 Decreto nº 68.508 - de 14 de abril de 1971.
 
 Concede autorização à Federação Nacional dos Bancos para filiar-se à Federação Latino-Americana de Bancos (FELABAN).

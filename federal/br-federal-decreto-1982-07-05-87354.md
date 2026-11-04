@@ -1,5 +1,3 @@
-###DEC-087354-0-000-05-07-1982@@@
-
 Decreto nº 87.354, de 5 de julho de 1982.
 
 Declara luto oficial.

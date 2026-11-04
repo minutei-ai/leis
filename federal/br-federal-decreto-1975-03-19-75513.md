@@ -1,5 +1,3 @@
-###DEC-075513-0-000-19-03-1975@@@
-
 DECRETO Nº 75.513, DE 19 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração de Empresas de Governador Valadares, mantida pela Sociedade Civil "Mater et Magistra" com sede na cidade de Governador Valadares, Estado de Minas Gerais.

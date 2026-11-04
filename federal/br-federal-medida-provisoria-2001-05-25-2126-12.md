@@ -1,5 +1,3 @@
-###MPV-002126-0-012-25-05-2001@@@
-
 MEDIDA PROVISÓRIA No 2.126-12, DE 25 DE MAIO DE 2001.
 
 Regulamenta o inciso II do § 1o e o § 4o do art. 225 da Constituição, os arts. 1o, 8o, alínea "j", 10, alínea "c", 15 e 16, alíneas 3 e 4 da Convenção sobre Diversidade Biológica, dispõe sobre o acesso ao patrimônio genético, a proteção e o acesso ao conhecimento tradicional associado, a repartição de benefícios e o acesso à tecnologia e transferência de tecnologia para sua conservação e utilização, e dá outras providências.

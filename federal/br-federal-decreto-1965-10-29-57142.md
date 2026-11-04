@@ -1,5 +1,3 @@
-###DEC-057142-0-000-29-10-1965@@@
-
 Decreto nº 57.142, de 29 de outubro de 1965.
 
 Aprova a alteração introduzida nos Estatutos da Aliança de Minas Gerais Companhia de Seguros, relativa ao aumento do capital social.

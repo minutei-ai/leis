@@ -1,7 +1,3 @@
-1
-
-###DEC-099788-0-000-10-12-1990@@@
-
 # DECRETO N° 99.788, DE 10 DE DEZEMBRO DE 1990
 
 Aprova os atos constitutivos da Japan Overseas Development Corporation.

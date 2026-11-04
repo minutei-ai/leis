@@ -18,4 +18,4 @@ Brasília, 3 de janeiro de 2020; 199º da Independência e 132º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Ricardo de Aquino Salles<br>
+Ricardo de Aquino Salles

@@ -24,7 +24,8 @@ II – Bolsa Alimentação – R$ 550,00 (quinhentos e cinquenta reais) mensais;
 
 § 1º Os incentivos Bolsa Moradia e Bolsa Alimentação serão pagos aos profissionais médicos participantes do “Programa Mais Médicos para o Brasil” mediante protocolo, junto à Secretaria Municipal de Saúde, de requerimento devidamente assinado e acompanhado de documentos pessoais, dados bancários e comprovante de endereço atualizados, sob pena de indeferimento do pagamento e renúncia aos mesmos.
 
-§ 2º Os valores mensais tratados para o incentivo Bolsa Moradia e Bolsa Alimentação, serão devidos a partir da data em que o profissional iniciar suas atividades no Município, e serão pagos mediante depósito bancário pela Prefeitura Municipal de Aparecida de Goiânia, em conta individualizada, em nome do beneficiário, que será informada por cada profissional médico à Secretaria Municipal de Saúde.<br>
+§ 2º Os valores mensais tratados para o incentivo Bolsa Moradia e Bolsa Alimentação, serão devidos a partir da data em que o profissional iniciar suas atividades no Município, e serão pagos mediante depósito bancário pela Prefeitura Municipal de Aparecida de Goiânia, em conta individualizada, em nome do beneficiário, que será informada por cada profissional médico à Secretaria Municipal de Saúde.
+
 (Redação alterada pela Lei Ordinária nº 3.731, de 9 de agosto de 2023).
 
 ~~§ 2º Os valores mensais tratados para os incentivos Bolsa Moradia e Bolsa Alimentação serão pagos mediante depósito bancário pela Prefeitura Municipal de Aparecida de Goiânia, em conta individualizada, em nome do beneficiário, que será informada por cada profissional médico à Secretaria Municipal de Saúde.~~
@@ -57,5 +58,6 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação, ficando expressame
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, 25 de maio de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

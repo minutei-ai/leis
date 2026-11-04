@@ -1,7 +1,3 @@
-1
-
-###MPV-000731-0-000-25-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 731, DE 25 DE NOVEMBRO DE 1994
 
 Dispõe  sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do Real e os critérios para conversão das obrigações para o Real, e dá outras providências.

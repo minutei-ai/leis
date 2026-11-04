@@ -1,5 +1,3 @@
-###DEC-082765-0-000-29-11-1978@@@
-
 Decreto nº 82.765, de 29 de novembro de 1978.
 
 Concede à Companhia de Cimento Portland Rio Branco o direito de lavrar calcário e dolomito no Distrito Federal.

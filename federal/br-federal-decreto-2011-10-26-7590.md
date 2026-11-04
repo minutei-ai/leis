@@ -1,5 +1,3 @@
-###DEC-007590-0-000-26-10-2011-PUB-01@@@
-
 DECRETO Nº 7.590, DE 26 DE OUTUBRO DE 2011
 
 Dá nova redação ao Anexo ao Decreto nº 6.092, de 24 de abril de 2007, que regulamenta o Auxílio de Avaliação Educacional.

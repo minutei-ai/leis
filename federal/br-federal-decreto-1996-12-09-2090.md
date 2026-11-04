@@ -1,7 +1,3 @@
-1
-
-###DEC-002090-0-000-09-12-1996@@@
-
 DECRETO Nº 2.090, DE 9 DE DEZEMBRO DE 1996.
 
 Aprova o Regulamento da Escola Superior de Guerra.

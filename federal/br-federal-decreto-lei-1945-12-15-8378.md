@@ -1,5 +1,3 @@
-###DEL-008378-0-000-15-12-1945@@@
-
 DECRETO-LEI N. 8.378 – DE 15 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 18.562.309,90, para despesas decorrentes das incorporações previstas no Decreto-lei nº 4.352, de 1 de junho de 1942.

@@ -1,5 +1,3 @@
-###DEC-006680-0-000-08-12-2008@@@
-
 DECRETO Nº 6.680, DE 8 DE DEZEMBRO DE 2008.
 
 Dispõe sobre a execução do Sexagésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica n~~º~~ 18, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, de 1~~º~~ de outubro de 2008.

@@ -1,5 +1,3 @@
-###DEC-050855-0-000-26-06-1961@@@
-
 DECRETO Nº 50.855, DE 26 DE JUNHO DE 1961.
 
 Revoga o Decreto nº 28.159, de 30 de maio de 1950.

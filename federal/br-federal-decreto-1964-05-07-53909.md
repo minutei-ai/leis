@@ -1,5 +1,3 @@
-###DEC-053909-0-000-07-05-1964@@@
-
 Decreto Nº 53.909, DE 7 DE MAIO DE 1964.
 
 Aprova o Regulamento sôbre a administração do Fundo Nacional de Investimentos Ferroviários.
@@ -127,8 +125,6 @@ Art. 12. Até 28 de fevereiro de cada ano, a Diretoria Geral do D.N.E.F. apresen
 Brasília, 7 de maio de 1964.
 
 JUAREZ TÁVORA
-
-###DEC-053909-0-000-07-05-1964@@@RET01+++
 
 DECRETO Nº 53.909, DE 7 DE MAIO DE 1964.
 

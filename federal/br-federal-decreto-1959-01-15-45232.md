@@ -1,5 +1,3 @@
-###DEC-045232-0-000-15-01-1959@@@
-
 DECRETO Nº 45.232, DE 15 DE JANEIRO DE 1959.
 
 Autorizo a Comissão Estadual de Energia Elétrica do Rio Grande do Sul a ampliar sua instalações.

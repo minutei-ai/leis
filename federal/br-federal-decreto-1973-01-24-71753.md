@@ -1,5 +1,3 @@
-###DEC-071753-0-000-24-01-1973@@@
-
 Decreto Nº 71.753, DE 24 DE JANEIRO DE 1973.
 
 Retifica o artigo 1º, do Decreto número 61.696, de 13 de novembro de 1967.

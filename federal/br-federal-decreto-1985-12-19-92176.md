@@ -1,5 +1,3 @@
-###DEC-092176-0-000-19-12-1985@@@
-
 Decreto nº 92.176, de 19 de dezembro de 1985.
 
 Autoriza o funcionamento do curso de Matemática Aplicada à Informática, da Faculdade de Filosofia, Ciências e Letras de Santos.

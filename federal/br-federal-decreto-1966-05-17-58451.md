@@ -1,5 +1,3 @@
-###DEC-058451-0-000-17-05-1966@@@
-
 decreto nº 58.451, de 17 de maio de 1966.
 
 Anula o Decreto nº 2.186, de 22 de janeiro de 1963.

@@ -1,5 +1,3 @@
-###DEC-086879-0-000-27-01-1982@@@
-
 DECRETo Nº 86.879, DE 27 DE JANEIRO DE 1982.
 
 Altera o Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975, Lei do Ensino no Exército e dá outras providências.

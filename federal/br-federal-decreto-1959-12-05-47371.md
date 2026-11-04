@@ -1,5 +1,3 @@
-###DEC-047371-0-000-05-12-1959@@@
-
 DECRETO Nº 47.371, DE 5 DE DEZEMBRO DE 1959.
 
 Concede reconhecimento ao Curso de Engenharia Civil da Escola de Engenharia de Alagoas.

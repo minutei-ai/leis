@@ -1,5 +1,3 @@
-###DEC-078968-0-000-16-12-1976@@@
-
 DECRETO Nº 78.968, DE 16 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Letras, de Ciências Biológicas e de Formação de Professores das Disciplinas Específicas de 2º grau, Esquemas I e II, da Faculdade de Filosofia, Ciências e Letras Braz Cubas, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

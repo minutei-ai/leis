@@ -1,5 +1,3 @@
-###DEC-053039-0-000-28-11-1963@@@
-
 DECRETO Nº 53.039, DE 28 DE NOVEMBRO DE 1963.
 
 Torna sem efeito dispositivo do Regulamento aprovado pelo Decreto nº 28.880 de 20 de novembro de 1950.

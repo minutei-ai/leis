@@ -1,5 +1,3 @@
-###DEC-075842-0-000-10-06-1975@@@
-
 DECRETO Nº 75.842, DE 10 JUNHO DE 1975.
 
 Renova por dez (10) anos a concessão outorgada à Rádio Capixaba Limitada, para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de Vitória, Estado do Espírito Santo.

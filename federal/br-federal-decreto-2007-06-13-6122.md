@@ -1,5 +1,3 @@
-###DEC-006122-0-000-13-06-2007@@@
-
 DECRETO Nº 6.122, DE 13 DE JUNHO DE 2007.
 
 Dá nova redação aos arts. 97 e 101 do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.
@@ -31,5 +29,3 @@ Brasília, 13 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 14.6.2007.

@@ -1,5 +1,3 @@
-###DEC-066144-0-000-30-01-1970@@@
-
 DECRETO Nº 66.144 - DE 30 DE JANEIRO DE 1970
 
 Declara de utilidade pública a Assistência Social Nossa Senhora da Glória, com sede em Juiz de Fora, Estado de Minas Gerais.

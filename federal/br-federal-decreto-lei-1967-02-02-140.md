@@ -1,5 +1,3 @@
-###DEL-000140-0-000-02-02-1967@@@
-
 DECRETO-LEI Nº 140, DE 2 DE FEVEREIRO DE 1967
 
 Acrescenta o § 7º ao artigo 4º da Lei número 4.985 de 18 de maio de 1966.

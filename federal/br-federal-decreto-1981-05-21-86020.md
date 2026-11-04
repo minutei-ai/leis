@@ -1,5 +1,3 @@
-###DEC-086020-0-000-21-05-1981@@@
-
 Decreto nº 86.020, de 21 de maio de 1981.
 
 Suspende, por inconstitucionalidade, a execução de parte da Lei nº 8.111, de 14 de maio de 1976, do Estado de Goiás.

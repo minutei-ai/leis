@@ -1,5 +1,3 @@
-###DEC-078525-0-000-30-09-1976@@@
-
 DECRETO Nº 78.525, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Medicina, da Faculdade Estadual de Medicina do Pará, com sede na cidade de Belém, Estado do Pará.

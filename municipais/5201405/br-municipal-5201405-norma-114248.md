@@ -24,11 +24,14 @@ Art. 4º Este Decreto entrará em vigor na data de sua publicação.
 
 Município de Aparecida de Goiânia, 12 de março de 2024.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretário
 
-MARLUCIO PEREIRA DA SILVA<br>
+MARLUCIO PEREIRA DA SILVA
+
 Secretário

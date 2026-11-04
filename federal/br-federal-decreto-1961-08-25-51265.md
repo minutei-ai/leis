@@ -1,5 +1,3 @@
-###DEC-051265-0-000-25-08-1961@@@
-
 DECRETO Nº 51.265, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza Novas Indústrias Olinda S. A. a pesquisar fosforita no Município de Paulista, Estado de Pernambuco.

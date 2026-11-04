@@ -1,5 +1,3 @@
-###DEC-048043-0-000-05-04-1960@@@
-
 DECRETO Nº 48.043, DE 5 DE ABRIL DE 1960.
 
 Transfere, de Eduardo Biagioni Filho, proprietário da Fôrça e Luz Entre Rios de Minas, para a Centrais Elétricas de Minas Gerais S.A., a concessão para distribuir energia elétrica nos municípios de Entre Rios de Minas e São Braz do Suaçuí, Estado de Minas Gerais, e dá outras providências.

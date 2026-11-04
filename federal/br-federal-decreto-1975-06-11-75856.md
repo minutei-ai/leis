@@ -1,5 +1,3 @@
-###DEC-075856-0-000-11-06-1975@@@
-
 DECRETO Nº 75.856, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de História da Faculdade de Ciências e Letras Plinio Augusto do Amaral, mantida pela Fundação Educacional de Amparo, com sede na cidade de Amparo, Estado de São Paulo.

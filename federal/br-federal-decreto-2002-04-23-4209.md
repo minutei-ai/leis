@@ -1,5 +1,3 @@
-###DEC-004209-0-000-23-04-2002@@@
-
 DECRETO Nº 4.209, DE 23 DE ABRIL DE 2002
 
 Dispõe sobre a medalha "Mérito Santos-Dumont" e dá outras providências.

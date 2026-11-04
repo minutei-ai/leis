@@ -1,5 +1,3 @@
-###DEC-096638-0-000-02-09-1988@@@
-
 DECRETO N° 96.638, DE 2 DE SETEMBRO DE 1988
 
 Outorga concessão ao SNC - SISTEMA NORTE DE COMUNICAÇÃO LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Marabá, Estado do Pará.

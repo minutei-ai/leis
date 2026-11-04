@@ -1,5 +1,3 @@
-###DEC-079409-0-000-17-03-1977@@@
-
 DECRETO Nº 79.409, DE17 DE MARÇO DE1977.
 
 Concede à Mineração Rio do Norte Sociedade Anônima o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

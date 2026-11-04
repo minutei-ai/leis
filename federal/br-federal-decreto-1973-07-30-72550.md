@@ -1,5 +1,3 @@
-###DEC-072550-0-000-30-07-1973@@@
-
 DECRETO Nº 72.550, DE 30 DE JULHO DE 1973.
 
 Aprova o Regulamento da Diretoria de Ensino Preparatório e Assistência (DEPA).

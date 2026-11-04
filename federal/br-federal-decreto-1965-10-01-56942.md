@@ -1,5 +1,3 @@
-###DEC-056942-0-000-01-10-1965@@@
-
 DECRETO Nº 56.942, de 1º DE outubro de 1965.
 
 Retifica o art. 1º do Decreto número 44.529, de 24 de setembro de 1958.

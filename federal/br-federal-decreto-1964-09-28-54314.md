@@ -1,5 +1,3 @@
-###DEC-054314-0-000-28-09-1964@@@
-
 DECRETO Nº 54.314, DE 28 DE SETEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento, área de terreno situada no vale do rio Itajaí - Oeste, de Santa Catarina.

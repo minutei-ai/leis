@@ -1,5 +1,3 @@
-###DEC-075480-0-000-17-03-1975@@@
-
 DECRETO Nº 75.480, DE 17 DE MARÇO DE 1975.
 
 Transfere do Departamento de Águas e Energia Elétrica de Minas Gerais, para a Centrais Elétricas de Minas Gerais S. A. - CEMIG, concessão para distribuir energia elétrica no Estado de Minas Gerais.
@@ -25,8 +23,6 @@ Brasília, 17 de março de 1975; 155º da Independência e 88º da República.
 ernesto geisel
 
 Shigeaki Ueki
-
-###DEC-075480-0-000-17-03-1975@@@RET01+++
 
 DECRETO Nº 75.480, DE 17 DE MARÇO DE 1975.
 

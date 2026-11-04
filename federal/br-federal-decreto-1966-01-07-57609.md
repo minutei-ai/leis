@@ -1,5 +1,3 @@
-###DEC-057609-0-000-07-01-1966@@@
-
 DECRETO Nº 57.609, DE 7 de JANEIRO DE 1966.
 
 Disciplina a ação das autoridades administrativas federais em casos de crimes de sonegação fiscal e de apropriação indébita, previstos nas Leis números 4.729, de 1965 e 4.357, de 1964.

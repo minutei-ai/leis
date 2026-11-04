@@ -1,5 +1,3 @@
-###DEL-004276-0-000-27-04-1942@@@
-
 DECRETO-LEI N. 4.276 – DE 27 DE ABRIL DE 1942
 
 Da nova redação ao art. 9º do decreto-lei n. 1.187, de 4 de abril de 1939 (Lei do Serviço Militar)

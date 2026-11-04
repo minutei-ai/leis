@@ -1,5 +1,3 @@
-###DEL-006419-0-000-13-04-1944@@@
-
 DECRETO-LEI N. 6.419 – DE 13 DE ABRIL DE 1944
 
 Reorganiza a Caixa de Mobilização Bancária, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-003639-0-000-19-09-1941@@@
-
 DECRETO-LEI N. 3.639 – DE 19 DE SETEMBRO DE 1941
 
 Abre, pelo ministério das Relações Exteriores, o crédito especial de 400:000$0, para, despesas com, a viagem de observadores militares

@@ -1,5 +1,3 @@
-###DEC-048527-0-000-18-07-1960@@@
-
 DECRETO Nº48.527, DE 18 DE JULHO DE 1960.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona em São Bernardo do Campo, Estado de São Paulo, necessários ao Ministério da Aeronáutica.

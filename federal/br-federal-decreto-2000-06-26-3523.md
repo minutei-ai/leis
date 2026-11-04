@@ -1,5 +1,3 @@
-###DEC-003523-0-000-26-06-2000@@@
-
 DECRETO Nº 3.523, DE 26 DE JUNHO DE 2000.
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores DAS – e Funções Gratificadas – FG que menciona, e dá outras providências.

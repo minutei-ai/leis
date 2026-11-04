@@ -1,5 +1,3 @@
-###DEC-076210-0-000-04-09-1975@@@
-
 DECRETO Nº 76.210 - DE 4 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Química Industrial da Universidade Federal de Santa Maria, com sede na cidade de Santa Maria, Estado do Rio Grande do Sul.

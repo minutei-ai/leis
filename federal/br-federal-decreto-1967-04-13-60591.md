@@ -1,5 +1,3 @@
-###DEC-060591-0-000-13-04-1967@@@
-
 DECRETO Nº 60.591, DE 13 DE ABRIL DE 1967.
 
 Altera a relação a que se refere o artigo 7º do Regulamento aprovado pelo Decreto nº 27.048, de 12 de agôsto de 1949, em seu item I, número 14 a fim de acompanhar as necessidades verificadas no desenvolvimento moderno das indústrias brasileiras de siderurgia, fundição, forjaria e usinagem.

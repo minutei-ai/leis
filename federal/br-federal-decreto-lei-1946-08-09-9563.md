@@ -1,5 +1,3 @@
-###DEL-009563-0-000-09-08-1946@@@
-
 DECRETO-LEI N. 9.563 – DE 9 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 30.000.000,00, para pagamento à Prefeitura do Distrito Federal, e dá outras providências.

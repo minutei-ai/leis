@@ -1,5 +1,3 @@
-###DEC-007589-0-000-26-10-2011-PUB-01@@@
-
 DECRETO Nº 7.589, DE 26 DE OUTUBRO DE 2011
 
 Institui a Rede e-Tec Brasil.

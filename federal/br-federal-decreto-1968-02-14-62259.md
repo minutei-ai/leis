@@ -1,5 +1,3 @@
-###DEC-062259-0-000-14-02-1968@@@
-
 DECRETO Nº 62.259, DE 14 DE FEVEREIRO DE 1968.
 
 Altera o parágrafo único do art. 30, do Decreto nº 61.244, de 28 de agôsto de 1967 (Regulamento da Zona Franca de Manaus).

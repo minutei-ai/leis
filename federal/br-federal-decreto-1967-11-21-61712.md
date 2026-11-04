@@ -1,5 +1,3 @@
-###DEC-061712-0-000-21-11-1967@@@
-
 DECRETO Nº 61.712, DE 21 DE NOVEMBRO DE 1967.
 
 Autoriza o Ministro da Educação e Cultura a contratar, em nome da União, empréstimo com o Banco Interamericano do Desenvolvimento, para o fim que especifica.

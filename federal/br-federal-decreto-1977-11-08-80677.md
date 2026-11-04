@@ -1,5 +1,3 @@
-###DEC-080677-0-000-08-11-1977@@@
-
 Decreto nº 80.677, de 08 de novembro de 1977.
 
 Autoriza a mudança de denominação da mantenedora da Faculdade de Filosofia, Ciências e Letras "Santa Marcelina", com sede na cidade de Muriaé, Estado de Minas Gerais.

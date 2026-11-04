@@ -1,7 +1,3 @@
-1
-
-###DEC-095758-0-000-29-02-1988@@@
-
 DECRETO N° 95.758, DE 29 DE FEVEREIRO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

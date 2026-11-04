@@ -1,5 +1,3 @@
-###DEC-045069-0-000-20-12-1958@@@
-
 DECRETO Nº 45.069, DE 20 DE dezembro DE 1958.
 
 Transfere sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra.

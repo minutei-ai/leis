@@ -1,5 +1,3 @@
-###DEC-068384-0-000-22-03-1971@@@
-
 DECRETO Nº 68.384, de 22 de março de 1971.
 
 Revoga disposição do Decreto número 59.832, de 21 de dezembro de 1966.

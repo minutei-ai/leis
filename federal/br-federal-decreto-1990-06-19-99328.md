@@ -1,7 +1,3 @@
-1
-
-###DEC-099328-0-000-19-06-1990@@@
-
 DECRETO N° 99.328, DE 19 DE JUNHO DE 1990
 
 Institui o Sistema Integrado de Administração de Recursos Humanos - SIAPE e dá outras providencias.

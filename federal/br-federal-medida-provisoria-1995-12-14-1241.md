@@ -1,7 +1,3 @@
-1
-
-###MPV-001241-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.241, DE 14 DE DEZEMBRO DE 1995.
 
 Dá nova redação ao § 3º do art. 52 da Lei nº 8.931, de 22 de setembro de 1994, que dispõe sobre a amortização, juros e outros encargos decorrentes da extinção ou dissolução de entidades da Administração Pública Federal, e dá outras providências.

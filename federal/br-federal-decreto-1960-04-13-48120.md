@@ -1,5 +1,3 @@
-###DEC-048120-0-000-13-04-1960@@@
-
 DECRETO Nº 48.120, DE 13 DE ABRIL DE 1960.
 
 Concede autorização para o funcionamento do Curso de Didática da Faculdade de Filosofia, Ciências e Letras de Taubaté.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098909-0-000-31-01-1990@@@
-
 DECRETO Nº 98.909, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia Ciências e Letras, em Teófilo Otoni, Minas Gerais.

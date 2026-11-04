@@ -1,5 +1,3 @@
-###DEC-070831-0-000-13-07-1972@@@
-
 decreto nº 70.831, de 13 de julho de 1972.
 
 Concede autorização a organização "Woods Hole Oceanographic Instituition" para operar no mar territorial do Brasil com o navio "Atlantis II", de bandeira norte-americana, nas pesquisas que especifica.

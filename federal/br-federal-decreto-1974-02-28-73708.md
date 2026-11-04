@@ -1,5 +1,3 @@
-###DEC-073708-0-000-28-02-1974@@@
-
 DECRETO Nº 73.708, DE 28 DE FEVEREIRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Celinauta Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Pato Branco, Estado do Paraná.

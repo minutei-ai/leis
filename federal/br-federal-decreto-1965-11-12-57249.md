@@ -1,5 +1,3 @@
-###DEC-057249-0-000-12-11-1965@@@
-
 DECRETO Nº 57.249, DE 12 DE NOVEMBRO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado do Rio de Janeiro.

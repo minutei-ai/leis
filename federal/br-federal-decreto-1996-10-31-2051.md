@@ -1,7 +1,3 @@
-1
-
-###DEC-002051-0-000-31-10-1996@@@
-
 DECRETO Nº 2.051, DE 31 DE OUTUBRO DE 1996.
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

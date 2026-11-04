@@ -1,5 +1,3 @@
-###DEC-007407-0-000-28-12-2010-PUB-01@@@
-
 DECRETO Nº 7.407, DE 28 DE DEZEMBRO DE 2010
 
 Aumenta o capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e altera o seu Estatuto Social, aprovado pelo Decreto nº 4.418, de 11 de outubro de 2002.

@@ -1,5 +1,3 @@
-###DEC-072501-0-000-20-07-1973@@@
-
 DECRETO Nº 72.501, DE 20 DE JULHO DE 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no município de Buraeri, Estado de São Paulo.

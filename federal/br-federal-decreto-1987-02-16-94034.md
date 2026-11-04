@@ -1,5 +1,3 @@
-###DEC-094034-0-000-16-02-1987@@@
-
 DECRETO Nº 94.034, DE 16 DE FEVEREIRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA LAGOA VERDE", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Canindé, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 02 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058142-0-000-04-04-1966@@@
-
 DECRETO Nº 58.142, DE 4 DE ABRIL DE 1966.
 
 Concede permissão em caráter permanente a “Coral S.A. - Fabrica de tintas, Esmaltes, Lacas e Vernizes”, com sede no Estado de São Paulo, para, nas seções de Resinas Sintéticas, de Vernizes a Óleo, e de Moagem de Tintas, funcionar aos Domingos e nos feriados civis e religiosos.

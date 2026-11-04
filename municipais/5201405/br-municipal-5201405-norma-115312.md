@@ -18,8 +18,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 02 de março de 2022.
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

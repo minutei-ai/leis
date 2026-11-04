@@ -1,5 +1,3 @@
-###DEC-070193-0-000-24-02-1972@@@
-
 Decreto nº 70.193, de 24 de fevereiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Lins, em Lins, Estado de São Paulo.

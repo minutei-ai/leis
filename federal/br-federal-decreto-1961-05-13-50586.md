@@ -1,5 +1,3 @@
-###DEC-050586-0-000-13-05-1961@@@
-
 DECRETO Nº 50.586, DE 13 DE MAIO DE 1961.
 
 Suprime cargo extinto.

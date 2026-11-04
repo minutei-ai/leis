@@ -1,5 +1,3 @@
-###DEC-048550-0-000-21-07-1960@@@
-
 DECRETO Nº 48.550, de 21 de julho de 1960.
 
 Autoriza o cidadão brasileiro Feres Dequech a pesquisar serpentinito, no município de Rio Negro, Estado do Paraná.

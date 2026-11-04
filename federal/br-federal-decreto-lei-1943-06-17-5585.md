@@ -1,5 +1,3 @@
-###DEL-005585-0-000-17-06-1943@@@
-
 DECRETO‑LEI N. 5.585 – DE 17 DE JUNHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 635.354,80 para regularização de juros de depósitos da Caixa Econômica Federal do Estado do Rio

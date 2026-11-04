@@ -1,6 +1,10 @@
 > **LEI Nº 4.165, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei n° 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre – ALEAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei n° 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre – ALEAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-002553-0-000-16-04-1998@@@
-
 DECRETO Nº 2.553, DE 16 DE ABRIL DE 1998
 
 Regulamenta os arts. 75 e 88 a 93 da Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial.

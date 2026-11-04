@@ -1,5 +1,3 @@
-###DEL-007669-0-000-22-06-1945@@@
-
 DECRETO-LEI N. 7.669 – DE 22 DE JUNHO DE 1945
 
 Modifica a redação do Decreto-lei nº 6.425, de 14 de abril de 1944, que dispõe sôbre a obrigatoriedade do uso do guaraná em todos os produtos cuja propaganda comercial se baseie no nome daquela planta

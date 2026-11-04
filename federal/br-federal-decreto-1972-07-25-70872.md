@@ -1,5 +1,3 @@
-###DEC-070872-0-000-25-07-1972@@@
-
 DECRETO Nº 70.872, de 25 de julho de 1972.
 
 Aprova o Regulamento para a Comissão Naval Brasileira em Washington.

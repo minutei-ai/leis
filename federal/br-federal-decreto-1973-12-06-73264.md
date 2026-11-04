@@ -1,5 +1,3 @@
-###DEC-073264-0-000-06-12-1973@@@
-
 DECRETO Nº 73.264 - DE 6 DE DEZEMBRO DE 1973
 
 Autoriza o funcionamento da Faculdade de Administração, mantida pelo Instituto Brasileiro de Desenvolvimento e de Pesquisas Hospitalares, com sede na Cidade de São Paulo, Estado de São Paulo.

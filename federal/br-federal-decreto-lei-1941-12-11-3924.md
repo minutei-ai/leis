@@ -1,5 +1,3 @@
-###DEL-003924-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.924 – DE 11 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 100:000$0, à verba que especifica

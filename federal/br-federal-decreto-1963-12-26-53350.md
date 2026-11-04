@@ -1,5 +1,3 @@
-###DEC-053350-0-000-26-12-1963@@@
-
 DECRETO Nº 53.350, DE 26 DE DEZEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da MAUÁ Companhia de Seguros Gerais, inclusive aumento do capital social.

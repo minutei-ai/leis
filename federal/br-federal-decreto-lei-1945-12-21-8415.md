@@ -1,5 +1,3 @@
-###DEL-008415-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.415 – DE 21 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 190.000,00 à verba que especifica

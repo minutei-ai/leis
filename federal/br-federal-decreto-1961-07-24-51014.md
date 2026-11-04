@@ -1,5 +1,3 @@
-###DEC-051014-0-000-24-07-1961@@@
-
 DECRETO Nº 51.014, DE 24 DE JULHO DE 1961.
 
 Suprime cargo extinto.

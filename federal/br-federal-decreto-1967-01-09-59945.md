@@ -1,5 +1,3 @@
-###DEC-059945-0-000-09-01-1967@@@
-
 DECRETO Nº 59.945, DE 9 DE JANEIRO DE 1967.
 
 Autoriza a Cia. de Mineração São Mateus a lavrar calcário, no município de Itapeva, Estado de São Paulo.

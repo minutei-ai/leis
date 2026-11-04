@@ -1,5 +1,3 @@
-###DEC-075329-0-000-29-01-1975@@@
-
 Decreto nº 75.329, de 29 de janeiro de 1975.
 
 Concede autorizado à "MFS Southeast Fisheries Center" para realizar, no mar territorial do Brasil os serviços que especifica.

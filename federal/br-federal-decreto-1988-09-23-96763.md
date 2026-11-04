@@ -1,5 +1,3 @@
-###DEC-096763-0-000-23-09-1988@@@
-
 DECRETO Nº 96.763, DE 23 DE SETEMBRO DE 1988
 
 Dispõe sobre a organização do Ministério da Saúde e dá outras providências.

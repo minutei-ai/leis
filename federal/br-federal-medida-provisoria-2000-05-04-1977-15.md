@@ -1,5 +1,3 @@
-###MPV-001977-0-015-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-15, DE 4 DE maio DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

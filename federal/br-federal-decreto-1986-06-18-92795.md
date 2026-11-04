@@ -1,5 +1,3 @@
-###DEC-092795-0-000-18-06-1986@@@
-
 DECRETO Nº 92.795, DE 18 DE JUNHO DE 1986
 
 Dispõe sobre o registro e autorização federal para porte de arma de fogo, de uso permitido, no território nacional.

@@ -1,5 +1,3 @@
-###DEC-090347-0-000-23-10-1984@@@
-
 Decreto nº 90.347, de 23 de outubro de 1984
 
 Dispõe sobre a implantação de área de proteção ambiental nos Municípios de Cananéia, Iguape, e Peruíbe, no Estado de São Paulo, e dá outras Providências.

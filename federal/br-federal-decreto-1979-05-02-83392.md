@@ -1,5 +1,3 @@
-###DEC-083392-0-000-02-05-1979@@@
-
 Decreto nº 83.392, de 02 de maio de 1979.
 
 Altera o Decreto nº 83 025, de 11 de janeiro de 1979, que concedeu reconhecimento ao curso de Formação de Tecnólogos em Processos de Produção e Usinagem da Faculdade de Tecnologia Senador Fláquer, com sede na cidade de Santo André, Estado de São Paulo.

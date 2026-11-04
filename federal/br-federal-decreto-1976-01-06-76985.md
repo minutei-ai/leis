@@ -1,5 +1,3 @@
-###DEC-076985-0-000-06-01-1976@@@
-
 DECRETO Nº 76.985, DE 6 DE JANEIRO DE 1976.
 
 Revoga o Decreto nº 63.074, de 5 de agosto de 1968, que outorgou concessão a Universidade Federal de Goiás, para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Goiânia, Estado de Goiás, com finalidades exclusivamente educativas.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210400)<br>
-
 # DECRETO N° 69.175, DE 18 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2025 e dá providências correlatas._

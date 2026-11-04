@@ -1,7 +1,3 @@
-1
-
-###DEC-001688-0-000-06-11-1995@@@
-
 DECRETO Nº 1.688, DE 6 DE NOVEMBRO DE 1995.
 
 Altera a alíquota do Imposto sobre Produtos Industrializados incidente sobre o produto que indica.

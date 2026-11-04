@@ -1,5 +1,3 @@
-###DEL-006387-0-000-30-03-1944@@@
-
 DECRETO-LEI N. 6.387 – DE 30 DE MARÇO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 70.000,00, para pagamento de gratificação de representação e de ajuda de custo

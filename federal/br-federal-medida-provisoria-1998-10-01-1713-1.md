@@ -1,5 +1,3 @@
-###MPV-001713-0-001-01-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.713-1, DE 1º DE OUTUBRO DE 1998
 
 Altera a redução do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão ao tráfego ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica.

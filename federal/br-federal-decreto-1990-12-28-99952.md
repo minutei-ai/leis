@@ -1,7 +1,3 @@
-1
-
-###DEC-099952-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.952, DE 28 DE DEZEMBRO DE 1990.
 
 Institui, na Secretaria da Ciência e Tecnologia da Presidência da República, Comissão Permanente de Apoio à Capacitação Tecnológica da Indústria.

@@ -1,5 +1,3 @@
-###DEC-071648-0-000-02-01-1973@@@
-
 DECRETO Nº 71.648, DE 2 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação de Monte Aprazível, da Sociedade Civil de Ensino Dom Bosco de Monte Aprazível, São Paulo.

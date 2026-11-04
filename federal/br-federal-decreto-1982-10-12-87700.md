@@ -1,5 +1,3 @@
-###DEC-087700-0-000-12-10-1982@@@
-
 DECRETO Nº 87.700, DE 12 DE OUTUBRO DE 1982
 
 Regulamenta o Programa Nacional de Política Fundiária, define as atribuições do Ministro de Estado Extraordinário para Assuntos Fundiários e dá outras providências.

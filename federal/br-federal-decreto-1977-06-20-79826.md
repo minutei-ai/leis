@@ -1,5 +1,3 @@
-###DEC-079826-0-000-20-06-1977@@@
-
 DECRETO Nº 79.826, DE 20 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação do canteiro de obras, acampamento e serviços preliminares da Usina Itaparica, da Companhia Hidro Elétrica do São Francisco - CHESF, nos Estados de Pernambuco e Bahia.

@@ -1,5 +1,3 @@
-###DEC-080039-0-000-28-07-1977@@@
-
 DECRETO Nº 80.039, DE 28 DE JULHO DE 1977
 
 Concede à SANVICEL - São Vicente Indústria e Comércio Extrativa Limitada o direito de lavrar minério de ferro no Município de Itabirito, Estado de Minas Gerais.

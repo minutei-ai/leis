@@ -1,5 +1,3 @@
-###DEC-072552-0-000-30-07-1973@@@
-
 DECRETO Nº 72.552, DE 30 DE JULHO DE 1973.
 
 Dispõe sobre as Políticas e Diretrizes Gerais do Plano Diretor de Medicamentos e dá outros providências.

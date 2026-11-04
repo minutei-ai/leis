@@ -1,5 +1,3 @@
-###DEC-060083-0-000-17-01-1967@@@
-
 DECRETO Nº 60.083, DE 17 DE JANEIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da União Federal, bens pertencentes à Massa Falida “Panair do Brasil S.A.”

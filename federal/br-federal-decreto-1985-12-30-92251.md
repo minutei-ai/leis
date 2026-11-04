@@ -1,5 +1,3 @@
-###DEC-092251-0-000-30-12-1985@@@
-
 Decreto nº 92.251, de 30 de dezembro de 1985
 
 Altera o Estatuto da Companhia de Pesquisa de Recursos Minerais-CPRM.

@@ -1,5 +1,3 @@
-###DEC-075868-0-000-13-06-1975@@@
-
 DECRETO Nº 75.868, DE 13 DE JUNHO DE 1975.
 
 Concede reconhecimento aos cursos de Estudos Sociais e Ciências Biológicas da Faculdade Católica de Filosofia, Ciências e Letras de Bagé, mantida pela Fundação Áttila Taborda, com sede na cidade de Bagé Estado do Rio Grande do Sul.

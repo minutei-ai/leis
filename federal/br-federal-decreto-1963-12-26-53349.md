@@ -1,5 +1,3 @@
-###DEC-053349-0-000-26-12-1963@@@
-
 DECRETO Nº 53.349, DE 26 DE DEZEMBRO DE 1963
 
 Aprova alteração introduzida nos Estatutos da Companhia Americana de Seguros, relativa ao aumento do capital social.

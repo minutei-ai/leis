@@ -1,5 +1,3 @@
-###DEC-000000-0-000-13-11-1823@@@
-
 DECRETO - DE 13 DE NOVEMBRO DE 1823
 
 Explica a expressão - perjura -, empregada no decreto de 12 do corrente em relação á Assembléa Geral Constituinte e Legislativa.

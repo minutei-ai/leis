@@ -1,5 +1,3 @@
-###DEC-006491-0-000-26-06-2008@@@
-
 DECRETO Nº 6.491, DE 26 DE JUNHO DE 2008.
 
        Dá nova redação ao art. 19 do Decreto no 5.209, de 17 de setembro de 2004, que regulamenta a Lei no 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

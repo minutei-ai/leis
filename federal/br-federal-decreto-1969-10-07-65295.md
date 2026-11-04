@@ -1,5 +1,3 @@
-###DEC-065295-0-000-07-10-1969@@@
-
 DECRETO Nº 65.295 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 20.772, de 19 de março de 1946.

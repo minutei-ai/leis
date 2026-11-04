@@ -1,5 +1,3 @@
-###DEC-005029-0-000-31-03-2004@@@
-
 DECRETO Nº 5.029,  DE 31 DE MARÇO DE 2004
 
 Altera os arts. 33, 34 e 43 do Decreto nº 4.541, de 23 de dezembro de 2002, e o art. 1º do Decreto nº 4.538, de 23 de dezembro de 2002, e dá outras providências.

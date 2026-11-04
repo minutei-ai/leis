@@ -1,5 +1,3 @@
-###DEC-091300-0-000-03-06-1985@@@
-
 Decreto nº 91.300, de 03 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação de canteiro de obras, acampamento e serviços preliminares da Usina Itaparica, da Companhia Hidro Elétrica do São Francisco-CHESF, nos Estados de Pernambuco e Bahia.

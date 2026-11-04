@@ -1,5 +1,3 @@
-###DEC-073515-0-000-21-01-1974@@@
-
 DECRETO Nº 73.515, DE 21 DE JANEIRO DE 1974.
 
 Transfere, com os respectivos cargos, funcionários de quadros em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

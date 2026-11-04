@@ -1,7 +1,3 @@
-1
-
-###DEC-098790-0-000-04-01-1990@@@
-
 DECRETO Nº 98.790, DE 4 DE JANEIRO DE 1990
 
 Dispõe sobre os execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, entre o Brasil e o México (Acordo nº 9).

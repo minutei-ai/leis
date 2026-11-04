@@ -1,5 +1,3 @@
-###DEC-099547-0-000-25-09-1990@@@
-
 DECRETO N° 99.547, DE 25 DE SETEMBRO DE 1990
 
 Dispõe sobre a vedação do corte, e da respectiva exploração, da vegetação nativa da Mata Atlântica, e dá outras providências.

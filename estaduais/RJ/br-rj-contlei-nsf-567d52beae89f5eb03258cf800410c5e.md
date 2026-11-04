@@ -1,13 +1,6 @@
-<br>
-<br>
-**LEI Nº 10.921 DE 28 DE AGOSTO DE 2025.**<br>
-<br>
-<br>
+**LEI Nº 10.921 DE 28 DE AGOSTO DE 2025.**
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><b><font face="Arial">DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO COLETIVO AZUL – ACA.</font></b></td></tr></tbody></table>
-
-<br>
-<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%">**DECLARA DE UTILIDADE PÚBLICA A ASSOCIAÇÃO COLETIVO AZUL – ACA.**</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO RIO DE JANEIRO**
 
@@ -15,21 +8,12 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **RESOLVE:**
 
-<br>
-**Art. 1º** Fica declarada a Utilidade Pública da Associação Coletivo Azul – ACA.<br>
-<br>
-**Art. 2º** Esta Lei entra em vigor na da data de sua publicação.<br>
+**Art. 1º** Fica declarada a Utilidade Pública da Associação Coletivo Azul – ACA.
 
-<br>
-Rio de Janeiro, 28 de agosto de 2025.<br>
-<br>
-**CLAUDIO CASTRO**<br>
-**Governador**<br>
-<br>
+**Art. 2º** Esta Lei entra em vigor na da data de sua publicação.
 
-<br>
+Rio de Janeiro, 28 de agosto de 2025.
 
-<br>
+**CLAUDIO CASTRO**
 
-<br>
-<br>
+**Governador**

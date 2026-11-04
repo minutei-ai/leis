@@ -1,5 +1,3 @@
-###MPV-002099-0-034-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.099-34, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

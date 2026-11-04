@@ -1,7 +1,3 @@
-1
-
-###DEL-002420-0-000-18-03-1988@@@
-
 # DECRETO‑LEI Nº 2.420, DE 18 DE MARÇO DE 1988
 
 Dispõe sobre correção monetária nos casos de liquidação extrajudicial de sociedades seguradoras, de capitalização e de previdência privada e dá outras providências.

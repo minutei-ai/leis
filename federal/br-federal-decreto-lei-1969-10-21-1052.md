@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6452228a-1658-4b47-ac09-73b9b1ad3be0/texto#nowhere)
 
-###DEL-001052-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.052, DE 21 DE OUTUBRO DE 1969
 
 Autoriza a reversão de área de terra à Prefeitura Municipal de São José do Egito.

@@ -1,5 +1,3 @@
-###DEC-090495-0-000-12-11-1984@@@
-
 DECRETO nº 90.495, de 12 de novembro de 1984.
 
 Altera o artigo 9º do Regulamento de Movimentação Para Oficiais e Praças do Exército (R-50)

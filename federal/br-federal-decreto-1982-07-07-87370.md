@@ -1,5 +1,3 @@
-###DEC-087370-0-000-07-07-1982@@@
-
 Decreto nº 87.370, de 07 de julho de 1982
 
 Concede à Caraíba Metais S.A. Indústria e Comércio autorização para proceder ao aumento do seu capital autorizado.

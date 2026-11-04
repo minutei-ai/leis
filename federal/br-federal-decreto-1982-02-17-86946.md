@@ -1,5 +1,3 @@
-###DEC-086946-0-000-17-02-1982@@@
-
 DECRETO Nº 86.946, DE 17 DE FEVEREIRO DE 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO SOCIEDADE DE JUIZ DE FORA S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Juiz de Fora, Estado de Minas Gerais.

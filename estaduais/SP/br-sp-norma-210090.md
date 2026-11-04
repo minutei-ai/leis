@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210090)<br>
-
 # ATO DO PRESIDENTE N° 96, DE 07 DE OUTUBRO DE 2024
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 712, de 2024, que orça a Receita e fixa a Despesa do Estado para o exercício de 2025._

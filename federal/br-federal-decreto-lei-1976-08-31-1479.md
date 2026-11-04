@@ -1,5 +1,3 @@
-###DEL-001479-0-000-31-08-1976@@@
-
 # DECRETO-LEI Nº 1.479, DE 31 dE AGOSTO DE 1976
 
 Acrescenta artigo ao Decreto-lei nº 1.452, de 30 de março de 1976, que concede incentivo para projetos prioritários para a economia nacional.

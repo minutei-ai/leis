@@ -1,5 +1,3 @@
-###DEC-005080-0-000-12-05-2004@@@
-
 DECRETO Nº 5.080,  DE 12 DE MAIO DE 2004
 
 Dá nova redação ao art. 1º do Decreto de 19 de novembro de 1996, que dispõe sobre a composição da Seção Nacional do Grupo Mercado Comum.

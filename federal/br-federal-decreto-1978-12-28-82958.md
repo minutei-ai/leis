@@ -1,5 +1,3 @@
-###DEC-082958-0-000-28-12-1978@@@
-
 Decreto nº 82 958, de 28 de dezembro de 1978
 
 Dispõe sobre a encampação do Porto de Cabedelo, no Estado da Paraíba, e dá outras providências.

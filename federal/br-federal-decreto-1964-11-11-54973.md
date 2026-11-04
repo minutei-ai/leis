@@ -1,5 +1,3 @@
-###DEC-054973-0-000-11-11-1964@@@
-
 DECRETO Nº 54.973, DE 11 DE NOVEMBRO DE 1964.
 
 Altera a redação do art. 3º do Decreto nº 54.067, de 29 de julho de 1964, e dá outras providências.

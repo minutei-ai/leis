@@ -1,5 +1,3 @@
-###DEC-083805-0-000-01-08-1979@@@
-
 DECRETO Nº 83.805, DE 01 DE AGOSTO DE 1979.
 
 Cria a Medalha "Mérito Marinheiro" e dá outras providências.

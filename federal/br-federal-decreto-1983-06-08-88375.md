@@ -1,5 +1,3 @@
-###DEC-088375-0-000-08-06-1983@@@
-
 # Decreto nº 88.375, de 08 de junho de 1983.
 
 Delega competência ao Ministro de Estado Secretário-Geral do Conselho de Segurança Nacional para a prática dos atos que menciona.

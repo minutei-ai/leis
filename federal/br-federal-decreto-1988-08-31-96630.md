@@ -1,5 +1,3 @@
-###DEC-096630-0-000-31-08-1988@@@
-
 DECRETO N° 96.630, DE 31 DE AGOSTO DE 1988
 
 Cria o Programa Nacional do Centenário da República e Bicentenário da Inconfidência Mineira.

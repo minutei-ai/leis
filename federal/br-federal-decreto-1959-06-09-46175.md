@@ -1,5 +1,3 @@
-###DEC-046175-0-000-09-06-1959@@@
-
 DECRETO Nº 46.175, DE 9 DE JUNHO DE 1959.
 
 Retifica o Decreto nº 44.044, de 18 de julho de 1958, que regulamenta a Lei nº 1.988, de 1º de outubro de 1953, e dá outra providências.

@@ -1,5 +1,3 @@
-###DEC-077688-0-000-26-05-1976@@@
-
 Decreto nº 77.688, de 26 de maio de 1976
 
 Concede reconhecimento ao curso de Engenharia Elétrica da Universidade Federal do Rio Grande do Norte, com sede na Cidade de Natal, no Estado do Rio Grande do Norte.

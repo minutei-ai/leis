@@ -1,5 +1,3 @@
-###DEC-070183-0-000-22-02-1972@@@
-
 DECRETO Nº 70.183, DE 22 DE FEVEREIRO DE 1972.
 
 Acrescenta dispositivo ao Decreto nº 54.308, de 25 de setembro de 1964, alterado pelo Decreto número 60.769, de 29 de maio de 1967, que especifica as funções permanentes no exterior.

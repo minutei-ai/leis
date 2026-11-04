@@ -1,7 +1,3 @@
-1
-
-###DEL-001777-0-000-18-03-1980@@@
-
 # Decreto-lei nº 1.777, de 18 de março de 1980.
 
 Fixa o valor do soldo dos postos de Coronel PM da Polícia Militar e de Coronel BM do Corpo de Bombeiros do Distrito Federal e dá outras providências.

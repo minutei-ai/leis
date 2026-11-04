@@ -1,5 +1,3 @@
-###DEL-000255-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 255, DE 28 DE FEVEREIRO DE 1967
 
 Transfere para o Tribunal Regional Eleitoral do Estado da Guanabara o Quadro Suplementar, a que se refere o art. 9º da Lei nº 4.017, de 16 de dezembro de 1961, e dá outras providências.

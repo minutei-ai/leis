@@ -1,5 +1,3 @@
-###DEC-070739-0-000-20-06-1972@@@
-
 DECRETO Nº 70.739, DE 20 DE JUNHO DE 1972.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

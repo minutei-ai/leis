@@ -1,5 +1,3 @@
-###DEC-055851-0-000-22-03-1965@@@
-
 DECRETO Nº 55.851, DE 22 DE MARÇO DE 1965.
 
 Altera a redação do art. 10 do Decreto nº 54.026, de 17 de julho de 1964.

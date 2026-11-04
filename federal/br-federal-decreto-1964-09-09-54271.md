@@ -1,5 +1,3 @@
-###DEC-054271-0-000-09-09-1964@@@
-
 DECRETO Nº 54.271, DE 9 DE SETEMBRO DE 1964.
 
 Modifica o Art. 10 do Regulamento da Comissão de Marinha Mercante, aprovado pelo Decreto nº 7.838, de 11 de setembro de 1941.

@@ -1,5 +1,3 @@
-###DEC-074307-0-000-22-07-1974@@@
-
 DECRETO Nº 74.307 - de 22 de junho de 1974.
 
 Autoriza a cessão, sob a forma de utilização, do terreno que menciona, situado no Município de Rio Bonito, Estado do Rio de Janeiro.

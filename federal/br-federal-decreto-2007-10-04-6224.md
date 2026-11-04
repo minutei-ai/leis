@@ -1,5 +1,3 @@
-###DEC-006224-0-000-04-10-2007@@@
-
 DECRETO Nº 6.224, DE 4 DE OUTUBRO DE 2007.
 
 Altera disposições do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999, referentes à cobrança de juros sobre contribuições em atraso e ao recurso de oficio em processos administrativos versando sobre contribuições previdenciárias.
@@ -31,5 +29,3 @@ Brasília, de de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 5.10.2007.

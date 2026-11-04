@@ -1,5 +1,3 @@
-###DEL-005651-0-000-05-07-1943@@@
-
 DECRETO‑LEI N. 5.651 – DE 5 DE JULHO DE 1943
 
 Autoriza o aumento de capital do Banco de Crédito da Borracha S. A., e dá outras providências

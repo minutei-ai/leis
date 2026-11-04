@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209915)<br>
-
 # DECRETO N° 68.824, DE 04 DE SETEMBRO DE 2024
 
 ### _Altera a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado._

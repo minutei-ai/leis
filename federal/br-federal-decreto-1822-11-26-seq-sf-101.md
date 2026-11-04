@@ -1,5 +1,3 @@
-###DEC-000000-0-101-26-11-1822@@@
-
 DECRETO - DE 26 DE NOVEMBRO DE 1822
 
 Commuta a pena de degredo para a India e Costa d'Africa na de trabalhos nas obras publicas aos réos detidos nas cadeias.

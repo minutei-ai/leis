@@ -1,5 +1,3 @@
-###DEC-050028-0-000-24-01-1961@@@
-
 DECRETO Nº 50.028, dE 24 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 43.663, de 7 de maio de 1958.

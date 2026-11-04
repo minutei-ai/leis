@@ -30,13 +30,16 @@ Art. 1º A qualificação de pessoas jurídicas de direito privado como Organiza
 
 § 8º A qualificação da entidade interessada como organização social é, em qualquer caso, condição indispensável para a participação no procedimento de seleção.
 
-§ 9º Ressalvados os demais requisitos dispostos neste artigo, a qualificação de que trata o caput se dará por níveis, os quais deverão observar a complexidade crescente das atividades a serem desenvolvidas, a demonstração da capacidade operacional da entidade e o cumprimento do interstício de pelo menos 3 (três) anos entre cada um, e os critérios para a definição dos níveis serão estabelecidos por ato do Secretário de Estado da Saúde, vedada a delegação dessa atribuição.<br>
+§ 9º Ressalvados os demais requisitos dispostos neste artigo, a qualificação de que trata o caput se dará por níveis, os quais deverão observar a complexidade crescente das atividades a serem desenvolvidas, a demonstração da capacidade operacional da entidade e o cumprimento do interstício de pelo menos 3 (três) anos entre cada um, e os critérios para a definição dos níveis serão estabelecidos por ato do Secretário de Estado da Saúde, vedada a delegação dessa atribuição.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485).
 
-§ 10. A entidade interessada em se qualificar como OSS, no momento do requerimento que trata o § 2º, deverá indicar o nível de qualificação pretendido e, nessa ocasião, comprovar o atendimento aos critérios estabelecidos na forma do ato de que trata o § 9º deste artigo.<br>
+§ 10. A entidade interessada em se qualificar como OSS, no momento do requerimento que trata o § 2º, deverá indicar o nível de qualificação pretendido e, nessa ocasião, comprovar o atendimento aos critérios estabelecidos na forma do ato de que trata o § 9º deste artigo.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485).
 
-§ 11. Desde que sejam cumpridos os demais requisitos de qualificação dispostos nesta Lei, as entidades com menos de 3 (três) anos de existência estarão isentas da comprovação da exigência de que trata o § 4º e, nessa ocasião, serão automaticamente enquadradas no primeiro nível de qualificação, na forma do ato de que trata o § 9º deste artigo.<br>
+§ 11. Desde que sejam cumpridos os demais requisitos de qualificação dispostos nesta Lei, as entidades com menos de 3 (três) anos de existência estarão isentas da comprovação da exigência de que trata o § 4º e, nessa ocasião, serão automaticamente enquadradas no primeiro nível de qualificação, na forma do ato de que trata o § 9º deste artigo.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485).
 
 Art. 2º São requisitos específicos para que as entidades privadas referidas no art. 1º desta Lei se habilitem à qualificação como OSS:
@@ -173,7 +176,8 @@ Art. 7º A celebração de contrato de gestão com OSS será precedida de chamam
 
 § 2º Somente poderão inscrever-se e participar do chamamento público as entidades previamente qualificadas como OSS nos termos do art. 1º desta Lei.
 
-§ 3º Os chamamentos públicos serão realizados preferencialmente sob a forma eletrônica, admitida a utilização da forma presencial, desde que seja motivada, e a sessão pública deverá ser registrada em ata e gravada em áudio e vídeo.<br>
+§ 3º Os chamamentos públicos serão realizados preferencialmente sob a forma eletrônica, admitida a utilização da forma presencial, desde que seja motivada, e a sessão pública deverá ser registrada em ata e gravada em áudio e vídeo.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485).
 
 Art. 8º O procedimento de seleção de organizações sociais para parceria com o poder público observará as seguintes etapas:
@@ -226,7 +230,8 @@ Parágrafo único. Obedecidos os princípios da administração pública, são i
 
 Art. 12. O Secretário de Estado da Saúde poderá, mediante decisão fundamentada, excepcionar a exigência prevista no art. 7º desta Lei, nas seguintes situações:
 
-I – nos casos de calamidade pública, emergência, urgência ou risco de paralisação de atividade e/ou serviço de relevante interesse público, o poder público poderá, para a garantia da continuidade, celebrar contrato de gestão emergencial com outra OSS, igualmente qualificada no Estado de Goiás, por até 1 (um) ano ou até a finalização de novo chamamento público, o que ocorrer primeiro, a partir da data da publicação do extrato do contrato na imprensa oficial;<br>
+I – nos casos de calamidade pública, emergência, urgência ou risco de paralisação de atividade e/ou serviço de relevante interesse público, o poder público poderá, para a garantia da continuidade, celebrar contrato de gestão emergencial com outra OSS, igualmente qualificada no Estado de Goiás, por até 1 (um) ano ou até a finalização de novo chamamento público, o que ocorrer primeiro, a partir da data da publicação do extrato do contrato na imprensa oficial;
+
 \- [Redação dada pela Lei nº 22.485, de 22-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485).
 
 ~~I – nos casos em que, por inadimplemento do parceiro privado, com ou sem desqualificação da OSS, houver rescisão do contrato de gestão, o poder público poderá, para a garantia da continuidade, se for inviável reassumir a execução direta do projeto, da atividade e/ou do serviço, celebrar contrato de gestão emergencial com outra OSS, igualmente qualificada no âmbito do Estado na mesma área de atuação, pelo prazo máximo de 180 (cento e oitenta) dias consecutivos e ininterruptos ou até a finalização de novo chamamento, contado a partir da data da publicação do extrato do contrato na imprensa oficial, vedada a sua prorrogação, desde que a entidade adote formalmente como sua a proposta de trabalho objeto do ajuste rescindido;~~
@@ -249,22 +254,28 @@ III – a comprovação da adequada execução do contrato de gestão pela pasta
 
 § 4º O contrato emergencial de que trata o inciso I deste artigo deve ser iniciado conjuntamente ao novo chamamento público.
 
-Art. 12-A. Na hipótese de risco de paralisação de atividade e/ou serviço de relevante interesse público, o poder público poderá intervir na execução das atividades e/ou serviços transferidos na forma desta Lei, para manter a sua continuidade.<br>
+Art. 12-A. Na hipótese de risco de paralisação de atividade e/ou serviço de relevante interesse público, o poder público poderá intervir na execução das atividades e/ou serviços transferidos na forma desta Lei, para manter a sua continuidade.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 1º A intervenção será feita por decreto do Chefe do Poder Executivo, que indicará o interventor e estabelecerá os objetivos, os limites e a duração.<br>
+§ 1º A intervenção será feita por decreto do Chefe do Poder Executivo, que indicará o interventor e estabelecerá os objetivos, os limites e a duração.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 2º Decretada a intervenção, o Secretário de Estado da Saúde deverá, até 30 (trinta) dias, a partir da publicação do respectivo ato, instaurar procedimento administrativo para apurar as causas da medida e definir responsabilidades, assegurado o direito ao contraditório e à ampla defesa.<br>
+§ 2º Decretada a intervenção, o Secretário de Estado da Saúde deverá, até 30 (trinta) dias, a partir da publicação do respectivo ato, instaurar procedimento administrativo para apurar as causas da medida e definir responsabilidades, assegurado o direito ao contraditório e à ampla defesa.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 3º Durante o período de intervenção, o poder público poderá sub-rogar-se nos direitos e nas obrigações vigentes decorrentes dos contratos firmados pela OSS com terceiros, desde que o objeto esteja atrelado às atividades e/ou serviços transferidos na forma desta Lei, para evitar a descontinuidade e a desassistência.<br>
+§ 3º Durante o período de intervenção, o poder público poderá sub-rogar-se nos direitos e nas obrigações vigentes decorrentes dos contratos firmados pela OSS com terceiros, desde que o objeto esteja atrelado às atividades e/ou serviços transferidos na forma desta Lei, para evitar a descontinuidade e a desassistência.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 4º Se não houver a possibilidade de execução direta dos serviços, o poder público poderá transferir a execução da atividade e/ou do serviço objeto de contrato de gestão a outra entidade, para evitar a descontinuidade e a desassistência.<br>
+§ 4º Se não houver a possibilidade de execução direta dos serviços, o poder público poderá transferir a execução da atividade e/ou do serviço objeto de contrato de gestão a outra entidade, para evitar a descontinuidade e a desassistência.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 5º Cessadas as causas da intervenção e não constatada responsabilidade da entidade e de seus gestores, a OSS retomará a execução dos serviços.<br>
+§ 5º Cessadas as causas da intervenção e não constatada responsabilidade da entidade e de seus gestores, a OSS retomará a execução dos serviços.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 Art. 13. O contrato de gestão, que terá por base minuta-padrão elaborada pela SES e submetida à PGE, deverá discriminar as atribuições, as responsabilidades e as obrigações do poder público e da OSS, sem o prejuízo de outras especificidades e cláusulas técnicas, a cargo da referida secretaria.
@@ -357,7 +368,8 @@ II – a cada 6 (seis) meses, certidões negativas de débitos perante a Secreta
 
 § 5º A comissão de que trata o § 3º deste artigo deve encaminhar à autoridade supervisora e ao Secretário de Estado da Saúde, bem como à Assembleia Legislativa do Estado de Goiás, relatório conclusivo sobre a avaliação procedida.
 
-§ 6º Além das regras previstas nesta Lei, as demais normas, procedimentos e prazos para a prestação de contas da parceria serão estabelecidos por ato do Secretário de Estado da Saúde, vedada a delegação dessa atribuição.<br>
+§ 6º Além das regras previstas nesta Lei, as demais normas, procedimentos e prazos para a prestação de contas da parceria serão estabelecidos por ato do Secretário de Estado da Saúde, vedada a delegação dessa atribuição.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 Art. 22. A fiscalização da execução do contrato de gestão poderá excepcionalmente contar com a presença de verificador independente, cuja função será prestar consultoria por meio de apoio técnico e imparcial ao poder público em áreas específicas, nos termos previstos no referido contrato.
@@ -382,7 +394,8 @@ Art. 28. Às OSSs deverão ser destinados os recursos orçamentários necessári
 
 § 1º São assegurados às OSSs os créditos constantes do orçamento e as respectivas liberações financeiras, de acordo com o cronograma de desembolso previsto no ajuste de parceria.
 
-§ 2º A OSS deverá manter e movimentar os recursos transferidos pelo Estado em conta bancária específica e em instituição bancária indicada pela Secretaria de Estado da Saúde, conforme for disciplinado em ato do Secretário de Estado da Saúde, vedada a delegação dessa atribuição.<br>
+§ 2º A OSS deverá manter e movimentar os recursos transferidos pelo Estado em conta bancária específica e em instituição bancária indicada pela Secretaria de Estado da Saúde, conforme for disciplinado em ato do Secretário de Estado da Saúde, vedada a delegação dessa atribuição.
+
 \- [Redação dada pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 ~~§ 2º A OSS deverá manter e movimentar os recursos transferidos pelo Estado em conta bancária específica, e a instituição financeira deverá possuir nota de classificação de risco superior a índice estabelecido pela CGE.~~
@@ -393,7 +406,8 @@ Art. 28. Às OSSs deverão ser destinados os recursos orçamentários necessári
 
 § 5º Em qualquer caso, e como condição suspensiva à celebração ou à manutenção de contrato de gestão já em vigor, a OSS deverá, relativamente à conta de recursos transferidos pelo Estado, renunciar ao sigilo bancário em benefício dos órgãos e das entidades de controle interno da administração, especificamente para o acompanhamento, o controle e a fiscalização das respectivas movimentações financeiras.
 
-§ 6º Especificamente para o acompanhamento, o controle e a fiscalização dos recursos transferidos pelo Estado ao parceiro privado, o Secretário de Estado da Saúde poderá requisitar à Secretaria de Estado da Economia cópias das notas fiscais eletrônicas emitidas pelas OSSs, tanto na condição de emitente quanto na de destinatária, com as quais possua parceria vigente, e nessa ocasião deverão ser adotadas todas as medidas para resguardar a segurança das informações recebidas.<br>
+§ 6º Especificamente para o acompanhamento, o controle e a fiscalização dos recursos transferidos pelo Estado ao parceiro privado, o Secretário de Estado da Saúde poderá requisitar à Secretaria de Estado da Economia cópias das notas fiscais eletrônicas emitidas pelas OSSs, tanto na condição de emitente quanto na de destinatária, com as quais possua parceria vigente, e nessa ocasião deverão ser adotadas todas as medidas para resguardar a segurança das informações recebidas.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 Art. 29. O Estado deverá permitir às OSSs o uso de bens, instalações e equipamentos públicos necessários à execução da atividade objeto de transferência, mediante cláusula expressa no contrato de gestão.
@@ -412,28 +426,34 @@ Art. 30. É facultada ao Poder Executivo a cessão de servidor às OSSs, com ôn
 
 § 6º Caso o servidor público cedido à organização social não se adapte às suas normas internas ou não exerça as suas atividades em conformidade com elas, poderá ser devolvido ao seu órgão ou à sua entidade de origem, com a devida motivação.
 
-Seção VI<br>
-Da Desqualificação e das Sanções Administrativas<br>
-\- [Redação dada pela Lei nº 22.485, de 22-12-2023, art. 2](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)[.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)<br>
-<br>
+Seção VI
+
+Da Desqualificação e das Sanções Administrativas
+
+\- [Redação dada pela Lei nº 22.485, de 22-12-2023, art. 2](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)[º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)[.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 ~~Da Desqualificação~~
 
-Art. 31. Constituem motivos para a desqualificação da entidade:<br>
+Art. 31. Constituem motivos para a desqualificação da entidade:
+
 \- [Redação dada pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 ~~Art. 31. Constituem motivos para a desqualificação da entidade a inobservância de qualquer dispositivo desta Lei, o exercício de atividades não relacionadas à saúde, bem como o descumprimento do contrato de gestão celebrado com o poder público, que poderá aplicar sanções.~~
 
-I – a inobservância de qualquer dispositivo desta Lei;<br>
+I – a inobservância de qualquer dispositivo desta Lei;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-II – o exercício de atividades não relacionadas à saúde;<br>
+II – o exercício de atividades não relacionadas à saúde;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-III – o descumprimento do contrato de gestão celebrado com o poder público, que poderá aplicar sanções; ou<br>
+III – o descumprimento do contrato de gestão celebrado com o poder público, que poderá aplicar sanções; ou
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-IV – o atingimento pela OSS, em 12 (doze) meses, da contagem máxima de pontos, os quais serão computados a cada infração punida nos termos dos incisos I e II do art. 31– A.<br>
+IV – o atingimento pela OSS, em 12 (doze) meses, da contagem máxima de pontos, os quais serão computados a cada infração punida nos termos dos incisos I e II do art. 31– A.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 § 1º A desqualificação se dará por ato do Poder Executivo.
@@ -444,76 +464,100 @@ IV – o atingimento pela OSS, em 12 (doze) meses, da contagem máxima de pontos
 
 § 4º A entidade que perder a qualificação de OSS ficará impedida de requerer novamente o título pelo período de 10 (dez) anos da data de publicação do ato de desqualificação.
 
-§ 5º Para a aplicação do disposto no inciso IV do caput, a cada infração punida nos termos dos incisos I e II do art. 31-A, será computado determinado número de pontos, e o quantitativo, a contagem máxima de pontos e os demais critérios serão estabelecidos em regulamento do Chefe do Poder Executivo estadual.<br>
+§ 5º Para a aplicação do disposto no inciso IV do caput, a cada infração punida nos termos dos incisos I e II do art. 31-A, será computado determinado número de pontos, e o quantitativo, a contagem máxima de pontos e os demais critérios serão estabelecidos em regulamento do Chefe do Poder Executivo estadual.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 6º A abertura de procedimento de apuração e a aplicação das sanções previstas nesta Lei não impedem, em qualquer hipótese, a abertura de procedimento de desqualificação da OSS, quando a gravidade dos fatos e o interesse público assim exigirem.<br>
+§ 6º A abertura de procedimento de apuração e a aplicação das sanções previstas nesta Lei não impedem, em qualquer hipótese, a abertura de procedimento de desqualificação da OSS, quando a gravidade dos fatos e o interesse público assim exigirem.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-Art. 31-A. Pela execução da parceria em desacordo com o contrato de gestão e com as normas desta Lei e da legislação específica, a SES poderá, assegurados o contraditório e a ampla defesa, aplicar à OSS, a seus dirigentes e a seus administradores as seguintes sanções:<br>
+Art. 31-A. Pela execução da parceria em desacordo com o contrato de gestão e com as normas desta Lei e da legislação específica, a SES poderá, assegurados o contraditório e a ampla defesa, aplicar à OSS, a seus dirigentes e a seus administradores as seguintes sanções:
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-I – advertência;<br>
+I – advertência;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-II – multa aos dirigentes ou aos administradores da OSS à época do fato;<br>
+II – multa aos dirigentes ou aos administradores da OSS à época do fato;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-III – suspensão de no máximo 3 (três) anos da participação da OSS em chamamento público e impedimento de ela celebrar parceria ou contrato com órgãos e entidades da administração pública sancionadora; e<br>
+III – suspensão de no máximo 3 (três) anos da participação da OSS em chamamento público e impedimento de ela celebrar parceria ou contrato com órgãos e entidades da administração pública sancionadora; e
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-IV – declaração de inidoneidade da OSS para participar de chamamento público ou celebrar parceria ou contrato com órgãos e entidades da administração pública do Estado, com o mínimo de 3 (três) anos e o máximo de 6 (seis) anos, enquanto perdurarem os motivos da punição ou até que seja promovida a reabilitação pela autoridade que aplicou a penalidade.<br>
+IV – declaração de inidoneidade da OSS para participar de chamamento público ou celebrar parceria ou contrato com órgãos e entidades da administração pública do Estado, com o mínimo de 3 (três) anos e o máximo de 6 (seis) anos, enquanto perdurarem os motivos da punição ou até que seja promovida a reabilitação pela autoridade que aplicou a penalidade.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 1º As sanções estabelecidas nos incisos III e IV do caput deste artigo são da competência exclusiva do Secretário de Estado da Saúde, assegurados o contraditório e a ampla defesa.<br>
+§ 1º As sanções estabelecidas nos incisos III e IV do caput deste artigo são da competência exclusiva do Secretário de Estado da Saúde, assegurados o contraditório e a ampla defesa.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 2º As sanções previstas nos incisos I, III e IV do caput deste artigo poderão ser aplicadas juntamente com a do inciso II.<br>
+§ 2º As sanções previstas nos incisos I, III e IV do caput deste artigo poderão ser aplicadas juntamente com a do inciso II.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 3º A partir da aplicação da penalidade, a reabilitação poderá ser requerida após o transcurso de:<br>
+§ 3º A partir da aplicação da penalidade, a reabilitação poderá ser requerida após o transcurso de:
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-I – 2 (dois) anos, no caso do inciso III; ou<br>
+I – 2 (dois) anos, no caso do inciso III; ou
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-II – 3 (três) anos, no caso do inciso IV, com a obrigatoriedade de ressarcimento à administração pública dos prejuízos provocados pela OSS.<br>
+II – 3 (três) anos, no caso do inciso IV, com a obrigatoriedade de ressarcimento à administração pública dos prejuízos provocados pela OSS.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 4º Prescreve em 5 (cinco) anos, a partir da data da apresentação da prestação de contas, a aplicação da penalidade decorrente de infração relacionada à execução da parceria.<br>
+§ 4º Prescreve em 5 (cinco) anos, a partir da data da apresentação da prestação de contas, a aplicação da penalidade decorrente de infração relacionada à execução da parceria.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 5º A prescrição será interrompida com a edição de ato administrativo voltado à apuração da infração.<br>
+§ 5º A prescrição será interrompida com a edição de ato administrativo voltado à apuração da infração.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 6º Os dirigentes ou os administradores da OSS responderão, individual e solidariamente, pelos danos ou prejuízos de sua ação ou omissão.<br>
+§ 6º Os dirigentes ou os administradores da OSS responderão, individual e solidariamente, pelos danos ou prejuízos de sua ação ou omissão.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 7º A aplicação das sanções previstas neste artigo não exclui, em qualquer hipótese, a obrigação de reparar integralmente o dano causado.<br>
+§ 7º A aplicação das sanções previstas neste artigo não exclui, em qualquer hipótese, a obrigação de reparar integralmente o dano causado.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 8º Serão considerados na aplicação das sanções:<br>
+§ 8º Serão considerados na aplicação das sanções:
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-I – a natureza e a gravidade da infração cometida;<br>
+I – a natureza e a gravidade da infração cometida;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-II – as peculiaridades do caso concreto;<br>
+II – as peculiaridades do caso concreto;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-III – as circunstâncias agravantes ou as atenuantes;<br>
+III – as circunstâncias agravantes ou as atenuantes;
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-IV – os danos à administração pública; e<br>
+IV – os danos à administração pública; e
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-V – a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle interno e externo.<br>
+V – a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle interno e externo.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 9º Na hipótese do inciso II do caput, o valor da multa será de 0,01% (um centésimo por cento) a 20% (vinte por cento) do repasse mensal do poder público à OSS.<br>
+§ 9º Na hipótese do inciso II do caput, o valor da multa será de 0,01% (um centésimo por cento) a 20% (vinte por cento) do repasse mensal do poder público à OSS.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-§ 10º Os demais critérios e procedimentos necessários à aplicação das sanções previstas no caput serão estabelecidos em regulamento do Chefe Poder Executivo estadual.<br>
+§ 10º Os demais critérios e procedimentos necessários à aplicação das sanções previstas no caput serão estabelecidos em regulamento do Chefe Poder Executivo estadual.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 CAPÍTULO II
@@ -526,7 +570,8 @@ Parágrafo único. É vedado à entidade qualificada como OSS qualquer tipo de p
 
 Art. 33. A OSS fará com que seja publicado no Diário Oficial do Estado, no prazo máximo de 90 (noventa) dias da assinatura do contrato de gestão, regulamento próprio com os procedimentos que adotará para a contratação de obras, serviços, compras e admissão de pessoal com emprego de recursos provenientes do poder público, em que se estabeleça, no mínimo, a observância dos princípios da impessoalidade, da moralidade, da boa-fé, da probidade, da economicidade, da eficiência, da isonomia, da publicidade e do julgamento objetivo.
 
-Parágrafo único. Antes da publicação do regulamento a que o caput deste artigo se refere, ele deverá ser aprovado pela Secretaria de Estado da Saúde, após a análise da Procuradoria-Geral do Estado.<br>
+Parágrafo único. Antes da publicação do regulamento a que o caput deste artigo se refere, ele deverá ser aprovado pela Secretaria de Estado da Saúde, após a análise da Procuradoria-Geral do Estado.
+
 \- [Redação dada pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 ~~Parágrafo único. Antes da publicação a que se refere o _caput_deste artigo, o regulamento em causa deverá ser aprovado pela CGE.~~
@@ -543,13 +588,16 @@ III – as organizações sociais poderão utilizar as modalidades de contrataç
 
 Art. 36. As organizações sociais com atuação na área da saúde qualificadas nos termos da [Lei estadual nº 15.503](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80592/lei-15503), de 2005, poderão continuar a exercer suas atividades previstas nos contratos de gestão vigentes até o advento do termo contratual.
 
-Art. 37. Os contratos de gestão em vigor deverão se ajustar, no que couber, até 180 (cento e oitenta) dias do início da vigência desta Lei, às modificações apresentadas por ela.<br>
+Art. 37. Os contratos de gestão em vigor deverão se ajustar, no que couber, até 180 (cento e oitenta) dias do início da vigência desta Lei, às modificações apresentadas por ela.
+
 \- [Redação dada pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
-~~Art. 37. Os contratos de gestão em vigor e as respectivas organizações sociais com atuação na área da saúde deverão se ajustar às modificações desta Lei, no que couber, em até 180 (cento e oitenta) dias a partir de sua entrada em vigor.~~<br>
+~~Art. 37. Os contratos de gestão em vigor e as respectivas organizações sociais com atuação na área da saúde deverão se ajustar às modificações desta Lei, no que couber, em até 180 (cento e oitenta) dias a partir de sua entrada em vigor.~~
+
 \- [Vide Despacho PGE nº 290/2023](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18294) \- Ementa: 1. Consulta. 2. Direito intertemporal 3. Advento do regime jurídico específico das organizações sociais da saúde, pela lei nº 21.740, de 2022. 4. Regra geral calcada no princípio da especialidade, aplicabilidade imediata da lei nº 21.740, de 2022, por força do seu art. 39, em detrimento da Lei nº 15.503, de 2005. 5. Natureza material da norma do art. 15 da Lei nº 15.503, de 2005, e do art. 31 da Lei nº 21.740, de 2022, a definir a aplicação de uma, ou de outra, pelo princípio do tempus regit actum, sem prejuízo da regra geral. 6. Persistência da aplicabilidade das diretrizes traçadas pelos despachos nºs 1637/2021-GAB e 701/2022-GAB, no que couber, aos eventuais futuros processos de desqualificação, com as adaptações que porventura se fizerem necessárias nos casos concretos. 7. Inaplicabilidade do prazo de 180 dias previsto pelo art. 37 da nº 21.740, de 2022, em favor de entidades submetidas a processos de desqualificação embasados no art. 15 da Lei nº 15.503, de 2005, sob pena de violação à isonomia. 8. Questão das revisitações de todas as organizações sociais enfrentada pelo despacho nº 701/2022-GAB. 9. Matéria orientada.
 
-Parágrafo único. Excluem-se da exigência do caput deste artigo as contratações com execução em andamento.<br>
+Parágrafo único. Excluem-se da exigência do caput deste artigo as contratações com execução em andamento.
+
 \- [Redação dada pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 ~~Parágrafo único. Excluem-se da exigência do _caput_ deste artigo as contratações cuja execução se encontre em andamento, bem como as habilitações já obtidas em editais vigentes, na constância destes.~~
@@ -560,14 +608,13 @@ I – a alínea “j” do inciso I do art. 2º; e
 
 II – o parágrafo único do art. 8º– C.
 
-Art. 38-A. Os casos omissos nesta Lei serão regulamentados pelo Chefe do Poder Executivo.<br>
+Art. 38-A. Os casos omissos nesta Lei serão regulamentados pelo Chefe do Poder Executivo.
+
 \- [Acrescido pela Lei nº 22.485, de 22-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108259/lei-22485)
 
 Art. 39. Esta lei entra em vigor na data de sua publicação.
 
 Goiânia, 29 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

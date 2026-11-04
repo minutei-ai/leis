@@ -12,8 +12,10 @@ Goiânia, 9 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-LUIZ SAMPAIO<br>
+LUIZ SAMPAIO
+
 Deputado Estadual

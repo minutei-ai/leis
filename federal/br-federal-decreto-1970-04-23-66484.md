@@ -1,5 +1,3 @@
-###DEC-066484-0-000-23-04-1970@@@
-
 DECRETO nº 66.484, DE 23 DE ABRIL DE 1970.
 
 Decreta intervenção federal no Município de São Carlos, Estado de São Paulo, e dá outras providências.

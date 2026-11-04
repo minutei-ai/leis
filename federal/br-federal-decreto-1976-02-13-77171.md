@@ -1,5 +1,3 @@
-###DEC-077171-0-000-13-02-1976@@@
-
 Decreto nº 77.171, de 13 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia de Campo Grande, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

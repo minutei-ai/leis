@@ -1,5 +1,3 @@
-###DEC-090458-0-000-08-11-1984@@@
-
 Decreto nº 90.458, de 08 de novembro de 1984
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído das áreas "Colônia K - Gleba nº 2", "Núcleo Mato Branco" e "Terras Sem Denominação", situado no Município de Chopinzinho, Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22.10.71, alterado pelos Decretos nº 78.422, de 15.9.76, e 84.969, de 28.7.80.

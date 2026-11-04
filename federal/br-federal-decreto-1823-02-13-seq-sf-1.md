@@ -1,5 +1,3 @@
-###DEC-000000-0-001-13-02-1823@@@
-
 DECRETO - DE 13 DE FEVEREIRO DE 1823
 
 Approva os figurinos do uniforme do batalhão de artilharia de posição,de pretos libertos.

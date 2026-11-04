@@ -1,5 +1,3 @@
-###DEC-070190-0-000-24-02-1972@@@
-
 DECRETO Nº 70.190, DE 24 DE FEVEREIRO DE 1972.
 
 Autoriza a cessão gratuita de imóvel à Prefeitura Municipal de Fortaleza, Estado do Ceará

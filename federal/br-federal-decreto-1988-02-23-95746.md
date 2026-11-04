@@ -1,7 +1,3 @@
-1
-
-###DEC-095746-0-000-23-02-1988@@@
-
 DECRETO N° 95.746, DE 23 DE FEVEREIRO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados lotes 37 (parte, 42, 43 e 55 do Loteamento Itaipavas, também conhecidos como Fazendas "Bela Vista" ou "Juruparana", "Pau D'arco" e "Berocan", classificados como latifúndio por exploração, situados no Município de Conceição do Araguaia, Estado do Pará, e compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n ° 92.623, de 2 de maio de 1986, e dá outras providências.

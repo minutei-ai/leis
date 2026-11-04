@@ -1,5 +1,3 @@
-###DEC-082994-0-000-08-01-1979@@@
-
 DECRETO Nº 82.994, DE 08 DE JANEIRO DE 1979
 
 Concede à Companhia de Cimento Portland Paraná o direito de lavrar calcário dolomítico no Município de Rio Branco do Sul, Estado do Paraná.

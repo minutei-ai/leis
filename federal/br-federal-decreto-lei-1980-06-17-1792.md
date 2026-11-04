@@ -1,5 +1,3 @@
-###DEL-001792-0-000-17-06-1980@@@
-
 # Decreto-lei nº 1.792, de 17 de junho de 1980
 
 Dispõe sobre a destinação do eventual excesso de arrecadação do Imposto sobre Operações Financeiras no exercício financeiro de 1980.

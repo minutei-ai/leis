@@ -1,5 +1,3 @@
-###DEC-068973-0-000-23-07-1971@@@
-
 DECRETO Nº 68.973, DE 23 DE JULHO DE 1971.
 
 Autoriza a Light -Serviços de Eletricidade S.A. a construir linha de transmissão e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061452-0-000-04-10-1967@@@
-
 DECRETO Nº 61.452, DE 4 DE OUTUBRO DE 1967.
 
 Transfere da Emprêsa Fôrça e Luz de Divino para a Centrais Elétricas de Minas Gerais S. A. a concessão para distribuir energia elétrica no distrito sede do município de Divino, Estado de Minas Gerais e dá outras providências.

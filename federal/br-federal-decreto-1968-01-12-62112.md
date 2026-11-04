@@ -1,5 +1,3 @@
-###DEC-062112-0-000-12-01-1968@@@
-
 DECRETO Nº 62.112, DE 12 DE JANEIRO DE 1968.
 
 Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.

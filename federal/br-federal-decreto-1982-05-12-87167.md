@@ -1,5 +1,3 @@
-###DEC-087167-0-000-12-05-1982@@@
-
 Decreto nº 87.167, de 12 de maio de 1982
 
 Outorga concessão para captação de águas do rio Ribeira do Iguape, para abastecimento público, no Estado de São Paulo.

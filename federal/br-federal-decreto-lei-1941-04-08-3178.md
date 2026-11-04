@@ -1,5 +1,3 @@
-###DEL-003178-0-000-08-04-1941@@@
-
 DECRETO-LEI N. 3.178 – DE 8 DE ABRIL DE 1941
 
 Aprova alterações feitas no regulamento do imposto de consumo.

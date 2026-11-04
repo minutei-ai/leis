@@ -1,5 +1,3 @@
-###DEC-079868-0-000-27-06-1977@@@
-
 DECRETO nº 79.868, de 27 de junho de 1977
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração e Finanças do Norte de Minas, com sede na Cidade de Montes Claros, Estado de Minas Gerais.

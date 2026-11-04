@@ -1,5 +1,3 @@
-###DEC-059391-0-000-13-10-1966@@@
-
 Decreto nº 59.391, de 13 de Outubro de 1966.
 
 Concede à Sun Insurance Office Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

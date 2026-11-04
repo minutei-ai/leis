@@ -1,5 +1,3 @@
-###DEC-061252-0-000-30-08-1967@@@
-
 decreto nº 61.252, de 30 de agÔsto de 1967.
 
 Altera dispositivos do Decreto número 59.414, de 25 de outubro de 1966, que estabelece normas gerais de tarifação para as emprêsas concessionárias de serviços públicos de energia elétrica.

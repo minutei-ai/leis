@@ -1,5 +1,3 @@
-###DEL-006720-0-000-21-07-1944@@@
-
 DECRETO-LEI N. 6.720 – DE 21 DE JULHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 12.314.724,20, para atender a construção da estrada de rodagem Anápolis a S. José do Tocantins

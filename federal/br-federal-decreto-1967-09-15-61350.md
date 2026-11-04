@@ -1,5 +1,3 @@
-###DEC-061350-0-000-15-09-1967@@@
-
 DECRETO Nº 61.350, DE 15 DE SETEMBRO DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos de “A Vanguarda Companhia de Seguros Gerais”, inclusive aumento de capital social.

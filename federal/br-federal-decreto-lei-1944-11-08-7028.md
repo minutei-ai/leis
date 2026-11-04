@@ -1,5 +1,3 @@
-###DEL-007028-0-000-08-11-1944@@@
-
 DECRETO-LEI N. 7.028 – DE 8 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 100.000,00 para instalação de novas dependências do Museu Histórico Nacional

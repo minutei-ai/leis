@@ -1,5 +1,3 @@
-###DEL-003925-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.925 – DE 11 DE DEZEMBRO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a estender aos terrenos da Liga Brasileira Contra a Tuberculose (Fundação Ataulpho de Paiva), enquanto forem de propriedade da mesma, as disposições de isenção concedidas pelo decreto-lei n. 3.069, de 20 de fevereiro de 1941

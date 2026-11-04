@@ -1,5 +1,3 @@
-###DEC-054613-0-000-27-10-1964@@@
-
 DECRETO Nº 54.613, DE 27 DE OUTUBRO DE 1964.
 
 Determina providências para a volta da Rêde Ferroviária Federal S.A. à normalidade de sua vida administrativa.

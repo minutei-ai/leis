@@ -1,5 +1,3 @@
-###DEC-073585-0-000-29-01-1974@@@
-
 DECRETO Nº 73.585, DE 29 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 67.744, de 8 de dezembro de 1970, através do qual foi concedido a Cimentos do Brasil S.A. - CIBRASA, o direito de lavrar argila, no Município de Capanema, Estado do Pará.

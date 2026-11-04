@@ -1,5 +1,3 @@
-###DEL-001645-0-000-11-12-1978@@@
-
 # Decreto-lei nº 1.645, de 11 de dezembro de 1978
 
 Dispõe sobre a cobrança da Dívida Ativa da União e dá outras providências.

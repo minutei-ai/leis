@@ -1,7 +1,3 @@
-1
-
-###DEC-095769-0-000-03-03-1988@@@
-
 DECRETO N° 95.769, DE 3 DE MARÇO DE 1988
 
 Renova a concessão outorgada à Rádio Entre Rios Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Palmitos, Estado de Santa Catarina.

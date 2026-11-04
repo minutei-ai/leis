@@ -1,5 +1,3 @@
-###DEC-047430-0-000-14-12-1959@@@
-
 Decreto nº 47.430, de 14 de dezembro de 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Comando de Transporte Aéreo para a da Diretoria do Material da Aeronáutica.

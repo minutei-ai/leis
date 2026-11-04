@@ -1,5 +1,3 @@
-###DEC-088059-0-000-25-01-1983@@@
-
 Decreto nº 88.059, de 25 de Janeiro de 1983
 
 Concede autorização à PECTEN BRAZIL BAHIA COMPANY, à CHEVRON BAHIA PETROLEUM COMPANY e à UNIONOIL BAHIA LTD., para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

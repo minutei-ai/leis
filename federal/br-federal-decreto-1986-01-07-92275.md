@@ -1,5 +1,3 @@
-###DEC-092275-0-000-07-01-1986@@@
-
 DECRETO Nº 92.275, DE 07 DE JANEIRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, objetivando a reforma agrária, os imóveis rurais denominados "Fazenda Joncon" e "Fazenda Três Irmãos", da Gleba Conceição, Município de Conceição do Araguaia, Estado do Pará, compreendidos na zona prioritária de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980, ampliada pelos Decretos nºs 87.095, de 16 de abril de 1982, e 91.912, de 12 de novembro de 1985, e dá outras providências.

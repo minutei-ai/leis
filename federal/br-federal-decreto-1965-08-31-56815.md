@@ -1,5 +1,3 @@
-###DEC-056815-0-000-31-08-1965@@@
-
 DECRETO Nº 56.815, DE 31 DE AGôSTO DE 1965.
 
 Revoga o Decreto nº 53.450, de 10 de setembro de 1963, e dá outras providências.

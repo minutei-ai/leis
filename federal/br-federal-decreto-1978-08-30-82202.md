@@ -1,5 +1,3 @@
-###DEC-082202-0-000-30-08-1978@@@
-
 Decreto nº 82.202, de 30 de agosto de 1978.
 
 Altera o Decreto nº 79 224, de 08 de fevereiro de 1977, que autoriza a conversão em curso de Ciências do curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Tupã, com sede na cidade de Tupã, Estado de São Paulo.

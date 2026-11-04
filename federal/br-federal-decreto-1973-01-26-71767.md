@@ -1,5 +1,3 @@
-###DEC-071767-0-000-26-01-1973@@@
-
 DECRETO Nº 71.767, DE 26 DE JANEIRO DE 1973.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas e Administrativas D. Pedro II, da Associação dos Empregados no Comércio de São Paulo, São Paulo.

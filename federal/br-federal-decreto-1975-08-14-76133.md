@@ -1,5 +1,3 @@
-###DEC-076133-0-000-14-08-1975@@@
-
 DECRETO Nº 76.133 - DE 14 DE AGOSTO DE 1975
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Ciências Econômicas da Universidade Federal do Acre, com sede na cidade do Rio Branco, Estado do Acre.

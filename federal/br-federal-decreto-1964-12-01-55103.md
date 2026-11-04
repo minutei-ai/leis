@@ -1,5 +1,3 @@
-###DEC-055103-0-000-01-12-1964@@@
-
 DECRETO Nº 55.103, DE 1º DE DEZEMBRO DE 1964.
 
 Dá nova redação ao Art. 2º do Decreto nº 54.028 de 17 de junho de 1964, incorporando a área de terra que pertence à extinta Coudelaria de Saican ao CIBSB.

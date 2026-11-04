@@ -1,5 +1,3 @@
-###DEL-006311-0-000-03-03-1944@@@
-
 DECRETO-LEI N. 6.311 – DE 3 DE MARÇO DE 1944
 
 Extingue o 3º Esquadrão de Trem Automóvel

@@ -1,5 +1,3 @@
-###DEC-084366-0-000-04-01-1980@@@
-
 DECRETO Nº 84.366, DE 04 DE JANEIRO DE 1980
 
 Declara perempta concessão outorgada à Rádio Cultura da Bahia S/A, para executar serviço de radiodifusão sonora em onda tropical na cidade de Salvador, Estado da Bahia.

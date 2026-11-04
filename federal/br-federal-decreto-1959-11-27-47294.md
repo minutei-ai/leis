@@ -1,5 +1,3 @@
-###DEC-047294-0-000-27-11-1959@@@
-
 decreto nº 47. 294, de 27 de novembro de 1959.
 
 Outorga concessão à Sociedade Rádio Emissora Paranaense Limitada para instalar uma estação de radiotelevisão.

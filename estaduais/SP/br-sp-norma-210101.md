@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210101)<br>
-
 # DECRETO N° 68.957, DE 09 DE OUTUBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e por prazo determinado, do Município de São Bernardo do Campo, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-059920-0-000-30-12-1966@@@
-
 Decreto nº 59.920, de 30 de dezembro de 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar quartzo e mica no município de Nacip Raydan, Estado de Minas Gerais.

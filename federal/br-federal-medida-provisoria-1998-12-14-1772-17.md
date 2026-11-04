@@ -1,5 +1,3 @@
-###MPV-001772-0-017-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.772-17, DE 14 DE DEZEMBRO DE 1998.
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital do Tesouro Nacional participe, e dá outras providências.

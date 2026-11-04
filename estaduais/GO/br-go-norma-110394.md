@@ -1,4 +1,5 @@
-LEI Nº 23.234, DE 16 DE JANEIRO DE 2025<br>
+LEI Nº 23.234, DE 16 DE JANEIRO DE 2025
+
  
 
 Dispõe sobre o reajuste dos vencimentos dos ocupantes do cargo de Professor do Quadro Permanente do Magistério e do Quadro Transitório do Magistério, da Secretaria de Estado da Educação, e altera a [Lei nº 13.909](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81526/lei-13909), de 25 de setembro de 2001, que dispõe sobre o Estatuto e o Plano de Cargos e Vencimentos do Pessoal do Magistério.

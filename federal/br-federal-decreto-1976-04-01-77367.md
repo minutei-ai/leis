@@ -1,5 +1,3 @@
-###DEC-077367-0-000-01-04-1976@@@
-
 DECRETO Nº 77.367 - DE 1º DE ABRIL DE 1976
 
 Concede recolhimento aos cursos de Letras, de História, de Matemática e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Ubá, com sede na cidade de Ubá, Estado de Minas Gerais.

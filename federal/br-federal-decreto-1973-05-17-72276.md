@@ -1,5 +1,3 @@
-###DEC-072276-0-000-17-05-1973@@@
-
 DECRETO Nº 72.276, DE 17 DE MAIO DE 1973.
 
 Concede autorização às empresas holandesas Adriaan Volker International N.V. e Van Hattum en Blankevoord N.V e Hollandsche Aaneming Maatschappij N.V. para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, com embarcações "Geopotes X", de nacionalidade inglesa e "Bulgerstein", de nacionalidade holandesa a serviço da Minerações Brasileiras Reunidas S.A. - MBR.

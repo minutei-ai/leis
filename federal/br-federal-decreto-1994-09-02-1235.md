@@ -1,7 +1,3 @@
-1
-
-###DEC-001235-0-000-02-09-1994@@@
-
 DECRETO N° 1.235, DE 2 DE SETEMBRO DE 1994
 
 Dá nova redação ao art. 5°, do Decreto n° 98.161, de 21 de setembro de 1989, que dispõe sobre a administração do Fundo Nacional do Meio Ambiente.

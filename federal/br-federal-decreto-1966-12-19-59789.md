@@ -1,5 +1,3 @@
-###DEC-059789-0-000-19-12-1966@@@
-
 DECRETO Nº 59.789, DE 19 DE DEZEMBRO DE 1966.
 
 Transfere da Prefeitura Municipal de Itapecerica para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-060744-0-000-24-05-1967@@@
-
 DECRETO Nº 60.744, DE 24 DE MAIO DE 1967.
 
 Concede à sociedade anônima Société de Sucreries Brésiliennes autorização para continuar a funcionar no Brasil.

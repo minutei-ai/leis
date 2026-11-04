@@ -1,7 +1,3 @@
-1
-
-###DEC-098629-0-000-20-12-1989@@@
-
 DECRETO N° 98.629, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão a RAIMUNDO ANSELMO LIMA MORORÓ E CIA. LTDA., para explorar Serviço Especial de Televisão por Assinatura TVA, na região metropolitana de Fortaleza, Estado do Ceará.

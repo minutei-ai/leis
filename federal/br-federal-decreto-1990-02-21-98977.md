@@ -1,7 +1,3 @@
-1
-
-###DEC-098977-0-000-21-02-1990@@@
-
 DECRETO Nº 98.977, DE 21 DE FEVEREIRO DE 1990
 
 Altera o art. 16 do Decreto nº 98.356, de 3 de novembro de 1989, que dispõe sobre a estrutura da Seplan.

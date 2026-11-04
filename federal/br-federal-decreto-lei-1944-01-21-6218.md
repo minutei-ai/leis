@@ -1,5 +1,3 @@
-###DEL-006218-0-000-21-01-1944@@@
-
 DECRETO-LEI N. 6.218 – DE 21 DE Janeiro DE 1944
 
 Regula a concessão de pensão especial aos herdeiros dos oficiais generais falecidos em conseqüência de acidente em serviço ou moléstia nêle adquirida

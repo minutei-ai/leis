@@ -1,5 +1,3 @@
-###DEC-005777-0-000-17-05-2006@@@
-
 DECRETO Nº 5.777, DE 17 DE MAIO DE 2006.
 
 Autoriza o aumento do capital social da Indústria de Material Bélico do Brasil - IMBEL e a celebração de contrato de gestão.

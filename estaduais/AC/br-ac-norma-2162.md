@@ -1,6 +1,10 @@
 > **LEI Nº 3.405, DE 31 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade Pública a Associação dos Defensores Públicos do Estado do Acre - ADPACRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade Pública a Associação dos Defensores Públicos do Estado do Acre - ADPACRE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

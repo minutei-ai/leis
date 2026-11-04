@@ -1,5 +1,3 @@
-###DEC-069247-0-000-21-09-1971@@@
-
 decreto nº 69.247, de 21 de setembro de 1971.
 
 Altera o Regimento do Gabinete Militar da Presidência da República.

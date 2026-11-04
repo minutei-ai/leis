@@ -1,5 +1,3 @@
-###DEL-005913-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.913 – DE 25 DE OUTUBRO DE 1943
 
 Dispõe sôbre despesa efetuada à conta do crédito aberto pelo decreto‑lei n. 3.123, de 19 de março de 1941

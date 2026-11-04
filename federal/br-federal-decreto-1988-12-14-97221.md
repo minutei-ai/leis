@@ -1,5 +1,3 @@
-###DEC-097221-0-000-14-12-1988@@@
-
 DECRETO Nº 97.221, DE 14 DE DEZEMBRO DE 1988
 
 Altera o artigo 1º, Caput, do Decreto nº 91.796, de 17 de outubro de 1985.

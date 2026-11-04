@@ -1,5 +1,3 @@
-###DEC-093085-0-000-07-08-1986@@@
-
 DECRETO Nº 93.085, DE 07 DE AGOSTO DE 1986
 
 Dispõe sobre a execução das atividades de controle interno, relativas ao Programa Nacional de Irrigação e às entidades que lhe são vinculadas, e dá outras providências.

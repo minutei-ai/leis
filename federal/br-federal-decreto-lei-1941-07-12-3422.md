@@ -1,5 +1,3 @@
-###DEL-003422-0-000-12-07-1941@@@
-
 DECRETO-LEI N. 3.422 – DE 12 DE JULHO DE 1941
 
 Reorganiza os Quadros do Ministério da Educação e Saude, e dá outras providências

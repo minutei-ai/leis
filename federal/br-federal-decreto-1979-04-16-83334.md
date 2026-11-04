@@ -1,5 +1,3 @@
-###DEC-083334-0-000-16-04-1979@@@
-
 decreto nº 83.334, de 16 DE abril de 1979.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis do Centro de Ciências Sociais de Vila Velha, com sede na cidade de Vila Velha, Estado do Espírito Santo.

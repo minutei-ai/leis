@@ -1,5 +1,3 @@
-###DEC-070417-0-000-17-04-1972@@@
-
 DECRETO Nº 70.417, DE 17 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Fundação Imaculada Contra a Tuberculose, com sede em Belo Horizonte, Estado de Minas Gerais.

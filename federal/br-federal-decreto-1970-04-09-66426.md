@@ -1,5 +1,3 @@
-###DEC-066426-0-000-09-04-1970@@@
-
 DECRETO Nº 66.426, DE 9 DE ABRIL DE 1970.
 
 Concede permissão, em caráter permanente, à firma Plásticos Plavinil S.A., estabelecida na capital do Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

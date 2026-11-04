@@ -1,7 +1,3 @@
-1
-
-###DEC-098838-0-000-17-01-1990@@@
-
 DECRETO Nº 98.838, DE 17 DE JANEIRO DE 1990
 
 Dispõe sobre a execução de Ata de Retificação do Vigésimo e do Vigésimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial nº 1, entre o Brasil e Argentina.

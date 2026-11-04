@@ -1,5 +1,3 @@
-###DEC-005143-0-000-15-07-2004@@@
-
 DECRETO Nº 5.143,  DE 15 DE JULHO DE 2004.
 
        Dispõe sobre a Câmara de Política Econômica, instituída pelo Decreto nº 4.182, de 4 de abril de 2002, e dá outras providências.

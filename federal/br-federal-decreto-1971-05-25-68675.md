@@ -1,5 +1,3 @@
-###DEC-068675-0-000-25-05-1971@@@
-
 DECRETO Nº 68.675 - de 25 de maio de 1971.
 
 Anula o artigo 9º e seu parágrafo único do Decreto nº 62.219, de 2 de fevereiro de 1968, que regulamentou o Decreto-lei n° 313, de 7 de março de 1967, alterado pela Lei n° 5.343, de 28 de outubro de 1967, que criou o Quadro de Oficiais Engenheiros, no Corpo de Oficiais da Aeronáutica.

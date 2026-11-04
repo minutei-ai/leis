@@ -1,5 +1,3 @@
-###DEC-050193-0-000-28-01-1961@@@
-
 DECRETO Nº 50.193, DE 28 DE JANEIRO DE 1961.
 
 Cria um quarentenário destinado a disciplinar e assistir as exportações e importações de animais que forem objeto de transações entre o Brasil e demais países que delas participarem

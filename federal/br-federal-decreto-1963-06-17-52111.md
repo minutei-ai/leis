@@ -1,5 +1,3 @@
-###DEC-052111-0-000-17-06-1963@@@
-
 DECRETO Nº 52.111, DE 17 DE JUNHO DE 1963.
 
 Dispõe sôbre a categoria da Delegação Permanente do Brasil junto à Associação Latino-Americana de Livre Comércio (ALALC).

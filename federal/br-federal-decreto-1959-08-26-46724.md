@@ -1,5 +1,3 @@
-###DEC-046724-0-000-26-08-1959@@@
-
 Decreto nº 46.724, de 26 de agôsto de 1959.
 
 Concede permissão para que determinados setores da Fábrica de Papel Santa Terezinha S.A., estabelecida na cidade de São Paulo, funcionem aos domingos e nos feriados civis ou religiosos.

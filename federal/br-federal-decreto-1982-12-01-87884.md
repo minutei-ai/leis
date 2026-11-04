@@ -1,5 +1,3 @@
-###DEC-087884-0-000-01-12-1982@@@
-
 Decreto nº 87.884, de 01 de dezembro de 1982.
 
 Outorga à ELETROPAULO - Eletricidade de São Paulo S.A. concessão para produção de energia elétrica através de usinas hidrelétricas em operação no Estado de São Paulo, e dá outras providências.

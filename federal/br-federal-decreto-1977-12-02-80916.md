@@ -1,5 +1,3 @@
-###DEC-080916-0-000-02-12-1977@@@
-
 DECRETO Nº 80.916, DE 02 DE dezembro DE 1977.
 
 Declara perempta a concessão outorgada à Prefeitura do antigo Distrito Federal para, através da Rádio Emissora Roquette Pinto, executar serviço de radiodifusão sonora em onda curta, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

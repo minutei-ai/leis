@@ -1,5 +1,3 @@
-###DEC-045241-0-000-15-01-1959@@@
-
 DECRETO Nº 45.241, DE 15 DE JANEIRO DE 1959.
 
 Autoriza a Companhia de Cimento Portland Maringá a pesquisar calcário no município de Itapeva, Estado de São Paulo.

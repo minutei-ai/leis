@@ -1,5 +1,3 @@
-###DEC-092858-0-000-27-06-1986@@@
-
 DECRETO Nº 92.858, DE 27 DE JUNHO DE 1986
 
 Cria o Instituto Histórico-Cultural da Aeronáutica e dá outras providências.

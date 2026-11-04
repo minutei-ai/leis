@@ -1,5 +1,3 @@
-###DEC-085363-0-000-17-11-1980@@@
-
 decreto nº 85.363, de 17 de novembro de 1980.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração de Vitória da Conquista, Estado da Bahia.

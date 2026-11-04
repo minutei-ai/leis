@@ -1,5 +1,3 @@
-###DEL-002029-0-000-09-06-1983@@@
-
 # Decreto-Lei nº 2.029, de 9 de junho de 1983.
 
 Altera a legislação do imposto de renda das pessoas jurídicas e dá outras providências.

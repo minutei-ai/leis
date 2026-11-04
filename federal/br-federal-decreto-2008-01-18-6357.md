@@ -1,5 +1,3 @@
-###DEC-006357-0-000-18-01-2008@@@
-
 DECRETO Nº 6.357, DE 18 DE JANEIRO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República de Cabo Verde sobre o Exercício de Atividades Remuneradas por Parte do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado em Praia, em 14 de janeiro de 2005.
@@ -22,11 +20,7 @@ Brasília, 18 de janeiro de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 21.1.2008
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE CABO VERDE SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DE CABO VERDE SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO
 
 O Governo da República Federativa do Brasil
 

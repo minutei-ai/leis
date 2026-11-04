@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209873)<br>
-
 # LEI N° 18.016, DE 23 DE AGOSTO DE 2024
 
 ## (Projeto de lei n° 417/2023, do Deputado Edmir Chedid - UNIÃO)

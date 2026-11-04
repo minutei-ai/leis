@@ -1,5 +1,3 @@
-###DEC-075015-0-000-02-12-1974@@@
-
 DECRETO Nº 75.015, DE 2 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas de Colatina, mantida pela Prefeitura Municipal de Colatina, Estado do Espirito Santo.

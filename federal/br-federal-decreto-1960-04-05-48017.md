@@ -1,5 +1,3 @@
-###DEC-048017-0-000-05-04-1960@@@
-
 DECRETO Nº 48.017, DE 5 DE ABRIL DE 1960.
 
 Concede à Morro do Niquel S.A. Mineração, autorização para funcionar como emprêsa de mineração.

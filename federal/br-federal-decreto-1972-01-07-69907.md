@@ -1,5 +1,3 @@
-###DEC-069907-0-000-07-01-1972@@@
-
 DECRETO Nº 69.907, DE 7 DE JANEIRO DE 1972.
 
 Classifica os órgãos de deliberação coletiva existentes na área do Ministério do Trabalho e Previdência Social.
@@ -61,8 +59,6 @@ Brasília, 7 de Janeiro de 1972; 151º da Independência e 84º da República.
 Emílio G. Médici
 
 Júlio Barata
-
-###DEC-069907-0-000-07-01-1972@@@
 
 DECRETO Nº 69.907, DE 7 DE JANEIRO DE 1972.
 

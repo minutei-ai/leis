@@ -1,7 +1,3 @@
-1
-
-###MPV-001530-0-000-20-11-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.530, DE 20 DE NOVEMBRO DE 1996.
 
 Institui o Programa de Desligamento Voluntário de servidores civis do Poder Executivo Federal e dá outras providências.

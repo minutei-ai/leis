@@ -1,5 +1,3 @@
-###DEC-002402-0-000-24-11-1997@@@
-
 DECRETO Nº 2.402, DE 24 DE NOVEMBRO DE 1997
 
 Dispõe sobre a atualização cadastral de servidores civis ativos da administração pública federal direta, autárquica e fundacional do Poder Executivo, inclusive os oriundos de ex-Territórios, não alcançados pelo art. 19 do Ato das Disposições Constitucionais Transitórias.

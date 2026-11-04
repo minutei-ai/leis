@@ -1,5 +1,3 @@
-###DEC-003403-0-000-05-04-2000@@@
-
 DECRETO Nº 3.403, DE 5 DE ABRIL DE 2000.
 
 Delega competência ao Ministro de Estado da Educação para a prática dos atos que menciona.

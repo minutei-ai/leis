@@ -4,7 +4,11 @@ Revogada pela Lei nº [3.601 , de 09 de Janeiro de 2020.](https://legis.ac.gov.b
 
 > **LEI Nº 3.471, DE 28 DE DEZEMBRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fixa o subsidio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2019.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fixa o subsidio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2019.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

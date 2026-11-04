@@ -1,7 +1,3 @@
-1
-
-###MPV-000924-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 924, DE 24 DE FEVEREIRO DE 1995
 
 Institui a "Retribuição Variável da Comissão de Valores Mobiliários (RVCVM)" e a "Retribuição Variável da Superintendência de Seguros Privados (RVSUSEP)", atribuídas aos servidores titulares de cargos efetivos da CVM e da Susep, e dá outras providências.

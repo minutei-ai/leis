@@ -1,5 +1,3 @@
-###DEC-067802-0-000-11-12-1970@@@
-
 dcreto nº 67.802, de 11 de dezembro de 1970.
 
 Retifica o Decreto nº 64.858, de 23 de julho de 1969, para considerar os cargos e respectivos ocupantes a que o mesmo se refere, originários da extinta Divisão de Caça e Pesca do Ministério da Agricultura, redistribuídos para o Quadro de Pessoal - Parte Permanente - do mesmo Ministério.

@@ -1,5 +1,3 @@
-###DEC-055528-0-000-11-01-1965@@@
-
 DECRETO Nº 55.528, DE 11DE JANEIRO DE 1965
 
 Autoriza Minex S.A .- Emprêsa de Mineração a pesquisar feldspato no município de Santa Branca, Estado de São Paulo.

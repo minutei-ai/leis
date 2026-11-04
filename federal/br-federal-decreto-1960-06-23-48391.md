@@ -1,5 +1,3 @@
-###DEC-048391-0-000-23-06-1960@@@
-
 DECRETO Nº 48.391, DE 23 DE JUNHO DE 1960.
 
 Declara de utilidade pública a Venerávek Ordem Terceira de São Francisco da Penitência, com sede no Estado da Guanabara.

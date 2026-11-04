@@ -1,5 +1,3 @@
-###DEC-064616-0-000-02-06-1969@@@
-
 DECRETO Nº 64.616, DE 2 DE JUNHO DE 1969.
 
 Declara de utilidade pública a Escola Nossa Senhora das Mercês, com sede em Santo Antônio de Jesus, Estado da Bahia.

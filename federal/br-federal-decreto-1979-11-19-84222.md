@@ -1,5 +1,3 @@
-###DEC-084222-0-000-19-11-1979@@@
-
 Decreto nº 84.222, de 19 de novembro de 1979
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Estado do Rio de Janeiro e de Recife, Estado de Pernambuco.

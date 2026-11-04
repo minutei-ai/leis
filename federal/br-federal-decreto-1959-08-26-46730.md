@@ -1,5 +1,3 @@
-###DEC-046730-0-000-26-08-1959@@@
-
 Decreto nº 46.730, de 26 de agôsto de 1959.
 
 Autoriza a emprêsa de mineração Fosforita Olinda S.A. a pesquisar fosforita, no município de Igaraçu, Estado de Pernambuco.

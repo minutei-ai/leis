@@ -1,5 +1,3 @@
-###DEC-060494-0-000-14-03-1967@@@
-
 DECRETO Nº 60.494, DE 14 DE MarÇO DE 1967.
 
 Prorroga o prazo de prestação de serviços a órgãos que não disponham de quadro próprio de pessoal.

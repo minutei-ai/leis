@@ -1,5 +1,3 @@
-###DEL-001486-0-000-01-11-1976@@@
-
 # DECRETO LEI Nº 1.486, DE 1 DE NOVEMBRO DE 1976
 
 Altera o Anexo II do Decreto-lei nº 1.462, de 29 de abril de 1976, e dá outras providências.

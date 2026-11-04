@@ -1,5 +1,3 @@
-###DEC-000422-0-000-14-01-1992@@@
-
 DECRETO Nº 422, DE 14 DE JANEIRO DE 1992
 
 Promulga o Acordo de Cooperação na Área de Energia Nuclear para Fins Pacíficos, entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.

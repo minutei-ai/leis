@@ -1,5 +1,3 @@
-###DEC-068807-0-000-25-06-1971@@@
-
 DECRETO Nº 68.807 - DE 25 DE JUNHO DE 1971.
 
 Regulamenta a concessão de diárias aos servidores do Serviço Civil do Poder Executivo, e dá outras providências.

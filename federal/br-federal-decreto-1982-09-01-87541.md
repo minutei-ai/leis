@@ -1,5 +1,3 @@
-###DEC-087541-0-000-01-09-1982@@@
-
 Decreto nº 87.541, de 01 de setembro de 1982
 
 Concede à Companhia Nacional de Álcalis - CNA, autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

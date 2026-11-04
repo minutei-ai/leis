@@ -1,5 +1,3 @@
-###DEC-096051-0-000-18-05-1988@@@
-
 DECRETO Nº 96.051, DE 18 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “SANTA NAZARÉ”, classificado como “latifúndio por exploração”, situado no Município de Bela Cruz, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.617, de 02 de maio de 1986, e dá outras providências.

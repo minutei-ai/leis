@@ -1,5 +1,3 @@
-###DEC-050458-0-000-14-04-1961@@@
-
 DECRETO Nº 50.458, DE 14 DE ABRIL DE 1961.
 
 Concede à Sociedade Comércio, Indústria e Navegação Iochpe Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

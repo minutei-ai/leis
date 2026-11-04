@@ -1,5 +1,3 @@
-###DEC-047748-0-000-03-02-1960@@@
-
 DECRETO Nº 47.748, DE 3 DE FEVEREIRO DE 1960.
 
 Autoriza Zenildo de Brito Lessa, a comprar pedras preciosas.

@@ -1,30 +1,28 @@
-###DEC-020279-0-000-26-12-1945@@@
+**DECRETO Nº 20.279, DE 26 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.279, DE 26 DE DEZEMBRO DE 1945.</strong>
+***Aprova o Regimento do Instituto Rio Branco, do Ministério das Relações Exteriores.***
 
-<em><strong>Aprova o Regimento do Instituto Rio Branco, do Ministério das Relações Exteriores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Instituto Rio Branco, do Ministério das Relações Exteriores que, assinado pelo respectivo Ministro de Estado, com êste baixo.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Instituto Rio Branco, do Ministério das Relações Exteriores que, assinado pelo respectivo Ministro de Estado, com êste baixo.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 P. Leão Veloso
 
-<strong>REGIMENTO DO INSTITUTO RIO BRANCO, DO MINISTÉRIO DAS RELAÇÕES EXTERIORES</strong>
+**REGIMENTO DO INSTITUTO RIO BRANCO, DO MINISTÉRIO DAS RELAÇÕES EXTERIORES**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Instituto Rio Branco (I.R.Br.), do Ministério das Relações Exteriores, diretamente subordinado ao Ministro de Estado, tem por finalidade:
+**Art**. 1º O Instituto Rio Branco (I.R.Br.), do Ministério das Relações Exteriores, diretamente subordinado ao Ministro de Estado, tem por finalidade:
 
 I - a formação, o aperfeiçoamento e a especialização de funcionários de Ministério das Relações Exteriores;
 
@@ -36,27 +34,27 @@ IV - a difusão, mediante ciclos de conferências e cursos de extensão, de conh
 
 V - colaborar com o Serviço de Documentação na realização de pesquisas sôbre assuntos relacionados com a finalidade do Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANZIAÇÃO</em>
+*DA ORGANZIAÇÃO*
 
-<strong>Art</strong>. 2º O I.R.Br. terá um Diretor nomeado pelo Presidente da República, por indicação do Ministro de Estado, dentre os funcionários da carreira de “Diplomata”.
+**Art**. 2º O I.R.Br. terá um Diretor nomeado pelo Presidente da República, por indicação do Ministro de Estado, dentre os funcionários da carreira de “Diplomata”.
 
-<strong>Art</strong>. 3º O Diretor terá um Assistente Técnico.
+**Art**. 3º O Diretor terá um Assistente Técnico.
 
-<strong>Art</strong>. 4º O I.R.Br. terá uma Secretaria.
+**Art**. 4º O I.R.Br. terá uma Secretaria.
 
-<strong>Art</strong>. 5º A Secretaria terá um Chefe destinado pelo Ministro de Estado, dentre os funcionários da carreira de “Diplomata”.
+**Art**. 5º A Secretaria terá um Chefe destinado pelo Ministro de Estado, dentre os funcionários da carreira de “Diplomata”.
 
-<strong>Art</strong>. 6º O Diretor terá um Secretário de sua designação, dentre os funcionários da carreira de “Diplomata”.
+**Art**. 6º O Diretor terá um Secretário de sua designação, dentre os funcionários da carreira de “Diplomata”.
 
-<strong>Art</strong>. 7º Os órgãos que integram o I.R.Br. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 7º Os órgãos que integram o I.R.Br. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA</em>
+*DA COMPETÊNCIA*
 
-<strong>Art</strong>. 8º À Secretaria compete:
+**Art**. 8º À Secretaria compete:
 
 I - promover as medidas preliminares necessárias à administração do pessoal, material, orçamento e comunicações, funcionando articulada com D.A. do Ministério e observando as normas e métodos de trabalhos por êste prescritos;
 
@@ -72,11 +70,11 @@ VI - informar papéis relativos às atividades do Instituto;
 
 VII - organizar e ter sob sua guarda o arquivo da Secretaria.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 9º Ao Diretor do I.R.Br. compete:
+**Art**. 9º Ao Diretor do I.R.Br. compete:
 
 I - administrar e representar I.R.Br.;
 
@@ -128,7 +126,7 @@ XXIV - designar, dispensar ou destituir professores ;e
 
 XXV - autorizar despesas e ordenar pagamentos, dentro dos créditos próprios, correspondentes às atividades específicas do Instituto.
 
-<strong>Art</strong>. 10. Ao Assistente Técnico compete:
+**Art**. 10. Ao Assistente Técnico compete:
 
 I - propor, anualmente, ao Diretor, o plano de trabalho, e opinar sôbre as suas alterações;
 
@@ -140,7 +138,7 @@ IV - opinar, do ponto de vista do interêsse do ensino, sôbre a admissão e dis
 
 V - fiscalizar, do ponto de vista didático, o funcionamento dos cursos, levando ao conhecimento do Diretor as observações feitas.
 
-<strong>Art</strong>. 11. Ao Chefe da Secretaria compete:
+**Art**. 11. Ao Chefe da Secretaria compete:
 
 I - dirigir o setor respectivo;
 
@@ -160,7 +158,7 @@ VIII - antecipar ou prorrogar por uma hora o período normal de trabalho; e
 
 IX - organizar e submeter à aprovação do Diretor a escala de férias do pessoal que lhe fôr subordinado, bem como as alterações subseqüentes.
 
-<strong>Art</strong>. 12. Ao Secretário do Diretor compete:
+**Art**. 12. Ao Secretário do Diretor compete:
 
 I - atender as pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -168,44 +166,44 @@ II - representar o Diretor, quando para isto fôr designado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 13. Aos Professôres incumbe ministrar os cursos e realizar os trabalhos de pesquisa, de acôrdo com os planos elaborados pelo Assistente Técnico e aprovados pelo Diretor.
+**Art**. 13. Aos Professôres incumbe ministrar os cursos e realizar os trabalhos de pesquisa, de acôrdo com os planos elaborados pelo Assistente Técnico e aprovados pelo Diretor.
 
-<strong>Art</strong>. 14. Aos demais servidores, sem funções especificadas neste regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 14. Aos demais servidores, sem funções especificadas neste regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 15. O I.R.Br. Terá lotação aprovada em decreto.
+**Art**. 15. O I.R.Br. Terá lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, o I.R.Br. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 16. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 16. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 17. O Diretor e o Chefe da Secretária não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 17. O Diretor e o Chefe da Secretária não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 18. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 18. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - o Diretor, pelo Chefe da Secretaria, e
 
 II - o Chefe da Secretaria, por funcionário designado pelo Diretor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 19. Mediante “Instrução de Serviço” do Diretor, a Secretaria poderá desdobrar-se em turmas.
+**Art**. 19. Mediante “Instrução de Serviço” do Diretor, a Secretaria poderá desdobrar-se em turmas.
 
-<strong>Art</strong>. 20 Nenhum servidor poderá fazer publicações e conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do I.R.Br., sem autorização escrita do Diretor.
+**Art**. 20 Nenhum servidor poderá fazer publicações e conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do I.R.Br., sem autorização escrita do Diretor.
 
 Rio de Janeiro, 26 de dezembro de 1945.
 
-<strong>P. LEÃO VELOSO</strong>
+**P. LEÃO VELOSO**

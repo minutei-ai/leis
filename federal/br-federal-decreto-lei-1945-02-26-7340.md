@@ -1,5 +1,3 @@
-###DEL-007340-0-000-26-02-1945@@@
-
 DECRETO-LEI N. 7.340 – DE 26 DE FEVEREIRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 900.000.000,00, para despesas decorrentes da execução do Decreto-lei n.º 6.019, de 23 de novembro de 1943.

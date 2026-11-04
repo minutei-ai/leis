@@ -1,5 +1,3 @@
-###DEC-002126-0-000-17-01-1997@@@
-
 DECRETO Nº 2.126, DE 17 DE JANEIRO DE 1997
 
 Altera valores de indenizações constantes dos Anexos aos Decretos nºs 2.038, de 15 de outubro de 1996, e 2.081, de 26 de novembro de 1996.

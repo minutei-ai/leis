@@ -1,5 +1,3 @@
-###MPV-001756-0-009-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.756-9, DE 13 DE JANEIRO DE 1999.
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

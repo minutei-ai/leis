@@ -1,5 +1,3 @@
-###MPV-000393-0-000-19-09-2007@@@
-
 MEDIDA PROVISÓRIA Nº 393, DE 19 DE SETEMBRO DE 2007.
 
 Institui o Programa Nacional de Dragagem Portuária e Hidroviária, e dá outras providências.
@@ -51,5 +49,3 @@ LUIZ INÁCIO LULA DA SILVA
 Alfredo Nascimento
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 20.9.2007

@@ -1,5 +1,3 @@
-###DEC-048090-0-000-09-04-1960@@@
-
 DECRETO Nº 48.090, DE 9 DE ABRIL DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Educação e Cultura.

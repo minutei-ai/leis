@@ -1,5 +1,3 @@
-###DEC-068118-0-000-27-01-1971@@@
-
 Decreto nº 68.118, de 27 de janeiro de 1971.
 
 Organiza o Departamento de Material Bélico do Ministério do Exército e dá outras providências.

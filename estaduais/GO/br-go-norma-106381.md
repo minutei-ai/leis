@@ -188,8 +188,6 @@ Art. 12 . Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 6 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

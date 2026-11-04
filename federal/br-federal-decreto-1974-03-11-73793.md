@@ -1,5 +1,3 @@
-###DEC-073793-0-000-11-03-1974@@@
-
 DECRETO Nº 73.793, DE 11 DE MARÇO DE 1974.
 
 Concede autorização do "Lamont - Doherty Geological Observatory' da Universidade de Columbia, de nacionalidade norte-americana, para realizar, no mar territorial do Brasil, os serviços que especifica.

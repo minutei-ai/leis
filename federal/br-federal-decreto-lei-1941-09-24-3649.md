@@ -1,5 +1,3 @@
-###DEL-003649-0-000-24-09-1941@@@
-
 DECRETO-LEI N. 3.649 – DE 24 DE SETEMBRO DE 1941
 
 Dispõe sobre a contribuição para o Montepio dos escriturários do Quadro Permanente, provindos da carreira de escrevente, do Quadro Suplementar, do Ministério da Guerra

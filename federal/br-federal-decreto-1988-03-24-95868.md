@@ -1,7 +1,3 @@
-1
-
-###DEC-095868-0-000-24-03-1988@@@
-
 DECRETO N° 95.868, DE 24 DE MARÇO DE 1988
 
 Altera a subordinação do Hospital Naval Marcílio Dias - HNMD, e dá outras providências.

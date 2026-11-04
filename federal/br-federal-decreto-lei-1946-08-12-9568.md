@@ -1,5 +1,3 @@
-###DEL-009568-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.568 – DE 12 DE AGÔSTO DE 1946
 
 Retifica a, alínea h do art. 14 do Decreto-lei nº 8.393, de 17 de Dezembro de 1945, modificado pelo Decreto-lei nº 9.377, de 18 de Junho de 1946.

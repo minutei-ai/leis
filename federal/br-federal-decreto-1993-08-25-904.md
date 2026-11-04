@@ -1,7 +1,3 @@
-1
-
-###DEC-000904-0-000-25-08-1993@@@
-
 DECRETO N° 904, DE 25 DE AGOSTO DE 1993
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo Comercial n° 5, no Setor da Indústria Química, entre Brasil, Argentina, Chile, México, Uruguai e Venezuela, de 31/11/1993.

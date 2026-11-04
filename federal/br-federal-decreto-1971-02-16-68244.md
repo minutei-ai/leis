@@ -1,5 +1,3 @@
-###DEC-068244-0-000-16-02-1971@@@
-
 DECRETO Nº 68.244, DE 16 DE FEVEREIRO DE 1971.
 
 Retifica o artigo 1º do Decreto número 39.372 de 13 de junho de 1956.

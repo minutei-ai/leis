@@ -1,5 +1,3 @@
-###DEL-006158-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.158 – DE 30 DE DEZEMBRO DE 1943
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 40.800.000,00, para atender ao pagamento da contribuição devida à Legião Brasileira de Assistência.

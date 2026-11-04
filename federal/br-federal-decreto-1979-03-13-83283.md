@@ -1,5 +1,3 @@
-###DEC-083283-0-000-13-03-1979@@@
-
 DECRETO Nº 83.283, DE 13 DE MARÇO DE 1979
 
 Promulga o Convênio Cultural Brasil-Grã-Bretanha
@@ -90,4 +88,14 @@ ARTIGO XIII
 
 (2) Será considerado terminado à data de entrada em vigor do presente Convênio o Convênio Cultural firmado entre as Partes Contratantes em 16 de abril de 1947.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Em fé do que, devidamente autorizados pelos seus respectivos Governos, os abaixo assinados firmam o presente Convênio.</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Feito em Londres aos 14 dias do mês de Outubro de 1976, em dois exemplares, nas línguas portuguesa e inglesa, sendo ambos os textos igualmente idênticos.</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">pelo Governo da República Federativa do Brasil:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Roberto de Oliveira Campos</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo do Reino Unido da GrãBretanha e Irlanda do Norte:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E. Rowlands</span></p></td></tr></tbody></table>
+Em fé do que, devidamente autorizados pelos seus respectivos Governos, os abaixo assinados firmam o presente Convênio.
+
+Feito em Londres aos 14 dias do mês de Outubro de 1976, em dois exemplares, nas línguas portuguesa e inglesa, sendo ambos os textos igualmente idênticos.
+
+pelo Governo da República Federativa do Brasil:
+
+Roberto de Oliveira Campos
+
+Pelo Governo do Reino Unido da GrãBretanha e Irlanda do Norte:
+
+E. Rowlands

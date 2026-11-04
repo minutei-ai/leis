@@ -1,5 +1,3 @@
-###DEC-098538-0-000-14-12-1989@@@
-
 DECRETO Nº 98.538, DE 14 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado "SANTA MARIA DOS FERNANDES", situado nos Municípios de Pedreiras e Lima Campos, Estado do Maranhão, e dá outras providências.

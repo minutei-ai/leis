@@ -1,5 +1,3 @@
-###DEC-054190-0-000-24-08-1964@@@
-
 DECRETO Nº 54.190, DE 24 DE AGÔSTO DE 1964.
 
 Autoriza a Superintendência das Emprêsas Incorporadas ao Patrimônio Nacional a doar ao Departamento Nacional de Estradas de Rodagem o terreno que menciona, no Estado do Rio de Janeiro.

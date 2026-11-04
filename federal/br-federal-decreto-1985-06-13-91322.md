@@ -1,5 +1,3 @@
-###DEC-091322-0-000-13-06-1985@@@
-
 Decreto nº 91.322, de 13 de junho de 1985
 
 Declara de utilidade pública a Fundação de Assistência Judiciária da Ordem dos Advogados do Brasil-Seção do Distrito Federal.

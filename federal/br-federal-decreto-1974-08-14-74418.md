@@ -1,5 +1,3 @@
-###DEC-074418-0-000-14-08-1974@@@
-
 DECRETO Nº 74.418, DE 14 DE AGOSTO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Gazeta de Alagoas S.A., para executar serviço de Radiodifusão sonora em onda média de âmbito regional, na Cidade de Maceió, Estado de Alagoas.

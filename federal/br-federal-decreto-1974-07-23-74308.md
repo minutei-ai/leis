@@ -1,5 +1,3 @@
-###DEC-074308-0-000-23-07-1974@@@
-
 DECRETO nº 74.308 - de 23 de julho de 1974
 
 Concede reconhecimento ao curso de Engenharia Mecânica da Universidade de Moji das Cruzes, com sede na cidade de Moji das Cruzes, Estado de São Paulo.

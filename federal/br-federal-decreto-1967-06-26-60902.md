@@ -1,5 +1,3 @@
-###DEC-060902-0-000-26-06-1967@@@
-
 Decreto nº 60.902, de 26 de junho de 1967.
 
 Institui medalha comemorativa do Centenário do nascimento de Nilo Peçanha.

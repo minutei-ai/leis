@@ -1,5 +1,3 @@
-###DEC-070917-0-000-03-08-1972@@@
-
 DECRETO Nº 70.917, DE 3 DE AGOSTO DE 1972.
 
 Autoriza a contratação de créditos externos e dá outras providências.

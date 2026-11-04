@@ -1,5 +1,3 @@
-###DEC-045427-0-000-14-02-1959@@@
-
 Decreto nº 45.427, de 14 de fevereiro de 1959.
 
 Dá nova redação ao art. 2º do Decreto nº 38.965, de 3 de abril de 1956.

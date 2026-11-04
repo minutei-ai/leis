@@ -1,5 +1,3 @@
-###DEC-058912-0-000-22-07-1966@@@
-
 DECRETO Nº 58.912, DE 22 DE JULHO DE 1966.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial no valor de Cr$180.000.000, para custear as despesas com a recuperação do prédio situado na Praia do Flamengo nº 132, Estado da Guanabara.

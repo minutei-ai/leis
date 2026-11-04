@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/eca6aade-f53c-46d7-a234-e9035691f083/texto#nowhere)
 
-###DEL-000887-0-000-23-09-1969@@@
-
 DECRETO-LEI Nº 887, DE 23 DE SETEMBRO DE 1969
 
 Transfere cargo do Ministério do Exército para o Ministério das Minas e Energia.

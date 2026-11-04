@@ -1,5 +1,3 @@
-###DEL-004248-0-000-10-04-1942@@@
-
 DECRETO-LEI N. 4.248 – DE 10 DE ABRIL DE 1942
 
 Organiza a 5ª Bateria Independente de Artilharia de Costa e Forte de Monduba

@@ -1,5 +1,3 @@
-###DEC-094689-0-000-27-07-1987@@@
-
 DECRETO N° 94.689, DE 27 DE JULHO DE 1987
 
 Autoriza a Meridional Crédito Imobiliário S.A. a proceder ao aumento do capital social.

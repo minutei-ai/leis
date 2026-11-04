@@ -1,5 +1,3 @@
-###MPV-000131-0-000-25-09-2003@@@
-
 MEDIDA PROVISÓRIA Nº 131, DE 25 DE SETEMBRO 2003.
 
        Estabelece normas para o plantio e comercialização da produção de soja da safra de 2004, e dá outras providências.

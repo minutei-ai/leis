@@ -1,5 +1,3 @@
-###DEC-083799-0-000-30-07-1979@@@
-
 DECRETO Nº 83.799, DE 30 DE JULHO DE 1979.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Universidade Estadual de Ponta Grossa, Estado do Paraná.

@@ -1,5 +1,3 @@
-###MPV-001840-0-024-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.840-24, DE 29 DE JUNHO DE 1999.
 
 Cria o Fundo de Garantia à Exportação – FGE, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046534-0-000-31-07-1959@@@
-
 DECRETO Nº 46.534, DE 31 DE JULHO DE 1959.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a tomar ações das Centrais Elétricas do Rio das Contas S.A., à conta do Fundo Federal de Eletrificação.

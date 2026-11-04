@@ -1,5 +1,3 @@
-###DEC-059050-0-000-11-08-1966@@@
-
 DECRETO Nº 59.050, de 11 de agÔsto de 1966.
 
 Aprova o Estatuto da Fundação Ensino Especializado de Saúde Pública:

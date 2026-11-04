@@ -1,5 +1,3 @@
-###DEC-051962-0-000-26-04-1963@@@
-
 decreto nº 51.962, de 26 de abril de 1963.
 
 Autoriza a Companhia Minas da Passagem a pesquisar minério de ferro, no município de Mariana, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-066183-0-000-05-02-1970@@@
-
 DECRETO Nº 66.183 - DE 5 DE FEVEREIRO DE 1970
 
 Regulamenta o Decreto-lei nº 923, de 10 de outubro de 1969, que dispõe sôbre a comercialização do leite cru.

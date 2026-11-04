@@ -1,5 +1,3 @@
-###DEC-065111-0-000-08-09-1969@@@
-
 DECRETO Nº 65.111 - DE 8 DE SETEMBRO DE 1969.
 
 Autorização para funcionamento de Cursos.

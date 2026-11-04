@@ -1,5 +1,3 @@
-###DEL-008491-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.491 – DE 28 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 12.000,00, para pagamento de gratificação de representação.

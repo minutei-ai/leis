@@ -1,6 +1,10 @@
 > **LEI Nº 4.517, DE 03 DE JANEIRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas operações internas com irrigadores e sistemas de irrigação para uso na agricultura ou horticultura, com fundamento no Convênio ICMS nº 54/21, de 8 de abril de 2021, do Conselho Nacional de Política Fazendária - CONFAZ.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas operações internas com irrigadores e sistemas de irrigação para uso na agricultura ou horticultura, com fundamento no Convênio ICMS nº 54/21, de 8 de abril de 2021, do Conselho Nacional de Política Fazendária - CONFAZ.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

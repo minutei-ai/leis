@@ -1,5 +1,3 @@
-###DEL-008684-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.684 – DE 16 DE JANEIRO DE 1946
 
 Autoriza a Universidade do Brasil a incorporar o Instituto de Tecnologia Alimetar.

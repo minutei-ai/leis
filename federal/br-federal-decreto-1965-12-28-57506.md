@@ -1,5 +1,3 @@
-###DEC-057506-0-000-28-12-1965@@@
-
 DECRETO Nº 57.506, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Aquilino Peres de Moura a pesquisar grafite, no município de Arcos, Estado de Minas Gerais.

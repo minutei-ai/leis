@@ -1,5 +1,3 @@
-###DEC-051197-0-000-16-08-1961@@@
-
 Decreto nº 51.197, de 16 de agôsto de 1961.
 
 Cria a Superintendência de Armazéns e dá outras providências.
@@ -44,7 +42,29 @@ II - Órgãos Executivos;
 
 Art. 5º A Junta Deliberativa é integrada pelo Superintendente que a preside, e por 12 (doze) representantes dos seguintes órgãos designados pelo Presidente da República:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Departamento Nacional de Produção Vegetal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Departamento Nacional de Produção Animal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Departamento Nacional de Indústria e Comércio</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Departamento Nacional de Portos, Rios e Canais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Serviço de Economia Rural</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Comissão de Marinha Mercante</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Comissão de Financiamento da Produção</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Banco Nacional do Desenvolvimento Econômico</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Banco do Brasil</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Instituto Brasileiro do Café</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Companhia de Armazéns Gerais Ferroviários</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo"><span>Confederação Rural Brasileira</span></p></td></tr></tbody></table>
+Departamento Nacional de Produção Vegetal
+
+Departamento Nacional de Produção Animal
+
+Departamento Nacional de Indústria e Comércio
+
+Departamento Nacional de Portos, Rios e Canais
+
+Serviço de Economia Rural
+
+Comissão de Marinha Mercante
+
+Comissão de Financiamento da Produção
+
+Banco Nacional do Desenvolvimento Econômico
+
+Banco do Brasil
+
+Instituto Brasileiro do Café
+
+Companhia de Armazéns Gerais Ferroviários
+
+Confederação Rural Brasileira
 
 Art. 6º São Órgãos Executivos da SAS, diretamente subordinados ao Superintendente:
 

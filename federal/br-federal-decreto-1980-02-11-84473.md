@@ -1,5 +1,3 @@
-###DEC-084473-0-000-11-02-1980@@@
-
 Decreto nº 84.473, de 11 de fevereiro de 1980.
 
 Altera a redação do artigo 66 do Decreto nº 61.244, de 28 de agosto de 1967, e dá outras providências.

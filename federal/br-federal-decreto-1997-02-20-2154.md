@@ -1,5 +1,3 @@
-###DEC-002154-0-000-20-02-1997@@@
-
 DECRETO Nº 2.154, DE 20 DE FEVEREIRO DE 1997
 
 Altera os arts. 6º, 8º, 15, 19 e inclui o art. 25 ao Estatuto Social do Serviço Federal de Processamento de Dados - SERPRO, aprovado pelo Decreto nº 1.451, de 11 de abril de 1995.

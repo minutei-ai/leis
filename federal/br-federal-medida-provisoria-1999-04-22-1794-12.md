@@ -1,5 +1,3 @@
-###MPV-001794-0-012-22-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.794-12, DE 22 DE ABRIL DE 1999.
 
 Altera as Leis nº 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

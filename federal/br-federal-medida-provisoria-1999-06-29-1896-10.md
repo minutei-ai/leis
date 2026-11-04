@@ -1,5 +1,3 @@
-###MPV-001896-0-010-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.896-10, DE 29 DE JUNHO DE 1999.
 
 Acresce parágrafo ao art. 4º da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

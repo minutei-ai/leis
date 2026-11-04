@@ -1,5 +1,3 @@
-###DEC-090003-0-000-25-07-1984@@@
-
 decreto nº 90.003, de 25 de julho de 1984
 
 Autoriza o funcionamento da Faculdade de Ciências Agrárias de Ituiutaba - Minas Gerais.

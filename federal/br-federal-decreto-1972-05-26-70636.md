@@ -1,5 +1,3 @@
-###DEC-070636-0-000-26-05-1972@@@
-
 decreto nº 70.636, de 26 de maio de 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Agricultura, cargo do extinto Departamento dos Correios e Telégrafos, e dá outras providências.

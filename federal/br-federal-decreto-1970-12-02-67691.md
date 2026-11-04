@@ -1,5 +1,3 @@
-###DEC-067691-0-000-02-12-1970@@@
-
 decreto nº 67.691, de 2 de dezembro de 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em São Paulo - SP, destinado ao Ministério do Exército.

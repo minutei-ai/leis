@@ -1,7 +1,3 @@
-1
-
-###DEC-097902-0-000-04-07-1989@@@
-
 DECRETO Nº 97.902, DE 4 DE JULHO DE 1989
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Educação Paulo Eiró, em São Paulo.

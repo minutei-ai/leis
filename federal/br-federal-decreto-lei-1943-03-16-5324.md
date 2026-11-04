@@ -1,5 +1,3 @@
-###DEL-005324-0-000-16-03-1943@@@
-
 DECRETO‑LEI N. 5.324 – DE 16 MARÇO DE  1943
 
 Abre, ao  Ministério da Educação e Saude, o crédito especial de Cr$ 47.547,60 para pagamento a trabalhadores convocados

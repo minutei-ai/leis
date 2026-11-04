@@ -1,5 +1,3 @@
-###MPV-001980-0-024\-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-24, DE 26 de outubro de 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

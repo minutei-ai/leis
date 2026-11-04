@@ -1,5 +1,3 @@
-###MPV-002227-0-000-04-09-2001@@@
-
 MEDIDA PROVISÓRIA No 2.227, DE 4 DE SETEMBRO DE 2001.
 
  Estabelece exceção ao alcance do art. 2o da Lei no 10.192, de 14 de fevereiro de 2001.

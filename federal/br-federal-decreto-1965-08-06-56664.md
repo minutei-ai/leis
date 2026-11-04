@@ -1,5 +1,3 @@
-###DEC-056664-0-000-06-08-1965@@@
-
 DECRETO Nº 56.664, de 6 de agôsto de 1965.
 
 Outorga a Espírito Santo Centrais Elétricas S/A concessão para distribuir energia elétrica.

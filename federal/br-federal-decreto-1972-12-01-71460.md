@@ -1,5 +1,3 @@
-###DEC-071460-0-000-01-12-1972@@@
-
 Decreto nº 71.460 - de 1º de dezembro de 1972
 
 Abre ao Ministério da Educação e Cultura o crédito suplementar de Cr$ 119.160.800,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,15 +8,1579 @@ Decreta:
 
 Art. 1.º Fica aberto ao Ministério da Educação e Cultura o crédito suplementar no valor de Cr$ 119.160.800,00 (cento e dezenove milhões, cento e sessenta mil e oitocentos cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 15.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.13</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Comissã</span><span style="font-family:Arial">o Nacional de Moral e Civismo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1513.0901.2037</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o da Comissã</span><span style="font-family:Arial">o</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Va</span><span style="font-family:Arial">ntagens Fixas .................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">84.700</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.17</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Culturais - Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1517.0902.2083</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo do Instituto Joaquim Nabuco de Pesquisas Sociais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">280.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.18</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Universitá</span><span style="font-family:Arial">rios</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1518.0402.2036</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pesquisa em Astronomia e Geofí</span><span style="font-family:Arial">sica - Observató</span><span style="font-family:Arial">rio Nacional</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas .................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.19</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Assuntos Universitá</span><span style="font-family:Arial">rios - Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0307.2171</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Univer</span><span style="font-family:Arial">sidade Federal do Rio de Janeiro</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inativos .........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2102</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Federaçã</span><span style="font-family:Arial">o das Escolas Isoladas Federais do Estado da Guanabara</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.100.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2103</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade do Amazonas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.966.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">523.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2104</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade de Brasí</span><span style="font-family:Arial">lia</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.372.900</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.440.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2105</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade do Maranhã</span><span style="font-family:Arial">o</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.508.100</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">548.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2106</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o do Rio Grande - RS</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2108</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Ouro Preto</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">775.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">104.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2109</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Pelotas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2110</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade Federal do Piauí</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">da</span><span style="font-family:Arial">s pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.464.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">199.800</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2111</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Sergipe</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">924.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">210.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2112</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal de Alagoas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.020.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salá</span><span style="font-family:Arial">rio-Famí</span><span style="font-family:Arial">lia .............................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">117.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2113</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal da Bahia</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.564.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">480.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.1214</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal do Ceará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.137.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">29.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2115</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal do Espí</span><span style="font-family:Arial">rito Santo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.382.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">531.100</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2116</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade F</span><span style="font-family:Arial">ederal de Goiá</span><span style="font-family:Arial">s</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.643.700</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">86.800</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2117</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal Fluminense</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.202.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2118</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal de Juiz de Fora</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">800.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2119</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Universidade </span><span style="font-family:Arial">Federal de Minas Gerais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal .......................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.105.860</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Socia ............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">743.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2120</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal do Pará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.218.800</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">330.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2121</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal da Paraí</span><span style="font-family:Arial">ba</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.920.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">320.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2122</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal do Paraná</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.350.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salá</span><span style="font-family:Arial">rio-Famí</span><span style="font-family:Arial">lia .............................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Socia</span><span style="font-family:Arial">l ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">310.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2123</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal de Pernambuco</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.102.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.197.100</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2124</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal do Rio Grande do Norte</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.799.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">280.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2125</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universi</span><span style="font-family:Arial">dade Federal do Rio Grande do Sul</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.855.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">334.100</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2126</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Universidade Federal do Rio de Janeiro</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8.397.100</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2127</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Universidade Federal de Santa Catarina</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">700.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2128</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Universidade Federal de Santa Maria</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.586.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">553.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2129</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Universidade Federal Rural de Pernambuco</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal .......................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.154.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2130</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Universidade Federal Rural do Rio de Janeiro</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2131</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Paulista de Medicina</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2177</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Mato Grosso</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">577.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1519.0906.2179</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Viç</span><span style="font-family:Arial">osa</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.054.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">71.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.24</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Ensino Mé</span><span style="font-family:Arial">dio - Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0903.2184</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Fundaçã</span><span style="font-family:Arial">o Centro Nacional de Aperfeiç</span><span style="font-family:Arial">oamento de Pessoal para a Formaçã</span><span style="font-family:Arial">o Profissional</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.5</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçõ</span><span style="font-family:Arial">es Instituí</span><span style="font-family:Arial">das pelo Poder Pú</span><span style="font-family:Arial">blico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">640.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2185</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo do Colé</span><span style="font-family:Arial">gio Pedro II</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.800.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2186</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Alagoas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">250.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2187</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Amazonas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">340.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2189</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Campos</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">130.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2190</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Ceará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2191</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal Celso Suckow da Fonseca</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2192</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Espí</span><span style="font-family:Arial">rito Santo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">130.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2193</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Goiá</span><span style="font-family:Arial">s</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">240.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2194</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Maranhã</span><span style="font-family:Arial">o</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2195</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Mato Grosso</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2196</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Minas Gerais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2198</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Pará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2199</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal da Paraí</span><span style="font-family:Arial">ba</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2200</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Paraná</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.000.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">700.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2202</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Pernambuco</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2205</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal do Rio Grande do Norte</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.032.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2206</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Santa Catarina</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2207</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Sã</span><span style="font-family:Arial">o Paulo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">400.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1524.0905.2208</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Escola Té</span><span style="font-family:Arial">cnica Federal de Sergipe</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">100.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL ............................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">119.160.800</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+15.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+15.13
+
+- Comissão Nacional de Moral e Civismo
+
+1513.0901.2037
+
+- Administração e Manutenção da Comissão
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas .................................................
+
+84.700
+
+15.17
+
+- Departamento de Assuntos Culturais - Entidades Supervisionadas
+
+1517.0902.2083
+
+- Atividade a Cargo do Instituto Joaquim Nabuco de Pesquisas Sociais
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+280.000
+
+15.18
+
+- Departamento de Assuntos Universitários
+
+1518.0402.2036
+
+- Pesquisa em Astronomia e Geofísica - Observatório Nacional
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas .................................................
+
+50.000
+
+15.19
+
+- Departamento de Assuntos Universitários - Entidades Supervisionadas
+
+1519.0307.2171
+
+- Atividade a Cargo da Universidade Federal do Rio de Janeiro
+
+3.2.7.2
+
+- Entidades Federais
+
+04
+
+- Inativos .........................................................................................
+
+2.500.000
+
+1519.0906.2102
+
+- Atividade a Cargo da Federação das Escolas Isoladas Federais do Estado da Guanabara
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+1.100.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+300.000
+
+1519.0906.2103
+
+- Atividade a Cargo da Fundação Universidade do Amazonas
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+1.966.400
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+523.000
+
+1519.0906.2104
+
+- Atividade a Cargo da Universidade de Brasília
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+5.372.900
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+1.440.000
+
+1519.0906.2105
+
+- Atividade a Cargo da Fundação Universidade do Maranhão
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+1.508.100
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+548.200
+
+1519.0906.2106
+
+- Atividade a Cargo da Fundação do Rio Grande - RS
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+300.000
+
+1519.0906.2108
+
+- Atividade a Cargo da Fundação Universidade Federal de Ouro Preto
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+775.200
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+104.200
+
+1519.0906.2109
+
+- Atividade a Cargo da Fundação Universidade Federal de Pelotas
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+500.000
+
+1519.0906.2110
+
+- Atividade a Cargo da Fundação Universidade Federal do Piauí
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+1.464.200
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+199.800
+
+1519.0906.2111
+
+- Atividade a Cargo da Fundação Universidade Federal de Sergipe
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+924.200
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+210.400
+
+1519.0906.2112
+
+- Atividade a Cargo da Universidade Federal de Alagoas
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.020.600
+
+06
+
+- Salário-Família .............................................................................
+
+15.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+117.300
+
+1519.0906.2113
+
+- Atividade a Cargo da Universidade Federal da Bahia
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+5.564.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+480.500
+
+1519.0906.1214
+
+- Atividade a Cargo da Universidade Federal do Ceará
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+3.137.200
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+29.300
+
+1519.0906.2115
+
+- Atividade a Cargo da Universidade Federal do Espírito Santo
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.382.200
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+531.100
+
+1519.0906.2116
+
+- Atividade a Cargo da Universidade Federal de Goiás
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.643.700
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+86.800
+
+1519.0906.2117
+
+- Atividade a Cargo da Universidade Federal Fluminense
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+10.202.000
+
+1519.0906.2118
+
+- Atividade a Cargo da Universidade Federal de Juiz de Fora
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+800.000
+
+1519.0906.2119
+
+- Atividade a Cargo da  Universidade Federal de Minas Gerais
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal .......................................................................................
+
+7.105.860
+
+07
+
+- Contribuições de Previdência Socia ............................................
+
+743.000
+
+1519.0906.2120
+
+- Atividade a Cargo da Universidade Federal do Pará
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+4.218.800
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+330.500
+
+1519.0906.2121
+
+- Atividade a Cargo da Universidade Federal da Paraíba
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.920.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+320.600
+
+1519.0906.2122
+
+- Atividade a Cargo da Universidade Federal do Paraná
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+5.350.000
+
+06
+
+- Salário-Família .............................................................................
+
+50.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+310.000
+
+1519.0906.2123
+
+- Atividade a Cargo da Universidade Federal de Pernambuco
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+9.102.400
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+1.197.100
+
+1519.0906.2124
+
+- Atividade a Cargo da Universidade Federal do Rio Grande do Norte
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.799.300
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+280.000
+
+1519.0906.2125
+
+- Atividade a Cargo da Universidade Federal do Rio Grande do Sul
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+6.855.300
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+334.100
+
+1519.0906.2126
+
+- Atividade a Cargo da Universidade Federal do Rio de Janeiro
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+8.397.100
+
+1519.0906.2127
+
+- Atividade a Cargo da  Universidade Federal de Santa Catarina
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.500.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+700.000
+
+1519.0906.2128
+
+- Atividade a Cargo da  Universidade Federal de Santa Maria
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+2.586.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+553.000
+
+1519.0906.2129
+
+- Atividade a Cargo da  Universidade Federal Rural de Pernambuco
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal .......................................................................................
+
+1.154.300
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+22.400
+
+1519.0906.2130
+
+- Atividade a Cargo da  Universidade Federal Rural do Rio de Janeiro
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+1.200.000
+
+1519.0906.2131
+
+- Atividade a Cargo da Escola Paulista de Medicina
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+1.500.000
+
+1519.0906.2177
+
+- Atividade a Cargo da Fundação Universidade Federal de Mato Grosso
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+577.500
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+17.300
+
+1519.0906.2179
+
+- Atividade a Cargo da Fundação Universidade Federal de Viçosa
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+1.054.200
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+71.600
+
+15.24
+
+- Departamento de Ensino Médio - Entidades Supervisionadas
+
+1524.0903.2184
+
+- Atividade a Cargo da Fundação Centro Nacional de Aperfeiçoamento de Pessoal para a Formação Profissional
+
+3.2.7.5
+
+- Fundações Instituídas pelo Poder Público
+
+01
+
+- Pessoal ........................................................................................
+
+640.000
+
+1524.0905.2185
+
+- Atividade a Cargo do Colégio Pedro II
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+1.800.000
+
+1524.0905.2186
+
+- Atividade a Cargo da Escola Técnica Federal de Alagoas
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+250.000
+
+1524.0905.2187
+
+- Atividade a Cargo da Escola Técnica Federal do Amazonas
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+340.000
+
+1524.0905.2189
+
+- Atividade a Cargo da Escola Técnica Federal de Campos
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+130.000
+
+1524.0905.2190
+
+- Atividade a Cargo da Escola Técnica Federal do Ceará
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+37.200
+
+1524.0905.2191
+
+- Atividade a Cargo da Escola Técnica Federal Celso Suckow da Fonseca
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+200.000
+
+1524.0905.2192
+
+- Atividade a Cargo da Escola Técnica Federal do Espírito Santo
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+130.000
+
+1524.0905.2193
+
+- Atividade a Cargo da Escola Técnica Federal de Goiás
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+240.000
+
+1524.0905.2194
+
+- Atividade a Cargo da Escola Técnica Federal do Maranhão
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+300.000
+
+1524.0905.2195
+
+- Atividade a Cargo da Escola Técnica Federal de Mato Grosso
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+89.400
+
+1524.0905.2196
+
+- Atividade a Cargo da Escola Técnica Federal de Minas Gerais
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+500.000
+
+1524.0905.2198
+
+- Atividade a Cargo da Escola Técnica Federal do Pará
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+200.000
+
+1524.0905.2199
+
+- Atividade a Cargo da Escola Técnica Federal da Paraíba
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+100.000
+
+1524.0905.2200
+
+- Atividade a Cargo da Escola Técnica Federal do Paraná
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+1.000.000
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+700.000
+
+1524.0905.2202
+
+- Atividade a Cargo da Escola Técnica Federal de Pernambuco
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+200.000
+
+1524.0905.2205
+
+- Atividade a Cargo da Escola Técnica Federal do Rio Grande do Norte
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+1.032.400
+
+07
+
+- Contribuições de Previdência Social ...........................................
+
+30.000
+
+1524.0905.2206
+
+- Atividade a Cargo da Escola Técnica Federal de Santa Catarina
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+300.000
+
+1524.0905.2207
+
+- Atividade a Cargo da Escola Técnica Federal de São Paulo
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+400.000
+
+1524.0905.2208
+
+- Atividade a Cargo da Escola Técnica Federal de Sergipe
+
+3.2.7.2
+
+- Entidades Federais
+
+01
+
+- Pessoal ........................................................................................
+
+100.000
+
+TOTAL ............................................................................................
+
+119.160.800
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 15.00 e 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretá</span><span style="font-family:Arial">ria Geral</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1502.0108.2003</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas .................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.3.3</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Salá</span><span style="font-family:Arial">rio-Famí</span><span style="font-family:Arial">lia ............................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.06</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inspetoria Geral de Finanç</span><span style="font-family:Arial">as</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 150</span><span style="font-family:Arial">6.0107.2023</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas .................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">153.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- ENCARGOS GERAIS DA UNIÃ</span><span style="font-family:Arial">O</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.02</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Recursos Sob Supervisã</span><span style="font-family:Arial">o do Ministé</span><span style="font-family:Arial">rio do Planejamento e Coordenaçã</span><span style="font-family:Arial">o Geral</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 2802.1800.2003</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingê</span><span style="font-family:Arial">ncia ............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">118.977.800</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL ...........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">119.160.800</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+15.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+15.02
+
+- Secretária Geral
+
+Atividade
+
+- 1502.0108.2003
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas .................................................
+
+17.000
+
+3.2.3.3
+
+- Salário-Família ............................................................................
+
+13.000
+
+15.06
+
+- Inspetoria Geral de Finanças
+
+Atividade
+
+- 1506.0107.2023
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas .................................................
+
+153.000
+
+28.00
+
+- ENCARGOS GERAIS DA UNIÃO
+
+28.02
+
+- Recursos Sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade
+
+- 2802.1800.2003
+
+3.2.6.0
+
+- Reserva de Contingência ............................................................
+
+118.977.800
+
+TOTAL ...........................................................................................
+
+119.160.800
 
 Art. 3º O presente crédito, nos orçamentos próprios das Entidades Supervisionadas, obedecerá a seguinte programação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.00</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DA EDUCAÇÃ</span><span style="font-family:Arial">O E CULTURA</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.06</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Instituto Joaquim Nabuco de Pesquisas Sociais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5506.0902.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Instituto ....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">280.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.07</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Federaçã</span><span style="font-family:Arial">o das Escolas Federais do Estado da Guanabara</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5507.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.400.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span><span style="font-family:Arial">5.08</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade do Amazonas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5508.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.489.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.09</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade de Brasí</span><span style="font-family:Arial">lia</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5509.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.812.900</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.10</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade do Maranhã</span><span style="font-family:Arial">o</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5510.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.056.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.11</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade do Rio Grande - RS</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5511.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.13</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Ouro Preto</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5513.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">879.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.14</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Pelotas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5514.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.15</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade Federal do Piauí</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5515.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.664.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.16</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade Federal de Sergipe</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5516.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.134.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.17</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Alagoas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5517.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.152.900</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.18</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal da Bahia</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5518.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.044.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.19</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- U</span><span style="font-family:Arial">niversidade Federal do Ceará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5519.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.166.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.20</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal do Espí</span><span style="font-family:Arial">rito Santo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5520.0906.2020</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.913.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.21</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Goiá</span><span style="font-family:Arial">s</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5521.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.730.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.22</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal Fluminense</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5522.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.202.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.23</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Juiz de Fora</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5523.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">800.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.2</span><span style="font-family:Arial">4</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Minas Gerais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5524.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.848.800</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.25</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal do Pará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5525.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.549.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.26</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal da Paraí</span><span style="font-family:Arial">ba</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5526.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.240.600</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.27</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal do Paraná</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5527.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.710.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.28</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Pernambuco</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5528.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.299.500</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.2</span><span style="font-family:Arial">9</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal do Rio Grande do Norte</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5529.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.079.300</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.30</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal do Rio Grande do Sul</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5530.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.189.900</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.31</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal do Rio de Janeiro</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5531.0307.2003</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pagamento ao Inativos ................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5531.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o </span><span style="font-family:Arial">e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.397.100</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.32</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Santa Catarina</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5532.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.33</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal de Santa Maria</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5533.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.139.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.34</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal Rural de Pernambuco</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5534.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.176.700</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.35</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Universidade Federal Rural do Rio de Janeiro</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5535.0906.2002</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.36</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Paulista de Medicina</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5536.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span><span style="font-family:Arial"> Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.37</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Centro Nacional de Aperfeiç</span><span style="font-family:Arial">oamento de Pessoal para a Formaçã</span><span style="font-family:Arial">o Profissional</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5537.0903.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Aperfeiç</span><span style="font-family:Arial">oamento de Pessoal para a Formaçã</span><span style="font-family:Arial">o Profissional .......</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">640.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.38</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Colé</span><span style="font-family:Arial">gio Pedro II</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5538.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.800.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.39</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Alagoas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5539.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">250.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.40</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Amazonas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5540.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">340.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.42</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Campos</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5542.090</span><span style="font-family:Arial">5.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">130.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.43</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Ceará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5543.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37.200</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.44</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal Celso Suckow da Fonseca</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5544.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.45</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Espí</span><span style="font-family:Arial">rito Santo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5545.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">130.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.46</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Goiá</span><span style="font-family:Arial">s</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5546.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">240.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.47</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Maranhã</span><span style="font-family:Arial">o</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5547.0905</span><span style="font-family:Arial">.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.48</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Mato Grosso</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5548.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.49</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola T</span><span style="font-family:Arial">é</span><span style="font-family:Arial">cnica Federal de Minas Gerais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5549.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.51</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Pará</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5551.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.52</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal da Paraí</span><span style="font-family:Arial">ba</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5552.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.53</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Paraná</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5553.0905</span><span style="font-family:Arial">.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.700.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.55</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Pernambuco</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5555.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.58</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal do Rio Grande do Norte</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5558.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.092.400</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.59</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Santa Catarina</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5559.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.60</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Sã</span><span style="font-family:Arial">o Paulo</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5560.0905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">400.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.61</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Escola Té</span><span style="font-family:Arial">cnica Federal de Sergipe</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5561.0</span><span style="font-family:Arial">905.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.63</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Fundaçã</span><span style="font-family:Arial">o Universidade do Mato Grosso</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5563.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">594.800</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.65</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Funda</span><span style="font-family:Arial">çã</span><span style="font-family:Arial">o Universidade Federal de Viç</span><span style="font-family:Arial">osa</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:81.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5565.0906.2001</span></p></td><td style="width:290.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Administraçã</span><span style="font-family:Arial">o e Manutençã</span><span style="font-family:Arial">o do Ensino .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.125.800</span></p></td></tr></tbody></table>
+55.00
+
+- MINISTÉRIO DA EDUCAÇÃO E CULTURA
+
+- Entidades Supervisionadas
+
+55.06
+
+- Instituto Joaquim Nabuco de Pesquisas Sociais
+
+5506.0902.2001
+
+- Administração e Manutenção do Instituto ....................................
+
+280.000
+
+55.07
+
+- Federação das Escolas Federais do Estado da Guanabara
+
+5507.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.400.000
+
+55.08
+
+- Fundação Universidade do Amazonas
+
+5508.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+2.489.400
+
+55.09
+
+- Fundação Universidade de Brasília
+
+5509.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+6.812.900
+
+55.10
+
+- Fundação Universidade do Maranhão
+
+5510.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+2.056.300
+
+55.11
+
+- Fundação Universidade do Rio Grande - RS
+
+5511.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+300.000
+
+55.13
+
+- Fundação Universidade Federal de Ouro Preto
+
+5513.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+879.400
+
+55.14
+
+- Fundação Universidade Federal de Pelotas
+
+5514.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+500.000
+
+55.15
+
+- Fundação Universidade Federal do Piauí
+
+5515.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.664.000
+
+55.16
+
+- Fundação Universidade Federal de Sergipe
+
+5516.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.134.600
+
+55.17
+
+- Universidade Federal de Alagoas
+
+5517.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+2.152.900
+
+55.18
+
+- Universidade Federal da Bahia
+
+5518.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+6.044.500
+
+55.19
+
+- Universidade Federal do Ceará
+
+5519.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+3.166.500
+
+55.20
+
+- Universidade Federal do Espírito Santo
+
+5520.0906.2020
+
+- Administração e Manutenção do Ensino .....................................
+
+2.913.300
+
+55.21
+
+- Universidade Federal de Goiás
+
+5521.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+2.730.500
+
+55.22
+
+- Universidade Federal Fluminense
+
+5522.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+10.202.000
+
+55.23
+
+- Universidade Federal de Juiz de Fora
+
+5523.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+800.000
+
+55.24
+
+- Universidade Federal de Minas Gerais
+
+5524.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+7.848.800
+
+55.25
+
+- Universidade Federal do Pará
+
+5525.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+4.549.300
+
+55.26
+
+- Universidade Federal da Paraíba
+
+5526.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+3.240.600
+
+55.27
+
+- Universidade Federal do Paraná
+
+5527.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+5.710.000
+
+55.28
+
+- Universidade Federal de Pernambuco
+
+5528.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+10.299.500
+
+55.29
+
+- Universidade Federal do Rio Grande do Norte
+
+5529.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+3.079.300
+
+55.30
+
+- Universidade Federal do Rio Grande do Sul
+
+5530.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+7.189.900
+
+55.31
+
+- Universidade Federal do Rio de Janeiro
+
+5531.0307.2003
+
+- Pagamento ao Inativos ................................................................
+
+2.500.000
+
+5531.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+3.397.100
+
+55.32
+
+- Universidade Federal de Santa Catarina
+
+5532.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+3.200.000
+
+55.33
+
+- Universidade Federal de Santa Maria
+
+5533.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+3.139.000
+
+55.34
+
+- Universidade Federal Rural de Pernambuco
+
+5534.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.176.700
+
+55.35
+
+- Universidade Federal Rural do Rio de Janeiro
+
+5535.0906.2002
+
+- Administração e Manutenção do Ensino .....................................
+
+1.200.000
+
+55.36
+
+- Escola Paulista de Medicina
+
+5536.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.500.000
+
+55.37
+
+- Fundação Centro Nacional de Aperfeiçoamento de Pessoal para a Formação Profissional
+
+5537.0903.2001
+
+- Aperfeiçoamento de Pessoal para a Formação Profissional .......
+
+640.000
+
+55.38
+
+- Colégio Pedro II
+
+5538.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.800.000
+
+55.39
+
+- Escola Técnica Federal de Alagoas
+
+5539.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+250.000
+
+55.40
+
+- Escola Técnica Federal do Amazonas
+
+5540.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+340.000
+
+55.42
+
+- Escola Técnica Federal de Campos
+
+5542.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+130.000
+
+55.43
+
+- Escola Técnica Federal do Ceará
+
+5543.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+37.200
+
+55.44
+
+- Escola Técnica Federal Celso Suckow da Fonseca
+
+5544.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+200.000
+
+55.45
+
+- Escola Técnica Federal do Espírito Santo
+
+5545.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+130.000
+
+55.46
+
+- Escola Técnica Federal de Goiás
+
+5546.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+240.000
+
+55.47
+
+- Escola Técnica Federal do Maranhão
+
+5547.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+300.000
+
+55.48
+
+- Escola Técnica Federal do Mato Grosso
+
+5548.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+89.400
+
+55.49
+
+- Escola Técnica Federal de Minas Gerais
+
+5549.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+500.000
+
+55.51
+
+- Escola Técnica Federal do Pará
+
+5551.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+200.000
+
+55.52
+
+- Escola Técnica Federal da Paraíba
+
+5552.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+100.000
+
+55.53
+
+- Escola Técnica Federal do Paraná
+
+5553.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.700.000
+
+55.55
+
+- Escola Técnica Federal de Pernambuco
+
+5555.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+200.000
+
+55.58
+
+- Escola Técnica Federal do Rio Grande do Norte
+
+5558.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.092.400
+
+55.59
+
+- Escola Técnica Federal de Santa Catarina
+
+5559.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+300.000
+
+55.60
+
+- Escola Técnica Federal de São Paulo
+
+5560.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+400.000
+
+55.61
+
+- Escola Técnica Federal de Sergipe
+
+5561.0905.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+100.000
+
+55.63
+
+- Fundação Universidade do Mato Grosso
+
+5563.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+594.800
+
+55.65
+
+- Fundação Universidade Federal de Viçosa
+
+5565.0906.2001
+
+- Administração e Manutenção do Ensino .....................................
+
+1.125.800
 
 Art. 4.º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

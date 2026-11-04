@@ -1,5 +1,3 @@
-###DEC-051834-0-000-14-03-1963@@@
-
 DECRETO Nº 51.834, DE 14 DE MARÇO DE 1963.
 
 Transfere, sem aumento de despesa, um cargo do Quadro de Pessoal - Parte Permanente do Território Federal de Rondônia para idênticos Quadros e Parte do Ministério da Justiça e Negócios Interiores.

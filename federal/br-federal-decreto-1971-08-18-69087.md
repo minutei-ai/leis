@@ -1,5 +1,3 @@
-###DEC-069087-0-000-18-08-1971@@@
-
 DECRETO Nº 69.087, de 18 de Agosto de 1971.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar argila refratária, no município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-057822-0-000-15-02-1966@@@
-
 Decreto nº 57.822, de 15 de fevereiro de 1966.
 
 Abre, pelo Ministério das Minas e Energia, o crédito especial de Cr$3.170.703.600, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-058289-0-000-28-04-1966@@@
-
 DECRETO Nº 58.289, DE 28 DE ABRIL DE 1966.
 
 Autoriza a Indústria e Comércio de Mineração Brasil Central “Incomibrac” S.A. a pesquisar minério de manganês, no município de Porteirinha, Estado de Minas Gerais.

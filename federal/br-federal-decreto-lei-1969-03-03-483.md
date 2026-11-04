@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/512927e2-e544-4308-8afa-6d034d2a7ffa/texto#nowhere)
 
-###DEL-000483-0-000-03-03-1969@@@
-
 DECRETO-LEI Nº 483, DE 3 DE MARÇO DE 1969
 
 Dispõe sôbre a obrigatoriedade de inserção de assuntos de interêsse educativo nos jornais de atualidades cinematográficas e estabelece nova classificação para filmes de curta metragem.

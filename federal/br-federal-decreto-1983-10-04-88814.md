@@ -1,5 +1,3 @@
-###DEC-088814-0-000-04-10-1983@@@
-
 Decreto nº 88.814, de 04 de outubro de 1983
 
 Altera dispositivos do Regulamento do Código de Mineração, aprovado pela Decreto nº 62.934, de 02 de julho de 1968.

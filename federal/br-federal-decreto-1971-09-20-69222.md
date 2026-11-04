@@ -1,5 +1,3 @@
-###DEC-069222-0-000-20-09-1971@@@
-
 DECRETO N.º 69.222, DE 20 DE SETEMBRO DE 1971.
 
 Aprova a incorporação de emprêsa de energia elétrica no Estado do Espirito Santo, declara cessação de privilégio, outorga concessão e dá outras providências.

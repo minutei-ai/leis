@@ -1,5 +1,3 @@
-###DEL-006514-0-000-19-05-1944@@@
-
 DECRETO-LEI N. 6.514 – DE 19 DE MAIO DE 1944
 
 Extingue o Destacamento Misto de sapadores e Pontoneiros

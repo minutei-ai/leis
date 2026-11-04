@@ -1,5 +1,3 @@
-###DEC-079546-0-000-19-04-1977@@@
-
 DECRETO Nº 79.546, DE 19 DE ABRIL DE 1977.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

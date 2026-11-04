@@ -1,5 +1,3 @@
-###DEC-093907-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.907, DE 09 DE JANEIRO DE 1987
 
 Concede autorização à empresa TOTAL BRÉSIL, para operar na Plataforma Submarina do Brasil, nas Águas Interiores e nas Águas do Mar Territorial, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

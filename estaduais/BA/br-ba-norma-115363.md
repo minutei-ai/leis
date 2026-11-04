@@ -92,52 +92,264 @@ CARGOS DE CARREIRA
 
 Oficial Judiciário
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 16</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 15</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>6</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 14</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 13</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 12</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>5</span></p></td></tr></tbody></table>
+PJ - 16
+
+3
+
+PJ - 15
+
+6
+
+PJ - 14
+
+4
+
+PJ - 13
+
+7
+
+PJ - 12
+
+5
 
 Auxiliar Judiciário
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 11</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 10</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>5</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 9</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 8</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 7</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>9</span></p></td></tr></tbody></table>
+PJ - 11
+
+2
+
+PJ - 10
+
+5
+
+PJ - 9
+
+3
+
+PJ - 8
+
+9
+
+PJ - 7
+
+9
 
 Sub-Auxiliar Judiciário
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 6</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 5</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 4</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 3</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>24</span></p></td></tr></tbody></table>
+PJ - 6
+
+9
+
+PJ - 5
+
+8
+
+PJ - 4
+
+9
+
+PJ - 3
+
+24
 
 Taquígrafos Judiciários
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 15</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 14</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>5</span></p></td></tr></tbody></table>
+PJ - 15
+
+4
+
+PJ - 14
+
+5
 
 Porteiro
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 5</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 4</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 3</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>4</span></p></td></tr></tbody></table>
+PJ - 5
+
+1
+
+PJ - 4
+
+1
+
+PJ - 3
+
+4
 
 Atendente Judiciário
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 8</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>5</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 7</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>6</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 6</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 5</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>14</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 4</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 3</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>12</span></p></td></tr></tbody></table>
+PJ - 8
+
+5
+
+PJ - 7
+
+6
+
+PJ - 6
+
+7
+
+PJ - 5
+
+14
+
+PJ - 4
+
+8
+
+PJ - 3
+
+12
 
 Servente
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 3</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 2</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>10</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 1</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>30</span></p></td></tr></tbody></table>
+PJ - 3
+
+8
+
+PJ - 2
+
+10
+
+PJ - 1
+
+30
 
 Datilógrafos
 
-<table style="width: 240.95pt; margin-left: 99.25pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="321" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 128.8pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 7</span></p></td><td style="width: 112.15pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>5</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 6</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 128.8pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="172"><p class="Tabela-Texto"><span>PJ - 5</span></p></td><td style="width: 112.15pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="150"><p class="Tabela-Texto"><span>15</span></p></td></tr></tbody></table>
+PJ - 7
+
+5
+
+PJ - 6
+
+8
+
+PJ - 5
+
+15
 
 ANEXO II
 
 CARGOS ISOLADOS
 
-<table style="width: 269.35pt; margin-left: 3.0cm; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="359" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 143.0pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Assistente Jurídico</span></p></td><td style="width: 126.35pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 17</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Bibliotecário</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 17</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>2<span style="mso-spacerun: yes;">&nbsp; </span>Estatístico</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 16</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>4<span style="mso-spacerun: yes;">&nbsp; </span>Ementaristas</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 17</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Revisor</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 17</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>2<span style="mso-spacerun: yes;">&nbsp; </span>Arquivologistas</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 16</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Mordomo</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 14</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>2<span style="mso-spacerun: yes;">&nbsp; </span>Assessores Auxiliares</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 14</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>7<span style="mso-spacerun: yes;">&nbsp; </span>Secretários de Câmara</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 17</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>7<span style="mso-spacerun: yes;">&nbsp; </span>Assistentes de Câmara</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 15</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Radiotécnico</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 10</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Radiotécnico Auxiliar</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 6</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>13<span style="mso-spacerun: yes;">&nbsp; </span>Motoristas<span style="mso-spacerun: yes;">&nbsp;</span></span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 5</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>10<span style="mso-spacerun: yes;">&nbsp; </span>Ascensoristas</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 2</span></p></td></tr><tr><td style="width: 143.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="191"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Assessor de Redação</span></p></td><td style="width: 126.35pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="168"><p class="Tabela-Texto"><span>PJ - 17</span></p></td></tr></tbody></table>
+1  Assistente Jurídico
+
+PJ - 17
+
+1  Bibliotecário
+
+PJ - 17
+
+2  Estatístico
+
+PJ - 16
+
+4  Ementaristas
+
+PJ - 17
+
+1  Revisor
+
+PJ - 17
+
+2  Arquivologistas
+
+PJ - 16
+
+1  Mordomo
+
+PJ - 14
+
+2  Assessores Auxiliares
+
+PJ - 14
+
+7  Secretários de Câmara
+
+PJ - 17
+
+7  Assistentes de Câmara
+
+PJ - 15
+
+1  Radiotécnico
+
+PJ - 10
+
+1  Radiotécnico Auxiliar
+
+PJ - 6
+
+13  Motoristas
+
+PJ - 5
+
+10  Ascensoristas
+
+PJ - 2
+
+1  Assessor de Redação
+
+PJ - 17
 
 ANEXO III
 
 CARGOS EM COMISSÃO
 
-<table style="width: 269.35pt; margin-left: 3.0cm; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="359" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 205.55pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274">&nbsp;</td><td style="width: 63.8pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>NCr$</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Diretor Geral - Vencimentos<span style="mso-spacerun: yes;">&nbsp;</span></span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>1.200,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Assessor Chefe<span style="mso-spacerun: yes;">&nbsp; </span>PJ3C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>750,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Assessor Auxiliar<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 7C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>630,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Diretor do SAG<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 3C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>750,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Secretário da Corregedoria<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 5C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>700,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Chefe de Gabinete da Presidência<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 3C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>750,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Diretor do Forum<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 3C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>750,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>2<span style="mso-spacerun: yes;">&nbsp; </span>Oficiais de Gabinete da Presidência<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 7C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>630,00</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Oficial de Gabinete da Corregedoria<span style="mso-spacerun: yes;">&nbsp; </span>PJ - 9C</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>450,00</span></p></td></tr></tbody></table>
+NCr$
+
+1  Diretor Geral - Vencimentos
+
+1.200,00
+
+1  Assessor Chefe  PJ3C
+
+750,00
+
+1  Assessor Auxiliar  PJ - 7C
+
+630,00
+
+1  Diretor do SAG  PJ - 3C
+
+750,00
+
+1  Secretário da Corregedoria  PJ - 5C
+
+700,00
+
+1  Chefe de Gabinete da Presidência  PJ - 3C
+
+750,00
+
+1  Diretor do Forum  PJ - 3C
+
+750,00
+
+2  Oficiais de Gabinete da Presidência  PJ - 7C
+
+630,00
+
+1  Oficial de Gabinete da Corregedoria  PJ - 9C
+
+450,00
 
 ANEXO IV
 
 CARGOS A SE EXTINGUIREM
 
-<table style="width: 269.35pt; margin-left: 3.0cm; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="359" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 205.55pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Escrivão</span></p></td><td style="width: 63.8pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>PJ - 16</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>1<span style="mso-spacerun: yes;">&nbsp; </span>Sub-escrivão</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>PJ - 14</span></p></td></tr><tr><td style="width: 205.55pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="274"><p class="Tabela-Texto"><span>3<span style="mso-spacerun: yes;">&nbsp; </span>Oficiais de Justiça</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>PJ - 11</span></p></td></tr></tbody></table>
+1  Escrivão
 
-* * *
+PJ - 16
+
+1  Sub-escrivão
+
+PJ - 14
+
+3  Oficiais de Justiça
+
+PJ - 11
+
+ *

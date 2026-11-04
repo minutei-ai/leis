@@ -1,5 +1,3 @@
-###DEC-005890-0-000-06-09-2006@@@
-
 DECRETO Nº 5.890, DE 6 DE SETEMBRO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre a Isenção Parcial de Vistos para Portadores de Passaportes Comuns, celebrado em Zagreb, em 25 de fevereiro de 2005.
@@ -24,11 +22,7 @@ Brasília, 6 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 8.9.2006.
-
-Acordo entre o Governo da República Federativa do Brasil e o
+       Celso Luiz Nunes AmorimAcordo entre o Governo da República Federativa do Brasil e o
 
 Governo da República da Croácia sobre a Isenção Parcial de
 

@@ -1,5 +1,3 @@
-###DEC-046436-0-000-16-07-1959@@@
-
 DECRETO Nº 46.436, DE 16 DE JULHO DE 1959.
 
 Dispõe sôbre autorização para viagem, missão ou estudo no estrangeiro.

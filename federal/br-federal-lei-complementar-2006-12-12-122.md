@@ -1,5 +1,3 @@
-###LCP-000122-0-000-12-12-2006@@@
-
 LEI COMPLEMENTAR Nº 122, DE 12 DE DEZEMBRO DE 2006
 
 Altera o art. 33 da Lei Complementar no 87, de 13 de setembro de 1996, que dispõe sobre o imposto dos Estados e do Distrito Federal sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, para prorrogar os prazos previstos em relação à apropriação dos créditos do ICMS.
@@ -33,5 +31,3 @@ Brasília,  12  de dezembro de 2006; 185o da Independência e 118o da Repúbli
 LUIZ INÁCIO LULA DA SILVA
 
      Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 13.12.2006

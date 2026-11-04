@@ -1,5 +1,3 @@
-###DEC-080246-0-000-30-08-1977@@@
-
 Decreto nº 80.246, de 30 de agosto de 1977.
 
 Concede à Céramus Bahia S. A. - Produtos Cerâmicos o direito de lavrar argila no Município de Camaçari, Estado da Bahia.

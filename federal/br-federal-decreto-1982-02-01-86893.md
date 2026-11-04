@@ -1,5 +1,3 @@
-###DEC-086893-0-000-01-02-1982@@@
-
 decreto nº 86.893, de 01 fevereiro de 1982.
 
 Declara perempta a concessão outorga à RÁDIO DIFUSORA SÃO PAULO S.A., para executar o serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de São Paulo.

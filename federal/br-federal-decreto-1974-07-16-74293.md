@@ -1,5 +1,3 @@
-###DEC-074293-0-000-16-07-1974@@@
-
 DECRETO Nº 74.293 - DE 16 DE JULHO DE 1974.
 
 Concede reconhecimento ao Curso de Letras da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", mantida pela Associação Itaquerense de Ensino, com sede na cidade de São Paulo, Estado de São Paulo.

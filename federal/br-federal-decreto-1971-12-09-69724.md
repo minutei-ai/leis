@@ -1,5 +1,3 @@
-###DEC-069724-0-000-09-12-1971@@@
-
 DECRETO Nº 69.774 - DE 9 DE DEZEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, cargo da antiga Fundação Brasil-Central para o Departamento Administrativo do Pessoal Civil e dá outras providências.

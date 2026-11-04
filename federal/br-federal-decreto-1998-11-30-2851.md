@@ -1,5 +1,3 @@
-###DEC-002851-0-000-30-11-1998@@@
-
 DECRETO Nº 2.851, DE 30 DE NOVEMBRO DE 1998.
 
 Dispõe sobre programas de amparo à pesquisa científica e tecnológica aplicados à indústria do petróleo, e dá outras providências.

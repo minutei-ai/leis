@@ -1,5 +1,3 @@
-###MPV-000378-0-000-20-06-2007@@@
-
 MEDIDA PROVISÓRIA Nº 378, DE 20 DE JUNHO DE 2007.
 
 Dá nova redação ao caput do art. 5o da Lei no 10.195, de 14 de fevereiro de 2001, que institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados.
@@ -23,5 +21,3 @@ Brasília, 20 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 21.6.2007

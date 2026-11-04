@@ -1,5 +1,3 @@
-###DEC-057870-0-000-25-02-1966@@@
-
 DECRETO Nº 57.870, DE 25 DE FEVEREIRO DE 1966.
 
 Institui o Programa Especial de Bôlsas de Estudo para trabalhadores sindicalizados e seus dependentes.

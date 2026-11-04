@@ -1,7 +1,3 @@
-1
-
-###DEC-002008-0-000-16-09-1996@@@
-
 DECRETO Nº 2.008, DE 16 DE SETEMBRO DE 1996
 
 Prorroga o prazo previsto no § 5° do art. 2° da Medida Provisória nº 1.488-15, de 5 de setembro de 1996.

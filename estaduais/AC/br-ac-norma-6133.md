@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.593, de 22 de Abril de 2025.](https://legis.ac.gov.br
 
 > **LEI Nº 4.380, DE 30 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre as diretrizes orçamentárias do Estado do Acre para o exercício financeiro de 2025.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre as diretrizes orçamentárias do Estado do Acre para o exercício financeiro de 2025.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -147,8 +151,6 @@ V - alterações conjunturais da economia nacional ou estadual, inclusive as dec
 **§ 7º** Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 6º.
 
 **§ 8º** O Poder Executivo, no ato da publicação do balanço orçamentário anual, divulgará uma nota explicativa no Portal da Transparência, detalhando a receita tributária efetivamente realizada, deduzidas as obrigações constitucionais de transferência para os municípios, educação e saúde, para fins de apuração do previsto no § 3º.
-
-<br>
 
 **§ 9º** O valor mínimo previsto no § 3º deste artigo, será assegurado mediante abertura de créditos adicionais por superávit, decorrente de eventuais saldos restituídos ao Tesouro Estadual pela Assembleia Legislativa do Estado do Acre - ALEAC. (Incluído pela Lei nº 4.593, de 22/04/2025)
 
@@ -482,17 +484,9 @@ V - alterações conjunturais da economia nacional ou estadual, inclusive as dec
 
 Rio Branco - Acre, 30 de julho de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre.
 
-**Gladson de Li****ma Cameli**
+**Gladson de Lima Cameli**
 
 Governador do Estado do Acre
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 ANEXOS I, II, III E IV
 

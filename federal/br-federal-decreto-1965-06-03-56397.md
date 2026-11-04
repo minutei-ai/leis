@@ -1,5 +1,3 @@
-###DEC-056397-0-000-03-06-1965@@@
-
 DECRETO Nº 56.397, DE 3 DE JUNHO DE 1965.
 
 Transfere do município de Iguatama para Centrais Elétricas de Minas Gerais S. A. - CEMIG - concessão para produzir e distribuir energia elétrica.

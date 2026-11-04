@@ -1,5 +1,3 @@
-###DEC-070935-0-000-04-08-1972@@@
-
 DECRETO Nº 70 935, DE 4 DE AGOSTO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro Único de Pessoal da Universidade Federal de Juiz de Fora, e dá outras providências.

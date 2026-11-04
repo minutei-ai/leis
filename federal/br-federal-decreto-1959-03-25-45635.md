@@ -1,5 +1,3 @@
-###DEC-045635-0-000-25-03-1959@@@
-
 DECRETO Nº 45.635, DE 25 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Luiz Gasparetti Júnior a pesquisar argila no município de Taubaté, Estado de São Paulo.

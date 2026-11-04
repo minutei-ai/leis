@@ -1,5 +1,3 @@
-###DEL-004926-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.926 – DE 6 DE NOVEMBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 300.000,00, à verba que especifica

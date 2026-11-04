@@ -1,5 +1,3 @@
-###DEC-077506-0-000-27-04-1976@@@
-
 DECRETO Nº 77.506 - DE 27 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras do Norte de Minas, com sede na cidade de Montes Claros, Estado de Minas Gerais.

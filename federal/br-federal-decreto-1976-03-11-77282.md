@@ -1,5 +1,3 @@
-###DEC-077282-0-000-11-03-1976@@@
-
 DECRETO Nº 77.282, DE 11 DE MARçO DE 1976.
 
 Concede reconhecimento ao Curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Governador Valadares, com sede na Cidade de Governador Valadares, Estado de Minas Gerais.

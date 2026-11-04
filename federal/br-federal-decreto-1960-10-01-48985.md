@@ -1,5 +1,3 @@
-###DEC-048985-0-000-01-10-1960@@@
-
 Decreto nº 48.985, de 1º de outubro de 1960.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Joaçaba, Estado de Santa Catarina (SC).

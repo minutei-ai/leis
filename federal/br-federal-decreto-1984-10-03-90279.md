@@ -1,5 +1,3 @@
-###DEC-090279-0-000-03-10-1984@@@
-
 Decreto nº 90.279, de 03 de outubro de 1984
 
 Renova a concessão outorgada à RÁDIO IMPRENSA DE ANÁPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Anápolis, Estado de Goiás.

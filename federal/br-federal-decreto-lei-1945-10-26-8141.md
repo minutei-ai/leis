@@ -1,5 +1,3 @@
-###DEL-008141-0-000-26-10-1945@@@
-
 DECRETO-LEI N. 8.141 – DE 26 DE OUTUBRO DE 1945
 
 Altera o parágrafo único do ano 1º do Decreto-lei nº 8.118, de 19 de outubro de 1945.

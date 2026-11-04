@@ -1,5 +1,3 @@
-###DEC-092222-0-000-27-12-1985@@@
-
 Decreto nº 92.222, de 27 de dezembro de 1985.
 
 Aprova o Regulamento para o Fundo do EMFA.

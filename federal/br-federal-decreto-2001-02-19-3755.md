@@ -1,5 +1,3 @@
-###DEC-003755-0-000-19-02-2001@@@
-
 DECRETO Nº 3.755, DE 19 DE FEVEREIRO de 2001
 
 Dispõe sobre a execução, no Território Nacional, das sanções contra o Talibã e contra Usama bin Laden estabelecidas pela Resolução 1.333 (2000) do Conselho de Segurança das Nações Unidas.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62109)
-
 # LEI Nº 12.341, DE 24 DE ABRIL DE 2006
 
 ### _Autoriza a Fazenda do Estado a alienar, por doação, imóvel situado no Município de Brotas_

@@ -1,5 +1,3 @@
-###DEC-004803-0-000-08-08-2003@@@
-
 DECRETO Nº 4.803, DE 8 DE AGOSTO DE 2003.
 
 Dispõe sobre o encerramento dos trabalhos da inventariança do Departamento Nacional de Estradas de Rodagem - DNER e dá outras providências.

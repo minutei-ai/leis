@@ -1,5 +1,3 @@
-###DEC-089658-0-000-15-05-1984@@@
-
 DECRETO Nº 89.658, DE 15 DE MAIO DE 1984
 
 Altera o Decreto nº 60.521, de 31 de março de 1967, que estabelece a Estrutura Básica do Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-075090-0-000-19-12-1974@@@
-
 DECRETO Nº 75.090, DE 19 DE dezembro de 1974.
 
 Extingue o Consulado Honorário do Brasil em Manchester.

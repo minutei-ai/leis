@@ -1,5 +1,3 @@
-###DEL-007189-0-000-22-12-1944@@@
-
 DECRETO-LEI N. 7.189 – DE 22 DE DEZEMBRO DE 1944
 
 Altera, no Ministério da justiça e Negócios Interiores, a carreira de Dactiloscopista do Quadro Permanente e transforma a carreira de Dactiloscopista do Quadro Suplementar em Dactiloscopista-auxiliar

@@ -1,5 +1,3 @@
-###DEC-085817-0-000-17-03-1981@@@
-
 DECRETO Nº 85.817, DE 17 MARÇO De 1981.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5821, de 10 de novembro de 1972.

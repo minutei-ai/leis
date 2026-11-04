@@ -1,7 +1,3 @@
-1
-
-###DEC-095832-0-000-16-03-1988@@@
-
 DECRETO N° 95.832, DE 16 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA PÉ DE SERRA", classificado como latifúndio por exploração, situado no Município de Tucano, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

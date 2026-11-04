@@ -1,5 +1,3 @@
-###DEC-066995-0-000-05-08-1970@@@
-
 DECRETO Nº 66.995, DE 5 DE AGÔSTO DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóveis, em Recife - PE, destinados ao Ministério do Exército.

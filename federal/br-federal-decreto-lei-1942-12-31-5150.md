@@ -1,5 +1,3 @@
-###DEL-005150-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.150 – DE 31 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 3.500.000,00 à verba que especifica

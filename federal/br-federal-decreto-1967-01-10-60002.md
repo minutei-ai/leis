@@ -1,5 +1,3 @@
-###DEC-060002-0-000-10-01-1967@@@
-
 DECRETO Nº 60.002, DE 10 DE JANEIRO DE 1967.
 
 Autoriza Minebra - Minérios Brasileiros S. A. - Mineração e Industrialização a pesquisar molibdenita no município de Itaberaba, Estado da Bahia.

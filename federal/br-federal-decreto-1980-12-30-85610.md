@@ -1,5 +1,3 @@
-###DEC-085610-0-000-30-12-1980@@@
-
 Decreto nº 85.610, de 30 de dezembro de 1980
 
 Autoriza o funcionamento, em regime especial, da habilitação em Inspeção Escolar do curso de Pedagogia da Universidade de Caxias do Sul, Estado do Rio Grande do Sul.

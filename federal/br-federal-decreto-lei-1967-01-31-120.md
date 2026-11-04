@@ -1,5 +1,3 @@
-###DEL-000120-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 120, DE 31 de JANEIRO DE 1967
 
 Cria o Serviço de Estatística dos Transportes no Ministério da Viação e Obras Públicas.

@@ -1,5 +1,3 @@
-###DEC-074137-0-000-28-05-1974@@@
-
 DECRETO Nº 74.137, DE 28 DE MAIO DE 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do IPASE e cassa a disponibilidade do mesmo.

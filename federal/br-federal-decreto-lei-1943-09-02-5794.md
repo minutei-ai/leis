@@ -1,5 +1,3 @@
-###DEL-005794-0-000-02-09-1943@@@
-
 DECRETO-LEI N. 5.794 – DE 2 DE SETEMBRO DE 1943
 
 Abre a, Ministério da Viação e obras Públicas a crédito especial de Cr$ 2.145.120,00 para preservação  de navio da frota do Serviço de Navegação da Bacia do Prata.

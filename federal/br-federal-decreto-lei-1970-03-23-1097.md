@@ -1,5 +1,3 @@
-###DEL-001097-0-000-23-03-1970@@@
-
 # decreto-lei nº 1.097, de 23 de março de 1970
 
 Autoriza o Poder Executivo a incluir dotações no Orçamento Plurianual de Investimentos, para o triênio 1968-1970, e no Orçamento Geral da União, para o exercício financeiro de 1970.

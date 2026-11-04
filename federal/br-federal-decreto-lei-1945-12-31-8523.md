@@ -1,5 +1,3 @@
-###DEL-008523-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.523 – DE 31 DE DEZEMBRO DE 1945
 
 Altera o Orçamento Geral da República na parte referente ao Ministério da Justiça e Negócios Interiores.

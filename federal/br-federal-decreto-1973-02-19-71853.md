@@ -1,5 +1,3 @@
-###DEC-071853-0-000-19-02-1973@@@
-
 DECRETO Nº 71.853, DE 19 DE FEVEREIRO DE 1973.
 
 Autoriza a LIGHT - Serviços de Eletricidade S.A. a construir subestação e linha transmissão e dá outras providências.

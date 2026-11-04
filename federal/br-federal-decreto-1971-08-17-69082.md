@@ -1,5 +1,3 @@
-###DEC-069082-0-000-17-08-1971@@@
-
 DECRETO Nº 69.082, DE 17 DE AGÔSTO DE 1971.
 
 Autoriza funcionamento dos Cursos de Instrumento (Piano e Violino) e de Canto da Escola de Música do Espírito Santo.

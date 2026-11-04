@@ -1,5 +1,3 @@
-###DEC-051795-0-000-04-03-1963@@@
-
 Decreto nº 51.795, de 4 de março de 1963.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir uma linha de transmissão entre as cidades de Atibaia e Mairiporã, no Estado de São Paulo.

@@ -1,14 +1,12 @@
-###DEC-040041-0-000-26-09-1956@@@
+**DECRETO Nº 40.041, DE 26 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.041, DE 26 DE SETEMBRO DE 1956.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento progressivo de energia hidráulica de um trecho do rio Cedros, município de Timbó, Estado de Santa Catarina, e autoriza e Emprêsa Fôrça e Luz Santa Catarina S. A., a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias ao aproveitamento progressivo de energia hidráulica de um trecho do rio Cedros, município de Timbó, Estado de Santa Catarina, e autoriza e Emprêsa Fôrça e Luz Santa Catarina S. A., a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365 de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365 de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessárias à realização, pela Emprêsa Fôrça e Luz Santa Catarina S.A., do aproveitamento progressivo de energia hidráulica de um trecho do rio Cedros e de seu afluente Palmeiras, no distrito de Arrozeira, município de Timbó, Estado de Santa Catarina, constantes das plantas ns. 55-51 a 55-116, aprovadas pelo Ministério da Agricultura:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessárias à realização, pela Emprêsa Fôrça e Luz Santa Catarina S.A., do aproveitamento progressivo de energia hidráulica de um trecho do rio Cedros e de seu afluente Palmeiras, no distrito de Arrozeira, município de Timbó, Estado de Santa Catarina, constantes das plantas ns. 55-51 a 55-116, aprovadas pelo Ministério da Agricultura:
 
 Gleba 1 - Área de setenta e um mil e quinhentos (71,500) metros quadrados, de propriedade atribuída a João Borges de Lima.
 
@@ -140,16 +138,16 @@ Gleba 64 - Área de cento e quinze mil e quatrocentos (115.400) metros quadrados
 
 Gleba 65 - Área de trinta e oito mil cento e noventa (38.190) metros quadrados, de propriedade atribuída à Companhia Colonizadora Bona.
 
-<strong>Art</strong>. 2º Fica autorizada a Emprêsa Fôrça e Luz Santa Catarina S. A. a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Emprêsa Fôrça e Luz Santa Catarina S. A. a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
 Parágrafo único. Nos têrmos do artigo 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a desapropriação é declarada de caráter urgente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de janeiro, 26 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

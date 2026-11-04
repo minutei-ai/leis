@@ -1,5 +1,3 @@
-###DEC-075788-0-000-28-05-1975@@@
-
 DECRETO Nº 75.788, DE 28 DE MAIO DE 1975.
 
 Concede à Cia. Níquel Tocantins o direito de lavrar calcário no Município de Corumbá de Goiás, Estado de Goiás.

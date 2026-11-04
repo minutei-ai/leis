@@ -1,5 +1,3 @@
-###DEC-007901-0-000-04-02-2013-PUB-01@@@
-
 DECRETO Nº 7.901, DE 4 DE FEVEREIRO DE 2013
 
 Institui a Coordenação Tripartite da Política Nacional de Enfrentamento ao Tráfico de Pessoas e o Comitê Nacional de Enfrentamento ao Tráfico de Pessoas - CONATRAP.

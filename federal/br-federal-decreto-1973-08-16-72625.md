@@ -1,5 +1,3 @@
-###DEC-072625-0-000-16-08-1973@@@
-
 DECRETO Nº 72.625, DE 16 DE AGOSTO DE 1973.
 
 Concede à Cia. Mineira de Cimento Portland S.A. "COMINCI" o direito de lavrar calcário no Município de Matozinhos, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###MPV-001125-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.125, DE 26 DE SETEMBRO DE 1995.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

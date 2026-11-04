@@ -1,5 +1,3 @@
-###DEC-053206-0-000-12-12-1963@@@
-
 DECRETO Nº 53.206, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Ângelo Pianaro a lavrar areia quartzosa no município de Campo Largo, Estado do Paraná.

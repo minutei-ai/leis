@@ -1,5 +1,3 @@
-###DEC-052653-0-000-10-10-1963@@@
-
 DECRETO Nº 52.653, DE 10 DE OUTUBRO DE 1963.
 
 Concede à sociedade anônima The Bank of Tokyo Limited autorização para aumentar o seu capital no País.

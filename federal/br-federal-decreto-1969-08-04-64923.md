@@ -1,5 +1,3 @@
-###DEC-064923-0-000-04-08-1969@@@
-
 DECRETO Nº 64.923 - DE 4 DE AGÔSTO DE 1969.
 
 Dá nova redação do artigo 5º do Decreto nº 64.778, de 3 de julho de 1969, o qual dispõe sôbre os vencimentos do Engenheiro ocupante de cargo em comissão ou função gratificada do Departamento Nacional de Estradas de Rodagem.

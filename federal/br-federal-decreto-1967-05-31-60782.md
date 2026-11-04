@@ -1,5 +1,3 @@
-###DEC-060782-0-000-31-05-1967@@@
-
 DECRETO Nº 60.782, DE 31 DE MAIO DE 1967.
 
 Transfere da Prefeitura Municipal de Lajinha para a Centrais Elétricas de Minas Gerais S.A., concessão para produzir, transmitir e distribuir energia elétrica no município de Lajinha, Estado de Minas Gerais e dá outras providências.

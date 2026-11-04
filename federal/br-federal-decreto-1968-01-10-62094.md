@@ -1,5 +1,3 @@
-###DEC-062094-0-000-10-01-1968@@@
-
 DECRETO Nº 62.094, DE 10 DE JANEIRO DE 1968.
 
 Retifica o artigo 1º do Decreto número 60.552, de 7 de abril de 1967; autoriza a transferência de área que menciona ao Banco Nacional da Habitação e dá outras providências.

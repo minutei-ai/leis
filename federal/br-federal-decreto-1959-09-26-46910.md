@@ -1,5 +1,3 @@
-###DEC-046910-0-000-26-09-1959@@@
-
 DECRETO Nº 46.910, DE 26 DE SETEMBRO DE 1959.
 
 Suprime cargo extinto.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 26 de setembro de 1959; 138º da Independência e 71º da Rep
 Juscelino Kubitschek
 
 Ernani do Amaral Peixoto
-
-###DEC-046910-0-000-26-09-1959@@@RET01+++
 
 decreto nº 46.910, de 26 de setembro de 1959.
 

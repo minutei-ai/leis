@@ -1,5 +1,3 @@
-###DEC-056059-0-000-26-04-1965@@@
-
 Decreto nº 56.059, de 26 de abril de 1965.
 
 Autoriza Proquisa - Comércio e Indústria de Produtos Químicos S.A. a pesquisar talco no município de Brumadinho Estado de Minas Gerais.

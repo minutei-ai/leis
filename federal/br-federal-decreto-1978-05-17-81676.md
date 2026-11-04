@@ -1,5 +1,3 @@
-###DEC-081676-0-000-17-05-1978@@@
-
 Decreto nº 81.676, de 17 de maio de 1978.
 
 Concede reconhecimento ao curso de Engenharia da Faculdade de Engenharia de Blumenau com sede na cidade de Blumenau, Estado de Santa Catarina.

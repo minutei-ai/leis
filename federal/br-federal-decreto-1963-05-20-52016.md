@@ -1,5 +1,3 @@
-###DEC-052016-0-000-20-05-1963@@@
-
 DECRETO Nº 52.016, DE 20 DE Maio De 1963.
 
 Cria Grupo de Trabalho.

@@ -4,7 +4,8 @@ A **SECRETÁRIA DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, co
 
 **RESOLVE:**
 
-Art. 1º Fica aberto ao FUNDO ESTADUAL DE SAÚDE, crédito suplementar no valor de R$ 77.050,30 (setenta e sete mil cinquenta reais e trinta centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Fica aberto ao FUNDO ESTADUAL DE SAÚDE, crédito suplementar no valor de R$ 77.050,30 (setenta e sete mil cinquenta reais e trinta centavos), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior.

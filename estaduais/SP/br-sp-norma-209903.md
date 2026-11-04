@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209903)<br>
-
 # LEI N° 18.018, DE 02 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 230/2023, do Deputado Barros Munhoz - PSDB)

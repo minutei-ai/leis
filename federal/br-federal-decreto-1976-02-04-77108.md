@@ -1,5 +1,3 @@
-###DEC-077108-0-000-04-02-1976@@@
-
 Decreto nº 77.108, de 4 de fevereiro de 1976.
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas do Sul Paulista, com sede na Cidade de Itapeva, Estado de São Paulo.

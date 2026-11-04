@@ -1,5 +1,3 @@
-###DEC-082236-0-000-06-09-1978@@@
-
 Decreto nº 82.236, de 06 de setembro de 1978
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade Salesiana de Educação Física, com sede na cidade de Santa Rosa, Estado do Rio Grande do Sul.

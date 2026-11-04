@@ -1,5 +1,3 @@
-###DEC-049731-0-000-31-12-1960@@@
-
 decreto nº 49.731, de 31 de dezembro de 1960.
 
 Outorga à Prefeitura Municipal de Primavera Cruz - Estado do Maranhão, concessão para distribuir energia elétrica.

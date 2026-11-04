@@ -1,5 +1,3 @@
-###DEC-067714-0-000-07-12-1970@@@
-
 DECRETO Nº 67.714, DE 7 DE DEZEMBRO DE 1970.
 
 Concede à Mineração Rio do Norte S.A. o direito de lavrar bauxita, no município de Oriximiná, Estado do Pará.

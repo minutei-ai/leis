@@ -1,5 +1,3 @@
-###DEC-083391-0-000-02-05-1979@@@
-
 DECRETO Nº 83.391, DE 02 DE MAIO DE 1979.
 
 Concede reconhecimento aos cursos de Estudos Sociais, e de Formação de Professores de Disciplinas Profissionalizantes, da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", de Itaquera, São Paulo.

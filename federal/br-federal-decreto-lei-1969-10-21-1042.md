@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7a6581ef-8b14-4dd5-80ac-7b5fac3214ed/texto#nowhere)
 
-###DEL-001042-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.042, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre regularização de situações fiscais e dá outras providências.

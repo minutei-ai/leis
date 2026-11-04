@@ -1,5 +1,3 @@
-###DEC-094989-0-000-30-09-1987@@@
-
 DECRETO Nº 94.989, DE 30 DE SETEMBRO DE 1987
 
 Reajusta o valor do Piso Nacional de Salário.

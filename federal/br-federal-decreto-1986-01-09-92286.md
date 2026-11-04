@@ -1,5 +1,3 @@
-###DEC-092286-0-000-09-01-1986@@@
-
 DECRETO Nº 92.286, DE 09 DE JANEIRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Mineira/Imóvel São Miguel ou Fazenda Iguaçu", situado nos Municípios de Medianeira e São Miguel do Iguaçu, no Estado do Paraná, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980, e dá outras providências.

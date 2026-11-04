@@ -1,5 +1,3 @@
-###DEC-096519-0-000-15-08-1988@@@
-
 DECRETO N° 96.519, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA TUPÃ-CIRETÃ”, constituído do lote n° 160 do Loteamento Itaipavas, classificado como “latifúndio por exploração”, situado no Município de Xinguara, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária fixada pelo Decreto n° 92.623, de 2 de maio de 1986, e dá outras providências.

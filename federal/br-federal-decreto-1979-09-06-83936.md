@@ -1,5 +1,3 @@
-###DEC-083936-0-000-06-09-1979@@@
-
 Decreto nº 83.936, de 06 de setembro de 1979.
 
 Simplifica exigências de documentos e dá outras providências.

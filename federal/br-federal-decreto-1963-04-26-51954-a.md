@@ -1,5 +1,3 @@
-###DEC-051954-A-000-26-04-1963@@@
-
 DECRETO Nº 51.954-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro José Maurício Pedrosa Gondim a pesquisar água mineral no município de Atalaia, Estado de Alagoas.

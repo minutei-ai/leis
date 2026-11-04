@@ -1,5 +1,3 @@
-###DEC-075652-0-000-24-04-1975@@@
-
 DECRETO Nº 75.652, DE 24 DE ABRIL DE 1975.
 
 Extingue a Comissão de Estradas de Rodagem nº 4, do Ministério do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089274-0-000-05-01-1984@@@
-
 DecReto nº 89.274, de 05 de janeiro de 1984
 
 Declara de interesse social, para fins de desapropriação, área de terra, sem benfeitorias, situada no Município de Camaquã, no Estado do Rio Grande do Sul.

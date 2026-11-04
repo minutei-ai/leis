@@ -1,7 +1,3 @@
-1
-
-###DEL-001341-0-000-22-08-1974@@@
-
 # DECRETO-LEI Nº 1.341, de 22 DE AGOSTO DE 1974
 
 Dispõe sobre a implantação gradualista do Plano de Classificação de Cargos de que trata a Lei número 5.645, de 10 de dezembro de 1970, e dá outras providências.

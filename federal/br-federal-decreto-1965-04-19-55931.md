@@ -1,5 +1,3 @@
-###DEC-055931-0-000-19-04-1965@@@
-
 DECRETO Nº 55.931, DE 19 DE ABRIL DE 1965.
 
 Outorga concessão a Rádio Alvorada de Parintins Ltda. para instalar uma emissora de radiodifusão sonora.

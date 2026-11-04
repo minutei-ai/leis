@@ -1,5 +1,3 @@
-###MPV-001763-0-061-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.763-61, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

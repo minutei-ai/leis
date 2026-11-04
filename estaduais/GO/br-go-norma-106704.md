@@ -54,8 +54,6 @@ Parágrafo único. A data de entrada em vigor desta Lei deve ser divulgada na p�
 
 Goiânia, 19 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

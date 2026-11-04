@@ -1,5 +1,3 @@
-###DEC-080966-0-000-07-12-1977@@@
-
 DECRETO Nº 80.966, DE 07 DE DEZEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado no Município de Santa Bárbara de Goiás, Estado de Goiás, necessário ao Ministério da Aeronáutica.

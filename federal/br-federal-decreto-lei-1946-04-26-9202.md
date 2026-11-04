@@ -1,5 +1,3 @@
-###DEL-009202-0-000-26-04-1946@@@
-
 DECRETO-LEI N. 9.202 – DE 26 DE ABRIL DE 1946
 
 Dispõe sôbre pessoal do Ministério das Relações Exteriores e dá outras providências.

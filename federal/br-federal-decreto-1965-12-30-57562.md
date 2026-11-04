@@ -1,5 +1,3 @@
-###DEC-057562-0-000-30-12-1965@@@
-
 DECRETO Nº 57.562, DE 30 DE DEZEMBRO DE 1965.
 
 Altera, por transferência de verba, o orçamento da Contadoria Geral de Transportes, aprovado pelo Decreto nº 56.391, de 1º de junho de 1965.

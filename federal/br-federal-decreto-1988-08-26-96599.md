@@ -1,5 +1,3 @@
-###DEC-096599-0-000-26-08-1988@@@
-
 DECRETO Nº 96.599, DE 26 DE AGOSTO DE 1988
 
 Outorga concessão à Televisão Abril Ltda., para explorar Serviço Especial de Televisão por Assinatura - TVA na Cidade de São Paulo, Estado de São Paulo.

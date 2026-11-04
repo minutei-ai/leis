@@ -1,5 +1,3 @@
-###DEC-045974-0-000-09-05-1959@@@
-
 DECRETO Nº 45.974, DE 9 DE MAIO DE 1959.
 
 Renova o Decreto nº 31.503, de 2 de outubro de 1952, que declarou de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no Município de Mauriti, Estado do Ceará.

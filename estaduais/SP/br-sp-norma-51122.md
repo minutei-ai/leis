@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51122)
-
 # LEI Nº 11.742, DE 03 DE JUNHO DE 2004
 
 ## (PL 1269/2003 - Maria Lúcia Amary)

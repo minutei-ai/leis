@@ -1,5 +1,3 @@
-###DEC-007550-0-000-12-08-2011-PUB-01@@@
-
 DECRETO Nº 7.550, DE 12 DE AGOSTO DE 2011.
 
   Altera o Anexo II ao Decreto nº 5.063, de 3 de maio de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Trabalho e Emprego.

@@ -1,5 +1,3 @@
-###DEL-007202-0-000-28-12-1944@@@
-
 DECRETO-LEI N. 7.202 – DE 28 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 51.557.362,00, à verba que especifica

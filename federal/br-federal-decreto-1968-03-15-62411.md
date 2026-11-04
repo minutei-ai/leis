@@ -1,42 +1,40 @@
-###DEC-062411-0-000-15-03-1968@@@
+**DECRETO 62.411, DE 15 DE MARÇO DE 1968.**
 
-<strong>DECRETO 62.411, DE 15 DE MARÇO DE 1968.</strong>
+***Aprova o estatuto da Fundação Nacional do Material Escolar (FENAME) e dá outras providências.***
 
-<em><strong>Aprova o estatuto da Fundação Nacional do Material Escolar (FENAME) e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e de acôrdo com o disposto no artigo 13 da Lei nº 5.327, de 2 de outubro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e de acôrdo com o disposto no artigo 13 da Lei nº 5.327, de 2 de outubro de 1967,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aprovado o estatuto da Fundação Nacional do Material Escolar, que êste acompanha, assinado pelo Ministro da Educação e Cultura.
 
-<strong>Art</strong>. 1º É aprovado o estatuto da Fundação Nacional do Material Escolar, que êste acompanha, assinado pelo Ministro da Educação e Cultura.
+**Art**. 2º Fica autorizada a transferência, para a Fundação Nacional do Material Escolar, do acervo da extinta Campanha Nacional de Material de Ensino.
 
-<strong>Art</strong>. 2º Fica autorizada a transferência, para a Fundação Nacional do Material Escolar, do acervo da extinta Campanha Nacional de Material de Ensino.
+**Art**. 3º As dotações orçamentárias e os créditos destinados, no corrente exercício, à Campanha Nacional de Material de Ensino ou à Fundação Nacional do Material Escolar, serão automaticamente distribuídos ao Tesouro Nacional, a fim de que o Ministério da Educação e Cultura recebendo os recursos correspondentes, providencie a sua transferência à conta da última entidade.
 
-<strong>Art</strong>. 3º As dotações orçamentárias e os créditos destinados, no corrente exercício, à Campanha Nacional de Material de Ensino ou à Fundação Nacional do Material Escolar, serão automaticamente distribuídos ao Tesouro Nacional, a fim de que o Ministério da Educação e Cultura recebendo os recursos correspondentes, providencie a sua transferência à conta da última entidade.
-
-<strong>Art</strong>. 4º Revogadas as disposições em contrário, êste Decreto entrará em vigor à data de sua publicação.
+**Art**. 4º Revogadas as disposições em contrário, êste Decreto entrará em vigor à data de sua publicação.
 
 Brasília, 15 de março de 1968, 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Tarso Dutra
 
-<strong>FUNDAÇÃO NACIONAL DE MATERIAL ESCOLAR</strong>
+**FUNDAÇÃO NACIONAL DE MATERIAL ESCOLAR**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Sede, do Fôro e dos Fins</em>
+*Da Sede, do Fôro e dos Fins*
 
-<strong>Art</strong>. 1º A Fundação Nacional do Material Escolar (FENAME), instituída nos têrmos da Lei nº 5.327, de 2 de outubro de 1967, vinculada ao Ministério da Educação e Cultura, com sede e fôro na cidade do Rio de Janeiro, Estado da Guanabara, tem jurisdição em todo o território nacional e se regerá pelo presente estatuto.
+**Art**. 1º A Fundação Nacional do Material Escolar (FENAME), instituída nos têrmos da Lei nº 5.327, de 2 de outubro de 1967, vinculada ao Ministério da Educação e Cultura, com sede e fôro na cidade do Rio de Janeiro, Estado da Guanabara, tem jurisdição em todo o território nacional e se regerá pelo presente estatuto.
 
-<strong>Art</strong>. 2º A Fundação Nacional de Material Escolar gozará de autonomia administrativa e financeira.
+**Art**. 2º A Fundação Nacional de Material Escolar gozará de autonomia administrativa e financeira.
 
-<strong>Art</strong>. 3º O prazo de duração da Fundação Nacional de Material Escolar será indeterminado.
+**Art**. 3º O prazo de duração da Fundação Nacional de Material Escolar será indeterminado.
 
-<strong>Art</strong>. 4º A Fundação Nacional do Material Escolar, que não terá fins lucrativos, visará à produção e distribuição, pelo preço de custo, do material escolar e didático, contribuindo assim, para a melhoria quantitativa e qualitativa, maior facilidade de aquisição e utilização do referido material.
+**Art**. 4º A Fundação Nacional do Material Escolar, que não terá fins lucrativos, visará à produção e distribuição, pelo preço de custo, do material escolar e didático, contribuindo assim, para a melhoria quantitativa e qualitativa, maior facilidade de aquisição e utilização do referido material.
 
-<strong>Art</strong>. 5º Entende-se, para efeitos dêste estatuto, por material escolar e didático:
+**Art**. 5º Entende-se, para efeitos dêste estatuto, por material escolar e didático:
 
 a) cadernos escolares e blocos de papel diversos;
 
@@ -52,7 +50,7 @@ f) material para o ensino audio-visual de disciplinas de cursos de grau elementa
 
 g) material em geral, de uso freqüente por alunos e professôres.
 
-<strong>Art</strong>. 6º Para a consecução dos objetivos previstos no artigo anterior, a Fundação poderá:
+**Art**. 6º Para a consecução dos objetivos previstos no artigo anterior, a Fundação poderá:
 
 a) promover e coordenar, por si ou por terceiros, pesquisas e estudos, de âmbito nacional, que visem ao levantamento de dados sôbre a demanda de material escolar e didático, bem como as condições do mercado, a fim de que as suas atividades de produção correspondam, de modo sistemático e organizado, às reais necessidades do País;
 
@@ -64,11 +62,11 @@ d) promover a preparação de pessoal auxiliar e o aperfeiçoamento e especializ
 
 e) promover reuniões ou congressos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Patrimônio</em>
+*Do Patrimônio*
 
-<strong>Art</strong>. 7º O patrimônio da Fundação Nacional de Material Escolar será constituído por:
+**Art**. 7º O patrimônio da Fundação Nacional de Material Escolar será constituído por:
 
 a) acervo da extinta Campanha Nacional de Ensino;
 
@@ -82,11 +80,11 @@ e) rendas eventuais, inclusive as resultantes de prestação de serviços.
 
 Parágrafo único. Os bens e direitos da Fundação Nacional de Material Escolar serão utilizados, apenas para a consecução dos seus objetivos, permitida, todavia, a sub-rogação de uns e outros, para a obtenção de rendas destinadas ao mesmo fim.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos Órgãos e da sua competência</em>
+*Dos Órgãos e da sua competência*
 
-<strong>Art</strong>. 8º São Órgãos da Fundação:
+**Art**. 8º São Órgãos da Fundação:
 
 a) o Conselho Técnico Consultivo;
 
@@ -96,27 +94,27 @@ c) a Diretoria.
 
 Parágrafo único. O Regimento Interno poderá instituir, na estrutura técnica ou administrativa da Fundação, o desdobramento dos órgãos referidos neste artigo e ainda outros necessários à execução das suas atividades.
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Conselho Técnico Consultivo</em>
+*Do Conselho Técnico Consultivo*
 
-<strong>Art</strong>. 9º O Conselho Técnico Consultivo compor-se-á de 3 (três) membros, com igual número de suplentes, designados pelo Ministro, além do Diretor-Executivo, que representara o Ministro da Educação e Cultura.
+**Art**. 9º O Conselho Técnico Consultivo compor-se-á de 3 (três) membros, com igual número de suplentes, designados pelo Ministro, além do Diretor-Executivo, que representara o Ministro da Educação e Cultura.
 
 Parágrafo único. O suplente substituirá o membro do Conselho, em suas faltas e impedimentos.
 
-<strong>Art</strong>. 10. Os membros do Conselho Técnico Consultivo exercerão mandatos por 3 (três) anos.
+**Art**. 10. Os membros do Conselho Técnico Consultivo exercerão mandatos por 3 (três) anos.
 
-<strong>Art</strong>. 11. Os serviços prestados pelos membros do Conselho Técnico Consultivo serão considerados de caráter relevante.
+**Art**. 11. Os serviços prestados pelos membros do Conselho Técnico Consultivo serão considerados de caráter relevante.
 
-<strong>Art</strong>. 12. Os serviços prestados pelos membros do Conselho Técnico Consultivo reunir-se-á, por convocação, com a presença de 2 (dois) membros, no mínimo, ordinariamente, uma vez por mês, e, extraordinariamente, quantas vêzes forem necessárias.
+**Art**. 12. Os serviços prestados pelos membros do Conselho Técnico Consultivo reunir-se-á, por convocação, com a presença de 2 (dois) membros, no mínimo, ordinariamente, uma vez por mês, e, extraordinariamente, quantas vêzes forem necessárias.
 
-<strong>Art</strong>. 13. As decisões do Conselho Técnico Consultivo terão a forma de resoluções.
+**Art**. 13. As decisões do Conselho Técnico Consultivo terão a forma de resoluções.
 
-<strong>Art</strong>. 14 Perderá o mandato o membro do Conselho que faltar sem justificação, a 3 (três) reuniões consecutivas.
+**Art**. 14 Perderá o mandato o membro do Conselho que faltar sem justificação, a 3 (três) reuniões consecutivas.
 
 Parágrafo único. Em caso de vacância, o Conselheiro que fôr designado, em substituição, completará o período restante do mandato.
 
-<strong>Art</strong>. 15 Ao Conselho Técnico Consultivo compete:
+**Art**. 15 Ao Conselho Técnico Consultivo compete:
 
 a) propor a conceituação da política nacional de produção e distribuição do material escolar e didático;
 
@@ -152,27 +150,27 @@ q) deliberar, à vista do parecer do Conselho Fiscal, sôbre as contas prestadas
 
 r) opinar sôbre os casos omissos neste Estatuto, para decisão do Ministro de Estado, e pronunciar-se sôbre os assuntos que lhe forem submetidos pela Diretoria.
 
-<strong>Art</strong>. 16. Nas deliberações do CTC o Presidente, além do voto pessoal, terá o de desempate.
+**Art**. 16. Nas deliberações do CTC o Presidente, além do voto pessoal, terá o de desempate.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Conselho Fiscal</em>
+*Do Conselho Fiscal*
 
-<strong>Art</strong>. 17. O Conselho Fiscal tem por finalidade acompanhar e fiscalizar a gestão financeira da Fundação zelando pelo bom e regular emprêgo dos seus recursos.
+**Art**. 17. O Conselho Fiscal tem por finalidade acompanhar e fiscalizar a gestão financeira da Fundação zelando pelo bom e regular emprêgo dos seus recursos.
 
-<strong>Art</strong>. 18. O Conselho Fiscal será composto de 2 (dois) membros, representantes do Ministério da Educação e Cultura, e de 1 (um) Contador indicado pelo Conselho Técnico Consultivo, havendo igual número de suplentes.
+**Art**. 18. O Conselho Fiscal será composto de 2 (dois) membros, representantes do Ministério da Educação e Cultura, e de 1 (um) Contador indicado pelo Conselho Técnico Consultivo, havendo igual número de suplentes.
 
 Parágrafo único. O Suplente substitui o membro do Conselho Fiscal, nas suas faltas e impedimentos.
 
-<strong>Art</strong>. 19. A designação dos membros do Conselho Fiscal, e dos seus suplentes, será feita pelo Ministro da Educação e Cultura, ao qual caberá escolher ainda o Presidente.
+**Art**. 19. A designação dos membros do Conselho Fiscal, e dos seus suplentes, será feita pelo Ministro da Educação e Cultura, ao qual caberá escolher ainda o Presidente.
 
-<strong>Art</strong>. 20. Os membros do Conselho Fiscal prestarão serviços sem ônus para os cofres públicos.
+**Art**. 20. Os membros do Conselho Fiscal prestarão serviços sem ônus para os cofres públicos.
 
-<strong>Art</strong>. 21.O Conselho Fiscal reunir-se-á, ordinariamente, sempre que convocado pelo seu Presidente.
+**Art**. 21.O Conselho Fiscal reunir-se-á, ordinariamente, sempre que convocado pelo seu Presidente.
 
-<strong>Art</strong>. 22. Os membros do Conselho Fiscal exercerão o mandato por 3 (três) anos.
+**Art**. 22. Os membros do Conselho Fiscal exercerão o mandato por 3 (três) anos.
 
-<strong>Art</strong>. 23. Ao Conselho Fiscal compete:
+**Art**. 23. Ao Conselho Fiscal compete:
 
 a) examinar as contas apresentadas anualmente pela Diretoria, podendo proceder a diligências prévias, e solicitar esclarecimentos ou elementos de prova, encaminhando-o com parecer conclusivo, à deliberação do Conselho Técnico Consultivo.
 
@@ -188,25 +186,25 @@ f) examinar e emitir parecer sôbre propostas de aquisição de imóveis, hipote
 
 g) emitir parecer sôbre os assuntos de natureza contábil e financeira que lhe sejam submetidos pelo Diretor Executivo ou pelo Conselho Consultivo.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Diretoria</em>
+*Da Diretoria*
 
-<strong>Art</strong>. 24. A Diretoria será exercida por um Diretor-Executivo, que presidirá o Conselho Técnico Consultivo como representante do Ministro da Educação e Cultura.
+**Art**. 24. A Diretoria será exercida por um Diretor-Executivo, que presidirá o Conselho Técnico Consultivo como representante do Ministro da Educação e Cultura.
 
-<strong>Art</strong>. 25. O Diretor-Executivo será designado pelo Ministro da Educação e Cultura.
+**Art**. 25. O Diretor-Executivo será designado pelo Ministro da Educação e Cultura.
 
-<strong>Art</strong>. 26. O Diretor-Executivo trabalhará em regime de tempo integral.
+**Art**. 26. O Diretor-Executivo trabalhará em regime de tempo integral.
 
-<strong>Art</strong>. 27. Como órgãos auxiliares da Diretoria, funcionarão a Assessoria Especializada e o Corpo de Consultores Técnicos.
+**Art**. 27. Como órgãos auxiliares da Diretoria, funcionarão a Assessoria Especializada e o Corpo de Consultores Técnicos.
 
-<strong>Art</strong>. 28. A Diretoria terá uma administração intermediária, constituída por escolhida por escolha do Diretor-Executivo.
+**Art**. 28. A Diretoria terá uma administração intermediária, constituída por escolhida por escolha do Diretor-Executivo.
 
-<strong>Art</strong>. 29. A Diretoria designará órgãos representativos, denominados representações Regionais, a serem instaladas nos principais centros fisiográficos do País.
+**Art**. 29. A Diretoria designará órgãos representativos, denominados representações Regionais, a serem instaladas nos principais centros fisiográficos do País.
 
-<strong>Art</strong>. 30. Os Representantes Regionais serão designados pelo Diretor-Executivo, com aprovação do Conselho Técnico Consultivo.
+**Art**. 30. Os Representantes Regionais serão designados pelo Diretor-Executivo, com aprovação do Conselho Técnico Consultivo.
 
-<strong>Art</strong>. 31. Compete ao Diretor-Executivo:
+**Art**. 31. Compete ao Diretor-Executivo:
 
 a) orientar, dirigir, supervisionar e coordenar as atividades da Fundação;
 
@@ -252,34 +250,34 @@ v) designar os seus assessores e auxiliares imediatos, bem como os chefes e resp
 
 x) delegar competência.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Disposições Gerais e Transitórias</em>
+*Das Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 32. Todo o pessoal admitido na Fundação Nacional de Material Escolar estará sujeito ao regime da Consolidação das Leis do Trabalho.
+**Art**. 32. Todo o pessoal admitido na Fundação Nacional de Material Escolar estará sujeito ao regime da Consolidação das Leis do Trabalho.
 
 Parágrafo único. A admissão ao quadro de pessoal será feita mediante contrato, após a habilitação por meio de provas ou de provas de títulos, a critério do Conselho Técnico Consultivo.
 
-<strong>Art</strong>. 33. Os servidores em exercício na extinta CNME, cujos serviços forem julgados dispensáveis pela Diretoria da Fundação, serão apresentados aos órgãos de pessoal dos respectivos Ministérios ou Autarquias continuando em exercício os demais, com os direitos e vantagens inerentes à sua condição.
+**Art**. 33. Os servidores em exercício na extinta CNME, cujos serviços forem julgados dispensáveis pela Diretoria da Fundação, serão apresentados aos órgãos de pessoal dos respectivos Ministérios ou Autarquias continuando em exercício os demais, com os direitos e vantagens inerentes à sua condição.
 
-<strong>Art</strong>. 34. A remuneração do Diretor-Executivo será fixada pelo Ministro de Estado.
+**Art**. 34. A remuneração do Diretor-Executivo será fixada pelo Ministro de Estado.
 
-<strong>Art</strong>. 35. A Fundação terá o mesmo tratamento assegurado pela legislação aos órgãos de administração federal direta, no que se refere às tarifas postais e telegráficas.
+**Art**. 35. A Fundação terá o mesmo tratamento assegurado pela legislação aos órgãos de administração federal direta, no que se refere às tarifas postais e telegráficas.
 
-<strong>Art</strong>. 36. A Fundação deverá providenciar, dentro de 60 dias, a elaboração do seu Regimento Interno.
+**Art**. 36. A Fundação deverá providenciar, dentro de 60 dias, a elaboração do seu Regimento Interno.
 
-<strong>Art</strong>. 37. Até que seja baixada o Regimento do que trata o artigo anterior, os serviços da Fundação e o regime do seu pessoal serão regulados, no que couber, pelas disposições normativas da antiga Campanha Nacional de Material de Ensino.
+**Art**. 37. Até que seja baixada o Regimento do que trata o artigo anterior, os serviços da Fundação e o regime do seu pessoal serão regulados, no que couber, pelas disposições normativas da antiga Campanha Nacional de Material de Ensino.
 
-<strong>Art</strong>. 38. Extinguindo-se, por qualquer motivo, a Fundação de Material Escolar, seus bens serão incorporados ao Patrimônio da União.
+**Art**. 38. Extinguindo-se, por qualquer motivo, a Fundação de Material Escolar, seus bens serão incorporados ao Patrimônio da União.
 
-<strong>Art</strong>. 39. O presente estatuto poderá ser alterado, no todo ou em parte, por iniciativa do Diretor-Executivo ou de qualquer dos membros do Conselho Consultivo.
+**Art**. 39. O presente estatuto poderá ser alterado, no todo ou em parte, por iniciativa do Diretor-Executivo ou de qualquer dos membros do Conselho Consultivo.
 
 § 1º O Conselho Técnico Consultivo, convocado para tomar conhecimento da proposta, resolverá, preliminarmente, pela maioria dos votos presentes, se o assunto deverá ser objeto de deliberação, e marcará, no caso afirmativo, nova reunião para discutir e votar a emenda ou revisão.
 
 § 2º A aprovação da emenda ou da revisão despenderá de voto de dois têrços da totalidade dos membros.
 
-<strong>Art</strong>. 40. Na admissão de pessoal, inclusive de natureza eventual ou para prestação de serviço especial retribuído mediante recebido, na realização de qualquer tipo de congresso ou reunião, e na celebração de convênios, acordos ou contratos, deverão ser observadas, sempre, as normas estabelecidas nas Portarias Ministeriais números 519, 25 e 71, respectivamente, de 19 de setembro de 1967, 17 e 30 de janeiro de 1968, e suas modificações.
+**Art**. 40. Na admissão de pessoal, inclusive de natureza eventual ou para prestação de serviço especial retribuído mediante recebido, na realização de qualquer tipo de congresso ou reunião, e na celebração de convênios, acordos ou contratos, deverão ser observadas, sempre, as normas estabelecidas nas Portarias Ministeriais números 519, 25 e 71, respectivamente, de 19 de setembro de 1967, 17 e 30 de janeiro de 1968, e suas modificações.
 
 Brasília, 12 de março de 1968; 147º da Independência e 80º da República.
 
-<strong>TARSO DUTRA</strong>
+**TARSO DUTRA**

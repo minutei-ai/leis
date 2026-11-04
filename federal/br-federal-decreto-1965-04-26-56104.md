@@ -1,5 +1,3 @@
-###DEC-056104-0-000-26-04-1965@@@
-
 decreto nº 56.104, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro José Nogueira Valiante a pesquisar mica no município de Bananal, Estado de São Paulo.

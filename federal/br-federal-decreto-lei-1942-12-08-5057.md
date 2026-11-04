@@ -1,5 +1,3 @@
-###DEL-005057-0-000-08-12-1942@@@
-
 DECRETO-LEI N. 5.057 – DE 8 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de Cr$ 44.380,00 para liquidação de despesas

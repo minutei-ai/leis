@@ -1,5 +1,3 @@
-###DEC-004922-0-000-18-12-2003@@@
-
 DECRETO Nº 4.922 DE 18 DE DEZEMBRO DE 2003.
 
 Fixa os preços mínimos básicos para sementes e produtos agrícolas das safras de verão e de produtos regionais 2003/2004 e do Norte e Nordeste 2004.

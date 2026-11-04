@@ -1,5 +1,3 @@
-###DEC-003192-0-000-05-10-1999@@@
-
 DECRETO Nº 3.192, DE 5 DE OUTUBRO DE 1999.
 
 Promulga o Acordo-Quadro Inter-Regional de Cooperação entre a Comunidade Européia e os seus Estados-Membros e o Mercosul e os seus Estados-Partes, concluído em Madri, em 15 de dezembro de 1995.
@@ -28,7 +26,33 @@ Luz Felipe Lampreia
 
 Acordo-Quadro Inter-Regional entre a Comunidade Européia e os seus Estados Membros, por uma Parte, e o Mercado Comum do Sul e os seus Estados Partes, por Outra
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Bélgica,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Dinamarca,</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Federal da Alemanha</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Helência,</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Espanha,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Francesa,</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República da Irlanda,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Italiana,</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Grão-Ducado do Luxemburgo,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino dos Países Baixos</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República da Áustria,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Portuguesa,</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República da Finlândia,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Suécia,</span></p></td></tr></tbody></table>
+O Reino da Bélgica,
+
+O Reino da Dinamarca,
+
+A República Federal da Alemanha
+
+A República Helência,
+
+O Reino da Espanha,
+
+A República Francesa,
+
+A República da Irlanda,
+
+A República Italiana,
+
+O Grão-Ducado do Luxemburgo,
+
+O Reino dos Países Baixos
+
+A República da Áustria,
+
+A República Portuguesa,
+
+A República da Finlândia,
+
+O Reino da Suécia,
 
 O Reino Unido da Grâ-Bretanha e da Irlanda do Norte,
 
@@ -40,7 +64,13 @@ Adiante designada “Comunidade”,
 
 por um lado, e
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Argentina,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República do Paraguai,</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Federativa do Brasil,</span></p></td><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Oriental do Uruguai,</span></p></td></tr></tbody></table>
+A República Argentina,
+
+A República do Paraguai,
+
+A República Federativa do Brasil,
+
+A República Oriental do Uruguai,
 
 Partes no Tratado de Assunção para a constituição de um Mercado Comum do Sul e do Protocolo Adicional de Ouro Preto, adiante designados “Estados Partes do Mercosul”,
 
@@ -72,7 +102,149 @@ Tendo em conta os termos da Declaração Conjunta Solene, pela qual ambas as Par
 
 Decidiram concluir o presente acordo e, para tal fim, designaram como plenipotenciários:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Bélgica:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Dinamarca:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Erik Derycke,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Niels Helveg Petersen</span><span style="font-family:Arial; font-size:10pt">,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Federal da Alemanha:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Helênica:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Klaus Kinkel,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Karolos Papoulias,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro Federal dos Negócios</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Estrangeiro e Vice-Chanceler,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Espanha:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Francesa:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Javier Solana Madariaga,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Hervé de Charette,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Min0istro dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministros dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República da Irlanda:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Italiana:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Dick Spring,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Susanna Agnelli,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministra dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Grão-Ducado de Luxemburgo:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino dos Países Baixos:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jacques F. Poos,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Hans Van Mierlo,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República da Áustria:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Portuguesa:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Wolfgang Schussel,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jaime Gama,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro Federal dos Negócios,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Estrangeiros e Vice-Chanceler,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República da Finlândia:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino da Suécia:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Tarja Halonen,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Mats Helström,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministra dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Assuntos Europeus e do</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Comércio Externo,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Reino Unido da Grã-Bretanha</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A Comunidade Européia:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">e da Irlanda do Norte:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Javier Solana Madariaga,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; font-style:italic">Malcom Rifkind,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Presidente em exercício do Conselho</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">e da Commonwealth,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Da União Européia,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Manuel Marin,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Argentina:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Vice-Presidente da Comissão das</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Guido di Tella,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Comunidades Européias,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Federativa do Brasil:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República do Paraguai:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Palmeira Lampreia,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luis Maria Ramirez Boettener,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A República Oriental do Uruguai:</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Mercado Comumdo Sul:</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alvaro Ramos Trigo,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alvaro Ramos Trigo,</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros,</span></p></td><td style="width:223.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros, Presidente em exercício do Mercado</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Comum do Sul</span></p></td></tr></tbody></table>
+O Reino da Bélgica:
+
+O Reino da Dinamarca:
+
+Erik Derycke,
+
+Niels Helveg Petersen,
+
+Ministro dos Negócios Estrangeiros,
+
+Ministro dos Negócios Estrangeiros,
+
+A República Federal da Alemanha:
+
+A República Helênica:
+
+Klaus Kinkel,
+
+Karolos Papoulias,
+
+Ministro Federal dos Negócios
+
+Ministro dos Negócios Estrangeiros,
+
+Estrangeiro e Vice-Chanceler,
+
+O Reino da Espanha:
+
+A República Francesa:
+
+Javier Solana Madariaga,
+
+Hervé de Charette,
+
+Min0istro dos Negócios Estrangeiros,
+
+Ministros dos Negócios Estrangeiros,
+
+A República da Irlanda:
+
+A República Italiana:
+
+Dick Spring,
+
+Susanna Agnelli,
+
+Ministro dos Negócios Estrangeiros,
+
+Ministra dos Negócios Estrangeiros,
+
+O Grão-Ducado de Luxemburgo:
+
+O Reino dos Países Baixos:
+
+Jacques F. Poos,
+
+Hans Van Mierlo,
+
+Ministro dos Negócios Estrangeiros,
+
+Ministro dos Negócios Estrangeiros,
+
+A República da Áustria:
+
+A República Portuguesa:
+
+Wolfgang Schussel,
+
+Jaime Gama,
+
+Ministro Federal dos Negócios,
+
+Ministro dos Negócios Estrangeiros,
+
+Estrangeiros e Vice-Chanceler,
+
+A República da Finlândia:
+
+O Reino da Suécia:
+
+Tarja Halonen,
+
+Mats Helström,
+
+Ministra dos Negócios Estrangeiros,
+
+Ministro dos Assuntos Europeus e do  Comércio Externo,
+
+O Reino Unido da Grã-Bretanha
+
+A Comunidade Européia:
+
+e da Irlanda do Norte:
+
+Javier Solana Madariaga,
+
+Malcom Rifkind,
+
+Ministro dos Negócios Estrangeiros,
+
+Ministro dos Negócios Estrangeiros
+
+Presidente em exercício do Conselho
+
+e da Commonwealth,
+
+Da União Européia,
+
+Manuel Marin,
+
+A República Argentina:
+
+Vice-Presidente da Comissão das
+
+Guido di Tella,
+
+Comunidades Européias,
+
+Ministro dos Negócios Estrangeiros,
+
+A República Federativa do Brasil:
+
+A República do Paraguai:
+
+Luiz Felipe Palmeira Lampreia,
+
+Luis Maria Ramirez Boettener,
+
+Ministro dos Negócios Estrangeiros,
+
+Ministro dos Negócios Estrangeiros,
+
+A República Oriental do Uruguai:
+
+O Mercado Comumdo Sul:
+
+Alvaro Ramos Trigo,
+
+Alvaro Ramos Trigo,
+
+Ministro dos Negócios Estrangeiros,
+
+Ministro dos Negócios Estrangeiros, Presidente em exercício do Mercado  Comum do Sul
 
 Os quais, após terem trocado os seus plenos poderes, reconhecidos em boa e devida forma,
 

@@ -1,5 +1,3 @@
-###DEC-074344-0-000-31-07-1974@@@
-
 DECRETO Nº 74.344, DE 31 DE JULHO DE 1974.
 
 Autoriza o funcionamento dos cursos de Pedagogia e de Letras da Faculdade de Filosofia, Ciências e Letras Veiga de Almeida, mantida pela Associação Educacional Veiga de Almeida, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-003369-0-000-26-06-1941@@@
-
 DECRETO-LEI N. 3.369 – DE 26 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 258:474$0 para atender, no corrente exercício, às despesas com o funcionamento do curso noturno da Faculdade Nacional de Direito da Universidade do Brasil.

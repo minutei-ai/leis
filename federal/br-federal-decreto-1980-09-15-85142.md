@@ -1,5 +1,3 @@
-###DEC-085142-0-000-15-09-1980@@@
-
 DECRETO Nº 85.142, DE 15 DE SETEMBRO DE 1980.
 
 Autoriza o funcionamento, em regime especial, dos cursos de Letras, de Estudos Sociais e de Ciências, da Fundação de Ensino do Desenvolvimento do Oeste, em Chapecó, Santa Catarina.

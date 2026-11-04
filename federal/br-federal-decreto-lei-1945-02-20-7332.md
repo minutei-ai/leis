@@ -1,5 +1,3 @@
-###DEL-007332-0-000-20-02-1945@@@
-
 DECRETO-LEI N. 7.332 – DE 20 DE FEVEREIRO DE 1945
 
 Dispõe sôbre as subvenções federais a entidades desportivas

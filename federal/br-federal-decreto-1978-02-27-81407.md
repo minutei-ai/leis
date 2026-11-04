@@ -1,5 +1,3 @@
-###DEC-081407-0-000-27-02-1978@@@
-
 DECRETO Nº 81 407, de 27 de fevereiro de 1 978.
 
 Retifica o Decreto nº 80.178, de 16 de agosto de 1977, que autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Vila Velha, Estado do Espírito Santo.

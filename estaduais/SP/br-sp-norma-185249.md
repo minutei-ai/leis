@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185249)
-
 # DECRETO Nº 63.219, DE 16 DE FEVEREIRO DE 2018
 
 ### _Dispõe sobre a concessão da Medalha Rosa da Solidariedade do Fundo Social de Solidariedade do Estado de São Paulo_
@@ -116,14 +114,15 @@ Palácio dos Bandeirantes, 16 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
-Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.
+Samuel Moreira da Silva Junior
 
-<br>
-<br>
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
+Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.
 
 #### [DECRETO Nº 63.219, DE 16 DE FEVEREIRO DE 2018](https://www.al.sp.gov.br/norma/185249)
 
@@ -131,5 +130,4 @@ Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.
 
 No artigo 1º, inciso IV, leia-se como segue e não como constou:
 
-<br>
 **IV -** MOACIR ROSSETTI, Secretário Adjunto de Governo;

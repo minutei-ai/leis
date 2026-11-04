@@ -1,5 +1,3 @@
-###DEC-080991-0-000-12-12-1977@@@
-
 Decreto nº 80.991, de 12 de dezembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

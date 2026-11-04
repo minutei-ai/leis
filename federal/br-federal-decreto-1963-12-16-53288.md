@@ -1,5 +1,3 @@
-###DEC-053288-0-000-16-12-1963@@@
-
 DECRETO Nº 53.288, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Paulo Armando Newlands a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

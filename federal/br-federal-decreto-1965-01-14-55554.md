@@ -1,5 +1,3 @@
-###DEC-055554-0-000-14-01-1965@@@
-
 DECRETO nº 55.554, DE 14 DE Janeiro DE 1965.
 
 Institui com sede em Recife, Pernambuco, a Comissão Especial de Estudo das Condições Sociais do Nordeste (CEECSN).

@@ -1,5 +1,3 @@
-###DEL-002122-0-000-04-06-1984@@@
-
 # DecretO-lei nº 2.122, de 04 de junho de 1984
 
 Aplica, no que couber, o disposto no Decreto-lei nº 2.112, de 17 de abril de 1984, aos funcionários pertencentes à Categoria Funcional privativa do Tribunal de Contas do Distrito Federal, incluída no Grupo-Atividades de Controle Externo, do Quadro de Pessoal do referido Tribunal de Contas.

@@ -1,5 +1,3 @@
-###DEC-048918-0-000-06-09-1960@@@
-
 DECRETO Nº 48.918, DE 6 DE setembro DE 1960.
 
 Dispõe sôbre a execução da Lei nº 3.782, de 22 de julho de 1960.

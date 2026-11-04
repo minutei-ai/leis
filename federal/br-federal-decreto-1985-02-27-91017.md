@@ -1,5 +1,3 @@
-###DEC-091017-0-000-27-02-1985@@@
-
 Decreto nº 91.017, de 27 de fevereiro de 1985
 
 Declara de utilidade pública a Fundação Alexandre de Gusmão.

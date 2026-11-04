@@ -4,7 +4,8 @@ Estabelece a Lei Orgânica do Município do Salvador.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO MUNICÍPIO E SEU GOVERNO
 
 Art. 1º - O Município do Salvador reger-se-á pela presente lei observados os preceitos constitucionais e nos casos omissos pela [Lei número 140, de 22 de dezembro de 1948](https://www.legislabahia.ba.gov.br/documentos/lei-no-140-de-22-de-dezembro-de-1948#LO_140) .
@@ -13,7 +14,8 @@ Art. 2º - O governo do Município se exerce pela Câmara Municipal com funçõe
 
 Parágrafo único - O Prefeito será auxiliado por tantos Secretários quantas forem as Secretarias criadas por lei municipal.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA COMPETÊNCIA
 
 Art. 3º - Compete ao Município exercer em geral todo e qualquer poder que não lhe seja negado, explícita ou implícitamente, pelas Constituições Federal e Estadual e especialmente prover as necessidades de seu governo e de sua administração.
@@ -44,10 +46,12 @@ III - doação a União e ao Estado ou às instituições de ensino e assistênc
 
 Parágrafo único - A autorização à Assembléia Legislativa será solicitada pelo Prefeito, após o recebimento do ato legislativo municipal se nele aquiescer ou em seguida à rejeição do veto pelo Presidente da Câmara.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS ÓRGÃOS DE GOVERNO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA CÂMARA MUNICIPAL
 
 Art. 7º - A Câmara Municipal compõe-se de dezoito (18) Vereadores, eleitos por quatro (4) anos mediante sufrágio direto dos eleitores do Município, na forma da lei.
@@ -118,8 +122,8 @@ A parte variável do subsídio não será paga nas prorrogações do período le
 
 § 2º - A Assembléia Legislativa fixará, mediante resolução, o subsídio dos Vereadores.
 
-<br>
-Redação de acordo com a Lei nº 1.417, de 05 de maio de 1961.<br>
+Redação de acordo com a Lei nº 1.417, de 05 de maio de 1961.
+
 Redação original: "§ 2º - A Assembléia Legislativa fixará, mediante resolução votada no último ano de cada legislatura, o subsídio dos Vereadores."
 
 Art. 14 - Enquanto durar o mandato, o funcionário público ficará afastado do exercício do cargo, contando-lhe tempo de serviço, apenas para promoção por antiguidade e e aposentadoria.
@@ -198,7 +202,8 @@ XII - criar, alterar e suprimir Zonas Urbanas e Sub-Distritos Rurais, observadas
 
 XIII - autorizar a abertura de créditos adicionais, especiais ou suplementares, nos termos desta lei;
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS LEIS E RESOLUÇÕES
 
 Art. 20 - A iniciativa das leis, ressalvados os casos de competência exclusiva, cabe a qualquer membro, ou Comissão da Câmara Municipal e ao Prefeito.
@@ -279,7 +284,8 @@ c) declaração de perda de mandato de Vereador, nos casos previstos nesta lei;
 
 d) de projetos relativos a interesses particulares de pessoa natural, ou jurídica, ou de proteção a indústrias que explorem, ou venham explorar matéria prima estrangeira quando existe similar no País.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DA EXECUTIVO MUNICIPAL
 
 Art. 27 - O Poder Executivo será exercido pelo Prefeito, de nomeação do Governador do Estado, nos termos da legislação vigente.
@@ -392,7 +398,8 @@ VI - apresentar ao Prefeito, anualmente, a estimativa da receita e da despesa do
 
 Art. 36 - Em cada Distrito Administrativo haverá sede própria com os servidores indispensáveis aos seus serviços, bem assim uma agência fiscal para a arrecadação dos tributos municipais.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA PRESTAÇÃO DE CONTAS E RESPONSABILIDADE DO PREFEITO
 
 Art. 37 - Encerrado o exercício financeiro, o Prefeito remeterá à Câmara Municipal, até trinta dias depois da abertura anual dos trabalho legislativos, a sua prestação de contas.
@@ -403,7 +410,8 @@ Art. 39 - Recebida a denúncia, pelo Tribunal de Justiça, os acusados serão im
 
 CAPÍTULO V -
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA ADMINISTRAÇÃO EM GERAL
 
 Art. 40 - Os serviços do Município serão criados e definidos em lei municipal, observadas as prescrições da Constituição Estadual, e desta Lei Orgânica.
@@ -448,7 +456,8 @@ VI - protocolo, índice de papéis e livros arquivados.
 
 Parágrafo único - Os livros da Prefeitura terão termos de abertura e encerramento assinados pelo Prefeito, e os da Câmara pela respectivo Presidente.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA EXECUÇÃO DA ADMINISTRAÇÃO
 
 Art. 45 - O Município será civilmente responsável pelos danos que os funcionários, nessa qualidade causem, a terceiros.
@@ -481,7 +490,8 @@ Art. 50 - O Município poderá contrair empréstimos, com a condição de não e
 
 Parágrafo único - Quando se tratar de empréstimos, ou financiamento de obras reprodutivas, ou, ainda, de serviços industriais, computar-se-á no cálculo de capacidade financeira do Município, a receita provável das taxas relativas a tais obras, ou serviços.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DOS FUNCIONÁRIOS MUNICIPAIS
 
 Art. 51 - O provimento dos cargos municipais e os direitos e deveres dos funcionários serão regulados pelo estatuto que os órgãos municipais elaborarem, observados os princípios constitucionais.
@@ -496,7 +506,8 @@ Parágrafo único - O provimento de cargos será feito pelo Prefeito.
 
 Art. 54 - A legalidade dos contratos, aposentadorias, ou reformas dos servidores do Município será julgada pelo Tribunal de Contas do Estado.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DA REPRESENTAÇÃO DA FAZENDA MUNICIPAL
 
 Art. 55 - A Fazenda Municipal será representada em Juízo ou extra judicialmente, pelos Procuradores do Município.
@@ -519,7 +530,8 @@ Art. 60 - Sempre que o interesse público exigir e independentemente dos serviç
 
 Art. 61 - As percentagens da dívida ativa, atribuídas aos funcionários e Procuradores, deixarão de ser pagas quando o recolhimento do débito respectivo se verificar em virtude de intervenção direta e ordem do Prefeito, ou no uso previsto no artigo anterior.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DOS IMPOSTOS E SEU LANÇAMENTO
 
 Art. 62 - A administração financeira assegurará os recursos para a manutenção dos serviços públicos e o custeio das necessidades gerais do Município.
@@ -580,7 +592,8 @@ Art. 76 - Ninguém será obrigado ao pagamento de quaisquer impostos ou contribu
 
 § 2º - Após a comunicação ou publicação de que trata o parágrafo anterior, terá o contribuinte o prazo de oito (8) dias para reclamar.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DO PLANO DA CIDADE E DO CONSELHO DE URBANISMO
 
 Art. 77 - As obras de melhoramento e urbanização da cidade obedecerá a um plano diretor elaborado pela Comissão do Plano da Cidade, de que trata a lei municipal, ou de outro escritório ou órgão técnico que a substituir, devidamente aprovado.
@@ -643,7 +656,8 @@ Art. 93 - As percentagens devidas aos auxiliares de Justiça da Vara dos Feitos 
 
 Parágrafo único - É extensivo aos representantes da Fazenda Municipal o preceituado neste artigo no que se refere aos direitos e vantagens que têm os representantes da Fazenda Estadual em decorrência do exercício de suas funções na cobrança da dívida ativa ou na defesa das causas em que o Município intervier como assistente, ou opoente.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DAS DISPOSIÇÕES TRANSITÓRIAS
 
 Art. 94 - Continuam em vigor enquanto não revogadas, todas as leis, resoluções, decretos ou regulamentos municipais, ora vigentes, desde que não contrariem implícita ou explicitamente, disposições desta lei, ou das Constituições Federal e Estadual.
@@ -776,4 +790,4 @@ LEIA-SE:
 
 Art. 100 - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
-* * *
+ *

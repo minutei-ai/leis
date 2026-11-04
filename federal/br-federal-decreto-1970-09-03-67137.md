@@ -1,5 +1,3 @@
-###DEC-067137-0-000-03-09-1970@@@
-
 decreto nº 67.137, de 3 de setembro de 1970.
 
 Declara caduco o Decreto nº 22.268, de 13 de dezembro de 1946.

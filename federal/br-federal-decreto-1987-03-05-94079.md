@@ -1,5 +1,3 @@
-###DEC-094079-0-000-05-03-1987@@@
-
 DECRETO N° 94.079, DE 05 DE MARÇO DE 1987
 
 Autoriza o funcionamento de habilitação do Curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Santo André.

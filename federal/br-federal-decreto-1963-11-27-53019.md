@@ -1,5 +1,3 @@
-###DEC-053019-0-000-27-11-1963@@@
-
 DECRETO Nº 53.019, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Geraldo Alves Motta a lavrar caulim no município de Itapecerica da Serra, Estado de São Paulo.

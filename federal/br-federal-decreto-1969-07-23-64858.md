@@ -1,5 +1,3 @@
-###DEC-064858-0-000-23-07-1969@@@
-
 DECRETO Nº 64.858 - DE 23 DE JULHO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura cargos originários da extinta Divisão de Caça e Pesca, e dá outras providências.

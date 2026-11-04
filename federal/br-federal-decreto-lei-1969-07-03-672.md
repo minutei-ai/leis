@@ -1,5 +1,3 @@
-###DEL-000672-0-000-03-07-1969@@@
-
 DECRETO-LEI Nº 672, DE 3 DE JULHO DE 1969
 
 Declara de interêsse da segurança nacional, nos têrmos do artigo 16, § 1º, alínea b, da Constituição, o Município que especifica, e dá outras providências.

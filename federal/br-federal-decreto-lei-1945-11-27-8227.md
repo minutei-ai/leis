@@ -1,5 +1,3 @@
-###DEL-008227-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.227 – DE 27 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 3.710,00 para atender à despesa com o pagamento de diferença de salário.

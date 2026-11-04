@@ -1,5 +1,3 @@
-###DEC-080180-0-000-17-08-1977@@@
-
 DECRETO N º 80.180, DE 17 DE AGOSTO DE 1997.
 
 Concede reconhecimento aos cursos de Direito, de Administração e de Ciências Contábeis, da Faculdade Anhanguera de Ciências Humanas, com sede na cidade de Goiânia, Estado de Goiás.

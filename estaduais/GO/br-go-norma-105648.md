@@ -44,7 +44,8 @@ I – se requisitados no interesse de investigação criminal ou administrativa;
 
 II – para colaboração espontânea com as autoridades competentes para apuração de infração penal ou administrativa relacionada ao uso indevido dos produtos em detrimento da vida, da integridade física ou da saúde de outrem.
 
-§ 3º Fica dispensado o cadastro de consumidores que adquirirem os produtos referenciados na alínea “e” do inciso III do art. 2º, vendidos em embalagens de até 1 kg (um quilograma).<br>
+§ 3º Fica dispensado o cadastro de consumidores que adquirirem os produtos referenciados na alínea “e” do inciso III do art. 2º, vendidos em embalagens de até 1 kg (um quilograma).
+
 \- [Acrescido pela Lei  nº 22.583, de 27-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108561/lei-22583).
 
 Art. 4º Fica proibida a venda dos produtos ácidos, cáusticos ou corrosivos regulados por esta Lei a crianças e a adolescentes, ainda que capazes de atender, em tese, às exigências previstas no art. 3º.
@@ -61,7 +62,8 @@ b) o Ministério Público;
 
 c) outros órgãos municipais e estaduais responsáveis pela proteção e defesa do consumidor e vigilância sanitária.
 
-Parágrafo único. A afixação dos cartazes informativos não é obrigatória no caso de comercialização de produtos referenciados na alínea “e” do inciso III do art. 2º, vendidos em embalagens de até 1 kg (um quilograma).<br>
+Parágrafo único. A afixação dos cartazes informativos não é obrigatória no caso de comercialização de produtos referenciados na alínea “e” do inciso III do art. 2º, vendidos em embalagens de até 1 kg (um quilograma).
+
 \- [Acrescido pela Lei nº 22.583, de 27-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108561/lei-22583).
 
 Art. 6º Sem prejuízo das sanções previstas na legislação específica, os estabelecimentos infratores ficam sujeitos às seguintes penalidades administrativas:
@@ -123,8 +125,6 @@ V – prever outras medidas com vistas a ampliar a efetividade desta Lei.
 Art. 8º Esta Lei entra em vigor após decorridos 30 (trinta) dias de sua publicação.
 
 Goiânia, 6 de junho de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

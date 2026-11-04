@@ -1,5 +1,3 @@
-###DEC-084901-0-000-14-07-1980@@@
-
 Decreto nº 84.901, de 14 de julho de 1980.
 
 Cria o Vice-Consulado do Brasil em Bernardo de Irigoyen na Argentina.

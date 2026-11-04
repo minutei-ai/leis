@@ -1,5 +1,3 @@
-###DEC-051232-0-000-22-08-1961@@@
-
 decreto nº 51.232 ,de 22 de agôsto de 1961.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional do Pará, os créditos especiais de Cr$79.112,50 e Cr$368.205,00 para fim que especifica.

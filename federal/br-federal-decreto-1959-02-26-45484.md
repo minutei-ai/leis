@@ -1,5 +1,3 @@
-###DEC-045484-0-000-26-02-1959@@@
-
 DECRETO Nº 45.484, DE 26 DE fevereiro DE 1959.
 
 Autoriza a cidadão brasileiro Ailton Borghezi a pesquisar feldspato no município de Andradas, Estado de Minas Gerais.

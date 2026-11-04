@@ -1,5 +1,3 @@
-###DEC-097546-0-000-01-03-1989@@@
-
 DECRETO N.° 97.546, DE 1° DE MARÇO DE 1989
 
 Cria, no Estado do Amazonas, a Floresta Nacional do Amazonas, com os limites que especifica e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-086875-0-000-26-01-1982@@@
-
 Decreto nº 86.875, de 26 de janeiro de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural situado no Município de Vitória do Mearim, no Estado do Maranhão, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 1º de março de 1972, alterado pelos Decretos nºs 71.195, de 4 de outubro de 1972, e 79.288, de 16 de fevereiro de 1977.

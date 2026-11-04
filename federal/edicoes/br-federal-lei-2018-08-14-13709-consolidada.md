@@ -28,7 +28,6 @@ sha256_markdown: "89970f6a38747b06ac7496da2b6ff30425ef8a5139e927484f9c2f15f813eb
 manifesto: "metadados/lgpd.json"
 contrato_versao: 1
 ---
-
 <!-- nota-edicao:inicio -->
 
 > **Edição consolidada — Câmara dos Deputados (norma atualizada).** Fonte: https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-787077-normaatualizada-pl.html (capturada em 2026-11-04T12:01:14Z, SHA-256 da fonte `5ade20f12d206504f3beb13a0595d144efc891229ad0e6badcebfa97a8a83596`). O acervo não certifica vigência.

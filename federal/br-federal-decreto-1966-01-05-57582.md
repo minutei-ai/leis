@@ -1,5 +1,3 @@
-###DEC-057582-0-000-05-01-1966@@@
-
 decreto nº 57.582, de 5 de janeiro de 1966.
 
 Concede reconhecimento à Escola de Engenharia Industrial da Universidade Católica de Petrópolis.

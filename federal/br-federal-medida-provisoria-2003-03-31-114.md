@@ -1,5 +1,3 @@
-###MPV-000114-0-000-31-03-2003@@@
-
 MEDIDA PROVISÓRIA Nº 114, DE 31 DE MARÇO 2003.
 
 Dispõe sobre a repactuação e o alongamento de dívidas oriundas de operações de crédito rural contratadas sob a égide do Programa Especial de Crédito para a Reforma Agrária \- PROCERA, do Programa Nacional de Fortalecimento da Agricultura Familiar \- PRONAF, ou de outras fontes de recursos, por agricultores familiares, mini e pequenos agricultores, suas associações e cooperativas, e dá outras providências.

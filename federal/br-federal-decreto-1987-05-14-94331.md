@@ -1,5 +1,3 @@
-###DEC-094331-0-000-14-05-1987@@@
-
 DECRETO Nº 94.331, DE 14 DE MAIO DE 1987
 
 Dispõe sobre a estrutura básica do Instituto Nacional de Colonização e Reforma Agrária - INCRA e dá outras providências.

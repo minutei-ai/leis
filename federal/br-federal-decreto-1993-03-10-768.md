@@ -1,7 +1,3 @@
-1
-
-###DEC-000768-0-000-10-03-1993@@@
-
 DECRETO N° 768, DE 10 DE MARÇO DE 1993
 
 Transforma Unidades Aéreas do Ministério da Aeronáutica e dá outras providências.

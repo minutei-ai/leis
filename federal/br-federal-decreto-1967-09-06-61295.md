@@ -1,5 +1,3 @@
-###DEC-061295-0-000-06-09-1967@@@
-
 DECRETO Nº 61.295, DE 6 DE SETEMBRO DE 1967.
 
 Permite o uso nos uniformes militares da condecoração da “Ordem de Rio Branco”.

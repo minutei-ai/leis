@@ -1,5 +1,3 @@
-###DEC-055877-0-000-30-03-1965@@@
-
 DECRETO Nº 55.877, DE 30 DE MARÇO DE 1965.
 
 Cria o Serviço de Ginecologia e Cirurgia Pélvica Feminina no Instituto Fernandes Figueira do Departamento Nacional da Criança.

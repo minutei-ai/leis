@@ -1,5 +1,3 @@
-###MPV-001589-0-000-24-09-1997@@@
-
 # mEDIDA PROVISóRIA Nº 1.589, DE 24 DE SETEMBRO DE 1997
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074022-0-000-08-05-1974@@@
-
 DECRETO Nº 74.022, DE 8 DE MAIO DE 1974.
 
 Altera o Decreto nº 54.767, de 30 de outubro de 1964, que dispõe sobre a organização e funcionamento dos Conselhos de Contribuintes do Ministério da Fazenda.

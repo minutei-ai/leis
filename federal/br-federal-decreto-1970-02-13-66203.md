@@ -1,5 +1,3 @@
-###DEC-066203-0-000-13-02-1970@@@
-
 DECRETO Nº 66.203 - DE 13 DE FEVEREIRO DE 1970
 
 Cria o Consulado honorário do Brasil em Amã, Reino Hachemita da Jordânia.

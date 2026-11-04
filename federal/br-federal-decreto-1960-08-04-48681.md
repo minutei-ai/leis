@@ -1,5 +1,3 @@
-###DEC-048681-0-000-04-08-1960@@@
-
 DECRETO Nº 48.681, DE 04 DE AGÔSTO DE 1960.
 
 Autoriza Edgur Pedro Coletti, a comprar pedras preciosas.

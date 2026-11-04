@@ -1,5 +1,3 @@
-###DEC-074403-0-000-13-08-1974@@@
-
 DECRETO Nº 74.403 - DE 13 DE AGOSTO DE 1974.
 
 Concede à Ferro de Belo Horizonte S.A. - FERROBEL o direito de lavrar minério de ferro no Município de Belo Horizonte, Estado de Minas Gerais.

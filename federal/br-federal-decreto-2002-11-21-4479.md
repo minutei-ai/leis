@@ -1,5 +1,3 @@
-###DEC-004479-0-000-21-11-2002@@@
-
 DECRETO Nº 4.479, DE 21 DE NOVEMBRO DE 2002
 
 Dispõe sobre o empenho de dotações orçamentárias e procedimentos de contratação e licitação, no âmbito do Poder Executivo, no exercício de 2002.

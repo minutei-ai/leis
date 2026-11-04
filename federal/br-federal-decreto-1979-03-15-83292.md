@@ -1,5 +1,3 @@
-###DEC-083292-0-000-15-03-1979@@@
-
 DECRETO Nº 83.292, DE 15 DE MARÇO DE 1979.
 
 Dá nova redação ao artigo 1º do Decreto nº 65 683, de 31 de outubro de 1969, que regulamenta o Decreto-lei nº 1.066, de 29 de outubro de 1969, que organiza os Serviços Administrativos da Vice-Presidência da República.

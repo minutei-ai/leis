@@ -1,5 +1,3 @@
-###DEC-004708-0-000-28-05-2003@@@
-
 DECRETO Nº 4.708, DE 28 DE MAIO DE 2003.
 
        Altera os Anexos I, II, III, IV, V, VI, VII, XII, XIII e XIV, e os arts. 1o e 7o do Decreto no 4.591, de 10 de fevereiro de 2003, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 2003, e dá outras providências.
@@ -40,6 +38,8 @@ b) R$ 700.000.000,00 (setecentos milhões de reais) no caso dos Anexos IV, V, V
 
 Brasília, 28 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
 Guido Mantega

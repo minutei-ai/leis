@@ -1,5 +1,3 @@
-###DEC-055468-0-000-05-01-1965@@@
-
 DECRETO Nº 55.468, DE 5 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Humberto da Veiga Sampaio a lavrar calcário no município de Ilhéus, no Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-059780-0-000-16-12-1966@@@
-
 DECRETO Nº 59.780, DE 16 DE DEZEMBRO DE 1966.
 
 Concede à Mineração Nossa Senhora de Nazaré autorização para funcionar como emprêsa de mineração.

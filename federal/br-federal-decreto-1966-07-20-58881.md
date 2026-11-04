@@ -1,5 +1,3 @@
-###DEC-058881-0-000-20-07-1966@@@
-
 DECRETO Nº 58.881, de 20 de julho de 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer imposto e taxas federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos, e consignados à emprêsa “Tintas Reflex do Nordeste S. A.”, do Recife (Pe).
@@ -14,7 +12,65 @@ decreta:
 
 Art.1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer imposto e taxas federais, a importação de equipamentos novos, sem similar nacional registrados, a seguir descritos, e consignados à emprêsa “Tintas Reflex do Nordeste S. A.”, de Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>a ser importada</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Moinho vertical de três cilindros, hidráulicos, de alta produção para tintas, fabricação da “Veb Maschinenfabrik Heidenau”, modêlo 813-NVH, equipados com todos os seus pertences, porém sem motor elétrico. Pêso bruto 3.850 kg .......................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>13.900</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Moinho monocilindrico de alta produção para tintas, fabricação da “Veb Maschinenfabrik Heidenau”, modêlo 603-A, equipado com todos os pertences normais, porém sem motor elétrico. Pêso bruto 1.760 Kg .........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.790</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Misturador amassadeira planetário para tintas marca “VEB”, modelo 191-DH, equipado com todos os seus pertences normais mas sem motor elétrico ...............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.150</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Moinho de bolas de porcelanas de tambor sem reentrâncias</span><span style="-aw-import:spaces">&nbsp; </span><span>ou saliências internas, paredes de cerâmicas endurecidas para resistir a desgastes, descarga por cesta para bolas. Fornecida com a armação, 3.750 bolas de 40 mm de diâmetro ou 950 de 63 mm, mas sem motor ...........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.087</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Moinho de três cilindros para laboratório, marca “VEB”, modêlo 2-b, equipado com depósito para tintas, calha e faca de raspagem, porém, sem motor ..............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>800</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:276.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ......................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>23.727</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade
+
+a ser importada
+
+Valor
+
+Total
+
+CIF US$
+
+1
+
+Moinho vertical de três cilindros, hidráulicos, de alta produção para tintas, fabricação da “Veb Maschinenfabrik Heidenau”, modêlo 813-NVH, equipados com todos os seus pertences, porém sem motor elétrico. Pêso bruto 3.850 kg .......................
+
+2
+
+13.900
+
+2
+
+Moinho monocilindrico de alta produção para tintas, fabricação da “Veb Maschinenfabrik Heidenau”, modêlo 603-A, equipado com todos os pertences normais, porém sem motor elétrico. Pêso bruto 1.760 Kg .........................................
+
+2
+
+5.790
+
+3
+
+Misturador amassadeira planetário para tintas marca “VEB”, modelo 191-DH, equipado com todos os seus pertences normais mas sem motor elétrico ...............................................
+
+1
+
+2.150
+
+4
+
+Moinho de bolas de porcelanas de tambor sem reentrâncias  ou saliências internas, paredes de cerâmicas endurecidas para resistir a desgastes, descarga por cesta para bolas. Fornecida com a armação, 3.750 bolas de 40 mm de diâmetro ou 950 de 63 mm, mas sem motor ...........................................
+
+1
+
+1.087
+
+5
+
+Moinho de três cilindros para laboratório, marca “VEB”, modêlo 2-b, equipado com depósito para tintas, calha e faca de raspagem, porém, sem motor ..............................................
+
+1
+
+800
+
+TOTAL ......................................................................................
+
+-
+
+23.727
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

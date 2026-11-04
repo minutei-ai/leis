@@ -1,5 +1,3 @@
-###DEC-004460-0-000-05-11-2002@@@
-
 DECRETO Nº 4.460, DE 5 DE NOVEMBRO DE 2002
 
 Promulga o Acordo sobre Transporte Fluvial Transversal Fronteiriço de Passageiros, Veículos e Cargas entre a República Federativa do Brasil e a República Argentina, celebrado no Rio de Janeiro, em 27 de abril de 1997.

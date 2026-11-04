@@ -1,5 +1,3 @@
-###DEC-072189-0-000-08-05-1973@@@
-
 DECRETO Nº 72.189, DE 8 DE MAIO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro, e dá outras providências.

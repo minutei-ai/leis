@@ -1,5 +1,3 @@
-###DEC-080289-0-000-05-09-1977@@@
-
 DECRETO Nº 80.289, DE 5 DE SETEMBRO DE 1977.
 
 Concede à Mineração Geral do Nordeste S. A. o direito de lavrar magnetita no Município de Arapiraca, Estado de Alagoas.

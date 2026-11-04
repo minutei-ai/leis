@@ -1,5 +1,3 @@
-###DEC-052374-0-000-19-08-1963@@@
-
 Decreto Nº 52.374, DE 19 DE Agôsto DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Rio - Grandense de Seguros.

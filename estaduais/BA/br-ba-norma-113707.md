@@ -1,6 +1,7 @@
 LEI Nº 1.019 DE 14 DE AGOSTO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.364](https://www.legislabahia.ba.gov.br/documentos/lei-no-13364-de-29-de-junho-de-2015#LO%2013.364) de 29 de junho de 2015 - Atualiza, na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos municípios de Água Fria, Anguera, Antônio Cardoso, Conceição da Feira, Coração de Maria, Ipecaetá, Irará, Santa Bárbara, Santanópolis, Santo Estêvão, Tanquinho, Teodoro Sampaio e Terra Nova.
 
 Restabelece o município de Tanquinho e dá outras providências.
@@ -59,4 +60,4 @@ Luiz de Moura Bastos
 
 Jorge Fernandes Figueira
 
-* * *
+ *

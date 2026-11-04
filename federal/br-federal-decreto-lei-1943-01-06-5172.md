@@ -1,5 +1,3 @@
-###DEL-005172-0-000-06-01-1943@@@
-
 DECRETO‑LEI N. 5.172 – DE 6 DE JANEIRO DE 1943
 
 Cria a 1ª Companhia de Engenhos da 1ª Divisão de Infantaria

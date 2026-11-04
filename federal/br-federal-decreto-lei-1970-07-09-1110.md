@@ -1,5 +1,3 @@
-###DEL-001110-0-000-09-07-1970@@@
-
 # DECRETO-LEI Nº 1.110, DE 9 DE JULHO DE 1970
 
 Cria o Instituto Nacional de Colonização e Reforma Agrária (INCRA), extingue o Instituto Brasileiro de Reforma Agrária, o Instituto Nacional de Desenvolvimento Agrário e o Grupo Executivo da Reforma Agrária e dá outras providências.

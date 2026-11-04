@@ -1,5 +1,3 @@
-###DEC-058605-0-000-14-06-1966@@@
-
 decreto nº 58.605, de 14 de junho de 1966.
 
 Dispõe sôbre a atualização dos valores das multas previstas na legislação especial e econômica canavieira, na forma do art. 42, da Lei nº 4.870, de 1º de dezembro de 1965.

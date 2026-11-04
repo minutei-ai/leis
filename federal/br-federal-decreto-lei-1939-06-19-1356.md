@@ -1,5 +1,3 @@
-###DEL-001356-0-000-19-06-1939@@@
-
 DECRETO-LEI N. 1.356 – DE 19 DE JUNHO DE 1939
 
 Destina ao Corpo de Bombeiros do Distrito Federal, dois terrenos pertencentes ao Patrimônio da Prefeitura do Distrito Federal

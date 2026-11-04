@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/171145)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2013/compilacao-lei-15125-01.10.2013.html)
 
 # LEI N° 15.125, DE 01 DE OUTUBRO DE 2013

@@ -1,5 +1,3 @@
-###DEC-091577-0-000-28-08-1985@@@
-
 Decreto nº 91.577, de 28 de agosto de 1985
 
 Altera a redação de dispositivos do Estatuto da Fundação Legião Brasileira de Assistência - LBA, aprovado pelo Decreto nº 83.148, de 08 de fevereiro de 1979, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-044954-0-000-01-12-1958@@@
-
 DECRETO Nº 44.954, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Oscar Silveira Ledo a pesquisar diamante no Município de Itupiranga, Estado do Pará.

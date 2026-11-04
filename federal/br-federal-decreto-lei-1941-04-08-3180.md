@@ -1,5 +1,3 @@
-###DEL-003180-0-000-08-04-1941@@@
-
 DECRETO-LEI N. 3.180 – DE 8 DE ABRIL DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 19:063$2, para pagamento de salários ao Dr. Atílio Sfredo e outros.

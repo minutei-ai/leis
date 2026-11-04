@@ -1,7 +1,3 @@
-1
-
-###DEC-000807-0-000-24-04-1993@@@
-
 DECRETO N° 807, DE 24 DE ABRIL DE 1993
 
 Institui o Conselho Nacional de Segurança Alimentar CONSEA e dá outras providências.

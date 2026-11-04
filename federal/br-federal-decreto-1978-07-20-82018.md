@@ -1,5 +1,3 @@
-###DEC-082018-0-000-20-07-1978@@@
-
 Decreto nº 82.018, de 20 de julho de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

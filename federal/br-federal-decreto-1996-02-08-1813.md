@@ -1,5 +1,3 @@
-###DEC-001813-0-000-08-02-1996@@@
-
 DECRETO Nº 1.813, DE 8 DE FEVEREIRO DE 1996
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que enumera.

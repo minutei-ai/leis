@@ -1,5 +1,3 @@
-###DEL-007265-0-000-24-01-1945@@@
-
 DECRETO-LEI N. 7.265 – DE 24 DE JANEIRO DE 1945
 
 Cria uma taxa para financiamento dos serviços da Comissão Executiva Têxtil

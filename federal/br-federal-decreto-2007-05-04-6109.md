@@ -1,5 +1,3 @@
-###DEC-006109-0-000-04-05-2007@@@
-
 DECRETO Nº 6.109, DE 4 DE MAIO DE 2007.
 
 Promulga a Ata Constitutiva da Associação de Estados Ibero-Americanos para o Desenvolvimento das Bibliotecas Nacionais dos Países Ibero-Americanos - ABINIA.
@@ -24,11 +22,7 @@ Brasília, 4 de  maio de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 7.5.2007.
-
-ATA CONSTITUTIVA DA ASSOCIAÇÃO DE ESTADOS
+Celso Luiz Nunes AmorimATA CONSTITUTIVA DA ASSOCIAÇÃO DE ESTADOS
 
 IBERO-AMERICANOS PARA O DESENVOLVIMENTO
 

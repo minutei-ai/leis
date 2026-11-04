@@ -22,17 +22,20 @@ b) implementem programas de treinamento especializado de pessoal em substituiç�
 
 c) não causem problemas de poluição de qualquer natureza, observados os limites estabelecidos em Lei, de acordo com parecer expedido, na ocasião, pelo Conselho Estadual de Proteção Ambiental - CEPRAM.
 
-Redação de acordo com o art. 1º da Lei nº 4.003, de 05 de janeiro de 1982.<br>
+Redação de acordo com o art. 1º da Lei nº 4.003, de 05 de janeiro de 1982.
+
 Redação original: "§ 1º - A liberação dos depósitos a que se refere este artigo dependerá, na forma regulamentar, da aprovação de projeto de investimento pelo Conselho de Desenvolvimento Industrial."
 
 § 2º - Os recursos depositados no Banco de Desenvolvimento do Estado da Bahia S/A - DESENBANCO, provenientes da redução tributária, serão movimentados por autorização do Conselho de Desenvolvimento Industrial, para aplicação em planos de investimento, considerados importantes para a melhoria da produtividade, expansão da capacidade produtiva do parque industrial do Estado, controle da poluição ambiental e utilização de substitutivos energéticos não derivados de petróleo".
 
-Redação de acordo com o art. 2º da Lei nº 4.003, de 05 de janeiro de 1982.<br>
+Redação de acordo com o art. 2º da Lei nº 4.003, de 05 de janeiro de 1982.
+
 Redação original: "§ 2º - Dos depósitos liberados 10% deverão ser utilizados na subscrição de ações do capital do Banco de Desenvolvimento do Estado da Bahia S/A - DESENBANCO, na forma que vier a ser traçada pelo regulamento desta Lei."
 
 § 3º - O Banco de Desenvolvimento do Estado da Bahia S/A corrigirá, mensalmente, a partir de 01 de janeiro de 1988, com base no índice de variação do valor das OTN's - Obrigações do Tesouro Nacional, ou em outro que legalmente o substituir, o saldo médio dos depósitos que ultrapassar o saldo médio dos empréstimos de que trata o Art. 429 do Regulamento aprovado pelo Decreto nº 28.593, de 30 de dezembro de 1981.
 
-Redação de acordo com a Lei nº 4.813, de 23 de dezembro de 1988.<br>
+Redação de acordo com a Lei nº 4.813, de 23 de dezembro de 1988.
+
 Redação anterior de acordo com o art. 3º da Lei nº 4.003, de 05 de janeiro de 1982, que acresceu este parágrafo ao art. 4º: "§ 3º - Dos depósitos liberados, 10% deverão ser utilizados na subscrição de ações do capital do Banco de Desenvolvimento do Estado da Bahia S/A - DESENBANCO, na forma que vier a ser traçada pelo Regulamento desta Lei."
 
 § 4º - O produto da correção monetária será, creditado ao Estado da Bahia, no Banco de Desenvolvimento do Estado da Bahia S/A, em conta específica denominada "Estado da Bahia - Correção dos Depósitos da Lei nº 2.990/71", na qual será lançado também o valor da correção monetária do saldo que a mesma conta apresentar mensalmente, calculado de conformidade com o índice acima referido.

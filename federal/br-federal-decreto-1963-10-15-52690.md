@@ -1,5 +1,3 @@
-###DEC-052690-0-000-15-10-1963@@@
-
 DECRETO Nº 52.690, DE 15 DE OUTUBRO DE 1963.
 
 Altera disposições do decreto nº 52.449, de 4 de setembro de 1963.

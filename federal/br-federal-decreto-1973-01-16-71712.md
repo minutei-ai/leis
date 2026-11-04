@@ -1,5 +1,3 @@
-###DEC-071712-0-000-16-01-1973@@@
-
 DECRETO Nº 71.712, DE 16 DE JANEIRO DE 1973.
 
 Autoriza a reversão, ao patrimônio do Município de Gurarapes, Estado de São Paulo, do terreno que menciona.

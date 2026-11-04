@@ -1,5 +1,3 @@
-###DEC-073806-0-000-12-03-1974@@@
-
 DECRETO Nº 73.806, DE 12 DE MARÇO DE 1974.
 
 Autoriza a Banca Comercialle Italiana a funcionar no País

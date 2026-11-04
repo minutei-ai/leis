@@ -1,5 +1,3 @@
-###DEL-004331-0-000-23-05-1942@@@
-
 DECRETO-LEI N. 4.331 – DE 23 DE MAIO DE 1942
 
 Dispõe sobre a Diretoria de Aeronáutica Civil e dá outras providências

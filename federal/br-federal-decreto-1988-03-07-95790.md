@@ -1,7 +1,3 @@
-1
-
-###DEC-095790-0-000-07-03-1988@@@
-
 DECRETO N° 95.790, DE 7 DE MARÇO DE 1988
 
 Dispõe sobre o aumento do capital social da Centrais Elétricas Brasileiras S.A.- ELETROBRÁS.

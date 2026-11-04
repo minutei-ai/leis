@@ -1,5 +1,3 @@
-###DEC-058468-0-000-17-05-1966@@@
-
 decreto nº 58.468, de 17 de maio de 1966.
 
 Autoriza o cidadão brasileiro Antônio Corrêa Sobrinho a pesquisar calcário, no município de Sete Lagoas, Estado de Minas Gerais.

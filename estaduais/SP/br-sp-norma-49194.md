@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/49194)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2003/compilacao-lei-11608-29.12.2003.html)
 
 # LEI N° 11.608, DE 29 DE DEZEMBRO DE 2003
@@ -7,7 +6,8 @@
 
 ### _Dispõe sobre a Taxa Judiciária incidente sobre os serviços públicos de natureza forense._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
 #### CAPÍTULO I
@@ -20,20 +20,34 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
 _\- Artigo 1° com redação dada pela [Lei n° 17.785, de 03/10/2023](https://www.al.sp.gov.br/norma/208627)._
 
-**Artigo 2° -** A taxa judiciária abrange todos os atos processuais, inclusive os relativos aos serviços de distribuidor, contador, partidor, de hastas públicas, da Secretaria dos Tribunais, bem como as despesas com registros, intimações e publicações na Imprensa Oficial.**<br>
-Parágrafo único -** Na taxa judiciária não se incluem:<br>
-**I -** as publicações de editais;<br>
-**II -** as despesas com o porte de remessa e de retorno dos autos, no caso de recurso, cujo valor será estabelecido por ato do Conselho Superior da Magistratura;<br>
-**III -** as despesas postais com citações e intimações;<br>
-**IV -** a comissão dos leiloeiros e assemelhados;<br>
-**V -** a expedição de certidão, cartas de sentença, de arrematação, de adjudicação ou de remição, e a reprodução de peças do processo, cujos custos serão fixados periodicamente pelo Conselho Superior da Magistratura;<br>
-**VI -** a remuneração do perito, assistente técnico, avaliador, depositário, tradutor, intérprete e administrador;<br>
-**VII -** a indenização de viagem e diária de testemunha;<br>
-**VIII -** as consultas de andamento dos processos por via eletrônica, ou da informática;<br>
-**IX -** as despesas de diligências dos Oficiais de Justiça, salvo em relação aos mandados:<br>
-**a)** expedidos de ofício;<br>
-**b)** requeridos pelo Ministério Público;<br>
-**c)** do interesse de beneficiário de assistência judiciária;<br>
+**Artigo 2° -** A taxa judiciária abrange todos os atos processuais, inclusive os relativos aos serviços de distribuidor, contador, partidor, de hastas públicas, da Secretaria dos Tribunais, bem como as despesas com registros, intimações e publicações na Imprensa Oficial.**
+
+Parágrafo único -** Na taxa judiciária não se incluem:
+
+**I -** as publicações de editais;
+
+**II -** as despesas com o porte de remessa e de retorno dos autos, no caso de recurso, cujo valor será estabelecido por ato do Conselho Superior da Magistratura;
+
+**III -** as despesas postais com citações e intimações;
+
+**IV -** a comissão dos leiloeiros e assemelhados;
+
+**V -** a expedição de certidão, cartas de sentença, de arrematação, de adjudicação ou de remição, e a reprodução de peças do processo, cujos custos serão fixados periodicamente pelo Conselho Superior da Magistratura;
+
+**VI -** a remuneração do perito, assistente técnico, avaliador, depositário, tradutor, intérprete e administrador;
+
+**VII -** a indenização de viagem e diária de testemunha;
+
+**VIII -** as consultas de andamento dos processos por via eletrônica, ou da informática;
+
+**IX -** as despesas de diligências dos Oficiais de Justiça, salvo em relação aos mandados:
+
+**a)** expedidos de ofício;
+
+**b)** requeridos pelo Ministério Público;
+
+**c)** do interesse de beneficiário de assistência judiciária;
+
 **d)** expedidos nos processos referidos no Artigo 5°, incisos I a IV;
 
 ~~**X -** todas as demais despesas que não correspondam aos serviços relacionados no "caput" deste artigo.~~
@@ -116,9 +130,12 @@ _\- Inciso III com redação dada pela [Lei n° 17.785, de 03/10/2023](https://w
 
 _\- Inciso IV acrescentado pela [Lei n° 17.785, de 03/10/2023](https://www.al.sp.gov.br/norma/208627)._
 
-**§ 1° -** Os valores mínimo e máximo a recolher-se, em cada uma das hipóteses previstas nos incisos anteriores, equivalerão a  5 (cinco) e a 3.000 (três mil) UFESPs - Unidades Fiscais do Estado de São Paulo, respectivamente, segundo o valor de cada UFESP vigente no primeiro dia do mês em que deva ser feito o recolhimento.<br>
-**§ 2° -** Nas hipóteses de pedido condenatório, o valor do preparo a que se refere o inciso II, será calculado sobre o valor fixado na sentença, se for líquido, ou, se ilíquido, sobre o valor fixado eqüitativamente para esse fim, pelo MM. Juiz de Direito, de modo a viabilizar o acesso à Justiça, observado o disposto no § 1°.<br>
-**§ 3° -** Nas cartas de ordem e nas cartas precatórias, além de outras despesas ressalvadas no parágrafo único do Artigo 2°, o valor da taxa judiciária será de 10 (dez) UFESPs.<br>
+**§ 1° -** Os valores mínimo e máximo a recolher-se, em cada uma das hipóteses previstas nos incisos anteriores, equivalerão a  5 (cinco) e a 3.000 (três mil) UFESPs - Unidades Fiscais do Estado de São Paulo, respectivamente, segundo o valor de cada UFESP vigente no primeiro dia do mês em que deva ser feito o recolhimento.
+
+**§ 2° -** Nas hipóteses de pedido condenatório, o valor do preparo a que se refere o inciso II, será calculado sobre o valor fixado na sentença, se for líquido, ou, se ilíquido, sobre o valor fixado eqüitativamente para esse fim, pelo MM. Juiz de Direito, de modo a viabilizar o acesso à Justiça, observado o disposto no § 1°.
+
+**§ 3° -** Nas cartas de ordem e nas cartas precatórias, além de outras despesas ressalvadas no parágrafo único do Artigo 2°, o valor da taxa judiciária será de 10 (dez) UFESPs.
+
 **§ 4° -** O Conselho Superior da Magistratura baixará Provimento fixando os valores a serem recolhidos para cobrir as despesas postais, para fins de citação e intimação, bem como com o porte de remessa e de retorno dos autos, no caso de interposição de recurso, como previsto no Artigo 511 do Código de Processo Civil.
 
 ~~**§ 5° -** A petição do agravo de instrumento deverá ser instruída com o comprovante do pagamento da taxa judiciária correspondente a 10 (dez) UFESPs e do porte de retorno, fixado na forma do parágrafo anterior, nos termos do § 1° do Artigo 525 do Código de Processo Civil.~~
@@ -127,7 +144,8 @@ _\- Inciso IV acrescentado pela [Lei n° 17.785, de 03/10/2023](https://www.al.s
 
 _\- § 5° com redação dada pela [Lei n° 17.785, de 03/10/2023](https://www.al.sp.gov.br/norma/208627)._
 
-**§ 6° -** Na ação popular, a taxa será paga a final (Artigo 10 da Lei Federal n° 4.717, de 29 de junho de 1965) e, na ação civil pública, na forma prevista no Artigo 18 da Lei n° 7.347, de 24 de julho de 1985.<br>
+**§ 6° -** Na ação popular, a taxa será paga a final (Artigo 10 da Lei Federal n° 4.717, de 29 de junho de 1965) e, na ação civil pública, na forma prevista no Artigo 18 da Lei n° 7.347, de 24 de julho de 1985.
+
 **§ 7° -** Nos inventários, arrolamentos e nas causas de separação judicial e de divórcio, e outras, em que haja partilha de bens ou direitos, a taxa judiciária será recolhida antes da adjudicação ou da homologação da partilha, observado o disposto no § 2° do Artigo 1.031, do Código de Processo Civil, de acordo com a seguinte tabela, considerado o valor total dos bens que integram o monte mor, inclusive a meação do cônjuge supérstite, nos inventários e arrolamentos:                        
 
                                 **1 - até R$ 50.000,00...................................................10 UFESPs**
@@ -198,7 +216,8 @@ _\- § 13 acrescentado pela [Lei n° 17.785, de 03/10/2023](https://www.al.sp.go
 
 #### Das Disposições Finais
 
-**Artigo 8° -** Alterado para mais o valor da causa, a diferença da taxa será recolhida em até 30 (trinta) dias.**<br>
+**Artigo 8° -** Alterado para mais o valor da causa, a diferença da taxa será recolhida em até 30 (trinta) dias.**
+
 Parágrafo único -** O recolhimento da diferença da taxa será diferido para final quando comprovada, por meio idôneo, a impossibilidade financeira de seu recolhimento, ainda que parcial, no prazo referido no "caput" deste artigo.
 
 ~~Artigo 9° - Do montante da taxa judiciária arrecadada, 10% (dez por cento) serão destinados ao custeio das diligências dos Oficiais de Justiça indicadas no inciso IX do parágrafo único do Artigo 2° desta lei, e 21% (vinte e um por cento), ao Fundo Especial de Despesa do Tribunal de Justiça instituído pela [Lei n° 8.876, de 2 de setembro de 1994](https://www.al.sp.gov.br/norma/12762), e 9% (nove por cento) distribuídos, em partes iguais, aos Fundos Especiais de Despesas do Primeiro Tribunal de Alçada Civil, do Segundo Tribunal de Alçada Civil e do Tribunal de Alçada Criminal, instituídos pela [Lei n° 9.653, de 14 de maio de 1997](https://www.al.sp.gov.br/norma/9066), para expansão, aperfeiçoamento e modernização do Poder Judiciário do Estado.~~
@@ -249,15 +268,26 @@ _\- Artigo 10 revogado pela [Lei n° 16.788, de 04/07/2018](https://www.al.sp.go
 
 _\- Artigo 11 revogado pela [Lei n° 16.788, de 04/07/2018](https://www.al.sp.gov.br/norma/186935), com efeitos a partir de 01/03/2018._
 
-**Artigo 12 -** Esta lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1° de janeiro de 2004, revogadas  as disposições em contrário, em especial as contidas nas Leis n°s. 4.476, de 20 de dezembro de 1984, e 4.952, de 27 de dezembro de 1985.<br>
-Palácio dos Bandeirantes, 29 de dezembro de 2003.<br>
-GERALDO ALCKMIN<br>
-Alexandre de Moraes<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Eduardo Refinetti Guardia<br>
-Secretário da Fazenda<br>
-Andrea Sandro Calabi<br>
-Secretário de Economia e Planejamento<br>
-Arnaldo Madeira<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 12 -** Esta lei entra em vigor na data de sua publicação e produzirá efeitos a partir de 1° de janeiro de 2004, revogadas  as disposições em contrário, em especial as contidas nas Leis n°s. 4.476, de 20 de dezembro de 1984, e 4.952, de 27 de dezembro de 1985.
+
+Palácio dos Bandeirantes, 29 de dezembro de 2003.
+
+GERALDO ALCKMIN
+
+Alexandre de Moraes
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Eduardo Refinetti Guardia
+
+Secretário da Fazenda
+
+Andrea Sandro Calabi
+
+Secretário de Economia e Planejamento
+
+Arnaldo Madeira
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 29 de dezembro de 2003.

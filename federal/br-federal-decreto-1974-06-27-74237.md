@@ -1,5 +1,3 @@
-###DEC-074237-0-000-27-06-1974@@@
-
 DECRETO Nº 74.237, DE 27 DE JUNHO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas Dom Bosco, mantida pela Associação Educacional Dom Bosco, com sede na Cidade de Resende, Estado do Rio de Janeiro.

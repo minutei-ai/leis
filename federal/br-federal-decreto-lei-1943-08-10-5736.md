@@ -1,5 +1,3 @@
-###DEL-005736-0-000-10-08-1943@@@
-
 DECRETO-LEI N. 5.736 – DE 10 DE AGÔSTO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de  Cr$ 280.000,00 para classificação de despesa

@@ -1,5 +1,3 @@
-###MPV-001734-0-023-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.734-23, DE 13 DE JANEIRO DE 1999
 
 Estabelece multa em operações de importação e dá outras providências.

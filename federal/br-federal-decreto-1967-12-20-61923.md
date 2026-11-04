@@ -1,5 +1,3 @@
-###DEC-061923-0-000-20-12-1967@@@
-
 DECRETO Nº 61.923, DE 20 DE DEZEMBRO DE 1967.
 
 Homologa os trabalhos de arrolamento e avaliação das embarcações sob a gestão e guarda da Cia. de Navegação Lloyd Brasileiro.

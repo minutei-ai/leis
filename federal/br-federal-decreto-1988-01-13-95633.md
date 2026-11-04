@@ -1,7 +1,3 @@
-1
-
-###DEC-095633-0-000-13-01-1988@@@
-
 DECRETO N° 95.633, DE 13 DE JANEIRO DE 1988
 
 Outorga concessão à EMPRESA CAPONENSE DE RADIODIFUSÃO AM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Capão da Canoa, Estado do Rio Grande do Sul.

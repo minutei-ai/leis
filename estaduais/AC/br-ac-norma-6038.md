@@ -1,6 +1,10 @@
 > **LEI Nº 4.348, DE 23 DE ABRIL DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.532, de 30 de outubro de 2019, que dispõe sobre a distribuição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS aos municípios, para tratar do funcionamento do Conselho Deliberativo do Índice de Participação dos Municípios no ICMS - CODIP/ICMS.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.532, de 30 de outubro de 2019, que dispõe sobre a distribuição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS aos municípios, para tratar do funcionamento do Conselho Deliberativo do Índice de Participação dos Municípios no ICMS - CODIP/ICMS.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

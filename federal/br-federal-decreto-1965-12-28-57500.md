@@ -1,5 +1,3 @@
-###DEC-057500-0-000-28-12-1965@@@
-
 DECRETO Nº 57.500, DE 28 de dezEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro José da Mata Melo a pesquisar água mineral no município de Frutal, Estado de Minas Gerais.

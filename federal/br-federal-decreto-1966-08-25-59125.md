@@ -1,5 +1,3 @@
-###DEC-059125-0-000-25-08-1966@@@
-
 DECRETO Nº 59.125, DE 25 DE AGÔSTO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Companhia de Tecidos Paulistas”, de Paulista (PE).
@@ -14,7 +12,37 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Companhia de Tecidos Paulista”, de Paulista (PE)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidadea ser importada</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Máquina completa para estampar tecidos, marca “ELITEX”, com cilindros para 10 côres, e equipamento “WARD LEONARD” completo inclusive “MANSARD” de secagem, de fabricação e exportação da firma “KOVOT LTD”; de PRAGA - Tchecoslováquia.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Pêso líquido 38.420 KG .........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>63.287</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Máquina automática para atar fios de urdume, marca “TITAN” modêlo GK-6-B, com equipamento completo, de fabricação e exportação de “TITAN”, de Copenhague - Dinamarca.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Pêso líquido 395 Kg ...............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.306</span></p></td></tr><tr><td style="width:31.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ....................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>69.593</span></p></td></tr></tbody></table>
+Item
+
+ESPECIFICAÇÃO
+
+Quantidadea ser importada
+
+Valor Total CIF US$
+
+1
+
+Máquina completa para estampar tecidos, marca “ELITEX”, com cilindros para 10 côres, e equipamento “WARD LEONARD” completo inclusive “MANSARD” de secagem, de fabricação e exportação da firma “KOVOT LTD”; de PRAGA - Tchecoslováquia.
+
+Pêso líquido 38.420 KG .........................................................
+
+1
+
+63.287
+
+2
+
+Máquina automática para atar fios de urdume, marca “TITAN” modêlo GK-6-B, com equipamento completo, de fabricação e exportação de “TITAN”, de Copenhague - Dinamarca.
+
+Pêso líquido 395 Kg ...............................................................
+
+1
+
+6.306
+
+TOTAL ....................................................................................
+
+69.593
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-077264-0-000-08-03-1976@@@
-
 DECRETO Nº 77.264, DE 8 DE MARÇO DE 1976.
 
 Autoriza do funcionamento da habilitação plena em Química da Faculdade de Filosofia, Ciências e Letras de Santo André, com sede na cidade de Santo André, Estado de São Paulo.

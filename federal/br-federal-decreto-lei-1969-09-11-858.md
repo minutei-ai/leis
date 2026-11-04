@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e4b8b1ae-3aae-4fe6-84aa-8809e6ce7448/texto#nowhere)
 
-###DEL-000858-0-000-11-09-1969@@@
-
 DECRETO-LEI Nº 858, DE 11 DE SETEMBRO DE 1969
 
 Dispõe sôbre a cobrança e a correção monetária dos débitos fiscais nos casos de falência e dá outras providências.

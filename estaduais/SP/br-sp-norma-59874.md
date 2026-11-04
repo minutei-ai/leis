@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59874)
-
 # LEI Nº 12.195, DE 06 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 401/2004, do Deputado Aldo Demarchi - PFL)

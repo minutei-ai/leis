@@ -1,5 +1,3 @@
-###DEC-002705-0-000-03-08-1998@@@
-
 DECRETO Nº 2.705, DE 3 DE AGOSTO DE 1998
 
 Define critérios para cálculo e cobrança das participações governamentais de que trata a Lei nº 9.478, de 6 de agosto de 1997, aplicáveis às atividades de exploração, desenvolvimento e produção de petróleo e gás natural, e dá outras providências.
@@ -176,7 +174,47 @@ Art. 22. Para efeito de apuração da participação especial sobre a produção
 
 I - Quando a lavra ocorrer em áreas de concessão situadas em terra, lagos, rios, ilhas fluviais ou lacustres.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 450</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 450 até 900</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">450xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 900 até 1.350</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">675xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.350 até 1.800</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">900x RLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.800 ate 2.250</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">360</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.250</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.181,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 450
+
+-
+
+isento
+
+Acima de 450 até 900
+
+450xRLP¸VPF
+
+10
+
+Acima de 900 até 1.350
+
+675xRLP¸VPF
+
+20
+
+Acima de 1.350 até 1.800
+
+900x RLP¸VPF
+
+30
+
+Acima de 1.800 ate 2.250
+
+360¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.250
+
+1.181,25xRLP¸VPF
+
+40
 
 onde:
 
@@ -186,53 +224,493 @@ VPF - é o volume de produção trimestral fiscalizada de cada campo, em milhare
 
 II - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica até quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.2pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:123pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">(em reais)</span></p></td><td style="width:46.75pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:230.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 900</span></p></td><td style="width:123pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:46.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:230.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 900 até 1.350</span></p></td><td style="width:123pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">900xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:46.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:230.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.350 até 1.800</span></p></td><td style="width:123pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.125xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:46.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:230.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.800 até 2.250</span></p></td><td style="width:123pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.350xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:46.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:230.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.250 até 2.700</span></p></td><td style="width:123pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">517,5</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:46.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:230.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.700</span></p></td><td style="width:123pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.631,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:46.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral  (em reais)
+
+Alíquota (em %)
+
+Até 900
+
+-
+
+isento
+
+Acima de 900 até 1.350
+
+900xRLP¸VPF
+
+10
+
+Acima de 1.350 até 1.800
+
+1.125xRLP¸VPF
+
+20
+
+Acima de 1.800 até 2.250
+
+1.350xRLP¸VPF
+
+30
+
+Acima de 2.250 até 2.700
+
+517,5¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.700
+
+1.631,25xRLP¸VPF
+
+40
 
 III - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica acima de quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 1.350</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.350 até 1.800</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.350xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.800 até 2.250</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.575xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.250 até 2.700</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.800xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.700 até 3.150</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">675</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 3.150</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2.081,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 1.350
+
+-
+
+isento
+
+Acima de 1.350 até 1.800
+
+1.350xRLP¸VPF
+
+10
+
+Acima de 1.800 até 2.250
+
+1.575xRLP¸VPF
+
+20
+
+Acima de 2.250 até 2.700
+
+1.800xRLP¸VPF
+
+30
+
+Acima de 2.700 até 3.150
+
+675¸0,35xRLP¸VPF
+
+35
+
+Acima de 3.150
+
+2.081,25xRLP¸VPF
+
+40
 
 § 2º No segundo ano de produção de cada campo, a partir da data de início da produção, a participação especial será apurada segundo as seguintes tabelas:
 
 I - Quando a lavra ocorrer em áreas de concessão situadas em terra, lagos, rios, ilhas fluviais ou lacrustes.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 350</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 350 até 800</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">350 x RLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 800 até 1.250</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">575xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.250 até 1.700</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">800xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.700 até 2.150</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">325</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.150</span></p></td><td style="width:137.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.081,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 350
+
+-
+
+isento
+
+Acima de 350 até 800
+
+350 x RLP¸VPF
+
+10
+
+Acima de 800 até 1.250
+
+575xRLP¸VPF
+
+20
+
+Acima de 1.250 até 1.700
+
+800xRLP¸VPF
+
+30
+
+Acima de 1.700 até 2.150
+
+325¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.150
+
+1.081,25xRLP¸VPF
+
+40
 
 II - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica até quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 750</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 750 até 1.200</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">750xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.200 até 1.650</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">975xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.650 até 2.100</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.200xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.100 até 2.550</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">465</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.550</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.481,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 750
+
+-
+
+isento
+
+Acima de 750 até 1.200
+
+750xRLP¸VPF
+
+10
+
+Acima de 1.200 até 1.650
+
+975xRLP¸VPF
+
+20
+
+Acima de 1.650 até 2.100
+
+1.200xRLP¸VPF
+
+30
+
+Acima de 2.100 até 2.550
+
+465¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.550
+
+1.481,25xRLP¸VPF
+
+40
 
 III - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica acima de quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 1.050</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.050 até 1.500</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.050xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.500 até 1.950</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.275xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.950 até 2.400</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.500xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.400 até 2.850</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">570</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de até 2.850</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.781,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 1.050
+
+-
+
+isento
+
+Acima de 1.050 até 1.500
+
+1.050xRLP¸VPF
+
+10
+
+Acima de 1.500 até 1.950
+
+1.275xRLP¸VPF
+
+20
+
+Acima de 1.950 até 2.400
+
+1.500xRLP¸VPF
+
+30
+
+Acima de 2.400 até 2.850
+
+570¸0,35xRLP¸VPF
+
+35
+
+Acima de até 2.850
+
+1.781,25xRLP¸VPF
+
+40
 
 § 3º No terceiro ano de produção de cada campo, a partir da data de início da produção, a participação especial será apurada segundo as seguintes tabelas:
 
 I - Quando a lavra ocorrer em áreas de concessão situadas em terra, lagos, rios, ilhas fluviais ou lacustres.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 250</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 250 até 700</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">250xRIP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 700 até 1.150</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">475xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.150 até 1.600</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">700xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.600 até 2.050</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">290</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; font-size:10pt">Acima de 2.050</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">981,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 250
+
+-
+
+isento
+
+Acima de 250 até 700
+
+250xRIP¸VPF
+
+10
+
+Acima de 700 até 1.150
+
+475xRLP¸VPF
+
+20
+
+Acima de 1.150 até 1.600
+
+700xRLP¸VPF
+
+30
+
+Acima de 1.600 até 2.050
+
+290¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.050
+
+981,25xRLP¸VPF
+
+40
 
 II - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica até quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 500</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 500 até 950</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">500xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 950 até 1.400</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">775xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.400 até 1.850</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">950xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.850 até 2.300</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">377,5</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.300</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.231,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 500
+
+-
+
+isento
+
+Acima de 500 até 950
+
+500xRLP¸VPF
+
+10
+
+Acima de 950 até 1.400
+
+775xRLP¸VPF
+
+20
+
+Acima de 1.400 até 1.850
+
+950xRLP¸VPF
+
+30
+
+Acima de 1.850 até 2.300
+
+377,5¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.300
+
+1.231,25xRLP¸VPF
+
+40
 
 III - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica acima de quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 750</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 750 até 1.200</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">750xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.200 até 1.650</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">975xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.650 até 2.100</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.200xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.100 até 2.550</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">465</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.550</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.481,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 750
+
+-
+
+isento
+
+Acima de 750 até 1.200
+
+750xRLP¸VPF
+
+10
+
+Acima de 1.200 até 1.650
+
+975xRLP¸VPF
+
+20
+
+Acima de 1.650 até 2.100
+
+1.200xRLP¸VPF
+
+30
+
+Acima de 2.100 até 2.550
+
+465¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.550
+
+1.481,25xRLP¸VPF
+
+40
 
 § 4º Após o terceiro ano de produção de cada campo, a partir da data de início da produção, a participação especial será apurada segundo as seguintes tabelas:
 
 I - Quando a lavra ocorrer em áreas de concessão situadas em terra, lagos, rios, ilhas fluviais ou lacustres.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 150</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 150 até 600</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">150xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 600 até 1.050</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">375xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.050 até 1.500</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">600xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.500 até 1.950</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">255</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.950</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">881,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 150
+
+-
+
+isento
+
+Acima de 150 até 600
+
+150xRLP¸VPF
+
+10
+
+Acima de 600 até 1.050
+
+375xRLP¸VPF
+
+20
+
+Acima de 1.050 até 1.500
+
+600xRLP¸VPF
+
+30
+
+Acima de 1.500 até 1.950
+
+255¸0,35xRLP¸VPF
+
+35
+
+Acima de 1.950
+
+881,25xRLP¸VPF
+
+40
 
 II - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica até quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 300</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 300 até 750</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">300xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 750 até 1.200</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">525xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.200 até 1.650</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">750xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.650 até 2.100</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">307,5</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 2.100</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.031,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 300
+
+-
+
+isento
+
+Acima de 300 até 750
+
+300xRLP¸VPF
+
+10
+
+Acima de 750 até 1.200
+
+525xRLP¸VPF
+
+20
+
+Acima de 1.200 até 1.650
+
+750xRLP¸VPF
+
+30
+
+Acima de 1.650 até 2.100
+
+307,5¸0,35xRLP¸VPF
+
+35
+
+Acima de 2.100
+
+1.031,25xRLP¸VPF
+
+40
 
 III - Quando a lavra ocorrer em áreas de concessão situadas na plataforma continental em profundidade batimétrica acima de quatrocentos metros.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:209.45pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)</span></p></td><td style="width:137.5pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Parcela a deduzir da Receita Líquida Trimestral (em reais)</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:1.5pt; border-bottom-style:solid; border-bottom-width:1.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Alíquota (em %)</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Até 450</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">-</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">isento</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 450 até 900</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">45OxRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">10</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 900 até 1.350</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">675xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.350 até 1.800</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">900xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima de 1.800 até 2.250</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">360</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">0,35xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td></tr><tr><td style="width:209.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Acima 2.250</span></p></td><td style="width:137.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1.181,25xRLP</span><span style="font-family:Symbol; font-size:10pt">¸</span><span style="font-family:Arial; font-size:10pt">VPF</span></p></td><td style="width:53pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40</span></p></td></tr></tbody></table>
+Volume de Produção Trimestral Fiscalizada (em milhares de metros cúbicos de petróleo equivalente)
+
+Parcela a deduzir da Receita Líquida Trimestral (em reais)
+
+Alíquota (em %)
+
+Até 450
+
+-
+
+isento
+
+Acima de 450 até 900
+
+45OxRLP¸VPF
+
+10
+
+Acima de 900 até 1.350
+
+675xRLP¸VPF
+
+20
+
+Acima de 1.350 até 1.800
+
+900xRLP¸VPF
+
+30
+
+Acima de 1.800 até 2.250
+
+360¸0,35xRLP¸VPF
+
+35
+
+Acima 2.250
+
+1.181,25xRLP¸VPF
+
+40
 
 § 5º A ANP classificará as áreas de concessão objeto de licitação segundo os critérios de profundidade batimétrica definidos neste artigo.
 

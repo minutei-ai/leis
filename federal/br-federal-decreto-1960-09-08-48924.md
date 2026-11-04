@@ -1,5 +1,3 @@
-###DEC-048924-0-000-08-09-1960@@@
-
 Decreto nº 48.924, de 8 de setembro de 1960.
 
 Aprova os novos Estatutos da Companhia Urbanizadora da Nova Capital do Brasil.

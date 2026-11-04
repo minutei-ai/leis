@@ -1,5 +1,3 @@
-###DEC-057150-0-000-01-11-1965@@@
-
 DECRETO Nº 57.150, DE 1º DE NOVEMBRO DE 1965.
 
 Dá nova redação ao art. 1º do Decreto 54.108, de 7 de agôsto de 1964, que estabelece obrigatoriedade de utilização do transporte ferroviário pelas repartições públicas, autarquias, órgãos da Administração descentralizada e entidades de direito privado beneficiadas pela União.

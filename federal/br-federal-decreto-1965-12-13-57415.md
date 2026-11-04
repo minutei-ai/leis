@@ -1,5 +1,3 @@
-###DEC-057415-0-000-13-12-1965@@@
-
 DECRETO Nº 57.415, DE 13 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública a “Fundação Lar de São Bento”, com sede em São Paulo, Estado de São Paulo.

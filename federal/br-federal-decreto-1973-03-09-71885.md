@@ -1,5 +1,3 @@
-###DEC-071885-0-000-09-03-1973@@@
-
 DECRETO Nº 71.885, DE 9 DE MARÇO DE 1973.
 
 Aprova o Regulamento da Lei número 5.859, de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, e dá outras providências.

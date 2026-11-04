@@ -1,5 +1,3 @@
-###DEC-064107-0-000-12-02-1969@@@
-
 DECRETO Nº 64.107, DE 12 DE FEVEREIRO DE 1969.
 
 Institui a Semana Rio Branco de Estudos Internacionais e dá outras providencias.

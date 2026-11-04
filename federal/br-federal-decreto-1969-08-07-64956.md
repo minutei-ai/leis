@@ -1,5 +1,3 @@
-###DEC-064956-0-000-07-08-1969@@@
-
 DECRETO Nº 64.956 - DE 7 DE AGOSTO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Instituto Nacional de Previdência Social, cargos integrantes do Quadro de Pessoal, Parte Suplementar do Ministério da Indústria e do Comércio.

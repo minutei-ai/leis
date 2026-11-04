@@ -1,5 +1,3 @@
-###DEC-045200-0-000-07-01-1959@@@
-
 DECRETO Nº 45.200, DE 7 DE JANEIRO DE 1959.
 
 Abre pelo Ministério da Saúde, o crédito extraordinário de Cr$60.000.000,00 para assistência e amparo às populações vítimas de inundações.

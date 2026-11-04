@@ -1,5 +1,3 @@
-###DEC-079277-0-000-15-02-1977@@@
-
 DECRETO Nº 79.277, de 15 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, da Faculdade de Ciências Contábeis e Administrativas de Rolândia, com sede na Cidade de Rolândia, Estado do Paraná.

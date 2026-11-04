@@ -1,5 +1,3 @@
-###DEC-079810-0-000-14-06-1977@@@
-
 DECRETO Nº 79.810, DE 14 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL no Estado de São Paulo.

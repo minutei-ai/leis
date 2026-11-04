@@ -47,7 +47,3 @@ ANEXO ÚNICO
 JORNADA DE TRABALHO DE 40 (QUARENTA) HORAS SEMANAIS
 
 CARGO Nº. CARGOS VENCIMENTO BÁSICO em R$ Diretor-Geral 1 6.864,06 Vice-Diretor Geral 1 5.777,50 Chefe de Gabinete 1 5.078,93 Diretor 7 5.062,50 Procurador-Chefe 1 5.078,93 Auditor Seccional 1 5.078,93 Assessor-Chefe 1 5.021,73 Assessor da Diretoria-Geral 5 4.964,56 Coordenador de Programas Especiais 1 4.964,56 Assessor I 50 3.274,95 Assessor II 40 3.844,38 Assessor III 13 4.907,39 Assistente de Nível Superior 49 2.945,76 Chefe de Divisão 21 4.907,39 Chefe de Seção Administrativa 147 2.334,58 Chefe de Seção Técnica 17 3.274,95 Chefe de Serviço 40 3.844,38 Chefe de Setor Técnico 4 2.945,76 Consultor Técnico 9 4.907,39 Coordenador Regional 40 4.907,39 Corregedor Chefe 1 4.907,39 Encarregado I 5 948,41 Encarregado II 2 1.271,10 Encarregado III 100 1.404,64 Encarregado IV 102 1.553,93 Encarregado V 18 1.716,21 Encarregado VI 71 1.901,97 Encarregado VII 78 2.334,58 Fiscal Vistoriador 227 1.716,21 Inspetor de Transporte Coletivo 12 1.901,97 Inspetor de Turma de Laboratório 2 2.334,58 Inspetor de Turma de Topografia 1 2.334,58 Secretário I 24 1.404,64 Secretário II 9 1.553,93 Secretário da Diretoria Geral 4 1.716,21 Secretário de Unidades Colegiadas 3 2.334,72 Pagador-Recebedor 3 2.334,58 Total de cargos 1.111
-
-\================================
-
-Data da última atualização: 29/7/2016.

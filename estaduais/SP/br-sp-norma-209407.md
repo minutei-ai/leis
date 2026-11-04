@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209407)<br>
-
 # ATO DO PRESIDENTE N° 48, DE 02 DE MAIO DE 2024
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 302, de 2024, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2025._

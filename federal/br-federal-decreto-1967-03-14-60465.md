@@ -1,5 +1,3 @@
-###DEC-060465-0-000-14-03-1967@@@
-
 Decreto nº 60.465, de 14 de março de 1967.
 
 Dispõe sôbre a criação de Área Prioritária de Emergência para fins de Reforma Agrária, e dá outras providências.
@@ -49,8 +47,6 @@ H. Castello Branco
 Roberto Campos
 
 Octávio Bulhões
-
-###DEC-060465-0-000-14-03-1967@@@RET01+++
 
 DECRETO Nº 60.465, DE 14 DE março DE 1967.
 

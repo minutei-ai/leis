@@ -1,5 +1,3 @@
-###DEC-054290-0-000-16-09-1964@@@
-
 Decreto Nº 54.290, de 16 de setembro de 1964.
 
 Promulga o Acôrdo para Estabelecimento de Missão Naval norte-americana no Brasil com os Estados Unidos da América.

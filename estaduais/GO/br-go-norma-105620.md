@@ -20,5 +20,6 @@ Deputado LISSAUER VIEIRA
 
 – PRESIDENTE –
 
-TALLES BARRETO<br>
+TALLES BARRETO
+
 Deputado Estadual

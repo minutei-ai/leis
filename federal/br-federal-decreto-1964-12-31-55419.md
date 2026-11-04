@@ -1,5 +1,3 @@
-###DEC-055419-0-000-31-12-1964@@@
-
 DECRETO Nº 55.419, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Vicente Antonio de Oliveira a pesquisar felsdspato, caolim e quartzo, no município de Socorro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-046364-0-000-07-07-1959@@@
-
 DECRETO Nº 46.364, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre a construção de uma rêde de armazéns e silos no Estado de Sergipe.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095752-0-000-26-02-1988@@@
-
 DECRETO N° 95.752, DE 26 DE FEVEREIRO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Capim Grosso" classificado como latifúndio por exploração, situado no Município de Caucaia, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.617, de 2 de maio de 1986, e dá outras providências.

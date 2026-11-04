@@ -1,5 +1,3 @@
-###DEC-082775-0-000-30-11-1978@@@
-
 Decreto nº 82.775, de 30 de novembro de 1978.
 
 Confisca créditos do espólio de JAHYR BOEIRA DE ALMEIDA (ou JAIR BOEIRA DE ALMEIDA), IDA ESTELA BOSQUIROLI ALMEIDA, JANIR MARIA ALMEIDA LUCHESE E MARIA JANILDE DE ALMEIDA para reparação de danos causados ao patrimônio público e dá outras providências.

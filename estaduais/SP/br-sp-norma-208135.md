@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208135)<br>
-
 # DECRETO N° 67.720, DE 26 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S/A, as áreas necessárias às obras de retaludamento da Rodovia dos Tamoios - SP-099, entre os km 29+950m e 30+200m (Talude 4), 48+300m e 49+200m (Talude 11) e 52+400m e km 53+000m (Talude 13), no Município de Paraibuna, e dá providências correlatas._

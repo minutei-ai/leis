@@ -1,5 +1,3 @@
-###DEC-047724-0-000-29-01-1960@@@
-
 DECRETO N.º 47.724,de 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Jean Claude Abel Heyman a pesquisar caulim no município de Santàna de Parnaíba, Estado de São Paulo.

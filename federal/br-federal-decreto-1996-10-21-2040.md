@@ -1,7 +1,3 @@
-1
-
-###DEC-002040-0-000-21-10-1996@@@
-
 DECRETO N° 2.040, DE 21 DE OUTUBRO DE 1996.
 
 Aprova o Regulamento de Movimentação para Oficiais e Praças do Exército.

@@ -1,5 +1,3 @@
-###DEC-089519-0-000-04-04-1984@@@
-
 Decreto nº 89.519, de 04 de abril de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à RADIO SOCIEDADE DE FEIRA DE SANTANA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Feira de Santana, Estado da Bahia.

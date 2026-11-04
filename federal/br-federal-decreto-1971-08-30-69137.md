@@ -1,5 +1,3 @@
-###DEC-069137-0-000-30-08-1971@@@
-
 DECRETO Nº 69.137, DE 30 DE AGôSTO DE 1971.
 
 Concede à Emprêsa Nordeste de Calcários Tabu Ltda., o direito de lavrar calcário, no município de Alhandra, Estado da Paraíba.

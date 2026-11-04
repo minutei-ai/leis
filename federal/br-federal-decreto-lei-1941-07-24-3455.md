@@ -1,5 +1,3 @@
-###DEL-003455-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.455 – DE 24 DE JULHO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 49:500$0, à verba que especifica

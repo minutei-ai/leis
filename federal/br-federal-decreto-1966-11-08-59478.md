@@ -1,5 +1,3 @@
-###DEC-059478-0-000-08-11-1966@@@
-
 decreto Nº 59.478, DE 8 DE NOVEMBRO DE 1966.
 
 Altera o Regulamento da Escola Preparatória de Cadetes-do-Ar baixado pelo decreto nº 30.976, de 10 de junho de 1952, e da outras providências.

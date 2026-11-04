@@ -1,5 +1,3 @@
-###DEC-006274-0-000-23-11-2007@@@
-
 DECRETO Nº 6.274, DE 23 DE NOVEMBRO DE 2007.
 
 Acresce e altera dispositivos do Decreto no 1.422, de 20 de março de 1995, que dispõe sobre a composição e o funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - Conmetro.
@@ -37,5 +35,3 @@ Brasília, 23 de novembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 26.11.2007

@@ -1,5 +1,3 @@
-###DEC-083432-0-000-09-05-1979@@@
-
 decreto nº 83.432, de 09 de maio de 1979.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor de Petróleo Brasileiro S.A . - PETROBRÁS, imóvel constituído de terras e benfeitorias que menciona.

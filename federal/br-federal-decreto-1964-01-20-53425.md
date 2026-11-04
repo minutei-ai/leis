@@ -1,5 +1,3 @@
-###DEC-053425-0-000-20-01-1964@@@
-
 decreto nº 53.425, de 20 de janeiro de 1964.
 
 Autoriza o cidadão brasileiro Mitugui Kira a pesquisar caulim, no município de Itapeva, Estado de São Paulo.

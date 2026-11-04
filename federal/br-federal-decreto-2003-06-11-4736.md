@@ -1,5 +1,3 @@
-###DEC-004736-0-000-11-06-2003@@@
-
 DECRETO Nº 4.736, DE 11 DE JUNHO DE 2003.
 
 Dispõe sobre as condições para a concessão das Gratificações Temporárias Sipam - GTS, criadas pelo art. 15 da Lei no 10.667, de 14 de maio de 2003, destinadas a servidores requisitados ou designados pela Casa Civil da Presidência da República para desempenho de atividades no âmbito do Sistema de Proteção da Amazônia - SIPAM.       
@@ -52,6 +50,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 11 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Guido Mantega<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Guido Mantega
+
 José Dirceu de Oliveira e Silva

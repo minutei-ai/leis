@@ -1,5 +1,3 @@
-###DEC-002951-0-000-28-01-1999@@@
-
 DECRETO Nº 2.951, DE 28 DE JANEIRO DE 1999.
 
 Prorroga o prazo de remanejamento do cargo em comissão que menciona, e dá outras providências.

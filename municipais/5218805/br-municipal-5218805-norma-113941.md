@@ -32,11 +32,14 @@ Secretário de Planejamento e Gestão
 
 ...................................................................................................
 
-**Cargo:** Fiscal de Edificações e Loteamentos<br>
+**Cargo:** Fiscal de Edificações e Loteamentos
+
 **Tarefas:**
 
-• ................................................................................................<br>
-• Proceder à fiscalização dos loteamentos, visando assegurar que as obras de infraestrutura sejam realizadas em conformidade com a Análise de Viabilidade Técnica e Operacional - AVTO dos serviços públicos de saneamento básico e de fornecimento de energia elétrica e com os respectivos projetos aprovados;<br>
+• ................................................................................................
+
+• Proceder à fiscalização dos loteamentos, visando assegurar que as obras de infraestrutura sejam realizadas em conformidade com a Análise de Viabilidade Técnica e Operacional - AVTO dos serviços públicos de saneamento básico e de fornecimento de energia elétrica e com os respectivos projetos aprovados;
+
 • Informar à agência reguladora eventuais descumprimentos de obrigações das prestadoras dos serviços públicos de saneamento básico relacionadas às obras de infraestrutura em loteamentos.
 
 ..................................................................................................." (NR)

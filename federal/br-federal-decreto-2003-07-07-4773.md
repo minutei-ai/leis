@@ -1,5 +1,3 @@
-###DEC-004773-0-000-07-07-2003@@@
-
 DECRETO Nº 4.773, DE 7 DE JULHO DE 2003.
 
        Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional dos Direitos da Mulher \- CNDM, e dá outras providências.
@@ -150,5 +148,4 @@ DAS DISPOSIÇÕES GERAIS
 
 LUIZ INÁCIO LULA DA SILVA
 
-<br>
 José Dirceu de Oliveira e Silva

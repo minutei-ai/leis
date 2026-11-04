@@ -1,5 +1,3 @@
-###DEC-051786-0-000-04-03-1963@@@
-
 DECRETO Nº 51.786, DE 4 DE MARÇO DE 1963.
 
 Outorga à Prefeitura Municipal de Piquet Carneiro concessão para distribuir energia elétrica no município de Piquet Carneiro, no Estado do Ceará.
@@ -41,8 +39,6 @@ Brasília, 4 de março de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Eliezer Batista da Silva
-
-###DEC-051786-0-000-04-03-1963@@@RET01+++
 
 Decreto nº 51.786, de 4 de março de 1963.
 

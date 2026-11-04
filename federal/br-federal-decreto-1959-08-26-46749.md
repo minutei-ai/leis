@@ -1,5 +1,3 @@
-###DEC-046749-0-000-26-08-1959@@@
-
 DECRETO Nº 46.749, DE 26 AGÔSTO DE 1959.
 
 Autoriza Mineração Boquira Ltda. a pesquisar galena, no Minicípio de Macaúbas, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-006674-0-000-03-12-2008@@@
-
 DECRETO Nº 6.674, DE 3 DE DEZEMBRO DE 2008.
 
 Altera os Decretos nos 6.539, de 18 de agosto de 2008, que estabelece critérios para o enquadramento de projeto de instalação, de diversificação ou modernização total, e de ampliação ou modernização parcial de empreendimento, para efeito de redução do imposto sobre a renda e adicional, calculados com base no lucro da exploração, e 6.047, de 22 de fevereiro de 2007, que institui a Política Nacional de Desenvolvimento Regional - PNDR.

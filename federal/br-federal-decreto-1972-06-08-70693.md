@@ -1,5 +1,3 @@
-###DEC-070693-0-000-08-06-1972@@@
-
 Decreto nº 70.693, de 8 de junho de 1972.
 
 Torna sem efeito aproveitamento de disponível do Ministério da Marinha e cassa a disponibilidade ao servidor que menciona.

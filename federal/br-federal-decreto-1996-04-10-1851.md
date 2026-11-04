@@ -1,5 +1,3 @@
-###DEC-001851-0-000-10-04-1996@@@
-
 DECRETO Nº 1.851, DE 10 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Complementação Econômica Nº 25, entre Brasil e Peru, de 20 de dezembro de 1995.

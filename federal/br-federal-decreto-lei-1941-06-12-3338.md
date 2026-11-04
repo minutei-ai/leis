@@ -1,5 +1,3 @@
-###DEL-003338-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.338 – DE 12 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 1.000:000$0, para a Rede de Viação Cearense

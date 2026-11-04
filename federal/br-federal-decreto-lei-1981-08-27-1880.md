@@ -1,7 +1,3 @@
-1
-
-###DEL-001880-0-000-27-08-1981@@@
-
 # Decreto-lei nº 1.880, de 27 de agosto de 1981.
 
 \- Acrescenta parágrafo ao artigo 1º, do Decreto-lei nº 1.798, de 24 de julho de 1980.

@@ -1,29 +1,35 @@
 LEI Nº 11.352 DE 23 DE DEZEMBRO DE 2008
 
-Ver também:<br>
-Decreto nº [14.492](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14492-de-24-de-maio-de-2013), de 24 de maio de 2013 - Altera o Decreto nº 14.110, de 28 de agosto de 2012, que dispõe sobre a regulamentação da Lei nº 11.352, de 23 de dezembro de 2008, que institui o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e Escolas Familiares Rurais - EFRs do Estado da Bahia, através de entidades sem fins lucrativos, e dá outras providências.<br>
+Ver também:
+
+Decreto nº [14.492](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14492-de-24-de-maio-de-2013), de 24 de maio de 2013 - Altera o Decreto nº 14.110, de 28 de agosto de 2012, que dispõe sobre a regulamentação da Lei nº 11.352, de 23 de dezembro de 2008, que institui o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e Escolas Familiares Rurais - EFRs do Estado da Bahia, através de entidades sem fins lucrativos, e dá outras providências.
+
 Decreto nº [14.110](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14110-de-28-de-agosto-de-2012) de 28 de agosto de 2012 - Dispõe sobre a regulamentação da Lei nº 11.352, de 23 de dezembro de 2008, que institui o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e Escolas Familiares Rurais - EFRs do Estado da Bahia, através de entidades sem fins lucrativos, e dá outras providências.
 
 Institui o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e Casas Familiares Rurais - CFRs do Estado da Bahia, através de entidades sem fins lucrativos, e dá outras providências.
 
-Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: "Institui o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e Escolas Familiares Rurais - EFRs do Estado da Bahia, através de entidades sem fins lucrativos, e dá outras providências."
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** - Fica instituído o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e às Casas Familiares Rurais - CFRs do Estado da Bahia, que consiste em projetos e ações integradas de iniciativa comunitária para proporcionar, em caráter suplementar, educação nos níveis fundamental e médio, educação profissional e formação inicial e continuada a adolescentes, jovens e adultos no campo. 
 
-Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: Art. 1º - "Fica instituído o Programa Estadual de Apoio Técnico-Financeiro às Escolas Família Agrícola - EFAs e às Escolas Familiares Rurais – EFRs do Estado da Bahia, que consiste em projetos e ações integradas de iniciativa comunitária para proporcionar, em caráter suplementar, educação nos níveis fundamental e médio, educação profissional e formação inicial e continuada a adolescentes, jovens e adultos no campo."
 
 **Parágrafo único -** Para os efeitos desta Lei considera-se EFA ou CFR o centro educativo comunitário que atenda, cumulativamente, as seguintes exigências:  
 
-Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: Parágrafo único - "Para os efeitos desta Lei considera-se Escola Família Agrícola ou Escola Familiar Rural o centro educativo comunitário que atenda, cumulativamente, as seguintes exigências:"
 
 **I -**       funcionamento autorizado pelo Conselho Estadual de Educação que inclua a oferta de cursos gratuitos de ensino fundamental do 6º ao 9º ano, de ensino médio ou educação profissional técnico de nível médio, formação inicial e continuada, qualificação ou requalificação profissional, com conteúdos curriculares e metodológicos apropriados às reais necessidades e interesses do campo, norteados pelos princípios básicos da Educação do Campo, Educação Profissional e da Educação Ambiental;
 
-Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei n° [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: I - "funcionamento autorizado pelo Conselho Estadual de Educação que inclua a oferta de cursos gratuitos de ensino fundamental da 5ª a 8ª série, de ensino médio e/ou educação profissional técnico de nível médio, formação inicial e continuada, qualificação ou re-qualificação profissional, com conteúdos curriculares e metodológicos apropriados às reais necessidades e interesses do campo, norteados pelos princípios básicos da Educação do Campo, Educação Profissional e da Educação Ambiental;"
 
 **II -**      seja gerenciado por uma associação autônoma sem fins lucrativos, composta de pais, pessoas e entidades comprometidas com o desenvolvimento sustentável e solidário da agricultura familiar;
@@ -36,43 +42,50 @@ Redação original: I - "funcionamento autorizado pelo Conselho Estadual de Educ
 
 **Art. 2º** -Compete ao Poder Executivo Estadual:
 
-Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: Art. 2º - "Compete ao Poder Executivo Estadual:"
 
 **I -**       firmar convênios, termos de cooperação técnica e similares com entidades sem fins lucrativos mantenedoras das escolas previstas no art. 1º desta Lei, visando contribuir para a manutenção e o funcionamento das EFAs ou CFRs do Estado da Bahia;
 
-Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: I - "firmar convênios, termos de cooperação técnica e similares com entidades sem fins lucrativos mantenedoras das escolas previstas no artigo 1º desta Lei, visando contribuir para a manutenção e o funcionamento das Escolas Família Agrícola e das Escolas Familiares Rurais do Estado;"
 
 **II -**      fiscalizar a correta aplicação dos recursos repassados e analisar a prestação de contas de modo a contribuir para que as EFAs ou CFRs do Estado da Bahia possam atingir os objetivos da educação do campo.
 
-Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: II - "fiscalizar a correta aplicação dos recursos repassados e analisar a prestação de contas de modo a contribuir para que as Escolas Família Agrícola e as Familiares Rurais do Estado possam atingir os objetivos da educação do campo."
 
 **Art. 3º** - Compete aos pais que compõem as associações autônomas a fiscalização da aplicação dos recursos destinados às associações, mediante prestação de contas mensal.
 
 **Art. 4º** \- Competem às associações autônomas previstas no inciso II do parágrafo único do art. 1º desta Lei:
 
-Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: Art. 4º - "Compete às associações autônomas previstas no inciso II do artigo 1º desta Lei:"
 
 **I -**       promover, anualmente, encontros de formação continuada para a integração de experiências;
 
 **II -**      encaminhar, anualmente, à Secretaria da Educação, cadastro atualizado das EFAs ou CFRs, das quais sejam mantenedoras, contendo dados relacionados aos alunos, professores e demais funcionários administrativos, equipamentos, demandas, iniciativas didático-pedagógicas e outras informações necessárias ao acompanhamento das Escolas.
 
-Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: II  - "encaminhar, anualmente, à Secretaria da Educação do Estado, cadastro atualizado das Escolas Família Agrícola e das Escolas Familiares Rurais, das quais sejam mantenedoras, contendo dados relacionados aos alunos, professores e demais funcionários administrativos, equipamentos, demandas, iniciativas didático-pedagógicas e outras informações necessárias ao acompanhamento das Escolas."
 
 **Parágrafo único -**   Será suspenso o repasse de verbas para entidade que não apresentar, tempestivamente, as informações constantes do _caput_ deste artigo, até o seu envio à Secretaria da Educação.
 
 **Art. 5º** - O Programa será subsidiado por recursos orçamentários específicos das Secretarias da Educação, do Meio Ambiente, de Ciência, Tecnologia e Inovação, da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura e de Desenvolvimento Rural, bem como por recursos provenientes de transferências a estas Secretarias de Programas de fortalecimento institucional do Estado.
 
-Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+Redação de acordo com a Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação original: Art. 5º - "O Programa será subsidiado por recursos orçamentários específicos das Secretarias da Educação, do Meio Ambiente, de Ciência, Tecnologia e Inovação, da Agricultura, Irrigação e Reforma Agrária e de Desenvolvimento e Integração Regional do Estado da Bahia, bem como por recursos provenientes de transferências a estas Secretarias de Programas de fortalecimento institucional do Estado. "
 
 **§ 1º -** Sem prejuízo dos repasses de recursos, as Secretarias deverão dispensar tratamento prioritário às EFAs e CFRs nos seus projetos de interiorização de ações educativas e valorização da cidadania.
 
-§ 1º acrescido pela Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.<br>
+§ 1º acrescido pela Lei [15.174](https://www.legislabahia.ba.gov.br/documentos/lei-no-15174-de-19-de-junho-de-2026) de 19 de junho de 2026.
+
 Redação anterior : Parágrafo único - "Sem prejuízo dos repasses de recursos, as Secretarias deverão dispensar tratamento prioritário às EFAs e EFRs nos seus projetos de interiorização de ações educativas e valorização da cidadania."
 
 **§ 2º** - Fica o Chefe do Poder Executivo autorizado a promover as modificações na Lei Orçamentária vigente para cumprimento do disposto na presente Lei.

@@ -1,5 +1,3 @@
-###DEL-008637-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.637 – DE 11 DE JANEIRO DE 1946
 
 Dá nova estrutura à carreira de Motorista do Quadro Suplementar do Ministério da Justiça e Negócios Interiores

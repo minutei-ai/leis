@@ -1,5 +1,3 @@
-###DEL-009191-0-000-23-04-1946@@@
-
 DECRETO-LEI N. 9.191 – DE 23 DE ABRIL DE 1946
 
 Revoga o Decreto-lei nº 8.759, de 21 de Janeiro de 1946

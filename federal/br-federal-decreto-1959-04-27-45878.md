@@ -1,5 +1,3 @@
-###DEC-045878-0-000-27-04-1959@@@
-
 DECRETO Nº 45.878, DE 27 DE ABRIL DE 1959.
 
 Autoriza estrangeiro a adquirir o domínio pleno dos terrenos que menciona, situados no Distrito Federal.

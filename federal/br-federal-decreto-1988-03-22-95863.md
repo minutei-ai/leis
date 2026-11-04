@@ -1,7 +1,3 @@
-1
-
-###DEC-095863-0-000-22-03-1988@@@
-
 DECRETO N° 95.863, DE 22 DE MARÇO DE 1988
 
 Dispõe sobre a competência do Conselho de Desenvolvimento Comercial - CDC para a formulação, coordenação e acompanhamento da execução da política interna de promoção comercial e industrial e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001449-0-000-07-04-1995@@@
-
 DECRETO Nº 1.449, DE 7 DE ABRIL DE 1995
 
 Altera o disposto sobre os efetivos do pessoal militar do Exército, em serviço ativo, em vigor em 1995.

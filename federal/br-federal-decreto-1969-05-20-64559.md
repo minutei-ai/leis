@@ -1,5 +1,3 @@
-###DEC-064559-0-000-20-05-1969@@@
-
 DECRETO Nº 64.559, DE 20 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção da nova Estação Telefônica de Corrêas, Estado do Rio de Janeiro.

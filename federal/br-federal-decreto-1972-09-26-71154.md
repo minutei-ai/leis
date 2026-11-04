@@ -1,5 +1,3 @@
-###DEC-071154-0-000-26-09-1972@@@
-
 DECRETO N. 71.154 - DE 26 DE SETEMBRO DE 1972
 
 Abre ao Ministério da Indústria e do Comércio, em favor das Unidades Orçamentárias, o crédito suplementar de Cr$ 2.764.000,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -307,8 +305,6 @@ José Flavio Pécora
 Marcus Vinícius Pratini de Moraes
 
 João Paulo dos Reis Velloso
-
-###DEC-071154-0-000-26-09-1972@@@
 
 DECRETO N. 71.154 - DE 26 DE SETEMBRO DE 1972
 

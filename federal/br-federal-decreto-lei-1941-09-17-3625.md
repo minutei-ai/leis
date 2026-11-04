@@ -1,5 +1,3 @@
-###DEL-003625-0-000-17-09-1941@@@
-
 DECRETO-LEI N. 3.625 – DE 17 DE SETEMBRO DE 1941
 
 Cria o Serviço de Fazenda do Ministério da Aeronáutica e aprova o respectivo Regulamento

@@ -1,5 +1,3 @@
-###DEC-067818-0-000-15-12-1970@@@
-
 DECRETO Nº 67.818, DE 15 DE DEZEMBRO de 1970.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Ribeirão Claro, com sede em Ribeirão Claro, Estado do Paraná.

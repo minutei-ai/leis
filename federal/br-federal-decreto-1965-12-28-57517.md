@@ -1,5 +1,3 @@
-###DEC-057517-0-000-28-12-1965@@@
-
 DECRETO Nº 57.517, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza a Cia. Carbonífera Minas de Butiá a pesquisar carvão mineral, no município de Triunfo, Estado do Rio Grande do Sul.

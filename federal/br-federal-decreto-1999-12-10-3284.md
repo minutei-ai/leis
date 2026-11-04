@@ -1,5 +1,3 @@
-###DEC-003284-0-000-10-12-1999@@@
-
 DECRETO Nº 3.284, DE 10 DE DEZEMBRO DE 1999.
 
 Altera o Decreto nº 715, de 29 de dezembro de 1992, que delega competência a Ministros de Estado, para aprovar orçamentos das entidades que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064736-0-000-25-06-1969@@@
-
 DECRETO Nº 64.736, DE 25 DE JUNHO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o quadro de Pessoal - Parte Especial - do Departamento de Polícia Federal, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

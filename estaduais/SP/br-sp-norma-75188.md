@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/75188)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2008/compilacao-lei.complementar-1036-11.01.2008.html)
 
 # LEI COMPLEMENTAR N° 1.036, DE 11 DE JANEIRO DE 2008
@@ -21,7 +20,8 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 **II** - a educação profissional, de acordo com as áreas de concentração dos estudos e das funções atribuídas aos policiais militares, inclusive as de bombeiro, observada a legislação aplicável a cada Quadro.
 
-#### **Capítulo II**<br>
+#### **Capítulo II**
+
 **Dos Princípios e Objetivos**
 
 **Artigo 3°** - O Sistema de Ensino da Polícia Militar fundamenta-se nos seguintes princípios:
@@ -56,7 +56,8 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 **VIII** \- o fomento à pesquisa científica, tecnológica e humanística.
 
-#### **Capítulo III**<br>
+#### **Capítulo III**
+
 **Das Modalidades de Ensino**
 
 **Artigo 5° -** Para atender à sua finalidade, o Sistema de Ensino da Polícia Militar manterá as seguintes modalidades de cursos e programas de educação superior com equivalência àqueles definidos no artigo 44 da Lei federal n° 9.394, de 20 de dezembro de 1996 - LDB:
@@ -141,7 +142,8 @@ _\- § 7° acrescentado pela [Lei n° 18.442, de 02/04/2026](https://www.al.sp
 
 **Artigo 8°** - Os integrantes do Quadro de Oficiais de Saúde (QOS) serão adaptados às áreas de atuação do policial militar e poderão, para efeito de equivalência, visando à sua promoção na Polícia Militar, ter reconhecidos os respectivos graus e títulos acadêmicos obtidos em estabelecimentos de ensino estranhos à estrutura da Polícia Militar, conforme previsto em regulamento.
 
-#### **Capítulo IV**<br>
+#### **Capítulo IV**
+
 **Dos Cursos, Estágios e Matrículas**
 
 **Artigo 9°** - Atendida a estrutura estabelecida  nesta lei complementar, os cursos e os estágios serão instituídos e mantidos segundo os interesses e as necessidades da Polícia Militar.
@@ -158,7 +160,8 @@ _\- § 7° acrescentado pela [Lei n° 18.442, de 02/04/2026](https://www.al.sp
 
 **Parágrafo único** - Os cursos de que trata o "caput" deste artigo poderão ser freqüentados por civis, desde que atendidos os objetivos institucionais da Polícia Militar, segundo parecer do Órgão de Direção Setorial de Ensino.
 
-#### **Capítulo V**<br>
+#### **Capítulo V**
+
 **Das Competências e Atribuições**
 
 **Artigo 14** - Ao Comando Geral da Polícia Militar compete:
@@ -179,7 +182,8 @@ _\- § 7° acrescentado pela [Lei n° 18.442, de 02/04/2026](https://www.al.sp
 
 **Parágrafo único** - Ao dirigente do órgão a que se refere o "caput" deste artigo cabe, por ato próprio ou delegado, conceder ou suprir titulações e graus universitários, observada a legislação pertinente.
 
-#### **Capítulo VI**<br>
+#### **Capítulo VI**
+
 **Das Disposições Finais**
 
 **Artigo 16** - Os recursos financeiros para as atividades de ensino na Polícia Militar são orçamentários e extraorçamentários, sendo estes obtidos mediante contribuições, subvenções, doações ou indenizações.

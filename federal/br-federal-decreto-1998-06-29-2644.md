@@ -1,5 +1,3 @@
-###DEC-002644-0-000-29-06-1998@@@
-
 DECRETO Nº 2.644, DE 29 DE JUNHO DE 1998
 
 Altera o Estatuto da Caixa Econômica Federal (CEF), aprovado pelo Decreto nº 2.254, de 16 de junho de 1997.

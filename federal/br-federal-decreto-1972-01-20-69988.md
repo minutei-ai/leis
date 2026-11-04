@@ -1,5 +1,3 @@
-###DEC-069988-0-000-20-01-1972@@@
-
 DECRETO Nº 69.988, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Sociedade Hospital de Caridade de Mossoró, com sede em Mossoró, Estado do Rio Grande do Norte.

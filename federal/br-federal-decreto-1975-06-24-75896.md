@@ -1,5 +1,3 @@
-###DEC-075896-0-000-24-06-1975@@@
-
 DECRETO Nº 75.896, DE 24 DE JUNHO DE 1975.
 
 Concede permissão, em caráter permanente, à empresa Indústria e Comércio Dako do Brasil S.A., com sede em Campinas, no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos no estabelecimento que menciona.

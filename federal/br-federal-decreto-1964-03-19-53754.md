@@ -1,5 +1,3 @@
-###DEC-053754-0-000-19-03-1964@@@
-
 DECRETO Nº 53.754, DE 19 DE MARÇO DE 1964.
 
 Transfere da Prefeitura Municipal de Camaquã para a Comissão Estadual de Energia Elétrica do Rio Grande do Sul concessão para produzir e distribuir energia elétrica e autoriza a referida Comissão a ampliar suas instalações naquele Município.

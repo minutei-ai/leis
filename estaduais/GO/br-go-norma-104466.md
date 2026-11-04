@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, 22 de dezembro de 2020.
 
-<br>
-
 CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
 QUADRO 1
@@ -21,7 +19,7 @@ QUADRO 1
 | SUPLEMENTAÇÃO |
 | --- |
 |
-**2800 –** **SECRETARIA DE ESTADO DA SAÚDE**
+**2800 –SECRETARIA DE ESTADO DA SAÚDE**
 
 **2850 – FUNDO ESTADUAL DA SAÚDE - FES**
 
@@ -32,5 +30,5 @@ QUADRO 1
 |
 
  |   |
-|   | **VALOR TOTAL A** **SUPLEMENTAR** |
+|   | **VALOR TOTAL ASUPLEMENTAR** |
 |   | **20.235.673,49** |

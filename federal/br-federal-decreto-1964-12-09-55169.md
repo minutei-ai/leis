@@ -1,5 +1,3 @@
-###DEC-055169-0-000-09-12-1964@@@
-
 DECRETO Nº 55.169, DE 9 DE DEZEMBRO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal da Caixa Econômica Federal de Brasília e dá outras providências.

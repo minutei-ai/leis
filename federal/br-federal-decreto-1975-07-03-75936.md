@@ -1,5 +1,3 @@
-###DEC-075936-0-000-03-07-1975@@@
-
 DECRETO Nº 75.936 - DE 3 DE JULHO DE 1975.
 
 Concede à Companhia Nacional de Álcalis o direito de lavrar conchas calcárias nos Municípios de Araruama, São Pedro da Aldeia e Cabo Frio, Estado do Rio de Janeiro.

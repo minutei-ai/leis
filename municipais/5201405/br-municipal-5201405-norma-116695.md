@@ -20,11 +20,14 @@ Art. 3º - Esta Lei entrará em vigor na data de sua publicação, produzindo se
 
 Gabinete do Prefeito Municipal em exercício, de Aparecida de Goiânia, Estado de Goiás, 21 de setembro de 2017.
 
-VETER MARTINS MORAIS<br>
+VETER MARTINS MORAIS
+
 Prefeito em exercício
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-EINSTEIN A. FERREIRA PANIAGO<br>
+EINSTEIN A. FERREIRA PANIAGO
+
 Secretário de Transparência, Fiscalização e Controle

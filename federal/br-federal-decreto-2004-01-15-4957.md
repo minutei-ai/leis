@@ -1,5 +1,3 @@
-###DEC-004957-0-000-15-01-2004@@@
-
 DECRETO Nº 4.957,  DE 15 DE JANEIRO DE 2004.
 
 Fixa o número de vagas para promoção obrigatória e os percentuais para quota compulsória em oficiais não-numerados, referentes ao ano-base 2003, para os diversos postos dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica.

@@ -1,5 +1,3 @@
-###MPV-001894-0-021-26-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.894-21, DE 26 DE AGOSTO DE 1999.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

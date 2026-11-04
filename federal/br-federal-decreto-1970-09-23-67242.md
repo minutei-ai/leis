@@ -1,5 +1,3 @@
-###DEC-067242-0-000-23-09-1970@@@
-
 DECRETO Nº 67.242, DE 23 DE SETEMBRO DE 1970.
 
 Concede à Emprêsa Itambé de Mineração Ltda., o direito de lavrar calcário, no município de Campo Largo, Estado do Paraná.

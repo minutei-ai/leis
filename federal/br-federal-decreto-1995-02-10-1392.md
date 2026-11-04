@@ -1,7 +1,3 @@
-1
-
-###DEC-001392-0-000-10-02-1995@@@
-
 DECRETO Nº 1.392, DE 10 DE FEVEREIRO DE 1995
 
 Dispõe sobre transferência dos cargos em comissão que menciona.

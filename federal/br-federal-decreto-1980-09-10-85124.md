@@ -1,5 +1,3 @@
-###DEC-085124-0-000-10-09-1980@@@
-
 Decreto nº 85.124, de 10 de setembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (D.N.O.C.S.), área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "PREMUOCA", no Município de Uruoca, Estado do Ceará, e dá outras providências.

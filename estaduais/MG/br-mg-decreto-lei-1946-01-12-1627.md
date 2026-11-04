@@ -47,7 +47,3 @@ Antônio Vieira Braga
 Antônio Mourão Guimarães
 
 José de Carvalho Lopes
-
-\==========================
-
-Data da última atualização: 23/6/2014.

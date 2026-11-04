@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59300)
-
 # LEI Nº 12.144, DE 08 DE DEZEMBRO DE 2005
 
 ## (PL 8/2004 - Eli Corrêa Filho)

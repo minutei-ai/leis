@@ -1,5 +1,3 @@
-###DEC-080291-0-000-06-09-1977@@@
-
 Decreto nº 80.291, de 6 de setembro de 1977.
 
 Retifica a concessão de lavra outorgada à Prefeitura Municipal de Belo Horizonte pelo Decreto nº 56.691, de 9 de agosto de 1965.

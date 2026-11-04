@@ -1,5 +1,3 @@
-###DEC-073410-0-000-03-01-1974@@@
-
 DECRETO Nº 73.410, DE 3 DE JANEIRO DE 1974.
 
 Altera o Decreto nº 71.708, de 16 de janeiro de 1973, que concedeu o funcionamento de um Centro de Educação Técnica, no Instituto Americano de Lins (CETIAL),da cidade de Lins, Estado de São Paulo.

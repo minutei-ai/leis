@@ -1,5 +1,3 @@
-###DEC-073986-0-000-24-04-1974@@@
-
 DECRETO Nº 73.986, DE 24 DE ABRIL DE 1974.
 
 Declara perempta a concessão outorgada à Sociedade Rádio Emissoras de Piratininga Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de São Paulo.

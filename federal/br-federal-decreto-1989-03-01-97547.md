@@ -1,5 +1,3 @@
-###DEC-097547-0-000-01-03-1989@@@
-
 DECRETO N° 97.547, DE 1° DE MARÇO DE 1989
 
 Aprova o Estatuto da Caixa Econômica Federal - CEF e dá outras providências.

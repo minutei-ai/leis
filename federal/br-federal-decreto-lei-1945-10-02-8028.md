@@ -1,5 +1,3 @@
-###DEL-008028-0-000-02-10-1945@@@
-
 DECRETO-LEI N. 8.028 – DE 2 DE OUTUBRO DE 1945
 
 Altera o processo de cálculo na contagem de tempo de serviço aéreo

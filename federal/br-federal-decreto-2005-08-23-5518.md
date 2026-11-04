@@ -1,5 +1,3 @@
-###DEC-005518-0-000-23-08-2005@@@
-
 DECRETO Nº 5.518, DE 23 DE AGOSTO DE 2005.      
 
 Promulga o Acordo de Admissão de Títulos e Graus Universitários para o Exercício de Atividades Acadêmicas nos Estados Partes do Mercosul.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
  LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 24.8.2005
-
-ACORDO DE ADMISSÃO DE TÍTULOS E GRAUS UNIVERSITÁRIOS
+         Celso Luiz Nunes AmorimACORDO DE ADMISSÃO DE TÍTULOS E GRAUS UNIVERSITÁRIOS
 
 PARA O EXERCÍCIO DE ATIVIDADES ACADÊMICAS
 

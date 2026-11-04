@@ -1,5 +1,3 @@
-###DEC-096543-0-000-22-08-1988@@@
-
 DECRETO N° 96.543, DE 22 DE AGOSTO DE 1988
 
 Regulamenta a Lei Complementar n° 55, de 10 de julho de 1987.

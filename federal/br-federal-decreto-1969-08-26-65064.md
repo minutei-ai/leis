@@ -1,5 +1,3 @@
-###DEC-065064-0-000-26-08-1969@@@
-
 DECRETO Nº 65.064 - DE 26 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Instituição Cristã Beneficente "Verdade e Luz", com sede em São Paulo, Estado de São Paulo.

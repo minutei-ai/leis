@@ -1,5 +1,3 @@
-###DEC-004890-0-000-21-11-2003@@@
-
 DECRETO Nº 4.890,  DE 21 DE NOVEMBRO DE 2003.
 
       Cria a Câmara de Política Cultural, do Conselho de Governo.
@@ -54,5 +52,6 @@ DECRETO Nº 4.890,  DE 21 DE NOVEMBRO DE 2003.
 
         Brasília, 21 de novembro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

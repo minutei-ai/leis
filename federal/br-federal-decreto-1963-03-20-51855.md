@@ -1,5 +1,3 @@
-###DEC-051855-0-000-20-03-1963@@@
-
 DECRETO Nº 51.855, DE 20 DE MARÇO DE 1963.
 
 Complementa o Decreto nº 51.700, de 8 de fevereiro de 1963 que criou um grupo de trabalho para desenvolvimento da pecuária.

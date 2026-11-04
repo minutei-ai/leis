@@ -72,7 +72,8 @@ Parágrafo único - Sempre que o funcionário a que se refere este artigo puder 
 
 Art. 10 - O funcionário, com um ou mais decênios de serviços ininterruptos até a data de promulgação desta lei, terá também direito à licença prêmio, nos termos nela expressos, permitindo-se-lhe a acumulação do tempo das licenças que lhe correspondam e o gozo contínuo ou semestral das mesmas, desde que o requeira dentro em dois anos.
 
-Ver também:<br>
+Ver também:
+
 Art. 1º da Lei nº [432](https://www.legislabahia.ba.gov.br/documentos/lei-no-432-de-22-de-novembro-de-1951), de 22 de novembro de 1951:"Art. 1º - Fica prorrogado até 30 de junho de 1952 o prazo de requerimento de licença prêmio, previsto no art. 10 da Lei nº [135](https://www.legislabahia.ba.gov.br/documentos/lei-no-135-de-18-de-dezembro-de-1948), de 18 de dezembro de 1948."
 
 Parágrafo único - A disposição deste artigo não abrange os decênios de serviços contemplados pela legislação anterior.

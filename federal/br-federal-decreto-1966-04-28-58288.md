@@ -1,5 +1,3 @@
-###DEC-058288-0-000-28-04-1966@@@
-
 Decreto nº 58.288, de 28 de abril de 1966.
 
 Concede a Produtos Químicos Anchieta S.A. autorização para funcionar como emprêsa de mineração.

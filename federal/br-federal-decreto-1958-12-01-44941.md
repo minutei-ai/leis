@@ -1,5 +1,3 @@
-###DEC-044941-0-000-01-12-1958@@@
-
 DECRETO Nº 44.941, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Valdir de Cezaro Nanon a pesquisar fluorita no Município de Tubarão - Estado de Santa Catarina.

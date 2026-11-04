@@ -1,5 +1,3 @@
-###DEC-061556-0-000-18-10-1967@@@
-
 DECRETO Nº 61.556, de 18 de Outubro de 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situada no Estado de Santa Catarina.

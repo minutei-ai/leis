@@ -1,5 +1,3 @@
-###DEL-003926-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.926 – DE 11 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 76:000$0, à verba que especifica

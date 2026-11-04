@@ -1,5 +1,3 @@
-###DEL-004023-0-000-15-01-1942@@@
-
 DECRETO-LEI  N. 4.023 – DE 15 DE JANEIRO DE 1942
 
 Altera os artigos 102 e 103 do decreto-lei n. 925, de 2 de dezembro de 1938

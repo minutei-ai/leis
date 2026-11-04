@@ -1,5 +1,3 @@
-###DEC-005820-0-000-29-06-2006@@@
-
 DECRETO Nº 5.820, DE 29 DE JUNHO DE 2006.
 
 Dispõe sobre a implantação do SBTVD-T, estabelece diretrizes para a transição do sistema de transmissão analógica para o sistema de transmissão digital do serviço de radiodifusão de sons e imagens e do serviço de retransmissão de televisão, e dá outras providências.
@@ -99,5 +97,3 @@ Brasília, 29 de junho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
       Helio Costa
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006

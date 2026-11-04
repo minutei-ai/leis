@@ -1,5 +1,3 @@
-###DEL-006148-0-000-29-12-1943@@@
-
 DECRETO‑LEI N. 6.148 – DE 29 DE DEZEMBRO DE 1943
 
 Prorroga o mandato dos atuais representantes dos empregadores e dos empregados, e seus suplentes, nos Conselhos das Delegacias do Trabalho Ma­rítimo

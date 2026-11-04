@@ -1,5 +1,3 @@
-###DEC-060816-0-000-06-06-1967@@@
-
 decreto Nº 60.816, de 6 de juNho de 1967.
 
 Dispõe sôbre o ensino de grau médio no Estado do Rio de Janeiro.

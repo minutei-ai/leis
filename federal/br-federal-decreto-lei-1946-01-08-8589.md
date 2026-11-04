@@ -1,5 +1,3 @@
-###DEL-008589-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.589 – DE 8 DE JANEIRO DE 1946
 
 Altera o regulamento dos Cursos de Aperfeiçoamento e Especialização do Departamento Nacional de Saúde.

@@ -1,5 +1,3 @@
-###DEC-057262-0-000-16-11-1965@@@
-
 DECRETO Nº 57.262, DE 16 de Novembro DE 1965.
 
 Transfere, da Comissão Estadual de Energia Elétrica do Estado do Rio de Janeiro para Centrais Elétrica Fluminenses S.A., autorização para construir linha de transmissão.

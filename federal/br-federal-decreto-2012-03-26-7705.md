@@ -1,5 +1,3 @@
-###DEC-007705-0-000-26-03-2012-PUB-01@@@
-
 DECRETO Nº 7.705, DE 26 DE MARÇO DE 2012
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.

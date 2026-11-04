@@ -1,5 +1,3 @@
-###DEC-083490-0-000-22-05-1979@@@
-
 Decreto nº 83.490, de 22 de maio de 1979.
 
 Concede autorização ao R/V FRED H. MOORE para realizar, no mar territorial do Brasil, os serviços que especifica.

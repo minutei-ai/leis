@@ -1,5 +1,3 @@
-###DEC-002213-0-000-25-04-1997@@@
-
 DECRETO Nº 2.213, DE 25 DE ABRIL DE 1997
 
 Dispõe sobre as condições de suprimento de álcool etílico hidratado para as indústrias alcoolquímicas da Região Nordeste, previstas nos Decretos nº 410, de 30 de dezembro de 1991, e 1.407, de 2 de março de 1995.

@@ -1,5 +1,3 @@
-###DEL-005766-0-000-20-08-1943@@@
-
 DECRETO‑LEI N. 5.766 – DE 20 DE AGÔSTO DE 1943
 
 Dá providências sôbre a construção de silos por parte das moinhos importadores de trigo, para beneficiamento em território nacional

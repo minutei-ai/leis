@@ -1,5 +1,3 @@
-###DEC-064219-0-000-19-03-1969@@@
-
 DECRETO Nº 64.219, DE 19 DE MARÇO DE 1969.
 
 Declara de utilidade pública, a Associação de Proteção à Maternidade e a Infância " Saza Lattes", com sede em Curitiba, Estado do Paraná.

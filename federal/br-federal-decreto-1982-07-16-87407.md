@@ -1,5 +1,3 @@
-###DEC-087407-0-000-16-07-1982@@@
-
 DECRETO Nº 87.407, DE 16 DE JULHO DE 1982.
 
 Altera dispositivos do Estatuto da Fundação Centro de Formação do Servidor Público - FUNCEP, aprovado pelo Decreto nº 85.524, de 16 de dezembro de 1980.

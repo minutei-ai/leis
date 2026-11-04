@@ -1,5 +1,3 @@
-###DEC-049527-0-000-13-12-1960@@@
-
 DECRETO Nº 49.527, DE 13 DE DEZEMBRO DE 1960.
 
 Retifica o decreto nº 49.469, de 7 de dezembro de 1960.

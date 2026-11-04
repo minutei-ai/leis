@@ -1,5 +1,3 @@
-###DEC-051635-0-000-19-12-1962@@@
-
 Decreto Nº 51.635, DE 19 DE DEZEMBRO DE 1962.
 
 Dispõe sôbre eleições para Presidente dos Órgãos Colegiados da Previdência Social.

@@ -1,5 +1,3 @@
-###DEC-057624-0-000-13-01-1966@@@
-
 Decreto nº 57.624, de 13 de janeiro de 1966.
 
 Fixa de valores das gratificações da categoria B e das indenizações de representação estabelecidas no Código de Vencimentos dos Militares, de conformidade com as alterações prescritas na Lei nº 4..863, de 29 de novembro de 1965.

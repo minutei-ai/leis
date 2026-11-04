@@ -1,6 +1,10 @@
 > **LEI Nº 4.018, DE 07 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre, amplia o acesso à Justiça e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre, amplia o acesso à Justiça e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

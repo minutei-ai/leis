@@ -1,5 +1,3 @@
-###DEC-071924-0-000-16-03-1973@@@
-
 Decreto Nº 71.924, DE 16 DE MARÇO DE 1973.
 
 Concede reconhecimento aos cursos de Desenho, Estudos Sociais, Ciências Biológicas e Matemática da Faculdade "Auxilium" de Filosofia, Ciências e Letras.

@@ -1,5 +1,3 @@
-###DEL-000251-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 251, DE 28 De FEVEREIRO DE 1967
 
 Desapropria, por utilidade pública, imóvel destinado a Hospital, em Bento Gonçalves, Estado do Rio Grande do Sul, e dá outras providências.

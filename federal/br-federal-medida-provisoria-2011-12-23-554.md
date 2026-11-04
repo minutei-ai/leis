@@ -1,5 +1,3 @@
-###MPV-000554-0-000-23-12-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 554, DE 23 DE DEZEMBRO DE 2011
 
 Altera a Lei nº 11.110, de 25 de abril de 2005, para autorizar a União a conceder subvenção econômica, sob a forma de equalização de parte dos custos a que estão sujeitas as instituições financeiras para contratação e acompanhamento de operações de microcrédito produtivo orientado e autoriza a concessão de subvenção econômica, sob a modalidade de equalização de taxa de juros, nas operações de financiamento para a estocagem de álcool combustível, e altera a Lei nº 10.453, de 13 de maio de 2002.

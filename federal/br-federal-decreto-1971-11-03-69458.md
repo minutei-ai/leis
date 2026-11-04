@@ -1,5 +1,3 @@
-###DEC-069458-0-000-03-11-1971@@@
-
 DECRETO Nº 69.458 - DE 3 DE NOVEMBRO DE 1971
 
 Retifica a Parte Permanente do Quadro de Pessoal do Ministério da Marinha.

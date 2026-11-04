@@ -1,5 +1,3 @@
-###DEC-075300-0-000-27-01-1975@@@
-
 DECRETO Nº 75.300, DE 27 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento da habilitação em Orientação Educacional do curso de Pedagogia da Faculdade de Fisiologia, Ciências e Letras de Jandaia do Sul, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul, Estado do Paraná.

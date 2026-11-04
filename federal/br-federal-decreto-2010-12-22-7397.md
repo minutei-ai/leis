@@ -1,5 +1,3 @@
-###DEC-007397-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº 7.397, DE 22 DE DEZEMBRO DE 2010
 
 Institui a Estratégia Nacional de Educação Financeira - ENEF, dispõe sobre a sua gestão e dá outras providências.

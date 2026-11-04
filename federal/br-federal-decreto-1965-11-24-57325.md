@@ -1,5 +1,3 @@
-###DEC-057325-0-000-24-11-1965@@@
-
 decreto Nº´57.325, de 24 de novembro de 1965.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.

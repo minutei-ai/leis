@@ -1,14 +1,12 @@
-###DEC-044189-0-000-28-07-1958@@@
+**DECRETO Nº 44.189, DE 28 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 44.189, DE 28 DE JULHO DE 1958.</strong>
+***Dispõe sôbre a subordinação das Mesas de Rendas.***
 
-<em><strong>Dispõe sôbre a subordinação das Mesas de Rendas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º As Mesas de Rendas existentes no País passam a ter a seguinte subordinação:
+**Art**. 1º As Mesas de Rendas existentes no País passam a ter a seguinte subordinação:
 
 À Alfândega de Manaus: as M.R. de Capacete Boa Vista e Rio Branco;
 
@@ -42,12 +40,12 @@
 
 À Alfândega de Corumbá: as M.R. de Porto Velho, Bela Vista, Ponta Porã, Pôrto Murtinho e Pôrto Esperança.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 28 de julho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lucas Lopes

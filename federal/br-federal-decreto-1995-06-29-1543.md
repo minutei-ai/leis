@@ -1,7 +1,3 @@
-1
-
-###DEC-001543-0-000-29-06-1995@@@
-
 DECRETO Nº 1.543, DE 29 DE JUNHO DE 1995.
 
 Dispõe sobre a transformação e a transferência do cargo em comissão que menciona.

@@ -1,5 +1,3 @@
-###DEC-068974-0-000-23-07-1971@@@
-
 DECRETO Nº 68.974, DE 23 DE JULHO DE 1971.
 
 Concede à Companhia de Cimento Portland Rio Branco o direito de lavrar calcário, no município de Corumbá de Goiás, Estado de Goiás.

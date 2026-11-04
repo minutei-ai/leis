@@ -1,5 +1,3 @@
-###DEC-005166-0-000-03-08-2004@@@
-
 DECRETO Nº 5.166 DE 3 DE AGOSTO DE 2004
 
 Institui a Medalha Corpo de Tropa e dá outras providências.

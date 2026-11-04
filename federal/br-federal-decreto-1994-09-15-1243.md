@@ -1,7 +1,3 @@
-1
-
-###DEC-001243-0-000-15-09-1994@@@
-
 DECRETO Nº 1.243, DE 15 DE SETEMBRO DE 1994
 
 Revoga o Decreto nº 79.455, de 30 de março de 1977.

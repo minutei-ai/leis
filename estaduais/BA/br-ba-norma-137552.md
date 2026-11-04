@@ -20,7 +20,8 @@ Dispõe sobre a redução de juros e multas e a remissão parcial do Imposto sob
 
 **Parágrafo único -** O crédito presumido será equivalente ao percentual a ser definido por ato do Chefe do Poder Executivo, aplicado sobre o valor consignado nas notas fiscais de saídas, vedado o aproveitamento de quaisquer outros créditos vinculados a essas operações e observadas as condições estabelecidas em regulamento.
 
-Redação de acordo com a Lei nº [14.183](https://www.legislabahia.ba.gov.br/documentos/lei-no-14183-de-12-de-dezembro-de-2019) de 12 de dezembro de 2019.<br>
+Redação de acordo com a Lei nº [14.183](https://www.legislabahia.ba.gov.br/documentos/lei-no-14183-de-12-de-dezembro-de-2019) de 12 de dezembro de 2019.
+
 Redação original: "Parágrafo único - O crédito presumido será equivalente a percentual a ser definido por ato do Chefe do Poder Executivo, aplicado sobre o valor do imposto debitado nas operações promovidas pelo estabelecimento, vedado o aproveitamento de quaisquer outros créditos vinculados a essas operações e observadas as condições estabelecidas em regulamento."
 
 **Art. 6º** - O disposto nesta Lei não autoriza a restituição ou a compensação de valores anteriormente recolhidos.

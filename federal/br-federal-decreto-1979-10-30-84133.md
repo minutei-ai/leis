@@ -1,5 +1,3 @@
-###DEC-084133-0-000-30-10-1979@@@
-
 Decreto nº 84.133, de 30 de outubro de 1979
 
 Outorga à Mineração Corrêa Ltda. concessão para o aproveitamento da energia hidráulica de um trecho do rio Sapucaí-Guaçu no Município de Campos  do Jordão, Estado de São Paulo, para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEL-000181-0-000-17-02-1967@@@
-
 DECRETO-Lei nº 181, DE 17 DE FEVEREIRO DE 1967
 
 Dá nova denominação à atual Escola Técnica Federal da Guanabara.

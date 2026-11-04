@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210190)<br>
-
 # DECRETO N° 69.026, DE 06 DE NOVEMBRO DE 2024
 
 ### Institui, no âmbito da Secretaria de Turismo e Viagens, o Programa Turismo Naútico Paulista e dá providências correlatas.
@@ -80,21 +78,24 @@ Fraide Barrêto Sales   
 
 Roberto Alves de Lucena
 
-#### ANEXO I <br>
+#### ANEXO I 
+
 a que se refere o artigo 6° do Decreto n° 69.026, de 6 de novembro de 2024
 
 #### CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRETARIA DE TURISMO E VIAGENS, E O \[MUNICÍPIO PAULISTA\] OBJETIVANDO (DESCRIÇÃO DO PROJETO), NO BOJO DO PROGRAMA TURISMO NÁUTICO PAULISTA, INSTITUÍDO PELO DECRETO N° 69.026, de 6 de novembro de 2024
 
 O ESTADO DE SÃO PAULO, por meio de sua Secretaria de Turismo e Viagens, CNPJ n° 08.574.719/0001-48, doravante denominado SECRETARIA, neste ato representado por seu Secretário, portador da Cédula de Identidade RG n° \_\_\_\_\_\_\_\_\_\_\_\_\_\_e do CPF n°\_\_\_\_\_\_\_\_\_\_\_\_ , e o \[Município Convenente\], doravante denominado CONVENENTE, neste ato representado por seu \_\_\_\_\_\_\_\_\_\_ , \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, portador da Cédula de Identidade RG n° \_\_\_\_\_\_\_\_\_\_\_ e do CPF n° \_\_\_\_\_\_\_\_\_\_\_ , doravante denominados em conjunto como partícipes, celebram o presente CONVÊNIO, que se regerá pela Lei federal n° 14.133, de 1° de abril de 2021, pelo [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625) e demais normas regulamentares, mediante as cláusulas e condições que seguem:
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste CONVÊNIO a comunhão de esforços para a execução de (projeto enquadrável no rol do artigo 4° do decreto), no bojo do Programa Turismo Náutico Paulista, instituído pelo Decreto n° 69.026, de 6 de novembro de 2024 de acordo com o Plano de Trabalho, que faz parte integrante e indissociável deste ajuste como Anexo I.
 
 **Parágrafo único -** Para execução do objeto definido no "caput", os partícipes observarão o Plano de Trabalho que integra o presente instrumento como anexo, o qual poderá ser alterado, mediante termo aditivo, desde que amparado em pronunciamento técnico da SECRETARIA e aprovação da autoridade competente, para melhor adequação técnica, vedada a alteração do objeto do ajuste.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente Convênio, a SECRETARIA e o CONVENENTE terão as seguintes obrigações:
@@ -141,14 +142,16 @@ l) vetar, sob pena de devolução dos recursos, qualquer publicação que não s
 
 m) dar imediato conhecimento à SECRETARIA de ato ou ocorrência que interfira no andamento das atividades decorrentes deste CONVÊNIO, para a adoção das eventuais medidas cabíveis.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Valor
 
 O valor total do presente CONVÊNIO é de R$ (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ), sendo R$  (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ) de responsabilidade da SECRETARIA, onerando a U.O. (nomenclatura da UO), U.G.O. , U.G.E. , natureza da despesa \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  (nomenclatura da natureza da despesa), e o restante, de responsabilidade do CONVENENTE. 
 
 \[Ou: O presente instrumento não envolve a transferência de recursos financeiros entre os PARTÍCIPES, cabendo a cada qual arcar com os custos decorrentes das obrigações assumidas.\]
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Dos Recursos Financeiros
 
 Os recursos financeiros de responsabilidade da SECRETARIA serão transferidos nos termos indicados no cronograma de desembolso previsto no Plano de Trabalho e pelo seguinte:
@@ -167,7 +170,8 @@ Os recursos financeiros de responsabilidade da SECRETARIA serão transferidos no
 
 **§ 7° -** É vedada a realização de despesas, à conta dos recursos destinados à parceria, para finalidades diversas ao objeto pactuado, mesmo que em caráter de urgência.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Do Acompanhamento, Controle e Fiscalização
 
 O acompanhamento, controle e fiscalização da execução deste convênio serão realizados por gestores indicados pela SECRETARIA e pelo CONVENENTE.
@@ -176,7 +180,8 @@ O acompanhamento, controle e fiscalização da execução deste convênio serão
 
 **§ 2° -** O acompanhamento, controle e fiscalização da execução deste CONVÊNIO considerarão, além da documentação entregue pelo CONVENENTE, os relatórios de visita técnica in loco eventualmente realizadas durante a execução deste ajuste.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O CONVENENTE deverá apresentar à SECRETARIA prestação de contas, em até 30 (trinta) dias a partir do término do período de execução do objeto do CONVÊNIO e das atividades previstas no Plano de Trabalho, sem prejuízo do cumprimento de suas obrigações junto ao Tribunal de Contas do Estado, na forma da legislação de regência.
@@ -205,7 +210,8 @@ d) notas fiscais/faturas emitidas em nome do CONVENENTE com menção ao presente
 
 **§ 4° -** A SECRETARIA poderá estabelecer o dever de prestação de contas parciais, caso oportuno e conveniente.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente CONVÊNIO é de (\_\_\_) meses, contados de sua assinatura.
@@ -214,7 +220,8 @@ O prazo de vigência do presente CONVÊNIO é de (\_\_\_) meses, contados de sua
 
 **§ 2° -** A SECRETARIA prorrogará de ofício a vigência do CONVÊNIO quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Utilização dos Bens
 
 Os bens construídos, reformados ou adquiridos com os recursos repassados por meio do presente CONVÊNIO deverão utilizados exclusivamente em prol do turismo náutico paulista, ficando afetados à finalidade pública que justificou a celebração do ajuste.
@@ -225,7 +232,8 @@ Os bens construídos, reformados ou adquiridos com os recursos repassados por me
 
 **§ 3° -** Em caso de denúncia, rescisão ou encerramento do presente CONVÊNIO, os bens móveis eventualmente adquiridos para execução do seu objeto deverão ficar à disposição da SECRETARIA, podendo ser destinados a outra iniciativa inserida no Programa Turismo Náutico Paulista.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Denúncia e Rescisão
 
 Este CONVÊNIO poderá ser denunciado a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido na hipótese de descumprimento de suas cláusulas ou infração legal, procedendo-se o competente acerto de contas.
@@ -234,7 +242,8 @@ Este CONVÊNIO poderá ser denunciado a qualquer tempo, mediante notificação p
 
 **§ 2° -** A rescisão por inexecução total do ajuste enseja a restituição integral dos recursos recebidos, a partir do repasse, até a efetiva devolução, devidamente atualizados, conforme disciplinado no § 5° da Cláusula Quarta deste instrumento.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Proteção de Dados e da Confidencialidade
 
 Os partícipes obrigam-se a cumprir as normas que asseguram a proteção de dados pessoais eventualmente tratados no âmbito deste CONVÊNIO, adotando as boas práticas exigidas para tal fim.
@@ -243,12 +252,14 @@ Os partícipes obrigam-se a cumprir as normas que asseguram a proteção de dado
 
 **§ 2° -** Os partícipes se obrigam a cumprir a Lei Geral de Proteção de Dados (Lei federal n° 13.709, de 14 de agosto de 2018), ou outra que a substituir, adotando as práticas exigidas, sob pena de arcar com as perdas e danos que eventualmente causarem, sem prejuízo das demais sanções aplicáveis.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente CONVÊNIO, deverá ser obrigatoriamente consignada a participação do Estado de São Paulo, por meio da SECRETARIA, obedecidos os padrões por ela estipulados, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Das Omissões e do Foro
 
 Os casos omissos e quaisquer dúvidas concernentes ao presente instrumento serão resolvidos de comum acordo entre os partícipes.
@@ -269,21 +280,24 @@ Secretário de Turismo e Viagens 
 
 Representante do Município Convenente                    
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 6° do Decreto n° 69.026, de 6 de novembro de 2024
 
 #### TERMO DE FOMENTO/COLABORAÇÃO QUE ENTRE SI CELEBRAM O SECRETARIA DE SÃO PAULO, POR INTERMÉDIO DA SECRETARIA DE TURISMO E VIAGENS, E A \[ORGANIZAÇÃO DA SOCIEDADE CIVIL\], OBJETIVANDO (DESCRIÇAO DO PROJETO), NO BOJO DO PROGRAMA TURISMO NÁUTICO PAULISTA, INSTITUÍDO PELO DECRETO N° 69.026, DE 6 DE NOVEMBRO DE 2024
 
 O ESTADO DE SÃO PAULO, por meio de sua Secretaria de Turismo e Viagens, CNPJ n° 08.574.719/0001-48, doravante denominado SECRETARIA, neste ato representado por seu Secretário \_\_\_\_\_\_\_\_\_\_\_\_, portador da Cédula de Identidade RG n° \_\_\_\_\_\_\_\_\_\_\_\_ e do CPF n° \_\_\_\_\_\_\_\_\_\_\_\_, e \[ORGANIZAÇÃO DA SOCIEDADE CIVIL\], CNPJ n° \_\_\_\_\_\_\_\_\_\_\_\_ , doravante denominada OSC, neste ato representada por seu , \_\_\_\_\_\_\_\_\_\_\_\_ , portador da Cédula de Identidade RG n° \_\_\_\_\_\_\_\_\_\_\_\_ e do CPF n° \_\_\_\_\_\_\_\_\_\_\_\_, doravante denominados em conjunto como partícipes, com fundamento no que dispõem a Lei federal n° 13.019, de 31 de julho de 2014, e o [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), e suas alterações, celebram o presente Termo de Fomento/Colaboração, mediante as cláusulas e condições que seguem:
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 O presente Termo de Fomento/Colaboração, decorrente de chamamento público n° (ou de dispensa de chamamento publicada na edição do Diário Oficial do Estado), tem por objeto a execução de (projeto enquadrável no rol do artigo 4° do decreto), no bojo do Programa Turismo Náutico Paulista, instituído pelo Decreto n° 69.026, de 6 de novembro de 2024, visando à consecução de finalidade de interesse público e recíproco, de acordo com o Plano de Trabalho, parte integrante e indissociável deste ajuste (Anexo I).
 
 **Parágrafo único -** Para a execução do objeto definido no "caput", os partícipes observarão o Plano de Trabalho que integra o presente instrumento como anexo, o qual poderá ser alterado, mediante termo aditivo, desde que amparado em pronunciamento técnico da SECRETARIA e aprovação da autoridade competente, para melhor adequação técnica, vedada a alteração do objeto do ajuste.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações dos Participantes
 
 São responsabilidades e obrigações, além de outros compromissos assumidos por meio deste Termo e respectivo Plano de Trabalho, os previstos na Lei federal n° 13.019, de 31 de julho de 2014, no [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), na legislação e regulamentação aplicáveis à espécie, em especial:
@@ -374,7 +388,8 @@ e) notificar o partícipe, por escrito, quando da ocorrência de imperfeições,
 
 f) coeditar, em áreas de interesse comum, publicações e materiais de divulgação.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Gestor da Parceria
 
 O gestor da parceria fará a interlocução técnica com a OSC, bem como o acompanhamento e a fiscalização da execução do objeto da parceria, devendo zelar pelo seu adequado cumprimento e manter a SECRETARIA informada sobre o andamento das atividades, competindo-lhe em especial:
@@ -403,14 +418,16 @@ VIII- realizar a conferência e a checagem do cumprimento das metas e suas respe
 
 **§ 4° -** Em caso de vacância da função de gestor, o \[TITULAR DA PASTA\] ou quem ele indicar assumirá interinamente a gestão da parceria, por meio de simples apostilamento, até a indicação de novo gestor.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Monitoramento e da Avaliação de Resultados
 
 Os resultados alcançados com a execução do objeto da parceria devem ser monitorados e avaliados sistematicamente, por meio de relatórios técnicos emitidos, por responsável designado pelo \[TITULAR DA PASTA\] em ato próprio, na forma do artigo 59 da Lei federal n° 13.019, de 31 de julho de 2014.
 
 **Parágrafo único -**A periodicidade e a quantidade dos relatórios técnicos previstos no caput desta cláusula serão estipuladas pela CMA.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Comissão de Monitoramento e Avaliação
 
 Compete à CMA:
@@ -427,7 +444,8 @@ V -solicitar aos demais órgãos da SECRETARIA ou à OSC esclarecimentos que se 
 
 VI - emitir relatório conclusivo sobre os resultados alcançados no período, contendo a nota da parceria, avaliação das justificativas apresentadas no relatório técnico de monitoramento e avaliação, recomendações, críticas e sugestões.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Dos Recursos Financeiros
 
 O valor total da presente parceria é de R$  (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ , programa de trabalho (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ), onerando a U.O. (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ) (nomenclatura da UO), U.G.O. (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ), U.G.E. (..........), natureza da despesa (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ) (nomenclatura da natureza da despesa), sendo R$  (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ) \[VALOR DO COFINANCIAMENTO ESTADUAL\] de responsabilidade da SECRETARIA e R$  (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ) \[VALOR DA CONTRAPARTIDA\] como contrapartida \[financeira / não financeira\].
@@ -444,7 +462,8 @@ O valor total da presente parceria é de R$  (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ , 
 
 **§ 6° -** É vedada a realização de despesas, à conta dos recursos destinados à parceria, para finalidades diversas ao objeto pactuado, mesmo que em caráter de urgência.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Cessão e da Administração dos Bens Públicos
 
 Durante o período de vigência desta parceria, poderão ser destinados à OSC bens públicos necessários ao seu cumprimento, os quais poderão ser disponibilizados por meio de disposição constante do Plano de Trabalho, de permissão de uso ou de instrumento equivalente em que se transfira a responsabilidade pelo seu uso e guarda, na forma da lei.
@@ -453,7 +472,8 @@ Durante o período de vigência desta parceria, poderão ser destinados à OSC b
 
 **§ 2° -** Extinto o ajuste por realização integral de seu objeto, os bens adquiridos com recursos da parceria poderão ser doados à própria OSC, de acordo com o interesse público, mediante justificativa formal do \[TITULAR DA PASTA\], atendidas as normas legais e regulamentares aplicáveis à espécie.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Prestação de Contas
 
 A OSC elaborará e apresentará à SECRETARIA prestação de contas na forma discriminada nesta cláusula, observando-se o Capítulo IV da Lei federal n° 13.019, de 31 de julho de 2014, o artigo 8° do [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342) e demais legislação e regulamentação aplicáveis.
@@ -480,7 +500,8 @@ III- Prestação de contas final: até 90 (noventa) dias, contados do término d
 
 **§ 8° -** A responsabilidade da OSC pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais relativos ao funcionamento da instituição e à execução do objeto da parceria é exclusiva, não se caracterizando responsabilidade solidária ou subsidiária da SECRETARIA pelos respectivos pagamentos, qualquer oneração do objeto da parceria ou restrição à sua execução.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Vigência e da Prorrogação
 
 O prazo de vigência desta parceria é de \[INSERIR NÚMERO DE MESES POR EXTENSO\] meses, a partir da data de sua assinatura.
@@ -489,7 +510,8 @@ O prazo de vigência desta parceria é de \[INSERIR NÚMERO DE MESES POR EXTENSO
 
 **§ 2° -** A SECRETARIA prorrogará de ofício a vigência da parceria quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente, seguidas as orientações contidas no Manual de Identidade Visual do Governo do Estado de São Paulo.
@@ -500,7 +522,8 @@ Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente,
 
 **§ 3° -** A divulgação de resultados técnicos, bem como todo e qualquer ato promocional relacionado ao desenvolvimento ou inovação tecnológica e/ou metodológica, decorrentes de trabalhos realizados no âmbito da presente parceria, deverá apresentar a marca do Governo do Estado de São Paulo, sendo vedada a sua divulgação total ou parcial sem o consentimento prévio e formal da SECRETARIA.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Denúncia e da Rescisão
 
 A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos PARTÍCIPES mediante notificação escrita com antecedência de 60 (sessenta) dias e será rescindido por infração legal ou descumprimento das obrigações assumidas, ou pela superveniência de norma legal ou fato que o torne jurídica, material ou formalmente inexequível.
@@ -511,19 +534,22 @@ A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos P
 
 **§ 3° -** A inobservância do disposto no parágrafo anterior ensejará a imediata instauração da tomada de contas especial do responsável nos termos do art. 52 da Lei federal n° 13.019, de 31 de julho de 2014, sem prejuízo da inscrição da OSC no Cadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Estaduais - CADIN ESTADUAL, nos termos da [Lei n° 12.799, de 11 de janeiro de 2008](https://www.al.sp.gov.br/norma/75189).
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Das Alterações
 
 Este Termo poderá ser alterado, mediante termo aditivo, em qualquer de suas cláusulas e condições, exceto no que tange ao seu objeto, de comum acordo, desde que tal interesse seja manifestado por qualquer dos partícipes, previamente e por escrito, observado o disposto no parágrafo único da Cláusula Primeira.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Das Responsabilizações e das Sanções
 
 Pela execução da parceria em desacordo com o Plano de Trabalho e com as normas da Lei federal n° 13.019, de 31 de julho de 2014 e da legislação específica, a SECRETARIA poderá, garantida a prévia defesa, aplicar à OSC as sanções previstas no artigo 73 da Lei federal n° 13.019, de 31 de julho de 2014, observado o disposto no artigo 9° do Decreto n° 61.981, 20 de maio de 2016.
 
 **Parágrafo único -** As sanções a que se referem o "caput" desta cláusula, após aplicadas, deverão ser registradas no portal de parcerias com organizações da sociedade civil.
 
-#### CLÁUSULA DÉCIMA QUARTA<br>
+#### CLÁUSULA DÉCIMA QUARTA
+
 Da Proteção de Dados Pessoais
 
 A OSC deve cumprir a Lei federal n° 13.709, de 14 de agosto de 2018 no âmbito da execução do objeto deste Termo e observar as instruções por escrito da SECRETARIA no tratamento de dados pessoais.
@@ -558,7 +584,8 @@ A OSC deve cumprir a Lei federal n° 13.709, de 14 de agosto de 2018 no âmbito 
 
 **§ 13 -** É vedada a transferência de dados pessoais, pela OSC, para fora do território do Brasil.
 
-#### CLÁUSULA DÉCIMA QUINTA<br>
+#### CLÁUSULA DÉCIMA QUINTA
+
 Das Disposições Finais
 
 Acordam os partícipes, ainda, em estabelecer as condições seguintes.
@@ -571,7 +598,8 @@ Acordam os partícipes, ainda, em estabelecer as condições seguintes.
 
 **§ 4° -** As exigências que não puderem ser cumpridas por meio eletrônico deverão ser supridas através da regular instrução processual, em meio físico.
 
-#### CLÁUSULA DÉCIMA SEXTA<br>
+#### CLÁUSULA DÉCIMA SEXTA
+
 Das Omissões e do Foro
 
 Os casos omissos e quaisquer dúvidas concernentes ao presente instrumento serão resolvidos de comum acordo entre os partícipes.

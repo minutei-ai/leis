@@ -1,5 +1,3 @@
-###DEL-009298-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.298 – DE 27 DE MAIO DE 1946
 
 Autoriza a revisão de aposentadoria concedida em desacôrdo com a lei aplicável à espécie

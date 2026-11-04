@@ -1,5 +1,3 @@
-###DEC-094613-0-000-14-07-1987@@@
-
 DECRETO N° 94.613, DE 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "LAGOA DO XAVIER/SÃO VICENTE E PICO ESTREITO/TIRADENTES", classificados no Cadastro de Imóveis Rurais do INCRA como latifúndios por exploração, situados nos Municípios de Mossoró e Baraúna, no Estado do Rio Grande do Norte, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.681, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087073-0-000-30-03-1982@@@
-
 DECRETO nº 87.073, de 30 dE março de 1982
 
 Cassa a concessão outorgada à RÁDIO NOTÍCIAS BRASILEIRAS LTDA., para executar serviços de radiodifusão sonora em ondas médias de âmbito regional, na cidade de Porto Nacional, Estado de Goiás.

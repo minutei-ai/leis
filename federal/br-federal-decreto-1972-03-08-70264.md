@@ -1,5 +1,3 @@
-###DEC-070264-0-000-08-03-1972@@@
-
 Decreto nº 70.264, de 8 de março de 1972.
 
 Exclui cargos do Ministério das Minas e Energia do relacionamento de desnecessidade e aproveita servidores em disponibilidade.

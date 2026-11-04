@@ -1,5 +1,3 @@
-###DEC-066323-0-000-16-03-1970@@@
-
 decreto nº 66.323 - de 16 de março de 1970
 
 Declara de utilidade pública o Lar de São José, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

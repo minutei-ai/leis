@@ -22,7 +22,8 @@ Parágrafo único. O prazo previsto no _caput_ deste artigo poderá ser reduzido
 
 “Art. 62-A. Para os fins deste Decreto, será considerada área urbana consolidada aquela que atenda aos critérios previstos na Lei federal nº 14.285, de 29 de dezembro de 2021, que deu nova redação à Lei nº 12.651, de 25 de maio de 2012.” (NR)
 
-~~Art. 2º O Anexo Único do [Decreto nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, passa a vigorar com a redação constante do Anexo Único deste Decreto.~~<br>
+~~Art. 2º O Anexo Único do [Decreto nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, passa a vigorar com a redação constante do Anexo Único deste Decreto.~~
+
 \- [Revogado pelo Decreto n. 10.371, de 20-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108253).
 
 Art. 3º O Anexo Único do [Decreto nº 9.308](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71506/decreto-9308), de 12 de setembro de 2018, passa a vigorar com as seguintes alterações:
@@ -62,15 +63,14 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 25 de fevereiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 [**Anexo Único**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17568)
 
-“ANEXO ÚNICO<br>
+“ANEXO ÚNICO
+
 [Vide Anexo Único do Decreto n. 10.371, de 20-12-2023.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108253)
 
 ~~Dos critérios de enquadramento~~

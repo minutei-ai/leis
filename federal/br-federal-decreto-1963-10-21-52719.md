@@ -1,5 +1,3 @@
-###DEC-052719-0-000-21-10-1963@@@
-
 DECRETO N 52.719, DE 21 DE OUTUBRO DE 1963.
 
 Prorroga prazo a que se refere o Decreto nº 51.705, de 14 de fevereiro de 1963.

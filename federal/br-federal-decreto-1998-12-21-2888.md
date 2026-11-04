@@ -1,5 +1,3 @@
-###DEC-002888-0-000-21-12-1998@@@
-
 DECRETO Nº 2.888, DE 21 DE DEZEMBRO DE 1998.
 
 Altera o art. 22 do Decreto nº 2.219, de 2 de maio de 1997, para fixar alíquota de incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Imobiliários (IOF), nas hipóteses que menciona.

@@ -1,5 +1,3 @@
-###DEC-066384-0-000-25-03-1970@@@
-
 DECRETO Nº 66.384 - DE 25 DE MARÇO DE 1970
 
 Redistribui, com o respectivo ocupante, para o Quadro Único de Pessoal - Parte Especial - da Universidade Federal do Rio Grande do Sul, cargo originário do Ministério da Agricultura (extinto Instituto Nacional do Mate).

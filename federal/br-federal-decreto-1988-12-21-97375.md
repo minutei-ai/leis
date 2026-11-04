@@ -1,5 +1,3 @@
-###DEC-097375-0-000-21-12-1988@@@
-
 DECRETO Nº 97.375, DE 21 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de transição Del Castilho, da LIGHT-Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

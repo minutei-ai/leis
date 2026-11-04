@@ -1,5 +1,3 @@
-###DEC-064372-0-000-18-04-1969@@@
-
 DECRETO Nº 64.372, DE 18 DE ABRIL DE 1969.
 
 Concede à Emprêsa de Caolim Ltda. o direito de lavrar caulim, no município de Belmiro Braga, Estado de Minas Gerais.

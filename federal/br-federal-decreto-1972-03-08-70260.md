@@ -1,5 +1,3 @@
-###DEC-070260-0-000-08-03-1972@@@
-
 DECRETO Nº 70.260, DE 8 DE MARÇO DE 1972.
 
 Retifica o artigo 1º do Decreto número 63.408, de 10 de outubro de 1968.

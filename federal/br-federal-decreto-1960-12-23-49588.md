@@ -1,5 +1,3 @@
-###DEC-049588-0-000-23-12-1960@@@
-
 DECRETO Nº 49.588, DE 23 DE DEZEMBRO DE 1960.
 
 Outorga a garantia do Tesouro Nacional à operação de crédito firmada em 31 de dezembro de 1956 entre o EXIMBANK e o BNDE.

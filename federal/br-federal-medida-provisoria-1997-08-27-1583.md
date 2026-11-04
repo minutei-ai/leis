@@ -1,5 +1,3 @@
-###MPV-001583-0-000-27-08-1997@@@
-
 # MEDIDA PROVISÓRIA nº 1.583, DE 27 DE AGOSTO dE 1997
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

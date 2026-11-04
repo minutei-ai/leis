@@ -1,5 +1,3 @@
-###DEL-003484-0-000-11-08-1941@@@
-
 DECRETO-LEI N. 3.484 – DE 11 DE AGOSTO DE 1941
 
 Dispõe sobre a carreira de Médico psiquiatra do Quadro permanente do Ministério da Educação e Saude e dá outras providências

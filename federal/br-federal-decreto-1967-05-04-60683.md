@@ -1,5 +1,3 @@
-###DEC-060683-0-000-04-05-1967@@@
-
 decreto Nº 60.683, de 4 de maio de 1967.
 
 Altera o Decreto nº 55.090-A, de 28 de novembro de 1964 - Regulamento da Lei de Promoções de Oficiais do Exército.

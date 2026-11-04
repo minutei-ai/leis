@@ -1,7 +1,3 @@
-1
-
-###DEC-097682-0-000-20-04-1989@@@
-
 DECRETO Nº 97.682, DE 20 DE ABRIL DE 1989
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

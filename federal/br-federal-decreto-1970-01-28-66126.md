@@ -1,5 +1,3 @@
-###DEC-066126-0-000-28-01-1970@@@
-
 DECRETO Nº 66.126 - DE 28 DE JANEIRO DE 1970
 
 Declara de utilidade pública a Obra Social e Assistencial Nossa Senhora de Lourdes, em São José dos Campos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-068038-0-000-12-01-1971@@@
-
 DECRETO Nº 68.038, DE 12 DE JANEIRO DE 1971.
 
 Concede reconhecimento de cursos da Faculdade de Filosofia, Ciências e Letras da Fundação Universidade Norte Mineira, MG.

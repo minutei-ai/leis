@@ -173,10 +173,26 @@ Atribuições: Desempenhar atividades de execução na área administrativa, sob
 Classe A, Referência 01
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:56.45pt;border-collapse:collapse;border:none"><tbody><tr style="height:19.85pt"><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;padding:
-  0cm 5.4pt 0cm 5.4pt;height:19.85pt"><p class="MsoNormal" style="text-indent:0cm">Analista Ministerial</p></td><td width="142" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt"><p class="MsoNormal" align="right" style="text-align:right;text-indent:0cm">R$ 7.150,91</p></td></tr><tr style="height:19.85pt"><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt"><p class="MsoNormal" style="text-indent:0cm">Técnico Ministerial e Técnico Ministerial Suplementar</p></td><td width="142" style="width:106.3pt;border-top:none;border-left:none;
+  0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+
+Analista Ministerial
+
+</td><td width="142" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+
+R$ 7.150,91
+
+</td></tr><tr style="height:19.85pt"><td width="312" style="width:233.9pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+
+Técnico Ministerial e Técnico Ministerial Suplementar
+
+</td><td width="142" style="width:106.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt"><p class="MsoNormal" align="right" style="text-align:right;text-indent:0cm">R$ 4.715,48</p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt;height:19.85pt">
+
+R$ 4.715,48
+
+</td></tr></tbody></table>
 
 ” (NR)

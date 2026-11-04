@@ -1,5 +1,3 @@
-###DEC-064210-0-000-18-03-1969@@@
-
 DECRETO Nº 64.210, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Fundação Logosófica (em prol da Superação Humana), com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-075168-0-000-31-12-1974@@@
-
 DECRETO Nº 75.168, DE 31 DE dezembro DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências e Estudos Sociais de Tanabi, Estado de São Paulo, mantida pela Associação Educacional de Jales.

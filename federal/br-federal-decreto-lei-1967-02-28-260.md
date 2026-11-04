@@ -1,5 +1,3 @@
-###DEL-000260-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 260, DE 28 DE FEVEREIRO DE 1967
 
 Concede ao Supremo Tribunal Federal um crédito especial de NCr$2.500.000,00 (dois milhões e quinhentos mil cruzeiros novos), para a construção de um edifício anexo para o Tribunal.

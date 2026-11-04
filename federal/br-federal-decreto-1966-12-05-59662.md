@@ -1,5 +1,3 @@
-###DEC-059662-0-000-05-12-1966@@@
-
 decreto nº 59.662, de 5 de dezembro de 1966.
 
 Autoriza estrangeiro a adquirir, em constituição de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

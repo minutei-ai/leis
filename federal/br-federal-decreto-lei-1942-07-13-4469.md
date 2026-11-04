@@ -1,5 +1,3 @@
-###DEL-004469-0-000-13-07-1942@@@
-
 DECRETO-LEI N. 4.469 – DE 13 DE JULHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de 250:000$0, à verba que especifica

@@ -68,4 +68,68 @@ Jutahy Magalhães Júnior
 
 QUADRO DE CARGOS DE PROVIMENTO TEMPORÁRIO DO MINISTÉRIO PÚBLICO
 
-<table style="border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 237.4pt; border-width: 1.5pt 1pt 1pt 1.5pt; border-color: windowtext; border-style: solid; padding: 0cm 3.5pt;" valign="top" width="317">DENOMINAÇÃO</td><td style="width: 92.15pt; border-width: 1.5pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="123"><p class="Estilo4">SÍMBOLO</p></td><td style="width: 127.55pt; border-width: 1.5pt 1.5pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="170"><p class="Estilo4">QUANTIDADE</p></td></tr><tr><td style="width: 237.4pt; border-width: medium 1pt 1.5pt 1.5pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 3.5pt;" valign="top" width="317"><p class="Estilo4" style="text-align: justify;">- Assessor Especial</p><p class="Estilo4" style="text-align: justify;">- Assessor Chefe</p><p class="Estilo4" style="text-align: justify;">- Diretor do Serviço de Administração</p><p class="Estilo4" style="text-align: justify;">- Inspetor Setorial de Finanças</p><p class="Estilo4" style="text-align: justify;">- Assessor Técnico</p><p class="Estilo4" style="text-align: justify;">- Gerente</p><p class="Estilo4" style="text-align: justify;">- Assessor Administrativo</p><p class="Estilo4" style="text-align: justify;">- Oficial de Gabinete</p></td><td style="width: 92.15pt; border-width: medium 1pt 1.5pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="123"><p class="Estilo4" style="text-align: justify;">- NH-2D</p><p class="Estilo4" style="text-align: justify;">- NH-2D</p><p class="Estilo4" style="text-align: justify;">- NH-2D</p><p class="Estilo4" style="text-align: justify;">- NH-2D</p><p class="Estilo4" style="text-align: justify;">- NH-3</p><p class="Estilo4" style="text-align: justify;">- NH-3</p><p class="Estilo4" style="text-align: justify;">- NH-4</p><p class="Estilo4" style="text-align: justify;">- NH-5</p><p class="Estilo4" style="text-align: justify;">&nbsp;</p></td><td style="width: 127.55pt; border-width: medium 1.5pt 1.5pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="170"><p class="Estilo4" style="text-align: justify;">- 01</p><p class="Estilo4" style="text-align: justify;">- 01</p><p class="Estilo4" style="text-align: justify;">- 01</p><p class="Estilo4" style="text-align: justify;">- 01</p><p class="Estilo4" style="text-align: justify;">- 07</p><p class="Estilo4" style="text-align: justify;">- 02</p><p class="Estilo4" style="text-align: justify;">- 03</p><p class="Estilo4" style="text-align: justify;">- 02</p></td></tr></tbody></table>
+<table style="border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 237.4pt; border-width: 1.5pt 1pt 1pt 1.5pt; border-color: windowtext; border-style: solid; padding: 0cm 3.5pt;" valign="top" width="317">DENOMINAÇÃO</td><td style="width: 92.15pt; border-width: 1.5pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="123">
+
+SÍMBOLO
+
+</td><td style="width: 127.55pt; border-width: 1.5pt 1.5pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="170">
+
+QUANTIDADE
+
+</td></tr><tr><td style="width: 237.4pt; border-width: medium 1pt 1.5pt 1.5pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 3.5pt;" valign="top" width="317">
+
+- Assessor Especial
+
+- Assessor Chefe
+
+- Diretor do Serviço de Administração
+
+- Inspetor Setorial de Finanças
+
+- Assessor Técnico
+
+- Gerente
+
+- Assessor Administrativo
+
+- Oficial de Gabinete
+
+</td><td style="width: 92.15pt; border-width: medium 1pt 1.5pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="123">
+
+- NH-2D
+
+- NH-2D
+
+- NH-2D
+
+- NH-2D
+
+- NH-3
+
+- NH-3
+
+- NH-4
+
+- NH-5
+
+&nbsp;
+
+</td><td style="width: 127.55pt; border-width: medium 1.5pt 1.5pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="170">
+
+- 01
+
+- 01
+
+- 01
+
+- 01
+
+- 07
+
+- 02
+
+- 03
+
+- 02
+
+</td></tr></tbody></table>

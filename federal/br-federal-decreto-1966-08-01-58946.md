@@ -1,5 +1,3 @@
-###DEC-058946-0-000-01-08-1966@@@
-
 DECRETO Nº 58.946, DE 1 DE AGÔSTO DE 1966.
 
 Concede à Emprêsa Paranaense de Mineração Ltda., autorização para funcionar como emprêsa de mineração.

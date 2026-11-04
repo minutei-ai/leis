@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211239)<br>
-
 # DECRETO N° 69.742, DE 22 DE JULHO DE 2025
 
 ### _Altera o Decreto n° 28.968, de 4 de outubro de 1988, que dispõe sobre a identificação das funções de Chefia e Encarregatura específicas de Agente de Telecomunicações Policial, o Decreto n° 28.970, de 4 de outubro de 1988, que dispõe sobre a identificação das funções de Chefia e Encarregatura específicas da carreira de Investigador de Polícia, o Decreto n° 28.974, de 4 de outubro de 1988, que dispõe sobre a identificação das funções de encarregatura específicas de Agente Policial, e o Decreto n° 59.397, de 6 de agosto de 2013, que identifica função de Chefia específica da carreira de Escrivão de Polícia, e dá providências correlatas._

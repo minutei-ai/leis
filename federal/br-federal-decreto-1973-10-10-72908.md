@@ -1,5 +1,3 @@
-###DEC-072908-0-000-10-10-1973@@@
-
 DECRETo N° 72.908, DE 10 DE OUTUBRO DE 1973.
 
 Concede reconhecimento à Faculdade Medicina de Campina Grande, mantida pela "Sociedade Mantenedora da Faculdade de Medicina de Campina Grande", com sede na cidade de Campina Grande, Estado da Paraíba.

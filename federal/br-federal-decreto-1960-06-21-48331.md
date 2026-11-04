@@ -1,5 +1,3 @@
-###DEC-048331-0-000-21-06-1960@@@
-
 DECRETO Nº 48.331, DE 21 DE JUNHO DE 1960.
 
 Altera a redação do art. 1º do Decreto nº 35.472, de 6 de maio de 1954.

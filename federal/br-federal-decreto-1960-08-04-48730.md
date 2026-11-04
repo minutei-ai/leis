@@ -1,5 +1,3 @@
-###DEC-048730-0-000-04-08-1960@@@
-
 DECRETO Nº 48.730, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza a firma Alfa Importação e Exportação Ltda a comprar pedras preciosas.

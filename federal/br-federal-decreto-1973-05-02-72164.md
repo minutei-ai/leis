@@ -1,5 +1,3 @@
-###DEC-072164-0-000-02-05-1973@@@
-
 DECRETO Nº 72.164, DE 2 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão e/ou desapropriação, em favor da Petróleo Brasileiro Sociedade Anônima - PETROBRÁS, os imóveis e benfeitorias compreendidos na faixa de terra necessária à construção do gasoduto que ligará as regiões produtoras de petróleo e gás dos Estados de Sergipe e da Bahia.

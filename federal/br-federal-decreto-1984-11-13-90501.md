@@ -1,5 +1,3 @@
-###DEC-090501-0-000-13-11-1984@@@
-
 Decreto nº 90.501, de 13 de novembro de 1984
 
 Concede a Aço Minas Gerais S/A - AÇOMINAS (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

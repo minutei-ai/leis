@@ -1,7 +1,3 @@
-1
-
-###DEC-099176-0-000-14-03-1990@@@
-
 DECRETO N° 99.176, DE 14 DE MARÇO DE 1990
 
 Dá a denominação de Governador Pedro Ivo de Figueiredo Campos à barragem de contenção de cheias que especifica.

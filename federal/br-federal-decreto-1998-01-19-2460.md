@@ -1,5 +1,3 @@
-###DEC-002460-0-000-19-01-1998@@@
-
 DECRETO Nº 2.460, DE 19 DE JANEIRO DE 1998
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República da Bolívia, de 14 de outubro de 1997.

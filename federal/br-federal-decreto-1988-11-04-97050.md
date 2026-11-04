@@ -1,5 +1,3 @@
-###DEC-097050-0-000-04-11-1988@@@
-
 DECRETO Nº 97.050, DE 4 DE NOVEMBRO DE 1988
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

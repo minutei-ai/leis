@@ -1,5 +1,3 @@
-###DEC-059555-0-000-11-11-1966@@@
-
 DECRETO Nº 59.555, DE 11 DE NOVEMBRO DE 1966.
 
 Autoriza a Companhia Estanífera do Brasil S.A. a lavrar cassiterita, no município de Itinga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-064571-0-000-23-05-1969@@@
-
 DECRETO Nº 64.571, DE 23 DE MAIO DE 1969.
 
 Declara de utilidade pública a Associação Brasileira de Escolas Médicas, com sede em Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-006253-0-000-13-11-2007@@@
-
 DECRETO Nº 6.253, DE 13 DE NOVEMBRO DE 2007.
 
 Dispõe sobre o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, regulamenta a Lei no 11.494, de 20 de junho de 2007, e dá outras providências.
@@ -185,5 +183,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 14.11.2007

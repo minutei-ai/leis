@@ -166,7 +166,8 @@ a) o § 1º do art. 13 do Anexo XVII; e
 
 b) o § 1º do art. 13 do Anexo XIX;
 
-V – 1º de maio de 2025, quanto aos seguintes dispositivos do Anexo XVII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997:<br>
+V – 1º de maio de 2025, quanto aos seguintes dispositivos do Anexo XVII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997:
+
 \- [Redação dada pelo Decreto nº 10.774, de 4-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111213).
 
 ~~V – 1º de março de 2025, quanto aos seguintes dispositivos do Anexo XVII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997:~~

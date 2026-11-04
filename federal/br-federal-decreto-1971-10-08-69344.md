@@ -1,5 +1,3 @@
-###DEC-069344-0-000-08-10-1971@@@
-
 DECRETO Nº 69.344 - DE 8 DE OUTUBRO DE 1971
 
 Designa Comissão Nacional para programar e coordenar as comemorações do Sesquicentenário da Independência do Brasil e dá outras providências.

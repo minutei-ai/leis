@@ -1,5 +1,3 @@
-###DEC-053117-0-000-10-12-1963@@@
-
 DECRETO Nº 53.117, DE 10 DE DEZEMBRO DE 1963
 
 Renova a autorização contida no Decreto nº 45.717, de 6 de abril de 1959.

@@ -1,14 +1,12 @@
-###DEC-030668-0-000-25-03-1952@@@
+**DECRETO Nº 30.668, DE 25 DE MARÇO DE 1952.**
 
-<strong>DECRETO Nº 30.668, DE 25 DE MARÇO DE 1952.</strong>
+***Modifica o Regulamento para a Diretoria do Material do Ministério da Aeronáutica.***
 
-<em><strong>Modifica o Regulamento para a Diretoria do Material do Ministério da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 5º do Regulamento para a Diretoria do Material da Aeronáutica, aprovado pelo Decreto número 22.645, de 25 de fevereiro de 1947, passa a vigorar com a seguinte redação:
+**Art**. 1º O art. 5º do Regulamento para a Diretoria do Material da Aeronáutica, aprovado pelo Decreto número 22.645, de 25 de fevereiro de 1947, passa a vigorar com a seguinte redação:
 
 A Diretoria do Material exercerá:
 
@@ -24,12 +22,12 @@ b) ação técnica, através de cadeia de comando, sôbre os órgãos de direç�
 
 § 4º O Ministro da Aeronáutica baixará instruções para o funcionamento das Seções Comerciais.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 25 de março de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Nero Moura

@@ -1,5 +1,3 @@
-###DEC-061469-0-000-05-10-1967@@@
-
 DECRETO Nº 61.469, DE 5 DE OUTUBRO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S. A. concessão para distribuir energia elétrica no município de Alpercata, Estado de Minas Gerais.

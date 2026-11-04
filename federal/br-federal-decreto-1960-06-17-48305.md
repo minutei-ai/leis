@@ -1,5 +1,3 @@
-###DEC-048305-0-000-17-06-1960@@@
-
 DECRETO Nº 48.305, DE 17 DE JUNHO DE 1960.
 
 Autoriza a Mineração do Jutaí Limitada a pesquisar minério de alumínio no município de Mazagão, Território Federal do Amapá.

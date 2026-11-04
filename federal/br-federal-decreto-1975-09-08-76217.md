@@ -1,5 +1,3 @@
-###DEC-076217-0-000-08-09-1975@@@
-
 DECRETO Nº 76.217 - DE 8 DE SETEMBRO DE 1975
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Santo Antônio de Leverger, Estado de Mato Grosso.

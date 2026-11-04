@@ -1,5 +1,3 @@
-###DEC-003984-0-000-26-10-2001@@@
-
 DECRETO Nº 3.984, DE 26 DE OUTUBRO DE 2001
 
 Dispõe sobre a retirada, em território nacional, da proibição de exportação de armamento e material correlato para a República Federal da Iugoslávia, nos termos da Resolução 1367 (2001) do Conselho de Segurança das Nações Unidas.

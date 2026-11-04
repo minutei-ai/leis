@@ -1,5 +1,3 @@
-###DEC-090964-0-000-15-02-1985@@@
-
 Decreto nº 90.964, de 15 de fevereiRO de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação de Rádio UHF Multicanal Caçapava, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

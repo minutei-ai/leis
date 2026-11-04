@@ -1,5 +1,3 @@
-###DEC-073348-0-000-20-12-1973@@@
-
 DECRETO Nº 73.348 - DE 20 DE DEZEMBRO DE 1973
 
 Declara de utilidade pública as instituições que menciona.

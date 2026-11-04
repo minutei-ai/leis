@@ -1,5 +1,3 @@
-###DEL-006305-0-000-02-03-1944@@@
-
 DECRETO-LEI N. 6.305 – DE 2 DE MARÇO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.035.002,60, para pagamento de despesas da Coordenação da Mobilização Econômica

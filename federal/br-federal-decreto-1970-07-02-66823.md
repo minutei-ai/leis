@@ -1,5 +1,3 @@
-###DEC-066823-0-000-02-07-1970@@@
-
 DECRETO Nº 66.823, DE 2 DE JULHO DE 1970.
 
 Retifica a relação nominal constante do artigo 2º do Decreto nº 66.236, de 19 de fevereiro de 1970.

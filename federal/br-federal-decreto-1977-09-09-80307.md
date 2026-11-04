@@ -1,5 +1,3 @@
-###DEC-080307-0-000-09-09-1977@@@
-
 DECRETO Nº 80.307, DE 9 DE SETEMBRO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada a Campos Difusora Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Campos, Estado do Rio de Janeiro.

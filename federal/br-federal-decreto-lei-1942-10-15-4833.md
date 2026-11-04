@@ -1,5 +1,3 @@
-###DEL-004833-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.833 – DE 15 DE OUTUBRO DE 1942
 
 Com cede ao Clube de Regatas do Flamengo o aforamento do terreno de marinha que menciona, situado nesta Capital, e dá outras providências

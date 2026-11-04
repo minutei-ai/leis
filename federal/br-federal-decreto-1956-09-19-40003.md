@@ -1,14 +1,12 @@
-###DEC-040003-0-000-19-09-1956@@@
+**DECRETO Nº 40.003, DE 19 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.003, DE 19 DE SETEMBRO DE 1956.</strong>
+***Designa as funções privativas de oficial-general em tempo de paz.***
 
-<em><strong>Designa as funções privativas de oficial-general em tempo de paz.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São privativas de oficial-general as seguintes funções instituídas pela Lei nº 2.851, de 25 de agôsto de 1956:
+**Art**. 1º São privativas de oficial-general as seguintes funções instituídas pela Lei nº 2.851, de 25 de agôsto de 1956:
 
 A - Do Pôsto de Marechal ou General de Exército:
 
@@ -160,9 +158,9 @@ O - Do pôsto de General de Brigada Veterinário:
 
 1 - Diretor de Veterinária.
 
-<strong>Art</strong>. 2º Os Comandos das 4ª, 5ª e 7ª Regiões Militares são exercidos cumulativamente com os das 4ª, 5ª e 7ª Divisões de Infantaria, respectivamente.
+**Art**. 2º Os Comandos das 4ª, 5ª e 7ª Regiões Militares são exercidos cumulativamente com os das 4ª, 5ª e 7ª Divisões de Infantaria, respectivamente.
 
-<strong>Art</strong>. 3º Poderão ser desempenhadas por Coronéis ou Generais de Brigada as seguintes funções:
+**Art**. 3º Poderão ser desempenhadas por Coronéis ou Generais de Brigada as seguintes funções:
 
 \- Diretor do Hospital Central do Exército (Médico).
 
@@ -178,12 +176,12 @@ O - Do pôsto de General de Brigada Veterinário:
 
 \- Diretor de Pesquisas Tecnológicas (Técnico).
 
-<strong>Art</strong>. 4º As funções de 2º Subchefes do Departamento de Produção e Obras, de Diretor de Obras e Fortificações, Diretor de Vias de Transporte e Diretor de Patrimônio do Exército podem eventualmente ser exercidas por oficial combatente as duas primeiras e por oficial técnico as duas últimas.
+**Art**. 4º As funções de 2º Subchefes do Departamento de Produção e Obras, de Diretor de Obras e Fortificações, Diretor de Vias de Transporte e Diretor de Patrimônio do Exército podem eventualmente ser exercidas por oficial combatente as duas primeiras e por oficial técnico as duas últimas.
 
-<strong>Art</strong>. 5º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 19 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

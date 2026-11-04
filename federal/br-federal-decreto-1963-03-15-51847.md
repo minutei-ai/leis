@@ -1,5 +1,3 @@
-###DEC-051847-0-000-15-03-1963@@@
-
 DECRETO Nº 51.847, DE 15 DE MARÇO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Pelotense.

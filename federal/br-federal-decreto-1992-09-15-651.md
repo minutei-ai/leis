@@ -1,7 +1,3 @@
-1
-
-###DEC-000651-0-000-15-09-1992@@@
-
 # DECRETO N° 651, DE 15 DE SETEMBRO DE 1992
 
 Dispõe sobre a execução da Ata de Retificação do Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 (Acordo n° 11), entre Brasil e Equador.

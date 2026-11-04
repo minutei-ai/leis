@@ -1,5 +1,3 @@
-###DEL-005810-0-000-13-09-1943@@@
-
 DECRETO‑LEI N. 5.810 – DE 13 DE SETEMBRO 1943
 
 Dispõe sôbre a aposentadoria de José Madeiros Moura

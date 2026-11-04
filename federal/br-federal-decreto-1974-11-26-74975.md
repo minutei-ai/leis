@@ -1,5 +1,3 @@
-###DEC-074975-0-000-26-11-1974@@@
-
 DECRETO Nº 74.975, DE 26 DE NOVEMBRO DE 1974.
 
 Concede à Pró-Solo Mineração Limitada o direito de lavrar dolomito calcítico, no Município de Planaltina, Estado de Goiás.

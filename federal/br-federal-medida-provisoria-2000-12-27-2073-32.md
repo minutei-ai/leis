@@ -1,5 +1,3 @@
-###MPV-002073-0-032-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.073-32, DE 27 DE DEZEMBRO DE 2000.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

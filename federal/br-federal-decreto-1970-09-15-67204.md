@@ -1,5 +1,3 @@
-###DEC-067204-0-000-15-09-1970@@@
-
 Decreto nº 67.204, de 15 de setembro de 1970.
 
 Ativa a Base Aérea de Campo Grande e dá outras providências

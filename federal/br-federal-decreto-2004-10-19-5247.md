@@ -1,5 +1,3 @@
-###DEC-005247-0-000-19-10-2004@@@
-
 DECRETO Nº 5.247, DE 19 DE OUTUBRO DE 2004
 
 Regulamenta a Medida Provisória nº 200, de 20 de julho de 2004, que dispõe, que dispõe sobre o Programa de Subsídio à Habitação de Interesse Social – PSH.

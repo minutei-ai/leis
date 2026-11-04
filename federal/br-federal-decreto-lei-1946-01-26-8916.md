@@ -1,5 +1,3 @@
-###DEL-008916-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.916 – DE 26 DE JANEIRO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 3.400.000,00 como subvenção extraordinária à Fundação Abrigo Cristo  Redentor.

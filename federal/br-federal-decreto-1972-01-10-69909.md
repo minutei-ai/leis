@@ -1,5 +1,3 @@
-###DEC-069909-0-000-10-01-1972@@@
-
 DECRETO Nº 69.909, DE 10 DE Janeiro DE 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

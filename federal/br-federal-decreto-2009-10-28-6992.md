@@ -1,5 +1,3 @@
-###DEC-006992-0-000-28-10-2009@@@
-
 DECRETO Nº 6.992, DE 28 DE OUTUBRO DE 2009.
 
 Regulamenta a Lei no 11.952, de 25 de junho de 2009, para dispor sobre a regularização fundiária das áreas rurais situadas em terras da União, no âmbito da Amazônia Legal, definida pela Lei Complementar no 124, de 3 de janeiro de 2007, e dá outras providências.

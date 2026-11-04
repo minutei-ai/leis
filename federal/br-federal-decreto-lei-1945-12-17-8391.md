@@ -1,5 +1,3 @@
-###DEL-008391-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.391 – DE 17 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a aposentadoria de Rodolfo Augusto de Amorim Garcia.

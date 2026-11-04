@@ -1,5 +1,3 @@
-###DEC-087748-0-000-01-11-1982@@@
-
 Decreto nº 87.748, de 1º de novembro de 1982
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado "Fazenda Capivari-3ª Gleba", situado no Município de Duque de Caxias, no Estado do Rio de Janeiro, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 87.747, de 1º de novembro de 1982.

@@ -1,5 +1,3 @@
-###DEC-004399-0-000-01-10-2002@@@
-
 DECRETO Nº 4.399, DE 1º DE OUTUBRO DE 2002
 
 Institui a hora de verão, em parte do Território Nacional, no período que indica.

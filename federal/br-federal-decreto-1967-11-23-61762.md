@@ -1,5 +1,3 @@
-###DEC-061762-0-000-23-11-1967@@@
-
 DECRETO Nº 61.762, DE 23 DE NOVEMBRO DE 1967.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica no município de Riachão do Jacuipe, Estado da Bahia.

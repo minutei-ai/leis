@@ -1,5 +1,3 @@
-###DEC-058588-0-000-07-06-1966@@@
-
 DECRETO Nº 58.588, DE 7 DE JUNHO DE 1966.
 
 Concede à sociedade Luciano Castro & Cia. Ltda. autorização a funcionar como emprêsa de navegação de cabotagem.

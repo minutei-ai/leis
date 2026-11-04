@@ -1,7 +1,3 @@
-1
-
-###DEC-098350-0-000-31-10-1989@@@
-
 DECRETO Nº 98.350, DE 31 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Fonoaudiologia das Faculdades Integradas Izabela Hendrix, em Belo Horizonte, Minas Gerais.

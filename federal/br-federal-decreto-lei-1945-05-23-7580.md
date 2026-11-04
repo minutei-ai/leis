@@ -1,5 +1,3 @@
-###DEL-007580-0-000-23-05-1945@@@
-
 DECRETO-LEI N. 7.580 – DE 23 DE MAIO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Fazenda e dá outras providências

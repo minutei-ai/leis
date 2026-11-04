@@ -1,7 +1,3 @@
-1
-
-###DEC-099977-0-000-04-01-1991@@@
-
 DECRETO Nº 99.977, DE 4 DE JANEIRO DE 1991.
 
 Outorga à ELETRAM - Eletricidade da Amazônia Ltda. concessão para o aproveitamento de energia hidráulica no rio Braço do Norte, Estado do Mato Grosso, no trecho que menciona.

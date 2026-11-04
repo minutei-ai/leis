@@ -1,5 +1,3 @@
-###DEL-001626-0-000-01-06-1978@@@
-
 # Decreto-lei nº 1.626, de 1º De junho de 1978
 
 Dispõe sobre isenção do Adicional ao Frete para Renovação da Marinha Mercante e da Taxa de Melhoramento dos Portos, nos casos que especifica, e dá outras providencias.

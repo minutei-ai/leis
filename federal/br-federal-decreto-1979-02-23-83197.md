@@ -1,5 +1,3 @@
-###DEC-083197-0-000-23-02-1979@@@
-
 DECRETO Nº 83.197, DE 23 DE FEVEREIRO DE 1979
 
 Concede à Lavras Santo Amaro S.A. o direito de lavrar caulim no Município de Junco do Seridó, Estado da Paraíba.

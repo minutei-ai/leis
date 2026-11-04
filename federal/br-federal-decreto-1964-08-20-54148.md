@@ -1,5 +1,3 @@
-###DEC-054148-0-000-20-08-1964@@@
-
 DECRETO Nº 54.148, DE 20 DE AGôSTO DE 1964.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir linhas de transmissão e subestações.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001558-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.558, DE 18 DE DEZEMBRO DE 1996.
 
 Altera a redação dos arts. 14, 18, 34 44 e 49 da Lei nº 9.082, de 25 de julho de 1995, e do art. 35 da Lei nº 9.293, de 15 de julho de 1996, que dispõem, respectivamente, sobre as diretrizes para a elaboração da lei orçamentária para os exercícios de 1996 e 1997.

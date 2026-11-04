@@ -14,5 +14,6 @@ Ronaldo Caiado
 
 Governador do Estado
 
-JULIO PINA<br>
+JULIO PINA
+
 Deputado Estadual

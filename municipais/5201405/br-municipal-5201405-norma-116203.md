@@ -4,7 +4,8 @@ Dispõe sobre a criação da Casa dos Conselhos e dá outras providências.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS CONSELHOS
 
 Art.1°. Fica criada, na instância municipal, a CASA DOS CONSELHOS, que funcionará como sede dos seguintes Conselhos:
@@ -23,7 +24,8 @@ VI - Conselho Municipal de Segurança Alimentar e Nutricional (COMSAN).
 
 Parágrafo único: Os Conselhos relacionados nos incisos I, II, III, IV, V e VI do caput, são órgãos autônomos, deliberativos e controladores da Política de garantia de Direitos de cada um dos sujeitos elencados.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS AGENTES PÚBLICOS
 
 Art.2°. A Casa dos Conselhos, parte integrante do organograma da Secretaria Municipal de Assistência Social, contará com os seguintes servidores:
@@ -38,7 +40,8 @@ IV – 01 (um) Auxiliar de Serviços Diversos;
 
 V – 01 (um) Motorista.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO REGIMENTO INTERNO, COMPETÊNCIA E FUNCIONAMENTO
 
 Art.3°. A Casa dos Conselhos terá seu funcionamento regulado por Regimento Interno próprio, que deverá ser elaborado, por meio de decreto do Prefeito Municipal, no prazo de até 90 (noventa) dias, após a aprovação da Lei, obedecendo às leis de regência da matéria e estabelecendo os seguintes critérios:
@@ -65,5 +68,6 @@ Art.6°. Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 09 de junho de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

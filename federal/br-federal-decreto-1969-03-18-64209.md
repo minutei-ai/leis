@@ -1,5 +1,3 @@
-###DEC-064209-0-000-18-03-1969@@@
-
 DECRETO Nº 64.209, DE 18 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Associação Missionárias do S.S. Sacramento e Maria Imaculada, com sede no Estado da Guanabara.

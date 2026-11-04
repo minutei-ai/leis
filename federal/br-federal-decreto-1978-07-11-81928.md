@@ -1,5 +1,3 @@
-###DEC-081928-0-000-11-07-1978@@@
-
 Decreto nº 81.928, de 11 de julho de 1978
 
 Concede a Roberto Brambilla de Maria - Firma Individual, o direito de lavrar calcário no Município de Passos, Estado de Minas Gerais.

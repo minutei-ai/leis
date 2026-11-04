@@ -1,5 +1,3 @@
-###DEC-070482-0-000-09-05-1972@@@
-
 DECRETO Nº 70.482, DE 9 DE maio DE 1972.
 
 Classifica os órgãos de deliberação coletiva existentes na área do Ministério da Agricultura.

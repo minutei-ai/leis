@@ -1,5 +1,3 @@
-###DEC-094220-0-000-14-04-1987@@@
-
 DECRETO Nº 94.220, DE 14 DE ABRIL DE 1987.
 
 Declara de ocupação dos índios Guarani e homologa a demarcação da área de terras no Município de Ubatuba, no Estado de São Paulo, e dá outras providências.

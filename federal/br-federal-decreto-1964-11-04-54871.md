@@ -1,5 +1,3 @@
-###DEC-054871-0-000-04-11-1964@@@
-
 DECRETO Nº 54.871, DE 4 DE Novembro DE 1964.
 
 Autoriza a cidadã brasileira Francisca Silveira da Cunha a pesquisar minérios de ferro e manganês, nos municípios de Palhoça e Imaruí, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-088135-0-000-01-03-1983@@@
-
 Decreto nº 88.135, de 01 de março de 1983
 
 Altera dispositivos do Regulamento do Departamento de Pesquisas e Desenvolvimento.

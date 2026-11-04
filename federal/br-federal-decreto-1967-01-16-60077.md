@@ -1,5 +1,3 @@
-###DEC-060077-0-000-16-01-1967@@@
-
 decreto nº 60.077, de 16 de janeiro de 1967.
 
 Declara a cessação de serviços de energia elétrica, outorga e transfere concessão e autorizações nos Estados de São Paulo e Minas Gerais.
@@ -43,8 +41,6 @@ Brasília, 16 de janeiro de 1967; 146º da Independência e 79º da República.
 h. castello branco
 
 Mauro Thibau
-
-###DEC-060077-0-000-16-01-1967@@@RET01+++
 
 DECRETO Nº 60.077, DE 16 DE JANEIRO DE 1967.
 

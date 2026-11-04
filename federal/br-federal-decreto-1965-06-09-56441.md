@@ -1,5 +1,3 @@
-###DEC-056441-0-000-09-06-1965@@@
-
 DECRETO Nº 56.441, DE 9 DE JUNHO DE 1965.
 
 Concede à Royal Exchange Assurance autorização  para aumentar o capital destinado as suas operações de seguros no Brasil.

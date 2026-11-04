@@ -1,5 +1,3 @@
-###DEC-053633-0-000-27-02-1964@@@
-
 DECRETO Nº 53.633, DE 27 DE FEVEREIRO DE 1964.
 
 Autoriza o Ministro da Guerra a mandar matricular em um dos Colégios Militares, como aluno gratuito, um neto do Marechal Cândido Mariano da Silva Rondon.

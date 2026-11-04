@@ -1,5 +1,3 @@
-###DEC-095251-0-000-17-11-1987@@@
-
 DECRETO Nº 95.251, DE 17 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA MENINA MOÇA IV", classificado como latifúndio por exploração, situado no Município de Conceição do Araguaia, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 2 de maio de 1986, e dá outras providências.

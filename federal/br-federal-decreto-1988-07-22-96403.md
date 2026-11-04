@@ -1,5 +1,3 @@
-###DEC-096403-0-000-22-07-1988@@@
-
 # DECRETO N° 96.403, DE 22 DE JULHO DE 1988
 
 Outorga concessão à REDE DINÂMICA DE COMUNICAÇÕES LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Buritis, Estado de Minas Gerais.

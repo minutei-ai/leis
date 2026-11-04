@@ -1,5 +1,3 @@
-###DEC-089612-0-000-03-05-1984@@@
-
 DECRETO Nº 89.612, DE 03 DE MAIO DE 1984
 
 Revoga o Decrete nº 23.714, de 19 de setembro de 1947, que outorgou concessão ao Governo do Estado de Alagoas, para, através da RÁDIO DIFUSORA DE ALAGOAS, explorar serviço de radiodifusão sonora em onda média, na cidade de Maceió, Estado de Alagoas.

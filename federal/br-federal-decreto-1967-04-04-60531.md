@@ -1,5 +1,3 @@
-###DEC-060531-0-000-04-04-1967@@@
-
 DECRETO Nº 60.531, DE 4 DE ABRIL DE 1967.
 
 Transfere para Centrais Elétricas de Minas Gerais S. A., concessão para distribuir energia elétrica.

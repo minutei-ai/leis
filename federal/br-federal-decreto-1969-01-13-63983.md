@@ -1,5 +1,3 @@
-###DEC-063983-0-000-13-01-1969@@@
-
 DECRETONº 63.983, DE 13 DE JANEIRO DE 1969.
 
 Autoriza a Comissão Executiva do Sal a promover, mediante convênio com outras entidades a construção do Canal de Salinas, na Lagoa de Araruama, Estado do Rio de Janeiro, e dá outras providências.

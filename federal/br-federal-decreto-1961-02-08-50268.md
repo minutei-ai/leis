@@ -1,5 +1,3 @@
-###DEC-050268-0-000-08-02-1961@@@
-
 DECRETO Nº 50.268, DE 8 DE FEVEREIRO DE 1961.
 
 Dispõe sôbre os depósitos bancários dos institutos de previdência e outras autarquias federais, comissões, departamentos, entidades em regime especial de administração, sociedades, de economia mista com preponderância de capital do Govêrno, pessoas físicas ou jurídicas responsáveis por adiantamentos, etc. e dá outras providências.

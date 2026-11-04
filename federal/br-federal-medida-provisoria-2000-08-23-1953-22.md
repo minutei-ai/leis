@@ -1,5 +1,3 @@
-###MPV-001953-0-022-23-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.953-22, DE 23 de AGOSTo DE 2000.
 
 Institui o Auxílio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

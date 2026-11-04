@@ -1,5 +1,3 @@
-###DEC-004032-0-000-26-11-2001@@@
-
 DECRETO Nº 4.032, DE 26 DE NOVEMBRO DE 2001.
 
 Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

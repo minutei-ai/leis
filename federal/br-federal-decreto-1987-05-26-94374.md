@@ -1,5 +1,3 @@
-###DEC-094374-0-000-26-05-1987@@@
-
 DECRETO Nº 94.374, DE 26 DE MAIO DE 1987.
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial nº 13 subscrito entre Brasil e Venezuela.

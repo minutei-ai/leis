@@ -6,7 +6,8 @@ Dispõe sobre estímulos ao desenvolvimento científico, à pesquisa, à capacit
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei estabelece medidas de incentivo à inovação e à pesquisa científica e tecnológica, com vistas à capacitação tecnológica, ao alcance da autonomia tecnológica e ao desenvolvimento do sistema produtivo do Estado, em consonância com as normas gerais estabelecidas na Lei Federal nº 10.973, de 02 de dezembro de 2004, na Lei Federal nº 13.243, de 11 de janeiro de 2016, nos arts. 265 e 268, ambos da Constituição Estadual, e nos arts. 23, 24, 167, 200, 213, 218, 219 e 219-A, todos da Constituição Federal.
@@ -79,7 +80,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **XVI -** capital intelectual: conhecimento acumulado pelo pessoal da organização, passível de aplicação em projetos de pesquisa, desenvolvimento e inovação.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO ESTÍMULO À CONSTRUÇÃO DE AMBIENTES ESPECIALIZADOS E COOPERATIVOS DE INOVAÇÃO
 
 **Art. 3º** - O Estado e as agências de fomento poderão estimular e apoiar a constituição de alianças estratégicas e o desenvolvimento de projetos de cooperação envolvendo empresas, ICTs e entidades privadas sem fins lucrativos voltadas para atividades de pesquisa e desenvolvimento, que objetivem a geração de produtos, processos e serviços inovadores e a transferência e a difusão de tecnologia.
@@ -136,7 +138,8 @@ DO ESTÍMULO À CONSTRUÇÃO DE AMBIENTES ESPECIALIZADOS E COOPERATIVOS DE INOVA
 
 **§ 6**º - A participação minoritária de que trata o _caput_ deste artigo se dará por meio de contribuição financeira ou não financeira, desde que economicamente mensurável, e poderá ser aceita como forma de remuneração pela transferência de tecnologia e pelo licenciamento para outorga de direito de uso ou de exploração de criação de titularidade do Estado e de suas entidades.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO ESTÍMULO À PARTICIPAÇÃO DAS INSTITUIÇÕES CIENTÍFICAS E TECNOLÓGICAS NO PROCESSO DE INOVAÇÃO
 
 **Art. 9º** - É facultado às ICTs públicas sediadas no Estado celebrarem contrato de transferência de tecnologia e de licenciamento para outorga de direito de uso ou de exploração de criação por ela desenvolvida isoladamente ou por meio de parceria.
@@ -341,7 +344,8 @@ reconhecida, em ato do Poder Executivo, como de relevante interesse público, so
 
 **Art. 27** - Em atendimento ao disposto no § 5º do art. 167 da Constituição Federal, as ICTs públicas, os pesquisadores e as fundações de apoio poderão transpor, remanejar ou transferir recursos de categoria de programação para outra com o objetivo de viabilizar resultados de projetos que envolvam atividades de ciência, tecnologia e inovação, mediante regras definidas em regulamento.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO ESTÍMULO À INOVAÇÃO NAS EMPRESAS
 
 **Art. 28** - O Estado, as suas ICTs e as suas agências de fomento promoverão e incentivarão a pesquisa e o desenvolvimento de produtos, serviços e processos inovadores em empresas brasileiras e em entidades brasileiras de direito privado sem fins lucrativos, mediante a concessão de recursos financeiros, humanos, materiais ou de infraestrutura a serem ajustados em instrumentos específicos e destinados a apoiar atividades de pesquisa, desenvolvimento e inovação, para atender às prioridades das políticas industrial e tecnológica nacional.
@@ -438,7 +442,8 @@ DO ESTÍMULO À INOVAÇÃO NAS EMPRESAS
 
 **Art. 33** - Na concessão de bolsa destinada às atividades de ensino, pesquisa e extensão em educação e formação de recursos humanos, nas diversas áreas do conhecimento, por parte de ICT, agência de fomento ou fundação de apoio, inclusive em situações de residências médica e multiprofissional e no âmbito de hospitais de ensino, aplica-se o disposto nos §§ 1º e 2º do art. 32 desta Lei.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO ESTÍMULO AO INVENTOR INDEPENDENTE
 
 **Art. 34** - Ao inventor independente que comprove depósito de pedido de patente ou qualquer outra forma de proteção da propriedade intelectual é facultado solicitar a adoção de sua criação por ICTs, que decidirá quanto à conveniência e à oportunidade da solicitação e à elaboração de projeto voltado à avaliação da criação para futuro desenvolvimento, incubação, utilização, industrialização e inserção no mercado.
@@ -459,12 +464,14 @@ DO ESTÍMULO AO INVENTOR INDEPENDENTE
 
 **IV -** orientação para transferência de tecnologia para empresas já constituídas.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS FUNDOS DE INVESTIMENTO
 
 **Art. 36** - Ficam as agências de fomento autorizadas a figurar como cotista em Fundos de Investimentos em Participações que invistam em empresas cuja atividade principal seja a inovação, caracterizados pela comunhão de recursos captados por meio do sistema de distribuição de valores mobiliários, na forma da Lei Federal nº 6.385, de 07 de dezembro de 1976, e da Instrução da Comissão de Valores Mobiliários nº 578, de 30 de agosto de 2016, destinados à aquisição de ações, bônus de subscrição, debêntures simples, outros títulos e valores mobiliários conversíveis ou permutáveis em ações de emissão de companhias abertas ou fechadas, bem como capítulos e valores mobiliários representativos de participação em sociedades limitadas, que deve participar do processo decisório da sociedade investida, com efetiva influência na definição de sua política estratégica e na sua gestão.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS FUNDAÇÕES DE APOIO
 
 **Art. 37** - As ICTs de direito público, sediadas no Estado, poderão celebrar convênios e contratos, nos termos do inciso XII do _caput_ do art. 59 da Lei nº 9.433, de 01 de março de 2005, por prazo determinado, com fundações instituídas com a finalidade de apoiar projetos de ensino, pesquisa, extensão, desenvolvimento institucional, científico e tecnológico e estímulo à inovação, inclusive na gestão administrativa e financeira necessária à execução desses projetos.
@@ -607,7 +614,8 @@ DAS FUNDAÇÕES DE APOIO
 
 **§ 2**º - Na hipótese de que trata o § 1º deste artigo, o ressarcimento previsto no _caput_ do mesmo poderá ser dispensado, mediante justificativa circunstanciada constante no projeto a ser aprovado pelo Conselho Superior das ICTs.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS LICITAÇÕES E DO REGIME ESPECIAL DE CONTRATAÇÃO DE PESSOAL
 
 **Art. 51** - A Lei nº [9.433](https://www.legislabahia.ba.gov.br/documentos/lei-no-9433-de-01-de-marco-de-2005), de 01 de março de 2005, passa a vigorar com as seguintes modificações e acréscimos:
@@ -664,7 +672,8 @@ VII - admitir pesquisador, técnico com formação em área tecnológica de nív
 
 ......................................................................................................” (NR)
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DO CONSELHO ESTADUAL DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
 
 **Art. 53** - O Conselho Estadual de Ciência, Tecnologia e Inovação - CONCITECI é órgão colegiado consultivo, propositivo e tem por finalidade definir e traçar as diretrizes para a formulação e implementação da Política Estadual de Desenvolvimento Científico, Tecnológico e da Inovação, respeitadas as atribuições dos conselhos superiores das entidades vinculadas ao Sistema de Ciência, Tecnologia e Inovação do Estado da Bahia.
@@ -739,7 +748,8 @@ a) Conselho Estadual de Ciência, Tecnologia e Inovação - CONCITECI;
 
 ......................................................................................................” (NR)
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DISPOSIÇÕES FINAIS
 
 **Art. 58** - O Diretor Geral, o Diretor Científico e o Diretor de Inovação da FAPESB serão nomeados pelo Governador do Estado.

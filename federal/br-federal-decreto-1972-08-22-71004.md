@@ -1,5 +1,3 @@
-###DEC-071004-0-000-22-08-1972@@@
-
 DECRETO Nº 71.004, De 22 DE AGOSTO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado da Bahia.

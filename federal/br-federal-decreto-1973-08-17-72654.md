@@ -1,5 +1,3 @@
-###DEC-072654-0-000-17-08-1973@@@
-
 DECRETO Nº 72.654, DE 17 DE AGOSTO DE 1973.
 
 Concede à Companhia Brasileira de Alumínio direito de lavrar bauxita, no Município de Poços de Caldas, Estado de Minas Gerais.

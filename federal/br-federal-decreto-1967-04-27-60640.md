@@ -1,5 +1,3 @@
-###DEC-060640-0-000-27-04-1967@@@
-
 DECRETO Nº 60.640, DE 27 DE ABRIL DE 1967.
 
 Fixa a composição do Conselho Nacional de Desportos.

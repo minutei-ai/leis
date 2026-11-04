@@ -1,5 +1,3 @@
-###DEC-071225-0-000-06-10-1972@@@
-
 DECRETO Nº 71.225 - DE 6 DE OUTUBRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Sant'Ana do Livramento, Estado do Rio Grande do Sul.

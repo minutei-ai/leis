@@ -1,5 +1,3 @@
-###DEC-079599-0-000-26-04-1977@@@
-
 DECRETO Nº 79.599, DE 26 DE ABRIL DE 1977.
 
 Concede à S. A. Indústrias Votorantim o direito de lavrar calcário e dolomito no Município de Capão Bonito, Estado de São Paulo.

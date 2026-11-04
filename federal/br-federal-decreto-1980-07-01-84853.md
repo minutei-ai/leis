@@ -1,5 +1,3 @@
-###DEC-084853-0-000-01-07-1980@@@
-
 DECRETO Nº 84.853, DE 01 DE JULHO DE 1980
 
 Regulamenta os artigos 33, 34, inciso I, 35 e 36 do Decreto-lei nº 37, de 18 de novembro de 1966, que tratam da jurisdição dos serviços e outros controles aduaneiros.

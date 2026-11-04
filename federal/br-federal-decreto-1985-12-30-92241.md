@@ -1,5 +1,3 @@
-###DEC-092241-0-000-30-12-1985@@@
-
 Decreto nº 92.241, de 30 de dezembro de 1985
 
 Renova a concessão outorgada à RADIO RURAL DE TUPACIGUARA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Tupaciguara, Estado de Minas Gerais.

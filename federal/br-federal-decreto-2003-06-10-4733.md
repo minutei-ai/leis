@@ -1,5 +1,3 @@
-###DEC-004733-0-000-10-06-2003@@@
-
 DECRETO Nº 4.733, DE 10 DE JUNHO DE 2003.
 
        Dispõe sobre políticas públicas de telecomunicações e dá outras providências.
@@ -104,5 +102,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe conferem os arts. 7
 
         Brasília, 10 de junho de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Miro Teixeira

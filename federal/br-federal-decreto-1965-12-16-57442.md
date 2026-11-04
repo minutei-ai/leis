@@ -1,5 +1,3 @@
-###DEC-057442-0-000-16-12-1965@@@
-
 Decreto nº 57.442, de 16 de dezembro de 1965.
 
 Autoriza Fosforita Olinda S.A. - FASA a lavrar fosforita, no município de Olinda, Estado de Pernambuco.

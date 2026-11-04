@@ -1,5 +1,3 @@
-###DEC-051832-0-000-12-03-1963@@@
-
 DECRETO Nº 51.832, DE 12 DE MARÇO DE 1963.
 
 Autoriza o cidadão brasileiro Juventino Lemos de Oliveira a lavrar água mineral, no município de Taubaté, Estado de São Paulo.

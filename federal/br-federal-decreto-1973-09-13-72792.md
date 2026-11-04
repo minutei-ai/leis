@@ -1,5 +1,3 @@
-###DEC-072792-0-000-13-09-1973@@@
-
 Decreto nº 72.792, de 13 de setembro de 1973.
 
 Concede à Companhia de Cimento Sul Paulista o direito de lavrar calcário no Município de Iporanga, Estado de São Paulo.

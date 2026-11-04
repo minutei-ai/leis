@@ -1,5 +1,3 @@
-###DEC-002838-0-000-06-11-1998@@@
-
 DECRETO Nº 2.838, DE 6 DE NOVEMBRO DE 1998
 
 Concede indulto, comuta penas, e dá outras providências.

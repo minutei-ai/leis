@@ -1,5 +1,3 @@
-###DEL-005091-0-000-15-12-1942@@@
-
 DECRETO-LEI N. 5.091 – DE 15 DE DEZEMBRO DE 1942
 
 Dispõe sobre o conceito de aprendiz, para os efeitos da legislação do ensino

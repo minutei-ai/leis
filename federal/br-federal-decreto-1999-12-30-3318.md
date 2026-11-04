@@ -1,5 +1,3 @@
-###DEC-003318-0-000-30-12-1999@@@
-
 DECRETO Nº 3.318, DE 30 DE DEZEMBRO DE 1999.
 
 Altera a redação dos arts. 3º e 5º do Decreto nº 2.851, de 30 de novembro de 1998, que dispõe sobre programas de amparo à pesquisa científica e tecnológica aplicados à indústria de petróleo.

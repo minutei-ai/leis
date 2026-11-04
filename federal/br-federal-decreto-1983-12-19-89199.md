@@ -1,5 +1,3 @@
-###DEC-089199-0-000-19-12-1983@@@
-
 Decreto nº 89.199, de 19 de dezembro de 1983
 
 Transfere da Companhia Tecidos Pitanguiense para Companhia Tecidos Santanense a concessão para o aproveitamento a energia hidráulica, para uso exclusivo, no Município de Conceição do Pará, Estado de Minas Gerais.

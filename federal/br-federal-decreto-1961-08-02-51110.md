@@ -1,5 +1,3 @@
-###DEC-051110-0-000-02-08-1961@@@
-
 DECRETO Nº 51.110, DE 2 DE AGôSTO DE 1961.
 
 Outorga à Prefeitura Municipal de Guarabira, Estado da Paraíba, concessão para distribuir energia elétrica.

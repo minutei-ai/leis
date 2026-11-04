@@ -1,5 +1,3 @@
-###DEC-052956-0-000-26-11-1963@@@
-
 DECRETO Nº 52.956, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Mineração Carazal Ltda. a lavrar caulim no Município de Mar de Espanha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-068999-0-000-03-08-1971@@@
-
 decreto nº 68.999, de 3 de agôsto de 1971.
 
 Autorização para funcionamento da Escola Superior de Educação Física de Muzambinho - MG.

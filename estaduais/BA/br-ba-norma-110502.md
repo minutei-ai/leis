@@ -1,6 +1,7 @@
 LEI Nº 9.432 DE 11 DE FEVEREIRO DE 2005
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.631](javascript: openDoc\() de 07 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Bacia do Paramirim, na forma da Lei nº 12.057/2011, a saber: Botuporã, Boquira, Caturama, Érico Cardoso, Ibipitanga, Macaúbas, Paramirim, Rio do Pires e Tanque Novo.
 
 Corrige os limites do Município de BOTUPORÃ, alterado em 2001, através da [Lei nº 7.812, de 11 de maio](https://www.legislabahia.ba.gov.br/documentos/lei-no-7812-de-11-de-maio-de-2001#LO_7_812) .
@@ -33,4 +34,4 @@ Armando Avena Filho
 
 Secretário do Planejamento
 
-* * *
+ *

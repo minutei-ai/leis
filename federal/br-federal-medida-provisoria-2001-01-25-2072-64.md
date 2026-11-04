@@ -1,5 +1,3 @@
-###MPV-002072-0-064-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.072-64, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

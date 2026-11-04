@@ -1,5 +1,3 @@
-###DEC-006383-0-000-27-02-2008@@@
-
 DECRETO Nº 6.383, DE 27 DE FEVEREIRO DE 2008.
 
 Dá nova redação aos arts. 29 e 41 do Regulamento do Fundo de Desenvolvimento do Nordeste - FDNE, aprovado pelo Decreto no 4.253, de 31 de maio de 2002.
@@ -51,5 +49,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Geddel Vieira Lima
-
-Este texto não substitui o publicado no DOU de 28.2.2008

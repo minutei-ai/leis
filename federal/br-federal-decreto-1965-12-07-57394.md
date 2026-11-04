@@ -1,5 +1,3 @@
-###DEC-057394-0-000-07-12-1965@@@
-
 DECRETO Nº 57.394, DE 7 DE DEZEMBRO DE 1965.
 
 Condiciona a venda de passagens para o Exterior do País, à prévia apresentação de certificado internacional de vacinação ou revacinação contra a varíola.

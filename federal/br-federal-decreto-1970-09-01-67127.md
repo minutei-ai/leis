@@ -1,5 +1,3 @@
-###DEC-067127-0-000-01-09-1970@@@
-
 Decreto nº 67.127, de 1 de setembro de 1970.
 
 Declara de utilidade pública a Escola Profissional São José, com sede em Sobral, Estado do Ceará.

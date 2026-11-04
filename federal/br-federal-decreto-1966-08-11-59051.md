@@ -1,5 +1,3 @@
-###DEC-059051-0-000-11-08-1966@@@
-
 DECRETO Nº 59.051, DE 11 DE AGÔSTO DE 1966.
 
 Homologa Têrmo de Garantia firmado em 23.11.1962.

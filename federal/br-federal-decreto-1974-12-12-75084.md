@@ -1,5 +1,3 @@
-###DEC-075084-0-000-12-12-1974@@@
-
 DECRETO nº 75.084, DE 12 DE DEZEMBRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do Terreno que menciona, situado no Rio Grande do Sul.

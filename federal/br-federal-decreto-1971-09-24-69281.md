@@ -1,5 +1,3 @@
-###DEC-069281-0-000-24-09-1971@@@
-
 DECRETO Nº 69.281, DE 24 DE SETEMBRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial da Superintendência Nacional da Marinha Mercante, cargos originários do Lloyd Brasileiro-PN., e da Companhia Nacional e Navegação Costeira - AF., e dá outras providências.

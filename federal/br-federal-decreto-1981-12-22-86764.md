@@ -1,5 +1,3 @@
-###DEC-086764-0-000-22-12-1981@@@
-
 DECRETO Nº 86.764, DE 22 DE DEZEMBRO DE 1981
 
 Regulamenta o regime sumário de registro e arquivamento no Registro do Comércio e dá outras providências

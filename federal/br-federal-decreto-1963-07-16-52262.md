@@ -1,5 +1,3 @@
-###DEC-052262-0-000-16-07-1963@@@
-
 DECRETO Nº 52.262, DE 16 DE JULHO DE 1963.
 
 Altera o inciso II do Art. 37 do Regulamento para o Corpo do Pessoal Subalterno da Armada.

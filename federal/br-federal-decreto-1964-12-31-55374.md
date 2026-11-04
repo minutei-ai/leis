@@ -1,5 +1,3 @@
-###DEC-055374-0-000-31-12-1964@@@
-
 DECRETO Nº 55.374, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Cia. Cimento Portland Brasília a lavrar argila, no município de Corumbá de Goiás, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-057707-0-000-02-02-1966@@@
-
 DECRETO Nº 57.707, de 2 de fevereiro de 1966.
 
 Retifica o Decreto nº 48.706, de 4 de agôsto de 1960.

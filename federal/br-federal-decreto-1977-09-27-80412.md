@@ -1,5 +1,3 @@
-###DEC-080412-0-000-27-09-1977@@@
-
 DECRETO Nº 80.412, DE 27 DE SETEMBRO DE 1977.
 
 Concede à Osaki Mineração Ltda. o direito de lavrar calcário e argila no Município de São Sebastião do Alto, Estado do Rio de Janeiro.

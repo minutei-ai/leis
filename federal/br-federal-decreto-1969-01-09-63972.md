@@ -1,5 +1,3 @@
-###DEC-063972-0-000-09-01-1969@@@
-
 DECRETO Nº 63.972, DE 9 DE JANEIRO DE 1969.
 
 Dissolve a Comissão Liquidante do extinto Serviço de Alimentação da Previdência Social (SAPS), e dá outras providências.

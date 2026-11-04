@@ -1,5 +1,3 @@
-###DEC-059810-0-000-19-12-1966@@@
-
 Decreto Nº 59.810, DE 19 DE DEZEMBRO DE 1966.
 
 Declara caduco o Decreto nº 20.773, de 19 de março de 1946.

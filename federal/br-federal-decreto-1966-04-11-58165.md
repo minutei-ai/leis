@@ -1,5 +1,3 @@
-###DEC-058165-0-000-11-04-1966@@@
-
 DECRETO Nº 58.165, DE 11 DE ABRIL DE 1966.
 
 Altera o Regulamento da Escola Nacional de Saúde Publica, aprovado pelo Decreto nº 46.258, de 23 de junho de 1959, e dá outras providências.

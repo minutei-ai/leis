@@ -1,5 +1,3 @@
-###DEC-083735-0-000-18-07-1979@@@
-
 decreto nº 83.735, de 18 de julho de 1979.
 
 Declara de utilidade pública para os fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas Matogrossenses S.A.. - CEMAT, no Estado de Mato Grosso.

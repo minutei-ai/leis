@@ -1,7 +1,3 @@
-1
-
-###DEC-098867-0-000-23-01-1990@@@
-
 DECRETO Nº 98.867, DE 23 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas de Barra do Garças.

@@ -1,5 +1,3 @@
-###DEC-055027-0-000-18-11-1964@@@
-
 DECRETO Nº 55.027, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Rosim a lavrar quartzo, no município de Monte Sião, Estado de Minas Gerais.

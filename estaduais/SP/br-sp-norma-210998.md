@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210998)<br>
-
 # LEI N° 18.153, DE 02 DE JUNHO DE 2025
 
 ### _Revaloriza os pisos salariais mensais dos trabalhadores que especifica, instituídos pela Lei n° 12.640, de 11 de julho de 2007._

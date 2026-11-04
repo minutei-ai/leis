@@ -1,5 +1,3 @@
-###DEC-083300-0-000-26-03-1979@@@
-
 Decreto nº 83.300, de 26 de março de 1979
 
 Concede reconhecimento ao curso de Química Industrial da Faculdade de Química Janir de Carvalho, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

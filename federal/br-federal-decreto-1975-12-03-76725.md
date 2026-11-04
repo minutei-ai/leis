@@ -1,5 +1,3 @@
-###DEC-076725-0-000-03-12-1975@@@
-
 DECRETO Nº 76.725, DE 3 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas, Contábeis e Administrativas, com sede na cidade de Barbacena, Estado de Minas Gerais.

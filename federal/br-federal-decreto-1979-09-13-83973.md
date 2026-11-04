@@ -1,5 +1,3 @@
-###DEC-083973-0-000-13-09-1979@@@
-
 Decreto nº 83.973, de 13 de setembro de 1979.
 
 Regulamenta o artigo 15, e seguintes, da Lei nº 5.536, de 21 de novembro de 1968, que criou o Conselho Superior de Censura.

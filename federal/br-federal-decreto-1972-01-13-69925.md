@@ -1,5 +1,3 @@
-###DEC-069925-0-000-13-01-1972@@@
-
 DECRETO Nº 69.925, DE 13 DE JANEIRO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Justiça e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058954-0-000-01-08-1966@@@
-
 DECRETO Nº 58.954, de 1 de agôsto de 1966.
 
 Aprova a Alteração introduzida nos Estatutos da Companhia de Seguros Latino - Americana, relativa ao aumento do capital social.

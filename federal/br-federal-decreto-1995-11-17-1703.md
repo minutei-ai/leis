@@ -1,7 +1,3 @@
-1
-
-###DEC-001703-0-000-17-11-1995@@@
-
 DECRETO Nº 1.703, DE 17 DE NOVEMBRO DE 1995.
 
 Promulga a Convenção número 141, da Organização Internacional do Trabalho, relativa às Organizações de Trabalhadores Rurais e sua Função no Desenvolvimento Econômico e Social, adotada em Genebra, em 23 de junho de 1975.

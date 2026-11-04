@@ -1,5 +1,3 @@
-###DEC-064810-0-000-10-07-1969@@@
-
 DECRETO Nº 64.810 - DE 10 DE JULHO DE 1969.
 
 Concede à Bela Vista Mineração e Comércio Ltda. o direito de lavrar apatita, no município de Itambé, Estado da Bahia.

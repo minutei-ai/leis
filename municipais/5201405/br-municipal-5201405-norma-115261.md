@@ -14,7 +14,8 @@ Art. 3º. As despesas decorrentes desta Lei Complementar correrão à conta da L
 
 Art. 4º. Esta Lei Complementar entra em vigor na data de sua publicação. Município de Aparecida de Goiânia, aos 13 de Abril de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
 ANEXO ÚNICO

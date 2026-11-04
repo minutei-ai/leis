@@ -1,5 +1,3 @@
-###DEC-004431-0-000-18-10-2002@@@
-
 DECRETO Nº 4.431, DE 18 DE OUTUBRO 2002
 
 Altera a redação do art. 21 do Regulamento para as Polícias Militares e Corpo de Bombeiros Militares (R-200), aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983.

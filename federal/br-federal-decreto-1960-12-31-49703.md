@@ -1,5 +1,3 @@
-###DEC-049703-0-000-31-12-1960@@@
-
 decreto nº 49.703, de 31 de dezembro de 1960.
 
 Revoga o decreto que concedeu à Bethsteel do Brasil S.A. autorização para funcionar na República.

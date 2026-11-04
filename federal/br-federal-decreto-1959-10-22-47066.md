@@ -1,5 +1,3 @@
-###DEC-047066-0-000-22-10-1959@@@
-
 DECRETO Nº 47.066, DE 22 DE OUTUBRO DE 1959.
 
 Exclui das disposições do parágrafo único do art. 9º do Decreto número 45.368, de 29 de janeiro de 1959, despesa que menciona.

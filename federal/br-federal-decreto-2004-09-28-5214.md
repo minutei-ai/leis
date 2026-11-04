@@ -1,5 +1,3 @@
-###DEC-005214-0-000-28-09-2004@@@
-
 DECRETO Nº 5.214 DE 28 DE SETEMBRO DE 2004.
 
    Dá nova redação a dispositivos da Estrutura Regimental do Ministério das Relações Exteriores, aprovada pelo Decreto no 5.032, de 5 de abril de 2004.    
@@ -24,5 +22,6 @@ Das Repartições no Exterior" (NR)
 
         Brasília, 28 de setembro de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Samuel Pinheiro Guimarães Neto

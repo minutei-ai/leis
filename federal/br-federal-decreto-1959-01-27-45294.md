@@ -1,5 +1,3 @@
-###DEC-045294-0-000-27-01-1959@@@
-
 Decreto nº 45.294, de 27 de janeiro de 1959.
 
 Autoriza o cidadão brasileiro Ricardo Luiz Toledo Piza a pesquisar areia quartzosa no município de Itanhaem, Estado de São Paulo.

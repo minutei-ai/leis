@@ -1,5 +1,3 @@
-###DEC-051735-0-000-21-02-1963@@@
-
 DECRETO Nº 51.735, DE 21 DE FEVEREIRO DE 1963.
 
 Reduz de um ano temporàriamente, o disposto no inciso I do artigo 94 do Regulamento para o Corpo do Pessoal Subalterno da Armada.

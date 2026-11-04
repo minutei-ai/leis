@@ -1,5 +1,3 @@
-###DEC-050435-0-000-10-04-1961@@@
-
 Decreto nº 50.435, de 10 de abril de 1961.
 
 Institui um Grupo de Trabalho para efetuar o levantamento da Dívida da União para com a previdência social e dá outras providências.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.528, DE 10 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o reconhecimento da Quadrilha Junina “Pacatuba” como patrimônio cultural do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o reconhecimento da Quadrilha Junina “Pacatuba” como patrimônio cultural do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

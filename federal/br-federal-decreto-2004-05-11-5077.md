@@ -1,5 +1,3 @@
-###DEC-005077-0-000-11-05-2004@@@
-
 DECRETO Nº 5.077,  DE 11 DE MAIO DE 2004
 
 Dispõe sobre a execução do Quadragésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 17 de fevereiro de 2004.

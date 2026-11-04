@@ -1,5 +1,3 @@
-###DEC-052651-0-000-10-10-1963@@@
-
 DECRETO Nº 52.651, DE 10 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública a Sociedade de Educação e Assistência Social, com sede em Belo Horizonte, Estado de Minas Gerais.

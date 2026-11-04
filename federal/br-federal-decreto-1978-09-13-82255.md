@@ -1,5 +1,3 @@
-###DEC-082255-0-000-13-09-1978@@@
-
 DECRETO Nº 82.255, DE 13 DE SETEMBRO DE 1978.
 
 Concede reconhecimento ao curso de Educação Física da Universidade do Estado do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

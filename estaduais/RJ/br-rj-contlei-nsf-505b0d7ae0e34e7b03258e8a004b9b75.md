@@ -1,29 +1,19 @@
-<br>
-<br>
 **LEI N.º 11.332 DE 06 DE OUTUBRO DE 2026**
 
-<br>
-<br>
+<table width="100%" border="1"><tbody><tr><td width="100%">**DECLARA A UTILIDADE PÚBLICA DA ONG-MDA ASSOCIAÇÃO MOVIMENTO DAS ARTES.**</td></tr></tbody></table>
 
-<table width="100%" border="1"><tbody><tr><td width="100%"><b><font face="Arial">DECLARA A UTILIDADE PÚBLICA DA ONG-MDA ASSOCIAÇÃO MOVIMENTO DAS ARTES.</font></b></td></tr></tbody></table>
+**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO, EM EXERCÍCIO,**
 
-<br>
-<br>
-**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO, EM EXERCÍCIO,**<br>
 Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:
 
-**RESOLVE:**<br>
+**RESOLVE:**
 
-**Art. 1º** Fica declarada a utilidade pública da ONG-MDA ASSOCIAÇÃO MOVIMENTO DAS ARTES.<br>
-<br>
-**Art. 2º** Esta lei entra em vigor na data de sua publicação.<br>
+**Art. 1º** Fica declarada a utilidade pública da ONG-MDA ASSOCIAÇÃO MOVIMENTO DAS ARTES.
 
-Rio de Janeiro, 06 de outubro de 2026.<br>
-<br>
-**RICARDO COUTO DE CASTRO**<br>
-Governador em exercício<br>
+**Art. 2º** Esta lei entra em vigor na data de sua publicação.
 
-<br>
-<br>
-<br>
-<br>
+Rio de Janeiro, 06 de outubro de 2026.
+
+**RICARDO COUTO DE CASTRO**
+
+Governador em exercício

@@ -1,5 +1,3 @@
-###DEC-003410-0-000-10-04-2000@@@
-
 DECRETO Nº 3.410, DE 10 DE ABRIL DE 2000.
 
 Dá nova redação ao art. 2º do Decreto nº 840, de 22 de junho de 1993, que dispõe sobre a organização e o funcionamento do Conselho Nacional de Imigração, e delega competência ao Ministro de Estado do Trabalho e Emprego, para a prática do ato que menciona.

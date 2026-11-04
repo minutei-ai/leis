@@ -1,5 +1,3 @@
-###DEC-074661-0-000-07-10-1974@@@
-
 DECRETO Nº 74.661, DE 7 DE OUTUBRO DE 1974.
 
 Altera a redação do Art. 35, do Regulamento do Regime de Previdência Social.

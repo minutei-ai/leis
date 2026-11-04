@@ -1,5 +1,3 @@
-###DEC-048375-0-000-22-06-1960@@@
-
 DECRETO Nº 48.375, DE 22 DE JUNHO DE 1960.
 
 Dispõe sôbre a Faculdade de Farmácia e Odontologia de Ribeirão Prêto.

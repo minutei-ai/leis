@@ -1,5 +1,3 @@
-###DEC-001992-0-000-29-08-1996@@@
-
 DECRETO N° 1.992, DE 29 DE AGOSTO DE 1996.
 
 Altera a Lista de Exceção à Tarifa Externa Comum, anexa ao Decreto nº 1.848, de 29 de março de 1996, e dá outras providências.

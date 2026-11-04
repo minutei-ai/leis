@@ -1,5 +1,3 @@
-###DEC-006039-0-000-07-02-2007@@@
-
 DECRETO Nº 6.039, DE 7 DE FEVEREIRO DE 2007.
 
 Aprova o Plano de Metas para a Universalização do Serviço Telefônico Fixo Comutado em Instituições de Assistência às Pessoas com Deficiência Auditiva.
@@ -16,11 +14,7 @@ Brasília, 7 de fevereiro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Fernando Rodrigues Lopes de Oliveira
-
-Este texto não substitui o publicado no DOU de 8.2.2007.
-
-ANEXO
+Fernando Rodrigues Lopes de OliveiraANEXO
 
 PLANO DE METAS PARA A UNIVERSALIZAÇÃO DO SERVIÇO TELEFÔNICO FIXO COMUTADO EM INSTITUIÇÕES DE ASSISTÊNCIA ÀS PESSOAS COM DEFICIÊNCIA AUDITIVA
 

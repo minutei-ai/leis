@@ -1,5 +1,3 @@
-###DEC-058872-0-000-20-07-1966@@@
-
 DECRETO Nº 58.872, DE 20 DE JULHO DE 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica do Rio Grande do Sul concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 20 de julho de 1966; 146º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-058872-0-000-20-07-1966@@@RET01+++
 
 DECRETO Nº 58.872, DE 20 DE JULHO DE 1966.
 

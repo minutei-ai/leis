@@ -1,5 +1,3 @@
-###DEC-055352-0-000-31-12-1964@@@
-
 decreto nº 55.352, de 31 de dezembro de 1964.
 
 Autoriza a Sociedade Brasileira de Mineração Fama Ltda. a lavrar amianto no município de São Domingos do Prata, Estado de Minas Gerais.

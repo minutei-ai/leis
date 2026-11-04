@@ -1,5 +1,3 @@
-###DEC-070428-0-000-17-04-1972@@@
-
 DECRETO Nº 70.428, DE 17 DE ABRIL DE 1972.
 
 Autoriza o funcionamento dos Cursos de Ciências e de Estudos Sociais, da Faculdade de Filosofia "D. José", de Sobral.

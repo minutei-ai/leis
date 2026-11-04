@@ -1,7 +1,3 @@
-1
-
-###DEC-002020-0-000-02-10-1996@@@
-
 DECRETO Nº 2.020, DE 2 DE OUTUBRO DE 1996.
 
 Promulga o Acordo de Criação da Associação dos Países Produtores de Café e o Plano de Retenção de Café, assinados em Brasília, em 24 de setembro de 1993.

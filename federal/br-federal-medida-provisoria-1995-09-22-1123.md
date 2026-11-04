@@ -1,7 +1,3 @@
-1
-
-###MPV-001123-0-000-22-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.123, DE 22 DE SETEMBRO DE 1995.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

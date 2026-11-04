@@ -1,7 +1,3 @@
-1
-
-###DEC-098943-0-000-13-02-1990@@@
-
 DECRETO Nº 98.943, DE 13 FEVEREIRO DE 1990
 
 Promulga o Acordo sobre Cooperação nos Campos da Ciência e Tecnologia entre a República Federativa do Brasil e a República da Índia.

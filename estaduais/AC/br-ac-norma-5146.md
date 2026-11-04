@@ -1,6 +1,6 @@
 > **LEI Nº 3.918, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.021, de 25 de agosto de 2008, que institui o Plano de Carreira e Remuneração dos profissionais de nível superior ocupantes dos cargos de engenheiro, tecnólogo, arquiteto, geógrafo, geólogo, médico veterinário e zootecnista, no âmbito da administração direta, das autarquias e fundações públicas do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 2.021, de 25 de agosto de 2008, que institui o Plano de Carreira e Remuneração dos profissionais de nível superior ocupantes dos cargos de engenheiro, tecnólogo, arquiteto, geógrafo, geólogo, médico veterinário e zootecnista, no âmbito da administração direta, das autarquias e fundações públicas do Estado do Acre e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -82,6 +82,48 @@ Governador do Estado do Acre
 
 “**ANEXO ÚNICO**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>NÍVEL</span></strong></span></p></td><td><p><span><strong><span>VENCIMENTO BÁSICO</span></strong></span></p></td></tr><tr><td><p><span><span>A</span></span></p></td><td><p><span><span>R$ 6.224,40</span></span></p></td></tr><tr><td><p><span><span>B</span></span></p></td><td><p><span><span>R$ 6.846,84</span></span></p></td></tr><tr><td><p><span><span>C</span></span></p></td><td><p><span><span>R$ 7.469,28</span></span></p></td></tr><tr><td><p><span><span>D</span></span></p></td><td><p><span><span>R$ 8.091,72</span></span></p></td></tr><tr><td><p><span><span>E</span></span></p></td><td><p><span><span>R$ 8.714,16</span></span></p></td></tr><tr><td><p><span><span>F</span></span></p></td><td><p><span><span>R$ 9.336,60</span></span></p></td></tr><tr><td><p><span><span>G</span></span></p></td><td><p><span><span>R$ 9.959,04</span></span></p></td></tr><tr><td><p><span><span>H</span></span></p></td><td><p><span><span>R$ 10.581,48</span></span></p></td></tr><tr><td><p><span><span>I</span></span></p></td><td><p><span><span>R$ 11.203,92</span></span></p></td></tr><tr><td><p><span><span>J</span></span></p></td><td><p><span><span>R$ 11.826,36</span></span></p></td></tr></tbody></table>
+**NÍVEL**
+
+**VENCIMENTO BÁSICO**
+
+A
+
+R$ 6.224,40
+
+B
+
+R$ 6.846,84
+
+C
+
+R$ 7.469,28
+
+D
+
+R$ 8.091,72
+
+E
+
+R$ 8.714,16
+
+F
+
+R$ 9.336,60
+
+G
+
+R$ 9.959,04
+
+H
+
+R$ 10.581,48
+
+I
+
+R$ 11.203,92
+
+J
+
+R$ 11.826,36
 
 ” **(NR)**

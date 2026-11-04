@@ -1,20 +1,18 @@
-###DEC-038160-0-000-28-10-1955@@@
-
 <!-- reproducao-incompleta:inicio -->
 
 > **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
 
 <!-- reproducao-incompleta:fim -->
 
-<strong>DECRETO Nº 38.160, DE 28 DE OUTUBRO DE 1955.</strong>
+**DECRETO Nº 38.160, DE 28 DE OUTUBRO DE 1955.**
 
-<em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Estradas de Ferro, áreas de terrenos e respectivas benfeitorias, no Estado de Minas Gerais.</strong></em>
+***Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Estradas de Ferro, áreas de terrenos e respectivas benfeitorias, no Estado de Minas Gerais.***
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal e nos têrmos do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152, de 6 de março de 1942 e 9.811 de 9 de setembro de 1946,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal e nos têrmos do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152, de 6 de março de 1942 e 9.811 de 9 de setembro de 1946,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública, para efeito de desapropriação, pelo Departamento Nacional de Estradas de Ferro, as áreas de terreno abaixo relacionadas e respectivas benfeitorias, necessárias à construção da via de acesso à estação de cargas de Belo Horizonte, localizada no Matadouro, subúrbio da mesma cidade, ponto da estação Belo Horizonte – Itabira - Peçanha, representadas na planta que com êste baixa, rubricada pelo Diretor da Divisão de Orçamento do Departamento de Administração do Ministério da Viação e Obras Públicas:
+**Art**. 1º Ficam declaradas de utilidade pública, para efeito de desapropriação, pelo Departamento Nacional de Estradas de Ferro, as áreas de terreno abaixo relacionadas e respectivas benfeitorias, necessárias à construção da via de acesso à estação de cargas de Belo Horizonte, localizada no Matadouro, subúrbio da mesma cidade, ponto da estação Belo Horizonte – Itabira - Peçanha, representadas na planta que com êste baixa, rubricada pelo Diretor da Divisão de Orçamento do Departamento de Administração do Ministério da Viação e Obras Públicas:
 
 Sexta Seção Suburbana.
 
@@ -72,12 +70,12 @@ Parte do lote 7 e lotes 8 - 9 -10 - 11 e 15, tendo êste 28 metros de frente par
 
 e) Faixa com 50 metros de largura e aproximadamente 160 metros de comprimento, situada entre as ruas São Bento e São Marcos.
 
-<strong>Art</strong>. 2º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de números 4.152, de 6 de março de 1942, e 9.811, de 9 de setembro de 1946, fica declarada a urgência da desapropriação.
+**Art**. 2º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de números 4.152, de 6 de março de 1942, e 9.811, de 9 de setembro de 1946, fica declarada a urgência da desapropriação.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de outubro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Octavio Marcondes Ferraz

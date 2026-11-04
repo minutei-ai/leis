@@ -1,5 +1,3 @@
-###DEC-094127-0-000-20-03-1987@@@
-
 DECRETO Nº 94.127, DE 20 DE MARÇO DE 1987.
 
 Outorga concessão à PROGRESSO DO ACRE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rio Branco, Estado do Acre.

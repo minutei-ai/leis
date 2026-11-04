@@ -1,5 +1,3 @@
-###DEC-056684-0-000-09-08-1965@@@
-
 Decreto nº 56.684, de 9 de agôsto de 1965.
 
 Autoriza Águas Minerais Naturais Limitada a lavrar água mineral no município de Nova Iguaçu, no Estado do Rio de Janeiro.

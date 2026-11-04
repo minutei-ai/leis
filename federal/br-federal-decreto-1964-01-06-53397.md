@@ -1,5 +1,3 @@
-###DEC-053397-0-000-06-01-1964@@@
-
 DECRETO Nº 53.397, DE 6 DE JANEIRO DE 1964.
 
 Alteração do Regulamento para a Diretoria de Intendência da Marinha.

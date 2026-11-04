@@ -1,5 +1,3 @@
-###DEL-008084-0-000-12-10-1945@@@
-
 DECRETO-LEI N. 8.084 – DE 12 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 1.451,60, para pagamento de salário.

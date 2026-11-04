@@ -1,5 +1,3 @@
-###DEC-007963-0-000-15-03-2013-PUB-01@@@
-
 DECRETO N° 7.963, DE 15 DE MARÇO DE 2013
 
 Institui o Plano Nacional de Consumo e Cidadania e cria a Câmara Nacional das Relações de Consumo.

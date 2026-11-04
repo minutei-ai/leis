@@ -1,5 +1,3 @@
-###DEC-065126-0-000-10-09-1969@@@
-
 DECRETO Nº 65.126 - DE 10 DE SETEMBRO DE 1969.
 
 Declara caduco o Decreto nº 21.059, de 3 de maio de 1946.

@@ -1,5 +1,3 @@
-###DEC-054827-0-000-03-11-1964@@@
-
 DECRETO Nº 54.827, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Anilson Varizo a pesquisar cassiterita, no município de Macapá, Território Federal do Amapá.

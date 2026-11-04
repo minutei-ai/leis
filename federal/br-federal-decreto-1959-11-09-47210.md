@@ -1,5 +1,3 @@
-###DEC-047210-0-000-09-11-1959@@@
-
 DECRETO Nº 47.210, DE 9 DE NOVEMBRO DE 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em São João de Meriti, Estado do Rio de Janeiro, necessários ao Ministério da Aeronáutica.
@@ -23,8 +21,6 @@ Rio de Janeiro, 9 de novembro de 1959; 138º da Independência e 71º da Repúbl
 Juscelino Kubitschek
 
 Francisco de Mello
-
-###DEC-047210-0-000-09-11-1959@@@RET01+++
 
 DECRETO Nº 47.210, DE 9 DE NOVEMBRO DE 1959.
 

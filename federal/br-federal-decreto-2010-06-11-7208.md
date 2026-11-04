@@ -1,5 +1,3 @@
-###DEC-007208-0-000-11-06-2010@@@
-
 DECRETO Nº 7.208, DE 11 DE JUNHO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Melequeoque, na República de Palau, cumulativa com a Embaixada em Manila

@@ -1,5 +1,3 @@
-###DEC-003237-0-000-10-11-1999@@@
-
 DECRETO Nº 3.237, DE 10 DE NOVEMBRO DE 1999.
 
 Cria, no âmbito do Ministério da Justiça, o Núcleo Especial de Combate à Impunidade.

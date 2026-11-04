@@ -1,6 +1,10 @@
 > **LEI Nº 3.512, DE 13 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 2.993, de 28 de outubro de 2015, que dispõe sobre o Plano de Cargos, Carreira e Remuneração – PCCR dos servidores do Ministério Público do Estado - MPAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 2.993, de 28 de outubro de 2015, que dispõe sobre o Plano de Cargos, Carreira e Remuneração – PCCR dos servidores do Ministério Público do Estado - MPAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

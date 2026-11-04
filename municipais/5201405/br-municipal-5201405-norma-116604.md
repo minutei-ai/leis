@@ -16,11 +16,14 @@ Art. 3º Fica revogado o Parágrafo único do art. 3º da Lei n° 3.115, de 30 d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 25 de maio de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-ANDRÉ LUIS FERREIRA DA ROSA<br>
+ANDRÉ LUIS FERREIRA DA ROSA
+
 Secretário de Desenvolvimento Econômico

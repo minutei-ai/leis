@@ -1,34 +1,32 @@
-###DEC-035519-0-000-19-05-1954@@@
+**DECRETO Nº 35.519, DE 19 DE MAIO DE 1954.**
 
-<strong>DECRETO Nº 35.519, DE 19 DE MAIO DE 1954.</strong>
+***Aprova o Regulamento do Instituto Nacional de Imigração e Colonização.***
 
-<em><strong>Aprova o Regulamento do Instituto Nacional de Imigração e Colonização.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista o que dispõe a Lei número 2.163, de 5 de janeiro de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista o que dispõe a Lei número 2.163, de 5 de janeiro de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Instituto Nacional de Imigração e Colonização, que com êste baixa, assinado pelo Ministro de Estado da Agricultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Instituto Nacional de Imigração e Colonização, que com êste baixa, assinado pelo Ministro de Estado da Agricultura.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de maio de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas
 
-<strong>REGULAMENTO DO INSTITUTO NACIONAL DE IMIGRAÇÃO E COLONIZAÇÃO</strong>
+**REGULAMENTO DO INSTITUTO NACIONAL DE IMIGRAÇÃO E COLONIZAÇÃO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>DAS FINALIDADES E DAS ATRIBUIÇÕES DO INSTITUTO</em>
+*DAS FINALIDADES E DAS ATRIBUIÇÕES DO INSTITUTO*
 
-<strong>Art</strong>. 1º O Instituto Nacional de Imigração e Colonização (I.N.I.C.), com sede e fôro na Capital da República, criado pela Lei nº 2.163, de 5 de janeiro de 1954, sob a jurisdição do Ministério da Agricultura, dispõe de personalidade jurídica de direito público, patrimônio próprio e autonomia administrativa.
+**Art**. 1º O Instituto Nacional de Imigração e Colonização (I.N.I.C.), com sede e fôro na Capital da República, criado pela Lei nº 2.163, de 5 de janeiro de 1954, sob a jurisdição do Ministério da Agricultura, dispõe de personalidade jurídica de direito público, patrimônio próprio e autonomia administrativa.
 
-<strong>Art</strong>. 2º São finalidades do I.N.I.C.:
+**Art**. 2º São finalidades do I.N.I.C.:
 
 I - assistir e encaminhar os trabalhadores nacionais imigrantes de uma para outra região;
 
@@ -36,7 +34,7 @@ II - orientar e promover a seleção, entrada, distribuição e fixação de imi
 
 III - traçar e executar, direta e indiretamente, o programa nacional de colonização, tendo em vista a fixação de imigrantes e o maior acesso aos nacionais da pequena propriedade agrícola.
 
-<strong>Art</strong>. 3º Para a objetivação de suas finalidades cabe ao I.N.I.C:
+**Art**. 3º Para a objetivação de suas finalidades cabe ao I.N.I.C:
 
 I - criar agências que se encarreguem da realização do programa de colonização e de colocação de mão de obra, articulando-se para isto com autoridades públicas e organizações particulares interessadas;
 
@@ -84,17 +82,17 @@ XXII - expedir instruções aos órgãos federais que exercerem atribuições re
 
 XXII - firmar convênios, acordos ou contratos com os Estados, Municípios e outras entidades públicas e particulares.
 
-<strong>Art</strong>. 4º Como serviço público federal, goza o I.N.I.C. de tôdas as regalias correspondentes, inclusive isenção de impostos, taxas e emolumentos federais, impenhorabilidade de bens, fôro e tratamento nos pleitos judiciais.
+**Art**. 4º Como serviço público federal, goza o I.N.I.C. de tôdas as regalias correspondentes, inclusive isenção de impostos, taxas e emolumentos federais, impenhorabilidade de bens, fôro e tratamento nos pleitos judiciais.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DA DIREÇÃO DO INSTITUTO</em>
+*DA DIREÇÃO DO INSTITUTO*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da composição e do funcionamento dos órgãos diretores</em>
+*Da composição e do funcionamento dos órgãos diretores*
 
-<strong>Art</strong>. 5º São órgãos de direção do I.N.I.C.:
+**Art**. 5º São órgãos de direção do I.N.I.C.:
 
 I - Diretoria Executiva;
 
@@ -102,7 +100,7 @@ II - Conselho Consultivo;
 
 III - Conselho Fiscal.
 
-<strong>Art</strong>. 6º A Diretoria Executiva é constituída por:
+**Art**. 6º A Diretoria Executiva é constituída por:
 
 I - um Presidente;
 
@@ -112,9 +110,9 @@ III - um Diretor-Tesoureiro.
 
 Parágrafo único. Os membros da Diretoria Executiva são de livre escôlha do Presidente da República e por êste nomeados em comissão.
 
-<strong>Art</strong>. 7º A Diretoria Executiva reunir-se-á ordinàriamente uma vez por semana e extraordinàriamente sempre que fôr convocada pelo Presidente.
+**Art**. 7º A Diretoria Executiva reunir-se-á ordinàriamente uma vez por semana e extraordinàriamente sempre que fôr convocada pelo Presidente.
 
-<strong>Art</strong>. 8º O Conselho Consultivo é compôsto por:
+**Art**. 8º O Conselho Consultivo é compôsto por:
 
 I - um Presidente;
 
@@ -128,9 +126,9 @@ III - um representante do Ministério da Justiça e Negócios Interiores, um do 
 
 § 3º Os membros do Conselho Consultivo serão nomeados em comissão pelo Presidente da República, sendo o representante da Confederação Rural Brasileira escolhido, em lista tríplice entre pessoas conhecedoras de assuntos relacionados com a imigração, a colonização e o meio rural.
 
-<strong>Art</strong>. 9º O Conselho Consultivo reunir-se-á ordinàriamente duas vêzes por mês e extraordinàriamente sempre que fôr convocado pelo Presidente.
+**Art**. 9º O Conselho Consultivo reunir-se-á ordinàriamente duas vêzes por mês e extraordinàriamente sempre que fôr convocado pelo Presidente.
 
-<strong>Art</strong>. 10. O Conselho Fiscal é compôsto de cinco (5) membros, sendo um indicado pelo Ministério da Fazenda, outro pelo Banco do Brasil, quando houver realizado financiamentos ou garantindo empréstimos acima de Cr$50.000.000,00 (cinqüenta milhões de cruzeiros), e os outros pelos Estados e por entidades de direito público, quando em conjunto hajam feito doações ao I.N.I.C., superiores a Cr$25.000.000,00 (vinte e cinco milhões de cruzeiros).
+**Art**. 10. O Conselho Fiscal é compôsto de cinco (5) membros, sendo um indicado pelo Ministério da Fazenda, outro pelo Banco do Brasil, quando houver realizado financiamentos ou garantindo empréstimos acima de Cr$50.000.000,00 (cinqüenta milhões de cruzeiros), e os outros pelos Estados e por entidades de direito público, quando em conjunto hajam feito doações ao I.N.I.C., superiores a Cr$25.000.000,00 (vinte e cinco milhões de cruzeiros).
 
 § 1º Enquanto não forem preenchidas as condições previstas nêste artigo, constituirão o Conselho Fiscal um Contador da Contadoria Geral da República do Ministério da Fazenda, um servidor do Departamento de Administração do Ministério da Agricultura, um do Banco do Brasil, e de duas pessoas de notória competência em assuntos de contabilidade pública e de administração financeira.
 
@@ -138,13 +136,13 @@ III - um representante do Ministério da Justiça e Negócios Interiores, um do 
 
 § 3º O Conselho Fiscal elegerá, anualmente, em sua primeira reunião, um de seus Membros, como Presidente e outro como Vice-Presidente.
 
-<strong>Art</strong>. 11. O Conselho Fiscal reunir-se-á ordinàriamente duas vêzes por mês e extraordinàriamente tôda vez que fôr convocado por seu Presidente.
+**Art**. 11. O Conselho Fiscal reunir-se-á ordinàriamente duas vêzes por mês e extraordinàriamente tôda vez que fôr convocado por seu Presidente.
 
-<strong>CAPÍTUILO II</strong>
+**CAPÍTUILO II**
 
-<em>Da competência dos órgãos diretores</em>
+*Da competência dos órgãos diretores*
 
-<strong>Art</strong>. 12. À Diretoria Executiva compete:
+**Art**. 12. À Diretoria Executiva compete:
 
 I - prover à administração do I.N.I.C., observadas as disposições da Lei nº 2.163, de 5 de janeiro de 1954, e as dêste Regulamento;
 
@@ -174,7 +172,7 @@ XIII - elaborar o projeto de Regimento do I.N.I.C., a ser aprovado por decreto d
 
 XIV - fornecer ao Conselho Fiscal as informações que êste solicitar sôbre atos da administração financeira do Instituto.
 
-<strong>Art</strong>. 13. Ao Conselho Consultivo cabe orientar e planejar a política de imigração e colonização do território brasileiro, competindo-lhe:
+**Art**. 13. Ao Conselho Consultivo cabe orientar e planejar a política de imigração e colonização do território brasileiro, competindo-lhe:
 
 I - aprovar os planos a longo prazo do I.N.I.C. e seus programas anuais de trabalho;
 
@@ -198,7 +196,7 @@ X - orientar e aconselhar a Diretoria nos assuntos sôbre os quais esta solicite
 
 XI - decidir, em grau de recurso para o Ministro da Agricultura, sôbre os vetos do Presidente às deliberações da Diretoria.
 
-<strong>Art</strong>. 14. Ao Conselho Fiscal compete:
+**Art**. 14. Ao Conselho Fiscal compete:
 
 I - examinar, em qualquer tempo, os livros e papéis do I.N.I.C. em que se registrem operações interessando à vida financeira do Instituto;
 
@@ -212,11 +210,11 @@ V - comunicar à Diretoria, por escrito, erros ou irregularidades que constatar,
 
 Parágrafo Único - As deliberações do Conselho Fiscal não terão efeito suspensivo, considerando-se aprovados os atos submetidos ao seu exame, se no prazo de vinte (20) dias, a contar da data do respectivo recebimento, não pronunciar-se o mesmo em contrário.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das atribuições dos titulares da direção</em>
+*Das atribuições dos titulares da direção*
 
-<strong>Art</strong>. 15. Ao Presidente incumbe:
+**Art**. 15. Ao Presidente incumbe:
 
 I - superintender as atividades do I.N.I.C., e representá-lo em tôdas as suas relações externas, inclusive em juízo;
 
@@ -246,7 +244,7 @@ XIII - recorrer, para o Conselho Consultivo, das decisões da Diretoria Executiv
 
 XIV - supervisionar os serviços de administração geral.
 
-<strong>Art</strong>. 16. Incumbe a cada Diretor:
+**Art**. 16. Incumbe a cada Diretor:
 
 I - orientar, coordenar e controlar os serviços que lhes forem subordinados;
 
@@ -262,7 +260,7 @@ VI - substituir o Presidente, nas suas faltas, e impedimentos, quando para isto 
 
 VII - designar o chefe de serviço que o deva substituir em seus impedimentos até trinta (30) dias.
 
-<strong>Art</strong>. 17. Ao Diretor Técnico incumbe, especialmente:
+**Art**. 17. Ao Diretor Técnico incumbe, especialmente:
 
 I - superintender a execução dos programas adotados para imigração, migrações internas e colonização;
 
@@ -276,7 +274,7 @@ V - instruir, convenientemente, na parte técnica, os pedidos de empréstimos, f
 
 VI - manter o Instituto informado das soluções adotadas, em matéria de imigração e colonização, pelos Estados e Municípios, por outros países e organização internacionais.
 
-<strong>Art</strong>. 18. Ao Diretor Tesoureiro incumbe, especialmente:
+**Art**. 18. Ao Diretor Tesoureiro incumbe, especialmente:
 
 I - zelar pela guarda e preservação dos valores de qualquer espécie de que o I.N.I.C. seja titular, depositário ou caucionário;
 
@@ -292,7 +290,7 @@ VI - organizar, semestralmente, para o fim de apresentação ao Conselho Consult
 
 VII - velar pela observância das instruções do Tribunal de Contas e demais preceitos legais aplicáveis à administração financeira do Instituto.
 
-<strong>Art</strong>. 19. A cada um dos Membros do Conselho Consultivo ou do Conselho Fiscal, inclusive os respectivos Presidentes, incumbe:
+**Art**. 19. A cada um dos Membros do Conselho Consultivo ou do Conselho Fiscal, inclusive os respectivos Presidentes, incumbe:
 
 I - o estudo dos assuntos, processos ou atos que lhes forem distribuídos;
 
@@ -302,7 +300,7 @@ III - o exercício do voto nas deliberações;
 
 IV - a assinatura das atas das reuniões;
 
-<strong>Art</strong>. 20. Ao Presidente do Conselho Fiscal incumbe:
+**Art**. 20. Ao Presidente do Conselho Fiscal incumbe:
 
 I - presidir às reuniões;
 
@@ -322,15 +320,15 @@ VIII - solicitar ao Presidente do Instituto as providências necessárias ao bom
 
 IX - submeter, no primeiro trimestre de cada ano, ao Conselho Consultivo e do Conselho Fiscal incumbe substituir os respectivos Presidentes em suas faltas e impedimentos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 22. O Quadro de Pessoal do I.N.I.C. será aprovado ou modificado por decreto executivo.
+**Art**. 22. O Quadro de Pessoal do I.N.I.C. será aprovado ou modificado por decreto executivo.
 
-<strong>Art</strong>. 23. O preenchimento dos cargos do Quadro do I.N.I.C. será feito na forma da Lei nº 1.584, de 27 de março de 1952, regulamentada pelo o Decreto nº 31.477, de 18 de setembro de 1952, observado o disposto no § 2º do art. 14 da Lei nº 2.163, de 5 de janeiro de 1954.
+**Art**. 23. O preenchimento dos cargos do Quadro do I.N.I.C. será feito na forma da Lei nº 1.584, de 27 de março de 1952, regulamentada pelo o Decreto nº 31.477, de 18 de setembro de 1952, observado o disposto no § 2º do art. 14 da Lei nº 2.163, de 5 de janeiro de 1954.
 
-<strong>Art</strong>. 24. Os cargos do Quadro de Pessoal a que se refere êste Regulamento serão providos por:
+**Art**. 24. Os cargos do Quadro de Pessoal a que se refere êste Regulamento serão providos por:
 
 I - Nomeação;
 
@@ -348,11 +346,11 @@ VII - Reversão.
 
 Parágrafo Único. - A nomeação para cargo de carreira será feita sempre na classe inicial.
 
-<strong>Art</strong>. 25. As nomeações ficam sujeitas à prévia habilitação em concurso público de provas de provas e títulos, nos têrmos do Regulamento aprovado pelo o Decreto nº 31.477, de 18 de setembro de 1952.
+**Art**. 25. As nomeações ficam sujeitas à prévia habilitação em concurso público de provas de provas e títulos, nos têrmos do Regulamento aprovado pelo o Decreto nº 31.477, de 18 de setembro de 1952.
 
 Parágrafo Único - Não depende de habilitação em concurso o provimento dos cargos considerados em comissão, de acôrdo com as normas legais vigentes.
 
-<strong>Art</strong>. 26. O funcionário ocupante de cargo de provimento efetivo adquire estabilidade depois de:
+**Art**. 26. O funcionário ocupante de cargo de provimento efetivo adquire estabilidade depois de:
 
 I - dois anos de exercício, quando nomeado em virtude de concurso;
 
@@ -362,9 +360,9 @@ II - cinco anos de exercício, quando nomeado em caráter efetivo sem concurso.
 
 § 2º - A estabilidade diz respeito ao serviço no Instituto e não ao cargo.
 
-<strong>Art</strong>. 27. O funcionário estável perderá o cargo em virtude de sentença judiciária, no caso de extinção do cargo ou no de demissão mediante processo administrativo, em que se lhe tenha assegurado ampla defesa.
+**Art**. 27. O funcionário estável perderá o cargo em virtude de sentença judiciária, no caso de extinção do cargo ou no de demissão mediante processo administrativo, em que se lhe tenha assegurado ampla defesa.
 
-<strong>Art</strong>. 28. Além do vencimento correspondente ao padrão do cargo que exercer, o funcionário poderá perceber as seguintes vantagens:
+**Art**. 28. Além do vencimento correspondente ao padrão do cargo que exercer, o funcionário poderá perceber as seguintes vantagens:
 
 I - Ajuda de custo;
 
@@ -398,17 +396,17 @@ j) adicional por tempo de serviço.
 
 Parágrafo Único - No pagamento do vencimento e na concessão das vantagens previstas neste artigo serão observadas as normas que vigorarem para os funcionários públicos civis da União.
 
-<strong>Art</strong>. 29. Sem prejuízo do vencimento ou de qualquer direito ou vantagem legal, o funcionário poderá faltar ao serviço até oito dias consecutivos por motivo de:
+**Art**. 29. Sem prejuízo do vencimento ou de qualquer direito ou vantagem legal, o funcionário poderá faltar ao serviço até oito dias consecutivos por motivo de:
 
 I - Casamento;
 
 II - Falecimento de cônjuge pais, filhos ou irmão;
 
-<strong>Art</strong>. 30. As formas de provimento discriminadas no art. 23 e, bem assim, a posse, a fiança, o exercício, a remoção, a substituição, o tempo de serviço, as férias, as licenças, o direito de petição, a disponibilidade, a aposentadoria e o regime disciplinar serão regulados em instruções expedidas pela a Diretoria Executiva, observados os princípios da Lei número 1.711, de 28 de outubro de 1952, e respectivos regulamentos, assim como as normas estabelecidas neste Regulamento e na Lei nº 2.163, de 5 de janeiro de 1954.
+**Art**. 30. As formas de provimento discriminadas no art. 23 e, bem assim, a posse, a fiança, o exercício, a remoção, a substituição, o tempo de serviço, as férias, as licenças, o direito de petição, a disponibilidade, a aposentadoria e o regime disciplinar serão regulados em instruções expedidas pela a Diretoria Executiva, observados os princípios da Lei número 1.711, de 28 de outubro de 1952, e respectivos regulamentos, assim como as normas estabelecidas neste Regulamento e na Lei nº 2.163, de 5 de janeiro de 1954.
 
 Parágrafo Único - É obrigatória a prestação de fiança para o exercício de cargos ou funções em que houver responsabilidade pela a guarda de valores ou de materiais.
 
-<strong>Art</strong>. 31. Além do funcionários, poderá haver no Instituto pessoal extranumerário das categorias de contratado mensalista e tarefeiro.
+**Art**. 31. Além do funcionários, poderá haver no Instituto pessoal extranumerário das categorias de contratado mensalista e tarefeiro.
 
 § 1º - A Tabela de Mensalista e o regime de retribuição de contratados e de tarefeiros serão aprovados pelo o Presidente da República.
 
@@ -416,9 +414,9 @@ Parágrafo Único - É obrigatória a prestação de fiança para o exercício d
 
 § 3º - Aos extranumerários a que se refere este art. aplica-se, no que couber, a legislação do pessoal correspondente no Serviço Público Federal.
 
-<strong>Art</strong>. 32. O Presidente, os Diretores, os Membros do Conselho Consultivo e os do Conselho Fiscal, bem como quaisquer servidores do I.N.I.C. não poderão ser associados, diretores ou empregados de emprêsa que mantenha o contrato com o Instituto ou mesmo esteja vinculada por interesses financeiros.
+**Art**. 32. O Presidente, os Diretores, os Membros do Conselho Consultivo e os do Conselho Fiscal, bem como quaisquer servidores do I.N.I.C. não poderão ser associados, diretores ou empregados de emprêsa que mantenha o contrato com o Instituto ou mesmo esteja vinculada por interesses financeiros.
 
-<strong>Art</strong>. 33. A posse dos servidores será dada:
+**Art**. 33. A posse dos servidores será dada:
 
 I - do Presidente, Diretor Técnico e Diretor Tesoureiro, pelo Ministro da Agricultura;
 
@@ -430,15 +428,15 @@ IV - e a dos demais servidores, pelo chefe superior do órgão de pessoal do I.N
 
 Parágrafo Único - Os membros do Conselho Consultivo e o do Conselho Fiscal tomarão posse perante o Presidente do I.N.I.C.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da Administração Financeira</em>
+*Da Administração Financeira*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Patrimônio e dos Recursos Financeiros</em>
+*Do Patrimônio e dos Recursos Financeiros*
 
-<strong>Art</strong>. 34 Constituem o patrimônio do I.N.I.C.:
+**Art**. 34 Constituem o patrimônio do I.N.I.C.:
 
 I - os bens móveis e imóveis e os direitos pertencentes à união e para o Instituto transferidos na forma do art 7º da Lei nº 2.163, de 5 de janeiro de 1954;
 
@@ -450,7 +448,7 @@ IV - doações e legados;
 
 V - saldos financeiros transferidos para a conta patrimonial.
 
-<strong>Art</strong>. 35. Além da dotação orçamentária prevista no art 6º da Lei número 2.163, de 5 de janeiro de 1954, o I.N.I.C. terá as seguintes fontes de receita:
+**Art**. 35. Além da dotação orçamentária prevista no art 6º da Lei número 2.163, de 5 de janeiro de 1954, o I.N.I.C. terá as seguintes fontes de receita:
 
 I - pagamentos devidos pela ocupação ou aquisição dos seus lotes, seja qual fôr o título;
 
@@ -464,27 +462,27 @@ V - arrecadação proveniente do Sêlo de Imigração;
 
 VI - recursos orçamentários que lhe venham a ser destinados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Regime Orçamentário</em>
+*Do Regime Orçamentário*
 
-<strong>Art</strong>. 36. O orçamento do Instituto será aprovado por decreto do Presidente da República, na segunda quinzena do mês de dezembro de cada ano.
+**Art**. 36. O orçamento do Instituto será aprovado por decreto do Presidente da República, na segunda quinzena do mês de dezembro de cada ano.
 
-<strong>Art</strong>. 37. A proposta orçamentária deverá distinguir o orçamento de custeio do de inversões.
+**Art**. 37. A proposta orçamentária deverá distinguir o orçamento de custeio do de inversões.
 
-<strong>Art</strong>. 38. O exame da proposta orçamentária do I.N.I.C. poderá ser feito ao mesmo tempo pelo Conselho Consultivo e pelo Conselho Fiscal sôbre vias distintas apresentadas pelo Presidente.
+**Art**. 38. O exame da proposta orçamentária do I.N.I.C. poderá ser feito ao mesmo tempo pelo Conselho Consultivo e pelo Conselho Fiscal sôbre vias distintas apresentadas pelo Presidente.
 
-<strong>Art</strong>. 39. O ano financeiro coincide com o ano civil, podendo, entretanto, as despesas com aplicações recuperáveis ser programadas para mais de um exercício.
+**Art**. 39. O ano financeiro coincide com o ano civil, podendo, entretanto, as despesas com aplicações recuperáveis ser programadas para mais de um exercício.
 
-<strong>Art</strong>. 40. Fica instituído o Fundo de Colonização, cujos recursos serão destinados ao desenvolvimento das colônias agrícolas existentes ou na fundação de novas, dentro dos programas previamente aprovados pelo Conselho Consultivo.
+**Art**. 40. Fica instituído o Fundo de Colonização, cujos recursos serão destinados ao desenvolvimento das colônias agrícolas existentes ou na fundação de novas, dentro dos programas previamente aprovados pelo Conselho Consultivo.
 
 Parágrafo Único. O fundo a que se refere este art. será constituído por 10% (dez por cento) da receita ordinária do Instituto.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das operações</em>
+*Das operações*
 
-<strong>Art</strong>. 41. São condições básicas para a concessão de qualquer financiamento ou garantia:
+**Art**. 41. São condições básicas para a concessão de qualquer financiamento ou garantia:
 
 I - que o estudo econômico financeiro da operação demonstre a conveniência e viabilidade do empreendimento, bem como a segurança do embôlso;
 
@@ -492,90 +490,90 @@ II - que resulte favorável o exame técnico do projeto a ser financiado;
 
 III - que fique demonstrada a idoneidade dos proponentes ou interessados.
 
-<strong>Art</strong>. 42. Os prazos de amortização e resgate das operações serão fixados de acôrdo com a natureza e finalidade das mesmas, observado a rentabilidade do empreendimento.
+**Art**. 42. Os prazos de amortização e resgate das operações serão fixados de acôrdo com a natureza e finalidade das mesmas, observado a rentabilidade do empreendimento.
 
 Parágrafo Único. - Salvo autorização expressa do Presidente da República, nenhuma operação poderá ter prazo superior a 20 (vinte) anos.
 
-<strong>Art</strong>. 43. A aquisição de terras será precedida do estudo cuidadoso das possibilidades da respectiva exploração econômica, mediante a autorização da Diretoria Executiva.
+**Art**. 43. A aquisição de terras será precedida do estudo cuidadoso das possibilidades da respectiva exploração econômica, mediante a autorização da Diretoria Executiva.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da Colonização e da Imigração</em>
+*Da Colonização e da Imigração*
 
-<strong>Art</strong>. 44. A concessão de lotes será somente a pessoas que que exerçam ou queiram, efetivamente, exercer a atividade de agricultor ou criador, ou instalar indústria rural de beneficiamento, segundo condições a serem fixadas, entre elas a da residência obrigatória do concessionário, no lote, com a sua família.
+**Art**. 44. A concessão de lotes será somente a pessoas que que exerçam ou queiram, efetivamente, exercer a atividade de agricultor ou criador, ou instalar indústria rural de beneficiamento, segundo condições a serem fixadas, entre elas a da residência obrigatória do concessionário, no lote, com a sua família.
 
 Parágrafo Único. - A concessão, posse e domínio de qualquer lote decorrerão do contrato de promessa de venda, nêle determinado o preço para cada caso, de acôrdo com a avaliação feita na forma das instruções respectivas.
 
-<strong>Art</strong>. 45. O I.N.I.C. não fará concessões gratuitas de terra de seu patrimônio, mas estabelecerá base módicas para o preço de alienção, que deverá ser amortizado dentro do prazo máximo de vinte anos, previstas penalidades para os atrasos eventuais.
+**Art**. 45. O I.N.I.C. não fará concessões gratuitas de terra de seu patrimônio, mas estabelecerá base módicas para o preço de alienção, que deverá ser amortizado dentro do prazo máximo de vinte anos, previstas penalidades para os atrasos eventuais.
 
 Parágrafo Único. Excetuam-se as concessões justificadas, a entidades oficiais ou particulares, para fins de construção de escolas, igrejas, hospitais e praças de esporte.
 
-<strong>Art</strong>. 46. O I.N.I.C. poderá financiar atividades das cooperativas, mediantes adiantamentos correspondente à produtividade dos respectivos colonos e ao salário dos seus servidores, ajustando bases módicas para seu ressarcimento.
+**Art**. 46. O I.N.I.C. poderá financiar atividades das cooperativas, mediantes adiantamentos correspondente à produtividade dos respectivos colonos e ao salário dos seus servidores, ajustando bases módicas para seu ressarcimento.
 
-<strong>Art</strong>. 47. Os créditos e financiamentos, outorgados pelo I.N.I.C. a colonos localizados em suas unidades, serão concedidos por intermédio das suas respectivas cooperativas.
+**Art**. 47. Os créditos e financiamentos, outorgados pelo I.N.I.C. a colonos localizados em suas unidades, serão concedidos por intermédio das suas respectivas cooperativas.
 
 Parágrafo único. Para êsse fim, anualmente, cada colônia agrícola sujeita ao I.N.I.C, elaborará seu plano de financiamentos das atividades dos colonos, tendo em consideração a capacidade normal de solvência e produtividade de cada um, plano êsse que deverá ser submetido à aprovação da Diretoria.
 
-<strong>Art</strong>. 48. O limite para financiamento às entidades privadas de imigração e colonização, credenciadas junto ao I.N.I.C., será fixado em cada caso pela Diretoria, em face do exame dos seus planos de trabalho observadas as condições dos Arts. 29 e 30 deste Regulamento.
+**Art**. 48. O limite para financiamento às entidades privadas de imigração e colonização, credenciadas junto ao I.N.I.C., será fixado em cada caso pela Diretoria, em face do exame dos seus planos de trabalho observadas as condições dos Arts. 29 e 30 deste Regulamento.
 
-<strong>Art</strong>. 49. Nas colônias administradas pelo I.N.I.C. a responsabilidade pela assistência aos colonos e pela conservação das vias de transporte persistirá até que os colonos sejam reconhecidos como tendo adquirido independência econômica, podendo, entrentanto, transferir-se gradualmente a responsabilidade I.N.I.C. a entidades públicas ou particulares, conforme o caso, pelas escolas, hospitais, estradas e serviços públicos como energia, luz, água, esgôto e transportes.
+**Art**. 49. Nas colônias administradas pelo I.N.I.C. a responsabilidade pela assistência aos colonos e pela conservação das vias de transporte persistirá até que os colonos sejam reconhecidos como tendo adquirido independência econômica, podendo, entrentanto, transferir-se gradualmente a responsabilidade I.N.I.C. a entidades públicas ou particulares, conforme o caso, pelas escolas, hospitais, estradas e serviços públicos como energia, luz, água, esgôto e transportes.
 
-<strong>Art</strong>. 50. Aos programas de colonização a cargo do I.N.I.C. procederá sempre minucioso planejamento através do qual se articulem os mesmos, aproveitando-os ao máximo, com as migrações vindas do exterior ou de outras regiões do País.
+**Art**. 50. Aos programas de colonização a cargo do I.N.I.C. procederá sempre minucioso planejamento através do qual se articulem os mesmos, aproveitando-os ao máximo, com as migrações vindas do exterior ou de outras regiões do País.
 
-<strong>Art</strong>. 51. Os programas  de colonização devem compreender medidas com o duplo objetivo de assegurar a fixação dos colonos à terra, através do acesso à pequena propriedade, e de facilitar a assimilação dos alienígenas e de seus descendentes.
+**Art**. 51. Os programas  de colonização devem compreender medidas com o duplo objetivo de assegurar a fixação dos colonos à terra, através do acesso à pequena propriedade, e de facilitar a assimilação dos alienígenas e de seus descendentes.
 
-<strong>Art</strong>. 52. A assimilação do imigrantes deverá visar à sua integração no ambiente cultural brasileiro, através especialmente, do conhecimento da língua vernácula e da adaptação aos costumes e usos nacionais, sem prejuízo dos valores culturais de que seja portador e cuja aceitação não perturbe os fundamentos tradicionais da formação social brasileira.
+**Art**. 52. A assimilação do imigrantes deverá visar à sua integração no ambiente cultural brasileiro, através especialmente, do conhecimento da língua vernácula e da adaptação aos costumes e usos nacionais, sem prejuízo dos valores culturais de que seja portador e cuja aceitação não perturbe os fundamentos tradicionais da formação social brasileira.
 
-<strong>Art</strong>. 53. O poder público e as pessoa jurídicas ou físicas de direito privado poderão promover a imigração dirigida, adotando os meios necessários para a introdução, transporte, hospedagem e localização dos imigrantes, na forma das instruções e planos aprovados pelo I.N.I.C.
+**Art**. 53. O poder público e as pessoa jurídicas ou físicas de direito privado poderão promover a imigração dirigida, adotando os meios necessários para a introdução, transporte, hospedagem e localização dos imigrantes, na forma das instruções e planos aprovados pelo I.N.I.C.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 54. O Ministério da Agricultura prestará toda a assistência e cooperação necessária, que possam ser oferecidas por seus órgãos e serviços relacionados com as finalidades do I.N.I.C.
+**Art**. 54. O Ministério da Agricultura prestará toda a assistência e cooperação necessária, que possam ser oferecidas por seus órgãos e serviços relacionados com as finalidades do I.N.I.C.
 
-<strong>Art</strong>. 55. As deliberações do I.N.I.C. que possam afetar, direta ou indiretamente, as relações do Brasil com países estrangeiros, as conveniências políticas do Govêrno brasileiro ou a segurança nacional, deverão ser precedidas de consultas ao Ministro de Estado das Relações Exteriores, ao da Justiça e Negócios Interiores, ou à Secretaria Geral do Conselho de Segurança Nacional, veiculadas pelo Presidente.
+**Art**. 55. As deliberações do I.N.I.C. que possam afetar, direta ou indiretamente, as relações do Brasil com países estrangeiros, as conveniências políticas do Govêrno brasileiro ou a segurança nacional, deverão ser precedidas de consultas ao Ministro de Estado das Relações Exteriores, ao da Justiça e Negócios Interiores, ou à Secretaria Geral do Conselho de Segurança Nacional, veiculadas pelo Presidente.
 
-<strong>Art</strong>. 56. As resoluções do I.N.I.C. executáveis no exterior serão transmitidas às Missões diplomáticas e Repartições Consulares brasileiras, por intermédio do Ministério das Relações Exteriores.
+**Art**. 56. As resoluções do I.N.I.C. executáveis no exterior serão transmitidas às Missões diplomáticas e Repartições Consulares brasileiras, por intermédio do Ministério das Relações Exteriores.
 
-<strong>Art</strong>. 57. O I.N.I.C. manterá um serviço de colocação de mão de obra especializada, a fim de atender às necessidades da indústria, em colaboração com as associações de classes interessadas.
+**Art**. 57. O I.N.I.C. manterá um serviço de colocação de mão de obra especializada, a fim de atender às necessidades da indústria, em colaboração com as associações de classes interessadas.
 
-<strong>Art</strong>. 58. A direção técnica e administrativa das colônias agrícolas oficiais é privativa de profissional agrônomo, diplomado pelas escolas oficiais ou reconhecidas do país.
+**Art**. 58. A direção técnica e administrativa das colônias agrícolas oficiais é privativa de profissional agrônomo, diplomado pelas escolas oficiais ou reconhecidas do país.
 
-<strong>Art</strong>. 59. Quando se refere a “colônias agrícolas”, o presente Regulamento não exclui de sua compreensão os núcleos coloniais e agroindustriais.
+**Art**. 59. Quando se refere a “colônias agrícolas”, o presente Regulamento não exclui de sua compreensão os núcleos coloniais e agroindustriais.
 
-<strong>Art</strong>. 60. Os vencimentos do cargo de Presidente corresponderão ao simbolo CC-1 e os dos cargos de Diretor ao símbolo CC-2.
+**Art**. 60. Os vencimentos do cargo de Presidente corresponderão ao simbolo CC-1 e os dos cargos de Diretor ao símbolo CC-2.
 
-<strong>Art</strong>. 61. Os Membros do Conselho Consultivo perceberão uma gratificação mensal de CR$3.000,00 (três mil cruzeiros) e os do Conselho Fiscal a de CR$2.000,00 (dois mil cruzeiros).
+**Art**. 61. Os Membros do Conselho Consultivo perceberão uma gratificação mensal de CR$3.000,00 (três mil cruzeiros) e os do Conselho Fiscal a de CR$2.000,00 (dois mil cruzeiros).
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 62. O Presidente do I.N.I.C., no prazo de sessenta dias, contados a partir da publicação deste Regulamento, apresentará a proposta de organização dos servios administrativos do Instituto e do respectivo Quadro de Pessoal, a ser submetida à aprovação do Presidente da República, por intermédio do Ministro da Agricultura.
+**Art**. 62. O Presidente do I.N.I.C., no prazo de sessenta dias, contados a partir da publicação deste Regulamento, apresentará a proposta de organização dos servios administrativos do Instituto e do respectivo Quadro de Pessoal, a ser submetida à aprovação do Presidente da República, por intermédio do Ministro da Agricultura.
 
-<strong>Art</strong>. 63. Tendo em vista o disposto nº § 2º do art. 14 da Lei nº 2.163, de 5 de janeiro de 1954, o preenchimento das cargos e funções do Quadro e Tabela prevista nêste Regulamento obedecerá à seguinte orientação.
+**Art**. 63. Tendo em vista o disposto nº § 2º do art. 14 da Lei nº 2.163, de 5 de janeiro de 1954, o preenchimento das cargos e funções do Quadro e Tabela prevista nêste Regulamento obedecerá à seguinte orientação.
 
 I - Enquanto não forem aproveitado todos os servidores do extinto Conselho de Imigração e Colonização não poderá haver provimento e preenchimento no Quadro e Tabela acima referidos;
 
 II - Os servidores dos extintos Departamento Nacional de Imigração, do Ministério do Trabalho, Indústria e Comércio, e da Divisão de Terras e Colonização, do Ministério da Agricultura, terão o prazo de trinta (30) dias, contados da data da publicação dêste Regulamento, para declarar a opção a que se refere o § 2º art. 14 da Lei nº 2.163, de 5 de janeiro de 1954.
 
-<strong>Art</strong>. 64. Os servidores a que alude o item II do artigo anterior só poderão ser aproveitados em cargos ou funções correspondentes aos que integravam nos Quadros ou Tabelas dos Ministérios da Agricultura e do Trabalho, Indústria e Comércio, na data da Lei nº 2.163, de 5 de janeiro de 1954, não podendo em nenhuma hipótese, ocorrer reclassficações e melhorias automáticas.
+**Art**. 64. Os servidores a que alude o item II do artigo anterior só poderão ser aproveitados em cargos ou funções correspondentes aos que integravam nos Quadros ou Tabelas dos Ministérios da Agricultura e do Trabalho, Indústria e Comércio, na data da Lei nº 2.163, de 5 de janeiro de 1954, não podendo em nenhuma hipótese, ocorrer reclassficações e melhorias automáticas.
 
-<strong>Art</strong>. 65. O aproveitamento a que alude êste Regulamento, em relação à situação jurídica dos servidores por ele atingidos, será considerado como transferência “<em>ex</em>\-<em>offício</em>” no interesse da Administração.
+**Art**. 65. O aproveitamento a que alude êste Regulamento, em relação à situação jurídica dos servidores por ele atingidos, será considerado como transferência “*ex*\-*offício*” no interesse da Administração.
 
-<strong>Art</strong>. 66. No corrente exercício, o pagamento de vencimentos, salários e vantagens do pessoal permanente extranumerário aproveitados pelo I.N.I.C., continuará sendo feito pelos respectivos Ministérios.
+**Art**. 66. No corrente exercício, o pagamento de vencimentos, salários e vantagens do pessoal permanente extranumerário aproveitados pelo I.N.I.C., continuará sendo feito pelos respectivos Ministérios.
 
-<strong>Art</strong>. 67. Nos têrmos do parágrafo primeiro do art. 14 da Lei nº 2.163, de 5 de janeiro 1954, as dotações consignadas na lei orçamentária vigente à conta das Verbas 2, 3 e 4, dos órgãos extintos pela mencionada Lei, serão depositadas no Banco do Brasil, em conta do I.N.I.C.
+**Art**. 67. Nos têrmos do parágrafo primeiro do art. 14 da Lei nº 2.163, de 5 de janeiro 1954, as dotações consignadas na lei orçamentária vigente à conta das Verbas 2, 3 e 4, dos órgãos extintos pela mencionada Lei, serão depositadas no Banco do Brasil, em conta do I.N.I.C.
 
 Parágrafo único. Das dotações consignadas englobadamente, na Lei orçamentária vigente, Verbas 2, 3 e 4 do Ministério da Agricultura, aos respectivos Departamentos de Administração, serão destacadas as parcelas destinadas ao Departamento Nacional de Imigração e à Divisão de Terras e Colonização e depositadas no Banco do Brasil na mesma conta.
 
-<strong>Art</strong>. 68. Dentro de 30 dias, contados da posse da Diretoria, esta designado comissões incumbidas do recebimento e incorporação ao I.N.I.C. do acervo das repartições extintas, nos termos do § 1º do art. 14 da Lei nº 2.163, de 5 de janeiro de 1954.
+**Art**. 68. Dentro de 30 dias, contados da posse da Diretoria, esta designado comissões incumbidas do recebimento e incorporação ao I.N.I.C. do acervo das repartições extintas, nos termos do § 1º do art. 14 da Lei nº 2.163, de 5 de janeiro de 1954.
 
-<strong>Art</strong>. 69. Será feito, no mais breve tempo possível, o exame da situação econômica e jurídica dos colonos localizados em unidades da extinta Divisão de Terras e Colonização, para o efeito de sua adaptação às normas reguladoras do I.N.I.C.
+**Art**. 69. Será feito, no mais breve tempo possível, o exame da situação econômica e jurídica dos colonos localizados em unidades da extinta Divisão de Terras e Colonização, para o efeito de sua adaptação às normas reguladoras do I.N.I.C.
 
-<strong>Art</strong>. 70. A Diretoria Executiva no prazo de seis (6) meses, promoverá a elaboração de um anteprojeto de consolidação das leis de imigração e colonização.
+**Art**. 70. A Diretoria Executiva no prazo de seis (6) meses, promoverá a elaboração de um anteprojeto de consolidação das leis de imigração e colonização.
 
 Rio de Janeiro, 19 de maio de 1954.
 
-<strong>JOÃO CLEOFAS</strong>
+**JOÃO CLEOFAS**

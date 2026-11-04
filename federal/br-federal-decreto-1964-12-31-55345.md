@@ -1,5 +1,3 @@
-###DEC-055345-0-000-31-12-1964@@@
-
 DECRETO Nº 55.345, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Laurindo da Silva Pereira a pesquisar quartzo e águas marinhas, no município de Salinas, Estado de Minas Gerais.

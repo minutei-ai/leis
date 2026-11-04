@@ -1,5 +1,3 @@
-###DEC-046286-0-000-29-06-1959@@@
-
 Decreto nº 46.286, de 29 de junho de 1959.
 
 Autoriza Plumbum S.A. Indústria Brasileira de Mineração a pesquisar minério de chumbo, no município de Gentílio do Ouro, Estado da Bahia.

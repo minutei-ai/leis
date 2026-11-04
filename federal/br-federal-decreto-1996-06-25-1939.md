@@ -1,5 +1,3 @@
-###DEC-001939-0-000-25-06-1996@@@
-
 DECRETO N° 1.939, DE 25 DE JUNHO DE 1996.
 
 Dispõe sobre a estruturação do Conselho Nacional de Política Cultural e dá outras providências.

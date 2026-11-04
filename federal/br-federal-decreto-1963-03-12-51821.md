@@ -1,5 +1,3 @@
-###DEC-051821-0-000-12-03-1963@@@
-
 decreto nº 51.821, de 12 de março de 1963.
 
 Outorga à Indústria Comércio e Cultura de Madeiras Sguário S.A., com sede em Itararé, Estado de São Paulo, concessão para o aproveitamento progressivo de energia hidráulica de um desnível existente no curso d’água Catas Altas, distrito de Itapirapoã, município de Ribeira, Estado de São Paulo.

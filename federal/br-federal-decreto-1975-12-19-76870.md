@@ -1,5 +1,3 @@
-###DEC-076870-0-000-19-12-1975@@@
-
 DECRETO Nº 76.870, DE 19 DE DEZEMBRO DE 1975.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Brasil S.A., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Campinas, Estado de São Paulo.

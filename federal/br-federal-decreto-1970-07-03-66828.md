@@ -1,5 +1,3 @@
-###DEC-066828-0-000-03-07-1970@@@
-
 DECRETO Nº 66.828, DE 3 DE JUlHO de 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Instituto Nacional do Desenvolvimento Agrário cargo originário do Ministério da Saúde, e dá outras providências.

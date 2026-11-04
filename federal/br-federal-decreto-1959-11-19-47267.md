@@ -1,5 +1,3 @@
-###DEC-047267-0-000-19-11-1959@@@
-
 DECRETO Nº 47.267, DE 19 DE NOVEMBRO DE 1959.
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$201.600,00, para pagamento de funções gratificadas criadas no Quadro I - Parte Permanente, do mesmo Ministério.

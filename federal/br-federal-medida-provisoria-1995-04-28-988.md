@@ -1,7 +1,3 @@
-1
-
-###MPV-000988-0-000-28-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 988, DE 28 DE ABRIL DE 1995
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

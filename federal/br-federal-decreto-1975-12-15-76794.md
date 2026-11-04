@@ -1,5 +1,3 @@
-###DEC-076794-0-000-15-12-1975@@@
-
 DECRETO Nº 76.794, DE 15 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Turismo da Faculdade Niteroiense de Educação, letras e Turismo, com sede na cidade de Niterói, Estado do Rio de Janeiro.

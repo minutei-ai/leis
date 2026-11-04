@@ -1,5 +1,3 @@
-###MPV-002207-0-004-10-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.207-4, DE 10 DE AGOSTO DE 2001
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, do Ministério                                                                                da Agricultura e do Abastecimento, do Ministério do Desenvolvimento Agrário, do Ministério do Meio Ambiente e do Ministério da Saúde, no valor global de R$ 484.000.000,00, para os fins que especifica.

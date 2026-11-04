@@ -1,7 +1,3 @@
-1
-
-###DEL-002418-0-000-08-03-1988@@@
-
 # DECRETO-LEI Nº 2.418, DE 8 DE MARÇO DE 1988
 
 Altera o Decreto-lei nº 2.320, de 26 de janeiro de 1987, que "dispõe sobre o ingresso nas categorias funcionais da Carreira Polícia Federal e dá outras providências".

@@ -1,5 +1,3 @@
-###DEL-008850-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.850 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a movimentação dos recursos destinados ao desenvolvimento da campanha nacional de proteção à maternidade, à infância e à adolescência.

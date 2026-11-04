@@ -1,5 +1,3 @@
-###DEL-007547-0-000-14-05-1945@@@
-
 DECRETO-LEI N. 7.547 – DE 14 DE MAIO DE 1945
 
 Institui a Medalha Comemorativa do primeiro centenário do nascimento do Barão do Rio Branco

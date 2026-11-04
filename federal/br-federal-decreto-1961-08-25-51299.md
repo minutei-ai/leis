@@ -1,5 +1,3 @@
-###DEC-051299-0-000-25-08-1961@@@
-
 DECRETO nº 51.299, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Natalino Pereira dos Santos a pesquisar topázio no município de Teófilo Otôni, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-002539-0-000-08-04-1998@@@
-
 DECRETO Nº 2.539, DE 8 DE ABRIL DE 1998
 
 Dá nova redação ao inciso I do art. 6º do Regulamento para os Adidos, Adjuntos e Auxiliares de Adidos Militares junto às Missões Diplomáticas Brasileiras, aprovado pelo Decreto nº 79.900, de 1º de julho de 1977.

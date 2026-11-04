@@ -1,5 +1,3 @@
-###DEC-092565-0-000-17-04-1986@@@
-
 DECRETO Nº 92.565, DE 17 DE ABRIL DE 1986
 
 Renova a concessão outorgada à RÁDIO CULTURA DE CUIABÁ LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Cuiabá, Estado do Mato Grosso.

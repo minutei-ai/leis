@@ -1,5 +1,3 @@
-###DEC-065176-0-000-17-09-1969@@@
-
 DECRETO Nº 65.176 - DE 17 DE SETEMBRO DE 1969.
 
 Declara sem efeito o Decreto nº 23.007, de 26 de abril de 1947.

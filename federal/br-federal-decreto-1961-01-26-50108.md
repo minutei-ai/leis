@@ -1,5 +1,3 @@
-###DEC-050108-0-000-26-01-1961@@@
-
 DECRETO Nº 50.108, DE 26 DE JANEIRO DE 1961.
 
 Outorga à Prefeitura Municipal de Cruzeta, Estado do Rio Grande do Norte, concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-096088-0-000-24-05-1988@@@
-
 DECRETO N° 96.088, DE 24 DE MAIO DE 1988
 
 Autoriza o CITIBANK N.A. a instalar mais seis filiais no Brasil.

@@ -1,5 +1,3 @@
-###DEC-050228-0-000-28-01-1961@@@
-
 DECRETO Nº 50.228, DE 28 DE JANEIRO DE 1961.
 
 Transfere lotação do Departamento de Imprensa Nacional para a Consultoria Jurídica do Ministério da Justiça e Negócios Interiores.

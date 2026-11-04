@@ -1,5 +1,3 @@
-###DEC-052815-0-000-11-11-1963@@@
-
 DECRETO Nº 52.815, DE 11 DE NOVEMBRO DE 1963.
 
 Assegura preços mínimos à produção de juta e malva da Bacia Amazônica, da safra de 1964.

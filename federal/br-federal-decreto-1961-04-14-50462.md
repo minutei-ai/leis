@@ -1,5 +1,3 @@
-###DEC-050462-0-000-14-04-1961@@@
-
 DECRETO Nº 50.462, DE 14 DE ABRIL DE 1961.
 
 Autoriza a execução de obras de emergência no Estado do Rio Grande do Norte, em regiões assoladas por inundações.

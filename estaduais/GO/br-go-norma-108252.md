@@ -290,8 +290,6 @@ b) ao inciso V do art. 6º deste Decreto.
 
 Goiânia, 19 de dezembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

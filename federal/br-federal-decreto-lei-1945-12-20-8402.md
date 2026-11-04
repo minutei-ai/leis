@@ -1,5 +1,3 @@
-###DEL-008402-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.402 – DE 20 DE DEZEMBRO DE 1945
 
 Autoriza a extinção dos  Departamentos Estaduais de Informações.

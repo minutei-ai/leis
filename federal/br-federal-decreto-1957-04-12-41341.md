@@ -1,14 +1,12 @@
-###DEC-041341-0-000-12-04-1957@@@
+**DECRETO Nº 41.341, DE 12 DE ABRIL DE 1957.**
 
-<strong>DECRETO Nº 41.341, DE 12 DE ABRIL DE 1957.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
 
 I - uma função de Auxiliar de Aeroporto, referência 22, ocupada por Arthur José Pereira das Neves Filho, da Tabela de Comando de Transporte Aéreo para a da Diretoria de Aeronáutica Civil;
 
@@ -22,10 +20,10 @@ V - uma função de Carpinteiro, referência 20, ocupada por José Rodrigues de 
 
 VI - uma função vaga, de referência 20, da Série Funcional de mecânico de Avião da Tabela do Parque de Aeronáutica de São Paulo para do Parque de Aeronáutica dos Afonsos.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de abril de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 A. S. M. Ararigbóia

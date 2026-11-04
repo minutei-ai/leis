@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210404)<br>
-
 # DECRETO N° 69.179, DE 18 DE DEZEMBRO DE 2024
 
 ### _Altera o Decreto n° 56.562, de 21 de dezembro de 2010, que alterou a denominação do Programa Estadual de Proteção a Vítimas e Testemunhas - PROVITA/SP, e dá providências correlatas._

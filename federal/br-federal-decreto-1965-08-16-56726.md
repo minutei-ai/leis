@@ -1,5 +1,3 @@
-###DEC-056726-0-000-16-08-1965@@@
-
 DECRETO Nº 56.726, DE 16 DE AGôSTO DE 1965.
 
 Cria Comissão Especial para o fim que especifica.

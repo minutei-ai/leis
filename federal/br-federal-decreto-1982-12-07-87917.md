@@ -1,5 +1,3 @@
-###DEC-087917-0-000-07-12-1982@@@
-
 Decreto nº 87.917, de 07 de dezembro de 1982
 
 Altera dispositivos do Decreto nº 87.604, de 21 de setembro de 1982, que declara de utilidade pública, para fins de desapropriação, imóveis com benfeitorias, situados no Município de São José dos Campos, Estado de São Paulo, destinados à instalação de Escritórios de Serviços e Central de Trânsito, a cargo da Telecomunicações de São Paulo S/A - TELESP.

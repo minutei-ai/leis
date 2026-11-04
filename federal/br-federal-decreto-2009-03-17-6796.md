@@ -1,5 +1,3 @@
-###DEC-006796-0-000-17-03-2009@@@
-
 DECRETO Nº 6.796, DE 17 DE MARÇO DE 2009.
 
 Dá nova redação ao art. 5o do Estatuto da Caixa Econômica Federal - CEF, aprovado pelo Decreto no 6.473, de 5 de junho de 2008.

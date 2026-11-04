@@ -1,5 +1,3 @@
-###DEC-074089-0-000-22-05-1974@@@
-
 DECRETO Nº 74.089, DE 22 DE MAIO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas, Contábeis e Administrativas de Campo Grande, mantida pela Associação de Ensino de Campo Grande, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

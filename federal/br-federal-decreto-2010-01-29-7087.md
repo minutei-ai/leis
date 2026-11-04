@@ -1,5 +1,3 @@
-###DEC-007087-0-000-29-01-2010@@@
-
 DECRETO Nº 7.087, DE 29 DE JANEIRO DE 2010.
 
 Dá nova redação a dispositivos do art. 5o do Decreto no 6.191, de 20 de agosto de 2007, para prorrogar o prazo de remanejamento de cargos em comissão para o Ministério de Minas e Energia e para a Secretaria do Tesouro Nacional do Ministério da Fazenda.

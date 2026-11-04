@@ -1,5 +1,3 @@
-###DEC-048100-0-000-12-04-1960@@@
-
 DECRETO Nº 48.100, DE 12 DE ABRIL DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação, a área de terra que menciona, situada no município de Ubajara, Estado do Ceará.

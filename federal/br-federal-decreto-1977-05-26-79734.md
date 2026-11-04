@@ -1,5 +1,3 @@
-###DEC-079734-0-000-26-05-1977@@@
-
 Decreto nº 79.734, de 26 de maio de 1977.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração de Empresas de Jahu, com sede na cidade de Jaú, Estado de São Paulo.

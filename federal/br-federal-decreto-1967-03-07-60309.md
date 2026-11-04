@@ -1,5 +1,3 @@
-###DEC-060309-0-000-07-03-1967@@@
-
 DECRETO Nº 60.309, DE 7 DE MARÇO DE 1967.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Itaboraí e Cachoeiras de Macacu, no Estado do Rio de Janeiro.

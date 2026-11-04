@@ -1,5 +1,3 @@
-###MPV-000547-0-000-11-10-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 547, DE 11 DE OUTUBRO DE 2011
 
 Altera a Lei nº 6.766, de 19 de dezembro de 1979; a Lei nº 10.257, de 10 de julho de 2001, e a Lei nº 12.340, de 1º de dezembro de 2010.

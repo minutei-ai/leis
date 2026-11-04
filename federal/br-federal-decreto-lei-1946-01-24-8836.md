@@ -1,5 +1,3 @@
-###DEL-008836-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.836 – DE 24 DE JANEIRO DE 1946
 
 Dá a designação “Professor João Felipe” à estação “Fortaleza”, da Rêde de Viação Cearense.

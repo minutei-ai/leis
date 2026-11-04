@@ -1,5 +1,3 @@
-###DEC-047412-0-000-11-12-1959@@@
-
 DECRETO Nº 47.412, DE 11 DE DEZEMBRO DE 1959.
 
 Reduz temporàriamente o tempo de efetivo embarque estabelecido para a concessão da Carta de Capitão-de-Longo-Curso, Capitão-de-Cabotagem, Primeiro Pilôto, Primeiro-Maquinista-Motorista, Segundo-Maquinista-Motorista, Primeiro Comissário e Segundo Comissário da Marinha Mercante.

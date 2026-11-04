@@ -1,5 +1,3 @@
-###DEC-059455-0-000-04-11-1966@@@
-
 DECRETO Nº 59.455, DE 4 DE NOVEMBRO DE 1966.
 
 Cria o Grupo de Implantação do Nôvo Sistema de Ação do Govêrno Federal da Amazônia e dá outras providências.

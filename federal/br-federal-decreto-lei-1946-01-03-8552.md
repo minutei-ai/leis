@@ -1,5 +1,3 @@
-###DEL-008552-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.552 – DE  3 DE JANEIRO DE 1946
 
 Altera os Quadros Permanentes e Suplementar do Ministério da Educação e Saúde e dá outras providencias

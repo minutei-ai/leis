@@ -1,5 +1,3 @@
-###DEL-008832-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.832 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sobre a fiança dos despachantes aduaneiros

@@ -1,5 +1,3 @@
-###DEC-071167-0-000-27-09-1972@@@
-
 DECRETO Nº 71.167, DE 27 DE SETEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Odontologia de Campina Grande - Paraíba.

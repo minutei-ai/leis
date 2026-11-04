@@ -1,5 +1,3 @@
-###DEC-003909-0-000-04-09-2001@@@
-
 DECRETO Nº 3.909, DE 4 DE SETEMBRO DE 2001.
 
  Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de aproveitamentos hidrelétricos, e dá outras providências.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211015)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2025/compilacao-lei-18154-05.06.2025.html)
 
 # LEI N° 18.154, DE 05 DE JUNHO DE 2025
@@ -13,7 +12,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 1° -** As atividades de inspeção, fiscalização e auditoria, do ponto de vista industrial e sanitário, dos produtos de origem vegetal, seus derivados, subprodutos e resíduos de valor econômico, e produtos da algicultura e da fungicultura, destinados ao consumo humano direta ou indiretamente, serão exercidas, no âmbito do Estado de São Paulo, pelo Serviço de Inspeção de Produtos de Origem Vegetal - SISP/POV, vinculado à Coordenadoria de Defesa Agropecuária - CDA, da Secretaria de Agricultura e Abastecimento - SAA, observando-se as normas desta lei e da legislação federal aplicável.
@@ -22,7 +22,8 @@ Disposições Gerais
 
 **Artigo 2° -** Os estabelecimentos que produzem matéria-prima, manipulam, beneficiam, transformam, industrializam, preparam, acondicionam, embalam, transportam ou comercializam produtos de origem vegetal, seus derivados, subprodutos e resíduos de valor econômico, e produtos da algicultura e da fungicultura, somente poderão funcionar mediante registro no SISP/POV, salvo se já registrados junto ao serviço de inspeção federal ou a serviços de inspeção com adesão ao Sistema Brasileiro de Inspeção de Produtos de Origem Vegetal (SISBI-POV) do Ministério da Agricultura e Pecuária - MAPA.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Objetivos Gerais e Ações
 
 **Artigo 3° -** A inspeção, fiscalização e auditoria sanitária de que trata esta lei tem por objetivo garantir a proteção da saúde da população e a identidade, a qualidade e a segurança higiênico-sanitária dos produtos de origem vegetal e seus derivados, subprodutos e resíduos de valor econômico e de produtos da algicultura e da fungicultura, destinados ao consumo humano direta ou indiretamente.
@@ -35,17 +36,20 @@ Objetivos Gerais e Ações
 
 **Artigo 6° -** Os servidores da Secretaria de Agricultura e Abastecimento, devidamente identificados, terão livre acesso aos estabelecimentos sujeitos à inspeção, fiscalização e auditoria sanitária, de produtos de origem vegetal, seus derivados, subprodutos e resíduos de valor econômico e produtos da algicultura e da fungicultura, podendo, sempre que julgarem necessário, e observadas as normas jurídicas aplicáveis, solicitar apoio da força policial para o exercício de suas funções.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Programas de Autocontrole
 
 **Artigo 7° -** Os estabelecimentos sujeitos à inspeção, fiscalização e auditoria de que trata esta lei poderão desenvolver e executar programas de autocontrole, contendo registros sistematizados e auditáveis que comprovem o atendimento aos requisitos higiênico-sanitários e tecnológicos estabelecidos nesta lei e em normas complementares, para assegurar a inocuidade, a identidade, a qualidade e a segurança dos produtos de origem vegetal, da algicultura e da fungicultura, desde a obtenção e a recepção até a expedição da matéria-prima, dos ingredientes e dos insumos.
 
 **Parágrafo único -** A Secretaria de Agricultura e Abastecimento estabelecerá, em normas complementares, os procedimentos oficiais de verificação dos programas de autocontrole, observada a legislação federal.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Responsabilidades, Infrações e Sanções
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Responsáveis pelas Infrações
 
 **Artigo 8° -** São responsáveis pelas infrações às disposições desta lei e respectivas normas complementares as pessoas físicas ou jurídicas:
@@ -58,7 +62,8 @@ III - que expeçam ou transportem matérias-primas, produtos de origem vegetal, 
 
 **Parágrafo único -** A responsabilidade das pessoas jurídicas não exclui a dos seus empregados ou prepostos.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Infrações
 
 **Artigo 9° -** Constituem infrações ao disposto nesta lei:
@@ -127,7 +132,8 @@ XXXI - desacatar, intimidar, ameaçar e agredir servidor do SISP/POV ou praticar
 
 XXXII - descumprir determinações sanitárias de interdição total ou parcial de instalações ou equipamentos, de suspensão de atividades ou outras impostas em decorrência de fiscalizações ou autuações, incluídas aquelas determinadas por medidas cautelares.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Sanções Administrativas
 
 **Artigo 10 -** Os infratores desta lei, sem prejuízo de outras sanções previstas em legislação própria e sem prejuízo das responsabilidades de natureza civil e criminal cabíveis, serão passíveis de punição, isolada ou cumulativamente, com as seguintes sanções:
@@ -170,14 +176,16 @@ I - o infrator ser reincidente;
 
 II - o infrator ter agido com dolo ou má-fé.
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Da Advertência
 
 **Artigo 14 -** A sanção de advertência será aplicada quando o infrator for primário e não tiver agido com dolo ou má-fé, desde que não haja risco iminente de natureza higiênico-sanitária.
 
 **Parágrafo único -** Ao aplicar a sanção de advertência, a autoridade lavrará termo com a finalidade de orientação do estabelecimento infrator e de seus responsáveis legais, a ser disciplinado em norma regulamentar.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Da Apreensão e Condenação das Matérias-Primas e dos Produtos de Origem Vegetal
 
 **Artigo 15 -** As sanções de apreensão e condenação das matérias-primas e dos produtos de origem vegetal e dos produtos da algicultura e da fungicultura serão aplicáveis quando cometidas as infrações previstas nos incisos IV, VI, VIII, IX, X, XI, XII, XIV, XV, XVI, XVII, XXI, XXII, XXIV, XXV e XXVI do artigo 9° desta lei.
@@ -196,7 +204,8 @@ Da Apreensão e Condenação das Matérias-Primas e dos Produtos de Origem Veget
 
 **Artigo 17 -** As despesas ou ônus decorrentes da retenção, apreensão, inutilização, destruição, condenação ou rebeneficiamento dos produtos de origem vegetal e dos produtos da algicultura e da fungicultura irregulares cabem ao infrator, ao proprietário ou responsável legal, sem direito a indenização e sem prejuízo da aplicação das sanções cabíveis.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Da Suspensão das Atividades
 
 **Artigo 18 -** A suspensão das atividades do estabelecimento sujeito a registro no SISP/POV será aplicada nas hipóteses de:
@@ -217,7 +226,8 @@ IV - o estabelecimento não estar registrado no SISP/POV ou nos serviços a que 
 
 **Artigo 22 -** A decisão de cessação ou interrupção da sanção de suspensão é de competência de servidor do Serviço de Inspeção de Produtos de Origem Vegetal - SISP-POV.
 
-#### SUBSEÇÃO IV<br>
+#### SUBSEÇÃO IV
+
 Da Interdição do Estabelecimento
 
 **Artigo 23 -** As sanções de interdição total ou parcial do estabelecimento serão aplicadas quando a infração consistir na adulteração ou falsificação habitual do produto, ou quando for verificada, em vistoria técnica, a inexistência de condições higiênico-sanitárias adequadas.
@@ -228,7 +238,8 @@ Da Interdição do Estabelecimento
 
 **Artigo 24 -** É vedado ao estabelecimento que tiver seu funcionamento interditado requerer a paralisação temporária voluntária de suas atividades.
 
-#### SUBSEÇÃO V<br>
+#### SUBSEÇÃO V
+
 Da Multa
 
 **Artigo 25 -** O valor da multa de que trata o inciso III do artigo 10 desta lei será de 50 UFESP até 5.000 UFESP, observada a natureza da infração, conforme norma regulamentar.
@@ -255,7 +266,8 @@ IV - infrações de natureza gravíssima, as compreendidas nos incisos XXIII a X
 
 **Artigo 28 -** Para o cálculo da multa deverá ser considerado o valor da Unidade Fiscal do Estado de São Paulo - UFESP vigente no dia em que for efetuado o seu recolhimento.
 
-#### SUBSEÇÃO VI<br>
+#### SUBSEÇÃO VI
+
 Da Cassação do Registro
 
 **Artigo 29 -** A sanção de cassação do registro do estabelecimento será aplicada nos casos de:
@@ -264,7 +276,8 @@ I - reincidência em infrações gravíssimas previstas nesta lei e em normas co
 
 II - reincidência em infração cuja sanção tenha sido a suspensão das atividades ou a interdição do estabelecimento, nos períodos máximos fixados no artigo 19 e no §1° do artigo 23 desta lei.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Disposições Finais
 
 **Artigo 30 -** Os estabelecimentos registrados junto ao SISP/POV poderão solicitar a suspensão do registro pelo prazo de 1 (um) ano, prorrogável por igual período, desde que não esteja cumprindo sanção de suspensão ou interdição.

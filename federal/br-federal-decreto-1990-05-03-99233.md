@@ -1,7 +1,3 @@
-1
-
-###DEC-099233-0-000-03-05-1990@@@
-
 DECRETO N° 99.233, DE 3 DE MAIO DE 1990
 
 Dispõe sobre procedimentos preparatórios ao processo de fusão da Companhia Brasileira de Alimentos, da Companhia Brasileira de Armazenamento e da Companhia de Financiamento da Produção, para constituição da Companhia Nacional de Abastecimento. .

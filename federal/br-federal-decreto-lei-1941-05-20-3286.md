@@ -1,5 +1,3 @@
-###DEL-003286-0-000-20-05-1941@@@
-
 DECRETO-LEI N. 3.286 – DE 20 DE MAIO DE 1941
 
 Altera as condições de promoção dos capitães tenentes engenheiros navais.

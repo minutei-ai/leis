@@ -1,5 +1,3 @@
-###DEC-074076-0-000-16-05-1974@@@    
-
 DECRETO Nº 74.076, DE 16 DE MAIO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado em Brasília - Distrito Federal.

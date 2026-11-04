@@ -1,5 +1,3 @@
-###DEC-062506-0-000-08-04-1968@@@
-
 DECRETO Nº 62.506, DE 8 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Ação Social Paróquia de Del Castillo’’, com sede no Estado da Guanabara.

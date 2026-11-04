@@ -1,5 +1,3 @@
-###DEC-047840-0-000-05-03-1960@@@
-
 DECRETO Nº 47.840, DE 5 DE MARÇO DE 1960.
 
 Subordinação de Órgãos.

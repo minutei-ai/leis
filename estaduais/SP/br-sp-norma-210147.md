@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210147)<br>
-
 # LEI N° 18.056, DE 21 DE OUTUBRO DE 2024
 
 ### _Autoriza o Poder Executivo a contratar Parceria Público-Privada, na forma que determina._

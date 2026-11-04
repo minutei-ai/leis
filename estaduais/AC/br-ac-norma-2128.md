@@ -1,6 +1,10 @@
 > **LEI Nº 3.371, DE 28 DE FEVEREIRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.346, de 15 de dezembro de 2017, que dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários, realizados em processos judiciais e administrativos no Estado.Altera a Lei nº 3.346, de 15 de dezembro de 2017, que dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários, realizados em processos judiciais e administrativos no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.346, de 15 de dezembro de 2017, que dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários, realizados em processos judiciais e administrativos no Estado.Altera a Lei nº 3.346, de 15 de dezembro de 2017, que dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários, realizados em processos judiciais e administrativos no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

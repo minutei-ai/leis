@@ -1,5 +1,3 @@
-###DEC-083426-0-000-08-05-1979@@@
-
 decreto nº 83.426, de 08 de maio de 1979.
 
 Concede à Bernardino & Cia. Ltda. o direito de lavrar calcário dolomítico no Município de Piracicaba, Estado de São Paulo.

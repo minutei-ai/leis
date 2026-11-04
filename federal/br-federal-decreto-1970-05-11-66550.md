@@ -1,5 +1,3 @@
-###DEC-066550-0-000-11-05-1970@@@
-
 DECRETO Nº 66.550, DE 11 DE MAIO DE 1970.
 
 Declara de utilidade pública a Sociedade Civil Filhas de Santa Maria da Providência, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

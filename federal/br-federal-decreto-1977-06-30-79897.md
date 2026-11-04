@@ -1,5 +1,3 @@
-###DEC-079897-0-000-30-06-1977@@@
-
 decreto nº 79.897, de 30 de junho de 1977
 
 Altera Decreto nº 67.052, de 13 de agosto de 1970 e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095821-0-000-11-03-1988@@@
-
 DECRETO N° 95.821, DE 11 DE MARCO, DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado “FAZENDA RIO VERMELHO OU COCAL” classificado como latifúndio por exploração, situado no Município de Niquelândia, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92690, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056740-0-000-17-08-1965@@@
-
 DECRETO Nº 56.740, DE 17 DE AGÔSTO DE 1965.
 
 Transfere para o Centro Fluminense de Eletricidade S/A concessões de que são titulares o Estado do Rio de Janeiro e a Comissão Estadual de Energia Elétrica do Rio de Janeiro.
@@ -53,8 +51,6 @@ Brasília, 17 de agôsto de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-056740-0-000-17-08-1965@@@RET01+++
 
 DECRETO Nº 56.740, DE 17 DE AGÔSTO DE 1965.
 

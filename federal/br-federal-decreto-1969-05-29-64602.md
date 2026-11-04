@@ -1,5 +1,3 @@
-###DEC-064602-0-000-29-05-1969@@@
-
 DECRETO Nº 64.602, DE 29 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada à bacia de acumulação, do aproveitamento da energia hidráulica de um trecho do rio Grande, localizado entre o município de Guaíra, Estado de São Paulo, e o município de Frutal, Estado de Minas Gerais.

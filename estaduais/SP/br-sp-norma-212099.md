@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212099)<br>
-
 # DECRETO N° 70.273, DE 23 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2026 e dá providências correlatas._

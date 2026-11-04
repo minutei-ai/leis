@@ -1,5 +1,3 @@
-###DEL-006120-0-000-17-12-1943@@@
-
 DECRETO‑LEI N. 6.120 – DE 17 DE DEZEMBRO DE 1943
 
 Dá nova redação ao artigo 1º e seu parágrafo do decreto‑lei n. 3.506, de 14 de agôsto de 1941

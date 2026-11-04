@@ -1,5 +1,3 @@
-###DEC-001968-0-000-30-07-1996@@@
-
 DECRETO Nº 1.968, DE 30 DE JULHO DE 1996.
 
 Promulga o Convênio de Sede de 4/9/1995, celebrado entre o Governo da República Federativa do Brasil e a Rede de Informação Tecnológica Latino-Americana (RITLA).

@@ -1,5 +1,3 @@
-###DEC-079679-0-000-10-05-1977@@@
-
 Decreto nº 79.679, de 10 de maio de 1977.
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Letras e de Ciências da Faculdade de Formação de Professores, com sede na cidade de São Gonçalo, Estado do Rio de Janeiro.

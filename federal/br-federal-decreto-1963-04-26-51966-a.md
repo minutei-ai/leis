@@ -1,5 +1,3 @@
-###DEC-051966-A-000-26-04-1963@@@
-
 DECRETO Nº 51.966-A, DE 26 DE ABRIL DE 1963.
 
 Renova a autorização contida no Decreto nº 48.355, de 21 de junho de 1960.

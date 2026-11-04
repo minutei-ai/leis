@@ -1,5 +1,3 @@
-###DEC-083157-0-000-12-02-1979@@@
-
 DECRETO Nº 83.157, DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Educação Artística da Faculdade de Filosofia, Ciências e Letras de São José do Rio Preto, Estado de São Paulo.

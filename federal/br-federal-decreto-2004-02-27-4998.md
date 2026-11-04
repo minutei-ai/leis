@@ -1,5 +1,3 @@
-###DEC-004998-0-000-27-02-2004@@@
-
 DECRETO Nº 4.998,  DE 27 DE FEVEREIRO DE 2004.
 
 Altera a redação do art. 2º do Regulamento da Organização, Funcionamento e Execução dos Registros Genealógicos de Animais Domésticos no País, aprovado pelo Decreto nº 58.984, de 3 de agosto de 1966.

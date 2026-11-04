@@ -1,5 +1,3 @@
-###DEC-007602-0-000-07-11-2011-PUB-01@@@
-
 DECRETO Nº 7.602, DE 7 DE NOVEMBRO DE 2011
 
 Dispõe sobre a Política Nacional de Segurança e Saúde no Trabalho - PNSST.

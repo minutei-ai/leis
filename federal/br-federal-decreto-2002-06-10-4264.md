@@ -1,5 +1,3 @@
-###DEC-004264-0-000-10-06-2002@@@
-
 DECRETO Nº 4.264, DE 10 DE JUNHO DE 2002
 
 Restabelece o regulamento aprovado pelo Decreto nº 10.546, de 5 de novembro de 1913, que regulamenta a Lei nº 2.784, de 18 de junho de 1913, e dá outras providências.

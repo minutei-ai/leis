@@ -1,5 +1,3 @@
-###DEC-072666-0-000-20-08-1973@@@
-
 DECRETO Nº 72.666, DE 20 DE AGOSTO DE 1973.
 
 Transfere para o Instituto Nacional de Colonização e Reforma Agrária parte do imóvel denominado Estação Experimental de Passo Fundo, no Distrito de Engenheiro Luiz Englert, Município de Sertão, no Estado do Rio Grande do Sul, e dá outras providências.

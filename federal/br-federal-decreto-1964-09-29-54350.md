@@ -1,5 +1,3 @@
-###DEC-054350-0-000-29-09-1964@@@
-
 decreto nº 54.350, de 29 de setembro de 1964.
 
 Autoriza o cidadão brasileiro Rui de Melo e Faro a pesquisar calcário, caulim, dolomita, feldspato, quartzo e talco no município de Jacupiranga, Estado de São Paulo.

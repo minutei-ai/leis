@@ -1,5 +1,3 @@
-###DEC-006271-0-000-22-11-2007@@@
-
 DECRETO Nº 6.271, DE 22 DE NOVEMBRO DE 2007.
 
 Promulga a Convenção no 167 e a Recomendação no 175 da Organização Internacional do Trabalho (OIT) sobre a Segurança e Saúde na Construção, adotadas em Genebra, em 20 de junho de 1988, pela 75a Sessão da Conferência Internacional do Trabalho.
@@ -24,11 +22,7 @@ Brasília, 22 de novembro de 2007; 186º da Independência e 119º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Amorim Nunes
-
-Este texto não substitui o publicado no DOU de 23.11.2007
-
-CONVENÇÃO 167 SOBRE A SEGURANÇA E SAÚDE NA CONSTRUÇÃO
+Celso Luiz Amorim NunesCONVENÇÃO 167 SOBRE A SEGURANÇA E SAÚDE NA CONSTRUÇÃO
 
 A Conferência Geral da Organização Internacional do Trabalho.
 

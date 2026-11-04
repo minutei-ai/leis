@@ -1,5 +1,3 @@
-###DEC-073964-0-000-19-04-1974@@@
-
 DECRETO Nº 73.964, DE 19 DE ABRIL DE 1974.
 
 Declara a caducidade dos Decretos que menciona

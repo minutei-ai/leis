@@ -1,5 +1,3 @@
-###DEC-068568-0-000-29-04-1971@@@
-
 DECRETO Nº 68.568 - DE 29 DE ABRIL DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Indústria e do Comércio.

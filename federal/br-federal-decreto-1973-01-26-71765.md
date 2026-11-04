@@ -1,5 +1,3 @@
-###DEC-071765-0-000-26-01-1973@@@
-
 DECRETO Nº 71.765, DE 26 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores do Centro Educacional de Niterói, mantido pela Fundação Brasileira de Educação, Niterói, Estado do Rio de Janeiro.

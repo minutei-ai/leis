@@ -1,5 +1,3 @@
-###DEC-059358-0-000-04-10-1966@@@
-
 DECRETO Nº 59.358, DE 4 DE OUTUBRO DE 1966.
 
 Concede á sociedade Navegação Brasiliense Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

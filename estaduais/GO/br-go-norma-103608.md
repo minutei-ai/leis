@@ -2,7 +2,8 @@ Lei Ordinária n° 20.910 / 2020
 
 ![](/assets/brasao_goias.gif)
 
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
 **LEI Nº 20.910, DE 30 DE NOVEMBRO DE 2020**
@@ -26,5 +27,3 @@ Governador do Estado
 HENRIQUE ARANTES
 
 Deputado Estadual
-
-_Este texto não substitui o publicado no D.O. de 01-12-2020_ _...._

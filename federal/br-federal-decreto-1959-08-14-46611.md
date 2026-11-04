@@ -1,5 +1,3 @@
-###DEC-046611-0-000-14-08-1959@@@
-
 DECRETO Nº 46.611, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza Mármores e Pedras do Brasil Ltda. a lavrar mármore no município de Cêrro Azul, Estado do Paraná.

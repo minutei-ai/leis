@@ -1,5 +1,3 @@
-###DEC-091527-0-000-13-08-1985@@@
-
 Decreto nº 91.527, de 13 de agosto de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Morungaba da Companhia Paulista de Força e LUZ-CPFL; no Estado de São Paulo.

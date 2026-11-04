@@ -1,5 +1,3 @@
-###DEC-048386-0-000-22-06-1960@@@
-
 DECRETO Nº 48.386, DE 22 DE JUNHO DE 1960.
 
 Outorga concessão à Rádio Difusora de Teresina Limitada para instalar uma estação radiodifusora.

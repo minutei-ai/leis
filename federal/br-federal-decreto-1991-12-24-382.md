@@ -1,7 +1,3 @@
-1
-
-###DEC-000382-0-000-24-12-1991@@@
-
 DECRETO Nº 382, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Urucu/Juruá, no Estado do Maranhão.

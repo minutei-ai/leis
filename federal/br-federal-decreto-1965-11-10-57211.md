@@ -1,5 +1,3 @@
-###DEC-057211-0-000-10-11-1965@@@
-
 DECRETO Nº 57.211, DE 10 de Novembro DE 1965.
 
 Retifica o art. 1º do Decreto número 54.779, de 31 de outubro de 1964.

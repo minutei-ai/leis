@@ -1,5 +1,3 @@
-###DEC-003477-0-000-22-05-2000@@@
-
 Decreto nº 3.477, de 22 de maio de 2000.
 
 Prorroga o prazo de remanejamento estabelecido nos Decretos que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081086-0-000-21-12-1977@@@
-
 DECRETO Nº 81.086, DE 21 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Letras e de Pedagogia, ministrados pela Faculdade de Filosofia, Ciências e Letras de Boa Esperança, com sede na cidade de Boa Esperança, Estado de Minas Gerais.

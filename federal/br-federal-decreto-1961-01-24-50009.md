@@ -1,5 +1,3 @@
-###DEC-050009-0-000-24-01-1961@@@
-
 DECRETO Nº 50.009, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a firma Comércio e Indústria Souza Noschese S.A. a pesquisar cassiterita no município de Piratini, Estado do Rio Grande do Sul.

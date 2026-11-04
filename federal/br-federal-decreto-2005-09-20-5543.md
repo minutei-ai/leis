@@ -1,5 +1,3 @@
-###DEC-005543-0-000-20-09-2005@@@
-
 DECRETO Nº 5.543, DE 20 DE SETEMBRO DE 2005
 
 Regulamenta dispositivos da Lei n o 10.893, de 13 de julho de 2004, que dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante FMM, e o art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, que dispõe sobre a ordenação do transporte aquaviário, e dá outras providências.

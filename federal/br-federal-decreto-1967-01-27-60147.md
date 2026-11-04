@@ -1,5 +1,3 @@
-###DEC-060147-0-000-27-01-1967@@@
-
 DECRETO Nº 60.147, DE 27 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Joaquim Nogueira a pesquisar silex no município de Pitangui - Estado de Minas Gerais.

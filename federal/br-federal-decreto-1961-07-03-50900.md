@@ -1,5 +1,3 @@
-###DEC-050900-0-000-03-07-1961@@@
-
 DECRETO Nº 50.900, DE 3 DE JULHO DE 1961.
 
 Transfere da Prefeitura Municipal de Araxá para a “Centrais Elétricas de Minas Gerais S.A.”, a concessão para a produção e fornecimento de energia elétrica ao município de Araxá, excluída a localidade de Barreiro do Araxá, Estado de Minas Gerais.

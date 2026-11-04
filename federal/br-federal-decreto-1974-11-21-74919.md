@@ -1,5 +1,3 @@
-###DEC-074919-0-000-21-11-1974@@@
-
 DECRETO Nº 74.919, DE 21 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Educação da Universidade de Passo Fundo, mantida pela Fundação Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

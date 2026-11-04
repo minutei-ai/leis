@@ -1,5 +1,3 @@
-###DEL-004294-0-000-09-05-1942@@@
-
 DECRETO-LEI N. 4.294 – DE 9 DE MAIO DE 1942
 
 Desdobra o pagamento e dilata o prazo de vencimento dos débitos dos profissionais adquirentes de veículos motores de passageiros e de carga

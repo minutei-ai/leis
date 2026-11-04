@@ -1,5 +1,3 @@
-###DEC-061557-0-000-18-10-1967@@@
-
 DECRETO Nº 61.557, DE 18 DE OUTUBRO DE 1967.
 
 Institui Comissão Interministerial para preparação da posição do Brasil na II Conferência das Nações Unidas sôbre Comércio e Desenvolvimento.

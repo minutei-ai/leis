@@ -1,5 +1,3 @@
-###MPV-000548-0-000-28-10-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 548, DE 28 DE OUTUBRO DE 2011
 
 Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 460.530.000,00, para o fim que especifica.

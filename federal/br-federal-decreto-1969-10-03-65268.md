@@ -1,5 +1,3 @@
-###DEC-065268-0-000-03-10-1969@@@
-
 DECRETO Nº 65.268 - DE 3 DE OUTUBRO DE 1969.
 
 Altera disposições do Decreto nº 61.589, de 23.10.67, no que tange a capitais mínimos das Sociedades Seguradoras, e dá outras providências.

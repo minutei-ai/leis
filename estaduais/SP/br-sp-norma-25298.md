@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/25298)<br>
-
 # LEI COMPLEMENTAR N° 575, DE 11 DE NOVEMBRO DE 1988
 
 ### _Extingue a exigência de fiança funcional na Administração Centralizada e Autárquica do Estado._

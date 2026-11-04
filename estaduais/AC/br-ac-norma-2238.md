@@ -1,6 +1,10 @@
 > **LEI Nº 3.133, DE 01 DE JUNHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Reconhece o Município de Xapuri como Centro Cultural e Ecológico do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Reconhece o Município de Xapuri como Centro Cultural e Ecológico do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

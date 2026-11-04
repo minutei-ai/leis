@@ -1,5 +1,3 @@
-###MPV-002086-0-034-27-12-2000@@@
-
 medida provisória nº 2.086-34, de 27 de Dezembro de 2000.
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099066-0-000-08-03-1990@@@
-
 DECRETO N° 99.066, DE 8 DE MARÇO DE 1990
 
 Regulamenta a Lei n.° 7.678, de 8 de novembro de 1988, que dispõe sobre a produção, circulação e comercialização do vinho e derivados do vinho e da uva.

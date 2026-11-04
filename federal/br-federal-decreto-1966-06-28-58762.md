@@ -1,5 +1,3 @@
-###DEC-058762-0-000-28-06-1966@@@
-
 DECRETO Nº 58.762, DE 28 DE JUNHO DE 1966.
 
 Transforma o Consulado de carreira em Florença, Itália, em Consulado Honorário.

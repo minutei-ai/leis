@@ -1,7 +1,3 @@
-1
-
-###DEC-098843-0-000-17-01-1990@@@
-
 DECRETO Nº 98.843, DE 17 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Domus de Ensino Superior.

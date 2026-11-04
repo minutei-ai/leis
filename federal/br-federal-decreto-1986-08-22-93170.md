@@ -1,5 +1,3 @@
-###DEC-093170-0-000-22-08-1986@@@
-
 DECRETO Nº 93.170, DE 22 DE AGOSTO DE 1986
 
 Aprova a reforma parcial dos Estatutos da EMBRAER - Empresa Brasileira de Aeronáutica SIA.

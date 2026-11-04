@@ -1,5 +1,3 @@
-###DEC-049473-0-000-09-12-1960@@@
-
 DECRETO Nº 49.473, DE 9 DE DEZEMBRO DE 1960.
 
 Estende a aplicação das Normas Especiais aprovadas com o Decreto nº 47.933, de 15 de março de 1960 à construção de rodovias Lábrea-Humaiatá-Pôrto Velho e Caracarai-Boa Vista, integrantes da ligação rodoviária a Pôrto Velho (RD) - Manaus (AM) - Boa Vista (RB).

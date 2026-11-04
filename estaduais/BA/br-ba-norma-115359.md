@@ -252,26 +252,46 @@ II - Para tomadas de preços - 08 dias.
 
 § 12 - Para as alienações mediante leilão, os valores e prazo de publicidade serão os relativos a obras e concorrências nos termos dos parágrafos 2º e 11 deste artigo.
 
-Redação de acordo com a Lei nº 3.486 de 05 de julho de 1976.<br>
-Redação original: "Art. 3º - As licitações para compras, obras, serviços e alienações na Administração Estadual serão reguladas pelas normas constantes dos artigos 125 a 144 do Decreto - Lei Federal nº 200, de 25 fevereiro de 1967, atendidas as disposições dos parágrafos seguintes:<br>
-§ 1º - Nos casos de compras ou serviços, far-se-á:<br>
-a) concorrência - quando de valor superior a cinco mil vezes o salário mínimo mensal;<br>
-b) tomada de preços - quando o valor estiver entre cinquenta até cinco mil vezes o salário mínimo mensal;<br>
-c) convite - quando o valor estiver entre cinco até cinquenta vezes o salário mínimo mensal.<br>
-§ 2º - Nos casos de obras, far-se-á:<br>
-a) concorrência - quando de valor superior a sete mil e quinhentas vezes o salário mínimo mensal;<br>
-b) tomada de preços - quando o valor estiver entre duzentos e cinquenta e sete mil e quinhentas vezes o salário mínimo mensal;<br>
-c) convite - quando o valor estiver entre cinquenta até duzentas e cinquenta vezes o salário mínimo mensal.<br>
-§ 3º - O salário mínimo mensal que servirá de base para o disposto nos parágrafos anteriores é o maior vigente no País.<br>
-§ 4º - O registro cadastral de habilitação de firmas existentes no órgão central de administração geral dispensa a sua manutenção pelas diversas unidades administrativas.<br>
-§ 5º - A devolução das garantias prestadas pelos licitantes sòmente poderá ser feita após pronunciamento da Auditoria Geral do Estado sôbre o cumprimento das obrigações assumidas.<br>
-§ 6º - As licitações feitas mediante convite serão decididas pela autoridade que as houver determinado.<br>
-§ 7º Cada licitante sòmente poderá apresentar, em cada licitação, uma proposta, devendo ser canceladas as demais, ainda que apresentadas por intermédio de interpostas pessoas físicas ou jurídicas.<br>
-§ 8º - Não serão consideradas quaisquer ofertas ou propostas que contenham, apenas, o oferecimento de sua redução sôbre a proposta de preços mais baixos, ou de um acréscimo sôbre a proposta de preços mais altos, conforme a natureza da licitação.<br>
-§ 9º - Em igualdade de condições, a preferência nas licitações é assegurada, sucessiva e excludentemente, aos:<br>
-I - serviços públicos do Estado e entidades da Administração descentralizada;<br>
-II - concorrentes com sede no Estado;<br>
-III - concorrentes nacionais.<br>
+Redação de acordo com a Lei nº 3.486 de 05 de julho de 1976.
+
+Redação original: "Art. 3º - As licitações para compras, obras, serviços e alienações na Administração Estadual serão reguladas pelas normas constantes dos artigos 125 a 144 do Decreto - Lei Federal nº 200, de 25 fevereiro de 1967, atendidas as disposições dos parágrafos seguintes:
+
+§ 1º - Nos casos de compras ou serviços, far-se-á:
+
+a) concorrência - quando de valor superior a cinco mil vezes o salário mínimo mensal;
+
+b) tomada de preços - quando o valor estiver entre cinquenta até cinco mil vezes o salário mínimo mensal;
+
+c) convite - quando o valor estiver entre cinco até cinquenta vezes o salário mínimo mensal.
+
+§ 2º - Nos casos de obras, far-se-á:
+
+a) concorrência - quando de valor superior a sete mil e quinhentas vezes o salário mínimo mensal;
+
+b) tomada de preços - quando o valor estiver entre duzentos e cinquenta e sete mil e quinhentas vezes o salário mínimo mensal;
+
+c) convite - quando o valor estiver entre cinquenta até duzentas e cinquenta vezes o salário mínimo mensal.
+
+§ 3º - O salário mínimo mensal que servirá de base para o disposto nos parágrafos anteriores é o maior vigente no País.
+
+§ 4º - O registro cadastral de habilitação de firmas existentes no órgão central de administração geral dispensa a sua manutenção pelas diversas unidades administrativas.
+
+§ 5º - A devolução das garantias prestadas pelos licitantes sòmente poderá ser feita após pronunciamento da Auditoria Geral do Estado sôbre o cumprimento das obrigações assumidas.
+
+§ 6º - As licitações feitas mediante convite serão decididas pela autoridade que as houver determinado.
+
+§ 7º Cada licitante sòmente poderá apresentar, em cada licitação, uma proposta, devendo ser canceladas as demais, ainda que apresentadas por intermédio de interpostas pessoas físicas ou jurídicas.
+
+§ 8º - Não serão consideradas quaisquer ofertas ou propostas que contenham, apenas, o oferecimento de sua redução sôbre a proposta de preços mais baixos, ou de um acréscimo sôbre a proposta de preços mais altos, conforme a natureza da licitação.
+
+§ 9º - Em igualdade de condições, a preferência nas licitações é assegurada, sucessiva e excludentemente, aos:
+
+I - serviços públicos do Estado e entidades da Administração descentralizada;
+
+II - concorrentes com sede no Estado;
+
+III - concorrentes nacionais.
+
 § 10 - A aplicação das penalidades decorrentes de licitações, compete aos Secretários de Estado ou dirigentes de órgãos diretamente subordinados ao Governador."
 
 Art. 4º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.

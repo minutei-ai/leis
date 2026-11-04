@@ -20,15 +20,32 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 15 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">GLEBA DE TERRAS FAZENDA SANTO ANTÔNIO</td><td style="text-align:center">25.925,42</td></tr><tr><td style="text-align:center">ÁREA 1</td><td style="text-align:center">4.025,47</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+GLEBA DE TERRAS FAZENDA SANTO ANTÔNIO
+
+25.925,42
+
+ÁREA 1
+
+4.025,47
 
 SITUAÇÃO PROPOSTA DE REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">ÁREA 1 A</td><td style="text-align:center">29.950,89</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+ÁREA 1 A
+
+29.950,89

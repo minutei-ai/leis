@@ -1,5 +1,3 @@
-###DEC-062419-0-000-18-03-1968@@@
-
 DECRETO Nº 62.419, DE 18 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Associação Caritativa das Enfermeiras da Esperança”, com sede em São Paulo, Estado de São Paulo.

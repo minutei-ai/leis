@@ -1,5 +1,3 @@
-###DEC-051959-0-000-26-04-1963@@@
-
 DEcreto nº 51.959, de 26 de abril de 1963.
 
 Autoriza Representações, Mineração Cidade do Aço Limitada a pesquisar caulim no município de Itabirito - Estado de Minas Gerais.

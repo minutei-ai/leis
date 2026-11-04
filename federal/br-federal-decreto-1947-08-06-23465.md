@@ -1,26 +1,24 @@
-###DEC-023465-0-000-06-08-1947@@@
+**DECRETO Nº 23.465, DE 6 DE AGÔSTO DE 1947.**
 
-<strong>DECRETO Nº 23.465, DE 6 DE AGÔSTO DE 1947.</strong>
+***Concede à sociedade anônima “Braathens South-American & Far East Airtransport A.S”, autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “Braathens South-American & Far East Airtransport A.S”, autorização para funcionar na República.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima “*Braathens South-American & Far East Airtransport A.S.*”,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima “<em>Braathens South-American & Far East Airtransport A.S.</em>”,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade anônima “<em>Braathens South-American & Far East Airtransport A.S.</em>”, com sede na cidade de Oslo, Noruega, autorização para funcionar na República, com o capital de Cr$100.000,00 (cem mil cruzeiros) destinado às suas operações no Brasil e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade anônima “*Braathens South-American & Far East Airtransport A.S.*”, com sede na cidade de Oslo, Noruega, autorização para funcionar na República, com o capital de Cr$100.000,00 (cem mil cruzeiros) destinado às suas operações no Brasil e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 6 de agôsto de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 23.465, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 23.465, DESTA DATA**
 
 I
 
-<em>A “Braathens South-American & Far East Airtransport A.S.</em>” é obrigada a ter permanentemente um representante um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que suscitarem, quer com o Govêrno quer com particulares, podendo ser demandado e receber citação inicial pela sociedade.
+*A “Braathens South-American & Far East Airtransport A.S.*” é obrigada a ter permanentemente um representante um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que suscitarem, quer com o Govêrno quer com particulares, podendo ser demandado e receber citação inicial pela sociedade.
 
 II
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 6 de agôsto de 1947.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

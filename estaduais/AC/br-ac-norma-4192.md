@@ -1,6 +1,10 @@
 > **LEI Nº 3.678, DE 31 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 533, de 19 de junho de 1974, que “Dispõe sobre os critérios e as condições que asseguram aos oficiais da ativa da PM do Estado do Acre o acesso na hierarquia policial-militar, mediante promoção, de forma seletiva, gradual e sucessiva e dá outras providências".</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 533, de 19 de junho de 1974, que “Dispõe sobre os critérios e as condições que asseguram aos oficiais da ativa da PM do Estado do Acre o acesso na hierarquia policial-militar, mediante promoção, de forma seletiva, gradual e sucessiva e dá outras providências".
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE** 
 

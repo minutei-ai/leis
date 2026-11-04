@@ -1,5 +1,3 @@
-###DEC-059580-0-000-24-11-1966@@@
-
 DECRETO Nº 59.580, DE 24 DE NOVEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

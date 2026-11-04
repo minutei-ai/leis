@@ -1,5 +1,3 @@
-###DEC-003894-0-000-22-08-2001@@@
-
 DECRETO Nº 3.894, DE 22 DE AGOSTO de 2001
 
 Dispõe sobre a exclusão de empreendimentos de transmissão da Rede Básica do Sistema Elétrico Interligado do Programa Nacional de Desestatização - PND.

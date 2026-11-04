@@ -1,5 +1,3 @@
-###DEL-004847-0-000-20-10-1942@@@
-
 DECRETO-LEI N. 4.847 – DE 20 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de 7.245:000$0, para custeio de trabalhos urgentes a cargo da Casa da Moeda, e dá outras providências

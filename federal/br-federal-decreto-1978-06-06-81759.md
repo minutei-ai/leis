@@ -1,5 +1,3 @@
-###DEC-081759-0-000-06-06-1978@@@
-
 Decreto nº 81.759, de 06 de junho de 1978.
 
 Concede reconhecimento aos cursos de Física, e de Educaçã0 Física, da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

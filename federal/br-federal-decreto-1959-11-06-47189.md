@@ -1,5 +1,3 @@
-###DEC-047189-0-000-06-11-1959@@@
-
 DECRETO Nº 47.189, DE 6 DE NOVEMBRO DE 1959.
 
 Concede à Pegmatito - Indústria Extrativa de Minérios Limitada autorização para funcionar como emprêsa de mineração.

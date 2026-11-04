@@ -1,5 +1,3 @@
-###DEC-056935-0-000-01-10-1965@@@
-
 DECRETO Nº 56.935, DE 1º DE OUTUBRO DE 1965.
 
 Concede a Mineração Veríssimo Limitada, autorização para funcionar como emprêsa de mineração.

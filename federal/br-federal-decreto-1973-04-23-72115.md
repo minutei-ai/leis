@@ -1,5 +1,3 @@
-###DEC-072115-0-000-23-04-1973@@@
-
 DECRETO Nº 72.115, DE 23 DE ABRIL DE 1973.
 
 Muda a sede de Organizações Militares e dá outras providências.

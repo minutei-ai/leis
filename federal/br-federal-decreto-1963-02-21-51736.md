@@ -1,5 +1,3 @@
-###DEC-051736-0-000-21-02-1963@@@
-
 DECRETO Nº 51.736, de 21 DE FEVEREiRO dE 1963
 
 Fixa normas para a concessão de bôlsas de estudos e dá outras providências.

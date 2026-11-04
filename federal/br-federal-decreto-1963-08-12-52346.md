@@ -1,5 +1,3 @@
-###DEC-052346-0-000-12-08-1963@@@
-
 DECRETO Nº 52.346, DE 12 DE AGÔSTO DE 1963.
 
 Reestrutura a Secretaria Executiva da Superintendência do Desenvolvimento do Nordeste, e dá outras providências.
@@ -369,8 +367,6 @@ Brasília, em 12 de agôsto de 1963; 142º da Independência e 75º da Repúblic
 João Goulart
 
 Celso Furtado
-
-###DEC-052346-0-000-12-08-1963@@@RET01+++
 
 DECRETO Nº 52.346, de 12 de agôsto de 1963.
 

@@ -1,18 +1,16 @@
-###DEC-028923-0-000-01-12-1950@@@
+**DECRETO Nº 28.923, DE 1 DE DEZEMBRO DE 1950.**
 
-<strong>DECRETO Nº 28.923, DE 1 DE DEZEMBRO DE 1950.</strong>
+***Reestrutura o Curso de jornalismo da Faculdade de Nacional de Filosofia da Universidade do Brasil.***
 
-<em><strong>Reestrutura o Curso de jornalismo da Faculdade de Nacional de Filosofia da Universidade do Brasil.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 5º do Decreto-lei numero 5.480, de 13 de maio de 1943,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 5º do Decreto-lei numero 5.480, de 13 de maio de 1943,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O curso de Jornalismo, instituído pelo Decreto-lei nº 5.480, de 13 de maio de 1943, tem por fim ministrar conhecimentos que habilitem de modo geral para a profissão de jornalista, e será dividido em duas partes, uma de duas series e outra de uma serie.
+**Art**. 1º O curso de Jornalismo, instituído pelo Decreto-lei nº 5.480, de 13 de maio de 1943, tem por fim ministrar conhecimentos que habilitem de modo geral para a profissão de jornalista, e será dividido em duas partes, uma de duas series e outra de uma serie.
 
 Parágrafo único. A. primeira parte compreende a primeira e a segunda serie do Curso, as quais são comuns a todos alunos; a outra parte se constituí da terceira série e apresenta três modalidades a escolha do aluno.
 
-<strong>Art</strong>. 2º A primeira parte do Curso de Jornalismo passa a ter a seguinte seriação:
+**Art**. 2º A primeira parte do Curso de Jornalismo passa a ter a seguinte seriação:
 
 1ª série: 1. Tecnica de Jornal.
 
@@ -38,7 +36,7 @@ Parágrafo único. A. primeira parte compreende a primeira e a segunda serie do 
 
 6\. Geografia do Brasil.
 
-<strong>Art</strong>. 3º A. segunda parte, que se constitui da segunda série do Curso, constitui em um dos três seguintes grupos de disciplinas:
+**Art**. 3º A. segunda parte, que se constitui da segunda série do Curso, constitui em um dos três seguintes grupos de disciplinas:
 
 a). Rádio Jornalismo ou Tecnica de Periódico.
 
@@ -74,9 +72,9 @@ c) Rádio Jornalismo.
 
 § 2º Alem dessas disciplinas poderá o aluno da 3ª série cursar, por livre escolha, qualquer outra disciplina, constante dos currículos da Faculdade Nacional de Filosofia.
 
-<strong>Art</strong>. 4º As disciplinas de Técnica de Jornal, Técnica Periódica e de Radio Jornalismo compreenderão atividades praticas em redação, oficinas e estúdios, estágio em organização jornalística ou radiofônicas, segundo entendimentos estabelecidos em entidades de classe, mediante aprovação das autoridades universitárias.
+**Art**. 4º As disciplinas de Técnica de Jornal, Técnica Periódica e de Radio Jornalismo compreenderão atividades praticas em redação, oficinas e estúdios, estágio em organização jornalística ou radiofônicas, segundo entendimentos estabelecidos em entidades de classe, mediante aprovação das autoridades universitárias.
 
-<strong>Art</strong>. 5º Do candidato á matricula na 1ª série do Curso de jornalismo será exigido um dos seguintes requisitos:
+**Art**. 5º Do candidato á matricula na 1ª série do Curso de jornalismo será exigido um dos seguintes requisitos:
 
 a) Apresentação da certificado que comprove:
 
@@ -106,22 +104,22 @@ d) Prova de adoneidade moral.
 
 e) Aprovação em concurso de habilitação à 1ª série do Curso de Jornalismo.
 
-§ 2º Os candidatos à matricula na 1ª série que sejam jornalistas escritos na associação de classe e apresentarem carteira de jornalista do Ministério do Trabalho, Industria e Comércio, expedida pelo menos cinco anos antes da data do pedido de inscrição no concurso de habilitação ao Curso de Jornalismo, serão dispensados das exigências previstas nos item <em>a, b</em> e <em>d</em>.
+§ 2º Os candidatos à matricula na 1ª série que sejam jornalistas escritos na associação de classe e apresentarem carteira de jornalista do Ministério do Trabalho, Industria e Comércio, expedida pelo menos cinco anos antes da data do pedido de inscrição no concurso de habilitação ao Curso de Jornalismo, serão dispensados das exigências previstas nos item *a, b* e *d*.
 
-<strong>Art</strong>. 6º Aos alunos que concluírem o Curso de Jornalismo, a partir de 1950, será conferido o diploma de bacharel em jornalismo
+**Art**. 6º Aos alunos que concluírem o Curso de Jornalismo, a partir de 1950, será conferido o diploma de bacharel em jornalismo
 
 Parágrafo único. O diploma de baixarel em jornalismo não assegura a matricula do Curso de Didática nas Faculdades de Filosofia.
 
-<strong>Art</strong>. 7º Aplicam-se o Curso de Jornalismo, no que couber, os dispositivos do Regimento da Faculdade Nacional de Filosofia.
+**Art**. 7º Aplicam-se o Curso de Jornalismo, no que couber, os dispositivos do Regimento da Faculdade Nacional de Filosofia.
 
-<strong>Art</strong>. 8º Ficam revogados os decretos ns. 24.719, de 29 de março de 1948, 26.493, de 19 de março de 1949.
+**Art**. 8º Ficam revogados os decretos ns. 24.719, de 29 de março de 1948, 26.493, de 19 de março de 1949.
 
-<strong>Art</strong>. 9º Aos atuais alunos é permitido concluírem o Curso de Jornalismo na forma da legislação anterior ou segundo o que estatui o presente decreto, feitas nessas hipóteses as adaptações necessárias pela administração da Faculdade Nacional de Filosofia.
+**Art**. 9º Aos atuais alunos é permitido concluírem o Curso de Jornalismo na forma da legislação anterior ou segundo o que estatui o presente decreto, feitas nessas hipóteses as adaptações necessárias pela administração da Faculdade Nacional de Filosofia.
 
-<strong>Art</strong>. 10º O presente decreto entrará em vigor a partir de 1º de janeiro de 1951.
+**Art**. 10º O presente decreto entrará em vigor a partir de 1º de janeiro de 1951.
 
 Rio de janeiro, em 1 de dezembro de 1950; 129º da Independência e 62º da Republica.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Pedro Calmom

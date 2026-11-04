@@ -1,5 +1,3 @@
-###DEL-005236-0-000-09-02-1943@@@
-
 DECRETO‑LEI N. 5.236 – DE 9 DE FEVEREIRO DE 1943
 
 Interpreta os arts. 4° e 14 do decreto‑lei n. 1.237, de 2 de maio de 1939

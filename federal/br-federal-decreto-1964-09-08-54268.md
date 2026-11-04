@@ -1,5 +1,3 @@
-###DEC-054268-0-000-08-09-1964@@@
-
 DECRETO Nº 54.268, DE 8 DE SETEMBRO DE 1964.
 
 Altera a denominação dos membros permanentes do Conselho Nacional de Defesa Sanitária Animal criado pelo Decreto nº 24.548, de 3 de julho de 1934, do Govêrno Provisório da República.

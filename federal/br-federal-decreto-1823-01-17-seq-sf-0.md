@@ -1,5 +1,3 @@
-###DEC-000000-0-000-17-01-1823@@@
-
 DECRETO - DE 17 DE JANEIRO DE 1823
 
 Explica o Decreto de 26 de Dezembro do anno passado, que concedeu uma loteria para o Theatro de S. João.

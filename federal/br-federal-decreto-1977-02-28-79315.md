@@ -1,5 +1,3 @@
-###DEC-079315-0-000-28-02-1977@@@
-
 Decreto nº 79.315, de 28 de fevereiro de 1977.
 
 Concede à SOTESE - Comércio e Extração de Areia Ltda., o direito de lavrar areia quartzosa no Município de Cubatão, Estado de São Paulo.

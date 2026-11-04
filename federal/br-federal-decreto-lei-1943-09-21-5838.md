@@ -1,5 +1,3 @@
-###DEL-005838-0-000-21-09-1943@@@
-
 DECRETO‑LEI N. 5.838 – DE 21 DE SETEMBRO DE  1943
 
 Prorroga o prazo previsto no art. 3º do decreto‑lei n. 5.219, de 22 de janeiro de 1943

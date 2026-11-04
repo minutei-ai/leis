@@ -1,5 +1,3 @@
-###DEC-067046-0-000-13-08-1970@@@
-
 DECRETO Nº 67.046, DE 13 DE AGôSTO DE 1970.
 
 Provê sôbre o funcionamento e a convocação da Conferência Nacional de Educação.

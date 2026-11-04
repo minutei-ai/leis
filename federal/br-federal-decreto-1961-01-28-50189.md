@@ -1,5 +1,3 @@
-###DEC-050189-0-000-28-01-1961@@@
-
 DECRETO Nº 50.189, DE 28 DE Janeiro DE 1961.
 
 Revoga o artigo 227, item I letra b, do Regulamento Geral da Previdência Social, aprovado pelo Decreto nº 48.959-A, de 19 de Setembro de 1960.

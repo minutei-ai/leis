@@ -1,5 +1,3 @@
-###DEC-073960-0-000-18-04-1974@@@
-
 DECRETO Nº 73.960, DE 18 DE ABRIL DE 1974.
 
 Assegura autonomia administrativa e financeira à CEPLAC e dá outras providências.

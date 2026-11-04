@@ -1,5 +1,3 @@
-###LEI-000000-0-000-10-10-1831@@@
-
 LEI - DE 10 DE OUTUBRO DE 1831
 
 Autoriza a creação de corpos de guardas municipaes voluntarios nesta cidade e provincias.

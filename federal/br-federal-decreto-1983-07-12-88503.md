@@ -1,5 +1,3 @@
-###DEC-088503-0-000-12-07-1983@@@
-
 Decreto nº 88.503, de 12 de julho de 1983.
 
 Dispõe sobre indenizações de despesas decorrentes de serviços prestados por organizações militares do Ministério do Exército e dá outras providências.

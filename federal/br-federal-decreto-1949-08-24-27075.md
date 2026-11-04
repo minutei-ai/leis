@@ -1,16 +1,14 @@
-###DEC-027075-0-000-24-08-1949@@@
+**DECRETO Nº 27.075, DE 24 AGÔSTO DE 1949.**
 
-<strong>DECRETO Nº 27.075, DE 24 AGÔSTO DE 1949.</strong>
+***Autoriza a Companhia Sul Mineira de Energia Elétrica a ampliar suas instalações.***
 
-<em><strong>Autoriza a Companhia Sul Mineira de Energia Elétrica a ampliar suas instalações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei n.º 2.059, de 5 de março de 1940;
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei n.º 2.059, de 5 de março de 1940;
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º A Companhia Sul Mineira de Energia Elétrica fica autorizada a elevar até à quota 110m a crista da barragem a ser construída no mesmo local da atual, situada no ribeirão Piheirinho, distrito de Monsanto, município de igual nome, Estado de Minas Gerais e a melhorar as obras civis existentes.
 
-<strong>Art</strong>. 1º A Companhia Sul Mineira de Energia Elétrica fica autorizada a elevar até à quota 110m a crista da barragem a ser construída no mesmo local da atual, situada no ribeirão Piheirinho, distrito de Monsanto, município de igual nome, Estado de Minas Gerais e a melhorar as obras civis existentes.
-
-<strong>Art</strong>. Caducará a presente autorização, independente de ato declaratório, se a interessada não cumprir as disposições seguintes:
+**Art**. Caducará a presente autorização, independente de ato declaratório, se a interessada não cumprir as disposições seguintes:
 
 I - Registrá-la na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias a partir de sua publciação;
 
@@ -20,12 +18,12 @@ III - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministr
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de agôsto de 1949; 128.º da Independência e 61.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

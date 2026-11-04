@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210831)<br>
-
 # DECRETO N° 69.461, DE 02 DE ABRIL DE 2025
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante doação, sem ônus ou encargo, do Município de Salto de Pirapora, o imóvel que especifica._

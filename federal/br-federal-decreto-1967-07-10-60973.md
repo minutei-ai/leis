@@ -1,5 +1,3 @@
-###DEC-060973-0-000-10-07-1967@@@
-
 DECRETO Nº 60.973, DE 10 DE JULHO DE 1967.
 
 Restringe a zona de concessão da Companhia Elétrica Caiuá e dá outras providências.

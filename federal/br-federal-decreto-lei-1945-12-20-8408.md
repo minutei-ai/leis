@@ -1,5 +1,3 @@
-###DEL-008408-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.408 – DE 20 DE DEZEMBRO DE 1945
 
 Cria e eleva cargos isolados, de provimento efetivo, no Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências.

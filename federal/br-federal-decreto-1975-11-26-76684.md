@@ -1,5 +1,3 @@
-###DEC-076684-0-000-26-11-1975@@@
-
 DECRETO Nº 76.684, DE 26 DE NOVEMBRO DE 1975.
 
 Altera dispositivo do Decreto número 74.539 de 11 de setembro de 1974 que cria o Centro de Mísseis da Marinha.

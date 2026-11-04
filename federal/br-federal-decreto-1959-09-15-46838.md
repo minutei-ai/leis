@@ -1,5 +1,3 @@
-###DEC-046838-0-000-15-09-1959@@@
-
 DECRETO Nº 46.838, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a Companhia Viçosense Força e Luz S.A., a permutar terreno de sua propriedade por outros na cidade de Teixeiras, Estado de Minas Gerais.

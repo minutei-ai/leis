@@ -1,5 +1,3 @@
-###DEC-091311-0-000-05-06-1985@@@
-
 DECRETO nº 91.311, de 05 de junho de 1985
 
 Autoriza o funcionamento do curso de Administração do Centro de Ensino Superior de Catalão.

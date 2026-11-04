@@ -1,5 +1,3 @@
-###DEC-085380-0-000-18-11-1980@@@
-
 Decreto nº 85.380, de 18 de novembro de 1980
 
 Concede à Companhia Química do Recôncavo - C.Q.R. autorização para proceder ao aumento do limite do seu Capital Social.

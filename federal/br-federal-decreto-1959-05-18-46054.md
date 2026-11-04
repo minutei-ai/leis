@@ -1,5 +1,3 @@
-###DEC-046054-0-000-18-05-1959@@@
-
 DECRETO Nº 46.054, DE 18 DE maio DE 1959.
 
 Autoriza a cidadã brasileira Neusa Souza de Araújo a pesquisar areias ilmeníticas no município de Barreirinhas, Estado do Maranhão.

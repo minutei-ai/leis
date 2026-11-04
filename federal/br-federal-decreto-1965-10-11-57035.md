@@ -1,5 +1,3 @@
-###DEC-057035-0-000-11-10-1965@@@
-
 DECRETO Nº 57.035, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Edward Garcia a comprar pedras preciosas.

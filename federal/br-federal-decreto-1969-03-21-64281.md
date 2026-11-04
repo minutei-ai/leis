@@ -1,5 +1,3 @@
-###DEC-064281-0-000-21-03-1969@@@
-
 DECRETO Nº 64.281, DE 21 DE MARÇO DE 1969.
 
 Retifica o Decreto nº 51.632, de 19 de dezembro de 1962, que aprovou o Quadro de Pessoal da SUDENE.

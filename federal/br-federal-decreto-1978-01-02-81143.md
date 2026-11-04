@@ -1,5 +1,3 @@
-###DEC-081143-0-000-02-01-1978@@@
-
 Decreto nº 81 143, de 02 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo da Universidade Gama Filho, com seda na cidade do Rio de janeiro, Estado do Rio de Janeiro.

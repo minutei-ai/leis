@@ -1,5 +1,3 @@
-###DEC-070655-0-000-30-05-1972@@@
-
 decreto nº 70.655, de 30 de maio de 1972.
 
 Aprova o Regulamento de Uniformes da Marinha (RUMB)

@@ -82,8 +82,10 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA–GO, 13 de dezembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO<br>
+OLAVO NOLETO
+
 Chefe da Casa Civil

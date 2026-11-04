@@ -1,5 +1,3 @@
-###DEC-055726-0-000-03-02-1965@@@
-
 DECRETO Nº 55.726, DE 3 DE FEVEREIRO DE 1965.
 
 Autoriza a cidadã brasileira Angelina Gilard Fazzini a lavrar areia quartzosa, no município de Peruíbe, Estado de São Paulo.

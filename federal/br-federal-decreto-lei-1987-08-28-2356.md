@@ -1,7 +1,3 @@
-1
-
-###DEL-002356-0-000-28-08-1987@@@
-
 # DECRETO-LEI Nº 2.356, DE 28 DE AGOSTO DE 1987
 
 Altera a tabela para o cálculo do Imposto de Renda na Fonte.
@@ -12,7 +8,83 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o artigo 55, 
 
 Art. 1 º A tabela para o cálculo do Imposto de Renda na Fonte, prevista no art. 4º da Lei nº 7.450, de 23 de dezembro de 1985, fica reajustada na forma abaixo, observada a dispensa da retenção de imposto no caso de rendimento bruto do trabalho assalariado até cinco vezes o valor do Salário Mínimo de Referência:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Classe de</span></p></td><td style="width:276.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Renda Líquida Mensal</span></p></td><td style="width:70.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Alíquota</span></p></td></tr><tr><td style="width:60.3pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Renda</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">CZ$</span></p></td><td style="width:70.8pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">%</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">Até </span><span style="width:17.61pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">4.761,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Isento</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de</span><span style="width:24.28pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">4.762,00</span><span style="width:31.87pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt"> 5.338,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de </span><span style="width:21.5pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">5.339,00</span><span style="width:31.87pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">21.094,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de </span><span style="width:21.5pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">21.095,00 </span><span style="width:23.53pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">30.752,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de </span><span style="width:21.5pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">30.753,00</span><span style="width:26.31pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">47.543,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de</span><span style="width:24.28pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">47.544,00</span><span style="width:26.31pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">52.490,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">25</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de</span><span style="width:24.28pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">52.491,00</span><span style="width:26.31pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">82.547,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de</span><span style="width:24.28pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">82.548,00</span><span style="width:26.31pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">99.219,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">35</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">9</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de</span><span style="width:24.28pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">99.220,00</span><span style="width:26.31pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">133.811,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">40</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">de</span><span style="width:24.28pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">133.812,00</span><span style="width:20.75pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">a</span><span style="width:29.84pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">165.850,00</span></p></td><td style="width:70.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">45</span></p></td></tr><tr><td style="width:60.3pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">11</span></p></td><td style="width:276.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Acima de </span><span style="width:26.34pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="font-size:10pt">165.850,00</span></p></td><td style="width:70.8pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50</span></p></td></tr></tbody></table>
+Classe de
+
+Renda Líquida Mensal
+
+Alíquota
+
+Renda
+
+CZ$
+
+%
+
+1
+
+Até    4.761,00
+
+Isento
+
+2
+
+de   4.762,00 a  5.338,00
+
+5
+
+3
+
+de    5.339,00 a 21.094,00
+
+10
+
+4
+
+de    21.095,00  a 30.752,00
+
+15
+
+5
+
+de    30.753,00 a 47.543,00
+
+20
+
+6
+
+de   47.544,00 a 52.490,00
+
+25
+
+7
+
+de   52.491,00 a 82.547,00
+
+30
+
+8
+
+de   82.548,00 a 99.219,00
+
+35
+
+9
+
+de   99.220,00 a 133.811,00
+
+40
+
+10
+
+de   133.812,00 a 165.850,00
+
+45
+
+11
+
+Acima de      165.850,00
+
+50
 
 Parágrafo único. As deduções admitidas para o cálculo da renda líquida mensal ficam reajustadas para:
 

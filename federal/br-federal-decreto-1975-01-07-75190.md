@@ -1,5 +1,3 @@
-###DEC-075190-0-000-07-01-1975@@@
-
 DECRETO Nº 75.190, de 7 de Janeiro de 1975.
 
 Autoriza o funcionamento dos cursos de Licenciatura em Ciências e Licenciatura em Ciência Biológicas da Faculdades de Filosofia, Ciências e Letras de Rio Claro, na cidade de Rio Claro, Estado de São Paulo.

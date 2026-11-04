@@ -1,5 +1,3 @@
-###DEL-003965-0-000-20-12-1941@@@
-
 DECRETO-LEI N. 3.965 – DE 20 DE DEZEMBRO DE 1941
 
 Autoriza a prorrogação do prazo fixado pelo decreto-lei n°, 3.492, de 1941

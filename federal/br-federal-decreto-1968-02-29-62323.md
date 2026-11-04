@@ -1,5 +1,3 @@
-###DEC-062323-0-000-29-02-1968@@@
-
 decreto nº 62.323, de 29 de fevereiro de 1968.
 
 Concede autorização para funcionamento do Curso de Matemática da Faculdade de Filosofia de Campo Grande, Guanabara.

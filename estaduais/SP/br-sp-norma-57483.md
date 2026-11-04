@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57483)
-
 # LEI Nº 12.022, DE 09 DE SETEMBRO DE 2005
 
 ## (PL 694/2004 - Arthur Alves Pinto)

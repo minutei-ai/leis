@@ -1,5 +1,3 @@
-###DEC-066125-0-000-28-01-1970@@@
-
 DECRETO Nº 66.125 - DE 28 DE JANEIRO DE 1970
 
 Regula o reconhecimento da isenção do imposto de importação para os materiais importados por empresas jornalísticas e editoras, bem como o da imunidade tributária para o papel de imprensa e dá outras providências.

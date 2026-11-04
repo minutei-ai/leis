@@ -1,5 +1,3 @@
-###DEL-008202-0-000-22-11-1945@@@
-
 DECRETO-LEI N. 8.202 – DE 22 DE NOVEMBRO DE 1945.
 
 Restabelece o cargo de Diretor da Secretaria do Senado Federal O Presidente da República, resolve Considerando que o Decreto nº 3.800, de 6 de novembro de 1941, não incluiu entre os cargos do Congresso Nacional – I (Senado Federal) do Ministério da Justiça e Negócios Interiores o de Diretor da Secretaria que se achava vago;

@@ -1,5 +1,3 @@
-###DEC-045046-0-000-12-12-1958@@@
-
 DECRETO Nº 45.046, DE 12 DE DEZEMBRO DE 1958.
 
 Concede equiparação à Universidade Católica de Minas Gerais e aprova seu Estatuto.

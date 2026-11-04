@@ -1,5 +1,3 @@
-###DEC-081298-0-000-02-02-1978@@@
-
 Decreto nº 81.298, de 2 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais das Faculdades Integradas de Marília, no Estado de São Paulo.

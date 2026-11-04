@@ -1,5 +1,3 @@
-###DEC-058488-0-000-24-05-1966@@@
-
 DECRETO Nº 58.488, DE 24 DE MAIO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, área de terreno necessária à retificação do rio Itajaí-Mirim, no trecho entre as cidades de Itajaí e Brusque, no Estado de Santa Catarina.

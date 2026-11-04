@@ -1,5 +1,3 @@
-###DEC-076315-0-000-19-09-1975@@@
-
 Decreto Nº 76.315 - de 19 de setembro de 1975
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras "Tibiriçá", com sede na cidade de São Paulo, Estado de São Paulo.

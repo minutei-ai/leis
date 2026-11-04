@@ -1,5 +1,3 @@
-###DEC-055343-0-000-31-12-1964@@@
-
 DECRETO Nº 55.343, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Caruzo a pesquisar feldspato, no município de Cachoeira de Macacu, Estado do Rio de Janeiro.

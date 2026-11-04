@@ -1,5 +1,3 @@
-###MPV-000185-0-000-13-05-2004@@@
-
 MEDIDA PROVISÓRIA Nº 185, DE 13 DE MAIO 2004
 
 Altera a Lei nº 10.555, de 13 de novembro de 2002, que autoriza condições especiais para o crédito de valores iguais ou inferiores a R$ 100,00, de que trata a Lei Complementar nº 110, de 29 de junho de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004223-0-000-09-05-2002@@@
-
 DECRETO Nº 4.223, DE 9 DE MAIO DE 2002
 
 Promulga o Acordo de Cooperação Educacional entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia, celebrado em La Paz, em 26 de julho de 1999.

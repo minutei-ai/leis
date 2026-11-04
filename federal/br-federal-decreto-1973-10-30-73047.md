@@ -1,5 +1,3 @@
-###DEC-073047-0-000-30-10-1973@@@
-
 DECRETO Nº 73.047, DE 30 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Cultura Araraquara Ltda., para executar serviço de radiodifusão sonora, em onda média de âmbito regional na cidade de Araraquara, Estado de São Paulo.

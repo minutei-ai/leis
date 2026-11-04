@@ -1,5 +1,3 @@
-###DEC-003245-0-000-16-11-1999@@@
-
 DECRETO Nº 3.245, DE 16 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a execução do Protocolo de Adesão da República de Cuba ao Acordo Regional de Cooperação Científica e Tecnológica (Convênio-Quadro) entre os Países-Membros da Associação Latino-Americana de Integração (ALADI), de 10 de fevereiro de 1995.
@@ -40,4 +38,50 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos dez dias do mês de fevereiro de mil novecentos e noventa e cinco, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jesús Sabra</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Bolívia:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Antonio Cespedes Toro</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Hildebrando Tadeu N. Valadares</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Chile:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Augusto Bermúdez Arancibia</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Colômbia:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Antonio Urdaneta Guerrero</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Equador:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Eduardo Cabezas Molina</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo dos Estados Unidos Mexicanos:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ignacio Villaseñor</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Efraín Darío Centurion</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Peru:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Guillermo Fernández Cornejo Cortés</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Néstor G. Cosentino</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Venezuela:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Germán Lairet</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República de Cuba:</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Manuel Aguilera de La Paz</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+Jesús Sabra
+
+Pelo Governo da República da Bolívia:
+
+Antonio Cespedes Toro
+
+Pelo Governo da República Federativa do Brasil:
+
+Hildebrando Tadeu N. Valadares
+
+Pelo Governo da República do Chile:
+
+Augusto Bermúdez Arancibia
+
+Pelo Governo da República da Colômbia:
+
+Antonio Urdaneta Guerrero
+
+Pelo Governo da República do Equador:
+
+Eduardo Cabezas Molina
+
+Pelo Governo dos Estados Unidos Mexicanos:
+
+Ignacio Villaseñor
+
+Pelo Governo da República do Paraguai:
+
+Efraín Darío Centurion
+
+Pelo Governo da República do Peru:
+
+Guillermo Fernández Cornejo Cortés
+
+Pelo Governo da República Oriental do Uruguai:
+
+Néstor G. Cosentino
+
+Pelo Governo da República da Venezuela:
+
+Germán Lairet
+
+Pelo Governo da República de Cuba:
+
+Manuel Aguilera de La Paz

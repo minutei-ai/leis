@@ -1,5 +1,3 @@
-###DEC-058717-0-000-24-06-1966@@@
-
 DECRETO Nº 58.717, DE 24 DE JUNHO DE 1966.
 
 Amplia a área prioritária de emergência para fins de Reforma Agrária, assim declarada pelo Decreto nº 57.081, de 15 de março de 1965.
@@ -25,8 +23,6 @@ Brasília, 24 de junho de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Octávio Bulhões
-
-###DEC-058717-0-000-24-06-1966@@@RET01+++
 
 DECRETO Nº 58.717, DE 24 DE JUNHO DE 1966.
 

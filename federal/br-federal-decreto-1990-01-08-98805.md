@@ -1,7 +1,3 @@
-1
-
-###DEC-098805-0-000-08-01-1990@@@
-
 DECRETO Nº 98.805, DE 8 DE JANEIRO DE 1990
 
 Altera dispositivos do Regulamento Interno dos Serviços da Aeronáutica (RISAER).

@@ -1,5 +1,3 @@
-###DEL-007850-0-000-10-08-1945@@@
-
 DECRETO-LEI N. 7.850 – DE 10 DE AGÔSTO DE 1945
 
 Dispõe sôbre o funcionamento dos cursos extraordinários, previstos na Lei orgânica. do ensino industrial.

@@ -1,5 +1,3 @@
-###DEC-071660-0-000-04-01-1973@@@
-
 DECRETO Nº 71.660, DE 4 DE JANEIRO DE 1973
 
 Dispõe sobre os planos de contas, incorporação dos resultados e publicação dos balanços das entidades da Administração Indireta.

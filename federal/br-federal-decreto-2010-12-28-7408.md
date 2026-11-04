@@ -1,5 +1,3 @@
-###DEC-007408-0-000-28-12-2010-PUB-01@@@
-
 DECRETO Nº 7.408, DE 28 DE DEZEMBRO DE 2010
 
 Autoriza o aumento de capital da Empresa Brasileira de Hemoderivados e Biotecnologia - HEMOBRÁS.

@@ -1,5 +1,3 @@
-###DEC-046180-0-000-09-06-1959@@@
-
 DECRETO Nº 46.180, DE 9 DE JUNHO DE 1959.
 
 Dá nova redação ao art. 1º do Decreto nº 44.607, de 6 de outubro de 1958, para cumprimento de decisão judicial.

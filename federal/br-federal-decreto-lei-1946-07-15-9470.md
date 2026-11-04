@@ -1,5 +1,3 @@
-###DEL-009470-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.470 – DE 15 DE JULHO DE 1946
 
 Concede indenização, por acidente de trabalho, a Joaquim Bernardino.

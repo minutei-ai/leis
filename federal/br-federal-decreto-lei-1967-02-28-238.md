@@ -1,5 +1,3 @@
-###DEL-000238-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 238, De 23 DE FEVEREIRO DE 1967
 
 Retifica o Decreto-lei nº 157, de 10 de fevereiro de 1967 e dá outras providências.

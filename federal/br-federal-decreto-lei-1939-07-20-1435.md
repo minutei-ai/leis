@@ -1,5 +1,3 @@
-###DEL-001435-0-000-20-07-1939@@@
-
 DECRETO-LEI N. 1.435 – DE 20 DE JULHO DE 1939
 
 Aprova a Convenção Interamericana de Radiocomunicações e Documentos anexos, firmados em Havana, a 13 de dezembro de 1937.
@@ -688,7 +686,83 @@ O mencionado Governo, depois de examiná-las, as submeterá, à consideração d
 
 De acordo com o artigo 8 (B) da Convenção, as contribuições dos Estados do continente americano serão as seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; -aw-border:0.5pt single; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:57.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Categorias:</span></p></td><td style="width:57.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">I</span></p></td><td style="width:57.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">II</span></p></td><td style="width:57.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">III</span></p></td><td style="width:57.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">IV</span></p></td><td style="width:57.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">V</span></p></td><td style="width:57.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">VI</span></p></td></tr><tr><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Unidades:</span></p></td><td style="width:57.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">25</span></p></td><td style="width:57.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">20</span></p></td><td style="width:57.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">15</span></p></td><td style="width:57.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">10</span></p></td><td style="width:57.1pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3</span></p></td></tr><tr><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Países:</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Argentina Canada</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Estados</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Unidos da</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">América</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Brasil</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">México</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Cuba</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Colômbia</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Chile</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Peru</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Venezuela</span></p></td><td style="width:57.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Bolívia</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Costa Rica</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Dominicana</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Equador</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Guatemala</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Haiti</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Honduras</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Nicaragua</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Panama</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Paraguai</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Salvador</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Uruguai</span></p></td></tr></tbody></table>
+Categorias:
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+Unidades:
+
+25
+
+20
+
+15
+
+10
+
+5
+
+3
+
+Países:
+
+Argentina Canada
+
+Estados
+
+Unidos da
+
+América
+
+Brasil
+
+México
+
+Cuba
+
+Colômbia
+
+Chile
+
+Peru
+
+Venezuela
+
+Bolívia
+
+Costa Rica
+
+República
+
+Dominicana
+
+Equador
+
+Guatemala
+
+Haiti
+
+Honduras
+
+Nicaragua
+
+Panama
+
+Paraguai
+
+Salvador
+
+Uruguai
 
 # ANEXO 3 DA CONVENÇÃO INTERAMERICANA DE RADIOCOMUNICAÇÕES ASSINADA EM HAVANA, EM 13 DE DEZEMBRO DE 1937
 
@@ -852,9 +926,127 @@ TABELA III
 
 Atribuição geral de freqüências nos diversos serviços
 
-<table cellspacing="0" cellpadding="0" style="-aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td colspan="5" style="width:478.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1600-4000 Kc/s.</span></p></td></tr><tr><td style="width:60.3pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Freqüências</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Kc/s.</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Zona da</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">Norte América</span></p></td><td style="width:127.65pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Zona Central</span></p></td><td colspan="2" style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Zona da Sul América</span></p></td></tr><tr><td style="width:60.3pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1600-1750</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1750-2050</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2050-2100</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2100-2200</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2200-2300</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2300-2395</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2395-2400</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2400-2500</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2500-2600</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2600-2735</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2735-2740</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2740-2850</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2850-3000</span></p></td><td style="width:134.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">(Preferente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Mente para Polícia) .</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Amadores.</span><span style="width:22.45pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis(Preferentemente esta-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Ções de navio).</span><span style="width:0.76pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis(Preferentemente para</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Polícia).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Geral de Experiências.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis(Preferentemente para</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Polícia).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis(Preferentemente Estações Costeiras).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis(Preferentemente internavios.Freqüência assinavel</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2738 Kc) .</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos e Móveis.</span><span style="width:2.26pt; font-size:10pt; display:inline-block">&nbsp;</span></p></td><td colspan="2" style="width:141.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis, incluindo aero-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">-náutica.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Amadores.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente esta-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">ções de navio).</span><span style="width:2.98pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente para</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Polícia)</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Geral de Experiências.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente para</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Polícia).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente Es-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Tações Costeiras).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente in-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Ternavios. Freqüência assi-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">navel</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">2738 Kc).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos e Móveis.</span><span style="width:2.26pt; font-size:10pt; display:inline-block">&nbsp;</span></p></td><td style="width:120.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis,</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">incluin-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">do aeronáutica.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Amadores.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">te estações de navios).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis e Radiodifusão.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis e Radiodifusão.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis e Radiodifusão.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">te Estações Costeiras).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">te internavios. Fre-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">quência assinavel</span><span style="font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-size:10pt">2738</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Kc).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos e Móveis.</span></p></td></tr><tr style="height:0pt"><td style="width:67.3pt"></td><td style="width:141.75pt"></td><td style="width:134.65pt"></td><td style="width:14.2pt"></td><td style="width:127.55pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5"> 1600-4000 Kc/s. </td></tr><tr><td> Freqüências Kc/s. </td><td> &nbsp;&nbsp; Zona da&nbsp; Norte América </td><td> &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zona Central </td><td colspan="2"> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Zona da Sul América </td></tr><tr><td> 1600-1750 &nbsp; 1750-2050 2050-2100 2100-2200 &nbsp; 2200-2300 2300-2395 &nbsp; 2395-2400 2400-2500 &nbsp; 2500-2600 &nbsp; 2600-2735 2735-2740 &nbsp; &nbsp; 2740-2850 2850-3000 </td><td> Fixos e Móveis&nbsp; (Preferente- Mente para Polícia) . Amadores.&nbsp; Fixos e Móveis.&nbsp; Móveis(Preferentemente esta- Ções de navio).&nbsp; Fixos e Móveis.&nbsp; Móveis(Preferentemente para Polícia). Geral de Experiências. Móveis(Preferentemente para Polícia). Móveis(Preferentemente Estações Costeiras). Aeronáuticos e Móveis. Móveis(Preferentemente internavios.Freqüência assinavel 2738 Kc) . Fixos e Móveis. Aeronáuticos e Móveis.&nbsp; </td><td colspan="2"> Fixos e Móveis, incluindo aero- -náutica. Amadores. Fixos e Móveis.&nbsp; Móveis (Preferentemente esta- ções de navio).&nbsp; Fixos e Móveis.&nbsp; Móveis (Preferentemente para Polícia) Geral de Experiências. Móveis (Preferentemente para Polícia). Móveis (Preferentemente Es- Tações Costeiras). Aeronáuticos e Móveis. Móveis (Preferentemente in- Ternavios. Freqüência assi- navel&nbsp; 2738 Kc). Fixos e Móveis Aeronáuticos e Móveis.&nbsp; </td><td> Fixos e Móveis,&nbsp;&nbsp;&nbsp;&nbsp; incluin- do aeronáutica. Amadores. Fixos e Móveis. Móveis (Preferentemente- te estações de navios). Fixos e Móveis. Móveis e Radiodifusão. &nbsp; Móveis e Radiodifusão. Móveis e Radiodifusão. &nbsp; Móveis (Preferentemente- te Estações Costeiras). Aeronáuticos e Móveis. Móveis (Preferentemente- te internavios. Fre- quência assinavel&nbsp; 2738 Kc). Fixos e Móveis. Aeronáuticos e Móveis. </td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; -aw-border:0.5pt single; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:60.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Freqüências</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Kc/s.</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Zona da Norte América</span></p></td><td style="width:141.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Zona Central</span></p></td><td style="width:120.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Zona da Sul América</span></p></td></tr><tr><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3000-3065</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3065-3100</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3100-3110</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3110-3150</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3150-3265</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3265-3320</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3320-3440</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3440-3485</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3485-3500</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3500-4000</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente fre-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">quência de chamada dos ser-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">viços aeronáuticos 3105 Kc).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis.</span><span style="width:0.95pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis (Preferente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">mente Aeronáuticos) .</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos.</span><span style="width:8.73pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis (Preferente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">mente Aeronáuticos) .</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Geral de Experiências.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Amadores.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente fre-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">quência de chamada dos ser-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">viços aeronáuticos 3105 Kc.),</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis .(Preferente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">mente Aeronáuticos).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span><span style="width:1.34pt; font-size:10pt; display:inline-block">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis (Preferente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">mente Aeronáuticos).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Geral de Experiências.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Amadores.</span></p></td><td style="width:120.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis (Preferentemente-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">te freqüência de cha-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">mada dos serviços ae-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">ronáuticos 3105 Kc).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis (Prefe-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">rentemente Aeronáuti-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">cos).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="width:35.4pt; font-size:10pt; display:inline-block">&nbsp;</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Fixos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis (Prefe-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">rentemente Aeronáuti-</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">cos) .</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Geral de Experiências.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Amadores.</span></p></td></tr></tbody></table>
+Freqüências
+
+Kc/s.
+
+Zona da Norte América
+
+Zona Central
+
+Zona da Sul América
+
+3000-3065
+
+3065-3100
+
+3100-3110
+
+3110-3150
+
+3150-3265
+
+3265-3320
+
+3320-3440
+
+3440-3485
+
+3485-3500
+
+3500-4000
+
+Fixos e Móveis.
+
+Aeronáuticos.
+
+Móveis (Preferentemente fre-
+
+quência de chamada dos ser-
+
+viços aeronáuticos 3105 Kc).
+
+Móveis.
+
+Fixos e Móveis (Preferente-
+
+mente Aeronáuticos) .
+
+Fixos.
+
+Fixos e Móveis.
+
+Fixos e Móveis (Preferente-
+
+mente Aeronáuticos) .
+
+Geral de Experiências.
+
+Amadores.
+
+Fixos e Móveis.
+
+Aeronáuticos.
+
+Móveis (Preferentemente fre-
+
+quência de chamada dos ser-
+
+viços aeronáuticos 3105 Kc.),
+
+Móveis.
+
+Fixos e Móveis .(Preferente-
+
+mente Aeronáuticos).
+
+Fixos.
+
+Fixos e Móveis.
+
+Fixos e Móveis (Preferente-
+
+mente Aeronáuticos).
+
+Geral de Experiências.
+
+Amadores.
+
+Fixos e Móveis.
+
+Aeronáuticos.
+
+Móveis (Preferentemente-
+
+te freqüência de cha-
+
+mada dos serviços ae-
+
+ronáuticos 3105 Kc).
+
+Móveis.
+
+Fixos e Móveis (Prefe-
+
+rentemente Aeronáuti-
+
+cos).
+
+      Fixos.
+
+Fixos e Móveis.
+
+Fixos e Móveis (Prefe-
+
+rentemente Aeronáuti-
+
+cos) .
+
+Geral de Experiências.
+
+Amadores.
 
 Nota: – (1) – Aos Países na Zona Central situados ao Norte da Colômbia se lhes permitirá reservar a faixa de freqüência de 2.300 a 2.350 Kc/s. para serviço de Radiodifusão em cada um destes países, de acordo com um convênio pelo qual não usarão mais de duas freqüências, por país, dentro desta faixa, separada uma das outras com potência apropriada e antena direcional. O uso dessas freqüências por estes países não ocasionará interferência nos outros serviços nas Zonas do Norte e do Sul que atualmente usam essas freqüências.
 
@@ -864,9 +1056,41 @@ Atribuição geral de freqüências aos diversos serviços
 
 (Vide a seguinte nota especial, abaixo)
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; -aw-border:0.5pt single; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:216.25pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4000 – 25000 Kc/s.</span></p></td></tr></tbody></table>
+4000 – 25000 Kc/s.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; -aw-border:0.5pt single; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Freqüências</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Kc/s.</span></p></td><td style="width:134.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Serviço</span></p></td></tr><tr><td style="width:74.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4000- 5500</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5570- 5700</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5570- 5700</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5700- 5900</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5900- 6000</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6000- 6150</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6150- 6675</span><span style="width:20.2pt; font-size:10pt; display:inline-block">&nbsp;</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos e Móveis (1).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis Marítimos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Aeronáuticos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Fixos (2).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Radiodifusão (3).</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Móveis.</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Freqüências
+
+Kc/s.
+
+Serviço
+
+4000- 5500
+
+5570- 5700
+
+5570- 5700
+
+5700- 5900
+
+5900- 6000
+
+6000- 6150
+
+6150- 6675
+
+Fixos e Móveis (1).
+
+Móveis Marítimos.
+
+Aeronáuticos.
+
+Fixos.
+
+Fixos (2).
+
+Radiodifusão (3).
+
+Móveis.
 
 (Freqüência internacional de chamada dos serviços aeronáuticos 6210 Kc/s.)
 
@@ -1040,7 +1264,17 @@ Fixos e Móveis (Radiofaróis     Fixos e Móveis (Radio-
 
 #### SUSPENSO IMAGEM 0026
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Aeronáuticos Indicadores).</span><span style="width:34.25pt; font-size:12pt; display:inline-block">&nbsp;</span><span style="font-size:12pt">Aeronáuticos Indicadores). faróis Aeronáuticos</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Indicadores).</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">78000- 90000 Televisão.</span><span style="width:9.51pt; font-size:12pt; display:inline-block">&nbsp;</span><span style="font-size:12pt">Televisão.</span><span style="width:16.11pt; font-size:12pt; display:inline-block">&nbsp;</span><span style="font-size:12pt">Televisão.</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">90000- 96000 Fixos e Móveis (incluindo sistemas aeronáuticos de aterrissagem as cegas)</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">96000-108000 Televisão.</span><span style="width:6.17pt; font-size:12pt; display:inline-block">&nbsp;</span><span style="font-size:12pt">Televisão.</span><span style="width:16.11pt; font-size:12pt; display:inline-block">&nbsp;</span><span style="font-size:12pt">Televisão.</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">108000-112000 Fixos e Móveis (incluindo radiofaróis aeronáuticos para diofaróis aeronáuticos para do radiofaróis aeroaterrissagem às cegas e para aterrissagem às cegas e para náuticos para aterrissagem as cegas e para localização.</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:529.2pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:10.8pt; vertical-align:top"><p style="margin-top:0pt; margin-bottom:6pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Aeronáuticos Indicadores). Aeronáuticos Indicadores). faróis Aeronáuticos
+
+Indicadores).
+
+78000- 90000 Televisão. Televisão. Televisão.
+
+90000- 96000 Fixos e Móveis (incluindo sistemas aeronáuticos de aterrissagem as cegas)
+
+96000-108000 Televisão. Televisão. Televisão.
+
+108000-112000 Fixos e Móveis (incluindo radiofaróis aeronáuticos para diofaróis aeronáuticos para do radiofaróis aeroaterrissagem às cegas e para aterrissagem às cegas e para náuticos para aterrissagem as cegas e para localização.
 
 Frequências Zona da               Zona da
 

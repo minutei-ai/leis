@@ -1,5 +1,3 @@
-###DEL-001502-0-000-22-12-1976@@@
-
 # DECRETO-LEI Nº 1.502, DE 22 DE DEZEMBRO DE 1976
 
 Revoga o Decreto-lei nº 1.425, de 3 de novembro de 1975, que autoriza restituição do Imposto sobre Produtos Industrializados à TELEBRÁS suas subsidiárias, associadas e demais concessionárias dos serviços de telefonia.

@@ -28,8 +28,10 @@ Art. 2º Permanecem inalteradas os demais artigos da Lei Municipal nº 2.175 de 
 
 Gabinete do Prefeito de Aparecida de Goiânia – GO, aos 16 de agosto de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

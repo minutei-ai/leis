@@ -1,5 +1,3 @@
-###DEL-009170-0-000-12-04-1946@@@
-
 DECRETO-LEI N. 9.170 – DE 12 DE ABRIL DE 1946
 
 Dispõe sobre obras novas por conta dos cofres públicos e dá outras providências.

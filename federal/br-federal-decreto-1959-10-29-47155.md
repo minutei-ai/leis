@@ -1,5 +1,3 @@
-###DEC-047155-0-000-29-10-1959@@@
-
 DECRETO Nº 47.155, DE 29 DE outubro DE 1959.
 
 Autoriza o cidadão brasileiro João Alberto de Celzi a pesquisar pedras coradas no município Teófilo Otoni, Estado de Minas Gerais.

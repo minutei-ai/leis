@@ -1,5 +1,3 @@
-###DEC-062272-0-000-16-02-1968@@@
-
 decreto nº 62.272, de 16 fevereiro de 1968.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de Santo Amaro”, com sede em Santo Amaro da Purificação, Estado da Bahia.

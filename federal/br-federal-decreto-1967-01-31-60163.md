@@ -1,5 +1,3 @@
-###DEC-060163-0-000-31-01-1967@@@
-
 DECRETO Nº 60.163, DE 31 DE JANEIRO de 1967.
 
 Declara de utilidade pública a “Sociedade Beneficente Santa Casa de Misericórdia de Capão Bonito”, com sede em Capão Bonito, Estado de São Paulo.

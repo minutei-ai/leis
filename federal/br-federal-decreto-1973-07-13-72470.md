@@ -1,5 +1,3 @@
-###DEC-072470-0-000-13-07-1973@@@
-
 DECRETO nº 72.470, DE 13 DE JULHO DE 1973
 
 Autoriza contratação de operação externa e dá outras providências.

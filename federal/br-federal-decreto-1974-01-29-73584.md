@@ -1,5 +1,3 @@
-###DEC-073584-0-000-29-01-1974@@@
-
 DECRETO Nº 73.584, DE 29 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 61.442, de 4 de outubro de 1967, através do qual foi concedido à Mineração Bandeirante Ltda., o direito de lavrar caulim, no Município de Itabirito, Estado de Minas Gerais.

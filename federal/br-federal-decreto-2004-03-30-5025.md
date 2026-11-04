@@ -1,5 +1,3 @@
-###DEC-005025-0-000-30-03-2004@@@
-
 DECRETO Nº 5.025,  DE 30 DE MARÇO DE 2004.
 
 Regulamenta o inciso I e os §§ 1º, 2º, 3º, 4º e 5º do art. 3º da Lei nº 10.438, de 26 de abril de 2002, no que dispõem sobre o Programa de Incentivo às Fontes Alternativas de Energia Elétrica \- PROINFA, primeira etapa, e dá outras providências.

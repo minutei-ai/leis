@@ -1,5 +1,3 @@
-###DEC-056053-0-000-26-04-1965@@@
-
 DECRETO Nº 56.053, DE 26 DE ABRIL DE 1965.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

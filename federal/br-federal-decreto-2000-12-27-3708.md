@@ -1,5 +1,3 @@
-###DEC-003708-0-000-27-12-2000@@@
-
 DECRETO Nº 3.708, DE 27 DE DEZEMBRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.528, de 30 de junho de 2000.

@@ -1,5 +1,3 @@
-###DEC-049958-0-000-19-01-1961@@@
-
 DECRETO Nº 49.958, DE 19 DE JANEIRO DE 1960.
 
 Cancela a concessão outorgada à Sociedade Rádio Emissoras de Piratininga Limitada para estabelecer uma estação radiofusora na cidade de São José do Rio Preto, Estado de São Paulo.

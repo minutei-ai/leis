@@ -1,5 +1,3 @@
-###DEC-068297-0-000-26-02-1971@@@
-
 Decreto Nº 68.297, de 26 de fevereiro de 1971.
 
 Subordinação da Fábrica de Material de Comunicações.

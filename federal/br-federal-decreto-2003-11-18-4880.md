@@ -1,5 +1,3 @@
-###DEC-004880-0-000-18-11-2003@@@
-
 DECRETO Nº 4.880,  DE 18 DE NOVEMBRO DE 2003.
 
        Acrescenta alínea "g" ao inciso VII do art. 1º do Decreto nº 3.648, de 30 de outubro de 2000, que dispõe sobre os cargos privativos de oficial-general do Exército em tempo de paz.
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 18 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

@@ -1,5 +1,3 @@
-###DEC-085195-0-000-24-09-1980@@@
-
 Decreto nº 85.195, de 24 de setembro de 1980.
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação de Fátima do Sul, Estado de Mato Grosso do Sul.

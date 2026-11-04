@@ -1,5 +1,3 @@
-###DEC-093651-0-000-05-12-1986@@@
-
 DECRETO Nº 93.651, DE 5 DE DEZEMBRO DE 1986
 
 Concede à Companhia Brasileira de Projetos Industriais - COBRAPI (GRUPO SIDERBRÁS), autorização para proceder a aumento de seu capital social.

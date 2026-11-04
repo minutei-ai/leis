@@ -1,5 +1,3 @@
-###DEC-072681-0-000-22-08-1973@@@
-
 DECRETO Nº 72.681, DE 22 DE AGOSTO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

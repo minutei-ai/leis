@@ -1,5 +1,3 @@
-###DEC-069168-0-000-08-09-1971@@@
-
 Decreto Nº 69.168, DE 8 DE setembro DE 1971.
 
 Altera dispositivo do Regulamento para as Casas do Marinheiro, aprovado pelo Decreto nº 50.644, de 24 de maio de 1961.

@@ -1,5 +1,3 @@
-###DEL-004219-0-000-31-03-1942@@@
-
 DECRETO-LEI N. 4.219 – DE 31 DE MARÇO DE 1942
 
 Altera o decreto-lei n. 2.035, de 27 de fevereiro de 1940, que dispôs sobre a justiça do Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-081903-0-000-10-07-1978@@@
-
 Decreto nº 81.903, de 10 de julho de 1978.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Processamento de Dados da Universidade Estadual de Maringá, com sede na cidade de Maringá, Estado do Paraná.

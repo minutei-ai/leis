@@ -1,7 +1,3 @@
-1
-
-###DEC-001150-0-000-30-05-1994@@@
-
 DECRETO N° 1.150, DE 30 DE MAIO DE 1994
 
 Acrescenta artigo ao Estatuto Social aprovado pelo Decreto n° 104, de 22, de abril de 1991, da empresa pública Banco Nacional de Desenvolvimento Econômico e Social BNDES.

@@ -1,5 +1,3 @@
-###DEC-077436-0-000-13-04-1976@@@
-
 Decreto nº 77.436 - de 13 de abril de 1976
 
 Declara de utilidade pública, para fins de desapropriação, terreno destinado à expansão física da Universidade Federal de Ouro Preto.

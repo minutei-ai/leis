@@ -1,5 +1,3 @@
-###DEC-092170-0-000-18-12-1985@@@
-
 DECRETO Nº 92.170, de 18 de dezembro de 1985.
 
 Dispõe sobre alteração de denominação de Grandes Unidades e seus respectivos Comandos, de subordinação da 17ª. Brigada de Infantaria de Selva, no Ministério do Exército, e dá outras providências.

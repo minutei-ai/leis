@@ -1,5 +1,3 @@
-###DEC-071577-0-000-19-12-1972@@@
-
 DECRETO Nº 71.577 - DE 19 DE DEZEMBRO DE 1972
 
 Institui Comissão para organizar e executar as comemorações do Centenário de Alberto Santos Dumont e dá outras providências.

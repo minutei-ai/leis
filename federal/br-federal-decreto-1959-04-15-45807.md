@@ -1,5 +1,3 @@
-###DEC-045807-0-000-15-04-1959@@@
-
 DECRETO Nº 45.807, DE 15 DE ABRIL DE 1959.
 
 Regulamenta a exoneração, a pedido, prevista no art. 75, item I, da Lei nº 1.711, de 28 de outubro de 1952.

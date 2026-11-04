@@ -1,5 +1,3 @@
-###DEC-047107-0-000-27-10-1959@@@
-
 DECRETO Nº 47.107, DE 27 DE outubro DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Jorge dos Santos a pesquisar mica no município de Pirenópolis, Estado de Goiás.

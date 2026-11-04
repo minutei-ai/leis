@@ -1,5 +1,3 @@
-###DEC-062534-0-000-16-04-1968@@@
-
 DECRETO Nº 62.534, DE 16 DE ABRIL DE 1968.
 
 Aprova, em caráter provisório, a estrutura básica do Serviço Nacional de Telex e dá outras providências.

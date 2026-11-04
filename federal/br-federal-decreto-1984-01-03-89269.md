@@ -1,5 +1,3 @@
-###DEC-089269-0-000-03-01-1984@@@
-
 Decreto nº 89.269, dE 03 de Janeiro de 1984
 
 Dispõe sobre a vinculação administrativa do Banco de Roraima S/A.

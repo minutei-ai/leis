@@ -1,5 +1,3 @@
-###DEC-060364-0-000-10-03-1967@@@
-
 DECRETO Nº 60.364, DE 10 DE MARÇO DE 1967.
 
 Altera a classificação provisória de função gratificada no Quadro de Pessoal do Ministério da Justiça e Negócios Interiores, e dá outras providências.

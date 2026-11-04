@@ -1,5 +1,3 @@
-###DEC-051849-0-000-18-03-1963@@@
-
 DECRETO Nº 51.849, DE 18 DE MARÇO DE 1963.
 
 Autoriza a Comissão do Vale do São Francisco a aceitar a doação do terreno que menciona, no Estado de Sergipe.

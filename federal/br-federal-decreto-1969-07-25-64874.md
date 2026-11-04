@@ -1,5 +1,3 @@
-###DEC-064874-0-000-25-07-1969@@@
-
 DECRETO Nº 64.874 - DE 25 DE JUlHO DE 1969.
 
 Declara caduco o Decreto nº 18.274 de 4 de abril de 1945.

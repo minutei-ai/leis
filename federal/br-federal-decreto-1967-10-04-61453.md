@@ -1,5 +1,3 @@
-###DEC-061453-0-000-04-10-1967@@@
-
 DECRETO Nº 61.453, DE 4 DE OUTUBRO DE 1967.
 
 Outorga a Campanha de Eletricidade de Pernambuco, concessão para distribuir energia elétrica nos municípios de Ouricuri, Parnamirim e Araripina, Estado de Pernambuco.

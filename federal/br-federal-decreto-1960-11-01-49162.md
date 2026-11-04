@@ -1,5 +1,3 @@
-###DEC-049162-0-000-01-11-1960@@@
-
 DECRETO Nº 49.162, DE 1º DE Novembro DE 1960.
 
 Altera Quadro do Pessoal do Banco Nacional de Credito Cooperativo e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-051945-A-000-26-04-1963@@@
-
 DECRETO Nº 51.945-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Sebastião da Silva Guimarães a lavrar mica, caulim e quartzo no município de Rio Preto, Estado de Minas Gerais.

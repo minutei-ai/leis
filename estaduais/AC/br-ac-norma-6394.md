@@ -1,6 +1,6 @@
 > **LEI Nº 4.545, DE 19 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a Instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, para criar e extinguir os cargos que especifica.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a Instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, para criar e extinguir os cargos que especifica.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -36,7 +36,69 @@ Altera o Anexo IV à Lei n º 1.781, de 3 de julho de 2006
 
 **QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>ITEM</span></strong></span></p></td><td valign="top"><p><span><strong><span>CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA</span></strong></span></p></td><td valign="top"><p><span><strong><span>PROVIMENTO</span></strong></span></p></td><td valign="top"><p><span><strong><span>QUANTIDADE</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>6</span></span></p></td><td valign="top"><p><span><span>Assessor Técnico I</span></span></p></td><td valign="top"><p><span><span>CC/FG - 04</span></span></p></td><td valign="top"><p><span><span>22</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>9</span></span></p></td><td valign="top"><p><span><span>Assistente Técnico</span></span></p></td><td valign="top"><p><span><span>CC/FG - 02</span></span></p></td><td valign="top"><p><span><span>4</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>20</span></span></p></td><td valign="top"><p><span><span>Assessor II</span></span></p></td><td valign="top"><p><span><span>FG - 03</span></span></p></td><td valign="top"><p><span><span>20</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td></tr></tbody></table>
+**ITEM**
+
+**CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA**
+
+**PROVIMENTO**
+
+**QUANTIDADE**
+
+...
+
+...
+
+...
+
+...
+
+6
+
+Assessor Técnico I
+
+CC/FG - 04
+
+22
+
+...
+
+...
+
+...
+
+...
+
+9
+
+Assistente Técnico
+
+CC/FG - 02
+
+4
+
+...
+
+...
+
+...
+
+...
+
+20
+
+Assessor II
+
+FG - 03
+
+20
+
+...
+
+...
+
+...
+
+...
 
 **ANEXO II**
 
@@ -46,6 +108,28 @@ Altera o Anexo IV-A à Lei n º 1.781, de 3 de julho de 2006
 
 **QUADRO DE VENCIMENTOS DOS CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>ITEM</span></strong></span></p></td><td valign="top"><p><span><strong><span>PROVIMENTO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VENCIMENTO</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td valign="top"><p><span><span>5</span></span></p></td><td valign="top"><p><span><span>CC/FG - 02</span></span></p></td><td><p><span><span>7.000,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>...</span></span></p></td><td valign="top"><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr></tbody></table>
+**ITEM**
+
+**PROVIMENTO**
+
+**VENCIMENTO**
+
+...
+
+...
+
+...
+
+5
+
+CC/FG - 02
+
+7.000,00
+
+...
+
+...
+
+...
 
 ” **(NR)**

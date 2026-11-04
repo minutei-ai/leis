@@ -1,5 +1,3 @@
-###DEC-007789-0-000-15-08-2012-PUB-01@@@
-
 DECRETO N°\- 7.789, DE 15 DE AGOSTO DE 2012
 
 Altera o Decreto nº 6.550, de 27 de agosto de 2008 que dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Integração de Políticas de Transporte - CONIT.

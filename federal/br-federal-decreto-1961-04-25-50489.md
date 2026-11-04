@@ -1,5 +1,3 @@
-###DEC-050489-0-000-25-04-1961@@@
-
 DECRETO Nº 50.489, DE 25 DE ABRIL DE 1961.
 
 Dispõe sôbre o financiamento e a redução dos custo de obras didáticas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049085-0-000-07-10-1960@@@
-
 decreto nº 49.085, de 7 de outubro de 1960.
 
 Outorga à Maracaí S.A. Agrícola e Pecuária concessão para o aproveitamento de energia hidráulica de um desnível existente no ribeirão do Cervo distrito de Maracaí, Estado de São Paulo.

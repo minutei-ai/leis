@@ -1,5 +1,3 @@
-###DEC-081945-0-000-11-07-1978@@@
-
 Decreto nº 81.945, de 11 de julho de 1978.
 
 Concede à PANABRA - Mineração e Agropastoril Ltda. o direito de lavrar minério de manganês no Município de Alto Paraíso, Estado de Goiás.

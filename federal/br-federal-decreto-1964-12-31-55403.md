@@ -1,5 +1,3 @@
-###DEC-055403-0-000-31-12-1964@@@
-
 DECRETO Nº 55.403, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Augusto Baptista Pereira a Pesquisar ouro aluvionar no município de São Felix do Xingu, Estado do Pará.

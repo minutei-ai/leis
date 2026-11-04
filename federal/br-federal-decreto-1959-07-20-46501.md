@@ -1,5 +1,3 @@
-###DEC-046501-0-000-20-07-1959@@@
-
 DECRETO Nº 46.501, DE 20 DE JULHO DE 1959.
 
 Transfere do Govêrno do Estado de Mato Grosso para as Centrais Elétricas Matrogrossenses S.A. (CEMAT) as concessões para a produção e fornecimento de energia elétrica aos municípios de Corumbá, Campo Grande e Aquidauna no referido Estado.

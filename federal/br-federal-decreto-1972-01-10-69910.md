@@ -1,5 +1,3 @@
-###DEC-069910-0-000-10-01-1972@@@
-
 DECRETO Nº 69.910, DE 10 DE JANEIRO DE 1972.
 
 Extingue cargos e cria funções gratificadas do Quadro de Pessoal do Ministério da Fazenda.

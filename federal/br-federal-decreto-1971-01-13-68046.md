@@ -1,5 +1,3 @@
-###DEC-068046-0-000-13-01-1971@@@
-
 DECRETO Nº 68.046, DE 13 DE JANEIRO DE 1971.
 
 Transforma a 1ª/1º Batalhão Ferroviário em 1º Batalhão Ferroviário e dá outras providências.

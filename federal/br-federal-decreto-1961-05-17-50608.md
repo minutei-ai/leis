@@ -1,5 +1,3 @@
-###DEC-050608-0-000-17-05-1961@@@
-
 Decreto nº 50.608, de 17 de maio de 1961.
 
 Concede à sociedade anônima Bank of London & South America Limited autorização para aumentar o seu capital no país.

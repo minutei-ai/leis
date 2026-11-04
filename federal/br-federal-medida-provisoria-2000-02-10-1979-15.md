@@ -1,5 +1,3 @@
-###MPV-001979-0-015-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.979-15, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

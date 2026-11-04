@@ -1,7 +1,3 @@
-1
-
-###DEC-098351-0-000-31-10-1989@@@
-
 DECRETO Nº 98.351, DE 31 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados na cidade de São Luis, Estado do Maranhão.

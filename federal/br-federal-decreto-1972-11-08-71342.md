@@ -1,5 +1,3 @@
-###DEC-071342-0-000-08-11-1972@@@
-
 DECRETO Nº 71.342 - DE 8 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno da bacia de Irrigação do Açude Público Sabugi no município de São João do Sabugi, Estado do Rio Grande do norte.

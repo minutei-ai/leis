@@ -1,5 +1,3 @@
-###DEC-081174-0-000-03-01-1978@@@
-
 Decreto nº 81 174, de 3 de janeiro de 1978
 
 Concede reconhecimento aos cursos de Matemática e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras da Barra do Piraí, Estado do Rio de Janeiro.

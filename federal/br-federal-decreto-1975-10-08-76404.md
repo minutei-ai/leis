@@ -1,5 +1,3 @@
-###DEC-076404-0-000-08-10-1975@@@
-
 DECRETO nº 76.404, DE 8 DE OUTUBRO DE 1975
 
 Dispõe sobre apoio a programas de entidades sindicais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087571-0-000-17-09-1982@@@
-
 DECRETO nº 87.571, de 17 de setembro de 1982
 
 Altera dispositivo do Decreto nº 83.240, de 07 de março de 1979, que dispõe sobre reserva de área de terra , no Estado do Pará, para a instalação do "Campo de Provas, das Forças Armadas" e dá outra providências.

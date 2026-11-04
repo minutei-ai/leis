@@ -1,5 +1,3 @@
-###DEC-002844-0-000-16-11-1998@@@
-
 DECRETO Nº 2.844, DE 16 DE NOVEMBRO DE 1998.
 
 Dispõe sobre os cargos privativos de Oficial-General do Exército em Tempo de Paz e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208669)<br>
-
 # DECRETO N° 68.022, DE 11 DE OUTUBRO DE 2023
 
 ### _Revoga os dispositivos que especifica do Decreto n° 47.297, de 6 de novembro de 2002, e do Decreto n° 56.565, de 22 de dezembro de 2010._

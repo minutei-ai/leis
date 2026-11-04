@@ -1,5 +1,3 @@
-###DEC-003832-0-000-01-06-2001@@@
-
 DECRETO Nº 3.832, DE 1º DE JUNHO DE 2001
 
 Promulga o Estatuto da Conferência da Haia de Direito Internacional Privado, adotado na VII Conferência da Haia de Direito Internacional Privado, de 9 a 31 de outubro de 1951.

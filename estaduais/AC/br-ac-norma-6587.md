@@ -2,7 +2,11 @@ Modificada pelas Leis nº [4.680, de 27 de Novembro de 2025;](https://legis.ac.g
 
 > **LEI Nº 4.656, DE 23 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a contratação de operações de crédito com o Banco Nacional do Desenvolvimento Econômico - BNDES visando ao fortalecimento de cadeias de produção.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a contratação de operações de crédito com o Banco Nacional do Desenvolvimento Econômico - BNDES visando ao fortalecimento de cadeias de produção.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -12,13 +16,14 @@ Modificada pelas Leis nº [4.680, de 27 de Novembro de 2025;](https://legis.ac.g
 
 **~~Art. 2º~~** ~~Fica o Poder Executivo autorizado a vincular, como garantia às operações de crédito de que trata esta Lei, em caráter irrevogável e irretratável, _pro solvendo_, as receitas a que se referem o art. 157 e a alínea “a” do inciso I e o inciso II, ambos do art. 159, complementadas pelas receitas dispostas no art. 155, nos termos do § 4º do art. 167, todos da Constituição da República, e, na hipótese de sua extinção, os fundos ou impostos que venham substituí-los, bem como, na sua insuficiência, parte dos depósitos bancários, conferindo ao agente financeiro os poderes bastantes para que as garantias possam ser prontamente exequíveis no caso de inadimplemento, em montante necessário e suficiente para a amortização das parcelas do principal e para o pagamento dos acessórios da dívida.~~
 
-**~~Art. 2º~~** ~~Fica o Poder Executivo autorizado a vincular, como garantia às operações de crédito de que trata esta Lei, as receitas do Fundo de Participações dos Estados - FPE, do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS, e do produto da arrecadação de outros impostos, na forma da legislação em vigor, e, na hipótese de sua extinção, os fundos ou impostos que venham a lhes substituir, bem como, na sua insuficiência, parte dos depósitos bancários, conferindo ao agente financeiro os poderes bastantes para que as garantias possam ser prontamente exequíveis no caso de inadimplemento, em montante necessário e suficiente para a amortização das parcelas do principal e para o pagamento dos acessórios da dívida. (Redação dada pela Lei nº 4.680, de 27/11/2025)<br>~~
+**~~Art. 2º~~** ~~Fica o Poder Executivo autorizado a vincular, como garantia às operações de crédito de que trata esta Lei, as receitas do Fundo de Participações dos Estados - FPE, do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS, e do produto da arrecadação de outros impostos, na forma da legislação em vigor, e, na hipótese de sua extinção, os fundos ou impostos que venham a lhes substituir, bem como, na sua insuficiência, parte dos depósitos bancários, conferindo ao agente financeiro os poderes bastantes para que as garantias possam ser prontamente exequíveis no caso de inadimplemento, em montante necessário e suficiente para a amortização das parcelas do principal e para o pagamento dos acessórios da dívida. (Redação dada pela Lei nº 4.680, de 27/11/2025)
+~~
 
 **Art. 2º** Fica o Poder Executivo autorizado a vincular, como garantia às operações de crédito de que trata esta Lei, as receitas do Fundo de Participações dos Estados - FPE, do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS, e do produto da arrecadação de outros impostos, na forma da legislação em vigor, e, na hipótese de sua extinção, os fundos ou impostos que venham a lhes substituir, bem como, na sua insuficiência, parte dos depósitos bancários. (Redação dada pela Lei nº 4.740, de 18/12/2025)
 
 **Parágrafo único.** ~~Os poderes de que trata o _caput_ só poderão ser exercidos pelo Banco Nacional do Desenvolvimento Econômico - BNDES na hipótese de o Estado não ter efetuado, até o vencimento, o pagamento das obrigações assumidas nos contratos de operações de crédito celebrados com referida instituição financeira.~~ 
 
-(Revogado pela Lei nº 4.740, de 18/12/2025)<br>
+(Revogado pela Lei nº 4.740, de 18/12/2025)
 
 **Art. 3º** Fica determinada a consignação dos recursos provenientes das operações de crédito de que trata esta Lei como receita no orçamento ou em créditos adicionais, nos termos do inciso II do § 1º do art. 32 da Lei Complementar Federal nº 101, de 2000.
 

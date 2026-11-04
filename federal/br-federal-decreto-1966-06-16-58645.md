@@ -1,5 +1,3 @@
-###DEC-058645-0-000-16-06-1966@@@
-
 DECRETO Nº 58.645, DE 16 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Manoel Thomaz Fonseca a pesquisar caulim no município de Mogi das Cruzes, Estado de São Paulo.

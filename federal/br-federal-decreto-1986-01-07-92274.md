@@ -1,5 +1,3 @@
-###DEC-092274-0-000-07-01-1986@@@
-
 DECRETO Nº 92.274, DE 07 DE JANEIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de Carnaubais, Alto do Rodrigues e Açu, no Estado do Rio Grande do Norte, necessários à construção de dutos, para o Sistema de Coleta de óleo na Região de Estreito.

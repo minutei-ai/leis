@@ -1,5 +1,3 @@
-###DEC-003360-0-000-08-02-2000@@@
-
 decreto nº 3.360, de 8 de fevereiro de 2000.
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados que especifica.
@@ -14,7 +12,53 @@ Art. 2º Ficam suprimidos os destaques "Ex" relacionados no Anexo II, referentes
 
 Art. 3º A posição 8702 da TIPI passa a vigorar com a seguinte redação, ficando suprimidos os "Ex" ora existentes:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cód. NCM</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Descrição</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alíq.%</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8702</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VEÍCULOS AUTOMÓVEIS PARA TRANSPORTE DE 10 PESSOAS OU MAIS, INCLUINDO O MOTORISTA</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8702.10.00</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Com motor de pistão, de ignição por compressão (diesel ou semidiesel)</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ex 01 - Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6m</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">3</span><span style="font-family:Arial">, mas inferior a 9m</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">3</span><span style="font-family:Arial">.</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ex 02 - Com volume de habitáculo, destinado a passageiros e motorista, igual ou superior a 9m</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">3</span><span style="font-family:Arial">.</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8702.90</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8702.90.10</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Trolebus</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8702.90.90</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Outros</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ex 01 - Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6m</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">3</span><span style="font-family:Arial">, mas inferior a 9m</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">3</span><span style="font-family:Arial">.</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ex 02 - Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9m</span><span style="font-family:Arial; font-size:0.67em; vertical-align:super">3</span><span style="font-family:Arial">.</span></p></td><td style="width:74.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td></tr></tbody></table>
+Cód. NCM
+
+Descrição
+
+Alíq.%
+
+8702
+
+VEÍCULOS AUTOMÓVEIS PARA TRANSPORTE DE 10 PESSOAS OU MAIS, INCLUINDO O MOTORISTA
+
+8702.10.00
+
+- Com motor de pistão, de ignição por compressão (diesel ou semidiesel)
+
+25
+
+Ex 01 - Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6m3, mas inferior a 9m3.
+
+10
+
+Ex 02 - Com volume de habitáculo, destinado a passageiros e motorista, igual ou superior a 9m3.
+
+0
+
+8702.90
+
+- Outros
+
+8702.90.10
+
+Trolebus
+
+0
+
+8702.90.90
+
+Outros
+
+25
+
+Ex 01 - Com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6m3, mas inferior a 9m3.
+
+10
+
+Ex 02 - Com volume interno de habitáculo, destinado a passageiros e motorista, igual ou superior a 9m3.
+
+0
 
 " (NR)
 

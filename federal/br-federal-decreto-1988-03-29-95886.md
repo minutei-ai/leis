@@ -1,7 +1,3 @@
-1
-
-###DEC-095886-0-000-29-03-1988@@@
-
 # DECRETO N° 95.886, DE 29 DE MARÇO DE 1988
 
 Dispõe sobre o Programa Federal de Desestatização, e dá outras providências.

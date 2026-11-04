@@ -1,5 +1,3 @@
-###DEC-053955-0-000-09-06-1964@@@
-
 DECRETO Nº 53.955, DE 9 DE JUNHO DE 1964.
 
 Dispõe sôbre a fiscalização das leis de proteção ao trabalho no Distrito Federal e dá outras providências.

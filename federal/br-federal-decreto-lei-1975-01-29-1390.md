@@ -1,5 +1,3 @@
-###DEL-001390-0-000-29-01-1975@@@
-
 # DECRETO-LEI Nº 1.390, De 29 De jANeiro DE 1975
 
 Dispõe sobre o Fundo Rotativo Habitacional de Brasília, a Taxa de Ocupação, a alienação e ocupação de imóveis residenciais da Administração Federal no Distrito Federal e dá outras providências.

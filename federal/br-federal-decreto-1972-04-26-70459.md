@@ -1,5 +1,3 @@
-###DEC-070459-0-000-26-04-1972@@@
-
 DECRETO Nº 70.459, DE 26 DE ABRIL DE 1972.
 
 Outorga à Companhia Paulista de Ferro Ligas concessão para aproveitamentos hidráulicos, no município de Baependi, Estado de Minas Gerais.

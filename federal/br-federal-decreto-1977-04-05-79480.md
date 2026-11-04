@@ -1,5 +1,3 @@
-###DEC-079480-0-000-05-04-1977@@@
-
 DECRETO Nº 79.480, DE 5 DE ABRIL DE 1977.
 
 Concede à Mineração Santa Patrícia Ltda, o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

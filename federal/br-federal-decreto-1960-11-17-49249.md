@@ -1,5 +1,3 @@
-###DEC-049249-0-000-17-11-1960@@@
-
 decreto nº 49.249, de 17 de Novembro de 1960.
 
 Autoriza o cidadão brasileiro Joaquim Vitorino dos Santos a pesquisar minério de manganês no município de Jaboticatubas, Estado de Minas Gerais.

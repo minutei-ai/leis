@@ -1,7 +1,3 @@
-1
-
-###MPV-001298-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.298, DE 9 DE FEVEREIRO DE 1996.
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

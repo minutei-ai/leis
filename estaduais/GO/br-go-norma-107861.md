@@ -1,5 +1,7 @@
-DECRETO Nº 10.331, DE 18 DE OUTUBRO DE 2023<br>
-\- [Revogado tacitamente pela Lei nº 22.478, de 14-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108242/lei-22478) - que conferiu nova redação ao<br>
+DECRETO Nº 10.331, DE 18 DE OUTUBRO DE 2023
+
+\- [Revogado tacitamente pela Lei nº 22.478, de 14-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108242/lei-22478) - que conferiu nova redação ao
+
 inciso II do art. 11, ao inciso II do§ 3º do art. 13 e aos arts. 14 e 17, todos da Lei nº 20.787/2020.
 
 ~~Regulamenta o Conselho de Desenvolvimento Industrial do Estado de Goiás e o Conselho Consultivo do PROGOIÁS e dá outras providências.~~
@@ -125,8 +127,6 @@ inciso II do art. 11, ao inciso II do§ 3º do art. 13 e aos arts. 14 e 17, todo
 ~~Art. 6º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 18 de outubro de 2023; 135º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

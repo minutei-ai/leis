@@ -1,5 +1,3 @@
-###DEL-009372-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.372 – DE 17 DE JUNHO DE 1946
 
 Abre ao Ministério da Agricultura o crédito de Cr$ 1.000.000,00, para o combate à peste suína.

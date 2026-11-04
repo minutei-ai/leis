@@ -1,5 +1,3 @@
-###MPV-001727-0-001-08-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.727-1, DE 8 DE DEZEMBRO DE 1998.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providências.

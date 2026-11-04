@@ -1,5 +1,3 @@
-###DEL-005064-0-000-10-12-1942@@@
-
 DECRETO-LEI N. 5.064 – DE 10 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 60.000,00 à verba que especifica

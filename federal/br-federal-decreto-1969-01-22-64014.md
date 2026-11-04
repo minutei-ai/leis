@@ -1,5 +1,3 @@
-###DEC-064014-0-000-22-01-1969@@@
-
 DECRETO Nº 64.014, DE 22 DE JANEIRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

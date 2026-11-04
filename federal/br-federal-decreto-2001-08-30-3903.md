@@ -1,5 +1,3 @@
-###DEC-003903-0-000-30-08-2001@@@
-
 DECRETO Nº  3.903, DE 30 DE AGOSTO DE 2001
 
 Altera  alíquota do Imposto sobre Produtos Industrializados – IPI incidente sobre os produtos que menciona, e dá outras providências.

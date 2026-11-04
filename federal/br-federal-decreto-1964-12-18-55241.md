@@ -1,5 +1,3 @@
-###DEC-055241-0-000-18-12-1964@@@
-
 DECRETO Nº 55.241, DE 18 DE DEZEMBRO DE 1964.
 
 Cia função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providências.

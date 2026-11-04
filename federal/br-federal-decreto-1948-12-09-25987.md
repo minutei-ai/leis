@@ -1,28 +1,26 @@
-###DEC-025987-0-000-09-12-1948@@@
+**DECRETO Nº 25.987, DE 9 DE DEZEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.987, DE 9 DE DEZEMBRO DE 1948.</strong>
+***Torna extensivo aos servidores do IPASE o aumento de vencimentos e salários concedido ao pessoal civil da União.***
 
-<em><strong>Torna extensivo aos servidores do IPASE o aumento de vencimentos e salários concedido ao pessoal civil da União.</strong></em>
+**O PRESIDENTE DA REPUBLICA,** usando da atribuição que lhe confere o art. 87, item I, da Constituição e na conformidade com o estabelecido no art. 33, da Lei n.º 488, de 15 de novembro de 1948,
 
-<strong>O PRESIDENTE DA REPUBLICA,</strong> usando da atribuição que lhe confere o art. 87, item I, da Constituição e na conformidade com o estabelecido no art. 33, da Lei n.º 488, de 15 de novembro de 1948,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Fica extensivo, no que couber, aos dirigentes e empregados do Instituto de Previdência e Assistência dos Servidores do Estado, o disposto na Lei n.º 488, de 15 de novembro de 1948.
 
-<strong>Art</strong>. 1.º Fica extensivo, no que couber, aos dirigentes e empregados do Instituto de Previdência e Assistência dos Servidores do Estado, o disposto na Lei n.º 488, de 15 de novembro de 1948.
+**Art**. 2.º Os novos valores dos vencimentos dos cargos em comissão e de gratificação de órgão de deliberação coletiva são os que se encontram discriminados na tabela anexa.
 
-<strong>Art</strong>. 2.º Os novos valores dos vencimentos dos cargos em comissão e de gratificação de órgão de deliberação coletiva são os que se encontram discriminados na tabela anexa.
+**Art**. 3.º As funções gratificadas do Quadro do IPASE serão ajustadas aos novos símbolos, após a revisão prevista pelo art. 6.º, § 1.º, da mesma Lei, para o Serviço Público Federal.
 
-<strong>Art</strong>. 3.º As funções gratificadas do Quadro do IPASE serão ajustadas aos novos símbolos, após a revisão prevista pelo art. 6.º, § 1.º, da mesma Lei, para o Serviço Público Federal.
+**Art**. 4.º Aos servidores do IPASE não será aplicado, a partir de primeiro de agôsto dêste ano, o disposto na alínea *d* do art. 47 do Decreto-lei n.º 2.865, de 12 de dezembro de 1940.
 
-<strong>Art</strong>. 4.º Aos servidores do IPASE não será aplicado, a partir de primeiro de agôsto dêste ano, o disposto na alínea <em>d</em> do art. 47 do Decreto-lei n.º 2.865, de 12 de dezembro de 1940.
+**Art**. 5.º Este Decreto entrará em vigor na data de sua publicação, observado o disposto no art. 32 da supra referida Lei n.º 488.
 
-<strong>Art</strong>. 5.º Este Decreto entrará em vigor na data de sua publicação, observado o disposto no art. 32 da supra referida Lei n.º 488.
-
-<strong>Art</strong>. 6.º Revogam-se as disposições em contrário.
+**Art**. 6.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de dezembro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Honório Monteiro.
 

@@ -1,5 +1,3 @@
-###DEC-045305-0-000-27-01-1959@@@
-
 Decreto nº 45.305, de 27 de janeiro de 1959.
 
 Declara caduco o Decreto nº 16.582, de 13 de setembro de 1944.

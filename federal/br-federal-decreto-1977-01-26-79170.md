@@ -1,5 +1,3 @@
-###DEC-079170-0-000-26-01-1977@@@
-
 DECRETO Nº 79.170, DE 26 DE JANEIRO DE 1977.
 
 Confisca bem pertencente a Wellington Gomes Barbosa e dá outras providências.

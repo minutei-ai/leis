@@ -1,5 +1,3 @@
-###DEL-007318-0-000-10-02-1945@@@
-
 DECRETO-LEI N. 7.318 – DE 10 DE FEVEREIRO DE 1945
 
 Dispõe sôbre concessão de gratificação de magistério, a professor do Ministério da Marinha

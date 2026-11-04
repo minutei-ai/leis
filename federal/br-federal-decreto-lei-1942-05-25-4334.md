@@ -1,5 +1,3 @@
-###DEL-004334-0-000-25-05-1942@@@
-
 DECRETO-LEI N. 4.334 – DE 25 DE MAIO DE 1942
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saude e dá outras providências

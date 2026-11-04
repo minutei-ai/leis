@@ -1,5 +1,3 @@
-###DEC-085911-0-000-15-04-1981@@@
-
 DecreTo nº 85.911, de 15 de abril de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação do Canteiro de obras da Usina Hidrelétrica de Ilha Grande, nos Estados de Mato Grosso do Sul e Paraná.

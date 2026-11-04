@@ -1,4 +1,5 @@
-DECRETO “N” Nº 411 DE 29 DE MAIO DE 2024.<br>
+DECRETO “N” Nº 411 DE 29 DE MAIO DE 2024.
+
 (Revogado pelo Decreto "N" Nº 754, de 16 de setembro de 2024).
 
 ~~Dispõe sobre desmembramento de imóvel.~~
@@ -31,8 +32,10 @@ DECRETO “N” Nº 411 DE 29 DE MAIO DE 2024.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 29 de maio de 2024.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana~~<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana~~

@@ -1,5 +1,3 @@
-###DEL-009315-0-000-01-06-1946@@@
-
 DECRETO-LEI N. 9.315 – DE 1 DE JUNHO DE 1946
 
 Autoriza a intervenção, pelo Govêrno, na Ceará Tramway Ligth and Power Co. Ltd.

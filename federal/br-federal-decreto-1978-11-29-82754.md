@@ -1,5 +1,3 @@
-###DEC-082754-0-000-29-11-1978@@@
-
 DECRETO Nº 82 754, DE 29 DE NOVEMBRO DE 1978
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Dionisio Cerqueira e Palma Sola, Estado de Santa Catarina, compreendidos na área prioritária de reforma agrária, de que tratam os Decretos nºs 69.411, de 22 de outubro de 1971, e 78.422, de 15 de setembro de 1976.

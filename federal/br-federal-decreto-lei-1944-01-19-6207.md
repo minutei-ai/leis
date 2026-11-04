@@ -1,5 +1,3 @@
-###DEL-006207-0-000-19-01-1944@@@
-
 DECRETO-LEI N. 6.207 – DE 19 DE JANEIRO DE 1944
 
 Revoga o decreto-lei nº 5.959, de 1 de novembro de 1943, e abre crédito especial ao Ministério da Educação e Saúde

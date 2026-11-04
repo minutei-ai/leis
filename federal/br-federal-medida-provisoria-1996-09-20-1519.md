@@ -1,7 +1,3 @@
-1
-
-###MPV-001519-0-000-20-09-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.519, DE 20 DE SETEMBRO DE 1996.
 
 Altera a redação do art. 34 da Lei nº 9.082, de 25 de julho de 1995, e do art. 35 da Lei nº 9.293, de 15 de julho de 1996, que dispõem, respectivamente, sobre as diretrizes para a elaboração da lei orçamentária para os exercícios de 1996 e 1997.

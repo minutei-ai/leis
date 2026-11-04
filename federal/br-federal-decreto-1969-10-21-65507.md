@@ -1,5 +1,3 @@
-###DEC-065507-0-000-21-10-1969@@@
-
 decreto nº 65.507 - de 21 de outubro de 1969.
 
 Redistribui com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Estradas de Rodagem, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

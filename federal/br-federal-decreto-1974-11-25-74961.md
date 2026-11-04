@@ -1,5 +1,3 @@
-###DEC-074961-0-000-25-11-1974@@@
-
 DECRETO nº 74.961, DE 25 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento aos cursos de Ciências de Estudos Sociais e de Letras da Faculdade de Ciências Humanas de Ponte Nova - Minas Gerais, mantida pela Universidade Católica de Minas Gerais, com sede na cidade de Belo Horizonte.

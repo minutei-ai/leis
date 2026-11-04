@@ -1,5 +1,3 @@
-###DEC-082899-0-000-19-12-1978@@@
-
 DECRETO Nº 82.899, DE 19 DE DEZEMBRO DE 1978
 
 Declara de utilidade pública e interesse social, para fins de desapropriação, faixadas de terras, benfeitorias, domínio útil e possíveis direitos sobre a área que menciona, nos Municípios do Cabo e Ipojuca no Estado de Pernambuco.

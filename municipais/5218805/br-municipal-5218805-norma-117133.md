@@ -20,13 +20,79 @@ QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DAS FUNÇÕES GRATIFICADAS (FG
 
 1\. Tabela 1 - Consolidada
 
-<table style="width: 500px;"><tbody><tr><td style="width: 119px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 180px; text-align: center;"><strong>QUANTITATIVO</strong></td><td style="width: 149px; text-align: center;"><strong>VALOR (R$)</strong></td></tr><tr><td style="width: 119px; text-align: center;">FG-1</td><td style="width: 180px; text-align: center;">..................</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">FG-2</td><td style="width: 180px; text-align: center;">..................</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">FG-3</td><td style="width: 180px; text-align: center;">..................</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">FG-4</td><td style="width: 180px; text-align: center;">..................</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">FG-5</td><td style="width: 180px; text-align: center;">..................</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">FG-6</td><td style="width: 180px; text-align: center;">173</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">FG-7</td><td style="width: 180px; text-align: center;">..................</td><td style="width: 149px; text-align: center;">..................</td></tr><tr><td style="width: 119px; text-align: center;">TOTAL</td><td style="width: 180px; text-align: center;">624</td><td style="width: 149px; text-align: center;">..................</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**QUANTITATIVO**
+
+**VALOR (R$)**
+
+FG-1
+
+..................
+
+..................
+
+FG-2
+
+..................
+
+..................
+
+FG-3
+
+..................
+
+..................
+
+FG-4
+
+..................
+
+..................
+
+FG-5
+
+..................
+
+..................
+
+FG-6
+
+173
+
+..................
+
+FG-7
+
+..................
+
+..................
+
+TOTAL
+
+624
+
+..................
 
 ....................................................................................................................................................................................................................................
 
 10\. Tabela 11 - Guarda Civil Municipal - GCM
 
-<table style="width: 500px;"><tbody><tr><td style="width: 125px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 176px; text-align: center;"><strong>QUANTITATIVO</strong></td><td style="width: 147px; text-align: center;"><strong>VALOR (R$)</strong></td></tr><tr><td style="width: 125px; text-align: center;">FG-6</td><td style="width: 176px; text-align: center;">10</td><td style="width: 147px; text-align: center;">910,43</td></tr><tr><td style="width: 125px; text-align: center;">TOTAL</td><td style="width: 176px; text-align: center;">10</td><td style="width: 147px; text-align: center;">&nbsp;</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**QUANTITATIVO**
+
+**VALOR (R$)**
+
+FG-6
+
+10
+
+910,43
+
+TOTAL
+
+10
 
 ....................................................................................................................................................................................................................................
 
@@ -38,7 +104,21 @@ QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DAS FUNÇÕES GRATIFICADAS (FG
 
 10\. Tabela 10 - Guarda Civil Municipal - GCM
 
-<table height="524" width="883"><tbody><tr><td style="width: 46px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 101px; text-align: center;"><strong>FUNÇÃO</strong></td><td style="width: 574px; text-align: center;"><strong>DESCRIÇÃO</strong></td><td style="width: 70px; text-align: center;"><strong>QUANTIDADE</strong></td></tr><tr><td style="width: 46px; text-align: center;">FG-6</td><td style="width: 101px; text-align: center;">Inspetor da Guarda Civil Municipal</td><td style="width: 574px; text-align: justify;">Executar policiamento ostensivo, preventivo, uniformizado e armado, na proteção à população, bens, serviços e instalações do Município; Desempenhar atividades de supervisão e ronda nos postos de policiamento da Guarda Municipal Civil de Rio Verde-GO; Desempenhar atividades de planejamento, gerenciamento e coordenação, das ações de Segurança Pública Municipal; Planejar e gerenciar o emprego do efetivo de sua responsabilidade para fazer frente às necessidades de segurança do Município; Atuar como consultor de Segurança Pública Municipal, propondo e desenvolvendo ações de corresponsabilidade entre os órgãos públicos, sociedade civil e comunidade em geral; Orientar diretamente os seus subordinados nas situações decorrentes de suas atividades; Planejar e coordenar os serviços e operações de sua área de jurisdição; supervisionar a elaboração das escalas de serviço; Estudar, propor e desenvolver medidas para o aperfeiçoamento de seus subordinados; Inspecionar o emprego de armamentos e equipamentos utilizados; Distribuir as tarefas aos seus subordinados e/ou transmitir as ordens e orientações de seus superiores hierárquicos; Orientar e fiscalizar a atuação dos seus subordinados, no trato com o público e nas situações decorrentes de suas atividades; Inspecionar a apresentação individual dos seus subordinados e tomar as providências necessárias; Zelar pela disciplina de seus subordinados; Planejar e coordenar ações educativas e preventivas de Segurança Pública Municipal junto à comunidade em geral; Apoiar e coordenar as ações de socorro e proteção às vítimas de calamidades públicas, participando das ações de defesa civil; Gerir e supervisionar ações de controle do trânsito municipal de pedestres e veículos na área de suas atribuições, quando necessário; Coordenar a segurança de dignitários, quando necessário; Outras funções que lhe forem atribuídas pelo Presidente da Guarda.</td><td style="width: 70px; text-align: center;">10</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+FG-6
+
+Inspetor da Guarda Civil Municipal
+
+Executar policiamento ostensivo, preventivo, uniformizado e armado, na proteção à população, bens, serviços e instalações do Município; Desempenhar atividades de supervisão e ronda nos postos de policiamento da Guarda Municipal Civil de Rio Verde-GO; Desempenhar atividades de planejamento, gerenciamento e coordenação, das ações de Segurança Pública Municipal; Planejar e gerenciar o emprego do efetivo de sua responsabilidade para fazer frente às necessidades de segurança do Município; Atuar como consultor de Segurança Pública Municipal, propondo e desenvolvendo ações de corresponsabilidade entre os órgãos públicos, sociedade civil e comunidade em geral; Orientar diretamente os seus subordinados nas situações decorrentes de suas atividades; Planejar e coordenar os serviços e operações de sua área de jurisdição; supervisionar a elaboração das escalas de serviço; Estudar, propor e desenvolver medidas para o aperfeiçoamento de seus subordinados; Inspecionar o emprego de armamentos e equipamentos utilizados; Distribuir as tarefas aos seus subordinados e/ou transmitir as ordens e orientações de seus superiores hierárquicos; Orientar e fiscalizar a atuação dos seus subordinados, no trato com o público e nas situações decorrentes de suas atividades; Inspecionar a apresentação individual dos seus subordinados e tomar as providências necessárias; Zelar pela disciplina de seus subordinados; Planejar e coordenar ações educativas e preventivas de Segurança Pública Municipal junto à comunidade em geral; Apoiar e coordenar as ações de socorro e proteção às vítimas de calamidades públicas, participando das ações de defesa civil; Gerir e supervisionar ações de controle do trânsito municipal de pedestres e veículos na área de suas atribuições, quando necessário; Coordenar a segurança de dignitários, quando necessário; Outras funções que lhe forem atribuídas pelo Presidente da Guarda.
+
+10
 
 "
 

@@ -1,5 +1,3 @@
-###DEC-057964-0-000-10-03-1966@@@
-
 DECRETO Nº 57.964, DE 10 DE MARÇO DE 1966.
 
 Autoriza o cidadã brasileiro Geraldo de Castro Maia a pesquisar quartzo no município de Mariana, Estado de Minas Gerais.

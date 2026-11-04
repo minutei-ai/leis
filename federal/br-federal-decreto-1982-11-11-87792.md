@@ -1,5 +1,3 @@
-###DEC-087792-0-000-11-11-1982@@@
-
 Decreto nº 87.792, de 11 de novembro de 1982
 
 Concede à Telecomunicações Aeronáuticas S/A - TASA, autorização para proceder o aumento de seu capital.

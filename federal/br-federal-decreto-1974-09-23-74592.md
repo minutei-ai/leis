@@ -1,5 +1,3 @@
-###DEC-074592-0-000-23-09-1974@@@
-
 DECRETO Nº 74.592, DE 23 DE SETEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à emissora Diário da Manhã Ltda., para executar serviço de radiodifusão sonora em onda curta, na cidade de Florianópolis, Estado de Santa Catarina.

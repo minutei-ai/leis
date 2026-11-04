@@ -1,5 +1,3 @@
-###DEL-000218-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 218, DE 28 DE FEVEREIRO DE 1967
 
 Autorizo o Poder Executivo a abrir pelo Ministério da Fazenda, o crédito especial que menciona e da outras providências.

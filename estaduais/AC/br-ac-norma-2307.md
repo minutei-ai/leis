@@ -1,6 +1,10 @@
 > **LEI Nº 3.158, DE 29 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o programa de conscientização e esclarecimento sobre a importância da vacinação contra o vírus HPV - Papiloma Vírus Humano, nas escolas da rede pública e privada.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o programa de conscientização e esclarecimento sobre a importância da vacinação contra o vírus HPV - Papiloma Vírus Humano, nas escolas da rede pública e privada.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-001102-0-000-04-04-1994@@@
-
 DECRETO N° 1.102, DE 4 DE ABRIL DE 1994
 
 Dispõe sobre a execução de Ata de Retificação do Décimo Quarto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 35, entre Brasil e Uruguai, de 10 de junho de 1993.

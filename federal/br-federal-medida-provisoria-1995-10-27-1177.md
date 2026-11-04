@@ -1,5 +1,3 @@
-###MPV-001177-0-000-27-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.177, DE 27 DE OUTUBRO DE 1995.
 
 Cria a Gratificação de Condição Especial de Trabalho - GCET para os servidores militares federais das Forças Armadas, e dá outras providências.

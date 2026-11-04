@@ -1,5 +1,3 @@
-###DEL-009354-0-000-13-06-1946@@@
-
 DECRETO-LEI N. 9.354 – DE 13 DE JUNHO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Centro Social Feminino do impôsto que menciona.

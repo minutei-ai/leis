@@ -1,5 +1,3 @@
-###DEC-064693-0-000-12-06-1969@@@
-
 DECRETO Nº 64.693, DE 12 DE JUNHO DE 1969.
 
 Extingue a Diretoria de Instrução do Exército e dá outras providências

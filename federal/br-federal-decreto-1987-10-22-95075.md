@@ -1,5 +1,3 @@
-###DEC-095075-0-000-22-10-1987@@@
-
 DECRETO Nº 95.075, DE 22 DE OUTUBRO DE 1987
 
 Dispõe sobre o Ministério da Habitação, Urbanismo e Meio Ambiente - MHU, e dá outras providências.

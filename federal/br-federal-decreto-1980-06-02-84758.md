@@ -1,5 +1,3 @@
-###DEC-084758-0-000-02-06-1980@@@
-
 Decreto nº 84.758, de 02 de junho de 1980.
 
 Autoriza o funcionamento das habilitações em Supervisão Escolar e em Orientação Educacional, da Faculdade de Filosofia, Ciências e Letras de Itapetininga, Estado de São Paulo.

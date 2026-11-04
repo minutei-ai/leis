@@ -1,5 +1,3 @@
-###DEC-060291-0-000-03-03-1967@@@
-
 DECRETO Nº 60.291, DE 3 DE MARÇO DE 1967.
 
 Autoriza a Sociedade Anônima Mineração de Amianto a lavrar amianto no município de Uruaçu, Estado de Goiás.

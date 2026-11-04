@@ -1,5 +1,3 @@
-###DEC-060124-0-000-25-01-1967@@@
-
 DECRETO Nº 60.124, DE 25 DE JANEIRO DE 1967.
 
 Autoriza o funcionamento da Faculdade de Direito de Bragança Paulista, Estado de São Paulo.

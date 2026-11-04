@@ -1,5 +1,3 @@
-###DEC-056909-0-000-29-09-1965@@@
-
 DECRETO Nº 56.909, DE 29 DE SETEMBRO DE 1965.
 
 Outorga concessão ao Govêrno do Estado do Pará, para instalar uma emissora de radiodifusão sonora, na Cidade de Belém.

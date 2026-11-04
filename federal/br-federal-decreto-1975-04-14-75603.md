@@ -1,5 +1,3 @@
-###DEC-075603-0-000-14-04-1975@@@
-
 DECRETO Nº 75.603, DE 14 DE ABRIL DE 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

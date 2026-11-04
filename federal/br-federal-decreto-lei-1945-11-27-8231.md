@@ -1,5 +1,3 @@
-###DEL-008231-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.231 – DE 27 DE NOVEMBRO DE 1945
 
 Declara feriados, em todo o território nacional, para efeitos forenses, os dias 3 a 15 de dezembro de 1945.

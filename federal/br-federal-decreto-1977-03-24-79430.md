@@ -1,5 +1,3 @@
-###DEC-079430-0-000-24-03-1977@@@
-
 DECRETO Nº 79.430, DE 24 DE MARÇO DE 1977.
 
 Concede à Cimento Itaú de Corumbá S.A. o direito de lavrar argila no Município de Castilho, Estado de São Paulo.

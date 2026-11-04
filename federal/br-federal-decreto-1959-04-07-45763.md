@@ -1,5 +1,3 @@
-###DEC-045763-0-000-07-04-1959@@@
-
 DECRETO Nº 45.763, DE 7 DE ABRIL DE 1959.
 
 Autoriza a São Paulo Light S.A. - Serviços de Eletricidade a construir uma linha de transmissão entre a linha tronco Cubatão-São Caetano e a vila de Curuçá, no município de Santo André, Estado de São Paulo.

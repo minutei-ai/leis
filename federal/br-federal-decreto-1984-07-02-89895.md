@@ -1,5 +1,3 @@
-###DEC-089895-0-000-02-07-1984@@@
-
 Decreto nº 89.895, de 02 de julho de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à PLANALTO PROMOÇÕES E INFORMAÇÃO S/A, para explorar serviço de radiodifusão sonora em onda média, na cidade de Brasília, Distrito Federal.

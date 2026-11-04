@@ -1,5 +1,3 @@
-###MPV-001850-0-011-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1,850-11, DE 23 DE NOVEMBRO DE 1999.
 
 Dá nova a dispositivos da Lei nº 9.491, de 9 de setembro de 1997, que altera procedimentos relativos ao Programa Nacional de Desestatização, renova a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

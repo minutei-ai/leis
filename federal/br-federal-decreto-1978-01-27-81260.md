@@ -1,5 +1,3 @@
-###DEC-081260-0-000-27-01-1978@@@
-
 Decreto nº 81 260, de 27 de janeiro de 1978.
 
 Concede reconhecimento aos cursos de Pedagogia e de Economia doméstica da Universidade Federal da Viçosa, com sede na cidade de Viçosa, Estado de Minas Gerais.

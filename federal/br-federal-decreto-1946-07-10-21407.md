@@ -1,14 +1,12 @@
-###DEC-021407-0-000-10-07-1946@@@
+**DECRETO Nº 21.407, DE 10 DE JULHO DE 1946.**
 
-<strong>DECRETO Nº 21.407, DE 10 DE JULHO DE 1946.</strong>
+***Modifica o Quadro de Oficiais Veterinários, criado pelo Decreto número 7.040, de 10 de novembro de 1944.***
 
-<em><strong>Modifica o Quadro de Oficiais Veterinários, criado pelo Decreto número 7.040, de 10 de novembro de 1944.</strong></em>
+**OPRESIDENTEDAREPÚBLICA**, usando da atribuição que lhe confere o artigo 74, da letra *a*, da Constituição e em face da Exposição de Motivos apresentada pelo Ministro de Estado da Guerra,
 
-<strong>O</strong> <strong>PRESIDENTE</strong> <strong>DA</strong> <strong>REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, da letra <em>a</em>, da Constituição e em face da Exposição de Motivos apresentada pelo Ministro de Estado da Guerra,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Quadro de Oficiais Veterinários, criado pelo Decreto nº 7.040, de 10 de novembro de 1944 passa a ter a seguinte organização:
+**Art**. 1º O Quadro de Oficiais Veterinários, criado pelo Decreto nº 7.040, de 10 de novembro de 1944 passa a ter a seguinte organização:
 
 1 Coronel (Sub-Diretor de Veterinária).
 
@@ -22,10 +20,10 @@
 
 79 2º Tenentes
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 10 de julho de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 P. Góes Monteiro

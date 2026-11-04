@@ -1,5 +1,3 @@
-###DEC-048855-0-000-12-08-1960@@@
-
 DECRETO Nº 48.855, DE 12 DE AGÔSTO DE 1960.
 
 Outorga à Prefeitura Municipal de São Raimundo Nonato, Estado do Piauí concessão para distribuir energia elétrica.

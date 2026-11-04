@@ -1,5 +1,3 @@
-###DEL-008115-0-000-19-10-1945@@@
-
 DECRETO-LEI N. 8.115 – DE 19 DE OUTUBRO DE 1945
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas.

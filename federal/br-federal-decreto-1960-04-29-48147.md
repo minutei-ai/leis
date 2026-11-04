@@ -1,5 +1,3 @@
-###DEC-048147-0-000-29-04-1960@@@
-
 DECRETO Nº 48.147, de 29 de abril de 1960.
 
 Concede autorização para o funcionamento de Curso.

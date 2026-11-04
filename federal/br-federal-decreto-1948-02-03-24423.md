@@ -1,14 +1,12 @@
-###DEC-024423-0-000-03-02-1948@@@
+**DECRETO Nº 24,423, DE 3 DE FEVEREIRO DE 1948.**
 
-<strong>DECRETO Nº 24,423, DE 3 DE FEVEREIRO DE 1948.</strong>
+***Altera o Regimento do Instituto Benjamin Constant.***
 
-<em><strong>Altera o Regimento do Instituto Benjamin Constant.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regimento do Instituto Benjamin Constant, do Ministério da Educação e Saúde, aprovado pelo Decreto nº 14.165, de 3 de dezembro de 1943, passa a vigorar com as seguintes alterações:
+**Art**. 1º O Regimento do Instituto Benjamin Constant, do Ministério da Educação e Saúde, aprovado pelo Decreto nº 14.165, de 3 de dezembro de 1943, passa a vigorar com as seguintes alterações:
 
 I - Acrescente-se ao Art. 1º o seguinte:
 
@@ -28,12 +26,12 @@ IV - A redação do Art. 26 fica substituída pela seguinte:
 
 Parágrafo único. Os servidores lotados no Instituto e moradores voluntários de casas da União, beneficiar-se-ão das vantagens atribuídas aos moradores obrigatórios quando concordarem em que residam no imóvel outros servidores cegos, alunos externos ou bolsistas de cursos de especialização mantidos pelo estabelecimento”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de fevereiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

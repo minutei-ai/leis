@@ -1,5 +1,3 @@
-###DEC-006722-0-000-30-12-2008@@@
-
 DECRETO Nº 6.722, DE 30 DE DEZEMBRO DE 2008. <http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/DEC%206.722-2008?OpenDocument>
 
 Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

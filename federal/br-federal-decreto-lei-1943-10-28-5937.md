@@ -1,5 +1,3 @@
-###DEL-005937-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.937 – DE 28 DE OUTUBRO DE 1943
 
 Cria, junto ao Departamento Administrativo do Serviço Público, o Conselho de Administração de Pessoal

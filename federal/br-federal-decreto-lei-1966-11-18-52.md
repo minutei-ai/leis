@@ -1,5 +1,3 @@
-###DEL-000052-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 52, DE 18 DE NOVEMBRO DE 1966
 
 Dispõe sôbre o regime de execução orçamentária para movimentação, a cargo do Departamento Nacional de Obras de Saneamento (DNOS), de recursos constitutivos do Fundo Nacional de Obras de Saneamento (FNOS), criado pelos arts. 14 e 15, da Lei nº 4.089, de 1962, cria o Fundo Rotativo de Água e Esgotos (FRAE), e dá outras providências.

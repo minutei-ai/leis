@@ -1,7 +1,3 @@
-1
-
-###DEC-098568-0-000-15-12-1989@@@
-
 DECRETO Nº 98.568, DE 15 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado Fazenda Retiro Lotes 2B e 2C, situado no Município de Tibagi, Estado do Paraná, e dá outras providências.

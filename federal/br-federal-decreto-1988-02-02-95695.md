@@ -1,7 +1,3 @@
-1
-
-###DEC-095695-0-000-02-02-1988@@@
-
 DECRETO N° 95.695, DE 2 DE FEVEREIRO DE 1988
 
 Concede a Aço Minas Gerais S.A. - AÇOMINAS (Grupo SIDERBRÁS) autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEL-000278-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 278, dE 28 DE FEVEREIRO DE 1967
 
 Altera a denominação do Banco Central da República do Brasil, dispõe sôbre suas contas, orçamentos, balanços, atos e contratos, e dá outras providências.

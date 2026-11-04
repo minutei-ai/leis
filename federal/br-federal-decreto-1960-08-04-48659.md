@@ -1,5 +1,3 @@
-###DEC-048659-0-000-04-08-1960@@@
-
 DECRETO Nº 48.659, DE 4 DE AGÔSTO DE 1960.
 
 Abre através do Ministério da Fazenda, o crédito especial de Cr$3.800.000,00, para pagamento de exercícios findos aos funcionários aposentados da Secretaria da Câmara dos Deputados.

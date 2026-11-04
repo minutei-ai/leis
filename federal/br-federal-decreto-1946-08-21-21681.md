@@ -1,12 +1,10 @@
-###DEC-021681-0-000-21-08-1946@@@
+**DECRETO Nº 21.681, DE 21 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.681, DE 21 DE AGÔSTO DE 1946.</strong>
+***Concede permissão à Rádio Carajá de Anápolis, Limitada, para estabelecer, na cidade de Anápolis, Estado de Goiás, uma estação radiodifusora.***
 
-<em><strong>Concede permissão à Rádio Carajá de Anápolis, Limitada, para estabelecer, na cidade de Anápolis, Estado de Goiás, uma estação radiodifusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica concedida à Rádio Carajá de Anápolis, Limitada, permissão para estabelecer na cidade de Anápolis, estado de Goiás, sem direito de exclusividade, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
@@ -14,11 +12,11 @@ Parágrafo único. O contrato decorrente desta concessão deverá ser assinado d
 
 Rio de Janeiro, 21 de Agôsto de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Edmundo de Macedo Soares e Silva
 
-<strong>CLAÚSULAS A QUE SE REFERE O DECRETO Nº 21.681 DESTA DATA</strong>
+**CLAÚSULAS A QUE SE REFERE O DECRETO Nº 21.681 DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizador, impor à concessionária multa de Cr$ 100,00 (cem cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros) conforme a gravidade de infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 21 de agôsto de 1946.
 
-<strong>EDMUNDO DE MACEDO SOARES E SILVA.</strong>
+**EDMUNDO DE MACEDO SOARES E SILVA.**

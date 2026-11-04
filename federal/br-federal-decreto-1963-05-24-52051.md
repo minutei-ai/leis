@@ -1,5 +1,3 @@
-###DEC-052051-0-000-24-05-1963@@@
-
 DECRETO Nº 52.051, DE 24 DE MAIO DE 1963.
 
 Outorga à Prefeitura Municipal de Bôca do Acre concessão para distribuir energia elétrica no município de Bôca do Acre, Estado do Amazonas.

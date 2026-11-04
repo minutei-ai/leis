@@ -1,5 +1,3 @@
-###MPV-001949-0-020-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.949-20, DE 3 DE fevereIRO DE 2000.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

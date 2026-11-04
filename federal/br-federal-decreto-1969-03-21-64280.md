@@ -1,5 +1,3 @@
-###DEC-064280-0-000-21-03-1969@@@
-
 DECRETO Nº 64.280, DE 21 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Congregação das Filhas de Maria da Imaculada Conceição, com sede em Campina Grande, Estado da Paraíba.

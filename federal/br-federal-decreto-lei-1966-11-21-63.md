@@ -1,5 +1,3 @@
-###DEL-000063-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 63 DE 21 DE NOVEMBRO DE 1966
 
 Altera a Tarifa das Alfândegas que acompanha a Lei nº 3.244, de 14 de agôsto de 1957, e dá outras providências.

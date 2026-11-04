@@ -1,5 +1,3 @@
-###DEC-005376-0-000-17-02-2005@@@
-
 DECRETO Nº 5.376 DE 17 DE FEVEREIRO DE 2005
 
 Dispõe sobre o Sistema Nacional de Defesa Civil \- SINDEC e o Conselho Nacional de Defesa Civil, e dá outras providências.

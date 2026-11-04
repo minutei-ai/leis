@@ -1,5 +1,3 @@
-###DEC-070307-0-000-21-03-1972@@@
-
 DECRETO Nº 70.307, DE 21 DE MARÇO DE 1972.
 
 Acrescenta dispositivo ao Decreto nº 54.308, de 25 de setembro de 1964, alterado pelos Decretos nºs 60.769, de 29 de maio de 1967, e 70.183, de 22 de fevereiro de 1972, que especifica as funções permanentes no exterior.

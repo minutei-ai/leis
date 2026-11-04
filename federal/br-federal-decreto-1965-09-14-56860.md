@@ -1,5 +1,3 @@
-###DEC-056860-0-000-14-09-1965@@@
-
 decreto nº 56.860, de 14 de Setembro de 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terrenos, em Caicó-RN. destinados ao Ministério da Guerra.

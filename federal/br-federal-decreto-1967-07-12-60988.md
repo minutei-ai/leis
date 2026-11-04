@@ -1,5 +1,3 @@
-###DEC-060988-0-000-12-07-1967@@@
-
 Decreto nº 60.988, de 12 de julho de 1967.
 
 Autoriza filiação da “Confederação  Nacional da Indústria” à Associação das Industriais Laino-Americanas (AILA), com sede em Montevidél.

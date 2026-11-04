@@ -1,5 +1,3 @@
-###DEC-081568-0-000-18-04-1978@@@
-
 Decreto nº 81.568, de 18 de abril de 1978.
 
 Altera a composição e o "quorum'' do Conselho Nacional de Seguros Privados e dá outras providências.

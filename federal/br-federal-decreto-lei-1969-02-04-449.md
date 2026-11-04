@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e6bd8b3e-f69f-40e3-907e-72635a19e3a6/texto#nowhere)
 
-###DEL-000449-0-000-04-02-1969@@@
-
 DECRETO-LEI Nº 449, DE 4 DE FEVEREIRO DE 1969
 
 Altera a Lei nº 5.546, de 29 de novembro de 1968, que estima a Receita e fixa a Despesa da União para o Exercício Financeiro de 1969.

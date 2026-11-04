@@ -1,5 +1,3 @@
-###DEL-006050-0-000-29-11-1943@@@
-
 DECRETO‑LEI N. 6.050 – DE 29 DE NOVEMBRO DE 1943
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito suplementar de Cr$ 50. 000,00, à verba que especifica

@@ -1,7 +1,3 @@
-1
-
-###DEC-000533-0-000-20-05-1992@@@
-
 DECRETO Nº 533, DE 20 DE MAIO DE 1992
 
 Cria a Reserva Extrativista Marinha do Pirajubaé.

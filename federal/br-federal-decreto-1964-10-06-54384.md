@@ -1,5 +1,3 @@
-###DEC-054384-0-000-06-10-1964@@@
-
 decreto nº 54.384, de 6 de outubro de 1964.
 
 Concede à sociedade Brasilmar Meridional de Navegação Ltda. autorização para continuar a funcionar como emprêsa de navegação e cabotagem.

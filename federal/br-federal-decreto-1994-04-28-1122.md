@@ -1,7 +1,3 @@
-1
-
-###DEC-001122-0-000-28-04-1994@@@
-
 DECRETO N° 1.122, DE 28 DE ABRIL DE 1994
 
 Cria a Zona de Processamento de Exportação (ZPE) de Imbituba, no Estado de Santa Catarina.

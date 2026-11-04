@@ -1,5 +1,3 @@
-###DEL-006373-0-000-27-03-1944@@@
-
 DECRETO-LEI N. 6.373 – DE 27 DE MARÇO DE 1944
 
 Cria funções nas Tabelas Numéricas Extranumerário-Mensalista da Viação Férrea Federal Leste Brasileiro, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-000129-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 129 – DE 29 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 1:500$000 para refôrço da sub-consignação da verba 20 – Secretaria Geral de Finanças – do vigente orçamento da Prefeitura do Distrito Federal

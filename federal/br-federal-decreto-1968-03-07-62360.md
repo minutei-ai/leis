@@ -1,5 +1,3 @@
-###DEC-062360-0-000-07-03-1968@@@
-
 DECRETO Nº 62.360, DE 7 DE MARÇO DE 1968.
 
 Declaro de utilidade pública o “Movimento de Educação de Base - M.E.B.”, com sede no Estado da Guanabara.

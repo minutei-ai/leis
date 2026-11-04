@@ -1,5 +1,3 @@
-###DEC-094724-0-000-03-08-1987@@@
-
 DECRETO Nº 94.724, DE 3 DE AGOSTO DE 1987.
 
 Outorga concessão à Rádio AM de CÍCERO DANTAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cícero Dantas, Estado da Bahia.

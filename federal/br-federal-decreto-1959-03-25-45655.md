@@ -1,5 +1,3 @@
-###DEC-045655-0-000-25-03-1959@@@
-
 DECRETO Nº 45.655, DE 25 DE MARÇO DE 1959.
 
 Suprime o artigo 95 e seus parágrafos 1º e 2º do Regulamento para as Escolas Preparatórias e o artigo 166 do Regulamento do Colégio Militar dá nova redação ao artigo 153 dêste último regulamento e ao artigo 51 do Regulamento de Preceitos Comuns aos estabelecimentos de Ensino do Exército e acrescenta o parágrafo único do artigo 87 dêste último Regulamento.

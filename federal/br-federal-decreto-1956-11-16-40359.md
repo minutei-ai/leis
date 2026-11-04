@@ -1,44 +1,42 @@
-###DEC-040359-0-000-16-11-1956@@@
+**DECRETO Nº 40.359, DE 16 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.359, DE 16 DE NOVEMBRO DE 1956.</strong>
+***Aprova o Regulamento do Ministério Público da União junto a Justiça do Trabalho.***
 
-<em><strong>Aprova o Regulamento do Ministério Público da União junto a Justiça do Trabalho.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Ministério Público da União junto a Justiça do Trabalho ,que com este baixa, assinado pelo Ministro de Estado do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Ministério Público da União junto a Justiça do Trabalho ,que com este baixa, assinado pelo Ministro de Estado do Trabalho, Indústria e Comércio.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas disposições em contrário.
 
 Rio de Janeiro, 16 de novembro de 1956; 135º da Independência e 68º da República
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso
 
-<strong>REGULAMENTO DO MINISTÉRIO PÚBLICO DA UNIÃO JUNTO A JUSTIÇA DO TRABALHO</strong>
+**REGULAMENTO DO MINISTÉRIO PÚBLICO DA UNIÃO JUNTO A JUSTIÇA DO TRABALHO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Ministério Público da União junto a Justiça do Trabalho por finalidade zelar pela exata observância da Constituição Federal das Leis e atos emanados dos poderes públicos, na esfera de suas atribuições.
+**Art**. 1º O Ministério Público da União junto a Justiça do Trabalho por finalidade zelar pela exata observância da Constituição Federal das Leis e atos emanados dos poderes públicos, na esfera de suas atribuições.
 
 § 1º Para o exercício de suas funções o Ministério Público do Trabalho (MPT) reger-se-á pelo que estatuem a Consolidação das leis do Trabalho (Decreto-lei nº 5.452, de 1º de maio de 1943) e a lei Orgânica do Ministério Público da União (lei nº 1.341, de 30 de janeiro de 1951).
 
 § 2º Os membros do Ministério Público do Trabalho são fiscais da lei e de sua execução. Sua função consiste em promover e fiscalizar o cumprimento e a guarda da Constituição, das Leis, regulamentos e atos dos Poderes Públicos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Ministério Público do Trabalho compõem-se do Procurador Geral da Justiça do Trabalho Procuradores do Trabalho de 1ª e 2ª categorias. Procuradores Adjuntos do Trabalho e Substitutos de Procurador Adjunto do Trabalho.
+**Art**. 2º O Ministério Público do Trabalho compõem-se do Procurador Geral da Justiça do Trabalho Procuradores do Trabalho de 1ª e 2ª categorias. Procuradores Adjuntos do Trabalho e Substitutos de Procurador Adjunto do Trabalho.
 
-<strong>Art</strong>. 3º Os Procuradores do Trabalho de 1ª categoria funcionarão junto a Procuradoria Geral e os demais Procuradores junto ás Procuradorias Regionais.
+**Art**. 3º Os Procuradores do Trabalho de 1ª categoria funcionarão junto a Procuradoria Geral e os demais Procuradores junto ás Procuradorias Regionais.
 
-<strong>Art</strong>. 4º As atividades do Ministério Público do Trabalho (MPT) se exercem em todo o país, compreendidas nas oito seguintes Regiões em que para esse efeito, está dividido o território nacional.
+**Art**. 4º As atividades do Ministério Público do Trabalho (MPT) se exercem em todo o país, compreendidas nas oito seguintes Regiões em que para esse efeito, está dividido o território nacional.
 
 Primeira Região - Distrito Federal e Estados do Rio de Janeiro e Espírito Santo e Territórios Federais;
 
@@ -58,15 +56,15 @@ Oitava Região - Estados do Amazonas e Pará.
 
 Parágrafo único. As sedes das Procuradorias Regionais coincidirão com as dos respectivos Tribunais Regionais do Trabalho.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Procurador Geral da Justiça do Trabalho</em>
+*Do Procurador Geral da Justiça do Trabalho*
 
-<strong>Art</strong>. 5º O Procurador Geral da Justiça do Trabalho será nomeado em comissão dentre os Procuradores do Trabalho, com dez anos, pelo menos, de prática forense.
+**Art**. 5º O Procurador Geral da Justiça do Trabalho será nomeado em comissão dentre os Procuradores do Trabalho, com dez anos, pelo menos, de prática forense.
 
-<strong>Art</strong>. 6º O Procurador Geral é o chefe do Ministério Público da União junto à Justiça do Trabalho, e o representa perante o Tribunal Superior do Trabalho e quaisquer outros órgãos ou autoridades.
+**Art**. 6º O Procurador Geral é o chefe do Ministério Público da União junto à Justiça do Trabalho, e o representa perante o Tribunal Superior do Trabalho e quaisquer outros órgãos ou autoridades.
 
-<strong>Art</strong>. 7º Ao Procurador Geral compete:
+**Art**. 7º Ao Procurador Geral compete:
 
 I - Dirigir os serviços da Procuradoria Geral, orientar e fiscalizar as Procuradorias Regionais, expedindo as necessárias instruções;
 
@@ -82,11 +80,11 @@ VI - Apresentar até 1º de março de cada ano aos Ministros da Justiça e Negó
 
 VII - Designar, dentre os Procuradores do Trabalho de 2ª categoria os que, como Procurador Regional, deverão dirigir as Procuradorias Regionais, respeitada a situação dos atuais ocupantes.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Dos procuradores do Trabalho de Primeira Categoria</em>
+*Dos procuradores do Trabalho de Primeira Categoria*
 
-<strong>Art</strong>. 8º Aos Procuradores de Primeira Categoria incumbe:
+**Art**. 8º Aos Procuradores de Primeira Categoria incumbe:
 
 I - Funcionar, por designação do Procurador Geral, nos juízos de primeira instância dos Feitos da Fazenda Pública e nas audiências e sessões do Tribunal Superior do Trabalho;
 
@@ -108,11 +106,11 @@ IX - Defender a jurisdição da Justiça do Trabalho e os atos do Govêrno sôbr
 
 X - Desempenhar os demais encargos que lhe forem atribuídos pelo Procurador Geral.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Dos Procuradores do Trabalho de Segunda Categoria</em>
+*Dos Procuradores do Trabalho de Segunda Categoria*
 
-<strong>Art</strong>. 9º Aos procuradores do Trabalho de Segunda Categoria incumbe:
+**Art**. 9º Aos procuradores do Trabalho de Segunda Categoria incumbe:
 
 I - Dirigir os serviços da respectiva Procuradoria, quando designado Procurador Regional;
 
@@ -132,96 +130,96 @@ VIII - Prestar ao Procurador Geral informações sôbre os feitos em andamento e
 
 IX - Apresentar, até 31 de janeiro de cada ano, ao Procurador Geral, relatório das atividades da Procuradoria, bem como dados e informações sôbre a administração da Justiça do Trabalho na respectiva Região.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos adjuntos e substitutos de Procurador do Trabalho</em>
+*Dos adjuntos e substitutos de Procurador do Trabalho*
 
-<strong>Art</strong>. 10. Aos Procuradores Adjuntos do Trabalho e Substitutos de Procurador Adjunto do Trabalho, quando convocados, incumbe:
+**Art**. 10. Aos Procuradores Adjuntos do Trabalho e Substitutos de Procurador Adjunto do Trabalho, quando convocados, incumbe:
 
 I - Funcionar, por designação dos Procuradores Regionais, nas audiências e sessões das Juntas e dos Tribunais Regionais;
 
 II - Desempenhar os demais encargos que lhes forem atribuídos pelos Procurador Geral ou Regional.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 11. O Procurador Geral, em seus impedimentos, férias, licenças e faltas, será substituído pelos Procuradores de primeira categoria, atendida a ordem de antiguidade.
+**Art**. 11. O Procurador Geral, em seus impedimentos, férias, licenças e faltas, será substituído pelos Procuradores de primeira categoria, atendida a ordem de antiguidade.
 
-<strong>Art</strong>. 12. Os Procuradores de primeira categoria substituir-se-ão mùtuamente ou pelos de segunda, em seus impedimentos, licenças e férias, através de ato designativo do Procurador Geral, desde que não seja nomeado substituto.
+**Art**. 12. Os Procuradores de primeira categoria substituir-se-ão mùtuamente ou pelos de segunda, em seus impedimentos, licenças e férias, através de ato designativo do Procurador Geral, desde que não seja nomeado substituto.
 
 Parágrafo único. Enquanto durar a substituição prevista neste artigo, perceberá o Procurador de segunda categoria os vencimentos correspondentes ao cargo substituto.
 
-<strong>Art</strong>. 13. Serão remunerados (artigo 14 da Lei 1.341, de 30 de janeiro de 1951), as substituições que resultem de convocação do Procurador Geral e durarem mais de trinta dias.
+**Art**. 13. Serão remunerados (artigo 14 da Lei 1.341, de 30 de janeiro de 1951), as substituições que resultem de convocação do Procurador Geral e durarem mais de trinta dias.
 
-<strong>Art</strong>. 14. Os Procuradores de segunda categoria serão substituídos pelos Procuradores Adjuntos das respectivas Regiões, e na falta dêstes, na conformidade do artigo seguinte.
+**Art**. 14. Os Procuradores de segunda categoria serão substituídos pelos Procuradores Adjuntos das respectivas Regiões, e na falta dêstes, na conformidade do artigo seguinte.
 
 Parágrafo único. Os Procuradores Adjuntos do Trabalho serão substituídos pelos Substitutos e Procurador Adjunto do Trabalho, obedecido o critério de antiguidade de nomeação.
 
-<strong>Art</strong>. 15. A nomeação de Substituição de Procurador Adjunto do Trabalho não poderá exceder ao número dos ocupantes dos cargos efetivos, respeitadas as situações atuais existentes em cada Região.
+**Art**. 15. A nomeação de Substituição de Procurador Adjunto do Trabalho não poderá exceder ao número dos ocupantes dos cargos efetivos, respeitadas as situações atuais existentes em cada Região.
 
-<strong>Art</strong>. 16. Os Substitutos terão exercício quando convocados e perceberão os vencimentos do cargo do substituído.
+**Art**. 16. Os Substitutos terão exercício quando convocados e perceberão os vencimentos do cargo do substituído.
 
 § 1º Os Substitutos de Adjunto, no máximo em número de quatro nas Primeira e Segunda Regiões e de dois nas demais, a critério do Procurador Geral e independentemente da ordem de nomeação, podem ser convocados permanentemente para assistência judiciária trabalhista a menores, a interditos assim declarados pela autoridade competente e a reclamantes necessitados nos têrmos da Lei nº 1.060, de 5 de fevereiro de 1951, sem prejuízo de suas próprias atribuições legais;
 
 § 2º Caso não aceitem a convocação sem motivo justificado, serão os Substitutos exonerados.
 
-<strong>Art</strong>. 17. O Procurador Geral poderá designar, livremente, até o máximo de quatro Procuradores, inclusive substitutos de Adjuntos, por conveniência de serviço, para funcionarem como Assistentes do seu Gabinete.
+**Art**. 17. O Procurador Geral poderá designar, livremente, até o máximo de quatro Procuradores, inclusive substitutos de Adjuntos, por conveniência de serviço, para funcionarem como Assistentes do seu Gabinete.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das Férias</em>
+*Das Férias*
 
-<strong>Art</strong>. 18. As férias dos membros do Ministério Público do Trabalho serão de sessenta dias (art. 13 da Lei 1.341, de 30 de janeiro de 1951).
+**Art**. 18. As férias dos membros do Ministério Público do Trabalho serão de sessenta dias (art. 13 da Lei 1.341, de 30 de janeiro de 1951).
 
-<strong>Art</strong>. 19. O Procurador Geral gozará as férias juntamente com o Tribunal Superior do Trabalho.
+**Art**. 19. O Procurador Geral gozará as férias juntamente com o Tribunal Superior do Trabalho.
 
-<strong>Art</strong>. 20. As férias dos Procuradores obedecerão à escala organizada no mês de janeiro de cada ano, podendo ser parceladas ou não, atendida a conveniência do serviço.
+**Art**. 20. As férias dos Procuradores obedecerão à escala organizada no mês de janeiro de cada ano, podendo ser parceladas ou não, atendida a conveniência do serviço.
 
 Parágrafo único. Havendo motivo justificado, poderá ser alterada a escala de férias.
 
-<strong>Art</strong>. 21. O Procurador Geral concederá férias aos Procuradores de primeira categoria e aos Procuradores Regionais, e êstes aos Procuradores que sirvam na Região.
+**Art**. 21. O Procurador Geral concederá férias aos Procuradores de primeira categoria e aos Procuradores Regionais, e êstes aos Procuradores que sirvam na Região.
 
 Parágrafo único. Os Substitutos de Procuradores Adjuntos, após doze mêses de exercício, gozarão das férias concedidas aos demais Procuradores.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Dos Estagiários</em>
+*Dos Estagiários*
 
-<strong>Art</strong>. 22. Poderão ser admitidos como estagiários, junto aos órgãos do Ministério Público da União, junto à Justiça do Trabalho, até dois estudantes das últimas séries das Faculdades de Direito, oficiais ou reconhecidas, designados pelos Procurador Geral ou Procurador Regional.
+**Art**. 22. Poderão ser admitidos como estagiários, junto aos órgãos do Ministério Público da União, junto à Justiça do Trabalho, até dois estudantes das últimas séries das Faculdades de Direito, oficiais ou reconhecidas, designados pelos Procurador Geral ou Procurador Regional.
 
-<strong>Art</strong>. 23. Os estagiários serão designados por um ano, sem ônus para os cofres públicos, podendo ser reconduzidos até duas vêzes.
+**Art**. 23. Os estagiários serão designados por um ano, sem ônus para os cofres públicos, podendo ser reconduzidos até duas vêzes.
 
-<strong>Art</strong>. 24. Fica assegurado aos estagiários:
+**Art**. 24. Fica assegurado aos estagiários:
 
 I - Contar como de efetivo exercício na advocacia, o tempo de estágio;
 
 II - Obter, sem despesas, provisão de Solicitador após 6 (seis) meses de efetivo exercício.
 
-<strong>Art</strong>. 25. Incumbe aos estagiários, além de auxiliar os órgãos do Ministério Público do Trabalho, defender, inclusive oralmente, quando designados, em qualquer instância, os menores de que trata o artigo 793 da Consolidação das Leis do Trabalho.
+**Art**. 25. Incumbe aos estagiários, além de auxiliar os órgãos do Ministério Público do Trabalho, defender, inclusive oralmente, quando designados, em qualquer instância, os menores de que trata o artigo 793 da Consolidação das Leis do Trabalho.
 
-<strong>Art</strong>. 26. Para o provimento das funções de Substituto de Procurador Adjunto, terão preferência os que já houverem exercício a cargo por mais de dois anos e os bacharéis em direito com estágio no Ministério Público do Trabalho, igual ou superior a dois anos.
+**Art**. 26. Para o provimento das funções de Substituto de Procurador Adjunto, terão preferência os que já houverem exercício a cargo por mais de dois anos e os bacharéis em direito com estágio no Ministério Público do Trabalho, igual ou superior a dois anos.
 
-<strong>Art</strong>. 27. Os estágios estão sujeitos aos mesmos deveres que, de acôrdo com a legislação especial, têm os advogados solicitadores e provisionados.
+**Art**. 27. Os estágios estão sujeitos aos mesmos deveres que, de acôrdo com a legislação especial, têm os advogados solicitadores e provisionados.
 
-<strong>Art</strong>. 28. Incumbe ao Procurador Geral e aos Procurados Regionais, dispensar os estágios que não hajam desempenhado as funções com aproveitamento.
+**Art**. 28. Incumbe ao Procurador Geral e aos Procurados Regionais, dispensar os estágios que não hajam desempenhado as funções com aproveitamento.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Das nomeações e promoções</em>
+*Das nomeações e promoções*
 
-<strong>Art</strong>. 29. Para ser provido em cargo do Ministério Público do Trabalho é necessária a condição de bacharel em Direito com mais de 4 anos de prática forense.
+**Art**. 29. Para ser provido em cargo do Ministério Público do Trabalho é necessária a condição de bacharel em Direito com mais de 4 anos de prática forense.
 
-<strong>Art</strong>. 30. As promoções far-se-ão, alternadamente, por antiguidade de classe e merecimento. À promoção por merecimento só poderão concorrer os colocados nos dois primeiros terços da categoria, por ordem de antiguidade.
+**Art**. 30. As promoções far-se-ão, alternadamente, por antiguidade de classe e merecimento. À promoção por merecimento só poderão concorrer os colocados nos dois primeiros terços da categoria, por ordem de antiguidade.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>Da lotação e do horário</em>
+*Da lotação e do horário*
 
-<strong>Art</strong>. 31. As Secretarias da Procurador Geral e Regionais terão lotação aprovada por decreto.
+**Art**. 31. As Secretarias da Procurador Geral e Regionais terão lotação aprovada por decreto.
 
-<strong>Art</strong>. 32. O horário normal de trabalho do pessoal das Secretarias das Procuradorias Geral e Regionais, será fixado pelo Procurador Geral, respeitado o número de horas semanais ou mensais estabelecido para o serviço público civil.
+**Art**. 32. O horário normal de trabalho do pessoal das Secretarias das Procuradorias Geral e Regionais, será fixado pelo Procurador Geral, respeitado o número de horas semanais ou mensais estabelecido para o serviço público civil.
 
 Rio de Janeiro, 16 de novembro de 1956.
 
-<strong>PARSIFAL BARROSO</strong>
+**PARSIFAL BARROSO**

@@ -1,5 +1,3 @@
-###DEL-003051-0-000-13-02-1941@@@
-
 DECRETO-LEI N. 3.051 – DE 13 DE FEVEREIRO DE 1941
 
 Concede uma pensão especial à filha do Alferes do Exército Henrique José da Costa Guimarães

@@ -1,7 +1,3 @@
-1
-
-###DEL-000411-0-000-08-01-1969@@@
-
 DECRETO-LEI Nº 411, DE 8 DE JANEIRO DE 1969
 
 Dispõe sôbre a administração dos Territórios Federais, a organização dos seus Municípios e dá outras providências.

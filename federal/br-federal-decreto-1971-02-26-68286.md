@@ -1,5 +1,3 @@
-###DEC-068286-0-000-26-02-1971@@@
-
 DECRETO Nº 68.286, DE 26 DE FEVEREIRO DE 1971.
 
 Declara caduco o Decreto n  47.033, de 14 de outubro de 1959.

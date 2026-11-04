@@ -1,5 +1,3 @@
-###DEC-064081-0-000-11-02-1969@@@
-
 DECRETO Nº 64.081, DE 11 DE FEVEREIRO DE 1969.
 
 Transfere cargo da extinta Comissão do Vale do São Francisco para o Ministério da Agricultura.

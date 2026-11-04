@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53782)
-
 # LEI Nº 11.944, DE 10 DE JUNHO DE 2005
 
 ## ( PL 1213/2003 - Carlinhos Almeida)

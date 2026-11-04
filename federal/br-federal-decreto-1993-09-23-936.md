@@ -1,7 +1,3 @@
-1
-
-###DEC-000936-0-000-23-09-1993@@@
-
 DECRETO N° 936, DE 23 DE SETEMBRO DE 1993
 
 Dispõe sobre a transferência para a Secretaria de Desenvolvimento Rural do Ministério da Agricultura, do Abastecimento e da Reforma Agrária, da coordenação do Sistema Brasileiro de Assistência Técnica e Extenção Rural e dá outras providências.

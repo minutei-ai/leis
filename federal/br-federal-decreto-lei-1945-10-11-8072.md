@@ -1,5 +1,3 @@
-###DEL-008072-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.072 – DE 11 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 100.000,00, à verba que especifica.

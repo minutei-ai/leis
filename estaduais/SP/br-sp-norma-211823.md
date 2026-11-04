@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211823)<br>
-
 # DECRETO N° 70.090, DE 12 DE NOVEMBRO DE 2025
 
 ### _Altera o Decreto n° 66.470, de 1° de fevereiro de 2022, que disciplina as condições para a concessão do direito à isenção do Imposto sobre a Propriedade de Veículos Automotores - IPVA à pessoa com transtorno do espectro do autismo ou com deficiência física, sensorial, intelectual ou mental, enquanto não estiver regulamentada a avaliação biopsicossocial._

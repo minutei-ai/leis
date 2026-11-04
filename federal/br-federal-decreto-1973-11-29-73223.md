@@ -1,5 +1,3 @@
-###DEC-073223-0-000-29-11-1973@@@
-
 DECRETO Nº 73.223 - DE 29 DE NOVEMBRO DE 1973
 
 Transforma o Centro de Formação de Pilotos Militares (CFPM) em Centro de Aplicações Táticas e Recompletamento de Equipamentos (CATRE) e dá outras providências.

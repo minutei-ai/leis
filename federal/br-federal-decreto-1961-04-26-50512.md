@@ -1,5 +1,3 @@
-###DEC-050512-0-000-26-04-1961@@@
-
 DECRETO Nº 50.512, DE 26 DE ABRIL DE 1961.
 
 Concede à sociedade Comércio e Navegação Alto Paraná Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

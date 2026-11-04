@@ -1,5 +1,3 @@
-###DEL-007941-0-000-06-09-1945@@@
-
 DECRETO-LEI N. 7.941 – DE 6 DE SETEMBRO DE 1945
 
 Abre ao Conselho Federal de Comércio Exterior o crédito especial de Cr$ 18.000,00 para pagamento de gratificação de representação.

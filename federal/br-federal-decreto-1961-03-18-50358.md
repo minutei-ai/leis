@@ -1,5 +1,3 @@
-###DEC-050358-0-000-18-03-1961@@@
-
 DECRETO Nº 50.358, DE 18 DE MARÇO DE 1961.
 
 Revoga o Decreto nº 50.123, de 26 de janeiro de 1961.

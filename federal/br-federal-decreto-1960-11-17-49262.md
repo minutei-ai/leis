@@ -1,5 +1,3 @@
-###DEC-049262-0-000-17-11-1960@@@
-
 DECRETO Nº 49.262, DE 17 DE NOVEMBRO DE 1960.
 
 Concede à Minas Mica Mineração Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-004545-0-000-26-12-2002@@@
-
 DECRETO N. 4545 – DE 26 DE DEZEMBRO DE 2002
 
 Dispõe sobre a prestação de informações de que trata o Decreto nº 4.489, de 28 de novembro de 2002.

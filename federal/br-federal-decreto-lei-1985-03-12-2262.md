@@ -1,5 +1,3 @@
-###DEL-002262-0-000-12-03-1985@@@
-
 # DECRETO-LEI Nº 2.262, DE 12 DE MARÇO DE 1985
 
 Estende aos ocupantes de cargos e empregos de nível superior do Quadro e Tabela de Pessoal dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal o disposta no Decreto-lei nº 2.200, de 26 de dezembro de 1984, e dá outras providências.

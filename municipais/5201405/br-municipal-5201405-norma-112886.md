@@ -18,7 +18,8 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 5 de agosto de 2025.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
@@ -31,4 +32,14 @@ SITUAÇÃO ATUAL
 
         SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table align="center" class="MsoTableGrid" style="width:15.0cm; border-collapse:collapse; border:none" width="567"><tbody><tr><td style=" width:265px;  height:29px;   ">IMÓVEL</td><td style=" width:302px;  height:29px;   ">ÁREA (m²)</td></tr><tr><td style=" width:265px;    ">LOTE 06 A</td><td style=" width:302px;    ">181,20</td></tr><tr><td style=" width:265px;  height:8px;   ">LOTE 06 B</td><td style=" width:302px;  height:8px;   ">181,20</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 06 A
+
+181,20
+
+LOTE 06 B
+
+181,20

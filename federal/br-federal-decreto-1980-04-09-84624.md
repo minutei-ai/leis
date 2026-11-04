@@ -1,5 +1,3 @@
-###DEC-084624-0-000-09-04-1980@@@
-
 DECRETO Nº 84.624, DE 9 DE ABRIL DE 1980.
 
 Promulga a Convenção Geral de Cooperação Econômica, Comercial, Técnica, Científica e Cultural Brasil-Zaire.
@@ -66,4 +64,16 @@ Cada uma das Partes Contratantes notificará a outra sobre a conclusão das form
 
 FEITO em Kinshasa, aos 9 dias do mês de novembro de 1972, em dois exemplares, nas línguas portuguesa e francesa, fazendo ambos os textos igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PELO CONSELHO EXECUTIVO</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NACIONAL DA REPÚBLICA</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>FEDERATIVA DO BRASIL</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>DO ZAIRE</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NGUZA KARL I BOND</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>MARIO GIBSON BARBOSA</span></p></td></tr></tbody></table>
+PELO CONSELHO EXECUTIVO
+
+PELO GOVERNO DA REPÚBLICA
+
+NACIONAL DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
+DO ZAIRE
+
+NGUZA KARL I BOND
+
+MARIO GIBSON BARBOSA

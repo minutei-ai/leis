@@ -1,5 +1,3 @@
-###DEL-001163-0-000-31-03-1971@@@
-
 # decreto-lei nº 1.163, de 31 de março de 1971
 
 Revoga o Decreto-lei nº 557, de 29 de abril de 1969

@@ -1,5 +1,3 @@
-###DEC-068933-0-000-16-07-1971@@@
-
 DECRETO Nº 68.933, DE 16 DE JULHO DE 1971.
 
 Concede à Irmãos Braga Ltda. o direito de lavrar minério de ferro, no município de Itabira, Estado de Minas Gerais.

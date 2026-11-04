@@ -1,5 +1,3 @@
-###DEL-003814-0-000-10-11-1941@@@
-
 DECRETO-LEI N. 3.814 – DE 10 DE NOVEMBRO DE 1941
 
 Restabelece cargo na carreira de Escrivão do Quadro Suplementar do Ministério da Fazenda e dá outras providências

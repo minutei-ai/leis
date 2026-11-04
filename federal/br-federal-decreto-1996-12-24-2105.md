@@ -1,7 +1,3 @@
-1
-
-###DEC-002105-0-000-24-12-1996@@@
-
 DECRETO Nº 2.105, DE 24 DE DEZEMBRO DE 1996.
 
 Prorroga o prazo estabelecido do Decreto nº 1.998, de 3 de setembro de 1996.

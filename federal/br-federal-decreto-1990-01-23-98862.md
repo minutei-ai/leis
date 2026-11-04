@@ -1,7 +1,3 @@
-1
-
-###DEC-098862-0-000-23-01-1990@@@
-
 DECRETO Nº 98.862, DE 23 DE JANEIRO DE 1990
 
 Outorga concessão à RÁDIO JAGUARIBANA DE ARACATI LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Aracati, Estado do Ceará.

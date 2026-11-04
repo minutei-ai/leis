@@ -1,5 +1,3 @@
-###DEL-005679-0-000-19-07-1943@@@
-
 DECRETO‑LEI N. 5.679 – DE 19 DE JULHO DE 1943
 
 Modifica o art. 5º do decreto‑lei n. 2.557, de 4 de setembro de 1940

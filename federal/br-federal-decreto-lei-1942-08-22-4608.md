@@ -1,5 +1,3 @@
-###DEL-004608-0-000-22-08-1942@@@
-
 DECRETO-LEI N. 4.608 – DE 22 DE AGOSTO DE 1942
 
 Dispõe sobre as sociedades mútuas de seguros

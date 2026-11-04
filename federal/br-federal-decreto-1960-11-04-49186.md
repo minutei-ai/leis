@@ -1,5 +1,3 @@
-###DEC-049186-0-000-04-11-1960@@@
-
 (\*) DECRETO Nº 49.186, DE 4 DE NOVEMBRO DE 1960.
 
 Dispõe sôbre regras especiais a serem consideradas na primeira composição de alguns dos novos órgãos colegiados da Previdência Social e dá outras providências.

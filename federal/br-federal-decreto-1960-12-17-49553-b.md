@@ -1,5 +1,3 @@
-###DEC-049553-B-000-17-12-1960@@@
-
 DECRETO Nº 49.553-B, DE 17 DE dezembro DE 1960.
 
 Retifica e altera o Decreto número 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

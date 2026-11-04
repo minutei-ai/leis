@@ -1,5 +1,3 @@
-###DEC-065016-0-000-18-08-1969@@@
-
 DECRETO Nº 65.016 - DE 18 DE AGôSTO DE 1969.
 
 Estabelece diretrizes básicas para o desenvolvimento industrial, cria o Conselho de Desenvolvimento Industrial e dá outras providências.

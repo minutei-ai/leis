@@ -1,5 +1,3 @@
-###DEC-082460-0-000-18-10-1978@@@
-
 Decreto nº 82.460, de 18 de outubro de 1978.
 
 Concede à Industrias Brasileiras de Artigos Refratários S.A. - IBAR o direito de lavrar argila refratária no Município de Poços de Caldas, Estado de Minas Gerais.

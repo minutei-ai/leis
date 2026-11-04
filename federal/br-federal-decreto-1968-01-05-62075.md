@@ -1,5 +1,3 @@
-###DEC-062075-0-000-05-01-1968@@@
-
 decrEto nº 62.075, de 5 de janeiro de 1968.
 
 Outorga à Prefeitura Munucipal de São Francisco, concessão para distribuir energia elétrica no distrito sede do Município de São Francisco, Estado de Minas Gerais.

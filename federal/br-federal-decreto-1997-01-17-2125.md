@@ -1,5 +1,3 @@
-###DEC-002125-0-000-17-01-1997@@@
-
 DECRETO Nº 2.125, DE 17 DE JANEIRO DE 1997
 
 Dispõe sobre a exclusão, do Programa Nacional de Desestatização, da participação acionária da Petrobrás Química S.A. - PETROQUISA na NITROCLOR Produtos Químicos S.A.

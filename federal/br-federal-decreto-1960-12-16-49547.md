@@ -1,5 +1,3 @@
-###DEC-049547-0-000-16-12-1960@@@
-
 DECRETO Nº 49.547, DE 16 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$290.372.160,00 destinado a atender as despesas do disposto no parágrafo 1º do artigo 12 da Lei nº 3.750, de 11 de abril dêste ano.

@@ -1,5 +1,3 @@
-###DEC-064177-0-000-07-03-1969@@@
-
 DECRETO Nº 64.177, DE 7 DE MARÇO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro Único de Pessoal - Parte Especial - da Universidade Federal Fluminense, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

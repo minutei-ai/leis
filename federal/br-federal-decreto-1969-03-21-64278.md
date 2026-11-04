@@ -1,5 +1,3 @@
-###DEC-064278-0-000-21-03-1969@@@
-
 Decreto nº 64.278, de 21 de março de 1969.
 
 Dispõe sôbre a Consolidação e a Liquidação de débitos para com a Previdência Social.

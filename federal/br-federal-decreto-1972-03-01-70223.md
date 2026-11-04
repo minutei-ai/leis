@@ -1,5 +1,3 @@
-###DEC-070223-0-000-01-03-1972@@@
-
 DECRETO Nº 70.223, DE 1º DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação pela Companhia Siderúrgica Nacional, áreas de terrenos situadas no Município de Volta Redonda, Estado do Rio de Janeiro.

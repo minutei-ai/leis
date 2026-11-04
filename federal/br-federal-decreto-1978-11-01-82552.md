@@ -1,5 +1,3 @@
-###DEC-082552-0-000-01-11-1978@@@
-
 Decreto N.º 82.552, de 01 de novembro de 1978
 
 Concede à Antônio Pacífico Homem Júnior - Firma Individual, o direito de lavrar dolomito e minério de ferro no Município de Itabirito, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-073916-0-000-05-04-1974@@@
-
 DECRETO Nº 73.916, DE 5 DE ABRIL DE 1974.
 
 Altera o Regulamento para o Estado-Maior da Armada, aprovado pelo Decrto nº 66.052, de 12 de janeiro de 1970.

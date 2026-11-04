@@ -1,5 +1,3 @@
-###DEC-096492-0-000-10-08-1988@@@
-
 DECRETO N° 96.492, DE 10 DE AGOSTO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terras que descreve, situada no Estado do Espírito Santo e necessária ao Ministério da Marinha.

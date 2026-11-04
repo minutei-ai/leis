@@ -1,5 +1,3 @@
-###DEC-059658-0-000-05-12-1966@@@
-
 decreto nº 59.658, de 5 de dezembro de 1966.
 
 Autoriza a firma Heck, Pôrto e Grehs Ltda., a comprar pedras preciosas.

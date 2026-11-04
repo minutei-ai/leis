@@ -1,5 +1,3 @@
-###DEC-082281-0-000-19-09-1978@@@
-
 Decreto nº 82.281 de 19 de setembro de 1978
 
 Concede à ESAM-Empresa Santo Antônio de Mineração Ltda. o direito de lavrar granito no Município de Nova Iguaçu, Estado do Rio de Janeiro.

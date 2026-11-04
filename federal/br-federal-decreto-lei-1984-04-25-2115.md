@@ -1,5 +1,3 @@
-###DEL-002115-0-000-25-04-1984@@@
-
 # Decreto-lei nº 2.115, de 25 de abril de 1984.
 
 Autoriza o Ministro da Fazenda a designar a empresa pública Financiadora de Estudos e Projetos - FINEP como o agente financeiro nos casos que menciona.

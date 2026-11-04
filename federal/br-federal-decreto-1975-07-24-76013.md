@@ -1,5 +1,3 @@
-###DEC-076013-0-000-24-07-1975@@@
-
 DECRETO nº 76.013 - de 24 de julho de 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, sitiado no Estado do Rio Grande do Sul.

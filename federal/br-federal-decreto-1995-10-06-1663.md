@@ -1,7 +1,3 @@
-1
-
-###DEC-001663-0-000-06-10-1995@@@
-
 DECRETO N° 1.663, DE 6 DE OUTUBRO DE 1995.
 
 Promulga o Acordo sobre cooperação no Domínio do Turismo, entre o Governo da República Federativa do Brasil e o Governo da República Italiana, de 11 de dezembro de 1991.
@@ -115,8 +111,6 @@ O presente Acordo terá vigência por tempo indeterminado. Poderá ser denunciad
 
 Feito em Roma, aos 11 dias do mês de dezembro de 1991, em exemplares, nos idiomas português e italiano, sendo ambos os textos igualmente idênticos.
 
-<br>
-
 1
 
 PELO GOVERNO DA REPÚBLICA
@@ -132,5 +126,3 @@ Relações Exteriores
 PELO GOVERNO DA REPÚBLICA ITALIANA
 
 Gianni de Michelis
-
-<br>

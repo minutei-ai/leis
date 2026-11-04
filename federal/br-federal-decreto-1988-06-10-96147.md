@@ -1,5 +1,3 @@
-###DEC-096147-0-000-10-06-1988@@@
-
 DECRETO N° 96.147, DE 10 DE JUNHO DE 1988
 
 Outorga concessão a RÁDIO NOVAS DE PAZ LTDA., para explorar serviço de radiodifusão sonora em onda curta, na cidade de Curitiba, Estado do Paraná.

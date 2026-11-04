@@ -1,5 +1,3 @@
-###DEC-072651-0-000-17-08-1973@@@
-
 Decreto nº 72.651, de 17 de agosto de 1973.
 
 Concede a Mineração Brasileiras Reunidas S.A. o direito de lavrar minério de ferro no Município de Nova Lima, Estado de Minas Gerais.

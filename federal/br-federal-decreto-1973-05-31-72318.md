@@ -1,5 +1,3 @@
-###DEC-072318-0-000-31-05-1973@@@
-
 DECRETO Nº 72.318, DE 31 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão no Estado de São Paulo.

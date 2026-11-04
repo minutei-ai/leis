@@ -1,5 +1,3 @@
-###DEC-054138-0-000-17-08-1964@@@
-
 DECRETO Nº 54.138, DE 17 DE AGôSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas e Rodagens, área de terreno situada na cidade de Pelotas, Estado do Rio grande do Sul.

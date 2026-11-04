@@ -1,5 +1,3 @@
-###DEC-007728-0-000-24-05-2012-PUB-01@@@
-
 DECRETO Nº  7.728, DE 24 DE MAIO DE 2012
 
 Autoriza a criação de linhas de crédito de custeio no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, com recursos dos Fundos Constitucionais de Financiamento do Nordeste, do Norte e do Centro-Oeste, com bônus de adimplência.

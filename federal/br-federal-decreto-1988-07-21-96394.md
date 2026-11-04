@@ -1,5 +1,3 @@
-###DEC-096394-0-000-21-07-1988@@@
-
 DECRETO N° 98.394, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados do Centro de Ensino Superior de Informática.

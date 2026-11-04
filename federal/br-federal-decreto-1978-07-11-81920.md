@@ -1,5 +1,3 @@
-###DEC-081920-0-000-11-07-1978@@@
-
 Decreto nº 81.920, de 11 de julho de 1978.
 
 Concede à Laterizi S.A. - Indústrias Cerâmicas, o direito de lavrar argila no Município de Nova Iguaçu, Estado do Rio de Janeiro.

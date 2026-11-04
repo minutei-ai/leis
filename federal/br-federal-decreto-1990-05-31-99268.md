@@ -1,7 +1,3 @@
-1
-
-###DEC-099268-0-000-31-05-1990@@@
-
 DECRETO N° 99.268, DE 31 DE MAIO DE 1990
 
 Cria a Loteria Federal sob a modalidade instantânea e dá outras providências.

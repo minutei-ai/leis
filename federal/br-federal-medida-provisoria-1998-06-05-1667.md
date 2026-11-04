@@ -1,5 +1,3 @@
-###MPV-001667-0-000-05-06-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.667, DE 5 DE JUNHO DE 1998
 
 Institui o Programa Emergencial de Frentes Produtivas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066959-0-000-27-07-1970@@@
-
 DECRETO Nº 66.959, DE 27 DE JULHO DE 1970.
 
 Declara de Utilidade Pública o Educandário Dom Alexandre, com sede em Campos Altos, Estado de Minas Gerais.

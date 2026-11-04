@@ -1,5 +1,3 @@
-###DEC-056741-0-000-17-08-1965@@@
-
 DECRETO Nº 56.741, DE 17 DE AGôSTO DE 1965.
 
 Anula o decreto nº 49.955, de 17 de janeiro de 1961.

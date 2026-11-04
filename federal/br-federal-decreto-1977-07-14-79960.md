@@ -1,5 +1,3 @@
-###DEC-079960-0-000-14-07-1977@@@
-
 DECRETO Nº 79.960, DE 14 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da companhia de Eletricidade de Pernambuco - CELPE, no Estado de Pernambuco.

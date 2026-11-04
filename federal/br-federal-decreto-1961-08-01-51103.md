@@ -1,5 +1,3 @@
-###DEC-051103-0-000-01-08-1961@@@
-
 decreto nº 51.103, de 1º de agôsto de 1961.
 
 Dá nova redação ao artigo 36 do Decreto nº 45.422, de 12 de fevereiro de 1959.

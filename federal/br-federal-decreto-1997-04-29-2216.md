@@ -1,5 +1,3 @@
-###DEC-002216-0-000-29-04-1997@@@
-
 DECRETO Nº 2 216, DE 29 DE ABRIL DE 1997
 
 Prorroga o prazo estabelecido no §.2º do art. 1º do Decreto nº 1.778, de 9 de janeiro de 1996.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208931)<br>
-
 # DECRETO N° 68.168, DE 09 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, a área necessária à implantação de acostamento entre os km 494+110m e 509+030m da Rodovia Engenheiro Helder de Sá, SP-266, no Município de Pedrinhas Paulista, e dá providências correlatas._

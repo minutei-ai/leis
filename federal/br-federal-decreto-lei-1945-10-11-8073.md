@@ -1,5 +1,3 @@
-###DEL-008073-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.073 – DE 11 DE OUTUBRO DE 1945
 
 Prorroga o prazo de entrada em vigor do Decreto-lei nº 7.669, da 22 de junho de 1945.

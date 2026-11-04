@@ -1,5 +1,3 @@
-###DEC-070638-0-000-29-05-1972@@@
-
 DECRETO Nº 70.638, DE 29 DE MAIO DE 1972.
 
 Torna sem efeito aproveitamento e cassa a disponibilidade de servidor do Instituto de Previdência e Assistência dos Servidores do Estado.

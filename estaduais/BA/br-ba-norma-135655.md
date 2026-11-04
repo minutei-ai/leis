@@ -2,14 +2,16 @@ LEI Nº 14.017 DE 24 DE OUTUBRO DE 2018
 
 Regulamenta a compensação com créditos de precatórios, próprios ou de terceiros, de débitos de natureza tributária ou de outra natureza, em conformidade com o art. 105 do Ato das Disposições Constitucionais Transitórias, e com o inciso I do § 11 do art. 100, todos da Constituição Federal, na forma que indica.
 
-Redação da Ementa de acordo com a Lei nº [14.487](https://www.legislabahia.ba.gov.br/documentos/lei-no-14487-de-16-de-novembro-de-2022) de 16 de novembro de 2022.<br>
+Redação da Ementa de acordo com a Lei nº [14.487](https://www.legislabahia.ba.gov.br/documentos/lei-no-14487-de-16-de-novembro-de-2022) de 16 de novembro de 2022.
+
 Redação original: "Regulamenta a compensação com créditos de precatórios, próprios ou de terceiros, de débitos de natureza tributária ou de outra natureza, inscritos na dívida ativa até 25 de março de 2015, nos termos do art. 105 do Ato das Disposições Constitucionais Transitórias da Constituição Federal."
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte lei:
 
 **Art. 1º** - A compensação com créditos de precatórios, próprios ou de terceiros, de débitos tributários ou de outra natureza, inscritos na dívida ativa do Estado até 25 de dezembro de 2017, facultada pelo art. 105 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, deverá observar os termos e procedimentos previstos nesta Lei.
 
-Redação de acordo com a Lei nº [14.487](https://www.legislabahia.ba.gov.br/documentos/lei-no-14487-de-16-de-novembro-de-2022) de 16 de novembro de 2022.<br>
+Redação de acordo com a Lei nº [14.487](https://www.legislabahia.ba.gov.br/documentos/lei-no-14487-de-16-de-novembro-de-2022) de 16 de novembro de 2022.
+
 Redação original: "Art. 1º - A compensação com créditos de precatórios, próprios ou de terceiros, de débitos tributários ou de outra natureza, inscritos na dívida ativa do Estado até 25 de março de 2015, facultada pelo art. 105 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, deverá observar os termos e procedimentos previstos nesta Lei."
 
 **Art. 1º-A** - É facultada ao credor de precatórios, nos termos do inciso I do § 11 do art. 100 da Constituição Federal, a oferta de créditos líquidos e certos que originalmente são próprios ou adquiridos de terceiros, reconhecidos pelo Estado ou por decisão judicial transitada em julgado, para quitação de débitos parcelados ou débitos inscritos em dívida ativa estadual até 25 de dezembro de 2017, inclusive em transação resolutiva de litígio, e, subsidiariamente, débitos com a administração autárquica e fundacional.

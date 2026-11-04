@@ -1,7 +1,3 @@
-1
-
-###DEC-098809-0-000-09-01-1990@@@
-
 DECRETO Nº 98.809, DE 9 DE JANEIRO DE 1990
 
 Dispõe sobre a concessão da gratificação de estímulo à fiscalização e arrecadação aos servidores a que se refere o art. 12 da Lei nº 7.923, de 12 de dezembro de 1989.

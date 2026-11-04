@@ -50,8 +50,6 @@ Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 12 de julho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

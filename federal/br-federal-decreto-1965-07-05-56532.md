@@ -1,5 +1,3 @@
-###DEC-056532-0-000-05-07-1965@@@
-
 decreto nº 56.532, de 5 de julho de 1965.
 
 Suprime cargos vagos e extingue série de classes no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

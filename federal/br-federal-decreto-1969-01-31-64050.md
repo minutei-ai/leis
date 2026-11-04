@@ -1,5 +1,3 @@
-###DEC-064050-0-000-31-01-1969@@@
-
 Decreto nº 64.050, de 31 de janeiro de 1969.
 
 Acrescenta parágrafos ao art. 1º do Decreto nº 56.886, de 20 de setembro de 1965.

@@ -1,5 +1,3 @@
-###DEC-047094-0-000-26-10-1959@@@
-
 Decreto nº 47.094, de 26 de outubro de 1959.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção de um Pôsto de Piscicultura, a jusante da barragem do açude público “Itans”, no Município de Caicó, Estado do Rio Grande do Norte.

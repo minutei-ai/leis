@@ -1,5 +1,3 @@
-###DEC-077295-0-000-15-03-1976@@@
-
 DECRETO Nº 77.295, DE 15 DE MARÇO DE 1976.
 
 Outorga concessão à Empresa Paulista de Televisão Ltda. para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Ribeirão Preto, Estado de São Paulo.

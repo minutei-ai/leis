@@ -1,5 +1,3 @@
-###DEC-058095-0-000-28-03-1966@@@
-
 DECRETO Nº 58.095, DE 28 DE MARÇO DE 1966.
 
 Aprova o Regimento da Comissão do Tempo Integral e Dedicação Exclusiva (COTIDE).

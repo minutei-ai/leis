@@ -1,5 +1,3 @@
-###DEC-049515-0-000-12-12-1960@@@
-
 DECRETO Nº 49.515, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco Duarte a pesquisar minérios de ferro e manganês, no município de Itabirito, Estado de Minas Gerais.

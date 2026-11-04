@@ -1,5 +1,3 @@
-###DEC-080810-0-000-23-11-1977@@@
-
 Decreto nº 80.810, de 23 de novembro de 1977.
 
 Concede à Cimento Itaú do Paraná S/A o direito de lavrar calcário no Município de Rio Branco do Sul, Estado do Paraná.

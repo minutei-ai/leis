@@ -1,5 +1,3 @@
-###DEC-055486-0-000-08-01-1965@@@
-
 DECRETO Nº 55.486, DE 8 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio Ferreira de Andrade a pesquisar feldspato, no município de São Sebastião da Gama, Estado de São Paulo.

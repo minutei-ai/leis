@@ -1,5 +1,3 @@
-###DEC-067261-0-000-24-09-1970@@@
-
 DECRETO Nº 67.261, DE 24 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto nº 47.360 de 4 de dezembro de 1959.

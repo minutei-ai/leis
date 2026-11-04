@@ -1,5 +1,3 @@
-###DEL-001766-0-000-10-11-1939@@@
-
 DECRETO-LEI N. 1.766 – DE 10 DE NOVEMBRO DE 1939
 
 Cria a Escola de Marinha Mercante do Rio de Janeiro

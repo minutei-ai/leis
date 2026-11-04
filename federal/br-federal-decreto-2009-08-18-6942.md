@@ -1,5 +1,3 @@
-###DEC-006942-0-000-18-08-2009@@@
-
 DECRETO Nº 6.942, DE 18 DE AGOSTO DE 2009.
 
 Institui o Biênio Brasileiro do Saneamento - 2009-2010 e institui o Grupo de Trabalho Interinstitucional para coordenar a elaboração do Plano Nacional de Saneamento Básico, e dá outras providências.

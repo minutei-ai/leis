@@ -1,5 +1,3 @@
-###DEC-056528-0-000-02-07-1965@@@
-
 decreto nº 56.528, de 2 de julho 1965.
 
 Cria um Grupo de Trabalho para o fim que especifica.

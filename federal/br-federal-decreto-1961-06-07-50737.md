@@ -1,5 +1,3 @@
-###DEC-050737-0-000-07-06-1961@@@
-
 DECRETO Nº 50.737, DE 7 DE JUNHO DE 1961.
 
 Organiza a Companhia Nacional de Aperfeiçoamento do Pessoal de Nível Superior, prevista pelo Decreto nº 29.741, de 11 de julho de 1951.

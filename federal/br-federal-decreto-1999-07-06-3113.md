@@ -1,5 +1,3 @@
-###DEC-003113-0-000-06-07-1999@@@
-
 DECRETO Nº 3.113, DE 6 DE JULHO DE 1999.
 
 Regulamenta a Lei nº 9.531, de 10 de dezembro de 1997, que dispõe sobre o Fundo de Garantia para a Promoção da Competitividade - FGPC, e dá outras providências.

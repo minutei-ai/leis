@@ -1,5 +1,3 @@
-###DEC-050036-0-000-24-01-1961@@@
-
 DECRETO Nº 50.036, DE 24 DE JANEIRO DE 1961.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Portos, Rios e Canais, áreas de terreno necessárias ao prosseguimento da construção do Pôrto de Mucuripe, no Estado do Ceará.

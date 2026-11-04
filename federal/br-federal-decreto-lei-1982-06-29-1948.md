@@ -1,5 +1,3 @@
-###DEL-001948-0-000-29-06-1982@@@
-
 # Decreto-LEI nº 1.948, de 29 de junho de 1982
 
 Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional para cobertura de débito do Tesouro Nacional junto ao Banco Nacional do Desenvolvimento Econômico e Social (BNDES).

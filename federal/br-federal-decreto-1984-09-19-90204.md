@@ -1,5 +1,3 @@
-###DEC-090204-0-000-19-09-1984@@@
-
 Decreto nº 90.204, de 19 de setembro de 1984.
 
 Inclui o Aeroporto Internacional de São Paulo (Guarulhos) entre os aeroportos internacionais do Brasil estabelecidos pelo Decreto nº 74.924, de 21 de novembro de 1974.

@@ -1,5 +1,3 @@
-###DEC-057292-0-000-19-11-1965@@@
-
 DECRETO Nº 57.292, DE 19 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

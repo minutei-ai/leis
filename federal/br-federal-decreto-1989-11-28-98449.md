@@ -1,7 +1,3 @@
-1
-
-###DEC-098449-0-000-28-11-1989@@@
-
 DECRETO Nº 98.449, DE 28 DE NOVEMBRO DE 1989
 
 Revoga o inciso VI do art. 2º do Decreto nº 97.455, de 15 de janeiro de 1989.

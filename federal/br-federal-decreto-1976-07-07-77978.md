@@ -1,5 +1,3 @@
-###DEC-077978-0-000-07-07-1976@@@
-
 DECRETO Nº 77.978, DE 7 DE JULHO DE 1976.
 
 Dá nova redação a dispositivos do Decreto nº 77.318, de 22 de março de 1976, que autoriza o Ministro da Fazenda a conceder a garantia da União a operações de crédito externo a serem contratadas pela Mineração do Vale do Paranaíba S.A. - VALEP.

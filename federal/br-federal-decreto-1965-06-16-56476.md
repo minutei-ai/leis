@@ -1,5 +1,3 @@
-###DEC-056476-0-000-16-06-1965@@@
-
 DECRETO Nº 56.476, DE 16 DE JUNHO DE 1965.
 
 Revoga o Decreto nº 55.868, de 25 de março de 1965 e regula o art. 10 da Lei nº 4.452, de 5 de novembro de 1964.

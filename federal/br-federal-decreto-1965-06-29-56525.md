@@ -1,5 +1,3 @@
-###DEC-056525-0-000-29-06-1965@@@
-
 DECRETO Nº 56.525, DE 29 DE JUNHO DE 1965.
 
 Concede à sociedade anônima “Pan American World Airways Inc.” autorização para continuar a funcionar no Brasil.

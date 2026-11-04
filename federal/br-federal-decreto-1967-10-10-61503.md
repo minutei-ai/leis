@@ -1,5 +1,3 @@
-###DEC-061503-0-000-10-10-1967@@@
-
 DECRETO Nº 61.503, DE 10 DE OUTUBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica por Arlindo Pereira da Costa no município de Cipotânea, Estado de Minas Gerais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081758-0-000-06-06-1978@@@
-
 Decreto nº 81.758, de 06 de junho de 1978.
 
 Autoriza a conversão dos cursos de Matemática, Química e de Física, em curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras Oswaldo Cruz, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-079155-0-000-24-01-1977@@@
-
 DECRETO Nº 79.155, DE 24 DE JANEIRO DE 1977.
 
 Autoriza o Ministério da Fazenda a alienar bens e acervos confiscados e dá outras providências.

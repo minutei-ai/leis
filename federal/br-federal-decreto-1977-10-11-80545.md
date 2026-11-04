@@ -1,5 +1,3 @@
-###DEC-080545-0-000-11-10-1977@@@
-
 DECRETO Nº 80.545, DE 11 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais da Universidade de Taubaté, com sede na cidade de Taubaté, Estado de São Paulo.

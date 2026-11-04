@@ -1,5 +1,3 @@
-###DEC-071735-0-000-19-01-1973@@@
-
 DECRETO Nº 71.735, DE 19 DE JANEIRO DE 1973.
 
 Cancela autorização para funcionamento no Brasil da The Tokio Marine and Fire Insurance Company Limited.

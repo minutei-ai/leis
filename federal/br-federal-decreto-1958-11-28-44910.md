@@ -1,5 +1,3 @@
-###DEC-044910-0-000-28-11-1958@@@
-
 decreto nº 44.910, de 28 de novembro de 1958.
 
 Autoriza Mineração Hanna do Brasil Ltda, a pesquisar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

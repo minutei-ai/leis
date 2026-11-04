@@ -1,5 +1,3 @@
-###DEC-006971-0-000-29-09-2009@@@
-
 DECRETO Nº 6.971, DE 29 DE SETEMBRO DE 2009.
 
 Dá nova redação ao art. 2º do Decreto nº 6.065, de 21 de março de 2007, que dispõe sobre a Comissão de Coordenação das Atividades de Meteorologia, Climatologia e Hidrologia (CMCH).

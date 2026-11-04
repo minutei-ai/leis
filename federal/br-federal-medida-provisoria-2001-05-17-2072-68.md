@@ -1,5 +1,3 @@
-###MPV-002072-0-068-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.072‑ 68, DE 17 DE MAIO DE 2001.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional ‑ NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

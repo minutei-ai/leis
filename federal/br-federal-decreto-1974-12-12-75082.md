@@ -1,5 +1,3 @@
-###DEC-075082-0-000-12-12-1974@@@
-
 Decreto nº 75.082, de 12 de dezembro de 1974.
 
 Designa os cargos privativos de Oficial-General em tempo de paz.

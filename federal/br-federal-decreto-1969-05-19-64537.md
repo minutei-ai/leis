@@ -1,5 +1,3 @@
-###DEC-064537-0-000-19-05-1969@@@
-
 DECRETO Nº 64.537, DE 19 DE MAIO DE 1969.
 
 Retifica o Decreto nº 54.949, de 6 de novembro de 1964, que autorizou aceitação de doação de imóvel à União.

@@ -1,5 +1,3 @@
-###DEL-007962-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.962 – DE 18 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 30.000,00 à dotação que especifica

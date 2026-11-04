@@ -1,5 +1,3 @@
-###DEC-047758-0-000-04-02-1960@@@
-
 DECRETO Nº 47.758, DE 4 DE FEVEREIRO DE 1960.
 
 Altera o parágrafo único do art. 87 do Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R-126).

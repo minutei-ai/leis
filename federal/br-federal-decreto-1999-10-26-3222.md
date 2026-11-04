@@ -1,5 +1,3 @@
-###DEC-003222-0-000-26-10-1999@@@
-
 DECRETO Nº 3.222, DE 26 DE OUTUBRO DE 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

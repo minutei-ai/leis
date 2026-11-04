@@ -1,5 +1,3 @@
-###DEC-066284-0-000-02-03-1970@@@
-
 DECRETO Nº 66.284 - DE 2 DE MARÇO DE 1970
 
 Retifica o Decreto nº 65.600, de 22 de outubro de 1969, e dá outras providências.

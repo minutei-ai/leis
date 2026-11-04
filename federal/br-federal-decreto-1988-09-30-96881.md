@@ -1,5 +1,3 @@
-###DEC-096881-0-000-30-09-1988@@@
-
 DECRETO N° 96.881, DE 30 DE SETEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na Cidade de Umuarama, Estado do Paraná, destinado ao Tribunal Regional do Trabalho da 9ª Região.

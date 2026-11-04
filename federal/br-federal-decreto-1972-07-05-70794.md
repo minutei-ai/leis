@@ -1,5 +1,3 @@
-###DEC-070794-0-000-05-07-1972@@@
-
 DECRETO Nº 70.794, DE 5 DE JULHO DE 1972.
 
 Aprova o Regulamento do Departamento Geral do Pessoal, do Ministério do Exército, e dá outras providências.

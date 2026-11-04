@@ -1,5 +1,3 @@
-###DEC-061042-0-000-21-07-1967@@@
-
 decreto nº 61.042, de 21 de julho de 1967.
 
 Autoriza a “Federação Nacional das Emprêsas de Seguros Privados e Capitalização” a filiar-se à “Conferência Hemisférica de Seguros”.

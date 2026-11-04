@@ -1,5 +1,3 @@
-###DEC-088099-0-000-10-02-1983@@@
-
 Decreto nº 88.099, de 10 de fevereiro de 1983.
 
 Concede autorização ao navio "CALYPSO" para realizar, na bacia amazônica do Brasil, os serviços que especifica.

@@ -1,14 +1,12 @@
-###DEC-040024-0-000-25-09-1956@@@
+**DECRETO Nº 40.024, DE 25 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.024, DE 25 DE SETEMBRO DE 1956.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
 
 I - uma função de Auxiliar de Aeródromo, referência 21, ocupada por Lygia Maria Ventura Bezerril, da Tabela do Parque de Aeronáutica aos Afonsos para a da Diretoria de Rotas Aéreas;
 
@@ -22,10 +20,10 @@ V - uma função de Encarregado de Rouparia, referência 19, ocupada por Pedro A
 
 VI - uma função de Mecânico, referência 22, ocupada por Oswaldo de Souza Ribeiro, da Tabela da Diretoria do Material para a do Centro Técnico de Aeronáutica.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 25 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleiuss

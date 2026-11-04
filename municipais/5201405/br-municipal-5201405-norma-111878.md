@@ -4,12 +4,14 @@ Dispõe sobre o Estatuto dos Servidores do Magistério Público do Município de
 
 FAÇO SABER QUE A CAMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-TÍTULO I<br>
+TÍTULO I
+
 DO OBJETIVO
 
 Art. 1º - Esta Lei dispõe sobre o Estatuto dos Servidores do Magistério Público do Município de Aparecida de Goiânia e regulamenta suas atividades específicas, estabelecendo normas sobre seus direitos, vantagens e deveres.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 2º - O regime jurídico dos servidores do Magistério é o estabelecido neste Estatuto e, subsidiariamente, no Estatuto dos Servidores Públicos, da Prefeitura Municipal de Aparecida de Goiânia.
@@ -40,15 +42,18 @@ Art. 5º - As funções de Magistério são de lotação privativa da Secretaria
 
 § 4º- Em se tratando de cargo em comissão, o servidor a que se refere o parágrafo anterior poderá optar pelo vencimento do respectivo cargo em comissão.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO REGIME FUNCIONAL
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROVIMENTO
 
 Art. 6º - O cargo na Carreira do Magistério será provido mediante concurso público de provas ou provas e títulos, de natureza competitiva, eliminatória e classificatória, obedecidos os pré-requisitos constantes do Plano de Carreira e Vencimentos do Magistério Público, da Prefeitura Municipal de Aparecida de Goiânia.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ADMINISTRAÇÃO ESCOLAR
 
 Art. 7º - Compreendem-se como atividades da Administração Escolar os atos inerentes à direção, assessoramento e assistência em unidades escolares com atribuições básicas pertinentes ao ensino, bem como nas unidades regionais e em unidade da Secretaria Municipal de Educação, com atribuições educacionais específicas.
@@ -61,7 +66,8 @@ Art. 9º - Será constituído, em cada estabelecimento de ensino municipal, o Co
 
 Parágrafo Único - O Conselho Escolar tem por objetivo promover o desenvolvimento das atividades educacionais, dentro do espírito democrático, assegurada a participação da comunidade escolar na discussão das questões pedagógico-administrativas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA JORNADA DE TRABALHO
 
 Art. 10 - A jornada semanal de trabalho do servidor do Magistério será estabelecida de acordo com a necessidade da administração e a disponibilidade do servidor, observada a compatibilidade de horário.
@@ -88,34 +94,40 @@ II. em regime especial de trabalho, nos termos da legislação específica.
 
 § 2º - O substituto perceberá de acordo com o vencimento básico do cargo e a correspondente carga horária do substituído, devendo possuir habilitação, no mínimo, equivalente a do substituído.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 V DA PROMOÇÃO FUNCIONAL
 
 Art. 13 - A promoção funcional do servidor do Magistério ocorrerá mediante o estabelecido no Plano de Carreira e Vencimentos dos servidores integrantes do Grupo Ocupacional Magistério, da Prefeitura Municipal de Aparecida de Goiânia.
 
-TÍTULO III<br>
+TÍTULO III
+
 DOS DIREITOS E VANTAGENS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO VENCIMENTO E DA REMUNERAÇÃO
 
 Art. 14 - Vencimento é a retribuição pecuniária devida ao servidor do Magistério pelo efetivo exercício do cargo, correspondente ao grau e padrão da respectiva classe.
 
 Art. 15 - Remuneração é o vencimento acrescido das vantagens pecuniárias, atribuídas em lei, ao servidor do Magistério pelo efetivo exercício do cargo.
 
-Seção Única<br>
+Seção Única
+
 Da Remuneração de Diretor de Escola
 
 Art. 16. - O Diretor de unidade escolar pública do Município de Aparecida de Goiânia perceberá vencimento correspondente à carga horária máxima prevista para o seu cargo efetivo, acrescido da gratificação de Diretor, nos termos do Plano de Carreira e Vencimentos do Magistério.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS VANTAGENS PECUNIÁRIAS
 
 Art. 17 – As vantagens pecuniárias devidas ao ocupante do cargo de Profissional de Educação são as estabelecidas no Plano de Carreira e Vencimentos do Grupo Ocupacional Magistério.
 
 Art. 18 - Ao servidor investido em cargo de provimento em comissão, é dado optar pelo vencimento ou remuneração de seu cargo efetivo, sem prejuízo da gratificação de representação respectiva.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS FÉRIAS E DO RECESSO
 
 Art. 19 - Observado o disposto no Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia, o Profissional de Educação gozará anualmente:
@@ -138,12 +150,14 @@ Art. 22 - O servidor do Magistério não é obrigado a interromper suas férias,
 
 Art. 23 - É vedado levar à conta de férias qualquer falta ao serviço.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS LICENÇAS
 
 Art. 24 – Além das licenças previstas no Estatuto dos Servidores da Prefeitura Municipal de Aparecida de Goiânia, poderá ser concedida ao servidor do Magistério a Licença para Aprimoramento Profissional.
 
-Seção Única<br>
+Seção Única
+
 Da Licença para Aprimoramento Profissional
 
 Art. 25 - Poderá ser concedida licença ao servidor do Magistério, por ato do Chefe do Executivo, ouvido o titular da Secretaria Municipal de Educação, para freqüentar, com afastamento de suas funções, cursos de formação e aperfeiçoamento, conforme regulamento.
@@ -158,10 +172,12 @@ Parágrafo Único - Não cumprindo o compromisso, o servidor ficará obrigado a 
 
 Art. 27 – O servidor do Magistério, poderá ainda, a critério do titular da Pasta, ser liberado para participação em congressos, seminários e simpósios.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DOS DEVERES E PROIBIÇÕES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS DEVERES
 
 Art. 28 - Em razão do excepcional relevo de suas atribuições, ao servidor do Magistério impõe-se conduta ilibada.
@@ -204,7 +220,8 @@ XVII.    atender   prontamente  às  requisições  de documentos,  info
 
 XVIII.    colaborar  com  as  atividades de articulação da escola com a comunidade escolar.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PROIBIÇÕES
 
 Art. 30 - Ao servidor do Magistério, além do disposto no Estatuto do Servidor Público do Município de Aparecida de Goiânia, é proibido:
@@ -247,15 +264,18 @@ XVIII.    assediar sexualmente;
 
 XIX.    praticar qualquer ato que configure discriminação racial.
 
-TÍTULO V<br>
+TÍTULO V
+
 DA APURAÇÃO DE IRREGULARIDADES
 
 Art. 31 - A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância, assegurada ao acusado ampla defesa, nos termos do Estatuto do Servidor Municipal de Aparecida de Goiânia.
 
-TÍTULO VI<br>
+TÍTULO VI
+
 DA DISTRIBUIÇÃO DO SERVIDOR DO MAGISTÉRIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA LOTAÇÃO
 
 Art. 32 - Lotação é o ato mediante o qual a Secretaria Municipal de Educação determina o local em que o servidor do Magistério prestará serviços, priorizando as vagas existentes próximas à sua residência.
@@ -264,14 +284,16 @@ Art. 32 - Lotação é o ato mediante o qual a Secretaria Municipal de Educaçã
 
 § 2º - O Profissional da Educação no exercício de atividades de suporte pedagógico direto poderá ser lotado nas diversas unidades da Secretaria Municipal de Educação e dar assistência às unidades escolares.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA REMOÇÃO
 
 Art. 33 - Remoção é o deslocamento, por necessidade do ensino ou por permuta, do servidor do Magistério de uma para outra unidade escolar, para unidade regional de ensino ou para unidade central da Secretaria Municipal de Educação.
 
 Parágrafo Único - A remoção do servidor do Magistério far-se-á no período compreendido entre o final de um ano letivo e o início do próximo, salvo interesse do ensino ou motivo de saúde, obedecidas as normas elaboradas pela Secretaria Municipal de Educação.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA CESSÃO
 
 Art. 34 - O Profissional da Educação, além das atribuições previstas neste Estatuto, poderá exercer atividades correlatas às do Magistério, ficando vedado o afastamento para o exercício de atividades burocráticas.
@@ -282,12 +304,14 @@ Art. 34 - O Profissional da Educação, além das atribuições previstas neste 
 
 Art. 35 - O afastamento do servidor do Magistério para outros órgãos do Município e órgãos das diferentes esferas de Governo, caso excepcionalmente aprovado, far-se-á sempre sem ônus para as verbas vinculadas à manutenção e desenvolvimento do ensino.
 
-TÍTULO VII<br>
+TÍTULO VII
+
 DA APOSENTADORIA
 
 Art. 36 – O servidor do Magistério da Prefeitura Municipal de Aparecida de Goiânia será aposentado nos termos da Constituição Federal, do Estatuto dos Servidores Públicos deste Município e do Regime de Previdência Municipal.
 
-TÍTULO VIII<br>
+TÍTULO VIII
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 37 - O apoio às atividades de ensino, nas áreas de serviços auxiliares, administrativos e técnico-especializados, será prestado pelo pessoal do Quadro Geral da Prefeitura Municipal de Aparecida de Goiânia.
@@ -306,14 +330,18 @@ Art. 43 - Esta Lei entrará em vigor na data de sua publicação, revogadas as d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos doze dias do mês de dezembro de dois mil e um.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-FRANCISCO GOMES DE ABREU<br>
+FRANCISCO GOMES DE ABREU
+
 SEC. DE EDUCAÇÃO
 
-RONALDO AGUIAR DA SILVA<br>
+RONALDO AGUIAR DA SILVA
+
 SEC. DE ADMINISTRAÇÃO

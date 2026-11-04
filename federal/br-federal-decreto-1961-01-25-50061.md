@@ -1,5 +1,3 @@
-###DEC-050061-0-000-25-01-1961@@@
-
 DECRETO Nº 50.061, DE 25 DE JANEIRO DE 1961.
 
 Declara de utilidade pública a União das Operárias de Jesus, com sede no Rio de Janeiro, Estado da Guanabara.

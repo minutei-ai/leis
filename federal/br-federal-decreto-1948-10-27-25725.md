@@ -1,19 +1,17 @@
-###DEC-025725-0-000-27-10-1948@@@
+**DECRETO Nº 25.725, DE 27 DE OUTUBRO DE 1948.**
 
-<strong>DECRETO Nº 25.725, DE 27 DE OUTUBRO DE 1948.</strong>
+***Suprime cargo extinto.***
 
-<em><strong>Suprime cargo extinto.</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1.º, alínea *n*, do Decreto-lei n.º 3.195, de 14 de abril de 1941,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1.º, alínea <em>n</em>, do Decreto-lei n.º 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Fica suprimido 1 (um) cargo da classe L da carreira de Polícia Especial do Quadro Suplementar do Ministério da Justiça e Negócios Interiores, vago em virtude da aposentadoria de Vítor Hugo de França, devendo a dotação correspondente ser levada a crédito da conta-corrente do referido Ministério.
 
-<strong>Art</strong>. 1.º Fica suprimido 1 (um) cargo da classe L da carreira de Polícia Especial do Quadro Suplementar do Ministério da Justiça e Negócios Interiores, vago em virtude da aposentadoria de Vítor Hugo de França, devendo a dotação correspondente ser levada a crédito da conta-corrente do referido Ministério.
-
-<strong>Art</strong>. 2.º Revogam-se as disposições em contrário.
+**Art**. 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de outubro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Adroaldo Mesquita da Costa.

@@ -8,27 +8,29 @@ Art. 1º - O Instituto de Pesos e Medidas do Estado da Bahia, criado pela [Lei n
 
 Art. 2º - Ficam criados na Secretaria da Indústria e Comércio os seguintes Cargos em Comissão que integrarão a lotação do Instituto de Pesos e Medidas do Estado da Bahia - IPEM-Ba:
 
-<table border="1" cellspacing="0" cellpadding="0" width="321" style="width:240.95pt;
- margin-left:78.0pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="161" valign="top" style="width:120.45pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Denominação<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Símb.<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Quant.<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Diretor do IPEM-Ba<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3-C<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Diretor de Divisão<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5-C<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Diretor de Serviço<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6-C<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td></tr></tbody></table>
+Denominação<quebra></quebra>
+
+Símb.<quebra></quebra>
+
+Quant.<quebra></quebra>
+
+Diretor do IPEM-Ba<quebra></quebra>
+
+3-C<quebra></quebra>
+
+1<quebra></quebra>
+
+Diretor de Divisão<quebra></quebra>
+
+5-C<quebra></quebra>
+
+2<quebra></quebra>
+
+Diretor de Serviço<quebra></quebra>
+
+6-C<quebra></quebra>
+
+2<quebra></quebra>
 
 Art. 3º - As funções técnicas ou de fiscalização só poderão ser exercidas por aqueles que tenham concluído um dos cursos de que trata o artigo 72, do Regulamento aprovado pelo Decreto Federal nº 4.257, de 16/07/39.
 
@@ -46,4 +48,4 @@ Governador
 
 Ângelo Calmon de Sá
 
-* * *
+ *

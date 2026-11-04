@@ -1,5 +1,3 @@
-###DEC-059021-0-000-08-08-1966@@@
-
 DECRETO Nº 59.021, DE 8 DE AGôSTO DE 1966.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$1.007.089.588 (um bilhão, sete milhões, oitenta e nove mil, quinhentos e oitenta e oito cruzeiros).

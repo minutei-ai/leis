@@ -1,5 +1,3 @@
-###DEC-092270-0-000-07-01-1986@@@
-
 DECRETO Nº 92.270, DE 07 DE JANEIRO DE 1986
 
 Concede autorização à embarcação "ORINOCO", de bandeira venezuelana, para realizar em águas interiores brasileiras os serviços que especifica.

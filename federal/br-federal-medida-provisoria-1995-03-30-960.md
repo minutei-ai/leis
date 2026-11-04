@@ -1,5 +1,3 @@
-###MPV-000960-0-000-30-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 960, DE 30 DE MARÇO DE 1995
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

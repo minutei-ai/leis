@@ -1,5 +1,3 @@
-###MPV-001913-0-007-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.913-7, DE 24 DE SETEMBRO DE 1999.
 
 Institui medidas adicionais de estímulos e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências

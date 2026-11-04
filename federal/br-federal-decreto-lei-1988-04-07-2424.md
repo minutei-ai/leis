@@ -1,7 +1,3 @@
-1
-
-###DEL-002424-0-000-07-04-1988@@@
-
 # DECRETO‑LEI N° 2.424, DE 7 DE ABRIL DE 1988
 
 Dispõe sobre medidas para redução de despesas com pessoal nos órgãos da Administração Federal direta e autárquica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073937-0-000-16-04-1974@@@
-
 DECRETO Nº 73.937, DE 16 DE Abril de 1974.
 
 Declara sem efeito o Decreto número 50.044, de 24 de janeiro de 1961.

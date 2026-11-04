@@ -1,5 +1,3 @@
-###DEC-006429-0-000-14-04-2008@@@
-
 DECRETO Nº 6.429, DE 14 DE ABRIL DE 2008.
 
 Dá nova redação aos incisos I e II do art. 1º do Decreto nº 5.435, de 26 de abril de 2005, que define os limites de que tratam o inciso II e o § 5º do art. 3º da Lei nº 10.188, de 12 de fevereiro de 2001.
@@ -27,5 +25,3 @@ Guido Mantega
 Carlos Lupi
 
 Marcio Fortes de Almeida
-
-Este texto não substitui o publicado no DOU de 15.4.2008

@@ -1,5 +1,3 @@
-###DEC-051401-0-000-01-02-1962@@@
-
 DECRETO Nº 51.401, DE 1º de fevereiro DE 1962.
 
 Dispõe sôbre militares em função no Gabinete Militar da Presidência da República.

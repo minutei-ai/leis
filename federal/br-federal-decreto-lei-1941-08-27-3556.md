@@ -1,5 +1,3 @@
-###DEL-003556-0-000-27-08-1941@@@
-
 DECRETO-LEI N. 3.556 – DE 27 DE AGOSTO DE 1941
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Agricultura

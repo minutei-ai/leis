@@ -1,5 +1,3 @@
-###DEC-066179-0-000-04-02-1970@@@
-
 DECRETO Nº 66.179 - DE 4 DE FEVEREIRO DE 1970
 
 Cria função gratificada no Quadro de Pessoal - Parte Permanente - do Ministério do Exército.

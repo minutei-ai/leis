@@ -1,5 +1,3 @@
-###DEC-075040-0-000-04-12-1974@@@
-
 Decreto nº 75.040, de 4 de dezembro de 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Emissora Paranaense Limitada e transferida, posteriormente, à Rádio Universo Limitada, para executar serviço de radiodifusão sonora e onda curta, na Cidade de Curitiba, Estado do Paraná.

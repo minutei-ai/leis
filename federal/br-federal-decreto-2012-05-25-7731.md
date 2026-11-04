@@ -1,5 +1,3 @@
-###DEC-007731-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.731, DE 25 DE MAIO DE 2012
 
 Autoriza a substituição de ativos do Fundo de Garantia à Exportação e a integralização de cotas do Fundo de Garantia da Construção Naval.

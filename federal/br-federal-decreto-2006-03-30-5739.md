@@ -1,5 +1,3 @@
-###DEC-005739-0-000-30-03-2006@@@
-
 DECRETO Nº 5.739, DE 30 DE MARÇO DE 2006.
 
 Distribui os efetivos de Oficiais da Marinha, em tempo de paz, a vigorar em 2006, e fixa os percentuais mínimos dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha, que deverão ser ocupados exclusivamente por oficiais do sexo masculino.

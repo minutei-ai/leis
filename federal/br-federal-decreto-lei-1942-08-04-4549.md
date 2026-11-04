@@ -1,5 +1,3 @@
-###DEL-004549-0-000-04-08-1942@@@
-
 DECRETO-LEI N. 4.549 – DE 4 DE AGOSTO DE 1942
 
 Cria na Prefeitura do Distrito FederaI o Departamento de Construções Proletárias da Secretaria Geral de Viação e Obras, e dá outras providências

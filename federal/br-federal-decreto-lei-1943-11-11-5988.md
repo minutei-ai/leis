@@ -1,5 +1,3 @@
-###DEL-005988-0-000-11-11-1943@@@
-
 DECRETO‑LEI N. 5.988 – DE 11 DE NOVEMBRO DE 1943
 
 Dispõe sôbre validade de sorteio militar

@@ -1,5 +1,3 @@
-###DEC-050302-0-000-27-02-1961@@@
-
 DECRETO Nº 50.302, DE 27 DE FEVEREIRO DE 1961.
 
 Outorga Concessão à Rádio Difusora Pôrto Alegrense Limitada para estabelecer uma estação de radiotelevisão na cidade de Pôrto Alegre, Estado do Rio Grande do Sul.

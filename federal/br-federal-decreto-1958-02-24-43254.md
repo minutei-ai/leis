@@ -1,14 +1,12 @@
-###DEC-043254-0-000-24-02-1958@@@
+**DECRETO Nº 43.254, DE 24 DE FEVEREIRO DE 1958.**
 
-<strong>DECRETO Nº 43.254, DE 24 DE FEVEREIRO DE 1958.</strong>
+***Altera o Regulamento de Uniformes do Pessoal do Exército.***
 
-<em><strong>Altera o Regulamento de Uniformes do Pessoal do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É acrescido do art. 21 do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951, o seguinte:
+**Art**. 1º É acrescido do art. 21 do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951, o seguinte:
 
 “e) das Qualificações Militares Gerais para Sargentos:
 
@@ -56,11 +54,11 @@
 
 22\) Tecnologista - uma roda dentada, tendo no centro um “T” envolvendo um sabre. (Fig. 130-V);
 
-<strong>Art</strong>. 2º É dada a seguinte redação à letra “<em>d</em>” do art. 21, do Regulamento aprovado pelo Decreto, nº 30.163, de 13 de novembro de 1951;
+**Art**. 2º É dada a seguinte redação à letra “*d*” do art. 21, do Regulamento aprovado pelo Decreto, nº 30.163, de 13 de novembro de 1951;
 
 “d) De Comandante de Pelotão ou Seção - uma quaderna circunscrevendo o distintivo da Q.M.G (Fig. 130).
 
-<strong>Art</strong>. 3º É dada a seguinte redação ao art. 22 e sua letra “<em>a</em>” do Regulamento aprovado pelo Decreto número 30.163, de 13 de novembro de 1951:
+**Art**. 3º É dada a seguinte redação ao art. 22 e sua letra “*a*” do Regulamento aprovado pelo Decreto número 30.163, de 13 de novembro de 1951:
 
 Art. 22. Os distintivos de especialização se destinam à identificação:
 
@@ -86,7 +84,7 @@ a) Quadros Especiais
 
 6\) Radiotelegrafista - um círculo irradiando quatro setas em ângulo reto. O círculo é atravessado por uma centelha oblíqua, descendente (Fig. 137-A).
 
-<strong>Art</strong>. 4º É dada a seguinte redação à letra “<em>c</em>”, nº 1 do art. 25 do Regulamento aprovado pelo Decreto nº 30.136, de 13 de novembro de 1951:
+**Art**. 4º É dada a seguinte redação à letra “*c*”, nº 1 do art. 25 do Regulamento aprovado pelo Decreto nº 30.136, de 13 de novembro de 1951:
 
 “c) Os do art. 22:
 
@@ -98,11 +96,11 @@ a) Quadros Especiais
 
 \- os de números 5 e 6 no interior do ângulo das divisas (Fig. 155).
 
-<strong>Art</strong>. 5º É dada a seguinte redação ao nº 3 da letra “B” do art. 25 do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951:
+**Art**. 5º É dada a seguinte redação ao nº 3 da letra “B” do art. 25 do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951:
 
-3 - Os das letras “<em>d</em>” e “<em>e</em>” no interior do ângulo das divisas (Figura 154).
+3 - Os das letras “*d*” e “*e*” no interior do ângulo das divisas (Figura 154).
 
-<strong>Art</strong>. 6º É acrescido ao artigo 60 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, o seguinte:
+**Art**. 6º É acrescido ao artigo 60 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, o seguinte:
 
 f) Das Qualificações Militares Gerais Para Sargentos:
 
@@ -150,11 +148,11 @@ f) Das Qualificações Militares Gerais Para Sargentos:
 
 22\) Tecnologista - uma roda dentada tendo no centro um “T”, envolvendo um sabre (Fig.149-V);
 
-<strong>Art</strong>. 7º É dada a seguinte redação à letra “<em>e</em>“ do artigo 60 do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954.
+**Art**. 7º É dada a seguinte redação à letra “*e*“ do artigo 60 do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954.
 
 “e) De comandante de Pelotão ou Seção, uma quaderna circunscrevendo o distintivo da QMG (Fig. 149).
 
-<strong>Art</strong>. 8º É dada a seguinte redação ao artigo 61 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
+**Art**. 8º É dada a seguinte redação ao artigo 61 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
 
 “Art. 61 - os distintivos de especialização são assim descritos: a) Quadros Especiais:
 
@@ -170,15 +168,15 @@ f) Das Qualificações Militares Gerais Para Sargentos:
 
 6\) Radiotelegrafistas - um círculo irradiando quatro setas em ângulo reto. O círculo é atravessado por uma centelha oblíqua, descendente (Fig. 156-A).
 
-<strong>Art</strong>. 9º É dada a seguinte redação ao nº 3 letra “<em>b</em>” do art. 63 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
+**Art**. 9º É dada a seguinte redação ao nº 3 letra “*b*” do art. 63 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
 
-3 - Os das letras “<em>e</em>” e “<em>f</em>” bordados a fio de sêda amarelo-ouro nos 3º e 4º uniformes e com linha cinza escura nos demais.
+3 - Os das letras “*e*” e “*f*” bordados a fio de sêda amarelo-ouro nos 3º e 4º uniformes e com linha cinza escura nos demais.
 
 Executam-se desta regra, em todos os uniformes, o distintivo de saúde (Fig. 149-G), que é bordado a linha vermelha e o de veterinário (Fig. 149-N), que é bordado em linha azul-celeste, côres internacionais dêsses serviços.
 
-<strong>Art</strong>. 10. É dada a seguinte redação ao nº 1 da letra “<em>c</em>” do art. 63 do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954:
+**Art**. 10. É dada a seguinte redação ao nº 1 da letra “*c*” do art. 63 do Regulamento aprovado pelo Decreto número 34.999, de 2 de fevereiro de 1954:
 
-1 - os da letra <em>a</em>:
+1 - os da letra *a*:
 
 \- os números 1 e 2, nos 1º e 2º uniformes, como para os generais; nos 3º e 4º uniformes, em metal dourado assentado sôbre elipse esmaltada de 20x23 milímetros, cinza-escura e tendo um debrum ondulado do mesmo metal: nos 5º e 6º uniformes e blusões verde oliva, bordados e linha cinza-escura.
 
@@ -186,20 +184,20 @@ Executam-se desta regra, em todos os uniformes, o distintivo de saúde (Fig. 149
 
 \- de números 5 a 6, bordados com fio de sêda amarelo-ouro nos 3º e 4º uniformes e com linha cinza-escura nos demais.
 
-<strong>Art</strong>. 11. É dada a seguinte redação ao Capítulo VIII do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
+**Art**. 11. É dada a seguinte redação ao Capítulo VIII do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954:
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Descrição das peças dos uniformes e insígnias do Batalhão de Guardas</em>
+*Descrição das peças dos uniformes e insígnias do Batalhão de Guardas*
 
 Art. 82. Os uniformes especiais do Batalhão de Guardas são assim descritos:
 
 a) de Inverno ...........................................................................................................................
 
-<strong>Art</strong>. 12. Êste decreto entrará e vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 12. Êste decreto entrará e vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de fevereiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

@@ -1,7 +1,3 @@
-1
-
-###DEL-002448-0-000-21-07-1988@@@
-
 # DECRETO-LEI N° 2.448, DE 21 DE JULHO DE 1988
 
 Altera a redação da Lei n° 5.108, de 21 de setembro de 1966 - Código Nacional de Trânsito.

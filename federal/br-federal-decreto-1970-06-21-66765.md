@@ -1,5 +1,3 @@
-###DEC-066765-0-000-21-06-1970@@@
-
 DECRETO Nº 66.765 - DE 21 DE JUNHO DE 1970
 
 Declara ponto facultativo nos dias que menciona.

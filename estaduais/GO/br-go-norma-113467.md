@@ -4,7 +4,8 @@ Portaria Orçamentária nº 8/2026 - Economia
 
 **RESOLVE:**
 
-Art. 1º Ficam abertos ao FUNDO ESTADUAL DE SAÚDE, SECRETARIA DE ESTADO DA EDUCAÇÃO, créditos suplementares no valor global de R$ 10.516.291,50 (dez milhões quinhentos e dezesseis mil duzentos e noventa e um reais e cinquenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Ficam abertos ao FUNDO ESTADUAL DE SAÚDE, SECRETARIA DE ESTADO DA EDUCAÇÃO, créditos suplementares no valor global de R$ 10.516.291,50 (dez milhões quinhentos e dezesseis mil duzentos e noventa e um reais e cinquenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
@@ -17,32 +18,208 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS</td><td style=" width:85px;    ">10 122 0300 3377</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 185.504.474,00</td><td style=" width:85px;    ">R$ 1.630.500,50</td><td style=" width:85px;    ">R$ 187.134.974,50</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS</td><td style=" width:85px;    ">12 122 0300 3377</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 69.775.627,00</td><td style=" width:85px;    ">R$ 8.732.291,50</td><td style=" width:85px;    ">R$ 78.507.918,50</td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS</td><td style=" width:85px;    ">12 122 0300 3377</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 58.356.683,00</td><td style=" width:85px;    ">R$ 153.499,50</td><td style=" width:85px;    ">R$ 58.510.182,50</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 10.516.291,50</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 10.516.291,50</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS
+
+10 122 0300 3377
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 185.504.474,00
+
+R$ 1.630.500,50
+
+R$ 187.134.974,50
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS
+
+12 122 0300 3377
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 69.775.627,00
+
+R$ 8.732.291,50
+
+R$ 78.507.918,50
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS
+
+12 122 0300 3377
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 58.356.683,00
+
+R$ 153.499,50
+
+R$ 58.510.182,50
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 10.516.291,50
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 10.516.291,50
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS</td><td style=" width:85px;    ">10 122 0300 3377</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 81.269.255,00</td><td style=" width:85px;    ">R$ 9.301.000,00</td><td style=" width:85px;    ">R$ 9.301.000,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1900 - SECRETARIA DE ESTADO DE GOVERNO</b><br>1901 - GAB. DA SECRET. DE ESTADO DE RELAÇÕES INSTITUCIONAIS</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS</td><td style=" width:85px;    ">04 122 0300 3377</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 35.166.796,00</td><td style=" width:85px;    ">R$ 401.691,25</td><td style=" width:85px;    ">R$ 401.691,25</td></tr><tr><td style=" width:85px;    ">PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS</td><td style=" width:85px;    ">04 122 0300 3377</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 29.091.870,00</td><td style=" width:85px;    ">R$ 813.600,25</td><td style=" width:85px;    ">R$ 813.600,25</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 10.516.291,50</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 10.516.291,50</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 10.516.291,50</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 10.516.291,50</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS
+
+10 122 0300 3377
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 81.269.255,00
+
+R$ 9.301.000,00
+
+R$ 9.301.000,00
+
+**1900 - SECRETARIA DE ESTADO DE GOVERNO**
+1901 - GAB. DA SECRET. DE ESTADO DE RELAÇÕES INSTITUCIONAIS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS
+
+04 122 0300 3377
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 35.166.796,00
+
+R$ 401.691,25
+
+R$ 401.691,25
+
+PROJETOS E ATIVIDADES DECORRENTES DE EMENDAS PARLAMENTARES ESTADUAIS IMPOSITIVAS
+
+04 122 0300 3377
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 29.091.870,00
+
+R$ 813.600,25
+
+R$ 813.600,25
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 10.516.291,50
+
+**TOTAL**
+
+R$ 10.516.291,50
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 10.516.291,50
+
+**TOTAL**
+
+R$ 10.516.291,50

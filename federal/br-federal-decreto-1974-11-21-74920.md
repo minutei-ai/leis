@@ -1,5 +1,3 @@
-###DEC-074920-0-000-21-11-1974@@@
-
 DECRETO Nº 74.920, DE 21 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras "São Judas Tadeu", mantida pelo Instituto Alberto Mesquita de Camargo, com sede na cidade de São Paulo, Estado de São Paulo.

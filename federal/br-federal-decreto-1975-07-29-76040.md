@@ -1,5 +1,3 @@
-###DEC-076040-0-000-29-07-1975@@@
-
 DECRETO Nº 76.040 - DE 29 de jULHO DE 1975.
 
 Atribui a Comissão Executora do Projeto Radambrasil a responsabilidade do mapeamento de recursos naturais de áreas situadas nas regiões nordeste, sudeste, sul e centro-oeste, autoriza a participação de empresa estrangeira em atividades de aerolevantamento e dá outras providências.

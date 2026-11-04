@@ -1,5 +1,3 @@
-###DEC-006367-0-000-30-01-2008@@@
-
 DECRETO Nº 6.367, DE 30 DE JANEIRO DE 2008.
 
 Dispõe sobre os encargos financeiros das operações realizadas com recursos dos Fundos Constitucionais de Financiamento, de que trata o art. 1o da Lei no 10.177, de 12 de janeiro de 2001.
@@ -55,5 +53,3 @@ LUIZ INÁCIO LULA DA SILVA
 Nelson Machado
 
 Geddel Vieira Lima
-
-Este texto não substitui o publicado no DOU de 31.1.2008

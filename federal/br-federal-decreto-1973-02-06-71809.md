@@ -1,5 +1,3 @@
-###DEC-071809-0-000-06-02-1973@@@
-
 DECRETO Nº 71.809, de 6 de fevereiro de 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Camocim, Estado do Ceará.

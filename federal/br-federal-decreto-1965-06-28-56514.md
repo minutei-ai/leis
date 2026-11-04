@@ -1,5 +1,3 @@
-###DEC-056514-0-000-28-06-1965@@@
-
 DECRETO Nº 56.514, DE 28 DE JUNHO DE 1965.
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$100.000.000, para atender às despesas de qualquer natureza com a instalação, organização e funcionamento do Instituto Brasileiro de Reforma Agrária, bem como às relativas ao cumprimento do disposto na mesmo lei.

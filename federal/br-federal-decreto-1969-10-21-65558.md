@@ -1,5 +1,3 @@
-###DEC-065558-0-000-21-10-1969@@@
-
 DECRETO Nº 65.558 - DE 21 DE OUTUBRO DE 1969.
 
 Altera a redação do Estatuto da Universidade de Uberlândia.

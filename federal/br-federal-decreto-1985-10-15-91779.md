@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/12ddc302-f196-4f4d-9c1b-26e8ee4425a6/texto#nowhere)
 
-###DEC-091779-0-000-15-10-1985@@@
-
 # DECRETO Nº 91.779, de 15 de outubro de 1985.
 
 Dispõe sobre as áreas de jurisdição dos Comandos Militares de Área e Regiões Militares e dá outras providências

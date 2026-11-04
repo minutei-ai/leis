@@ -1,5 +1,3 @@
-###DEL-007595-0-000-31-05-1945@@@
-
 DECRETO-LEI N. 7.595 – DE 31 DE MAIO DE 1945
 
 Concede pensão especial a Margarida Marta da Conceição

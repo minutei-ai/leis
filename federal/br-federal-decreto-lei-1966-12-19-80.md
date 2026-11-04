@@ -1,5 +1,3 @@
-###DEL-000080-0-000-19-12-1966@@@
-
 DECRETO-LEI Nº 80, DE 19 DE DEZEMBRO DE 1966
 
 Prorroga a vigência do crédito especial pelo art. 41 da lei nº 4.357, de 16 de julho de 1964.

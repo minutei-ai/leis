@@ -1,5 +1,3 @@
-###DEC-057288-0-000-19-11-1965@@@
-
 DECRETO Nº 57.288, DE 19 DE NOVEMBRO DE 1965.
 
 Retifica o Decreto nº 56.671, de 6 de agôsto de 1965, que declarou de utilidade pública para fins de desapropriação, pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério das Minas e Energia, terrenos situados no Município de Pôrto Alegre, Estado do Rio Grande do Sul.

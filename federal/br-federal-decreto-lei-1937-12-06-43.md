@@ -1,5 +1,3 @@
-###DEL-000043-0-000-06-12-1937@@@
-
 DECRETO-LEI N. 43 – DE 6 DE DEZEMBRO DE 1937
 
 Dispõe sôbre a divisão territorial do Distrito Federal para efeito do Registro Geral de Imóveis

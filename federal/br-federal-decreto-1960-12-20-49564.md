@@ -1,5 +1,3 @@
-###DEC-049564-0-000-20-12-1960@@@
-
 DECRETO Nº 49.564, DE 20 DE DEZEMBRO DE 1960.
 
 Altera o Decreto nº 38.673, de 27 de janeiro de 1956, que aprovou a lotação numérica de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Fazenda, e dá outras providências.

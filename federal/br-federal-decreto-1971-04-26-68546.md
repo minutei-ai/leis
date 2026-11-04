@@ -1,5 +1,3 @@
-###DEC-068546-0-000-26-04-1971@@@
-
 DECRETO Nº 68.540, DE 26 DE ABRIL de 1971.
 
 Autoriza funcionamento da Faculdade de Medicina de Barbacena, mantida pela Fundação Presidente Antônio Carlos, no Estado de Minas Gerais.

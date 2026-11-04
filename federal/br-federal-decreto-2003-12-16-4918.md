@@ -1,5 +1,3 @@
-###DEC-004918-0-000-16-12-2003@@@
-
 DECRETO Nº 4.918 DE 16 DE DEZEMBRO DE 2003.
 
 Define os limites de que tratam o inciso II e o § 5º do art. 3º da Lei no 10.188, de 12 de fevereiro de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069369-0-000-18-10-1971@@@
-
 DECRETO Nº 69.369 - DE 18 DE OUTUBRO DE 1971
 
 Redistribui, com o respectivo ocupante, cargo do Departamento Administrativo do Pessoal Civil para o Ministério da Saúde, e dá outras providências.

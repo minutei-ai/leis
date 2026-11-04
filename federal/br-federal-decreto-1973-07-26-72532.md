@@ -1,5 +1,3 @@
-###DEC-072532-0-000-26-07-1973@@@
-
 Decreto nº 72.532, de 26 de julho de 1973
 
 Cria o Centro Brasileiro de Construções e Equipamentos Escolares - CEBRACE, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059074-0-000-12-08-1966@@@
-
 DECRETO Nº 59.074, DE 12 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro Geraldo Fernandes de Melo a pesquisar minério de manganês no município de Jaboticatubas, Estado de Minas Gerais.

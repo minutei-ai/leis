@@ -1,5 +1,3 @@
-###DEC-077623-0-000-17-05-1976@@@
-
 Decreto nº 77.623, de 17 de maio de 1976
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

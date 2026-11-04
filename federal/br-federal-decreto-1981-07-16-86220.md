@@ -1,5 +1,3 @@
-###DEC-086220-0-000-16-07-1981@@@
-
 DECRETO Nº 86.220, DE 16 JULHO DE 1981.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5821, de 10 de novembro de 1972.

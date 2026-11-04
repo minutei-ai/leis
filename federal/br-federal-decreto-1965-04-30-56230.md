@@ -1,5 +1,3 @@
-###DEC-056230-0-000-30-04-1965@@@
-
 Decreto nº 56.230, de 30 de abril de 1965.
 
 Indica os estabelecimentos bancários da União para fins do disposto no art. 9º, letra e, da Lei nº 2.168, de 11 de janeiro de 1954.

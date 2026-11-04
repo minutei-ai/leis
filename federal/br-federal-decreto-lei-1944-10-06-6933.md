@@ -1,5 +1,3 @@
-###DEL-006933-0-000-06-10-1944@@@
-
 DECRETO-LEI N. 6.933 – DE 6 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 50.000,00, à verba que especifica

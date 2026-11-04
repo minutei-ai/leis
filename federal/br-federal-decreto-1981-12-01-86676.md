@@ -1,5 +1,3 @@
-###DEC-086676-0-000-01-12-1981@@@
-
 Decreto nº 86.676, de 01 de dezembro de 1981
 
 Fixa novos limites do Parque Nacional do Iguaçu no Estado do Paraná.

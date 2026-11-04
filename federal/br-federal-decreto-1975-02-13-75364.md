@@ -1,5 +1,3 @@
-###DEC-075364-0-000-13-02-1975@@@
-
 DECRETO Nº 75.364, DE 13 DE FEVEREIRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

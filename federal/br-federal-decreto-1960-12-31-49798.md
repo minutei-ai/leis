@@ -1,5 +1,3 @@
-###DEC-049798-0-000-31-12-1960@@@
-
 DECRETO N. 49.798 – DE 31 DE DEZEMBRO DE 1960
 
 Autoriza o cidadão brasileiro Antônio João Bastos Ribeiro a pesquisar areias ilmeníticas no município de Tutóia, Estado do Maranhão.

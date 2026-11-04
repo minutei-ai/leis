@@ -1,5 +1,3 @@
-###DEC-094489-0-000-17-06-1987@@@
-
 DECRETO N° 94.489, DE 17 DE JUNHO DE 1987
 
 Outorga concessão à RÁDIO RAINHA DAS QUEDAS LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Abelardo Luz, Estado de Santa Catarina.

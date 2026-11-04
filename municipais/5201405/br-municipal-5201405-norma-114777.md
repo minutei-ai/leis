@@ -4,15 +4,18 @@ Cria o PARQUE INDUSTRIAL APARECIDA e o POLO MUNICIPAL DE RECICLAGEM. Polo Indust
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-Art. 1º São criados no município o PARQUE INDUSTRIAL VICE-PRESIDENTE JOSÉ ALENCAR e o PÓLO MUNICIPAL DE RECICLAGEM, nos termos desta lei:<br>
+Art. 1º São criados no município o PARQUE INDUSTRIAL VICE-PRESIDENTE JOSÉ ALENCAR e o PÓLO MUNICIPAL DE RECICLAGEM, nos termos desta lei:
+
 (Redação alterada pela Lei Ordinária nº 2.956, de 2 de maio de 2011).
 
 ~~Art. 1º - São criados no Município, o PARQUE INDUSTRIAL APARECIDA e o POLO MUNICIPAL DE RECICLAGEM, nos termos desta Lei:~~
 
-1)    PARQUE INDUSTRIAL VICE-PRESIDENTE JOSÉ  ALENCAR.<br>
+1)    PARQUE INDUSTRIAL VICE-PRESIDENTE JOSÉ  ALENCAR.
+
 (Redação alterada pela Lei Ordinária nº 2.956, de 2 de maio de 2011).
 
-§ 2º - O PARQUE INDUSTRIAL VICE-PRESIDENTE JOSÉ  ALENCAR, será destinado para a instalação de empresa no ramo industrial em geral.<br>
+§ 2º - O PARQUE INDUSTRIAL VICE-PRESIDENTE JOSÉ  ALENCAR, será destinado para a instalação de empresa no ramo industrial em geral.
+
 (Redação acrescentada pela Lei Ordinária nº 2.956, de 2 de maio de 2011).
 
 ~~1) PARQUE INDUSTRIAL APARECIDA~~
@@ -25,39 +28,50 @@ I) Área com 36 alqueires, situada na Fazenda Santo Antônio, no lugar denominad
 
 II)    Área de 04 (quatro) alqueires aproximados, constituídos de imóveis situados no loteamento REAL GRANDEZA, conforme quadro abaixo:
 
-<table><tbody><tr><td style=" width:312px;    "><b>QUADRAS</b></td></tr><tr><td style=" width:312px;    ">01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 e 20</td></tr></tbody></table>
+**QUADRAS**
 
-2)         POLO MUNICIPAL DE RECICLAGEM<br>
+01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 e 20
+
+2)         POLO MUNICIPAL DE RECICLAGEM
+
 Situado nos loteamentos VALE DO SOL Gleba “5” e JARDIM CECÍLIA, nos imóveis conforme o quadro abaixo:
 
 I ) VALE DO SOL GLEBA “5”
 
-<table><tbody><tr><td style=" width:348px;    "><b>QUADRAS</b></td></tr><tr><td style=" width:348px;    ">75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 87-A, Área “D”, 88, 89, 90, 91, 91-A, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140 e 141</td></tr></tbody></table>
+**QUADRAS**
+
+75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 87-A, Área “D”, 88, 89, 90, 91, 91-A, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140 e 141
 
 II) JARDIM CECÍLIA
 
-<table><tbody><tr><td style=" width:348px;    "><b>QUADRAS</b></td></tr><tr><td style=" width:348px;    ">01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 e 23 (lotes 09 a 17)</td></tr></tbody></table>
+**QUADRAS**
+
+01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 e 23 (lotes 09 a 17)
 
 Art. 2º - Fica o Executivo Municipal autorizado a tomar todas as medidas necessárias, à estruturação dos Pólos Industriais criados por esta Lei, a fim de incentivar a instalação de novas empresas no Município.
 
 § 1º - São desafetadas do uso comum do povo e transformadas em áreas patrimoniais, a fim de serem remembradas em uma só gleba, todas as vias e praças públicas, dos loteamentos JARDIM CECÍLIA, VALE DO SOL GLEBA “5” e REAL GRANDEZA, no contexto da área desapropriada para permitir a implantação de módulos e novas vias de circulação, conforme nova planta.
 
-§ 2.º - O Polo Industrial Aparecida, será destinado para a instalação de empresas tanto dos ramos industrial, como comercial e prestadores de serviços.<br>
+§ 2.º - O Polo Industrial Aparecida, será destinado para a instalação de empresas tanto dos ramos industrial, como comercial e prestadores de serviços.
+
 (Redação alterada pela Lei Ordinária nº 2.661, de 16 de maio de 2007).
 
 ~~§ 2º - O Pólo Industrial Aparecida, será destinado para a instalação de empresas do ramo industrial em geral.~~
 
-§ 3º - O Polo industrial Leo Mendanha, será destinado para a instalação de empresas no ramo de reciclagem, indústria, comércio e prestação de serviços.<br>
+§ 3º - O Polo industrial Leo Mendanha, será destinado para a instalação de empresas no ramo de reciclagem, indústria, comércio e prestação de serviços.
+
 (Redação alterada pela Lei Ordinária nº 3.687, de 11 de novembro de 2011).
 
 ~~§ 3º - O Pólo de Reciclagem, será destinado para a instalação de empresas recicladoras de papéis, plásticos, pneus, baterias, vidros, alumínios, metais em geral e outros materiais.~~
 
-§ 4º Incluem-se no conteúdo de indústrias em geral, para os fins do § 2º deste artigo, os estabelecimentos caracterizados, na forma da legislação vigente, como industriais por equiparação, bem como os estabelecimentos destinados à realização de operações logísticas de estabelecimentos industriais.<br>
+§ 4º Incluem-se no conteúdo de indústrias em geral, para os fins do § 2º deste artigo, os estabelecimentos caracterizados, na forma da legislação vigente, como industriais por equiparação, bem como os estabelecimentos destinados à realização de operações logísticas de estabelecimentos industriais.
+
 (Redação acrescentada pela Lei Ordinária nº 2.956, de 2 de maio de 2011).
 
 Art. 3º - O Executivo Municipal, buscará a aprovação de projetos técnicos, visando a aprovação dos empreendimentos industriais, nos órgãos competentes. Os projetos conterão vias de circulação e os módulos industriais de pequeno, médio e grande porte, para atender a cada empresa de conformidade com sua capacidade.
 
-~~Parágrafo único – Fica autorizada, as reservas dos módulos industriais, às empresas interessadas a instalarem no local, mediante estipulação do prazo, e que viabilizando o empreendimento poderão ser feitas as concessões definidas das áreas, a título de doação, com cláusula de reversão do imóvel, caso a empresa não cumpra o objetivo determinado.~~<br>
+~~Parágrafo único – Fica autorizada, as reservas dos módulos industriais, às empresas interessadas a instalarem no local, mediante estipulação do prazo, e que viabilizando o empreendimento poderão ser feitas as concessões definidas das áreas, a título de doação, com cláusula de reversão do imóvel, caso a empresa não cumpra o objetivo determinado.~~
+
 (Revogado pela Lei Ordinária nº 2.661, de 16 de maio de 2007).
 
 Art. 4º - Buscando o desenvolvimento e a infra-estrutura dos Pólos Industriais, criados por esta Lei, o Executivo Municipal buscará a participação dos outros níveis de Governo, sobretudo quanto a implantação de energia elétrica, água, esgoto e asfalto, para o local.
@@ -82,13 +96,14 @@ Art. 9º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos nove dias do mês de julho de dois mil e quatro.
 
-<br>
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-ZEURITH DE P. FERREIRA<br>
-SEC. DE IND. E COMÉRCIO<br>
- <br>
+ZEURITH DE P. FERREIRA
+
+SEC. DE IND. E COMÉRCIO

@@ -1,5 +1,3 @@
-###DEC-091955-0-000-19-11-1985@@@
-
 Decreto nº 91.955, de 19 de novembro de 1985
 
 Altera dispositivos do Regulamento do Alto Comando da Aeronáutica.

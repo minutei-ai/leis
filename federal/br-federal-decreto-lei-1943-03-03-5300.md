@@ -1,5 +1,3 @@
-###DEL-005300-0-000-03-03-1943@@@
-
 DECRETO‑LEI N. 5.300 – DE 3 DE MARÇO DE 1943
 
 Cria o 14º Grupo de Artilharia de Dorso, com sede em Natal

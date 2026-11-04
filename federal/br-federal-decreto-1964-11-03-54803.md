@@ -1,5 +1,3 @@
-###DEC-054803-0-000-03-11-1964@@@
-
 DECRETO nº 54.803, DE 3 DE NOVEMBRO DE 1964.
 
 Outorga a cidadã brasileira Lyra Aguiar de Araújo a pesquisar calcário, no município de Itaocara, Estado do Rio de Janeiro.

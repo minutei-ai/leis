@@ -1,5 +1,3 @@
-###DEC-053283-0-000-16-12-1963@@@
-
 DECRETO Nº 53.283, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Mareo Kudamatsu a lavrar caulim no município de Guarulhos, Estado de São Paulo.

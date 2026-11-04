@@ -1,5 +1,3 @@
-###DEC-079383-0-000-14-03-1977@@@
-
 DECRETO Nº 79.383, DE 14 DE MARÇO DE 1977.
 
 Declara sem efeito o Decreto número 44.929 de 1º de dezembro de 1958.

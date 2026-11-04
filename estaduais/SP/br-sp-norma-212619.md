@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212619)<br>
-
 # DECRETO N° 70.620, DE 19 DE MAIO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber do Município de Guararema, mediante cessão de uso, o imóvel que especifica._

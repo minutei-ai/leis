@@ -1,7 +1,3 @@
-1
-
-###DEC-001477-0-000-02-05-1995@@@
-
 DECRETO Nº 1.477, DE 2 DE MAIO DE 1995
 
 Dispõe sobre a execução da Ata de Retificação do Trigésimo Primeiro Protocolo Adicional ao Acordo Comercial nº 16, entre Brasil e Argentina, de 5 de setembro de 1994.

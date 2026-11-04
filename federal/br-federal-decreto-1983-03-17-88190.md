@@ -1,5 +1,3 @@
-###DEC-088190-0-000-17-03-1983@@@
-
 Decreto nº 88.190, de 17 de março de 1983
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Massapê", situado no Município de Mambaça, no Estado do Ceará, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 60.465, de 14 de março de 1967, retificado pelo Decreto nº 61.106, de 28 de julho de 1967, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19 de janeiro de 1971, 75.147, de 27 de dezembro de 1974, e 82.884, de 19 de dezembro do 1978.

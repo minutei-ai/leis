@@ -1,5 +1,3 @@
-###DEC-059393-0-000-13-10-1966@@@
-
 Decreto nº 59.393, de 13 de Outubro de 1966.
 
 Dispõe sôbre a aplicação do parágrafo único do artigo 41 da Lei nº 3.917, de 14 de julho de 1961.

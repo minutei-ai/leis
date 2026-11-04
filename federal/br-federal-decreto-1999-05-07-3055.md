@@ -1,5 +1,3 @@
-###DEC-003055-0-000-07-05-1999@@@
-
 DECRETO Nº 3.055,DE 7 DE MAIO DE 1999.
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 11, entre os Governos do Brasil e do Equador, de 31 de março de 1999.

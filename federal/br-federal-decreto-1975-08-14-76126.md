@@ -1,5 +1,3 @@
-###DEC-076126-0-000-14-08-1975@@@
-
 DECRETO Nº 76.126 - DE 14 DE AGOSTO DE 1975
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do rio Grande do Sul.

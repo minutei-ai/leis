@@ -1,5 +1,3 @@
-###DEL-008355-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.355 – DE 12 DE DEZEMBRO DE 1945
 
 Dispõe sobre a designação dos substitutos dos Interventores.

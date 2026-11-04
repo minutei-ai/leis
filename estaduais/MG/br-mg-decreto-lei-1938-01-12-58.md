@@ -59,7 +59,3 @@ Mando, portanto, que todas as autoridades a quem o conhecimento e execução des
 Dado no Palácio da Liberdade, em Belo Horizonte, aos 12 de janeiro de 1938.
 
 Benedito Valadares Ribeiro - Governador do Estado
-
-\================================================================
-
-Data da última atualização: 04/09/2006.

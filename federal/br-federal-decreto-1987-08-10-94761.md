@@ -1,5 +1,3 @@
-###DEC-094761-0-000-10-08-1987@@@
-
 DECRETO Nº 94.761, DE 10 DE AGOSTO DE 1987.
 
 Autoriza o funcionamento do curso de Direito da Faculdade de Educação e Ciências Humanas de Anicuns.

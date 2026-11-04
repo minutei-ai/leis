@@ -1,5 +1,3 @@
-###DEC-046862-0-000-16-09-1959@@@
-
 decreto nº 46.862, de 16 de setembro de 1959.
 
 Renova o Decreto nº 41,453, de 6 de maio de 1957.

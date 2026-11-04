@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49253)
-
 # LEI Nº 11.629, DE 07 DE JANEIRO DE 2004
 
 ## (PL 235/2003 - Roberto Morais)

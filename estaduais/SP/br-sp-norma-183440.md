@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183440)
-
 # DECRETO Nº 62.844, DE 02 DE OUTUBRO DE 2017
 
 ### _Declara de utilidade pública para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias às obras e serviços de implantação de dispositivos de acesso no km 75+53m e no km 96+400m e construção de nova ponte sobre o Rio São José dos Dourados, entre o km 120+840m e o km 122+880m, da SP-463, Rodovia Doutor Elyeser Montenegro Magalhães, localizadas nos Municípios de Santo Antônio do Aracanguá, General Salgado e Pontalinda e dá providências correlatas_
@@ -42,9 +40,14 @@ GERALDO ALCKMIN
 
 Laurence Casagrande Lourenço
 
-Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 2 de outubro de 2017.

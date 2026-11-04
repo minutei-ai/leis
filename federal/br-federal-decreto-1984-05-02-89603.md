@@ -1,5 +1,3 @@
-###DEC-089603-0-000-02-05-1984@@@
-
 Decreto nº 89.603, de 2 de maio de 1984.
 
 Suspende as convocações, das Polícias Militares do Estado de Goiás e do Distrito Federal.

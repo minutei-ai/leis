@@ -1,5 +1,3 @@
-###DEC-084912-0-000-15-07-1980@@@
-
 Decreto nº 84.912, de 15 de julho de 1980.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

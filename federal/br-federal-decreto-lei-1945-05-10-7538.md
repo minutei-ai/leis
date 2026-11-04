@@ -1,5 +1,3 @@
-###DEL-007538-0-000-10-05-1945@@@
-
 DECRETO-LEI N. 7.538 – DE 10 DE MAIO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 1.500.000,00 à verba que especifica

@@ -1,5 +1,3 @@
-###DEL-007651-0-000-18-06-1945@@@
-
 DECRETO-LEI N. 7.651 – DE 18 DE JUNHO DE 1945
 
 Altera carreiras do Ministério da Fazenda e dá outras providências

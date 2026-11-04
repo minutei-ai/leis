@@ -1,5 +1,3 @@
-###DEC-058740-0-000-28-06-1966@@@
-
 DECRETO Nº 58.740, DE 28 DE JUNHO DE 1966.
 
 Aprova as Normas Técnicas Especiais do Código-Nacional de Saúde, para Assistência e Proteção à Maternidade, à Infância e à Adolescência.

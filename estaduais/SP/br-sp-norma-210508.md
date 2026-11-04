@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210508)<br>
-
 # DECRETO N° 69.283, DE 31 DE DEZEMBRO DE 2024
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Cubatão, que declarou Situação de Emergência em áreas do Município._

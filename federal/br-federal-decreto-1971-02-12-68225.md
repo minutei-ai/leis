@@ -1,5 +1,3 @@
-###DEC-068225-0-000-12-02-1971@@@
-
 DECRETO Nº 68.225, DE 12 DE FEVEREIrO DE 1971.
 
 Aprova o Regulamento para a Diretoria de Engenharia da Marinha.

@@ -1,5 +1,3 @@
-###DEC-056082-0-000-26-04-1965@@@
-
 DECRETO Nº 56.082, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Otavio Souza Filho a pesquisar gipsita no Município de Ipubi, Estado de Pernambuco.

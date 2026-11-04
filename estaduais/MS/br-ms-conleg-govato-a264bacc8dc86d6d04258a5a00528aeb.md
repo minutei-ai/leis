@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual o “Projeto Som e Vida”, no Município
 
 Publicada no Diário Oficial nº 11.309, de 1º de novembro de 2023, página 3.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual o “Projeto Som e Vida”, com sede e foro no Município de Campo Grande, Estado de Mato Grosso do Sul.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual o “Projeto Som e Vida”, com sede e foro no Município de Campo Grande, Estado de Mato Grosso do Sul.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 31 de outubro de 2023.
 
-<br>
-EDUARDO CORREA RIEDEL<br>
+EDUARDO CORREA RIEDEL
+
 Governador do Estado

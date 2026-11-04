@@ -1,5 +1,3 @@
-###DEL-003380-0-000-01-07-1941@@@
-
 DECRETO-LEI N. 3.380 – DE 1 DE JULHO DE 1941
 
 Aprova o Convénio celebrado entre os Estados Cafeeiros, em 3 de abril de 1941, e dá outras providências

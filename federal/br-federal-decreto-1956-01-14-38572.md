@@ -1,14 +1,12 @@
-###DEC-038572-0-000-14-01-1956@@@
+**DECRETO Nº 38.572, DE 14 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.572, DE 14 DE JANEIRO DE 1956.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário Mensalista, do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário Mensalista, do Ministério da Aeronáutica, que menciona.</strong></em>
+**O VICE-PRESIDENTE DA REPÚBLICA**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
 
-<strong>O VICE-PRESIDENTE DA REPÚBLICA</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário Mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário Mensalista abaixo indicadas:
 
 I - uma função de Montador de Avião, referência 22, ocupada por Manoel Vanâncio Marinho, do Parque de Aeronáutica dos Afonsos para a Base Aérea do Galeão;
 
@@ -28,10 +26,10 @@ VIII - uam função de Artífice, referência 21, ocupada por Beatriz Lepletier 
 
 IX - uma função de Vulcanizador, referência 21, ocupada por Manoel Vieira da Costa, do 2º Grupo de Transporte para a Base Aérea do Galeão.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Vasco Alves Seco

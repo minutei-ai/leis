@@ -1,5 +1,3 @@
-###DEC-071941-0-000-19-03-1973@@@
-
 DECRETO Nº 71.941, DE 19 DE MARÇO DE 1973.
 
 Encampa bens e instalações que constituem a usina termo-elétrica de propriedade da UTE - Serviços de Eletricidade S.A., situada no município de Tubarão, SC.

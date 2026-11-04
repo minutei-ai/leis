@@ -1,5 +1,3 @@
-###DEC-057922-0-000-04-03-1966@@@
-
 decreto nº 57.922, de 4 de março de 1966.
 
 Autoriza a Companhia Brasileira do Cobre a pesquisar minério de cobre, no Município de Caçapava do Sul, Estado do Rio de Janeiro.

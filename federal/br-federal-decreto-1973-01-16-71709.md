@@ -1,5 +1,3 @@
-###DEC-071709-0-000-16-01-1973@@@
-
 DECRETO nº 71.709, DE 16 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Escola Superior de Educação Física de Avaré, mantida pela Fundação Regional Educacional de Avaré, Avaré, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-070355-0-000-03-04-1972@@@
-
 DECRETO Nº 70.355, DE 3 DE ABRIL DE 1972.
 
 Cria o Parque Nacional da Serra da Canastra, no Estado de Minas Gerais, com os limites que especifica, e dá outras providências.

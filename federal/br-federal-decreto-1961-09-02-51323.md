@@ -1,5 +1,3 @@
-###DEC-051323-0-000-02-09-1961@@@
-
 DECRETO Nº 51.323, DE 2 DE SETEMBRO DE 1961.
 
 Extingue o Comando da Guarnição com sede no Quartel Central.

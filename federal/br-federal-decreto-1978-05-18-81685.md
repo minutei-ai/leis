@@ -1,5 +1,3 @@
-###DEC-081685-0-000-18-05-1978@@@
-
 Decreto nº 81.685, de 18 de maio de 1978
 
 Concede reconhecimento ao curso  de Ciências Biológicas da Faculdade de Filosofia, Ciências, e Letras "Eugênio  Pacelli" , com sede na cidade de Pouso Alegre, Estado de Minas Gerais.

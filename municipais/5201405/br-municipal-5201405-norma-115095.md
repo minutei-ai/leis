@@ -12,5 +12,6 @@ VI- que os cargos da diretoria da entidade não sejam remunerados, exceto no cas
 
 Art. 2º Esta Lei entra em vigor na data de sua publicação, revogando disposições em contrário. MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 25 de Maio de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

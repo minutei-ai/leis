@@ -1,5 +1,3 @@
-###DEC-088146-0-000-03-03-1983@@@
-
 Decreto nº 88.146, de 03 de março de 1983.
 
 Altera o Decreto nº 85.881, de 8 de abril de 1981, que dispõe sobre a recondução de membro do Conselho Federal de Cultura.

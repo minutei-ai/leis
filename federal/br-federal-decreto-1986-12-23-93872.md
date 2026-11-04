@@ -1,5 +1,3 @@
-###DEC-093872-0-000-23-12-1986@@@
-
 DECRETO Nº 93.872, DE 23 DE DEZEMBRO DE 1986
 
 Dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente e dá outras providências.

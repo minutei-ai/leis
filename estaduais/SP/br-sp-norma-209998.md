@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209998)<br>
-
 # DECRETO N° 68.882, DE 18 DE SETEMBRO DE 2024
 
 ### _Dá a denominação "Escola Técnica Estadual - ETEC de Heliópolis - Arquiteto Ruy Ohtake" à Escola Técnica Estadual - ETEC de Heliópolis, localizada no Município de São Paulo._

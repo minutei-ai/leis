@@ -1,5 +1,3 @@
-###DEC-079302-0-000-24-02-1977@@@
-
 DECRETO Nº 79.302, DE 24 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento a curso de Ciências Econômicas do Instituto de Filosofia e Ciências Humanas da Universidade Estadual de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

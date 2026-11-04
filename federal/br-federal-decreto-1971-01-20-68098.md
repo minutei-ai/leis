@@ -1,5 +1,3 @@
-###DEC-068098-0-000-20-01-1971@@@
-
 DECRETO Nº 68.098, DE 20 DE JANEIRO DE 1971.
 
 Declara de utilidade pública, o Patronato Agrícola e Industrial Patrocínio Dias Ferreira, com sede em Caçapava do Sul, Estado do Rio Grande do Sul.

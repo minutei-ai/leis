@@ -1,5 +1,3 @@
-###DEC-081861-0-000-27-06-1978@@@
-
 DECRETO Nº 81.861, DE 27 DE JUNHO DE 1978.
 
 Concede à companhia Baiana de Pesquisa Mineral - CBPM o direito de lavrar quartzo no Município de Sento Sé, Estado da Bahia.

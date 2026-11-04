@@ -1,5 +1,3 @@
-###DEC-001321-0-000-30-11-1994@@@
-
 DECRETO Nº 1.321, DE 30 DE NOVEMBRO DE 1994
 
 Dispõe sobre redução de alíquotas do Imposto sobre Produtos Industrializados incidente sobre veículos populares e estabelece condições para sua comercialização.

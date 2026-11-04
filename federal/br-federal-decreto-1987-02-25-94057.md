@@ -1,5 +1,3 @@
-###DEC-094057-0-000-25-02-1987@@@
-
 DECRETO N° 94.057, DE 25 DE FEVEREIRO DE 1987
 
 Dispõe sobre a Embaixada do Brasil em Saint John's, Antígua e Barbuda, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001923-0-000-06-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.923, DE 6 DE OUTUBRO DE 1999.
 
 Institui o Programa de Recuperação Fiscal - REFIS.

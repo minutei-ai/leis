@@ -1,5 +1,3 @@
-###DEC-057450-0-000-16-12-1965@@@
-
 decreto nº 57.450, de 16 de dezembro de 1965.
 
 Declara de utilidade pública, para os fins de desapropriação, imóvel no Estado do Paraná.
@@ -23,8 +21,6 @@ Brasília, 16 de dezembro de 1965; 144º da Independência e 77º da República.
 H.CASTELO BRANCO
 
 Newton Tornaghi
-
-###DEC-057450-0-000-16-12-1965@@@RET01+++
 
 decreto nº 57.450, de 16 de dezembro de 1965.
 

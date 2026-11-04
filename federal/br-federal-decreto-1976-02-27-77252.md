@@ -1,5 +1,3 @@
-###DEC-077252-0-000-27-02-1976@@@
-
 DECRETO Nº 77.252, DE 27 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Engenharia Elétrica, da Faculdade de Engenharia General Roberto Lisboa, das Faculdades Reunidas Nuno Lisboa, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-091168-0-000-22-03-1985@@@
-
 DECRETO Nº 91.168, de 22 de março de 1985
 
 Autoriza a Federação dos Trabalhadores nas Indústrias Urbanas no Estado de Minas Gerais a filiar-se à Federação Internacional dos Sindicatos de Trabalhadores nas Indústrias Químicas, Energéticas e Diversas.

@@ -1,5 +1,3 @@
-###DEL-005931-0-000-26-10-1943@@@
-
 DECRETO‑LEI N. 5.931 – DE 26 De ouTubro DE 1943
 
 Cria função gratificada no Quadro Permanente do Ministério da Fazenda, e dá outras providências

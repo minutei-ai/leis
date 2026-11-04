@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211839)<br>
-
 # LEI N° 18.333, DE 14 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 282/2024, do Deputado Barros Munhoz - PSDB)

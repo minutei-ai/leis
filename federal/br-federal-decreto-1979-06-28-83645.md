@@ -1,5 +1,3 @@
-###DEC-083645-0-000-28-06-1979@@@
-
 Decreto nº 83.645, de 28 de junho de 1979.
 
 Autoriza a cessão, sob forma de utilização gratuita, do imóvel que menciona, situado no Município de Cajuru, Estado de São Paulo.

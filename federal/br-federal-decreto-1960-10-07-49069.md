@@ -1,5 +1,3 @@
-###DEC-049069-0-000-07-10-1960@@@
-
 DECRETO Nº 49.069, de 7 de outubro de 1960.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a ampliar as suas instalações de produção de energia elétrica.

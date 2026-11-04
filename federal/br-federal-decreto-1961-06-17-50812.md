@@ -1,5 +1,3 @@
-###DEC-050812-0-000-17-06-1961@@@
-
 DECRETO Nº 50.812, DE 17 DE JULHO DE 1961.
 
 Disciplina a participação de menores de 18 anos em programas de rádio e de televisão com objetos polêmicos e de críticas.

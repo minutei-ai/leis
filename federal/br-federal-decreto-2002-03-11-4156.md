@@ -1,5 +1,3 @@
-###DEC-004156-0-000-11-03-2002@@@
-
 DECRETO Nº 4.156, DE 11 DE MARÇO DE 2002
 
 Regulamenta a Medida Provisória nº 2.212, de 30 de agosto de 2001, que cria o Programa de Subsídio à Habitação de Interesse Social – PSH e dá outras providências.

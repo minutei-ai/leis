@@ -1,5 +1,3 @@
-###MPV-002081-0-044-27-12-2000@@@
-
 medida provisória nº 2.081-44, de 27 de dezembro de 2000.
 
 Autoriza a União receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

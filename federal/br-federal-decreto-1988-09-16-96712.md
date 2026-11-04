@@ -1,5 +1,3 @@
-###DEC-096712-0-000-16-09-1988@@@
-
 DECRETO N° 96.712, DE 16 DE SETEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação transformadora de distribuição Estiva, da ELETROPAULO  Eletricidade de São Paulo S.A., no Estado de São Paulo.

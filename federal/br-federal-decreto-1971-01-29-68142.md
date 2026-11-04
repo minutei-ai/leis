@@ -1,5 +1,3 @@
-###DEC-068142-0-000-29-01-1971@@@
-
 DECRETO Nº 68.142, DE 29 DE JANEIRO DE 1971.
 
 Concede reconhecimento à Faculdade de Direito de Cachoeiro de Itapemirim, ES.

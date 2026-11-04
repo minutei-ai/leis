@@ -1,5 +1,3 @@
-###DEC-096827-0-000-28-09-1988@@@
-
 DECRETO N° 96.827, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à Z-PUBLICIDADE DO AMAPÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade do Macapá, Estado do Amapá.

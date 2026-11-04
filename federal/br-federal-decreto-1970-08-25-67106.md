@@ -1,5 +1,3 @@
-###DEC-067106-0-000-25-08-1970@@@
-
 decreto nº 67.106, de 25 de agôsto de 1970.
 
 Declara de utilidade pública o Hospital, Casa de Caridade de Ouro Fino, com sede em Ouro Fino, Estado de Minas Gerais.

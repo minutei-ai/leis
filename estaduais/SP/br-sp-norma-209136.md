@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209136)<br>
-
 # DECRETO N° 68.343, DE 29 DE FEVEREIRO DE 2024
 
 ### _Institui a "Medalha Centenário da Academia de Polícia Dr. Coriolano Nogueira Cobra" e dá providências correlatas._

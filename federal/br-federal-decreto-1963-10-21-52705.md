@@ -1,5 +1,3 @@
-###DEC-052705-0-000-21-10-1963@@@
-
 DECRETO Nº 52.705, DE 21 DE OUTUBRO DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio de Janeiro a construir linha de transmissão.

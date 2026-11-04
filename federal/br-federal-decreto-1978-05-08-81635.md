@@ -1,5 +1,3 @@
-###DEC-081635-0-000-08-05-1978@@@
-
 decreto nº 81.635, de 08 de maio de 1978.
 
 Cargos privativos de Oficial-General do Exército em tempo de paz.

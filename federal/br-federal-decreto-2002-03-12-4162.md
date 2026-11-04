@@ -1,5 +1,3 @@
-###DEC-004162-0-000-12-03-2002@@@
-
 DECRETO Nº 4.162, DE 12 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Décimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, (MERCOSUL), e o Governo da República da Bolívia, de 31 de dezembro de 2001.

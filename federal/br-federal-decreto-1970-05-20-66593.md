@@ -1,5 +1,3 @@
-###DEC-066593-0-000-20-05-1970@@@
-
 decreto nº 66.593, de 20 de maio de 1970.
 
 Outorga à Centrais Elétricas de São Paulo S.A. concessão para o aproveitamento hidráulico de um trecho do rio Jaguari, no município de Jacarei, Estado de São Paulo.

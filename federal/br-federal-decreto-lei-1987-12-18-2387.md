@@ -1,7 +1,3 @@
-1
-
-###DEL-002387-0-000-18-12-1987@@@
-
 # DECRETO-LEI Nº 2.387, DE 18 DE DEZEMBRO DE 1987.
 
 Dispõe sobre a Gratificação por Operações Especiais, instituída pelo Decreto-lei nº 1.727, de 10 de dezembro de 1979.

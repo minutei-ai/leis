@@ -1,7 +1,3 @@
-1
-
-###MPV-001319-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.319, DE 9 DE FEVEREIRO DE 1996.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, e dá outras providências.

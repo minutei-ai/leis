@@ -16,7 +16,21 @@ SITUAÇÃO ATUAL
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td>LOTE 01 – PARTE 01</td><td>95,87</td></tr><tr><td>LOTE 01 – PARTE 02</td><td>156,30</td></tr><tr><td>LOTE 01 – PARTE 03</td><td>1.433,27</td></tr></tbody></table>
+**IMÓVEL**
+
+ÁREA (m²)
+
+LOTE 01 – PARTE 01
+
+95,87
+
+LOTE 01 – PARTE 02
+
+156,30
+
+LOTE 01 – PARTE 03
+
+1.433,27
 
 Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2020.090.778, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -24,8 +38,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogando
 
 Aparecida de Goiânia, Estado de Goiás, aos 29 de maio de 2024.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

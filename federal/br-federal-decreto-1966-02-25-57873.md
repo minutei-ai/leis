@@ -1,5 +1,3 @@
-###DEC-057873-0-000-25-02-1966@@@
-
 DECRETO Nº 57.873, DE 25 DE FEVEREIRO DE 1966.
 
 Outorga à Centrais Elétricas de Minas Gerais, S. A. concessão para distribuir energia elétrica.

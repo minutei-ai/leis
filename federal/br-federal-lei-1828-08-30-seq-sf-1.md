@@ -1,5 +1,3 @@
-###LEI-000000-0-001-30-08-1828@@@
-
 LEI - DE 30 DE AGOSTO DE 1828
 
 Declara os casos, em que se póde proceder á prisão por crimes, sem culpa formada.

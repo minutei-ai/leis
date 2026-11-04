@@ -1,5 +1,3 @@
-###DEC-095000-0-000-05-10-1987@@@
-
 DECRETO Nº 95.000, DE 5 DE OUTUBRO DE 1987
 
 Aprova a alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

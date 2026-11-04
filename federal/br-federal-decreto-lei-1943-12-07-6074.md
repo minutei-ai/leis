@@ -1,5 +1,3 @@
-###DEL-006074-0-000-07-12-1943@@@
-
 DECRE TO‑LEI N. 6.074 – DE 7 DE DEZEMBRO DE 1943
 
 Dispõe sôbre a finalidade do Instituto Nacional de Surdos‑Mudos e dá outras, providências
@@ -34,7 +32,17 @@ IV ‑ registo de diplomas relativos aos cursos referidos no item anterior.
 
 Art. 4º Ficam criadas no I.N.S.M. as seguintes funções:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:21.3pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:457.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 de chefe da Secção Escolar com a gratificação anual de</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Cr$ 5.400,00</span></p></td></tr><tr><td style="width:457.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 de chefe da Secção Clínica e de Pesquisas Médico</span><span>‑</span><span>Pedagógicas, com a gratificação anual de.......................................................................................................................................</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Cr$ 5.400,00</span></p></td></tr><tr><td style="width:457.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 de chefe da Secção de Administração, com a gratificação anual de.............................</span><span style="width:4.75pt; display:inline-block">&nbsp;</span><span>Cr$ 4.200,00</span></p></td></tr><tr><td style="width:457.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 de Secretário do Diretor, com a gratificação anual de...................................................</span><span style="width:5.9pt; display:inline-block">&nbsp;</span><span>Cr$ 4.200,00</span></p></td></tr><tr><td style="width:457.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 de chefe de disciplina, com a gratificação anual de.......................................................</span><span style="width:4.77pt; display:inline-block">&nbsp;</span><span>Cr$ 4.200,00</span></p></td></tr><tr><td style="width:457.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 de chefe de Zeladoria, com a gratificação anual de........................................................</span><span style="width:1.44pt; display:inline-block">&nbsp;</span><span>Cr$ 3.000,00</span></p></td></tr></tbody></table>
+1 de chefe da Secção Escolar com a gratificação anual de                                               Cr$ 5.400,00
+
+1 de chefe da Secção Clínica e de Pesquisas Médico‑Pedagógicas, com a gratificação anual de.......................................................................................................................................              Cr$ 5.400,00
+
+1 de chefe da Secção de Administração, com a gratificação anual de............................. Cr$ 4.200,00
+
+1 de Secretário do Diretor, com a gratificação anual de................................................... Cr$ 4.200,00
+
+1 de chefe de disciplina, com a gratificação anual de....................................................... Cr$ 4.200,00
+
+1 de chefe de Zeladoria, com a gratificação anual de........................................................ Cr$ 3.000,00
 
 Art. 5º Êste decreto‑lei entrará em vigor em 1 de janeiro de 1944, revogadas as disposições em contrário.
 

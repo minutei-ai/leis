@@ -1,5 +1,3 @@
-###MPV-000109-0-000-11-03-2003@@@
-
 MEDIDA PROVISÓRIA Nº 109, DE 11 DE MARÇO 2003.
 
 Autoriza o Poder Executivo a conceder subvenção econômica à Companhia de Navegação do São Francisco - FRANAVE.

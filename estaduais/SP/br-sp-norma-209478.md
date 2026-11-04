@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209478)<br>
-
 # DECRETO N° 68.538, DE 22 DE MAIO DE 2024
 
 ### _Institui o Plano São Paulo na Direção Certa, que dispõe sobre diretrizes e ações a serem implementadas para modernização da Administração Pública estadual, expansão do investimento, eficiência do gasto público e redução de despesas correntes, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Disposições Preliminares
 
 **Artigo 1° -** Fica instituído o Plano São Paulo na Direção Certa, no âmbito do Poder Executivo, a ser implementado pelos órgãos e entidades da Administração Pública direta, das autarquias, das fundações instituídas ou mantidas pelo Poder Público e das empresas estatais dependentes, visando à expansão do investimento, eficiência do gasto público, redução de despesas correntes e modernização da Administração Pública estadual.
@@ -27,7 +26,8 @@ III - Modernização da Administração Pública.
 
 **Parágrafo único -** A implementação do Plano de que trata o artigo 1° deste decreto abrangerá ações articuladas com as demais políticas estaduais e poderá envolver celebração de parcerias ou instrumentos jurídicos congêneres com entidades públicas ou privadas, nacionais ou estrangeiras, outros Poderes, esferas e órgãos autônomos, com vistas ao atingimento de melhores níveis de eficiência e qualidade.
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Do Conselho Gestor do Plano São Paulo na Direção Certa
 
 **Artigo 4° -** Fica instituído o Conselho Gestor do Plano São Paulo na Direção Certa, órgão colegiado de caráter deliberativo, com o objetivo de coordenar e monitorar o cumprimento das disposições de que trata este decreto.
@@ -54,7 +54,8 @@ V - Procuradora Geral do Estado.
 
 **§ 5° -** A Assessoria Técnica para o Plano de Metas da Casa Civil exercerá a Secretaria Executiva do Conselho Gestor.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Expansão de Investimentos
 
 **Artigo 6° -** A Expansão de Investimentos dar-se-á por iniciativas de qualificação da infraestrutura, ampliação e contínua melhoria do ambiente de negócios no Estado de São Paulo, garantidas a ampla competitividade, a estabilidade regulatória, a previsibilidade institucional e a segurança jurídica, incluindo, ao menos:
@@ -83,10 +84,12 @@ V - a alienação de ativos imobiliários.
 
 **Artigo 7° -** Os resultados de programas de conformidade e de transação tributária serão informados, mensalmente, ao Conselho Gestor do Plano São Paulo na Direção Certa.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Da Redução de Despesas Correntes e da Melhoria e Efetividade do Gasto
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Gerais  
 
 **Artigo 8° -** A redução de despesas correntes e a melhoria e efetividade do gasto visando à ampliação de investimentos nas áreas essenciais, abrangerá, ao menos:
@@ -103,7 +106,8 @@ V - a avaliação de benefícios fiscais.
 
 **Parágrafo único -** Cabe à Secretaria da Fazenda e Planejamento a apresentação, ao governador, no prazo de 90 (noventa) dias contados da publicação deste decreto, dos estudos técnicos e respectivas propostas relativos ao disposto nos itens III a V deste artigo.
 
-#### Seção II<br>
+#### Seção II
+
 Da Redução de Despesas Correntes
 
 **Artigo 9° -** Os órgãos e as entidades deverão adotar medidas para redução de despesas correntes.
@@ -144,7 +148,8 @@ XIII - pagamento de diárias.
 
 **Artigo 11 -** Cabe à Casa Civil editar normas complementares necessárias à execução do previsto nesta seção.
 
-#### Seção III<br>
+#### Seção III
+
 Do Sistema de Avaliação da Qualidade do Gasto
 
 **Artigo 12 -** Fica instituído o Sistema de Avaliação da Qualidade do Gasto, com o objetivo de:
@@ -213,7 +218,8 @@ IV - informar, anualmente, à Secretaria da Fazenda e Planejamento, sobre as ava
 
 **Artigo 17 -** A Controladoria Geral do Estado poderá acompanhar as avaliações, podendo indicar serviços públicos prestados ao cidadão que sejam de interesse para avaliação, em razão de resultado ou achado de auditoria.
 
-#### Capítulo V<br>
+#### Capítulo V
+
 Da Modernização Administrativa  
 
 **Artigo 18 -** A modernização administrativa dar-se-á pela atualização do modelo de gestão da Administração Pública estadual, incluindo, ao menos:
@@ -236,7 +242,8 @@ VII - a automação de procedimentos e serviços, em linha com a disciplina inst
 
 **§ 2° -** Cabe à Secretaria de Gestão e Governo Digital a elaboração dos estudos técnicos e respectivas propostas necessários ao atendimento do disposto nos incisos II a VII deste artigo, submetendo-os ao Conselho Gestor do Plano São Paulo na Direção Certa, no prazo de 90 (noventa) dias contados da edição deste decreto.
 
-#### Capítulo VI<br>
+#### Capítulo VI
+
 Disposições finais
 
 **Artigo 19 -** As Secretarias poderão apresentar ao Conselho Gestor outras medidas para implementação do Plano São Paulo na Direção Certa.

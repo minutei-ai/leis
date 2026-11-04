@@ -1,5 +1,3 @@
-###DEC-076123-0-000-13-08-1975@@@
-
 DECRETO Nº 76.123 - DE 13 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Letras da Faculdade de Educação, Ciências e Letras "Urubupungá", mantida pela Associação de Ensino e Cultura "Urubupungá", com sede na cidade de Pereira Barreto, Estado de São Paulo.

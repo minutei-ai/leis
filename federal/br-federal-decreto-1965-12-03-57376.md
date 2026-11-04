@@ -1,5 +1,3 @@
-###DEC-057376-0-000-03-12-1965@@@
-
 Decreto nº 57.376, de 3 de dezembro de 1965.
 
 Concede à sociedade Librairie Hachette S. A., do Brasil autorização para continuar a funcionar na República.

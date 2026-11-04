@@ -1,5 +1,3 @@
-###DEC-050528-0-000-03-05-1961@@@
-
 DECRETO Nº 50.528, DE 3 DE MAIO DE 1961.
 
 Declara emancipado o Núcleo Colonial Tinguá e dá outras providências.

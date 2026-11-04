@@ -1,5 +1,3 @@
-###DEC-078341-0-000-31-08-1976@@@
-
 DECRETO Nº 78.341, DE 31 DE AGOSTO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Ciências e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Registro, com sede na cidade de Registro, Estado de São Paulo.

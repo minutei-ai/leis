@@ -1,5 +1,3 @@
-###DEC-073030-0-000-30-10-1973@@@
-
 DECRETO Nº 73.030, de 30 DE OUTUBRO DE 1973.
 
 Cria, no âmbito do Ministério do Interior, a Secretaria Especial do Meio Ambiente - SEMA, e da outras providências.

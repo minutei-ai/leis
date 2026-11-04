@@ -1,5 +1,3 @@
-###DEL-005303-0-000-04-03-1943@@@
-
 DECRETO‑LEI N. 5.303 – DE 4 DE MARÇO DE 1943
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 23.212,00 (vinte a três mil duzentos e doze cruzeiros), para pagamento das van­tagens (Pessoal) que indica

@@ -1,5 +1,3 @@
-###DEC-049266-0-000-17-11-1960@@@
-
 decreto nº 49.266, de 17 de novembro de 1960.
 
 Declara sem efeito o Decreto número 46.605, de 14 de agôsto de 1959.

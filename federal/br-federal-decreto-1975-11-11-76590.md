@@ -1,5 +1,3 @@
-###DEC-076590-0-000-11-11-1975@@@
-
 DECRETO Nº 76.590, DE 11 DE NOVEMBRO DE 1975.
 
 Dispõe sobre os Sistemas Integrados de Transportes Aéreo Regional e dá outras providências.

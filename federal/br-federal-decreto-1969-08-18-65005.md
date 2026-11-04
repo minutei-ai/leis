@@ -1,5 +1,3 @@
-###DEC-065005-0-000-18-08-1969@@@
-
 DECRETO Nº 65.005 - DE 18 DE AGÔSTO DE 1969.
 
 Regulamenta as operações para a pesca comercial.

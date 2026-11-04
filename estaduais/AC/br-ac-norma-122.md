@@ -1,6 +1,10 @@
 > **LEI Nº 3.630, DE 26 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação de regime remuneratório específico, transitório e facultativo, destinados aos servidores mencionados no Anexo II da Lei n° 3.231, de 15 de março de 2017, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração do quadro da Secretaria de Estado da Casa Civil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação de regime remuneratório específico, transitório e facultativo, destinados aos servidores mencionados no Anexo II da Lei n° 3.231, de 15 de março de 2017, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração do quadro da Secretaria de Estado da Casa Civil.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

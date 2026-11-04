@@ -1,5 +1,3 @@
-###MPV-001987-0-031-08-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-31, DE 8 de JUNHO de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

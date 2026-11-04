@@ -1,5 +1,3 @@
-###DEC-090203-0-000-17-09-1984@@@
-
 Decreto nº 90.203, de 17 de setembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

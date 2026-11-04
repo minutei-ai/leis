@@ -1,5 +1,3 @@
-###DEL-009175-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.175 – DE 15 DE ABRIL DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Sociedade União Internacional Protetora dos Animais, do pagamento do impôsto que menciona.

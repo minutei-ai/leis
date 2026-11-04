@@ -1,5 +1,3 @@
-###DEC-052842-0-000-18-11-1963@@@
-
 DECRETO Nº 52.842, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a construir linha de transmissão.

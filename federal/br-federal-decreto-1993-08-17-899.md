@@ -1,7 +1,3 @@
-1
-
-###DEC-000899-0-000-17-08-1993@@@
-
 DECRETO N° 899, DE 17 DE AGOSTO DE 1993
 
 Dispõe sobre a Zona de Processamento de Exportação de São Luís, no Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-076955-0-000-30-12-1975@@@
-
 DECRETO Nº 76.955, DE 30 DE DEZEMBRO DE 1975.
 
 Concede a Polyenka S. A. Indústria Química e Textil, autorização para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento industrial que menciona.

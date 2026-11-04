@@ -1,5 +1,3 @@
-###DEC-094190-0-000-06-04-1987@@@
-
 DECRETO Nº 94.190, DE 6 DE ABRIL DE 1987
 
 Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS e suas controladas a promoverem aumento de capital social.

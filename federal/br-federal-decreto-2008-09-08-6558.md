@@ -1,5 +1,3 @@
-###DEC-006558-0-000-08-09-2008@@@
-
 DECRETO Nº 6.558, DE 8 DE SETEMBRO DE 2008.
 
 Institui a hora de verão em parte do território nacional.

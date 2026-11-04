@@ -1,5 +1,3 @@
-###DEC-057814-0-000-15-02-1966@@@
-
 DECRETO nº 57.814, DE 15 DE FEVEREIRO DE 1966.
 
 Fixa a composição da Delegação Brasileira na Comissão Mista Executora do Acôrdo Brasil - Estados Unidos sôbre Serviços Cartográficos, define sua vinculação com Órgãos do Govêrno Brasileiro e dá outras providências.
@@ -51,8 +49,6 @@ Ney Braga
 Eduardo Gomes
 
 Osvaldo Cordeiro de Farias
-
-###DEC-057814-0-000-15-02-1966@@@RET01+++
 
 DECRETO Nº 57.814, DE 15 DE FEVEREIRO DE 1966.
 

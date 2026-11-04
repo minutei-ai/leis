@@ -1,7 +1,3 @@
-1
-
-###MPV-001193-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.193, DE 24 DE NOVEMBRO DE 1995.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

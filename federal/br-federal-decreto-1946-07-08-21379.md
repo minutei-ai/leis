@@ -1,26 +1,24 @@
-###DEC-021379-0-000-08-07-1946@@@
+**DECRETO Nº 21.379, DE 8 JULHO DE 1946.**
 
-<strong>DECRETO Nº 21.379, DE 8 JULHO DE 1946.</strong>
+***Concede à sociedade anônima “Koninklijke Luchtvaart Maatschappij voor Nederland en Kolonien N. V” autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “Koninklijke Luchtvaart Maatschappij voor Nederland en Kolonien N. V” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima *“Koninklijke Luchatvaart Maatschappig voor Nederland en Kolonien N.V”,*
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima <em>“Koninklijke Luchatvaart Maatschappig voor Nederland en Kolonien N.V”,</em>
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade <em>“Koninklijke Luchtvaart Maatschappig voor Nederland en Kolonien N.V”,</em> com sede na cidade de Haia, Holanda, autorização para funcionar na República, com o capital de Cr$500.000,00 (quinhentos mil cruzeiros) e os estatutos que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade *“Koninklijke Luchtvaart Maatschappig voor Nederland en Kolonien N.V”,* com sede na cidade de Haia, Holanda, autorização para funcionar na República, com o capital de Cr$500.000,00 (quinhentos mil cruzeiros) e os estatutos que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 8 de julho de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Octacilio Negrão de Lima.
 
-<strong>CLÁUSULAS QUE ACOPANHAM O DECRETO Nº 21.379, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOPANHAM O DECRETO Nº 21.379, DESTA DATA**
 
 I
 
-A sociedade <em>“Koninklijke Lucchtvaart Maatshappig voor Nederland en Kolonien N.V</em>” é obrigada a ter permanentemente um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer com o Govêrno, quer com particulares, podendo ser, demandado e receber citação inicial pela Sociedade.
+A sociedade *“Koninklijke Lucchtvaart Maatshappig voor Nederland en Kolonien N.V*” é obrigada a ter permanentemente um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer com o Govêrno, quer com particulares, podendo ser, demandado e receber citação inicial pela Sociedade.
 
 II
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para qual não esteja cominada pena espe
 
 Rio de Janeiro, 8 de julho de 1946,
 
-<strong>OCTACÍLIO NEGRÃO DE LIMA</strong>
+**OCTACÍLIO NEGRÃO DE LIMA**

@@ -1,7 +1,3 @@
-1
-
-###DEL-001910-0-000-29-12-1981@@@
-
 # DECrETO-Lei nº 1.910, de 29 de dezembro de 1981.
 
 Dispõe sobre contribuições para o custeio da Previdência Social e dá outras providências.

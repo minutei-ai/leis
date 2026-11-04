@@ -1,5 +1,3 @@
-###DEC-082508-0-000-27-10-1978@@@
-
 Decreto nº 82.508, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro José Lopes da Silva pelo Decreto nº 44.991, de 02 de dezembro de 1958.

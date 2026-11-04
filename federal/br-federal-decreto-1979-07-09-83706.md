@@ -1,5 +1,3 @@
-###DEC-083706-0-000-09-07-1979@@@
-
 Decreto nº 83.706, de 09 de julho de 1979.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Industrial de Juiz de Fora Ltda. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Juiz de Fora, Estado de Minas Gerais.

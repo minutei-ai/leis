@@ -18,24 +18,338 @@ QUADRO 1
 
 SUPLEMENTAÇÃO
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 703px;"><tbody><tr><td style="   width: 697px;  height: 19px;"><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width: 697px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 781 1055 2537</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 760.978,27</td><td style=" width:85px;    ">R$ 760.978,27</td></tr><tr><td style=" width:85px;    ">PAVIMENTAÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 3317</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 305.997,13</td><td style=" width:85px;    ">R$ 8.869.467,42</td><td style=" width:85px;    ">R$ 9.175.464,55</td></tr><tr><td style=" width:85px;    ">PAVIMENTAÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 3317</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.000.000,00</td><td style=" width:85px;    ">R$ 2.000.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1055 2536</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.040.000,00</td><td style=" width:85px;    ">R$ 8.165.125,62</td><td style=" width:85px;    ">R$ 9.205.125,62</td></tr></tbody></table>
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 707px;"><tbody><tr><td style="   width: 701px;  height: 19px;"><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 708px;"><tbody><tr><td style=" width:340px;  height:19px;   ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width: 359px;  height: 19px;   ">R$ 760.978,27</td></tr><tr><td style=" width:340px;    ">17520125 - RECURSOS VINCULADOS AO TRÂNSITO</td><td style=" width: 359px;    ">R$ 8.869.467,42</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width: 359px;    ">R$ 10.165.125,62</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width: 359px;    ">R$ 19.795.571,31</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO
+
+26 781 1055 2537
+
+15010220
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 760.978,27
+
+R$ 760.978,27
+
+PAVIMENTAÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO
+
+26 782 1055 3317
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 305.997,13
+
+R$ 8.869.467,42
+
+R$ 9.175.464,55
+
+PAVIMENTAÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO
+
+26 782 1055 3317
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.000.000,00
+
+R$ 2.000.000,00
+
+GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO
+
+15 451 1055 2536
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.040.000,00
+
+R$ 8.165.125,62
+
+R$ 9.205.125,62
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 760.978,27
+
+17520125 - RECURSOS VINCULADOS AO TRÂNSITO
+
+R$ 8.869.467,42
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 10.165.125,62
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 19.795.571,31
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 709px;"><tbody><tr><td style="   width: 704px;  height: 19px;"><b>REDUÇÃO</b></td></tr><tr><td style=" width: 704px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 712px;"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width: 95px;  height: 19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2540</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 255.050,00</td><td style=" width:85px;    ">R$ 210.476,10</td><td style=" width: 95px;    ">R$ 210.476,10</td></tr><tr><td style=" width:85px;    ">CONSERVAÇÃO DE SINALIZAÇÃO VIÁRIA PELA GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2534</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 658.991,32</td><td style=" width:85px;    ">R$ 658.991,32</td><td style=" width: 95px;    ">R$ 658.991,32</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DO ANEL VIÁRIO NO MUNICÍPIO DE JARAGUÁ-GO</td><td style=" width:85px;    ">26 782 1055 3339</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width: 95px;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:85px;    ">HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 781 1055 2537</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 628.000,00</td><td style=" width:85px;    ">R$ 628.000,00</td><td style=" width: 95px;    ">R$ 628.000,00</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DA TERCEIRA FAIXA NA GO-080 NO TRECHO QUE LIGA GOIANÉSIA E JARAGUÁ</td><td style=" width:85px;    ">26 782 1055 3342</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width: 95px;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:85px;    ">PAVIMENTAÇÃO ASFÁLTICA NO MUNICÍPIO DE SANTO ANTÔNIO DO DESCOBERTO</td><td style=" width:85px;    ">26 782 1055 3341</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 5.000.000,00</td><td style=" width:85px;    ">R$ 5.000.000,00</td><td style=" width: 95px;    ">R$ 5.000.000,00</td></tr><tr><td style=" width:85px;    ">MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2540</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 135.200,00</td><td style=" width:85px;    ">R$ 132.978,27</td><td style=" width: 95px;    ">R$ 132.978,27</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE CICLOVIA ENTRE O INSTITUTO FEDERAL GOIANO - IFG CAMPUS CERES ATÉ O MUNICÍPIO DE CERES</td><td style=" width:85px;    ">26 782 1055 3340</td><td style=" width:85px;    ">17520125</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width: 95px;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 929.182,32</td><td style=" width:85px;    ">R$ 929.182,32</td><td style=" width: 95px;    ">R$ 929.182,32</td></tr><tr><td style=" width:85px;    ">HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 781 1055 2537</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 7.735.943,30</td><td style=" width:85px;    ">R$ 7.735.943,30</td><td style=" width: 95px;    ">R$ 7.735.943,30</td></tr><tr><td style=" width:85px;    ">AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE EDIFICAÇÕES PÚBLICAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1003 3289</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.500.000,00</td><td style=" width:85px;    ">R$ 1.500.000,00</td><td style=" width: 95px;    ">R$ 1.500.000,00</td></tr></tbody></table>
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:340px;  height:19px;   ">R$ 760.978,27</td></tr><tr><td style=" width:340px;    ">17520125 - RECURSOS VINCULADOS AO TRÂNSITO</td><td style=" width:340px;    ">R$ 8.869.467,42</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 10.165.125,62</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 19.795.571,31</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:340px;  height:19px;   ">R$ 760.978,27</td></tr><tr><td style=" width:340px;    ">17520125 - RECURSOS VINCULADOS AO TRÂNSITO</td><td style=" width:340px;    ">R$ 8.869.467,42</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 10.165.125,62</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 19.795.571,31</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2540
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 255.050,00
+
+R$ 210.476,10
+
+R$ 210.476,10
+
+CONSERVAÇÃO DE SINALIZAÇÃO VIÁRIA PELA GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2534
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 658.991,32
+
+R$ 658.991,32
+
+R$ 658.991,32
+
+CONSTRUÇÃO DO ANEL VIÁRIO NO MUNICÍPIO DE JARAGUÁ-GO
+
+26 782 1055 3339
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO
+
+26 781 1055 2537
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 628.000,00
+
+R$ 628.000,00
+
+R$ 628.000,00
+
+CONSTRUÇÃO DA TERCEIRA FAIXA NA GO-080 NO TRECHO QUE LIGA GOIANÉSIA E JARAGUÁ
+
+26 782 1055 3342
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+PAVIMENTAÇÃO ASFÁLTICA NO MUNICÍPIO DE SANTO ANTÔNIO DO DESCOBERTO
+
+26 782 1055 3341
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 5.000.000,00
+
+R$ 5.000.000,00
+
+R$ 5.000.000,00
+
+MONITORAMENTO DE FAIXAS DE ROLAMENTO - GOINFRA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2540
+
+15010220
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 135.200,00
+
+R$ 132.978,27
+
+R$ 132.978,27
+
+CONSTRUÇÃO DE CICLOVIA ENTRE O INSTITUTO FEDERAL GOIANO - IFG CAMPUS CERES ATÉ O MUNICÍPIO DE CERES
+
+26 782 1055 3340
+
+17520125
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 929.182,32
+
+R$ 929.182,32
+
+R$ 929.182,32
+
+HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO
+
+26 781 1055 2537
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 7.735.943,30
+
+R$ 7.735.943,30
+
+R$ 7.735.943,30
+
+AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE EDIFICAÇÕES PÚBLICAS - GOIÁS EM MOVIMENTO
+
+15 451 1003 3289
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.500.000,00
+
+R$ 1.500.000,00
+
+R$ 1.500.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 760.978,27
+
+17520125 - RECURSOS VINCULADOS AO TRÂNSITO
+
+R$ 8.869.467,42
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 10.165.125,62
+
+**TOTAL**
+
+R$ 19.795.571,31
+
+**TOTAL POR FONTE**
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 760.978,27
+
+17520125 - RECURSOS VINCULADOS AO TRÂNSITO
+
+R$ 8.869.467,42
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 10.165.125,62
+
+**TOTAL**
+
+R$ 19.795.571,31

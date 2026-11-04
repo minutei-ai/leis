@@ -1,5 +1,3 @@
-###DEC-052981-0-000-27-11-1963@@@
-
 DECRETO Nº 52.981, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Cesar Impiglia a pesquisar quartzito e caulim no município de São Bernardo do Campo, Estado de são Paulo.

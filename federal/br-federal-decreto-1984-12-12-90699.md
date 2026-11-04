@@ -1,5 +1,3 @@
-###DEC-090699-0-000-12-12-1984@@@
-
 Decreto nº 90.699, de 12 de dezembro de 1984
 
 Dispõe sobre a vinculação do Instituto Nacional de Colonização e Reforma Agrária - INCRA ao Ministro de Estado Extraordinário para Assuntos Fundiários e dá outras providências.

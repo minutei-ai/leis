@@ -1,5 +1,3 @@
-###DEC-080434-0-000-28-09-1977@@@
-
 DECRETO Nº 80.434, DE 28 DE SETEMBRO DE 1977.
 
 Concede à A. Annunciato - Mineração Indústria e Comércio Ltda. o direito de lavrar calcário e dolomito no Município de Guarapiara, Estado de São Paulo.

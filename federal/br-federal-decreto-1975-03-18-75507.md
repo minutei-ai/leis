@@ -1,5 +1,3 @@
-###DEC-075507-0-000-18-03-1975@@@
-
 DECRETO Nº 75.507, DE 18 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do cargo de Ciências Biológicas da Faculdade de Biologia e Psicologia Maria Thereza, mantida pelo Instituto de Ciência e Tecnologia Maria Thereza, com sede na Cidade de Niterói, Estado do Rio de Janeiro.

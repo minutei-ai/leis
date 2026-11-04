@@ -1,5 +1,3 @@
-###DEC-088824-0-000-10-10-1983@@@
-
 Decreto nº 88.824, de 10 de outubro de 1983.
 
 Promulga o Acordo de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República Socialista da Romênia.
@@ -94,4 +92,20 @@ ARTIGO VIII
 
 Feito em Brasília, aos 12 dias do mês de maio de 1981, em dois exemplares originais, nas línguas portuguesa e romena, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">PELO GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">PELO GOVERNO DA REPUBLICA SOCIALISTA DA ROMÊNIA</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">(Ramiro S. Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">(Stefan Andrei)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPUBLICA SOCIALISTA DA ROMÊNIA
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Ramiro S. Guerreiro)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Stefan Andrei)
+
+</td></tr></tbody></table>

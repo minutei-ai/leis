@@ -1,5 +1,3 @@
-###DEC-061930-0-000-21-12-1967@@@
-
 DECRETO Nº 61.930, DE 21 DE DEZEMBRO DE 1967.
 
 Delega competência ao Ministro do Planejamento e Coordenação Geral:

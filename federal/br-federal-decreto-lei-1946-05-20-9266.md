@@ -1,5 +1,3 @@
-###DEL-009266-0-000-20-05-1946@@@
-
 DECRETO-LEI N. 9.266 – DE 20 DE MAIO DE 1946
 
 Modifica o Quadro dos Oficiais Generais do Exército em tempo de paz

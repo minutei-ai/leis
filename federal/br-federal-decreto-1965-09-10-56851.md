@@ -1,5 +1,3 @@
-###DEC-056851-0-000-10-09-1965@@@
-
 DECRETO Nº 56.851, DE 10 DE SETEMBRO DE 1965.
 
 Cria Comissão Especial para os fins que menciona e dá outras providências.

@@ -1,42 +1,40 @@
-###DEC-037805-0-000-26-08-1955@@@
+**DECRETO Nº 37.805, DE 26 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.805, DE 26 DE AGÔSTO DE 1955.</strong>
+***Aprova as Instruções Reguladoras do recrutamento de Médicos e Farmacêuticos para os Quadros de Oficiais Médicos e Quadro de Oficiais Farmacêutico da Aeronáutica.***
 
-<em><strong>Aprova as Instruções Reguladoras do recrutamento de Médicos e Farmacêuticos para os Quadros de Oficiais Médicos e Quadro de Oficiais Farmacêutico da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovados as Instruções Reguladoras do Recrutamento de Médicos e de Farmacêuticos para os Quadros de Oficiais-Médico e Quadro Oficiais-Farmacêutico da Aeronáutica que a êste acompanham, assinados pelo Ministro de Estados dos Negócios da Aeronáutica.
 
-<strong>Art</strong>. 1º Ficam aprovados as Instruções Reguladoras do Recrutamento de Médicos e de Farmacêuticos para os Quadros de Oficiais-Médico e Quadro Oficiais-Farmacêutico da Aeronáutica que a êste acompanham, assinados pelo Ministro de Estados dos Negócios da Aeronáutica.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de agôsto de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes
 
-<strong>INSTRUÇÕES PARA O RECRUTAMENTO DE MÉDICOS E DE FARMACÊUTICO PARA OS QUADROS DE OFICIAIS MÉDICOS E DE OFICIAIS FARMACÊUTICO DA AERONÁUTICA</strong>
+**INSTRUÇÕES PARA O RECRUTAMENTO DE MÉDICOS E DE FARMACÊUTICO PARA OS QUADROS DE OFICIAIS MÉDICOS E DE OFICIAIS FARMACÊUTICO DA AERONÁUTICA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>Art</strong>. 1º As vagas existentes no Quando de Oficiais-Médicos e no Quando- Oficiais Farmacêutico da Aeronáutica serão preenchidas pelos candidatos que, após seleção em concurso versando sôbre matérias do Curso Médico e do Curso de Farmácia, forem matriculados no Curso Especial de Saúde e o concluírem com o aproveitamento, conforme estabelecem o artigo 4º e seus parágrafos do Decreto-lei nº 3.872, de 2 de dezembro de 1945.
+**Art**. 1º As vagas existentes no Quando de Oficiais-Médicos e no Quando- Oficiais Farmacêutico da Aeronáutica serão preenchidas pelos candidatos que, após seleção em concurso versando sôbre matérias do Curso Médico e do Curso de Farmácia, forem matriculados no Curso Especial de Saúde e o concluírem com o aproveitamento, conforme estabelecem o artigo 4º e seus parágrafos do Decreto-lei nº 3.872, de 2 de dezembro de 1945.
 
 Parágrafo único. O Concurso será aberto para farmacêuticos e para médicos de especialidade necessárias ao serviço, ou para uns ou outros, de acôrdo com as vagas fixadas e com a orientação da Diretoria de Saúde da Aeronáutica.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Do Concurso de Seleção</em>
+*Do Concurso de Seleção*
 
 Condições de Inscrição
 
-<strong>Art</strong>. 2º O candidato à inscrição no concurso de que trata o artigo anterior deverá satisfazer às seguintes exigências:
+**Art**. 2º O candidato à inscrição no concurso de que trata o artigo anterior deverá satisfazer às seguintes exigências:
 
 a) ser brasileiro nato e estar no gôzo de todos os direitos civis;
 
@@ -56,13 +54,13 @@ h) apresentar títulos, trabalhos científicos publicados ou qualquer outro comp
 
 Diretrizes para o concurso
 
-<strong>Art</strong>. 3º O concurso de seleção para matrícula no Curso Especial de Saúde compreenderá provas escritas, práticas e orais sôbre assuntos peculiares às especialidades médicas dos candidatos ao Quadro de Médicos, e sôbre química farmacêutica, bromatológica, analítica e biológica para os candidatos ao Quadro de Farmacêutico.
+**Art**. 3º O concurso de seleção para matrícula no Curso Especial de Saúde compreenderá provas escritas, práticas e orais sôbre assuntos peculiares às especialidades médicas dos candidatos ao Quadro de Médicos, e sôbre química farmacêutica, bromatológica, analítica e biológica para os candidatos ao Quadro de Farmacêutico.
 
 § 1º O Diretor do Curso e a Comissão Examinadora nomeada pelo Diretor-Geral de Saúde de Aeronáutica, organizarão os pontos que hão de entrar no sorteio para as diferentes provas do concurso.
 
 § 2º A duração de cada prova será fixada pela Comissão Examinadora.
 
-<strong>Art</strong>. 4º As provas escritas obedecerão as seguintes normas:
+**Art**. 4º As provas escritas obedecerão as seguintes normas:
 
 a) Durante a prova os candidatos não poderão utilizar livros, apontamentos e outras fontes de consulta, a não ser quando distríbuidos ou permitidos pela Comissão Examinadora;
 
@@ -84,13 +82,13 @@ g) Concluídos os trabalhos referentes a cada a cada prova, o membro menos gradu
 
 § 3º A duração da prova escrita será de três horas, no máximo.
 
-<strong>Art</strong>. 5º A prova prática constará de demonstração ou aplicação de conhecimentos práticos e da respectiva argüição, sôbre assunto constante do ponto sorteado.
+**Art**. 5º A prova prática constará de demonstração ou aplicação de conhecimentos práticos e da respectiva argüição, sôbre assunto constante do ponto sorteado.
 
-<strong>Art</strong>. 6º A prova oral compreenderá uma exposição verbal e argüição correspondente, sôbre assunto contido no ponto sorteado.
+**Art**. 6º A prova oral compreenderá uma exposição verbal e argüição correspondente, sôbre assunto contido no ponto sorteado.
 
-<strong>Art</strong>. 7º As provas serão realizadas em locais oportunamente estabelecidas pelo Diretor - Geral de Saúde da Aeronáutica.
+**Art**. 7º As provas serão realizadas em locais oportunamente estabelecidas pelo Diretor - Geral de Saúde da Aeronáutica.
 
-<strong>Art</strong>. 8º A nota de cada prova será a média aritmética dos graus, se zero a dez, a ela conferidos pelos diferentes examinadores.
+**Art**. 8º A nota de cada prova será a média aritmética dos graus, se zero a dez, a ela conferidos pelos diferentes examinadores.
 
 § 1º A nota baixa de 4 (quatro) em qualquer das provas a que se refere o artigo 3°, inabilita o candidato.
 
@@ -98,7 +96,7 @@ g) Concluídos os trabalhos referentes a cada a cada prova, o membro menos gradu
 
 § 3º As notas serão apuradas até centésimos, desprezando-se as frações menores.
 
-<strong>Art</strong>. 9º Terminado o julgamento de tôdas as provas, a Comissão Examinadora procederá à classificação final dos candidatos, observando rigorosamente decrescente de merecimento intelectual.
+**Art**. 9º Terminado o julgamento de tôdas as provas, a Comissão Examinadora procederá à classificação final dos candidatos, observando rigorosamente decrescente de merecimento intelectual.
 
 § 1º Serão matriculados no Curso Especial de Saúde, com destino ao Quadro de Oficias Médicos e ao Quadro de Oficiais Farmacêutico, dentro do número de vagas fixado para cada quadro e para cada especialidade pelo Ministro da Aeronáutica, os candidatos classificados que tiverem alcançado nota final de concurso igual ou superior a 5 (cinco).
 
@@ -110,19 +108,19 @@ b) os reservistas da Aeronáutica;
 
 c) os mais velhos
 
-<strong>Art</strong>. 10. Findo o concurso, a Diretoria de Saúde enviará à Diretoria do Pessoal da Aeronáutica a relação dos candidatos aprovados e mandados matricular no Curso Especial de Saúde, especificando a situação de cada um presente a Lei do Serviço Militar.
+**Art**. 10. Findo o concurso, a Diretoria de Saúde enviará à Diretoria do Pessoal da Aeronáutica a relação dos candidatos aprovados e mandados matricular no Curso Especial de Saúde, especificando a situação de cada um presente a Lei do Serviço Militar.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Do Curso Especial de Saúde</em>
+*Do Curso Especial de Saúde*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Finalidade e Duração</em>
+*Finalidade e Duração*
 
-<strong>Art</strong>. 11. O curso Especial de Saúde destina-se a preparar os médicos farmacêuticos aprovados no concurso a que se refere o Título II destas Instruções, para o bom desempenho das funções atribuídas a oficias dos Quadros a que se destinam.
+**Art**. 11. O curso Especial de Saúde destina-se a preparar os médicos farmacêuticos aprovados no concurso a que se refere o Título II destas Instruções, para o bom desempenho das funções atribuídas a oficias dos Quadros a que se destinam.
 
-<strong>Art</strong>. 12. O ensino no Curso Especial de Saúde tem por finalidade:
+**Art**. 12. O ensino no Curso Especial de Saúde tem por finalidade:
 
 a) proporcionar, aos médicos, conhecimentos especializados de Fisiologia, Patologia e Higiene aplicadas peculiares à Aeronáutica.
 
@@ -130,17 +128,17 @@ b) proporcionar, aos farmacêuticos conhecimentos especializados de Fisiologia, 
 
 c) familiarizar os alunos com a organização da Aeronáutica e com as tarefas militares e técnicos-administrativas do Serviço de Saúde da Aeronáutica.
 
-<strong>Art</strong>. 13. O Curso Especial de Saúde terá a duração de oito meses, iniciando-se normalmente nos primeiros dias de abril; em casos especiais, e a critério do Ministro da Aeronáutica, poderá ter início em outra época qualquer.
+**Art**. 13. O Curso Especial de Saúde terá a duração de oito meses, iniciando-se normalmente nos primeiros dias de abril; em casos especiais, e a critério do Ministro da Aeronáutica, poderá ter início em outra época qualquer.
 
 Parágrafo único. Mediante proposta do Direto-Geral de Saúde o Ministro da Aeronáutica poderá determinar a realização intensiva do Curso no prazo mínimo de quatro meses, excluído o tempo necessário aos exames finais.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>PLANO DE ENSINO</em>
+*PLANO DE ENSINO*
 
 Disciplinas
 
-<strong>Art</strong>. 14.O ensino no Curso Especial de Saúde abrangerá os:
+**Art**. 14.O ensino no Curso Especial de Saúde abrangerá os:
 
 \- Grupo de Assuntos Médicos;
 
@@ -148,7 +146,7 @@ Disciplinas
 
 \- Grupos de Assuntos Militares
 
-<strong>Art</strong>. 15. As disciplinas do Grupo de Assuntos Médicos ministradas apenas aos estagiários médicos, serão as seguintes:
+**Art**. 15. As disciplinas do Grupo de Assuntos Médicos ministradas apenas aos estagiários médicos, serão as seguintes:
 
 a) Biologia aplicada, compreendendo:
 
@@ -182,7 +180,7 @@ b) Fisiopatologia especial compreendendo:
 
 § 7º Em aviação Sanitária e Socorros de Urgência serão estudadas o emprêgo do avião como meio de transporte de doentes e feridos em tempo de paz e na guerra, os dados estatístico comprovantes de sua eficiência crescente, as indicações e contra-indicações do transporte aéreo e as questões relacionadas com problema da neutralidade dos aviões sanitários e seus pilotos; serão também apreciados tôdas as situações que possam ocorrer em acidentes de aviação e ministrados os conhecimentos para os socorro imediato e transporte dos acidentados.
 
-<strong>Art</strong>. 16 As disciplinas do Grupo de Assuntos Farmacêuticos, ministrados apenas aos estagiários farmacêutico, serão as seguintes.
+**Art**. 16 As disciplinas do Grupo de Assuntos Farmacêuticos, ministrados apenas aos estagiários farmacêutico, serão as seguintes.
 
 \- Química Biologia aplicada
 
@@ -202,7 +200,7 @@ b) Fisiopatologia especial compreendendo:
 
 § 4º Em Bromatologia aplicada, serão estudadas as perícias bromatológicas e ministradas ensinamentos técnicos aplicáveis ao Serviço de Saúde Aeronáutico.
 
-<strong>Art</strong>. 17 As disciplinas do Grupo de Assuntos Militares, ministrados a todos os estagiários, serão as seguintes:
+**Art**. 17 As disciplinas do Grupo de Assuntos Militares, ministrados a todos os estagiários, serão as seguintes:
 
 \- Organização da Aeronáutica;
 
@@ -216,7 +214,7 @@ b) Fisiopatologia especial compreendendo:
 
 Programas
 
-<strong>Art</strong>. 18 Os programas das disciplinas do Curso Especial de Saúde serão organizados anualmente pelos instrutores respectivos, e submetidos à aprovação do Diretor-Geral de Saúde da Aeronáutica.
+**Art**. 18 Os programas das disciplinas do Curso Especial de Saúde serão organizados anualmente pelos instrutores respectivos, e submetidos à aprovação do Diretor-Geral de Saúde da Aeronáutica.
 
 Parágrafo único. Dos programas deverão constar, sempre que possível:
 
@@ -226,17 +224,17 @@ b) requisitos fundamentais para êste estudo;
 
 c) bibliografia dos assuntos a serem estudados.
 
-<strong>Art</strong>. 19 Os instrutores deverão enviar ao Diretor do Curso, sempre que necessário, dados e sugestões relativas à execução de seu programas a fim de possibilitar uma mais perfeita coordenação de horários.
+**Art**. 19 Os instrutores deverão enviar ao Diretor do Curso, sempre que necessário, dados e sugestões relativas à execução de seu programas a fim de possibilitar uma mais perfeita coordenação de horários.
 
-<strong>Art</strong>. 20 E obrigatória a execução integral do programa de cada disciplina.
+**Art**. 20 E obrigatória a execução integral do programa de cada disciplina.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>REGIME DIDÁTICO</em>
+*REGIME DIDÁTICO*
 
 Orientação Geral do Ensino
 
-<strong>Art</strong>. 21. O ensino no Curso Especial de Saúde compreenderá:
+**Art**. 21. O ensino no Curso Especial de Saúde compreenderá:
 
 a) uma parte teórica fundamental, doutrinária, de tôdas as disciplina, sob a forma de aulas, preleções ou conferências;
 
@@ -250,9 +248,9 @@ Nestas, os alunos deverão ter contato direto com as instalações do Serviço d
 
 Métodos e Processos de Ensino
 
-<strong>Art</strong>. 22. O ensino no Curso Especial de Saúde deve ser objetivo, gradual e contínuo, de maneira a desenvolver a aperfeiçoar as qualidades profissionais dos alunos, tendo em vista o desempenho cabal das funções que lhes poderão ser atribuídas.
+**Art**. 22. O ensino no Curso Especial de Saúde deve ser objetivo, gradual e contínuo, de maneira a desenvolver a aperfeiçoar as qualidades profissionais dos alunos, tendo em vista o desempenho cabal das funções que lhes poderão ser atribuídas.
 
-<strong>Art</strong>. 23. O ensino será ministrado através de:
+**Art**. 23. O ensino será ministrado através de:
 
 a) preleções;
 
@@ -268,17 +266,17 @@ f) estágios e, quando fôr o caso, participação em manobras, exercícios das 
 
 Parágrafo único. No emprêgo dêstes processos não devem ser perdidos de vista os objetivos fundamentais do Curso.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>REGIME LETIVO</em>
+*REGIME LETIVO*
 
 Calendário - Freqüência - Desligamento - Reingresso
 
-<strong>Art</strong>. 24. Em princípio, de acôrdo com art. 13 destas Instruções, o período letivo terá início a 1º de abril e encerrar-se-à nos últimos dias de dezembro, incluindo o tempo necessário aos exames finais.
+**Art**. 24. Em princípio, de acôrdo com art. 13 destas Instruções, o período letivo terá início a 1º de abril e encerrar-se-à nos últimos dias de dezembro, incluindo o tempo necessário aos exames finais.
 
-<strong>Art</strong>. 25. Os horários serão estabelecidos pelo Diretor do Curso, tendo em vista o maior rendimento dos trabalhos escolares.
+**Art**. 25. Os horários serão estabelecidos pelo Diretor do Curso, tendo em vista o maior rendimento dos trabalhos escolares.
 
-<strong>Art</strong>. 26. A frequência dos alunos a todos os trabalhos do Curso é obrigatória.
+**Art**. 26. A frequência dos alunos a todos os trabalhos do Curso é obrigatória.
 
 § 1º Nenhum instrutor poderá dispensar alunos das aulas ou dos trabalhos práticos, salvo por motivo de fôrça maior consignado em partes escrita endereçada ao Diretor do Curso.
 
@@ -286,7 +284,7 @@ Calendário - Freqüência - Desligamento - Reingresso
 
 § 3º Marcar-se-á uma falta para cada aula a que o aluno deixar de comparecer.
 
-<strong>Art</strong>. 27. Será desligado do Curso Especial de Saúde:
+**Art**. 27. Será desligado do Curso Especial de Saúde:
 
 a) por faltas, o aluno que:
 
@@ -302,21 +300,21 @@ d) a pedido, mediante indenização das despesas que tiver ocasionando a partir 
 
 e) por conclusão de curso.
 
-<strong>Art</strong>. 28. O aluno desligado de acôrdo com o número e da letra <em>a</em> do art. 27, poderá ser matriculado novamente, uma única vez, integrando a turma que se seguir no Curso Especial de Saúde, independentemente de novo concurso.
+**Art**. 28. O aluno desligado de acôrdo com o número e da letra *a* do art. 27, poderá ser matriculado novamente, uma única vez, integrando a turma que se seguir no Curso Especial de Saúde, independentemente de novo concurso.
 
 Aproveitamento e Habilitação
 
-<strong>Art</strong>. 29. O aproveitamento dos alunos nas diversas disciplinas será apreciado por meio de:
+**Art**. 29. O aproveitamento dos alunos nas diversas disciplinas será apreciado por meio de:
 
 a) trabalhos escolares correntes;
 
 b) exames finais.
 
-<strong>Art</strong>. 30. Os trabalhos correntes serão realizados no decorrer do curso, de acôrdo com o calendário estabelecido pelo Diretor do Curso.
+**Art**. 30. Os trabalhos correntes serão realizados no decorrer do curso, de acôrdo com o calendário estabelecido pelo Diretor do Curso.
 
 Parágrafo único. O julgamento dos trabalhos correntes será feito pelos Instrutores que os tiverem dirigido.
 
-<strong>Art</strong>. 31. Para cada disciplina haverá, obrigatoriamente, exame final constituído por provas escrita, oral e prático-oral.
+**Art**. 31. Para cada disciplina haverá, obrigatoriamente, exame final constituído por provas escrita, oral e prático-oral.
 
 § 1º Para cada exame final haverá uma comissão examinadora de três membros da qual fará parte o instrutor da matéria.
 
@@ -330,29 +328,29 @@ Parágrafo único. O julgamento dos trabalhos correntes será feito pelos Instru
 
 § 6º Para o exame final de cada matéria será organizada uma relação de pontos, constituída de modo a abranger as diversas partes do programa; êsses pontos serão sorteados na forma já consagrada pelo uso nos estabelecimentos de ensino.
 
-<strong>Art</strong>. 32. O graus final, por matéria, será a média aritmética das seguintes parcelas:
+**Art**. 32. O graus final, por matéria, será a média aritmética das seguintes parcelas:
 
 a) conta do ano, que é a média aritmética dos graus dos trabalhos correntes;
 
 b) grau do exame final.
 
-<strong>Art</strong>. 33. Será considerado aprovado o aluno que obtiver graus final igual ou superior a quatro em cada matéria, e, concomitantemente, a média cinco no conjunto das mesmas.
+**Art**. 33. Será considerado aprovado o aluno que obtiver graus final igual ou superior a quatro em cada matéria, e, concomitantemente, a média cinco no conjunto das mesmas.
 
 § 1º O aluno que não conseguir média igual ou superior a quatro nos trabalhos correntes de qualquer matéria, não poderá entrar em exame.
 
 § 2º O aluno que obtiver graus zero em qualquer prova de exame, será considerado inabilitado.
 
-<strong>Art</strong>. 34. A nota de classificação final no Curso será a média aritmética dos graus finais por matéria.
+**Art**. 34. A nota de classificação final no Curso será a média aritmética dos graus finais por matéria.
 
 Parágrafo único. Para a classificação final de alunos com a mesma nota final de curso, será obedecida a prioridade estabelecida no § 2º do art. 9º.
 
-<strong>Art</strong>. 35. Ao terminar o Curso Especial de Saúde, o Diretor do Curso deverá emitir conceito sôbre a personalidade e sôbre a aptidão técnico-profissional de cada um dos alunos, expresso em apreciações sintéticas correspondentes. Para chegar a tal resultado, o Diretor do Curso basear-se-à em suas próprias observações e no conceito escrito em que os instrutores deverão exprimir, concisamente, o seu julgamento sôbre as qualidades individuais de caráter, inteligência e cultura dos alunos. Êste julgamento deverá ser entregue ao Diretor do Curso dez (10) dias antes do encerramento do ano letivo.
+**Art**. 35. Ao terminar o Curso Especial de Saúde, o Diretor do Curso deverá emitir conceito sôbre a personalidade e sôbre a aptidão técnico-profissional de cada um dos alunos, expresso em apreciações sintéticas correspondentes. Para chegar a tal resultado, o Diretor do Curso basear-se-à em suas próprias observações e no conceito escrito em que os instrutores deverão exprimir, concisamente, o seu julgamento sôbre as qualidades individuais de caráter, inteligência e cultura dos alunos. Êste julgamento deverá ser entregue ao Diretor do Curso dez (10) dias antes do encerramento do ano letivo.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Quadro de Ensino</em>
+*Quadro de Ensino*
 
-<strong>Art</strong>. 36. O Quadro de Ensino do Curso Especial de Saúde da Aeronáutica é constituído:
+**Art**. 36. O Quadro de Ensino do Curso Especial de Saúde da Aeronáutica é constituído:
 
 a) pelo Diretor do Curso;
 
@@ -362,36 +360,36 @@ c) pelos Instrutores-Chefes, Instrutores e Auxiliares de Instrutor.
 
 Parágrafo único. Os oficiais nomeados pelo Ministro da Aeronáutica, por proposta do Diretor-Geral de Saúde, para as funções constantes dêste artigo, deverão exercê-las durante o mínimo de um ano e o máximo de três (3) anos consecutivos.
 
-<strong>Art</strong>. 37. O Diretor do Curso será um oficial Superior do Quadro de Oficiais-Médicos da Aeronáutica.
+**Art**. 37. O Diretor do Curso será um oficial Superior do Quadro de Oficiais-Médicos da Aeronáutica.
 
-<strong>Art</strong>. 38. O Subdiretor do Curso, oficial do Quadro de Oficiais Médicos da Aeronáutica, e o auxiliar imediato do Diretor do Curso e seu substituto automático em tôdas as eventualidades.
+**Art**. 38. O Subdiretor do Curso, oficial do Quadro de Oficiais Médicos da Aeronáutica, e o auxiliar imediato do Diretor do Curso e seu substituto automático em tôdas as eventualidades.
 
-<strong>Art</strong>. 39. Cada grupo de disciplinas terá um instrutor-chefe e cada disciplina terá um instrutor e tantos auxiliares de instrutor quantos forem necessários à eficiência do ensino, todos oficiais da Aeronáutica.
+**Art**. 39. Cada grupo de disciplinas terá um instrutor-chefe e cada disciplina terá um instrutor e tantos auxiliares de instrutor quantos forem necessários à eficiência do ensino, todos oficiais da Aeronáutica.
 
 Parágrafo único. O instrutor-chefe será o mais graduado ou o mais antigo dos instrutores das disciplinas de cada grupo.
 
-<strong>Art</strong>. 40. O Diretor-Geral de Saúde poderá convidar personalidades de destaque nos meios civil e militar para, como conferencistas, emprestarem ao Curso Especial de Saúde o brilho de sua inteligência e de seu saber.
+**Art**. 40. O Diretor-Geral de Saúde poderá convidar personalidades de destaque nos meios civil e militar para, como conferencistas, emprestarem ao Curso Especial de Saúde o brilho de sua inteligência e de seu saber.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 41. Os alunos aprovados no Curso Especial de Saúde serão nomeados Primeiros-Tenentes e incluídos no Quadro de Oficiais-Médicos ou no Quadro de Oficiais-Farmacêuticos da Aeronáutica, na ordem de merecimentos intelectual e de acôrdo com a classificação final no curso.
+**Art**. 41. Os alunos aprovados no Curso Especial de Saúde serão nomeados Primeiros-Tenentes e incluídos no Quadro de Oficiais-Médicos ou no Quadro de Oficiais-Farmacêuticos da Aeronáutica, na ordem de merecimentos intelectual e de acôrdo com a classificação final no curso.
 
-<strong>Art</strong>. 42. Durante o Curso os alunos terão os vencimentos e vantagens, regalias e obrigações do pôsto de Segundo-Tenente, e serão considerados estagiários.
+**Art**. 42. Durante o Curso os alunos terão os vencimentos e vantagens, regalias e obrigações do pôsto de Segundo-Tenente, e serão considerados estagiários.
 
 Parágrafo único. O aluno desligado do Curso perderá automaticamente o direito ao gôzo dos vencimentos, vantagens e regalias previstas neste artigo.
 
-<strong>Art</strong>. 43. Uma vez incluído no Quadro de Oficiais-Médicos ou no Quadro de Oficiais-Farmacêuticos, de acôrdo com o art. 42, o médico ou o farmacêutico só poderá obter demissão depois de cinco anos de efetivo serviço como oficial, salvo se indenizar a Nação de tôdas as despesas que tiver causado, inclusive vencimentos e vantagens recebidas durante o Curso Especial de Saúde.
+**Art**. 43. Uma vez incluído no Quadro de Oficiais-Médicos ou no Quadro de Oficiais-Farmacêuticos, de acôrdo com o art. 42, o médico ou o farmacêutico só poderá obter demissão depois de cinco anos de efetivo serviço como oficial, salvo se indenizar a Nação de tôdas as despesas que tiver causado, inclusive vencimentos e vantagens recebidas durante o Curso Especial de Saúde.
 
 Parágrafo único. Os demissionários serão incluídos na Reserva de 1º Linha e 2º Classe com os postos que tiverem na ativa.
 
-<strong>Art</strong>. 44. Ao término do Curso Especial de Saúde, os alunos deverão realizar, em avião da FAB, uma viagem de instrução orientada pelo Diretor do Curso, a fim de se familiazarem, seja com os problemas de vôo, seja, com as instalações do Serviço de Saúde no Órgãos, Estabelecimentos ou Unidades.
+**Art**. 44. Ao término do Curso Especial de Saúde, os alunos deverão realizar, em avião da FAB, uma viagem de instrução orientada pelo Diretor do Curso, a fim de se familiazarem, seja com os problemas de vôo, seja, com as instalações do Serviço de Saúde no Órgãos, Estabelecimentos ou Unidades.
 
-<strong>Art</strong>. 45. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica.
+**Art**. 45. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica.
 
 Rio, 26 de agôsto de 1955.
 
-<strong>TENENTE BRIGADEIRO EDUARDO GOMES</strong>
+**TENENTE BRIGADEIRO EDUARDO GOMES**
 
 Ministro da Aeronáutica

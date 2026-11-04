@@ -1,5 +1,3 @@
-###DEC-091588-0-000-02-09-1985@@@
-
 Decreto nº 91.588, de 02 de setembro de 1985.
 
 Autoriza a Companhia de Financiamento da Produção - CFP a elevar o seu capital.

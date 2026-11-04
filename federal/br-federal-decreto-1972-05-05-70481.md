@@ -1,5 +1,3 @@
-###DEC-070481-0-000-05-05-1972@@@
-
 DECRETO Nº 70.481, DE 5 DE MAIO DE 1972.
 
 Declara extintas as concessões da Companhia Telefônica de Fortaleza e Companhia de Telecomunicações do Ceará, outorga concessão à Companhia Telefônica do Ceará - COTELCE - para executar serviços de telefonia público urbano e interurbano no Estado do Ceará.

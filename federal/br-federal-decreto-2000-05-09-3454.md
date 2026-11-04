@@ -1,5 +1,3 @@
-###DEC-003454-0-000-09-05-2000@@@
-
 Decreto nº 3.454, de 9 de maio de 2000.
 
 Delega competência ao Ministro de Estado da Previdência e Assistência Social para a prática dos atos que especifica.

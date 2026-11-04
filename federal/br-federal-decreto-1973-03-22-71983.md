@@ -1,5 +1,3 @@
-###DEC-071983-0-000-22-03-1973@@@
-
 Decreto nº 71.983, de 22 de março de 1973.
 
 Torna sem efeito a redistribuição de servidor do Ministério dos Transportes para o Ministério da Educação e Cultura, e dá outras providências.

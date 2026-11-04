@@ -1,5 +1,3 @@
-###DEC-069200-0-000-15-09-1971@@@
-
 DECRETO Nº 69.200, DE 15 DE SETEMBRO DE 1971.
 
 Cria o Consulado Honorário do Brasil em Mazatlan, Estados Unidos Mexicanos.

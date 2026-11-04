@@ -1,5 +1,3 @@
-###DEC-058529-0-000-30-05-1966@@@
-
 DECRETO Nº 58.529, DE 30 DE maio DE 1966.
 
 Dá nova redação ao § 2º do art. 3º do Decreto nº 48.639-A, de 30 de julho de 1960.

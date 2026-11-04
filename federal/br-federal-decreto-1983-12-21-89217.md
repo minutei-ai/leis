@@ -1,5 +1,3 @@
-###DEC-089217-0-000-21-12-1983@@@
-
 Decreto nº 89.217, de 21 de dezembro de 1983
 
 Dispõe sobre o montante do Capital Social da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL.

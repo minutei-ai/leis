@@ -1,5 +1,3 @@
-###DEC-083092-0-000-24-01-1979@@@
-
 Decreto nº 83 092 de 24 de janeiro de 1979.
 
 Dá nova redação a dispositivo do Decreto nº 82 615, de 08/11/78, que cria o Centro de Mísseis e Armas Submarinas da Marinha.

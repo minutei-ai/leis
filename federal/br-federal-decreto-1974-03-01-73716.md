@@ -1,5 +1,3 @@
-###DEC-073716-0-000-01-03-1974@@@
-
 DECRETO Nº 73.716, DE 1 DE MARÇO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

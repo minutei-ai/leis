@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210519)<br>
-
 # DECRETO N° 69.294, DE 03 DE JANEIRO DE 2025
 
 ### _Prorroga o prazo previsto no artigo 5° das Disposições Transitórias da Lei Complementar n° 1.413, de 23 de setembro de 2024._

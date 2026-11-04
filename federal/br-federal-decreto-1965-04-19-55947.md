@@ -1,5 +1,3 @@
-###DEC-055947-0-000-19-04-1965@@@
-
 DECRETO Nº 55.947, DE 19 DE ABRIL DE 1965.
 
 Transfere para a Companhia Hidro Elétrica de Boa Esperança os encargos conferidos ao Departamento Nacional de Obras Contra as Sêcas, pelo Decreto nº 2.035,de 15 de janeiro de 1963.

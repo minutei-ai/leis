@@ -1,5 +1,3 @@
-###DEC-096841-0-000-28-09-1988@@@
-
 DECRETO Nº 96.841, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO GUARANIAÇU LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Cuaraniaçu, Estado do Paraná.

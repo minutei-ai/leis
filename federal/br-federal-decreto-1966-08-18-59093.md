@@ -1,5 +1,3 @@
-###DEC-059093-0-000-18-08-1966@@@
-
 decreto Nº 59.093, DE 18 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro Antônio Pacífico Homem Júnior, a pesquisar minério de manganês, dolomita e caulim, no município de Itabirito, Estado de Minas Gerais.

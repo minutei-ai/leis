@@ -1,5 +1,3 @@
-###DEC-095058-0-000-19-10-1987@@@
-
 DECRETO Nº 95.058, DE 19 de OUTUBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem em favor de Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras, acessões e benfeitorias que menciona.

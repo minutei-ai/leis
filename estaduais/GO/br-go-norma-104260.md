@@ -2,8 +2,10 @@ LEI Nº 21.073, DE 9 DE AGOSTO DE 2021
 
 Cria o incentivo à alfabetização, destinado a premiar as escolas públicas da rede estadual e municipal de ensino, de acordo com os resultados no Índice de Desenvolvimento da Educação do Estado de Goiás na Alfabetização — IDEGO-Alfa e no Sistema de Avaliação Educacional do Estado de Goiás — SAEGO.
 
-\- [Vide Decreto nº 10.826, de 8-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111727) \- Regulamenta, para o exercício de 2026, a presente Lei.<br>
-\- [Vide Decreto nº 10.590, de 10-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110121) - Regulamenta, para o exercício de 2025, a presente Lei.<br>
+\- [Vide Decreto nº 10.826, de 8-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111727) \- Regulamenta, para o exercício de 2026, a presente Lei.
+
+\- [Vide Decreto nº 10.590, de 10-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110121) - Regulamenta, para o exercício de 2025, a presente Lei.
+
 \- [Vide Decreto nº 10.270, de 13-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107232/decreto-10270) - Regulamenta, para o exercício de 2023 a presente Lei.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), decreta e eu sanciono a seguinte Lei:
@@ -16,10 +18,12 @@ I – prêmio de até R$ 80.000,00 (oitenta mil reais) às 150 (cento e cinquent
 
 II – fomento de até R$ 40.000,00 (quarenta mil reais) às 150 (cento e cinquenta) escolas da rede pública de Goiás que obtiverem os resultados menos promissores no SAEGO– Alfa.
 
-§ 1º ~~Parágrafo único.~~ Os incentivos previstos nos incisos I e II deste artigo dependerão de renovação anual, a ser realizada por ato do Chefe do Executivo, que deverá observar os resultados educacionais na forma prevista nos arts. 11 e 12 desta Lei, bem como a dotação e a disponibilidade orçamentária consignadas na Lei Orçamentária Anual.<br>
+§ 1º ~~Parágrafo único.~~ Os incentivos previstos nos incisos I e II deste artigo dependerão de renovação anual, a ser realizada por ato do Chefe do Executivo, que deverá observar os resultados educacionais na forma prevista nos arts. 11 e 12 desta Lei, bem como a dotação e a disponibilidade orçamentária consignadas na Lei Orçamentária Anual.
+
 \- [Constituído § 1º pela Lei nº 23.730, de 13-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111420).
 
-§ 2º Do valor total da premiação indicado no inciso I do _caput_ deste artigo, 50% (cinquenta por cento) deverão ser destinados, a título de bonificação, aos professores regentes das turmas de 1º e 2º ano do Ensino Fundamental (ciclo alfabetização).<br>
+§ 2º Do valor total da premiação indicado no inciso I do _caput_ deste artigo, 50% (cinquenta por cento) deverão ser destinados, a título de bonificação, aos professores regentes das turmas de 1º e 2º ano do Ensino Fundamental (ciclo alfabetização).
+
 \- [Acrescido pela Lei nº 23.730, de 13-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111420).
 
 Art. 3º Para receber o incentivo na gradação prêmio, as escolas devem atender aos seguintes critérios:
@@ -44,22 +48,26 @@ IV – Categoria 4: escolas com mais de 100 (cem) matrículas no 2º ano do Ensi
 
 § 1º A premiação será distribuída de maneira proporcional, nas seguintes categorias:
 
-I – Categoria 1: 53 (cinquenta e três) prêmios;<br>
+I – Categoria 1: 53 (cinquenta e três) prêmios;
+
 \- [Redação dada pela Lei nº 21.672, de 09-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672).
 
 ~~I – Categoria 1: 38 (trinta e oito) prêmios;~~
 
-II – Categoria 2: 51 (cinquenta e um) prêmios;<br>
+II – Categoria 2: 51 (cinquenta e um) prêmios;
+
 \- [Redação dada pela Lei nº 21.672, de 09-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672).
 
 ~~II – Categoria 2: 36 (trinta e seis) prêmios;~~
 
-III – Categoria 3: 25 (vinte e cinco) prêmios; e<br>
+III – Categoria 3: 25 (vinte e cinco) prêmios; e
+
 \- [Redação dada pela Lei nº 21.672, de 09-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672).
 
 ~~III – Categoria 3: 15 (quinze) prêmios; e~~
 
-IV – Categoria 4: 21 (vinte e um) prêmios.<br>
+IV – Categoria 4: 21 (vinte e um) prêmios.
+
 \- [Redação dada pela Lei nº 21.672, de 09-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672).
 
 ~~IV – Categoria 4: 11 (onze) prêmios.~~
@@ -72,7 +80,8 @@ II – ter a maior proficiência, de acordo com a escala de alfabetização do S
 
 III – ter a maior taxa de participação.
 
-Art. 5º As escolas receberão o prêmio estabelecido no inciso I do art. 2º desta Lei em dinheiro, mediante depósito na conta da respectiva unidade gestora.<br>
+Art. 5º As escolas receberão o prêmio estabelecido no inciso I do art. 2º desta Lei em dinheiro, mediante depósito na conta da respectiva unidade gestora.
+
 \- [Redação dada pela Lei nº 21.672, de 09-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672).
 
 ~~Art. 5º As escolas receberão o prêmio em dinheiro, mediante depósito em conta da respectiva unidade gestora, no montante correspondente à multiplicação do valor de R$ 2.500,00 (dois mil e quinhentos reais) pelo número de alunos do 2º ano do Ensino Fundamental regular avaliados pelo SAEGO-Alfa.~~
@@ -89,7 +98,8 @@ I – ter pelo menos 10 (dez) alunos matriculados no 2º ano do Ensino Fundament
 
 II – ter, no mínimo, 80% (oitenta por cento) dos alunos matriculados no 2º ano do Ensino Fundamental avaliados pelo Sistema de Avaliação Educacional do Estado de Goiás na Alfabetização — SAEGO– Alfa.
 
-Art. 8º As escolas receberão o fomento estabelecido no inciso II do art. 2º desta Lei em dinheiro, mediante depósito na conta da respectiva unidade gestora.<br>
+Art. 8º As escolas receberão o fomento estabelecido no inciso II do art. 2º desta Lei em dinheiro, mediante depósito na conta da respectiva unidade gestora.
+
 \- [Redação dada pela Lei nº 21.672, de 09-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106387/lei-21672).
 
 ~~Art. 8º As escolas receberão o fomento em dinheiro, mediante depósito na conta da respectiva unidade gestora, no montante correspondente à multiplicação do valor de R$ 1.250,00 (mil duzentos e cinquenta reais) pelo número de alunos do 2º ano do Ensino Fundamental regular avaliados pelo SAEGO-Alfa.~~

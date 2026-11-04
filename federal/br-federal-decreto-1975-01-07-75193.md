@@ -1,5 +1,3 @@
-###DEC-075193-0-000-07-01-1975@@@
-
 DECRETO Nº 75.193, DE 7 DE JANEIRO DE 1975.
 
 Altera dispositivo do Regulamento do Centro Técnico Aerospacial, aprovado pelo Decreto nº 68.874, de 5 de julho de 1971.

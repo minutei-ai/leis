@@ -1,5 +1,3 @@
-###DEC-096683-0-000-13-09-1988@@@
-
 DECRETO N° 96.683, DE 13 DE SETEMBRO DE 1988
 
 Altera dispositivos do Decreto n° 86.325, de 1° de setembro de 1981.

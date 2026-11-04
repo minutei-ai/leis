@@ -1,5 +1,3 @@
-###DEC-077536-0-000-30-04-1976@@@
-
 Decreto nº 77.536 - de 30 de abril de 1976
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de São Luís, Estado do Maranhão.

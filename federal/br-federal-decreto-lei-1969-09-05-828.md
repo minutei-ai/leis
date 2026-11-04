@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cdb218c5-369f-4a96-b1ef-93491b854cb9/texto#nowhere)
 
-###DEL-000828-0-000-05-09-1969@@@
-
 DECreto-lei Nº 828, DE 5 DE Setembro DE 1969
 
 Institui o Fundo de Desenvolvimento do Ensino Profissional Marítimo.

@@ -1,5 +1,3 @@
-###DEC-060283-0-000-02-03-1967@@@
-
 Decreto Nº 60.283, de 2 de março de 1967.
 
 Aprova as alterações introduzidas nos Estatutos da Lince de Seguros Gerais S.A., inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-059408-0-000-21-10-1966@@@
-
 Decreto nº 59.408, de 21 de outubro de 1966.
 
 Modifica a denominação das 2ª, 3ª e 7ª Companhias Depósito de Material de Motomecanização.

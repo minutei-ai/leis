@@ -1,5 +1,3 @@
-###DEL-003769-0-000-28-10-1941@@@
-
 DECRETO-LEI N. 3.769 – DE 28 DE OUTUBRO DE 1941
 
 Dispõe sobre os proventos de aposentadoria dos funcionários públicos associados de caixas de aposentadoria e pensões.

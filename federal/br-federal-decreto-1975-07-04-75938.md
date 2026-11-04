@@ -1,5 +1,3 @@
-###DEC-075938-0-000-04-07-1975@@@
-
 DECRETO Nº 75.938 - DE 4 DE JULHO DE 1975.
 
 Aprova a transformação da Faculdade de Filosofia, Ciências e Letras de Três Corações para Instituto Superior de Ciências, Letras e Artes de Três Corações, autoriza o funcionamento de cursos e dá outras providências.

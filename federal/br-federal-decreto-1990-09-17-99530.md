@@ -1,5 +1,3 @@
-###DEC-099530-0-000-17-09-1990@@@
-
 DECRETO N° 99.530, DE 17 DE SETEMBRO DE 1990
 
 Institui a hora de verão em parte do Território Nacional, no período que indica.

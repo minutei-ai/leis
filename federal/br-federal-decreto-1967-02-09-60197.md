@@ -1,5 +1,3 @@
-###DEC-060197-0-000-09-02-1967@@@
-
 Decreto nº 60.197, de 9 de Fevereiro de 1967.
 
 Declara de utilidade pública a Assosiação Maternidade de São Paulo, com sede em São Paulo, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099793-0-000-12-12-1990@@@
-
 # DECRETO N° 99.793, DE 12 DE DEZEMBRO DE 1990
 
 Dispõe sobre a execução do Trigésimo Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Periodo 1962/1980, entre o Brasil e a Argentina (Acordo nº 1).

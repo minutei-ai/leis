@@ -1,5 +1,3 @@
-###DEL-005850-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.850 – DE 23 DE SETEMBRO DE 1943
 
 Abre no Ministério das Relações Exteriores o crédito suplementar de Cr$ 300.000,00 à verba que especifica

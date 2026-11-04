@@ -1,5 +1,3 @@
-###DEC-046653-0-000-17-08-1959@@@
-
 DECRETO Nº 46.653, DE 17 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro Antônio Bessa Pereira a pesquisar mica no município de Santa Maria do Suaçuí, Estrado de Minas Gerais.

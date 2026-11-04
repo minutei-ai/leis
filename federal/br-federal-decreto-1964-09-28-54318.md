@@ -1,5 +1,3 @@
-###DEC-054318-0-000-28-09-1964@@@
-
 decreto nº 54.318, de 28 de setembro de 1964.
 
 Autoriza a Companhia Industrial Paraense a vender áreas de terra.

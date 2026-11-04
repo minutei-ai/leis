@@ -1,5 +1,3 @@
-###DEL-006055-0-000-01-12-1943@@@
-
 DECRETO‑LEI N. 6.054 – DE 01 DE DEZEMBRO DE 1943
 
 Prorroga o prazo a que se refere o decreto-lei n. 5.933, de 27 de outubro de 1943

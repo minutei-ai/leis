@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209849)<br>
-
 # DECRETO N° 68.778, DE 19 DE AGOSTO DE 2024
 
 ### _Cria, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Ambulatório Médico de Especialidades Digital do Estado de São Paulo - AME Digital SP, e dá providências correlatas._
@@ -8,14 +6,16 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,    
 
 Decreta:    
 
-#### Seção I<br>
+#### Seção I
+
 Disposição Preliminar    
 
 **Artigo 1° -** Fica criado, na Coordenadoria de Serviços de Saúde, da Secretaria da Saúde, o Ambulatório Médico de Especialidades Digital do Estado de São Paulo - AME Digital SP, com a finalidade de ampliar o acesso a serviços especializados de saúde por meio de tecnologias digitais.  
 
 **Parágrafo único -** A realização dos serviços do AME Digital SP dar-se-á por meio de utilização de infraestrutura tecnológica adequada e plataformas digitais, bem como pelo estabelecimento de parcerias com entidades que tenham expertise comprovada na prestação destes serviços.    
 
-#### Seção II<br>
+#### Seção II
+
 Da Estrutura e dos Níveis Hierárquicos
 
 **Artigo 2° -** O AME Digital SP, unidade com nível hierárquico de Departamento Técnico de Saúde, tem a seguinte estrutura:  
@@ -30,7 +30,8 @@ IV - Assessoria Técnica.  
 
 **Parágrafo único -** A Assessoria Técnica não se caracteriza como unidade administrativa.    
 
-#### Seção III<br>
+#### Seção III
+
 Das Atribuições
 
 **Artigo 3° -** O AME Digital SP tem as seguintes atribuições:  
@@ -95,7 +96,8 @@ IX - realizar estudos, elaborar relatórios e emitir pareceres sobre assuntos re
 
 **Parágrafo único -** À Assessoria Técnica cabe, ainda, desenvolver ações que estimulem e contribuam com a articulação entre as unidades da Pasta e os demais órgãos do Governo do Estado, em área sua área de atuação.    
 
-#### Seção IV<br>
+#### Seção IV
+
 Das Competências
 
 **Artigo 8° -** O Diretor do AME Digital SP, além de outras que lhe forem conferidas por lei ou decreto, tem as seguintes competências:  
@@ -132,7 +134,8 @@ II - em relação ao Sistema de Administração de Pessoal, as previstas no arti
 
 **Artigo 10 -** Ao Diretor do Núcleo Técnico Administrativo compete orientar e acompanhar as atividades dos servidores subordinados.    
 
-#### Seção V<br>
+#### Seção V
+
 Disposições Finais
 
 **Artigo 11 -** A Coordenadoria de Recursos Humanos, da Secretaria da Saúde, providenciará, em seu âmbito de atuação, os atos necessários ao cumprimento deste decreto.    

@@ -1,5 +1,3 @@
-###DEC-084455-0-000-31-01-1980@@@
-
 DECRETO Nº 84 455, DE 31 DE JANEIRO DE 1980
 
 Delega competência ao Ministro de Estado das Relações Exteriores para criar e extinguir repartições consulares honorárias.

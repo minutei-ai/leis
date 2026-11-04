@@ -1,5 +1,3 @@
-###DEC-048545-0-000-21-07-1960@@@
-
 DECRETO Nº 48.545, DE 21 DE JULHO DE 1960.
 
 Autoriza a cidadã brasileira Carolina Alzira Divino Cesar a pesquisar minério de ferro no município de Sento Sé, Estado da Bahia.

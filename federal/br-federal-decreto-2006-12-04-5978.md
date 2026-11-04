@@ -1,5 +1,3 @@
-###DEC-005978-0-000-04-12-2006@@@
-
 DECRETO Nº 5.978 DE 4 DE DEZEMBRO DE 2006.
 
 Dá nova redação ao Regulamento de Documentos de Viagem a que se refere o Anexo ao Decreto no 1.983, de 14 de agosto de 1996, que instituiu o Programa de Modernização, Agilização, Aprimoramento e Segurança da Fiscalização do Tráfego Internacional e do Passaporte Brasileiro - PROMASP.
@@ -20,11 +18,7 @@ LUIZ INÁCIO LULA DA SILVA
 
         Márcio Thomaz Bastos
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 5.12.2006
-
-ANEXO
+        Celso Luiz Nunes AmorimANEXO
 
 REGULAMENTO DE DOCUMENTOS DE VIAGEM
 

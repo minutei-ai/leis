@@ -1,5 +1,3 @@
-###DEC-066166-0-000-04-02-1970@@@
-
 DECRETO Nº 66.166 - DE 4 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a Associação Hospitalar Rio Negrinho, com sede em Rio Negrinho, Estado de Santa Catarina.

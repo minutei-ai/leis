@@ -1,5 +1,3 @@
-###DEL-000095-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 95, DE 30 DE DEZEMBRO DE 1966
 
 Autoriza a emissão de Letras do Tesouro, fixa a forma de liquidação das que foram adquiridas pelo Banco Central da República do Brasil, por antecipação de receita referente ao exercício de 1965, e prorroga o prazo de vigência do crédito especial autorizado pela Lei nº 4.357, de 16 de julho de 1964, aberta pelo Decreto nº 54.434, de 12 de outubro de 1964.

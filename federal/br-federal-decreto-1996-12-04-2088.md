@@ -1,7 +1,3 @@
-1
-
-###DEC-002088-0-000-04-12-1996@@@
-
 DECRETO Nº 2.088, DE 4 DE DEZEMBRO DE 1996.
 
 Autoriza a prorrogação da descentralização, até 31 de dezembro de 1997, referente às atividades que menciona e dá outras providências.

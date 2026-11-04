@@ -1,5 +1,3 @@
-###DEC-046499-0-000-20-07-1959@@@
-
 DECRETO Nº 46.499, DE 20 DE JULHO DE 1959.
 
 Autoriza a Companhia Energia Elétrica da Bahia a construir linhas de transmissão e uma subestação abaixadora.

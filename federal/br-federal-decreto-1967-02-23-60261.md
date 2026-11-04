@@ -1,5 +1,3 @@
-###DEC-060261-0-000-23-02-1967@@@
-
 DECRETO Nº 60.261, DE 23 DE FEVEREIRO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S. A. - CEMIG, concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Grande, entre os Estados de São Paulo e Minas Gerais.

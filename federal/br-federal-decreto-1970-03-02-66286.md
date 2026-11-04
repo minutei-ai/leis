@@ -1,5 +1,3 @@
-###DEC-066286-0-000-02-03-1970@@@
-
 DECRETO Nº 66.286 - DE 2 DE MARÇO DE 1970
 
 Concede a Mineração Igarassu S.A. o direito de lavrar água mineral, no município de Pernambuco.

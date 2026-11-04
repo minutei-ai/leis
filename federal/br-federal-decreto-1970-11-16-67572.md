@@ -1,5 +1,3 @@
-###DEC-067572-0-000-16-11-1970@@@
-
 DECRETO Nº 67.572, DE 16 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá entre as usinas de Estreito, Volta Grande e Pôrto Colômbia, localizadas no rio Grande, na divisa dos Estados de Minas Gerais e São Paulo.

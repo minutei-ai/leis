@@ -1,5 +1,3 @@
-###DEC-067379-0-000-13-10-1970@@@
-
 DECRETO Nº 67.379, DE 13 DE OUTUBRO DE 1970.
 
 Desmembra, no M.R.E., a Secretaria-Geral-Adjunta para Assuntos Americanos em Secretaria-Geral-Adjunta para Assuntos da América e Secretaria-Geral-Adjunta para Organismos Regionais Americanos.

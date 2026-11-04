@@ -1,5 +1,3 @@
-###DEC-045535-0-000-05-03-1959@@@
-
 DECRETO Nº 45.535, DE 5 DE MARÇO DE 1959.
 
 Introduz modificações no processamento do Exame Vestibular do Instituto Rio Branco do Ministério das Relações Exteriores.

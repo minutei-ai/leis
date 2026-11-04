@@ -1,5 +1,3 @@
-###DEC-082550-0-000-01-11-1978@@@
-
 Decreto nº 82.550, de 01 de novembro de 1978.
 
 Concede à Sinézio Borges - Firma Individual, o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,7 +1,9 @@
 LEI Nº 7.993 DE 02 DE JANEIRO DE 2002
 
-Ver também: [http://www.stf.jus.br](http://www.stf.jus.br/)<br>
-ADI 2967: Julgou procedente a ação para declarar a inconstitucionalidade do artigo 1º, quarto tópico, da Lei nº 7.993, de 02 de janeiro de 2002, do Estado da Bahia. Plenário, 12.02.2004. <br>
+Ver também: [http://www.stf.jus.br](http://www.stf.jus.br/)
+
+ADI 2967: Julgou procedente a ação para declarar a inconstitucionalidade do artigo 1º, quarto tópico, da Lei nº 7.993, de 02 de janeiro de 2002, do Estado da Bahia. Plenário, 12.02.2004. 
+
 ADI 2632: Julgou procedente a ação e declarou inconstitucional o artigo 1º, primeiro tópico, da Lei nº 7.993, de 02 de janeiro de 2002, do Estado da Bahia. Plenário, 05.02.2004.  
 
 Corrige os limites do município de BARRA DO MENDES, restaurado em 1958, através da [Lei nº 1034](https://www.legislabahia.ba.gov.br/documentos/lei-no-1034-de-14-de-agosto-de-1958#LO_1_034), desmembrado do município de Brotas de Macaúbas.

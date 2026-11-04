@@ -1,5 +1,3 @@
-###DEC-046240-0-000-19-06-1959@@@
-
 Decreto nº 46.240, de 19 de junho de 1959.
 
 Suprime cargo extinto.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 19 de junho de 1959, 138º da Independência e 71º da Repúb
 Juscelino Kubitschek
 
 Lúcio Meira.
-
-###DEC-046240-0-000-19-06-1959@@@RET01+++
 
 Decreto nº 46.240, de 19 de junho de 1959.
 

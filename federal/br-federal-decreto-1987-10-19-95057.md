@@ -1,5 +1,3 @@
-###DEC-095057-0-000-19-10-1987@@@
-
 DECRETO Nº 95.057, DE 19 DE OUTUBRO DE 1987
 
 Reorganiza o Quartel de Marinheiros.

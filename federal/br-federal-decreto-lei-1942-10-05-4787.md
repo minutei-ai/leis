@@ -1,5 +1,3 @@
-###DEL-004787-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.787 – DE 5 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de réis 2.023:617$400 à verba que especifica

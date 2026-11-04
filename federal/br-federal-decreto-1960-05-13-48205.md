@@ -1,5 +1,3 @@
-###DEC-048205-0-000-13-05-1960@@@
-
 decreto nº 48.205, de 13 de maio de 1960.
 
 Autoriza o cidadão brasileiro Jorge Abdalla Chamma a lavrar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

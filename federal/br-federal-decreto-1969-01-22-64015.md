@@ -1,5 +1,3 @@
-###DEC-064015-0-000-22-01-1969@@@
-
 Decreto nº 64.015, de 22 de janeiro de 1969.
 
 Altera dispositivos do Regulamento para o Tráfego Marítimo.

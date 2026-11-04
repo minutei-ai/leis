@@ -1,5 +1,3 @@
-###DEC-049291-0-000-19-11-1960@@@
-
 Decreto nº 49.291, de 19 de novembro de 1960.
 
 Autoriza o cidadão brasileiro Carlos Reis a pesquisar diamante, no município de Diamantina, Estado de Minas Gerais.

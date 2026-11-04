@@ -1,5 +1,3 @@
-###DEL-003251-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.251 – DE 9 DE MAIO DE 1941
 
 Cria uma coletoria federal no município de Tupã, Estado de São Paulo, e dá outras providências

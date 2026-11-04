@@ -1,5 +1,3 @@
-###DEL-007238-0-000-09-01-1945@@@
-
 DECRETO-LEI N. 7.238 – DE 9 DE JANEIRO DE 1945
 
 Transfere o Campo Experimental de São Borja, do Ministério da Agricultura, para o Estado do Rio Grande do Sul

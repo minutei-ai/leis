@@ -1,7 +1,3 @@
-1
-
-###DEC-098261-0-000-10-10-1989@@@
-
 DECRETO Nº 98.261, DE 10 DE OUTUBRO DE 1989
 
 Dispõe sobre as funções do pessoal de apoio dos Gabinetes da Presidência da República, e dá outras providências.

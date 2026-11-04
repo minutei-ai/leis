@@ -1,5 +1,3 @@
-###DEL-001140-0-000-30-12-1970@@@
-
 # DECRETO-LEI Nº 1.140, DE 30 De DEZEMBRO DE 1970
 
 Altera a redação de dispositivo do Decreto-lei nº 1.134, de 16 de novembro de 1970.

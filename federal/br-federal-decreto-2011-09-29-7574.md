@@ -1,5 +1,3 @@
-###DEC-007574-0-000-29-09-2011-PUB-01@@@
-
 DECRETO Nº 7.574, DE 29 DE SETEMBRO DE 2011.
 
 Regulamenta o processo de determinação e exigência de créditos tributários da União, o processo de consulta sobre a aplicação da legislação tributária federal e outros processos que especifica, sobre matérias administradas pela Secretaria da Receita Federal do Brasil.

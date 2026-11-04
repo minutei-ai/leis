@@ -1,19 +1,27 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=98512)
-
 # LEI Nº 13.141, DE 16 DE JULHO DE 2008
 
 ## (Projeto de lei nº 1233/07, do Deputado Carlinhos Almeida - PT)
 
 ### _Declara de utilidade pública a entidade que especifica._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** É declarada de utilidade pública a Obra Social e Assistencial Nossa Senhora do Rosário, com sede em São José dos Campos.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 16 de julho de 2008.<br>
-JOSÉ SERRA<br>
-Luiz Antônio Guimarães Marrey<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** É declarada de utilidade pública a Obra Social e Assistencial Nossa Senhora do Rosário, com sede em São José dos Campos.
+
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 16 de julho de 2008.
+
+JOSÉ SERRA
+
+Luiz Antônio Guimarães Marrey
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 16 de julho de 2008.

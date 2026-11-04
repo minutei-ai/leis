@@ -1,5 +1,3 @@
-###DEC-007563-0-000-15-09-2011-PUB-01@@@
-
 DECRETO Nº\- 7.563, DE 15 DE SETEMBRO DE 2011
 
 Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

@@ -1,5 +1,3 @@
-###DEC-058905-0-000-21-07-1966@@@
-
 DECRETO Nº 58.905, DE 21 DE JULHO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impôstos federais, a importação de equipamentos consignados à emprêsa “Companhia Pernambucana de Borracha Sintética (COPERBRO)”, Cabo (Pe).

@@ -8,20 +8,22 @@ Publicada no Diário Oficial nº 207, de 26 de outubro de 1979. [Revogada pela L
 
 Situação no cadastro de origem: Revogada
 
-**<del>O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL</del>** <del>Faço saber que a Assembléia Legislativa do Estado decreta e eu sanciono a seguinte</del><br>
-<del>Lei:</del><br>
-<br>
-<del>Art. 1º Fica dispensada a exigência de reconhecimento de firma em qualquer documento produzido no Estado de Mato Grosso do Sul, quando apresentado para fazer prova perante repartições e entidades públicas estaduais e municipais da administração direta e indireta.</del><br>
-<br>
-<del>Art. 2º Verificada, em qualquer tempo, falsificação de assinatura em documento público ou particular, a repartição ou entidade considerará não satisfeita a exigência documental e dará conhecimento do fato à autoridade competente, dentro do prazo improrrogável de 5 (cinco) dias, para instauração do processo criminal.</del><br>
-<br>
-<del>Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.</del><br>
-<br>
-<br>
-<del>Campo Grande, 26 de outubro de 1979.</del><br>
-<br>
-<del>MARCELO MIRANDA SOARES</del><br>
-<del>Governador</del><br>
-<br>
-<del>JOÃO LEITE SCHIMIDT</del><br>
-<del>Secretário de Estado para Assuntos da Casa Civil</del>
+**~~O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL~~** ~~Faço saber que a Assembléia Legislativa do Estado decreta e eu sanciono a seguinte~~
+
+~~Lei:~~
+
+~~Art. 1º Fica dispensada a exigência de reconhecimento de firma em qualquer documento produzido no Estado de Mato Grosso do Sul, quando apresentado para fazer prova perante repartições e entidades públicas estaduais e municipais da administração direta e indireta.~~
+
+~~Art. 2º Verificada, em qualquer tempo, falsificação de assinatura em documento público ou particular, a repartição ou entidade considerará não satisfeita a exigência documental e dará conhecimento do fato à autoridade competente, dentro do prazo improrrogável de 5 (cinco) dias, para instauração do processo criminal.~~
+
+~~Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.~~
+
+~~Campo Grande, 26 de outubro de 1979.~~
+
+~~MARCELO MIRANDA SOARES~~
+
+~~Governador~~
+
+~~JOÃO LEITE SCHIMIDT~~
+
+~~Secretário de Estado para Assuntos da Casa Civil~~

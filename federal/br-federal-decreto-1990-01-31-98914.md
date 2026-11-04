@@ -1,7 +1,3 @@
-1
-
-###DEC-098914-0-000-31-01-1990@@@
-
 DECRETO Nº 98.914, DE 31 DE JANEIR0 DE 1990
 
 Dispõe sobre a instituição, no território nacional, de Reservas Particulares do Patrimônio Natural, por destinação do proprietário.

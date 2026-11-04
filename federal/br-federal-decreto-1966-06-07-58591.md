@@ -1,5 +1,3 @@
-###DEC-058591-0-000-07-06-1966@@@
-
 decreto nº 58.591, de 7 de junho de 1966.
 
 Aprova o Regulamento para a Base Aérea Naval de São Pedro da Aldeia.

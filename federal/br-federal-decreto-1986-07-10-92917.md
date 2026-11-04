@@ -1,5 +1,3 @@
-###DEC-092917-0-000-10-07-1986@@@
-
 DECRETO Nº 92.917, DE 10 DE JULHO DE 1986
 
 Renova a concessão outorgada à Rádio Clube de Teresina S/A, para explorar serviço de radiodifusão sonora em onda média, na cidade de Teresina, Estado do Piauí.

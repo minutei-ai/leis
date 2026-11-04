@@ -1,5 +1,3 @@
-###DEC-047566-0-000-31-12-1959@@@
-
 Decreto nº 47.566, de 31 de dezembro de 1959.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$1.000.000,00 para atenderá as despesas com a ereção de um monumento comemorativo do I Centenário do Nascimento do Presidente Júlio Bueno Brandão.

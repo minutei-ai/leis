@@ -1,5 +1,3 @@
-###DEL-003072-0-000-21-02-1941@@@
-
 DECRETO-LEI N. 3.072 – DE 21 DE FEVEREIRO DE 1941
 
 Reorganiza as carreiras de Engenheiro do Quadro Único do Ministério da Agricultura, e dá outras providências

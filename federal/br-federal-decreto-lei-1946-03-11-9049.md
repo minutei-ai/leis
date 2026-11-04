@@ -1,5 +1,3 @@
-###DEL-009049-0-000-11-03-1946@@@
-
 DECRETO-LEI N. 9.049 – DE 11 DE MARÇO DE 1946
 
 Exclui das disposições do Decreto-lei lei nº 2.803, de 21 de Novembro de 1940, o terreno acrescido de marinha que menciona, situação no Distrito Federal, e dá outras providências.

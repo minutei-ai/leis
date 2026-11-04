@@ -1,5 +1,3 @@
-###DEC-058824-0-000-14-07-1966@@@
-
 DECRETO Nº 58.824, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção nº 107 sôbre as populações indígenas e tribais.

@@ -1,5 +1,3 @@
-###DEC-061352-0-000-15-09-1967@@@
-
 DECRETO Nº 61.352, DE 15 DE SETEMBRO DE 1967.
 
 Altera a denominação da entidade mantenedora da Faculdade de Economia e Finanças do Rio de Janeiro.

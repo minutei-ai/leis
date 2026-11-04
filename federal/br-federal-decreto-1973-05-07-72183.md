@@ -1,5 +1,3 @@
-###DEC-072183-0-000-07-05-1973@@@
-
 DECRETO Nº 72.183, DE 7 DE MAIO DE 1973.
 
 Concede permissão, em caráter permanente, a Ford do Brasil S.A., para funcionar, no setor de estamparia, em seu estabelecimento fabril de São Bernardo do Campo, aos domingos e nos dias feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-045018-0-000-04-12-1958@@@
-
 DECRETO Nº 45.018, DE 04 DE DEZEMBRO DE 1958.
 
 Dá nova redação ao art. 1º do Decreto nº 33.913, de 25 de setembro de 1953.

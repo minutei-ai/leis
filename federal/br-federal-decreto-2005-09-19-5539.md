@@ -1,5 +1,3 @@
-###DEC-005539-0-000-19-09-2005@@@
-
 DECRETO Nº 5.539, DE 19 DE SETEMBRO DE 2005
 
 Institui a hora de verão, em parte do território nacional, no período que indica.

@@ -1,5 +1,3 @@
-###DEC-045933-0-000-29-04-1959@@@
-
 decreto nº 45.933, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Ubatumirim Lotufo Garcez a pesquisar argila no município de Taubaté, Estado de São Paulo.

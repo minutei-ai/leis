@@ -1,5 +1,3 @@
-###DEC-071209-0-000-05-10-1972@@@
-
 DECRETO nº 71.209 - DE 5 de OUTUBRO DE 1972.
 
 Declara de utilidade pública, as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEL-003463-0-000-25-07-1941@@@
-
 DECRETO-LEI N. 3.463 – DE 25 DE JULHO DE 1941
 
 Aprova a Portaria n. 445 de 1940, do Ministério da Viação e Obras Publicas, e autoriza a Panair do Brasil, S. A., a executar as linhas de Goiânia e Assunção sem onus para o Tesouro Nacional

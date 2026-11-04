@@ -1,5 +1,3 @@
-###MPV-002025-0-009-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.025-9, DE 21 DE dezembro DE 2000.
 
 Institui o Vale-Pedágio obrigatório sobre transporte rodoviário de carga e dá outras providências.

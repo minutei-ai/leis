@@ -1,5 +1,3 @@
-###DEC-005436-0-000-28-04-2005@@@
-
 DECRETO Nº 5.436, DE 28 DE ABRIL DE 2005
 
 Promulga o Tratado entre a República Federativa do Brasil e a Ucrânia sobre Cooperação de Longo Prazo na Utilização do Veículo de Lançamentos Cyclone-4 no Centro de Lançamento de Alcântara, assinado em Brasília, em 21 de outubro de 2003.

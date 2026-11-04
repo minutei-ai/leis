@@ -1,5 +1,3 @@
-###MPV-001746-0-013-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.746-13, DE 2 DE JUNHO DE 1999.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

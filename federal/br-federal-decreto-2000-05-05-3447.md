@@ -1,5 +1,3 @@
-###DEC-003447-0-000-05-05-2000@@@
-
 DECRETO Nº 3.447, DE 5 DE MAIO DE 2000.
 
 Delega competência ao Ministro de Estado da Justiça para resolver sobre a expulsão de estrangeiro do País e sua revogação, na forma do art. 66 da Lei nº 6.815, de 19 de agosto de 1980, republicada por determinação do art. 11 da Lei nº 6.964, de 9 de dezembro de 1981.

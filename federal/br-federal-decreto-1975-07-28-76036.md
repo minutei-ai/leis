@@ -1,5 +1,3 @@
-###DEC-076036-0-000-28-07-1975@@@
-
 DECRETO Nº 76.036 - DE 28 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Educação Física, licenciatura e habilitação em Técnicas Desportivas, da Escola de Educação Física de Itapetininga, mantida pela Fundação Karnig Bazarian, com sede na cidade de Itapetininga, Estado de São Paulo.

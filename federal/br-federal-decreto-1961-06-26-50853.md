@@ -1,5 +1,3 @@
-###DEC-050853-0-000-26-06-1961@@@
-
 decreto nº 50.853, de 26 de junho de 1961.
 
 Altera a redação do artigo 2º do Decreto nº 45.684, de 1º de abril de 1959.

@@ -1,5 +1,3 @@
-###DEC-082737-0-000-27-11-1978@@@
-
 DECRETO Nº 82737 DE 27 DE NOVEMBRO DE 1978
 
 Concede reconhecimento ao curso de Administração, da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado de Mato Grosso.

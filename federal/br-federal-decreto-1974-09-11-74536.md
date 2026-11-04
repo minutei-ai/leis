@@ -1,5 +1,3 @@
-###DEC-074536-0-000-11-09-1974@@@
-
 decreto nº 74.536, de 11 de setembro de 1974.
 
 Autoriza o funcionamento do curso de Artes Práticas da Faculdade de Filosofia, Ciências e Letras de Penápolis, mantida pela Fundação Educacional de Penápolis, com sede na cidade de Penápolis, Estado de São Paulo.

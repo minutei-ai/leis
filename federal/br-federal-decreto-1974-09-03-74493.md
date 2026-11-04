@@ -1,5 +1,3 @@
-###DEC-074493-0-000-03-09-1974@@@
-
 DECRETO Nº 74.493, DE 3 DE SETEMBRO DE 1974.
 
 Declara perempta a concessão outorgada à Rádio Panamericana S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade do Rio de Janeiro, Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-091541-0-000-19-08-1985@@@
-
 DEcreto nº 91.541, de 19 de agosto de 1985.
 
 Dispõe sobre a Comissão Provisória de Estudos Constitucionais.

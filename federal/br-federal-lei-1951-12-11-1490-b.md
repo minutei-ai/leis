@@ -1,12 +1,10 @@
-###LEI-001490-B-000-11-12-1951@@@
+**LEI N. 1.490 – B – DE 11 DE DEZEMBRO DE 1951**
 
-<strong>LEI N. 1.490 – B – DE 11 DE DEZEMBRO DE 1951</strong>
-
-<em><strong>Concede auxílio a Campanha Nacional de Educandários Gratuitos e dá outras providências.</strong></em>
+***Concede auxílio a Campanha Nacional de Educandários Gratuitos e dá outras providências.***
 
 O Congresso Nacional decreta e eu, João Café Filho, Presidente do Senado Faderal, promulgo, nos termos do art. 70, § 4º, da Constituição Federal, a seguinte Lei:
 
-<strong>Art.</strong> 1º E’ concedido à Campanha Nacional de Educandários Gratuitas com sede na cidade de Recife, Estado de Pernambuco, o auxílio de Cr$ 1.770.000,00 (um milhão, setecentos e setenta mil cruzeiros) destinado a custear a manutenção dos deguintes estabelecimentos de ensino:
+**Art.** 1º E’ concedido à Campanha Nacional de Educandários Gratuitas com sede na cidade de Recife, Estado de Pernambuco, o auxílio de Cr$ 1.770.000,00 (um milhão, setecentos e setenta mil cruzeiros) destinado a custear a manutenção dos deguintes estabelecimentos de ensino:
 
 Cr$
 
@@ -72,12 +70,12 @@ dd) Ginásio Nestório Ribeiro, em Jataí, Estado de Goiás ....................
 
 ee) Ginásio Gomes de Sousa em Grajaú, Estado do Maranhão ............................................ 50.000,00
 
-ff) Escola Paulo Hoeck, de Rosário, Estado do Rio Grande do Sul ........................................ <u>50.000,00</u>
+ff) Escola Paulo Hoeck, de Rosário, Estado do Rio Grande do Sul ........................................ 50.000,00
 
-Total ....................................................................................................................... <u>1.770.000,00</u>
+Total ....................................................................................................................... 1.770.000,00
 
-<strong>Art.</strong> 2º E' o Poder Executivo autorizado a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 1.770.000,00 (um milhão, setecentos e setenta mil cruzeiros) para atender à despesa (Serviços e Encargos) com o pagamento do auxílio de que trata o artigo anterior.
+**Art.** 2º E' o Poder Executivo autorizado a abrir, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 1.770.000,00 (um milhão, setecentos e setenta mil cruzeiros) para atender à despesa (Serviços e Encargos) com o pagamento do auxílio de que trata o artigo anterior.
 
-<strong>Art.</strong> 3º Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art.** 3º Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Senado Federal, em 11 de dezembro de 1951. – JOÃO CAFÉ FILHO.

@@ -1,5 +1,3 @@
-###DEC-073867-0-000-26-03-1974@@@
-
 DECRETO Nº 73.867, DE 26 DE MARÇO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Universidade Federal de Santa Maria com sede na cidade de Santa Maria, Estado do Rio Grande do Sul.

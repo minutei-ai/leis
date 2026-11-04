@@ -1,5 +1,3 @@
-###DEC-094494-0-000-19-06-1987@@@
-
 DECreTO N° 94.494, DE 19 DE JUNHO DE 1987
 
 Altera dispositivo do Decreto n° 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEC-053086-0-000-05-12-1963@@@
-
 DECRETO Nº 53.086, DE 5 DE DEZEMBRO DE 1963.
 
 Dá nova redação ao Art. 1º do Decreto nº 51.854, de 19-3-63, que alterou o Quadro de Pessoal do D.N.E.R.

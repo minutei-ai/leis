@@ -1,6 +1,6 @@
 DECRETO Nº 10.075, DE 18 DE OUTUBRO DE 2019
 
-Altera o Decreto nº 5.294, de 1º de dezembro de 2004, que fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior.<br>
+Altera o Decreto nº 5.294, de 1º de dezembro de 2004, que fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso VI, alínea “a”, da Constituição,
 
@@ -28,4 +28,4 @@ JAIR MESSIAS BOLSONARO
 
 Fernando Azevedo e Silva
 
-Ernesto Henrique Fraga Araújo<br>
+Ernesto Henrique Fraga Araújo

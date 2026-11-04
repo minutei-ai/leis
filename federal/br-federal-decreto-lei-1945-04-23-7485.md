@@ -1,5 +1,3 @@
-###DEL-007485-0-000-23-04-1945@@@
-
 DECRETO-LEI N. 7.485 – DE 23 DE ABRIL DE 1945
 
 Dispõe sôbre a prova do casamento nas habitações aos benefícios do seguro social, e dá outras providências

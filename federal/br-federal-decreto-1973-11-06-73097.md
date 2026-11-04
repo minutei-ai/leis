@@ -1,5 +1,3 @@
-###DEC-073097-0-000-06-11-1973@@@
-
 DECRETO Nº 73.097 - DE 6 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à construção de subestação, no município de São Paulo, Estado de São Paulo.

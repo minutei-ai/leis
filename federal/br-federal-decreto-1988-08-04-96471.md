@@ -1,5 +1,3 @@
-###DEC-096471-0-000-04-08-1988@@@
-
 DECRETO N° 96.471, DE 4 DE AGOSTO DE 1988
 
 Autoriza a Morgan Guaranty Trust Company of New York, como sucessora da Banca Commerciale Italiana, a funcionar no Brasil e dá outras providências.

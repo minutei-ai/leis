@@ -1,5 +1,3 @@
-###DEL-005714-0-000-30-07-1943@@@
-
 DECRETO‑LEI N. 5.714 – DE 30 DE JULHO DE 1943
 
 Aprova as despesas efetuadas em 1935 pelo Capitão de Fragata Intendente Naval Jacob Cordovil Maurity

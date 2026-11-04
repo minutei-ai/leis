@@ -1,5 +1,3 @@
-###DEC-007758-0-000-15-06-2012-PUB-01@@@
-
 DECRETO N°\- 7.758, DE 15 DE JUNHO DE 2012
 
 Altera o Decreto n° 5.209, de 17 de setembro de 2004, que regulamenta a Lei n° 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

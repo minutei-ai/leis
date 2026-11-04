@@ -1,5 +1,3 @@
-###DEC-084259-0-000-04-12-1979@@@
-
 decreto nº 84.259, de 04 de dezembro de 1979
 
 Prorroga prazo estabelecido no art. 1º do Decreto nº 83 488, de 22 de maio de 1979, que dispõe sobre modelo-padrão para os diplomas e certificados relativos às habilitações profissionais do ensino de 2º grau.

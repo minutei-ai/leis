@@ -1,5 +1,3 @@
-###DEC-091989-0-000-27-11-1985@@@
-
 decreto nº 91.989, de 27 de novembro de 1985
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia Santa Dorotéia, de Nova Friburgo Estado do Rio de Janeiro.

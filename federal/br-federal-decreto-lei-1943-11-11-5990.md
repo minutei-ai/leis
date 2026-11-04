@@ -1,5 +1,3 @@
-###DEL-005990-0-000-11-11-1943@@@
-
 DECRETO‑LEI N. 5.990 – DE 11 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 4.000,00, à verba que especifica
@@ -16,7 +14,15 @@ Consignação III – Diversas Despesas
 
 S/c. n. 41 – Passagens, transporte do pessoal e de suas bagagens
 
-<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22 – Delegacias Fiscais ................................................................................................</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">4.000</span><span style="text-decoration:underline">00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-left:56.7pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:375.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+22 – Delegacias Fiscais ................................................................................................
+
+</td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+4.00000
+
+</td></tr></tbody></table>
 
 Parágrafo único. O crédito a que se refere êste artigo se destina à Dele­gacia Fiscal em Goiaz.
 

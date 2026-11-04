@@ -1,5 +1,3 @@
-###DEC-053430-0-000-20-01-1964@@@
-
 DECRETO Nº 53.430, DE 20 DE JANEIRO DE 1964.
 
 Declara caduco o decreto nº 9.258, de 16 de abril de 1942.

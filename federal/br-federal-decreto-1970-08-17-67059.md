@@ -1,5 +1,3 @@
-###DEC-067059-0-000-17-08-1970@@@
-
 decreto nº 67.059, de 17 de agôsto de 1970.
 
 Declara de utilidade pública a Fundação - Instituição Família Cavalheiro Caetano Petraglia, com sede em Franca, Estado de São Paulo.

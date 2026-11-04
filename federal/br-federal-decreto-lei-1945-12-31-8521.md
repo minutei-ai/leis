@@ -1,5 +1,3 @@
-###DEL-008521-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.521 – DE  31 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas crédito suplementar à Verba que especifica.

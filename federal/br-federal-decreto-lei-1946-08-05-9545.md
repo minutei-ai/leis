@@ -1,5 +1,3 @@
-###DEL-009545-0-000-05-08-1946@@@
-
 DECRETO-LEI N. 9.545 – DE 05 de AGÔSTO DE 1946
 
 Dispõe sôbre a habilitação e exercício da atividade de condutor de veículos automotores

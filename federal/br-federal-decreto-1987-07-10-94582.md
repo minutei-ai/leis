@@ -1,5 +1,3 @@
-###DEC-094582-0-000-10-07-1987@@@
-
 DECRETO N° 94.582, DE 10 DE JULHO DE 1987
 
 Renova a concessão outorgada à RÁDIO FRONTEIRA D'OESTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Terra Roxa, Estado do Paraná.

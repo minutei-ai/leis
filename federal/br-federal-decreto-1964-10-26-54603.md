@@ -1,5 +1,3 @@
-###DEC-054603-0-000-26-10-1964@@@
-
 DECRETO Nº 54.603, DE 26 DE OUTUBRO DE 1964.
 
 Declara públicas, de uso comum, às águas do curso que específica.

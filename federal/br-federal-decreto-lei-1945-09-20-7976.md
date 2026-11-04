@@ -1,5 +1,3 @@
-###DEL-007976-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.976 – DE 20 DE SETEMBRO DE 1945
 
 Concede isenção de tributos incidentes sôbre estabelecimentos de ensino.

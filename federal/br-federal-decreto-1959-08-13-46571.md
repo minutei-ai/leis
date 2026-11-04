@@ -1,5 +1,3 @@
-###DEC-046571-0-000-13-08-1959@@@
-
 DECRETO Nº 46.571, DE 13 DE AGÔSTO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno, necessário ao Ministério da Guerra, no Estado do Paraná.

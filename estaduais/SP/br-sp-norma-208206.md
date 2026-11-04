@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208206)<br>
-
 # DECRETO N° 67.757, DE 20 DE JUNHO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, da Universidade de São Paulo - USP, parte do imóvel que especifica._

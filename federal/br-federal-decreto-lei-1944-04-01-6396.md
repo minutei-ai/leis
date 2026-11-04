@@ -1,5 +1,3 @@
-###DEL-006396-0-000-01-04-1944@@@
-
 DECRETO-LEI N. 6.396 – DE 1 DE ABRIL DE 1944
 
 Organiza a Justiça Militar junto às, Fôrças Expedicionárias e regulariza seu funcionamento

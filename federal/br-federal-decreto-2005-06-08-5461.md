@@ -1,5 +1,3 @@
-###DEC-005461-0-000-08-06-2005@@@
-
 DECRETO Nº 5.461, DE 8 DE JUNHO DE 2005
 
 Dispõe sobre a criação do Consulado do Brasil em Iquitos, República do Peru.

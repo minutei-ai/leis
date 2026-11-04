@@ -1,5 +1,3 @@
-###DEC-050310-0-000-03-03-1961@@@
-
 Decreto nº 50.310, de 3 de março de 1961.
 
 Torna sem efeito o Decreto nº 49.412, de 2 de dezembro de 1960.

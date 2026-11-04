@@ -1,5 +1,3 @@
-###DEC-076403-0-000-08-10-1975@@@
-
 Decreto nº 76.403, de 8 de outubro de 1975.
 
 Cria o Sistema Nacional de Emprego (SINE) e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081045-0-000-15-12-1977@@@
-
 Decreto nº 81.045, de 15 de dezembro de 1977.
 
 Declara sem efeito o Decreto nº 35.117, de 25 de fevereiro de 1954, que autorizou a Usina Queiroz Júnior S/A - Indústria Siderúrgica a lavrar calcário no Município de Matozinhos, Estado de Minas Gerais.

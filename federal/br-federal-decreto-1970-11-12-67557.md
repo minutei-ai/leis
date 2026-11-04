@@ -1,5 +1,3 @@
-###DEC-067557-0-000-12-11-1970@@@
-
 DECRETO Nº 67.557, DE 12 DE NOVEMBRO DE 1970.
 
 Dispõe sôbre a criação de área prioritária ao longo da rodovia Transamazônica, para fins de Reforma Agrária, a ser incluída no Plano de Integração Nacional, e dá outras providências.

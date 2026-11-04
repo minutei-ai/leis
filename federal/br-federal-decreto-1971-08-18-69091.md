@@ -1,5 +1,3 @@
-###DEC-069091-0-000-18-08-1971@@@
-
 DECRETO Nº 69.091, DE 18 DE AGôSTO DE 1971.
 
 Concede à Companhia Carbonífera São Marcos S.A. o direito de lavrar carvão mineral, no município de Criciúma, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-046876-0-000-19-09-1959@@@
-
 decreto nº 46.876, de 19 de setembro de 1959.
 
 Dispõe sôbre a concessão de cartas profissionais de 2º Piloto e 3º Comissário a oficiais da Reserva da Marinha.

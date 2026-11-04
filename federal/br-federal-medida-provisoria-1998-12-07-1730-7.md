@@ -1,5 +1,3 @@
-###MPV-001730-0-007-07-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.730-7, DE 7 DE DEZEMBRO DE 1998.
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

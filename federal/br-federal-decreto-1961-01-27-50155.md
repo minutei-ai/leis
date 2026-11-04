@@ -1,5 +1,3 @@
-###DEC-050155-0-000-27-01-1961@@@
-
 DECRETO Nº 50.155, DE 27 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Tingui Limitada para instalar uma estação radiodifusora.

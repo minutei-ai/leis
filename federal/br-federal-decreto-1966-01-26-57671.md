@@ -1,5 +1,3 @@
-###DEC-057671-0-000-26-01-1966@@@
-
 DECRETO Nº 57.671, DE 26 DE JANEIRO DE 1966.
 
 Autoriza para funcionamento de curso.

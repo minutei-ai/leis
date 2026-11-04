@@ -1,7 +1,3 @@
-1
-
-###MPV-001248-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.248, de 14 de DEZEMBRO de 1995.
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

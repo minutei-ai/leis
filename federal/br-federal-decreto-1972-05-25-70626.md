@@ -1,5 +1,3 @@
-###DEC-070626-0-000-25-05-1972@@@
-
 DECRETO Nº 70.626, DE 25 DE MAIO de 1972.
 
 Restabelece a Base Aérea de Belo Horizonte, cria o Núcleo da Base Aérea de Belo Horizonte e dá outras providências.

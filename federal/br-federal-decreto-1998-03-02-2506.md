@@ -1,5 +1,3 @@
-###DEC-002506-0-000-02-03-1998@@@
-
 DECRETO Nº 2.506, DE 2 DE MARÇO DE 1998
 
 Altera o Decreto nº 1.817, de 12 de fevereiro de 1996, que dispõe sobre o processo de eleição dos representantes da sociedade civil no Conselho Nacional de Assistência Social, e dá outras providências.

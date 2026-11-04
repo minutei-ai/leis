@@ -1,5 +1,3 @@
-###DEC-048738-0-000-04-08-1960@@@
-
 DECRETO Nº 48.738, DE 4 DE AGÔSTO DE 1960.
 
 Cria no Conselho do Desenvolvimento o Grupo Executivo de Assistência a Média e Pequena Emprêsa, com a finalidade de coordenar à média e pequena emprêsas industriais.

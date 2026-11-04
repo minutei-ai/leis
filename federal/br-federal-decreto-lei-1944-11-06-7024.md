@@ -1,6 +1,4 @@
-###DEL-007024-0-000-06-11-1944@@@ 
-
- DECRETO-LEI N. 7.024 – DE 6 DE NOVEMBRO DE 1944
+DECRETO-LEI N. 7.024 – DE 6 DE NOVEMBRO DE 1944
 
 Dispõe sôbre a liquidação dos débitos das emprêsas da Organização Lage, e dá outras providências
 

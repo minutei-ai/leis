@@ -1,5 +1,3 @@
-###DEL-000031-0-000-01-12-1937@@@
-
 DECRETO-LEI N. 31 – DE 1 DE DEZEMBRO DE 1937
 
 Abre, pelo Mìnistério da Viação e Obras Públicas, o crédito suplementar de 2.300:000$000 para finalização das limpesas e desobstrução dos rios de Jacarépaguá e aquisição de “drag-lines” e reparos e montagem da aparelhagem existente

@@ -1,5 +1,3 @@
-###DEC-007500-0-000-17-06-2011-PUB-01@@@
-
 DECRETO Nº 7.500, DE 17 DE JUNHO DE 2011
 
 Altera o Decreto nº 7.381, de 2 de dezembro de 2010, que regulamenta a Lei nº 11.771, de 17 de setembro de 2008.

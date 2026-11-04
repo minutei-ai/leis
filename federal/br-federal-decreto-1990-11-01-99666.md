@@ -1,7 +1,3 @@
-1
-
-###DEC-099666-0-000-01-11-1990@@@
-
 DECRETO N° 99.666, DE 1° DE NOVEMBRO DE 1990
 
 Dispõe sobre inclusões no Programa Nacional de Desestatização.

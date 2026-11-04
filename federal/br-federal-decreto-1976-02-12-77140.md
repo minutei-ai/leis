@@ -1,5 +1,3 @@
-###DEC-077140-0-000-12-02-1976@@@
-
 DECRETO Nº 77.140, DE 12 DE FEVEREIRO dE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Educação São Luís, com sede na cidade de Jaboticabal, Estado de São Paulo.

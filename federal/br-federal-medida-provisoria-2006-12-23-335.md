@@ -1,5 +1,3 @@
-###MPV-000335-0-000-23-12-2006@@@
-
 MEDIDA PROVISÓRIA Nº 335, DE 23 DE DEZEMBRO 2006.
 
 Dá nova redação a dispositivos das Leis nos 9.636, de 15 de maio de 1998, 8.666, de 21 de junho de 1993, 11.124, de 16 de junho de 2005, e dos Decretos-Leis nos 9.760, de 5 de setembro de 1946, 271, de 28 de fevereiro de 1967, e 1.876, de 15 de julho de 1981, prevê medidas voltadas à regularização fundiária de interesse social em imóveis da União, e dá outras providências.
@@ -339,5 +337,3 @@ LUIZ INÁCIO LULA DA SILVA
      Nelson Machado
 
        Marcio Fortes de Almeida
-
-Este texto não substitui o publicado no DOU. de 26.12.2006

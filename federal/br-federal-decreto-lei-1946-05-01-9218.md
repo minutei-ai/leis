@@ -1,5 +1,3 @@
-###DEL-009218-0-000-01-05-1946@@@
-
 DECRETO-LEI N. 9.218 – DE 1 DE MAIO DE 1946
 
 Autoriza a instituição da “Fundação da Casa Popular”

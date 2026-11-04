@@ -1,5 +1,3 @@
-###DEC-082298-0-000-20-09-1978@@@
-
 Decreto nº 82.298, de 20 de setembro de 1978
 
 Eleva o capital da Empresa Pública FINANCIADORA DE ESTUDOS E PROJETOS - FINEP.

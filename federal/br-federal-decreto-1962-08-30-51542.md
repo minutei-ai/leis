@@ -1,5 +1,3 @@
-###DEC-051542-0-000-30-08-1962@@@
-
 DECRETO Nº 51.542, DE 30 DE AGÔSTO DE 1962.
 
 Concede parcelamento de débito ao Sindicato dos Arrumadores de São Paulo para com o Instituto de Aposentaria e Pensões dos Empregadores em Transportes e Cargos.

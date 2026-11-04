@@ -1,5 +1,3 @@
-###DEC-055123-0-000-02-12-1964@@@
-
 DECRETO Nº 55.123, DE 2 DE DEZEMBRO DE 1964.
 
 Renova o Decreto nº 1.185-A, de 18 de junho de 1962.

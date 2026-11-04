@@ -1,5 +1,3 @@
-###DEC-045067-0-000-20-12-1958@@@
-
 decreto nº 45.067, de 20 de dezembro de 1958.
 
 Concede à Companhia de Seguros “América do Sul” autorização para funcionar e aprova os seus Estatutos.

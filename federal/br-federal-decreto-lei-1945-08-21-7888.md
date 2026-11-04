@@ -1,5 +1,3 @@
-###DEL-007888-0-000-21-08-1945@@@
-
 DECRETO-LEI N. 7.888 – DE 21 DE AGÔSTO DE 1945
 
 Cria o Centro de Aperfeiçoamento e Especialização do Realengo, e dá outras providências.

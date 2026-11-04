@@ -1,5 +1,3 @@
-###DEC-056283-0-000-13-05-1965@@@
-
 DECRETO Nº 56.283, de 13 de maio de 1965.
 
 Concede reconhecimento à Faculdade de Direito da Universidade de Goiás.

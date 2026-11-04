@@ -1,7 +1,3 @@
-1
-
-###DEL-001843-0-000-29-12-1980@@@
-
 # Decreto-lei nº 1.843, de 29 de dezembro de 1980
 
 Dispõe sobre o Incentivo fiscal a que se refere o Decreto-lei nº 1.547, de 18 de abril de 1977.

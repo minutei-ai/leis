@@ -16,19 +16,18 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 30 de junho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-| IMÓVEL DE PROPRIEDADE DO MUNICÍPIO DE TERESINA DE GOIÁS/GO AUTORIZADO A SER ADQUIRIDO,<br>
+| IMÓVEL DE PROPRIEDADE DO MUNICÍPIO DE TERESINA DE GOIÁS/GO AUTORIZADO A SER ADQUIRIDO,
+
 MEDIANTE DOAÇÃO ONEROSA, PELO ESTADO DE GOIÁS |
 | --- |
 | DENOMINAÇÃO | **Parte da A.P.M. 02 – Setor Vila Pereira** |
-| LOCALIZAÇÃO | **Entre a Rua Diojazir Marques Costa e a Rua Goiânia, Vila Pereira, Teresina de Goiás** **/GO** |
+| LOCALIZAÇÃO | **Entre a Rua Diojazir Marques Costa e a Rua Goiânia, Vila Pereira, Teresina de Goiás/GO** |
 | ÁREA | **1.925,00 m2** |
 | MATRÍCULA | **Nº 252 (parte) – Cartório de Registro de Imóveis e Anexos de Teresina de Goiás/GO** |
 | DISCRIMINAÇÃO DO IMÓVEL | REFERÊNCIA | METROS | CONFRONTAÇÃO |

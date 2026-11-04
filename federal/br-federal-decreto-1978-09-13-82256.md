@@ -1,5 +1,3 @@
-###DEC-082256-0-000-13-09-1978@@@
-
 Decreto nº 82.256, de 13 de setembro de 1978.
 
 Concede reconhecimento ao curso de Educação Física, ministrado pela Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

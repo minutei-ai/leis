@@ -1,5 +1,3 @@
-###DEC-052880-0-000-20-11-1963@@@
-
 DECRETO Nº 52.880, DE 20 DE NOVEMBRO DE 1963.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoa do Ministério da Fazenda.

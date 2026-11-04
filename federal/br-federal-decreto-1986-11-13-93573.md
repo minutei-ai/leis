@@ -1,5 +1,3 @@
-###DEC-093573-0-000-13-11-1986@@@
-
 DECRETO Nº 93.573, DE 13 DE NOVEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DO MARANHÃO S.A., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de São Luís, Estado do Maranhão.

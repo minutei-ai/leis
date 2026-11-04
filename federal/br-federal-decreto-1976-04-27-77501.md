@@ -1,5 +1,3 @@
-###DEC-077501-0-000-27-04-1976@@@
-
 DECRETO Nº 77.501 - DE 27 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Administração, da Universidade do Rio Grande, com sede na cidade de Rio Grande, Estado do Rio Grande do Sul.

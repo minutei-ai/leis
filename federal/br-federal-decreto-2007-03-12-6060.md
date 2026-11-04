@@ -1,5 +1,3 @@
-###DEC-006060-0-000-12-03-2007@@@
-
 DECRETO Nº 6.060, DE 12 DE MARÇO DE 2007.
 
 Promulga a Convenção Interamericana sobre Transparência nas Aquisições de Armas Convencionais, celebrada na Cidade da Guatemala, em 7 de junho de 1999.
@@ -24,11 +22,7 @@ Brasília, 12 de março de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 13.3.2007.
-
-CONVENÇÃO INTERAMERICANA SOBRE TRANSPARÊNCIA NAS
+Celso Luiz Nunes AmorimCONVENÇÃO INTERAMERICANA SOBRE TRANSPARÊNCIA NAS
 
 AQUISIÇÕES DE ARMAS CONVENCIONAIS
 

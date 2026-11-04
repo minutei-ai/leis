@@ -1,5 +1,3 @@
-###DEL-007241-0-000-11-01-1945@@@
-
 DECRETO-LEI N. 7.241 – DE 11 DE JANEIRO DE 1945
 
 Altera,  sem aumento de despesa,  o orçamento do "Plano de Obras e Equipamentos" na parte referente ao Ministério da Viação e Obras Públicas

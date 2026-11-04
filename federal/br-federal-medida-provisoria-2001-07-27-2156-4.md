@@ -1,5 +1,3 @@
-###MPV-002156-0-004-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.156-4, DE 27 DE JUlHO DE 2001
 
 Cria a Agência de Desenvolvimento do Nordeste - ADENE, Extingue a Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

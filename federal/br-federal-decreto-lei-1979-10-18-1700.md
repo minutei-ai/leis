@@ -1,5 +1,3 @@
-###DEL-001700-0-000-18-10-1979@@@
-
 # Decreto-lei nº 1.700, de 18 de outubro de 1979
 
 Extingue o registro das letras de câmbio e notas promissórias e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068311-0-000-03-03-1971@@@
-
 decreto nº 68.311, de 3 de março de 1971.
 
 Redistribui, com a respectiva ocupante, para o Quadro de Pessoal do Ministério da Indústria e do Comércio, cargo originário do ex-Departamento de Correios e Telégrafos.

@@ -1,5 +1,3 @@
-###DEC-046440-0-000-16-07-1959@@@
-
 decreto nº 46.440, de 16 de julho de 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que interferem com a zona de proteção da Base Aérea de São Paulo (Cumbica), Estado de São Paulo.

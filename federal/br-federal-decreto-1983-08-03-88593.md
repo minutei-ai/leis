@@ -1,5 +1,3 @@
-###DEC-088593-0-000-03-08-1983@@@
-
 Decreto nº 88.593, de 03 de agosto de 1983
 
 Autoriza o aumento do Capital Social da Companhia de Água e Esgoto do Amapá - CAESA.

@@ -1,5 +1,3 @@
-###DEC-077339-0-000-25-03-1976@@@
-
 Decreto nº 77.339, de 25 de março de 1976.
 
 Dispõe sobre a estrutura básica do Instituto Brasileiro do Café (IBC) e dá outras providências.

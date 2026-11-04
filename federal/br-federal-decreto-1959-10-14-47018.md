@@ -1,5 +1,3 @@
-###DEC-047018-0-000-14-10-1959@@@
-
 DECRETO Nº 47.018, DE 14 DE OUTUBRO DE 1959.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$300.000.000,00 para o fim que especifica.

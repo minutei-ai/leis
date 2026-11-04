@@ -1,5 +1,3 @@
-###DEC-077497-0-000-27-04-1976@@@
-
 DECRETO Nº 77.497 - DE 27 DE ABRIL DE 1976
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras da Faculdade de Filosofia, Ciências e Letras Carlos Queiroz, de Santa Cruz do Rio Pardo, Estado de São Paulo,

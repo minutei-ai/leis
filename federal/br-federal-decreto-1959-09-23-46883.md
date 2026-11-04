@@ -1,5 +1,3 @@
-###DEC-046883-0-000-23-09-1959@@@
-
 DECRETO Nº 46.883, DE 23 DE SETEMBRO DE 1959.
 
 Suprime cargo extinto.

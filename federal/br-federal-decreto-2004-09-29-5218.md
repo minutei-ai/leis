@@ -1,5 +1,3 @@
-###DEC-005218-0-000-29-09-2004@@@
-
 DECRETO Nº 5.218 DE 29 DE SETEMBRO DE 2004.
 
  Autoriza a prorrogação do prazo para assinatura do contrato da concessão outorgada à empresa VARIG S.A. \- Viação Aérea Rio-Grandense, para a execução de serviços aéreos, e dá outras providências.   
@@ -20,5 +18,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 29 de setembro de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

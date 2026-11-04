@@ -1,5 +1,3 @@
-###DEC-066242-0-000-20-02-1970@@@
-
 DECRETO Nº 66.242 - DE 20 DE FEVEREIRO DE 1970
 
 Retifica o Decreto nº 66.100, de 20 de janeiro de 1970, que altera dispositivo do Decreto nº 65.390, de 13 de outubro de 1969 que aprova o Regulamento do Comando de Zona Aérea.

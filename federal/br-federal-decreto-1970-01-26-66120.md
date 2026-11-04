@@ -1,5 +1,3 @@
-###DEC-066120-0-000-26-01-1970@@@
-
 decreto nº 66.120 - de 26 de janeiro de 1970
 
 Declara de utilidade pública o Hospital de Campos do Jordão "Dr. Adhemar de Barros", com sede em Campos do Jordão, Estado de São Paulo.

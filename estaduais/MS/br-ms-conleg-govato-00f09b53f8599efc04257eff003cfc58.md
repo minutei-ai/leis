@@ -6,19 +6,20 @@ Declara de Utilidade Pública Estadual a Associação Comunitária de Montese, c
 
 Publicada no Diário Oficial nº 9.045, de 16 de novembro de 2015, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a <i>Associação Comunitária de Montese</i>, com sede e foro no Município de Itaporã-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a *Associação Comunitária de Montese*, com sede e foro no Município de Itaporã-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 13 de novembro de 2015.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
-Governador do Estado<br>
-<br>
+REINALDO AZAMBUJA SILVA
+
+Governador do Estado
+
 ROSIANE MODESTO DE OLIVEIRA
 
 Secretária de Estado de Direitos Humanos, Assistência Social e Trabalho

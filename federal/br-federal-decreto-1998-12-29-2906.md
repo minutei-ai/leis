@@ -1,5 +1,3 @@
-###DEC-002906-0-000-29-12-1998@@@
-
 DECRETO Nº 2.906, DE 29 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a extinção da Diretoria do Pessoal Civil, no Ministério do Exército, e dá outras providências.

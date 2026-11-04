@@ -1,5 +1,3 @@
-###DEC-079189-0-000-01-02-1977@@@
-
 DECRETO Nº 79.189, DE 1º DE FEVEREIRO DE 1977.
 
 Concede à Mineração Caolinita Ltda. o direito de lavrar caulim no Município de Ubá, Estado de Minas Gerais.

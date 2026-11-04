@@ -1,5 +1,3 @@
-###MPV-001702-0-031-27-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.702-31, DE 27 DE NOVEMBRO DE 1998.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

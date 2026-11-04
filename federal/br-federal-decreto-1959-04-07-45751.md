@@ -1,5 +1,3 @@
-###DEC-045751-0-000-07-04-1959@@@
-
 DECRETO Nº 45.751, DE 7 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Francisco de Assis Santos a pesquisar areias ilmeníticas e associado no município de Barreirinhas, Estado do Maranhão.

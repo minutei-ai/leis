@@ -1,5 +1,3 @@
-###DEC-082480-0-000-24-10-1978@@@
-
 Decreto nº 82 480, de 24 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia Geral de Minas pelo Decreto nº 8.212, de 13 de novembro de 1941, retificada pelo Decreto nº 62 598, de 24 de abril de 1968.

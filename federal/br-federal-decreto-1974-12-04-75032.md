@@ -1,5 +1,3 @@
-###DEC-075032-0-000-04-12-1974@@@
-
 DECRETO Nº 75.032, DE 4 DE DEZEMBRO DE 1974.
 
 Fixa os efetivos do Exército para 1975 e dá outras providências.
@@ -229,8 +227,6 @@ Brasília, 4 de dezembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Sylvio Frota
-
-###DEC-075032-0-000-04-12-1974@@@
 
 DECRETO Nº 75.032, DE 4 DE DEZEMBRO DE 1974.
 

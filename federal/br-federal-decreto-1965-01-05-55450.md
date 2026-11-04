@@ -1,5 +1,3 @@
-###DEC-055450-0-000-05-01-1965@@@
-
 DECRETO Nº 55.450, DE 5 DE JANEIRO DE 1965.
 
 Autoriza Th. Badin de Minérios Ltda. a pesquisar coríndon nos municípios de Itaberaba e Sana Terezinha, Estado da Bahia.

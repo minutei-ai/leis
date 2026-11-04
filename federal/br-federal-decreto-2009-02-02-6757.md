@@ -1,5 +1,3 @@
-###DEC-006757-0-000-02-02-2009@@@
-
 DECRETO Nº 6.757, DE 2 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a execução do Qüinquagésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica no 35 (51PA-ACE35), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Chile, de 10 de dezembro de 2008.

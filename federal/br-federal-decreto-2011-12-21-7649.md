@@ -1,5 +1,3 @@
-###DEC-007649-0-000-21-12-2011-PUB-01@@@
-
 DECRETO N°\- 7.649, DE 21 DE DEZEMBRO DE 2011
 
 Altera o Decreto nº 6.629, de 4 de novembro de 2008, e dá outras providências.

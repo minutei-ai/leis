@@ -1,5 +1,3 @@
-###DEC-093937-0-000-15-01-1987@@@
-
 DECRETO Nº 93.937, DE 15 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Ressaca", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Manga, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986 e dá outras providências.

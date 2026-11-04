@@ -1,5 +1,3 @@
-###DEL-009035-0-000-06-03-1946@@@
-
 DECRETO-LEI N. 9.035 – DE 6 DE MARÇO DE 1946
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terrenos, situados no Município de São Lourenço, no Estado de Minas Gerais.

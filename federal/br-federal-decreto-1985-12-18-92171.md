@@ -1,5 +1,3 @@
-###DEC-092171-0-000-18-12-1985@@@
-
 DECRETO Nº 92.171, de 18 de dezembro de 1985.
 
 Dispõe sobre a extinção, a alteração de subordinação, a alteração de localização de sede, a criação, a alteração de denominação, de Organizações Militares, no Ministério do Exército, e dá outras providências.

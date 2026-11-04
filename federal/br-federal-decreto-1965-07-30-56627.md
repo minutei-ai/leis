@@ -1,5 +1,3 @@
-###DEC-056627-0-000-30-07-1965@@@
-
 DECRETO Nº 56.627, DE 30 DE JULHO DE 1965.
 
 Dá nova redação ao Decreto número 47.655, de 18 de janeiro de 1960, que acresce do artigo 21, o Decreto nº 45.476, de 26 de fevereiro de 1959.

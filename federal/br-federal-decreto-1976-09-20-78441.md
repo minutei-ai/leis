@@ -1,5 +1,3 @@
-###DEC-078441-0-000-20-09-1976@@@
-
 DECRETO Nº 78.441, DE 20 DE SETEMBRO DE1976.
 
 Altera dispositivo do Decreto número 76.002 de 1975, de 23 de julho de 1975, que concedeu reconhecimento ao curso de Pedagogia, da Faculdade de Educação, Ciências e Letras Urubupungá, com sede na cidade de Pereira Barreto, Estado de São Paulo.

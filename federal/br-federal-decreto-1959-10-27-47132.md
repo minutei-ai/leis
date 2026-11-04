@@ -1,5 +1,3 @@
-###DEC-047132-0-000-27-10-1959@@@
-
 decreto nº 47.132, de 27 de outubro de 1959.
 
 Retifica o artigo 1º do Decreto número 39.650, de 28 de julho de 1956.

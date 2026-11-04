@@ -1,5 +1,3 @@
-###DEL-007430-0-000-02-04-1945@@@
-
 DECRETO-LEI N. 7.430 – DE 2 DE ABRIL DE 1945
 
 Altera os arts. 1º e 2º do Decreto-Iei nº 7.045, de 13 de novembro de 1944

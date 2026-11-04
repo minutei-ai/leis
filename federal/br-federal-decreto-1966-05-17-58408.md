@@ -1,5 +1,3 @@
-###DEC-058408-0-000-17-05-1966@@@
-
 DECRETO Nº 58.408, DE 17 DE MAIO DE 1966.
 
 Concede à Sociedade de Mineração Extrativa “Somex” Ltda., autorização para funcionar como emprêsa de mineração.

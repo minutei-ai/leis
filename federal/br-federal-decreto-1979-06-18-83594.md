@@ -1,5 +1,3 @@
-###DEC-083594-0-000-18-06-1979@@@
-
 decreto nº 83.594, de 18 de junho de 1979.
 
 Concede à Arqueana de Minérios e Metais Ltda. o direito de lavrar espodumênio no Município de Araçuaí, Estado de Minas Gerais.

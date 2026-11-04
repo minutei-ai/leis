@@ -1,5 +1,3 @@
-###DEC-058231-0-000-20-04-1966@@@
-
 DECRETO Nº 58.231, de 20 de Abril de 1966.
 
 Declara de utilidade pública, fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no município de Nossa Senhora da Glória, no Estado de Sergipe.

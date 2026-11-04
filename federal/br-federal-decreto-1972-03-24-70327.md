@@ -1,5 +1,3 @@
-###DEC-070327-0-000-24-03-1972@@@
-
 DECRETO Nº 70.327, DE 24 DE MARÇO DE 1972.
 
 Declara de utilidade pública o Ginásio Nossa Senhora das Vitórias, com sede em Açu, Estado do Rio Grande do Norte.

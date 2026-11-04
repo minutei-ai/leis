@@ -1,5 +1,3 @@
-###DEC-051780-0-000-04-03-1963@@@
-
 DECRETO Nº 51.780, DE 4 DE MARÇO DE 1963.
 
 Fixa o número de vagas para cota compulsória no Ministério da Guerra.

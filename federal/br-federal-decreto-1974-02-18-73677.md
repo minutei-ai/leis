@@ -1,5 +1,3 @@
-###DEC-073677-0-000-18-02-1974@@@
-
 DECRETO Nº 73.677, DE 18 Fevereiro DE 1974.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração da Faculdade de Ciências Contábeis e de Administração de Tupã, mantida pela Organização Educacional "Artur Fernandes", com sede na Cidade de Tupã, Estado de São Paulo.

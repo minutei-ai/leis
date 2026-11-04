@@ -1,5 +1,3 @@
-###DEC-064026-0-000-27-01-1969@@@
-
 Decreto nº 64.026, de 27 de janeiro de 1969.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Marinha.

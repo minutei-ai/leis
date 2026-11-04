@@ -1,5 +1,3 @@
-###DEC-053227-0-000-12-12-1963@@@
-
 DECRETO Nº 53.227, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Clovis Scripilliti a pesquisar quartzito, no município de Itapeva, Estado de São Paulo.

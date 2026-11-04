@@ -1,5 +1,3 @@
-###DEC-072677-0-000-22-08-1973@@@
-
 DECRETO Nº 72.677, DE 22 DE AGOSTO DE 1973.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita no Município de Àguas da Prata, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-053783-0-000-20-03-1964@@@
-
 DECRETO Nº 53.783, DE 20 DE MARÇO DE 1964.
 
 Autoriza a firma Steiner Jóias Ltda., a comprar pedras preciosas.

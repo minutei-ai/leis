@@ -1,5 +1,3 @@
-###DEC-088341-0-000-30-05-1983@@@
-
 Decreto nº 88.341, de 30 de maio de 1983
 
 Inclui o comércio de artigos regionais nas estâncias hidrominerais, dentre as atividades com funcionamento permanente aos domingos e feriados civis e religiosos.

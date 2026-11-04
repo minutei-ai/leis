@@ -1,7 +1,3 @@
-1
-
-###DEC-099226-0-000-27-04-1990@@@
-
 DECRETO Nº 99.226, DE 27 DE ABRIL DE 1990
 
 Dispõe sobre a dissolução de entidades da Administração Pública Federal, e dá outras providências.

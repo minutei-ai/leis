@@ -1,5 +1,3 @@
-###DEL-004939-0-000-09-11-1942@@@
-
 DECRETO-LEI N. 4.939 – DE 9 NOVEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de Cr$ 12.000,00 à verba que especifica

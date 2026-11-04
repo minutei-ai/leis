@@ -1,7 +1,3 @@
-1
-
-###DEC-098339-0-000-27-10-1989@@@
-
 DECRETO Nº 98.339, DE 27 DE OUTUBRO DE 1989
 
 Regulamenta o art. 6º, inciso III da Lei nº 7.827, de 27 de setembro de 1989, que dispõe sobre a remuneração de recursos, pertencentes aos Fundos Constitucionais de Financiamentos do Norte, Nordeste e Centro-Oeste.

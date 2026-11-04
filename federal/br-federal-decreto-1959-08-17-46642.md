@@ -1,5 +1,3 @@
-###DEC-046642-0-000-17-08-1959@@@
-
 DECRETO Nº 46.642, de 17 de agôsto de 1959.
 
 Autoriza Companhia Materiais Sulfurosos “Matsulfur” a pesquisar gipsíta no município de Ouricuri, Estado de Pernambuco.

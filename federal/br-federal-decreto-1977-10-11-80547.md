@@ -1,5 +1,3 @@
-###DEC-080547-0-000-11-10-1977@@@
-
 DECRETO Nº 80.547, DE 11 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Odontologia da Faculdade de Odontologia de Presidente Prudente, com sede na cidade de Presidente Prudente, Estado de São Paulo.

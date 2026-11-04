@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/61914)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2006/compilacao-lei.complementar-991-29.03.2006.html)
 
 # LEI COMPLEMENTAR N° 991, DE 29 DE MARÇO DE 2006

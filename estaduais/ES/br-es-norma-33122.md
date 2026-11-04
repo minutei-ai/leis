@@ -4843,6 +4843,4 @@ Vitória, 05 de outubro de 1989.
 
 **SALVADOR BONOMO**
 
-**VALCI JOSÉ FERREIRA DE SOUZA.**
-
-Este texto não substitui o publicado no D.O. de  21/05/1990.
+**VALCI JOSÉ FERREIRA DE SOUZA.

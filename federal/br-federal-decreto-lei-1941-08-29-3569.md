@@ -1,5 +1,3 @@
-###DEL-003569-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.569 – DE 29 DE AGOSTO DE 1941
 
 Reorganiza as Comissões de Eficiência e dá outras prividências

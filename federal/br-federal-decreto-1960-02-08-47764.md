@@ -1,5 +1,3 @@
-###DEC-047764-0-000-08-02-1960@@@
-
 DECRETO Nº 47.764, DE 8 DE FEVEreIRO DE 1960.
 
 Transfere função da Tabela Única de Extranumerário-mensalista do Ministério da Viação e Obras Pública para a do Departamento dos Correios e Telégrafos.

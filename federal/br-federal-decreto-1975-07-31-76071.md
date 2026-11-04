@@ -1,5 +1,3 @@
-###DEC-076071-0-000-31-07-1975@@@
-
 DECRETO Nº 76.071, DE 31 DE JULHO DE 1975.
 
 Concede à Empresa de Águas São Lourenço S.A., o direito de lavrar água mineral no Município de Campos do Jordão, Estado de São Paulo.

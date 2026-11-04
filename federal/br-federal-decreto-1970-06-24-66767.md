@@ -1,5 +1,3 @@
-###DEC-066767-0-000-24-06-1970@@@
-
 DECRETO Nº 66.767 - DE 24 DE JUNHO DE 1970
 
 Reconhece o Curso de Engenharia Eletrônica da Pontifícia Universidade Católica do Rio Grande do Sul.

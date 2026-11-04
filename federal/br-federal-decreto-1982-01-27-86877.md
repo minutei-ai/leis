@@ -1,5 +1,3 @@
-###DEC-086877-0-000-27-01-1982@@@
-
 DECRETO Nº 86.877, DE 27 DE JANEIRO DE 1982.
 
 Cria a Embaixada do Brasil na República Unida dos Camarões.

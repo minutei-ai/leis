@@ -1,5 +1,3 @@
-###DEL-006688-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.688 – DE 13 DE JULHO DE 1944
 
 Declara de interêsse nacional e mobilizadas as indústrias que especifica e dá outras providências

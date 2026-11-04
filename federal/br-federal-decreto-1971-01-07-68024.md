@@ -1,5 +1,3 @@
-###DEC-068024-0-000-07-01-1971@@@
-
 DECRETO Nº 68.024, DE 7 DE JANEIRO de 1971
 
 Declara de utilidade pública o Instituto de Pesquisas e Estudos da Realidade Brasileira - IPERB, com sede em Brasília, Distrito Federal.

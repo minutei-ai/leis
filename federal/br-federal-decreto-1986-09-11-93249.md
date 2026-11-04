@@ -1,5 +1,3 @@
-###DEC-093249-0-000-11-09-1986@@@
-
 DECRETO Nº 93.249, DE 11 DE SETEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade de Enfermagem e Obstetrícia, de Sobral, Ceará.

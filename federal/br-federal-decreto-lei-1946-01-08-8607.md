@@ -1,5 +1,3 @@
-###DEL-008607-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.607 – DE 8 DE JANEIRO DE 1946
 
 Altera a redação do art. 132 do Decreto-lei nº 3.759, de 25 de outubro de 1941.

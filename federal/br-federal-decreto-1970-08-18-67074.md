@@ -1,5 +1,3 @@
-###DEC-067074-0-000-18-08-1970@@@
-
 Decreto nº 67.074, de 18 de agôsto de 1970.
 
 Suprime, cria e classifica funções gratificadas no Quadro de Pessoal - Parte Permanente - do Ministério do Trabalho e Previdência Social, e dá outras providências.

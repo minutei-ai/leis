@@ -1,5 +1,3 @@
-###DEC-055593-0-000-19-01-1965@@@
-
 DECRETO Nº 55.593, DE 19 DE JANEIRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Feira de Santana, Estado da Bahia.

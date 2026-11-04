@@ -1,7 +1,3 @@
-1
-
-###DEC-002055-0-000-31-10-1996@@@
-
 DECRETO Nº 2.055, DE 31 DE OUTUBRO DE 1996.
 
 Altera o art. 8º e seus parágrafos do Estatuto da Caixa Econômica Federal - CEF, aprovado pelo Decreto nº 1.138, de 9 de maio de 1994.

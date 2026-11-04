@@ -1,5 +1,3 @@
-###DEC-085706-0-000-10-02-1981@@@
-
 DECRETO Nº 85.706, de 10 DE fevereiro de 1981.
 
 Cria a Embaixada do Brasil na República Ruandesa.

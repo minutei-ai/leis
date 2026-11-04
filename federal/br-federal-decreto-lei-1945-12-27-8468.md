@@ -1,5 +1,3 @@
-###DEL-008468-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.468 – DE 27 DE DEZEMBRO DE 1945
 
 Abre ao Instituto Brasileiro de Geografia e Estatística o crédito suplementar de Cr$ 282.025,40 para refôrço da verba que especifica.

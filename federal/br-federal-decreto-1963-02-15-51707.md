@@ -1,5 +1,3 @@
-###DEC-051707-0-000-15-02-1963@@@
-
 DECRETO Nº 51.707, DE 15 DE FEVEREIRO DE 1963.
 
 Abre, ao Poder Judiciário - Justiça do Trabalho, o crédito especial de Cr$20.000.000,00, para o fim que específica.

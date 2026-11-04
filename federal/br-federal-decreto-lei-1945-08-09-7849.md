@@ -1,5 +1,3 @@
-###DEL-007849-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.849 – DE  9 DE AGÔSTO DE 1945
 
 Fixa as carreiras e cargos isolados da Prefeitura do Distrito Federal

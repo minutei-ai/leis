@@ -1,7 +1,3 @@
-1
-
-###DEC-001913-0-000-22-05-1996@@@
-
 DECRETO Nº 1.913, DE 22 DE MAIO DE 1996.
 
 Dispõe sobra a execução da Ata de Retificação do Oitavo Protocolo Adicional ao Acordo de Complementação Econômica Nº 18, entre Brasil e Argentina, de 7 de novembro de 1995.

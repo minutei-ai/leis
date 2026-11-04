@@ -1,7 +1,3 @@
-1
-
-###DEC-098077-0-000-21-08-1989@@@
-
 DECRETO N° 98.077, DE 21 DE AGOSTO DE 1989
 
 Institui a hora de verão em parte do Território Nacional, no período que indica.

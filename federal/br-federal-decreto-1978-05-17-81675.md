@@ -1,5 +1,3 @@
-###DEC-081675-0-000-17-05-1978@@@
-
 Decreto nº 81.675 de 17 de maio de 1978
 
 Concede reconhecimento aos cursos de História, de Letras, e de Geografia, da Escola Superior de Ciências e Pedagogia, com sede na cidade de Tubarão, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-071870-0-000-28-02-1973@@@
-
 DECRETO N.º 71.870, DE 28 DE FEVEREIRO DE 1973.
 
 Institui Grupo de Trabalho para examinar o problema do pessoal da Polícia Militar e do Corpo de Bombeiros do antigo Distrito Federal, ainda vinculado a União para efeito de pagamento e dá outras providências.

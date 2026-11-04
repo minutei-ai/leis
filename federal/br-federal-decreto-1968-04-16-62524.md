@@ -1,5 +1,3 @@
-###DEC-062524-0-000-16-04-1968@@@
-
 DECRETO Nº 62.524, DE 16 DE ABRIL DE 1968.
 
 Declara de utilidade pública o “Serviço de Orientação da Família” com sede em São Paulo, Estado de São Paulo.

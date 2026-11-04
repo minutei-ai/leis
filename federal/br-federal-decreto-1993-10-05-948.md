@@ -1,7 +1,3 @@
-1
-
-###DEC-000948-0-000-05-10-1993@@@
-
 DECRETO Nº 948, DE 5 DE OUTUBRO DE 1993
 
 Dispõe sobre a aplicação dos arts. 73 e 74 da Lei nº 8.112, de 11 de dezembro de 1990.

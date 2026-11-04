@@ -1,5 +1,3 @@
-###DEC-076365-0-000-02-10-1975@@@
-
 DECRETO Nº 76.365, DE 2 DE OUTUBRO DE 1975.
 
 Concede a Agrimex - Agro-Industrial Mercantil Excelsion S.A. o direito de lavrar calcário no Município de Codó, Estado do Maranhão.

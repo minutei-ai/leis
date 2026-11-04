@@ -1,5 +1,3 @@
-###DEC-004178-0-000-01-04-2002@@@
-
 DECRETO Nº 4.178, DE 1º DE ABRIL DE 2002
 
 Dispõe sobre a extinção de cargos da Carreira Ciência e Tecnologia.

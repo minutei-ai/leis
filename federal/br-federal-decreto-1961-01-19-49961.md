@@ -1,5 +1,3 @@
-###DEC-049961-0-000-19-01-1961@@@
-
 Decreto nº 49.961, de 19 de janeiro de 1961.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 43.350.000,00 para o fim que menciona.

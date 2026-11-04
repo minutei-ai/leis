@@ -1,5 +1,3 @@
-###DEC-057472-0-000-20-12-1965@@@
-
 DECRETO Nº 57.472, DE 20 DE DEZEMBRO DE 1965.
 
 Transfere para o Govêrno do Estado do Paraná os encargos e responsabilidades relacionados com o reconhecimento e inspeção dos estabelecimentos de ensino médio localizados no seu território.

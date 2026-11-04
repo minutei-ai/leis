@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211768)<br>
-
 # ATO DA MESA N° 29/2025, DE 5 DE NOVEMBRO DE 2025
 
 ### _Delegação de Competências Administrativas aos Assessores-Chefes de Gabinete da Mesa Diretora da Assembleia Legislativa do Estado de São Paulo._

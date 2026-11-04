@@ -1,5 +1,3 @@
-###DEC-007215-0-000-15-06-2010@@@
-
 DECRETO Nº 7.215, DE 15 DE JUNHO DE 2010.
 
 Regulamenta a Lei no 12.188, de 11 de janeiro de 2010, para dispor sobre o Programa Nacional de Assistência Técnica e Extensão Rural na Agricultura Familiar e na Reforma Agrária - PRONATER.

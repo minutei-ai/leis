@@ -1,5 +1,3 @@
-###DEC-005590-0-000-21-11-2005@@@
-
 DECRETO Nº 5.590, DE 21 DE NOVEMBRO DE 2005.
 
 Cria a Embaixada do Brasil na República do Sudão, com sede em Cartum.

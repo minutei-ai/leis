@@ -1,5 +1,3 @@
-###DEC-086455-0-000-09-10-1981@@@
-
 Decreto nº 86.455, de 09 de outubro de 1981.
 
 Dispõe sobre o procedimento para a alienação da Companhia Indústrias Brasileiras de Papel.

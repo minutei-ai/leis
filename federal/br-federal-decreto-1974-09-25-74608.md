@@ -1,5 +1,3 @@
-###DEC-074608-0-000-25-09-1974@@@
-
 DECRETO Nº 74.608, DE 25 DE SETEMBRO DE 1974.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

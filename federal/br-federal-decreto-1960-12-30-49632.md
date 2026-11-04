@@ -1,5 +1,3 @@
-###DEC-049632-0-000-30-12-1960@@@
-
 DECRETO Nº 49.632, DE 30 DE DEZEMBRO DE 1960.
 
 Suprime cargo extinto.

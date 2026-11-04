@@ -1,5 +1,3 @@
-###DEC-087993-0-000-28-12-1982@@@
-
 Decreto nº 87.993, de 28 de dezembro de 1982.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Cachoeira da Fumaça", situado no Município de Barra do Garças, Estado de Mato Grosso, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 87.992, de 28 de dezembro de 1982.

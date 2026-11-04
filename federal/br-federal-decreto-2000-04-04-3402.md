@@ -1,5 +1,3 @@
-###DEC-003402-0-000-04-04-2000@@@
-
 DECRETO Nº 3.402, DE 4 DE ABRIL DE 2000.
 
 Atribui à Marinha do Brasil a Representação Permanente do Brasil junto à Organização Marítima Internacional e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-090216-0-000-25-09-1984@@@
-
 Decreto nº 90.216, de 25 de setembro de 1984
 
 Autoriza o funcionamento de habilitações dos cursos de Letras e de Pedagogia do Instituto Unificado Paulista.

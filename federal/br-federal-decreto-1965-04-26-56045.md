@@ -1,5 +1,3 @@
-###DEC-056045-0-000-26-04-1965@@@
-
 DECRETO Nº 56.045, DE 26 DE ABRIL DE 1965.
 
 Declara caduco o Decreto nº 12.473, de 27 de maio de 1943.

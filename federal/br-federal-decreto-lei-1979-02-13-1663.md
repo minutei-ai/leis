@@ -1,7 +1,3 @@
-1
-
-###DEL-001663-0-000-13-02-1979@@@
-
 # Decreto-lei nº 1.663, de 13 de fevereiro de 1979
 
 Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

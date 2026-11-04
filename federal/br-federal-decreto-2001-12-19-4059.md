@@ -1,5 +1,3 @@
-###DEC-004059-0-000-19-12-2001@@@
-
 DECRETO Nº 4.059, DE 19 DE DEZEMBRO DE 2001
 
 Regulamenta a Lei no 10.295, de 17 de outubro de 2001, que dispõe sobre a Política Nacional de Conservação e Uso Racional de Energia, e dá outras providências.

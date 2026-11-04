@@ -1,7 +1,3 @@
-1
-
-###DEC-099295-0-000-12-06-1990@@@
-
 DECRETO N° 99.295, DE 12 DE JUNHO DE 1990
 
 Dispõe sobre a transferência para a Capital Federal da sede da Comissão Nacional de Energia Nuclear - CNEN.

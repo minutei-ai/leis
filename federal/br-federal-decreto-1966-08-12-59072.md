@@ -1,5 +1,3 @@
-###DEC-059072-0-000-12-08-1966@@@
-
 DECRETO Nº 59.072, DE 12 DE AGÔSTO DE 1966.
 
 Autoriza Representações, Mineração Cidade do Aço Ltda., a lavrar caulim no município de Itabirito, no Estado de Minas Gerais.

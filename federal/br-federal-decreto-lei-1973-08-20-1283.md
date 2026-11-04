@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/99a8b84e-d858-4a3f-baf3-b18e336a6391/texto#nowhere)
 
-###DEL-001283-0-000-20-08-1973@@@
-
 # DECRETO-LEI Nº 1.283, DE 20 DE AGOSTO DE 1973
 
 Dispõe sobre o Imposto de Renda, estabelecendo incentivos para pagamento de dividendos aos acionistas de Sociedades Anônimas de Capital Aberto, bem como para a subscrição de ações daquelas empresas e de quotas de Fundos de Investimento, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074631-0-000-02-10-1974@@@
-
 Decreto nº 74.631, de 2 de outubro de 1974.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais, de Ciências, de Matemática, de Química, de Educação Artística, de Artes Práticas e de Formação de Professores para as Disciplinas de Formação Especial no Ensino de 2º grau, do Centro de Educação da União da Associação de Ensino de Ribeirão Preto (UNAERP), com sede na Cidade de Ribeirão Preto, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-059685-0-000-07-12-1966@@@
-
 decreto Nº 59.685, de 7 de dezembro de 1966.
 
 Autoriza a Sociedade Técnica de Areias Para Fundição Ltda. a lavrar areia quartzosa, no município de Caraguatatuba, Estado de São Paulo.

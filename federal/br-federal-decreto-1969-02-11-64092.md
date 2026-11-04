@@ -1,5 +1,3 @@
-###DEC-064092-0-000-11-02-1969@@@
-
 DECRETO Nº 64.092, DE 11 DE FEVEREIRO DE 1969.
 
 Declara caduco o Decreto nº 22.238 de 6 de dezembro de 1946.

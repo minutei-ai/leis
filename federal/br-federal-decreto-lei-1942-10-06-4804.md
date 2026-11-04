@@ -1,5 +1,3 @@
-###DEL-004804-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.804 – DE 6 DE OUTUBRO DE1942
 
 Cria, na Imprensa Nacional, uma escola de aprendizagem de artes gráficas e dá outras providências

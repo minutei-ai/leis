@@ -1,5 +1,3 @@
-###DEC-094551-0-000-06-07-1987@@@
-
 DECRETO N° 94.551, DE 6 DE JULHO DE 1987
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Ciências Humanas Esuda.

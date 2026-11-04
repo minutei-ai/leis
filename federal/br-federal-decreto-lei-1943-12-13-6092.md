@@ -1,5 +1,3 @@
-###DEL-006092-0-000-13-12-1943@@@
-
 DECRETO‑LEI N. 6.092 – DE 13 DE DEZEMRO DE 1943
 
 Autoriza o provimento imediato de cargos vagos, no Ministério da Fazenda e dá outras providências

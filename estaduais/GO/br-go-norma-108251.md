@@ -1,7 +1,7 @@
 DECRETO Nº 10.369, DE 19 DE DEZEMBRO DE 2023
 
-<br>
-Aprova Súmula Administrativa da Procuradoria-Geral do Estado.<br>
+Aprova Súmula Administrativa da Procuradoria-Geral do Estado.
+
 \* Uma vez publicada via decreto, a súmula passa a ter efeito vinculante.
 
 O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, conforme o inciso IX do art. 8º e o art. 44 da [Lei Complementar estadual nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990), de 4 de julho de 2006, também em atenção ao que consta do Processo nº 202100003015315, especialmente o Despachonº 1.748/2023/GAB, do Procurador-Geral do Estado, a fim de que haja efeito vinculante para toda a administração direta, autárquica e fundacional do Poder Executivo,
@@ -15,8 +15,6 @@ Art. 1º Fica aprovada a Súmula Administrativa nº 22, do Conselho de Procurado
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 19 de dezembro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

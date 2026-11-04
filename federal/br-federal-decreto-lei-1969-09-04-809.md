@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/119bcad6-7692-4480-b498-3201ccc96808/texto#nowhere)
 
-###DEL-000809-0-000-04-09-1969@@@
-
 DECRETO-LEI Nº 809, DE 4 DE SETEMBRO DE 1969
 
 Revoga e dá nova redação a dispositivos da Lei nº 3.149, de 21 de maio de 1957, e dá outras providências.

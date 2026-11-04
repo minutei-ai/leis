@@ -1,5 +1,3 @@
-###DEC-077198-0-000-19-02-1976@@@
-
 Decreto nº 77.198, de 19 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Universidade Federal Rural do Rio de Janeiro, com sede na Cidade de Itaguaí, Estado do Rio de Janeiro.

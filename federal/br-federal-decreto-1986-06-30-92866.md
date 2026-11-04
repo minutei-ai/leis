@@ -1,5 +1,3 @@
-###DEC-092866-0-000-30-06-1986@@@
-
 DECRETO Nº 92.866, DE 30 DE JUNHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação da Subestação Transformadora de Distribuição da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

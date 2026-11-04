@@ -1,5 +1,3 @@
-###DEC-007950-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.950, DE 12 DE MARÇO DE 2013
 
 Institui o Banco Nacional de Perfis Genéticos e a Rede Integrada de Bancos de Perfis Genéticos.

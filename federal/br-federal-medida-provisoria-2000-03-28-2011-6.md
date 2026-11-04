@@ -1,5 +1,3 @@
-###MPV-002011-0-006-28-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.011-6, DE 28 DE março de 2000.
 
 Altera dispositivos da Lei nº 9.615, de 24 de março de 1998, e dá outras providências.

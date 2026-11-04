@@ -1,5 +1,3 @@
-###DEC-070324-0-000-23-03-1972@@@
-
 DECRETO Nº 70.324, DE 23 DE MARÇO DE 1972.
 
 Autoriza o funcionamento do Instituto Universitário Paulista, em São Pulo - SP.

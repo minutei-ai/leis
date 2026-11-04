@@ -1,20 +1,18 @@
-###DEC-026415-0-000-04-03-1949@@@
+**DECRETO Nº 26.415, DE 4 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.415, DE 4 DE MARÇO DE 1949.</strong>
+***Outorga à Emprêsa Luz e Força Elétrica Itaiópolis S. A. concessão para o aproveitamento da energia hidráulica do salto Grein, situado no rio negrinho, município de Itaiópolis, Estado de Santa Catarina.***
 
-<em><strong>Outorga à Emprêsa Luz e Força Elétrica Itaiópolis S. A. concessão para o aproveitamento da energia hidráulica do salto Grein, situado no rio negrinho, município de Itaiópolis, Estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 164, letra *b*, do Código de Águas,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 164, letra <em>b</em>, do Código de Águas,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos e outorgada a Emprêsa Força e Luz Elétrica Itaiópolis S. A. concessão para o aproveitamento da energia hidráulica do salto Grein, situado no Rio Negrinho, município de Itaiópolis, Estado de Santa Catarina.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos e outorgada a Emprêsa Força e Luz Elétrica Itaiópolis S. A. concessão para o aproveitamento da energia hidráulica do salto Grein, situado no Rio Negrinho, município de Itaiópolis, Estado de Santa Catarina.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para serviços públicos e de utilidade pública, para comércio de energia no município de Itaiópolis.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas dentro de trinta (30) dias, após a sua publicação.
 
@@ -66,32 +64,32 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observações linimétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observações linimétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato.
+**Art**. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato.
 
-<strong>Art</strong>. 5º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função de sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 5º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função de sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 6º As atuais tabelas de preço de energia fornecida pela concessionária serão integralmente mantidas até que, mediante revisão oportunamente efetuada pela Divisão de Águas, sejam fixadas as que deverão vigorar pelo primeiro período de tarifas, de acôrdo com o disposto no artigo 180 do Código de Águas.
+**Art**. 6º As atuais tabelas de preço de energia fornecida pela concessionária serão integralmente mantidas até que, mediante revisão oportunamente efetuada pela Divisão de Águas, sejam fixadas as que deverão vigorar pelo primeiro período de tarifas, de acôrdo com o disposto no artigo 180 do Código de Águas.
 
-<strong>Art</strong>. 7º Para a manutenção da integridade do capital a que se refere o artigo 5º do presente Decreto, será criado um fundo de reserva que provera às renovações, determinadas pela depreciação ou imposta por acidentes.
+**Art**. 7º Para a manutenção da integridade do capital a que se refere o artigo 5º do presente Decreto, será criado um fundo de reserva que provera às renovações, determinadas pela depreciação ou imposta por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por cotas especiais, que incidirão sôbre as tarifas, sob foram de porcentagem. Estas cotas serão determinadas tendo-se em vista a duração media do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 8º. Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Santa Catarina, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, o capital não amortizado, deduzido a reserva de renovação a que se refere o parágrafo único do artigo 7º dêste decreto.
+**Art**. 8º. Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Santa Catarina, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, o capital não amortizado, deduzido a reserva de renovação a que se refere o parágrafo único do artigo 7º dêste decreto.
 
 § 1º Se o Estado de Santa Catarina não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Governo Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Governo Federal da decisão do Estado de Santa Catarina e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 9º A concessionária gozará desde a data do registro de que trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 9º A concessionária gozará desde a data do registro de que trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 10. O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 10. O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 11. Revogam-se as disposições em contrário.
+**Art**. 11. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 4 de março de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

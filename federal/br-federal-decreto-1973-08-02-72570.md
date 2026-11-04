@@ -1,5 +1,3 @@
-###DEC-072570-0-000-02-08-1973@@@
-
 decreto nº 72.570, de 2 de agosto de 1973.
 
 Autoriza o funcionamento da Faculdade de Direito do Crato com sede na Cidade do Crato, Estado do Ceará.

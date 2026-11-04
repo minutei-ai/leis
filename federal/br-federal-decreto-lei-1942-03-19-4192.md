@@ -1,5 +1,3 @@
-###DEL-004192-0-000-19-03-1942@@@
-
 DECRETO-LEI N. 4.192 – DE 19 DE MARÇO DE 1942
 
 Abre ao ministério da Viação e Obras Públicas o crédito especial de 504:919$9, para pagamento a “The Great Western of Brazil Railway Company, Limited”.

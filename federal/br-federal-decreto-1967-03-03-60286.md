@@ -1,5 +1,3 @@
-###DEC-060286-0-000-03-03-1967@@@
-
 DECRETO Nº 60.286, DE 3 DE MARÇO DE 1967.
 
 Autoriza a transferência da Sede da Faculdade de Filosofia Nossa Senhora Medianeira, de Nova Friburgo.

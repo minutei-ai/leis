@@ -1,5 +1,3 @@
-###DEC-091291-0-000-31-05-1985@@@
-
 Decreto nº 91.291, de 31 de MAIO de 1985.
 
 Altera o artigo 29 do Decreto nº 84.557, de 12 de março de 1980, regulamentador do Decreto-lei nº 1.177, de 21 de junho de 1971, que dispõe sobre aerolevantamento no território nacional e dá outras providências.

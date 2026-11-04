@@ -1,5 +1,3 @@
-###DEC-092061-0-000-05-12-1985@@@
-
 Decreto nº 92.061, de 05 de dezembro de 1985
 
 Regulamenta o artigo 31 da Lei nº 6.024, de 13 de março de 1974, e dá outras providências.

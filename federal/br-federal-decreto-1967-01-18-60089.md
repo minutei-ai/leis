@@ -1,5 +1,3 @@
-###DEC-060089-0-000-18-01-1967@@@
-
 DECRETo Nº 60.089, DE 18 DE JANEIRO DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos da São Cristóvão Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

@@ -1,14 +1,12 @@
-###DEC-044458-0-000-03-09-1958@@@
+**DECRETO Nº 44.458, DE 3 DE SETEMBO DE 1958.**
 
-<strong>DECRETO Nº 44.458, DE 3 DE SETEMBO DE 1958.</strong>
+***Dá nova redação aos itens que cita do art. 1º de Decreto nº 40.570, de 18 de dezembro do ano de 1956.***
 
-<em><strong>Dá nova redação aos itens que cita do art. 1º de Decreto nº 40.570, de 18 de dezembro do ano de 1956.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista o § 16 do art. 141 da Constituição Federal e usando das atribuições que lhe confere o item I do art. 87 da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o § 16 do art. 141 da Constituição Federal e usando das atribuições que lhe confere o item I do art. 87 da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passam a ter a seguinte redação os itens abaixo enumerados do art. 1º do Decreto nº 40.570, de 18 de dezembro de 1956;
+**Art**. 1º Passam a ter a seguinte redação os itens abaixo enumerados do art. 1º do Decreto nº 40.570, de 18 de dezembro de 1956;
 
 I - Gleba A.
 
@@ -96,10 +94,10 @@ II - Gleba B :
 
 41 - Propriedade de Walfrido da Silva Lima, com uma área de 16.964 Ha., no valor de Cr$24.826,50 (vinte e quatro mil, oitocentos e vinte e seis cruzeiros e cinqüenta centavos);
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 3 de setembro de 1958: 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK.</strong>
+**JUSCELINO KUBITSCHEK.**
 
 Henrique Lott

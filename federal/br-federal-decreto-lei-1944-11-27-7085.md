@@ -1,5 +1,3 @@
-###DEL-007085-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.085 – De 27 De Novembro De 1944
 
 Prorroga o mandato dos membros componentes das Comissões de Salário Mínimo e dá outras providências

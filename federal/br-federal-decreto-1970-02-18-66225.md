@@ -1,5 +1,3 @@
-###DEC-066225-0-000-18-02-1970@@@
-
 DECRETO Nº 66.225 - DE 18 DE FEVEREIRO DE 1970
 
 Prorroga até 31 de março de 1970, o prazo de permanência de servidores à disposição da Emprêsa Brasileira de Correios e Telégrafos, de que trata o Artigo 4º do Decreto número 65.483, de 21 de outubro de 1969.

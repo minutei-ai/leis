@@ -1,5 +1,3 @@
-###DEL-006080-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.080 – DE 9 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.500,00, para pagamento de ajuda de custo pela Estrada de Ferro de Goiáz

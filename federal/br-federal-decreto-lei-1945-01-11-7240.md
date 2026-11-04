@@ -1,5 +1,3 @@
-###DEL-007240-0-000-11-01-1945@@@
-
 DECRETO-LEl N. 7.240 – DE 11 DE JANEIRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.840.000,00, para despesas da Comissão de Contrôle dos Acordos de Washington

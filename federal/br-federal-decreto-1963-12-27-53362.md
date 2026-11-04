@@ -1,5 +1,3 @@
-###DEC-053362-0-000-27-12-1963@@@
-
 DECRETO Nº 53.362, DE 27 DE DEZEMBRO DE 1963.
 
 Autoriza a admissão de 75 (setenta e cinco) ex-combatentes da Fôrça Expedicionária Brasileira.

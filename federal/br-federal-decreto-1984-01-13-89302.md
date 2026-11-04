@@ -1,5 +1,3 @@
-###DEC-089302-0-000-13-01-1984@@@
-
 Decreto nº 89.302 de 13 de janeiro de 1984
 
 Autoriza o funcionamento dos cursos de Ciências e de Pedagogia da Faculdade de Filosofia e dos cursos de Agronomia e de Zootecnia da Escola Superior de Ciências Agrárias de Rio Verde, Goiás.

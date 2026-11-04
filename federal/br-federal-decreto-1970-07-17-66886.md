@@ -1,5 +1,3 @@
-###DEC-066886-0-000-17-07-1970@@@
-
 Decreto nº 66.886, de 17 de julho de 1970.
 
 Autoriza o funcionamento de Curso na Faculdade "Auxilium" de Filosofia, Ciências e Letras de Lins, SP.

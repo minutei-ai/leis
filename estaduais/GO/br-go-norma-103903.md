@@ -1,12 +1,14 @@
 DECRETO Nº 9.836, DE 22 DE MARÇO DE 2021
 
-<br>
-\- [Vide Lei nº 20.968, de 18/02/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968) - Estima a receita e fixa a despesa do Estado para o exercício de 2021.<br>
-\- [Vide Lei nº 20.821, de 04/08/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103301/lei-20821) Dispõe sobre as diretrizes orçamentárias para o exercício de 2021 e dá outras providências.<br>\- [Vide Lei nº 20.755, de 28/01/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100977/lei-20755) Dispõe sobre o Plano Plurianual para o quadriênio 2020-2023.  <br>
-\- [Vide decreto nº 9.943, de 08-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289/decreto-9943) - Estabelece normas de programação e execução orçamentária e financeira, também procedimentos contábeis para o Estado de Goiás.<br>
-<br>
+\- [Vide Lei nº 20.968, de 18/02/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103877/lei-20968) - Estima a receita e fixa a despesa do Estado para o exercício de 2021.
 
-Estabelece, para o exercício de 2021, os limites anuais de empenho e pagamento pelos órgãos da administração direta, indireta e empresas estatais dependentes.<br>
+\- [Vide Lei nº 20.821, de 04/08/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103301/lei-20821) Dispõe sobre as diretrizes orçamentárias para o exercício de 2021 e dá outras providências.
+\- [Vide Lei nº 20.755, de 28/01/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100977/lei-20755) Dispõe sobre o Plano Plurianual para o quadriênio 2020-2023.  
+
+\- [Vide decreto nº 9.943, de 08-09-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104289/decreto-9943) - Estabelece normas de programação e execução orçamentária e financeira, também procedimentos contábeis para o Estado de Goiás.
+
+Estabelece, para o exercício de 2021, os limites anuais de empenho e pagamento pelos órgãos da administração direta, indireta e empresas estatais dependentes.
+
 [\- Redação dada pelo Decreto nº 9.966, de 05-10-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104377/decreto-9966)
 
 ~~Estabelece, para o exercício de 2021, os limites anuais de empenho e pagamento pelos órgãos da administração direta, indireta e empresas estatais dependentes para o exercício de 2021.~~
@@ -125,18 +127,16 @@ Art. 14. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 22 de março de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 **ANEXOS**
 
-**[ANEXOS I, II e III](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17525)**<br>
+**[ANEXOS I, II e III](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17525)**
+
 [\- Com redação dada pelo Decreto nº 10.017, de 29-12-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104734/decreto-10017)
 
-<br>
 ~~[Anexos I, II, III](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17403)   (05-10-2021)~~
 
 [\- Com redação dada pelo Decreto nº 9.966, de 05-10-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104377/decreto-9966)
@@ -145,5 +145,4 @@ Governador do Estado
 
 [**ANEXOS IV, V e VI** **(22-03-2021)**](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17406)
 
-[.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17403)<br>
-<br>
+[.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17403)

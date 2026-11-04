@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210238)<br>
-
 # DECRETO N° 69.050, DE 14 DE NOVEMBRO DE 2024
 
 ### _Autoriza a outorga de uso, à Fundação Professor Dr. Manoel Pedro Pimentel – FUNAP, de parte do imóvel que especifica, e dá providências correlatas._

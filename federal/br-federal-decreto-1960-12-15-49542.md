@@ -1,5 +1,3 @@
-###DEC-049542-0-000-15-12-1960@@@
-
 decreto nº 49.542, de 15 de dezembro de 1960.
 
 Retifica e altera o Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

@@ -1,5 +1,3 @@
-###DEL-004358-0-000-05-06-1942@@@
-
 DECRETO-LEI N. 4.358 – DE 5 DE JUNHO DE 1942
 
 Cria o Comando Naval de Pernambuco

@@ -1,5 +1,3 @@
-###DEC-077081-0-000-26-01-1976@@@
-
 DECRETO Nº 77.081, DE 26 DE JANEIRO DE 1976.
 
 Dispõe sobre a estrutura básica do Serviço de Assistência e Seguro Social dos Economiários (SASSE) e dá outras providências.

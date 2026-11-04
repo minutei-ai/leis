@@ -1,6 +1,10 @@
 > **LEI Nº 3.983, DE 03 DE OUTUBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.910, de 19 de janeiro de 2022, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2022.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 3.910, de 19 de janeiro de 2022, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2022.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual, c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

@@ -1,5 +1,3 @@
-###DEL-009142-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.142 – DE  5 DE ABRIL DE 1946
 
 Acrescenta mais um parágrafo ao artigo 4º do Decreto-lei nº 7.524, de 5 de Maio de 1945, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072796-0-000-13-09-1973@@@
-
 DECRETO Nº 72.796, DE 13 de Setembro de 1973.
 
 Revoga Regulamento Provisório de Tiro das Armas Portáteis e Regulamento de Pontes de Circunstância.

@@ -1,5 +1,3 @@
-###DEC-069265-0-000-22-09-1971@@@
-
 DECRETO Nº 69.265, DE 22 DE SETEMBRO DE 1971.
 
 Altera o Regulamento do Fundo de Garantia do Tempo de Serviço, aprovado pelo Decreto número 59.820, de 20 de dezembro de 1966 e dá outras providências.

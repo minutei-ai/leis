@@ -1,5 +1,3 @@
-###DEL-009224-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.224 – DE 2 DE MAIO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 36.322,60, para pagamento de gratificação de magistério.

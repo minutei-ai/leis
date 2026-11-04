@@ -1,5 +1,3 @@
-###DEC-054880-0-000-04-11-1964@@@
-
 decreto nº 54.580, de 4 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Jean Claude Abel Heymann a lavrar caulim, argila e feldspato, no município de Santana do Parnaíba - Estado de São Paulo.

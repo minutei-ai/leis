@@ -1,5 +1,3 @@
-###DEL-007939-0-000-06-09-1945@@@
-
 DECRETO-LEI N. 7.939 – DE  6 DE SETEMBRO DE 1945
 
 Dispõe sôbre o exercício, no Distrito Federal, dos Juízes substitutos dos Territórios Federais.

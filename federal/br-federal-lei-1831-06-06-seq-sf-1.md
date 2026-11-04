@@ -1,5 +1,3 @@
-###LEI-000000-0-001-06-06-1831@@@
-
 LEI - DE 6 DE JUNHO DE 1831
 
 Prohibe a concessão de loterias.

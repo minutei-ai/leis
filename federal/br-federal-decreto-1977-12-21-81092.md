@@ -1,5 +1,3 @@
-###DEC-081092-0-000-21-12-1977@@@
-
 decreto nº 81.092, de 21 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Estatística da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

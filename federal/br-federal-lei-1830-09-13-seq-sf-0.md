@@ -1,5 +1,3 @@
-###LEI-000000-0-000-13-09-1830@@@
-
 LEI - DE 13 DE SETEMBRO DE 1830
 
 Regula o contracto por escripto sobre prestação de serviços feitos por Brazileiro ou estrangeira dentro ou fóra do Imperio.

@@ -1,5 +1,3 @@
-###DEL-005950-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.950 – DE 29 DE OUTUBRO DE 1943
 
 Modifica o art. 16 do decreto‑lei n. 5.839, de 21‑9‑43, que dispõe sobre a administração dos Territórios Federais do Amapá, Rio Branco, Guaporé, Ponta Porã e lguassú

@@ -1,5 +1,3 @@
-###DEC-051914-A-000-25-04-1963@@@
-
 DECRETO Nº 51.914-A, de 25 de abril de 1963  
 
 Outorga ao Govêrno do Estado de Alagoas concessão para distribuir energia elétrica no distrito de Anel, município de Viçosa, Estado de Alagoas.

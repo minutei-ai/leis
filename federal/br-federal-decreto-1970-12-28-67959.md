@@ -1,5 +1,3 @@
-###DEC-067959-0-000-28-12-1970@@@
-
 Decreto nº 67.959, de 28 de dezembro de 1970.
 
 Altera a estrutura da Delegacia do Tesouro Brasileiro no Exterior, suprime cargo, reduz o número de funcionários na sua lotação e dá outras providências.

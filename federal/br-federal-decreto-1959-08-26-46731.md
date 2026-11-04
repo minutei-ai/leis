@@ -1,5 +1,3 @@
-###DEC-046731-0-000-26-08-1959@@@
-
 DECRETO Nº 46.731, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza Novas Indústrias Olinda S.A. a pesquisar água mineral no município de Olinda, Estado de Pernambuco.

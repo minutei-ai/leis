@@ -1,5 +1,3 @@
-###DEC-067012-0-000-06-08-1970@@@
-
 DECRETO Nº 67.012, DE 6 DE AGÔSTO DE 1970.
 
 Declara caduco o Decreto nº 39.394 de 13 de junho de 1956.

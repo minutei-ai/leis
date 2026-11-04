@@ -1,5 +1,3 @@
-###DEC-094379-0-000-27-05-1987@@@
-
 DECRETO Nº 94.379, DE 27 DE MAIO DE 1987.
 
 Autoriza o funcionamento do curso de Pedagogia, em Paulo Afonso, Estado da Bahia.

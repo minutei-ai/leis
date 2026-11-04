@@ -1,5 +1,3 @@
-###DEC-080470-0-000-03-10-1977@@@
-
 Decreto nº 80.470, de 3 de outubro de 1977.
 
 Declara de utilidade pública, para fins de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

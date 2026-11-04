@@ -1,5 +1,3 @@
-###DEC-071990-0-000-26-03-1973@@@
-
 DECRETO Nº 71.990, DE 26 DE MARÇO DE 1973.
 
 Declara de utilidade pública a Fundação dos Sócios do Rotary Club do Rio de Janeiro, Estado da Guanabara.

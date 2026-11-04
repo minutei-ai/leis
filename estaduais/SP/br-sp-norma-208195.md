@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208195)<br>
-
 # DECRETO N° 67.752, DE 20 DE JUNHO DE 2023
 
 ### _Altera a classificação institucional da Secretaria de Ciência, Tecnologia e Inovação nos Sistemas de Administração Financeira e Orçamentária do Estado._

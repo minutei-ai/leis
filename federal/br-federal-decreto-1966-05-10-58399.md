@@ -1,5 +1,3 @@
-###DEC-058399-0-000-10-05-1966@@@
-
 Decreto nº 58.399 de 10 de maio de 1966.
 
 Aprova Regimento do Fundo Rotativo Habitacional de Brasília.

@@ -1,5 +1,3 @@
-###DEC-086872-0-000-25-01-1982@@@
-
 DECRETO Nº 86.872, DE 25 DE JANEIRO DE 1982.
 
 Autoriza o INSTITUTO DE RADIODIFUSÃO EDUCATIVA DA BAHIA, órgão vinculado à Secretaria de Educação e Cultura do Estado da Bahia, a executar o serviço de radiodifusão sonora em onda curta, na cidade de Salvador, Estado da Bahia.

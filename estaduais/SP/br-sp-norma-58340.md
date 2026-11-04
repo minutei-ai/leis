@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58340)
-
 # LEI Nº 12.094, DE 11 DE OUTUBRO DE 2005
 
 ## (PL 228/2003 - Vanderlei Macris)

@@ -1,5 +1,3 @@
-###DEC-005121-0-000-29-06-2004@@@
-
 DECRETO Nº 5.121,  DE 29 DE JUNHO DE 2004
 
 Regulamenta a Lei nº 10.823, de 19 de dezembro de 2003, que dispõe sobre a subvenção econômica ao prêmio do Seguro Rural e dá outras providências.

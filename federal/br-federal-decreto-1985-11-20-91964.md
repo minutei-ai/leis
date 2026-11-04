@@ -1,5 +1,3 @@
-###DEC-091964-0-000-20-11-1985@@@
-
 Decreto nº 91.964, de 20 de novembro de 1985
 
 Renova a concessão outorgada à RÁDIO OITO DE SETEMBRO LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade Descalvado, Estado de São Paulo.

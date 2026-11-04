@@ -1,5 +1,3 @@
-###DEC-058477-0-000-19-05-1966@@@
-
 DECRETO Nº 58.477, DE 19 DE MAIO DE 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, ao Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-049427-0-000-03-12-1960@@@
-
 DECRETO Nº 49.427, DE 3 DE DEZEMBRO DE 1960.
 
 Autorizam o cidadão brasileiro Wilson Joaquim de Azevedo a pesquisar minério de cobre no município de Bom Jesus da Lapa, Estado da Bahia.

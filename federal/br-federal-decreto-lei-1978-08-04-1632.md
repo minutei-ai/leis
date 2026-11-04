@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/518ac8a1-25f8-4f62-8f48-c15cf027d684/texto#nowhere)
 
-###DEL-001632-0-000-04-08-1978@@@
-
 # Decreto-lei nº 1.632, de 4 de agosto de 1978.
 
 Dispõe sobre a proibição de greve nos serviços públicos e em atividades essenciais de interesse da segurança nacional.

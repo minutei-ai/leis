@@ -1,7 +1,3 @@
-1
-
-###DEL-001802-0-000-29-08-1980@@@
-
 # Decreto-lei nº 1.802, de 29 de Agosto de 1980
 
 Prorroga a vigência do incentivo fiscal para aplicações em ações novas da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

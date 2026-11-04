@@ -1,5 +1,3 @@
-###DEC-084064-0-000-08-10-1979@@@
-
 Decreto nº 84.064, de 08 de outubro de 1979.
 
 Dá nova redação ao artigo 20 do Regulamento dos Serviços Especiais de Repetição e de Retransmissão de Televisão.

@@ -1,5 +1,3 @@
-###DEL-001752-0-000-31-12-1979@@@
-
 # Decreto-LEI nº 1.752, de 31 de dezembro DE 1979
 
 Extingue o Certificado de Aplicação previsto no artigo 15 do Decreto-lei nº 1.376, de 12 de dezembro de 1974, e dá outras providências.

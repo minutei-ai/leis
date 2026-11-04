@@ -1,5 +1,3 @@
-###DEC-069631-0-000-01-12-1971@@@
-
 DECRETO Nº 69.631 - de 1 de dezembro de 1971
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à ampliação da subestação Frei Caneca, sitos na rua Carolina Reydner, na cidade do Rio de Janeiro, Estado da Guanabara.

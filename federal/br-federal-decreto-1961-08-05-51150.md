@@ -1,5 +1,3 @@
-###DEC-051150-0-000-05-08-1961@@@
-
 DECRETO Nº 51.150, DE 5 DE AGÔSTO DE 1961.
 
 Interdita a pesca nos rios Coxim e Taquari, no município de Coxim, no Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-091041-0-000-05-03-1985@@@
-
 DECRETO nº 91.041, DE 05 de março de 1985
 
 Outorga concessão à ABC - REDE NACIONAL DE RÁDIO E TELEVISÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Cuiabá, Estado do Mato Grosso.

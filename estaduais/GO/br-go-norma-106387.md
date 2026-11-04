@@ -66,8 +66,6 @@ Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -85,7 +83,8 @@ Poder Executivo
 | ITEM | ÓRGÃOS ABRANGIDOS | Total Anual |
 | --- | --- | --- |
 | **.................** | **................................** | **........................** | **....................** |
-| **56** | Instituição do Bônus por Resultados<br>
+| **56** | Instituição do Bônus por Resultados
+
 – Processo nº 202200006081651 | **SEDUC** | **R$ 171.273.262,42** |
 | **TOTAL ANUAL** | **R$ 1.038.201.696,90** |
 
@@ -104,7 +103,8 @@ Poder Executivo
 | ITEM | DESCRIÇÃO | ÓRGÃOS ABRANGIDOS | Total anual |
 | --- | --- | --- | --- |
 | **..........** | **.............................** | **........................** | **.....................** |
-| **6** | Instituição do Bônus por Resultados<br>
+| **6** | Instituição do Bônus por Resultados
+
 – Processo nº 202200006081651 | **SEDUC** | **R$ 41.983.221,64** |
 | **TOTAL ANUAL** | **R$ 161.788.177,64** |
 

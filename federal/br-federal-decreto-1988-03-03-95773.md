@@ -1,7 +1,3 @@
-1
-
-###DEC-095773-0-000-03-03-1988@@@
-
 DECRETO N° 95.773, DE 3 DE MARÇO DE 1988
 
 Outorga concessão à Rádio Pouso Alto Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Piracanjuba, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-073199-0-000-23-11-1973@@@
-
 DECRETO Nº 73.199 - DE 23 DE NOVEMBRO DE 1973
 
 Concede a Marrminas S.A. o direito de lavrar mármore no Município de Santana do Riacho, Estado de Minas Gerais.

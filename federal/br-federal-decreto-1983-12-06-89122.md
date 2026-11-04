@@ -1,5 +1,3 @@
-###DEC-089122-0-000-06-12-1983@@@
-
 Decreto nº 89.122, de 06 de dezembro de 1983
 
 Dispõe sobre o montante do Capital Social da Petrobrás Comércio Internacional S.A. - INTERBRÁS.

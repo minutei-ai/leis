@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212838)<br>
-
 # DECRETO N° 70.755, DE 14 DE JULHO DE 2026
 
 ### Altera o Decreto n° 69.052, de 14 de novembro de 2024, que aprova a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital.
@@ -26,10 +24,12 @@ Nerylson Lima da Silva
 
 Caio Mario Paes de Andrade
 
-#### ANEXO I<br>
+#### ANEXO I
+
 Estrutura organizacional da Secretaria de Gestão e Governo Digital
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Campo Funcional
 
 **Artigo 1° -** Constituem o campo funcional da Secretaria de Gestão e Governo Digital, além de outras funções compatíveis com o escopo da Pasta:
@@ -56,7 +56,8 @@ b) serviços em soluções e produtos relacionados à tecnologia da informação
 
 VI - estabelecer diretrizes para o desenvolvimento de competências dos servidores públicos estaduais, visando ao fortalecimento institucional, à modernização administrativa e ao aprimoramento da gestão pública.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Estrutura
 
 **Artigo 2° -** A Secretaria de Gestão e Governo Digital tem a seguinte estrutura:
@@ -197,10 +198,12 @@ c) fundação: Fundação de Previdência Complementar do Estado de São Paulo -
 
 X - Fundo Especial de Despesa da Unidade do Arquivo Público do Estado - FEARQ.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Competências
 
-#### Seção I<br>
+#### Seção I
+
 Do Gabinete do Secretário
 
 **Artigo 3° -** A Secretaria Executiva tem as seguintes competências:
@@ -311,7 +314,8 @@ VIII - promover a avaliação institucional de suas ações e programas, com bas
 
 IX - exercer outras competências correlatas e complementares na sua área de atuação.
 
-#### Seção II<br>
+#### Seção II
+
 Da Subsecretaria de Gestão Corporativa
 
 **Artigo 11 -** A Subsecretaria de Gestão Corporativa tem as seguintes competências:
@@ -402,7 +406,8 @@ V - planejar, promover e gerir práticas de desenvolvimento e gestão estratégi
 
 VI - atuar como unidade de apuração preliminar, de que trata o [Decreto n° 69.588, de 9 de junho de 2025](https://www.al.sp.gov.br/norma/211028), no âmbito da Secretaria de Gestão e Governo Digital.
 
-#### Seção III<br>
+#### Seção III
+
 Da Subsecretaria de Gestão
 
 **Artigo 16 -** A Subsecretaria de Gestão tem as seguintes competências:
@@ -521,7 +526,8 @@ V - planejar, coordenar, supervisionar e executar atividades para realização d
 
 VI - planejar e executar procedimentos licitatórios e de contratação direta necessários ao desenvolvimento de suas atividades finalísticas.
 
-#### Seção IV<br>
+#### Seção IV
+
 Da Subsecretaria de Gestão de Pessoas
 
 **Artigo 22 -** A Subsecretaria de Gestão de Pessoas tem as seguintes competências:
@@ -756,7 +762,8 @@ IV - zelar pelo estrito cumprimento das disposições legais e regulamentares ap
 
 V - submeter à apreciação do Subsecretário, para fins de oficialização aos órgãos e às autarquias estaduais, as irregularidades de pagamento eventualmente constatadas, acompanhadas, quando necessário, de proposta de encaminhamento à Controladoria Geral do Estado.
 
-#### Seção V<br>
+#### Seção V
+
 Da Subsecretaria de Governo Digital
 
 **Artigo 33 -** A Subsecretaria de Governo Digital tem as seguintes competências:
@@ -867,7 +874,8 @@ V - promover a articulação e acompanhar iniciativas, projetos e programas rela
 
 **Artigo 37 -** A Assessoria da Unidade de Gestão do Projeto São Paulo Mais Digital tem as competências previstas no artigo 2° do [Decreto n° 68.051, de 31 de outubro de 2023](https://www.al.sp.gov.br/norma/208742).
 
-#### Seção VI<br>
+#### Seção VI
+
 Da Subsecretaria de Patrimônio do Estado
 
 **Artigo 38 -** A Subsecretaria de Patrimônio do Estado tem as seguintes competências:
@@ -932,7 +940,8 @@ VIII - acompanhar e promover programas de treinamento e capacitação de servido
 
 IX - exercer outras competências correlatas e complementares na sua área de atuação, especialmente no âmbito do SATIM.
 
-#### Seção VII<br>
+#### Seção VII
+
 Da Subsecretaria do Arquivo Público do Estado
 
 **Artigo 41 -** A Subsecretaria do Arquivo Público do Estado tem as seguintes competências:
@@ -1031,7 +1040,8 @@ XI - definir indicadores, acompanhar resultados e propor melhorias nas ações d
 
 XII - subsidiar tecnicamente a Subsecretaria nos assuntos de sua competência.
 
-#### Seção VIII<br>
+#### Seção VIII
+
 Das Assessorias Técnicas das Subsecretarias
 
 **Artigo 44 -** As Assessorias Técnicas das Subsecretarias têm as seguintes competências:
@@ -1056,7 +1066,8 @@ b) gestão de riscos, transparência e integridade da gestão;
 
 VIII - exercer outras competências correlatas e complementares na sua área de atuação.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Atribuições
 
 **Artigo 45 -** O Secretário de Gestão e Governo Digital tem as seguintes atribuições:
@@ -1159,7 +1170,8 @@ I - planejar, dirigir, coordenar e orientar a execução das atividades de suas 
 
 II - exercer outras atribuições que lhes forem cometidas em suas áreas de atuação.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Órgãos Colegiados
 
 **Artigo 50 -** São vinculados à Pasta os seguintes órgãos colegiados:
@@ -1188,7 +1200,8 @@ XI - Comissão Técnica da Carreira de Analista em Planejamento, Orçamento e Fi
 
 **Parágrafo único -** Aos órgãos colegiados elencados neste artigo cabe exercer as competências estabelecidas nos respectivos atos normativos de disciplina específica.
 
-#### ANEXO II<br>
+#### ANEXO II
+
 Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital
 
 | UNIDADE | QTD | DENOMINAÇÃO CARGO/FUNÇÃO | CCESP/FCESP |
@@ -1643,7 +1656,8 @@ Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Se
 | Seção de Difusão e Ação Educativa | 1 | Chefe de Seção | FCESP 1.05 |
 | Divisão de Formação e Treinamento | 1 | Chefe de Divisão | FCESP 1.10 |
 
-#### ANEXO III<br>
+#### ANEXO III
+
 Quadro Resumo de Custos dos Cargos em Comissão e das Funções de Confiança da Secretaria de Gestão e Governo Digital
 
 | CÓDIGO | VALOR-UNITÁRIO | SITUAÇÃO NOVA |

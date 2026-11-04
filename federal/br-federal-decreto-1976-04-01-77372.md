@@ -1,5 +1,3 @@
-###DEC-077372-0-000-01-04-1976@@@
-
 DECRETO Nº 77.372 - DE 1º DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Administração, do Centro de Ensino Superior de São Carlos em São Carlos, Estado de São Paulo.

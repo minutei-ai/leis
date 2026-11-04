@@ -1,5 +1,3 @@
-###DEC-002612-0-000-03-06-1998@@@
-
 DECRETO Nº 2.612, DE 3 DE JUNHO DE 1998
 
 Regulamenta o Conselho Nacional de Recursos Hídricos, e dá outras providências.

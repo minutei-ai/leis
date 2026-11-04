@@ -1,5 +1,3 @@
-###DEC-072594-0-000-13-08-1973@@@
-
 DECRETO Nº 72.594, DE 13 DE AGOSTO DE 1973.
 
 Concede à Quimindústria S.A. o direito de lavrar dolomito no Município de Canindé, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-068352-0-000-15-03-1971@@@
-
 DECRETO Nº 68.352, DE 15 DE MARÇO DE 1971.
 
 Aprova transferência de bens e instalações e outorga à Companhia Leste Mineira de Eletricidade concessão para aproveitamento hidráulico no município de Ipanema, Estado de Minas Gerais.

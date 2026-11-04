@@ -1,5 +1,3 @@
-###DEC-050194-0-000-28-01-1961@@@
-
 DECRETO Nº 50.194, DE 28 DE JANEIRO DE 1961.
 
 Regula o importação de reprodutores zebuínos, bubalinos e outros animais domésticos em todo o território nacional.

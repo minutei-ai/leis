@@ -1,5 +1,3 @@
-###DEC-003747-0-000-06-02-2001@@@
-
 DECRETO Nº 3.747, DE 6 DE FEVEREIRO DE 2001.
 
 Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais, para 2001, e dá outras providências.

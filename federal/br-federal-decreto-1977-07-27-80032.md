@@ -1,5 +1,3 @@
-###DEC-080032-0-000-27-07-1977@@@
-
 DECRETO Nº 80.032, DE 27 DE JULHO DE 1977
 
 Concede reconhecimento do curso de tecnólogo em Processamento de Dados, da Universidade Federal de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas gerais.

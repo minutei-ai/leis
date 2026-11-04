@@ -160,7 +160,8 @@ Art. 10. A concessão da promoção prevalecerá sobre a progressão, caso o ser
 
 § 2º A próxima evolução funcional ocorrerá somente após, no mínimo, 18 (dezoito) meses da última promoção ou progressão.
 
-Art. 11. As demais condições para a efetivação das evoluções funcionais por promoção e por progressão, os critérios para a aferição dos requisitos estabelecidos no art. 9º desta Lei e a metodologia do sistema de pontos serão definidos até 180 (cento e oitenta) dias da publicação desta Lei por comissão formada pela UEG e pelo órgão central de gestão de pessoal, com sua publicação em decreto do Chefe do Poder Executivo.<br>
+Art. 11. As demais condições para a efetivação das evoluções funcionais por promoção e por progressão, os critérios para a aferição dos requisitos estabelecidos no art. 9º desta Lei e a metodologia do sistema de pontos serão definidos até 180 (cento e oitenta) dias da publicação desta Lei por comissão formada pela UEG e pelo órgão central de gestão de pessoal, com sua publicação em decreto do Chefe do Poder Executivo.
+
 **\- [Vide Lei nº 23.241, de 21-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110405), Art. 1º, VI** - Dispõe sobre a prorrogação de prazos indicados nas Leis que especifica. 
 
 Parágrafo único. As alterações de quaisquer condições de que trata o _caput_ deste artigo ocorrerão somente após manifestação técnica do órgão central de gestão de pessoal.

@@ -1,5 +1,3 @@
-###DEL-009169-0-000-12-04-1946@@@
-
 DECRETO-LEI N. 9.169 – DE 12 DE ABRIL DE 1946
 
 Dá nova redação ao art. 24, letra “c”, do Decreto-lei n. 8.393, de 17 de Dezembro de 1945.

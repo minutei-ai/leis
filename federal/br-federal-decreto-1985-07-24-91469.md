@@ -1,5 +1,3 @@
-###DEC-091469-0-000-24-07-1985@@@
-
 DECRETO Nº 91.469, DE 24 DE julho DE 1985
 
 Cria o Conselho Nacional de Defesa do Consumidor e dá outras providências.

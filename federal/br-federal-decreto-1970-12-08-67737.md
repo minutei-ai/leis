@@ -1,5 +1,3 @@
-###DEC-067737-0-000-08-12-1970@@@
-
 Decreto nº 67.737, de 8 de Dezembro de 1970.
 
 Autoriza o funcionamento de Curso na Escola de Auxiliares de Enfermagem "Mater Admirabilis", de Londrina, PR.

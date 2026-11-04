@@ -1,5 +1,3 @@
-###DEC-079469-0-000-05-04-1977@@@
-
 DECRETO Nº 79.469, DE 5 DE ABRIL DE 1977.
 
 Concede à Brumafer Mineração Ltda. o direito de lavrar minério de ferro no Município de Sabará, Estado de Minas Gerais.

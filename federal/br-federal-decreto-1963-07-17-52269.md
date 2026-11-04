@@ -1,5 +1,3 @@
-###DEC-052269-0-000-17-07-1963@@@
-
 decreto Nº 52.269, de 17 de julho de 1963.
 
 Altera a redação de artigos do Regulamento do Serviço de Identificação do Exército, aprovado pelo Decreto nº 51.329, de 6 de setembro de 1961.

@@ -1,5 +1,3 @@
-###DEC-060896-0-000-23-06-1967@@@
-
 DECRETO Nº 60.896, DE 23 DE JUNHO DE 1967.
 
 Reestrutura a Comissão Executiva da Ponte Rio – Niterói.

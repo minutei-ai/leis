@@ -1,5 +1,3 @@
-###DEL-006572-0-000-08-06-1944@@@
-
 DECRETO-LEI N. 6.572 – DE 8 DE JUNHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 23.420,00 à verba que especifica

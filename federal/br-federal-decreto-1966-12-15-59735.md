@@ -1,5 +1,3 @@
-###DEC-059735-0-000-15-12-1966@@@
-
 DECRETO Nº 59.735, DE 15 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Baptista Keutenedjian a pesquisar talco, amianto e minério de níquel no município de Cananélia, Estado de São Paulo.

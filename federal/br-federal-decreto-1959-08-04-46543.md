@@ -1,5 +1,3 @@
-###DEC-046543-0-000-04-08-1959@@@
-
 DECRETO Nº 46.543, DE 4 DE AGÔSTO DE 1959.
 
 Reconhece a Confederação Nacional dos Trabalhadores em Emprêsas de Crédito.

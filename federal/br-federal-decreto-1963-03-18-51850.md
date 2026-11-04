@@ -1,5 +1,3 @@
-###DEC-051850-0-000-18-03-1963@@@
-
 DECRETO Nº 51.850, DE 18 DE MARÇO DE 1963.
 
 Cancela a autorização à emprêsa de transporte aéreo “Svensk Inter.Kontinental Lufttrafik Aktiebolag (SILA)” para funcionar no Brasil.

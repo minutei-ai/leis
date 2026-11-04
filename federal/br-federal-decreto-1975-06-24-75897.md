@@ -1,5 +1,3 @@
-###DEC-075897-0-000-24-06-1975@@@
-
 DECRETO Nº 75.897, DE 24 DE JUNHO DE 1975.
 
 Concede permissão em caráter permanente, à empresa S. A. Indústria Reunidas F. Matarazzo - Ribeirão Preto Têxteis, com sede na cidade de São Paulo - SP, para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento que menciona.

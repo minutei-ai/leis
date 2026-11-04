@@ -1,5 +1,3 @@
-###DEC-058875-0-000-20-07-1966@@@
-
 DECRETO Nº 58.875, DE 20 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro Murilo Campista a pesquisar cassiterita no Município de Pôrto Velho, Território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEC-079406-0-000-16-03-1977@@@
-
 DECRETO Nº 79.406, DE 16 DE MARÇO DE 1977.
 
 Concede reconhecimento ao curso de Turismo, da Faculdade de Turismo e Letras, com sede na cidade de São Paulo, Estado de São Paulo.

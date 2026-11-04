@@ -1,5 +1,3 @@
-###DEC-070645-0-000-29-05-1972@@@
-
 DECRETO Nº 70.645, DE 29 DE MAIO DE 1972.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro, cargo do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

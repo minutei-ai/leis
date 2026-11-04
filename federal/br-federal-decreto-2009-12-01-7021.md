@@ -1,5 +1,3 @@
-###DEC-007021-0-000-01-12-2009@@@
-
 DECRETO Nº 7.021, DE 27 DE NOVEMBRO DE 2009.
 
 Dá nova redação ao parágrafo único do art. 2o do Decreto no 1.091, de 21 de março de 1994, que dispõe sobre procedimentos a serem observados por empresas controladas direta ou indiretamente pela União.

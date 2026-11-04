@@ -1,5 +1,3 @@
-###DEL-004239-0-000-09-04-1942@@@
-
 DECRETO-LEI N. 4.239 – DE 9 DE ABRIL DE 1942
 
 Amplia o âmbito de operações das Caixas Econômicas Federais e dá outras providências

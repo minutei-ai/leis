@@ -1,5 +1,3 @@
-###DEC-084220-0-000-19-11-1979@@@
-
 Decreto nº 84.220, de 19 de novembro de 1979
 
 Autoriza a transferência direta para a Rádio Globo de São Paulo Ltda. da concessão outorgada à Rádio Excelsior S.A. para executar serviço de radiodifusão sonora em onda curta, na cidade de São Paulo, Estado de São Paulo.

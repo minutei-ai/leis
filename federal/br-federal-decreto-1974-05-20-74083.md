@@ -1,5 +1,3 @@
-###DEC-074083-0-000-20-05-1974@@@
-
 DECRETO Nº 74.083, DE 20 DE MAIO DE 1974.
 
 Transfere para o Ministério da Saúde encargos cometidos ao Ministério da Educação e Cultura pelo Decreto nº 69.845, de 27 de dezembro de 1971.

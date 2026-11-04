@@ -1,5 +1,3 @@
-###DEC-077851-0-000-16-06-1976@@@
-
 DECRETO Nº 77.851, DE 16 DE JUNHO DE 1976.
 
 Autoriza o funcionamento das habilitações em Matemática e Biologia, no curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Alegrete, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

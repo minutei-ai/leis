@@ -1,5 +1,3 @@
-###DEC-005128-0-000-06-07-2004@@@
-
 DECRETO Nº 5.128, DE 6 DE JULHO DE 2004.
 
        Promulga o Acordo de Sede entre o Governo da República Federativa do Brasil e a Organização dos Estados Ibero-Americanos para a Educação, a Ciência e a Cultura (OEI), celebrado em Brasília, em 30 de janeiro de 2002.
@@ -22,7 +20,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 6 de julho de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 ACORDO DE SEDE ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO
@@ -311,4 +310,19 @@ ARTIGO 36
 
         Assinado na cidade de Brasília, no dia 30 de janeiro do ano de dois mil e dois, em dois exemplares originais, ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="width:460.5pt; margin-bottom:0pt"><tbody><tr><td style="width:50%; padding:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">_______________________________</span><br><span style="font-size:10pt">PELO GOVERNO DA REPÚBLICA</span><br><span style="font-size:10pt">FEDERATIVA DO BRASIL.</span><br><span style="font-size:10pt">Paulo Renato Souza</span><br><span style="font-size:10pt">Ministro de Estado da Educação</span></p></td><td style="width:50%; padding:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">_____________________________________</span><br><span style="font-size:10pt">PELA ORGANIZAÇÃO DOS ESTADOS IBERO-AMERICANOS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA.</span><br><span style="font-size:10pt">Francisco Piñon</span><br><span style="font-size:10pt">Secretário-Geral</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="width:460.5pt; margin-bottom:0pt"><tbody><tr><td style="width:50%; padding:3pt; vertical-align:top">
+
+_______________________________
+PELO GOVERNO DA REPÚBLICA
+FEDERATIVA DO BRASIL.
+Paulo Renato Souza
+Ministro de Estado da Educação
+
+</td><td style="width:50%; padding:3pt; vertical-align:top">
+
+_____________________________________
+PELA ORGANIZAÇÃO DOS ESTADOS IBERO-AMERICANOS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA.
+Francisco Piñon
+Secretário-Geral
+
+</td></tr></tbody></table>

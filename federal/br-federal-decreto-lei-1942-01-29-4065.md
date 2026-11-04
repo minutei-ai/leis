@@ -1,5 +1,3 @@
-###DEL-004065-0-000-29-01-1942@@@
-
 DECRETO-LEI N. 4.065 – DE 29 DE JANEIRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas, o crédito especial de 136:859$3, para liquidação de despesas

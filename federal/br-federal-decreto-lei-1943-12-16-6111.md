@@ -1,5 +1,3 @@
-###DEL-006111-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.111 – DE 16 DE DEZEMBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 4.060, do 28 de janeiro de 1942

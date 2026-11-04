@@ -1,5 +1,3 @@
-###DEL-003837-0-000-18-11-1941@@@
-
 DECRETO-LEI N. 3.837 – DE 18 DE NOVEMBRO DE 1941
 
 Fixa, a título provisório, o prego de mil calorias-quilo do carvão nacional.

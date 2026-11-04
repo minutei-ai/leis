@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209952)<br>
-
 # LEI N° 18.021, DE 09 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 268/2023, dos Deputados Paulo Mansur - PL, Guto Zacarias - UNIÃO, Gil Diniz - PL, Major Mecca - PL e Lucas Bove - PL)

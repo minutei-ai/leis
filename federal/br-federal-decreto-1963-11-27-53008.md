@@ -1,5 +1,3 @@
-###DEC-053008-0-000-27-11-1963@@@
-
 DECRETO Nº 53.008, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Walter Calazans de Freitas a pesquisar dolomita e minérios de ferro e manganês de ferro e manganês, no município de Itabirito, Estado de Minas Gerais.

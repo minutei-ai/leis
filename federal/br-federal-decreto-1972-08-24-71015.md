@@ -1,5 +1,3 @@
-###DEC-071015-0-000-24-08-1972@@@
-
 DECRETO Nº 71.015, DE 24 DE AGOSTO DE 1972.
 
 Cria no Departamento de Portos e Vias Navegáveis (DNPVN), em caráter provisório, a Administração do Porto do Forno (APFOR).

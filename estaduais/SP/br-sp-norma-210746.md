@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210746)<br>
-
 # DECRETO N° 69.419, DE 19 DE MARÇO DE 2025
 
 ### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do ex-governador do Estado, Cláudio Salvador Lembo._

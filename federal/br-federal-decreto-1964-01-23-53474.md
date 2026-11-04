@@ -1,5 +1,3 @@
-###DEC-053474-0-000-23-01-1964@@@
-
 DECRETO Nº 53.474, DE 23 DE JANEIRO DE 1964.
 
 Altera o Decreto nº 46.544, de 5 de agôsto de 1959.

@@ -1,5 +1,3 @@
-###DEC-049338-0-000-25-11-1960@@@
-
 DECRETO Nº 49.338, DE 25 DE NOVEMBRO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério do Trabalho, Indústria e Comércio.

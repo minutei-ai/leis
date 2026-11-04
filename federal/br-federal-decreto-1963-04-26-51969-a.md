@@ -1,5 +1,3 @@
-###DEC-051969-A-000-26-04-1963@@@
-
 DECRETO Nº 51.969-A, DE 26 DE ABRIL DE 1963.
 
 Renova a autorização contida no Decreto n° 44.941, de 1º de dezembro de 1958.

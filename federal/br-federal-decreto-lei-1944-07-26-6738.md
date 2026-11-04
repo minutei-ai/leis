@@ -1,5 +1,3 @@
-###DEL-006738-0-000-26-07-1944@@@
-
 DECRETO-LEI N. 6.738 – DE 26 DE JULHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 754.099,20, para pagamento de serviços executados na Estrada de Ferro Maricá

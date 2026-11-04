@@ -10,8 +10,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 1º de dezembro de 2025; 137º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-JULIO PINA<br>
+JULIO PINA
+
 Deputado Estadual

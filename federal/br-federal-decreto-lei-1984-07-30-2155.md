@@ -1,5 +1,3 @@
-###DEL-002155-0-000-30-07-1984@@@
-
 # Decreto-lei nº 2.155, de 30 de julho de 1984
 
 Altera os limites do Beneficio Fiscal instituída pelo Decreto-lei nº 1358, de 12 de novembro de 1974, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006754-0-000-28-01-2009@@@
-
 DECRETO Nº 6.754, DE 28 DE JANEIRO DE 2009.
 
 Regulamenta a Lei no 10.304, de 5 de novembro de 2001, que dispõe sobre a transferência ao domínio do Estado de Roraima de terras pertencentes à União, e dá outras providências.

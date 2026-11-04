@@ -1,5 +1,3 @@
-###DEC-075566-0-000-07-04-1975@@@
-
 DECRETO Nº 75.566, DE 7 DE ABRIL DE 1975.
 
 Atualiza os valores das multas previstas no Decreto nº 24.643, de 10 de julho de 1934 (Código de Águas), e legislação complementar mediante aplicação de coeficientes de correção monetária.

@@ -1,5 +1,3 @@
-###DEC-050330-0-000-10-03-1961@@@
-
 DECRETO Nº 50.330, DE 10 DE MARÇO DE 1961.
 
 Altera a redação do art. 59, do Regulamento por Tráfego Marítimo aprovado pelo Decreto nº 50.114, de 26 de janeiro de 1961.

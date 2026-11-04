@@ -1,5 +1,3 @@
-###DEC-061499-0-000-10-10-1967@@@
-
 DECRETO Nº 61.499, DE 10 DE OUTUBRO DE 1967.
 
 Retifica o art. 1º do Decreto número 39.121, de 2 de maio de 1956.

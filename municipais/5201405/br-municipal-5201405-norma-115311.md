@@ -30,8 +30,10 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Município de Aparecida de Goiânia-GO, aos 28 de Janeiro de 2022.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

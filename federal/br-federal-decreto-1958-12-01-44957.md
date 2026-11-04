@@ -1,5 +1,3 @@
-###DEC-044957-0-000-01-12-1958@@@
-
 DECRETO Nº 44.957, DE 1 DE DEZEMBRO DE 1958.
 
 Concede à Mineração Braga S.A., autorização para funcionar como empresa de mineração.

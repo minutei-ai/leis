@@ -1,7 +1,3 @@
-1
-
-###DEC-098610-0-000-19-12-1989@@@
-
 DECRETO Nº 98.610, DE 19 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso em Ciência da Computação da Faculdade Católica de Tecnologia.

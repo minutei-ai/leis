@@ -1,5 +1,3 @@
-###DEC-074703-0-000-16-10-1974@@@
-
 DECRETO Nº 74.703, DE 16 DE OUTUBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção de subestação de Lindóia da Companhia Paulista de Força e Luz, Estado de São Paulo.

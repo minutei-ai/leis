@@ -1,5 +1,3 @@
-###DEC-051612-0-000-03-12-1962@@@
-
 DECRETO Nº 51.612, DE 3 DE DEZEMBRO DE 1962.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$140.308.000,00 (cento e quarenta milhões, trezentos e oito mil cruzeiros), para atender as despesas decorrentes do artigo 13 da Lei nº 3.958, de 13 de setembro de 1961, referente à Universidade Federal do Estado do Rio de Janeiro.

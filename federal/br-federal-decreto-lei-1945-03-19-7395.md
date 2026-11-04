@@ -1,5 +1,3 @@
-###DEL-007395-0-000-19-03-1945@@@
-
 DECRETO-LEI N. 7.395 – DE 19 DE MARÇO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 436.961.600,00, para pagamento de ações da Companhia Siderúrgica Nacional.

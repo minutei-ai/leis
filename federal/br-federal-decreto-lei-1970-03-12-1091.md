@@ -1,5 +1,3 @@
-###DEL-001091-0-000-12-03-1970@@@
-
 # DECRETO-LEI Nº 1.091, DE 12 dE MARÇO DE 1970
 
 Altera a legislação relativa ao Impôsto Único sôbre lubrificantes e combustíveis líquidos e gasosos e dá outras providências.
@@ -10,7 +8,45 @@ O PresIdente da RepúBLICA, no uso da atribuição que lhe confere o artigo 55, 
 
 Art. 1º O Impôsto Único sôbre lubrificantes e combustíveis líquidos e gasosos, a que se refere o artigo 1º do Decreto-lei nº 61, de 21 de novembro de 1966, passa a vigorar nas alíquotas seguintes, calculadas sôbre o custo CIF, expresso em moeda nacional, da unidade de volume de petróleo bruto:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Gás Liquefeito de Petróleo (GLP) ........................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>80,3</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gasolina de Aviação ..........................................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>298,1</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Querosene de Aviação .......................................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>249,2</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gasolina Automotiva, tipo A ...............................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>320,4</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Gasolina Automotiva, tipo B ...............................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>369,2</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Querosene e “</span><span style="font-style:italic">Signal</span><span> </span><span style="font-style:italic">oil</span><span>” .....................................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>132,9</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleo Diesel .......................................................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>250,2</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleo Combustível ..............................................................................................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Isento</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleos Lubrificantes simples, composto ou emulsivos a granel ...............................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>761,6 a 969,3</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Óleos Lubrificantes simples, compostos ou emulsivos embalados .........................</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>889,0 a 1131,0</span></p></td></tr></tbody></table>
+Gás Liquefeito de Petróleo (GLP) ........................................................................
+
+80,3
+
+Gasolina de Aviação ..........................................................................................
+
+298,1
+
+Querosene de Aviação .......................................................................................
+
+249,2
+
+Gasolina Automotiva, tipo A ...............................................................................
+
+320,4
+
+Gasolina Automotiva, tipo B ...............................................................................
+
+369,2
+
+Querosene e “Signal oil” .....................................................................................
+
+132,9
+
+Óleo Diesel .......................................................................................................
+
+250,2
+
+Óleo Combustível ..............................................................................................
+
+Isento
+
+Óleos Lubrificantes simples, composto ou emulsivos a granel ...............................
+
+761,6 a 969,3
+
+Óleos Lubrificantes simples, compostos ou emulsivos embalados .........................
+
+889,0 a 1131,0
 
 Art. 2º O artigo 1º do Decreto-lei nº 343, de 28 de dezembro de 1967, aIterado pelo Decreto-lei nº 555, de 25 de abril de 1969 e pelo Decreto-lei nº 615, de 9 de junho de 1969, passa a vigorar com a seguinte redação, mantidos os respectivos parágrafos:
 

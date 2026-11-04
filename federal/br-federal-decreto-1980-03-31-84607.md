@@ -1,5 +1,3 @@
-###DEC-084607-0-000-31-03-1980@@@
-
 Decreto nº 84.607, de 31 de março de 1980
 
 Dispõe sobre provimento de cargo privativo de Oficial Superior de Quadros do Serviço de Saúde do Exército.

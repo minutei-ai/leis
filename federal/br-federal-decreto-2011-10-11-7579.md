@@ -1,5 +1,3 @@
-###DEC-007579-0-000-11-10-2011-PUB-01@@@
-
 DECRETO Nº 7.579, DE 11 DE OUTUBRO DE 2011
 
 Dispõe sobre o Sistema de Administração dos Recursos de Tecnologia da Informação - SISP, do Poder Executivo federal.

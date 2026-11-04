@@ -1,5 +1,3 @@
-###DEC-089892-0-000-02-07-1984@@@
-
 Decreto nº 89.892, de 02 de julho de 1984
 
 Altera dispositivos do Decreto nº 83.304, de 28 de março de 1979, que institui a Câmara Superior de Recursos Fiscais e dá outras providências.

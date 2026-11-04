@@ -1,5 +1,3 @@
-###DEC-067253-0-000-23-09-1970@@@
-
 decreto nº 67.253, de 23 de setembro de 1970.
 
 Declara caduco o Decreto nº 42.855, de 19 de dezembro de 1957.

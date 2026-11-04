@@ -1,5 +1,3 @@
-###DEL-008126-0-000-23-10-1945@@@
-
 DECRETO-LEI N. 8.126 – DE 23 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 1.457,10, para atender ao pagamento de salários devidos a Paulo Emílio de Oliveira e Cruz.

@@ -1,5 +1,3 @@
-###DEC-065006-0-000-18-08-1969@@@
-
 DECRETO Nº 65.006 - de 18 de Agôsto de 1969.
 
 Declara caduco o Decreto nº 37.170, de 13 de abril de 1935.

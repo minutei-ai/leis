@@ -1,5 +1,3 @@
-###DEC-056571-0-000-09-07-1965@@@
-
 DECRETO Nº 56.571, DE 9 DE JULHO DE 1965.
 
 Fixa diretrizes e bases para a expansão da indústria petroquímica.

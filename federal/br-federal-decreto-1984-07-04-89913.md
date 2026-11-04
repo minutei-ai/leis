@@ -1,5 +1,3 @@
-###DEC-089913-0-000-04-07-1984@@@
-
 Decreto nº 89.913, de 04 de julho de 1984.
 
 Cria a Embaixada do Brasil na República Democrática Popular do Iêmen.

@@ -1,5 +1,3 @@
-###DEC-005279-0-000-22-11-2004@@@
-
 DECRETO Nº 5.279 DE 22 DE NOVEMBRO DE 2004
 
  Altera e acresce dispositivo ao Decreto nº 98.380, de 9 de novembro de 1989, que institui o emblema do Departamento de Polícia Federal e dispõe sobre a identificação de seus servidores.

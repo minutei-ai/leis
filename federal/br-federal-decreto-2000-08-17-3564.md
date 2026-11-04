@@ -1,5 +1,3 @@
-###DEC-003564-0-000-17-08-2000@@@
-
 DECRETO Nº 3.564, DE 17 DE AGOTO DE 2000.
 
 Dispõe sobre a estrutura e o funcionamento do Conselho de Aviação Civil - CONAC e dá outras providências.

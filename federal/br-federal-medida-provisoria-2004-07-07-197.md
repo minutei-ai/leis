@@ -1,5 +1,3 @@
-###MPV-000197-0-000-07-07-2004@@@
-
 MEDIDA PROVISÓRIA Nº 197, DE 7 DE JULHO 2004.
 
 Cria o Programa de Modernização do Parque Industrial Nacional - Modermaq, e dá outras providências.      

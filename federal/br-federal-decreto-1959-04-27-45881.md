@@ -1,5 +1,3 @@
-###DEC-045881-0-000-27-04-1959@@@
-
 DECRETO Nº 45.881, DE 27 DE ABRIL DE 1959.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Distrito Federal.

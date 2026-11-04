@@ -44,33 +44,42 @@ II – para o cálculo da cobrança, poderão ser utilizados o volume de água o
 
 III – no caso do uso do volume medido para o cálculo da cobrança, o cômputo deverá ser regulamentado por norma específica aprovada pelo comitê de bacia hidrográfica, pelo Conselho de Recursos Hídricos e pelo órgão gestor de recursos hídricos;
 
-~~IV – no caso do uso do volume medido no mecanismo de cobrança, o usuário deverá seguir norma específica estabelecida pelo órgão gestor; e~~<br>
+~~IV – no caso do uso do volume medido no mecanismo de cobrança, o usuário deverá seguir norma específica estabelecida pelo órgão gestor; e~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, I.
 
 V – se for identificado uso dos recursos hídricos sem a devida outorga, no momento da regularização esse uso será cobrado retroativamente, considerada a data do início da atividade, bem como da cobrança pelo uso da água na respectiva bacia, sem prejuízo das sanções cabíveis.
 
-~~Parágrafo único. Para este Decreto, consideram-se:~~<br>
+~~Parágrafo único. Para este Decreto, consideram-se:~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~I – tipo de interferência e/ou uso:~~<br>
+~~I – tipo de interferência e/ou uso:~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~a) captação por derivação superficial: abastecimento urbano, indústria, mineração, criação animal (dessedentação animal) , irrigação, consumo humano, turismo de exploração aquática, aquicultura e outros usos;~~<br>
+~~a) captação por derivação superficial: abastecimento urbano, indústria, mineração, criação animal (dessedentação animal) , irrigação, consumo humano, turismo de exploração aquática, aquicultura e outros usos;~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~b) captação por explotação subterrânea: abastecimento urbano, indústria, mineração, rebaixamento de lençol freático de mineração, rebaixamento de lençol freático de edificações ou outros usos que impliquem em rebaixamento de lençol freático, criação animal, irrigação, consumo ou uso humano, turismo de exploraçãoaquática, aquicultura e outros usos;~~<br>
+~~b) captação por explotação subterrânea: abastecimento urbano, indústria, mineração, rebaixamento de lençol freático de mineração, rebaixamento de lençol freático de edificações ou outros usos que impliquem em rebaixamento de lençol freático, criação animal, irrigação, consumo ou uso humano, turismo de exploraçãoaquática, aquicultura e outros usos;~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~c) lançamento superficial: diluição, transporte e assimilação de efluentes oriundos de esgotamento sanitário, indústria, mineração, criação animal, consumo humano, aquicultura e outros usos; e~~<br>
+~~c) lançamento superficial: diluição, transporte e assimilação de efluentes oriundos de esgotamento sanitário, indústria, mineração, criação animal, consumo humano, aquicultura e outros usos; e~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~d) outras finalidades de usos, inclusive os não consuntivos: outros usos, lazer e/ou turismo, hidroeletricidade e hidroviário;~~<br>
+~~d) outras finalidades de usos, inclusive os não consuntivos: outros usos, lazer e/ou turismo, hidroeletricidade e hidroviário;~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~II – categoria de uso: usos urbanos ou usos rurais; e~~<br>
+~~II – categoria de uso: usos urbanos ou usos rurais; e~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
-~~III – setor usuário ou finalidade de uso: esgotamento sanitário e abastecimento urbano, indústria, mineração, irrigação, criação animal (dessedentação animal), consumo humano, aquicultura e outros usos.~~<br>
+~~III – setor usuário ou finalidade de uso: esgotamento sanitário e abastecimento urbano, indústria, mineração, irrigação, criação animal (dessedentação animal), consumo humano, aquicultura e outros usos.~~
+
 \- [Revogado pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469), art. 4º, II.
 
 Art. 5º São isentos da cobrança os usos que independem de outorga.
@@ -193,33 +202,40 @@ Parágrafo único. A proposta de revisão de mecanismos de cobrança e PPUs de q
 
 Art. 19. Os comitês de bacia hidrográfica deverão apresentar até o dia 31 de dezembro de 2024 o plano plurianual de aplicação dos recursos, já considerado o seu uso no ano de 2025.
 
-Art. 20. De forma transitória, o órgão gestor iniciará a cobrança de domínio estadual:<br>
+Art. 20. De forma transitória, o órgão gestor iniciará a cobrança de domínio estadual:
+
 \- [Redação dada pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 ~~Art. 20. De forma transitória, o órgão gestor iniciará a cobrança de domínio estadual conforme os PPUs estabelecidos no Anexo I deste Decreto, no ano de 2024, com os respectivos boletos emitidos no 1º (primeiro) trimestre do ano de 2025.~~
 
-I – no ano de 2024, conforme os PPUs estabelecidos no Anexo I deste Decreto, com os respectivos boletos emitidos no segundo semestre do ano de 2025; e<br>
+I – no ano de 2024, conforme os PPUs estabelecidos no Anexo I deste Decreto, com os respectivos boletos emitidos no segundo semestre do ano de 2025; e
+
 \- [Acrescido pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
-II – no ano de 2025, conforme os PPUs estabelecidos no Anexo II deste Decreto, com os respectivos boletos emitidos no primeiro semestre do ano de 2026.<br>
+II – no ano de 2025, conforme os PPUs estabelecidos no Anexo II deste Decreto, com os respectivos boletos emitidos no primeiro semestre do ano de 2026.
+
 \- [Acrescido pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
-Parágrafo único. Durante o período de transição previsto no caput deste artigo, verificada qualquer indisponibilidade, o órgão gestor poderá prorrogar a emissão dos boletos referentes à cobrança do ano de 2024 até o primeiro trimestre do ano de 2026.<br>
+Parágrafo único. Durante o período de transição previsto no caput deste artigo, verificada qualquer indisponibilidade, o órgão gestor poderá prorrogar a emissão dos boletos referentes à cobrança do ano de 2024 até o primeiro trimestre do ano de 2026.
+
 \- [Redação dada pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 ~~Parágrafo único. Os boletos referentes ao pagamento pelo uso dos recursos hídricos deverão ser emitidos no 1º (primeiro) trimestre do ano subsequente ao ano em que eles forem utilizados.~~
 
-Art. 21. A partir do terceiro ano da cobrança, os PPUs serão os definidos no Anexo III deste Decreto ou os advindos dos comitês de bacias hidrográficas mediante propostas de revisão devidamente aprovadas pelo CERHí.<br>
+Art. 21. A partir do terceiro ano da cobrança, os PPUs serão os definidos no Anexo III deste Decreto ou os advindos dos comitês de bacias hidrográficas mediante propostas de revisão devidamente aprovadas pelo CERHí.
+
 \- [Redação dada pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 ~~Art. 21. A partir do 2º (segundo) ano da cobrança, os PPUs serão os definidos no Anexo II deste Decreto ou os advindos dos comitês de bacias hidrográficas mediante propostas de revisão devidamente aprovadas pelo CERHí.~~
 
-§ 1º Os boletos referentes ao pagamento pelo uso dos recursos hídricos deverão ser emitidos no primeiro semestre do ano subsequente ao ano em que eles forem utilizados.<br>
+§ 1º Os boletos referentes ao pagamento pelo uso dos recursos hídricos deverão ser emitidos no primeiro semestre do ano subsequente ao ano em que eles forem utilizados.
+
 \- [Constituído § 1º com nova redação dada pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 ~~Parágrafo único. Após o 2º (segundo) ano, os PPUs referentes à cobrança pelo uso de recursos hídricos serão corrigidos anualmente pela variação do Índice Geral de Preços – Disponibilidade Interna – IGP-DI ou de índice que vier a sucedê-lo.~~
 
-§ 2º Após o terceiro ano, os PPUs serão corrigidos anualmente pela variação do Índice Geral de Preços – Disponibilidade Interna – IGP-DI ou do índice que vier a sucedê-lo.<br>
+§ 2º Após o terceiro ano, os PPUs serão corrigidos anualmente pela variação do Índice Geral de Preços – Disponibilidade Interna – IGP-DI ou do índice que vier a sucedê-lo.
+
 \- [Acrescido pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 Art. 22. O órgão gestor realizará campanha de divulgação da cobrança e utilizará os dados constantes dos cadastros de outorga, bem como publicará ato convocatório para a atualização de dados dos usuários.
@@ -238,7 +254,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 PREÇOS PÚBLICOS UNITÁRIOS – PPUs DE COBRANÇA PELO USO DE RECURSOS HÍDRICOS DE DOMÍNIO DO ESTADO DE GOIÁS
@@ -278,11 +295,12 @@ Tabela base com os PPUs do 1º (primeiro) ano – 2024
 | ~~Captação/explotação subterrânea~~ | ~~Usos urbanos~~ | ~~Todos os setores usuários~~ | ~~0,0350~~ | ~~R$/m³~~ |
 |   | ~~Rebaixamento de lençol freático\*~~ | ~~0,00862~~ | ~~R$/m³~~ |
 | ~~Usos rurais~~ | ~~Todos os setores usuários~~ | ~~0,0250~~ | ~~R$/m³~~ |
-| ~~Lançamento superficial~~ | ~~Todos~~ | ~~Todos os setores usuários~~ | ~~Carga orgânica~~ ~~–~~ ~~DBO5,20~~ ~~0,0918~~ | ~~R$/kg~~ |
+| ~~Lançamento superficial~~ | ~~Todos~~ | ~~Todos os setores usuários~~ | ~~Carga orgânica–DBO5,200,0918~~ | ~~R$/kg~~ |
 
 \* Nos usos com rebaixamento de lençol freático para mineração, rebaixamento de lençol freático de edificações ou outros usos que impliquem rebaixamento de lençol freático, o PPU será a metade (50%) do valor cobrado do setor usuário mineração de captação superficial (equivalente a PPU x 0,5). Constitui-se da retirada temporária ou permanente de água subterrânea.
 
-ANEXO II<br>
+ANEXO II
+
 \- [Redação dada pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 PREÇOS PÚBLICOS UNITÁRIOS – PPUs DE COBRANÇA PELO USO DE RECURSOS HÍDRICOS DE DOMÍNIO DO ESTADO DE GOIÁS
@@ -322,11 +340,12 @@ Tabela base com os PPUs a partir do 2º (segundo) ano – 2025
 | ~~Captação/explotação subterrânea~~ | ~~Usos urbanos~~ | ~~Todos os setores usuários~~ | ~~0,0700~~ | ~~R$/m³~~ |
 |   | ~~Rebaixamento de lençol freático\*~~ | ~~0,0172~~ | ~~R$/m³~~ |
 | ~~Usos rurais~~ | ~~Todos os setores usuários~~ | ~~0,0500~~ | ~~R$/m³~~ |
-| ~~Lançamento superficial~~ | ~~Todos~~ | ~~Todos os setores usuários~~ | ~~Carga orgânica~~ ~~–~~ ~~DBO5,20~~ ~~0,1837~~ | ~~R$/kg~~ |
+| ~~Lançamento superficial~~ | ~~Todos~~ | ~~Todos os setores usuários~~ | ~~Carga orgânica–DBO5,200,1837~~ | ~~R$/kg~~ |
 
 \*Nos usos com rebaixamento de lençol freático para mineração, rebaixamento de lençol freático de edificações ou outros usos que impliquem rebaixamento de lençol freático, o PPU será a metade (50%) do valor cobrado do setor usuário mineração de captação superficial (equivalente a PPU x 0,5). Constitui-se da retirada temporária ou permanente de água subterrânea.
 
-ANEXO III<br>
+ANEXO III
+
 \- [Acrescido pelo Decreto nº 10.804, de 28-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111469).
 
 PREÇOS PÚBLICOS UNITÁRIOS - PPUs DE COBRANÇA PELO USO DOS RECURSOS HÍDRICOS DE DOMÍNIO DO ESTADO DE GOIÁS

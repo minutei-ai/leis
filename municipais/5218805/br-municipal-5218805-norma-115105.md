@@ -2,11 +2,16 @@ LEI Nº 7.013, DE 31 DE OUTUBRO DE 2019.
 
 Dispõe sobre a concessão de direito real de uso de lotes que compõem o Distrito Municipal de Pequenas Empresas – DIMPE e dá outras providências.
 
-**CONSOLIDADA COM AS LEIS:**<br>
-[Lei   nº 7.084](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115749 "Abrir Lei Ordinária nº 7084, de 2020 em nova aba")[/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115749) ........................………… 03/06/2020<br>
-[Lei   nº 7.131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115752 "Abrir Lei Ordinária nº 7131, de 2021 em nova aba")[/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115752) ........................………… 30/03/2021<br>
-[Lei nº. 7.149/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115753) ........................………… 31/05/2021<br>
-[Lei nº. 7.517/2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115101) ........................………… 24/06/2024<br>
+**CONSOLIDADA COM AS LEIS:**
+
+[Lei   nº 7.084](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115749 "Abrir Lei Ordinária nº 7084, de 2020 em nova aba")[/2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115749) ........................………… 03/06/2020
+
+[Lei   nº 7.131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115752 "Abrir Lei Ordinária nº 7131, de 2021 em nova aba")[/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115752) ........................………… 30/03/2021
+
+[Lei nº. 7.149/2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115753) ........................………… 31/05/2021
+
+[Lei nº. 7.517/2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115101) ........................………… 24/06/2024
+
 [Lei nº. 7.571/2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115755) ........................………… 02/12/2024
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

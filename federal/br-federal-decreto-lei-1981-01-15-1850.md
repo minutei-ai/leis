@@ -1,7 +1,3 @@
-1
-
-###DEL-001850-0-000-15-01-1981@@@
-
 # Decreto-lei nº 1.850, de 15 de janeiro de 1981
 
 Isenta de laudêmio as transferências do domínio útil de terrenos de marinha, destinados à construção de conjuntos habitacionais de interesse social.

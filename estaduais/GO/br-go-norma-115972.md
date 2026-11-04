@@ -6,7 +6,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucion
 
 **DECRETA:**
 
-Art. 1º Fica reduzido em 67 (sessenta e sete) dias o interstício estabelecido no inciso II do art. 6º do [Decreto nº 886](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62326 "Abrir Decreto Numerado nº 886, de 1976 em nova aba"), de 12 de abril de 1976, exclusivamente para efeito de ingresso no Quadro de Acesso da Polícia Militar, com vistas à promoção prevista para julho de 2026, dos Oficiais Médicos e Odontólogos do Quadro de Oficiais de Saúde, no posto de Segundo-Tenente, nomeados pelos seguintes atos:<br>
+Art. 1º Fica reduzido em 67 (sessenta e sete) dias o interstício estabelecido no inciso II do art. 6º do [Decreto nº 886](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62326 "Abrir Decreto Numerado nº 886, de 1976 em nova aba"), de 12 de abril de 1976, exclusivamente para efeito de ingresso no Quadro de Acesso da Polícia Militar, com vistas à promoção prevista para julho de 2026, dos Oficiais Médicos e Odontólogos do Quadro de Oficiais de Saúde, no posto de Segundo-Tenente, nomeados pelos seguintes atos:
+
 \- [Vide Errata publicada no Suplemento do D.O. de 2-7-2026](https://diariooficial.abc.go.gov.br/portal/edicoes/download/7254).
 
 I - Decretos de 2 de julho de 2024, publicado no [Diário Oficial nº 24.319](https://diariooficial.abc.go.gov.br/portal/edicoes/download/6214), da mesma data;
@@ -23,5 +24,6 @@ Goiânia, 29 de junho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

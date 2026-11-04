@@ -1,5 +1,3 @@
-###DEC-006461-0-000-21-05-2008@@@
-
 DECRETO Nº 6.461, DE 21 DE MAIO DE 2008.
 
 Dá nova redação aos arts. 1o e 3o do Decreto no 5.630, de 22 de dezembro de 2005, que dispõe sobre a redução a zero das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes na importação e na comercialização no mercado interno de adubos, fertilizantes, defensivos agropecuários e outros produtos, de que trata o art. 1o da Lei no 10.925, de 23 de julho de 2004, em função das alterações da Lei no 11.488, de 15 de junho de 2007.
@@ -37,5 +35,3 @@ Brasília, 21 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 23.5.2008

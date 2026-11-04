@@ -1,5 +1,3 @@
-###DEC-007029-0-000-10-12-2009@@@
-
 DECRETO Nº 7.029, DE 10 DE DEZEMBRO DE 2009.
 
 Institui o Programa Federal de Apoio à Regularização Ambiental de Imóveis Rurais, denominado “Programa Mais Ambiente”, e dá outras providências.

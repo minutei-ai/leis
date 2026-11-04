@@ -1,5 +1,3 @@
-###DEL-009002-0-000-20-02-1946@@@
-
 DECRETO-LEI N. 9.002 – DE 20 DE FEVEREIRO DE 1946
 
 Autoriza a Companhia Siderúrgica Nacional a desapropriar os bens que menciona.

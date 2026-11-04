@@ -1,5 +1,3 @@
-###DEC-004185-0-000-05-04-2002@@@
-
 DECRETO Nº 4.185, DE 5 DE ABRIL DE 2002
 
 Dispõe sobre limites de contrapartida a serem aplicados nos casos previstos no § 1º do art. 34 da Lei nº10.266, de 24 de julho de 2001, e dá outras providências.

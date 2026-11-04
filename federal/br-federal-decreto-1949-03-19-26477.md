@@ -1,20 +1,18 @@
-###DEC-026477-0-000-19-03-1949@@@
+**DECRETO Nº 26.477, DE 19 MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.477, DE 19 MARÇO DE 1949.</strong>
+***Outorga á Prefeitura Municipal de Indianópolis concessão para o aproveitamento de energia hidráulica da cachoeira situada no ribeirão Mandaguari, município de Indianópolis, Estado de Minas Gerais.***
 
-<em><strong>Outorga á Prefeitura Municipal de Indianópolis concessão para o aproveitamento de energia hidráulica da cachoeira situada no ribeirão Mandaguari, município de Indianópolis, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *a*, do Código de Águas (Dec. nº 24.163, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>a</em>, do Código de Águas (Dec. nº 24.163, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada á Prefeitura Municipal de Indianópolis, concessão para o aproveitamento da energia hidráulica de um desnível situado no ribeirão Mandaguari, município de Indianópolis, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada á Prefeitura Municipal de Indianópolis, concessão para o aproveitamento da energia hidráulica de um desnível situado no ribeirão Mandaguari, município de Indianópolis, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição da energia elétrica, para serviços públicos, serviços de utilidade pública e para comércio de energia na cidade de Indianópolis.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente titulo, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente titulo, a concessionária obriga-se a:
 
 I - Registra-lo na Divisão de Águas, dentro de trinta (30) dias, após a sua publicação.
 
@@ -64,34 +62,34 @@ V - Obedecer, em todos os projetos, ás prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local de aproveitamento, onde desde quando fôr determinado pela Divisão de Águas, as instalações necessárias ás observações linimétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local de aproveitamento, onde desde quando fôr determinado pela Divisão de Águas, as instalações necessárias ás observações linimétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contando na data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contando na data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º O capital a ser remunerado será efetivamente invertido nas instalações da concessionária em função de sua indústria, concorrendo direta ou indiretamente, para produção, transmissão e distribuição de energia elétrica.
+**Art**. 6º O capital a ser remunerado será efetivamente invertido nas instalações da concessionária em função de sua indústria, concorrendo direta ou indiretamente, para produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 8º Para a manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostos por acidentes.
+**Art**. 8º Para a manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostos por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará reserva de renovação, será realizada por quotas especiais que incidirão sôbre as tarifas, sob forma de percentagem. Estas quotas serão determinadas, tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 9º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante a indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 8º dêste decreto.
+**Art**. 9º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante a indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 8º dêste decreto.
 
 § 1º Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Governo Federal que a concessão seja renovada pela forma que no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, ate seis (6) meses antes do termino do respectivo prazo.
 
-<strong>Art</strong>. 10. A concessionária gozara desde a data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 10. A concessionária gozara desde a data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 11. O presente Decreto entrara em vigor na data de sua publicação.
+**Art**. 11. O presente Decreto entrara em vigor na data de sua publicação.
 
-<strong>Art</strong>. 12. Revogam-se as disposições em contrario.
+**Art**. 12. Revogam-se as disposições em contrario.
 
 Rio de Janeiro, 19 de março de 1949; 128º da Independência e 61º da Republica.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Souza Duarte

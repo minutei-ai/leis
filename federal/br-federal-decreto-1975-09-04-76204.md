@@ -1,5 +1,3 @@
-###DEC-076204-0-000-04-09-1975@@@
-
 DECRETO Nº 76.204 - DE 4 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento da Faculdade de Psicologia de Marília, com sede na cidade de Marília, Estado de São Paulo.

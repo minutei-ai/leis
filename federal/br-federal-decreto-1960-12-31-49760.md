@@ -1,5 +1,3 @@
-###DEC-049760-0-000-31-12-1960@@@
-
 DECRETO Nº 49.760, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à sociedade anônima Foster Wheeler International Corporation autorização para continuar a funcionar na República.

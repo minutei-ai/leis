@@ -1,5 +1,3 @@
-###DEC-056819-0-000-01-09-1965@@@
-
 Decreto Nº 56.819, de 1º DE SETEMBRO DE 1965.
 
 Dispõe sôbre aplicação dos recursos previstos no Orçamento do Instituto do Açúcar e do Álcool.

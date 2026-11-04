@@ -1,5 +1,3 @@
-###DEC-047704-0-000-23-01-1960@@@
-
 DECRETO Nº 47.704, DE 23 DE JANEIRO DE 1960.
 
 Declara de utilidade pública a Associação Colégio dos Anjos, com sede em São Paulo, Estado de São Paulo.

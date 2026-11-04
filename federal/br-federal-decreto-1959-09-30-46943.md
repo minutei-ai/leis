@@ -1,5 +1,3 @@
-###DEC-046943-0-000-30-09-1959@@@
-
 DECRETO Nº 46.943, DE 30 DE Setembro DE 1959.
 
 Aprova alterações introduzidas nos Estados, inclusive aumento do Capital Social da “Brasil” Companhia de Seguros Gerais.

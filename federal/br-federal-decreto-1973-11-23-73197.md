@@ -1,5 +1,3 @@
-###DEC-073197-0-000-23-11-1973@@@
-
 DECRETO Nº 73.197 - DE 23 DE NOVEMBRO DE 1973
 
 Concede o Silvano Biondi, firma individual, o direito de lavrar bauxita, no Município de Lavrinhas, Estado de São Paulo.

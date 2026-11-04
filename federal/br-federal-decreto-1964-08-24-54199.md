@@ -1,5 +1,3 @@
-###DEC-054199-0-000-24-08-1964@@@
-
 DECRETO Nº 54.199, DE 24 DE AGÔSTO DE 1964.
 
 Autoriza o cidadão brasileiro Antonio Motta Netto a pesquisar areia quartzosa, no Município de Mongaguá, Estado de São Paulo.

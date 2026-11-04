@@ -1,5 +1,3 @@
-###DEC-052918-0-000-22-11-1963@@@
-
 DECRETO Nº 52.918, DE 22 DE NOVEMBRO DE 1963.
 
 Declara luto oficial em todo o país, em sinal de pesar pelo falecimento do Presidente John F. Kennedy.

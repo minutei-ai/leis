@@ -1,5 +1,3 @@
-###DEC-005970-0-000-23-11-2006@@@
-
 DECRETO Nº 5.970 DE 23 DE NOVEMBRO DE 2006.
 
 Dá nova redação ao art 2o do Decreto no 4.855, de 9 de outubro de 2003, que estabelece prazo para o enquadramento jurídico das cooperativas de eletrificação rural.
@@ -25,5 +23,3 @@ Brasília, 23 de novembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no DOU de 24.11.2006

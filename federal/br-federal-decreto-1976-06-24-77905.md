@@ -1,5 +1,3 @@
-###DEC-077905-0-000-24-06-1976@@@
-
 DECRETO Nº 77.905, DE 24 DE JUNHO DE 1976
 
 Concede à Coque Catarinense Ltda. o direito de lavrar carvão no Município de Alfredo Wagner, Estado de Santa Catarina.

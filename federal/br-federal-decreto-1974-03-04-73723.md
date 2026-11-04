@@ -1,5 +1,3 @@
-###DEC-073723-0-000-04-03-1974@@@
-
 DECRETO Nº 73.723, 4 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras da Fundação Educacional de Patrocínio, com sede na Cidade de Patrocínio, Estado de Minas Gerais.

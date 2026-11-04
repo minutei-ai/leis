@@ -1,5 +1,3 @@
-###DEL-008291-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.291 – DE 5 DE DEZEMBRO DE 1945
 
 Cria um Hospital de Primeira Classe na 2ª Zona Aérea.

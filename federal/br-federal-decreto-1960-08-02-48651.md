@@ -1,5 +1,3 @@
-###DEC-048651-0-000-02-08-1960@@@
-
 decreto nº 48.651, de 2 de agôsto de 1960.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, fração ideal de domínio útil do terreno de marinha, que menciona, no Estado da Guanabara.

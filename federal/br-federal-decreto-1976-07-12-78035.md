@@ -1,5 +1,3 @@
-###DEC-078035-0-000-12-07-1976@@@
-
 Decreto nº 78.035, de 12 de julho de 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado de Goiás.

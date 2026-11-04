@@ -1,5 +1,3 @@
-###DEL-009450-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.450 – DE 12 DE JULHO DE 1946
 
 Dispõe sôbre impostos de produção das jazidas e minas nos Territórios Federais.

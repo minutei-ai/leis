@@ -1,5 +1,3 @@
-###DEC-064411-0-000-28-04-1969@@@
-
 DECRETO Nº 64.411, DE 28 DE ABRIL DE 1969.
 
 Altera a redação do artigo 2º do Decreto nº 60.391, de 11 de março de 1967 e dá outras providências.

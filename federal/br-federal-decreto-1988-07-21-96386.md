@@ -1,5 +1,3 @@
-###DEC-096386-0-000-21-07-1988@@@
-
 DECRETO N° 96.386, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia das Faculdades Integradas de Uberaba.

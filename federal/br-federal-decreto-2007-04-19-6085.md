@@ -1,5 +1,3 @@
-###DEC-006085-0-000-19-04-2007@@@
-
 DECRETO Nº 6.085, DE 19 DE ABRIL DE 2007.
 
 Promulga o Protocolo Facultativo à Convenção contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes, adotado em 18 de dezembro de 2002.
@@ -26,11 +24,7 @@ Brasília,19 de abril de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.4.2007
-
-PROTOCOLO FACULTATIVO À CONVENÇÃO CONTRA A TORTURA E
+Celso Luiz Nunes AmorimPROTOCOLO FACULTATIVO À CONVENÇÃO CONTRA A TORTURA E
 
 OUTROS TRATAMENTOS OU PENAS CRUÉIS, DESUMANOS OU DEGRADANTES
 

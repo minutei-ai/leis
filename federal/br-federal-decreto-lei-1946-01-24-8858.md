@@ -1,5 +1,3 @@
-###DEL-008858-0-000-24-01-1946@@@
-
 DECRETO-LEI  N. 8.858 – DE 24 JANEIRO DE 1946
 
 Suprime o parágrafo único do artigo 1º do Decreto-lei número 8.701, de 17 de janeiro de 1946.

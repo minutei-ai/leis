@@ -1,5 +1,3 @@
-###DEC-088147-0-000-08-03-1983@@@
-
 Decreto nº 88.147, de 08 de março de 1983
 
 Regulamenta a Lei nº 6.994, de 26 de maio de 1982, que dispõe sobre a fixação do valor das anuidades e taxas devidas aos órgãos fiscalizadores do exercício profissional e dá outras providências.

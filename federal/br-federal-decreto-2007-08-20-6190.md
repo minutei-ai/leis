@@ -1,5 +1,3 @@
-###DEC-006190-0-000-20-08-2007@@@
-
 DECRETO Nº 6.190, DE 20 DE AGOSTO DE 2007.
 
 Regulamenta o disposto no art. 1o do Decreto-Lei no 1.876, de 15 de julho de 1981, para dispor sobre a isenção do pagamento de foros, taxas de ocupação e laudêmios, referentes a imóveis de propriedade da União, para as pessoas consideradas carentes ou de baixa renda.
@@ -25,5 +23,3 @@ Regulamenta o disposto no art. 1o do Decreto-Lei no 1.876, de 15 de julho de 198
 LUIZ INÁCIO LULA DA SILVA
 
 João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 21.8.2007

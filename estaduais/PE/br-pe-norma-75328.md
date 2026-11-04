@@ -28,29 +28,25 @@ TÚLIO FREDERICO TENÓRIO VILAÇA RODRIGUES
 
 BIANCA FERREIRA TEIXEIRA
 
-**<br>
-****ANEXO I**
+**
+
+ANEXO I**
 
 **“ANEXO ÚNICO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="359" style="width:269.35pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO</span></p></td><td width="283" style="width:212.25pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VALOR (em R$)</span></p></td></tr><tr><td width="359" style="width:269.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Curso de Formação de Oficiais</span></p></td><td width="283" style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2.900,00</span></p></td></tr><tr><td width="359" style="width:269.35pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Curso de Formação e Habilitação de Praças</span></p></td><td width="283" style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></td></tr></tbody></table>
+CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO
+
+VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL
+
+VALOR (em R$)
+
+Curso de Formação de Oficiais
+
+2.900,00
+
+Curso de Formação e Habilitação de Praças
+
+1.450,00
 
                                                                                                                                                                        ” (NR)
 
@@ -58,68 +54,41 @@ BIANCA FERREIRA TEIXEIRA
 
 “ANEXO ÚNICO
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">CARGO DE INGRESSO</span></p></div></td><td width="283" style="width:212.25pt;border-top:outset black 1.0pt;border-left:
-  none;border-bottom:none;border-right:outset black 1.0pt;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">VALOR (em R$)</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Delegado de Polícia *</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.900,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Perito Criminal</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.900,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Médico Legista</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">2.900,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Agente de Polícia</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Escrivão de Polícia</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Perito Papiloscopista</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Auxiliar de Perito</span></p></div></td><td width="283" style="width:212.25pt;border:none;border-right:outset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></div></td></tr><tr><td width="359" style="width:269.35pt;border:none;padding:0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm;padding-bottom:1.0pt;
-  border-bottom:.5pt solid windowtext"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Auxiliar de Legista</span></p></div></td><td width="283" style="width:212.25pt;border-top:none;border-left:none;
-  border-bottom:outset black 1.0pt;border-right:outset black 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><div style="border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;border:none;padding:0cm"><span style="font-size:
-  12.0pt;font-family:&quot;Times New Roman&quot;,serif">1.450,00</span></p></div></td></tr></tbody></table>
+CARGO DE INGRESSO
+
+VALOR (em R$)
+
+Delegado de Polícia *
+
+2.900,00
+
+Perito Criminal
+
+2.900,00
+
+Médico Legista
+
+2.900,00
+
+Agente de Polícia
+
+1.450,00
+
+Escrivão de Polícia
+
+1.450,00
+
+Perito Papiloscopista
+
+1.450,00
+
+Auxiliar de Perito
+
+1.450,00
+
+Auxiliar de Legista
+
+1.450,00
 
                                                                                                                                                                       ” (NR)
 

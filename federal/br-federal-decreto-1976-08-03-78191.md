@@ -1,5 +1,3 @@
-###DEC-078191-0-000-03-08-1976@@@
-
 DECRETO Nº 78.191, DE 3 DE AGOSTO DE 1976.
 
 Autoriza a transferência direta para Brasilino - Rádio e Televisão Ltda., da concessão outorgada à Rádio Rio Ltda., cuja razão social foi, posteriormente, alterada para Rádio e TV Rio S.A., para executar serviço de radiodifusão de sons e imagens (Televisão), na Cidade de Brasília - Distrito Federal.

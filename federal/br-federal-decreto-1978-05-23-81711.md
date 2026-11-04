@@ -1,5 +1,3 @@
-###DEC-081711-0-000-23-05-1978@@@
-
 Decreto nº 81 711, de 23 de maio de 1978.
 
 Concede à Indústria Nacional de Minérios S.A. o direito de lavrar calcita e mármore no Município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

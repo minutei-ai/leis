@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210900)<br>
-
 # DECRETO N° 69.508, DE 30 DE ABRIL DE 2025
 
 ### _Fixa, conforme o caso, o percentual ou o valor anual máximo para pagamento das Bonificações por Resultados - BR relativas ao exercício de 2024._

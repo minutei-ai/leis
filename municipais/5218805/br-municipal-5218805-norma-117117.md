@@ -30,7 +30,7 @@ Procurador-Geral
 
 1\. Tabela 1 - Consolidada
 
-| **ESPÉCIE/** **NÍVEL** | **QUANTITATIVO** | **VALOR (RS)** |
+| **ESPÉCIE/NÍVEL** | **QUANTITATIVO** | **VALOR (RS)** |
 | --- | --- | --- |
 | **FG-1** | 32 |   |
 | **FG-2** | 65 |   |
@@ -43,7 +43,7 @@ Procurador-Geral
 
 1\. Tabela 2 - Prefeitura Municipal de Rio Verde
 
-| **ESPÉCIE** **/ NÍVEL** | **QUANTITATIVO** | **VALOR (RS)** |
+| **ESPÉCIE/ NÍVEL** | **QUANTITATIVO** | **VALOR (RS)** |
 | --- | --- | --- |
 |   |   | ........................................................................ |
 | FG-2 | 41 | \- |
@@ -53,7 +53,7 @@ Procurador-Geral
 
 8\. Tabela 9 - Agência Municipal de Mobilidade Urbana - AMT
 
-| **ESPÉCIE** **/ NÍVEL** | **QUANTITATIVO** | **VALOR (RS)** |
+| **ESPÉCIE/ NÍVEL** | **QUANTITATIVO** | **VALOR (RS)** |
 | --- | --- | --- |
 | ................... | ................... |
 | FG-3 | 1 | \- |
@@ -65,10 +65,96 @@ Procurador-Geral
 
 1\. Tabela 1 - Prefeitura Municipal de Rio Verde
 
-<table style="width: 70%;"><tbody><tr><td><strong>ESPÉCIE/NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr><tr><td>FG-2</td><td>Gestor de Projetos Estratégicos</td><td>...........................................</td><td style="text-align: center;">23</td></tr><tr><td>FG-2</td><td>Gestor de Compras Governamentais</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do processo de compras governamentais. E responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, apoio a coordenação e ou direção, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">8</td></tr><tr><td>FG-4</td><td>Gestor de<br>Pessoas e Folha de Pagamento Nível I</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária experiência mínima de 01 (um) ano na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.&nbsp;</td><td style="text-align: center;">-</td></tr><tr><td>FG-4</td><td>Agente de Compras<br>Govementais Nível I</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos, para a qual será designado. Necessária experiência mínima de 06 (seis) meses. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">-</td></tr><tr><td>FG-4</td><td>Gestor de Pessoas e Foha de Pagamento Nível II</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, no mínimo. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária a comprovação de experiência mínima de 06 (seis) meses na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">8</td></tr><tr><td>FG-5</td><td>Agente de Compras Governamentais Nível I</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio de escolaridade ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">12</td></tr><tr><td>FG-5</td><td>Gestor de Parcerias e Convênios</td><td style="text-align: justify;">....................................................................</td><td style="text-align: center;">6</td></tr><tr><td>FG-5</td><td>Agente de Departamento Pessoal</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de departamento de pessoal. Tem a função de realizar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">-</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+FG-2
+
+Gestor de Projetos Estratégicos
+
+...........................................
+
+23
+
+FG-2
+
+Gestor de Compras Governamentais
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do processo de compras governamentais. E responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, apoio a coordenação e ou direção, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+8
+
+FG-4
+
+Gestor de
+Pessoas e Folha de Pagamento Nível I
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária experiência mínima de 01 (um) ano na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+-
+
+FG-4
+
+Agente de Compras
+Govementais Nível I
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos, para a qual será designado. Necessária experiência mínima de 06 (seis) meses. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+-
+
+FG-4
+
+Gestor de Pessoas e Foha de Pagamento Nível II
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, no mínimo. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária a comprovação de experiência mínima de 06 (seis) meses na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+8
+
+FG-5
+
+Agente de Compras Governamentais Nível I
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio de escolaridade ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+12
+
+FG-5
+
+Gestor de Parcerias e Convênios
+
+....................................................................
+
+6
+
+FG-5
+
+Agente de Departamento Pessoal
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de departamento de pessoal. Tem a função de realizar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+-
 
 ............................................................................................................................................................................
 
 8\. Tabela 8 - Agência Municipal de Mobilidade e Trânsito - AMT
 
-<table style="width: 70%;"><tbody><tr><td><strong>ESPÉCIE/NÍVEL</strong></td><td><strong>FUNÇÃO</strong></td><td><strong>DESCRIÇÃO</strong></td><td><strong>QUANTIDADE</strong></td></tr><tr><td>FG-3</td><td>Gestor de Contratos</td><td style="text-align: justify;">Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de alta complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.</td><td style="text-align: center;">1</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+FG-3
+
+Gestor de Contratos
+
+Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de alta complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+1

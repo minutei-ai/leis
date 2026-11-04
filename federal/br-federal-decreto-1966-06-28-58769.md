@@ -1,5 +1,3 @@
-###DEC-058769-0-000-28-06-1966@@@
-
 Decreto nº 58.769, de 28 de junho de 1966.
 
 Concede à sociedade Navegação Fluvial Moura Andrade Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

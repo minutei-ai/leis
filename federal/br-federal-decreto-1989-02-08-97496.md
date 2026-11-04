@@ -1,5 +1,3 @@
-###DEC-097496-0-000-08-02-1989@@@
-
 DECRETO N° 97.496, DE 8 DE FEVEREIRO DE 1989
 
 Dispõe sobre a execução do Vigésimo Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período de 1962/80, subscrito entre o Brasil e a Argentina {Acordo n° 1).

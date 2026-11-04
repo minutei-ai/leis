@@ -1,5 +1,3 @@
-###DEC-078258-0-000-17-08-1976@@@
-
 DECRETO Nº 78.258, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Escola Superior de Administração de Negócios de São Bernardo do Campo, Estado de São Paulo.

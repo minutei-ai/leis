@@ -1,5 +1,3 @@
-###DEC-073501-0-000-17-01-1974@@@
-
 DECRETO Nº 73.501, DE 17 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 32.328, de 26 de fevereiro de 1953, através do qual foi concedido à Irmandade da Santa Casa de Misericórdia de São Paulo o direito de lavrar argila, no Município de Mogi das Cruzes, Estado de São Paulo.

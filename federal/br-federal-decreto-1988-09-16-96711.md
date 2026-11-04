@@ -1,5 +1,3 @@
-###DEC-096711-0-000-16-09-1988@@@
-
 DECRETO N° 96.711, DE 16 DE SETEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra neces­sária à implantação da estação transformadora de distribuição Santa Maria, da ELETROPAULO  \- Eletricidade de São Paulo S.A., no Município de São Paulo, Es­tado de São Paulo.

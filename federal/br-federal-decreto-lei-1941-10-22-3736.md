@@ -1,5 +1,3 @@
-###DEL-003736-0-000-22-10-1941@@@
-
 DECRETO-LEI N. 3.736 – DE 22 DE OUTUBRO DE 1941
 
 Estende aos navios dos Serviços de Navegação da Amazônia e de Administração do Porto do Pará os favores de que tratam os artigos 19, 20 e 21 da lei n. 420, de 10 de abril de 1937

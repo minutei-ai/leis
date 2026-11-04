@@ -1,5 +1,3 @@
-###DEC-093590-0-000-18-11-1986@@@
-
 DECRETO Nº 93.590, DE 18 DE NOVEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia do Planalto Central.

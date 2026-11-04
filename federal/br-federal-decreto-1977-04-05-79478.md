@@ -1,5 +1,3 @@
-###DEC-079478-0-000-05-04-1977@@@
-
 DECRETO Nº 79.478, DE 5 DE ABRIL DE 1977.
 
 Concede à Companhia Brasileira de Amianto o direito de lavrar crisotila no Município de São João do Piauí, Estado do Piauí.

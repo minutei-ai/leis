@@ -1,5 +1,3 @@
-###DEC-099662-0-000-31-10-1990@@@
-
 DECRETO N° 99.662, DE 31 DE OUTUBRO DE 1990
 
 Revoga o art. 7° do Decreto n° 79.391, de 14 de março de 1977.

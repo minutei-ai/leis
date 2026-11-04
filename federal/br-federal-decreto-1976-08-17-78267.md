@@ -1,5 +1,3 @@
-###DEC-078267-0-000-17-08-1976@@@
-
 DECRETO Nº 78.267, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Ciências da Computação, do Instituto de Matemática, Estatística e Ciências da Computação da Universidade Estadual de Campinas, com sede na Cidade de Campinas, Estado de São Paulo.

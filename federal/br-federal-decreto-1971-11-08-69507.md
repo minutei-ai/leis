@@ -1,5 +1,3 @@
-###DEC-069507-0-000-08-11-1971@@@
-
 DECRETO Nº 69.507 - DE 8 DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento da Escola de Educação Física e Desportos de Taubaté.

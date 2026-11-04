@@ -1,5 +1,3 @@
-###DEL-006124-0-000-18-12-1943@@@
-
 DECRETO‑LEI N. 6.124 – DE 18 DE DEZEMBRO DE 1943
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 2.200,00, para pagamento de salários

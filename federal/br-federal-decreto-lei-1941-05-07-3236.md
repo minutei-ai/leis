@@ -1,5 +1,3 @@
-###DEL-003236-0-000-07-05-1941@@@
-
 DECRETO-LEI N º 3.236 – DE 7 DE MAIO DE 1941
 
 Institue o regime legal das jazidas de petróleo e gases naturais, de rochas betuminosas e piro-betuminosas e dá outras providências.

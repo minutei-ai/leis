@@ -1,5 +1,3 @@
-###DEC-046468-0-000-20-07-1959@@@
-
 DECRETO Nº 46.468, DE 20 DE JULHO DE 1959.
 
 Autoriza Inez Balassa Silveira, a comprar pedras preciosas.

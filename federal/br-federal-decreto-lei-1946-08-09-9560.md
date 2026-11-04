@@ -1,5 +1,3 @@
-###DEL-009560-0-000-09-08-1946@@@
-
 dECRETO-LEI N. 9.56O – DE 9 DE AGÔSTO DE 1946
 
 Extingue a Comissão da Indústria de Material Elétrico (C.I.M.E.) e a Comissão Nacional de Combustíveis e Lubrificantes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057565-0-000-31-12-1965@@@
-
 DECRETO Nº 57.565, DE 31 DE DEZEMBRO DE 1965.
 
 Declara a Seção Brasileira da Comissão Mista Brasileiro-Uruguaia para o Desenvolvimento da Bacia Lagôa-Mirim, vinculada ao Ministério Extraordinário para a Coordenação dos Organismos Regionais.

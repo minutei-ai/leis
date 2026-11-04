@@ -1,5 +1,3 @@
-###DEL-008184-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.184 – DE 19 DE NOVEMBRO DE 1945
 
 Cria e extingue  cargos no Ministério da Guerra e dá outras providências

@@ -1,5 +1,3 @@
-###MPV-001594-0-000-21-10-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.594, DE 21 DE OUTUBRO DE 1997
 
 Altera procedimentos relativos ao Programa Nacional de Desestatização, de que trata a Lei nº 9.491, de 9 de setembro de 1997, e dá outras providências.

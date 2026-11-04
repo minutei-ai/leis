@@ -1,5 +1,3 @@
-###DEC-046144-0-000-05-06-1959@@@
-
 DECRETO Nº 46.144, DE 5 DE JUNHO DE 1959.
 
 Retifica o art. 1º do Decreto número 44.763, de 27 de outubro de 1958.

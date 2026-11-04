@@ -1,5 +1,3 @@
-###DEC-092089-0-000-09-12-1985@@@
-
 DEcretO Nº 92.089, de 09 de dezeMbrO de 1985
 
 Renova a concessão outorgada à FUNDAÇÃO PADRE PELÁGIO - RÁDIO DIFUSORA DE GOIÂNIA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Goiânia, Estado de Goiás.

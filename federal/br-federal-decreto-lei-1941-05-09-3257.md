@@ -1,5 +1,3 @@
-###DEL-003257-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.257 – DE 9 DE MAIO DE 1941
 
 Cria a Comissão de Estudos para a Construção da Rodovia Estado de São Paulo-Cuiabá

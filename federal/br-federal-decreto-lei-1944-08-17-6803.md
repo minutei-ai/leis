@@ -1,5 +1,3 @@
-###DEL-006803-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.803 – DE 17 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$.... 2.355.609,00, para pagamento de materiais fornecidos à Estrada de Ferro Goiaz.

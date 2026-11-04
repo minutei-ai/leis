@@ -1,5 +1,3 @@
-###DEC-003005-0-000-29-03-1999@@@
-
 DECRETO Nº 3.005, DE 29 DE MARÇO DE 1999.
 
 Acrescenta parágrafo ao art. 7º do Decreto nº 2.984, de 5 de março de 1999.

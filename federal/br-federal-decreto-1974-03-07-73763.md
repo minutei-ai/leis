@@ -1,5 +1,3 @@
-###DEC-073763-0-000-07-03-1974@@@
-
 decreto nº 73.763, de 7 de março de 1974.
 
 Concede permissão, em caráter permanente à empresa Braspérola Indústria e Comércio S. A., com sede no Estado da Guanabara para funcionar aos domingos, sua fábrica localizada em Campo Grande, Município de Cariacica, Estado do Espírito Santo.

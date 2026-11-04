@@ -1,5 +1,3 @@
-###DEC-093507-0-000-04-11-1986@@@
-
 DECRETO Nº 93.507, DE 4 DE NOVEMBRO DE 1986.
 
 Regulamenta o Decreto-lei nº 2.032, de 9 de junho de 1983, que dispõe sobre o ressarcimento, pelo Tesouro Nacional, de investimentos em projetos de irrigação, realizados nas regiões semi-áridas do Nordeste, revoga o Decreto nº 88.783, de 3 de outubro de 1983, que regulamentou o mesmo diploma legal, e dá outras providências.

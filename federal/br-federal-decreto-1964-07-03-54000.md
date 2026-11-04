@@ -1,5 +1,3 @@
-###DEC-054000-0-000-03-07-1964@@@
-
 decreto nº 54.000, de 3 de julho de 1964.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providências.

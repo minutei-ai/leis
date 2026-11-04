@@ -1,5 +1,3 @@
-###DEC-088219-0-000-06-04-1983@@@
-
 DECRETO Nº 88.219, de 06 de abril de 1983.
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas.

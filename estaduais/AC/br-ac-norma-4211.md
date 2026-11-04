@@ -2,7 +2,11 @@ Revogada pela Lei Complementar nº [463 , de 04 de Abril de 2024.](https://legis
 
 > **LEI Nº 3.684, DE 05 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a remuneração da função de juiz de paz no âmbito do Poder Judiciário do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a remuneração da função de juiz de paz no âmbito do Poder Judiciário do Estado do Acre e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

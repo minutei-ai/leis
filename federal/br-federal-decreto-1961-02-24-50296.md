@@ -1,5 +1,3 @@
-###DEC-050296-0-000-24-02-1961@@@
-
 DECRETO Nº 50.296, DE 24 DE FEVEREIRO DE 1961.
 
 Torna sem efeito os decretos que menciona.

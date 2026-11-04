@@ -1,5 +1,3 @@
-###DEL-007491-0-000-26-04-1945@@@
-
 DECRETO-LEI N. 7.491 – DE 26 DE ABRIL DE 1945
 
 Considera em disponibilidade no cargo de Ministro do Tribunal de Contas Francisco Thompson Flores

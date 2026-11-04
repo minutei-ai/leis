@@ -1,5 +1,3 @@
-###DEC-089079-0-000-30-11-1983@@@
-
 DecRETO nº 89.079, de 30 de novembro de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Angra dos Reis, Estado do Rio de Janeiro; Recife, Estado de Pernambuco; Matinhos, Estado do Paraná; Guarujá e São Vicente, Estado de São Paulo.

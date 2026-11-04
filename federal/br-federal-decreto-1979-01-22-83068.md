@@ -1,5 +1,3 @@
-###DEC-083068-0-000-22-01-1979@@@
-
 decreto nº 83 068, de 22 de Janeiro de 1979
 
 Aprova o "Regulamento para a Representação do Brasil na Junta Interamericana de Defesa" e dá outras providências.

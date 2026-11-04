@@ -1,5 +1,3 @@
-###DEC-075068-0-000-09-12-1974@@@
-
 DECRETO Nº 75.068, DE 9 DE dezembro de 1974.
 
 Dispõe sobre retificação de enquadramento de servidor do Ministério do Exército e dá outras providências.

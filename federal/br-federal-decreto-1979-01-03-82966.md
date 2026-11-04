@@ -1,5 +1,3 @@
-###DEC-082966-0-000-03-01-1979@@@
-
 Decreto nº 82.966, de 03 de janeiro de 1979
 
 Concede à Milton Rodrigues - Firma Individual, o direito de lavrar caulim no Município de São Roque, Estado de São Paulo.

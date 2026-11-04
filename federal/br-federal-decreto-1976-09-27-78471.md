@@ -1,5 +1,3 @@
-###DEC-078471-0-000-27-09-1976@@@
-
 decretO nº 78.471, de 27 de setembro de 1976.
 
 Altera o disposto no Decreto número 75.447-75, de 6 de março de 1975, que autorizou o funcionamento da Escola Superior de Tecnologia de Criciúma, com sede na cidade de Criciúma, Estado de Santa Catarina.

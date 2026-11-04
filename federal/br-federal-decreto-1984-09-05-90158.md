@@ -1,5 +1,3 @@
-###DEC-090158-0-000-05-09-1984@@@
-
 DECRETO nº 90.158, de 05 de setembro de 1984.
 
 Concede à Caraíba Metais S.A. - Indústria e Comércio autorização para proceder ao aumento do seu capital autorizado.

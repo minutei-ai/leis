@@ -1,5 +1,3 @@
-###DEC-045718-0-000-06-04-1959@@@
-
 DECRETO Nº 45.718, DE 06 DE abril DE 1959.
 
 Declara insubsistentes os Decretos números 38.000, 38.001 e 38.002, todos de 4 de outubro de 1955, e dá outras providências.

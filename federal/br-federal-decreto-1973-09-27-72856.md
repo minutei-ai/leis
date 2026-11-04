@@ -1,5 +1,3 @@
-###DEC-072856-0-000-27-09-1973@@@
-
 DECRETO Nº 72.856, DE 27 DE SETEMBRO DE 1973.
 
 Concede a Mineração Sam-Minas Limitada o direito de lavrar minério de ferro no Município de Itatiaiuçu, Estado de Minas Gerais.

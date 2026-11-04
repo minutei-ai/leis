@@ -1,5 +1,3 @@
-###DEC-060525-0-000-31-03-1967@@@
-
 decreto nº 60.525, de 31 de março de 1967.
 
 Transfere para Centrais Elétricas de Minas Gerais concessão para distribuir energia elétrica.

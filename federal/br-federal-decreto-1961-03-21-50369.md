@@ -1,5 +1,3 @@
-###DEC-050369-0-000-21-03-1961@@@
-
 DECRETO Nº 50.369, DE 21 DE MARÇO DE 1961.
 
 Reduz os vencimentos e vantagens do pessoal militar no exterior e dá outras providências.

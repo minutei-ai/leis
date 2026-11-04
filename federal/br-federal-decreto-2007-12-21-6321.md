@@ -1,5 +1,3 @@
-###DEC-006321-0-000-21-12-2007@@@
-
 DECRETO Nº 6.321, DE 21 DE DEZEMBRO DE 2007.
 
 Dispõe sobre ações relativas à prevenção, monitoramento e controle de desmatamento no Bioma Amazônia, bem como altera e acresce dispositivos ao Decreto no 3.179, de 21 de setembro de 1999, que dispõe sobre a especificação das sanções aplicáveis às condutas e atividades lesivas ao meio ambiente, e dá outras providências.
@@ -115,5 +113,3 @@ Brasília, 21 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 21.12.2007 - Edição extra.

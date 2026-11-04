@@ -1,5 +1,3 @@
-###MPV-002043-0-024-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.043-24, DE 23 DE novembro DE 2000.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

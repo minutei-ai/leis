@@ -1,5 +1,3 @@
-###DEC-060199-0-000-09-02-1967@@@
-
 DECRETO Nº 60.199, DE 9 DE FEVEREIRO DE 1967.
 
 Ratifica ato de extinção do convênio que criou o Instituto Regional de Pesquisas de Recursos Naturais (IRPEN) e dá outras providências.

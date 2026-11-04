@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210966)<br>
-
 # DECRETO N° 69.545, DE 22 DE MAIO DE 2025
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Asas de Um Sonho - Mérito Comandante Rolim Adolfo Amaro", instituída pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS, e dá providências correlatas._
@@ -18,7 +16,8 @@ Arthur Luis Pinho de Lima
 
 Regulamento da condecoração
 
-#### Seção I<br>
+#### Seção I
+
 Da honraria
 
 **Artigo 1° -** A Condecoração "Asas de Um Sonho - Mérito Comandante Rolim Adolfo Amaro", tem por objetivo agraciar personalidades civis ou militares, nacionais ou estrangeiras, que tenham prestado relevantes serviços em prol das causas defendidas pelo Instituto Histórico, Geográfico e Genealógico de Sorocaba - IHGGS e/ou pelo Museu Asas de um Sonho, em especial reconhecimento de seus méritos no apoio e na realização de iniciativas, bem como reconhecer a relevância de ações no campo da aviação nacional, as iniciativas empreendedoras impulsionadoras do sonho de voar e/ou os relevantes serviços prestados ao Estado de São Paulo e à população brasileira.
@@ -27,7 +26,8 @@ Da honraria
 
 **§ 2° -** A Condecoração "Asas de Um Sonho - Mérito Comandante Rolim Adolfo Amaro" poderá ser outorgada à título póstumo.
 
-#### Seção II<br>
+#### Seção II
+
 Das Insígnias
 
 **Artigo 2° -** A Condecoração "Asas de Um Sonho - Mérito Comandante Rolim Adolfo Amaro" é estruturada em 3 (três) modalidades, constituídas por conjuntos completos de colares, com o mesmo grau de precedência heráldica: "Mérito de Realização" destinado às personalidades em geral, apoiadores e parceiros de ambas as instituições; "Mérito de Aviação" destinado às personalidades da Força Aérea Brasileira - FAB, operadores de aviação das Forças Auxiliares ou da aviação civil, e suas equipes; e "Mérito Empreendedor" destinado às personalidades responsáveis por iniciativas e por empreendimentos de alta relevância relacionadas ao sonho de voar.
@@ -116,7 +116,8 @@ i) regulamentação; e
 
 j) decreto de oficialização pelo Governo do Estado de São Paulo.
 
-#### Seção III<br>
+#### Seção III
+
 Da Chancelaria e do Conselho de Outorgas
 
 **Artigo 3° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -133,7 +134,8 @@ Da Chancelaria e do Conselho de Outorgas
 
 **Parágrafo único -** O total de membros da Chancelaria ou Conselho de Outorgas, incluindo seu presidente, deve ser em número ímpar para evitar empates nas votações.
 
-#### Seção IV<br>
+#### Seção IV
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 5° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual da Ordem do Ipiranga.
@@ -164,7 +166,8 @@ V- Chanceler para os demais membros e suplentes.
 
 **Artigo 8° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que o Conselho de Outorga seja dissolvido, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no artigo 6°.
 
-#### Seção V<br>
+#### Seção V
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 9° -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas ao Conselho de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem, com prazo suficiente para que uma vez aprovada a indicação, o agraciado receba o convite confirmando o agraciamento com prazo de antecedência de pelo menos 3 (três) meses.
@@ -213,7 +216,8 @@ II - os condecorados, nacionais ou estrangeiros, que tenham praticado atos atent
 
 **§3° -** O descumprimento do dever de que trata o "caput" sujeitará o excluído às medidas judiciais cabíveis voltadas à busca e apreensão do diploma e das insígnias.
 
-#### Seção VI<br>
+#### Seção VI
+
 Do registro e das chancelas oficiais dos diplomas
 
 **Artigo 17 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -234,7 +238,8 @@ Do registro e das chancelas oficiais dos diplomas
 
 **§3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-#### Seção VII<br>
+#### Seção VII
+
 Das cerimônias de outorga
 
 **Artigo 20 -** A Chancelaria do IHGGS em conjunto com o Museu Asas de um Sonho estabelecerá uma data magna para que seja realizada uma cerimônia de outorga oficial anual, preferencialmente pública.
@@ -259,7 +264,8 @@ Das cerimônias de outorga
 
 **§3° -** Os membros da Chancelaria devem ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### Seção VIII<br>
+#### Seção VIII
+
 Das disposições finais
 
 **Artigo 23 -** É vedada a comercialização da honraria, sob pena de revogação do decreto de oficialização.

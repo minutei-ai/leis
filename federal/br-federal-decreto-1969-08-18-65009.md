@@ -1,5 +1,3 @@
-###DEC-065009-0-000-18-08-1969@@@
-
 DECRETO Nº 65.009 - DE 18 DE AGôSTO DE 1969.
 
 Retifica o art. 1º do Decreto nº 64.257, de 21 de março de 1969.

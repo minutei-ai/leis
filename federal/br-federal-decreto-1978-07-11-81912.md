@@ -1,5 +1,3 @@
-###DEC-081912-0-000-11-07-1978@@@
-
 Decreto nº 81.912, de 11 de julho de 1978.
 
 Concede à Guarapari Mineração Ltda. o direito de lavrar conchas calcárias, no Município de Guarapari, Estado do Espírito Santo.

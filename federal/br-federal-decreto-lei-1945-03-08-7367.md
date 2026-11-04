@@ -1,5 +1,3 @@
-###DEL-007367-0-000-08-03-1945@@@
-
 DECRETO-LEI N. 7.367 – DE 8 DE MARÇO DE 1945
 
 Altera a classe 6ª da Nova Tarifa das Alfândegas mandada executar pelo Decreto-Iei nº 2.878, de 18 de dezembro de 1940

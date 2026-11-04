@@ -1,6 +1,10 @@
 > **LEI Nº 3.279, DE 20 DE JULHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação e manutenção de Polos de Apoio Presencial de Educação à Distância, do Sistema Universidade Aberta do Brasil - UAB e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação e manutenção de Polos de Apoio Presencial de Educação à Distância, do Sistema Universidade Aberta do Brasil - UAB e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

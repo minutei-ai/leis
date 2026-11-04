@@ -1,5 +1,3 @@
-###DEC-047791-0-000-10-02-1960@@@
-
 DECRETO Nº 47.791, DE 10 DE fevereiro DE 1960.
 
 Dá nova redação ao art. 1.º do Decreto nº 40.304, de 6 de novembro de 1956, que autorizou a Prefeitura Municipal de Teresópolis a ampliar suas instalações elétricas.

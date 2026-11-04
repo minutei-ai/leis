@@ -1,5 +1,3 @@
-###DEC-066934-0-000-21-07-1970@@@
-
 DECRETO Nº 66.934, DE 21 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 10.991, de 2 de dezembro de 1942.

@@ -1,5 +1,3 @@
-###DEC-047935-0-000-15-03-1960@@@
-
 Decreto nº 47.935, de 15 de março de 1960.
 
 Autoriza a execução de obras de saneamento na cidade de Natal, Capital do Rio Grande do Norte.
@@ -31,8 +29,6 @@ Juscelino Kubitschek
 Sebastião Paes de Almeida
 
 Ernani do Amaral Peixoto
-
-###DEC-047935-0-000-15-03-1960@@@RET01+++
 
 DECRETO Nº 47.935, DE 15 DE MARÇO DE 1960.
 

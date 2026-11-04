@@ -1,5 +1,3 @@
-###DEL-006168-0-000-31-12-1943@@@
-
 DECRETO-LEI N. 6.168 – DE 31 DE DEZEMBRO DE 1943
 
 Suprime funções gratificadas no Quadro Permanente do Ministério da Fazenda, e dá outras providências

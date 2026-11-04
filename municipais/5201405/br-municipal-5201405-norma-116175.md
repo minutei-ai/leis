@@ -26,8 +26,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 07 de janeiro de 2020.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa cIVIL

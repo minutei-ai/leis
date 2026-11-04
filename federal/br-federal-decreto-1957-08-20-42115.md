@@ -1,14 +1,12 @@
-###DEC-042115-0-000-20-08-1957@@@
+**DECRETO Nº 42.115, DE 20 DE AGÔSTO DE 1957.**
 
-<strong>DECRETO Nº 42.115, DE 20 DE AGÔSTO DE 1957.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário Mensalista abaixo indicadas.
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário Mensalista abaixo indicadas.
 
 I - Uma função de auxiliar de Hangar, referência 18, ocupada por Lertz Pimentel, da Tabela da Base Aérea do Salvador para a Base Aérea do Galeão;
 
@@ -24,10 +22,10 @@ VI - uma função de auxiliar de Aérodromo, referência 22, ocupada por Wilson 
 
 VII - uma função vaga de Artífice, referência 18, da Tabela do Parque de Aeronáutica dos  Afonsos para a do Hospital de Aeronáutica dos Afonsos.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 20 de Agôsto de 1957; 136º da Independência; e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Melo

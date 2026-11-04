@@ -1,5 +1,3 @@
-###DEC-006349-0-000-10-01-2008@@@
-
 DECRETO Nº 6.349, DE 10 DE JANEIRO DE 2008.
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República da Armênia, celebrado em Brasília, em 7 de maio de 2002.
@@ -22,11 +20,7 @@ Promulga o Acordo de Cooperação Cultural entre o Governo da República Federat
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 11.1.2008
-
-ACORDO DE COOPERAÇÃO CULTURAL ENTRE O GOVERNO DA REPÚBLICA
+Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO CULTURAL ENTRE O GOVERNO DA REPÚBLICA
 
 FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ARMÊNIA 
 

@@ -1,5 +1,3 @@
-###DEL-007982-0-000-21-09-1945@@@
-
 DECRETO-LEI N. 7.982 – DE 21 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 600.000,00, à verba que especifica.

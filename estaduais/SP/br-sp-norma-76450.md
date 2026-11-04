@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=76450)
-
 # LEI COMPLEMENTAR Nº 1.037, DE 27 DE FEVEREIRO DE 2008
 
 ### _Dispõe sobre a criação e provimento de cargos no Tribunal de Justiça Militar do Estado de São Paulo_

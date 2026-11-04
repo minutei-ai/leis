@@ -1,5 +1,3 @@
-###DEL-002005-0-000-06-01-1983@@@
-
 # Decreto-lei nº 2.005, de 06 de janeiro de 1983
 
 Reajusta os valores de vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios.

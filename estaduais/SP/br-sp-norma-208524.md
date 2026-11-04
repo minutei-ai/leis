@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208524)<br>
-
 # DECRETO N° 67.949, DE 15 DE SETEMBRO DE 2023
 
 ### _Dá denominação à Divisão de Contrainteligência Policial do Departamento de Inteligência da Polícia Civil - DIPOL, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública._

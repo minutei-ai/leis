@@ -1,5 +1,3 @@
-###DEC-065198-0-000-19-09-1969@@@
-
 DECRETO Nº 65.198 - DE 19 DE SETEMBRO DE 1969.
 
 Aprova os Estatutos da Fundação Museu do Café.

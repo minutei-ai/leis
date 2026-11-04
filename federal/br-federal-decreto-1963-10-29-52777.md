@@ -1,5 +1,3 @@
-###DEC-052777-0-000-29-10-1963@@@
-
 DECRETO Nº 52.777, DE 29 DE OUTUBRO DE 1963.
 
 Autoriza a Mineração Ipiuna Limitada a pesquisar minério de ferro no Município de Jequé, Estado da Bahia.

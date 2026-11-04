@@ -1,5 +1,3 @@
-###DEC-078911-0-000-07-12-1976@@@
-
 Decreto Nº 78911, DE 7 DE DEZEMBRO DE 1976.
 
 Reduz alíquotas do Imposto sobe produto industrializados incidentes sobre produtos têxteis.

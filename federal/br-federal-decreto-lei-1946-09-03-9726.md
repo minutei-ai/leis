@@ -1,5 +1,3 @@
-###DEL-009726-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.726 – DE 3 DE SETEMBRO DE 1946
 
 Transfere cadeiras do extinto Curso de Arquitetura da Escola Nacional de Belas Artes para a Faculdade Nacional de Arquitetura da Universidade do Brasl e dá outras providências

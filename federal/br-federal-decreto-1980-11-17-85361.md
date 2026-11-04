@@ -1,5 +1,3 @@
-###DEC-085361-0-000-17-11-1980@@@
-
 decreto Nº 85.361, de 17 de novembro de 1980.
 
 Autoriza o funcionamento do curso de Letras, licenciatura de 1º grau, da Faculdade de Formação de Professores de Jacobina, Estado da Bahia.

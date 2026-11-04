@@ -1,5 +1,3 @@
-###DEC-048254-0-000-02-06-1960@@@
-
 DECRETO Nº 48.254, DE 2 DE JUNHO DE 1960.
 
 Renova a declaração de utilidade pública, a que se refere o Decreto número 34.756, de 7 de dezembro de 1953, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno situada no município de São João do Cariri, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEL-007427-0-000-31-03-1945@@@
-
 DECRETO LEI N. 7.427 – DE 31 DE MARÇO DE 1945
 
 Dispõe sôbre a jurisdição das Repartições consulares do Ministério das Relações Exteriores

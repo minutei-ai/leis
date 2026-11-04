@@ -1,5 +1,3 @@
-###DEC-070034-0-000-24-01-1972@@@
-
 DECRETO Nº 70.034, DE 24 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Hospital da Criança, com sede em Uberaba, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-059609-0-000-29-11-1966@@@
-
 DECRETO Nº 59.609, DE 29 DE NOVEMBRO DE 1966.
 
 Autoriza o Superintendente da SUDAM a praticar os atos de sua competência, necessário à imediata instalação, funcionamento e consecução dos objetivos da autarquia.

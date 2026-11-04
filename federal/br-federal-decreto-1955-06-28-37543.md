@@ -1,14 +1,12 @@
-###DEC-037543-0-000-28-06-1955@@@
+**DECRETO Nº 37.543, DE 28 DE JUNHO DE 1955.**
 
-<strong>DECRETO Nº 37.543, DE 28 DE JUNHO DE 1955.</strong>
+***Altera o Regulamento de Promoções para Oficiais da Armada.***
 
-<em><strong>Altera o Regulamento de Promoções para Oficiais da Armada.</strong></em>
+ **O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
- <strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o regulamentos de Promoções para Oficiais da Armada, aprovado pelo Decreto número 3.121, de 3 de outubro de 1938, para o fim de acrescentar um inciso ao § 3º do art. 38, a saber:
+**Art**. 1º Fica alterado o regulamentos de Promoções para Oficiais da Armada, aprovado pelo Decreto número 3.121, de 3 de outubro de 1938, para o fim de acrescentar um inciso ao § 3º do art. 38, a saber:
 
 “Art.38.................................................................................................................................................................................................................................................................................................
 
@@ -18,10 +16,10 @@ I - Quando em conseqüência aumento de quadros em média de vagas ocorridas no 
 
 ..........................................................................................................................................................”
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 de Junho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Edmundo Jordão Amorim do Valle

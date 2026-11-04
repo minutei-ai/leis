@@ -1,5 +1,3 @@
-###DEC-064587-0-000-27-05-1969@@@
-
 decreto nº 64.587, de 27 de maio de 1969.
 
 Declara de utilidade pública a Sociedade de Instrução e Beneficência com sede em São Paulo, Estado de São Paulo.

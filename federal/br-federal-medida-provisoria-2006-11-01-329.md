@@ -1,5 +1,3 @@
-###MPV-000329-0-000-01-11-2006@@@
-
 MEDIDA PROVISÓRIA No- 329, DE 1o- DE NOVEMBRO DE 2006
 
 Autoriza o Ministério da Defesa a efetuar contratação de pessoal, por prazo determinado, imprescindível ao controle do tráfego aéreo.

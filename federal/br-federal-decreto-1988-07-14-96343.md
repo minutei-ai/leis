@@ -1,5 +1,3 @@
-###DEC-096343-0-000-14-07-1988@@@
-
 DECRETO N° 96.343, DE 14 DE JULHO DE 1988
 
 Outorga concessão À TELEVISÃO OESTE BAIANO LTDA. para explorar serviço, de radiodifusão de sons e imagens (televisão), na Cidade de Barreiras, Estado da Bahia.

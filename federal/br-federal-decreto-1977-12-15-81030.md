@@ -1,5 +1,3 @@
-###DEC-081030-0-000-15-12-1977@@@
-
 Decreto n° 81.030, de 15 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Catanduva, Estado de São Paulo.

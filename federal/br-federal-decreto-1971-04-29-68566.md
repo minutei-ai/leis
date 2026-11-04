@@ -1,5 +1,3 @@
-###DEC-068566-0-000-29-04-1971@@@
-
 Decreto Nº 68.566 - DE 29 DE ABRIL DE 1971
 
 Declara de utilidade pública o Instituto Educacional Piracicabano, Estado de São Paulo

@@ -1,5 +1,3 @@
-###DEC-085428-0-000-27-11-1980@@@
-
 Decreto nº 85.428, de 27 de novembro de 1980
 
 Altera a denominação do Centro de Informações de Segurança da Aeronáutica e dá outras providências.

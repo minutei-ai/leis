@@ -1,7 +1,3 @@
-1
-
-###DEC-001918-0-000-28-05-1996@@@
-
 DECRETO Nº 1.918, DE 28 DE MAIO DE 1996.
 
 Remaneja cargos em comissão do Grupo Direção e Assessoramento Superiores - DAS e dá outras providências.

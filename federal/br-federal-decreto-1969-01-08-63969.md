@@ -1,5 +1,3 @@
-###DEC-063969-0-000-08-01-1969@@@
-
 DECRETO Nº 63.969, DE 8 DE JANEIRO DE 1969.
 
 Cria a Estação Rádio de Belém, e dá outras providências.

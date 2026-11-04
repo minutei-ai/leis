@@ -1,5 +1,3 @@
-###DEC-055499-0-000-11-01-1965@@@
-
 DECRETO Nº 55.499, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Joaquim Pereira da Rocha a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

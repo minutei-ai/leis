@@ -1,5 +1,3 @@
-###DEC-054087-0-000-04-08-1964@@@
-
 DECRETO Nº 54.087, DE 4 DE AGÔSTO DE 1964.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à Emprêsa “Companhia Industrial de Vidros - CIV”, de Recife, Estado de Pernambuco.
@@ -10,7 +8,33 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Companhia Industrial de Vidros - CIV” de Recife, Estado de Pernambuco.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item </span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina para fabricação automática de garrafas, marca “</span><span style="font-style:italic">Lynch</span><span>”, modêlo 10, acionada a ar com 6 moldes para peças de 5 a 25 onça pêso, sistema Blow e Blow, operação de cavidades simples, completa, inclusive tirador de 4 braços, um conjunto de seguradores Standard e outro idêntico adicional com equipamento de resfriamento interno e 10 válvulas de tempo, fabricação da “</span><span style="font-style:italic">Lynch Corporation Anderson</span><span> - Indiana - USA” ...............................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>33.500</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Larcha elétrica para decoração de garrafas (Conjunto de têmpera) medindo 88 pés de comprimento e 8 polegadas de largura, fabricação de </span><span style="font-style:italic">Stein e Atkinson</span><span> Ltda. - Inglaterra, incluindo equipamento de contrôle </span><span style="font-style:italic">Honeywell </span><span>.......................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>28.616</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ............................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>62.116</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1
+
+Máquina para fabricação automática de garrafas, marca “Lynch”, modêlo 10, acionada a ar com 6 moldes para peças de 5 a 25 onça pêso, sistema Blow e Blow, operação de cavidades simples, completa, inclusive tirador de 4 braços, um conjunto de seguradores Standard e outro idêntico adicional com equipamento de resfriamento interno e 10 válvulas de tempo, fabricação da “Lynch Corporation Anderson - Indiana - USA” ...............................................................................
+
+1
+
+33.500
+
+2
+
+Larcha elétrica para decoração de garrafas (Conjunto de têmpera) medindo 88 pés de comprimento e 8 polegadas de largura, fabricação de Stein e Atkinson Ltda. - Inglaterra, incluindo equipamento de contrôle Honeywell .......................................................................
+
+1
+
+28.616
+
+TOTAL ............................................................................
+
+62.116
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

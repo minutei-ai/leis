@@ -1,7 +1,3 @@
-1
-
-###DEC-001402-0-000-21-02-1995@@@
-
 DECRETO N° 1.402, DE 21 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução da Ata de Retificação do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre Brasil e Venezuela, de 28 de outubro de 1994.

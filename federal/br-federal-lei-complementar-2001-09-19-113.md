@@ -1,5 +1,3 @@
-###LCP-000113-0-000-19-09-2001@@@
-
 LEI COMPLEMENTAR Nº 113, DE 19 DE SETEMBRO DE 2001
 
  Autoriza o Poder Executivo a criar a Região Administrativa Integrada de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA e instituir o Programa Especial de Desenvolvimento do Pólo Petrolina/PE e Juazeiro/BA

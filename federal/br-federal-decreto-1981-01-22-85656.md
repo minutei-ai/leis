@@ -1,5 +1,3 @@
-###DEC-085656-0-000-22-01-1981@@@
-
 decreto nº 85.656, de 22 de janeiro de 1981.
 
 Autoriza o funcionamento do curso de Comunicação Social, da Faculdade de Comunicação Social Tiradentes, em Aracaju, Estado de Sergipe.

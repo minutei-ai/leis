@@ -1,5 +1,3 @@
-###DEC-061983-0-000-28-12-1967@@@
-
 Decreto nº 61.983, de 28 de dezembro de 1967.
 
 Transfere de sede o 3º Batalhão Rodoviário.

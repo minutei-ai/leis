@@ -1,5 +1,3 @@
-###DEC-085489-0-000-12-12-1980@@@
-
 Decreto nº 85.489, de 12 de dezembro de 1980.
 
 Assegura a garantia de preços mínimos para financiamento ou aquisição de suíno vivo.

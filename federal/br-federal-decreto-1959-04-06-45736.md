@@ -1,5 +1,3 @@
-###DEC-045736-0-000-06-04-1959@@@
-
 DECRETO Nº 45.736, DE 6 DE ABRIL DE 1959.
 
 Declara caduco o Decreto nº 29.757, de 12 de julho de 1951.

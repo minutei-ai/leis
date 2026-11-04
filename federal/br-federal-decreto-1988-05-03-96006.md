@@ -1,5 +1,3 @@
-###DEC-096006-0-000-03-05-1988@@@
-
 DECRETO Nº 96.006, DE 3 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO DIFUSORA CACIQUE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nova Andradina, Estado do Mato Grosso do Sul.

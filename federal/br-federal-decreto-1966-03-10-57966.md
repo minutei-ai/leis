@@ -1,5 +1,3 @@
-###DEC-057966-0-000-10-03-1966@@@
-
 decreto nº 57.966, de 10 de março de 1966.
 
 Concede à Hévea da Bahia S. A. - Agricultura, Indústria e Comércio autorização para funcionar como empresa de Mineração.

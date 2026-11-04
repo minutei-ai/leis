@@ -1,5 +1,3 @@
-###DEC-083226-0-000-01-03-1979@@@
-
 Decreto nº 83.226, de 1º de março de 1979.
 
 Regulamenta a Lei nº 6.554, de 21 de agosto de 1978, e dá outras providências.

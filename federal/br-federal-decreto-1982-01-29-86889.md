@@ -1,5 +1,3 @@
-###DEC-086889-0-000-29-01-1982@@@
-
 DeCRetO nº 86.889, de 29 de janeiRo de 1982.
 
 Dispõe sobre diretrizes aprovada pelo Presidente da República no âmbito da Comissão Nacional de Energia.

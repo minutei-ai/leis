@@ -1,5 +1,3 @@
-###MPV-002101-0-029-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.101-29, DE 23 DE FEVEREIRO DE 2001
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

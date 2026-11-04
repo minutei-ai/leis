@@ -1,5 +1,3 @@
-###DEL-006274-0-000-14-02-1944@@@
-
 DECRETO-LEI N. 6.274 – DE 14 DE FEVEREIRO DE 1944
 
 Altera disposições do Decreto-li n. 5.893, de 19 de outubre de 1943

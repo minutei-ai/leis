@@ -1,5 +1,3 @@
-###DEC-057474-0-000-20-12-1965@@@
-
 DECRETO Nº 57.474, DE 20 DE Dezembro DE 1965.
 
 Baixa Normas Técnicas Especiais para o combate à Malária e da outras providências.
@@ -127,8 +125,6 @@ Brasília, 20 de dezembro de 1965;144º da Independência e 77º da Republica.
 H. Castello Branco
 
 Raymundo Brito
-
-###DEC-057474-0-000-20-12-1965@@@RET01+++
 
 Decreto nº 57.474, de 20 de dezembro de 1965.
 

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209750)<br>
-
 # DECRETO N° 68.708, DE 23 DE JULHO DE 2024
 
 ### _Altera o Decreto n° 67.169, de 11 de outubro de 2022, que dispõe sobre a concessão de tratamento tributário diferenciado, nas condições que especifica, aos produtores de biodiesel - B100 para apuração e pagamento do ICMS incidente nas respectivas operações, realizadas com diferimento do imposto._

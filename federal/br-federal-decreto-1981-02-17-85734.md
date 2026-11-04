@@ -1,5 +1,3 @@
-###DEC-085734-0-000-17-02-1981@@@
-
 Decreto nº 85.734, de 17 de fevereiro de 1981.
 
 Autoriza o funcionamento dos cursos de Fisioterapia, Terapia Ocupacional e de Fonoaudiologia, da Faculdade de Reabilitação Tuiuti, em Curitiba, Estado do Paraná.

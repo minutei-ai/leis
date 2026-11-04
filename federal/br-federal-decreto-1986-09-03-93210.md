@@ -1,5 +1,3 @@
-###DEC-093210-0-000-03-09-1986@@@
-
 DECRETO Nº 93.210, DE 03 DE SETEMBRO DE 1986
 
 Dispõe sobre a execução das atividades de controle interno, relativas ao Programa Nacional de Irrigação e às entidades que lhe são vinculadas, e dá outras providências.

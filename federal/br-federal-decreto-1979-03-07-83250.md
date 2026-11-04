@@ -1,5 +1,3 @@
-###DEC-083250-0-000-07-03-1979@@@
-
 Decreto nº 83.250, de 07 de março de 1979
 
 Retifica a concessão de lavra outorgada à CALFIBRA S.A. - Mineração, Indústria e Comércio pelo Decreto nº 72.762, de 06 de setembro de 1973.

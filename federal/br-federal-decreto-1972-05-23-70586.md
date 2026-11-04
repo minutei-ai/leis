@@ -1,5 +1,3 @@
-###DEC-070586-0-000-23-05-1972@@@
-
 DECRETO Nº 70.586, DE 23 DE MAIO DE 1972.
 
 Concede a Mineração Corrêa Ltda., o direito de lavrar dolomito no município de Campos do Jordão, Estado de São Paulo.

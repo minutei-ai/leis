@@ -1,5 +1,3 @@
-###DEC-047627-0-000-15-01-1960@@@-
-
 Decreto nº 47.627, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Álvaro Maia Lello a pesquisar minério de manganês, no município de Senhor do Bonfim, Estado da Bahia.

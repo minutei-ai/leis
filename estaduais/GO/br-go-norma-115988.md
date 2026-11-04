@@ -12,7 +12,8 @@ Goiânia, 29 de junho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -25,12 +26,12 @@ CLASSES, NÍVEIS E SUBSÍDIOS DOS CARGOS DE AUXILIAR DE AUTÓPSIA, AUXILIAR DE L
 
 | **Cargos** | **Classes** | **Níveis** | **Subsídios (R$)** |
 | --- | --- | --- | --- |
-| AUXILIAR DE AUTÓPSIA<br>
-<br>
-AUXILIAR DE LABORATÓRIO CRIMINAL<br>
-<br>
-DESENHISTA CRIMINALÍSTICO<br>
-<br>
+| AUXILIAR DE AUTÓPSIA
+
+AUXILIAR DE LABORATÓRIO CRIMINAL
+
+DESENHISTA CRIMINALÍSTICO
+
 FOTÓGRAFO CRIMINALÍSTICO | Especial | 17.917,84 |
 | 1ª | III | 13.935,46 |
 | II | 13.271,87 |

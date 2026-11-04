@@ -1,5 +1,3 @@
-###DEC-065454-0-000-20-10-1969@@@
-
 DECRETO Nº 65.454 - DE 20 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública o Colégio Normal Senhora de Fátima, com sede em Santo Antônio do Monte, Estado de Minas Gerais.

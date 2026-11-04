@@ -1,5 +1,3 @@
-###DEC-052285-0-000-22-07-1963@@@
-
 DECRETO Nº 52.285, DE 22 DE JULHO DE 1963.
 
 Revoga o Decreto nº 1.897, de 18 de dezembro de 1962, que criou o Conselho Nacional do Algodão.

@@ -1,5 +1,3 @@
-###DEC-090515-0-000-16-11-1984@@@
-
 Decreto nº 90.515, de 16 de novembro de 1984
 
 Renova a concessão outorgada à RÁDIO GLOBO S/A., para explorar serviço de radiodifusão sonora em ondas curtas, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

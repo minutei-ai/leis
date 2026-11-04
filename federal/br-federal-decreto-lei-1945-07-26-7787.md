@@ -1,5 +1,3 @@
-###DEL-007787-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.787 – DE 26 DE JULHO DE 1945
 
 Altera disposições do Decreto-lei número 929, de 6 de dezembro de 1938, e dá outras providências.

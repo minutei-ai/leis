@@ -1,5 +1,3 @@
-###DEC-084344-0-000-27-12-1979@@@
-
 Decreto nº 84.344, de 27 de dezembro de 1979.
 
 Vincula a Superintendência Nacional do Abastecimento - SUNAB à Secretaria de Planejamento da Presidência da República.

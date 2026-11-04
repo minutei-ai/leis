@@ -1,5 +1,3 @@
-###DEC-081538-0-000-10-04-1978@@@
-
 DECRETO Nº 81 538, DE 10 DE ABRIL DE 1978.
 
 Concede à Violani & Cia. Ltda. o direito de lavrar sericita no Município de Bocaiuva do Sul, Estado do Paraná.

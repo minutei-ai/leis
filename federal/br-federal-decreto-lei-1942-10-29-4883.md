@@ -1,5 +1,3 @@
-###DEL-004883-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.883 – DE 29 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de réis 6.000:000$0, para pagamento a concessionários de portos

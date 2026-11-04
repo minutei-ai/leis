@@ -1,7 +1,3 @@
-1
-
-###DEC-000487-0-000-07-04-1992@@@
-
 DECRETO Nº 487, DE 7 DE ABRIL DE 1992
 
 Dá nova redação ao art. 1º do Decreto nº 96.759, de 22 de setembro de 1988, que dispõe sobre o Conselho Nacional das Zonas de Processamento de Exportação - CZPE e dá outras providências.

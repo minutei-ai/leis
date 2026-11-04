@@ -1,5 +1,3 @@
-###DEC-078523-0-000-30-09-1976@@@
-
 DECRETO Nº 78.523, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração de Capivari, mantida pela Campanha Nacional da Comunidade de Capivari, com sede na cidade de Capivari, Estado de São Paulo.

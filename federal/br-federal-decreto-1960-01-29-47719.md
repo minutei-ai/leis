@@ -1,5 +1,3 @@
-###DEC-047719-0-000-29-01-1960@@@
-
 DECRETO Nº 47.719, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Jacob Polity a pesquisar caulim e mica no município de Itapecerica da Serra, Estado de São Paulo.

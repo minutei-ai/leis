@@ -1,5 +1,3 @@
-###DEC-075419-0-000-26-02-1975@@@
-
 Decreto nº 75.419, de 26 de fevereiro de 1975.
 
 Extingue o Consulado honorário em Trier e cria Consulado honorário em Mainz na República Federal da Alemanha.

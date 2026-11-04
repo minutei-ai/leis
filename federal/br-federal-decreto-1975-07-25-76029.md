@@ -1,5 +1,3 @@
-###DEC-076029-0-000-25-07-1975@@@
-
 DECRETO Nº 76.029 - DE 25 DE JULHO DE 1975
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação "Campos Salles", mantida pela Associação Educativa "Campos Salles", com sede na cidade de São Paulo, Estado, de São Paulo.

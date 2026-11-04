@@ -1,5 +1,3 @@
-###DEC-002884-0-000-17-12-1998@@@
-
 DECRETO Nº 2.884, DE 17 DE DEZEMBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.958, 15 de julho de 1996.

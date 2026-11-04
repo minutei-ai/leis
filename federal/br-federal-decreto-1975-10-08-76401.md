@@ -1,5 +1,3 @@
-###DEC-076401-0-000-08-10-1975@@@
-
 DECRETO Nº 76.401, DE 8 DE OUTUBRO DE 1975
 
 Altera dispositivos do regulamento para o Tráfego Marítimo, aprovado pelo Decreto nº 5.798, de 11 de junho de 1940, e alterado pelos Decretos nºs 50.114, de 26 de janeiro de 1961, 50.330, de 10 de março de 1961, 2.080 de 17de janeiro de 1963, 52.108-A, de 11 de junho de 1963, 53.314, de 16 de dezembro de 1963, 60.313, de 7 de março de 1967, 62.179, de 25 de janeiro de 1968, 64.015, de 22 de janeiro de 1969, 64.548, de 20 de maio de 1969, 73.176, de 20 de novembro de 1973, e 74.105, de 24 de maio de 1974.

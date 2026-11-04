@@ -148,8 +148,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação, mas seus efeit
 
 Goiânia, 2 de junho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

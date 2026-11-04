@@ -1,5 +1,3 @@
-###DEC-057656-0-000-20-01-1966@@@
-
 decreto nº 57.656, de 20 de janeiro de 1966.
 
 Declara de utilidade publica, para fins de desapropriação, pelo Departamento Nacional de Estradas de Rodagem, área de terreno onde está situada a pedreira Ibitióca, no Município de Campos, estado do Rio de janeiro.

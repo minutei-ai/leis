@@ -1,5 +1,3 @@
-###DEC-088666-0-000-31-08-1983@@@
-
 DECRETO Nº 88.666, DE 31 de AGOSTO DE 1983
 
 Concede à ÁLCALIS DO RIO GRANDE DO NORTE S.A  \- ALCANORTE autorização para proceder a aumento do seu capital autorizado, bem como do capital social.

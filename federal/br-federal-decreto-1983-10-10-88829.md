@@ -1,5 +1,3 @@
-###DEC-088829-0-000-10-10-1983@@@
-
 Decreto nº 88.829, de 10 de outubro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO MARUMBY LTDA., para explorar serviço de radiodifusão sonora em onda curta, na cidade de Florianópolis, Estado de Santa Catarina.

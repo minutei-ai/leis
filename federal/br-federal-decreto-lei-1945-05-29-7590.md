@@ -1,5 +1,3 @@
-###DEL-007590-0-000-29-05-1945@@@
-
 DECRETO-LE N. 7.590 – DE 29 DE MAIO DE 1945
 
 Exclui do impôsto de renda as operações que especifica

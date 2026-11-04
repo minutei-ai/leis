@@ -1,5 +1,3 @@
-###DEL-000645-0-000-23-06-1969@@@
-
 decreto-lei nº 645, de 23 de junho de 1969
 
 Altera percentagens de incidências das cotas de previdência que indica

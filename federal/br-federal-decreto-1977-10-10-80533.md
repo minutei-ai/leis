@@ -1,5 +1,3 @@
-###DEC-080533-0-000-10-10-1977@@@
-
 DECRETO Nº 80.533, DE 10 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Ciências do Centro de Educação da Pontifícia Universidade Católica de São Paulo, Estado de São Paulo.

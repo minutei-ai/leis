@@ -1,5 +1,3 @@
-###DEC-048132-0-000-20-04-1960@@@
-
 DECRETO Nº 48.132, DE 20 DE ABRIL DE 1960.
 
 Outorga à Companhia Agrícola e Industrial do Iguaçu concessão para o aproveitamento de energia hidráulica do salto Santiago, existente no rio Iguaçu, entre os municípios de Laranjeiras do Sul e Clevelândia, no Estado do Paraná.

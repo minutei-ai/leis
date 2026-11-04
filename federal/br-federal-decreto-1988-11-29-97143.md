@@ -1,5 +1,3 @@
-###DEC-097143-0-000-29-11-1988@@@
-
 DECRETO Nº 97.143, DE 29 DE NOVEMBRO DE 1988
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, área de terra abrangida pelo Projeto de Irrigação "Tabuleiros de Russas", no Município de Russas, Estado do Ceará, para execução do Programa de Irrigação do Nordeste - PROINE e dá outras providências.

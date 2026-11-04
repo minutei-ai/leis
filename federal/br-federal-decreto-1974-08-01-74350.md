@@ -1,5 +1,3 @@
-###DEC-074350-0-000-01-08-1974@@@
-
 DECRETO Nº 74.350, DE 1 DE AGOSTO DE 1974.
 
 Concede reconhecimento aos cursos de Teatro, de Comunicação Social e de Biblioteconomia da Universidade de São Paulo.

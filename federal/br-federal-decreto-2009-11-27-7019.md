@@ -1,5 +1,3 @@
-###DEC-007019-0-000-27-11-2009@@@
-
 DECRETO Nº 7.019, DE 27 DE NOVEMBRO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel sobre Cooperação nos Campos da Saúde e de Medicamentos, firmado em Jerusalém, em 19 de junho de 2006.

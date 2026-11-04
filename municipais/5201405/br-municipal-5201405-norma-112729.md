@@ -48,5 +48,6 @@ Art. 4º Esta Lei será regulamentada, no que couber, pelo Poder Executivo.
 
 Art. 5º Esta lei entra em vigor na data de sua publicação.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

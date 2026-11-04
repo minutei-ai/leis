@@ -1,5 +1,3 @@
-###DEL-008190-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.190 – DE 20 DE NOVEMBRO DE 1945
 
 Restabelece cargo e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-065024-0-000-20-08-1969@@@
-
 DECRETO Nº 65.024 - DE 20 DE AGÔSTO DE 1969.
 
 Revalida, nos têrmos do art. 1º do Decreto nº 62.347, de 4 de março de 1968, a filiação da Federação Nacional dos Trabalhadores em Emprêsas Telefônicas à Internacional de Correios Telégrafos e Telefones (ICTT).

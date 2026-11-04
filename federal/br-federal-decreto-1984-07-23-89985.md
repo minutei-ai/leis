@@ -1,5 +1,3 @@
-###DEC-089985-0-000-23-07-1984@@@
-
 DECRETO Nº 89.985, de 23 de julho de 1984.
 
 Delega competência ao Ministro do Exército para fixar os limites quantitativos de antigüidade, os interstícios em cada posto e os tempos de serviço arregimentado, para fins de ingresso em Quadro de Acesso, a que se refere o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

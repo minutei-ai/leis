@@ -1,5 +1,3 @@
-###DEL-006606-0-000-20-06-1944@@@
-
 DECRETO-LEI N. 6.606 – DE 20 DE Junho DE 1944
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

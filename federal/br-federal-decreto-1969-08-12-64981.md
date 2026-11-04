@@ -1,5 +1,3 @@
-###DEC-064981-0-000-12-08-1969@@@
-
 DECRETO Nº 64.981 - DE 12 DE AGôSTO DE 1969.
 
 Cria Embaixada do Brasil em Trinidad-Tobago

@@ -1,5 +1,3 @@
-###DEC-053162-0-000-11-12-1963@@@
-
 DECRETO Nº 53.162, DE 11 DE DeZembro DE 1963.
 
 Autoriza a Companhia de Minas da Jangada S.A. a pesquisar minério de ferro nos município de Brumadinho e Betim, Estado de Minas Gerais.

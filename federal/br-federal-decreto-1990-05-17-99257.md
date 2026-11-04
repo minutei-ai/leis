@@ -1,7 +1,3 @@
-1
-
-###DEC-099257-0-000-17-05-1990@@@
-
 DECRETO Nº 99.257, DE 17 DE MAIO DE 1990
 
 Regulamenta o art. 80 e parágrafo único do Decreto‑Lei nº 2.300, de 21 de novembro de 1986, quanto a serviços de publicidade.

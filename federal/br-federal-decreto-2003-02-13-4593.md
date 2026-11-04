@@ -1,5 +1,3 @@
-###DEC-004593-0-000-13-02-2003@@@
-
 DECRETO Nº 4.593, DE 13 DE FEVEREIRO DE 2003.
 
 Suspende a exploração da espécie Mogno (Swietenia macrophylla King) no Território Nacional, pelo período de cento e cinqüenta dias, e dá outras providências.

@@ -1,4 +1,5 @@
-LEI Nº 21.403, DE 17 DE MAIO DE 2022<br>
+LEI Nº 21.403, DE 17 DE MAIO DE 2022
+
 \- [Revogada pela Lei nº 23.470](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110933), de 13-6-2025, art. 11.
 
 ~~Dispõe sobre a possibilidade de realização de interrogatório por sistema de videoconferência no âmbito das delegacias de polícia do Estado de Goiás, e dá outras providências.~~

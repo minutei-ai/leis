@@ -18,8 +18,10 @@ Art. 5º - Esta lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 21 dias do mês de setembro do ano de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FABIO PASSAGLIA<br>
+FABIO PASSAGLIA
+
 Chefe da Casa Civil

@@ -1,12 +1,10 @@
-###DEC-036777-0-000-13-01-1955@@@
+**DECRETO Nº 36.777, DE 13 DE JANEIRO DE 1955.**
 
-<strong>DECRETO Nº 36.777, DE 13 DE JANEIRO DE 1955.</strong>
+***Altera o § 2º do art. 83, do Regulamento para os serviços da dívida federal interna fundada e do meio circulante, baixado com o Decreto nº 35.913, de 28 de julho de 1954.***
 
-<em><strong>Altera o § 2º do art. 83, do Regulamento para os serviços da dívida federal interna fundada e do meio circulante, baixado com o Decreto nº 35.913, de 28 de julho de 1954.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. O § 2º do art. 83 do Regulamento para os serviços da dívida federal interna fundada e do meio circulante, baixado com o Decreto nº 35.913, de 28 de julho de 1954, passa a vigorar com a seguinte redação:
 
@@ -16,6 +14,6 @@ Esta fiscalização em nada reduzirá a integral responsabilidade da emprêsa fo
 
 Rio de Janeiro, 13 de janeiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eugênio Gudim

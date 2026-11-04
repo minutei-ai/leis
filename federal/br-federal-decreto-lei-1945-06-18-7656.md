@@ -1,5 +1,3 @@
-###DEL-007656-0-000-18-06-1945@@@
-
 DECRETO-LEI N. 7.656 – DE 18 DE JUNHO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito de Cr$ 145.000,00, à verba que especifica

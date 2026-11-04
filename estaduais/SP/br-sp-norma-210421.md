@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210421)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2024/compilacao-lei.complementar-1419-27.12.2024.html)
 
 # LEI COMPLEMENTAR N° 1.419, DE 27 DE DEZEMBRO DE 2024
@@ -13,7 +12,8 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1°-** A Controladoria Geral do Estado, criada pela [Lei Complementar n.° 1.361, de 21 de outubro de 2021](https://www.al.sp.gov.br/norma/200540), e reorganizada nos termos desta lei complementar, tem por finalidade a defesa do patrimônio público, o controle interno, por meio da auditoria interna governamental, a correição, a prevenção e o combate à corrupção, as atividades de ouvidoria, a promoção da integridade e o incremento da transparência, da participação e do controle social no âmbito da Administração Pública direta e indireta do Estado.
@@ -24,10 +24,12 @@ Disposições Preliminares
 
 **§ 2° -** As autoridades competentes para a condução dos procedimentos administrativos disciplinares regulados por lei especial poderão solicitar auxílio da Controladoria Geral do Estado sempre que necessário.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Das Atribuições e da Organização
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Das Atribuições
 
 **Artigo 3° -** Constituem atribuições da Controladoria Geral do Estado:
@@ -130,7 +132,8 @@ II - assessorar o Controlador Geral do Estado no desempenho de suas atribuiçõe
 
 III - auxiliar na coordenação, supervisão e orientação das atividades da Controladoria Geraldo Estado.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Organização
 
 **Artigo 7° -** Integram a estrutura básica da Controladoria Geral do Estado:
@@ -167,10 +170,12 @@ VI - Subsecretaria de Combate a Corrupção.
 
 **Artigo 12 -** Compõem o Sistema de Transparência a Controladoria Geral do Estado, como órgão central, e as Unidades de Gestão de Integridade - UGI e as Ouvidorias dos órgãos e entidades da Administração Pública, como unidades setoriais.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Quadro da Controladoria Geral do Estado e da Carreira de Auditor Estadual de Controle
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Quadro da Controladoria Geral do Estado
 
 **Artigo 13 -** O Quadro da Controladoria Geral do Estado, a que se refere o artigo 20, da [Lei Complementar n.° 1.361, de 21 de outubro de 2021](https://www.al.sp.gov.br/norma/200540), é composto por:
@@ -187,7 +192,8 @@ II - Subquadro de Funções-Atividades (SQF).
 
 **§ 4° -** As funções-atividades dos servidores a que se refere o § 3° deste artigo serão identificadas no decreto de transferência.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Carreira de Auditor Estadual de Controle
 
 **Artigo 14 -** Ficam criados, na Tabela III do Subquadro de Cargos Públicos (SQC III), do Quadro da Controladoria Geral do Estado, 350 (trezentos e cinquenta) cargos de Auditor Estadual de Controle, de provimento efetivo.
@@ -198,7 +204,8 @@ Da Carreira de Auditor Estadual de Controle
 
 **Artigo 16 -** O Auditor Estadual de Controle fica sujeito ao regime disposto na [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), e à Jornada Completa de Trabalho, caracterizada pela exigência da prestação de 40 (quarenta) horas semanais de trabalho.
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Das Atribuições do Auditor Estadual de Controle
 
 **Artigo 17 -** São atribuições privativas dos Auditores Estaduais de Controle a execução da Auditoria Interna Governamental no âmbito da Administração Pública direta.
@@ -225,7 +232,8 @@ V - de outras atividades necessárias ao cumprimento da missão institucional e 
 
 **Parágrafo único -** As atribuições dos Auditores Estaduais de Controle têm natureza de atividade privativa de Estado.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Do Ingresso na Carreira
 
 **Artigo 19 -** O ingresso na carreira de Auditor Estadual de Controle dar-se-á na Categoria 1 do Nível I e será precedido das seguintes etapas de caráter eliminatório:
@@ -248,7 +256,8 @@ IV - não possuir antecedentes criminais ou cíveis incompatíveis com o ingress
 
 V - atender a outros requisitos que vierem a ser fixados no edital de abertura de inscrições do concurso.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Do Estágio Probatório
 
 **Artigo 21 -** O estágio probatório corresponde ao período de 3 (três) anos de efetivo exercício que se segue ao início do exercício no cargo de Auditor Estadual de Controle.
@@ -275,7 +284,8 @@ IV - na hipótese da licença de que trata a [Lei Complementar n.° 367, de 14 d
 
 **§ 3° -** Fica vedado ao Auditor Estadual de Controle o exercício de cargos de provimento em comissão e funções de confiança durante o período de estágio probatório, exceto na Controladoria Geral do Estado.
 
-#### SUBSEÇÃO IV<br>
+#### SUBSEÇÃO IV
+
 Do Regime de Remuneração por Subsídio
 
 **Artigo 24 -** O Auditor Estadual de Controle será remunerado por subsídio, nos termos dos §§ 4° e 8° do artigo 39 da Constituição Federal e do parágrafo único do artigo 129 da Constituição do Estado, fixado em parcela única, nos termos do Anexo Único desta lei complementar, vedado o acréscimo de qualquer vantagem pecuniária, exceto:
@@ -294,7 +304,8 @@ VI - retribuição pelo exercício de atribuições de direção e chefia;
 
 VII - verbas de caráter indenizatório, relativas à ajuda de custo e diárias.
 
-#### SUBSEÇÃO V<br>
+#### SUBSEÇÃO V
+
 Da Evolução na Carreira
 
 **Artigo 25 -** A evolução na carreira dar-se-á por progressão funcional, nas categorias, e por promoção nos níveis, conforme regulamentação.
@@ -329,7 +340,8 @@ IV - ausência em virtude de consulta ou sessão de tratamento de saúde, nos te
 
 V - designação como substituto ou para responder por cargo vago de provimento em comissão na Controladoria Geral do Estado.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Disposições Finais
 
 **Artigo 31 -** Os dispositivos adiante relacionados passam a vigorar com a seguinte redação:
@@ -522,7 +534,8 @@ Arthur Luis Pinho de Lima
 
 Secretário-Chefe da Casa Civil
 
-#### ANEXO ÚNICO<br>
+#### ANEXO ÚNICO
+
 a que se refere o artigo 24 desta Lei Complementar
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">AUDITOR ESTADUAL DE CONTROLE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="4">Subsídio - R$</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Nível / Categoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17.850,00</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">18.385,50</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">18.937,07</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.505,18</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">20.090,33</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">20.693,04</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.313,83</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">21.953,25</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">22.611,85</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">23.290,20</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">23.988,91</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">24.708,57</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">25.449,83</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">26.213,33</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">26.999,73</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">27.809,72</td></tr></tbody></table>
+<table><tbody><tr><td>AUDITOR ESTADUAL DE CONTROLE</td><td colspan="4">Subsídio - R$</td></tr><tr><td>Nível / Categoria</td><td>1</td><td>2</td><td>3</td><td>4</td></tr><tr><td>I</td><td>17.850,00</td><td>18.385,50</td><td>18.937,07</td><td>19.505,18</td></tr><tr><td>II</td><td>20.090,33</td><td>20.693,04</td><td>21.313,83</td><td>21.953,25</td></tr><tr><td>III</td><td>22.611,85</td><td>23.290,20</td><td>23.988,91</td><td>24.708,57</td></tr><tr><td>IV</td><td>25.449,83</td><td>26.213,33</td><td>26.999,73</td><td>27.809,72</td></tr></tbody></table>

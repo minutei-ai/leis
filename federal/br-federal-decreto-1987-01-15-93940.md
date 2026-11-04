@@ -1,5 +1,3 @@
-###DEC-093940-0-000-15-01-1987@@@
-
 DECRETO Nº 93.940, DE 15 DE JANEIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Santa Cruz das Palmeiras, da CESP - Companhia Energética de São Paulo no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-005258-0-000-27-10-2004@@@
-
 DECRETO Nº 5.258 DE 27 DE OUTUBRO DE 2004
 
 Promulga o Tratado de Extradição entre o Governo da República Federativa do Brasil e o Governo da República Francesa, celebrado em Paris, em 28 de maio de 1996.
@@ -26,8 +24,10 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# TRATADO DE EXTRADIÇÃO ENTRE O GOVERNO DA<br>
-REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA<br>
+# TRATADO DE EXTRADIÇÃO ENTRE O GOVERNO DA
+
+REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA
+
 REPÚBLICA FRANCESA
 
         O Governo da República Federativa do Brasil
@@ -278,13 +278,18 @@ Disposições Finais
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-PELO GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL<br>
-Luiz Felipe Lampreia<br>
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
+Luiz Felipe Lampreia
+
 Ministros das Relações Exteriores
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-PELO GOVERNO DA REPÚBLICA FRANCESA<br>
-Hervé de Charette<br>
+PELO GOVERNO DA REPÚBLICA FRANCESA
+
+Hervé de Charette
+
 Ministro das Relações Exteriores

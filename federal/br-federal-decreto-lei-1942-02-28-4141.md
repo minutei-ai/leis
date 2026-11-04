@@ -1,5 +1,3 @@
-###DEL-004141-0-000-28-02-1942@@@
-
 DECRETO-LEI N. 4.141 – DE 28 DE FEVEREIro DE 1942
 
 Dispõe sobre o início das aulas nos estabelecimentos de ensino secundário no ano escolar de 1942

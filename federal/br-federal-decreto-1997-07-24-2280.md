@@ -1,5 +1,3 @@
-###DEC-002280-0-000-24-07-1997@@@
-
 DECRETO Nº 2.280, DE 24 DE JULHO DE 1997
 
 Dispõe sobre a extinção da Superintendência Nacional do Abastecimento - SUNAB, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057084-0-000-15-10-1965@@@
-
 DECRETO Nº 57.084, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza a Cia de Cimento Portland Rio Negro a lavrar calcário no município de Cantagalo, Estado do Rio de Janeiro.

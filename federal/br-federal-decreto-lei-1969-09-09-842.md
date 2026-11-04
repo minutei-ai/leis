@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/76dbde96-68bc-43b3-a6f1-9c8d3d172a61/texto#nowhere)
 
-###DEL-000842-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 842, DE 9 DE SETEMBRO DE 1969
 
 Altera a redação do artigo 47 da Lei nº 5.540, de 28 de novembro de 1968 e dá outra providência.

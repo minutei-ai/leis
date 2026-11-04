@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51238)
-
 # LEI Nº 11.760, DE 07 DE JULHO DE 2004
 
 ## (PL 600/2002 - Sidney Beraldo)

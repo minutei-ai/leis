@@ -1,5 +1,3 @@
-###DEC-068555-0-000-28-04-1971@@@
-
 decreto nº 68.555, de 28 de abril de 1971
 
 Regula o reconhecimento da isenção do impôsto de importação para os bens importados por emprêsas jornalísticas e editôras e dá outras providências.

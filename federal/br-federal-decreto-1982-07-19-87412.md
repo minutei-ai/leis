@@ -1,5 +1,3 @@
-###DEC-087412-0-000-19-07-1982@@@
-
 DECRETO Nº 87.412, DE 19 DE JULHO DE 1982.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5.821, de 10 de novembro de 1972.

@@ -1,5 +1,3 @@
-###DEC-056408-0-000-03-06-1965@@@
-
 DECRETO Nº 56.408, DE 3 DE JUNHO DE 1965.
 
 Altera o art. 1º do Decreto número 55.397, de 31 de dezembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-081500-0-000-30-03-1978@@@
-
 Decreto nº 81.500, de 30 de março de 1978.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Prótese Maxilo-Facial, da Federação das Escolas Superiores do ABC, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

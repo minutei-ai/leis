@@ -1,5 +1,3 @@
-###DEC-046861-0-000-16-09-1959@@@
-
 DECRETO Nº 46.861, DE 16 DE SETEMBRO DE 1959.
 
 Renova o Decreto nº 41.813, de 10 de junho de 1957.

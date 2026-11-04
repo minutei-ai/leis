@@ -1,5 +1,3 @@
-###DEC-048826-0-000-12-08-1960@@@
-
 DECRETO Nº 48.826, DE 12 DE AGÔSTO DE 1960.
 
 Transfere do Departamento de Obras Públicas para o Departamento de Águas e Energia do Estado de Alagoas as atribuições de órgão auxiliar do Conselho Nacional de Águas e Energia Elétrica, naquele Estado.

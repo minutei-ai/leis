@@ -1,5 +1,3 @@
-###DEC-002282-0-000-24-07-1997@@@
-
 DECRETO Nº 2.282, DE 24 DE JULHO DE 1997
 
 Dispõe sobre o remanejamento de cargos do Grupo-Direção e Assessoramento Superiores - DAS entre o Ministério da Administração Federal e Reforma do Estado e o Ministério da Fazenda.

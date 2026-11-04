@@ -6,7 +6,8 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA/GO APROVOU E EU, PR
 
 Art. 1º A transferência definitiva de áreas situadas nos Polos Empresariais/Industriais do Município de Aparecida de Goiânia seguirá os trâmites administrativos e requisitos previstos nesta Lei e legislações que criaram os respectivos Polos e regimentos.
 
-Parágrafo único. Fica o Poder Executivo autorizado a realizar a transferência definitiva de áreas públicas previstas no caput desse artigo a todas as empresas instaladas nos polos públicos e privados do município, desde que a área tenha sido cedida, concedida ou permitida até 26 de maio de 2022.<br>
+Parágrafo único. Fica o Poder Executivo autorizado a realizar a transferência definitiva de áreas públicas previstas no caput desse artigo a todas as empresas instaladas nos polos públicos e privados do município, desde que a área tenha sido cedida, concedida ou permitida até 26 de maio de 2022.
+
 (Redação acrescentada pela Lei Ordinária nº 3.816, de 12 de dezembro de 2024).
 
 Art. 2º Diante dos arranjos econômicos e empresariais, os imóveis poderão ser transferido para a empresa que detém o termo de Cessão/ Concessão, quanto para à empresa do mesmo grupo econômico, familiar, holding, controladora, controlada e coligada. Paragrafo Único. Admitir-se-á, transferência definitiva do imóvel à empresa que tenha recebido o Termo de Cessão/Concessão, edificado na área e que utilize para instalar empresa diversa, como nos casos de comodato e locação, desde que a empresa que funcione no local cumpra os requisitos para alienação.
@@ -25,8 +26,10 @@ Art. 8º Esta Lei entrará em vigor na data de sua publicação, revogando dispo
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 09 dias do mês de Julho do ano de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

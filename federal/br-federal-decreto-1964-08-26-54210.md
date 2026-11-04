@@ -1,5 +1,3 @@
-###DEC-054210-0-000-26-08-1964@@@
-
 DECRETO Nº 54.210, DE 26 DE AGÔSTO DE 1964.
 
 Dispõe sôbre a reformulação do sistema de assistência médica no país.

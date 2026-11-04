@@ -1,7 +1,3 @@
-1
-
-###DEC-099855-0-000-20-12-1990@@@
-
 # DECRETO N° 99.855, DE 20 DE DEZEMBRO DE 1990
 
 Aprova o Plano Geral de Convocação para o Serviço Militar Inicial nas Forças Armadas em 1992.

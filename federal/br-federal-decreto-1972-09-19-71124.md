@@ -1,5 +1,3 @@
-###DEC-071124-0-000-19-09-1972@@@
-
 DECRETO Nº 71.124, DE 19 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra rural, sem benfeitorias, sita no Município de Paracatu, Estado de Minas Gerais, destinada à construção de uma estação repetidora de microondas pela Companhia Telefônica do Estado de Minas Gerais.

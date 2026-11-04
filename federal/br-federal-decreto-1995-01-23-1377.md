@@ -1,5 +1,3 @@
-###DEC-001377-0-000-23-01-1995@@@
-
 DECRETO N° 1.377, DE 23 DE JANEIRO DE 1995
 
 Dispõe sobre a hospedagem, no Distrito Federal, dos titulares dos cargos que menciona, e dá outras providências.

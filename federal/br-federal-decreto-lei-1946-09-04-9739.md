@@ -1,5 +1,3 @@
-###DEL-009739-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.739 – DE 4 DE SETEMBRO DE 1946
 
 Cria o emblema e a carteira de identidade de juiz.

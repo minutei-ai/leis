@@ -1,5 +1,3 @@
-###DEC-064819-0-000-14-07-1969@@@
-
 DECRETO Nº 64.819 - DE 14 DE JULHO DE 1969.
 
 Decreta intervenção federal no Município de Nova Londrina, Estado do Paraná.

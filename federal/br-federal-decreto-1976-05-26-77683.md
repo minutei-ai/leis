@@ -1,5 +1,3 @@
-###DEC-077683-0-000-26-05-1976@@@
-
 DECRETO Nº 77.683, DE 26 DE MAIO DE 1976
 
 Concede à Mineração Cavaru Ltda. o direito de lavrar calcário no Município de Paraíba do Sul, Estado do Rio de Janeiro.

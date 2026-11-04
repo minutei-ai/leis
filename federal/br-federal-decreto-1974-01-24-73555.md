@@ -1,5 +1,3 @@
-###DEC-073555-0-000-24-01-1974@@@
-
 DECRETO Nº 73.555, DE 24 DE JANEIRO DE 1974.
 
 Autoriza a cessão sob a forma de utilização gratuita, do imóvel que menciona, situado em Manaus, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-062117-0-000-12-01-1968@@@
-
 DECRETO Nº 62.117, DE 12 DE JANEIRO DE 1968.
 
 Outorga à Madeireira Dal Pai S.A. concessão para o aproveitamento hidráulico de um trecho do rio Espinilho, no distrito de Dal Pai, município de Campos Novos, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-058480-0-000-23-05-1966@@@
-
 DECRETO Nº 58.480, DE 23 DE MAIO DE 1966.
 
 Altera o Regulamento do Serviço Geral de Expediente e Arquivo da Aeronáutica, aprovado pelo Decreto nº 1.976, de 2 de janeiro de 1963.

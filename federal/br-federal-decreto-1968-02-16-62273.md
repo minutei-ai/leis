@@ -1,5 +1,3 @@
-###DEC-062273-0-000-16-02-1968@@@
-
 DECRETO Nº 62.273, DE 16 DE FEVEREIRO DE 1968.
 
 Altera a redação do item V e parágrafo único do art. 2º do Regulamento que acompanha o Decreto nº 61.324, de 11 de setembro de 1967.

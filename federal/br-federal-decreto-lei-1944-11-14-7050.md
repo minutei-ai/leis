@@ -1,5 +1,3 @@
-###DEL-007050-0-000-14-11-1944@@@
-
 DECRETO-LEI N. 7.050 – DE 14 DE NOVEMBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 8.000,00 à verba que especifica

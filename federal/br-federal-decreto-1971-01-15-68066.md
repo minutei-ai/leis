@@ -1,5 +1,3 @@
-###DEC-068066-0-000-15-01-1971@@@
-
 DECRETO Nº 68.066, DE 15 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Sociedade de Manutenção da Casa da Criança de São Jerônimo, com sede em São Jerônimo, Estado do Rio Grande do Sul.

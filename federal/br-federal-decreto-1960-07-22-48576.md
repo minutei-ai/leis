@@ -1,5 +1,3 @@
-###DEC-048576-0-000-22-07-1960@@@
-
 DECRETO Nº 48.576, DE 22 DEJULHO DE 1960.
 
 Autoriza Porcelana Real S.A. a lavrar caulim no município e Estado de São Paulo.

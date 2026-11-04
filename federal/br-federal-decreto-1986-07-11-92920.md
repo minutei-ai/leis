@@ -1,5 +1,3 @@
-###DEC-092920-0-000-11-07-1986@@@
-
 DECRETO Nº 92.920, DE 11 DE JULHO DE 1986
 
 Declara de utilidade pública a instituição que menciona.

@@ -1,5 +1,3 @@
-###MPV-001750-0-046-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.750-46, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007151-0-000-14-12-1944@@@
-
 DECRETO-LEI  N.  7.151 – DE 14 DE DEZEMBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 1.400,00 à verba que especitica

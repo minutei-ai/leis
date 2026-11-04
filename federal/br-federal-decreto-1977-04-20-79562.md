@@ -1,5 +1,3 @@
-###DEC-079562-0-000-20-04-1977@@@
-
 DECRETO Nº 79.562, DE 20 ABRIL DE 1977.
 
 Concede reconhecimento aos cursos de Comunicação Visual, de Decoração  e de Educação Artística, da Faculdade de Artes, com sede na cidade de Uberlândia, Estado de Minas Gerais.

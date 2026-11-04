@@ -1,5 +1,3 @@
-###DEC-076797-0-000-15-12-1975@@@
-
 DECRETO Nº 76.797, DE 15 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Formação de Professores para as Disciplinas Especializadas da Faculdade de Formação de Professores de Disciplinas Especializadas de Presidente Prudente, com sede na cidade Presidente Prudente, Estado de São Paulo.

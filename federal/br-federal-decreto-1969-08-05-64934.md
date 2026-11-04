@@ -1,5 +1,3 @@
-###DEC-064934-0-000-05-08-1969@@@
-
 DECRETO Nº 64.934 - DE 5 DE AGÔSTO DE 1969.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde aprovada pelo Decreto número 49.345, de 26 de novembro de 1960, e dá outras providências.

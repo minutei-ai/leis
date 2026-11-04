@@ -62,18 +62,22 @@ Aparecida de Goiânia, 8 de outubro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO I
 
-Loteamento Parque das Pedras, Remanescente da Fazenda Santo Antônio<br>
+Loteamento Parque das Pedras, Remanescente da Fazenda Santo Antônio
+
 Município de Aparecia de Goiânia
 
-Proprietário: MRV Prime Incorporações<br>
+Proprietário: MRV Prime Incorporações
+
 Mato Grosso do Sul Ltda CNPJ Nº 34.353.654/0001-10
 
-Título de propriedade: matrícula nº 285.736,<br>
+Título de propriedade: matrícula nº 285.736,
+
 do Registro de Imóveis e 1º Tabelionato de Notas de Aparecida de Goiânia
 
 1\. Limites e Confrontações:
@@ -82,13 +86,125 @@ GLEBA "B-2", denominada Chácara San Damiano, situada na FAZENDA SANTO ANTÔNIO,
 
 2\. Discriminação das áreas do parcelamento:
 
-<table><tbody><tr><td style=" width:387px;  height:19px;    "><b>Descrição</b></td><td style=" width:113px;  height:19px;    "><b>Área (m²)</b></td><td style=" width:151px;  height:19px;    "><b>Percentual (%)</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Área total da gleba</td><td style=" width:113px;  height:1.0cm;    ">48.057,36</td><td style=" width:151px;  height:1.0cm;    ">100,00%</td></tr><tr><td style=" width:387px;  height:27px;    "><b>Discriminação</b></td><td style=" width:113px;  height:27px;    "><b>Áreas</b></td><td style=" width:151px;  height:27px;    "><b>%</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><b>Área parcelável</b></td><td style=" width:113px;  height:1.0cm;    "><b>48.057,36</b></td><td style=" width:151px;  height:1.0cm;    "><b>100,00</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><b>Área de Lotes (total)</b></td><td style=" width:113px;  height:1.0cm;    "><b>33.749,66</b></td><td style=" width:151px;  height:1.0cm;    "><b>70,23</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Quadra 01 – Lote 01</td><td style=" width:113px;  height:1.0cm;    ">16.437,34</td><td style=" width:151px;  height:1.0cm;    ">34,20</td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Quadra 02 – Lote 01</td><td style=" width:113px;  height:1.0cm;    ">17.312,32</td><td style=" width:151px;  height:1.0cm;    ">36,03</td></tr><tr><td style=" width:387px;  height:1.0cm;    "><b>Áreas Públicas Municipais (total)</b></td><td style=" width:113px;  height:1.0cm;    "><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>7.361,29</b></td><td style=" width:151px;  height:1.0cm;    "><b>15,32</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><b>Áreas institucionais (total)</b></td><td style=" width:113px;  height:1.0cm;    "><b>4.953,85</b></td><td style=" width:151px;  height:1.0cm;    "><b>10,31</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Área institucional – APM 01</td><td style=" width:113px;  height:1.0cm;    ">1.880,80</td><td style=" width:151px;  height:1.0cm;    ">3,91</td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Área institucional – APM 03</td><td style=" width:113px;  height:1.0cm;    ">3.073,05</td><td style=" width:151px;  height:1.0cm;    ">6,40</td></tr><tr><td style=" width:387px;  height:1.0cm;    "><b>Áreas verdes (total)</b></td><td style=" width:113px;  height:1.0cm;    "><b>2.407,44</b></td><td style=" width:151px;  height:1.0cm;    "><b>5,01</b></td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Área verde – APM 02</td><td style=" width:113px;  height:1.0cm;    ">1.203,72</td><td style=" width:151px;  height:1.0cm;    ">2,505</td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Área verde – APM 04</td><td style=" width:113px;  height:1.0cm;    ">1.203,72</td><td style=" width:151px;  height:1.0cm;    ">2,505</td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Vias de Pedestre</td><td style=" width:113px;  height:1.0cm;   ">1.443,98</td><td style=" width:151px;  height:1.0cm;    ">3,00</td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Via de Pedestre 01</td><td style=" width:113px;  height:1.0cm;    ">630,72</td><td style=" width:151px;  height:1.0cm;    ">1,31</td></tr><tr><td style=" width:387px;  height:1.0cm;   ">Via de Pedestre 02</td><td style=" width:113px;  height:1.0cm;    ">813,26</td><td style=" width:151px;  height:1.0cm;    ">1,69</td></tr><tr><td style=" width:387px;  height:1.0cm;    ">Vias de Circulação</td><td style=" width:113px;  height:1.0cm;    ">5.502,43</td><td style=" width:151px;  height:1.0cm;    ">11,45</td></tr><tr><td style=" width:387px;  height:1.0cm;    "><b>Sistema viário (Vias de circulação + Vias de Ped.)</b></td><td style=" width:113px;  height:1.0cm;   "><b>6.946,41</b></td><td style=" width:151px;  height:1.0cm;    "><b>14,45</b></td></tr></tbody></table>
+**Descrição**
+
+**Área (m²)**
+
+**Percentual (%)**
+
+Área total da gleba
+
+48.057,36
+
+100,00%
+
+**Discriminação**
+
+**Áreas**
+
+**%**
+
+**Área parcelável**
+
+**48.057,36**
+
+**100,00**
+
+**Área de Lotes (total)**
+
+**33.749,66**
+
+**70,23**
+
+Quadra 01 – Lote 01
+
+16.437,34
+
+34,20
+
+Quadra 02 – Lote 01
+
+17.312,32
+
+36,03
+
+**Áreas Públicas Municipais (total)**
+
+**      7.361,29**
+
+**15,32**
+
+**Áreas institucionais (total)**
+
+**4.953,85**
+
+**10,31**
+
+Área institucional – APM 01
+
+1.880,80
+
+3,91
+
+Área institucional – APM 03
+
+3.073,05
+
+6,40
+
+**Áreas verdes (total)**
+
+**2.407,44**
+
+**5,01**
+
+Área verde – APM 02
+
+1.203,72
+
+2,505
+
+Área verde – APM 04
+
+1.203,72
+
+2,505
+
+Vias de Pedestre
+
+1.443,98
+
+3,00
+
+Via de Pedestre 01
+
+630,72
+
+1,31
+
+Via de Pedestre 02
+
+813,26
+
+1,69
+
+Vias de Circulação
+
+5.502,43
+
+11,45
+
+**Sistema viário (Vias de circulação + Vias de Ped.)**
+
+**6.946,41**
+
+**14,45**
 
 3.    Composição e descrição das Quadras:
 
-<table><tbody><tr><td colspan="11" style=" width:699px;  height:26px;   "><b>LISTAGEM DOS LOTES - QUADRA&nbsp; 01</b></td><td style=" height:26px;    width:0px">&nbsp;</td></tr><tr><td rowspan="3" style=" width:84px;  height:18px;   "><b>Parcela</b></td><td colspan="9" style=" width:548px;  height:18px;   "><b>Dimensões Lineares e Confrontações dos Lotes (em metros)</b></td><td rowspan="3" style=" width:66px;  height:18px;   "><b>Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)</b></td><td style=" height:18px;    width:0px">&nbsp;</td></tr><tr><td rowspan="2" style=" width:76px;  height:37px;   "><b>Logradouro</b></td><td rowspan="2" style=" width:47px;  height:37px;   "><b>Frente</b></td><td rowspan="2" style=" width:47px;  height:37px;   "><b>Fundo</b></td><td rowspan="2" style=" width:66px;  height:37px;   "><b>Confr. Fundo</b></td><td rowspan="2" style=" width:47px;  height:37px;   "><b>Lado Direito</b></td><td rowspan="2" style=" width:76px;  height:37px;   "><b>Confr. Lado Direito</b></td><td rowspan="2" style=" width:57px;  height:37px;   "><b>Lado Esquerdo</b></td><td rowspan="2" style=" width:76px;  height:37px;   "><b>Confr. Lado Esquerdo</b></td><td rowspan="2" style=" width:57px;  height:37px;   "><b>Chanfro</b></td><td style=" height:37px;    width:0px">&nbsp;</td></tr><tr><td style=" height:37px;    width:0px">&nbsp;</td></tr><tr><td style=" width:84px;  height:76px;   ">Lote 01</td><td style=" width:76px;  height:76px;   ">Rua Madre Teresa de Calcutá</td><td style=" width:47px;  height:76px;   ">152,22</td><td style=" width:47px;  height:76px;   ">152,28</td><td style=" width:66px;  height:76px;   ">Rua das Pedras</td><td style=" width:47px;  height:76px;   ">86,97</td><td style=" width:76px;  height:76px;   ">Via de Pedestre 1</td><td style=" width:57px;  height:76px;   ">96,43</td><td style=" width:76px;  height:76px;   ">Rua Padre Roque Continillo</td><td style=" width:57px;  height:76px;   ">7,07+ 7,05 + 6,87+ 7,27</td><td style=" width:66px;  height:76px;   ">16.437,34</td><td style=" height:76px;    width:0px">&nbsp;</td></tr><tr><td style=" width:84px;  height:70px;   ">Área Institucional&nbsp;&nbsp; APM-01</td><td style=" width:76px;  height:70px;   ">Avenida Bela Vista</td><td style=" width:47px;  height:70px;   ">52,20</td><td style=" width:47px;  height:70px;   ">54,12</td><td style=" width:66px;  height:70px;   ">Via de Pedestre 1</td><td style=" width:47px;  height:70px;   ">32,77</td><td style=" width:76px;  height:70px;   ">Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02</td><td style=" width:57px;  height:70px;   ">22,82</td><td style=" width:76px;  height:70px;   ">Rua Madre Teresa de Calcutá</td><td style=" width:57px;  height:70px;   ">7,27+ 6,86</td><td style=" width:66px;  height:70px;   ">1.880,80</td><td style=" height:70px;    width:0px">&nbsp;</td></tr><tr><td style=" width:84px;  height:56px;   ">Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02</td><td style=" width:76px;  height:56px;   ">Avenida Bela Vista</td><td style=" width:47px;  height:56px;   ">32,50</td><td style=" width:47px;  height:56px;   ">32,50</td><td style=" width:66px;  height:56px;   ">Via de Pedestre1</td><td style=" width:47px;  height:56px;   ">22,77</td><td style=" width:76px;  height:56px;   ">Rua das Pedras</td><td style=" width:57px;  height:56px;   ">32,77</td><td style=" width:76px;  height:56px;   ">Área Institucional&nbsp;&nbsp; APM-01</td><td style=" width:57px;  height:56px;   ">7,07+ 7,07</td><td style=" width:66px;  height:56px;   ">1.203,72</td><td style=" height:56px;    width:0px">&nbsp;</td></tr><tr><td colspan="10" style=" width:633px;  height:27px;   "><b>Área Total</b></td><td style=" width:66px;  height:27px;   "><b>19.521,86</b></td><td style=" height:27px;    width:0px">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="11">**LISTAGEM DOS LOTES - QUADRA&nbsp; 01**</td><td>&nbsp;</td></tr><tr><td rowspan="3">**Parcela**</td><td colspan="9">**Dimensões Lineares e Confrontações dos Lotes (em metros)**</td><td rowspan="3">**Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)**</td><td>&nbsp;</td></tr><tr><td rowspan="2">**Logradouro**</td><td rowspan="2">**Frente**</td><td rowspan="2">**Fundo**</td><td rowspan="2">**Confr. Fundo**</td><td rowspan="2">**Lado Direito**</td><td rowspan="2">**Confr. Lado Direito**</td><td rowspan="2">**Lado Esquerdo**</td><td rowspan="2">**Confr. Lado Esquerdo**</td><td rowspan="2">**Chanfro**</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr><tr><td>Lote 01</td><td>Rua Madre Teresa de Calcutá</td><td>152,22</td><td>152,28</td><td>Rua das Pedras</td><td>86,97</td><td>Via de Pedestre 1</td><td>96,43</td><td>Rua Padre Roque Continillo</td><td>7,07+ 7,05 + 6,87+ 7,27</td><td>16.437,34</td><td>&nbsp;</td></tr><tr><td>Área Institucional&nbsp;&nbsp; APM-01</td><td>Avenida Bela Vista</td><td>52,20</td><td>54,12</td><td>Via de Pedestre 1</td><td>32,77</td><td>Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02</td><td>22,82</td><td>Rua Madre Teresa de Calcutá</td><td>7,27+ 6,86</td><td>1.880,80</td><td>&nbsp;</td></tr><tr><td>Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02</td><td>Avenida Bela Vista</td><td>32,50</td><td>32,50</td><td>Via de Pedestre1</td><td>22,77</td><td>Rua das Pedras</td><td>32,77</td><td>Área Institucional&nbsp;&nbsp; APM-01</td><td>7,07+ 7,07</td><td>1.203,72</td><td>&nbsp;</td></tr><tr><td colspan="10">**Área Total**</td><td>**19.521,86**</td><td>&nbsp;</td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="11" style=" width:699px;  height:20px;   "><b>LISTAGEM DOS LOTES - QUADRA&nbsp; 02</b></td><td style=" height:20px;    width:0px">&nbsp;</td></tr><tr><td rowspan="3" style=" width:84px;  height:18px;   "><b>Lote</b></td><td colspan="9" style=" width:548px;  height:18px;   "><b>Dimensões Lineares e Confrontações dos Lotes (em metros)</b></td><td style=" width:66px;  height:18px;   "><b>Área<br>(m²)</b></td><td style=" height:18px;    width:0px">&nbsp;</td></tr><tr><td rowspan="2" style=" width:76px;  height:30px;   "><b>Logradouro</b></td><td rowspan="2" style=" width:47px;  height:30px;   "><b>Frente</b></td><td rowspan="2" style=" width:47px;  height:30px;   "><b>Fundo</b></td><td rowspan="2" style=" width:66px;  height:30px;   "><b>Conf. Fundo</b></td><td rowspan="2" style=" width:47px;  height:30px;   "><b>Lado Direito</b></td><td rowspan="2" style=" width:76px;  height:30px;   "><b>Confr. Lado Direito</b></td><td rowspan="2" style=" width:57px;  height:30px;   "><b>Lado Esquerdo</b></td><td rowspan="2" style=" width:66px;  height:30px;   "><b>Confr. Lado Esquerdo</b></td><td rowspan="2" style=" width:66px;  height:30px;   "><b>Chanfro</b></td><td rowspan="2" style=" width:66px;  height:30px;   ">&nbsp;</td><td style=" height:30px;    width:0px">&nbsp;</td></tr><tr><td style=" height:30px;    width:0px">&nbsp;</td></tr><tr><td style=" width:84px;  height:59px;   ">Lote 01</td><td style=" width:76px;  height:59px;   ">Rua das Pedras</td><td style=" width:47px;  height:59px;   ">152,33</td><td style=" width:47px;  height:59px;   ">156,34</td><td style=" width:66px;  height:59px;   ">Rua Lince de Araújo</td><td style=" width:47px;  height:59px;   ">116,60</td><td style=" width:76px;  height:59px;   ">Via de Pedestre 2</td><td style=" width:57px;  height:59px;   ">76,20</td><td style=" width:66px;  height:59px;   ">Rua Padre Roque Continillo</td><td style=" width:66px;  height:59px;   ">7,07 + 6,18 + 9,38 + 7,08</td><td style=" width:66px;  height:59px;   ">17.312,32</td><td style=" height:59px;    width:0px">&nbsp;</td></tr><tr><td style=" width:84px;  height:44px;   ">Área Institucional&nbsp;&nbsp;&nbsp;&nbsp; APM-03</td><td style=" width:76px;  height:44px;   ">Avenida Bela Vista</td><td style=" width:47px;  height:44px;   ">93,50</td><td style=" width:47px;  height:44px;   ">85,55</td><td style=" width:66px;  height:44px;   ">Via de Pedestre 2</td><td style=" width:47px;  height:44px;   ">23,72</td><td style=" width:76px;  height:44px;   ">Rua Lince de Araújo</td><td style=" width:57px;  height:44px;   ">32,77</td><td style=" width:66px;  height:44px;   ">Área Verde APM-04</td><td style=" width:66px;  height:44px;   ">6,18 + 7,86</td><td style=" width:66px;  height:44px;   ">3.073,05</td><td style=" height:44px;    width:0px">&nbsp;</td></tr><tr><td style=" width:84px;  height:56px;   ">Área Verde APM-04</td><td style=" width:76px;  height:56px;   ">Avenida Bela Vista</td><td style=" width:47px;  height:56px;   ">32,50</td><td style=" width:47px;  height:56px;   ">32,50</td><td style=" width:66px;  height:56px;   ">Via de Pedestre 2</td><td style=" width:47px;  height:56px;   ">32,77</td><td style=" width:76px;  height:56px;   ">Área Institucional APM-03</td><td style=" width:57px;  height:56px;   ">22,77</td><td style=" width:66px;  height:56px;   ">Rua das Pedras</td><td style=" width:66px;  height:56px;   ">7,07 + 7,07</td><td style=" width:66px;  height:56px;   ">1.203,72</td><td style=" height:56px;    width:0px">&nbsp;</td></tr><tr><td colspan="10" style=" width:633px;  height:20px;   "><b>Área Total</b></td><td style=" width:66px;  height:20px;   "><b>21.589,09</b></td><td style=" height:20px;    width:0px">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="11">**LISTAGEM DOS LOTES - QUADRA&nbsp; 02**</td><td>&nbsp;</td></tr><tr><td rowspan="3">**Lote**</td><td colspan="9">**Dimensões Lineares e Confrontações dos Lotes (em metros)**</td><td>**Área (m²)**</td><td>&nbsp;</td></tr><tr><td rowspan="2">**Logradouro**</td><td rowspan="2">**Frente**</td><td rowspan="2">**Fundo**</td><td rowspan="2">**Conf. Fundo**</td><td rowspan="2">**Lado Direito**</td><td rowspan="2">**Confr. Lado Direito**</td><td rowspan="2">**Lado Esquerdo**</td><td rowspan="2">**Confr. Lado Esquerdo**</td><td rowspan="2">**Chanfro**</td><td rowspan="2">&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr><tr><td>Lote 01</td><td>Rua das Pedras</td><td>152,33</td><td>156,34</td><td>Rua Lince de Araújo</td><td>116,60</td><td>Via de Pedestre 2</td><td>76,20</td><td>Rua Padre Roque Continillo</td><td>7,07 + 6,18 + 9,38 + 7,08</td><td>17.312,32</td><td>&nbsp;</td></tr><tr><td>Área Institucional&nbsp;&nbsp;&nbsp;&nbsp; APM-03</td><td>Avenida Bela Vista</td><td>93,50</td><td>85,55</td><td>Via de Pedestre 2</td><td>23,72</td><td>Rua Lince de Araújo</td><td>32,77</td><td>Área Verde APM-04</td><td>6,18 + 7,86</td><td>3.073,05</td><td>&nbsp;</td></tr><tr><td>Área Verde APM-04</td><td>Avenida Bela Vista</td><td>32,50</td><td>32,50</td><td>Via de Pedestre 2</td><td>32,77</td><td>Área Institucional APM-03</td><td>22,77</td><td>Rua das Pedras</td><td>7,07 + 7,07</td><td>1.203,72</td><td>&nbsp;</td></tr><tr><td colspan="10">**Área Total**</td><td>**21.589,09**</td><td>&nbsp;</td></tr></tbody></table>
 
 ANEXO II
 
@@ -103,5 +219,3 @@ III - Rede Elétrica e Iluminação Pública, no valor de R$ 406.903,28 (quatroc
 IV - Sistema de Esgotamento Sanitário, no valor de R$ 437.640,10 (quatrocentos e trinta e sete mil seiscentos e quarenta reais e dez centavos).
 
 Total Geral: R$ 3.496.287,81 (três milhões quatrocentos e noventa e seis mil duzentos e oitenta e sete reais e oitenta e um centavos).
-
-<br>

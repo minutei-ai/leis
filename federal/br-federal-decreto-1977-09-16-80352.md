@@ -1,5 +1,3 @@
-###DEC-080352-0-000-16-09-1977@@@
-
 DECRETO Nº 80.352, DE 16 SETEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Física, Ciências Contábeis e de Administração, da Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

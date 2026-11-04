@@ -1,5 +1,3 @@
-###DEC-000437-0-000-28-01-1992@@@
-
 DECRETO N° 437 DE 28 DE JANEIRO DE 1992
 
 Institui regras específicas para aplicação de recursos do Fundo de Desenvolvimento Social - FDS em programas de abastecimento de água destinado a atender comunidades de regiões afetadas pela seca nos Estados do Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe e Bahia.

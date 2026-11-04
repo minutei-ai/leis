@@ -1,5 +1,3 @@
-###DEL-006567-0-000-08-06-1944@@@
-
 DECRETO-LEI  N. 6.567 – DE 8 DE JUNHO DE 1944
 
 Cria a Comissão da Investimentos, e dá outra providências

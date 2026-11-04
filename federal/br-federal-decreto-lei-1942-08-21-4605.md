@@ -1,5 +1,3 @@
-###DEL-004605-0-000-21-08-1942@@@
-
 DECRETO-LEI N. 4.605 – DE 21 DE AGOSTO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de réis 30.763:200$0, para a Fábrica Nacional de Motores

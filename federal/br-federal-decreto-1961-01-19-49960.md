@@ -1,5 +1,3 @@
-###DEC-049960-0-000-19-01-1961@@@
-
 DECRETO Nº 49.960, DE 19 DE JANEIRO DE 1961.
 
 Revigora concessão outorgada à Sociedade da atribuição que lhe confere o art. 87, nº I, da Constituição, e tendo em vista o disposto no art. 5º, nº XII, da mesma constituição

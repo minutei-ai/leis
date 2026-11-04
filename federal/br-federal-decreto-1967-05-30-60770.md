@@ -1,5 +1,3 @@
-###DEC-060770-0-000-30-05-1967@@@
-
 DECRETO Nº 60.770, DE 30 DE MAIO DE 1967.
 
 Declara de utilidade pública a “Associação de Proteção a Maternidade e Infância “Sagrada Família”, com sede em Cachoeira do Sul, Estado do Rio Grande do Sul.

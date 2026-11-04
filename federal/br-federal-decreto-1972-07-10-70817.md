@@ -1,5 +1,3 @@
-###DEC-070817-0-000-10-07-1972@@@
-
 DECRETO Nº 70.817, DE 10 DE JULHO DE 1972.
 
 Extingue cargos no Quadro de Pessoal do Ministério da Justiça.

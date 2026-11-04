@@ -1,5 +1,3 @@
-###DEC-074490-0-000-02-09-1974@@@
-
 DECRETO Nº 74.490, DE 2 DE SETEMBRO DE 1974.
 
 Revoga o Decreto nº 51.329 de 6 de setembro de 1961, que aprovou o Regulamento para o Serviço de Identificação do Exército e os Decretos que lhe introduziram alterações, e dá outras providências.

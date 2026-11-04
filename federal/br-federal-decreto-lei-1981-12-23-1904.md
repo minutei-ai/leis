@@ -1,7 +1,3 @@
-1
-
-###DEL-001904-0-000-23-12-1981@@@
-
 # Decreto-lei nº 1.904, de 23 de dezembro de 1981
 
 Altera a redação do artigo 1º do Decreto-lei nº 1.813, de 24 de novembro de 1980.

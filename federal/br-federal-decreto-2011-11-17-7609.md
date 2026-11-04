@@ -1,5 +1,3 @@
-###DEC-007609-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.609, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1972, de 17 de março de 2011, do Conselho de Segurança das Nações Unidas, que define as exceções ao regime de sanções previsto na Resolução nº 1844, de 20 de novembro de 2008, do Conselho de Segurança das Nações Unidas.

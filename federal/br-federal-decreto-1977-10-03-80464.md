@@ -1,5 +1,3 @@
-###DEC-080464-0-000-03-10-1977@@@
-
 decreto nº 80.464, de 3 de outubro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da substação Barão Geraldo da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

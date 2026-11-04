@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53796)
-
 # LEI Nº 11.958, DE 10 DE JUNHO DE 2005
 
 ## ( PL 325/2004 - Arnaldo Jardim)

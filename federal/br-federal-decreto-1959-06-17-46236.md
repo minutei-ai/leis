@@ -1,5 +1,3 @@
-###DEC-046236-0-000-17-06-1959@@@
-
 DECRETO Nº 46.236, DE 17 DE JUNHO DE 1959.
 
 Concede autorização a The Tokio Marine And Fire Insurance Company, Limited, com sede em Tokio, Japão, para funcionar na República, operando em seguros e resseguros dos ramos elementares.

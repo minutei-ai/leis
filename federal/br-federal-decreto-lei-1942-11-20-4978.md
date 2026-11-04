@@ -1,5 +1,3 @@
-###DEL-004978-0-000-20-11-1942@@@
-
 DECRETO-LEI N. 4.978 – DE 20 DE NOVEMBRO DE 1942
 
 Autoriza a concessão de isenção de tributos ao Club Naval e dá outras providências

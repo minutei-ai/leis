@@ -1,5 +1,3 @@
-###DEL-003209-0-000-26-04-1941@@@
-
 DECRETO-LEI N. 3.209 – DE 26 DE ABRIL DE 1941
 
 Prorroga o prazo para a naturalização de jornalistas estrangeiros

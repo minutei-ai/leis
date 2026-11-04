@@ -1,5 +1,3 @@
-###DEC-047125-0-000-27-10-1959@@@
-
 DECRETO Nº 47.125, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Jorge Nascimento a pesquisar cianita no município de Bom Jardim de Minas, Estado de Minas Gerais.

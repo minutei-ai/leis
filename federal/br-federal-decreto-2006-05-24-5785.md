@@ -1,5 +1,3 @@
-###DEC-005785-0-000-24-05-2006@@@
-
 DECRETO Nº 5.785, DE 24 DE MAIO DE 2006.
 
 Acresce inciso ao § 2º do art. 5º do Decreto no 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior - CAMEX, do Conselho de Governo.

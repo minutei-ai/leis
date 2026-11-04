@@ -1,5 +1,3 @@
-###DEC-056904-0-000-24-09-1965@@@
-
 DECRETO Nº 56.904, DE 24 DE SETEMBRO DE 1965.
 
 Constitui, junto ao Ministério da Agricultura, a Comissão Executiva das Comemorações da II Semana Mundial de Alimentação e Agricultura.

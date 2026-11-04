@@ -1,5 +1,3 @@
-###DEC-047750-0-000-03-02-1960@@@
-
 decreto nº 47.750, de 03 de fevereiro de 1960.
 
 Autoriza estrangeira a adquirir, em transferência de direitos à revigoração de aforamento, fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federal.

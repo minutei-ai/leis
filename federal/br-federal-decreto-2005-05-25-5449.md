@@ -1,5 +1,3 @@
-###DEC-005449-0-000-25-05-2005@@@
-
 DECRETO Nº 5.449, DE 25 DE MAIO DE 2005
 
  Altera os arts. 11 e 12 do Decreto nº 5.379, de 25 de fevereiro de 2005, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2005, e dá outras providências.

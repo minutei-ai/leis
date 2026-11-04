@@ -1,5 +1,3 @@
-###DEC-075491-0-000-18-03-1975@@@
-
 Decreto Nº 75.491, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Direito da Universidade Federal de Santa Maria, no Estado do Rio de Grande do Sul.

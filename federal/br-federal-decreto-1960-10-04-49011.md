@@ -1,5 +1,3 @@
-###DEC-049011-0-000-04-10-1960@@@
-
 DECRETO N.º 49.011, E 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Celso Santos a Pesquisar galena no município de Altamira, Estado do Pará.

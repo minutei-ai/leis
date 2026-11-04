@@ -1,5 +1,3 @@
-###MPV-001688-0-005-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.688-5, DE 26 DE OUTUBRO DE 1998
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

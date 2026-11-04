@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/15e108d5-fe46-445c-9fea-2def6ba3ea04/texto#nowhere)
 
-###DEL-000999-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 999, DE 21 DE OUTUBRO DE 1969
 
 Institui Taxa Rodoviária Única, incidente sôbre o registro e licenciamento de veículos e dá outras providências.

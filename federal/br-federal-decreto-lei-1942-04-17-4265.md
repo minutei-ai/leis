@@ -1,5 +1,3 @@
-###DEL-004265-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.265 – DE 17 DE ABRIL DE 1942
 
 Dispõe sobre o emprego da palavra “seda”, e dá outras providências

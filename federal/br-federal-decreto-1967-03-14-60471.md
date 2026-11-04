@@ -1,5 +1,3 @@
-###DEC-060471-0-000-14-03-1967@@@
-
 DECRETO Nº 60.471, DE 14 DE MARÇO DE 1967.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar quartzo e berilo no município de Antônio Dias, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-005798-0-000-07-06-2006@@@
-
 DECRETO Nº 5.798, DE 7 DE JUNHO DE 2006.
 
 Regulamenta os incentivos fiscais às atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica, de que tratam os arts. 17 a 26 da Lei no 11.196, de 21 de novembro de 2005.
@@ -163,5 +161,3 @@ Guido Mantega
 Luiz Fernando Furlan
 
 Sergio Machado Rezende
-
-Este texto não substitui o publicado no D.O.U. de 8.6.2006.

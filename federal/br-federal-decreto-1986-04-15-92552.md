@@ -1,5 +1,3 @@
-###DEC-092552-0-000-15-04-1986@@@
-
 DECRETO Nº 92.552, DE 15 DE ABRIL DE 1986
 
 Dispõe sobre o assessoramento ao Ministro de Estado na condução do processo de privatização de empresas sob controle acionário da União Federal.

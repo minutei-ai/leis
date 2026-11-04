@@ -1,5 +1,3 @@
-###LEI-000000-0-000-03-11-1830@@@
-
 LEI - DE 3 DE NOVEMBRO DE 1830
 
 Extingue a Provedoria de defuntos e ausentes.

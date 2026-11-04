@@ -1,5 +1,3 @@
-###DEC-049766-0-000-31-12-1960@@@
-
 DECRETO Nº 49.766, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da “Mundial” Companhia Nacional de Seguros Gerais.

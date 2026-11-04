@@ -1,5 +1,3 @@
-###MPV-001909-0-015-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.909-15, DE 29 DE JUNHO DE 1999.
 
 Altera as Leis nºs 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

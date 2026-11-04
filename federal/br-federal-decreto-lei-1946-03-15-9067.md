@@ -1,5 +1,3 @@
-###DEL-009067-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.067 – DE 15 DE MARÇO DE 1946
 
 Transfere para o Tesouro Nacional parte das emissões feitas para atenderem às operações da Carteira de Redescontos, mediante resgate de “Letras do Tesouro”.

@@ -1,5 +1,3 @@
-###DEL-003525-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.525 – DE 21 DE AGOSTO DE 1941
 
 Torna sem aplicação a importância de três mil contos de réis (3.000:000$0) em dotação orçamentária do Ministério da Educação e Saude e abre crédito especial.

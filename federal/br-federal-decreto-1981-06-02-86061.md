@@ -1,5 +1,3 @@
-###DEC-086061-0-000-02-06-1981@@@
-
 DECRETO Nº 86.061, DE 02 DE JUNHO DE 1981.
 
 Cria Estações Ecológicas, e dá outras providências.

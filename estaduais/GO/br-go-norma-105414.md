@@ -42,8 +42,6 @@ Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação, retro
 
 Goiânia, 28 de abril de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

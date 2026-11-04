@@ -1,5 +1,3 @@
-###DEC-045967-0-000-06-05-1959@@@
-
 DECRETO Nº 45.967, DE 6 DE MAIO DE 1959.
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional a empréstimo a ser realizado pela Companhia Vale do Rio Doce.

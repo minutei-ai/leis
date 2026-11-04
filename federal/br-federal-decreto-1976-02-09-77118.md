@@ -1,5 +1,3 @@
-###DEC-077118-0-000-09-02-1976@@@
-
 DECRETO Nº 77.118, DE 9 DE FEVEREIRO DE 1976.
 
 Reestrutura a Comissão de Coordenação das Atividades de Processamento Eletrônico (CAPRE) e lhe dá novas atribuições.

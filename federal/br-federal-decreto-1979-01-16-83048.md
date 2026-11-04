@@ -1,5 +1,3 @@
-###DEC-083048-0-000-16-01-1979@@@
-
 DECRETO Nº 83.048, DE 16 DE JANEIRO DE 1979
 
 Altera a localização de Organização Militar no Ministério do Exército e dá outras providências.

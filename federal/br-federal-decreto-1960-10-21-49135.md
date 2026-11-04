@@ -1,5 +1,3 @@
-###DEC-049135-0-000-21-10-1960@@@
-
 DECRETO Nº 49.135, DE 21 DE OUTUBRO DE 1960.
 
 Dispõe sôbre a transferência de função da Tabela Única de Extranumerário-mensalista do Departamento Administrativo do Serviço Público para idêntica Tabela do Ministério da Fazenda.

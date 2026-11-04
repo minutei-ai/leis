@@ -1,5 +1,3 @@
-###DEC-055839-0-000-15-03-1965@@@
-
 DECRETO Nº 55.839, DE 15 DE MARÇO DE 1965.
 
 Revoga dispositivos da “Regulamentação da Lei do Magistério da Marinha”, aprovada pelo Decreto número 52.721, de 21 de outubro de 1963.

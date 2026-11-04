@@ -1,5 +1,3 @@
-###DEC-005399-0-000-24-03-2005@@@
-
 DECRETO Nº 5.399 DE 24 DE MARÇO DE 2005
 
 Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.

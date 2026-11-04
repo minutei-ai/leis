@@ -1,5 +1,3 @@
-###DEL-003354-0-000-18-06-1941@@@
-
 DECRETO-LEI N. 3.354 – DE 18 DE JUNHO DE 1941
 
 Incorpora ao Instituto de Experimentação Agrícola, do Centro Nacional, de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura, a, Estação Experimental de União e o Campo de Sementes de Colégio

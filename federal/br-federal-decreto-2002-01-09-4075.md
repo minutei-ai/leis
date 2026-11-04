@@ -1,5 +1,3 @@
-###DEC-004075-0-000-09-01-2002@@@
-
 DECRETO Nº 4.075, DE 9 DE JANEIRO DE 2002.
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e das Funções Gratificadas - FG que menciona, e dá outras providências.

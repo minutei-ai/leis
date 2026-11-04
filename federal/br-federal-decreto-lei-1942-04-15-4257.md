@@ -1,5 +1,3 @@
-###DEL-004257-0-000-15-04-1942@@@
-
 DECRETO-LEI N. 4.257 – DE 15 DE ABRIL DE 1942
 
 Cria dois cargos, padrão H, de Zelador

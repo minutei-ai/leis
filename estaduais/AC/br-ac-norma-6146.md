@@ -2,7 +2,11 @@ Modificada pelas Leis nº [4.401, de 30 de Agosto de 2024;](https://legis.ac.gov
 
 > **LEI Nº 4.395, DE 19 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a compensação ambiental e a reposição florestal no Estado, seus fins e mecanismos de formulação e aplicação e altera a Lei nº 1.904, de 5 de junho de 2007, que institui o zoneamento ecológico-econômico do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a compensação ambiental e a reposição florestal no Estado, seus fins e mecanismos de formulação e aplicação e altera a Lei nº 1.904, de 5 de junho de 2007, que institui o zoneamento ecológico-econômico do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual, c/c o art. 15, § 1º, X, do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 
@@ -79,8 +83,6 @@ Modificada pelas Leis nº [4.401, de 30 de Agosto de 2024;](https://legis.ac.gov
 ~~**II -** todas as áreas no interior do imóvel receptor cobertas com vegetação nativa ou em regeneração sejam incluídas na RL; e~~ (Revogado pela Lei nº 4.507, de 20/12/2024) 
 
 ~~**III -** apresentação da documentação da propriedade, de acordo com o exigido nos itens referentes as alternativas de compensação.~~ (Revogado pela Lei nº 4.507, de 20/12/2024) 
-
-<br>
 
 **Parágrafo único.** A adoção de qualquer das alternativas de compensação de reserva legal deverá ser averbada na matrícula dos imóveis no registro de imóveis competente, na forma da lei. (Incluído pela Lei nº 4.507, de 20/12/2024) 
 
@@ -326,8 +328,6 @@ documento contendo informações da propriedade na formatação de projeto técn
 
 **§ 15.** A volumetria da matéria-prima florestal necessária à reposição florestal será estabelecida pelo IMAC, previamente à autorização de supressão de vegetação para uso alternativo do solo.
 
-<br>
-
 **~~Art. 32.~~** ~~Os CRF serão concedidos observando-se o plantio de, no mínimo, oito indivíduos para cada indivíduo explorado.~~
 
 **Art. 32.** Para fins de reposição florestal, deverá ser plantado um número mínimo oito indivíduos para cada indivíduo explorado, podendo-se aumentar a exigência desse quantitativo quando necessário para assegurar a volumetria a ser reposta, observadas as diretrizes estabelecidas neste artigo e em norma regulamentar expedida pela Secretaria de Estado do Meio Ambiente - SEMA. (Redação dada pela Lei nº 4.507, de 20/12/2024) 
@@ -343,8 +343,6 @@ documento contendo informações da propriedade na formatação de projeto técn
 **~~§ 3º~~** ~~O IMAC deverá informar previamente a volumetria, as espécies, a procedência e a quantidade de indivíduos classificados como “vulnerável” constantes na lista nacional das espécies da flora brasileira ameaçadas de extinção, objeto da supressão de vegetação para uso alternativo do solo, para fins do cálculo do número de indivíduos que deverão ser plantados para cada indivíduo explorado.~~
 
 **§ 3º** As espécies vulneráveis repostas não poderão ser suprimidas e deverão ter seu plantio priorizados nas proximidades de remanescentes florestais, visando promover a reprodução e a troca genética. (Redação dada pela Lei nº 4.507, de 20/12/2024) 
-
-<br>
 
 **§ 4º** A implantação e condução das espécies vulneráveis deverão considerar suas exigências edafoclimáticas. (Incluído pela Lei nº 4.507, de 20/12/2024) 
 

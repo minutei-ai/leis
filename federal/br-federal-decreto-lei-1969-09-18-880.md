@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/dfc7bddc-c680-47f1-9073-3e8b2884f940/texto#nowhere)
 
-###DEL-000880-0-000-18-09-1969@@@
-
 DECRETO-LEI Nº 880, DE 18 DE SETEMBRO DE 1969
 
 Dispõe sôbre a instituição do Fundo de Recuperação Econômica do Estado do Espírito Santo e dá outras providências.

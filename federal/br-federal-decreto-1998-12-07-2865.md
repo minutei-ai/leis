@@ -1,5 +1,3 @@
-###DEC-002865-0-000-07-12-1998@@@
-
 DECRETO Nº 2.865, DE 7 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a execução em território brasileiro da Resolução nº 232, do Comitê de Representantes da Associação Latino-Americana de Integração (ALADI).
@@ -22,7 +20,19 @@ FERNANDO HENRIQUE CARDOSO
 
 Luiz Felipe Lampreia
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:143.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">MODIFICAÇÃO DO ACORDO 91 DO COMITÊ DE REPRESENTANTES</span></p></td><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:171.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">ALADI/CR Resolução 232 8 de outubro de 1997</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:143.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+MODIFICAÇÃO DO ACORDO 91 DO COMITÊ DE REPRESENTANTES
+
+</td><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:171.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+ALADI/CR Resolução 232 8 de outubro de 1997
+
+</td></tr></tbody></table>
 
 RESOLUÇÃO 232
 

@@ -1,5 +1,3 @@
-###DEC-000439-0-000-03-02-1992@@@
-
 DECRETO Nº 439, DE 03 DE FEVEREIRO DE 1992
 
 Promulga o Acordo para o Uso Exclusivamente Pacífico da Energia Nuclear, entre o Governo da República Federativa do Brasil e o Governo da República Argentina

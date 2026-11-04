@@ -1,5 +1,3 @@
-###DEC-052508-0-000-27-09-1963@@@
-
 DECRETO Nº 52.508, DE 27 DE SETEMBRO DE 1963.
 
 Extingue a 2ª Coletoria Federal em Jacareí, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-074058-0-000-14-05-1974@@@
-
 DECRETO Nº 74.058, DE 14 DE MAIO DE 1974.
 
 Fixa o Fator de Custos de Atendimento Médico-Hospitalar por Militar das Forças Armadas e o Fator de Custos de Atendimento Médico-Hospitalar por Dependente de Militares das Forças Armadas.

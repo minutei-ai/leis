@@ -1,5 +1,3 @@
-###DEL-008958-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.958 – 28 DE JANEIRO DE 1946
 
 Altera o Art. 15 do Decreto nº 3.695, de 6 de Fevereiro de 1939.

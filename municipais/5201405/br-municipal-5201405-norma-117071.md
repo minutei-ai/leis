@@ -1,6 +1,5 @@
 LEI Nº 3.925, DE 2 DE SETEMBRO DE 2026
 
-<br>
 Dispõe sobre a alteração da nomenclatura da unidade escolar municipal Serra das Areias para Escola Municipal Quilombola Serra das Areias.
 
 A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA, nos termos do art. 38 da Lei Orgânica do Município, decreta e eu sanciono a seguinte Lei:
@@ -11,6 +10,6 @@ Art. 2º Revogadas as disposições em contrário, esta lei entrará em vigor na
 
 Aparecida de Goiânia, 2 de setembro de 2026.
 
-<br>
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

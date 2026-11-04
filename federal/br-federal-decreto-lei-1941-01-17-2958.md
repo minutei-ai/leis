@@ -1,5 +1,3 @@
-###DEL-002958-0-000-17-01-1941@@@
-
 DECRETO-LEI N. 2.958 – DE 17 DE JANEIRO DE 1941
 
 Cria as funções gratificadas de Secretários da Faculdade Nacional de Direito e Escola Nacional de Belas Artes, da Universidade do Brasil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003262-0-000-12-05-1941@@@
-
 DECRETO-LEI N. 3.262 – DE 12 DE MAIO DE 1944
 
 Autoriza a aquisição de um terreno em Santiago do Boqueirão, Estado do Rio Grande do Sul, para serventia do Q. G. da 1ª D. C.

@@ -1,5 +1,3 @@
-###DEC-007443-0-000-23-02-2011-PUB-01@@@
-
 DECRETO Nº 7.443, DE 23 DE FEVEREIRO DE 2011
 
 Regulamenta o art. 8º-E da Lei nº 11.530, de 24 de outubro de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI e revoga os arts. 9º a 16 do Decreto nº 6.490, de 19 de junho de 2008, que dispõem sobre o projeto Bolsa-Formação.

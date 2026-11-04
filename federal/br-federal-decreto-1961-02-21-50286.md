@@ -1,5 +1,3 @@
-###DEC-050286-0-000-21-02-1961@@@
-
 DECRETO Nº 50.286, de 21 de fevereiro de 1961.
 
 Estende às Autarquias dispositivo ao Decreto nº 50.278, de 16 de fevereiro de 1961.

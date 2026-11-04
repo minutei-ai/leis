@@ -1,7 +1,3 @@
-1
-
-###MPV-001506-0-000-20-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.506, de 20 de JUNHO DE 1996.
 
 Altera a legislação do imposto de renda e da contribuição social sobre o lucro.

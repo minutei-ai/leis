@@ -1,5 +1,3 @@
-###DEC-082635-0-000-14-11-1978@@@
-
 DECRETO Nº 82.635, DE 14 DE NOVEMBRO DE 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Campo Grande, Estado de Mato Grosso do Sul.

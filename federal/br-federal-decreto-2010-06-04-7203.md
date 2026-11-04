@@ -1,5 +1,3 @@
-###DEC-007203-0-000-04-06-2010@@@
-
 DECRETO Nº 7.203, DE 4 DE JUNHO DE 2010.
 
 Dispõe sobre a vedação do nepotismo no âmbito da administração pública federal

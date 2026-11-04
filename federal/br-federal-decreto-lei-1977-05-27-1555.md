@@ -1,5 +1,3 @@
-###DEL-001555-0-000-27-05-1977@@@
-
 # DECRETO-LEI Nº 1.555, DE 27 DE maio DE 1977
 
 Estabelece normas para a distribuição e aplicação dos recursos provenientes do adicional do Imposto Único sobre Combustíveis Líquidos e Gasosos.

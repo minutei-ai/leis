@@ -1,5 +1,3 @@
-###DEC-084719-0-000-20-05-1980@@@
-
 Decreto nº 84.719, de 20 de maio de 1980.
 
 Dá nova redação ao art. 3º do Decreto nº 74.557, de 12 de setembro de 1974, que cria a Comissão Interministerial para os Recursos do Mar (CIRM).

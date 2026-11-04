@@ -1,5 +1,3 @@
-###DEC-048459-0-000-04-07-1960@@@
-
 DECRETO Nº 48.459, DE 4 DE JULHO DE 1960.
 
 Institui a Comissão para os Assuntos da Associação Latino-Americana de Livre Comércio.

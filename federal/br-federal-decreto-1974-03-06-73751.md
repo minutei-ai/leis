@@ -1,5 +1,3 @@
-###DEC-073751-0-000-06-03-1974@@@
-
 DECRETO Nº 73.751, DE 6 DE MARÇO DE 1974.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S. A - ELETROBRAS.

@@ -1,5 +1,3 @@
-###DEC-096762-0-000-23-09-1988@@@
-
 DECRETO Nº 96.762, DE 23 DE SETEMBRO DE 1988
 
 Altera o Decreto nº 94.110, de 18 de março de 1987.

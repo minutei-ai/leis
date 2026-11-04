@@ -1,5 +1,3 @@
-###DEC-046942-0-000-30-09-1959@@@
-
 DECRETO Nº 46.942 DE 30 DE SETEMBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “UNIÃO BRASILEIRA” - COMPANHIA DE SEGUROS GERAIS.

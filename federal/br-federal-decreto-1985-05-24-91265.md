@@ -1,5 +1,3 @@
-###DEC-091265-0-000-24-05-1985@@@
-
 DECRETO Nº 91.265 de 24 de MAIO de 1985
 
 Dispõe sobre a criação do Programa de Recuperação das Áreas Atingidas pelas Enchentes na Região Nordeste.

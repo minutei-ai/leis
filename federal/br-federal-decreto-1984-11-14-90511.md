@@ -1,5 +1,3 @@
-###DEC-090511-0-000-14-11-1984@@@
-
 Decreto nº 90.511, de 14 de novembro de 1984
 
 Autoriza a Companhia Prada Indústria e Comércio, com sede no Município de Limeira, Estado de São Paulo, a utilizar o trabalho noturno da mulher maior de dezoito anos, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080099-0-000-08-08-1977@@@
-
 DECRETO Nº 80.099, DE 8 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S. A. - ELETROSUL no Estado de Santa Catarina.

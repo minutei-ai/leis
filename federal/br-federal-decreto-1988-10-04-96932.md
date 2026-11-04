@@ -1,5 +1,3 @@
-###DEC-096932-0-000-04-10-1988@@@
-
 DECRETO Nº 96.932, DE 4 DE OUTUBRO DE 1988
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas e Contábeis Tabajara, em São Paulo.

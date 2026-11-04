@@ -1,5 +1,3 @@
-###DEC-084043-0-000-01-10-1979@@@
-
 Decreto nº 84.043 de 1º de outubro de 1979
 
 Autoriza o aumento da potência diurna da Rádio Ubá Ltda., na cidade de Ivaiporã, Estado do Paraná.

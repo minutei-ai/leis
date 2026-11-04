@@ -1,5 +1,3 @@
-###DEC-090602-0-000-03-12-1984@@@
-
 Decreto nº 90.602, de 03 de dezembro de 1984
 
 Suprime representações do Estado-Maior das Forças Armadas em entidades da Administração Federal.

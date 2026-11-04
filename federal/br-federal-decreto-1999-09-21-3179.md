@@ -1,5 +1,3 @@
-###DEC-003179-0-000-21-09-1999@@@
-
 DECRETO Nº 3.179, DE 21 DE SETEMBRO DE 1999.
 
 Dispõe sobre a especificação das sanções aplicáveis às condutas e atividades lesivas ao meio ambiente, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-099588-0-000-11-10-1990@@@
-
 DECRETO N° 99.588, DE 11 DE OUTUBRO DE 1990
 
 Dispõe sobre as Exportações e Importações de açúcar, álcool, mel rico e mel residual.

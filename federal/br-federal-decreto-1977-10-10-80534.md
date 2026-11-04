@@ -1,5 +1,3 @@
-###DEC-080534-0-000-10-10-1977@@@
-
 DECRETO Nº 80.534, DE 10 DE OUTUBRO DE 1977.
 
 Autoriza a transformação do curso de Ciências Biológicas em curso de Ciências das Faculdades Unidas de Bagé, com sede na cidade de Bagé, Estado do Rio Grande do Sul.

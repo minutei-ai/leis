@@ -1,5 +1,3 @@
-###DEC-049037-0-000-05-10-1960@@@
-
 DECRETO Nº 49.037, DE 5 DE OUTUBRO DE 1960.
 
 Concede à Emprêsa de Minérios Independência Limitada - “EMIL” - autorização para funcionar como emprêsa de mineração.

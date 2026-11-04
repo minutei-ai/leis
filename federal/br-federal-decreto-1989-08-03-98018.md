@@ -1,7 +1,3 @@
-1
-
-###DEC-098018-0-000-03-08-1989@@@
-
 DECRETO N° 98.018, DE 3 DE AGOSTO DE 1989
 
 Concede à empresa Eastern Air Lines Inc. autorização para funcionar no Brasil.

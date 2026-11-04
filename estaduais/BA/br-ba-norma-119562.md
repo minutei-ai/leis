@@ -20,7 +20,8 @@ V - a política de aplicação das agências financeiras oficiais de fomento;
 
 VI - a organização e estrutura dos orçamentos.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 Art. 2º - Constituem objetivos básicos da administração pública estadual a serem contemplados na sua programação orçamentária anual:
@@ -43,10 +44,12 @@ Art. 3º - As metas e prioridades para o exercício financeiro de 1996 serão es
 
 Parágrafo único - A alocação de recursos nos orçamentos de 1996 far-se-á em consonância com as prioridades estabelecidas no Plano Plurianual.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS DIRETRIZES PARA A ELABORAÇÃO DOS ORÇAMENTOS DO ESTADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS DIRETRIZES GERAIS
 
 Art. 4º - No projeto de lei orçamentária anual e nos quadros que a acompanham, as receitas e despesas serão orçadas a preços vigentes em julho de 1995.
@@ -111,7 +114,8 @@ Art. 13 - Nos orçamentos fiscal e da seguridade social serão constituídas res
 
 Parágrafo único - As reservas de contingência de que tratam o "caput" deste artigo serão constituídas em montante correspondente a até 3% (três por cento) do valor global dos referidos orçamentos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DIRETRIZES DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
 Art. 14 - Os orçamentos fiscal e da seguridade social compreenderão a receita e a programação dos Poderes do Estado, seus fundos, órgãos da administração direta, autarquias e fundações instituídas e mantidas pelo Poder Público.
@@ -122,7 +126,8 @@ Art. 14 - Os orçamentos fiscal e da seguridade social compreenderão a receita 
 
 Art. 15 - O orçamento da seguridade social abrangerá os recursos e as programações dos órgãos da Administração Direta do Estado, seus fundos, autarquias e fundações que atuem nas áreas de saúde, previdência e assistência social.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS DIRETRIZES DO ORÇAMENTO DE INVESTIMENTOS DAS EMPRESAS
 
 Art. 16 - O Orçamento de Investimento das empresas em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto, será apresentado por cada empresa, discriminadas as fontes de financiamento e as despesas, segundo a classificação funcional-programática, expressa por categoria de programação em seu menor nível.
@@ -133,7 +138,8 @@ Art. 17 - Não se aplicam às empresas integrantes do orçamento de investimento
 
 Art. 18 - A programação dos investimentos à conta de recursos oriundos dos orçamentos fiscal e da seguridade social observará o valor e a destinação previstos nas dotações do orçamento original.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO ESTADO COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 19 - As dotações orçamentárias destinadas às despesas com pessoal e encargos sociais, em cada Poder, serão estimadas, para o exercício de 1996, com base nas despesas executadas no mês de julho de 1995, observados, além da legislação pertinente em vigor:
@@ -164,7 +170,8 @@ i) serviços judiciários.
 
 Art. 21 - As dotações para atendimento das despesas com a admissão de pessoal sob regime especial de contratação, facultada pela Constituição Federal em seu art. 37, inciso IX, serão alocadas em atividade específica, na Secretaria da Administração do Estado.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO ESTADO E INCREMENTO DA RECEITA
 
 Art. 22 - Em caso de necessidade, o Poder Executivo encaminhará à Assembléia Legislativa projeto de lei dispondo sobre alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -179,7 +186,8 @@ IV - geração de receita própria pelas entidades da administração indireta, 
 
 Parágrafo único - Os recursos eventualmente decorrentes das alterações previstas neste artigo serão incorporados aos orçamentos do Estado, mediante a abertura de créditos adicionais no decorrer do exercício, observada a legislação vigente.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA POLÍTICA DE APLICAÇÃO DE RECURSOS PELAS AGÊNCIAS FINANCEIRAS OFICIAIS DE FOMENTO
 
 Art. 23 - As agências financeiras estaduais, na concessão de financiamento, observarão, além de sua compatibilização com o Plano Plurianual, as seguintes políticas:
@@ -198,7 +206,8 @@ VI - o fomento a agroindústrias, agricultura irrigada, produção de insumos ag
 
 Parágrafo único - A concessão de empréstimos ou financiamentos pelas agências oficiais a Municípios, inclusive às suas autarquias, fundações, empresas e sociedades de economia mista e outras sob seu controle, sem prejuízo das demais normais regulamentares pertinentes, fica condicionada à comprovação a que se refere o [art. 8º desta Lei](https://www.legislabahia.ba.gov.br/documentos/lei-no-6864-de-03-de-julho-de-1995#LO_6_864_Art__8) e às normas do Banco Central.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 24 - A proposta orçamentária anual que o Poder Executivo encaminhará à Assembléia Legislativa, até 30 de setembro de 1995, será composta, além de mensagem e do respectivo projeto de lei, de:

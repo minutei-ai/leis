@@ -1,5 +1,3 @@
-###DEC-081793-0-000-15-06-1978@@@
-
 Decreto nº 81.793, de 15 de junho de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Benjamin Constant, Estado do Amazonas.
@@ -23,8 +21,6 @@ ERNESTO GEISEL
 Fernando Bethlem
 
 Mario Henrique Simonsen
-
-###DEC-081793-0-000-15-06-1978@@@REP01+++
 
 Decreto nº 81.793, de 15 de junho de 1978.
 

@@ -1,5 +1,3 @@
-###DEC-056857-0-000-13-09-1965@@@
-
 DECRETO Nº 56.857, DE 13 DE SETEMBRO DE 1965.
 
 Abre, pelo Ministério da Aeronáutica, o crédito que especifica.

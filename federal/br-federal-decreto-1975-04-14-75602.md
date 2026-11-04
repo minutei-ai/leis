@@ -1,5 +1,3 @@
-###DEC-075602-0-000-14-04-1975@@@
-
 DECRETO Nº 75.602, DE 14 DE ABRIL DE 1975
 
 Conceda a Minério Metalúrgicos do Nordeste S.A. o direito de lavrar minério de manganês no Município de Caetité , Estado da Bahia.

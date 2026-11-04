@@ -1,5 +1,3 @@
-###DEC-068331-0-000-09-03-1971@@@
-
 DECRETO Nº 68.331, de 9 de março de 1971.
 
 Atribui ao Departamento de Águas e Energia Elétrica do Estado de São Paulo, a responsabilidade pela realização de obras de regularização do rio Paraíba, no Estado de São Paulo, e dá outras providencias.

@@ -107,13 +107,24 @@ ANEXO VI DA LEI Nº 13.192, DE 06 DE NOVEMBRO DE 2014
 SUBSÍDIO DO CARGO DE AUDITOR DO TRIBUNAL DE CONTAS DO ESTADO DA BAHIA
 
 <table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:446.5pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:15.3pt"><td style="width:7.0cm;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt" valign="top" width="265"><p align="right" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:65.95pt;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:right"><span style="color:
-  black">CARGO</span></p></td><td style="width:248.05pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt" valign="top" width="331"><p class="Tabela-Texto" style="margin-left:3.4pt"><span style="color:black">SUBSÍDIO</span></p></td></tr><tr style="height:15.9pt"><td style="width:7.0cm;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.9pt" valign="top" width="265"><p align="right" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:66.3pt;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:right"><span style="color:
-  black">AUDITOR</span></p></td><td style="width:248.05pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt" valign="top" width="265">
+
+CARGO
+
+</td><td style="width:248.05pt;border:solid black 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.3pt" valign="top" width="331">
+
+SUBSÍDIO
+
+</td></tr><tr style="height:15.9pt"><td style="width:7.0cm;border:solid black 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:15.9pt" valign="top" width="265">
+
+AUDITOR
+
+</td><td style="width:248.05pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:15.9pt" valign="top" width="331"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt"><span style="color:black">R$32.979,86</span></p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt;height:15.9pt" valign="top" width="331">
+
+R$32.979,86
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-078381-0-000-08-09-1976@@@
-
 Decreto nº 78.381, de 8 de setembro de 1976.
 
 Exclui da exigência de apresentação dos Certificados de Quitação e de Regularidade de Situação do INPS e do FGTS as operações relativas à construção do Centros Sociais Urbanos.

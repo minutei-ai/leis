@@ -1,5 +1,3 @@
-###DEC-046104-0-000-21-05-1959@@@
-
 DECRETO Nº 46.104, DE 21 DE MAIO DE 1959.
 
 Outorga à Prefeitura Municipal de Santa Rita de Jacutinga concessão para o aproveitamento de energia hidráulica da cachoeira do Areal, existente no curso d’água denominado Bananal, distrito de Santa Rita de Jacutinga, município do mesmo nome, Estado de Minas Gerais.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=173312)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2014/compilacao-lei-15535-25.07.2014.html)
 
 # LEI Nº 15.535, DE 25 DE JULHO DE 2014
@@ -7,19 +6,27 @@
 
 ### _Transforma em Estância Turística o Município de Brotas_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** Fica transformado em Estância Turística o Município de Brotas.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 25 de julho de 2014.<br>
-GERALDO ALCKMIN<br>
-Cláudio Valverde<br>
-Secretário Adjunto respondendo pelo Expediente da Secretaria do Turismo<br>
-Saulo de Castro Abreu Filho<br>
-Secretário-Chefe da Casa Civil<br>
-Publicada na Assessoria Técnico-Legislativa, aos 25 de julho de 2014.~~
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** Fica transformado em Estância Turística o Município de Brotas.
+
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 25 de julho de 2014.
+
+GERALDO ALCKMIN
+
+Cláudio Valverde
+
+Secretário Adjunto respondendo pelo Expediente da Secretaria do Turismo
+
+Saulo de Castro Abreu Filho
+
+Secretário-Chefe da Casa Civil
+
+Publicada na Assessoria Técnico-Legislativa, aos 25 de julho de 2014.~~
 
 Revogada.
 

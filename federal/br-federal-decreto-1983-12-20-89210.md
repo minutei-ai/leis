@@ -1,5 +1,3 @@
-###DEC-089210-0-000-20-12-1983@@@
-
 Decreto nº 89.210, de 20 de dezembro de 1983.
 
 Reajusta os valores da Gratificação pela Representação de Gabinete e os de Indenização de Representação.

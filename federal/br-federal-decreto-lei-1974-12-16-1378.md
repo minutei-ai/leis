@@ -1,5 +1,3 @@
-###DEL-001378-0-000-16-12-1974@@@
-
 # DeCRetO-LEI Nº 1.378, DE 16 DE DEZEMBRO DE 1974
 
 Reajusta os vencimentos e salários dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003081-0-000-28-02-1941@@@
-
 DECRETO-LEI N. 3.081 – DE 28 DE FEVEREIRO DE 1941
 
 Cria o estandarte distintivo para o Regimento Sampaio

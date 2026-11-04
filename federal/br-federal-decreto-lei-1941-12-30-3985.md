@@ -1,5 +1,3 @@
-###DEL-003985-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.985 – DE 30 DE DEZEMBRO DE 1941
 
 Concede prioridade à Companhia Siderúrgica Nacional para aquisição e transporte de materiais destinados à construção e instalação da usina de Volta Redonda.

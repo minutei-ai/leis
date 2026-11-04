@@ -1,5 +1,3 @@
-###DEL-000710-0-000-28-07-1969@@@
-
 DECRETO-LEI Nº 710, DE 28 DE JULHO DE 1969
 
 Altera a legislação de previdência social.

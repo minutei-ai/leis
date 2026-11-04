@@ -1,5 +1,3 @@
-###DEL-004976-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.976 – DE 19 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de Cr$ 140.000,00 para auxílio extraordinário à Orquestra Sinfônica Brasileira

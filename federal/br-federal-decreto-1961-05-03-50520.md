@@ -1,5 +1,3 @@
-###DEC-050520-0-000-03-05-1961@@@
-
 DECRETO Nº 50.520, DE 3 DE MAIO DE 1961.
 
 Cria o Grupo Executivo da Indústria Naval (GEIN), diretamente subordinado à Presidência da República, e dá outras providência.

@@ -104,4 +104,4 @@ Brasília, 28 de novembro de 2019; 198º da Independência e 131º da República
 
 JAIR MESSIAS BOLSONARO
 
-Ricardo de Aquino Salles<br>
+Ricardo de Aquino Salles

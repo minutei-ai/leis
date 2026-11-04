@@ -1,5 +1,3 @@
-###DEC-053753-0-000-19-03-1964@@@
-
 decreto nº 53.753, de 19 de março de 1964.
 
 Transfere para Centrais Elétricas de Minas Gerais S.A. A concessão para distribuir energia elétrica.

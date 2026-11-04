@@ -1,5 +1,3 @@
-###DEC-053524-0-000-04-02-1964@@@
-
 Decreto nº 53.524, de 4 de Fevereiro de 1964.
 
 Cria o Consulado-Geral em Assunção.

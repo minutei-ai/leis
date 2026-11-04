@@ -1,5 +1,3 @@
-###DEC-048987-0-000-01-10-1960@@@
-
 DECRETO Nº 48.987, DE 1 DE OUTUBRO DE 1960.
 
 Concede à Itaminas - Comércio de Minérios S.A. autorização para continuar a funcionar como emprêsa de mineração.

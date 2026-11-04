@@ -1,5 +1,3 @@
-###DEC-096649-0-000-05-09-1988@@@
-
 DECRETO N° 96.649, DE 5 DE SETEMBRO DE 1988
 
 Renova a outorga da RÁDIO ESTADUAL DO PARANÁ (Governo do Estado do Paraná), e autoriza a transferência direta para a Fundação Rádio e Televisão do Paraná, para explorar serviço de radiodifusão sonora em onda média, na Cidade de Curitiba, Estado do Paraná.

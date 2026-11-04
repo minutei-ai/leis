@@ -1,5 +1,3 @@
-###DEL-005501-0-000-18-05-1943@@@
-
 DECRETO‑LEI N. 5.501 – DE 18 DE MAIO DE 1943
 
 Autoriza a Rede de Viação Cearense a averbar consignações em folha de pa­gamento de seus servidores em favor  de sociedades cooperativas de consumo

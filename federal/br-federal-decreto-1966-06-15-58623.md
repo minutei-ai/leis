@@ -1,5 +1,3 @@
-###DEC-058623-0-000-15-06-1966@@@
-
 DECRETO Nº 58.623, DE 15 DE JUNHO DE 1966.
 
 Transfere da Societé Cotonniére Belge Brésiliense para o Departamento de Águas e Energia do Estado de Pernambuco concessão para produzir e distribuir energia elétrica.

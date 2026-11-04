@@ -1,5 +1,3 @@
-###DEL-005261-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.261 – DE 18 DE FEVEREIRO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a isentar a Real e Benemérita Sociedade Potuguesa de Beneficência de 75% (setenta e cinco por cento) do pagamento do imposto predial, na forma que menciona.

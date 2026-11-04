@@ -1,5 +1,3 @@
-###DEL-002999-0-000-29-01-1941@@@
-
 DECRETO-LEI N. 2.999 – DE 29 DE JANEIRO DE 1941
 
 Cria, no Quadro Permanente do Ministério das Relações Exteriores, um quadro de Classificador do Arquivo Especial, padrão J, e dá outras providências.

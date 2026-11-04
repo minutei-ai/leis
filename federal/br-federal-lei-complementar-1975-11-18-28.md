@@ -1,7 +1,3 @@
-1
-
-###LCP-000028-0-000-18-11-1975@@@
-
 # LEI COMPLEMENTAR Nº 28, DE 18 DE NOVEMBRO DE 1975
 
 Modifica o art. 6º da Lei Complementar nº 1, de 9 de novembro de 1967.

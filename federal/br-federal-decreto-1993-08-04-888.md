@@ -1,7 +1,3 @@
-1
-
-###DEC-000888-0-000-04-08-1993@@@
-
 DECRETO N° 888, DE 4 DE AGOSTO DE 1993
 
 Revoga o art. 12 do Decreto no 69.450, de 1° de novembro de 1971.

@@ -1,5 +1,3 @@
-###DEC-074225-0-000-26-06-1974@@@
-
 DECRETO Nº 74.225, DE 26 DE JUNHO DE 1974.
 
 Concede autorização, em caráter permanente, à empresa Oxiteno S.A. - Indústria e Comércio, com sede em São Paulo, Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento que menciona.

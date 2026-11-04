@@ -1,5 +1,3 @@
-###DEC-000593-0-000-06-07-1992@@@
-
 DECRETO N° 593, DE 6 DE JULHO DE 1992
 
 Promulga o Convênio entre o Governo da República Federativa do Brasil e a Faculdade Latino-Americana de Ciências Sociais (FLACSO) para o Funcionamento da Sede Acadêmica da FLACSO no Brasil.

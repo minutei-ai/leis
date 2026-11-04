@@ -1,5 +1,3 @@
-###DEC-070442-0-000-19-04-1972@@@
-
 DECRETO Nº 70.442, DE 19 DE ABRIL DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - da Superintendência Nacional do Abastecimento (SUNAB), cargo originário da Estinta Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

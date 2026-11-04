@@ -1,5 +1,3 @@
-###DEC-094959-0-000-24-09-1987@@@
-
 DECRETO Nº 94.959, DE 24 DE SETEMBRO DE 1987.
 
 Dispõe sobre a importação de aves matrizes, do gênero Palmípedes, para reprodução e dá outras providências.

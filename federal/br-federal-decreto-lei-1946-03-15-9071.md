@@ -1,5 +1,3 @@
-###DEL-009071-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.071 – DE 15 DE MARÇO DE 1946
 
 Altera o Decreto-lei nº 7.831, de 4 de Agôsto de 1945.

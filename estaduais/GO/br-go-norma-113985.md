@@ -16,24 +16,117 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table style="width: 725px;"><tbody><tr><td style="text-align: center;">SUPLEMENTO</td></tr><tr><td>2850-FUNDO ESTADUAL DE SAÚDE - FES</td></tr></tbody></table>
+SUPLEMENTO
 
-<table><thead></thead><tbody><tr><td>ESPECIFICAÇÃO</td><td>AÇÃO</td><td>FONTE</td><td>MODALIDADE</td><td>GRUPO</td><td>SALDO ORÇAMENTÁRIO</td><td>VALOR A SUPLEMENTAR</td><td>SALDO ATUALIZADO</td></tr><tr><td>PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td>10 305 1043 2519</td><td>15000100</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 0,00</td><td>R$ 6.630,99</td><td>R$ 6.630,99</td></tr></tbody></table>
+2850-FUNDO ESTADUAL DE SAÚDE - FES
 
-<table style="width: 725px;"><tbody><tr><td style="text-align: center;">TOTAL A SUPLEMENTAR POR FONTE</td></tr></tbody></table>
+ESPECIFICAÇÃO
 
-<table style="width: 725px;"><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS -<br>RECEITAS ORDINÁRIAS</td><td>R$ 6.630,99</td></tr><tr><td>TOTAL A SUPLEMENTAR</td><td>R$ 6.630,99</td></tr></tbody></table>
+AÇÃO
+
+FONTE
+
+MODALIDADE
+
+GRUPO
+
+SALDO ORÇAMENTÁRIO
+
+VALOR A SUPLEMENTAR
+
+SALDO ATUALIZADO
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 6.630,99
+
+R$ 6.630,99
+
+TOTAL A SUPLEMENTAR POR FONTE
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS -
+RECEITAS ORDINÁRIAS
+
+R$ 6.630,99
+
+TOTAL A SUPLEMENTAR
+
+R$ 6.630,99
 
 QUADRO 2
 
-<table style="width: 725px;"><tbody><tr><td style="text-align: center;">REDUÇÃO</td></tr><tr><td>2850-FUNDO ESTADUAL DE SAÚDE - FES</td></tr></tbody></table>
+REDUÇÃO
 
-<table style="width: 725px;"><tbody><tr><td style="text-align: center;">ESPECIFICAÇÃO</td><td style="text-align: center;">AÇÃO</td><td style="text-align: center;">FONTE</td><td style="text-align: center;">MODALIDADE</td><td style="text-align: center;">GRUPO</td><td style="text-align: center;">SALDO A<br>PROGRAMAR</td><td style="text-align: center;">VALOR<br>BLOQUEADO</td><td style="text-align: center;">VALOR A<br>REDUZIR</td></tr><tr><td>CONSTRUÇÃO E<br>ESTRUTURAÇÃO<br>DA POLICLÍNICA<br>DE MINEIROS</td><td style="text-align: center;">10 302 1043<br>3349</td><td style="text-align: center;">15000100</td><td style="text-align: center;">90</td><td style="text-align: center;">4 -<br>INVESTIMENTOS</td><td style="text-align: center;">R$ 10.000,00</td><td style="text-align: center;">R$ 6.630,99</td><td style="text-align: center;">R$ 6.630,99</td></tr></tbody></table>
+2850-FUNDO ESTADUAL DE SAÚDE - FES
 
-<table style="width: 725px;"><tbody><tr><td style="text-align: center;">TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art. 43 § 1º Inciso III</td></tr></tbody></table>
+ESPECIFICAÇÃO
 
-<table style="width: 725px;"><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS -<br>RECEITAS ORDINÁRIAS</td><td>R$ 6.630,99</td></tr><tr><td>TOTAL</td><td>R$ 6.630,99</td></tr></tbody></table>
+AÇÃO
 
-<table style="width: 725px;"><tbody><tr><td style="text-align: center;">TOTAL POR FONTE</td></tr></tbody></table>
+FONTE
 
-<table style="width: 725px;"><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS -<br>RECEITAS ORDINÁRIAS</td><td>R$ 6.630,99</td></tr><tr><td>TOTAL</td><td>R$ 6.630,99</td></tr></tbody></table>
+MODALIDADE
+
+GRUPO
+
+SALDO A
+PROGRAMAR
+
+VALOR
+BLOQUEADO
+
+VALOR A
+REDUZIR
+
+CONSTRUÇÃO E
+ESTRUTURAÇÃO
+DA POLICLÍNICA
+DE MINEIROS
+
+10 302 1043
+3349
+
+15000100
+
+90
+
+4 -
+INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 6.630,99
+
+R$ 6.630,99
+
+TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art. 43 § 1º Inciso III
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS -
+RECEITAS ORDINÁRIAS
+
+R$ 6.630,99
+
+TOTAL
+
+R$ 6.630,99
+
+TOTAL POR FONTE
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS -
+RECEITAS ORDINÁRIAS
+
+R$ 6.630,99
+
+TOTAL
+
+R$ 6.630,99

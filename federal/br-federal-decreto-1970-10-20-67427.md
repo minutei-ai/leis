@@ -1,5 +1,3 @@
-###DEC-067427-0-000-20-10-1970@@@
-
 DECRETO Nº 67.427, DE 20 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação uma área de terra destinada à construção da estação telefônica interurbana, no Município de Taubaté, no Estado de São Paulo, necessária ao desenvolvimento do Plano Trienal das Rotas do Sistema de Microondas, a cargo da Companhia Telefônica Brasileira.

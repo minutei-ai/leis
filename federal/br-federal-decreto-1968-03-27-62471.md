@@ -1,5 +1,3 @@
-###DEC-062471-0-000-27-03-1968@@@
-
 DECRETO Nº 62.471, DE 27 DE MARÇO DE 1968.
 
 Transfere de José Firmino Leitão para José Firmino Leitão & Cia., Ltda., a concessão para o aproveitamento de uma fonte de energia hidráulica no Rio Manuel Alves, no distrito de Meleiro, município de Meleiro, Estado de Santa Catarina.

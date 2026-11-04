@@ -1,5 +1,3 @@
-###DEC-074545-0-000-12-09-1974@@@
-
 DECRETO Nº 74.545, DE 12 DE Setembro DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinadas a passagem de linha de transmissão da Centrais de Elétricas do Goiás Sociedade Anônima, Estado de Goiás.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095622-0-000-12-01-1988@@@
-
 DECRETO N° 95.622, DE 12 DE JANEIRO DE 1988
 
 Autoriza a Indústria de Produtos Alimentícios Confiança S.A., com sede no Município de São Paulo, no Estado de São Paulo, a utilizar o trabalho noturno de mulher maior de dezoito anos, e dá outras providências.

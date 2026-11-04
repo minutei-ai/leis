@@ -1,5 +1,3 @@
-###DEC-054225-0-000-01-09-1964@@@
-
 decreto nº 54.225, de 1º de setembro de 1964.
 
 Retifica o Quadro de Pessoal do Instituto Nacional de Pesquisas da Amazônia do Conselho Nacional de Pesquisas.

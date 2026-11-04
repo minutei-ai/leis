@@ -1,5 +1,3 @@
-###DEC-081280-0-000-31-01-1978@@@
-
 Decreto nº 81 280, de 31 de janeiro de 1978.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis da Faculdade de Ciência Econômica de São João da Boa Vista, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-005996-0-000-20-12-2006@@@
-
 DECRETO Nº 5.996 DE 20 DE DEZEMBRO DE 2006.
 
 Dispõe sobre a criação do Programa de Garantia de Preços para a Agricultura Familiar - PGPAF de que trata a Lei no 11.326, de 24 de julho de 2006, e o art. 13 da Lei no 11.322, de 13 de julho de 2006, para as operações contratadas sob a égide do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências.
@@ -73,5 +71,3 @@ LUIZ INÁCIO LULA DA SILVA
         Guido Mantega
 
          Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 21.12.2006

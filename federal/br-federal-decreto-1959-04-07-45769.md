@@ -1,5 +1,3 @@
-###DEC-045769-0-000-07-04-1959@@@
-
 DECRETO Nº 45.769, DE 7 DE ABRIL DE 1959.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a instalar uma usina termelétrica e a construir linhas de transmissão.

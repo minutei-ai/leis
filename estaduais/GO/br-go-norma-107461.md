@@ -40,8 +40,6 @@ Art. 11. Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 6 de julho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -166,7 +164,6 @@ Tabelas das tarefas típicas e pré-requisitos para cargos de provimento em comi
 | Descrição Sumária das Tarefas |
 | Ao Assistente do Conselho Superior do Ministério Público compete prestar auxílio técnico-jurídico e administrativo às atividades do Conselheiro e, notadamente: elaborar minutas e outras manifestações próprias da atividade do Conselheiro junto ao Conselho Superior do Ministério Público, além da análise, estudos, exames, pesquisas, relatórios e trabalhos de natureza técnica ou jurídica, atinentes aos autos extrajudiciais e administrativos da alçada do órgão; acompanhar o andamento dos autos extrajudiciais e administrativos e expedientes do órgão; manter o registro e controle das atividades desenvolvidas, apresentando relatórios; assistir o Conselheiro nos demais serviços administrativos necessários ao desempenho de suas funções; executar outras tarefas compatíveis com suas atribuições, a critério da chefia imediata ou institucional. |
 
-..........................................................................................................................”(NR)<br>
-<br>
+..........................................................................................................................”(NR)
 
 [_Este texto não substitui o publicado no S.D.O. de 06.-07-2023._](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18396)

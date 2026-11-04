@@ -33,7 +33,3 @@ Deputado Dinis Pinheiro – 1º-Secretário
 Deputado Tiago Ulisses – 2º-Secretário
 
 Deputado Alencar da Silveira Jr. – 3º-Secretário
-
-\================================================================
-
-Data da última atualização: 07/08/2007

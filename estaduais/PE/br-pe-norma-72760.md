@@ -16,36 +16,47 @@ Art. 2º O Anexo I da [Lei nº 10.568, de 4 de abril de 1991](https://legis.alep
 
 “**ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:42.15pt;background:white;border-collapse:collapse"><tbody><tr><td width="180" style="width:134.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CARGO</span></p></td><td width="85" style="width:63.8pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SÍMBOLO</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VENCIMENTO</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANTIDADE</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">(por Gabinete)</span></p></td></tr><tr><td width="180" style="width:134.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Chefe de Gabinete</span></p></td><td width="85" style="width:63.8pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-CGC</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 9.719,84</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="180" style="width:134.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessor Especial</span></p></td><td width="85" style="width:63.8pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-ASC</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 8.620,14</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">10</span></p></td></tr><tr><td width="180" style="width:134.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assessor Especial Adjunto</span></p></td><td width="85" style="width:63.8pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-ASCA</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 2.693,81</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">03</span></p></td></tr><tr><td width="180" style="width:134.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador de Expediente</span></p></td><td width="85" style="width:63.8pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PL-COE</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">R$ 1.885,64</span></p></td><td width="113" style="width:3.0cm;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:right;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+VENCIMENTO
+
+QUANTIDADE
+
+(por Gabinete)
+
+Chefe de Gabinete
+
+PL-CGC
+
+R$ 9.719,84
+
+01
+
+Assessor Especial
+
+PL-ASC
+
+R$ 8.620,14
+
+10
+
+Assessor Especial Adjunto
+
+PL-ASCA
+
+R$ 2.693,81
+
+03
+
+Coordenador de Expediente
+
+PL-COE
+
+R$ 1.885,64
+
+01
 
 (NR)
 

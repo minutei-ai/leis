@@ -1,7 +1,3 @@
-1
-
-###DEL-002376-0-000-25-11-1987@@@
-
 # DECRETO-LEI Nº 2.376, DE 25 DE NOVEMBRO DE 1987.
 
 Dispõe sobre a dívida mobiliária interna da União, e dá outras providências.

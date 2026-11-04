@@ -1,5 +1,3 @@
-###DEC-005060-0-000-30-04-2004@@@
-
 DECRETO Nº 5.060,  DE 30 DE ABRIL DE 2004
 
 Reduz as alíquotas da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível (CIDE), instituída pela Lei nº 10.336, de 19 de dezembro de 2001, e dá outras providências.

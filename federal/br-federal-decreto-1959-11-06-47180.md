@@ -1,5 +1,3 @@
-###DEC-047180-0-000-06-11-1959@@@
-
 decreto nº 47.180, de 06 de novembro de 1959.
 
 Renova o Decreto nº 41.702, de 24 de junho de 1957.

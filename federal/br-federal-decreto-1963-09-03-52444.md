@@ -1,5 +1,3 @@
-###DEC-052444-0-000-03-09-1963@@@
-
 DECRETO Nº 52.444, DE 3 DE SETEMBRO DE 1963.
 
 Constitui comissão para estudar e propor a criação e organização da Emprêsa Brasileira de Telecomunicações (EMBRATEL).

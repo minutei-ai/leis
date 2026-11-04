@@ -1,19 +1,17 @@
-###DEC-065829-0-000-09-12-1969@@@
+**DECRETO Nº 65.829, DE 9 DE DEZEMBRO DE 1969.**
 
-<strong>DECRETO Nº 65.829, DE 9 DE DEZEMBRO DE 1969.</strong>
+***Revoga o Decreto nº 19.876, de 16 de abril de 1931.***
 
-<em><strong>Revoga o Decreto nº 19.876, de 16 de abril de 1931.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 81, item III, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 81, item III, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É revogado o Decreto nº 19.876, de 16 de abril de 1931, que aprovou o Regulamento para o Arquivo da Marinha.
 
-<strong>Art</strong>. 1º É revogado o Decreto nº 19.876, de 16 de abril de 1931, que aprovou o Regulamento para o Arquivo da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Brasília, 9 de dezembro de 1969; 148º da Independência e 81º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Adalberto de Barros Nunes

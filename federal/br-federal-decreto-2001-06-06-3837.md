@@ -1,5 +1,3 @@
-###DEC-003837-0-000-06-06-2001@@@
-
 DECRETO Nº 3.837, DE 6 DE JUNHO DE 2001
 
 Dispõe sobre a execução do Quadragésimo Protocolo Adicional ao Acordo de Complementação Econômica n° 2 (Prorrogação do ACE‑2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 29 de março de 2001.

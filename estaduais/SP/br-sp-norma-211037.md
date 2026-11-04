@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211037)<br>
-
 # DECRETO N° 69.599, DE 09 DE JUNHO DE 2025
 
 ### _Institui, junto à Secretaria de Turismo e Viagens, o Programa "Academia do Turismo SP" e dá providências correlatas._

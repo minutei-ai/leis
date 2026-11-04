@@ -1,5 +1,3 @@
-###DEC-069171-0-000-09-09-1971@@@
-
 DECRETO Nº 69.171, DE 9 DE SETEMBRO DE 1971.
 
 Concela autorização para funcionamento no Brasil da Commercial Union Assurance Company Limited.

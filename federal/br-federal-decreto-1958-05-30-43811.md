@@ -1,14 +1,12 @@
-###DEC-043811-0-000-30-05-1958@@@
+**DECRETO Nº 43.811, DE 30 DE MAIO DE 1958.**
 
-<strong>DECRETO Nº 43.811, DE 30 DE MAIO DE 1958.</strong>
+***Inclui funções gratificadas no Ministério da Educação e Cultura, e dá outras providências.***
 
-<em><strong>Inclui funções gratificadas no Ministério da Educação e Cultura, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas no Ministério da Educação e Cultura as funções gratificadas abaixo discriminadas que integrarão a lotação dos órgãos do Departamento de Administração:
+**Art**. 1º Ficam incluídas no Ministério da Educação e Cultura as funções gratificadas abaixo discriminadas que integrarão a lotação dos órgãos do Departamento de Administração:
 
 FG-3
 
@@ -84,14 +82,14 @@ FG-6
 
 1\. Auxiliar do Diretor da Divisão do Pessoal (D.P)
 
-<strong>Art</strong>. 2º A despesa resultante dêste decreto correrá à conta das dotações orçamentárias próprias.
+**Art**. 2º A despesa resultante dêste decreto correrá à conta das dotações orçamentárias próprias.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 30 de maio de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clóvis Salgado

@@ -1,5 +1,3 @@
-###DEC-055730-0-000-03-02-1965@@@
-
 Decreto Nº 55.730, DE 3 DE FEVEREIRO DE 1965.
 
 Dispõe sôbre condições de acesso para Oficiais da Aeronáutica.

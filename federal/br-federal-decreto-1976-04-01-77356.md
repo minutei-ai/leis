@@ -1,5 +1,3 @@
-###DEC-077356-0-000-01-04-1976@@@
-
 DECRETO Nº 77.356 - de 1º de ABRIL DE 1976
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

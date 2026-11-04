@@ -1,7 +1,3 @@
-1
-
-###MPV-001435-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.435, DE 9 DE MAIO DE 1996.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

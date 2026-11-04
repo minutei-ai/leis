@@ -50,11 +50,14 @@ Art. 11º- Ficam revogadas todas as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 03 dias do mês de julho do ano de 2020.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-FÁBIO CAMARGO<br>
+FÁBIO CAMARGO
+
 Procurador Geral do Município

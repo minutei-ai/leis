@@ -1,5 +1,3 @@
-###DEC-007881-0-000-28-12-2012-PUB-01@@@
-
 DECRETO Nº 7.881, DE 28 DE DEZEMBRO DE 2012
 
 Dispõe sobre a autorização de alienação das ações ordinárias de emissão da PETROBRAS adquiridas diretamente junto ao Fundo Fiscal de Investimentos e Estabilização - FFIE.

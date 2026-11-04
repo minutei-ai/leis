@@ -1,5 +1,3 @@
-###DEC-088246-0-000-20-04-1983@@@
-
 Decreto nº 88.246, de 20 de abril de 1983
 
 Outorga concessão à RÁDIO EMISSORA BATOVI LTDA., para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de São Gabriel, Estado do Rio Grande do Sul.

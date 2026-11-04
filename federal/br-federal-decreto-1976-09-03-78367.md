@@ -1,5 +1,3 @@
-###DEC-078367-0-000-03-09-1976@@@
-
 DECRETO Nº 78.367, DE 3 DE SETEMBRO DE 1976.
 
 Altera dispositivo do Decreto número 73.103-73, de 7 de novembro de 1973, que autorizou o funcionamento da Escola de Educação Física da Guanabara, com sede na cidade do Rio de Janeiro.

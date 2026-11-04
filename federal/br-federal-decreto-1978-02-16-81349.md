@@ -1,5 +1,3 @@
-###DEC-081349-0-000-16-02-1978@@@
-
 Decreto nº 81.349, de 16 fevereiro de 1978.
 
 Concede reconhecimento ao curso de Fonoaudiologia da Escola Paulista de Medicina com sede na cidade de São Paulo, Estado de São Paulo.

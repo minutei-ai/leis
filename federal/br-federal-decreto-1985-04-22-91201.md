@@ -1,5 +1,3 @@
-###DEC-091201-0-000-22-04-1985@@@
-
 DECRETO Nº 91.201, DE 22 DE ABRIL DE 1985.
 
 Revoga o Decreto nº 90.933, de 11 de fevereiro de 1985.

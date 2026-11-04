@@ -1,5 +1,3 @@
-###DEC-047395-0-000-10-12-1959@@@
-
 DECRETO Nº 47.395, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza a Emprêsa Industrial Gêsso Mossoró S.A. a pesquisar gipsita, no município de Porteiras, Estado do Ceará.

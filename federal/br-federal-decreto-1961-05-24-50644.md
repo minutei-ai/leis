@@ -1,34 +1,32 @@
-###DEC-050644-0-000-24-05-1961@@@
+**DECRETO Nº 50.644, DE 24 DE MAIO DE 1961.**
 
-<strong>DECRETO Nº 50.644, DE 24 DE MAIO DE 1961.</strong>
+***Aprova Regulamento para as Casas do Marinheiro.***
 
-<em><strong>Aprova Regulamento para as Casas do Marinheiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para as casas do Marinheiro, que a êste acompanha, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para as casas do Marinheiro, que a êste acompanha, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, D.F., em 24 de maio de 1961; 140º da Independência e 73º da República.
 
-<strong>JÂNIO QUADROS</strong>
+**JÂNIO QUADROS**
 
 Sylvio Heck
 
-<strong>REGULAMENTO PARA AS CASAS DO MARINHEIRO</strong>
+**REGULAMENTO PARA AS CASAS DO MARINHEIRO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos fins</em>
+*Dos fins*
 
-<strong>Art</strong>. 1º As Casas do Marinheiro (CMN) são os estabelecimentos instalados nos vários Distritos Navais tendo por finalidade proporcionar serviços de assistência social às Praças da MB em serviço ativo, conforme está previsto neste Regulamento.
+**Art**. 1º As Casas do Marinheiro (CMN) são os estabelecimentos instalados nos vários Distritos Navais tendo por finalidade proporcionar serviços de assistência social às Praças da MB em serviço ativo, conforme está previsto neste Regulamento.
 
 Parágrafo único. Poderá haver mais de uma Casa do Marinheiro em um mesmo Distrito Naval desde que o vulto e a conveniência dos Serviços Assistenciais o aconselhem.
 
-<strong>Art</strong>. 2º Para consecução de sua finalidade cabe especificamente a cada Casa do Marinheiro:
+**Art**. 2º Para consecução de sua finalidade cabe especificamente a cada Casa do Marinheiro:
 
 I - o provimento de instalações para estudo, recreação e repouso;
 
@@ -40,17 +38,17 @@ IV - o fornecimento de enxovais para filhos recém-nascidos de militares da MB, 
 
 V - a organização de festas natalinas para os filhos do pessoal mencionado no inciso anterior.
 
-<strong>Art</strong>. 3º Cada Casa do Marinheiro se destina ao atendimento das Praças da MB que servem nos navios e estabelecimentos sediados no local em que está situada.
+**Art**. 3º Cada Casa do Marinheiro se destina ao atendimento das Praças da MB que servem nos navios e estabelecimentos sediados no local em que está situada.
 
 Parágrafo único. Cada Casa do Marinheiro atenderá também às Praças cujas unidades se encontrem transitoriamente no local em que está situada.
 
-<strong>Art</strong>. 4º Cada Casa do Marinheiro é subordinada ao Comando do Distrito Naval em cuja área de jurisdição está localizada e fica sob o contrôle de administração da Diretoria do Pessoal da Marinha.
+**Art**. 4º Cada Casa do Marinheiro é subordinada ao Comando do Distrito Naval em cuja área de jurisdição está localizada e fica sob o contrôle de administração da Diretoria do Pessoal da Marinha.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 5º Os serviços a cargo de cada Casa do Marinheiro são administrados por um Encarregado e executados por três Divisões a saber:
+**Art**. 5º Os serviços a cargo de cada Casa do Marinheiro são administrados por um Encarregado e executados por três Divisões a saber:
 
 I - Divisão de Confôrto e Recreação (CMN-10);
 
@@ -60,11 +58,11 @@ III - Divisão de Intendência (CMN-30).
 
 Parágrafo único. Cada Casa do Marinheiro dispõe ainda de uma Secretária diretamente subordinada ao Encarregado.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 6º Cada Casa do Marinheiro dispõe do seguinte pessoal:
+**Art**. 6º Cada Casa do Marinheiro dispõe do seguinte pessoal:
 
 I - Encarregado - um Capitão-de-Corveta do Quadro de Oficiais Auxiliares da Marinha;
 
@@ -76,11 +74,11 @@ IV - Tantas Praças do CPSA, do CPSCFN quantas fôrem necessárias aos serviços
 
 V - Tantos Servidores Civis dos diversos Quadros e Tabelas do Ministério da Marinha, ou contratados, quantos forem necessários aos serviços, de conformidade com o previsto no Regimento Interno.
 
-<strong>Art</strong>. 7º O pessoal será designado ou admitido de acôrdo com a legislação e normas em vigor.
+**Art**. 7º O pessoal será designado ou admitido de acôrdo com a legislação e normas em vigor.
 
 Das Disposições Gerais
 
-<strong>Art</strong>. 8º As Casas do Marinheiro estarão franqueadas a todos os Marinheiros e Fuzileiros Navais em serviço ativo conforme fôr exercido no respectivo Regimento Interno.
+**Art**. 8º As Casas do Marinheiro estarão franqueadas a todos os Marinheiros e Fuzileiros Navais em serviço ativo conforme fôr exercido no respectivo Regimento Interno.
 
 § 1º As atividades das Casas do Marinheiro não interferirão com o serviço a bordo ou em terra.
 
@@ -88,7 +86,7 @@ Das Disposições Gerais
 
 § 3º As conferências festividades, etc., a serem realizadas nas Casas do Marinheiro dependerão de autorização do Comandante do Distrito Naval a que estiverem subordinadas.
 
-<strong>Art</strong>. 9º As Casas do Marinheiro disporão de verba orçamentária própria e poderão contar ainda com os seguintes recursos:
+**Art**. 9º As Casas do Marinheiro disporão de verba orçamentária própria e poderão contar ainda com os seguintes recursos:
 
 I - contribuição de navios e órgãos da MB;
 
@@ -106,17 +104,17 @@ V - prestação de serviços tais como confecção de enxovais para recém-nasci
 
 § 3º O Departamento Feminino é constituído pelo grupo de senhoras que queiram prestar de forma voluntária e gratuita, os serviços mencionados no inciso V dêste artigo.
 
-<strong>Art</strong>. 10. Êste Regulamento será complementado pelos Regimentos Internos peculiares a cada Casa do Marinheiro, elaborados e aprovados de acôrdo com as normas em vigor.
+**Art**. 10. Êste Regulamento será complementado pelos Regimentos Internos peculiares a cada Casa do Marinheiro, elaborados e aprovados de acôrdo com as normas em vigor.
 
 Das Disposições Transitórias
 
-<strong>Art</strong>. 11. Enquanto houver deficiência de pessoal, os cargos previstos neste Regulamento poderão ser preenchidos por Oficiais da Reserva de qualquer Quadro e de posto superior ao estabelecido no Art. 6º desde que, no máximo, dentro do círculo de Oficiais Superiores.
+**Art**. 11. Enquanto houver deficiência de pessoal, os cargos previstos neste Regulamento poderão ser preenchidos por Oficiais da Reserva de qualquer Quadro e de posto superior ao estabelecido no Art. 6º desde que, no máximo, dentro do círculo de Oficiais Superiores.
 
-<strong>Art</strong>. 12. No prazo de noventa dias a partir da publicação do presente Regulamento em Boletim do Ministério da Marinha, o Diretor-Geral do Pessoal da Marinha submeterá a aprovação do Ministro da Marinha os projetos de Regimento Interno para as Casas do Marinheiro, em funcionamento, elaborados de acôrdo com as normas em vigor.
+**Art**. 12. No prazo de noventa dias a partir da publicação do presente Regulamento em Boletim do Ministério da Marinha, o Diretor-Geral do Pessoal da Marinha submeterá a aprovação do Ministro da Marinha os projetos de Regimento Interno para as Casas do Marinheiro, em funcionamento, elaborados de acôrdo com as normas em vigor.
 
-<strong>Art</strong>. 13. O Diretor-Geral do Pessoal da Marinha está autorizado a baixar os atos necessários a aplicação do presente Regulamento até a aprovação dos Regimentos Internos das Casas do Marinheiro, em funcionamento.
+**Art**. 13. O Diretor-Geral do Pessoal da Marinha está autorizado a baixar os atos necessários a aplicação do presente Regulamento até a aprovação dos Regimentos Internos das Casas do Marinheiro, em funcionamento.
 
-<strong>SYLVIO HECK</strong>
+**SYLVIO HECK**
 
 Vice-Almirante, R.Rm
 

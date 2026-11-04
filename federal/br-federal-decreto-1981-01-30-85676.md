@@ -1,5 +1,3 @@
-###DEC-085676-0-000-30-01-1981@@@
-
 DECRETO Nº 85.676, DE 30 DE JANEIRO DE 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A - CELESC, no Estado de Santa Catarina.

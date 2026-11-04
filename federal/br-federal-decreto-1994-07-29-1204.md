@@ -1,7 +1,3 @@
-1
-
-###DEC-001204-0-000-29-07-1994@@@
-
 DECRETO Nº 1.204, DE 29 DE JULHO DE 1994
 
 Altera e consolida a regulamentação da Lei nº 8.031, de 12 abril de 1990, que cria o Programa de Desestatização, com as alterações posteriores.

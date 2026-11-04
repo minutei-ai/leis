@@ -1,5 +1,3 @@
-###DEC-046897-0-000-24-09-1959@@@
-
 DECRETO Nº 46.897, DE 24 DE SETEMBRO DE 1959.
 
 Outorga concessão à Rádio Marajoara Limitada para instalar uma estação radiodifusora em freqüência tropical.

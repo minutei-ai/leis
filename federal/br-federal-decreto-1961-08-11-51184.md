@@ -1,5 +1,3 @@
-###DEC-051184-0-000-11-08-1961@@@
-
 DECRETO Nº 51.184, DE 11 DE AGÔSTO DE 1961.
 
 Cria a Junta Nacional de Algodão e dá outras providências.

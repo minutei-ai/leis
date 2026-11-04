@@ -1,5 +1,3 @@
-###DEL-009193-0-000-23-04-1946@@@
-
 DECRETO-LEI N. 9.193 – DE 23 DE ABRIL DE 1946
 
 Estende aos alunos diplomados em 1940 pelo Curso Normal de Educação Física da Escola de Educação Física do Estado do Rio Grande do Sul, as regalias de licenciados em educação física.

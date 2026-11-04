@@ -1,7 +1,3 @@
-1
-
-###MPV-001405-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.405, DE 11 DE ABRIL DE 1996
 
 Dispõe sobre os fundos que especifica e dá outras providências.

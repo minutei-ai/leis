@@ -1,5 +1,3 @@
-###DEC-088924-0-000-27-10-1983@@@
-
 DECRETO Nº 88.924, DE 27 DE OUTUBRO DE 1983
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

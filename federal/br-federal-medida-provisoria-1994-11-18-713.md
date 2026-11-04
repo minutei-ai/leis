@@ -1,7 +1,3 @@
-1
-
-###MPV-000713-0-000-18-11-1994@@@
-
 # MEDIDA PROVISÓRIA N° 713, DE 18 DE NOVEMBRO DE 1994
 
 Dispõe sobre as contribuições para o Programa de Integração Social (PIS), e para o Programa de Formação do Patrimônio do Servidor Público (Pasep), incidentes sobre receitas de exportação e dá outras providências.

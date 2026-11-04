@@ -1,5 +1,3 @@
-###DEC-071343-0-000-09-11-1972@@@
-
 DECRETO Nº 71.343 - DE 9 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento aos cursos de Ciências Econômicas, Ciências Contábeis, Administração de Empresas e Relações Públicas da Faculdade de Ciências Econômicas e Administrativas, Mogi das Cruzes - Estado de São Paulo.

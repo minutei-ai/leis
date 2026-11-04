@@ -1,5 +1,3 @@
-###DEC-068829-0-000-30-06-1971@@@
-
 Decreto nº 68.829 - de 30 de junho de 1971.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - da Universidade Federal de Pernambuco, cargo originário do Departamento Nacional de Estradas de Ferro, e dá outras providências.

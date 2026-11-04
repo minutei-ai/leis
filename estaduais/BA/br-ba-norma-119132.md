@@ -6,7 +6,137 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Ficam criados na estrutura do Instituto Pedro Ribeiro, de Administração Judiciária - IPRAJ, os seguintes cargos, destinados à impressão e distribuição do "Diário do Poder Judiciário", e vinculados à Gerência de Impressão e Publicação da Autarquia.
 
-<table style="border-collapse: collapse; border: none;" width="444" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">QUANTIDADE</p></td><td style="width: 148.6pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">CARGO</p></td><td style="width: 99.25pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">ESCOLARIDADE</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">03</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Supervisor</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">Nível Superior</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">02</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Revisor</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">Nível Superior</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">03</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Técnico de Nível Superior</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">Nível Superior</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">03</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Cortador</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">15</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Encadernador</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">03</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Fotógrafo Montador</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">05</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Impressor</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">2º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">04</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Operador Nível Médio</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">2º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">10</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Entregador</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">02</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Mecânico</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Recepcionista</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Diagramador</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">2º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Eletricista</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Gravador de Chapas</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Ajudante de Guilhotina</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Operador de Guilhotina</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">02</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Ajudante de Impressor</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Montador de Arte Final</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">2º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">02</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Montador de Fotolitos</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">02</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Motorista</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr><tr><td style="width: 85.3pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">01</p></td><td style="width: 148.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="198"><p class="Tabela-Texto">Auxiliar de Serviços Gerais</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p class="Tabela-Texto">1º Grau</p></td></tr></tbody></table>
+QUANTIDADE
+
+CARGO
+
+ESCOLARIDADE
+
+03
+
+Supervisor
+
+Nível Superior
+
+02
+
+Revisor
+
+Nível Superior
+
+03
+
+Técnico de Nível Superior
+
+Nível Superior
+
+03
+
+Cortador
+
+1º Grau
+
+15
+
+Encadernador
+
+1º Grau
+
+03
+
+Fotógrafo Montador
+
+1º Grau
+
+05
+
+Impressor
+
+2º Grau
+
+04
+
+Operador Nível Médio
+
+2º Grau
+
+10
+
+Entregador
+
+1º Grau
+
+02
+
+Mecânico
+
+1º Grau
+
+01
+
+Recepcionista
+
+1º Grau
+
+01
+
+Diagramador
+
+2º Grau
+
+01
+
+Eletricista
+
+1º Grau
+
+01
+
+Gravador de Chapas
+
+1º Grau
+
+01
+
+Ajudante de Guilhotina
+
+1º Grau
+
+01
+
+Operador de Guilhotina
+
+1º Grau
+
+02
+
+Ajudante de Impressor
+
+1º Grau
+
+01
+
+Montador de Arte Final
+
+2º Grau
+
+02
+
+Montador de Fotolitos
+
+1º Grau
+
+02
+
+Motorista
+
+1º Grau
+
+01
+
+Auxiliar de Serviços Gerais
+
+1º Grau
 
 Art. 2º - O regime jurídico do pessoal criado por esta Lei será o próprio do IPRAJ, precedido o seu provimento de concurso público de provas.
 

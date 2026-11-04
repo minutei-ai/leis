@@ -1,5 +1,3 @@
-###DEC-081094-0-000-21-12-1977@@@
-
 decreto nº 81.094, de 21 de dezembro de 1977.
 
 Concede reconhecimento aos cursos de Geografia e de História da Faculdade de Filosofia, Ciências e Letras de Patos, com sede na cidade de Patos, Estado da Paraíba.

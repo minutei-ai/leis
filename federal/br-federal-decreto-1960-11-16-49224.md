@@ -1,5 +1,3 @@
-###DEC-049224-0-000-16-11-1960@@@
-
 DECRETO Nº 49.224, DE 16 DE NOVEMBRO DE 1960.
 
 Outorga à Companhia Brasileira de Energia Elétrica concessão para o aproveitamento progressivo de energia hidráulica das quedas dágua denominadas Picada e Sobraji, localizadas, respectivamente, nos rios do Peixe e Paraíbuna, Estado de Minas Gerais, a primeira no distrito de Torreões, do município de Juiz de Fora e a Segunda nos limites entre o distrito de Ibitiguaia, do município de Juiz de Fora com o distrito de Simão Pereira, do município de Matias Barbosa.

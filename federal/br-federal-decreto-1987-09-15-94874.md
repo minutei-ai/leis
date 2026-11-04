@@ -1,5 +1,3 @@
-###DEC-094874-0-000-15-09-1987@@@
-
 DECRETO Nº 94.874, DE 15 DE SETEMBRO DE 1987
 
 Dispõe sobre a estruturação do Fundo de Defesa da Economia Cafeeira - FUNCAFÉ e dá outras providências.

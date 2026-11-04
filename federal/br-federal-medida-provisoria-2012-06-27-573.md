@@ -1,5 +1,3 @@
-###MPV-000573-0-000-27-06-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 573, DE 27 DE JUNHO DE 2012
 
 Abre crédito extraordinário, em favor dos Ministérios da Justiça, da Educação, da Saúde, dos Transportes, do Planejamento, Orçamento e Gestão, do Desenvolvimento Agrário, da Defesa, da Integração Nacional e das Cidades, no valor global de R$ 6.843.701.650,00, para os fins que especifica.

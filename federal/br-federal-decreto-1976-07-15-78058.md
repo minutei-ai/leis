@@ -1,5 +1,3 @@
-###DEC-078058-0-000-15-07-1976@@@
-
 DECRETO Nº 78.058, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração Guerreiro Brito, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

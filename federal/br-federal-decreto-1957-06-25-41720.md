@@ -1,34 +1,32 @@
-###DEC-041720-0-000-25-06-1957@@@
+**DECRETO Nº 41.720, DE 25 DE JUNHO DE 1957.**
 
-<strong>DECRETO Nº 41.720, DE 25 DE JUNHO DE 1957.</strong>
+***Aprova o Regulamento da Ajudância Geral da Polícia Militar do Distrito Federal.***
 
-<em><strong>Aprova o Regulamento da Ajudância Geral da Polícia Militar do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o item I, do art. 87, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o item I, do art. 87, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Ajudância Geral da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Ajudância Geral da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 25 de junho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
-<strong>REGULAMENTO DA AJUDÂNCIA GERAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL</strong>
+**REGULAMENTO DA AJUDÂNCIA GERAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>GENERALIDADES</em>
+*GENERALIDADES*
 
-<strong>Art</strong>. 1º A Ajudância Geral (AG), como órgão do Comando Geral, destina-se a tratar das questões de caráter geral e individual relativas ao pessoal.
+**Art**. 1º A Ajudância Geral (AG), como órgão do Comando Geral, destina-se a tratar das questões de caráter geral e individual relativas ao pessoal.
 
-<strong>Art</strong>. 2º A AG é diretamente subordinada ao Comandante-Geral.
+**Art**. 2º A AG é diretamente subordinada ao Comandante-Geral.
 
-<strong>Art</strong>. 3º À AG compete:
+**Art**. 3º À AG compete:
 
 I - publicar diariamente ao Comandante-Geral o Boletim do Quartel General;
 
@@ -50,11 +48,11 @@ IX - submeter ao Comandante-Geral os assuntos que dependam de sua decisão; e,
 
 X - manter o Comandante-Geral sempre informado sôbre os assuntos afetos à AG.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ORGANIZAÇÃO E COMPETÊNCIA</em>
+*ORGANIZAÇÃO E COMPETÊNCIA*
 
-<strong>Art</strong>. 4º A AG é constituída das seguintes divisões:
+**Art**. 4º A AG é constituída das seguintes divisões:
 
 I - Pessoal e Expediente;
 
@@ -64,17 +62,17 @@ III - Arquivo; e
 
 IV - Identificação.
 
-<strong>Art</strong>. 5º A AG será chefiada por um tenente-coronel e terá como subchefe um major.
+**Art**. 5º A AG será chefiada por um tenente-coronel e terá como subchefe um major.
 
-<strong>Art</strong>. 6º As Divisões serão chefiadas por capitães ou majores quando, por fôrça de dispositivo legal, houver na Corporação oficiais excedentes com êsse pôsto e contarão com adjuntos e auxiliares previstos no quadro de efetivos de que fôr dotada a AG.
+**Art**. 6º As Divisões serão chefiadas por capitães ou majores quando, por fôrça de dispositivo legal, houver na Corporação oficiais excedentes com êsse pôsto e contarão com adjuntos e auxiliares previstos no quadro de efetivos de que fôr dotada a AG.
 
-<strong>Art</strong>. 7º As funções da AG serão exercidas por oficiais da Corporação.
+**Art**. 7º As funções da AG serão exercidas por oficiais da Corporação.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>ATRIBUIÇÕES</em>
+*ATRIBUIÇÕES*
 
-<strong>Art</strong>. 8º Ao chefe da AG compete:
+**Art**. 8º Ao chefe da AG compete:
 
 I - coordenar e dirigir os trabalhos da AG;
 
@@ -92,7 +90,7 @@ VII - supervisionar o relato dos processos; e,
 
 VIII - apresentar semestralmente o relatório das atividades da AG.
 
-<strong>Art</strong>. 9º Ao subchefe da AG compete:
+**Art**. 9º Ao subchefe da AG compete:
 
 I - coadjuvar o chefe da AG no exercício de suas funções;
 
@@ -124,11 +122,11 @@ a) dos boletins ostensivos e sigilosos, não só o geral como o da Ajudância Ge
 
 b) dos relatórios da AG e da Corporação.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DOS CHEFES DE DIVISÕES</em>
+*DOS CHEFES DE DIVISÕES*
 
-<strong>Art</strong>. 10. Aos chefes de Divisões compete:
+**Art**. 10. Aos chefes de Divisões compete:
 
 I - redigir as ordens e instruções do chefe da AG ou do subchefe da AG que disserem respeito às suas atribuições;
 
@@ -176,11 +174,11 @@ XXII - cumprir tôdas as ordens relativas ao serviço da Divisão;
 
 XXIII - inspecionar freqüentemente os serviço da Divisão, dando parte, ao subchefe da AG, das irregularidades encontradas.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA COMPETÊNCIA DAS DIVISÕES</em>
+*DA COMPETÊNCIA DAS DIVISÕES*
 
-<strong>Art</strong>. 11. À 1ª Divisão - Pessoal e Expediente - compete:
+**Art**. 11. À 1ª Divisão - Pessoal e Expediente - compete:
 
 I - organizar:
 
@@ -220,17 +218,17 @@ X - manter em dia a documentação referente a civis lotados na Corporação, fo
 
 XI - encaminhar à E2 do EM, para registro, tão logo dêem entrada, no Protocolo-Geral, os IPM, sindicâncias, averiguações, queixas, partes e tudo que se relacione com disciplina e justiça, pendente de solução final do Comandante-Geral.
 
-<strong>Art</strong>. 12. À 2ª Divisão - Justiça e Disciplina - compete:
+**Art**. 12. À 2ª Divisão - Justiça e Disciplina - compete:
 
 I - relatar a documentação processual, criminal, administrativa ou disciplinar, emitindo parecer final para apreciação do escalão superior;
 
 II - organizar a relação dos oficiais a serem sorteados para o Conselho Permanente de Justiça, de que trata o CJM;
 
-III - manter atualizada a relação dos oficiais “<em>sub</em>\-<em>judice</em>”;
+III - manter atualizada a relação dos oficiais “*sub*\-*judice*”;
 
 IV - instruir os pedidos de informações das casas Legislativas e do Poder Judiciário.
 
-<strong>Art</strong>. 13. À 3ª Divisão - Arquivo - compete:
+**Art**. 13. À 3ª Divisão - Arquivo - compete:
 
 I - encarregar-se do arquivo geral da Corporação, cumprindo-lhe:
 
@@ -266,7 +264,7 @@ XI - zelar pelo Museu da Corporação;
 
 XII - controlar e distribuir a carga da AG.
 
-<strong>Art</strong>. 14. À 4ª Divisão - Identificação - compete:
+**Art**. 14. À 4ª Divisão - Identificação - compete:
 
 I - manter o gabinete de identificação (GIPI) de acôrdo com as instruções vigentes;
 
@@ -294,17 +292,17 @@ XII - fornecer ao EM, quando solicitados, elementos necessários à organizaçã
 
 XIII -  cumprir os encargos atribuídos, no que lhe fôr aplicável, de intendente de unidade, em relação à AG.
 
-<strong>Art</strong>. 15. Aos oficiais e praças das Divisões compete:
+**Art**. 15. Aos oficiais e praças das Divisões compete:
 
 I - executar os encargos que lhes sejam atribuídos pelos Chefes de Divisão; e
 
 II - responder perante o chefe da Divisão pela carga e o material e documentação que lhes forem confiados pelo mesmo.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 16. As substituições temporárias na AG obedecerão ao seguinte critério:
+**Art**. 16. As substituições temporárias na AG obedecerão ao seguinte critério:
 
 \- o chefe da AG pelo subchefe;
 
@@ -312,13 +310,13 @@ o subchefe da AG pelo chefe de Divisão mais antigo; e
 
 \- o chefe de Divisão pelo oficial que competir, de acôrdo com as instruções vigentes.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS DISPOSIÇÕES FINAIS</em>
+*DAS DISPOSIÇÕES FINAIS*
 
-<strong>Art</strong>. 17. Os oficiais da AG poderão desempenhar qualquer função dentro das Divisões.
+**Art**. 17. Os oficiais da AG poderão desempenhar qualquer função dentro das Divisões.
 
-<strong>Art</strong>. 18. Para efeito de disciplina, justiça e administração é a seguinte a equivalência de atribuições:
+**Art**. 18. Para efeito de disciplina, justiça e administração é a seguinte a equivalência de atribuições:
 
 \- Chefe da AG - Comandante de Corpo;
 
@@ -328,4 +326,4 @@ o subchefe da AG pelo chefe de Divisão mais antigo; e
 
 Rio de Janeiro, em 25 de junho de 1957.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

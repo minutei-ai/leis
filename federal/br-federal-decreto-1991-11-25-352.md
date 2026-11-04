@@ -1,7 +1,3 @@
-1
-
-###DEC-000352-0-000-25-11-1991@@@
-
 DECRETO N° 352, DE 25 DE NOVEMBRO DE 1991
 
 Fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, e dá outras providências.

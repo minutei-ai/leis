@@ -1,5 +1,3 @@
-###DEC-093897-0-000-08-01-1987@@@
-
 # DECRETO Nº 93.897, DE 08 DE JANEIRO DE 1987
 
 Renova a concessão outorgada à RÁDIO EMISSORA DE EDUCAÇÃO RURAL SANTARÉM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santarém, Estado do Pará.

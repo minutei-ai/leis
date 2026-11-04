@@ -1,5 +1,3 @@
-###DEL-005746-0-000-13-08-1943@@@
-
 DECRETO‑LEI N. 5.746 – DE 13 DE AGÔSTO DE 1943
 
 Declara de utilidade pública a desapropriação de imóvel , que menciona, situado na cidade de Diamantina,  Estado de Minas Gerais, e dá outras Providências

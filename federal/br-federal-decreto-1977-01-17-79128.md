@@ -1,5 +1,3 @@
-###DEC-079128-0-000-17-01-1977@@@
-
 DECRETO N. 79.128, DE 17 DE JANEIRO DE 1977.
 
 Autoriza o funcionamento do curso de Biblioteconomia da Faculdade de Filosofia , Ciências e Leras de Catanduva, com sede na cidade de Catanduva, Estado de  São Paulo.

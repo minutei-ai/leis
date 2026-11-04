@@ -1,5 +1,3 @@
-###DEL-006206-0-000-18-01-1944@@@
-
 DECRETO-LEI N. 6.206 – DE 18 DE JANEIRO DE 1944
 
 Concede uma pensão à viúva do Professor Lacerda de Almeida

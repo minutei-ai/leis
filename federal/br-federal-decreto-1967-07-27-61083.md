@@ -1,5 +1,3 @@
-###DEC-061083-0-000-27-07-1967@@@
-
 DECRETO Nº 61.083, DE 27 DE JULHO DE 1967.
 
 Dispõe sôbre a determinação de lucro real de emprêsas, sujeito a tributação pelo impôsto de renda, e dá outras providências.

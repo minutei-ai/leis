@@ -1,7 +1,3 @@
-1
-
-###DEC-001051-0-000-01-02-1994@@@
-
 DECRETO Nº 1.051, DE 1º DE FEVEREIRO DE 1994
 
 Dá nova regulamentação à  Lei nº 6.874, de 3 de dezembro de 1980.

@@ -1,5 +1,3 @@
-###MPV-000433-0-000-27-05-2008@@@
-
 MEDIDA PROVISÓRIA Nº 433, DE 27 DE MAIO DE 2008.
 
 Reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes na importação e na comercialização do mercado interno de farinha de trigo, trigo e pão comum e isenta do Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM as cargas de trigo e de farinha de trigo, até 31 de dezembro de 2008.
@@ -43,5 +41,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Alfredo Nascimento
-
-Este texto não substitui o publicado no DOU de 28.5.2008

@@ -1,5 +1,3 @@
-###DEC-051457-0-000-12-04-1962@@@
-
 DECRETO Nº 51.457, DE 12 DE ABRIL DE 1962.
 
 Dispõe sôbre a construção e exploração de entrepostos frigoríficos no País e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003874-0-000-02-12-1941@@@
-
 DECRETO-LEI N. 3.874 – DE 2 DE DEZEMBRO DE 1941
 
 Concede abatimento de tarifas à Companhia Siderúrgica Nacional

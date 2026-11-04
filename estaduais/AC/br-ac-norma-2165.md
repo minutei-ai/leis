@@ -1,6 +1,10 @@
 > **LEI Nº 3.408, DE 18 DE AGOSTO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a alienação, na espécie investidura, de um lote urbano ao vencedor em procedimento licitatório, na modalidade concorrência.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a alienação, na espécie investidura, de um lote urbano ao vencedor em procedimento licitatório, na modalidade concorrência.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

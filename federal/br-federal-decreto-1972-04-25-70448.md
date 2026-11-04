@@ -1,5 +1,3 @@
-###DEC-070448-0-000-25-04-1972@@@
-
 DECRETO Nº 70.448, DE 25 DE ABRIL DE 1972.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro, cargo do Departamento Administrativo do Pessoal Civil, e dá outras providências.

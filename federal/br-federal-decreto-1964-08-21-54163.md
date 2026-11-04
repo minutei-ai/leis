@@ -1,5 +1,3 @@
-###DEC-054163-0-000-21-08-1964@@@
-
 Decreto nº 54.163, de 21 de agôsto de 1964.
 
 Autoriza o cidadão brasileiro Franco Lunardi a pesquisar caulim no município de Mogi das Cruzes, Estado de São Paulo.

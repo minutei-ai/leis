@@ -1,5 +1,3 @@
-###DEC-003583-0-000-01-09-2000@@@
-
 DECRETO Nº 3.583, DE 1º DE SETEMBRO DE 2000.
 
 Dispõe sobre a execução no Território Nacional, da Resolução 1.306, de 5 de julho de 2000 do Conselho de Segurança das Nações Unidas, que proíbe a importação direta de diamantes em estado bruto originários de Serra Leoa.

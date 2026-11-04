@@ -1,5 +1,3 @@
-###DEC-054055-0-000-27-07-1964@@@
-
 DECRETO Nº 54.055, DE 27 DE JULHO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Comerciários e dá outras providências.

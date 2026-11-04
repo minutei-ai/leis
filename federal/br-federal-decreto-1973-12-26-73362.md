@@ -1,5 +1,3 @@
-###DEC-073362-0-000-26-12-1973@@@
-
 DECRETO Nº 73.362 - DE 26 DE DEZEMBRO DE 1973
 
 Concede reconhecimento à Faculdade de Medicina de Santo Amaro, mantida pela organização Santamarense de Ensino e Cultura - OSEC, com sede na cidade de São Paulo, Estado de São Paulo.

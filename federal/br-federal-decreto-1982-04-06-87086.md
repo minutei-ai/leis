@@ -1,5 +1,3 @@
-###DEC-087086-0-000-06-04-1982@@@
-
 Decreto Nº 87.086, de 06 de abril DE 1982
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CORREIO DA PARAÍBA LTDA., para à  RÁDIO E T.V. CORREIO LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de João Pessoa, Estado da Paraíba.

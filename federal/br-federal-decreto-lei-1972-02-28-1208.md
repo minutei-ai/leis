@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4c73b80a-61dc-42a5-8f73-340ba6d5b683/texto#nowhere)
 
-###DEL-001208-0-000-28-02-1972@@@
-
 # DECRETO-LEI Nº 1.208, DE 28 DE FEVEREIRO DE 1972
 
 Reajusta os vencimentos dos servidores civis e militares do Distrito Federal e dá outras providências.

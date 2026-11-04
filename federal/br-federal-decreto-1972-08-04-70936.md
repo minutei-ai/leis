@@ -1,5 +1,3 @@
-###DEC-070936-0-000-04-08-1972@@@
-
 DECRETO Nº 70.936, DE 4 DE AGOSTO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

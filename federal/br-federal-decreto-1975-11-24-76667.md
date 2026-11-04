@@ -1,5 +1,3 @@
-###DEC-076667-0-000-24-11-1975@@@
-
 DECRETO Nº 76.667, DE 24 DE NOVEMBRO DE 1975.
 
 Concede à Indústria Cerâmica Imbituba S. A. o direito de lavrar quartzo no Município de Biguaçu, Estado de Santa Catarina.

@@ -50,240 +50,288 @@ Secretário da Segurança Pública
 
 ANEXO ÚNICO
 
-QUADRO DE CARGOS EM COMISSÃO DA<br>
+QUADRO DE CARGOS EM COMISSÃO DA
+
 SECRETARIA DA SEGURANÇA PÚBLICA
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:383.0pt;border-collapse:collapse" width="0"><tbody><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">CARGO</span></p></td><td style="width:77.25pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">SÍMBOLO</span></p></td><td style="width:95.0pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QUANTIDADE</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Subsecretário</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-1</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Diretor Geral</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-1</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Diretor Geral Adjunto</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Chefe de Gabinete</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Corregedor Geral</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Superintendente</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assessor de Planejamento e Gestão</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Chefe de Gabinete</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador Executivo</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">03</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Corregedor-Chefe</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Diretor</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">23</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Diretor Geral</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente Militar</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Ouvidor-Chefe</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assessor de Comunicação Social</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assessor Especial</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">03</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente I</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">03</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente Militar I</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador I</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">41</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Diretor</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Ajudante de Ordens</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Diretor Adjunto</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Ouvidor</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Ouvidor Adjunto</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Corregedor Adjunto</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador de Controle Interno I</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador de Controle Interno II</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador Regional</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador Técnico</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">50</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assessor de Comunicação Social I</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assessor Técnico</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">&nbsp;49</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente II</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador de Controle Interno III</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">&nbsp;03</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador II</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">&nbsp;181</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente Militar II</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Secretário de Gabinete</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">03</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assessor Administrativo</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">23</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente III</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">20</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente Orçamentário</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">15</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador III</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">245</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Inspetor da Rede Física</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente de Execução Orçamentária</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">02</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Assistente IV</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">29</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Coordenador IV</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">315</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Oficial de Gabinete</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:15.75pt"><td style="width:210.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:15.75pt" width="281"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">Secretário Administrativo I</span></p></td><td style="width:77.25pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="103"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">DAI-5</span></p></td><td style="width:95.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:15.75pt" width="127"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black;font-weight:normal">92</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Subsecretário
+
+DAS-1
+
+01
+
+Diretor Geral
+
+DAS-1
+
+01
+
+Diretor Geral Adjunto
+
+DAS-2A
+
+01
+
+Chefe de Gabinete
+
+DAS-2A
+
+01
+
+Corregedor Geral
+
+DAS-2A
+
+01
+
+Superintendente
+
+DAS-2A
+
+05
+
+Assessor de Planejamento e Gestão
+
+DAS-2B
+
+01
+
+Chefe de Gabinete
+
+DAS-2B
+
+01
+
+Coordenador Executivo
+
+DAS-2B
+
+03
+
+Corregedor-Chefe
+
+DAS-2B
+
+01
+
+Diretor
+
+DAS-2B
+
+23
+
+Diretor Geral
+
+DAS-2B
+
+01
+
+Assistente Militar
+
+DAS-2B
+
+01
+
+Ouvidor-Chefe
+
+DAS-2B
+
+01
+
+Assessor de Comunicação Social
+
+DAS-2C
+
+01
+
+Assessor Especial
+
+DAS-2C
+
+03
+
+Assistente I
+
+DAS-2C
+
+03
+
+Assistente Militar I
+
+DAS-2C
+
+02
+
+Coordenador I
+
+DAS-2C
+
+41
+
+Diretor
+
+DAS-2C
+
+02
+
+Ajudante de Ordens
+
+DAS-2C
+
+02
+
+Diretor Adjunto
+
+DAS-2C
+
+04
+
+Ouvidor
+
+DAS-2C
+
+01
+
+Ouvidor Adjunto
+
+DAS-2C
+
+01
+
+Corregedor Adjunto
+
+DAS-2C
+
+01
+
+Coordenador de Controle Interno I
+
+DAS-2C
+
+01
+
+Coordenador de Controle Interno II
+
+DAS-2D
+
+02
+
+Coordenador Regional
+
+DAS-2D
+
+06
+
+Coordenador Técnico
+
+DAS-2D
+
+50
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+04
+
+Assessor Técnico
+
+DAS-3
+
+49
+
+Assistente II
+
+DAS-3
+
+06
+
+Coordenador de Controle Interno III
+
+DAS-3
+
+03
+
+Coordenador II
+
+DAS-3
+
+181
+
+Assistente Militar II
+
+DAS-3
+
+02
+
+Secretário de Gabinete
+
+DAS-3
+
+03
+
+Assessor Administrativo
+
+DAI-4
+
+23
+
+Assistente III
+
+DAI-4
+
+20
+
+Assistente Orçamentário
+
+DAI-4
+
+15
+
+Coordenador III
+
+DAI-4
+
+245
+
+Inspetor da Rede Física
+
+DAI-4
+
+05
+
+Assistente de Execução Orçamentária
+
+DAI-5
+
+02
+
+Assistente IV
+
+DAI-5
+
+29
+
+Coordenador IV
+
+DAI-5
+
+315
+
+Oficial de Gabinete
+
+DAI-5
+
+04
+
+Secretário Administrativo I
+
+DAI-5
+
+92

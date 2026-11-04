@@ -1,5 +1,3 @@
-###DEC-054750-0-000-30-10-1964@@@
-
 DECRETO Nº 54.750, DE 30 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública o “Patronato Agrícola Antônio Alves Ramos”, com sede em Santa Maria, Estado do Rio Grande do Sul.

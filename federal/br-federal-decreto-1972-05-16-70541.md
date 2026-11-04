@@ -1,5 +1,3 @@
-###DEC-070541-0-000-16-05-1972@@@
-
 DECRETO Nº 70.541, DE 16 DE MAIO DE 1972.
 
 Retifica o Decreto nº 69.111, de 24 de agosto de 1971, que redistribuiu cargos do Ministério das Relações Exteriores para as Secretarias do Ministério Público Federal.

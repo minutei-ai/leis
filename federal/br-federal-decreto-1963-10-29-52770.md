@@ -1,5 +1,3 @@
-###DEC-052770-0-000-29-10-1963@@@
-
 DECRETO Nº 52.770, DE 29 DE OUTUBRO DE 1963.
 
 Concede à sociedade Navegação Paulo Pereira Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

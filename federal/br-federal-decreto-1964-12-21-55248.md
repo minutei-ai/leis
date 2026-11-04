@@ -1,5 +1,3 @@
-###DEC-055248-0-000-21-12-1964@@@
-
 DECRETO Nº 55.248, DE 21 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre a execução da Lei nº 3.738, de 4 de abril de 1960, no âmbito das autarquias federais.

@@ -32,5 +32,6 @@ Câmara Municipal de Aparecida de Goiânia, 25 de fevereiro de 2026.
 
  
 
-GILSON RODRIGUES DA MATA<br>
+GILSON RODRIGUES DA MATA
+
 Presidente

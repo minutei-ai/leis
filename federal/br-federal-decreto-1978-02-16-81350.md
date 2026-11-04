@@ -1,5 +1,3 @@
-###DEC-081350-0-000-16-02-1978@@@
-
 Decreto nº 81.350, DE 16 DE FEVEREIRO DE 1978.
 
 Fixa a fator de reajustamento salarial relativo a fevereiro de 1978.

@@ -1,5 +1,3 @@
-###DEC-082674-0-000-20-11-1978@@@
-
 Decreto nº 82.674, de 20 de novembro de 1978.
 
 Concede reconhecimento ao curso de Zootecnia, da Universidade Estadual de Maringá, com sede na cidade de Maringá, Estado do Paraná.

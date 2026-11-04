@@ -1,7 +1,3 @@
-1
-
-###DEC-001061-0-000-21-02-1994@@@
-
 DECRETO Nº 1.061, DE 21 DE FEVEREIRO DE 1994
 
 Dispõe sobre a execução da Ata de Retificação do Protocolo de Formalização da Adesão da República de Cuba ao Acordo de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Científica, entre Brasil, Argentina, Colômbia, México, Peru, Uruguai, Venezuela, Bolívia, Chile, Equador, Paraguai e Cuba, de 2 de julho de 1993.

@@ -1,5 +1,3 @@
-###DEC-060024-0-000-11-01-1967@@@
-
 DECRETo Nº 60.024, DE 11 DE JANEIRO DE 1967.
 
 Declara sem efeito o Decreto número 54.830, de 3 de novembro de 1964.

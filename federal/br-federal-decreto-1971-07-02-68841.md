@@ -1,5 +1,3 @@
-###DEC-068841-0-000-02-07-1971@@@
-
 DECRETO Nº 68.841, DE 2 DE JULHO DE 1971.
 
 Concede à Cerâmica Santo Antônio S.A. - CESA o direito de lavrar argila, no município de São Lourenço da Mata, Estado de Pernambuco.

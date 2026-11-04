@@ -1,5 +1,3 @@
-###DEC-052478-0-000-17-09-1963@@@
-
 Decreto nº 52.478, de 17 de setembro de 1963.
 
 Cria o Estandarte-distintivo para o 1º Batalhão de Saúde.

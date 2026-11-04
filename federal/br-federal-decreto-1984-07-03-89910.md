@@ -1,5 +1,3 @@
-###DEC-089910-0-000-03-07-1984@@@
-
 DECRETO Nº 89.910, DE 03 DE JULHO 1984
 
 Dispõe sobre a prorrogação do prazo concedido à Comissão Especial de Desestatização pelo Decreto nº 86.215, de 15 de julho de 1981, e dá outras providências.

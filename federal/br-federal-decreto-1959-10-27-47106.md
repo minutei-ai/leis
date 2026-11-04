@@ -1,5 +1,3 @@
-###DEC-047106-0-000-27-10-1959@@@
-
 DECRETO Nº 47.106, DE 27 DE outubro DE 1959.
 
 Estabelece área de proteção para a fonte Santo Anjo da Guarda, no município de Tubarão, Estado de Santa Catarina.

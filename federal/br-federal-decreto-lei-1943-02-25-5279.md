@@ -1,5 +1,3 @@
-###DEL-005279-0-000-25-02-1943@@@
-
 DECRETO‑LEI N. 5.279 – DE 25 DE FEVEREIRO DE 1943
 
 Altera dispositivo do regularnento da Escola Nacional de Agronomia, baixado pelo decreto n. 23.979, de 8 de março de 1934

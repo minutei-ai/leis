@@ -1,5 +1,3 @@
-###DEC-068517-0-000-15-04-1971@@@
-
 DECRETO Nº 68.517 - DE 15 DE ABRIL DE 1971.
 
 Suspende a Intervenção Federal no Município de Santarém, Estado do Pará.

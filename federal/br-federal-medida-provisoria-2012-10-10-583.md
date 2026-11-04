@@ -1,5 +1,3 @@
-###MPV-000583-0-000-10-10-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 583, DE 10 DE OUTUBRO DE 2012
 
 Abre crédito extraordinário, em favor do  Ministério da Integração Nacional, no valor de R$ 676.000.000,00, para os fins que especifica.

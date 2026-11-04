@@ -1,5 +1,3 @@
-###DEC-056712-0-000-12-08-1965@@@
-
 DECRETO Nº 56.712, DE 12 DE AGôSTO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Bela vista, inclusive aumento de capital social.

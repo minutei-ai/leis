@@ -1,5 +1,3 @@
-###DEC-051456-0-000-12-04-1962@@@
-
 Decreto nº 51.456, de 12 de abril de 1962.
 
 “Inclui funções gratificadas no Ministério da Educação e Cultura e dá outras providências”.

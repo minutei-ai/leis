@@ -1,5 +1,3 @@
-###DEC-057622-0-000-10-01-1966@@@
-
 DECRETO Nº 57.622, DE 10 DE JANEIRO DE 1966.
 
 Concede à Firemen’s Insurance Company of Newark autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

@@ -1,5 +1,3 @@
-###DEC-049247-0-000-17-11-1960@@@
-
 decreto nº 49.247, de 17 de Novembro de 1960.
 
 Autoriza o cidadão brasileiro Pedro Rosa Portela a pesquisar argila, no município de Araucária, Estado do Paraná.

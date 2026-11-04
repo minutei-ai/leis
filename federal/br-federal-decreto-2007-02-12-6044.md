@@ -1,5 +1,3 @@
-###DEC-006044-0-000-12-02-2007@@@
-
 DECRETO Nº 6.044, DE 12 DE FEVEREIRO DE 2007.
 
 Aprova a Política Nacional de Proteção aos Defensores dos Direitos Humanos - PNPDDH, define prazo para a elaboração do Plano Nacional de Proteção aos Defensores dos Direitos Humanos e dá outras providências.
@@ -28,11 +26,7 @@ Brasília, 12 de fevereiro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Dilma Rousselff
-
-Este texto não substitui o publicado no DOU de 13.2.2007.
-
-ANEXO
+Dilma RousselffANEXO
 
 POLÍTICA NACIONAL DE PROTEÇÃO AOS DEFENSORES DOS
 

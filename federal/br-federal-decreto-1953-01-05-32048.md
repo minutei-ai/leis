@@ -1,14 +1,12 @@
-###DEC-032048-0-000-05-01-1953@@@
+**DECRETO Nº 32.048, DE 5 DE JANEIRO DE 1953.**
 
-<strong>DECRETO Nº 32.048, DE 5 DE JANEIRO DE 1953.</strong>
+***Declara de utilidade pública diversas áreas de terra e as benfeitorias nela existentes necessárias à construção de uma linha de transmissão de 44 Kv entre a usina Maurício, município de Leopoldina e a cidade de Além Paraíba, e autoriza a Companhia Fôrça e Luz Cataguazes Leopoldina a promover as desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra e as benfeitorias nela existentes necessárias à construção de uma linha de transmissão de 44 Kv entre a usina Maurício, município de Leopoldina e a cidade de Além Paraíba, e autoriza a Companhia Fôrça e Luz Cataguazes Leopoldina a promover as desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessárias à criação de uma faixa com a largura de 20 metros, ou seja, dez metros de cada lado do eixo da linha de transmissão, constantes das plantas aprovadas pelo Ministro da Agricultura de números 1 a 26 e seguintes:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra necessárias à criação de uma faixa com a largura de 20 metros, ou seja, dez metros de cada lado do eixo da linha de transmissão, constantes das plantas aprovadas pelo Ministro da Agricultura de números 1 a 26 e seguintes:
 
 1\) Área de seiscentos (600,00) metros quadrados de propriedade atribuída à Sociedade Industrial Algodoeira, situada no município de Além Paraíba.
 
@@ -26,13 +24,13 @@
 
 8\) Área de três mil e duzentos (3.200,00) metros quadrados, de propriedade atribuída a José Lucas Rezende, situada no município de Além Paraíba.
 
-9\) Área de dezessete mil e oitocentos (17.800,00) metros quadrados de propriedade atribuída a Vicente <em>Labanca</em>, situada no município de Além Paraíba.
+9\) Área de dezessete mil e oitocentos (17.800,00) metros quadrados de propriedade atribuída a Vicente *Labanca*, situada no município de Além Paraíba.
 
 10\) Área de trinta mil e quatrocentos (30.400,00) metros quadrados de propriedade atribuída a Ademar Monteiro Lara e Irmãos, situada no município de Além Paraíba.
 
 11\) Área de vinte mil e seiscentos (20.600,00) metros quadrados, de propriedade atribuída a Pompeu Servelati, situada no município de Além Paraíba.
 
-12\) Área de vinte e cinco mil e trezentos (25.300,00) metros quadrados, de propriedade atribuída a Dr. <em>Kant Rothier</em>, situada no município de Além Paraíba.
+12\) Área de vinte e cinco mil e trezentos (25.300,00) metros quadrados, de propriedade atribuída a Dr. *Kant Rothier*, situada no município de Além Paraíba.
 
 13\) Área de trinta e oito mil e setecentos (38.700,00) metros quadrados, de propriedade atribuída a Marino Junqueira, situada no município de Além Paraíba.
 
@@ -62,14 +60,14 @@
 
 26\) Área de dezesseis mil e oitocentos (16.800,00) metros quadrados, de propriedade atribuída a Ademar Cunha, situada na divisa dos Municípios de Além Paraíba e de Leopoldina.
 
-<strong>Art</strong>. 2º Fica autorizada a Companhia Fôrça e Luz Cataguazes-Leopoldina a promover a desapropriação das referidas áreas de terra, na forma de legislação vigente.
+**Art**. 2º Fica autorizada a Companhia Fôrça e Luz Cataguazes-Leopoldina a promover a desapropriação das referidas áreas de terra, na forma de legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de janeiro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

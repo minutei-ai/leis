@@ -1,7 +1,3 @@
-1
-
-###DEC-095766-0-000-02-03-1988@@@
-
 DECRETO N° 95.766, DE 2 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Criciúma", classificado como latifúndio de exploração, situado no Município de Reserva no Estado do Paraná compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 2 de maio de 1986, e dá outras providências.

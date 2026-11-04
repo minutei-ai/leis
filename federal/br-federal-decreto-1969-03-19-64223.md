@@ -1,5 +1,3 @@
-###DEC-064223-0-000-19-03-1969@@@
-
 DECRETO Nº 64.223, DE 19 DE MARÇO DE 1969.
 
 Concede à Cauliminas Industrial Ltda. - emprêsa de mineração o direito de lavrar caulim, no município de Inhaúma, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-001975-0-000-20-12-1982@@@
-
 # Decreto-lei nº 1.975, de 20 de dezembro de 1982
 
 Altera as alíquotas do Imposto sobre a Transmissão de Bens Imóveis(ITBI), nos Territórios Federais.

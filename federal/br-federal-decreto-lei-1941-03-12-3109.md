@@ -1,5 +1,3 @@
-###DEL-003109-0-000-12-03-1941@@@
-
 DECRETO-LEI N. 3.109 – DE 12 DE MARÇO DE 1941
 
 Dispõe sobre o registo de alienações de Estradas de Ferro

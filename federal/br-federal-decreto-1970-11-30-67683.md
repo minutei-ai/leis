@@ -1,5 +1,3 @@
-###DEC-067683-0-000-30-11-1970@@@
-
 decreto nº 67.683, de 30 de novembro de 1970.
 
 Transfere as concessões outorgadas à Telefônica de Luziânia S. A., Companhia de Melhoramentos do Planalto S. A. e Companhia Telefônica Ceres-Rialma para a Companhia de Telecomunicações de Goiás - COTELGO.

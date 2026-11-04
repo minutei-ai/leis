@@ -1,5 +1,3 @@
-###DEC-004682-0-000-28-04-2003@@@
-
 DECRETO N° 4.682, DE 28 DE ABRIL DE 2003.
 
 Mantêm remanejados, até 30 de junho de 2003, os cargos que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-099710-0-000-21-11-1990@@@
-
 DECRETO N° 99.710, DE 21 DE NOVEMBRO DE 1990
 
 Promulga a Convenção sobre os Direitos da Criança.

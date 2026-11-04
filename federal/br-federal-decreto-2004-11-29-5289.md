@@ -1,5 +1,3 @@
-###DEC-005289-0-000-29-11-2004@@@
-
 DECRETO Nº 5.289 DE 29 DE NOVEMBRO DE 2004
 
 Disciplina a organização e o funcionamento da administração pública federal, para desenvolvimento do programa de cooperação federativa denominado Força Nacional de Segurança Pública, e dá outras providências.

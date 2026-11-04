@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º - Fica o Poder Executivo autorizado a conceder fiança, em nome do Estado da Bahia, ao Banco do Estado da Bahia S.A. - BANEB ou ao Banco de Desenvolvimento do Estado da Bahia S.A. - DESENBANCO nas operações de crédito que celebrarem com o Banco Nacional de Habitação - BNH.
 
-Redação de acordo com o [art. 1º da Lei nº 4.623, de 06 de dezembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4623-de-06-de-dezembro-de-1985#LO_4_623_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 4.623, de 06 de dezembro de 1985](https://www.legislabahia.ba.gov.br/documentos/lei-no-4623-de-06-de-dezembro-de-1985#LO_4_623_Art__1) .
+
 Redação original: "Art. 1º - Fica o Governador do Estado autorizado a conceder fiança ao Banco do Estado da Bahia S.A. nas operações com o Banco Nacional de Habitação."
 
 § 1º - Para a concessão da fiança referida neste artigo fica o Governador do Estado autorizado a conferir ao Banco Nacional de Habitação os poderes para junto ao Governo Federal levantar a receita constitutiva do Fundo de Participação do Estado que couber ao Estado da Bahia até o limite dos débitos do Estado, decorrentes de empréstimos concedidos pelo Banco Nacional de Habitação.

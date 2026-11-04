@@ -1,5 +1,3 @@
-###DEC-075296-0-000-27-01-1975@@@
-
 DECRETO Nº 75.296, DE 27 DE JANEIRO DE 1975.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Porto Velho e Guarajá-Mirim, no Território Federal de Rondônia, compreendidos na área prioritária de Reforma Agrária, assim declarada pelo artigo 1º do Decreto nº 67.557, de 12.11.70, e ampliada pelo artigo 1º do Decreto nº 75.295, de 27.1.75.

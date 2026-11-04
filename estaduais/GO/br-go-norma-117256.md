@@ -16,5 +16,6 @@ DANIEL VILELA
 
 Governador
 
-DR. GEORGE MORAIS<br>
+DR. GEORGE MORAIS
+
 Deputado Estadual

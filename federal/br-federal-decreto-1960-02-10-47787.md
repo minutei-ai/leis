@@ -1,5 +1,3 @@
-###DEC-047787-0-000-10-02-1960@@@
-
 DECRETO Nº 47.787, DE 10 DE FEVEREIRO DE 1960.
 
 Outorga concessão à “Sociedade Radiodifusora A Voz da Amazônia Limitada”, para instalar uma estação radiodifusora.

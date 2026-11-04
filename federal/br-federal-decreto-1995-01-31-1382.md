@@ -1,7 +1,3 @@
-1
-
-###DEC-001382-0-000-31-01-1995@@@
-
 DECRETO Nº 1.382, DE 31 DE JANEIRO DE 1995
 
 Altera e revoga dispositivos do Regulamento Consolidado do Fundo de Garantia do Tempo de Serviço (FGTS), aprovado pelo Decreto nº 99.684, de 8 de novembro de 1990.

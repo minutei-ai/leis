@@ -1,5 +1,3 @@
-###DEC-068927-0-000-15-07-1971@@@
-
 decreto nº 68.927, de 15 de julho de 1971.
 
 Concede autorização à Companhia "Diamond M. Westers Co." para operação em águas brasileiras, da Embarcação "Diamond M. Drilling Company M/V S-25", de nacionalidade americana.

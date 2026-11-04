@@ -1,5 +1,3 @@
-###LEI-000000-0-000-03-10-1832@@@
-
 LEI - DE 3 DE OUTUBRO DE 1832
 
 Dá nova organização ás actuaes Academias Medico-cirurgicas das cidades do Rio de Janeiro, e Bahia.

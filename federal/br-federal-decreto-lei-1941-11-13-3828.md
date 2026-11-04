@@ -1,5 +1,3 @@
-###DEL-003828-0-000-13-11-1941@@@
-
 DECRETO-LEI N. 3.828 – DE 13 DE NOVEMBRO DE 1941
 
 Dá interpretação ao art. 3º do decreto-lei n. 3.570, de 1941

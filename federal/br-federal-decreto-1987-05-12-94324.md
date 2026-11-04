@@ -1,7 +1,3 @@
-1
-
-###DEC-094324-0-000-12-05-1987@@@
-
 # DECRETO Nº 94.324, DE 12 DE MAIO DE 1987
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Faculdade de Fonoaudiologia da União das Faculdades Francanas.

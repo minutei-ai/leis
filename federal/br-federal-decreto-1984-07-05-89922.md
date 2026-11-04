@@ -1,5 +1,3 @@
-###DEC-089922-0-000-05-07-1984@@@
-
 DECRETO Nº 89.922, de 05 de julho de 1984
 
  Renova por 10 (dez) anos, as concessões outorgadas às entidade que menciona para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

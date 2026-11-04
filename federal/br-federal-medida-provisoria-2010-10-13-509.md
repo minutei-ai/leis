@@ -1,5 +1,3 @@
-###MPV-000509-0-000-13-10-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 509, DE 13 DE OUTUBRO DE 2010.
 
 Dá nova redação ao parágrafo único do art. 7o da Lei no 11.668, de 2 de maio de 2008, que dispõe sobre o exercício da atividade de franquia postal.

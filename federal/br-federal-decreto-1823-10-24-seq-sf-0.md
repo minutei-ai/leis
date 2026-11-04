@@ -1,5 +1,3 @@
-###DEC-000000-0-000-24-10-1823@@@
-
 DECRETO - DE 24 DE OUTUBRO DE 1823
 
 Nomeia uma commissão para examinar o estado da Santa Casa do Misericordia desta Cárie e propôr as convenientes reformas de que precise.

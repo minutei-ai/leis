@@ -1,5 +1,3 @@
-###DEC-066736-0-000-17-06-1970@@@
-
 decreto nº 66.736, de 17 de junho de 1970.
 
 Autoriza a cessão gratuita de imóvel situado em Belém, Estado do Pará, na forma que menciona.

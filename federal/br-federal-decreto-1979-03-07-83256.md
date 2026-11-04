@@ -1,5 +1,3 @@
-###DEC-083256-0-000-07-03-1979@@@
-
 decreto nº 83.256, de 07 de março de 1979
 
 Concede à Salomão Mineração, Ltda. o direito de lavrar cassiterita no Município de Monte Alegre de Goiás, Estado de Goiás.

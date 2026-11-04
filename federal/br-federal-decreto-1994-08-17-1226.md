@@ -1,7 +1,3 @@
-1
-
-###DEC-001226-0-000-17-08-1994@@@
-
 DECRETO Nº 1.226, DE 17 DE AGOSTO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão e funções de confiança do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS, em extinção, para o Ministério da Saúde e dá outras providências.

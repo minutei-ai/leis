@@ -1,5 +1,3 @@
-###DEC-094001-0-000-04-02-1987@@@
-
 DECRETO Nº 94.001, DE 04 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, a instituição que menciona.

@@ -1,5 +1,3 @@
-###DEL-008326-0-000-08-12-1945@@@
-
 DECRETO-LEI N. 8.326 – DE 8 DE DEZEMBRO DE 1945
 
 Altera a carreira de Diplomata do Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

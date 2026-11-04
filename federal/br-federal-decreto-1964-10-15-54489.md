@@ -1,5 +1,3 @@
-###DEC-054489-0-000-15-10-1964@@@
-
 Decreto nº 54.489, de 15 de outubro de 1964.
 
 Concede à sociedade estrangeira Banco Holandês Unido S.A. (Hollandsche Bank-Unie N.V.) autorização para aumentar o seu capital.

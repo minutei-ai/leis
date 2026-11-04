@@ -1,7 +1,3 @@
-1
-
-###MPV-000815-0-000-05-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 815, DE 5 DE JANEIRO DE 1995
 
 Dispõe sobre a criação dos cargos em comissão que menciona.

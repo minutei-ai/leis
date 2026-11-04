@@ -1,5 +1,3 @@
-###DEC-003835-0-000-06-06-2001@@@
-
 DECRETO Nº 3.835, DE 6 DE JUNHO DE 2001
 
 Dispõe sobre a execução do Trigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 1° de fevereiro de 2001.

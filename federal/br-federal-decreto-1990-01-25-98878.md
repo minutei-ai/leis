@@ -1,7 +1,3 @@
-1
-
-###DEC-098878-0-000-25-01-1990@@@
-
 DECRETO Nº 98.878, DE 25 DE JANEIRO DE 1990
 
 Declara de utilidade pública para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia COELBA no Estado da Bahia.

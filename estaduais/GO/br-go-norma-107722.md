@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, aos 10 dias do mês de Agosto de 2023.
 
-<br>
-
 SELENE PERES PERES NUNES
 
 QUADRO 1
@@ -37,6 +35,7 @@ QUADRO 2
 | 26 782 1041 3.102 | GOIÁS EM MOVIMENTO - MANUTEÇÃO DE RODOVIA | 3 - OUTRAS DESPESAS CORRENTES | 17040118 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 0,00 | R$ 15.158.097,21 | R$ 15.158.097,21 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 15.158.097,21 |

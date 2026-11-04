@@ -1,5 +1,3 @@
-###DEC-076156-0-000-26-08-1975@@@
-
 DECRETO Nº 76.156 - DE 26 DE Agosto DE 1975
 
 Concede à Cia. Catarinense de Cimento Portland o direito de lavrar calcário no Município de Camboriu, Estado de Santa Catarina.

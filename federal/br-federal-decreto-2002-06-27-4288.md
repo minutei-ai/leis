@@ -1,5 +1,3 @@
-###DEC-004288-0-000-27-06-2002@@@
-
 DECRETO Nº 4.288, DE 27 DE JUNHO DE 2002
 
 Dispõe sobre as estruturas e as atribuições do Departamento-Geral do Pessoal e da Secretaria de Economia e Finanças, órgãos de direção setorial do Comando do Exército, e dá outras providências.

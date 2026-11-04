@@ -1,5 +1,3 @@
-###DEC-080095-0-000-04-08-1977@@@
-
 DECRETO Nº 80.095, DE 4 DE AGOSTO DE 1977.
 
 Autoriza a cessão, sob regime de aforamento, do terreno que menciona, situado na Ilha da Conceição, Município de Niterói, Estado do Rio de Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000975-0-000-09-11-1993@@@
-
 DECRETO N° 975, DE 9 DE NOVEMBRO DE 1993
 
 Altera o Decreto n° 71.848, de 16 de fevereiro de 1973, que regulamenta a Lei n° 5.821, de 10 de novembro de 1972, que dispõe sobre as Promoções dos Oficiais da Ativa das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEL-000012-0-000-24-11-1937@@@
-
 DECRETO-LEI N. 12 – DE 24 DE NOVEMBRO DE 1937
 
 Abre, pelo Ministério da Guerra, o crédito especial de 3.610:000$000 destinado às instalações da Fábrica de Itajubá

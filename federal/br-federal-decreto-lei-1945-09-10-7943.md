@@ -1,5 +1,3 @@
-###DEL-007943-0-000-10-09-1945@@@
-
 DECRETO-LEI N. 7.943 – DE 10 DE SETEMBRO DE 1945
 
 Concede anistia aos acusados por crimes de injúrias aos poderes públicos e aos responsáveis por crimes ocorridos por ocasião de manifestações políticas.

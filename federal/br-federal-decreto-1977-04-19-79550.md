@@ -1,5 +1,3 @@
-###DEC-079550-0-000-19-04-1977@@@
-
 DECRETO Nº 79.550, DE 19 DE ABRIL DE 1977.
 
 Atualiza os valores das multas previstas no Decreto-lei nº 538, de 7 de julho de 1938, e no Decreto nº 4.071, de 12 de maio de 1939.

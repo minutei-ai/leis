@@ -1,5 +1,3 @@
-###MPV-001889-0-025-28-07-1999@@@
-
 Medida Provisória nº 1.889-25, de 28 de julho de 1999.
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

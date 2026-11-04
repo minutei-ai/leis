@@ -1,14 +1,12 @@
-###LEI-000314-0-000-30-10-1895@@@
+**LEI N. 314 – DE 30 DE OUTUBRO DE 1895**
 
-<strong>LEI N. 314 – DE 30 DE OUTUBRO DE 1895</strong>
-
-<em><strong>Reorganisa o ensino das Faculdades de Direito.</strong></em>
+***Reorganisa o ensino das Faculdades de Direito.***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decretou e eu sancciono a lei seguinte:
 
-<strong>Art.</strong> 1º A partir do primeiro anno lectivo depois da publicação desta lei, o ensino nas Faculdades de Direito será feito em cinco annos, distribuidas as materias do curso pelas seguintes cadeiras:
+**Art.** 1º A partir do primeiro anno lectivo depois da publicação desta lei, o ensino nas Faculdades de Direito será feito em cinco annos, distribuidas as materias do curso pelas seguintes cadeiras:
 
 1º ANNO
 
@@ -82,7 +80,7 @@ Os demais substitutos sómente farão cursos complementares das outras materias,
 
 § 3º As funcções de preparador das cadeiras de medicina legal e hygiene serão exercidas pelo substituto de medicina publica logo que vagarem os logares de preparador actualmente providos.
 
-<strong>Art.</strong> 2º No regimen das Faculdades de Direito serão observados os seguintes preceitos:
+**Art.** 2º No regimen das Faculdades de Direito serão observados os seguintes preceitos:
 
 § 1º As aulas serão abertas no dia 15 de março e encerradas no dia 15 de novembro.
 
@@ -122,21 +120,21 @@ O alumno, porém, reprovado sómente em uma das materias do anno, poderá matric
 
 § 10. As penas disciplinares applicadas por qualquer das Faculdades officiaes, ou a estas equiparadas, serão respeitadas pelas outras.
 
-<strong>Art.</strong> 3º Ficam abolidos os Cursos especiaes de sciencias juridicas, de sciencias sociaes e de notariado; continuando, porém, o de sciencias juridicas por mais tres annos, o de sciencias sociaes por dous e o de notariado por um, si nelles houver estudantes matriculados o que queiram concluil-os; observando-se em taes Cursos o regimen adoptado por esta lei.
+**Art.** 3º Ficam abolidos os Cursos especiaes de sciencias juridicas, de sciencias sociaes e de notariado; continuando, porém, o de sciencias juridicas por mais tres annos, o de sciencias sociaes por dous e o de notariado por um, si nelles houver estudantes matriculados o que queiram concluil-os; observando-se em taes Cursos o regimen adoptado por esta lei.
 
-<strong>Art.</strong> 4º Os lentes das cadeiras extinctas e os actuaes substitutos serão transferidos para as novas cadeiras e para os logares de substitutos creados por esta lei, precedendo proposta da Congregação respectiva. Os actuaes professores de philosophia e historia do direito e direito nacional continuarão a exercer: o primeiro a cadeira de philosophia do direito, e o segundo a de historia, especialmente do direito nacional.
+**Art.** 4º Os lentes das cadeiras extinctas e os actuaes substitutos serão transferidos para as novas cadeiras e para os logares de substitutos creados por esta lei, precedendo proposta da Congregação respectiva. Os actuaes professores de philosophia e historia do direito e direito nacional continuarão a exercer: o primeiro a cadeira de philosophia do direito, e o segundo a de historia, especialmente do direito nacional.
 
 Paragrapho unico. O lente cathedratico que não for aproveitado ficará, todavia, gosando de todas as suas regalias, até que, vagando qualquer cadeira, seja encarregado do ensino da materia nella comprehendida.
 
-<strong>Art.</strong> 5º As Faculdades Livres, para serem reconhecidas e poderem gosar das regalias e vantagens estabelecidas na legislação vigente, deverão ter um patrimonio de 50:000$, representado por apolices da divida publica geral ou pelo edificio em que as mesmas funccionarem, e provar uma frequencia nunca inferior a 30 alumnos por espaço de dous annos, além da observancia do regimen de ensino prescripto nesta lei.
+**Art.** 5º As Faculdades Livres, para serem reconhecidas e poderem gosar das regalias e vantagens estabelecidas na legislação vigente, deverão ter um patrimonio de 50:000$, representado por apolices da divida publica geral ou pelo edificio em que as mesmas funccionarem, e provar uma frequencia nunca inferior a 30 alumnos por espaço de dous annos, além da observancia do regimen de ensino prescripto nesta lei.
 
 Paragrapho unico. A's actuaes Faculdades Livres é concedido o prazo de cinco annos para a constituição deste patrimonio.
 
-<strong>Art.</strong> 6º As Faculdades Livres deverão organisar os seus estatutos de accordo com o regimen adoptado na presente lei.
+**Art.** 6º As Faculdades Livres deverão organisar os seus estatutos de accordo com o regimen adoptado na presente lei.
 
-<strong>Art.</strong> 7º O Governo nomeará para cada uma das Faculdades Livres um fiscal de reconhecida competencia scientifica em assumptos de ensino juridico, o qual em relatorios semestraes exporá quanto houver verificado sobre o programma e merecimento do ensino, marcha do processo dos exames, natureza das provas exhibidas e, finalmente, sobre a observancia da legislação em vigor, quer quanto ás condições de admissão á matricula, quer quanto ao regimen do ensino adoptado nas referidas Faculdades.
+**Art.** 7º O Governo nomeará para cada uma das Faculdades Livres um fiscal de reconhecida competencia scientifica em assumptos de ensino juridico, o qual em relatorios semestraes exporá quanto houver verificado sobre o programma e merecimento do ensino, marcha do processo dos exames, natureza das provas exhibidas e, finalmente, sobre a observancia da legislação em vigor, quer quanto ás condições de admissão á matricula, quer quanto ao regimen do ensino adoptado nas referidas Faculdades.
 
-<strong>Art.</strong> 8º A admissão à matricula sem preenchimento das condições exigidas na lei ou a inobservancia das regras estatuidas para o processo dos exames, verificadas por denuncia do fiscal, ou de qualquer cidadão, em inquerito para tal fim ordenado, com audiencia da Faculdade, dará logar á suspensão da mesma Faculdade por um a dous annos.
+**Art.** 8º A admissão à matricula sem preenchimento das condições exigidas na lei ou a inobservancia das regras estatuidas para o processo dos exames, verificadas por denuncia do fiscal, ou de qualquer cidadão, em inquerito para tal fim ordenado, com audiencia da Faculdade, dará logar á suspensão da mesma Faculdade por um a dous annos.
 
 § 1º Verificada a pratica de abuso quanto á identidade dos alumnos nos exames ou collação dos gráos, immediatamente será cassado à instituição o título de Faculdade com as prerogativas a elle inherentes.
 
@@ -144,9 +142,9 @@ Só por decreto poderá ser suspensa a Faculdade ou cassado o seu título.
 
 § 2º As irregularidades ou abusos de outra natureza, que acarretem o abatimento do nivel moral do ensino nestes institutos, darão logar á censura publica.
 
-<strong>Art.</strong> 9º Os fiscaes perceberão a gratificação annual de 2:400$ paga pela respectiva Faculdade livre, que a recolherá em prestações semestraes á repartição federal pelo Governo designada.
+**Art.** 9º Os fiscaes perceberão a gratificação annual de 2:400$ paga pela respectiva Faculdade livre, que a recolherá em prestações semestraes á repartição federal pelo Governo designada.
 
-<strong>Art.</strong> 10. Ao concurso para provimento dos logares de lente cathedratico e substituto de medicina publica poderão ser admittidos os doutores em medicina.
+**Art.** 10. Ao concurso para provimento dos logares de lente cathedratico e substituto de medicina publica poderão ser admittidos os doutores em medicina.
 
 § 1º O concurso será feito perante um jury de sete membros, sendo tres professores da respectiva Faculdade, eleitos pela congregação, e quatro doutores em medicina, nomeados pelo Governo, podendo ser para tal fim escolhidos professores das Faculdades officiaes.
 
@@ -156,12 +154,12 @@ Só por decreto poderá ser suspensa a Faculdade ou cassado o seu título.
 
 § 4º Em igualdade de condições serão preferidos os bachareis ou doutores em direito.
 
-<strong>Art.</strong> 11. O Governo expedirá os estatutos e regulamentos precisos para a execução desta lei, consolidando as disposições das actuaes Instituições de ensino juridico, que continuarem em vigor.
+**Art.** 11. O Governo expedirá os estatutos e regulamentos precisos para a execução desta lei, consolidando as disposições das actuaes Instituições de ensino juridico, que continuarem em vigor.
 
-<strong>Art.</strong> 12. Revogam-se as disposições em contrario.
+**Art.** 12. Revogam-se as disposições em contrario.
 
 Capital Federal, 30 de outubro de 1895, 7º da Republica.
 
-<strong>PRUDENTE J. DE MORAES BARROS.</strong>
+**PRUDENTE J. DE MORAES BARROS.**
 
 Dr. Antonio Gonçalves Ferreira.

@@ -1,5 +1,3 @@
-###DEC-005231-0-000-06-10-2004@@@
-
 DECRETO Nº 5.231 DE 6 DE OUTUBRO DE 2004
 
 Dispõe sobre os princípios a serem observados pela administração pública federal na criação, organização e exploração de Terminais Pesqueiros Públicos.

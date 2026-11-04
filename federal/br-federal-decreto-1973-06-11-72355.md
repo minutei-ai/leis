@@ -1,5 +1,3 @@
-###DEC-072355-0-000-11-06-1973@@@
-
 Decreto nº 72.355, de 11 de junho de 1973.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

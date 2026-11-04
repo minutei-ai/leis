@@ -1,5 +1,3 @@
-###DEC-080791-0-000-22-11-1977@@@
-
 Decreto nº 80.791, de 22 de novembro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à ampliação da vila residencial da Central Nuclear Almirante Álvaro Alberto, de FURNAS - Centrais Elétricas S.A., nos Municípios de Angra dos Reis e Parati, no Estado do Rio de Janeiro.

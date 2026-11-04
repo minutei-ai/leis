@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49576)
-
 # LEI Nº 11.681, DE 19 DE FEVEREIRO DE 2004
 
 ## ( PL 720/2003 - Gilson de Souza)

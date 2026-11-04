@@ -1,5 +1,3 @@
-###DEC-058957-0-000-01-08-1966@@@
-
 Decreto nº 58.957, de 1º de Agôsto de 1966.
 
 Abre pelo Ministério das Minas e Energia o crédito especial de Cr$200.000.000 (duzentos milhões de cruzeiros), para o fim que específica.

@@ -1,5 +1,3 @@
-###DEC-072848-0-000-26-09-1973@@@
-
 DECRETO Nº 72.848, DE 26 DE SETEMBRO DE 1973.
 
 Altera o Decreto nº 65.878, de 16 de dezembro de 1969, que aprovou o enquadramento do pessoal do Ministério da Agricultura beneficiado pelo disposto no parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962.

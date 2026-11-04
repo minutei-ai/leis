@@ -1,5 +1,3 @@
-###DEC-088912-0-000-24-10-1983@@@
-
 DECRETO Nº 88.912, DE 24 DE OUTUBRO DE 1983.
 
 Aprova alteração no Estatuto da Companhia de Desenvolvimento do Vale do São Francisco-CODEVASF e dá outras providências.

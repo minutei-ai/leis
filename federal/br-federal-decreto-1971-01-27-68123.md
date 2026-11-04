@@ -1,5 +1,3 @@
-###DEC-068123-0-000-27-01-1971@@@
-
 DECRETO Nº 68.123, DE 27 DE JANEIRO DE 1971.
 
 Estabelece funções a serem exercidas pela Diretoria de Hidrografia e Navegação do Ministério da Marinha, como Instituição Nacional Designada junto à Comissão Oceanográfica Intergovernamental patrocinada pela UNESCO.

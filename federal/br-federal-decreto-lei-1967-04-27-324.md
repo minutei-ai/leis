@@ -1,5 +1,3 @@
-###DEL-000324-0-000-27-04-1967@@@
-
 DECRETO-LEI Nº 324, DE 27 DE ABRIL DE 1967
 
 Prorroga o prazo de aplicação do disposto no art. 1º do Decreto-lei número 100, de 10 de janeiro de 1967.

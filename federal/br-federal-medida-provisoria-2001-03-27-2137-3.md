@@ -1,5 +1,3 @@
-###MPV-002137-0-003-27-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.137-3, DE 27 DE MARÇO DE 2001
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

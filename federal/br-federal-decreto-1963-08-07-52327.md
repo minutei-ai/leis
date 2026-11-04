@@ -1,5 +1,3 @@
-###DEC-052327-0-000-07-08-1963@@@
-
 DECRETO Nº 52.327, de 7 de agôsto de 1963.
 
 Constitui Grupo de Trabalho para promover estudos e coordenar a execução de projetos de recuperação da área de alagados no Municípios de Recife, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-049042-0-000-05-10-1960@@@
-
 DECRETO Nº 49.042, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza a Companhia Brasileira de Alumínio a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

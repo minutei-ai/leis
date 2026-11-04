@@ -1,5 +1,3 @@
-###DEC-045021-0-000-04-12-1958@@@
-
 DECRETO Nº 45.021, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Companhia Geral de Eletricidade a construir uma linha de transmissão.

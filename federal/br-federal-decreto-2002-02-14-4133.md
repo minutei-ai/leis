@@ -1,5 +1,3 @@
-###DEC-004133-0-000-14-02-2002@@@
-
 DECRETO Nº 4.133, DE 14 DE FEVEREIRO DE 2002.
 
 Promulga o Acordo-Quadro de Cooperação Financeira entre a República Federativa do Brasil e o Banco Nórdico de Investimento, celebrado em Helsinki, em 17 de setembro de 1999.

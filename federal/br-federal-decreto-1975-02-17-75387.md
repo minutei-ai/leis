@@ -1,5 +1,3 @@
-###DEC-075387-0-000-17-02-1975@@@
-
 DECRETO nº 75.387, de 17 de Fevereiro de 1975.
 
 Autoriza a alienação de imóveis situado em Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-000153-0-000-25-06-1991@@@
-
 DECRETO N° 153, DE 25 DE JUNHO DE 1991
 
 Altera o Decreto n° 101, de 17 de abril de 1991, que “Regulamenta a Lei nº 8.167, de 16 de janeiro de 1991, que altera a legislação do Imposto sobre a Renda relativa a incentivos fiscais, estabelece novas condições operacionais dos Fundos de Investimentos Regionais e dá outras providências”.

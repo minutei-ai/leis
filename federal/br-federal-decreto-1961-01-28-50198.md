@@ -1,5 +1,3 @@
-###DEC-050198-0-000-28-01-1961@@@
-
 DECRETO Nº 50.198, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Globo do Norte Limitada para estabelecer uma estação de radiotelevisão.

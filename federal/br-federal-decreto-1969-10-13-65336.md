@@ -1,5 +1,3 @@
-###DEC-065336-0-000-13-10-1969@@@
-
 DECRETO Nº 65.336 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá entre Itaval - Itaperuna, Italva - Cambuci e Cambuci - Santo Antônio de Pádua, nos municípios de Campos, Itaperuna, Cambuci e Santo Antônio de Pádua, no Estado do Rio de Janeiro.

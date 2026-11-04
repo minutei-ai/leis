@@ -1,5 +1,3 @@
-###DEC-056500-0-000-23-06-1965@@@
-
 DECRETO Nº 56.500, DE 23 DE JUNHO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Ribeiro Chaves & Cia.”, de Aracaju (Se).
@@ -14,7 +12,137 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Ribeiro Chaves & Cia”, de Aracaju (Se):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FOB - US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Limpador ULTRA, tipo 520 com 41” fabricação de </span><span style="font-style:italic">Platt Bros</span><span>.(Sales) Limited - Oldham - Inglaterra), com 2 bocas de conexão às máquinas adjacentes e motor elétrico devidamente acoplado.........</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.240</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2. Conjunto de peças para modificação da caixa de reserva do batedor singelo (fabricação de Platt Bross (Sales) Limited Oldham - Inglaterra) .............................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.251</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3. Pente vibrador marca Spintex, para cordas, (fabricação dos Spintex Spinnerei Maschinenbau Stiehl, Fromn, Alemanha) compôsto de:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) caixa de movimento de pente ajustável para várias alturas;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) contra-mancal e eixo-pentes H B III;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>c) conjunto para 2.500 vibrações por minuto com 100 lâminas de pente avulsas p/ largura útil de 37/38” e 50 lâminas de pente p/ largura de 39/41”...................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>45</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.250</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>4. Aparelho para aspiração de fio rompido, com parada automática (fabricação de Ernes Jacobi &amp; Cia. KG - Amsburg - Alemanha para maçaroqueira .......................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10.770</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5. Voadores para maçaroqueira, de marca Record de até 12 x 5” (fabricação Spintex Spinner Maschinembau Stiehl - Alemanha) ........</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>600</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.333</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>6. Fusos da maçaroqueira, com diâmetro de ¾”, de aço (fabricação da Spintex Spinnerei Maschinenbau Stiehl – Fromm &amp; Co. Murrhardt – Alemanha ..........................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>700</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.321</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>7. Colares de fusos para maçaroqueiras, com diâmetro de ¾” (fabricação da Spintex Spinnerei Maschinenbau Stiehl From &amp; Co. Murrahardt – Alemanha) ......................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>500</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.581</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>8. Mancais de pé para maçaroqueira (fabricação da Spintex Spinnerei Maschinenbau Stiehl From &amp; Co. Murrahardt, Alemanha.....</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>228</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>9. Trem de alta estiragem UT3-E430 para filatórios, com lubrificação central, p/30 pontos e jôgo de ferramentas de ajustagem e calibragem (fabricação de Murttem Bregische Spindelfabrik Gmbh - Sussen – Alemanha) ............................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>17</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>58.651</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>10. Conjunto de peças para refôrma de 3 filatórios, num total de 1.020 fusos, (fabricação da Spindelfa Frik - Sussen - Alemanha)........</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.554</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>11. Conjunto de limpeza por meio de soprador viajante elétrico, automático, da marca W. Schlafhorst (fabricação da W. Schlafhorst &amp; Co. - Alemanha) a ser adaptada na espuladeira Schlafhorst ...............</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.747</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>12. Engomadeira de tambores, para fios da marca Sucker, modêlo ZTE, (fabricação da Gebr Sucker Ginbh - Alemannha), com 7 cilindros, largura de rolos de 1.600 mm e largura máxima do urdimento de 1.400 mm composta das seguintes partes:</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>a) estante para rolos, modêlo NB, para 12 rolos;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>b) cuba de goma, mod. LB XIV;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>c) secadeira, mod. ZT;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>d) enroladeira de rolos/tear, mod. DE;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>e) compensador de tensão automático;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>f) dispositivo de pressão hidráulica p/variar pressão entre O-300 kg;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>g) dispositivo automático, para movimentar o segundo rôlo de pressão;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>h) instalação de um Textometer (aparelho regulador de umidade);</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>i) autoclave para preparo de goma;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>j) contrôle de tempo de cozinhamento;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>k) dois cilindros de secagem com o revestimento Teflon;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>l) sobressalentes ..................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>55.500</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>13. Acessórios para teares “Draper Corporation – USA; incluindo diversas peças para maquinetas do mesmo fabricante .......................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.226</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>14. Máquina retificadora de Flatis da marca Dronsfield, fabricação da Dronsfield Brothers Limited - Oldham - Inglaterra, para 4 Flatts de cada vez com 40” de largura, testador de flats, mecanismo automático de partidas e paradas e acessórios ...................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.044</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>15. Máquina retificadora de rolinhos, da marca Dronsfield, fabricação da Dronsfield Brothers Limited Oldham - Inglaterra, para retificar rolinhos de pressão dos filatórios passadores, maçaroqueiras etc., com diâmetro mínimo de ¾” e máximo de 6”, com extensão máxima de 30”, com motores elétricos devidamente acoplados .......................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">3.991</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ..................................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>172.687</span></p></td></tr></tbody></table>
+Item - Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+FOB - US$
+
+1. Limpador ULTRA, tipo 520 com 41” fabricação de Platt Bros.(Sales) Limited - Oldham - Inglaterra), com 2 bocas de conexão às máquinas adjacentes e motor elétrico devidamente acoplado.........
+
+1
+
+3.240
+
+2. Conjunto de peças para modificação da caixa de reserva do batedor singelo (fabricação de Platt Bross (Sales) Limited Oldham - Inglaterra) .............................................................................................
+
+3
+
+3.251
+
+3. Pente vibrador marca Spintex, para cordas, (fabricação dos Spintex Spinnerei Maschinenbau Stiehl, Fromn, Alemanha) compôsto de:
+
+a) caixa de movimento de pente ajustável para várias alturas;
+
+b) contra-mancal e eixo-pentes H B III;
+
+c) conjunto para 2.500 vibrações por minuto com 100 lâminas de pente avulsas p/ largura útil de 37/38” e 50 lâminas de pente p/ largura de 39/41”...................................................................................
+
+45
+
+7.250
+
+4. Aparelho para aspiração de fio rompido, com parada automática (fabricação de Ernes Jacobi &amp; Cia. KG - Amsburg - Alemanha para maçaroqueira .......................................................................................
+
+8
+
+10.770
+
+5. Voadores para maçaroqueira, de marca Record de até 12 x 5” (fabricação Spintex Spinner Maschinembau Stiehl - Alemanha) ........
+
+600
+
+9.333
+
+6. Fusos da maçaroqueira, com diâmetro de ¾”, de aço (fabricação da Spintex Spinnerei Maschinenbau Stiehl – Fromm &amp; Co. Murrhardt – Alemanha ..........................................................................................
+
+700
+
+2.321
+
+7. Colares de fusos para maçaroqueiras, com diâmetro de ¾” (fabricação da Spintex Spinnerei Maschinenbau Stiehl From &amp; Co. Murrahardt – Alemanha) ......................................................................
+
+500
+
+1.581
+
+8. Mancais de pé para maçaroqueira (fabricação da Spintex Spinnerei Maschinenbau Stiehl From &amp; Co. Murrahardt, Alemanha.....
+
+400
+
+228
+
+9. Trem de alta estiragem UT3-E430 para filatórios, com lubrificação central, p/30 pontos e jôgo de ferramentas de ajustagem e calibragem (fabricação de Murttem Bregische Spindelfabrik Gmbh - Sussen – Alemanha) ............................................................................
+
+17
+
+58.651
+
+10. Conjunto de peças para refôrma de 3 filatórios, num total de 1.020 fusos, (fabricação da Spindelfa Frik - Sussen - Alemanha)........
+
+1
+
+7.554
+
+11. Conjunto de limpeza por meio de soprador viajante elétrico, automático, da marca W. Schlafhorst (fabricação da W. Schlafhorst &amp; Co. - Alemanha) a ser adaptada na espuladeira Schlafhorst ...............
+
+1
+
+1.747
+
+12. Engomadeira de tambores, para fios da marca Sucker, modêlo ZTE, (fabricação da Gebr Sucker Ginbh - Alemannha), com 7 cilindros, largura de rolos de 1.600 mm e largura máxima do urdimento de 1.400 mm composta das seguintes partes:
+
+a) estante para rolos, modêlo NB, para 12 rolos;
+
+b) cuba de goma, mod. LB XIV;
+
+c) secadeira, mod. ZT;
+
+d) enroladeira de rolos/tear, mod. DE;
+
+e) compensador de tensão automático;
+
+f) dispositivo de pressão hidráulica p/variar pressão entre O-300 kg;
+
+g) dispositivo automático, para movimentar o segundo rôlo de pressão;
+
+h) instalação de um Textometer (aparelho regulador de umidade);
+
+i) autoclave para preparo de goma;
+
+j) contrôle de tempo de cozinhamento;
+
+k) dois cilindros de secagem com o revestimento Teflon;
+
+l) sobressalentes ..................................................................................
+
+1
+
+55.500
+
+13. Acessórios para teares “Draper Corporation – USA; incluindo diversas peças para maquinetas do mesmo fabricante .......................
+
+-
+
+4.226
+
+14. Máquina retificadora de Flatis da marca Dronsfield, fabricação da Dronsfield Brothers Limited - Oldham - Inglaterra, para 4 Flatts de cada vez com 40” de largura, testador de flats, mecanismo automático de partidas e paradas e acessórios ...................................
+
+1
+
+3.044
+
+15. Máquina retificadora de rolinhos, da marca Dronsfield, fabricação da Dronsfield Brothers Limited Oldham - Inglaterra, para retificar rolinhos de pressão dos filatórios passadores, maçaroqueiras etc., com diâmetro mínimo de ¾” e máximo de 6”, com extensão máxima de 30”, com motores elétricos devidamente acoplados .......................
+
+1
+
+3.991
+
+TOTAL ..................................................................................................
+
+172.687
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifárico próprio, observando-se o disposto na Circular nº 16, de 26 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

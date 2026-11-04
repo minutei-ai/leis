@@ -1,5 +1,3 @@
-###DEC-054044-0-000-23-07-1964@@@
-
 DECRETO Nº 54.044, DE 23 DE JUlho DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal e Provisório do Serviço de Alimentação da Previdência Social, e dá outras providências.

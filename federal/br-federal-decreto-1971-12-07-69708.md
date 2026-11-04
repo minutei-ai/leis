@@ -1,5 +1,3 @@
-###DEC-069708-0-000-07-12-1971@@@
-
 decreto nº 69.708 - de 7 DE DEZEMBRO de 1971
 
 Declara sem efeito o Decreto nº32.586, de 16 de abril de 1953.

@@ -1,5 +1,3 @@
-###DEC-073739-0-000-06-03-1974@@@
-
 DECRETO Nº 73.739, DE 6 DE MARÇO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno rural, sem benfeitorias, situado na Fazenda Penhora, Município e Comarca de Casa Branca, Estado de São Paulo, destinado à construção de Estação-Rádio, pela Telecomunicações de São Paulo S.A . - TELESP.

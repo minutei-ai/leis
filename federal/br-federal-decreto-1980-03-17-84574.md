@@ -1,5 +1,3 @@
-###DEC-084574-0-000-17-03-1980@@@
-
 Decreto nº 84.574, de 17 de março de 1980.
 
 Cria a Embaixada do Brasil na República Popular do Congo.

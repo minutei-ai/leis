@@ -1,5 +1,3 @@
-###DEL-006701-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.701 – DE 17 DE JULHO DE 1944
 
 Reorganiza o Serviço de Estatística da Previdência e Trabalho e dá outras providências

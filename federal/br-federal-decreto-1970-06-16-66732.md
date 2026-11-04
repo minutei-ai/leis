@@ -1,5 +1,3 @@
-###DEC-066732-0-000-16-06-1970@@@
-
 DECRETO Nº 66.732, DE 16 DE JUNHO DE 1970.
 
 Aprova o Plano Nacional de Informações e dá outras providências.

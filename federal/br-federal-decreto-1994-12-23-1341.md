@@ -1,7 +1,3 @@
-1
-
-###DEC-001341-0-000-23-12-1994@@@
-
 # DECRETO Nº 1.341, DE 23 DE DEZEMBRO DE 1994
 
 Fixa os percentuais de Capitães‑de‑Mar‑e‑Guerra dos diversos Corpos e quadros de carreira da Marinha, que deverão ser considerados não‑nunerados por estarem definitivamente impossibilitados de acesso ao primeiro posto de Oficial‑General.

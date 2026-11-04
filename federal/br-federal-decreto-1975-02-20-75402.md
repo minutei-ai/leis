@@ -1,5 +1,3 @@
-###DEC-075402-0-000-20-02-1975@@@
-
 DECRETO Nº 75.402, DE 20 DE FEVEREIRO DE 1975.
 
 Altera dispositivo do Decreto número 75.204, de 9 de janeiro de 1975, que cria a Comissão Nacional da Indústria da Construção Civil, junto ao Ministério da Indústria e do Comércio.

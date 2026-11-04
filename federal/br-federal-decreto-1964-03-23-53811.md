@@ -1,5 +1,3 @@
-###DEC-053811-0-000-23-03-1964@@@
-
 DECRETO Nº 53.811, DE 23 DE MARÇO DE 1964.
 
 Renova o Decreto nº 46.297, de 29 de junho de 1959.

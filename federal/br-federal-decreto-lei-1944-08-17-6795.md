@@ -1,5 +1,3 @@
-###DEL-006795-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.795 – DE 17 DE AGÔSTO DE 1944
 
 Cria, no Exército, as condecorações denominadas Medalha de Guerra, Medalha de Campanha e Cruz de Combate

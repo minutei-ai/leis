@@ -1,6 +1,7 @@
 LEI Nº 12.356 DE 22 DE SETEMBRO DE 2011
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 17.379, de 01 de fevereiro de 2017 - Altera a composição do Conselho Deliberativo do Fundo de Promoção do Trabalho Decente - FUNTRAD, vinculado à Secretaria do Trabalho, Emprego, Renda e Esporte - SETRE. 
 
 Institui o Fundo de Promoção do Trabalho Decente - FUNTRAD, e dá outras providências.
@@ -23,11 +24,16 @@ IV - outras receitas a serem definidas em lei específica;
 
 V - outros recursos que lhe sejam destinados.
 
-Redação de acordo com a Lei nº 12.596, de 05 de outubro de 2012.<br>
-Redação original: "Art. 2º - Constituirão receitas do Fundo:<br>
-I - dotações consignadas no Orçamento Fiscal do Estado;<br>
-II - auxílios, subvenções e outras contribuições de entidades públicas ou privadas, nacionais ou estrangeiras;<br>
-III - doações e legados;<br>
+Redação de acordo com a Lei nº 12.596, de 05 de outubro de 2012.
+
+Redação original: "Art. 2º - Constituirão receitas do Fundo:
+
+I - dotações consignadas no Orçamento Fiscal do Estado;
+
+II - auxílios, subvenções e outras contribuições de entidades públicas ou privadas, nacionais ou estrangeiras;
+
+III - doações e legados;
+
 IV - outras receitas, a serem definidas na regulamentação do referido Fundo." 
 
 Art. 3º - A gestão do FUNTRAD ficará a cargo de seu Conselho Deliberativo, que terá a seguinte composição:

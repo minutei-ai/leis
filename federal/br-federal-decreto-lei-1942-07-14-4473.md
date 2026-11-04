@@ -1,5 +1,3 @@
-###DEL-004473-0-000-14-07-1942@@@
-
 DECRETO-LEI N. 4.473 – DE 14 DE JULHO DE 1942
 
 Cria uma Tesouraria no Departamento de Administração do Ministério da Justiça e Negócios anteriores e dá outras providências

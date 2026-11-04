@@ -1,5 +1,3 @@
-###DEC-060684-0-000-05-05-1967@@@
-
 Decreto nº 60.684, de 5 de maio de 1967.
 
 Provê sôbre concursos de pessoal docente de nível superior.

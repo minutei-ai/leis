@@ -1,5 +1,3 @@
-###DEL-001286-0-000-19-05-1939@@@
-
 DECRETO-LEI N. 1.280 – de 19 DE MAIO DE 1939
 
 Incorpora a Biblioteca da Marinha à Divisão de História Marítima do Brasil

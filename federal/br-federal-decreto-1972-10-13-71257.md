@@ -1,5 +1,3 @@
-###DEC-071257-0-000-13-10-1972@@@
-
 DECRETO Nº 71.257, de 13 DE OUTUBRO DE 1972.
 
 Inclui um cargo de Assistente de Ensino Superior no Decreto nº 51.385, de 04 janeiro de 1962, e dá outras providências.

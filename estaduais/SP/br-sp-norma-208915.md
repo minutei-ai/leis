@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208915)<br>
-
 # DECRETO N° 68.186, DE 11 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a concessão de abono complementar aos servidores do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, na forma que especifica, em cumprimento ao estabelecido na Lei Federal n° 11.738, de 16 de julho de 2008_

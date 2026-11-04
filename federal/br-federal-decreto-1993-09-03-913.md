@@ -1,7 +1,3 @@
-1
-
-###DEC-000913-0-000-03-09-1993@@@
-
 DECRETO Nº 913, DE 3 DE SETEMBRO DE 1993
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 11, entre Brasil e Equador, de 04/05/1993.

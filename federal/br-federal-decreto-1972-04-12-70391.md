@@ -1,5 +1,3 @@
-###DEC-070391-0-000-12-04-1972@@@
-
 decreto nº 70.391, de 12 de abril de 1972.
 
 Promulga a Convenção sobre Igualdade de Direitos e Deveres entre Brasileiros e Portugueses.

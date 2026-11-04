@@ -1,5 +1,3 @@
-###DEC-007082-0-000-27-01-2010@@@
-
 DECRETO Nº 7.082, DE 27 DE JANEIRO DE 2010.
 
 Institui o Programa Nacional de Reestruturação dos Hospitais Universitários Federais- REHUF, dispõe sobre o financiamento compartilhado dos hospitais universitários federais entre as áreas da educação e da saúde e disciplina o regime da pactuação global com esses hospitais.

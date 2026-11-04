@@ -1,5 +1,3 @@
-###DEC-078233-0-000-12-08-1976@@@
-
 DECRETO Nº 78.233, DE 12 DE AGOSTO DE 1976.
 
 Declara cessação de privilégio e outorga à S.A. Curtume Santa Luzia, concessão para o uso exclusivo de um trecho do Córrego Bração, no Estado de Minas Gerais.

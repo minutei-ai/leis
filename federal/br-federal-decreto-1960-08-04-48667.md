@@ -1,5 +1,3 @@
-###DEC-048667-0-000-04-08-1960@@@
-
 DECRETO N. 48.667 – DE 4 DE AGÔSTO DE 1960
 
 Autoriza Accacio Verdi a comprar pedras preciosas.

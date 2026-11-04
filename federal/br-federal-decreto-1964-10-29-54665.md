@@ -1,5 +1,3 @@
-###DEC-054665-0-000-29-10-1964@@@
-
 DECRETO Nº 54.665, DE 29 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública a Misericórdia Botucatuense, com sede em Botucatu, Estado de São Paulo.

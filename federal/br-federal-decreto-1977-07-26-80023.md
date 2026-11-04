@@ -1,5 +1,3 @@
-###DEC-080023-0-000-26-07-1977@@@
-
 Decreto nº 80.023, de 26 de julho de 1977
 
 Concede reconhecimento ao curso de Ciências Econômicas, da Faculdade de Administração e Finanças do Norte de Minas, com sede na cidade de Montes Claros, Estado de Minas Gerais.

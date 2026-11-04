@@ -1,5 +1,3 @@
-###DEC-046504-0-000-20-07-1959@@@
-
 decreto nº 46.504, de 20 de julho de 1959.
 
 Transfere de Edmundo de Souza Franco para a Companhia Luz e Fôrça Ipuiuna S.A. a concessão para a produção e fornecimentos de energia elétrica no distrito de Ipuiuna, Município de Santa Rita de Caldas, Estado de Minas Gerais.

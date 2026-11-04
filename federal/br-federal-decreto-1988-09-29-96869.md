@@ -1,5 +1,3 @@
-###DEC-096869-0-000-29-09-1988@@@
-
 DECRETO N° 96.869, DE 29 DE SETEMBRO DE 1988
 
 Renova concessão outorgada a RÁDIO ARAGUAIA LTDA., para explorar serviço de ra­diodifusão sonora em onda tropical, na Cidade de Araguaina, Estado de Goiás.

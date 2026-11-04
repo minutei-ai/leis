@@ -1,5 +1,3 @@
-###DEC-078392-0-000-09-09-1976@@@
-
 Decreto nº 78.392, de 9 de setembro de 1976.
 
 Denomina Comissão Desportiva Militar do Brasil (CDMB) atual Comissão Desportiva das Forças Armadas (CDFA), dispõe sobre suas constituição e atribuições, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080249-0-000-30-08-1977@@@
-
 Decreto nº 80.249, de 30 de agosto de 1977.
 
 Concede à "CECRISA" - Cerâmica Criciúma S. A. o direito de lavrar caulim no Município de Treze de Maio, Estado de Santa Catarina.

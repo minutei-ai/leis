@@ -1,14 +1,12 @@
-###DEC-063725-0-000-04-12-1968@@@
+**DECRETO Nº 63.725, DE 4 DE DEZEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.725, DE 4 DE DEZEMBRO DE 1968.</strong>
+***Altera o Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovação pelo Decreto nº 60.433, de 13 de março de 1967.***
 
-<em><strong>Altera o Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovação pelo Decreto nº 60.433, de 13 de março de 1967.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, inciso II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, inciso II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os incisos XI e XII do artigo 5º; os artigos 15 e 16; o § 2º do art. 22; os § 4º e 5º do art. 32; o § 3º do art. 42; o art. 45 (<em>caput</em>); o § 3º do art. 48; o art. 51 (<em>caput</em>); o art. 63 (<em>caput</em>); os artigos 68, 70, 71 (<em>caput</em>) e 73; o inciso I do art. 84; os §§ 1º e 2º do art. 100; o art. 102 e seus §§ 1º e 2º; o § 2º do art. 103; o § 1º do art. 107; a letra <em>c</em> do artigo 110; o § 1º do art. 119; os incisos II, III e IV do art. 120; os incisos IV, V e VI do art. 121; o art. 122; o parágrafo único do art. 166; os §§ 1º e 2º do art. 167; o art. 168 e seu parágrafo único e o art. 175 do Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto nº 60.433, de 13 de março de 1967, passam a vigorar com a seguinte redação:
+**Art**. 1º Os incisos XI e XII do artigo 5º; os artigos 15 e 16; o § 2º do art. 22; os § 4º e 5º do art. 32; o § 3º do art. 42; o art. 45 (*caput*); o § 3º do art. 48; o art. 51 (*caput*); o art. 63 (*caput*); os artigos 68, 70, 71 (*caput*) e 73; o inciso I do art. 84; os §§ 1º e 2º do art. 100; o art. 102 e seus §§ 1º e 2º; o § 2º do art. 103; o § 1º do art. 107; a letra *c* do artigo 110; o § 1º do art. 119; os incisos II, III e IV do art. 120; os incisos IV, V e VI do art. 121; o art. 122; o parágrafo único do art. 166; os §§ 1º e 2º do art. 167; o art. 168 e seu parágrafo único e o art. 175 do Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto nº 60.433, de 13 de março de 1967, passam a vigorar com a seguinte redação:
 
 “Art. 5º .................................................................................................................................
 
@@ -100,7 +98,7 @@ b) Aptidão média na graduação - quatro vírgula cinco (4,5) pontos (Excelent
 
 Art. 84 ....................................................................................................................................
 
-I - “<em>ex</em> <em>officio</em>”, quando a preterição tiver decorrido exclusivamente de impedimento de acesso conforme o Art. 82 Inciso I dêste Regulamento, desde que a praça não tenha sido condenado no processo a que respondeu ou punida disciplinarmente em virtude de Inquérito, ou, se punida, a punição não impedir, na época da preterição, o acesso à graduação superior.
+I - “*exofficio*”, quando a preterição tiver decorrido exclusivamente de impedimento de acesso conforme o Art. 82 Inciso I dêste Regulamento, desde que a praça não tenha sido condenado no processo a que respondeu ou punida disciplinarmente em virtude de Inquérito, ou, se punida, a punição não impedir, na época da preterição, o acesso à graduação superior.
 
 ..........................................................................................................................................................
 
@@ -180,7 +178,7 @@ Parágrafo único. Os Cabos que, à data da entrada em vigor dêste Regulamento,
 
 Art. 175. Para efeitos do § 2º do art. 75 e do art. 122 dêste Regulamento haverá um prazo de carência de cinco (5) anos, nos quais o Ministro da Marinha, por proposta do Diretor-Geral do Pessoal da Marinha, baixará Instruções para aplicação parcelada da compulsória, de modo que, no fim desse período, seja mantida a velocidade de carreira prevista nos referidos artigos”.
 
-<strong>Art</strong>. 2º Ficam acrescentados aos artigos 18. 64 e 75, respectivamente, do Regulamento parra o Corpo de Pessoal Subalterno da Armada, aprovação pelo Decreto nº 60.433, de 13 de março de 1967, mais um parágrafo, com a seguinte redação:
+**Art**. 2º Ficam acrescentados aos artigos 18. 64 e 75, respectivamente, do Regulamento parra o Corpo de Pessoal Subalterno da Armada, aprovação pelo Decreto nº 60.433, de 13 de março de 1967, mais um parágrafo, com a seguinte redação:
 
 “Art. 18 ...................................................................................................................................
 
@@ -200,10 +198,10 @@ Art. 75 ........................................................................
 
 § 3º As promoções das praças readmitidas serão reguladas pelos mesmos requisitos previstos para as demais praças do CPSA”.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 4 de Dezembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Augusto Hamann Rademacker Grünewald

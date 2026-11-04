@@ -1,5 +1,3 @@
-###DEC-006459-0-000-19-05-2008@@@
-
 DECRETO Nº 6.459, DE 19 DE MAIO DE 2008.
 
 Dá nova redação ao inciso V do art. 4o do Decreto no no 6.025, de 22 de janeiro de 2007, que institui o Programa de Aceleração do Crescimento - PAC para alterar a composição do Grupo Executivo do Programa de Aceleração do Crescimento - GEPAC.

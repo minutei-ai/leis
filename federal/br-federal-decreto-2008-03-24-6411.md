@@ -1,5 +1,3 @@
-###DEC-006411-0-000-24-03-2008@@@
-
 DECRETO Nº 6.411, DE 24 DE MARÇO DE 2008.
 
 Promulga o Acordo sobre Cooperação em Assuntos Relacionados à Defesa entre o Governo da República Federativa do Brasil e o Governo da República da Turquia, celebrado em Brasília, em 14 de agosto de 2003.
@@ -22,11 +20,7 @@ Brasília, 24 de março de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 25.3.2008
-
-ACORDO SOBRE COOPERAÇÃO EM ASSUNTOS RELACIONADOS A DEFESA
+Samuel Pinheiro Guimarães NetoACORDO SOBRE COOPERAÇÃO EM ASSUNTOS RELACIONADOS A DEFESA
 
 ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 

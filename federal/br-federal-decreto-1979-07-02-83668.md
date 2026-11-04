@@ -1,5 +1,3 @@
-###DEC-083668-0-000-02-07-1979@@@
-
 Decreto nº 83.668, de 02 de julho de 1979
 
 Autoriza o funcionamento do curso de Ciências, da Faculdade de Filosofia, Ciências e Letras Professor Carlos Pasquale, com sede na cidade de São Paulo, Estado de São Paulo.

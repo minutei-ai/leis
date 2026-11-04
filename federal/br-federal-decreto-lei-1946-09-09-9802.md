@@ -1,5 +1,3 @@
-###DEL-009802-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.802 – DE 9 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 50.000,00, para aquisição de automóvel, e dá outras providências.

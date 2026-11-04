@@ -1,5 +1,3 @@
-###DEC-096202-0-000-22-06-1988@@@
-
 DECRETO N° 96.202, DE 22 DE JUNHO DE 1988
 
 Autoriza o aumento de potência da RÁDIO VITÓRIA LTDA., na cidade de Vitória, Estado do Espírito Santo.

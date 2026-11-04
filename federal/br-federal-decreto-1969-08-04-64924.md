@@ -1,5 +1,3 @@
-###DEC-064924-0-000-04-08-1969@@@
-
 DECRETO Nº 64.924, DE 4 DE AGÔSTO DE 1969.
 
 Dispõe sôbre a estrutura da Secretaria Geral do Ministério do Trabalho e Previdência Social.

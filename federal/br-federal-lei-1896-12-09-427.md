@@ -1,22 +1,20 @@
-###LEI-000427-0-000-09-12-1896@@@
+**LEI N. 427 – DE 9 DE DEZEMBRO DE 1896**
 
-<strong>LEI N. 427 – DE 9 DE DEZEMBRO DE 1896</strong>
-
-<em><strong>Determina que o Thesouro assuma a responsabilidade exclusiva dos bilhetes bancarios actualmente em circulação e regula a substituição dos mesmos e o resgate do papel-moeda.</strong></em>
+***Determina que o Thesouro assuma a responsabilidade exclusiva dos bilhetes bancarios actualmente em circulação e regula a substituição dos mesmos e o resgate do papel-moeda.***
 
 O Vice-Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decretou e eu sancciono a seguinte lei:
 
-<strong>Art.</strong> 1º Fica o Governo autorisado a assumir a responsabilidade exclusiva dos bilhetes bancarios actualmente em circulação, passando a pertencer-lhe os lastros depositados em garantia dos mesmos bilhetes, e revogado o art. 6º da lei n. 183 C, de 23 de setembro de 1893.
+**Art.** 1º Fica o Governo autorisado a assumir a responsabilidade exclusiva dos bilhetes bancarios actualmente em circulação, passando a pertencer-lhe os lastros depositados em garantia dos mesmos bilhetes, e revogado o art. 6º da lei n. 183 C, de 23 de setembro de 1893.
 
 § 1º Realizada a encampação, fica extincta a faculdade emissora concedida a instituições bancarias por leis anteriores e concentrada no Banco da Republica do Brazil, e bem assim o direito exclusivo de emissão de notas ao portador, conferido ao mesmo banco pelo art. 15 da citada lei.
 
 § 2º O Governo substituirá tambem os bilhetes bancarios, ora em circulação, por notas do Thesouro Nacional. Pelas mesmas notas serão substituidos, á procuração que forem recebidos nas estações publicas, os bonus do Banco da Republica, cuja emissão fica estrictamente limitada á somma já realizada de 80.000:000$000.
 
-<strong>Art.</strong> 2º Fica o Governo autorisado a entrar em accordo com o banco para a reducção ou liquidação de seu debito, podendo adquirir, por encontro de contas, bens e propriedades que possam ser uteis ao serviço publico, dando-lhe prazo razoavel; e para a revisão de seus estatutos, pondo-os de accordo com o regimen da presente lei, e fazendo nelles as modificações que julgar convenientes.
+**Art.** 2º Fica o Governo autorisado a entrar em accordo com o banco para a reducção ou liquidação de seu debito, podendo adquirir, por encontro de contas, bens e propriedades que possam ser uteis ao serviço publico, dando-lhe prazo razoavel; e para a revisão de seus estatutos, pondo-os de accordo com o regimen da presente lei, e fazendo nelles as modificações que julgar convenientes.
 
-<strong>Art.</strong> 3º O Governo procederá gradualmente ao resgate do papel-moeda com os seguintes recursos:
+**Art.** 3º O Governo procederá gradualmente ao resgate do papel-moeda com os seguintes recursos:
 
 a) producto da venda de um terço, pelo menos, das apolices actualmente existentes no Thesouro, provenientes de lastros das emissões bancarias;
 
@@ -24,7 +22,7 @@ b) prestações com que o Banco da Republica entrar para o pagamento de sua divi
 
 c) saldos que se verificarem annualmente no orçamento.
 
-<strong>Art.</strong> 4º Para o fim do resgate do papel-moeda, de conformidade com a lei de 11 de setembro de 1846, e bem assim para attender ao resgate da divida externa e melhorar a situação financeira, é o Governo autorisado a arrendar, mediante concurrencia publica, as estradas de ferro da União, devendo attender:
+**Art.** 4º Para o fim do resgate do papel-moeda, de conformidade com a lei de 11 de setembro de 1846, e bem assim para attender ao resgate da divida externa e melhorar a situação financeira, é o Governo autorisado a arrendar, mediante concurrencia publica, as estradas de ferro da União, devendo attender:
 
 1º, ao prazo de arrendamento e ás condições do pessoal;
 
@@ -42,13 +40,13 @@ Nestas concessões deverá ainda o Governo attender á uniformisação de bitola
 
 7º, á caução para garantia da execução do contracto, ás multas em caso de infracção, aos casos de rescisão e ao direito de encampação por parte da União, antes do termo do arrendamento.
 
-<strong>Art.</strong> 5º E’ o Governo autorisado, uma vez realizada a operação do arrendamento, a cobrar integralmente ou em parte, em ouro, ao cambio do dia, os direitos de importação.
+**Art.** 5º E’ o Governo autorisado, uma vez realizada a operação do arrendamento, a cobrar integralmente ou em parte, em ouro, ao cambio do dia, os direitos de importação.
 
-<strong>Art.</strong> 6º São revogadas as disposições em contrario.
+**Art.** 6º São revogadas as disposições em contrario.
 
 Capital Federal, 9 de dezembro de 1896, 8º da Republica.
 
-<strong>MANOEL VICTORINO PEREIRA.</strong>
+**MANOEL VICTORINO PEREIRA.**
 
 Bernardino de Campos.
 

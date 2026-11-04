@@ -1,5 +1,3 @@
-###DEC-005412-0-000-06-04-2005@@@
-
 DECRETO Nº 5.412 DE 6 DE ABRIL DE 2005
 
 Regulamenta a Medida Provisória nº 246, de 6 de abril de 2005, que dispõe sobre a reestruturação do setor ferroviário e o término do processo de liquidação da Rede Ferroviária Federal S.A. - RFFSA, altera dispositivos das Leis nºs 10.233, de 5 de junho de 2001, e 11.046, de 27 de dezembro de 2004, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092012-0-000-28-11-1985@@@
-
 decreto nº 92.012, de 28 de novembro de 1985.
 
 Declara de interesse social, para fins de desapropriação, objetivando a reforma agrária, o imóvel rural denominado "Fazenda Capetinga", constituído dos lotes 54 e 63, situado na Gleba Nova Glória, Município de Redenção, Estado do Pará, compreendido na zona prioritária de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, 85.075, de 27 de agosto de 1980, 87.095, de 16 de abril de 1982 e 91.912, de 12 de novembro de 1985.

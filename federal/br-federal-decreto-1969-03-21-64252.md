@@ -1,5 +1,3 @@
-###DEC-064252-0-000-21-03-1969@@@
-
 DECRETO Nº 64.252, DE 21 DE MARÇO DE 1969.
 
 Declara caduco o Decreto nº 8.533, de 14 de janeiro de 1942.

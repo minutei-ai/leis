@@ -1,5 +1,3 @@
-###DEC-083368-0-000-25-04-1979@@@
-
 DECRETO Nº 83.368, DE 25 DE ABRIL DE 1979.
 
 Concede reconhecimento ao curso de Pedagogia da Universidade Mackenzie, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-095183-0-000-10-11-1987@@@
-
 DECRETO N° 95.183, DE 10 DE NOVEMBRO DE 1987
 
 Institui o "Ano Nacional da Pequena e Média Empresa Brasileira", e dá outras providências.

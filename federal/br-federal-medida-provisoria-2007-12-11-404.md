@@ -1,5 +1,3 @@
-###MPV-000404-0-000-11-12-2007@@@
-
 MEDIDA PROVISÓRIA Nº 404, DE 11 DE DEZEMBRO DE 2007.
 
 Altera o art. 41-A da Lei no 8.213, de 24 de julho de 1991, modificando a data de pagamento dos benefícios da previdência social.
@@ -29,5 +27,3 @@ Altera o art. 41-A da Lei no 8.213, de 24 de julho de 1991, modificando a data d
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 12.12.2007

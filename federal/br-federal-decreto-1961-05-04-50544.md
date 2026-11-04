@@ -1,5 +1,3 @@
-###DEC-050544-0-000-04-05-1961@@@
-
 DECRETO Nº 50.544, DE 4 DE MAIO DE 1961.
 
 Dispõe sôbre a execução dos programas assistenciais da Campanha Nacional de Merenda Escolar e dá outras providências.

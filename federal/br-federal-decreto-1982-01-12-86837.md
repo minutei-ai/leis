@@ -1,5 +1,3 @@
-###DEC-086837-0-000-12-01-1982@@@
-
 Decreto nº 86.837, de 12 de janeiro de 1982
 
 Autoriza o aumento de potência da RÁDIO JORNAL DE ITAPETINGA na cidade de Itapetinga, Estado da Bahia.

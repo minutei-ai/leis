@@ -1,5 +1,3 @@
-###DEC-073395-0-000-31-12-1973@@@
-
 DECRETO Nº 73.395 - DE 31 DE DEZEMBRO DE 1973
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras de Apucarana, mentida pela Associação Paranaense de Escolas Superiores, com sede na cidade de Apucarana, Estado do Paraná.

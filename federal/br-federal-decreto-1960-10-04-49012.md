@@ -1,5 +1,3 @@
-###DEC-049012-0-000-04-10-1960@@@
-
 DECRETO Nº 49.012, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza a Companhia de Pesquisas e Lavras Minerais “Copelmi” a lavrar carvão mineral no município de Bom Jesus do Triunfo, Estado do Rio G. do Sul.

@@ -1,5 +1,3 @@
-###DEC-083620-0-000-26-06-1979@@@
-
 DECRETO Nº 83.620, DE 26 DE JUNHO DE 1979.
 
 Revoga o decreto nº 74.223, de 26 de junho de 1974, que concedeu à FÁBRICA DE CELULOSE E PAPEL S/A, do Munícipio de Canela, no Estado do Rio Grande do Sul, permissão para trabalhar ininterruptamente, nos domingos e dias feriados civis e religiosos.

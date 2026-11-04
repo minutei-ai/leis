@@ -1,5 +1,3 @@
-###DEC-054014-0-000-10-07-1964@@@
-
 Decreto nº 54.014, de 10 de julho de 1964.
 
 Dispõe sôbre novas redações dadas ao art. 7º e seu parágrafo único e ao art. 29 do Decreto nº 53.153, de 10 de dezembro de 1963, que aprovou o regulamento do Salário-Família do Trabalhador, instituído pela Lei número 4.266, de 3 de outubro de 1963, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091108-0-000-12-03-1985@@@
-
 Decreto nº 91.108, de 12 de março de 1985
 
 Declara de utilidade pública as instituições que menciona.

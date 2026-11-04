@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188462)
-
 # DECRETO Nº 63.845, DE 26 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS INTEGRADAS DO OESTE S.A.-SPVIAS, o imóvel necessário às obras de implantação da Praça de Pedágio, localizado no km 135+300m (antigo km 135+000m) da Rodovia Raposo Tavares, SP 270, Município de Sarapuí, Comarca de Itapetininga, no trecho que especifica e dá providências correlatas_

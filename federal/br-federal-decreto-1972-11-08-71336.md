@@ -1,5 +1,3 @@
-###DEC-071336-0-000-08-11-1972@@@
-
 DECRETO Nº 71.336 - DE 8 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento ao Curso de Biblioteconomia da Universidade de Brasília.

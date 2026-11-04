@@ -1,5 +1,3 @@
-###DEC-000000-0-079-13-10-1822@@@
-
 Decreto - de 13 de outubro de 1822
 
 Manda que se use nos Tribunaes e mais repartições publicas do titulo de Magestade Imperial.

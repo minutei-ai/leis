@@ -1,5 +1,3 @@
-###DEC-053246-0-000-12-12-1963@@@
-
 DECRETO Nº 53.246, DE 12 DE DEZEMBRO DE 1963
 
 Autoriza o cidadão brasileiro José Neves Ferreira a pesquisar quartzo e mica no município de Santa Maria do Guaçui, Estado de Minas Gerais.

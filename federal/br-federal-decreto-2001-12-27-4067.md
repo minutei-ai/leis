@@ -1,5 +1,3 @@
-###DEC-004067-0-000-27-12-2001@@@
-
 DECRETO Nº 4.067, DE 27 DE DEZEMBRO DE 2001.
 
 Acresce parágrafo único ao art. 2o do Decreto no 3.371, de 24 de fevereiro de 2000, que institui, no âmbito do Ministério de Minas e Energia, o Programa Prioritário de Termeletricidade.

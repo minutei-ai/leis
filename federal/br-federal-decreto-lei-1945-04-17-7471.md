@@ -1,5 +1,3 @@
-###DEL-007471-0-000-17-04-1945@@@
-
 DECRETO-LEI N. 7.471 – DE 17 DE ABRIL DE 1945
 
 Considera data de comemoração cívica nacional o dia 20 de abril de 1945; em que se completará o 1º Centenário do nascimento de José Maria da Silva Paranhos, Barão do Rio Branco.

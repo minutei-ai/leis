@@ -1,5 +1,3 @@
-###DEC-047483-0-000-24-12-1959@@@
-
 DECRETO Nº 47.483, DE 24 DE Dezembro DE 1959.
 
 Altera o Estatuto da Universidade do Pará.

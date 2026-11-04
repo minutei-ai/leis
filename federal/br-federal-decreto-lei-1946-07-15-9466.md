@@ -1,5 +1,3 @@
-###DEL-009466-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.466 –  15 DE JULHO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 4.933,30, para pagamento de gratificação de magistério.

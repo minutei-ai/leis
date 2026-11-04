@@ -1,5 +1,3 @@
-###DEC-051279-0-000-25-08-1961@@@
-
 DECRETO Nº 51.279, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o Ministério da Aeronáutica a ceder gratuitamente à Escola de Aperfeiçoamento e Preparação da Aeronáutica Civil, sediada no Estado da Guanabara os terrenos que menciona.

@@ -1,5 +1,3 @@
-###DEC-052451-0-000-06-09-1963@@@
-
 DECRETO Nº 52.451, DE 6 DE SETEMBRO DE 1963.
 
 Declara de utilidade pública a Associação do Hospital de Agudos, com sede em Agudos, Estado de São Paulo.

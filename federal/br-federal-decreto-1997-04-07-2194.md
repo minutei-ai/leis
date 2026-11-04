@@ -1,5 +1,3 @@
-###DEC-002194-0-000-07-04-1997@@@
-
 DECRETO Nº 2.194, DE 7 DE ABRIL DE 1997
 
 Dispõe sobre adoção de providencias a fim de que órgãos do Ministério da Fazenda abstenham-se de cobrar créditos tributários baseados em lei, tratado ou ato normativo federal, declarado inconstitucional por decisão definitiva do Supremo Tribunal Federal.

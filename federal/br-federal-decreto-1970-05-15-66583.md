@@ -1,5 +1,3 @@
-###DEC-066583-0-000-15-05-1970@@@
-
 DECRETO Nº 66.583, DE 15 DE MAIO DE 1970.
 
 Concede autorização à firma Zapata Marine Service Ltda. para substituir a embarcação M/V "Sampson Service" pelo barco S/T "Cape Shore" na operação de que trata o Decreto nº 66.077, de 15-1-1970.

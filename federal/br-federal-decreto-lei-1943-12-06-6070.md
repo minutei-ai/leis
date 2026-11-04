@@ -1,5 +1,3 @@
-###DEL-006070-0-000-06-12-1943@@@
-
 DECRETO‑LEI N. 6.070 – DE 6 DE DEZEMBRO DE 1943
 
 Cria o 2º Regimento de Obuzes Auto‑Rebocado

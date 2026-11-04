@@ -1,5 +1,3 @@
-###DEC-097265-0-000-16-12-1988@@@
-
 DECRETO N° 97.265, DE 16 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, situados no Município de São Mateus do Sul, no Estado do Paraná.

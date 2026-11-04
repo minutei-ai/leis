@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208629)<br>
-
 # DECRETO N° 68.000, DE 05 DE OUTUBRO DE 2023
 
 ### _Institui, junto à Secretaria de Turismo e Viagens, o Programa "Creditur SP" e dá providências correlatas._

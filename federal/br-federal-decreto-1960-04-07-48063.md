@@ -1,5 +1,3 @@
-###DEC-048063-0-000-07-04-1960@@@
-
 DECRETO Nº 48.063, DE 7 DE ABRIL DE 1960.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços e dá outras Providências.

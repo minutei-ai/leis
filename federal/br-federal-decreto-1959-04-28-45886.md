@@ -1,5 +1,3 @@
-###DEC-045886-0-000-28-04-1959@@@
-
 DECRETO Nº 45.886, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Renato Viana Perdigão a pesquisar areias ilmenitícas no município de Tutóia, Estado do Maranhão.

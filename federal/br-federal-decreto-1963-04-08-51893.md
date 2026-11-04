@@ -1,5 +1,3 @@
-###DEC-051893-0-000-08-04-1963@@@
-
 DECRETO Nº 51.893, DE 8 DE ABRIL DE 1963.
 
 Regulamento a concessão do abono previsto no art. 18 da Lei nº 4.069, de 11 de junho de 1962, na parte referente aos servidores civis.

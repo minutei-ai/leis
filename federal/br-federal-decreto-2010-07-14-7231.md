@@ -1,5 +1,3 @@
-###DEC-007231-0-000-14-07-2010@@@
-
 DECRETO Nº 7.231, DE 14 DE JULHO DE 2010.
 
 Regulamenta o art. 29, incisos I, II e III, da Lei no 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos, e dá outras providências
@@ -31,5 +29,3 @@ LUIZ INÁCIO LULA DA SILVA
            Luiz Paulo Teles Ferreira Barreto
 
          Paulo de Tarso Vannuchi
-
-Este texto não substitui o publicado no DOU de 15.7.2010

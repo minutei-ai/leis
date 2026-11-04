@@ -1,5 +1,3 @@
-###DEC-055630-0-000-26-01-1965@@@
-
 DECRETO Nº 55.630, DE 26 DE JANEIRO DE 1965.
 
 Declara de utilidade pública a Comunidade Assistencial Espírita “Lar Veneranda”, Com sede Santos, Estado de São Paulo.

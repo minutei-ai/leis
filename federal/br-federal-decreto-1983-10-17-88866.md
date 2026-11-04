@@ -1,5 +1,3 @@
-###DEC-088866-0-000-17-10-1983@@@
-
 DECRETO Nº 88.866, DE 17 DE OUTUBRO DE 1983
 
 Dispõe sobre os resultados definitivos do IX Recenseamento Geral do Brasil e dos Inquéritos Especiais Complementares.

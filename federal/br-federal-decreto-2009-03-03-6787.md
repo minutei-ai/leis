@@ -1,5 +1,3 @@
-###DEC-006787-0-000-03-03-2009@@@
-
 DECRETO Nº 6.787, DE 3 DE MARÇO DE 2009.
 
 Acresce artigo ao Decreto no 5.896, de 20 de setembro de 2006, para convalidar situações anteriores já em curso quando da alteração do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto no 88.777, de 30 de setembro de 1983.

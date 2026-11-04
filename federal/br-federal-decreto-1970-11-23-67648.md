@@ -1,5 +1,3 @@
-###DEC-067648-0-000-23-11-1970@@@
-
 DECRETO Nº 67.648, DE 23 DE NOVEMBRO DE 1970.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita, no município de Andradas, Estado de Minas Gerais.

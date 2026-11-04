@@ -1,5 +1,3 @@
-###DEC-059773-0-000-16-12-1966@@@
-
 Decreto nº 59.773, de 16 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Eric Percy Kentish a pesquisar minério de ferro no município de Sabará, no Estado de Minas Gerais.

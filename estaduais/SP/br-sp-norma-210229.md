@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210229)<br>
-
 # DECRETO N° 69.060, DE 14 DE NOVEMBRO DE 2024
 
 ### _Revoga o Decreto n° 43.342, de 22 de julho de 1998, e o inciso I do artigo 53 do Decreto n° 65.796, de 16 de junho de 2021._

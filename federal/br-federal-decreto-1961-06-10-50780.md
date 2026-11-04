@@ -1,5 +1,3 @@
-###DEC-050780-0-000-10-06-1961@@@
-
 DECRETO Nº 50.780, DE 10 DE JUNHO DE 1961.
 
 Dispõe sôbre a venda de produtos farmacêuticos e similares.

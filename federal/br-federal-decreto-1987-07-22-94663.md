@@ -1,5 +1,3 @@
-###DEC-094663-0-000-22-07-1987@@@
-
 DECRETO N° 94.663, DE 22 DE JULHO DE 1987.
 
 Declara de utilidade pública a instituição que menciona.

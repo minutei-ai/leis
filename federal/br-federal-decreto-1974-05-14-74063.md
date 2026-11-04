@@ -1,5 +1,3 @@
-###DEC-074063-0-000-14-05-1974@@@
-
 DECRETO Nº 74.063, DE 14 DE MAIO DE 1974.
 
 Dispõe sobre a categoria das Missões Diplomáticas brasileiras.

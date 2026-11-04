@@ -1,5 +1,3 @@
-###MPV-001782-0-005-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.782-5, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente e dá outras providências.

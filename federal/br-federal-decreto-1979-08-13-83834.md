@@ -1,5 +1,3 @@
-###DEC-083834-0-000-13-08-1979@@@
-
 Decreto nº 83.834, de 13 de agosto de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Santo Antonio da Posse, da CESP - Companhia Energética de São Paulo no Estado de São Paulo.

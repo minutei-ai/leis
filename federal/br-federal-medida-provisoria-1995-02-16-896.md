@@ -1,7 +1,3 @@
-1
-
-###MPV-000896-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 896, DE 16 DE FEVEREIRO DE 1995
 
 Dispõe sobre as contribuições para o Programa de Integração Social (PIS) e para o Programa de Formação do Patrimônio do Servidor Público (Pasep), incidentes sobre receitas de exportação e dá outras providências.

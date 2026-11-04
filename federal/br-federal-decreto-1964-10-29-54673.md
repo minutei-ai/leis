@@ -1,5 +1,3 @@
-###DEC-054673-0-000-29-10-1964@@@
-
 DECRETO Nº 54.673, DE 29 DE OUTUBRO DE 1964.
 
 Ratifica a Lei nº 2.327, de 17 de novembro de 1963, do Govêrno do Estado do Maranhão e dá outras providências.

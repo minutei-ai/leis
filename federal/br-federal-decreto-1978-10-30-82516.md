@@ -1,5 +1,3 @@
-###DEC-082516-0-000-30-10-1978@@@
-
 Decreto nº 82.516, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Administrativas Maria Magalhães Pinto, mantida pela Associação Jacarepaguá de Ensino Superior, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

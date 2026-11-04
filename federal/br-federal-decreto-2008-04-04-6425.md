@@ -1,5 +1,3 @@
-###DEC-006425-0-000-04-04-2008@@@
-
 DECRETO Nº 6.425, DE 4 DE ABRIL DE 2008.
 
 Dispõe sobre o censo anual da educação.
@@ -41,5 +39,3 @@ Brasília, 4 de abril de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 José Henrique Paim Fernandes
-
-Este texto não substitui o publicado no DOU de 7.4.2008

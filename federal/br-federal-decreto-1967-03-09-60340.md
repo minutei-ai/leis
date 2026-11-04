@@ -1,5 +1,3 @@
-###DEC-060340-0-000-09-03-1967@@@
-
 DECRETO Nº 60.340, DE 9 DE MARÇO DE 1967.
 
 Dispõe sôbre rescisão do contrato de concessão para a exploração do Pôrto de Ilhéus, e dá outras providências.

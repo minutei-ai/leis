@@ -1,5 +1,3 @@
-###DEC-084035-0-000-01-10-1979@@@
-
 Decreto nº 84.035, de 1º de outubro de 1979.
 
 Dispõe sobre a destituição das diretorias de entidades de representação estudantil na hipótese do parágrafo único do artigo 2º da Lei nº 6.680, de 16 de agosto de 1979.

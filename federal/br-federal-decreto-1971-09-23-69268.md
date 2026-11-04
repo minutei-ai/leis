@@ -1,5 +1,3 @@
-###DEC-069268-0-000-23-09-1971@@@
-
 DECRETO Nº 69.268, DE 23 de SETEMBRO DE 1971.
 
 Declara de utilidade publica a Maternidade e Gôta de Leite de Araraquara, com sede em Araquara, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-084571-0-000-17-03-1980@@@
-
 DECRETO Nº 84.571, DE 17 DE MARÇO DE 1980.
 
 Autoriza o funcionamento do curso de Formação de Tecnológos em Telecomunicações, das Faculdades Integradas Estácio de Sá, na capital do Estado do Rio de Janeiro.

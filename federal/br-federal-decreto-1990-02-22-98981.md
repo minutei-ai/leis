@@ -1,7 +1,3 @@
-1
-
-###DEC-098981-0-000-22-02-1990@@@
-
 DECRETO Nº 98.981, DE 22 DE FEVEREIRO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA CASAS ALTAS, situado no Município Itaguaí, Estado do Rio de Janeiro, e dá outras providências.

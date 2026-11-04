@@ -1,5 +1,3 @@
-###DEC-081415-0-000-02-03-1978@@@
-
 Decreto nº 81.415, de 02 de março de 1978.
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 69.820, de 22 de dezembro de 1971, a Comissão Coordenadora de Implantação e Desenvolvimento do Transporte Intermodal.

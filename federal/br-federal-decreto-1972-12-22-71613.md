@@ -1,5 +1,3 @@
-###DEC-071613-0-000-22-12-1972@@@
-
 DECRETO Nº 71.613 - DE 22 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento da Faculdade de Arquitetura e Urbanismo "Farias Brito", mantida pela Associação Paulista de Educação e Cultura, de Guarulhos, São Paulo.

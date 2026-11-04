@@ -1,5 +1,3 @@
-###DEC-046038-0-000-18-05-1959@@@
-
 DECRETO Nº 46.038, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Josefino Ottoni Alves a pesquisar quartzo e minério de ferro no município de Sêrro, Estado de Minas Gerais.

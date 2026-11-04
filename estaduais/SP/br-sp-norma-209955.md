@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209955)<br>
-
 # LEI N° 18.024, DE 09 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 925/2023, do Deputado Carlos Cezar - PL)

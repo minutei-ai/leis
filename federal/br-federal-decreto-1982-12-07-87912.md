@@ -1,5 +1,3 @@
-###DEC-087912-0-000-07-12-1982@@@
-
 DECRETO nº 87.912, DE 07 DE DEZEmBRO DE 1982
 
 Cria e extingue funções de confiança na Tabela Permanente dos Gabinetes da Presidência da República.

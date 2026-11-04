@@ -1,5 +1,3 @@
-###DEC-090899-0-000-05-02-1985@@@
-
 Decreto nº 90.899, de 05 de fevereiro de 1985.
 
 Altera dispositivo do Decreto nº 89.812, de 19 de junho de 1984, que declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Capão Verde", situado no Município de Alto Paraguai, no Estado de Mato Grosso.

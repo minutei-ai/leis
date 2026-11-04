@@ -1,5 +1,3 @@
-###DEC-050889-0-000-01-07-1961@@@
-
 DECRETO Nº 50.889, DE 1º DE JULHO DE 1961.
 
 Manda aplicar as normas dos Decretos ns. 50.354, de 17 de março de 1961, 50.359, de 18 de março de 1961, 50.363, de 20 de março de 1961, e 50.378, de 25 de março de 1961, aos estoques e quantidades em trânsito, de petróleo e derivados, trigo e derivados, fertilizantes, inseticidas e semelhantes e papel de imprensa, adquiridos antes da Instrução nº 208, de 27 de junho de 1961, da Superintendência da Moeda e do Crédito.

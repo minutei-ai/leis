@@ -1,5 +1,3 @@
-###DEC-074911-0-000-19-11-1974@@@
-
 DECRETO Nº 74.911, DE 19 DE NOVEMBRO DE 1974.
 
 Institui o Programa do Trópico Semi-Árido e dá outras providências.

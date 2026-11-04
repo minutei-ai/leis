@@ -1,5 +1,3 @@
-###DEC-081163-0-000-02-01-1978@@@
-
 Decreto nº 81 163, de 02 de janeiro de 1978.
 
 Declara sem efeito o Decreto nº 48.576, de 22 de julho de 1960, que autorizou a Porcelana Real S/A a lavrar caulim no Município de São Paulo, Estado de São Paulo.

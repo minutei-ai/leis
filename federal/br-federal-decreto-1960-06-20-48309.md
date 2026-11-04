@@ -1,5 +1,3 @@
-###DEC-048309-0-000-20-06-1960@@@
-
 DECRETO Nº 48.309, DE 20 DE JUNHO DE 1960.
 
 Autoriza a Química industrial Barra do Piraí S.A. a pesquisar caulim no município de Marquês de Valença, Estado do Rio de Janeiro.

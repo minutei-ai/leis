@@ -1,7 +1,3 @@
-1
-
-###DEC-001319-0-000-29-11-1994@@@
-
 DECRETO Nº 1.319, DE 29 DE NOVEMBRO DE 1994
 
 Regulamenta, para a Aeronáutica, A Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as Promoções dos Oficiais da Ativa das Forças Armadas.

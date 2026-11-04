@@ -1,5 +1,3 @@
-###DEC-061026-0-000-17-07-1967@@@
-
 DECRETO Nº 61.026, DE 17 DE JULHO DE 1967.
 
 Abre o Poder Judiciário - Justiça do Trabalho - Tribunal Superior do Trabalho - o crédito especial de NCr$27.000,00 (vinte e sete mil cruzeiros novos), para os fins que especifica.

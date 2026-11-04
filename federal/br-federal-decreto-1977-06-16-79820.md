@@ -1,5 +1,3 @@
-###DEC-079820-0-000-16-06-1977@@@
-
 DECRETO Nº 79.820, DE 16 DE JUNHO DE 1977
 
 Fixa o fator de reajustamento salarial relativo a junho de 1977.

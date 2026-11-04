@@ -1,5 +1,3 @@
-###DEL-002042-0-000-30-06-1983@@@
-
 # Decreto-lei nº 2.042 de 30 de junho de 1983.
 
 Altera dispositivos do Decreto-lei nº 1070, de 3 de dezembro de 1969, que complementou a redação do artigo 6º do Decreto-lei nº 185, de 23 de fevereiro de 1967, que estabelece normas para a contratação de obras ou serviços do Governo Federal.

@@ -1,5 +1,3 @@
-###DEL-005281-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.281 – DE 26 DE FEVEREIRO DE 1943
 
 Concede acréscimo de vencimentos aos atuais Coronéis das Armas e Serviços do Exército

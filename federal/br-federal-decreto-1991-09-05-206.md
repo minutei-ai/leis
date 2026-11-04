@@ -1,5 +1,3 @@
-###DEC-000206-0-000-05-09-1991@@@
-
 DECRETO Nº 206, DE 5 DE SETEMBRO DE 1991
 
 Acrescenta alínea ao § 2º do art. 33 do Decreto nº 93.872, de 23 de dezembro de 1986.

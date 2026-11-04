@@ -1,19 +1,21 @@
 DECRETO Nº 10.263, DE 19 DE MAIO DE 2023
 
-Regulamenta o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.<br>
+Regulamenta o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Institui o Sistema de Gestão Estadual – SIGES no Poder Executivo estadual.~~
 
-\- [Vide Decreto nº 10.730](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111078), de 10-7-2025 -  Regulamenta a Rede de Tecnologia da Informação e Comunicação – Rede TIC, que integra o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela Lei nº 21.792, de 16 de fevereiro de 2023, e regulamentado pelo Decreto nº 10.263, de 19 de maio de 2023.<br>
-<br>
+\- [Vide Decreto nº 10.730](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111078), de 10-7-2025 -  Regulamenta a Rede de Tecnologia da Informação e Comunicação – Rede TIC, que integra o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela Lei nº 21.792, de 16 de fevereiro de 2023, e regulamentado pelo Decreto nº 10.263, de 19 de maio de 2023.
+
 \- [Vide Decreto nº 10.307](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107672/decreto-10307), de 24-8-2023 - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON no Poder Executivo estadual.
 
 O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, com fundamento na alínea “a” do inciso XVIII do art. 37 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), também tendo em vista o que consta do Processo nº 202300005005527,
 
 **DECRETA:**
 
-Art. 1º Este Decreto regulamenta o Sistema Estruturador das Redes de Gestão – SIGES, responsável por alinhar e coordenar atividades, ações, dados e informações sob a responsabilidade das unidades centrais de compras e contratos, de patrimônio, de planejamento e orçamento, de finanças, de inovação da gestão e dos serviços públicos, de contabilidade pública, de gestão de pessoal, de gestão de projetos, de tecnologia da informação e de _compliance_ público na administração direta, autárquica e fundacional do Poder Executivo estadual, para garantir atuação integrada, eficiente e efetiva que promova entrega de valor aos cidadãos alinhada com suas expectativas e suas necessidades.<br>
+Art. 1º Este Decreto regulamenta o Sistema Estruturador das Redes de Gestão – SIGES, responsável por alinhar e coordenar atividades, ações, dados e informações sob a responsabilidade das unidades centrais de compras e contratos, de patrimônio, de planejamento e orçamento, de finanças, de inovação da gestão e dos serviços públicos, de contabilidade pública, de gestão de pessoal, de gestão de projetos, de tecnologia da informação e de _compliance_ público na administração direta, autárquica e fundacional do Poder Executivo estadual, para garantir atuação integrada, eficiente e efetiva que promova entrega de valor aos cidadãos alinhada com suas expectativas e suas necessidades.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Art. 1º Este Decreto institui o Sistema de Gestão Estadual – SIGES, responsável por alinhar e coordenar atividades, ações, dados e informações sob a responsabilidade das unidades centrais de compras e contratos, de patrimônio, de planejamento e orçamento, de finanças, de inovação da gestão e dos serviços públicos, de contabilidade pública, de gestão de pessoal e de gestão de projetos na administração direta, autárquica e fundacional do Poder Executivo estadual, para garantir atuação integrada, eficiente e efetiva que promova entrega de valor aos cidadãos alinhada com suas expectativas e suas necessidades.~~
@@ -40,179 +42,234 @@ IX – força–tarefa: equipe de servidores dos diversos órgãos e entidades e
 
 X – projeto: esforço temporário empreendido para criar produto, serviço ou resultado exclusivo, que constitui o meio pelo qual mudanças são introduzidas.
 
-XI – unidade correlata: unidade administrativa que desenvolve entregas e atividades complementares ou similares à unidade setorial, conforme o art. 109-A da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.<br>
+XI – unidade correlata: unidade administrativa que desenvolve entregas e atividades complementares ou similares à unidade setorial, conforme o art. 109-A da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-Art. 3º O SIGES é composto por redes específicas, formadas pelas áreas de:<br>
+Art. 3º O SIGES é composto por redes específicas, formadas pelas áreas de:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Art. 3º Compõem o SIGES:~~
 
-I – gestão de pessoas;<br>
+I – gestão de pessoas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-~~I – o Sistema Estruturador de Organização e Inovação Institucional, de que trata o art. 105 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023;~~<br>
+~~I – o Sistema Estruturador de Organização e Inovação Institucional, de que trata o art. 105 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023;~~
+
 \- [Vide Decreto nº 10.307, de 24-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107672/decreto-10307) - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON no Poder Executivo estadual.
 
-II – projetos de governo;<br>
+II – projetos de governo;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~II – as Redes de Gestão, instituídas pelo art. 107 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, compostas:~~
 
-~~a) pela Rede de Gestão de Pessoas; e~~<br>
+~~a) pela Rede de Gestão de Pessoas; e~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677).
 
-~~b) pela Rede de Gestão de Projetos; e~~<br>
+~~b) pela Rede de Gestão de Projetos; e~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677).
 
-III – compras e contratos;<br>
+III – compras e contratos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-~~III – o Sistema de Contabilidade Estadual, criado pelo art. 4º do [Decreto estadual nº 9.069](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69813), de 10 de outubro de 2017.~~<br>
+~~III – o Sistema de Contabilidade Estadual, criado pelo art. 4º do [Decreto estadual nº 9.069](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69813), de 10 de outubro de 2017.~~
+
 \- [Vide Decreto nº 10.279, de 30-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107306/decreto-10279) - Regulamenta a [Lei estadual nº 19.550](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98865), de 15 de dezembro de 2016, que institui o serviço de contabilidade pública nos órgãos e nas entidades do Poder Executivo, e o art. 97 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.
 
-IV – patrimônio;<br>
+IV – patrimônio;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-V – planejamento, orçamento e finanças;<br>
+V – planejamento, orçamento e finanças;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-VI – contabilidade;<br>
+VI – contabilidade;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-VII – inovação da gestão e dos serviços públicos;<br>
+VII – inovação da gestão e dos serviços públicos;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-VIII – tecnologia da informação; e<br>
+VIII – tecnologia da informação; e
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-IX – _compliance_ público.<br>
+IX – _compliance_ público.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-Parágrafo único. O SIGES é constituído por unidades centrais, setoriais e correlatas, presentes nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo estadual.<br>
+Parágrafo único. O SIGES é constituído por unidades centrais, setoriais e correlatas, presentes nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo estadual.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-~~Art. 4º O Sistema Estruturador de Organização e Inovação Institucional, no âmbito da administração direta, autárquica e fundacional, objetiva a inovação da gestão pública e a ampliação da capacidade estatal nas seguintes áreas de gestão:~~<br>
-\- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14<br>
+~~Art. 4º O Sistema Estruturador de Organização e Inovação Institucional, no âmbito da administração direta, autárquica e fundacional, objetiva a inovação da gestão pública e a ampliação da capacidade estatal nas seguintes áreas de gestão:~~
+
+\- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
+
 \- [Vide Decreto nº 10.307, de 24-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107672/decreto-10307) - Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON no Poder Executivo estadual.
 
-~~I – compras e contratos;~~<br>
+~~I – compras e contratos;~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~II – patrimônio;~~<br>
+~~II – patrimônio;~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~III – planejamento e orçamento;~~<br>
+~~III – planejamento e orçamento;~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~IV – finanças; e~~<br>
+~~IV – finanças; e~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~V – inovação da gestão e dos serviços públicos.~~<br>
+~~V – inovação da gestão e dos serviços públicos.~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~Parágrafo único. São unidades centrais do Sistema Estruturador de Organização e Inovação Institucional:~~<br>
+~~Parágrafo único. São unidades centrais do Sistema Estruturador de Organização e Inovação Institucional:~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~I – a Subsecretaria de Logística e Patrimônio, da Secretaria de Estado da Administração – SEAD, bem como as respectivas unidades a ela vinculadas referentes às áreas de gestão patrimonial, de logística, de gestão de compras e de contratos;~~<br>
+~~I – a Subsecretaria de Logística e Patrimônio, da Secretaria de Estado da Administração – SEAD, bem como as respectivas unidades a ela vinculadas referentes às áreas de gestão patrimonial, de logística, de gestão de compras e de contratos;~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~II – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação, da Secretaria de Estado da Economia – ECONOMIA, bem como as respectivas unidades a ela vinculadas referentes à área de planejamento;~~<br>
+~~II – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação, da Secretaria de Estado da Economia – ECONOMIA, bem como as respectivas unidades a ela vinculadas referentes à área de planejamento;~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~III – a Subsecretaria Central de Orçamento, da ECONOMIA, bem como as respectivas unidades a ela vinculadas referentes à área de orçamento;~~<br>
+~~III – a Subsecretaria Central de Orçamento, da ECONOMIA, bem como as respectivas unidades a ela vinculadas referentes à área de orçamento;~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~IV – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, bem como as respectivas unidades a ela vinculadas referentes às áreas de gestão de processos e de gestão de serviços públicos; e~~<br>
+~~IV – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, bem como as respectivas unidades a ela vinculadas referentes às áreas de gestão de processos e de gestão de serviços públicos; e~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~V – a Subsecretaria do Tesouro Estadual, da ECONOMIA, bem como as respectivas unidades a ela vinculadas referentes à área de finanças.~~<br>
+~~V – a Subsecretaria do Tesouro Estadual, da ECONOMIA, bem como as respectivas unidades a ela vinculadas referentes à área de finanças.~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~Art. 5º As Redes de Gestão visam aprimorar a efetividade da gestão pública nos órgãos e nas entidades nas áreas específicas de pessoas e de projetos.~~<br>
+~~Art. 5º As Redes de Gestão visam aprimorar a efetividade da gestão pública nos órgãos e nas entidades nas áreas específicas de pessoas e de projetos.~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~Parágrafo único. São unidades centrais das Redes de Gestão:~~<br>
+~~Parágrafo único. São unidades centrais das Redes de Gestão:~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~I – na Rede de Gestão de Pessoas: a Subsecretaria de Gestão e Desenvolvimento de Pessoas e a Diretoria Executiva da Escola de Governo, ambas da SEAD, bem como as respectivas unidades a elas vinculadas referentes à área de gestão de pessoas; e~~<br>
+~~I – na Rede de Gestão de Pessoas: a Subsecretaria de Gestão e Desenvolvimento de Pessoas e a Diretoria Executiva da Escola de Governo, ambas da SEAD, bem como as respectivas unidades a elas vinculadas referentes à área de gestão de pessoas; e~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
-~~II – na Rede de Gestão de Projetos: a Subsecretaria de Governança, da Secretaria– Geral de Governo – SGG, bem como as respectivas unidades a ela vinculadas referentes à área de projetos de governo.~~<br>
+~~II – na Rede de Gestão de Projetos: a Subsecretaria de Governança, da Secretaria– Geral de Governo – SGG, bem como as respectivas unidades a ela vinculadas referentes à área de projetos de governo.~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677), art. 14
 
 Art. 6º O Sistema de Contabilidade Estadual visa gerir o Sistema de Contabilidade Geral do Estado de Goiás – SCG, competindo-lhe todas as providências relativas à administração, à alteração, à inclusão, à exclusão e a outras modificações necessárias ao pleno funcionamento do sistema, bem como a programação da execução contábil, nos termos da [Lei estadual nº 19.550](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98865), de 15 de dezembro de 2016.
 
 Parágrafo único. São unidades centrais do Sistema de Contabilidade Estadual a Superintendência Central de Contabilidade, da ECONOMIA, bem como as respectivas unidades a ela vinculadas.
 
-Art. 6º-A As unidades centrais, com a competência estratégica para a formulação das políticas públicas, também para a organização e o acompanhamento geral da execução das entregas e das atividades de sua área de atuação, são:<br>
+Art. 6º-A As unidades centrais, com a competência estratégica para a formulação das políticas públicas, também para a organização e o acompanhamento geral da execução das entregas e das atividades de sua área de atuação, são:
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-I – a Subsecretaria de Gestão e Desenvolvimento de Pessoas e a Diretoria Executiva da Escola de Governo, ambas da Secretaria de Estado da Administração – SEAD, bem como as respectivas unidades vinculadas, referentes à área de gestão de pessoas;<br>
+I – a Subsecretaria de Gestão e Desenvolvimento de Pessoas e a Diretoria Executiva da Escola de Governo, ambas da Secretaria de Estado da Administração – SEAD, bem como as respectivas unidades vinculadas, referentes à área de gestão de pessoas;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-II – a Subsecretaria de Governança, da Secretaria-Geral de Governo – SGG, bem como as respectivas unidades vinculadas, referentes à área de projetos de governo;<br>
+II – a Subsecretaria de Governança, da Secretaria-Geral de Governo – SGG, bem como as respectivas unidades vinculadas, referentes à área de projetos de governo;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-III – a Subsecretaria de Logística e Patrimônio, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão patrimonial, gestão de compras e de contratos;<br>
+III – a Subsecretaria de Logística e Patrimônio, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão patrimonial, gestão de compras e de contratos;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-IV – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação, a Subsecretaria Central de Orçamento e a Subsecretaria do Tesouro Estadual, todas da Secretaria de Estado da Economia – ECONOMIA, bem como as respectivas unidades vinculadas, referentes às áreas de planejamento, orçamento e finanças;<br>
+IV – a Subsecretaria Central de Planejamento, Monitoramento e Avaliação, a Subsecretaria Central de Orçamento e a Subsecretaria do Tesouro Estadual, todas da Secretaria de Estado da Economia – ECONOMIA, bem como as respectivas unidades vinculadas, referentes às áreas de planejamento, orçamento e finanças;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-V – a Subsecretaria do Tesouro Estadual, da ECONOMIA, bem como as respectivas unidades vinculadas, referentes à área de contabilidade;<br>
+V – a Subsecretaria do Tesouro Estadual, da ECONOMIA, bem como as respectivas unidades vinculadas, referentes à área de contabilidade;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-VI – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão, inovação, processos e serviços públicos;<br>
+VI – a Subsecretaria de Inovação da Gestão e dos Serviços Públicos, da SEAD, bem como as respectivas unidades vinculadas, referentes às áreas de gestão, inovação, processos e serviços públicos;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-VII – a Subsecretaria de Tecnologia da Informação, da SGG, bem como as respectivas unidades vinculadas, referentes à área de tecnologia da informação; e<br>
+VII – a Subsecretaria de Tecnologia da Informação, da SGG, bem como as respectivas unidades vinculadas, referentes à área de tecnologia da informação; e
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-VIII – a Subcontroladoria de Governo Aberto e Ouvidoria Geral, a Subcontroladoria do Sistema de Correição e Contas e a Subcontroladoria de Auditoria Interna e Controle, da Controladoria-Geral do Estado – CGE, bem como as respectivas unidades vinculadas, referentes às áreas de governo aberto e ouvidoria, de correição e contas e de gestão de riscos e controle.<br>
+VIII – a Subcontroladoria de Governo Aberto e Ouvidoria Geral, a Subcontroladoria do Sistema de Correição e Contas e a Subcontroladoria de Auditoria Interna e Controle, da Controladoria-Geral do Estado – CGE, bem como as respectivas unidades vinculadas, referentes às áreas de governo aberto e ouvidoria, de correição e contas e de gestão de riscos e controle.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 1º São de responsabilidade das unidades centrais, conforme as normas específicas de sua área de atuação:<br>
+§ 1º São de responsabilidade das unidades centrais, conforme as normas específicas de sua área de atuação:
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-I – a definição das políticas, das normas e das diretrizes, bem como a orientação dos procedimentos gerais a serem executados pelas unidades setoriais;<br>
+I – a definição das políticas, das normas e das diretrizes, bem como a orientação dos procedimentos gerais a serem executados pelas unidades setoriais;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-II – a certificação e a capacitação das unidades setoriais, com a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;<br>
+II – a certificação e a capacitação das unidades setoriais, com a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-III – a gestão e a proposição das regras de negócio para a disponibilização das soluções tecnológicas corporativas; e<br>
+III – a gestão e a proposição das regras de negócio para a disponibilização das soluções tecnológicas corporativas; e
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-IV – as ações de integração de sua respectiva Rede de Gestão com as demais redes.<br>
+IV – as ações de integração de sua respectiva Rede de Gestão com as demais redes.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 2º As unidades setoriais possuem as competências tática e operacional na execução das entregas e das atividades de seu âmbito de atuação em cada área específica.<br>
+§ 2º As unidades setoriais possuem as competências tática e operacional na execução das entregas e das atividades de seu âmbito de atuação em cada área específica.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 3º São responsabilidades das unidades setoriais, conforme as normas específicas de sua área de atuação:<br>
+§ 3º São responsabilidades das unidades setoriais, conforme as normas específicas de sua área de atuação:
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-I – a implementação das políticas, das normas e das diretrizes definidas pela unidade central;<br>
+I – a implementação das políticas, das normas e das diretrizes definidas pela unidade central;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-II – a integração às certificações e às capacitações estabelecidas pela unidade central;<br>
+II – a integração às certificações e às capacitações estabelecidas pela unidade central;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-III – a adoção e a participação na definição das regras de negócio e das soluções tecnológicas corporativas; e<br>
+III – a adoção e a participação na definição das regras de negócio e das soluções tecnológicas corporativas; e
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-IV – a execução das entregas e das atividades de seu âmbito de atuação.<br>
+IV – a execução das entregas e das atividades de seu âmbito de atuação.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 4º As unidades correlatas desenvolvem entregas e atividades complementares ou similares às definidas no § 2º deste artigo, além das definidas nos respectivos decretos regulamentadores de cada rede.<br>
+§ 4º As unidades correlatas desenvolvem entregas e atividades complementares ou similares às definidas no § 2º deste artigo, além das definidas nos respectivos decretos regulamentadores de cada rede.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 Art. 7º No âmbito das suas redes integrantes, o SIGES objetiva:
 
 I – a inovação em serviços públicos, também a simplificação e o aumento da eficiência e da eficácia das políticas públicas;
 
-II – o estabelecimento de políticas e diretrizes para a transformação permanente do Estado e a ampliação da capacidade estatal nas áreas de gestão de pessoas, gestão de projetos, compras e contratos, patrimônio, planejamento, orçamento e finanças, contabilidade, inovação da gestão e dos serviços públicos, tecnologia da informação e _compliance_ público;<br>
+II – o estabelecimento de políticas e diretrizes para a transformação permanente do Estado e a ampliação da capacidade estatal nas áreas de gestão de pessoas, gestão de projetos, compras e contratos, patrimônio, planejamento, orçamento e finanças, contabilidade, inovação da gestão e dos serviços públicos, tecnologia da informação e _compliance_ público;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~II – o estabelecimento de políticas e diretrizes para a transformação permanente do Estado e a ampliação da capacidade estatal nas áreas de compras e contratos, de patrimônio, de planejamento e orçamento, de finanças, de inovação da gestão e dos serviços públicos, de contabilidade pública, de gestão de pessoas e de gestão de projetos;~~
@@ -243,19 +300,22 @@ Art. 8º A governança do SIGES será estabelecida em formato de redes de colabo
 
 § 1º As unidades centrais do SIGES estabelecerão diretrizes gerais para institucionalizar cultura de integração e de visão sistêmica, essencial para a criação de valor público, com alinhamento estratégico central e setorial, conforme as prioridades governamentais.
 
-§ 2º A atuação do SIGES será orientada pelos processos, pelas entregas e pelas atividades previstos na Cadeia de Valor Integrada do Estado de Goiás.<br>
+§ 2º A atuação do SIGES será orientada pelos processos, pelas entregas e pelas atividades previstos na Cadeia de Valor Integrada do Estado de Goiás.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 2º A atuação do SIGES será orientada pelos processos previstos na Cadeia de Valor Integrada do Estado de Goiás.~~
 
-§ 3º O SIGES deve organizar, integrar e divulgar as agendas institucionais envolvidas em um cronograma de atividades e de demandas centrais que impactam as rotinas de trabalho nas unidades setoriais e correlatas.<br>
+§ 3º O SIGES deve organizar, integrar e divulgar as agendas institucionais envolvidas em um cronograma de atividades e de demandas centrais que impactam as rotinas de trabalho nas unidades setoriais e correlatas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 3º O SIGES deve organizar, integrar e divulgar as agendas institucionais envolvidas em um cronograma de atividades e de demandas centrais que impactam as rotinas de trabalho nas unidades setoriais.~~
 
 § 4º O SIGES deve definir, medir continuamente e divulgar conjunto de informações e indicadores que permitam avaliar a atuação integrada das redes, bem como o impacto de cada rede e dessa atuação integrada nos resultados e na entrega de valor aos cidadãos.
 
-§ 5º O modelo de avaliação e a sistemática de monitoramento dos resultados serão definidos por portaria conjunta dos titulares das redes integrantes do SIGES.<br>
+§ 5º O modelo de avaliação e a sistemática de monitoramento dos resultados serão definidos por portaria conjunta dos titulares das redes integrantes do SIGES.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 Art. 9º São premissas para a atuação colaborativa das redes componentes do SIGES a que se refere o _caput_ do art. 8º deste Decreto:
@@ -278,34 +338,40 @@ VIII – a criação de ambiente propício para garantir a governança dos proje
 
 Art. 10. Competem às unidades centrais componentes do SIGES:
 
-I – a formulação e a supervisão de políticas, bem como a elaboração e a comunicação de normas e diretrizes gerais a serem seguidas pelas unidades setoriais e correlatas;<br>
+I – a formulação e a supervisão de políticas, bem como a elaboração e a comunicação de normas e diretrizes gerais a serem seguidas pelas unidades setoriais e correlatas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~I – a formulação e a supervisão de políticas, bem como a elaboração e a comunicação de normas e diretrizes gerais a serem seguidas pelas unidades setoriais;~~
 
-II – a orientação técnica às unidades setoriais e correlatas a elas vinculadas, para subsidiar o exercício das competências correspondentes ao sistema sob sua responsabilidade;<br>
+II – a orientação técnica às unidades setoriais e correlatas a elas vinculadas, para subsidiar o exercício das competências correspondentes ao sistema sob sua responsabilidade;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~II – a orientação técnica às unidades setoriais a elas vinculadas, para subsidiar o exercício das competências correspondentes ao sistema sob sua responsabilidade;~~
 
 III – o acompanhamento geral da execução das entregas e das atividades de sua área de atuação;
 
-IV – a especificação das funções e das entregas das unidades setoriais e correlatas relacionadas à temática;<br>
+IV – a especificação das funções e das entregas das unidades setoriais e correlatas relacionadas à temática;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~IV – a especificação das funções e das entregas das unidades setoriais relacionadas à temática;~~
 
-V – a identificação, o mapeamento e a divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades centrais, setoriais e correlatas, conforme as diretrizes da unidade central de transformação pública;<br>
+V – a identificação, o mapeamento e a divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades centrais, setoriais e correlatas, conforme as diretrizes da unidade central de transformação pública;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~V – a identificação, o mapeamento e a divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades centrais e setoriais, conforme as diretrizes da unidade central de transformação pública;~~
 
-VI – a identificação do perfil técnico necessário aos servidores para a atuação nas unidades centrais, setoriais e correlatas, conforme as diretrizes da unidade central de gestão de pessoas;<br>
+VI – a identificação do perfil técnico necessário aos servidores para a atuação nas unidades centrais, setoriais e correlatas, conforme as diretrizes da unidade central de gestão de pessoas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~VI – a identificação do perfil técnico necessário aos servidores para a atuação nas unidades centrais e setoriais, conforme as diretrizes da unidade central de gestão de pessoas;~~
 
-VII – a capacitação das unidades setoriais e correlatas, com o auxílio da Diretoria Executiva da Escola de Governo, e a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;<br>
+VII – a capacitação das unidades setoriais e correlatas, com o auxílio da Diretoria Executiva da Escola de Governo, e a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando isso for necessário;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~VII – a capacitação das unidades setoriais, com o auxílio da Diretoria Executiva da Escola de Governo, e a possibilidade de parcerias com outros entes, Poderes, empresas e entidades especializadas, quando necessário;~~
@@ -322,12 +388,14 @@ XII – a publicação das portarias previstas no § 1º do art. 11 deste Decret
 
 XIII – o controle das quantidades e a distribuição das funções comissionadas e das gratificações previstas no art. 11 deste Decreto.
 
-Parágrafo único. As unidades setoriais e correlatas do SIGES devem seguir as políticas e as diretrizes, bem como cumprir as orientações e os procedimentos estabelecidos pela unidade central, nos seus respectivos campos de atuação.<br>
+Parágrafo único. As unidades setoriais e correlatas do SIGES devem seguir as políticas e as diretrizes, bem como cumprir as orientações e os procedimentos estabelecidos pela unidade central, nos seus respectivos campos de atuação.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Parágrafo único. As unidades setoriais do SIGES devem seguir as políticas e as diretrizes, bem como cumprir as orientações e os procedimentos estabelecidos pela unidade central, nos seus respectivos campos de atuação.~~
 
-Art. 11. A concessão das Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs, das Funções Comissionadas de Assessoramento Contábil – FCACs e das Gratificações do Sistema Estruturador das Redes de Gestão – GRGs, previstas na [Lei nº 21.792, de 2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), está vinculada ao exercício das atividades, das funções e das atribuições, conforme as competências definidas das unidades componentes do SIGES, observados, além do disposto no art. 13 deste Decreto, no mínimo, os seguintes critérios:<br>
+Art. 11. A concessão das Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs, das Funções Comissionadas de Assessoramento Contábil – FCACs e das Gratificações do Sistema Estruturador das Redes de Gestão – GRGs, previstas na [Lei nº 21.792, de 2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), está vinculada ao exercício das atividades, das funções e das atribuições, conforme as competências definidas das unidades componentes do SIGES, observados, além do disposto no art. 13 deste Decreto, no mínimo, os seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Art. 11. A concessão das Funções Comissionadas do Sistema Estruturador de Organização e Inovação Institucional – FCSISTs, das Funções Comissionadas de Assessoramento Contábil – FCACs e das Gratificações das Redes de Gestão de Pessoas e de Gestão de Projetos – GRGs, previstas na [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, está vinculada ao exercício das atividades, das funções e das atribuições, conforme as competências definidas das unidades componentes do SIGES, observados, além do disposto no art. 13 deste Decreto, no mínimo, os seguintes critérios:~~
@@ -344,7 +412,8 @@ V – a contribuição do posto de trabalho para o cumprimento da missão do ór
 
 VI – a experiência profissional, as capacitações e/ou as certificações para o desenvolvimento das atribuições do SIGES.
 
-§ 1º A concessão de que trata o _caput_ deste artigo será realizada por meio de portaria do titular do órgão ou da entidade ao qual o servidor estiver lotado.<br>
+§ 1º A concessão de que trata o _caput_ deste artigo será realizada por meio de portaria do titular do órgão ou da entidade ao qual o servidor estiver lotado.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 1º A concessão de que trata o _caput_ deste artigo será realizada por meio de portaria do titular do órgão ou da entidade ao qual a unidade central estiver subordinada, conforme o modelo do Anexo III deste Decreto.~~
@@ -353,82 +422,100 @@ VI – a experiência profissional, as capacitações e/ou as certificações pa
 
 § 3º Para o cumprimento do inciso VI do _caput_ deste artigo, as unidades centrais definirão, por meio de portaria, o tempo mínimo de experiência profissional, as horas mínimas de capacitação e o prazo para a conclusão das certificações, nos casos em que couber.
 
-§ 4º As unidades centrais procederão, em parceria com as unidades setoriais, à seleção dos servidores que se enquadrarem nos requisitos previstos para o exercício das atribuições e, consequentemente, para a percepção das FCRGs, das FCACs e das GRGs.<br>
+§ 4º As unidades centrais procederão, em parceria com as unidades setoriais, à seleção dos servidores que se enquadrarem nos requisitos previstos para o exercício das atribuições e, consequentemente, para a percepção das FCRGs, das FCACs e das GRGs.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 4º As unidades centrais procederão, em parceria com as unidades setoriais, à seleção dos servidores que se enquadrem nos requisitos previstos para o exercício das atribuições e, consequentemente, para a percepção das FCSISTs, FCACs e das GRGs.~~
 
-Art. 12. A distribuição do valor global das FCRGs, das FCACs e das GRGs pelas unidades centrais deverá observar os limites estabelecidos no Anexo I deste Decreto.<br>
+Art. 12. A distribuição do valor global das FCRGs, das FCACs e das GRGs pelas unidades centrais deverá observar os limites estabelecidos no Anexo I deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Art. 12. A distribuição do valor global das FCSISTs, das FCACs e das GRGs pelas unidades centrais deverá observar os limites estabelecidos nos Anexos I e II deste Decreto.~~
 
-§ 1º Os órgãos e as entidades do Poder Executivo estadual ficam responsáveis por gerir e compatibilizar a ocupação das FCRGs, das FCACs e das GRGs com as atividades das redes.<br>
+§ 1º Os órgãos e as entidades do Poder Executivo estadual ficam responsáveis por gerir e compatibilizar a ocupação das FCRGs, das FCACs e das GRGs com as atividades das redes.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 1º Os órgãos e as entidades do Poder Executivo estadual ficam responsáveis por gerir e compatibilizar a ocupação das FCSISTs, das FCACs e das GRGs com as atividades dos sistemas e das redes.~~
 
-§ 2º Cada unidade central integrante do SIGES deverá estabelecer os regramentos e os critérios específicos de sua área de gestão para a concessão das FCRGs, das FCACs e das GRGs, observadas as peculiaridades e as necessidades de cada área de atuação.<br>
+§ 2º Cada unidade central integrante do SIGES deverá estabelecer os regramentos e os critérios específicos de sua área de gestão para a concessão das FCRGs, das FCACs e das GRGs, observadas as peculiaridades e as necessidades de cada área de atuação.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 2º Cada unidade central integrante do SIGES deverá estabelecer os regramentos e os critérios específicos de sua área de gestão para a concessão das FCSISTs, das FCACs e das GRGs, observadas as peculiaridades e as necessidades de cada área de atuação.~~
 
-§ 3º Os titulares dos órgãos das unidades centrais deverão estabelecer os tipos e as quantidades das FCRGs, das FCACs e das GRGs a serem distribuídas em ato próprio.<br>
+§ 3º Os titulares dos órgãos das unidades centrais deverão estabelecer os tipos e as quantidades das FCRGs, das FCACs e das GRGs a serem distribuídas em ato próprio.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 4º Em caso de alteração na distribuição de que trata o § 3º deste artigo, o ato deverá ser encaminhado à unidade central responsável pelo Sistema de Recursos Humanos – RHNet até o dia 25 do mês para serem processadas e disponibilizadas para designação a partir do dia 1º do mês seguinte.<br>
+§ 4º Em caso de alteração na distribuição de que trata o § 3º deste artigo, o ato deverá ser encaminhado à unidade central responsável pelo Sistema de Recursos Humanos – RHNet até o dia 25 do mês para serem processadas e disponibilizadas para designação a partir do dia 1º do mês seguinte.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 5º A periodicidade das alterações de que trata o § 4º deste artigo será definida pelo titular do órgão central de gestão de pessoal.<br>
+§ 5º A periodicidade das alterações de que trata o § 4º deste artigo será definida pelo titular do órgão central de gestão de pessoal.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-Art. 12-A. Caso a atribuição e a responsabilidade diferenciada sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele a FCRG, de valor e símbolo equivalentes à GRG, e esse servidor será submetido às mesmas regras e exigências para sua designação e sua manutenção.<br>
+Art. 12-A. Caso a atribuição e a responsabilidade diferenciada sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele a FCRG, de valor e símbolo equivalentes à GRG, e esse servidor será submetido às mesmas regras e exigências para sua designação e sua manutenção.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-Parágrafo único. Para a designação de FCRG nos termos do _caput_ deste artigo, os processos devem chegar à unidade central responsável pelo RHNet até o dia 25 do mês para a parametrização e a disponibilização para designação a partir do dia 1º do mês seguinte.<br>
+Parágrafo único. Para a designação de FCRG nos termos do _caput_ deste artigo, os processos devem chegar à unidade central responsável pelo RHNet até o dia 25 do mês para a parametrização e a disponibilização para designação a partir do dia 1º do mês seguinte.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-Art. 13. As portarias de concessão das FCRGs, das FCACs e das GRGs de que trata o § 1º do art. 11 deste Decreto devem especificar:<br>
+Art. 13. As portarias de concessão das FCRGs, das FCACs e das GRGs de que trata o § 1º do art. 11 deste Decreto devem especificar:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Art. 13. As portarias de concessão das FCSISTs, das FCACs e das GRGs de que trata o § 1º do art. 11 deste Decreto devem especificar:~~
 
 I – o órgão que receberá a função comissionada ou a gratificação de que trata o art. 11 deste Decreto;
 
-II – o nível da FCRG, da FCAC ou da GRG;<br>
+II – o nível da FCRG, da FCAC ou da GRG;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~II – o nível da FCSIST, da FCAC ou da GRG;~~
 
-III – se a FCRG, a FCAC ou a GRG é de unidade central, setorial ou correlata;<br>
+III – se a FCRG, a FCAC ou a GRG é de unidade central, setorial ou correlata;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~III – se a FCSIST, a FCAC ou da GRG é de unidade central ou de unidade setorial;~~
 
-IV – a área de atuação à qual a FCRG, a FCAC ou a GRG estará vinculada;<br>
+IV – a área de atuação à qual a FCRG, a FCAC ou a GRG estará vinculada;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~IV – a área de atuação à qual a FCSIST, a FCAC ou a GRG estará vinculada, quando couber; e~~
 
-V – as atribuições a serem desempenhadas, conforme o disposto no art. 11 deste Decreto; e<br>
+V – as atribuições a serem desempenhadas, conforme o disposto no art. 11 deste Decreto; e
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~V – o nome e o CPF do servidor que receberá a função comissionada ou a gratificação.~~
 
-VI – o nome, o CPF e o cargo do servidor que receberá a FCRG, a FCAC ou a GRG.<br>
+VI – o nome, o CPF e o cargo do servidor que receberá a FCRG, a FCAC ou a GRG.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
-§ 1º As FCRGs e as FCACs, respectivamente instituídas pelos arts. 103 e 104 e pelos arts. 97 e 98 da [Lei nº 21.792, de 2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), destinam-se a servidores efetivos e empregados públicos que atuem nas áreas do SIGES, e, para sua concessão, devem ser observadas as normas gerais dos arts. 93, 94 e 103 da mesma lei.<br>
+§ 1º As FCRGs e as FCACs, respectivamente instituídas pelos arts. 103 e 104 e pelos arts. 97 e 98 da [Lei nº 21.792, de 2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), destinam-se a servidores efetivos e empregados públicos que atuem nas áreas do SIGES, e, para sua concessão, devem ser observadas as normas gerais dos arts. 93, 94 e 103 da mesma lei.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 1º As FCSISTs e as FCACs, respectivamente instituídas pelos arts. 103 e 104 e pelos arts. 97 e 98 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, destinam-se a servidores efetivos e empregados públicos que atuem nas áreas do SIGES, e, para sua concessão, devem ser observadas as normas gerais dos arts. 93 e 94 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~
 
-§ 2º As GRGs, criadas pelo art. 110 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e destinadas a servidores efetivos, comissionados e empregados públicos permanentes, também ao pessoal contratado por tempo determinado em exercício no âmbito da administração direta, autárquica e fundacional do Poder Executivo estadual, todos lotados nas unidades centrais, setoriais ou correlatas do SIGES, devem ser concedidas conforme as normas gerais dos arts. 110 a 113 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.<br>
+§ 2º As GRGs, criadas pelo art. 110 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e destinadas a servidores efetivos, comissionados e empregados públicos permanentes, também ao pessoal contratado por tempo determinado em exercício no âmbito da administração direta, autárquica e fundacional do Poder Executivo estadual, todos lotados nas unidades centrais, setoriais ou correlatas do SIGES, devem ser concedidas conforme as normas gerais dos arts. 110 a 113 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 2º As GRGs, criadas pelo art. 110 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e destinadas a servidores efetivos, comissionados e empregados públicos que atuem nas áreas de gestão de pessoas e de gestão de projetos, devem ser concedidas conforme as normas gerais dos arts. 110 a 113 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~
 
-§ 3º É vedado editar portaria de concessão de FCRG, FCAC e GRG com data retroativa.<br>
+§ 3º É vedado editar portaria de concessão de FCRG, FCAC e GRG com data retroativa.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~§ 3º É vedado editar portaria de concessão de FCSIST, FCAC e GRG com data retroativa.~~
@@ -439,7 +526,8 @@ VI – o nome, o CPF e o cargo do servidor que receberá a FCRG, a FCAC ou a GRG
 
 § 6º A concessão e os respectivos efeitos financeiros ocorrerão a partir do 1º dia do mês subsequente à assinatura da portaria de que trata o _caput_ deste artigo, observado o calendário de fechamento da folha de pagamento.
 
-§ 7º O ato de que trata o _caput_ deste artigo independe de publicação no Diário Oficial do Estado<br>
+§ 7º O ato de que trata o _caput_ deste artigo independe de publicação no Diário Oficial do Estado
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 Art. 14. Os titulares das pastas das unidades centrais do sistema indicarão 2 (dois) representantes, 1 (um) titular e 1 (um) suplente, de cada rede, para a composição do Comitê de Governança do SIGES.
@@ -450,7 +538,8 @@ Art. 14. Os titulares das pastas das unidades centrais do sistema indicarão 2 (
 
 § 3º O Comitê de Governança estabelecerá o regimento próprio para orientar o seu funcionamento.
 
-Art. 15. As unidades centrais do SIGES poderão instituir Comitês de Governança Setoriais, que contribuirão para o cumprimento dos objetivos específicos de cada sistema, conforme a necessidade.<br>
+Art. 15. As unidades centrais do SIGES poderão instituir Comitês de Governança Setoriais, que contribuirão para o cumprimento dos objetivos específicos de cada sistema, conforme a necessidade.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~Art. 15. As unidades centrais do SIGES poderão instituir Comitês de Governança Setoriais, que contribuirão para o cumprimento dos objetivos específicos de cada rede, conforme a necessidade.~~
@@ -459,12 +548,14 @@ Parágrafo único. Os Comitês a que se refere o _caput_ deste artigo serão ins
 
 Art. 16. As minutas de decretos elaboradas pelas unidades centrais integrantes do SIGES deverão ser apreciadas pela SEAD para garantir a uniformidade da governança do sistema e deverão dispor sobre:
 
-I – os conceitos, os objetivos e as atribuições da rede específica a ser regulamentada, bem como a definição dos processos;<br>
+I – os conceitos, os objetivos e as atribuições da rede específica a ser regulamentada, bem como a definição dos processos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~I – os conceitos, os objetivos e as atribuições do sistema específico a ser regulamentado, bem como a definição dos processos;~~
 
-II – a discriminação das unidades setoriais e correlatas a serem abrangidas;<br>
+II – a discriminação das unidades setoriais e correlatas a serem abrangidas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~II – a discriminação das unidades setoriais a serem abrangidas;~~
@@ -473,7 +564,8 @@ III – a definição dos requisitos técnicos, dos critérios e do fluxo para a
 
 IV – as atribuições específicas a serem desempenhadas pelos servidores que perceberão as vantagens financeiras para atuarem no sistema central a ser regulamentado, de acordo com a sua complexidade, nos termos do inciso II do art. 11 deste Decreto;
 
-V – os critérios para a classificação das unidades setoriais e correlatas, considerada a complexidade de cada uma delas, quando houver distinção;<br>
+V – os critérios para a classificação das unidades setoriais e correlatas, considerada a complexidade de cada uma delas, quando houver distinção;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~V – os critérios para a classificação das unidades setoriais, considerada a complexidade de cada uma delas, quando houver distinção;~~
@@ -482,7 +574,8 @@ VI – o tempo mínimo de experiência profissional, as horas mínimas de capaci
 
 VII – a capacitação específica e continuada necessária para atuação nas áreas do SIGES; e
 
-VIII – as normas específicas aplicáveis às FCRGs, às FCACs e às GRGs, constantes da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e deste Decreto.<br>
+VIII – as normas específicas aplicáveis às FCRGs, às FCACs e às GRGs, constantes da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~VIII – as normas específicas aplicáveis às FCSISTs, às FCACs e às GRGs, constantes da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e neste Decreto.~~
@@ -499,7 +592,8 @@ I – o objetivo e a justificativa;
 
 II – a identificação do servidor; e
 
-III – o prazo de atuação.<br>
+III – o prazo de atuação.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 ~~III – o prazo de atuação de, no máximo, 45 (quarenta e cinco) dias.~~
@@ -514,7 +608,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677)
 
 DISTRIBUIÇÃO DAS FUNÇÕES COMISSIONADAS E GRATIFICAÇÕES DO SISTEMA ESTRUTURADOR DAS REDES DE GESTÃO
@@ -612,7 +707,8 @@ TABELA 8
 | GRG-4 / FCRG-4 | R$ 1.500,00 |
 | GRG-5 / FCRG-5 | R$ 1.000,00 |
 
-**TABELA 9**<br>
+**TABELA 9**
+
 \- [Acrescido pelo Decreto nº 10.730, de 10-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111078/decreto-10730).
 
 **ÁREA DE GESTÃO: TECNOLOGIA DA INFORMAÇÃO**
@@ -696,7 +792,8 @@ TABELA 8
 | ~~FCAC-1~~ | ~~R$ 3.000,00~~ | ~~R$ 95.000,00~~ |
 | ~~FCAC-2~~ | ~~R$ 2.000,00~~ |
 
-~~ANEXO II~~<br>
+~~ANEXO II~~
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677) , art. 14.
 
 ~~GRATIFICAÇÃO DAS REDES DE GESTÃO DE PESSOAS E DE GESTÃO DE PROJETOS~~
@@ -727,7 +824,8 @@ TABELA 8
 | ~~GRG-5~~ | ~~R$ 1.000,00~~ |
 | ~~GRG-6~~ | ~~R$ 500,00~~ |
 
-ANEXO III<br>
+ANEXO III
+
 \- [Revogado pelo Decreto n° 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677) , art. 14, II.
 
 ~~MODELO DE PORTARIA PARA A CONCESSÃO DE FUNÇÃO COMISSIONADA OU GRATIFICAÇÃO~~
@@ -760,7 +858,7 @@ ANEXO III<br>
 
 ~~ANEXO ÚNICO~~
 
-| ~~Nº DE ORDEM~~ | ~~ÓRGÃO OU ENTIDADE~~ | ~~SERVIDOR~~ | ~~CPF~~ | ~~TIPO DA FUNÇÃO OU DA GRATIFICAÇÃO~~ | ~~UNIDADE~~ ~~(CENTRAL OU SETORIAL)~~ |
+| ~~Nº DE ORDEM~~ | ~~ÓRGÃO OU ENTIDADE~~ | ~~SERVIDOR~~ | ~~CPF~~ | ~~TIPO DA FUNÇÃO OU DA GRATIFICAÇÃO~~ | ~~UNIDADE(CENTRAL OU SETORIAL)~~ |
 | --- | --- | --- | --- | --- | --- |
 | ~~1º~~ |   |   |   |   |   |
 | ~~2º~~ |   |   |   |   |   |

@@ -1,5 +1,3 @@
-###DEL-007324-0-000-15-02-1945@@@
-
 DECRETO-LEI N. 7.324 – DE 15 DE FEVEREIRO DE 1945
 
 Permite a remarcação de sacos no pôrto do destino das mercadorias, quando verificada a não indelebilidade da tinta de marcação

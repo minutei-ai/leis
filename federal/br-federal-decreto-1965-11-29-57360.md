@@ -1,5 +1,3 @@
-###DEC-057360-0-000-29-11-1965@@@
-
 DECRETO Nº 57.360, DE 29 DE NOVEMBRO DE 1965.
 
 Prorroga por 1 (um) ano o prazo da Intervenção Federal na Companhia Nacional de Navegação Costeira.

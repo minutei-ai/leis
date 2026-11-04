@@ -1,5 +1,3 @@
-###DEC-002259-0-000-20-06-1997@@@
-
 DECRETO Nº 2.259, DE 20 DE JUNHO DE 1997
 
 Regulamenta a legislação do imposto de renda na parte relativa a incentivos fiscais.

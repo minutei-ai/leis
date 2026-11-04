@@ -1,5 +1,3 @@
-###DEC-061849-0-000-06-12-1967@@@
-
 DECRETO Nº 61.849, DE 6 DE DEZEMBRO DE 1967.
 
 Ativa o Núcleo da 1º Subchefia - Planejamento do Estado-Maior da Aeronáutica e dá outras providências.

@@ -1,6 +1,7 @@
 LEI Nº 1.746 DE 23 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.366](https://www.legislabahia.ba.gov.br/documentos/lei-no-13366-de-29-de-junho-de-2015#LO%2013.366) de 29 de junho de 2015 - Atualiza os limites dos municípios, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Caém, Capim Grosso, Jacobina, Miguel Calmon, Mirangaba, Ourolândia, Quixabeira, Saúde, Serrolândia, Umburanas e Várzea Nova.
 
 Cria o Município de SERROLÂNDIA, desmembrado do de JACOBINA.
@@ -57,4 +58,4 @@ LEIA-SE da seguinte maneira, os limites com o município de Jacobina:
 
 Começa na reta tirada do lugar Serrolândia, para o riacho da Sapucaia, na Foz do Riacho da Jaqueira, no marco no lugar Várzea Nova; daí segue em reta que passando pelo lugar Selamin até o marco à margem do Rio Peixe ou da Pedra d'Água; por este abaixo até a represa do rio do Peixe; daí em reta à nascente do Riacho Pai Tomé; daí em reta na direção Sul até o marco à margem do rio Jacuípe.
 
-* * *
+ *

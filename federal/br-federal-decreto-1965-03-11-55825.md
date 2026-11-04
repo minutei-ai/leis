@@ -1,5 +1,3 @@
-###DEC-055825-0-000-11-03-1965@@@
-
 DECRETO Nº 55.825, DE 11 DE MARçO DE 1965.
 
 Abre pelo Ministério da Fazenda o crédito extraordinário de Cr$1.000 000.000 para os fins que especifica.

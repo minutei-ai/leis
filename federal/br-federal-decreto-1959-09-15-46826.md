@@ -1,5 +1,3 @@
-###DEC-046826-0-000-15-09-1959@@@
-
 DECRETO Nº 46.826, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Amável Soares a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

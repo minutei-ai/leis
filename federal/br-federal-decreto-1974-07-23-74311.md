@@ -1,5 +1,3 @@
-###DEC-074311-0-000-23-07-1974@@@
-
 DECRETO Nº 74.311 - DE 23 DE JULHO DE 1974.
 
 Concede reconhecimento ao Curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", mantida pela Associação Itaquerense de Ensino, com sede na cidade de São Paulo, Estado de São Paulo.

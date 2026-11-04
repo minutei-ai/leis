@@ -1,7 +1,3 @@
-1
-
-###DEC-095685-0-000-29-01-1988@@@
-
 DECRETO N° 95.685, DE 29 DE JANEIRO DE 1988
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo Comercial n° 26, do setor da indústria de artigos e aparelhos para usos hospitalares, médicos, odontológicos, veterinários e afins.

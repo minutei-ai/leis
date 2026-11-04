@@ -1,5 +1,3 @@
-###DEL-004987-0-000-21-11-1942@@@
-
 DECRETO-LEI N. 4.987 – DE 21 DE NOVEMBRO DE 1942
 
 Manda aproveitar, na constituição do Quadro de Saude da Aeronáutica, civís extranumerários do Ministério da Aeronáutica, diplomados em medicina e especializados em Medicina de Aviação.

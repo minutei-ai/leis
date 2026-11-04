@@ -1,20 +1,18 @@
-###DEC-043324-0-000-10-03-1958@@@
+**DECRETO Nº 43.324, DE 10 DE MAÇO DE 1958.**
 
-<strong>DECRETO Nº 43.324, DE 10 DE MAÇO DE 1958.</strong>
+***Altera o Decreto 43.285, de 25 de fevereiro de 1958.***
 
-<em><strong>Altera o Decreto 43.285, de 25 de fevereiro de 1958.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º A composição do grupo de trabalho a que se refere o art. 3º do Decreto nº 43.285, de 25 de fevereiro de 1958, fica acrescida de um representante de cada Ministério militar.
 
-<strong>Art</strong>. 1º A composição do grupo de trabalho a que se refere o art. 3º do Decreto nº 43.285, de 25 de fevereiro de 1958, fica acrescida de um representante de cada Ministério militar.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, em 10 de março de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico de Aguiar Salles
 

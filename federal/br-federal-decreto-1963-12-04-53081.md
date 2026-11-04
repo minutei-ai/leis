@@ -1,5 +1,3 @@
-###DEC-053081-0-000-04-12-1963@@@
-
 DECRETO Nº 53.081, DE 04 DE DEZEMBRO DE 1963.
 
 Torna privativo de pôsto de General-de-Brigada o cargo de Chefe do Escalão Avançado do Gabinete do Ministro da Guerra em Brasília.

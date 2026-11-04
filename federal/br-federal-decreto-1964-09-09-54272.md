@@ -1,5 +1,3 @@
-###DEC-054272-0-000-09-09-1964@@@
-
 Decreto nº 54.272, de 9 de setembro de 1964.
 
 Retifica relação que acompanhou o Decreto nº 51.662, de 16 de janeiro de 1963, que aprovou o enquadramento dos cargos e funções da Estrada de Ferro Noroeste do Brasil e deu outras providências.

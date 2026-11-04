@@ -1,5 +1,3 @@
-###DEL-003881-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.881 – DE 4 DE DEZEMBRO DE 1941
 
 Prorroga o prazo de que trata o decreto-lei nº 3.703, de 10 de outubro de 1941

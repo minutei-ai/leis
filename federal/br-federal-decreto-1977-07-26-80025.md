@@ -1,5 +1,3 @@
-###DEC-080025-0-000-26-07-1977@@@
-
 Decreto nº 80.025, de 26 de julho de 1977
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Araxá, com sede na cidade de Araxá, Estado de Minas Gerais.

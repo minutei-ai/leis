@@ -1,5 +1,3 @@
-###DEC-005076-0-000-11-05-2004@@@
-
 DECRETO Nº 5.076,  DE 11 DE MAIO DE 2004
 
 Dispõe sobre a execução do Trigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República do Chile, de 8 de março de 2004.

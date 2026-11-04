@@ -1,5 +1,3 @@
-###DEC-075379-0-000-14-02-1975@@@
-
 DECRETO Nº 75.379, DE 14 DE FEVEREIRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, situada na Vila Nunes, Vicente de Carvalho, Município de Guarujá, Estado de São Paulo, destinada à construção de central telefônica automática definitiva, pela Telecomunicações de São Paulo S.A - TELESP.

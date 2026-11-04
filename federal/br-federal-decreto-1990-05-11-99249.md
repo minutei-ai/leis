@@ -1,7 +1,3 @@
-1
-
-###DEC-099249-0-000-11-05-1990@@@
-
 DECRETO Nº 99.249, DE 11 DE MAIO DE 1990
 
 Altera o Decreto nº 98.161, de 21 de setembro de 1989, que dispõe sobre a administração do Fundo Nacional do Meio Ambiente - FNMA.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000885-0-000-02-08-1993@@@ 
-
 DECRETO N° 885, DE 2 DE AGOSTO DE 1993
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial n° 3, entre Brasil e Chile, de 15/3/1993.

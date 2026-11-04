@@ -1,5 +1,3 @@
-###DEC-049544-0-000-16-12-1960@@@
-
 decreto nº 49.544, de 16 de dezembro de 1960.
 
 Prorroga a vigência dos Decretos ns. 447.433, de 15 de dezembro de 1959, e 47.937 de 15 de março de 1960 e dá outras providências.

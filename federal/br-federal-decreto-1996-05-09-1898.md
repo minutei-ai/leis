@@ -1,5 +1,3 @@
-###DEC-001898-0-000-09-05-1996@@@
-
 DECRETO Nº 1.898, DE 9 DE MAIO DE 1996
 
 Concede indenização a familiar de pessoa desaparecida em virtude de participação ou acusação de participação em atividade política.

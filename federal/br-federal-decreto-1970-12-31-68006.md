@@ -1,5 +1,3 @@
-###DEC-068006-0-000-31-12-1970@@@
-
 DECRETO Nº 68.006, DE 31 DE DEZEMBRO DE 1970.
 
 Declara caduco o decreto nº 46.314 de 30 de junho de 1959.

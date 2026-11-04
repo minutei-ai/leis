@@ -1,5 +1,3 @@
-###DEC-076553-0-000-05-11-1975@@@
-
 DECRETO Nº 76.553, DE 5 DE NOVEMBRO DE 1975.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

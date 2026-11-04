@@ -1,5 +1,3 @@
-###DEC-066921-0-000-20-07-1970@@@
-
 DECRETO Nº 66.921, DE 20 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 19.601, de 12 de setembro de 1945.

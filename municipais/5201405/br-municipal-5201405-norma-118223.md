@@ -45,7 +45,21 @@ SITUAÇÃO PROPOSTA
 | LOTE 18A | 240,00 |
 | LOTE 18B | 240,00 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 19A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 21A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 21B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 22A</td><td style="text-align:center">240,00</td></tr></tbody></table>
+LOTE 19A
+
+240,00
+
+LOTE 21A
+
+240,00
+
+LOTE 21B
+
+240,00
+
+LOTE 22A
+
+240,00
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.012.933, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -53,8 +67,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 04 de julho de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

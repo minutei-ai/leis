@@ -1,5 +1,3 @@
-###DEC-059510-0-000-09-11-1966@@@
-
 DECRETO Nº 59.510, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro João Abel Filho a pesquisar areia quartzosa no município de Peruibe, Estado de São Paulo.

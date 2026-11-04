@@ -1,5 +1,3 @@
-###DEC-064749-0-000-27-06-1969@@@
-
 DECRETO Nº 64.749, DE 27 DE JUNHO DE 1969.
 
 Declara de utilidade pública a Sociedade Hospitalar São Francisco de Assis, com sede em Santo Amaro da Imperatriz, Estado de Santa Catarina.

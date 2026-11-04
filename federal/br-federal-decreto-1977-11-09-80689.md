@@ -1,5 +1,3 @@
-###DEC-080689-0-000-09-11-1977@@@
-
 Decreto nº 80.689, de 09 de novembro de 1977.
 
 Concede reconhecimento ao curso de Zootecnia, ministrado pelo Instituto de Zootecnia da Universidade Federal Rural do Rio de Janeiro, com sede na cidade de Itaguaí, Estado do Rio de Janeiro.

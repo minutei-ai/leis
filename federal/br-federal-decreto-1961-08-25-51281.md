@@ -1,5 +1,3 @@
-###DEC-051281-0-000-25-08-1961@@@
-
 Decreto Nº 51.281, DE 25 DE AGôSTO DE 1961.
 
 Declara de utilidade pública para desapropriação, imóvel que menciona em Barbacena (MG) necessário ao Ministério da Aeronáutica.

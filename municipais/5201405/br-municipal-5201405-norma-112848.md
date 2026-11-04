@@ -22,7 +22,8 @@ DECRETO Nº 1.702, DE 30 DE JUNHO DE 2025
 
  
 
-~~LEANDRO VILELA VELLOSO<br>
+~~LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia~~
 
 ~~ANEXO~~

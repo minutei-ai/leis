@@ -1,5 +1,3 @@
-###DEC-058671-0-000-20-06-1966@@@
-
 decreto nº 58.671, de 20 de junho de 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona ao Instituto Histórico e Geográfico de Iguape, Estado de São Paulo.

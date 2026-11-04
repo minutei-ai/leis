@@ -1,5 +1,3 @@
-###MPV-001745-0-016-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.745-16, DE 2 DE JUNHO 1999.
 
 Altera a redação dos arts. 26, 27, 31, 44 e 59 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998.

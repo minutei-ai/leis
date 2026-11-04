@@ -1,5 +1,3 @@
-###DEC-047523-0-000-28-12-1959@@@
-
 DECRETO Nº 47.523, DE 28 DE dezembRO DE 1959.
 
 Autoriza Industrial São Tomé Limitada a lavrar quartzito sericítico no município de Baependi, Estado de Minas Gerais.

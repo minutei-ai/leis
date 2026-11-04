@@ -1,7 +1,3 @@
-1
-
-###DEC-099395-0-000-18-07-1990@@@
-
 DECRETO Nº 99.395, DE 18 DE JULHO DE 1990
 
 Autoriza a Escola Técnica Federal de Pelotas, no Rio Grande do Sul, a organizar e manter cursos de nível superior de ensino.

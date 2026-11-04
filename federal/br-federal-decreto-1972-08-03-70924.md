@@ -1,5 +1,3 @@
-###DEC-070924-0-000-03-08-1972@@@
-
 DECRETO Nº 70.924, DE 3 DE AGOSTO DE 1972.
 
 Concede à Industrial Extrativa Mármore Azul - MARMAZUL Ltda., o direito de lavrar quartzito azul no município de Boquira, Estado da Bahia.

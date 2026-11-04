@@ -1,5 +1,3 @@
-###DEC-047190-0-000-06-11-1959@@@
-
 DECRETO Nº 47.190, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza à Mineração Marapé Limitada autorização para funcionar como emprêsa de mineração.

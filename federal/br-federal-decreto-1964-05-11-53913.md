@@ -1,5 +1,3 @@
-###DEC-053913-0-000-11-05-1964@@@
-
 DECRETO Nº 53.913, DE 11 DE MAIO DE 1964.
 
 Dispõe sôbre estoques de trigo e seus derivados e quantidades em trânsito de trigo em grão, importado, e dá outras providências.

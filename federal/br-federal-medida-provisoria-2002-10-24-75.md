@@ -384,8 +384,6 @@ FERNANDO HENRIQUE CARDOSO
 
 Pedro Malan
 
-###MPV-000075-0-000-24-10-2002@@@REP01+++
-
 MEDIDA PROVISÓRIA Nº 75, DE 24 DE OUTUBRO DE 2002
 
 Altera a Legislação Tributária Federal, e dá outras providências.

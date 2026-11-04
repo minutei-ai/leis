@@ -1,5 +1,3 @@
-###DEC-052695-0-000-16-10-1963@@@
-
 DECRETO Nº 52.695, DE 16 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública para fins de desapropriação o imóvel que menciona necessário ao Ministério da Guerra.

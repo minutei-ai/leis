@@ -1,5 +1,3 @@
-###DEC-049610-0-000-29-12-1960@@@
-
 DECRETO Nº 49.610, DE 29 DE DEZEMBRO DE 1960.
 
 Outorga concessão à Televisão Itapoan S.A para estabelecer uma estação de radiotelevisão.

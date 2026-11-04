@@ -1,5 +1,3 @@
-###DEC-007693-0-000-02-03-2012-PUB-01@@@
-
 DECRETO Nº 7.693, DE 2 DE MARÇO DE 2012
 
 Altera o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, de que trata o Decreto nº 6.317, de 20 de dezembro de 2007, e remaneja cargos em comissão.

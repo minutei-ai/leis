@@ -1,5 +1,3 @@
-###DEL-001683-0-000-29-05-1979@@@
-
 # Decreto-Lei nº 1.683, de 29 de maio de 1979
 
 Dispõe sobre o recebimento de contribuições previdenciárias em atraso, com dispensa total ou parcial de multa.

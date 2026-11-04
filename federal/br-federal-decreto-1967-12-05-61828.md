@@ -1,5 +1,3 @@
-###DEC-061828-0-000-05-12-1967@@@
-
 DECRETO Nº 61.828, DE 5 DE DEZEMBRO DE 1967.
 
 Autoriza a Indústria Mineração Alvo Mármore Ltda., a lavrar mármore, no município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

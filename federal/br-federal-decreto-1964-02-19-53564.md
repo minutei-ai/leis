@@ -1,5 +1,3 @@
-###DEC-053564-0-000-19-02-1964@@@
-
 DECRETO Nº 53.564, DE 19 DE FEVEREIRO DE 1964.
 
 Fixa o número de vagas para a cota compulsória, no Exército, em cada quadro e pôsto.

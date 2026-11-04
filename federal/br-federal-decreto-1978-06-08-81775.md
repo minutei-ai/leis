@@ -1,5 +1,3 @@
-###DEC-081775-0-000-08-06-1978@@@
-
 Decreto nº 81.775, de 8 de junho de 1978.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União em operação de crédito externo a ser contratada pela Companhia do Metropolitano de São Paulo (METRÔ).

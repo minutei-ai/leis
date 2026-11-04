@@ -1,5 +1,3 @@
-###MPV-000051-0-000-04-07-2002@@@
-
 MEDIDA PROVISÓRIA Nº 51, DE 4 DE JULHO DE 2002
 
 Dispõe sobre a ,criação de cargos de Guarda de Polícia Federal e de Analista de Infor­mações Policiais no Quadro de Pessoal do Departamento de Polícia Federal, e de Di­reção e Assessorarriento Superiores no âm­bito da Administração Pública Federal, e dá outras providências.

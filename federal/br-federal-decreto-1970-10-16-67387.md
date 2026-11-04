@@ -1,5 +1,3 @@
-###DEC-067387-0-000-16-10-1970@@@
-
 DECRETO Nº 67.387, DE 16 DE OUTUBRO DE 1970.
 
 Declara caduco o decreto nº 31.347 de 27 de agôsto de 1952.

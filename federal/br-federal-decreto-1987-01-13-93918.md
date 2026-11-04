@@ -1,5 +1,3 @@
-###DEC-093918-0-000-13-01-1987@@@
-
 DECRETO N° 93.918, DE 13 DE JANEIRO DE 1987
 
 Prorroga o prazo para conclusão dos trabalhos do Grupo de Trabalho Interministerial, instituído pelo Decreto n° 92.754, de 05 de junho de 1986, para realizar estudos relativos à implementação de Estação Ecológica na área onde se localiza a Central Nuclear de Angra dos Reis, e dá outras providências.

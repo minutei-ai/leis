@@ -1,5 +1,3 @@
-###DEC-087520-0-000-24-08-1982@@@
-
 Decreto nº 87.520, de 24 de agosto de 1982
 
 Dispõe sobre a organização do Gabinete do Ministro de Estado Extraordinário para Assuntos Fundiários e dá outras providências:

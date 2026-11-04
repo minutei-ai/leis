@@ -1,5 +1,3 @@
-###DEC-069159-0-000-01-09-1971@@@
-
 DECRETO Nº 69.159, DE 1 DE SETEMBRO DE 1971.
 
 Dispõe sôbre a Tabela Provisória de Pessoal Temporário da Escola Nacional de Informações.

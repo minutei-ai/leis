@@ -1,5 +1,3 @@
-###DEC-050494-0-000-25-04-1961@@@
-
 Decreto nº 50.494, de 25 de abril de 1961.
 
 Determina regime de urgência para a desapropriação por utilidade pública, decorrente do Decreto nº 50.379, de 27 de março de 1961, e dá outras providências.

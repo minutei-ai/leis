@@ -1,5 +1,3 @@
-###DEC-074425-0-000-16-08-1974@@@
-
 DECRETO nº 74.425 - DE 16 DE AGOSTO DE 1974.
 
 Retifica a concessão de lavra outorgada a Pigmentos Minerais Industrial e Comercial - PIGMINA Sociedade Anônima, pelo Decreto número 12.685, de 23 de junho de 1943, e revoga o Decreto n° 27.182, de 15 de setembro de 1949.

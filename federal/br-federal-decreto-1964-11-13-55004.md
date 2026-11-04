@@ -1,5 +1,3 @@
-###DEC-055004-0-000-13-11-1964@@@
-
 DECRETO Nº 55.004, DE 13 DE NOVEMBRO DE 1964.
 
 Inclui nas relações de que trata o Decreto nº 54.015, de 13 de julho de 1964, os cargos que especifica.

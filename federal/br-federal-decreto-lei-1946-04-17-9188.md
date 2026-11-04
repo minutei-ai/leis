@@ -1,5 +1,3 @@
-###DEL-009188-0-000-17-04-1946@@@
-
 DECRETO-LEI N. 9.188 – DE 17 ABRIL DE 1946
 
 Cria, sem aumento de despesa, funções gratificadas no Quadro Permanente do Departamento administrativo do Serviço Público.

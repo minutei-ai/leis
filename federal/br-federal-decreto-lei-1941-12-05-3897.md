@@ -1,5 +1,3 @@
-###DEL-003897-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.897 – DE 5 DE DEZEMBRO DE 1941
 
 Classifica as Delegacias de Trabalho Marítimo e fixa a gratificação de representação dos membros dos respectivos Conselhos

@@ -1,5 +1,3 @@
-###DEL-006777-0-000-08-08-1944@@@
-
 DECRETO-LEI N. 6.777 – DE 8 DE AGÔSTO DE 1944
 
 Dispõe sôbre a subrogação de imóveis gravados ou inalienáveis

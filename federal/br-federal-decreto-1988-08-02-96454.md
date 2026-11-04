@@ -1,5 +1,3 @@
-###DEC-096454-0-000-02-08-1988@@@
-
 DECRETO N° 96.454, DE 2 DE AGOSTO DE 1988
 
 Autoriza o BANCO HOLANDÊS UNIDO S.A. a instalar mais duas filiais no Brasil.

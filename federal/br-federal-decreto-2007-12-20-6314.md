@@ -1,5 +1,3 @@
-###DEC-006314-0-000-20-12-2007@@@
-
 DECRETO Nº 6.314, DE 20 DE DEZEMBRO DE 2007.
 
 Regulamenta o art. 5o da Lei no 9.818, de 23 de agosto de 1999, que cria o Fundo de Garantia à Exportação - FGE.
@@ -19,5 +17,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 21.12.2007

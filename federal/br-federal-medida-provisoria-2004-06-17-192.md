@@ -1,5 +1,3 @@
-###MPV-000192-0-000-17-06-2004@@@
-
 MEDIDA PROVISÓRIA Nº 192, DE 17 DE JUNHO 2004
 
  Dá nova redação ao § 4º do art. 5º da Lei nº 8.629, de 25 de fevereiro de 1993, que dispõe sobre a forma de pagamento das indenizações decorrentes de acordos judiciais, acrescenta os §§ 7º, 8º e 9º ao mesmo artigo, dispondo sobre a forma de pagamento dos imóveis rurais pela modalidade de aquisição por compra e venda, e dá outras providências.

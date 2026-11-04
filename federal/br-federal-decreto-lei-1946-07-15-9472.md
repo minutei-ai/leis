@@ -1,5 +1,3 @@
-###DEL-009472-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.472 – DE 15 DE JULHO DE 1946
 
 Abre ao Ministério da Viação e Obras Pública o crédito especial de Cr$ 24.000.000,00, para pagamento à concessionária do pôrto de Santos, nos têrmos do Decreto-lei n.º 9.406, de 27 de Junho de 1946.

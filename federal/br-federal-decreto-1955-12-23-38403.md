@@ -1,14 +1,12 @@
-###DEC-038403-0-000-23-12-1955@@@
+**DECRETO Nº 38.403, DE 23 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.403, DE 23 DE DEZEMBRO DE 1955.</strong>
+***Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas contidas, necessárias à execução do projeto das obras destinadas ao progressivo aproveitamento hidroelétrico de Peixoto.***
 
-<em><strong>Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas contidas, necessárias à execução do projeto das obras destinadas ao progressivo aproveitamento hidroelétrico de Peixoto.</strong></em>
+**O VICE PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e atendendo ao disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido, pela interessada,
 
-<strong>O VICE PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e atendendo ao disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido, pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas contidas, de acôrdo com as plantas visadas pelo Diretor da Divisão de Águas, aprovadas pelo Ministério da Agricultura e anexadas ao processo D. Ag. número 1.130-55, da Divisão de Águas, do Departamento Nacional da Produção Mineral, necessária à execução do Projeto Mineral, necessárias à execução do projeto das obras destinadas ao aproveitamento hidroelétrico de Peixoto, cujo aproveitamento progressivo foi outorgado pela concessão de que trata o Decreto nº 31.132, de 11 de julho de 1952, à Companhia Paulista de Fôrca e Luz, publicado no <em>Diário</em> <em>Oficial</em> de 14 de julho de 1952 e cujo projeto está aprovado pelo Ministro da Agricultura, por despacho de 23 de fevereiro de 1953, no processo D. Ag. nº 3.912-49:
+**Art**. 1º Ficam declaradas de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas contidas, de acôrdo com as plantas visadas pelo Diretor da Divisão de Águas, aprovadas pelo Ministério da Agricultura e anexadas ao processo D. Ag. número 1.130-55, da Divisão de Águas, do Departamento Nacional da Produção Mineral, necessária à execução do Projeto Mineral, necessárias à execução do projeto das obras destinadas ao aproveitamento hidroelétrico de Peixoto, cujo aproveitamento progressivo foi outorgado pela concessão de que trata o Decreto nº 31.132, de 11 de julho de 1952, à Companhia Paulista de Fôrca e Luz, publicado no *DiárioOficial* de 14 de julho de 1952 e cujo projeto está aprovado pelo Ministro da Agricultura, por despacho de 23 de fevereiro de 1953, no processo D. Ag. nº 3.912-49:
 
 1º - área de 4.690m² (quatro mil novecentos e sessenta metros quadrados), atribuída a João Soares cf. planta nº BX - D - 9.409 - R;
 
@@ -46,16 +44,16 @@
 
 18º - área de 800m² (oitocentos metros quadrados), atribuídas a José da Silva Vieira, cf. planta número BX – D - 9.964 - R.
 
-<strong>Art</strong>. 2º Fica autorizada a companhia Paulista de Fôrça e Luz a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a companhia Paulista de Fôrça e Luz a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15º do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152, de 6 de março de 1942 e 9.811, de 9 de setembro de 1946.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15º do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152, de 6 de março de 1942 e 9.811, de 9 de setembro de 1946.
 
-<strong>Art</strong>. 4º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Eduardo Catalão

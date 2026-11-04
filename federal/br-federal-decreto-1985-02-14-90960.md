@@ -1,5 +1,3 @@
-###DEC-090960-0-000-14-02-1985@@@
-
 Decreto nº 90.960, de 14 de fevereiro de 1985.
 
 Declara de ocupação dos silvícolas, área de terras nos municípios de Tocantinópolis e Itaguatins, no Estado de Goiás, e dá outras providências.

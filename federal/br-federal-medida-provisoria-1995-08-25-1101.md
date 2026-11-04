@@ -1,7 +1,3 @@
-1
-
-###MPV-001101-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.101, DE 25 DE AGOSTO DE 1995.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

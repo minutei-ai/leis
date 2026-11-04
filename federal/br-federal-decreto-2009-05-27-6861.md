@@ -1,5 +1,3 @@
-###DEC-006861-0-000-27-05-2009@@@
-
 DECRETO Nº 6.861, DE 27 DE MAIO DE 2009.
 
 Dispõe sobre a Educação Escolar Indígena, define sua organização em territórios etnoeducacionais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071088-0-000-13-09-1972@@@
-
 DECRETO Nº 71.088, DE 13 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão, no Estado de São Paulo.

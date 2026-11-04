@@ -1,5 +1,3 @@
-###DEC-077387-0-000-05-04-1976@@@
-
 DECRETO Nº 77.387, DE 5 DE ABRIL DE 1976.
 
 Aprova ata da 289ª Sessão Extraordinária do Conselho Nacional do Petróleo e dá outras providências.

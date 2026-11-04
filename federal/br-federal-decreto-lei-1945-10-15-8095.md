@@ -1,5 +1,3 @@
-###DEL-008095-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.095 – DE 15 DE OUTUBRO DE 1945
 
 Autoriza a Prefeitura do Distrito Federal a conceder a "Companhia de Hotéis Turistas do Brasil" pelo prazo de 30 (trinta) anos, o uso e gozo de um terreno situado na Avenida Pasteur nas condições que estabelece e dá outras providências

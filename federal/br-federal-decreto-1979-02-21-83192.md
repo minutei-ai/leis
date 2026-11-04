@@ -1,5 +1,3 @@
-###DEC-083192-0-000-21-02-1979@@@
-
 Decreto nº 83.192, de 21 de fevereiro de 1979
 
 Dispõe sobre a destinação, no exercício de 1979, dos recursos para execução do Programa de Redistribuição de Terras e de Estímulo à Agroinsdústria do Norte e Nordeste (PROTERRA).

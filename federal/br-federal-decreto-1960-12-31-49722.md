@@ -1,5 +1,3 @@
-###DEC-049722-0-000-31-12-1960@@@
-
 DECRETO Nº 49.722, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à sociedade anônima Société de Sucreries Brésiliennes, autorização para continuar a funcionar na República.

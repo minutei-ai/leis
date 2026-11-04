@@ -1,5 +1,3 @@
-###DEC-061000-0-000-13-07-1967@@@
-
 decreto nº 61.000, de 13 de julho de 1967.
 
 Declara de utilidade pública a “Sociedade Santamarense de Beneficiência de Guarujá”, com sede em Santos, Estado de São Paulo.

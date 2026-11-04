@@ -1,5 +1,3 @@
-###DEC-000000-0-090-12-11-1822@@@
-
 DECRETO - DE 12 DE NOVEMBRO DE 1822
 
 Declara de nenhum effeito as graças e officios pertencentes a pessoas residentes em Portugal.

@@ -1,5 +1,3 @@
-###DEC-085984-0-000-06-05-1981@@@
-
 Decreto nº 85.984, de 06 de maio de 1981
 
 Concede à Telecomunicações do Paraná S.A. - TELEPAR, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS, autorização para emitir debêntures conversíveis em ações e para promover o aumento respectivo de seu capital social.

@@ -1,5 +1,3 @@
-###DEC-089207-0-000-20-12-1983@@@
-
 DECRETO Nº 89.207, DE 20 de dezembro de 1983.
 
 Altera a redação do Artigo 2º do Decreto nº 83.278, de 12 de março de 1979, declaratório de utilidade pública de imóvel localizado em BENTO GONÇALVES-RS, destinado ao Ministério do Exército.

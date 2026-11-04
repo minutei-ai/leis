@@ -1,5 +1,3 @@
-###DEC-078735-0-000-17-11-1976@@@
-
 decreto nº 78.735, de 17 de novembro de 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Maranhão.

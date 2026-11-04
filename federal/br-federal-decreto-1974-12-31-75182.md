@@ -1,5 +1,3 @@
-###DEC-075182-0-000-31-12-1974@@@
-
 DECRETO Nº 75.182, DE 31 DE DEZEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cultura de Sergipe S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Aracaju, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-057332-0-000-24-11-1965@@@
-
 DECRET0 Nº 57.332, DE 24 DE NOVEMBRO DE 1965.
 
 Concede à Crisotila Itaberaba Mineração S.A. autorização para funcionar como emprêsa de mineração.

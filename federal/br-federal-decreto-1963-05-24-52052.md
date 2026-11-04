@@ -1,5 +1,3 @@
-###DEC-052052-0-000-24-05-1963@@@
-
 DECRETO Nº 52.052, DE 24 DE MAIO DE 1963.
 
 Cria, no Ministério das Relações Exteriores, Comissão Encarregada de estudar a política do Brasil em matéria de Direito do Mar.

@@ -6,7 +6,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º São agraciadas, no exercício de 2022, com a Medalha da Ordem do Mérito da Segurança Pública Governador Mauro Borges Teixeira, nos graus indicados, as autoridades civis e militares relacionadas no Anexo Único deste Decreto pelos relevantes serviços prestados à segurança pública do Estado de Goiás.<br>
+Art. 1º São agraciadas, no exercício de 2022, com a Medalha da Ordem do Mérito da Segurança Pública Governador Mauro Borges Teixeira, nos graus indicados, as autoridades civis e militares relacionadas no Anexo Único deste Decreto pelos relevantes serviços prestados à segurança pública do Estado de Goiás.
+
 \- [Redação dada pelo Decreto nº 10.351, de 29-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108126/decreto-10351).
 
 ~~Art. 1º São agraciadas com a Medalha da Ordem do Mérito da Segurança Pública Governador Mauro Borges Teixeira, nos graus indicados, as autoridades civis e militares relacionadas no Anexo Único deste Decreto pelos relevantes serviços prestados à segurança pública do Estado de Goiás.~~
@@ -14,8 +15,6 @@ Art. 1º São agraciadas, no exercício de 2022, com a Medalha da Ordem do Méri
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 5 de janeiro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 
@@ -25,9 +24,10 @@ ANEXO ÚNICO
 
 MEDALHA DA ORDEM DO MÉRITO DA SEGURANÇA PÚBLICA GOVERNADOR MAURO BORGES TEIXEIRA
 
-| <br>
-GRAU: GRANDE-OFICIAL<br>
-<br>
+|
+
+GRAU: GRANDE-OFICIAL
+
  |
 | --- |
 | **Nº DE ORDEM** | **NOME** |
@@ -61,11 +61,13 @@ GRAU: GRANDE-OFICIAL<br>
 | 28 | REGINALDO ALVES DA NÓBREGA JÚNIOR |
 | 29 | TIAGO FREITAS DE MENDONÇA |
 | 30 | WELINGTON MATOS DE LIMA |
-| 31 | TENENTE-CORONEL BM \*1.63\* MARCOS VINÍCIUS BATISTA CONÇALVES<br>
+| 31 | TENENTE-CORONEL BM \*1.63\* MARCOS VINÍCIUS BATISTA CONÇALVES
+
 \- [Incluído pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494). |
-| **<br>
-GRAU: COMENDADOR<br>
-<br>
+| **
+
+GRAU: COMENDADOR
+
 ** |
 | **Nº DE ORDEM** | **NOME** |
 | 1º | CORONEL PM RR 18.239 ADAILTON FLORENTINO DO NASCIMENTO |
@@ -396,257 +398,426 @@ GRAU: COMENDADOR<br>
 | 326 | TENENTE-CORONEL BM 1.316 CRISTIANO CARVALHO REZENDE |
 | 327 | TENENTE-CORONEL BM 1.397 FERNANDO AUGUSTO CARAMASCHI DE MELO |
 | 328 | TENENTE-CORONEL BM 1.392 ERDEBANE RODRIGUES MONTEIRO JÚNIOR |
-| ~~329~~ | ~~TENENTE-CORONEL BM 1.638 MARCOS VINÍCIUS BATISTA GONÇALVES~~<br>
+| ~~329~~ | ~~TENENTE-CORONEL BM 1.638 MARCOS VINÍCIUS BATISTA GONÇALVES~~
+
 \- [Excluído pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 329<br>
-~~330~~ | MAJOR BM 2289 TIAGO COSTA CHAVES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 330<br>
-~~331~~ | MAJOR BM 2.311 EDUARDO DE MELO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 331<br>
-~~332~~ | MAJOR BM 2.295 BRUNO DIAS PRUDENTE<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 332<br>
-~~333~~ | CAPITÃO BM 3.247 CARLANE CALIXTO DE BRITO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 333<br>
-~~334~~ | CAPITÃO BM 2.772 ÍTALO FERREIRA SILVA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 334<br>
-~~335~~ | CAPITÃO BM 2.779 JOSÉ RODOLFO VICENTE RIBEIRO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 335<br>
-~~336~~ | CAPITÃO BM 2.362 DANIEL MARRA PINHEIRO DE ALMEIDA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 336<br>
-~~337~~ | CAPITÃO BM 2.949 ANA PAULA FINOTTI<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 337<br>
-~~338~~ | PRIMEIRO-TENENTE BM 3.845 DIOGO MARTINS PIMENTA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 338<br>
-~~339~~ | PRIMEIRO-TENENTE BM 3.842 GUSTAVO DE SOUZA PEREIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 339<br>
-~~340~~ | PRIMEIRO-TENENTE BM 1.863 CRISTIANO RIBEIRO DE AMORIM<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 340<br>
-~~341~~ | PRIMEIRO-TENENTE BM 3.665 THAYSSA SOUZA RAMOS<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 341<br>
-~~342~~ | PRIMEIRO-TENENTE BM 2.413 FRANCISCO LINS DE SOUSA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 342<br>
-~~343~~ | PRIMEIRO-TENENTE BM 1.432 ANDRÉ LUIZ DO CARMO SANTANA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 343<br>
-~~344~~ | PRIMEIRO-TENENTE BM 1.445 CARLOS EDUARDO SILVA CANÇADO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 344<br>
-~~345~~ | PRIMEIRO-TENENTE BM 2.329 ANDRÉ AUGUSTO VIANA PIRES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 345<br>
-~~346~~ | PRIMEIRO-TENENTE BM 3.672 HOLANDO DE OLIVEIRA FRANCO JÚNIOR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 346<br>
-~~347~~ | PRIMEIRO-TENENTE BM 3.839 ADRIEL ALVES DE SOUZA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 347<br>
-~~348~~ | PRIMEIRO-TENENTE BM 3.669 THIAGO CORREA FAGUNDES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 348<br>
-~~349~~ | PRIMEIRO-TENENTE BM 3.670 VICENTE CARVELO JÚNIOR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 349<br>
-~~350~~ | SUBTENENTE BM 1.352 GERALDO BERNARDINO DA MOTA NETO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 350<br>
-~~351~~ | PRIMEIRO-SARGENTO BM 2.702 LÍVIO CÉSAR PAZ LIRA GOUVEIA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 351<br>
-~~352~~ | PRIMEIRO-SARGENTO BM 2.345 CARLOS ANTÔNIO MESQUITA JÚNIOR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 352<br>
-~~353~~ | PRIMEIRO-SARGENTO BM 2.553 THAYSE FRANCIELLE SANTOS SILVA OLIVEIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 353<br>
-~~354~~ | PRIMEIRO-SARGENTO BM 3.143 SANDRA MONTEIRO SILVA OLIVEIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 354<br>
-~~355~~ | PRIMEIRO-SARGENTO BM 2.490 MARCOS GUILHERME NERY SANTIAGO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 355<br>
-~~356~~ | SEGUNDO-SARGENTO BM 02.069 LUCIANO PAES ORVATE<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 356<br>
-~~357~~ | SEGUNDO-SARGENTO BM 2.322 ALLINE OLIVEIRA DO PRADO ROCHA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 357<br>
-~~358~~ | SEGUNDO-SARGENTO BM 1.851 CLAUDIOMAR RODRIGUES DA SILVA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 358<br>
-~~359~~ | SEGUNDO-SARGENTO BM 2.551 THAÍS DE SOUZA CORREA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 359<br>
-~~360~~ | SEGUNDO-SARGENTO BM 2.204 SILVANA MARIA RODRIGUES PAIVA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 360<br>
-~~361~~ | SEGUNDO-SARGENTO BM 2.450 JOSÉ GUILHERME RIBEIRO DE FARIA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 361<br>
-~~362~~ | TERCEIRO-SARGENTO BM 3.328 THIAGO GOMES DE AGUIAR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 362<br>
-~~363~~ | TERCEIRO-SARGENTO BM 2.640 ANDRÉ VELOSO FERREIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 363<br>
-~~364~~ | TERCEIRO-SARGENTO BM 3.238 THIAGO MARRA ROSA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 364<br>
-~~365~~ | TERCEIRO-SARGENTO BM 3.218 GILBERTO EDUARDO RODRIGUES JUNIOR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 365<br>
-~~366~~ | TERCEIRO-SARGENTO BM 3.648 LEONARDO MALHEIROS DA SILVA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 366<br>
-~~367~~ | TERCEIRO-SARGENTO BM 2.483 MARCELO RESENDE TEODORO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 367<br>
-~~368~~ | TERCEIRO-SARGENTO BM 2.565 WANER LOPES BORGES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 368<br>
-~~369~~ | TERCEIRO-SARGENTO BM 2.443 JOCHEM MASS MARTINS RIBEIRO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 369<br>
-~~370~~ | CABO BM 3.639 DIEGO FERREIRA RODRIGUES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 370<br>
-~~371~~ | CABO BM 3.774 MARCOS ROBERTO ARAÚJO NOLASCO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 371<br>
-~~372~~ | CABO BM 3.640 GEYSON FERREIRA PARREIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 372<br>
-~~373~~ | CABO BM 3.519 LUCIANO SILVA FILHO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 373<br>
-~~374~~ | CABO BM 3.806 JOSÉ MAURO OLIVEIRA JÚNIOR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 374<br>
-~~375~~ | SOLDADO BM 4.046 RENATA MADUREIRA BARBOSA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 375<br>
-~~376~~ | POLICIAL CIVIL DEUSNY APARECIDO SILVA FILHO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 376<br>
-~~377~~ | POLICIAL CIVIL ANA CLAUDIA RORIGUES STOFFEL<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 377<br>
-~~378~~ | POLICIAL CIVIL ALEXANDRE BRUNO BARROS<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 378<br>
-~~379~~ | POLICIAL CIVIL JANAÍNA DO COUTO MASCARENHAS<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 379<br>
-~~380~~ | POLICIAL CIVIL THATIANA MARQUES LEÃO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 380<br>
-~~381~~ | POLICIAL CIVIL MILA VILELA JUNQUEIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 381<br>
-~~382~~ | POLICIAL CIVIL LAYO SOUSA MARCHESINI<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 382<br>
-~~383~~ | POLICIAL TÉCNICO-CIENTÍFICO SOPHIA WIECZOREK LOBO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 383<br>
-~~384~~ | POLICIAL TÉCNICO CIENTÍFICO WARLEY ALVES FERREIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 384<br>
-~~385~~ | POLICIAL TÉCNICO CIENTÍFICO HUMBERTO DE ALMEIDA MOREIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 385<br>
-~~386~~ | POLICIAL TÉCNICO-CIENTÍFICO GISELE DE BRITO LIMA JAIME<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 386<br>
-~~387~~ | POLICIAL TÉCNICO CIENTÍFICO ROBSON DE SOUZA RODRIGUES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 387<br>
-~~388~~ | POLICIAL TÉCNICO CIENTÍFICO GUSTAVO SULEK FERREIRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 388<br>
-~~389~~ | POLICIAL TÉCNICO CIENTÍFICO LUIZ HENRIQUE PEREIRA DA COSTA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 389<br>
-~~390~~ | POLICIAL PENAL JOSIMAR PIRES NICOLAU DO NASCIMENTO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 390<br>
-~~391~~ | POLICIAL PENAL ANTÔNIO AUGUSTO MOSCA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 391<br>
-~~392~~ | ADRYANNA LEONOR MELO DE OLIVEIRA CAIADO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 392<br>
-~~393~~ | ALEXANDRE ALENCASTRO VEIGA HSIUNG<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 393<br>
-~~394~~ | ANA VITÓRIA GOMES CAIADO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 394<br>
-~~395~~ | DÉCIO AGRÁRIO CALAZANS WENDORF DE CARVALHO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 395<br>
-~~396~~ | FELIPE LUIS PERUCA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 396<br>
-~~397~~ | GERSON SANTANA CINTRA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 397<br>
-~~398~~ | GUILHERME GUTEMBERG ISAC PINTO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 398<br>
-~~399~~ | JOÃO BATISTA CARVALHO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 399<br>
-~~400~~ | JORDANA YASPERS HELOU<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 400<br>
-~~401~~ | JORGE LUIZ RAMOS CAIADO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 401<br>
-~~402~~ | JORGE LUIZ RAMOS CAIADO JÚNIOR<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 402<br>
-~~403~~ | LEVY RAFAEL ALVES CORNÉLIO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 403<br>
-~~404~~ | LUIS CLAUDIO DE ALMEIDA NASCIMENTO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 404<br>
-~~405~~ | MANOEL DIVINO DA SILVA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 405<br>
-~~406~~ | MANOEL RIZZO COSTA FILHO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 406<br>
-~~407~~ | MÁRIO CARVALHO KANASHIRO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 407<br>
-~~408~~ | MIRIAN LIMA ARANTES<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 408<br>
-~~409~~ | OLÍVIA MILHOMEM PEREIRA CARVALHO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 409<br>
-~~410~~ | RODNEY DA SILVA<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 410<br>
-~~411~~ | RONDON RAMOS CAIADO<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 411<br>
-~~412~~ | TARSIO RICARDO DE OLIVEIRA FREITAS<br>
-\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
-| 412<br>
-~~413~~ | WELINGTON LUÍS PEIXOTO<br>
+| 329
+
+~~330~~ | MAJOR BM 2289 TIAGO COSTA CHAVES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 330
+
+~~331~~ | MAJOR BM 2.311 EDUARDO DE MELO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 331
+
+~~332~~ | MAJOR BM 2.295 BRUNO DIAS PRUDENTE
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 332
+
+~~333~~ | CAPITÃO BM 3.247 CARLANE CALIXTO DE BRITO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 333
+
+~~334~~ | CAPITÃO BM 2.772 ÍTALO FERREIRA SILVA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 334
+
+~~335~~ | CAPITÃO BM 2.779 JOSÉ RODOLFO VICENTE RIBEIRO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 335
+
+~~336~~ | CAPITÃO BM 2.362 DANIEL MARRA PINHEIRO DE ALMEIDA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 336
+
+~~337~~ | CAPITÃO BM 2.949 ANA PAULA FINOTTI
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 337
+
+~~338~~ | PRIMEIRO-TENENTE BM 3.845 DIOGO MARTINS PIMENTA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 338
+
+~~339~~ | PRIMEIRO-TENENTE BM 3.842 GUSTAVO DE SOUZA PEREIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 339
+
+~~340~~ | PRIMEIRO-TENENTE BM 1.863 CRISTIANO RIBEIRO DE AMORIM
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 340
+
+~~341~~ | PRIMEIRO-TENENTE BM 3.665 THAYSSA SOUZA RAMOS
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 341
+
+~~342~~ | PRIMEIRO-TENENTE BM 2.413 FRANCISCO LINS DE SOUSA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 342
+
+~~343~~ | PRIMEIRO-TENENTE BM 1.432 ANDRÉ LUIZ DO CARMO SANTANA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 343
+
+~~344~~ | PRIMEIRO-TENENTE BM 1.445 CARLOS EDUARDO SILVA CANÇADO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 344
+
+~~345~~ | PRIMEIRO-TENENTE BM 2.329 ANDRÉ AUGUSTO VIANA PIRES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 345
+
+~~346~~ | PRIMEIRO-TENENTE BM 3.672 HOLANDO DE OLIVEIRA FRANCO JÚNIOR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 346
+
+~~347~~ | PRIMEIRO-TENENTE BM 3.839 ADRIEL ALVES DE SOUZA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 347
+
+~~348~~ | PRIMEIRO-TENENTE BM 3.669 THIAGO CORREA FAGUNDES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 348
+
+~~349~~ | PRIMEIRO-TENENTE BM 3.670 VICENTE CARVELO JÚNIOR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 349
+
+~~350~~ | SUBTENENTE BM 1.352 GERALDO BERNARDINO DA MOTA NETO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 350
+
+~~351~~ | PRIMEIRO-SARGENTO BM 2.702 LÍVIO CÉSAR PAZ LIRA GOUVEIA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 351
+
+~~352~~ | PRIMEIRO-SARGENTO BM 2.345 CARLOS ANTÔNIO MESQUITA JÚNIOR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 352
+
+~~353~~ | PRIMEIRO-SARGENTO BM 2.553 THAYSE FRANCIELLE SANTOS SILVA OLIVEIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 353
+
+~~354~~ | PRIMEIRO-SARGENTO BM 3.143 SANDRA MONTEIRO SILVA OLIVEIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 354
+
+~~355~~ | PRIMEIRO-SARGENTO BM 2.490 MARCOS GUILHERME NERY SANTIAGO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 355
+
+~~356~~ | SEGUNDO-SARGENTO BM 02.069 LUCIANO PAES ORVATE
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 356
+
+~~357~~ | SEGUNDO-SARGENTO BM 2.322 ALLINE OLIVEIRA DO PRADO ROCHA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 357
+
+~~358~~ | SEGUNDO-SARGENTO BM 1.851 CLAUDIOMAR RODRIGUES DA SILVA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 358
+
+~~359~~ | SEGUNDO-SARGENTO BM 2.551 THAÍS DE SOUZA CORREA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 359
+
+~~360~~ | SEGUNDO-SARGENTO BM 2.204 SILVANA MARIA RODRIGUES PAIVA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 360
+
+~~361~~ | SEGUNDO-SARGENTO BM 2.450 JOSÉ GUILHERME RIBEIRO DE FARIA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 361
+
+~~362~~ | TERCEIRO-SARGENTO BM 3.328 THIAGO GOMES DE AGUIAR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 362
+
+~~363~~ | TERCEIRO-SARGENTO BM 2.640 ANDRÉ VELOSO FERREIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 363
+
+~~364~~ | TERCEIRO-SARGENTO BM 3.238 THIAGO MARRA ROSA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 364
+
+~~365~~ | TERCEIRO-SARGENTO BM 3.218 GILBERTO EDUARDO RODRIGUES JUNIOR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 365
+
+~~366~~ | TERCEIRO-SARGENTO BM 3.648 LEONARDO MALHEIROS DA SILVA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 366
+
+~~367~~ | TERCEIRO-SARGENTO BM 2.483 MARCELO RESENDE TEODORO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 367
+
+~~368~~ | TERCEIRO-SARGENTO BM 2.565 WANER LOPES BORGES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 368
+
+~~369~~ | TERCEIRO-SARGENTO BM 2.443 JOCHEM MASS MARTINS RIBEIRO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 369
+
+~~370~~ | CABO BM 3.639 DIEGO FERREIRA RODRIGUES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 370
+
+~~371~~ | CABO BM 3.774 MARCOS ROBERTO ARAÚJO NOLASCO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 371
+
+~~372~~ | CABO BM 3.640 GEYSON FERREIRA PARREIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 372
+
+~~373~~ | CABO BM 3.519 LUCIANO SILVA FILHO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 373
+
+~~374~~ | CABO BM 3.806 JOSÉ MAURO OLIVEIRA JÚNIOR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 374
+
+~~375~~ | SOLDADO BM 4.046 RENATA MADUREIRA BARBOSA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 375
+
+~~376~~ | POLICIAL CIVIL DEUSNY APARECIDO SILVA FILHO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 376
+
+~~377~~ | POLICIAL CIVIL ANA CLAUDIA RORIGUES STOFFEL
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 377
+
+~~378~~ | POLICIAL CIVIL ALEXANDRE BRUNO BARROS
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 378
+
+~~379~~ | POLICIAL CIVIL JANAÍNA DO COUTO MASCARENHAS
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 379
+
+~~380~~ | POLICIAL CIVIL THATIANA MARQUES LEÃO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 380
+
+~~381~~ | POLICIAL CIVIL MILA VILELA JUNQUEIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 381
+
+~~382~~ | POLICIAL CIVIL LAYO SOUSA MARCHESINI
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 382
+
+~~383~~ | POLICIAL TÉCNICO-CIENTÍFICO SOPHIA WIECZOREK LOBO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 383
+
+~~384~~ | POLICIAL TÉCNICO CIENTÍFICO WARLEY ALVES FERREIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 384
+
+~~385~~ | POLICIAL TÉCNICO CIENTÍFICO HUMBERTO DE ALMEIDA MOREIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 385
+
+~~386~~ | POLICIAL TÉCNICO-CIENTÍFICO GISELE DE BRITO LIMA JAIME
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 386
+
+~~387~~ | POLICIAL TÉCNICO CIENTÍFICO ROBSON DE SOUZA RODRIGUES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 387
+
+~~388~~ | POLICIAL TÉCNICO CIENTÍFICO GUSTAVO SULEK FERREIRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 388
+
+~~389~~ | POLICIAL TÉCNICO CIENTÍFICO LUIZ HENRIQUE PEREIRA DA COSTA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 389
+
+~~390~~ | POLICIAL PENAL JOSIMAR PIRES NICOLAU DO NASCIMENTO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 390
+
+~~391~~ | POLICIAL PENAL ANTÔNIO AUGUSTO MOSCA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 391
+
+~~392~~ | ADRYANNA LEONOR MELO DE OLIVEIRA CAIADO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 392
+
+~~393~~ | ALEXANDRE ALENCASTRO VEIGA HSIUNG
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 393
+
+~~394~~ | ANA VITÓRIA GOMES CAIADO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 394
+
+~~395~~ | DÉCIO AGRÁRIO CALAZANS WENDORF DE CARVALHO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 395
+
+~~396~~ | FELIPE LUIS PERUCA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 396
+
+~~397~~ | GERSON SANTANA CINTRA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 397
+
+~~398~~ | GUILHERME GUTEMBERG ISAC PINTO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 398
+
+~~399~~ | JOÃO BATISTA CARVALHO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 399
+
+~~400~~ | JORDANA YASPERS HELOU
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 400
+
+~~401~~ | JORGE LUIZ RAMOS CAIADO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 401
+
+~~402~~ | JORGE LUIZ RAMOS CAIADO JÚNIOR
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 402
+
+~~403~~ | LEVY RAFAEL ALVES CORNÉLIO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 403
+
+~~404~~ | LUIS CLAUDIO DE ALMEIDA NASCIMENTO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 404
+
+~~405~~ | MANOEL DIVINO DA SILVA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 405
+
+~~406~~ | MANOEL RIZZO COSTA FILHO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 406
+
+~~407~~ | MÁRIO CARVALHO KANASHIRO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 407
+
+~~408~~ | MIRIAN LIMA ARANTES
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 408
+
+~~409~~ | OLÍVIA MILHOMEM PEREIRA CARVALHO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 409
+
+~~410~~ | RODNEY DA SILVA
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 410
+
+~~411~~ | RONDON RAMOS CAIADO
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 411
+
+~~412~~ | TARSIO RICARDO DE OLIVEIRA FREITAS
+
+\- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |
+| 412
+
+~~413~~ | WELINGTON LUÍS PEIXOTO
+
 \- [Renumerado pelo Decreto nº 10.494, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109162/decreto-10494), art. 1º, II. |

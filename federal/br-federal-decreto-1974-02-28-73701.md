@@ -1,5 +1,3 @@
-###DEC-073701-0-000-28-02-1974@@@
-
 DECRETO Nº 73.701, DE 28 DE FEVEREIRO DE 1974.
 
 Aprova o plano de reestruturação da Universidade Federal da Paraíba, João Pessoa - Estado da Paraíba.

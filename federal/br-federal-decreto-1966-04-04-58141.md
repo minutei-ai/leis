@@ -1,5 +1,3 @@
-###DEC-058141-0-000-04-04-1966@@@
-
 Decreto nº 58.141, de 4 de abril de 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestre Indenizadora, inclusive aumento do capital social.

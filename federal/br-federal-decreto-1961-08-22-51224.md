@@ -1,5 +1,3 @@
-###DEC-051224-0-000-22-08-1961@@@
-
 DECRETO Nº 51.224, DE 22 DE Agôsto de 1961.
 
 Aprova o Regulamento dos Serviços Regionais de Bibliotecas e dá outras providências.

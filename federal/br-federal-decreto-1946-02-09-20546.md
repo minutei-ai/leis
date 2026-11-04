@@ -1,14 +1,12 @@
-###DEC-020546-0-000-09-02-1946@@@
+**DECRETO Nº 20.546, DE 9 DE FEVEREIRO DE 1946.**
 
-<strong>DECRETO Nº 20.546, DE 9 DE FEVEREIRO DE 1946.</strong>
+***Altera a lotação numérica de repartições atendidas pelo Quadro I, do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Altera a lotação numérica de repartições atendidas pelo Quadro I, do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A lotação numérica das repartições atendidas pelo Quadro I, do Ministério da Viação e Obras Públicas passa a vigorar com as seguintes alterações:
+**Art**. 1º A lotação numérica das repartições atendidas pelo Quadro I, do Ministério da Viação e Obras Públicas passa a vigorar com as seguintes alterações:
 
 a) incluem-se cargos de carreira de Oficial administrativo na lotação permanente:
 
@@ -32,10 +30,10 @@ a) incluem-se cargos de carreira de Oficial administrativo na lotação permanen
 
 10\) da Comissão de Eficiência – 1 cargo.
 
-<strong>Art</strong>. 2º. Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 2º. Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 9 de Fevereiro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Edmundo de Macêdo Soares e Silva.

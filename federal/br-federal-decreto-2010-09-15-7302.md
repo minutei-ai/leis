@@ -1,5 +1,3 @@
-###DEC-007302-0-000-15-09-2010-PUB-01@@@
-
 DECRETO Nº 7.302, DE 15 DE SETEMBRO DE 2010.
 
 Dá nova redação ao Decreto no 5.577, de 8 de novembro de 2005, que instituiu, no âmbito do Ministério do Meio Ambiente, o Programa Nacional de Conservação e Uso Sustentável do Bioma Cerrado - Programa Cerrado Sustentável.

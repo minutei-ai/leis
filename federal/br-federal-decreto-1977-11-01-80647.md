@@ -1,5 +1,3 @@
-###DEC-080647-0-000-01-11-1977@@@
-
 DECRETO Nº 80.647, DE 01 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração da Faculdade de Ciências Contábeis e Administrativas de São João da Boa Vista, Estado de São Paulo.

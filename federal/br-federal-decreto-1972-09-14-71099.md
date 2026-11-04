@@ -1,5 +1,3 @@
-###DEC-071099-0-000-14-09-1972@@@
-
 DECRETO Nº 71.099, DE 14 DE SETEMBRO DE 1972.
 
 Concede à MARMOR - Indústria de Mármore Ltda., o direito de lavrar mármore e calcário no município de Iporanga, Estado de São Paulo.

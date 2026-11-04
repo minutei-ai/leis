@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 241, DE 1º DE ABRIL DE 2022.
 
-<br>
 Altera a [Lei Complementar nº 3.968](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170)/2000, Estatuto dos Servidores do Município de Rio Verde-GO.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO aprova E EU SANCIONO A SEGUINTE LEI:**

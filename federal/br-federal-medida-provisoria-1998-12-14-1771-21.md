@@ -1,5 +1,3 @@
-###MPV-001771-0-021-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.771-21, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

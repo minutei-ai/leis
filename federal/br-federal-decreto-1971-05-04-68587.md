@@ -1,5 +1,3 @@
-###DEC-068587-0-000-04-05-1971@@@
-
 DECRETO Nº 68.587 - DE 4 DE MAIO DE 1971.
 
 Aproveita servidor em disponibilidade e dá outras providências.

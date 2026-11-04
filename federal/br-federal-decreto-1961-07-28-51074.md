@@ -1,5 +1,3 @@
-###DEC-051074-0-000-28-07-1961@@@
-
 DECRETA Nº 51.074, DE 28 DE JULHO DE 1961.
 
 Declara públicas de uso comum do domínio do Estado do Paraná as águas do rio Marrecas

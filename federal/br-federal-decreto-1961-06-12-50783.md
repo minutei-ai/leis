@@ -1,5 +1,3 @@
-###DEC-050783-0-000-12-06-1961@@@
-
 DECRETO Nº 50.783, DE 12 DE JUNHO DE 1961
 
 Altera a Ordenança Geral para o Serviço da Armada.

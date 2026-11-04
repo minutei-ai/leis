@@ -1,5 +1,3 @@
-###DEC-052078-0-000-29-05-1963@@@
-
 DECRETO Nº 52.078, DE 29 DE MAIO DE 1963.
 
 Altera a redação do art. 3º do Decreto nº 1.503, de 12 de novembro de 1962.

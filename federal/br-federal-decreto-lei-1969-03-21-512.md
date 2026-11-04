@@ -1,5 +1,3 @@
-###DEL-000512-0-000-21-03-1969@@@
-
 DECRETO-LEI Nº 512, DE 21 DE MARÇO DE 1969
 
 Regula a Política Nacional de Viação Rodoviária, fixa diretrizes para a reorganização do Departamento Nacional de Estradas de Rodagem e dá outras providências.

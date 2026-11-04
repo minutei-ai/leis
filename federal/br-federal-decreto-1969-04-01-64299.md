@@ -1,5 +1,3 @@
-###DEC-064299-0-000-01-04-1969@@@
-
 DECRETO nº 64.299, DE 1º DE ABRIL DE 1969
 
 Declara de utilidade pública a Irmandade de Nossa Senhora da Saúde, com sede em Ubá, Estado de Minas Gerais.

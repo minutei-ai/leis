@@ -1,5 +1,3 @@
-###DEL-006275-0-000-16-02-1944@@@
-
 DECRETO-LEI N. 6.275 – DE 16 DE FEVEREIRO DE 1944
 
 Cria na Prefeitura do Distrito Federal uma Escola de Enfermeiras e dá outras providências

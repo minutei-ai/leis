@@ -1,7 +1,3 @@
-1
-
-###DEC-099242-0-000-08-05-1990@@@
-
 DECRETO N° 99.242, DE 8 DE MAIO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, em benfeitorias, situada no Município do Rio de Janeiro, Estado do Rio de Janeiro, destinada à instalação de uma Estação Rádio da Telecomunicações do Rio de Janeiro S.A., TELERJ e dá outras providências.

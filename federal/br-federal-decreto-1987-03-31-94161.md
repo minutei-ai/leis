@@ -1,5 +1,3 @@
-###DEC-094161-0-000-31-03-1987@@@
-
 DECRETO Nº 94.161, DE 31 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda São Bento", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situado no Município de Mirante do Paranapanema, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1.986, e dá outras providências.

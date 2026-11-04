@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/69773ede-8bbe-4ae6-a11c-7fe088975fdf/texto#nowhere)
 
-###DEL-000461-0-000-10-02-1969@@@
-
 DECRETO-LEI Nº 461, DE 10 DE FEVEREIRO DE 1969
 
 Dispõe sôbre a aprovação de projetos de reflorestamento necessária ao reconhecimento de incentivos fiscais.

@@ -1,5 +1,3 @@
-###DEC-085907-0-000-14-04-1981@@@
-
 Decreto nº 85.907, de 14 de abril de 1981.
 
 Aprova alteração nos Estatutos da Companhia de Desenvolvimento do Vale do São Francisco -CODEVASF e dá outras providências.

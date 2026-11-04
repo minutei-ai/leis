@@ -1,5 +1,3 @@
-###DEL-003264-0-000-12-05-1941@@@
-
 DECRETO-LEI N. 3.264 – DE 12 DE MAIO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, um crédito especial de 20.000:000$0, para custeio de obras e aparelhamento do porto de Laguna.

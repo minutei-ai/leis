@@ -1,5 +1,3 @@
-###DEC-065022-0-000-19-08-1969@@@
-
 DECRETO Nº 65.022 - DE 19 DE AGôSTO DE 1969.
 
 Concede autorização à Federação dos Trabalhadores nas Indústrias Metalúrgicas, Mecânicas e de Material Elétrico do Estado de São Paulo, para filiar-se à Federação Internacionais de Trabalhadores nas Industrias Metalúrgicas (FITIM).

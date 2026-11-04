@@ -1,5 +1,3 @@
-###DEC-077878-0-000-22-06-1976@@@
-
 DECRETO Nº 77.878, DE 22 DE JUNHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da Subestação denominada "Congonhas" no Município de São José do Rio de Preto, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

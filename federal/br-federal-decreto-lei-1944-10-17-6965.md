@@ -1,5 +1,3 @@
-###DEL-006965-0-000-17-10-1944@@@
-
 DECRETO-LEI N. 6.965 – DE 17 DE OUTUBRO DE 1944
 
 Altera disposições dos Decretos-leis ns. 1.190 e 1.212, de 4 e 17 de abril de 1939

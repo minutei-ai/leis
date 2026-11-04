@@ -1,5 +1,3 @@
-###DEC-055990-0-000-22-04-1965@@@
-
 DECRETO Nº 55.990, DE 22 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Rudolf Otto Ziemer a pesquisar quartzo, no município de Pavão, Estado de Minas Gerais.

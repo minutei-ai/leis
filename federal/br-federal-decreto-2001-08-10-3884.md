@@ -1,5 +1,3 @@
-###DEC-003884-0-000-10-08-2001@@@
-
 DECRETO Nº 3.884, DE 10 DE AGOSTO 2001.
 
  Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.
@@ -22,4 +20,26 @@ Silvano Gianni
 
 REMANEJAMENTO DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea"><span style="font-weight:bold">CÓDIGO</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span style="font-weight:bold; -aw-import:ignore">&nbsp;</span></p></td><td style="width:109.15pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span style="font-weight:bold">DAS-UNITÁRIO</span></p></td><td style="width:170.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span style="font-weight:bold">DA SEGES/MP P/ CASA CIVIL/PR</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span style="font-weight:bold">QTDE.</span><span style="font-weight:bold; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-weight:bold">VALOR</span><span style="font-weight:bold; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-weight:bold">TOTAL</span></p></td></tr><tr style="height:52.3pt"><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span>DAS 102.5</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span>DAS 102.4</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:109.15pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span>4,94</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span>3,08</span></p></td><td style="width:170.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">4,94</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">9,24</span></p><p class="Alnea" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:18.85pt"><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span style="font-weight:bold">TOTAL</span></p></td><td style="width:109.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Alnea" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:170.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; font-weight:bold">4</span><span style="font-size:10pt; font-weight:bold; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt; font-weight:bold">14,18</span></p></td></tr></tbody></table>
+CÓDIGO
+
+DAS-UNITÁRIO
+
+DA SEGES/MP P/ CASA CIVIL/PR
+
+QTDE.                         VALOR       TOTAL
+
+DAS 102.5
+
+DAS 102.4
+
+4,94
+
+3,08
+
+1                                 4,94
+
+3                                 9,24
+
+TOTAL
+
+4                               14,18

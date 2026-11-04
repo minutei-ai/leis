@@ -1,5 +1,3 @@
-###DEC-062425-0-000-18-03-1968@@@
-
 DECRETO Nº 62.425, DE 18 DE MARÇO DE 1968.
 
 Autoriza o Ministério da Agricultura, através da Companhia Brasileira de Armazenamento (CIBRAZEM) a transferir, por venda, para o patrimônio das Cooperativas Triticolas e outras, dos Estados do Rio Grande do Sul, Paraná e Santa Catarina, os armazéns construídos nos referidos Estados, pelas Comissões de Organização da Triticultura Nacional (COTRIN) e Comissão de Organização da Triticultura Nacional e Armazenamento Geral (COTRINAG).

@@ -1,5 +1,3 @@
-###DEC-094654-0-000-20-07-1987@@@
-
 DECRETO Nº 94.654, DE 20 DE JULHO DE 1987.
 
 Altera disposições do Decreto nº 94.192, de 6-4-87, que instituiu a Comissão de Assessoramento Presidencial para a Negociação da Dívida Externa Brasileira.

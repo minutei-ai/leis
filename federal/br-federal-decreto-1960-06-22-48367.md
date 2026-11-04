@@ -1,5 +1,3 @@
-###DEC-048367-0-000-22-06-1960@@@
-
 DECRETO Nº 48.367, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Adriano Seabra Fonseca, a pesquisar minério de chumbo no município de Macaúbas, Estado da Bahia.

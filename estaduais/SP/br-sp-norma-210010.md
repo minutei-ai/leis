@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210010)<br>
-
 # LEI COMPLEMENTAR N° 1.411, DE 19 DE SETEMBRO DE 2024
 
 ### _Altera a Lei Complementar n° 988, 9 de janeiro de 2006, que organiza a Defensoria Pública do Estado e institui o regime jurídico da carreira de Defensor Público do Estado._

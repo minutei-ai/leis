@@ -1,7 +1,3 @@
-1
-
-###MPV-000982-0-000-28-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 982, DE 28 DE ABRIL DE 1995
 
 Cria a Gratificação de Desempenho e Produtividade  (GDP) das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053366-0-000-31-12-1963@@@
-
 DECRETO Nº 53.366, DE 31 DE DEZEMBRO DE 1963.
 
 Transfere da lotação permanente do Serviço de Documentação do Ministério da Justiça e Negócios Interiores para o da Agência Nacional do mesmo Ministério um claro de Taquígrafo.

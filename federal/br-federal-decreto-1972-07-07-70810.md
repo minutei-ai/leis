@@ -1,5 +1,3 @@
-###DEC-070810-0-000-07-07-1972@@@
-
 decreto nº 70.810, de 7 de julho de 1972.
 
 Autoriza o funcionamento do curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras "Barão de Mauá", de Ribeirão Preto, SP.

@@ -1,5 +1,3 @@
-###DEC-078602-0-000-21-10-1976@@@
-
 DECRETO Nº 78.602, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos cursos de Engenharia Química e de Licenciatura em Química e em Física, da Universidade Federal de Sergipe, com sede na cidade de Aracaju, Estado de Sergipe.

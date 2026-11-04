@@ -1,5 +1,3 @@
-###DEC-049652-0-000-31-12-1960@@@
-
 DECRETO Nº 49.652, DE 31 DE DEZEMBRO DE 1960.
 
 Dá nova redação à emenda e ao artigo 1º do Decreto nº 47.874, de 8 de março de 1960, que autorizou a instalação de um grupo gerador diesel-elétrico no município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-005592-0-000-23-11-2005@@@
-
 DECRETO Nº 5.592, DE 23 DE NOVEMBRO DE 2005.
 
 Dá nova redação a dispositivos do Regulamento do Fundo de Desenvolvimento do Nordeste, aprovado pelo Decreto nº 4.253, de 31 de maio de 2002, e dá outras providências.

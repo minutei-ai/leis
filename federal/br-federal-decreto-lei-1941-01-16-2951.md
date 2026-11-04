@@ -1,5 +1,3 @@
-###DEL-002951-0-000-16-01-1941@@@
-
 DECRETO-LEI N. 2.951 – DE 16 de JANEIRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 4.500:000$0 para pagamento de subvenção aos “Serviços de Navegação da Amazônia e de Administração do Porto do Pará”.

@@ -1,5 +1,3 @@
-###DEC-045586-0-000-19-03-1959@@@
-
 decreto nº 45.586, de 19 de março de 1959.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$736.000.000,00.
@@ -10,7 +8,59 @@ Decreta:
 
 Art. 1º É aberto ao Ministério da Fazenda o crédito especial de Cr$736.000.000,00 (setecentos e trinta e seis milhões de cruzeiros) para atender ao pagamento de despesas, no exercício de 1958, da Comissão Nacional de Energia Nuclear, criada pelo Decreto nº 40.110, de 10 de outubro de 1956, assim discriminadas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cr$</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) administração. .................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>20.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) aquisição de materiais nucleares ....................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>180.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) formação de pessoal técnico e científico .........................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>30.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) instalação e manutenção de centro de treinamento especializado .................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>25.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) investigações científicas e tecnológicas, inclusive aplicações de radioisótopos........................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>30.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f) prospecção e pesquisa de matérias primas de interêsse para as aplicações da energia nuclear ...............................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>80.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>g) prêmios para descoberta de novas jazidas .....................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>h) fiscalização de matérias radioativas e de suas aplicações .............................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>15.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>i) aquisição de usinas de tratamento químico e produção de urânio ............</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>108.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>j) aquisição de uma usina destinada à produção do hexafluoreto de urânio para enriquecimento do mesmo ..........................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>38.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>k) aquisição de uma instalação de ultracentrífugas para o enriquecimento do urânio ...................................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>72.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>l) aquisição de uma instalação destinada à fabricação dos elementos combustíveis, quer utilizando o urânio natural, quer o ligeiramente enriquecido por centrifugação. ................................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>88.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>m) aquisição de instrumentos, aparelhos e material destinado a laboratórios, trabalhos de campo e oficinas de manutenção do aparelhamento .....................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40.000.000,00</span></p></td></tr></tbody></table>
+Cr$
+
+a) administração. .................................................................................................
+
+20.000.000,00
+
+b) aquisição de materiais nucleares ....................................................................
+
+180.000.000,00
+
+c) formação de pessoal técnico e científico .........................................................
+
+30.000.000,00
+
+d) instalação e manutenção de centro de treinamento especializado .................
+
+25.000.000,00
+
+e) investigações científicas e tecnológicas, inclusive aplicações de radioisótopos........................................................................................................
+
+30.000.000,00
+
+f) prospecção e pesquisa de matérias primas de interêsse para as aplicações da energia nuclear ...............................................................................................
+
+80.000.000,00
+
+g) prêmios para descoberta de novas jazidas .....................................................
+
+10.000.000,00
+
+h) fiscalização de matérias radioativas e de suas aplicações .............................
+
+15.000.000,00
+
+i) aquisição de usinas de tratamento químico e produção de urânio ............
+
+108.000.000,00
+
+j) aquisição de uma usina destinada à produção do hexafluoreto de urânio para enriquecimento do mesmo ..........................................................................
+
+38.000.000,00
+
+k) aquisição de uma instalação de ultracentrífugas para o enriquecimento do urânio ...................................................................................................................
+
+72.000.000,00
+
+l) aquisição de uma instalação destinada à fabricação dos elementos combustíveis, quer utilizando o urânio natural, quer o ligeiramente enriquecido por centrifugação. ................................................................................................
+
+88.000.000,00
+
+m) aquisição de instrumentos, aparelhos e material destinado a laboratórios, trabalhos de campo e oficinas de manutenção do aparelhamento .....................
+
+40.000.000,00
 
 Art. 2º O cronograma de aplicação do presente crédito será submetido à aprovação do Presidente da República pelo Presidente da Comissão Nacional de Energia Nuclear, através do Ministério da Fazenda.
 

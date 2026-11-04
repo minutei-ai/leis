@@ -1,5 +1,3 @@
-###DEC-064295-0-000-01-04-1969@@@
-
 DECRETO Nº 64.295, DE 1º DE ABRIL DE 1969
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal, Parte Especial, do Ministério da Indústria e do Comércio, cargo integrante do Quadro de Pessoal, Parte Suplementar, do Ministério da Agricultura.

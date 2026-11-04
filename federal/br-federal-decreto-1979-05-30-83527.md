@@ -1,5 +1,3 @@
-###DEC-083527-0-000-30-05-1979@@@
-
 DEcreto nº 83.527, DE 30 DE MAIO 1979.
 
 Regulamenta a execução da Lei nº 6.592, de 17 de novembro de 1978, que concede amparo aos ex-combatentes julgados incapazes definitivamente para o serviço militar.

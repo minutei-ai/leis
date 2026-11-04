@@ -1,5 +1,3 @@
-###DEC-056789-0-000-26-08-1965@@@
-
 DECRETO Nº 56.789, DE 26 DE AGÔSTO DE 1965.
 
 Estende à exportação de frutas os benefícios concedidos à exportação de cereais, através do Decreto número 56.621, de 29 de julho de 1965.

@@ -1,5 +1,3 @@
-###DEC-080174-0-000-16-08-1977@@@
-
 decreto nº 80.174, de 16 de agosto de 1977.
 
 Concede a Mauro do Valle Salles, firma individual, o direito de lavrar calcário e mármore no Município de Paraopeba, Estado de Minas Gerais.

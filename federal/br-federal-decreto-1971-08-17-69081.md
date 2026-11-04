@@ -1,5 +1,3 @@
-###DEC-069081-0-000-17-08-1971@@@
-
 DECRETO Nº 69.081, DE 17 DE AGÔSTO DE 1971.
 
 Declara de utilidade pública o Lar São José, com sede em Itapira, Estado de São Paulo.

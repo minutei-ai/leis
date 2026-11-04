@@ -1,5 +1,3 @@
-###DEC-002561-0-000-27-04-1998@@@
-
 DECRETO Nº 2.561, DE 27 DE ABRIL DE 1998
 
 Altera a redação dos arts. 11 e 12 do Decreto nº 2.494, de 10 de fevereiro de 1998, que regulamenta o disposto no art. 80 da Lei nº 9.394, de 20 de dezembro de 1996.

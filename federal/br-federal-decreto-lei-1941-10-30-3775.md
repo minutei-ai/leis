@@ -1,5 +1,3 @@
-###DEL-003775-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.775 – DE 30 DE OUTUBRO DE 1941
 
 Dispõe sobre a organização do Departamento Nacional da Criança, e dá outras providências.

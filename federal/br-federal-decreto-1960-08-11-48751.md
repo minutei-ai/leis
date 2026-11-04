@@ -1,5 +1,3 @@
-###DEC-048751-0-000-11-08-1960@@@
-
 Decreto nº 48.751, de 11 de agôsto de 1960.
 
 Cria a Embaixada do Brasil junto do Govêrno do Ceilão.

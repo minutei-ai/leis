@@ -1,5 +1,3 @@
-###DEC-080320-0-000-12-09-1977@@@
-
 DECRETO Nº 80.320, DE 12 DE SETEMBRO DE 1977.
 
 Altera o Decreto nº 79.400, de 16 de março de 1977.

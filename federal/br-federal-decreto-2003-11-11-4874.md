@@ -1,5 +1,3 @@
-###DEC-004874-0-000-11-11-2003@@@
-
 DECRETO Nº 4.874,  DE 11 DE NOVEMBRO DE 2003.
 
       Acresce artigo ao Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999.
@@ -56,5 +54,6 @@ b) por um servidor da Divisão ou Serviço de Benefícios, um da Divisão ou Se
 
         Brasília, 11 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Ricardo José Ribeiro Berzoini

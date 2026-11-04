@@ -1,5 +1,3 @@
-###DEC-078997-0-000-22-12-1976@@@
-
 DECRETO Nº 78.997, DE 22 DE DEZEMBRO DE 1976.
 
 Declara perempta a concessão outorgada à Rádio Cultura de Poços de Caldas S.A. para executar serviço de radiodifusão sonora em onda curta, na cidade de Poços de Caldas, Estado de Minas Gerais.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/27517)<br>
 [Texto com alterações](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1985/lei.complementar-404-11.07.1985.html)
 
 # LEI COMPLEMENTAR N° 404, DE 11 DE JULHO DE 1985

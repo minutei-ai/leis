@@ -1,5 +1,3 @@
-###DEC-060377-0-000-11-03-1967@@@
-
 DECRETO Nº 60.377, DE 11 DE MARÇO DE 1967.
 
 Outorga a Companhia Eletroquímica Jaraguá concessão para o aproveitamento hidráulico de um trecho do rio Pouso Alegre, usina Rio Pouso Alegre e de um trecho do rio Ribeirão dos Monteiros - Usina Ribeirão dos Monteiros - Município de candeias, Estado de Minas Gerais.

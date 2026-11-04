@@ -1,5 +1,3 @@
-###DEC-045539-0-000-05-03-1959@@@
-
 DECRETO Nº 45.539, 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Alexandrino de Oliveira Gorgulho a lavrar água mineral no município de Ribeirão Pires, Estado de São Paulo.

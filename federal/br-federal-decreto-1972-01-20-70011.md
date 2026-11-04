@@ -1,5 +1,3 @@
-###DEC-070011-0-000-20-01-1972@@@
-
 DECRETO Nº 70.011, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Lar dos Meninos Dom Orione, com sede em Belo Horizonte, Estado de Minas Gerais.

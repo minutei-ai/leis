@@ -1,5 +1,3 @@
-###DEC-091183-0-000-03-04-1985@@@
-
 Decreto nº 91.183, de O3 de abril de 1985.
 
 Aprova o Regulamento para os Quadros Complementares de Oficiais da Marinha, reorganizados pela Lei 7.301 de 29/03/85.

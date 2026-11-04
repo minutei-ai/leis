@@ -1,5 +1,3 @@
-###DEC-070220-0-000-01-03-1972@@@
-
 DECRETO Nº 70.220, DE 1º DE MARÇO DE 1972.
 
 Dispõe sobre a criação de área prioritária, para fins de reforma agrária, no Estado do Maranhão.

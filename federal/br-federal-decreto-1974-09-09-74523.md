@@ -1,5 +1,3 @@
-###DEC-074523-0-000-09-09-1974@@@
-
 DECRETO Nº 74.523, DE 9 DE SETEMBRO DE 1974.
 
 Cancela autorização para funcionamento no Brasil da The London & Lancashire Insurance Company Limited.

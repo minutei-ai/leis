@@ -1,5 +1,3 @@
-###DEC-075370-0-000-13-02-1975@@@
-
 DECRETO Nº 75.370, DE 13 DE FEVEREIRO DE 1975
 
 Institui mecanismo de Coordenação e Acompanhamento dos Programas Especiais do II Plano Nacional de Desenvolvimento (PND).

@@ -1,5 +1,3 @@
-###DEC-047603-0-000-07-01-1960@@@
-
 DEcreto nº 47.603, de 7 de janeiro de 1960.
 
 Aprova a alteração dos arts. 8º e 35º dos Estatutos Sociais da Rêde Ferroviária Federal Sociedade Anônima.

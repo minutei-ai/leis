@@ -1,5 +1,3 @@
-###DEC-048020-0-000-05-04-1960@@@
-
 DECRETO Nº 48.020, DE 5 DE abril DE 1960.
 
 Autoriza o cidadão brasileiro Raymundo do Espírito Santo Viana a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

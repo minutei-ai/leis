@@ -1,5 +1,3 @@
-###DEC-002072-0-000-14-11-1996@@@
-
 DECRETO Nº 2.072 , DE 14 DE NOVEMBRO DE L996.
 
 Dispõe sobre a redução do imposto de importação para os produtos que especifica e dá outras providências.

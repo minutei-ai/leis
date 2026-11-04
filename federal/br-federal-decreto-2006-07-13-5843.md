@@ -1,5 +1,3 @@
-###DEC-005843-0-000-13-07-2006@@@
-
 DECRETO Nº 5.843, DE 13 DE JULHO DE 2006.
 
 Prorroga a validade dos Restos a Pagar inscritos no exercício financeiro de 2004, de que trata o Decreto no 5.729, de 20 de março de 2006, e dá outras providências.
@@ -25,5 +23,3 @@ LUIZ INÁCIO LULA DA SILVA
        Guido Mantega
 
        Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 14.7.2006

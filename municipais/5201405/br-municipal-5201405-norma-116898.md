@@ -64,7 +64,8 @@ Lado Direito: 40,47 metros com a APM-03 Vila Sul;
 
 Lado Esquerdo: 30,00 metros com o Lote 08;
 
-Área total: 4089,18 metros quadrados.<br>
+Área total: 4089,18 metros quadrados.
+
  
 
 Parágrafo Único: Fica autorizado ao Município realizar a compensação ou dação em pagamento referente as taxas para licença e emissão de alvará para parcelamento de solo, tendo em vista a diferença entre os valores das avaliações das áreas que serão objeto de permuta conforme art. 3º.
@@ -112,8 +113,10 @@ Art. 5º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 16 dias do mês de dezembro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

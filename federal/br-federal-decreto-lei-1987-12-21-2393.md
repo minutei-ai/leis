@@ -1,7 +1,3 @@
-1
-
-###DEL-002393-0-000-21-12-1987@@@
-
 # DECRETO-LEI N° 2.393, DE 21 DE DEZEMBRO DE 1987
 
 Dá nova redação à Lista de Serviços a que se refere o art. 89 do Decreto-lei nº 82, de 26 de dezembro de 1966, e dá outras providências.

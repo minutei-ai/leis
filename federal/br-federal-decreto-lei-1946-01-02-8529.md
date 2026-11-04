@@ -1,5 +1,3 @@
-###DEL-008529-0-000-02-01-1946@@@
-
 DECRETO – LEI N.8.529 – DE 2 DE JANEIRO DE 1946
 
 Lei Orgânica do Ensino Primário

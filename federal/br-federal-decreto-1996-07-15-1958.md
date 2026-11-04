@@ -1,5 +1,3 @@
-###DEC-001958-0-000-15-07-1996@@@
-
 DECRETO N° 1.958, DE 15 DE JULHO DE 1996
 
 Remaneja cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e dá outras providências.

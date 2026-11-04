@@ -1,5 +1,3 @@
-###DEC-058895-A-000-20-07-1966@@@
-
 DECRETO Nº 58.895-A, de 20 de julho de 1966.
 
 Estabelece critérios de prioridade para a aplicação, na região amazônica, do art. 18, alínea “b” da Lei número 4.239, de 27 de junho de 1963, de acôrdo com a redução dada pelo art. 18 da Lei nº 4.869, de 1 de dezembro de 1965.

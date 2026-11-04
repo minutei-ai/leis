@@ -1,5 +1,3 @@
-###DEC-072103-0-000-18-04-1973@@@
-
 DECRETO Nº 72.103, DE 18 DE ABRIL DE 1973.
 
 Concede a Ceramus Bahia S.A. Produtos Cerâmicos o direito de lavrar argila nos Municípios de Simões Filho e Camaçari, Estado da Bahia.

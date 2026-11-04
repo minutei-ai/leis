@@ -1,5 +1,3 @@
-###DEC-004928-0-000-23-12-2003@@@
-
 DECRETO Nº 4.928 DE 23 DE DEZEMBRO DE 2003.
 
 Regulamenta os incentivos fiscais relativos aos dispêndios realizados com pesquisa tecnológica e desenvolvimento de inovação tecnológica de produtos de que tratam os arts. 39, 40, 42 e 43 da Lei no 10.637, de 30 de dezembro de 2002, e dá outras providências.

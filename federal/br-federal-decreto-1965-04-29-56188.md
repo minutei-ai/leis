@@ -1,5 +1,3 @@
-###DEC-056188-0-000-29-04-1965@@@
-
 DECRETO Nº 56.188, DE 29 DE ABRIL DE 1965.
 
 Abre, ao Ministério das Relações Exteriores, o crédito especial de Cr$35.000.000, para atender às despesas que especifica.

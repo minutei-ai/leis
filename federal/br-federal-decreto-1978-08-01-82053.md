@@ -1,5 +1,3 @@
-###DEC-082053-0-000-01-08-1978@@@
-
 Decreto nº 82.053, de 01 de agosto de 1978.
 
 Autoriza o Ministro da Fazenda a conceder a garantia a operação externa.

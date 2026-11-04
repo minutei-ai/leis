@@ -1,5 +1,3 @@
-###DEC-048070-0-000-07-04-1960@@@
-
 DECRETO Nº 48.070, DE 7 DE ABRIL DE 1960.
 
 Inclui, nas disposições do artigo 4º do Decreto nº 30.955, de 7 de junho de 1952, as funções desempenhadas na Secretaria-Geral do Conselho do Desenvolvimento, pelos Oficiais das Fôrças Armadas.

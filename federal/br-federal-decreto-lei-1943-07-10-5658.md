@@ -1,5 +1,3 @@
-###DEL-005658-0-000-10-07-1943@@@
-
 DECRETO‑LEI N. 5.658 – DE 10 DE JULHO DE 1943
 
 Cria, no Quadro Permanente do Ministério da Guerra, a carreira de Dati­lógrafo e altera as de Escriturário do Quadro Permanente e Datiló­grafo do Quadro Suplementar do mesmo Ministério, e dá outras Pro­vidências

@@ -1,5 +1,3 @@
-###DEC-071773-0-000-31-01-1973@@@
-
 DECRETO Nº 71.773, DE 31 DE JANEIRO DE 1973
 
 Concede a Francisco Altamirano de Barros o direito de lavrar minério de ferro no Município de Rio Piracicaba, Estado de Minas Gerais.

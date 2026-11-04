@@ -1,5 +1,3 @@
-###DEC-067926-0-000-22-12-1970@@@
-
 DECRETO Nº 67.926, DE 22 DE DEZEMBRO DE 1970.
 
 Redistribui cargos, com os respectivos ocupantes, para o Ministério da Agricultura, e dá outras providências.

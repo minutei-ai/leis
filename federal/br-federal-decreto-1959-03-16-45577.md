@@ -1,5 +1,3 @@
-###DEC-045577-0-000-16-03-1959@@@
-
 DECRETO Nº 45.577, DE 16 DE março DE 1959.
 
 Altera a redação do artigo 3º do Decreto nº 45.445, de 20 de fevereiro de 1959.

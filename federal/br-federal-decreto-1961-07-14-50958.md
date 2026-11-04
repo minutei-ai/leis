@@ -1,5 +1,3 @@
-###DEC-050958-0-000-14-07-1961@@@
-
 DECRETO Nº 50.958, de 14 DE julho DE 1961.
 
 Autoriza a São Paulo Light S.A., - Serviços de Eletricidade a ampliar suas instalações.
@@ -35,8 +33,6 @@ Brasília, 14 de Julho de 1961: 140º da Independência e 73º da República.
 Jânio Quadros
 
 João Agripino
-
-###DEC-050958-0-000-14-07-1961@@@RET01+++
 
 DECRETO Nº 50.958, DE 14 DE JULHO DE 1961.
 

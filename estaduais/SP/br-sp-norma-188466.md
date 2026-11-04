@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188466)
-
 # DECRETO Nº 63.849, DE 26 DE NOVEMBRO DE 2018
 
 ### _Dispõe sobre a instituição da Medalha "Honra ao Mérito Coronel Francisco Vieira" e dá providências correlatas_
@@ -26,15 +24,9 @@ Secretário de Governo
 
 Publicado na Secretaria de Governo, aos 26 de novembro de 2018.
 
-<br>
-
 #### REGULAMENTO DA MEDALHA “HONRA AO MÉRITO CORONEL FRANCISCO VIEIRA”
 
-<br>
-
 a que se refere o artigo 1º do [Decreto nº 63.849, de 26 de novembro de 2018](https://www.al.sp.gov.br/norma/188466)
-
-<br>
 
 **Artigo 1º -** A medalha ora instituída obedecerá à forma, às dimensões, os emblemas e as seguintes características:
 

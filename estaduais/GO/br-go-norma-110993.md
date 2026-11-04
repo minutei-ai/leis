@@ -22,25 +22,32 @@ I – que estejam em extrema pobreza ou pobreza 1, conforme o CadÚnico; e
 
 II – que tenham pelo menos uma pessoa com deficiência até 18 anos de idade incompletos.
 
-§ 1º ~~Parágrafo único.~~ A verificação do cumprimento dos requisitos desta Lei será com base na situação regular no CadÚnico.<br>
+§ 1º ~~Parágrafo único.~~ A verificação do cumprimento dos requisitos desta Lei será com base na situação regular no CadÚnico.
+
 \- [Constituído § 1º pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
-§ 2º A comprovação da deficiência da pessoa de até 18 anos de idade incompletos será realizada com base na apresentação do laudo médico com a indicação do código da Classificação Internacional de Doenças – CID, quando for aplicável.<br>
+§ 2º A comprovação da deficiência da pessoa de até 18 anos de idade incompletos será realizada com base na apresentação do laudo médico com a indicação do código da Classificação Internacional de Doenças – CID, quando for aplicável.
+
 \- [Acrescido pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
-§ 3º A seleção das famílias observará a ordem crescente da menor para a maior renda familiar per capita, até o limite da disponibilidade orçamentária e financeira.<br>
+§ 3º A seleção das famílias observará a ordem crescente da menor para a maior renda familiar per capita, até o limite da disponibilidade orçamentária e financeira.
+
 \- [Acrescido pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
-§ 4º As famílias já beneficiárias terão até doze meses da convocação pela Secretaria de Estado de Desenvolvimento Social – SEDS para apresentar o laudo médico previsto no § 2º.<br>
+§ 4º As famílias já beneficiárias terão até doze meses da convocação pela Secretaria de Estado de Desenvolvimento Social – SEDS para apresentar o laudo médico previsto no § 2º.
+
 \- [Acrescido pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
-§ 5º O prazo previsto no § 4º não afasta a continuidade do benefício às famílias já atendidas, desde que sejam mantidos os demais requisitos previstos nesta Lei.<br>
+§ 5º O prazo previsto no § 4º não afasta a continuidade do benefício às famílias já atendidas, desde que sejam mantidos os demais requisitos previstos nesta Lei.
+
 \- [Acrescido pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
-§ 6º Compete à SEDS analisar a documentação apresentada para a habilitação e a permanência no Programa Goiás + Inclusivo.<br>
+§ 6º Compete à SEDS analisar a documentação apresentada para a habilitação e a permanência no Programa Goiás + Inclusivo.
+
 \- [Acrescido pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
-§ 7º A concessão do benefício observará a disponibilidade orçamentária e financeira e o cronograma definido pela SEDS.<br>
+§ 7º A concessão do benefício observará a disponibilidade orçamentária e financeira e o cronograma definido pela SEDS.
+
 \- [Acrescido pela Lei nº 24.537, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371).
 
 Art. 5º O valor do benefício criado será de R$ 500,00 (quinhentos reais) mensais.

@@ -1,5 +1,3 @@
-###DEC-073003-0-000-25-10-1973@@@
-
 DECRETO Nº 73.003, DE 25 DE OUTUBRO DE 1973.
 
 Reduz o Interstício de permanência no posto de General-de-Brigada Intendente do Exército.

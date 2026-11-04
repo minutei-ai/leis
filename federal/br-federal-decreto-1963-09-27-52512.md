@@ -1,5 +1,3 @@
-###DEC-052512-0-000-27-09-1963@@@
-
 DECRETO Nº 52.512, DE 27 DE SETEMBRO DE 1963.
 
 Altera a lotação de cargos do Ministério da Fazenda, e dá outras providências.
@@ -21,8 +19,6 @@ Brasília, 27 de setembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Carvalho Pinto
-
-###DEC-052512-0-000-27-09-1963@@@RET01+++
 
 DECRETO Nº 52.512, DE 27 DE SETEMBRO DE 1963.
 

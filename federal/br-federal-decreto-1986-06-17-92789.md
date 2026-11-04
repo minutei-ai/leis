@@ -1,5 +1,3 @@
-###DEC-092789-0-000-17-06-1986@@@
-
 DECRETO Nº 92.789, DE 17 DE JUNHO DE 1986
 
 Altera a localização da sede do Depósito Regional de Material de Saúde, da 2ª Região Militar.

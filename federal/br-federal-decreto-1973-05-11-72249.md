@@ -1,5 +1,3 @@
-###DEC-072249-0-000-11-05-1973@@@
-
 DECRETO Nº 72.249, DE 11 DE MAIO DE 1973
 
 Concede à Cia. Sergipana de Calcário SERGICAL o direito de lavrar calcário no Município de Macambira, Estado de Sergipe.

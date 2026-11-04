@@ -1,5 +1,3 @@
-###DEC-047142-0-000-27-10-1959@@@
-
 DECRETO Nº 47.142, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza a Cerâmica Indaiatuba S.A. a lavrar folhelho argiloso no município de Indaiatuba, Estado de São Paulo.

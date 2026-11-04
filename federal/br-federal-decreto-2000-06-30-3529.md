@@ -1,5 +1,3 @@
-###DEC-003529-0-000-30-06-2000@@@
-
 DECRETO Nº 3.529, DE 30 DE JUNHO DE 2000.
 
 Dispõe sobre a publicação quadrimestral das remunerações dos cargos e empregos da Administração Pública Federal direta, autárquica e funcional do Poder Executivo Federal.

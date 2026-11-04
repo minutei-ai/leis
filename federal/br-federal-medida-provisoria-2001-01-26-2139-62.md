@@ -1,5 +1,3 @@
-###MPV-002139-0-062-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.139-62, DE 26 DE JANEIRO DE 2001
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

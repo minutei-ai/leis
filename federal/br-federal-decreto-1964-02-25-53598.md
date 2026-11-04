@@ -1,5 +1,3 @@
-###DEC-053598-0-000-25-02-1964@@@
-
 DECRETO Nº 53.598, DE 25 DE FEVEREIRO DE 1964.
 
 Autoriza o cidadão brasileiro Alvaro de Carvalho a pesquisar minério de manganês, no município de Barbacena, Estado de Minas Gerais.

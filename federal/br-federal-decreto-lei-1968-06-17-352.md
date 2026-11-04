@@ -1,5 +1,3 @@
-###DEL-000352-0-000-17-06-1968@@@
-
 DECReto-LEI Nº 352, DE 17 DE JUNHO DE 1968
 
 Dispõe sôbre o pagamento de débitos fiscais e dá outras providências.

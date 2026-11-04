@@ -1,5 +1,3 @@
-###DEC-003910-0-000-06-09-2001@@@
-
 DECRETO Nº 3.910, DE 6 DE SETEMBRO DE 2001.
 
  Dispõe sobre a execução do Trigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica no 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 1o de fevereiro de 200l. 
@@ -22,11 +20,7 @@ Brasília, 6 de setembro de 2001; 180o da Independência e 113o da República.
 
 FERNANDO HENRIQUE CARDOSO
 
-Celso Lafer
-
-Este texto não substitui o publicado no D.O.U. 10.9.2001
-
-Acordo de Complementação Econômica No 2 celebrado entre a República Federativa do Brasil e a República Oriental do Uruguai
+Celso LaferAcordo de Complementação Econômica No 2 celebrado entre a República Federativa do Brasil e a República Oriental do Uruguai
 
 Trigésimo Sétimo Protocolo Adicional
 

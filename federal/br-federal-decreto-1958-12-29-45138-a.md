@@ -1,5 +1,3 @@
-###DEC-045138-A-000-29-12-1958@@@
-
 DECRETO Nº 45.138-A, DE 29 DE DEZEMBRO DE 1958.
 
 Concede reconhecimento ao curso de Engenheiros Civis da Escola de Engenharia do Brasil Central.

@@ -1,5 +1,3 @@
-###DEC-060014-0-000-10-01-1967@@@
-
 DECRETO Nº 60.014, DE 10 DE JANEIRO DE 1967.
 
 Concede a Cimentos do Brasil S.A. - CIBRASA autorização para continuar a funcionar como emprêsa de mineração.

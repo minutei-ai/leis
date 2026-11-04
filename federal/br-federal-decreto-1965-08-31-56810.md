@@ -1,5 +1,3 @@
-###DEC-056810-0-000-31-08-1965@@@
-
 DECRETO Nº 56.810, DE 31 DE AGÔSTO DE 1965.
 
 Concede autorização para o funcionamento do curso de engenheiros de operação do Instituto  Nacional de Telecomunicações de Santa Rita do Sapucai, Estado de Minas Gerais.

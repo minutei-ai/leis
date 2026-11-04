@@ -1,5 +1,3 @@
-###MPV-001997-0-033-14-12-1999@@@
-
 MEDIDA PROVISÓRIA nº 1.997-33, DE 14 DE DEZEMBRO DE 1999.
 
 Acresce e altera dispositivos do Decreto-Lei n° 3.365, de 21 de junho de 1941, da Lei n° 4.504, de 30 de novembro de 1964 (Estatuto da Terra), da Lei n° 8.629, de 25 de fevereiro de 1993, e dá outras providências.

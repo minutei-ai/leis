@@ -1,5 +1,3 @@
-###MPV-001916-0-000-29-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.916, DE 29 DE JULHO DE 1999.
 
 Dispõe sobre incentivos fiscais para desenvolvimento regional, altera a legislação do Imposto sobre Produtos Industrializados – IPI, e dá outras providências.

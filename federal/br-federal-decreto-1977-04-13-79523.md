@@ -1,5 +1,3 @@
-###DEC-079523-0-000-13-04-1977@@@
-
 DECRETO Nº 79.523, DE 13 DE ABRIL DE 1977.
 
 Concede à Itapessoca Agro-Industrial S.A. o direito de lavrar calcário no Município de Goiana, Estado de Pernambuco.

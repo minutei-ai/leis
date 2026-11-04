@@ -1,5 +1,3 @@
-###DEC-083467-0-000-21-05-1979@@@
-
 Decreto nº 83.467, de 21 de maio de 1979.
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo, da Faculdade de Belas Artes de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

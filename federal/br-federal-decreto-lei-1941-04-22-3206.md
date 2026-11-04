@@ -1,5 +1,3 @@
-###DEL-003206-0-000-22-04-1941@@@
-
 DECRETO-LEI N. 3.206 – DE 22 DE ABRIL DE 1941
 
 Amplia o regime de licenças prévias para exportar, de que tratam os decretos-leis ns. 3.032 e 3.067, e dá outras providências

@@ -1,12 +1,10 @@
-###LEI-000048-0-000-03-09-1833@@@
+**LEI N. 48 - DE 3 DE SETEMBRO DE 1833**
 
-<strong>LEI N. 48 - DE 3 DE SETEMBRO DE 1833</strong>
-
-<em><strong>Fixa as forças de terra ordinarias para o anno financeiro de 1834-1835.</strong></em>
+***Fixa as forças de terra ordinarias para o anno financeiro de 1834-1835.***
 
 A Regencia, em Nome do Imperador o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio, que a Assembléa Geral Decretou, e Ella Sanccionou a Lei seguinte:
 
-<strong>Art.</strong> 1º As forças de terra ordinarias para o anno, que ha de correr do 1º de Julho de 1834 a 30 de Junho de 1835, constarão:
+**Art.** 1º As forças de terra ordinarias para o anno, que ha de correr do 1º de Julho de 1834 a 30 de Junho de 1835, constarão:
 
 § 1º Dos Officiaes e mais praças de oito batalhões de caçadores, quatro corpos de cavallaria, cinco de artilharia de posição, um de artilharia a cavallo, e do corpo de ligeiros da Provincia de Mato Grosso. Esta força total, quando seja conveniente, poderá ser elevada á do estado completo, segundo a organização, que pelas leis em vigor lhes foi dada, ficando para este fim autorizado o Poder Executivo a recrutar sómente o numero de homens necessarios para preencher os corpos existentes, e observando-se desde já, e na parte que fôr possivel, as disposições legislativas decretadas a respeito, na Lei de 25 de Agosto de 1832.
 
@@ -14,17 +12,17 @@ A Regencia, em Nome do Imperador o Senhor D. Pedro II, Faz saber a todos os subd
 
 § 3º Das divisões do Rio Doce da Provincia de Minas Geraes, das duas companhias de ligeiros da Provincia do Maranhão; e dos Pedestres da Provincia do Espirito Santo.
 
-<strong>Art.</strong> 2º O Poder Executivo poderá promover tão sómente para os postos de 1<sup>os</sup> e 2<sup>os</sup> Tenentes de engenheiros, e de artilharia, quando forem necessarios, e os candidatos tiverem completado os estudos prescriptos pela lei.
+**Art.** 2º O Poder Executivo poderá promover tão sómente para os postos de 1<sup>os</sup> e 2<sup>os</sup> Tenentes de engenheiros, e de artilharia, quando forem necessarios, e os candidatos tiverem completado os estudos prescriptos pela lei.
 
-<strong>Art.</strong> 3º As outras vagas das tres armas do Exercito serão preenchidas com Officiaes tirados das classes dos avulsos, devendo o Poder Executivo escolher os de maior aptidão, e de graduação igual á das vagas, que houver para preencher.
+**Art.** 3º As outras vagas das tres armas do Exercito serão preenchidas com Officiaes tirados das classes dos avulsos, devendo o Poder Executivo escolher os de maior aptidão, e de graduação igual á das vagas, que houver para preencher.
 
-<strong>Art.</strong> 4º Ficam revogadas todas as leis em contrario.
+**Art.** 4º Ficam revogadas todas as leis em contrario.
 
 Manda portanto a todas as Autoridades, a quem o conhecimento, e execução da referida lei pertencer, que a cumpram e façam cumprir e guardar tão inteiramente como nella se contém. O Secretario de Estado dos Negocios da Guerra a faça imprimir, publicar e correr. Dada no Palacio do Rio de Janeiro, aos tres dias do mez de Setembro de mil oitocentos trinta e tres, decimo segundo da Independencia e do Imperio.
 
-<strong>FRANCISCO DE LIMA E SILVA.</strong>
+**FRANCISCO DE LIMA E SILVA.**
 
-<strong>JOÃO BRAULIO MONIZ.</strong>
+**JOÃO BRAULIO MONIZ.**
 
 Antéro José Ferreira de Brito.
 

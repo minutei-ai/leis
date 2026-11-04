@@ -1,5 +1,3 @@
-###DEC-069548-0-000-18-11-1971@@@
-
 DECRETO Nº 69.548 - DE 18 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, faixa de terra destinada à passagem de linhas de transmissão, nos municípios de Itameri e Campo Alegre de Goiás no Estado de Goiás.

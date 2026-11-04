@@ -1,5 +1,3 @@
-###DEC-082374-0-000-04-10-1978@@@
-
 Decreto nº 82.374, de 04 de outubro de 1978.
 
 Concede reconhecimento aos cursos de Ciências, Estudos Sociais e Letras, ministrados pela Faculdade de Formação de Professores de 1º Grau de Penedo, com sede na cidade de Penedo Estado de Alagoas.

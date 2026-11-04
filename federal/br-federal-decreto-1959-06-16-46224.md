@@ -1,5 +1,3 @@
-###DEC-046224-0-000-16-06-1959@@@
-
 DECRETO Nº 46.224, DE 16 DE JUNHO DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.
@@ -245,8 +243,6 @@ Rio de Janeiro, em 16 de junho de 1959; 138º da Independência e 71º da Repúb
 Juscelino Kubitschek
 
 Lúcio Meira
-
-###DEC-046224-0-000-16-06-1959@@@RET01+++
 
 DECRETO Nº 46.224, DE 16 DE JUNHO DE 1959
 

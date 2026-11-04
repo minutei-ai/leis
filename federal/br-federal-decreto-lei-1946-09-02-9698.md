@@ -1,5 +1,3 @@
-###DEL-009698-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.698 – DE 2 DE SETEMBRO DE 1946
 
 Aprova o Estatuto dos Militares

@@ -622,9 +622,10 @@ Art. 82. Esta lei entra em vigor na data de sua publicação, revogadas as dispo
 
 Gabinete do Prefeito de Rio Verde, aos 15 de dezembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral<br>
+VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral

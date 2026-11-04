@@ -1,5 +1,3 @@
-###DEC-061383-0-000-19-09-1967@@@
-
 Decreto nº 61.383, de 19 de setembro de 1967.
 
 Organiza o Escritório de Reforma Administrativa, regulamenta os artigos 148, § 2º e 153 do Decreto-lei número 200, de 25 de fevereiro de 1967, e dá outras providências.

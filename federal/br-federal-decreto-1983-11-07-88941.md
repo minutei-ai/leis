@@ -1,5 +1,3 @@
-###DEC-088941-0-000-07-11-1983@@@
-
 Decreto nº 88.941, de 07 de novembro de 1983
 
 Altera a redação de dispositivos do Decreto nº 84.099, de 17 de outubro de 1979, que dispõe sobre o Grupo-Polícia Civil a que se refere o artigo 2º da Lei nº 6.550, de 05 de julho de 1978.

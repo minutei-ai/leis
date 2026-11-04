@@ -1,5 +1,3 @@
-###DEC-051415-0-000-23-02-1962@@@
-
 Decreto nº 51.415, de 23 de fevereiro de 1962.
 
 Aprova a reforma de estatutos de ”The First National City Bank of New York”, com sede em New York, U.S.A.

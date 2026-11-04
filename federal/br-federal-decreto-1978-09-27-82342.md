@@ -1,5 +1,3 @@
-###DEC-082342-0-000-27-09-1978@@@
-
 Decreto nº 82.342, de 27 de setembro de 1978.
 
 Revoga Decretos que dispõem sobre a Delegação Brasileira na Comissão Militar Mista Brasil - Estados Unidos (CMMBEU) e na Comissão Mista de Defesa Brasil - Estados Unidos (CMDBEU) e dá outras providências.

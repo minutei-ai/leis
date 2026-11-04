@@ -1,5 +1,3 @@
-###DEC-068758-0-000-16-06-1971@@@
-
 DECRETO Nº 68.758 - DE 16 DE JUNHO DE 1971.
 
 Declara de interêsse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à reformulação do Projeto de Irrigação "Engenheiro Arcoverde", no município de Condado, Estado da Paraíba.

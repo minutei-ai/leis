@@ -1,5 +1,3 @@
-###DEL-004739-0-000-24-09-1942@@@
-
 DECRETO-LEI N. 4.739 – DE 24 DE SETEMBRO DE 1942
 
 Cria, no porto de Santos, o Entreposto de Depósito Franco de que trata o Convênio firmado no Rio de Janeiro, em 14 de junho de 1941, entre as Repúblicas dos Estados Unidos do Brasil e do Paraguai e promulgado pelo decreto n. 7.712, de 25 de agosto de 1941, e dá outras providências

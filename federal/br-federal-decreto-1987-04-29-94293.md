@@ -1,5 +1,3 @@
-###DEC-094293-0-000-29-04-1987@@@
-
 DECRETO N° 94.293, DE 29 DE ABRIL DE 1987.
 
 Altera e consolida o Estatuto da Fundação Centro de Formação do Servidor Público FUNCEP, instituída por força da Lei n° 6.871, de 3 de dezembro de 1980.

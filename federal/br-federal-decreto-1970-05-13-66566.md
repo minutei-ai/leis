@@ -1,5 +1,3 @@
-###DEC-066566-0-000-13-05-1970@@@
-
 DECRETO Nº 66.566, DE 13 DE MAIO DE 1970.
 
 Transfere para o patrimônio do Banco Nacional da Habitação o domínio útil de imóveis situados em Natal, Estado do Rio Grande do Norte.

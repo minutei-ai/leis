@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.733, de 19 de Maio de 2021.](https://legis.ac.gov.br/
 
 > **LEI Nº 3.612, DE 16 DE MARÇO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Estado do Acre a conceder o uso de imóvel à Colônia de Pescadores e Agricultores da Capital Z-8 – COLPAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Estado do Acre a conceder o uso de imóvel à Colônia de Pescadores e Agricultores da Capital Z-8 – COLPAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -13,8 +17,6 @@ Modificada pela Lei nº [3.733, de 19 de Maio de 2021.](https://legis.ac.gov.br/
 **Parágrafo único.** A presente concessão de uso destina-se exclusivamente à instalação e funcionamento da sede da concessionária. 
 
 **Art. 2º** A concessão de uso será formalizada por Termo de Concessão de Uso, do qual constarão as obrigações, encargos e responsabilidades da concessionária.
-
-<br>
 
 **~~Parágrafo único.~~** ~~A concessão de uso terá validade pelo prazo de cinco anos, a contar da data da assinatura do Termo de Concessão de Uso.~~
 

@@ -1,5 +1,3 @@
-###DEC-006768-0-000-10-02-2009@@@
-
 DECRETO Nº 6.768, DE 10 DE FEVEREIRO DE 2009.
 
 Disciplina o Programa Caminho da Escola.

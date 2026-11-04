@@ -1,5 +1,3 @@
-###DEC-077933-0-000-30-06-1976@@@
-
 Decreto nº 77.933, de 30 de junho de 1976.
 
 Concede à Mineração Itasul Ltda. o direito de lavrar mármore no Município de Camboriú, Estado de Santa Catarina.

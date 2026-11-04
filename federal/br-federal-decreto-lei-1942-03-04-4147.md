@@ -1,5 +1,3 @@
-###DEL-004147-0-000-04-03-1942@@@
-
 DECRETO-LEI N. 4.147 – DE 4 DE MARÇO DE 1942
 
 Dispõe sobre a fiscalização do comércio das águas engarrafadas

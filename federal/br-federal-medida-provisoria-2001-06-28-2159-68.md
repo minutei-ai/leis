@@ -1,5 +1,3 @@
-###MPV-002159-0-068-28-06-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.159‑68, DE 28 DE JUNHO DE 2001
 
 Altera a legislação do imposto de renda e dá outras providências.

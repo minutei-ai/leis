@@ -1,6 +1,10 @@
 > **LEI Nº 4.072, DE 26 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei n° 3.129, de 23 de maio de 2016, que dispõe sobre a criação do Programa Institucional de Bolsas para a Educação Básica e Educação Profissional da Secretaria de Estado de Educação e Esporte - SEE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei n° 3.129, de 23 de maio de 2016, que dispõe sobre a criação do Programa Institucional de Bolsas para a Educação Básica e Educação Profissional da Secretaria de Estado de Educação e Esporte - SEE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-087702-0-000-18-10-1982@@@
-
 decreto nº 87.702, de 18 de outubro de 1982
 
 Fixa o percentual de que trata o § 3º do artigo 15 da Lei nº 5.821, de 10 de novembro de 1972.

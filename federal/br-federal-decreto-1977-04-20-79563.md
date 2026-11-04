@@ -1,5 +1,3 @@
-###DEC-079563-0-000-20-04-1977@@@
-
 DECRETO Nº 79.563, DE 20 DE ABRIL DE 1977.
 
 Concede a Herbert Schmidt, Firma Individual, o direito de lavrar ardósia no Município de Indaial, Estado de Santa Catarina.

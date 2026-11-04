@@ -1,5 +1,3 @@
-###DEL-004087-0-000-04-02-1942@@@
-
 DECRETO-LEI N. 4.087 – DE 4 DE FEVEREIRO DE 1942
 
 Dispõe sobre a fiscalização do serviço de pedras preciosas e dá outras providências

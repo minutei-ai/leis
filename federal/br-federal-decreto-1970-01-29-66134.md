@@ -1,5 +1,3 @@
-###DEC-066134-0-000-29-01-1970@@@
-
 decreto nº 66.134, de 29 de janeiro de 1970.
 
 Declara de utilidade pública a Sociedade Suíça de Beneficência "Helvetia", com sede em São Paulo, Estado de São Paulo.

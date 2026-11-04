@@ -1,5 +1,3 @@
-###MPV-002209-0-000-29-08-2001@@@
-
 MEDIDA PROVISÓRIA No 2.209, DE 29 DE AGOSTO DE 2001.
 
  Autoriza a União a criar a Comercializadora Brasileira de Energia Emergencial - CBEE.

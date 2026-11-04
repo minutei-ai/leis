@@ -1,7 +1,3 @@
-1
-
-###MPV-001243-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.243, DE 14 DE DEZEMBRO DE 1995.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

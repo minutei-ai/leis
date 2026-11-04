@@ -1,5 +1,3 @@
-###DEC-070544-0-000-16-05-1972@@@
-
 DECRETO Nº 70.544, DE 16 DE MAIO DE 1972.
 
 Redistribui, com a respectiva ocupante, para a Universidade Federal do Rio Grande do Norte, cargo da Universidade Federal da Paraíba, e dá outras providências.

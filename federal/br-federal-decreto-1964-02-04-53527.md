@@ -1,5 +1,3 @@
-###DEC-053527-0-000-04-02-1964@@@
-
 Decreto nº 53.527, de 4 de Fevereiro de 1964.
 
 Modifica o regulamento da Comissão Nacional de Assistência Técnica.

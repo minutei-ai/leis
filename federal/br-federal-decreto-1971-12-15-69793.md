@@ -1,5 +1,3 @@
-###DEC-069793-0-000-15-12-1971@@@
-
 DECRETO Nº 69.793 - DE 15 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública a Casa de Caridade São Vicente de Paulo, com sede em Caxambu, Estado de Minas Gerais.

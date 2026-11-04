@@ -1,5 +1,3 @@
-###DEC-053259-0-000-13-12-1963@@@
-
 DECRETO Nº 53.259, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Joaquim de Castro a pesquisar bauxita, no município de Passa Quatro, Estado de Minas Gerais.

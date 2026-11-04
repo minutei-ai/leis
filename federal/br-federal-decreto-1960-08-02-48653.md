@@ -1,5 +1,3 @@
-###DEC-048653-0-000-02-08-1960@@@
-
 DECRETO Nº 48.653, DE 2 DE AGÔSTO DE 1960.
 
 Outorga concessão à Rádio Piratininga Votuporanga Limitada para instalar uma estação radiodifusora.

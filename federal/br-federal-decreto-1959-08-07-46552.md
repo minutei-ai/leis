@@ -1,5 +1,3 @@
-###DEC-046552-0-000-07-08-1959@@@
-
 DECRETO Nº 46.552, DE 7 DE AGÔSTO DE 1959.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$5.000.000,00, para o fim que especifica.

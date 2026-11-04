@@ -1,10 +1,8 @@
-###EMC-000058-0-000-23-09-2009@@@
+**EMENDA CONSTITUCIONAL Nº 58**
 
-<strong>EMENDA CONSTITUCIONAL Nº 58</strong>
+***Altera a redação do inciso IV do caput do art. 29 e do art. 29-A da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais. As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:***
 
-<em><strong>Altera a redação do inciso IV do caput do art. 29 e do art. 29-A da Constituição Federal, tratando das disposições relativas à recomposição das Câmaras Municipais. As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</strong></em>
-
-<strong>Art.</strong> 1º O inciso IV do caput do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
+**Art.** 1º O inciso IV do caput do art. 29 da Constituição Federal passa a vigorar com a seguinte redação:
 
 "Art. 29. ..................................................................................
 
@@ -62,7 +60,7 @@ x) 55 (cinquenta e cinco) Vereadores, nos Municípios de mais de 8.000.000 (oito
 
 ............................................................................................... "(NR)
 
-<strong>Art.</strong> 2º O art. 29-A da Constituição Federal passa a vigorar com a seguinte redação:
+**Art.** 2º O art. 29-A da Constituição Federal passa a vigorar com a seguinte redação:
 
 "Art. 29-A. ..............................................................................
 
@@ -80,7 +78,7 @@ VI - 3,5% (três inteiros e cinco décimos por cento) para Municípios com popul
 
 .............................................................................................. "(NR)
 
-<strong>Art.</strong> 3º Esta Emenda Constitucional entra em vigor na data de sua promulgação, produzindo efeitos:
+**Art.** 3º Esta Emenda Constitucional entra em vigor na data de sua promulgação, produzindo efeitos:
 
 I - o disposto no art. 1º, a partir do processo eleitoral de 2008; e
 
@@ -88,56 +86,56 @@ II - o disposto no art. 2º, a partir de 1º de janeiro do ano subsequente ao da
 
 Brasília, em 23 de setembro de 2009.
 
-<strong>Mesa da Câmara dos Deputados</strong>
+**Mesa da Câmara dos Deputados**
 
-<strong>Deputado MICHEL TEMER</strong>  
+**Deputado MICHEL TEMER**  
 
 Presidente      
 
-<strong>Deputado MARCO MAIA</strong>
+**Deputado MARCO MAIA**
 
 1º Vice-Presidente
 
-<strong>Deputado ANTÔNIO CARLOS</strong>
+**Deputado ANTÔNIO CARLOS**
 
-<strong>MAGALHÃES NETO</strong>
+**MAGALHÃES NETO**
 
 2º Vice-Presidente
 
-<strong>Deputado RAFAEL GUERRA</strong>
+**Deputado RAFAEL GUERRA**
 
 1º Secretário
 
-<strong>Deputado INOCÊNCIO OLIVEIRA</strong>
+**Deputado INOCÊNCIO OLIVEIRA**
 
 2º Secretário
 
-<strong>Deputado Odair Cunha</strong>
+**Deputado Odair Cunha**
 
 3º Secretário
 
-<strong>Deputado NELSON MARQUEZELLI</strong>
+**Deputado NELSON MARQUEZELLI**
 
 4º Secretário
 
-<strong>Mesa do Senado Federal</strong>
+**Mesa do Senado Federal**
 
-<strong>Senador JOSÉ SARNEY</strong>
+**Senador JOSÉ SARNEY**
 
 Presidente
 
-<strong>Senador MARCONI PERILLO</strong>
+**Senador MARCONI PERILLO**
 
 1º Vice-Presidente
 
-<strong>Senador HERÁCLITO FORTES</strong>
+**Senador HERÁCLITO FORTES**
 
 1º Secretário
 
-<strong>Senador MÃO SANTA</strong>
+**Senador MÃO SANTA**
 
 3º Secretário
 
-<strong>Senador CÉSAR BORGES</strong>
+**Senador CÉSAR BORGES**
 
 no exercício da 4ª Secretaria

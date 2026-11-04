@@ -1,6 +1,7 @@
 LEI COMPLEMENTAR Nº  40 , DE 02 DE SETEMBRO DE 2015.
 
- <br>
+ 
+
 Cria o cargo de Analista Ambiental.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO aprova E EU SANCIONO A SEGUINTE LEI:**

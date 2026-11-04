@@ -1,5 +1,3 @@
-###DEC-071772-0-000-29-01-1973@@@
-
 DECRETO Nº 71.772, DE 29 DE JANEIRO DE 1973.
 
 Inclui, na relação aprovada pelo Decreto nº 70.025, de 24 de janeiro de 1972, os órgãos de deliberação coletiva que especifica, da área do Ministério da Educação e Cultura.

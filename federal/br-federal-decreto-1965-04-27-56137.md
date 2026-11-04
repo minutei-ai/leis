@@ -1,5 +1,3 @@
-###DEC-056137-0-000-27-04-1965@@@
-
 DECRETO Nº 56.137, DE 27 DE ABRIL DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Segurança Industrial Companhia Nacional de Seguros, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-081806-0-000-23-06-1978@@@
-
 Decreto nº 81.806, de 23 de junho de 1978
 
 Altera a redação de dispositivos do Decreto nº 81.315, de 8 de fevereiro de 1978, que regulamenta a aplicação do Instituto da Ascensão Funcional, e dá outras providências.

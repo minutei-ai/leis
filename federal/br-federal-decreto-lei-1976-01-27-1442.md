@@ -1,5 +1,3 @@
-###DEL-001442-0-000-27-01-1976@@@
-
 # DECRETO-LEI Nº 1.442, DE 27 DE JANEIRo DE 1976
 
 Autoriza o Ministro da Fazenda a estender à Caixa Econômica Federal a condição de Agente do Tesouro Nacional, para os fins que especifica.

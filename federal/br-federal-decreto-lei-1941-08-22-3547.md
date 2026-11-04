@@ -1,5 +1,3 @@
-###DEL-003547-0-000-22-08-1941@@@
-
 DECRETO-LEI N. 3.547 – DE 22 DE AGOSTO DE 1941
 
 Dispõe sobre o comércio da borracha e dá outras providências

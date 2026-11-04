@@ -1,5 +1,3 @@
-###DEC-047175-0-000-06-11-1959@@@
-
 DECRETO Nº 47.175, DE 06 DE Novembro DE 1959.
 
 Concede o reconhecimento ao Curso que indica.

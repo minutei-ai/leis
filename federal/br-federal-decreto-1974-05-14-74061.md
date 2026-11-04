@@ -1,5 +1,3 @@
-###DEC-074061-0-000-14-05-1974@@@
-
 DECRETO Nº 74.061, DE 14 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no local denominado Pedrões, no Município de São Gonçalo do Abaeté, Estado de Minas Gerais.

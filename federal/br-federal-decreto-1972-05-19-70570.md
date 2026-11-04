@@ -1,5 +1,3 @@
-###DEC-070570-0-000-19-05-1972@@@
-
 DECRETO Nº 70.570, DE 19 DE MAIO DE 1972.
 
 Declara de utilidade pública o Colégio Nossa Senhora da Anunciação, com sede em Ananindeua, Estado do Pará.

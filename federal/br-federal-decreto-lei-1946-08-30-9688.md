@@ -1,5 +1,3 @@
-###DEL-009688-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.688 – DE 30 DE AGÔSTO DE 1946
 
 Dá nova redação ao item IV e § 1º e acrescenta um § 5º ao art. 9º do Decreto-lei nº 7.729, de 12 de Julho de 1945.

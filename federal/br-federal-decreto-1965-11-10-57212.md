@@ -1,5 +1,3 @@
-###DEC-057212-0-000-10-11-1965@@@
-
 DECRETO Nº 57.212, DE 10 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Carmine Lourenço Del Gaizo a lavrar água mineral no município de Cotia, Estado de São Paulo.

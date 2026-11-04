@@ -1,5 +1,3 @@
-###DEC-058311-0-000-02-05-1966@@@
-
 DECRETO Nº 58.311, DE 2 DE MAIO DE 1966.
 
 Declara de utilidade pública o “Instituto Popular de Assistência Social” (IPAS), com sede em Ponta Grossa, Estado do Paraná.

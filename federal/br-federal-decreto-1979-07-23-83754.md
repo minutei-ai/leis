@@ -1,5 +1,3 @@
-###DEC-083754-0-000-23-07-1979@@@
-
 Decreto nº 83.754, de 23 de julho de 1979.
 
 Autoriza o funcionamento do curso de Formação de Nutricionistas da Faculdade do Sagrado Coração, com sede na cidade de Bauru, Estado de São Paulo.

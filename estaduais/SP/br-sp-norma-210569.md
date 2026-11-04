@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210569)<br>
-
 # DECRETO N° 69.339, DE 04 DE FEVEREIRO DE 2025
 
 ### _Regulamenta a Lei Complementar n° 1.413, de 23 de setembro de 2024, que dispõe sobre o regime jurídico das agências reguladoras estaduais, bem como estabelece diretrizes para a organização das agências e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### TÍTULO I<br>
+#### TÍTULO I
+
 Das Disposições Preliminares
 
 **Artigo 1° -** Este decreto regulamenta a [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), que dispõe sobre o regime jurídico das agências reguladoras estaduais, bem como estabelece diretrizes para a organização das agências e dá providências correlatas.
@@ -19,15 +18,18 @@ Das Disposições Preliminares
 
 2 - a extinção dos empregos públicos em confiança, as funções-atividade em confiança e as funções retribuídas por meio de gratificação "pro-labore" existentes no âmbito de cada agência reguladora, nos termos do parágrafo único do artigo 23 da [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991).
 
-#### TÍTULO II<br>
+#### TÍTULO II
+
 Das Disposições Gerais
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Regime Jurídico das Agências Reguladoras
 
 **Artigo 2° -** O regime jurídico das agências reguladoras é caracterizado pela ausência de subordinação hierárquica, pela autonomia decisória, administrativa, orçamentária e financeira, bem como pela investidura a termo de seus dirigentes e estabilidade dos seus mandatos, conforme a disciplina prevista na [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012) e a regulamentação estabelecida por este decreto.
 
-#### Seção I<br>
+#### Seção I
+
 Da Autonomia Administrativa
 
 **Artigo 3° -** A autonomia administrativa das agências reguladoras, reconhecida no artigo 5° da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), compreende o gerenciamento dos recursos materiais e humanos e das contratações administrativas necessárias ao desempenho independente das suas atribuições.
@@ -70,7 +72,8 @@ I - certificado, pelo órgão competente do Poder Executivo, o atendimento aos l
 
 II - não se caracterize o desequilíbrio entre as receitas e as despesas da agência reguladora, na forma do §1° do artigo 7° da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
 
-#### Seção II<br>
+#### Seção II
+
 Da Autonomia Orçamentária e Financeira
 
 **Artigo 8° -** A autonomia orçamentária e financeira das agências reguladoras é caracterizada, nos termos do artigo 6° da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), pela gestão dos seus recursos orçamentários e financeiros, especialmente os provenientes de fontes de receitas próprias, de forma a assegurar o desempenho independente das suas atribuições.
@@ -93,7 +96,8 @@ II - ficarão sujeitas às consequências previstas no § 2° do artigo 7° da [
 
 **§ 3° -** Os valores de que trata o "caput" deste artigo poderão ser destinados, pelo poder concedente dos serviços regulados, à conta corrente, de titularidade do Estado, vinculada às finalidades previstas nos incisos do artigo 8° da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), independentemente do setor e do exercício financeiro em que tenham sido arrecadados.
 
-#### Seção III<br>
+#### Seção III
+
 Da Investidura a Termo e Estabilidade dos Mandatos dos Diretores
 
 **Artigo 11 -** A investidura a termo e a estabilidade dos diretores das agências reguladoras, caracterizadas nos termos do artigo 10 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), implica a impossibilidade de serem exonerados durante os seus mandatos, salvo nas hipóteses previstas no artigo 32 do referido diploma legal.
@@ -116,19 +120,22 @@ Da Investidura a Termo e Estabilidade dos Mandatos dos Diretores
 
 **§ 7° -** A remuneração compensatória a que se refere o artigo 34 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), será devida nos casos de perda de mandato por renúncia, desde que cumprido o interstício mínimo previsto no § 6° deste artigo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Das Competências das Agências Reguladoras
 
 **Artigo 12 -** As agências reguladoras são competentes para regular, controlar e fiscalizar os serviços e atividades abrangidos pela sua esfera de atuação, nos termos e nos limites estabelecidos pela [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
 
 **Artigo 13 -** Nos processos de competência das agências reguladoras que contenham matéria que possa gerar encargo, ônus financeiro ou obrigação ao Estado, o Poder Concedente será cientificado para apresentar as suas razões que contribuam para melhor análise do tema, na forma do artigo 36 da [Lei n° 17.293, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195740).
 
-#### Seção I<br>
+#### Seção I
+
 Da Interveniência-Anuência aos Contratos de Concessão
 
 **Artigo 14 -** A competência das agências reguladoras para gerenciar e participar, na condição de interveniente-anuente, da execução dos contratos de concessão dos serviços regulados, prevista no inciso V do artigo 11 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), compreende a assunção do compromisso de assegurar, no limite das suas atribuições, a implementação técnica, profissional e imparcial do estabelecido nos contratos.
 
-#### Seção II<br>
+#### Seção II
+
 Das Prerrogativas das Agências Reguladoras
 
 **Artigo 15 -** No exercício das suas atribuições, as agências reguladoras poderão:
@@ -201,7 +208,8 @@ VII - acesso remoto aos softwares e sistemas utilizados pelo prestador para acom
 
 **§ 6° -** A omissão no dever de comunicar o impedimento, apurada em processo administrativo, justificará o descredenciamento do perito e a aplicação de multa de até 2 (duas) vezes a remuneração arbitrada para o caso, sem prejuízo de outras responsabilidades legais.
 
-#### Seção III<br>
+#### Seção III
+
 Da Análise de Impacto Regulatório
 
 **Artigo 19 -** As agências reguladoras regulamentarão a realização de análise de impacto regulatório, a se dar previamente à edição ou à alteração de atos normativos de interesse geral dos agentes econômicos, consumidores ou usuários dos serviços regulados, na forma do artigo 52 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
@@ -218,12 +226,14 @@ Da Análise de Impacto Regulatório
 
 4 - as hipóteses em que é obrigatória a realização da análise de impacto regulatório e aquelas em que esta poderá ser dispensada.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Patrimônio e das Receitas das Agências Reguladoras
 
 **Artigo 20 -** As agências reguladoras são titulares dos bens, direitos e receitas que lhes são atribuídos por lei, regulamento e contrato, nos termos e nos limites estabelecidos pela [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
 
-#### Seção I<br>
+#### Seção I
+
 Da Taxa de Fiscalização, Controle e Regulação
 
 **Artigo 21 -** Será devida às agências reguladoras, pelo exercício das funções de fiscalização, controle e regulação de serviços e atividades abrangidos na sua esfera de atuação, taxa de fiscalização, controle e regulação, nos casos em que não for contratualmente prevista forma distinta de remuneração destas atribuições, conforme o estabelecido nos artigos 17 e 18 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
@@ -258,7 +268,8 @@ Da Taxa de Fiscalização, Controle e Regulação
 
 **§ 8° -** A agência reguladora competente adotará as providências cabíveis para que os valores não recolhidos sejam inscritos na dívida ativa para efeito de cobrança judicial na forma de legislação específica, sem prejuízo da inclusão dos nomes no respectivo cadastro de inadimplentes do Governo do Estado de São Paulo.
 
-#### Seção II<br>
+#### Seção II
+
 Das Multas Regulatórias
 
 **Artigo 22 -** As multas previstas em regulamentos, contratos de concessão e termos de permissão ou autorização referentes aos serviços regulados de titularidade do Estado não constituem receitas das agências reguladoras e deverão ser destinadas, pelo poder concedente, às finalidades referidas no artigo 8° da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
@@ -275,7 +286,8 @@ Das Multas Regulatórias
 
 **§ 4° -** O disposto neste artigo não afasta a observância do previsto no inciso VII do artigo 2° do [Decreto n° 68.825 de 4 de setembro de 2024](https://www.al.sp.gov.br/norma/209916).
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Estrutura das Agências Reguladoras
 
 **Artigo 23 -** O regimento interno de cada agência reguladora disporá sobre a sua estrutura, incluindo os respectivos órgãos e unidades administrativas internas, observadas as diretrizes estabelecidas por este decreto.
@@ -290,7 +302,8 @@ II - exercer o comando hierárquico direto sobre os servidores e empregados desi
 
 III - orientar, coordenar, supervisionar e praticar as decisões finais com relação às atividades inseridas na esfera de atribuições da unidade, conforme o estabelecido neste decreto e no regimento interno de cada agência reguladora.
 
-#### Seção I<br>
+#### Seção I
+
 Dos Órgãos Superiores das Agências Reguladoras
 
 **Artigo 25 -** As agências reguladoras possuirão os seguintes órgãos superiores, previstos no artigo 21 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), nos termos estabelecidos pelo referido diploma legal:
@@ -303,7 +316,8 @@ III - Procuradoria;
 
 IV - Corregedoria.
 
-#### Subseção I<br>
+#### Subseção I
+
 Do Conselho Diretor
 
 **Artigo 26 -** As agências reguladoras terão, como órgão máximo, o Conselho Diretor, composto por 1 (um) Diretor-Presidente e 4 (quatro) Diretores, nos termos estabelecidos pelos artigos 22 a 37 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
@@ -334,24 +348,28 @@ IV - a relação com a comunidade, com os mercados, com outras entidades estatai
 
 V - o exercício de outras competências atribuídas na [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), neste decreto, em decretos específicos e no regimento interno da respectiva agência reguladora.
 
-#### Subseção II<br>
+#### Subseção II
+
 Da Ouvidoria
 
 **Artigo 29 -** As agências reguladoras terão, como órgão de fiscalização, a Ouvidoria, com as atribuições previstas no artigo 38 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
 
 **Parágrafo único -** As agências reguladoras poderão solicitar ao órgão central do Sistema de Ouvidoria do Poder Executivo a indicação de servidores de seu quadro permanente que possuam a qualificação necessária para compor a lista tríplice de que trata o artigo 39 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
 
-#### Subseção III<br>
+#### Subseção III
+
 Da Procuradoria
 
 **Artigo 30 -** As atividades de representação judicial e extrajudicial, de consultoria e de assessoria jurídica das agências reguladoras serão exercidas pela Procuradoria Geral do Estado, nos termos do artigo 41 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), bem como da [Lei Complementar n° 1.270, de 25 de agosto de 2015](https://www.al.sp.gov.br/norma/175286).
 
-#### Subseção IV<br>
+#### Subseção IV
+
 Da Corregedoria
 
 **Artigo 31 -** As agências reguladoras terão, como órgão de correição, a Corregedoria, com as atribuições previstas no artigo 42 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012).
 
-#### Seção II<br>
+#### Seção II
+
 Das Unidades Administrativas das Agências Reguladoras
 
 **Artigo 32 -** As agências reguladoras possuirão as seguintes unidades administrativas:
@@ -372,7 +390,8 @@ V - Gerências.
 
 2 - a vedação ao aumento de despesas da agência reguladora em relação ao previsto neste decreto e na legislação aplicável.
 
-#### Subseção I<br>
+#### Subseção I
+
 Do Gabinete da Presidência
 
 **Artigo 33 -** Compete ao Gabinete da Presidência:
@@ -389,39 +408,46 @@ IV - exercer, mediante delegação do Diretor-Presidente, outras atividades pert
 
 **§ 2° -** O Gabinete da Presidência constituirá unidade de despesa da unidade orçamentária das agências reguladoras, nos termos da legislação aplicável.
 
-#### Subseção II<br>
+#### Subseção II
+
 Da Assessoria Especial do Gabinete
 
 **Artigo 34 -** Compete à Assessoria Especial do Gabinete apoiar o exercício das atribuições do Diretor-Presidente e do Gabinete da Presidência, nos termos especificados no regimento interno de cada agência reguladora.
 
-#### Subseção III<br>
+#### Subseção III
+
 Das Assessorias Técnicas de Diretoria
 
 **Artigo 35 -** Compete às Assessorias Técnicas de Diretoria apoiar o exercício das atribuições dos membros do Conselho Diretor, nos termos especificados no regimento interno de cada agência reguladora.
 
 **Parágrafo único -** Será instalada uma unidade de Assessoria Técnica de Diretoria para o apoio específico de cada um dos membros do Conselho Diretor, excetuado o Diretor-Presidente.
 
-#### Subseção IV<br>
+#### Subseção IV
+
 Das Superintendências
 
 **Artigo 36 -** Compete às Superintendências a execução das atividades e funções de fiscalização, controle e regulação, especificamente relacionadas a um ou mais setores abrangidos pela sua esfera de atuação, bem como a gestão dos recursos humanos e materiais necessários ao desempenho das suas funções, observadas as competências próprias do Conselho Diretor e do Gabinete da Presidência, nos termos especificados no regimento interno de cada agência reguladora.
 
-#### Subseção V<br>
+#### Subseção V
+
 Das Gerências
 
 **Artigo 37 -** Compete às Gerências executar, de forma especializada, as atividades finalísticas ou instrumentais das agências reguladoras pertinentes às Superintendências a que vinculadas, nos termos especificados no regimento interno de cada agência reguladora.
 
-#### TÍTULO III<br>
+#### TÍTULO III
+
 Do Quadro de Pessoal das Agências Reguladoras
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Gerais
 
 **Artigo 38 -** As agências reguladoras implementarão, por meio de ato próprio e observada a existência de disponibilidade orçamentária e financeira, a concessão dos planos, assistências, auxílios, seguros e reembolsos a que se refere o artigo 75 da [Lei Complementar n° 1.413, de 23 de setembro de 2024](https://www.al.sp.gov.br/norma/210012), aos seus respectivos empregados e servidores, inclusive os ocupantes de cargos em comissão e empregos públicos em confiança.
 
 **Parágrafo único -** Sem prejuízo do disposto no "caput" deste artigo, poderão ser concedidos a todos os agentes que exerçam as suas funções nas agências reguladoras, inclusive estagiários, benefícios fornecidos por meio de contratos administrativos de prestação de serviços que decorram das condições de trabalho existentes na agência e não constituam vantagens funcionais propriamente ditas, desde que observada a existência de disponibilidade orçamentária e financeira.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Cargos em Comissão das Agências Reguladoras
 
 **Artigo 39 -** Os cargos em comissão das agências reguladoras, excetuados os de Diretor-Presidente e os de Diretor, serão regidos pela [Lei Complementar n° 1.395, de 22 de dezembro de 2023](https://www.al.sp.gov.br/norma/208991), e pela respectiva regulamentação, ressalvadas as disposições específicas constantes deste decreto, aplicando-se, subsidiariamente, aos cargos em comissão, o previsto pela [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593).
@@ -462,7 +488,8 @@ III - o disposto no artigo 23 deste decreto.
 
 **Parágrafo único -** Fica autorizado aos servidores e empregados oriundos da Administração Pública estadual direta e indireta nomeados para os cargos em comissão das agências reguladoras o gozo de período de férias adquirido sob outro regime jurídico, nas condições do cargo em comissão para o qual nomeados.
 
-#### TÍTULO IV<br>
+#### TÍTULO IV
+
 Das Disposições Finais
 
 **Artigo 44 -** Fica aprovada a estrutura dos cargos em comissão das agências reguladoras, conforme as denominações e os níveis relacionados no Anexo Único deste decreto.
@@ -579,7 +606,8 @@ b) o inciso II.
 
 **Artigo 49 -** Este decreto e as suas disposições transitórias entram em vigor na data de sua publicação.
 
-#### TÍTULO V<br>
+#### TÍTULO V
+
 Das Disposições Transitórias
 
 **Artigo 1° -** Aos Ouvidores das agências reguladoras com mandato em curso na data de publicação deste decreto serão assegurados, durante a vigência remanescente do termo, o provimento no cargo em comissão correspondente, bem como a respectiva remuneração, conforme a estrutura aprovada pelo respectivo Conselho Diretor, nos termos deste decreto.
@@ -608,8 +636,8 @@ Rafael Antonio Cren Benini
 
 1\. Cargos de comando
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">UNIDADE/ÓRGÃO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DENOMINAÇÃO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">NÍVEL</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Gabinete da Presidência</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Secretário Executivo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">18 a 17</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Superintendências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Superintendente</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Ouvidoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Ouvidor</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="4">17 a 14</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Corregedoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Corregedor</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessoria Especial do Gabinete Assessorias Técnicas de Diretoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Assessoria</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Gerências</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Gerente</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenadoria</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Coordenador</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13 a 11</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Divisão</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Divisão</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10 a 9</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Serviço</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8 a 7</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Seção</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Seção</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6 a 5</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Setor</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Setor</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Núcleo</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Divisão</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Unidade</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Unidade</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Equipe</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Chefe de Equipe</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td></tr></tbody></table>
+<table><tbody><tr><td>UNIDADE/ÓRGÃO</td><td>DENOMINAÇÃO</td><td>NÍVEL</td></tr><tr><td>Gabinete da Presidência</td><td>Secretário Executivo</td><td rowspan="2">18 a 17</td></tr><tr><td>Superintendências</td><td>Superintendente</td></tr><tr><td>Ouvidoria</td><td>Ouvidor</td><td rowspan="4">17 a 14</td></tr><tr><td>Corregedoria</td><td>Corregedor</td></tr><tr><td>Assessoria Especial do Gabinete Assessorias Técnicas de Diretoria</td><td>Chefe de Assessoria</td></tr><tr><td>Gerências</td><td>Gerente</td></tr><tr><td>Coordenadoria</td><td>Coordenador</td><td>13 a 11</td></tr><tr><td>Divisão</td><td>Chefe de Divisão</td><td>10 a 9</td></tr><tr><td>Serviço</td><td>Chefe de Serviço</td><td>8 a 7</td></tr><tr><td>Seção</td><td>Chefe de Seção</td><td>6 a 5</td></tr><tr><td>Setor</td><td>Chefe de Setor</td><td>4</td></tr><tr><td>Núcleo</td><td>Chefe de Divisão</td><td>3</td></tr><tr><td>Unidade</td><td>Chefe de Unidade</td><td>2</td></tr><tr><td>Equipe</td><td>Chefe de Equipe</td><td>1</td></tr></tbody></table>
 
 2\. Cargos de assessoria
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">UNIDADE/ÓRGÃO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DENOMINAÇÃO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">NÍVEL</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="17">Todas as unidades administrativas</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial V</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">17</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">16</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">15</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">14</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor Especial I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">12</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">11</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">10</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assessor I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">9</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">8</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">7</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">6</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente Técnico I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">5</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente IV</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente III</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">3</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente II</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Assistente I</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1</td></tr></tbody></table>
+<table><tbody><tr><td>UNIDADE/ÓRGÃO</td><td>DENOMINAÇÃO</td><td>NÍVEL</td></tr><tr><td rowspan="17">Todas as unidades administrativas</td><td>Assessor Especial V</td><td>17</td></tr><tr><td>Assessor Especial IV</td><td>16</td></tr><tr><td>Assessor Especial III</td><td>15</td></tr><tr><td>Assessor Especial II</td><td>14</td></tr><tr><td>Assessor Especial I</td><td>13</td></tr><tr><td>Assessor IV</td><td>12</td></tr><tr><td>Assessor III</td><td>11</td></tr><tr><td>Assessor II</td><td>10</td></tr><tr><td>Assessor I</td><td>9</td></tr><tr><td>Assistente Técnico IV</td><td>8</td></tr><tr><td>Assistente Técnico III</td><td>7</td></tr><tr><td>Assistente Técnico II</td><td>6</td></tr><tr><td>Assistente Técnico I</td><td>5</td></tr><tr><td>Assistente IV</td><td>4</td></tr><tr><td>Assistente III</td><td>3</td></tr><tr><td>Assistente II</td><td>2</td></tr><tr><td>Assistente I</td><td>1</td></tr></tbody></table>

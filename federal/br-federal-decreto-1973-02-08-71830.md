@@ -1,5 +1,3 @@
-###DEC-071830-0-000-08-02-1973@@@
-
 DECRETO Nº 71.830, DE 8 DE FEVEREIRO DE 1973.
 
 Concede reconhecimento à Escola Superior de Educação Física de Cruzeiro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-008766-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.766 – DE 21 DE JANEIRO DE 1946
 
 Dispõe sôbre os bens e direitos da Companhia Brasileira de Águas e Esgôtos de Niterói S. A. e dá outras providencias.

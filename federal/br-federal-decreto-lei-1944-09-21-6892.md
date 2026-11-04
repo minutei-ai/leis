@@ -1,5 +1,3 @@
-###DEL-006892-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.892 – DE 21 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 30.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208894)<br>
-
 # LEI N° 17.851, DE 05 DE DEZEMBRO DE 2023
 
 ## (Projeto de lei n° 300/2022, da Deputada Marina Helou – REDE)

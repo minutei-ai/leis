@@ -1,5 +1,3 @@
-###DEC-089835-0-000-26-06-1984@@@
-
 DECRETO Nº 89.835, DE 26 DE JUNHO DE 1984
 
 Concede à SIDERURGIA BRASILEIRA S.A SIDERBRÁS - autorização para proceder o aumento do seu capital autorizado, bem como do capital social, e dá outras providências.

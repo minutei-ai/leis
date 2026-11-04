@@ -1,5 +1,3 @@
-###DEC-066177-0-000-04-02-1970@@@
-
 DECRETO Nº 66.177 - DE 4 DE FEVEREIRO DE 1970
 
 Altera dispositivo do Decreto nº 65.690, de 12 de novembro de 1969, que aprovou os Estatutos da Petróleo Brasileiro S.A., PETROBRÁS.

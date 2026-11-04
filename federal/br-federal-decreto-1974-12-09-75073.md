@@ -1,5 +1,3 @@
-###DEC-075073-0-000-09-12-1974@@@
-
 DECRETO Nº 75.073, DE 9 DE DEZEMBRO DE 1974.
 
 Reduz as alíquotas de Imposto sobre Produtos Industrializados relativas a produtos compreendidos no Capitulo 71 da Tabela de Incidência aprovada pelo Decreto nº 73.340, de 19 de dezembro de 1973.

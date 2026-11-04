@@ -1,5 +1,3 @@
-###DEC-057461-0-000-20-12-1965@@@
-
 DECRETO Nº 57.461, DE 20 DE DEZEMBRO DE 1965.
 
 Dá nova redação ao Decreto nº 52.400, de 25 de agôsto de 1963 e dá outras providências.

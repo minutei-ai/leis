@@ -1,5 +1,3 @@
-###DEC-092428-0-000-25-02-1986@@@
-
 DECRETO Nº 92.428, DE 25 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Araguari.

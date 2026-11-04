@@ -1,5 +1,3 @@
-###DEC-004017-0-000-13-11-2001@@@
-
 DECRETO Nº 4.017, DE 13 DE NOVEMBRO DE 2001
 
 Altera os Anexos I e IV do Decreto nº 3.746, de 6 de fevereiro de 2001.

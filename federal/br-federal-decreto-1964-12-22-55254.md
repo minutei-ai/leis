@@ -1,5 +1,3 @@
-###DEC-055254-0-000-22-12-1964@@@
-
 DECRETO Nº 55.254, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Ribeiro de Rezende a pesquisar quartzito no município de Baependi, Estado de Minas Gerais.

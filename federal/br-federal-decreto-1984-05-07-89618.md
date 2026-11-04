@@ -1,5 +1,3 @@
-###DEC-089618-0-000-07-05-1984@@@
-
 Decreto nº 89.618, de 07 de maio de 1984
 
 Declara de interesse social, para fins de desapropriação, propriedades particulares situadas na área que especifica, localizada no Estado de Mato Grosso, e dá outras providências.

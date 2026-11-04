@@ -1,5 +1,3 @@
-###DEC-084832-0-000-24-06-1980@@@
-
 Decreto nº 84.832, de 24 de junho de 1980.
 
 Dispensa de licitação para alienação de glebas destinadas ao reassentamento de colonos localizados na Reserva Indígena de Parabubure, Estado de Mato Grosso.

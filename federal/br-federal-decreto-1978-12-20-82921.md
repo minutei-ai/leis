@@ -1,5 +1,3 @@
-###DEC-082921-0-000-20-12-1978@@@
-
 decreto nº 82.921, de 20 de dezembro de 1978
 
 Concede à Itapebira Mármores e Granitos Ltda. o direito de lavrar mármore no Município de Rio Branco do Sul, Estado do Paraná.

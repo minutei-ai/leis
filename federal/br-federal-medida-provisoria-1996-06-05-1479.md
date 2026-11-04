@@ -1,7 +1,3 @@
-1
-
-###MPV-001479-0-000-05-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.479, DE 5 DE JUNHO DE 1996.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056367-0-000-27-05-1965@@@
-
 decreto nº 56.367, de 27 de maio de 1965.
 
 Expede normas a serem observadas pelas Delegacias do Trabalho Marítimo, e que deverão ser incluídas nas instruções sôbre o exército da profissão de conferente de carga e descarga, baixadas nos têrmos da Lei nº 1.561, de 21 de fevereiro de 1952 e dá outras providências.

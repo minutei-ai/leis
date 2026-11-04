@@ -1,5 +1,3 @@
-###DEC-097531-0-000-17-02-1989@@@
-
 DECRETO N° 97.531 DE 17 DE FEVEREIRO DE 1989
 
 Altera dispositivos do Decreto nº 94. 712, de 31 de julho de 1987.

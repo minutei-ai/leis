@@ -1,5 +1,3 @@
-###DEC-056366-0-000-27-05-1965@@@
-
 DECRETO Nº 56.366, DE 27 DE MAIO DE 1965.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$100.000.000 (cem milhões de cruzeiros); para a Escola Superior de Agricultura de Lavras, para os fins que especifica.

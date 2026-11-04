@@ -1,6 +1,16 @@
 Lei Ordinária n° 20.953 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font size="2" color="#808000" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
+
+&nbsp;
+
+</td></tr><tr><td width="100%">
+
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
+
+</td></tr></tbody></table>
 
 **LEI Nº 20.953, DE 30 DE DEZEMBRO DE 2020**
 
@@ -180,7 +190,8 @@ Art. 17.  Esta Lei entra em vigor na data de sua publicação. 
 
 Goiânia, 30 de dezembro de 2020; 132º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado 
 
 _Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020__._

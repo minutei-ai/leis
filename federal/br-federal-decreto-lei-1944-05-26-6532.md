@@ -1,5 +1,3 @@
-###DEL-006532-0-000-26-05-1944@@@
-
 DECRETO-LEI N. 6.532 – DE 26 DE MAIO 1944
 
 Dispõe sobre vencimentos e gratificações de função no Serviço Nacional de Recenseamento

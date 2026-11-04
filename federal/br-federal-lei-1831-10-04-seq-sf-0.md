@@ -1,5 +1,3 @@
-###LEI-000000-0-000-04-10-1831@@@
-
 LEI - DE 4 DE OUTUBRO DE 1831
 
 Dá organização ao Thesouro Publico Nacional e ás Thesourarias das Provincias.

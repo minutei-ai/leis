@@ -1,5 +1,3 @@
-###DEC-069798-0-000-15-12-1971@@@
-
 Decreto nº 69.798 - de 15 de dezembro de 1971
 
 Reconhece a Faculdade de Ciências Econômicas, Administrativas e Contábeis de Belo Horizonte - MG.

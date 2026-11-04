@@ -1,5 +1,3 @@
-###DEC-068300-0-000-01-03-1971@@@
-
 DECRETO Nº 68.300, DE 1º DE MARÇO DE 1971.
 
 Retifica o Decreto nº 66.716, de 15 de junho de 1970.

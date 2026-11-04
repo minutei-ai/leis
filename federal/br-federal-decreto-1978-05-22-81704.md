@@ -1,5 +1,3 @@
-###DEC-081704-0-000-22-05-1978@@@
-
 Decreto nº 81.704, de 22 de maio de 1978.
 
 Altera o nome do Centro de Instrução e Adestramento de Submarinos e Mergulho (CIASM) para Centro de Instrução e Adestramento "Almirante ÁTTILA MONTEIRO ACHÊ".

@@ -1,5 +1,3 @@
-###DEC-005244-0-000-14-10-2004@@@
-
 DECRETO Nº 5.244 DE 14 DE OUTUBRO DE 2004
 
 Dispõe sobre a composição e funcionamento do Conselho Nacional de Combate à Pirataria e Delitos contra a Propriedade Intelectual, e dá outras providências.

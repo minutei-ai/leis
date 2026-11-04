@@ -1,5 +1,3 @@
-###DEL-001446-0-000-13-02-1976@@@
-
 # DECRETO-LEI Nº 1.446, DE 13 DE FEVEREIRO DE 1976
 
 Dispõe sobre a tributação de rendimentos de serviços técnicos prestados no exterior.

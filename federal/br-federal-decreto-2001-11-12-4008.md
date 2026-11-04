@@ -1,5 +1,3 @@
-###DEC-004008-0-000-12-11-2001@@@
-
 DECRETO Nº 4.008, DE 12 DE NOVEMBRO DE 2001
 
 Dispõe sobre a execução do Trigésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 18 (Decisão CMC nº 1/99 - Acordo de Cooperação e Facilitação sobre a Proteção das Obtenções Vegetais nos Estados Partes do Mercosul), entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 23 de agosto de 2001.

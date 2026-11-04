@@ -1,5 +1,3 @@
-###DEC-067511-0-000-09-11-1970@@@
-
 DECRETO Nº 67.511, DE 9 DE NOVEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 31.215, de 30 de julho de 1952.

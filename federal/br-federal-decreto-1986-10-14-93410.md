@@ -1,5 +1,3 @@
-###DEC-093410-0-000-14-10-1986@@@
-
 DECRETO Nº 93.410, DE 14 DE OUTUBRO DE 1986
 
 Suprime exigência de reconhecimento de firmas em declarações individuais prestadas nos órgãos de Registro do Comércio.

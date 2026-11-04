@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208752)<br>
-
 # LEI N° 17.830, DE 01 DE NOVEMBRO DE 2023
 
 ## (Projeto de lei n° 596/2021, do Deputado Altair Moraes - REPUBLICANOS)

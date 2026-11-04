@@ -1,5 +1,3 @@
-###DEC-060582-0-000-11-04-1967@@@
-
 Decreto nº 60.582, de 11 de abril de 1967.
 
 Declara de utilidade pública o “Centro Espírita Adolfo Bezerra de Menezes”, com sede em Sobradinho, Distrito Federal.

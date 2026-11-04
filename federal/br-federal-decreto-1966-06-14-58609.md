@@ -1,5 +1,3 @@
-###DEC-058609-0-000-14-06-1966@@@
-
 decreto nº 58.609, de 14 de junho de 1966.
 
 Concede à Mineração Garças Limitada, autorização para funcionar como emprêsa de mineração.

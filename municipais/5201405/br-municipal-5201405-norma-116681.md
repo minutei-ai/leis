@@ -22,7 +22,8 @@ VI – 01 (um) membro titular e seu suplente, integrantes da estrutura administr
 
 VII – 01 (um) membro titular e seu suplente, integrantes da estrutura administrativa da Secretaria Municipal de Governo, indicados pelo respectivo Secretário Municipal;
 
-VIII – 01 (um) membro titular e seu suplente, integrantes da Câmara Municipal de Aparecida de Goiânia, indicados pelo seu Presidente. <br>
+VIII – 01 (um) membro titular e seu suplente, integrantes da Câmara Municipal de Aparecida de Goiânia, indicados pelo seu Presidente. 
+
 (Redação alterada pela Lei Ordinária nº 3.362, de 12 de junho de 2017).
 
 ~~§ 1°– O conselho Municipal de Turismo é órgão consultivo, deliberativo, normativo e fiscalizador de assessoramento á administração pública e órgãos de representatividade destinados ao fortalecimento do turismo no Município de Aparecida de Goiânia.~~
@@ -61,22 +62,26 @@ Art. 5º - O Conselho Municipal de Turismo reunir-se-á ordinariamente, na prime
 
 Art. 6º - Caberá ao Conselho de Turismo eleger uma Comissão Executiva composta de 03 (três) membros do próprio Conselho de Turismo:
 
-I – Presidente;<br>
+I – Presidente;
+
 (Redação alterada pela Lei Ordinária nº 3.362, de 12 de junho de 2017).
 
 ~~I – Presidente, escolhido dentre os representantes do poder público;~~
 
-II – Vice-Presidente;<br>
+II – Vice-Presidente;
+
 (Redação alterada pela Lei Ordinária nº 3.362, de 12 de junho de 2017).
 
 ~~II – Vice-Presidente, escolhido dentre os representantes do poder público;~~
 
 III – Secretário Geral.
 
-§ 1º - Quando o Presidente da Comissão Executiva for representante do Poder Público, automaticamente o Vice-Presidente será um representante da sociedade civil, e vice-versa.<br>
+§ 1º - Quando o Presidente da Comissão Executiva for representante do Poder Público, automaticamente o Vice-Presidente será um representante da sociedade civil, e vice-versa.
+
 (Redação acrescentada pela Lei Ordinária nº 3.362, de 12 de junho de 2017).
 
-§ 2º – No prazo de 60 (sessenta) dias, contados da data da posse dos membros da Comissão Executiva, o Presidente designará uma comissão, composta por membros do Conselho Municipal de Turismo, para elaboração de seu regimento interno, o qual deverá ser aprovado pela maioria de dois terços dos membros do respectivo Conselho e, posteriormente, ratificado pelo Secretário Municipal de Desenvolvimento Econômico.<br>
+§ 2º – No prazo de 60 (sessenta) dias, contados da data da posse dos membros da Comissão Executiva, o Presidente designará uma comissão, composta por membros do Conselho Municipal de Turismo, para elaboração de seu regimento interno, o qual deverá ser aprovado pela maioria de dois terços dos membros do respectivo Conselho e, posteriormente, ratificado pelo Secretário Municipal de Desenvolvimento Econômico.
+
 (Redação alterada pela Lei Ordinária nº 3.362, de 12 de junho de 2017).
 
 ~~Parágrafo único – No prazo de 60 (Sessenta) dias, contados da data da posse dos membros da Comissão Executiva, o Presidente designará uma comissão, composta por membros do Conselho Municipal de Turismo, para elaboração de seu regimento interno, o qual deverá ser aprovado pela maioria de dois terços dos membros de do respectivo Conselho e, posteriormente, ratificado pelo Secretário Municipal de Cultura e Turismo.~~
@@ -93,7 +98,8 @@ IV – delegar, quando julgar conveniente, atribuições pertinentes à atuaçã
 
 Art. 8º - São atribuições do Conselho Municipal de Turismo:
 
-I – contribuir com os processos, projetos ou planos de desenvolvimento de turismo elaborados pela Secretaria Municipal de Desenvolvimento Econômico; <br>
+I – contribuir com os processos, projetos ou planos de desenvolvimento de turismo elaborados pela Secretaria Municipal de Desenvolvimento Econômico; 
+
 (Redação alterada pela Lei Ordinária nº 3.362, de 12 de junho de 2017).
 
 ~~I –Contribuir com os processos, projetos ou planos de desenvolvimento de turismo elaborados pela Secretaria Municipal de Cultura e Turismo;~~
@@ -136,8 +142,10 @@ Art. 10 - Esta Lei entra em vigor na data de sua publicação, revogadas as disp
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, AOS 08 DIAS DO MÊS DE ABRIL DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

@@ -1,5 +1,3 @@
-###DEC-052485-0-000-19-09-1963@@@
-
 DECRETO Nº 52.845, DE 19 DE SETEMBRO DE 1963.
 
 Altera dispositivos do Regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto número 42.808, de 13-12-57.

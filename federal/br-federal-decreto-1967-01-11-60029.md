@@ -1,5 +1,3 @@
-###DEC-060029-0-000-11-01-1967@@@
-
 Decreto nº 60.029, de 11 de Janeiro de 1967.
 
 Autoriza cidadão brasileiro João Vaz de Lima a pesquisar quartzo, feldspato e caulim no município de Socorro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-095966-0-000-25-04-1988@@@
-
 DECRETO N° 95.966, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO POEMA DE PITANGA LTDA.,  para explorar serviço de radiodifusão sonora em onda média, na cidade de Pitanga, Estado do Paraná.

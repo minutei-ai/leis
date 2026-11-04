@@ -1,5 +1,3 @@
-###MPV-000410-0-000-28-12-2007@@@
-
 MEDIDA PROVISÓRIA Nº 410, DE 28 DE DEZEMBRO DE 2007.
 
 Acrescenta artigo à Lei no 5.889, de 8 de junho de 1973, criando o contrato de trabalhador rural por pequeno prazo, estabelece normas transitórias sobre a aposentadoria do trabalhador rural e prorroga o prazo de contratação de financiamentos rurais de que trata o § 6o do art. 1o da Lei no 11.524, de 24 de setembro de 2007.
@@ -63,5 +61,3 @@ Arno Hugo Filho
 Carlos Lupi
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 28.12.2007 - Edição extra.

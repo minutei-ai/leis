@@ -1,5 +1,3 @@
-###DEC-057973-0-000-11-03-1966@@@
-
 DECRETO Nº 57.973, DE 11 DE MARÇO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 41.584, de 29 de maio de 1957, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude de público “Glória”, no Estado de Sergipe.

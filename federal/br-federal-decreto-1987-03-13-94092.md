@@ -1,5 +1,3 @@
-###DEC-094092-0-000-13-03-1987@@@
-
 DECRETO N° 94.092, DE 13 DE MARÇO DE 1987
 
 Autoriza o aumento do Capital Social da Companhia de Água e Esgoto do Amapá - CAESA.

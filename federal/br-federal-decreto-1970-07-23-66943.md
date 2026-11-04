@@ -1,5 +1,3 @@
-###DEC-066943-0-000-23-07-1970@@@
-
 DECRETO Nº 66.943, DE 23 DE JULHO DE 1970.
 
 Cargos privativos de Oficiais-Generais.

@@ -1,5 +1,3 @@
-###DEC-049093-0-000-10-10-1960@@@
-
 DECRETO Nº 49.093, DE 10 DE OUTUBRO DE 1960.
 
 Assegura ao algodão em pluma da região setentrional do país, da safra de V960-61, a garantia de preços mínimos.

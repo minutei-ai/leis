@@ -1,5 +1,3 @@
-###DEC-048471-0-000-07-07-1960@@@
-
 DECRETO Nº 48.471, DE 7 DE JULHO DE 1960.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Juazeiro do Norte (CE).

@@ -1,5 +1,3 @@
-###DEC-073737-0-000-05-03-1974@@@
-
 DECRETO Nº 73.737, DE 5 DE MARÇO DE 1974.
 
 Concede reconhecimento à Faculdade de Serviço Social de Santos, mantida pela Sociedade Visconde de São Leopoldo, com sede na Cidade de Santos, Estado de São Paulo.

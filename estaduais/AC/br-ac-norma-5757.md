@@ -1,6 +1,10 @@
 > **LEI Nº 4.174, DE 05 DE OUTUBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Reconhece as pessoas com fibromialgia e neurofibromatose como deficientes, na forma que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Reconhece as pessoas com fibromialgia e neurofibromatose como deficientes, na forma que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

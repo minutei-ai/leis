@@ -1,5 +1,3 @@
-###DEC-058359-0-000-06-05-1966@@@
-
 DECRETO Nº 53.359, DE 6 DE MaIO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$521.700.000, para atender ao pagamento da contribuição brasileira ao Fundo Especial de Assistência para o Desenvolvimento, do Programa de Cooperação Técnica da Organização dos Estados Americanos.
@@ -10,7 +8,21 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério das Relações Exteriores, o crédito suplementar de Cr$521.700.000 (quinhentos e vinte e um milhões e setecentos mil cruzeiros) à seguinte dotação do Orçamento Geral da União para o exercício financeiro de 1966 (Lei nº 4.900, de 10 de dezembro de 1965):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.13.01</span></p></td><td style="width:378.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Secretaria de Estado</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0</span></p></td><td style="width:378.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.1.0</span></p></td><td style="width:378.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Subvenções Sociais</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.2.1.0</span></p></td><td style="width:378.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Instituições Internacionais (Adendo A)</span></p></td></tr></tbody></table>
+4.13.01
+
+- Secretaria de Estado
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.2.1.0
+
+- Subvenções Sociais
+
+3.2.1.0
+
+- Instituições Internacionais (Adendo A)
 
 65\) Programa de Cooperação Técnica na O.E.A. - Cr$335.000.000.
 

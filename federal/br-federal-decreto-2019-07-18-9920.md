@@ -1,6 +1,6 @@
 DECRETO Nº 9.920, DE 18 DE JULHO DE 2019
 
-Institui o Conselho para a Preparação e o Acompanhamento do Processo de Acessão da República Federativa do Brasil à Organização para a Cooperação e Desenvolvimento Econômico - OCDE.<br>
+Institui o Conselho para a Preparação e o Acompanhamento do Processo de Acessão da República Federativa do Brasil à Organização para a Cooperação e Desenvolvimento Econômico - OCDE.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso VI, alínea “a”, da Constituição,
 

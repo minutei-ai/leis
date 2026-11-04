@@ -1,5 +1,3 @@
-###DEL-005895-0-000-20-10-1943@@@
-
 DECRETO‑LEI N. 5.895 – DE 20 DE OUTUBRO DE 1943
 
 Autoriza o aproveitamento de indivíduos de capacidade reduzida e dá outras providências

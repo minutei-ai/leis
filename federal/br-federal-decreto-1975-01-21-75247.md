@@ -1,5 +1,3 @@
-###DEC-075247-0-000-21-01-1975@@@
-
 DECRETO Nº 75.247, DE 21 DE JANEIRO DE 1975.
 
 Regulamento dispositivos do Decreto-lei nº 1.346, de 25 de setembro de 1974.

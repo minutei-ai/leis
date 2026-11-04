@@ -1,5 +1,3 @@
-###DEC-006698-0-000-17-12-2008@@@
-
 DECRETO Nº 6.698, DE 17 DE DEZEMBRO DE 2008.
 
 Declara as águas jurisdicionais marinhas brasileiras Santuário de Baleias e Golfinhos do Brasil.

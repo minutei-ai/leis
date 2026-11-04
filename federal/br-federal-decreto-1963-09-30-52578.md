@@ -1,5 +1,3 @@
-###DEC-052578-0-000-30-09-1963@@@
-
 DECRETO Nº 52.578, DE 30 DE SETEMBRO DE 1963.
 
 Desvincula do acervo da Companhia Nacional de Energia Elétrica um grupo Diesel-elétrico.

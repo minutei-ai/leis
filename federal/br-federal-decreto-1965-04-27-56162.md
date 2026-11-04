@@ -1,5 +1,3 @@
-###DEC-056162-0-000-27-04-1965@@@
-
 decreto nº 56.162, de 27 de abril de 1965.
 
 Autoriza o cidadão brasileiro Renato Martins de Siqueira a pesquisar talco no município de Castro, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-048229-0-000-16-05-1960@@@
-
 decreto nº 48.229, de 16 de maio de 1960.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Saúde, e dá outras providências.

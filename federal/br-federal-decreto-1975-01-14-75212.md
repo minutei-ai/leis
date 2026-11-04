@@ -1,5 +1,3 @@
-###DEC-075212-0-000-14-01-1975@@@
-
 DECRETO Nº 75.212, DE 14 DE JANEIRO DE 1975.
 
 Altera o artigo 5º do Regulamento para a Formação de Oficiais Engenheiros e o Ingresso no Corpo de Engenheiros e Técnicos Navais, aprovado pelo Decreto nº 71.317, de 6 de novembro de 1972, alterado pelo Decreto nº 74.192, de 19 de junho de 1974 e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211241)<br>
-
 # DECRETO N° 69.744, DE 22 DE JULHO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria da Justiça e Cidadania nos Sistemas de Administração Financeira e Orçamentária do Estado._

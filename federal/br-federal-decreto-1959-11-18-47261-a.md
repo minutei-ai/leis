@@ -1,5 +1,3 @@
-###DEC-047261-A-000-18-11-1959@@@
-
 DECRETO Nº 47.261-a, DE 18 DE NOVEMBRO DE 1959.
 
 Dá nova redação ao parágrafo único do artigo 15, parágrafo 1º do artigo 16 e artigo 17 do Decreto número 40.359, de 16 de novembro de 1956.

@@ -1,5 +1,3 @@
-###DEC-053726-0-000-18-03-1964@@@
-
 DECRETO Nº 53.726, DE 18 DE MARÇO DE 1964.
 
 Autoriza comunidade de serviços entre o Departamento Nacional de Obras de Saneamento e a Fundação Serviço Especial de Saúde Pública relativos a estudos, projetos e construção de serviços de abastecimento de água e esgotos sanitários no País.

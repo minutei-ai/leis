@@ -1,5 +1,3 @@
-###DEC-066375-0-000-24-03-1970@@@
-
 DECRETO Nº 66.375 - DE 24 DE MARÇO DE 1970
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona, situados no Município de Cruzeiro do Sul, no Estado do Acre.

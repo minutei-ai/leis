@@ -1,7 +1,3 @@
-1
-
-###DEC-099373-0-000-04-07-1990@@@
-
 DECRETO N° 99.373, DE 4 DE JULHO DE 1990
 
 Aprova a Estrutura Regimental da Secretaria de Assuntos Estratégicos da Presidência da República.
@@ -375,8 +371,6 @@ Art. 27. O desempenho de funções na Secretaria, constitui:
 a) para o pessoal civil, serviço relevante e título de merecimento para todos os efeitos da vida funcional;
 
 b) para o pessoal militar, comissão militar de serviço relevante.
-
-###DEC-099373-0-000-04-07-1990@@@RET01+++
 
 DECRETO Nº 99.373, DE 4 DE JULHO DE 1990
 

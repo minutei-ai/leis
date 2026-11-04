@@ -1,5 +1,3 @@
-###DEC-082917-0-000-20-12-1978@@@
-
 Decreto nº 82.917, de 20 de dezembro de 1978
 
 Declara a caducidade da autorização de lavra que menciona.

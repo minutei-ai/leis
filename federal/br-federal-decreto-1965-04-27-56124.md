@@ -1,5 +1,3 @@
-###DEC-056124-0-000-27-04-1965@@@
-
 DECRETO Nº 56.124, DE 27 DE ABRIL DE 1965.
 
 Concede à sociedade anônima The Sydney Ross Co. autorização para continuar a funcionar na República.

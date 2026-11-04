@@ -1,5 +1,3 @@
-###DEC-053608-0-000-26-02-1964@@@
-
 DECRETO Nº 53.608, DE 26 DE FEVEREIRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, o trecho Itaueira-Canto do Buriti (entre as estacas 0 a 548 e 548 a 1.903 + 0.86), da Rodovia Vereda Grande Itaueira-Canto do Buriti - São Raimundo Nonato, para construção, no Nordeste, do referido trecho.

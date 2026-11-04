@@ -1,5 +1,3 @@
-###DEC-003288-0-000-15-12-1999@@@
-
 DECRETO Nº 3.288, DE 15 DE DEZEMBRO DE 1999.
 
 Dá nova redação ao art. 65 do Regulamento Disciplinar do Exército (R-4), aprovado pelo Decreto nº 90.608, de 4 de dezembro de 1984.

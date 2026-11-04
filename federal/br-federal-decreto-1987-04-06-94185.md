@@ -1,5 +1,3 @@
-###DEC-094185-0-000-06-04-1987@@@
-
 DECRETO Nº 94.185, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à RÁDIO RELÓGIO FEDERAL LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

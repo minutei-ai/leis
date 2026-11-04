@@ -1,5 +1,3 @@
-###DEC-091303-0-000-03-06-1985@@@
-
 Decreto nº 91.303, de 03 de junho de 1985.
 
 Dispõe sobre a declaração de área de relevante interesse ecológico, em Brasília, Distrito Federal, e dá outras providências.

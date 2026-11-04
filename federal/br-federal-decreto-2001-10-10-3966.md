@@ -1,5 +1,3 @@
-###DEC-003966-0-000-10-10-2001@@@
-
 DECRETO Nº 3.966, DE 10 DE OUTUBRO DE 2001
 
 Delega competência ao Ministro de Estado da Agricultura, Pecuária e Abastecimento para a prática do ato que menciona, e dá outras providências.

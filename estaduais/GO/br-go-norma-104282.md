@@ -64,8 +64,6 @@ Art. 14. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 8 de setembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

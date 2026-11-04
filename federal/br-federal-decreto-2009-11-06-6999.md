@@ -1,5 +1,3 @@
-###DEC-006999-0-000-06-11-2009@@@
-
 DECRETO Nº 6.999, DE 6 DE NOVEMBRO DE 2009.
 
 Altera o parágrafo único do art. 7o do Decreto no 61.589, de 23 de outubro de 1967.

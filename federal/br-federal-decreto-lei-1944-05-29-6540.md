@@ -1,5 +1,3 @@
-###DEL-006540-0-000-29-05-1944@@@
-
 DECRETO-LEI N. 6.540 – DE 29 DE MAIO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 43.000.000,00, para prosseguimento da construção da rodovia Rio-Bahia

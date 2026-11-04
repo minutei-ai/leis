@@ -1,5 +1,3 @@
-###DEC-052301-0-000-24-07-1963@@@
-
 DECRETO Nº 52.301, DE 24 DE JULHO DE 1963.
 
 Convoca a III Conferência Nacional de Saúde.

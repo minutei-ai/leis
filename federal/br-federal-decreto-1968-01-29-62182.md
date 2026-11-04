@@ -1,5 +1,3 @@
-###DEC-062182-0-000-29-01-1968@@@
-
 DECRETO Nº 62.182, DE 29 DE JANEIRO DE 1968.
 
 Declara de utilidade pública o “Colégio Cristo Rei” com sede em Içara, Estado de Santa Catarina.

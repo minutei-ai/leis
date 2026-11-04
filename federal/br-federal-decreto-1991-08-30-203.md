@@ -1,5 +1,3 @@
-###DEC-000203-0-000-30-08-1991@@@
-
 DECRETO Nº 203, DE 30 DE AGOSTO DE 1991
 
 Aprova o Regulamento consolidado da Ordem Nacional do Mérito.

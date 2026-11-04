@@ -1,5 +1,3 @@
-###DEL-001401-0-000-07-05-1975@@@
-
 # DECRETO-LEI Nº 1.401, DE 7 DE MAIO DE 1975
 
 Dispõe sobre a isenção do imposto de renda das sociedades de investimento de cujo capital social participem pessoas físicas ou jurídicas, residentes ou domiciliadas no exterior, regula o regime fiscal dos rendimentos de aplicações em ações dessas sociedades e dá outras providências.
@@ -34,11 +32,35 @@ Art. 4º Os ganhos de capital, auferidos por residentes ou domiciliados no exter
 
 Art. 5º O imposto de renda na fonte, sobre os rendimentos referidos no artigo 2º e no § 1º do artigo 3º, produzidos por investimentos integralmente mantidos no país pelos prazos abaixo, contados da data do respectivo registro do investimento inicial, passará a ser devido, após completado o 6º ano de permanência sem que tenha havido qualquer retorno do investimento, de acordo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Prazo</span><span style="font-style:italic"> </span><span>de permanência</span></p></td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Alíquota</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Acima de 6 e até 7 anos ....................................................................</span></p></td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>12%</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Acima de 7 e até 8 anos ....................................................................</span></p></td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>10%</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Acima de 8 anos ...............................................................................</span></p></td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8%</span></p></td></tr></tbody></table>
+Prazo de permanência
+
+Alíquota
+
+Acima de 6 e até 7 anos ....................................................................
+
+12%
+
+Acima de 7 e até 8 anos ....................................................................
+
+10%
+
+Acima de 8 anos ...............................................................................
+
+8%
 
 Art. 6º O montante dos dividendos ou bonificações em dinheiro, e dos ganhos de capital, líquido do imposto de renda previsto nos artigos anteriores, fica sujeito a imposto suplementar de renda, se, por ocasião de sua efetiva remessa para o exterior, exceder em cada exercício social, a 12% (doze por cento) do valor do investimento inicial em moeda estrangeira registrado em nome do acionista, calculado de acordo com a seguinte tabela.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1. Sobre o que exceder de 12% (doze por cento) e até 15% (quinze por cento) .......</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:right"><span>40%</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2. Sobre o que exceder de 15% (quinze por cento) e até 25% (vinte e cinco por cento)................................................................................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:right"><span>50%</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3. Acima de 25% (vinte e cinco por cento) ...........................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>60%</span></p></td></tr></tbody></table>
+1. Sobre o que exceder de 12% (doze por cento) e até 15% (quinze por cento) .......
+
+40%
+
+2. Sobre o que exceder de 15% (quinze por cento) e até 25% (vinte e cinco por cento)................................................................................................................
+
+50%
+
+3. Acima de 25% (vinte e cinco por cento) ...........................................................
+
+60%
 
 § 1º Em cada exercício, os valores remetidos poderão exceder em até duas vezes o limite previsto neste artigo, sem a incidência do imposto suplementar, desde que o excesso remetido corresponda à diferença a menor entre as remessas efetivadas nos exercícios anteriores e o montante correspondente ao percentual estabelecido no “caput” deste artigo.
 

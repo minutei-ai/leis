@@ -1,6 +1,10 @@
 > **LEI Nº 3.812, DE 22 DE NOVEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Reconhece de Utilidade Pública a Associação Beneficente Coração de Jesus.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Reconhece de Utilidade Pública a Associação Beneficente Coração de Jesus.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

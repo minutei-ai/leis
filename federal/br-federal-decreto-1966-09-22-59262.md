@@ -1,5 +1,3 @@
-###DEC-059262-0-000-22-09-1966@@@
-
 DECRETO Nº 59.262, DE 22 DE SETEMBRO DE 1966.
 
 Altera o Decreto nº 51.666, de 17 de janeiro de 1963, que retificou o Quadro de Pessoal da Universidade Rural de Pernambuco, e dá outras providências.

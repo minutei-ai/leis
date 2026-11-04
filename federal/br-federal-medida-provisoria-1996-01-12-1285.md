@@ -1,7 +1,3 @@
-1
-
-###MPV-001285-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.285, DE 12 DE JANEIRO DE 1996.
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

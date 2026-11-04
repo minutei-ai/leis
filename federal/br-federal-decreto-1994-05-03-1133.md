@@ -1,5 +1,3 @@
-###DEC-001133-0-000-03-05-1994@@@
-
 DECRETO N° 1.133, DE 3 DE MAIO DE 1994
 
 Altera o Decreto n° 92.512, de 7 de abril de 1986, que estabelece normas, condições de atendimento e indenizações para a assistência médico-hospitalar ao militar e seus dependentes.

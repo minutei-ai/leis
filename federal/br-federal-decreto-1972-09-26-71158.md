@@ -1,5 +1,3 @@
-###DEC-071158-0-000-26-09-1972@@@
-
 DECRETO Nº 71.158, DE 26 DE SETEMBRO DE 1972.
 
 Altera os Estatutos da Empresa Pública Banco Nacional de Desenvolvimento Econômico.
@@ -71,8 +69,6 @@ José Flavio Pécora
 João Paulo dos Reis Velloso
 
 Marcus Vinicius Pratini de Moraes
-
-###DEC-071158-0-000-26-09-1972@@@RET01+++
 
 DECRETO Nº 71.158, DE 26 DE SETEMBRO DE 1972
 

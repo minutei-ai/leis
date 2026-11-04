@@ -1,5 +1,3 @@
-###DEC-085903-0-000-14-04-1981@@@
-
 Decreto nº 85.903, dE 14 de aBRIL De 1981.
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República Gabonesa.
@@ -98,4 +96,20 @@ Em caso de denúncia, a situação de que desfrutam os diversos beneficiários s
 
 Feito em Brasília, aos quatorze dias do mês de outubro de 1975, em dois exemplares originais em língua portuguesa e francesa, os dois textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA GABONESA:</span></p></td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Antonio F. Azeredo da Silveira</span></p></td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Paul Okumba d'Okwatsegue</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FEDERATIVA DO BRASIL:
+
+</td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA GABONESA:
+
+</td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Antonio F. Azeredo da Silveira
+
+</td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Paul Okumba d'Okwatsegue
+
+</td></tr></tbody></table>

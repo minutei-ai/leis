@@ -1,5 +1,3 @@
-###DEL-003304-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.304 – DE 22 DE MAIO DE 1941
 
 Dispõe sobre a permuta e transferência de situação dos lotes que menciona, situados na Lagoa Rodrigo de Freitas

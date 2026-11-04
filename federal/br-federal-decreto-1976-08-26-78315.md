@@ -1,5 +1,3 @@
-###DEC-078315-0-000-26-08-1976@@@
-
 Decreto nº 78.315, de 26 de agosto de 1976.
 
 Concede reconhecimento ao curso de Formação de Tecnológos de Processamento de Dados, do Centro de Ciências e Tecnologia, da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

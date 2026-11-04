@@ -239,7 +239,3 @@ DENOMINAÇÃO DO CARGO CÓDIGO SÍMBOLO Nº DE CARGOS 1º Oficial de Aeronave EX
 (Vide art. 2º da Lei nº 16.292, de 27/7/2006.)
 
 (Vide arts. 8 e 9 da Lei Complementar nº 96, de 17/1/2007.)
-
-\=============================
-
-Data da última atualização: 23/7/2025.

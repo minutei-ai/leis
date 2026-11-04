@@ -1,6 +1,10 @@
 > **LEI Nº 3.400, DE 30 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Fórum Estadual de Oportunidade da Aprendizagem Profissional – FEOAP e inclusão de jovem aprendiz e adolescentes no mercado de trabalho.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Fórum Estadual de Oportunidade da Aprendizagem Profissional – FEOAP e inclusão de jovem aprendiz e adolescentes no mercado de trabalho.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

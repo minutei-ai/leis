@@ -1,5 +1,3 @@
-###DEC-055221-0-000-15-12-1964@@@
-
 DECRETO Nº 55.221, DE 15 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Júlio Machado Sales a pesquisar minério de manganês, no município de Canumã, Estado da Amazonas.

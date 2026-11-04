@@ -1,7 +1,3 @@
-1
-
-###DEC-000378-0-000-24-12-1991@@@
-
 DECRETO N° 378, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Trincheira, no Estado do Amazonas.

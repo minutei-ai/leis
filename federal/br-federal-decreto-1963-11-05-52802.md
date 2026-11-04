@@ -1,5 +1,3 @@
-###DEC-052802-0-000-05-11-1963@@@
-
 DECRETO Nº 52.802, DE 5 DE NOVEMBRO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia de Eletrificação Rural do Nordeste (CERNE).

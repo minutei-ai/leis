@@ -1,5 +1,3 @@
-###DEC-075223-0-000-15-01-1975@@@
-
 DECRETO Nº 75.223, DE 15 DE JANEIRO DE 1975.
 
 Altera o Regulamento do Departamento - Geral de Serviços (R-154), do Ministério do Exército e dá outras providências.

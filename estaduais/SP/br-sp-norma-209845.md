@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209845)<br>
-
 # DECRETO N° 68.775, DE 14 DE AGOSTO DE 2024
 
 ### _Transfere os cargos que especifica e dá providências correlatas._
@@ -36,8 +34,204 @@ Gilberto Kassab    
 
 #### ANEXO I
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>CARGO/FUNÇÃO-ATIVIDADE</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>REF.</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>E.V.</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>SQC/SQF-II</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>OCUPANTE</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>RG</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>DO</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>PARA</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQF-II</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Gracy Kelly de Sousa Vada</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">33.503.410-X</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSS</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:9px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QCC</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">3</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Andrea Delmiro Oliveira</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">42.734.637-X</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QCGE</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Executivo Público</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Helen Abul Hiss Franco</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">29.608.509-1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSE</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QPGE</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Maurício Vilalva Júnior</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">27.914.058-7</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSAA</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial de Saúde</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Sandra Elaine Cezar</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">19.369.368-9</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSS</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Rosana Aparecida Mendonça de Oliveira</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">22.113.560-1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSFP</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Jucilene Lima Araujo Teixeira</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">25.705.896-5</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSPM</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSGRI</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr></tbody></table>
+**CARGO/FUNÇÃO-ATIVIDADE**
+
+**REF.**
+
+**E.V.**
+
+**SQC/SQF-II**
+
+**OCUPANTE**
+
+**RG**
+
+**DO**
+
+**PARA**
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQF-II
+
+Gracy Kelly de Sousa Vada
+
+33.503.410-X
+
+QSS
+
+QCC
+
+Oficial Administrativo
+
+3
+
+N.I.
+
+SQC-III
+
+Andrea Delmiro Oliveira
+
+42.734.637-X
+
+QSGGD
+
+QCGE
+
+Executivo Público
+
+1
+
+N.U.
+
+SQC-III
+
+Helen Abul Hiss Franco
+
+29.608.509-1
+
+QSE
+
+QPGE
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Maurício Vilalva Júnior
+
+27.914.058-7
+
+QSGGD
+
+QSAA
+
+Oficial de Saúde
+
+1
+
+N.I.
+
+SQC-III
+
+Sandra Elaine Cezar
+
+19.369.368-9
+
+QSS
+
+QSAP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Rosana Aparecida Mendonça de Oliveira
+
+22.113.560-1
+
+QSGGD
+
+QSFP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Jucilene Lima Araujo Teixeira
+
+25.705.896-5
+
+QSPM
+
+QSGRI
 
 #### ANEXO II
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>CARGO</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>REF.</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>E.V.</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>SQC</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>EX-OCUPANTE</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>RG</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>MOTIVO DA VACÂNCIA</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>DO</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:3px;text-align:center;"><span style="color:rgb(0,0,0)!important;"><strong>PARA</strong></span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Executivo Público</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Luciana Haber Crespin</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">11.623.942-6</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Exoneração</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QPGE</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSE</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Adriana Casella</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">9.596.865-9</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Aposentadoria</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSAA</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">1</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Margarida Ferreira Mizzin</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">12.960.055</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">Aposentadoria</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSFP</span></p><p style="margin-left:0px;">&nbsp;</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;text-align:center;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p><p style="margin-left:0px;">&nbsp;</p></td></tr></tbody></table>
+**CARGO**
+
+**REF.**
+
+**E.V.**
+
+**SQC**
+
+**EX-OCUPANTE**
+
+**RG**
+
+**MOTIVO DA VACÂNCIA**
+
+**DO**
+
+**PARA**
+
+Executivo Público
+
+1
+
+N.U.
+
+SQC-III
+
+Luciana Haber Crespin
+
+11.623.942-6
+
+Exoneração
+
+QPGE
+
+QSE
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Adriana Casella
+
+9.596.865-9
+
+Aposentadoria
+
+QSAA
+
+QSGGD
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Margarida Ferreira Mizzin
+
+12.960.055
+
+Aposentadoria
+
+QSFP
+
+QSGGD

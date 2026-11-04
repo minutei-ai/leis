@@ -82,32 +82,21 @@ PL-APE-1                               R$ 1.736,34
 
 **ANEXO VI**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:42.55pt;border-collapse:collapse;border:none"><tbody><tr><td width="404" valign="top" style="width:303.05pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Gratificação de que trata a <span style="color:blue"><a href="https://legis.alepe.pe.gov.br/?lo123222003">Lei nº 12.322, de 6 de janeiro 2003</a></span></span></p></td><td width="158" valign="top" style="width:118.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 1.041,80</span></p></td></tr><tr><td width="404" valign="top" style="width:303.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Gratificações de que tratam os arts. 2º e 3º da <span style="color:blue"><a href="https://legis.alepe.pe.gov.br/?lo133282007">Lei nº 13.328, de 26 de outubro de 2007</a></span></span></p></td><td width="158" valign="top" style="width:118.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 1.322,93</span></p><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></b></p></td></tr><tr><td width="404" valign="top" style="width:303.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Gratificação de que trata o art. 2º da <span style="color:blue"><a href="https://legis.alepe.pe.gov.br/?lo133642007">Lei nº 13.364, de 14 de dezembro de 2007</a></span></span></p></td><td width="158" valign="top" style="width:118.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 4.167,19</span></p></td></tr><tr><td width="404" valign="top" style="width:303.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Gratificação de que trata o art. 2º da <span style="color:blue"><a href="https://legis.alepe.pe.gov.br/?lo166152019">Lei nº 16.615, de 9 de julho de 2019</a></span>.</span></p></td><td width="158" valign="top" style="width:118.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="right" style="margin-top:0cm;margin-right:42.45pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:right;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$ 3.648,41</span></p></td></tr></tbody></table>
+Gratificação de que trata a [Lei nº 12.322, de 6 de janeiro 2003](https://legis.alepe.pe.gov.br/?lo123222003)
+
+R$ 1.041,80
+
+Gratificações de que tratam os arts. 2º e 3º da [Lei nº 13.328, de 26 de outubro de 2007](https://legis.alepe.pe.gov.br/?lo133282007)
+
+R$ 1.322,93
+
+Gratificação de que trata o art. 2º da [Lei nº 13.364, de 14 de dezembro de 2007](https://legis.alepe.pe.gov.br/?lo133642007)
+
+R$ 4.167,19
+
+Gratificação de que trata o art. 2º da [Lei nº 16.615, de 9 de julho de 2019](https://legis.alepe.pe.gov.br/?lo166152019).
+
+R$ 3.648,41
 
 ”(NR)
 

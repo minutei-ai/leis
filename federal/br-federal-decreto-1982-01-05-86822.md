@@ -1,5 +1,3 @@
-###DEC-086822-0-000-05-01-1982@@@
-
 DECRETO Nº 86.822, DE 05 DE JANEIRO DE 1982.
 
 Altera o Decreto nº 85.837, de 24 de março de 1981, que determina os Cargos Privativos de Oficial-General do Exército em tempo de paz.

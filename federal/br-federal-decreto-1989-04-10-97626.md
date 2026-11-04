@@ -1,5 +1,3 @@
-###DEC-097626-0-000-10-04-1989@@@
-
 DECRETO N° 97.626, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre a realização de estudos sobre o controle da produção, Comércio e uso de técnicas, métodos e substâncias químicas que comportem risco para a vida, e dá outras providências.

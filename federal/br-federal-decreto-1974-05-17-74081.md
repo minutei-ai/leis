@@ -1,5 +1,3 @@
-###DEC-074081-0-000-17-05-1974@@@
-
 DECRETO Nº 74.081, DE 17 DE MAIO DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Fazenda, e dá outras providências.

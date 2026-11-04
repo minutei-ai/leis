@@ -1,5 +1,3 @@
-###DEC-054978-0-000-12-11-1964@@@
-
 DECRETO Nº 54.978, DE 12 DE NOVEMBRO DE 1964.
 
 Autoriza Sebastião Hugo Teixeira a comprar pedras preciosas.

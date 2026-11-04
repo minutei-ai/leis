@@ -1,5 +1,3 @@
-###DEC-094303-0-000-01-05-1987@@@
-
 DECRETO Nº 94.303, DE 1º DE MAIO DE 1987.
 
 Dispõe sobre a composição do Conselho Monetário Nacional - CMN, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002676-0-000-16-07-1998@@@
-
 DECRETO Nº 2.676, DE 16 DE JULHO DE 1998
 
 Dá nova redação ao art. 68 do Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas.

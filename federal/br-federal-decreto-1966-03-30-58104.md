@@ -1,5 +1,3 @@
-###DEC-058104-0-000-30-03-1966@@@
-
 DECRETO Nº 58.104, DE 30 DE MARÇO DE 1966.
 
 Autoriza a cidadã brasileira, Maria Januária Borges a pesquisar minério de manganês, apatita, baritina e vermiculita, no município de Tapira, Estado de Minas Gerais.

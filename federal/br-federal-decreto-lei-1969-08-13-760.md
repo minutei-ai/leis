@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/314c09ed-89cc-4f70-a867-06e49f0eacc9/texto#nowhere)
 
-###DEL-000760-0-000-13-08-1969@@@
-
 DECRETO-LEI Nº 760, DE 13 DE AGÔSTO DE 1969
 
 Dá nova redação aos artigos 5º e 8º do Decreto-lei nº 359, de 17 de dezembro de 1968.

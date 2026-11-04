@@ -1,5 +1,3 @@
-###DEC-050025-0-000-24-01-1961@@@
-
 DECRETO Nº  50.025, DE 24 DE Janeiro DE 1961.
 
 Renova o Decreto nº 44.092, de 24 de julho de 1958.

@@ -1,5 +1,3 @@
-###DEC-003917-0-000-13-09-2001@@@
-
 DECRETO Nº 3.917, DE 13 DE SETEMBRO DE 2001
 
  Estabelece os limites sobre o que dispõe o art. 20, inciso I, alínea "c", da Lei Complementar nº 101, de 4 de maio de 2000, para o Ministério Público e o Tribunal de Justiça do Distrito Federal e dos Territórios, os ex-Territórios do Amapá e de Roraima e, ainda, o Distrito Federal.

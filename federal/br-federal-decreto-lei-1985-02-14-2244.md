@@ -1,5 +1,3 @@
-###DEL-002244-0-000-14-02-1985@@@
-
 # Decreto-lei nº 2.244, de 14 de fevereiro de 1985
 
 Restabelece a carreira de Procurador do Distrito Federal e fixa os respectivos vencimentos básicos.

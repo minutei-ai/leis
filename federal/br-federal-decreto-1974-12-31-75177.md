@@ -1,5 +1,3 @@
-###DEC-075177-0-000-31-12-1974@@@
-
 DECRETO Nº 75.177, de 31 de dezembro de 1974.
 
 Concede à SARIPAL - Mineração Santa Rita do Paraíso Ltda. o direito de lavrar feldspato e caulim no Município de Cachoeiras do Macacu, Estado do Rio de Janeiro.

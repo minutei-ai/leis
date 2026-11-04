@@ -1,5 +1,3 @@
-###DEC-053776-0-000-20-03-1964@@@
-
 DECRETO Nº 53.776, DE 20 DE MARÇO DE 1964.
 
 Altera temporàriamente, até 31 de dezembro de 1966, o art. 16 inciso V do Capítulo IV do Regulamento para as Escolas de Marinha Mercante, aprovado pelo Decreto nº 1.424, de 28 de setembro de 1962.

@@ -1,5 +1,3 @@
-###DEC-047833-0-000-04-03-1960@@@
-
 DECRETO Nº 47.833, DE 4 DE MARÇO DE 1960.
 
 Altera o “Regulamento para as Bandas de Música e Bandas Marciais da Aeronáutica.
@@ -31,8 +29,6 @@ Rio de Janeiro, em 4 de março de 1960; 139º da Independência e 72º da Repúb
 Juscelino kubitschek
 
 Francisco de Mello
-
-###DEC-047833-0-000-04-03-1960@@@RET01+++
 
 DECRETO Nº 47.833, DE 4 DE MARÇO DE 1960
 

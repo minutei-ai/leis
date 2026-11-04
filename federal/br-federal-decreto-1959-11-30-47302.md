@@ -1,5 +1,3 @@
-###DEC-047302-0-000-30-11-1959@@@
-
 DECRETO Nº 47.302, DE 30 DE NOVEMBRO DE 1959.
 
 Autoriza a liberação de crédito contido no Plano de Economia.

@@ -1,5 +1,3 @@
-###DEC-005791-0-000-29-05-2006@@@
-
 DECRETO Nº 5.791, DE 29 DE MAIO DE 2006.
 
 Dá nova redação ao caput do art. 39 do Decreto nº 4.034, de 26 de novembro de 2001, que dispõe sobre as promoções de praças da Marinha.

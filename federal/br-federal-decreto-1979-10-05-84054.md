@@ -1,5 +1,3 @@
-###DEC-084054-0-000-05-10-1979@@@
-
 Decreto nº 84.054, de 05 de outubro de 1979.
 
 Altera o Decreto nº 13.181, de 11 de março de 1974, que estabelece as normas, condições de atendimento e indenizações para a assistência médico-hospitalar ao militar e seus dependentes.

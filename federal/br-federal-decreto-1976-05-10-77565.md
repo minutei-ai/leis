@@ -1,5 +1,3 @@
-###DEC-077565-0-000-10-05-1976@@@
-
 DECRETO Nº 77.565, DE 10 DE MAIO DE 1976
 
 Dispõe sobre a liberação e aplicação dos recursos do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios, do Fundo de Participação dos Municípios e dá outras providências.

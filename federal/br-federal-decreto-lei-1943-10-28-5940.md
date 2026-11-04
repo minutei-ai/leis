@@ -1,5 +1,3 @@
-###DEL-005940-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.940 – DE 28 DE OUTUBRO DE 1943
 
 Dispõe sobre o regime de exportação de que trata o decreto‑lei n. 5.807, de 13 de setembro de 1943

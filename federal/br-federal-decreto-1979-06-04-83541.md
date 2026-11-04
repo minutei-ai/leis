@@ -1,5 +1,3 @@
-###DEC-083541-0-000-04-06-1979@@@
-
 Decreto nº 83.541, de 04 de junho de 1979.
 
 Declara sem efeito a interdição da área a que se refere o Decreto nº 71.904, de 14 de março de 1973, situada no Município de Chapada dos Guimarães, Estado de Mato Grosso, e dá outras providências.

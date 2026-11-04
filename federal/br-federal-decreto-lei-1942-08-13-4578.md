@@ -1,5 +1,3 @@
-###DEL-004578-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.578 – DE 13 DE AGOSTO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de réis 2.015:370$0, para pagamento de materiais fornecidos no Departamento dos Correios e Telégrafos.

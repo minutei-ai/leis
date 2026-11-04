@@ -1,5 +1,3 @@
-###DEC-085614-0-000-05-01-1981@@@
-
 Decreto nº 85.614, de 05 de janeiro de 1981
 
 Autoriza o aumento de potência da RÁDIO DIFUSORA DE CASA BRANCA LTDA., na cidade de Casa Branca, Estado de São Paulo.

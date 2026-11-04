@@ -1,5 +1,3 @@
-###DEL-004644-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.644 – DE 2 DE SETEMBRO DE 1942
 
 Altera a redação do artigo 1º do decreto-lei nº 4.548, de 4 de agosto de 1942

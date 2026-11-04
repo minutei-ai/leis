@@ -1,7 +1,3 @@
-1
-
-###DEC-000536-0-000-20-05-1992@@@
-
 DECRETO Nº 536, DE 20 DE MAIO DE 1992
 
 Cria a Reserva Extrativista do Quilombo Flexal.

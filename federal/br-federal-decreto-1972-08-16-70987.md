@@ -1,5 +1,3 @@
-###DEC-070987-0-000-16-08-1972@@@
-
 DECRETO Nº 70.987, DE 16 DE AGOSTO DE 1972.
 
 Concede à IBACIP - Indústria Barbalhense de Cimento Portland S.A., o direito de lavrar calcário no município de Barbalha, Estado do Ceará.

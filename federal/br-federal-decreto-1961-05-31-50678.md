@@ -1,5 +1,3 @@
-###DEC-050678-0-000-31-05-1961@@@
-
 DECRETO Nº 50.678, DE 31 DE MAIO DE 1961.
 
 Altera o Art. 2º do Decreto nº 50.516, de 26 de abril de 1961.

@@ -1,5 +1,3 @@
-###DEC-086071-0-000-04-06-1981@@@
-
 Decreto nº 86.071, de 04 de junho de 1981.
 
 Extingue o Parque Nacional de Sete Quedas, criado pelo Decreto nº 50.665, de 30 de maio de 1961, e dá outras providências.

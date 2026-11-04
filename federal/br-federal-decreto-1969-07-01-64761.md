@@ -1,5 +1,3 @@
-###DEC-064761-0-000-01-07-1969@@@
-
 DECRETO Nº 64.761 - DE 1º DE JULHO DE 1969.
 
 Inclui cargos de Vice-Chefes na estrutura de Departamentos do Ministério do Exército, determina sejam êsses cargos privativos do pôsto de General-de-Divisão e dá outras providências.

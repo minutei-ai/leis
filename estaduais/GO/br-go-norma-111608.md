@@ -28,7 +28,8 @@ II – das [Leis nº 19.100](https://legisla.casacivil.go.gov.br/pesquisa_legisl
 
 III – de quaisquer outras concessões e modalidades de descontos já ofertadas pelo PROCON-GOIÁS.
 
-§ 3º O prazo para a adesão ao QUITA PROCON-GOIÁS será de cento e cinquenta dias contados da publicação desta Lei.<br>
+§ 3º O prazo para a adesão ao QUITA PROCON-GOIÁS será de cento e cinquenta dias contados da publicação desta Lei.
+
 \- [Redação dada pela Lei nº 24.147, de 18-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113599).
 
 ~~§ 3º O prazo para a adesão ao QUITA PROCON-GOIÁS será de noventa dias contados da publicação desta Lei.~~
@@ -77,7 +78,8 @@ Art. 7º Após a assinatura do Termo de Adesão, o sujeito passivo que não efet
 
 Art. 8º O QUITA PROCON-GOIÁS será coordenado e executado pela Secretaria de Estado da Segurança Pública e pelo PROCON-GOIÁS, e os seus titulares ficam autorizados a baixarem os atos necessários à sua plena execução.
 
-Art. 9º Esta Lei entra em vigor na data de sua publicação e terá a vigência de cento e cinquenta dias, destinados à adesão ao programa.<br>
+Art. 9º Esta Lei entra em vigor na data de sua publicação e terá a vigência de cento e cinquenta dias, destinados à adesão ao programa.
+
  - [Redação dada pela Lei nº 24.147, de 18-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113599).
 
 ~~Art. 9º Esta Lei entra em vigor na data de sua publicação e terá a vigência de noventa dias, destinados à adesão ao programa.~~
@@ -86,5 +88,6 @@ Goiânia, 19 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

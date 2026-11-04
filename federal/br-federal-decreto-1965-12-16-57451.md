@@ -1,5 +1,3 @@
-###DEC-057451-0-000-16-12-1965@@@
-
 DECRETO Nº 57.451, DE 16 DE DEZEMBRO DE 1965.
 
 Retifica o art. 1º do Decreto número 55.531, de 11 de janeiro de 1965.

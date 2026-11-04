@@ -1,6 +1,7 @@
 LEI Nº 1.028 DE 14 DE AGOSTO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.091](https://www.legislabahia.ba.gov.br/documentos/lei-no-14091-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro, de 2011, os limites dos municípios de Candeias, Itaparica, Madre de Deus, Salinas da Margarida, Simões Filho e Vera Cruz.
 
 Cria o município de Candeias, desmembrado do de Salvador.
@@ -59,4 +60,4 @@ Nelson Martins de Almeida
 
 Josaphat Carlos Borges
 
-* * *
+ *

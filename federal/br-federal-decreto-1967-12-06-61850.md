@@ -1,5 +1,3 @@
-###DEC-061850-0-000-06-12-1967@@@
-
 DECRETO Nº 61.850, DE 6 DE DEZEMBRO DE 1967.
 
 Cria Grupo de Trabalho para estudar o processo de execução da Lei número 5.364, de 1º de dezembro de 1967, e dá outras providências.

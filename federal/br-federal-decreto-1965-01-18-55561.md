@@ -1,5 +1,3 @@
-###DEC-055561-0-000-18-01-1965@@@
-
 DECRETO Nº 55.561, de 18 de janeiro de 1965.
 
 Abre ao Poder Judiciário e Supremo Tribunal Federal - o crédito especial de Cr$25.000.000,00 (vinte e cinco milhões de cruzeiros) para o fim que especifica.

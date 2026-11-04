@@ -1,7 +1,3 @@
-1
-
-###DEC-095637-0-000-13-01-1988@@@
-
 DECRETO N° 95.637, DE 13 DE JANEIRO DE 1988
 
 Cria a Secretaria de inteligência da Aeronáutica.

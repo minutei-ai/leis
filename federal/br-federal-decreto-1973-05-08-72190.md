@@ -1,5 +1,3 @@
-###DEC-072190-0-000-08-05-1973@@@
-
 DECRETO Nº 72.190, DE 8 DE MAIO DE 1973.
 
 Atualiza os valores das multas previstas no Decreto-lei nº 538, de 7 de julho de 1938, e no Decreto nº 4.071, de 12 de maio de 1939.

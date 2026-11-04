@@ -1,5 +1,3 @@
-###DEC-070072-0-000-28-01-1972@@@
-
 DECRETO Nº 70.072, DE 28 DE JANEIRO DE 1972.
 
 Concede à Cerâmica Togni S.A. o direito de lavrar argila no município de Poços de Caldas, Estado de Minas Gerais.

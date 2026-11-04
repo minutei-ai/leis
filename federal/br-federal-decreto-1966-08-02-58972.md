@@ -1,5 +1,3 @@
-###DEC-058972-0-000-02-08-1966@@@
-
 decreto nº 58.972, de 2 de agôsto de 1966.
 
 Concede à Companhia de Navegação Santos - NASA - autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

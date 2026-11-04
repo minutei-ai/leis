@@ -1,5 +1,3 @@
-###DEC-058025-0-000-21-03-1966@@@
-
 DECRETO Nº 58.025, DE 21 DE MARÇO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “COSTA, HERCULANO S/A - INDÚSTRIA E COMÉRCIO”, de Garanhuns, Estado de Pernambuco”.
@@ -14,7 +12,31 @@ decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à empresa “COSTA, HERCULANO S/A - INDÚSTRIA E COMÉRCIO”, de Garanhuns, Estado de Pernambuco:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item Especificação</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>453 (quatrocentos e cinqüenta e três) tubos e acessórios de sucção do coletor de resíduo, sistema Augusta, pesando 172 quilos, com a seguinte discriminação: 150 (cento e cinqüenta) tubos de secção especial à puas; 150 (cento e cinqüenta) luvas flexíveis; 150 (cento e cinqüenta) dispositivos de suspensão central; 3 (três) reparos para montagem ............................................................................................</span></p></td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>453</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.321,60</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Item Especificação
+
+</td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Quantidade a ser importada
+
+</td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Valor Total CIF US$
+
+</td></tr><tr><td style="width:308.35pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+453 (quatrocentos e cinqüenta e três) tubos e acessórios de sucção do coletor de resíduo, sistema Augusta, pesando 172 quilos, com a seguinte discriminação: 150 (cento e cinqüenta) tubos de secção especial à puas; 150 (cento e cinqüenta) luvas flexíveis; 150 (cento e cinqüenta) dispositivos de suspensão central; 3 (três) reparos para montagem ............................................................................................
+
+</td><td style="width:56.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+453
+
+</td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+1.321,60
+
+</td></tr></tbody></table>
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
@@ -25,8 +47,6 @@ h. castello branco
 Octávio Bulhões
 
 Oswaldo Cordeiro de Farias
-
-###DEC-058025-0-000-21-03-1966@@@RET01+++
 
 DECRETO Nº 58.025, DE 21 DE MARÇO DE 1966.
 

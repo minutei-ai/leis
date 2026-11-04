@@ -1,7 +1,3 @@
-1
-
-###MPV-001351-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.351, DE 12 DE MARÇO DE 1996.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

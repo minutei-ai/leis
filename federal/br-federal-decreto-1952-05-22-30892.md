@@ -1,30 +1,28 @@
-###DEC-030892-0-000-22-05-1952@@@
+**DECRETO Nº 30.892, DE 22 DE MAIO DE 1952.**
 
-<strong>DECRETO Nº 30.892, DE 22 DE MAIO DE 1952.</strong>
+***Aprova o Regimento da Colônia Agrícola do Distrito Federal.***
 
-<em><strong>Aprova o Regimento da Colônia Agrícola do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Colônia Agrícola do Distrito Federal, que, assinado pelo Ministro de Estado da Justiça e Negócios Interiores, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Colônia Agrícola do Distrito Federal, que, assinado pelo Ministro de Estado da Justiça e Negócios Interiores, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 22 de maio de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima
 
-<strong>REGIMENTO DA COLÔNIA AGRÍCOLA DO DISTRITO FEDERAL</strong>
+**REGIMENTO DA COLÔNIA AGRÍCOLA DO DISTRITO FEDERAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Colônia Agrícola do Distrito Federal (C.A.D.F) órgão integrante do Ministério da Justiça e Negócios Interiores diretamente subordinado ao Ministério de Estado, tem por finalidade recolher:
+**Art**. 1º A Colônia Agrícola do Distrito Federal (C.A.D.F) órgão integrante do Ministério da Justiça e Negócios Interiores diretamente subordinado ao Ministério de Estado, tem por finalidade recolher:
 
 a) os condenados à pena de prisão simples, enquanto não existir estabelecimento adequado;
 
@@ -36,17 +34,17 @@ d) provisoriamente, os reclusos e detentos transferidos da Penitenciária Centra
 
 e) mediante transferência e observadas as disposições legais e regulamentares, presos condenados por justiça estadual.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A C.A.D.F. constitui-se dos seguintes órgãos:
+**Art**. 2º A C.A.D.F. constitui-se dos seguintes órgãos:
 
 \- Serviço Penitenciário (S.P)
 
 \- Serviço de Administração (S.A)
 
-<strong>Art</strong>. 3º Os Serviços subdividem-se em Seções e estas em turmas.
+**Art**. 3º Os Serviços subdividem-se em Seções e estas em turmas.
 
 Parágrafo único. Integram, ainda, o S.A. os seguintes órgãos:
 
@@ -56,25 +54,25 @@ b) Estação Radiotelegráfica (E.R)
 
 c) Usina Hidrelétrica (U.H)
 
-<strong>Art</strong>. 4º Os Chefes de Serviços serão designados pelo Ministro de Estado, mediante proposta do Diretor da C.A.D.F.
+**Art**. 4º Os Chefes de Serviços serão designados pelo Ministro de Estado, mediante proposta do Diretor da C.A.D.F.
 
-<strong>Art</strong>. 5º As Seções terão chefes, designados pelo Diretor, por proposta dos Chefes de Serviço.
+**Art**. 5º As Seções terão chefes, designados pelo Diretor, por proposta dos Chefes de Serviço.
 
-<strong>Art</strong>. 6º O Diretor terá um secretário escolhido dentre os servidores do Ministério.
+**Art**. 6º O Diretor terá um secretário escolhido dentre os servidores do Ministério.
 
-<strong>Art</strong>. 7º Os órgãos que integram a C.A.D.F. funcionarão coordenadamente, em regime de colaboração, sob a orientação do Diretor.
+**Art**. 7º Os órgãos que integram a C.A.D.F. funcionarão coordenadamente, em regime de colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Serviço Penitenciário</em>
+*Do Serviço Penitenciário*
 
-<strong>Art</strong>. 8º Ao S.P., órgão de administração específica, compete o desempenho das atividades relativas à execução do regime penitenciário.
+**Art**. 8º Ao S.P., órgão de administração específica, compete o desempenho das atividades relativas à execução do regime penitenciário.
 
-<strong>Art</strong>. 9º O S.P. compreende:
+**Art**. 9º O S.P. compreende:
 
 \- Seção de Assistência e Cadastro (S.A.C)
 
@@ -84,7 +82,7 @@ c) Usina Hidrelétrica (U.H)
 
 \- Seção de Saúde (S.S.)
 
-<strong>Art</strong>. 10. À S.A.C compete:
+**Art**. 10. À S.A.C compete:
 
 I - prestar assistência judiciária aos prêsos, quer examinando-lhes a situação em face de direitos e benefícios legais, quer redigindo e encaminhando as petições relativa à êsses direitos;
 
@@ -126,7 +124,7 @@ XIX - observar as instruções expedidas e atender às providências determinada
 
 XX - comunicar, diariamente, a S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>Art</strong>. 11. Compete à S.V.:
+**Art**. 11. Compete à S.V.:
 
 I - receber os prêsos no momento em que cheguem à C.A.D.F.;
 
@@ -152,7 +150,7 @@ XI - zelar pela higiene pessoal dos prêsos, atendendo às recomendações da Se
 
 XII - comunicar, diariamente, à S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>Art</strong>. 12. Compete à S.R.:
+**Art**. 12. Compete à S.R.:
 
 I - propôs à chefia de S.P. a distribuição dos prêsos pelos diferentes setores da C.A.D.F., atendendo às prescrições do regime penitenciário;
 
@@ -194,7 +192,7 @@ XIX - comunicar, diariamente, à S.A. as ocorrências que devam ser incluídas n
 
 XX - controlar a frequência diária dos prêsos nos diversos trabalhos e remetê-las à S.A.C.
 
-<strong>Art</strong>. 13 - Compete à S.S.:
+**Art**. 13 - Compete à S.S.:
 
 I - proceder ao exame médico e odontológica dos prêsos recolhidos à C.A.D.F.;
 
@@ -236,11 +234,11 @@ XIX - zelar pela salubridade da C.A.D.F.;
 
 XX - comunicar, diariamente, à S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
 Parágrafo único. O S.A. funcionará articulado com o Departamento de Administração (D.A) do M.J.N.I. observando as normas e métodos de trabalho prescritos pelo mesmo.
 
-<strong>Art</strong>. 15. O S.A. compreende:
+**Art**. 15. O S.A. compreende:
 
 Seção de Administração (S.Ad.)
 
@@ -248,7 +246,7 @@ Seção de Economia Interna (S.E.I.)
 
 Almoxarifado (A.)
 
-<strong>Art</strong>. 16. Compete à S.Ad.:
+**Art**. 16. Compete à S.Ad.:
 
 I - De modo geral, executar as providências necessárias ao cumprimento das atribuições relativas à administração de pessoal, material, orçamento e comunicações; e
 
@@ -288,7 +286,7 @@ q) Superintender os serviços de telefonia e radiotelegrafia da C.A.D.F.;
 
 r) Organizar e distribuir, diariamente, o Boletim de Serviço.
 
-<strong>Art</strong>. 17. Compete ao A.:
+**Art**. 17. Compete ao A.:
 
 I - conferir, receber, escriturar e conservar o material requisitado pela C.A.D.F. e a ela fornecida;
 
@@ -298,9 +296,9 @@ III - atender aos pedidos de material formulados pelos diversos órgãos da Col�
 
 IV - encaminhar diariamente à S.A. um boletim do movimento do material.
 
-<strong>Art</strong>. 18. Compete à S.E.I., a execução dos serviços de cozinha, refeitório, rouparia, lavanderia, limpeza, reparos, jardinagem, transportes e cantina dos presos da C.A.D.F.
+**Art**. 18. Compete à S.E.I., a execução dos serviços de cozinha, refeitório, rouparia, lavanderia, limpeza, reparos, jardinagem, transportes e cantina dos presos da C.A.D.F.
 
-<strong>Art</strong>. 19. A S.E.I. compreende:
+**Art**. 19. A S.E.I. compreende:
 
 \- Turma de Alimentação (T.A.)
 
@@ -316,7 +314,7 @@ IV - encaminhar diariamente à S.A. um boletim do movimento do material.
 
 \-.Turma de Barbearia e Cantina (T.B.S.)
 
-<strong>Art</strong>. 20 À T.A., que compreende a Dispensa, e Cozinha e a Padaria, compete:
+**Art**. 20 À T.A., que compreende a Dispensa, e Cozinha e a Padaria, compete:
 
 I - por intermédio da Dispensa:
 
@@ -342,9 +340,9 @@ b) zelar pela segurança e perfeito funcionamento das instalações e comunicar 
 
 c) manter em estado de perfeito asseio a padaria, suas instalações, pertences e utensílios.
 
-<strong>Art</strong>. 21. Compete à T.S.R. distribuir as refeições, manter em estado de perfeito asseio a copa, o refeitório, as suas instalações e todo o material de uso e recolher as sobras das refeições, para aplicação na ração dos animais da C.A.D.F.
+**Art**. 21. Compete à T.S.R. distribuir as refeições, manter em estado de perfeito asseio a copa, o refeitório, as suas instalações e todo o material de uso e recolher as sobras das refeições, para aplicação na ração dos animais da C.A.D.F.
 
-<strong>Art</strong>. 22. Compete à T.R.I.:
+**Art**. 22. Compete à T.R.I.:
 
 I - guarda as roupas de propriedades pessoal dos presos;
 
@@ -358,11 +356,11 @@ V - marcar e numerar tôda a roupa;
 
 VI - previdência a fim de que se encaminhe à S.A., para a devida baixa, a roupa inutilizada.
 
-<strong>Art</strong>. 23. Compete à T.L. executar os serviços de asseio e higienização em tôdas as dependências da C.A.D.F., exceto na dispensa, cozinha, padaria, copa, refeitório e residências de servidores.
+**Art**. 23. Compete à T.L. executar os serviços de asseio e higienização em tôdas as dependências da C.A.D.F., exceto na dispensa, cozinha, padaria, copa, refeitório e residências de servidores.
 
-<strong>Art</strong>. 24. Compete à T.J. os serviços de jardinagem na A.C.D.F., excluídas as residências de servidores.
+**Art**. 24. Compete à T.J. os serviços de jardinagem na A.C.D.F., excluídas as residências de servidores.
 
-<strong>Art</strong>. 25. Compete à T.T.:
+**Art**. 25. Compete à T.T.:
 
 I - guardar, consertar e reparar os veículos marítimos e terrestre da C.A.D.F.;
 
@@ -374,17 +372,17 @@ IV - controlar a entrada e saída dos veículos e respectivos condutores;
 
 V - iniciar-se, com antecedência, das necessidades de transportes, a fim de planejar a execução do serviço diário de maneira que seja obtida o máximo rendimento do material e do pessoal.
 
-<strong>Art</strong>. 26. Compete à T.B.C.:
+**Art**. 26. Compete à T.B.C.:
 
 I - cortar o cabelo dos presos e barbeá-los, de acôrdo com a escala estabelecida pela S.V.;
 
 II - manter pequeno estoque de objetos de toucador, cigarros e artigos semelhantes, a fim de vendê-los aos presos pelo prêço do custo.
 
-<strong>CAPÍTULOS IV</strong>
+**CAPÍTULOS IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 27. Ao Diretor incumbe:
+**Art**. 27. Ao Diretor incumbe:
 
 I - despachar com o Ministério de Estado;
 
@@ -476,7 +474,7 @@ XLIV - distribuir os imóveis destinados a residência, considerando a situaçã
 
 XLV - prestar ao engenheiro residente a colaboração indispensável, em especial no que disser respeito a pessoal e material para obras.
 
-<strong>Art</strong>. 28. Compete aos Chefes de Serviço:
+**Art**. 28. Compete aos Chefes de Serviço:
 
 I - despachar com o Diretor;
 
@@ -508,7 +506,7 @@ XIV - acompanhar o cumprimento dos programas anuais de trabalho, por meio de rel
 
 XV - designar os substitutos dos Chefes de Seção, de acôrdo com a indicação dêstes.
 
-<strong>Art</strong>. 29. Ao Chefe do S.P. incumbe ainda:
+**Art**. 29. Ao Chefe do S.P. incumbe ainda:
 
 I - assistir ao desembarque dos sentenciados e ao exame de sua documentação, e propor imediatamente ao Diretor as providências que lhe parecerem cabíveis quanto aos que não a tiverem completa;
 
@@ -522,7 +520,7 @@ V - promover e orientar a realização de estudos e pesquisas de natureza técni
 
 VI - providenciar para que a todos os presos, desde que o permitam as suas condições de saúde se atribuam atividades produtivas, regulamente, observadas, tanto quanto possível, as habilitações profissionais.
 
-<strong>Art</strong>. 30. Aos Chefes de Seção incumbe:
+**Art**. 30. Aos Chefes de Seção incumbe:
 
 I - dirigir Seção respectiva;
 
@@ -552,9 +550,9 @@ XIII - comunicar, imediatamente, por escrito, ao Chefe da S.E. qualquer ocorrên
 
 XIV - fazer apresentar à S.V., no término dos turnos de trabalhos, os presos em serviços.
 
-<strong>Art</strong>. 31. Ao Chefe da S.S. compete, ainda, remeter, diariamente, ao Diretor, por intermédio do Chefe do S.P. o boletim do movimento do dia anterior.
+**Art**. 31. Ao Chefe da S.S. compete, ainda, remeter, diariamente, ao Diretor, por intermédio do Chefe do S.P. o boletim do movimento do dia anterior.
 
-<strong>Art</strong>. 32. Ao Chefe da S.R. compete ainda:
+**Art**. 32. Ao Chefe da S.R. compete ainda:
 
 I - designar, para cada auxiliar de ensino, a classe que deve reger;
 
@@ -562,9 +560,9 @@ II - designar os auxiliares de ensino para fazer preleções e determinar os tem
 
 III - superintender e fiscalizar os trabalhos das classes e orientar os auxiliares de ensino.
 
-<strong>Art</strong>. 33. Ao Chefe da S.E.I. compete, ainda, comunicar, diariamente, à S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
+**Art**. 33. Ao Chefe da S.E.I. compete, ainda, comunicar, diariamente, à S.A. as ocorrências que devam ser incluídas no Boletim de Serviço.
 
-<strong>Art</strong>. 34. Ao Secretário do Diretor incumbe:
+**Art**. 34. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto por tratar;
 
@@ -572,29 +570,29 @@ II - representar o Diretor, quando para isso fôr designado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 35. Aos demais servidores incumbe realizar os trabalhos que lhe forem determinados pelos seus superiores imediatos.
+**Art**. 35. Aos demais servidores incumbe realizar os trabalhos que lhe forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 36. A C.A.D.F. terá a lotação que fôr aprovada em decreto.
+**Art**. 36. A C.A.D.F. terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além de funcionários, a C.A.D.F. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 37. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 37. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 38. O Diretor organizará as escalas de plantões do pessoal, observado disposto no artigo anterior.
+**Art**. 38. O Diretor organizará as escalas de plantões do pessoal, observado disposto no artigo anterior.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 39. Serão substituídos, automaticamente, em suas faltas e impedimentos até 30 dias:
+**Art**. 39. Serão substituídos, automaticamente, em suas faltas e impedimentos até 30 dias:
 
 I - o Diretor, pelo Chefe de S.P. e na falta dêste, pelo Chefe do S.A.;
 
@@ -606,9 +604,9 @@ IV - os Chefes da Seção pelos servidores previamente designados para seus subs
 
 DISPOSIÇÕES GERAIS
 
-<strong>Art</strong>. 40. Os guardas subordinam-se ao Chefe da Seção em que estiverem servindo e, ainda quando em função de monitor ou qualquer outra, têm como atribuição precípua a vigilância dos presos.
+**Art**. 40. Os guardas subordinam-se ao Chefe da Seção em que estiverem servindo e, ainda quando em função de monitor ou qualquer outra, têm como atribuição precípua a vigilância dos presos.
 
-<strong>Art</strong>. 41. As construções e as obras de reparo e conservação de bons imóveis e seus equipamentos, na C.A.D.F.; inclusive as estradas de rodagem, o estaleiro e a usina hidrelétrica, ficam a cargo de engenheiro designado pela Divisão de Obras (D.Ob.) do D.A. do M.J.I.N. repartição a que ficará subordinado, técnica e administrativamente.
+**Art**. 41. As construções e as obras de reparo e conservação de bons imóveis e seus equipamentos, na C.A.D.F.; inclusive as estradas de rodagem, o estaleiro e a usina hidrelétrica, ficam a cargo de engenheiro designado pela Divisão de Obras (D.Ob.) do D.A. do M.J.I.N. repartição a que ficará subordinado, técnica e administrativamente.
 
 § 1º Para cumprimento do disposto neste artigo, haverá uma Residência de Obras que atenderá aos serviços da C.A.D.F. e da Colônia Penal Cândido Mendes.
 
@@ -620,10 +618,10 @@ DISPOSIÇÕES GERAIS
 
 DISPOSIÇÃO TRANSITÓRIA
 
-<strong>Art</strong>. 42. O presente Regimento será revisto seis meses após ter entrado em execução, a fim de proceder-se aos reajustamentos e emendas indicados por sua aplicação.
+**Art**. 42. O presente Regimento será revisto seis meses após ter entrado em execução, a fim de proceder-se aos reajustamentos e emendas indicados por sua aplicação.
 
 Parágrafo único. Somente, após as retificações assim efetuadas, tomar-se-ão providências no sentido de criarem-se as funções gratificadas de chefia e de secretário do Diretor.
 
 Rio de Janeiro, 22 de maio de 1952.
 
-<strong>FRANCISCO NEGRÃO DE LIMA</strong>
+**FRANCISCO NEGRÃO DE LIMA**

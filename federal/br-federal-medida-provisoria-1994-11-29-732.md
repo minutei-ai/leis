@@ -1,7 +1,3 @@
-1
-
-###MPV-000732-0-000-29-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 732 ,DE 29 DE NOVEMBRO DE 1994
 
 Dispõe sobre isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis para utilização no transporte autônomo de passageiros, bem como por pessoas portadoras de deficiência física e aos destinados ao transporte escolar, e dá outras providências.

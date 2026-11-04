@@ -1,5 +1,3 @@
-###DEC-050614-0-000-18-05-1961@@@
-
 DECRETO Nº 50.614, DE 18 DE MAIO DE 1961.
 
 Altera o Decreto nº 48.936, de 14 de setembro de 1960, que criou um Grupo de Trabalho incumbido do estudo dos problemas do arquivo no Brasil, e dá outras providências.

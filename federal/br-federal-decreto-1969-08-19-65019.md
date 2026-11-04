@@ -1,5 +1,3 @@
-###DEC-065019-0-000-19-08-1969@@@
-
 DECRETO Nº 65.019 - DE 19 DE AGÔSTO DE 1969.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

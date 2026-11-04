@@ -1,5 +1,3 @@
-###DEC-047380-0-000-09-12-1959@@@
-
 Decreto nº 47.380, de 9 de dezembro de 1959.
 
 Autoriza a São Paulo Lights S.A. - Serviços de Eletricidade a reconstruir e ampliar a linha de transmissão Terminal São Caetano-Estação Elevatória de Traição.

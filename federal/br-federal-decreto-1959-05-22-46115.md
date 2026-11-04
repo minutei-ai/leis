@@ -1,5 +1,3 @@
-###DEC-046115-0-000-22-05-1959@@@
-
 DECRETO Nº 46.115, DE 22 DE MAIO DE 1959.
 
 Dispõe sôbre o uso e a ocupação temporária, de emprêsas de transporte marítimo e dá outras providências.

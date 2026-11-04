@@ -1,5 +1,3 @@
-###DEC-095051-0-000-16-10-1987@@@
-
 DECRETO Nº 95.051, DE 16 DE OUTUBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Américo de Campos, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

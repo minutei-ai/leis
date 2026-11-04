@@ -1,5 +1,3 @@
-###DEC-083707-0-000-09-07-1979@@@
-
 Decreto nº 83.707 de 09 de julho de 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Industrial de Juiz de Fora Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Juiz de Fora, Estado de Minas Gerais.
@@ -21,8 +19,6 @@ Brasília, 09 de julho de 1979; 158º da Independência e 91º da República.
 João B. de Figueiredo
 
 H. C. Mattos
-
-###DEC-083707-0-000-09-07-1979@@@RET01+++
 
 DECRETO Nº 83.707, de 09 de julho de 1979
 

@@ -1,5 +1,3 @@
-###DEC-067305-0-000-01-10-1970@@@
-
 DECRETO Nº 67.305 - DE 1 DE OUTUBRO DE 1970
 
 Declara caduco o Decreto nº 39.811, de 16 de agôsto de 1956.

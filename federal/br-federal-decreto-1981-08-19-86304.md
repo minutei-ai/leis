@@ -1,5 +1,3 @@
-###DEC-086304-0-000-19-08-1981@@@
-
 DECRETO Nº 86.304, DE 19 DE AGOSTO DE 1981.
 
 Promulga o Acordo Cultural entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.

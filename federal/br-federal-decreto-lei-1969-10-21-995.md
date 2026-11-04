@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0040e072-dff5-4ea9-af22-da179baee5e2/texto#nowhere)
 
-###DEL-000995-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 995, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre as tabelas de representação a que se refere o Decreto-lei nº 9.202, de 1946.

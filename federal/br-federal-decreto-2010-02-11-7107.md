@@ -1,5 +1,3 @@
-###DEC-007107-0-000-11-02-2010@@@
-
 DECRETO Nº 7.107, DE 11 DE FEVEREIRO DE 2010
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e a Santa Sé relativo ao Estatuto Jurídico da Igreja Católica no Brasil, firmado na Cidade do Vaticano, em 13 de novembro de 2008.

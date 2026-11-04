@@ -1,5 +1,3 @@
-###MPV-001179-0-000-03-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.179, de 3 de NOVEMBRO de 1995.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

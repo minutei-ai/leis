@@ -1,5 +1,3 @@
-###DEC-064845-0-000-18-07-1969@@@
-
 DECRETO Nº 64.845 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 10.504 de 28 de setembro de 1942.

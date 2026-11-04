@@ -1,5 +1,3 @@
-###DEC-066561-0-000-12-05-1970@@@
-
 DECRETO Nº 66.561, de 12 de maio de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro Único de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro, cargos originários dos Extintos Lloyad Brasileiro - Patrimônio Nacional - e Companhia  Nacional de Navegação Costeira - Autarquia Federal, e dá outras providência.

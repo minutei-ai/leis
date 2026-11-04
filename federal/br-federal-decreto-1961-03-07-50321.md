@@ -1,5 +1,3 @@
-###DEC-050321-0-000-07-03-1961@@@
-
 Decreto nº 50.321, de 7 de março de 1961.
 
 Autoriza a cessão de faixa de terreno que menciona, situado na cidade do Rio Grande, Estado do Rio Grande do Sul.

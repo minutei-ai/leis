@@ -1,5 +1,3 @@
-###DEC-086097-0-000-10-06-1981@@@
-
 Decreto nº 86.097, de 10 de junho de 1981.
 
 Fixa, para 1981, os efetivos dos Oficiais dos Quadros Complementares da Marinha, criados pelo Decreto-lei nº 610 de 04 de julho de 1969.
@@ -12,19 +10,91 @@ Art. 1º - Ficam fixados para 1981 os efetivos dos Oficiais dos Quadros Compleme
 
 a) Quadro Complementar do Corpo da Armada (QC-CA):
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; border-collapse:collapse"><tbody><tr><td style="width:357.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata ..........................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:357.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta ..........................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13</span></p></td></tr><tr><td style="width:357.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes ............................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55</span></p></td></tr><tr><td style="width:357.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Tenentes ...........................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">166</span></p></td></tr><tr><td style="width:357.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundo-Tenentes (Oficiais da Reserva).........................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">179</span></p></td></tr></tbody></table>
+Capitães-de-Fragata ..........................................................................................
+
+2
+
+Capitães-de-Corveta ..........................................................................................
+
+13
+
+Capitães-Tenentes ............................................................................................
+
+55
+
+Primeiro-Tenentes ...........................................................................................
+
+166
+
+Segundo-Tenentes (Oficiais da Reserva).........................................................
+
+179
 
 b) Quadro Complementar do Corpo de Engenheiros e Técnicos Navais (QC-CETN):
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; border-collapse:collapse"><tbody><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata .........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta .........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes ............................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Tenentes ............................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">42</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundo-Tenentes (Oficiais da Reserva) ..........................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67</span></p></td></tr></tbody></table>
+Capitães-de-Fragata .........................................................................................
+
+2
+
+Capitães-de-Corveta .........................................................................................
+
+3
+
+Capitães-Tenentes ............................................................................................
+
+25
+
+Primeiro-Tenentes ............................................................................................
+
+42
+
+Segundo-Tenentes (Oficiais da Reserva) ..........................................................
+
+67
 
 c) Quadro Complementar do Corpo de Intendentes da Marinha (QC-IM):
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; border-collapse:collapse"><tbody><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata .........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta .........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes ............................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">37</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiro-Tenentes ...........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundo-Tenentes (Oficiais da Reserva) ........................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67</span></p></td></tr></tbody></table>
+Capitães-de-Fragata .........................................................................................
+
+2
+
+Capitães-de-Corveta .........................................................................................
+
+6
+
+Capitães-Tenentes ............................................................................................
+
+37
+
+Primeiro-Tenentes ...........................................................................................
+
+75
+
+Segundo-Tenentes (Oficiais da Reserva) ........................................................
+
+67
 
 d) Quadro Complementar do Corpo de Fuzileiros Navais (QC-FN):
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; border-collapse:collapse"><tbody><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata .........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta .........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes ............................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Primeiros-Tenentes ...........................................................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67</span></p></td></tr><tr><td style="width:356.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Segundos-Tenentes (Oficiais da Reserva) .........................................................</span></p></td><td style="width:25.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">117</span></p></td></tr></tbody></table>
+Capitães-de-Fragata .........................................................................................
+
+2
+
+Capitães-de-Corveta .........................................................................................
+
+7
+
+Capitães-Tenentes ............................................................................................
+
+32
+
+Primeiros-Tenentes ...........................................................................................
+
+67
+
+Segundos-Tenentes (Oficiais da Reserva) .........................................................
+
+117
 
 Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

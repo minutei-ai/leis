@@ -1,5 +1,3 @@
-###DEL-007014-0-000-01-11-1944@@@
-
 DECRETO-LEI N. 7.014 – DE 1 DE NOVEMBRO DE 1944
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 257.900,00, para pagamento de pessoal extranumerário do Departamento Federal de Segurança Pública

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-17-07-1831@@@
-
 LEI - DE 17 DE JULHO DE 1831
 
 Extingue o Corpo da Guarda militar da Policia do Rio de Janeiro.

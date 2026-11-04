@@ -1,5 +1,3 @@
-###DEC-061783-0-000-27-11-1967@@@
-
 Decreto nº 61.783, de 27 de novembro de 1967.
 
 Autoriza o funcionamento do Curso de Psicologia da Faculdade de Filosofia do Rio de Janeiro.

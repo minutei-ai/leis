@@ -1,5 +1,3 @@
-###DEC-004246-0-000-22-05-2002@@@
-
 DECRETO Nº 4.246, DE 22 DE MAIO DE 2002
 
 Promulga a Convenção sobre o Estatuto dos Apátridas.

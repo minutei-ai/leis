@@ -1,5 +1,3 @@
-###DEC-061405-0-000-28-09-1967@@@
-
 Decreto nº 61.405, de 28 de setembro de 1967.
 
 Altera o Regulamento do Fundo de Garantia do Tempo de Serviço, de que trata o Decreto nº 59.820, de 20 de dezembro de 1966.

@@ -1,5 +1,3 @@
-###DEC-049728-0-000-31-12-1960@@@
-
 decRETO nº 49.728, de 31 de dezembro de 1960.
 
 Outorga à Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica.

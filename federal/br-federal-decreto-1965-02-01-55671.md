@@ -1,5 +1,3 @@
-###DEC-055671-0-000-01-02-1965@@@
-
 DECRETO Nº 55.671, DE 1º DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Júlio Vieira Holtz a pesquisar talco no município de Ribeirão Branco, Estado de São Paulo.

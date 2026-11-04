@@ -1,5 +1,3 @@
-###DEC-006963-0-000-21-09-2009@@@
-
 DECRETO Nº 6.963, DE 21 DE SETEMBRO DE 2009.
 
 Promulga o Acordo de Cooperação na Área de Educação Superior, Pesquisa e Tecnologia entre o Governo da República Federativa do Brasil e o Governo da República da Tunísia, firmado em Brasília, em 16 de janeiro de 2006.

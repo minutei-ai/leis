@@ -1,5 +1,3 @@
-###DEC-059654-0-000-02-12-1966@@@
-
 decreto nº 59.654, de 2 de dezembro de 1966.
 
 Abre, ao Ministério da Fazenda, o crédito suplementar de Cr$19.000.000, destinado do Departamento do Impôsto de Renda.

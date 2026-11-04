@@ -1,5 +1,3 @@
-###DEC-053729-0-000-18-03-1964@@@
-
 DECRETO Nº 53.729, DE 18 DE MARÇO DE 1964.
 
 Altera denominações de funções gratificadas no Quadro de Pessoal do Ministério da Saúde.

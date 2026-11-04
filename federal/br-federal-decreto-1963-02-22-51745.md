@@ -1,5 +1,3 @@
-###DEC-051745-0-000-22-02-1963@@@
-
 DECRETO Nº 51.745, DE 22 DE FEVEREIRO DE 1963.
 
 Altera a redação dos arts. 15, 16, 17 e 18, do Regimento do Departamento do Interior e da Justiça do Ministério da Justiça e Negócios Interiores, aprovado pelo Decreto número 17.546, 5 de janeiro de 1945.

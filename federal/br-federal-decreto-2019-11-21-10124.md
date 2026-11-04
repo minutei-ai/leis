@@ -60,4 +60,4 @@ Brasília, 21 de novembro de 2019; 198º da Independência e 131º da República
 
 JAIR MESSIAS BOLSONARO
 
-Marcos Montes Cordeiro<br>
+Marcos Montes Cordeiro

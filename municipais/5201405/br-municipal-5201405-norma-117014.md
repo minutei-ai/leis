@@ -128,13 +128,16 @@ Art. 13 Esta Lei entrará em vigor na data de sua publicação, revogadas as dis
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 21 dias do mês de julho do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-FÁBIO CAMARGO FERREIRA<br>
+FÁBIO CAMARGO FERREIRA
+
 Secretário Municipal de Meio Ambiente
 
 [ANEXO 01](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19097/anexo)

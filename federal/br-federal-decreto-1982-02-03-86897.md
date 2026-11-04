@@ -1,5 +1,3 @@
-###DEC-086897-0-000-03-02-1982@@@
-
 Decreto nº 86.897, de 03 de fevereiro de 1982.
 
 Autoriza a BANCA COMERCIALE ITALIANA a instalar mais uma filial no País.

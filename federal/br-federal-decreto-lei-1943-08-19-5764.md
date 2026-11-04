@@ -1,5 +1,3 @@
-###DEL-005764-0-000-19-08-1943@@@
-
 DECRETO‑LEI N. 5.764 – DE 19 DE AGÔSTO DE 1943
 
 Dispõe sôbre a situação contratual das emprêsas de energia elétrica e dá outras providências

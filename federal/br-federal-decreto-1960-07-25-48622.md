@@ -1,5 +1,3 @@
-###DEC-048622-0-000-25-07-1960@@@
-
 DECRETO Nº 48.622, DE 25 DE JULHO DE 1960.
 
 Concede à Mineração Indústria e Comércio Pedra Branca Ltda. autorização para funcionar como emprêsa de mineração.

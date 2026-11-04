@@ -1,5 +1,3 @@
-###DEC-058284-0-000-28-04-1966@@@
-
 DECRETO Nº 58.284, DE 28 DE ABRIL DE 1966.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia de Eletricidade de Pernambuco.

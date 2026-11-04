@@ -1,5 +1,3 @@
-###DEL-000121-0-000-31-01-1967@@@
-
 deCRETo-LEI Nº 121, DE 31 JANEIRO De 1967
 
 Estabelece a competência da União para regulamentar o transporte rodoviário de cargas e coletivo de passageiros.

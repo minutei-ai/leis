@@ -1,5 +1,3 @@
-###DEC-091194-0-000-12-04-1985@@@
-
 Decreto nº 91.194 de 12 de abril de 1985.
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Centro de Ensino Superior de Erexim.

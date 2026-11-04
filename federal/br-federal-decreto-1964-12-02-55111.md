@@ -1,5 +1,3 @@
-###DEC-055111-0-000-02-12-1964@@@
-
 DECRETO Nº 55.111, DE 2 DE DEZEMBRO DE 1964.
 
 Concede a Minérios e Metais União S.A., autorização para funcionar como emprêsa de mineração.

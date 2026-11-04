@@ -1,5 +1,3 @@
-###DEC-059192-0-000-08-09-1966@@@
-
 DECRETO Nº 59.192, DE 8 DE SETEMBRO DE 1966.
 
 Inclui Organização da Aeronáutica no art. 1º do Decreto nº 1.979, de 8 de janeiro de 1963.

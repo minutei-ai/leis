@@ -1,16 +1,14 @@
-###DEC-041853-0-000-15-07-1957@@@
+**DECRETO Nº 41853, DE 15 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41853, DE 15 DE JULHO DE 1957.</strong>
+***Regulamenta as atribuições dos funcionários lotados em estações aduaneiras e dá outras providências.***
 
-<em><strong>Regulamenta as atribuições dos funcionários lotados em estações aduaneiras e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 7º, parágrafo 1º da Lei nº 1.711, de 28 de outubro de 1952, e, ainda, considerando que, embora as atribuições dos funcionários lotados em estações aduaneiras estejam definidas na Nova Consolidação das Leis das Alfândegas e Mesas de Rendas da República, têm surgido, em virtude da mudança de denominação das respectivas carreiras, dúvidas quanto à sua integral aplicação,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 7º, parágrafo 1º da Lei nº 1.711, de 28 de outubro de 1952, e, ainda, considerando que, embora as atribuições dos funcionários lotados em estações aduaneiras estejam definidas na Nova Consolidação das Leis das Alfândegas e Mesas de Rendas da República, têm surgido, em virtude da mudança de denominação das respectivas carreiras, dúvidas quanto à sua integral aplicação,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Os serviços de fiscalização aduaneira serão desempenhados por oficiais administrativos e escriturários, lotados nas Alfândegas e demais estações aduaneiras do País, bem como pelos fiscais aduaneiros.
 
-<strong>Art</strong>. 1º Os serviços de fiscalização aduaneira serão desempenhados por oficiais administrativos e escriturários, lotados nas Alfândegas e demais estações aduaneiras do País, bem como pelos fiscais aduaneiros.
-
-<strong>Art</strong>. 2º Aos oficiais administrativos e, na sua falta, aos escriturários, incumbe:
+**Art**. 2º Aos oficiais administrativos e, na sua falta, aos escriturários, incumbe:
 
 I. o trabalho de qualificação, identificação, conferência e desembaraço das mercadorias importadas, nos têrmos do artigo 98 da Nova Consolidação das Leis das Alfândegas e legislação subsequente, tarefa essa a ser desempenhada nos Armazéns e depósitos;
 
@@ -28,13 +26,13 @@ VII. fiscalização e contrôle das licenças de importação e exportação;
 
 VIII. verificação da boa aplicação do material importado com favores fiscais.
 
-<strong>Art</strong>. 3º Sem prejuízo das atribuições especificadas no artigo anterior poderão ser cometidas outras, desde que compatíveis com as respectivas carreiras.
+**Art**. 3º Sem prejuízo das atribuições especificadas no artigo anterior poderão ser cometidas outras, desde que compatíveis com as respectivas carreiras.
 
-<strong>Art</strong>. 4º Caberá aos chefes das estações aduaneiras a designação do funcionário para as diversas funções.
+**Art**. 4º Caberá aos chefes das estações aduaneiras a designação do funcionário para as diversas funções.
 
-<strong>Art</strong>. 5º Fica mantida a denominação de conferente para aqueles que desempenham as funções previstas no item I do artigo 2º.
+**Art**. 5º Fica mantida a denominação de conferente para aqueles que desempenham as funções previstas no item I do artigo 2º.
 
-<strong>Art</strong>. 6º Aos fiscais aduaneiros compete:
+**Art**. 6º Aos fiscais aduaneiros compete:
 
 I. assistir à descarga, embarque e condução das mercadorias, nas horas marcadas pela Nova Consolidação das Leis das Alfândegas e Mesas de Rendas da República e de conformidade com as instruções e ordens que lhes forem dadas pelo Inspetor ou pelo Chefe sob cujas ordens imediatamente servirem;
 
@@ -66,12 +64,12 @@ XIV - a guarnição dos postos, registros e Estações fiscais, escolta e guarda
 
 XV - a detenção dos infratores dos regulamentos fiscais nos casos nêles marcados.
 
-<strong>Art</strong>. 7º Fica mantido, para os integrantes da carreira Fiscal Aduaneiro, o uso obrigatório de farda, bem como o horário de 8 (oito) horas de trabalho por dia, na forma preceituada no artigo 6º, § 2º do Decreto-lei nº 3.761, de 25 de outubro de 1941, mediante o sistema de plantão.
+**Art**. 7º Fica mantido, para os integrantes da carreira Fiscal Aduaneiro, o uso obrigatório de farda, bem como o horário de 8 (oito) horas de trabalho por dia, na forma preceituada no artigo 6º, § 2º do Decreto-lei nº 3.761, de 25 de outubro de 1941, mediante o sistema de plantão.
 
-<strong>Art</strong>. 8º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 8º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 15 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

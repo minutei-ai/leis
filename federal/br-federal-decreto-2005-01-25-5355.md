@@ -1,5 +1,3 @@
-###DEC-005355-0-000-25-01-2005@@@
-
 DECRETO Nº 5.355 DE 25 DE JANEIRO DE 2005
 
 Dispõe sobre a utilização do Cartão de Pagamento do Governo Federal \- CPGF, pelos órgãos e entidades da administração pública federal direta, autárquica e fundacional, para pagamento de despesas realizadas nos termos da legislação vigente, e dá outras providências.

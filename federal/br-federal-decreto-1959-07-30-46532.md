@@ -1,5 +1,3 @@
-###DEC-046532-0-000-30-07-1959@@@
-
 DECRETO Nº 46.532, DE 30 DE JULHO DE 1959.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a tomar ações da Centrais Elétricas de Minas Gerais S.A. à contar do Fundo Federal de Eletrificação.

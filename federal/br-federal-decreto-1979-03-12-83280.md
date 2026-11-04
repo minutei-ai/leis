@@ -1,5 +1,3 @@
-###DEC-083280-0-000-12-03-1979@@@
-
 Decreto nº 83.280, de 12 de março de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Amazonas.

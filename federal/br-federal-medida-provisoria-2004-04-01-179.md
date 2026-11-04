@@ -1,5 +1,3 @@
-###MPV-000179-0-000-01-04-2004@@@
-
 MEDIDA PROVISÓRIA Nº 179, DE 1º DE ABRIL 2004.
 
 Altera os arts. 8º e 16 da Lei nº 9.311, de 24 de outubro de 1996, que institui a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira \- CPMF, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009847-0-000-12-09-1946@@@
-
 DECRETO-LEI N. 9.847 – DE 12 DE SETEMBRO DE 1946
 
 Modifica o artigo 54 da Lei do Ensino Militar (Decreto-lei n. 4.130, de 26 de Fevereiro de 1942).

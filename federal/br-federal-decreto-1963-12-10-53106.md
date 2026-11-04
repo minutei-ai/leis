@@ -1,5 +1,3 @@
-###DEC-053106-0-000-10-12-1963@@@
-
 DECRETO Nº 53.106, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Fertilizantes Iguaçu Ltda - Indústria e Comércio autorização para funcionar como emprêsa de mineração.

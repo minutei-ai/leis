@@ -1,5 +1,3 @@
-###DEC-080887-0-000-30-11-1977@@@
-
 DECRETO Nº 80.887, DE NOVEMBRO DE 1977.
 
 Dispõe sobre a administração financeira do Sistema Nacional de Previdência e Assistência Social - SINPAS e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003025-0-000-06-02-1941@@@
-
 DECRETO-LEI N. 3.025 – DE 6 DE FEVEREIRO DE 1941
 
 Cria a Comissão Construtora de Estradas de Ferro no Sul do País, e da outras providências

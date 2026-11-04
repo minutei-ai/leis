@@ -1,5 +1,3 @@
-###DEC-086199-0-000-13-07-1981@@@
-
 Decreto nº 86.199, de 13 de julho de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

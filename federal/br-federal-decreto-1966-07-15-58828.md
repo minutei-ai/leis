@@ -1,5 +1,3 @@
-###DEC-058828-0-000-15-07-1966@@@
-
 DECETO Nº 58.828, DE 15 DE JULHO DE 1966.
 
 Estado-Maior das Fôrças Armadas e Ministérios, Militares. Abre o crédito especial de Cr$7.493.000.000, para atendimento das despesas do Destacamento Brasileiro da Fôrça Armada Interamericana - FAIBRAS - no 1º semestre de 1966.

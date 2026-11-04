@@ -1,5 +1,3 @@
-###DEC-086331-0-000-02-09-1981@@@
-
 Decreto nº 86.331, de 02 de Setembro de 1981
 
 Altera o Decreto nº 77.919, de 25 de junho de 1976, modificado pelo Decreto nº 82.724, de 23 de novembro de 1978, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975 - Lei do Ensino no Exército.

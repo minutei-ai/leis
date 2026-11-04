@@ -1,5 +1,3 @@
-###DEC-057524-0-000-28-12-1965@@@
-
 Decreto nº 57.524, de 28 de dezembro de 1965.
 
 Autoriza o cidadão brasileiro Edgar Soares Pessanha a pesquisar calcário no município de Campos, Estado do Rio de Janeiro.

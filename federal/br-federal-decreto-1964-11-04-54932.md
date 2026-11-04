@@ -1,5 +1,3 @@
-###DEC-054932-0-000-04-11-1964@@@
-
 DECRETO Nº 54.932, DE 4 DE NOVEMBRO DE 1964.
 
 Prorroga por mais 15 (quinze) dias o prazo de que trata o artigo 4º do Decreto nº 54.238, de 2 de setembro de 1964.

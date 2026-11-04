@@ -1,5 +1,3 @@
-###DEC-069853-0-000-29-12-1971@@@
-
 DECRETO Nº 69.853 - DE 29 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à ampliação de uma subestação no município de São Paulo, Estado de São Paulo.

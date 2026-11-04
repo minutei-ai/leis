@@ -1,5 +1,3 @@
-###DEC-067221-0-000-21-09-1970@@@
-
 DECRETO Nº 67.221, DE 21 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública a Associação Diocesana de Auxílio à Velhice Desamparada, com sede em Valença, Estado do Rio de Janeiro.

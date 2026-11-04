@@ -1,5 +1,3 @@
-###DEC-094235-0-000-15-04-1987@@@
-
 DECRETO Nº 94.235, DE 15 DE ABRIL DE 1987
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA, a contratar técnicos para as atividades que menciona, e dá outras providências.

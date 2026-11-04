@@ -1,5 +1,3 @@
-###DEC-068795-0-000-23-06-1971@@@
-
 DECRETO Nº 68.795 - DE 23 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Associação de Proteção à Maternidade e a Infância de Pindoretama, Estado do Ceará.

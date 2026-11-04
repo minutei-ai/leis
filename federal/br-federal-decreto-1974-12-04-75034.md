@@ -1,5 +1,3 @@
-###DEC-075034-0-000-04-12-1974@@@
-
 Decreto nº 75.034, de 4 de dezembro de 1974.
 
 Retifica a concessão de lavra outorgada à Emasa - Engenharia e Mineração S.A., pelo Decreto número 73.434, de 10 de janeiro de 1974.

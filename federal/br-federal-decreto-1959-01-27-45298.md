@@ -1,5 +1,3 @@
-###DEC-045298-0-000-27-01-1959@@@
-
 DECRETO Nº 45.298, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro José Leandro de Paula Rodrigues a pesquisar talco no município de Ouro Prêto, Estado de Minas Gerais.

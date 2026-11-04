@@ -1,5 +1,3 @@
-###DEC-065246-0-000-29-09-1969@@@
-
 DECRETO Nº 65.246 - DE 29 DE SETEMBRO DE 1969.
 
 Extinguem a Diretoria de Artilharia de Costa e Artilharia Antiaérea e dá outras providências.

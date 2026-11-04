@@ -1,5 +1,3 @@
-###DEC-079538-0-000-15-04-1977@@@
-
 DECRETO Nº 79.538, DE 15 DE ABRIL DE 1977.
 
 Dispõe sobre a destinação, no exercício de 1977, dos recursos para execução do Programa de Redistribuição de Terras e de Estimulo à Agro-indústria do Norte e do Nordeste (PROTERRA)

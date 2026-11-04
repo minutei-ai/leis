@@ -1,5 +1,3 @@
-###DEC-060808-0-000-02-06-1967@@@
-
 Decreto nº 60.808, de 2 de junho de 1967.
 
 Cria a Comissão de Estudos da Política do Sisal e dá outras providências.

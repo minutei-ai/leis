@@ -1,7 +1,3 @@
-1
-
-###DEC-001506-0-000-25-05-1995@@@
-
 DECRETO Nº 1.506, DE 25 DE MAIO DE 1995
 
 Constitui, no âmbito do Conselho Coordenador das Ações Federais no Estado do Rio de Janeiro, Grupo Executivo para execução do projeto prioritário que especifica, e dá outras providências.

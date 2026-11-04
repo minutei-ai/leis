@@ -1,5 +1,3 @@
-###DEC-068573-0-000-30-04-1971@@@
-
 Decreto Nº 68.573 - DE 30 DE ABRIL DE 1971.
 
 Autorização para o funcionamento da Escola de Educação Física de Santo Anastácio, S.P.

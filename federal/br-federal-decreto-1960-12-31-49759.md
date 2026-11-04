@@ -1,5 +1,3 @@
-###DEC-049759-0-000-31-12-1960@@@
-
 DECRETO N. 49.759 – DE 31 DE DEZEMBRO DE 1960
 
 Concede permissão à emprêsa Petróleo Brasileiro S.A. – Petrobrás, para que sua Unidade – Superintendëncia da Industrialização do Xisto, localizada em Tremenbé, no Estado de São Paulo, funcione nos domingos e nos feriados civis e religiosos.

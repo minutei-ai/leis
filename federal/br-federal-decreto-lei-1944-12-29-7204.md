@@ -1,5 +1,3 @@
-###DEL-007204-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.204 – DE 29 DE DEZEMBRO DE 1944
 
 Autoriza o emprêgo de borracha sintética na indústria nacional e dá outras providências

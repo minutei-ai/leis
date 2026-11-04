@@ -1,7 +1,3 @@
-1
-
-###DEC-098594-0-000-18-12-1989@@@
-
 DECRETO Nº 98.594, DE 18 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do Curso de História da Faculdade de Estudos Sociais de Várzea Grande.

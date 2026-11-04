@@ -1,5 +1,3 @@
-###DEC-047498-0-000-28-12-1959@@@
-
 DECRETO Nº 47.498, de 28 de dezembro de 1959.
 
 Transfere da Prefeitura Municipal de Santa Cruz do Sul para a Comissão Estadual de Energia Elétrica do Rio Grande do Sul a concessão para a produção e fornecimento de energia elétrica ao Município de Santa Cruz do Sul, Estado do Rio Grande do Sul.

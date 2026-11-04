@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209171)<br>
-
 # LEI N° 17.864, DE 09 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 1239/2019, do Deputado Itamar Borges – MDB)

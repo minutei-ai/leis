@@ -1,7 +1,3 @@
-1
-
-###DEC-001352-0-000-28-12-1994@@@
-
 DECRETO Nº 1.352, DE 28 DE DEZEMBRO DE 1994
 
 Dispõe sobre a tarifa especial prevista no art. 104 da Lei nº 4.117, de 27 de agosto de 1962, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051646-0-000-27-12-1962@@@
-
 DECRETO Nº 51.646, de 27 de dezembro de 1962.
 
 Baixa Normas Técnicas Especiais sôbre Tuberculose no País e dá outras providências.

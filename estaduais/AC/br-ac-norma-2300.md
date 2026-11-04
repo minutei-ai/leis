@@ -1,6 +1,6 @@
 > **LEI Nº 3.517, DE 23 DE SETEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre, amplia o acesso à Justiça, Institui a Taxa de Diligência Externa e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre, amplia o acesso à Justiça, Institui a Taxa de Diligência Externa e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -164,7 +164,7 @@
 
 **Art. 32.** A falta de pagamento, no todo ou em parte, das taxas devidas, sujeitará o devedor, sem prejuízo dos acréscimos legais, à multa de valor igual ao das taxas não pagas, consideradas estas pelo seu valor atualizado, segundo a variação percentual do INPC/IBGE, ou índice similar que o substitua, contado da data do vencimento.
 
-**Art. 33****.** ...
+**Art. 33.** ...
 
 **Parágrafo único.** Entende-se por taxa irrisória aquela que não atingir quinze por cento do salário mínimo. (NR)
 
@@ -186,17 +186,67 @@ Governador do Estado do Acre, em exercício
 
 **TABELA A**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>&nbsp;&nbsp;</span><strong><span>I. Certidões</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) uma única folha</span></span></p></td><td><p><span><span>R$ 30,00</span></span></p></td></tr><tr><td><p><span><span>b) por folha excedente, cada uma</span></span></p></td><td><p><span><span>R$ &nbsp; 5,00</span></span></p></td></tr></tbody></table>
+**I. Certidões**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>II. Desarquivamento de processo findo</span></strong></span></p></td><td valign="top"><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>a) até cinco anos</span></span></p></td><td valign="top"><p><span><span>R$ &nbsp; 50,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>b) com mais de cinco anos</span></span></p></td><td valign="top"><p><span><span>R$ 100,00</span></span></p></td></tr></tbody></table>
+a) uma única folha
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span>&nbsp;</span></p></td><td colspan="2"><p><span><span>&nbsp;</span></span></p></td><td colspan="2"><p><span><span>&nbsp;</span></span></p></td></tr><tr><td colspan="2"><p><span><strong><span>III. Busca ou verificação para informação</span></strong></span></p></td><td colspan="2"><p><span><span>&nbsp;</span></span></p></td><td><p><span>&nbsp;</span></p></td></tr><tr><td colspan="2"><p><span><span>a) até um ano</span></span></p></td><td colspan="2"><p><span><span>R$ 20,00</span></span></p></td><td><p><span>&nbsp;</span></p></td></tr><tr><td colspan="2"><p><span><span>b) de um a cinco anos</span></span></p></td><td colspan="2"><p><span><span>R$ 40,00</span></span></p></td><td><p><span>&nbsp;</span></p></td></tr><tr><td colspan="2"><p><span><span>c) de cinco a dez anos</span></span></p></td><td colspan="2"><p><span><span>R$ 60,00</span></span></p></td><td><p><span>&nbsp;</span></p></td></tr><tr><td colspan="2"><p><span><span>d) de dez a vinte anos</span></span></p></td><td colspan="2"><p><span><span>R$ 80,00</span></span></p></td><td><p><span>&nbsp;</span></p></td></tr><tr><td colspan="2"><p><span><span>e) acima de vinte anos</span></span></p></td><td colspan="2"><p><span><span>R$ 100,00</span></span></p></td><td><p><span>&nbsp;</span></p></td></tr><tr><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td><td><span><br></span></td></tr></tbody></table>
+R$ 30,00
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>IV. Certidão sobre antecedentes criminais</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) uma pessoa e com uma folha</span></span></p></td><td><p><span><span>R$ 10,00</span></span></p></td></tr><tr><td><p><span><span>b) por pessoa que exceder</span></span></p></td><td><p><span><span>R$ 5,00</span></span></p></td></tr><tr><td><p><span><span>c) por folha que exceder</span></span></p></td><td><p><span><span>R$ 5,00</span></span></p></td></tr></tbody></table>
+b) por folha excedente, cada uma
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>IV-A. Certidão sobre distribuição de ações cíveis, execuções fiscais, falência ou recuperação judicial.</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) uma pessoa e com uma folha</span></span></p></td><td><p><span><span>R$ 15,00</span></span></p></td></tr><tr><td><p><span><span>b) por pessoa que exceder</span></span></p></td><td><p><span><span>R$ 5,00</span></span></p></td></tr><tr><td><p><span><span>c) por folha que exceder</span></span></p></td><td><p><span><span>R$ 5,00</span></span></p></td></tr></tbody></table>
+R$   5,00
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>V. Emissão de Relatório:</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) sem fornecimento de certidão</span></span></p></td><td><p><span><span>R$ 40,00</span></span></p></td></tr><tr><td><p><span><strong><span>VI. Escaneamento de petições iniciais distribuídas ou de petições intermediárias protocoladas em meio físico (papel), inclusive dos documentos que as instruem, para juntada em processo judicial eletrônico. (Incluído pela Lei nº 2.533, de 29.12.2011)</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) por folha</span></span></p></td><td><p><span><span>R$ 3,00</span></span></p></td></tr></tbody></table>
+**II. Desarquivamento de processo findo**
+
+a) até cinco anos
+
+R$   50,00
+
+b) com mais de cinco anos
+
+R$ 100,00
+
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> &nbsp; </td><td colspan="2"> &nbsp; </td><td colspan="2"> &nbsp; </td></tr><tr><td colspan="2"> **III. Busca ou verificação para informação** </td><td colspan="2"> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="2"> a) até um ano </td><td colspan="2"> R$ 20,00 </td><td> &nbsp; </td></tr><tr><td colspan="2"> b) de um a cinco anos </td><td colspan="2"> R$ 40,00 </td><td> &nbsp; </td></tr><tr><td colspan="2"> c) de cinco a dez anos </td><td colspan="2"> R$ 60,00 </td><td> &nbsp; </td></tr><tr><td colspan="2"> d) de dez a vinte anos </td><td colspan="2"> R$ 80,00 </td><td> &nbsp; </td></tr><tr><td colspan="2"> e) acima de vinte anos </td><td colspan="2"> R$ 100,00 </td><td> &nbsp; </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+**IV. Certidão sobre antecedentes criminais**
+
+a) uma pessoa e com uma folha
+
+R$ 10,00
+
+b) por pessoa que exceder
+
+R$ 5,00
+
+c) por folha que exceder
+
+R$ 5,00
+
+**IV-A. Certidão sobre distribuição de ações cíveis, execuções fiscais, falência ou recuperação judicial.**
+
+a) uma pessoa e com uma folha
+
+R$ 15,00
+
+b) por pessoa que exceder
+
+R$ 5,00
+
+c) por folha que exceder
+
+R$ 5,00
+
+**V. Emissão de Relatório:**
+
+a) sem fornecimento de certidão
+
+R$ 40,00
+
+**VI. Escaneamento de petições iniciais distribuídas ou de petições intermediárias protocoladas em meio físico (papel), inclusive dos documentos que as instruem, para juntada em processo judicial eletrônico. (Incluído pela Lei nº 2.533, de 29.12.2011)**
+
+a) por folha
+
+R$ 3,00
 
 **Notas:** 
 
@@ -214,7 +264,13 @@ Governador do Estado do Acre, em exercício
 
 **DAS CARTAS PRECATÓRIAS E ASSEMELHADOS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>I – Oriunda do próprio Estado&nbsp;</span></strong></span></p></td><td><p><span><span>R$ 100,00</span></span></p></td></tr><tr><td><p><span><span>&nbsp;<strong>II – Oriunda de outros Estados ou de outro País</strong></span></span></p></td><td><p><span><span>R$ 150,00</span></span></p></td></tr></tbody></table>
+**I – Oriunda do próprio Estado **
+
+R$ 100,00
+
+**II – Oriunda de outros Estados ou de outro País**
+
+R$ 150,00
 
 **Notas:** 
 
@@ -228,11 +284,23 @@ b) igualmente excluem-se da presente tabela as cartas expedidas para outros esta
 
 **DAS AÇÕES E PROCEDIMENTOS PENAIS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>I. Ações e procedimentos penais diversos</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) até trezentas folhas</span></span></p></td><td><p><span><span>R$ 250,00</span></span></p></td></tr><tr><td><p><span><span>b) a cada conjunto de cem folhas que exceder</span></span></p></td><td><p><span><span>R$ 70,00</span></span></p></td></tr></tbody></table>
+**I. Ações e procedimentos penais diversos**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>II. Interpelação e pedido de explicações:</span></strong></span></p></td><td><p><span><span>R$ 100,00</span></span></p></td></tr></tbody></table>
+a) até trezentas folhas
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>III. Pedido de restituição de coisa apreendida:</span></strong></span></p></td><td><p><span><span>R$ 100,00</span></span></p></td></tr></tbody></table>
+R$ 250,00
+
+b) a cada conjunto de cem folhas que exceder
+
+R$ 70,00
+
+**II. Interpelação e pedido de explicações:**
+
+R$ 100,00
+
+**III. Pedido de restituição de coisa apreendida:**
+
+R$ 100,00
 
 **Notas:** 
 
@@ -248,17 +316,85 @@ c) na ação penal privada subsidiária, o querelante fica isento do recolhiment
 
 **SEGUNDA INSTÂNCIA – TRIBUNAL DE JUSTIÇA**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>I. Mandado de Segurança:</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) um impetrante</span></span></p></td><td><p><span><span>R$ 250,00</span></span></p></td></tr><tr><td><p><span><span>b)<strong>&nbsp;</strong>por impetrante que exceder</span></span></p></td><td><p><span><span>R$ 125,00</span></span></p></td></tr></tbody></table>
+**I. Mandado de Segurança:**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>II. Mandado de Injunção:</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) um impetrante</span></span></p></td><td><p><span><span>R$ 100,00</span></span></p></td></tr><tr><td><p><span><span>b) por requerente que exceder</span></span></p></td><td><p><span><span>R$ 50,00</span></span></p></td></tr></tbody></table>
+a) um impetrante
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>III. Revisão Criminal:</span></strong><span>&nbsp;</span></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) ação penal privada</span></span></p></td><td><p><span><span>R$ 250,00</span></span></p></td></tr><tr><td><p><span><span>b) ação penal pública</span></span></p></td><td><p><span><span>R$ 250,00</span></span></p></td></tr></tbody></table>
+R$ 250,00
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>IV. Reclamações e Conflitos de Jurisdição e Competência:</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) independente do valor em discussão</span></span></p></td><td><p><span><span>R$ 100,00&nbsp;</span></span></p></td></tr></tbody></table>
+b)por impetrante que exceder
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>V. Desaforamento:</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) Independente da comarca</span></span></p></td><td><p><span><span>R$ 100,00</span></span></p></td></tr></tbody></table>
+R$ 125,00
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>VI. Recursos</span></strong></span></p></td><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><span>a) Agravo de Instrumento</span></span></p></td><td><p><span><span>R$ 300,00</span></span></p></td></tr><tr><td><p><span><span>b)<strong>&nbsp;</strong>Agravo Regimental ou Interno</span></span></p></td><td><p><span><span>R$ 200,00</span></span></p></td></tr><tr><td><p><span><span>c) Apelação em mandado de segurança</span></span></p></td><td><p><span><span>R$ 125,00</span></span></p></td></tr><tr><td><p><span><span>d) Carta Testemunhável</span></span></p></td><td><p><span><span>R$ 150,00</span></span></p></td></tr><tr><td><p><span><span>e) Deserção</span></span></p></td><td><p><span><span>R$ 90,00</span></span></p></td></tr><tr><td><p><span><span>f) Embargos Infringentes e de Nulidade</span></span></p></td><td><p><span><span>R$ 150,00</span></span></p></td></tr><tr><td><p><span><span>g) Recursos Criminais – até trezentas folhas</span></span></p></td><td><p><span><span>R$ 200,00</span></span></p></td></tr><tr><td><p><span><span>h) Recursos Criminais – cada conjunto de cem folhas que exceder da alínea “g”</span></span></p></td><td><p><span><span>R$ 75,00</span></span></p></td></tr><tr><td><p><span><span>i) Recursos interpostos para Tribunais Superiores</span></span></p></td><td><p><span><span>R$ 150,00</span></span></p></td></tr></tbody></table>
+**II. Mandado de Injunção:**
+
+a) um impetrante
+
+R$ 100,00
+
+b) por requerente que exceder
+
+R$ 50,00
+
+**III. Revisão Criminal:**
+
+a) ação penal privada
+
+R$ 250,00
+
+b) ação penal pública
+
+R$ 250,00
+
+**IV. Reclamações e Conflitos de Jurisdição e Competência:**
+
+a) independente do valor em discussão
+
+R$ 100,00
+
+**V. Desaforamento:**
+
+a) Independente da comarca
+
+R$ 100,00
+
+**VI. Recursos**
+
+a) Agravo de Instrumento
+
+R$ 300,00
+
+b)Agravo Regimental ou Interno
+
+R$ 200,00
+
+c) Apelação em mandado de segurança
+
+R$ 125,00
+
+d) Carta Testemunhável
+
+R$ 150,00
+
+e) Deserção
+
+R$ 90,00
+
+f) Embargos Infringentes e de Nulidade
+
+R$ 150,00
+
+g) Recursos Criminais – até trezentas folhas
+
+R$ 200,00
+
+h) Recursos Criminais – cada conjunto de cem folhas que exceder da alínea “g”
+
+R$ 75,00
+
+i) Recursos interpostos para Tribunais Superiores
+
+R$ 150,00
 
 **Nota:**
 
@@ -268,7 +404,13 @@ c) na ação penal privada subsidiária, o querelante fica isento do recolhiment
 
 **TAXA DE DILIGÊNCIA EXTERNA**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>I.&nbsp;</span></strong><span>Citação, notificação ou intimação de pessoas, físicas ou jurídicas, por todos os atos, inclusive certidão e atos complementares. Uma incidência para cada mandado expedido.</span></span></p></td><td><p><span><span>R$ 120,00</span></span></p></td></tr><tr><td><p><span><strong><span>II.&nbsp;</span></strong><span>Penhora, sequestro, arresto, despejo, apreensão, prisão, reintegração na posse, imissão na posse, acompanhamento de inspeção judicial, por todos os atos, inclusive certidão e atos complementares. Uma incidência para cada mandado expedido.</span></span></p></td><td><p><span><span>R$ 120,00</span></span></p></td></tr></tbody></table>
+**I. **Citação, notificação ou intimação de pessoas, físicas ou jurídicas, por todos os atos, inclusive certidão e atos complementares. Uma incidência para cada mandado expedido.
+
+R$ 120,00
+
+**II. **Penhora, sequestro, arresto, despejo, apreensão, prisão, reintegração na posse, imissão na posse, acompanhamento de inspeção judicial, por todos os atos, inclusive certidão e atos complementares. Uma incidência para cada mandado expedido.
+
+R$ 120,00
 
 **Notas:** 
 

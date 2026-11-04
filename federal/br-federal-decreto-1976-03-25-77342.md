@@ -1,5 +1,3 @@
-###DEC-077342-0-000-25-03-1976@@@
-
 DECRETO Nº 77.342, DE 25 DE MARÇO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

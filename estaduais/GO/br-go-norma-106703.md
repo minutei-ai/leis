@@ -40,13 +40,16 @@ III – equilíbrio da oferta de infraestrutura e de serviços sociais na cidade
 
 IV – distribuição igualitária e inteligente de investimentos.
 
-V – respeito à diversidade territorial, em seus aspectos culturais, sociais, econômicos e ambientais;<br>
+V – respeito à diversidade territorial, em seus aspectos culturais, sociais, econômicos e ambientais;
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
-VI – conservação do meio ambiente;<br>
+VI – conservação do meio ambiente;
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
-VII – visão sistêmica da cidade e da transformação digital.<br>
+VII – visão sistêmica da cidade e da transformação digital.
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
 Art. 4º A aplicação desta Lei tem como objetivo, especialmente:
@@ -81,19 +84,24 @@ IX – ter como meta a segurança de dados e a criação de parâmetros precisos
 
 X – proteger a privacidade do cidadão, os dados coletivos e os dados pessoais captados.
 
-XI – estimular a promoção do desenvolvimento urbano sustentável;<br>
+XI – estimular a promoção do desenvolvimento urbano sustentável;
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
-XII – estimular a adoção de medidas de cooperação entre setores público, privado, organização da sociedade civil e instituições de ensino e pesquisa;<br>
+XII – estimular a adoção de medidas de cooperação entre setores público, privado, organização da sociedade civil e instituições de ensino e pesquisa;
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
-XIII – estimular a avaliação e adoção de medidas que respeitem o potencial que as cidades possuem para responder aos desafios locais, de forma a adequá– las ao respectivo estágio tecnológico;<br>
+XIII – estimular a avaliação e adoção de medidas que respeitem o potencial que as cidades possuem para responder aos desafios locais, de forma a adequá– las ao respectivo estágio tecnológico;
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
-XIV – estimular a adoção de medidas que estimulem a formação cidadã e o letramento digital, de forma contínua;<br>
+XIV – estimular a adoção de medidas que estimulem a formação cidadã e o letramento digital, de forma contínua;
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
-XV – estimular o envolvimento de pessoas de todas as idades, gêneros, raças e classes sociais e dos coletivos locais, inclusive povos e comunidades tradicionais.<br>
+XV – estimular o envolvimento de pessoas de todas as idades, gêneros, raças e classes sociais e dos coletivos locais, inclusive povos e comunidades tradicionais.
+
 \- [Acrescido pela Lei nº 23.390, de 6-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110646).
 
 Art. 6º (VETADO).

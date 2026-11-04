@@ -1,5 +1,3 @@
-###DEC-088141-0-000-02-03-1983@@@
-
 # DECRETO 88.141, DE 2 DE MARÇO DE 1983
 
 Dispõe sobre o Grupo Executivo de Movimentação de Safras - GREMOS, e dá outras providências.

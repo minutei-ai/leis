@@ -1,5 +1,3 @@
-###DEC-083773-0-000-25-07-1979@@@
-
 DECRETO Nº 83.773, DE 25 DE JULHO DE 1979.
 
 Aprova alteração introduzida no Estatuto da Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF.

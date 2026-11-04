@@ -1,6 +1,10 @@
 > **LEI Nº 4.688, DE 03 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Titulo Honorífico de Cidadão Acreano à Sra. Samara Raquel Damásio Pereira.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Titulo Honorífico de Cidadão Acreano à Sra. Samara Raquel Damásio Pereira.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

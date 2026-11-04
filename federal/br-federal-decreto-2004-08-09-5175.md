@@ -1,5 +1,3 @@
-###DEC-005175-0-000-09-08-2004@@@
-
 DECRETO Nº 5.175 DE 9 DE AGOSTO DE 2004
 
 Constitui o Comitê de Monitoramento do Setor Elétrico - CMSE de que trata o art. 14 da Lei nº 10.848, de 15 de março de 2004.

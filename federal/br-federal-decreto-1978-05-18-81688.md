@@ -1,5 +1,3 @@
-###DEC-081688-0-000-18-05-1978@@@
-
 Decreto nº 81.688, de 18 de maio de 1978.
 
 Autoriza a conversão dos cursos de Matemática, Química e Ciências Biológicas em curso de ciências, ministrado pela União da Associação de Ensino de Ribeirão Preto, com sede na cidade de Ribeirão Preto, Estado de São Paulo.

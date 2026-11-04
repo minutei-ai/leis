@@ -30,8 +30,10 @@ Goiânia, Estado de Goiás, aos 23 dias do mês de dezembro de 2014.
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário

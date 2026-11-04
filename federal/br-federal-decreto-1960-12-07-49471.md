@@ -1,5 +1,3 @@
-###DEC-049471-0-000-07-12-1960@@@
-
 DECRETO Nº 49.471, DE 7 DE DEZEMBRO DE 1960.
 
 Abre, pelo Ministério da Agricultura, o crédito especial de Cr$30.000.000,00 para os fins que específica.

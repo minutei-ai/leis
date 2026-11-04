@@ -1,20 +1,18 @@
-###DEC-027651-0-000-28-12-1949@@@
+**DECRETO Nº 27.651, DE 28 DE DEZEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.651, DE 28 DE DEZEMBRO DE 1949.</strong>
+***Outorga ao Estado do Paraná concessão para o aproveitamento progressista da energia hidráulica do Salto das Bananeiras, situado no rio Ivaí, município de Campo Mourão, Estado do Paraná.***
 
-<em><strong>Outorga ao Estado do Paraná concessão para o aproveitamento progressista da energia hidráulica do Salto das Bananeiras, situado no rio Ivaí, município de Campo Mourão, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *b*, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>b</em>, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada ao Estado do Paraná, concessão para o aproveitamento progressivo da energia hidráulica do Salto das Bananeiras situado no rio Ivaí, município de Campo Mourão, Estado do Paraná.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada ao Estado do Paraná, concessão para o aproveitamento progressivo da energia hidráulica do Salto das Bananeiras situado no rio Ivaí, município de Campo Mourão, Estado do Paraná.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinados a altura da queda a aproveitar, a descarga da derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para serviços públicos, serviços de utilidade pública e para o comércio de energia no município de Campo Mourão.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de qualquer ato declaratório, se o concessionário não satisfazer as seguintes condições:
+**Art**. 2º Caducará o presente título, independente de qualquer ato declaratório, se o concessionário não satisfazer as seguintes condições:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -100,24 +98,24 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando for determinado pela Divisão da Águas, as instalações necessárias à observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando for determinado pela Divisão da Águas, as instalações necessárias à observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunerar será o efetivamente investido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Até seis (6) meses antes do término do prazo da concessão, o Estado do Paraná deverá requerer ao Govêrno Federal a renovação ou a desistência da mesma.
+**Art**. 7º Até seis (6) meses antes do término do prazo da concessão, o Estado do Paraná deverá requerer ao Govêrno Federal a renovação ou a desistência da mesma.
 
-<strong>Art</strong>. 8º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 8º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 9º Revogam-se as disposições em contrário.
+**Art**. 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de dezembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-085698-0-000-04-02-1981@@@
-
 Decreto nº 85.698, de 4 de fevereiro de 1981.
 
 Estabelece critérios para registro de unidades produtoras de álcool hidratado, com capacidade de produção de até 5.000 litros/dia, e dá outras providências.

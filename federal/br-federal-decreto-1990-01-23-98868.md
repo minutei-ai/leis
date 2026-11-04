@@ -1,7 +1,3 @@
-1
-
-###DEC-098868-0-000-23-01-1990@@@
-
 DECRETO Nº 98.868, DE 23 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação de Cassilândia.

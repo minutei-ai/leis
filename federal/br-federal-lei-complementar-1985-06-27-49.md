@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7c03ec22-537f-4968-ad4e-03281e91fc77/texto#nowhere)
 
-###LCP-000049-0-000-27-06-1985@@@
-
 # LEI COMPLEMeNTAR Nº 49, DE 27 DE JUNHO DE 1985
 
 Dispõe sobre a instalação de Municípios e dá outras providências.

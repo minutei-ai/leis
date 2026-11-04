@@ -1,5 +1,3 @@
-###DEL-009131-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.131 – DE 4 DE ABRIL DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 3.510.981,60, para execução de obras na região carbonífera de Cresciuma, no Estado de Santa Catarina.

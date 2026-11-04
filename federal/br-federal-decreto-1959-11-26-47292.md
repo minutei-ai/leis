@@ -1,5 +1,3 @@
-###DEC-047292-0-000-26-11-1959@@@
-
 DECRETO Nº 47.292, DE 26 DE NOVEMBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Seguradora Brasileira.

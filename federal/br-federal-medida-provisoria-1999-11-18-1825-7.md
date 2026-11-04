@@ -1,5 +1,3 @@
-###MPV-001825-0-007-18-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.825-7, DE 18 DE NOVEMBRO DE 1999.
 
 Altera a Lei nº 4.229, de 1º de junho de 1963, autoriza a doação de bens e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056906-0-000-28-09-1965@@@
-
 DECRETO Nº 56.906, DE 28 DE SETEMBRO DE 1965.
 
 Altera os artigos 4º, 5º e 10 do Regulamento do Gabinete do Ministro da Aeronáutica, aprovado pelo Decreto nº 377, de 19 de dezembro de 1961.

@@ -1,5 +1,3 @@
-###DEL-007217-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.217 – DE 30 DE DEZEMBRO DE 1944
 
 Extingue, no Ministério da Educação e Saúde, a Comissão do Plano da Universidade do Brasil, cria no Departamento Administrativo do Serviço Público, o Escritório Técnico da Cidade Universitária da Universidade do Brasil e dispõe sôbre os recursos necessários ao início dos trabalhos dêste último

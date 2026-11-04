@@ -1,5 +1,3 @@
-###DEC-066826-0-000-03-07-1970@@@
-
 Decreto nº 66.826, de 3 de julho de 1970.
 
 Aprova a lotação numérica da Divisão de Segurança e Informações do Ministério da Agricultura.

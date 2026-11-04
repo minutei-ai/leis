@@ -1,5 +1,3 @@
-###DEC-060440-0-000-13-03-1967@@@
-
 DECRETO Nº 60.440, DE 13 DE MARçO DE 1967.
 
 Declara rescisão do contrato de concessão para a exploração do Pôrto de Manaus, e dá outras providências.

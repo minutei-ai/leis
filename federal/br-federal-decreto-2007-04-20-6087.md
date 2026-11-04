@@ -1,5 +1,3 @@
-###DEC-006087-0-000-20-04-2007@@@
-
 DECRETO Nº 6.087, DE 20 DE ABRIL DE 2007.
 
 Altera os arts. 5o, 15 e 21 do Decreto no 99.658, de 30 de outubro de 1990, que regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material, e dá outras providências.
@@ -43,5 +41,3 @@ Brasília, 20 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 23.4.2007

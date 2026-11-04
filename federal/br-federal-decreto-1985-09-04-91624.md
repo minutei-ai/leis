@@ -1,5 +1,3 @@
-###DEC-091624-0-000-04-09-1985@@@
-
 Decreto nº 91.624, de 04 de setembro de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Sandra", situado no Município de Abelardo Luz, no Estado de Santa Catarina, e compreendido na área prioritária, para fins de reforma agrária, fixada pela Decreto nº 69.411, de 22 outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980, e dá outras providências.

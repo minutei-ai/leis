@@ -1,5 +1,3 @@
-###DEC-083680-0-000-03-07-1979@@@
-
 Decreto nº 83.680 de 03 de julho de 1979.
 
 Concede reconhecimento ao curso de Educação Artística da Faculdade de Filosofia, Ciências e Letras de São José do Rio Pardo, Estado de São Paulo

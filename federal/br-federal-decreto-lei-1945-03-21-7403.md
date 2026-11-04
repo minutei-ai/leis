@@ -1,5 +1,3 @@
-###DEL-007403-0-000-21-03-1945@@@
-
 DECRETO-LEI N. 7.403 – DE 21 DE MARÇO DE 1945
 
 Altera a carreira de Conferente do Quadro Permanente do Ministério da Fazenda, inclui na mesma carreira os cargos isolados de Conferente de Valores e dá outras providências

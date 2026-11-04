@@ -1,7 +1,3 @@
-1
-
-###DEC-000526-0-000-20-05-1992@@@
-
 DECRETO N° 526, DE 20 DE MAIO DE 1992
 
 Dispõe sobre os procedimentos orçamentários para o pagamento, pelo Tesouro Nacional, de vantagens pecuniárias concedidas por decisões judiciais não transitadas em julgado.

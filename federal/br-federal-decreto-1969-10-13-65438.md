@@ -1,5 +1,3 @@
-###DEC-065438-0-000-13-10-1969@@@
-
 DECRETO Nº 65.438 - DE 13 DE OUTUBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - da Superintendência Nacional da Marinha Mercante, cargos originários da Administração do Pôrto do Rio de Janeiro e dá outras providências.

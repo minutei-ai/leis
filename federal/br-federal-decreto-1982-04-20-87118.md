@@ -1,5 +1,3 @@
-###DEC-087118-0-000-20-04-1982@@@
-
 Decreto nº 87.118, de 20 de abril de 1982
 
 Concede à Empresa "BRITISH AIRWAYS" autorização para funcionar no Brasil, com escritório para venda de transporte aéreo, na cidade de São Paulo.
@@ -46,8 +44,6 @@ Na página 7.044, 2ª coluna, no fecho LEIA\-SE:
 
 Brasília, 20 de abril de 1982; 161º da Independência e 94º da República.
 
-###DEC-087118-0-000-20-04-1982@@@REP01+++
-
 DECRETO Nº 87.118, DE 20 DE ABRIL DE 1982
 
 Concede à Empresa "BRITISH AIRWAYS" autorização para funcionar no Brasil, com escritório para venda de transporte aéreo, na cidade de São Paulo.
@@ -72,6 +68,162 @@ SAIBAM quantos este público instrumento de substabelecimento de procuração ba
 
 ## DEMONSTRAÇÃO DA CONTA DE LUCROS E PERDAS
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grupo 1980 £m</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grupo</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1979 £ m</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Conselho</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1980</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">£m</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Conselho</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1979</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">£m</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Movimento (comentário 1)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.919,6</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.640,3</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.688,9</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1.454,5</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Excedente Operacional (comentário 2)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">29,0</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">91,1</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">12,6</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">76,2</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dividendos e juro líquido a receber das subsidiárias</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,4</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,0</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Empresas coligadas (comentário 3)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4,7</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5,0</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Investimentos comerciais (comentário 4)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,4</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,3</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,2</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,1</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Outros rendimentos (comentário 5)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">18,8</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11,4</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">16,9</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11,3</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">Lucro</span><span style="font-family:Arial"> antes do custo dos empréstimos de capital, tributação e item extraordinário</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">54,9</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">109,8</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">30,1</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">89,6</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">Custo dos empréstimos de capital</span><span style="font-family:Arial"> (comentário 17) juros</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(38,1)</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(25,0)</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(37,7)</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(24,7)</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ganhos decorrentes da flutuação da moeda</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,7</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5,6</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,7</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5,5</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">Lucro</span><span style="font-family:Arial"> (perda) antes do tributação e do item extraordinário</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">19,5</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">90,4</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(4,9)</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(70,4)</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Imposto (comentário 6)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(8,5)</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(12,7)</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(2,8)</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(11,5)</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Interesses minoritários</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(0,5)</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(0,4)</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">Lucro</span><span style="font-family:Arial"> (perda) atribuível à </span><span style="font-family:Arial; font-style:italic">British</span><span style="font-family:Arial"> </span><span style="font-family:Arial; font-style:italic">Airways</span><span style="font-family:Arial"> antes do item extraordinário relativo ao ativo da "Concorde" e disposições financeiras (comentário 7)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10,5</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">77,3</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(7,7)</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">58,9</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Amortização</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(135,8)</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(135,8)</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Redução antecipada do capital de dívida pública</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">160,0</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">160,0</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Desembolso de dividendo especial (inclusive imposto antecipado sobre Corporações no valor de £8,0m)</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(24,2)</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(24,2)</span></p></td></tr><tr><td style="width:122.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; text-decoration:underline">Lucro</span><span style="font-family:Arial"> (perda) atribuível à </span><span style="font-family:Arial; font-style:italic">British</span><span style="font-family:Arial"> </span><span style="font-family:Arial; font-style:italic">Airways</span><span style="font-family:Arial"> após o desembolso do dividendo especial</span></p></td><td style="width:82.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">10,5</span></p></td><td style="width:72.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">77,3</span></p></td><td style="width:52.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(7,7)</span></p></td><td style="width:58.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">58,9</span></p></td></tr></tbody></table>
+Grupo 1980 £m
+
+Grupo  1979 £ m
+
+Conselho  1980  £m
+
+Conselho  1979  £m
+
+Movimento (comentário 1)
+
+1.919,6
+
+1.640,3
+
+1.688,9
+
+1.454,5
+
+Excedente Operacional (comentário 2)
+
+29,0
+
+91,1
+
+12,6
+
+76,2
+
+Dividendos e juro líquido a receber das subsidiárias
+
+0,4
+
+2,0
+
+Empresas coligadas (comentário 3)
+
+4,7
+
+5,0
+
+-
+
+-
+
+Investimentos comerciais (comentário 4)
+
+2,4
+
+2,3
+
+0,2
+
+0,1
+
+Outros rendimentos (comentário 5)
+
+18,8
+
+11,4
+
+16,9
+
+11,3
+
+Lucro antes do custo dos empréstimos de capital, tributação e item extraordinário
+
+54,9
+
+109,8
+
+30,1
+
+89,6
+
+Custo dos empréstimos de capital (comentário 17) juros
+
+(38,1)
+
+(25,0)
+
+(37,7)
+
+(24,7)
+
+Ganhos decorrentes da flutuação da moeda
+
+2,7
+
+5,6
+
+2,7
+
+5,5
+
+Lucro (perda) antes do tributação e do item extraordinário
+
+19,5
+
+90,4
+
+(4,9)
+
+(70,4)
+
+Imposto (comentário 6)
+
+(8,5)
+
+(12,7)
+
+(2,8)
+
+(11,5)
+
+Interesses minoritários
+
+(0,5)
+
+(0,4)
+
+Lucro (perda) atribuível à British Airways antes do item extraordinário relativo ao ativo da "Concorde" e disposições financeiras (comentário 7)
+
+10,5
+
+77,3
+
+(7,7)
+
+58,9
+
+Amortização
+
+(135,8)
+
+(135,8)
+
+Redução antecipada do capital de dívida pública
+
+160,0
+
+160,0
+
+Desembolso de dividendo especial (inclusive imposto antecipado sobre Corporações no valor de £8,0m)
+
+(24,2)
+
+(24,2)
+
+Lucro (perda) atribuível à British Airways após o desembolso do dividendo especial
+
+10,5
+
+77,3
+
+(7,7)
+
+58,9
 
 (British Airways p/ o exercício encerrado a 31 de março 80)

@@ -1,5 +1,3 @@
-###DEC-047360-0-000-04-12-1959@@@
-
 DECRETO Nº 47.360, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Altino Diniz Andrade a lavrar minério de ferro, no Município de Mateus Leme, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-005743-0-000-13-08-1943@@@
-
 DECRETO-LEI N. 5.743 – DE 13 DE AGÔSTO DE 1943
 
 Transfere, de Caçapava para Baurú, a sede do 6º Regimento de Infantaria

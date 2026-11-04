@@ -1,7 +1,3 @@
-1
-
-###MPV-001173-0-000-27-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.173, DE 27 DE OUTUBRO DE 1995.
 
 Acresce parágrafo ao art. 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitação e contratos da Administração Pública e dá outras providências.

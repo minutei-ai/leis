@@ -1,5 +1,3 @@
-###DEL-008638-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.638 – DE 11 DE JANEIRO DE 1946 
 
 Fixa a percentagem a ser percebida por alguns serventuários da justiça e dá outras providências

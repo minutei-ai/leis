@@ -1,5 +1,3 @@
-###DEC-060513-0-000-28-03-1967@@@
-
 DECRETO Nº 60.513, DE 28 DE MARÇO DE 1967.
 
 Dispõe sôbre o reajuste dos preços mínimos básicos para as operações de financiamento ou aquisição de Arroz, Farinha de Mandioca Milho e Soja das Regiões Central e Meridional do País, da safra de 1966-67, fixados pelo Decreto nº 58.977, de 3 de agôsto de 1966.

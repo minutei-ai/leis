@@ -1,5 +1,3 @@
-###DEC-048533-0-000-18-07-1960@@@
-
 DECRETO Nº 48.533, DE 18 DE JULHO DE 1960.
 
 Define os Cursos da Escola de Guerra Naval que dão direito a gratificação de Serviços de Estado-Maior, de que tratam os arts. 115 e 116 da Lei nº 1.316, de 20 de janeiro de 1951.
@@ -23,8 +21,6 @@ Brasília, D.F., em 18 de julho de 1960; 139º da Independência e 72º da Repú
 JUSCELINO KUBITSCHEK
 
 J. Mattoso Maia
-
-###DEC-048533-0-000-18-07-1960@@@RET01+++
 
 DECRETO Nº 48.533, DE 18 DE JULHO DE 1960.
 

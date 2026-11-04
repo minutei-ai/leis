@@ -1,5 +1,3 @@
-###DEC-045669-0-000-31-03-1959@@@
-
 DECRETO Nº 45.669, DE 31 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores do Conselho Regional de Engenharia e Arquitetura - 7ª Região (Paraná).

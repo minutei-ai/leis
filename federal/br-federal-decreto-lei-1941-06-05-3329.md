@@ -1,5 +1,3 @@
-###DEL-003329-0-000-05-06-1941@@@
-
 DECRETO-LEI N. 3.329 – DE 5 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 2.851:025$0, à venda que especifica

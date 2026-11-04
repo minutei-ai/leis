@@ -1,5 +1,3 @@
-###DEC-007088-0-000-01-02-2010@@@
-
 DECRETO Nº 7.088, DE 1º DE FEVEREIRO DE 2010.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Islâmica do Afeganistão, firmado em Brasília, em 1º de agosto de 2006.

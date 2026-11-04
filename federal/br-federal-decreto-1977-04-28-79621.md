@@ -1,5 +1,3 @@
-###DEC-079621-0-000-28-04-1977@@@
-
 DECRETO Nº 79.621, DE 28 DE ABRIL DE 1977.
 
 Dispõe sobre a transferência do Colégio Agrícola "Benjamim Constant" para o Governo do Estado de Sergipe e dá outras providências.

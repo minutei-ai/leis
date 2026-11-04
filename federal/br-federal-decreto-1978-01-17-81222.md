@@ -1,5 +1,3 @@
-###DEC-081222-0-000-17-01-1978@@@
-
 Decreto nº 81.222, de 17 de janeiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Areia Branca, Estado do Rio Grande do Norte.

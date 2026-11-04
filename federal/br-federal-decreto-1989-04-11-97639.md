@@ -1,7 +1,3 @@
-1
-
-###DEC-097639-0-000-11-04-1989@@@
-
 DECRETO N° 97.639, DE 11 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados das Faculdades Radial São Paulo.

@@ -1,5 +1,3 @@
-###DEC-081088-0-000-21-12-1977@@@
-
 decreto nº 81.088, de 21 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Engenharia de Operação, da Faculdade de Tecnologia da Universidade Mackemzie, com sede na cidade de São Paulo, Estado de São Paulo.

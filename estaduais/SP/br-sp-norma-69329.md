@@ -1,12 +1,11 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69329)
-
 # LEI Nº 12.440, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 886/2005, do Deputado Afanasio Jazadji - PFL)
 
 ### _Dá denominação à delegacia que especifica_
 
-Dá denominação à delegacia que especifica<br>
+Dá denominação à delegacia que especifica
+
 O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:

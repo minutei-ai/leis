@@ -1,5 +1,3 @@
-###DEC-081406-0-000-27-02-1978@@@
-
 Decreto nº 81.406, de 27 de fevereiro de 1978.
 
 Prorroga prazo fixado no artigo 2º do Decreto nº 76.333 de 24 de setembro de 1975.

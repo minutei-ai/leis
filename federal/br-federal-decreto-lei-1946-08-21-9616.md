@@ -1,5 +1,3 @@
-###DEL-009616-0-000-21-08-1946@@@
-
 DECRETO-LEI N. 9.616 – DE 21 DE AGÔSTO DE 1946
 
 Altera, com redução de despesa, os Quadros I, II, III, IV, V, VI, VII, VIII, IX e X do Ministério da iação e Obras Públicas, e dá outras providências.

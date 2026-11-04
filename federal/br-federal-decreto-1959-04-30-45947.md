@@ -1,5 +1,3 @@
-###DEC-045947-0-000-30-04-1959@@@
-
 Decreto nº 45.947, de 30 de abril de 1959.
 
 Muda a denominação da 3ª Companhia de Polícia do Exército.

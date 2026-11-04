@@ -1,5 +1,3 @@
-###DEC-082344-0-000-29-09-1978@@@
-
 Decreto nº 82.344, de 29 de setembro de 1978.
 
 Declara luto oficial.

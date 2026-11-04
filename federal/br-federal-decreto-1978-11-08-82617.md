@@ -1,5 +1,3 @@
-###DEC-082617-0-000-08-11-1978@@@
-
 decreto nº 82.617, de 08 de novembro de 1978.
 
 Autoriza a doação ao Estado do Rio de Janeiro do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

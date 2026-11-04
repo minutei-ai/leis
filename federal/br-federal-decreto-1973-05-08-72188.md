@@ -1,5 +1,3 @@
-###DEC-072188-0-000-08-05-1973@@@
-
 DECRETO Nº 72.188, DE 8 DE MAIO DE 1973.
 
 Redistribui servidor agregado do Ministério da Educação e Cultura para a Escola Federal de Engenharia de Itajubá.

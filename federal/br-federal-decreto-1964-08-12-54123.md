@@ -1,5 +1,3 @@
-###DEC-054123-0-000-12-08-1964@@@
-
 DECRETO Nº 54.123, DE 12 DE AGÔSTO DE 1964.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 40.176, de 25 de outubro de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público “Banabuiú”, no Município de Quixadá, Estado do Ceará.

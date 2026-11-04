@@ -1,7 +1,3 @@
-1
-
-###DEC-097728-0-000-08-05-1989@@@
-
 DECRETO N° 97.728, DE 08 DE MAIO DE 1989
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Catanduva.

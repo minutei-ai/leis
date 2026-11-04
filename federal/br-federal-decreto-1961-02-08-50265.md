@@ -1,5 +1,3 @@
-###DEC-050265-0-000-08-02-1961@@@
-
 DECRETO Nº 50.265, DE 8 DE FEVEREIRO DE 1961.
 
 Cria a Comissão de Organização do Ministério da Indústria e do Comércio e dá outras providências.

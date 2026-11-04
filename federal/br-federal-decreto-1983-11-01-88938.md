@@ -1,5 +1,3 @@
-###DEC-088938-0-000-01-11-1983@@@
-
 Decreto nº 88.938, de 1º de novembro de 1983
 
 Regulamenta a Lei nº 7.051, de 02 de dezembro de 1982, que inclui entre as atribuições do MOBRAL a difusão de educação sanitária, nos limites que especifica, e dá outras providências.

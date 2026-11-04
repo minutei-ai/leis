@@ -1,5 +1,3 @@
-###DEC-077447-0-000-14-04-1976@@@
-
 DECRETO Nº 77.447 - DE 14 DE ABRIL DE 1976
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona, situado em Maceió, de Estado de Alagoas.

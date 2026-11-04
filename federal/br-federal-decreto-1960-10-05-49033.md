@@ -1,5 +1,3 @@
-###DEC-049033-0-000-05-10-1960@@@
-
 DECRETO Nº 49.033, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Agapito Pereira da Costa a pesquisar baritina e galena no município de Alemquer, Estado do Pará.

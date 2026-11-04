@@ -1,5 +1,3 @@
-###DEC-060776-0-000-30-05-1967@@@
-
 decreto nº 60.776, de 30 de maio de 1967.
 
 Declara de utilidade pública a “Fundação Universidade de Brasília”, com sede em Brasília - Distrito Federal

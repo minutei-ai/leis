@@ -1,5 +1,3 @@
-###DEC-069533-0-000-10-11-1971@@@
-
 DECRETO Nº 69.533 - DE 10 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção da estação telefônica, em Vila Guarani. Bairro de Vila Prudente, Município de São Paulo, Estado de São Paulo.

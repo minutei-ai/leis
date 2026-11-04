@@ -1,5 +1,3 @@
-###DEL-005723-0-000-04-08-1943@@@
-
 DECRETO-LEI N. 5.723 – DE 04 DE AGôSTO DE 1943
 
 Cria um Distrito do Departamento Nacional de Obras de Saneamento, do Ministério da Viação e Obras Públicas, em São Paulo, e dá outras providências
@@ -12,7 +10,23 @@ Art. 1º Fica criado, no Departamento Nacional de Obras de Saneamen­to, do Mini
 
 Art. 2º Ficam criadas, no Quadro I do Ministério da Viação e Obras Públicas, as seguintes funções gratificadas:                                                                                                                                                      anuais
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:7.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Distrito (D.N.O.S. – São Paulo) .....................................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 8.400,00</span></p></td></tr><tr><td style="width:7.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Turma de Obras (D.N.O.S. – São Paulo .......................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 4.800,00</span></p></td></tr><tr><td style="width:7.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Turma Administrativa (D.N.O.S. – São Paulo ...............................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 3.600,00</span></p></td></tr></tbody></table>
+1
+
+Chefe de Distrito (D.N.O.S. – São Paulo) .....................................................................
+
+Cr$ 8.400,00
+
+1
+
+Chefe de Turma de Obras (D.N.O.S. – São Paulo .......................................................
+
+Cr$ 4.800,00
+
+1
+
+Chefe de Turma Administrativa (D.N.O.S. – São Paulo ...............................................
+
+Cr$ 3.600,00
 
 Parágrafo único. A função de Chefe de Turma de Obras será exercida por funcionário da carreira de Engenheiro.
 

@@ -1,5 +1,3 @@
-###DEL-008853-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.853 – DE 24 DE JANEIRO DE 1946
 
 Altera o Regulamento para o despacho consular de aeronaves comerciais aprovado pelo Decreto-lei número 5.099 de 16 de dezembro de 1942.

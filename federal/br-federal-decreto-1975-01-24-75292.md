@@ -1,5 +1,3 @@
-###DEC-075292-0-000-24-01-1975@@@
-
 DECRETO Nº 75.292, DE 24 DE JANEIRO DE 1975.
 
 Declara perempta a concessão outorgada à Rádio Borborema S.A., para executar serviço de radiodifusão sonora em média de âmbito regional, na cidade de João Pessoa.

@@ -1,5 +1,3 @@
-###DEC-064443-0-000-02-05-1969@@@
-
 DECRETO Nº 64.443, DE 2 DE MAIO DE 1969.
 
 Declara de utilidade pública a Sociedade Literária e Caritativa Santo Agostinho, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

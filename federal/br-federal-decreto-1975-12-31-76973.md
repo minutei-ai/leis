@@ -1,5 +1,3 @@
-###DEC-076973-0-000-31-12-1975@@@
-
 DECRETO Nº 76.973, DE 31 DE DEZEMBRO DE 1975.
 
 Dispões sobre normas e padrões para prédios destinados a serviços de saúde, credenciação e contratos com os mesmo e dá outras providências.

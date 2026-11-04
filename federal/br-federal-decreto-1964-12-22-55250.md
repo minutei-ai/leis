@@ -1,5 +1,3 @@
-###DEC-055250-0-000-22-12-1964@@@
-
 DECRETO Nº 55.250, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Alcides Alves da Cunha a pesquisar minério de manganês no município de Mateus Leme, Estado de Minas Gerais.

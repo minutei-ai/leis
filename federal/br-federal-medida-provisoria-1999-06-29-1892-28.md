@@ -1,5 +1,3 @@
-###MPV-001892-0-028-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.892-28, DE 29 DE JUNHO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059316-0-000-28-09-1966@@@
-
 DECRETO Nº 59.316, DE 28 DE SETEMBRO DE 1966.
 
 Regulamento a Lei n° 4.907-65 e dá outras providências.

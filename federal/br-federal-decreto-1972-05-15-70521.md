@@ -1,5 +1,3 @@
-###DEC-070521-0-000-15-05-1972@@@
-
 DECRETO Nº 70.521, DE 15 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Cascavel - Paraná.

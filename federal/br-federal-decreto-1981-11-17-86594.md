@@ -1,5 +1,3 @@
-###DEC-086594-0-000-17-11-1981@@@
-
 DECRETO Nº 86.594, DE 17 DE NOVEMBRO DE 1981
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no município de Pacatuba, no Estado de Sergipe, e dá outras providências.

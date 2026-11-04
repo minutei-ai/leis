@@ -1,5 +1,3 @@
-###DEL-004283-0-000-30-04-1942@@@
-
 DECRETO-LEI N. 4.283 – DE 30 DE ABRIL DE 1942
 
 Prorroga o prazo fixado no art. 4º do decreto-lei n. 4.166, de 11 de março de 1942

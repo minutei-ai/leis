@@ -1,5 +1,3 @@
-###DEC-064867-0-000-24-07-1969@@@
-
 DECRETO Nº 64.867 - DE 24 DE JUlHO DE 1969.
 
 Institui o Fundo Nacional de Saúde (FNS), vinculado ao Ministério da Saúde e dá outras providências.

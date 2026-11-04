@@ -1,5 +1,3 @@
-###DEC-089626-0-000-08-05-1984@@@
-
 Decreto nº 89.626, de O8 de maio de 1984
 
 Renova, por 10 (dez) anos, as concessões outorgadas às entidades que menciona, para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

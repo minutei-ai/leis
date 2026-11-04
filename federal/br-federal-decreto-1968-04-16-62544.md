@@ -1,5 +1,3 @@
-###DEC-062544-0-000-16-04-1968@@@
-
 DECRETO Nº 62.544, DE 16 DE ABRIL DE 1968.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Prefeitura Municipal de Conceição das Alagoas no município de Conceição das Alagoas, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S. A. no município de Conceição das Alagoas, Estado de Minas Gerais e dá outras providências.

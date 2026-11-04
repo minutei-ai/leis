@@ -1,5 +1,3 @@
-###DEC-005958-0-000-07-11-2006@@@
-
 DECRETO Nº 5.958 DE 7 DE NOVEMBRO DE 2006.
 
 Dispõe sobre a criação da Medalha “Mérito Desportivo Militar” e dá outras providências.
@@ -25,5 +23,3 @@ Brasília, 7 de novembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
      Waldir Pires
-
-Este texto não substitui o publicado no DOU de 8.11.2006

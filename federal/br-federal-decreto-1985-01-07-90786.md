@@ -1,5 +1,3 @@
-###DEC-090786-0-000-07-01-1985@@@
-
 Decreto nº 90.786, de 07 de janeiro de 1985
 
 Aumenta o capital da Companhia de Financiamento da Produção.

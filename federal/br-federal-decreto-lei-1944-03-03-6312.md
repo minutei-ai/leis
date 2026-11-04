@@ -1,5 +1,3 @@
-###DEL-006312-0-000-03-03-1944@@@
-
 DECRETO-LEI  N. 6.312 – DE 3 DE MARÇO DE 1944
 
 Extingue o 4º Esquadrão de Trem

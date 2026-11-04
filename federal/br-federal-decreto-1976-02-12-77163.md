@@ -1,5 +1,3 @@
-###DEC-077163-0-000-12-02-1976@@@
-
 DECRETO Nº 77.163, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia Florestal da Escola Superior de Agricultura "Luiz de Queiroz", com sede na cidade de Piracicaba, Estado de São Paulo.

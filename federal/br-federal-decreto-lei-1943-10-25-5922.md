@@ -1,5 +1,3 @@
-###DEL-005922-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.922 – DE 25 DE OUTUBRO DE 1943
 
 Altera a redação do art. 330 da Consolidação das Leis do Trabalho, aprovado pelo decreto‑lei n. 5.452, de 1 de maio de 1943

@@ -1,5 +1,3 @@
-###DEC-053322-0-000-18-12-1963@@@
-
 DECRETO Nº 53.322, DE 18 DE DEZEMBRO DE 1963.
 
 Cria cargos e função gratificada no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068506-0-000-14-04-1971@@@
-
 DECRETO Nº 68.506 - DE 14 DE ABRIL DE 1971.
 
 Declara de utilidade pública a Sociedade Religiosa Israelita Talmud Torah-Hertzlia, com sede no Estado da Guanabara.

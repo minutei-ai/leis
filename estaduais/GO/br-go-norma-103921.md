@@ -20,8 +20,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 30 de março de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

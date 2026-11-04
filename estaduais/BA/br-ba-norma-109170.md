@@ -1,6 +1,7 @@
 LEI Nº 8.535 DE 13 DE DEZEMBRO DE 2002
 
-Ver também:<br>
+Ver também:
+
 Art. [12](https://www.legislabahia.ba.gov.br/documentos/lei-no-9003-de-30-de-janeiro-de-2004#art12) da , de 30 de janeiro de 2004: "Revogam-se as disposições em contrário, em especial as constantes das Leis nos 7.249, de 07 de janeiro de 1998, 7.593, de 20 de janeiro de 2000, e 8.535, de 13 de dezembro de 2002."
 
 Altera dispositivos da Lei nº [7.249](https://www.legislabahia.ba.gov.br/documentos/lei-no-7249-de-07-de-janeiro-de-1998) , de 07 de janeiro de 1998, que dispõe sobre o Sistema de Seguridade Social dos Servidores Públicos do Estado da Bahia, e dá outras providências.

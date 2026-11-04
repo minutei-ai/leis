@@ -1,5 +1,3 @@
-###DEC-096580-0-000-24-08-1988@@@
-
 DECRETO N° 96.580, DE 24 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Tangará da Serra, Mato Grosso.

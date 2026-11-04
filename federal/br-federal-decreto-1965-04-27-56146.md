@@ -1,5 +1,3 @@
-###DEC-056146-0-000-27-04-1965@@@
-
 DECRETO Nº 56.146, DE 27 DE ABRIL DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Seguradora Indústria e Comércio S.A., relativa ao aumento do capital social.

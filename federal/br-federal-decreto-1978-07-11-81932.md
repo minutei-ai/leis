@@ -1,5 +1,3 @@
-###DEC-081932-0-000-11-07-1978@@@
-
 Decreto nº 81.932, de 11 de julho de 1978.
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Especializadas do Ensino de 2º grau, Esquemas I e II da Faculdade de Formação de Professores, mantida pela Instiutição Educacional São Judas Tadeu, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

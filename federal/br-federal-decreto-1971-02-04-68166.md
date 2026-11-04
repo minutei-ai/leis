@@ -1,5 +1,3 @@
-###DEC-068166-0-000-04-02-1971@@@
-
 DECRETO nº 68.166, de 4 de Fevereiro de 1971.
 
 Concede reconhecimento de Cursos da Faculdade de Filosofia de Ciências e Letras de Penápolis - S.P.

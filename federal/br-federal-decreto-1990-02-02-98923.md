@@ -1,7 +1,3 @@
-1
-
-###DEC-098923-0-000-02-02-1990@@@
-
 DECRETO Nº 98.923, DE 2 DE FEVEREIRO DE 1990
 
 Outorga concessão à SOCIEDADE DE TELEVISÃO MANAUARA LTDA., radiodifusão sonora em onda média, na Cidade de Boca do Acre, Estado do Amazonas.

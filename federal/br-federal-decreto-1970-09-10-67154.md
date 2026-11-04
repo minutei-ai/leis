@@ -1,5 +1,3 @@
-###DEC-067154-0-000-10-09-1970@@@
-
 decreto nº 67.154, de 10 de setembro de 1970.
 
 Transfere à Subsecretaria de Cooperação Econômica e Técnica Internacional - SUBIN - do Ministério do Planejamento e Coordenação Geral, as atribuições e os recursos da COPAC, e dá outras providências.

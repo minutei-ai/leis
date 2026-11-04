@@ -1,5 +1,3 @@
-###DEC-056516-0-000-28-06-1965@@@
-
 decreto nº 56.516, de 28 de junho de 1965.
 
 Modifica a distribuição do ensino da Escola de Especialistas da Aeronáutica, nos Cursos de Formação de Sargentos.

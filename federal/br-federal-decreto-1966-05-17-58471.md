@@ -1,5 +1,3 @@
-###DEC-058471-0-000-17-05-1966@@@
-
 decreto nº 58.471, de 17 de maio de 1966.
 
 Concede à Emprêsa de Desenvolvimento de Recursos Minerais “Codemin” Ltda., autorização para funcionar como emprêsa de mineração.

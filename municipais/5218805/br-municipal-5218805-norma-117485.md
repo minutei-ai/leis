@@ -6,7 +6,8 @@ Concede remissão e isenção de taxas ao Transporte Escolar Rural.
 
 Art. 1º Fica concedida a remissão e isenção, no exercício de 2021, aos prestadores de serviço do Transporte Escolar do município de Rio Verde, do pagamento das taxas previstas na Tabela XI, item V, (TAXA DE EXPEDIENTE QUE COMPÕE A RECEITA DO TESOURO, COBRADA PELA SMT) do Código Tributário Municipal (Lei Complementar n. 5.727/2009), conforme tabela abaixo:
 
-**TABELA XI**<br>
+**TABELA XI**
+
 TAXA DE EXPEDIENTE E SERVIÇOS
 
 ...................................................................................................

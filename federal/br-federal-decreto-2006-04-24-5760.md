@@ -1,5 +1,3 @@
-###DEC-005760-0-000-24-04-2006@@@
-
 DECRETO Nº 5.760, DE 24 DE ABRIL DE 2006.
 
 Promulga o Segundo Protocolo relativo à Convenção da Haia de 1954 para a Proteção de Bens Culturais em Caso de Conflito Armado, celebrado na Haia, em 26 de março de 1999.

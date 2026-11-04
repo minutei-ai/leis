@@ -1,5 +1,3 @@
-###DEC-092243-0-000-30-12-1985@@@
-
 Decreto nº 92.243, de 30 de dezembro dE 1985
 
 Renova a concessão outorgada à RÁDIO HERTZ DE FRANCA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Franca, Estado de São Paulo.

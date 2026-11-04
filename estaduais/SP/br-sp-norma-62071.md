@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62071)
-
 # LEI Nº 12.331, DE 12 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 598/2005, do Deputado Roberto Morais - PPS)

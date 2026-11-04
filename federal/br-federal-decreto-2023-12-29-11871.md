@@ -2,8 +2,7 @@
 
 > **Anexo recuperado — Presidência da República — Planalto.** Fonte do anexo: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11871.htm (capturada em 2026-11-03T17:50:53Z, SHA-256 da fonte `e50f1d3fa90a7e92a0a1daa50ca58a7360c680e517cbbd39afdafe91c5055ade`, SHA-256 do conteúdo sem script de proteção `327702931561c8532b1e5d3d4fd6212bc488d39493f06d41b1d12e87a532295a`). Snapshot: `provas/decretos-atualizacao-14133/fontes/planalto-d11871.htm.xz`. Prova de cobertura de todas as linhas: `provas/decretos-atualizacao-14133/cobertura-anexos.json`.
 >
-> Este texto não substitui o publicado no DOU de 29.12.2023 - Edição extra.
->
+>>
 > Na captura, a página do Planalto exibe o ato com marcação de revogação (Decreto nº 12.343, de 2024) e `text-decoration:line-through` no corpo e no anexo. Este arquivo preserva o texto do decreto e o anexo sem aplicar essa marcação posterior de revogação; não certifica vigência.
 >
 > O corpo dos artigos e assinaturas abaixo preserva a redação já publicada neste acervo (originalmente proveniente de normas.leg.br / Senado). O anexo de valores foi recuperado da página HTML do Planalto (https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11871.htm). Diferenças editoriais da página do Planalto em relação a esse corpo — faixas de Vigência/Revogado, brasão e links internos do Planalto — não foram incorporadas ao corpo já publicado. O aviso de que o texto não substitui o DOU, presente na fonte, foi colocado entre as assinaturas e o anexo, como na página oficial, e também consta nesta nota.
@@ -34,11 +33,7 @@ Brasília, 29 de dezembro de 2023; 202º da Independência e 135º da República
 
 LUIZ INÁCIO LULA DA SILVA
 
-Cristina Kiomi Mori
-
-Este texto não substitui o publicado no DOU de 29.12.2023 - Edição extra.
-
-ANEXO
+Cristina Kiomi MoriANEXO
 
 ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA LEI Nº 14.133, DE 1º DE ABRIL DE 2021
 

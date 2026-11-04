@@ -1,5 +1,3 @@
-###DEC-059660-0-000-05-12-1966@@@
-
 decreto nº 59.660, de 5 de dezembro de 1966.
 
 Renova a declaração de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, as áreas de terreno situadas no Estado de Santa Catarina.

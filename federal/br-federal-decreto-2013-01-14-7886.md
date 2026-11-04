@@ -1,5 +1,3 @@
-###DEC-007886-0-000-14-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.886, DE 14 DE JANEIRO DE 2013
 
 Fixa, para o Exército, os quantitativos de vagas para promoções obrigatórias de oficiais das Armas, Quadros e Serviços que menciona, no ano-base de 2012.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098954-0-000-15-02-1990@@@
-
 DECRETO N° 98.954, DE 15 DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE RIO BRILHANTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Rio Brilhante, Estado do Mato Grosso do Sul.

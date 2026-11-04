@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211830)<br>
-
 # LEI N° 18.324, DE 14 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 1628/2023, do Deputado Itamar Borges - MDB)

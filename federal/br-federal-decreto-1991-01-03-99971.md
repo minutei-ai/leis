@@ -1,5 +1,3 @@
-###DEC-099971-0-000-03-01-1991@@@
-
 # DECRETO Nº 99.971, DE 3 DE JANEIRO DE 1991
 
 Cria Comissão Especial para promover a revisão das normas e critérios relativos à demarcação e proteção das terras indígenas.

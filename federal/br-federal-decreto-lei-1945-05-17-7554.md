@@ -1,5 +1,3 @@
-###DEL-007554-0-000-17-05-1945@@@
-
 DECRETO-LEI N. 7.554 – DE 17 DE MAIO DE 1945
 
 Cria uma coletoria federal no Município de Pitanga, no Estado do Paraná, e dá outras providências

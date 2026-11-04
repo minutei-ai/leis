@@ -1,5 +1,3 @@
-###DEC-059577-0-000-21-11-1966@@@
-
 DECRETO Nº 59.577, DE 21 DE NOVEMBRO DE 1966.
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de Cr$153.000.000 (cento e cinqüenta e três milhões de cruzeiros), para o fim que especifica.

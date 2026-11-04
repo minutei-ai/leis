@@ -1,5 +1,3 @@
-###DEC-053007-0-000-27-11-1963@@@
-
 DECRETO Nº 53.007, DE 27 DE NOVEMBRO DE 1963.
 
 Transfere da firma Araújo Buagarin & Cia, para a Prefeitura municipal de União dos palmares a concessão para distribuir energia elétrica no Município.

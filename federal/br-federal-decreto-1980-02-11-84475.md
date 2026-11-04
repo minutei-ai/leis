@@ -1,5 +1,3 @@
-###DEC-084475-0-000-11-02-1980@@@
-
 DECRETO Nº 84.475, DE 11 DE FEVEREIRO DE 1980.
 
 Altera a subordinação de Organização Militar no Ministério do Exército.

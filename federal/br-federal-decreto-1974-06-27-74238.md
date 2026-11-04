@@ -1,5 +1,3 @@
-###DEC-074238-0-000-27-06-1974@@@
-
 DECRETO Nº 74.238, DE 27 DE JUNHO DE 1974.
 
 Concede reconhecimento ao curso de Ciências da Universidade Católica de Petrópolis, Estado do Rio de Janeiro.

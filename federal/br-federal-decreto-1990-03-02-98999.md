@@ -1,7 +1,3 @@
-1
-
-###DEC-098999-0-000-02-03-1990@@@
-
 DECRETO Nº 98.999, DE 2 DE MARÇO DE 1990.
 
 Institui telejornal com registro das atividades do Poder Legislativo.

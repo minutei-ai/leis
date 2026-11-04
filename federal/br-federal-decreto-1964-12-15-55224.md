@@ -1,5 +1,3 @@
-###DEC-055224-0-000-15-12-1964@@@
-
 DECRETO Nº 55.224, de 15 de dezembro de 1964.
 
 Autoriza a Sociedade Carbonífera Próspera S.A. a pesquisar minérios de ferro, de manganês e bauxita no município de Ouro Prêto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-083268-0-000-12-03-1979@@@
-
 Decreto nº 83.268, de 12 de março de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativas, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

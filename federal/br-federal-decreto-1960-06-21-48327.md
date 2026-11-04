@@ -1,5 +1,3 @@
-###DEC-048327-0-000-21-06-1960@@@
-
 Decreto nº 48.327, de 21 de junho de 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura,; que menciona.

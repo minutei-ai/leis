@@ -1,5 +1,3 @@
-###DEL-001299-0-000-28-12-1973@@@
-
 # DECRETO-LEI Nº 1.299, DE 28 DE DEZEMBRO DE 1973
 
 Dispõe sobre acréscimo às alíquotas do imposto de importação e dá outras providências.

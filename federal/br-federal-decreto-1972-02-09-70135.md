@@ -1,5 +1,3 @@
-###DEC-070135-0-000-09-02-1972@@@
-
 DECRETO Nº 70.135, DE 9 DE FEVEREIRO DE 1972.
 
 Torna sem efeito aproveitamento de disponíveis na Universidade Federal Rural de Pernambuco.

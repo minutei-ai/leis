@@ -1,7 +1,3 @@
-1
-
-###DEC-095792-0-000-07-03-1988@@@
-
 DECRETO N° 95.792, DE 7 DE MARÇO DE 1988
 
 Dispõe sobre a criação de Comissão Interministerial para apoio ao desenvolvimento da carcinicultura no Nordeste.

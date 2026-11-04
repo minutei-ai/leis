@@ -1,5 +1,3 @@
-###DEC-047462-0-000-22-12-1959@@@
-
 DECRETO Nº 47.462, DE 22 DE DEZEMBRO DE 1959.
 
 Outorga concessão à Rádio Difusora Pôrto Alegrense Limitada para estabelecer uma estação de radiotelevisão na cidade de Pôrto Alegre, Estado do Rio Grande do Sul.

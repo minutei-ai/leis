@@ -1,5 +1,3 @@
-###DEC-079393-0-000-15-03-1977@@@
-
 DECRETO Nº 79.393, de 15 DE março DE 1977.
 
 Outorga concessão à Rádio Cultura de Andirá Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Andirá, Estado do Paraná.

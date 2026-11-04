@@ -1,5 +1,3 @@
-###DEC-099989-0-000-11-01-1991@@@
-
 DECRETO Nº 99.989, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Companhia de Eletricidade do Estado da Bahia - COELBA, a área de terra que menciona.

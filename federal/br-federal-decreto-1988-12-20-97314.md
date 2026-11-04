@@ -1,5 +1,3 @@
-###DEC-097314-0-000-20-12-1988@@@
-
 DECRETO Nº 97.314, DE 20 DE DEZEMBRO DE 1988
 
 Cria Comissão Especial, para os fins que especifica, e dá outras providências.

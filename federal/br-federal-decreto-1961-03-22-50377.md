@@ -1,5 +1,3 @@
-###DEC-050377-0-000-22-03-1961@@@
-
 DECRETO Nº 50.377, DE 22 DE MARÇO DE 1961.
 
 Altera o Regulamento da Diretoria de Aperfeiçoamento e Especialização.

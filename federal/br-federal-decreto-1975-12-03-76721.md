@@ -1,5 +1,3 @@
-###DEC-076721-0-000-03-12-1975@@@
-
 DECRETO Nº 76.721, de 3 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública  interesse social área de terra abrangida pelo Projeto e Irrigação "Cachoeira II", no Município de Serra talhada, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###MPV-002223-0-000-04-09-2001@@@
-
 MEDIDA PROVISÓRIA No 2.223, DE 4 DE SETEMBRO DE 2001.
 
  Dispõe sobre a Letra de Crédito Imobiliário, a Cédula de Crédito Imobiliário e dá outras providências.

@@ -29,7 +29,3 @@ Art. 3º - Revogadas às disposições em contrário, entrará este Decreto-lei 
 Palácio da Liberdade, em Belo Horizonte, 24 de fevereiro de 1947.
 
 Alcides Lins - Interventor Federal.
-
-\================================================================
-
-Data da última atualização: 04/09/2006.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183760)
-
 # DECRETO Nº 62.894, DE 24 DE OUTUBRO DE 2017
 
 ### _Dá nova redação ao artigo 23 do Decreto nº 23.289, de 26 de fevereiro de 1985, que cria e organiza, no Instituto de Assistência Médica ao Servidor Público Estadual, a Divisão de Enfermagem do Hospital do Servidor Público Estadual "Francisco Morato de Oliveira" e dá providências correlatas_
@@ -18,8 +16,12 @@ Palácio dos Bandeirantes, 24 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Moacir Rossetti<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Moacir Rossetti
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo
+
 Publicado na Secretaria de Governo, aos 24 de outubro de 2017.

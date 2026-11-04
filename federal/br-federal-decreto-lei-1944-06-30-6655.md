@@ -1,5 +1,3 @@
-###DEL-006655-0-000-30-06-1944@@@
-
 DECRETO-LEI N. 6.655 – DE 30 DE Junho DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério de Educação e Saúde e dá outras providências

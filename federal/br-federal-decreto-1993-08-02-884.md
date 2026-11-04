@@ -1,7 +1,3 @@
-1
-
-###DEC-000884-0-000-02-08-1993@@@
-
 DECRETO N° 884, DE 2 DE AGOSTO DE 1993
 
 Promulga o Estatuto Orgânico do Instituto Internacional para a Unificação do Direito Privado (UNIDROIT), concluído em Roma, em 15 de março de 1940.

@@ -1,5 +1,3 @@
-###DEC-001807-0-000-06-02-1996@@@
-
 DECRETO N° 1.807, DE 6 DE FEVEREIRO DE 1996
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

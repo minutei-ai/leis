@@ -257,7 +257,3 @@ DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER-MG
 Cargos de Chefia e Assessoramento Intermediário
 
 DENOMINAÇÃO DO CARGO Nº DE CARGOS FORMA DE RECRUTAMENTO FATOR DE AJUSTAMENTO Assessor I 50 Limitado 1,02410 Assessor II 40 Limitado 1,20930 Assessor III 13 Limitado 1,55450 Assistente de Nível Superior 49 Limitado 0,91760 Chefe de Divisão 21 Limitado 1,55450 Chefe de Seção Administrativa 147 Limitado 0,71890 Chefe de Seção Técnica 17 Limitado 1,02410 Chefe de Serviço 40 Limitado 1,20930 Chefe de Setor Técnico 04 Limitado 0,91760 Consultor Técnico 09 Limitado 1,55450 Coordenador Regional 40 Limitado 1,55450 Corregedor Chefe 01 Limitado 1,55450 Encarregado I 05 Limitado 0,26720 Encarregado II 02 Limitado 0,37160 Encarregado III 100 Limitado 0,41480 Encarregado IV 102 Limitado 0,46310 Encarregado V 18 Limitado 0,51690 Encarregado VI 71 Limitado 0,57700 Encarregado VII 78 Limitado 0,71890 Fiscal Vistoriador 227 Limitado 0,51690 Inspetor de Transporte Coletivo 12 Limitado 0,57700 Inspetor de Turma de Laboratório 02 Limitado 0,71890 Inspetor de Turma de Topografia 01 Limitado 0,71890 Pagador-Recebedor 03 Limitado 0,71890 Secretário da Diretoria-Geral 04 Limitado 0,51690 Secretário de Unidades Colegiadas 03 Limitado 0,57700 Secretário I 24 Limitado 0,41480 Secretário II 09 Limitado 0,46310
-
-\======================================
-
-Data da última atualização: 25/1/2011.

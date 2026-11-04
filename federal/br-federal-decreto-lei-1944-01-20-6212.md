@@ -1,5 +1,3 @@
-###DEL-006212-0-000-20-01-1944@@@
-
 DECRETO-LEI N. 6.212 – DE 20 DE JANEIRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 570.125,00 para as despesas com o Serviço de Comunicações

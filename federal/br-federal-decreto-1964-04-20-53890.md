@@ -1,5 +1,3 @@
-###DEC-053890-0-000-20-04-1964@@@
-
 DECRETO Nº 53.890, DE 20 DE ABRIL DE 1964.
 
 Dispõe sôbre as atribuições do Ministro de Estado Extraordinário para o Planejamento e Coordenação Econômica.

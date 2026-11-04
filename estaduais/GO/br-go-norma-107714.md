@@ -1,5 +1,7 @@
-DECRETO Nº 10.318, DE 12 DE SETEMBRO DE 2023<br>
-\- [Vide Decreto nº 10.604, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110158) - Altera a estrutura Administrativa da SEAPA.<br>
+DECRETO Nº 10.318, DE 12 DE SETEMBRO DE 2023
+
+\- [Vide Decreto nº 10.604, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110158) - Altera a estrutura Administrativa da SEAPA.
+
 \- [Vide Decreto nº 10.338, de 31-10-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107910/decreto-10338) - Altera a Estrutura Administrativa da SEAPA.
 
 Aprova o Regulamento da Secretaria de Estado de Agricultura, Pecuária e Abastecimento.
@@ -92,73 +94,96 @@ g) Superintendência de Gestão Integrada:
 
 7\. Gerência de Compras Governamentais;
 
-~~h) Superintendência de Produção Rural:~~<br>
+~~h) Superintendência de Produção Rural:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~1\. Gerência de Inteligência de Mercado Agropecuário;~~<br>
+~~1\. Gerência de Inteligência de Mercado Agropecuário;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~2\. Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária;~~<br>
+~~2\. Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~3\. Gerência de Desenvolvimento Regional e Inovação Agropecuária; e~~<br>
+~~3\. Gerência de Desenvolvimento Regional e Inovação Agropecuária; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~4\. Gerência de Agricultura Familiar e Inclusão Produtiva; e~~<br>
+~~4\. Gerência de Agricultura Familiar e Inclusão Produtiva; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~i) Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável:~~<br>
+~~i) Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~1\. Gerência de Gestão Patrimonial e Regularização Fundiária;~~<br>
+~~1\. Gerência de Gestão Patrimonial e Regularização Fundiária;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~2\. Gerência de Irrigação, Clima e Aquicultura;~~<br>
+~~2\. Gerência de Irrigação, Clima e Aquicultura;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~3\. Gerência de Infraestrutura Rural; e~~<br>
+~~3\. Gerência de Infraestrutura Rural; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-~~4\. Gerência de Sustentabilidade Agropecuária.~~<br>
+~~4\. Gerência de Sustentabilidade Agropecuária.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, I.
 
-j) Escritório de Projetos Setorial;<br>
+j) Escritório de Projetos Setorial;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-k) Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva;<br>
+k) Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-1\. Superintendência de Produção Rural:<br>
+1\. Superintendência de Produção Rural:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-1.1. Gerência de Inteligência de Mercado Agropecuária;<br>
+1.1. Gerência de Inteligência de Mercado Agropecuária;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-1.2. Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária;<br>
+1.2. Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-1.3. Gerência de Desenvolvimento Regional e Inovação Agropecuária; e<br>
+1.3. Gerência de Desenvolvimento Regional e Inovação Agropecuária; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-1.4. Gerência de Agricultura Familiar e Inclusão Produtiva; e<br>
+1.4. Gerência de Agricultura Familiar e Inclusão Produtiva; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-2\. Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável:<br>
+2\. Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-2.1. Gerência de Gestão Patrimonial e Regularização Fundiária;<br>
+2.1. Gerência de Gestão Patrimonial e Regularização Fundiária;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-2.2. Gerência de Gestão Hídrica e Aquicultura Sustentável;<br>
+2.2. Gerência de Gestão Hídrica e Aquicultura Sustentável;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-2.3. Gerência de Infraestrutura Rural;<br>
+2.3. Gerência de Infraestrutura Rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-2.4. Gerência de Sustentabilidade Agropecuária; e<br>
+2.4. Gerência de Sustentabilidade Agropecuária; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-2.5. Gerência de Infraestrutura de Irrigação e Barragens.<br>
+2.5. Gerência de Infraestrutura de Irrigação e Barragens.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 CAPÍTULO IV
@@ -187,67 +212,84 @@ Art. 5º O CONDRA, de natureza participativa e representativa, promove a articul
 
 Art. 6º Compete ao CONDRA:
 
-I – promover a efetiva articulação e o aperfeiçoamento das relações do Governo do Estado com órgãos federais atuantes no desenvolvimento rural e agropecuário em Goiás;<br>
+I – promover a efetiva articulação e o aperfeiçoamento das relações do Governo do Estado com órgãos federais atuantes no desenvolvimento rural e agropecuário em Goiás;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~I – coordenar a Câmara Temática de Estratégia, Competitividade e Políticas Públicas do Agronegócio do Estado de Goiás – O AGRO É DE TODOS;~~
 
-II – discutir ações previstas na Lei nº 8.171, de 17 de janeiro de 1991, que dispõe sobre a política agrícola, e no Decreto nº 1.946, de 28 de junho de 1996, que cria o Programa Nacional de Fortalecimento da Agricultura Familiar – PRONAF, deliberar sobre essas ações e colaborar com a efetivação delas;<br>
+II – discutir ações previstas na Lei nº 8.171, de 17 de janeiro de 1991, que dispõe sobre a política agrícola, e no Decreto nº 1.946, de 28 de junho de 1996, que cria o Programa Nacional de Fortalecimento da Agricultura Familiar – PRONAF, deliberar sobre essas ações e colaborar com a efetivação delas;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~II – colaborar com a SEAPA e com os demais órgãos vinculados ao setor na consecução de seus objetivos e metas;~~
 
-III – deliberar sobre o Plano Estadual de Desenvolvimento Rural Sustentável, em articulação com a Política de Desenvolvimento do Brasil Rural, o Plano Nacional de Desenvolvimento Rural Sustentável e o Plano Nacional de Reforma Agrária, em interação com as diretrizes, os objetivos e as metas do Programa Estadual de Reforma Agrária e do Programa de Agricultura Familiar;<br>
+III – deliberar sobre o Plano Estadual de Desenvolvimento Rural Sustentável, em articulação com a Política de Desenvolvimento do Brasil Rural, o Plano Nacional de Desenvolvimento Rural Sustentável e o Plano Nacional de Reforma Agrária, em interação com as diretrizes, os objetivos e as metas do Programa Estadual de Reforma Agrária e do Programa de Agricultura Familiar;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~III – apreciar os planos macroeconômicos de desenvolvimento do agronegócio;~~
 
-IV – discutir e apoiar as atividades e as diretrizes do Programa Nacional de Desenvolvimento dos Territórios Rurais, além de colaborar com a efetivação delas;<br>
+IV – discutir e apoiar as atividades e as diretrizes do Programa Nacional de Desenvolvimento dos Territórios Rurais, além de colaborar com a efetivação delas;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~IV – estimular a formação e o desenvolvimento de empresas rurais e agroindústrias;~~
 
-V – pautar-se nos objetivos, nas discussões e nas definições do Conselho Nacional de Desenvolvimento Rural Sustentável – CONDRAF, ou conselho equivalente, para a proposição de diretrizes e a formulação e a implementação de políticas públicas previstas na Lei nº 11.326, de 24 de julho de 2006, que estabelece as diretrizes para a formulação da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais, para a constituição de espaço de interlocução e articulação entre os diferentes níveis de governo e as organizações da sociedade civil;<br>
+V – pautar-se nos objetivos, nas discussões e nas definições do Conselho Nacional de Desenvolvimento Rural Sustentável – CONDRAF, ou conselho equivalente, para a proposição de diretrizes e a formulação e a implementação de políticas públicas previstas na Lei nº 11.326, de 24 de julho de 2006, que estabelece as diretrizes para a formulação da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais, para a constituição de espaço de interlocução e articulação entre os diferentes níveis de governo e as organizações da sociedade civil;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~V – auxiliar na elaboração e no monitoramento do Plano Plurianual – PPA, da Lei de Diretrizes Orçamentárias – LDO e da Lei Orçamentária Anual – LOA do Estado de Goiás; e~~
 
-VI – propor estratégias de acompanhamento, monitoramento, avaliação e participação no processo deliberativo de diretrizes e procedimentos das políticas relacionadas com o desenvolvimento rural;<br>
+VI – propor estratégias de acompanhamento, monitoramento, avaliação e participação no processo deliberativo de diretrizes e procedimentos das políticas relacionadas com o desenvolvimento rural;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~VI – articular e propor adequação de políticas públicas estaduais às necessidades da reforma agrária e da agricultura familiar para o desenvolvimento rural sustentável.~~
 
-VII – acompanhar as diretrizes estabelecidas pelo Conselho Nacional de Política Agrícola, pelo Conselho Nacional de Desenvolvimento Rural Sustentável e pelos Colegiados Territoriais e Conselhos Municipais de Desenvolvimento Rural Sustentável, de interesse comum do setor público agrícola do Estado de Goiás;<br>
+VII – acompanhar as diretrizes estabelecidas pelo Conselho Nacional de Política Agrícola, pelo Conselho Nacional de Desenvolvimento Rural Sustentável e pelos Colegiados Territoriais e Conselhos Municipais de Desenvolvimento Rural Sustentável, de interesse comum do setor público agrícola do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – possibilitar a adoção de políticas que conduzam ao desenvolvimento da economia agrícola competitiva e sustentável;<br>
+VIII – possibilitar a adoção de políticas que conduzam ao desenvolvimento da economia agrícola competitiva e sustentável;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – colaborar com a SEAPA e com os órgãos vinculados ao setor na consecução de seus objetivos e metas;<br>
+IX – colaborar com a SEAPA e com os órgãos vinculados ao setor na consecução de seus objetivos e metas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – apreciar os planos macroeconômicos e sociais de desenvolvimento rural e agropecuário em Goiás;<br>
+X – apreciar os planos macroeconômicos e sociais de desenvolvimento rural e agropecuário em Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XI – incentivar, ampliar e consolidar o processo de empresas rurais, especialmente em arranjo cooperativo e agroindustrialização da produção, para a inserção diferenciada nos mercados, como forma de proporcionar uma melhoria na renda, com a geração de novos empregos e novas arrecadações nas economias locais;<br>
+XI – incentivar, ampliar e consolidar o processo de empresas rurais, especialmente em arranjo cooperativo e agroindustrialização da produção, para a inserção diferenciada nos mercados, como forma de proporcionar uma melhoria na renda, com a geração de novos empregos e novas arrecadações nas economias locais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XII – contribuir para a elaboração e o acompanhamento da proposta orçamentária do setor público agrícola do Estado de Goiás (Plano Plurianual, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual);<br>
+XII – contribuir para a elaboração e o acompanhamento da proposta orçamentária do setor público agrícola do Estado de Goiás (Plano Plurianual, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual);
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIII – articular-se e propor adequações de políticas públicas federais, estaduais, municipais e territoriais às necessidades do crescimento harmônico dos setores e das atividades da produção agropecuária, sempre na perspectiva do desenvolvimento rural e agropecuário;<br>
+XIII – articular-se e propor adequações de políticas públicas federais, estaduais, municipais e territoriais às necessidades do crescimento harmônico dos setores e das atividades da produção agropecuária, sempre na perspectiva do desenvolvimento rural e agropecuário;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIV – propor a adequação de políticas públicas federais às demandas da sociedade e às necessidades do desenvolvimento rural e agropecuário do Estado de Goiás;<br>
+XIV – propor a adequação de políticas públicas federais às demandas da sociedade e às necessidades do desenvolvimento rural e agropecuário do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XV – estimular a ampliação e o aperfeiçoamento dos mecanismos de participação e controle social, por intermédio de rede nacional de órgãos colegiados estaduais, regionais e municipais;<br>
+XV – estimular a ampliação e o aperfeiçoamento dos mecanismos de participação e controle social, por intermédio de rede nacional de órgãos colegiados estaduais, regionais e municipais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XVI – propor a atualização da legislação relacionada com as atividades de desenvolvimento rural e agropecuário, gestão territorial, justiça ambiental, reforma agrária e agricultura familiar; e<br>
+XVI – propor a atualização da legislação relacionada com as atividades de desenvolvimento rural e agropecuário, gestão territorial, justiça ambiental, reforma agrária e agricultura familiar; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XVII – fomentar ações preventivas e diretas contra as violações de direitos culturais, sociais, econômicos, ambientais e políticos no meio rural, conforme a legislação pertinente.<br>
+XVII – fomentar ações preventivas e diretas contra as violações de direitos culturais, sociais, econômicos, ambientais e políticos no meio rural, conforme a legislação pertinente.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 Seção II
@@ -476,10 +518,12 @@ XVI – acompanhar os planos e as ações instituídos na atuação da SEAPA, al
 
 XVII – contribuir no estabelecimento e na difusão de fluxos de procedimentos, processos e boas práticas na SEAPA;
 
-~~XVIII – promover a governança e a intersetorialidade na gestão de projetos e convênios;~~<br>
+~~XVIII – promover a governança e a intersetorialidade na gestão de projetos e convênios;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, II.
 
-~~XIX – coordenar, sob a orientação da Controladoria-Geral do Estado – CGE, a implantação do Programa de _Compliance_ Público – PCP do Estado de Goiás;~~<br>
+~~XIX – coordenar, sob a orientação da Controladoria-Geral do Estado – CGE, a implantação do Programa de _Compliance_ Público – PCP do Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, II.
 
 XX – monitorar a efetividade dos controles para o tratamento dos riscos sob sua responsabilidade, além de observar o apetite pelo risco e a tolerância ao risco definidos pela SEAPA;
@@ -522,7 +566,8 @@ XII – encarregar– se de competências correlatas.
 
 Seção VII
 
-Da Superintendência de Gestão Integrada<br>
+Da Superintendência de Gestão Integrada
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~CAPÍTULO VII~~
@@ -567,17 +612,20 @@ XV – coordenar o processo de elaboração do Regulamento da SEAPA;
 
 XVI – coordenar a elaboração e a implementação do planejamento estratégico da SEAPA, bem como acompanhar e avaliar seus resultados;
 
-XVII – instaurar e julgar os processos de responsabilização de que trata o art. 8º da [Lei nº 18.672](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90933 "Abrir Lei Ordinária nº 18672, de 2014 em nova aba"), de 13 de novembro de 2014;<br>
+XVII – instaurar e julgar os processos de responsabilização de que trata o art. 8º da [Lei nº 18.672](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90933 "Abrir Lei Ordinária nº 18672, de 2014 em nova aba"), de 13 de novembro de 2014;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~XVII – instaurar e julgar os processos de responsabilização de que trata o art. 8º da [Lei nº 18.672](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90933), de 13 de novembro de 2014; e~~
 
-XVIII – coordenar, sob a orientação da Controladoria-Geral do Estado – CGE, a implementação do Programa de Compliance Público – PCP do Estado de Goiás; e<br>
+XVIII – coordenar, sob a orientação da Controladoria-Geral do Estado – CGE, a implementação do Programa de Compliance Público – PCP do Estado de Goiás; e
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~XVIII – encarregar-se de competências correlatas.~~
 
-XIX – encarregar-se de competências correlatas.<br>
+XIX – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 Parágrafo único. Além das competências constantes do _caput_, a Superintendência de Gestão Integrada organiza, coordena e supervisiona as seguintes unidades:
@@ -1142,156 +1190,206 @@ Seção VIII
 
 Do Escritório de Projetos Setorial
 
-Art. 24-A. Compete ao Escritório de Projetos Setorial:<br>
+Art. 24-A. Compete ao Escritório de Projetos Setorial:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – implantar a estrutura do próprio Escritório de Projetos Setorial, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+I – implantar a estrutura do próprio Escritório de Projetos Setorial, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – instituir a Rede de Gestão de Projetos da SEAPA;<br>
+II – instituir a Rede de Gestão de Projetos da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – promover o engajamento dos membros da Rede de Gestão de Projetos, bem como de outros envolvidos da SEAPA, por meio de reuniões de sensibilização, orientação e treinamento, além de outros eventos, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+III – promover o engajamento dos membros da Rede de Gestão de Projetos, bem como de outros envolvidos da SEAPA, por meio de reuniões de sensibilização, orientação e treinamento, além de outros eventos, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – apoiar a seleção e a priorização de projetos para definir o portfólio, com a observação da validação do dirigente, das demandas finalísticas da SEAPA, das prioridades governamentais e dos outros instrumentos estratégicos vigentes, caso isso se faça necessário;<br>
+IV – apoiar a seleção e a priorização de projetos para definir o portfólio, com a observação da validação do dirigente, das demandas finalísticas da SEAPA, das prioridades governamentais e dos outros instrumentos estratégicos vigentes, caso isso se faça necessário;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – orientar a correta inclusão das informações do portfólio da SEAPA no Sistema de Monitoramento e Acompanhamento de Projetos de Goiás – GOMAP e em outros indicados, de acordo com as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+V – orientar a correta inclusão das informações do portfólio da SEAPA no Sistema de Monitoramento e Acompanhamento de Projetos de Goiás – GOMAP e em outros indicados, de acordo com as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – apoiar o monitoramento geral e sistêmico dos projetos da SEAPA no GOMAP, para que seja realizado corretamente, segundo as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+VI – apoiar o monitoramento geral e sistêmico dos projetos da SEAPA no GOMAP, para que seja realizado corretamente, segundo as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – participar de reuniões de planejamento, acompanhamento e monitoramento, entre outros eventos, para a melhoria da performance do próprio Escritório de Projetos Setorial;<br>
+VII – participar de reuniões de planejamento, acompanhamento e monitoramento, entre outros eventos, para a melhoria da performance do próprio Escritório de Projetos Setorial;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – observar a adoção das boas práticas de governança e gestão de portfólio, programas e projetos pelas áreas finalísticas, para que todos os projetos tenham no mínimo os planos de gerenciamento de escopo, cronograma, custo, engajamento de partes interessadas, comunicações e riscos;<br>
+VIII – observar a adoção das boas práticas de governança e gestão de portfólio, programas e projetos pelas áreas finalísticas, para que todos os projetos tenham no mínimo os planos de gerenciamento de escopo, cronograma, custo, engajamento de partes interessadas, comunicações e riscos;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – orientar o escopo dos projetos para que se considerem os objetivos SMART (específicos, mensuráveis, atingíveis, realistas, temporais/prazo), conforme a estratégia governamental, as partes interessadas, os requisitos técnicos e do negócio e os benefícios esperados, para buscar eficiência, eficácia e efetividade nas entregas;<br>
+IX – orientar o escopo dos projetos para que se considerem os objetivos SMART (específicos, mensuráveis, atingíveis, realistas, temporais/prazo), conforme a estratégia governamental, as partes interessadas, os requisitos técnicos e do negócio e os benefícios esperados, para buscar eficiência, eficácia e efetividade nas entregas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – orientar os projetos para que possuam um backlog do projeto/produto, das demandas e do mapa visual das entregas com a Estrutura Analítica de Projetos – EAP;<br>
+X – orientar os projetos para que possuam um backlog do projeto/produto, das demandas e do mapa visual das entregas com a Estrutura Analítica de Projetos – EAP;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XI – identificar, negociar e aprovar as alterações do escopo do projeto entre as partes interessadas, quando isso for necessário, e promover a gestão de mudanças;<br>
+XI – identificar, negociar e aprovar as alterações do escopo do projeto entre as partes interessadas, quando isso for necessário, e promover a gestão de mudanças;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XII – orientar o controle das atividades do projeto para que ele seja realizado conforme o ciclo de vida do projeto e a abordagem de gerenciamento adotada e, se for pertinente, manter atualizadas em cronogramas as linhas de bases planejadas versus realizadas;<br>
+XII – orientar o controle das atividades do projeto para que ele seja realizado conforme o ciclo de vida do projeto e a abordagem de gerenciamento adotada e, se for pertinente, manter atualizadas em cronogramas as linhas de bases planejadas versus realizadas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIII – orientar o gerenciamento dos custos para que ele seja realizado com a elaboração do cronograma financeiro, se for pertinente, bem como relacionado ao cronograma físico, em conformidade com os instrumentos estratégicos de orçamento e a previsão de desembolso financeiro;<br>
+XIII – orientar o gerenciamento dos custos para que ele seja realizado com a elaboração do cronograma financeiro, se for pertinente, bem como relacionado ao cronograma físico, em conformidade com os instrumentos estratégicos de orçamento e a previsão de desembolso financeiro;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIV – orientar a comunicação do projeto para que ela seja realizada com ferramentas como matriz de responsabilidade, técnicas de negociação, mediação de conflitos, se for pertinente, conforme o ciclo de vida do projeto e a abordagem de gerenciamento adotada;<br>
+XIV – orientar a comunicação do projeto para que ela seja realizada com ferramentas como matriz de responsabilidade, técnicas de negociação, mediação de conflitos, se for pertinente, conforme o ciclo de vida do projeto e a abordagem de gerenciamento adotada;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XV – supervisionar os riscos para que eles sejam identificados por meio da elaboração da matriz de riscos, se for pertinente, para a classificação e a resposta conforme a probabilidade e o impacto;<br>
+XV – supervisionar os riscos para que eles sejam identificados por meio da elaboração da matriz de riscos, se for pertinente, para a classificação e a resposta conforme a probabilidade e o impacto;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XVI – acompanhar e monitorar a execução dos projetos nas áreas finalísticas para otimizar o desempenho, com a observação de, no mínimo, gerenciamento de escopo, cronograma, orçamento, comunicações, engajamento das partes interessadas e riscos, se for pertinente, e em conformidade com o ciclo de vida do projeto e a abordagem de gerenciamento adotada;<br>
+XVI – acompanhar e monitorar a execução dos projetos nas áreas finalísticas para otimizar o desempenho, com a observação de, no mínimo, gerenciamento de escopo, cronograma, orçamento, comunicações, engajamento das partes interessadas e riscos, se for pertinente, e em conformidade com o ciclo de vida do projeto e a abordagem de gerenciamento adotada;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XVII – elaborar relatórios de situação, indicadores e outros instrumentos, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+XVII – elaborar relatórios de situação, indicadores e outros instrumentos, conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XVIII – realizar a governança de projetos com o engajamento das áreas finalísticas e do dirigente da SEAPA nos ciclos de reuniões, para o reporte de situação e a tomada de decisão nos níveis operacional, tático e estratégico;<br>
+XVIII – realizar a governança de projetos com o engajamento das áreas finalísticas e do dirigente da SEAPA nos ciclos de reuniões, para o reporte de situação e a tomada de decisão nos níveis operacional, tático e estratégico;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIX – orientar o planejamento do projeto a fim de ele ser realizado em ondas sucessivas, para as entregas de valor em ciclos curtos, e buscar, se for possível, aplicar as diretrizes e os princípios de agilidade;<br>
+XIX – orientar o planejamento do projeto a fim de ele ser realizado em ondas sucessivas, para as entregas de valor em ciclos curtos, e buscar, se for possível, aplicar as diretrizes e os princípios de agilidade;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XX – dar visibilidade ao portfólio de projetos da SEAPA, com o balanceamento de recursos e a visão de entrega de valor estratégico;<br>
+XX – dar visibilidade ao portfólio de projetos da SEAPA, com o balanceamento de recursos e a visão de entrega de valor estratégico;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XXI – fomentar a cultura relacionada ao tema governança, gestão de portfólio e projetos da SEAPA;<br>
+XXI – fomentar a cultura relacionada ao tema governança, gestão de portfólio e projetos da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XXII – prover suporte aos processos de programação, avaliação e revisão do Plano de Contratações Anual – PCA, no que se refere ao planejamento detalhado das atividades das unidades administrativas e finalísticas da SEAPA;<br>
+XXII – prover suporte aos processos de programação, avaliação e revisão do Plano de Contratações Anual – PCA, no que se refere ao planejamento detalhado das atividades das unidades administrativas e finalísticas da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XXIII – promover a governança e a intersetorialidade na gestão de projetos e convênios; e<br>
+XXIII – promover a governança e a intersetorialidade na gestão de projetos e convênios; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XXIV – encarregar-se de competências correlatas.<br>
+XXIV – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-Parágrafo único. O Escritório de Projetos Setorial fica subordinado técnica e normativamente à Subsecretaria de Governança da Secretaria-Geral de Governo – SGG, sem prejuízo à subordinação administrativa ao Gabinete do Secretário.<br>
+Parágrafo único. O Escritório de Projetos Setorial fica subordinado técnica e normativamente à Subsecretaria de Governança da Secretaria-Geral de Governo – SGG, sem prejuízo à subordinação administrativa ao Gabinete do Secretário.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-Seção IX<br>
+Seção IX
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 Da Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva
 
-Art. 24-B. Compete à Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva:<br>
+Art. 24-B. Compete à Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – planejar, coordenar e supervisionar políticas públicas e ações relacionadas à agricultura familiar, produção rural, inclusão produtiva e desenvolvimento sustentável no Estado de Goiás;<br>
+I – planejar, coordenar e supervisionar políticas públicas e ações relacionadas à agricultura familiar, produção rural, inclusão produtiva e desenvolvimento sustentável no Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – planejar, coordenar e supervisionar políticas públicas e ações voltadas à regularização fundiária, agricultura irrigada, infraestrutura rural, inovação agropecuária e desenvolvimento regional, em conformidade com as diretrizes estaduais e federais;<br>
+II – planejar, coordenar e supervisionar políticas públicas e ações voltadas à regularização fundiária, agricultura irrigada, infraestrutura rural, inovação agropecuária e desenvolvimento regional, em conformidade com as diretrizes estaduais e federais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – propor e monitorar diretrizes estratégicas para o fortalecimento da agricultura familiar, o desenvolvimento das cadeias produtivas e a promoção da sustentabilidade no meio rural;<br>
+III – propor e monitorar diretrizes estratégicas para o fortalecimento da agricultura familiar, o desenvolvimento das cadeias produtivas e a promoção da sustentabilidade no meio rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – apoiar iniciativas de fomento à inclusão produtiva voltadas à geração de emprego e renda no meio rural;<br>
+IV – apoiar iniciativas de fomento à inclusão produtiva voltadas à geração de emprego e renda no meio rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – atuar em colaboração com outras instituições para assegurar a integração das políticas de produção rural com ações de proteção ambiental, manejo sustentável de recursos naturais e adaptação às mudanças climáticas;<br>
+V – atuar em colaboração com outras instituições para assegurar a integração das políticas de produção rural com ações de proteção ambiental, manejo sustentável de recursos naturais e adaptação às mudanças climáticas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – supervisionar a execução de programas governamentais de financiamento e fomento ao produtor rural, para o alinhamento às políticas públicas estaduais e federais;<br>
+VI – supervisionar a execução de programas governamentais de financiamento e fomento ao produtor rural, para o alinhamento às políticas públicas estaduais e federais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – articular e integrar as ações da Superintendência de Produção Rural e da Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, para garantir a execução coordenada e eficiente dos programas e dos projetos da SEAPA;<br>
+VII – articular e integrar as ações da Superintendência de Produção Rural e da Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, para garantir a execução coordenada e eficiente dos programas e dos projetos da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – representar a SEAPA, quando isso for designado, em reuniões e articulações interinstitucionais com órgãos públicos, entidades privadas e organizações da sociedade civil, para a implementação de políticas e programas no âmbito de sua competência; e<br>
+VIII – representar a SEAPA, quando isso for designado, em reuniões e articulações interinstitucionais com órgãos públicos, entidades privadas e organizações da sociedade civil, para a implementação de políticas e programas no âmbito de sua competência; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – encarregar-se de outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem destinadas pelo superior hierárquico.<br>
+IX – encarregar-se de outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem destinadas pelo superior hierárquico.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-Parágrafo único. Além das competências previstas no caput deste artigo, compete à Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva planejar, coordenar e a supervisionar tecnicamente as seguintes unidades:<br>
+Parágrafo único. Além das competências previstas no caput deste artigo, compete à Subsecretaria de Agricultura Familiar, Produção Rural e Inclusão Produtiva planejar, coordenar e a supervisionar tecnicamente as seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – Superintendência de Produção Rural, com as seguintes gerências:<br>
+I – Superintendência de Produção Rural, com as seguintes gerências:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-a) Gerência de Inteligência de Mercado Agropecuário;<br>
+a) Gerência de Inteligência de Mercado Agropecuário;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-b) Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária;<br>
+b) Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-c) Gerência de Desenvolvimento Regional e Inovação Agropecuária; e<br>
+c) Gerência de Desenvolvimento Regional e Inovação Agropecuária; e
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-d) Gerência de Agricultura Familiar e Inclusão Produtiva; e<br>
+d) Gerência de Agricultura Familiar e Inclusão Produtiva; e
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, com as seguintes gerências:<br>
+II – Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável, com as seguintes gerências:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-a) Gerência de Gestão Patrimonial e Regularização Fundiária;<br>
+a) Gerência de Gestão Patrimonial e Regularização Fundiária;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-b) Gerência de Gestão Hídrica e Aquicultura Sustentável;<br>
+b) Gerência de Gestão Hídrica e Aquicultura Sustentável;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-c) Gerência de Infraestrutura Rural;<br>
+c) Gerência de Infraestrutura Rural;
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-d) Gerência de Sustentabilidade Agropecuária; e<br>
+d) Gerência de Sustentabilidade Agropecuária; e
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-e) Gerência de Infraestrutura de Irrigação e Barragens.<br>
+e) Gerência de Infraestrutura de Irrigação e Barragens.
+
 \- [Acrescida pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-Subseção I<br>
+Subseção I
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 Da Superintendência de Produção Rural
@@ -1320,7 +1418,8 @@ VIII – propor programas, projetos e ações relacionadas à inovação agropec
 
 IX – encarregar– se de competências correlatas.
 
-§ 1º ~~Parágrafo único.~~ Além das competências constantes no _caput_, a Superintendência de Produção Rural organiza, coordena e supervisiona as seguintes unidades:<br>
+§ 1º ~~Parágrafo único.~~ Além das competências constantes no _caput_, a Superintendência de Produção Rural organiza, coordena e supervisiona as seguintes unidades:
+
 \- [Constituído § 1º pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 I – Gerência de Inteligência de Mercado Agropecuário;
@@ -1331,315 +1430,416 @@ III – Gerência de Desenvolvimento Regional e Inovação Agropecuária; e
 
 IV – Gerência de Agricultura Familiar e Inclusão Produtiva.
 
-§ 2º Compete à Gerência de Inteligência de Mercado Agropecuário:<br>
+§ 2º Compete à Gerência de Inteligência de Mercado Agropecuário:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – colaborar na criação de sistemas computadorizados para o armazenamento de dados e informações estatísticas das ações desenvolvidas pela SEAPA e pelo setor agropecuário goiano;<br>
+I – colaborar na criação de sistemas computadorizados para o armazenamento de dados e informações estatísticas das ações desenvolvidas pela SEAPA e pelo setor agropecuário goiano;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – consolidar informações e dados do agronegócio para subsidiar a formulação e a adequação das políticas públicas relacionadas ao setor;<br>
+II – consolidar informações e dados do agronegócio para subsidiar a formulação e a adequação das políticas públicas relacionadas ao setor;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – elaborar boletins informativos das estimativas de safra, dos indicadores econômicos, da produção e do mercado, bem como realizar a cotação de preços e os prognósticos agropecuários;<br>
+III – elaborar boletins informativos das estimativas de safra, dos indicadores econômicos, da produção e do mercado, bem como realizar a cotação de preços e os prognósticos agropecuários;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – emitir relatórios analíticos e projeções estratégicas para indicar as oportunidades do mercado e subsidiar a tomada de decisões;<br>
+IV – emitir relatórios analíticos e projeções estratégicas para indicar as oportunidades do mercado e subsidiar a tomada de decisões;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – coordenar as ações que assegurem o acesso ao Fundo Constitucional de Financiamento do Centro-Oeste – FCO;<br>
+V – coordenar as ações que assegurem o acesso ao Fundo Constitucional de Financiamento do Centro-Oeste – FCO;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – incentivar a criação e a consolidação de sistemas de informações integrados entre as instituições públicas e as organizações privadas, voltados ao desenvolvimento do agronegócio; e<br>
+VI – incentivar a criação e a consolidação de sistemas de informações integrados entre as instituições públicas e as organizações privadas, voltados ao desenvolvimento do agronegócio; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – encarregar-se de competências correlatas.<br>
+VII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 3º Compete à Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária:<br>
+§ 3º Compete à Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – propor normas, diretrizes e instruções técnicas destinadas à execução da política agrícola, de abastecimento e de desenvolvimento rural;<br>
+I – propor normas, diretrizes e instruções técnicas destinadas à execução da política agrícola, de abastecimento e de desenvolvimento rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – planejar, gerir e orientar a implantação de programas, projetos e ações que fomentem as cadeias produtivas da agropecuária;<br>
+II – planejar, gerir e orientar a implantação de programas, projetos e ações que fomentem as cadeias produtivas da agropecuária;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – promover a articulação e o fortalecimento das cadeias produtivas da agropecuária em parceria com os órgãos e as entidades atuantes na área da SEAPA e de suas jurisdicionadas;<br>
+III – promover a articulação e o fortalecimento das cadeias produtivas da agropecuária em parceria com os órgãos e as entidades atuantes na área da SEAPA e de suas jurisdicionadas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – coordenar a execução dos programas e dos projetos de fomento e desenvolvimento rural para o fortalecimento da agricultura orgânica e da agropecuária sustentável, na área de atuação da SEAPA e em articulação com as empresas vinculadas a ela;<br>
+IV – coordenar a execução dos programas e dos projetos de fomento e desenvolvimento rural para o fortalecimento da agricultura orgânica e da agropecuária sustentável, na área de atuação da SEAPA e em articulação com as empresas vinculadas a ela;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – propor ações e acompanhar as atividades desenvolvidas pela SEAPA nas unidades de produção vegetal e animal e em parceria com órgãos e entidades;<br>
+V – propor ações e acompanhar as atividades desenvolvidas pela SEAPA nas unidades de produção vegetal e animal e em parceria com órgãos e entidades;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – propor e coordenar projetos de extensão e experimentação tecnológica nas áreas de produção vegetal, animal e socioambiental da SEAPA;<br>
+VI – propor e coordenar projetos de extensão e experimentação tecnológica nas áreas de produção vegetal, animal e socioambiental da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – propor ações, projetos e programas de educação ambiental na área de atuação da SEAPA em parceria com órgãos e entidades;<br>
+VII – propor ações, projetos e programas de educação ambiental na área de atuação da SEAPA em parceria com órgãos e entidades;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – promover e coordenar o resgate estratégico dos Arranjos Produtivos Locais – APLs, observado o conjunto amplo e variado de organizações e redes de negócios que foram estruturados nos diferentes territórios para o desenvolvimento das cadeias produtivas;<br>
+VIII – promover e coordenar o resgate estratégico dos Arranjos Produtivos Locais – APLs, observado o conjunto amplo e variado de organizações e redes de negócios que foram estruturados nos diferentes territórios para o desenvolvimento das cadeias produtivas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – propor políticas, diretrizes e projetos, bem como coordenar ações e atividades de desenvolvimento com os movimentos sociais vinculados ao meio rural, com ênfase no Programa Nacional de Crédito Fundiário, para consolidar os projetos de assentamento e possibilitar a democratização do acesso à terra, o combate à pobreza rural e a inclusão produtiva, com a geração de renda e a sustentabilidade da agricultura familiar;<br>
+IX – propor políticas, diretrizes e projetos, bem como coordenar ações e atividades de desenvolvimento com os movimentos sociais vinculados ao meio rural, com ênfase no Programa Nacional de Crédito Fundiário, para consolidar os projetos de assentamento e possibilitar a democratização do acesso à terra, o combate à pobreza rural e a inclusão produtiva, com a geração de renda e a sustentabilidade da agricultura familiar;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – subsidiar a captação de recursos relativos à implantação de projetos de desenvolvimento fundiário por meio de convênios, contratos de repasses e afins;<br>
+X – subsidiar a captação de recursos relativos à implantação de projetos de desenvolvimento fundiário por meio de convênios, contratos de repasses e afins;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XI – elaborar e propor políticas e diretrizes para o acesso à terra e apoio ao assentamento de trabalhadores rurais;<br>
+XI – elaborar e propor políticas e diretrizes para o acesso à terra e apoio ao assentamento de trabalhadores rurais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XII – estimular, apoiar e coordenar a implantação de novas cadeias e modelos produtivos para o desenvolvimento de produtos agropecuários diferenciados, por meio de importantes avanços em áreas como nanotecnologia, biotecnologia, bioeconomia, automação, gestão territorial, uso de matérias-primas renováveis, melhoramento genético, entre outros, para agregar valor às cadeias produtivas agrícolas;<br>
+XII – estimular, apoiar e coordenar a implantação de novas cadeias e modelos produtivos para o desenvolvimento de produtos agropecuários diferenciados, por meio de importantes avanços em áreas como nanotecnologia, biotecnologia, bioeconomia, automação, gestão territorial, uso de matérias-primas renováveis, melhoramento genético, entre outros, para agregar valor às cadeias produtivas agrícolas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIII – facilitar o acesso do pequeno produtor e agricultor familiar às novas tecnologias, bem como fomentar feiras de negócios e eventos congêneres para a comercialização da produção e o alcance de maiores mercados, melhores preços e excelência no produto final;<br>
+XIII – facilitar o acesso do pequeno produtor e agricultor familiar às novas tecnologias, bem como fomentar feiras de negócios e eventos congêneres para a comercialização da produção e o alcance de maiores mercados, melhores preços e excelência no produto final;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIV – estimular e orientar o pequeno produtor e o agricultor familiar a seguir práticas agropecuárias e de fabricação de alimentos de origem animal que conduzam à certificação do Selo de Identificação Artesanal – SELO ARTE, em parceria com a Agência Goiana de Defesa Agropecuária – AGRODEFESA; e<br>
+XIV – estimular e orientar o pequeno produtor e o agricultor familiar a seguir práticas agropecuárias e de fabricação de alimentos de origem animal que conduzam à certificação do Selo de Identificação Artesanal – SELO ARTE, em parceria com a Agência Goiana de Defesa Agropecuária – AGRODEFESA; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XV – encarregar-se de competências correlatas.<br>
+XV – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 4º Compete à Gerência de Desenvolvimento Regional e Inovação Agropecuária:<br>
+§ 4º Compete à Gerência de Desenvolvimento Regional e Inovação Agropecuária:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – estabelecer parcerias e propor o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações que resultem no aumento da competitividade e da equidade social, na melhoria da qualidade e na redução dos custos nas diferentes cadeias produtivas que compõem o agronegócio;<br>
+I – estabelecer parcerias e propor o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações que resultem no aumento da competitividade e da equidade social, na melhoria da qualidade e na redução dos custos nas diferentes cadeias produtivas que compõem o agronegócio;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – colaborar na organização de seminários, encontros, simpósios e outras atividades em prol do desenvolvimento do agronegócio;<br>
+II – colaborar na organização de seminários, encontros, simpósios e outras atividades em prol do desenvolvimento do agronegócio;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – conduzir estudos e elaborar minutas de projetos de lei e outras normativas para promover comercialmente os produtos agropecuários e agregar-lhes valor, de acordo com as indicações geográficas e as denominações de origem deles;<br>
+III – conduzir estudos e elaborar minutas de projetos de lei e outras normativas para promover comercialmente os produtos agropecuários e agregar-lhes valor, de acordo com as indicações geográficas e as denominações de origem deles;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – estabelecer e monitorar possíveis parcerias e projetos relacionados à agropecuária com as instituições governamentais e as jurisdicionadas, as entidades privadas, as agências financeiras, as fundações e congêneres;<br>
+IV – estabelecer e monitorar possíveis parcerias e projetos relacionados à agropecuária com as instituições governamentais e as jurisdicionadas, as entidades privadas, as agências financeiras, as fundações e congêneres;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – elaborar projetos, planos de trabalho e congêneres para a captação de recursos federais, bem como os seus respectivos cadastros;<br>
+V – elaborar projetos, planos de trabalho e congêneres para a captação de recursos federais, bem como os seus respectivos cadastros;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – coordenar, executar e supervisionar as ações de levantamento das demandas do setor de produção de alimentos de origem vegetal e animal para o subsídio das políticas públicas;<br>
+VI – coordenar, executar e supervisionar as ações de levantamento das demandas do setor de produção de alimentos de origem vegetal e animal para o subsídio das políticas públicas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – elaborar políticas, programas e projetos que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais; e<br>
+VII – elaborar políticas, programas e projetos que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 5º Compete à Gerência de Agricultura Familiar e Inclusão Produtiva:<br>
+§ 5º Compete à Gerência de Agricultura Familiar e Inclusão Produtiva:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – acompanhar as atividades do CONDRA e do CONESAN;<br>
+I – acompanhar as atividades do CONDRA e do CONESAN;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – executar e avaliar, diretamente ou em cooperação com entidades públicas ou privadas, ações que propiciem o uso sustentável, a manutenção, a conservação, a preservação e a revitalização dos recursos naturais do meio rural, no contexto da agricultura familiar;<br>
+II – executar e avaliar, diretamente ou em cooperação com entidades públicas ou privadas, ações que propiciem o uso sustentável, a manutenção, a conservação, a preservação e a revitalização dos recursos naturais do meio rural, no contexto da agricultura familiar;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – contribuir na expansão de práticas agronômicas de recuperação de pastagens, de integração lavoura-pecuária-floresta, de plantio direto, de fixação biológica do nitrogênio, de plantio de novas florestas e de incremento de plantas nativas, no âmbito da agricultura familiar;<br>
+III – contribuir na expansão de práticas agronômicas de recuperação de pastagens, de integração lavoura-pecuária-floresta, de plantio direto, de fixação biológica do nitrogênio, de plantio de novas florestas e de incremento de plantas nativas, no âmbito da agricultura familiar;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – elaborar propostas que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais, bem como para o desenvolvimento sustentável na área de atuação dessa gerência;<br>
+IV – elaborar propostas que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais, bem como para o desenvolvimento sustentável na área de atuação dessa gerência;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – auxiliar na realização de conferências e outros eventos municipais, regionais e estaduais sobre o desenvolvimento de práticas de agricultura, pecuária e produção orgânica;<br>
+V – auxiliar na realização de conferências e outros eventos municipais, regionais e estaduais sobre o desenvolvimento de práticas de agricultura, pecuária e produção orgânica;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – coordenar e divulgar os planos e as ações de segurança alimentar e nutricional no Estado de Goiás;<br>
+VI – coordenar e divulgar os planos e as ações de segurança alimentar e nutricional no Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – fomentar as diversas formas de associativismo no meio rural, inclusive o cooperativismo;<br>
+VII – fomentar as diversas formas de associativismo no meio rural, inclusive o cooperativismo;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – produzir estudos e relatórios sobre as cadeias produtivas da agricultura familiar e congêneres;<br>
+VIII – produzir estudos e relatórios sobre as cadeias produtivas da agricultura familiar e congêneres;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – instituir ações de acesso do agricultor familiar ao crédito agrícola;<br>
+IX – instituir ações de acesso do agricultor familiar ao crédito agrícola;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – propor, na sua competência, a elaboração e a implantação de projetos em parceria com entidades públicas municipais, estaduais e federais para interligar as áreas de produção agrícola, abastecimento e outras;<br>
+X – propor, na sua competência, a elaboração e a implantação de projetos em parceria com entidades públicas municipais, estaduais e federais para interligar as áreas de produção agrícola, abastecimento e outras;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XI – promover ações de desenvolvimento rural sustentável e solidário que envolvam atividades agrícolas e não agrícolas;<br>
+XI – promover ações de desenvolvimento rural sustentável e solidário que envolvam atividades agrícolas e não agrícolas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XII – subsidiar a elaboração de planos, programas e projetos desenvolvidos pela SEAPA; e<br>
+XII – subsidiar a elaboração de planos, programas e projetos desenvolvidos pela SEAPA; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIII – encarregar-se de competências correlatas.<br>
+XIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-~~Subseção I~~<br>
+~~Subseção I~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Inteligência de Mercado Agropecuário~~
 
-~~Art. 26. Compete à Gerência de Inteligência de Mercado Agropecuário:~~<br>
+~~Art. 26. Compete à Gerência de Inteligência de Mercado Agropecuário:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – colaborar na criação de sistemas computadorizados para o armazenamento de dados e informações estatísticas das ações desenvolvidas pela SEAPA e pelo setor agropecuário goiano;~~<br>
+~~I – colaborar na criação de sistemas computadorizados para o armazenamento de dados e informações estatísticas das ações desenvolvidas pela SEAPA e pelo setor agropecuário goiano;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – consolidar informações e dados do agronegócio para subsidiar a formulação e a adequação das políticas públicas relacionadas ao setor;~~<br>
+~~II – consolidar informações e dados do agronegócio para subsidiar a formulação e a adequação das políticas públicas relacionadas ao setor;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – elaborar boletins informativos das estimativas de safra, dos indicadores econômicos, da produção e do mercado, bem como realizar a cotação de preços e os prognósticos agropecuários;~~<br>
+~~III – elaborar boletins informativos das estimativas de safra, dos indicadores econômicos, da produção e do mercado, bem como realizar a cotação de preços e os prognósticos agropecuários;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – emitir relatórios analíticos e projeções estratégicas para indicar as oportunidades do mercado e subsidiar a tomada de decisões;~~<br>
+~~IV – emitir relatórios analíticos e projeções estratégicas para indicar as oportunidades do mercado e subsidiar a tomada de decisões;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – coordenar as ações que assegurem o acesso ao Fundo Constitucional de Financiamento do Centro– Oeste – FCO;~~<br>
+~~V – coordenar as ações que assegurem o acesso ao Fundo Constitucional de Financiamento do Centro– Oeste – FCO;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – incentivar a criação e a consolidação de sistemas de informações integrados entre as instituições públicas e as organizações privadas, voltados ao desenvolvimento do agronegócio; e~~<br>
+~~VI – incentivar a criação e a consolidação de sistemas de informações integrados entre as instituições públicas e as organizações privadas, voltados ao desenvolvimento do agronegócio; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – encarregar– se de competências correlatas.~~<br>
+~~VII – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~Subseção II~~<br>
+~~Subseção II~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária~~
 
-~~Art. 27. Compete à Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária:~~<br>
+~~Art. 27. Compete à Gerência de Desenvolvimento de Cadeias Produtivas Agropecuária:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – propor normas, diretrizes e instruções técnicas destinadas à execução da política agrícola, de abastecimento e de desenvolvimento rural;~~<br>
+~~I – propor normas, diretrizes e instruções técnicas destinadas à execução da política agrícola, de abastecimento e de desenvolvimento rural;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – planejar, gerir e orientar a implantação de programas, projetos e ações que fomentem as cadeias produtivas da agropecuária;~~<br>
+~~II – planejar, gerir e orientar a implantação de programas, projetos e ações que fomentem as cadeias produtivas da agropecuária;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – promover a articulação e o fortalecimento das cadeias produtivas da agropecuária em parceria com os órgãos e as entidades atuantes na área da SEAPA e de suas jurisdicionadas;~~<br>
+~~III – promover a articulação e o fortalecimento das cadeias produtivas da agropecuária em parceria com os órgãos e as entidades atuantes na área da SEAPA e de suas jurisdicionadas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – coordenar a execução dos programas e dos projetos de fomento e desenvolvimento rural para o fortalecimento da agricultura orgânica e da agropecuária sustentável, na área de atuação da SEAPA e em articulação com as empresas vinculadas a ela;~~<br>
+~~IV – coordenar a execução dos programas e dos projetos de fomento e desenvolvimento rural para o fortalecimento da agricultura orgânica e da agropecuária sustentável, na área de atuação da SEAPA e em articulação com as empresas vinculadas a ela;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – propor ações e acompanhar as atividades desenvolvidas pela SEAPA nas unidades de produção vegetal e animal e em parceria com órgãos e entidades;~~<br>
+~~V – propor ações e acompanhar as atividades desenvolvidas pela SEAPA nas unidades de produção vegetal e animal e em parceria com órgãos e entidades;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – propor e coordenar projetos de extensão e experimentação tecnológica nas áreas de produção vegetal, animal e socioambiental da SEAPA;~~<br>
+~~VI – propor e coordenar projetos de extensão e experimentação tecnológica nas áreas de produção vegetal, animal e socioambiental da SEAPA;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – propor ações, projetos e programas de educação ambiental na área de atuação da SEAPA em parceria com órgãos e entidades;~~<br>
+~~VII – propor ações, projetos e programas de educação ambiental na área de atuação da SEAPA em parceria com órgãos e entidades;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – promover e coordenar o resgate estratégico dos Arranjos Produtivos Locais – APLs, observado o conjunto amplo e variado de organizações e redes de negócios que foram estruturados nos diferentes territórios para o desenvolvimento das cadeias produtivas;~~<br>
+~~VIII – promover e coordenar o resgate estratégico dos Arranjos Produtivos Locais – APLs, observado o conjunto amplo e variado de organizações e redes de negócios que foram estruturados nos diferentes territórios para o desenvolvimento das cadeias produtivas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – propor políticas, diretrizes e projetos, bem como coordenar ações e atividades de desenvolvimento com os movimentos sociais vinculados ao meio rural, com ênfase no Programa Nacional de Crédito Fundiário, para consolidar os projetos de assentamento e possibilitar a democratização do acesso à terra, o combate à pobreza rural e a inclusão produtiva, com a geração de renda e a sustentabilidade da agricultura familiar;~~<br>
+~~IX – propor políticas, diretrizes e projetos, bem como coordenar ações e atividades de desenvolvimento com os movimentos sociais vinculados ao meio rural, com ênfase no Programa Nacional de Crédito Fundiário, para consolidar os projetos de assentamento e possibilitar a democratização do acesso à terra, o combate à pobreza rural e a inclusão produtiva, com a geração de renda e a sustentabilidade da agricultura familiar;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~X – subsidiar a captação de recursos relativos à implantação de projetos de desenvolvimento fundiário por meio de convênios, contratos de repasses e afins;~~<br>
+~~X – subsidiar a captação de recursos relativos à implantação de projetos de desenvolvimento fundiário por meio de convênios, contratos de repasses e afins;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XI – elaborar e propor políticas e diretrizes para o acesso à terra e apoio ao assentamento de trabalhadores rurais;~~<br>
+~~XI – elaborar e propor políticas e diretrizes para o acesso à terra e apoio ao assentamento de trabalhadores rurais;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XII – estimular, apoiar e coordenar a implantação de novas cadeias e modelos produtivos para o desenvolvimento de produtos agropecuários diferenciados, por meio de importantes avanços em áreas como nanotecnologia, biotecnologia, bioeconomia, automação, gestão territorial, uso de matérias– primas renováveis, melhoramento genético, entre outros, para agregar valor às cadeias produtivas agrícolas;~~<br>
+~~XII – estimular, apoiar e coordenar a implantação de novas cadeias e modelos produtivos para o desenvolvimento de produtos agropecuários diferenciados, por meio de importantes avanços em áreas como nanotecnologia, biotecnologia, bioeconomia, automação, gestão territorial, uso de matérias– primas renováveis, melhoramento genético, entre outros, para agregar valor às cadeias produtivas agrícolas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XIII – facilitar o acesso do pequeno produtor e agricultor familiar às novas tecnologias, bem como fomentar feiras de negócios e eventos congêneres para a comercialização da produção e o alcance de maiores mercados, melhores preços e excelência no produto final;~~<br>
+~~XIII – facilitar o acesso do pequeno produtor e agricultor familiar às novas tecnologias, bem como fomentar feiras de negócios e eventos congêneres para a comercialização da produção e o alcance de maiores mercados, melhores preços e excelência no produto final;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XIV – estimular e orientar o pequeno produtor e o agricultor familiar a seguir práticas agropecuárias e de fabricação de alimentos de origem animal que conduzam à certificação do Selo de Identificação Artesanal – SELO ARTE, em parceria com a Agência Goiana de Defesa Agropecuária – AGRODEFESA; e~~<br>
+~~XIV – estimular e orientar o pequeno produtor e o agricultor familiar a seguir práticas agropecuárias e de fabricação de alimentos de origem animal que conduzam à certificação do Selo de Identificação Artesanal – SELO ARTE, em parceria com a Agência Goiana de Defesa Agropecuária – AGRODEFESA; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XV – encarregar– se de competências correlatas.~~<br>
+~~XV – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~Subseção III~~<br>
+~~Subseção III~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Desenvolvimento Regional e Inovação Agropecuária~~
 
-~~Art. 28. Compete à Gerência de Desenvolvimento Regional e Inovação Agropecuária:~~<br>
+~~Art. 28. Compete à Gerência de Desenvolvimento Regional e Inovação Agropecuária:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – estabelecer parcerias e propor o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações que resultem no aumento da competitividade e da equidade social, na melhoria da qualidade e na redução dos custos nas diferentes cadeias produtivas que compõem o agronegócio;~~<br>
+~~I – estabelecer parcerias e propor o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações que resultem no aumento da competitividade e da equidade social, na melhoria da qualidade e na redução dos custos nas diferentes cadeias produtivas que compõem o agronegócio;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – contribuir no estabelecimento e na difusão de fluxos de procedimentos, processos e boas práticas da SEAPA;~~<br>
+~~II – contribuir no estabelecimento e na difusão de fluxos de procedimentos, processos e boas práticas da SEAPA;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – colaborar na organização de seminários, encontros, simpósios e outras atividades em prol do desenvolvimento do agronegócio;~~<br>
+~~III – colaborar na organização de seminários, encontros, simpósios e outras atividades em prol do desenvolvimento do agronegócio;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – conduzir estudos e elaborar minutas de projetos de lei e outras normativas para promover comercialmente os produtos agropecuários e agregar– lhes valor, de acordo com as indicações geográficas e as denominações de origem deles;~~<br>
+~~IV – conduzir estudos e elaborar minutas de projetos de lei e outras normativas para promover comercialmente os produtos agropecuários e agregar– lhes valor, de acordo com as indicações geográficas e as denominações de origem deles;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – estabelecer e monitorar possíveis parcerias e projetos relacionados à agropecuária com as instituições governamentais e as jurisdicionadas, as entidades privadas, as agências financeiras, as fundações e congêneres;~~<br>
+~~V – estabelecer e monitorar possíveis parcerias e projetos relacionados à agropecuária com as instituições governamentais e as jurisdicionadas, as entidades privadas, as agências financeiras, as fundações e congêneres;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – elaborar projetos, planos de trabalho e congêneres para a captação de recursos federais, bem como o seus respectivos cadastros;~~<br>
+~~VI – elaborar projetos, planos de trabalho e congêneres para a captação de recursos federais, bem como o seus respectivos cadastros;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – analisar e sistematizar informações do mercado referentes às vendas diretas dos agricultores, às feiras e aos estabelecimentos comerciais monitorados pela SEAPA e pelas suas jurisdicionadas;~~<br>
+~~VII – analisar e sistematizar informações do mercado referentes às vendas diretas dos agricultores, às feiras e aos estabelecimentos comerciais monitorados pela SEAPA e pelas suas jurisdicionadas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – coordenar, executar e supervisionar as ações de levantamento das demandas do setor de produção de alimentos de origem vegetal e animal para o subsídio das políticas públicas;~~<br>
+~~VIII – coordenar, executar e supervisionar as ações de levantamento das demandas do setor de produção de alimentos de origem vegetal e animal para o subsídio das políticas públicas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – elaborar políticas, programas e projetos que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais; e~~<br>
+~~IX – elaborar políticas, programas e projetos que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~X – encarregar– se de competências correlatas.~~<br>
+~~X – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~Subseção IV~~<br>
+~~Subseção IV~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Agricultura Familiar e Inclusão Produtiva~~
 
-~~Art. 29. Compete à Gerência de Agricultura Familiar e Inclusão Produtiva:~~<br>
+~~Art. 29. Compete à Gerência de Agricultura Familiar e Inclusão Produtiva:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – acompanhar as atividades do CONDRA e do CONESAN;~~<br>
+~~I – acompanhar as atividades do CONDRA e do CONESAN;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – executar e avaliar, diretamente ou em cooperação com entidades públicas ou privadas, ações que propiciem o uso sustentável, a manutenção, a conservação, a preservação e a revitalização dos recursos naturais do meio rural, no contexto da agricultura familiar;~~<br>
+~~II – executar e avaliar, diretamente ou em cooperação com entidades públicas ou privadas, ações que propiciem o uso sustentável, a manutenção, a conservação, a preservação e a revitalização dos recursos naturais do meio rural, no contexto da agricultura familiar;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – contribuir na expansão de práticas agronômicas de recuperação de pastagens, de integração lavoura– pecuária– floresta, de plantio direto, de fixação biológica do nitrogênio, de plantio de novas florestas e de incremento de plantas nativas, no âmbito da agricultura familiar;~~<br>
+~~III – contribuir na expansão de práticas agronômicas de recuperação de pastagens, de integração lavoura– pecuária– floresta, de plantio direto, de fixação biológica do nitrogênio, de plantio de novas florestas e de incremento de plantas nativas, no âmbito da agricultura familiar;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – elaborar propostas que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais, bem como para o desenvolvimento sustentável na área de atuação dessa gerência;~~<br>
+~~IV – elaborar propostas que contribuam para a redução dos desequilíbrios regionais e das desigualdades sociais, bem como para o desenvolvimento sustentável na área de atuação dessa gerência;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – auxiliar na realização de conferências e outros eventos municipais, regionais e estaduais sobre o desenvolvimento de práticas de agricultura, pecuária e produção orgânica;~~<br>
+~~V – auxiliar na realização de conferências e outros eventos municipais, regionais e estaduais sobre o desenvolvimento de práticas de agricultura, pecuária e produção orgânica;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – coordenar e divulgar os planos e as ações de segurança alimentar e nutricional no Estado de Goiás;~~<br>
+~~VI – coordenar e divulgar os planos e as ações de segurança alimentar e nutricional no Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – fomentar as diversas formas de associativismo no meio rural, inclusive o cooperativismo;~~<br>
+~~VII – fomentar as diversas formas de associativismo no meio rural, inclusive o cooperativismo;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – produzir estudos e relatórios sobre as cadeias produtivas da agricultura familiar e congêneres;~~<br>
+~~VIII – produzir estudos e relatórios sobre as cadeias produtivas da agricultura familiar e congêneres;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – instituir ações de acesso do agricultor familiar ao crédito agrícola;~~<br>
+~~IX – instituir ações de acesso do agricultor familiar ao crédito agrícola;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~X – propor, na sua competência, a elaboração e a implantação de projetos em parceria com entidades públicas municipais, estaduais e federais para interligar as áreas de produção agrícola, abastecimento e outras;~~<br>
+~~X – propor, na sua competência, a elaboração e a implantação de projetos em parceria com entidades públicas municipais, estaduais e federais para interligar as áreas de produção agrícola, abastecimento e outras;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XI – promover ações de desenvolvimento rural sustentável e solidário que envolvam atividades agrícolas e não agrícolas;~~<br>
+~~XI – promover ações de desenvolvimento rural sustentável e solidário que envolvam atividades agrícolas e não agrícolas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XII – subsidiar a elaboração de planos, programas e projetos desenvolvidos pela SEAPA; e~~<br>
+~~XII – subsidiar a elaboração de planos, programas e projetos desenvolvidos pela SEAPA; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XIII – encarregar– se de competências correlatas.~~<br>
+~~XIII – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-Subseção II<br>
+Subseção II
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 Da Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável
@@ -1668,12 +1868,14 @@ VIII – subsidiar a elaboração de planos, programas e projetos desenvolvidos 
 
 IX – encarregar– se de competências correlatas.
 
-§ 1º ~~Parágrafo único.~~ Além das competências constantes do _caput_, a Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável organiza, coordena e supervisiona as seguintes unidades:<br>
+§ 1º ~~Parágrafo único.~~ Além das competências constantes do _caput_, a Superintendência de Engenharia Agrícola e Desenvolvimento Sustentável organiza, coordena e supervisiona as seguintes unidades:
+
 \- [Constituído § 1º pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 I – Gerência de Gestão Patrimonial e Regularização Fundiária;
 
-II – Gerência de Gestão Hídrica e Aquicultura Sustentável;<br>
+II – Gerência de Gestão Hídrica e Aquicultura Sustentável;
+
 \- [Redação dada pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
 ~~II – Gerência de Irrigação, Clima e Aquicultura;~~
@@ -1682,348 +1884,460 @@ III – Gerência de Infraestrutura Rural; e
 
 IV – Gerência de Sustentabilidade Agropecuária.
 
-V – Gerência de Infraestrutura de Irrigação e Barragens.<br>
+V – Gerência de Infraestrutura de Irrigação e Barragens.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 2º Compete à Gerência de Gestão Patrimonial e Regularização Fundiária:<br>
+§ 2º Compete à Gerência de Gestão Patrimonial e Regularização Fundiária:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – promover ações, projetos e atividades de desenvolvimento agrário com os movimentos sociais vinculados ao meio rural;<br>
+I – promover ações, projetos e atividades de desenvolvimento agrário com os movimentos sociais vinculados ao meio rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – desenvolver e propor estudos para o aproveitamento racional das terras públicas estaduais aptas à exploração extrativa, pecuária ou agrícola e que não são utilizadas para outros fins de interesse público;<br>
+II – desenvolver e propor estudos para o aproveitamento racional das terras públicas estaduais aptas à exploração extrativa, pecuária ou agrícola e que não são utilizadas para outros fins de interesse público;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – identificar e determinar as terras devolutas estaduais, promover a sua incorporação ao patrimônio do Estado e regularizá-las, bem como definir e consolidar a ocupação delas;<br>
+III – identificar e determinar as terras devolutas estaduais, promover a sua incorporação ao patrimônio do Estado e regularizá-las, bem como definir e consolidar a ocupação delas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – propor ações de apoio à consolidação dos projetos de assentamento e reforma agrária no Estado sob a responsabilidade do governo federal, além de coordenar e executar ações da mesma natureza;<br>
+IV – propor ações de apoio à consolidação dos projetos de assentamento e reforma agrária no Estado sob a responsabilidade do governo federal, além de coordenar e executar ações da mesma natureza;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – planejar e desenvolver ações direcionadas ao desenvolvimento agrário e apoiar iniciativas entre o Estado e os municípios para a regularização fundiária;<br>
+V – planejar e desenvolver ações direcionadas ao desenvolvimento agrário e apoiar iniciativas entre o Estado e os municípios para a regularização fundiária;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – captar recursos relativos ao crédito fundiário mediante convênios e contratos de repasse;<br>
+VI – captar recursos relativos ao crédito fundiário mediante convênios e contratos de repasse;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – coordenar as medições e o georreferenciamento das áreas rurais nos processos discriminatórios administrativos e judiciais, bem como as pesquisas cartoriais das áreas de domínio do Estado;<br>
+VII – coordenar as medições e o georreferenciamento das áreas rurais nos processos discriminatórios administrativos e judiciais, bem como as pesquisas cartoriais das áreas de domínio do Estado;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – elaborar e propor políticas e diretrizes para o acesso à terra e o apoio aos assentamentos de trabalhadores rurais;<br>
+VIII – elaborar e propor políticas e diretrizes para o acesso à terra e o apoio aos assentamentos de trabalhadores rurais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – gerir o patrimônio fundiário e os documentos pertinentes; e<br>
+IX – gerir o patrimônio fundiário e os documentos pertinentes; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – encarregar-se de competências correlatas.<br>
+X – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 3º Compete à Gerência de Gestão Hídrica e Aquicultura Sustentável:<br>
+§ 3º Compete à Gerência de Gestão Hídrica e Aquicultura Sustentável:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – subsidiar a condução dos convênios, dos contratos de repasse, dos termos de compromisso e congêneres com o governo federal relativos a estudos, projetos e obras de irrigação e aquicultura;<br>
+I – subsidiar a condução dos convênios, dos contratos de repasse, dos termos de compromisso e congêneres com o governo federal relativos a estudos, projetos e obras de irrigação e aquicultura;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – promover a integração das ações de fortalecimento da infraestrutura hídrica no Estado de Goiás;<br>
+II – promover a integração das ações de fortalecimento da infraestrutura hídrica no Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – elaborar cálculos e cobrança em permissões de uso, cessões de uso e congêneres relativos a projetos de irrigação, clima e aquicultura, conforme a legislação vigente;<br>
+III – elaborar cálculos e cobrança em permissões de uso, cessões de uso e congêneres relativos a projetos de irrigação, clima e aquicultura, conforme a legislação vigente;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – promover ações para a autonomia administrativa e operacional dos perímetros irrigados;<br>
+IV – promover ações para a autonomia administrativa e operacional dos perímetros irrigados;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – coordenar, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos de viabilidade de áreas próprias para a instalação da infraestrutura hídrica no atendimento à Política de Irrigação do Estado;<br>
+V – coordenar, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos de viabilidade de áreas próprias para a instalação da infraestrutura hídrica no atendimento à Política de Irrigação do Estado;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – analisar e avaliar os estudos, os projetos de infraestrutura e as obras de irrigação, quanto ao conteúdo, à formatação, ao atendimento aos editais referentes aos condicionantes de serviços, à equipe de projeto e às obras propostas pelos vencedores das licitações;<br>
+VI – analisar e avaliar os estudos, os projetos de infraestrutura e as obras de irrigação, quanto ao conteúdo, à formatação, ao atendimento aos editais referentes aos condicionantes de serviços, à equipe de projeto e às obras propostas pelos vencedores das licitações;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – promover a política de irrigação e o acompanhamento dos polos;<br>
+VII – promover a política de irrigação e o acompanhamento dos polos;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – planejar, coordenar e executar programas e atividades relacionados com as políticas de desenvolvimento da aquicultura e da pesca, para o aumento da produção e da comercialização do que for obtido;<br>
+VIII – planejar, coordenar e executar programas e atividades relacionados com as políticas de desenvolvimento da aquicultura e da pesca, para o aumento da produção e da comercialização do que for obtido;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – conceber, elaborar, promover e apoiar a implantação de programas e projetos de aproveitamento hidroagrícola, além dos complementares à cadeia produtiva dos produtos obtidos com a irrigação; e<br>
+IX – conceber, elaborar, promover e apoiar a implantação de programas e projetos de aproveitamento hidroagrícola, além dos complementares à cadeia produtiva dos produtos obtidos com a irrigação; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – encarregar-se de competências correlatas.<br>
+X – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 4º Compete à Gerência de Infraestrutura Rural:<br>
+§ 4º Compete à Gerência de Infraestrutura Rural:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – propor ações de infraestrutura rural nas áreas de energia, sistemas de abastecimento de água, agroindústrias, edificações rurais e armazenagem de insumos e produtos;<br>
+I – propor ações de infraestrutura rural nas áreas de energia, sistemas de abastecimento de água, agroindústrias, edificações rurais e armazenagem de insumos e produtos;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – coordenar o planejamento e a execução de ações de logística de infraestrutura rural e de engenharia;<br>
+II – coordenar o planejamento e a execução de ações de logística de infraestrutura rural e de engenharia;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – promover ações para a redução da pobreza no meio rural;<br>
+III – promover ações para a redução da pobreza no meio rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – apoiar e acompanhar projetos de infraestrutura hidroagrícola, além de contribuir na devida efetivação deles;<br>
+IV – apoiar e acompanhar projetos de infraestrutura hidroagrícola, além de contribuir na devida efetivação deles;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – orientar, propor e subsidiar a elaboração de planos, programas, projetos, estudos e ações setoriais que propiciem o fortalecimento da agropecuária e de suas organizações, bem como de empreendimentos rurais;<br>
+V – orientar, propor e subsidiar a elaboração de planos, programas, projetos, estudos e ações setoriais que propiciem o fortalecimento da agropecuária e de suas organizações, bem como de empreendimentos rurais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – propor, coordenar, supervisionar, executar, monitorar e avaliar políticas, programas e ações de infraestrutura em projetos de assentamento;<br>
+VI – propor, coordenar, supervisionar, executar, monitorar e avaliar políticas, programas e ações de infraestrutura em projetos de assentamento;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – colaborar com a proposição de diretrizes e ações para o fortalecimento da juventude rural, com foco na sucessão rural;<br>
+VII – colaborar com a proposição de diretrizes e ações para o fortalecimento da juventude rural, com foco na sucessão rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – planejar e controlar ações, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos e projetos de infraestrutura relacionados à implantação e ao gerenciamento do agronegócio; e<br>
+VIII – planejar e controlar ações, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos e projetos de infraestrutura relacionados à implantação e ao gerenciamento do agronegócio; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – encarregar-se de competências correlatas.<br>
+IX – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 5º Compete à Gerência de Sustentabilidade Agropecuária:<br>
+§ 5º Compete à Gerência de Sustentabilidade Agropecuária:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – gerar políticas de incentivo às boas práticas produtivas no agronegócio e nas agroindústrias, bem como incentivar a adoção de sistemas de gestão ou governança ambiental, social e corporativa, com a utilização de sistemas de verificação, checagem, adaptação e benefícios;<br>
+I – gerar políticas de incentivo às boas práticas produtivas no agronegócio e nas agroindústrias, bem como incentivar a adoção de sistemas de gestão ou governança ambiental, social e corporativa, com a utilização de sistemas de verificação, checagem, adaptação e benefícios;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – estimular nas políticas desenvolvidas pela SEAPA a aplicação do conceito de Abordagem Integrada da Paisagem – AIP e de sistemas, práticas, produtos e processos de produção sustentáveis, para o aumento da capacidade adaptativa dos sistemas de produção agropecuária;<br>
+II – estimular nas políticas desenvolvidas pela SEAPA a aplicação do conceito de Abordagem Integrada da Paisagem – AIP e de sistemas, práticas, produtos e processos de produção sustentáveis, para o aumento da capacidade adaptativa dos sistemas de produção agropecuária;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – acompanhar as atividades do Comitê Estadual de Gestão da Agropecuária de Baixo Carbono e Sustentável de Goiás – ABCS, do Comitê Técnico de Prevenção e Combate a Focos de Incêndio na Zona Rural do Estado de Goiás, da Comissão de Fertilidade do Solo e Nutrição de Plantas do Estado de Goiás – GoSolos e dos Comitês de Bacias Hidrográficas;<br>
+III – acompanhar as atividades do Comitê Estadual de Gestão da Agropecuária de Baixo Carbono e Sustentável de Goiás – ABCS, do Comitê Técnico de Prevenção e Combate a Focos de Incêndio na Zona Rural do Estado de Goiás, da Comissão de Fertilidade do Solo e Nutrição de Plantas do Estado de Goiás – GoSolos e dos Comitês de Bacias Hidrográficas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – implementar ações para o uso sustentável, a conservação e a revitalização dos recursos naturais do meio rural;<br>
+IV – implementar ações para o uso sustentável, a conservação e a revitalização dos recursos naturais do meio rural;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – elaborar políticas, programas e projetos para a redução dos desequilíbrios regionais e das desigualdades sociais, para promover o desenvolvimento sustentável;<br>
+V – elaborar políticas, programas e projetos para a redução dos desequilíbrios regionais e das desigualdades sociais, para promover o desenvolvimento sustentável;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – estabelecer parcerias e apoiar o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações socioprodutivas no agronegócio;<br>
+VI – estabelecer parcerias e apoiar o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações socioprodutivas no agronegócio;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – propor ações de manutenção, recuperação e aumento de áreas nativas dos biomas do Estado de Goiás;<br>
+VII – propor ações de manutenção, recuperação e aumento de áreas nativas dos biomas do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – criar políticas de subsídios e pagamentos por serviços ambientais e benefícios às boas práticas agropecuárias e agroindustriais;<br>
+VIII – criar políticas de subsídios e pagamentos por serviços ambientais e benefícios às boas práticas agropecuárias e agroindustriais;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IX – atuar em parcerias com comitês, associações e comissões relacionadas à agropecuária sustentável, à baixa emissão de carbono, à prevenção de incêndios na zona rural e à fertilidade do solo;<br>
+IX – atuar em parcerias com comitês, associações e comissões relacionadas à agropecuária sustentável, à baixa emissão de carbono, à prevenção de incêndios na zona rural e à fertilidade do solo;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-X – desenvolver projetos para o aumento da produção de alimentos, a valorização dos recursos naturais e o atendimento aos interesses dos produtores e dos consumidores;<br>
+X – desenvolver projetos para o aumento da produção de alimentos, a valorização dos recursos naturais e o atendimento aos interesses dos produtores e dos consumidores;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XI – promover a inovação, a agregação de valor aos produtos agrícolas e o fortalecimento da agricultura orgânica e da agropecuária sustentável;<br>
+XI – promover a inovação, a agregação de valor aos produtos agrícolas e o fortalecimento da agricultura orgânica e da agropecuária sustentável;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XII – acompanhar ações de proteção, conservação e manejo do solo, da água, da fauna e da flora, quando estiverem relacionadas com o processo produtivo agropecuário; e<br>
+XII – acompanhar ações de proteção, conservação e manejo do solo, da água, da fauna e da flora, quando estiverem relacionadas com o processo produtivo agropecuário; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-XIII – encarregar-se de competências correlatas.<br>
+XIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-§ 6º Compete à Gerência de Infraestrutura de Irrigação e Barragens:<br>
+§ 6º Compete à Gerência de Infraestrutura de Irrigação e Barragens:
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-I – acompanhar as atividades do Conselho Estadual de Irrigação – CEI;<br>
+I – acompanhar as atividades do Conselho Estadual de Irrigação – CEI;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-II – realizar exames prévios em projetos técnicos de irrigação para a celebração de convênios com estados, municípios, o governo federal e instituições privadas;<br>
+II – realizar exames prévios em projetos técnicos de irrigação para a celebração de convênios com estados, municípios, o governo federal e instituições privadas;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-III – analisar e avaliar os estudos, os projetos de infraestrutura e as obras de irrigação, quanto ao conteúdo, à formatação, ao atendimento aos editais referentes aos condicionantes de serviços, à equipe de projeto e às obras propostas pelos vencedores das licitações;<br>
+III – analisar e avaliar os estudos, os projetos de infraestrutura e as obras de irrigação, quanto ao conteúdo, à formatação, ao atendimento aos editais referentes aos condicionantes de serviços, à equipe de projeto e às obras propostas pelos vencedores das licitações;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-IV – acompanhar a execução das obras de irrigação de competência da SEAPA no Estado de Goiás;<br>
+IV – acompanhar a execução das obras de irrigação de competência da SEAPA no Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-V – realizar a gestão e o monitoramento de projetos de irrigação de competência da SEAPA;<br>
+V – realizar a gestão e o monitoramento de projetos de irrigação de competência da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VI – planejar e acompanhar a execução das obras de construção de barragens de interesse da SEAPA;<br>
+VI – planejar e acompanhar a execução das obras de construção de barragens de interesse da SEAPA;
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VII – desenvolver estudos técnicos necessários à elaboração de projetos de reforma e alerta de emergência de barragens, em área de competência da SEAPA; e<br>
+VII – desenvolver estudos técnicos necessários à elaboração de projetos de reforma e alerta de emergência de barragens, em área de competência da SEAPA; e
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598).
 
-~~Subseção I~~<br>
+~~Subseção I~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Gestão Patrimonial e Regularização Fundiária~~
 
-~~Art. 31. Compete à Gerência de Gestão Patrimonial e Regularização Fundiária:~~<br>
+~~Art. 31. Compete à Gerência de Gestão Patrimonial e Regularização Fundiária:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – promover ações, projetos e atividades de desenvolvimento agrário com os movimentos sociais vinculados ao meio rural;~~<br>
+~~I – promover ações, projetos e atividades de desenvolvimento agrário com os movimentos sociais vinculados ao meio rural;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – desenvolver e propor estudos para o aproveitamento racional das terras públicas estaduais aptas à exploração extrativa, pecuária ou agrícola e que não são utilizadas para outros fins de interesse público;~~<br>
+~~II – desenvolver e propor estudos para o aproveitamento racional das terras públicas estaduais aptas à exploração extrativa, pecuária ou agrícola e que não são utilizadas para outros fins de interesse público;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – identificar e determinar as terras devolutas estaduais, promover a sua incorporação ao patrimônio do Estado e regularizá– las, bem como definir e consolidar a ocupação delas;~~<br>
+~~III – identificar e determinar as terras devolutas estaduais, promover a sua incorporação ao patrimônio do Estado e regularizá– las, bem como definir e consolidar a ocupação delas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – propor ações de apoio à consolidação dos projetos de assentamento e reforma agrária no Estado sob a responsabilidade do governo federal, além de coordenar e executar ações da mesma natureza;~~<br>
+~~IV – propor ações de apoio à consolidação dos projetos de assentamento e reforma agrária no Estado sob a responsabilidade do governo federal, além de coordenar e executar ações da mesma natureza;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – planejar e desenvolver ações direcionadas ao desenvolvimento agrário e apoiar iniciativas entre o Estado e os municípios para a regularização fundiária;~~<br>
+~~V – planejar e desenvolver ações direcionadas ao desenvolvimento agrário e apoiar iniciativas entre o Estado e os municípios para a regularização fundiária;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – captar recursos relativos ao crédito fundiário mediante convênios e contratos de repasse;~~<br>
+~~VI – captar recursos relativos ao crédito fundiário mediante convênios e contratos de repasse;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – coordenar as medições e o georreferenciamento das áreas rurais nos processos discriminatórios administrativos e judiciais, bem como as pesquisas cartoriais das áreas de domínio do Estado;~~<br>
+~~VII – coordenar as medições e o georreferenciamento das áreas rurais nos processos discriminatórios administrativos e judiciais, bem como as pesquisas cartoriais das áreas de domínio do Estado;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – elaborar e propor políticas e diretrizes para o acesso à terra e o apoio aos assentamentos de trabalhadores rurais;~~<br>
+~~VIII – elaborar e propor políticas e diretrizes para o acesso à terra e o apoio aos assentamentos de trabalhadores rurais;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – gerir o patrimônio fundiário e os documentos pertinentes; e~~<br>
+~~IX – gerir o patrimônio fundiário e os documentos pertinentes; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~X – encarregar– se de competências correlatas.~~<br>
+~~X – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~Subseção II~~<br>
+~~Subseção II~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Irrigação, Clima e Aquicultura~~
 
-~~Art. 32. Compete à Gerência de Irrigação, Clima e Aquicultura:~~<br>
+~~Art. 32. Compete à Gerência de Irrigação, Clima e Aquicultura:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – realizar exames prévios em projetos técnicos de irrigação para a celebração de convênios com estados, municípios, governo federal e instituições privadas;~~<br>
+~~I – realizar exames prévios em projetos técnicos de irrigação para a celebração de convênios com estados, municípios, governo federal e instituições privadas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – acompanhar as atividades do CEI;~~<br>
+~~II – acompanhar as atividades do CEI;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – subsidiar a condução dos convênios, dos contratos de repasse, dos termos de compromisso e congêneres com o governo federal relativos a estudos, projetos e obras de irrigação e aquicultura;~~<br>
+~~III – subsidiar a condução dos convênios, dos contratos de repasse, dos termos de compromisso e congêneres com o governo federal relativos a estudos, projetos e obras de irrigação e aquicultura;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – promover a integração das ações de fortalecimento da infraestrutura hídrica no Estado de Goiás;~~<br>
+~~IV – promover a integração das ações de fortalecimento da infraestrutura hídrica no Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – acompanhar a execução das obras de irrigação de competência da SEAPA no Estado de Goiás;~~<br>
+~~V – acompanhar a execução das obras de irrigação de competência da SEAPA no Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – elaborar cálculos e cobrança em permissões de uso, cessões de uso e congêneres relativos a projetos de irrigação, clima e aquicultura, conforme a legislação vigente;~~<br>
+~~VI – elaborar cálculos e cobrança em permissões de uso, cessões de uso e congêneres relativos a projetos de irrigação, clima e aquicultura, conforme a legislação vigente;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – promover ações para a autonomia administrativa e operacional dos perímetros irrigados;~~<br>
+~~VII – promover ações para a autonomia administrativa e operacional dos perímetros irrigados;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – coordenar, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos de viabilidade de áreas próprias para a instalação da infraestrutura hídrica no atendimento à Política de Irrigação do Estado;~~<br>
+~~VIII – coordenar, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos de viabilidade de áreas próprias para a instalação da infraestrutura hídrica no atendimento à Política de Irrigação do Estado;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – analisar e avaliar os estudos, os projetos de infraestrutura e as obras de irrigação, quanto ao conteúdo, à formatação, ao atendimento aos editais referentes aos condicionantes de serviços, à equipe de projeto e às obras propostas pelos vencedores das licitações;~~<br>
+~~IX – analisar e avaliar os estudos, os projetos de infraestrutura e as obras de irrigação, quanto ao conteúdo, à formatação, ao atendimento aos editais referentes aos condicionantes de serviços, à equipe de projeto e às obras propostas pelos vencedores das licitações;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~X – promover a política de irrigação e o acompanhamento dos polos;~~<br>
+~~X – promover a política de irrigação e o acompanhamento dos polos;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XI – organizar banco de dados referentes ao monitoramento de risco climático para as safras agrícolas no Estado de Goiás;~~<br>
+~~XI – organizar banco de dados referentes ao monitoramento de risco climático para as safras agrícolas no Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XII – indicar, no monitoramento de risco climático, cultivares com suas características, regiões de adaptação e recomendações técnicas;~~<br>
+~~XII – indicar, no monitoramento de risco climático, cultivares com suas características, regiões de adaptação e recomendações técnicas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XIII – produzir boletins de análise e prognósticos climáticos, bem como informações e notas técnicas que apoiem os usuários na tomada de decisões referentes ao clima;~~<br>
+~~XIII – produzir boletins de análise e prognósticos climáticos, bem como informações e notas técnicas que apoiem os usuários na tomada de decisões referentes ao clima;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XIV – planejar, coordenar e executar programas e atividades relacionados com as políticas de desenvolvimento da aquicultura e da pesca, para o aumento da produção e da comercialização do que for obtido;~~<br>
+~~XIV – planejar, coordenar e executar programas e atividades relacionados com as políticas de desenvolvimento da aquicultura e da pesca, para o aumento da produção e da comercialização do que for obtido;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XV – conceber, elaborar, promover e apoiar a implantação de programas e projetos de aproveitamento hidroagrícola, além dos complementares à cadeia produtiva dos produtos obtidos com a irrigação; e~~<br>
+~~XV – conceber, elaborar, promover e apoiar a implantação de programas e projetos de aproveitamento hidroagrícola, além dos complementares à cadeia produtiva dos produtos obtidos com a irrigação; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XVI – encarregar– se de competências correlatas.~~<br>
+~~XVI – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~Subseção III~~<br>
+~~Subseção III~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Infraestrutura Rural~~
 
-~~Art. 33. Compete à Gerência de Infraestrutura Rural:~~<br>
+~~Art. 33. Compete à Gerência de Infraestrutura Rural:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – propor ações de infraestrutura rural nas áreas de energia, sistemas de abastecimento de água, agroindústrias, edificações rurais e armazenagem de insumos e produtos;~~<br>
+~~I – propor ações de infraestrutura rural nas áreas de energia, sistemas de abastecimento de água, agroindústrias, edificações rurais e armazenagem de insumos e produtos;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – coordenar o planejamento e a execução de ações de logística de infraestrutura rural e de engenharia;~~<br>
+~~II – coordenar o planejamento e a execução de ações de logística de infraestrutura rural e de engenharia;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – promover ações para a redução da pobreza no meio rural;~~<br>
+~~III – promover ações para a redução da pobreza no meio rural;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – apoiar e acompanhar projetos de infraestrutura hidroagrícola, além de contribuir na devida efetivação deles;~~<br>
+~~IV – apoiar e acompanhar projetos de infraestrutura hidroagrícola, além de contribuir na devida efetivação deles;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – orientar, propor e subsidiar a elaboração de planos, programas, projetos, estudos e ações setoriais que propiciem o fortalecimento da agropecuária e de suas organizações, bem como de empreendimentos rurais;~~<br>
+~~V – orientar, propor e subsidiar a elaboração de planos, programas, projetos, estudos e ações setoriais que propiciem o fortalecimento da agropecuária e de suas organizações, bem como de empreendimentos rurais;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – propor, coordenar, supervisionar, executar, monitorar e avaliar políticas, programas e ações de infraestrutura em projetos de assentamento;~~<br>
+~~VI – propor, coordenar, supervisionar, executar, monitorar e avaliar políticas, programas e ações de infraestrutura em projetos de assentamento;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – colaborar com a proposição de diretrizes e ações para o fortalecimento da juventude rural, com foco na sucessão rural;~~<br>
+~~VII – colaborar com a proposição de diretrizes e ações para o fortalecimento da juventude rural, com foco na sucessão rural;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – planejar e controlar ações, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos e projetos de infraestrutura relacionados à implantação e ao gerenciamento do agronegócio; e~~<br>
+~~VIII – planejar e controlar ações, diretamente ou em cooperação com os demais órgãos e entidades da administração pública, estudos e projetos de infraestrutura relacionados à implantação e ao gerenciamento do agronegócio; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – encarregar– se de competências correlatas.~~<br>
+~~IX – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~Subseção IV~~<br>
+~~Subseção IV~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 ~~Da Gerência de Sustentabilidade Agropecuária~~
 
-~~Art. 34. Compete à Gerência de Sustentabilidade Agropecuária:~~<br>
+~~Art. 34. Compete à Gerência de Sustentabilidade Agropecuária:~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~I – gerar políticas de incentivo às boas práticas produtivas no agronegócio e nas agroindústrias, bem como incentivar a adoção de sistemas de gestão ou governança ambiental, social e corporativa, com a utilização de sistemas de verificação, checagem, adaptação e benefícios;~~<br>
+~~I – gerar políticas de incentivo às boas práticas produtivas no agronegócio e nas agroindústrias, bem como incentivar a adoção de sistemas de gestão ou governança ambiental, social e corporativa, com a utilização de sistemas de verificação, checagem, adaptação e benefícios;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~II – estimular nas políticas desenvolvidas pela SEAPA a aplicação do conceito de Abordagem Integrada da Paisagem – AIP e de sistemas, práticas, produtos e processos de produção sustentáveis, para o aumento da capacidade adaptativa dos sistemas de produção agropecuária;~~<br>
+~~II – estimular nas políticas desenvolvidas pela SEAPA a aplicação do conceito de Abordagem Integrada da Paisagem – AIP e de sistemas, práticas, produtos e processos de produção sustentáveis, para o aumento da capacidade adaptativa dos sistemas de produção agropecuária;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~III – acompanhar as atividades do Comitê Estadual de Gestão da Agropecuária de Baixo Carbono e Sustentável de Goiás – ABCS, do Comitê Técnico de Prevenção e Combate a Focos de Incêndio na Zona Rural do Estado Goiás, da Comissão de Fertilidade do Solo e Nutrição de Plantas do Estado e Goiás – GoSolos e dos Comitês de Bacias Hidrográficas;~~<br>
+~~III – acompanhar as atividades do Comitê Estadual de Gestão da Agropecuária de Baixo Carbono e Sustentável de Goiás – ABCS, do Comitê Técnico de Prevenção e Combate a Focos de Incêndio na Zona Rural do Estado Goiás, da Comissão de Fertilidade do Solo e Nutrição de Plantas do Estado e Goiás – GoSolos e dos Comitês de Bacias Hidrográficas;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IV – implementar ações para o uso sustentável, a conservação e a revitalização dos recursos naturais do meio rural;~~<br>
+~~IV – implementar ações para o uso sustentável, a conservação e a revitalização dos recursos naturais do meio rural;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~V – elaborar políticas, programas e projetos para a redução dos desequilíbrios regionais e das desigualdades sociais, para promover o desenvolvimento sustentável;~~<br>
+~~V – elaborar políticas, programas e projetos para a redução dos desequilíbrios regionais e das desigualdades sociais, para promover o desenvolvimento sustentável;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VI – estabelecer parcerias e apoiar o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações socioprodutivas no agronegócio;~~<br>
+~~VI – estabelecer parcerias e apoiar o desenvolvimento de produtos, projetos, serviços, tecnologias e inovações socioprodutivas no agronegócio;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VII – propor ações de manutenção, recuperação e aumento de áreas nativas dos biomas do Estado de Goiás;~~<br>
+~~VII – propor ações de manutenção, recuperação e aumento de áreas nativas dos biomas do Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~VIII – criar políticas de subsídios e pagamentos por serviços ambientais e benefícios às boas práticas agropecuárias e agroindustriais;~~<br>
+~~VIII – criar políticas de subsídios e pagamentos por serviços ambientais e benefícios às boas práticas agropecuárias e agroindustriais;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~IX – atuar em parcerias com comitês, associações e comissões relacionadas à agropecuária sustentável, à baixa emissão de carbono, à prevenção de incêndios na zona rural e à fertilidade do solo;~~<br>
+~~IX – atuar em parcerias com comitês, associações e comissões relacionadas à agropecuária sustentável, à baixa emissão de carbono, à prevenção de incêndios na zona rural e à fertilidade do solo;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~X – desenvolver projetos para o aumento da produção de alimentos, a valorização dos recursos naturais e o atendimento aos interesses dos produtores e dos consumidores;~~<br>
+~~X – desenvolver projetos para o aumento da produção de alimentos, a valorização dos recursos naturais e o atendimento aos interesses dos produtores e dos consumidores;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XI – promover a inovação, a agregação de valor aos produtos agrícolas e o fortalecimento da agricultura orgânica e da agropecuária sustentável;~~<br>
+~~XI – promover a inovação, a agregação de valor aos produtos agrícolas e o fortalecimento da agricultura orgânica e da agropecuária sustentável;~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XII – acompanhar ações de proteção, conservação e manejo do solo, da água, da fauna e da flora, quando estiverem relacionadas com o processo produtivo agropecuário; e~~<br>
+~~XII – acompanhar ações de proteção, conservação e manejo do solo, da água, da fauna e da flora, quando estiverem relacionadas com o processo produtivo agropecuário; e~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
-~~XIII – encarregar– se de competências correlatas.~~<br>
+~~XIII – encarregar– se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.810, de 17-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111598), art. 4º, III.
 
 CAPÍTULO VIII

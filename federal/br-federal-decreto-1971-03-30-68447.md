@@ -1,5 +1,3 @@
-###DEC-068447-0-000-30-03-1971@@@
-
 DECRETO Nº 68.447, DE 30 DE MARÇO DE 1971.
 
 Aprova o Regulamento para o Centro de Informações da Marinha.

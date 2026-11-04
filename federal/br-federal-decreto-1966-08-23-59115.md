@@ -1,5 +1,3 @@
-###DEC-059115-0-000-23-08-1966@@@
-
 Decreto nº 59.115, de 23 de agôsto de 1966.
 
 Fazenda Regional de Criação de Soure passa a denominar-se Fazenda Regional de Criação de Marajó.

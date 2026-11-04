@@ -1,5 +1,3 @@
-###DEC-090933-0-000-11-02-1985@@@
-
 Decreto nº 90.933, de 11 fevereiro de 1985
 
 Dispõe sobre a função de confiança de Agente da Previdência Social.

@@ -1,5 +1,3 @@
-###DEL-007019-0-000-03-11-1944@@@
-
 DECRETO-LEI N. 7.019 – DE 3 DE NOVEMBRO DE 1944
 
 Altera as carreiras de Médico e de Médico Sanitarista, cria a de Médico Puericultor no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-052862-0-000-18-11-1963@@@
-
 DECRETO Nº 52.862, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Martiniano Rodrigues Alves Filho a pesquisar guano no município de Cananeia, Estado de São Paulo.

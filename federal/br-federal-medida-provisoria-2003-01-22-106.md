@@ -1,5 +1,3 @@
-###MPV-000106-0-000-22-01-2003@@@
-
 MEDIDA PROVISÓRIA Nº 106, DE 22 DE JANEIRO 2003.
 
 Autoriza o Poder Executivo a instituir o Serviço Social Autônomo Agência de Promoção de Exportações do Brasil - APEX-Brasil, altera os arts. 8~~º~~ e 11 da Lei n~~º~~ 8.029, de 12 de abril de 1990, e dá outras providências.
@@ -102,5 +100,6 @@ Autoriza o Poder Executivo a instituir o Serviço Social Autônomo Agência de P
 
         Brasília, 22 de janeiro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Luiz Fernando Furlan

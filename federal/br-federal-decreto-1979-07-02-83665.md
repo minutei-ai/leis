@@ -1,5 +1,3 @@
-###DEC-083665-0-000-02-07-1979@@@
-
 Decreto nº 83.665, de 02 de julho de 1979.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Blumenau, Estado de Santa Catarina.

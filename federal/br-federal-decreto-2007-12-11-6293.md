@@ -1,5 +1,3 @@
-###DEC-006293-0-000-11-12-2007@@@
-
 DECRETO Nº 6.293, DE 11 DE DEZEMBRO DE 2007.
 
 Altera e acresce dispositivos ao Decreto no 4.858, de 13 de outubro de 2003, que dispõe sobre a composição e funcionamento do Conselho Superior do Cinema.
@@ -35,5 +33,3 @@ LUIZ INÁCIO LULA DA SILVA
 Gilberto Gil
 
 Franklin Martins
-
-Este texto não substitui o publicado no DOU de 11.12.2007 - Edição extra

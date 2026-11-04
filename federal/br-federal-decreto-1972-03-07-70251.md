@@ -1,5 +1,3 @@
-###DEC-070251-0-000-07-03-1972@@@
-
 DECRETO Nº 70.251, DE 7 DE MARÇO DE 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha e cassa a respectiva disponibilidade.

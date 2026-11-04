@@ -1,5 +1,3 @@
-###DEC-081687-0-000-18-05-1978@@@
-
 Decreto nº 81.687, de 18 de maio de 1978.
 
 Concede reconhecimento ao curso de Educação Física, da Universidade Federal de Sergipe, com sede na cidade de Aracaju, Estado de Sergipe.

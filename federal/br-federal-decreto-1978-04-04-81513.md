@@ -1,5 +1,3 @@
-###DEC-081513-0-000-04-04-1978@@@
-
 Decreto nº 81.513, de 04 de abril de 1978.
 
 Concede à Moreira - Moagem de Minérios S/A o direito de lavrar argila no Município de Resende, Estado do Rio de Janeiro.

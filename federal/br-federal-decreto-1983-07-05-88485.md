@@ -1,5 +1,3 @@
-###DEC-088485-0-000-05-07-1983@@@
-
 Decreto nº 88.485, de 05 de julho de 1983
 
 Dispõe sobre a criação do Grupo-Atividades de Comercialização e Classificação de Café e dá outras providências.

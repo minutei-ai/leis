@@ -1,5 +1,3 @@
-###DEC-055796-0-000-24-02-1965@@@
-
 DECRETO Nº 55.796, DE 24 DE FEVEREIRO DE 1965.
 
 Altera dispositivo do Regulamento aprovado pelo Decreto nº 47.973, de 2 de abril de 1960.

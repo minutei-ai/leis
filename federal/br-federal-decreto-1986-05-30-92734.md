@@ -1,5 +1,3 @@
-###DEC-092734-0-000-30-05-1986@@@
-
 DECRETO Nº 92.734, DE 30 DE MAIO DE 1986
 
 Extingue o Consulado do Brasil em Trieste.

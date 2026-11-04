@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185086)
-
 # DECRETO Nº 63.179, DE 30 DE JANEIRO DE 2018
 
 ### _Autoriza a Fazenda do Estado a permitir o uso, a título precário, gratuito e por prazo indeterminado, em favor do Município de Adamantina, do imóvel que especifica e dá providências correlatas_
@@ -20,8 +18,12 @@ Palácio dos Bandeirantes, 30 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de janeiro de 2018.

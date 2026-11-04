@@ -1,5 +1,3 @@
-###DEC-071309-0-000-03-11-1972@@@
-
 DECRETO Nº 71.309 - DE 3 DE NOVEMBRO DE 1972.
 
 Aprova o Regulamento da Diretoria de Movimentação, do Departamento Geral do Pessoal do Ministério do Exército e dá outras providências.

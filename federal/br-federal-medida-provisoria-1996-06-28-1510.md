@@ -1,7 +1,3 @@
-1
-
-###MPV-001510-0-000-28-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.510, DE 28 DE JUNHO DE 1996.
 
 Dispõe sobre a ratificação da recriação dos Fundos que menciona, e dá outras providências.

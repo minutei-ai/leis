@@ -1,5 +1,3 @@
-###DEL-004203-0-000-26-03-1942@@@
-
 DECRETO-LEI N. 4.203 – DE 26 DE MARÇO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 290:000$0, para ocorrer às despesas com a realização dos Quartos Jogos Universitários Brasileiros, nesta Capital.

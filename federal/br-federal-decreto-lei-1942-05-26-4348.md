@@ -1,5 +1,3 @@
-###DEL-004348-0-000-26-05-1942@@@
-
 DECRETO-LEI N. 4.348 – DE 26 DE MAIO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 258$1, para pagamento de gratificação de magistério

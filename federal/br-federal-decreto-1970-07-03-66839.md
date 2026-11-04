@@ -1,5 +1,3 @@
-###DEC-066839-0-000-03-07-1970@@@
-
 DECRETO Nº 66.839, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Escola São Domingos Sávio, com sede em Camamu, Estado da Bahia.

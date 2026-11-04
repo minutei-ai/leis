@@ -1,5 +1,3 @@
-###DEC-092365-0-000-04-02-1986@@@
-
 DECRETO Nº 92.365, DE 04 DE FEVEREIRO DE 1986
 
 Dispõe sobre a criação de função de confiança na Tabela Permanente do Ministério da Ciência e Tecnologia e dá outras providências.

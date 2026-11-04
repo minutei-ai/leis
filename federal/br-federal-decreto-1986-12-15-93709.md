@@ -1,5 +1,3 @@
-###DEC-093709-0-000-15-12-1986@@@
-
 DECRETO Nº 93.709, DE 15 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Manguari", situado no Município de Lago Verde, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619 de 02 de maio de 1986, e dá outras providências.

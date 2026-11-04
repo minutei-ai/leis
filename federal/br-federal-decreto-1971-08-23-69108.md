@@ -1,5 +1,3 @@
-###DEC-069108-0-000-23-08-1971@@@
-
 Decreto Nº 69.108, DE 23 DE agosto DE 1971.
 
 Declara de utilidade pública o Lar Escola Imaculada Conceição,  com sede em Descalvado, Estado de São Paulo.

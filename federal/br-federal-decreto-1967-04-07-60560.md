@@ -1,5 +1,3 @@
-###DEC-060560-0-000-07-04-1967@@@
-
 DECRETO Nº 60.560, DE 7 DE ABRIL DE 1967.
 
 Concede à companhia Adriática de Seguros autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

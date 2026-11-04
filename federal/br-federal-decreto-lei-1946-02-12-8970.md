@@ -1,5 +1,3 @@
-###DEL-008970-0-000-12-02-1946@@@
-
 DECRETO–LEI N. 8.970 – DE 12 DE FEVEREIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Caixa Beneficente dos Sargentos da Marinha, do impôsto que menciona.

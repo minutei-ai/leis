@@ -1,5 +1,3 @@
-###DEC-054641-0-000-28-10-1964@@@
-
 DECRETO Nº 54.641, DE 28 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Sul Mineira de Eletricidade a construir linha de transmissão.
@@ -29,8 +27,6 @@ Brasília, 28 de outubro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054641-0-000-28-10-1964@@@RET01+++
 
 Decreto nº 54.641, de 28 de outubro de 1964.
 

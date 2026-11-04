@@ -1,5 +1,3 @@
-###DEC-088310-0-000-17-05-1983@@@
-
 Decreto nº 88.310, de 17 de maio de 1983
 
 Autoriza a transferência direta, para a TELEVISÃO GUAJARÁ LTDA., da concessão outorgada à RÁDIO GUAJARÁ LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Belém, Estado do Pará.

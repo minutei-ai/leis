@@ -1,5 +1,3 @@
-###DEL-002080-0-000-20-12-1983@@@
-
 # Decreto-lei nº 2.080, de 20 de dezembro de 1983.
 
 Reajusta o valor do soldo base de cálculo da remuneração dos militares.

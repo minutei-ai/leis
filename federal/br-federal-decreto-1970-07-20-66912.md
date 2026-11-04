@@ -1,5 +1,3 @@
-###DEC-066912-0-000-20-07-1970@@@
-
 decreto nº 66.912, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 35.465, de 6 de maio de 1954.

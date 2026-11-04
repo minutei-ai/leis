@@ -1,5 +1,3 @@
-###DEC-071909-0-000-14-03-1973@@@
-
 DECRETO nº 71.909, de 14 de março de 1973.
 
 Concede a Mineração Geral do Nordeste S.A. o direito de lavrar calcário no Município de Boqueirão, Estado da Paraíba.

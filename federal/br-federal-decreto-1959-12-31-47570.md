@@ -1,5 +1,3 @@
-###DEC-047570-0-000-31-12-1959@@@
-
 DECRETO Nº 47.570, DE 31 DE DEZEMBRO DE 1959.
 
 Cria o Parque Nacional de Araguaia, integrante da Seção de Parques e Florestas Nacionais de Serviço Florestal do Ministério da Agricultura.

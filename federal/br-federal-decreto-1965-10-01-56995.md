@@ -1,5 +1,3 @@
-###DEC-056995-0-000-01-10-1965@@@
-
 DECRETO Nº 56.995, DE 1º DE OUTUBRO DE 1965.
 
 Dispõe sôbre a adaptação do Instituto de Previdência e Assistência dos Servidores do estado - IPASE - ao Sistema Financeiro da Habitação.

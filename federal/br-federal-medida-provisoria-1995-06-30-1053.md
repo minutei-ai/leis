@@ -1,7 +1,3 @@
-1
-
-###MPV-001053-0-000-30-06-1995@@@
-
 MEDIDA PROVISÓRIA Nº 1.053, DE 30 DE JUNHO DE 1995
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

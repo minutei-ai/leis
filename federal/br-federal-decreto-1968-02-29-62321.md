@@ -1,5 +1,3 @@
-###DEC-062321-0-000-29-02-1968@@@
-
 Decreto nº 62.321, de 29 de fevereiro de 1968.
 
 Regulamenta e estrutura e Administração do Aeroporto Internacional do Galeão.

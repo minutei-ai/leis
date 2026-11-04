@@ -1,5 +1,3 @@
-###DEC-069972-0-000-20-01-1972@@@
-
 DECRETO Nº 69.972, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Instituição Nosso Lar, com sede no Estado da Guanabara.

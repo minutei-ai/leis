@@ -1,5 +1,3 @@
-###DEC-050930-0-000-10-07-1961@@@
-
 DECRETO Nº 50.930, DE 10 DE JULHO DE 1961.
 
 Concede à sociedade Navegação Marenave Ltda., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

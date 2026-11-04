@@ -1,5 +1,3 @@
-###DEC-051118-0-000-02-08-1961@@@
-
 DECRETO Nº 51.118, DE 2 DE AGÔSTO DE 1961.
 
 Isenta do pagamento do impôsto de importação, nos têrmos do art. 4º da Lei nº 3.244, de 14 de agôsto de 1957, os bens cuja importação seja considerada de interêsse para a produção agropecuária e dá outras providências.

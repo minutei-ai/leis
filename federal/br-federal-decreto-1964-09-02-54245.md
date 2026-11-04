@@ -1,5 +1,3 @@
-###DEC-054245-0-000-02-09-1964@@@
-
 DECRETO Nº 54.245, DE 2 DE SETEMBRO DE 1964.
 
 Dispõe sôbre a aplicação do disposto na Lei número 4.345, de 26 de junho de 1964, aos servidores da Superintendência do Desenvolvimento da Pesca e dá outras providência.

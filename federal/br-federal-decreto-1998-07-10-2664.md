@@ -1,5 +1,3 @@
-###DEC-002664-0-000-10-07-1998@@@
-
 DECRETO Nº 2.664, DE 10 DE JULHO DE 1998
 
 Regulamenta a Lei nº 9.676, de 30 de junho de 1998, que dispõe sobre a periodicidade de recolhimento das contribuições previdenciárias arrecadadas pelo Instituto Nacional do Seguro Social - INSS.

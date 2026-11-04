@@ -1,5 +1,3 @@
-###DEC-086173-0-000-02-07-1981@@@
-
 Decreto Nº 86.173, de 02 de julho de 1981.
 
 Altera os limites do Parque Nacional da Chapada dos Veadeiros.

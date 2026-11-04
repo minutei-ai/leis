@@ -1,5 +1,3 @@
-###DEC-057071-0-000-15-10-1965@@@
-
 Decreto nº 57.071, de 15 de outubro de 1965.
 
 Concede à G. Frank Mineração, Indústria e Comércio Limitada autorização para funcionar como emprêsa de mineração.

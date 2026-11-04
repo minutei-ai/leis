@@ -1,5 +1,3 @@
-###DEC-074648-0-000-04-10-1974@@@
-
 DECRETO nº 74.648, DE 4 DE OUTUBRO DE 1974.
 
 Concede reconhecimento ao curso de Direção da Faculdade de Ciências Jurídicas e Administrativas de Itapetininga, mantida pela Fundação Karnig Bazarian, com sede na Cidade de Itapetininga, Estado de São Paulo.

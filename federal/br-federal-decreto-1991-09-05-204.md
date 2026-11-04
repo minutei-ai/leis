@@ -1,5 +1,3 @@
-###DEC-000204-0-000-05-09-1991@@@
-
 DECRETO Nº 204, DE 5 DE SETEMBRO DE 1991
 
 Acrescenta inciso ao art. 255 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985.

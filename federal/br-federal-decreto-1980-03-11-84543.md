@@ -1,5 +1,3 @@
-###DEC-084543-0-000-11-03-1980@@@
-
 DECRETO Nº 84.543, DE 11 DE MARÇO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

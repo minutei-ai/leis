@@ -1,5 +1,3 @@
-###MPV-001700-0-017-28-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.700-17, DE 28 DE AGOSTO DE 1998
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

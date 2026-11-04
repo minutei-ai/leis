@@ -1,5 +1,3 @@
-###DEC-069129-0-000-26-08-1971@@@
-
 DECRETO Nº 69.129, DE 26 DE AGôSTO DE 1971.
 
 Confisca bem de Alberto Vicente Caricio e dá outras providências.

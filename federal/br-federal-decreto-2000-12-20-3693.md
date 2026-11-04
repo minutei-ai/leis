@@ -1,5 +1,3 @@
-###DEC-003693-0-000-20-12-2000@@@
-
 Decreto n.º 3.693, de 20 de dezembro de 2000
 
 Da nova redação a dispositivos do regulamento para a modalidade de licitação denominada pregão, para aquisição de bens e serviços, aprovado pelo Decreto n.º 3.555, de 8 de agosto de 2000.

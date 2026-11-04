@@ -1,5 +1,3 @@
-###DEC-054627-0-000-27-10-1964@@@
-
 DECRETO Nº 54.627, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza a Cia. de Mineração São Mateus a pesquisar calcário no Município de Itararé, Estado de São Paulo.

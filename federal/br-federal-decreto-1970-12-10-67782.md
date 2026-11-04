@@ -1,5 +1,3 @@
-###DEC-067782-0-000-10-12-1970@@@
-
 DECRETO Nº 67.782, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o decreto nº 46.668, de 17 de agôsto de 1959.

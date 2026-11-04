@@ -1,5 +1,3 @@
-###DEC-060381-0-000-11-03-1967@@@
-
 DECRETO Nº 60.381, DE 11 DE MARÇO DE 1967.
 
 Atribui aos Inspetores e Fiscais de Previdências, do Instituto Nacional de Previdência Social, competência, para fazer a inspeção do trabalho e dá outras providências.

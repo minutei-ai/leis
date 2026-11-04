@@ -16,5 +16,6 @@ RONALDO CAIADO
 
 Governador do Estado
 
-Delegado Humberto Teófilo<br>
+Delegado Humberto Teófilo
+
 Deputado

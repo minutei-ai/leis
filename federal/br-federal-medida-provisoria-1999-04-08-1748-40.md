@@ -1,5 +1,3 @@
-###MPV-001748-0-040-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.748-40, DE 8 DE ABRIL DE 1999
 
 Altera os arts. 2º, 3º, 4º, 5º, 6º, 7º e 9º da Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, e dá outras providências.

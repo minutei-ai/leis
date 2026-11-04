@@ -1,5 +1,3 @@
-###DEC-085748-0-000-24-02-1981@@@
-
 Decreto nº 85.748, de 24 de fevereiro de 1981
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado de São Paulo, e dá outras providências.

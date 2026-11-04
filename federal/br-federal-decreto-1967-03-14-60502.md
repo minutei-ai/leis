@@ -1,5 +1,3 @@
-###DEC-060502-0-000-14-03-1967@@@
-
 DECRETO Nº 60.502, DE 14 DE MARÇO DE 1967.
 
 Dispõe sôbre a denominação do prédio do Ministério das Relações Exteriores em Brasília.

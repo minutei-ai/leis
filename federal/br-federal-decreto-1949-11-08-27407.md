@@ -1,20 +1,18 @@
-###DEC-027407-0-000-08-11-1949@@@
+**DECRETO Nº 27.407, DE 8 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.407, DE 8 DE NOVEMBRO DE 1949.</strong>
+***Outorga à Companhia Sul Mineral de Energia Elétrica, Sociedade Anônima, concessão para o aproveitamento de energia hidráulica de um desnível situado no rio Canõas, município de Arceburgo, Estado de Minas Gerais.***
 
-<em><strong>Outorga à Companhia Sul Mineral de Energia Elétrica, Sociedade Anônima, concessão para o aproveitamento de energia hidráulica de um desnível situado no rio Canõas, município de Arceburgo, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 164, letra *b*, do Código de Águas (dec. 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 164, letra <em>b</em>, do Código de Águas (dec. 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Respeitados os direitos de terceiros e outorgada à Companhia Sul Mineira de Energia Elétrica, Sociedade Anônima, concessão para o aproveitamento de energia hidráulica de um desnível situado no rio Canõas, município de Arceburgo, Estado de Minas Gerais.
+**Art**. 1º - Respeitados os direitos de terceiros e outorgada à Companhia Sul Mineira de Energia Elétrica, Sociedade Anônima, concessão para o aproveitamento de energia hidráulica de um desnível situado no rio Canõas, município de Arceburgo, Estado de Minas Gerais.
 
 § 1º - Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º - O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviços públicos, serviços de utilidade pública e para comércio de energia na zona da concessionária.
 
-<strong>Art</strong>. 2º - Caducará o presente título, independentemente de qualquer ato declaratório, se a concessionária não cumprir as seguintes condições:
+**Art**. 2º - Caducará o presente título, independentemente de qualquer ato declaratório, se a concessionária não cumprir as seguintes condições:
 
 I - Registrá-lo na Divisão de Águas dentro de trinta (30) dias, após a sua publicação.
 
@@ -100,30 +98,30 @@ v) Iniciar e concluir as obras nos prazos que forem determinados pelo Ministéri
 
 Parágrafo único - Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º - A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º - A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º - O capital a remunerar será o efetivamente investido nas instalações da concessionária, em  função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º - O capital a remunerar será o efetivamente investido nas instalações da concessionária, em  função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º - As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 5º - As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 6º - Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º - Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. - A constituição desse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º - Findo o prazo para concessão, tõda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
+**Art**. 7º - Findo o prazo para concessão, tõda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
 
 § 1º - Se o Estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Gôverno Federal que a concessão seja renovada pela forma que deverá estar prevista no respectivo contrato.
 
 § 2º - Para os efeitos do parágrafo único anterior, fica a concessionária obrigada a dar conhecimento ao Governo Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8º - A presente concessão vigorará pelo prazo de (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 8º - A presente concessão vigorará pelo prazo de (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º - O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 9º - O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10. Revogam-se as disposições em contrário.
+**Art**. 10. Revogam-se as disposições em contrário.
 
 Rio de janeiro, 8 de novembro de 1949; 128º da Independência e 61º República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

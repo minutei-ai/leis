@@ -1,5 +1,3 @@
-###MPV-002084-0-071-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.084-71, DE 25 DE JANEIRO DE 2001
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003707-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.707 – DE 14 DE OUTUBRO DE 1941
 
 Dispõe sobre a nomeação dos funcionários beneficiados pelos decretos-leis ns. 145, de 1937, e 2.166, de 1940, e dá outras providências.

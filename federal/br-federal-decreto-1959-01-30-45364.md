@@ -1,5 +1,3 @@
-###DEC-045364-0-000-30-01-1959@@@
-
 decreto nº 45.364, de 30 de janeiro de 1959.
 
 Altera a lotação do Ministério da Saúde.

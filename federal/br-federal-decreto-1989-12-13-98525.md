@@ -1,5 +1,3 @@
-###DEC-098525-0-000-13-12-1989@@@
-
 DECRETO N° 98.525, DE 13 DE DEZEMBRO DE 1989
 
 Inclui, na composição do Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, representante da Assembléia Legislativa do Estado do Amazonas.

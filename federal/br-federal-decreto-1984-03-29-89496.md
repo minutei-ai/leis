@@ -1,5 +1,3 @@
-###DEC-089496-0-000-29-03-1984@@@
-
 Decreto nº 89.496 de 29 de março de 1984
 
 Regulamenta a Lei nº 6.662, de 25 de junho de 1979, que dispõe sobre a Política Nacional de Irrigação, e dá outras providências.

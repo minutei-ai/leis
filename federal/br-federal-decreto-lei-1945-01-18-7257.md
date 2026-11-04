@@ -1,5 +1,3 @@
-###DEL-007257-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.257 – DE 18 DE JANEIRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção de impôsto de doação, concorrente com o de compra e venda, na aquisição de prédio para moradia da viúva e do filho menor de Augusto do Monte Teixeira, 3º Maquinista do “Cabedelo”, navio brasileiro torpedeado na guerra atual

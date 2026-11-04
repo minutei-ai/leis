@@ -1,5 +1,3 @@
-###DEC-084065-0-000-08-10-1979@@@
-
 Decreto nº 84.065, de 8 de outubro de 1979.
 
 Inclui na classificação de Órgãos de deliberação coletiva, aprovada pelo Decreto nº 70.154, de 17 de fevereiro de 1972, o Conselho Administrativo da Coordenadoria das Empresas Incorporadas ao Patrimônio Nacional-CEIPN.

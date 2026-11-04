@@ -1,14 +1,12 @@
-###DEC-063726-0-000-04-12-1968@@@
+**DECRETO Nº 63.726, DE 4 DE DEZEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.726, DE 4 DE DEZEMBRO DE 1968.</strong>
+***Altera o Regulamento para o Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais, aprovado pelo Decreto nº 60.436, de 13 de março de 1967.***
 
-<em><strong>Altera o Regulamento para o Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais, aprovado pelo Decreto nº 60.436, de 13 de março de 1967.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Art. 83, Inciso II, da Constituição do Brasil,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Art. 83, Inciso II, da Constituição do Brasil,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O parágrafo único do art. 2º; o art. 18 (<em>caput</em>); o § 2º do art. 21; o § 1º do art. 23; o § 2º do art. 27; o art. 31; os §§ 2º, 3º, 4º e 5º do art. 33; o § 3º do art. 34; o parágrafo único do art. 35; os artigos 37, 38 e 41; as letras <em>a, b, c, d</em> e <em>e</em> do art. 46; a letra <em>b</em> do art. 48; as letras <em>a,</em> <em>b, c</em>, <em>d</em> e <em>e</em> do art. 49; as letras <em>a</em> e <em>b</em> do art. 51; os Incisos III e IV do art. 70; os inciso IV e V do art. 72; os §§ 1º e 2º do art. 78; o § 1º do art. 80; os Incisos III, IV, e V do art. 92; os Incisos V, VI e VII do art. 93; os artigos 94, 105 e 106 (<em>caput</em>) e o art. 128, do Regulamento para o Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais, aprovado pelo Decreto nº 60.436, de 13 de março de 1967, passam a vigorar com a seguinte redação:
+**Art**. 1º O parágrafo único do art. 2º; o art. 18 (*caput*); o § 2º do art. 21; o § 1º do art. 23; o § 2º do art. 27; o art. 31; os §§ 2º, 3º, 4º e 5º do art. 33; o § 3º do art. 34; o parágrafo único do art. 35; os artigos 37, 38 e 41; as letras *a, b, c, d* e *e* do art. 46; a letra *b* do art. 48; as letras *a,b, c*, *d* e *e* do art. 49; as letras *a* e *b* do art. 51; os Incisos III e IV do art. 70; os inciso IV e V do art. 72; os §§ 1º e 2º do art. 78; o § 1º do art. 80; os Incisos III, IV, e V do art. 92; os Incisos V, VI e VII do art. 93; os artigos 94, 105 e 106 (*caput*) e o art. 128, do Regulamento para o Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais, aprovado pelo Decreto nº 60.436, de 13 de março de 1967, passam a vigorar com a seguinte redação:
 
 “Art. 2º .....................................................................................................................................
 
@@ -168,7 +166,7 @@ Art. 106. A praça que se julgar necessitada de usar cabelo, barba ou bigode enc
 
 Art. 128. SPC e os Cabos com menos de dez (10) anos de serviço na data da entrada em vigor dêste Regulamento, concorrerão obrigatoriamente aos dois (2) primeiros concursos de admissão do Curso de Formação de Sargento. Findo êsse prazo as praças que não tiverem sido aproveitadas ou não tiverem concorrido, serão licenciadas do Serviço Ativo da Marinha”.
 
-<strong>Art</strong>. 2º Ficam acrescentados aos artigos 33 e 42, do Regulamento para o Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais aprovado pelo Decreto nº 60.436, de 13 de março de 1967, mais um parágrafo, com a seguinte redação:
+**Art**. 2º Ficam acrescentados aos artigos 33 e 42, do Regulamento para o Corpo do Pessoal Subalterno do Corpo de Fuzileiros Navais aprovado pelo Decreto nº 60.436, de 13 de março de 1967, mais um parágrafo, com a seguinte redação:
 
 “Art. 33 ..................................................................................................................................
 
@@ -178,10 +176,10 @@ Art. 42 ........................................................................
 
 § 5º Para fins de engajamento e reengajamento, a avaliação do comportamento considerada e a do semestre imediatamente anterior ao do término do compromisso”.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 4 de dezembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Augusto Hamann Rademaker Grünewald

@@ -1,5 +1,3 @@
-###DEC-094986-0-000-30-09-1987@@@
-
 DECRETO Nº 94.986, DE 30 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Ciências e Letras de Araras.

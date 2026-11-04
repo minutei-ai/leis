@@ -1,5 +1,3 @@
-###DEC-049746-0-000-31-12-1960@@@
-
 DECRETO Nº 49.746, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia Central Brasileira de Fôrça Elétrica a ampliar suas instalares mediante a construção de uma linha de transmissão entre a Usina Hidrelétrica de Fruteiras, e a subestação da Fábrica de Cimento Barbará, no município de Cachoeiro do Itapemirim no Estado do Espirito Santo.

@@ -1,5 +1,3 @@
-###DEC-090342-0-000-18-10-1984@@@
-
 Decreto nº 90.342, de 18 de outubro de 1984
 
 Cria a Medalha de Mérito Cairu.

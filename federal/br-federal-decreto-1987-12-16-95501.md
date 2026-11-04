@@ -1,5 +1,3 @@
-###DEC-095501-0-000-16-12-1987@@@
-
 DECRETO Nº 95.501, DE 16 DE DEZEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO PIONEIRA DE FORMOSA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Formosa D'Oeste, Estado do Paraná.

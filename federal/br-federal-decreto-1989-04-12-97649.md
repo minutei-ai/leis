@@ -1,7 +1,3 @@
-1
-
-###DEC-097649-0-000-12-04-1989@@@
-
 DECRETO N° 97.649, DE 12 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade de Educação Física e Ciências Econômicas de Fátima do Sul, em Mato Grosso do Sul.

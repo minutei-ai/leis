@@ -867,7 +867,3 @@ II.2 – Tabela de Correlação – Carreira de Advogado Autárquico
 Situação anterior à publicação desta lei complementar Situação a partir da publicação desta lei complementar Classe Nível de escolaridade da classe Entidade Carreira Nível de escolaridade da carreira Procurador Superior JUCEMG Advogado Autárquico Superior Advogado Superior IPSEMG
 
 (Item revogado pela alínea “f” do inciso I do art. 13 da Lei Complementar nº 188, de 2/7/2026, com produção de efeitos a partir de 1º/8/2026.)
-
-\=======================================================================
-
-Data da última atualização: 3/8/2026.

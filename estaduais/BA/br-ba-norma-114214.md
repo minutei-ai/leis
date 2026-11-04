@@ -1,6 +1,7 @@
 LEI Nº 1.538 DE 07 DE NOVEMBRO DE 1961
 
-Ver também:<br>
+Ver também:
+
 Lei nº [14.091](https://www.legislabahia.ba.gov.br/documentos/lei-no-14091-de-29-de-abril-de-2019) de 29 de abril de 2019 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro, de 2011, os limites dos municípios de Candeias, Itaparica, Madre de Deus, Salinas da Margarida, Simões Filho e Vera Cruz.
 
 Cria o Município de Simões Filho, desmembrado do de Salvador.
@@ -47,4 +48,4 @@ ORLANDO MOSCOSO
 
 Manso Cabral
 
-* * *
+ *

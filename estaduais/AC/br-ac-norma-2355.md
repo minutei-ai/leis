@@ -1,6 +1,10 @@
 > **LEI Nº 3.167, DE 21 DE SETEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei n. 725, de 13 de dezembro de 1980, que “Institui o Fundo Agropecuário Estadual – FUNAGRO, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei n. 725, de 13 de dezembro de 1980, que “Institui o Fundo Agropecuário Estadual – FUNAGRO, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

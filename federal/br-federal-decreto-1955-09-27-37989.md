@@ -1,14 +1,12 @@
-###DEC-037989-0-000-27-09-1955@@@
+**DECRETO Nº 37.989, DE 27 DE SETEMBRO DE 1955.**
 
-<strong>DECRETO Nº 37.989, DE 27 DE SETEMBRO DE 1955.</strong>
+***Dá nova redação aos artigos que constituem o Capítulo XII - Das infrações e Penalidades - do Decreto nº 20.425, de 17 de janeiro de 1946.***
 
-<em><strong>Dá nova redação aos artigos que constituem o Capítulo XII - Das infrações e Penalidades - do Decreto nº 20.425, de 17 de janeiro de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 40 a 59, do Decreto nº 20.425, de 17 de janeiro de 1946, passam a ter a seguinte redação:
+**Art**. 1º Os arts. 40 a 59, do Decreto nº 20.425, de 17 de janeiro de 1946, passam a ter a seguinte redação:
 
 “Art. 40. Infração é tôda ação ou omissão dolosa ou culposa, contrária a dispositivo sôbre a legislação ervateira ou de regulamentos e resoluções emanadas do I.N.M.
 
@@ -40,7 +38,7 @@ g) qualquer outra sanção estabelecida pelo I.N.M., para casos especiais.
 
 § 5º Será determinada a inutilização de qualquer produto apreendido, quando considerado impróprio para o consumo.
 
-§ 6º A pena de cancelamento de registro só terá aplicação depois de esgotado o prazo previsto na letra <em>e</em> dêste artigo, cabendo à Junta Deliberativa, decorridos três anos, e a requerimento do interessado, proceder à revisão do respectivo processo.
+§ 6º A pena de cancelamento de registro só terá aplicação depois de esgotado o prazo previsto na letra *e* dêste artigo, cabendo à Junta Deliberativa, decorridos três anos, e a requerimento do interessado, proceder à revisão do respectivo processo.
 
 Art. 42. Constitui infração sujeita à multa de Cr$2.000,00 a Cr$20.000,00:
 
@@ -112,13 +110,13 @@ f) o exportador.
 
 Parágrafo único. Quando a infração decorrer da ação de uma ou mais pessoas, a responsabilidade destas e solidária.
 
-Art. 45. O mate que fôr apreendido por infração do que determinam os itens III, IV, V, VI letra <em>d</em>, VII, VIII e X letras <em>a</em> e <em>b</em>, do art. 42, será incinerado após decisão final do recurso, salvo o seu aproveitamento industrial para outros fins, deliberado pelo Instituto.
+Art. 45. O mate que fôr apreendido por infração do que determinam os itens III, IV, V, VI letra *d*, VII, VIII e X letras *a* e *b*, do art. 42, será incinerado após decisão final do recurso, salvo o seu aproveitamento industrial para outros fins, deliberado pelo Instituto.
 
-Art. 46. A erva apreendida por infração do que determina a letra <em>e</em> do item X do art. 42, satisfeita a multa, as taxas, as despesas efetuadas, será restituída ao infrator, verificado que tenha os requisitos exigidos pelo Instituto.
+Art. 46. A erva apreendida por infração do que determina a letra *e* do item X do art. 42, satisfeita a multa, as taxas, as despesas efetuadas, será restituída ao infrator, verificado que tenha os requisitos exigidos pelo Instituto.
 
 Parágrafo único. Verificada a reincidência da falta das guias além da multa em dôbro será o infrator suspenso de suas atividades por período de seis meses a dois anos.
 
-Art. 47. Satisfeita a multa e as despesas efetuadas, a erva apreendida por infração ao disposto na letra <em>c</em>, do item X, do art. 42, será restituída ao proprietário para que, dentro de trinta dias, preencha os requisitos determinados em Resoluções do Instituto sôbre a padronização de envoltórios ou pesos.
+Art. 47. Satisfeita a multa e as despesas efetuadas, a erva apreendida por infração ao disposto na letra *c*, do item X, do art. 42, será restituída ao proprietário para que, dentro de trinta dias, preencha os requisitos determinados em Resoluções do Instituto sôbre a padronização de envoltórios ou pesos.
 
 Art. 48. O mate apreendido por conter excesso de paus ou de pó, satisfeita a multa aplicada e as despesas efetuadas será restituído ao proprietário para que o submeta à devida coagem.
 
@@ -148,12 +146,12 @@ Art. 58. O depositário da erva apreendida que não a restituir quando exigida s
 
 Art. 59. Para a cobrança judicial das multas impostas e das despesas efetuadas, será aplicada, no que couber a legislação para a cobrança da dívida ativa da União”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 3º Renovam-se as disposições em contrário.
+**Art**. 3º Renovam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de setembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Munhoz da Rocha

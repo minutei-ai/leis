@@ -1,5 +1,3 @@
-###DEC-064429-0-000-30-04-1969@@@
-
 DECRETO Nº 64.429, DE 30 DE ABRIL DE 1969.
 
 Altera disposições do Regulamento aprovado pelo Decreto nº 8.736, de 10 de fevereiro de 1942.

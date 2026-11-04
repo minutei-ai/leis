@@ -1,5 +1,3 @@
-###DEC-061929-0-000-21-12-1967@@@
-
 DECRETO Nº 61.929, DE 21 DE DEZEMBRO DE 1967.
 
 Outorga a concessão à rádio Seridó Ltda. para estabelecer uma estação de radiodifusão sonora na cidade de Currais Novos, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-058531-0-000-30-05-1966@@@
-
 decreto nº 58.531, de 30 de maio de 1966.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A.., concessão para distribuir energia elétrica.

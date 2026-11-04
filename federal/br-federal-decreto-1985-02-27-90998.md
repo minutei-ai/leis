@@ -1,5 +1,3 @@
-###DEC-090998-0-000-27-02-1985@@@
-
 DECRETO Nº 90.998, DE 27 DE FEVEREIRO DE 1985.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da área "Clementes/Cajazeiras", situado no Município de Barra do Corda, no Estado do Maranhão, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 90.997, de 27 de fevereiro de 1985.

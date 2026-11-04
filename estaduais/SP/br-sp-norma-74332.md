@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74332)
-
 # LEI Nº 12.729, DE 11 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 317/2006, do Deputado Edson Ferrarini - PTB)

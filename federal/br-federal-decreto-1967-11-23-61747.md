@@ -1,5 +1,3 @@
-###DEC-061747-0-000-23-11-1967@@@
-
 DECRETO Nº 61.747, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza a Mineração Candonga Sociedade Anônima a lavrar minério de ferro no município de Guanhães, Estado de Minas Gerais.

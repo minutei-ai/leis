@@ -1,5 +1,3 @@
-###MPV-002089-0-026-22-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.089-26, DE 22 DE MARÇO DE 2001
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

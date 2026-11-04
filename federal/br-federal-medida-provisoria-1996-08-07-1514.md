@@ -1,7 +1,3 @@
-1
-
-###MPV-001514-0-000-07-08-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.514, DE 7 DE AGOSTO DE 1996.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

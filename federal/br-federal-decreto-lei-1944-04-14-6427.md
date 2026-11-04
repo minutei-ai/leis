@@ -1,5 +1,3 @@
-###DEL-006427-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.427 – DE 14 DE ABRIL DE 1944
 
 Altera a carreira de Desenhista do Quadro Permanente do Ministério da Fazenda, cria a de Desenhista-auxiliar, altera e transfere para o Quadro Suplementar a carreira de Dactilógrafo e dá outras providências

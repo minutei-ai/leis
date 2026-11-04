@@ -1,5 +1,3 @@
-###DEC-045357-0-000-28-01-1959@@@
-
 decreto nº 45.357, de 28 de Janeiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Traipu, no Estado de Alagoas.

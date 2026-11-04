@@ -1,5 +1,3 @@
-###DEC-080096-0-000-04-08-1977@@@
-
 DECRETO Nº 80.096, DE 4 DE AGOSTO DE 1977.
 
 Altera o Regulamento para o Corpo do Pessoal Graduado da Aeronáutica.

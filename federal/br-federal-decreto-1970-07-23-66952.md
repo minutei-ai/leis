@@ -1,5 +1,3 @@
-###DEC-066952-0-000-23-07-1970@@@
-
 DECRETO Nº 66.952, DE 23 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, área situada no município de Manaus, Estado do Amazonas, necessária à construção da Estação Repetidora de Microondas de Lajes, integrante do Sistema Nacional de Telecomunicações, a cargo da Emprêsa Brasileira de Telecomunicações - EMBRATEL.

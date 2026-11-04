@@ -1,7 +1,3 @@
-1
-
-###DEC-098831-0-000-16-01-1990@@@
-
 DECRETO Nº 98.831, DE 16 DE JANEIRO DE 1990
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem do ramal de linha de transmissão da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

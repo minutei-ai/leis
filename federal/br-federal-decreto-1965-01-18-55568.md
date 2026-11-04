@@ -1,5 +1,3 @@
-###DEC-055568-0-000-18-01-1965@@@
-
 decreto nº 55.568, de 18 de janeiro de 1965.
 
 Concede à sociedade anônima Gillette Safety Razor Company of Brazil autorização para continuar a funcionar na República.

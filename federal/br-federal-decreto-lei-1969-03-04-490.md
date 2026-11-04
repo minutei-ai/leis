@@ -1,5 +1,3 @@
-###DEL-000490-0-000-04-03-1969@@@
-
 DECRETO-LEI Nº 490, DE 4 DE MARÇO DE 1969
 
 Autoriza o Poder Executivo a criar Companhias de Águas e Esgotos para os Territórios do Amapá, Rondônia e Roraima e dá outras providências.

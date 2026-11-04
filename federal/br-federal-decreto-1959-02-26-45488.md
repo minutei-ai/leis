@@ -1,5 +1,3 @@
-###DEC-045488-0-000-26-02-1959@@@
-
 DECRETO Nº 45.488, DE 26 DE Fevereiro DE 1959.
 
 Autoriza o cidadão brasileiro José Patruz de Sousa a lavrar cianita no município de Gouveia, Estado de Minas Gerais.

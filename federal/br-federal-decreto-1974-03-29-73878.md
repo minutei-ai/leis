@@ -1,5 +1,3 @@
-###DEC-073878-0-000-29-03-1974@@@
-
 DECRETO Nº 73.878, DE 29 DE MARÇO DE 1974.
 
 Suspende intervenção federal decretada com base no artigo 7º, § 1º, do Ato Institucional nº 7, de 26 de fevereiro de 1969.

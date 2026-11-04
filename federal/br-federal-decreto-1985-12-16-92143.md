@@ -1,5 +1,3 @@
-###DEC-092143-0-000-16-12-1985@@@
-
 Decreto nº 92.143, de 16 de dezembro de 1985.
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Piracicaba", compreendido nas referidas áreas, no Município de Luciara, no Estado de Mato Grosso, e dá outras providências.

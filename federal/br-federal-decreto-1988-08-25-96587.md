@@ -1,5 +1,3 @@
-###DEC-096587-0-000-25-08-1988@@@
-
 DECRETO N° 96.587, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão à SOCIEDADE APARECIDENSE DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Aparecida de Goiânia, Estado de Goiás.

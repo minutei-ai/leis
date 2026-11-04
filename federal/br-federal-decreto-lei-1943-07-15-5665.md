@@ -1,5 +1,3 @@
-###DEL-005665-0-000-15-07-1943@@@
-
 DECRETO-LEI N. 5.665 – DE 15 DE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 19.654,00, para a  construção de passeios e muros em próprios nacionais

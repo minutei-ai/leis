@@ -1,5 +1,3 @@
-###DEC-062564-0-000-16-04-1968@@@
-
 DECRETO Nº 62.564, DE 16 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Sociedade Educadora e Instrutora”, com sede em Pindamonhangaba, Estado de São Paulo.

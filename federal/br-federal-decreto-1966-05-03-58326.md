@@ -1,5 +1,3 @@
-###DEC-058326-0-000-03-05-1966@@@
-
 DECRETO Nº 58.326, DE 3 DE MAIO DE 1966.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir sistema de distribuição de energia elétrica.

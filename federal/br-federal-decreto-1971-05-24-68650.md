@@ -1,5 +1,3 @@
-###DEC-068650-0-000-24-05-1971@@@
-
 DECRETO Nº 68.650 - DE 24 DE MAIO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no Estado do Rio Grande do Norte.

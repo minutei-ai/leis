@@ -1,5 +1,3 @@
-###DEL-004566-0-000-11-08-1942@@@
-
 DECRETO-LEI N. 4.566 – DE 11 DE AGOSTO DE 1942
 
 Concede adiantamento à Navegação Aérea Brasileira S.A., e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-093071-0-000-06-08-1986@@@
-
 DECRETO Nº 93.071, DE 06 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas Kaxinawá, área de terras que menciona no Estado do Acre e dá outras providências.

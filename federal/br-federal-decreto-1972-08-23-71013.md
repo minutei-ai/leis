@@ -1,5 +1,3 @@
-###DEC-071013-0-000-23-08-1972@@@
-
 DECRETO Nº 71.013, DE 23 DE AGOSTO DE 1972.
 
 Declara sem efeito o Decreto nº 25.421, de 1 de setembro de 1948.

@@ -1,5 +1,3 @@
-###DEC-073554-0-000-24-01-1974@@@
-
 DECRETO Nº 73.554, DE 25 DE JANEIRO 1974.
 
 Declara perempta a concessão outorgada à Rádio Minas S. A., para executar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050906-0-000-05-07-1961@@@
-
 DECRETO Nº 50.906, DE 5 DE JULHO DE 1961.
 
 Dispõe sôbre representação judicial do SAMDU.

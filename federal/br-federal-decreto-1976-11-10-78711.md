@@ -1,5 +1,3 @@
-###DEC-078711-0-000-10-11-1976@@@
-
 DECRETO N° 78.711, DE10 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS), área de terras que menciona, nos Municípios de Paudalho, São Lourenço da Mata e Chã de Alegria, no Estado de Pernambuco.

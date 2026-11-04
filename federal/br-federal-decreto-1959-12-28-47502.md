@@ -1,5 +1,3 @@
-###DEC-047502-0-000-28-12-1959@@@
-
 DECRETO Nº 47.502, DE 28 DE DEZEMBRO DE 1959.
 
 Transfere da Emprêsa Fôrça e Luz de Santo Antônio do Amparo para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no Município de Santo Antônio do Amparo, Estado de Minas Gerais, e dá outras providências.

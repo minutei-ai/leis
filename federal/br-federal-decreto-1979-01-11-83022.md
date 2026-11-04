@@ -1,5 +1,3 @@
-###DEC-083022-0-000-11-01-1979@@@
-
 DECRETO Nº 83.022, DE 11 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Estudos Sociais, da ex-Faculdade de Filosofia, Ciências e Letras de Presidente Prudente, mantida na cidade de Presidente Prudente, no Estado de São Paulo, pela Universidade Estadual Paulista "Júlio de Mesquita Filho".

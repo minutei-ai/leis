@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e8bb201f-2f33-4d9b-8335-5e0174777766/texto#nowhere)
 
-###DEL-000899-0-000-29-09-1969@@@
-
 DECRETO-Lei Nº 899, dE 29 DE SetemBRO DE 1969
 
 Altera disposições sôbre o custeio do funcionamento dos Tiros de Guerra, fardamento de seus alunos e dá outras providências.

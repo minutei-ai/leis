@@ -1,5 +1,3 @@
-###DEC-045342-0-000-27-01-1959@@@
-
 decreto nº 45.342, de 27 de janeiro de 1959.
 
 Declara de utilidade pública a Sociedade Brasileira de Cardiologia, com sede no Distrito Federal.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001683-0-000-25-10-1995@@@
-
 DECRETO Nº 1.683, DE 25 DE OUTUBRO DE 1995.
 
 Dá nova redação ao art. 91 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

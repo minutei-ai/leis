@@ -21,25 +21,36 @@ Art. 1º Acrescenta os artigos 19-A e 19-B, a Lei Municipal nº 7.435, de 20 de 
 | FC-2 | R$ 10.851,71 | 01 | Coordenador de Engenharia e Projetos |
 | FC-2 | R$ 10.851,71 | 02 | Agente de tecnologia da Informação |
 
-<br>
-§ 1º Para fins do disposto nesta Lei, entende-se que funções comissionadas são gratificações temporárias específicas, privativas de servidor público municipal ocupante de cargos efetivos, designados para atividades estratégicas de Direção e Chefia, que farão jus à gratificação.<br>
-§ 2º O quadro de classificação, quantitativo e valores das funções comissionadas para o encargo de direção e chefia são fixados nos anexos XI e XII desta Lei.<br>
-§ 3º As Funções Comissionadas possuem caráter temporário, sendo sua manutenção condicionada ao interesse público, podendo ser revogadas a qualquer tempo por conveniência da Administração.<br>
-§ 4º A descrição das funções mencionadas no caput deste artigo está no anexo XII desta Lei.<br>
-§ 5º A função comissionada somente será devida em razão do efetivo exercício das atividades a ela correspondentes, considerando-se para esse fim, os afastamentos em razão de férias, luto, licença paternidade, licença-prêmio, casamento e, até o limite de 180 (cento e oitenta) dias nos casos licença maternidade.<br>
-§ 6º A gratificação decorrente da função comissionada não integra a base de cálculo para o efeito de concessão de qualquer outra vantagem pecuniária, inclusive para aposentadoria e contribuição previdenciária, exceto se o servidor optar por contribuir.<br>
-§ 7º Entende-se por atividades estratégicas de média e alta complexidade:<br>
-I - Média complexidade: atividades estratégicas relevantes para a Administração Pública Municipal de significativa complexidade técnica, que podem envolver coordenação de equipes e um grupo maior de atividades, bem como, envolver volumes de recursos públicos, tanto humanos quanto operacionais e financeiros significativos, e podem exigir dedicação exclusiva do Servidor Público Municipal.<br>
-II - Alta complexidade: atividades estratégicas de alta relevância para a Administração Pública Municipal, que podem envolver a direção superior de equipes e gestão de atividades, áreas e políticas públicas complexas na sua operação; podem envolver, ainda, um volume alto de recursos públicos, tanto humanos quanto operacionais e financeiros, alta complexidade técnica e exigem dedicação exclusiva do Servidor Público Municipal.” (NR)<br>
-“Art. 19-B. Compete ao Presidente da Câmara Municipal de Rio Verde prover as funções comissionadas no âmbito da Câmara Municipal de Rio Verde.<br>
+§ 1º Para fins do disposto nesta Lei, entende-se que funções comissionadas são gratificações temporárias específicas, privativas de servidor público municipal ocupante de cargos efetivos, designados para atividades estratégicas de Direção e Chefia, que farão jus à gratificação.
+
+§ 2º O quadro de classificação, quantitativo e valores das funções comissionadas para o encargo de direção e chefia são fixados nos anexos XI e XII desta Lei.
+
+§ 3º As Funções Comissionadas possuem caráter temporário, sendo sua manutenção condicionada ao interesse público, podendo ser revogadas a qualquer tempo por conveniência da Administração.
+
+§ 4º A descrição das funções mencionadas no caput deste artigo está no anexo XII desta Lei.
+
+§ 5º A função comissionada somente será devida em razão do efetivo exercício das atividades a ela correspondentes, considerando-se para esse fim, os afastamentos em razão de férias, luto, licença paternidade, licença-prêmio, casamento e, até o limite de 180 (cento e oitenta) dias nos casos licença maternidade.
+
+§ 6º A gratificação decorrente da função comissionada não integra a base de cálculo para o efeito de concessão de qualquer outra vantagem pecuniária, inclusive para aposentadoria e contribuição previdenciária, exceto se o servidor optar por contribuir.
+
+§ 7º Entende-se por atividades estratégicas de média e alta complexidade:
+
+I - Média complexidade: atividades estratégicas relevantes para a Administração Pública Municipal de significativa complexidade técnica, que podem envolver coordenação de equipes e um grupo maior de atividades, bem como, envolver volumes de recursos públicos, tanto humanos quanto operacionais e financeiros significativos, e podem exigir dedicação exclusiva do Servidor Público Municipal.
+
+II - Alta complexidade: atividades estratégicas de alta relevância para a Administração Pública Municipal, que podem envolver a direção superior de equipes e gestão de atividades, áreas e políticas públicas complexas na sua operação; podem envolver, ainda, um volume alto de recursos públicos, tanto humanos quanto operacionais e financeiros, alta complexidade técnica e exigem dedicação exclusiva do Servidor Público Municipal.” (NR)
+
+“Art. 19-B. Compete ao Presidente da Câmara Municipal de Rio Verde prover as funções comissionadas no âmbito da Câmara Municipal de Rio Verde.
+
 Parágrafo único. A designação para o desempenho da função comissionada importa obrigatoriamente o cumprimento de jornada de trabalho de 08 (oito) horas diárias.” (NR)
 
 Art. 2º Altera a redação do artigo 20 da Lei Municipal nº 7.435/2023, que passa a vigorar com a seguinte redação:
 
-<br>
-“Art. 20. A Gratificação de Função e a Função Comissionada será atribuída por ato administrativo do Presidente da Câmara Municipal, sendo obrigatório nele constar as justificativas que comprovem a real necessidade de sua concessão, bem como a descrição das atribuições a serem desempenhadas.<br>
-§ 1º A Gratificação de Função e a Função Comissionada não integrará a remuneração do servidor nos casos de concessão do benefício previdenciário de aposentadoria.<br>
-§ 2º Os Servidores Públicos da Administração Pública Municipal são, em regra geral, regidos pelo Estatuto dos Servidores Públicos do Município de Rio Verde, e pela legislação específica que lhes seja aplicável, respeitado o regime jurídico da respectiva vinculação ao serviço público.<br>
+“Art. 20. A Gratificação de Função e a Função Comissionada será atribuída por ato administrativo do Presidente da Câmara Municipal, sendo obrigatório nele constar as justificativas que comprovem a real necessidade de sua concessão, bem como a descrição das atribuições a serem desempenhadas.
+
+§ 1º A Gratificação de Função e a Função Comissionada não integrará a remuneração do servidor nos casos de concessão do benefício previdenciário de aposentadoria.
+
+§ 2º Os Servidores Públicos da Administração Pública Municipal são, em regra geral, regidos pelo Estatuto dos Servidores Públicos do Município de Rio Verde, e pela legislação específica que lhes seja aplicável, respeitado o regime jurídico da respectiva vinculação ao serviço público.
+
 § 3º O Servidor Público Municipal, quando designado para desempenho de Função Comissionada, fará jus à reposição anual de remuneração, nos termos do art. 37, inciso X, da Constituição Federal.” (NR)
 
 Art. 3º Esta Lei entrará em vigência na data de sua publicação, revogando as disposições em contrário. 
@@ -54,7 +65,8 @@ VINÍCIUS FONSÊCA CAMPOS
 
 Procurador-Geral
 
-**ANEXO XI<br>
+**ANEXO XI
+
 QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DAS FUNÇÕES COMISSIONADAS (FC)**
 
 | FUNÇÃO COMISSIONADA | ESPÉCIE/NÍVEL | CARGO REFERÊNCIA | QUANTITATIVO | VALOR |
@@ -62,7 +74,8 @@ QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DAS FUNÇÕES COMISSIONADAS (F
 | FC | FC-1 | DIRETOR | 06 | 11.575,16 |
 | FC | FC-2 | COORDENADOR | 12 | 10.851,71 |
 
-**ANEXO XII<br>
+**ANEXO XII
+
 QUADRO DE FUNÇÕES COMISSIONADAS DE MÉDIA E ALTA COMPLEXIDADE**
 
 | ESPÉCIE/NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |

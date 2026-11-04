@@ -1,5 +1,3 @@
-###DEL-006717-0-000-20-07-1944@@@
-
 DECRETO-LEI N. 6.717 – DE 20 DE JULHO DE 1944
 
 Concede pensão especial à viúva e aos filhos menores de Irineu Braga da Silva

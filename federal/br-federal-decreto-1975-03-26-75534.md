@@ -1,5 +1,3 @@
-###DEC-075534-0-000-26-03-1975@@@
-
 decreto nº 75.534, de 26 de março de 1975.
 
 Concede reconhecimento aos Cursos de Letras, de Matemática, de História e de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Caratinga, mantida pela Fundação Educacional de Caratinga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-075923-0-000-02-07-1975@@@
-
 DECRETO Nº 75.923, DE 2 DE JULHO DE 1975.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério do Interior.

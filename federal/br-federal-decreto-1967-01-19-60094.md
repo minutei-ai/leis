@@ -1,5 +1,3 @@
-###DEC-060094-0-000-19-01-1967@@@
-
 DECRETO Nº 60.094, DE 19 DE JANEIRO DE 1967.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Aeronáutica.

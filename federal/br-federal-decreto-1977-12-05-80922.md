@@ -1,5 +1,3 @@
-###DEC-080922-0-000-05-12-1977@@@
-
 DECRETO Nº 80.922, DE 05 DE DEZEMBRO DE 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

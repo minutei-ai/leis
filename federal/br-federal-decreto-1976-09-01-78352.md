@@ -1,5 +1,3 @@
-###DEC-078352-0-000-01-09-1976@@@
-
 decreto nº 78.352, de 1º de setembro de 1976.
 
 Renova prazo de concessão outorgada à Usina Queiroz Júnior Limitada, atual Usina Queiroz Júnior S.A. - Industria Siderúrgica, para o uso exclusivo do aproveitamento hidráulico de um trecho do rio Mata-Porcos, no Município de Itabirito, Estado de Minas Gerais.

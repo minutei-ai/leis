@@ -1,6 +1,10 @@
 > **LEI Nº 4.277, DE 18 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre autorização para doação de imóveis ao Fundo de Arrendamento Residencial - FAR, para construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre autorização para doação de imóveis ao Fundo de Arrendamento Residencial - FAR, para construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

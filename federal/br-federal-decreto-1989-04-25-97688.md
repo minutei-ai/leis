@@ -1,7 +1,3 @@
-1
-
-###DEC-097688-0-000-25-04-1989@@@
-
 DECRETO N° 97.688, DE 25 DE ABRIL DE 1989
 
 Cria, no Estado do Paraná, o Parque Nacional do Superagui, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005345-0-000-18-01-2005@@@
-
 DECRETO Nº 5.345 DE 18 DE JANEIRO DE 2005
 
  Dispõe sobre contratos do Programa de Subsídio à Habitação de Interesse Social - PSH.

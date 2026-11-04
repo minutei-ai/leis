@@ -1,5 +1,3 @@
-###DEC-080422-0-000-28-09-1977@@@
-
 DECRETO Nº 80.422, DE 28 DE SETEMBRO DE 1977.
 
 Declara sem efeito a interdição de parte da área a que se refere o Decreto n.º 73.562, de 24 de janeiro de 1974, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045840-0-000-22-04-1959@@@
-
 decreto nº 45.840, de 22 de abril de 1959.
 
 Autoriza a Alumínio Minas Gerais S.A. a fazer cessão de energia elétrica à Companhia Viçosense de Fôrça e Luz.

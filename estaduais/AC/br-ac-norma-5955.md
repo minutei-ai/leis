@@ -1,6 +1,10 @@
 > **LEI Nº 4.317, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fica assegurado às pessoas com deficiência visual o direito de receber das instituições financeiras, a pedido, os contratos de adesão e demais documentos essenciais para a relação de consumo, com a utilização do Sistema Braile ou outro formato acessível.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fica assegurado às pessoas com deficiência visual o direito de receber das instituições financeiras, a pedido, os contratos de adesão e demais documentos essenciais para a relação de consumo, com a utilização do Sistema Braile ou outro formato acessível.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

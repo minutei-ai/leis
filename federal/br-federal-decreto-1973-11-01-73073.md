@@ -1,5 +1,3 @@
-###DEC-073073-0-000-01-11-1973@@@
-
 DECRETO Nº 73.073 - DE 1 DE NOVEMBRO DE 1973
 
 Aproveita, no Quadro de Pessoal do Ministério da Aeronáutica, servidores em disponibilidade, e dá outras providências.

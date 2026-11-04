@@ -1,5 +1,3 @@
-###DEC-096696-0-000-14-09-1988@@@
-
 DECRETO N° 96.696, DE 14 DE SETEMBRO DE 1988
 
 Cria o Vice-Consulado do Brasil em Ciudad Guayana.

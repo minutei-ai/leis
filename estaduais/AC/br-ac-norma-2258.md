@@ -1,6 +1,10 @@
 > **LEI Nº 3.490, DE 10 DE JULHO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o pagamento dos aparelhos de monitoramento eletrônico pelos próprios presos apenados.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o pagamento dos aparelhos de monitoramento eletrônico pelos próprios presos apenados.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

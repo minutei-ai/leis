@@ -1,5 +1,3 @@
-###DEC-066538-0-000-07-05-1970@@@
-
 DECRETO Nº 66.538, DE 7 DE MAIO DE 1970.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos imóveis que mencionada no Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-049486-0-000-09-12-1960@@@
-
 DECRETO Nº 49.486, DE 9 DE DEZEMBRO DE 1960.
 
 Torna sem efeito o Decreto nº 48.389, de 22 de junho de 1960.

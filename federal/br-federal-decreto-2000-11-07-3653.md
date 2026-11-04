@@ -1,5 +1,3 @@
-###DEC-003653-0-000-07-11-2000@@@
-
 DECRETO Nº 3.653, DE 7 DE NOVEMBRO DE 2000.
 
 Altera dispositivos do Decreto nº 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para as empresas concessionárias de serviços públicos de energia elétrica, e do Decreto nº 2.655, de 2 de julho de 1998, que regulamenta o Mercado Atacadista de Energia Elétrica, define as regras de organização do Operador Nacional do Sistema Elétrico, de que trata a Lei nº 9.648, de 27 de maio de 1998, e dá outras providências.

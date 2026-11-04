@@ -1,5 +1,3 @@
-###DEL-001358-0-000-12-11-1974@@@
-
 # DECRETO-LEI Nº 1.358, DE 12 de NOVEMBRO DE 1974
 
 Dispõe sobre a concessão de benefício fiscal a pessoas físicas mutuárias do Sistema Financeiro da Habitação.

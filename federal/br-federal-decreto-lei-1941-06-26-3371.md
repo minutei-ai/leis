@@ -1,5 +1,3 @@
-###DEL-003371-0-000-26-06-1941@@@
-
 DECRETO-LEI N. 3.371 – DE 26 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito suplementar de 400:000$0, à verba que especifica

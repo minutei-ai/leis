@@ -1,5 +1,3 @@
-###DEL-004526-0-000-29-07-1942@@@
-
 DECRETO-LEI N. 4.526 – DE 29 DE JULHO DE 1942
 
 Cria cargos em comissão no Departamento de Administração do Ministério do Trabalho, Indústria e Comércio e dá outras providências

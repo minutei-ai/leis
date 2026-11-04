@@ -1,5 +1,3 @@
-###DEC-046775-0-000-03-09-1959@@@
-
 Decreto nº 46.775, de 3 de setembro de 1959.
 
 Retifica o art. 1º do decreto número 44.968, de 1 de dezembro de 1958.

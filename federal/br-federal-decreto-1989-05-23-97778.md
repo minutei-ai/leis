@@ -1,7 +1,3 @@
-1
-
-###DEC-097778-0-000-23-05-1989@@@
-
 DECRETO Nº 97.778, DE 23 DE MAIO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “SERRARIA” (parte), classificado como “latifúndio por exploração”, situado no Município de Vitória do Mearim, Estado do Maranhão, compreendido na zona prioritária fixada pelo Decreto nº 92.619, de 02 de maio de 1986, e dá outras providências.

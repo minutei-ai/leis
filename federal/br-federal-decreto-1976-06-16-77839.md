@@ -1,5 +1,3 @@
-###DEC-077839-0-000-16-06-1976@@@
-
 DECRETO Nº 77.839, DE 16 DE JUNHO DE 1976.
 
 Concede à Cia. Minas Espirito Santo de Mineração o direito de lavrar caulim, feldspato, mica e turmalina, no Município de Resplendor, Estado de Minas Gerais.

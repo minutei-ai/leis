@@ -1,5 +1,3 @@
-###DEC-088187-0-000-16-03-1983@@@
-
 Decreto nº 88.187, de 16 de março de 1983
 
 Outorga concessão à RÁDIO CIDADE DE ITAPETININGA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Itapetininga, Estado de São Paulo.

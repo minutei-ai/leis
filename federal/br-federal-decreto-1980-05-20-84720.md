@@ -1,5 +1,3 @@
-###DEC-084720-0-000-20-05-1980@@@
-
 Decreto nº 84.720, de 20 de maio de 1980.
 
 Autoriza o funcionamento do Curso de Engenharia de Alimentos da Faculdade de Ciências da Fundação Educacional de Barretos.

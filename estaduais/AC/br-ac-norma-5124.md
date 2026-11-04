@@ -1,6 +1,10 @@
 > **LEI Nº 3.914, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de auxílio-alimentação aos servidores em efetivo exercício no sistema estadual de saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de auxílio-alimentação aos servidores em efetivo exercício no sistema estadual de saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

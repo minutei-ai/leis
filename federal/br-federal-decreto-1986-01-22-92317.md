@@ -1,5 +1,3 @@
-###DEC-092317-0-000-22-01-1986@@@
-
 DECRETO Nº 92.317, DE 22 DE JANEIRO DE 1986
 
 Declara de utilidade pública e de interesse social, para fins de desapropriação ou constituição de servidão, áreas de terras e respectivas benfeitorias, necessárias à implantação dos canais principais do “Distrito de Irrigação do Arroio Chasqueiro”, no Município de Arroio Grande, Estado do Rio Grande do Sul, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060645-0-000-28-04-1967@@@
-
 DECRETO Nº 60.645, DE 28 DE ABRIL DE 1967.
 
 Autoriza o funcionamento do Curso de Ciências da Faculdade Dom Bosco de Filosofia, Ciências e Letras de São João Del Rei, no Estado de Minas Gerais.

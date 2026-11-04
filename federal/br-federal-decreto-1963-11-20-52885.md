@@ -1,5 +1,3 @@
-###DEC-052885-0-000-20-11-1963@@@
-
 decreto nº 52.885, de 20 de novembro de 1963.
 
 Autoriza a firma Diamantes Industriais Roder Ltda., a comprar pedras preciosas.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2748c267-b76e-4834-ae04-69f3648e7da6/texto#nowhere)
 
-###DEL-001911-0-000-29-12-1981@@@
-
 # decreto-lei nº 1.911, de 29 de dezembro de 1981
 
 Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional - ORTN para cobertura do débito da Previdência Oficial junto à rede bancária pública e privada.

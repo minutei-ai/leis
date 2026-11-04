@@ -1,5 +1,3 @@
-###DEC-052974-0-000-26-11-1963@@@
-
 DECRETO Nº 52.974, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

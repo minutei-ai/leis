@@ -1,5 +1,3 @@
-###DEC-089687-0-000-22-05-1984@@@
-
 Decreto nº 89.687 de 22 de maio de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinadas à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A.-CELESC, no Estado de Santa Catarina.

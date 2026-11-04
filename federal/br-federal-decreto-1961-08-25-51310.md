@@ -1,5 +1,3 @@
-###DEC-051310-0-000-25-08-1961@@@
-
 DECRETO Nº 51.310, DE 25 DE AGÔSTO DE 1961.
 
 Outorga concessão à Rádio Educadora Palmares de Alagoas Limitada para estabelecer uma estação radiodifusora.

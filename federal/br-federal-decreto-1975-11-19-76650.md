@@ -1,5 +1,3 @@
-###DEC-076650-0-000-19-11-1975@@@
-
 DECRETO Nº 76.650, de 19 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração e Ciências Contábeis de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

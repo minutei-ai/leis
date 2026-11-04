@@ -1,5 +1,3 @@
-###DEL-006659-0-000-05-07-1944@@@
-
 DECRETO-LEI N. 6.659 – DE 5 DE JULHO DE 1944
 
 Dispõe sôbre o pagamento do impôsto do sêlo nos títulos de venda mediante sorteio

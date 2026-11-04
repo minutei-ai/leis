@@ -1,5 +1,3 @@
-###DEC-060648-0-000-28-04-1967@@@
-
 DECRETO Nº 60.648, DE 28 DE ABRIL DE 1967.
 
 Aprova o nôvo Regimento do Gabinete do Ministro dos Transportes e dá outras providências.

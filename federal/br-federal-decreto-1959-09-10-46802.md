@@ -1,5 +1,3 @@
-###DEC-046802-0-000-10-09-1959@@@
-
 DECRETO Nº 46.802, de 10 de setembro de 1959
 
 Cria o “Comando de Artilharia de Costa e Antiaérea da 2º Região Militar”

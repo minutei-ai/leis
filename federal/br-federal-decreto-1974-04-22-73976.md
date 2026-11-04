@@ -1,5 +1,3 @@
-###DEC-073976-0-000-22-04-1974@@@
-
 DECRETO Nº 73.976, DE 22 DE ABRIL DE 1974.
 
 Altera a alínea "e", do artigo 9º, do Decreto nº 73.159, de 14 de novembro de 1973.

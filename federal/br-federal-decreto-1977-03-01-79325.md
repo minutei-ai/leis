@@ -1,5 +1,3 @@
-###DEC-079325-0-000-01-03-1977@@@
-
 Decreto nº 79.325, de 1 de março de 1977.
 
 Concede à EMIG - Empresa de Mineração Guapi Modelo Ltda. o direito de lavrar areia quartzosa no Município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

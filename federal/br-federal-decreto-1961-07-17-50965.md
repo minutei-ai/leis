@@ -1,5 +1,3 @@
-###DEC-050965-0-000-17-07-1961@@@
-
 DECRETO Nº 50.965, DE 17 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Minas Gerais, as águas do Rio Leinheiro.

@@ -1,5 +1,3 @@
-###DEC-004986-0-000-12-02-2004@@@
-
 DECRETO Nº 4.986,  DE 12 DE FEVEREIRO DE 2004.
 
 Dispõe sobre o Conselho Nacional de Seguros Privados - CNSP, suas atribuições, composição e designação dos membros.

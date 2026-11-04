@@ -1,7 +1,3 @@
-1
-
-###DEC-098649-0-000-20-12-1989@@@
-
 DECRETO Nº 98.649, DE 20 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel, com suas benfeitorias, situado na Rua Dr. José Lourenço, nº 1.620, em Aldeota, na Cidade de Fortaleza, Estado do Ceará, destinado a Justiça Federal - Seção Judiciária do Ceará.

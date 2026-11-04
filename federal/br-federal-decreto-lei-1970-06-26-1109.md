@@ -1,5 +1,3 @@
-###DEL-001109-0-000-26-06-1970@@@
-
 # DECRETO-LEI Nº 1.109, DE 26 DE JUNHO DE 1970
 
 Reformula o Decreto-Iei nº 157, de 10 de fevereiro de 1967, e altera a legislação sôbre impôsto de renda.

@@ -1,5 +1,3 @@
-###DEC-089651-0-000-11-05-1984@@@
-
 Decreto nº 89.651, de 11 de maio de 1984
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pela Decreto nº 69.820, de 22 de dezembro de 1971, o Conselho Diretor do Fundo da Marinha Mercante (FMM).

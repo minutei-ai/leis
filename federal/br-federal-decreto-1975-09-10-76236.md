@@ -1,5 +1,3 @@
-###DEC-076236-0-000-10-09-1975@@@
-
 DECRETO Nº 76.236 - DE 10 DE SETEMBRO DE 1975
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

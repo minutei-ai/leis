@@ -1,14 +1,12 @@
-###DEC-020657-0-000-26-02-1946@@@
+**DECRETO Nº 20.657, DE 26 DE FEVEREIRO DE 1946.**
 
-<strong>DECRETO Nº 20.657, DE 26 DE FEVEREIRO DE 1946.</strong>
+***Modifica o art. 2º do Decreto número 18.588, de 11 de Maio de 1945.***
 
-<em><strong>Modifica o art. 2º do Decreto número 18.588, de 11 de Maio de 1945.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e tendo em vista novos estudos realizados sôbre ampliação de aproveitamentos já realizados na Usina de Ribeirão das Lages,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e tendo em vista novos estudos realizados sôbre ampliação de aproveitamentos já realizados na Usina de Ribeirão das Lages,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a ter a seguinte redação o art. 2º do Decreto número 18.588, de 11 de maio de 1945:
+**Art**. 1º Passa a ter a seguinte redação o art. 2º do Decreto número 18.588, de 11 de maio de 1945:
 
 “Art. 2º A Companhia de Carris, Luz e Fôrça do Rio de Janeiro Limitada, fica autorizada a ampliar, por etapas sucessivas, o aproveitamento já realizado pela mesma emprêsa na Usina do Ribeirão das Lages, mediante a utilização das águas do ribeirão do Vigário e, pelo recalque, das dos rios Piraí e Paraíba, tudo conforme o plano geral configurado no desenho nº 34.851, de 29 de dezembro de 1945, apresentado pela citada emprêsa, constando dito plano, na sua fase final, das seguintes obras e instalações:
 
@@ -34,10 +32,10 @@ IX – Construção de barragens de retenção no alto curso do rio Paraíba, a 
 
 § 2º As obras e instalações descritas no presente artigo poderão ser modificadas por despacho do Ministro da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral, Ministério da Agricultura.
 
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de Fevereiro de 1946. 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

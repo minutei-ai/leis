@@ -1,5 +1,3 @@
-###DEC-082162-0-000-24-08-1978@@@
-
 Decreto nº 82.162, de 24 de agosto de 1978.
 
 Cria Grupo de Trabalho Interministerial para o fim que especifíca.

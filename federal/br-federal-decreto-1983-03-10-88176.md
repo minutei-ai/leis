@@ -1,5 +1,3 @@
-###DEC-088176-0-000-10-03-1983@@@
-
 Decreto nº 88.176, de 10 de março de 1983
 
 Outorga concessão à RÁDIO RURAL DE IPIAÚ LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de lpiaú, Estado da Bahia.

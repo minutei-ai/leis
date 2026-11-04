@@ -1,5 +1,3 @@
-###DEC-061293-0-000-06-09-1967@@@
-
 DECRETO Nº 61.293, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Associação Santa Rita de Cássia”, com sede em Lins, Estado de São Paulo.

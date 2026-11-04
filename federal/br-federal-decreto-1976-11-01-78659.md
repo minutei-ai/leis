@@ -1,5 +1,3 @@
-###DEC-078659-0-000-01-11-1976@@@
-
 DECRETO Nº 78.659, de 1 de Novembro de 1976.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias, necessárias à implantação do canteiro de obras, e demais unidades de serviço, bem como à formação do reservatório da Usina Hidrelétrica de Tucuruí, da Centrais Elétricas do Norte do  Brasil S. A - ELETRONORTE, localizadas no Estado do Pará.

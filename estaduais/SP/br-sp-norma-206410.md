@@ -1,420 +1,635 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=206410)
-
 # DECRETO Nº 67.383, DE 20 DE DEZEMBRO DE 2022
 
 ### _Introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._
 
-RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º da Lei nº 6.374, de 1° de março de 1989,<br>
-Decreta:<br>
-**Artigo 1º -** Passam a vigorar, com a redação que se segue, os dispositivos adiante indicados do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):<br>
-I - do Anexo I:<br>
-a) o § 3º do artigo 10:<br>
-"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-b) o § 2º do artigo 16:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-c) o § 4º do artigo 17:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-d) o § 4º do artigo 24:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-e) o § 2º do artigo 45:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-f) o parágrafo único do artigo 50:<br>
-"Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024." (NR);<br>
-g) o § 3º do artigo 118:<br>
-"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-h) o parágrafo único do artigo 123:<br>
-"Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-i) o § 4º do artigo 153:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-j) o § 2º do artigo 154:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-k) o § 2º do artigo 155:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-l) o § 3º do artigo 156:<br>
-"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-m) o § 3º do artigo 158:<br>
-"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-n) o § 3º do artigo 159:<br>
-"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-o) o § 5º do artigo 160:<br>
-"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-p) o § 5º do artigo 161:<br>
-"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-q) o § 5º do artigo 162:<br>
-"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-r) o § 4º do artigo 165:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-s) o § 4º do artigo 166:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-t) o § 4º do artigo 170:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-u) o § 2º do artigo 171:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-v) o § 1º do artigo 172:<br>
-"§ 1º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-II - do Anexo II:<br>
-a) o item 2 do § 1º do artigo 2º:<br>
-"2 - proporcionalmente à redução do Imposto de Importação referida no "caput"."; (NR)<br>
-b) o artigo 6º:<br>
-"Artigo 6º (EQUINO PURO-SANGUE) - Nas operações internas com equino puro-sangue, exceto puro-sangue inglês - PSI, fica reduzida a base de cálculo do imposto em 33,33% (trinta e três inteiros e trinta e três centésimos por cento) (Convênio ICMS 50/92).<br>
-Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-c) os incisos I e II do "caput" do artigo 8º:<br>
-"I - gás liquefeito de petróleo, de tal forma que a carga tributária resulte no percentual de 12% (doze por cento);<br>
-II - gás natural, de tal forma que a carga tributária resulte no percentual de 15% (quinze por cento)."; (NR)<br>
-d) o inciso II do "caput" do artigo 11:<br>
-"II - máquinas ou aparelhos:<br>
-a) os de uso agrícola, classificados nas posições 8432 e 8433 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH - 95% (noventa e cinco por cento);<br>
-b) os demais - 80% (oitenta por cento)."; (NR)<br>
-e) o "caput" do artigo 16:<br>
-"Artigo 16 (RADIOCHAMADA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de radiochamada com transmissão unidirecional, de forma que a carga tributária resulte no percentual de 10% (dez por cento) (Convênio ICMS 86/99)."; (NR)<br>
-f) o "caput" do artigo 18:<br>
-"Artigo 18 (TELEVISÃO POR ASSINATURA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de televisão por assinatura, de forma que a carga tributária resulte no percentual de 12% (doze por cento) (Convênio ICMS 57/99)."; (NR)<br>
-g) o "caput" do artigo 19:<br>
-"Artigo 19 (TRANSPORTE DE LEITE) - Fica reduzida a base de cálculo do imposto na prestação de serviço de transporte intermunicipal de leite cru ou pasteurizado, de forma que a carga tributária resulte no percentual de 5% (cinco por cento) (Convênio ICMS 17/92)."; (NR)<br>
-h) o "caput" do artigo 20, mantidos os seus incisos:<br>
-"Artigo 20 (USINAS PRODUTORAS DE ENERGIA ELÉTRICA) - Fica reduzida a base de cálculo do imposto incidente nas operações internas com máquinas, aparelhos, equipamentos, suas partes e peças, de forma que a carga tributária resulte no percentual de 12% (doze por cento), destinados à construção ou ampliação das seguintes usinas produtoras de energia elétrica (Convênio ICMS 69/97, cláusula primeira, I, "b", e Convênio ICMS 124/01):"; (NR)<br>
-i) o § 5º do artigo 24:<br>
-"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-j) o "caput" do artigo 31:<br>
-"Artigo 31 (ALGODÃO EM PLUMA) - Fica reduzida a base de cálculo do imposto incidente na saída algodão em pluma em 60% (sessenta por cento) do valor da operação (Convênio ICMS 106/03)."; (NR)<br>
-k) o "caput" do artigo 47:<br>
-"Artigo 47 (RASTREAMENTO DE VEÍCULO E CARGA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de comunicação, na modalidade de monitoramento e rastreamento de veículo e de carga, de forma que a carga tributária resulte no percentual de 5% (cinco por cento) (Convênio ICMS 139/06)."; (NR)<br>
-l) o "caput" do artigo 50:<br>
-"Artigo 50 (VEICULAÇÃO DE MENSAGENS DE PUBLICIDADE E PROPAGANDA NA TELEVISÃO POR ASSINATURA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de comunicação de veiculação de mensagens de publicidade ou propaganda na televisão por assinatura, de forma que a carga tributária resulte no percentual de 10% (dez por cento) (Convênio ICMS 9/08)."; (NR)<br>
-m) o § 2º do artigo 59:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-n) o "caput" do artigo 67:<br>
-"Artigo 67 (VEICULAÇÃO DE MENSAGENS DE PUBLICIDADE E PROPAGANDA EM MÍDIA EXTERIOR) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de comunicação, na modalidade de veiculação de mensagens de publicidade e propaganda em mídia exterior, de forma que a carga tributária corresponda ao percentual de 5% (cinco por cento) (Convênio ICMS 45/14)."; (NR)<br>
-o) o "caput" do artigo 69:<br>
-Artigo 69 (BIOGÁS E BIOMETANO) - Fica reduzida a base de cálculo do imposto incidente nas saídas internas de biogás e biometano, de forma que a carga tributária corresponda ao percentual de 12% (doze por cento) (Convênio ICMS 112/13)."; (NR)<br>
-p) o "caput" do artigo 73:<br>
-"Artigo 73 (SOFTWARES) - Fica reduzida a base de cálculo do imposto incidente nas operações com softwares, programas, aplicativos e arquivos eletrônicos, padronizados, ainda que sejam ou possam ser adaptados, disponibilizados por qualquer meio, de forma que a carga tributária resulte no percentual de 5% (cinco por cento) (Convênio ICMS 181/15)."; (NR)<br>
-q) o inciso I do "caput" do artigo 74:<br>
-"I - 11% (onze por cento), quando a saída interna for destinada a consumidor final;"; (NR)<br>
-r) do artigo 76:<br>
-1 - o "caput":<br>
-"Artigo 76 (FLUORDEOXIGLICOSE-FDG) - Fica reduzida a base de cálculo do imposto incidente na operação interna com Fluordeoxiglicose-FDG, classificado no código 3006.30.29 da Nomenclatura Comum do Mercosul - NCM, de forma que a carga tributária corresponda ao percentual de 12% (doze por cento) (Convênio ICMS 193/17)."; (NR)<br>
-2 - o § 3º:<br>
-"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-III - do Anexo III:<br>
-a) o artigo 21:<br>
-"Artigo 21 (OBRA DE ARTE) - Na saída de obra de arte, promovida por estabelecimento que a tiver recebido diretamente do autor com isenção do imposto, este estabelecimento poderá creditar-se de importância equivalente a 50% (cinquenta por cento) do imposto incidente na operação (Convênio ICMS 59/91).<br>
-Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."; (NR)<br>
-b) a alínea "a" do item 2 do § 1º artigo 30:<br>
-"a) globalmente, em cada ano, a até 0,2% (dois décimos por cento) da parte estadual da arrecadação anual do ICMS relativa ao ano imediatamente anterior, sendo que, para o exercício de 2023, o montante máximo correspondente ao limite global será de R$ 60.000.000,00 (sessenta milhões de reais);"; (NR)<br>
-**Artigo 2° -** Ficam acrescentados, com a redação que se segue, os dispositivos adiante indicados ao Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):<br>
-I - do Anexo I:<br>
-a) o § 3º ao artigo 1º:<br>
+RODRIGO GARCIA, Governador do Estado de São Paulo, no uso de suas atribuições legais e tendo em vista o disposto nos artigos 5º da Lei nº 6.374, de 1° de março de 1989,
+
+Decreta:
+
+**Artigo 1º -** Passam a vigorar, com a redação que se segue, os dispositivos adiante indicados do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):
+
+I - do Anexo I:
+
+a) o § 3º do artigo 10:
+
+"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+b) o § 2º do artigo 16:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+c) o § 4º do artigo 17:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+d) o § 4º do artigo 24:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+e) o § 2º do artigo 45:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+f) o parágrafo único do artigo 50:
+
+"Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024." (NR);
+
+g) o § 3º do artigo 118:
+
+"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+h) o parágrafo único do artigo 123:
+
+"Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+i) o § 4º do artigo 153:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+j) o § 2º do artigo 154:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+k) o § 2º do artigo 155:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+l) o § 3º do artigo 156:
+
+"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+m) o § 3º do artigo 158:
+
+"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+n) o § 3º do artigo 159:
+
+"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+o) o § 5º do artigo 160:
+
+"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+p) o § 5º do artigo 161:
+
+"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+q) o § 5º do artigo 162:
+
+"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+r) o § 4º do artigo 165:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+s) o § 4º do artigo 166:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+t) o § 4º do artigo 170:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+u) o § 2º do artigo 171:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+v) o § 1º do artigo 172:
+
+"§ 1º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+II - do Anexo II:
+
+a) o item 2 do § 1º do artigo 2º:
+
+"2 - proporcionalmente à redução do Imposto de Importação referida no "caput"."; (NR)
+
+b) o artigo 6º:
+
+"Artigo 6º (EQUINO PURO-SANGUE) - Nas operações internas com equino puro-sangue, exceto puro-sangue inglês - PSI, fica reduzida a base de cálculo do imposto em 33,33% (trinta e três inteiros e trinta e três centésimos por cento) (Convênio ICMS 50/92).
+
+Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+c) os incisos I e II do "caput" do artigo 8º:
+
+"I - gás liquefeito de petróleo, de tal forma que a carga tributária resulte no percentual de 12% (doze por cento);
+
+II - gás natural, de tal forma que a carga tributária resulte no percentual de 15% (quinze por cento)."; (NR)
+
+d) o inciso II do "caput" do artigo 11:
+
+"II - máquinas ou aparelhos:
+
+a) os de uso agrícola, classificados nas posições 8432 e 8433 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH - 95% (noventa e cinco por cento);
+
+b) os demais - 80% (oitenta por cento)."; (NR)
+
+e) o "caput" do artigo 16:
+
+"Artigo 16 (RADIOCHAMADA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de radiochamada com transmissão unidirecional, de forma que a carga tributária resulte no percentual de 10% (dez por cento) (Convênio ICMS 86/99)."; (NR)
+
+f) o "caput" do artigo 18:
+
+"Artigo 18 (TELEVISÃO POR ASSINATURA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de televisão por assinatura, de forma que a carga tributária resulte no percentual de 12% (doze por cento) (Convênio ICMS 57/99)."; (NR)
+
+g) o "caput" do artigo 19:
+
+"Artigo 19 (TRANSPORTE DE LEITE) - Fica reduzida a base de cálculo do imposto na prestação de serviço de transporte intermunicipal de leite cru ou pasteurizado, de forma que a carga tributária resulte no percentual de 5% (cinco por cento) (Convênio ICMS 17/92)."; (NR)
+
+h) o "caput" do artigo 20, mantidos os seus incisos:
+
+"Artigo 20 (USINAS PRODUTORAS DE ENERGIA ELÉTRICA) - Fica reduzida a base de cálculo do imposto incidente nas operações internas com máquinas, aparelhos, equipamentos, suas partes e peças, de forma que a carga tributária resulte no percentual de 12% (doze por cento), destinados à construção ou ampliação das seguintes usinas produtoras de energia elétrica (Convênio ICMS 69/97, cláusula primeira, I, "b", e Convênio ICMS 124/01):"; (NR)
+
+i) o § 5º do artigo 24:
+
+"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+j) o "caput" do artigo 31:
+
+"Artigo 31 (ALGODÃO EM PLUMA) - Fica reduzida a base de cálculo do imposto incidente na saída algodão em pluma em 60% (sessenta por cento) do valor da operação (Convênio ICMS 106/03)."; (NR)
+
+k) o "caput" do artigo 47:
+
+"Artigo 47 (RASTREAMENTO DE VEÍCULO E CARGA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de comunicação, na modalidade de monitoramento e rastreamento de veículo e de carga, de forma que a carga tributária resulte no percentual de 5% (cinco por cento) (Convênio ICMS 139/06)."; (NR)
+
+l) o "caput" do artigo 50:
+
+"Artigo 50 (VEICULAÇÃO DE MENSAGENS DE PUBLICIDADE E PROPAGANDA NA TELEVISÃO POR ASSINATURA) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de comunicação de veiculação de mensagens de publicidade ou propaganda na televisão por assinatura, de forma que a carga tributária resulte no percentual de 10% (dez por cento) (Convênio ICMS 9/08)."; (NR)
+
+m) o § 2º do artigo 59:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+n) o "caput" do artigo 67:
+
+"Artigo 67 (VEICULAÇÃO DE MENSAGENS DE PUBLICIDADE E PROPAGANDA EM MÍDIA EXTERIOR) - Fica reduzida a base de cálculo do imposto incidente na prestação de serviço de comunicação, na modalidade de veiculação de mensagens de publicidade e propaganda em mídia exterior, de forma que a carga tributária corresponda ao percentual de 5% (cinco por cento) (Convênio ICMS 45/14)."; (NR)
+
+o) o "caput" do artigo 69:
+
+Artigo 69 (BIOGÁS E BIOMETANO) - Fica reduzida a base de cálculo do imposto incidente nas saídas internas de biogás e biometano, de forma que a carga tributária corresponda ao percentual de 12% (doze por cento) (Convênio ICMS 112/13)."; (NR)
+
+p) o "caput" do artigo 73:
+
+"Artigo 73 (SOFTWARES) - Fica reduzida a base de cálculo do imposto incidente nas operações com softwares, programas, aplicativos e arquivos eletrônicos, padronizados, ainda que sejam ou possam ser adaptados, disponibilizados por qualquer meio, de forma que a carga tributária resulte no percentual de 5% (cinco por cento) (Convênio ICMS 181/15)."; (NR)
+
+q) o inciso I do "caput" do artigo 74:
+
+"I - 11% (onze por cento), quando a saída interna for destinada a consumidor final;"; (NR)
+
+r) do artigo 76:
+
+1 - o "caput":
+
+"Artigo 76 (FLUORDEOXIGLICOSE-FDG) - Fica reduzida a base de cálculo do imposto incidente na operação interna com Fluordeoxiglicose-FDG, classificado no código 3006.30.29 da Nomenclatura Comum do Mercosul - NCM, de forma que a carga tributária corresponda ao percentual de 12% (doze por cento) (Convênio ICMS 193/17)."; (NR)
+
+2 - o § 3º:
+
+"§ 3º - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+III - do Anexo III:
+
+a) o artigo 21:
+
+"Artigo 21 (OBRA DE ARTE) - Na saída de obra de arte, promovida por estabelecimento que a tiver recebido diretamente do autor com isenção do imposto, este estabelecimento poderá creditar-se de importância equivalente a 50% (cinquenta por cento) do imposto incidente na operação (Convênio ICMS 59/91).
+
+Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."; (NR)
+
+b) a alínea "a" do item 2 do § 1º artigo 30:
+
+"a) globalmente, em cada ano, a até 0,2% (dois décimos por cento) da parte estadual da arrecadação anual do ICMS relativa ao ano imediatamente anterior, sendo que, para o exercício de 2023, o montante máximo correspondente ao limite global será de R$ 60.000.000,00 (sessenta milhões de reais);"; (NR)
+
+**Artigo 2° -** Ficam acrescentados, com a redação que se segue, os dispositivos adiante indicados ao Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):
+
+I - do Anexo I:
+
+a) o § 3º ao artigo 1º:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-b) o § 5º ao artigo 2º:<br>
+b) o § 5º ao artigo 2º:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-c) o § 2º ao artigo 3º, passando o atual parágrafo único a denominar-se § 1º:<br>
+c) o § 2º ao artigo 3º, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-d) o § 5º ao artigo 5º:<br>
+d) o § 5º ao artigo 5º:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-e) o parágrafo único ao artigo 7º:<br>
+e) o parágrafo único ao artigo 7º:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-f) o parágrafo único ao artigo 8º:<br>
+f) o parágrafo único ao artigo 8º:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-g) o § 3º ao artigo 9º:<br>
+g) o § 3º ao artigo 9º:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-h) o § 2º ao artigo 21, passando o atual parágrafo único a denominar-se § 1º:<br>
+h) o § 2º ao artigo 21, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-i) o § 6º ao artigo 22:<br>
+i) o § 6º ao artigo 22:
+
 "§ 6º - Este benefício vigorará até 31 de dezembro de 2024."
 
-j) o § 2º ao artigo 23:<br>
+j) o § 2º ao artigo 23:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-k) o parágrafo único ao artigo 25:<br>
+k) o parágrafo único ao artigo 25:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-l) o parágrafo único ao artigo 26:<br>
+l) o parágrafo único ao artigo 26:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-m) o § 2º ao artigo 28:<br>
+m) o § 2º ao artigo 28:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-n) o § 3º ao artigo 29:<br>
+n) o § 3º ao artigo 29:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-o) o parágrafo único ao artigo 31:<br>
+o) o parágrafo único ao artigo 31:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-p) o parágrafo único ao artigo 32:<br>
+p) o parágrafo único ao artigo 32:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-q) o parágrafo único ao artigo 33:<br>
+q) o parágrafo único ao artigo 33:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-r) o § 7º ao artigo 36:<br>
+r) o § 7º ao artigo 36:
+
 "§ 7º - Este benefício vigorará até 31 de dezembro de 2024."
 
-s) o § 4º ao artigo 37:<br>
+s) o § 4º ao artigo 37:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-t) o § 2º ao artigo 39, passando o atual parágrafo único a denominar-se § 1º:<br>
+t) o § 2º ao artigo 39, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-u) o § 6º ao artigo 42:<br>
+u) o § 6º ao artigo 42:
+
 "§ 6º - Este benefício vigorará até 31 de dezembro de 2024."
 
-v) o § 4º ao artigo 43:<br>
+v) o § 4º ao artigo 43:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-w) o § 2º ao artigo 44, passando o atual parágrafo único a denominar-se § 1º:<br>
+w) o § 2º ao artigo 44, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-x) o § 2º ao artigo 46, passando o atual parágrafo único a denominar-se § 1º:<br>
+x) o § 2º ao artigo 46, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-y) o parágrafo único ao artigo 47:<br>
+y) o parágrafo único ao artigo 47:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z) o § 6º ao artigo 55:<br>
+z) o § 6º ao artigo 55:
+
 "§ 6º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z1) o § 5º ao artigo 56:<br>
+z1) o § 5º ao artigo 56:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z2) o parágrafo único ao artigo 58:<br>
+z2) o parágrafo único ao artigo 58:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z3) o parágrafo único ao artigo 59:<br>
+z3) o parágrafo único ao artigo 59:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z4) o § 4º ao artigo 62:<br>
+z4) o § 4º ao artigo 62:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z5) o § 3º ao artigo 63:<br>
+z5) o § 3º ao artigo 63:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z6) o parágrafo único ao artigo 64:<br>
+z6) o parágrafo único ao artigo 64:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z7) o parágrafo único ao artigo 69:<br>
+z7) o parágrafo único ao artigo 69:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z8) o § 6º ao artigo 71:<br>
+z8) o § 6º ao artigo 71:
+
 "§ 6º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z9) o § 2º ao artigo 73, passando o atual parágrafo único a denominar-se § 1º:<br>
+z9) o § 2º ao artigo 73, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z10) o parágrafo único ao artigo 77:<br>
+z10) o parágrafo único ao artigo 77:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z11) o § 2º ao artigo 78:<br>
+z11) o § 2º ao artigo 78:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z12) o parágrafo único ao artigo 79:<br>
+z12) o parágrafo único ao artigo 79:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z13) o § 4º ao artigo 80:<br>
+z13) o § 4º ao artigo 80:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z14) o § 5º ao artigo 81:<br>
+z14) o § 5º ao artigo 81:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z15) o parágrafo único ao artigo 82:<br>
+z15) o parágrafo único ao artigo 82:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z16) o § 2º ao artigo 83, passando o atual parágrafo único a denominar-se § 1º:<br>
+z16) o § 2º ao artigo 83, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z17) o § 17 ao artigo 84:<br>
+z17) o § 17 ao artigo 84:
+
 "§ 17 - Este benefício vigorará até 31 de dezembro de 2024."
 
-z18) o parágrafo único ao artigo 85:<br>
+z18) o parágrafo único ao artigo 85:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z19) o parágrafo único ao artigo 86:<br>
+z19) o parágrafo único ao artigo 86:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z20) o parágrafo único ao artigo 89:<br>
+z20) o parágrafo único ao artigo 89:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z21) o § 2º ao artigo 95, passando o atual parágrafo único a denominar-se § 1º:<br>
+z21) o § 2º ao artigo 95, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z22) o § 3º ao artigo 110:<br>
+z22) o § 3º ao artigo 110:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z23) o § 4º ao artigo 115:<br>
+z23) o § 4º ao artigo 115:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z24) o § 4º ao artigo 117:<br>
+z24) o § 4º ao artigo 117:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z25) o § 3º ao artigo 119:<br>
+z25) o § 3º ao artigo 119:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z26) o § 3º ao artigo 126:<br>
+z26) o § 3º ao artigo 126:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z27) o parágrafo único ao artigo 127:<br>
+z27) o parágrafo único ao artigo 127:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z28) o § 2º ao artigo 128, passando o atual parágrafo único a denominar-se § 1º:<br>
+z28) o § 2º ao artigo 128, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
 z29) o parágrafo único ao artigo 132:
 
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z30) o § 2º ao artigo 136, passando o atual parágrafo único a denominar-se § 1º:<br>
+z30) o § 2º ao artigo 136, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z31) o parágrafo único ao artigo 137:<br>
+z31) o parágrafo único ao artigo 137:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z32) o parágrafo único ao artigo 140:<br>
+z32) o parágrafo único ao artigo 140:
+
 "Parágrafo único - Este benefício vigorará até 31 de dezembro de 2024."
 
-z33) o § 2º ao artigo 142, passando o atual parágrafo único a denominar-se § 1º:<br>
+z33) o § 2º ao artigo 142, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z34) o § 11 ao artigo 145:<br>
+z34) o § 11 ao artigo 145:
+
 "§ 11 - Este benefício vigorará até 31 de dezembro de 2024."
 
-z35) o § 2º ao artigo 147, passando o atual parágrafo único a denominar-se § 1º:<br>
+z35) o § 2º ao artigo 147, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z36) o § 2º ao artigo 148, passando o atual parágrafo único a denominar-se § 1º:<br>
+z36) o § 2º ao artigo 148, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z37) o § 2º ao artigo 157, passando o atual parágrafo único a denominar-se § 1º:<br>
+z37) o § 2º ao artigo 157, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
 z38) o § 5º ao artigo 173:
 
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z39) o § 5º ao artigo 174:<br>
+z39) o § 5º ao artigo 174:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z40) o § 2º ao artigo 175, passando o atual parágrafo único a denominar-se § 1º:<br>
+z40) o § 2º ao artigo 175, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z41) o § 2º ao artigo 176, passando o atual parágrafo único a denominar-se § 1º:<br>
+z41) o § 2º ao artigo 176, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z42) o § 3º ao artigo 177:<br>
+z42) o § 3º ao artigo 177:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-z43) o § 5º ao artigo 178:<br>
-"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."<br>
-II - do Anexo II:<br>
-a) o § 4º ao artigo 2º:<br>
+z43) o § 5º ao artigo 178:
+
+"§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
+
+II - do Anexo II:
+
+a) o § 4º ao artigo 2º:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-b) o § 4º ao artigo 3º:<br>
+b) o § 4º ao artigo 3º:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-c) o § 2º ao artigo 8º, passando o atual parágrafo único a denominar-se § 1º:<br>
+c) o § 2º ao artigo 8º, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-d) o § 6º ao artigo 11:<br>
+d) o § 6º ao artigo 11:
+
 "§ 6º - Este benefício vigorará até 31 de dezembro de 2024."
 
-e) o § 3º ao artigo 16:<br>
+e) o § 3º ao artigo 16:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-f) o § 5º ao artigo 18:<br>
+f) o § 5º ao artigo 18:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-g) o § 3º ao artigo 19:<br>
+g) o § 3º ao artigo 19:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-h) o § 5º ao artigo 20:<br>
+h) o § 5º ao artigo 20:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-i) o § 5º ao artigo 22:<br>
+i) o § 5º ao artigo 22:
+
 "§ 5º - Este benefício vigorará até 31 de dezembro de 2024."
 
-j) o § 3º ao artigo 31:<br>
+j) o § 3º ao artigo 31:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-k) o § 2º ao artigo 38, passando o atual parágrafo único a denominar-se § 1º:<br>
+k) o § 2º ao artigo 38, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-l) o § 2º ao artigo 45, passando o atual parágrafo único a denominar-se § 1º:<br>
+l) o § 2º ao artigo 45, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-m) o § 8º ao artigo 47:<br>
+m) o § 8º ao artigo 47:
+
 "§ 8º - Este benefício vigorará até 31 de dezembro de 2024."
 
-n) o § 4º ao artigo 50:<br>
+n) o § 4º ao artigo 50:
+
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-o) o § 2º ao artigo 67, passando o atual parágrafo único a denominar-se § 1º:<br>
+o) o § 2º ao artigo 67, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-p) o § 3º ao artigo 68:<br>
+p) o § 3º ao artigo 68:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-q) o § 2º ao artigo 69, passando o atual parágrafo único a denominar-se § 1º:<br>
+q) o § 2º ao artigo 69, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-r) o § 2º ao artigo 73, passando o atual parágrafo único a denominar-se § 1º:<br>
+r) o § 2º ao artigo 73, passando o atual parágrafo único a denominar-se § 1º:
+
 "§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
 
-s) o § 4º ao artigo 74:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."<br>
-III - do Anexo III:<br>
-a) o § 2º ao artigo 2º, passando o atual parágrafo único a denominar-se § 1º:<br>
-"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
+s) o § 4º ao artigo 74:
 
-b) o § 4º ao artigo 11:<br>
 "§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
 
-c) o § 3º ao artigo 12:<br>
+III - do Anexo III:
+
+a) o § 2º ao artigo 2º, passando o atual parágrafo único a denominar-se § 1º:
+
+"§ 2º - Este benefício vigorará até 31 de dezembro de 2024."
+
+b) o § 4º ao artigo 11:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
+
+c) o § 3º ao artigo 12:
+
 "§ 3º - Este benefício vigorará até 31 de dezembro de 2024."
 
-d) o § 4º ao artigo 30:<br>
-"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."<br>
-**Artigo 3° -** Ficam revogados os dispositivos adiante indicados do Anexo I do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):<br>
-I - o item 2 do § 1º do artigo 24;<br>
-II - o item 2 do § 2º do artigo 81;<br>
-III - o item 2 do § 1º do artigo 126;<br>
-IV - o item 4 do § 1º do artigo 166;<br>
-V - o § 3º do artigo 171;<br>
-VI - o § 2º do artigo 172<br>
-**Artigo 4° -** Este decreto entra em vigor em 16 de janeiro de 2023.<br>
-**Parágrafo único -** A produção de efeitos de cada um dos benefícios fiscais previstos neste decreto fica condicionada à aprovação da Lei Orçamentária Anual - LOA para o exercício de 2023, prevendo a renúncia de receita relativa a tais benefícios.<br>
-Palácio dos Bandeirantes, 20 de dezembro de 2022.<br>
-RODRIGO GARCIA<br>
-Marcos Rodrigues Penido<br>
-Secretário de Governo<br>
-Felipe Scudeler Salto<br>
-Secretário da Fazenda e Planejamento<br>
+d) o § 4º ao artigo 30:
+
+"§ 4º - Este benefício vigorará até 31 de dezembro de 2024."
+
+**Artigo 3° -** Ficam revogados os dispositivos adiante indicados do Anexo I do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072):
+
+I - o item 2 do § 1º do artigo 24;
+
+II - o item 2 do § 2º do artigo 81;
+
+III - o item 2 do § 1º do artigo 126;
+
+IV - o item 4 do § 1º do artigo 166;
+
+V - o § 3º do artigo 171;
+
+VI - o § 2º do artigo 172
+
+**Artigo 4° -** Este decreto entra em vigor em 16 de janeiro de 2023.
+
+**Parágrafo único -** A produção de efeitos de cada um dos benefícios fiscais previstos neste decreto fica condicionada à aprovação da Lei Orçamentária Anual - LOA para o exercício de 2023, prevendo a renúncia de receita relativa a tais benefícios.
+
+Palácio dos Bandeirantes, 20 de dezembro de 2022.
+
+RODRIGO GARCIA
+
+Marcos Rodrigues Penido
+
+Secretário de Governo
+
+Felipe Scudeler Salto
+
+Secretário da Fazenda e Planejamento
+
 Joel José Pinto de Oliveira
 
 Chefe de Gabinete, Respondendo pelo Expediente da Casa Civil
 
 Publicado na Secretaria de Governo, aos 20 de dezembro de 2022.
 
-<br>
-
 #### OFÍCIO Nº 479/2022 - GS/SRE
 
-<br>
-Senhor Governador,<br>
-Tenho a honra de encaminhar a Vossa Excelência a inclusa minuta de decreto, que introduz alterações no Regulamento do ICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072).<br>
-A minuta prevê a reversão do ajuste fiscal promovido pelo [Decreto nº 65.255, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195744), bem como estabelece a data de 31 de dezembro de 2024 como termo final de vigência dos benefícios fiscais nela relacionados.<br>
-Com essas justificativas e propondo a edição de decreto conforme a minuta, aproveito o ensejo para reiterar-lhe meus protestos de estima e alta consideração.<br>
-Felipe Scudeler Salto<br>
-Secretário da Fazenda e Planejamento<br>
-A<br>
-Sua Excelência o Senhor<br>
-RODRIGO GARCIA<br>
-Governador do Estado de São Paulo<br>
+Senhor Governador,
+
+Tenho a honra de encaminhar a Vossa Excelência a inclusa minuta de decreto, que introduz alterações no Regulamento do ICMS, aprovado pelo [Decreto nº 45.490, de 30 de novembro de 2000](https://www.al.sp.gov.br/norma/5072).
+
+A minuta prevê a reversão do ajuste fiscal promovido pelo [Decreto nº 65.255, de 15 de outubro de 2020](https://www.al.sp.gov.br/norma/195744), bem como estabelece a data de 31 de dezembro de 2024 como termo final de vigência dos benefícios fiscais nela relacionados.
+
+Com essas justificativas e propondo a edição de decreto conforme a minuta, aproveito o ensejo para reiterar-lhe meus protestos de estima e alta consideração.
+
+Felipe Scudeler Salto
+
+Secretário da Fazenda e Planejamento
+
+A
+
+Sua Excelência o Senhor
+
+RODRIGO GARCIA
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

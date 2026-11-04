@@ -1,5 +1,3 @@
-###DEC-089917-0-000-04-07-1984@@@
-
 Decreto nº 89.917, de 04 de julho de 1984
 
 Outorga concessão à SOCIEDADE MATOGROSSENSE RÁDIO EDUCADORA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Colider, Estado do Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-009017-0-000-23-02-1946@@@
-
 DECRETO-LEI N. 9.017 – DE 23 DE FEVEREIRO DE 1946
 
 Dispõe sôbre anexação de preceitos de puericultura à certidão do registro civil.

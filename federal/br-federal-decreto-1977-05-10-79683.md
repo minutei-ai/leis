@@ -1,5 +1,3 @@
-###DEC-079683-0-000-10-05-1977@@@
-
 DECRETO Nº 79.683, DE 10 DE MAIO DE 1977.
 
 Renova por 10 (dez) anos a cocessão outogada à Rádio Iracema de Fortaleza S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Sobral, Estado do Ceará.

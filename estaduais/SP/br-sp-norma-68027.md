@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=68027)
-
 # LEI Nº 12.402, DE 23 DE NOVEMBRO DE 2006
 
 ### _Dispõe sobre o subsídio dos Deputados Estaduais no exercício de 2006_

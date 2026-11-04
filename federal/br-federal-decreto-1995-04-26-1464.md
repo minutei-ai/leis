@@ -1,7 +1,3 @@
-1
-
-###DEC-001464-0-000-26-04-1995@@@
-
 DECRETO Nº 1.464, DE 26 DE ABRIL DE 1995
 
 Dispõe sobre a transformação e a transferência dos cargos em comissão que menciona.

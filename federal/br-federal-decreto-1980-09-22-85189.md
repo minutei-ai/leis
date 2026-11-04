@@ -1,5 +1,3 @@
-###DEC-085189-0-000-22-09-1980@@@
-
 Decreto nº 85.189, de 22 de setembro de 1980.
 
 Autoriza o aumento do capital da Rede Federal de Armazéns Gerais Ferroviários S/A. - AGEF

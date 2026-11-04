@@ -1,5 +1,3 @@
-###DEL-001335-0-000-08-07-1974@@@
-
 # DECRETO-LEI Nº 1.335, de 8 DE juLHo DE 1974
 
 Estende benefícios fiscais às vendas no mercado interno de máquinas e equipamentos e dá outras providências.

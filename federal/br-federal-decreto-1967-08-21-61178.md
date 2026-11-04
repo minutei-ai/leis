@@ -1,5 +1,3 @@
-###DEC-061178-0-000-21-08-1967@@@
-
 decreto nº 61.178, de 21 de agôsto de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que especifica, no município de Mauriti, Estado do Ceará.

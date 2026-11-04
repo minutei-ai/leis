@@ -1,5 +1,3 @@
-###DEC-076576-0-000-10-11-1975@@@
-
 DECRETO Nº 76.576, de 10 DE NOVEMBRO DE 1975.
 
 Autoriza, até 31 de dezembro de 1976, o aproveitamento dos navios estrangeiros na cabotagem nacional.

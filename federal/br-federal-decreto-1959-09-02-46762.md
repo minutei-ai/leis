@@ -1,5 +1,3 @@
-###DEC-046762-0-000-02-09-1959@@@
-
 decreto nº 46.762, de 2 de setembro de 1959.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, para o ano de 1960.

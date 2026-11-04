@@ -1,5 +1,3 @@
-###DEC-004895-0-000-25-11-2003@@@
-
 DECRETO Nº 4.895,  DE 25 DE NOVEMBRO DE 2003.
 
        Dispõe sobre a autorização de uso de espaços físicos de corpos d’água de domínio da União para fins de aqüicultura, e dá outras providências.
@@ -134,5 +132,6 @@ DECRETO Nº 4.895,  DE 25 DE NOVEMBRO DE 2003.
 
         Brasília, 25 de novembro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

@@ -1,5 +1,3 @@
-###DEC-075236-0-000-16-01-1975@@@
-
 DECRETO Nº 75.236, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Educação Física da Faculdade de Educação Física, mantida pelo Clube Náutico Mogiano, com sede na cidade de Moji das Cruzes, Estado de São Paulo.

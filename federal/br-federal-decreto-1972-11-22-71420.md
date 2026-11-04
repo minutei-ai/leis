@@ -1,5 +1,3 @@
-###DEC-071420-0-000-22-11-1972@@@
-
 DECRETO Nº 71.420 - DE 22 DE NOVEMBRO DE 1972.
 
 Dispõe sobre a inclusão de cargos na relação de que trata o artigo 1º, do Decreto nº 55.244, de 21 de dezembro de 1964, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050986-0-000-18-07-1961@@@
-
 DECRETO Nº 50.986, DE 18 DE JULHO DE 1961.
 
 Outorga ao Estado da Bahia concessão para distribuir energia elétrica.

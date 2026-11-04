@@ -1,5 +1,3 @@
-###DEC-086460-0-000-09-10-1981@@@
-
 decreto nº 86.460, de 09 de outubro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação Transformadora de Distribuição Mandaqui da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

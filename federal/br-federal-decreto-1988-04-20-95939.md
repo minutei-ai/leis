@@ -1,5 +1,3 @@
-###DEC-095939-0-000-20-04-1988@@@
-
 DECRETO N° 95.939, DE 20 DE ABRIL DE 1988
 
 Cria o Núcleo Governamental Coordenador da Execução dos Acordos assinados durante a Visita Presidencial à Colômbia e dá outras providências.

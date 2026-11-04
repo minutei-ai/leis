@@ -1,5 +1,3 @@
-###DEL-000053-0-000-18-11-1966@@@
-
 DECRETO-Lei Nº 53, DE 18 DE NOVEMBRO DE 1966
 
 Fixa princípios e normas de organização para as universidades federais e dá outras providências.

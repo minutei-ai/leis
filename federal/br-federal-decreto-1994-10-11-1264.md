@@ -1,7 +1,3 @@
-1
-
-###DEC-001264-0-000-11-10-1994@@@
-
 DECRETO Nº 1.264, DE 11 DE OUTUBRO DE 1994
 
 Cria a Comissão Nacional de Classificação CONCLA e dá outras providências.

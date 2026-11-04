@@ -1,5 +1,3 @@
-###DEC-046990-0-000-10-10-1959@@@
-
 DECRETO Nº 46.990, DE 10 DE OUTUBRO DE 1959.
 
 Concede reconhecimento aos cursos de História Natural e Matemática da Faculdade de Filosofia, Ciência e Letras do Instituto Santa Úrsula.

@@ -1,5 +1,3 @@
-###DEC-071330-0-000-08-11-1972@@@
-
 DECRETO Nº 71.330 - DE 8 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia de Fortaleza - Estado do Ceará.

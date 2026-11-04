@@ -1,5 +1,3 @@
-###DEC-060298-0-000-06-03-1967@@@
-
 DECRETO Nº 60.298, DE 6 DE MARÇO DE 1967.
 
 Dá nova redação a letra “b” do artigo 79 do Regulamento da Escola de Comando e Estado-Maior do Exército aprovado pelo Decreto número 36.955, de 25 de fevereiro de 1955.

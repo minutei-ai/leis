@@ -1,5 +1,3 @@
-###DEC-004824-0-000-02-09-2003@@@
-
 DECRETO Nº 4.824,  DE 2 DE SETEMBRO DE 2003.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da África do Sul sobre Cooperação Técnica, de 1º de março de 2000.
@@ -22,7 +20,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 2 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 # ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL

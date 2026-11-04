@@ -1,5 +1,3 @@
-###DEC-094983-0-000-29-09-1987@@@
-
 DECRETO Nº 94.983, DE 29 DE SETEMBRO DE 1987
 
 Altera o Decreto nº 92.889, de 7 de julho de 1986.

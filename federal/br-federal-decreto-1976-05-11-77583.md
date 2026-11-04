@@ -1,5 +1,3 @@
-###DEC-077583-0-000-11-05-1976@@@
-
 DECRETO Nº 77.583 - DE 11 DE MAIO DE 1976
 
 Concede reconhecimento á Universidade Estadual de Maringá, com sede na Cidade de Maringá, Estado do Paraná.

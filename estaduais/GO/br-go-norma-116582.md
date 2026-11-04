@@ -76,8 +76,10 @@ Goiânia, 10 de agosto de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-GIVAGO VALADARES<br>
+GIVAGO VALADARES
+
 Deputado Estadual

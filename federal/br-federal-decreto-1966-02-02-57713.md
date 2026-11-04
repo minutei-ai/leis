@@ -1,5 +1,3 @@
-###DEC-057713-0-000-02-02-1966@@@
-
 DECRETO Nº 57.713, DE 2 DE FEVEREIRO DE 1966.
 
 Autoriza a Mineração Tejucana Sociedade Anônima a pesquisar diamante e ouro no município de Diamantina, Estado de Minas Gerais.

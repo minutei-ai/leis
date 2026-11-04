@@ -1,5 +1,3 @@
-###DEC-054688-0-000-29-10-1964@@@
-
 DECRETO Nº 54.688, DE 29 DE OUTUBRO DE 1964.
 
 Concede à Associação dos Profissionais Inativos de Pernambuco, com sede em Recife, a prerrogativa da alínea “d” do art. 513 da Consolidação das Leis do Trabalho.

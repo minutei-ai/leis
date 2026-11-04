@@ -1,5 +1,3 @@
-###DEC-061123-0-000-01-08-1967@@@
-
 DECRETO Nº 61.123, DE 1º DE AGÔSTO DE 1967.
 
 Regulamenta a Lei nº 4.944, de 6 de abril de 1966, que dispõe sôbre a proteção a artistas produtores de fonogramas e organismos de radiodifusão.

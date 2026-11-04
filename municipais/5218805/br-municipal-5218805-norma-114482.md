@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 4.271, de 01 de abril de 2001.
 
-<br>
 Modifica a Lei 3635 de 03 de março de 1998 – Código de Posturas.
 
 **O PREFEITO MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
@@ -140,5 +139,3 @@ Prefeito de Rio Verde
 AFONSO CELSO BORGES J. DE MATTOS
 
 Secretário de Planejamento e Administração
-
-<br>

@@ -1,5 +1,3 @@
-###DEC-090427-0-000-08-11-1984@@@
-
 Decreto nº 90.427, de 08 de novembro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

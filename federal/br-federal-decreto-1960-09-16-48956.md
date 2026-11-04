@@ -1,5 +1,3 @@
-###DEC-048956-0-000-16-09-1960@@@
-
 DECRETO Nº 48.956, DE 16 DE SETEMBRO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.483, de 10-05-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessário à construção do açude público COCOROBÓ, no Município de Euclides da Cunha, Estado da Bahia.

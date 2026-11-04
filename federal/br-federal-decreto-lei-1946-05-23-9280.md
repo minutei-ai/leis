@@ -1,5 +1,3 @@
-###DEL-009280-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.280 – DE 23 DE MAIO DE 1946
 
 Altera o artigo 8 º do Decreto-lei número 8. 629, de 10 de Janeiro de 1946 e dá outras providências.

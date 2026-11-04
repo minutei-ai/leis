@@ -1,5 +1,3 @@
-###DEL-001643-0-000-07-12-1978@@@
-
 # Decreto-lei nº 1.643, de 07 de dezembro de 1978
 
 Prorroga prazos previstos na legislação do Imposto de Renda.

@@ -1,5 +1,3 @@
-###DEC-071278-0-000-31-10-1972@@@
-
 DECRETO Nº 71.278 - DE 31 DE OUTUBRO DE 1972.
 
 Regulamenta o Decreto-lei nº 1.219, de 15 de maio de 1972, e dá outras providências.

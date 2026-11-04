@@ -6,7 +6,8 @@ Dispõe sobre as taxas estaduais no âmbito do Poder Executivo Estadual.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA INCIDÊNCIA
 
 Art. 1º - As taxas estaduais têm como hipóteses de incidência:
@@ -19,7 +20,8 @@ Art. 2º - As taxas estaduais não incidem nos casos de exercício do poder de p
 
 Art. 3º - A taxa pelo exercício do poder de polícia relativa à Fiscalização de Atividades Utilizadoras de Recursos Naturais e de Atividades Potencialmente Poluidoras do Meio Ambiente será aplicada de acordo com a receita bruta, prevista no item 05.05 do Anexo I desta Lei, e a classificação do estabelecimento conforme Anexo III desta Lei.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS CONTRIBUINTES E DOS RESPONSÁVEIS
 
 Art. 4º - São contribuintes:
@@ -30,7 +32,8 @@ II -da taxa de prestação de serviços da área do Poder Executivo Estadual qua
 
 Parágrafo único - As empresas que exploram as linhas de transporte intermunicipal de passageiros ficam responsáveis, na condição de contribuinte substituto em lugar do usuário, pelo recolhimento da taxa de que trata o item 3.3 do Anexo I desta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS ISENÇÕES
 
 Art. 5º - São isentos:
@@ -85,7 +88,8 @@ i) no âmbito do Corpo de Bombeiros, tratando-se de edificações unifamiliares 
 
 2 - a perícia de incêndio e explosão.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO LANÇAMENTO, DO PAGAMENTO E DA RESTITUIÇÃO
 
 Art. 6º - O regulamento disporá sobre o lançamento e o pagamento de taxas estaduais.
@@ -94,7 +98,8 @@ Art. 7º - O contribuinte ou responsável terá direito à restituição, total 
 
 Parágrafo único - A verificação e comprovação posterior de isenção não impede a qualificação do pagamento como indevido.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 8º - O descumprimento de obrigação principal ou acessória prevista nesta Lei, ou na legislação estadual, sujeita o infrator ao pagamento das seguintes multas, sem prejuízo do tributo devido e seus acréscimos:
@@ -113,7 +118,8 @@ III -25% (vinte e cinco por cento), se forem pagas antes do ajuizamento da execu
 
 Parágrafo único - Condiciona-se a redução da multa ao pagamento integral do débito.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DISPOSIÇÕES FINAIS
 
 Art. 10 - Fica o Chefe do Poder Executivo autorizado a ajustar anualmente os valores das taxas pelo exercício do poder de polícia e pela prestação de serviços nas áreas do Poder Executivo Estadual, até o limite da variação do Índice de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE.

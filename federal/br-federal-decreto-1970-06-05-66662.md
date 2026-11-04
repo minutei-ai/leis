@@ -1,5 +1,3 @@
-###DEC-066662-0-000-05-06-1970@@@
-
 DECRETO Nº 66.662, DE 5 DE JUNHO DE 1970.
 
 Reformula a Coordenação do Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e dá outras providências.
@@ -161,8 +159,6 @@ EMÍLIO G. MÉDICI
 Jarbas G. Passarinho
 
 Marcos Pereira Vianna
-
-###DEC-066662-0-000-05-06-1970@@@RET01+++
 
 Decreto nº 66.662, de 5 de junho de 1970.
 

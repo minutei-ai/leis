@@ -1,5 +1,3 @@
-###DEC-081015-0-000-12-12-1977@@@
-
 Decreto nº 81.015, de 12 de dezembro de 1977.
 
 Concede à Companhia de Águas Minerais Petrópolis o direito de lavrar água mineral no Município de Petrópolis, Estado do Rio de janeiro.

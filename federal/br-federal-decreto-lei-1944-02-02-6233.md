@@ -1,5 +1,3 @@
-###DEL-006233-0-000-02-02-1944@@@
-
 DECRETO-LEI N. 6.233 – DE 2 DE FEVEREIRO DE 1944
 
 Prorroga o prazo previsto no art. 159 do decreto-lei nº 5.893, de 19 da outubro de 1943

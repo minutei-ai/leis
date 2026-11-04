@@ -1,5 +1,3 @@
-###MPV-000444-0-000-29-10-2008@@@
-
 MEDIDA PROVISÓRIA Nº 444, DE 29 DE OUTUBRO DE 2008.
 
 Autoriza o Poder Executivo a doar estoques públicos de alimentos à República de Cuba, à República do Haiti, à República de Honduras e à Jamaica.

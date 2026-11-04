@@ -1,5 +1,3 @@
-###DEC-080013-0-000-26-07-1977@@@
-
 DECRETO Nº 80.013, DE 26 DE JUlHO DE 1977
 
 Autoriza a concessão da garantia do Tesouro Nacional a operações de crédito externo até o valor de US$ 15.375,000.00 (dezesseis milhões trezentos e setenta e cinco mil dólares) a serem celebrados pela Rede Ferroviária Federal S. A. para o financiamento da implantação de sistema integrado de sinalização nos subúrbios do Grande Rio, e dá outras providências.

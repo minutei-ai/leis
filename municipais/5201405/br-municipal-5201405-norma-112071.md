@@ -14,7 +14,8 @@ Art. 4º. Esta Lei Complementar entra em vigor na data de sua publicação, prod
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 27 de março de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
 ANEXO ÚNICO

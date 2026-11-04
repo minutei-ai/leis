@@ -1,7 +1,3 @@
-1
-
-###DEC-000012-0-000-18-01-1991@@@
-
 # DECRETO N° 12, DE 18 DE JANEIRO DE 1991
 
 Aprova o Estatuto da Fundação Legião Brasileira de Assistência (LBA} e dá outras providências.

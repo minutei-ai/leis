@@ -1,5 +1,3 @@
-###DEC-077044-0-000-15-01-1976@@@
-
 DECRETO Nº 77.044, DE 15 DE JANEIRO DE 1976.
 
 Concede reconhecimento ao curso de Comunicação Social da Universidade Católica de Pernambuco, com sede na Cidade de Recife, Estado de Pernambuco.

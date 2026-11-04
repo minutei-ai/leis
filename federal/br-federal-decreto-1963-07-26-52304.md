@@ -1,5 +1,3 @@
-###DEC-052304-0-000-26-07-1963@@@
-
 DECRETO Nº 52.034, DE 26 DE JULHO DE 1963.
 
 Altera, temporariamente, o Regulamento de Promoções para Oficiais da Marinha.

@@ -1,5 +1,3 @@
-###DEC-005773-0-000-09-05-2006@@@
-
 DECRETO Nº 5.773, DE 9 DE MAIO DE 2006.
 
 Dispõe sobre o exercício das funções de regulação, supervisão e avaliação de instituições de educação superior e cursos superiores de graduação e seqüenciais no sistema federal de ensino.

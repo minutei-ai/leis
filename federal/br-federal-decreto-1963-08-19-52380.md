@@ -1,5 +1,3 @@
-###DEC-052380-0-000-19-08-1963@@@
-
 DECRETO Nº 52.380, DE 19 DE AGÔSTO DE 1963.
 
 Autoriza o cidadão brasileiro Milton Pereira Lima a pesquisar hematita, no município de Santa Bárbara, Estado de Minas Gerais.

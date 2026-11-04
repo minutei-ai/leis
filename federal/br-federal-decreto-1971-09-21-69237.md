@@ -1,5 +1,3 @@
-###DEC-069237-0-000-21-09-1971@@@
-
 DECRETO Nº 69.237, de 21 de setembro de 1971.
 
 Altera o artigo 4º do Decreto número 68.440, de 29 de março de 1971.

@@ -1,5 +1,3 @@
-###DEC-066887-0-000-17-07-1970@@@
-
 DECRETO Nº 66.887, DE 17 DE JULHO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento de Polícia Federal, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Serviço de Navegação da Bacia do Prata e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007842-0-000-12-11-2012-PUB-01@@@
-
 DECRETO Nº 7.842, DE 12 DE NOVEMBRO DE 2012
 
 Promulga o Acordo entre a República Federativa do Brasil e o Reino da Espanha, relativo ao Estabelecimento e Funcionamento de Centros Culturais, firmado em Madri, em 17 de setembro de 2007.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211061)<br>
-
 # DECRETO N° 69.623, DE 12 DE JUNHO DE 2025
 
 ### _Dispõe sobre a criação do Centro Estadual de Educação de Jovens e Adultos - CEEJA de Presidente Venceslau, na Secretaria da Educação, e dá providências correlatas._

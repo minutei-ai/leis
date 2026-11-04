@@ -1,5 +1,3 @@
-###DEC-005941-0-000-26-10-2006@@@
-
 DECRETO Nº 5.941, DE 26 DE OUTUBRO DE 2006.
 
 Promulga o Protocolo contra a Fabricação e o Tráfico Ilícito de Armas de Fogo, suas Peças, Componentes e Munições, complementando a Convenção das Nações Unidas contra o Crime Organizado Transnacional, adotado em Nova York, em 31 de maio de 2001.
@@ -24,11 +22,7 @@ Brasília, 26 de outubro  de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.10.2006
-
-Protocolo contra a Fabricação e o Tráfico Ilícitos de Armas de Fogo, Suas Peças e Componentes e Munições, complementando a Convenção das Nações Unidas contra o Crime Organizado Transnacional
+       Celso Luiz Nunes AmorimProtocolo contra a Fabricação e o Tráfico Ilícitos de Armas de Fogo, Suas Peças e Componentes e Munições, complementando a Convenção das Nações Unidas contra o Crime Organizado Transnacional
 
 Nova York, 31 de maio de 2001
 

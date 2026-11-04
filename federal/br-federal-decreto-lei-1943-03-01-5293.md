@@ -1,5 +1,3 @@
-###DEL-005293-0-000-01-03-1943@@@
-
 DECRETO‑LEI N. 5.293 – DE 1 DE MARÇO DE 1943
 
 Declara ratificado o Convênio Nacional de Ensino Primário

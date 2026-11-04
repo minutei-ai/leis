@@ -1,5 +1,3 @@
-###DEC-071286-0-000-31-10-1972@@@
-
 DECRETO Nº 71.286 - DE 31 DE OUTUBRO DE 1972.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Marinha e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061455-0-000-04-10-1967@@@
-
 DECRETO Nº 61.455, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de distribuição rural.

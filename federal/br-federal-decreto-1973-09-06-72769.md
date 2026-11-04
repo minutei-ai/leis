@@ -1,5 +1,3 @@
-###DEC-072769-0-000-06-09-1973@@@
-
 DECRETO Nº 72.769, de 6 de setembro de 1973.
 
 Concede à Mineração Indústria e Comércio Barni Ltda., o direito de lavrar calcário, no Município de Vidal Ramos, Estado de Santa Catarina.

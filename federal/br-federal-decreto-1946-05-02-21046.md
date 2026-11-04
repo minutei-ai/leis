@@ -1,17 +1,15 @@
-###DEC-021046-0-000-02-05-1946@@@
+**DECRETO Nº 21.046, DE 2 DE MAIO DE 1946.**
 
-<strong>DECRETO Nº 21.046, DE 2 DE MAIO DE 1946.</strong>
+***Revoga o Decreto nº 13.063, de 30 de Julho de 1943.***
 
-<em><strong>Revoga o Decreto nº 13.063, de 30 de Julho de 1943.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica revogado o Decreto nº 13.063, de 30 de Julho de 1943, que subordinou, em caráter provisório, ao então Comando Naval do Centro, ora 1º Distrito Naval, o Corpo de Fuzileiros Navais.
 
 Rio de Janeiro, 2 de Maio de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Jorge Dodsworth Martins

@@ -1,5 +1,3 @@
-###DEC-084232-0-000-21-11-1979@@@
-
 Decreto nº 84.232, de 21 de novembro de 1979.
 
 Transfere a realização da VII CONFERÊNCIA NACIONAL DE SAÚDE para março de 1980.

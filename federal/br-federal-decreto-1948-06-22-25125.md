@@ -1,14 +1,12 @@
-###DEC-025125-0-000-22-06-1948@@@
+**DECRETO Nº 25.125, DE 22 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.125, DE 22 DE JUNHO DE 1948.</strong>
+***Declara de utilidade pública, para desapropriação pela Estrada de Ferro Noroeste do Brasil, as faixas de terra que menciona.***
 
-<em><strong>Declara de utilidade pública, para desapropriação pela Estrada de Ferro Noroeste do Brasil, as faixas de terra que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único - De acôrdo com os artigos 141, parágrafo 16, da Constituição, 5º, alínea <em>h, i</em> e j e 6º do Decreto-lei nº 3.365, de 21 de junho de 1941, são declaradas de utilidade pública, para desapropriação pela Estrada de Ferro Noroeste do Brasil, as seguintes faixas de terra representadas na planta que com êste baixa devidamente rubricada, necessárias à construção da variante de Lagoa Rica a Campo Grande, entre os quilômetros 870 e 888 da linha tronco da referida Estrada, no Estado de Mato Grosso, cujos projeto e orçamento, foram aprovados pelo Decreto nº 21.955 de 15 de outubro de 1946:
+Artigo único - De acôrdo com os artigos 141, parágrafo 16, da Constituição, 5º, alínea *h, i* e j e 6º do Decreto-lei nº 3.365, de 21 de junho de 1941, são declaradas de utilidade pública, para desapropriação pela Estrada de Ferro Noroeste do Brasil, as seguintes faixas de terra representadas na planta que com êste baixa devidamente rubricada, necessárias à construção da variante de Lagoa Rica a Campo Grande, entre os quilômetros 870 e 888 da linha tronco da referida Estrada, no Estado de Mato Grosso, cujos projeto e orçamento, foram aprovados pelo Decreto nº 21.955 de 15 de outubro de 1946:
 
 a) uma faixa de 20 metros de largura entre as estacas 28 -|-6,0 e 77, com a área de 19.480 metros quadrados, de propriedade de Humberto Pereira;
 
@@ -40,6 +38,6 @@ Parágrafo único - As despesas decorrentes da desapropriação correrão a cont
 
 Rio de Janeiro, 22 de junho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana

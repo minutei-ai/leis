@@ -1,5 +1,3 @@
-###DEC-059509-0-000-09-11-1966@@@
-
 DECRETO Nº 59.509, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Clovis Machado de Campos Filho a pesquisar calcário, município de Iporanga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-055466-0-000-05-01-1965@@@
-
 DECRETO Nº 55.466, DE 5 DE JANEIRO DE 1965.
 
 Renova o decreto nº 45.755, de 7 de abril de 1959.

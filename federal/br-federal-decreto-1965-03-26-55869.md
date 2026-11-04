@@ -1,5 +1,3 @@
-###DEC-055869-0-000-26-03-1965@@@
-
 DECRETO Nº 55.869, DE 26 DE MARÇO DE 1965.
 
 Abre, pelo Ministério da Aviação e obras Públicas, o crédito especial de Cr$200.000.000 para o fim que menciona.
@@ -17,8 +15,6 @@ Brasília, 26 de março de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Octávio Gouveia de Bulhões
-
-###DEC-055869-0-000-26-03-1965@@@RET01+++
 
 DECRETO Nº 55.869, DE 26 DE MARÇO DE 1965.
 

@@ -1,12 +1,10 @@
-###EMC-000023-0-000-02-09-1999@@@
+**EMENDA CONSTITUCIONAL Nº 23.**
 
-<strong>EMENDA CONSTITUCIONAL Nº 23.</strong>
-
-<em><strong>Altera os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal (criação do Ministério da Defesa).</strong></em>
+***Altera os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal (criação do Ministério da Defesa).***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º Os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal, passam a vigorar com as seguintes alterações:
+**Art**. 1º Os arts. 12, 52, 84, 91, 102 e 105 da Constituição Federal, passam a vigorar com as seguintes alterações:
 
 “Art. 12. ...................................................................................................................................
 
@@ -60,21 +58,21 @@ I - ............................................................................
 
 I - .......................................................................................................................................... ”
 
-“b) os mandados de segurança e os <em>habeas</em> data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;” (NR)
+“b) os mandados de segurança e os *habeas* data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal;” (NR)
 
-“c) os <em>habeas corpus</em>, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea <em>a</em>, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;” (NR)
+“c) os *habeas corpus*, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea *a*, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;” (NR)
 
 “............................................................................................................................................. ”
 
-<strong>Art</strong>. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art**. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 2 de setembro de 1999.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
+**MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO MICHEL TEMER</strong>
+**DEPUTADO MICHEL TEMER**
 
-<strong>PRESIDENTE</strong>
+**PRESIDENTE**
 
 Deputado HERÁCLITO FORTES
 
@@ -100,11 +98,11 @@ Deputado EFRAIM MORAIS
 
 4º Secretário
 
-<strong>MESA DO SENADO FEDERAL</strong>
+**MESA DO SENADO FEDERAL**
 
-<strong>SENADOR ANTONIO CARLOS MAGALHÃES</strong>
+**SENADOR ANTONIO CARLOS MAGALHÃES**
 
-<strong>PRESIDENTE</strong>
+**PRESIDENTE**
 
 Senador GERALDO MELO
 

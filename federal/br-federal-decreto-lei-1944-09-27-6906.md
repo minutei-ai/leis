@@ -1,5 +1,3 @@
-###DEL-006906-0-000-27-09-1944@@@
-
 DECRETO-LEI N. 6.906 – DE 27 DE SETEMBRO DE 1944
 
 Aprova projeto e orçamento para obras no pôrto do Rio de Janeiro e abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 15.000.000,00

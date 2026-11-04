@@ -1,5 +1,3 @@
-###DEC-003689-0-000-19-12-2000@@@
-
 DECRETO Nº 3.689, DE 19 DE DEZEMBRO DE 2000.
 
 Altera o Programa de Dispêndios Globais - PDG das empresas estatais federais, para 2000, aprovado pelo Decreto nº 3.359, de 7 de fevereiro de 2000, e dá outras providências.
@@ -65,7 +63,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(36.369.926)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>9.649.149</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(6.779.692)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>177.953.152</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>177.953.152</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>177.953.152</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>177.953.152</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -109,7 +107,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(28.660.253)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTES</td><td>19.009.947</td><td colspan="3">AJUSTES REC. E DESP. FINANC.</td><td>(18.030.000)</td></tr>
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DO DISPONÍVEL</td><td>(4.003.242)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>103.412.199</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>103.412.199</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>103.412.199</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>103.412.199</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -153,7 +151,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(18.515.645)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTES</td><td>4.341.245</td><td colspan="3">AJUSTES REC. E DESP. FINANC.</td><td>(2.688.146)</td></tr>
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DO DISPONÍVEL</td><td>(180.172)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>102.278.955</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>102.278.955</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>102.278.955</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>102.278.955</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -197,7 +195,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DE CAPITAL DE GIRO</td><td>1.982.367</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTES</td><td>19.666.000</td><td colspan="3">AJUSTES REC. E DESP. FINANC.</td><td></td></tr>
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DO DISPONÍVEL</td><td>(1.417.367)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>104.530.000</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>104.530.000</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>104.530.000</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>104.530.000</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -241,7 +239,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(466.712)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>1.719.087</td><td colspan="3">AJUSTES REC. E DESP. FINANC.</td><td>312.000</td></tr>
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DO DISPONÍVEL</td><td>(1.461.214)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>4.927.853</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>4.927.853</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>4.927.853</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>4.927.853</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -285,7 +283,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DE CAPITAL DE GIRO</td><td>67.000</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTES</td><td>7.000</td><td colspan="3">AJUSTES REC. E DESP. FINANC.</td><td>4.000</td></tr>
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DO DISPONÍVEL</td><td>(44.000)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>1.871.000</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>1.871.000</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>1.871.000</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>1.871.000</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -329,7 +327,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DE CAPITAL DE GIRO</td><td>97.000</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTES</td><td>271.000</td><td colspan="3">AJUSTES REC. E DESP. FINANC.</td><td></td></tr>
 <tr><td></td><td></td><td colspan="3">VARIAÇÃO DO DISPONÍVEL</td><td>(8.000)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>5.928.000</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>5.928.000</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>5.928.000</td><td colspan="3">TOTAL LÍQUIDO DOS RECURSOS</td><td>5.928.000</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -372,7 +370,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>64.333.640</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>253.513.832</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td>(38.565.073)</td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(136.192.067)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>1.316.620.253</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>1.316.620.253</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>1.316.620.253</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>1.316.620.253</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -417,7 +415,7 @@ ANEXO I AO DECRETO Nº               /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>5.618.679</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>1.422.664</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(4.687.839)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>66.734.902</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>66.734.902</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>66.734.902</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>66.734.902</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -462,7 +460,7 @@ ANEXO I AO DECRETO Nº           /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>1.566.143</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>287.500</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td>(584.805)</td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>4.449.038</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>22.368.261</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>22.368.261</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>22.368.261</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>22.368.261</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -507,7 +505,7 @@ ANEXO AO DECRETO Nº           /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>26.096</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>961.470</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td>(26.000)</td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(1.649.601)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>14.139.529</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>14.139.529</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>14.139.529</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>14.139.529</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -552,7 +550,7 @@ ANEXO I AO DECRETO Nº                /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(87.638.123)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>97.500.000</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td>7.237.000</td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(327.913.877)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>3.418.685.000</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>3.418.685.000</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>3.418.685.000</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>3.418.685.000</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -597,7 +595,7 @@ ANEXO I AO DECRETO Nº                /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(9.478.378)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>68.368.158</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td>(8.625.773)</td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>39.453.521</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>97.691.172</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>97.691.172</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>97.691.172</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>97.691.172</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -642,7 +640,7 @@ ANEXO I AO DECRETO Nº                /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>5.764.036</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>3.149.737</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(8.636.947)</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>36.797.764</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>36.797.764</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>36.797.764</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>36.797.764</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -687,7 +685,7 @@ ANEXO I AO DECRETO Nº                /
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DE CAPITAL DE GIRO</td><td>(13.584.409)</td></tr>
 <tr><td>DEMAIS DISPÊNDIOS CORRENTE</td><td>3.468.338</td><td colspan="2">AJUSTES REC. E DESP. FINANC.</td><td>(352.912)</td></tr>
 <tr><td></td><td></td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>4.486.500</td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>187.244.965</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>187.244.965</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>187.244.965</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>187.244.965</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -2899,7 +2897,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td></td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>687.800</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>24.800</td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>687.800</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>687.800</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>687.800</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>687.800</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -2940,7 +2938,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td>(6.639.799.345)</td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>27.962.110.444</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>4.091.586.693</td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td>2.405.563.668</td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>30.367.674.112</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>30.367.674.112</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>30.367.674.112</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>30.367.674.112</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -2981,7 +2979,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td>40.812.512</td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>772.586.621</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td></td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>772.586.621</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>772.586.621</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>772.586.621</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>772.586.621</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -3022,7 +3020,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td>280.492.475</td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>20.345.083.705</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(71.854.777)</td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td>7.230.359.103</td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>27.575.442.808</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>27.575.442.808</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>27.575.442.808</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>27.575.442.808</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -3063,7 +3061,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td>(26.228.000)</td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>2.223.089.559</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>32.413.774</td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>2.223.089.559</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>2.223.089.559</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>2.223.089.559</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>2.223.089.559</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -3104,7 +3102,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td>(4.236.214.727)</td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>385.340.913</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td>(379.745.593)</td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>385.340.913</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>385.340.913</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>385.340.913</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>385.340.913</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -3145,7 +3143,7 @@ ANEXO I AO DECRETO N                              
 <tr><td></td><td></td><td colspan="2">OUTRAS VAR. PATRIMONIAIS</td><td>(28.320.732)</td></tr>
 <tr><td>TOTAL DOS DISPENDIOS PDG</td><td>23.960.285</td><td colspan="2">VARIAÇÃO DO DISPONÍVEL</td><td></td></tr>
 <tr><td>APLIC. SUJEITAS APROV. CMN</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td><strong>TOTAL DOS USOS</strong></td><td>23.960.285</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>23.960.285</td></tr>
+<tr><td>**TOTAL DOS USOS**</td><td>23.960.285</td><td colspan="2">TOTAL LIQUIDO DOS RECURSOS</td><td>23.960.285</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -3186,7 +3184,7 @@ ANEXO I AO DECRETO N                              
 <tr><td colspan="2"></td><td colspan="2"></td><td colspan="4">OUTRAS VAR. PATRIMONIAIS</td><td colspan="2">(38.051.161)</td></tr>
 <tr><td colspan="2">TOTAL DOS DISPENDIOS PDG</td><td colspan="2">11.513.481.536</td><td colspan="4">VARIAÇÃO DO DISPONÍVEL</td><td colspan="2">750.441.021</td></tr>
 <tr><td colspan="2">APLIC. SUJEITAS APROV. CMN</td><td colspan="2">14.597.828.894</td><td colspan="4"></td><td colspan="2"></td></tr>
-<tr><td colspan="2"><strong>TOTAL DOS USOS</strong></td><td colspan="2">26.111.310.430</td><td colspan="4">TOTAL LIQUIDO DOS RECURSOS</td><td colspan="2">26.111.310.430</td></tr>
+<tr><td colspan="2">**TOTAL DOS USOS**</td><td colspan="2">26.111.310.430</td><td colspan="4">TOTAL LIQUIDO DOS RECURSOS</td><td colspan="2">26.111.310.430</td></tr>
 <tr><td></td><td colspan="6">ANEXO I AO DECRETO N.</td><td colspan="3">/</td></tr>
 <tr><td></td><td colspan="6">MINISTÉRIO DO PLANEJAMENTO, ORÇAMENTO E GESTÃO</td><td colspan="3">PROGRAMA DE DISPENDIOS GLOBAIS - PDG</td></tr>
 <tr><td></td><td colspan="6">SECRETARIA EXECUTIVA</td><td colspan="3">REPROGRAMAÇÃO 2000</td></tr>

@@ -1,7 +1,3 @@
-1
-
-###DEC-001659-0-000-05-10-1995@@@
-
 DECRETO N° 1.659, DE 5 DE OUTUBRO DE 1995.
 
 Altera dispositivos do Decreto n° 1.587, de 8 de agosto de 1995, que dispõe sobre o custeio de estada dos servidores que menciona.

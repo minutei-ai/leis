@@ -1,7 +1,3 @@
-1
-
-###DEC-000652-0-000-15-09-1992@@@
-
 DECRETO N° 652, DE 15 DE SETEMBRO DE 1992
 
 Dispõe sobre a execução do Acordo de Alcance Parcial de Cooperação e Intercâmbio de Bens Utilizados na Defesa e Proteção do Meio Ambiente, entre Brasil e Argentina.

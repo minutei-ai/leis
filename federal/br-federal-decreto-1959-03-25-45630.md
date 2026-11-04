@@ -1,5 +1,3 @@
-###DEC-045630-0-000-25-03-1959@@@
-
 decreto nº 45.630, de 25 de março de 1959.
 
 Autoriza o cidadão brasileiro José do Procópio de Rezende a pesquisar minério de ferro no município de Brumadinho,, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-006527-0-000-01-08-2008@@@
-
 DECRETO Nº 6.527, DE 1º DE AGOSTO DE 2008.
 
 Dispõe sobre o estabelecimento do Fundo Amazônia pelo Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

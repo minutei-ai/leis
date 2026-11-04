@@ -1,5 +1,3 @@
-###DEC-073659-0-000-15-02-1974@@@
-
 DECRETO Nº 73.659, DE 15 DE FEVEREIRO DE 1974.
 
 Aproveita no Quadro de Pessoal do Ministério da Fazenda servidora em disponibilidade no Quadro de Pessoal do Departamento Nacional de Obras Contra as Secas.

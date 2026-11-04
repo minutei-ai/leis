@@ -1,20 +1,18 @@
-###DEC-040984-0-000-19-02-1957@@@
+**DECRETO Nº 40.984, DE 19 DE FEVEREIRO DE 1957.**
 
-<strong>DECRETO Nº 40.984, DE 19 DE FEVEREIRO DE 1957.</strong>
+***Aprova e manda executar as "Instruções para Funcionamento do Curso de Mobilização Nacional.***
 
-<em><strong>Aprova e manda executar as "Instruções para Funcionamento do Curso de Mobilização Nacional.</strong></em>
+**O PRESIDENTE DO REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DO REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovados as "Instruções para o Funcionamento do Curso de Mobilização Nacional", que com êste baixam, assinadas pelo General de Exército Octávio Saldanha Mazza, Chefe do Estado-Maior das Fôrças Armadas.
 
-<strong>Art</strong>. 1º Ficam aprovados as "Instruções para o Funcionamento do Curso de Mobilização Nacional", que com êste baixam, assinadas pelo General de Exército Octávio Saldanha Mazza, Chefe do Estado-Maior das Fôrças Armadas.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 19 de fevereiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Alves Câmara
 
@@ -22,7 +20,7 @@ Henrique Lott
 
 Henrique Fleiuss
 
-<strong>INSTRUÇÕES PARA O FUNCIONAMENTO DO CURSO DE MOBILIZAÇÃO NACIONAL.</strong>
+**INSTRUÇÕES PARA O FUNCIONAMENTO DO CURSO DE MOBILIZAÇÃO NACIONAL.**
 
 1 - O Curso de Mobilização Nacional (CNM), criado pelo Decreto nº 40.835, de 24 de janeiro de 1957, obedecerá às normas estabelecidas no Regulamento da Escola Superior de Guerra, aprovado pelo Decreto número 35.187, de 11 de março de 1954, e às presentes Instruções.
 
@@ -60,7 +58,7 @@ b) possuir o Curso de Estado Maior e Comando do Exército ou nos seus mais altos
 
 § 2º Os civis pertencentes à Administração Pública deverão ademais, ter padrões L.M.N ou excepcionalmente O, ou exercerem função da mesma responsabilidade.
 
-§ 3º Os civis não pertencentes à Administração Pública, mas que satisfaçam o previsto na letra <em>b</em> do presente item, serão convidados pelo Chefe do EMFA.
+§ 3º Os civis não pertencentes à Administração Pública, mas que satisfaçam o previsto na letra *b* do presente item, serão convidados pelo Chefe do EMFA.
 
 6 - De acêrdo com as vagas postas à disposição, caberá aos Ministros e Diretores ou Presidentes de entidades, dentre os que lhes são subordinados e ao Chefe do EMFA, dentre os que não estejam subordinados àquelas autoridades, a indicação dos candidatos.
 
@@ -72,6 +70,6 @@ b) possuir o Curso de Estado Maior e Comando do Exército ou nos seus mais altos
 
 Em 19 de fevereiro de 1957.
 
-<strong>OCTÁVIO SALDANHA MAZZA</strong>
+**OCTÁVIO SALDANHA MAZZA**
 
 General de Exército, Chefe do EMFA.

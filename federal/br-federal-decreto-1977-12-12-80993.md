@@ -1,5 +1,3 @@
-###DEC-080993-0-000-12-12-1977@@@
-
 DECRETO Nº 80.993, DE 12 DE DEZEMBRO DE 1977.
 
 Concede à ICESA - Indústria, Comércio e Empreendimentos Ltda. o direito de lavrar mármore no Município de Jacobina, Estado da Bahia.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.473, DE 17 DE MAIO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece as diretrizes de atuação da Patrulha Maria da Penha no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece as diretrizes de atuação da Patrulha Maria da Penha no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

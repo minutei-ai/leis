@@ -1,5 +1,3 @@
-###DEC-004559-0-000-30-12-2002@@@
-
 DECRETO N. 4.559 – DE 30 DE DEZEMBRO DE 2002
 
 Aprova a reforma do Estatuto Social da Centrais Elétricas Brasileiras S.A. – ELETROBRÁS, e dá outras providências.

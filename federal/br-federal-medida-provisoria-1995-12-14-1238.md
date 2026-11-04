@@ -1,7 +1,3 @@
-1
-
-###MPV-001238-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.238, DE 14 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a Nota do Tesouro Nacional - NTN e sua utilização para aquisição de bens e direitos alienados no âmbito do Programa Nacional de Desestatização - PND, instituído pela Lei nº 8.031, de 12 de abril de 1990, consolidando as normas sobre a matéria constantes da Lei nº 8.177, de 1º de março de 1991, e da Lei nº 8.249, de 24 de outubro de 1991, e altera o art. 3º da Lei nº 8.249/91.
@@ -69,8 +65,6 @@ Brasília, 14 de dezembro de 1995; 174º da Independência e 107º da República
 MARCO ANTONIO DE OLIVEIRA MACIEL
 
 Pedro Malan
-
-###MPV-001238-0-000-14-12-1995@@@RET01+++
 
 # MEDIDA PROVISÓRIA Nº 1.238, DE 14 DE DEZEMBRO DE 1995
 

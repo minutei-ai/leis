@@ -1,5 +1,3 @@
-###MPV-000527-0-000-18-03-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 527, DE 18 DE MARÇO DE 2011
 
 Altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, cria a Secretaria de Aviação Civil, altera a legislação da Agência Nacional de Aviação Civil - ANAC e da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, cria cargos de Ministro de Estado e cargos em comissão, dispõe sobre a contratação de controladores de tráfego aéreo temporários, cria cargos de Controlador de Tráfego Aéreo.
@@ -302,7 +300,15 @@ Art. 12. Fica transformado o cargo, de Natureza Especial, de Secretário Naciona
 
 Art. 13. A Tabela "a" do Anexo I da Lei nº 11.526, de 4 de outubro de 2007, passa a vigorar acrescida da seguinte linha:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:232.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Assessor Chefe da Assessoria Especial do Presidente da República</span></p></td><td style="width:206.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11.179,36</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:232.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Assessor Chefe da Assessoria Especial do Presidente da República
+
+</td><td style="width:206.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+11.179,36
+
+</td></tr></tbody></table>
 
 Pessoal destinado ao controle de tráfego aéreo
 

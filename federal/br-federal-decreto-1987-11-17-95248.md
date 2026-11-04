@@ -1,5 +1,3 @@
-###DEC-095248-0-000-17-11-1987@@@
-
 DECRETO N° 95.248, DE 17 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São Caetano", classificado como “latifúndio por exploração”, situado no Município de Xique-Xique, Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

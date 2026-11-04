@@ -1,5 +1,3 @@
-###DEC-050918-0-000-06-07-1961@@@
-
 DECRETO Nº 50.918, DE 6 DE JULHO DE 1961.
 
 Outorga concessão à Rádio Televisão Coroados S. A. para estabelecer uma estação de radiotelevisão na cidade de Londrina, Estado do Paraná.

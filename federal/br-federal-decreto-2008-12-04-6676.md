@@ -1,5 +1,3 @@
-###DEC-006676-0-000-04-12-2008@@@
-
 DECRETO Nº 6.676, DE 4 DE DEZEMBRO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai para a Construção de uma Segunda Ponte Internacional sobre o Rio Paraná, firmado em Montevidéu, em 8 de dezembro de 2005.

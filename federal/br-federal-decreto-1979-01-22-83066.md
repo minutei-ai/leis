@@ -1,5 +1,3 @@
-###DEC-083066-0-000-22-01-1979@@@
-
 decreto nº 83.066, de 22 de janeiro de 1979
 
 Concede reconhecimento ao curso de Ciências, ministrado pela Federação das Faculdades Celso Lisboa, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

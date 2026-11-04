@@ -1,5 +1,3 @@
-###DEC-061314-0-000-08-09-1967@@@
-
 DECRETO Nº 61.314, DE 8 DE SETEMBRO DE 1967.
 
 Provê sôbre a educação cívica nas instituições sindicais e a campanha em prol da extinção do analfabetismo.

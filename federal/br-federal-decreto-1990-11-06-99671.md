@@ -1,7 +1,3 @@
-1
-
-###DEC-099671-0-000-06-11-1990@@@
-
 DECRETO N° 99.671, DE 6 DE NOVEMBRO DE 1990
 
 Altera os incisos I e VI, do art. 1°, do Decreto n° 99.402, de 19 de julho de 1990, que dispõe sobre os efetivos do Exército a vigorarem em 1990.

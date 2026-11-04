@@ -1,5 +1,3 @@
-###DEC-051249-0-000-24-08-1961@@@
-
 DECRETO Nº 51.249, DE 24 DE AGÔSTO DE 1961.
 
 Concede a Ford Motor do Brasil Sociedade Anônima autorização para continuar a funcionar na República.

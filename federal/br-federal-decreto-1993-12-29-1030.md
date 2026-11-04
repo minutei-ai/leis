@@ -1,7 +1,3 @@
-1
-
-###DEC-001030-0-000-29-12-1993@@@
-
 DECRETO Nº 1.030, DE 29 DE DEZEMBRO DE 1993
 
 Regulamenta o art. 7º da Lei Complementar n º 70, de 30 de dezembro de 1991.

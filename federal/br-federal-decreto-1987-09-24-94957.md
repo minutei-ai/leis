@@ -1,5 +1,3 @@
-###DEC-094957-0-000-24-09-1987@@@
-
 DECRETO Nº 94.957, DE 24 DE SETEMBRO DE 1987
 
 Renova a concessão outorgada à FUNDAÇÃO NOSSA SENHORA DE BELÉM para explorar serviço de radiodifusão sonora em onda média, na cidade de Guarapuava, Estado do Paraná.

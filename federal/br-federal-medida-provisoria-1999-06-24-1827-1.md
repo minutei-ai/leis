@@ -1,5 +1,3 @@
-###MPV-001827-0-001-24-06-1999@@@
-
 MEDIdA PROVISÓRIA Nº 1.827-1, DE 24 DE JUNHO DE 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078336-0-000-30-08-1976@@@
-
 DECRETO Nº 78.336, DE 30 DE AGOSTO DE 1976.
 
 Acrescenta Parágrafos ao artigo 2º do Decreto nº 76.275, de 15 de setembro de 1975.

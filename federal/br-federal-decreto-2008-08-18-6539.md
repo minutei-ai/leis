@@ -1,5 +1,3 @@
-###DEC-006539-0-000-18-08-2008@@@
-
 DECRETO Nº 6.539, DE 18 DE AGOSTO DE 2008.
 
 Estabelece critérios para o enquadramento de projeto de instalação, de diversificação ou modernização total, e de ampliação ou modernização parcial de empreendimento, para efeito de redução do imposto sobre a renda e adicional, calculados com base no lucro da exploração.

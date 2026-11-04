@@ -1,5 +1,3 @@
-###DEC-054047-0-000-23-07-1964@@@
-
 DECRETO Nº 54.047, DE 23 DE JULHO DE 1964.
 
 Estabelece obrigatoriedade de embarques de cargas entre os portos nacionais, realizados por tôdas as entidades governamentais, autarquias e sociedades de economia mista através de emprêsas autárquicas de navegação.

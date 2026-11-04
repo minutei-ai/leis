@@ -1,5 +1,3 @@
-###DEC-049105-0-000-11-10-1960@@@
-
 DECRETO Nº 49.105, DE 11 DE OUTUBRO DE 1960.
 
 Constitui um Grupo Executivo de Modernização da Agricultura (GEMAG) incumbido de criar estímulos cambiais, fiscais, creditícios, de assistência técnica e outros às atividades agropecuárias no país.

@@ -1,5 +1,3 @@
-###DEC-056203-0-000-30-04-1965@@@
-
 Decreto nº 56.203, de 30 de abril de 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Bandeirante de Seguros Gerais, inclusive aumento do capital social.

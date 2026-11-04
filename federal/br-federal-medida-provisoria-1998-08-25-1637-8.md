@@ -1,5 +1,3 @@
-###MPV-001637-0-008-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.637-8, DE 25 AGOSTO DE 1998
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

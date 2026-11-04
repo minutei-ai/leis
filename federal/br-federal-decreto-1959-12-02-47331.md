@@ -1,5 +1,3 @@
-###DEC-047331-0-000-02-12-1959@@@
-
 decreto nº 47.331, de 2 de dezembro de 1959.
 
 Autoriza a cidadã brasileira Maria Gomes da Silva a pesquisar mica no município Governador Valadares, Estado de Minas Gerais.

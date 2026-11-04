@@ -1,5 +1,3 @@
-###DEL-001994-0-000-29-12-1982@@@
-
 # Decreto-lei nº 1.994, de 29 de dezembro de 1982
 
 Cria incentivos à capitalização das empresas e dá outras providências.

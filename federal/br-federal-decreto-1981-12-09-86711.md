@@ -1,5 +1,3 @@
-###DEC-086711-0-000-09-12-1981@@@
-
 decreto nº 86.711, de 09 de dezembro de 1981
 
 Autoriza o aumento de potência da RÁDIO TAQUARA LTDA., na cidade de Taquara, Estado do Rio Grande do Sul.

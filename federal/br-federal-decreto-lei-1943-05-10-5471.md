@@ -1,5 +1,3 @@
-###DEL-005471-0-000-10-05-1943@@@
-
 DECRETO‑LEI N. 5.471 – DE 10 DE MAIO DE 1943
 
 Autoriza a incorporação da Estrada de Ferro jacuí à Rede de Viação Férrea Federal do Rio Grande do Sul, e dá outras providências
@@ -14,7 +12,17 @@ Parágrafo único. Mediante termo aditivo ao contrato celebrado de acordo com o 
 
 Art. 2º Fica aberto ao Ministério da Viação e Obras Públícas, com fundamento no decreto‑lei n. 2.667, de 3 de outubro de 1940, o crédito especial de seis milhões, novecentos e oitenta e um mil, quinhentos e cinco cruzeiros e noventa centavos (Cr$ 6.981.505,90), para atender, por conta do programa geral aprovado nesta data, mediante decreto, à despesa com o aparelhamento da Estrada de Ferro Jacuí, sendo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Material.......................................................................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000.000,00</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Obras, Desapropriação e Aquisição de Imoveis......................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-right:17.75pt; margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.981.505,90</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-right:10.65pt; margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.981.505,90</span></p></td></tr></tbody></table>
+Material.......................................................................................................................................................
+
+1.000.000,00
+
+Obras, Desapropriação e Aquisição de Imoveis......................................................
+
+5.981.505,90
+
+Cr$
+
+6.981.505,90
 
 Art. 3º Este decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

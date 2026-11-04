@@ -1,12 +1,10 @@
-###DEC-021016-0-000-23-04-1946@@@
-
-<strong>DECRETO N. 21.016 – DE 23 DE ABRIL DE 1946</strong>
+**DECRETO N. 21.016 – DE 23 DE ABRIL DE 1946**
 
 O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,       
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica alterada a lotação numérica dos cargos do Quadro da Justiça, do Ministério da, Justiça e Negócios Interiores, aprovada pelo Decreto nº 18.522, de 30 de abril de 1945, da seguinte forma:
+**Art.** 1º Fica alterada a lotação numérica dos cargos do Quadro da Justiça, do Ministério da, Justiça e Negócios Interiores, aprovada pelo Decreto nº 18.522, de 30 de abril de 1945, da seguinte forma:
 
 I – Incluem-se na relação das repartições (Tabela II – Juízos de Direito do Distrito Federal) as 17ª, 18ª, 19ª e 20ª Varas Criminais, e as 3ª e 4ª Varas de Família;
 
@@ -244,12 +242,12 @@ X – Incluem-se, na lotação permanente dos Juízos de Direito do Distrito Fed
 
 XI – Com as alterações dos itens anteriores, passa a lotação numérica do Quadro da Justiça, do Ministério da Justiça e Negócios Interiores, a figurar com o total de 940 cargos, sendo,864 na lotação permanente e 76 na lotação suplementar.
 
-<strong>Art.</strong> 2º Este Decreto entrará em vigor na data de sua publicação.
+**Art.** 2º Este Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art.</strong> 3º Revogam-se as disposições em contrário.
+**Art.** 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 23 de abril de 1946, 125º da Independência e 58º da República.
 
- <strong>EURICO G. DUTRA.</strong>
+ **EURICO G. DUTRA.**
 
  Carlos Coimbra da Luz.

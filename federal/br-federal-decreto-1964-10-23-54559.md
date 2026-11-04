@@ -1,5 +1,3 @@
-###DEC-054559-0-000-23-10-1964@@@
-
 DECRETO Nº 54.559, DE 23 DE OUTUBRO DE 1964.
 
 Altera a organização da Comissão Desportiva das Fôrças Armadas.

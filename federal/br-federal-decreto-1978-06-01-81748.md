@@ -1,5 +1,3 @@
-###DEC-081748-0-000-01-06-1978@@@
-
 Decreto nº 81.748, de 1º DE junho de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Miracema, Estado do Rio de Janeiro.

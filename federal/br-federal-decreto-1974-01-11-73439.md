@@ -1,5 +1,3 @@
-###DEC-073439-0-000-11-01-1974@@@
-
 DECRETO Nº 73.439, DE 11 DE JANEIRO DE 1974.
 
 Altera a denominação de funções gratificadas do Quadro de Pessoal do Estado-Maior das Forças Armadas, e dá outras providências.

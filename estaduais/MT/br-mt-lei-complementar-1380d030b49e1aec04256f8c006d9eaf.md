@@ -1,21 +1,19 @@
-**LEI COMPLEMENTAR Nº 209, DE 12 DE JANEIRO DE 2005.**<br>
-<br>
-. Autor: Lideranças Partidárias<br>
+**LEI COMPLEMENTAR Nº 209, DE 12 DE JANEIRO DE 2005.**
+
+. Autor: Lideranças Partidárias
+
 . Publicada no DOE de 12/01/05, p. 01.
 
 **Dá nova redação à Seção V do Título IV da** [**Lei Complementar nº 49**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5fc1d9aa762b88eb042567c1006acee8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2049)**, de 1º de outubro de 1998.**
-
-<br>
 
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO,** tendo em vista o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador sanciona a seguinte lei complementar:
 
 **Art. 1º** Fica modificada a redação da Seção V do Título IV da Lei Complementar nº 49, de 1º de outubro de 1998, que passa ter a seguinte redação:
 
-<br>
-“Seção V<br>
+“Seção V
+
 Do Conselho Estadual de Educação
 
-<br>
 Art. 32 O Conselho Estadual de Educação é órgão colegiado de caráter normativo, consultivo, deliberativo e de assessoramento superior da Secretaria de Estado de Educação e Secretaria de Estado de Ciência e Tecnologia com representação paritária entre Governo do Estado e entidades da sociedade civil organizada.
 
 Art. 33 Cabe ao Conselho Estadual de Educação:
@@ -102,7 +100,8 @@ Art. 37 A escolha dos Conselheiros e Suplentes que integrarão cada uma das Câm
 
 §3º (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 §3º As indicações deverão incidir sobre brasileiros natos ou naturalizados, podendo recair em nomes que não sejam de associados ou de titulares das entidades consultadas.
 
 Art. 38 O Conselho Estadual de Educação organizará lista única para cada uma das Câmaras, contendo a totalidade dos nomes indicados na forma do artigo anterior.
@@ -111,7 +110,8 @@ Art. 38 O Conselho Estadual de Educação organizará lista única para cada uma
 
 §2º (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 §2º serão nomeados pelo Governador os representantes dos segmentos que obtiverem o maior número de indicações pela entidades consultadas, até o limite das vagas.
 
 Art. 39 O Conselho Estadual de Educação cosolidará o resultado do processo de escolha, encaminhando a relação dos Conselheiros e respectivos suplentes, para cada uma das Câmaras ao Governador do Estado, que os nomeará.
@@ -122,44 +122,70 @@ Art. 40 Nos termos desta lei complementar, na composição do Colegiado, em 2005
 
 I – (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
-I – na Câmaras de Educação Básica, com mandato de 04 (quatro) anos:<br>
-a) um (01) representante de Entidades de Pais de Alunos da Educação Básica;<br>
-b) um (01) representante de Entidades de Alunos da Educação Básica;<br>
-c) um (01) representante das Centrais Sindicais dos Trabalhadores;<br>
+**Redação original.**
+
+I – na Câmaras de Educação Básica, com mandato de 04 (quatro) anos:
+
+a) um (01) representante de Entidades de Pais de Alunos da Educação Básica;
+
+b) um (01) representante de Entidades de Alunos da Educação Básica;
+
+c) um (01) representante das Centrais Sindicais dos Trabalhadores;
+
 d) um (01) representante da Secretaria de Estado de Educação.
 
 II – (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
-II – na Câmara de Educação Básica, com mandato de 02 (dois) anos;<br>
-a) um (01) representante do Sindicato dos Trabalhadores da Educação Básica Pública;<br>
-b) um (01) representante dos Dirigentes de Estabelecimentos de Ensino Privado;<br>
-c) um (01) representante dos Secretários Municipais de Educação;<br>
-d) um (01) representante da Educação Escolar Indígena;<br>
-e) um (01) representante do Conselho Estadual da Defesa dos Direitos da Criança e do Adolescente;<br>
-f) um (01) representante da Educação Especial;<br>
+**Redação original.**
+
+II – na Câmara de Educação Básica, com mandato de 02 (dois) anos;
+
+a) um (01) representante do Sindicato dos Trabalhadores da Educação Básica Pública;
+
+b) um (01) representante dos Dirigentes de Estabelecimentos de Ensino Privado;
+
+c) um (01) representante dos Secretários Municipais de Educação;
+
+d) um (01) representante da Educação Escolar Indígena;
+
+e) um (01) representante do Conselho Estadual da Defesa dos Direitos da Criança e do Adolescente;
+
+f) um (01) representante da Educação Especial;
+
 g) um (01) representante da Secretaria de Estado de Educação.
 
 III – (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
-III – Na Câmara de Educação Profissional e de Educação Superior, com mandato de 04 (quatro) anos:<br>
-a) um (01) representante de Dirigentes de Estabelecimentos de Ensino Privado de Educação Profissional;<br>
-b) um (01) representante de Entidades de Alunos de Ensino Superior;<br>
-c) um (01) representante das Federações Empresariais;<br>
-d) um (01) representante dos Conselhos de Classe;<br>
-e) um (01) representante do Conselho Estadual do Trabalho;<br>
+**Redação original.**
+
+III – Na Câmara de Educação Profissional e de Educação Superior, com mandato de 04 (quatro) anos:
+
+a) um (01) representante de Dirigentes de Estabelecimentos de Ensino Privado de Educação Profissional;
+
+b) um (01) representante de Entidades de Alunos de Ensino Superior;
+
+c) um (01) representante das Federações Empresariais;
+
+d) um (01) representante dos Conselhos de Classe;
+
+e) um (01) representante do Conselho Estadual do Trabalho;
+
 f) um (01) representante da Secretaria de Estado de Ciência e Tecnologia;
 
 IV – (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-I**Redação original.**<br>
-V – na Câmara de Educação Profissional e de Educação Superior, com mandato de 02 (dois) anos:<br>
-a) um (01) representante das Instituições de Ensino Superior Privadas;<br>
-b) um (01) representante das Instituições de Ensino Superior Públicas;<br>
-c) um (01) representante dos Sindicatos dos Trabalhadores do Ensino Superior;<br>
-d) um (01) representante de Instituições de Ensino Público de Educação Profissional;<br>
+I**Redação original.**
+
+V – na Câmara de Educação Profissional e de Educação Superior, com mandato de 02 (dois) anos:
+
+a) um (01) representante das Instituições de Ensino Superior Privadas;
+
+b) um (01) representante das Instituições de Ensino Superior Públicas;
+
+c) um (01) representante dos Sindicatos dos Trabalhadores do Ensino Superior;
+
+d) um (01) representante de Instituições de Ensino Público de Educação Profissional;
+
 e) um (01) representante da Secretaria de Estado de Ciência e Tecnologia.
 
 §1º Os atuais representantes titulares, dos segmentos relacionados no inciso II, alínea “a”, “b”, “c” , “d” , “e” “f” e “g”, bem como no inciso IV, alínea “c”, exercerão os respectivos mandatos, respeitando o prazo vincendo em 2007, conforme Decreto Governamental de nomeação.
@@ -168,29 +194,34 @@ e) um (01) representante da Secretaria de Estado de Ciência e Tecnologia.
 
 §3º (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 §3º Consideram-se mandatos em extinção, os mandatos dos representantes titulares e ou suplentes dos segmentos: Universidades Públicas, Universidades Instituições Públicas Isoladas de Ensino, Instituições Superiores Privadas de Ensino, entidades da Comunidade Cientifica e Cultural e da Secretaria de Estado de Educação, todos da então Câmara de Ensino Superior, conforme a Lei Complementar nº 49/98, permanecendo vigentes até expirar o prazo previsto nos respectivos atos de nomeação e ou posse.
 
 §4º (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 §4º Exercerão mandato, a partir de 2005, como suplentes de conselheiro, por 04 (quatro) anos, os representantes relacionados no inciso I, alínea “a”, no inciso II, alínea “a”, “b”, “c”, “d” e “e”, bem como no inciso III, alíneas “a”, “d”, “e” e “f”.
 
 §5º (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 §5º Excepcionalmente, para coincidir tempo de mandato do titular e assegurar a renovação parcial periódica, terão mandato de 02 (dois) anos, a partir de 2005, os suplentes de Conselheiro representantes dos segmentos relacionados no inciso IV, alíneas IV, “a” , “b”, “d” e “e”.
 
 Art. 41 Os membros do Conselho Estadual de Educação perderão seus mandados:
 
 I - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 I - por renúncia; e
 
 II - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 II - em caso de ausência injustificada a mais de 03 (três) reuniões ordinárias.
 
 § 1º A destituição de membro do Colegiado obedecerá às normas regimentais.
@@ -205,32 +236,38 @@ Art. 43 São atribuições da Câmara de Educação Básica, dentre outras:
 
 I - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 I - analisar e propor medida para as questões de Educação Básica;
 
 II - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 II - analisar e emitir parecer sobre os resultados da Política de Educação Básica no Estado, em todos as etapas e modalidades de ensino;
 
 III - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 III - fixar normas para credenciamento de estabelecimento de ensino das redes públicas e privadas, bem como para autorização e reconhecimento de cursos;
 
 IV - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 IV - fixar critérios para aprovação dos regimentos escolares e suas respectivas alterações;
 
 V - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 V - regulamentar normas para a oferta da Educação Infantil, Ensino Fundamental, Ensino Médio, Normal de Nível Médio, Educação Escolar Indígena, Educação de Jovens e Adultos, Educação a Distância, Educação Especial, Educação do Campo e outras;
 
 VI - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 VI - fixar normas para fiscalização dos estabelecimentos de ensino público e privado, dispondo, inclusive, sobre casos de cassação de autorização ou reconhecimento de cursos.
 
 Art. 44 São atribuições da Câmara de Educação Profissional e de Educação Superior, dentre outras:
@@ -243,27 +280,32 @@ III - credenciar Instituições de Ensino Superior Públicas Estaduais e Municip
 
 IV - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 IV - credenciar Estabelecimentos de Ensino de Educação Profissional e Tecnológica, por área profissional, e autorizar seus cursos;
 
 V - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 V - deliberar sobre estatutos e regimentos gerais das Instituições de Ensino Superior, universitárias ou não, mantidas pelo Poder Público Municipal ou Estadual, na forma da lei;
 
 VI - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 VI - analisar e emitir parecer sobre os processos de avaliação da legislação referente à Educação Profissional e Tecnológica e de Educação Superior;
 
 VII - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 VII - pronunciar-se sobre questões relativas à aplicação da legislação referente à Educação Profissional e Tecnológica e de Educação Superior;
 
 VIII - (_Revogado_) **_(Revogado pela LC_** [**_761/2023_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/543844ea905dd507042589a5004b32de?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20761%2C%20DE%2003%20DE)[](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 VIII - regulamentar normas para certificação de competências e de qualificação profissional, bem como definir critérios para o credenciamento de instituições.
 
 Art. 45 Os atos decorrentes de deliberação normativa emanados pelo Conselho Estadual de Educação adquirem eficácia após homologação pelo titular respectivo da Secretaria de Estado de Educação e/ou da Secretaria de Estado de Ciência e Tecnologia.
@@ -276,28 +318,50 @@ Art. 47 Fica revogado o art. 42, §§ 1º e 2º, da Lei Complementar nº [153/04
 
 Palácio Paiaguás, em Cuiabá, 12 de janeiro de 2005, 184º da Independência e 117º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-JOAQUIM SUCENA RASGA<br>
-MARCOS ANTONIO DOS SANTOS VALLE<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-HOMERO ALVES PEREIRA<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-YÊDA MARLI DE OLIVEIRA ASSIS<br>
-LUIZ ANTONIO PAGOT<br>
-ANA CARLA MUNIZ<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-MARCOS HENRIQUE MACHADO<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-FÁBIO CÉSAR GUIMARÃES NETO<br>
-LOUREMBERG RIBEIRO NUNES ROCHA<br>
-CLOVES FELÍCIO VETTORATO<br>
-MOACIR PIRES DE MIRANDA FILHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
-FLÁVIA MARIA DE BARROS NOGUEIRA<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+JOAQUIM SUCENA RASGA
+
+MARCOS ANTONIO DOS SANTOS VALLE
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+HOMERO ALVES PEREIRA
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+YÊDA MARLI DE OLIVEIRA ASSIS
+
+LUIZ ANTONIO PAGOT
+
+ANA CARLA MUNIZ
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+MARCOS HENRIQUE MACHADO
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+FÁBIO CÉSAR GUIMARÃES NETO
+
+LOUREMBERG RIBEIRO NUNES ROCHA
+
+CLOVES FELÍCIO VETTORATO
+
+MOACIR PIRES DE MIRANDA FILHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
+FLÁVIA MARIA DE BARROS NOGUEIRA

@@ -1,5 +1,3 @@
-###DEC-093051-0-000-30-07-1986@@@
-
 DECRETO Nº 93.051, DE 30 DE JULHO DE 1986
 
 Dispõe sobre a readaptação de servidor do Ministério das Comunicações.

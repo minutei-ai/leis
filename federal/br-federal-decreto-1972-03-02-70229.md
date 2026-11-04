@@ -1,5 +1,3 @@
-###DEC-070229-0-000-02-03-1972@@@
-
 decreto nº 70.229, de 2 de março de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil e benfeitorias de um imóvel situado na cidade do Rio de Janeiro, Estado da Guanabara, destinado à Construção de uma estação telefônica pela Companhia Telefônica Brasileira.

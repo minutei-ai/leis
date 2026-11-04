@@ -1,5 +1,3 @@
-###DEC-092227-0-000-27-12-1985@@@
-
 Decreto nº 92.227, de 27 de dezembro de 1985.
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Orion (parte) e Barra do ltá", compreendidos nas referidas áreas, no Município de Bela Vista, no Estado de Mato Grosso do Sul, e dá outras providências.

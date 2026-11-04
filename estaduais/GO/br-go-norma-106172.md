@@ -60,8 +60,6 @@ II – 1º de dezembro de 2021, quanto aos demais dispositivos.
 
 Goiânia, 23 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

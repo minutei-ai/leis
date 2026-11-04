@@ -1,5 +1,3 @@
-###DEC-064486-0-000-09-05-1969@@@
-
 DECRETO Nº 64.486, DE 9 DE MAIO DE 1969.
 
 Estabelece as bases da reestruturação da Universidade Federal do Paraná.

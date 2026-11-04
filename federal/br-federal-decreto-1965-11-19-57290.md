@@ -1,5 +1,3 @@
-###DEC-057290-0-000-19-11-1965@@@
-
 DECRETO Nº 57.290, DE 19 DE NOVEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Fidelidade de Seguros Gerais, relativa ao aumento do capital social.

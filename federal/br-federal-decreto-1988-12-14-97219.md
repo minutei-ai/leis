@@ -1,5 +1,3 @@
-###DEC-097219-0-000-14-12-1988@@@
-
 DECRETO Nº 97.219, DE 14 DE DEZEMBRO DE 1988
 
 Institui a Comissão Nacional do Ano Internacional da Alfabetização.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212253)<br>
-
 # DECRETO N° 70.391, DE 24 DE FEVEREIRO DE 2026
 
 ### _Institui a Medalha do "Cinquentenário do Décimo Quinto Batalhão de Polícia Militar Metropolitano" e dá providências correlatas._
@@ -20,7 +18,8 @@ Roberto Ribeiro Carneiro
 
 #### REGULAMENTO DA HONRARIA
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Honraria
 
 **Artigo 1° -** A medalha do "Cinquentenário do Décimo Quinto Batalhão de Polícia Militar Metropolitano" do Décimo Quinto Batalhão de Polícia Militar Metropolitano (15° BPM/M) da Polícia Militar do Estado de São Paulo tem por objetivo reconhecer e galardoar personalidades, físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, que tenham contribuído para o maior brilho do aludido Batalhão ou, de algum modo, tenham prestado relevantes serviços ao Estado de São Paulo e seu povo, de maneira a engrandecer o nome da Polícia Militar do Estado de São Paulo.
@@ -63,7 +62,8 @@ a) anverso: Nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: Dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual da Ordem do Ipiranga.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 3° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho de Outorgas.
@@ -74,7 +74,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** A Comissão de Outorgas será composta pelo Comandante do Décimo Quinto Batalhão de Polícia Militar Metropolitano (15° BPM/M) e por militares da unidade por ele escolhidos.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Fonte de Honra (Fons Honorum)
 
 **Artigo 5° -** A Fonte de Honra (Fons Honorum) é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual da Ordem do Ipiranga.
@@ -101,7 +102,8 @@ IV - Comandante Geral da Polícia Militar do Estado de São Paulo, Grão-Mestre,
 
 **Artigo 8° -** Caso a honraria permaneça por muito tempo sem ser outorgada e/ou nos casos em que a Comissão de Outorga seja dissolvida, será necessário acender novamente a Fonte de Honra (Fons Honorum), conforme previsto no Artigo 6°.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Direito de Honra (Jus Honorum)
 
 **Artigo 9° -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas a Comissão de Outorgas em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -136,7 +138,8 @@ Do Direito de Honra (Jus Honorum)
 
 **Artigo 16 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 17 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -157,7 +160,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Cerimônias de Outorga
 
 **Artigo 20 -** A entrega das medalhas será feita, anualmente, em solenidade pública, de preferência na cerimônia de aniversário da unidade, na presença do Grão-Mestre.
@@ -178,7 +182,8 @@ Das Cerimônias de Outorga
 
 **Parágrafo único -** Os agraciados devem ser orientados a comparecer ao evento sem outras condecorações (heraldicamente nus).
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Das Disposições Finais
 
 **Artigo 23 -** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes, serão recolhidos ao Conselho Estadual da Ordem do Ipiranga sem ônus para os cofres públicos.

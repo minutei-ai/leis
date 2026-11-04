@@ -1,5 +1,3 @@
-###DEC-095933-0-000-19-04-1988@@@
-
 DECRETO N° 95.933, DE 19 DE ABRIL DE 1988
 
 Outorga concessão à SOCIEDADE DE RADIODIFUSÃO PADRE EDUARDO LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Terra Rica, Estado do Paraná.

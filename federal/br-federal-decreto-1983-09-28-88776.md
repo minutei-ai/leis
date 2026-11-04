@@ -1,5 +1,3 @@
-###DEC-088776-0-000-28-09-1983@@@
-
 Decreto nº 88.776, de 28 de setembro de 1983
 
 Concede à Casa da Moeda do Brasil autorização para proceder a aumento do seu capital social.

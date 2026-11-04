@@ -1,5 +1,3 @@
-###DEC-075503-0-000-18-03-1975@@@
-
 DECRETO Nº 75.503, DE 18 MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Música "Santa Cecília" mantida pela Sociedade Educadora e Instrutora de Pindamonhangaba, com sede na Cidade de Pindamonhangaba, Estado de São Paulo.

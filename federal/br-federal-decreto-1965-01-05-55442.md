@@ -1,5 +1,3 @@
-###DEC-055442-0-000-05-01-1965@@@
-
 DECRETO Nº 55.442, DE 5 DE JANEIRO DE 1965.
 
 Fixa o número de Diretores e Conselheiros para a “Centrais Elétricas Brasileiras S.A. - ELETROBRÁS”.

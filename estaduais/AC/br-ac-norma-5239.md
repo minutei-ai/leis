@@ -1,6 +1,10 @@
 > **LEI Nº 3.951, DE 24 DE JUNHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos das Leis nºs 2.180, de 10 de dezembro de 2009, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração dos Servidores do Instituto de Administração Penitenciária do Acre – IAPEN/AC e 3.259, de 20 de junho de 2017, para transformar em Auxílio-Saúde a Etapa Alimentação destinada ao grupo de servidores que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos das Leis nºs 2.180, de 10 de dezembro de 2009, que dispõe sobre o Plano de Cargos, Carreiras e Remuneração dos Servidores do Instituto de Administração Penitenciária do Acre – IAPEN/AC e 3.259, de 20 de junho de 2017, para transformar em Auxílio-Saúde a Etapa Alimentação destinada ao grupo de servidores que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

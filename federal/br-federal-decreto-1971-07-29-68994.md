@@ -1,5 +1,3 @@
-###DEC-068994-0-000-29-07-1971@@@
-
 DECRETO nº 68.994, DE 29 DE JULHO DE 1971.
 
 É reconhecida a Faculdade de Engenharia da Fundação Educacional de Barretos, São Paulo, com os Cursos de Engenharia Civil e Engenharia Eletricista.

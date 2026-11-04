@@ -1,5 +1,3 @@
-###DEL-009858-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.858 – DE 13 DE SETEMBRO DE 1946
 
 Dispõe sôbre as jazidas de minério de manganês existentes no Território Federal do Amapá.

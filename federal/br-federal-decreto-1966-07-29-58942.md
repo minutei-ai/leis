@@ -1,5 +1,3 @@
-###DEC-058942-0-000-29-07-1966@@@
-
 DECRETO Nº 58.942, DE 29 DE JULHO DE 1966.
 
 Outorga a Companhia Estadual de Energia Elétrica, do Rio Grande do Sul, concessão para distribuir energia elétrica.

@@ -13,5 +13,3 @@ Gabinete do Prefeito de Rio Verde,  aos 02 de outubro de 2023.
 PAULO FARIA DO VALE
 
 Prefeito de Rio Verde
-
-<br>

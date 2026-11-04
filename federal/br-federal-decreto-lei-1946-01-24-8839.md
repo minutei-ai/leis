@@ -1,5 +1,3 @@
-###DEL-008839-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.839 – DE 24 DE JANEIRO DE 1946
 
 Reestrutura a carreira de Motorista do Ministério da Fazenda e dá outras providências.

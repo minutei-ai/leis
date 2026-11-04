@@ -1,5 +1,3 @@
-###DEC-088832-0-000-10-10-1983@@@
-
 Decreto nº 88.832, de 10 de outubro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO NOSSA SENHORA APARECIDA, para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Aparecida, Estado de São Paulo.

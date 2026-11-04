@@ -1,5 +1,3 @@
-###DEC-053392-0-000-06-01-1964@@@
-
 DECRETO Nº 53.392, DE 6 DE JANEIRO DE 1964.
 
 Prorroga decreto que reduz temporariamente dispositivos do Regulamento de Promoções para Oficiais da Marinha.

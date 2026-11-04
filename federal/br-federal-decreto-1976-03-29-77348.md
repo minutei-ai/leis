@@ -1,5 +1,3 @@
-###DEC-077348-0-000-29-03-1976@@@
-
 DECRETO Nº 77.348, DE 29 DE MARÇO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado na cidade de Tutóia, Estado do Maranhão.

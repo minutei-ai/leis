@@ -1,5 +1,3 @@
-###DEC-061428-0-000-03-10-1967@@@
-
 DECRETO Nº 61.428, DE 3 DE OUTUBRO DE 1967.
 
 Autoriza estrangeiro a adquirir, em constituição de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

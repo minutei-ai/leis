@@ -1,5 +1,3 @@
-###DEC-049363-0-000-29-11-1960@@@
-
 DECRETO Nº 49.363, DE 29 DE NOVEMBRO DE 1960.
 
 Declara aceita a doação do terreno que menciona situado na Cidade de Recife, no Estado de Pernambuco.

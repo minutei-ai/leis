@@ -1,5 +1,3 @@
-###DEC-075315-0-000-28-01-1975@@@
-
 DECRETO Nº 75.315, DE 28 DE JANEIRO DE 1975.
 
 Altera dispositivo do Decreto número 70.772, de 28 de junho de 1972, que regulamenta a execução, em tempo de paz, do transporte, em território nacional, de militar da Marinha, Exército e da Aeronáutica.

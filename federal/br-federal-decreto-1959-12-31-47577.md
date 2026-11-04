@@ -1,5 +1,3 @@
-###DEC-047577-0-000-31-12-1959@@@
-
 Decreto nº 47.577, de 31 de dezembro de 1959.
 
 Autoriza R. Simon & Cia. Ltda. a comprar pedras preciosas.

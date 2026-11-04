@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210403)<br>
-
 # DECRETO N° 69.180, DE 18 DE DEZEMBRO DE 2024
 
 ### Altera o Quadro de Pessoal da Fundação de Previdência Complementar do Estado de São Paulo - SP-PREVCOM e dá providências correlatas.

@@ -1,5 +1,3 @@
-###DEC-049945-0-000-13-01-1961@@@
-
 DECRETO Nº 49.945, DE 13 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.290, de 7 de agôsto de 1958.

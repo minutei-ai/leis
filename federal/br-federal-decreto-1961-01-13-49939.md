@@ -1,5 +1,3 @@
-###DEC-049939-0-000-13-01-1961@@@
-
 DECRETO Nº 49.939, DE 13 DE JANEIRO DE 1961.
 
 Autoriza a Companhia Industrial Fluminense Fundição de Estanho e suas Ligas a pesquisar cassiterita no município de Ipameri, Estado de Goiás.

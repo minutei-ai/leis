@@ -1,5 +1,3 @@
-###DEC-059950-0-000-09-01-1967@@@
-
 decreto nº 59.950, de 9 de janeiro de 1967.
 
 Declara a cessação de serviços de energia elétrica e outorga concessão para distribuição.

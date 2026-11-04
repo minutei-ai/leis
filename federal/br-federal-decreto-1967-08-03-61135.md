@@ -1,5 +1,3 @@
-###DEC-061135-0-000-03-08-1967@@@
-
 DECRETO Nº 61.135, DE 3 de agôsto DE 1967.
 
 Concede à “Aerolineas Peruanas Sociedad Anonima”, (APSA) autorização para continuar a funcionar na República.

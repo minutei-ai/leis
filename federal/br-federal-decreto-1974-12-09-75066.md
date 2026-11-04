@@ -1,5 +1,3 @@
-###DEC-075066-0-000-09-12-1974@@@
-
 DECRETO Nº 75.066, DE 9 DE DEZEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Centro de Ensino Superior de São Carlos, da Cidade de São Carlos, Estado de São Paulo.

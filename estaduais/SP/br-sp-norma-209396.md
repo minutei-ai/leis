@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209396)<br>
-
 # LEI N° 17.938, DE 30 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1483/2023, da Deputada Valéria Bolsonaro - PL)

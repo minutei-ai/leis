@@ -1,7 +1,3 @@
-1
-
-###DEC-098069-0-000-18-08-1989@@@
-
 DECRETO N° 98.069, DE 18 DE AGOSTO DE 1989
 
 Outorga concessão à RÁDIO VALE DO VASA-BARRIS LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Jeremoabo, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098327-0-000-24-10-1989@@@
-
 DECRETO N° 98.327, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão à TELEVISÃO ALVORADA DO SUL LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão}, na Cidade de Floriano, Estado do Piauí.

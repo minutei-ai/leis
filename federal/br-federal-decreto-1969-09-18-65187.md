@@ -1,5 +1,3 @@
-###DEC-065187-0-000-18-09-1969@@@
-
 DECRETO Nº 65.187 - DE 18 DE SETEMBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial do Ministério da Justiça, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

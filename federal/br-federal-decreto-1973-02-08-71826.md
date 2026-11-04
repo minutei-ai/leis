@@ -1,5 +1,3 @@
-###DEC-071826-0-000-08-02-1973@@@
-
 DECRETO Nº 71.826, DE 8 DE FEVEREIRO DE 1973.
 
 Concede a Cimento Santa Rita S. A. o direito de lavrar calcário no Município de Salto de Pirapora, Estado de São Paulo.

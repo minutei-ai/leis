@@ -1,5 +1,3 @@
-###DEC-088997-0-000-14-11-1983@@@
-
 Decreto nº 88.997, de 14 DE novembro de 1983.
 
 Promulga o Acordo de Cooperação Cultural e Educacional entre o Governo da República Federativa do Brasil e o Governo da República do Iraque.
@@ -142,4 +140,20 @@ Cada uma das Partes Contratantes notificará a outra da conclusão dos requisito
 
 Feito em Brasília, aos 25 dias do mês de março de 1982 (29, Jamadi AI Awal 1402), em três exemplares originais, em português, árabe e inglês, sendo todos os textos igualmente autênticos. Em caso de dúvida, fará fé o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO IRAQUE:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(João Clemente Baena Soares)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Abdul Razzk Kassem e al-Hashimi)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO IRAQUE:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(João Clemente Baena Soares)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Abdul Razzk Kassem e al-Hashimi)
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEL-003060-0-000-17-02-1941@@@
-
 DECRETO-LEI N. 3.060 – DE 17 DE FEVEREIRO DE 1941
 
 Dispõe sobre a aplicação de recursos em obras de abastecimento de água do Rio de Janeiro

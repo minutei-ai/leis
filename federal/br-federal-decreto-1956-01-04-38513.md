@@ -1,28 +1,26 @@
-###DEC-038513-0-000-04-01-1956@@@
+**DECRETO Nº 38.513, DE 4 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.513, DE 4 DE JANEIRO DE 1956.</strong>
+***Aprova as Instruções Reguladoras para concessão, pela Comissão do Plano do Carvão Nacional (C.P.C.A.N.) de financiamentos previstos na Lei nº 1.886 de 11 de junho de1953.***
 
-<em><strong>Aprova as Instruções Reguladoras para concessão, pela Comissão do Plano do Carvão Nacional (C.P.C.A.N.) de financiamentos previstos na Lei nº 1.886 de 11 de junho de1953.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE da REPÚBLICA, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE da REPÚBLICA, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as Instruções Reguladoras para concessão prevista na Lei nº 1.886, de 11 de junho de 1953, que com este baixam assinadas pelo Diretor Executivo do Plano do Carvão Nacional.
 
-<strong>Art</strong>. 1º Ficam aprovadas as Instruções Reguladoras para concessão prevista na Lei nº 1.886, de 11 de junho de 1953, que com este baixam assinadas pelo Diretor Executivo do Plano do Carvão Nacional.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, em 4 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Lucas Lopes
 
-<strong>INSTRUÇÕES REGULADORAS PARA CONCESSÃO, PELA CEPCAN, DE FINANCIAMENTOS PREVISTOS NA LEI Nº 1.886, DE 11 D EJUNHO DE 1953.</strong>
+**INSTRUÇÕES REGULADORAS PARA CONCESSÃO, PELA CEPCAN, DE FINANCIAMENTOS PREVISTOS NA LEI Nº 1.886, DE 11 D EJUNHO DE 1953.**
 
-<strong>Art</strong>. 1º A concessão do financiamento às emprêsas privadas, a que se referem os artigos 6º, 14 e 15 da Lei 1.886 de 11 de junho de 1953, obedecerá às normas do presente regulamento.
+**Art**. 1º A concessão do financiamento às emprêsas privadas, a que se referem os artigos 6º, 14 e 15 da Lei 1.886 de 11 de junho de 1953, obedecerá às normas do presente regulamento.
 
-<strong>Art</strong>. 2º Os financiamentos serão efetuados por meio de aberturas de créditos celebrados mediante contratos, firmados com os requisitos e cláusulas comuns à sua espécie.
+**Art**. 2º Os financiamentos serão efetuados por meio de aberturas de créditos celebrados mediante contratos, firmados com os requisitos e cláusulas comuns à sua espécie.
 
 § 1º Constará dos contratos a obrigação para o mutuário de:
 
@@ -42,15 +40,15 @@ VII. Em caso de empréstimo a Sociedade Anônima, todos os atos que importarem e
 
 § 2º Quando houver recebimento de garantia pignoratícia industrial, um dos administradores assumirá, pessoalmente, as obrigações de fiel depositário dos bens apenhados sujeito às penas civis e criminais estabelecidas na legislação em vigor.
 
-<strong>Art</strong>. 3º Como condição essencial de qualquer concessão de créditos, será assegurado à CEPCAN o direito de por si ou por entidade à qual nos têrmos do § 1º do art. 7º da Lei 1.886, confiar a administração dos financiamentos outorgados fiscalizar-lhes a aplicação e o andamento das atividades financiadas, podendo fazer exames de escrita e proceder a outras vistorias que julgar convenientes.
+**Art**. 3º Como condição essencial de qualquer concessão de créditos, será assegurado à CEPCAN o direito de por si ou por entidade à qual nos têrmos do § 1º do art. 7º da Lei 1.886, confiar a administração dos financiamentos outorgados fiscalizar-lhes a aplicação e o andamento das atividades financiadas, podendo fazer exames de escrita e proceder a outras vistorias que julgar convenientes.
 
 Parágrafo único. Confiada que seja tal administração ao Banco do Brasil, poderá aquele estabelecimento de crédito introduzir nos contratos de financiamentos a entidades particulares, que vier a firmar as cláusulas ou condições necessárias ao bom desempenho dos encargos que, para tanto lhe forem cometidos.
 
-<strong>Art</strong>. 4º Nenhum financiamento se fará sem que sejam dadas garantias à CEPCAN, de preferência por meio de hipoteca, caução ou penhor.
+**Art**. 4º Nenhum financiamento se fará sem que sejam dadas garantias à CEPCAN, de preferência por meio de hipoteca, caução ou penhor.
 
-<strong>Art</strong>. 5º Os bens oferecidos em garantia, salvo os casos de comprovada desnecessidade e até o limite de (Cr$1.000.00,00), serão avaliados por técnicos de reconhecida capacidade e idoneidade profissional designados pela CEPCAN, subordinando-se as avaliações e exames de escrita, para êsse fim necessários, ao depósito prévio, pelos interessados, do valor dos respectivos custos.
+**Art**. 5º Os bens oferecidos em garantia, salvo os casos de comprovada desnecessidade e até o limite de (Cr$1.000.00,00), serão avaliados por técnicos de reconhecida capacidade e idoneidade profissional designados pela CEPCAN, subordinando-se as avaliações e exames de escrita, para êsse fim necessários, ao depósito prévio, pelos interessados, do valor dos respectivos custos.
 
-<strong>Art</strong>. 6º A empresa que desejar obter financiamento, com fundamento no art. 6º da Lei 1.886, de 11 de junho de 1953, deverá dirigir o seu pedido à CEPCAN, acompanhado dos seguintes documentos:
+**Art**. 6º A empresa que desejar obter financiamento, com fundamento no art. 6º da Lei 1.886, de 11 de junho de 1953, deverá dirigir o seu pedido à CEPCAN, acompanhado dos seguintes documentos:
 
 a) prova de capacidade legal para contratar;
 
@@ -68,9 +66,9 @@ g) compromisso de aceitar o esquema de produção e comércio estabelecido pela 
 
 h) apresentar as certidões negativas usuais, para a assinatura do contrato de financiamento;
 
-Parágrafo único. Os documentos referidos na letra <em>“c”</em> deverão atender precipuamente ao setor a ser mecanizado e para o qual é solicitado o maquinário necessário a ser financiado pela CEPCAN.
+Parágrafo único. Os documentos referidos na letra *“c”* deverão atender precipuamente ao setor a ser mecanizado e para o qual é solicitado o maquinário necessário a ser financiado pela CEPCAN.
 
-<strong>Art</strong>. 7º Os financiamentos com fundamento no art. 14 da Lei 1.886 serão concedidos mediante requerimento instruído pelos seguintes documentos:
+**Art**. 7º Os financiamentos com fundamento no art. 14 da Lei 1.886 serão concedidos mediante requerimento instruído pelos seguintes documentos:
 
 a) prova de capacidade legal para contratar;
 
@@ -86,28 +84,28 @@ f) compromisso de aceitar o esquema de produção estabelecido pela CEPCAN;
 
 g) apresentar as certidões negativas usuais para a assinatura do contrato de financiamento.
 
-<strong>Art</strong>. 8º Os financiamentos previstos no art. 15 da Lei 1.886 serão concedidos mediante requerimento instruído com os documentos especificados no art. 7º destas Instruções, excluído o item <em>“f”</em>, substituindo-se o disposto na letra <em>“d”</em> pelo seguinte: programa, plantas, especificações e orçamentos do serviço de assistência social a ser ampliado ou criado.
+**Art**. 8º Os financiamentos previstos no art. 15 da Lei 1.886 serão concedidos mediante requerimento instruído com os documentos especificados no art. 7º destas Instruções, excluído o item *“f”*, substituindo-se o disposto na letra *“d”* pelo seguinte: programa, plantas, especificações e orçamentos do serviço de assistência social a ser ampliado ou criado.
 
-<strong>Art</strong>. 9º Recebido o pedido de financiamento a Diretoria procederá aos seu estudo, solicitando ao requerente os esclarecimentos que julgar necessários e ordenado quaisquer exames e verificações.
+**Art**. 9º Recebido o pedido de financiamento a Diretoria procederá aos seu estudo, solicitando ao requerente os esclarecimentos que julgar necessários e ordenado quaisquer exames e verificações.
 
-<strong>Art</strong>. 10. A Diretoria poderá conceder ou recusar qualquer pedido, tendo em vista as disponibilidades de cuja aplicação pode decidir o maior o menor interesse geral dos projetos apresentados a idoneidade e a solvabilidade dos requerentes e o valor das garantias oferecidas.
+**Art**. 10. A Diretoria poderá conceder ou recusar qualquer pedido, tendo em vista as disponibilidades de cuja aplicação pode decidir o maior o menor interesse geral dos projetos apresentados a idoneidade e a solvabilidade dos requerentes e o valor das garantias oferecidas.
 
-<strong>Art</strong>. 11. A Diretoria financiara a aquisição, transporte, seguro e montagem de máquinas e equipamentos, inclusive sobressalentes e acessórios destinados a atender o que está previsto nos arts. 6º e 14 da Lei 1.886, de 11 de junho de 1953.
+**Art**. 11. A Diretoria financiara a aquisição, transporte, seguro e montagem de máquinas e equipamentos, inclusive sobressalentes e acessórios destinados a atender o que está previsto nos arts. 6º e 14 da Lei 1.886, de 11 de junho de 1953.
 
-<strong>Art</strong>. 12. O seguro dos bens dados em garantia à CEPCAN será feito a favor desta, de forma a consultar as várias modalidades dos empréstimos, bem como a segurança dos bens a êles vinculados por onus real adotada sempre cobertura efetiva, desde a assinatura dos contratos até final liquidação dos financiamentos.
+**Art**. 12. O seguro dos bens dados em garantia à CEPCAN será feito a favor desta, de forma a consultar as várias modalidades dos empréstimos, bem como a segurança dos bens a êles vinculados por onus real adotada sempre cobertura efetiva, desde a assinatura dos contratos até final liquidação dos financiamentos.
 
-<strong>Art</strong>. 13. Os financiamentos serão concedidos até o prazo máximo de 10 (dez) anos. Os pagamentos de amortização e juros poderão ter início até um ano contado da entrega de equipamento principal no local de serviço.
+**Art**. 13. Os financiamentos serão concedidos até o prazo máximo de 10 (dez) anos. Os pagamentos de amortização e juros poderão ter início até um ano contado da entrega de equipamento principal no local de serviço.
 
-<strong>Art</strong>. 14. Os juros serão devidos a partir da data do desembolso efetuado pela  CEPCAN e exigíveis, transcorrido o prazo de um ano a que se refere o artigo 13, em 30 de junho, 31 de dezembro e no vencimento ou liquidação do contrato.
+**Art**. 14. Os juros serão devidos a partir da data do desembolso efetuado pela  CEPCAN e exigíveis, transcorrido o prazo de um ano a que se refere o artigo 13, em 30 de junho, 31 de dezembro e no vencimento ou liquidação do contrato.
 
-<strong>Art</strong>. 15. Será de 4% a taxa de juros a ser fixada para todos os financiamentos previstos na Lei número 1.886, podendo ser cobrada, em favor da entidade administradora dos financiamentos, a pena convencional de 10% sôbre principal e acessórios em caso de cobrança judicial da dívida.
+**Art**. 15. Será de 4% a taxa de juros a ser fixada para todos os financiamentos previstos na Lei número 1.886, podendo ser cobrada, em favor da entidade administradora dos financiamentos, a pena convencional de 10% sôbre principal e acessórios em caso de cobrança judicial da dívida.
 
-<strong>Art</strong>. 16. E facultado à Diretoria realizar os financiamentos previstos na Lei mediante a importação direta do equipamento ou material, pela CEPCAN a ser entregue as emprêsas industriais.
+**Art**. 16. E facultado à Diretoria realizar os financiamentos previstos na Lei mediante a importação direta do equipamento ou material, pela CEPCAN a ser entregue as emprêsas industriais.
 
-<strong>Art</strong>. 17. Poderá a CEPCAN conceder financiamentos com o fim de completar financiamentos já obtidos de outra fonte, desde que sejam satisfeitos as exigências contidas neste regulamento.
+**Art**. 17. Poderá a CEPCAN conceder financiamentos com o fim de completar financiamentos já obtidos de outra fonte, desde que sejam satisfeitos as exigências contidas neste regulamento.
 
-<strong>Art</strong>. 18. Para todos os financiamentos previstos na Lei nº 1.886, as emprêsas interessadas deverão oferecer garantia mínima de 40% superior ao valor dos financiamentos concedidos. Dos referidos 40% a metade, no máximo, poderá ser prestada em carvão jacente para os financiamentos a que se refere o artigo 6º da Lei 1.886.
+**Art**. 18. Para todos os financiamentos previstos na Lei nº 1.886, as emprêsas interessadas deverão oferecer garantia mínima de 40% superior ao valor dos financiamentos concedidos. Dos referidos 40% a metade, no máximo, poderá ser prestada em carvão jacente para os financiamentos a que se refere o artigo 6º da Lei 1.886.
 
-<strong>CORONEL OSVALDO PINTO DA VEIGA</strong>
+**CORONEL OSVALDO PINTO DA VEIGA**
 
 Diretor Executivo

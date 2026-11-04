@@ -1,5 +1,3 @@
-###DEC-080771-0-000-22-11-1977@@@
-
 DECRETO Nº 80.771, DE 22 DE NOVEMBRO DE 1977.
 
 Concede a Itamar Ribeiro Camelo, firma individual, o direito de lavrar antofilita no Município de São Luiz dos Montes Belos, Estado de Goiás.

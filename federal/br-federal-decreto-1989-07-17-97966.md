@@ -1,7 +1,3 @@
-1
-
-###DEC-097966-0-000-17-07-1989@@@
-
 DECRETO Nº 97.966, DE 17 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática, em São Paulo.

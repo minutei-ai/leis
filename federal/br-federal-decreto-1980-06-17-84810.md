@@ -1,5 +1,3 @@
-###DEC-084810-0-000-17-06-1980@@@
-
 Decreto nº 84.810, de 17 de junho de 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CULTURA DE RIBEIRÃO PRETO LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ribeirão Preto, Estado de São Paulo.

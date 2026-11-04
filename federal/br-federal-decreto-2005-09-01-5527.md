@@ -1,5 +1,3 @@
-###DEC-005527-0-000-01-09-2005@@@
-
 DECRETO Nº 5.527, DE 1º DE SETEMBRO DE 2005.
 
        Dispõe sobre procedimentos fiscais no âmbito da Receita Federal do Brasil e dá outras providências.
@@ -25,5 +23,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
         Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 2.9.2005

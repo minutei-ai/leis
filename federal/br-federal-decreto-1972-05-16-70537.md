@@ -1,5 +1,3 @@
-###DEC-070537-0-000-16-05-1972@@@
-
 DECRETO Nº 70.537, DE 16 DE MAIO DE 1972.
 
 Concede permissão, em caráter permanente, a empresa Indústria e Comércio de Minérios S.A - ICOMI, para funcionar aos domingos e nos dias feriados civis e religiosos.

@@ -82,15 +82,24 @@ VII - Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS
 
 VIII - Secretaria da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura - SEAGRI.
 
-Composição da Comissão Gestora da Política Estadual de Fomento ao Empreendedorismo de Negros e Mulheres alterada pelo Decreto nº 16.261, de 04 de agosto de 2015.<br>
-Composição anterior:<br>
-I - Secretaria de Promoção da Igualdade Racial - SEPROMI, que a coordenará;<br>
-II - Secretaria de Políticas para as Mulheres - SPM;<br>
-III - Secretaria do Planejamento - SEPLAN;<br>
-IV - Secretaria da Fazenda - SEFAZ;<br>
-V - Secretaria da Indústria, Comércio e Mineração - SICM;<br>
-VI - Secretaria do Trabalho, Emprego, Renda e Esporte - SETRE;<br>
-VII - Secretaria de Desenvolvimento Social e Combate à Pobreza - SEDES;<br>
+Composição da Comissão Gestora da Política Estadual de Fomento ao Empreendedorismo de Negros e Mulheres alterada pelo Decreto nº 16.261, de 04 de agosto de 2015.
+
+Composição anterior:
+
+I - Secretaria de Promoção da Igualdade Racial - SEPROMI, que a coordenará;
+
+II - Secretaria de Políticas para as Mulheres - SPM;
+
+III - Secretaria do Planejamento - SEPLAN;
+
+IV - Secretaria da Fazenda - SEFAZ;
+
+V - Secretaria da Indústria, Comércio e Mineração - SICM;
+
+VI - Secretaria do Trabalho, Emprego, Renda e Esporte - SETRE;
+
+VII - Secretaria de Desenvolvimento Social e Combate à Pobreza - SEDES;
+
 VIII - Secretaria da Agricultura, Pecuária, Irrigação, Reforma Agrária, Pesca e Aquicultura - SEAGRI.
 
 Parágrafo único - A Comissão Gestora da Política Estadual de Fomento ao Empreendedorismo de Negros e Mulheres - PENM será responsável por:

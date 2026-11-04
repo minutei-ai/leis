@@ -1,7 +1,3 @@
-1
-
-###DEC-099360-0-000-28-06-1990@@@
-
 DECRETO N° 99.360, DE 28 DE JUNHO DE 1990
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Comple­mentação Econômica n° 12, entre o Brasil e a Argentina.

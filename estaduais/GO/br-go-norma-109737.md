@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 198, DE 15 DE OUTUBRO DE 2024.<br>
+LEI COMPLEMENTAR Nº 198, DE 15 DE OUTUBRO DE 2024.
+
 \- [Declarada Inconstitucional - ADI nº 6149522-36.2024.8.09.0000](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18651)
 
 ~~Altera a [Lei Complementar nº 26](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101024), de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.~~
@@ -11,7 +12,8 @@ LEI COMPLEMENTAR Nº 198, DE 15 DE OUTUBRO DE 2024.<br>
 
 ~~...................................................................................................................................~~
 
-~~XVIII – 1 (um) representante indicado pela Assembleia Legislativa do Estado de Goiás.~~<br>
+~~XVIII – 1 (um) representante indicado pela Assembleia Legislativa do Estado de Goiás.~~
+
  
 
 ~~..........................................................................................................................”(NR)~~

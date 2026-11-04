@@ -1,5 +1,3 @@
-###DEC-049050-0-000-05-10-1960@@@
-
 Decreto nº 49.050, de 5 de outubro de 1960.
 
 Renova o decreto nº 43.763, de 21 de maio de 1958.

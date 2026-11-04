@@ -1,5 +1,3 @@
-###DEC-054389-0-000-08-10-1964@@@
-
 DECRETO Nº 54.389, DE 8 DE OUTUBRO DE 1964.
 
 Torna sem efeito o Decreto nº 53.410, de 17 de janeiro de 1964, e revalida o de nº 52.379, de 19 de agôsto de 1963.

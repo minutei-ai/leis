@@ -1,5 +1,3 @@
-###DEL-007670-0-000-25-06-1945@@@
-
 DECRETO-LEI N. 7.670 – DE 25 DE JUNHO DE 1945
 
 Altera a denominação da Diretoria Regional dos Correios e Telégrafos de Pôrto Velho

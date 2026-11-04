@@ -1,5 +1,3 @@
-###DEC-051885-0-000-03-04-1963@@@
-
 DECRETO Nº 51.885, de 3 de abril de 1963.
 
 Cria a Comissão Regional de Obras nº 1 da 3ª Região Militar (CRO 1/3) com sede em Santa Maria - RS.

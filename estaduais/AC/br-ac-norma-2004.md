@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.406, de 31 de Julho de 2018.](https://legis.ac.gov.br
 
 > **LEI Nº 3.351, DE 18 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria a jornada especial de trabalho de quatro horas diárias para os servidores públicos estaduais que possuam, sob a sua guarda, tutela ou curatela pessoa com deficiência ou mobilidade reduzida.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria a jornada especial de trabalho de quatro horas diárias para os servidores públicos estaduais que possuam, sob a sua guarda, tutela ou curatela pessoa com deficiência ou mobilidade reduzida.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -14,13 +18,9 @@ Modificada pela Lei nº [3.406, de 31 de Julho de 2018.](https://legis.ac.gov.br
 
 **§ 1º** A jornada especial será de vinte horas semanais, concedida a todos os servidores públicos, efetivos e temporários, enquadrados nas condições da presente lei, independentemente da jornada de trabalho definida em razão do cargo ocupado. (Redação dada pela Lei nº 3.406, de 31/07/2018)
 
-<br>
-
 **§ 2º** Considera-se, para efeitos desta lei, pessoa com deficiência e pessoa com mobilidade reduzida aquelas assim definidas pela Lei Federal nº 13.146, de 6 de julho de 2015 e suas alterações posteriores.
 
-**§ 3º** Os servidores com atribuições que, pela sua natureza, são desenvolvidas em escala de revezamento, deverão cumprir a carga horária semanal prevista no art. 1º. (Incluído pela Lei nº 3.406, de 31/07/2018)<br>
-
-<br>
+**§ 3º** Os servidores com atribuições que, pela sua natureza, são desenvolvidas em escala de revezamento, deverão cumprir a carga horária semanal prevista no art. 1º. (Incluído pela Lei nº 3.406, de 31/07/2018)
 
 **Art. 2º** Na hipótese em que ambos os pais sejam servidores públicos estaduais, a jornada especial prevista no _caput_ do art. 1º desta lei, será estendida a ambos.
 

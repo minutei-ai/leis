@@ -1,5 +1,3 @@
-###DEC-045755-0-000-07-04-1959@@@
-
 DECRETO Nº 45.755, DE 7 DE ABRIL DE 1959.
 
 Autorizas a cidadã brasileira Josepha Cerqueira Leite a pesquisar minérios de ferro e manganês no município de Raposo, Estado de Mina Gerais.

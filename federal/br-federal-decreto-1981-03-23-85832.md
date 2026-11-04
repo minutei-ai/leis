@@ -1,7 +1,3 @@
-1
-
-###DEC-085832-0-000-23-03-1981@@@
-
 Decreto nº 85.832, de 23 de março de 1981.
 
 Altera a redação do art. 2º do Decreto nº 81.053, de 19 de dezembro de 1977, que regulamenta a transferência e a movimentação dos servidores públicos civis da União e das autarquias federais.

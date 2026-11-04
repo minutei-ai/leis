@@ -1,5 +1,3 @@
-###DEC-052566-0-000-30-09-1963@@@
-
 DECRETO Nº 52.566, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a construir linha de transmissão e rêdes de distribuição.

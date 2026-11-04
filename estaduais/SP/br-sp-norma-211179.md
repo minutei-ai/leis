@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211179)<br>
-
 # DECRETO N° 69.692, DE 08 DE JULHO DE 2025
 
 ### _Transfere a Delegacia de Polícia de Combate a Crimes de Fraude Documental e Biometria, no âmbito do Departamento de Inteligência da Polícia Civil - DIPOL, altera dispositivos e dá providências correlatas._

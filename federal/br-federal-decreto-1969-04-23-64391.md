@@ -1,5 +1,3 @@
-###DEC-064391-0-000-23-04-1969@@@
-
 DECRETO Nº 64.391, DE 23 DE ABRIL DE 1969.
 
 Dá nova redação aos artigos 16 e 74 e ao parágrafo único do artigo 75 do Regulamento do Conselho de Recursos da Previdência Social.

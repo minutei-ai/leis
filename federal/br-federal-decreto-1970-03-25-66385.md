@@ -1,5 +1,3 @@
-###DEC-066385-0-000-25-03-1970@@@
-
 DECRETO Nº 66.385 - DE 25 DE MARÇO DE 1970
 
 Autoriza o Serviço do Patrimônio da União a efetivar a transferência para a Casa da Moeda dos imóveis que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092389-0-000-06-02-1986@@@
-
 DECRETO Nº 92.389, DE 06 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento do Instituto Superior de Ensino e Pesquisa de Ituiutaba - ISEPI, de Ituiutaba, Minas Gerais.

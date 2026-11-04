@@ -1,5 +1,3 @@
-###DEL-008332-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.332 – DE 10 DE DEZEMBRO DE 1945
 
 Desapropria, para fins de utilidade pública, o domínio direto de um terreno em Natal, Estado do Rio Grande do Norte e autoriza a aquisição do seu domínio útil

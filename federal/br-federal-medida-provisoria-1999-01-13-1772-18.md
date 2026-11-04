@@ -1,5 +1,3 @@
-###MPV-001772-0-018-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.772-18, DE 13 DE JANEIRO DE 1999.
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

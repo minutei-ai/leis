@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208279)<br>
-
 # DECRETO N° 67.801, DE 17 DE JULHO DE 2023
 
 ### _Revoga o Decreto n° 64.864, de 16 de março de 2020._

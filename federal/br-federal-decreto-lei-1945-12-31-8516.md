@@ -1,5 +1,3 @@
-###DEL-008516-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.516 – DE 31 DE DEZEMBRO DE 1945
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 100. 516,00, para pagamento de obras no Jardim Botânico.

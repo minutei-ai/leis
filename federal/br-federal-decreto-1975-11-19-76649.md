@@ -1,5 +1,3 @@
-###DEC-076649-0-000-19-11-1975@@@
-
 DECRETO Nº 76.649, DE 19 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Administração e Ciências Contábeis de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

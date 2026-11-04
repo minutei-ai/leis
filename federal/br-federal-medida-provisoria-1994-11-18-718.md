@@ -1,7 +1,3 @@
-1
-
-###MPV-000718-0-000-18-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 718, DE 18 DE NOVEMBRO DE 1994
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005220-0-000-22-01-1943@@@
-
 DECRETO‑LEI N. 5.220 – DE 22 DE JANEIRO DE 1943
 
 Estabelece medidas para garantir o abastecimento das populações e dá outras providências

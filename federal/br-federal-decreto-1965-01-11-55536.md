@@ -1,5 +1,3 @@
-###DEC-055536-0-000-11-01-1965@@@
-
 Decreto nº 55.536, de 11 de janeiro de 1965.
 
 Dá nova redação aos arts. 1º e 2º do Decreto nº 54.557, de 23 de outubro de 1964.

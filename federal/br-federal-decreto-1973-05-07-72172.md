@@ -1,5 +1,3 @@
-###DEC-072172-0-000-07-05-1973@@@
-
 DECRETO Nº 72.172, DE 7 DE MAIO DE 1973.
 
 Altera o artigo 2º do Decreto nº 50.250, de 28 de janeiro de 1961.

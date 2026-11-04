@@ -1,5 +1,3 @@
-###DEC-079373-0-000-10-03-1977@@@
-
 Decreto n.º 79.373, de 10 de março de 1977.
 
 Concede reconhecimento ao curso de Psicologia, da Faculdade de Psicologia, com sede na cidade do Rio de Janeiro, no Estado do Rio de Janeiro.

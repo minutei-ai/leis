@@ -1,5 +1,3 @@
-###DEC-045778-0-000-14-04-1959@@@
-
 DECRETO Nº 45.778, DE 14 DE abril DE 1959.
 
 Renova o Decreto nº 39.055, de 18 de abril de 1956.

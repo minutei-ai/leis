@@ -1,5 +1,3 @@
-###DEC-084652-0-000-23-04-1980@@@
-
 DECRETO Nº 84.652, DE 23 DE ABRIL DE 1980
 
 Declara de interesse social, para fins de desapropriação, imóvel rural denominado "Fazenda Saco do Belém", situado no Município de Santa Quitéria, Estado do Ceará, compreendido na área prioritária de que tratam os Decreto nºs 60.465/67, 61.106/67, 68.085/71, 75.147/74 e 82.884/78.

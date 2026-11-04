@@ -22,8 +22,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 05 de maio de 2021.
 
-<br>
-
 Deputado LISSAUER VIEIRA
 
 \- PRESIDENTE -

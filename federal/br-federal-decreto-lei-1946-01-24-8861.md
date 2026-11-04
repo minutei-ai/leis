@@ -1,5 +1,3 @@
-###DEL-008861-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.861 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a promoção, por merecimento, dos funcionários da Prefeitura do Distrito Federal.

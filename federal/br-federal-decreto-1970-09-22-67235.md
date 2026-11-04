@@ -1,5 +1,3 @@
-###DEC-067235-0-000-22-09-1970@@@
-
 decreto nº 67.235, de 22 de setembro de 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Instituto Brasileiro de Desenvolvimento Florestal cargo originário do Ministério da Agricultura.

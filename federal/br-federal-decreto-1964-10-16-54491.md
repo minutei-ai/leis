@@ -1,5 +1,3 @@
-###DEC-054491-0-000-16-10-1964@@@
-
 DECRETO Nº 54.491, DE 16 DE OUTUBRO DE 1964.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 44.199, de 29 de julho de 1958, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno, necessária à construção do açude público Orós, no município de Orós, no Estado do Ceará, e dá outras providências.

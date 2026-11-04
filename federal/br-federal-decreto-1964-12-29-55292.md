@@ -1,5 +1,3 @@
-###DEC-055292-0-000-29-12-1964@@@
-
 DECRETO Nº 55.292, DE 29 DE DEZEMBRO DE 1964.
 
 Revogam-se os Decreto ns. 50.163 e 50.194, ambos de 18-1-61 e o de número 1.198 de 19-6-62.
@@ -31,8 +29,6 @@ Brasília, 29 de dezembro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Hugo de Almeida Leme
-
-###DEC-055292-0-000-29-12-1964@@@RET01+++
 
 DECRETO Nº 55.292, DE 29 DE DEZEMBRO DE 1964.
 

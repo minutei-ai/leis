@@ -1,70 +1,68 @@
-###DEC-025832-0-000-12-11-1948@@@
+**DECRETO Nº 25**.**832, DE 12 DE NOVEMBRO DE 1948**.
 
-<strong>DECRETO Nº 25</strong>.<strong>832, DE 12 DE NOVEMBRO DE 1948</strong>.
+***Aprova o Regulamento do Serviço de Intendência da Aeronáutica.*
 
-<em><strong>Aprova o Regulamento do Serviço de Intendência da Aeronáutica</strong></em><em>.</em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Fica aprovado o Regulamento do Serviço de Intendência da Aeronáutica, que com êste baixa, assinado pelo Tenente Brigadeiro do Ar, Armando Figueira Trompowsky de Almeida, Ministro de Estado da Aeronáutica.
 
-<strong>Art</strong>. 1.º Fica aprovado o Regulamento do Serviço de Intendência da Aeronáutica, que com êste baixa, assinado pelo Tenente Brigadeiro do Ar, Armando Figueira Trompowsky de Almeida, Ministro de Estado da Aeronáutica.
-
-<strong>Art</strong>. 2.º Revogam-se as disposições em contrário.
+**Art**. 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de novembro de 1948. 127.º da Independência e 60.º da República.
 
-<strong>EURICO G</strong>. <strong>DUTRA</strong>
+**EURICO G**. **DUTRA**
 
 Armando Trompowsky
 
-<strong>REGULAMENTO DO SERVIÇO DE INTENDÊNCIA DA AERONÁUTICA</strong>
+**REGULAMENTO DO SERVIÇO DE INTENDÊNCIA DA AERONÁUTICA**
 
-<strong>(R</strong>. <strong>S</strong>. <strong>I</strong>. <strong>AER</strong>.<strong>)</strong>
+**(R**. **S**. **I**. **AER**.**)**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO SERVIÇO DE INTENDÊNCIA</em>
+*DO SERVIÇO DE INTENDÊNCIA*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Missão e Subordinação</em>
+*Da Missão e Subordinação*
 
-<strong>Art</strong>. 1.º Ao Serviço de Intendência da Aeronáutica (S. I. Aer.), subordinado diretamente ao Ministro da Aeronáutica, incumbe o trato dos assuntos referentes a:
+**Art**. 1.º Ao Serviço de Intendência da Aeronáutica (S. I. Aer.), subordinado diretamente ao Ministro da Aeronáutica, incumbe o trato dos assuntos referentes a:
 
-<em>a)</em>      movimento financeiro;
+*a)*      movimento financeiro;
 
-<em>b)</em>      material de intendência;
+*b)*      material de intendência;
 
-<em>c)</em>       subsistência e respectivo material;
+*c)*       subsistência e respectivo material;
 
-<em>d)</em>      material de suprimento expressamente determinado.
+*d)*      material de suprimento expressamente determinado.
 
-<strong>Art</strong>. 2.º Compete ao S. I. Aer. o cuidado das questões:
+**Art**. 2.º Compete ao S. I. Aer. o cuidado das questões:
 
 A) Relativas a finanças e orçamento:
 
-<em>a)</em>      contabilidade financeira;
+*a)*      contabilidade financeira;
 
-<em>b)</em>      contabilidade orçamentária;
+*b)*      contabilidade orçamentária;
 
-<em>c)</em>       contabilidade patrimonial;
+*c)*       contabilidade patrimonial;
 
-<em>d)</em>      provimento de fundos;
+*d)*      provimento de fundos;
 
-<em>e)</em>      prestações de contas;
+*e)*      prestações de contas;
 
-<em>f)</em>        tomadas de contas;
+*f)*        tomadas de contas;
 
-<em>g)</em>      inspenções administrativas;
+*g)*      inspenções administrativas;
 
-<em>h)</em>      assistência aos herdeiros dos militares;
+*h)*      assistência aos herdeiros dos militares;
 
-<em>i)</em>         legislação e modelos respectivos.
+*i)*         legislação e modelos respectivos.
 
 B) Referentes a provisões:
 
-<em>a)</em> de material de intendência:
+*a)* de material de intendência:
 
 \-          fardamento, equipamento individual, material de alojamento e de acampamento;
 
@@ -84,7 +82,7 @@ B) Referentes a provisões:
 
 \-          legislação, modelos e cadernos de encargos respectivos;
 
-<em>b)</em> de artigos de subsistência:
+*b)* de artigos de subsistência:
 
 \-          víveres;
 
@@ -94,7 +92,7 @@ B) Referentes a provisões:
 
 \-          legislação, modelos e cadernos de encargos respectivos;
 
-<em>c)</em> de suprimento:
+*c)* de suprimento:
 
 \-          material de conservação, de aquecimento e de refrigeração;
 
@@ -106,15 +104,15 @@ B) Referentes a provisões:
 
 § 3.º A contabilidade patrimonial se destina  a registrar sintéticamente as alterações provenientes da aquisição, a transferência de um para outro órgão responsável e a disponibilidade de todos os bens do Estado a cargo da Aeronáutica.
 
-<strong>Art</strong>. 3.º Os assuntos referidos, no artigo anterior determinam as atividades especializadas dos órgãos do S. I. Aer., das quais decorrem:
+**Art**. 3.º Os assuntos referidos, no artigo anterior determinam as atividades especializadas dos órgãos do S. I. Aer., das quais decorrem:
 
-<em>a)</em>      assuntos técnicos;
+*a)*      assuntos técnicos;
 
-<em>b)</em>      assuntos técnicos-administrativos;
+*b)*      assuntos técnicos-administrativos;
 
-<em>c)</em>       assuntos administrativos.
+*c)*       assuntos administrativos.
 
-§ 1.º Consideram-se <em>técnicos</em>, os assuntos referentes:
+§ 1.º Consideram-se *técnicos*, os assuntos referentes:
 
 1\) à comparação dos gêneros, forragem, matéria prima e material de intendência a adquirir, com as amostras “tipo” os cadernos de encargos e as descrições regulamentares;
 
@@ -124,7 +122,7 @@ B) Referentes a provisões:
 
 4\) ao funcionamento dos aparelhos peculiares ao S. I. Aer.
 
-§ 2.º Consideram-se <em>técnicos-administrativos</em> os assuntos relativos:
+§ 2.º Consideram-se *técnicos-administrativos* os assuntos relativos:
 
 1\) ao estado de escrituração nos diversos escalões do S. I. Aer.;
 
@@ -134,15 +132,15 @@ B) Referentes a provisões:
 
 4\) à quantidade e à qualidade dos alimentos, ressalvados, quanto à últim, os aspectos da competência do Serviço de Saúde.
 
-§ 3.º Consideram-se <em>administrativos</em> os demais assuntos vinculados às atribuições do S. I. Aer.
+§ 3.º Consideram-se *administrativos* os demais assuntos vinculados às atribuições do S. I. Aer.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 4.º O S. I. Aer. compreende os seguintes elementos:
+**Art**. 4.º O S. I. Aer. compreende os seguintes elementos:
 
-<em>a)</em> órgãos de direção:
+*a)* órgãos de direção:
 
 I - Geral:
 
@@ -154,7 +152,7 @@ Subdiretoria de Finanças;
 
 Subdiretoria de Provisões de Intendência;
 
-<em>b)</em> órgãos de direção e execução:
+*b)* órgãos de direção e execução:
 
 I - Regional:
 
@@ -164,7 +162,7 @@ II - Especial:
 
 Órgãos de Intendência de Unidades da Alta Administração (Diretorias) e outras (Escolas, Fábricas, Parques, etc.);
 
-<em>c)</em> órgãos de execução:
+*c)* órgãos de execução:
 
 I - Geral:
 
@@ -182,65 +180,65 @@ III - Local:
 
 Formações de Intendência nas Unidades Administrativas.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 5.º O Chefe do S. I. Aer. exerce estas funções cumulativamente com as de Diretor Geral de Intendência.
+**Art**. 5.º O Chefe do S. I. Aer. exerce estas funções cumulativamente com as de Diretor Geral de Intendência.
 
 DA DIRETORIA DE INTENDÊNCIA DA AERONÁUTICA
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>DA MISSÃO E SUBORDINAÇÃO</em>
+*DA MISSÃO E SUBORDINAÇÃO*
 
-<strong>Art</strong>. 6.º A Diretoria de Intendência da Aeronáutica (D. I. Aer.) é o órgão encarregado de superintender o Serviço de Intendência no Ministério da Aeronáutica e constitui Unidade Administrativa.
+**Art**. 6.º A Diretoria de Intendência da Aeronáutica (D. I. Aer.) é o órgão encarregado de superintender o Serviço de Intendência no Ministério da Aeronáutica e constitui Unidade Administrativa.
 
-<strong>Art</strong>. 7.º A D. I. Aer., diretamente ou por intermédio dos demais órgãos do S. I. Aer., é incumbida de:
+**Art**. 7.º A D. I. Aer., diretamente ou por intermédio dos demais órgãos do S. I. Aer., é incumbida de:
 
-<em>a)</em>      direção de seu pessoal;
+*a)*      direção de seu pessoal;
 
-<em>b)</em>      gestão do material especificado neste Regulamento;
+*b)*      gestão do material especificado neste Regulamento;
 
-<em>c)</em>       acompanhamento da gestão dos créditos distribuídos ao Ministério da Aeronáutica;
+*c)*       acompanhamento da gestão dos créditos distribuídos ao Ministério da Aeronáutica;
 
-<em>d)</em>      fiscalização das aquisições e provisões;
+*d)*      fiscalização das aquisições e provisões;
 
-<em>e)</em>      centralização da contabilidade financeira, orçamentária e patrimonial, pertinentes à Aeronáutica;
+*e)*      centralização da contabilidade financeira, orçamentária e patrimonial, pertinentes à Aeronáutica;
 
-<em>f)</em>        providências quanto às prestações de contas e às inspeções administrativas na Aeronáutica, no que lhe disser respeito;
+*f)*        providências quanto às prestações de contas e às inspeções administrativas na Aeronáutica, no que lhe disser respeito;
 
-<em>g)</em>      trato das questões gerais de competência do Serviço.
+*g)*      trato das questões gerais de competência do Serviço.
 
 § 1.º A D. I. Aer. é subordinada diretamente ao Ministro da Aeronáutica.
 
 § 2.º As Subdiretorias de Finanças e de Provisões de Intendência são órgãos subordinados imediata e administrativamente à D. I. Aer., possuindo antonomia funcional que lhes permite dar completo desempenho às atribuições especializadas, nos têrmos da lei e do presente Regulamento.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DA ORGANIZAÇÃO E DO PESSOAL</em>
+*DA ORGANIZAÇÃO E DO PESSOAL*
 
-<strong>Art</strong>. 8.º A Diretoria de Intendência da Aeronáutica tem a seguinte organização e pessoal:
+**Art**. 8.º A Diretoria de Intendência da Aeronáutica tem a seguinte organização e pessoal:
 
-<em>a)</em>      Diretor Geral - Brigadeiro;
+*a)*      Diretor Geral - Brigadeiro;
 
-<em>b)</em>      Gabinete: Chefe - Coronel;
+*b)*      Gabinete: Chefe - Coronel;
 
-<em>c)</em>       Adjuntos - Major e Capitão;
+*c)*       Adjuntos - Major e Capitão;
 
-<em>d)</em>      Divisão de Orçamento: Chefe - Coronel e Adjunto - Capitão;
+*d)*      Divisão de Orçamento: Chefe - Coronel e Adjunto - Capitão;
 
-<em>e)</em>      Divisão Legal: Chefe - Coronel e Adjunto - Capitão;
+*e)*      Divisão Legal: Chefe - Coronel e Adjunto - Capitão;
 
-<em>f)</em>        Divisão de Reembolsáveis: Chefe - Coronel e Adjunto - Capitão;
+*f)*        Divisão de Reembolsáveis: Chefe - Coronel e Adjunto - Capitão;
 
-<em>g)</em>      Seção Auxiliar: Chefe - Capitão.
+*g)*      Seção Auxiliar: Chefe - Capitão.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 9.º O Diretor Geral de Intendência tem jurisdição técnica e técnico-administrativa sôbre todos os órgãos do Serviço, observadas, porém, as prescrições relativas a entendimento entre autoridades militares.
+**Art**. 9.º O Diretor Geral de Intendência tem jurisdição técnica e técnico-administrativa sôbre todos os órgãos do Serviço, observadas, porém, as prescrições relativas a entendimento entre autoridades militares.
 
 Parágrafo único. Compete-lhe ainda:
 
@@ -264,7 +262,7 @@ Parágrafo único. Compete-lhe ainda:
 
 10\) assinar os títulos de pensão e visar a folha de cálculos dos inativos.
 
-<strong>Art</strong>. 10. O Chefe do Gabinete, como auxiliar imediato do Diretor Geral, presta-lhe inteira colaboração nas funções que lhe são privativas e se incumbe especialmente de:
+**Art**. 10. O Chefe do Gabinete, como auxiliar imediato do Diretor Geral, presta-lhe inteira colaboração nas funções que lhe são privativas e se incumbe especialmente de:
 
 1\) exercer as funções de agente diretor da Diretoria caso lhe sejam delegadas essas atribuições;
 
@@ -278,7 +276,7 @@ Parágrafo único. Compete-lhe ainda:
 
 Parágrafo único. Tem como coadjuvantes diretos e responsáveis os Adjuntos.
 
-<strong>Art</strong>. 11. Os adjuntos, além de outros encargos atribuídos pelo Chefe do Gabinete, se incumbem especialmente de:
+**Art**. 11. Os adjuntos, além de outros encargos atribuídos pelo Chefe do Gabinete, se incumbem especialmente de:
 
 1\) receber, protocolar e arquivar a correspondência sigilosa;
 
@@ -288,7 +286,7 @@ Parágrafo único. Tem como coadjuvantes diretos e responsáveis os Adjuntos.
 
 4\) determinar a distribuição da correspondência ostensiva, depois de devidamente protocolada.
 
-<strong>Art</strong>. 12. À Divisão de Orçamento compete:
+**Art**. 12. À Divisão de Orçamento compete:
 
 1\) elaborar e justificar as propostas orçamentárias (sintética e analítica) do Ministério;
 
@@ -300,11 +298,11 @@ Parágrafo único. Tem como coadjuvantes diretos e responsáveis os Adjuntos.
 
 5\) coordenar e orientar os trabalhos atinentes ao orçamento da Aeronáutica.
 
-<strong>Art</strong>. 13. O Chefe da Divisão é o orientador e coordenador das atividades desta Divisão, sendo responsável pela direção, funcionamento e marcha dos serviços que lhe são afetos.
+**Art**. 13. O Chefe da Divisão é o orientador e coordenador das atividades desta Divisão, sendo responsável pela direção, funcionamento e marcha dos serviços que lhe são afetos.
 
-<strong>Art</strong>. 14. O Adjunto é o auxiliar imediato do Chefe, a quem presta sua inteira colaboração nas funções que lhe são privativas.
+**Art**. 14. O Adjunto é o auxiliar imediato do Chefe, a quem presta sua inteira colaboração nas funções que lhe são privativas.
 
-<strong>Art</strong>. 15. À Divisão Legal se incumbe de:
+**Art**. 15. À Divisão Legal se incumbe de:
 
 1\) dar parecer acêrca de todos os assuntos que versarem sôbre a inteligência de atos administrativos e interpretação de leis e regulamentos, sôbre o reconhecimento de direitos creditórios, e, em geral, sôbre todas as questões que envolvam considerações de direito público administrativo;
 
@@ -318,11 +316,11 @@ Parágrafo único. Tem como coadjuvantes diretos e responsáveis os Adjuntos.
 
 6\) apreciar, em face da técnica, todo e qualquer trabalho que fôr apresentado, visando o aperfeiçoamento do Serviço de Intendência.
 
-<strong>Art</strong>. 16. O Chefe da Divisão é o orientador e coordenador das atividades desta Divisão, sendo responsável pela direção, funcionamento e marcha dos serviços que lhes são afetos.
+**Art**. 16. O Chefe da Divisão é o orientador e coordenador das atividades desta Divisão, sendo responsável pela direção, funcionamento e marcha dos serviços que lhes são afetos.
 
-<strong>Art</strong>. 17. O Adjunto é o auxiliar imediato do Chefe, a quem presta sua inteira colaboração nas funções que lhe são privativas.
+**Art**. 17. O Adjunto é o auxiliar imediato do Chefe, a quem presta sua inteira colaboração nas funções que lhe são privativas.
 
-<strong>Art</strong>. 18. À Divisão de Reembolsáveis compete:
+**Art**. 18. À Divisão de Reembolsáveis compete:
 
 1\) superintender os Reembolsáveis e Fazendas a cargo do S. I. Aer.;
 
@@ -332,11 +330,11 @@ Parágrafo único. Tem como coadjuvantes diretos e responsáveis os Adjuntos.
 
 4\) coordenar e orientar os trabalhos atinentes às necessidades de alimentação, vestuário e manutenção de equipamentos domésticos, a título indenizável, do interêsse do pessoal da F. A. B.
 
-<strong>Art</strong>. 19. O Chefe da Divisão é o orientador e coordenador das atividades desta Divisão, sendo responsável pela direção, funcionamento e marcha dos serviços que lhe são afetos.
+**Art**. 19. O Chefe da Divisão é o orientador e coordenador das atividades desta Divisão, sendo responsável pela direção, funcionamento e marcha dos serviços que lhe são afetos.
 
-<strong>Art</strong>. 20. O Adjunto é o auxiliar imediato do Chefe, a quem presta sua inteira colaboração nas funções que lhe são privativas.
+**Art**. 20. O Adjunto é o auxiliar imediato do Chefe, a quem presta sua inteira colaboração nas funções que lhe são privativas.
 
-<strong>Art</strong>. 21. A Seção Auxiliar (D. I. S. A.) é responsável pelas alterações do pessoal, serviço de expediente, protocolo, arquivo, correio, publicações, conservação de material, instalações e outros serviços de caráter administrativo, que não sejam das atribuições privativas das Divisões.
+**Art**. 21. A Seção Auxiliar (D. I. S. A.) é responsável pelas alterações do pessoal, serviço de expediente, protocolo, arquivo, correio, publicações, conservação de material, instalações e outros serviços de caráter administrativo, que não sejam das atribuições privativas das Divisões.
 
 § 1.º Para isso dispõe das seguintes Subseções:
 
@@ -350,27 +348,27 @@ Parágrafo único. Tem como coadjuvantes diretos e responsáveis os Adjuntos.
 
 § 2.º Cabe à 1-D. I. S. A. o estudo, o preparo do expediente e escrituração relativa à vida funcional dos militarem e civis em serviços na Diretoria e demais órgãos a ela subordinados.
 
-§ 3.º À 2-D. I. S. A. compete a confecção do boletim interno da Diretoria e remessa da matéria que deva ser publicada no <em>Diário Oficial”.</em>
+§ 3.º À 2-D. I. S. A. compete a confecção do boletim interno da Diretoria e remessa da matéria que deva ser publicada no *Diário Oficial”.*
 
 § 4.º Incumbe à 3-D. I. S. A. o recebimento, o fichamento e o encaminhamento de tôda correspondência ostensiva dirigida à Diretoria ou por esta remetida a outros órgãos; encarrega-se ainda dos serviços mecanográficos e da distribuição do boletim.
 
 § 5.º À 4-D. I. S. A. cabem os serviços referentes ao registro analítico do material permanente e instalações pertencentes à Diretoria e demais órgãos a ela subordinados e o recebimento, guarda e distribuição do material de expediente fornecido pela Subdiretoria de Provisões de Intendência.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA SUBDIRETORIA DE FINANÇAS</em>
+*DA SUBDIRETORIA DE FINANÇAS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Missão e Subordinação</em>
+*Da Missão e Subordinação*
 
-<strong>Art</strong>. 22. A Subdiretoria de Finanças (S/D. F. Aer.), diretamente subordinada à D. I. Aer., tem por finalidade tratar das questões que digam respeito a numerário e respectiva contabilidade.
+**Art**. 22. A Subdiretoria de Finanças (S/D. F. Aer.), diretamente subordinada à D. I. Aer., tem por finalidade tratar das questões que digam respeito a numerário e respectiva contabilidade.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DA ORGANIZAÇÃO E DO PESSOAL</em>
+*DA ORGANIZAÇÃO E DO PESSOAL*
 
-<strong>Art</strong>. 23. A S/D. F. Aer. tem a seguinte organização e pessoal:
+**Art**. 23. A S/D. F. Aer. tem a seguinte organização e pessoal:
 
 Subdiretor - Coronel;
 
@@ -382,11 +380,11 @@ Duas Divisões - Chefiadas por Tenentes Coronéis, auxiliados por Capitães;
 
 Tesouraria Geral - Major.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 24. O Subdiretor é o responsável pela eficiência dos serviços atribuídos à S/D. F. Aer.
+**Art**. 24. O Subdiretor é o responsável pela eficiência dos serviços atribuídos à S/D. F. Aer.
 
 Parágrafo único. Compete-lhe:
 
@@ -420,7 +418,7 @@ Parágrafo único. Compete-lhe:
 
 15\) apresentar o relatório anual da S/D. F. Aer.
 
-<strong>Art</strong>. 25. O Assistente é o auxiliar imediato do Subdiretor a quem empresta sua inteira colaboração nas funções que lhe são privativas.
+**Art**. 25. O Assistente é o auxiliar imediato do Subdiretor a quem empresta sua inteira colaboração nas funções que lhe são privativas.
 
 Parágrafo único. Compete-lhe:
 
@@ -436,7 +434,7 @@ Parágrafo único. Compete-lhe:
 
 6\) assinar o expediente que lhe fôr atribuído.
 
-<strong>Art</strong>. 26. O Adjunto é o coadjuvante direto do Assistente.
+**Art**. 26. O Adjunto é o coadjuvante direto do Assistente.
 
 Parágrafo único. Compete-lhe:
 
@@ -454,11 +452,11 @@ Parágrafo único. Compete-lhe:
 
 7\) rubricar os balanços das prestações de contas da Tesouraria Geral, a serem enviadas à D. F. 2.
 
-<strong>Art</strong>. 27. As Divisões tratam de:
+**Art**. 27. As Divisões tratam de:
 
-<em>a)</em>      A 1.ª Divisão (D. F. 1) - Contabilidade orçamentária e contabilidade financeira;
+*a)*      A 1.ª Divisão (D. F. 1) - Contabilidade orçamentária e contabilidade financeira;
 
-<em>b)</em>      A 2.ª Divisão (D. F. 2) - Contabilidade patrimonial, estatística, prestações e tomada de contas e inspenções administrativas.
+*b)*      A 2.ª Divisão (D. F. 2) - Contabilidade patrimonial, estatística, prestações e tomada de contas e inspenções administrativas.
 
 Parágrafo único. Aos Chefes de Divisão incumbe:
 
@@ -474,7 +472,7 @@ Parágrafo único. Aos Chefes de Divisão incumbe:
 
 6\) designar quem deva responder pela carga do material permanente da Divisão.
 
-<strong>Art</strong>. 28. Ao Tesoureiro Geral incumbe:
+**Art**. 28. Ao Tesoureiro Geral incumbe:
 
 1\) arrecadar as receitas que devam ser entregues à Tesouraria Geral;
 
@@ -496,7 +494,7 @@ Parágrafo único. Aos Chefes de Divisão incumbe:
 
 10\) apresentar ao Subdiretor o resumo da receita e da despesa do dia anterior, para publicação em Boletim;
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
 11\) submeter a balanço, quando ordenado, pelo menos quatro vezes por ano, os valores sob sua responsabilidade;
 
@@ -508,21 +506,21 @@ Parágrafo único. Aos Chefes de Divisão incumbe:
 
 15\) organizar o expediente a ser assinado pelo Subdiretor, comunicando aos agentes diretores os pagamentos efetuados aos tesoureiros das unidades ou as remessas de numerário, conforme seja o caso.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA SUBDIRETORIA DE PROVISÕES DE INTENDÊNCIA</em>
+*DA SUBDIRETORIA DE PROVISÕES DE INTENDÊNCIA*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Missão e Subordinação</em>
+*Da Missão e Subordinação*
 
-<strong>Art</strong>. 29. A Subdiretoria de Provisões de Intendência (S/D. P. I. Aer.), diretamente subordinada à D. I. Aer., tem por finalidade o cuidado dos provimentos atinentes a materal de intendência e subsistência.
+**Art**. 29. A Subdiretoria de Provisões de Intendência (S/D. P. I. Aer.), diretamente subordinada à D. I. Aer., tem por finalidade o cuidado dos provimentos atinentes a materal de intendência e subsistência.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DA ORGANIZAÇÃO E DO PESSOAL</em>
+*DA ORGANIZAÇÃO E DO PESSOAL*
 
-<strong>Art</strong>. 30. A S/D. P. I. Aer. tem a seguinte organização e pessoal;
+**Art**. 30. A S/D. P. I. Aer. tem a seguinte organização e pessoal;
 
 Subdiretor - Coronel;
 
@@ -532,11 +530,11 @@ Adjunto - Capitão;
 
 Três Divisões - Chefiadas por Tenentes Coronéis, auxiliados por Capitães.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 31. O Subdiretor é o responsável pela eficiência dos serviços atribuídos à S/D. P. I. Aer.
+**Art**. 31. O Subdiretor é o responsável pela eficiência dos serviços atribuídos à S/D. P. I. Aer.
 
 Parágrafo único. Compete-lhe:
 
@@ -572,7 +570,7 @@ Parágrafo único. Compete-lhe:
 
 16\) apresentar à D. I. Aer. os elementos necessários à organização da proposta orçamentária na parte que diz respeito à S/D. P. I. Aer.
 
-<strong>Art</strong>. 32. O Assistente é o auxiliar imediato do Subdiretor, a quem empresta sua inteira colaboração nas funções que lhe são privativas.
+**Art**. 32. O Assistente é o auxiliar imediato do Subdiretor, a quem empresta sua inteira colaboração nas funções que lhe são privativas.
 
 Parágrafo único. Compete-lhe:
 
@@ -588,7 +586,7 @@ Parágrafo único. Compete-lhe:
 
 6\) assinar o expediente que lhe fôr atribuído.
 
-<strong>Art</strong>. 33. O Adjunto é o coadjuvante direto do Assistente.
+**Art**. 33. O Adjunto é o coadjuvante direto do Assistente.
 
 Parágrafo único. Compete-lhe:
 
@@ -604,13 +602,13 @@ Parágrafo único. Compete-lhe:
 
 6\) subscrever certidões e papéis de natureza semelhante que devam ser assinados pelo Subdiretor.
 
-<strong>Art</strong>. 34. As Divisões tratam de:
+**Art**. 34. As Divisões tratam de:
 
-<em>a)</em>      a 1.ª Divisão (D. P. I. 1) - material de intendência, suprimentos e respectiva legislação;
+*a)*      a 1.ª Divisão (D. P. I. 1) - material de intendência, suprimentos e respectiva legislação;
 
-<em>b)</em>      a 2.ª Divisão (D. P. I. 2) - subsistência e legislação aplicável;
+*b)*      a 2.ª Divisão (D. P. I. 2) - subsistência e legislação aplicável;
 
-<em>c)</em>       a 3.ª Divisão (D. P. I. 3) - coletas de preços, concorrências, contratos, aquisições, mostruário e legislação respectiva.
+*c)*       a 3.ª Divisão (D. P. I. 3) - coletas de preços, concorrências, contratos, aquisições, mostruário e legislação respectiva.
 
 § 1.º Aos Chefes de Divisão incumbe:
 
@@ -642,120 +640,120 @@ Parágrafo único. Compete-lhe:
 
 4\) encaminhar os processo de concorrência e de coleta de preços.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Serviço de Intendência das Zonas Aéreas</em>
+*Do Serviço de Intendência das Zonas Aéreas*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Serviço de Intendência das Zinas Aéreas</em>
+*Do Serviço de Intendência das Zinas Aéreas*
 
-<strong>Art</strong>. 35. Os Serviços de Intendência das Zonas Aéreas (S. I. Z. Aer.) centralizam, dentro das respectivas Zonas, as questões e assuntos que digam respeito a finanças e provisões. Sob o ponto de vista administrativo e disciplinar ficam imediatamente subordinadas ao Comandante de Zona.
+**Art**. 35. Os Serviços de Intendência das Zonas Aéreas (S. I. Z. Aer.) centralizam, dentro das respectivas Zonas, as questões e assuntos que digam respeito a finanças e provisões. Sob o ponto de vista administrativo e disciplinar ficam imediatamente subordinadas ao Comandante de Zona.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DOS SERVIÇOS DE INTENDÊNCIA DOS ÓRGÃOS DA ALTA ADMINISTRAÇÃO E OUTROS</em>
+*DOS SERVIÇOS DE INTENDÊNCIA DOS ÓRGÃOS DA ALTA ADMINISTRAÇÃO E OUTROS*
 
-<strong>Art</strong>. 36. Os Serviços de Intendência (S. I.) das Diretorias, Subdiretorias, Escolas, Fábricas, Parques e demais estabelecimentos da Aeronáutica, centralizam, dentro das respectivas Unidades Administrativas, as questões e assuntos pertinentes a finanças, provisões e outros que lhe forem atribuídos. Ficam imediatamente subordinados aos agentes diretores dos órgãos a que estiverem afetos, sob o ponto de vista administrativo e disciplinar.
+**Art**. 36. Os Serviços de Intendência (S. I.) das Diretorias, Subdiretorias, Escolas, Fábricas, Parques e demais estabelecimentos da Aeronáutica, centralizam, dentro das respectivas Unidades Administrativas, as questões e assuntos pertinentes a finanças, provisões e outros que lhe forem atribuídos. Ficam imediatamente subordinados aos agentes diretores dos órgãos a que estiverem afetos, sob o ponto de vista administrativo e disciplinar.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DOS ÓRGÃOS DE EXECUÇÃO GERAL E REGIONAL</em>
+*DOS ÓRGÃOS DE EXECUÇÃO GERAL E REGIONAL*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Depósito Central de Intendência</em>
+*Do Depósito Central de Intendência*
 
-<strong>Art</strong>. 37. O Depósito Central de Intendência (D. C. I. Aer.) é o órgão encarregado de receber, armazenar e distribuir o material cuja provisão caiba ao S. I. Aer. É imediatamente subordinado à S/D. P. I. Aer.
+**Art**. 37. O Depósito Central de Intendência (D. C. I. Aer.) é o órgão encarregado de receber, armazenar e distribuir o material cuja provisão caiba ao S. I. Aer. É imediatamente subordinado à S/D. P. I. Aer.
 
 Parágrafo único. O Depósito é constituído de duas Seções: Material de Intendência (D. C. I. 1) e Subsistência (D. C. I. 2).
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DO REEMBOLSÁVEL CENTRAL DE INTENDÊNCIA</em>
+*DO REEMBOLSÁVEL CENTRAL DE INTENDÊNCIA*
 
-<strong>Art</strong>. 38. O Reembolsável Central de Intendência (R. C. I. Aer.) é o órgão encarregado de suprir as diferentes unidades da Aeronáutica e o seu pessoal de artigos e utilidades que lhes forem necessários.
+**Art**. 38. O Reembolsável Central de Intendência (R. C. I. Aer.) é o órgão encarregado de suprir as diferentes unidades da Aeronáutica e o seu pessoal de artigos e utilidades que lhes forem necessários.
 
 Parágrafo único. O R. C. I. Aer. é constituído de duas Seções: Material (R. C. I. 1) e Subsistência (R. C. I. 2). É subordinado diretamente à D. I. Aer.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>DOS DEPÓSITOS ESPECIAIS DE INTENDÊNCIA</em>
+*DOS DEPÓSITOS ESPECIAIS DE INTENDÊNCIA*
 
-<strong>Art</strong>. 29. Os Depósitos Especiais de Intendência (D. E. I. Aer.) são órgãos incumbidos de assegurar em situações especiais e em caráter transitório o provimentos de uma ou mais Unidades Aéreas no território nacional.
+**Art**. 29. Os Depósitos Especiais de Intendência (D. E. I. Aer.) são órgãos incumbidos de assegurar em situações especiais e em caráter transitório o provimentos de uma ou mais Unidades Aéreas no território nacional.
 
 Parágrafo único. Os D. E. I. Aer. serão organizados por dterminação do Ministro da Aeronáutica à medida que forem julgados necessários.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>DOS DEPÓSITOS DE INTENDÊNCIA DAS ZONAS AÉREAS</em>
+*DOS DEPÓSITOS DE INTENDÊNCIA DAS ZONAS AÉREAS*
 
-<strong>Art</strong>. 40. Os Depósitos de Intendência das Zonas Aéreas (D. I. Z. Aer.) são destinados a receber, armazenar e distribuir, nas respectivas Zonas, as provisões que lhes forem afetas. São imediatamente subordinados ao S. I. Z. Aer.
+**Art**. 40. Os Depósitos de Intendência das Zonas Aéreas (D. I. Z. Aer.) são destinados a receber, armazenar e distribuir, nas respectivas Zonas, as provisões que lhes forem afetas. São imediatamente subordinados ao S. I. Z. Aer.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>DOS DEPÓSITOS EM GERAL</em>
+*DOS DEPÓSITOS EM GERAL*
 
-<strong>Art</strong>. 41. Os Depósitos (D. C. I. Aer, D. E. I. Aer. e D. I. Z. Aer.) disporão do necessário aparelhamento (transporte próprio, câmara de imunização, etc.), para o perfeito desempenho de sua finalidade.
+**Art**. 41. Os Depósitos (D. C. I. Aer, D. E. I. Aer. e D. I. Z. Aer.) disporão do necessário aparelhamento (transporte próprio, câmara de imunização, etc.), para o perfeito desempenho de sua finalidade.
 
-<strong>Art</strong>. 42. Tôdas as Unidades Administrativas com sede em uma Zona Aérea são providas pelo Depósito da mesma Zona, com exceção da 3.ª Zona Aérea, que será suprida pelo D. C. I. Aer.
+**Art**. 42. Tôdas as Unidades Administrativas com sede em uma Zona Aérea são providas pelo Depósito da mesma Zona, com exceção da 3.ª Zona Aérea, que será suprida pelo D. C. I. Aer.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DOS ÓRGÃOS DE EXECUÇÃO LOCAL</em>
+*DOS ÓRGÃOS DE EXECUÇÃO LOCAL*
 
-<strong>SEÇÃO ÚNICA</strong>
+**SEÇÃO ÚNICA**
 
-<em>Das Formações de Intendência</em>
+*Das Formações de Intendência*
 
-<strong>Art</strong>. 43. As Formações de Intendência (F. I) são órgãos que se encarregam das questões da competência do S. I. Aer. nas Unidades Administrativas, fazendo parte integrante destas.
+**Art**. 43. As Formações de Intendência (F. I) são órgãos que se encarregam das questões da competência do S. I. Aer. nas Unidades Administrativas, fazendo parte integrante destas.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 44. O Ministro da Aeronáutica, em ato expresso, mediante proposta da D. I. Aer. ao E. M. Aer., determinará quais os estabelecimentos que serão providos de S. I. ou F. I.
+**Art**. 44. O Ministro da Aeronáutica, em ato expresso, mediante proposta da D. I. Aer. ao E. M. Aer., determinará quais os estabelecimentos que serão providos de S. I. ou F. I.
 
 Parágrafo único. Os órgãos do S. I. Aer., nas Unidades Administrativas, serão assim constituídos:
 
-<em>a)</em>      Tesouraria;
+*a)*      Tesouraria;
 
-<em>b)</em>      Almoxarifado;
+*b)*      Almoxarifado;
 
-<em>c)</em>       Aprovisionamento;
+*c)*       Aprovisionamento;
 
-<em>d)</em>      Reembolsável.
+*d)*      Reembolsável.
 
-<strong>Art</strong>. 45. O mecanismo de funcionamento dos órgãos do S. I. Aer. reger-se-á por Instruções baixadas pleo Ministro da Aeronáutica.
+**Art**. 45. O mecanismo de funcionamento dos órgãos do S. I. Aer. reger-se-á por Instruções baixadas pleo Ministro da Aeronáutica.
 
-<strong>Art</strong>. 46. Os órgãos do S. I. Aer. prestarão mútua colaboração de maneira a facilitar o perfeito desempenho de seus encargos especializados.
+**Art**. 46. Os órgãos do S. I. Aer. prestarão mútua colaboração de maneira a facilitar o perfeito desempenho de seus encargos especializados.
 
-<strong>Art</strong>. 47. As atribuições pertinentes aos órgãos do S. I. Aer. são privativas dos oficias do respectivo Quadro.
+**Art**. 47. As atribuições pertinentes aos órgãos do S. I. Aer. são privativas dos oficias do respectivo Quadro.
 
-<strong>Art</strong>. 48. A movimentação dos oficias do Quadro de Oficiais Intendentes de Aeronáutica será proposta pela Diretoria do Pessoal, com audiência do Diretor Geral de Intendência.
+**Art**. 48. A movimentação dos oficias do Quadro de Oficiais Intendentes de Aeronáutica será proposta pela Diretoria do Pessoal, com audiência do Diretor Geral de Intendência.
 
-<strong>Art</strong>. 49. O pessoal subalterno e os civis, necessários aos órgãos do S. I. Aer., constarão dos Quadros de Efetivos, lotação e tabelas respectivas.
+**Art**. 49. O pessoal subalterno e os civis, necessários aos órgãos do S. I. Aer., constarão dos Quadros de Efetivos, lotação e tabelas respectivas.
 
-<strong>Art</strong>. 50. A D. I. Aer. manterá uma Revista para difusão de conhecimentos especializados e técnicos, inclusive os ministrados nos estabelecimentos de ensino da Aeronáutica.
+**Art**. 50. A D. I. Aer. manterá uma Revista para difusão de conhecimentos especializados e técnicos, inclusive os ministrados nos estabelecimentos de ensino da Aeronáutica.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 51. As Subdiretorias de Finanças, de Provisões de Intendência e a Divisão Legal, de que trata o presente Regulamento, serão constituídas, respectivamente pelas atuais Divisões de Finanças e de Provisões de Intendência e pela 3.ª Seção da Divisão de Finanças, automaticamente extintas.
+**Art**. 51. As Subdiretorias de Finanças, de Provisões de Intendência e a Divisão Legal, de que trata o presente Regulamento, serão constituídas, respectivamente pelas atuais Divisões de Finanças e de Provisões de Intendência e pela 3.ª Seção da Divisão de Finanças, automaticamente extintas.
 
-<strong>Art</strong>. 52. Enquanto não fôr aprovado o Regimento do S. I. Aer. ser-lhe-á aplicável, no que não colidir com êste Regulamento, o Regimento baixado com a Portaria n.º 234, de 10 de junho de 1946.
+**Art**. 52. Enquanto não fôr aprovado o Regimento do S. I. Aer. ser-lhe-á aplicável, no que não colidir com êste Regulamento, o Regimento baixado com a Portaria n.º 234, de 10 de junho de 1946.
 
-<strong>Art</strong>. 53. O atual Tesoureiro padrão N, enquanto permanecer  em suas atividades próprias, exercerá as funções de que trata o art. 28.
+**Art**. 53. O atual Tesoureiro padrão N, enquanto permanecer  em suas atividades próprias, exercerá as funções de que trata o art. 28.
 
-<strong>Art</strong>. 54. Enquanto não fôr reestruturado o Quadro de Oficiais Intendentes da Aeronáutica, as funções de Chefe das Divisões poderão ser também exercidas por Tenente-Coronel e as dêste por Major.
+**Art**. 54. Enquanto não fôr reestruturado o Quadro de Oficiais Intendentes da Aeronáutica, as funções de Chefe das Divisões poderão ser também exercidas por Tenente-Coronel e as dêste por Major.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DAS DISPOSIÇÕES FINAIS</em>
+*DAS DISPOSIÇÕES FINAIS*
 
-<strong>Art</strong>. 55. Êste Regulamento entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 55. Êste Regulamento entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de novembro de 1948.
 
-<strong>ARMANDO TROMPOWSKY</strong>
+**ARMANDO TROMPOWSKY**

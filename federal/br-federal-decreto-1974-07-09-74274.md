@@ -1,5 +1,3 @@
-###DEC-074274-0-000-09-07-1974@@@
-
 DECRETO Nº 74.274 - DE 9 DE JULHO DE 1974
 
 Torna sem efeito aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal de Minas Gerais e cassa a disponibilidade do mesmo.

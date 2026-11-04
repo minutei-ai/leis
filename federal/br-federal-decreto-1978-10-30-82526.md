@@ -1,5 +1,3 @@
-###DEC-082526-0-000-30-10-1978@@@
-
 Decreto nº 82 526, de 30 de outubro de 1978.
 
 Autoriza o funcionamento do curso de Farmácia, da Faculdade de Farmácia e Bioquímica de Presidente Prudente, com sede na cidade de Presidente Prudente, Estado de São Paulo.

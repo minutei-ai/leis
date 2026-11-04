@@ -1,5 +1,3 @@
-###DEC-052665-0-000-11-10-1963@@@
-
 DECRETO Nº 52.665, DE 11 DE OUTUBRO DE 1963.
 
 Aprova o Regimento do Conselho Nacional de Proteção aos Índios, do Ministério da Agricultura.

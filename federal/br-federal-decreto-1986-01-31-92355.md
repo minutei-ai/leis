@@ -1,5 +1,3 @@
-###DEC-092355-0-000-31-01-1986@@@
-
 DECRETO Nº 92.355, DE 31 DE JANEIRO DE 1986
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Pedagogia da Universidade Estadual de Maringá.

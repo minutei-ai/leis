@@ -1,5 +1,3 @@
-###DEC-091192-0-000-11-04-1985@@@
-
 Decreto nº 91.192 de 11 de abril de 1985.
 
 Inclui representante do Programa Nacional de Desburocratização no Grupo Especial para Assuntos de Calamidades Públicas (GEACAP).

@@ -1,5 +1,3 @@
-###DEC-081719-0-000-23-05-1978@@@
-
 Decreto nº 81.719, de 23 de maio de 1978
 
 Renova por 10 (dez) anos a concessão outorgada à Superintendência das Empresas Incorporadas ao Patrimônio Nacional - SEIPAN para que a Rádio Excelsior S.A. passe a executar o serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de São Paulo.

@@ -1,44 +1,42 @@
-###DEC-058550-0-000-30-05-1966@@@
+**DECRETO Nº 58.550, DE 30 DE MAIO DE 1966.**
 
-<strong>DECRETO Nº 58.550, DE 30 DE MAIO DE 1966.</strong>
+***Aprova o Regimento do Departamento Nacional de Mão-de-Obra do Ministério do Trabalho e Previdência Social.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Mão-de-Obra do Ministério do Trabalho e Previdência Social.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista o disposto no art. 7º da Lei nº 4.923, de 23 de dezembro de 1965,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e tendo em vista o disposto no art. 7º da Lei nº 4.923, de 23 de dezembro de 1965,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Mão-de-Obra (DNMO) do Ministério do Trabalho e Previdência Social, que com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Mão-de-Obra (DNMO) do Ministério do Trabalho e Previdência Social, que com êste baixa, assinado pelo respectivo Ministro de Estado.
-
-<strong>Art</strong>. 2º O Ministro do Trabalho e Previdência Social submeterá à aprovação do Presidente da República, dentro do prazo de 30 (trinta) dias, o orçamento sintético da despesa com a instalação e o funcionamento do DNMO a ser atendida à conta dos recursos mencionados no art. 9º da Lei nº 4.923, de 23 de dezembro de 1965.
+**Art**. 2º O Ministro do Trabalho e Previdência Social submeterá à aprovação do Presidente da República, dentro do prazo de 30 (trinta) dias, o orçamento sintético da despesa com a instalação e o funcionamento do DNMO a ser atendida à conta dos recursos mencionados no art. 9º da Lei nº 4.923, de 23 de dezembro de 1965.
 
 § 1º Caberá ao referido Ministro de Estado aprovar o orçamento analítico a ser elaborado de acôrdo com as normas regulamentares vigentes, de cuja execução se prestará contas ao Tribunal de Contas da União, observadas as normas do Código de Contabilidade e leis posteriores.
 
 § 2º Até que se ultimem as providências de que trata êste artigo e seu § 1º, a despesa com o pagamento do pessoal do DNMO, compreendendo os servidores referidos no art. 28 da Lei nº 4.589, de 11 de dezembro de 1964, os ocupantes dos cargos em comissão criados pelo art. 25 da mesma lei e pelo art. 7º da Lei nº 4.923, de 23 de dezembro de 1965, bem como as funções gratificadas a serem criadas em consonância com a estrutura regimental aprovada por êste decreto, poderá ser realizada independentemente daquelas exigências, observado o disposto quanto à prestação de contas.
 
-<strong>Art</strong>. 3º As despesas com os serviços, as atribuições e os bens incorporados ao M.T.P.S. por força da Lei 4.504, de 30 novembro de 1964, serão atendidas  no corrente exercício, à conta dos recursos orçamentários próprios do referido Ministério.
+**Art**. 3º As despesas com os serviços, as atribuições e os bens incorporados ao M.T.P.S. por força da Lei 4.504, de 30 novembro de 1964, serão atendidas  no corrente exercício, à conta dos recursos orçamentários próprios do referido Ministério.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 30 de maio de 1966; 145º da Independência e 78º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Walter Peracchi Barcellos
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DE MÃO-DE-OBRA (DNMO)</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DE MÃO-DE-OBRA (DNMO)**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O D.N.M.O., diretamente subordinado ao Ministro de Estado, é órgão normativa do Ministério do Trabalho e Previdência Social e tem por fim estudar o mercado de trabalho em todo o país, examinando as condições da oferta e procura de mão-de-obra, a abertura de frentes de trabalho para atender à explosão demográfica anual, os problemas de colocação, da formação profissional, das migrações internas e imigração e da identificação profissional.
+**Art**. 1º O D.N.M.O., diretamente subordinado ao Ministro de Estado, é órgão normativa do Ministério do Trabalho e Previdência Social e tem por fim estudar o mercado de trabalho em todo o país, examinando as condições da oferta e procura de mão-de-obra, a abertura de frentes de trabalho para atender à explosão demográfica anual, os problemas de colocação, da formação profissional, das migrações internas e imigração e da identificação profissional.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Departamento Nacional de Mão-de-Obra (DNMO) compreende:
+**Art**. 2º O Departamento Nacional de Mão-de-Obra (DNMO) compreende:
 
 I - Conselho Consultivo de Mão-de-Obra (C.C.M.O.)
 
@@ -52,13 +50,13 @@ V - Divisão de Identificação e Registro Profissional (D.I.R.)
 
 VI - Divisão de Administração (Dv. A.)
 
-<strong>Art</strong>. 3º O Conselho Consultivo de Mão-de-Obra (C.C.M.O.) compreende:
+**Art**. 3º O Conselho Consultivo de Mão-de-Obra (C.C.M.O.) compreende:
 
 a) Plenário (Pl.)
 
 b) Secretário-Geral (S.G.)
 
-<strong>Art</strong>. 4º A Divisão de Estudos do Mercado de Trabalho (D.E.M.) compreende:
+**Art**. 4º A Divisão de Estudos do Mercado de Trabalho (D.E.M.) compreende:
 
 a) Seção de Análise de Mercado no Trabalho (D.E.M. - 1)
 
@@ -68,7 +66,7 @@ c) Seção de Normas Educacionais e Aprendizado (D.E.M. - 3)
 
 d) Seção de Coordenação de Órgão Nacionais e Internacionais (D.E.M. - 4).
 
-<strong>Art</strong>. 5º A Divisão de Colocação e Formação Profissional (D.C.F.) compreende:
+**Art**. 5º A Divisão de Colocação e Formação Profissional (D.C.F.) compreende:
 
 a) Seção de Registro de Emprêgo e Desemprêgo (D.C.F. - 1)
 
@@ -76,7 +74,7 @@ b)Seção de Colocação e Assistência ao Desemprêgo (D.C.F. - 2)
 
 c) Seção de Classificação e Formação Profissional (D.C.F. - 3)
 
-<strong>Art</strong>. 6º a Divisão de Migração (D.Mg.) compreende:
+**Art**. 6º a Divisão de Migração (D.Mg.) compreende:
 
 a) Seção de Migração Interna (D.Mg. - 1)
 
@@ -84,7 +82,7 @@ b) Seção de Postos Hospedarias e Transportes (D.Mg. - 2)
 
 c) Seção de Imigração (D.Mg. - 3)
 
-<strong>Art</strong>. 7º A Divisão de Identificação e Registro Profissional (D.I.R.) compreende:
+**Art**. 7º A Divisão de Identificação e Registro Profissional (D.I.R.) compreende:
 
 a) Seção de Registro e Cadastro Profissional (D.I.R. - 1)
 
@@ -92,7 +90,7 @@ b) Seção Datiloscópia (D.I.R. - 2)
 
 c) Seção de Carteiras Profissionais (D.I.R. - 3)
 
-<strong>Art</strong>. 8º A Divisão de Administração (Dv. A.) compreende:
+**Art**. 8º A Divisão de Administração (Dv. A.) compreende:
 
 a) Seção de Pessoal (Dv.A - 1)
 
@@ -114,37 +112,37 @@ c) Turma de Transportes (T.T.)
 
 d) Portaria (P)
 
-<strong>Art</strong>. 9º O Departamento Nacional de Mão-de-Obra será dirigido por um Diretor-Geral, nomeado, em comissão, pelo Presidente da República, dentre pessoas de notória competência e que satisfaçam os requisitos gerais para investidura no serviço público.
+**Art**. 9º O Departamento Nacional de Mão-de-Obra será dirigido por um Diretor-Geral, nomeado, em comissão, pelo Presidente da República, dentre pessoas de notória competência e que satisfaçam os requisitos gerais para investidura no serviço público.
 
 Parágrafo único. O Diretor-Geral será auxiliado por 4 (Quatro) Assessôres e 3 (três) Auxiliares, e terá um Secretário.
 
-<strong>Art</strong>. 10. O Conselho Consultivo de Mão-de-Obra funcionará junto ao D.N.M.O., sob a presidência do respectivo Diretor-Geral, e será constituído dos representantes titulares de que trata o art. 5º da Lei nº 4.589, de 11 de dezembro de 1964, os quais terão suplentes previamente desafinados.
+**Art**. 10. O Conselho Consultivo de Mão-de-Obra funcionará junto ao D.N.M.O., sob a presidência do respectivo Diretor-Geral, e será constituído dos representantes titulares de que trata o art. 5º da Lei nº 4.589, de 11 de dezembro de 1964, os quais terão suplentes previamente desafinados.
 
 Parágrafo único. O Conselho consultivo de Mão-de-Obra terá 1 (um) Assessor e 2 (dois) Auxiliares.
 
-<strong>Art</strong>. 11. A Secretária Geral do Conselho de Mão-de-obra será dirigida por um Secretário-Geral designado pelo Presidente dêste.
+**Art**. 11. A Secretária Geral do Conselho de Mão-de-obra será dirigida por um Secretário-Geral designado pelo Presidente dêste.
 
-<strong>Art</strong>. 12. As Divisões serão dirigidas por Diretores, nomeados, em comissão pelo Presidente da República, dentre funcionários que tenham dado prova de sua eficiência e capacidade e mediante indicação do Ministro do Estado.
+**Art**. 12. As Divisões serão dirigidas por Diretores, nomeados, em comissão pelo Presidente da República, dentre funcionários que tenham dado prova de sua eficiência e capacidade e mediante indicação do Ministro do Estado.
 
 Parágrafo único. Os Diretores de Divisão serão auxiliados por 1 (um) Assistente e terão, cada um, um Secretário.
 
-<strong>Art</strong>. 13. As Seção terão, Chefes designados pelo Diretor-Geral.
+**Art**. 13. As Seção terão, Chefes designados pelo Diretor-Geral.
 
 Parágrafo único. Os Encarregados de Turmas serão designados pelo Diretor da Divisão a que forem subordinados.
 
-<strong>Art</strong>. 14. Os Órgãos que integram o D.N.M.O. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a supervisão do Diretor-Geral.
+**Art**. 14. Os Órgãos que integram o D.N.M.O. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a supervisão do Diretor-Geral.
 
-<strong>Art</strong>. 15. A delimitação das competências das Seções e Turmas não impedirá a redistribuirão temporária do trabalho, de forma diversa da estabelecida neste Regimento, quando se fizer necessário.
+**Art**. 15. A delimitação das competências das Seções e Turmas não impedirá a redistribuirão temporária do trabalho, de forma diversa da estabelecida neste Regimento, quando se fizer necessário.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Conselho Consultivo de Mão-de-Obra</em>
+*Do Conselho Consultivo de Mão-de-Obra*
 
-<strong>Art</strong>. 16. Ao Conselho Consultivo de Mão-de-Obra compete, através do Plenários:
+**Art**. 16. Ao Conselho Consultivo de Mão-de-Obra compete, através do Plenários:
 
 a) opinar sôbre os planos e estudos que lhe forem submetidos pelo Diretor-Geral do D.N.M.O.;
 
@@ -158,11 +156,11 @@ e) elaborar e aprovar seu Regimento Interno.
 
 Parágrafo único. A Secretaria Geral do Conselho Consultivo de Mão-de-Obra compete elaborar os trabalhos recomendados pelo Plenário, preparar a correspondência oficial do Conselho, prestar-lhe informações quando solicitadas, manter contrôle sôbre a sua documentação e providenciar a respeito da matéria a ser divulgada.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Divisão de Estudos do Mercado de Trabalho</em>
+*Da Divisão de Estudos do Mercado de Trabalho*
 
-<strong>Art</strong>. 17. A Divisão de Estudos do Mercado de Trabalho compete executar as seguintes atividades relacionadas com a pesquisa e análise do mercado de trabalho, inclusive mediante intercâmbio com instituições internacionais:
+**Art**. 17. A Divisão de Estudos do Mercado de Trabalho compete executar as seguintes atividades relacionadas com a pesquisa e análise do mercado de trabalho, inclusive mediante intercâmbio com instituições internacionais:
 
 A) através da Seção de Análise do Mercado de Trabalho:
 
@@ -196,11 +194,11 @@ II - Organizar o cadastro de órgãos internacionais e os dos países que se inc
 
 III - obter, analisar e sintetizar as normas legais e administrativas dos organismos internacionais ou de outros países que se incumbem dos problemas de mão-de-obra.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Divisão de Colocação e Formação Profissional</em>
+*Da Divisão de Colocação e Formação Profissional*
 
-<strong>Art</strong>. 18. A Divisão de Colocação e Formação Profissional compete executar as seguintes atividades relacionadas com a organização do cadastro geral de empregos e da mão-de-obra disponível, assistência ao desemprêgo e formação profissional:
+**Art**. 18. A Divisão de Colocação e Formação Profissional compete executar as seguintes atividades relacionadas com a organização do cadastro geral de empregos e da mão-de-obra disponível, assistência ao desemprêgo e formação profissional:
 
 A) através da Seção de Registro de Emprêgo e Desemprêgo:
 
@@ -234,11 +232,11 @@ V - Estudar normas e diretrizes para a formação profissional, utilizando a exp
 
 VI - Estudar, elaborar ou opinar sôbre textos de convênio para a cooperação de órgãos nacionais ou internacionais, relativos à assistência técnica ou financeira para a formação profissional.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Divisão de Migração</em>
+*Da Divisão de Migração*
 
-<strong>Art</strong>. 19. A Divisão de Migração compete executar as seguintes atividades relacionadas com a pesquisa das correntes migratórias, orientação e mobilização da mão-de-obra imigrante, e com a assistência por meio de postos migratórios e hospedarias:
+**Art**. 19. A Divisão de Migração compete executar as seguintes atividades relacionadas com a pesquisa das correntes migratórias, orientação e mobilização da mão-de-obra imigrante, e com a assistência por meio de postos migratórios e hospedarias:
 
 A) Através da Seção de Migração Interna:
 
@@ -272,7 +270,7 @@ C) Através da Seção de Imigração:
 
 I - Estudar, orientar e coordenar a imigração interna e a imigração em geral em face da legislação vigente, especialmente tendo em vista a legislação agrária;
 
-II - Estudar o problema imigratório, pesquisando e levantando os dados de suplementação de mão-de-obra nacional com a importação do “<em>Know</em>\-<em>how</em>”, orientando a imigração para os pontos de destino e mantendo estreita ligação com os demais órgãos federais do Ministério da Relações Exteriores e do Ministério da Agricultura;
+II - Estudar o problema imigratório, pesquisando e levantando os dados de suplementação de mão-de-obra nacional com a importação do “*Know*\-*how*”, orientando a imigração para os pontos de destino e mantendo estreita ligação com os demais órgãos federais do Ministério da Relações Exteriores e do Ministério da Agricultura;
 
 III - Estudar o problema imigratório, a entrada, fixação e assimilação dos diversos grupos étnicos entrados no país;
 
@@ -280,11 +278,11 @@ IV - Elaborar as diretrizes para a seleção e ocupação dos imigrantes, em coo
 
 V - Manter em dia as estatísticas de entrada de imigrantes, bem como de transformação dos temporários em permanentes, das naturalizações e das expulsões.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Divisão de Idendificação e Registro Profissional</em>
+*Da Divisão de Idendificação e Registro Profissional*
 
-<strong>Art</strong>. 20. A Divisão de Identificação e Registro Profissional compete executar as seguintes atividades relacionadas com o registro profissional o arquivo datiloscópico e com a expedição de carteiras profissionais;
+**Art**. 20. A Divisão de Identificação e Registro Profissional compete executar as seguintes atividades relacionadas com o registro profissional o arquivo datiloscópico e com a expedição de carteiras profissionais;
 
 A) Através da Seção de Registro e Cadastro Profissional:
 
@@ -314,11 +312,11 @@ II - Propor as medidas que visem ao contrôle da expedição de carteiras profis
 
 III - Dar assistência técnica aos órgãos regionais para maior eficiência do serviço e do contrôle de expedição dos documentos.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da Divisão de Administração</em>
+*Da Divisão de Administração*
 
-<strong>Art</strong>. 21. A Divisão de Administração compete executar as seguintes atividades relacionadas com a administração de pessoal, material e orçamento e com a documentação e serviços gerais:
+**Art**. 21. A Divisão de Administração compete executar as seguintes atividades relacionadas com a administração de pessoal, material e orçamento e com a documentação e serviços gerais:
 
 a) através da Seção do Pessoal:
 
@@ -398,7 +396,7 @@ III - Orientar o público quanto ao modo de apresentar requerimentos, sugestões
 
 IV - Dar aos interessados conhecimento de decisões proferidas em processos;
 
-V - Providenciar a publicação no <em>Diário</em> <em>Oficial</em>, do expediente que para êsse fim lhe fôr encaminhado;
+V - Providenciar a publicação no *DiárioOficial*, do expediente que para êsse fim lhe fôr encaminhado;
 
 VI - Manter cópias dos atos expedidos pelo D.N.M.O.
 
@@ -428,11 +426,11 @@ IV - Manter vigilância sôbre a abertura e fechamento da repartição;
 
 V - Zelar pela entrega aos setores competentes, da correspondência que receber.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 22. Ao Diretor-Geral do Departamento Nacional de Mão-de-Obra incumbe:
+**Art**. 22. Ao Diretor-Geral do Departamento Nacional de Mão-de-Obra incumbe:
 
 I - Supervisionar e orientar as atividades do D.N.M.O.;
 
@@ -444,7 +442,7 @@ IV - Baixar instruções técnicas em matéria da competência do D.N.M.O., às 
 
 V - Inspecionar os trabalhos e fiscalizar o cumprimento da legislação de mão-de-obra;
 
-VI - Julgar, em segunda instância, os recursos voluntários e “<em>ex</em> <em>officio</em>” das decisões proferidas pelos Delegados Regionais do Trabalho e pelos Diretores de Divisão sôbre a observância das normas legais de competência do D.N.M.O.;
+VI - Julgar, em segunda instância, os recursos voluntários e “*exofficio*” das decisões proferidas pelos Delegados Regionais do Trabalho e pelos Diretores de Divisão sôbre a observância das normas legais de competência do D.N.M.O.;
 
 VII - Despachar com o Ministro de Estado;
 
@@ -468,7 +466,7 @@ XVI - Expedir boletins de merecimento;
 
 XVII - Apresentar anualmente o relatório dos trabalhos realizados pelo D.N.M.O.
 
-<strong>Art</strong>. 23. Aos Assessôres do Diretor-Geral incumbe:
+**Art**. 23. Aos Assessôres do Diretor-Geral incumbe:
 
 I - Opinar no processos que constituem matéria técnica e administrativa e que forem submetidos à sua apreciação;
 
@@ -484,7 +482,7 @@ VI - Elaborar projetos de convênios, leis, decretos, portarias e outras medidas
 
 VII - Manter organizado seu fichário e coletânea de leis, decretos ou outros atos que interessem ao D.N.M.O.
 
-<strong>Art</strong>. 24. Ao Secretário do Diretor-Geral incumbe:
+**Art**. 24. Ao Secretário do Diretor-Geral incumbe:
 
 I - Atender às pessoas que desejarem comunicar-se com o Diretor-Geral, encaminhado-as ou dando ciência do assunto a tratar;
 
@@ -498,7 +496,7 @@ VI - Apresentar ao Diretor-Geral os processos em trânsito no Gabinete e os que 
 
 VIII - Coordenar o mecanismo administrativo do Gabinete do Diretor-Geral e manter contrôle sôbre os assuntos tratados.
 
-<strong>Art</strong>. 25. Ao Secretário-Geral do Conselho Consultivo de Mão-de-Obra incumbe:
+**Art**. 25. Ao Secretário-Geral do Conselho Consultivo de Mão-de-Obra incumbe:
 
 I - Secretário as reuniões do Conselho, registrando os assuntos debatidos, anotando as conclusões;
 
@@ -512,7 +510,7 @@ V - Prestar ao Plenário, sempre que solicitado, as informações de ordem técn
 
 VI - Cuidar das publicação do Conselho , mantendo em dia os trabalhos de divulgação e informação, oriundos da deliberação do Plenário.
 
-<strong>Art</strong>. 26. Ao Assessor do Conselho Consultivo de Mão-de-Obra incumbe;
+**Art**. 26. Ao Assessor do Conselho Consultivo de Mão-de-Obra incumbe;
 
 I - Opinar nos processos submetidos à sua apreciação, pondo em destaque a matéria a ser discutida em Plenário e votada;
 
@@ -524,7 +522,7 @@ IV - Prestar assistência aos Conselheiros, providenciando e diligenciando sôbr
 
 V - Manter em dia o fichário e a coletânea de leis decretos e outros atos que interessam ao Conselho.
 
-<strong>Art</strong>. 27. Aos Diretores de Divisão incumbe:
+**Art**. 27. Aos Diretores de Divisão incumbe:
 
 I - Dirigir, coordenar e fiscalizar os trabalhos a cargo da Divisão;
 
@@ -564,17 +562,17 @@ XVIII - Apresentar, periodicamente, os estudos e dados de levantamentos necessá
 
 XIX - Apresentar, anualmente, ao Diretor-Geral o relatório geral dos trabalhos, pesquisas e estudos realizados pela Divisão.
 
-<strong>Art</strong>. 28. Ao Diretor da Divisão de Administração incumbe ainda:
+**Art**. 28. Ao Diretor da Divisão de Administração incumbe ainda:
 
 I - Cumprir e fazer cumprir, observadas as peculiaridades do D.N.M.O. as normas e diretrizes adotadas pelo DASP com relação ao pessoal, material, orçamento e organização administrativa, mantendo estreita cooperação com os órgãos técnicos daquele Departamento;
 
 II - Organizar a escala de férias do pessoal da Divisão, bem como de todo o funcionalismo do D.N.M.O., submetendo-a à aprovação do Diretor-Geral;
 
-III - Elaborar os atos administrativos de designação e dispensa de funções que serão assinados pelo Diretor-Geral e pelos demais Diretores de Divisão providenciando as respectivas comunicações aos órgãos do Departamento de Administração, bem como a publicação no <em>Diário</em> <em>Oficial</em> da União;
+III - Elaborar os atos administrativos de designação e dispensa de funções que serão assinados pelo Diretor-Geral e pelos demais Diretores de Divisão providenciando as respectivas comunicações aos órgãos do Departamento de Administração, bem como a publicação no *DiárioOficial* da União;
 
 IV - Encaminhar a freqüência geral ao órgão do pessoal do Ministério.
 
-<strong>Art</strong>. 29. Aos Chefes de Seção e de Turma incumbe:
+**Art**. 29. Aos Chefes de Seção e de Turma incumbe:
 
 I - Orientar a Seção ou a Turma a seu cargo, coordenação a ação dos funcionários, distribuindo as tarefas e fiscalizando a execução dos serviços;
 
@@ -594,7 +592,7 @@ VIII - Controlar os relatórios de produção; e
 
 IX - Apresentar regularmente ao Diretor da Divisão ou ao Chefe da Seção os relatórios parciais e anuais das atividades do setor sob sua responsabilidade.
 
-<strong>Art</strong>. 30. Aos Assistentes dos Diretores de Divisão incumbe:
+**Art**. 30. Aos Assistentes dos Diretores de Divisão incumbe:
 
 I - Estudar e dar parecer sôbre os processos de natureza técnica ou administrativa a cargo da Divisão que lhe sejam distribuídos;
 
@@ -608,7 +606,7 @@ V - Assessorar na elaboração de projetos de acordos e convênios de qualquer n
 
 VI - Apresentar ao Diretor da Divisão relatórios parciais e anuais, sôbre todos os trabalhos a seu cargo.
 
-<strong>Art</strong>. 31. Aos Secretários dos Diretores de Divisão incumbe:
+**Art**. 31. Aos Secretários dos Diretores de Divisão incumbe:
 
 I - Atender às pessoas que desejarem comunicar-se com o respectivo Diretor, encaminhando-as ou dando a êste ciência do assunto a tratar;
 
@@ -620,7 +618,7 @@ IV - Apresentar ao Diretor os processos em trânsito na Divisão e os que não d
 
 V - Auxiliar o Diretor na coordenação dos trabalhos das seções, com relação à distribuição do pessoal e do material.
 
-<strong>Art</strong>. 32. Ao Chefe de Portaria incumbe:
+**Art**. 32. Ao Chefe de Portaria incumbe:
 
 I - Zelar pelo cumprimento das ordens que expedir ou receber sôbre a correspondência entregue à Portaria;
 
@@ -630,27 +628,27 @@ III - Fiscalizar o serviço de vigilância sôbre a entrada e saída de pessoas 
 
 IV - orientar e controlar os demais trabalhos de que forem incumbidos os servidores sob sua chefia.
 
-<strong>Art</strong>. 33. Aos Auxiliares e aos demais servidores que não tenham atribuições especificadas neste regimento, cumpre realizar os trabalhos que lhes forem determinados pelos seus superiores.
+**Art**. 33. Aos Auxiliares e aos demais servidores que não tenham atribuições especificadas neste regimento, cumpre realizar os trabalhos que lhes forem determinados pelos seus superiores.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 34. Os serviços a cargo do D.N.M.O. serão executados por servidores pertencentes à sua lotação, pelos legalmente requisitados e por pessoal admitido na forma da legislação em vigor.
+**Art**. 34. Os serviços a cargo do D.N.M.O. serão executados por servidores pertencentes à sua lotação, pelos legalmente requisitados e por pessoal admitido na forma da legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 35. O horário normal de trabalho dos servidores do D.N.M.O. será fixado pelas autoridades a que estejam subordinados, observados os limites semanais ou mensais estabelecidos para o serviço público civil.
+**Art**. 35. O horário normal de trabalho dos servidores do D.N.M.O. será fixado pelas autoridades a que estejam subordinados, observados os limites semanais ou mensais estabelecidos para o serviço público civil.
 
 Parágrafo único. Não ficam sujeitos a ponto o Diretor-Geral e os Diretores de Divisão.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 36. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais:
+**Art**. 36. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais:
 
 I - O Diretor-Geral por um Diretor de Divisão, por êle indicado e designado pelo Ministro de Estado;
 
@@ -660,26 +658,26 @@ III - Os Chefes de Seção por servidor designado pelo Diretor-Geral, mediante i
 
 Parágrafo único. Haverá sempre funcionários previamente designados para as substituições a que se refere êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 37. Os cargos de Diretor-Geral do Departamento e de Diretor de Divisão são os constantes das Leis número 4.589, de 11 de dezembro de 1964, e 4.923, de 23 de dezembro de 1965.
+**Art**. 37. Os cargos de Diretor-Geral do Departamento e de Diretor de Divisão são os constantes das Leis número 4.589, de 11 de dezembro de 1964, e 4.923, de 23 de dezembro de 1965.
 
-<strong>Art</strong>. 38. Os membros integrantes do Conselho Consultivo do D.N.M.O. farão jus a uma gratificação de presença para um mínimo de 4 (quatro) sessões a que comparecem até o máximo mensal correspondente ao salário-mínimo de maior valor no País (Lei nº 4.589-64, art. 7º).
+**Art**. 38. Os membros integrantes do Conselho Consultivo do D.N.M.O. farão jus a uma gratificação de presença para um mínimo de 4 (quatro) sessões a que comparecem até o máximo mensal correspondente ao salário-mínimo de maior valor no País (Lei nº 4.589-64, art. 7º).
 
 Parágrafo único. Os suplentes só perceberão gratificação, quando substituírem os titulares e por sessão a que comparecerem.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Disposições Transitórias</em>
+*Disposições Transitórias*
 
-<strong>Art</strong>. 39. Ao D.N.M.O. compete a administração das hospedarias e dos postos de migração e de colocação que faziam parte da extinta Superintendência de Política Agrária e foram incorporados ao MTPS, na forma do art. 116 da Lei nº 4.504, de 30 de novembro de 1964.
+**Art**. 39. Ao D.N.M.O. compete a administração das hospedarias e dos postos de migração e de colocação que faziam parte da extinta Superintendência de Política Agrária e foram incorporados ao MTPS, na forma do art. 116 da Lei nº 4.504, de 30 de novembro de 1964.
 
 Parágrafo único. O Ministro de Estado designará uma Comissão para receber o patrimônio transferido e propor as medidas necessárias à sua utilização no cumprimento dos programas de trabalho a cargo do mencionado Departamento.
 
-<strong>Art</strong>. 40. A organização prevista no presente Regimento poderá ser implantada gradativamente, de modo que os órgãos básicos, inicialmente, acumulem as funções dos demais cuja instalação não ocorra de imediato, tudo de acôrdo com as necessidades do serviço e a critério do Ministro de Estado, que expedirá as instruções necessárias.
+**Art**. 40. A organização prevista no presente Regimento poderá ser implantada gradativamente, de modo que os órgãos básicos, inicialmente, acumulem as funções dos demais cuja instalação não ocorra de imediato, tudo de acôrdo com as necessidades do serviço e a critério do Ministro de Estado, que expedirá as instruções necessárias.
 
 Brasília, 30 de maio de 1966.
 
-<strong>WALTER PERACCHI BARCELLOS</strong>
+**WALTER PERACCHI BARCELLOS**

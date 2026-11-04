@@ -1,5 +1,3 @@
-###DEL-006300-0-000-29-02-1944@@@
-
 DECRETO-LEI N. 6.300 – DE 29 DE FEVEREIRO DE 1944
 
 Promove ao pôsto de Coronel e transfere para a reserva o Tenente-Coronel mais antigo do Corpo de Intendentes

@@ -1,5 +1,3 @@
-###DEC-045603-0-000-24-03-1959@@@
-
 DECRETO Nº 45.603 DE 24 DE MARÇO DE 1959.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 5.000.000,00 para o fim que especifica.

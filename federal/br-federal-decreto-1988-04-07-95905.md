@@ -1,5 +1,3 @@
-###DEC-095905-0-000-07-04-1988@@@
-
 DECRETO N° 95.905, DE 07 DE ABRIL DE 1988
 
 Delega competência para a prática dos atos que menciona e dá outra providencia.

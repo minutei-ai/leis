@@ -1,5 +1,3 @@
-###DEC-064748-0-000-27-06-1969@@@
-
 DECRETO Nº 64.748, DE 27 DE JUNHO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargos originários da extinta autarquia Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

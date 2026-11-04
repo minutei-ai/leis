@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212355)<br>
-
 # LEI N° 18.426, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 1551/2023, dos Deputados Lucas Bove - PL, Tomé Abduch - REPUBLICANOS, Gil Diniz Bolsonaro - PL, Major Mecca - PL e Dirceu Dalben - CIDADANIA)

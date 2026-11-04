@@ -42,4 +42,30 @@ SISTEMA POLICIAL CIVIL DE CARREIRA PROFISSIONAL
 
 QUANTITATIVO DE CARGOS NA CLASSE INICIAL
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 240.9pt; border: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">CARGO</p></td><td style="width: 64.3pt; border: solid black 1.0pt; mso-border-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">CLASSE III</p></td></tr><tr><td style="width: 240.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">INVESTIGADOR DE POLÍCIA CIVIL</p></td><td style="width: 64.3pt; border: solid black 1.0pt; border-top: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; mso-border-right-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">2.880</p></td></tr><tr><td style="width: 240.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">ESCRIVÃO DE POLÍCIA CIVIL</p></td><td style="width: 64.3pt; border: solid black 1.0pt; border-top: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; mso-border-right-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">300</p></td></tr><tr><td style="width: 240.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">PERITO TÉCNICO DE POLÍCIA CIVIL</p></td><td style="width: 64.3pt; border: solid black 1.0pt; border-top: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; mso-border-right-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">416</p></td></tr><tr><td style="width: 240.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">PERITO CRIMINAL</p></td><td style="width: 64.3pt; border: solid black 1.0pt; border-top: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; mso-border-right-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">70</p></td></tr><tr><td style="width: 240.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">PERITO MÉDICO LEGISTA</p></td><td style="width: 64.3pt; border: solid black 1.0pt; border-top: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; mso-border-right-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">168</p></td></tr><tr><td style="width: 240.9pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="321"><p class="Tabela-Texto">PERITO ODONTO-LEGAL</p></td><td style="width: 64.3pt; border: solid black 1.0pt; border-top: none; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; mso-border-right-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">24</p></td></tr></tbody></table>
+CARGO
+
+CLASSE III
+
+INVESTIGADOR DE POLÍCIA CIVIL
+
+2.880
+
+ESCRIVÃO DE POLÍCIA CIVIL
+
+300
+
+PERITO TÉCNICO DE POLÍCIA CIVIL
+
+416
+
+PERITO CRIMINAL
+
+70
+
+PERITO MÉDICO LEGISTA
+
+168
+
+PERITO ODONTO-LEGAL
+
+24

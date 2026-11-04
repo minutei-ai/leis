@@ -1,5 +1,3 @@
-###DEL-009512-0-000-25-07-1946@@@
-
 DECRETO-LEI N. 9.512 – DE 25 DE JULHO DE 1946
 
 Inclui os lucros realizados pelas emprêsas jornalísticas no art. 27 do Decreto-lei nº 9.159, de 10 de Abril de 1946.

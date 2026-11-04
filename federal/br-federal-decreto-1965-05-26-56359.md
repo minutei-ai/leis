@@ -1,5 +1,3 @@
-###DEC-056359-0-000-26-05-1965@@@
-
 DECRETO Nº 56.359, DE 26 DE MAIO DE 1965.
 
 Dispõe sôbre a execução do parágrafo único do artigo 23 da Lei número 4.345, de 26 de junho de 1964.

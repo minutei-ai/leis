@@ -1,5 +1,3 @@
-###DEC-073384-0-000-28-12-1973@@@
-
 DECRETO Nº 73.384 - DE 28 DEZEMBRO DE 1973
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Difusora Taubaté Ltda., para executar serviços de radiodifusão sonora em onda tropical, na cidade de Taubaté, Estado de São Paulo.

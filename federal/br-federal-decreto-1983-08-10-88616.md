@@ -1,5 +1,3 @@
-###DEC-088616-0-000-10-08-1983@@@
-
 Decreto nº 88.616, de 10 de agosto de 1983
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa as Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-047271-0-000-19-11-1959@@@
-
 DECRETO Nº 47.271, DE 19 DE NOVEMBRO DE 1959
 
 Autoriza à Companhia Paranaense de Energia Elétrica a ampliar seu sistema gerador no município de Paranaguá, Estado do Paraná.

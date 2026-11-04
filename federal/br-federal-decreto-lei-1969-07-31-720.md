@@ -1,5 +1,3 @@
-###DEL-000720-0-000-31-07-1969@@@
-
 DECRETO-LEI Nº 720, DE 31 DE JULHO DE 1969
 
 Altera a redação do artigo 28 da Lei nº 1.711, de 28 de outubro de 1952.

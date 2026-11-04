@@ -1,5 +1,3 @@
-###DEC-057668-0-000-25-01-1966@@@
-
 DECRETO Nº 57.668, DE 25 DE JANEIRO DE 1966.
 
 Modifica o Regulamento para as Bandas de Músicas e Bandas Marciais da Aeronáutica, aprovado pelo Decreto nº 34.762, de 8 de dezembro de 1953, modificado pelo Decreto número 47.833, de 4 de março de 1960.

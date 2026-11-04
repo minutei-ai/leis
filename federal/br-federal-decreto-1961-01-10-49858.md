@@ -1,5 +1,3 @@
-###DEC-049858-0-000-10-01-1961@@@
-
 DECRETO Nº 49.858, DE 10 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Edvaldo Cruz a pesquisar mica no Município de Coroaci, Estado de Minas Gerais.

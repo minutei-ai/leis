@@ -1,5 +1,3 @@
-###DEC-002878-0-000-15-12-1998@@@
-
 DECRETO Nº 2.878, DE 15 DE DEZEMBRO DE 1998.
 
 Promulga o Acordo Comercial, celebrado entre o Governo da República Federativa do Brasil e o Governo da Malásia, em Kuala Lumpur, em 26 de abril de 1996.
@@ -118,4 +116,28 @@ O disposto neste Acordo aplicar-se-á, mesmo após sua denúncia, aos contratos 
 
 Feito em Kuala Lumpur, em 26 de abril de 1996, em seis versões originais, duas em português, duas em malaio e duas em inglês, sendo todos os textos igualmente autênticos. Em caso de divergência de interpretação entre quaisquer dos textos deste Acordo, prevalecerá a versão em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:122.3pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:143.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:148.9pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da Malásia</span></p></td></tr><tr><td style="width:122.3pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:143.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:148.9pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Abdullah Badawi</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:122.3pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:143.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:148.9pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da Malásia
+
+</td></tr><tr><td style="width:122.3pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top">
+
+Luiz Felipe Lampreia
+
+</td><td style="width:143.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:148.9pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top">
+
+Abdullah Badawi
+
+</td></tr></tbody></table>

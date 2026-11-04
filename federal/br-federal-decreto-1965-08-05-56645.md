@@ -1,5 +1,3 @@
-###DEC-056645-0-000-05-08-1965@@@
-
 DECRETO Nº 56.645, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Marcos Antônio Monteiro de Barros a pesquisar argila no município de Santa Rita do Passa Quatro, Estado de São Paulo.

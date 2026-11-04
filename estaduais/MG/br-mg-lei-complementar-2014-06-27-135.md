@@ -1137,7 +1137,3 @@ Danilo de Castro
 Maria Coeli Simões Pires
 
 Renata Maria Paes de Vilhena
-
-\============================================================
-
-Data da última atualização: 10/6/2024.

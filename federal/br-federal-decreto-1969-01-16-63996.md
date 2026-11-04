@@ -1,5 +1,3 @@
-###DEC-063996-0-000-16-01-1969@@@
-
 DECRETO Nº 63.996, DE 16 DE JANEIRO DE 1969.
 
 Altera o parágrafo 3º do artigo 13 do Regulamento do Instituto Rio Branco do Ministério das Relações Exteriores.

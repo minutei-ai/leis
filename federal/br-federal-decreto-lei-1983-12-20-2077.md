@@ -1,5 +1,3 @@
-###DEL-002077-0-000-20-12-1983@@@
-
 # decreto-lei nº 2.077, de 20 de dezembro de 1983
 
 Fixa alíquotas do Imposto sobre Operações Relativas à Circulação de Mercadorias (ICM) nos Territórios Federais e dá outras providências.

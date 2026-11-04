@@ -1,5 +1,3 @@
-###DEC-091899-0-000-08-11-1985@@@
-
 Decreto nº 91.899, de 08 de novembro de 1985
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Itajubá, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211423)<br>
-
 # LEI N° 18.207, DE 08 DE SETEMBRO DE 2025
 
 ## (Projeto de lei n.° 566/2024, do Deputado Valdomiro Lopes - PSB)

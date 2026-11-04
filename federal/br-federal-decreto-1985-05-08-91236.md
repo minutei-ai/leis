@@ -1,5 +1,3 @@
-###DEC-091236-0-000-08-05-1985@@@
-
 Decreto nº 91.236, de 08 de maIO de 1985
 
 Dispõe sobre a execução financeira do Fundo de Investimento Social FINSOCIAL e dá outras providências.

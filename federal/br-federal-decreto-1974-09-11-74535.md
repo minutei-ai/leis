@@ -1,5 +1,3 @@
-###DEC-074535-0-000-11-09-1974@@@
-
 Decreto nº 74.535, de 11 de dezembro de 1974.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Administrativas e Contábeis, mantida pelo Instituto Superior de Ensino Celso Lisboa, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

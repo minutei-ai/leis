@@ -1,5 +1,3 @@
-###DEC-045249-0-000-15-01-1959@@@
-
 DECRETO Nº 45.249, DE 15 DE JANEIRO DE 1959.
 
 Concede a Indústria Calcáreas Carandaí Sociedade Anônima autorização para funcionar como emprêsa de mineração.

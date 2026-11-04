@@ -1,5 +1,3 @@
-###DEC-055737-0-000-04-02-1965@@@
-
 Decreto nº 55.737, DE 4 DE FEVEREIRO DE 1965.
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional a um financiamento a ser realizado pela Companhia Vale do Rio Doce.

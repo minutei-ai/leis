@@ -1,30 +1,28 @@
-###DEC-036902-0-000-14-02-1955@@@
+**DECRETO Nº 36.902, DE 14 DE FEVEREIRO DE 1955.**
 
-<strong>DECRETO Nº 36.902, DE 14 DE FEVEREIRO DE 1955.</strong>
+***Aprova o Regulamento do Instituto de Óleos do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regulamento do Instituto de Óleos do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Instituto de Óleos, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Instituto de Óleos, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 14 de fevereiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Costa Pôrto
 
-<strong>REGULAMENTO</strong>
+**REGULAMENTO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das Finalidades</em>
+*Das Finalidades*
 
-<strong>Art</strong>. 1º O Instituto de Óleos (I.O.), do Centro Nacional de Ensino e Pesquisas Agronômicas do Ministério da Agricultura, com sede no Distrito Federal, criado pelo Decreto-lei número 2.138, de 12 de abril de 1940, com as alterações da Lei nº 1.509, de 19 de dezembro de 1951, tem por finalidades:
+**Art**. 1º O Instituto de Óleos (I.O.), do Centro Nacional de Ensino e Pesquisas Agronômicas do Ministério da Agricultura, com sede no Distrito Federal, criado pelo Decreto-lei número 2.138, de 12 de abril de 1940, com as alterações da Lei nº 1.509, de 19 de dezembro de 1951, tem por finalidades:
 
 I - ministrar a alta instrução técnica especializada, referente às plantas oleaginosas, cerosas, resinosas, seus produtos, subprodutos e derivados, e às tintas e vernizes, aos agrônomos e demais diplomados pelas escolas superiores, oficiais ou reconhecidas, e aos alunos destas escolas que satisfaçam as exigências do seu regulamento;
 
@@ -36,11 +34,11 @@ IV - cooperar com instituições científicas, tecnológicas e econômicas, asso
 
 V - colaborar com os técnicos, produtores e comerciantes de plantas oleaginosas, cerosas e resinosas, seus produtos, subprodutos e derivados, e de tintas e vernizes, no estudo dos problemas de interêsse para o Instituto, para a produção e o comércio.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O I.O. compõe-se de:
+**Art**. 2º O I.O. compõe-se de:
 
 Conselho de Ensino e Pesquisas (C.E.P.)
 
@@ -56,7 +54,7 @@ Seção de Tecnologia Industrial (S.T.I.)
 
 Seção de Documentação e Economia Aplicada (S.D.E.A.)
 
-<strong>Art</strong>. 3º Para efeito de coordenação do ensino e das pesquisas, as disciplinas enumeradas no art. 28 e as atividades a elas correspondentes articulam-se em grupos de trabalho com a denominação de “setores”.
+**Art**. 3º Para efeito de coordenação do ensino e das pesquisas, as disciplinas enumeradas no art. 28 e as atividades a elas correspondentes articulam-se em grupos de trabalho com a denominação de “setores”.
 
 § 1º Haverá cinco (5) setores, a saber:
 
@@ -72,7 +70,7 @@ V – Engenharia.
 
 § 2º Cada setor terá um “coordenador”, escolhido dentre os professôres das disciplinas compreendidas pelo setor considerado.
 
-<strong>Art</strong>. 4º Constituirão o C.E.P.:
+**Art**. 4º Constituirão o C.E.P.:
 
 a) o Diretor do I.O., como seu presidente;
 
@@ -90,13 +88,13 @@ g) do professor designado, na forma do art. 82 dêste Regulamento, para substitu
 
 h) de duas pessoas de notória competência em assuntos de ensino e pesquisas, designadas pelo Ministro de Estado, mediante lista tríplice para cada lugar, proposta pelo Diretor.
 
-§ 1º O mandato dos membros mencionados no item <em>h</em> dêste artigo será de dois anos, sendo permitida a recondução. A pessoa que fôr designada para preencher vaga eventual de um dêsses membros deverá completar o mandato do substituído.
+§ 1º O mandato dos membros mencionados no item *h* dêste artigo será de dois anos, sendo permitida a recondução. A pessoa que fôr designada para preencher vaga eventual de um dêsses membros deverá completar o mandato do substituído.
 
 § 2º Será solicitada a substituição do Conselheiro que faltar três vêzes consecutivas sem causa justificada.
 
 § 3º Na falta do Diretor, o C.E.P., será presidido pelo substituto eventual daquele titular, e na falta dêste pelo membro mais antigo.
 
-<strong>Art</strong>. 5º Comporão a C.E.E.:
+**Art**. 5º Comporão a C.E.E.:
 
 a) o Diretor do I.O., como seu Presidente;
 
@@ -114,21 +112,21 @@ g) os professores de Tecnologia Industrial de óleos e Cêras e de Tecnologia Ec
 
 h) o Chefe da S.D.E.A.
 
-<strong>Art</strong>. 6º A Secretaria compreende:
+**Art**. 6º A Secretaria compreende:
 
 I - Almoxarifado
 
 II - Portaria
 
-<strong>Art</strong>. 7º Os Cursos terão a estrutura e o regime definidos nos Capítulos V e VIII dêste Regimento.
+**Art**. 7º Os Cursos terão a estrutura e o regime definidos nos Capítulos V e VIII dêste Regimento.
 
-<strong>Art</strong>. 8º A S.T.A., com jurisdição sôbre as atividade de ensino e pesquisas concernentes à Tecnologia Químico-Analítica, compreende os laboratórios dos setores de Física e Físico-Química, de Química e de Fitognósia.
+**Art**. 8º A S.T.A., com jurisdição sôbre as atividade de ensino e pesquisas concernentes à Tecnologia Químico-Analítica, compreende os laboratórios dos setores de Física e Físico-Química, de Química e de Fitognósia.
 
-<strong>Art</strong>. 9º A S.T.I., com jurisdição sôbre as atividades de ensino e pesquisas concernentes a Tecnologia Industrial, compreende os laboratórios e gabinetes dos setores de Tecnologia e Engenharia e as Oficinas.
+**Art**. 9º A S.T.I., com jurisdição sôbre as atividades de ensino e pesquisas concernentes a Tecnologia Industrial, compreende os laboratórios e gabinetes dos setores de Tecnologia e Engenharia e as Oficinas.
 
-<strong>Art</strong>. 10. As Seções de Tecnologia, de acôrdo com as exigências do serviço, poderão vir a ser acrescidas de outros laboratórios ou dependências.
+**Art**. 10. As Seções de Tecnologia, de acôrdo com as exigências do serviço, poderão vir a ser acrescidas de outros laboratórios ou dependências.
 
-<strong>Art</strong>. 11. A .S.D.E.A., compreende:
+**Art**. 11. A .S.D.E.A., compreende:
 
 I - Gabinete de Pesquisas Econômicas
 
@@ -138,21 +136,21 @@ III - Museu
 
 IV - Turma de Publicações e Laboratório Fotográfico
 
-<strong>Art</strong>. 12. O I.O. será dirigido por um diretor escolhido dentro os professôres do Ministério da Agricultura, de reconhecida capacidade nos assuntos que constituem os objetivos do órgão.
+**Art**. 12. O I.O. será dirigido por um diretor escolhido dentro os professôres do Ministério da Agricultura, de reconhecida capacidade nos assuntos que constituem os objetivos do órgão.
 
 Parágrafo único. O Diretor terá um secretário e dois assistentes, designados na forma dêste Regimento.
 
-<strong>Art</strong>. 13. Os Chefes da S.T.A., da S.T.I. e da S.D.E.A. deverão ser professôres de alguma das disciplinas diretamente ligadas à atividade da Seção considerada.
+**Art**. 13. Os Chefes da S.T.A., da S.T.I. e da S.D.E.A. deverão ser professôres de alguma das disciplinas diretamente ligadas à atividade da Seção considerada.
 
 Parágrafo único. Na impossibilidade de ficar a chefia das Seções enumeradas confiada a docente, em conformidade com o disposto neste artigo, o chefe será escolhido, sempre que possível, dentre os servidores especializados mais graduados nos setores de ensino e pesquisa, e que tenham maior permanência na Seção, indicados em lista tríplice pelos professôres que aí tenham exercício.
 
-<strong>Art</strong>. 14. As Seções no I.O. e suas demais dependências ou serviços funcionarão segundo o regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 14. As Seções no I.O. e suas demais dependências ou serviços funcionarão segundo o regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 15. Ao C.E.P. compete:
+**Art**. 15. Ao C.E.P. compete:
 
 I - estudar qualquer projeto de alteração do regime didático ou escolar dos cursos;
 
@@ -180,7 +178,7 @@ XII - opinar sôbre os relatórios mensais dos que trabalham na base de honorár
 
 XIII - exercer outras funções análogas às de sua competência ou com elas correlacionadas, ou por incumbência de órgão superior.
 
-<strong>Art</strong>. 16. A C.E.E. compete colaborar com a direção ou outros órgãos do Instituto:
+**Art**. 16. A C.E.E. compete colaborar com a direção ou outros órgãos do Instituto:
 
 a) nos estudos econômicos e financeiros tendentes a criar a exploração agrícola metódica dos oleaginosos, cerosos, resinosos, fora do extrativismo;
 
@@ -196,9 +194,9 @@ f) no estudo das possibilidades da industrialização do país dêsses produtos.
 
 Parágrafo único. O Diretor do Instituto baixará instruções que regerão os trabalhos dessa Comissão, devendo ser elas prèviamente aprovadas pela maioria dos seus membros.
 
-<strong>Art</strong>. 17. As atas das reuniões do C.E.P. e da C.E.E. serão obrigatòriamente publicadas, em resumo, no <em>Diário Oficial</em>.
+**Art**. 17. As atas das reuniões do C.E.P. e da C.E.E. serão obrigatòriamente publicadas, em resumo, no *Diário Oficial*.
 
-<strong>Art</strong>. 18. A Secretaria compete:
+**Art**. 18. A Secretaria compete:
 
 I - promover as medidas preliminares necessárias à administração de pessoal, material, orçamento e comunicações indicados pelo competente órgão de administração geral;
 
@@ -222,7 +220,7 @@ X - excluir da lista para provas ou exames o nome do aluno que não haja satisfe
 
 XI - expedir atestados, certidões, certificados e diplomas de acôrdo com êste Regulamento.
 
-<strong>Art</strong>. 19. À S.T.A. compete:
+**Art**. 19. À S.T.A. compete:
 
 I - realizar e coordenar pesquisas de biologia geral; de biofísica e de bioquímica sôbre as plantas oleaginosas, cerosas e resinosas;
 
@@ -230,11 +228,11 @@ II - realizar e coordenar pesquisas científica e de aplicações analíticas da
 
 III - pesquisar, coordenar, padronizar e aplicar métodos analíticos (físicos, físico-químicos e químicos) necessários ao ensino, às pesquisas científicas e tecnológicas e a quaisquer outros análogos trabalhos do I.O.
 
-<strong>Art</strong>. 20. À S.T.I. compete pesquisar, coordenar e executar a tecnologia e a engenharia industriais aplicadas ao estudo do aproveitamento da matéria prima, seus produtos, subprodutos e derivados, nas diversas aplicações de tecnologia industrial de interêsse do I.O.
+**Art**. 20. À S.T.I. compete pesquisar, coordenar e executar a tecnologia e a engenharia industriais aplicadas ao estudo do aproveitamento da matéria prima, seus produtos, subprodutos e derivados, nas diversas aplicações de tecnologia industrial de interêsse do I.O.
 
-<strong>Art</strong>. 21. A cada Seção de Tecnologia compete, ainda, enviar a S.D.E.A. uma cópia dos certificados de análise, relatórios e demais elementos necessários à documentação do trabalho realizado no Instituto, mencionando sempre as páginas do livro de “registro de trabalho”.
+**Art**. 21. A cada Seção de Tecnologia compete, ainda, enviar a S.D.E.A. uma cópia dos certificados de análise, relatórios e demais elementos necessários à documentação do trabalho realizado no Instituto, mencionando sempre as páginas do livro de “registro de trabalho”.
 
-<strong>Art</strong>. 22. À S.D.E.A. compete:
+**Art**. 22. À S.D.E.A. compete:
 
 I - pesquisar, registar e coordenar os elementos estatístico e econômicos referentes à produção, distribuição e consumo, das plantas oleaginosas, cerosas e resinosas, seus produtos, subprodutos e derivados, e das tintas e vernizes;
 
@@ -248,23 +246,23 @@ V - ter sob a sua guarda e responsabilidade o arquivo dos trabalhos técnicos re
 
 VI - promover a impressão e a distribuição das publicações do Instituto.
 
-<strong>Art</strong>. 23. As Seções e a Secretaria apresentarão, por intermédio desta, até o dia 10 de cada mês e sempre que fôr determinado, ao Diretor, um resumo dos trabalhos feitos e em andamento e, anualmente, um relatório minucioso sobre as mesmas matérias, o qual servirá de base para o relatório do I.O.
+**Art**. 23. As Seções e a Secretaria apresentarão, por intermédio desta, até o dia 10 de cada mês e sempre que fôr determinado, ao Diretor, um resumo dos trabalhos feitos e em andamento e, anualmente, um relatório minucioso sobre as mesmas matérias, o qual servirá de base para o relatório do I.O.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do símbolo</em>
+*Do símbolo*
 
-<strong>Art</strong>. 24. A bandeira do Instituto será de fundo azul, atravessada em diagonal, do ângulo inferior esquerdo para o ângulo superior direito por uma faixa branca com os dizeres em azul: “Instituto de Óleos”.
+**Art**. 24. A bandeira do Instituto será de fundo azul, atravessada em diagonal, do ângulo inferior esquerdo para o ângulo superior direito por uma faixa branca com os dizeres em azul: “Instituto de Óleos”.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da composição dos cursos</em>
+*Da composição dos cursos*
 
-<strong>Art</strong>. 25. O I.O. ministrará cursos de formação de revisão e de especialização.
+**Art**. 25. O I.O. ministrará cursos de formação de revisão e de especialização.
 
-<strong>Art</strong>. 26. Os cursos de formação preparam Tecnologistas Químicos. Os cursos de revisão destinam-se à atualização de conhecimentos, referindo-se a disciplinas isoladas integrantes dos currículos dos cursos de formação. Os cursos de especialização, destinando-se ao aperfeiçoamento dos diplomados pelos cursos de formação, preparam Tecnologistas Industriais.
+**Art**. 26. Os cursos de formação preparam Tecnologistas Químicos. Os cursos de revisão destinam-se à atualização de conhecimentos, referindo-se a disciplinas isoladas integrantes dos currículos dos cursos de formação. Os cursos de especialização, destinando-se ao aperfeiçoamento dos diplomados pelos cursos de formação, preparam Tecnologistas Industriais.
 
-<strong>Art</strong>. 27. São os seguintes os cursos de formação:
+**Art**. 27. São os seguintes os cursos de formação:
 
 I - Curso de Tecnologia Químico-analítica;
 
@@ -272,7 +270,7 @@ II - Curso de Tecnologia Industrial de Óleos;
 
 III - Curso de Tecnologia Industrial de Tintas e Vernizes;
 
-<strong>Art</strong>. 28. Os cursos do I.O. compreendem as seguintes disciplinas, cujo programa se desdobrará nas partes assinaladas:
+**Art**. 28. Os cursos do I.O. compreendem as seguintes disciplinas, cujo programa se desdobrará nas partes assinaladas:
 
 I - Física técnica:
 
@@ -316,7 +314,7 @@ f) Tecnologia Econômica;
 
 VII - Fitognósia Analítica Aplicada.
 
-<strong>Art</strong>. 29. Compõem o Curso de Tecnologia Química-analítica as seguintes disciplinas:
+**Art**. 29. Compõem o Curso de Tecnologia Química-analítica as seguintes disciplinas:
 
 I - Física técnica:
 
@@ -340,7 +338,7 @@ b) Análises químicas tecnológicas;
 
 IV - Fitognósia analítica aplicada.
 
-<strong>Art</strong>. 30. Compõem o Curso de Tecnologia Industrial de Óleos as seguintes disciplinas:
+**Art**. 30. Compõem o Curso de Tecnologia Industrial de Óleos as seguintes disciplinas:
 
 I - Tecnologia Industrial de Óleos e Cêras.
 
@@ -352,7 +350,7 @@ b) Eletricidade tecnológica;
 
 c) Mecânica tecnológica.
 
-<strong>Art</strong>. 31. Compõem o Curso de Tecnologia Industrial de Tintas e Vernizes as seguintes disciplinas:
+**Art**. 31. Compõem o Curso de Tecnologia Industrial de Tintas e Vernizes as seguintes disciplinas:
 
 I - Tecnologia Industrial de óleos e cêras.
 
@@ -366,7 +364,7 @@ b) Eletricidade tecnológica;
 
 c) Mecânica tecnológica.
 
-<strong>Art</strong>. 32. Compõem o Curso de Especialização em Tecnologia Químico-Analítica:
+**Art**. 32. Compõem o Curso de Especialização em Tecnologia Químico-Analítica:
 
 I - Físico-química:
 
@@ -376,7 +374,7 @@ b) Química coloidal.
 
 II - Química técnica.
 
-<strong>Art</strong>. 33. Compõem o Curso de Especialização em Tecnologia Industrial especialização em Tecnologia Químico-Analítica:
+**Art**. 33. Compõem o Curso de Especialização em Tecnologia Industrial especialização em Tecnologia Químico-Analítica:
 
 I - Tecnologia Industrial de Óleos e Cêras.
 
@@ -386,7 +384,7 @@ a) Projetos e desenhos tecnológicos;
 
 b) Tecnologia econômica.
 
-<strong>Art</strong>. 34. Compõem o Curso de especialização em Tecnologia Industrial de Tintas e Vernizes as seguintes disciplinas:
+**Art**. 34. Compõem o Curso de especialização em Tecnologia Industrial de Tintas e Vernizes as seguintes disciplinas:
 
 I - Tecnologia Industrial de pigmentos, tintas e vernizes.
 
@@ -396,9 +394,9 @@ a) Projetos e desenhos tecnológicos;
 
 b) Tecnologia econômica.
 
-<strong>Art</strong>. 35. Além das disciplinas e partes de disciplinas enumeradas nos artigos anteriores, poderá ser ministrado o ensino, em caráter facultativo, de Matemática para Tecnologistas ou outras disciplinas, reconhecidas como necessárias por indicação do C.E.P., aprovada pelo Diretor.
+**Art**. 35. Além das disciplinas e partes de disciplinas enumeradas nos artigos anteriores, poderá ser ministrado o ensino, em caráter facultativo, de Matemática para Tecnologistas ou outras disciplinas, reconhecidas como necessárias por indicação do C.E.P., aprovada pelo Diretor.
 
-<strong>Art</strong>. 36. Além dos cursos a que se refere o artigo 25, poderá o I.O., para preparação de candidatos à admissão aos demais cursos, manter um curso prévio, de caráter facultativo, compreendendo as seguintes disciplinas:
+**Art**. 36. Além dos cursos a que se refere o artigo 25, poderá o I.O., para preparação de candidatos à admissão aos demais cursos, manter um curso prévio, de caráter facultativo, compreendendo as seguintes disciplinas:
 
 I - Física;
 
@@ -406,15 +404,15 @@ II - Química;
 
 III - Matemática para Tecnologistas.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Regime Escolar</em>
+*Do Regime Escolar*
 
-<strong>Art</strong>. 37. A duração de cada curso será no mínimo de 10 meses, salvo casos especiais, a juízo do C.E.P.
+**Art**. 37. A duração de cada curso será no mínimo de 10 meses, salvo casos especiais, a juízo do C.E.P.
 
 Parágrafo único. O ano letivo começará a 1º de março e terminará a 15 de dezembro do mesmo ano, com trinta e um dias de férias, de 1º a 31 de julho, podendo, entretanto, neste período, serem realizadas provas e trabalhos práticos, a juízo do C.E.P.
 
-<strong>Art</strong>. 38. Os períodos de aulas dos cursos de formação, de revisão e de especialização terão início, respectivamente, em 1º de março, 1º de agôsto e 15 de outubro e terminarão a 15 de dezembro, do mesmo ano, cabendo ao C.E.P. fixar o número de períodos necessários a cada disciplina, de horas de aulas teóricas e práticas, de trabalhos práticos e relatórios, assim como o de argüições e provas parciais.
+**Art**. 38. Os períodos de aulas dos cursos de formação, de revisão e de especialização terão início, respectivamente, em 1º de março, 1º de agôsto e 15 de outubro e terminarão a 15 de dezembro, do mesmo ano, cabendo ao C.E.P. fixar o número de períodos necessários a cada disciplina, de horas de aulas teóricas e práticas, de trabalhos práticos e relatórios, assim como o de argüições e provas parciais.
 
 § 1º Após a realização das provas ou exames, em época predeterminada pelo C.E.P., haverá excursões, que se realizarão de preferência nos períodos de férias.
 
@@ -422,11 +420,11 @@ Parágrafo único. O ano letivo começará a 1º de março e terminará a 15 de 
 
 § 3º O último período letivo deverá ser destinado, principalmente, à resolução de problemas práticos. Nos cursos de especialização, os trabalhos práticos em qualquer período deverão ser sempre de aplicações.
 
-<strong>Art</strong>. 39. As matrículas de cada um dos cursos serão gratuitas e ficarão abertas anualmente de 2 de janeiro a 25 de fevereiro.
+**Art**. 39. As matrículas de cada um dos cursos serão gratuitas e ficarão abertas anualmente de 2 de janeiro a 25 de fevereiro.
 
 Parágrafo único. Não serão permitidos alunos ouvintes, nem matrículas condicionais.
 
-<strong>Art</strong>. 40. A matrícula do candidato será feita mediante requerimento ao Diretor e apresentação dos seguintes documentos com firmas reconhecidas:
+**Art**. 40. A matrícula do candidato será feita mediante requerimento ao Diretor e apresentação dos seguintes documentos com firmas reconhecidas:
 
 I - Prova de identidade;
 
@@ -456,15 +454,15 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 7º O Instituto poderá exigir outros atestados para matrícula, dentre êles o de não haver o candidato cometido qualquer falta que possa influir na disciplina ou na idoneidade do Instituto.
 
-<strong>Art</strong>. 41. O C.E.P. proporá os números máximos e mínimos de alunos para cada curso ou disciplina.
+**Art**. 41. O C.E.P. proporá os números máximos e mínimos de alunos para cada curso ou disciplina.
 
-<strong>Art</strong>. 42. A freqüência às aulas, aos trabalhos práticos e ás excursões é obrigatória, sendo cancelada a matrícula do aluno que, em cada período, tenha freqüência inferior a 80% do total a que estava obrigado, salvo quando se tratar de moléstia comprovada por serviço médico da Divisão do Pessoal do Ministério da Agricultura ou, a juízo do Diretor do Instituto e na forma por êle estabelecida em portaria, por atestado médico.
+**Art**. 42. A freqüência às aulas, aos trabalhos práticos e ás excursões é obrigatória, sendo cancelada a matrícula do aluno que, em cada período, tenha freqüência inferior a 80% do total a que estava obrigado, salvo quando se tratar de moléstia comprovada por serviço médico da Divisão do Pessoal do Ministério da Agricultura ou, a juízo do Diretor do Instituto e na forma por êle estabelecida em portaria, por atestado médico.
 
 § 1º O aluno que não houver assinado o Boletim de freqüência, antes de iniciada a aula, será considerado ausente e só mediante prévia autorização do professor poderá assistí-la.
 
 § 2º A matrícula do aluno será cancelada pelo C.E.P., mediante proposta da Diretoria, quando cometer qualquer falta comprovada, mediante investigação ou inquérito, que possa influir na disciplina ou na idoneidade do Instituto.
 
-<strong>Art</strong>. 44. Nos períodos de aulas serão realizados, em cada disciplina, para servirem de base à verificação do aproveitamento do aluno: provas parciais, argüições e tantos relatórios quantos forem os trabalhos práticos constantes do programa de cada disciplina, substituída a prova parcial do 3º período por exames orais e escritos, envolvendo tôda a matéria dada.
+**Art**. 44. Nos períodos de aulas serão realizados, em cada disciplina, para servirem de base à verificação do aproveitamento do aluno: provas parciais, argüições e tantos relatórios quantos forem os trabalhos práticos constantes do programa de cada disciplina, substituída a prova parcial do 3º período por exames orais e escritos, envolvendo tôda a matéria dada.
 
 § 1º Nos relatórios de trabalhos práticos, o aluno deverá mostrar conhecimento dos objetivos do trabalho determinado; dos instrumentos científicos ou tecnológicos que usou, e cuidados que eles exigem; e dar não só a marcha das pesquisas realizadas como a interpretação dos resultados obtidos, não podendo ser considerado aceito o relatório que obtiver média inferior a cinqüenta (50), computados nessa nota quer o julgamento da tese apresentada, quer a sua defesa, permitidas, porém, ao aluno novas apresentações e discussões de relatório, quando necessário e dentro dos períodos das disciplinas, até lograr nota suficiente.
 
@@ -478,9 +476,9 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 6° O aluno não poderá prestar exame de cada disciplina sem haver logrado nota suficiente em todos os seus relatórios concernentes à mesma.
 
-<strong>Art</strong>. 45. Os relatórios referentes a excursão ou estágios, também, obrigatórios, serão levados em conta na avaliação do aproveitamento.
+**Art**. 45. Os relatórios referentes a excursão ou estágios, também, obrigatórios, serão levados em conta na avaliação do aproveitamento.
 
-<strong>Art</strong>. 46. Será considerado habilitado na disciplina o aluno que obtiver nota não inferno a cinqüenta (50).
+**Art**. 46. Será considerado habilitado na disciplina o aluno que obtiver nota não inferno a cinqüenta (50).
 
 § 1° Para aprovação nos cursos de formação e de revisão, será necessário que o aluno tenha sido habilitado em cada uma das respectivas disciplinas.
 
@@ -490,29 +488,29 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 4° O aluno não habilitado só poderá ter novamente matricula em qualquer curso do Instituto se sua freqüência a aulas teórica e pratica não for inferior a oitenta por cento (80%), a média em cada disciplina não for inferior a quarenta e cinco (45), e se houver vaga, a juízo do C.E.P.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO REGIME DIDÁTICO</em>
+*DO REGIME DIDÁTICO*
 
-<strong>Art</strong>. 47. Os programas das disciplinas serão organizados pelos respectivos professores, tendo em vista os objetivos dos cursos e do Instituto.
+**Art**. 47. Os programas das disciplinas serão organizados pelos respectivos professores, tendo em vista os objetivos dos cursos e do Instituto.
 
 § 1° O programa de cada disciplina será dividido em partes, segundo a estruturação estipulada no artigo 28 deste Regulamento, em cada uma destas partes subdivididas de maneira que permita o ensino ser executado, quando fôr o caso, por mais de um professor, atendendo-se a sua especialidade e à organização dos Setores e das Seções do Instituto.
 
 § 2° Os programas devem conter indicações sobre o número de provas parciais, de argüições e o de relatórios de trabalhos práticos.
 
-<strong>Art</strong>. 48. As disciplinas comuns a mais de um curso, e com idêntico programa, poderão ser ensinadas em comum.
+**Art**. 48. As disciplinas comuns a mais de um curso, e com idêntico programa, poderão ser ensinadas em comum.
 
-<strong>Art</strong>. 49. A duração de cada aula teórica será de cinqüenta minutos.
+**Art**. 49. A duração de cada aula teórica será de cinqüenta minutos.
 
-<strong>Art</strong>. 50. De cada disciplina não poderão ser dadas mais de duas aulas teóricas por dia.
+**Art**. 50. De cada disciplina não poderão ser dadas mais de duas aulas teóricas por dia.
 
-<strong>Art</strong>. 51. Nos cursos de formação e de revisão, os alunos serão obrigados a um mínimo de vinte (20) horas semanais de aulas ou outros trabalhos escolares e, nos de especialização, a de vinte e cinco (25) horas.
+**Art**. 51. Nos cursos de formação e de revisão, os alunos serão obrigados a um mínimo de vinte (20) horas semanais de aulas ou outros trabalhos escolares e, nos de especialização, a de vinte e cinco (25) horas.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DOS DIPLOMAS E DO DISTINTIVO</em>
+*DOS DIPLOMAS E DO DISTINTIVO*
 
-<strong>Art</strong>. 52. Aos alunos que terminarem cursos de formação será expedito diploma de Tecnologia-químico com a apropriada menção da modalidade: Tecnologista-químico Analista ou de Óleo ou de Tintas e Vernizes. Aos que terminarem cursos de especialização será expedido diploma de Tecnologia Industrial, com a apropriada menção da modalidade: Tecnologista-Industrial Analista ou de Óleos ou de Tintas e Vernizes.
+**Art**. 52. Aos alunos que terminarem cursos de formação será expedito diploma de Tecnologia-químico com a apropriada menção da modalidade: Tecnologista-químico Analista ou de Óleo ou de Tintas e Vernizes. Aos que terminarem cursos de especialização será expedido diploma de Tecnologia Industrial, com a apropriada menção da modalidade: Tecnologista-Industrial Analista ou de Óleos ou de Tintas e Vernizes.
 
 § 1° Aos alunos que apresentarem atestado de habilitação em cada uma das disciplinas que constituem um curso de formação com nota igual ou superior a cinqüenta (50), será expedido um diploma correspondente a esse curso.
 
@@ -520,11 +518,11 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 3° Para obtenção do diploma nos cursos de especialização serão sempre exigidas a apresentação e a defesa de tese e a comprovação dos trabalho científicos e tecnológicos previstos neste Regulamento e nos termos do art. 3º da Lei n° 1.509 de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 53. Os diplomas dos cursos do I.O. terão as armas da República o selo do Instituto e os seguintes dizeres:
+**Art**. 53. Os diplomas dos cursos do I.O. terão as armas da República o selo do Instituto e os seguintes dizeres:
 
 “República dos Estados Unidos do Brasil, Ministério da Agricultura, Serviço Nacional de Pesquisas Agronômicas, Centro Nacional de Ensino e Pesquisas Agronômicas, Instituto de Óleos. Em nome do Governo da República dos Estados Unidos do Brasil, eu (nome, Diretor do Instituto de Óleos), considerando a aprovação do Sr ...................................................................... nascido em ................................ de,.................................................de,........................................... natural de ............................................... nos exames finais do Curso ...................................., correspondentes ao ano letivo de .................................... matriculado sob o número .................... conforme consta no livro próprio, em virtude da autoridade que me confere o Regulamento aprovado pelo Decreto n° .............................., de .......................... de .................. de ..................................., outorgo-lhe êste diploma de ................................................ a fim de que possa exercer as suas atividades profissionais especializadas nos Estados Unidos do Brasil, com os direitos e prerrogativas atribuídas às mesmas. - Data e assinatura do Diretor do Instituto de Óleos, do aluno e do Secretario”.
 
-<strong>Art</strong>. 54. Aos membros do C.E.P. e do seu Corpo Docente e aos diplomados pelos seus Cursos, conferirá o I.O. uma medalha-distintivo terá, de caráter pessoal e intransferível.
+**Art**. 54. Aos membros do C.E.P. e do seu Corpo Docente e aos diplomados pelos seus Cursos, conferirá o I.O. uma medalha-distintivo terá, de caráter pessoal e intransferível.
 
 § 1° A medalha - distintivo terá no anverso um circulo contornado pelos dizeres “Instituto de Óleo - 1929”, dentro do qual se vêem uma roda dentada sôbre que se cruzem duas folhas de palmeira; e uma candeia, e uma retorna, à esquerda e a direita, respectivamente, das extremidades do diâmetro horizontal da roda dentada; tendo inscrito no verso a individuação do distintivo.
 
@@ -542,21 +540,21 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 8° O I.O. poderá conceder a título excepcional, a cidadãos brasileiros ou estrangeiros, mediante aprovação unanime de C.E.P., a sua medalha-distintivo.
 
-<strong>Art</strong>. 55. A entrada do diploma e da medalha - distintivo será precedida da seguinte declaração pronunciada pelo primeiro dos chamados e ratificada com a expressão “Assim prometo” pelos demais:
+**Art**. 55. A entrada do diploma e da medalha - distintivo será precedida da seguinte declaração pronunciada pelo primeiro dos chamados e ratificada com a expressão “Assim prometo” pelos demais:
 
 “Prometo no exercício de minhas atividades profissionais especializadas só executar atos ditados pela consciência do meu dever, honrar os ensinamentos que recebi, a confiança dos meus concidadãos, cooperar sempre para o progresso do Instituto de Óleos e fazer quanto em mim couber pela grandeza moral e material do Brasil”.
 
-<strong>Art</strong>. 56. O Diretor do I. O; depois da promessa do graduado, pronunciará as seguintes palavras : “Em nome do Govêrno da República, eu (nome), Diretor (etc.) entrego ao Sr. (nome do graduado), O diploma de ................ e medalha - distintivo do Instituto”.
+**Art**. 56. O Diretor do I. O; depois da promessa do graduado, pronunciará as seguintes palavras : “Em nome do Govêrno da República, eu (nome), Diretor (etc.) entrego ao Sr. (nome do graduado), O diploma de ................ e medalha - distintivo do Instituto”.
 
-<strong>Art</strong>. 57. Os alunos que não puderem, por motivo justificado, a juízo do Diretor, receber o diploma ou certificado em ato solene, só depois dêste o receberão, em dia eu o Diretor julgar conveniente e em presença de um representante do C.E.P, dos professôres e técnicos do Instituto.
+**Art**. 57. Os alunos que não puderem, por motivo justificado, a juízo do Diretor, receber o diploma ou certificado em ato solene, só depois dêste o receberão, em dia eu o Diretor julgar conveniente e em presença de um representante do C.E.P, dos professôres e técnicos do Instituto.
 
-<strong>Art</strong>. 58. De todos os atos de entrega do diploma e da medalha - distintivo será lavrado têrmo especial, assinado pelo Diretor, pelo Secretário, pelos alunos e demais pessoas presentes ao ato dando-se dêle conhecimento através de sua publicação do <em>Diário Oficial</em>.
+**Art**. 58. De todos os atos de entrega do diploma e da medalha - distintivo será lavrado têrmo especial, assinado pelo Diretor, pelo Secretário, pelos alunos e demais pessoas presentes ao ato dando-se dêle conhecimento através de sua publicação do *Diário Oficial*.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DO PESSOAL DOCENTE</em>
+*DO PESSOAL DOCENTE*
 
-<strong>Art</strong>. 59. Os professôres, bem como os auxiliares docentes, poderão ser funcionários ou extranumerários, ou pessoas não pertencentes ao serviço público, desde que hajam sido aprovados em concurso de seleção, nos têrmos da Lei nº 1.509, de 19 de dezembro de 1951.
+**Art**. 59. Os professôres, bem como os auxiliares docentes, poderão ser funcionários ou extranumerários, ou pessoas não pertencentes ao serviço público, desde que hajam sido aprovados em concurso de seleção, nos têrmos da Lei nº 1.509, de 19 de dezembro de 1951.
 
 § 1º O concurso referido não deve ser invocado para efeito de renovação do exercício de função, sendo válido apenas para fins de preferência de indicação.
 
@@ -566,7 +564,7 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 4º As funções de preparador deverão anualmente ser preenchidas por alunos dos cursos ou servidores do Instituto, mediante provas de seleção, prática ou teórica, assegurada preferência, em igualdade de condições, ao que apresentar melhores comprovantes de capacidade e dedicação ao trabalho , e de permanência nos laboratórios do I.O.
 
-<strong>Art</strong>. 60. Os membros do corpo docente e auxiliares docentes admitidos a partir da vigência da Lei nº 1.509, de 19 de dezembro de 1951, serão escolhidos anualmente, quando se não tratar de professor catedrático, mediante prova de títulos, em que o candidato demostre não só estar habilitado na especialidade cujo ensino se propõe a exercer ou a auxiliar, em escola, instituto, laboratório ou estabelecimento oficial ou reconhecido, mas também, que os trabalhos apresentados se refiram, rigorosamente, à especialidade considerada.
+**Art**. 60. Os membros do corpo docente e auxiliares docentes admitidos a partir da vigência da Lei nº 1.509, de 19 de dezembro de 1951, serão escolhidos anualmente, quando se não tratar de professor catedrático, mediante prova de títulos, em que o candidato demostre não só estar habilitado na especialidade cujo ensino se propõe a exercer ou a auxiliar, em escola, instituto, laboratório ou estabelecimento oficial ou reconhecido, mas também, que os trabalhos apresentados se refiram, rigorosamente, à especialidade considerada.
 
 § 1º Em igualdade de condições, na classificação da prova referida neste artigo, o C.E.P poderá determinar a realização de uma prova prática, com apresentação de relatório e discussão dêste pela Banca Examinadora.
 
@@ -576,31 +574,31 @@ VII - diploma de agrônomo ou outro de escola superior oficial reconhecida ou at
 
 § 4º A indicação dos docentes e auxiliares docentes previstos neste artigo poderá ser renovada anualmente, uma vez que no exercício de suas funções tenham satisfeito as exigências legais, demonstrando elevado espirito de cooperação e de defesa do bom nome do I.O.
 
-<strong>Art</strong>. 61. As disciplinas ou partes de disciplinas poderão ser lecionadas por professôres ou assistentes, sob a supervisão direta do professor da disciplina.
+**Art**. 61. As disciplinas ou partes de disciplinas poderão ser lecionadas por professôres ou assistentes, sob a supervisão direta do professor da disciplina.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DOS ESTÁGIOS E BOLSAS DE ESTUDO</em>
+*DOS ESTÁGIOS E BOLSAS DE ESTUDO*
 
-<strong>Art</strong>. 62. O I.O. de acôrdo com as dotações orçamentarias ou outros meios que lhe forem concedidos, indicará ao Govêrno os seus professores, auxiliares docentes, alunos diplomados e pesquisadores, que devam especializar-se em instituições nacionais ou estrangeiras, preferencialmente aquêles que trabalham exclusivamente para o Instituto.
+**Art**. 62. O I.O. de acôrdo com as dotações orçamentarias ou outros meios que lhe forem concedidos, indicará ao Govêrno os seus professores, auxiliares docentes, alunos diplomados e pesquisadores, que devam especializar-se em instituições nacionais ou estrangeiras, preferencialmente aquêles que trabalham exclusivamente para o Instituto.
 
 Parágrafo único. A seleção de candidatos, auxiliares docentes e pesquisadores será feita mediante o julgamento de trabalhos científicos ou tecnológicos realizados, no Instituto ou suas dependências, durante um ou mais anos consecutivos, pelo C.E.P.
 
-<strong>Art</strong>. 63. O I.O., manterá bolsas de estudo e estipulará outros prêmios escolares para os melhores alunos, nas bases especificadas pela Lei nº 1.509, de 19 de dezembro de 1951.
+**Art**. 63. O I.O., manterá bolsas de estudo e estipulará outros prêmios escolares para os melhores alunos, nas bases especificadas pela Lei nº 1.509, de 19 de dezembro de 1951.
 
 Parágrafo único. Os bolsistas dos cursos de especialização do Instituto de óleos ficam sujeitos ao regime do tempo integral.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DAS PESQUISAS</em>
+*DAS PESQUISAS*
 
-<strong>Art</strong>. 64. O I.O. como centro de pesquisas científicas e de aplicação, formulará e executará diretamente ou promoverá a execução de um programa de pesquisas sôbre plantas oleaginosas, cerosas e resinosas, eus produtos e subprodutos, bem como sôbre tintas e vernizes.
+**Art**. 64. O I.O. como centro de pesquisas científicas e de aplicação, formulará e executará diretamente ou promoverá a execução de um programa de pesquisas sôbre plantas oleaginosas, cerosas e resinosas, eus produtos e subprodutos, bem como sôbre tintas e vernizes.
 
 § 1º O programa anual de pesquisas, após aprovação pelo C.E.P., será enviado pelo Diretor à autoridade superior, para os devidos fins, não podendo ser alterado sem prévia permissão dessa autoridade.
 
 § 2º Os métodos de análise, os trabalhos de pesquisas científicas, tecnológicos e econômicas realizados no Instituto serão publicados no “Arquivo Técnico do I.O”, podendo também, ser sumariamente notirciados, para efeito de divulgação, no “Boletim do I.O.”, referidos no artigo 67 dêste Regulamento.
 
-<strong>Art</strong>. 65 O servidor ou pesquisador técnico do I.O. é obrigado a registrar a tinta, no livro do registro de pesquisas, o número de registro da amostra, todos os trabalhos realizados, informações bibliográficas, observações ou conclusões experimentais, rubricando-as e datando-as ai encerrar o seu trabalho diário.
+**Art**. 65 O servidor ou pesquisador técnico do I.O. é obrigado a registrar a tinta, no livro do registro de pesquisas, o número de registro da amostra, todos os trabalhos realizados, informações bibliográficas, observações ou conclusões experimentais, rubricando-as e datando-as ai encerrar o seu trabalho diário.
 
 § 1º Semanalmente, o superior imediato visará e datará o registro feito, cujas anotações constituirão elementos para o relatório ou esclarecimento solicitado pela autoridade competente.
 
@@ -622,13 +620,13 @@ Parágrafo único. Os bolsistas dos cursos de especialização do Instituto de �
 
 § 10. Nos trabalhos científicos ou tecnológicos realizados no I.O. ou suas dependências, ou aquêles que forem submetidos à sua apreciação, deverá ser rigorosamente apreciada a autoria ou a colaboração de servidores na base do especificado neste artigo.
 
-<strong>Art</strong>. 66. Aos pesquisadores que realizarem trabalhos de pesquisas determinados, após terem sido êstes aceitos pelo C.E.P., será expedido atestado, em que se consignará a natureza da pesquisa feita.
+**Art**. 66. Aos pesquisadores que realizarem trabalhos de pesquisas determinados, após terem sido êstes aceitos pelo C.E.P., será expedido atestado, em que se consignará a natureza da pesquisa feita.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DAS PUBLICAÇÕES</em>
+*DAS PUBLICAÇÕES*
 
-<strong>Art</strong>. 67. O I.O., através da S.E.D., editará:
+**Art**. 67. O I.O., através da S.E.D., editará:
 
 a) o “Arquivo Técnico do Instituto de óleos”, que publicará não só de trabalhos originais do sue corpo de professôres e de pesquisadores, como outros de interêsse científico ou tecnológico para o ensino e as pesquisas concernentes aos seus objetivos, inclusive resumos bibliográficos, traduções e notícias;
 
@@ -644,17 +642,17 @@ c) folhetos informativos, monografias atinentes as suas finalidades em geral, be
 
 § 4º Quando os trabalhos publicados pelo I.O. forem julgados de mérito excepcional, o Instituto poderá editá-los em língua estrangeira, preferivelmente as línguas inglêsa e francêsa.
 
-<strong>Art</strong>. 68. O I.O. poderá colaborar com outras entidades na publicação de revistas técnicas, mediante aprovação do C.E.P.
+**Art**. 68. O I.O. poderá colaborar com outras entidades na publicação de revistas técnicas, mediante aprovação do C.E.P.
 
-<strong>Art</strong>. 69. Quando os trabalhos a que alude o item c do art. 67 dêste Regulamento forem de autoria de servidor do I.O. poder-se-lhe-á conceder a vantagem de que trata o artigo 145, item VII do Estatuto dos Funcionários Públicos Civis da União.
+**Art**. 69. Quando os trabalhos a que alude o item c do art. 67 dêste Regulamento forem de autoria de servidor do I.O. poder-se-lhe-á conceder a vantagem de que trata o artigo 145, item VII do Estatuto dos Funcionários Públicos Civis da União.
 
 Parágrafo único. O disposto nêste artigo aplica-se aos trabalhos publicados no “Arquivo Técnico” ou no Boletim que o I.O. edite em separata.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 70. Ao Diretor incumbe:
+**Art**. 70. Ao Diretor incumbe:
 
 I - coordenar, orientar e dirigir as atividades do I.O.;
 
@@ -710,7 +708,7 @@ XXVI - encaminhar ao Departamento de Administração do Ministério da Agricultu
 
 XXVII - tomar todas as providências urgentes, que forem julgadas convenientes à boa marcha dos serviços do Instituto, comunicando, sem demora, à autoridade superior aquelas que não forem da sua alçada, mas tenham sido adotadas, por motivo de urgência.
 
-<strong>Art</strong>. 71. Aos Chefes das Seções e da Secretaria incumbe:
+**Art**. 71. Aos Chefes das Seções e da Secretaria incumbe:
 
 I - orientar a execução dos serviços e determinar as normas e métodos de trabalho aos elementos do respectivo setor;
 
@@ -746,7 +744,7 @@ XVI - velar pela a disciplina e manutenção da ordem no recinto de trabalho.
 
 Parágrafo Único. Ao Chefe da Secretaria incumbe, ainda, assinar com o Diretor os diplomas certificados expedidos pelo Instituto, bem como os atestados de habilitação nas disciplinas ministradas nos seus Cursos.
 
-<strong>Art</strong>. 72. Aos Chefes das Seções de Tecnologia incumbe, ainda:
+**Art**. 72. Aos Chefes das Seções de Tecnologia incumbe, ainda:
 
 I - coordenar e fiscalizar a execução das disciplinas dos seus setores e dos trabalhos do programa de pesquisas dos servidores técnicos destes setores, através dos coordenadores sob sua jurisdição, quando for o caso, enviando ao C.E., por intermédiario do Diretor, resumo mensal da execução dos referidos trabalhos;
 
@@ -756,9 +754,9 @@ III - coordenar e fiscalizar todo o trabalho da Seção; quer em seu aspecto té
 
 IV - requisitar à Secretária todo material permanente e de consumo necssário aos trabalhos dos laboratórios.
 
-<strong>Art</strong>. 73. Aos coordenadores de setores compete zelar pela eficiência didática das disciplinas do seu setor e pelo bom andamento dos programas de pesquisas em curso nos laboratórios e gabinetes pelo o mesmo compreendido e, ainda, colaborar com o respectivo Chefe de Seção nas tarefas técnicas que lhe conferem atribuídas.
+**Art**. 73. Aos coordenadores de setores compete zelar pela eficiência didática das disciplinas do seu setor e pelo bom andamento dos programas de pesquisas em curso nos laboratórios e gabinetes pelo o mesmo compreendido e, ainda, colaborar com o respectivo Chefe de Seção nas tarefas técnicas que lhe conferem atribuídas.
 
-<strong>Art</strong>. 74. Compete aos docentes responsáveis pelas disciplinas:
+**Art**. 74. Compete aos docentes responsáveis pelas disciplinas:
 
 I - elaborar o programa da respectiva disciplina e apresentá-lo ao Diretor, através do Chefe da Seção, para ser submetido à apreciação do Conselho de Ensino e Pesquisas;
 
@@ -792,7 +790,7 @@ XV - apresentar ao Chefe da Seção relatórios sobre as atividades ligadas ao e
 
 XVI - executar, durante o período de férias escolares, quando designado, atividades correlatas com o ensino que exercer, respeitado o total mínimo de horas estabelecido em lei,
 
-<strong>Art</strong>. 75. Ao Secretário do Diretor, quando incumbe:
+**Art**. 75. Ao Secretário do Diretor, quando incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a este conhecimento do assunto a tratar;
 
@@ -800,35 +798,35 @@ II - representar o Diretor, quando para isto for designado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 76. Aos demais servidores, sem funções especificadas nesse Regulamento, incumbe executar os trabalhos que lhes forem determinados pelos os seus superiores imediatos.
+**Art**. 76. Aos demais servidores, sem funções especificadas nesse Regulamento, incumbe executar os trabalhos que lhes forem determinados pelos os seus superiores imediatos.
 
 Parágrafo único. A cada servidor técnico, de ensino ou pesquisas, incumbe, além da responsabilidade pessoal quanto ao material sob a sua guarda, e da execução do programa do trabalho que lhe for confiado, apresentar resumos diários semanais ou mensais, conforme o caso, e relatórios anuais sôbre esses trabalhos.
 
-<strong>Art</strong>. 77. Cada laboratório ou setor terá sempre um responsável pela a conservação e manutenção do equipamento nele existente, trazendo-o em condições de sua utilização imediata pelos os professores, pesquisadores, auxiliares docentes de pesquisas, e alunos, os quais antes do emprêgo deverão verificar as condições em que o recebem e devolvê-lo em estado de4 utilização imediata ou quando for o caso, acompanhado de documento comprobatório dos defeitos ou estragos existentes, no ato da entrega.
+**Art**. 77. Cada laboratório ou setor terá sempre um responsável pela a conservação e manutenção do equipamento nele existente, trazendo-o em condições de sua utilização imediata pelos os professores, pesquisadores, auxiliares docentes de pesquisas, e alunos, os quais antes do emprêgo deverão verificar as condições em que o recebem e devolvê-lo em estado de4 utilização imediata ou quando for o caso, acompanhado de documento comprobatório dos defeitos ou estragos existentes, no ato da entrega.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 78.O horário normal de trabalho para as atividades de ensino, pesquisas e administração será fixado pelo Diretor, em um ou mais turnos, respeitados o número mínimo de horas semanais ou mensais estabelecido para o Serviço Público em Geral.
+**Art**. 78.O horário normal de trabalho para as atividades de ensino, pesquisas e administração será fixado pelo Diretor, em um ou mais turnos, respeitados o número mínimo de horas semanais ou mensais estabelecido para o Serviço Público em Geral.
 
 Parágrafo único. O número mínimo de horas semanais ou mensais para os professores, assistentes, instrutores e preparadores, pesquisadores e pesquisadores-auxiliares, efetivos e extranumerários, será o fixado para os demais professôres, pesquisadores, auxiliares de ensino e de pesquisas das instituições de ensino superior da União.
 
-<strong>Art</strong>. 79. Sobre o horário escolar, deverá ser ouvido o C.E.P.
+**Art**. 79. Sobre o horário escolar, deverá ser ouvido o C.E.P.
 
-<strong>Art</strong>. 80. Salvo permissão especial nenhum servidor do I.O. poderá seguir qualquer curso em horas que constituam o seu horário normal de trabalho com prejuízo do número de horas semanais ou mensais estabelecido para o serviço público, no que diz respeito às atividades de ensino, pesquisas e administração.
+**Art**. 80. Salvo permissão especial nenhum servidor do I.O. poderá seguir qualquer curso em horas que constituam o seu horário normal de trabalho com prejuízo do número de horas semanais ou mensais estabelecido para o serviço público, no que diz respeito às atividades de ensino, pesquisas e administração.
 
 § 1° O servidor incumbido de atividades de ensino e pesquisas deverá dar um mínimo de horas semanais específicas a cada atividade, devendo destacar nos seus relatórios não só o número de horas dedicadas ao ensino e às pesquisas, como as partes do programa de pesquisas que tenham sido realizadas.
 
 §. 2° Os professores do Instituto ou que aí tenham exercício, quando chefes de Seção, deverão dar no mínimo vinte e cinco horas semanais de supervisão de pesquisas, além das horas especificamente dedicadas ao ensino de sua disciplina.
 
-<strong>Art</strong>. 81. O Diretor não fica sujeito a ponto.
+**Art**. 81. O Diretor não fica sujeito a ponto.
 
-<strong>CAPÍTULO XV</strong>
+**CAPÍTULO XV**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 82. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 82. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor pelo professôr para êsse fim designado pelo Diretor-Geral mediante indicação do Diretor;
 
@@ -836,30 +834,30 @@ II - Os Chefes pelos respectivos subordinados que indicarem ao Diretor e forem p
 
 Parágrafo único. Haverá, sempre, servidores previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO XVI</strong>
+**CAPÍTULO XVI**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 83. No dia 15 de maio, data aniversária do Curso de Especialização em Óleos Vegetais e Derivados, será realizada no Instituto de Óleos, órgão em que se converteu aquele Curso, uma conferência pública, na sede do Diretor ou por outro servidor por êle designado, sobre os principais trabalhos científicos e tecnológicos, publicados ou executados durante o ano anterior, concernentes às especialidades de que se ocupa o Instituto, dificuldades vencidas e a vencer, o programa de trabalho do ano em curso.
+**Art**. 83. No dia 15 de maio, data aniversária do Curso de Especialização em Óleos Vegetais e Derivados, será realizada no Instituto de Óleos, órgão em que se converteu aquele Curso, uma conferência pública, na sede do Diretor ou por outro servidor por êle designado, sobre os principais trabalhos científicos e tecnológicos, publicados ou executados durante o ano anterior, concernentes às especialidades de que se ocupa o Instituto, dificuldades vencidas e a vencer, o programa de trabalho do ano em curso.
 
-<strong>Art</strong>. 84. Não é permitido trabalhar nos laboratórios e demais dependências do Instituto, pessoas que não sejam servidores efetivos, extranumerários ou pessoa que trabalhe na base de honorários; salvo de alunos matriculados e os previstos nos acordos mencionados no art. 91.
+**Art**. 84. Não é permitido trabalhar nos laboratórios e demais dependências do Instituto, pessoas que não sejam servidores efetivos, extranumerários ou pessoa que trabalhe na base de honorários; salvo de alunos matriculados e os previstos nos acordos mencionados no art. 91.
 
-<strong>Art</strong>. 85. O I.O. adotará uma Carteira de Identidade, destinada ao curso exclusivo de seus servidores e alunos, a qual será obrigatoriamente recolhida, quando estes não mais pertencerem aos quadros do Instituto.
+**Art**. 85. O I.O. adotará uma Carteira de Identidade, destinada ao curso exclusivo de seus servidores e alunos, a qual será obrigatoriamente recolhida, quando estes não mais pertencerem aos quadros do Instituto.
 
-<strong>Art</strong>. 86. Os diplomados em agronomia e química industrial, portadores de certificados dos Cursos referidos no art. 1º do Decreto-lei número 20.428, de 13 de outubro de 1931, e no art. 1º do Decreto-lei nº 1.664, de 9 de outubro de 1939, gozarão das mesmas vantagens conferidas aos diplomados ou portadores de certificados dos cursos disciplinados pelo presente Regulamento.
+**Art**. 86. Os diplomados em agronomia e química industrial, portadores de certificados dos Cursos referidos no art. 1º do Decreto-lei número 20.428, de 13 de outubro de 1931, e no art. 1º do Decreto-lei nº 1.664, de 9 de outubro de 1939, gozarão das mesmas vantagens conferidas aos diplomados ou portadores de certificados dos cursos disciplinados pelo presente Regulamento.
 
-<strong>Art</strong>. 87. Os alunos matriculados nos cursos de I.O., sob o regime da portaria nº 856, de 27 de novembro de 1947, e do Decreto nº 28.733, de 9 de outubro de 1950, gozarão das mesmas vantagens conferidas aos diplomados ou portadores de certificados dos Cursos disciplinados pelo presente Regulamento.
+**Art**. 87. Os alunos matriculados nos cursos de I.O., sob o regime da portaria nº 856, de 27 de novembro de 1947, e do Decreto nº 28.733, de 9 de outubro de 1950, gozarão das mesmas vantagens conferidas aos diplomados ou portadores de certificados dos Cursos disciplinados pelo presente Regulamento.
 
-<strong>Art</strong>. 88. Os docentes e auxiliares docentes terão, nos seus títulos de nomeação ou portarias de designação de função, especificada a disciplina e a parte desta que vão lecionar ou auxiliar, conforme for o caso.
+**Art**. 88. Os docentes e auxiliares docentes terão, nos seus títulos de nomeação ou portarias de designação de função, especificada a disciplina e a parte desta que vão lecionar ou auxiliar, conforme for o caso.
 
-<strong>Art</strong>. 89. Os técnicos da série funcional de Tecnologistas de Óleos, serão selecionados entre os portadores de diplomas ou certificados dos cursos do Instituto, de acôrdo com a legislação em vigor e nos termos das recomendações aprovadas pelo C.E.P.
+**Art**. 89. Os técnicos da série funcional de Tecnologistas de Óleos, serão selecionados entre os portadores de diplomas ou certificados dos cursos do Instituto, de acôrdo com a legislação em vigor e nos termos das recomendações aprovadas pelo C.E.P.
 
-<strong>Art</strong>. 90. Os portadores de diplomadas de técnico em química industrial, devidamente registrados na Divisão do Ensino Industrial do Ministério da Educação e Cultura, poderão inscrever-se no exame de admissão aos cursos de revisão do I.O., nos termos do item III do art. 18 do Decreto-lei nº 4.073, de 30 de janeiro de 1942, e a portaria n° 38, de 22 de janeiro de 1946, do Ministério da Educação e Cultura.
+**Art**. 90. Os portadores de diplomadas de técnico em química industrial, devidamente registrados na Divisão do Ensino Industrial do Ministério da Educação e Cultura, poderão inscrever-se no exame de admissão aos cursos de revisão do I.O., nos termos do item III do art. 18 do Decreto-lei nº 4.073, de 30 de janeiro de 1942, e a portaria n° 38, de 22 de janeiro de 1946, do Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 91. Os acordos assinados com Universidades e Instituições de ensino ou de pesquisas, Governos estaduais e municipais, bem como os que forem firmados com base na lei de nº 1.509, de 19 de dezembro de 1951, serão considerados anualmente renovados, salvo estipulação em contrário, até que uma das partes interessadas proponha a sua revogação.
+**Art**. 91. Os acordos assinados com Universidades e Instituições de ensino ou de pesquisas, Governos estaduais e municipais, bem como os que forem firmados com base na lei de nº 1.509, de 19 de dezembro de 1951, serão considerados anualmente renovados, salvo estipulação em contrário, até que uma das partes interessadas proponha a sua revogação.
 
-<strong>Art</strong>. 92. Os casos omissos no presente Regulamento serão resolvidos pelo Ministro da Agricultura, por proposta do Diretor, ouvido o C.E.P. ou a C.E.E., conforme o caso.
+**Art**. 92. Os casos omissos no presente Regulamento serão resolvidos pelo Ministro da Agricultura, por proposta do Diretor, ouvido o C.E.P. ou a C.E.E., conforme o caso.
 
 Rio de Janeiro, em 14 de fevereiro de 1955.
 
-<strong>COSTA PÔRTO</strong>
+**COSTA PÔRTO**

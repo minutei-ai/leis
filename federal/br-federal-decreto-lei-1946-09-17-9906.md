@@ -1,5 +1,3 @@
-###DEL-009906-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.906 – DE 17 DE SETEMBRO DE 1946
 
 Autoriza a permuta de terrenos entre a Prefeitura do Distrito Federal e o Jockey Club Brasileiro e dá outras providências.

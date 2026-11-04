@@ -1,5 +1,3 @@
-###DEC-092391-0-000-06-02-1986@@@
-
 DECRETO Nº 92.391, DE 06 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Itararé, em são Paulo.

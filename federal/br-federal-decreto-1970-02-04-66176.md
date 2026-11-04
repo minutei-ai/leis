@@ -1,5 +1,3 @@
-###DEC-066176-0-000-04-02-1970@@@
-
 DECRETO Nº 66.176 - DE 4 DE FEVEREIRO DE 1970
 
 Declara estado de calamidade pública na Cidade de Colatina, no Estado do Espírito Santo e abre o crédito extraordinário de NCr$ 500.000,00 (quinhentos mil cruzeiros novos) e dá outras providências.

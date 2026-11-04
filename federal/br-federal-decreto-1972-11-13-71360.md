@@ -1,5 +1,3 @@
-###DEC-071360-0-000-13-11-1972@@@
-
 DECRETO Nº 71.360 - DE 13 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Arapongas - PR.

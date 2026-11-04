@@ -1,5 +1,3 @@
-###DEC-047985-0-000-04-04-1960@@@
-
 DECRETO Nº 47.985, DE 4 DE ABRIL DE 1960.
 
 Altera a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

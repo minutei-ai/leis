@@ -1,5 +1,3 @@
-###DEC-077017-0-000-15-01-1976@@@
-
 Decreto nº 77.017, de 15 de janeiro de 1976.
 
 Autoriza o registro em, nome da União Federal, do imóvel que menciona, situado no Estado da Bahia.

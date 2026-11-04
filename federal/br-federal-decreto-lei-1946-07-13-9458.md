@@ -1,5 +1,3 @@
-###DEL-009458-0-000-13-07-1946@@@
-
 DECRETO-LEI N. 9.458 – DE 13 DE JULHO DE 1946
 
 Abre ao Ministério da Aeronáutica o crédito especial de Cr$ 72.600.000,00, para pagamento de material adquirido nos Estados Unidos da América

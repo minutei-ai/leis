@@ -1,5 +1,3 @@
-###DEC-062220-0-000-02-02-1968@@@
-
 DECRETO Nº 62.220, DE 2 DE FEVEREIRO DE 1968.
 
 Cria a Policlínica Militar de Niterói.

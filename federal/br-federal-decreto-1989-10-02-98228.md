@@ -1,7 +1,3 @@
-1
-
-###DEC-098228-0-000-02-10-1989@@@
-
 DECRETO Nº 98.228, DE 2 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado à Rua São Carlos, nº 677, na Cidade de Campinas, Estado de São Paulo.

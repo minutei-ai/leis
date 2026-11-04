@@ -1,7 +1,3 @@
-1
-
-###DEC-095612-0-000-11-01-1988@@@
-
 DECRETO N° 95.612, DE 11 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do curso de Pedagogia do Centro de Ensino Superior de Catalão, Goiás.

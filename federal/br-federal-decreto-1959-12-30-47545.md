@@ -1,5 +1,3 @@
-###DEC-047545-0-000-30-12-1959@@@
-
 Decreto nº 47.545, de 30 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro David Dequech a pesquisar quartzo no município de Tubarão, Estado de Santa Catarina.

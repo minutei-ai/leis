@@ -1,5 +1,3 @@
-###DEC-050836-0-000-23-06-1961@@@
-
 DECRETO Nº 50.836, DE 23 DE JUNHO DE 1961.
 
 Altera o Art. 4º do Decreto nº 47.473, de 22-12-1959.

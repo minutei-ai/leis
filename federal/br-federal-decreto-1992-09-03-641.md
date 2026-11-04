@@ -1,7 +1,3 @@
-1
-
-###DEC-000641-0-000-03-09-1992@@@ 
-
 DECRETO Nº 641, DE 3 DE SETEMBRO DE 1992
 
 Aprova o Regulamento consolidado da Comissão Brasileira de Atividades Espaciais (COBAE).

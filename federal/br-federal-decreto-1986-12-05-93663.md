@@ -1,5 +1,3 @@
-###DEC-093663-0-000-05-12-1986@@@
-
 DECRETO Nº 93.663, DE 5 DE DEZEMBRO DE 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra necessária à construção do Açude Público ''Barra do Juá'', nos Municípios de Floresta e Betânia, Estado de Pernambuco, para a execução do Programa Nacional do Nordeste (PROINE), e dá outras providências.

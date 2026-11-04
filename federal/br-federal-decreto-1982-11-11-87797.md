@@ -1,5 +1,3 @@
-###DEC-087797-0-000-11-11-1982@@@
-
 Decreto nº 87.797, de 11 de novembro de 1982.
 
 Outorga à Centrais Elétricas de Rondônia S.A. - CERON concessão para o aproveitamento da energia hidráulica de um trecho do rio Ávila, no Município de Vilhena, Estado de Rondônia.

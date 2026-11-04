@@ -1,5 +1,3 @@
-###DEC-084595-0-000-25-03-1980@@@
-
 DECRETO Nº 84.595, DE 25 DE MARÇO DE 1980.
 
 Altera a constituição do Conselho de Não-Ferrosos e de Siderurgia, da nova redação ao Decreto número 74.361, de 02 de agosto de 1974 e outras providências.

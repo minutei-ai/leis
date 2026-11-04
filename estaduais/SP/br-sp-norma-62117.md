@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62117)
-
 # LEI Nº 12.349, DE 24 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 49/2005, do Deputado Edson Aparecido - PSDB)

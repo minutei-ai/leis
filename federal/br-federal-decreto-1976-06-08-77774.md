@@ -1,5 +1,3 @@
-###DEC-077774-0-000-08-06-1976@@@
-
 DECRETO Nº 77.774, DE 8 DE JUNHO DE 1976.
 
 Regulamenta a Lei nº 6.269 de 24 de novembro de 1975, que instituiu sistema de assistência complementar ao atleta profissional.

@@ -1,5 +1,3 @@
-###DEL-008075-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.075 – DE 11 DE OUTUBRO DE 1945
 
 Prorroga o prazo de funcionamento da junta especial instituída pelo Decreto-lei n. 1.401, de 20 de março de 1945.

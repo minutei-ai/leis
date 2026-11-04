@@ -1,5 +1,3 @@
-###DEC-076570-0-000-07-11-1975@@@
-
 DECRETO Nº 76.570, DE 7 DE NOVEMBRO DE 1975.
 
 Cria o 47º Batalhão de Infantaria e dá outras providências.

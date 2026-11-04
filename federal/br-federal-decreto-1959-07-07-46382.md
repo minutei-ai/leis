@@ -1,5 +1,3 @@
-###DEC-046382-0-000-07-07-1959@@@
-
 DECRETO Nº 46.382, DE 07 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho com a finalidade de proteger e executar a transformação das atuais hospedarias de migrantes, localizados, nas capitais dos Estados do Ceará, Pará e Amazonas, em hospedarias sediadas na zona rural, sem prejuízo dos atuais programas de colonização.

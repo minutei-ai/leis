@@ -1,5 +1,3 @@
-###MPV-001778-0-012-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.778-12, DE 2 DE JUNHO DE 1999.
 
 Estabelece prazo de prescrição para o exercício de ação punitiva pela Administração Pública Federal, direta e indireta, e dá outras providências.

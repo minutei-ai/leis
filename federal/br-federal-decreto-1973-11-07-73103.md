@@ -1,5 +1,3 @@
-###DEC-073103-0-000-07-11-1973@@@
-
 DECRETO Nº 73.103 - DE 7 DE NOVEMBRO DE 1973
 
 Autoriza o funcionamento da Escola de Educação Física da Guanabara, mantida pelo Centro Educacional de Realengo, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

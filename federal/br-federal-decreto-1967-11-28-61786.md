@@ -1,5 +1,3 @@
-###DEC-061786-0-000-28-11-1967@@@
-
 DECRETO Nº 61.786, DE 28 DE NOVEMBRO DE 1967.
 
 Autoriza o Ministro da Fazenda a ratificar os contratos celebrados, no exterior pelo Ministério da Educação e Cultura, para aquisição de material para o Ensino Técnico Industrial.

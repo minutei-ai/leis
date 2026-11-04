@@ -1,5 +1,3 @@
-###DEC-080924-0-000-05-12-1977@@@
-
 DECRETO Nº 80.924, DE 05 DE DEZEMBRO DE 1977.
 
 Declara sem efeito o Decreto n.º 58.539, de 30 de maio de 1966, que autorizou o cidadão brasileiro Erly Avelino Villas a lavrar caulim no Município de Chácara, Estado de Minas Gerais.

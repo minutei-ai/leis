@@ -1,5 +1,3 @@
-###DEC-007612-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.612, DE 17 DE NOVEMBRO DE 2011
 
 Institui o Plano Nacional dos Direitos da Pessoa com Deficiência - Plano Viver sem Limite.

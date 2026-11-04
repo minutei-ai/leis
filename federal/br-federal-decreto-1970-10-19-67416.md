@@ -1,5 +1,3 @@
-###DEC-067416-0-000-19-10-1970@@@
-
 DECRETO Nº 67.416, DE 19 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública o Nosso Lar - Instituição Filantrópica de Amparo à Criança, com sede em São Bernardo do Campo, Estado de São Paulo.

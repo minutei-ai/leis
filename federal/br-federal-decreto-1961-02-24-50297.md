@@ -1,5 +1,3 @@
-###DEC-050297-0-000-24-02-1961@@@
-
 DECRETO Nº 50.297, DE 24 DE FEVEREIRO DE 1961.
 
 Fixa o número de vagas para a cota compulsória no Ministério da Guerra.

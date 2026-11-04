@@ -1,5 +1,3 @@
-###DEC-052640-0-000-09-10-1963@@@
-
 DECRETO Nº 52.640, DE 9 DE OUTUBRO DE 1963.
 
 Aprova no Ministério da Agricultura o plano de Melhoramento de Alimentação e do Manejo do Gado Leiteiro e dá outras providências.

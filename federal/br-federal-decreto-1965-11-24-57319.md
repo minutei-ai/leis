@@ -1,5 +1,3 @@
-###DEC-057319-0-000-24-11-1965@@@
-
 DECRETO Nº 57.319, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga à Centrais Elétricas do Amazonas S.A. concessão para distribuir energia elétrica no Município de Maués, Amazonas.

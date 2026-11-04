@@ -1,5 +1,3 @@
-###DEC-005560-0-000-07-10-2005@@@
-
 DECRETO Nº 5.560, DE 7 DE OUTUBRO DE 2005
 
 Altera dispositivos do Decreto n o 5.140, de 13 de julho de 2004, que regulamenta o art. 31 da Lei n o 10.893, de 13 de julho de 2004.

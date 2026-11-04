@@ -1,5 +1,3 @@
-###DEC-002312-0-000-28-08-1997@@@
-
 DECRETO Nº 2.312, DE 28 DE AGOSTO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º  do Decreto nº 1.820, de 26 de fevereiro de 1996.

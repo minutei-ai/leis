@@ -1,5 +1,3 @@
-###DEC-084445-0-000-30-01-1980@@@
-
 DECRETO nº 84.445, de 30 de janeiro de 1980.
 
 Cria a Embaixada do Brasil em Santa Lúcia.

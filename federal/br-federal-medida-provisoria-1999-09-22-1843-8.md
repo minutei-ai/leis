@@ -1,5 +1,3 @@
-###MPV-001843-0-008-22-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.843-8, De 22 de Setembro de 1999.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

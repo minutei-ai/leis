@@ -1,5 +1,3 @@
-###DEC-059615-0-000-30-11-1966@@@
-
 DECRETO Nº 59.615, DE 30 DE NOVEMBRO DE 1966.
 
 Aprova o Regulamento da Lei nº 5.106, de 2 de setembro de 1966.
@@ -168,4 +166,20 @@ Art. 21. Êste Regulamento entrará em vigor na data de sua publicação.
 
 Brasília, 30 de novembro de 1966; 145º da Independência e 78º da República.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Severo Fagundes Gomes</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Eduardo Lopes Rodrigues</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro da Agricultura</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro da Fazenda</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Severo Fagundes Gomes
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Eduardo Lopes Rodrigues
+
+</td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Ministro da Agricultura
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Ministro da Fazenda
+
+</td></tr></tbody></table>

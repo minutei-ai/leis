@@ -1,5 +1,3 @@
-###DEC-006677-0-000-05-12-2008@@@
-
 DECRETO Nº 6.677, DE 5 DE DEZEMBRO DE 2008.
 
 Reduz temporariamente a zero as alíquotas do Imposto sobre Produtos Industrializados - IPI incidentes sobre produtos doados ao Estado de Santa Catarina, destinados às vítimas das enchentes naquele Estado.

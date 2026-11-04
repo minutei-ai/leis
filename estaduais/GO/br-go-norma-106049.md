@@ -18,8 +18,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 6 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -28,7 +26,7 @@ ANEXO ÚNICO
 
 | IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO, MEDIANTE DOAÇÃO ONEROSA, AO MUNICÍPIO DE JAUPACI/GO |
 | --- |
-| LOCALIZAÇÃO | **Rua Guarda-Mor** **,** **esquina com a Avenida Antônio Eduardo de Souza, Jaupaci** **/GO** |
-| ÁREA | **1.824,00 m2 com** **611,68** **m****²** **de benfeitorias** |
+| LOCALIZAÇÃO | **Rua Guarda-Mor,esquina com a Avenida Antônio Eduardo de Souza, Jaupaci/GO** |
+| ÁREA | **1.824,00 m2 com611,68m²de benfeitorias** |
 | MATRÍCULA | **Nº 786 – Cartório de Registro de Imóveis e Anexos de Jaupaci/GO** |
 | DISCRIMINAÇÃO DO IMÓVEL | Sua frente para a Rua Guarda-Mor, medindo 32,00 m mais 12,00 m de chanfrado. O fundo divide com a Escola Municipal Pré-Escolar Geraldo de Oliveira, medindo 52,00 m. O lado esquerdo divide com o Lote nº 1, de propriedade de Divina Teixeira de Macedo, medindo 44,00 m. O lado direito divide com a Avenida Antônio Eduardo de Souza, medindo 32,00 m. |

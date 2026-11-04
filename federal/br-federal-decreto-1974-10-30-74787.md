@@ -1,5 +1,3 @@
-###DEC-074787-0-000-30-10-1974@@@
-
 DECRETO Nº 74.787, DE 30 DE OUTUBRO DE 1974.
 
 Renova por dez (10) anos a concessão outorgada à Rádio Sociedade Triângulo Mineiro, cuja denominação foi alterada para Rádio Sociedade Triângulo Mineiro Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Uberaba, Estado de Minas Gerais.

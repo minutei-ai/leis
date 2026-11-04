@@ -1,5 +1,3 @@
-###DEC-048088-0-000-08-04-1960@@@
-
 DECRETO Nº 18.088, DE 8 DE ABRIL DE 1960.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Distrito Federal.

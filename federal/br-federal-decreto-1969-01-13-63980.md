@@ -1,5 +1,3 @@
-###DEC-063980-0-000-13-01-1969@@@
-
 decreto nº 63.980, de 13 de janeiro de 1969.
 
 Aprova o Regulamento do Comando Naval de Brasília e dá outras providências.

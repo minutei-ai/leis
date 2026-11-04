@@ -1,5 +1,3 @@
-###DEC-081603-0-000-26-04-1978@@@
-
 Decreto nº 81.603, de 26 de abril de 1978.
 
 Declara de utilidade pública para fins de desapropriação pelo Ministério do Interior - Secretaria Especial do Meio Ambiente - SEMA, áreas de terras nos Municípios de Rio Grande e Santa Vitória do Palmar, Estado do Rio Grande do Sul.

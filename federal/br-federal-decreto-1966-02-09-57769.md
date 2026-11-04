@@ -1,5 +1,3 @@
-###DEC-057769-0-000-09-02-1966@@@
-
 DECRETO Nº 57.769, DE 9 DE FEVEREIRO DE 1966.
 
 Revoga o Decreto nº 57.280, de 17 de novembro de 1965, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094534-0-000-26-06-1987@@@
-
 DECRETO N° 94.534, DE 26 DE JUNHO DE 1987.
 
 Dispõe sobre as despesas de pessoal à conta do Tesouro Nacional nos órgãos da Administração Federal Direta e Indireta.

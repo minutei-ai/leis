@@ -1,5 +1,3 @@
-###DEC-050227-0-000-28-01-1961@@@
-
 Decreto nº 50.227, de 28 de janeiro de 1961.
 
 Transfere servidor e altera lotação.

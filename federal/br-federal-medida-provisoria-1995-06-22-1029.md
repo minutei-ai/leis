@@ -1,7 +1,3 @@
-1
-
-###MPV-001029-0-000-22-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.029, DE 22 DE JUNHO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

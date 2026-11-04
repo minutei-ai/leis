@@ -32,14 +32,18 @@ Goiânia, 25 de março de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
+RONALDO CAIADO
+
+Governador do Estado
+
 TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DE GOIÁS
 
-**ANEXO I**<br>
+**ANEXO I**
+
 (Altera o Anexo V da [Lei nº 13.251](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82796), de 1998)
 
-**“ANEXO V**<br>
+**“ANEXO V**
+
 Cargos em Comissão do Ministério Público Especial junto ao TCM
 
 | DENOMINAÇÃO | SÍMBOLO | QUANTITATIVO | VENCIMENTO | GRATIFICAÇÃO |
@@ -51,10 +55,12 @@ Cargos em Comissão do Ministério Público Especial junto ao TCM
 
 " (NR)
 
-**ANEXO II**<br>
+**ANEXO II**
+
 (Altera o Anexo IX da [Lei nº 13.251](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82796), de 1998)
 
-**“ANEXO IX**<br>
+**“ANEXO IX**
+
 Quadro de cargos em comissão de apoio à Presidência
 
 | DENOMINAÇÃO | SÍMBOLO | QUANTITATIVO | VENCIMENTO | GRATIFICAÇÃO |
@@ -68,10 +74,12 @@ Quadro de cargos em comissão de apoio à Presidência
 
 " (NR)
 
-**ANEXO III**<br>
+**ANEXO III**
+
 (Altera o Anexo XIII da [Lei nº 13.251](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82796), de 1998)
 
-**“ANEXO XIII**<br>
+**“ANEXO XIII**
+
 Requisitos e atribuições dos cargos de Direção, Chefia e Assessoramento
 
 | NOME DO CARGO | SÍMBOLO | REQUISITO | ATRIBUIÇÃO |

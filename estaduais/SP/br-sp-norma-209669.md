@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209669)<br>
-
 # LEI N° 17.970, DE 02 DE JULHO DE 2024
 
 ## (Projeto de lei n° 511/2023, do Deputado Ricardo Madalena - PL)

@@ -1,5 +1,3 @@
-###DEC-002289-0-000-04-08-1997@@@
-
 DECRETO Nº 2.289, DE 4 DE AGOSTO DE 1997
 
 Dá nova redação ao inciso I do art. 45 do Decreto nº 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente, e dá outras providências.

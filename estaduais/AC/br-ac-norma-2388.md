@@ -1,6 +1,10 @@
 > **LEI Nº 3.211, DE 26 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a realizar doação de um imóvel urbano para a Prefeitura Municipal de Tarauacá-Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a realizar doação de um imóvel urbano para a Prefeitura Municipal de Tarauacá-Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-050116-0-000-26-01-1961@@@
-
 DECRETO Nº 50.116, DE 26 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Difusora de São Paulo S.A. para estabelecer uma estação de radiotelevisão.

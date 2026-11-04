@@ -1,5 +1,3 @@
-###DEC-056981-0-000-01-10-1965@@@
-
 DECRETO Nº 56.981, DE 1º DE OUTUBRO DE 1965.
 
 Abre à Superintendência do Plano de Valorização Econômica da Amazônia o crédito especial de Cr$10.000.000.000, para o fim que especifica.

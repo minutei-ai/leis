@@ -1,5 +1,3 @@
-###DEC-075060-0-000-09-12-1974@@@
-
 Decreto nº 75.060, de 9 de dezembro de 1974.
 
 Concede a Indústria Brasileiras de Artigos Refratários S/A - "IBAR" o direito de lavrar argila no Município de Mogi das Cruzes, Estado de São Paulo.

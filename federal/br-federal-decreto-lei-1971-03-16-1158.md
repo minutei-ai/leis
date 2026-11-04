@@ -1,5 +1,3 @@
-###DEL-001158-0-000-16-03-1971@@@
-
 # DECRETO-LEI Nº 1.158, DE 16 DE MARÇO DE 1971
 
 Dispõe sôbre estímulos à exportação de produtos manufaturados.

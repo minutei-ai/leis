@@ -1,5 +1,3 @@
-###DEC-086760-0-000-19-12-1981@@@
-
 Decreto nº 86.760 de 19 de dezembro de 1981.
 
 Cria o Programa Nacional de Rodovias Alimentadoras e dá outras providências.

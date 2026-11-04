@@ -1,5 +1,3 @@
-###DEC-003619-0-000-04-10-2000@@@
-
 DECRETO Nº 3.619, DE 4 DE OUTUBRO DE 2000.
 
 Dispõe sobre a execução do Vigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 31 de julho de 2000.

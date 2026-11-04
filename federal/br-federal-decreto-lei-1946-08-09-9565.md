@@ -1,5 +1,3 @@
-###DEL-009565-0-000-09-08-1946@@@
-
 DECRETO-LEI N. 9.565 – DE 9 DE AGÔSTO DE 1946
 
 Estabelece multa pela falta de depósito, em moeda nacional, dos títulos em moeda estrangeira de que trata o Decreto-lei nº 2.703, de 28 de Outubro de 1940, e dá outras providências.

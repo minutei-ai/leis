@@ -1,5 +1,3 @@
-###DEC-077137-0-000-12-02-1976@@@
-
 DECRETO Nº 77.137, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas de Blumenau, com sede na cidade de Blumenau, Estado de Santa Catarina.

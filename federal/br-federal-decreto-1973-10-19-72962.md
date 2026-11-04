@@ -1,5 +1,3 @@
-###DEC-072962-0-000-19-10-1973@@@
-
 DECRETO Nº 72.962, DE 19 DE OUTUBRO DE 1973.
 
 Aprova os Atos Constitutivos da Siderurgia Brasileira S.A. - SIDEBRÁS.

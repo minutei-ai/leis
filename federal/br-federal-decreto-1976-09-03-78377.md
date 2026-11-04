@@ -1,5 +1,3 @@
-###DEC-078377-0-000-03-09-1976@@@
-
 Decreto nº 78.377, de 3 de setembro de 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Educação, Ciências e Letras Mário Henrique Simonsen, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

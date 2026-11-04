@@ -1,5 +1,3 @@
-###MPV-002033-0-034-27-07-2000@@@
-
 medida provisória nº 2.033-34, de 27 de julho de 2000.
 
 Altera a legislação do imposto de renda relativamente à incidência na fonte sobre rendimentos de aplicações financeiras, inclusive de beneficiários residentes ou domiciliados no exterior, à conversão, em capital social, de obrigações no exterior de pessoas jurídicas domiciliadas no País, amplia as hipóteses de opção, pelas pessoas físicas, pelo desconto simplificado, regula a informação, na declaração de rendimentos, de depósitos mantidos em bancos no exterior, e dá outras providências.

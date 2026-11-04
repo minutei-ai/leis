@@ -1,5 +1,3 @@
-###DEL-009176-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.176 – DE 15 DE ABRIL DE 1946
 
 Fixa a representação de Delegados do Brasil em organizações internacionais.

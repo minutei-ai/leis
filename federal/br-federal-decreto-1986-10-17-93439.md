@@ -1,5 +1,3 @@
-###DEC-093439-0-000-17-10-1986@@@
-
 DECRETO Nº 93.439, DE 17 DE OUTUBRO DE 1986.
 
 Cria a Coordenadoria para Projetos Especiais e dá outras providências.

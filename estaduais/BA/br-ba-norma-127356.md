@@ -1,7 +1,9 @@
 LEI Nº 12.949 DE 14 DE FEVEREIRO DE 2014
 
-Ver também:<br>
-Decreto nº [15.632](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15632-de-30-de-outubro-de-2014), de 30 de outubro de 2014. Altera o § 2º do art. 16 do Decreto nº [15.219](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15219-de-30-de-junho-de-2014), de 30 de junho de 2014.<br>
+Ver também:
+
+Decreto nº [15.632](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15632-de-30-de-outubro-de-2014), de 30 de outubro de 2014. Altera o § 2º do art. 16 do Decreto nº [15.219](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15219-de-30-de-junho-de-2014), de 30 de junho de 2014.
+
 Regulamentada pelo Decreto nº [15.219](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15219-de-30-de-junho-de-2014) de 30 de junho de 2014.
 
 Institui mecanismo de controle do patrimônio público do Estado da Bahia, dispondo sobre provisões de encargos trabalhistas a serem pagos às empresas contratadas para prestar serviços de forma contínua, no âmbito dos Poderes Públicos do Estado da Bahia.

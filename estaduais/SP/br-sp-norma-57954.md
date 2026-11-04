@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57954)
-
 # LEI Nº 12.065, DE 26 DE SETEMBRO DE 2005
 
 ## ( PL 286/2005 - Governador)

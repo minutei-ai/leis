@@ -1,5 +1,3 @@
-###DEC-094007-0-000-09-02-1987@@@
-
 DECRETO Nº 94.007, DE 09 DE FEVEREIRO DE 1987
 
 Dispõe sobre o pagamento de despesas no Exterior.

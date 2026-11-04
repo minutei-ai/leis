@@ -1,5 +1,3 @@
-###DEC-049057-0-000-05-10-1960@@@
-
 Decreto nº 49.057, de 5 de outubro de 1960.
 
 Concede à sociedade P.P Testini & Cia. Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

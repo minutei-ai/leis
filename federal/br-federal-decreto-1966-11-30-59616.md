@@ -1,5 +1,3 @@
-###DEC-059616-0-000-30-11-1966@@@
-
 DECRETO Nº 59.616, DE 30 DE NOVEMBRO DE 1966.
 
 Outorga à Companhia Central Brasileira de Fôrça Elétrica, concessão para o aproveitamento progressivo da energia hidráulica de um trecho do Rio Doce, nos municípios de Baixo Guandu e Aimorés, respectivamente nos Estados do Espírito Santo e Minas Gerais.

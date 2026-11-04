@@ -1,5 +1,3 @@
-###DEC-077109-0-000-04-02-1976@@@
-
 Decreto nº 77.109, de 4 de fevereiro de 1976.
 
 Cria a 9º Companhia de Guardas e dá outras providências.

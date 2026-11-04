@@ -1,5 +1,3 @@
-###DEC-054844-0-000-03-11-1964@@@
-
 DECRETO Nº 54.844, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Edmundo de Moura Carvalho a pesquisar grafita no município de Carvalhos, Estado de Minas Gerais.

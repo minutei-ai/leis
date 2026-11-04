@@ -1,7 +1,3 @@
-1
-
-###DEC-001266-0-000-11-10-1994@@@
-
 DECRETO Nº 1.266, DE 11 DE OUTUBRO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

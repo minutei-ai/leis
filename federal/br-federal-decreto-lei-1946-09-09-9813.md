@@ -1,5 +1,3 @@
-###DEL-009813-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.813 – DE 9 DE SETEMBRO DE 1946
 
 Centraliza no Ministério da Fazenda os pagamentos à conta de diversos Ministérios, dispõe sôbre o recolhimento da arrecadação federal, e dá outras providências.

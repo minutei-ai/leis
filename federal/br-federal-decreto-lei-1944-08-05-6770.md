@@ -1,5 +1,3 @@
-###DEL-006770-0-000-05-08-1944@@@
-
 DECRETO-LEI N. 6.770 – DE 5 DE AGÔSTO DE 1944
 
 Abre à Coordenação da Mobilização Econômica o crédito especial de Cr$ 4.000.000,00, para auxílio à Fundação Brasil Central

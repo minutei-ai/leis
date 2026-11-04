@@ -1,5 +1,3 @@
-###DEL-007756-0-000-19-07-1945@@@
-
 DECRETO-LEI N. 7.756 – DE 19 DE JULHO DE 1945
 
 Dispõe sôbre a admissão de pessoal para os órgãos eleitorais

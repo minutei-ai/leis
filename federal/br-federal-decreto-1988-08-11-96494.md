@@ -1,5 +1,3 @@
-###DEC-096494-0-000-11-08-1988@@@
-
 DECRETO N° 96.494, DE 11 DE AGOSTO DE 1988
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Social - CDS.

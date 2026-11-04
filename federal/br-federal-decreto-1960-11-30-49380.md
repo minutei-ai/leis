@@ -1,5 +1,3 @@
-###DEC-049380-0-000-30-11-1960@@@
-
 DECRETO Nº 49.380, DE 30 DE novembro DE 1960.
 
 Altera o art. 21 e seu parágrafo do Decreto nº 41.186, de 20 de março de 1957.

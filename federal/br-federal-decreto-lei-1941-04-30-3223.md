@@ -1,5 +1,3 @@
-###DEL-003223-0-000-30-04-1941@@@
-
 DECRETO-LEI N. 3.223 – DE 30 DE ABRIL DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Justiça e Negócios Interiores

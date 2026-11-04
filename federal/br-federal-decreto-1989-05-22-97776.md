@@ -1,7 +1,3 @@
-1
-
-###DEC-097776-0-000-22-05-1989@@@
-
 DECRETO Nº 97.776, DE 22 DE MAIO DE 1989
 
 Prorroga o prazo previsto no parágrafo único do art. 2º do Decreto nº 97.455, de 15 de janeiro de 1989.

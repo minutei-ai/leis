@@ -1,5 +1,3 @@
-###DEC-046086-0-000-19-05-1959@@@
-
 DECRETO Nº 46.086, DE 19 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Carl Roderich Raeder a pesquisar ilmenita no município de Paranaguá, Estado do Paraná.

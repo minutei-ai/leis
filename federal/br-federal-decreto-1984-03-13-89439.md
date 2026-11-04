@@ -1,5 +1,3 @@
-###DEC-089439-0-000-13-03-1984@@@
-
 Decreto nº 89.439, de 13 de março de 1984
 
 Declara de utilidade pública as instituições que menciona.

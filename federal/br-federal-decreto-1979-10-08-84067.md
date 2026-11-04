@@ -1,5 +1,3 @@
-###DEC-084067-0-000-08-10-1979@@@
-
 decreto nº 84.067, de 08 de outubro de 1979.
 
 Cria a Secretaria Especial de Informática, como órgão complementar do Conselho de Segurança Nacional, e dá outras providências.

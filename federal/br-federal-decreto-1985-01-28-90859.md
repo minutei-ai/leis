@@ -1,5 +1,3 @@
-###DEC-090859-0-000-28-01-1985@@@
-
 DECRETO nº 90.859 de 28 de janeiro dE 1985.
 
 Prorroga o prazo estabelecido pelo Decreto nº 90387, de 30 de outubro de 1984.

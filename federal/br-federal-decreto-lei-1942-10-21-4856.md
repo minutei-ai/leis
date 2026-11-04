@@ -1,5 +1,3 @@
-###DEL-004856-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.856 – DE 21 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 20.000:000$0, para ligações ferroviárias

@@ -1,5 +1,3 @@
-###DEC-067288-0-000-28-09-1970@@@
-
 decreto nº 67.288, de 28 de setembro de 1970.
 
 Retifica decreto de aproveitamento de disponível no Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

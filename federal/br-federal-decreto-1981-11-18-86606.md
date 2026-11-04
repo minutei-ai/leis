@@ -1,5 +1,3 @@
-###DEC-086606-0-000-18-11-1981@@@
-
 Decreto nº 86.606, de 18 de novembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da Estação de Microondas de FURNAS - Centrais Elétricas S.A. , no Estado de São Paulo.

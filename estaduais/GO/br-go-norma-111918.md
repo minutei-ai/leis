@@ -16,10 +16,48 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 829px;"><tbody><tr><td style="width: 793px; height: 19px;"><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style="width: 793px;"><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PLANO DE FORTALECIMENTO - &nbsp;DISPONIBILIZAÇÃO DE LEITOS DE UTI</td><td style=" width:85px;    ">10 302 1043 2518</td><td style=" width:85px;    ">26000002</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 500.000,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 837px;"><tbody><tr><td style="width: 801px; height: 19px;"><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse: collapse; width: 876px;"><tbody><tr><td style=" width:340px;  height:19px;   ">26000002 - &nbsp;TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO ASPS - EC RP6 - EMENDA INDIVIDUAL - EXERCÍCIOS ANTERIORES</td><td style="width: 495px; height: 19px;">R$ 500.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style="width: 495px;">R$ 500.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PLANO DE FORTALECIMENTO -  DISPONIBILIZAÇÃO DE LEITOS DE UTI
+
+10 302 1043 2518
+
+26000002
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+26000002 -  TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO ASPS - EC RP6 - EMENDA INDIVIDUAL - EXERCÍCIOS ANTERIORES
+
+R$ 500.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 500.000,00

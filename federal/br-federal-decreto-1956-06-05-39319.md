@@ -1,34 +1,32 @@
-###DEC-039319-0-000-05-06-1956@@@
+**DECRETO Nº 39.319, DE 5 DE JUNHO DE 1956.**
 
-<strong>DECRETO Nº 39.319, DE 5 DE JUNHO DE 1956.</strong>
+***Aprova o Regulamento do Serviço Social Rural, entidade autárquica, subordinada ao Ministério da Agricultura.***
 
-<em><strong>Aprova o Regulamento do Serviço Social Rural, entidade autárquica, subordinada ao Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Serviço Social Rural, entidade autárquica, subordinada ao Ministério da Agricultura que, assinado pelo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Serviço Social Rural, entidade autárquica, subordinada ao Ministério da Agricultura que, assinado pelo Ministro de Estado, com êste baixa.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de janeiro, em 5 de junho de 1956, 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dorneles
 
-<strong>REGULAMENTO DO SERVIÇO SOCIAL RURAL</strong>
+**REGULAMENTO DO SERVIÇO SOCIAL RURAL**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Das Finalidades</em>
+*Das Finalidades*
 
-<strong>Art</strong>. 1º O Serviço Social Rural (S.S.R.), criado pela Lei nº 2.613, de 23-09-55, subordinado ao Ministério da Agricultura, constitui uma entidade autárquica, com personalidade jurídica e patrimônio próprio, sede e fôro no Distrito Federal e jurisdição em todo o território nacional.
+**Art**. 1º O Serviço Social Rural (S.S.R.), criado pela Lei nº 2.613, de 23-09-55, subordinado ao Ministério da Agricultura, constitui uma entidade autárquica, com personalidade jurídica e patrimônio próprio, sede e fôro no Distrito Federal e jurisdição em todo o território nacional.
 
-<strong>Art</strong>. 2º São finalidades do S.S.R.:
+**Art**. 2º São finalidades do S.S.R.:
 
 I - prestar serviços sociais no meio rural, visando à melhoria das condições de vida da sua população, especialmente no que concerne a:
 
@@ -48,15 +46,15 @@ V - realizar inquéritos e estudos para conhecimento e divulgação das necessid
 
 VI - fornecer, semestralmente, ao Serviço de Estatística da Previdência e Trabalho, relações estatísticas sôbre a remuneração paga aos trabalhadores do campo.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Órgãos Administrativos</em>
+*Dos Órgãos Administrativos*
 
-<strong>Art</strong>. 3º São órgãos do S.S.R.:
+**Art**. 3º São órgãos do S.S.R.:
 
 I - Conselho Nacional (C.N.);
 
@@ -66,7 +64,7 @@ III - Juntas Municipais (J.M.);
 
 Parágrafo único - Os Conselhos Estaduais, dos Territórios Federais e do Distrito Federal - (C.R.) terão a autonomia necessária para promover a execução dos planos traçados pelo Conselho Nacional e, por intermédio das Juntas Municipais, adapta-los à peculiaridades locais, dentro das normas gerais traçadas pelo C.N.
 
-<strong>Art</strong>. 4º O Conselho Nacional é constituído:
+**Art**. 4º O Conselho Nacional é constituído:
 
 a) de um presidente nomeado pelo Presidente da República, dentre três nomes escolhidos pela Diretoria da Confederação Rural Brasileira;
 
@@ -80,45 +78,45 @@ e) de um representante do Ministério da Saúde;
 
 f) do quatro representantes da classe rural, eleitos em Assembléia Geral da Confederação Rural Brasileira.
 
-<strong>Art</strong>. 5º Os Conselhos Regionais são constituídos de um Presidente, escolhido pelo Conselho Nacional, dentre três nomes apresentados pela diretoria da respectiva Federação das Associações Rurais; de um representante da classe rural, eleito em assembléia geral da mesma federação; e de um representante do Govêrno do Estado, do Território ou do Distrito Federal.
+**Art**. 5º Os Conselhos Regionais são constituídos de um Presidente, escolhido pelo Conselho Nacional, dentre três nomes apresentados pela diretoria da respectiva Federação das Associações Rurais; de um representante da classe rural, eleito em assembléia geral da mesma federação; e de um representante do Govêrno do Estado, do Território ou do Distrito Federal.
 
-<strong>Art</strong>. 6º As Juntas Municipais são constituídas de um Presidente, escolhido pelo Conselho Regional, dentre três nomes apresentados pelo diretoria da Associação Rural local filiada à Federação das Associações Rurais do Estado, do Território ou do Distrito Federal; de um representante da classe, eleito em Assembléia Geral da mesma Associação, e de um representante da Prefeitura Municipal.
+**Art**. 6º As Juntas Municipais são constituídas de um Presidente, escolhido pelo Conselho Regional, dentre três nomes apresentados pelo diretoria da Associação Rural local filiada à Federação das Associações Rurais do Estado, do Território ou do Distrito Federal; de um representante da classe, eleito em Assembléia Geral da mesma Associação, e de um representante da Prefeitura Municipal.
 
 Parágrafo único - Nos Municípios onde não existir Associação Rural, poderá ser instalada a J. M., cabendo ao C.R. nomear os seu presidente e à Federação das Associações Rurais do Estado, do Território ou do Distrito Federal, indicar o representante da classe. Criada, porém, a Associação Rural e feitas por esta as indicações, será a J.M. reestruturada, funcionando seus dois novos membros pelo restante do prazo do mandato.
 
-<strong>Art</strong>. 7º O mandato dos membro dos Conselhos Nacional, Regionais e das Juntas Municipais será de 3 ( três ) anos, podendo ser renovado.
+**Art**. 7º O mandato dos membro dos Conselhos Nacional, Regionais e das Juntas Municipais será de 3 ( três ) anos, podendo ser renovado.
 
 § 1º Os órgãos colegiadas de que trata êste capítulo funcionarão como a maioria de seus membros, cabendo aos presidentes voto deliberativo e de qualidade.
 
 § 2º Na falta ou impedimentos eventuais dos presidentes, serão êles substituídos pelo representante da classe, cabendo ao presidente do C. N. designar o seu substituto dentro do mesmo critério. No caso de renúncia ou morte, a substituição prevalecerá até a nomeação do novo presidente, que completará o mandato do anterior.
 
-<strong>Art</strong>. 8º Os representantes dos Ministérios serão designados por ato do Presidente da República, dentro três nomes indicados pelo respectivo Ministro de Estado, e se empossarão perante o Presidente do C.N.; e os dos Governos dos Estados e dos Municípios, por ato dos respectivos Governadores e Prefeitos.
+**Art**. 8º Os representantes dos Ministérios serão designados por ato do Presidente da República, dentro três nomes indicados pelo respectivo Ministro de Estado, e se empossarão perante o Presidente do C.N.; e os dos Governos dos Estados e dos Municípios, por ato dos respectivos Governadores e Prefeitos.
 
-<strong>Art</strong>. 9º As eleições dos representantes das classes rurais se regerão pelos estatutos da respectiva entidade, sendo contudo, obrigatório o escrutínio secreto. Bem como a convocação da Assembléia Geral por edital, publicado, no mínimo, com 30 (trinta) dias de antecedência, no <em>Diário Oficial</em> do Estado e nos órgãos de maior circulação da imprensa local, se houver. Na ausência de órgão de imprensa local, será o edital estampado em jornal de grande circulação, editado na Capital e afixado na sede da Prefeitura e Fórum locais.
+**Art**. 9º As eleições dos representantes das classes rurais se regerão pelos estatutos da respectiva entidade, sendo contudo, obrigatório o escrutínio secreto. Bem como a convocação da Assembléia Geral por edital, publicado, no mínimo, com 30 (trinta) dias de antecedência, no *Diário Oficial* do Estado e nos órgãos de maior circulação da imprensa local, se houver. Na ausência de órgão de imprensa local, será o edital estampado em jornal de grande circulação, editado na Capital e afixado na sede da Prefeitura e Fórum locais.
 
 Parágrafo único - A reunião de diretorias de Associações ou Federações Rurais para a escolha dos três nomes de candidatos à presidência dos Conselhos Regionais ou das Juntas Municipais será convocada, por carta registrada com dez dias de antecedência no mínimo.
 
-<strong>Art</strong>. 10. O Presidente do Conselho Nacional tomará posse perante o Ministro da Agricultura cabendo-lhe dar posse aos demais membros e aos presidentes dos C.R;
+**Art**. 10. O Presidente do Conselho Nacional tomará posse perante o Ministro da Agricultura cabendo-lhe dar posse aos demais membros e aos presidentes dos C.R;
 
 § 1º Os presidentes dos C.R. empossarão os demais membros dêste e os presidentes das J. M., e êstes os componentes destas.
 
 § 2º A posse dos integrantes dos Conselhos e Juntas será procedida à vista dos respectivos títulos de nomeação ou, nos casos de eleição, pela exibição de certidão da ata da assembléia, acompanhada dos editais de convocação de que trata o art. 9º.
 
-<strong>Art</strong>. 11 Os vencimentos dos Presidente dos Conselhos Regionais e Juntas Municipais, e a gratificação dos seus membros, serão fixados pelo C.N.
+**Art**. 11 Os vencimentos dos Presidente dos Conselhos Regionais e Juntas Municipais, e a gratificação dos seus membros, serão fixados pelo C.N.
 
-<strong>Art</strong>. 12. O C.N. reunir-se-á ordinàriamente uma vez por semana e os demais quinzenalmente, podendo qualquer dêles ser convocado extraordinàriamente por seu Presidente ou pela maioria de seus membros.
+**Art**. 12. O C.N. reunir-se-á ordinàriamente uma vez por semana e os demais quinzenalmente, podendo qualquer dêles ser convocado extraordinàriamente por seu Presidente ou pela maioria de seus membros.
 
-<strong>Art</strong>. 13. As atividades técnicas e de administração geral do S.S.R. serão exercidas através de um Departamento Técnico - Administrativo (D. T. A.), que poderá ser subdividido em Divisões, serviços e seções, de acôrdo com as conveniências e necessidades dos trabalhos.
+**Art**. 13. As atividades técnicas e de administração geral do S.S.R. serão exercidas através de um Departamento Técnico - Administrativo (D. T. A.), que poderá ser subdividido em Divisões, serviços e seções, de acôrdo com as conveniências e necessidades dos trabalhos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS ADMINISTRATIVOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS ADMINISTRATIVOS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Conselho Nacional</em>
+*Do Conselho Nacional*
 
-<strong>Art</strong>. 14 compete ao Conselho Nacional a administração geral do S.S.R. e, especialmente:
+**Art**. 14 compete ao Conselho Nacional a administração geral do S.S.R. e, especialmente:
 
 a) baixar o regimento interno do S.S.R., estruturando os respectivos serviços em todo o território nacional;
 
@@ -136,7 +134,7 @@ g) deliberar sôbre alterações propostas pelo C.R., quanto à aplicação, par
 
 h) autorizar a assinatura de convênios com entidades públicas ou privadas para efeito de recolhimento das contribuições devidas ou para a realização de serviços;
 
-i) designar servidores especializados do S.S.R., com prazo certo, para regularizar o funcionamento de Conselhos Regionais ou Juntas Municipais, nos casos de falta de prestação de contas indevida aplicação de verbas desvirtuamento na execução dos planos aprovados ou desatendimento de instruções superiores. Tal intervenção só poderá ser decretada por votação de dois têrços no mínimo do C.N., <em>ex-offico</em> ou por solicitação do Presidente do C.N., da Federação das Associações Rurais, da Associação Rural do Município ou pela maioria do C.R. ou da J.M.
+i) designar servidores especializados do S.S.R., com prazo certo, para regularizar o funcionamento de Conselhos Regionais ou Juntas Municipais, nos casos de falta de prestação de contas indevida aplicação de verbas desvirtuamento na execução dos planos aprovados ou desatendimento de instruções superiores. Tal intervenção só poderá ser decretada por votação de dois têrços no mínimo do C.N., *ex-offico* ou por solicitação do Presidente do C.N., da Federação das Associações Rurais, da Associação Rural do Município ou pela maioria do C.R. ou da J.M.
 
 j) dirimir as dúvidas surgidas quanto á classificação dos contribuintes e incidência das contribuições ;
 
@@ -148,13 +146,13 @@ m) baixar, na forma de lei, instruções para aquisição e venda de materiais.
 
 Parágrafo único. As deliberações do C.N. serão sempre tomadas como base nos estudos e sugestões apresentados pelo D.T.A.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Presidente do Conselho Nacional</em>
+*Do Presidente do Conselho Nacional*
 
-<strong>Art</strong>. 15. O Presidente do C.N. tomará posse perante o Ministro da Agricultura e será o responsável pelas atividades executivas do S.S.R.
+**Art**. 15. O Presidente do C.N. tomará posse perante o Ministro da Agricultura e será o responsável pelas atividades executivas do S.S.R.
 
-<strong>Art</strong>. 16 Compete ao Presidente do C.N.:
+**Art**. 16 Compete ao Presidente do C.N.:
 
 a) representar o S.S.R., ativa e possivamente, em juízo ou fora dêle, podendo delegar poderes que lhe forem específicos;
 
@@ -182,13 +180,13 @@ l) supervisionar a cobrança das contribuições devidas ao S.S.R.
 
 m) organizar, através do D.T.A., a prestação de contas do exercício anterior, submetendo-a ao C.N. até 15 de março;
 
-n) conhecer dos conflitos entre os C.R. e as J.M. e decidir <em>ex-offíco</em> sujeito à aprovação do C.N.
+n) conhecer dos conflitos entre os C.R. e as J.M. e decidir *ex-offíco* sujeito à aprovação do C.N.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos Conselhos Regionais</em>
+*Dos Conselhos Regionais*
 
-<strong>Art</strong>. 17. Compete aos Conselhos Regionais, em colaboração com o C.N., no que couber:
+**Art**. 17. Compete aos Conselhos Regionais, em colaboração com o C.N., no que couber:
 
 a) administrar os serviços em sua esfera de ação, fiscalizando a sua execução pelas J.M., tomando-lhes contas, tudo dentro do aprovado pelo C.N. e dando a êste conhecimento de irregularidade que encontrar;
 
@@ -206,11 +204,11 @@ g) prestar ao C.N. as informações que lhe sejam solicitadas, bem como facilita
 
 h) exercer funções e realizar serviços que lhe sejam delegados pelo C.N. mediante indenização de gastos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Dos Presidentes dos Conselhos Regionais</em>
+*Dos Presidentes dos Conselhos Regionais*
 
-<strong>Art</strong>. 18. Compete presidentes dos C.R.:
+**Art**. 18. Compete presidentes dos C.R.:
 
 a) presidir às sessões do C.R.;
 
@@ -230,11 +228,11 @@ h) prestar prontamente quaisquer informações solicitadas pelo C.N. ou pelo C.R
 
 i) Praticar outros atos inerentes às suas funções
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Juntas Muncipiais</em>
+*Das Juntas Muncipiais*
 
-<strong>Art</strong>. 19. As J.M. são os órgãos executivos locais, competindo-lhes:
+**Art**. 19. As J.M. são os órgãos executivos locais, competindo-lhes:
 
 a) programar, dentro do plano traçado pelo C.N. e adaptado pelos C.R., a execução dos serviços municipais do S.S.R., elaborando proposta de orçamento das respectivas despesas a ser encaminhada ao C.R.; até 31 de agôsto, sugerindo, inclusive, as alterações que julgue melhor atender às necessidade locais;
 
@@ -250,11 +248,11 @@ f) organziar documentação a respeito do município em seus aspectos gerais e, 
 
 g) promver a realização de palestras, mesas redondas, e outras reuniões, sôbre temas ligados à vida rural e, principalmente, ao bem estar de suas populações, dentro dos planos gerais estabelecidos pelo C.R.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos Presidentes das Juntas Municipais</em>
+*Dos Presidentes das Juntas Municipais*
 
-<strong>Art</strong>. 20. Compete aos Presidentes das J.M.:
+**Art**. 20. Compete aos Presidentes das J.M.:
 
 a) presidir à sessões da J.M.;
 
@@ -272,13 +270,13 @@ g) prestar a qualquer tempo informações e contas, que lhe sejam solicitadas pe
 
 h) exercer outras funções inerentes às suas atribuições.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Do Departamento Técnico-Administrativo</em>
+*Do Departamento Técnico-Administrativo*
 
-<strong>Art</strong>. 21. Compete ao Departamento Técnico-Administrativo, que será dirigido por um Diretor Geral, orientar, fiscalizar e executar tôdas as atividades de âmbito nacional do S.S.R., que se refiram aos programas técnicos de trabalho e aos serviços administrativos em geral.
+**Art**. 21. Compete ao Departamento Técnico-Administrativo, que será dirigido por um Diretor Geral, orientar, fiscalizar e executar tôdas as atividades de âmbito nacional do S.S.R., que se refiram aos programas técnicos de trabalho e aos serviços administrativos em geral.
 
-<strong>Art</strong>. 22. Ao Diretor Geral do D.T.A. compete:
+**Art**. 22. Ao Diretor Geral do D.T.A. compete:
 
 a) dirigir, coordenar e fiscalizar as atividades técnicas e administrativas do D.T.A., diretamente ou através dos órgãos em que êste se subdivida;
 
@@ -298,19 +296,19 @@ h) providenciar a prestação de contas do exercício anterior para ser submetid
 
 i) participar das reuniões do C.N., podendo discutir os assuntos em pauta, sem direito a voto.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>DO REGIME ECONÔMICO E FINANCEIRO</em>
+*DO REGIME ECONÔMICO E FINANCEIRO*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<strong>Art</strong>. 23. O patrimônio do S.S.R., constituído na forma do Art. 2º da Lei nº 2.613, de 23 de setembro de 1955, poderá ainda ser acrescido com os bens móveis, imóveis e haveres posteriormente adquiridos.
+**Art**. 23. O patrimônio do S.S.R., constituído na forma do Art. 2º da Lei nº 2.613, de 23 de setembro de 1955, poderá ainda ser acrescido com os bens móveis, imóveis e haveres posteriormente adquiridos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das rendas e das contribuições</em>
+*Das rendas e das contribuições*
 
-<strong>Art</strong>. 24. Para manutenção e desenvolvimento de seus serviços e custeio de encargos, conta o S.S.R. com:
+**Art**. 24. Para manutenção e desenvolvimento de seus serviços e custeio de encargos, conta o S.S.R. com:
 
 a) renda patrimonial;
 
@@ -324,11 +322,11 @@ e) juros de mora e multas, por atrazo no recolhimento de contribuições;
 
 f) receita eventual.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos Contribuintes</em>
+*Dos Contribuintes*
 
-<strong>Art</strong>. 25. Cabe ao S.S.R. arrecadar:
+**Art**. 25. Cabe ao S.S.R. arrecadar:
 
 a) 3% (três por cento) sôbre a soma devida mensalmente aos seus empregados pelas pessoas naturais ou jurídicas, inclusive cooperativas de produção que exerçam as seguintes atividades:
 
@@ -362,9 +360,9 @@ b) 1% (um por cento) sôbre o montante da remuneração devida a seus empregados
 
 c) 0,3% (três décimos por cento) sôbre o total dos salários pagos mensalmente pelos empregadores contribuintes de Institutos e Caixas de Aposentadoria e Pensões.
 
-Parágrafo único. Considerar-se-á remuneração, para efeito de arrecadação o valor total, pago em dinheiro ou em espécie (inclusive comissões, percentagens e gratificações) a diaristas, mensalistas, carefeiros, empreiteiros, parceiros e semelhantes, pela prestação de serviços relativos às atividades das empresas mencionadas nas alíneas <em>a</em> e <em>b</em>.
+Parágrafo único. Considerar-se-á remuneração, para efeito de arrecadação o valor total, pago em dinheiro ou em espécie (inclusive comissões, percentagens e gratificações) a diaristas, mensalistas, carefeiros, empreiteiros, parceiros e semelhantes, pela prestação de serviços relativos às atividades das empresas mencionadas nas alíneas *a* e *b*.
 
-<strong>Art</strong>. 26. Estão isentos da contribuição de 3% (três por cento) de que trata a alínea “<em>a</em>” do artigo anterior:
+**Art**. 26. Estão isentos da contribuição de 3% (três por cento) de que trata a alínea “*a*” do artigo anterior:
 
 I - a indústria caseira, entendida como tal aquela que trabalha em economia de família;
 
@@ -372,25 +370,25 @@ II - o artezanato;
 
 III - as pequenas organizações rurais de transformação ou beneficiamento de produtos rurais do próprio dono e cujo valor não exceder de Cr$200.000,00 (duzentos mil cruzeiros).
 
-Parágrafo único. As emprêsas discriminadas neste artigo ficam, não obstante, sujeitas à contribuição de 1% (um por cento) prevista na alínea “<em>b</em>” do artigo anterior, salvo o estabelecido no artigo subseqüente.
+Parágrafo único. As emprêsas discriminadas neste artigo ficam, não obstante, sujeitas à contribuição de 1% (um por cento) prevista na alínea “*b*” do artigo anterior, salvo o estabelecido no artigo subseqüente.
 
-<strong>Art</strong>. 27. Estão isentos da contribuição de que trata a alínea <em>b</em> do art. 25 as pessoas físicas que explorarem propriedades própria ou de terceiros, de valor venal inferior a Cr$ 200.000,00 (duzentos mil cruzeiros).
+**Art**. 27. Estão isentos da contribuição de que trata a alínea *b* do art. 25 as pessoas físicas que explorarem propriedades própria ou de terceiros, de valor venal inferior a Cr$ 200.000,00 (duzentos mil cruzeiros).
 
-<strong>Art</strong>. 28 As contribuições dos que não possuírem escrituração em forma legal serão calculadas para efeito de lançamento <em>ex-officio</em>, ou de fiscalização à base do salário mínimo local mais 10% (dez por cento), tendo em vista o número de dias de serviço necessários à execução das culturas e mais atividades da emprêsa, acrescido dos encargos relativos a repouso remunerado e férias.
+**Art**. 28 As contribuições dos que não possuírem escrituração em forma legal serão calculadas para efeito de lançamento *ex-officio*, ou de fiscalização à base do salário mínimo local mais 10% (dez por cento), tendo em vista o número de dias de serviço necessários à execução das culturas e mais atividades da emprêsa, acrescido dos encargos relativos a repouso remunerado e férias.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da arrecadação das contribuições</em>
+*Da arrecadação das contribuições*
 
-<strong>Art</strong>. 29. As contribuições devidas ao S.S.R. deverão ser recolhidas até o último dia do mês seguinte ao da prestação dos serviços.
+**Art**. 29. As contribuições devidas ao S.S.R. deverão ser recolhidas até o último dia do mês seguinte ao da prestação dos serviços.
 
 § 1º Expirado o prazo de recolhimento, a importância devida passará a vencer juros de 6% (seis por cento) ao ano;
 
-§ 2º Decorridos 120 (cento e vinte) dias do prazo para recolhimento, a importância em débito será lançada <em>ex-officio</em> e inscrita, acrescida de 10% (dez por cento), para efeito de cobrança executiva;
+§ 2º Decorridos 120 (cento e vinte) dias do prazo para recolhimento, a importância em débito será lançada *ex-officio* e inscrita, acrescida de 10% (dez por cento), para efeito de cobrança executiva;
 
-§ 3º O regimento interno estabelecerá o modo de fiscalização dos contribuintes e o lançamento <em>ex-officio</em> bem como o fornecimento de certidões negativas.
+§ 3º O regimento interno estabelecerá o modo de fiscalização dos contribuintes e o lançamento *ex-officio* bem como o fornecimento de certidões negativas.
 
-<strong>Art</strong>. 30. O valor das contribuições de que tratam as alíneas <em>a</em> e <em>b</em> do art. 25 dêste Regulamento será recolhido à agência do Banco do Brasil ou da Caixa Econômica Federal ou à coletoria Federal mais próxima do domicílio do contribuinte.
+**Art**. 30. O valor das contribuições de que tratam as alíneas *a* e *b* do art. 25 dêste Regulamento será recolhido à agência do Banco do Brasil ou da Caixa Econômica Federal ou à coletoria Federal mais próxima do domicílio do contribuinte.
 
 § 1º O recolhimento se fará mediante guia de depósito, assinada pelo contribuinte.
 
@@ -400,17 +398,17 @@ Parágrafo único. As emprêsas discriminadas neste artigo ficam, não obstante,
 
 § 4º A alteração dos órgãos de arrecadação prevista neste regulamento será sempre precedida de edital publicado, com 30 (trinta) dias de antecedência, na imprensa oficial do Estado e na imprensa local, se houver, e afixados nas sedes das Prefeituras e “Fórum” locais.
 
-<strong>Art</strong>. 31. Arrecadação da contribuição de 0,3%(três décimos por cento) de que trata a alínea <em>c</em> do art. 25 dêste Regulamento será feita pelos Institutos e Caixas de Aposentadoria e Pensões a que são atribuídas as quotas de previdência correlativas, devidas pelos empregadores.
+**Art**. 31. Arrecadação da contribuição de 0,3%(três décimos por cento) de que trata a alínea *c* do art. 25 dêste Regulamento será feita pelos Institutos e Caixas de Aposentadoria e Pensões a que são atribuídas as quotas de previdência correlativas, devidas pelos empregadores.
 
 § 1º As entidades arrecadoras mencionadas neste artigo não poderão receber as quotas que lhes cabem, sem que estejam acrescidas da parcela pertencente ao S.S.R., sob pena de pagarem a êste o seu valor, subrogando-se em seus direitos.
 
 § 2º As contribuições arrecadadas na forma deste artigo serão imediatamente depositadas na conta do S.S.R., no Banco do Brasil.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da distribuição das contribuições</em>
+*Da distribuição das contribuições*
 
-<strong>Art</strong>. 32. As contribuições previstas no art. 25, deduzidas as despesas da arrecadação, serão aplicadas:
+**Art**. 32. As contribuições previstas no art. 25, deduzidas as despesas da arrecadação, serão aplicadas:
 
 a) 60% (sessenta por cento) exclusivamente em serviços no município onde foram devidas, cabendo à J.M. custear inclusive as despesas gerais;
 
@@ -420,46 +418,46 @@ c) 20% (vinte por cento) para o C.N.
 
 Parágrafo único Para o cálculo das percentagens estabelecidas neste artigo, ter-se-á em conta não o domicilio do contribuinte, mas o município onde os respectivos empregados exerçam atividades, fazendo-se recolhimento parcelado, quando fôr o caso.
 
-<strong>Art</strong>. 33. O regimento interno incluirá disposições necessárias no sentido de que sejam creditadas prontamente, aos diferentes órgãos do S.S.R., as percentagens que tem direito. Entretanto, sòmente poderão ser movimentadas pelos C.R. e pelas J.M., em cada exercício, as importâncias correspondentes aos orçamentos das respectivas despesas aprovadas, mediante retiradas periódicas, comunicadas pelo C.N. ao depositário, no início de cada exercício financeiro.
+**Art**. 33. O regimento interno incluirá disposições necessárias no sentido de que sejam creditadas prontamente, aos diferentes órgãos do S.S.R., as percentagens que tem direito. Entretanto, sòmente poderão ser movimentadas pelos C.R. e pelas J.M., em cada exercício, as importâncias correspondentes aos orçamentos das respectivas despesas aprovadas, mediante retiradas periódicas, comunicadas pelo C.N. ao depositário, no início de cada exercício financeiro.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Orçamento, Contabilidade e Prestação de Contas</em>
+*Do Orçamento, Contabilidade e Prestação de Contas*
 
-<strong>Art</strong>. 34. O exercício financeiro coincidirá com o ano civil.
+**Art**. 34. O exercício financeiro coincidirá com o ano civil.
 
-<strong>Art</strong>. 35. O orçamento do S.S.R. será um, incluindo discriminadamente as doações de cada C.R. e J.M.
+**Art**. 35. O orçamento do S.S.R. será um, incluindo discriminadamente as doações de cada C.R. e J.M.
 
 Parágrafo único - As dotações se destinarão a encargos de pessoal recursos para prestação de serviços e aquisição de material.
 
-<strong>Art</strong>. 36. O C.N. estabelecerá o sistema de contabilidade e documentação, cuja execução é obrigatória para todos os órgãos do S.S.R.
+**Art**. 36. O C.N. estabelecerá o sistema de contabilidade e documentação, cuja execução é obrigatória para todos os órgãos do S.S.R.
 
-<strong>Art</strong>. 37. O S.S.R. enviará ao Tribunal de Contas, até 31 de março de cada ano, as contas da gestão anterior, acompanhadas de sucinto relatório do Presidente, indicando os benefícios realizados.
+**Art**. 37. O S.S.R. enviará ao Tribunal de Contas, até 31 de março de cada ano, as contas da gestão anterior, acompanhadas de sucinto relatório do Presidente, indicando os benefícios realizados.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Dos Servidores</em>
+*Dos Servidores*
 
-<strong>Art</strong>. 38. O funcionamento do S.S.R. constituirá um quadro único para todo o território nacional, compreendendo o pessoal efetivo e os cargos em comissão.
+**Art**. 38. O funcionamento do S.S.R. constituirá um quadro único para todo o território nacional, compreendendo o pessoal efetivo e os cargos em comissão.
 
 Parágrafo único - Os servidores efetivos sòmente poderão ser admitidos mediante concurso público de provas efetuado pelo Departamento Administrativo do Serviço Público (DASP). Excepcionalmente, quando não houver candidato habilitado em concurso, poderão ser admitidos funcionários interinos, pelo prazo máximo e improrrogável de um ano.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Disposições Gerais e Transitórias</em>
+*Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 39. O plano anual de ação do S.S.R., aprovado pelo C.N. será elaborado à base das características regionais e municipais, levando em conta as peculiaridades econômico-sociais de diversas áreas do país e fixará os critérios de execução.
+**Art**. 39. O plano anual de ação do S.S.R., aprovado pelo C.N. será elaborado à base das características regionais e municipais, levando em conta as peculiaridades econômico-sociais de diversas áreas do país e fixará os critérios de execução.
 
-<strong>Art</strong>. 40. Pelo menos uma vez por ano, reunir-se-ão com o Conselho Nacional os presidentes dos Conselhos Regionais, com o objetivo de discutir os planos e problemas das respectivas regiões.
+**Art**. 40. Pelo menos uma vez por ano, reunir-se-ão com o Conselho Nacional os presidentes dos Conselhos Regionais, com o objetivo de discutir os planos e problemas das respectivas regiões.
 
-<strong>Art</strong>. 41. O S.S.R. funcionará em intima colaboração e articulação com os órgãos de Serviços Públicos.
+**Art**. 41. O S.S.R. funcionará em intima colaboração e articulação com os órgãos de Serviços Públicos.
 
-<strong>Art</strong>. 42. Enquanto não for aprovado o quadro de pessoal, o Presidente do S.S.R. poderá, através do D.T.A e na forma da legislação vigente, requisitar servidores de outros órgãos e admitir pessoal à título precário, à conta da dotação a que se refere o art. 14 da Lei nº 2.613, de 23 de setembro de 1955.
+**Art**. 42. Enquanto não for aprovado o quadro de pessoal, o Presidente do S.S.R. poderá, através do D.T.A e na forma da legislação vigente, requisitar servidores de outros órgãos e admitir pessoal à título precário, à conta da dotação a que se refere o art. 14 da Lei nº 2.613, de 23 de setembro de 1955.
 
 Parágrafo único - Dentro de noventa dias, o Presidente do S.S.R. submeterá à aprovação do Presidente da República o Quadro de Pessoal de que trata o artigo 38.
 
-<strong>Art</strong>. 43. As despesas iniciais de instalação e aluguel da sede do S.S.R., também correrão à conta da dotação referida no artigo anterior.
+**Art**. 43. As despesas iniciais de instalação e aluguel da sede do S.S.R., também correrão à conta da dotação referida no artigo anterior.
 
 Rio de Janeiro, 25 de junho de 1956.
 
-<strong>ERNESTO DORNELLES</strong>
+**ERNESTO DORNELLES**

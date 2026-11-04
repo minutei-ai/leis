@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212404)<br>
-
 # LEI N° 18.430, DE 25 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 66/2024, do Deputado Paulo Fiorilo - PT)

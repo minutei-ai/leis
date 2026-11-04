@@ -1,5 +1,3 @@
-###DEC-078709-0-000-10-11-1976@@@
-
 Decreto nº 78.709, de 10 de novembro de 1976.
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Matemática , de Letras e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras Professora Nair Fortes Abu-Merhy, com sede na cidade de Além Paraíba, Estado de Minas Gerais.

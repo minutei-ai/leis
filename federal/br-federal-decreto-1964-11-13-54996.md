@@ -1,5 +1,3 @@
-###DEC-054996-0-000-13-11-1964@@@
-
 DECRETO Nº 54.996, DE 13 DE NOVEMBRO DE 1964.
 
 Concede reconhecimento ao Curso de Didática da Faculdade de Filosofia Marcelino Champagnat, de Pôrto Alegre, Rio Grande do Sul, para o fim que especifica.

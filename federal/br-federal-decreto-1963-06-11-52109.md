@@ -1,5 +1,3 @@
-###DEC-052109-0-000-11-06-1963@@@
-
 DECRETO Nº 52.109, DE 11 DE JUNHO DE 1963.
 
 Declara de interêsse social para fins de desapropriação, uma área de terras situada no vale do Rio Maranhão, nos Municípios de Niquelândia e Lusiânia, no Estado de Goiás, e dá outras providências.

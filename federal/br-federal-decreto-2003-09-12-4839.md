@@ -1,5 +1,3 @@
-###DEC-004839-0-000-12-09-2003@@@
-
 DECRETO Nº 4.839,  DE 12 DE SETEMBRO DE 2003.
 
        Dá nova redação ao inciso I do art. 3o do Decreto no 3.277, de 7 de dezembro de 1999, que dispõe sobre a dissolução, liquidação e extinção da Rede Ferroviária Federal S.A. - RFFSA, e dá outras providências.
@@ -20,6 +18,8 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 12 de setembro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Anderson Adauto Pereira<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Anderson Adauto Pereira
+
 Guido Mantega

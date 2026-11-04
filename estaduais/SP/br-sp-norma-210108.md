@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210108)<br>
-
 # DECRETO N° 68.964, DE 14 DE OUTUBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação do Coletor Tronco de Esgoto Lageadinho, integrante do Sistema de Esgotamento Sanitário - S.E.S., na Vila Carmozina, no Município de São Paulo, e dá providências correlatas._

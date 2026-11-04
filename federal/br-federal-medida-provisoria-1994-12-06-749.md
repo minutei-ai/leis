@@ -1,7 +1,3 @@
-1
-
-###MPV-000749-0-000-06-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 749, DE 6 DE DEZEMBRO DE 1994
 
 Dispõe sobre a criação dos cargos em comissão que menciona.

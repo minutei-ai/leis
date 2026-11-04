@@ -1,6 +1,10 @@
 > **LEI Nº 3.277, DE 20 DE JULHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a dispor, através de sua administração direta, de bens imóveis de sua propriedade, de forma vinculada à aplicabilidade da Política de Incentivo às Atividades Comerciais e de Logística de Distribuição, visando o desenvolvimento sustentável do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a dispor, através de sua administração direta, de bens imóveis de sua propriedade, de forma vinculada à aplicabilidade da Política de Incentivo às Atividades Comerciais e de Logística de Distribuição, visando o desenvolvimento sustentável do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

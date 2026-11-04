@@ -1,20 +1,18 @@
-###DEC-020704-0-000-08-03-1946@@@
+**DECRETO Nº 20.704 DE 8 DE MARÇO DE 1946.**
 
-<strong>DECRETO Nº 20.704 DE 8 DE MARÇO DE 1946.</strong>
+***Outorga à Central Elétrica Rio Claro S. A., com sede em Rio Claro, Estado de São Paulo, concessão para o aproveitamento de energia hidráulica existente no rio Mogi-Guaçu, no distrito e município de igual nome, Estado de São Paulo.***
 
-<em><strong>Outorga à Central Elétrica Rio Claro S. A., com sede em Rio Claro, Estado de São Paulo, concessão para o aproveitamento de energia hidráulica existente no rio Mogi-Guaçu, no distrito e município de igual nome, Estado de São Paulo.</strong></em>
+**O PREDSIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea *a*, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
 
-<strong>O PREDSIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea <em>a</em>, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, e outorgada a Central Elétrica Rio Claro S. A. com sede em Rio Claro, Estado de São Paulo, concessão para o aproveitamento da energia hidráulica existente no rio Mogi-guaçu, distrito e município de igual nome, Estado de São Paulo.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, e outorgada a Central Elétrica Rio Claro S. A. com sede em Rio Claro, Estado de São Paulo, concessão para o aproveitamento da energia hidráulica existente no rio Mogi-guaçu, distrito e município de igual nome, Estado de São Paulo.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
 § 2º O aproveitamento se destina a produção, transmissão, transformação e distribuição de energia elétrica para serviços públicos, para serviços de utilidade pública e para Comércio de energia na zona da concessionária.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I – Registrá-lo na Divisão de Águas dentro do prazo de trinta (30) dias após a sua publicação.
 
@@ -48,30 +46,30 @@ V – Apresentar o mesmo contrato à Divisão de Águas para os fins de registro
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, depois de ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro, do respectivo contrato na Divisão de Águas.
+**Art**. 3º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro, do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 4º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d’água que vai utilizar, e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d’água que vai utilizar, e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º o capital a ser remunerado será o investimento efetivo e criterioso na constituição patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 5º o capital a ser remunerado será o investimento efetivo e criterioso na constituição patrimônio da concessão, em função da indústria, concorrendo, direta ou indiretamente para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 6º As tabelas de preços de energia serão fixadas pela Divisão de Águas no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de Águas, sendo que a justa remuneração do capital será fixada no contrato disciplinar da presente concessão.
+**Art**. 6º As tabelas de preços de energia serão fixadas pela Divisão de Águas no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de Águas, sendo que a justa remuneração do capital será fixada no contrato disciplinar da presente concessão.
 
-<strong>Art</strong>. 7<strong>º</strong> Para a manutenção da integridade do patrimônio a que se refere o art. 5.º do presente Decreto, será criada uma reserva, que proverá às renovações por depreciação determinadas por usura ou impostas por acidentes.
+**Art**. 7**º** Para a manutenção da integridade do patrimônio a que se refere o art. 5.º do presente Decreto, será criada uma reserva, que proverá às renovações por depreciação determinadas por usura ou impostas por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, será realizada por cotas especiais, que incidirão sôbre as tarifas sob forma da percentagem. Essas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender e poderão ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 8º Findo o prazo da concessão, o patrimônio desta, constituído na forma do art. 5º, reverterá para o Município de Mogi-guaçu em conformidade com o estipulado no art. 165 do Código de Águas, sendo a concessionária indenizada do seu investimento ainda não amortizado, na base do custo histórico, deduzida a “reserva de renovação “, a que se refere o parágrafo único do artigo precedente.
+**Art**. 8º Findo o prazo da concessão, o patrimônio desta, constituído na forma do art. 5º, reverterá para o Município de Mogi-guaçu em conformidade com o estipulado no art. 165 do Código de Águas, sendo a concessionária indenizada do seu investimento ainda não amortizado, na base do custo histórico, deduzida a “reserva de renovação “, a que se refere o parágrafo único do artigo precedente.
 
 § 1º Se o Município de Mogi-guaçu não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal seja a concessão renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do parágrafo anterior, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Município de Mogi-guaçu e a entrar com o requerimento de prorrogação da concessão ou a desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 9º A concessionária gozará desde a data do registro de que trata o art. 3º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 9º A concessionária gozará desde a data do registro de que trata o art. 3º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 10. O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 10. O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de Março de 1940; 125.º da Independência e 58.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

@@ -1,14 +1,12 @@
-###DEC-024359-0-000-21-01-1948@@@
+**DECRETO N. 24.359 – DE 21 DE JANEIRO DE 1948**
 
-<strong>DECRETO N. 24.359 – DE 21 DE JANEIRO DE 1948</strong>
-
-<em><strong>Suprime cargos extintos.</strong></em>
+***Suprime cargos extintos.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do artigo 1º, alínea n do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Artigo</strong> 1º Ficam suprimidos os cargos das seguintes carreiras do Quadro Especial do Ministério da Educação e Saúde:
+**Artigo** 1º Ficam suprimidos os cargos das seguintes carreiras do Quadro Especial do Ministério da Educação e Saúde:
 
 Atendente – 5 cargos da classe C, vagos em virtude do falecimento de Hélio de Carvalho Câmara; da promoção de Julieta Vasconcelos e Valmick Avelino; da aposentadoria de Antônio Seixas Gomes Filho e da demissão de Mirian de Oliveira Crockatt de Sá Gluck;
 
@@ -40,10 +38,10 @@ Técnico de Laboratório – 7 cargos da classe J, vagos em virtude da promoçã
 
 Zelador – 1 cargo da classe E, vago em virtude da promoção de Bernardi José da Cunha, devendo a dotação correspondente ser levada a crédito da conta corrente do mesmo Quadro de referido Ministério.
 
-<strong>Artigo</strong> 2º Revogam-se as disposições contrário.
+**Artigo** 2º Revogam-se as disposições contrário.
 
 Rio de Janeiro, em 21 de janeiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clemente Mariani.

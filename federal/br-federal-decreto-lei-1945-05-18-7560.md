@@ -1,5 +1,3 @@
-###DEL-007560-0-000-18-05-1945@@@
-
 DECRETO-LEI N. 7.560 – DE 18 DE MAIO DE 1945
 
 Altera as careiras de Maquinista Marítimo e Marinheiro do Quadro Suplementar do Ministério da Fazenda, e dá outras providências

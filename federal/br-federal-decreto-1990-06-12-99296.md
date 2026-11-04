@@ -1,7 +1,3 @@
-1
-
-###DEC-099296-0-000-12-06-1990@@@
-
 DECRETO N° 99.296, DE 12 DE JUNHO DE 1990
 
 Dispõe sobre licitações de serviços de publicidade, no âmbito da Administração Pública Federal.

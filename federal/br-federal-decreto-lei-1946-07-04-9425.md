@@ -1,5 +1,3 @@
-###DEL-009425-0-000-04-07-1946@@@
-
 DECRETO-LEI N. 9.425 – DE 4 DE JULHO DE 1946
 
 Dá ao 1º Regimento de Cavalaria a denominação de "1º Regimento de Cavalaria de Guardas (Dragões da Independência)”.

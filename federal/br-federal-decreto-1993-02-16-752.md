@@ -1,7 +1,3 @@
-1
-
-###DEC-000752-0-000-16-02-1993@@@
-
 DECRET0 N° 752, DE 16 DE FEVEREIR0 DE 1993
 
 Dispõe sobre a concessão do Certificado de Entidade de Fins Filantrópicos, a que se refere o art. 55, inciso II, da Lei n° 8.212, de 24 de julho de 1991, e dá outras providências.

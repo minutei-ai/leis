@@ -1,5 +1,3 @@
-###DEC-095308-0-000-30-11-1987@@@
-
 DECRETO Nº 95.308, de 30 DE NOVEMBRO DE 1987
 
 Reajusta o valor do Salário Mínimo de Referência.

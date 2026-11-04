@@ -1,5 +1,3 @@
-###DEC-006801-0-000-18-03-2009@@@
-
 DECRETO Nº 6.801, DE 18 DE MARÇO DE 2009.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.844, de 20 de novembro de 2008, do Conselho de Segurança das Nações Unidas, que amplia o regime de sanções contra a República Democrática da Somália.

@@ -1,5 +1,3 @@
-###DEC-045894-0-000-28-04-1959@@@
-
 DECRETO Nº 45.894, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Faria Braga a lavrar calcáreo, no município de Ouro Prêto, Estado de Minas Gerais.

@@ -1,14 +1,12 @@
-###DEC-022823-0-000-28-03-1947@@@
+**DECRETO Nº 22.823, DE 28 DE MARÇO DE 1947.**
 
-<strong>DECRETO Nº 22.823, DE 28 DE MARÇO DE 1947.</strong>
+***aprova o Decreto-lei do Estado do Espírito Santo nº 16.454, de 31 de janeiro de 1947 e o contrato nele estabelecido - com o aditivo neste indicado.***
 
-<em><strong>aprova o Decreto-lei do Estado do Espírito Santo nº 16.454, de 31 de janeiro de 1947 e o contrato nele estabelecido - com o aditivo neste indicado.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 5º, nº XII, combinado com o artigo 87, nº I, da Constituição, e o que dispõe o art. 32 do Decreto-lei número 1.202, de 8 de abril de 1939,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 5º, nº XII, combinado com o artigo 87, nº I, da Constituição, e o que dispõe o art. 32 do Decreto-lei número 1.202, de 8 de abril de 1939,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam aprovados o Decreto-lei do Estado do Espírito Santo número 16.454, de 31 de janeiro de 1947 - e o contrato celebrado pelo aludido Estado com a Companhia Telefônica brasileira - autorizando-a a explorar o serviço de comunicações telefônicas entre os Municípios do Estado e a Capital da República e a outros Estados da União, e autorizado o mesmo Govêrno a assinar o contrato aditivo, com as seguintes modificações:
+**Art**. 1º Ficam aprovados o Decreto-lei do Estado do Espírito Santo número 16.454, de 31 de janeiro de 1947 - e o contrato celebrado pelo aludido Estado com a Companhia Telefônica brasileira - autorizando-a a explorar o serviço de comunicações telefônicas entre os Municípios do Estado e a Capital da República e a outros Estados da União, e autorizado o mesmo Govêrno a assinar o contrato aditivo, com as seguintes modificações:
 
 “Cláusula I - O Estado concede à Companhia Telefônica Brasileira, pelo prazo de 25 (vinte e cinco) anos, sem privilégio nem exclusividade, o direito de explorar o serviço de comunicações telefônicas entre os Municípios do Estado, podendo ligá-los por meio de linhas à sua rêde geral na Capital da República e a outros Estados da União servidos pela concessionária, desde que também autorizada pelos poderes competentes”.
 
@@ -22,7 +20,7 @@
 
 “Cláusula XIII - § 3º A determinação do custo do serviço para fixação das respectivas taxas será feita obedecendo-se às regras do Sistema Uniforme de Contas para as Companhias Telefônicas, prescrito pela Comissão Federal de Comunicações dos Estados Unidos da América do Norte, regras essas que, impressas em opúsculo assinado pelo Estado e pela Companhia, fazem parte integrante do presente contrato, e tendo ainda em vista o disposto nas cláusulas V e XXIV”.
 
-“Cláusula XIV - Parágrafo único. O Estado terá o direito de, periòdicamente, examinar o <em>quantum</em> das cauções fixadas pela Companhia e reduzí-las quando as julgar exageradas”.
+“Cláusula XIV - Parágrafo único. O Estado terá o direito de, periòdicamente, examinar o *quantum* das cauções fixadas pela Companhia e reduzí-las quando as julgar exageradas”.
 
 “Cláusula XV - Durante o prazo da concessão a Companhia fica isenta de todos os tributos estaduais relativamente ao serviço telefônico, salvo as contribuições ou taxas remuneratórias dos serviços, como educação, água, luz, esgotos e limpeza pública. Além dos favores mencionados nesta cláusula, nenhum outro ônus assumirá o Estado”.
 
@@ -32,14 +30,14 @@
 
 “Cláusula XXIX - Se na vigência dêste contrato, forem criados novos tributos e encargos legais federais ou municipais, ou aumentados os atuais a cago da Companhia, deverá ser elevada a tarifa, caso ocorra a hipótese da cláusula XIII, § 1.”
 
-<strong>Art</strong>. 2º O art. 3º do Decreto-lei estadual número 18.454, de 31 de janeiro de 1947, que autorizou a referida concessão, ficará assim redigido.
+**Art**. 2º O art. 3º do Decreto-lei estadual número 18.454, de 31 de janeiro de 1947, que autorizou a referida concessão, ficará assim redigido.
 
 “Art. 3º Durante o prazo da concessão, a Companhia fica isenta de todos os tributos estaduais, com  exceção das taxas remuneratórias de serviços tais como: educação, água, luz, esgôto e limpeza pública.”
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 de março de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedicto Costa Netto

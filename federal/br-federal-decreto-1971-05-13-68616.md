@@ -1,5 +1,3 @@
-###DEC-068616-0-000-13-05-1971@@@
-
 Decreto nº 68.616 - de 13 de maio de 1971.
 
 Delega competência ao Ministro da Indústria e do Comércio para nomear na Junta Comercial do Distrito Federal.

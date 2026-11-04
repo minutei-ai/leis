@@ -1,5 +1,3 @@
-###DEC-068151-0-000-01-02-1971@@@
-
 DECRETO Nº 68.151, DE 1º DE FEVEREIRO DE 1971
 
 Declara caduco o Decreto nº 2.054 de 19 de outubro de 1937.

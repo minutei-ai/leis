@@ -1,5 +1,3 @@
-###DEC-070821-0-000-12-07-1972@@@
-
 DECRETO Nº 70.821, DE 12 DE JULHO DE 1972.
 
 Concede á Águas Minerais Itaperoá S.A. - AMISA  o direito de lavrar água mineral no município de São Cristóvão, Estado de Sergipe.

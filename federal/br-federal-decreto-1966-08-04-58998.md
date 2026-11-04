@@ -1,5 +1,3 @@
-###DEC-058998-0-000-04-08-1966@@@
-
 DECRETO Nº 58.998, DE 4 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Guilhermino de Freitas Jatobá a pesquisar mármore no município de Juazeiro, Estado da Bahia.

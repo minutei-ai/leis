@@ -1,5 +1,3 @@
-###DEC-092441-0-000-06-03-1986@@@
-
 DECRETO Nº 92.441, DE 06 DE MARÇO DE 1986
 
 Outorga concessão à RÁDIO CULTURA DE POXORÉO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Poxoréo, Estado do Mato Grosso.

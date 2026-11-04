@@ -1,5 +1,3 @@
-###DEC-045217-0-000-14-01-1959@@@
-
 DECRETO Nº 45.217, DE 14 DE JANEIRO DE 1959.
 
 Reduz temporariamente, exigências de interstício do Regulamento de Promoções para Oficiais da Marinha.

@@ -1,5 +1,3 @@
-###MPV-001694-0-011-27-10-1998@@@
-
 medida provisória nº 1.694-11, de 27 de outubro de 1998
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001086-0-000-14-03-1994@@@
-
 DECRETO N° 1.086, DE 14 DE MARÇO DE 1994
 
 Aprova o Regulamento do Conselho do Plano de Carreiras de Ciência e Tecnologia-CPC, criado pelo art. 16 da Lei n ° 8.691, de 28 de julho de 1993.

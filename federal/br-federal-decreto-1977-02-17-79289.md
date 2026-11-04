@@ -1,5 +1,3 @@
-###DEC-079289-0-000-17-02-1977@@@
-
 DECRETO Nº 79.289, DE 17 DE FEVEREIRO DE 1977
 
 Fixa o fator de reajustamento salarial relativo a fevereiro de 1977.

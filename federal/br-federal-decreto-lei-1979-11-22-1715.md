@@ -1,5 +1,3 @@
-###DEL-001715-0-000-22-11-1979@@@
-
 # Decreto-lei nº 1.715, de 22 de novembro de 1979
 
 Regula a expedição de certidão de quitação de tributos federais e extingue a declaração de devedor remisso.

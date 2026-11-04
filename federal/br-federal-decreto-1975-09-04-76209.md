@@ -1,5 +1,3 @@
-###DEC-076209-0-000-04-09-1975@@@
-
 DECRETO Nº 76.209, DE 4 DE SETEMBRO DE 1975.
 
 Concede reconhecimento aos cursos de Pedagogia, de Serviço Social e de Administração do Instituto de Ciências Sociais de Americana, com sede na cidade de Americana, Estado de São Paulo.

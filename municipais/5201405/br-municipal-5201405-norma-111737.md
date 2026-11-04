@@ -40,7 +40,8 @@ XV- Promover distúrbio psicológico e comportamental;
 
 XVI- Outras práticas que possam ser consideradas e constatadas como maus-tratos pela autoridade ambiental, sanitária, policial, judicial ou outra qualquer com esta competência.
 
-XVII – Submeter os animais à realização de tatuagens, aplicação de piercings ou quaisquer outros procedimentos estéticos invasivos;<br>
+XVII – Submeter os animais à realização de tatuagens, aplicação de piercings ou quaisquer outros procedimentos estéticos invasivos;
+
 **(REDAÇÃO ACRESCENTADA PELA LEI ORDINÁRIA Nº 3.859, DE 8 DE OUTUBRO DE 2025)**
 
 Art. 3º Entenda-se, para fins desta Lei, por animais, todo ser vivo pertencente ao Reino Animal, excetuando-se o Homo sapiens, abrangendo inclusive:
@@ -201,8 +202,10 @@ Art. 17 Esta Lei entra em vigor na data de sua publicação, revogadas as dispos
 
 Gabinete do Município de Aparecida Goiânia-GO, 15 de Fevereiro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

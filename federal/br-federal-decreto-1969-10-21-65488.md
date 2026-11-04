@@ -1,5 +1,3 @@
-###DEC-065488-0-000-21-10-1969@@@
-
 DECRETO Nº 65.488 - DE 21 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Araguari, com sede em Araguari, Estado de Minas Gerais.

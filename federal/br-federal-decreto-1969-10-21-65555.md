@@ -1,5 +1,3 @@
-###DEC-065555-0-000-21-10-1969@@@
-
 DECRETO Nº 65.555 - DE 21 DE OUTUBRO DE 1969.
 
 Revoga o parágrafo 4º do art. 1º do Decreto n.º 54.936, de 4 de novembro de 1964, e dá outras providências.

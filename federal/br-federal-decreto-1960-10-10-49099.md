@@ -1,5 +1,3 @@
-###DEC-049099-0-000-10-10-1960@@@
-
 Decreto nº 49.099, de 10 de outubro de 1960.
 
 Concede à Navegação Marenave Ltda. Autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

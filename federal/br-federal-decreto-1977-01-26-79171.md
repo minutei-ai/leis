@@ -1,5 +1,3 @@
-###DEC-079171-0-000-26-01-1977@@@
-
 DECRETO Nº 79.171, DE 26 DE JANEIRO DE 1977.
 
 Confisca bens pertencentes a Hercilio Cruz e dá outras providências.

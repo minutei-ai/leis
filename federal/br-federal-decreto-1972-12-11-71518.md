@@ -1,5 +1,3 @@
-###DEC-071518-0-000-11-12-1972@@@
-
 DECRETO Nº 71.518 - DE 11 DE DEZEMBRO DE 1972
 
 Concede à Companhia Siderúrgica de Mogi das Cruzes - COSIM o direito de lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

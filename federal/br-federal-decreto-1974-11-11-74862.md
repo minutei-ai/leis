@@ -1,5 +1,3 @@
-###DEC-074862-0-000-11-11-1974@@@
-
 DECRETO Nº 74.862, DE 11 DE NOVEMBRO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado do Rio Grande do Sul.

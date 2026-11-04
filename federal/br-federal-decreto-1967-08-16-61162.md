@@ -1,5 +1,3 @@
-###DEC-061162-0-000-16-08-1967@@@
-
 DECRETO Nº 61.162, DE 16 DE AGÔSTO DE 1967.
 
 Provê sôbre a transferência do Colégio Agrícola de Jundiaí para Universidade Federal do Rio Grande do Norte.

@@ -12,7 +12,8 @@ Institui o Dia Estadual em Comemoração à Reforma Protestante, a ser comemorad
 
 PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 10 de novembro de 2023.
 
-JERÔNIMO RODRIGUES<br>
+JERÔNIMO RODRIGUES
+
 Governador
 
 Afonso Bandeira Florence

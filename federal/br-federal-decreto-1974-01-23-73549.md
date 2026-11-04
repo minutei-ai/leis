@@ -1,5 +1,3 @@
-###DEC-073549-0-000-23-01-1974@@@
-
 DECRETO Nº 73.549, DE 23 DE JANEIRO DE 1974.
 
 Concede autorização à firma Norberto Odebrecht S. A., Comércio e Indústria, para realizar, no mar territorial do Brasil, os serviços que especifica.

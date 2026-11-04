@@ -1,5 +1,3 @@
-###DEC-004533-0-000-19-12-2002@@@
-
 DECRETO N. 4.533 – DE 19 DE DEZEMBRO DE 2002
 
 Regulamenta o art. 113 da Lei nº 9.610, de 19 de fevereiro de 1998, no que se refere a fonogramas, e dá outras providências.

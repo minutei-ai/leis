@@ -1,5 +1,3 @@
-###DEC-085016-0-000-07-08-1980@@@
-
 decreto nº 85.016, de 07 de agosto de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

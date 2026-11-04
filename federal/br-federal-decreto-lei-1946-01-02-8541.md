@@ -1,5 +1,3 @@
-###DEL-008541-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.541 – DE 2 DE JANEIRO DE 1946
 
 Altera as carreiras de Patrão, Maquinista Marítimo, Foguista e Marinheiro e dá outras providências.

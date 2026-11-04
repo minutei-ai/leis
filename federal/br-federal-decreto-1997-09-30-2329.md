@@ -1,5 +1,3 @@
-###DEC-002329-0-000-30-09-1997@@@
-
 DECRETO Nº 2.329, DE 30 DE SETEMBRO DE 1997
 
 Prorroga o prazo de remanejamento dos cargos em comissão que menciona.

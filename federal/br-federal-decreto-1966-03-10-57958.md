@@ -1,5 +1,3 @@
-###DEC-057958-0-000-10-03-1966@@@
-
 DECRETO Nº 57.958, de 10 de março de 1966.
 
 Autoriza o cidadão brasileiro Silvano Biondi a pesquisar bauxita no município de Lavrinhas, Estado de São Paulo.

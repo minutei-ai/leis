@@ -1,5 +1,3 @@
-###DEC-075219-0-000-15-01-1975@@@
-
 DECRETO Nº 75.219, DE 15 DE JANEIRO DE 1975.
 
 Cria o 58º Batalhão de Infantaria e dá outras providências.

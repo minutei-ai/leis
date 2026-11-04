@@ -1,5 +1,3 @@
-###DEL-002019-0-000-28-03-1983@@@
-
 # Decreto-LEI nº 2.019, de 28 de março de 1983
 
 Dispõe sobre o cálculo de parcelas da remuneração devida aos magistrados e dá outras providências.

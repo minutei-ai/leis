@@ -1,5 +1,3 @@
-###DEC-056777-0-000-23-08-1965@@@
-
 DECRETO nº 56.777, DE 23 DE AGÔSTO DE 1965.
 
 Autoriza a cidadã brasileira Idalina Três Altoé a pesquisar mármore no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

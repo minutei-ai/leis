@@ -1,5 +1,3 @@
-###DEC-048731-0-000-04-08-1960@@@
-
 DECRETO nº 48.731, DE 4 de AGÔSTO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Pedro, Estado de São Paulo.

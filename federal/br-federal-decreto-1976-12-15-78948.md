@@ -1,5 +1,3 @@
-###DEC-078948-0-000-15-12-1976@@@
-
 DECRETO Nº 78.948, DE 15 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Biológicas, do Centro de Educação, com sede na cidade de Ribeirão Preto, Estado de São Paulo.

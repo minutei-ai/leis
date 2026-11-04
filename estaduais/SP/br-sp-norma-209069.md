@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209069)<br>
-
 # DECRETO N° 68.298, DE 03 DE JANEIRO DE 2024
 
 ### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais no ano de 2024 e dá providências correlatas._

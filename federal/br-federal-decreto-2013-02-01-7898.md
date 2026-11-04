@@ -1,5 +1,3 @@
-###DEC-000010-0-004-01-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.898, DE 1º\- DE FEVEREIRO DE 2013
 
 Cria a empresa pública Amazônia Azul Tecnologias de Defesa S.A. - Amazul, altera o Decreto nº 6.129, de 20 de junho de 2007, e dá outras providências.

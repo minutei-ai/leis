@@ -1,5 +1,3 @@
-###DEC-049663-0-000-31-12-1960@@@
-
 DECRETO Nº 49.663, DE 31 DE DEZEMBRO DE 1960.
 
 Altera o artigo. 1º do Decreto nº 41.317, de 10 de abril de 1.957.

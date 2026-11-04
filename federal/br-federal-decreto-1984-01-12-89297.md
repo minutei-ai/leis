@@ -1,5 +1,3 @@
-###DEC-089297-0-000-12-01-1984@@@
-
 Decreto nº 89.297, de 12 de janeiro de 1984.
 
 Altera o Decreto nº 88.453, de 30 de junho de 1983, que dispõe sobre equivalência de cursos para efeito de aplicação do disposto no artigo 1º do Decreto nº 86.763, de 22 de dezembro de 1981.

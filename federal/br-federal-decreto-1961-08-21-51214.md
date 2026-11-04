@@ -1,5 +1,3 @@
-###DEC-051214-0-000-21-08-1961@@@
-
 Decreto nº 51.214, de 21 de agôsto de 1961.
 
 Retifica o Decreto nº 49.809 de 31 de dezembro de 1960.

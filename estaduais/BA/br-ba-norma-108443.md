@@ -12,19 +12,22 @@ Redação do Parágrafo único do art. 1º de acordo com a [Lei Complementar nº
 
 Art. 2º - Para entrega das parcelas dos Municípios, nos exercícios de 1992 e 1993, os índices definitivos de participação serão calculados e publicados pelo Tribunal de Contas do Estado, observados os seguintes critérios:
 
-Redação do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .<br>
+Redação do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .
+
 Redação original: "Art. 2º - Para a entrega das parcelas aos Municípios, no exercício de 1992, os índices definitivos de participação serão calculados e publicados pelo Tribunal de Contas do Estado, observados os seguintes critérios:"
 
 I - 75% (setenta e cinco por cento) com base na média obtida utilizando-se o índice de valor adicionado, relativo a 1990 e o índice de valor adicionado, médio que compõe o índice de participação vigente em dezembro de 1991.
 
-Redação do inciso I do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .<br>
+Redação do inciso I do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .
+
 Redação original: "I - 75% (setenta e cinco por cento) com base na média a que se refere o [§ 6º deste artigo](https://www.legislabahia.ba.gov.br/documentos/lc-no-007-de-20-de-dezembro-de-1991#LEI_007_Art_2_P_6) , que será obtida, utilizando-se o índice de valor adicionado, relativo a 1990 e o índice de valor adicionado médio que compõe o índice de participação vigente em dezembro de 1991;"
 
 II - 25% (vinte e cinco por cento) serão utilizados como fator de compensação a ser somado ao índice médio apurado na forma do inciso I;
 
 III - o fator de compensação referido no inciso II será obtido através da diferença entre o índice de valor adicionado, calculado com base no inciso I e o índice de participação vigente, em dezembro de 1991, observado o somatório máximo de 25 (vinte e cinco).
 
-Redação do inciso III do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .<br>
+Redação do inciso III do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .
+
 Redação original: "III - o fator de compensação referido no inciso II será obtido através da diferença entre o índice de valor adicionado, calculado com base no inciso I e o índice de participação vigente, observado o somatório máximo de 25 (vinte e cinco)."
 
 § 1º - O fator de compensação será aplicado de modo que:
@@ -33,12 +36,14 @@ a) não eleve os índice de participação a vigorarem em 1992 e em 1993, acima 
 
 b) nenhum Município apresente índice de participação em 1992 e em 1993, com redução superior a 20%(vinte por cento), em relação ao índice de participação vigente em dezembro de 1991.
 
-Redação do § 1º do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .<br>
+Redação do § 1º do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .
+
 Redação original: "§ 1º - O fator de compensação será aplicado de modo que: a) não eleve o índice de participação, a vigorar em 1992, acima do índice de participação vigente; b) nenhum Município apresente índice de participação, a vigorar em 1992, com redução superior a 20%(vinte por cento), em relação ao índice de participação vigente; c) nenhum Município perceba fator de compensação acima de 0,80000."
 
 § 2º - Para o Município cujo índice de valor adicionado médio, calculado na forma deste artigo e observada a respectiva ponderação, for maior ou igual ao índice de participação vigente em dezembro de 1991, o fator de compensação será 0,00001.
 
-Redação do § 2º do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .<br>
+Redação do § 2º do art. 2º de acordo com a [Lei Complementar nº 008, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/lc-no-008-de-23-de-dezembro-de-1992#LEI_008_Art__1) .
+
 Redação original: "§ 2º - Para o Município cujo índice de valor adicionado médio, calculado na forma deste artigo e observada a respectiva ponderação, for maior ou igual ao índice de participação vigente, o fator de compensação será 0,00001."
 
 § 3º - Na apuração do valor adicionado, o Estado adotará:

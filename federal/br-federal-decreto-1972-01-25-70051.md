@@ -1,5 +1,3 @@
-###DEC-070051-0-000-25-01-1972@@@
-
 DECRETO Nº 70.051, DE 25 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Instituto Imaculado Coração de Maria, com sede em Paraíba do Sul, Estado do Rio de Janeiro.

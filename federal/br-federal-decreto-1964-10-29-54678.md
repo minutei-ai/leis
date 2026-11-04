@@ -1,5 +1,3 @@
-###DEC-054678-0-000-29-10-1964@@@
-
 Decreto nº 54.678, de 29 de outubro de 1964.
 
 Aprova alteração introduzida nos Estatutos da Italbrás Companhia de Seguros Gerais, relativa ao aumento do capital social.

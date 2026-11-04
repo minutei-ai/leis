@@ -1,5 +1,3 @@
-###DEC-080188-0-000-17-08-1977@@@
-
 DECRETO Nº 80.188, DE 17 DE AGOSTO DE 1977.
 
 Retifica o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE).

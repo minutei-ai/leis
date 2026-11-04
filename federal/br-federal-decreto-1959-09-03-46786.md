@@ -1,5 +1,3 @@
-###DEC-046786-0-000-03-09-1959@@@
-
 Decreto nº 46.786, de 3 de setembro de 1959.
 
 Concede à Transnordeste Fluvial e Marítima S.A. autorização para funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-074622-0-000-26-09-1974@@@
-
 Decreto nº 74.622, de 26 de setembro de 1974.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio A Voz D'Oeste Limitada, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Cuiabá, Estado de Mato Grosso.

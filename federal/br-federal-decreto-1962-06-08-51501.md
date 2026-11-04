@@ -1,5 +1,3 @@
-###DEC-051501-0-000-08-06-1962@@@
-
 Decreto nº 51.501, de 8 de junho de 1962.
 
 Altera os Decretos ns. 48.864, de 18 de agôsto de 1960 e 51.345, de 28 de outubro de 1961.

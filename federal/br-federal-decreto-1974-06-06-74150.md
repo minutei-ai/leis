@@ -1,5 +1,3 @@
-###DEC-074150-0-000-06-06-1974@@@
-
 DECRETO Nº 74.150, DE 6 DE JUNHO DE 1974.
 
 Acrescenta parágrafo ao artigo 22, do Regimento da Consultoria Geral da República.

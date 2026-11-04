@@ -1,4 +1,5 @@
-DECRETO “N” Nº 529, DE 15 DE JULHO DE 2022.<br>
+DECRETO “N” Nº 529, DE 15 DE JULHO DE 2022.
+
 (Revogado pelo Decreto“N” Nº 649, de 14 de agosto de 2024).
 
 ~~Nomeia os membros do Conselho Fiscal do APARECIDAPREV - Instituto de Previdência de Aparecida de Goiânia.~~
@@ -29,5 +30,6 @@ DECRETO “N” Nº 529, DE 15 DE JULHO DE 2022.<br>
 
 ~~Art. 3º - Fica revogado o Decreto “N” n° 195, de 30 de maio de 2019. MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 15 de Julho de 2022.~~
 
-~~VILMAR MARIANO<br>
+~~VILMAR MARIANO
+
 Prefeito Municipal~~

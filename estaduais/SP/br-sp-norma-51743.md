@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51743)
-
 # LEI Nº 11.797, DE 09 DE SETEMBRO DE 2004
 
 ## ( PL 1303/2003 - Gilson de Souza)

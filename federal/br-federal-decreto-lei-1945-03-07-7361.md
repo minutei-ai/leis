@@ -1,5 +1,3 @@
-###DEL-007361-0-000-07-03-1945@@@
-
 DECRETO-LEI N. 7.361 – DE 7 DE MARÇO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Agricultura e dá outras providências

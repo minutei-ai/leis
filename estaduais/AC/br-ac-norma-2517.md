@@ -1,6 +1,6 @@
 > **LEI Nº 3.231, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Plano de Cargos, Carreiras e Remuneração-PCCR do Quadro de Servidores da Secretaria de Estado da Casa Civil – SECC.</span></span></span></p></td></tr></tbody></table>
+Dispõe sobre o Plano de Cargos, Carreiras e Remuneração-PCCR do Quadro de Servidores da Secretaria de Estado da Casa Civil – SECC.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -284,31 +284,23 @@ Rio Branco – Acre, 15 de março de 2017, 129º da República, 115º do Tratado
 
 Governador do Estado do Acre
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 **ANEXO I**
 
 **ESTRUTURA E COMPOSIÇÃO, SEGUNDO OS GRUPOS OCUPACIONAIS, CARGOS, CLASSES E REFERÊNCIAS**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"><p><span><strong>QUADRO DA&nbsp;</strong><strong>SECC</strong></span></p></td><td colspan="3"><p><span><strong>GRUPOS OCUPACIONAIS</strong></span></p></td></tr><tr><td><p><span><strong>CARGO</strong></span></p></td><td><p><span><strong>CLASSE</strong></span></p></td><td><p><span><strong>REFERÊNCIA</strong></span></p></td></tr><tr><td rowspan="11"><p><span>QUADRO DA&nbsp;<strong><span>SECC</span></strong></span></p></td><td rowspan="5"><p><span>Analista Governamental</span></p><p><span>&nbsp;</span></p></td><td><p><span>Especial</span></p></td><td rowspan="5"><p><span>1 a 3</span></p></td></tr><tr><td><p><span>IV</span></p></td></tr><tr><td><p><span>III</span></p></td></tr><tr><td><p><span>II</span></p></td></tr><tr><td><p><span>I</span></p></td></tr><tr><td rowspan="5"><p><span>Técnico Governamental</span></p></td><td><p><span>Especial</span></p></td><td rowspan="5"><p><span>1 a 3</span></p></td></tr><tr><td><p><span>IV</span></p></td></tr><tr><td><p><span>III</span></p></td></tr><tr><td><p><span>II</span></p></td></tr><tr><td><p><span>I</span></p></td></tr><tr><td><p><span>Auxiliar Governamental I e II</span></p></td><td><p><span>-</span></p></td><td><p><span>1 a 8</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"> **QUADRO DA&nbsp;SECC** </td><td colspan="3"> **GRUPOS OCUPACIONAIS** </td></tr><tr><td> **CARGO** </td><td> **CLASSE** </td><td> **REFERÊNCIA** </td></tr><tr><td rowspan="11"> QUADRO DA&nbsp;**SECC** </td><td rowspan="5"> Analista Governamental &nbsp; </td><td> Especial </td><td rowspan="5"> 1 a 3 </td></tr><tr><td> IV </td></tr><tr><td> III </td></tr><tr><td> II </td></tr><tr><td> I </td></tr><tr><td rowspan="5"> Técnico Governamental </td><td> Especial </td><td rowspan="5"> 1 a 3 </td></tr><tr><td> IV </td></tr><tr><td> III </td></tr><tr><td> II </td></tr><tr><td> I </td></tr><tr><td> Auxiliar Governamental I e II </td><td> - </td><td> 1 a 8 </td></tr></tbody></table>
 
 **ANEXO II**
 
 **LINHAS DE TRANSFORMAÇÃO DOS CARGOS**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>CARGO – SITUAÇÃO ATUAL</strong></span></p></td><td><p><span><strong>CARGO – SITUAÇÃO NOVA</strong></span></p></td></tr><tr><td><p><span>Técnico de Assuntos Culturais</span></p></td><td rowspan="4"><p><span>Analista Governamental</span></p></td></tr><tr><td><p><span>Técnico em Comunicação Social</span></p></td></tr><tr><td><p><span>Assistente Jurídico</span></p></td></tr><tr><td><p><span>Administrador</span></p></td></tr><tr><td><p><span>Técnico em Informática&nbsp;</span></p></td><td rowspan="3"><p><span>Técnico Governamental</span></p></td></tr><tr><td><p><span>Agente Administrativo</span></p></td></tr><tr><td><p><span>Técnico em Contabilidade</span></p></td></tr><tr><td><p><span>Telefonista</span></p></td><td rowspan="3"><p><span>Auxiliar Governamental I</span></p></td></tr><tr><td><p><span>Datilógrafo</span></p></td></tr><tr><td><p><span>Motorista</span></p></td></tr><tr><td><p><span>Auxiliar Operacional de Serviços Diversos</span></p></td><td rowspan="3"><p><span>Auxiliar Governamental II</span></p></td></tr><tr><td><p><span>Agente Administrativo Auxiliar</span></p></td></tr><tr><td><p><span>Apoio Administrativo &nbsp;Nível &nbsp;I</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **CARGO – SITUAÇÃO ATUAL** </td><td> **CARGO – SITUAÇÃO NOVA** </td></tr><tr><td> Técnico de Assuntos Culturais </td><td rowspan="4"> Analista Governamental </td></tr><tr><td> Técnico em Comunicação Social </td></tr><tr><td> Assistente Jurídico </td></tr><tr><td> Administrador </td></tr><tr><td> Técnico em Informática&nbsp; </td><td rowspan="3"> Técnico Governamental </td></tr><tr><td> Agente Administrativo </td></tr><tr><td> Técnico em Contabilidade </td></tr><tr><td> Telefonista </td><td rowspan="3"> Auxiliar Governamental I </td></tr><tr><td> Datilógrafo </td></tr><tr><td> Motorista </td></tr><tr><td> Auxiliar Operacional de Serviços Diversos </td><td rowspan="3"> Auxiliar Governamental II </td></tr><tr><td> Agente Administrativo Auxiliar </td></tr><tr><td> Apoio Administrativo &nbsp;Nível &nbsp;I </td></tr></tbody></table>
 
 **ANEXO III**
 
 **LINHAS DE PROMOÇÃO**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>PROVIMENTO</strong></span></p></td><td colspan="4"><p><span><strong>PROMOÇÃO</strong></span></p></td></tr><tr><td><p><span><strong>CLASSE</strong></span></p></td><td><p><span><strong>CLASSE</strong></span></p></td><td><p><span><strong>CLASSE</strong></span></p></td><td><p><span><strong>CLASSE</strong></span></p></td><td><p><span><strong>CLASSE</strong></span></p></td></tr><tr><td><p><span>Analista Governamental I</span></p></td><td><p><span>Analista Governamental II</span></p></td><td><p><span>Analista Governamental III</span></p></td><td><p><span>Analista Governamental IV</span></p></td><td><p><span>Analista Governamental Especial</span></p></td></tr><tr><td><p><span>Técnico Governamental I</span></p></td><td><p><span>Técnico Governamental II</span></p></td><td><p><span>Técnico Governamental III</span></p></td><td><p><span>Técnico Governamental IV</span></p></td><td><p><span>Técnico Governamental Especial</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **PROVIMENTO** </td><td colspan="4"> **PROMOÇÃO** </td></tr><tr><td> **CLASSE** </td><td> **CLASSE** </td><td> **CLASSE** </td><td> **CLASSE** </td><td> **CLASSE** </td></tr><tr><td> Analista Governamental I </td><td> Analista Governamental II </td><td> Analista Governamental III </td><td> Analista Governamental IV </td><td> Analista Governamental Especial </td></tr><tr><td> Técnico Governamental I </td><td> Técnico Governamental II </td><td> Técnico Governamental III </td><td> Técnico Governamental IV </td><td> Técnico Governamental Especial </td></tr></tbody></table>
 
 **ANEXO IV**
 
@@ -316,35 +308,207 @@ Governador do Estado do Acre
 
 **Analista Governamental**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Referência</strong></span></p><p><span><strong>Classe</strong></span></p></td><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td></tr><tr><td><p><span>Classe Especial</span></p></td><td><p><span>6.507,83</span></p></td><td><p><span>6.833,23</span></p></td><td><p><span>7.174,88</span></p></td></tr><tr><td><p><span>Classe IV</span></p></td><td><p><span>5.465,55</span></p></td><td><p><span>5.738,83</span></p></td><td><p><span>6.025,77</span></p></td></tr><tr><td><p><span>Classe III</span></p></td><td><p><span>4.590,20</span></p></td><td><p><span>4.819,70</span></p></td><td><p><span>5.060,70</span></p></td></tr><tr><td><p><span>Classe II</span></p></td><td><p><span>3.855,04</span></p></td><td><p><span>4.047,79</span></p></td><td><p><span>4.250,19</span></p></td></tr><tr><td><p><span>Classe I</span></p></td><td><p><span>3.237,62</span></p></td><td><p><span>3.399,51</span></p></td><td><p><span>3.569,48</span></p></td></tr></tbody></table>
+**Referência**
+
+**Classe**
+
+**1**
+
+**2**
+
+**3**
+
+Classe Especial
+
+6.507,83
+
+6.833,23
+
+7.174,88
+
+Classe IV
+
+5.465,55
+
+5.738,83
+
+6.025,77
+
+Classe III
+
+4.590,20
+
+4.819,70
+
+5.060,70
+
+Classe II
+
+3.855,04
+
+4.047,79
+
+4.250,19
+
+Classe I
+
+3.237,62
+
+3.399,51
+
+3.569,48
 
 **Técnico Governamental**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Referência</strong></span></p><p><span><strong>Classe</strong></span></p></td><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td></tr><tr><td><p><span>Classe Especial</span></p></td><td><p><span>3.155,98</span></p></td><td><p><span>3.392,67</span></p></td><td><p><span>3.647,12</span></p></td></tr><tr><td><p><span>Classe IV</span></p></td><td><p><span>2.540,47</span></p></td><td><p><span>2.730,99</span></p></td><td><p><span>2.935,81</span></p></td></tr><tr><td><p><span>Classe III</span></p></td><td><p><span>2.044,99</span></p></td><td><p><span>2.198,36</span></p></td><td><p><span>2.363,23</span></p></td></tr><tr><td><p><span>Classe II</span></p></td><td><p><span>1.646,14</span></p></td><td><p><span>1.769,60</span></p></td><td><p><span>1.902,32</span></p></td></tr><tr><td><p><span>Classe I</span></p></td><td><p><span>1.315,44</span></p></td><td><p><span>1.414,09</span></p></td><td><p><span>1.532,14</span></p></td></tr></tbody></table>
+**Referência**
+
+**Classe**
+
+**1**
+
+**2**
+
+**3**
+
+Classe Especial
+
+3.155,98
+
+3.392,67
+
+3.647,12
+
+Classe IV
+
+2.540,47
+
+2.730,99
+
+2.935,81
+
+Classe III
+
+2.044,99
+
+2.198,36
+
+2.363,23
+
+Classe II
+
+1.646,14
+
+1.769,60
+
+1.902,32
+
+Classe I
+
+1.315,44
+
+1.414,09
+
+1.532,14
 
 **Auxiliar Governamental**
 
 **I e II** 
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="8"><p><span><strong>REFERÊNCIAS VENCIMENTAIS</strong></span></p></td></tr><tr><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td><td><p><span><strong>4</strong></span></p></td><td><p><span><strong>5</strong></span></p></td><td><p><span><strong>6</strong></span></p></td><td><p><span><strong>7</strong></span></p></td><td><p><span><strong>8</strong></span></p></td></tr><tr><td><p><span>1.016,06</span></p></td><td><p><span>1.117,66</span></p></td><td><p><span>1.229,42</span></p></td><td><p><span>1.352,36</span></p></td><td><p><span>1.487,59</span></p></td><td><p><span>1.636,34</span></p></td><td><p><span>1.799,97</span></p></td><td><p><span>1.979,96</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="8"> **REFERÊNCIAS VENCIMENTAIS** </td></tr><tr><td> **1** </td><td> **2** </td><td> **3** </td><td> **4** </td><td> **5** </td><td> **6** </td><td> **7** </td><td> **8** </td></tr><tr><td> 1.016,06 </td><td> 1.117,66 </td><td> 1.229,42 </td><td> 1.352,36 </td><td> 1.487,59 </td><td> 1.636,34 </td><td> 1.799,97 </td><td> 1.979,96 </td></tr></tbody></table>
 
 **ANEXO V**
 
 **QUANTIFICAÇÃO DOS CARGOS**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>CARGO</strong></span></p></td><td><p><span><strong>QUANTIDADE</strong></span></p></td></tr><tr><td><p><span>Analista Governamental</span></p></td><td><p><span>30</span></p></td></tr><tr><td><p><span>Técnico Governamental</span></p></td><td><p><span>30</span></p></td></tr><tr><td><p><span>Auxiliar Governamental I</span></p></td><td><p><span>20</span></p></td></tr><tr><td><p><span>Auxiliar Governamental II</span></p></td><td><p><span>15</span></p></td></tr><tr><td><p><span>TOTAL</span></p></td><td><p><span>95</span></p></td></tr></tbody></table>
+**CARGO**
+
+**QUANTIDADE**
+
+Analista Governamental
+
+30
+
+Técnico Governamental
+
+30
+
+Auxiliar Governamental I
+
+20
+
+Auxiliar Governamental II
+
+15
+
+TOTAL
+
+95
 
 **ANEXO VI** 
 
 **CARGOS EM EXTINÇÃO**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>CARGO – SITUAÇÃO ATUAL</strong></span></p></td><td><p><span><strong>QUANTIDADE</strong></span></p></td></tr><tr><td><p><span>Técnico de Assuntos Culturais</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>Técnico em Comunicação Social</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>Assistente Jurídico</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>Administrador</span></p></td><td><p><span>6</span></p></td></tr><tr><td><p><span>Técnico em Informática</span></p></td><td><p><span>4</span></p></td></tr><tr><td><p><span>Agente Administrativo</span></p></td><td><p><span>12</span></p></td></tr><tr><td><p><span>Técnico em Contabilidade</span></p></td><td><p><span>5</span></p></td></tr><tr><td><p><span>Telefonista</span></p></td><td><p><span>1</span></p></td></tr><tr><td><p><span>Datilógrafo</span></p></td><td><p><span>4</span></p></td></tr><tr><td><p><span>Motorista</span></p></td><td><p><span>3</span></p></td></tr><tr><td><p><span>Auxiliar Operacional de Serviços Diversos</span></p></td><td><p><span>19</span></p></td></tr><tr><td><p><span>Agente Administrativo Auxiliar</span></p></td><td><p><span>2</span></p></td></tr><tr><td><p><span>Apoio Administrativo Nível &nbsp;I</span></p></td><td><p><span>1</span></p></td></tr></tbody></table>
+**CARGO – SITUAÇÃO ATUAL**
+
+**QUANTIDADE**
+
+Técnico de Assuntos Culturais
+
+1
+
+Técnico em Comunicação Social
+
+1
+
+Assistente Jurídico
+
+1
+
+Administrador
+
+6
+
+Técnico em Informática
+
+4
+
+Agente Administrativo
+
+12
+
+Técnico em Contabilidade
+
+5
+
+Telefonista
+
+1
+
+Datilógrafo
+
+4
+
+Motorista
+
+3
+
+Auxiliar Operacional de Serviços Diversos
+
+19
+
+Agente Administrativo Auxiliar
+
+2
+
+Apoio Administrativo Nível  I
+
+1
 
 **ANEXO VII**
 
 Adicional de Titulação
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"><p><span><strong>TITULAÇÃO</strong></span></p></td></tr><tr><td><p><span><strong>CARGO E PERCENTUAL MÁXIMO</strong></span></p></td><td><p><span><strong>ESCOLARIDADE</strong></span></p></td></tr><tr><td><p><span>Auxiliar Governamental I e II</span></p><p><span>Máximo 20%</span></p></td><td><p><span>Superior: 20%</span></p></td></tr><tr><td><p><span>Técnico Governamental</span></p><p><span>Máximo 20%</span></p></td><td><p><span>Superior: 20%</span></p></td></tr><tr><td><p><span>Analista Governamental</span></p><p><span>Máximo 20%</span></p></td><td><p><span>Pós-graduação L<em>ato Sensu:</em> 7,5%</span></p><p><span>Mestrado: 15%</span></p><p><span>Doutorado: 20%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2"> **TITULAÇÃO** </td></tr><tr><td> **CARGO E PERCENTUAL MÁXIMO** </td><td> **ESCOLARIDADE** </td></tr><tr><td> Auxiliar Governamental I e II Máximo 20% </td><td> Superior: 20% </td></tr><tr><td> Técnico Governamental Máximo 20% </td><td> Superior: 20% </td></tr><tr><td> Analista Governamental Máximo 20% </td><td> Pós-graduação L*ato Sensu:* 7,5% Mestrado: 15% Doutorado: 20% </td></tr></tbody></table>
 
 **ANEXO VIII**
 
@@ -352,13 +516,53 @@ Adicional de Titulação
 
 **SECRETARIA DE ESTADO DA CASA CIVIL – SECC**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>CARGOS</strong></span></p></td><td><p><span><strong>VALOR MÁXIMO DO PRÊMIO</strong></span></p></td></tr><tr><td><p><span>Auxiliar Governamental</span></p><p><span>I e II</span></p><p><span>&nbsp;</span></p></td><td><p><span>Nove décimos do vencimento básico do servidor ocupante do cargo de Auxiliar</span></p><p><span>Governamental I e II.</span></p></td></tr><tr><td><p><span>Técnico Governamental</span></p><p><span>&nbsp;</span></p></td><td><p><span>Nove décimos do vencimento básico do servidor ocupante do cargo de Técnico Governamental.</span></p></td></tr><tr><td><p><span>Analista Governamental</span></p><p><span>&nbsp;</span></p></td><td><p><span>Sete décimos do vencimento básico do servidor ocupante do cargo de Analista Governamental.</span></p></td></tr></tbody></table>
+**CARGOS**
+
+**VALOR MÁXIMO DO PRÊMIO**
+
+Auxiliar Governamental
+
+I e II
+
+Nove décimos do vencimento básico do servidor ocupante do cargo de Auxiliar
+
+Governamental I e II.
+
+Técnico Governamental
+
+Nove décimos do vencimento básico do servidor ocupante do cargo de Técnico Governamental.
+
+Analista Governamental
+
+Sete décimos do vencimento básico do servidor ocupante do cargo de Analista Governamental.
 
 **ANEXO IX**
 
 **VALOR MÁXIMO COMPLEMENTAR DO PRÊMIO ANUAL DE VALORIZAÇÃO DA ATIVADADE NA SECRETARIA DE ESTADO DA CASA CIVIL – SECC**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>PERCENTUAL DE SUPERAÇÃO DE METAS</strong></span></p></td><td><p><span><strong>PERCENTUAL COMPLEMENTAR DO VALOR MÁXIMO DO PRÊMIO DEFINIDO POR CARGO</strong></span></p></td></tr><tr><td><p><span>De cento e onze por cento até cento e onze vírgula nove por cento.</span></p><p><span>&nbsp;</span></p></td><td><p><span>Dez por cento do prêmio.</span></p></td></tr><tr><td><p><span>De cento e doze por cento até cento e doze vírgula nove por cento.</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p></td><td><p><span>Vinte por cento do prêmio.</span></p></td></tr><tr><td><p><span>De cento e treze por cento até cento e treze vírgula nove por cento.</span></p><p><span>&nbsp;</span></p></td><td><p><span>Trinta por cento do prêmio.</span></p></td></tr><tr><td><p><span>De cento e quatorze por cento até cento e quatorze vírgula nove por cento.</span></p></td><td><p><span>Quarenta por cento do prêmio.</span></p></td></tr><tr><td><p><span>Igual ou superior a cento e quinze por cento.</span></p></td><td><p><span>Cinquenta por cento do prêmio.</span></p></td></tr></tbody></table>
+**PERCENTUAL DE SUPERAÇÃO DE METAS**
+
+**PERCENTUAL COMPLEMENTAR DO VALOR MÁXIMO DO PRÊMIO DEFINIDO POR CARGO**
+
+De cento e onze por cento até cento e onze vírgula nove por cento.
+
+Dez por cento do prêmio.
+
+De cento e doze por cento até cento e doze vírgula nove por cento.
+
+Vinte por cento do prêmio.
+
+De cento e treze por cento até cento e treze vírgula nove por cento.
+
+Trinta por cento do prêmio.
+
+De cento e quatorze por cento até cento e quatorze vírgula nove por cento.
+
+Quarenta por cento do prêmio.
+
+Igual ou superior a cento e quinze por cento.
+
+Cinquenta por cento do prêmio.
 
 **ANEXO X**
 
@@ -368,8 +572,32 @@ Analista Governamental e
 
 Técnico Governamental.
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>&nbsp;</span></p><p><span><strong>TEMPO DE EFETIVO SERVIÇO</strong></span></p><p><span>&nbsp;</span></p></td><td colspan="2" valign="top"><p><span><strong>&nbsp;</strong></span></p><p><span><strong>ENQUADRAMENTO NA NOVA TABELA</strong></span></p></td></tr><tr><td valign="top"><p><span>&nbsp;</span></p></td><td valign="top"><p><span><strong>CLASSE</strong></span></p></td><td valign="top"><p><span><strong>REFERÊNCIA</strong></span></p></td></tr><tr><td valign="top"><p><span>1 a 36 meses</span></p></td><td valign="top"><p><span>I</span></p></td><td valign="top"><p><span>1</span></p></td></tr><tr><td valign="top"><p><span>37 a 72 meses</span></p></td><td valign="top"><p><span>II</span></p></td><td valign="top"><p><span>1</span></p></td></tr><tr><td valign="top"><p><span>73 a 108 meses</span></p></td><td valign="top"><p><span>III</span></p></td><td valign="top"><p><span>1</span></p></td></tr><tr><td valign="top"><p><span>109 a 144 meses</span></p></td><td valign="top"><p><span>IV</span></p></td><td valign="top"><p><span>1</span></p></td></tr><tr><td valign="top"><p><span>145 a 180 meses</span></p></td><td valign="top"><p><span>Especial</span></p></td><td valign="top"><p><span>1</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> &nbsp; **TEMPO DE EFETIVO SERVIÇO** &nbsp; </td><td colspan="2" valign="top"> **&nbsp;ENQUADRAMENTO NA NOVA TABELA** </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> **CLASSE** </td><td valign="top"> **REFERÊNCIA** </td></tr><tr><td valign="top"> 1 a 36 meses </td><td valign="top"> I </td><td valign="top"> 1 </td></tr><tr><td valign="top"> 37 a 72 meses </td><td valign="top"> II </td><td valign="top"> 1 </td></tr><tr><td valign="top"> 73 a 108 meses </td><td valign="top"> III </td><td valign="top"> 1 </td></tr><tr><td valign="top"> 109 a 144 meses </td><td valign="top"> IV </td><td valign="top"> 1 </td></tr><tr><td valign="top"> 145 a 180 meses </td><td valign="top"> Especial </td><td valign="top"> 1 </td></tr></tbody></table>
 
 Auxiliar Governamental I e II
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong>TEMPO DE EFETIVO SERVIÇO</strong></span></p></td><td valign="top"><p><span><strong>ENQUADRAMENTO NA NOVA TABELA</strong></span></p></td></tr><tr><td valign="top"><p><span><strong>&nbsp;</strong></span></p></td><td valign="top"><p><span><strong>REFERÊNCIA</strong></span></p></td></tr><tr><td valign="top"><p><span>1 a 36 meses</span></p></td><td valign="top"><p><span>4</span></p></td></tr><tr><td valign="top"><p><span>37 a 72 meses</span></p></td><td valign="top"><p><span>5</span></p></td></tr><tr><td valign="top"><p><span>73 a 108 meses</span></p></td><td valign="top"><p><span>6</span></p></td></tr><tr><td valign="top"><p><span>109 a 144 meses</span></p></td><td valign="top"><p><span>7</span></p></td></tr><tr><td valign="top"><p><span>145 a 180 meses</span></p></td><td valign="top"><p><span>8</span></p></td></tr></tbody></table>
+**TEMPO DE EFETIVO SERVIÇO**
+
+**ENQUADRAMENTO NA NOVA TABELA**
+
+**REFERÊNCIA**
+
+1 a 36 meses
+
+4
+
+37 a 72 meses
+
+5
+
+73 a 108 meses
+
+6
+
+109 a 144 meses
+
+7
+
+145 a 180 meses
+
+8

@@ -1,5 +1,3 @@
-###DEC-089276-0-000-05-01-1984@@@
-
 Decreto nº 89.276, de 05 de janeiro de 1984.
 
 Altera dispositivo do Decreto nº 85.633, de 1981, que regula a ocupação de imóveis residenciais no Distrito Federal, e dá outras providências.

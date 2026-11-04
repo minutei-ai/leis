@@ -1,5 +1,3 @@
-###DEC-003974-0-000-17-10-2001@@@
-
 DECRETO Nº 3.974, DE 17 DE OUTUBRO DE 2001
 
 Promulga o Acordo entre a República Federativa do Brasil e o Governo da República da África do Sul sobre Serviços Aéreos entre os seus Respectivos Territórios e Além, celebrado em Pretória, em 26 de novembro de 1996.

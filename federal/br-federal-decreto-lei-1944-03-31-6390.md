@@ -1,5 +1,3 @@
-###DEL-006390-0-000-31-03-1944@@@
-
 DECRETO-LEI N. 6.390 – DE 31 DE  MARÇO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 6.000.000,00, para despesas com o transporte de trabalhadores nacionais

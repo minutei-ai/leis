@@ -1,5 +1,3 @@
-###DEC-070619-0-000-25-05-1972@@@
-
 DECRETO Nº 70.619, DE 25 DE MAIO DE 1972.
 
 Concede a Mineração Geral do Nordeste S. A. o direito de lavrar caulim no Município de Equador, Estado do Rio Grande do Norte.

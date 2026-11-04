@@ -1,5 +1,3 @@
-###DEC-053195-0-000-11-12-1963@@@
-
 DECRETO Nº 53.195, DE 11 DE Dezembro DE 1963.
 
 Autoriza Fosforita Olinda S.A. Fasa - a lavrar fosforita no município de Paulista, Estado de Pernambuco.

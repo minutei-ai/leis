@@ -1,5 +1,3 @@
-###DEC-047484-0-000-24-12-1959@@@
-
 DECRETO Nº 47.484, DE 24 DE DEZEMBRO DE 1959.
 
 Concede autorização para o funcionamento dos Cursos que indica.

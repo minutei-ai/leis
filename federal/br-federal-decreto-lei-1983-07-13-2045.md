@@ -1,5 +1,3 @@
-###DEL-002045-0-000-13-07-1983@@@
-
 # DECRETO-LEI nº 2.045, de 13 dE julho de 1983.
 
 Altera a Lei nº 6.708, de 30 de outubro de 1979, que trata da política salarial, e a Lei nº 7.069, de 20 de dezembro de 1982, que dispõe sobre o reajustamento de alugueres em locações residenciais, adota medidas no âmbito do Sistema Financeiro da Habitação e dá outras providências.

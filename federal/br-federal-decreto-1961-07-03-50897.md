@@ -1,5 +1,3 @@
-###DEC-050897-0-000-03-07-1961@@@
-
 decreto nº 50.897, de 3 de julho de 1961.
 
 Autoriza o Ministério da Aeronáutica a ceder gratuitamente à Prefeitura Municipal de Canoas, Estado do Rio Grande do Sul, os terrenos que menciona.

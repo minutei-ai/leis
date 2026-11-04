@@ -1,5 +1,3 @@
-###DEC-003165-0-000-13-09-1999@@@
-
 DECRETO Nº 3.165, DE 13 DE SETEMBRO DE 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

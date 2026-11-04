@@ -1,5 +1,3 @@
-###DEC-083009-0-000-10-01-1979@@@
-
 DECRETO Nº 83.009, DE 10 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Letras, do Instituto de Biociências, Letras e Ciências Exatas de São José do Rio Preto, mantido no campus de São José do Rio Preto, São Paulo, pela Universidade Estadual Paulista Júlio de Mesquita Filho, com sede na cidade de São Paulo, no mesmo Estado.

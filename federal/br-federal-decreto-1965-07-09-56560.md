@@ -1,5 +1,3 @@
-###DEC-056560-0-000-09-07-1965@@@
-
 DECRETO Nº 56.560, DE 9 DE JULHO DE 1965.
 
 Concede a Eletro Manganês Ltda. autorização para funcionar como emprêsa de mineração.

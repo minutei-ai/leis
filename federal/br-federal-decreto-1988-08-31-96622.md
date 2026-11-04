@@ -1,5 +1,3 @@
-###DEC-096622-0-000-31-08-1988@@@
-
 DECRETO N° 96.622, DE 31 DE AGOSTO DE 1988
 
 Autoriza a constituição de subsidiária de Indústrias Nucleares do Brasil S.A.  INB e dá outras providências.

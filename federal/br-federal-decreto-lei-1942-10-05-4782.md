@@ -1,5 +1,3 @@
-###DEL-004782-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.782 – DE 5 DE OUTUBRO DE 1942
 
 Dispõe sobre o registo civil para fins de serviço militar

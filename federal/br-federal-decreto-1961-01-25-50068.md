@@ -1,5 +1,3 @@
-###DEC-050068-0-000-25-01-1961@@@
-
 DECRETO Nº 50.068, DE 25 DE JANEIRO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.390, de 28-10-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Poço das Pedras, no Município de Campos Sales, Estado do Ceará.

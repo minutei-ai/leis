@@ -1,5 +1,3 @@
-###DEL-009798-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.798 – DE 9 DE SETEMBRO DE 1946
 
 Dispõe sôbre o montepio militar dos contribuintes civis.

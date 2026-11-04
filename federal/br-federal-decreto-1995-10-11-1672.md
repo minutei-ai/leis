@@ -1,7 +1,3 @@
-1
-
-###DEC-001672-0-000-11-10-1995@@@
-
 DECRETO Nº 1.672, DE 11 DE OUTUBRO DE 1995.
 
 Altera dispositivos do Decreto nº 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente.

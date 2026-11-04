@@ -1,5 +1,3 @@
-###DEC-061618-0-000-03-11-1967@@@
-
 Decreto nº 61.618, de 3 de Novembro de 1967.
 
 Altera dispositivos dos Estatutos do Instituto de Resseguros do Brasil.

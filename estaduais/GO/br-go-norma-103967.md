@@ -8,23 +8,28 @@ Art. 1º Fica instituído o Programa Estadual de Bioinsumos, com a finalidade de
 
 Art. 2º Para os efeitos desta Lei, considera-se:
 
-I – bioinsumo: produto, processo ou tecnologia de origem vegetal, animal ou microbiana, inclusive proveniente de processo biotecnológico, ou estruturalmente similar e funcionalmente idêntico ao de origem natural, destinado ao uso na produção, na proteção, no armazenamento e no beneficiamento de produtos agropecuários ou nos sistemas de produção aquáticos ou de florestas plantadas, que interfira no crescimento, no desenvolvimento e no mecanismo de resposta de animais, de plantas, de microrganismos, do solo e de substâncias derivadas e que interaja com os produtos e os processos físico-químicos e biológicos;<br>
+I – bioinsumo: produto, processo ou tecnologia de origem vegetal, animal ou microbiana, inclusive proveniente de processo biotecnológico, ou estruturalmente similar e funcionalmente idêntico ao de origem natural, destinado ao uso na produção, na proteção, no armazenamento e no beneficiamento de produtos agropecuários ou nos sistemas de produção aquáticos ou de florestas plantadas, que interfira no crescimento, no desenvolvimento e no mecanismo de resposta de animais, de plantas, de microrganismos, do solo e de substâncias derivadas e que interaja com os produtos e os processos físico-químicos e biológicos;
+
 \- [Redação dada pela Lei nº 23.600, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111181).
 
 ~~I – bioinsumo: o produto de base vegetal, animal ou microbiana, destinado ao uso na produção, no armazenamento e no beneficiamento agropecuários, também nos sistemas de produção aquáticos ou de florestas plantadas, capazes de interferir positivamente no crescimento, no desenvolvimento e nos mecanismos de resposta de animais, plantas, microrganismos e substâncias derivadas, que possam interagir com produtos, processos físico-químicos e biológicos; e~~
 
-II – bioinsumo de uso pecuário: bioinsumo que contém exclusivamente ativos e substâncias permitidas, listadas em regulamento próprio, para o uso em animais terrestres e suas instalações, e não se enquadra na definição legal de produtos de uso veterinário vigente no Decreto-Lei federal nº 467, de 13 de fevereiro de 1969;<br>
+II – bioinsumo de uso pecuário: bioinsumo que contém exclusivamente ativos e substâncias permitidas, listadas em regulamento próprio, para o uso em animais terrestres e suas instalações, e não se enquadra na definição legal de produtos de uso veterinário vigente no Decreto-Lei federal nº 467, de 13 de fevereiro de 1969;
+
 \- [Redação dada pela Lei nº 23.600, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111181).
 
 ~~II – sustentável: aquilo ou quem integra as dimensões econômica, ambiental e social, respeita as diversidades regionais e culturais e adota boas práticas socioambientais para a produção, o processamento, a transformação e a distribuição de produtos agropecuários até o consumidor final.~~
 
-III – bioinsumo de uso aquícola: bioinsumo que contém exclusivamente ativos e substâncias permitidas, listadas em regulamento próprio, com o uso destinado a animais aquáticos e seus ambientes de cultivo, e não se enquadra na definição legal de produtos de uso veterinário vigente no Decreto-Lei nº 467, de 1969;<br>
+III – bioinsumo de uso aquícola: bioinsumo que contém exclusivamente ativos e substâncias permitidas, listadas em regulamento próprio, com o uso destinado a animais aquáticos e seus ambientes de cultivo, e não se enquadra na definição legal de produtos de uso veterinário vigente no Decreto-Lei nº 467, de 1969;
+
 \- [Acrescido pela Lei nº 23.600, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111181).
 
-IV – bioinsumo com uso aprovado para a agricultura orgânica: bioinsumo que contém exclusivamente substâncias permitidas, listadas em regulamento próprio, para o uso na agricultura orgânica, de livre uso em qualquer sistema de cultivo; e<br>
+IV – bioinsumo com uso aprovado para a agricultura orgânica: bioinsumo que contém exclusivamente substâncias permitidas, listadas em regulamento próprio, para o uso na agricultura orgânica, de livre uso em qualquer sistema de cultivo; e
+
 \- [Acrescido pela Lei nº 23.600, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111181).
 
-V – sustentável: refere-se àquilo ou àquele que integra as dimensões econômica, ambiental e social, respeita as diversidades regionais e culturais e se prende a boas práticas socioambientais para a produção, o processamento, a transformação e a distribuição de produtos agropecuários até o consumidor final.<br>
+V – sustentável: refere-se àquilo ou àquele que integra as dimensões econômica, ambiental e social, respeita as diversidades regionais e culturais e se prende a boas práticas socioambientais para a produção, o processamento, a transformação e a distribuição de produtos agropecuários até o consumidor final.
+
 \- [Acrescido pela Lei nº 23.600, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111181).
 
 Art. 3º As diretrizes estratégicas do Programa Estadual de Bioinsumos são:

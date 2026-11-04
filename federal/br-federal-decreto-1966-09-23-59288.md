@@ -1,5 +1,3 @@
-###DEC-059288-0-000-23-09-1966@@@
-
 DECRETO Nº 59.288, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Leopoldino Cardoso de Morais a pesquisar quartzo, turmalina - xisto no município de Mogi das Cruzes, Estado de São Paulo.

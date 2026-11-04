@@ -1,5 +1,3 @@
-###MPV-001922-0-000-05-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.922, DE 5 de OUTUBRO DE 1999.
 
 Cria o Fundo de Aval para a Geração de Emprego e Renda - FUNPROGER, altera o art. 11 da Lei nº 9.365, de 16 de dezembro de 1996, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070597-0-000-23-05-1972@@@
-
 DECRETO Nº 70.597, DE 23 DE MAIO DE 1972.
 
 Declara sem efeito o Decreto nº 33.496, de 5 de agosto de 1953.

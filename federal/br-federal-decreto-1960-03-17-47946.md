@@ -1,5 +1,3 @@
-###DEC-047946-0-000-17-03-1960@@@
-
 DECRETO Nº 47.946, DE 17 DE MARÇO DE 1960.
 
 Constitui Comissão para organizar o XV Congresso Postal Universal e dá outras providências.

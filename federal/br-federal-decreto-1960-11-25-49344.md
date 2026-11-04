@@ -1,5 +1,3 @@
-###DEC-049344-0-000-25-11-1960@@@
-
 DECRETO Nº 49.344, DE 25 DE NOVEMBRO DE 1960
 
 Dispõe sobre o quadro de pessoal do Hospital do Instituto de Aposentadoria e Pensões dos Bancários na cidade de Recife e dá outras providências.

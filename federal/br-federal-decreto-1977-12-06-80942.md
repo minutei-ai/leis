@@ -1,5 +1,3 @@
-###DEC-080942-0-000-06-12-1977@@@
-
 DECRETO Nº 80.942, DE 06 DE DEZEMBRO DE 1977.
 
 Concede a Walter Lo Sardo-Firma Individual o direito de lavrar água mineral no Município de Bragança Paulista, Estado de São Paulo.

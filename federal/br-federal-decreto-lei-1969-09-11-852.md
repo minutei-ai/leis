@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/13bc2f08-6759-4d4d-be2f-662426a21481/texto#nowhere)
 
-###DEL-000852-0-000-11-09-1969@@@
-
 DECreto-Lei Nº 852, DE 11 DE SetembrO DE 1969
 
 Retifica o Decreto-lei nº 564, de 1º de maio de 1969

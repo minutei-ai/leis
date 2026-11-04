@@ -1,5 +1,3 @@
-###DEC-093332-0-000-03-10-1986@@@
-
 DECRETO Nº 93.332, DE 3 DE OUTUBRO DE 1986
 
 Autoriza o BANCO DE LA REPÚBLICA ORIENTAL DEL URUGUAY a instalar uma filial na cidade de Porto Alegre (RS).

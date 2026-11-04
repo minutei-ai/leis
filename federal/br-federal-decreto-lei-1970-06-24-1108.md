@@ -1,5 +1,3 @@
-###DEL-001108-0-000-24-06-1970@@@
-
 # DECRETO-LEI nº 1.108, DE 24 JUNHO DE 1970
 
 Dispõe sobre a retribuição dos fiscais de Tributos do Açúcar e Álcool e dá outras providências.

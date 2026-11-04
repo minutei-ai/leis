@@ -1,5 +1,3 @@
-###DEC-053599-0-000-25-02-1964@@@
-
 DECRETO Nº 53.599, DE 25 DE FEVEREIRO DE 1964.
 
 Autoriza o cidadão brasileiro Roberto Gonçalves Guimarães a pesquisar feldspato no município de Rio Bonito, Estado do Rio de Janeiro.

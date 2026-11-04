@@ -1,5 +1,3 @@
-###DEC-045402-0-000-07-02-1959@@@
-
 decreto nº 45.402, de 7 de fevereiro de 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$10.000.000,00, para auxiliar as despesas com a conclusão e o aparelhamento do edifício da sede da Federação das Bandeirantes do Brasil.

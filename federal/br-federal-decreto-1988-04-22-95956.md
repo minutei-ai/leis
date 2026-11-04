@@ -1,5 +1,3 @@
-###DEC-095956-0-000-22-04-1988@@@
-
 DECRETO N° 95.956, DE 22 DE ABRIL DE 1988
 
 Regulamenta o art. 5° do Decreto-lei n° 2.375, de 24 de novembro de 1987, que autoriza a União a transferir, a título gratuito, a Estados ou Territórios, terras públicas a ela pertencentes.

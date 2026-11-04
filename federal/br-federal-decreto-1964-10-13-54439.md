@@ -1,5 +1,3 @@
-###DEC-054439-0-000-13-10-1964@@@
-
 decreto nº 54.439, de 13 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Mauro da Rocha Xavier a pesquisar quartzito, no município de Amparo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-082879-0-000-18-12-1978@@@
-
 DECRETO Nº 82.879, DE 18 DE SETEMBRO DE 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Porto Alegre, Estado do Rio Grande do Sul.

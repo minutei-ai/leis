@@ -1,5 +1,3 @@
-###DEC-068834-0-000-01-07-1971@@@
-
 DECRETO Nº 68.834, DE 1 DE JULHO DE 1971.
 
 Autorização para o funcionamento dos Cursos de Arquitetura, Desenho e Plástica, Direito, Economia e Administração das Faculdades Integradas Bennett (GB).

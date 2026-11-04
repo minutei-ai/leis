@@ -1,5 +1,3 @@
-###DEC-045884-0-000-27-04-1959@@@
-
 DECRETO Nº 45.884, DE 27 DE ABRIL DE 1959.
 
 Aprova o Regulamento da Diretoria de Material de Intendência (DMI).

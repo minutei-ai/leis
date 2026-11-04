@@ -1,5 +1,3 @@
-###DEC-076993-0-000-07-01-1976@@@
-
 decreto nº 76.993, de 7 de janeiro 1976.
 
 Autoriza o funcionamento do curso de Serviço Social da Faculdade de Serviço Social de Marília, com sede na cidade de Marília, Estado de São Paulo.

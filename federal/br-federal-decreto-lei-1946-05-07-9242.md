@@ -1,5 +1,3 @@
-###DEL-009242-0-000-07-05-1946@@@
-
 DECRETO-LEI N. 9.242 – DE 7 DE MAIO DE 1946
 
 Dispõe sôbre a transferência ao Estado de São Paulo do “Sanatório Miguel Pereira”, em Mandaqui, destinado a hospitalização de tuberculosos.

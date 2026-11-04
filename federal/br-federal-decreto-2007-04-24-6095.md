@@ -1,5 +1,3 @@
-###DEC-006095-0-000-24-04-2007@@@
-
 DECRETO Nº 6.095, DE 24 DE ABRIL DE 2007.
 
 Estabelece diretrizes para o processo de integração de instituições federais de educação tecnológica, para fins de constituição dos Institutos Federais de Educação, Ciência e Tecnologia - IFET, no âmbito da Rede Federal de Educação Tecnológica.
@@ -153,5 +151,3 @@ LUIZ INÁCIO LULA DA SILVA
 Fernando Haddad
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 25.4.2007

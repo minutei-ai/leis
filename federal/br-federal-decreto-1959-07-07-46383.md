@@ -1,5 +1,3 @@
-###DEC-046383-0-000-07-07-1959@@@
-
 DECRETO Nº 46.383, DE 7 DE JULHO DE 1959.
 
 Autoriza a execução de obras de saneamento na cidade de Natal, Capital do Rio Grande do Norte.

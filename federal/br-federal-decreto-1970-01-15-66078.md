@@ -1,5 +1,3 @@
-###DEC-066078-0-000-15-01-1970@@@
-
 DECRETO Nº 66.078 - DE 15 DE JANEIRO DE 1970
 
 Declara de utilidade pública a Sociedade ''Obras Sociais da Paróquia de Água Branca'', com sede em Água Branca, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEL-009082-0-000-21-03-1946@@@
-
 DECRETO-LEI N. 9.082 – DE 21 DE MARÇO DE 1946
 
 Destaca do credito extraordinário aberto pelo Decreto-lei nº 7.422-A, de 26-III-945, a importância de Cr$ 5.000.000,00.

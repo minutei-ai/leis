@@ -1,6 +1,10 @@
 > **LEI Nº 3.638, DE 02 DE JULHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, nas saídas de mercadorias, em decorrência de doações para assistência a vítimas de calamidade pública.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, nas saídas de mercadorias, em decorrência de doações para assistência a vítimas de calamidade pública.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -17,8 +21,6 @@
 **III** \- mantenha escrituração de suas receitas e despesas em livros revestidos de formalidades capazes de assegurar sua exatidão.
 
 **§ 2º** Não se exigirá o estorno do crédito relativo à entrada das mercadorias, ou dos respectivos insumos, objeto das saídas a que se refere este artigo.
-
-<br>
 
 **§ 3º** O disposto neste artigo aplica-se, também, às prestações de serviços de transporte daquelas mercadorias, cujas saídas são beneficiadas pela isenção de que trata o **caput** deste artigo.
 

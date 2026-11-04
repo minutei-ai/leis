@@ -1,40 +1,38 @@
-###DEC-026476-0-000-17-03-1949@@@
+**DECRETO N. 26.476 –**  **DE 17 DE MARÇO DE 1949**
 
-<strong>DECRETO N. 26.476 –</strong>  <strong>DE 17 DE MARÇO DE 1949</strong>
-
-<em><strong>Aprova o Regimento da Comissão do Vale do São Francisco.</strong></em>
+***Aprova o Regimento da Comissão do Vale do São Francisco.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no art. 18 da  Lei nº 541, de 15 de dezembro de 1948,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Comissão do Vale do São Francisco, que baixa com o presente Decreto.
+**Art**. 1º Fica aprovado o Regimento da Comissão do Vale do São Francisco, que baixa com o presente Decreto.
 
-<strong>Art</strong>. 2º O presente Decreto entra, em Vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entra, em Vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 17 de março de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Adroaldo Mesquita da Costa.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGIMENTO DA COMISSÃO DO VALE DO SÃO FRANCISCO</strong></span></span></h1>
+# **REGIMENTO DA COMISSÃO DO VALE DO SÃO FRANCISCO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art.</strong> 1º A Comissão do Vale do São Francisco, criada pela Lei nº 541, de 15 de dezembro de 1948, para atender ao disposto no artigo 29 do Ato das Disposições Constitucionais Transitórias, tem por finalidade:
+**Art.** 1º A Comissão do Vale do São Francisco, criada pela Lei nº 541, de 15 de dezembro de 1948, para atender ao disposto no artigo 29 do Ato das Disposições Constitucionais Transitórias, tem por finalidade:
 
 I – elaborar o plano geral destinado ao aproveitamento do Vale do São Francisco ;
 
 II – dar execução ao referido plano, diretamente ou por intermédio de outros órgãos administrativos do serviço público, depois de aprovado pelo Congresso Nacional.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art.</strong> 2º São atribuições da Comissão do Vale do São Francisco;
+**Art.** 2º São atribuições da Comissão do Vale do São Francisco;
 
 I – orientar e fiscalizar as entidades já existentes do Vale do São Francisco, com as mesmas finalidades da Comissão;
 
@@ -58,11 +56,11 @@ X – opinar, junto aos órgãos competentes, sôbre a concessão ou aproveitame
 
 XI – pesquisar e explorar diretamente ou por intermédio de outras entidades, os recursos minerais do Vale do São Francisco, ressalvadas as concessões existentes, opinando, junto aos órgãos competentes, sôbre aconcessão ou exploração de novas jazidas no mesmo Vale.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PLANO GERAL</em>
+*DO PLANO GERAL*
 
-<strong>Art</strong>. 3º O plano geral destinado ao aproveitamento do Vale do São Francisco, tendo em vista os objetivos nacionais, sociais e econômicos de que se reveste o empreendimento, será elaborado, visando :
+**Art**. 3º O plano geral destinado ao aproveitamento do Vale do São Francisco, tendo em vista os objetivos nacionais, sociais e econômicos de que se reveste o empreendimento, será elaborado, visando :
 
 I – a regularização do regime fluvial ;
 
@@ -104,31 +102,31 @@ XIX – o amparo à saúde e assistência às populações;
 
 XX – a defesa dos interêsses coletivos, inclusive pela desapropriação das áreas necessárias.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA AUTONOMIA</em>
+*DA AUTONOMIA*
 
-<strong>Art.</strong> 4º A Comissão do Vale do São Francisco diretamente subordinada ao Presidente da República, possui autonomia financeira e administrativa, devendo os atos a ela atinentes serem referendados pelos titulares dos Ministérios a que disserem respeito.
+**Art.** 4º A Comissão do Vale do São Francisco diretamente subordinada ao Presidente da República, possui autonomia financeira e administrativa, devendo os atos a ela atinentes serem referendados pelos titulares dos Ministérios a que disserem respeito.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA SEDE E FÔRO</em>
+*DA SEDE E FÔRO*
 
-<strong>Art.</strong> 5º A Comissão do Vale São Francisco tem a sua sede e fôro na Capital da República, enquanto atender aos objetivos da Lei nº 541, de 15 de dezembro de 1948.
+**Art.** 5º A Comissão do Vale São Francisco tem a sua sede e fôro na Capital da República, enquanto atender aos objetivos da Lei nº 541, de 15 de dezembro de 1948.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA DIRETORIA DA CONCESSÃO</em>
+*DA DIRETORIA DA CONCESSÃO*
 
-<strong>Art.</strong> 6º A Diretoria da Comissão do Vale do São Francisco é constituída de um Diretor-Superintendente e de dois Diretores, todos de livre nomeação e demissão do Presidente da República, secolhidos entre pessoas de recnohecida idoneidade técnica, moral e administrativa.
+**Art.** 6º A Diretoria da Comissão do Vale do São Francisco é constituída de um Diretor-Superintendente e de dois Diretores, todos de livre nomeação e demissão do Presidente da República, secolhidos entre pessoas de recnohecida idoneidade técnica, moral e administrativa.
 
-<strong>Art.</strong> 7º É vedado ao Diretor-Superintendente e aos Diretores Comissão do Vale do São Francisco:
+**Art.** 7º É vedado ao Diretor-Superintendente e aos Diretores Comissão do Vale do São Francisco:
 
 I – exercer qualquer outra função de caráter público;
 
 II – participar de interesses financeiros em companhia ou empresa organizada com objetivos idênticos aos da Comissão.
 
-<strong>Art.</strong> 8º A Diretoria da Comissão compete:
+**Art.** 8º A Diretoria da Comissão compete:
 
 I – elaborar o plano geral de aproveitamento do Vale do São Francisco a ser submetido pelo Presidente da República à aprovação do Congresso Nacional;
 
@@ -154,23 +152,23 @@ XI – decidir sôbre a reorganização ou divisão de qualquer órgão integran
 
 XII – decidir sôbre a realização de inquéritos regionais, destinados ao levantamento de informações indispensáveis aos trabalhos da Comissão.
 
-<strong>Art.</strong> 9º A Diretoria da Comissão reunir-se-á pelo menos uma vez por mês por convocação do Diretor-Superintendente, lavrando-se atas de seus trabalhos.
+**Art.** 9º A Diretoria da Comissão reunir-se-á pelo menos uma vez por mês por convocação do Diretor-Superintendente, lavrando-se atas de seus trabalhos.
 
-<strong>Art.</strong> 10. As reuniões da Diretoria da Comissão serão presididas pelo Diretor-Superintendente que designará um servidor administrativo da Comissão para secretariar as mesmas.
+**Art.** 10. As reuniões da Diretoria da Comissão serão presididas pelo Diretor-Superintendente que designará um servidor administrativo da Comissão para secretariar as mesmas.
 
-<strong>Art.</strong> 11. As decisões da Diretoria da Comissão serão tomadas por maioria de votos, denvendo ser articuladas em forma de resoluções.
+**Art.** 11. As decisões da Diretoria da Comissão serão tomadas por maioria de votos, denvendo ser articuladas em forma de resoluções.
 
-<strong>Art.</strong> 12. Participarão das reuniões da Diretoria da Comissão, sem direito a voto, os observadores designados pelos Governadores dos Estados de Minas Gerais, Bahia, Pernambuco, Alagoas e Sergipe, aos quais são assegurados, direitos amplos de informação e discussão sôbre as atividades da Comissão.
+**Art.** 12. Participarão das reuniões da Diretoria da Comissão, sem direito a voto, os observadores designados pelos Governadores dos Estados de Minas Gerais, Bahia, Pernambuco, Alagoas e Sergipe, aos quais são assegurados, direitos amplos de informação e discussão sôbre as atividades da Comissão.
 
-<strong>Art.</strong> 13. Poderão participar, também, das reuniões da Diretoria da Comissão, representantes de entidades cujos serviços tenham afinidade com os da Comissão, quando pèvia mente designados por solicitação do Diretor-Superintendente.
+**Art.** 13. Poderão participar, também, das reuniões da Diretoria da Comissão, representantes de entidades cujos serviços tenham afinidade com os da Comissão, quando pèvia mente designados por solicitação do Diretor-Superintendente.
 
-<strong>Art</strong>. 14. Os membros da Diretoria da Comissão poderão se fazer acompanhar, nas reuniões da mesma, de servidores seus subordinados, sempre que se tornar necessário qualquer esclarecimento sôbre determinado assunto.
+**Art**. 14. Os membros da Diretoria da Comissão poderão se fazer acompanhar, nas reuniões da mesma, de servidores seus subordinados, sempre que se tornar necessário qualquer esclarecimento sôbre determinado assunto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 15. A Comissão do Vale do São Francisco compõe-se:
+**Art**. 15. A Comissão do Vale do São Francisco compõe-se:
 
 I – da Superintendência:
 
@@ -178,15 +176,15 @@ II – da Diretoria de Planos e Obras;
 
 III – da Diretoria de Produção e Assistência.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DA COMPOSIÇÃO E COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPOSIÇÃO E COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Superintendência</em>
+*Da Superintendência*
 
-<strong>Art</strong>. 16. – A Superintendência, além do Gabinete do Diretor-Superintendente, compreende:
+**Art**. 16. – A Superintendência, além do Gabinete do Diretor-Superintendente, compreende:
 
 I – a Consultoria Jurídica ;
 
@@ -200,7 +198,7 @@ V – a Seção Financeira;
 
 VI – a Seção de Documentação.
 
-<strong>Art.</strong> 17. – À Consultória Jurídica compete:
+**Art.** 17. – À Consultória Jurídica compete:
 
 I – estudar e dar parecer sôbre interpretação de textos legais e outros assuntos jurídicos;
 
@@ -216,7 +214,7 @@ V – opinar, tendo em vista as leis e regulamentos em vigor, sôbre qualquer as
 
 VII – manter sempre atualizado o ementário da legislação e jurisprudência referente à administrção em geral.
 
-<strong>Art</strong>. 18. – A Secretaria compete:
+**Art**. 18. – A Secretaria compete:
 
 I – receber, registrar, distribuir, expedir e guardar a correspondência oficial e os papéis relativos às atividades da Comissão, controlando o respectivo andamento;
 
@@ -228,7 +226,7 @@ IV – passar certidões referentes às atividades da comissão, quando autoriza
 
 V – superintender os trabalhos da portaria,  no que se refere à abertura e fechamento da repartição, bem como à vigilância interna, segurança conservação e asseio da mesma e do material em uso.
 
-<strong>Art.</strong> 19. – À Seção do Pessoal compete:
+**Art.** 19. – À Seção do Pessoal compete:
 
 I – encaminhar è Superintendência, devidamente instruídos, os processos referentes ao pessoal;
 
@@ -244,7 +242,7 @@ VI – coligir e fornecer à Seção Financeira os elementos necessários à pro
 
 VII – executar todo e qualquer serviço, relativo ao pessoal, que lhe fôr determinado pela Superintendência.
 
-<strong>Art</strong>. 20. À – Seção do Material compete:
+**Art**. 20. À – Seção do Material compete:
 
 I – organizar o registro dos bens da Comissão anotando o valor, depreciação e valorização de cada um, de acôrdo, com a legislação vigente;
 
@@ -278,7 +276,7 @@ XV – coligir e fornecer à Seção Financeira os elementos necessários ao pre
 
 XVI – executar todo e qualquer serviço, relativo ao material, que lhe seja atribuído pela Superintendência.
 
-<strong>Art</strong>. 21. – À Seção Financeira compete :
+**Art**. 21. – À Seção Financeira compete :
 
 I – manter em dia a escrituração das dotações, orçamentárias ou não, que forem distribuídas à Comissão;
 
@@ -302,7 +300,7 @@ XI – providenciar para que sejam pela Comissão desempenhados todos os encargo
 
 XII – organizar as propostas orçamentárias da Comissão, tomando por base os seus programas de trabalhos e os estudos parciais, quanto ao pessoal e ao material realizados pelas seções competentes.
 
-<strong>Art</strong>. 22. – À Seção de Documentação compete:
+**Art**. 22. – À Seção de Documentação compete:
 
 I – organizar e manter coleções de publicações nacionais e estrangeiras, sôbre assuntos relacionados com as atividades da Comissão;
 
@@ -316,11 +314,11 @@ V – promover a publicação e o conhecimento entre o público dos documentári
 
 VI – desempenhar todo serviço que lhe fôr determinado pela Superintendência, relativo às suas atividades;
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Diretoria de Planos e Obras</em>
+*Da Diretoria de Planos e Obras*
 
-<strong>Art.</strong> 23. – À Diretoria de Planos e Obras, em ação direta ou em cooperação com outras entidades, compete:
+**Art.** 23. – À Diretoria de Planos e Obras, em ação direta ou em cooperação com outras entidades, compete:
 
 I – preparar elementos para a elaboração do plano geral de aproveitamentos do Vale do São Francisco;
 
@@ -330,7 +328,7 @@ III – construir e conservar as referidas obras, quando a sua construção ou c
 
 IV – promover o desenvolvimento industrial do Vale do São Francisco, no sentido de dar aplicação e finalidades econômica aos empreendimentos que forem realizados.
 
-<strong>Art</strong>. 24. A Diretoria de Planos e Obras compreende:
+**Art**. 24. A Diretoria de Planos e Obras compreende:
 
 I – a Divisão de Estudos e Projetos;
 
@@ -340,7 +338,7 @@ III – a Divisão de Fomento Industrial;
 
 IV – 5 Distritos de Estudos e Obras.
 
-<strong>Art.</strong> 25. – À Divisão de Estudos e Projetos compete:
+**Art.** 25. – À Divisão de Estudos e Projetos compete:
 
 I – estudar, projetar, especificar e orçar as obras constantes dos programas que lhe forem cometidos ;
 
@@ -364,7 +362,7 @@ X – elaborar instruções técnicas para concorrências de obras;
 
 XI – examinar e dar parecer sôbre todo projeto de obra que for elaborados por outra qualquer entidade pública  ou particular e que lhe seja cometido.
 
-<strong>Art</strong>. 26. A Divisão de Construção e Conservação compete;
+**Art**. 26. A Divisão de Construção e Conservação compete;
 
 I – construir diretamente ou fiscalizar a contrução das obras que lhe forem cometidas;
 
@@ -388,7 +386,7 @@ X – manter-se em dia com o andamento dos serviços de conservação de tôdas 
 
 XI – dar parecer sôbre os problemas relativos as providências que julgue necessárias ao aperfeiçoamento dos serviços de conservação das mesmas.
 
-<strong>Art.</strong> 27. – À Divisão de Fomento Industrial compete:
+**Art.** 27. – À Divisão de Fomento Industrial compete:
 
 I – estudar as possibilidades de desenvolvimento industrial do Vale do São Francisco, no serviço de dar aplicação e finalidade econômica aos novos empreendimentos que foram realizados :
 
@@ -410,7 +408,7 @@ IX – estudar e opinar sôbre todos os assuntos pertinentes a econominas dos tr
 
 X – controlar o fornecimento e o preço da energia às diferentes atividades quando produzida nas fontes da região, fiscalizando as emprêsas concessionárias quando as mesmas forem financiads, no todo ou em parte, com dotações oriundas do art. 29 do Ato das Disposições Constitucionais Transitórias.
 
-<strong>Art.</strong> 28. Ao Distrito de Estudos e Obras e compete:
+**Art.** 28. Ao Distrito de Estudos e Obras e compete:
 
 I – executar todos os estudos e elaborar nos projetos das obras que lhe forem cometidas;
 
@@ -452,9 +450,9 @@ XIX – intervir, de acôrdo com a lei, na execução de obras e instalações i
 
 XX – executar todos os trabalhos que dentro das atribuições da Comissão, lhes sejam determinados pelo Doretor da Diretoria de Planos e Obras ou recomendadas pelo Diretor-superintendente.
 
-<strong>Art.</strong> 29. Os Distritos de Estudos e Obras são destinados a realizar estudos, executar ou fiscalizar obras e serviços que, por conveniência da administração devem ficar subordinados à próprìa Diretoria de Planos e Obras.
+**Art.** 29. Os Distritos de Estudos e Obras são destinados a realizar estudos, executar ou fiscalizar obras e serviços que, por conveniência da administração devem ficar subordinados à próprìa Diretoria de Planos e Obras.
 
-<strong>Art.</strong> 30. Os Distritos de Estudos e Obras têm as seguintes denominações,  sedes e jurisdições;
+**Art.** 30. Os Distritos de Estudos e Obras têm as seguintes denominações,  sedes e jurisdições;
 
 I – 1º Distrito com sede na cidade de Belo Horizonte, Capital do Estado de Minas Gerais e jurisdição sôbre tôda a bacia do Alto São Francisco e de seus afluentes;
 
@@ -466,19 +464,19 @@ IV – 4º Distrito, com sede na cidade de Juazeiro, Estado da Bahia e jurisdiç
 
 V – 5º Distrito, com sede na cidade de Propná, estado de Sergipe e jurisdição sôbre tôda a bacia do Baixo São Francisco e de seus afluentes.
 
-<strong>Art</strong>. 31. Cada Distrito de Estudos e Obras, além do escritório do respectivo chefe, poderá ser dividido em seções administrativas e técnicas, conforme as necessidades do serviço a serem criados por portaria do Diretor Superintendente da Comissão.
+**Art**. 31. Cada Distrito de Estudos e Obras, além do escritório do respectivo chefe, poderá ser dividido em seções administrativas e técnicas, conforme as necessidades do serviço a serem criados por portaria do Diretor Superintendente da Comissão.
 
-<strong>Art</strong>. 32. As seções referidas no artigo anterior terão a seu cargo a execução dos trabalhos técnicos e administrativos que forem conferidos aos respectivos Distritos, devendo sua organização obedecer, tanto quanto possível, à especialização de funções.
+**Art**. 32. As seções referidas no artigo anterior terão a seu cargo a execução dos trabalhos técnicos e administrativos que forem conferidos aos respectivos Distritos, devendo sua organização obedecer, tanto quanto possível, à especialização de funções.
 
-<strong>Art</strong>. 33. Ainda, por conveniência do serviço, poderá o Diretor-Superintedente da Comissão criar Residências, diretamente subordinadas aos Distritos e extinguí-las quando não mais necessárias.
+**Art**. 33. Ainda, por conveniência do serviço, poderá o Diretor-Superintedente da Comissão criar Residências, diretamente subordinadas aos Distritos e extinguí-las quando não mais necessárias.
 
-<strong>Art</strong>. 34. As Residências referidas no artigo anterior terão sede e fins definidos em cada caso especial, e serão destinadas a executar estudos, obras e serviços outros cujo vulto e duração não justifiquem a criação de um Distrito.
+**Art**. 34. As Residências referidas no artigo anterior terão sede e fins definidos em cada caso especial, e serão destinadas a executar estudos, obras e serviços outros cujo vulto e duração não justifiquem a criação de um Distrito.
 
-     <strong>SEÇÃO III</strong>
+     **SEÇÃO III**
 
-<em>Das Diretoria de Produção e Assistência</em>
+*Das Diretoria de Produção e Assistência*
 
-<strong>Art.</strong> 35. A Diretoria, de Produção e Assistência, em ação direta, ou em cooperação com outras entidades, compete:
+**Art.** 35. A Diretoria, de Produção e Assistência, em ação direta, ou em cooperação com outras entidades, compete:
 
 I – preparar elementos para, a elaboração do plano geral de aproveitamento do Vale do São Francisco;
 
@@ -498,7 +496,7 @@ VIII – promover o melhor ajustamento do homem – sob todos os aspectos e moda
 
 IX – estudar as condições sanitárias locais de seus habitantes, e a aplicação dos meios adequados ao seu melhoramento.
 
-<strong>Art.</strong> 36. A Diretoria de Produção e Assistência compreende:
+**Art.** 36. A Diretoria de Produção e Assistência compreende:
 
 I – a Divisão de Terras e Colonização;
 
@@ -508,7 +506,7 @@ III – a Divisão de Educação e Saúde;
 
 IV – 5 Distrito de Produção e Assistência
 
-<strong>Art.</strong> 37. À Divisão de Terras e Colonização compete:
+**Art.** 37. À Divisão de Terras e Colonização compete:
 
 I – orientar a formação racional das comunidades regionais:
 
@@ -536,7 +534,7 @@ XII – estudar as condições climatica e os meios disponíveis para a correç�
 
 XIII – assistir e controlar a utilização das águas de irrigação, provenientes da obras realizadas pela Comissão ou por outras entidades.
 
-<strong>Art.</strong> 38. À Divisão de Fomento Agrícola compete:
+**Art.** 38. À Divisão de Fomento Agrícola compete:
 
 I – estudar e difundir práticas racionais de produção vegetal e de produção animal, em tôdas as suas modalidades;
 
@@ -572,7 +570,7 @@ XVI – promover a assistência a produção pelo crédito e cooperativismo esti
 
 XVII – estimular e assistir a organização de assiciações de classe.
 
-<strong>Art</strong>. 39. A Divisão de Educação e Saúde compete:
+**Art**. 39. A Divisão de Educação e Saúde compete:
 
 I – fazer estudos e pesquisas sôbre a educação e saúde, aplicados aos interêsses da região;
 
@@ -598,7 +596,7 @@ XI – dar assistência, in-loco, à família rural, por meio de visitadoras soc
 
 XII – ajudar a organização da vida doméstica em bases higiênicas e econômicas.
 
-<strong>Art.</strong> Aos Distritos de Produção e Assistência compete:
+**Art.** Aos Distritos de Produção e Assistência compete:
 
 I – estudar e pesquisar todos os assuntos que lhes forem cometidos;
 
@@ -640,9 +638,9 @@ XIX – zelar pela fiel observância das disposições dêste Regulamento, embar
 
 XX – executar todos os trabalhos que dentro das atribuições da Comissão lhes sejam determinados pelo Diretor da Diretoria de Produção e Assistência ou recomendados pelo Diretor-Superintendente da Comissão.
 
-<strong>Art</strong>. 41. – Os Distritos de Produção e Assistência são destinados a realizar estudos, executar ou fiscalizar serviços que, por conveniência da administração, devem ficar subordinados à própria Diretoria de Produção e Assistência.
+**Art**. 41. – Os Distritos de Produção e Assistência são destinados a realizar estudos, executar ou fiscalizar serviços que, por conveniência da administração, devem ficar subordinados à própria Diretoria de Produção e Assistência.
 
-<strong>Art</strong>. 42. – Os Distritos de Produção e Assistência têm as seguintes denominações, sedes e jurisdições:
+**Art**. 42. – Os Distritos de Produção e Assistência têm as seguintes denominações, sedes e jurisdições:
 
 I – 1º Distrito, com sede na cidade de Januária, Estado de Minas Gerais e jurisdição sôbre tôda a bacia do Alto São Francisco e de seus afluentes, bem como sôbre tôda a bacia mineira do Médio São Francisco e de seus afluentes;
 
@@ -654,29 +652,29 @@ IV – 4º Distrito, com sede na cidade de Petrolândia, Estado de Pernambuco e 
 
 V – 5º Distrito, como sede na cidade de Penedo, Estado de Alagoas e jurisdição sôbre tôda a bacia do Baixo São Francisco e de seus afluentes.
 
-<strong>Art</strong>. 43. – Cada Distrito de Produção e Assistência, além do escritório do respectivo chefe, poderá ser dividido em seções administrativas e técnicas, conforme as necessidades do serviço, a serm criadas por portaria do Diretor-Superintendente da Comissão.
+**Art**. 43. – Cada Distrito de Produção e Assistência, além do escritório do respectivo chefe, poderá ser dividido em seções administrativas e técnicas, conforme as necessidades do serviço, a serm criadas por portaria do Diretor-Superintendente da Comissão.
 
-<strong>Art</strong>. 44. – As seções referidas no artigo anterior terão a seu cargo a execução dos trabalhos técnicos e administrativos que forem conferidos aos respectivos Distritos, devendo sua organização obedecer, tanto quanto possível, à especialização de funções.
+**Art**. 44. – As seções referidas no artigo anterior terão a seu cargo a execução dos trabalhos técnicos e administrativos que forem conferidos aos respectivos Distritos, devendo sua organização obedecer, tanto quanto possível, à especialização de funções.
 
-<strong>Art</strong>. 45. – Ainda, por conveniência do serviço, poderá o Diretor-Superintendente da Comissão criar Residências, diretamente subordinadas aos respectivos Distritos e extingui-las quando não mais necessárias.
+**Art**. 45. – Ainda, por conveniência do serviço, poderá o Diretor-Superintendente da Comissão criar Residências, diretamente subordinadas aos respectivos Distritos e extingui-las quando não mais necessárias.
 
-<strong>Art</strong>. 46. – As Residências referidas no artigo anterior, terão sede e fins definidos em cada caso especial, e serão destinadas a executar estudos, obras e serviços outros cujo vulto e duração não justifiquem a criação de um Distrito.
+**Art**. 46. – As Residências referidas no artigo anterior, terão sede e fins definidos em cada caso especial, e serão destinadas a executar estudos, obras e serviços outros cujo vulto e duração não justifiquem a criação de um Distrito.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DO PESSOAL E SUAS ATRIBUIÇÕES</em>
+*DO PESSOAL E SUAS ATRIBUIÇÕES*
 
-<strong>Art.</strong> 47. Os serviços a cargo da Comissão do Vale do São Francisco serãoexecutados pelos ocupantes dos cargos em comissão contratados mensalistas, diaristas e pessoal de obras, adminitos na forma da legislação em vigor, além dos servidores legalmente requisitados.
+**Art.** 47. Os serviços a cargo da Comissão do Vale do São Francisco serãoexecutados pelos ocupantes dos cargos em comissão contratados mensalistas, diaristas e pessoal de obras, adminitos na forma da legislação em vigor, além dos servidores legalmente requisitados.
 
-<strong>Art.</strong> 48. – O quadro do pessoal da Comissão do Vale do São Francisco será fixado em lei anual e de livre nomeação e demissão do Presidente da República.
+**Art.** 48. – O quadro do pessoal da Comissão do Vale do São Francisco será fixado em lei anual e de livre nomeação e demissão do Presidente da República.
 
-<strong>Art.</strong> 49. As tabelas numéricas de mensalistas e diaristas da Comissão do Vale do São Francisco serão aprovadas pelo Presidente da República.
+**Art.** 49. As tabelas numéricas de mensalistas e diaristas da Comissão do Vale do São Francisco serão aprovadas pelo Presidente da República.
 
-<strong>Art.</strong> 50. Serão aproveitados nos trabalhos da Comissão os servidores em disponibilidade e os que forem dispensáveis, existentes em repartições federais, observadas as respectivas aptidões.
+**Art.** 50. Serão aproveitados nos trabalhos da Comissão os servidores em disponibilidade e os que forem dispensáveis, existentes em repartições federais, observadas as respectivas aptidões.
 
-<strong>Art</strong>. 51. As tabelas de salários serão fixadas de modo que sejam observadas as condições de cada região a fim de atenuar, quando possível, às perturbações oriundas da mudança de atividade das populações locais.
+**Art**. 51. As tabelas de salários serão fixadas de modo que sejam observadas as condições de cada região a fim de atenuar, quando possível, às perturbações oriundas da mudança de atividade das populações locais.
 
-<strong>Art</strong>. 52. Ao Diretor-Superintendente incumbe:
+**Art**. 52. Ao Diretor-Superintendente incumbe:
 
 I – convocar a presidir as reuniões da Diretoria da Comissão:
 
@@ -734,7 +732,7 @@ XXVII – estabelecer as bases para as desapropriações por acôrdo;
 
 XXVIII – exercer tôdas as demais atividades, não expressamente previstas neste Regimento, que lhe couberem em virtude da legislação em vigor ou que forem necessárias à plena realização dos objetivos da Comissão.
 
-<strong>Art.</strong> 53. Aos Diretores das Diretorias compete:
+**Art.** 53. Aos Diretores das Diretorias compete:
 
 I – tomar parte nas reuniões da Diretoria da Comissão;
 
@@ -760,7 +758,7 @@ XI – inspecionar os trabalhos dos órgãos das Diretorias;
 
 XII – exercer tôdas as demais atividades não expessamente previstas neste Regimento e que lhe couberem em virtude de legislação em vigor ou forem necessárias á plena realização da atribuições afetas aos órgãos sob sua direção.
 
-<strong>Art.</strong> 54. Ao Consultor Jurídico compete:
+**Art.** 54. Ao Consultor Jurídico compete:
 
 I – acompanhar, junto ao Judiciário as ações ou processos em que a Comissão seja parte ou tenha interêsse;
 
@@ -768,7 +766,7 @@ II – estudar, opinar, ou informar todos os assuntos, de caráter jurídico, qu
 
 III – dar assistência jurídica aos trabalhos da Comissão.
 
-<strong>Art.</strong> 55. Aos Chefes de Divisão compete:
+**Art.** 55. Aos Chefes de Divisão compete:
 
 I – dirigir a fiscalizar os trabalhos das Divisões;
 
@@ -790,7 +788,7 @@ IX – exercer quaisquer atribuições que lhes forem determinadas pelos Diretor
 
 X – contribuir para as publicações da Comissão com trabalhos que expressem os resultados de suas atividades.
 
-<strong>Art.</strong> 56. Ao Secretário compete:
+**Art.** 56. Ao Secretário compete:
 
 I – dirigir os serviços da Secretaria e superintender os trabalhos da portaria;
 
@@ -804,7 +802,7 @@ V – propor ao Diretor-Superintendente as providências necessárias à boa mar
 
 VI – passar certidões e executar todos os serviços que lhe forem determinados pela Superintendência, nos limites dêse Regimento.
 
-<strong>Art.</strong> 57 Aos Chefes de Distritos compete:
+**Art.** 57 Aos Chefes de Distritos compete:
 
 I –  exercer, de um modo geral, funções de direção, fiscalização e contrôle, nos limites de suas jurisdições e em relação aos serviços que lhes forem cometidos;
 
@@ -846,7 +844,7 @@ XVIII – exercer os encargos que lhes forem cometidos por delegação do Direto
 
 XIX – representar os Distritos dentro dos limites de suas atribuições em suas relações externas;
 
-<strong>Art</strong>. 58. Aos Chefes de Seção Compete:
+**Art**. 58. Aos Chefes de Seção Compete:
 
 I – dirigir e fiscalizar os trabalhos do respectivo setor;
 
@@ -870,23 +868,23 @@ X – representar aos seus superiores imediatos sôbre qualquer anormalidades
 
 que se verificar nos seus serviços a seu cargo.
 
-<strong>Art.</strong> 59. Aos demais servidores funções especificadas neste Regime, sem  funções especificadas neste Regimento compete exeutar os trabalhos que lhes forem determinados pelos seus superiores ìmediatos.
+**Art.** 59. Aos demais servidores funções especificadas neste Regime, sem  funções especificadas neste Regimento compete exeutar os trabalhos que lhes forem determinados pelos seus superiores ìmediatos.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 60. O horário normal de trabalho da Comissão  do Vale do São Francisco será fixado pe1o Diretor Superintendente observado o número de horas semanais estabelecido para o serviço público civil. de horas semanais ou mensais estabelecido para o serviço público cívil.
+**Art**. 60. O horário normal de trabalho da Comissão  do Vale do São Francisco será fixado pe1o Diretor Superintendente observado o número de horas semanais estabelecido para o serviço público civil. de horas semanais ou mensais estabelecido para o serviço público cívil.
 
-<strong>Art</strong>. 61. A frequência do pessoal em serviço fora da sede da Comissão será produção, controlados pelo superior  imediato.
+**Art**. 61. A frequência do pessoal em serviço fora da sede da Comissão será produção, controlados pelo superior  imediato.
 
-<strong>Art.</strong> 62. O Diretor-Superintenden-te, os Diretores, o Consulor Jurídico, os Chefes de Divisão, o Secretário. Os Chefes de Distritos e os Chefes de seção não ficam sujeitos a ponto, de venda, porém, tanto quanto possível observar o horário fixado.
+**Art.** 62. O Diretor-Superintenden-te, os Diretores, o Consulor Jurídico, os Chefes de Divisão, o Secretário. Os Chefes de Distritos e os Chefes de seção não ficam sujeitos a ponto, de venda, porém, tanto quanto possível observar o horário fixado.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DAS SUBSTlTUIÇÕES</em>
+*DAS SUBSTlTUIÇÕES*
 
-<strong>Art</strong>.63 serão substituídos, automaticamente eventuais até 30 dias:
+**Art**.63 serão substituídos, automaticamente eventuais até 30 dias:
 
 I – O Diretor-Superintende por  um dos Diretores de sua indicação designado pelo Presidente da República;
 
@@ -894,82 +892,82 @@ II – os Diretores por urn dos Chefes da Divisão, designados pelo Diretor-Supe
 
 III – os Chefes de Divisão e de Distritos por servidores indicados pelos Diretores respectivos  e designados pelo Diretor-Superintendente,
 
-<strong>Art.</strong> 64. Para ns demais servidores com funções expressamente consignadas neste Regimento serão designado., peIo Diretor–Superintendente os respectivos substitutos, mediante indicação dos superiores imediatos desses servidores.
+**Art.** 64. Para ns demais servidores com funções expressamente consignadas neste Regimento serão designado., peIo Diretor–Superintendente os respectivos substitutos, mediante indicação dos superiores imediatos desses servidores.
 
 Parágrafo único. Haverá sempre servidores designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DOS PROGRAMAS DE TRABALHOS</em>
+*DOS PROGRAMAS DE TRABALHOS*
 
-<strong>Art</strong>. 65. Enquanto não fôr aprovado, pelo Congresso Nacional, o plano geral de aproveitamento do Vale do São Francisco, a Comissão proporá ao Presidente da República, para aprovação, os programas anuais de trabalho que serão executados pelos órgãos administrativos federais, para o que será autorizado, em cada caso, o destaque das verbas correspondentes.
+**Art**. 65. Enquanto não fôr aprovado, pelo Congresso Nacional, o plano geral de aproveitamento do Vale do São Francisco, a Comissão proporá ao Presidente da República, para aprovação, os programas anuais de trabalho que serão executados pelos órgãos administrativos federais, para o que será autorizado, em cada caso, o destaque das verbas correspondentes.
 
-<strong>Art</strong>. 66. Os programas anuais de trabalhos, referidos no artigo anterior no artigo anteiror, serão elaborados visando a conclusão pelos órgãos do serviço público, tendo em vista as distribuições de créditos já feitas nas leis orçamentárias respectivas,
+**Art**. 66. Os programas anuais de trabalhos, referidos no artigo anterior no artigo anteiror, serão elaborados visando a conclusão pelos órgãos do serviço público, tendo em vista as distribuições de créditos já feitas nas leis orçamentárias respectivas,
 
-<strong>Art</strong>. 67. Tendo em vista as necessidades do trabalho, a Comissão poderá incluir vos programas anuais de trabalhos, a execucão de novos estudo. observações e serviços que sejam julgados imprescindiveis, bem como alterar a execução de outros em andamento, mediante autorização do Presidente da República.
+**Art**. 67. Tendo em vista as necessidades do trabalho, a Comissão poderá incluir vos programas anuais de trabalhos, a execucão de novos estudo. observações e serviços que sejam julgados imprescindiveis, bem como alterar a execução de outros em andamento, mediante autorização do Presidente da República.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>DAS DOTAÇÕES</em>
+*DAS DOTAÇÕES*
 
-<strong>Art</strong>. 88. As importâncias das dotações e dos créditos adicionais, destinados ao Vale do São Francisco, serão depositadas no Baneo do Brasil, para ulterior requisição, pela Comissão, quando autorizada pelo Presidente da República, para as entidades públicas que forem encarregadas da execução dos serviços coustantes dos programas de trabalhos.
+**Art**. 88. As importâncias das dotações e dos créditos adicionais, destinados ao Vale do São Francisco, serão depositadas no Baneo do Brasil, para ulterior requisição, pela Comissão, quando autorizada pelo Presidente da República, para as entidades públicas que forem encarregadas da execução dos serviços coustantes dos programas de trabalhos.
 
-<strong>Art</strong>. 60. As entidades públicas referidas no artigo anterior solicitarão à Comissão por intermédio da autoridade competente as dotações que lhes tenham sido atribuídas, para a execução dos  serviços constantes dos respectivos programas de trabalhos.
+**Art**. 60. As entidades públicas referidas no artigo anterior solicitarão à Comissão por intermédio da autoridade competente as dotações que lhes tenham sido atribuídas, para a execução dos  serviços constantes dos respectivos programas de trabalhos.
 
-<strong>Art</strong>. 70. Tôdas as dotações orçamentomentárìas ou não, destinadas ao Vale do São Francisco. independerão de recação dos superiores imediatos desses servidores.
+**Art**. 70. Tôdas as dotações orçamentomentárìas ou não, destinadas ao Vale do São Francisco. independerão de recação dos superiores imediatos desses servidores.
 
 Parágrafo único. Haverá sempre servidores designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DOS PROGRAMAS DE TRABALHOS</em>
+*DOS PROGRAMAS DE TRABALHOS*
 
-<strong>Art</strong>. 65. Enquanto não fôr aprovado, pelo Congresso Nacional, o plano geral de aproveitamento do Vale do São Francisco, a Comissão proporá ao Presidente da República, para aprovação, os programas anuais de trabalho que serão executados pelos órgãos administrativos federais, para o que será autorizado, em cada caso, o destaque das verbas correspondentes.
+**Art**. 65. Enquanto não fôr aprovado, pelo Congresso Nacional, o plano geral de aproveitamento do Vale do São Francisco, a Comissão proporá ao Presidente da República, para aprovação, os programas anuais de trabalho que serão executados pelos órgãos administrativos federais, para o que será autorizado, em cada caso, o destaque das verbas correspondentes.
 
-<strong>Art</strong>. 66. Os programas anuais de trabalhos, referidos no artigo anterior no artigo anteiror, serão elaborados visando a conclusão pelos órgãos do serviço público, tendo em vista as distribuições de créditos já feitas nas leis orçamentárias respectivas,
+**Art**. 66. Os programas anuais de trabalhos, referidos no artigo anterior no artigo anteiror, serão elaborados visando a conclusão pelos órgãos do serviço público, tendo em vista as distribuições de créditos já feitas nas leis orçamentárias respectivas,
 
-<strong>Art</strong>. 67. Tendo em vista as necessidades do trabalho, a Comissão poderá incluir vos programas anuais de trabalhos, a execucão de novos estudo. observações e serviços que sejam julgados imprescindiveis, bem como alterar a execução de outros em andamento, mediante autorização do Presidente da República.
+**Art**. 67. Tendo em vista as necessidades do trabalho, a Comissão poderá incluir vos programas anuais de trabalhos, a execucão de novos estudo. observações e serviços que sejam julgados imprescindiveis, bem como alterar a execução de outros em andamento, mediante autorização do Presidente da República.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>DAS DOTAÇÕES</em>
+*DAS DOTAÇÕES*
 
-<strong>Art</strong>. 88. As importâncias das dotações e dos créditos adicionais, destinados ao Vale do São Francisco, serão depositadas no Baneo do Brasil, para ulterior requisição, pela Comissão, quando autorizada pelo Presidente da República, para as entidades públicas que forem encarregadas da execução dos serviços coustantes dos programas de trabalhos.
+**Art**. 88. As importâncias das dotações e dos créditos adicionais, destinados ao Vale do São Francisco, serão depositadas no Baneo do Brasil, para ulterior requisição, pela Comissão, quando autorizada pelo Presidente da República, para as entidades públicas que forem encarregadas da execução dos serviços coustantes dos programas de trabalhos.
 
-<strong>Art</strong>. 60. As entidades públicas referidas no artigo anterior solicitarão à Comissão por intermédio da autoridade competente as dotações que lhes tenham sido atribuídas, para a execução dos  serviços constantes dos respectivos programas de trabalhos.
+**Art**. 60. As entidades públicas referidas no artigo anterior solicitarão à Comissão por intermédio da autoridade competente as dotações que lhes tenham sido atribuídas, para a execução dos  serviços constantes dos respectivos programas de trabalhos.
 
-<strong>Art</strong>. 70. Tôdas as dotações orçamentomentárìas ou não, destinadas ao Vale do São Francisco. independerão de registro no Tribunal de Contas, para serem distribuídas.
+**Art**. 70. Tôdas as dotações orçamentomentárìas ou não, destinadas ao Vale do São Francisco. independerão de registro no Tribunal de Contas, para serem distribuídas.
 
-<strong>Art</strong>. 71. As importâncias correspondentes às dotações referidas no artigo anterior, logo sancionadas as respectivas leis, serão depositadas pelo Ministério da Fazenda, no Banco do Brasil, em conta especial de entidades públicas, sob o título – “Comissão do Vale do São Francisco” – a ser movimentada pelo Diretor-Superintendente da Comissão, quando autorizado pelo Presidente da  República.
+**Art**. 71. As importâncias correspondentes às dotações referidas no artigo anterior, logo sancionadas as respectivas leis, serão depositadas pelo Ministério da Fazenda, no Banco do Brasil, em conta especial de entidades públicas, sob o título – “Comissão do Vale do São Francisco” – a ser movimentada pelo Diretor-Superintendente da Comissão, quando autorizado pelo Presidente da  República.
 
-<strong>Art</strong>. 72. Determinando o artigo 29 do  Ato das Disposições Constitucionais Transitórias a obrigatariedade da União em aplicar, no Vale do São  Francisco, durante 20 anos, quantia não inferior a 1ª de sua receita tributária, as dotações ou parcelas cotações anuais que não forem utilizadas no correr do respectivo exercicio serão solicitadas no "exercício seguinte, em créditos especiais, para  serem integralmente aplicadas.
+**Art**. 72. Determinando o artigo 29 do  Ato das Disposições Constitucionais Transitórias a obrigatariedade da União em aplicar, no Vale do São  Francisco, durante 20 anos, quantia não inferior a 1ª de sua receita tributária, as dotações ou parcelas cotações anuais que não forem utilizadas no correr do respectivo exercicio serão solicitadas no "exercício seguinte, em créditos especiais, para  serem integralmente aplicadas.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>DAS PRESTAÇÕES DE CONTAS</em>
+*DAS PRESTAÇÕES DE CONTAS*
 
-<strong>Art.</strong> 73. O diretor-Superintendente da Comissão encaminhará. anualmente, ao Presidente da República, prestação de contas da Comissão, devidamente pormeno-izada e julgada pelo Tribunal de Contas, para se enviada ao Congresso Nacional, como as contas da administração federal relativas ao exercício anterior,
+**Art.** 73. O diretor-Superintendente da Comissão encaminhará. anualmente, ao Presidente da República, prestação de contas da Comissão, devidamente pormeno-izada e julgada pelo Tribunal de Contas, para se enviada ao Congresso Nacional, como as contas da administração federal relativas ao exercício anterior,
 
-<strong>CAPÍTULO XV</strong>
+**CAPÍTULO XV**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 74. Os casos omissos ou duvidosos que surgirem na aplicação dêste Regimento, serão resolvidos pela Diretoria da Comissão.
+**Art**. 74. Os casos omissos ou duvidosos que surgirem na aplicação dêste Regimento, serão resolvidos pela Diretoria da Comissão.
 
-<strong>Art</strong>. 75. O andamento dos processesos órgão da comissão órgãos da Comissão obedecerão a instruções internas, que serão aprovadas pelo Diretor-Superintendente
+**Art**. 75. O andamento dos processesos órgão da comissão órgãos da Comissão obedecerão a instruções internas, que serão aprovadas pelo Diretor-Superintendente
 
-<strong>Art</strong>. 76 A designação dos servidores para os diferentes serviços obedecerá pelo Diretor-Superitendente.
+**Art**. 76 A designação dos servidores para os diferentes serviços obedecerá pelo Diretor-Superitendente.
 
-<strong>Art</strong>. 76. A designação dos servidores para os diferentes  serviços obe decerá ao critério da especialidade.
+**Art**. 76. A designação dos servidores para os diferentes  serviços obe decerá ao critério da especialidade.
 
-<strong>Art</strong>. 77. As Divisões de cada Diretoria, bem como demais órgãos de serviço previstos neste Regimento, entrarão em funcionamento à medida que os trabalhos forem exigindo, épotica em que será, determinada sua instalação pela Diretoria da Comissão e indicados ou designados pelo Diretor-Superintendente os seus responsáveis e servidores.
+**Art**. 77. As Divisões de cada Diretoria, bem como demais órgãos de serviço previstos neste Regimento, entrarão em funcionamento à medida que os trabalhos forem exigindo, épotica em que será, determinada sua instalação pela Diretoria da Comissão e indicados ou designados pelo Diretor-Superintendente os seus responsáveis e servidores.
 
-<strong>Art.</strong> 78\. Como medida de caráter transitório, poderá a Diretoria da Comissão reunir em um só, dois ou mais de seus órgãos, desde que, em determinado momento, o vulto dos serviços que lhes forem atribuídos não justifique a sua existência separadamente
+**Art.** 78\. Como medida de caráter transitório, poderá a Diretoria da Comissão reunir em um só, dois ou mais de seus órgãos, desde que, em determinado momento, o vulto dos serviços que lhes forem atribuídos não justifique a sua existência separadamente
 
 Parágrafo  único. Em tal caso, a de Diretoria. da Comissão indicará qual  o órgão que deverá superintender os trabalhos daqueles que forem anexados.
 
-<strong>Art</strong>. 79. Nas áreas comprendidas no plano de irrigação e outras obras, o Govêrno Federal, por intermédio da Comissão do Vale do Sáo Francisco poderá promover a despropriação de terras destinadas à colonização  e, especialmente, à fixação de populações deslocadas por necessidade do plano geral adotado.
+**Art**. 79. Nas áreas comprendidas no plano de irrigação e outras obras, o Govêrno Federal, por intermédio da Comissão do Vale do Sáo Francisco poderá promover a despropriação de terras destinadas à colonização  e, especialmente, à fixação de populações deslocadas por necessidade do plano geral adotado.
 
-<strong>Art</strong>. 80. As obras que o Departamento Nacional de Obras Contra as  Sêcas tiver de executar na área do  polígono das sêcas, dentro do Vale   do São Francisco  serão planejadas e programadas de acôrdo com a Comissão do Vale São Francisco, embora projetadas, construídas e custeadas, por aquêle Departamento.
+**Art**. 80. As obras que o Departamento Nacional de Obras Contra as  Sêcas tiver de executar na área do  polígono das sêcas, dentro do Vale   do São Francisco  serão planejadas e programadas de acôrdo com a Comissão do Vale São Francisco, embora projetadas, construídas e custeadas, por aquêle Departamento.
 
 Parágrafo Único. Os programas de obras referidos neste artigo serão aprovado pelo Presidente da República.

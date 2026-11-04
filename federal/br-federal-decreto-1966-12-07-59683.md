@@ -1,5 +1,3 @@
-###DEC-059683-0-000-07-12-1966@@@
-
 DECRETO Nº 59.683, DE 7 DE DEZEMBRO DE 1966.
 
 Concede a Tungstênio do Brasil Minérios e Metais Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-048286-0-000-10-06-1960@@@
-
 DECRETO Nº 48.286, DE 10 DE JUNHO DE 1960.
 
 Concedo autorização para funcionamento de curso.

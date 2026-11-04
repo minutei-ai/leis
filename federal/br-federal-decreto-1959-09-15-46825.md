@@ -1,5 +1,3 @@
-###DEC-046825-0-000-15-09-1959@@@
-
 DECRETO Nº 46.825, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza M.I.L. Mineração Ita Limitada - a pesquisar quartzito no município de São Bernardo do Campo, Estado de São Paulo.

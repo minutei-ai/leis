@@ -1,5 +1,3 @@
-###DEC-074014-0-000-07-05-1974@@@
-
 DECRETO Nº 74.014, DE 7 DE MAIO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas, com os cursos de Administração, de Ciências Econômicas e de Psicologia, mantida pela Associação Recifense de Educação e Cultura, com sede na cidade do Recife, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-064030-0-000-27-01-1969@@@
-
 DECRETO Nº 64.030, DE 27 DE JANEIRO DE 1969.
 
 Institui, no Ministério da Justiça, a Coordenação de Relações Públicas.

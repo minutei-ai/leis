@@ -1,5 +1,3 @@
-###DEC-051007-0-000-20-07-1961@@@
-
 DECRETO Nº 51.007, DE 20 DE JULHO DE 1961.
 
 Declara pública, de uso comum, do domínio do Estado do Paraná as águas do rio denominado “Barra Nova”, “Bom” e “Bom”, respectivamente nos seus trechos superior, médio e inferior.

@@ -1,5 +1,3 @@
-###DEC-091459-0-000-23-07-1985@@@
-
 DECRETO Nº 91.459, DE 23 DE JULHO DE 1985
 
 Revoga o Decreto nº 81.869, de 28 de junho de 1978, que "concede à empresa HISPANICA DE PETROLEOS S/A - "HISPANOIL", autorização para funcionar na República Federativa do Brasil sob a denominação social de HISPÂNICA DE PETRÓLEOS S/A - "HISPANOIL'' DO BRASIL'', e dá outras providências.

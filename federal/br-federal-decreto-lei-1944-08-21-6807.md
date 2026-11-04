@@ -1,5 +1,3 @@
-###DEL-006807-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.807 – DE 21 DE AGÔSTO DE 1944
 
 Eleva os vencimentos das enfermeiras da Reserva da Aeronáutica, convocadas

@@ -1,5 +1,3 @@
-###DEL-006325-0-000-08-03-1944@@@
-
 DECRETO-LEI N. 6.325 – DE 8 DE MARÇO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 39.852,80, para pagamento das vantagens (Pessoal) que indica

@@ -1,5 +1,3 @@
-###DEC-064115-0-000-13-02-1969@@@
-
 decreto nº 64.115, de 13 de FEVEREIRO DE 1969.
 
 Declara de utilidade pública o Instituto Cultural São Francisco de Assis, com sede em Taquari, Estado do Rio Grande do Sul.

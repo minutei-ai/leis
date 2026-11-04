@@ -1,5 +1,3 @@
-###DEC-053036-0-000-28-11-1963@@@
-
 decreto nº 53.036, de 28 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Paulo Cordeiro a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-054651-0-000-29-10-1964@@@
-
 decreto nº 54.651, de 29 de outubro de 1964.
 
 Concede à Companhia Paraense de Mineração (CPM) autorização para funcionar como emprêsa de mineração.

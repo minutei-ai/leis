@@ -1,5 +1,3 @@
-###DEC-072315-0-000-31-05-1973@@@
-
 DECRETO Nº 72.315, DE 31 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra, no Município de Poços de Caldas, no Estado de Minas Gerais.

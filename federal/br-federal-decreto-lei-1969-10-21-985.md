@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/524c77cb-fcbc-418c-9a4d-5487b7752d5d/texto#nowhere)
 
-###DEL-000985-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 985, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a transferência de imóveis da União para a Prefeitura do Distrito Federal.

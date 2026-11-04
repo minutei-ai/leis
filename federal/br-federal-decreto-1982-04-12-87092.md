@@ -1,5 +1,3 @@
-###DEC-087092-0-000-12-04-1982@@@
-
 Decreto nº 87.092, de 12 de abril de 1982.
 
 Cria a Estação Ecológica do Jari, e dá outras providências.

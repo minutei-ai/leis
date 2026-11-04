@@ -1,5 +1,3 @@
-###DEC-045926-0-000-29-04-1959@@@
-
 DECRETO N.  45.926 – DE 29 DE ABRIL DE 1959
 
 Autoriza o cidadão brasileiro Djalma Silvestre Pinto a pesquisar minério de cobre no município de Miranda Estado de Mato Grosso.

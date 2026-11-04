@@ -1,5 +1,3 @@
-###DEC-075225-0-000-15-01-1975@@@
-
 DECRETO Nº 75.225, DE 15 DE JANEIRO DE 1975.
 
 Dispõe sobre o Sistema Nacional de Desenvolvimento Científico e Tecnológico e dá outras providências.

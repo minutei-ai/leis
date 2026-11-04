@@ -1,5 +1,3 @@
-###DEL-006884-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.884 – DE 21 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cruzeiros 29.400.000,00, para aquisição de uma draga de alto mar

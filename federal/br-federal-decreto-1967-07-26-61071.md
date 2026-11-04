@@ -1,5 +1,3 @@
-###DEC-061071-0-000-26-07-1967@@@
-
 decreto nº 61.071, de 26 de julho de 1967.
 
 Transfere da Emprêsa Arealense de Eletricidade (Gouvêa & Lourenço) para a Companhia Brasileira de Energia Elétrica a concessão para distribuir energia elétrica nos distritos de Areal e Posse, respectivamente dos municípios de Três Rios e Petrópolis, no Estado do Rio de Janeiro.

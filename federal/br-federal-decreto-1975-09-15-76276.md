@@ -1,5 +1,3 @@
-###DEC-076276-0-000-15-09-1975@@@
-
 DECRETO Nº 76.276 - DE 15 DE SETEMBRO DE 1975
 
 Dispõe sobre a estrutura básica do Departamento Administrativo do Serviço Público (DASP) e dá outras providências.

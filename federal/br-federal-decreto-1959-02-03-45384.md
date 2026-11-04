@@ -1,5 +1,3 @@
-###DEC-045384-0-000-03-02-1959@@@
-
 DECRETO Nº 45.384, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Palma, no Estado de Minas Gerais.

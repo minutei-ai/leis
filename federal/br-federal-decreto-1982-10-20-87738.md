@@ -1,5 +1,3 @@
-###DEC-087738-0-000-20-10-1982@@@
-
 DECRETO Nº 87.738, de 20 de outubro de 1982.
 
 Cria, no Ministério do Exército, a Diretoria de Fiscalização de Produtos Controlados e dá outras providências.

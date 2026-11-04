@@ -1,5 +1,3 @@
-###DEC-047831-0-000-04-03-1960@@@
-
 DECRETO Nº 47.831, DE 4 DE MARÇO DE 1960.
 
 Suprime cargos provisórios

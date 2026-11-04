@@ -1,7 +1,3 @@
-1
-
-###MPV-001190-0-000-23-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.190, DE 23 DE NOVEMBRO 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

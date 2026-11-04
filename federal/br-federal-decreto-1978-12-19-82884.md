@@ -1,5 +1,3 @@
-###DEC-082884-0-000-19-12-1978@@@
-
 DECRETO Nº 82.884, DE 19 DE DEZEMBRO DE 1978
 
 Prorroga o prazo de intervenção governamental nas áreas prioritárias, para fins de reforma agrária, de que tratam os Decretos nºs 56.583, de 19/7/65, e 60.465, de 14/3/67.

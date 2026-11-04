@@ -1,5 +1,3 @@
-###DEC-050564-0-000-09-05-1961@@@
-
 DECRETO Nº 50.564, DE 9 DE MAIO DE 1961.
 
 Cria uma Legação do Brasil junto ao Govêrno do Reino do Camboja, cumulativamente com a Embaixada do Brasil na Índia.

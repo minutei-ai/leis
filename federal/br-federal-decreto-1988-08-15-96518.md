@@ -1,5 +1,3 @@
-###DEC-096518-0-000-15-08-1988@@@
-
 DECRETO N° 96.518, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado “SANTA MARIA I E II”, classificado como latifúndio por exploração, situado nos Municípios de Acará e Moju, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

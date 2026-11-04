@@ -1,5 +1,3 @@
-###DEC-081989-0-000-18-07-1978@@@
-
 Decreto nº 81.989, de 18 de julho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, pela Siderurgia Brasileira S/A - SIERBRÁS, em favor de sua controlada, Companhia Siderúrgica Paulista - COSIPA, as áreas de terrenos que menciona, situada na chamada Serra do Morrão, componente da Serra do Mar, no Município de Santos, Estado de São Paulo.

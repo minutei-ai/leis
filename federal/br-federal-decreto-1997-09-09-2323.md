@@ -1,5 +1,3 @@
-###DEC-002323-0-000-09-09-1997@@@
-
 DECRETO Nº 2.323, DE 9 DE SETEMBRO DE 1997
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas da Fundação nacional de Artes - FUNARTE e dá outras providências.

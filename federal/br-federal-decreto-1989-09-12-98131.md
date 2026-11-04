@@ -1,7 +1,3 @@
-1
-
-###DEC-098131-0-000-12-09-1989@@@
-
 DECRETO N° 98.131, DE 12 DE SETEMBRO DE 1989
 
 Autoriza o funcionamento do Curso de Letras da Faculdade de Educação de João Monlevade .

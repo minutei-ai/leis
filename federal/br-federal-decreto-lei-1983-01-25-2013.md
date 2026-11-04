@@ -1,5 +1,3 @@
-###DEL-002013-0-000-25-01-1983@@@
-
 # DECRETO-LEI Nº 2.013, DE 25 DE JANEIRO DE 1983
 
 Dispõe sobre o imposto único sobre energia elétrica.

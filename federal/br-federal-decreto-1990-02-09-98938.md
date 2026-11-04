@@ -1,7 +1,3 @@
-1
-
-###DEC-098938-0-000-09-02-1990@@@
-
 DECRETO N° 98.938, DE 9 DE FEVEREIRO DE 1990
 
 Estabelece normas para a programação e execução orçamentária e financeira dos Orçamentos da União para o exercício de 1990, e dá outras providências.

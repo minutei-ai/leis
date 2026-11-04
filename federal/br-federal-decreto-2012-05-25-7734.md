@@ -1,5 +1,3 @@
-###DEC-007734-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.734, DE 25 DE MAIO DE 2012
 
 Dispõe sobre a execução do Nonagésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica n° 18 (92PAACE18), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, de 24 de fevereiro de 2012.

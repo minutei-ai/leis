@@ -1,5 +1,3 @@
-###DEC-085234-0-000-06-10-1980@@@
-
 Decreto nº 85.234, de 06 de outubro de 1980.
 
 Aprova o Regulamento do Órgão Central e dos Órgãos Setoriais dos Sistemas de administração financeira, contabilidade e auditoria e dá outras providências.

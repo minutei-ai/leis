@@ -1,5 +1,3 @@
-###DEL-007429-0-000-02-04-1945@@@
-
 DECRETO-LEI N. 7.429 – DE 2 DE ABRIL DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 81.000,00 para ocorrer às despesas que menciona

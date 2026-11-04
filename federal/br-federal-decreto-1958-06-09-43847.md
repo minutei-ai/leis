@@ -1,14 +1,12 @@
-###DEC-043847-0-000-09-06-1958@@@
+**DECERTO Nº 43.847, DE 9 DE JUNHO DE 1958.**
 
-<strong>DECERTO Nº 43.847, DE 9 DE JUNHO DE 1958.</strong>
+***Suprime cargos extintos***
 
-<em><strong>Suprime cargos extintos</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição e nos têrmos do art. 1º alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição e nos têrmos do art. 1º alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos no Quadro Suplementar do Ministério da Fazenda, os seguintes cargos extintos:
+**Art**. 1º Ficam suprimidos no Quadro Suplementar do Ministério da Fazenda, os seguintes cargos extintos:
 
 a) 2 (dois) cargos da classe K, da carreira de Arquivista, vagos em virtude das promoções e Jaime de Carvalho e Valdemar Serejo;
 
@@ -46,10 +44,10 @@ q) 1 (um) cargo isolado de Cobrador padrão J., vago em virtude da aposentadoria
 
 r) 2 (dois) cargos isolados de Conferente de Valores, símbolo CC-5, vagos em virtude da aposentadoria de João da Cruz Nunes e do falecimento de Francisco Valeriano da Câmara Coelho, devendo a dotação correspondente ser levada a crédito da Conta-Corrente do Quadro Permanente do mesmo Ministério.
 
-<strong>Art</strong>. 2º Renovam-se as disposições em contrário.
+**Art**. 2º Renovam-se as disposições em contrário.
 
 Rio de Janeiro, em 9 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

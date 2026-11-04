@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.457, de 04 de Dezembro de 2018.](https://legis.ac.gov
 
 > **LEI Nº 3.123, DE 03 DE MARÇO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a alienar através de venda ou permuta, imóveis de sua propriedade localizados na Cidade do Povo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a alienar através de venda ou permuta, imóveis de sua propriedade localizados na Cidade do Povo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

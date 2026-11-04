@@ -1,5 +1,3 @@
-###DEC-092864-0-000-30-06-1986@@@
-
 DECRETO Nº 92.864, DE 30 DE JUNHO DE 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, áreas de terra necessárias à conclusão das obras do Perímetro Irrigado "Moxotó" e à instalação do Acampamento desse Perímetro, nos municípios de Ibimirim e Inajá, Estado de Pernambuco, para a execução do Programa de Irrigação do Nordeste - PROINE, e dá outras providências.

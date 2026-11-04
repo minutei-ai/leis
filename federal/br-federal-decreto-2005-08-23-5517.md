@@ -1,5 +1,3 @@
-###DEC-005517-0-000-23-08-2005@@@
-
 DECRETO Nº 5.517, DE 23 DE AGOSTO DE 2005.       
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República Francesa para o Desenvolvimento das Utilizações Pacíficas da Energia Nuclear, celebrado em Paris, em 25 de outubro de 2002.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
  LUIZ INÁCIO LULA DA SILVA
 
- Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 24.8.2005
-
-ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA
+ Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA
 
 DO BRASIL E O GOVERNO DA REPÚBLICA FRANCESA PARA O
 

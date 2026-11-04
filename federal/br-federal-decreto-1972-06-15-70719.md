@@ -1,5 +1,3 @@
-###DEC-070719-0-000-15-06-1972@@@
-
 DECRETO Nº 70.719, DE 15 DE JUNHO DE 1972.
 
 Autoriza o funcionamento da  Faculdade de Ciências Econômicas, Contábeis e de Administração de Empresas "Camilo Castelo Branco."

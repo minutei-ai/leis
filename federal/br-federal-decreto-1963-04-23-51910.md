@@ -1,5 +1,3 @@
-###DEC-051910-0-000-23-04-1963@@@
-
 DECRETO Nº 51.910, de 23 de abril de 1963.
 
 Cria o Grupo de Trabalho para fixar as modalidades e normas de alienação dos imóveis residenciais construídos em Brasília.

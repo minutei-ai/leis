@@ -1,5 +1,3 @@
-###DEC-053409-0-000-16-01-1964@@@
-
 DECRETO Nº 53.409, DE 16 DE JANEIRO DE 1964.
 
 Concede o reconhecimento do curso de Auxiliar de Enfermagem da Escola Auxiliar de Enfermagem “Antonina Neves”.

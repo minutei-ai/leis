@@ -1,5 +1,3 @@
-###DEC-004340-0-000-22-08-2002@@@
-
 DECRETO Nº 4.340, DE 22 DE AGOSTO DE 2002
 
 Regulamenta artigos da Lei nº 9.985, de 18 de julho de 2000, que dispõe sobre o Sistema Nacional de Unidades de Conservação da Natureza - SNUC, e dá outras providências.

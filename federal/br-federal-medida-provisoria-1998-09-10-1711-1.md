@@ -1,5 +1,3 @@
-###MPV-001711-0-001-10-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.711-1, DE 10 DE SETEMBRO DE 1998
 
 Acresce dispositivo à Lei nº 9.526, de 8 de dezembro de 1997.

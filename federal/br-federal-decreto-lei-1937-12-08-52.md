@@ -1,5 +1,3 @@
-###DEL-000052-0-000-08-12-1937@@@
-
 DECRETO-LEI N. 52 – DE 8 DE DEZEMBRO DE 1937
 
 Dispõe sôbre a arrecadação, por intermédio das repartições postais-telegráficas, das contribuições devidas ao Instituto de Aposentadoria e Pensões dos Industriários

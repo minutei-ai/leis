@@ -1,5 +1,3 @@
-###DEC-094760-0-000-10-08-1987@@@
-
 DECRETO Nº 94.760, DE 10 DE AGOSTO DE 1987.
 
 Autoriza o funcionamento da habilitação em Química, do curso de Ciências do Instituto Superior de Ciências, Letras e Artes, da Fundação Tricordiana de Educação.

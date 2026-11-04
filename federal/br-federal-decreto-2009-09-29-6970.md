@@ -1,5 +1,3 @@
-###DEC-006970-0-000-29-09-2009@@@
-
 DECRETO Nº 6.970, DE 29 DE SETEMBRO DE 2009.
 
 Dá nova redação ao art. 3º do Decreto nº 3.564, de 17 de agosto de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho de Aviação Civil -CONAC.

@@ -1,5 +1,3 @@
-###DEL-000328-0-000-20-07-1967@@@
-
 DECRETO-LEI Nº 328, DE 20 DE JULHO DE 1967
 
 Altera a redação da alínea “b”, artigo 1º, da Lei 4.357, de 16 de julho de 1964, e dá outras providências.

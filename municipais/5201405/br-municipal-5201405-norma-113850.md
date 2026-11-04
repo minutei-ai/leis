@@ -16,7 +16,8 @@ Presidente: Thiago Manuel de A. K. Ferreira – CPF 722.\*\*\*.\*\*\*-\*\*
 
 Vice-Presidente: Rubensmar Araújo dos Santos – CPF 989. \*\*\*.\*\*\*-\*\*
 
-Secretário: Deurimar Barbosa Silva – CPF 533. \*\*\*.\*\*\*-\*\*<br>
+Secretário: Deurimar Barbosa Silva – CPF 533. \*\*\*.\*\*\*-\*\*
+
                                           
 
 II-    REPRESENTANTES GOVERNAMENTAIS:
@@ -143,11 +144,14 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogando a
 
 Município de Aparecida de Goiânia-GO, aos 22 de fevereiro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-SULNARA SANTANA<br>
+SULNARA SANTANA
+
 Secretária de Assistência Social
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo

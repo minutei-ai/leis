@@ -1,5 +1,3 @@
-###DEC-088332-0-000-30-05-1983@@@
-
 Decreto nº 88.332, de 30 de Maio de 1983
 
 Concede autorização ao navio de pesquisa francês "MARION-DUFRESNE" para realizar no mar territorial brasileiro os serviços que especifica.

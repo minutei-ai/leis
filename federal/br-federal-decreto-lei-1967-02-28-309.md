@@ -1,5 +1,3 @@
-###DEL-000309-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 309, DE 28 FEVEREIRO DE 1967
 
 Altera as Leis ns. 4.448, de 29 de outubro de 1964, e 5.074, de 22 de agôsto de 1966, que regulam as promoções dos Oficiais do Exército.

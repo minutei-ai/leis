@@ -1,5 +1,3 @@
-###DEC-073225-0-000-29-11-1973@@@
-
 DECRETO Nº 73.225 - DE 29 DE NOVEMBRO DE 1973
 
 Estabelece as condições em que poderão  ser declaradas isenções do IPI sobre os produtos importados (artigo 12, do Decreto-lei nº 491, de 5 de março de 1969).

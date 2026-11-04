@@ -1,5 +1,3 @@
-###DEC-091058-0-000-07-03-1985@@@
-
 DECRETO Nº 91.058, DE 07 DE MARÇO DE 1985
 
 Renova a concessão outorgada à CEARA RÁDIO CLUBE S/A e autoriza a transferência direta para a EMPRESA JORNALÍSTICA O POVO S/A, para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de Fortaleza, Estado do Ceará.

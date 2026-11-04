@@ -1,5 +1,3 @@
-###DEL-004406-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.406 – DE 25 DE JUNHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 2.000:000$0, para despesas com a troca de ex-representações diplomáticas

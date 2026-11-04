@@ -1,5 +1,3 @@
-###DEC-055200-0-000-11-12-1964@@@
-
 DECRETO Nº 55.200, DE 11 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João de Oliveira a pesquisar rutilo e cassiterita, no município de Lima Duarte - Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045726-0-000-06-04-1959@@@
-
 DECRETO Nº 45.726, DE 6 DE ABRIL DE 1959.
 
 Autoriza Th. Badim de Minérios Limitada a pesquisar cassiterita nos municípios de Piatã e Mucugê, Estado da Bahia.

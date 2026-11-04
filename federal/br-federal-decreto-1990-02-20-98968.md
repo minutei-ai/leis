@@ -1,7 +1,3 @@
-1
-
-###DEC-098968-0-000-20-02-1990@@@
-
 DECRETO N° 98.968, DE 20 DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à TELEVISÃO BAGÉ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Bagé, Estado do Rio Grande do Sul.

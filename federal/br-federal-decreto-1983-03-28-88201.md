@@ -1,5 +1,3 @@
-###DEC-088201-0-000-28-03-1983@@@
-
 Decreto nº 88.201, de 28 de março de 1983.
 
 Concede autorização ao navio oceanográfico francês "CAPRICORNE" para realizar no mar territorial brasileiro os serviços que especifica.

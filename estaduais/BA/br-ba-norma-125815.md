@@ -4,14 +4,16 @@ Dispõe sobre a criação da Agência Reguladora de Saneamento Básico do Estado
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica criada a Agência Reguladora de Saneamento Básico do Estado da Bahia - AGERSA, autarquia sob regime especial, vinculada à Secretaria de Desenvolvimento Urbano - SEDUR, com sede e foro na Capital do Estado da Bahia, que se regerá por esta Lei.
 
 Parágrafo único - Para o cumprimento de suas funções e competências, a AGERSA está sujeita ao regime jurídico-administrativo próprio das entidades de regulação e fiscalização de serviços públicos de saneamento básico, conforme previsto na Lei Federal nº 11.445, de 05 de janeiro de 2007, Lei Nacional de Saneamento Básico - LNSB.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO OBJETIVO E DAS COMPETÊNCIAS
 
 Art. 2º - A AGERSA tem como objetivo o exercício da regulação e da fiscalização dos serviços públicos de saneamento básico, dentro dos limites legais.
@@ -90,10 +92,12 @@ Art. 7º - Os prestadores de serviços públicos de saneamento básico deverão 
 
 § 2º - É assegurado aos agentes da AGERSA, desde que no estrito exercício de suas funções, o pleno acesso às instalações integrantes dos serviços, bem como aos dados técnicos, econômicos, contábeis e financeiros dos entes regulados, além de outros que se entendam relevantes ao desenvolvimento de suas atividades.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO DA AGERSA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 8º - A AGERSA possui a seguinte estrutura básica:
@@ -106,12 +110,14 @@ III - Ouvidoria.
 
 Parágrafo único - O Regimento Interno da AGERSA disporá sobre sua organização e sobre as atribuições dos órgãos que a compõem, respeitadas as disposições desta Lei.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO CONSELHO CONSULTIVO
 
 Art. 9º - O Conselho Consultivo é composto pelos integrantes da Câmara Técnica de Saneamento Básico do Conselho Estadual das Cidades da Bahia - ConCidades/BA, criado através da Lei nº 10.704, de 12 de novembro de 2007, e tem por objetivo formular as diretrizes gerais da Política Estadual de Desenvolvimento Urbano, garantidos o controle e a participação social.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA DIRETORIA
 
 Art. 10 - A Diretoria, órgão de deliberação superior, será organizada em regime de colegiado, composto por:
@@ -122,7 +128,8 @@ II - Diretor de Normatização;
 
 III - Diretor de Fiscalização.
 
-Subseção I<br>
+Subseção I
+
 Do provimento
 
 Art. 11 - Os membros da Diretoria serão nomeados pelo Governador do Estado dentre cidadãos brasileiros que satisfaçam, simultaneamente, as seguintes condições:
@@ -153,7 +160,8 @@ III - firmar qualquer espécie de contrato com a Agência Reguladora, seja como 
 
 Parágrafo único - É vedada, ainda, aos ex-Diretores a utilização de informações privilegiadas obtidas em decorrência do exercício do cargo.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA OUVIDORIA
 
 Art. 15 - A Ouvidoria é órgão autônomo, sem vinculação hierárquica com o Conselho Consultivo ou com a Diretoria, e tem as seguintes atribuições:
@@ -170,7 +178,8 @@ IV - produzir, semestralmente ou quando oportuno, apreciações críticas sobre 
 
 § 2º - As atribuições da Ouvidoria serão exercidas em articulação com a Ouvidoria Geral do Estado.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO CONTRATO DE GESTÃO
 
 Art. 16 - O Poder Público, através da Secretaria de Desenvolvimento Urbano, poderá celebrar contrato de gestão com a AGERSA, nos termos do § 8º do art. 37 da Constituição Federal de 1988, com o objetivo de ampliar sua autonomia gerencial, orçamentária e financeira, estabelecendo, em contrapartida, metas de desempenho a serem atingidas.
@@ -179,14 +188,16 @@ Art. 16 - O Poder Público, através da Secretaria de Desenvolvimento Urbano, po
 
 § 2º - O contrato de gestão disporá, obrigatoriamente, sobre os controles e critérios de desempenho que subsidiarão a avaliação sobre o alcance das metas pactuadas.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO RELATÓRIO ANUAL DE ATIVIDADES
 
 Art. 17 - A AGERSA deverá elaborar relatório anual das atividades desenvolvidas, nele destacando o cumprimento da política do setor, definida pelo Poder Executivo e a concretização das metas estabelecidas no contrato de gestão.
 
 Parágrafo único - O relatório anual de atividades deverá ser encaminhado à Secretaria de Desenvolvimento Urbano, no prazo de até 90 (noventa) dias após o encerramento do exercício.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO PATRIMÔNIO E DAS RECEITAS
 
 Art. 18 - Constituem o patrimônio da AGERSA:
@@ -217,7 +228,8 @@ VI - recursos provenientes de convênios, acordos ou contratos celebrados com ó
 
 VII - outras receitas previstas em Lei e no Regimento Interno da Agência.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 20 - A AGERSA disporá de quadro de pessoal, constituído de cargos de provimento temporário e permanente, podendo também ser requisitados servidores atuantes em outros órgãos do Estado da Bahia, na forma da legislação vigente.

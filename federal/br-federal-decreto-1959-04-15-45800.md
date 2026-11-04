@@ -1,5 +1,3 @@
-###DEC-045800-0-000-15-04-1959@@@
-
 DECRETO Nº 45.800, DE 15 DE ABRIL DE 1959.
 
 Altera o Regulamento para a Escola de Marinha Mercante do Pará.

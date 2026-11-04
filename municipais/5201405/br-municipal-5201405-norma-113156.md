@@ -30,7 +30,8 @@ Aparecida de Goiânia, 19 de novembro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
@@ -43,7 +44,8 @@ Descrição do Perímetro: 
 
 ÁREA DO LEVANTAMENTO: 345,27 m²
 
-Inicia-se a descrição do perímetro da Faixa de Servidão de rede de drenagem, localizada na Área de Preservação Permanente A.P.P. 01, no ponto M-01, de coordenadas N 8.138.144,086 m e E 684.888,858; deste, segue por uma linha seca, com azimute 191°41’23”, distância de 5,62 metros, até o ponto M-02, de coordenadas N 8.138.138,582 m e E 684.887,719; deste, segue com azimute 201°04’54”, distância de 4,47 metros, até o ponto M-03, de coordenadas N 8.138.134,403 m e E 684.886,108; deste, segue com azimute 279°18’23”, distância de 19,09 metros, até o ponto M-04, de coordenadas N 8.138.137,490 m e E 684.867,270; deste, segue com azimute 281°30’49”, distância de 14,85 metros, até o ponto M-05, de coordenadas N 8.138.140,454 m e E 684.852,718; deste, segue com azimute 348°29’11”, distância de 10,00 metros, até o ponto M-06, de coordenadas N 8.138.150,253 m e E 684.854,714; deste, segue com azimute 101°30’49”, distância de 14,65 metros, até o ponto M-07, de coordenadas N 8.138.147,327 m e E 684.869,077; deste, segue com azimute 99°18’23”, distância de 20,04 metros, até o ponto M-01, ponto inicial da descrição deste perímetro.<br>
+Inicia-se a descrição do perímetro da Faixa de Servidão de rede de drenagem, localizada na Área de Preservação Permanente A.P.P. 01, no ponto M-01, de coordenadas N 8.138.144,086 m e E 684.888,858; deste, segue por uma linha seca, com azimute 191°41’23”, distância de 5,62 metros, até o ponto M-02, de coordenadas N 8.138.138,582 m e E 684.887,719; deste, segue com azimute 201°04’54”, distância de 4,47 metros, até o ponto M-03, de coordenadas N 8.138.134,403 m e E 684.886,108; deste, segue com azimute 279°18’23”, distância de 19,09 metros, até o ponto M-04, de coordenadas N 8.138.137,490 m e E 684.867,270; deste, segue com azimute 281°30’49”, distância de 14,85 metros, até o ponto M-05, de coordenadas N 8.138.140,454 m e E 684.852,718; deste, segue com azimute 348°29’11”, distância de 10,00 metros, até o ponto M-06, de coordenadas N 8.138.150,253 m e E 684.854,714; deste, segue com azimute 101°30’49”, distância de 14,65 metros, até o ponto M-07, de coordenadas N 8.138.147,327 m e E 684.869,077; deste, segue com azimute 99°18’23”, distância de 20,04 metros, até o ponto M-01, ponto inicial da descrição deste perímetro.
+
 Todas as coordenadas estão georreferenciadas ao Sistema Geodésico Brasileiro, representadas no Sistema UTM, referenciado ao Meridiano Central 51º WGr, com Datum SIRGAS2000. Todos os azimutes, distâncias, área e perímetro foram calculados no plano de projeção UTM.
 
 2\. Faixa de Servidão de Rede de Drenagem – Área Verde A.P.M. 26

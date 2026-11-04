@@ -1,5 +1,3 @@
-###DEC-066531-0-000-05-05-1970@@@
-
 Decreto nº 66.531, de 5 de maio de 1970.
 
 Declara sem efeito o Decreto número 36.432 de 4 de novembro de 1954.

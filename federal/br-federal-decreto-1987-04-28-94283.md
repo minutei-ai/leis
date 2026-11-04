@@ -1,5 +1,3 @@
-###DEC-094283-0-000-28-04-1987@@@
-
 DECRETO Nº 94.283, DE 28 DE ABRIL DE 1987.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Retiro Saudoso" e "Águas Claras", classificados no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situados no Município de Gravatá, no Estado de Pernambuco, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.683, de 19 de maio de 1986, e dá outras providências.

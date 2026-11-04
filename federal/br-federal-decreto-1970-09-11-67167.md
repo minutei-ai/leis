@@ -1,5 +1,3 @@
-###DEC-067167-0-000-11-09-1970@@@
-
 decreto nº 67.167, de 11 de setembro de 1970.
 
 Exclui servidor da relação nominal, constante do Decreto nº 65.243, de 26 de setembro de 1969.

@@ -1,5 +1,3 @@
-###DEC-058892-0-000-20-07-1966@@@
-
 DECRETO Nº 58.892, DE 20 DE JULHO DE 1963.
 
 Renova o Decreto nº 2.076, de 17 de janeiro de 1963.

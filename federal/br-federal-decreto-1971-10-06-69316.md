@@ -1,5 +1,3 @@
-###DEC-069316-0-000-06-10-1971@@@
-
 DECRETO Nº 69.316, DE 6 DE OUTUBRO DE 1971.
 
 Torna sem efeito redistribuição de funcionário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

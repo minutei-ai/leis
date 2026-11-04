@@ -1,5 +1,3 @@
-###MPV-002145-0-000-02-05-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.145, DE 2 DE MAIO DE 2001
 
 Cria as Agências de Desenvolvimento da Amazônia e do Nordeste, extingue a Superintendência do Desenvolvimento da Amazônia ‑ SUDAM e a Superintendência do Desenvolvimento do Nordeste ‑ SUDENE, e dá outras providências.

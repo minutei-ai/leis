@@ -1,5 +1,3 @@
-###DEC-064497-0-000-13-05-1969@@@
-
 DECRETO Nº 64.497, DE 13 DE MAIO DE 1969.
 
 Cria o Comando de Fronteira de Roraima.

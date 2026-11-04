@@ -1,5 +1,3 @@
-###DEC-094943-0-000-23-09-1987@@@
-
 DECRETO Nº 94.943, DE 23 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Filosofia, Ciências e Letras de Joinville.

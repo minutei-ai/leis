@@ -1,5 +1,3 @@
-###DEC-053139-0-000-10-12-1963@@@
-
 DECRETO Nº 53.139, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à firma Fernandes Costa & Cia Ltda., autorização para funcionar com emprêsa de mineração.

@@ -1,5 +1,3 @@
-###MPV-000281-0-000-15-02-2006@@@
-
 MEDIDA PROVISÓRIA Nº 281, DE 15 DE FEVEREIRIO DE 2006.
 
 Reduz a zero as alíquotas de imposto de renda e da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF) nos casos que especifica, e dá outras providências.

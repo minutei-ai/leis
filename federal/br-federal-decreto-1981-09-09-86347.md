@@ -1,5 +1,3 @@
-###DEC-086347-0-000-09-09-1981@@@
-
 Decreto nº 86.347, de 09 de setembro de 1981.
 
 Homologa as demarcações das áreas indígenas que menciona, no Território Federal de Rondônia.

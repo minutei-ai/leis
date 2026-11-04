@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212749)<br>
-
 # DECRETO N° 70.684, DE 16 DE JUNHO DE 2026
 
 ### _Institui a Comissão Fílmica Paulista - "São Paulo State Film Commission", e dá providências correlatas._

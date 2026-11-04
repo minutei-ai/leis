@@ -1,5 +1,3 @@
-###DEL-003580-0-000-03-09-1941@@@
-
 DECRETO-LEI N. 3.580 – DE 3 DE SETEMBRO DE 1941
 
 Dispõe sobre a Comissão Nacional do Livro Didático, e dá outras providências

@@ -106,10 +106,12 @@ Art. 10. A Secretaria de Estado da Economia expedirá instruções normativas e 
 
 Art. 11. Em decorrência do disposto neste Decreto, fica vedada aos órgãos, aos fundos, às entidades e às empresas estatais dependentes do Poder Executivo estadual constantes do Orçamento Fiscal e do Orçamento da Seguridade Social, de acordo com a [Lei estadual nº 21.760](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106538/lei-21760) (Lei Orçamentária Anual), de 2022, a realização de despesas ou a assunção de compromissos que não sejam compatíveis com os limites de empenho e cronogramas estabelecidos.
 
-~~Parágrafo único.~~ §1º A Secretaria de Estado da Economia poderá bloquear a execução orçamentária e financeira dos órgãos que ultrapassarem os limites autorizados para empenho e pagamento à conta dos recursos previstos nos Anexos I, II e III deste Decreto.<br>
+~~Parágrafo único.~~ §1º A Secretaria de Estado da Economia poderá bloquear a execução orçamentária e financeira dos órgãos que ultrapassarem os limites autorizados para empenho e pagamento à conta dos recursos previstos nos Anexos I, II e III deste Decreto.
+
 \- [Constituído §1º pelo Decreto nº 10.261, de 12-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107131/decreto-10261), art. 3º.
 
-§ 2º O montante de R$ 300.000.000,00 (trezentos milhões de reais) alocados nos Anexos I, II e V deste Decreto e identificado como “Valores a programar” poderá ser redistribuído por portaria da Secretaria de Estado da Economia.<br>
+§ 2º O montante de R$ 300.000.000,00 (trezentos milhões de reais) alocados nos Anexos I, II e V deste Decreto e identificado como “Valores a programar” poderá ser redistribuído por portaria da Secretaria de Estado da Economia.
+
 \- [Acrescido pelo Decreto nº 10.261, de 12-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107131/decreto-10261).
 
 Art. 12. Compõem o presente Decreto:
@@ -132,23 +134,26 @@ Art. 13. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 27 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
-[ANEXO I - LIMITES DE EMPENHO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18314)<br>
+[ANEXO I - LIMITES DE EMPENHO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18314)
+
 \- [Redação dada pelo Decreto nº 10.261, de 12-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107131/decreto-10261).
 
-[ANEXO II - LIMITES DE PAGAMENTOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18315)<br>
+[ANEXO II - LIMITES DE PAGAMENTOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18315)
+
 \- [Redação dada pelo Decreto nº 10.261, de 12-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107131/decreto-10261).
 
-[ANEXO III - LIMITES DE PAGAMENTOS DE RESTOS A PAGAR](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18316)<br>
+[ANEXO III - LIMITES DE PAGAMENTOS DE RESTOS A PAGAR](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18316)
+
 \- [Redação dada pelo Decreto nº 10.261, de 12-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107131/decreto-10261).
 
-[ANEXO IV - QUADRO DE COTAS TRIMESTRAIS DA DESPESA](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18317)<br>
+[ANEXO IV - QUADRO DE COTAS TRIMESTRAIS DA DESPESA](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18317)
+
 \- [Redação dada pelo Decreto nº 10.261, de 12-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107131/decreto-10261).
 
-[~~ANEXOS~~](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18277)<br>
+[~~ANEXOS~~](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18277)
+
 \- Com as alterações dadas pelo [Decreto nº 10.223](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106760/decreto-10223), de 24-02-2023.

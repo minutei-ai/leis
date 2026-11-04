@@ -1,5 +1,3 @@
-###DEL-006039-0-000-25-11-1943@@@
-
 DECRETO‑LEI N. 6.039 – DE 25 DE NOVEMBRO DE 1943
 
 Modifica o art. 1º do decreto‑lei n. 5.087, de 14 de dezembro de 1942

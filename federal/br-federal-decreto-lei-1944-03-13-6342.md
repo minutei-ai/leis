@@ -1,5 +1,3 @@
-###DEL-006342-0-000-13-03-1944@@@
-
 DECRETO-LEI N. 6.342 – DE 13 DE MARÇO DE 1944
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Agricultura e dá outras providências

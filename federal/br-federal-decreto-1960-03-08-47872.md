@@ -1,5 +1,3 @@
-###DEC-047872-0-000-08-03-1960@@@
-
 DECRETO Nº 47.872, DE 8 DE MARÇO DE 1960.
 
 Altera o Decreto nº 47.224, de 12 de novembro de 1959, e dá outras providências.

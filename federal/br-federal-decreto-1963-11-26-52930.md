@@ -1,5 +1,3 @@
-###DEC-052930-0-000-26-11-1963@@@
-
 DECRETO Nº 52.930, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Gêsso Nacional Tapuyo Ltda, a pesquisar gipsita no município de Bodocó, Estado de Pernambuco.

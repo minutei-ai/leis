@@ -1,5 +1,3 @@
-###DEC-095908-0-000-11-04-1988@@@
-
 DECRETO N° 95.908, DE 11 DE ABRIL DE 1988
 
 Concede autorização ao navio de pesquisa “ROBERT D. CONRAD”, de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

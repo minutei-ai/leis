@@ -1,7 +1,3 @@
-1
-
-###DEC-001008-0-000-20-12-1993@@@
-
 DECRETO Nº 1.008, DE 20 DE DEZEMBRO DE 1993
 
 Dispõe sobre a autorização de pagamentos a entidades assistenciais, pela Fundação Legião Brasileira de Assistência - LBA e Fundação Centro Brasileiro para a Infância e Adolescência - CBIA.

@@ -1,5 +1,3 @@
-###MPV-002182-0-016-28-06-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.182‑16, DE 28 DE JUNHO DE 2001
 
 Institui, no âmbito da União, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências.

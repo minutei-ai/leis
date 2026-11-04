@@ -1,5 +1,3 @@
-###DEC-079336-0-000-03-03-1977@@@
-
 DECRETO Nº 79.336, DE 3 DE MARÇO DE 1977.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Quixeramobim, Estado do Ceará, compreendido na área prioritária de reforma agrária, de que trata o Decreto número 60.465, de 14 de março de 1967, retificado pelo Decreto nº 61.106, de 28 de julho de 1967, com o prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19 de janeiro de 1971, e 75.147, de 27 de dezembro de 1974.

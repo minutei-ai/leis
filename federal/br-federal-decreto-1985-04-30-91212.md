@@ -1,5 +1,3 @@
-###DEC-091212-0-000-30-04-1985@@@
-
 DECRETO Nº 91.212, DE 30 DE ABRIL DE 1985.
 
 Altera a localização de sede do 2º BATALHÃO DE GUARDAS no Ministério do Exército e dá outras providências

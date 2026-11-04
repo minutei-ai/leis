@@ -1,5 +1,3 @@
-###DEC-007176-0-000-12-05-2010@@@
-
 DECRETO Nº 7.176, DE 12 DE MAIO DE 2010
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para Programas Educacionais e de Intercâmbio Cultural, firmado em Brasília, em 27 de maio de 2008.

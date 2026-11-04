@@ -1,5 +1,3 @@
-###DEC-066690-0-000-11-06-1970@@@
-
 DECRETO Nº 66.690, DE 11 DE JUNHO DE 1970.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Recife, Estado de Pernambuco.

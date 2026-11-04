@@ -1,14 +1,12 @@
-###DEC-040494-0-000-05-12-1956@@@
+**DECRETO Nº 40.494, DE 5 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.494, DE 5 DE DEZEMBRO DE 1956.</strong>
+***Suprime cargos extintos.***
 
-<em><strong>Suprime cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição, e nos têrmos do art. 1º, alínea ”*n*”, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição, e nos têrmos do art. 1º, alínea ”<em>n</em>”, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>A</strong><strong>rt</strong>. 1º Ficam suprimidos no Quadro Suplementar do Ministério da Guerra, os seguintes cargos extintos:
+**Art**. 1º Ficam suprimidos no Quadro Suplementar do Ministério da Guerra, os seguintes cargos extintos:
 
 a) na carreira de Artifice, 139 (cento e trinta e nove) cargos da classe E, vagos em virtude das aposentadorias de Teodoro de Souza, Zacarias da Costa Teixeira, Odete de Castro Nascimento, José Fortunato, Antônio Rosa de Araújo, João Venâncio da Siva, João Lourenço, Sílvio da Silva, Possidônio Marques, Ipório Onório dos Santos; das promoções de Abílio da Conceição Fontoura, Adelgides Nunes, Alcides da Silva Leite, Álvaro Barbosa II, Antônio Celso Gomes, Sérgio Pereira de Oliveira, Sebastião de Figueiredo, Francisco Vieira de Carvalho, Evaristo Francico Luís, Elias Antônio, Antônio José de Oliveira, Damázio Braz, Diógenes Lage Brandão, Francisco das Chagas Macário, Jacó Maier, João de Deus Silva, José Lopes, José Teixeira Pinto, Josefino Frazen, Mário Alves, Orlando Rodrigues, Sebastião Rodrigues Fortes, Valdemar Martins Rodrigues, Vitor Manuel Ribeiro, Sol Gonçalves Tubino, Salvador Viola, Otávio Ferreira Azevedo, Nésio Serrão de Azevedo, Murilo Francisco Machado, Manuel da Costa Coelho, Lino José Teles, Ladislau Mendes de Azeredo, Juvenal Mendes Cardia, Joviniano Ribeiro de Carvalho, José dos Santos II, José Rodrigues, José Gomes Machado, Jorge da Costa, João Gifone Filho, João Francisco Vieira, Hilarião Pereira de Sousa, Eduardo Elezário Klinkovski, Dorval Alves da Silva, Domingos Martins da Rosa, Deocleciano Pereira de Carvalho, Antônio Pimentel Barçante, Antônio Afonso Guedes, Antônio Júlio de Morais Filho, João Caetano de Matos, Manuel do Couto, Henrique Paulo de Sousa, Otávio Luis de Barros, Ernâni Pedro dos Santos, José Pereira da Silva, Carlos de Freita Rodrigues, Valdemiro de Goís, Benedito dos Santos, Henrique José Vieira Filho, Albino Melro, Ernâni dos Santos Rodrigues, Serafim Gonçalves, Sebastião Pereira da Silva, Osmar de Carvalho, Djalma Pereira Coelho, Luís Ferreira Campos, Valdemar Mendes de Araújo, Júlio Pereira, Otacílio Costa, Joaquim de Souza Pais, Roberto Kalicheski, Joaquim Cardoso, Osvaldo Bronzo, Joaqim de Oliveira, Nestor de Azevedo Costa, Alberto Moreira, João Câmara, José Francisco Machado, Gastão Fiuza Lima, Bráulio Felipe Santiago, Romeu Araujo, Oracides Nunes, Odilon Rocha Simas, Arnaldinio Vieira do Espírito Santo, Arnaldo Freire de Santana, Benedito Firmino do Prado, Astrogildo Ribeiro de Carvalho, Jorge Ribeiro da Siva, Fernando Dantas, Manuel Lopes, Alcebíades Antonio da Silva, Aguinaldo Vieira dos Santos, José Francisco do Nascimeto, Aurora dos Santos, Sebastião Neira Marques, José de Encarnação, José Casales de Quadros Bitencourt, José Maurício Mosna, Manuel Francico de Sousa Lemos, Carlos Paulo da Silva, João Pereira de Freitas, Severino de Freitas Barbosa, Pedro de Castro Fontana, Décio Menezes de Moura, Djair Pereira de Moura, Altamiro de Melo, Sebastião Bruno, Moacir Fortes Flores, Jaime Barroso de Azevedo, Hildebrando Pimenta, Ulpiano Mendes de Azevedo, Amarilha de Lima Câmara, Henrique Francisco, José Tomé, Teodoro Roberto Kalicheski, Alfredo Tristão Gonçalves, Alcides Júlio, Armindo Luís Fonseca, Avani de Moraes Neves, Jorge do Sacramento, Manuel Nunes da Silva, Manuel Rafael de Almeida, Moisés Dubois, Oscar Matias Kraemer, Paulo Afonso Hécules e Valdemiro Bertoldo Teles; de Falecimento de Cândido Alves, Ângelo Carlos Teixeira, Nelson Diamantino Telha de Mendonça, Ubirajara Firmino Gonçalves;
 
@@ -40,10 +38,10 @@ n) 1 (um) cargo isolado de Chefe de Cartografia, padrão M, vago em virtude do f
 
 o) 1 (um) cargo isolado de Professor Catedrático, padrão O, vago em virtude do falecimento de José Matos de Vasconcelos.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 5 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

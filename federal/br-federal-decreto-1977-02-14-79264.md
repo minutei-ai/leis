@@ -1,5 +1,3 @@
-###DEC-079264-0-000-14-02-1977@@@
-
 DECRETO nº 79.264, de 14 de Fevereiro de 1977.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Carangola, com sede na cidade de Carangola, Estado de Minas Gerais.

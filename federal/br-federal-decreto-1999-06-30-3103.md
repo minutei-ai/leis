@@ -1,5 +1,3 @@
-###DEC-003103-0-000-30-06-1999@@@
-
 DECRETO Nº 3.103, DE 30 DE JUNHO DE 1999.
 
 Prorroga o prazo de remanejamento dos cargos em comissão que menciona, e dá outras providências.

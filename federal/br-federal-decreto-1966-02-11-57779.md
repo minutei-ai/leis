@@ -1,5 +1,3 @@
-###DEC-057779-0-000-11-02-1966@@@
-
 DECRETO Nº 57.779, DE 11 DE FEVEREIRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Oceânica Companhia Brasileira de Seguros, relativa ao aumento do capital social.

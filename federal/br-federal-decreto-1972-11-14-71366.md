@@ -1,5 +1,3 @@
-###DEC-071366-0-000-14-11-1972@@@
-
 DECRETO Nº 71.366 - DE 14 DE NOVEMBRO DE 1972.
 
 Torna sem efeito aproveitamento de disponíveis do INPS no Ministério da Marinha e cassa a disponibilidade dos mesmos.

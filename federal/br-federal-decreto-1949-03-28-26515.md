@@ -1,12 +1,10 @@
-###DEC-026515-0-000-28-03-1949@@@
+**DECRETO Nº 26.515, DE 28 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.515, DE 28 DE MARÇO DE 1949.</strong>
+***Retifica o Decreto n.º 25.747, de 4 de novembro de 1948.***
 
-<em><strong>Retifica o Decreto n.º 25.747, de 4 de novembro de 1948.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I da Constituição, e nos têrmos do Decreto-lei nº 938, de 8 de dezembro de 1938,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I da Constituição, e nos têrmos do Decreto-lei nº 938, de 8 de dezembro de 1938,
-
-<strong>Decreta:</strong>
+**Decreta:**
 
 Artigo. Único - É retificado o Decreto número vinte e cinco mil setecentos e quarenta e sete (25.747), de quatro (4) de novembro de mil novecentos e quarenta e oito (1948) que passa a ter a seguinte redação:
 
@@ -14,6 +12,6 @@ Artigo Único: É concedida à S.A mármores Brasileiros "Sambra" sociedade anni
 
 Rio de Janeiro , 28 de março de 1949; 128º da Independência e 61º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Daniel de Carvalho

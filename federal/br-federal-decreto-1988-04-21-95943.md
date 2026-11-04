@@ -1,5 +1,3 @@
-###DEC-095943-0-000-21-04-1988@@@
-
 DECRETO N° 95.943, DE 21 DE ABRIL DE 1988
 
 Promulga o Acordo Básico de Cooperação Científica e Técnica entre a República Federativa do Brasil e a República de São Tomé e Príncipe.

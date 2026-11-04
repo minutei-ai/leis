@@ -1,5 +1,3 @@
-###DEC-059961-0-000-09-01-1967@@@
-
 DECRETO Nº 59.961, DE 9 DE JANEIRO DE 1967.
 
 Suprime cargo extinto.

@@ -1,5 +1,3 @@
-###DEC-059742-0-000-15-12-1966@@@
-
 DECRETO Nº 59.742, DE 15 DE DEZEMBRO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.698, de 4 de agôsto de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Estreito do Rio Verde Pequeno”, no município de Espinosa, Estado de Minas Gerais.

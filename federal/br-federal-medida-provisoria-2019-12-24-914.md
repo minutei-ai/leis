@@ -1,6 +1,6 @@
 MEDIDA PROVISÓRIA Nº 914, DE 24 DE DEZEMBRO DE 2019
 
-Dispõe sobre o processo de escolha dos dirigentes das universidades federais, dos institutos federais e do Colégio Pedro II.<br>
+Dispõe sobre o processo de escolha dos dirigentes das universidades federais, dos institutos federais e do Colégio Pedro II.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
 
@@ -142,4 +142,4 @@ Brasília, 24 de dezembro de 2019; 198º da Independência e 131º da República
 
 JAIR MESSIAS BOLSONARO
 
-Antonio Paulo Vogel de Medeiros<br>
+Antonio Paulo Vogel de Medeiros

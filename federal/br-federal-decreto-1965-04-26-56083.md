@@ -1,5 +1,3 @@
-###DEC-056083-0-000-26-04-1965@@@
-
 Decreto nº 56.083, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro Marcos René Olivé de Souza a pesquisar minérios de ferro nos municípios de Piracema e Desterro Entre-Rios, Estado de Minas Gerais.

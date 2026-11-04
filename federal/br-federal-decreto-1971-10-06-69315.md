@@ -1,5 +1,3 @@
-###DEC-069315-0-000-06-10-1971@@@
-
 Decreto nº 69.315, de 6 de outubro de 1971.
 
 Redistribui, com a respectiva ocupante, cargo da Universidade Federal da Paraíba para o Ministério da Educação e Cultura, e dá outras providências.

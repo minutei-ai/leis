@@ -1,5 +1,3 @@
-###DEC-073630-0-000-13-02-1974@@@
-
 DECRETO Nº 73.630, dE 13 DE FEVEREIRO DE 1974.
 
 Dispõe sobre a Estrutura Básica da Secretaria Executiva da Superintendência de Desenvolvimento da Amazônia - SUDAM.

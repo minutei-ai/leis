@@ -1,5 +1,3 @@
-###DEC-093616-0-000-21-11-1986@@@
-
 DECRETO Nº 93.616, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre a extinção de escritórios de representação de órgãos ou entidades da Administração Federal, e dá outras providências.

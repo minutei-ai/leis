@@ -1,5 +1,3 @@
-###DEC-090794-0-000-10-01-1985@@@
-
 DECRETO Nº 90.794, DE 10 DE JANEIRO DE 1985
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, áreas de terra situadas na faixa de segurança da 1ª etapa do reservatório da usina hidrelétrica de Ilha Grande, da Centrais Elétricas do Sul ao Brasil S.A. - ELETROSUL, nos Estados do Paraná e Mato Grosso do Sul.

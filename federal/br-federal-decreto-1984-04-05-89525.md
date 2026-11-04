@@ -1,5 +1,3 @@
-###DEC-089525-0-000-05-04-1984@@@
-
 Decreto nº 89.525, de 05 de abril de 1984
 
 Cassa a concessão outorgada à RÁDIO CRUZEIRO DE BARRA DO BUGRES LTDA., para executar serviços de radiodifusão sonora em onda média, na cidade de Barra do Bugres, Estado do Mato Grosso.

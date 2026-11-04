@@ -1,5 +1,3 @@
-###DEC-056418-0-000-04-06-1965@@@
-
 DECRETO Nº 56.418, DE 4 DE JUNHO DE 1965.
 
 Autorizo estrangeiro a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-058063-0-000-23-03-1966@@@
-
 DECRETO Nº 58.063, DE 23 DE MARÇO DE 1966.
 
 Outorga à Centrais Elétricas do Rio das Contas S. A. concessão para distribuir energia elétrica.

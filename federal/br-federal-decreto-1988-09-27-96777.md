@@ -1,5 +1,3 @@
-###DEC-096777-0-000-27-09-1988@@@
-
 DECRETO N° 96.777, DE 27 DE SETEMBRO DE 1988
 
 Autoriza a transferência direta da concessão outorgada à FUNDAÇÃO CULTURAL CELINAUTA para a RÁDIO PROGRESSO DE CLEVELÂNDIA LTDA.

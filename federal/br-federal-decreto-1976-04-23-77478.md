@@ -1,5 +1,3 @@
-###DEC-077478-0-000-23-04-1976@@@
-
 DECRETO Nº 77.478 - DE 23 DE ABRIL DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Coxim - MT destinado ao Ministério do Exército.

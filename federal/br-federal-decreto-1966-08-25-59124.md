@@ -1,5 +1,3 @@
-###DEC-059124-0-000-25-08-1966@@@
-
 DECRETO Nº 59.124, DE 25 DE AGÔSTO DE 1966.
 
 Estabelece o salário, mínimo regional para os efeitos na letra b do art. 26 da Lei nº 4.239, de 27 de junho de 1963.

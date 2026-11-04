@@ -47,7 +47,21 @@ SITUAÇÃO PROPOSTA
 | LOTE 19A | 240,00 |
 | LOTE 19B | 240,00 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 20A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 21A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 22A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 23A</td><td style="text-align:center">240,00</td></tr></tbody></table>
+LOTE 20A
+
+240,00
+
+LOTE 21A
+
+240,00
+
+LOTE 22A
+
+240,00
+
+LOTE 23A
+
+240,00
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.012.929, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -57,8 +71,10 @@ Aparecida de Goiânia, Estado de Goiás, aos 16 de maio de 2023.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

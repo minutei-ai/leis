@@ -1,5 +1,3 @@
-###DEC-079146-0-000-18-01-1977@@@
-
 DECRETO Nº 79.146, DE 18 DE JANEIRO DE 1977.
 
 Autoriza o funcionamento do curso de Fisioterapia, da Faculdade de Reabilitação, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

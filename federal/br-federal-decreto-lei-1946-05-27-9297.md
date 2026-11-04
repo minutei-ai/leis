@@ -1,5 +1,3 @@
-###DEL-009297-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.297 – DE 27 DE MAIO DE 1946
 
 Torna extensivo ao Corpo de Bombeiros do Distrito Federal o Decreto-lei nº 8.354, de 12 de Dezembro de 1945.

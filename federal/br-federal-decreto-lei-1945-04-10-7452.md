@@ -1,5 +1,3 @@
-###DEL-007452-0-000-10-04-1945@@@
-
 DECRETO-LEI N. 7.452 – DE 10 DE ABRIL DE 1945
 
 Estende às localidades que discrimina os efeitos dos Decretos-leis números 7.443 e 7.444, de 5 de abril de 1945

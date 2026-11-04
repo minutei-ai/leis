@@ -1,5 +1,3 @@
-###DEC-060256-0-000-23-02-1967@@@
-
 DECRETO Nº 60.256, DE 23 DE FEVEREIRO DE 1967.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar cianita e grafita, no município de Capelinha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-074024-0-000-08-05-1974@@@
-
 DECRETO Nº 74.024, DE 8 DE MAIO DE 1974.
 
 Retifica, em cumprimento de decisão judicial, enquadramento de pessoal do Ministério da Aeronáutica, beneficiado pelo disposto no parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962.

@@ -1,5 +1,3 @@
-###DEC-049277-0-000-17-11-1960@@@
-
 Decreto nº 49.277, de 17 de novembro de 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

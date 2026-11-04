@@ -1,5 +1,3 @@
-###DEC-080819-0-000-24-11-1977@@@
-
 DECRETO Nº 80.819, DE 24 DE NOVEMBRO DE 1977.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a garantir empréstimos a serem contraídos no exterior pela Light - Serviços de Eletricidade S/A, nas condições que menciona.

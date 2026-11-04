@@ -1,5 +1,3 @@
-###DEC-078607-0-000-21-10-1976@@@
-
 DECRETO Nº 78.607, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade Adventista de Educação, com sede na cidade de São Paulo, Estado de São Paulo.

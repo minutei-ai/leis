@@ -1,7 +1,3 @@
-1
-
-###DEC-095859-0-000-22-03-1988@@@
-
 DECRETO N° 95.859, DE 22 DE MARÇO DE 1988
 
 Afeta, a uso especial do Exército, terras referidas no art. 3° e § 1°, do Decreto‑lei n° 2.375, de 24 de novembro de 1987, e dá outras providências.

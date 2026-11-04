@@ -1,5 +1,3 @@
-###DEC-081023-0-000-12-12-1977@@@
-
 Decreto nº 81.023, de 12 de dezembro de 1977.
 
 Concede reconhecimento aos cursos de Comunicação Social e de Nutrição, da Universidade do Vale do Rio dos Sinos, em São Leopoldo, Estado do Rio Grande do Sul.

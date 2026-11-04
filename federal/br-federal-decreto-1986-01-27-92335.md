@@ -1,5 +1,3 @@
-###DEC-092335-0-000-27-01-1986@@@
-
 DECRETO Nº 92.335, DE 27 DE JANEIRO DE 1986
 
 Outorga concessão à RADIOSUL EMISSORAS INTEGRADAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Campo Grande, Estado do Mato Grosso do Sul.

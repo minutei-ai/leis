@@ -1,5 +1,3 @@
-###DEC-074440-0-000-21-08-1974@@@
-
 DECRETO Nº 74.440, DE 21 DE AGOSTO DE 1974.
 
 Autoriza o funcionamento do Curso de Professores para as Disciplinas de Formação Especial no Ensino de 2º grau, da Faculdade de Filosofia, Ciências e Letras "Oswaldo Cruz", mantida pelo Instituto Educacional Oswaldo Quirino, com sede na Cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007558-0-000-17-05-1945@@@
-
 DECRETO-LEI N. 7.558 – DE 17 DE MAIO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 938.425,80, para cobertura do deficit verificado no exercício de 1944 na exploração dos serviços da “Compagnia Italiana dei Cavi Telegratici Sottomarini”.

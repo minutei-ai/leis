@@ -1,5 +1,3 @@
-###DEL-004915-0-000-05-11-1942@@@
-
 DECRETO-LEI N. 4.915 – DE 5 DE NOVEMBRO DE 1942
 
 Cria Corpos de Base Aérea

@@ -1,5 +1,3 @@
-###DEC-094067-0-000-27-02-1987@@@
-
 DECRETO N° 94.067, DE 27 DE FEVEREIRO DE 1987
 
 Fixa o percentual de não numerados de Capitães-de-Mar-e-Guerra dos diversos Corpos de Carreira da Marinha, definitivamente impossibilitados de acesso ao primeiro Posto de Oficial-General.

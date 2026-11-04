@@ -1,5 +1,3 @@
-###DEC-050001-0-000-24-01-1961@@@
-
 DECRETO Nº 50.001, DE 24 DE JANEIRO DE 1961.
 
 Autoriza Agricobraz - Sociedade de Expansão Agrícola e Comercial Limitada a lavrar água mineral no município de Campos do Jordão, Estado de São Paulo.

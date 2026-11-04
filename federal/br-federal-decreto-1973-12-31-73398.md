@@ -1,5 +1,3 @@
-###DEC-073398-0-000-31-12-1973@@@
-
 decreto nº 73.398 - de 31 de dezembro de 1973
 
 Concede permissão, em caráter permanente, à COPAMO - Consórcio Paulista de Monômero S.A., com sede em São Paulo, para funcionar, no seu estabelecimento industrial, situado em Vila Elcior Km 38, da Estrada de Ferro Santos - Jundiaí, no município de Santo André, Estado de São Paulo, nos setores de: produção, laboratório, manutenção e segurança, aos domingos e nos dias de feriados civis e religiosos.

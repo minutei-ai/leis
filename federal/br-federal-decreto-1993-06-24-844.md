@@ -1,7 +1,3 @@
-1
-
-###DEC-000844-0-000-24-06-1993@@@
-
 DECRETO N° 844, DE 24 DE JUNHO DE 1993
 
 Dispõe sobre a exclusão do Programa Nacional de Desestatização, criado pela Lei n° 8.031, de 12.4.1990, da Petrobrás Fertilizantes S.A. (PETROFÉRTIL) e da Fertilizantes Nitrogenados do Nordeste S.A. (NITROFÉRTIL).

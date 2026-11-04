@@ -1,7 +1,3 @@
-1
-
-###MPV-001142-0-000-29-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.142, DE 29 DE SETEMBRO DE 1995.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

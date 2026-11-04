@@ -1,5 +1,3 @@
-###DEC-092399-0-000-17-02-1986@@@
-
 # DECRETO Nº 92.399, DE 17 DE FEVEREIRO DE 1986
 
 Vincula a Secretaria de Modernização e Reforma Administrativa - SEMOR, ao Ministro de Estado Extraordinário para Assuntos de Administração, e dá outras providências.

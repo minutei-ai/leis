@@ -1,5 +1,3 @@
-###DEC-046976-0-000-07-10-1959@@@
-
 DECRETO Nº 46.976, DE 7 DE OUTUBRO DE 1959.
 
 Abre, pelo Ministério da Agricultura, o crédito especial de Cr$500.000,00, para ocorrer a despesa de tôda e qualquer natureza efetuadas com a IV Festa Nacional do Trigo e Exportação Agro-Pecuária e Industrial no Município de Caràzinho, Estado do Rio Grande do Sul.

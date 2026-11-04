@@ -1,5 +1,3 @@
-###DEC-053109-0-000-10-12-1963@@@
-
 Decreto nº 53.109, de 10 de dezembro de 1963.
 
 Aprova usina hidrelétrica instalada no açude público de Pentecoste, Estado do Ceará, pelo Departamento Nacional de Obras contra as Sêcas.

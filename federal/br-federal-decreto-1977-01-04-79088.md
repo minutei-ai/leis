@@ -1,5 +1,3 @@
-###DEC-079088-0-000-04-01-1977@@@
-
 DECRETO nº 79.088, de 4 de janeiro de 1977.
 
 Concede reconhecimento ao curso de Enfermagem, da Pontifícia Universidade Católica de Campinas, Estado de São Paulo.

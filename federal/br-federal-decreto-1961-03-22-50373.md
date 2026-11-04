@@ -1,5 +1,3 @@
-###DEC-050373-0-000-22-03-1961@@@
-
 DECRETO Nº 50.373, DE 22 DE MARÇO DE 1961.
 
 Dispões sôbre exercício da função gratificada na Secretaria de Estado das Relações Exteriores.

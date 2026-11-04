@@ -1,5 +1,3 @@
-###DEC-069356-0-000-14-10-1971@@@
-
 Decreto Nº 69.356, DE 14 DE outubro DE 1971.
 
 Concede permissão, em caráter permanente, à empresa "Brasital Sociedade Anônima para a Indústria e o Comércio", para funcionar aos domingos e nos dias feriados civis e religiosos.

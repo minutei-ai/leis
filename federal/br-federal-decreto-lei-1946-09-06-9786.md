@@ -1,5 +1,3 @@
-###DEL-009786-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.786 – DE 6 DE SETEMBRO DE 1946
 
 Fixa currículo mínimo para o curso de sociologia e política e reconhece a Escola Livre de Sociologia e Política, de São Paulo.

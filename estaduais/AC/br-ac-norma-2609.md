@@ -1,6 +1,10 @@
 > **LEI Nº 3.608, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a criar aplicativo para dispositivo móvel de marcação de consultas e exames, na rede pública estadual de saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a criar aplicativo para dispositivo móvel de marcação de consultas e exames, na rede pública estadual de saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-045068-0-000-20-12-1958@@@
-
 decreto nº 45.068, de 20 de dezembro de 1958.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra.

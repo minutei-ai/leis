@@ -1,5 +1,3 @@
-###DEC-062291-0-000-21-02-1968@@@
-
 decreto nº 62.291, de 21 de fevereiro de 1968.
 
 Declara de utilidade pública o Hospital Nossa Senhora do Rosário, com sede em Tapera, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-092790-0-000-17-06-1986@@@
-
 DECRETO Nº 92.790, DE 17 DE JUNHO DE 1986
 
 Regulamenta a Lei nº 7.394, de 29 de outubro de 1985, que regula o exercício da profissão de Técnico em Radiologia e dá outras providências.

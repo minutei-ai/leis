@@ -1,5 +1,3 @@
-###DEC-067247-0-000-23-09-1970@@@
-
 decreto nº 67.247, de 23 de setembro de 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 52.207, de 2 de julho de 1963, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "São Mateus" no município de Canindé, Estado do Ceará.

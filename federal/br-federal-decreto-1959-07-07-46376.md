@@ -1,5 +1,3 @@
-###DEC-046376-0-000-07-07-1959@@@
-
 DECRETO Nº 46.376, DE 7 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho com a finalidade de estudar e planejar o financiamento e a execução de um programa de educação de base no Nordeste, utilizando a radiodifusão.

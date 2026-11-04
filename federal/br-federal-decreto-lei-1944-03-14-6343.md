@@ -1,5 +1,3 @@
-###DEL-006343-0-000-14-03-1944@@@
-
 DECRETO-LEI N. 6.343 – DE 14 DE MARÇO DE 1944
 
 Dispõe sôbre o tempo de servico da pessoal extranumerário dos serviços meteorológicos transferidos para a União

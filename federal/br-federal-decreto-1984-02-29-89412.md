@@ -1,5 +1,3 @@
-###DEC-089412-0-000-29-02-1984@@@
-
 Decreto nº 89.412, de 29 de fevereiro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

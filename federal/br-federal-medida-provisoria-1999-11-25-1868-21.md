@@ -1,5 +1,3 @@
-###MPV-001868-0-021-25-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.868-21, DE 25 DE NOVEMBRO DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

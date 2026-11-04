@@ -1,5 +1,3 @@
-###DEC-056384-0-000-31-05-1965@@@
-
 DECRETO Nº 56.384, DE 31 DE maio DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situado no Município de Miracatu - Estado de São Paulo.

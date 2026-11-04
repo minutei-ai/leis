@@ -1,5 +1,3 @@
-###MPV-001960-0-067-24-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.960-67, DE 24 DE outubro DE 2000.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

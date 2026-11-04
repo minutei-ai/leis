@@ -1,5 +1,3 @@
-###DEC-051928-B-000-26-04-1963@@@
-
 DECRETO Nº 51.928-B, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Luiz Angelo, a comprar pedras preciosas.

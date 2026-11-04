@@ -1,5 +1,3 @@
-###DEC-052072-0-000-27-05-1963@@@
-
 DECRETO Nº 52.072, DE 27 DE MAIO DE 1963.
 
 Declara de utilidade pública a “Irmandade Senhor dos Passos e Santa Casa de Misericórdia de Guaratinguetá” com sede em Guaratinguetá, Estado de São Paulo.

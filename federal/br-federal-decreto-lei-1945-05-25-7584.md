@@ -1,5 +1,3 @@
-###DEL-007584-0-000-25-05-1945@@@
-
 DECRETO-LEI N. 7.584 – DE 25 DE MAIO DE 1945
 
 Dispõe sôbre a aquisição de material pelo D. F. C. e dá outras providências

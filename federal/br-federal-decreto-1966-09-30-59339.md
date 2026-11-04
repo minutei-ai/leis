@@ -1,5 +1,3 @@
-###DEC-059339-0-000-30-09-1966@@@
-
 DECRETO Nº 59.339, DE 30 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Laudenor Lins a lavrar gipsita no município de Ouricuri, Estado de Pernambuco.

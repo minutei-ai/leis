@@ -1,5 +1,3 @@
-###DEL-005640-0-000-01-07-1943@@@
-
 DECRETO‑LEI N. 5.640 – DE 1 DE JULHO DE  1943
 
 Concede pensão especial a Sílvia Binari Wyatt, viúva do 1º Sargento do  Exército Luiz Frederico Wyatt

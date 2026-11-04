@@ -1,5 +1,3 @@
-###DEC-093319-0-000-01-10-1986@@@
-
 DECRETO Nº 93.319, DE 1 DE OUTUBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São José", situado no Município de Viçosa do Ceará, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, e dá outras providências.

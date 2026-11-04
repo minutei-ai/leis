@@ -1,5 +1,3 @@
-###DEC-094136-0-000-24-03-1987@@@
-
 DECRETO Nº 94.136, DE 24 DE MARÇO DE 1987.
 
 Aprova o Regulamento para os Quadros de Oficiais Auxiliares da Marinha.

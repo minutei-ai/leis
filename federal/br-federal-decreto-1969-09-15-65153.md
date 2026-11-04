@@ -1,5 +1,3 @@
-###DEC-065153-0-000-15-09-1969@@@
-
 DECRETO Nº 65.153, DE 15 DE SETEMBRO DE 1969.
 
 Declara caduco o Decreto nº 10.015, de 17 de julho de 1942.

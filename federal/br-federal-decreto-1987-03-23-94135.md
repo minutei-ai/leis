@@ -1,5 +1,3 @@
-###DEC-094135-0-000-23-03-1987@@@
-
 DECRETO Nº 94.135, DE 23 DE MARÇO DE 1987.
 
 Altera a redação do caput do artigo 3º do Decreto nº 93.933, de 14 de janeiro de 1987.

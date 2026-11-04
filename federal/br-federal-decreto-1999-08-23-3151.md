@@ -1,5 +1,3 @@
-###DEC-003151-0-000-23-08-1999@@@
-
 DECRETO Nº 3.151, DE 23 DE AGOSTO DE 1999.
 
 Disciplina a prática dos atos de extinção e de declaração de desnecessidade de cargos públicos, bem assim a dos atos de colocação em disponibilidade remunerada e de aproveitamento de servidores públicos em decorrência da extinção ou da reorganização de órgãos ou entidades da Administração Pública Federal direta, autárquica e fundacional.

@@ -1,5 +1,3 @@
-###DEC-047685-0-000-20-01-1960@@@
-
 DECRETO Nº 47.685, DE 20 DE JANEIRO DE 1960.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento do capital social da Companhia de Seguros Marítimos e Terrestres “Indenizadora”.

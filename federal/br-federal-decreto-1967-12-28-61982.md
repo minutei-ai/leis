@@ -1,5 +1,3 @@
-###DEC-061982-0-000-28-12-1967@@@
-
 DECRETO Nº 61.982, DE 28 DE DEZEMBRO DE 1967.
 
 Altera o art. 56 do Decreto número 8.681, de 5 de fevereiro de 1942 (Regulamento dos Serviços do Pôrto do Rio de Janeiro).

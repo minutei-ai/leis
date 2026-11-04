@@ -1,5 +1,3 @@
-###DEC-078539-0-000-06-10-1976@@@
-
 DECRETO Nº 78.539, DE 6 DE OUTUBRO DE 1976.
 
 Autoriza a transferência direta para a Rádio Difusora de Londrina Ltda, da concessão outorgada à Rádio Difusora Paraná Ltda, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Londrina, Estado do Paraná.

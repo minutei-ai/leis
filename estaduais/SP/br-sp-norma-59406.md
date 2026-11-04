@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59406)
-
 # LEI Nº 12.160, DE 20 DE DEZEMBRO DE 2005
 
 ## ( PL 691/2004 - José Bittencourt)

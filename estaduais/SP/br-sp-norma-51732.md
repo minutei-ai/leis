@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51732)
-
 # LEI Nº 11.786, DE 09 DE SETEMBRO DE 2004
 
 ## (PL 496/2003 - Valdomiro Lopes)

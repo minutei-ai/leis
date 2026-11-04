@@ -1,5 +1,3 @@
-###DEL-003005-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.005 – DE 30 DE JANEIRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 600:000$0, para despesas da Comissão Interamericana de Neutralidade.

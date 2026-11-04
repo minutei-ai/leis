@@ -1,5 +1,3 @@
-###DEC-004498-0-000-04-12-2002@@@
-
 DECRETO Nº 4.498, DE 4 DE DEZEMBRO DE 2002
 
 Altera o Decreto nº 4.091, de 16 de janeiro de 2002, que distribui os efetivos de Oficiais da Marinha e fixa os percentuais mínimos dos cargos que serão ocupados, exclusivamente, por Oficiais do sexo masculino, para 2002.

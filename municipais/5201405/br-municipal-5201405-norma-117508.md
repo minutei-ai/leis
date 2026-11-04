@@ -1,4 +1,5 @@
-DECRETO “N” Nº 993 DE 19 DE NOVEMBRO DE 2024.<br>
+DECRETO “N” Nº 993 DE 19 DE NOVEMBRO DE 2024.
+
 (Revogado pelo Decreto "N" Nº 993, de 18 de junho de 2026).
 
 ~~Dispõe sobre remembramento de imóveis.~~
@@ -30,8 +31,10 @@ DECRETO “N” Nº 993 DE 19 DE NOVEMBRO DE 2024.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 19 de novembro de 2024.~~
 
-~~ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+~~ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana~~<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana~~

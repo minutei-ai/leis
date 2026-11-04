@@ -1,5 +1,3 @@
-###DEC-071694-0-000-12-01-1973@@@
-
 DECRETO Nº 71.694, DE 12 DE JANEIRO DE 1973.
 
 Confisca bem do cidadão Décio Maia Rubim, domiciliado no Estado da Guanabara, para a reparação de danos causados ao patrimônio público, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086780-0-000-23-12-1981@@@
-
 Decreto nº 86.780, de 23 de dezembro de 1981
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 85.523, de 16 de dezembro de 1980.

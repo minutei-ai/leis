@@ -1,5 +1,3 @@
-###DEC-078941-0-000-15-12-1976@@@
-
 DECRETO N° 78.941, DE 15 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para fins desapropriação, áreas de terra e benfeitorias destinadas à formação do reservatório da Usina Hidroelétrica de Água Vermelha, no rio Grande, e localizadas em diversos Municípios dos Estados de São Paulo e Minas Gerais.

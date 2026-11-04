@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208789)<br>
-
 # DECRETO N° 68.074, DE 09 DE NOVEMBRO DE 2023
 
 ### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Educação, a administração do imóvel que especifica, localizado no Município de Santa Isabel._

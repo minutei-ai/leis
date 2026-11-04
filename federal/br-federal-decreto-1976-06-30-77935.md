@@ -1,5 +1,3 @@
-###DEC-077935-0-000-30-06-1976@@@
-
 Decreto nº 77.935, de 30 de junho de 1976.
 
 Concede à Companhia Catarinense de Cimento Portland o direito de lavrar calcário no Município de Camboriú, Estado de Santa Catarina.

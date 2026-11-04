@@ -1,5 +1,3 @@
-###DEL-005092-0-000-15-12-1942@@@
-
 DECRETO-LEI N. 5.092 – DE 15 DE DEZEMBRO DE 1942
 
 Reorganiza o Departamento Nacional da Trabalho, do Ministério do Trabalho, Indústria e Comércio, e dá outras providências

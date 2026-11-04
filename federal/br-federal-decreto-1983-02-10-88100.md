@@ -1,5 +1,3 @@
-###DEC-088100-0-000-10-02-1983@@@
-
 DECRETO Nº 88.100, DE 10 DE FEVEREIRO DE 1983.
 
 Altera o Decreto nº 84.737, de 27 de maio de 1980, que cria, no Ministério das Relações Exteriores, a Comissão Brasileira para o Programa Hidrológico Internacional (PHI), e dá outras providências.

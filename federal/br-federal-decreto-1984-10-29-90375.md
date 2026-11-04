@@ -1,5 +1,3 @@
-###DEC-090375-0-000-29-10-1984@@@
-
 Decreto nº 90.375, de 29 de outubro de 1984.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

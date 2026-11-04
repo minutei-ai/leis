@@ -1,5 +1,3 @@
-###DEC-070030-0-000-24-01-1972@@@
-
 DECRETO Nº 70.030, DE 24 DE JANEIRO DE 1972.
 
 Concede à Osaki Mineração Ltda, o direito de lavrar baunita fosforosa, no município de Godofredo Viana, Estado do Maranhão.

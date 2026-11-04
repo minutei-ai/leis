@@ -1,5 +1,3 @@
-###DEC-007557-0-000-26-08-2011-PUB-01@@@
-
 DECRETO N° 7.557, DE 26 DE AGOSTO DE 2011
 
 Altera o Decreto n° 7.304, de 22 de setembro de 2010, que dispõe sobre a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Relações Exteriores.

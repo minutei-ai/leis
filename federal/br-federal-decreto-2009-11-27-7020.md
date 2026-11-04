@@ -1,5 +1,3 @@
-###DEC-007020-0-000-27-11-2009@@@
-
 DECRETO Nº 7.020, DE 27 DE NOVEMBRO DE 2009.
 
 Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo da República do Peru para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal com Relação ao Imposto sobre a Renda, firmada em Lima, em 17 de fevereiro de 2006.

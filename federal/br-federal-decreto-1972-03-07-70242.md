@@ -1,5 +1,3 @@
-###DEC-070242-0-000-07-03-1972@@@
-
 DECRETO Nº 70.242, DE 7 DE MARÇO DE 1972.
 
 Concede reconhecimento à Faculdade de Ciências Jurídicas de Blumenau, Estado de Santa Catarina.

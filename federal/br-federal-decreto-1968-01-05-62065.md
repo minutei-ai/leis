@@ -1,5 +1,3 @@
-###DEC-062065-0-000-05-01-1968@@@
-
 Decreto nº 62.065, de 5 de janeiro de 1968.
 
 Autoriza Minérios Raiz da Serra Limitada, a lavrar argila no município de Mogi das Cruzes, Estado de São Paulo.

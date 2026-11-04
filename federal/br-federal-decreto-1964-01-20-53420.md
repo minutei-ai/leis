@@ -1,5 +1,3 @@
-###DEC-053420-0-000-20-01-1964@@@
-
 DECRETO Nº 53.420, DE 20 DE JANEIRO DE 1964.
 
 Retifica o artigo 1º do Decreto número 47.501, de 28 de dezembro de 1959.

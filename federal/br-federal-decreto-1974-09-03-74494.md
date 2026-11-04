@@ -1,5 +1,3 @@
-###DEC-074494-0-000-03-09-1974@@@
-
 DECRETO Nº 74.494, DE 3 DE SETEMBRO DE 1974.
 
 Declara perempta a concessão outorgada à Sociedade Rádio Emissora Metropolitana Ltda., para executar serviço de radiodifusão sonora em freqüência modulada, na Cidade do Rio de Janeiro, Estado da Guanabara.

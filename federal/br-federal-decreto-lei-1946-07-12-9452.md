@@ -1,5 +1,3 @@
-###DEL-009452-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.452 – DE 12 DE JULHO DE 1946
 
 Autoriza a concessão de um crédito à Companhia de Eletricidade Paraense, de Belém, Estado do Pará, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083695-0-000-05-07-1979@@@
-
 Decreto nº 83.695, de 05 de julho de 1979.
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A - ELETROBRÁS.

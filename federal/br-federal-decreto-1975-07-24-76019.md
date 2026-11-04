@@ -1,5 +1,3 @@
-###DEC-076019-0-000-24-07-1975@@@
-
 DECRETO Nº 76.019 - DE 24 DE JULHO DE 1975
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Ceará.

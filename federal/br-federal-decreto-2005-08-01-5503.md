@@ -1,5 +1,3 @@
-###DEC-005503-0-000-01-08-2005@@@
-
 DECRETO Nº 5.503, DE 1º DE AGOSTO DE 2005.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Eslovaca sobre Isenção Parcial de Vistos, celebrado em Bratislava, em 12 de novembro de 2003.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 2.8.2005
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ESLOVACA SOBRE ISENÇÃO PARCIAL DE VISTOS
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ESLOVACA SOBRE ISENÇÃO PARCIAL DE VISTOS
 
         O Governo da República Federativa do Brasil
 

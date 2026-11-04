@@ -1,7 +1,3 @@
-1
-
-###DEC-099072-0-000-08-03-1990@@@
-
 DECRETO Nº 99.072, DE 8 DE MARÇO DE 1990.
 
 Altera o Regulamento dos serviços públicos rodoviários de transporte coletivo de passageiros, interestaduais e internacionais, e dá outras providências.

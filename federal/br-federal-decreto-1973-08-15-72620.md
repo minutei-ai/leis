@@ -1,5 +1,3 @@
-###DEC-072620-0-000-15-08-1973@@@
-
 DECRETO Nº 72.620, DE 15 DE AGOSTO DE 1973.
 
 Subordina diversos órgãos à Diretoria de Assuntos Especiais, Educação Física e Desportos e à Diretoria de Ensino Preparatório e Assistencial, do Ministério do Exército, e dá outras providências.

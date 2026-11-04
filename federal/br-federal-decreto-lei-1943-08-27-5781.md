@@ -1,6 +1,4 @@
-###DEL-005781-0-000-27-08-1943@@@
-
-                   DECRETO–LEI N. 5.781 – DE 27 DE AGÔSTO DE 1943
+DECRETO–LEI N. 5.781 – DE 27 DE AGÔSTO DE 1943
 
 Derroga o decreto‑lei n. 5.751 – de 16 de agôsto de 1943
 

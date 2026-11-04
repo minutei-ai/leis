@@ -1,5 +1,3 @@
-###DEC-006573-0-000-19-09-2008@@@
-
 DECRETO Nº 6.573, DE 19 DE SETEMBRO DE 2008.
 
 Fixa coeficiente para redução das alíquotas especificas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes sobre a receita bruta auferida na venda de álcool e estabelece os valores dos créditos dessas contribuições que podem ser descontados na aquisição de álcool anidro para adição à gasolina.

@@ -1,5 +1,3 @@
-###DEC-052747-0-000-24-10-1963@@@
-
 DECRETO Nº 52.747, de 24 de outubro de 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerais S. A. a constituir linhas de transmissão.

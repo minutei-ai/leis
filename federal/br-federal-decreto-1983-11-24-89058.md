@@ -1,5 +1,3 @@
-###DEC-089058-0-000-24-11-1983@@@
-
 DECRETO Nº 89.058, de 24 de novembro de 1983.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, destinados ao Ministério do Exército.

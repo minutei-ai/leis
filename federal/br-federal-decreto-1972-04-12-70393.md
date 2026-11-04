@@ -1,5 +1,3 @@
-###DEC-070393-0-000-12-04-1972@@@
-
 DECRETO Nº 70.393, DE 12 DE ABRIL DE 1972.
 
 Declara de utilidade pública o Educandário Santa Isabel, com sede em Bandeirantes, Estado do Paraná.

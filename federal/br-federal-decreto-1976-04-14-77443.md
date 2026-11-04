@@ -1,5 +1,3 @@
-###DEC-077443-0-000-14-04-1976@@@
-
 DECRETO Nº 77.443, DE 14 DE ABRIL DE 1976
 
 Reorganiza o Conselho de Desenvolvimento Industrial e dá outras providências.

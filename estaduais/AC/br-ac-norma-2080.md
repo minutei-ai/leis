@@ -2,7 +2,11 @@ Modificada pela Lei Complementar nº [383, de 08 de Junho de 2021.](https://legi
 
 > **LEI Nº 3.366, DE 27 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa de Educação Integral e as Escolas Jovens, de ensino médio em tempo integral, na rede pública de educação básica do Estado</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa de Educação Integral e as Escolas Jovens, de ensino médio em tempo integral, na rede pública de educação básica do Estado
+
+</td></tr></tbody></table>
 
 #### **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -138,9 +142,9 @@ Modificada pela Lei Complementar nº [383, de 08 de Junho de 2021.](https://legi
 
 #### **~~Art. 13.~~** ~~Todos os profissionais lotados nas Escolas Jovens farão jus a uma bolsa de incentivo ao estudo, pesquisa e ao aprimoramento profissional, no período de implementação do Programa de Educação Integral, não sendo esta incorporada aos vencimentos.~~
 
-#### ****Art. 13.**** Todos os profissionais lotados nas Escolas Jovens farão jus a uma bolsa de incentivo ao estudo, pesquisa e ao aprimoramento profissional, enquanto perdurar o programa instituído por esta lei, não sendo esta incorporada aos vencimentos e nem computada para nenhum fim. (Redação dada pela Lei Complementar nº 383, de 08/06/2021)
+#### Art. 13. Todos os profissionais lotados nas Escolas Jovens farão jus a uma bolsa de incentivo ao estudo, pesquisa e ao aprimoramento profissional, enquanto perdurar o programa instituído por esta lei, não sendo esta incorporada aos vencimentos e nem computada para nenhum fim. (Redação dada pela Lei Complementar nº 383, de 08/06/2021)
 
-#### <br>
+####
 
 #### **Parágrafo único.** Os valores das bolsas serão estabelecidos anualmente, por ato normativo do secretário de SEE, nos termos da Lei nº 3.129, de 23 de maio de 2016, e suas alterações posteriores.
 

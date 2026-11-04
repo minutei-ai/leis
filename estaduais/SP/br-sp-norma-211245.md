@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211245)<br>
-
 # DECRETO N° 69.746, DE 28 DE JULHO DE 2025
 
 ### _Autoriza a outorga de uso, à Legião Mirim de Pederneiras, do imóvel que especifica, e dá providências correlatas._

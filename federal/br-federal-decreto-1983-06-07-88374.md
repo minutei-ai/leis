@@ -1,5 +1,3 @@
-###DEC-088374-0-000-07-06-1983@@@
-
 # Decreto nº 88 374, de 07 de junho de 1983
 
 Altera dispositivos do Decreto nº 87.043, de 22 de março de 1982, que regulamenta o Decreto-lei nº 1.422, de 23.10.75, o qual dispõe sobre o cumprimento do art. 178, caput, da Constituição por empresas e empregadores de toda natureza, e dá outras providências.
@@ -73,8 +71,6 @@ Brasília, 7 de junho de 1983; 162º da Independência e 95º da República.
 JOÃO FIGUEIREDO
 
 Esther de Figueiredo Ferraz
-
-###DEC-088374-0-000-07-06-1983@@@RET01+++
 
 # DECRETO Nº 88.374, dE 07 DE JUNHO DE 1983
 

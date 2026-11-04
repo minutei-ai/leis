@@ -1,5 +1,3 @@
-###DEC-079386-0-000-14-03-1977@@@
-
 DECRETO Nº 79.386, DE 14 DE MARÇO DE 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

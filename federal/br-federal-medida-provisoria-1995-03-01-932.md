@@ -1,7 +1,3 @@
-1
-
-###MPV-000932-0-000-01-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 932, DE 1º DE MARÇO DE 1995.
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

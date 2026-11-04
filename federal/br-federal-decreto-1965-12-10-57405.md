@@ -1,5 +1,3 @@
-###DEC-057405-0-000-10-12-1965@@@
-
 DECRETO Nº 57.405, DE 10 DE DEZEMBRO DE 1965.
 
 Transfere o 17º Regimento de Cavalaria e dá outras providências.

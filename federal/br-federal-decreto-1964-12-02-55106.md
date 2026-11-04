@@ -1,5 +1,3 @@
-###DEC-055106-0-000-02-12-1964@@@
-
 DECRETO Nº 55.106, DE 2 DE DEZEMBRO DE 1964.
 
 Autoriza a S.A. Emprêsa de Fôrça e Luz - Ibero Americana a construir linha de transmissão.

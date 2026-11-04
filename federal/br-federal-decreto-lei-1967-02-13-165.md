@@ -1,5 +1,3 @@
-###DEL-000165-0-000-13-02-1967@@@
-
 DECRETO-LEI Nº 165, DE 13 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a isenção ou redução do impôsto sôbre a transferência de juros para o exterior, quando houver acôrdo tributário.

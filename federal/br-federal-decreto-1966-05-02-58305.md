@@ -1,5 +1,3 @@
-###DEC-058305-0-000-02-05-1966@@@
-
 DECRETO Nº 58.305, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Addis Ewaldo Ducat a pesquisar mármore no município de Rio Branco do Sul, Estado do Paraná.

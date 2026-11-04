@@ -1,5 +1,3 @@
-###DEC-091821-0-000-22-10-1985@@@
-
 Decreto nº 91.821, de 22 de outubro de 1985
 
 Renova a concessão outorgada à RÁDIO CRUZEIRO DO SUL DE LONDRINA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Londrina, Estado do Paraná.

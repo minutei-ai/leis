@@ -1,5 +1,3 @@
-###DEC-068692-0-000-28-05-1971@@@
-
 DECRETO Nº 68.692 - DE 28 DE MAIO DE 1971.
 
 Declara de utilidade pública o Instituto e Orfanato São José, com sede em Alegre, Estado do Espírito Santo.

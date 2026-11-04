@@ -1,5 +1,3 @@
-###DEC-060329-0-000-08-03-1967@@@
-
 DECRETO Nº 60.329, DE 8 DE MARÇO DE 1967.
 
 Altera disposições do Decreto número 51.860, de 22 de março de 1963.

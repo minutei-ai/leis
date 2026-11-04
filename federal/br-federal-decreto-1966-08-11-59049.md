@@ -1,5 +1,3 @@
-###DEC-059049-0-000-11-08-1966@@@
-
 DECRETO Nº 59.049, DE 11 DE AGÔSTO DE 1966.
 
 declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

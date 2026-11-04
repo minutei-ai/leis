@@ -1,5 +1,3 @@
-###DEC-085023-0-000-11-08-1980@@@
-
 Decreto nº 85.023, de 11 de agosto de 1980
 
 Altera o Regulamento da Ordem do Mérito Aeronáutico e dá outras providências.

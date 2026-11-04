@@ -1,5 +1,3 @@
-###DEC-058921-0-000-27-07-1966@@@
-
 DECRETO Nº 58.921, DE 27 DE JULHO DE 1966.
 
 Suspende as atividades da União Estadual dos Estudantes de Minas Gerais.

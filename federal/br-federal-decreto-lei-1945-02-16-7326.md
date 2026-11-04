@@ -1,5 +1,3 @@
-###DEL-007326-0-000-16-02-1945@@@
-
 DECRETO-LEI N. 7.326 – DE 16 DE FEVEREIRO DE 1945
 
 Prorroga o prazo concedido aos brasileiros naturalizados para deixarem o exercício das atividades remuneradas reservadas, no art. 149, da Constituição, aos brasileiros natos

@@ -1,5 +1,3 @@
-###MPV-001955-0-073-19-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.955-73, DE 19 de outubro DE 2000.
 
 Dispõe sobre o pagamento dos militares e dos Servidores Públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

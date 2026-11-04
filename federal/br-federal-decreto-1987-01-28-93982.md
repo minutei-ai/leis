@@ -1,5 +1,3 @@
-###DEC-093982-0-000-28-01-1987@@@
-
 DECRETO Nº 93.982, DE 28 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Lotes nºs 167, 168, 169, 170, 172, 173, 175 e 176", classificados no Cadastro de Imóveis Rurais do INCRA, como latifúndio por exploração, situados no Município de Presidente Figueiredo, no Estado do Amazonas, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.679, de 19 de maio de 1986, e dá outras providências.

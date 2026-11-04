@@ -1,7 +1,3 @@
-1
-
-###DEC-001737-0-000-07-12-1995@@@
-
 DECRETO Nº 1.737, DE 7 DE DEZEMBRO DE 1995.
 
 Regula a supervisão da administração dos servidores civis da União postos à disposição dos Governos dos Estados de Rondônia, de Roraima e do Amapá e dá outras providências.

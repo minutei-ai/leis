@@ -1,5 +1,3 @@
-###DEC-005451-0-000-01-06-2005@@@
-
 DECRETO Nº 5.451, DE 1º DE JUNHO DE 2005
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1.556, de 30 de julho de 2004, do Conselho de Segurança das Nações Unidas, que estabelece, entre outras providências, embargo de armas a entidades não-governamentais e indivíduos operando na região de Darfur, no Sudão.

@@ -1,5 +1,3 @@
-###MPV-001498-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.498, DE 7 DE JUNHO DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

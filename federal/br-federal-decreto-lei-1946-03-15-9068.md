@@ -1,5 +1,3 @@
-###DEL-009068-0-000-15-03-1946@@@
-
 DECRETO-LEI Nº 9.068, DE 15 DE MARÇO DE 1946
 
 Dispõe sôbre a extinção do Departamento Nacional do Café e dá outras providências.

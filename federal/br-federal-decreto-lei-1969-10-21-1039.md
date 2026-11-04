@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/090d7d19-960a-44e0-8e20-ecc7a2ea59c8/texto#nowhere)
 
-###DEL-001039-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.039, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a administração e colocação dos seguros de interêsse de Sociedades de Economia Mista e dá outras providências.

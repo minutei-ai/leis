@@ -1,7 +1,3 @@
-1
-
-###DEC-099426-0-000-31-07-1990@@@
-
 DECRETO N° 99.426, DE 31 DE JULHO DE 1990
 
 Dispõe sobre a renovação de registro ou licença dos estabelecimentos e produtos que menciona.

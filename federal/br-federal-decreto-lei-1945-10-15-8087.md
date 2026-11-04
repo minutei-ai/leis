@@ -1,5 +1,3 @@
-###DEL-008087-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.087 – DE 15 DE OUTUBRO DE 1945
 
 Cria novas Juntas de Conciliação e Julgamento e dá outras providências

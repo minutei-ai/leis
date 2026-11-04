@@ -1,5 +1,3 @@
-###DEC-065023-0-000-20-08-1969@@@
-
 DECRETO Nº 65.023 - DE 20 DE AGÔSTO DE 1969.
 
 Concede  autorização à Confederação Nacional dos Trabalhadores em Comunicações e Publicidades para  filiar-se à Organização Regional Interamericana de Trabalhadores (ORIT).

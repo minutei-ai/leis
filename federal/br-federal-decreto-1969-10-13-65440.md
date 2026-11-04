@@ -1,5 +1,3 @@
-###DEC-065440-0-000-13-10-1969@@@
-
 DECRETO Nº 65.440 - DE 13 DE OUTUBRO DE 1969.
 
 Determina a intervenção administrativa nos serviços públicos de energia elétrica do distrito de Caruaru, município de Caruaru, Estado de Pernambuco, e dá outras providências.

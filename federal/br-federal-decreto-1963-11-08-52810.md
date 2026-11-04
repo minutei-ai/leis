@@ -1,5 +1,3 @@
-###DEC-052810-0-000-08-11-1963@@@
-
 DECRETO Nº 52.810, DE 8 DE NOVEMBRO DE 1963.
 
 Aprova o Regimento da Comissão de Planejamento da Política Agrícola do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEC-073369-0-000-26-12-1973@@@
-
 DECRETO Nº 73.369 - DE 26 DE DEZEMBRO DE 1973
 
 Inclui as naftas derivadas do petróleo no regime estabelecido pelo Decreto nº 4.071, de 12 de maio de 1939.

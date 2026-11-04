@@ -1,5 +1,3 @@
-###DEC-074845-0-000-06-11-1974@@@
-
 DECRETO Nº 74.845, DE 6 DE NOVEMBRO DE 1974.
 
 Concede autorização às Companhias Arthur Levy Boat Services, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda. Para operarem na plataforma continental, a serviço da Petróleo Brasileiro S.A - PRETROBRÁS.

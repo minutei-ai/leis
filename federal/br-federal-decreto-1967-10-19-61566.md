@@ -1,5 +1,3 @@
-###DEC-061566-0-000-19-10-1967@@@
-
 Decreto nº 61.566, de 19 de outubro de 1967.
 
 Cria a Embaixada do Brasil no Estado de Singapura, cumulativa com a Embaixada do Brasil em Bangkok.

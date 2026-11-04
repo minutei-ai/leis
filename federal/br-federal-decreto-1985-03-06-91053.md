@@ -1,5 +1,3 @@
-###DEC-091053-0-000-06-03-1985@@@
-
 Decreto nº 91.053, de 06 de março de 1985
 
 Autoriza o aumento do Capital Social da Companhia Vale do Rio Doce - CVRD.

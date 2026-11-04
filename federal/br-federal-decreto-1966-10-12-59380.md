@@ -1,5 +1,3 @@
-###DEC-059380-0-000-12-10-1966@@@
-
 Decreto nº 59.380, de 12 de outubro de 1966.
 
 Transfere da Termoelétrica de Charqueadas S.A. para a Termoelétrica de Alegrete S.A. a autorização para montar usina termoelétrica em Alegrete.

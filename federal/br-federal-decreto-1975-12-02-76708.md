@@ -1,5 +1,3 @@
-###DEC-076708-0-000-02-12-1975@@@
-
 DECRETO Nº 76.708, DE 2 DE DEZEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio de Janeiro.

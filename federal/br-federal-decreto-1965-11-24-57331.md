@@ -1,5 +1,3 @@
-###DEC-057331-0-000-24-11-1965@@@
-
 DECRETO Nº 57.331, DE 24 DE NOVEMBRO DE 1965.
 
 Autoriza a Mineração Lagoa Grande Ltda., a funcionar como emprêsa de mineração.

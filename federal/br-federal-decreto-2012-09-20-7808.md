@@ -1,5 +1,3 @@
-###DEC-007808-0-000-20-09-2012-PUB-01@@@
-
 DECRETO N° 7.808, DE 20 DE SETEMBRO DE 2012
 
 Cria a Fundação de Previdência Complementar do Servidor Público Federal do Poder Executivo - Funpresp-Exe, dispõe sobre sua vinculação no âmbito do Poder Executivo e dá outras providências.

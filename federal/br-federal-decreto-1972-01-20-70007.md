@@ -1,5 +1,3 @@
-###DEC-070007-0-000-20-01-1972@@@
-
 DECRETO Nº 70.007, DE 20 DE JANEIRO DE 1972
 
 Declara de utilidade pública a Irmandade de São João Batista de Macaé, com sede em Macaé , Estado do Rio de Janeiro.

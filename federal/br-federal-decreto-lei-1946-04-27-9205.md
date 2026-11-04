@@ -1,5 +1,3 @@
-###DEL-009205-0-000-27-04-1946@@@
-
 DECRETO-LEI N. 9.205 – DE 27 DE ABRIL DE 1946
 
 Extingue o cargo de 17º Avaliador Judicial da Justiça do Distrito Federal

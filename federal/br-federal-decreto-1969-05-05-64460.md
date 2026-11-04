@@ -1,5 +1,3 @@
-###DEC-064460-0-000-05-05-1969@@@
-
 DECRETO Nº 64.460, DE 5 de maio DE 1969.
 
 Estabelece normas para lotação do pessoal do Ministério da Agricultura e dá outras providências.

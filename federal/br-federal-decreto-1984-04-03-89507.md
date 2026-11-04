@@ -1,5 +1,3 @@
-###DEC-089507-0-000-03-04-1984@@@
-
 DECRETO Nº 89.507, de 03 de abril de 1984.
 
 Aumenta o interstício no posto de Major do Quadro de Engenheiros Militares do Exército, para as promoções de 30 de abril e 30 de agosto de 1984.

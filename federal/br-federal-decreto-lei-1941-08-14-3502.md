@@ -1,5 +1,3 @@
-###DEL-003502-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.502 – DE 14 DE AGOSTO DE 1941
 
 Dispõe sobre o Instituto de Aposentadoria e Pensões dos Comerciários e dá outras providências

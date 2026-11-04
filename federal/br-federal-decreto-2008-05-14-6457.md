@@ -1,5 +1,3 @@
-###DEC-006457-0-000-14-05-2008@@@
-
 DECRETO Nº 6.457, DE 14 DE MAIO DE 2008.
 
 Dispõe sobre a criação da Medalha “120 Anos da Sanção da Lei Áurea”.
@@ -25,5 +23,3 @@ Brasília, 14 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Edson Santos de Souz
-
-Este texto não substitui o publicado no DOU de 15.5.2008

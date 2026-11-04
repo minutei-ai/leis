@@ -1,5 +1,3 @@
-###DEC-069390-0-000-20-10-1971@@@
-
 DECRETO Nº 69.390, DE 20 de OUTUBRO DE 1971.
 
 Prorroga prazo de concessão para uso exclusivo.

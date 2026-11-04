@@ -16,7 +16,8 @@ Goiânia, 8 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -27,6 +28,6 @@ ANEXO ÚNICO
 
 CARGOS DE PROVIMENTO EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
-<table><thead></thead><tbody><tr><td style="text-align:center">TIPO</td><td style="text-align:center">SÍMBOLO</td><td style="text-align:center">SUBSÍDIO</td><td style="text-align:center">QUANTIDADE</td></tr><tr><td style="text-align:center">......................................</td><td style="text-align:center">......................................</td><td style="text-align:center">..............................</td><td style="text-align:center">...............................</td></tr><tr><td rowspan="4" style="text-align:center">Assessoramento Intermediário</td><td style="text-align:center">......................................</td><td style="text-align:center">..............................</td><td style="text-align:center">...............................</td></tr><tr><td style="text-align:center">......................................</td><td style="text-align:center">..............................</td><td style="text-align:center">..............................</td></tr><tr><td style="text-align:center">A8</td><td style="text-align:center">..............................</td><td style="text-align:center">972</td></tr><tr><td style="text-align:center">......................................</td><td style="text-align:center">..............................</td><td style="text-align:center">...............................</td></tr><tr><td style="text-align:center">......................................</td><td style="text-align:center">......................................</td><td style="text-align:center">..............................</td><td style="text-align:center">...............................</td></tr><tr><td colspan="3" style="text-align:center">TOTAL</td><td style="text-align:center">6.071</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td>TIPO</td><td>SÍMBOLO</td><td>SUBSÍDIO</td><td>QUANTIDADE</td></tr><tr><td>......................................</td><td>......................................</td><td>..............................</td><td>...............................</td></tr><tr><td rowspan="4">Assessoramento Intermediário</td><td>......................................</td><td>..............................</td><td>...............................</td></tr><tr><td>......................................</td><td>..............................</td><td>..............................</td></tr><tr><td>A8</td><td>..............................</td><td>972</td></tr><tr><td>......................................</td><td>..............................</td><td>...............................</td></tr><tr><td>......................................</td><td>......................................</td><td>..............................</td><td>...............................</td></tr><tr><td colspan="3">TOTAL</td><td>6.071</td></tr></tbody></table>
 
 ” (NR)

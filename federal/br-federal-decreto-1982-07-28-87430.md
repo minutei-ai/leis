@@ -1,5 +1,3 @@
-###DEC-087430-0-000-28-07-1982@@@
-
 Decreto nº 87.430, de 28 de julho de 1982
 
 Simplifica a matrícula de empresas perante o Instituto de Administração Financeira da Previdência e Assistência Social - IAPAS.

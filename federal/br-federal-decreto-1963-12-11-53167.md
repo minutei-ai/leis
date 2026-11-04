@@ -1,5 +1,3 @@
-###DEC-053167-0-000-11-12-1963@@@
-
 DECRETO Nº 53.167, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza Fôrça e Luz de Chapecó S.A. a dar em garantia os bens constitutivos do seu patrimônio.

@@ -1,5 +1,3 @@
-###DEC-092513-0-000-02-04-1986@@@
-
 # DECRETO Nº 92.513, DE 2 DE ABRIL DE 1986
 
 Dispõe sobre intervenção na Superintendência da Zona Franca de Manaus (SUFRAMA), e dá outras providências.

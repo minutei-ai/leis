@@ -1,5 +1,3 @@
-###MPV-000148-0-000-15-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 148, DE 15 DE DEZEMBRO 2003.
 
 Atribui competências à Agência Nacional de Saúde Suplementar \- ANS e fixa as diretrizes a serem observadas na definição de normas para implantação de programas especiais de incentivo à adaptação de contratos anteriores à Lei nº 9.656, de 3 de junho de 1998.

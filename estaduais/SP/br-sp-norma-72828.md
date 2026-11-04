@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72828)
-
 # LEI Nº 12.641, DE 11 DE JULHO DE 2007
 
 ## (Projeto de lei nº 234/2002, do Deputado Roque Barbiere - PTB)

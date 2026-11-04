@@ -1,5 +1,3 @@
-###DEC-044988-0-000-02-12-1958@@@
-
 Decreto nº 44.988, de 2 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Theophilo Badin a pesquisar cassiterita e associados no Município de Livramento do Brumado, Estado da Bahia.

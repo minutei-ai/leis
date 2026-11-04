@@ -1,5 +1,3 @@
-###DEL-005855-0-000-25-09-1943@@@
-
 DECRETO‑LEI N. 5.855 – DE 25 DE SETEMBRO DE 1943
 
 Abre crédito especial  ao Ministério da Fazenda

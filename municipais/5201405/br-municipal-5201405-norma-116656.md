@@ -26,8 +26,10 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação, revogando as dispo
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 20 de dezembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO<br>
-Chefe da Casa Civil<br>
+OLAVO NOLETO
+
+Chefe da Casa Civil

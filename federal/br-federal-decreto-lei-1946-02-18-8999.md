@@ -1,5 +1,3 @@
-###DEL-008999-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.999 – DE 18 DE FEVEREIRO DE 1946
 
 Dispõe sôbre o financiamento da safra de algodão do Norte do país de 1945-46, e dá outras providências.

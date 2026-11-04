@@ -1,5 +1,3 @@
-###DEC-066399-0-000-31-03-1970@@@
-
 Decreto nº 66.399 - de 31 de março de 1970
 
 Declara de utilidade pública a Associação Fluminense de Amparo aos Cegos, com sede em Niterói, Estado do Rio de Janeiro.

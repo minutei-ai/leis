@@ -1,5 +1,3 @@
-###DEC-046702-0-000-21-08-1959@@@
-
 DECRETO Nº 46.702, DE 21 DE AGÔSTO DE 1959.
 
 Abre ao Poder Judiciário - Tribunal de Justiça do Distrito Federal o crédito especial de Cr$14.697.720,00 para o fim que especifica.

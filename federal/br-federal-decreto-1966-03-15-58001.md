@@ -1,5 +1,3 @@
-###DEC-058001-0-000-15-03-1966@@@
-
 DECRETO Nº 58.001, DE 15 DE MARÇO DE 1966.
 
 Autoriza a Mineração Po-Be-Mar Limitada a pesquisar dolomita, no município de Pirapora do Bom Jesus, Estado de São Paulo.

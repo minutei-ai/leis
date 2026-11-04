@@ -1,5 +1,3 @@
-###DEL-004249-0-000-10-04-1942@@@
-
 DECRETO-LEI N. 4.249 – DE 10 DE ABRIL DE 1942
 
 Cria função gratificada no Ministério da Guerra e dá outras providências

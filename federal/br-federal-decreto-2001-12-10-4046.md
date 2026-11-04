@@ -1,5 +1,3 @@
-###DEC-004046-0-000-10-12-2001@@@
-
 DECRETO Nº 4.046, DE 10 DE DEZEMBRO DE 2001
 
 Extingue o Cargo de Ministro de Estado Chefe da Secretaria de Comunicação de Governo da Presidência da República, transforma a Secretaria de Comunicação de Governo da Presidência da República em Secretaria de Estado de Comunicação de Governo.

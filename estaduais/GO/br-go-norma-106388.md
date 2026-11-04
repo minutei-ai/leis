@@ -64,8 +64,6 @@ Art. 12. Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publi
 
 Goiânia, 9 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

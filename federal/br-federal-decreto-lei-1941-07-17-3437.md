@@ -1,5 +1,3 @@
-###DEL-003437-0-000-17-07-1941@@@
-
 DECRETO-LEI N. 3.437 – DE 17 DE JULHO DE 1941
 
 Dispõe sobre o aforamento de terrenos e a construção de edifícios em terreno das fortificações

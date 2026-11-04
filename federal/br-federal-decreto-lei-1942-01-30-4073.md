@@ -1,5 +1,3 @@
-###DEL-004073-0-000-30-01-1942@@@
-
 DECRETO-LEI N. 4.073 – DE 30 DE JANEIRO DE 1942
 
 Lei orgânica do ensino industrial

@@ -1,5 +1,3 @@
-###DEC-056498-0-000-21-06-1965@@@
-
 DECRETO Nº 56.498, DE 21 DE JUNHO DE 1965.
 
 Cria o Grupo Executivo de Movimentação de Safras e dá outras providências.

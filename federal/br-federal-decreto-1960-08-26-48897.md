@@ -1,5 +1,3 @@
-###DEC-048897-0-000-26-08-1960@@@
-
 DECRETO N.º 48.897, DE 26 DE AGÔSTO DE 1960.
 
 Extingue a Agência da Capita dos Portos do Estado do Maranhão, em Turiaçu.

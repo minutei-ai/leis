@@ -1,5 +1,3 @@
-###DEC-068278-0-000-19-02-1971@@@
-
 Decreto nº 68.278, de 19 de fevereiro de 1971.
 
 Concede autorização à Companhia Delta Marine Drilling Co. para operação, em águas brasileiras, dos barcos Delta Marine 8 e Coral Sea Horse, de nacionalidade americana, nos serviços que especifica.

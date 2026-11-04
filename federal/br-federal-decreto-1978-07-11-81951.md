@@ -1,5 +1,3 @@
-###DEC-081951-0-000-11-07-1978@@@
-
 Decreto nº 81.951, de 11 de julho de 1978.
 
 Concede à Cerâmica de Guarulhos S.A. o direito de lavrar magnesita no Município de Brumado, Estado da Bahia.

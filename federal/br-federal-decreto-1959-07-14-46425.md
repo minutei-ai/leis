@@ -1,5 +1,3 @@
-###DEC-046425-0-000-14-07-1959@@@
-
 DECRETO Nº 46.425, DE 14 DE JULHO DE 1959.
 
 Aprova o Regulamento para os Depósito Primários (Dep P)

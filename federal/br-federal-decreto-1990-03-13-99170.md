@@ -1,7 +1,3 @@
-1
-
-###DEC-099170-0-000-13-03-1990@@@
-
 DECRETO N° 99.170, DE 13 DE MARÇO DE 1990
 
 Homologa a demarcação da Terra Indígena que menciona, no Estado de Rondônia.

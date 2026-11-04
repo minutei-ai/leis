@@ -13,7 +13,3 @@ Palácio da Liberdade em Belo Horizonte, aos 30 de dezembro de 1939.
 BENEDITO VALADARES RIBEIRO
 
 Mário Gonçalves de Matos
-
-\=================================
-
-Data da última atualização:10/8/2017.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.832, DE 03 DE AGOSTO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a jornada de trabalho dos servidores ocupantes do cargo de assistente social do quadro de pessoal dos órgãos e entidades do Poder Executivo estadual.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a jornada de trabalho dos servidores ocupantes do cargo de assistente social do quadro de pessoal dos órgãos e entidades do Poder Executivo estadual.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

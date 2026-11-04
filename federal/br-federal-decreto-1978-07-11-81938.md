@@ -1,5 +1,3 @@
-###DEC-081938-0-000-11-07-1978@@@
-
 decreto nº 81.938, de 11 de julho de 1978.
 
 Concede à Cimento Aratu S.A. o direito de lavrar calcário no Município de Salvador, Estado da Bahia.

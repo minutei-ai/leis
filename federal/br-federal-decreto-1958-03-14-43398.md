@@ -1,14 +1,12 @@
-###DEC-043398-0-000-14-03-1958@@@
+**DECRETO Nº 43.398, DE 14 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.398, DE 14 DE MARÇO DE 1958.</strong>
+***Dá nova redação aos arts. 69 e 90 do Decreto nº 42.820, de dezembro de 1957.***
 
-<em><strong>Dá nova redação aos arts. 69 e 90 do Decreto nº 42.820, de dezembro de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o disposto na Lei nº 3.244, de 14 de agôsto de 1957,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o disposto na Lei nº 3.244, de 14 de agôsto de 1957,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 69 e 90 do Decreto nº 42.820, de 16 de dezembro de 1957, e seus parágrafos únicos, passam a vigorar com a seguinte redação:
+**Art**. 1º Os arts. 69 e 90 do Decreto nº 42.820, de 16 de dezembro de 1957, e seus parágrafos únicos, passam a vigorar com a seguinte redação:
 
 “Art. 69. As remessas do principal e juros relativos às importações referidas no inciso I do artigo 67, gozarão de tratamento de prioridade cambial.
 
@@ -18,10 +16,10 @@ Parágrafo único. A inscrição de prioridade assegura tratamento mais favoráv
 
 Parágrafo único. As importações de partes ou peças complementares de veículos, a que se refere êste artigo, poderão ter cobertura nos mesmos prazos vigentes para promessas de vendas de câmbio licitadas em Bolsa, a critério da Carteira de Câmbio do Banco do Brasil S.A., mediante pagamento imediato da sobretaxa devida”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 14 de marco de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

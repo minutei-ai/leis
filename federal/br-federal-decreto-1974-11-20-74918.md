@@ -1,5 +1,3 @@
-###DEC-074918-0-000-20-11-1974@@@
-
 DECRETO Nº 74.918, DE 20 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área necessária à construção do Açude Público "Custódia", no Estado de Pernambuco.

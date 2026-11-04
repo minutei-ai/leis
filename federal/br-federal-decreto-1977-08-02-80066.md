@@ -1,5 +1,3 @@
-###DEC-080066-0-000-02-08-1977@@@
-
 DECRETO Nº 80.066, DE 2 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

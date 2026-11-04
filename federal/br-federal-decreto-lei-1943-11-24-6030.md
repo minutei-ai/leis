@@ -1,5 +1,3 @@
-###DEL-006030-0-000-24-11-1943@@@
-
 DECRETO‑LEI N. 6.030 – DE 24 DE NOVEMBRO DE 1943
 
 Equipara as emprêsas de mineração de magnesita às de que trata o decreto-­lei n. 3.553, de 25 de agôsto de 1941, que dá nova redação ao art. 76, do Código de Minas

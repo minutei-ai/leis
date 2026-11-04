@@ -1,5 +1,3 @@
-###DEC-062410-0-000-15-03-1968@@@
-
 DECRETO Nº 62.410, DE 15 DE MARÇO DE 1968.
 
 Autoriza a utilização de parte de próprio nacional, e dá outras providências.

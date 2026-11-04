@@ -12,5 +12,6 @@ MUNICIPIO DE APARECIDA DE GOIÂNIA-GO, aos 19 de Abril de 2021.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

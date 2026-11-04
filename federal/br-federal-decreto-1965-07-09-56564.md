@@ -1,5 +1,3 @@
-###DEC-056564-0-000-09-07-1965@@@
-
 DECRETO Nº 56.564, DE 9 DE JULHO DE 1965.
 
 Cria o Depósito de Material de Eletrônica do Rio de Janeiro.

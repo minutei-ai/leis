@@ -1,5 +1,3 @@
-###DEL-008194-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.194 – DE 20 DE NOVEMBRO DE 1945
 
 Revoga os Decretos-leis nº 2.072, de 8 de março de 1940, nº 2.310, de 14 de junho de 1940, nº 4.101, de 9 de fevereiro de 1942, e nº 5.045, de 5 de dezembro de 1942.

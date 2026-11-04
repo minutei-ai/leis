@@ -1,5 +1,3 @@
-###DEC-052774-0-000-29-10-1963@@@
-
 DECRETO Nº 52.774, DE 29 DE OUTUBRO DE 1963.
 
 Concede à sociedade anônima Standard Brands Of Brazil Inc. autorização para continuar a funcionar na República.

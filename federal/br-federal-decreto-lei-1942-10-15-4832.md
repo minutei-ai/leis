@@ -1,5 +1,3 @@
-###DEL-004832-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.832 – DE 15 DE OUTUBRO 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 4:000$0, à verba que especif\`ica

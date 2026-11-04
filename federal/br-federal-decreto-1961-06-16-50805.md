@@ -1,5 +1,3 @@
-###DEC-050805-0-000-16-06-1961@@@
-
 Decreto nº 50.805, de 16 de junho de 1961.
 
 Concede autorização para funcionar como emprêsa de energia elétrica, à Centrais Elétricas de Urubupungá S.A. (CELUSA).

@@ -1,7 +1,3 @@
-1
-
-###DEC-000902-0-000-25-08-1993@@@
-
 DECRETO Nº 902, DE 25 DE AGOSTO DE 1993
 
 Dispõe sobre o Imposto Provisório sobre a Movimentação ou a Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - IPMF, relativo às representações diplomáticas, consulares e organismos internacionais.

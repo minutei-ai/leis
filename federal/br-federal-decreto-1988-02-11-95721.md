@@ -1,7 +1,3 @@
-1
-
-###DEC-095721-0-000-11-02-1988@@@
-
 DECRETO N° 95.721, DE 11 DE FEVEREIRO DE 1988
 
 Regulamenta a Lei n° 7.649, de 25 de janeiro de 1988, que "estabelece a obrigatoriedade do cadastramento dos doadores de sangue bem como a realização de exames laboratoriais no sangue coletado, visando a prevenir a propagação de doença".

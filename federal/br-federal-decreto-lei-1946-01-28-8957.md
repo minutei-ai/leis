@@ -1,5 +1,3 @@
-###DEL-008957-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.957 – DE 28 DE JANEIRO DE 1946
 
 Autoriza a Estrada de Ferro Central do Brasil a conceder aumento de salário a seus servidores, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073889-0-000-02-04-1974@@@
-
 DECRETO Nº 73.889, DE 2 DE ABRIL DE 1974.
 
 Declara luto oficial.

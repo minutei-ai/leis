@@ -1,5 +1,3 @@
-###DEL-007720-0-000-09-07-1945@@@
-
 DECRETO-LEI N. 7.720 – DE 9 DE JULHO DE 1945
 
 Determina a incorporação do Instituto de Aposentadoria e Pensões da Estiva ao Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências

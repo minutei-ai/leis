@@ -96,18 +96,22 @@ Aparecida de Goiânia, 24 de novembro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
-[ANEXO I <br>
+[ANEXO I 
+
 Diagnóstico Socioeconômico](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18676)
 
  
 
-[ANEXO II<br>
+[ANEXO II
+
 Planejamento Estratégico (Síntese do Plano Plurianual 2022/2025)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18677)
 
  
 
-[ANEXO III<br>
+[ANEXO III
+
 Objetivos dos Programas (Demonstrativo dos Programas e Ações)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18678)

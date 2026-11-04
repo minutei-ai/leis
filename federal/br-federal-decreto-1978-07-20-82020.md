@@ -1,5 +1,3 @@
-###DEC-082020-0-000-20-07-1978@@@
-
 Decreto nº 82.020, de 20 de julho de 1978
 
 Introduz modificações no Art. 8º e cria o Art 32 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto nº 66.862, de 08 de julho de 1970.

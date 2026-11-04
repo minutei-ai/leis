@@ -1,5 +1,3 @@
-###DEL-005394-0-000-12-04-1943@@@
-
 DECRETO‑LEI N. 5.394 – DE 12 DE ABRIL DE 1943
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Agricultura e dá outras providências

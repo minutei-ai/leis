@@ -1,5 +1,3 @@
-###DEC-005207-0-000-16-09-2004@@@
-
 DECRETO Nº 5.207 DE 16 DE SETEMBRO DE 2004
 
 Dispõe sobre a avaliação do resultado institucional, baseado em metas, para fins de cálculo da Gratificação de Desempenho de Atividade Jurídica – GDAJ prevista no art. 7º da Lei nº 10.910, de 15 de julho de 2004, devida aos ocupantes de cargos efetivos das Carreiras de Advogado da União, Procurador Federal, Procurador do Banco Central do Brasil, Defensor Público da União e dos quadros suplementares de que trata o art. 46 da Medida Provisória nº 2.229-43, de 6 de setembro de 2001.

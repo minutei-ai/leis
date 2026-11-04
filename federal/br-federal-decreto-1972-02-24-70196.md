@@ -1,5 +1,3 @@
-###DEC-070196-0-000-24-02-1972@@@
-
 Decreto nº 70.196, de 24 de fevereiro de 1972.
 
 Autoriza o funcionamento do Curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Nova Iguaçu - em Nova Iguaçu - Estado do Rio de Janeiro.

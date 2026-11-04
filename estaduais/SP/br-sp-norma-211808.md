@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211808)<br>
-
 # LEI N° 18.321, DE 11 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 366/2025, do Deputado Paulo Correa Jr - PSD)

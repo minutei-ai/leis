@@ -1,5 +1,3 @@
-###DEC-093277-0-000-19-09-1986@@@
-
 DECRETO Nº 93.277, DE 19 DE SETEMBRO DE 1986
 
 Institui a Escola Nacional de Administração Pública - ENAP e o Centro de Desenvolvimento da Administração Pública - CEDAM, e dá outras providências.

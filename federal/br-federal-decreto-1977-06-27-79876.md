@@ -1,5 +1,3 @@
-###DEC-079876-0-000-27-06-1977@@@
-
 DECRETO Nº 79.876, DE 27 DE JUNHO DE 1977
 
 Dá nova redação ao artigo 1º do Decreto nº 77.396, de 7 de abril de 1976, que declarou de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão de Furnas Centrais Elétricas S. A., no Estado do Espírito Santo.

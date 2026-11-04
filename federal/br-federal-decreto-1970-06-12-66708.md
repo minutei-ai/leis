@@ -1,5 +1,3 @@
-###DEC-066708-0-000-12-06-1970@@@
-
 DECRETO Nº 66.708, DE 12 DE JUNHO DE 1970.
 
 Declara caduco o Decreto nº 17.778 de 7 de fevereiro de 1945.

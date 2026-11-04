@@ -1,5 +1,3 @@
-###DEL-008199-0-000-21-11-1945@@@
-
 DECRETO-LEI N. 8.199 – DE 21 DE NOVEMBRO DE 1945
 
 Altera o art. 72 do Decreto-lei número 1.713, de 28 de outubro de1l939

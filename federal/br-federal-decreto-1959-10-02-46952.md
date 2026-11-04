@@ -1,5 +1,3 @@
-###DEC-046952-0-000-02-10-1959@@@
-
 DECRETO Nº 46.952, DE 2 DE Outubro DE 1959.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir linhas de transmissão.

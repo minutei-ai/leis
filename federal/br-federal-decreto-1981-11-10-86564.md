@@ -1,5 +1,3 @@
-###DEC-086564-0-000-10-11-1981@@@
-
 Decreto nº 86.564, de 10 de novembro de 1981
 
 Autoriza a FERTILIZANTES NITROGENADOS DO NORDESTE S.A. - NITROFÉRTIL a proceder ao aumento do limite de seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-072580-0-000-07-08-1973@@@
-
 DECRETO Nº 72.580, DE 7 DE AGOSTO DE 1973.
 
 Dispõe sobre a certificação da batata-semente.

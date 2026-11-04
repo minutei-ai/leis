@@ -1,5 +1,3 @@
-###DEC-048887-0-000-26-08-1960@@@
-
 DECRETO Nº 48.887, DE 26 DE AGÔSTO DE 1960.
 
 Declara em vigor as novas condições das propostas, apólices, aditivos e a tarifa do seguro agrário de colheita.

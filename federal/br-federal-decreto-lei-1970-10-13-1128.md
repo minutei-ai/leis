@@ -1,5 +1,3 @@
-###DEL-001128-0-000-13-10-1970@@@
-
 # DECRETO-LEI Nº 1.128, DE 13 DE OUTUBRO DE 1970
 
 Autoriza o parcelamento de débitos decorrentes dos lançamentos do Impôsto Territorial Rural e das contribuições devidas ao Instituto Nacional de Colonização e Reforma Agrária (INCRA) e dá outras providências.

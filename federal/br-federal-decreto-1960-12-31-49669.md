@@ -1,5 +1,3 @@
-###DEC-049669-0-000-31-12-1960@@@
-
 DECRETO Nº 49.669, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Geraldo João de Oliveira a pesquisar pedras coradas no município Itambacuri, Estado de Minas Gerais.

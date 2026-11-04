@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130338)
-
 # EMENDA CONSTITUCIONAL Nº 17, DE 02 DE MARÇO DE 2004
 
 A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3º do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:

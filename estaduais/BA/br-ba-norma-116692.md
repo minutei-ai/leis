@@ -10,7 +10,8 @@ Parágrafo único - Os recursos resultantes deste empréstimo serão aplicados e
 
 Art. 2º - Em garantia da liquidação do principal  e acessórios do empréstimo de que trata o artigo anterior, fica, outrossim, o Poder Executivo autorizado a vincular as parcelas necessárias das receitas oriundas da cota estadual do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios - FPE e daquelas referidas nos incisos I, II e III, do artigo 26, da Constituição Federal.
 
-Redação de acordo com o art. 1º da Lei nº 4.268, de 26 de junho de 1984.<br>
+Redação de acordo com o art. 1º da Lei nº 4.268, de 26 de junho de 1984.
+
 Redação original: "Art. 2º - Em garantia da liquidação do principal e acessórios do empréstimo de que trata o artigo anterior, fica, outrossim, o Poder Executivo autorizado a vincular as parcelas necessárias das receitas oriundas da cota estadual do Fundo de Participação dos Estados, Distrito Federal e Territórios - FPE ou do Imposto Sobre Operações Relativas à Circulação de Mercadorias - ICM."
 
 Art. 3º - O Poder Executivo fará consignar nos orçamentos anuais do Estado, durante o prazo de vigência dos respectivos contratos, as dotações necessárias e suficientes para amortização do financiamento autorizado nesta lei e seus encargos.

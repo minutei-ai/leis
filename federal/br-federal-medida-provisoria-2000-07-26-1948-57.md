@@ -1,5 +1,3 @@
-###MPV-001948-0-057-26-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.948-57, DE 26 de julho DE 2000.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

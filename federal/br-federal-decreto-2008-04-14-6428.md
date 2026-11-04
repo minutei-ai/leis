@@ -1,5 +1,3 @@
-###DEC-006428-0-000-14-04-2008@@@
-
 DECRETO Nº 6.428, DE 14 DE ABRIL DE 2008.
 
 Altera o Decreto no 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse.
@@ -81,5 +79,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Jorge Hage Sobrinho
-
-Este texto não substitui o publicado no DOU de 15.4.2008

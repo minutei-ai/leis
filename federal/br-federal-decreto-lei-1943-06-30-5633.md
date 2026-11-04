@@ -1,5 +1,3 @@
-###DEL-005633-0-000-30-06-1943@@@
-
 DECRETO‑LEI N. 5.633 – DE 30 DE JUNHO DE 1943
 
 Altera dispositivo do decreto‑lei n. 5.164, de 31 de dezembro de 1942

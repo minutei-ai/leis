@@ -12,9 +12,12 @@ Goiânia, 4 de fevereiro de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
-Governador do Estado em exercício<br>
+DANIEL VILELA
+
+Governador do Estado em exercício
+
  
 
-ANTÔNIO GOMIDE<br>
+ANTÔNIO GOMIDE
+
 Deputado Estadual

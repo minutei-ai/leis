@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212091)<br>
-
 # LEI N° 18.382, DE 23 DE DEZEMBRO DE 2025
 
 ## (Projeto de lei n° 593/2024, dos Deputados Paulo Mansur - PL e Gilmaci Santos - REPUBLICANOS)

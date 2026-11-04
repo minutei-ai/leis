@@ -1,5 +1,3 @@
-###DEL-004133-0-000-26-02-1942@@@
-
 DECRETO-LEI N. 4.133 – DE 26 DE FEVEREIRO DE 1942
 
 Cria uma coletoria federal no município de Resplendor, Estado de Minas Gerais, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-081853-0-000-27-06-1978@@@
-
 Decreto nº 81.853, de 27 de junho de 1978
 
 Concede à Mineração Satélite Ltda. o direito de lavrar argila no Município de Treze de Maio, Estado de Santa Catarina.

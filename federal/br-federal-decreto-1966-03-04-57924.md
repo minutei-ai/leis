@@ -1,5 +1,3 @@
-###DEC-057924-0-000-04-03-1966@@@
-
 decreto nº 57.924, de 4 de março de 1966.
 
 Concede à Great American Insurance Company autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

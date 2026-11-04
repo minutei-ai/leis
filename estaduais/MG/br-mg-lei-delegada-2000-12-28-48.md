@@ -25,7 +25,3 @@ José Augusto Trópia Reis
 Mauro Santos Ferreira
 
 Frederico Penido Alvarenga
-
-\--------------------------------
-
-Data da última atualização: 19/10/2003.

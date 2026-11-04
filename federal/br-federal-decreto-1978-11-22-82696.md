@@ -1,5 +1,3 @@
-###DEC-082696-0-000-22-11-1978@@@
-
 DECRETO Nº 82.696, DE 22 DE NOVEMBRO DE 1978.
 
 Retifica a autorização de lavra conferida à Mineração e Usina Wigg S.A. pelo Decreto nº 52.985, de 27 de novembro de 1963.

@@ -1,5 +1,3 @@
-###DEC-073383-0-000-28-12-1973@@@
-
 DECRETO Nº 73.383 - DE 28 DE DEZEMBRO DE 1973
 
 Renova por 10 (dez) aos a outorga deferida à Rádio Sociedade Feira de Santana Ltda., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Feira de Santana, Estado da Bahia.

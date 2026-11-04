@@ -1,5 +1,3 @@
-###DEC-087698-0-000-11-10-1982@@@
-
 Decreto nº 87.698, de 11 de outubro de 1982
 
 Autoriza a Indústria Carboquímica Catarinense S.A. - I.C.C. a proceder ao aumento do limite de seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-076394-0-000-07-10-1975@@@
-
 DECRETO Nº 76.394, DE 7 DE OUTUBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

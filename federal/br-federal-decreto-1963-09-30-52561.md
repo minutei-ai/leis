@@ -1,5 +1,3 @@
-###DEC-052561-0-000-30-09-1963@@@
-
 DECRETO Nº 52.561, DE 30 DE SETEMBRO DE 1963.
 
 Transferida Prefeitura Municipal de Rio Piracicaba para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuição de energia elétrica ao Distrito sede do Rio Piracicaba, no Município de Rio Piracicaba, Estado de Minas Gerais.

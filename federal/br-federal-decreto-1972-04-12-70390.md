@@ -1,5 +1,3 @@
-###DEC-070390-0-000-12-04-1972@@@
-
 DECRETO Nº 70.390, DE 12 DE ABRIL DE 1972.
 
 Promulga o Estatuto da Conferência da haia de Direito Internacional privado.

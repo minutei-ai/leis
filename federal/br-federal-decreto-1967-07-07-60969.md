@@ -1,5 +1,3 @@
-###DEC-060969-0-000-07-07-1967@@@
-
 DECRETO Nº 60.969, DE 7 DE JULHO DE 1967.
 
 Regulamenta disposições do Decreto-lei número 211, de 27 de fevereiro de 1967.

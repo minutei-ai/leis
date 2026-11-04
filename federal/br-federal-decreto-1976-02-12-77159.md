@@ -1,5 +1,3 @@
-###DEC-077159-0-000-12-02-1976@@@
-
 DECRETO Nº 77.159, DE 12 DE FEVEREIRO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cultura da Bahia Ltda., cujo tipo societário foi transformado em S.A., passando a denominar-se Rádio Cultura da Bahia S.A., para que a Rádio América S.A., passe a executar serviço de Radiodifusão sonora em onda média de âmbito regional, na cidade do Salvador, Estado da Bahia.

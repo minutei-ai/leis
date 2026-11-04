@@ -1,5 +1,3 @@
-###MPV-001731-0-036-11-03-1999@@@
-
 Medida Provisória Nº 1.731-36, 11 DE MARÇO DE 1999
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

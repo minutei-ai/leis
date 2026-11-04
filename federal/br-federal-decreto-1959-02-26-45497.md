@@ -1,5 +1,3 @@
-###DEC-045497-0-000-26-02-1959@@@
-
 decreto nº 45.497, de 26 de fevereiro de 1959.
 
 Autoriza o cidadão brasileiro Orlando Ferreira de Souza a pesquisar carvão mineral no município de Jaguaruna, Estado de Santa Catarina.

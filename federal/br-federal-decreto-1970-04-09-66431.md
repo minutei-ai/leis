@@ -1,5 +1,3 @@
-###DEC-066431-0-000-09-04-1970@@@
-
 DECRETO Nº 66.431, DE 9 DE ABRIL DE 1970.
 
 Prorroga o prazo referido no artigo 6º do Decreto nº 65.912, de 19 de dezembro de 1969.

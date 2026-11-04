@@ -1,5 +1,3 @@
-###DEC-069191-0-000-14-09-1971@@@
-
 DECRETO Nº 69.191, DE 14 DE SETEMBRO DE 1971.
 
 Redistribui cargos da Superintendência do Desenvolvimento da Pesca para o Ministério da Agricultura, e dá outras providências.

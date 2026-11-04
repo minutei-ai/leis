@@ -1,5 +1,3 @@
-###DEC-000000-0-086-30-10-1822@@@
-
 DECRETO - DE 30 DE OUTUBRO DE 1822
 
 Reintegra os Ministros e Secretários de Estados, que haviam sido demittidos a seu pedido por decreto de 28 do corrente mez, em conseqüência do que representaram a Sua Magestade Imperial o Povo e Tropa desta cidade.

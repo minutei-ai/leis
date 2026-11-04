@@ -1,5 +1,3 @@
-###DEC-055110-0-000-02-12-1964@@@
-
 DECRETO Nº 55.110, DE 2 DE DEZEMBRO DE 1964.
 
 Concede à Mármores Nordeste Limitada autorização para funcionar como emprêsa de mineração.

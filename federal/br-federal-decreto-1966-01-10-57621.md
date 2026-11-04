@@ -1,5 +1,3 @@
-###DEC-057621-0-000-10-01-1966@@@
-
 DECRETO Nº 57.621, DE 10 DE JANEIRO DE 1966.
 
 Concede a American Home Assurance Company autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000897-0-000-17-08-1993@@@
-
 DECRETO Nº 897, DE 17 DE AGOSTO DE 1993
 
 Cria a Zona de Processamento de Exportação ZPE  de Barra dos Coqueiros, no Estado de Sergipe.

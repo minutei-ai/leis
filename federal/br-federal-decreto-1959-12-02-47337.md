@@ -1,5 +1,3 @@
-###DEC-047337-0-000-02-12-1959@@@
-
 decreto nº 47.337, de 2 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro Rosalvo Pereira Palma a pesquisar caulim no município de Juiz de Fora, Estado de Minas Gerais.

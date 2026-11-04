@@ -1,5 +1,3 @@
-###DEC-051102-0-000-01-08-1961@@@
-
 decreto nº 51.102, de 1º de agôsto de 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio “Prêto”.

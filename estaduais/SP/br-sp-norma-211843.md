@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211843)<br>
-
 # DECRETO N° 70.095, DE 14 DE NOVEMBRO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos e melhoria do trecho entre os km 283+60m e 327+80m da Rodovia Assis Chateaubriand, SP-425, nos Municípios de Penápolis, Braúna e Clementina, e dá providências correlatas._

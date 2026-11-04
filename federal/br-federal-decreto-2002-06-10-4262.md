@@ -1,5 +1,3 @@
-###DEC-004262-0-000-10-06-2002@@@
-
 DECRETO Nº 4.262, DE 10 DE JUNHO DE 2002
 
 Regulamenta a Lei nº 10.357, de 27 de dezembro de 2001, que estabelece normas de controle e fiscalização sobre produtos químicos que direta ou indiretamente possam ser destinados à elaboração ilícita de substâncias entorpecentes, psicotrópicas ou que determinem dependência física ou psíquica, e dá outras providências.

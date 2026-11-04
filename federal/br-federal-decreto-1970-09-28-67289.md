@@ -1,5 +1,3 @@
-###DEC-067289-0-000-28-09-1970@@@
-
 DECRETO Nº 67.289, DE 28 DE SETEMBRO DE 1970.
 
 Concede reconhecimento aos Cursos de Canto e de Instrumentos do Conservatório de Música de Pelotas, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-081741-0-000-31-05-1978@@@
-
 Decreto nº 81.741, de 31 de maio de 1978.
 
 Promulga o Convênio de Assistência Recíproca para a Repressão do Tráfico Ilícito de Drogas que Produzem Dependência, entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia.

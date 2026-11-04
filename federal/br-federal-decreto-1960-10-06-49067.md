@@ -1,5 +1,3 @@
-###DEC-049067-0-000-06-10-1960@@@
-
 DECRETO Nº 49.067, DE 6 DE OUTUBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Aliança da Bahia Capitalização S.A.

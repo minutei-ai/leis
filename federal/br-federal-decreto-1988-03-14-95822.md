@@ -1,7 +1,3 @@
-1
-
-###DEC-095822-0-000-14-03-1988@@@
-
 DECRETO N° 95.822, DE 14 DE MARÇO DE 1988
 
 Renova a autorização outorgada à Companhia Prada Indústria e Comércio para utilizar o trabalho noturno de mulher maior de dezoito anos.

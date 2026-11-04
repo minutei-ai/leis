@@ -1,5 +1,3 @@
-###DEC-002477-0-000-28-01-1998@@@
-
 DECRETO Nº 2.477, DE 28 DE JANEIRO DE 1998
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Saúde, e dá outras providências.

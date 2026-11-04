@@ -1,5 +1,3 @@
-###DEC-003375-0-000-02-03-2000@@@
-
 DECRETO Nº 3.375, DE 2 DE MARÇO DE 2000.
 
 Estende o prazo estabelecido no art. 1º do Decreto nº 2.916, de 30 de dezembro de 1998.

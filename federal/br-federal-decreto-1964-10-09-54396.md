@@ -1,5 +1,3 @@
-###DEC-054396-0-000-09-10-1964@@@
-
 DECRETO Nº 54.396, de 9 DE OUTUBRO DE 1964.
 
 Reorganiza a Comissão Brasileira para Assuntos da Indústria Automobilística na ALALC.

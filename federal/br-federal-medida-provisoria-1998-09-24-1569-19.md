@@ -1,5 +1,3 @@
-###MPV-001569-0-019-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.569-19, DE 24 DE SETEMBRO DE 1998
 
 Estabelece multa em operações de importação e dá outras providências.

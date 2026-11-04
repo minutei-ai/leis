@@ -1,5 +1,3 @@
-###DEC-056562-0-000-09-07-1965@@@
-
 DECRETO Nº 56.562, DE 9 DE JULHO DE 1965.
 
 Autoriza a Cia. Estrada de Ferro e Minas de São Jerônimo a pesquisar carvão mineral, no município de São Jerônimo, Estado do Rio Grande do Sul.

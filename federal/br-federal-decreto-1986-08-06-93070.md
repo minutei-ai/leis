@@ -1,5 +1,3 @@
-###DEC-093070-0-000-06-08-1986@@@
-
 DECRETO Nº 93.070, DE 06 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas Karajá, área de terras do Município de Santana do Araguaia-PA, e dá outras providências.

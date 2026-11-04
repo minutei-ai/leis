@@ -1,5 +1,3 @@
-###DEC-083871-0-000-21-08-1979@@@
-
 decreto nº 83.871, de 21 de agosto de 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Fernandópolis Ltda, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Fernandópolis, Estado de São Paulo.

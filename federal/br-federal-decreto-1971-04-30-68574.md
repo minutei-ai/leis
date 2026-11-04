@@ -1,5 +1,3 @@
-###DEC-068574-0-000-30-04-1971@@@
-
 Decreto Nº 68.574 - DE 30 DE ABRIL DE 1971.
 
 Transfere da Subsecretaria de Planos e Orçamento da Secretaria-Geral do Ministério da Fazenda para o Banco Central do Brasil, a guarda de valôres mobiliários da União.

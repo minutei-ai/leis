@@ -1,5 +1,3 @@
-###DEC-081514-0-000-04-04-1978@@@
-
 Decreto nº 81.514, de 04 de abril de 1978.
 
 Concede à José Maria Coelho Costa - Firma Individual o direito de lavrar feldspato no Município de Saquarema, Estado do Rio de Janeiro.

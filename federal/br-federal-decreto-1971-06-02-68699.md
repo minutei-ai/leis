@@ -1,5 +1,3 @@
-###DEC-068699-0-000-02-06-1971@@@
-
 DECRETO Nº 68.699 - de 2 de junho 1971.
 
 Autorização para funcionamento dos Cursos Especiais para Formação de professôres de Técnicas Agrícolas e Educação para o lar, na Universidade de Passo Fundo, RS.

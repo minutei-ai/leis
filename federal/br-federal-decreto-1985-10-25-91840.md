@@ -1,5 +1,3 @@
-###DEC-091840-0-000-25-10-1985@@@
-
 Decreto nº 91.840, de 25 de outubro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de terreno, com benfeitoria, situado na cidade de Belém, Estado do Pará, destinado à ampliação do edifício-sede do Tribunal Regional do Trabalho da Oitava Região.

@@ -1,5 +1,3 @@
-###DEC-049384-0-000-30-11-1960@@@
-
 DECRETO Nº 49.384, DE 30 DE NOVEMBRO DE 1960.
 
 Restaura cargo no Quadro permanente da carreira de Procurador do Instituto Brasileiro do Sal.

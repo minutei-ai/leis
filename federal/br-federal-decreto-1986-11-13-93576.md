@@ -1,5 +1,3 @@
-###DEC-093576-0-000-13-11-1986@@@
-
 DECRETO Nº 93.576, DE 13 DE NOVEMBRO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO DIFUSORA DE RIO VERDE LTDA., para a RÁDIO SUDOESTE AM LTDA.

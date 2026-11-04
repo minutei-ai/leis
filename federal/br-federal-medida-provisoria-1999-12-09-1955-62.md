@@ -1,5 +1,3 @@
-###MPV-001955-0-062-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.955-62, DE 9 DE DEZEMBRO DE 1999
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

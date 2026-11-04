@@ -1,5 +1,3 @@
-###DEL-007799-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.799 – DE 30 DE JULHO DE 1945
 
 Concede pensão especial a Ercília Fernandes Passos, em cumprimento de sentença judiciária

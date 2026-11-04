@@ -1,5 +1,3 @@
-###DEC-093182-0-000-28-08-1986@@@
-
 DECRETO Nº 93.182, DE 28 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à ampliação, com remodelação, da Subestação de Manobras de Transmissão Frei Caneca, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

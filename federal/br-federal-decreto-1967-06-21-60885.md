@@ -1,5 +1,3 @@
-###DEC-060885-0-000-21-06-1967@@@
-
 DECRETO Nº 60.885, DE 21 DE JUNHO DE 1967.
 
 Declara de utilidade pública, para desapropriação, imóvel situado à Rua São Francisco nº 317, na cidade de Curitiba, Estado do Paraná.

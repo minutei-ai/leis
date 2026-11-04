@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209450)<br>
-
 # DECRETO N° 68.509, DE 14 DE MAIO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Piracicaba, o imóvel que especifica._

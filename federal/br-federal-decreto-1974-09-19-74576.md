@@ -1,5 +1,3 @@
-###DEC-074576-0-000-19-09-1974@@@
-
 DECRETO Nº 74.576, DE 19 DE SETEMBRO DE 1974.
 
 Aprova incorporação da Companhia Força e Luz de Minas Gerais pelas Centrais Elétricas de Minas Gerais Sociedade Anônima, e dá outras providências.

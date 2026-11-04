@@ -1,5 +1,3 @@
-###DEC-094016-0-000-11-02-1987@@@
-
 DECRETO Nº 94.016, DE 11 DE FEVEREIRO DE 1987.
 
 Autoriza o funcionamento da Universidade Regional do Cariri.

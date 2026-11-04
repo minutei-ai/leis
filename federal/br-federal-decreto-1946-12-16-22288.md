@@ -1,14 +1,12 @@
-###DEC-022288-0-000-16-12-1946@@@
+**DECRETO Nº 22.288, DE 16 DE DEZEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.288, DE 16 DE DEZEMBRO DE 1946.</strong>
+***Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona.***
 
-<em><strong>Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 12 do Ato das Disposições Constitucionais Transitórias,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 12 do Ato das Disposições Constitucionais Transitórias,
+**Decreta:**
 
-<strong>Decreta:</strong>
-
-<strong>Art</strong>. 1º - Fica o Prefeito do Distrito Federal autorizado a realizar a permuta das seguintes áreas:
+**Art**. 1º - Fica o Prefeito do Distrito Federal autorizado a realizar a permuta das seguintes áreas:
 
 Áreas de propriedade da Prefeitura do Distrito Federal
 
@@ -26,10 +24,10 @@ b) - área de 302,00m2 (trezentos e dois metros quadrados) limitada por um polig
 
 Parágrafo único - Para compensar a diferença apurada entre os valores dos terrenos a permutar, que estão descrito neste artigo, fica o Dr. Manuel Mendes Campos obrigado a pagar à Prefeitura do Distrito Federal a importância de Cr$27.729,10 (vinte e sete mil, setecentos e vinte e nove cruzeiros e dez centavos).
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 16 de Dezembro de 1946, 126º da Independência, 58º da República.
 
-<strong>Eurico g. dutra</strong>
+**Eurico g. dutra**
 
 Benedicto Costa Netto

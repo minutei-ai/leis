@@ -1,5 +1,3 @@
-###DEC-064105-0-000-12-02-1969@@@
-
 DECRETO Nº 64.105, DE 12 DE FEVEREIRO DE 1969.
 
 Concede reconhecimento aos Cursos de Pedagogia, História, Jornalismo e Matemática da Faculdade de Filosofia de Campos - RJ.

@@ -1,5 +1,3 @@
-###DEC-087348-0-000-29-06-1982@@@
-
 Decreto nº 87.348, de 29 de junho de 1982
 
 Regulamenta a Lei nº 6.505, de 13 de dezembro de 1977, e estabelece as condições em que serão prestados os serviços de transporte turístico de superfície e dá outras providências.

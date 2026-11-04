@@ -1,5 +1,3 @@
-###DEC-052544-0-000-30-09-1963@@@
-
 Decreto Nº 52.544, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Lábrea concessão para distribuir Energia elétrica no Município.

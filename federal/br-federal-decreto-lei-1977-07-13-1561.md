@@ -1,5 +1,3 @@
-###DEL-001561-0-000-13-07-1977@@@
-
 # DECRETO-LEI Nº 1.561, DE 13 DE JUlhO DE 1977
 
 Dispõe sobre a ocupação de terrenos da União e dá outras previdências.

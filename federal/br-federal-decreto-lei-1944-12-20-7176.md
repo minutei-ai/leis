@@ -1,5 +1,3 @@
-###DEL-007176-0-000-20-12-1944@@@
-
 DECRETO-LEI N. 7.176 – DE 20 DE DEZEMBRO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 146.900,00, para despesas decorrentes de auxílio especial e de indenizações

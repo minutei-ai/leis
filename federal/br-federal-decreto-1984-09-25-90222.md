@@ -1,5 +1,3 @@
-###DEC-090222-0-000-25-09-1984@@@
-
 Decreto nº 90.222, de 25 de setembro de 1984
 
 Cria, no Estado do Espírito Santo, a Reserva Biológica de Comboios, e dá outras providências.

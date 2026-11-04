@@ -1,5 +1,3 @@
-###DEL-000369-0-000-19-12-1968@@@
-
 DECRETO-LEI Nº 369, DE 19 DE DEZEMBRO DE 1968
 
 Dispõe sôbre a realização do VIII Recenseamento Geral do Brasil em 1970.

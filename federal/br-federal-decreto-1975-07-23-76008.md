@@ -1,5 +1,3 @@
-###DEC-076008-0-000-23-07-1975@@@
-
 DECRETO Nº 76.008 - DE 23 DE JULHO DE 1975.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG, concessão para o aproveitamento da energia hidráulica de um trecho do rio Paranaíba, na fronteira dos Estados de Minas Gerais e de Goiás.

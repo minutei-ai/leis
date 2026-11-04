@@ -1,5 +1,3 @@
-###DEC-004506-0-000-11-12-2002@@@
-
 DECRETO N. 4.506 – DE 11 DE DEZEMBRO DE 2002
 
 Veda a concessão ou outorga de imóveis funcionais, no âmbito da Administração Pública Federal.

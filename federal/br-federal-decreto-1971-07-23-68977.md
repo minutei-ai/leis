@@ -1,5 +1,3 @@
-###DEC-068977-0-000-23-07-1971@@@
-
 decreto nº 68.977, de 23 de julho de 1971.
 
 Autorização para funcionamento da Faculdade de Educação Física de Sorocaba - SP.

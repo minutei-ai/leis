@@ -1,5 +1,3 @@
-###DEC-074100-0-000-24-05-1974@@@
-
 DECRETO Nº 74.100, DE 24 DE MAIO DE 1974.
 
 Declara luto oficial por três dias.

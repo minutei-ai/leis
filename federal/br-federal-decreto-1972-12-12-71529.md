@@ -1,5 +1,3 @@
-###DEC-071529-0-000-12-12-1972@@@
-
 DECRETO Nº 71.529 - DE 12 DE DEZEMBRO DE 1972
 
 Retifica o artigo 1º do Decreto número 68.662, de 24 de março de 1971.

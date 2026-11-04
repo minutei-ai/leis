@@ -1,5 +1,3 @@
-###DEC-067757-0-000-09-12-1970@@@
-
 DECRETO Nº 67.757, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 26.801, de 21 de junho de 1949

@@ -1,5 +1,3 @@
-###DEL-004714-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.714 – DE 18 DE SETEMBRO DE 1942
 
 Cria o 7º Grupo Móvel de Artilharia de Costa na 3ª Região Militar

@@ -1,5 +1,3 @@
-###DEC-071511-0-000-07-12-1972@@@
-
 DECRETO Nº 71.511 - DE 7 DE DEZEMBRO DE 1972
 
 Aprova o Regulamento para os Hospitais Navais.

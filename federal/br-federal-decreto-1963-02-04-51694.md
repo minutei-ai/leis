@@ -1,5 +1,3 @@
-###DEC-051694-0-000-04-02-1963@@@
-
 DECRETO Nº 51.694, DE 4 DE FEVEREIRO DE 1963.
 
 Altera a redação do art. 1º do Decreto nº 44.835, de 8 de novembro de 1958, para excluir a área de propriedade do Sr. Marcos Pereira Vaz.

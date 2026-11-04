@@ -1,5 +1,3 @@
-###DEC-054409-0-000-10-10-1964@@@
-
 DECRETO Nº 54.409, DE 10 DE OUTUBRO DE 1964.
 
 Outorga ao município de Igarapé-Açu, no Estado do Pará concessão para distribuir energia elétrica.

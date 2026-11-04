@@ -277,7 +277,3 @@ I.2 – Estrutura da Carreira de Advogado Autárquico
 Carga horária: 30 ou 40 horas por semana
 
 Cargo Grau de Escolaridade Quantitativo Nível Grau A B C D E Advogado Autárquico Superior 41 I I A I B I C I D I E II II A II B II C II D II E III III A III B III C III D III E IV IV A IV B IV C IV D IV E V V A V B V C V D V E
-
-\============================
-
-Data da última atualização: 19/12/2019.

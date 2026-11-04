@@ -1,5 +1,3 @@
-###DEL-004404-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.404 – DE 25 DE JUNHO DE 1942
 
 Abre no Ministério da Viação e Obras Públicas o crédito especial de 14:648$0, para restituição de cauções

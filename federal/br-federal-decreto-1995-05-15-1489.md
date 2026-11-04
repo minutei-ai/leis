@@ -1,7 +1,3 @@
-1
-
-###DEC-001489-0-000-15-05-1995@@@
-
 DECRETO Nº 1.489, DE 15 DE MAIO DE 1995
 
 Fixa, para o período de 1º de maio de 1995 a 30 de abril de 1996, o limite global das importações beneficiadas com os incentivos de que tratam os Decretos‑Leis nºs 288, de 28 de fevereiro de 1967, e 356, de 15 de agosto de 1968, bem assim aos aplicáveis às Áreas de Livre Comércio.

@@ -1,5 +1,3 @@
-###MPV-001770-0-044-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.770-44, DE 13 DE JANEIRO DE 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

@@ -1,10 +1,8 @@
-###DEC-027156-0-000-07-09-1949@@@
+**DECRETO Nº 27.156, DE 7 DE SETEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.156, DE 7 DE SETEMBRO DE 1949.</strong>
+***Dispõe sôbre a concessão de graça em comemoração ao Ano Santo.***
 
-<em><strong>Dispõe sôbre a concessão de graça em comemoração ao Ano Santo.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal, e,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição Federal, e,
 
 CONSIDERENDO que o ano de 1950 é destinado por todos os povos cristãos à celebração do jubileu do Ano Santo;
 
@@ -16,11 +14,11 @@ mas, CONSIDERANDO que o perdão só deve ser concedido quando os “atendentes e
 
 CONSIDERANDO que, por isso tudo e, de acôrdo com o art. 87, nº XIX, da Constituição Federal, a concessão de indulto deve ser precedida de audiência dos órgãos técnicos instituídos em lei,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Os Conselhos Penitenciários examinarão, de ofício, independente de solicitação dos interessados, para efeito de indulto ou comutação, a situação dos condenados a pena privativa de liberdade, da qual já tenham cumprido, pelo menos, o têrço, no decorrer do ano de 1950.
+**Art**. 1º Os Conselhos Penitenciários examinarão, de ofício, independente de solicitação dos interessados, para efeito de indulto ou comutação, a situação dos condenados a pena privativa de liberdade, da qual já tenham cumprido, pelo menos, o têrço, no decorrer do ano de 1950.
 
-<strong>Art</strong>. 2º O parecer do Conselho Penitenciário, sôbre cada caso, será remetido ao Ministério da Justiça e Negócios Interiores, acompanhado de:
+**Art**. 2º O parecer do Conselho Penitenciário, sôbre cada caso, será remetido ao Ministério da Justiça e Negócios Interiores, acompanhado de:
 
 a) informação do diretor da prisão, e dos demais órgãos, nos moldes dos processos ordinários de comutação e de indulto;
 
@@ -30,10 +28,10 @@ c) antecedentes criminais;
 
 d) alegações que os interessados queiram juntar.
 
-<strong>Art</strong>. 3º Será desde logo examinada a situação daqueles que já estejam nas condições previstas no art. 1º à data dêste decreto.
+**Art**. 3º Será desde logo examinada a situação daqueles que já estejam nas condições previstas no art. 1º à data dêste decreto.
 
 Rio de Janeiro, em 7 de setembro de 1949; 128º da Independência e 61º da república.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Costa

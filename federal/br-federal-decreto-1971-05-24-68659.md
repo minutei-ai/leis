@@ -1,5 +1,3 @@
-###DEC-068659-0-000-24-05-1971@@@
-
 DECRETO Nº 68.659 - de 24 de maio de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra destinada a construção da subestação de Brasília Sul, em Brasília  Distrito Federal.

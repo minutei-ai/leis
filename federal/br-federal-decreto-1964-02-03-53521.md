@@ -1,5 +1,3 @@
-###DEC-053521-0-000-03-02-1964@@@
-
 DECRETO Nº 53.521, DE 3 DE FEVEREIRO DE 1964.
 
 Designa o Banco do Brasil S.A. para atuar, por intermédio da Carteira de Comércio Exterior, como organismo nacional capacitado a exercer atribuições e funções relacionadas com financiamento, pelo Banco Interamericano de Desenvolvimento, às exportações de bens de capital e dá outras providências.

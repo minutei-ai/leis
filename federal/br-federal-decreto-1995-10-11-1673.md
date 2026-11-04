@@ -1,7 +1,3 @@
-1
-
-###DEC-001673-0-000-11-10-1995@@@
-
 # DECRETO Nº 1.673, DE 11 DE OUTUBRO DE 1995.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Cultura e dá outras providências.

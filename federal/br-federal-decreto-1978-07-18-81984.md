@@ -1,5 +1,3 @@
-###DEC-081984-0-000-18-07-1978@@@
-
 DECRETO Nº 81.984, DE 18 DE JULHO DE 1978.
 
 Retifica a concessão de lavra outorgada à Companhia Paulista de Mineração pelo Decreto nº 21.304, de 18 de junho de 1946.

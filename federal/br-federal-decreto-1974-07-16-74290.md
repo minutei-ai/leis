@@ -1,5 +1,3 @@
-###DEC-074290-0-000-16-07-1974@@@
-
 DECRETO Nº 74.290 - DE 16 DE JULHO DE 1974.
 
 Autoriza a destinação de recursos do Fundo Especial ao Território Federal de Fernando de Noronha.

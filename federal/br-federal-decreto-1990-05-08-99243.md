@@ -1,7 +1,3 @@
-1
-
-###DEC-099243-0-000-08-05-1990@@@
-
 DECRETO N° 99.243, DE 8 DE MAIO DE 1990
 
 Aprova alteração do Estatuto Social da Petróleo Brasileiro S.A. , PETROBRÁS.

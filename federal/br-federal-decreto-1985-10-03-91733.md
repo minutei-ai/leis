@@ -1,5 +1,3 @@
-###DEC-091733-0-000-03-10-1985@@@
-
 DECRETO nº 91.733, de 03 de outubro de 1985
 
 Dispõe sobre a realização dos Censos Econômicos de 1985, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-060872-0-000-19-06-1967@@@
-
 Decreto nº 60.872, de 19 de junho de 1967.
 
 Dispõe sôbre a realização do I Congresso Nacional de Agropecuária.

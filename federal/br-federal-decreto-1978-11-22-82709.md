@@ -1,5 +1,3 @@
-###DEC-082709-0-000-22-11-1978@@@
-
 Decreto nº 82 709 de 22 de novembro de 1978
 
 Declara de utilidade pública, para fins de desapropriação pelas Telecomunicações do Rio de Janeiro S.A. - TELERJ, o domínio útil e parte própria de uma área de terra que menciona, situada na cidade de Niterói, Estado do Rio de Janeiro.

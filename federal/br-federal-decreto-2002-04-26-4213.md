@@ -1,5 +1,3 @@
-###DEC-004213-0-000-26-04-2002@@@
-
 DECRETO Nº 4.213, DE 26 DE ABRIL DE 2002
 
 Define os setores da economia prioritários para o desenvolvimento regional, nas áreas de atuação da extinta SUDENE, e dá outras providências.

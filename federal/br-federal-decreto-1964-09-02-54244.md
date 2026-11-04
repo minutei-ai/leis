@@ -1,5 +1,3 @@
-###DEC-054244-0-000-02-09-1964@@@
-
 decreto nº 54.244, de 2 de setembro de 1964.
 
 Altera o artigo 2º do Decreto número 54.081, de 31 de julho de 1964.

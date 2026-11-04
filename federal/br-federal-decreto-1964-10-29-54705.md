@@ -1,5 +1,3 @@
-###DEC-054705-0-000-29-10-1964@@@
-
 DECRETO Nº 54.705, DE 29 DE OUTUBRO DE 1964.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A concessão para o aproveitamento da energia hidráulica das corredeiras do Funil, no rio Grande, Estado de Minas Gerais.

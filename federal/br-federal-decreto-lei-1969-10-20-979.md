@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b1eea8e1-3ff9-4596-b13b-6f1b341606cd/texto#nowhere)
 
-###DEL-000979-0-000-20-10-1969@@@
-
 DEcreto-Lei Nº 979, DE 20 de OUTUBRO DE 1969
 
 Altera disposições da Lei nº 5.327, de 2 de outubro de 1967.

@@ -1,5 +1,3 @@
-###DEC-007652-0-000-22-12-2011-PUB-01@@@
-
 DECRETO N° 7.652, DE 22 DE DEZEMBRO DE 2011
 
 Disciplina o instituto de progressão dos servidores integrantes da Carreira de Delegado de Polícia Civil do Distrito Federal e da Carreira Policial Civil do Distrito Federal, de que trata o Decreto-Lei n° 2.266, de 12 de março de 1985 e a Lei n° 9.264, de 7 de fevereiro de 1996.

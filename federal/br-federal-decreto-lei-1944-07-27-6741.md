@@ -1,6 +1,5 @@
-###DEL-006741-0-000-27-07-1944@@@
+DECRETO-LEI N. 6.741 – DE 27 DE Julho DE 1944
 
-DECRETO-LEI N. 6.741 – DE 27 DE Julho DE 1944<br>
  
 
 Transfere a C. A. P. de Serviços Públicos do Estado do Espírito Santo em C. A. P. dos Empregados da Vale do Rio Doce e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-066611-0-000-21-05-1970@@@
-
 decreto nº 66.611, de 21 de maio de 1970.
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais, com sede em São Leopoldo, Estado do Rio Grande do Sul.

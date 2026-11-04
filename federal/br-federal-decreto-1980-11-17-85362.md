@@ -1,5 +1,3 @@
-###DEC-085362-0-000-17-11-1980@@@
-
 decreto nº 85.362, de 17 de novembro de 1980.
 
 Autoriza o funcionamento do curso de Letras, licenciatura plena, da Faculdade de Formação de Professores de Vitória da Conquista, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-003984-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.984 – DE 30 DE DEZEMBRO DE 1941
 
 Dispõe sobre a aquisição e moagem do trigo nacional

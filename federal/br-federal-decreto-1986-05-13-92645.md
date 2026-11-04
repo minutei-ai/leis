@@ -1,5 +1,3 @@
-###DEC-092645-0-000-13-05-1986@@@
-
 DECRETO Nº 92.645, DE 13 maio de 1986
 
 Declara de ocupação dos silvícolas, área de terras no Município de Boca do Acre, no Estado do Amazonas, e dá outras providências.

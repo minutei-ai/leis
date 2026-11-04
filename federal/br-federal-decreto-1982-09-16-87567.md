@@ -1,5 +1,3 @@
-###DEC-087567-0-000-16-09-1982@@@
-
 Decreto nº 87.567, de 16 de setembro de 1982
 
 Dispõe sobre a aplicação do regime do Fundo de Garantia do Tempo de Serviço (FGTS) aos diretores não empregados das entidades a que se refere o § 3º do artigo 1º da Lei nº 6.919, de 2 de junho de 1981, e dá outras providências.

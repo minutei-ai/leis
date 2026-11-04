@@ -12,5 +12,6 @@ Aparecida de Goiânia, 21 de maio de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

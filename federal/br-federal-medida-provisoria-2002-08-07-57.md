@@ -1,5 +1,3 @@
-###MPV-000057-0-000-07-08-2002@@@
-
 MEDIDA PROVISÓRIA Nº 57, DE 7 DE AGOSTO DE 2002
 
 Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e a União a adquirirem ações da Companhia Energética de Goiás - CELG para efeito de inclusão no Programa Nacional de Desestatização - PND, e dá outras providências.

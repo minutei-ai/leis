@@ -1,5 +1,3 @@
-###DEL-004899-0-000-30-10-1942@@@
-
 DECRETO-LEI N. 4.899 – DE 30 DE OUTUBRO DE 1942
 
 Trata da obrigatoriedade da pesada de animal comprado para ser abatido e da fiscalização oficial feita nos estabelecimentos compradores

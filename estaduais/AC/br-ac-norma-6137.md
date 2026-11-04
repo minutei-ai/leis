@@ -1,6 +1,10 @@
 > **LEI Nº 4.391, DE 13 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a implantação da atividade de xadrez nos currículos escolares de ensino fundamental e médio na rede estadual de ensino.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a implantação da atividade de xadrez nos currículos escolares de ensino fundamental e médio na rede estadual de ensino.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-046609-0-000-14-08-1959@@@
-
 DECRETO Nº 46.609, de 14 de agôsto de 1959.
 
 Autoriza a Mineração Lageado Limitada a lavrar minério de chumbo nos municípios de Bocaiúva do Sul e Cêrro Azul, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-057585-0-000-06-01-1966@@@
-
 DECRETO Nº 57.585, DE 6 DE JANEIRO DE 1966.
 
 Regula a cobrança do adicional previsto no art. 28 da Lei nº 4.863, de 29 de novembro de 1965.

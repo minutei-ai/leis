@@ -1,5 +1,3 @@
-###DEC-057486-0-000-27-12-1965@@@
-
 DECRETO Nº 57.486, DE 27 DE DEZEMBRO DE 1965.
 
 Inclui nas relações de que trata o Decreto nº 55.244, de 21 de dezembro de 1964, os cargos que especifica.

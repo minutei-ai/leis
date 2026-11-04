@@ -1,5 +1,3 @@
-###DEC-059415-0-000-25-10-1966@@@
-
 DECRETO Nº 59.415, de 25 de outubro de 1966.
 
 Abre o crédito especial de Cr$13.515.963.777, ao Ministério da Fazenda, para atender as despesas decorrentes do aumento de vencimentos da Lei nº 4.863, de 29 de novembro de 1965, aplicado ao Congresso Nacional conforme resoluções 188-66, da Câmara dos Deputados e 20-66, do Senado Federal, extensivo ao Tribunal de Contas da União.
@@ -10,7 +8,35 @@ decreta:
 
 Art. 1º Fica aberto, ao Ministério da Fazenda, o crédito especial de Cr$13.515.963.777 (treze bilhões quinhentos e quinze milhões, novecentos e sessenta e três mil setecentos e setenta e sete cruzeiros), para atender às despesas, de março a dezembro de 1966, decorrentes do aumento de vencimentos da Lei nº 4.863, de 29 de novembro de 1965, aplicado ao Congresso Nacional conforme Resolução 188-66, da Câmara dos Deputados e 20-66, do Senado Federal e extensivo ao poder Judiciário e ao Tribunal de Contas da União, com a seguinte discriminação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Supremo Tribunal Federal ..................................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>713.467.602</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tribunal Federal de Recursos ............................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>194.765.000</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça Eleitoral (sede e regionais) .....................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.869.792.914</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça do Trabalho (sede e regionais)</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.532.826.261</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça Militar (sede e regionais) ........................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>984.912.000</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Justiça do Distrito Federal e Territórios ..............................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>191.200.000</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tribunal de Contas da União ..............................................................................</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.029.000.000</span></p></td></tr></tbody></table>
+Cr$
+
+Supremo Tribunal Federal ..................................................................................
+
+713.467.602
+
+Tribunal Federal de Recursos ............................................................................
+
+194.765.000
+
+Justiça Eleitoral (sede e regionais) .....................................................................
+
+3.869.792.914
+
+Justiça do Trabalho (sede e regionais)
+
+5.532.826.261
+
+Justiça Militar (sede e regionais) ........................................................................
+
+984.912.000
+
+Justiça do Distrito Federal e Territórios ..............................................................
+
+191.200.000
+
+Tribunal de Contas da União ..............................................................................
+
+2.029.000.000
 
 Art. 2º O crédito especial de que trata o artigo anterior, com vigência por dois exercícios, será registrado e distribuído, automàticamente, pelo Tribunal de Contas da União ao Tesouro Nacional.
 

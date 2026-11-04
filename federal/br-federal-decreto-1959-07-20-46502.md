@@ -1,5 +1,3 @@
-###DEC-046502-0-000-20-07-1959@@@
-
 DECRETO Nº 46.502, DE 20 DE JULHO DE 1959.
 
 Autoriza a Companhia Caldense de Eletricidade a ampliar suas instalações hidrelétricas.

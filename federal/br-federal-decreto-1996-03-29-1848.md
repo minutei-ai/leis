@@ -1,5 +1,3 @@
-###DEC-001848-0-000-29-03-1996@@@
-
 DECRETO Nº 1.848 DE 29 DE MARÇO DE 1996
 
 Altera a Lista de Exceção à Tarifa Externa Comum, constante do Anexo II ao Decreto nº 1.767, de 28 de dezembro de 1995.

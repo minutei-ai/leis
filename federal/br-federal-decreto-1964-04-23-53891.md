@@ -1,5 +1,3 @@
-###DEC-053891-0-000-23-04-1964@@@
-
 DECRETO Nº 53.891, DE 23 DE ABRIL DE 1964.
 
 Declara luto oficial em todo o País por motivo de falecimento do Presidente do Presidium da Assembléia Nacional da República Popular Búlgara.

@@ -1,5 +1,3 @@
-###DEC-070901-0-000-31-07-1972@@@
-
 DECRETO Nº 70.901, DE 31 DE JULHO DE 1972.
 
 Concede a Mineração Urandi S.A. o direito de lavrar minério de manganês no município de Licinio de Almeida, Estado da Bahia.

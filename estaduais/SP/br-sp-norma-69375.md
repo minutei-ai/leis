@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69375)
-
 # LEI Nº 12.479, DE 26 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 795/2004, da Deputada Maria Lúcia Amary - PSDB)

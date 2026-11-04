@@ -1,5 +1,3 @@
-###DEL-006970-0-000-19-10-1944@@@
-
 DECRETO-LEI N. 6.970 – DE 19 DE OUTUBRO DE 1944
 
 Dispõe sôbre o preço do carvão nacional destinado à usina termo-elétrica admnistrada pela Prefeitura Municipal de Rio Grande, Estado do Rio Grande do Sul

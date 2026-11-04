@@ -1,5 +1,3 @@
-###DEL-009750-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.750 – DE 5 DE SETEMBRO DE 1946
 
 Revoga dispositivos referentes a preferência para nomeação ao cargo de agente fiscal do Impôsto do Consumo, e dá outras providências.

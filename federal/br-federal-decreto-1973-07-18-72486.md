@@ -1,5 +1,3 @@
-###DEC-072486-0-000-18-07-1973@@@
-
 DECRETO Nº 72.486, DE 18 DE JULHO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

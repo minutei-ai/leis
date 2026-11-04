@@ -1,5 +1,3 @@
-###DEC-074396-0-000-12-08-1974@@@
-
 DECRETO Nº 74.396, DE 12 DE AGOSTO DE 1974.
 
 Concede a Metais de Goiás S.A. - METAGO o direito de lavrar apatita nos Municípios de Catalão e Ouvidor, Estado de Goiás.

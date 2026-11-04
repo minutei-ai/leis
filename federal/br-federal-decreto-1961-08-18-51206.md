@@ -1,5 +1,3 @@
-###DEC-051206-0-000-18-08-1961@@@
-
 DECRETO Nº 51.206, DE 18 DE AGÔSTO DE 1961.
 
 Abre pelo Ministério da Agricultura, o crédito especial de Cr$150.000.000,00, destinado ao combate ao cancro cítrico nos Estados de São Paulo, Paraná, Mato Grosso e Goiás e à indenização aos proprietários cujas plantas forem destruídas pelo Poder Público no combate do mal.

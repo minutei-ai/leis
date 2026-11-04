@@ -1,5 +1,3 @@
-###DEC-046842-0-000-15-09-1959@@@
-
 DECRETO Nº 46.842, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a Companhia Fôrça e Luz de Minas Gerais a alienar um grupo termoelétrico, instalado em Belo Horizonte, Estado de Minas Gerais.

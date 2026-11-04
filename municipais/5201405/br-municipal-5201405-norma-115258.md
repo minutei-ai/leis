@@ -4,15 +4,18 @@ Dispõe sobre a organização da Procuradoria Geral do Município de Aparecida d
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-TÍTULO I<br>
+TÍTULO I
+
 DA ORGANIZAÇÃO E COMPETÊNCIA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÃO PRELIMINAR
 
 Art. 1º. Esta Lei Complementar organiza a Procuradoria Geral do Município, define a sua competência e dispõe sobre o regime jurídico e regime de remuneração dos integrantes da carreira de Procurador do Município.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ORGANIZAÇÃO
 
 Art. 2º. A Procuradoria Geral do Município é constituída dos seguintes órgãos:
@@ -69,14 +72,16 @@ IV – assessor jurídico;
 
 ~~V - órgão de administração:~~
 
-~~a) Secretaria Geral.~~<br>
+~~a) Secretaria Geral.~~
+
 (Revogado pela Lei Complementar nº 125, de 11 de janeiro de 2017).
 
 § 1º. As Subprocuradorias Gerais serão dirigidas por Procuradores Chefes, escolhidos entre os Procuradores em atividade, que serão indicados pelo Procurador Geral do Município e nomeados em comissão pelo Prefeito Municipal.
 
 § 2°. Fica assegurado, na forma em regulamento do Chefe do Executivo aos ocupantes de cargo efetivo designados para exercer função de confiança ou cargo em comissão a forma de pagamento de gratificação como retribuição para o seu exercício.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA COMPETÊNCIA
 
 Art. 3º. À Procuradoria Geral do Município, órgão integrante do Poder Executivo Municipal, compete:
@@ -113,10 +118,12 @@ XIII - outras atividades correlatas.
 
 § 3º. A inobservância do disposto nos §§ 1º e 2º deste artigo será considerada infração tipificada nos incisos VII e/ou XX do artigo 133, da Lei Complementar n° 003, de 28 de dezembro de 2001, e suas modificações posteriores.
 
-TÍTULO II<br>
+TÍTULO II
+
 DOS ÓRGÃOS SUPERIORES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROCURADOR GERAL
 
 Art. 4º. A Procuradoria Geral do Município é dirigida pelo Procurador Geral, escolhido dentre advogados inscritos na Ordem dos Advogados do Brasil, com no mínimo 05 (cinco) anos de experiência em advocacia e reputação ilibada, e nomeado pelo Chefe do Poder Executivo.
@@ -161,7 +168,8 @@ XVII - presidir o Conselho de Procuradores.
 
 § 2º. O Procurador Geral será substituído, em suas ausências e impedimentos eventuais pelo Subprocurador Geral, ou por quem ele indicar.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO CONSELHO DE PROCURADORES
 
 Art. 6º. O Conselho de Procuradores compõe-se:
@@ -198,10 +206,12 @@ X – expedir normas sobre avaliação de desempenho.
 
 Parágrafo único. O regimento interno do Conselho disporá sobre seu funcionamento, competência dos órgãos respectivos, deliberações, normas eleitorais e outras matérias pertinentes.
 
-TÍTULO III<br>
+TÍTULO III
+
 DOS ÓRGÃOS DE ASSESSORAMENTO SUPERIOR
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA CHEFIA DE GABINETE E PROTOCOLO
 
 Art. 8º. A Chefia de Gabinete e Protocolo será dirigida pelo Chefe de Gabinete nomeado em cargo em comissão pelo Chefe do Poder Executivo, após indicação do Procurador Geral do Município.
@@ -236,7 +246,8 @@ XIII - sugerir a indicação de representantes nos eventos e solenidades nas aus
 
 XIV - exercer outras atividades que lhe forem delegadas pelo Procurador Geral.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO SUPROCURADOR GERAL
 
 Art. 10. O Subprocurador Geral será indicado pelo Procurador Geral, escolhido entre os Procuradores do Município, na seguinte ordem, preferencialmente:
@@ -269,10 +280,12 @@ VII – propor ao Procurador Geral do Município o ajuizamento de ações por in
 
 VIII – praticar outros atos que lhe sejam delegados pelo Procurador Geral do Município.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DOS ÓRGÃOS DE EXECUÇÃO DE ATIVIDADES JURÍDICAS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS SUBPROCURADORIAS GERAIS DO MUNICÍPIO
 
 Art. 12. As Subprocuradorias Gerais têm por finalidade dar assistência administrativa-jurídica ao Procurador Geral do Município e ao Subprocurador Geral em matéria de sua competência.
@@ -309,7 +322,8 @@ XI - propor alterações na composição da equipe de servidores, sempre que nec
 
 XII – exercer outras atividades que lhe forem atribuídas pelo Procurador Geral do Município e Subprocurador Geral.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA SUPROCURADORIA GERAL DE CONTENCIOSO JUDICIAL
 
 Art. 14. Compete à Subprocuradoria Geral de Contencioso Judicial:
@@ -322,7 +336,8 @@ III – acompanhar o andamento dos precatórios judiciais;
 
 IV – emitir parecer sobre matérias relacionadas com processos judiciais em que a administração direta e indireta do Município tenha interesse.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA SUPROCURADORIA GERAL DA ÁREA FISCAL
 
 Art. 15. Compete à Subprocuradoria Geral da Área Fiscal:
@@ -345,7 +360,8 @@ VIII - emitir parecer em processo administrativo de isenção, remissão e presc
 
 Parágrafo único. Para atingir seus objetivos institucionais, a Subprocuradoria Geral da Área Fiscal poderá atuar em colaboração com órgãos de gestão e arrecadação administrativa e financeira.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA SUBPROCURADORIA GERAL DA ÁREA ADMINISTRATIVA
 
 Art. 16. Compete à Subprocuradoria Geral da Área Administrativa:
@@ -386,10 +402,12 @@ XVII - subsidiar as demais unidades em assuntos de sua competência, sempre que 
 
 XVIII – os atos realizados pela assessoria jurídica dos órgãos da Administração Indireta, serão apreciados pela Procuradoria Geral do Município, se o titular do órgão interessado julgar necessário.
 
-TÍTULO V<br>
+TÍTULO V
+
 DA ASSESSORIA JURÍDICA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO ASSESSOR JURÍDICO
 
 Art. 17. O Assessor Jurídico da Procuradoria Geral do Município será escolhido dentre advogados, nomeados em comissão pelo Chefe do Executivo, após análise de currículo e entrevista pelo Procurador Geral do Município.
@@ -428,11 +446,14 @@ XV - elaborar peças judiciais em ações;
 
 XVI - exercer outras atividades que lhe forem atribuídas pelo chefe imediato.
 
-~~TÍTULO VI<br>
-DO ÓRGÃO DE ADMINISTRAÇÃO<br>
+~~TÍTULO VI
+
+DO ÓRGÃO DE ADMINISTRAÇÃO
+
 ~~(Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA SECRETARIA GERAL
 
 Art. 19. A Secretaria Geral é o órgão incumbido de realizar as atividades de planejamento, coordenação e de execução administrativa da Procuradoria Geral do Município, sendo dirigida por um Secretário Geral com o auxílio de outros servidores, subdivida em áreas específicas de atuação, conforme a seguir especificadas:
@@ -499,10 +520,12 @@ f) promover o controle, arquivamento e atualização das leis municipais;
 
 g) desempenhar outras tarefas próprias da função ou correlatas que lhe sejam conferidas pelo Procurador Geral do Município e pelo Secretário Geral.
 
-TÍTULO VII<br>
+TÍTULO VII
+
 DA CARREIRA DE PROCURADOR DO MUNICÍPIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA CARREIRA
 
 Art. 22 A carreira de Procurador do Município é constituída dos seguintes níveis:
@@ -525,21 +548,24 @@ IV - Procurador do Município de nível III;
 
 § 5º. O Procurador convocado para desempenhar as funções nos termos do parágrafo anterior receberá a diferença de vencimento correspondente ao cargo de substituído, inclusive diárias e transporte, se for o caso.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO INGRESSO NA CARREIRA
 
 Art. 23. O ingresso na carreira de Procurador do Município dar-se à na classe inicial, mediante prévia aprovação em concurso público de provas ou de provas e títulos.
 
 Art. 24. O concurso será organizado de acordo com normas gerais estabelecidas pela Administração, com participação do Procurador Geral do Município, do Conselho de Procuradores, e demais autoridades competentes.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA NOMEAÇÃO, DA POSSE E DO COMPROMISSO
 
 Art. 25. Os cargos iniciais da carreira de Procurador do Município serão providos em caráter efetivo, por nomeação, obedecida à ordem de classificação em concurso público.
 
 Art. 26. Os Procuradores do Município tomarão posse perante o Procurador Geral do Município, e departamento de recursos humanos, mediante compromisso formal de estrita observância das leis, respeito às instituições democráticas e cumprimento dos deveres inerentes ao cargo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS PRERROGATIVAS
 
 Art. 27. Aos integrantes da carreira de Procurador do Município aplicam-se as vedações, os impedimentos e as incompatibilidades previstos na Lei Federal nº 8.906, de 04 de julho de 1994.
@@ -560,7 +586,8 @@ Art. 29. Os Procuradores do Município exercerão suas funções nos órgãos da
 
 Parágrafo único. O Procurador Geral do Município poderá designar Procurador do Município, de acordo com a necessidade de serviço, para desempenhar suas funções junto a qualquer órgão ou ente da Administração Direta e Indireta do Município, desde que devidamente fundamentado e após apreciação do Conselho de Procuradores.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS DEVERES
 
 Art. 30. São deveres dos Procuradores do Município:
@@ -589,7 +616,8 @@ XI - velar por suas prerrogativas institucionais e processuais.
 
 Parágrafo único. Os Procuradores do Município, além desses deveres, sujeitam-se aos previstos no Estatuto dos Servidores Municipais e na Lei Federal nº 8.906, de 04 de julho de 1994.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS PROIBIÇÕES
 
 Art. 31. Além das proibições decorrentes do exercício do cargo público, aos Procuradores do Município é vedado:
@@ -610,12 +638,14 @@ d) nas hipóteses da legislação processual.
 
 Parágrafo único. Nas situações previstas neste artigo, cumpre seja dada ciência, ao superior hierárquico imediato, em expediente reservado, dos motivos do impedimento, objetivando a designação de substituto.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DO REGIME JURÍDICO
 
 Art. 32. O regime jurídico da carreira de Procurador do Município é o previsto no Estatuto dos Servidores Municipais.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DO REGIME DE REMUNERAÇÃO DOS PROCURADORES DO MUNICÍPIO
 
 Art. 33. Os Procuradores do Município de Aparecida de Goiânia serão remunerados nos termos do Anexo II que integra esta Lei.
@@ -640,10 +670,12 @@ Art. 34. Os vencimentos do cargo de Procurador do Município de Aparecida de Goi
 
 Parágrafo Único – O chefe do poder executivo por ato próprio fixará o acréscimo e os critérios de outros adicionais e vantagens administrativas e judiciais ao vencimento do cargo de Procurador do Município de Aparecida de Goiânia.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DA PROMOÇÃO
 
-~~Art. 35. Ultrapassado o estágio probatório os Procuradores do Município ficam submetidos ao regime próprio de acesso em cada carreira, observados os critérios estabelecidos no regulamento de promoções que será baixado mediante resolução do Conselho de Procuradores.<br>
+~~Art. 35. Ultrapassado o estágio probatório os Procuradores do Município ficam submetidos ao regime próprio de acesso em cada carreira, observados os critérios estabelecidos no regulamento de promoções que será baixado mediante resolução do Conselho de Procuradores.
+
 ~~(Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art 36. promoção dos integrantes da carreira de Procurador do Município far-se-á alternadamente por antiguidade e merecimento, com a observância, no caso de merecimento, de critérios objetivos de aferição, considerando-se, inclusive, a freqüência e o aproveitamento em cursos reconhecidos de aperfeiçoamento.~~
@@ -662,12 +694,14 @@ DA PROMOÇÃO
 
 ~~I – o desempenho, produtividade e presteza e a segurança no desempenho da função;~~
 
-~~II – a freqüência e o aproveitamento em cursos oficiais ou reconhecidos de aperfeiçoamento, atribuindo-se respectiva gradação, observados, para efeito de participação nesses cursos, critérios de isonomia e razoabilidade, respeitando sempre o interesse público.~~<br>
+~~II – a freqüência e o aproveitamento em cursos oficiais ou reconhecidos de aperfeiçoamento, atribuindo-se respectiva gradação, observados, para efeito de participação nesses cursos, critérios de isonomia e razoabilidade, respeitando sempre o interesse público.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art. 37. As promoções serão processadas semestralmente, nos meses de janeiro e julho de cada ano.~~
 
-~~Parágrafo único. Para as promoções com vigência a partir de 1º de fevereiro e de 1º de agosto serão consideradas vagas ocorridas até 31 de dezembro e até 30 de junho imediatamente anteriores.<br>
+~~Parágrafo único. Para as promoções com vigência a partir de 1º de fevereiro e de 1º de agosto serão consideradas vagas ocorridas até 31 de dezembro e até 30 de junho imediatamente anteriores.
+
 ~~(Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art. 38. A vacância do cargo a ser preenchido por promoção ocorrerá na data:~~
@@ -678,36 +712,44 @@ DA PROMOÇÃO
 
 ~~c)    do início da vigência do ato de promoção;~~
 
-~~d)    da publicação do ato de aposentadoria.~~<br>
+~~d)    da publicação do ato de aposentadoria.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 39. Somente poderão integrar as listas de promoção, por antiguidade ou por merecimento, os membros da Procuradoria Geral do Município que tenham cumprido o estágio probatório.~~<br>
+~~Art. 39. Somente poderão integrar as listas de promoção, por antiguidade ou por merecimento, os membros da Procuradoria Geral do Município que tenham cumprido o estágio probatório.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 40. Para todos os efeitos, será considerado promovido o membro de carreira da Procuradoria Geral do Município que vier a falecer ou aposentar-se sem que tenha sido efetivada, no prazo legal, a promoção a que fizer jus por antiguidade ou merecimento.~~<br>
+~~Art. 40. Para todos os efeitos, será considerado promovido o membro de carreira da Procuradoria Geral do Município que vier a falecer ou aposentar-se sem que tenha sido efetivada, no prazo legal, a promoção a que fizer jus por antiguidade ou merecimento.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 41. Os efeitos financeiros das promoções serão computados a partir do primeiro dia dos meses de fevereiro e agosto subseqüente ao mês que tenha sido processada as referidas promoções.~~<br>
+~~Art. 41. Os efeitos financeiros das promoções serão computados a partir do primeiro dia dos meses de fevereiro e agosto subseqüente ao mês que tenha sido processada as referidas promoções.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 42. Não poderá concorrer à promoção por merecimento e antiguidade quem tenha sofrido qualquer penalidade disciplinar, no período de um ano imediatamente anterior à ocorrência da vaga, em caso de advertência; ou de dois anos, em caso de suspensão.~~<br>
+~~Art. 42. Não poderá concorrer à promoção por merecimento e antiguidade quem tenha sofrido qualquer penalidade disciplinar, no período de um ano imediatamente anterior à ocorrência da vaga, em caso de advertência; ou de dois anos, em caso de suspensão.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 43. Será obrigatoriamente promovido quem houver figurado por três vezes consecutivas, ou cinco intercaladas, na lista elaborada pelo Conselho de Procuradores.~~<br>
+~~Art. 43. Será obrigatoriamente promovido quem houver figurado por três vezes consecutivas, ou cinco intercaladas, na lista elaborada pelo Conselho de Procuradores.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art. 44. Não poderá concorrer à promoção por merecimento, até um semestre após o regresso, o membro da Procuradoria Geral do Município afastado da carreira para:~~
 
 ~~I – exercer cargo eletivo ou a ele concorrer;~~
 
-~~II – exercer outro cargo público permitido por lei.~~<br>
+~~II – exercer outro cargo público permitido por lei.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art. 45. Nos casos de promoção por antiguidade, o prazo para reclamação contra a lista de antiguidade elaborada pelo Conselho de Procuradores, será de trinta dias, contados da publicação.~~
 
 ~~§ 1º. No caso da decisão do Conselho de Procuradores da impugnação de lista ultrapasse a data para concessão da promoção, esta dar-se-á somente no semestre seguinte.~~
 
-~~§ 2º. Na indicação a promoção por antiguidade, o Conselho de Procuradores somente poderá recusar o mais antigo pelo voto de dois terços de seus integrantes, repetindo-se a votação até fixar-se a indicação.~~<br>
+~~§ 2º. Na indicação a promoção por antiguidade, o Conselho de Procuradores somente poderá recusar o mais antigo pelo voto de dois terços de seus integrantes, repetindo-se a votação até fixar-se a indicação.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art 46. promoção por antiguidade recairá no servidor que tiver maior tempo de efetivo exercício no nível, apurado no último dia do último mês de cada semestre.~~
@@ -726,18 +768,22 @@ DA PROMOÇÃO
 
 ~~§ 2 º. Antes da aplicação do critério de desempate de que trata o inciso II do parágrafo anterior, considerar-se-á o posicionamento hierárquico do servidor, segundo o “nível” e a “referência” na antiga categoria funcional de Procurador do Município e o respectivo tempo.~~
 
-~~§ 3º. Na apuração dos critérios indicados no § 1º deste artigo, será considerado, exclusivamente, o tempo de efetivo exercício.~~<br>
+~~§ 3º. Na apuração dos critérios indicados no § 1º deste artigo, será considerado, exclusivamente, o tempo de efetivo exercício.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 47. É facultada a recusa de promoção, sem prejuízo do critério de preenchimento da vaga recusada.~~<br>
+~~Art. 47. É facultada a recusa de promoção, sem prejuízo do critério de preenchimento da vaga recusada.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-~~Art. 48. É facultada a renúncia à promoção, em qualquer tempo, desde que haja vaga na categoria imediatamente anterior.~~<br>
+~~Art. 48. É facultada a renúncia à promoção, em qualquer tempo, desde que haja vaga na categoria imediatamente anterior.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art. 49. Entende-se por Progressão Horizontal a passagem do servidor de um padrão para outro superior dentro do nível que ocupe.~~
 
-~~Parágrafo único. A progressão horizontal de que trata este artigo é aplicável aos Procuradores do Município e os padrões são os constantes no Anexo II desta Lei.~~<br>
+~~Parágrafo único. A progressão horizontal de que trata este artigo é aplicável aos Procuradores do Município e os padrões são os constantes no Anexo II desta Lei.~~
+
 (Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 ~~Art. 50. Terá direito à progressão horizontal o servidor que satisfazer, simultaneamente, as seguintes condições:~~
@@ -752,10 +798,12 @@ DA PROMOÇÃO
 
 ~~§ 3º. Não fará jus à progressão horizontal o Procurador do Município que, no último ano, houver sofrido pena disciplinar.~~
 
-~~§ 4º. A Administração concederá a progressão horizontal a cada 02 (dois) anos, de forma coletiva, após formalização do resultado da avaliação de desempenho realizada pelo Conselho Superior, e observando a disponibilidade de recursos orçamentários e financeiros, bem assim os dispositivos legais e constitucionais em vigor.<br>
+~~§ 4º. A Administração concederá a progressão horizontal a cada 02 (dois) anos, de forma coletiva, após formalização do resultado da avaliação de desempenho realizada pelo Conselho Superior, e observando a disponibilidade de recursos orçamentários e financeiros, bem assim os dispositivos legais e constitucionais em vigor.
+
 ~~(Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
-TÍTULO VII<br>
+TÍTULO VII
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 51. A extensão de decisões judiciais, transitadas em julgado, a quem não houver sido parte nos processos das respectivas ações, dependerá de prévio parecer da Procuradoria Geral do Município e expressa autorização do Chefe do Poder Executivo.
@@ -766,7 +814,8 @@ Art. 53. Poderão ser estendidos aos inativos, mediante opção expressa, os ben
 
 Parágrafo único. Entende-se por extensão dos benefícios e vantagens decorrentes desta lei, a conversão de todos os valores percebidos pelos inativos a título de remuneração fixada nos termos do art. 22, § 2º desta Lei.
 
-~~Art. 54. Os vencimentos, proventos ou outra espécie remuneratória dos servidores ativos e inativos de que trata a presente Lei Complementar, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer natureza, não poderão exceder o subsídio mensal, em espécie do Prefeito Municipal.<br>
+~~Art. 54. Os vencimentos, proventos ou outra espécie remuneratória dos servidores ativos e inativos de que trata a presente Lei Complementar, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer natureza, não poderão exceder o subsídio mensal, em espécie do Prefeito Municipal.
+
 ~~(Revogado pela Lei Complementar nº 192, de 8 de abril de 2022).
 
 Art. 55. Os Procuradores do quadro de carreira do Município, com mais de três anos de exercício no cargo, na data da publicação desta Lei Complementar, serão promovidos para o Nível II.
@@ -785,13 +834,16 @@ Art. 60. Revoga-se expressamente as disposições referentes ao vencimento do ca
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, aos 08 dias do mês de agosto do ano de 2008.
 
-José Macedo de Araújo<br>
+José Macedo de Araújo
+
 Prefeito Municipal
 
-Walter de Carvalho e Silva<br>
+Walter de Carvalho e Silva
+
 Secretário Executivo
 
-Marcelo Ribeiro Fernandes<br>
+Marcelo Ribeiro Fernandes
+
 Procurador Geral Do Município
 
 [ANEXO I](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19120/anexo)

@@ -1,5 +1,3 @@
-###DEL-006958-0-000-13-10-1944@@@
-
 DECRETO-LEI N. 6.958 – DE 13 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 2.000.000,00, para trabalhos de pequena hidrografia, polícia de focos e serviços complementares

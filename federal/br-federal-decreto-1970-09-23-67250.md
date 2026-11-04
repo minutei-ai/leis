@@ -1,5 +1,3 @@
-###DEC-067250-0-000-23-09-1970@@@
-
 DECRETO Nº 67.250, DE 23 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação pela Superintendência do Vale do São Francisco - SUVALE, área de terra destinada à implantação do Projeto de Irrigação do Massangano (PA-I), situada no Município de Petrolina, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-087334-0-000-28-06-1982@@@
-
 Decreto nº 87.334, de 28 de junho de 1982
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de terrenos, com benfeitorias, situados na cidade de Belém, Estado do Pará, destinados ao Tribunal Regional do Trabalho da 8ª Região.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188480)
-
 # DECRETO Nº 63.851, DE 27 DE NOVEMBRO DE 2018
 
 ### _Altera o Decreto nº 47.166, de 1º de outubro de 2002, de reorganização do Departamento de Inteligência da Polícia Civil - DIPOL_

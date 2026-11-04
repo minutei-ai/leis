@@ -1,5 +1,3 @@
-###DEC-062357-0-000-06-03-1968@@@
-
 decreto nº 62.357, de 6 de março de 1968.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal, do Instituto do Açúcar e do Álcool, cargos oriundos do extinto Lloyd, Brasileiro - Patrimônio Nacional, e dá outras providências.

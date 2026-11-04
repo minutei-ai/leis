@@ -1,5 +1,3 @@
-###DEC-081150-0-000-02-01-1978@@@
-
 Decreto nº 81.150, de 02 de janeiro de 1978.
 
 Declara sem efeito o Decreto nº 27.941, de 23 de março de 1950, que autorizou o cidadão brasileiro João Procópio de Rezende a lavrar minério de ferro no Município de Brumadinho, Estado de Minas Gerais.

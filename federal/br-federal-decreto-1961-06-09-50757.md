@@ -1,5 +1,3 @@
-###DEC-050757-0-000-09-06-1961@@@
-
 DECRETO Nº 50.757, DE 9 DE JUNHO DE 1961.
 
 Outorga concessão à Rádio Guaíba S.A. para estabelecer uma estação de radiotelevisão.

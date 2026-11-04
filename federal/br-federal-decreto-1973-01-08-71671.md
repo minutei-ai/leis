@@ -1,5 +1,3 @@
-###DEC-071671-0-000-08-01-1973@@@
-
 DECRETO Nº 71.671, DE 8 DE JANEIRO DE 1973.
 
 Declara sem efeito o Decreto nº 35.119, de 25 de fevereiro de 1954.

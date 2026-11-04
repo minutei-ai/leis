@@ -1,5 +1,3 @@
-###DEC-004686-0-000-29-04-2003@@@
-
 DECRETO N° 4.686, DE 29 DE ABRIL DE 2003.
 
 Dispõe sobre o Conselho Nacional de Turismo e dá outras providências.

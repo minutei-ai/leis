@@ -1,5 +1,3 @@
-###DEL-001697-0-000-26-09-1979@@@
-
 # Decreto-lei nº 1.697, de 26 de setembro de 1979
 
 Concede isenção dos impostos de importação e sobre produtos industrializados aos bens destinados ao IX Recenseamento Geral do Brasil.

@@ -1,5 +1,3 @@
-###DEC-062184-0-000-29-01-1968@@@
-
 DECRETO Nº 62.184, DE 29 DE JANEIRO DE 1968.
 
 Autoriza a cessão sob a forma de utilização gratuita e mediante condições especiais, à Prefeitura Municipal de Salvador, do imóvel que menciona, situado na Bahia de Todos os Santos no Estado da Bahia.

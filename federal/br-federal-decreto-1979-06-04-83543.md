@@ -1,5 +1,3 @@
-###DEC-083543-0-000-04-06-1979@@@
-
 Decreto nº 83.543, de 04 de junho de 1979.
 
 Declara de utilidade pública, para fins de desapropriação áreas de terreno rural situado no Município de São Sebastião do Passé, no Estado da Bahia, destinadas à construção e implantação de uma estação de telecomunicações pela Empresa Brasileira de Telecomunicações S.A. - EMBRATEL.

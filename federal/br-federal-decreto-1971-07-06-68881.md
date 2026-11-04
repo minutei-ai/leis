@@ -1,5 +1,3 @@
-###DEC-068881-0-000-06-07-1971@@@
-
 DECRETO Nº 68.881, DE 6 DE JULHO DE 1971.
 
 Redistribui, com a respectiva ocupante, cargo do Departamento Nacional de Obras Contra as Sêcas para o Ministério dos Transportes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006304-0-000-12-12-2007@@@
-
 DECRETO Nº 6.304, DE 12 DE DEZEMBRO DE 2007.
 
 Regulamenta a Lei no 8.685, de 20 de julho de 1993, que cria mecanismos de fomento à atividade audiovisual.
@@ -441,5 +439,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Gilberto Gil
-
-Este texto não substitui o publicado no DOU de 13.12.2007

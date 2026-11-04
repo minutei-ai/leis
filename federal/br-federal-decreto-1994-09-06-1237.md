@@ -1,7 +1,3 @@
-1
-
-###DEC-001237-0-000-06-09-1994@@@
-
 DECRETO N° 1.237, DE 6 DE SETEMBRO DE 1994
 
 Cria, no âmbito da Administração Federal, sob a coordenação do Ministério da Educação e do Desporto, o Sistema Nacional de Educação à Distância SINEAD, e dá outras providências.

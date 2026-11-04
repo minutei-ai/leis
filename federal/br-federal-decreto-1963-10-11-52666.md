@@ -1,30 +1,28 @@
-###DEC-052666-0-000-11-10-1963@@@
+**DECRETO Nº 52.666, DE 11 DE OUTUBRO DE 1963.**
 
-<strong>DECRETO Nº 52.666, DE 11 DE OUTUBRO DE 1963.</strong>
+***Aprova o Regimento da Superintendência do Ensino Agrícola e Veterinário, do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento da Superintendência do Ensino Agrícola e Veterinário, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Superintendência do Ensino Agrícola e Veterinário, do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Superintendência do Ensino Agrícola e Veterinário, do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de outubro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Oswaldo Lima Filho
 
-<strong>REGIMENTO DA SUPERINTENDÊNCIA DO ENSINO AGRÍCOLA E VETERINÁRIO</strong>
+**REGIMENTO DA SUPERINTENDÊNCIA DO ENSINO AGRÍCOLA E VETERINÁRIO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º A Superintendência do Ensino Agrícola e Veterinário (SEAV) tem por finalidade orientar e fiscalizar o ensino agrícola e veterinário nos seus diferentes graus e ministrar o ensino superior, médio e elementar da agricultura, competindo-lhe:
+**Art**. 1º A Superintendência do Ensino Agrícola e Veterinário (SEAV) tem por finalidade orientar e fiscalizar o ensino agrícola e veterinário nos seus diferentes graus e ministrar o ensino superior, médio e elementar da agricultura, competindo-lhe:
 
 I - Promover o aperfeiçoamento dos métodos de ensino agrícola veterinário em seus diferentes graus;
 
@@ -44,11 +42,11 @@ VIII - Cumprir e fazer cumprir a Lei nº 4.024, de 20 de dezembro de 1961, no qu
 
 IX - Promover estudos referentes a acôrdos e convênios com Estados e Municípios, visando à instalação e ao funcionamento de estabelecimentos de ensino agrícola e veterinário em regime de cooperação.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º A Superintendência do Ensino Agrícola e Veterinário compreende:
+**Art**. 2º A Superintendência do Ensino Agrícola e Veterinário compreende:
 
 A - Órgãos centrais:
 
@@ -80,7 +78,7 @@ Seção de Orientação Profissional (SOPRO)
 
 Seção de Aperfeiçoamento e Especialização (SAPER)
 
-<strong>Art</strong>. 3º A S.E.A.V será dirigida pró um Superintendente, nomeado em comissão pelo Presidente da República enter os ocupantes de cargos de engenheiro agrônomo e veterinário.
+**Art**. 3º A S.E.A.V será dirigida pró um Superintendente, nomeado em comissão pelo Presidente da República enter os ocupantes de cargos de engenheiro agrônomo e veterinário.
 
 B- Órgãos regionais:
 
@@ -116,15 +114,15 @@ Setor Agropecuário e de Indústrias Rurais (SAGIR)
 
 Parágrafo único. O Superintendente terá um Secretário, dois Assessôres e um Auxiliar de sua livre escolha, dentre funcionários do Ministério da Agricultura.
 
-<strong>Art</strong>. 4º As chefias das Divisões de Estudos Pedagógicos e de Aperfeiçoamento serão exercidas por técnicos de nível superior do Serviço Público Federal, com formação pedagógica, designados pelo Superintendente.
+**Art**. 4º As chefias das Divisões de Estudos Pedagógicos e de Aperfeiçoamento serão exercidas por técnicos de nível superior do Serviço Público Federal, com formação pedagógica, designados pelo Superintendente.
 
-<strong>Art</strong>. 5º As Chefias das Divisões de Fiscalização Escolar e Profissional e de Administração Escolar serão exercidas por Engenheiros Agrônomos ou Veterinários do Serviço Público Federal, com formação pedagógica.
+**Art**. 5º As Chefias das Divisões de Fiscalização Escolar e Profissional e de Administração Escolar serão exercidas por Engenheiros Agrônomos ou Veterinários do Serviço Público Federal, com formação pedagógica.
 
-<strong>Art</strong>. 6º A direção dos estabelecimentos de ensino da SEAV será exercida por educador qualificado, nos têrmos da legislação vigente.
+**Art**. 6º A direção dos estabelecimentos de ensino da SEAV será exercida por educador qualificado, nos têrmos da legislação vigente.
 
-<strong>Art</strong>. 7º As Seções e Setores terão chefes e as Turmas encarregados, designados pelo Superintendente, por indicação de seus chefes imediatos.
+**Art**. 7º As Seções e Setores terão chefes e as Turmas encarregados, designados pelo Superintendente, por indicação de seus chefes imediatos.
 
-<strong>Art</strong>. 8º O preenchimento das funções de chefia das Seções Setores técnicos obedecerá ao seguinte critério:
+**Art**. 8º O preenchimento das funções de chefia das Seções Setores técnicos obedecerá ao seguinte critério:
 
 I - As Seções das Divisões de Estudos Pedagógicos e de Aperfeiçoamento, por técnico de nível superior, com formação pedagógica;
 
@@ -132,21 +130,21 @@ II - As Seções da Divisão de Fiscalização Escolar e Profissional, e a Seç�
 
 III - A Seção de Administração de Ensino de Economia Doméstica Rural por profissional habilitado em Economia Doméstica.
 
-<strong>Art</strong>. 9º Funcionará junto à Diretoria da SEAV, sob a presidência do respectivo Superintendente, um Conselho Técnico, composto dos chefes das Divisões do referido órgão.
+**Art**. 9º Funcionará junto à Diretoria da SEAV, sob a presidência do respectivo Superintendente, um Conselho Técnico, composto dos chefes das Divisões do referido órgão.
 
 Parágrafo único. Quando necessário, o Superintendente poderá convocar para tomar parte nos trabalhos do Conselho, os diretores das escolas subordinadas à SEAV e representantes de quaisquer órgãos cujas atividades interessam ao problema em estudo.
 
-<strong>Art</strong>. 10. Os órgãos integrantes da SEAV funcionarão articulados em regime de mútua colaboração, sob a orientação, Superintendente que coordenará supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais da Superintendência.
+**Art**. 10. Os órgãos integrantes da SEAV funcionarão articulados em regime de mútua colaboração, sob a orientação, Superintendente que coordenará supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais da Superintendência.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Conselho Técnico</em>
+*Do Conselho Técnico*
 
-<strong>Art</strong>. 11. Ao Conselho Técnico compete:
+**Art**. 11. Ao Conselho Técnico compete:
 
 I - Pronunciar-se sôbre instruções e normas referentes ao ensino agrícola, a serem baixadas pela Superintendência, bem como sôbre questões relativas à aplicação da Lei nº 4.024, de 20 de dezembro de 1961, aos estabelecimentos de ensino agrícola de grau médio;
 
@@ -154,11 +152,11 @@ II - Opinar sôbre os regimentos internos das escolas da SEAV, ouvida, previamen
 
 III - Elaborar, sob critérios prioritários e periódicos, a curto e a longo prazo, planos e programas da SEAV;
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Divisão de Estudos Pedagógicos</em>
+*Da Divisão de Estudos Pedagógicos*
 
-<strong>Art</strong>. 12. À Divisão de Estudos Pedagógicos (DESPE) compete:
+**Art**. 12. À Divisão de Estudos Pedagógicos (DESPE) compete:
 
 I - Realizar estudos e pesquisa visando ao aperfeiçoamento dos métodos pedagógicos do ensino agrícola, veterinário e de economia doméstica rural;
 
@@ -166,7 +164,7 @@ II - Realizar estudos e pesquisa sôbre a administração escolar, visando ao se
 
 III - Orientar, do ponto de vista pedagógico, os estabelecimentos de ensino agrícola e veterinário e de economia doméstica rural.
 
-<strong>Art</strong>. 13. À Seção de Estudos e Documentação (SESDO) compete:
+**Art**. 13. À Seção de Estudos e Documentação (SESDO) compete:
 
 I - Realizar estudos e pesquisas visando ao aperfeiçoamento dos métodos pedagógicos do ensino agrícola veterinário e de economia doméstica rural;
 
@@ -190,7 +188,7 @@ X - Manter atualizada a legislação sôbre ensino no País;
 
 XI - Difundir os resultados dos estudos e pesquisas realizados pela SEAV, bem como assua atividades em todos os setores de ensino.
 
-<strong>Art</strong>. 14. À Seção de Orientação Educacional (SEDUC) compete:
+**Art**. 14. À Seção de Orientação Educacional (SEDUC) compete:
 
 I - Promover e supervisionar a orientação educacional nos estabelecimentos de ensino subordinados à SEAV, através a pesquisa dos atributos individuais do educando e do meio em que vive, visando ao seu melhor ajustamento aos trabalhos escolares;
 
@@ -214,11 +212,11 @@ X - Promover cursos de formação de técnicos e especialistas em atividades agr
 
 Parágrafo único. As atividades de orientação educacional nas escolas da SEAV ficarão a cargo de orientadores educacionais portadores de certificados de cursos realizados pela mesma Superintendência.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Divisão de Administração Escolar</em>
+*Da Divisão de Administração Escolar*
 
-<strong>Art</strong>. 15. A Divisão de Administração Escolar (DADES) compete:
+**Art**. 15. A Divisão de Administração Escolar (DADES) compete:
 
 I - Administrar a rede de estabelecimentos de ensino da SEAV;
 
@@ -226,7 +224,7 @@ II - Promover estudos referentes a acôrdos e convênios ou contratos com Estado
 
 III - Controlar as atividades dos estabelecimentos de ensino agrícola de nível médio mantidos em regime de acôrdo com Estados e Municípios.
 
-<strong>Art</strong>. 16. À Seção de Administração do Ensino Agrícola (SENAC) compete:
+**Art**. 16. À Seção de Administração do Ensino Agrícola (SENAC) compete:
 
 I - Em relação aos estabelecimentos de ensino agrícola médio da rêde federal e em regime de acôrdo;
 
@@ -242,7 +240,7 @@ II - Manter estreita colaboração com a Divisão de Estudos Pedagógicos e a S.
 
 III - Realizar estudos em articulação com a Divisão de Estudos Pedagógicos e a S.A. referentes a acôrdos e convênios com Estados e Municípios, para instalação e manutenção de estabelecimentos de ensino agrícola e veterinário.
 
-<strong>Art</strong>. 17. À Seção de Administração de Economia Doméstica Rural (SEDOR) compete:
+**Art**. 17. À Seção de Administração de Economia Doméstica Rural (SEDOR) compete:
 
 I - Organizar, orientar e controlar os estabelecimentos de ensino e cursos de economia doméstica rural da SEAV;
 
@@ -268,11 +266,11 @@ XI - Manter atualizado cadastro dos alunos matriculados e diplomados em estabele
 
 XII - Manter estreita colaboração com a Divisão de Estudos Pedagógicos e a S.A. atendendo à orientação traçada por estas dependências na parte referente às suas atribuições específicas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Divisão de Fiscalização Escolar e Profissional</em>
+*Da Divisão de Fiscalização Escolar e Profissional*
 
-<strong>Art</strong>. 18. À Divisão de Fiscalização Escolar e Profissional (DIPRO) compete:
+**Art**. 18. À Divisão de Fiscalização Escolar e Profissional (DIPRO) compete:
 
 I - Proceder à equiparação e ao recolhimento de estabelecimentos de ensino agrícola e veterinário;
 
@@ -284,7 +282,7 @@ IV - Proceder ao registro de Diplomas de habilitação profissional, referentes 
 
 V - Proceder ao registro de professôres do ensino agrícola, de grau médio.
 
-<strong>Art</strong>. 19. À Seção de Fiscalização Escolar (SEFES) compete:
+**Art**. 19. À Seção de Fiscalização Escolar (SEFES) compete:
 
 I - Inspecionar os estabelecimentos de ensino agrícola e veterinário, em todos os graus para fins de reconhecimento;
 
@@ -300,7 +298,7 @@ VI - Manter atualizadas relações numéricas e nominais de alunos matriculados 
 
 VII - Fiscalizar os estabelecimentos de ensino e cursos de economia doméstica rural reconhecidos em colaboração com a Seção de Administração de Economia Doméstica Rural.
 
-<strong>Art</strong>. 20. À Seção de Fiscalização Profissional (SEFIP) compete:
+**Art**. 20. À Seção de Fiscalização Profissional (SEFIP) compete:
 
 I - Registrar os diplomas de habilitação profissional, referentes à agronomia e veterinária, bem como de técnico de nível médio, expedidos por estabelecimentos de ensino agrícola e de economia doméstica rural, oficiais ou reconhecidos;
 
@@ -312,11 +310,11 @@ IV - Proceder ao registro de professôres do ensino agrícola de grau médio nos
 
 V - Manter cadastro dos engenheiros agrônomos, veterinários, professôres e técnicos de nível médio, registrados na SEAV.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Divisão de Aperfeiçoamento</em>
+*Da Divisão de Aperfeiçoamento*
 
-<strong>Art</strong>. 21. À Divisão de Aperfeiçoamento (DIAPE) compete:
+**Art**. 21. À Divisão de Aperfeiçoamento (DIAPE) compete:
 
 I - Promover a organização e coordenar cursos, seminários e estágios de especialização e aperfeiçoamento bem como cursos de pós-graduação;
 
@@ -324,7 +322,7 @@ II - Promover a realização de estágios para alunos de escolas de agronomia e 
 
 III - Promover o aperfeiçoamento profissional dos técnicos do Ministério em colaboração com os demais órgãos.
 
-<strong>Art</strong>. 22. À Seção de Orientação Profissional (SOPRO) compete:
+**Art**. 22. À Seção de Orientação Profissional (SOPRO) compete:
 
 I - Promover os meios capazes de permitir aos alunos da última série dos estabelecimentos de ensino agrícola e veterinária, de todos os graus e de economia doméstica rural, estabelecerem em organizações cujas atividades correspondam ao seu ramo de estudos;
 
@@ -340,17 +338,17 @@ VI - Promover o aperfeiçoamento profissional dos servidores técnicos da SEAV e
 
 VII - Promover e orientar centros sociais vinculados aos estabelecimentos de ensino da SEAV, com a finalidade de prestar assistência social e educativa às populações rurais.
 
-<strong>Art</strong>. 23. À Seção de Aperfeiçoamento e Especialização (SAPER) compete:
+**Art**. 23. À Seção de Aperfeiçoamento e Especialização (SAPER) compete:
 
 I - Promover a organização e ministrar cursos de didática e administração do ensino agrícola para formação do pessoal docente e técnico dos estabelecimentos de ensino da SEAV;
 
 II - promover a especialização dos diplomados por estabelecimentos de ensino agrícola, veterinário de diferentes graus e de economia doméstica rural, através de cursos, seminários e estágios.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 24. À Seção de Administração (S.A. - SEAV) compete:
+**Art**. 24. À Seção de Administração (S.A. - SEAV) compete:
 
 I - Elaborar o expediente administrativo da SEAV;
 
@@ -392,13 +390,13 @@ II - Atender ao público em seus pedidos de informações, bem como orientá-lo 
 
 III - Expedir certidões, exceto as relativas a tempo de serviço prestado à SEAV;
 
-IV - Providenciar a publicação no <em>Diário</em> <em>Oficial</em> de expedientes da SEAV.
+IV - Providenciar a publicação no *DiárioOficial* de expedientes da SEAV.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das turmas de administração</em>
+*Das turmas de administração*
 
-<strong>Art</strong>. 25 Às Turmas de Administração (T.A.) compete:
+**Art**. 25 Às Turmas de Administração (T.A.) compete:
 
 I - Articular-se com a S.A. das SEAV no que disser respeito aos trabalhos das Unidades a que pertençam;
 
@@ -406,17 +404,17 @@ II - Executar os trabalhos datilográficos e mimeográficos ou outros, da respec
 
 III - Organizar os processos de prestação de contas de suprimentos e adisntamentos consedidos a funcionários da respectiva repartição.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Dos colégios e ginásios</em>
+*Dos colégios e ginásios*
 
-<strong>Art</strong>. 26. Aos Colégios Agrícolas (COLAG) compete ministrar cursos agrícolas do 1º e 2º ciclos, bem como cursos avulsos práticos e de aperfeiçoamento.
+**Art**. 26. Aos Colégios Agrícolas (COLAG) compete ministrar cursos agrícolas do 1º e 2º ciclos, bem como cursos avulsos práticos e de aperfeiçoamento.
 
-<strong>Art</strong>. 27. Aos Ginásios Agrícolas (GINAG) compete ministrar cursos agrícolas do 1º ciclo, bem com avulsos práticos e de aperfeiçoamento.
+**Art**. 27. Aos Ginásios Agrícolas (GINAG) compete ministrar cursos agrícolas do 1º ciclo, bem com avulsos práticos e de aperfeiçoamento.
 
-<strong>Art</strong>. 28. Aos Colégios de Economia Doméstica Rural (COLED), compete ministrar cursos agrícolas do 1º ciclo e de economia doméstica e rural, 2º ciclo do ensino agrícola, bem como cursos avulsos práticos e de aperfeiçoamento.
+**Art**. 28. Aos Colégios de Economia Doméstica Rural (COLED), compete ministrar cursos agrícolas do 1º ciclo e de economia doméstica e rural, 2º ciclo do ensino agrícola, bem como cursos avulsos práticos e de aperfeiçoamento.
 
-<strong>Art</strong>. 29. Às Turmas de Administração dos Colégios e Ginásios compete:
+**Art**. 29. Às Turmas de Administração dos Colégios e Ginásios compete:
 
 I - Articular-se com a S.A.-SEAV no que disser respeito aos trabalhos dos respectivos estabelecimentos de ensino;
 
@@ -430,15 +428,15 @@ V - Organizar e expedir os boletins de freqüência dos funcionários;
 
 VI - Elaborar o expediente do respectivo ginásio ou colégio, referente a pessoal, orçamento e material.
 
-<strong>Art</strong>. 30. À Turma de Administração Escolar (TURAE) compete executar e controlar as atividades escolares e extraescolares dos corpos docente e discente, zelando pela disciplina no estabelecimento.
+**Art**. 30. À Turma de Administração Escolar (TURAE) compete executar e controlar as atividades escolares e extraescolares dos corpos docente e discente, zelando pela disciplina no estabelecimento.
 
-<strong>Art</strong>. 31. Aos Setores de Agricultura, Zootecnia, Indústrias Rurais e Agropecuário, compete planejar, executar e controlar os trabalhos referentes a cada uma das respectivas atividades agrícolas, para fins didáticos e de produção.
+**Art**. 31. Aos Setores de Agricultura, Zootecnia, Indústrias Rurais e Agropecuário, compete planejar, executar e controlar os trabalhos referentes a cada uma das respectivas atividades agrícolas, para fins didáticos e de produção.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 32. Ao Superintendente incumbe:
+**Art**. 32. Ao Superintendente incumbe:
 
 I - Superintender, de acôrdo com a legislação, normas e instruções vigentes, as atividades a cargo do SEAV;
 
@@ -498,7 +496,7 @@ XXVIII - Baixar normas para funcionamento dos cursos e realização de provas;
 
 XXIX - Exercer quaisquer outras atribuições que lhe competirem por êste Regimento ou lhe forem cometidas pelo Secretário-Geral da Agricultura ou pelo Ministro de Estado.
 
-<strong>Art</strong>. 33. Aos Chefes de Divisão, Diretores de Colégios e Ginásios e ao Chefe da SA., no que couber, incumbe:
+**Art**. 33. Aos Chefes de Divisão, Diretores de Colégios e Ginásios e ao Chefe da SA., no que couber, incumbe:
 
 I - Dirigir, coordenar, orientar e fiscalizar os trabalhos a cargo da respectiva unidade, estabelecendo normas e métodos para execução dos mesmos;
 
@@ -564,7 +562,7 @@ V - Julgar recursos de revisão e provas e outros de sua alçada;
 
 VI - Designar e dispensar os professores dos cursos, bem como os respectivos auxiliares de ensino.
 
-<strong>Art</strong>. 34. Aos chefes de Seção e do Setor e aos Encarregados de Turma incumbe:
+**Art**. 34. Aos chefes de Seção e do Setor e aos Encarregados de Turma incumbe:
 
 I - Dirigir e fiscalizar os trabalhos das respectivas  unidades administrativas;
 
@@ -602,7 +600,7 @@ II - Dirigir e orientar tecnicamente os serviços sob sua responsabilidade.
 
 I - Observar os dispositivos da legislação de ensino vigente e as normas estabelecidas no Regimento de Colégio ou Ginásio controlando a freqüência e o aproveitamento dos alunos.
 
-<strong>Art</strong>. 35 Ao Orientador Educacional incumbe:
+**Art**. 35 Ao Orientador Educacional incumbe:
 
 I - Orientar o corpo discente em suas atividades curriculares e extra-curriculares visando ao seu ajustamento e ao bom aproveitamento escolar;
 
@@ -610,9 +608,9 @@ II - Colaborar com a TURAE na manutenção da disciplina;
 
 III - Orientar o corpo docente na melhor execução do programa de ensino e na boa aplicação dos métodos didáticos.
 
-<strong>Art</strong>. 36. Aos Assessores incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelo Superintendente.
+**Art**. 36. Aos Assessores incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelo Superintendente.
 
-<strong>Art</strong>. 37. Ao Secretário do Superintendente incumbe:
+**Art**. 37. Ao Secretário do Superintendente incumbe:
 
 I - Atender às pessoas que desejarem comunicar-se com o Superintendente, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -620,35 +618,35 @@ II - Redigir a correspondência que lhe fôr determinada;
 
 III - Realizar outras tarefas que lhe forem cometidas pelo Superintendente.
 
-<strong>Art</strong>. 38. Ao Auxiliar do Superintendente incumbe:
+**Art**. 38. Ao Auxiliar do Superintendente incumbe:
 
 I - Organizar e manter atualizado o contrôle da movimentação de processos submetidos e despacho do Superintendente;
 
 II - Executar trabalhos de dactolografia que lhe forem determinados.
 
-<strong>Art</strong>. 39. Aos funcionários da SEAV que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
+**Art**. 39. Aos funcionários da SEAV que não tenham atribuições especificadas neste Regimento, cumpre executar os trabalhos de que forem incumbidos pelos seus superiores imediatos.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 40. A SEAV terá a lotação que fôr aprovada em decreto.
+**Art**. 40. A SEAV terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, poderá a SEAV dispor de pessoal requisitado, na forma da legislação vigente.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 41. O horário normal de trabalho é o fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
+**Art**. 41. O horário normal de trabalho é o fixado para o Serviço Público Federal, respeitados os regimes especiais estabelecidos na legislação vigente.
 
 Parágrafo único. Poderá ser estabelecido horário especial de acôrdo com a natureza das atividades da SEAV, desde que observado o número normal de horas semanais ou mensais.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 42. O Superintendente, os Chefes de Divisão e de Seção devem ter sempre substitutos, previamente designados.
+**Art**. 42. O Superintendente, os Chefes de Divisão e de Seção devem ter sempre substitutos, previamente designados.
 
 § 1º A designação para substituir o Superintendente em seus impedimentos ou faltas eventuais, deve recair sôbre um dos Chefes de Divisão ou Assessores.
 
@@ -656,13 +654,13 @@ Parágrafo único. Poderá ser estabelecido horário especial de acôrdo com a n
 
 § 3ºA designação para substituir os Chefes de Seção, Setor ou Turma, em seus impedimentos e faltas eventuais, deve recair sôbre um dos funcionários da respectiva Seção, Setor ou Turma.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 43. Os estabelecimentos de ensino agrícola de grau médio e de economia doméstica rural da SEAV terão Regimento Interno em consonância com êste Regimento e a legislação vigente sôbre o ensino.
+**Art**. 43. Os estabelecimentos de ensino agrícola de grau médio e de economia doméstica rural da SEAV terão Regimento Interno em consonância com êste Regimento e a legislação vigente sôbre o ensino.
 
-<strong>Art</strong>. 44. O Superintendente baixará, até 60 dias após a aprovação dêste Regimento, instruções estabelecendo as condições mínimas para aprovação dos Regimentos dos estabelecimentos de ensino agrícola da Rêde Federal, dentre as quais deverão contar, obrigatóriamente, as seguintes:
+**Art**. 44. O Superintendente baixará, até 60 dias após a aprovação dêste Regimento, instruções estabelecendo as condições mínimas para aprovação dos Regimentos dos estabelecimentos de ensino agrícola da Rêde Federal, dentre as quais deverão contar, obrigatóriamente, as seguintes:
 
 I - Fixação de taxas escolares que possam ser pagas pelos alunos através seu próprio trabalho prestado, obrigatóriamente, ao estabelecimento, em atividades relacionadas com ensino;
 
@@ -676,14 +674,14 @@ V- Cumprimento dos dispositivos da legislação vigente para o ensino e as norma
 
 VI- Fixação de obrigatoriedade de residência na área de cada estabelecimento de ensino para o Diretor e outros servidores cujas atribuições assim o exijam.
 
-<strong>Art</strong>. 45. Periódicamente serão realizadas reuniões e exposições em estabelecimentos de ensino agrícola subordinados à SEAV com o objeto de debater os problemas relativos ao ensino agrícola e de economia doméstica rural e apresentar os resultados dos trabalhos e professôres.
+**Art**. 45. Periódicamente serão realizadas reuniões e exposições em estabelecimentos de ensino agrícola subordinados à SEAV com o objeto de debater os problemas relativos ao ensino agrícola e de economia doméstica rural e apresentar os resultados dos trabalhos e professôres.
 
 Parágrafo único. Estas reuniões e exposições terão normas e temários previamente elaborados pela SESDO, os quais após audiência das entidades participantes, serão submetidos à aprovação do Superintendente.
 
-<strong>Art</strong>. 46. O Superintendente, ouvidos os órgãos competentes, poderá baixar instruções complementares para a execução dêste Regimento, obedecidas suas prescrições.
+**Art**. 46. O Superintendente, ouvidos os órgãos competentes, poderá baixar instruções complementares para a execução dêste Regimento, obedecidas suas prescrições.
 
-<strong>Art</strong>. 47. Os casos omissos, neste Regimento, serão resolvidos pelo Secretário-Geral da Agricultura.
+**Art**. 47. Os casos omissos, neste Regimento, serão resolvidos pelo Secretário-Geral da Agricultura.
 
 Brasília, em 11 de outubro de 1963.
 
-<strong>OSWALDO LIMA FILHO</strong>
+**OSWALDO LIMA FILHO**

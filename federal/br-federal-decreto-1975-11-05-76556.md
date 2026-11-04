@@ -1,5 +1,3 @@
-###DEC-076556-0-000-05-11-1975@@@
-
 DECRETO Nº 76.556, DE 5 DE NOVEMBRO DE 1975.
 
 Retifica o Decreto nº 74.702, de 16 de outubro de 1974, que declarou de utilidade pública, para efeito de desapropriação, área de terra necessária à construção de prédio para instalações de serviços de depósito de bens da Justiça do Trabalho da 8º Região, na cidade de Manaus, Estado do Amazonas.

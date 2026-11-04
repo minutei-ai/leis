@@ -1,5 +1,3 @@
-###DEC-070399-0-000-12-04-1972@@@
-
 DECRETO Nº 70.399, DE 12 DE ABRIL DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, terreno destinado à ampliação dos laboratórios, oficinas e implantação de novos serviços pelo Instituto de Pesos e Medidas do Estado de São Paulo, situado na rua Muriaé, nºs 130 e 136, bairro do Ipiranga, no Município de São Paulo, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-050521-0-000-03-05-1961@@@
-
 DECRETO Nº 50.521, DE 3 DE MAIO DE 1961.
 
 Cria o Grupo Executivo da Indústria Metalúrgica (GEIMET).

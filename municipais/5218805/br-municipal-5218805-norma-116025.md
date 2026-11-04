@@ -2,10 +2,10 @@
 
 Altera [Lei 5.558/2009](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003), que criou o Programa Bolsa Cultural.
 
-<br>
 **A CÂMARA MUNICIPAL DE RIO VERDE GOIÁS APROVA E EU SANCIONO A SEGUINTE LEI:**
 
-Art. 1º Esta Lei altera o art. 2º da [Lei n. 5.558/2009](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003), de 24 de março de 2009, passando a<br>
+Art. 1º Esta Lei altera o art. 2º da [Lei n. 5.558/2009](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116003), de 24 de março de 2009, passando a
+
 viger com a seguinte redação:
 
 "Art. 2º A bolsa de produção cultural, objeto do Programa a que se refere o artigo anterior, consistirá na prestação de auxílio financeiro, a ser concedido individual e mensalmente, no valor de até R$ 1.320,00 (um mil e trezentos e vinte reais) às pessoas que se dediquem às artes também relacionadas no artigo anterior, independentemente de formação acadêmica e desde que desenvolvam atividades no âmbito dos projetos executados pela Fundação Municipal de Cultura ou através de novas propostas aprovadas por ela, com o objetivo de ampliar a produção e difusão das artes no Município."

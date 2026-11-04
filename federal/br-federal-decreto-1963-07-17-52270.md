@@ -1,5 +1,3 @@
-###DEC-052270-0-000-17-07-1963@@@
-
 DECRETO Nº 52.270, DE 17 DE JULHO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terreno situada na cidade de Uruguaiana, Estado do Rio Grande do Sul, necessária ao Ministério da Guerra.

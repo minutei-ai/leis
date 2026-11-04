@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208543)<br>
-
 # LEI N° 17.760, DE 20 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 740/2023, da Deputada Ana Carolina Serra – CIDADANIA)
@@ -10,7 +8,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DISPOSIÇÕES GERAIS
 
 **Artigo 1° -** Fica o Poder Executivo autorizado a instituir, regulamentar e implementar o Programa Saúde da Mulher Paulista no âmbito do Estado, com a finalidade de promover o desenvolvimento de ações e serviços de prevenção e assistência integral à saúde da mulher.
@@ -47,7 +46,8 @@ III - Hospital da Mulher.
 
 **Parágrafo único -** Para a implementação e o desenvolvimento do Programa Saúde da Mulher Paulista, deverão ser disponibilizados serviços especializados de médicos ginecologistas, mastologistas, oncologistas, cardiologistas, endocrinologistas e clínicos gerais, entre outros profissionais da área de saúde vinculados ao programa, nos termos e condições a serem definidos pelo Poder Executivo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DA PRIORIZAÇÃO DA PREVENÇÃO, DO DIAGNÓSTICO E DO TRATAMENTO DE CÂNCER DE MAMA E DE COLO DE ÚTERO
 
 **Artigo 5° -** O Estado, por meio dos serviços públicos de saúde e serviços privados, contratados ou conveniados, que integram o Sistema Único de Saúde - SUS, propiciará, no âmbito do Programa Saúde da Mulher Paulista, ações específicas que assegurem a prevenção, a detecção, o tratamento e o controle do câncer de mama e de colo de útero.
@@ -58,7 +58,8 @@ DA PRIORIZAÇÃO DA PREVENÇÃO, DO DIAGNÓSTICO E DO TRATAMENTO DE CÂNCER DE M
 
 **Parágrafo único -** Aplica-se o disposto no "caput" às mulheres que necessitam de avaliações periódicas na mama, às que realizam tratamento oncológico mamário e às que necessitam de urgência do exame, conforme prescrição médica.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DISPOSIÇÕES FINAIS
 
 **Artigo 7° -** Fica o Poder Executivo autorizado a reunir, no âmbito do Programa Saúde da Mulher Paulista, demais programas complementares, existentes ou não, voltados à consecução das metas e objetivos de que dispõe o parágrafo único do artigo 2° desta lei, como o Programa de Cirurgia Plástica Reconstrutiva da Mama, o Programa de Orientação em Saúde e Atendimento Social, o Programa de Saúde da Mulher Detenta e o Programa Rede de Proteção à Mãe Paulista de que trata a [Lei n° 17.431, de 14 de outubro de 2021](https://www.al.sp.gov.br/norma/200421), observados os princípios do "caput" do artigo 2°, bem como da priorização a que se referem os artigos 5° e 6° desta lei.

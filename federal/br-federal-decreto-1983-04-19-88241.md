@@ -1,5 +1,3 @@
-###DEC-088241-0-000-19-04-1983@@@
-
 Decreto nº 88.241, de 19 de abril de 1983
 
 Retifica dispositivo do Decreto nº 75.595 de 10 de abril de 1975, que dispõe sobre a transformação e transposição dos cargos do Ministério da Marinha.

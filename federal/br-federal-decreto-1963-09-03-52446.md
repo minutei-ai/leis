@@ -1,5 +1,3 @@
-###DEC-052446-0-000-03-09-1963@@@
-
 DECRETO Nº 52.446, DE 3 DE SETEMBRO DE 1963.
 
 Aprova o Regimento da Assessoria Técnica da Presidência da Republica.

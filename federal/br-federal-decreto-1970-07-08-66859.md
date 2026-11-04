@@ -1,5 +1,3 @@
-###DEC-066859-0-000-08-07-1970@@@
-
 Decreto nº 66.859, de 8 de julho de 1970.
 
 Declara de utilidade pública o Instituto Imaculada Conceição, com sede em Governador Valadares, Estado de Minas Gerais.

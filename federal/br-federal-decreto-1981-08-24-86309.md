@@ -1,5 +1,3 @@
-###DEC-086309-0-000-24-08-1981@@@
-
 Decreto nº 86.309, de 24 de agosto de 1981
 
 Reajusta os limites das faixas de números de habitantes de que trata o § 2º do artigo 91 da Lei nº 5.172, de 25 de outubro de 1966.
@@ -10,7 +8,47 @@ DECRETA:
 
 Art. 1º. Os limites das faixas de números de habitantes, de que trata o § 2º do artigo 91 da Lei nº 5.172, de 25 de outubro de 1966, na redação que lhe foi dada pelo Ato Complementar nº 35, de 28 de fevereiro de 1967, ficam reajustados como segue:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Categoria do Município, segundo seu número de habitantes</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Coeficiente</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a) Até 17.000, para cada 3.400 ou fração excedente</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,2</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">b) Acima de 17.000 até 51.000</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pelos primeiros 17.000</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,0</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Para cada 6.800 ou fração excedente, mais</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,2</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">c) Acima de 51.000 até 102.000</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pelos primeiros 51.000</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,0</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Para cada 10.200 ou fração excedente, mais</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,2</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">d) Acima de 102.000 até 156.400</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pelos primeiros 102.000</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3,0</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Para cada 13.600 ou fração excedente, mais</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,2</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">e) Acima de 156.400</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4,0</span></p></td></tr></tbody></table>
+Categoria do Município, segundo seu número de habitantes
+
+Coeficiente
+
+a) Até 17.000, para cada 3.400 ou fração excedente
+
+0,2
+
+b) Acima de 17.000 até 51.000
+
+Pelos primeiros 17.000
+
+1,0
+
+Para cada 6.800 ou fração excedente, mais
+
+0,2
+
+c) Acima de 51.000 até 102.000
+
+Pelos primeiros 51.000
+
+2,0
+
+Para cada 10.200 ou fração excedente, mais
+
+0,2
+
+d) Acima de 102.000 até 156.400
+
+Pelos primeiros 102.000
+
+3,0
+
+Para cada 13.600 ou fração excedente, mais
+
+0,2
+
+e) Acima de 156.400
+
+4,0
 
 Art. 2º Este Decreto entrará em vigor no dia 1º de janeiro de 1982, revogadas as disposições em contrário.
 
@@ -22,4 +60,86 @@ Delfim Netto
 
 # COEFICIENTES SEGUNDO AS FAIXAS POPULACIONAIS MUNICÍPIOS DO INTERIOR
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">POPULAÇÃO (HABITANTES)</span></p></td><td style="width:212.5pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">COEFICIENTES</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Até 3.400</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,2</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 3.401 a 6.800</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,4</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 6.801 a 10.200</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,6</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 10.201 a 13.600</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">0,8</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 13.601 a 17.000</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,0</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 17.001 a 23.800</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,2</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 23.801 a 30.600</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,4</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 30.601 a 37.400</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,6</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 37.401 a 44.200</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1,8</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 44.201 a 51.000</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,0</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 51.001 a 61.200</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,2</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 61.201 a 71.400</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,4</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 71.401 a 81.000</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,6</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 81.601 a 91.800</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2,8</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 91.801 a 102.000</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3,0</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 102.001 a 115.600</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3,2</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 115.601 a 129.200</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3,4</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 129.201 a 142.800</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3,6</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 142.801 a 156.400</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3,8</span></p></td></tr><tr><td style="width:212.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">MAIOR QUE 156.400</span></p></td><td style="width:212.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4,0</span></p></td></tr></tbody></table>
+POPULAÇÃO (HABITANTES)
+
+COEFICIENTES
+
+Até 3.400
+
+0,2
+
+De 3.401 a 6.800
+
+0,4
+
+De 6.801 a 10.200
+
+0,6
+
+De 10.201 a 13.600
+
+0,8
+
+De 13.601 a 17.000
+
+1,0
+
+De 17.001 a 23.800
+
+1,2
+
+De 23.801 a 30.600
+
+1,4
+
+De 30.601 a 37.400
+
+1,6
+
+De 37.401 a 44.200
+
+1,8
+
+De 44.201 a 51.000
+
+2,0
+
+De 51.001 a 61.200
+
+2,2
+
+De 61.201 a 71.400
+
+2,4
+
+De 71.401 a 81.000
+
+2,6
+
+De 81.601 a 91.800
+
+2,8
+
+De 91.801 a 102.000
+
+3,0
+
+De 102.001 a 115.600
+
+3,2
+
+De 115.601 a 129.200
+
+3,4
+
+De 129.201 a 142.800
+
+3,6
+
+De 142.801 a 156.400
+
+3,8
+
+MAIOR QUE 156.400
+
+4,0

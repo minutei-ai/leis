@@ -1,5 +1,3 @@
-###DEC-051936-B-000-26-04-1963@@@
-
 decreto nº 51.936-B, de 26 de abril de 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, para uso da Diretoria do Patrimônio Histórico e Artístico Nacional.

@@ -1,5 +1,3 @@
-###DEC-045903-0-000-28-04-1959@@@
-
 Decreto nº 45.903, de 28 de abril de 1959.
 
 Autoriza o cidadão brasileiro Elpídio Barreto dos Santos a pesquisar calcário no município de Pinheiro Machado, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-065155-0-000-15-09-1969@@@
-
 DECRETO Nº 65.155 - DE 15 DE SETEMBRO DE 1969.
 
 Considera nulos atos de alienação de bens, praticados por Antônio Cid e terceiros, e confisca bens.

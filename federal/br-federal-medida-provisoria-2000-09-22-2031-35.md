@@ -1,5 +1,3 @@
-###MPV-002031-0-035-22-09-2000@@@
-
 medida provisoria nº 2.031-35, de 22 de setembro de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

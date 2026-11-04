@@ -1,5 +1,3 @@
-###DEC-007900-0-000-05-02-2013-PUB-01@@@
-
 DECRETO Nº 7.900, DE 4 DE FEVEREIRO DE 2013
 
 Promulga o Acordo para a Construção de uma Segunda Ponte Internacional sobre o Rio Jaguarão, nas proximidades das cidades de Jaguarão e Rio Branco, entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai, firmado em San Juan de Achorena, Colônia, em 26 de fevereiro de 2007.

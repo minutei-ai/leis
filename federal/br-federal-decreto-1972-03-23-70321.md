@@ -1,5 +1,3 @@
-###DEC-070321-0-000-23-03-1972@@@
-
 DECRETO Nº 70.321, DE 23 DE MARÇO DE 1972.
 
 Revoga o Decreto que concedeu à empresa Companhia Raymond-Morrison-Knudsen do Brasil S.A. autorização para funcionar na República Federativa do Brasil.

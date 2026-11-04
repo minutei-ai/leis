@@ -1,5 +1,3 @@
-###DEL-004609-0-000-22-08-1942@@@
-
 DECRETO-LEI N. 4.609 – DE 22 DE AGOSTO DE 1942
 
 Estabelece a garantia subsidiária do Governo Federal às sociedades mútuas de seguros e dá outras providências

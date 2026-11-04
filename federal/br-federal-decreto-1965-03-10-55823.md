@@ -1,5 +1,3 @@
-###DEC-055823-0-000-10-03-1965@@@
-
 DECRETO Nº 55.823, DE 10 DE MARÇO DE 1965.
 
 Institui Grupo de Trabalho para estudo e execução de medidas tendentes ao reequipamento hospitalar, mediante financiamento.

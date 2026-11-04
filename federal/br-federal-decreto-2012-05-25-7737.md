@@ -1,5 +1,3 @@
-###DEC-007737-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.737, DE 25 DE MAIO DE 2012
 
 Dispõe sobre a apuração de antiguidade nas carreiras de Advogado da União, de Procurador da Fazenda Nacional, de Procurador Federal e de Procurador do Banco Central.

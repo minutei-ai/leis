@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211431)<br>
-
 # DECRETO N° 69.855, DE 10 DE SETEMBRO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Guarulhos, do imóvel que especifica, e dá providências correlatas._

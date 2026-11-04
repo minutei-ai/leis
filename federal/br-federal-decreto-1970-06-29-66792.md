@@ -1,5 +1,3 @@
-###DEC-066792-0-000-29-06-1970@@@
-
 DECRETO Nº 66.792 - DE 29 DE JUNHO DE 1970
 
 Retifica o Decreto nº 51.617, de 5 de dezembro de 1962, que autorizou o funcionamento do Banco Regional do Desenvolvimento do Extremo Sul.

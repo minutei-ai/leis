@@ -1,5 +1,3 @@
-###DEC-057512-0-000-28-12-1965@@@
-
 DECRETO Nº 57.512, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza Soares Camargo S. A. Comércio e Administração a pesquisar água mineral no município de São Carlos, Estado de São Paulo.

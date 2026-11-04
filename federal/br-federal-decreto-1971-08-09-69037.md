@@ -1,5 +1,3 @@
-###DEC-069037-0-000-09-08-1971@@@
-
 DECRETO Nº 69.037, DE 9 DE AGôSTO DE 1971.
 
 Retifica o art. 1º do Decreto número 66.718, de 15 de junho de 1970.

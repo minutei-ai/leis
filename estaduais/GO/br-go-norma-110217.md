@@ -1,4 +1,5 @@
-LEI Nº 23.173, DE 26 DE DEZEMBRO DE 2024<br>
+LEI Nº 23.173, DE 26 DE DEZEMBRO DE 2024
+
 \- [Revogado pela Lei nº 23.287, de 24-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110513), art. 2º.
 
 ~~Altera a [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás – CTE.~~

@@ -1,5 +1,3 @@
-###DEL-009841-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.841 – DE 11 DE SETEMBRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Sindicato dos Jornalistas Profissionais do Rio de Janeiro do impôsto e laudêmio que menciona.

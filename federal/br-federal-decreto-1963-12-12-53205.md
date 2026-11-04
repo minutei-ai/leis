@@ -1,5 +1,3 @@
-###DEC-053205-0-000-12-12-1963@@@
-
 DECRETO Nº 53.205, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Agenor Duarte a pesquisar diamante, no município de Turmalinas, no Estado de Minas Gerais.

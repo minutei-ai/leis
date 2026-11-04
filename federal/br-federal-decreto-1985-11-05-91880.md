@@ -1,5 +1,3 @@
-###DEC-091880-0-000-05-11-1985@@@
-
 Decreto nº 91.880, de 05 de novembro de 1985
 
 Outorga à Centrais Elétricas Mato grossenses S.A. - CEMAT concessão para o aproveitamento da energia hidráulica de um trecho do rio Braço Norte, no Município de Colíder, Estado de Mato Grosso.

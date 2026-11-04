@@ -1,5 +1,3 @@
-###DEL-003596-0-000-05-09-1941@@@
-
 DECRETO-LEI N. 3.596 – DE 5 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Guerra, o crédito especial de 1.300:000$0, para despesas com hospedagem de delegações estrangeiras

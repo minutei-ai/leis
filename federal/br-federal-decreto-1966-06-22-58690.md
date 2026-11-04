@@ -1,5 +1,3 @@
-###DEC-058690-0-000-22-06-1966@@@
-
 DECRETO Nº 58.690, DE 22 DE JUNHO DE 1966.
 
 Autoriza a Companhia Urbanizador da Nova Capital do Brasil a executar o levantamento de recursos hidráulicos nos Estados de Minas Gerais e Goiás.

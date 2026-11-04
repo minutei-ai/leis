@@ -1,5 +1,3 @@
-###DEC-052169-0-000-28-06-1963@@@
-
 DECRETO Nº 52.169, DE 28 DE JUNHO DE 1963.
 
 Revoga o Decreto nº 922, de 4 de abril de 1962, que outorgou concessão à Rádio Globo Sociedade Anônima, para estabelecer uma estação de televisão na cidade de Salvador, Estado da Bahia.

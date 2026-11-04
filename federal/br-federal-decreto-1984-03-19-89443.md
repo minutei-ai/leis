@@ -1,5 +1,3 @@
-###DEC-089443-0-000-19-03-1984@@@
-
 Decreto nº 89.443, de 19 de março de 1984
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS -, Área de terras abrangida pela bacia hidráulica e faixa seca do Açude Público "JOANA", no Município de Pedro II, Estado do Piauí e dá outras providências.

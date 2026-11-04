@@ -1,5 +1,3 @@
-###DEL-002136-0-000-27-06-1984@@@
-
 # Decreto-lei nº 2.136, de 27 de junho de 1984
 
 Reajusta os valores de vencimentos e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

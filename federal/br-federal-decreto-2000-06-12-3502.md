@@ -1,5 +1,3 @@
-###DEC-003502-0-000-12-06-2000@@@
-
 DECRETO Nº 3.502, DE 12 DE JUNHO DE 2000.
 
 Dispõe sobre a reorganização da Comissão de Financiamentos Externos - COFIEX e dá outras providências.

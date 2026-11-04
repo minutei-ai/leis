@@ -1,5 +1,3 @@
-###MPV-001938-0-014-02-03-2000@@@
-
 MEDIDA PROVISÓRIa Nº 1.938-14, de 2 de março de 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

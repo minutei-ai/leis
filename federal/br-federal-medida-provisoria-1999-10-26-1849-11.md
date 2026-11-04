@@ -1,5 +1,3 @@
-###MPV-001849-0-011-26-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.849-11, DE 26 DE OUTUBRO DE 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

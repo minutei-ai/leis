@@ -1,5 +1,3 @@
-###DEC-091792-0-000-17-10-1985@@@
-
 Decreto nº 91.792, de 17 de outubro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Horizonte" e "Escondido", compreendidos na referida área, no Município de Ivinhema, no Estado de Mato Grosso do Sul.

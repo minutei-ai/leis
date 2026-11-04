@@ -1,5 +1,3 @@
-###DEC-082271-0-000-18-09-1978@@@
-
 Decreto nº 82.271, de 18 de setembro de 1978.
 
 Outorga à FERRO-LIGAS PIRACICABA LTDA. concessão para o aproveitamento da energia hidráulica de um trecho do Rio Sorocaba, no Município de Cerquilho no Estado de São Paulo, para uso exclusivo.

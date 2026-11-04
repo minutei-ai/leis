@@ -1,5 +1,3 @@
-###DEC-065354-0-000-13-10-1969@@@
-
 DECRETO Nº 65.324 - DE 14 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargo originário da extinta Comissão do Vale do São Francisco, e dá outras providências.

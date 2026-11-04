@@ -1,5 +1,3 @@
-###DEC-069608-0-000-26-11-1971@@@
-
 DECRETO Nº 69.608 - DE 26 DE NOVEMBRO DE 1971
 
 Concede à Siderurgia Barra Mansa S.A. o direito de lavrar argila, no município de Barra Mansa, Estado do Rio de Janeiro.

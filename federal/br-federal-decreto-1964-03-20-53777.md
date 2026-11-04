@@ -1,5 +1,3 @@
-###DEC-053777-0-000-20-03-1964@@@
-
 DECRETO Nº 53.777, DE 20 DE MARÇO DE 1964.
 
 Altera os arts. 2º, 4º e 5º do Decreto nº 42.112, de 20 de agôsto de 1957.
@@ -29,8 +27,6 @@ Brasília, DF., 20 de março de 1964; 143º da Independência e 76º da Repúbli
 JOÃO GOULART
 
 Sylvio Borges de Souza Motta
-
-###DEC-053777-0-000-20-03-1964@@@RET01+++
 
 DECRETO Nº 53.777, DE 20 DE MARÇO DE 1964.
 

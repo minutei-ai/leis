@@ -1,5 +1,3 @@
-###DEC-002904-0-000-28-12-1998@@@
-
 DECRETO Nº 2.904, DE 28 DE DEZEMBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.702, de 30 de julho de 1998.

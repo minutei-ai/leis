@@ -1,5 +1,3 @@
-###DEC-073380-0-000-27-12-1973@@@
-
 DECRETO Nº 73.380 - DE 27 DE DEZEMBRO DE 1973
 
 Dá nova redação ao artigo 23, do Regulamento dos Serviços de Telefonia, aprovado pelo Decreto número 57.611, de 7 de janeiro de 1966.

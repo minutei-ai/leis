@@ -1,5 +1,3 @@
-###DEC-060153-0-000-27-01-1967@@@
-
 DECRETO Nº 60.153, DE 27 DE JANEIRO DE 1967.
 
 Altera o Regimento do Serviço de Saúde dos Portos, do Departamento Nacional de Saúde do Ministério da Saúde, e dá ouras providências.

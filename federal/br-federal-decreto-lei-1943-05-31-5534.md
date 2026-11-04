@@ -1,5 +1,3 @@
-###DEL-005534-0-000-31-05-1943@@@
-
 DECRETO‑LEI N. 5.534 – DE 31 DE MAIO DE 1943
 
 Cria função gratificada no Ministério da Fazenda e dá outras providências

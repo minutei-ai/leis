@@ -1,5 +1,3 @@
-###DEC-090162-0-000-10-09-1984@@@
-
 Decreto nº 90.162, de 10 de setembro de 1984
 
 Outorga concessão à RÁDIO FLORESTA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Tucurui, Estado do Pará.

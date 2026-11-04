@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210556)<br>
-
 # DECRETO N° 69.328, DE 22 DE JANEIRO DE 2025
 
 ### _Aprova o Código de Ética da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -66,18 +64,22 @@ Stephanie Yukie Hayakawa da Costa
 
 Gilberto Kassab
 
-#### ANEXO<br>
+#### ANEXO
+
 CÓDIGO DE ÉTICA DA ADMINISTRAÇÃO PÚBLICA DIRETA E AUTÁRQUICA DO ESTADO DE SÃO PAULO
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
-#### Seção I<br>
+#### Seção I
+
 Do Código, sua Abrangência e Aplicação
 
 **Artigo 1° -** O Código de Ética da Administração Pública direta e autárquica é instrumento de orientação e governança pública, a ser observado como referencial ético e de integridade pelos agentes públicos estaduais, em suas relações internas e externas, sem prejuízo da incidência dos demais deveres e proibições legais e regulamentares.
 
-#### Seção II<br>
+#### Seção II
+
 Dos Objetivos
 
 **Artigo 2° -** São objetivos deste Código de Ética:
@@ -92,7 +94,8 @@ IV - incrementar a qualidade dos serviços prestados à sociedade;
 
 V - aumentar a confiança da população nos órgãos e entidades da Administração Pública estadual.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DOS PRINCÍPIOS E VALORES FUNDAMENTAIS
 
 **Artigo 3° -** O exercício de cargo, emprego ou função públicos deverá observar os seguintes princípios e valores fundamentais:
@@ -111,7 +114,8 @@ VI - probidade e responsabilidade;
 
 VII - zelo pela imagem institucional dos órgãos e entidades.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DAS CONDUTAS ESPERADAS
 
 **Artigo 4° -** São condutas esperadas dos agentes públicos:
@@ -170,7 +174,8 @@ c) conhecer e respeitar as políticas de segurança da informação e de uso dos
 
 d) utilizar os sistemas eletrônicos a que tenha acesso em razão de suas atribuições, exclusivamente para o desempenho de atividades relacionadas ao cumprimento de deveres funcionais.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 5° -** As condutas que possam configurar violação ao presente Código de Ética serão apuradas nos termos da legislação vigente.

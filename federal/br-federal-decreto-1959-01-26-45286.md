@@ -1,5 +1,3 @@
-###DEC-045286-0-000-26-01-1959@@@
-
 DECRETO Nº 45.286, DE 26 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro José Feliu Burgos a pesquisar conchas calcários no município de Saquarema, Estado do Rio de Janeiro.

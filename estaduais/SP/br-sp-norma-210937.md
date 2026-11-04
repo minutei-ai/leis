@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210937)<br>
-
 # DECRETO LEGISLATIVO N° 2.563, DE 14 DE MAIO DE 2025
 
 ### _Aprova a indicação de nome para integrar o Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP._

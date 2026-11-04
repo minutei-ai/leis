@@ -1,5 +1,3 @@
-###DEC-087599-0-000-21-09-1982@@@
-
 Decreto nº 87.599, de 21 de setembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Central Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

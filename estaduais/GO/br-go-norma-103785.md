@@ -56,8 +56,6 @@ Art. 7º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 09 de fevereiro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

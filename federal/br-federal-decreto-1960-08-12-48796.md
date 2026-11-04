@@ -1,5 +1,3 @@
-###DEC-048796-0-000-12-08-1960@@@
-
 Decreto nº 48.796, de 12 de agôsto de 1960.
 
 Autoriza o cidadão Brasileiro João Batista Teixeira a pesquisar diamantes nos município de Grão Mogol e Minas Novas, Estado de Minas Gerais.

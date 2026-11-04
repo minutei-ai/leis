@@ -1,5 +1,3 @@
-###DEC-055253-0-000-22-12-1964@@@
-
 DECRETO Nº 55.253, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza a S.A. Central Elétrica Rio Claro a vender usina termoelétrica.

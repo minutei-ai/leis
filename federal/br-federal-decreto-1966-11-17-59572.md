@@ -1,5 +1,3 @@
-###DEC-059572-0-000-17-11-1966@@@
-
 DECRETO Nº 59.572, DE 17 DE NOVEMBRO DE 1966.
 
 Autoriza a cessão sob a forma de utilização gratuita, do imóvel que menciona, situado no Estado de Pernambuco.

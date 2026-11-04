@@ -1,5 +1,3 @@
-###DEL-005455-0-000-03-05-1943@@@
-
 DECRETO‑LEI N. 5.455 – DE 3 DE MAIO DE 1943
 
 Modifica o decreto‑lei n. 986, de 27 de dezembro de 1938, e dá outras providências

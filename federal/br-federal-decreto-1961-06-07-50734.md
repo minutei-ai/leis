@@ -1,5 +1,3 @@
-###DEC-050734-0-000-07-06-1961@@@
-
 DECRETO Nº 50.734, DE 7 DE JUNHO DE 1961.
 
 Dá nova redação ao Decreto número 49.884, de 12 de janeiro de 1961.

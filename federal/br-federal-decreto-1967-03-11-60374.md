@@ -1,5 +1,3 @@
-###DEC-060374-0-000-11-03-1967@@@
-
 DECRETO Nº 60.374, DE 11 DE MARÇO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situação no Município de São Joaquim, Estado de Santa Catarina.

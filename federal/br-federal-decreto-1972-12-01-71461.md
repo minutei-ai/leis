@@ -1,5 +1,3 @@
-###DEC-071461-0-000-01-12-1972@@@
-
 DECRETO Nº 71.461 - DE 1 DE DEZEMBRO DE 1972
 
 Abre ao Ministério dos Transportes, em favor da Secretaria Geral - Entidades Supervisionados, o crédito suplementar de Cr$ 17.713.500,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,15 +8,141 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério dos Transportes, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar no valor de Cr$ 17.713.500.00 (dezessete milhões, setecentos e treze mil e quinhentos cruzeiros), para reforço de dotações orçamentárias consignada ao subanexo 27.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.00</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DOS TRANSPORTES</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.03</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria - Geral - Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2703.1604.2009</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividades a Cargo do Departamento Nacional de Estradas de Rodagem (Cota - parte do IULCLG)</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Outros Custeios ........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16.682.500</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Diversas ...................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30.000</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.7.1</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vinculaçõ</span><span style="font-family:Arial">es Tributá</span><span style="font-family:Arial">rias ............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.001.000</span></p></td></tr><tr><td style="width:77.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:280.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL ........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.713.500</span></p></td></tr></tbody></table>
+Cr$1,00
+
+27.00
+
+- MINISTÉRIO DOS TRANSPORTES
+
+27.03
+
+- Secretaria - Geral - Entidades Supervisionadas
+
+2703.1604.2009
+
+- Atividades a Cargo do Departamento Nacional de Estradas de Rodagem (Cota - parte do IULCLG)
+
+3.2.7.2
+
+- Entidades Federais
+
+03
+
+- Outros Custeios ........................................................................
+
+16.682.500
+
+08
+
+- Diversas ...................................................................................
+
+30.000
+
+4.3.7.1
+
+- Vinculações Tributárias ............................................................
+
+1.001.000
+
+TOTAL ........................................................................................
+
+17.713.500
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 27.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.00</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MINISTÉ</span><span style="font-family:Arial">RIO DOS TRANSPORTES</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.03</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria-Geral - Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 2703.1601.1014</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.7.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vinculaçõ</span><span style="font-family:Arial">es Tributá</span><span style="font-family:Arial">rias .............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.000.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 2703.1604.1001</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.7.2</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Diversas ....................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.3.7.1</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Entidades Federais</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vinculaçõ</span><span style="font-family:Arial">es Tributá</span><span style="font-family:Arial">rias .............................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.713.500</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL..........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.713.500</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+27.00
+
+MINISTÉRIO DOS TRANSPORTES
+
+27.03
+
+- Secretaria-Geral - Entidades Supervisionadas
+
+Projeto
+
+- 2703.1601.1014
+
+4.3.7.1
+
+- Entidades Federais
+
+03
+
+- Vinculações Tributárias .............................................................
+
+2.000.000
+
+Projeto
+
+- 2703.1604.1001
+
+3.2.7.2
+
+- Entidades Federais
+
+08
+
+- Diversas ....................................................................................
+
+5.000.000
+
+4.3.7.1
+
+- Entidades Federais
+
+03
+
+- Vinculações Tributárias .............................................................
+
+10.713.500
+
+TOTAL..........................................................................................
+
+17.713.500
 
 Art. 3º O presente crédito, no Orçamento Próprio do Departamento Nacional de Estradas de Rodagem, obedecerá a seguinte programação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67.00</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DOS TRANSPORTES - Entidades Supervisionadas</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">67.04</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-Departamento Nacional de Estradas de Rodagem </span><span style="font-family:Arial; font-style:italic">Suplementando</span><span style="font-family:Arial"></span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6704.1604.2002</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Administraçã</span><span style="font-family:Arial">o e Coordeenaçã</span><span style="font-family:Arial">o da Execuçã</span><span style="font-family:Arial">o do Plano Nacional de Viaçã</span><span style="font-family:Arial">o ......................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.713.500</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-style:italic; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-style:italic">Cancelando</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 6704.1601.1001 ........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.000.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 6704.1604.1507 ........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.713.500</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Projeto</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 6704.1604.1508 ........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.000.000</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:283.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL .........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.713.500</span></p></td></tr></tbody></table>
+Cr$1,00
+
+67.00
+
+- MINISTÉRIO DOS TRANSPORTES - Entidades Supervisionadas
+
+67.04
+
+-Departamento Nacional de Estradas de Rodagem Suplementando
+
+6704.1604.2002
+
+Administração e Coordeenação da Execução do Plano Nacional de Viação ......................................................................
+
+17.713.500
+
+Cancelando
+
+Projeto
+
+- 6704.1601.1001 ........................................................................
+
+2.000.000
+
+Projeto
+
+- 6704.1604.1507 ........................................................................
+
+10.713.500
+
+Projeto
+
+- 6704.1604.1508 ........................................................................
+
+5.000.000
+
+TOTAL .........................................................................................
+
+17.713.500
 
 Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

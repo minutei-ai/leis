@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208756)<br>
-
 # LEI N° 17.835, DE 01 DE NOVEMBRO DE 2023
 
 ## (Projeto de lei n° 609/2023, da Deputada Leticia Aguiar - PP)

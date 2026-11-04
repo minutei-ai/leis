@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8a774ea1-9a20-4b44-b00b-5e9769a5f8c2/texto#nowhere)
 
-###MPV-001659-0-000-12-05-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.659, DE 12 DE MAIO DE 1998
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência de Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

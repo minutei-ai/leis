@@ -1,5 +1,3 @@
-###DEC-059328-0-000-29-09-1966@@@
-
 DECRETO Nº 59.328, DE 29 DE SETEMBRO DE 1966.
 
 Autoriza industrial Extrativa Araruama S.A. a lavrar conchas calcárias no município de Araruama, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-049800-0-000-31-12-1960@@@
-
 DECRETO N. 49.800 – DE 31 DE DEZEMBRO DE 1960
 
 Concede à Siderúrgica Sudoeste de Minas Gerais S.A. autorização para funcionar como emprêsa de mineração.

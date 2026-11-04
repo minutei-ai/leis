@@ -1,7 +1,3 @@
-1
-
-###DEL-000893-0-000-26-09-1969@@@
-
 DECreto-LEI Nº 893, DE 26 DE Setembro DE 1969
 
 Altera a Lei nº 5.316, de 14 de setembro de 1967, que integrou o seguro de acidentes do trabalho na previdência social, e dá outras providências.

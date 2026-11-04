@@ -1,5 +1,3 @@
-###DEC-075220-0-000-15-01-1975@@@
-
 DECRETO Nº 75.220, DE 15 DE JANEIRO DE 1975.
 
 Revoga os Decretos que aprovaram e modificaram o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.

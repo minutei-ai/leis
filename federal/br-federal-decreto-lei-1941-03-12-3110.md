@@ -1,5 +1,3 @@
-###DEL-003110-0-000-12-03-1941@@@
-
 DECreto-Lei N. 3.110 – de 12 de março de 1941
 
 Dispõe sobre estágio de aspirantes a oficial da reserva de 2ª classe

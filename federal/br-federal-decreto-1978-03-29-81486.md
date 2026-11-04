@@ -1,5 +1,3 @@
-###DEC-081486-0-000-29-03-1978@@@
-
 Decreto nº 81.486, de 29 de março de 1978.
 
 Declara a caducidade do Manifesto de Mina que menciona.

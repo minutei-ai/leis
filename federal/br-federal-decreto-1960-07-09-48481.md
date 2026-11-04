@@ -1,5 +1,3 @@
-###DEC-048481-0-000-09-07-1960@@@
-
 DECRETO Nº 48.481, DE 9 DE JULHO DE 1960.
 
 Transfere sem aumento de despesa, função da Tabela Única de Extranumerário-mensalista do Ministério da Educação e Cultura, para idêntica tabela do Ministério da Fazenda.

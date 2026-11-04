@@ -1,5 +1,3 @@
-###DEC-056985-0-000-01-10-1965@@@
-
 DECRETO Nº 56.985, DE 1 DE OUTUBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da alvorada companhia Nacional de Seguros Gerais, inclusive extensão das operações de seguros e resseguros ao Ramo Vida e aumenta do capital social.

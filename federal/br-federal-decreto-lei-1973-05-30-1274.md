@@ -1,5 +1,3 @@
-###DEL-001274-0-000-30-05-1973@@@
-
 # DECRETO-LEI Nº 1.274, DE 30 de MAIO DE 1973
 
 Prorroga, até 1976, inclusive, a vigência do Decreto-lei número 1.124, de 8 de setembro de 1970, que permite deduções do imposto de renda das pessoas jurídicas para fins de alfabetização.

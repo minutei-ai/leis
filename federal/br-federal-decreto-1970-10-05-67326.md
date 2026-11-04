@@ -1,5 +1,3 @@
-###DEC-067326-0-000-05-10-1970@@@
-
 DECRETO Nº 67.326, DE 5 DE OUTUBRO DE 1970.
 
 Dispõe sôbre o Sistema de Pessoal Civil da Administração Federal e dá outras providências.

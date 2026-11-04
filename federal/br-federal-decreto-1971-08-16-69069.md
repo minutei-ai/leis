@@ -1,5 +1,3 @@
-###DEC-069069-0-000-16-08-1971@@@
-
 Decreto nº 69.069, de 16 de agôsto de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à construção da subestação de Itumbiara, no Estado de Minas Gerais.

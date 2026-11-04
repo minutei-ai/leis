@@ -1,5 +1,3 @@
-###DEC-091728-0-000-01-10-1985@@@
-
 Decreto nº 91.728, de 01 de Outubro de 1985.
 
 Concede autorização ao navio de pesquisa "ENDEAVOR", de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

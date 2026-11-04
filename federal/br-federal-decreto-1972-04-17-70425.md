@@ -1,5 +1,3 @@
-###DEC-070425-0-000-17-04-1972@@@
-
 DECRETO Nº 70.425, DE 17 de ABRIL DE 1972.
 
 Autoriza o funcionamento da Fundação Faculdade Estadual de Educação Física de Jacarezinho - PR.

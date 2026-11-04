@@ -1,5 +1,3 @@
-###DEC-066991-0-000-04-08-1970@@@
-
 DECRETO Nº 66.991, DE 4 DE AGÔSTO DE 1970.
 
 Outorga à Centrais Elétricas do Sul do Brasil S.A. concessão para o aproveitamento da energia hidráulica de um trecho do rio Iguaçu, compreendendo o Salto Osório, no Estado do Paraná.

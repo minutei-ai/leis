@@ -1,5 +1,3 @@
-###DEC-004083-0-000-15-01-2002@@@
-
 DECRETO Nº 4.083, DE 15 DE JANEIRO DE 2002.
 
 Fixa o número de vagas para promoção obrigatória, no ano-base 2001, para os diversos postos dos quadros de Oficiais da Aeronáutica.

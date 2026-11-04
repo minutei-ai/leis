@@ -1,7 +1,3 @@
-1
-
-###DEC-000875-0-000-19-07-1993@@@
-
 DECRETO N° 875, DE 19 DE JULHO DE 1993
 
 Promulga o texto da Convenção sobre o Controle de Movimentos Transfronteiriços de Resíduos Perigosos e seu Depósito.

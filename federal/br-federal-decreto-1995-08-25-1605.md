@@ -1,7 +1,3 @@
-1
-
-###DEC-001605-0-000-25-08-1995@@@
-
 DECRETO Nº 1.605, DE 25 DE AGOSTO DE 1995.
 
 Regulamenta o Fundo Nacional de Assistência Social, instituído pela Lei nº 8.742, de 7 de dezembro de 1993.

@@ -1,5 +1,3 @@
-###DEC-048008-0-000-05-04-1960@@@
-
 DECRETO Nº 48.008, DE 5 DE ABRIL DE 1960.
 
 Concede à Companhia Soares Hungria Agro-Industrial autorização para funcionar como emprêsa de mineração.

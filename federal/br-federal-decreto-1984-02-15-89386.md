@@ -1,5 +1,3 @@
-###DEC-089386-0-000-15-02-1984@@@
-
 Decreto nº 89.386, DE 15 de fevereiro de 1984
 
 Autoriza o funcionamento de habilitações do curso de Letras da Fundação Educacional do Vale do Jacuí, Rio Grande do Sul.

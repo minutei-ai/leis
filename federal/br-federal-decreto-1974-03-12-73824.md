@@ -1,5 +1,3 @@
-###DEC-073824-0-000-12-03-1974@@@
-
 DECRETO Nº 73.824, DE 12 DE MARÇO DE 1974.
 
 Aprova o Regulamento das Inspetorias Secionais de Finanças do Ministério do Exército, e dá outras providências.

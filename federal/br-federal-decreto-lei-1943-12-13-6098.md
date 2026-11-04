@@ -1,5 +1,3 @@
-###DEL-006098-0-000-13-12-1943@@@   
-
 DECRETO‑LEI N. 6.098 – DE 13 DE DEZEMBRO DE 1943
 
 Altera carreiras dos Quadros Permanente e Suplementar do Ministério da Agricultura

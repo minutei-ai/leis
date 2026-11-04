@@ -1,5 +1,3 @@
-###DEC-094766-0-000-11-08-1987@@@
-
 DECRETO Nº 94.766, DE 11 DE AGOSTO DE 1987.
 
 Altera o Decreto nº 93.607, de 21 de novembro de 1986.

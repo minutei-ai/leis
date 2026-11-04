@@ -1,5 +1,3 @@
-###DEC-077370-0-000-01-04-1976@@@
-
 DECRETO Nº 77.370 - DE 1º DE ABRIL DE 1976
 
 Concede reconhecimento ao Curso de Formação de Tecnólogos em Processamento de Dados da Pontifícia Universidade Católica do Rio de Janeiro, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

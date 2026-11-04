@@ -80,11 +80,14 @@ Art. 8º Esta lei entra em vigor na data de sua publicação, revogando as dispo
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, AOS 20 DIAS DO MÊS DE MARÇO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-TARCÍSIO FRANCISCO DOS SANTOS<br>
+TARCÍSIO FRANCISCO DOS SANTOS
+
 Procurador Geral do Município

@@ -1,5 +1,3 @@
-###DEC-069551-0-000-18-11-1971@@@
-
 Decreto nº 69.551 - de 18 de novembro de 1971
 
 Revoga o Decreto nº 17.227, de 18 de fevereiro de 1926, que concedeu a emprêsa Buxton Guilayn y Compañia Limitada, Sociedad Anónima Comercial Importadora autorização para funcionar na República Federativa do Brasil.

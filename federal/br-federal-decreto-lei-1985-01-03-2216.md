@@ -1,5 +1,3 @@
-###DEL-002216-0-000-03-01-1985@@@
-
 # DECRETO-LEI Nº 2.216, DE 03 DE JANEIRO DE 1985
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, bem como os das pensões, e dá outras providências.

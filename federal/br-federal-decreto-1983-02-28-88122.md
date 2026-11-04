@@ -1,5 +1,3 @@
-###DEC-088122-0-000-28-02-1983@@@
-
 DecRETo nº 88.122, de 28 de fevereiro de 1983
 
 Dispõe sobre o limite do capital autorizado da PETROBRÁS INTERNACIONAL S.A. - BRASPETRO.

@@ -1,5 +1,3 @@
-###DEL-004947-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.947 – DE 13 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 20.000,00 à verba que especifica

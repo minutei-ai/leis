@@ -1,5 +1,3 @@
-###DEC-060689-0-000-05-05-1967@@@
-
 DECRETO Nº 60.689, DE 5 DE MAIO DE 1967.
 
 Declara a cessação de serviços de energia elétrica e outorga concessão.

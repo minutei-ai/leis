@@ -1,5 +1,3 @@
-###DEC-002064-0-000-11-11-1996@@@
-
 DECRETO Nº 2.064, DE 11 DE NOVEMBRO DE 1996.
 
 Promulga o Acordo Relativo à Cooperação Militar, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai, em Assunção, em 24 de julho de 1995.

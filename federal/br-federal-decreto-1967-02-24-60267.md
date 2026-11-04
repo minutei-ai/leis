@@ -1,5 +1,3 @@
-###DEC-060267-0-000-24-02-1967@@@
-
 DECRETO Nº 60.267, DE 24 DE FEVEREIRO DE 1967.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$70.400.000.000, para o fim que especifica.

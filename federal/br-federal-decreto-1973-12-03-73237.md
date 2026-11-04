@@ -1,5 +1,3 @@
-###DEC-073237-0-000-03-12-1973@@@
-
 Decreto Nº 73.237 - de 3 de Dezembro de 1973
 
 Torna sem efeito redistribuição de cargos, com os respectivos ocupantes, do Quadro de Pessoal do Ministério da Agricultura para o do IPASE.

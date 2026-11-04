@@ -1,5 +1,3 @@
-###DEC-002328-0-000-30-09-1997@@@
-
 DECRETO Nº 2.328, DE 30 DE SETEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.820, de 26 de fevereiro de 1996.

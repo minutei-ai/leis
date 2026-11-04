@@ -1,5 +1,3 @@
-###DEC-007242-0-000-26-07-2010@@@
-
 DECRETO Nº 7.242, DE 26 DE JULHO DE 2010.
 
 Cria a Embaixada do Brasil em Katmandu, na República Federal Democrática do Nepal

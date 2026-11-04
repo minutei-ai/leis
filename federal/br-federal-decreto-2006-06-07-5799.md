@@ -1,5 +1,3 @@
-###DEC-005799-0-000-07-06-2006@@@
-
 DECRETO Nº 5.799, DE 7 DE JUNHO DE 2006.
 
        Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo da Ucrânia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre a Renda, celebrada em Kiev, em 16 de janeiro de 2002.
@@ -24,11 +22,7 @@ DECRETO Nº 5.799, DE 7 DE JUNHO DE 2006.
 
  LUIZ INÁCIO LULA DA SILVA
 
-          Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 8.6.2006.
-
-CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+          Celso Luiz Nunes AmorimCONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DA UCRÂNIA PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR
 

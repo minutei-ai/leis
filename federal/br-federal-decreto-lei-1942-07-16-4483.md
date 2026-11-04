@@ -1,5 +1,3 @@
-###DEL-004483-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.483 – DE 16 DE JULHO DE 1942
 
 Prorroga a data fixada para a execução dos arts. 3º e 86 do Regulamento expedido pelo decreto n. 4.257, de 16 de junho de 1939

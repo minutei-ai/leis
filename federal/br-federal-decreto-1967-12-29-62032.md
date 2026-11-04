@@ -1,5 +1,3 @@
-###DEC-062032-0-000-29-12-1967@@@
-
 DECRETO Nº 62.032, DE 29 DE DEZEMBRO DE 1967.
 
 Autoriza a Mineração e Usina Wigg S. A. a lavrar minério de ferro, no município de Itabirito, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-004158-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.158 – DE 6 DE MARÇO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 90:000$0 para despesas com os funcionários da Polícia Civil do Distrito Federal, designados para prestar serviços no estrangeiro

@@ -1,5 +1,3 @@
-###DEC-076268-0-000-12-09-1975@@@
-
 DECRETO Nº 76.268 - DE 12 DE SETEMBRO DE 1975
 
 Concede à empresa de Caolim Ltda., o direito de lavrar argila no Município de Inhaúma, Estado de Minas Gerais.

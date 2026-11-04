@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209322)<br>
-
 # DECRETO N° 68.457, DE 18 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Viarondon Concessionária de Rodovia S/A, as áreas necessárias à implantação de passarela no km 527+100m da Rodovia SP300, no Município de Araçatuba, e dá providências correlatas._

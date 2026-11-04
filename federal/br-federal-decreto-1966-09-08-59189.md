@@ -1,5 +1,3 @@
-###DEC-059189-0-000-08-09-1966@@@
-
 decreto nº 59.189, de 8 de setembro de 1966.
 
 Outorga concessão à Rádio Cultura Angrense Ltda., para instalar uma estação de radiodifusão sonora na cidade de Angra dos Reis, Estado do Rio de Janeiro.

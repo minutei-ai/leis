@@ -1,5 +1,3 @@
-###DEL-006438-0-000-26-04-1944@@@
-
 DECRETO-LEI N. 6.438 – DE 26 DE ABRIL DE 1944
 
 Cria o Serviço Postal da Força Expedicionária Brasileira

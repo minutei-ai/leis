@@ -1,20 +1,18 @@
-###DEC-033934-0-000-28-09-1953@@@
+**DECRETO N. 33.934 – DE 28 DE SETEMBRO DE 1953**
 
-<strong>DECRETO N. 33.934 – DE 28 DE SETEMBRO DE 1953</strong>
-
-<em><strong>Altera o regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura, aprovado pelo Decreto nº 4.438, de 26 de julho de 1939, e dá outras providências.</strong></em>
+***Altera o regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura, aprovado pelo Decreto nº 4.438, de 26 de julho de 1939, e dá outras providências.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º O artigo 3º do regimento do Departamento Nacional da Produção Vegetal, aprovado pelo Decreto nº 4.438, de 26 de julho de 1989, fica acrescido do seguinte parágrafo:
+**Art.** 1º O artigo 3º do regimento do Departamento Nacional da Produção Vegetal, aprovado pelo Decreto nº 4.438, de 26 de julho de 1989, fica acrescido do seguinte parágrafo:
 
-<strong>“Art.</strong> 3º....................“Parágrafo único. A D. T. C, terá dois assessores jurídicos e três assessores técnicos, diretamente subordinados ao respectivo Diretor e de sua livre escolha e designação."
+**“Art.** 3º....................“Parágrafo único. A D. T. C, terá dois assessores jurídicos e três assessores técnicos, diretamente subordinados ao respectivo Diretor e de sua livre escolha e designação."
 
-<strong>Art.</strong> 2º Os artigos 17, 18, 19, 20, 25, 26 e 30 do citado regimento passam a vigorar, respectivamente, com a seguinte redação :
+**Art.** 2º Os artigos 17, 18, 19, 20, 25, 26 e 30 do citado regimento passam a vigorar, respectivamente, com a seguinte redação :
 
-<strong>"Art.</strong> 17. A D. T. C. e constituída dos seguintes órgãos:
+**"Art.** 17. A D. T. C. e constituída dos seguintes órgãos:
 
 I–  Seção de Colonização
 
@@ -22,11 +20,11 @@ II – Seção de Administração
 
 III – Núcleos Coloniais e Colonias Agrícolas Nacionais.’
 
-<strong>“Art</strong> 18\. A critério do Ministro da Agricultura, e mediante proposta do Diretor da D.T C., poderão ser criados Postos de Colonização e Emergência.
+**“Art** 18\. A critério do Ministro da Agricultura, e mediante proposta do Diretor da D.T C., poderão ser criados Postos de Colonização e Emergência.
 
 “Parágrafo único. Os postos serão dirigidos por encarregados designados pelo Diretor da D. T. C.
 
-<strong>“Art.</strong> 19. A Seção de Colonização compete:
+**“Art.** 19. A Seção de Colonização compete:
 
 a) organizar o registro de terras para colonização, procedendo as necessárias vistorias;
 
@@ -68,7 +66,7 @@ t) Lavrar os autos de infração das leis de colonização do país, submetendo-
 
 u) difundir, em colaboração com os órgãos competentes, na área de ação dos núcleos, postos e colônias, o ensino rural, os princípios de higiene e a organização cooperativista.
 
-<strong>“Art.</strong> 20. A Seção de Administração compete promover as medidas necessárias à administração de pessoal, material, orçamento, comunicações e portarias da Divisão, devendo para tanto ;
+**“Art.** 20. A Seção de Administração compete promover as medidas necessárias à administração de pessoal, material, orçamento, comunicações e portarias da Divisão, devendo para tanto ;
 
 a) receber, registrar, distribuir, expedir, guardar e arquivar a correspondência oficial e papéis relativos às atividades da Divisão, controlando o respectivo andamento;
 
@@ -116,9 +114,9 @@ x) zelar pela guarda, conservação e asseio das dependências da sede;
 
 y) prover e controlar os serviços de transporte e da Estação-Rádio da sede da Divisão.
 
-<strong>“Art.</strong> 25. Ao Secretário incumbe executar os trabalhos que lhe forem atribuídos pelo Diretor-Geral ou Diretor de Divisão respectivo, e ao Auxiliar os determinados pelo Diretor-Geral ou Secretário dêste.”
+**“Art.** 25. Ao Secretário incumbe executar os trabalhos que lhe forem atribuídos pelo Diretor-Geral ou Diretor de Divisão respectivo, e ao Auxiliar os determinados pelo Diretor-Geral ou Secretário dêste.”
 
-<strong>“Art.</strong> 26. Aos assessores técnicos e jurídicos compete executar os trabalhos de natureza técnica e jurídica que lhes forem atribuídos pelo Diretor da D. T. C.”
+**“Art.** 26. Aos assessores técnicos e jurídicos compete executar os trabalhos de natureza técnica e jurídica que lhes forem atribuídos pelo Diretor da D. T. C.”
 
 § 1º Aos Assessores Técnicos incumbe ainda :
 
@@ -142,7 +140,7 @@ f) acompanhar os processos judiciais relativos à incorporação de terras para 
 
 g) dar assistência juridica às cooperativas dos núcleos e colônias agricolas nacionais subordinados à D. T.C., inclusive a promoção do procedimento legal de responsabilidade das suas diretorias, sobretudo para a defesa do patrimônio econômico-financeiro daquelas sociedades
 
-<strong>“Art.</strong> 30. Aos Administradores dos Núcleos Coloniais e das Colônias Agrícolas Nacionais compete:
+**“Art.** 30. Aos Administradores dos Núcleos Coloniais e das Colônias Agrícolas Nacionais compete:
 
 a) receber os agricultores nacionais e estrangeiros, promover o seu transporte e o de suas bagagens até o ponto de localização, e dar-1hes hospedagem;
 
@@ -208,14 +206,14 @@ i) manter hospedarias rústicas para hospedagem e triagem dos deslocados, campos
 
 § 2º Aos encarregados dos Postos de Colonização de Emergência compete, ainda, a execução das mesmas atribuições previstas para os administradores dos Núcleos Coloniais e das Colônias Agrícolas Nacionais, no que se refere a contrôle de pessoal, material, recursos financeiros e planos de trabalho.”
 
-<strong>Art.</strong> 3º Dentro de 30 (trinta) dias a partir da vigência dêste decreto, a Divisão do Pessoal do Ministério da Agricultura promoverá a relotação, em outros órgãos, dos servidores que se encontrem em exercício na Seção de Terras da D. T. C., ora extinta.
+**Art.** 3º Dentro de 30 (trinta) dias a partir da vigência dêste decreto, a Divisão do Pessoal do Ministério da Agricultura promoverá a relotação, em outros órgãos, dos servidores que se encontrem em exercício na Seção de Terras da D. T. C., ora extinta.
 
-<strong>Art.</strong> 4º Êste decreto entrará em vigor na data de sua publicação.
+**Art.** 4º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art.</strong> 5º Ficam expressamente revogados o Decreto nº 25.291, de 30 de julho de 1948, e demais disposições em contrário
+**Art.** 5º Ficam expressamente revogados o Decreto nº 25.291, de 30 de julho de 1948, e demais disposições em contrário
 
 Rio de Janeiro, em 28 de setembro de 1953, 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas

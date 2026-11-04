@@ -1,7 +1,3 @@
-1
-
-###DEC-000980-0-000-11-11-1993@@@
-
 DECRETO N° 980, DE 11 DE NOVEMBRO DE 1993
 
 Dispõe sobre a cessão de uso e a administração de imóveis residenciais de propriedade da União a agentes políticos e servidores públicos federais, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001295-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.295, DE 9 DE FEVEREIRO DE 1996.
 
 Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

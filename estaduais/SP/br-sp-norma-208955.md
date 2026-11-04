@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208955)<br>
-
 # DECRETO N° 68.206, DE 15 DE DEZEMBRO DE 2023
 
 ### _Institui a Medalha Cinquentenário do 8° Batalhão de Polícia Militar Metropolitano e dá providências correlatas._

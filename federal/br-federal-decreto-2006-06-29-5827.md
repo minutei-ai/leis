@@ -1,5 +1,3 @@
-###DEC-005827-0-000-29-06-2006@@@
-
 DECRETO Nº 5.827, DE 29 DE JUNHO DE 2006.
 
 Regulamenta a Gratificação de Desempenho de Atividade de Regulação - GDAR e a Gratificação de Desempenho de Atividade Técnico-Administrativa em Regulação - GDATR e dá outras providências.
@@ -131,5 +129,3 @@ LUIZ INÁCIO LULA DA SILVA
           Paulo Bernardo Silva
 
              Dilma Rousseff
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006

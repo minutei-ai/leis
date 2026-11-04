@@ -1,5 +1,3 @@
-###DEC-046422-0-000-14-07-1959@@@
-
 DECRETO Nº 46.422, DE 14 DE JULHO DE 1959.
 
 Autoriza a cessão gratuita do terreno que menciona, situado na Avenida Henrique Valadares, Distrito Federal.

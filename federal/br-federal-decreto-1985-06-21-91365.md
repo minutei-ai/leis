@@ -1,5 +1,3 @@
-###DEC-091365-0-000-21-06-1985@@@
-
 DECRETO Nº 91.365, DE 21 DE JUNHO DE 1985
 
 Autoriza o funcionamento de cursos da Faculdade de Filosofia do Norte Goiano.

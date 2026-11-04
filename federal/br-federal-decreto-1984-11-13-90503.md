@@ -1,5 +1,3 @@
-###DEC-090503-0-000-13-11-1984@@@
-
 Decreto nº 90.503, de 13 de novembro de 1984.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno situada no Município e Comarca de ltanhaém, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP.

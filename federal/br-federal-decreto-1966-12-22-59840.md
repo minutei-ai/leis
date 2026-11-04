@@ -1,5 +1,3 @@
-###DEC-059840-0-000-22-12-1966@@@
-
 DECRETO Nº 59.840, DE 22 DE DEZEMBRO DE 1966.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas do Sul Minas.

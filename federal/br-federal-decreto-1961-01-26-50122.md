@@ -1,5 +1,3 @@
-###DEC-050122-0-000-26-01-1961@@@
-
 Decreto nº 50.122, de 26 de janeiro de 1961.
 
 Autoriza a Prefeitura Municipal de Tatui, Estado de São Paulo, a encampar os serviços locais de energia elétrica, de que é concessionária a Cia. Luz e Fôrça Tatuí.

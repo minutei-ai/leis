@@ -1,7 +1,3 @@
-1
-
-###DEC-000458-0-000-27-02-1992@@@
-
 DECRETO N° 458, DE 27 DE FEVEREIRO DE 1992
 
 Regulamenta a Lei n° 8.199, de 28 de junho de 1991, no que concerne á isenção do Imposto sobre Produtos Industrializados na aquisição de veículos por pessoas portadoras de deficiência física.

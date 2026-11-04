@@ -1,5 +1,3 @@
-###MPV-001816-0-003-10-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.816-3, DE 10 de JUNHO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083205-0-000-28-02-1979@@@
-
 Decreto nº 83.205, de 28 de fevereiro de 1979
 
 Concede à E.S. Ponso & Cia. Ltda. o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

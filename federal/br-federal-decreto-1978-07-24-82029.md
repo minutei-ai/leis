@@ -1,5 +1,3 @@
-###DEC-082029-0-000-24-07-1978@@@
-
 Decreto nº 82.029, de 24 de julho de 1978.
 
 Aplica aos militares candidatos a cargos eletivos o disposto no Decreto nº 54.062, de 28 de julho de 1964.

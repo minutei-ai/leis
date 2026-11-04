@@ -1,5 +1,3 @@
-###DEL-006089-0-000-10-12-1943@@@
-
 DECRETO‑LEI N. 6.089 – DE 10 DE DEZEMBRO de 1943
 
 Dispõe sôbre o provimento de cargos de diversas classes da carreira de Enge­nheiro do Quadro VII – Parte Permanente – Estrada de Ferro Goiaz, do Ministério da Viação e Obras Públicas.

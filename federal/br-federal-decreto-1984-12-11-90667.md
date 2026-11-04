@@ -1,5 +1,3 @@
-###DEC-090667-0-000-11-12-1984@@@
-
 Decreto nº 90.667, de 11 de dezembro de 1984
 
 Outorga concessão à RADIODIFUSÃO ÁGUAS CLARAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Catuipe, Estado do Rio Grande do Sul.

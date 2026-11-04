@@ -1,5 +1,3 @@
-###DEC-064325-0-000-09-04-1969@@@
-
 Decreto nº 64.325, de 9 de abril de 1969.
 
 Retifica o Quadro Único do Pessoal da Universidade Federal de Juiz de Fora.

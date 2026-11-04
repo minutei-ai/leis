@@ -1,6 +1,10 @@
 > **LEI Nº 3.397, DE 26 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece a obrigatoriedade das unidades básicas de saúde a disponibilizarem informações referentes ao estoque de medicamentos, quantidades existentes na unidade, bem como as informações de todas as outras unidades mais próximas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece a obrigatoriedade das unidades básicas de saúde a disponibilizarem informações referentes ao estoque de medicamentos, quantidades existentes na unidade, bem como as informações de todas as outras unidades mais próximas.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

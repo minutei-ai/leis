@@ -1,5 +1,3 @@
-###DEC-049707-0-000-31-12-1960@@@
-
 decreto nº 49.707, de 31 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “União do Comércio e Indústria” Companhia de Seguros Gerais.

@@ -12,12 +12,14 @@ CAPÍTULO I
 
 DOS OBJETIVOS
 
-Art. 1º - O Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), tem a finalidade de emprestar suporte financeiro aos projetos direcionados à proteção ambiental e ao patrimônio histórico, e a implementação de equipamentos públicos e comunitários.<br>
+Art. 1º - O Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), tem a finalidade de emprestar suporte financeiro aos projetos direcionados à proteção ambiental e ao patrimônio histórico, e a implementação de equipamentos públicos e comunitários.
+
 (Redação alterada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 ~~Art. 1º O Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), tem a finalidade de emprestar suporte financeiro aos projetos direcionados à proteção ambiental e ao patrimônio histórico, à habitação e à implementação de equipamentos públicos e comunitários.~~
 
-§ 1º O FUMDAS será administrado pelo órgão municipal público competente e gerido pelo Conselho Municipal de Desenvolvimento Ambiental Sustentável (COMDAS).<br>
+§ 1º O FUMDAS será administrado pelo órgão municipal público competente e gerido pelo Conselho Municipal de Desenvolvimento Ambiental Sustentável (COMDAS).
+
 (Redação alterada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 ~~Parágrafo único. O FUMDAS será administrado pelo órgão municipal público competente e gerido pelo Conselho Municipal de Desenvolvimento Ambiental Sustentável (COMDAS).~~
@@ -28,7 +30,8 @@ I - despesas com projetos e obras de Proteção Ambiental e Patrimônio Históri
 
 II - despesas com Planos Diretores do Município; e
 
-III - despesas voltadas para o fortalecimento institucional da Secretaria do Meio Ambiente até o limite de 50% do montante mensal de sua arrecadação.<br>
+III - despesas voltadas para o fortalecimento institucional da Secretaria do Meio Ambiente até o limite de 50% do montante mensal de sua arrecadação.
+
 (Redação acrescentada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 Art. 2º Anualmente o COMDAS elaborará e aprovará o orçamento do Fundo, evidenciado as diretrizes do Plano Diretor, políticas e programas do Plano de Ação Municipal, observados o Plano Plurianual, a Lei de Diretrizes Orçamentárias, os princípios da universalidade e unidade e os padrões e normas estabelecidas na legislação pertinente.
@@ -55,36 +58,44 @@ V - rendas procedentes da aplicação financeira dos seus próprios recursos;
 
 VI - recursos provenientes de outras fontes, desde que autorizadas em lei.
 
-§1º - As receitas descritas neste artigo serão depositadas em conta especial e será aberta e mantida em agência de estabelecimento oficial de crédito, ressalvada a possibilidade do Tesouro Municipal realizar diretamente as despesas, desde que atendendo o disposto no art. 1° §2º, desta lei.<br>
+§1º - As receitas descritas neste artigo serão depositadas em conta especial e será aberta e mantida em agência de estabelecimento oficial de crédito, ressalvada a possibilidade do Tesouro Municipal realizar diretamente as despesas, desde que atendendo o disposto no art. 1° §2º, desta lei.
+
 (Redação alterada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 ~~§ 1º As receitas descritas neste artigo serão depositadas obrigatoriamente em conta especial a ser aberta e mantida em agência de estabelecimento oficial de crédito.~~
 
-§2º - A aplicação dos recursos previstos no orçamento do Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), dependerá de prévia aprovação do CONSELHO MUNICIPAL DE DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL - COMDAS, exceto quando a despesa for realizada pelo Tesouro Municipal. <br>
+§2º - A aplicação dos recursos previstos no orçamento do Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), dependerá de prévia aprovação do CONSELHO MUNICIPAL DE DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL - COMDAS, exceto quando a despesa for realizada pelo Tesouro Municipal. 
+
 (Redação alterada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 ~~§ 2º A aplicação dos recursos previstos no orçamento dependerá de prévia aprovação do COMDAS.~~
 
-§3º - As despesas efetuadas pelo Tesouro Municipal com os objetivos do Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), desde a sua criação até o exercício financeiro de 2014, serão consideradas compensadas, independente da apreciação do CONSELHO MUNICIPAL DE DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL -  COMDAS, dispensando-se de quaisquer repasses desta natureza à conta do Fundo.<br>
+§3º - As despesas efetuadas pelo Tesouro Municipal com os objetivos do Fundo Municipal de Desenvolvimento Ambiental Sustentável (FUMDAS), desde a sua criação até o exercício financeiro de 2014, serão consideradas compensadas, independente da apreciação do CONSELHO MUNICIPAL DE DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL -  COMDAS, dispensando-se de quaisquer repasses desta natureza à conta do Fundo.
+
 (Redação alterada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 ~~§ 3º O COMDAS, anualmente, prestará conta das ações e dos recursos do FUMDAS aplicados, à Câmara Municipal.~~
 
-§4º - Anualmente, o CONSELHO MUNICIPAL DE DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL -  COMDAS enviará à Câmara Municipal,  um relatório das ações referentes ao planejamento de Desenvolvimento Urbano e Ambiental Sustentável.<br>
+§4º - Anualmente, o CONSELHO MUNICIPAL DE DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL -  COMDAS enviará à Câmara Municipal,  um relatório das ações referentes ao planejamento de Desenvolvimento Urbano e Ambiental Sustentável.
+
 (Redação alterada pela Lei Ordinária nº 3.203, de 31 de junho de 2014).
 
 ~~§ 4º Anualmente, o COMDAS enviará à Câmara Municipal um relatório das ações referentes ao planejamento de Desenvolvimento Urbano e Ambiental Sustentável.~~
 
-Art. 4º-A Ficam desvinculados do Fundo Municipal de Desenvolvimento Ambiental Sustentável - FUMDAS 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.<br>
+Art. 4º-A Ficam desvinculados do Fundo Municipal de Desenvolvimento Ambiental Sustentável - FUMDAS 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.<br>
+§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.<br>
+§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-Art. 4º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.<br>
+Art. 4º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
 CAPÍTULO II
@@ -99,12 +110,12 @@ Art. 7º Esta Lei deverá ser referenciada como “Lei do FUMDAS 2001 do Municí
 
 Prefeitura Municipal de Aparecida de Goiânia, 30 de janeiro de 2002.
 
-<br>
-<br>
-ADEMIR MENEZES<br>
-Prefeito<br>
+ADEMIR MENEZES
+
+Prefeito
+
  
 
-<br>
-ROGÉRIO ARANTES<br>
+ROGÉRIO ARANTES
+
 Vice-Prefeito

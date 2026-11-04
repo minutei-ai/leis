@@ -1,5 +1,3 @@
-###DEC-050183-0-000-28-01-1961@@@
-
 Decreto nº 50.183, de 28 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Heraldo de Campos Lima a pesquisar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

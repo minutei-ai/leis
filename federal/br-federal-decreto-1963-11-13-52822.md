@@ -1,5 +1,3 @@
-###DEC-052822-0-000-13-11-1963@@@
-
 DECRETO Nº 52.822, DE 13 DE NOVEMBRO DE 1963.
 
 Renova o Decreto nº 489, de 8 de janeiro de 1962.

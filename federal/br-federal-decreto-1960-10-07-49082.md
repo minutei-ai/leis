@@ -1,5 +1,3 @@
-###DEC-049082-0-000-07-10-1960@@@
-
 DECRETO Nº 49.082, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza o Govêrno do Estado ao Rio de Janeiro a ampliar seu sistema de transmissão de energia elétrica, mediante a construção de uma linha entre os distritos sede dos municípios de São Pedro da Aldeia e de Cabo Frio, e dá outras providências.

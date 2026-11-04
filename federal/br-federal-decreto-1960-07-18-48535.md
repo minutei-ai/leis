@@ -1,5 +1,3 @@
-###DEC-048535-0-000-18-07-1960@@@
-
 DECRETO Nº 48.535, DE 18 DE JULHO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Gabinete do Ministro para a da Diretoria de Rotas Aéreas.

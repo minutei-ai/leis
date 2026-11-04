@@ -1,7 +1,3 @@
-1
-
-###DEC-001313-0-000-22-11-1994@@@
-
 DECRETO Nº 1.313, DE 22 DE NOVEMBRO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

@@ -25,7 +25,3 @@ NÍSIO BATISTA DE OLIVEIRA
 Antônio Martins Vilas Boas
 
 Iago Vitoriano Pimentel
-
-\============================================================
-
-Data da última atualização: 5/9/2006.

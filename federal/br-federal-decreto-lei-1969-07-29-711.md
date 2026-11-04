@@ -1,5 +1,3 @@
-###DEL-000711-0-000-29-07-1969@@@
-
 Decreto-lei nº 711, de 29 de Julho de 1969
 
 Revoga o Decreto-lei nº 620, de 10 de junho de 1969, e dá outras providências.

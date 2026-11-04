@@ -1,5 +1,3 @@
-###DEC-073114-0-000-08-11-1973@@@
-
 DECRETO Nº 73.114 - DE 8 DE NOVEMBRO DE 1973
 
 Dispõe sobre a concessão de Prêmios Literários Nacionais previstos pela Lei nº 5.680, de 20 de julho de 1971.

@@ -1,5 +1,3 @@
-###DEC-049581-0-000-22-12-1960@@@
-
 DECRETO Nº 49.581, DE 22 DE DEZEMBRO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.232, de 27-9-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessárias à construção do açude público Vereda Grande, no Município de Floriano, Estado do Piauí.

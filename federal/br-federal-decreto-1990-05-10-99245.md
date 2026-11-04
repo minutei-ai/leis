@@ -1,5 +1,3 @@
-###DEC-099245-0-000-10-05-1990@@@
-
 DECRETO Nº 99.245, DE 10 DE MAIO DE 1990
 
 Institui o "Projeto Palácio da Alvorada" e cria comissão para a sua elaboração e implementação.

@@ -1,10 +1,8 @@
-###DEC-041800-0-000-09-07-1957@@@
+**DECRETO Nº 41.800, DE 9 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.800, DE 9 DE JULHO DE 1957.</strong>
+***Cria Comissão para estudo do problema da expansão dos serviços telefônicos.***
 
-<em><strong>Cria Comissão para estudo do problema da expansão dos serviços telefônicos.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
 CONSIDERANDO que a crise do serviço telefônico no País, por exelência nos grandes centros urbanos se tem agradado progressivamente;
 
@@ -16,13 +14,13 @@ CONSIDERANDO que essa expansão dos meios de comunicação telefônica interessa
 
 CONSIDERANDO que, por todos esses motivos, torna-se imperativo o estudo do problema por parte da autoridade federal para a fixação das diretrizes que devam ser observadas no assunto inclusive no que concerne ao incremento da colaboração que possa prestar as autoridades estaduais e municipais;
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica constituída uma Comissão composta dos Srs. Demosthenes Madureira de Pinho, Vicente de Salles Vicente de Azevedo, Octavio Gouvêa de Bulhões e Antonio Arnaldo Gomes Taveira para proceder ao exame geral do problema da expansão dos serviços telefônicos e indicar as providências e diretrizes que devam ser adotadas na matéria.
 
 Rio de Janeiro, em 9 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lucio Meira
 

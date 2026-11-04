@@ -1,5 +1,3 @@
-###DEC-004385-0-000-24-09-2002@@@
-
 DECRETO Nº 4.385, DE 24 DE SETEMBRO DE 2002
 
 Fixa os preços mínimos básicos para sementes e produtos agrícolas das safras de verão 2002/2003 e do Norte e Nordeste 2003.

@@ -1,5 +1,3 @@
-###DEL-003474-0-000-28-07-1941@@@
-
 DECRETO-LEI N. 3.474 – DE 28 DE JULHO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 7.900:000$0 para obras

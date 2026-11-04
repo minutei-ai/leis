@@ -1,32 +1,30 @@
-###DEC-036771-0-000-12-01-1955@@@
+**DECRETO Nº 36.771, DE 12 DE JANEIRO DE 1955.**
 
-<strong>DECRETO Nº 36.771, DE 12 DE JANEIRO DE 1955.</strong>
+***Aprova o Regimento do Serviço Nacional de Lepra, do Departamento Nacional de Saúde, do Ministério da Saúde.***
 
-<em><strong>Aprova o Regimento do Serviço Nacional de Lepra, do Departamento Nacional de Saúde, do Ministério da Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Lepra, do Departamento Nacional de Saúde, do Ministério da Saúde, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Lepra, do Departamento Nacional de Saúde, do Ministério da Saúde, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 12 de janeiro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Aramis Athayde
 
-<strong>REGIMENTO DO SERVIÇO NACIONAL DA LEPRA</strong>
+**REGIMENTO DO SERVIÇO NACIONAL DA LEPRA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço Nacional da Lepra (S.N.L.), órgão integrante do Departamento Nacional de Saúde (D.N.S.), do Ministério da Saúde, tem por finalidade:
+**Art**. 1º O Serviço Nacional da Lepra (S.N.L.), órgão integrante do Departamento Nacional de Saúde (D.N.S.), do Ministério da Saúde, tem por finalidade:
 
 I - organizar, em todo o país, o plano de combate à lepra, constituindo-se em centro orientador, coordenador e fiscalizador, das atividades dos serviços públicos e privados empenhados nessa campanha e, ainda, em em órgãos realizador da parte que, no programa fixado, tocar à administração federal;
 
@@ -38,13 +36,13 @@ IV - opinar sôbre a organização de quaisquer serviços de combate à lepra no
 
 V - procurar padronizar, respeitadas as características regionais, as organizações públicas e privadas de luta contra a lepra, em todo o país, uniformizando-lhes os trabalhos e modelos de serviços, elaborando para isso, as necessárias instruções.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O S.N.L. compreenderá órgãos centrais e órgãos regionais.
+**Art**. 2º O S.N.L. compreenderá órgãos centrais e órgãos regionais.
 
-<strong>Art</strong>. 3º São órgãos centrais do S.N.L.:
+**Art**. 3º São órgãos centrais do S.N.L.:
 
 I - Instituto de Leprologia (I.L)
 
@@ -70,29 +68,29 @@ b) Turma de Contrôle (T. C. )
 
 c) IV - Seção de Administração (S. A.)
 
-<strong>Art</strong>. 4º Os órgãos regionais são constituídos pelas Circunscrições, diretamente subordinadas ao Diretor do S. N. L.
+**Art**. 4º Os órgãos regionais são constituídos pelas Circunscrições, diretamente subordinadas ao Diretor do S. N. L.
 
-<strong>Art</strong>. 5º Para efeito de execução dos trabalhos regionais, fica o território nacional dividido em cinco (5) circunscrições, cuja jurisdições serão determinadas em portaria do Diretor-Geral do D.N.S., mediante proposta do Diretor do S. N. L.
+**Art**. 5º Para efeito de execução dos trabalhos regionais, fica o território nacional dividido em cinco (5) circunscrições, cuja jurisdições serão determinadas em portaria do Diretor-Geral do D.N.S., mediante proposta do Diretor do S. N. L.
 
 Parágrafo único. As circunscrições poderão ser divididas em setores de acôrdo com a necessidade do serviço.
 
-<strong>Art</strong>. 6º O S. N. L. terá um Diretor nomeado em comissão pelo Presidente da República, mediante indicação do Ministro da Saúde.
+**Art**. 6º O S. N. L. terá um Diretor nomeado em comissão pelo Presidente da República, mediante indicação do Ministro da Saúde.
 
-<strong>Art</strong>. 7º O Diretor do S.N.L., terá um Assistente técnico e um Secretário, por êle designados dentre os servidores do Ministério.
+**Art**. 7º O Diretor do S.N.L., terá um Assistente técnico e um Secretário, por êle designados dentre os servidores do Ministério.
 
-<strong>Art</strong>. 8º O .I. L., as S. E., S. O. C., S. A. e as Circunscrições terão Chefes, designados pelo Diretor do S. N. L.
+**Art**. 8º O .I. L., as S. E., S. O. C., S. A. e as Circunscrições terão Chefes, designados pelo Diretor do S. N. L.
 
-<strong>Art</strong>. 9º As Turmas terão Encarregados, designados pelo Diretor do S. N. L., por indicação do respectivo Chefe de Seção.
+**Art**. 9º As Turmas terão Encarregados, designados pelo Diretor do S. N. L., por indicação do respectivo Chefe de Seção.
 
-<strong>Art</strong>. 10. Os Chefes do I. L., das S. E., S. O. C., e Circunscrições, bem como o Assistente do Diretor, deverão ser escolhidos dentre os técnicos em leprologia pertencentes ao Quadro do Ministério da Saúde.
+**Art**. 10. Os Chefes do I. L., das S. E., S. O. C., e Circunscrições, bem como o Assistente do Diretor, deverão ser escolhidos dentre os técnicos em leprologia pertencentes ao Quadro do Ministério da Saúde.
 
-<strong>Art</strong>. 11. Os órgãos que integram o S. N. L. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 11. Os órgãos que integram o S. N. L. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 12. Ao I. L. compete:
+**Art**. 12. Ao I. L. compete:
 
 I - realizar estudos, pesquisas e investigações sôbre a etiopatogenia, anatomia patológica, imunologia, clínica e terapêutica da lepra;
 
@@ -204,7 +202,7 @@ V - orientar a T.D. na escolha de obras sôbre leprologia e assuntos correlatos 
 
 VI - cooperar na realização de cursos de leprologia mantidos pelo D.N.S.
 
-<strong>Art</strong>. 13. A S. E. compete:
+**Art**. 13. A S. E. compete:
 
 I - organizar e manter atualizado o fichário central dos doentes de lepra de todo o país e seus comunicantes;
 
@@ -230,7 +228,7 @@ XI - divulgar as atividades do S. N. L., por meio de publicações, conferência
 
 XII - planejar fichas, mapas e boletins-padrões peculiares às atividades da S. E.
 
-<strong>Art</strong>. 14. À S. O. C. compete:
+**Art**. 14. À S. O. C. compete:
 
 A - através da T.O.:
 
@@ -266,7 +264,7 @@ III - controlar a aplicação das dotações concedidas pela União a entidades 
 
 IV - fazer o cadastro e registro de tôdas as organizações empenhadas na campanha contra a lepra, bem como do pessoal integrado na referida campanha.
 
-<strong>Art</strong>. 15. Á S. A. compete:
+**Art**. 15. Á S. A. compete:
 
 I - executar as atividades de administração geral do S. N. L., devendo, para isso, manter-se perfeitamente articulada com o Serviço de Administração do D. N. S., observando e fazendo observar normas e métodos de trabalho pelo mesmo prescrito;
 
@@ -302,11 +300,11 @@ XVI - manter atualizada uma coleção de leis, decretos, ordens de serviços, de
 
 XVII - providenciar e fiscalizar a execução dos serviços de limpeza e conservação dos edifícios ocupadas pelo S. N. L. no Distrito Federal.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 16. Ao Diretor incumbe:
+**Art**. 16. Ao Diretor incumbe:
 
 I - orientar e coordenar as atividades do S.N.L.;
 
@@ -356,7 +354,7 @@ XXIII - apresentar ao Diretor Geral do D. N. S., quando solicitado, um boletim d
 
 XXIV - promover reuniões de técnicos em leprologia, tendo em vista o interêsse e as finalidades do S. N. L.
 
-<strong>Art</strong>. 17. Aos chefes de Seção do I. L. e das Circunscrições, incumbe:
+**Art**. 17. Aos chefes de Seção do I. L. e das Circunscrições, incumbe:
 
 I - dirigir e fiscalizar os trabalhos do respetivo setor;
 
@@ -382,13 +380,13 @@ XI - velar pela disciplina e manutenção do silencio nos recintos de trabalho;
 
 XII - inspecionar serviços e atividades oficiais e particulares relacionadas com as seções, quando assim determinar o Diretor do S.N.L.
 
-<strong>Art</strong>. 18. Ao Assistente do Diretor incumbe:
+**Art**. 18. Ao Assistente do Diretor incumbe:
 
 I - auxiliar o Diretor na orientação e execução dos trabalhos, procurando, principalmente, manter a coordenação entre as diferentes unidades do Serviço;
 
 II -representar o Diretor quando para isso fôr designado.
 
-<strong>Art</strong>. 19. Ao Secretário do Diretor incumbe :
+**Art**. 19. Ao Secretário do Diretor incumbe :
 
 I - atender ás pessoas que desejarem comunicar-se com o Diretor do S.N.L., encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -396,7 +394,7 @@ II - representar o Diretor quando para isso fôr designado;
 
 III - redigir a correspondência pessoal do Diretor; encarregar-se de outras tarefas que lhe sejam cometidas pelo Diretor.
 
-<strong>Art</strong>. 20. Aos Encarregados das Turmas incumbe:
+**Art**. 20. Aos Encarregados das Turmas incumbe:
 
 I - executar os trabalhos que competirem às respectivas Turmas;
 
@@ -420,31 +418,31 @@ X- emitir pareceres técnicos pertinentes ao respectivo setor;
 
 XI - dar conhecimento ao chefe imediato das ocorrências que registrarem nas respectivas Turmas.
 
-<strong>Art</strong>. 21. Ao Encarregado da T.C.T. incumbe, ainda, organizar a relação dos candidatos aos benefícios concedidos pela Lei 1.045, nas datas regulamentares.
+**Art**. 21. Ao Encarregado da T.C.T. incumbe, ainda, organizar a relação dos candidatos aos benefícios concedidos pela Lei 1.045, nas datas regulamentares.
 
-<strong>Art</strong>. 22. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 22. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 23. O S.N.L. terá lotação aprovada em decreto.
+**Art**. 23. O S.N.L. terá lotação aprovada em decreto.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>DO HORARIO</em>
+*DO HORARIO*
 
-<strong>Art</strong>. 24. O horário normal de trabalho do S.N.L. será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 24. O horário normal de trabalho do S.N.L. será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 25. O horário do pessoal designado para serviço externo, será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais ou mensais estabelecido para o Serviço Público Civil, sendo a freqüência apurada por meio de boletins diários de produção.
+**Art**. 25. O horário do pessoal designado para serviço externo, será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais ou mensais estabelecido para o Serviço Público Civil, sendo a freqüência apurada por meio de boletins diários de produção.
 
-<strong>Art</strong>. 26. O Diretor do S.N.L. não está sujeito a ponto, devendo, porém observar o disposto fixado no artigo 5.º da lei n.º 2.188, de 3 de março de 1954.
+**Art**. 26. O Diretor do S.N.L. não está sujeito a ponto, devendo, porém observar o disposto fixado no artigo 5.º da lei n.º 2.188, de 3 de março de 1954.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 27. Serão substituídos, automaticàmente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 27. Serão substituídos, automaticàmente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor do S.N.L., por um dos chefes das seções, pelo chefe do I.L., ou pelo Assistente Técnico designado pelo Diretor-Geral do DNS, mediante indicação do Diretor do S.N.L.;
 
@@ -452,26 +450,26 @@ II - O chefe do I.L. e os chefes de Seção e de circunscrição, por funcionár
 
 Parágrafo único. Haverá sempre servidores préviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPITULO VIII</strong>
+**CAPITULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 28. O I.L. manterá os ambulatórios e enfermarias que se tornarem necessárias aos seus trabalhos.
+**Art**. 28. O I.L. manterá os ambulatórios e enfermarias que se tornarem necessárias aos seus trabalhos.
 
-<strong>Art</strong>. 29. O S.N.L. pode calcular os seus trabalhos com os Estados, Territórios, autarquias e particulares, mediante acôrdos firmados de conformidade com o, plano de trabalho do S.N.L. elaborado pelo Diretor e aprovado pelo Ministro de Estado.
+**Art**. 29. O S.N.L. pode calcular os seus trabalhos com os Estados, Territórios, autarquias e particulares, mediante acôrdos firmados de conformidade com o, plano de trabalho do S.N.L. elaborado pelo Diretor e aprovado pelo Ministro de Estado.
 
-<strong>Art</strong>. 30. O pessoal da S.N.L. é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado, quando assim o exigirem as necessidades do serviço, a critério do Diretor do S.N.L.
+**Art**. 30. O pessoal da S.N.L. é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado, quando assim o exigirem as necessidades do serviço, a critério do Diretor do S.N.L.
 
-<strong>Art</strong>. 31. São os técnicos, quando em fora da sede, obrigados a relatar, resumidamente, em diários, as suas atividades e bem assim as ocorrências de interesse do serviço enviando-as semanalmente aos seus respectivos chefes, que as submeterão, quando julgar oportuno à apreciação do Diretor do S.N.L.
+**Art**. 31. São os técnicos, quando em fora da sede, obrigados a relatar, resumidamente, em diários, as suas atividades e bem assim as ocorrências de interesse do serviço enviando-as semanalmente aos seus respectivos chefes, que as submeterão, quando julgar oportuno à apreciação do Diretor do S.N.L.
 
-<strong>Art</strong>. 32. Os trabalhos realizados no S.N.L. poderão ser publicados em revistas cientificas nacionais que não sejam editadas pelo D.N.S. e em estrangeiras, desde que tenham como subtítulo, a expressão “Trabalho do Serviço Nacional de Lepra (Brasil)” e a publicação tenha sido autorizada pelo Diretor do Serviço.
+**Art**. 32. Os trabalhos realizados no S.N.L. poderão ser publicados em revistas cientificas nacionais que não sejam editadas pelo D.N.S. e em estrangeiras, desde que tenham como subtítulo, a expressão “Trabalho do Serviço Nacional de Lepra (Brasil)” e a publicação tenha sido autorizada pelo Diretor do Serviço.
 
-<strong>Art</strong>. 33. Os técnicos do S.N.L. deverão contribuir para as publicações do S.N.L., com trabalhos selecionados, de sua autoria, os quais expressam os resultados das atividades do setor onde trabalham ou traduzam comunicações, estudos, observações ou contribuições dos métodos e meios de combate à Lepra.
+**Art**. 33. Os técnicos do S.N.L. deverão contribuir para as publicações do S.N.L., com trabalhos selecionados, de sua autoria, os quais expressam os resultados das atividades do setor onde trabalham ou traduzam comunicações, estudos, observações ou contribuições dos métodos e meios de combate à Lepra.
 
-<strong>Art</strong>. 34. Os servidores do S.N.L. não poderão fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionedos com a orientação técnica ou administrativa do Serviço, sem autorização escrita do Diretor.
+**Art**. 34. Os servidores do S.N.L. não poderão fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionedos com a orientação técnica ou administrativa do Serviço, sem autorização escrita do Diretor.
 
-<strong>Art</strong>. 35. A juízo do Diretor, poderão ser incluídos em publicações do S.N.L. trabalhos relevantes de técnicos estranhos ao mesmo, quando se referirem a assuntos relacionados comas suas atividades.
+**Art**. 35. A juízo do Diretor, poderão ser incluídos em publicações do S.N.L. trabalhos relevantes de técnicos estranhos ao mesmo, quando se referirem a assuntos relacionados comas suas atividades.
 
 Rio de Janeiro, em 12 de janeiro de 1955.
 
-<strong>ARAMIS ATHAYDE</strong>
+**ARAMIS ATHAYDE**

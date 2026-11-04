@@ -1,5 +1,3 @@
-###DEC-055453-0-000-05-01-1965@@@
-
 Decreto nº 55.453, de 5 de janeiro de 1965.
 
 Autoriza Th. Badin de Minérios Ltda a pesquisar corídon nos municípios de Castro Alves, Itaberaba e Santa Terezinha, no Estado da Bahia.

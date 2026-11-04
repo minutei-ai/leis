@@ -1,5 +1,3 @@
-###DEC-047119-0-000-27-10-1959@@@
-
 DECRETO Nº 47.119, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Nogueira a lavrar minério de ferro, no município de Mateus Leme, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-080088-0-000-04-08-1977@@@
-
 DECRETO Nº 80.088, DE 4 DE AGOSTO DE 1977.
 
 Autoriza a transformação do curso de Desenho e Plástica, da Faculdade de Belas Artes de Novo Hamburgo, com sede na cidade de Novo Hamburgo, Estado do Rio Grande do Sul.

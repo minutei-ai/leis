@@ -1,5 +1,3 @@
-###MPV-000342-0-000-29-12-2006@@@
-
 MEDIDA PROVISÓRIA No- 342, DE 29 DE DEZEMBRO DE 2006
 
 Altera e acresce dispositivos à Lei no 11.438, de 29 de dezembro de 2006, que dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo.

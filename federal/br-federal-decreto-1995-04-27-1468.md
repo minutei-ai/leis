@@ -1,5 +1,3 @@
-###DEC-001468-0-000-27-04-1995@@@
-
 DECRETO Nº 1.468, DE 27 DE ABRIL DE 1995
 
 Dispõe sobre a transferência e a transformação de cargos em comissão que menciona.

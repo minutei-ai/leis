@@ -1,5 +1,3 @@
-###DEC-049935-0-000-13-01-1961@@@
-
 DECRETO Nº 49.935, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Raul Amorim Antony a pesquisar minério de manganês no município do Amazonas.

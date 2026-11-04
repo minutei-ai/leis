@@ -1,5 +1,3 @@
-###DEC-091430-0-000-12-07-1985@@@
-
 Decreto nº 91.430, de 12 de julho de 1985
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia das Faculdades Integradas de Santo Angelo.

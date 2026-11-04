@@ -1,7 +1,3 @@
-1
-
-###DEC-099702-0-000-20-11-1990@@@
-
 DECRETO N° 99.702, DE 20 DE NOVEMBRO DE 1990
 
 Promulga o Acordo de Cooperação Cultural Educacional e Cientifica, entre a República Federativa do Brasil e República da Finlândia.

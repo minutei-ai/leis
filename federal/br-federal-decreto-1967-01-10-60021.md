@@ -1,5 +1,3 @@
-###DEC-060021-0-000-10-01-1967@@@
-
 DECRETA Nº 60.021, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Sinezio Borges a pesquisar argila no município de Poços de Caldas, Estado de Minas Gerais.

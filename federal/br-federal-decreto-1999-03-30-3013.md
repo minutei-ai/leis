@@ -1,5 +1,3 @@
-###DEC-003013-0-000-30-03-1999@@@
-
 decreto nº 3.013, de 30 de março de 1999.
 
 Prorroga o prazo estabelecido no art. 3º do Decreto nº 2.321, de 8 de setembro de 1997.

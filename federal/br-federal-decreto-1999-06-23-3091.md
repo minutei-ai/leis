@@ -1,5 +1,3 @@
-###DEC-003091-0-000-23-06-1999@@@
-
 DECRETO Nº 3.091, DE 23 DE JUNHO DE 1999
 
 Dispõe sobre o remanejamento, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

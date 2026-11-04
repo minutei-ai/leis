@@ -1,5 +1,3 @@
-###DEC-096130-0-000-03-06-1988@@@
-
 DECRETO N° 96.130, DE 3 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDAS CALIFÓRNIA” e “CALIFÓRNIA DA LIMEIRA”, classificados como “latifúndio por exploração”, situados no Município de Tumiritinga Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

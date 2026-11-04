@@ -1,5 +1,3 @@
-###DEC-080820-0-000-24-11-1977@@@
-
 DECRETO Nº 80.820, DE 24 DE NOVEMBRO DE 1977.
 
 Transfere a sede de Organização Militar do Ministério do Exército e dá outras providências.

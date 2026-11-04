@@ -1,5 +1,3 @@
-###DEC-085770-0-000-26-02-1981@@@
-
 Decreto nº 85.770, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Secretário Exercito Bilíngüe, do Instituto Mineiro de Ciências Administrativas e Tecnológicas, de Belo Horizonte, Estado de Minas Gerais.

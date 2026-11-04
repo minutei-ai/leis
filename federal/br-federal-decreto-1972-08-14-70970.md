@@ -1,5 +1,3 @@
-###DEC-070970-0-000-14-08-1972@@@
-
 DECRETO Nº 70.970, DE 14 DE AGOSTO DE 1972.
 
 Concede reconhecimento da Faculdade de Ciências Econômicas de Joinville, Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-003969-0-000-23-12-1941@@@
-
 DECRETO-LEI N. 3.969 – DE 23 DE DEZEMBRO DE 1941
 
 Dispõe sobre aposentadoria e demissão dos empregados do Lloyd Brasileiro e dá outras providências

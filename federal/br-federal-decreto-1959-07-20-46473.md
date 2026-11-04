@@ -1,5 +1,3 @@
-###DEC-046473-0-000-20-07-1959@@@
-
 DECRETO Nº 46.473, DE 20 DE JULHO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Cordeirópolis, no Estado de São Paulo.

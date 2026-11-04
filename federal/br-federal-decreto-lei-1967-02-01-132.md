@@ -1,5 +1,3 @@
-###DEL-000132-0-000-01-02-1967@@@
-
 DECRETO-LEI Nº 132, DE 01 DE fevereiro DE 1967
 
 Altera a Lei nº 3.654, de 4 de novembro de 1959.

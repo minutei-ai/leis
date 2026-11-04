@@ -1,5 +1,3 @@
-###DEL-003296-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.296 – DE 22 DE MAIO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 2.000:000$0, destinado à constituição de “stock” de material no Departamento Federal de Compras, e dá outras providências.

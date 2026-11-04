@@ -1,5 +1,3 @@
-###DEL-008310-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.310 – DE 6 DE DEZEMBRO DE 1945
 
 Dispõe sôbre promoção de funcionários do extinto Quadro II do Ministério da Viação e Obras Públicas.

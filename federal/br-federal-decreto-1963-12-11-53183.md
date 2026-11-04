@@ -1,5 +1,3 @@
-###DEC-053183-0-000-11-12-1963@@@
-
 DECRETO Nº 53.183, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia de cimento Portland Brasília a pesquisar calcário, no município de Corumbá de Goiás, Estado de Goiás.

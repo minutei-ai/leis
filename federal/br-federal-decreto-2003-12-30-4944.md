@@ -1,5 +1,3 @@
-###DEC-004944-0-000-30-12-2003@@@
-
 DECRETO Nº 4.944,  DE 30 DE DEZEMBRO DE 2003.
 
 Altera os arts. 8º, 9º, 11 e 18 do Decreto nº 3.800, de 20 de abril de 2001, que regulamenta dispositivos das Leis nºs 8.248, de 23 de outubro de 1991, e 10.176, de 11 de janeiro de 2001, e os arts. 7º, 8º, 10 e 14 do Decreto nº 4.401, de 1º de outubro de 2002, que regulamenta dispositivos do Decreto-Lei nº 288, de 28 de fevereiro de 1967, e das Leis nºs 8.387, de 30 de dezembro de 1991, e 10.176, de 11 de janeiro de 2001.

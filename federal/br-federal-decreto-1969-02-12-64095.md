@@ -1,5 +1,3 @@
-###DEC-064095-0-000-12-02-1969@@@
-
 decreto nº 64.095, de 12 de fevereiro de 1969.
 
 Declara caduco o Decreto nº 12.591, de 16 de junho de 1943.

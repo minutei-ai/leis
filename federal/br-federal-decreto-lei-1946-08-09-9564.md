@@ -1,5 +1,3 @@
-###DEL-009564-0-000-09-08-1946@@@
-
 DECRETO-LEI N. 9.564 – DE 9 DE AGÔSTO DE 1946.
 
 Estabelece multa para as liquidações que excederem os prazos de que trata o Decreto-lei nº 9.523, de 26 de Julho de 1946.

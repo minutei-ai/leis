@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61533)
-
 # LEI Nº 12.290, DE 02 DE MARÇO DE 2006
 
 ## (Projeto de lei nº 1263/2003, do Deputado Mauro Menuchi - PT)

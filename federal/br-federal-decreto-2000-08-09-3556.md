@@ -1,5 +1,3 @@
-###DEC-003556-0-000-09-08-2000@@@
-
 DECRETO Nº 3.556, DE 9 DE AGOSTO DE 2000.
 
 Altera o art. 1º do Regulamento da Ordem do Mérito Cultural, aprovado pelo Decreto nº 1.711, de 22 de novembro de 1995.

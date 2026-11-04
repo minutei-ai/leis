@@ -222,14 +222,16 @@ III – adotar diretrizes que favoreçam a interoperabilidade, a modularidade e 
 
 IV – incentivar e apoiar os diferentes órgãos do Estado de Goiás na execução de políticas públicas que favoreçam o desenvolvimento e a implementação da IA em setores estratégicos da economia estadual, como agropecuária, indústria e comércio.
 
-Art. 20. A Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG, nos termos da legislação aplicável, operacionalizará as ações previstas nesta Lei Complementar relacionadas ao fomento, à pesquisa, à inovação e à capacitação na IA alinhadas às diretrizes da Secretaria de Estado de Ciência, Tecnologia e Inovação - SECTI.<br>
+Art. 20. A Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG, nos termos da legislação aplicável, operacionalizará as ações previstas nesta Lei Complementar relacionadas ao fomento, à pesquisa, à inovação e à capacitação na IA alinhadas às diretrizes da Secretaria de Estado de Ciência, Tecnologia e Inovação - SECTI.
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~Art. 20. A Fundação de Amparo à Pesquisa do Estado de Goiás – FAPEG, nos termos da legislação aplicável, operacionalizará ações previstas nesta Lei Complementar relacionadas ao fomento à pesquisa, à inovação e à capacitação na IA alinhadas às diretrizes da Secretaria-Geral de Governo – SGG e da Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI.~~
 
 Parágrafo único. A FAPEG poderá participar de fundos de investimento, inclusive de  _venture capital_ (VC), que tenham por objetivo capitalizar _startups_ goianas que desenvolvam soluções inovadoras em IA, conforme condições e disposições complementares a serem especificadas em regulamento.
 
-Art. 21. Fica instituído o Prêmio Anual Goiás Aberto para a Inteligência Artificial, a ser executado e coordenado pela FAPEG em conjunto com a SECTI, destinado a reconhecer e premiar iniciativas nacionais e internacionais que se destaquem pelo uso inovador, ético e sustentável de soluções abertas na IA.<br>
+Art. 21. Fica instituído o Prêmio Anual Goiás Aberto para a Inteligência Artificial, a ser executado e coordenado pela FAPEG em conjunto com a SECTI, destinado a reconhecer e premiar iniciativas nacionais e internacionais que se destaquem pelo uso inovador, ético e sustentável de soluções abertas na IA.
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~Art. 21. Fica instituído o Prêmio Anual Goiás Aberto para a Inteligência Artificial, a ser executado e coordenado pela FAPEG em conjunto com a SGG e a SECTI, destinado a reconhecer e premiar iniciativas nacionais e internacionais que se destaquem pelo uso inovador, ético e sustentável de soluções abertas na IA.~~
@@ -300,7 +302,8 @@ c) a articulação com iniciativas nacionais e internacionais voltadas à democr
 
 Art. 26. Fica instituída a Diplomacia Estadual para Tecnologia e Inteligência Artificial, com a finalidade de posicionar o Estado de Goiás como ator global relevante na inovação tecnológica aberta e na governança ética da IA.
 
-§ 1º A Diplomacia Estadual para Tecnologia e Inteligência Artificial será coordenada pela SECTI, que alocará os recursos humanos, financeiros e logísticos necessários ao desempenho eficaz de suas atribuições.<br>
+§ 1º A Diplomacia Estadual para Tecnologia e Inteligência Artificial será coordenada pela SECTI, que alocará os recursos humanos, financeiros e logísticos necessários ao desempenho eficaz de suas atribuições.
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~§ 1º A Diplomacia Estadual para Tecnologia e Inteligência Artificial será coordenada pela SGG, que alocará os recursos humanos, financeiros e logísticos necessários ao desempenho eficaz de suas atribuições.~~
@@ -321,7 +324,8 @@ CAPÍTULO VII
 
 NÚCLEO DE ÉTICA E INOVAÇÃO EM INTELIGÊNCIA ARTIFICIAL
 
-Art. 27. O Núcleo de Ética e Inovação em Inteligência Artificial - NEI-IA, criado por esta Lei Complementar para promover o uso responsável, transparente e sustentável da IA no Estado de Goiás, passa a integrar a estrutura administrativa da SECTI, mantida a sua natureza consultiva, multissetorial e permanente.<br>
+Art. 27. O Núcleo de Ética e Inovação em Inteligência Artificial - NEI-IA, criado por esta Lei Complementar para promover o uso responsável, transparente e sustentável da IA no Estado de Goiás, passa a integrar a estrutura administrativa da SECTI, mantida a sua natureza consultiva, multissetorial e permanente.
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~Art. 27. Fica criado, na estrutura administrativa da SGG, o Núcleo de Ética e Inovação em Inteligência Artificial – NEI-IA, com natureza consultiva, multissetorial e permanente, para promover o uso responsável, transparente e sustentável da IA no Estado de Goiás, nos termos desta Lei Complementar.~~
@@ -342,19 +346,22 @@ VI – desenvolvimento de políticas setoriais pelos órgãos e pelas entidades 
 
 Art. 29. O NEI-IA, observadas a paridade entre os setores público e não estatal e a representatividade técnica e de gênero, será composto por, no mínimo, um representante, com seu respectivo suplente:
 
-I - da Secretaria de Estado de Ciência, Tecnologia e Inovação - SECTI, que presidirá o núcleo;<br>
+I - da Secretaria de Estado de Ciência, Tecnologia e Inovação - SECTI, que presidirá o núcleo;
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~I – da Secretaria– Geral de Governo, que presidirá o núcleo;~~
 
-II - da Subsecretaria de Tecnologia da Informação - STI, da SECTI;<br>
+II - da Subsecretaria de Tecnologia da Informação - STI, da SECTI;
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~II – da Subsecretaria de Tecnologia da Informação – STI, da SGG;~~
 
 III – do Centro de Excelência em Inteligência Artificial – CEIA– UFG;
 
-IV - da Secretaria-Geral de Governo - SGG;<br>
+IV - da Secretaria-Geral de Governo - SGG;
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~IV – da Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI;~~
@@ -503,7 +510,8 @@ Parágrafo único. O centro instituído tem a missão de democratizar o acesso a
 
 Art. 50. O Centro Estadual de Computação Aberta e Inteligência Artificial será de utilização compartilhada entre o poder público estadual, as IESs, os ICTs, os centros de pesquisa e as entidades representativas do setor produtivo e da sociedade civil.
 
-§ 1º A concepção e a gestão administrativa, patrimonial, operacional e executiva da infraestrutura retratada neste capítulo serão de responsabilidade da SECTI, por meio da STI.<br>
+§ 1º A concepção e a gestão administrativa, patrimonial, operacional e executiva da infraestrutura retratada neste capítulo serão de responsabilidade da SECTI, por meio da STI.
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~§ 1º A concepção e a gestão administrativa, patrimonial, operacional e executiva da infraestrutura retratada neste capítulo serão de responsabilidade da SGG, por meio da STI.~~
@@ -524,7 +532,8 @@ V – estimular a formação e a retenção de talentos locais, além de atrair 
 
 VI – posicionar o Estado de Goiás como referência global na computação aberta e na IA climática positiva.
 
-Art. 52. Para a operacionalização do Centro Estadual de Computação Aberta e Inteligência Artificial, a SECTI poderá:<br>
+Art. 52. Para a operacionalização do Centro Estadual de Computação Aberta e Inteligência Artificial, a SECTI poderá:
+
 \- [Redação dada pela Lei Complementar nº 215, de 10-9-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340).
 
 ~~Art. 52. Para a operacionalização do Centro Estadual de Computação Aberta e Inteligência Artificial, a SGG poderá:~~

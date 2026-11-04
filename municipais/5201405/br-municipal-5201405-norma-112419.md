@@ -1,11 +1,13 @@
-LEI COMPLEMENTAR Nº. 036, DE 07 DE JULHO DE 2011.<br>
+LEI COMPLEMENTAR Nº. 036, DE 07 DE JULHO DE 2011.
+
 Revogada pela Lei Complementar nº 125, de 11 de janeiro de 2017.
 
 ~~Dispõe sobre a organização do Sistema Municipal de Defesa do Consumidor – SMDC e dá outras providências.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:~~
 
-~~Capítulo I<br>
+~~Capítulo I
+
 DISPOSIÇÕES GERAIS~~
 
 ~~Art. 1º - A presente Lei estabelece a organização do Sistema Municipal de Defesa do Consumidor – SMDC, nos termos dos artigos 5º, inciso XXXII e 170, inciso V, da Constituição Federal, do art. 106, da Lei nº 8.078/90, do Decreto nº 2.181, de 20 de março de 1997, do art. 133, da Constituição do Estado de Goiás, da Lei Orgânica do Município de Aparecida de Goiânia e do art. 2º, inciso II, da Lei Municipal n. º 2.555, de 23 de dezembro de 2005.~~
@@ -14,7 +16,8 @@ DISPOSIÇÕES GERAIS~~
 
 ~~Parágrafo Único – Integram o Sistema Municipal de Defesa do Consumidor, os órgãos federais, estaduais e municipais e as entidades privadas que se dedicam à proteção e defesa do consumidor, sediadas no município, observado o disposto no inciso V, alíneas a e b, do art. 5º, da Lei nº 7.347, de 24 de julho de 1985.~~
 
-~~Capítulo II<br>
+~~Capítulo II
+
 DA PRESIDÊNCIA MUNICIPAL DE DEFESA DO CONSUMIDOR~~
 
 ~~Art. 3º - Fica instituída a Presidência Municipal de Defesa do Consumidor – PROCON/ APARECIDA DE GOIÂNIA, destinada a promover e implementar as ações direcionadas à formulação e execução da política do Sistema Municipal de Proteção, Orientação, Defesa e Educação do Consumidor.~~
@@ -51,7 +54,8 @@ DA PRESIDÊNCIA MUNICIPAL DE DEFESA DO CONSUMIDOR~~
 
 ~~XIV – solicitar o concurso de órgãos e entidades de notória especialização técnica para a consecução dos seus objetivos.~~
 
-~~SEÇÃO ÚNICA<br>
+~~SEÇÃO ÚNICA
+
 DA ESTRUTURA~~
 
 ~~Art. 6º - A Estrutura Administrativa básica da Presidência Municipal de Defesa do Consumidor - PROCON/APARECIDA DE GOIÂNIA será a seguinte:~~
@@ -96,7 +100,8 @@ DA ESTRUTURA~~
 
 ~~Art. 10 – O Poder Executivo Municipal dará todo o suporte necessário, no que diz respeito a bens materiais e recursos humanos financeiros para o perfeito funcionamento do órgão.~~
 
-~~Capítulo III<br>
+~~Capítulo III
+
 DO CONSELHO MUNICIPAL DE DEFESA DO CONSUMIDOR – CONDECON~~
 
 ~~Art. 11 – Fica instituído o Conselho Municipal de Defesa do Consumidor – CONDECON, com as seguintes atribuições:~~
@@ -157,7 +162,8 @@ DO CONSELHO MUNICIPAL DE DEFESA DO CONSUMIDOR – CONDECON~~
 
 ~~§ 2º - Ocorrendo falta de quorum mínimo para instalação do plenário, automaticamente será convocada nova reunião, que acontecerá 48 horas após, com qualquer número de participantes.~~
 
-~~Capítulo IV<br>
+~~Capítulo IV
+
 DO FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR~~
 
 ~~Art. 15 – Fica instituído o Fundo Municipal de Defesa do Consumidor-FMDC, com autonomia administrativa, financeira e contábil e de natureza orçamentária, em atendimento ao disposto no art. 57, da Lei Federal nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor – e do Decreto Federal nº 2.181, de 20 de março de 1997, que dispõe sobre a organização do Sistema Nacional de Defesa do Consumidor – SNDC, com objetivo de criar condições financeiras e de gerenciamento dos recursos destinados ao desenvolvimento das ações e serviços de proteção e defesa dos direitos dos consumidores coordenadas ou executadas pela Procuradoria Geral do Município, através da Presidente do Procon/Aparecida de Goiânia.~~
@@ -204,7 +210,8 @@ DO FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR~~
 
 ~~Art. 22 – Os gestores do Fundo deverão observar no tocante a realização das despesas à conta do mesmo o princípio de licitação pública, de acordo com a legislação pertinente.~~
 
-~~Capítulo V<br>
+~~Capítulo V
+
 DISPOSIÇÕES FINAIS~~
 
 ~~Art. 23 – As atribuições das sub-unidades é competência dos dirigentes de que trata esta Lei, serão exercidas na conformidade da legislação pertinente, podendo ser modificadas mediante ato do Poder Executivo Municipal.~~
@@ -243,14 +250,32 @@ DISPOSIÇÕES FINAIS~~
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 07 dias do mês de julho de dois mil e onze.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL~~
 
-~~ELI DE FARIA<br>
+~~ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO~~
 
 ~~ANEXO ÚNICO~~
 
-<table class="MsoTableGrid" style="border-collapse:collapse; border:none"><tbody><tr><td style=" width:607px;    "><s><b>CARGO: PRESIDENTE DO PROCON</b></s></td></tr><tr><td style=" width:607px;    "><s>NATUREZA: COMISSIONADO&nbsp;</s></td></tr><tr><td style=" width:607px;    "><s>CLASSE DE VENCIMENTO: DS-1</s></td></tr><tr><td style=" width:607px;    "><s><b>ATRIBUIÇÕES:</b> &nbsp; - Presidir o órgão municipal de defesa do consumidor, tendo sobre seu comando e vínculo todo o quadro funcional, assim como os agentes secundários de controle das atividade correlacionada. - Implementar atividades, programas e projetos para o desenvolvimento da política de defesa do consumidor, promovendo a gestão global e integrada das ações do PROCON/APARECIDA DE GOIÂNIA, visando o alcance dos objetivos específicos previstos em lei; - Auxiliar no planejamento, orientação, direção e acompanhamento dos serviços; - Planejar, organizar, controlar e assessorar nas áreas de recursos humanos, patrimônio, financeira, fiscalização, entre outras; - Elaborar projetos pertinentes às atividades de defesa do consumidor; - Presidir o Conselho Municipal de Defesa do Consumidor; - Gerir, em conjunto com o Procurador-Geral, o Fundo Municipal de Defesa do Consumidor; - Outras atividades relacionadas.</s></td></tr><tr><td style=" width:607px;    "><s>CONDIÇÕES DE PROVIMENTO: &nbsp; - Ensino Superior Completo; - Conhecimento em Relações Humanas e Direito do Consumidor; - Disponibilidade de tempo integral</s></td></tr></tbody></table>
+~~**CARGO: PRESIDENTE DO PROCON**~~
 
-<table class="MsoTableGrid" style="border-collapse:collapse; border:none"><tbody><tr><td style=" width:607px;    "><s><b>CARGO: ASSESSOR ESPECIAL III</b></s></td></tr><tr><td style=" width:607px;    "><s>NATUREZA: COMISSIONADO&nbsp;</s></td></tr><tr><td style=" width:607px;    "><s>CLASSE DE VENCIMENTO: AED-1</s></td></tr><tr><td style=" width:607px;    "><s><b>ATRIBUIÇÕES:</b> &nbsp; - Dar apoio administrativo, técnico e operacional na execução dos trabalhos e serviços prestados pelo PROCON; - Receber, registrar e encaminhar documentos em geral; - Auxiliar os Coordenadores e o Diretor do PROCON na execução das atividades internas; - Outras atividades relacionadas.</s></td></tr><tr><td style=" width:607px;    "><s>CONDIÇÕES DE PROVIMENTO: - Ensino Médio Completo; - Conhecimentos básicos em Relações Humanas e Direito do Consumidor; - Conhecimentos específicos em serviços auxiliares de administração geral e técnico-operacional; - Disponibilidade de tempo integral.</s></td></tr></tbody></table>
+~~NATUREZA: COMISSIONADO ~~
+
+~~CLASSE DE VENCIMENTO: DS-1~~
+
+~~**ATRIBUIÇÕES:**   - Presidir o órgão municipal de defesa do consumidor, tendo sobre seu comando e vínculo todo o quadro funcional, assim como os agentes secundários de controle das atividade correlacionada. - Implementar atividades, programas e projetos para o desenvolvimento da política de defesa do consumidor, promovendo a gestão global e integrada das ações do PROCON/APARECIDA DE GOIÂNIA, visando o alcance dos objetivos específicos previstos em lei; - Auxiliar no planejamento, orientação, direção e acompanhamento dos serviços; - Planejar, organizar, controlar e assessorar nas áreas de recursos humanos, patrimônio, financeira, fiscalização, entre outras; - Elaborar projetos pertinentes às atividades de defesa do consumidor; - Presidir o Conselho Municipal de Defesa do Consumidor; - Gerir, em conjunto com o Procurador-Geral, o Fundo Municipal de Defesa do Consumidor; - Outras atividades relacionadas.~~
+
+~~CONDIÇÕES DE PROVIMENTO:   - Ensino Superior Completo; - Conhecimento em Relações Humanas e Direito do Consumidor; - Disponibilidade de tempo integral~~
+
+~~**CARGO: ASSESSOR ESPECIAL III**~~
+
+~~NATUREZA: COMISSIONADO ~~
+
+~~CLASSE DE VENCIMENTO: AED-1~~
+
+~~**ATRIBUIÇÕES:**   - Dar apoio administrativo, técnico e operacional na execução dos trabalhos e serviços prestados pelo PROCON; - Receber, registrar e encaminhar documentos em geral; - Auxiliar os Coordenadores e o Diretor do PROCON na execução das atividades internas; - Outras atividades relacionadas.~~
+
+~~CONDIÇÕES DE PROVIMENTO: - Ensino Médio Completo; - Conhecimentos básicos em Relações Humanas e Direito do Consumidor; - Conhecimentos específicos em serviços auxiliares de administração geral e técnico-operacional; - Disponibilidade de tempo integral.~~

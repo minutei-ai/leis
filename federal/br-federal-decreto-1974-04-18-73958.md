@@ -1,5 +1,3 @@
-###DEC-073958-0-000-18-04-1974@@@
-
 DECRETO Nº 73.958, DE 18 DE ABRIL DE 1974.
 
 Autoriza o funcionamento da Faculdade de Artes e Comunicações de Bauru, mantida pela Fundação Educacional de Bauru, com sede na Cidade de Bauru, Estado de São Paulo.

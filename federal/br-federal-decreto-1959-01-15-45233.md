@@ -1,5 +1,3 @@
-###DEC-045233-0-000-15-01-1959@@@
-
 DECRETO Nº 45.233, de 15 DE JANEIRO DE 1959.
 
 Transfere da Prefeitura Municipal de Pompeu para a Companhia Fôrça e Luz de Pompeu S/A a concessão para a produção e fornecimento de energia elétrica ao Município de Pompeu, Estado de Minas Gerais.

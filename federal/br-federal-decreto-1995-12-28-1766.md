@@ -1,7 +1,3 @@
-1
-
-###DEC-001766-0-000-28-12-1995@@@
-
 DECRETO Nº 1.766, DE 28 DE DEZEMBRO DE 1995.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

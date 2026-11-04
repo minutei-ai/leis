@@ -1,5 +1,3 @@
-###DEL-008211-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.211 – DE 23 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 5.000,00 para ocorrer o pagamento de gratificação pela execução de serviço técnico.

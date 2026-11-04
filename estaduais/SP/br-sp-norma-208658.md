@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208658)<br>
-
 # DECRETO N° 68.003, DE 10 DE OUTUBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Gás de São Paulo - COMGÁS, as faixas de terra necessárias à passagem de duto de gás natural, no Município de Itirapina, e dá providências correlatas._

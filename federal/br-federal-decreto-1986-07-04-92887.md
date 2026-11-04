@@ -1,5 +1,3 @@
-###DEC-092887-0-000-04-07-1986@@@
-
 DECRETO Nº 92.887, DE 4 DE JULHO DE 1986
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

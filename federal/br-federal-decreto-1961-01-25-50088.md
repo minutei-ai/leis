@@ -1,5 +1,3 @@
-###DEC-050088-0-000-25-01-1961@@@
-
 DECRETO Nº 50.088, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Dirceu de Marília Limitada para estabelecer uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-044969-0-000-01-12-1958@@@
-
 Decreto nº 44.969, de 1 de dezembro de 1958.
 
 Dispensa a inspeção e o fornecimento do Certificado Fitossanitário para: piaçaba sementes torradas de guaraná, balata, cêra de carnaúba, côco ralado, madeiras e óleos vegetais.

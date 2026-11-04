@@ -32,47 +32,66 @@ JOSÉ ARLINDO SOARES
 
 **ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="465" style="width:348.55pt;margin-left:39.45pt;border:solid windowtext 1.0pt"><tbody><tr><td width="74%" style="width:74.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO</span></p></td><td width="25%" style="width:25.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANT.</span></p></td></tr><tr><td width="74%" style="width:74.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Juiz de Direito de 1ª Entrância</span></p></td><td width="25%" style="width:25.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td></tr></tbody></table>
+CARGO
+
+QUANT.
+
+Juiz de Direito de 1ª Entrância
+
+01
 
 # ANEXO II
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="545" style="width:408.75pt;border:solid windowtext 1.0pt"><tbody><tr><td width="545" style="width:408.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CARGO DE PROVIMENTO EFETIVO</span></p></td></tr></tbody></table>
+CARGO DE PROVIMENTO EFETIVO
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="545" style="width:408.75pt;border:solid windowtext 1.0pt"><tbody><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">REFERÊNCIA</span></p></td><td width="14%" style="width:14.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANT.</span></p></td></tr><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Técnico Judiciário de 1ª Entrância</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJ-III A</span></p></td><td width="14%" style="width:14.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td></tr><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assistente Judiciário de 1ª Entrância</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJ-II A</span></p></td><td width="14%" style="width:14.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td></tr><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Auxiliar Judiciário de 1ª Entrância</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJ-I A</span></p></td><td width="14%" style="width:14.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td></tr><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Oficial de Justiça de 1ª Entrância</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PJ-III A</span></p></td><td width="14%" style="width:14.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">02</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+REFERÊNCIA
+
+QUANT.
+
+Técnico Judiciário de 1ª Entrância
+
+PJ-III A
+
+01
+
+Assistente Judiciário de 1ª Entrância
+
+PJ-II A
+
+01
+
+Auxiliar Judiciário de 1ª Entrância
+
+PJ-I A
+
+01
+
+Oficial de Justiça de 1ª Entrância
+
+PJ-III A
+
+02
 
 # ANEXO III
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="545" style="width:408.75pt;border:solid windowtext 1.0pt"><tbody><tr><td width="545" style="width:408.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><h1><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  font-weight:normal">FUNÇÃO GRATIFICADA</span></h1></td></tr></tbody></table>
+# FUNÇÃO GRATIFICADA
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="545" style="width:408.75pt;border:solid windowtext 1.0pt"><tbody><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLO</span></p></td><td width="14%" style="width:14.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANT.</span></p></td></tr><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Função Gerencial Gratificada</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FGG-1</span></p></td><td width="14%" style="width:14.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td></tr><tr><td width="63%" style="width:63.32%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Função de Apoio Gratificada</span></p></td><td width="22%" style="width:22.0%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAG-3</span></p></td><td width="14%" style="width:14.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">01</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANT.
+
+Função Gerencial Gratificada
+
+FGG-1
+
+01
+
+Função de Apoio Gratificada
+
+FAG-3
+
+01

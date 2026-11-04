@@ -1,7 +1,3 @@
-1
-
-###DEC-097805-0-000-06-06-1989@@@
-
 DECRETO N° 97.805, DE 06 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Medicina Veterinária da Faculdade de Ciências Agrárias de Rondonópolis, Mato Grosso.

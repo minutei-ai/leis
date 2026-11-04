@@ -1,5 +1,3 @@
-###DEC-048411-0-000-23-06-1960@@@
-
 DECRETO Nº 48.411, DE 23 DE JUNHO DE 1960.
 
 Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a ampliar seu sistema elétrico.

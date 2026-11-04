@@ -1,5 +1,3 @@
-###DEC-076497-0-000-22-10-1975@@@
-
 DECRETO nº 76.497, de 22 de Outubro de 1975.
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade Niteroiense de Educação, Letras e Turismo, com sede na Cidade de Niterói, Estado do Rio de Janeiro.

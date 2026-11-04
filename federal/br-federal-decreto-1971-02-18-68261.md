@@ -1,5 +1,3 @@
-###DEC-068261-0-000-18-02-1971@@@
-
 Decreto Nº 68.261, de 18 de fevereiro de 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério da Saúde, e dá outras providências.

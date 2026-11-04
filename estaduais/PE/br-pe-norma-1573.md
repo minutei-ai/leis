@@ -78,34 +78,34 @@ FRANCISCO TADEU BARBOSA DE ALENCAR
 
 (Redação alterada pelo art. 2° da [Lei Complementar n° 318, de 18 de dezembro de 2015](https://legis.alepe.pe.gov.br/?lc3182015).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="615" style="border-collapse:collapse;border:none"><tbody><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO DA FUNÇÃO</span></p></td><td width="194" style="width:145.65pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR DO ADICIONAL DE DESIGNAÇÃO (R$)</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenador Geral</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">3.000,00</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenador de Áreas</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.717,92</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Supervisor</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.202,54</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Segurança de Estabelecimentos Prisionais</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.800,00</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Segurança de Autoridades</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">1.165,73</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Fiscal de Posto</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">981,67</span></p></td></tr><tr><td width="421" style="width:315.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Agente de Segurança Patrimonial, Ajudança Geral de Autoridades e Guarda de Quartéis</span></p></td><td width="194" valign="bottom" style="width:145.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">858,96</span></p></td></tr></tbody></table>
+DENOMINAÇÃO DA FUNÇÃO
+
+VALOR DO ADICIONAL DE DESIGNAÇÃO (R$)
+
+Coordenador Geral
+
+3.000,00
+
+Coordenador de Áreas
+
+1.717,92
+
+Supervisor
+
+1.202,54
+
+Segurança de Estabelecimentos Prisionais
+
+1.800,00
+
+Segurança de Autoridades
+
+1.165,73
+
+Fiscal de Posto
+
+981,67
+
+Agente de Segurança Patrimonial, Ajudança Geral de Autoridades e Guarda de Quartéis
+
+858,96

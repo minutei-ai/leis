@@ -1,5 +1,3 @@
-###DEC-078611-0-000-21-10-1976@@@
-
 DECRETO Nº 78.611, DE 21 DE OUTUBRO DE 1976.
 
 Autoriza o funcionamento do curso de Administração de Dourados, da Faculdade de Administração de Dourados, com sede na cidade de Dourados, Estado de Mato Grosso.

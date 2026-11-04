@@ -1,5 +1,3 @@
-###DEC-051947-A-000-26-04-1963@@@
-
 DECRETO Nº 51.947-A, DE 26 DE ABRIL DE 1963.
 
 Outorga à Prefeitura Municipal de Amaturá concessão para distribuir energia elétrica no município de Amaturá, Estado do Amazonas.

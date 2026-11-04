@@ -1,7 +1,3 @@
-1
-
-###DEC-099764-0-000-04-12-1990@@@
-
 # DECRETO N° 99.764, DE 4 DE DEZEMBRO DE 1990
 
 Abre a Presidência da República, em favor do Conselho Nacional de Desenvolvimento Cientifico e Tecnológico e do Fundo para as Atividades de informática, crédito suplementar de Cr$ 14.600.000,00, para reforço de dotações consignadas no vigente orçamento .

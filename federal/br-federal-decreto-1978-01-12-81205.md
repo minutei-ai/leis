@@ -1,5 +1,3 @@
-###DEC-081205-0-000-12-01-1978@@@
-
 Decreto nº 81.205, de 12 de janeiro de 1978
 
 Concede à Cerâmica Mogi Guaçu S/A o direito de lavrar argila no Município de Casa Branca , Estado de São Paulo.

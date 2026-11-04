@@ -1,5 +1,3 @@
-###DEC-060871-0-000-19-06-1967@@@
-
 Decreto nº 60.871, de 19 de junho de 1967.
 
 Revoga decreto de declaração de utilidade pública para fins de desapropriação de imóveis.

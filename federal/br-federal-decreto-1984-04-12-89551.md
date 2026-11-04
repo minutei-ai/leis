@@ -1,5 +1,3 @@
-###DEC-089551-0-000-12-04-1984@@@
-
 Decreto nº 89.551 de 12 de abril de 1984
 
 Renova por 10 (dez) anos, a concessão outorgada ao SISTEMA CLUBE DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda curta, na Cidade de Ribeirão Preto, Estado de São Paulo.

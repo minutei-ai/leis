@@ -1,5 +1,3 @@
-###MPV-001931-0-002-01-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.931-2, DE 1º DE DEZEMBRO DE 1999.
 
 Institui o Programa de Recuperação Fiscal – REFIS.

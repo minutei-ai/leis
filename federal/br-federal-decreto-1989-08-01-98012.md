@@ -1,7 +1,3 @@
-1
-
-###DEC-098012-0-000-01-08-1989@@@
-
 DECRETO N° 98.012, DE 1° DE AGOSTO DE 1989
 
 Altera o Estatuto da Companhia de Pesquisa de Recursos Minerais - CPRM.

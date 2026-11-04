@@ -1,5 +1,3 @@
-###DEC-057754-0-000-07-02-1966@@@
-
 Decreto nº 57.754, de 7 de fevereiro de 1966.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$166.701.415 (cento e sessenta e seis milhões, setecentos e hum mil, quatrocentos e quinze cruzeiros), para pagamento de dívida do Departamento Nacional da Criança.

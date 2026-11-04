@@ -1,5 +1,3 @@
-###DEC-068468-0-000-05-04-1971@@@
-
 DECRETO Nº 68.468 - DE 5 DE ABRIL DE 1971.
 
 Confisca bens do cidadão Primo Lepre, domiciliado no Município de Rolândia, no Estado do Paraná, e dá outras providências.

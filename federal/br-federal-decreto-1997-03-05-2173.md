@@ -1,5 +1,3 @@
-###DEC-002173-0-000-05-03-1997@@@
-
 # DECRETO Nº 2.173, DE 5 DE MARÇO DE 1997
 
 Aprova o Regulamento da Organização e do Custeio da Seguridade Social.
@@ -448,7 +446,21 @@ Da Contribuição dos Segurados Empregado, Empregado Doméstico e Trabalhador Av
 
 Art. 22\. A contribuição do segurado empregado, inclusive o doméstico, e do trabalhador avulso é calculada mediante a aplicação da correspondente alíquota, de forma não cumulativa, sobre o seu salário-de-contribuição mensal, observado o disposto no art. 37, de acordo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SALÁRIOS-DE-CONTRIBUIÇÃO</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>ALÍQUOTAS</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>até R$ 287, 27</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>8,0%</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>de R$ 287,28 até R$ 478,78</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>9,0%</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>de R$ 478,79 até R$ 957,56</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>11,0%</span></p></td></tr></tbody></table>
+SALÁRIOS-DE-CONTRIBUIÇÃO
+
+ALÍQUOTAS
+
+até R$ 287, 27
+
+8,0%
+
+de R$ 287,28 até R$ 478,78
+
+9,0%
+
+de R$ 478,79 até R$ 957,56
+
+11,0%
 
 § 1º Os  valores do salário-de-contribuição serão reajustados nas mesmas épocas e com os mesmos índices  que os do reajustamento dos benefícios de prestação continuada da previdência social.
 
@@ -888,7 +900,71 @@ Art. 38. O salário-base de que trata o inciso III do art. 37 é determinado de 
 
 # escala de salários-base
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSES</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SALÁRIOS-BASE</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Nº MÍNIMO DE MESES DE PERMANÊNCIA EM CADA CLASSE (INTERSTÍCIOS)</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 112,00</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 191,51</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 287,27</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>24</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 383,02</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>24</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 478,78</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>36</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 574,54</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>48</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 670,29</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>48</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 766,05</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>60</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 861,80</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>60</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>R$ 957,56</span></p></td><td style="width:139.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td></tr></tbody></table>
+CLASSES
+
+SALÁRIOS-BASE
+
+Nº MÍNIMO DE MESES DE PERMANÊNCIA EM CADA CLASSE (INTERSTÍCIOS)
+
+1
+
+R$ 112,00
+
+12
+
+2
+
+R$ 191,51
+
+12
+
+3
+
+R$ 287,27
+
+24
+
+4
+
+R$ 383,02
+
+24
+
+5
+
+R$ 478,78
+
+36
+
+6
+
+R$ 574,54
+
+48
+
+7
+
+R$ 670,29
+
+48
+
+8
+
+R$ 766,05
+
+60
+
+9
+
+R$ 861,80
+
+60
+
+10
+
+R$ 957,56
+
+-
 
 § 1º Os valores dos salário-base serão reajustados nas mesmas datas e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da previdência social.
 
@@ -3728,8 +3804,6 @@ Q ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS
 
 99.00-7 ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITORIAIS                                                                                                    
 
-###DEC-002173-0-000-05-03-1997@@@RET01+++
-
 DECRETO Nº 2.173, DE 5 DE MARÇO DE 1997
 
 Aprova o Regulamento da Organização e do Custeio da Seguridade Social.
@@ -3755,8 +3829,6 @@ na página 4247,
 onde se lê: “95.00-1 SERVIÇOS DOMÉSTICOS“
 
 leia-se: “95.00-1 SERVIÇOS DOMÉSTICOS                                                                 “
-
-###DEC-002173-0-000-05-03-1997@@@RET02+++
 
 DECRETO Nº 2.173, DE 5 DE MARÇO DE 1997(\*)
 

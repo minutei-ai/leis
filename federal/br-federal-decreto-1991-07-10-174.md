@@ -1,5 +1,3 @@
-###DEC-000174-0-000-10-07-1991@@@
-
 DECRETO Nº 174, DE 10 DE JULHO DE 1991
 
 Regulamenta a tributação compensatória para a importação de produtos de origem agrícola, prevista no art. 2º da Lei nº 8.174, de 30 de janeiro de 1991.

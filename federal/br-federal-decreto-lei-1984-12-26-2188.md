@@ -1,5 +1,3 @@
-###DEL-002188-0-000-26-12-1984@@@
-
 # Decreto-lei nº 2.188, de 26 de dezembro de 1984.
 
 Institui a Gratificação de Incentivo à Atividade Médico - Veterinária no Ministério da Agricultura e dá outras providências.
@@ -63,8 +61,6 @@ JOÃO FIGUEIREDO
 Nestor Jost
 
 Delfim Netto
-
-###DEL-002188-0-000-26-12-1984@@@RET01+++
 
 # DECRETO-Lei nº 2.188, DE 26 DE DEZEMBRO DE 1984.
 

@@ -1,5 +1,3 @@
-###DEC-094202-0-000-10-04-1987@@@
-
 DECRETO Nº 94.202, DE 10 DE ABRIL DE 1987
 
 Altera a redação do § 1º do artigo 7º do Decreto nº 77.336, de 25 de março de 1976, que reestrutura o Grupo-Direção e Assessoramento Superiores de que trata a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

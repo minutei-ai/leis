@@ -1,5 +1,3 @@
-###DEC-053636-0-000-28-02-1964@@@
-
 DECRETO Nº 53.636, DE 28 DE FEVEREIRO DE 1964.
 
 Cria funções na antiga Tabela Única de Extranumerários-mensalistas do Ministério da Educação e Cultura, em cumprimento de decisão judicial passada em julgado e dá outras providências.

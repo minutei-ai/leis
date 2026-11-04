@@ -1,5 +1,3 @@
-###DEC-058109-0-000-30-03-1966@@@
-
 DECRETO Nº 58.209, DE 30 DE MARÇO DE 1966.
 
 Autoriza Cimento Portland Branco do Brasil S.A. a pesquisar caulim e argila no município de Magé, Estado do Rio de Janeiro.

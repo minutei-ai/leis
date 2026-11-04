@@ -1,5 +1,3 @@
-###DEL-001539-0-000-14-04-1977@@@
-
 # DECRETO-LEI Nº 1.539, DE 14 DE ABRIL DE 1977
 
 Altera a Lei Complementar nº 15, de 13 de agosto de 1973, que regula a composição e o funcionamento do colégio que elegerá o Presidente da República.

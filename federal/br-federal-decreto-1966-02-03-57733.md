@@ -1,5 +1,3 @@
-###DEC-057733-0-000-03-02-1966@@@
-
 DECRETO Nº 57.733, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza estrangeiro adquirir, em transferência e regularização de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-059697-0-000-08-12-1966@@@
-
 decreto nº 59.697, de 8 de dezembro de 1966.
 
 Revoga o Decreto nº 48.925, de 8 de julho de 1960.

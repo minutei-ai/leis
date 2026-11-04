@@ -1,5 +1,3 @@
-###DEL-003027-0-000-06-02-1941@@@
-
 DECRETO-LEI N. 3.027 – DE 6 DE FEVEREIRO DE 1941
 
 Dispõe sobre bens vagos

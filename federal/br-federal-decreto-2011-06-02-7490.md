@@ -1,5 +1,3 @@
-###DEC-007490-0-000-02-06-2011-PUB-01@@@
-
 DECRETO Nº 7.490, DE 2 DE JUNHO DE 2011
 
 Altera o Anexo II do Decreto nº 6.101, de 26 de abril de 2007, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções gratificadas do Ministério do Meio Ambiente.

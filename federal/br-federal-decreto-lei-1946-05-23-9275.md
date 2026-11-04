@@ -1,5 +1,3 @@
-###DEL-009275-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.275 – DE 23 DE MAIO DE 1946
 
 Dispõe sôbre designação de funcionários para assistir o superintendente do Frigorífico Barbacena S.A., e dá outras providências.

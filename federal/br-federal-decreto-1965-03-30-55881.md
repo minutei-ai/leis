@@ -1,5 +1,3 @@
-###DEC-055881-0-000-30-03-1965@@@
-
 DECRETO Nº 55.881, de 30 de março de 1965
 
 Dá nova redação à alínea d) inciso II, do art. 1º do Decreto número 54.466, de 14 de outubro de 1964
@@ -23,8 +21,6 @@ Paulo Bosisio
 Arthur da Costa e Silva
 
 Eduardo Gomes
-
-###DEC-055881-0-000-30-03-1965@@@RET01+++
 
 DECRETO Nº 55.881, DE 30 DE MARÇO DE 1965.
 

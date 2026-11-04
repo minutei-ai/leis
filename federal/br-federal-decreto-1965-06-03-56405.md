@@ -1,5 +1,3 @@
-###DEC-056405-0-000-03-06-1965@@@
-
 DECRETO Nº 56.405, DE 3 DE JUNHO DE 1965.
 
 Concede à Manoel Francisco Pereira & Cia. Ltda. autorização para funcionar como empresa de mineração.

@@ -16,5 +16,6 @@ Art. 3º Ficam revogados o §2º do art. 1º e o parágrafo único do art. 2º d
 
 Gabinete do Prefeito de Aparecida de Goiânia, 26 de novembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito

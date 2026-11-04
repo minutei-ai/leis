@@ -1,5 +1,3 @@
-###DEC-050259-0-000-28-01-1961@@@
-
 DECRETO Nº 50.259 DE 28 DE JANEIRO DE 1961.
 
 Torna sem efeito o Decreto nº 46.910, de 26 de setembro de 1959.

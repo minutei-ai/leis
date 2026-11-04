@@ -1,5 +1,3 @@
-###DEC-083717-0-000-11-07-1979@@@
-
 Decreto nº 83.717, de 11 de julho de 1979.
 
 Autoriza o Sindicado Nacional das Empresas de Navegação Marítima a filiar-se à "The International Shipping Federation Limited".

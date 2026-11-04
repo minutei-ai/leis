@@ -1,6 +1,6 @@
 > **LEI Nº 4.310, DE 04 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece requisitos para a avaliação e aprovação físico-funcional de projetos arquitetônicos de atividades de interesse da saúde.</span></span></span></p></td></tr></tbody></table>
+Estabelece requisitos para a avaliação e aprovação físico-funcional de projetos arquitetônicos de atividades de interesse da saúde.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -50,10 +50,128 @@ Governador do Estado do Acre
 
 Dispensa da apresentação e análise de projeto arquitetônico junto à Vigilância Sanitária do Estado e dos municípios para as seguintes atividades:
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>NÚMERO&nbsp;</span></strong></span></p></td><td valign="top"><p><span><strong><span>CLASSIFICAÇÃO NACIONAL DE ATIVIDADES ECONÔMICAS - CNAE</span></strong></span></p><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>47.72.5.00</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.717.01</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS, SEM MANIPULAÇÃO DE FÓRMULAS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.717.03</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS HOMEOPÁTICOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.717.04&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE MEDICAMENTOS VETERINÁRIOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>77.330.00&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE ARTIGOS MÉDICOS E ORTOPÉDICOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>33.12-1-03 -</span></span></p></td><td valign="top"><p><span><span>MANUTENÇÃO E REPARAÇÃO DE APARELHOS ELETROMÉDICOS E ELETROTERAPÊUTICOS E EQUIPAMENTOS DE IRRADIAÇÃO.</span></span></p></td></tr><tr><td valign="top"><p><span><span>33.14-7-10 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE</span></span></p></td></tr><tr><td valign="top"><p><span><span>46.49-4-01 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE EQUIPAMENTOS ELÉTRICOS DE USO PESSOAL E DOMÉSTICO.</span></span></p></td></tr><tr><td valign="top"><p><span><span>46.45-1-01 -</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.89-0-99 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.89-0-05 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.73-3-00 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE ARTIGOS MÉDICOS E ORTOPÉDICOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.54-7-01&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE MÓVEIS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.29-6-99 -</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE.</span></span></p></td></tr><tr><td valign="top"><p><span><span>4645-1/01</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>46.46-0-01 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE COSMÉTICOS E PRODUTOS DE PERFUMARIA.</span></span></p></td></tr><tr><td valign="top"><p><span><span>46.49-4-02 -&nbsp;</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE APARELHOS ELETRÔNICOS DE USO PESSOAL E DOMÉSTICO.</span></span></p></td></tr><tr><td valign="top"><p><span><span>4721-1/04</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE DOCES, BALAS, BOMBONS E SEMELHANTES.</span></span></p></td></tr><tr><td valign="top"><p><span><span>47.890.05</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>53.20-2-02</span></span></p></td><td valign="top"><p><span><span>SERVIÇOS DE ENTREGA RÁPIDA.</span></span></p></td></tr><tr><td valign="top"><p><span><span>4645-1/01</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS <strong>(SEM ARMAZENAMENTO).</strong></span></span></p></td></tr><tr><td valign="top"><p><span><span>4644-3/01</span></span></p></td><td valign="top"><p><span><span>DISTRIBUIDORA DE MEDICAMENTOS DE USO HUMANO; COMÉRCIO ATACADISTA DE <strong>(SEM ARMAZENAMENTO).</strong></span></span></p></td></tr></tbody></table>
+**NÚMERO **
+
+**CLASSIFICAÇÃO NACIONAL DE ATIVIDADES ECONÔMICAS - CNAE**
+
+47.72.5.00
+
+COMÉRCIO VAREJISTA DE COSMÉTICOS, PRODUTOS DE PERFUMARIA E DE HIGIENE PESSOAL.
+
+47.717.01
+
+COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS, SEM MANIPULAÇÃO DE FÓRMULAS.
+
+47.717.03
+
+COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS HOMEOPÁTICOS.
+
+47.717.04
+
+COMÉRCIO VAREJISTA DE MEDICAMENTOS VETERINÁRIOS.
+
+77.330.00
+
+COMÉRCIO VAREJISTA DE ARTIGOS MÉDICOS E ORTOPÉDICOS.
+
+33.12-1-03 -
+
+MANUTENÇÃO E REPARAÇÃO DE APARELHOS ELETROMÉDICOS E ELETROTERAPÊUTICOS E EQUIPAMENTOS DE IRRADIAÇÃO.
+
+33.14-7-10 -
+
+MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE
+
+46.49-4-01 -
+
+COMÉRCIO ATACADISTA DE EQUIPAMENTOS ELÉTRICOS DE USO PESSOAL E DOMÉSTICO.
+
+46.45-1-01 -
+
+COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS.
+
+47.89-0-99 -
+
+COMÉRCIO VAREJISTA DE OUTROS PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE.
+
+47.89-0-05 -
+
+COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS.
+
+47.73-3-00 -
+
+COMÉRCIO VAREJISTA DE ARTIGOS MÉDICOS E ORTOPÉDICOS.
+
+47.54-7-01
+
+COMÉRCIO VAREJISTA DE MÓVEIS.
+
+47.29-6-99 -
+
+COMÉRCIO VAREJISTA DE PRODUTOS ALIMENTÍCIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTÍCIOS NÃO ESPECIFICADOS ANTERIORMENTE.
+
+4645-1/01
+
+COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS.
+
+46.46-0-01 -
+
+COMÉRCIO ATACADISTA DE COSMÉTICOS E PRODUTOS DE PERFUMARIA.
+
+46.49-4-02 -
+
+COMÉRCIO ATACADISTA DE APARELHOS ELETRÔNICOS DE USO PESSOAL E DOMÉSTICO.
+
+4721-1/04
+
+COMÉRCIO VAREJISTA DE DOCES, BALAS, BOMBONS E SEMELHANTES.
+
+47.890.05
+
+COMÉRCIO VAREJISTA DE PRODUTOS SANEANTES DOMISSANITÁRIOS.
+
+53.20-2-02
+
+SERVIÇOS DE ENTREGA RÁPIDA.
+
+4645-1/01
+
+COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS **(SEM ARMAZENAMENTO).**
+
+4644-3/01
+
+DISTRIBUIDORA DE MEDICAMENTOS DE USO HUMANO; COMÉRCIO ATACADISTA DE **(SEM ARMAZENAMENTO).**
 
 **ANEXO II**
 
 Atividades que exigem a apresentação e análise de projeto arquitetônico junto à Vigilância Sanitária competente, restritas ao ambiente destinado aos serviços de saúde:
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>NÚMERO&nbsp;</span></strong></span></p></td><td valign="top"><p><span><strong><span>CLASSIFICAÇÃO NACIONAL DE ATIVIDADES ECONÔMICAS - CNAE</span></strong></span></p><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>47.717.02</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS, COM</span></span></p><p><span><span>MANIPULAÇÃO DE FÓRMULAS.</span></span></p><p><span><span>&nbsp;</span></span></p></td></tr><tr><td valign="top"><p><span><span>86.305.06</span></span></p></td><td valign="top"><p><span><span>SERVIÇOS DE VACINAÇÃO E IMUNIZAÇÃO HUMANA.</span></span></p></td></tr><tr><td valign="top"><p><span><span>8650-0/99&nbsp;</span></span></p></td><td valign="top"><p><span><span>FARMACÊUTICOS CLÍNICOS; SERVIÇOS PRESTADOS POR / CONSULTÓRIOS FARMACÊUTICOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>86.40-2/02</span></span></p></td><td valign="top"><p><span><span>LABORATÓRIOS CLÍNICOS.</span></span></p></td></tr><tr><td valign="top"><p><span><span>4645-1/01</span></span></p></td><td valign="top"><p><span><span>COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS <strong>(COM ARMAZENAMENTO).</strong></span></span></p></td></tr><tr><td valign="top"><p><span><span>4644-3/01</span></span></p></td><td valign="top"><p><span><span>DISTRIBUIDORA DE MEDICAMENTOS DE USO HUMANO; COMÉRCIO ATACADISTA DE <strong>(COM ARMAZENAMENTO).</strong></span></span></p></td></tr></tbody></table>
+**NÚMERO **
+
+**CLASSIFICAÇÃO NACIONAL DE ATIVIDADES ECONÔMICAS - CNAE**
+
+47.717.02
+
+COMÉRCIO VAREJISTA DE PRODUTOS FARMACÊUTICOS, COM
+
+MANIPULAÇÃO DE FÓRMULAS.
+
+86.305.06
+
+SERVIÇOS DE VACINAÇÃO E IMUNIZAÇÃO HUMANA.
+
+8650-0/99
+
+FARMACÊUTICOS CLÍNICOS; SERVIÇOS PRESTADOS POR / CONSULTÓRIOS FARMACÊUTICOS.
+
+86.40-2/02
+
+LABORATÓRIOS CLÍNICOS.
+
+4645-1/01
+
+COMÉRCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS PARA USO MÉDICO, CIRÚRGICO, HOSPITALAR E DE LABORATÓRIOS **(COM ARMAZENAMENTO).**
+
+4644-3/01
+
+DISTRIBUIDORA DE MEDICAMENTOS DE USO HUMANO; COMÉRCIO ATACADISTA DE **(COM ARMAZENAMENTO).**

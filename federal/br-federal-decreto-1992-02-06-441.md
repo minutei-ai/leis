@@ -1,7 +1,3 @@
-1
-
-###DEC-000441-0-000-06-02-1992@@@
-
 DECRETO Nº 441, DE 06 DE FEVEREIRO DE 1992
 
 Promulga o Acordo sobre Prevenção, Controle, Fiscalização e Repressão ao Uso Indevido e ao Tráfico Ilícito de Entorpecentes e de Substâncias Psicotrópicas, entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai.

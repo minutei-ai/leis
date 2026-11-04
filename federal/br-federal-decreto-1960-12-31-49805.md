@@ -1,5 +1,3 @@
-###DEC-049805-0-000-31-12-1960@@@
-
 decreto nº 49.805, de 31 de dezembro de 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

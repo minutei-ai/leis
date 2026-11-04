@@ -1,5 +1,3 @@
-###DEC-088663-0-000-31-08-1983@@@
-
 DECRETO Nº 88.663, DE 31 DE AGOSTO DE 1983.
 
 Concede à Companhia Nacional de Álcalis-CNA, autorização para proceder a aumento de seu Capital Autorizado, bem como do Capital Social.

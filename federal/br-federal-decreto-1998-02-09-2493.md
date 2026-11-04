@@ -1,5 +1,3 @@
-###DEC-002493-0-000-09-02-1998@@@
-
 DECRETO Nº 2.493, DE 9 DE FEVEREIRO DE 1998
 
 Altera a codificação de fonte, de recursos em dotações aprovadas na Lei Orçamentária de 1998, no que concerne à Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF.

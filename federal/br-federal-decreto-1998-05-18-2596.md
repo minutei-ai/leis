@@ -1,5 +1,3 @@
-###DEC-002596-0-000-18-05-1998@@@
-
 DECRETO Nº 2.596, DE 18 DE MAIO DE 1998
 
 Regulamenta a Lei nº 9.537, de 11 de dezembro de 1997, que dispõe sobre a segurança do tráfego aquaviário em águas sob jurisdição nacional.

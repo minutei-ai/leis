@@ -1,5 +1,3 @@
-###DEC-086769-0-000-22-12-1981@@@
-
 DECRETO Nº 86.769, de 22 de dezembro de 1981
 
 Autoriza o aumento de Capital da Rede Ferroviária Federal S/A - RFFSA.

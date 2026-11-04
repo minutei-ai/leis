@@ -1,5 +1,3 @@
-###DEC-091845-0-000-29-10-1985@@@
-
 Decreto nº 91.845, de 29 de outubro de 1985
 
 Autoriza o funcionamento dos cursos de Letras, Estudos Sociais e Ciências, ministrados em Almenara e Jequitinhonha, pela Pontifícia Universidade Católica de Minas Gerais.

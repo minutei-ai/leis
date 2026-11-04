@@ -1,5 +1,3 @@
-###DEC-072072-0-000-10-04-1973@@@
-
 DECRETO Nº 72.072, DE 20 DE ABRIL DE 1973.
 
 Autoriza o funcionamento do curso de Filosofia da Escola Superior de Ciências e Pedagogia, mantida pela Fundação Educacional do Sul de Santa Catarina.

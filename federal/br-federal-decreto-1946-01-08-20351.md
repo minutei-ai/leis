@@ -1,30 +1,28 @@
-###DEC-020351-0-000-08-01-1946@@@
+**DECRETO Nº 20.351, DE 8 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.351, DE 8 DE JANEIRO DE 1946.</strong>
+***Aprova o Regimento do Departamento Nacional de Estrada de Ferro do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Estrada de Ferro do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Estradas de Ferro (D.N.E.F), que, assinado pelo Ministro de Estado da Viação e Obras Públicas, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Estradas de Ferro (D.N.E.F), que, assinado pelo Ministro de Estado da Viação e Obras Públicas, com êste baixa.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor a partir de 1 de janeiro de 1946, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor a partir de 1 de janeiro de 1946, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
-<strong>REGIMENTO DO DEPARTAMENTO DE ESTRADAS DE FERRO</strong>
+**REGIMENTO DO DEPARTAMENTO DE ESTRADAS DE FERRO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Departamento Nacional de Estradas de Ferro (D.N.E.F) órgão integrante do Ministério da Viação e Obras Públicas, diretamente subordinado ao Ministro de Estado, tem por finalidade:
+**Art**. 1º O Departamento Nacional de Estradas de Ferro (D.N.E.F) órgão integrante do Ministério da Viação e Obras Públicas, diretamente subordinado ao Ministro de Estado, tem por finalidade:
 
 I – zelar pela execução do programa referente à viação férrea compreendido no Plano Geral de Viação Nacional;
 
@@ -36,11 +34,11 @@ IV – superintender a administração das estradas de ferro a cargo de União;
 
 V – realizar, permanentemente, por si ou empreitando o trabalho, a construção de ferrovias e as obras necessárias àquelas sob sua superintendência;
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º. O.D.N.E.F compõe-se de:
+**Art**. 2º. O.D.N.E.F compõe-se de:
 
 Divisão de Estudos (D.E)
 
@@ -50,23 +48,23 @@ Divisão de Planos e Obras (D.P.O)
 
 Divisão de Administração (D.A.)
 
-<strong>Art</strong>. 3º O D.N.E.F será dirigido por um Diretor Geral e cada Divisão por um Diretor.
+**Art**. 3º O D.N.E.F será dirigido por um Diretor Geral e cada Divisão por um Diretor.
 
 Parágrafo único. O Diretor Geral e os Diretores de Divisão terão secretários designados na forma dêste Regimento.
 
-<strong>Art</strong>. 4º As Seções, a Biblioteca, a Portaria e os Distritos Fiscais terão chefes designados na forma dêste Regimento.
+**Art**. 4º As Seções, a Biblioteca, a Portaria e os Distritos Fiscais terão chefes designados na forma dêste Regimento.
 
-<strong>Art</strong>. 5º Os órgãos do D.N.E.F. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor Geral.
+**Art**. 5º Os órgãos do D.N.E.F. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA</em>  <em>ORGANIZAÇÃO E COMPETÊNCIA DAS DIVISÕES</em>
+*DA*  *ORGANIZAÇÃO E COMPETÊNCIA DAS DIVISÕES*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da D.E.</em>
+*Da D.E.*
 
-<strong>Art</strong>. 6º. À D.E, compete:
+**Art**. 6º. À D.E, compete:
 
 I – superintender, coordenar e orientar os trabalhos das Seções que integram a Divisão;
 
@@ -82,7 +80,7 @@ VI – examinar e propor providências gerais, que se relacionem com a maior efi
 
 VII – promover a publicação da estatística ferroviária.
 
-<strong>Art</strong>. 7º A D.E. compõe-se de:
+**Art**. 7º A D.E. compõe-se de:
 
 Seção de Estudos Técnicos (S.E.T);
 
@@ -90,7 +88,7 @@ Seção de Estudos Econômicas (S.E.E.);
 
 Seção de Estatística (S.Est.)
 
-<strong>Art</strong>. 8º À S.E.T compete:
+**Art**. 8º À S.E.T compete:
 
 I – estudar e sugerir medidas referentes ao aperfeiçoamento técnico do equipamento fixo e móvel das estradas de ferro, tendo em vista o tráfego de cada ferrovia;
 
@@ -102,7 +100,7 @@ IV – estudar e sugerir especificações, para a aquisição de materiais e ins
 
 V – estudar e propor medidas relativas à seleção, formação e aperfeiçoamento do pessoal das estradas de ferro a cargo da União.
 
-<strong>Art</strong>. 9º. À S.E.E. compete:
+**Art**. 9º. À S.E.E. compete:
 
 I – estudar e sugerir medidas relativas à coordenação dos transportes ferroviários;
 
@@ -118,7 +116,7 @@ VI – estudar todos os assuntos pertinentes à economia dos transportes ferrovi
 
 VII – opinar sôbre tarifas ferroviárias e rodoviárias em coordenação.
 
-<strong>Art</strong>. 10. À S.Est. compete:
+**Art**. 10. À S.Est. compete:
 
 I – organizar a estatística ferroviária do país caracterizando devidamente as unidades de tráfego e seu custo e orientar a sua publicação;
 
@@ -126,11 +124,11 @@ II – reunir dados estatísticos de outras repartições oficiais, que se torne
 
 III – cooperar com o Instituto Brasileiro de Geografia e Estatísticas em assuntos atinentes às ferrovias.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da D.C.I.</em>
+*Da D.C.I.*
 
-<strong>Art</strong>. 11. À D.C.I compete:
+**Art**. 11. À D.C.I compete:
 
 I - superintender, coordenar e orientar os trabalhos das seções que integram a Divisão;
 
@@ -156,7 +154,7 @@ XI – exercer todos os atos necessários à eficiente fiscalização dos servi�
 
 XII – manter em dia o histórico das estradas de ferro.
 
-<strong>Art</strong>. 12. A D.C.I compõe-se de:
+**Art**. 12. A D.C.I compõe-se de:
 
 Seção de Contrôle Técnico (S.C.T)
 
@@ -166,7 +164,7 @@ Seção de Contrôle Financeiro (S.C.F)
 
 Sete Distritos Federais (Dt.F)
 
-<strong>Art</strong>. 13. À S.C.T compete:
+**Art**. 13. À S.C.T compete:
 
 I – opinar sôbre assuntos relacionados com a Polícia, Segurança e Tráfego das estradas de ferro, abrangendo serviços próprios e coordenados e examinar os inquéritos sôbre acidentes;
 
@@ -182,7 +180,7 @@ VI – estabelecer normas para recebimento das obras, aquisições melhoramentos
 
 VII – estudar e propor as providências atinentes ao contrôle técnico das ferrovias em tráfego.
 
-<strong>Art</strong>. 14. À S.C.E  compete:
+**Art**. 14. À S.C.E  compete:
 
 I – estudar as zonas de influência das estradas de ferro em tráfego e o seu potencial econômico;
 
@@ -198,7 +196,7 @@ VI – zelar pelos interêsses do erário público ligados direta ou indiretamen
 
 VII – estudar e propôr as medidas necessárias ao contrôle industrial das ferrovias em tráfego.
 
-<strong>Art</strong>. 15. À. S.C.F compete:
+**Art**. 15. À. S.C.F compete:
 
 I – estudar as tomadas de contas das estradas de ferro e opinar sôbre os seus resultados;
 
@@ -212,7 +210,7 @@ V – fazer a crítica dos resultados financeiros das vias férreas;
 
 VI – estudar e propôr as providências aconselháveis em cada caso, para contrôle financeiro das ferrovias;
 
-<strong>Art</strong>. 16. Aos Dt.F compete:
+**Art**. 16. Aos Dt.F compete:
 
 I – fiscalizar diretamente as ferrovias em tráfego sob o ponto de vista da Polícia, Segurança e Tráfego e da responsabilidade civil;
 
@@ -236,11 +234,11 @@ X – organizar o histórico de cada estrada de ferro fiscalizada ou controlada,
 
 Parágrafo único. A sede e jurisdição dos Distritos Fiscais serão estabelecidas em portaria do Ministro da Viação e Obras Públicas mediante proposta do Diretor Geral do D.N.E.F.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da D.P.O</em>
+*Da D.P.O*
 
-<strong>Art</strong>. 17. À D.P.O compete:
+**Art**. 17. À D.P.O compete:
 
 I – superintender, coordenar e orientar os trabalhos das seções que integram a Divisão;
 
@@ -254,7 +252,7 @@ V – promover a concessão de ajustes ou tarefas para execução dos serviços 
 
 VI – promover tôdas as medidas necessárias ao planejamento, à execução e ao contrôle financeiro das obras a cargo do D.N.E.F.
 
-<strong>Art</strong>. 18. A D.P.O.  compõe-se de:
+**Art**. 18. A D.P.O.  compõe-se de:
 
 Seção de Planos (S.P.I)
 
@@ -262,7 +260,7 @@ Seção de Obras (S.Ob)
 
 Seção de Cadastro (S.Cd).
 
-<strong>Art</strong>. 19. À S.Pl. compete:
+**Art**. 19. À S.Pl. compete:
 
 I – preparar instruções gerais, padrões e especificações para o estudo, a construção e a remodelação de traçado das ferrovias a cargo do D.N.E.F.;
 
@@ -272,7 +270,7 @@ III – superintender, orientar e fiscalizar os estudos ferroviários, elaborar 
 
 IV – examinar os projetos e orçamentos submetidos à apreciação da Divisão e emitir parecer sôbre os mesmos.
 
-<strong>Art</strong>. 20. À S. Ob. compete:
+**Art**. 20. À S. Ob. compete:
 
 I – superintender, orientar e fiscalizar as construções de vias férreas a cargo do Departamento;
 
@@ -282,7 +280,7 @@ III – prover de pessoal e material, equipar devidamente as comissões de const
 
 IV – examinar as propostas para execução, por empreitada ou tarefa dos serviços ferroviários a cargo da Departamento e dar pareceres sôbre elas.
 
-<strong>Art</strong>. 2º. À C. Cd. compete:
+**Art**. 2º. À C. Cd. compete:
 
 I – organizar instruções para o levantamento cadastral e patrimonial das estradas de ferro e coligir os subsídios necessários à elaboração dêsse levantamento na Seção;
 
@@ -296,15 +294,15 @@ V – organizar o histórico das construções ferroviários, mantendo completo 
 
 VI – examinar os processos sôbre desapropriações e organizar instruções para a elaboração dos mesmos.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da D.A</em>
+*Da D.A*
 
-<strong>Art</strong>. 22. À D. A compete promover as medidas necessárias à administração de pessoal, material, orçamento, comunicações, biblioteca e portaria do D.N.E.F.
+**Art**. 22. À D. A compete promover as medidas necessárias à administração de pessoal, material, orçamento, comunicações, biblioteca e portaria do D.N.E.F.
 
 Parágrafo único. A D.A deverá funcionar perfeitamente articulada com o Departamento de Administração (D.A) do Ministério da Viação e Obras Públicas, observando as normas e métodos de trabalho prescrito pelo mesmo.
 
-<strong>Art</strong>. 23. A D.A. compõe-se de:
+**Art**. 23. A D.A. compõe-se de:
 
 Seção do Pessoal (S.P)
 
@@ -318,7 +316,7 @@ Biblioteca (B)
 
 Portaria (P).
 
-<strong>Art</strong>. 24. Á S.P. compete:
+**Art**. 24. Á S.P. compete:
 
 I – encaminhar à Divisão do Pessoal (D. P.) do D. A. do Ministério da Viação devidamente instruídos, os processos referentes aos servidores em exercício no D.N.E.F.;
 
@@ -332,7 +330,7 @@ V – fornecer à S. O. os elementos necessários ao preparo da proposta orçame
 
 VI – admitir o pessoal para obras.
 
-<strong>Art</strong>. 25. À S. M. compete:
+**Art**. 25. À S. M. compete:
 
 I – fazer as estimativas de consumo e encaminhar ao órgão competente, nas épocas estabelecidas, as requisições do material a ser adquirido para abastecer o D. N. E. F.;
 
@@ -354,7 +352,7 @@ IX – providenciar sôbre o desembaraço alfandegário dos materiais do D. N. E
 
 X – manter atualizado o ementário da legislação e das instruções e atos referentes ao material.
 
-<strong>Art</strong>. 26. À S. O. compete:
+**Art**. 26. À S. O. compete:
 
 I – manter em dia a escrituração sintética de créditos orçamentários e adicionais referentes a material concedidos ao D. N. E. F.;
 
@@ -368,13 +366,13 @@ V – colaborar com a Divisão do Orçamento (D. C.) do D. A. do Ministério na 
 
 VI – remeter à D. O. do D. A. do Ministério a demonstração documentada das despesas realizadas pelo D. N. E. F.
 
-<strong>Art</strong>. 27. À S. C. compete:
+**Art**. 27. À S. C. compete:
 
 I – receber, registrar, distribuir, expedir e guardar a correspondência oficial e papéis relativos às atividades do D. N. E. F. controlando o respectivo andamento;
 
 II – atender ao público em seus pedidos de informações sôbre o andamento e despacho de papéis, bem como orientá-lo no modo de apresentar suas solicitações, sugestões ou reclamações;
 
-III – promover a publicação, no <em>Diário Oficial</em> dos atos e decisões relativos às atividades do D. N. E. F.;
+III – promover a publicação, no *Diário Oficial* dos atos e decisões relativos às atividades do D. N. E. F.;
 
 IV – atender às requisições de processos documentos sob sua guarda, quando assinadas por chefes de serviço;
 
@@ -382,7 +380,7 @@ V – passar certidões, quando autorizadas pelo Diretor Geral do D. N. E. F.;
 
 VI – promover a incineração periódica de papéis julgados sem valor, mediante prévia autorização da comissão expressamente designada para êsse fim.
 
-<strong>Art</strong>. 28. À Biblioteca compete:
+**Art**. 28. À Biblioteca compete:
 
 I – organizar e manter coleções de publicações nacionais e estrangeiras, sôbre assuntos relacionados com as atividades do Departamento;
 
@@ -402,7 +400,7 @@ VIII – organizar e distribuir listas bibliográficas sôbre assuntos de intere
 
 Parágrafo único. A Biblioteca do Serviço de Documentação do Ministério orientará tecnicamente a organização da Biblioteca.
 
-<strong>Art</strong>. 29. À Portaria compete:
+**Art**. 29. À Portaria compete:
 
 I – manter, em lugar conveniente, um servidor incumbido de prestar quaisquer informações solicitadas pelo público sôbre a localização e funcionamento dos órgãos do D. N. E. F.;
 
@@ -410,11 +408,11 @@ II – executar ou fiscalizar os trabalhos de limpeza da sede do D. N. E. F.;
 
 III – exercer vigilância permanente nos lugares de entrada e saída, especialmente nos setores de maior contacto com o público.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 30. Ao Diretor Geral compete:
+**Art**. 30. Ao Diretor Geral compete:
 
 I – orientar e coordenar as atividades do D.N.E.F.
 
@@ -480,7 +478,7 @@ XXXI – inspecionar, periòdicamente, as construções das ferrovias empreendid
 
 XXXII – aprovar as tabelas de preços organizados pela D. P. O.
 
-<strong>Art</strong>. 31. Aos Diretores de Divisão compete:
+**Art**. 31. Aos Diretores de Divisão compete:
 
 I – dirigir, coordenar e fiscalizar as atividades da respectiva Divisão;
 
@@ -520,7 +518,7 @@ XVIII – designar e dispensar o respectivo secretário e determinar-lhe o perí
 
 XIX – submeter, anualmente, ao Diretor Geral o plano de trabalho da Divisão respectiva.
 
-<strong>Art</strong>. 32. Aos Chefes de Dt. F. compete:
+**Art**. 32. Aos Chefes de Dt. F. compete:
 
 I – dirigir, coordenar e fiscalizar os trabalhos a seu cargo ;
 
@@ -538,7 +536,7 @@ VII – apresentar, anualmente, Diretor da D. C. I., o relatório das atividades
 
 VIII – proceder, de acôrdo com as instruções em vigor, às tomadas de contas e exame da escrituração das emprêsas, remetendo-as, para os devidos fins, à D. C. I.
 
-<strong>Art</strong>. 33. Aos Chefes de Seção e Biblioteca, compete:
+**Art**. 33. Aos Chefes de Seção e Biblioteca, compete:
 
 I – dirigir e fiscalizar os trabalhos do respetivo setor;
 
@@ -562,7 +560,7 @@ X – elogiar e aplicar as penas de advertência e repreensão aos seus subordin
 
 XI – velar pela disciplina e manutenção do silêncio nos recintos de trabalho.
 
-<strong>Art</strong>. 34. Ao Chefe da Portaria compete:
+**Art**. 34. Ao Chefe da Portaria compete:
 
 I – dirigir e fiscalizar os trabalhos e cargo da Portaria;
 
@@ -580,7 +578,7 @@ VII – expedir boletins de merecimento dos funcionários que lhe forem diretame
 
 VIII – organizar a escala de plantão dos servidores da Portaria sujeitos a êsse regime.
 
-<strong>Art</strong>. 35. Aos Secretários do Diretor Geral e dos Diretores de Divisão, compete:
+**Art**. 35. Aos Secretários do Diretor Geral e dos Diretores de Divisão, compete:
 
 I – atender às pessoas que desejarem comunicar-se com o Diretor Geral, ou o Diretor da Divisão, encaminhando-as ou dando a êste conhecimento do assunto a tratar ;
 
@@ -588,31 +586,31 @@ II – representar o Diretor Geral, ou o Diretor da Divisão, quando para isto f
 
 III – redigir a correspondência pessoal do Diretor Geral ou do Diretor da Divisão.
 
-<strong>Art</strong>. 36. Aos servidores, sem funções especificadas neste Regimento, compete executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 36. Aos servidores, sem funções especificadas neste Regimento, compete executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>.  37\. O D. N. E. F. terá a lotação que fôr aprovada de acôrdo com a legislação vigente.
+**Art**.  37\. O D. N. E. F. terá a lotação que fôr aprovada de acôrdo com a legislação vigente.
 
 Parágrafo único. Além do pessoal constante da lotação, o D. N. E. F. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 38. O horário normal de trabalho será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 38. O horário normal de trabalho será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 39. A freqüência do pessoal em trabalho fora da sede será verificada por boletins diários de produção, controlados pelo superior imediato.
+**Art**. 39. A freqüência do pessoal em trabalho fora da sede será verificada por boletins diários de produção, controlados pelo superior imediato.
 
-<strong>Art</strong>. 40. O Diretor Geral e os Diretores de Divisão não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 40. O Diretor Geral e os Diretores de Divisão não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 41. Serão substituídos, automàticamente, em suas faltas ou impedimentos ocasionais, até 30 dias;
+**Art**. 41. Serão substituídos, automàticamente, em suas faltas ou impedimentos ocasionais, até 30 dias;
 
 I – O Diretor-Geral, por Diretor de Divisão de sua indicação, designado pelo Ministro de Estado da Viação de Obras Públicas;
 
@@ -626,4 +624,4 @@ Parágrafo único. Haverá, sempre servidores prèviamente designados para as su
 
 Rio de Janeiro, 8 de Janeiro de 1946.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**

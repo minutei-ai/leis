@@ -1,5 +1,3 @@
-###DEC-063997-0-000-16-01-1969@@@
-
 decreto nº 63.997, de 16 de janeiro de 1969.
 
 Altera a redação do Decreto 4.857, de 9 de novembro de 1939.

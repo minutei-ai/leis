@@ -1,5 +1,3 @@
-###DEC-077388-0-000-06-04-1976@@@
-
 DECRETO Nº 77.388 - DE 6 DE ABRIL DE 1976
 
 Dispõe sobre o Fundo Especial da Superintendência de Campanhas de Saúde Pública - SUCAM, e dá outras providências.

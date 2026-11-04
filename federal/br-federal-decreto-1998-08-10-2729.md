@@ -1,5 +1,3 @@
-###DEC-002729-0-000-10-08-1998@@@
-
 DECRETO Nº 2.729, DE 10 DE AGOSTO DE 1998
 
 Dispõe sobre a atualização cadastral dos aposentados e pensionista da Administração Pública Federal direta, autárquica e fundacional do Poder Executivo da União.

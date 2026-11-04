@@ -1,5 +1,3 @@
-###DEL-003093-0-000-05-03-1941@@@
-
 DECRETO-LEI N. 3.093 – DE 5 DE MARÇO DE 1941
 
 Dispõe sobre a entrega à Comissão de Metalurgia, de material metálico resultante da demolição de prédios pertencentes à União

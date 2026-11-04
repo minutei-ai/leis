@@ -1,5 +1,3 @@
-###DEL-003824-0-000-13-11-1941@@@
-
 DECRETO-LEI N. 3.824 – DE 13 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de 360$0 para pagamento de gratificação adicional

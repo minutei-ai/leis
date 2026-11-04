@@ -1,5 +1,3 @@
-###DEC-064565-0-000-22-05-1969@@@
-
 DECRETO Nº 64.565, DE 22 DE MAIO DE 1969.
 
 Autoriza a alienação da metade ideal dos bens que integram a Usina Piloto, situada em Sertania, Estado de Pernambuco.

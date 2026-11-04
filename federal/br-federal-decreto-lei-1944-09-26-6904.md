@@ -1,5 +1,3 @@
-###DEL-006904-0-000-26-09-1944@@@
-
 DECRETO-LEI N. 6.904 – DE 26 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 3.150.000,00 para despesas com a participação do Brasil na Unrra

@@ -1,5 +1,3 @@
-###DEC-048422-0-000-24-06-1960@@@
-
 decreto nº 48.422, de 24 de junho de 1960.
 
 Concede autorização para o funcionamento de cursos.

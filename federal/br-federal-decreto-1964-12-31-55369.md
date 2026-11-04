@@ -1,5 +1,3 @@
-###DEC-055369-0-000-31-12-1964@@@
-
 DECRETO Nº 55.369, de 31 de dezembro de 1964.
 
 Aprova alteração introduzida nos Estatutos da Atlântica Companhia Nacional de Seguros, relativa ao aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 31 de dezembro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Daniel Faraco
-
-###DEC-055369-0-000-31-12-1964@@@RET01+++
 
 DECRETO Nº 55.369, de 31 de dezembro de 1964.
 

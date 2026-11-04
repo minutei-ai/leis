@@ -32,8 +32,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 1º de fevereiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -44,7 +42,40 @@ ANEXO ÚNICO
 
 MERCADORIAS SUJEITAS À ANTECIPAÇÃO DO ICMS SEM ENCERRAMENTO DA TRIBUTAÇÃO
 
-<table border="1" width="80%"><tbody><tr><td align="center" width="19%">CÓDIGO DA NBM/SH</td><td align="center" width="72%">MERCADORIA</td><td align="center" width="8%">IVA</td></tr><tr><td align="center" width="19%">.........</td><td align="center" width="72%">.................</td><td align="center" width="8%">.......</td></tr><tr><td align="center" width="19%">1101.00</td><td width="72%">FARINHAS DE TRIGO OU DE MISTURA DE TRIGO COM CENTEIO<p>a) acondicionada em embalagem cujo conteúdo seja até 5,0 kg (cinco quilogramas)</p><p>b) acondicionada em embalagem cujo conteúdo seja até superior a 5,0 kg (cinco quilogramas)</p></td><td align="center" width="8%"><p><br>70%</p><p>150%</p></td></tr><tr><td align="center" width="19%">1901.20.00</td><td width="72%">MISTURA E PASTAS PARA A PREPARAÇÃO DE PRODUTOS DE PADARIA, PASTELARIA E DA INDÚSTRIA DE BOLACHAS E BISCOITOS, DA POSIÇÃO 19.05<p>a) acondicionada em embalagem cujo conteúdo seja até 5,0 kg (cinco quilogramas)<br>b) acondicionada em embalagem cujo conteúdo seja até superior a 5,0 kg (cinco quilogramas)</p></td><td align="center" width="8%"><p>&nbsp;</p><p>70%</p><p>150%</p></td></tr></tbody></table>
+CÓDIGO DA NBM/SH
+
+MERCADORIA
+
+IVA
+
+.........
+
+.................
+
+.......
+
+1101.00
+
+FARINHAS DE TRIGO OU DE MISTURA DE TRIGO COM CENTEIO
+
+a) acondicionada em embalagem cujo conteúdo seja até 5,0 kg (cinco quilogramas)
+
+b) acondicionada em embalagem cujo conteúdo seja até superior a 5,0 kg (cinco quilogramas)
+
+70%
+
+150%
+
+1901.20.00
+
+MISTURA E PASTAS PARA A PREPARAÇÃO DE PRODUTOS DE PADARIA, PASTELARIA E DA INDÚSTRIA DE BOLACHAS E BISCOITOS, DA POSIÇÃO 19.05
+
+a) acondicionada em embalagem cujo conteúdo seja até 5,0 kg (cinco quilogramas)
+b) acondicionada em embalagem cujo conteúdo seja até superior a 5,0 kg (cinco quilogramas)
+
+70%
+
+150%
 
 “(NR)
 

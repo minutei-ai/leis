@@ -1,5 +1,3 @@
-###DEC-066333-0-000-18-03-1970@@@
-
 DECRETO Nº 66.333 - DE 18 DE MARÇO DE 1970
 
 Concede à Fosfato Pernambucano S.A. - Fospersa o direito de lavrar fosfato, no município de Igarassu, Estado de Pernambuco.

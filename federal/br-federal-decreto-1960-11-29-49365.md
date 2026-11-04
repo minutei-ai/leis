@@ -1,5 +1,3 @@
-###DEC-049365-0-000-29-11-1960@@@
-
 DECRETO Nº 49.365, dE 29 DE NOVEMBRO DE 1960.
 
 Autoriza pessoa jurídica estrangeira a adquirir o domínio útil do terreno de acrescidos de marinha que menciona, no Estado da Guanabara.

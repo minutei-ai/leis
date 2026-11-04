@@ -1,5 +1,3 @@
-###DEC-061569-0-000-19-10-1967@@@
-
 DECRETO Nº 61.569, DE 19 DE OUTUBRO DE 1967.
 
 Autoriza a Light - Serviços de Eletricidade S.A. a construir linha de transmissão.

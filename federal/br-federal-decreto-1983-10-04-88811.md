@@ -1,5 +1,3 @@
-###DEC-088811-0-000-04-10-1983@@@
-
 DECRETO Nº 88.811, DE 04 DE OUTUBRO DE 1983.
 
 Declara de interesse social, para fins de desapropriação, os imóveis  rurais denominados "Posse dos Pires" e "Posse do Inocêncio", situados no Município de Seberi, Estado do Rio Grande do Sul, compreendidos na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 88.810, de 04 de outubro de 1983.

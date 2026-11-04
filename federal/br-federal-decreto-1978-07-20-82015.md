@@ -1,5 +1,3 @@
-###DEC-082015-0-000-20-07-1978@@@
-
 DECRETO Nº 82.015, DE 20 DE JULHO DE 1978.
 
 Concede à Cianita Serra das Araras Ltda. O direito de lavrar minério de manganês no Município de Itapaci, Estado de Goiás.

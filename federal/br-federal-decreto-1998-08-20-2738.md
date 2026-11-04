@@ -1,5 +1,3 @@
-###DEC-002738-0-000-20-08-1998@@@
-
 DECRETO Nº 2.738, DE 20 DE AGOSTO DE 1998
 
 Promulga a Emenda aos Artigos 6 e 22 do Acordo Operacional da Organização Internacional de Telecomunicações por Satélite - INTELSAT, aprovada pelo XXV Encontro dos Signatários, em Cingapura, em 4 de abril de 1995.

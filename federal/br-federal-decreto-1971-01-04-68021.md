@@ -1,5 +1,3 @@
-###DEC-068021-0-000-04-01-1971@@@
-
 DECRETO Nº 68.021, DE 4 DE JANEIRO DE 1971.
 
 Declara de utilidade pública o Hospital de Caridade Santa Terezinha, com sede em Gramado, Estado do Rio Grande do Sul.

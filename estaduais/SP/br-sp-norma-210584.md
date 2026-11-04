@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210584)<br>
-
 # LEI N° 18.081, DE 06 DE FEVEREIRO DE 2025
 
 ## (Projeto de lei n° 640/2023, do Deputado Ricardo Madalena - PL)

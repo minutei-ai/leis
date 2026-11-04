@@ -1,5 +1,3 @@
-###DEC-073928-0-000-10-04-1974@@@
-
 DECRETO Nº 73.928, DE 10 DE ABRIL DE 1974.
 
 Concede à REFIM - Refinação de Minérios Ltda. O direito de lavrar dolomita no Município de Três Rios, Estado do Rio de Janeiro.

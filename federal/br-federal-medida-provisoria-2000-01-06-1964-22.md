@@ -1,5 +1,3 @@
-###MPV-001964-0-022-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.964-22, DE 6 DE JANEIRO DE 2000.
 
 Altera as Leis nºs 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

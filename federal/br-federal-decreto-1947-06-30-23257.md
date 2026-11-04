@@ -1,24 +1,22 @@
-###DEC-023257-0-000-30-06-1947@@@
+**decreto nº 23.257, de 30 de julho DE 1947.**
 
-<strong>decreto nº 23.257, de 30 de julho DE 1947.</strong>
+***Altera a lotação numérica de repartições do Ministério da Educação e Saúde.***
 
-<em><strong>Altera a lotação numérica de repartições do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I da Constituição,
+**decreta:**
 
-<strong>decreta:</strong>
+**Art**. 1º Os cargos isolados e de carriera de Técnico da Educação passam a figurar na lotação com o total de 95, sendo 90 na lotação permanente e 5 na lotação suplementar das seguintes repartições e órgãos.
 
-<strong>Art</strong>. 1º Os cargos isolados e de carriera de Técnico da Educação passam a figurar na lotação com o total de 95, sendo 90 na lotação permanente e 5 na lotação suplementar das seguintes repartições e órgãos.
+**Art**. 2º Os claros da lotação suplementar de técnico de educação poderão ser preenchidos enquento existirem nos Quadros Permanente e Suplementar funcionários em número suficiente.
 
-<strong>Art</strong>. 2º Os claros da lotação suplementar de técnico de educação poderão ser preenchidos enquento existirem nos Quadros Permanente e Suplementar funcionários em número suficiente.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30e junho de 1947, 126º da Independência e 59º da República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Clemente Mariani
 

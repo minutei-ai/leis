@@ -1,5 +1,3 @@
-###DEC-077288-0-000-11-03-1976@@@
-
 DECRETO Nº 77.288, DE 11 DE MARÇO DE 1976
 
 Concede autorização à empresa Walker- Huthnance Drilling Company para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

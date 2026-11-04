@@ -1,5 +1,3 @@
-###DEC-046698-A-000-20-08-1959@@@
-
 DECRETO Nº 46.698-a, DE 20 DE AGÔSTO DE 1959.
 
 Exclui das restrições do Decreto número 45.363, de 29-1-59, as antecipações de recursos que menciona.

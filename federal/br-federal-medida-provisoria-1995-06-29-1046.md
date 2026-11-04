@@ -1,7 +1,3 @@
-1
-
-###MPV-001046-0-000-29-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.046, DE 29 DE JUNHO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

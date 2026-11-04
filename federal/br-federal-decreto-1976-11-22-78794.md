@@ -1,5 +1,3 @@
-###DEC-078794-0-000-22-11-1976@@@
-
 DECRETO Nº 78.794, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à Companhia de Cimento Portland Barroso o direito de lavrar calcário no Município de Barroso, Estado de Minas Gerais.

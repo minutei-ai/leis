@@ -18,8 +18,10 @@ Aparecida de Goiânia, 30 de abril de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
-TALES DE CASTRO<br>
+TALES DE CASTRO
+
 Vereador

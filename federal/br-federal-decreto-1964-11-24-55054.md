@@ -1,5 +1,3 @@
-###DEC-055054-0-000-24-11-1964@@@
-
 DECRETO Nº 55.054, DE 24 DE NOVEMBRO DE 1964.
 
 Concede à Sociedade Sul-Brasileira de Mineração Ltda. autorização para funcionar como emprêsa de mineração.

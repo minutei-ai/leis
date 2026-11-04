@@ -1,5 +1,3 @@
-###DEL-009369-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.369 – DE 17 DE JUNHO DE 1946
 
 Autoriza a Academia Brasileira de Letras a hipotecar o domínio útil de terrenos de acréscido de marinha que menciona, e dá outras providências.

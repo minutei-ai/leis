@@ -1,5 +1,3 @@
-###DEC-092380-0-000-06-02-1986@@@
-
 DECRETO Nº 92.380, DE 06 DE FEVEREIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - área de terra abrangida pela bacia hidráulica e faixa seca e áreas de terra de empréstimo do Açude Público "PATU", no Município de Senador Pompeu, Estado do Ceará.

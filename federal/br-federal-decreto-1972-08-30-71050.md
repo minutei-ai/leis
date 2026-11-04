@@ -1,5 +1,3 @@
-###DEC-071050-0-000-30-08-1972@@@
-
 DECRETO Nº 71.050, DE 30 DE AGOSTO DE 1972.
 
 Concede permissão, em caráter permanente, à empresa SONAVE S. A. Comércio e Indústria, para funcionar nos domingos e dias feriados civis e religiosos.

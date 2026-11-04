@@ -1,5 +1,3 @@
-###DEL-006324-0-000-08-03-1944@@@
-
 DECRETO-LEI N. 6.324 – DE 8 DE MARÇO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 60.721.197,40, para pagamento de contas de transportes efetuados pelo Lloyd Brasileiro – Patrimônio Nacional.

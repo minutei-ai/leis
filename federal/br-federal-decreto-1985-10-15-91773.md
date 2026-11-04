@@ -1,5 +1,3 @@
-###DEC-091773-0-000-15-10-1985@@@
-
 DeCRETO nº 91.773, de 15 de outubro de 1985
 
 Cria Comissão Especial para promover análise da situação do cooperativismo no Brasil, e dá outras providências.

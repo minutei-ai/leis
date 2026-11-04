@@ -1,5 +1,3 @@
-###DEC-065408-0-000-13-10-1969@@@
-
 DECRETO Nº 65.408 - DE 13 DE OUTUBRO DE 1969.
 
 Revoga o Decreto nº 63.379, de 9 de outubro de 1968.

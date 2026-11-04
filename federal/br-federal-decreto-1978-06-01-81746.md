@@ -1,5 +1,3 @@
-###DEC-081746-0-000-01-06-1978@@@
-
 Decreto nº 81.746, de 1º de junho de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

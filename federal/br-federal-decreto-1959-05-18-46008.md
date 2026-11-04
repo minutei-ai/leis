@@ -1,5 +1,3 @@
-###DEC-046008-0-000-18-05-1959@@@
-
 DECRETO Nº 46.008, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Geraldo Lacerda de oliveira a pesquisar diamantes, nos municípios de Diamantina e Bocaiúva, Estado de Minas Gerais.

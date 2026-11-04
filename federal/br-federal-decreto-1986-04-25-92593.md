@@ -1,5 +1,3 @@
-###DEC-092593-0-000-25-04-1986@@@
-
 DECRETO Nº 92.593, DE 25 DE ABRIL DE 1986
 
 Institui a Comissão do Centenário de Manuel Bandeira, e dá outras providências.

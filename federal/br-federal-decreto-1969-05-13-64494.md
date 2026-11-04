@@ -1,5 +1,3 @@
-###DEC-064494-0-000-13-05-1969@@@
-
 DECRETO Nº 64.494, DE 13 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área situada no município de Horizonte, Estado do Ceará, necessária à construção da estrada de acesso à estação repetidora de microondas de Nacional de Telecomunicações, Horizonte; integrante do Sistema.

@@ -1,5 +1,3 @@
-###DEL-007727-0-000-11-07-1945@@@
-
 DECRETO-LEI N. 7.727 – DE 11 DE JULHO DE 1945
 
 Altera denominação de especialidade na Tabela nº 17 do Decreto-lei nº 4.162, de 9 da março de 1942:

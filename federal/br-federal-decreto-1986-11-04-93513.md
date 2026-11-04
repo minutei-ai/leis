@@ -1,5 +1,3 @@
-###DEC-093513-0-000-04-11-1986@@@
-
 DECRETO Nº 93.513, DE 4 DE NOVEMBRO DE 1986
 
 Autoriza o funcionamento de habilitação do curso de Ciências, do Instituto Superior de Ciências, Artes e Humanidades de Lavras.

@@ -43,7 +43,3 @@ Carlos Alberto Pavan Alvim
 Renata Maria Paes de Vilhena
 
 Marco Antônio Rebelo Romanelli
-
-\======================
-
-Data da última atualização: 2/3/2020.

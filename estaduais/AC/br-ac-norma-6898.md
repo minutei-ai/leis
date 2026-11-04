@@ -1,6 +1,10 @@
 > **LEI Nº 4.838, DE 09 DE SETEMBRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a aquisição de bem imóvel pelo Instituto de Previdência do Estado do Acre - ACREPREVIDÊNCIA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a aquisição de bem imóvel pelo Instituto de Previdência do Estado do Acre - ACREPREVIDÊNCIA.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

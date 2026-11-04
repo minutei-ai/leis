@@ -1,5 +1,3 @@
-###DEC-059014-0-000-05-08-1966@@@
-
 DECRETO Nº 59.014, de 5 de AGôSTO DE 1966.
 
 Autoriza o Ministro da Fazenda a contratar operações de crédito e assinar Acôrdos de Pagamento com o Govêrno dos Estados Unidos da América.

@@ -38,6 +38,6 @@ Art. 7º. Esta Lei entra em vigor na data de sua publicação, revogadas as disp
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 21 de dezembro de 2020.
 
-<br>
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

@@ -1,5 +1,3 @@
-###DEL-002170-0-000-05-11-1984@@@
-
 # Decreto-Lei nº 2.170, de 05 de novembro de 1984
 
 Dispõe sobre a aplicação da correção monetária aos valores recebidos a maior pelas distribuidoras de combustíveis, relativos a ressarcimentos de fretes.

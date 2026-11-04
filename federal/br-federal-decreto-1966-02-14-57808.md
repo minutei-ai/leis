@@ -1,5 +1,3 @@
-###DEC-057808-0-000-14-02-1966@@@
-
 DECRETO Nº 57.808, DE 14 DE FEVEREIRO DE 1966.
 
 Concede à Emprêsa de Navegação Vieira S. A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem sob a nova denominação de Companhia de Navegação e Comércio Talgemar.

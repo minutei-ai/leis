@@ -1,7 +1,3 @@
-1
-
-###DEC-099058-0-000-07-03-1990@@@
-
 DECRETO N° 99.058, DE 7 DE MARÇO DE 1990.
 
 Declara monumento nacional o Cemité­rio do Batalhão, no Município de Campo Maior, Estado do Piauí.

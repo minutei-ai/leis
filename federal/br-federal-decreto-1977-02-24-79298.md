@@ -1,5 +1,3 @@
-###DEC-079298-0-000-24-02-1977@@@
-
 Decreto nº 79.298, de 24 de fevereiro de 1977.
 
 Altera o Decreto nº 68.908, de 13 de julho de 1971, e dá outra providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097908-0-000-05-07-1989@@@
-
 DECRETO Nº 97.908, DE 5 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Manhuaçu, em Manhuaçu, Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209281)<br>
-
 # DECRETO N° 68.436, DE 09 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 473+200m da Rodovia SP-284, no Município de Paraguaçu Paulista, e dá providências correlatas._

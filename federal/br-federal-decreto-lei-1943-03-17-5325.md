@@ -1,5 +1,3 @@
-###DEL-005325-0-000-17-03-1943@@@
-
 DECRETO‑LEI N. 5.325 – DE 17 DE MARÇO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 2.124, de 11 de abril de 1940, e dá outras providências

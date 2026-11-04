@@ -1,5 +1,3 @@
-###DEC-090696-0-000-12-12-1984@@@
-
 Decreto nº 90.696, de 12 de dezembro de 1984
 
 Altera a redação do artigo 1º do Decreto nº 76.685, de 27 de novembro de 1975, que criou a Comissão de Desportos da Marinha.

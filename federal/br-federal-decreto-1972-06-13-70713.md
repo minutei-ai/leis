@@ -1,5 +1,3 @@
-###DEC-070713-0-000-13-06-1972@@@
-
 DECRETO Nº 70.713, DE 13 DE JUNHO DE 1972.
 
 Autoriza o funcionamento do Instituto de Ciências Sociais, com sede em Americana, SP.

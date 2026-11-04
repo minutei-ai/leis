@@ -1,5 +1,3 @@
-###DEC-048406-0-000-23-06-1960@@@
-
 DECRETO Nº 48.406, DE 23 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Juanino Japequino a lavrar quartzito e xisto grafitoso, no município de Ferraz de Vasconcelos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051096-0-000-01-08-1961@@@
-
 DECRETO Nº 51.096, DE 1º DE AGÔSTO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Goiás as águas do rio Taguarassu.

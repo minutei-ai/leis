@@ -8,65 +8,299 @@ Art. 1º - O efetivo dos diversos Quadros e Classes da Polícia Militar para o e
 
 1\. - QUADRO DE OFICIAIS DE SEGURANÇA
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.15pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Coronéis</span></p></td><td style="width: 134.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>10</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Tenentes Coronéis</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>26</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Majores</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>42</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Capitães</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>107</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Primeiros Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>85</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Segundos Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>99</span></p></td></tr></tbody></table>
+Coronéis
+
+10
+
+Tenentes Coronéis
+
+26
+
+Majores
+
+42
+
+Capitães
+
+107
+
+Primeiros Tenentes
+
+85
+
+Segundos Tenentes
+
+99
 
 2\. - QUADRO DE OFICIAIS DE ADMINISTRAÇÃO
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.15pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Capitães</span></p></td><td style="width: 134.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Primeiros Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>10</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Segundos Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>46</span></p></td></tr></tbody></table>
+Capitães
+
+7
+
+Primeiros Tenentes
+
+10
+
+Segundos Tenentes
+
+46
 
 3\. QUADRO DE OFICIAIS ESPECIALISTAS
 
 a) Médicos:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.15pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Coronel</span></p></td><td style="width: 134.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Tenentes Coronéis</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Majores</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236">&nbsp;</td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Primeiros Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>10</span></p></td></tr></tbody></table>
+Coronel
+
+1
+
+Tenentes Coronéis
+
+3
+
+Majores
+
+4
+
+9
+
+Primeiros Tenentes
+
+10
 
 c) Farmacêutico:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.15pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Capitão</span></p></td><td style="width: 134.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>1</span></p></td></tr></tbody></table>
+Capitão
+
+1
 
 4\. QUADRO DE OFICIAIS TÉCNICOS
 
 a) Radiotelegrafistas:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.15pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Capitão</span></p></td><td style="width: 134.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Primeiros Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>SegundosTenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>3</span></p></td></tr></tbody></table>
+Capitão
+
+1
+
+Primeiros Tenentes
+
+2
+
+SegundosTenentes
+
+3
 
 b) Músicos:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 177.15pt; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Capitão</span></p></td><td style="width: 134.7pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Primeiros Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 177.15pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="236"><p class="Tabela-Texto"><span>Segundos Tenentes</span></p></td><td style="width: 134.7pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="180"><p class="Tabela-Texto"><span>4</span></p></td></tr></tbody></table>
+Capitão
+
+1
+
+Primeiros Tenentes
+
+2
+
+Segundos Tenentes
+
+4
 
 c) Identificadores-Dactiloscopistas:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Capitão</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Primeiros Tenentes</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Segundos Tenentes</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3</span></p></td></tr></tbody></table>
+Capitão
+
+1
+
+Primeiros Tenentes
+
+1
+
+Segundos Tenentes
+
+3
 
 5\. SERVIÇO RELIGIOSO
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Capitães (mediante contrato)</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2</span></p></td></tr></tbody></table>
+Capitães (mediante contrato)
+
+2
 
 6\. QUADRO DE PRAÇAS ESPECIAIS
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>a) Aspirantes a Oficial</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>31</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>b) Alunos do CFOS 3º Ano</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>29</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>c) Alunos do CFOS 2º Ano</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>57</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>d) Alunos do CFOS 1º Ano</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>60</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>e) Alunos do CPA 2º Ano</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>30</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>f) Alunos do CPA 1º Ano</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>30</span></p></td></tr></tbody></table>
+a) Aspirantes a Oficial
+
+31
+
+b) Alunos do CFOS 3º Ano
+
+29
+
+c) Alunos do CFOS 2º Ano
+
+57
+
+d) Alunos do CFOS 1º Ano
+
+60
+
+e) Alunos do CPA 2º Ano
+
+30
+
+f) Alunos do CPA 1º Ano
+
+30
 
 7\. PRAÇAS DE SEGURANÇA
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Subtenentes</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>55</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Primeiros Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>80</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Segundos Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>200</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Terceiros Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>350</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Cabos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>660</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Soldados PM 1ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>660</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Soldados PM 2ª Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>5284</span></p></td></tr></tbody></table>
+Subtenentes
+
+55
+
+Primeiros Sargentos
+
+80
+
+Segundos Sargentos
+
+200
+
+Terceiros Sargentos
+
+350
+
+Cabos
+
+660
+
+Soldados PM 1ª Classe
+
+660
+
+Soldados PM 2ª Classe
+
+5284
 
 8\. QUADRO DE PRAÇAS ESPECIALISTAS
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Subtenentes</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>14</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Primeiros Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>63</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Segundos Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>96</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Terceiros Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>140</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Cabos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>250</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Soldados de 1ªClasse</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>20</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Soldados de 1ªClasse Provisório</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>100</span></p></td></tr></tbody></table>
+Subtenentes
+
+14
+
+Primeiros Sargentos
+
+63
+
+Segundos Sargentos
+
+96
+
+Terceiros Sargentos
+
+140
+
+Cabos
+
+250
+
+Soldados de 1ªClasse
+
+20
+
+Soldados de 1ªClasse Provisório
+
+100
 
 9\. QUADRO DE PRAÇAS ARTÍFICES
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Subtenentes</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Primeiros Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Segundos Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>20</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Terceiros Sargentos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>24</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Cabos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>40</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Soldados de 1ªClasse</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>25</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Soldados de 1ªClasse Provisório</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>20</span></p></td></tr></tbody></table>
+Subtenentes
+
+8
+
+Primeiros Sargentos
+
+9
+
+Segundos Sargentos
+
+20
+
+Terceiros Sargentos
+
+24
+
+Cabos
+
+40
+
+Soldados de 1ªClasse
+
+25
+
+Soldados de 1ªClasse Provisório
+
+20
 
 10\. PESSOAL CIVIL
 
 a) Justiça Militar:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Auditor</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Substituto de Auditor</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Promotor</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Advogado</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Escrivão</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Oficial de Justiça</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Escrevente</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr></tbody></table>
+Auditor
+
+1
+
+Substituto de Auditor
+
+1
+
+Promotor
+
+1
+
+Advogado
+
+1
+
+Escrivão
+
+1
+
+Oficial de Justiça
+
+1
+
+Escrevente
+
+1
 
 b) Diversos:
 
-<table style="width: 311.85pt; margin-left: 49.65pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="416" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 3.15in; border: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Cirurgiões-Dentistas NU</span></p></td><td style="width: 85.05pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Médicos NU - 23</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Enfermeiro Nível 18 - A</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Nutricionistas Nível 18 - A</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Artífices</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Escriturários</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>25</span></p></td></tr><tr><td style="width: 3.15in; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="302"><p class="Tabela-Texto"><span>Auxiliar de Portaria</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>5</span></p></td></tr></tbody></table>
+Cirurgiões-Dentistas NU
+
+2
+
+Médicos NU - 23
+
+2
+
+Enfermeiro Nível 18 - A
+
+1
+
+Nutricionistas Nível 18 - A
+
+2
+
+Artífices
+
+9
+
+Escriturários
+
+25
+
+Auxiliar de Portaria
+
+5
 
 Art. 2º - cargo de Comandante Geral da Polícia Militar será de provimento em comissão (1 - C) nos termos da legislação federal e estadual em vigor, não estando computado no efetivo constante do artigo 1º desta lei.
 

@@ -1,5 +1,3 @@
-###DEC-091031-0-000-05-03-1985@@@
-
 DECRETO Nº 91.031, DE 05 DE MARÇO DE 1985
 
 Autoriza a funcionamento dos cursos de Administração do Instituto Hoyler e da Faculdade Anhembi Morumbi, em São Paulo.

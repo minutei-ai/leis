@@ -1,5 +1,3 @@
-###DEL-000046-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 46, DE 18 DE NOVEMBRO DE 1966
 
 Concede incentivos fiscais às indústrias que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210022)<br>
-
 # LEI N° 18.047, DE 23 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 192/2024, do Deputado Ricardo Madalena – PL)

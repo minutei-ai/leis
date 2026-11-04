@@ -1,5 +1,3 @@
-###DEC-087529-0-000-30-08-1982@@@
-
 Decreto nº 87.529, de 30 de agosto 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Itaquera, da LIGHT - serviços de Eletricidade S.A., no Estado de São Paulo.

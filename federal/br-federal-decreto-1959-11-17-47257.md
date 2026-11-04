@@ -1,5 +1,3 @@
-###DEC-047257-0-000-17-11-1959@@@
-
 decreto nº 47.257, de 17 de novembro de 1959.
 
 Concede ao Banco Holandês União S.A., prorrogação do prazo de autorização para funcionar e aprova a reforma de seus estatutos sociais.

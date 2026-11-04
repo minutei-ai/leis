@@ -1,5 +1,3 @@
-###DEL-005316-0-000-11-03-1943@@@
-
 DECRETO‑LEI N. 5.316 – DE 11 DE MARÇO DE 1943
 
 Transfere gratuitamente à Academia Brasileira de Letras a domicílio útil do terreno acrescido de marinha e a construção no mesmo existente, situados na avenida Presidente, Wilson n. 203, na Capital Federal, para sede da mesma Academia, e dá outras providências

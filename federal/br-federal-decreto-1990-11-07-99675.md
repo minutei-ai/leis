@@ -1,7 +1,3 @@
-1
-
-###DEC-099675-0-000-07-11-1990@@@
-
 DECRETO N° 99.675, DE 7 DE NOVEMBRO DE 1990
 
 Institui o Comitê Nacional da Qualidade e Produtividade.

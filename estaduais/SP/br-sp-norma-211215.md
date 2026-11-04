@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211215)<br>
-
 # DECRETO N° 69.718, DE 18 DE JULHO DE 2025
 
 ### _Dá denominação ao Centro Estadual de Educação de Jovens e Adultos de Avaré, da Secretaria da Educação, localizado no Município de Avaré._

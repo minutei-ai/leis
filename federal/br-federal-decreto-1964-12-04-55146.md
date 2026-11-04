@@ -1,5 +1,3 @@
-###DEC-055146-0-000-04-12-1964@@@
-
 DECRETO Nº 55.146, DE 4 DE DEZEMBRO DE 1964.
 
 Autoriza a Emprêsa Elétrica Siqueira, Meirelles Ltda. a vender bens e instalações.

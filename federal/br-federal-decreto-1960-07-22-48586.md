@@ -1,5 +1,3 @@
-###DEC-048586-0-000-22-07-1960@@@
-
 DECRETO Nº 48.586, DE 22 DE JULHO DE 1960.
 
 Autoriza Icominas S.A. - Emprêsa de Mineração a pesquisar minérios de ferro, de manganês e ocre, no município de Santa Barbara, Estado de Minas Gerais.

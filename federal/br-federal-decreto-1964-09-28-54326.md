@@ -1,5 +1,3 @@
-###DEC-054326-0-000-28-09-1964@@@
-
 DECRETO Nº 54.326, DE 28 DE Setembro DE 1964.
 
 Transfere da Emprêsa Melhoramentos de Pires do Rio S.A. para Centrais Elétricas de Goiás S.A. a concessão para produzir e distribuir energia elétrica no Município de Pires do Rio, Estado de Goiás.

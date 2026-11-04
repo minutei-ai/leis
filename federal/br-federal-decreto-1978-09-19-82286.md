@@ -1,5 +1,3 @@
-###DEC-082286-0-000-19-09-1978@@@
-
 Decreto nº 82.286, de 19 de setembro de 1978
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação Pontinha da Companhia Brasileira de Energia Elétrica CBEE, no Estado do Rio de Janeiro.

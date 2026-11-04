@@ -1,5 +1,3 @@
-###DEC-000579-0-000-26-06-1992@@@
-
 DECRETO N° 579, DE 26 DE JUNHO DE 1992
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 (Acordo n° 35), entre Brasil e Uruguai.

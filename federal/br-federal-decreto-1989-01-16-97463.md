@@ -1,5 +1,3 @@
-###DEC-097463-0-000-16-01-1989@@@
-
 DECRETO N° 97.463, DE 16 DE JANEIRO DE 1989
 
 Revoga o Decreto n° 97.457, de 15 de janeiro de 1989.

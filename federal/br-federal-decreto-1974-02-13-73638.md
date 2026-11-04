@@ -1,5 +1,3 @@
-###DEC-073638-0-000-13-02-1974@@@
-
 DECRETO Nº 73.638, DE 13 DE FEVEREIRO DE 1974
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão de São Paulo.

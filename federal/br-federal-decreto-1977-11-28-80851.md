@@ -1,5 +1,3 @@
-###DEC-080851-0-000-28-11-1977@@@
-
 DECRETO Nº 80.851, DE 28 DE NOVEMBRO DE 1977.
 
 Altera dispositivos do Regulamento para a Diretoria de Hidrografia e Navegação, aprovado pelo Decreto nº 74.055, de 13 de maio de 1974.

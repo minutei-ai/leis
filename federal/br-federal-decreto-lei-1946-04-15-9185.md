@@ -1,5 +1,3 @@
-###DEL-009185-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.185 – DE 15 DE ABRIL DE 1946
 
 Cria cargo isolado no Quadro Permanente do Ministério da Agricultura

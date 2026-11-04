@@ -1,5 +1,3 @@
-###DEC-070395-0-000-12-04-1972@@@
-
 DECRETO Nº 70.395, DE 12 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Sociedade de Proteção e Assistência à Maternidade e à Infância de Quixeramobim, com sede em Quixeramobim, Estado do Ceará.

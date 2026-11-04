@@ -1,5 +1,3 @@
-###DEC-094200-0-000-08-04-1987@@@
-
 DECRETO Nº 94.200, DE 8 DE ABRIL DE 1987
 
 Autoriza o funcionamento do curso de Agronomia da Faculdade de Agronomia de Ituverava.

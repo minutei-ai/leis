@@ -1,5 +1,3 @@
-###DEC-078448-0-000-20-09-1976@@@
-
 DECRETO Nº 78.448, DE 20 DE SETEMBRO DE 1976
 
 Concede autorização à companhia norte-americana SEDCO INC. para operar no mar territorial do Brasil a embarcação de perfuração "SEDCO 135-F", de bandeira liberiana, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

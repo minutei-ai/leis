@@ -1,7 +1,3 @@
-1
-
-###DEC-001227-0-000-22-08-1994@@@
-
 DECRETO Nº 1.227, DE 22 DE AGOSTO DE 1994
 
 Dá nova redação ao art. 32 do Decreto nº 1.204, de 29 de julho de 1994.

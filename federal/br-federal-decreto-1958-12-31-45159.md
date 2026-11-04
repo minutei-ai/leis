@@ -1,5 +1,3 @@
-###DEC-045159-0-000-31-12-1958@@@
-
 decreto nº 45.159, de 31 de dezembro de 1958.
 
 Autoriza a Sociedade Brasileira de Imóveis Ltda. a pesquisar minério de ferro no município de Corumbá, Estado de Mato Grosso.

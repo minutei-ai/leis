@@ -38,35 +38,21 @@ AGENTE PENITENCIÁRIO
 
 VIGÊNCIA A PARTIR DE 1º DE ABRIL DE 2018
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:432.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black" width="576"><tbody><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">Classe</span></p></td><td style="width:216.1pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">Vencimento</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">I</span></p></td><td style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">1.346,53</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">II</span></p></td><td style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">1.353,17</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.85pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">III</span></p></td><td style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.85pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">1.370,51</span></p></td></tr></tbody></table>
+Classe
+
+Vencimento
+
+I
+
+1.346,53
+
+II
+
+1.353,17
+
+III
+
+1.370,51
 
 ANEXO II
 
@@ -74,32 +60,18 @@ AGENTE PENITENCIÁRIO
 
 VIGÊNCIA A PARTIR DE 1º DE NOVEMBRO DE 2018
 
-<table border="1" cellpadding="0" cellspacing="0" style="width:432.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;
- mso-border-insidev:.5pt solid black" width="576"><tbody><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">Classe</span></p></td><td style="width:216.1pt;border:solid black 1.0pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">Vencimento</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">I</span></p></td><td style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">1.400,39</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">II</span></p></td><td style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">1.407,30</span></p></td></tr><tr><td style="width:216.1pt;border:solid black 1.0pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.85pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">III</span></p></td><td style="width:216.1pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:3.85pt" valign="top" width="288"><p align="center" class="Tabela-Texto" style="text-align:center;mso-pagination:
-  widow-orphan"><span style="color:black">1.425,33</span></p></td></tr></tbody></table>
+Classe
+
+Vencimento
+
+I
+
+1.400,39
+
+II
+
+1.407,30
+
+III
+
+1.425,33

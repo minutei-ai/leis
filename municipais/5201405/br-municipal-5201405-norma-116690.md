@@ -10,8 +10,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação, revogando-se as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, 11 de setembro de 2017.
 
-VETER MARTINS MORAIS<br>
+VETER MARTINS MORAIS
+
 Prefeito em exercício
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

@@ -1,5 +1,3 @@
-###DEC-001806-0-000-06-02-1996@@@
-
 DECRETO Nº 1.806, DE 6 DE FEVEREIRO DE 1996
 
 Promulga o Acordo para a Conservação da Fauna Aquática nos Cursos dos Rios Limítrofes, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai, em Brasília, em 1º de setembro de 1994.

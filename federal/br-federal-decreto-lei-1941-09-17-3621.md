@@ -1,5 +1,3 @@
-###DEL-003621-0-000-17-09-1941@@@
-
 DECRETO-LEI N. 3.621 – DE 17 DE SETEMBRO DE 1941
 
 Dá nova redação ao item 1) do art. 1º do decreto-lei n. 3.568, de 29 de agosto de 1941

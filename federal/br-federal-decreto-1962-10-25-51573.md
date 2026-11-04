@@ -1,5 +1,3 @@
-###DEC-051573-0-000-25-10-1962@@@
-
 DECRETO Nº 51.573, DE 25 DE OUTUBRO DE 1962.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Agricultura.

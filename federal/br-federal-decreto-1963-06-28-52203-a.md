@@ -1,5 +1,3 @@
-###DEC-052203-A-000-28-06-1963@@@
-
 DECRETO Nº 52.203-A, DE 28 DE JUNHO DE 1963.
 
 Declara de utilidade pública a União Catarinense de Educação, com sede em Jaraguá do Sul, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-092292-0-000-13-01-1986@@@
-
 DECRETO Nº 92.292, DE 13 DE JANEIRO DE 1986
 
 Revoga a concessão outorgada à RÁDIO DIFUSORA DE TERESINA LIMITADA; para executar serviço de radiodifusão sonora em onda tropical, na cidade de Teresina, Estado do Piauí.

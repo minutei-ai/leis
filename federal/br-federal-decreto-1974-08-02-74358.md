@@ -1,5 +1,3 @@
-###DEC-074358-0-000-02-08-1974@@@
-
 DECRETO Nº 74.358, DE 2 DE AGOSTO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, ao Departamento Nacional de Estradas de Rodagem, do terreno que menciona, situado no Estado do Paraná.

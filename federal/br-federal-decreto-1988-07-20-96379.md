@@ -1,5 +1,3 @@
-###DEC-096379-0-000-20-07-1988@@@
-
 DECRETO Nº 96.379, DE 20 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “QUANDU”, “NOVA CANAÃ” E “FAZENDA BARCELONA”, classificado como latifúndio por exploração, situado no Município de Barra de Santa Rosa, no Estado da Paraíba, compreendido na zona prioritária, para fins de reforma agrária fixada pelo Decreto nº 92.682, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51143)
-
 # LEI Nº 11.743, DE 15 DE JUNHO DE 2004
 
 ## ( PL 1113/2003 - Ubiratan Guimarães)

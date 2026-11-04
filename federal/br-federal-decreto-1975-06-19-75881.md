@@ -1,5 +1,3 @@
-###DEC-075881-0-000-19-06-1975@@@
-
 DECRETO Nº 75.881, De 19 De Junho De 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado da Bahia.

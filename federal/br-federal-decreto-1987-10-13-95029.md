@@ -1,5 +1,3 @@
-###DEC-095029-0-000-13-10-1987@@@
-
 DECRETO Nº 95.029, DE 13 DE OUTUBRO DE 1987
 
 Altera o Decreto nº 66.118, de 26 de janeiro de 1970, que dispõe sobre Loteria Esportiva Federal.

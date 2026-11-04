@@ -1,5 +1,3 @@
-###DEL-006726-0-000-24-07-1944@@@
-
 DECRETO-LEI Nº 6.726 - DE 25 DE JULHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 40.000,00, à verba que especifica
@@ -14,7 +12,31 @@ VERBA 1 - PESSOAL
 
 Consignação III - Vantagens
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:58.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">S/c nº</span><span style="font-family:Arial; font-size:10pt"> 17 -</span></p></td><td style="width:332.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gratificaçã</span><span style="font-family:Arial; font-size:10pt">o de representaçã</span><span style="font-family:Arial; font-size:10pt">o de Gabinete</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:58.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:332.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01 - Gabinete do Ministro.............................................................................</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Cr$ 40.000,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:58.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+S/c nº 17 -
+
+</td><td style="width:332.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Gratificação de representação de Gabinete
+
+</td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td></tr><tr><td style="width:58.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:332.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+01 - Gabinete do Ministro.............................................................................
+
+</td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Cr$ 40.000,00
+
+</td></tr></tbody></table>
 
 Art. 2º Êste Decreto-lei entrará em vigor na data de sua publicação.
 

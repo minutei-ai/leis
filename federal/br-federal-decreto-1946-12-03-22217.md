@@ -1,12 +1,10 @@
-###DEC-022217-0-000-03-12-1946@@@
+**DECRETO N.º 22.217, DE 3 DE DEZEMBRO DE 1946**
 
-<strong>DECRETO N.º 22.217, DE 3 DE DEZEMBRO DE 1946</strong>
+***Altera o Decreto n.º 21.151, de 22 de Maio de 1946, que aprovou orçamentos para aquisição de elevadores e guindastes pela Companhia Docas de Santos.***
 
-<em><strong>Altera o Decreto n.º 21.151, de 22 de Maio de 1946, que aprovou orçamentos para aquisição de elevadores e guindastes pela Companhia Docas de Santos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica alterado o artigo único do Decreto n.º 21.151, de 22 de Maio de 1946, que passa a ter a seguinte a redação:
 
@@ -14,6 +12,6 @@ Artigo único. Fica alterado o artigo único do Decreto n.º 21.151, de 22 de Ma
 
 Rio de Janeiro, 3 de dezembro de 1946, 125.º da Independência e 58.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana

@@ -1,7 +1,3 @@
-1
-
-###DEC-098661-0-000-21-12-1989@@@
-
 DECRETO Nº 98.661, DE 21 DE DEZEMBRO DE 1989
 
 Altera os incisos I e VI do artigo 1° do Decreto nº 97.605, de 31 de março de 1989, que fixa os efetivos do exército para 1989.

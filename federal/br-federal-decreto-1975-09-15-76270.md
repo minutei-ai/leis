@@ -1,5 +1,3 @@
-###DEC-076270-0-000-15-09-1975@@@
-
 DECRETO Nº 76.270 - DE 15 DE SETEMBRO DE 1975
 
 Concede à Mineração Aripuanã S. A., o direito de lavrar cassiterita no Município de Aripuanã, Estado de Mato Grosso.

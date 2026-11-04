@@ -1,5 +1,3 @@
-###DEC-060777-0-000-30-05-1967@@@
-
 decreto nº 60.777, de 30 de maio de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério das Minas e Energia.

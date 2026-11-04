@@ -1,5 +1,3 @@
-###DEC-004217-0-000-06-05-2002@@@
-
 DECRETO Nº 4.217, DE 6 DE MAIO DE 2002
 
 Dispõe sobre a instituição e concessão da Medalha Defesa Civil Nacional, e dá outras providências.

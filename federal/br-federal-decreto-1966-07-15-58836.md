@@ -1,5 +1,3 @@
-###DEC-058836-0-000-15-07-1966@@@
-
 DECRETO Nº 58.836, DE 15 DE JULHO DE 1966.
 
 Dá nova redação ao art. 4º do Decreto-lei nº 55.749, de 11 de fevereiro de 1965, modificado pelo Decreto número 58.561, de 31 de maio de 1966.

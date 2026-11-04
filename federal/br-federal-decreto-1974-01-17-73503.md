@@ -1,5 +1,3 @@
-###DEC-073503-0-000-17-01-1974@@@
-
 Decreto nº 73.503, de 17 de janeiro de 1974.
 
 Retifica o artigo 1º, do Decreto número 22.088, de 18 de novembro de 1946, através do qual foi concedido à Mineração Tomaz Salustino S. A. concessão para lavrar minério de bismuto e scheelita no Município de Currais Novos Estado do Rio Grande do Norte.

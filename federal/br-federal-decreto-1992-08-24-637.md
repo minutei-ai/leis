@@ -1,7 +1,3 @@
-1
-
-###DEC-000637-0-000-24-08-1992@@@
-
 DECRETO Nº 637, DE 24 DE AGOSTO DE 1992
 
 Aprova o Regulamento de Documentos de Viagem.

@@ -1,5 +1,3 @@
-###DEC-055510-0-000-11-01-1965@@@
-
 DECRETO Nº 55.510, DE 11 DE JANEIRO DE 1965.
 
 Autoriza a cidadã brasileira Maria Margarida da Costa Santos a pesquisar diamantes, no município de Diamantina, Estado de Minas Gerais.

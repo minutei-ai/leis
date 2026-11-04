@@ -16,8 +16,10 @@ Goiânia, 4 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-CRISTÓVÃO TORMIN<br>
+CRISTÓVÃO TORMIN
+
 Deputado Estadual

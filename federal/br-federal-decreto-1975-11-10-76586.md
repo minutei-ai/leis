@@ -1,5 +1,3 @@
-###DEC-076586-0-000-10-11-1975@@@
-
 DECRETO Nº 76.586, DE 10 DE NOVEMBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Princesa do Oeste Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Xanxerê, Estado de Santa Catarina.

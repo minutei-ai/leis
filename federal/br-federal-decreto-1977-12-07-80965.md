@@ -1,5 +1,3 @@
-###DEC-080965-0-000-07-12-1977@@@
-
 Decreto nº 80.965, de 07 de dezembro de 1977.
 
 Extingue, no Ministério da Aeronáutica, a Diretoria de Documentação e Histórico, cria o Centro de Documentação e Histórico da Aeronáutica e dá outras providências.

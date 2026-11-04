@@ -1,7 +1,3 @@
-1
-
-###DEC-097885-0-000-28-06-1989@@@
-
 DECRETO N° 97.885, DE 28 DE JUNHO DE 1989
 
 Cria Comissão Interministerial para fim que indica e dá outras providências.

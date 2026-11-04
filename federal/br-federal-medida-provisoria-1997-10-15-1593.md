@@ -1,5 +1,3 @@
-###MPV-001593-0-000-15-10-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.593, DE 15 DE OUTUBRO DE 1997
 
 Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados partes e peças destinadas à industrialização de bens de informática a serem adquiridos pelo Tribunal Superior Eleitoral - TSE.

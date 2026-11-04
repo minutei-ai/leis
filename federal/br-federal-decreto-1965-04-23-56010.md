@@ -1,5 +1,3 @@
-###DEC-056010-0-000-23-04-1965@@@
-
 DECRETO Nº 56.010, DE 23 DE ABRIL DE 1965.
 
 Concede à Reixach, Costa & Cia. Limitada autorização para funcionar como emprêsa de mineração.

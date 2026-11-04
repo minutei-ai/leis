@@ -1,5 +1,3 @@
-###DEL-000105-0-000-16-01-1967@@@
-
 DECRETO-LEI Nº 105, DE 16 DE jANEiRo DE 1967
 
 Aprova o têrmo aditivo ao convênio firmado entre o Govêrno Federal e o Estado da Guanabara para a reinclusão, nos Quadros da Polícia Militar do Estado da Guanabara, ao pessoal da Polícia Militar do antigo Distrito Federal, aprovado pelo Decreto-lei nº 10, de 28 de junho de 1966.

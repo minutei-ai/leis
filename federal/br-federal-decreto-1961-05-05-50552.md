@@ -1,5 +1,3 @@
-###DEC-050552-0-000-05-05-1961@@@
-
 DECRETO Nº 50.552, DE 5 DE MAIO DE 1961
 
 Autoriza a firma Salwi Importação e Exportação Ltda., a comprar pedras preciosas.

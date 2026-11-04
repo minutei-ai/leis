@@ -1,5 +1,3 @@
-###DEC-072371-0-000-15-06-1973@@@
-
 DECRETO Nº 72.371, DE 15 DE JUNHO DE 1973.
 
 Transfere para Alcan Alumínio do Brasil S.A., os direitos e obrigações decorrentes de vários Decretos para aproveitamento de energia hidráulica, para uso exclusivo, no Estado de Minas Gerais.

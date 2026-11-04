@@ -1,5 +1,3 @@
-###DEL-003452-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.452 – DE 24 DE JULHO DE 1941
 
 Abre, pelo Ministério da Fazenda, o credito especial de 12:000$0, para prorrogação de expediente

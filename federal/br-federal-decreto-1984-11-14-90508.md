@@ -1,5 +1,3 @@
-###DEC-090508-0-000-14-11-1984@@@
-
 Decreto nº 90.508, de 14 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social da Companhia Hidro Elétrica do São Francisco - CHESF.

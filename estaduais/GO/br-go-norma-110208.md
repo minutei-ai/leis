@@ -50,5 +50,6 @@ Art. 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 18 de dezembro de 2024.
 
-Deputado BRUNO PEIXOTO<br>
+Deputado BRUNO PEIXOTO
+
 – PRESIDENTE –

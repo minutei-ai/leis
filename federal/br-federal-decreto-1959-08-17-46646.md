@@ -1,5 +1,3 @@
-###DEC-046646-0-000-17-08-1959@@@
-
 decreto nº 46.646, de 17 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro José Marques Aguiar a pesquisar areia quartzosa no município de Caraguatatuba, Estado de São Paulo.

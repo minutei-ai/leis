@@ -1,5 +1,3 @@
-###DEC-002867-0-000-08-12-1998@@@
-
 DECRETO Nº 2.867, DE 8 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a repartição de recursos provenientes do Seguro Obrigatório de Danos Pessoais causados por Veículos Automotores de Vias Terrestres - DPVAT.

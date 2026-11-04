@@ -1,5 +1,3 @@
-###DEC-056761-0-000-20-08-1965@@@
-
 Decreto nº 56.761, de 20 de agôsto de 1965.
 
 Autoriza o cidadão brasileiro Alfredo Joaquim de Souza a pesquisar caulim, feldspato e quartzo nos municípios de Monte Alegre do Sul e Pinhalzinho, Estado de São Paulo.

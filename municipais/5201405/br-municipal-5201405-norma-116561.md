@@ -4,19 +4,22 @@ DISPOE SOBRE ALTERAÇÃO DAS LEIS MUNICIPAIS Nº 3.385, DE 30 DE OUTUBRO DE 2017
 
 FAÇO SABER QUE A CAMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI MUNICIPAL:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PLANEJAMENTO GOVERNAMENTAL E DO PLANO PLURIANUAL
 
 Art. 1º Ficam alteradas as Leis Municipais nº 3.385, de 30 de outubro de 2017 que dispõe sobre o Plano Plurianual – PPA 2018 a 2021; Lei nº 3.450 de 18 de dezembro de 2018 que dispõe sobre a Lei Orçamentária Anual de 2019 do Município de Aparecida de Goiânia, em cumprimento ao estabelecido no art. 51, inciso II, alínea “e” da Lei Orgânica do Município de Aparecida de Goiânia, e a Lei nº 3.426 de 27 de Agosto de 2018 que dispõe sobre as diretrizes orçamentárias.
 
 Art. 2º Esta Lei, estabelece para o período 2019 a 2021, a nova organização dos programas; o estabelecimento de indicadores; objetivos; ações; público-alvo; produtos; unidades de medida metas físicas e metas financeiras, atendendo Lei Complementar Municipal 125/2017.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA E ORGANIZAÇÃO DO PLANO
 
 Art. 3º O PPA 2018/2021 reflete as políticas públicas e organiza a atuação governamental por meio de Programas Finalísticos e de Apoio à Gestão e Manutenção da Administração do Município, assim definidos no Art. 3º da Lei Municipal nº 3.385, de 30 de outubro de 2017.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS ALTERAÇÕES ESTRUTURAIS E FINANCEIRAS
 
 Art. 4º Ficam Remanejados da Lei Municipal nº 3.385/2017, os Programas e Ações das unidades, código 0370 SECRETARIA MUNICIPAL DE CASA CIVIL, 0369 FUNDO MUNICIPAL DE CULTURA (FMAC) e 0357 SISTEMA MUNICIPAL DE DEFESA DO CONSUMIDOR – SMDC/PROCON, para as unidades administrativas código 0301 GABINETE DO PREFEITO, 0368 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA e, 0361 SECRETARIA MUNICIPAL DE GOVERNO.
@@ -53,7 +56,8 @@ I- 449093 – INDENIZAÇÕES E RESTITUIÇÕES
 
 Art. 7º Altera-se na Lei Municipal nº 3.385/2017 a nomenclatura do Órgão 07 - FUNDO DE PREVIDENCIA DE MUNICIPAL para INSTITUTO DE PREVIDÊNCIA MUNICIPAL, e, da unidade administrativa / orçamentária 0721 – FUNDO DE PREVIDÊNCIA DOS SERVIDORES DO MUNICÍPIO DE APARECIDA para INSTITUTO DE PREVIDÊNCIA MUNICIPAL DE APARECIDA DE GOIÂNIA.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS ALTERAÇÕES NAS DIRETRIZES ORÇAMENTÁRIAS
 
 Art. 8º Altera-se a Redação do artigo 23 da Lei Municipal 3.426/18, pelo texto:
@@ -72,17 +76,20 @@ IV – atender o pagamento dos serviços da dívida pública;
 
 V - Incorporação de saldos financeiros apurados em 31 de dezembro de 2018 e o excesso de arrecadação apurado no exercício de 2019.”
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 9º Esta Lei entrará em vigor a partir de sua publicação, revogando disposições ao contrário.
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia- GO, 10 de abril de 2019.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18971)

@@ -1,5 +1,3 @@
-###DEC-059388-0-000-13-10-1966@@@
-
 Decreto nº 59.388, de 13 de outubro de 1966.
 
 Altera o Decreto nº 39.687, de 7 de agôsto de 1956, que criou o Instituto de Matemática Pura e Aplicada.

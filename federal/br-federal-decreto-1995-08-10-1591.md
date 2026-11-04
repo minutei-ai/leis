@@ -1,7 +1,3 @@
-1
-
-###DEC-001591-0-000-10-08-1995@@@
-
 DECRETO Nº 1.591, DE 10 DE AGOSTO DE 1995.
 
 Dispõe sobre o Imposto sobre Operações de Crédito, Câmbio e Seguro e sobre operações relativas a Títulos e Valores Mobiliários - IOF.

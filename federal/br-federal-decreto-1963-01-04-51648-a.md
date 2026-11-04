@@ -1,5 +1,3 @@
-###DEC-051648-A-000-04-01-1963@@@
-
 DECRETO Nº 51.648-A, DE 4 DE JANEIRO DE 1963.
 
 Transfere do Ministério da Guerra para as Universidades do Recife, da Bahia, de Minas Gerais e do Paraná os Colégios Militares de Recife, Salvador, Belo Horizonte e Curitiba, respectivamente e dá outras providências.

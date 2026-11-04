@@ -1,5 +1,3 @@
-###DEC-073499-0-000-17-01-1974@@@
-
 DECRETO Nº. 73.499, DE 17 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto nº 61.470, de 5 de outubro de 1967, através do qual foi concedido à EMIBRA - Empresa de Minérios Brasil Norte Nordeste Ltda. o direito de lavrar opala, no Município de Pedro II, Estado de Piauí.

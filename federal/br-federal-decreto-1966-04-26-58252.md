@@ -1,5 +1,3 @@
-###DEC-058252-0-000-26-04-1966@@@
-
 decreto nº 58.252, de 26 de abril de 1966.
 
 Declara excluída da proibição determinada pelo Decreto nº 57.630, de 14 de janeiro de 1966, a admissão a título precário, de pessoal auxiliar no exterior, na forma do artigo 44 da Lei nº 3.917, de 1961.

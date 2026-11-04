@@ -1,5 +1,3 @@
-###DEC-067647-0-000-23-11-1970@@@
-
 DECRETO Nº 67.647, DE 23 DE NOVEMBRO DE 1970.
 
 Estabelece nova Divisão Regional do Brasil para fins estatísticos.

@@ -1,5 +1,3 @@
-###DEC-083025-0-000-11-01-1979@@@
-
 DECRETO Nº 83.025, DE 11 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Formação de Tecnólogo em Processos de Produção e Usinagem, ministrado pela Faculdade de Tecnologia Senador Flaquer, com sede na cidade de Santo André, Estado de São Paulo.

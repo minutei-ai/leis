@@ -1,5 +1,3 @@
-###DEC-054345-0-000-29-09-1964@@@
-
 Decreto nº 54.345, de 29 de setembro de 1964.
 
 Autoriza Dragagem Fluvial S.A. a lavrar ouro e diamante no município de Diamantina, Estado de Minas Gerais.

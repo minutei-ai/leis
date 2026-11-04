@@ -1,5 +1,3 @@
-###DEC-070411-0-000-14-04-1972@@@
-
 DECRETO Nº 70.411, DE 14 DE ABRIL DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Carangola - MG.

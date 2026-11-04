@@ -1,5 +1,3 @@
-###DEL-006619-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.619 – DE 22 DE JUNHO DE 1944
 
 Modifica a redação de uma rubrica do Anexo 15 – Ministério da Educação e Saúde – do Orçamento em vigor

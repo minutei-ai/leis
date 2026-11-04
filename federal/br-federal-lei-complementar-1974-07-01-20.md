@@ -1,7 +1,3 @@
-1
-
-###LCP-000020-0-000-01-07-1974@@@
-
 # LEI COMPLEMENTAR Nº 20, DE 1º DE JULHO DE 1974
 
 Dispõe sobre a criação de Estados e Territórios.

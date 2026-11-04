@@ -1,5 +1,3 @@
-###DEL-007404-0-000-22-03-1945@@@
-
 DECRETO-LEI N. 7.404 - DE 22 DE MARÇO DE 1945
 
 Dispõe sôbre o Impôsto de Consumo

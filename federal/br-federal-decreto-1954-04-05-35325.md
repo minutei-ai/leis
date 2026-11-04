@@ -1,32 +1,30 @@
-###DEC-035325-0-000-05-04-1954@@@
+**DECRETO Nº 35.325, DE 5 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.325, DE 5 DE ABRIL DE 1954.</strong>
+***Aprova o Regimento***  ***do Conselho Rodoviário Nacional.***
 
-<em><strong>Aprova o Regimento</strong></em>  <em><strong>do Conselho Rodoviário Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Fica aprovado o Regimento do Conselho Rodoviário Nacional, que com êste baixa, assinado pelo Ministro da viação e Obras Públicas.
 
-<strong>Art</strong>. 1º - Fica aprovado o Regimento do Conselho Rodoviário Nacional, que com êste baixa, assinado pelo Ministro da viação e Obras Públicas.
+**Art**. 2º - Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º - Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º - Revogam-se as disposições em contrário.
+**Art**. 3º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 5 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 José Amércio
 
-<strong>REGIMENTO DO CONSELHO RODOVIÁRIO NACIONAL</strong>
+**REGIMENTO DO CONSELHO RODOVIÁRIO NACIONAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade e da competência</em>
+*Da finalidade e da competência*
 
-<strong>Art</strong>. 1º - A orientação superior do Departamento Nacional de Estradas de Rodagem (D. N. .E. R). será exercida pelo Conselho Rodoviário Nacional (C.R.N). ao qual compete deliberar, por iniciativa própria ou do Diretor Geral, sôbre:
+**Art**. 1º - A orientação superior do Departamento Nacional de Estradas de Rodagem (D. N. .E. R). será exercida pelo Conselho Rodoviário Nacional (C.R.N). ao qual compete deliberar, por iniciativa própria ou do Diretor Geral, sôbre:
 
 I - regulamentação do Decreto-lei nº 8.463, de 27 de dezembro de 1945;
 
@@ -82,11 +80,11 @@ XXV - divulgação de atos e resoluções de interêsse da política rodoviário
 
 <sup>§</sup> 2º - Ter-se-ão por aprovadas as deliberações do Conselho em assuntos dependentes de decisão final do Ministro da Viação e Obras Públicas, desde que êste não as vete ou modifique até 30 dias após lhe serem encaminhadas à decisão.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da composição</em>
+*Da composição*
 
-<strong>Art</strong>. 2º - O C.R.N. será constituído pelos seguintes membros, todos brasileiros natos:
+**Art**. 2º - O C.R.N. será constituído pelos seguintes membros, todos brasileiros natos:
 
 I - o Presidente;
 
@@ -110,13 +108,13 @@ VIII - o Diretor geral do D.N.E.R.
 
 § 3º - o representante da Federação Brasileira do Engenharia terá mandato de três anos, não podendo o mesmo representante servir em dois períodos consecutivos.
 
-<strong>Art</strong>. 5º - O C.R.N. elegerá, anualmente, dentre seus membros, um Vice-Presidente.
+**Art**. 5º - O C.R.N. elegerá, anualmente, dentre seus membros, um Vice-Presidente.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do presidente</em>
+*Do presidente*
 
-<strong>Art</strong>. 4º - Compete ao presidente:
+**Art**. 4º - Compete ao presidente:
 
 I - presidir de reuniões do C.R.N.;
 
@@ -152,21 +150,21 @@ XVI - aprovar a pauta dos assuntos, organizado pelo Secretário do Conselho;
 
 Parágrafo único. O presidente será substituído em suas faltas e impedimentos pelo Vice-Presidente.
 
-<strong>Art</strong>. 5º - O Presidente poderá, a seu critério, convocar sessões extraordinárias para tratar de assuntos de relevância ou urgência.
+**Art**. 5º - O Presidente poderá, a seu critério, convocar sessões extraordinárias para tratar de assuntos de relevância ou urgência.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da organização dos serviços e das atribuições do pessoal</em>
+*Da organização dos serviços e das atribuições do pessoal*
 
-<strong>Art</strong>. 6º - Para execução de seus serviços administrativos o C.R.N. disporá de uma Secretaria.
+**Art**. 6º - Para execução de seus serviços administrativos o C.R.N. disporá de uma Secretaria.
 
 Parágrafo único - A Secretaria terá um Chefe, designado pelo Presidente.
 
-<strong>Art</strong>. 7º - Diretamente subordinados ao Presidente, haverá no C.R.N. um Consultor Jurídico e Assistentes Técnico em número que for julgado necessário.
+**Art**. 7º - Diretamente subordinados ao Presidente, haverá no C.R.N. um Consultor Jurídico e Assistentes Técnico em número que for julgado necessário.
 
-<strong>Art</strong>. 8º - O Presidente poderá requisitar servidores do D.N.E.R., que nele já tenham exercício ou que venham a ser contratados mediante indicação sua ao Diretor Geral do D.N.E.R., como poderá, também, solicitar, pelas vias próprias, sejam postos á sua disposição, de acôrdo com a legislação em vigor, servidores de outros ramos da administração federal.
+**Art**. 8º - O Presidente poderá requisitar servidores do D.N.E.R., que nele já tenham exercício ou que venham a ser contratados mediante indicação sua ao Diretor Geral do D.N.E.R., como poderá, também, solicitar, pelas vias próprias, sejam postos á sua disposição, de acôrdo com a legislação em vigor, servidores de outros ramos da administração federal.
 
-<strong>Art</strong>. 9º - Compete á Secretaria:
+**Art**. 9º - Compete á Secretaria:
 
 I - providenciar a taquigrafia das reuniões;
 
@@ -192,7 +190,7 @@ XI - fornecer, após despacho do Presidente, as certidões requeridas;
 
 XII - apurar a frequência e organizar a folha do pessoal do C.R.N. encaminhando-a ao órgão competente do D.N.E.R.
 
-<strong>Art</strong>. 10 - Compete ao Chefe da Secretaria:
+**Art**. 10 - Compete ao Chefe da Secretaria:
 
 I - secretaria as reuniões;
 
@@ -208,7 +206,7 @@ VI - orientar, coordenar e controlar os trabalhos da Secretaria;
 
 VII - propor ao Presidente as providências que se fizerem necessárias à boa marcha dos serviços a cargo do pessoal da Secretaria;
 
-<strong>Art</strong>. 11 - Compete ao Consultor Jurídico:
+**Art**. 11 - Compete ao Consultor Jurídico:
 
 I - elaborar ou rever minutas de anteprojetos de leis de interêsses rodoviário;
 
@@ -216,7 +214,7 @@ II - dar parecer quando solicitado pelo Presidente, sôbre matéria de interêss
 
 III - elaborar ou rever projetos de regulamentos e instruções atinentes a assuntos rodoviários.
 
-<strong>Art</strong>. 12 - Compete aos Assistentes Técnicos:
+**Art**. 12 - Compete aos Assistentes Técnicos:
 
 I - estudar os assuntos que lhes forem cometidos pelo Presidente;
 
@@ -230,35 +228,35 @@ V - organizar e propor ao Presidente medidas para a divulgação, a juízo do Co
 
 VI  \- informar os processos que lhe forem distribuídos pelo Presidente.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da distribuição e es</em>t<em>udos dos processos</em>
+*Da distribuição e es*t*udos dos processos*
 
-<strong>Art</strong>. 13 - Os processos remetidos para o exame do C.R.N. poderão ser, independentemente de reunião do Conselho, distribuídos pelo Presidente aos Conselheiros
+**Art**. 13 - Os processos remetidos para o exame do C.R.N. poderão ser, independentemente de reunião do Conselho, distribuídos pelo Presidente aos Conselheiros
 
-<strong>Art</strong>. 14 - O relator designado terá o prazo de 15 dias para a apresentação de seu parecer ou relatório.
+**Art**. 14 - O relator designado terá o prazo de 15 dias para a apresentação de seu parecer ou relatório.
 
-<strong>Art</strong>. 15 - Na primeira reunião que se realizar após o término do prazo referido no artigo anterior, o processo será incluído em pauta.
+**Art**. 15 - Na primeira reunião que se realizar após o término do prazo referido no artigo anterior, o processo será incluído em pauta.
 
 § 1º - Se o processo não puder ser apresentado pelo Conselheiro, nessa reunião, o Presidente poderá conceder-lhe uma primeira prorrogação até 8 dias, ficando as demais prorrogações a critério do Conselho.
 
 § 2º - Quando o processo, por deliberação do Conselho, for baixado em diligência, o relator, depois de cumprida esta, terá novo prazo de 8 dias para estudo e apresentação do relatório.
 
-<strong>Art</strong>. 16 - O relator poderá apresentar o parecer por escrito ou verbalmente.
+**Art**. 16 - O relator poderá apresentar o parecer por escrito ou verbalmente.
 
 § 1º - No caso de parecer verbal, serão tomadas notas taquigráficas, posteriormente no corpo do processo, a critério do Conselho.
 
 § 2º - O relator assinará o parecer, que seja dado por escrito, quer reproduzido pelas notas taquigráficas.
 
-<strong>Art</strong>. 17 - A deliberação tomada pelo Conselho, em seguida ao parecer, será transcrita e autentica pelo Presidente.
+**Art**. 17 - A deliberação tomada pelo Conselho, em seguida ao parecer, será transcrita e autentica pelo Presidente.
 
 Parágrafo único. Nos casos em que houver urgência ou se tratar de assunto rotineiro já resolvido anteriormente, o Conselho, por proposta do Presidente, poderá tomar deliberação dispensado a designação do relator.
 
-<strong>Art</strong>. 18 - O Conselheiro aporá sua rubrica nos processos que examinar.
+**Art**. 18 - O Conselheiro aporá sua rubrica nos processos que examinar.
 
-<strong>Art</strong>. 19 - Os pedidos de reconsideração das decisões do Conselho serão distribuídas a relator diverso do que houver funcionado na decisão recorrida.
+**Art**. 19 - Os pedidos de reconsideração das decisões do Conselho serão distribuídas a relator diverso do que houver funcionado na decisão recorrida.
 
-<strong>Art</strong>. 20 - O Conselho reunir-se-á ordinária e extraordinariamente.
+**Art**. 20 - O Conselho reunir-se-á ordinária e extraordinariamente.
 
 § 1º - O Presidente fixará os dias de reuniões ordinárias do Conselho, independentemente de convocação.
 
@@ -268,38 +266,38 @@ Parágrafo único. Nos casos em que houver urgência ou se tratar de assunto rot
 
 § 4º - A Juízo do Presidente, pessoas estranhas ao Conselho poderão participar das reuniões, sem direito de voto.
 
-<strong>Art</strong>. 21 - As reuniões durarão o tempo necessário a apreciação dos assuntos incluídos na ordem do dia.
+**Art**. 21 - As reuniões durarão o tempo necessário a apreciação dos assuntos incluídos na ordem do dia.
 
 Parágrafo único. Por motivos relevantes, os processos ou assuntos da ordem do dia de uma reunião, no caso de não se tratar de matéria urgente, poderão ser transferidos pelo Presidente, por iniciativa própria ou proposta de qualquer Conselheiro, para a reunião seguinte, na qual terão preferência.
 
-<strong>Art</strong>. 22 - A ordem dos assuntos constantes da pauta poderá ser alterada com aprovação do Conselho.
+**Art**. 22 - A ordem dos assuntos constantes da pauta poderá ser alterada com aprovação do Conselho.
 
-<strong>Art</strong>. 23 - As reuniões serão secretariadas pelo Chefe de Secretaria ou, nas suas faltas ou impedimentos, pelo servidor para isto designado.
+**Art**. 23 - As reuniões serão secretariadas pelo Chefe de Secretaria ou, nas suas faltas ou impedimentos, pelo servidor para isto designado.
 
-<strong>Art</strong>. 24 - O Conselho funcionará com a presença de, pelo menos, metade mais um de seus membros.
+**Art**. 24 - O Conselho funcionará com a presença de, pelo menos, metade mais um de seus membros.
 
 § 1º - As deliberações do Conselho serão tomadas par maioria relativa de votos dos membros presentes, cabendo ao Presidente, além do voto comum, o de desempate, quando fôr o caso.
 
 § 2º - O representante do Estado Maior do Exército poderá recorrer, com efeito suspensivo, para o Ministério da Viação e Obras Públicas e para o Presidente da República, sucessivamente, se fôr o caso, de qualquer decisão do Conselho que possa afetar ou a defesa ou a segurança militar do país.
 
-<strong>Art</strong>. 25 - Por solicitação dos Conselheiros, os votos em separado e suas justificativas serão anexadas à ata.
+**Art**. 25 - Por solicitação dos Conselheiros, os votos em separado e suas justificativas serão anexadas à ata.
 
-<strong>Art</strong>. 26 - A ordem dos trabalhos das reuniões ordinárias e extraordinárias, inclusive o julgamento dos processos, poderá ser objeto de normas regimentais complementares aprovadas pelo Conselho.
+**Art**. 26 - A ordem dos trabalhos das reuniões ordinárias e extraordinárias, inclusive o julgamento dos processos, poderá ser objeto de normas regimentais complementares aprovadas pelo Conselho.
 
-<strong>Art</strong>. 27 - Cabe a Presidente redigir as deliberações do Conselho, quando diferentes das conclusões do relator, submetendo-as à aprovação do Conselho.
+**Art**. 27 - Cabe a Presidente redigir as deliberações do Conselho, quando diferentes das conclusões do relator, submetendo-as à aprovação do Conselho.
 
-<strong>Art</strong>. 28 - Os processos referentes a orçamento do D.N.E.R., distribuição do Fundo Rodoviário Nacional, tabelas de pessoal e recursos, terão preferência no julgamento.
+**Art**. 28 - Os processos referentes a orçamento do D.N.E.R., distribuição do Fundo Rodoviário Nacional, tabelas de pessoal e recursos, terão preferência no julgamento.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições Gerais e Transitórias</em>
+*Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 29 - Sempre que se verificação 8 (oito) ou mais faltas consecutivos de um Conselheiro, sem motivo justificado, o Presidente comunicará o fato ao órgão que representar.
+**Art**. 29 - Sempre que se verificação 8 (oito) ou mais faltas consecutivos de um Conselheiro, sem motivo justificado, o Presidente comunicará o fato ao órgão que representar.
 
-<strong>Art</strong>. 30 - Os casos omissos nêste Regimento serão resolvidos pelo Conselho, por maioria absoluta de seus membros.
+**Art**. 30 - Os casos omissos nêste Regimento serão resolvidos pelo Conselho, por maioria absoluta de seus membros.
 
-<strong>Art</strong>. 31 - Os Conselheiros que exercem  atualmente as atribuições de Vice-Presidente 1º Secretário e 2º Secretário continuarão no exercício dessas atribuições até o término dos respectivos mandatos.
+**Art**. 31 - Os Conselheiros que exercem  atualmente as atribuições de Vice-Presidente 1º Secretário e 2º Secretário continuarão no exercício dessas atribuições até o término dos respectivos mandatos.
 
 Rio de Janeiro, em 5 de abril de 1954.
 
-<strong>JOSÉ AMÉRICO</strong>
+**JOSÉ AMÉRICO**

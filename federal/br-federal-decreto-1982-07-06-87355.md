@@ -1,5 +1,3 @@
-###DEC-087355-0-000-06-07-1982@@@
-
 Decreto nº 87.355, de 06 de julho de 1982
 
 Autoriza o aumento do Capital Social da Companhia Vale do Rio Doce - C.V.R.D.

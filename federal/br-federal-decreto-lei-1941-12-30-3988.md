@@ -1,5 +1,3 @@
-###DEL-003988-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.988 – DE 30 DE DEZEMBRO DE 1941
 
 Abre ao Ministério da Guerra o crédito especial de 11.602:000$0, para regularização de despesa

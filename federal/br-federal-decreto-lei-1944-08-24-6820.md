@@ -1,5 +1,3 @@
-###DEL-006820-0-000-24-08-1944@@@
-
 DECRETO-LEI N. 6.820 – DE 24 DE AGÔSTO DE 1944
 
 Autoriza nova prorrogação do prazo do contrato de exploração do serviço da Loteria Federal

@@ -1,5 +1,3 @@
-###DEC-090780-0-000-28-12-1984@@@
-
 Decreto nº 90.780, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Serviço Social da Faculdade de Serviço Social de Presidente Prudente.

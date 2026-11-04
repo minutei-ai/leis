@@ -1,5 +1,3 @@
-###DEC-092268-0-000-06-01-1986@@@
-
 DECRETO Nº 92.268, DE 06 DE JANEIRO DE 1986
 
 Concede à Empresa PEPSICO INC., autorização para funcionar na República Federativa do Brasil.

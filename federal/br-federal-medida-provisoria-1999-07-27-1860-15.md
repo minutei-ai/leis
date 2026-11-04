@@ -1,5 +1,3 @@
-###MPV-001860-0-015-27-07-1999@@@
-
 Medida Provisória nº 1.860-15, de 27 de julho de 1999.
 
 Autoriza o Poder Executivo a abrir aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios do Planejamento e Orçamento, da Agricultura e do Abastecimento, e do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, crédito extraordinário no valor de R$824.000.000,00, para os fins que especifica.

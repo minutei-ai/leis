@@ -94,112 +94,104 @@ José de Freitas Mascarenhas
 
 Fernando Talma Sarmento Sampaio
 
-<table border="1" cellspacing="0" cellpadding="0" width="378" style="width:283.5pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>CARGOS<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>VALOR<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Desembargador<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$5.600,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Juiz da Entrância Especial<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$4.500,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Juiz da 3ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$3.600,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Juiz da 2ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$3.100,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Juiz da 1ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$2.800,00<quebra></quebra></span></p></td></tr></tbody></table>
+CARGOS<quebra></quebra>
 
-<table border="1" cellspacing="0" cellpadding="0" width="378" style="width:283.5pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>CARGOS<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>VALOR<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Procurador da Justiça<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>5.600,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Just. da Entrância Especial<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>4.500,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da 3ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.600,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da 2ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.100,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da 1ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.800,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Defensor Público da 3ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.600,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Defensor Público da 2ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.100,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Optantes pelo Exercício da Advocacia<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da Entrância Especial<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$3.000,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da 3ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.600,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da 2ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.100,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Promotor da Justiça da 1ª Entrância<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1.800,00<quebra></quebra></span></p></td></tr></tbody></table>
+VALOR<quebra></quebra>
 
-<table border="1" cellspacing="0" cellpadding="0" width="378" style="width:283.5pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>CARGOS<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>VALOR<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Auditor<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$4.500,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Auditor Substituto<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>4.500,00<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Advogado<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>3.600,00<quebra></quebra></span></p></td></tr></tbody></table>
+Desembargador<quebra></quebra>
 
-<table border="1" cellspacing="0" cellpadding="0" width="378" style="width:283.5pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>CARGOS<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>VALOR<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Conselheiro<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$5.600,00<quebra></quebra></span></p></td></tr></tbody></table>
+Cr$5.600,00<quebra></quebra>
+
+Juiz da Entrância Especial<quebra></quebra>
+
+Cr$4.500,00<quebra></quebra>
+
+Juiz da 3ª Entrância<quebra></quebra>
+
+Cr$3.600,00<quebra></quebra>
+
+Juiz da 2ª Entrância<quebra></quebra>
+
+Cr$3.100,00<quebra></quebra>
+
+Juiz da 1ª Entrância<quebra></quebra>
+
+Cr$2.800,00<quebra></quebra>
+
+CARGOS<quebra></quebra>
+
+VALOR<quebra></quebra>
+
+Procurador da Justiça<quebra></quebra>
+
+5.600,00<quebra></quebra>
+
+Promotor da Just. da Entrância Especial<quebra></quebra>
+
+4.500,00<quebra></quebra>
+
+Promotor da Justiça da 3ª Entrância<quebra></quebra>
+
+3.600,00<quebra></quebra>
+
+Promotor da Justiça da 2ª Entrância<quebra></quebra>
+
+3.100,00<quebra></quebra>
+
+Promotor da Justiça da 1ª Entrância<quebra></quebra>
+
+2.800,00<quebra></quebra>
+
+Defensor Público da 3ª Entrância<quebra></quebra>
+
+3.600,00<quebra></quebra>
+
+Defensor Público da 2ª Entrância<quebra></quebra>
+
+3.100,00<quebra></quebra>
+
+Optantes pelo Exercício da Advocacia<quebra></quebra>
+
+<quebra></quebra>
+
+Promotor da Justiça da Entrância Especial<quebra></quebra>
+
+Cr$3.000,00<quebra></quebra>
+
+Promotor da Justiça da 3ª Entrância<quebra></quebra>
+
+2.600,00<quebra></quebra>
+
+Promotor da Justiça da 2ª Entrância<quebra></quebra>
+
+2.100,00<quebra></quebra>
+
+Promotor da Justiça da 1ª Entrância<quebra></quebra>
+
+1.800,00<quebra></quebra>
+
+CARGOS<quebra></quebra>
+
+VALOR<quebra></quebra>
+
+Auditor<quebra></quebra>
+
+Cr$4.500,00<quebra></quebra>
+
+Auditor Substituto<quebra></quebra>
+
+4.500,00<quebra></quebra>
+
+Advogado<quebra></quebra>
+
+3.600,00<quebra></quebra>
+
+CARGOS<quebra></quebra>
+
+VALOR<quebra></quebra>
+
+Conselheiro<quebra></quebra>
+
+Cr$5.600,00<quebra></quebra>
 
 (\*) Republicada por haver saído com incorreções.

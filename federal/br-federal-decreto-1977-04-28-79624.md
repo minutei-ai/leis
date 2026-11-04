@@ -1,5 +1,3 @@
-###DEC-079624-0-000-28-04-1977@@@
-
 DECRETO Nº 79.624, DE 28 DE ABRIL DE 1977.
 
 Concede reconhecimento ao curso de Agrimensura, da Faculdade de Agrimensura de Pirassununga, com sede na cidade de Pirassununga, Estado de São Paulo.

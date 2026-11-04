@@ -1,5 +1,3 @@
-###DEC-059207-0-000-13-09-1966@@@
-
 decreto nº 59.207, de 13 de setembro de 1966.
 
 Declara de utilidade pública a “Associação de Pais e Amigos dos Excepcionais-Clube de Saúde Doutor Mário Totta”, com sede em Caxias do Sul, Estado do Rio Grande do Sul.

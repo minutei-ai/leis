@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209020)<br>
-
 # DECRETO N° 68.249, DE 26 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no trecho entre os km 271+000m e 274+000m da Rodovia SP-333, no Município de Guarantã, e dá providências correlatas._

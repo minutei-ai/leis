@@ -1,7 +1,3 @@
-1
-
-###DEC-098993-0-000-02-03-1990@@@
-
 DECRETO Nº 98.993, DE 2 DE MARÇO DE 1990.
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “SERINGAL PELOTAS”, situado nos Municípios de Xapuri e Brasiléia, Estado do Acre, e dá outras providências.

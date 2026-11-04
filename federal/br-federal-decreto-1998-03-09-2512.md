@@ -1,5 +1,3 @@
-###DEC-002512-0-000-09-03-1998@@@
-
 DECRETO Nº 2.512, DE 9 DE MARÇO DE 1998
 
 Dispõe sobre a vinculação de entidades da Administração Pública Federal.

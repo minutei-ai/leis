@@ -1,5 +1,3 @@
-###DEC-048874-0-000-25-08-1960@@@
-
 DECRETO Nº 48.874, DE 25 DE AGÔSTO DE 1960
 
 Cria a Rêde Nacional de Divulgação Agrícola.

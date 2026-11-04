@@ -1,5 +1,3 @@
-###DEC-064116-0-000-14-02-1969@@@
-
 DECRETO Nº 64.116, DE 14 DE FEVEreIRO E 1969.
 
 Retifica o Decreto nº 50.953, de 14 de julho de 1961, a fim de alterar o aproveitamento do servidor do extinto Território Federal do Iguaçu em cargo existente no Departamento dos Correios e Telégrafos.

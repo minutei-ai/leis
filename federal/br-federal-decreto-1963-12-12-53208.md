@@ -1,5 +1,3 @@
-###DEC-053208-0-000-12-12-1963@@@
-
 DECRETO Nº 53.208, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Armando Angelim a lavrar quartzito, argila e minério de ferro no município de Pirapora do Bom Jesus, Estado de São Paulo.

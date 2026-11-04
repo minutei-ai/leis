@@ -1,5 +1,3 @@
-###DEC-072587-0-000-09-08-1973@@@
-
 DECRETO Nº 72.587, de 9 de Agosto de 1973.
 
 Confisca bem de propriedade de José João Abdalla e dá outras providências.

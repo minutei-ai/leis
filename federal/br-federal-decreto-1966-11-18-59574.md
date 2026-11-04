@@ -1,5 +1,3 @@
-###DEC-059574-0-000-18-11-1966@@@
-
 DECRETO Nº 59.574, DE 18 DE NOVEMBRO DE 1966.
 
 Concede indulto a sentenciados pela forma que menciona.

@@ -1,14 +1,12 @@
-###DEC-023332-0-000-15-07-1947@@@
+**DECRETO Nº 23.332, DE 15 DE JULHO DE 1947.**
 
-<strong>DECRETO Nº 23.332, DE 15 DE JULHO DE 1947.</strong>
+***Extingue cargos extintos.***
 
-<em><strong>Extingue cargos extintos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos n°1°, alínea *n* do Decreto-lei n°3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos n°1°, alínea <em>n</em> do Decreto-lei n°3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.<strong>1°</strong>. Ficam suprimidos cargos das seguintes carreiras do Quadro Permanente do Ministério da Educação e Saúde:
+**Art**.**1°**. Ficam suprimidos cargos das seguintes carreiras do Quadro Permanente do Ministério da Educação e Saúde:
 
 Artífice - classe D (3 cargos):
 
@@ -54,10 +52,10 @@ Trabalhador - classe B (9 cargos):
 
 Vagos em virtude da promoção de Antônia Rdrigues; Elisa silva Eufrisina Craveiro da Silva; felismina Rodrigues; Luis rodrigues da Silva; Maria dos Santos querido; Maria Tereza da silva; e Mario Costa e da aposentadoria de Cândida Costa, devendo a dotação correspondente ser levada a crédito da conta-corrente do mesmo quadro do referido Ministério.
 
-<strong>Art</strong>. 2° Revogam-se as disposições em contrário.
+**Art**. 2° Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 15 de julho de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

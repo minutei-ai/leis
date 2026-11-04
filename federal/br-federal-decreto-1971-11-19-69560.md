@@ -1,5 +1,3 @@
-###DEC-069560-0-000-19-11-1971@@@
-
 DECRETO Nº 69.560 - 19 de novembro de 1971
 
 Torna sem efeito inclusão de servidor, com o respectivo cargo, no Quadro de Pessoal - Parte Especial, do Ministério da Indústria e do Comércio.

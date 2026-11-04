@@ -1,5 +1,3 @@
-###DEC-005431-0-000-22-04-2005@@@
-
 DECRETO Nº 5.431, DE 22 DE ABRIL DE 2005
 
 Altera o inciso III do art. 155 do Decreto nº 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

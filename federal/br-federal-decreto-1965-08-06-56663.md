@@ -1,5 +1,3 @@
-###DEC-056663-0-000-06-08-1965@@@
-
 DECRETO Nº 56.663, de 6 de agôsto de 1965.
 
 Outorga à Centrais Elétricas de Goiás S/A concessão para o aproveitamento da energia hidráulica.

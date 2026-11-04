@@ -1,5 +1,3 @@
-###DEC-071832-0-000-09-02-1973@@@
-
 DECRETO Nº 71.832, DE 9 DE FEVEREIRO DE 1973.
 
 Autoriza o funcionamento dos cursos de Direito e Administração da Faculdade Anhanguera de Ciências Humanas, da Associação Goiana de Ensino, Goiás.

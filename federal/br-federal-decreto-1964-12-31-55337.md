@@ -1,5 +1,3 @@
-###DEC-055337-0-000-31-12-1964@@@
-
 DECRETO Nº 55.337, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Tito Pacheco de Figueiredo a pesquisar mica, no município de Virgolândia, Estado de Minas Gerais.

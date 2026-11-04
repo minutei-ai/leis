@@ -1,14 +1,12 @@
-###DEC-042503-0-000-25-10-1957@@@
+**DECRETO Nº 42.503, DE 25 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.503, DE 25 DE OUTUBRO DE 1957.</strong>
+***Altera o Regulamento da Escola Preparatória de Cadetes-do-Ar.***
 
-<em><strong>Altera o Regulamento da Escola Preparatória de Cadetes-do-Ar.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento da Escola Preparatória de Cadetes-do-Ar, aprovado pelo Decreto nº 30.976, de 10 de junho de 1952, fica modificado como se segue:
+**Art**. 1º O Regulamento da Escola Preparatória de Cadetes-do-Ar, aprovado pelo Decreto nº 30.976, de 10 de junho de 1952, fica modificado como se segue:
 
 I - Ao art. 3º acrescente-se o seguinte parágrafo único:
 
@@ -48,14 +46,14 @@ VII - O art. 184 passa a vigorar com a seguinte redação:
 
 “Art. 184. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica”.
 
-<strong>Art</strong>. 2º Ficam suprimidos os arts. 185, 186 e 187 do Regulamento da Escola Preparatória de Cadetes-do-Ar.
+**Art**. 2º Ficam suprimidos os arts. 185, 186 e 187 do Regulamento da Escola Preparatória de Cadetes-do-Ar.
 
-<strong>Art</strong>. 3º No ano de 1957, a instrução de vôo a que se refere o art. 183 do Regulamento da Escola Preparatória de Cadetes-do-Ar, como modificado pelo presente Decreto, poderá ser ministrada antes do término do 3º ano do curso.
+**Art**. 3º No ano de 1957, a instrução de vôo a que se refere o art. 183 do Regulamento da Escola Preparatória de Cadetes-do-Ar, como modificado pelo presente Decreto, poderá ser ministrada antes do término do 3º ano do curso.
 
-<strong>Art</strong>. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 25 de outubro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Melo

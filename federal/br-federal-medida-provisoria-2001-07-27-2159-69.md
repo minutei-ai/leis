@@ -1,5 +1,3 @@
-###MPV-002159-0-069-27-07-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.159‑69, DE 27 DE JUlHO DE 2001
 
 Altera a legislação do imposto de renda e dá outras providências.

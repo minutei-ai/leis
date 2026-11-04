@@ -1,5 +1,3 @@
-###DEC-048635-0-000-29-07-1960@@@
-
 DECRETO Nº 48.635, DE 29 DE JULHO DE 1960.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

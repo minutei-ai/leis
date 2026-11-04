@@ -1,5 +1,3 @@
-###DEC-058612-0-000-14-06-1966@@@
-
 decreto nº 58.612, de 14 de junho de 1966.
 
 Abre, pelo Ministério da Aviação e Obras Públicas, o crédito especial de Cr$925.000.000, para o fim que especifica.

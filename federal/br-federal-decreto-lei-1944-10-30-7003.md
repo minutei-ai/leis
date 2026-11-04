@@ -1,5 +1,3 @@
-###DEL-007003-0-000-30-10-1944@@@
-
 DECRETO-LEI N. 7.003 – DE 30 DE OUTUBRO DE 1.944
 
 Suprime função gratificada no Quadro Único do Ministério do Trabalho, lndústria e Comércio e dá outras providências

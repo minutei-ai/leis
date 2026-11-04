@@ -1,5 +1,3 @@
-###DEC-057289-0-000-19-11-1965@@@
-
 DECRETO Nº 57.289, DE 19 DE NOVEMBRO DE 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Cruzeiro do Sul, relativa ao aumento do capital social.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.125, DE 10 DE MARÇO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a inserção, como tema transversal, temática hepatite no currículo escolar do ensino fundamental e médio nas escolas da rede pública e privada do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a inserção, como tema transversal, temática hepatite no currículo escolar do ensino fundamental e médio nas escolas da rede pública e privada do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

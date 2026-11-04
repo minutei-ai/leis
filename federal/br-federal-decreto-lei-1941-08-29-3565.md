@@ -1,5 +1,3 @@
-###DEL-003565-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.565 – DE 29 DE AGOSTO DE 1941
 
 Cria o cargo, em comissão, padrão N, de Representante do Brasil no Conselho Administrativo da Repartição Internacional do Trabalho, em Montreal

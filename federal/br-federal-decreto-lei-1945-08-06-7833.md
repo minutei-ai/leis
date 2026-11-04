@@ -1,5 +1,3 @@
-###DEL-007833-0-000-06-08-1945@@@
-
 DECRETO-LEI N. 7.833 – DE 6 DE AGÔSTO DE 1945
 
 Incorpora ao patrimônio nacional os bens que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-000197-0-000-21-08-1991@@@
-
 DECRETO Nº 197, DE 21 DE AGOSTO DE 1991
 
 Aprova o Regimento Interno da Comissão de Aprovação de Projetos Básicos de Serviços de Publicidade.

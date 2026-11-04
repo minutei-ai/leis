@@ -1,5 +1,3 @@
-###DEL-006883-0-000-20-09-1944@@@
-
 DECRETO-LEI N. 6.883 – DE 20 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 708.000,00, à verba que especifica

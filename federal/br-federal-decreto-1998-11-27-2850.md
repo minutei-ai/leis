@@ -1,5 +1,3 @@
-###DEC-002850-0-000-27-11-1998@@@
-
 DECRETO Nº 2.850, DE 27 DE NOVEMBRO DE 1998
 
 Disciplina os procedimentos pertinentes aos depósitos judiciais e extrajudiciais, de valores de tributos e contribuições federais administrados pela Secretaria da Receita Federal, de que trata a Lei nº 9.703, de 17 de novembro de 1998.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=2657)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2001/compilacao-lei-10769-19.02.2001.html)
 
 # LEI Nº 10.769, DE 19 DE FEVEREIRO DE 2001
@@ -9,21 +8,31 @@
 
 ### _Transforma em Estância Turística o Município de Salesópolis_
 
-~~O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Fica transformado em Estância Turística o Município de Salesópolis.<br>
-**Artigo 2.º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 19 de fevereiro de 2001.<br>
-GERALDO ALCKMIN FILHO<br>
-Marcos Arbaitman<br>
-Secretário de Esportes e Turismo<br>
-João Caramez<br>
-Secretário-Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
-Publicada na Assessoria Técnico-Legislativa, aos 19 de fevereiro de 2001.~~
+~~O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Fica transformado em Estância Turística o Município de Salesópolis.
+
+**Artigo 2.º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 19 de fevereiro de 2001.
+
+GERALDO ALCKMIN FILHO
+
+Marcos Arbaitman
+
+Secretário de Esportes e Turismo
+
+João Caramez
+
+Secretário-Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
+Publicada na Assessoria Técnico-Legislativa, aos 19 de fevereiro de 2001.~~
 
 Revogada.
 

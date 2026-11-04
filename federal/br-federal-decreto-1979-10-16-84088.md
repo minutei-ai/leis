@@ -1,5 +1,3 @@
-###DEC-084088-0-000-16-10-1979@@@
-
 decreto nº 84.088, de 16 de outubro de 1979.
 
 Dispõe sobre o Cargo de Adido Militar nos Estados Unidos da América.

@@ -1,5 +1,3 @@
-###DEC-044937-0-000-01-12-1958@@@
-
 Decreto nº 44.937, de 1 de dezembro de 1958.
 
 Renova o Decreto nº 39.468, de 27 de junho de 1956.

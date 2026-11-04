@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210037)<br>
-
 # DECRETO N° 68.904, DE 23 DE SETEMBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa e desapropriação pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as áreas necessárias à instalação de um coletor tronco de esgoto, integrante do Sistema de Esgotamento Sanitário - S.E.S., no Jardim Primavera/Anhanguera, no Município de São Paulo, e dá providências correlatas._

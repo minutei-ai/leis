@@ -1,5 +1,3 @@
-###DEL-000152-0-000-10-02-1967@@@
-
 DECRETO-LEi Nº 152, DE 10 de fevereiro DE 1967
 
 Autoriza a constituição de uma sociedade de economia mista destinada a explorar os serviços de transporte marítimo na Baia da Guanabara.

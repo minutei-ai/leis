@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185090)
-
 # DECRETO Nº 63.183, DE 30 DE JANEIRO DE 2018
 
 ### _Revoga o Decreto nº 34.061 de 25 de Outubro de 1991, que autorizou a Fazenda do Estado a permitir o uso, a título precário, em favor da Prefeitura do Município de São Paulo, de área de terreno que especifica_
@@ -16,10 +14,16 @@ Palácio dos Bandeirantes, 30 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-José Renato Nalini<br>
-Secretário da Educação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+José Renato Nalini
+
+Secretário da Educação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de janeiro de 2018.

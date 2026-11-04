@@ -1,5 +1,3 @@
-###DEC-061220-0-000-22-08-1967@@@
-
 DECRETO Nº 61.220, DE 22 DE AGÔSTO DE 1967.
 
 Extingue o Consulado Honorário do Brasil em Oran, Argélia.

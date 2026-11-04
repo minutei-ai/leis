@@ -1,5 +1,3 @@
-###DEL-003132-0-000-21-03-1941@@@
-
 DECRETO-LEI N. 3.132 – DE 21 DE MARÇO DE 1941
 
 Dispõe sobre a renda, em hasta pública, da.s áreas de terrenos que menciona

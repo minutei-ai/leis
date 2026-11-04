@@ -1,5 +1,3 @@
-###DEC-070208-0-000-25-02-1972@@@
-
 DECRETO Nº 70.208, DE 25 DE fevereiro DE 1972.
 
 Declara de utilidade pública a Sociedade Universitária Gama Filho, com sede no Estado da Guanabara.

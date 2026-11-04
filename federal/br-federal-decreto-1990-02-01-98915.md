@@ -1,7 +1,3 @@
-1
-
-###DEC-098915-0-000-01-02-1990@@@
-
 DECRETO Nº 98.915, DE 1º DE FEVEREIRO de 1990
 
 Renova a concessão outorgada à RÁDIO SOCIEDADE DE FEIRA DE SANTANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Feira de Santana, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098986-0-000-02-03-1990@@@
-
 DECRETO Nº 98.986, DE 2 DE MARÇO DE 1990.
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo Regional de Abertura de Mercado em Favor do Equador (Acordo nº 2), entre o Brasil e o Equador.

@@ -1,5 +1,3 @@
-###DEC-094380-0-000-27-05-1987@@@
-
 DECRETO Nº 94.380, DE 27 DE MAIO DE 1987.
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Filosofia, Ciências e Letras de Congonhas.

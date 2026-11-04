@@ -1,5 +1,3 @@
-###DEC-077434-0-000-13-04-1976@@@
-
 Decreto nº 77.434 - de 13 de abril de 1976
 
 Declara de utilidade pública para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados no Município de Salesópolis, Mogi das Cruzes, Bom Jesus dos Perdões, Atibaia, Itatiba, Campinas e Paulinea, no Estado de São Paulo.

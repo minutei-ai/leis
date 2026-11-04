@@ -1,5 +1,3 @@
-###DEC-097483-0-000-31-01-1989@@@
-
 DECRETO N° 97.483, DE 31 DE JANEIRO DE 1989
 
 Autoriza a Companhia Brasileira de Infra-Estrutura Fazendária - INFAZ a aumentar seu capital social.

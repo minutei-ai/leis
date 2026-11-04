@@ -1,5 +1,3 @@
-###DEC-082033-0-000-25-07-1978@@@
-
 Decreto nº 82.033, de 25 de julho de 1978.
 
 Aprova o Regulamento da Diretoria de Abastecimento da Marinha.

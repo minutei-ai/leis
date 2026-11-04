@@ -1,5 +1,3 @@
-###DEC-000000-0-003-23-04-1823@@@
-
 DECRETO - DE 23 DE ABRIL DE 1823
 
 Approva os figurinos para os uniformes dos batalhões do Imperador e de caçadores desta Côrte.

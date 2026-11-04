@@ -1,5 +1,3 @@
-###DEC-048428-0-000-24-06-1960@@@
-
 DECRETO Nº 48.428, DE 24 DE JUNHO DE 1960.
 
 Revoga o Decreto nº 44.068, de 23 de julho de 1958, e dá outras providências.

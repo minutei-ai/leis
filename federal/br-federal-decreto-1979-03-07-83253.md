@@ -1,5 +1,3 @@
-###DEC-083253-0-000-07-03-1979@@@
-
 Decreto nº 83.253, de 07 de março de 1979
 
 Declara sem efeito o Decreto nº 33.975, de 30 de setembro de 1953, que autorizou a Companhia Industrial Belo Horizonte a lavrar calcário no Município de Pedro Leopoldo, Estado de Minas Gerais.

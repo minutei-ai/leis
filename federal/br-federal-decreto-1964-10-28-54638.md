@@ -1,5 +1,3 @@
-###DEC-054638-0-000-28-10-1964@@@
-
 Decreto nº 54.638, de 28 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Antonio Mendes a pesquisar argila e areia quartzosa, no município de São Gonçalo do Abaeté, Estado de Minas Gerais.

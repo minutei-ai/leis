@@ -1,5 +1,3 @@
-###DEC-067231-0-000-22-09-1970@@@
-
 DECRETO Nº 67.231, DE 22 DE SETEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura cargo originário do Instituto Brasileiro de Desenvolvimento Florestal - Autarquia Federal.

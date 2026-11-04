@@ -1,14 +1,12 @@
-###DEC-040748-0-000-15-01-1957@@@
+**DECRETO Nº 40.748, DE 15 DE JANEIRO DE 1957.**
 
-<strong>DECRETO Nº 40.748, DE 15 DE JANEIRO DE 1957.</strong>
+***Altera o Regimento do Departamento Nacional de Estradas de Ferro, do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Altera o Regimento do Departamento Nacional de Estradas de Ferro, do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regimento do Departamento Nacional de Estradas de Ferro, aprovado pelo Decreto número 20.351, de 8 de janeiro de 1946, fica assim alterado:
+**Art**. 1º O Regimento do Departamento Nacional de Estradas de Ferro, aprovado pelo Decreto número 20.351, de 8 de janeiro de 1946, fica assim alterado:
 
 I) O item V do art. 1º passa a vigorar com a seguinte redação:
 
@@ -80,10 +78,10 @@ VII - apresentar, anualmente, ao Diretor a que estiver subordinado, o relatório
 
 “Parágrafo único. Aos Chefes dos Dt. F. compete ainda promover e participar das tomadas de contas das estradas de ferro sob a fiscalização do Distrito e proceder ao exame da escrita das emprêsas que as exploram, sempre que entender conveniente, comunicando à D. C. I. qualquer anormalidade encontrada”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 15 de janeiro de 1957; 156º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira

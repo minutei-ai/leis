@@ -1,5 +1,3 @@
-###DEL-009088-0-000-25-03-1946@@@
-
 DECRETO-LEI N. 9.088 – DE 25 DE MARÇO DE 1946
 
 Suprime funções gratificadas no Tribunal de Contas, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-071850-0-000-19-02-1973@@@
-
 DECRETO Nº 71.850, DE 19 DE FEVEREIRO DE 1973.
 
 Conde reconhecimento ao curso de Administração de Empresas, da Faculdade de Ciências Políticas e Econômicas do Rio de Janeiro, mantida pela Sociedade Brasileira de Instrução, GB.

@@ -1,5 +1,3 @@
-###DEC-052922-0-000-25-11-1963@@@
-
 Decreto nº 52.922, de 25 de novembro de 1963.
 
 Retifica e ratifica consolidando os Decretos ns. 45.737, 45.738 e 45.739, todos os de 6 de abril de 1959.

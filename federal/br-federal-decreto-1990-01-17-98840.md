@@ -1,7 +1,3 @@
-1
-
-###DEC-098840-0-000-17-01-1990@@@
-
 DECRETO Nº 98.840, DE 17 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Instituto de Ciências Sociais do Paraná.

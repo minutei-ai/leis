@@ -1,5 +1,3 @@
-###DEC-091724-0-000-30-09-1985@@@
-
 Decreto Nº 91.724, de 30 de setembro de 1985.
 
 Regulamenta a Lei nº 7.374, de 30 de setembro de 1985, que dispõe sobre vantagem pecuniária, de caráter transitório, atribuída a Ministro de Estado, e dá outras providências.

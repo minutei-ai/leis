@@ -14,14 +14,13 @@ Art. 1º O [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legi
 
 Art. 2º O Anexo Único do [Decreto nº 9.833](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103900/decreto-9833), de 18 de março de 2021, que define o quantitativo da Gratificação de Dedicação Plena e Integral – GDPI passa a vigorar com as informações constantes do Anexo I deste Decreto.
 
-~~Art. 3º O quantitativo das funções comissionadas previstas na Tabela 2 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, ficam dispostas nos termos do Anexo II deste Decreto.~~<br>
+~~Art. 3º O quantitativo das funções comissionadas previstas na Tabela 2 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, ficam dispostas nos termos do Anexo II deste Decreto.~~
+
 \- [Revogado pelo Decreto nº 10.382, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382) , Art. 19, II.
 
 Art. 4º Este Decreto entra em vigor na data de sua publicação, observado o disposto no parágrafo único do art. 13 da [Lei nº 21.316](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105421/lei-21316), de 4 de maio de 2022.
 
 Goiânia, 4 de maio de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 
@@ -43,7 +42,8 @@ QUANTITATIVO DA GRATIFICAÇÃO DE DEDICAÇÃO PLENA E INTEGRAL – GDPI
 | GDPI D | Dinamizador de Biblioteca, Laboratorista e Higienizador | 40 horas | 666 | R$ 300,00 |
 | GDPI D1 | Dinamizador de Biblioteca, Laboratorista e Higienizador | 30 horas | 100 | R$ 225,00 |
 
-ANEXO II<br>
+ANEXO II
+
 \- [Revogado pelo Decreto nº 10.382, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382) , Art. 19, II.
 
 |

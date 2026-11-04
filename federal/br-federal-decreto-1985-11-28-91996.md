@@ -1,5 +1,3 @@
-###DEC-091996-0-000-28-11-1985@@@
-
 DECRETO Nº 91.996, DE 28 DE NOVEMBRO DE 1985.
 
 Veda a construção, a aquisição ou a locação de imóveis residenciais localizados fora do Distrito Federal, por órgãos da Administração Federal e pelas empresas estatais referidas no art. 2º, do Decreto nº 84.128, de 29 de outubro de 1979, e dá outras providências.

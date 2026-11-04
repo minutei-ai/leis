@@ -1,5 +1,3 @@
-###DEC-057014-0-000-11-10-1965@@@
-
 DECRETO Nº 57.014, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza José Brandão Torres a pesquisar quartzo no município de Castro Alves, Estado da Bahia.

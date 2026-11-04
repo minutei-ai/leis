@@ -1,7 +1,3 @@
-1
-
-###DEC-002026-0-000-10-10-1996@@@
-
 DECRETO Nº 2.026, DE 10 DE OUTUBRO DE 1996.
 
 Estabelece procedimentos para o processo e avaliação dos cursos e instituições de ensino superior.

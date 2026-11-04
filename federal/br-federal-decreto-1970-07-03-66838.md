@@ -1,5 +1,3 @@
-###DEC-066838-0-000-03-07-1970@@@
-
 DECRETO Nº 66.838, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a União Espírita Sergipana, com sede em Aracaju, Estado de Sergipe.

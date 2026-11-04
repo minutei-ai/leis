@@ -1,5 +1,3 @@
-###DEC-094450-0-000-16-06-1987@@@
-
 DECRETO Nº 94.450, DE 16 DE JUNHO DE 1987
 
 Modifica o Estatuto da Casa da Moeda do Brasil.

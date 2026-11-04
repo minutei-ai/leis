@@ -15,7 +15,3 @@ Palácio da Liberdade, Belo Horizonte, aos 31 de julho de 1941.
 BENEDITO VALADARES RIBEIRO
 
 Francisco Balbino Noronha Almeida
-
-\===============================
-
-Data da última atualização: 04/09/2006.

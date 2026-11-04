@@ -1,5 +1,3 @@
-###DEC-053816-0-000-23-03-1964@@@
-
 decreto nº 53.816, de 23 de março de 1964.
 
 Dá nova redação aos artigos 4º e 6º do Decreto nº 34.453, de 4 de novembro de 1953.

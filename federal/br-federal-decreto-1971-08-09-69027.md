@@ -1,5 +1,3 @@
-###DEC-069027-0-000-09-08-1971@@@
-
 decreto nº 69.027, de 9 de AGÔSTO de 1971.
 
 Declara de utilidade pública a sociedade Obras Sociais da Paróquia Santo Inácio de Loyola, com sede em Belo Horizonte, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098062-0-000-17-08-1989@@@
-
 DECRETO Nº 98.062, DE 17 DE AGOSTO DE 1989
 
 Dispõe sobre a regulamentação da Lei nº 7.802, de 11 de julho de 1989, que trata de agrotóxicos e afins, e dá outras providências.

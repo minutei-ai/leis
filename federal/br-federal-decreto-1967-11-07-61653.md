@@ -1,5 +1,3 @@
-###DEC-061653-0-000-07-11-1967@@@
-
 Decreto nº 61.653, de 7 de novembro de 1967.
 
 Inclui, na Parte Suplementar do Quadro Provisório de Pessoal da Fundação Brasil Central, um cargo de Telegrafista, Código CT-207.16.C.

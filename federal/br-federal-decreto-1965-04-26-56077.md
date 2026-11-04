@@ -1,5 +1,3 @@
-###DEC-056077-0-000-26-04-1965@@@
-
 DECRETO Nº 56.077, DE 26 DE ABRIL DE 1965.
 
 Revoga o Decreto nº 52.800, de 4 de novembro de 1963 e revigora o Decreto nº 32.742, de7 de maio de 1953.

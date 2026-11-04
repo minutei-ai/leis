@@ -1,5 +1,3 @@
-###DEC-055079-0-000-25-11-1964@@@
-
 DECRETO Nº 55.079, DE 25 DE NOVEMBRO DE 1964.
 
 Declaro incorporado ao Patrimônio Nacional o imóvel que menciona, situado no Município de São Borja, Estado do Rio Grande do Sul.

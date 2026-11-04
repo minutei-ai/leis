@@ -1,5 +1,3 @@
-###DEC-046345-0-000-01-07-1959@@@
-
 DECRETO Nº 46.345, DE 1 DE JULHO DE 1959.
 
 Introduz modificação no Regulamento de Uniformes do Pessoal do Exército.

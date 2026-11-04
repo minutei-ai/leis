@@ -1,5 +1,3 @@
-###DEC-007588-0-000-21-10-2011-PUB-01@@@
-
 DECRETO Nº 7.588, DE 21 DE OUTUBRO DE 2011
 
 Altera o Anexo ao Decreto nº 7.441, de 16 de fevereiro de 2011, que dispõe sobre a distribuição do efetivo de Oficiais dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica, em tempo de paz, para 2011.

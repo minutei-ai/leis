@@ -1,5 +1,3 @@
-###DEC-094078-0-000-05-03-1987@@@
-
 DECRETO N° 94.078, DE 5 DE MARÇO DE 1987
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Humanas e Sociais Padre Humberto.

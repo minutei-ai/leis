@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bd4eb883-16ee-4042-b336-b000ce33ddbd/texto#nowhere)
 
-###DEL-000826-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 826, DE 5 DE SEtemBRO DE 1969
 
 Dá nova redação à alínea “j” do artigo 20 do Decreto-lei nº 73, de 21 de novembro de 1966.

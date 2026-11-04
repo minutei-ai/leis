@@ -1,5 +1,3 @@
-###DEC-059078-0-000-21-08-1966@@@
-
 DECRETO N° 59.078, DE 21 DE AGôSTO DE 1966.
 
 Aprova o Regimento da Administração do Edifício da Fazenda.

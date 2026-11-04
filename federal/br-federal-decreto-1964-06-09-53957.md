@@ -1,5 +1,3 @@
-###DEC-053957-0-000-09-06-1964@@@
-
 DECRETO Nº 53.957, DE 9 DE JUNHO DE 1964.
 
 Institui o Conselho de Coordenação e Planejamento do Ministério da Viação e Obras Públicas e dá outras providências.

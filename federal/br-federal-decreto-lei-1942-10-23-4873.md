@@ -1,5 +1,3 @@
-###DEL-004873-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.873 – DE 23 DE OUTUBRO DE 1942
 
 Dispõe sobre o escoamento da safra cafeeira de 1942-1943 e dá outras providências

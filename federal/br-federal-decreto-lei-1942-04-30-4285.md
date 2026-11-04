@@ -1,5 +1,3 @@
-###DEL-004285-0-000-30-04-1942@@@
-
 DECRETO-LEI N. 4.285 – DE 30 DE ABRIL DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 1:080$0 para pagamento de gratificação adicional.

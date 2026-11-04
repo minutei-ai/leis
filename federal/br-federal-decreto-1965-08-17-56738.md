@@ -1,5 +1,3 @@
-###DEC-056738-0-000-17-08-1965@@@
-
 DECRETO Nº 56.738, DE 17 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro, Raul Milanez a pesquisar calcário, no município de Capão Bonito, Estado de São Paulo.

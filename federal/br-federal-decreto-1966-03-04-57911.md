@@ -1,5 +1,3 @@
-###DEC-057911-0-000-04-03-1966@@@
-
 decreto nº 57.911, de 4 de março de 1966.
 
 Outorga à Emprêsa Distribuidora de Energia em Sergipe S. A. concessão para distribuir energia elétrica.

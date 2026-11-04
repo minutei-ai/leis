@@ -1,5 +1,3 @@
-###DEC-003831-0-000-01-06-2001@@@
-
 DECRETO Nº 3.831, DE 1º DE JUNHO DE 2001
 
 Promulga o Acordo, por troca de Notas, entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para o Fornecimento de Material de Defesa Norte‑Americano, celebrado em Washington, em 2 de junho de 2000.

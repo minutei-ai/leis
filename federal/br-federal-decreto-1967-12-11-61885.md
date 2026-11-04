@@ -1,5 +1,3 @@
-###DEC-061885-0-000-11-12-1967@@@
-
 decreto Nº 61.885, de 11 de dezembro de 1967.
 
 Declara de utilidade pública a “Escola Profissional de Delfim Moreira”, com sede em Pouso Alegre, Estado de Minas Gerais.

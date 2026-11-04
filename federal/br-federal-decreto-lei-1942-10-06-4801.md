@@ -1,5 +1,3 @@
-###DEL-004801-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.801 – DE 6 DE OUTUBRO DE 1942
 
 Dispõe sobre o ano escolar na Escola Nacional de Minas e Metalurgia

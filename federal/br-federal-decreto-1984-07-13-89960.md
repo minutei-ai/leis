@@ -1,5 +1,3 @@
-###DEC-089960-0-000-13-07-1984@@@
-
 Decreto nº 89.960, de 13 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação o imóvel rural constituído de parte da "Gleba Olho d'Água dos Grilos", situado nos Municípios de São Luiz Gonzaga e Lima Campos, no Estado do Maranhão, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 19 de março de 1972, alterado pelos Decretos nºs 71.195, de 4 de outubro de 1972, 79.286, de 16 de fevereiro de 1977 e 87.095, de 16 de abril de 1982.

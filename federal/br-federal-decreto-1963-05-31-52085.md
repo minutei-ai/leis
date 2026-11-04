@@ -1,5 +1,3 @@
-###DEC-052085-0-000-31-05-1963@@@
-
 DECRETO Nº 52.085, DE 31 DE MAIO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terreno situada na cidade de Sorocaba, Estado de São Paulo, necessária ao Ministério da Guerra.

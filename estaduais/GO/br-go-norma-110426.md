@@ -30,20 +30,32 @@ ANEXO ÚNICO
 
 |   **Nº** | FUNÇÃO TEMPORÁRIA | QUANTITATIVO | CARGA HORÁRIA SEMANAL | VENCIMENTO | ATRIBUIÇÕES | REQUISITOS |
 | --- | --- | --- | --- | --- | --- | --- |
-|         1 | Advogado | 1 | 40 horas | R$ 6.186,20 | 1 – Auxiliar na elaboração de manifestações jurídicas e na produção de atos normativos;<br>
-2 – controlar as informações em sistemas jurídicos;<br>
-3 – auxiliar a análise de documentos, contratos, acordos e processos, quanto aos aspectos administrativo, operacional e jurídico; e<br>
+|         1 | Advogado | 1 | 40 horas | R$ 6.186,20 | 1 – Auxiliar na elaboração de manifestações jurídicas e na produção de atos normativos;
+
+2 – controlar as informações em sistemas jurídicos;
+
+3 – auxiliar a análise de documentos, contratos, acordos e processos, quanto aos aspectos administrativo, operacional e jurídico; e
+
 4 – realizar atividades correlatas.   | Diploma de conclusão de ensino superior em Direito expedido por instituição devidamente reconhecida pelo MEC. |
-|       2 | Arquiteto Urbanista | 3 | 40 horas | R$ 8.000,00 | 1 – Elaborar projetos conceituais e executivos de arquitetura com acessibilidade;<br>
-2 – analisar processos administrativos de arquitetura e correlatos;<br>
-3 – acompanhar a execução de obras; e<br>
+|       2 | Arquiteto Urbanista | 3 | 40 horas | R$ 8.000,00 | 1 – Elaborar projetos conceituais e executivos de arquitetura com acessibilidade;
+
+2 – analisar processos administrativos de arquitetura e correlatos;
+
+3 – acompanhar a execução de obras; e
+
 4 – realizar atividades correlatas.   | Diploma de conclusão de ensino superior em Arquitetura expedido por instituição devidamente reconhecida pelo MEC. |
-|           3 | Engenheiro Civil | 4 | 40 horas | R$ 8.000,00 | 1 – Elaborar projetos de engenharia;<br>
-2 – executar orçamentos;<br>
-3 – fiscalizar a execução de obras de engenharia civil;<br>
-4 – realizar medições de serviços executados;<br>
-5 – elaborar estudos e tabelas de custos referenciais de serviços;<br>
-6 – analisar processos administrativos de engenharia civil; e<br>
+|           3 | Engenheiro Civil | 4 | 40 horas | R$ 8.000,00 | 1 – Elaborar projetos de engenharia;
+
+2 – executar orçamentos;
+
+3 – fiscalizar a execução de obras de engenharia civil;
+
+4 – realizar medições de serviços executados;
+
+5 – elaborar estudos e tabelas de custos referenciais de serviços;
+
+6 – analisar processos administrativos de engenharia civil; e
+
 7 – realizar atividades correlatas.   | Diploma de conclusão de ensino superior em Engenharia Civil expedido por instituição devidamente reconhecida pelo MEC. |
 |   | **Total** | **8** |   |
 

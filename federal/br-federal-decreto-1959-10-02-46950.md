@@ -1,5 +1,3 @@
-###DEC-046950-0-000-02-10-1959@@@
-
 DECRETO Nº 46.950, DE 2 DE OUTUBRO DE 1959.
 
 Transfere de Marcos Malucelli e Irmãos Ltda., para a Companhia Paranaense de Energia Elétrica a concessão para a distribuição de energia elétrica no município de Morretes, Estado do Paraná.

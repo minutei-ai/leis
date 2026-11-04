@@ -1,5 +1,3 @@
-###DEC-047095-0-000-26-10-1959@@@
-
 Decreto nº 47.095, de 26 de outubro de 1959.
 
 Concede à Emprêsa de Navegação Aliança Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

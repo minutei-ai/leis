@@ -1,5 +1,3 @@
-###DEC-071855-0-000-19-02-1973@@@
-
 DECRETO Nº 71.855, DE 19 DE FEVEREIRO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

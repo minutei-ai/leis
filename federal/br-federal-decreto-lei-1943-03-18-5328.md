@@ -1,5 +1,3 @@
-###DEL-005328-0-000-18-03-1943@@@
-
 DECRETO‑LEI N. 5.328 – DE 18 DE MARÇO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 500.000,00 para regularização de juros de depósitos da Caixa Econômica Federal de São Paulo

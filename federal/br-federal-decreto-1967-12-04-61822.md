@@ -1,5 +1,3 @@
-###DEC-061822-0-000-04-12-1967@@@
-
 Decreto nº 61.822, de 4 de dezembro de 1967.
 
 Declara de utilidade pública a “Associação de São Vicente de Paulo de Fortaleza”, com sede em Fortaleza, Estado do Ceará.

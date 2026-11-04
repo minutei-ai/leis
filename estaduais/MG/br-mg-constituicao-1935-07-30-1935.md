@@ -861,7 +861,3 @@ Philippe Balbi
 Pe. Simphronio Augusto de Castro
 
 Tristão da Cunha
-
-\===================
-
-Data da última atualização: 3/9/2007.

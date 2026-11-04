@@ -1,5 +1,3 @@
-###DEC-075440-0-000-03-03-1975@@@
-
 DECRETO Nº 75.440, DE 3 DE MARÇO DE 1975.
 
 Concede autorização às empresas Delta Marine Drilling Company e Perbrás - Empresa Brasileira de Perfurações Ltda. para executarem trabalhos de perfurações de poços na plataforma continental, a serviço da petróleo Brasileiro S. A. - PETROBRÁS.

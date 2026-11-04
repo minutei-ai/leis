@@ -1,5 +1,3 @@
-###DEC-082766-0-000-29-11-1978@@@
-
 Decreto nº 82 766, de 29 de novembro de 1978.
 
 Declara sem efeito o Decreto nº 37.638, de 25 de julho de 1955, que autorizou a Companhia Cimento Brasileiros a lavrar argila no então Município de São Leopoldo, atualmente Município de Esteio, Estado do Rio Grande do Sul.

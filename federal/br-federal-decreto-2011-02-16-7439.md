@@ -1,5 +1,3 @@
-###DEC-007439-0-000-16-02-2011-PUB-01@@@
-
 DECRETO Nº 7.439, DE 16 DE FEVEREIRO DE 2011
 
 Autoriza o aumento do capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e da Caixa Econômica Federal - CEF e dá outras providências.

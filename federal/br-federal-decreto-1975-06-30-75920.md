@@ -1,5 +1,3 @@
-###DEC-075920-0-000-30-06-1975@@@
-
 DECRETO Nº 75.920, DE 30 DE JUNHO DE 1975.
 
 Autoriza o funcionamento da Escola Superior de Ciências Contábeis e Administrativas, mantida pela Fundação Educacional de Criciúma, com sede na Cidade de Criciúma, Estado de Santa Catarina.

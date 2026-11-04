@@ -1,5 +1,3 @@
-###DEC-071770-0-000-26-01-1973@@@
-
 DECRETO Nº 71.770, DE 26 DE JANEIRO DE 1973.
 
 Dispõe sobre a destinação, no exercício de 1973, dos recursos para a execução do Programa de Redistribuição de Terras e Estímulo à Agroindústria do Norte e Nordeste (PROTERRA).

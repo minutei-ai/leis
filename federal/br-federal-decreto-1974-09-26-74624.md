@@ -1,5 +1,3 @@
-###DEC-074624-0-000-26-09-1974@@@
-
 Decreto nº 74.624, de 26 de setembro de 1974.
 
 Altera dispositivo do Decreto número 53.937, de 29 de maio de 1964, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares, Navais e Aeronáuticos junto às Representações diplomáticas no exterior e dá outras providências.

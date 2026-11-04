@@ -1,5 +1,3 @@
-###DEL-007088-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.088 – DE 27 DE NOVEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a vender, em concorrência pública, o imóvel que menciona

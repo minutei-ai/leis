@@ -1,5 +1,3 @@
-###DEC-049784-0-000-31-12-1960@@@
-
 DECRETO Nº 49.784, DE 31 DE dezembro DE 1960.
 
 Concede à Sociedade Industrial União Ltda., autorização para funcionar como empresa de mineração.

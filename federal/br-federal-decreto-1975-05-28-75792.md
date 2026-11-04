@@ -1,5 +1,3 @@
-###DEC-075792-0-000-28-05-1975@@@
-
 Decreto nº 75.792, de 28 de maio de 1975.
 
 Concede reconhecimento aos cursos de Administração e de Serviço Social do Instituto Superior de Ciências Aplicadas, mantido pela Associação Limeirense de Educação "ALIE", com sede na cidade de Limeira, Estado de São Paulo.

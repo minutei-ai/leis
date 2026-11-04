@@ -1,5 +1,3 @@
-###DEL-006437-0-000-26-04-1944@@@
-
 DECRETO-LEI N. 6.437 – DE 26 DE ABRIL DE 1944
 
  Concede franquia postal

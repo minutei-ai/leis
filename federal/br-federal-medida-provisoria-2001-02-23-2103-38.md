@@ -1,5 +1,3 @@
-###MPV-002103-0-038-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.103-38, DE 23 DE FEVEREIRO DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085977-0-000-05-05-1981@@@
-
 Decreto nº 85.977, de 05 de maio de 1981.
 
 Autoriza o funcionamento do curso de Secretariado Executivo, do Centro Integrado para Formação de Executivos-C.I.F.E., com sede na cidade de Natal, Estado do Rio Grande do Norte.

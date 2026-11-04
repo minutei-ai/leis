@@ -1,5 +1,3 @@
-###LCP-000119-0-000-19-10-2005@@@
-
 LEI COMPLEMENTAR Nº 119, DE 19 DE OUTUBRO DE 2005
 
 Acrescenta inciso ao art. 3o da Lei Complementar no 79, de 7 de janeiro de 1994, que "cria o Fundo Penitenciário Nacional - FUNPEN e dá outras providências", para incluir a manutenção das casas de abrigo.

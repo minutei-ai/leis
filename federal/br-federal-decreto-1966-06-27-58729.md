@@ -1,5 +1,3 @@
-###DEC-058729-0-000-27-06-1966@@@
-
 DECRETO Nº 58.729, DE 27 DE JUNHO DE 1966.
 
 Renova o decreto nº 53.193 de 11 de dezembro de 1963.

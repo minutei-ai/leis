@@ -1,5 +1,3 @@
-###DEC-052621-0-000-08-10-1963@@@
-
 DECRETO Nº 52.621, DE 8 DE OUTUBRO DE 1963.
 
 Outorga ao Estado do Paraná concessão para aproveitamento da energia hidráulica de um desnível denominado salto Santa Terezinha, existente no curso d’agua Melissa, situado na divisa dos municípios de Cascavel e Corbélia.

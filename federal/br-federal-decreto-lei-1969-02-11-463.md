@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/98793689-2f74-4e50-bc01-1e74396d7799/texto#nowhere)
 
-###DEL-000463-0-000-11-02-1969@@@
-
 DECRETO-LEI Nº 463, DE 11 DE FEVEREIRO DE 1969
 
 Dispõe sôbre a cessão, a Universidades e estabelecimentos isolados de ensino superior, de equipamentos adquiridos pela União.

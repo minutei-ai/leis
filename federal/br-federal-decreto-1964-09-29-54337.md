@@ -1,5 +1,3 @@
-###DEC-054337-0-000-29-09-1964@@@
-
 DECRETO Nº 54.337, DE 29 DE SETEMBRO DE 1964.
 
 Transfere da Prefeitura Municipal de Campo Belo para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica nos Municípios de Campo Belo e Santana do Jacaré, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-009464-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.464 –  DE 15 DE JULHO DE 1946
 
 Dispõe sôbre transferência  de verba no Ministério da Educação e Saúde.

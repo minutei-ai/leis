@@ -1,5 +1,3 @@
-###DEC-072094-0-000-17-04-1973@@@
-
 DECRETO Nº 72.094, DE 17 DE ABRIL DE 1973.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

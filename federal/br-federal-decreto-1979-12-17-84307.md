@@ -1,5 +1,3 @@
-###DEC-084307-0-000-17-12-1979@@@
-
 Decreto nº 84.307, de 17 de dezembro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, nos Estados do Paraná e Santa Catarina.

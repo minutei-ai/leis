@@ -1,5 +1,3 @@
-###DEC-064334-0-000-09-04-1969@@@
-
 DECRETO Nº 64.334, DE 9 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 23.681 de 16 de setembro de 1947.

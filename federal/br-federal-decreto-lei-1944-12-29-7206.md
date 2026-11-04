@@ -1,5 +1,3 @@
-###DEL-007206-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.206 – DE 29 DE DEZEMBRO DE 1944
 
 Autoriza o arrendamento da Estrada de Ferro Bragança ao Estado do Pará

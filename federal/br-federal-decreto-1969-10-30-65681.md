@@ -1,16 +1,14 @@
-###DEC-065681-0-000-30-10-1969@@@
+**DECRETO Nº 65.681, DE 30 DE OUTUBRO DE 1969.**
 
-<strong>DECRETO Nº 65.681, DE 30 DE OUTUBRO DE 1969.</strong>
+***Dispõe sôbre o enquadramento dos pesquisadores da Universidade Federal do Rio de Janeiro.***
 
-<em><strong>Dispõe sôbre o enquadramento dos pesquisadores da Universidade Federal do Rio de Janeiro.</strong></em>
+**OS MINISTROS DA MARINHA DE GUERRA**, **DO EXÉRCITO E DA AERONÁUTICA MILITAR**, usando das atribuições que lhes confere o artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição, e tendo em vista o que dispõe o Decreto-lei nº 929, de 10 de outubro de 1969,
 
-<strong>OS MINISTROS DA MARINHA DE GUERRA</strong>, <strong>DO EXÉRCITO E DA AERONÁUTICA MILITAR</strong>, usando das atribuições que lhes confere o artigo 3º do Ato Institucional nº 16, de 14 de outubro de 1969, combinado com o artigo 83, item II, da Constituição, e tendo em vista o que dispõe o Decreto-lei nº 929, de 10 de outubro de 1969,
+**DECRETAM:**
 
-<strong>DECRETAM:</strong>
+**Art**. 1º Fica aprovado o enquadramento dos pesquisadores da Universidade Federal do Rio de Janeiro, conforme relação nominal que menciona, nos têrmos dos parágrafos 1º e 2º do artigo 1º e, artigo 2º, letras *“a”* e *“b”* do Decreto-lei nº 929, de 10 de outubro de 1969;
 
-<strong>Art</strong>. 1º Fica aprovado o enquadramento dos pesquisadores da Universidade Federal do Rio de Janeiro, conforme relação nominal que menciona, nos têrmos dos parágrafos 1º e 2º do artigo 1º e, artigo 2º, letras <em>“a”</em> e <em>“b”</em> do Decreto-lei nº 929, de 10 de outubro de 1969;
-
-<strong>QUADRO DE PESSOAL - PARTE PERMANENTE</strong>
+**QUADRO DE PESSOAL - PARTE PERMANENTE**
 
 Classe: Professor Adjunto
 
@@ -164,7 +162,7 @@ Código: EC-501. (Especial)
 
 29 cargos
 
-(Art. 2º alínea <em>a</em>)
+(Art. 2º alínea *a*)
 
 1\. Alceu Lemos de Castro
 
@@ -230,7 +228,7 @@ Código: EC-502.22
 
 12 cargos
 
-(Artigo 2º alínea <em>b</em>)
+(Artigo 2º alínea *b*)
 
 1\. Aydil Grave de Andrade
 
@@ -256,7 +254,7 @@ Código: EC-502.22
 
 12\. Tarcisio Tôrres Messias
 
-Enquadramento de Pesquisadores, cujas situações não se ajustam ao disposto nas alíneas <em>a</em> e <em>b</em> do artigo 2º do Decreto lei nº 929, de 10 de outubro de 1969.
+Enquadramento de Pesquisadores, cujas situações não se ajustam ao disposto nas alíneas *a* e *b* do artigo 2º do Decreto lei nº 929, de 10 de outubro de 1969.
 
 Classe: Professor Assistente
 
@@ -292,17 +290,17 @@ Código: EC-503.20
 
 14\. Roque de Barros Laraia
 
-<strong>Art</strong>. 2º O Órgão de Pessoal da Universidade, apostilará o titulo do funcionário abrangido por êste decreto ou o expedirá ao que não o possuir.
+**Art**. 2º O Órgão de Pessoal da Universidade, apostilará o titulo do funcionário abrangido por êste decreto ou o expedirá ao que não o possuir.
 
-<strong>Art</strong>. 3º O enquadramento a que se refere êste decreto vigora a partir de 13 de outubro de 1969, e não homologa situação funcional que venha a ser considerada nula, ilegal ou contrária às normas administrativas em vigor.
+**Art**. 3º O enquadramento a que se refere êste decreto vigora a partir de 13 de outubro de 1969, e não homologa situação funcional que venha a ser considerada nula, ilegal ou contrária às normas administrativas em vigor.
 
-<strong>Art</strong>. 4º A despesa com a execução dêste decreto será atendida pelos recursos próprios da Universidade Federal do Rio de Janeiro.
+**Art**. 4º A despesa com a execução dêste decreto será atendida pelos recursos próprios da Universidade Federal do Rio de Janeiro.
 
-<strong>Art</strong>. 5º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 30 de outubro de 1969; 148º da Independência e 81º da República.
 
-<strong>AUGUSTO HAMANN RADEMAKER GRÜNEWALD</strong>
+**AUGUSTO HAMANN RADEMAKER GRÜNEWALD**
 
 Aurélio de Lyra Tavares
 

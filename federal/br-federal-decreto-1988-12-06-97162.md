@@ -1,5 +1,3 @@
-###DEC-097162-0-000-06-12-1988@@@
-
 DECRETO Nº 97.162, DE 6 DE DEZEMBRO DE 1988
 
 Prorroga o prazo de vigência do Decreto nº 95.682, de 28 de janeiro de 1988, e dá outras providências.

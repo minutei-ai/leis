@@ -1,5 +1,3 @@
-###DEC-068713-0-000-04-06-1971@@@
-
 DECRETO Nº 68.713 - de 4 de junho de 1971.
 
 Autoriza o funcionamento da Faculdade de Educação "Princesa Isabel", com Cursos de Orientação Educacional (1° e 2° graus), Magistério dos Cursos Normais e de Administração Escolar (1° e 2°), SP.

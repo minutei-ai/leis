@@ -1,5 +1,3 @@
-###DEL-000724-0-000-31-07-1969@@@
-
 DECRETO-LEI Nº 724, de 31 de julho de 1969
 
 Autoriza o govêrno do Estado de Minas Gerais a contratar empréstimo externo com o Banco Interamericano de Desenvolvimento.

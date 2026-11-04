@@ -1,5 +1,3 @@
-###DEC-055463-0-000-05-01-1965@@@
-
 decreto nº 55.463, de 5 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Genôr Maragno a lavrar fluorita, no Município de Tubarão, Estado de Santa Catarina.

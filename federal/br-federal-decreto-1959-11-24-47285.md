@@ -1,5 +1,3 @@
-###DEC-047285-0-000-24-11-1959@@@
-
 DECRETO Nº 47.285, DE 24 DE NOVEMBRO DE 1959.
 
 Altera o Decreto nº 29.433, de 4 de abril de 1951, e dá outras providências.

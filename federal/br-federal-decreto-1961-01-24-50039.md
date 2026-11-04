@@ -1,5 +1,3 @@
-###DEC-050039-0-000-24-01-1961@@@
-
 DECRETO Nº 50.039, DE 24 DE JANEIRO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Boavista de Seguros.

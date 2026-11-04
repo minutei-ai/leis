@@ -1,5 +1,3 @@
-###DEC-083985-0-000-18-09-1979@@@
-
 Decreto nº 83.985, de 18 de setembro de 1979.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia - COELBA concessão para o aproveitamento da energia hidráulica de um trecho do rio Corrente, no Município de Correntina, Estado da Bahia.

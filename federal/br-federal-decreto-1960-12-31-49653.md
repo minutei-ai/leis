@@ -1,5 +1,3 @@
-###DEC-049653-0-000-31-12-1960@@@
-
 DECRETO Nº 49.653, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Paulo Mendes Marques a pesquisar calcário no município de Itararé, Estado de São Paulo.

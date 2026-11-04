@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212016)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2025/compilacao-lei-18368-15.12.2025.html)
 
 # LEI N° 18.368, DE 15 DE DEZEMBRO DE 2025
@@ -13,7 +12,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Política de Assistência Social no Estado
 
 **Artigo 1° -** A Política de Assistência Social no Estado de São Paulo será organizada e gerenciada pela Secretaria de Desenvolvimento Social de forma compartilhada e em cooperação com os demais entes federados.
@@ -62,10 +62,12 @@ IX - gestão integrada e compartilhada do Sistema Único de Assistência Social 
 
 X - padronização da identidade visual e da simbologia do Sistema Único de Assistência Social - SUAS, em conformidade com a legislação federal, de modo a assegurar a unicidade do sistema e a transparência na aplicação dos recursos públicos.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Gestão e Organização da Política de Assistência Social no Estado
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Proteção Social
 
 **Artigo 4° -** A proteção social, de que tratam os artigos 6°-A e seguintes da Lei federal n° 8.742, de 7 de dezembro de 1993, compreende as seguintes ofertas:
@@ -102,7 +104,8 @@ II - proteção social especial: conjunto de serviços, programas e projetos que
 
 **Parágrafo único -** O incentivo a projetos de enfrentamento da pobreza e da desigualdade social e territorial assentar-se-á em mecanismos de articulação e de participação de diferentes áreas governamentais e em sistema de cooperação entre organismos governamentais, não governamentais e da sociedade civil.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Unidades de Referência de Assistência Social
 
 **Artigo 11 -** O Centro de Referência de Assistência Social - CRAS é a unidade pública municipal localizada preferencialmente em territórios com maiores índices de vulnerabilidade, desproteção social e risco social, destinada à proteção social básica e à promoção da atenção direta ao indivíduo e sua família.
@@ -111,21 +114,24 @@ Das Unidades de Referência de Assistência Social
 
 **Artigo 13 -** O Centro de Referência Especializado para População em Situação de Rua - Centro POP é a unidade pública de abrangência territorial e gestão municipal, regional ou estadual, destinada a promover a articulação intersetorial da rede socioassistencial do município ou região com as demais redes de serviços públicos; e a prestar serviços de proteção social a indivíduos e famílias com trajetória ou em situação de rua, com sensibilidade às demandas específicas advindas dessa situação.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Gestão do Trabalho e da Educação Permanente
 
 **Artigo 14 -** A gestão do trabalho e da educação permanente compreende o planejamento, a organização, a promoção, o monitoramento, a avaliação e a execução das ações relativas à valorização do trabalhador do Sistema Único de Assistência Social - SUAS e à estruturação do processo de trabalho institucional, bem como à atualização e à renovação permanente de conceitos, práticas e atitudes profissionais das equipes de trabalho por meio das ações de formação.
 
 **Parágrafo único -** A educação permanente dos trabalhadores de que trata o "caput" deste artigo será promovida por meio de programas de formação, oficinas e cursos, organizados em parceria com instituições de ensino e outras entidades de formação, visando à melhoria contínua da oferta dos serviços socioassistenciais e ao fortalecimento do conhecimento dos trabalhadores.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Controle Social e das Instâncias Deliberativas
 
 **Artigo 15 -** O controle social da Política de Assistência Social no Estado de São Paulo será exercido pelos Conselhos Estadual e Municipais de Assistência Social.
 
 **Artigo 16 -** A instância de pactuação da Política de Assistência Social no Estado de São Paulo será a Comissão Intergestores Bipartite - CIB.
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Conselho Estadual de Assistência Social de São Paulo - CONSEAS
 
 **Artigo 17 -** O Conselho Estadual de Assistência Social de São Paulo - CONSEAS, órgão de deliberação colegiada, de caráter permanente e composição paritária entre poder público e sociedade civil, vinculado à Secretaria de Desenvolvimento Social e instituído pela [Lei n° 9.177, de 18 de outubro de 1995](https://www.al.sp.gov.br/norma/11156), fica reorganizado nos termos desta lei.
@@ -186,7 +192,8 @@ XIII - convocar, ordinariamente, a cada 4 (quatro) anos, a Conferência Estadual
 
 XIV - promover o processo de escolha dos representantes da Sociedade Civil no CONSEAS.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Comissão Intergestores Bipartite - CIB
 
 **Artigo 22 -** A Comissão Intergestores Bipartite - CIB do Sistema Único de Assistência Social, no âmbito do Estado de São Paulo, é a instância de interlocução e pactuação de gestores municipais e estadual do Sistema Único da Assistência Social.
@@ -207,7 +214,8 @@ III - atuar como fórum de pactuação de instrumentos, parâmetros, mecanismos 
 
 IV - estabelecer interlocução permanente com a Comissão Intergestores Tripartite - CIT e com as demais Comissões Intergestores Bipartite para aperfeiçoamento do processo de descentralização, implantação e implementação do Sistema Único da Assistência Social - SUAS.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Financiamento
 
 **Artigo 25 -** O Fundo Estadual de Assistência Social - FEAS, criado pela [Lei n° 9.177, de 18 de outubro de 1995](https://www.al.sp.gov.br/norma/11156), fica reorganizado nos termos desta lei.
@@ -258,7 +266,8 @@ XI - outros recursos que lhe forem destinados por lei.
 
 **§ 3° -** O ente transferidor estadual poderá requisitar, a qualquer tempo, informações referentes à aplicação dos recursos transferidos, para fins de análise e acompanhamento da regularidade de sua utilização.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 30 -** Esta lei e sua disposição transitória entram em vigor na data de sua publicação, ficando revogadas as disposições em contrário, em especial:

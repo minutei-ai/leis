@@ -1,5 +1,3 @@
-###DEC-065025-0-000-20-08-1969@@@
-
 DECRETO Nº 65.025 - DE 20 DE AGOSTO DE 1969.
 
 Concede autorização à Federação dos Trabalhadores nas Industrias Metalúrgicas, Mecânicas e de Material Elétrico do Estado do Rio Grande do Sul para filiar-se à Federação Internacional de Trabalhadores nas Indústrias Metalúrgicas (FITIM).

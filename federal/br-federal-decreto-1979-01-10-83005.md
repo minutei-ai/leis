@@ -1,5 +1,3 @@
-###DEC-083005-0-000-10-01-1979@@@
-
 DECRETO Nº 83.005, DE 10 DE JANEIRO DE 1979
 
 Concede reconhecimento aos cursos de Letras, e de Estudos Sociais, ministrados pelo Instituto de Letras, Ciências Sociais e Educação, de Araraquara, São Paulo, mantido pela Universidade Estadual Paulista Júlio de Mesquita Filho, com sede na cidade de São Paulo, Estado de São Paulo.

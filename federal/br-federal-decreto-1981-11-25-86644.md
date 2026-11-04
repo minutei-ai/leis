@@ -1,5 +1,3 @@
-###DEC-086644-0-000-25-11-1981@@@
-
 Decreto nº 86.644 de 25 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO SACRAMENTO LTDA., na cidade de Sacramento, Estado de Minas Gerais.

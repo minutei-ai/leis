@@ -1,5 +1,3 @@
-###DEC-054959-0-000-09-11-1964@@@
-
 DECRETO Nº 54.959, DE 9 DE NOVEMBRO DE 1964.
 
 Altera o art. 1º do Decreto nº 54.086, de 3 de agôsto de 1964.

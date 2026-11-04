@@ -1,5 +1,3 @@
-###DEL-005020-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.020 – DE 3 DE DEZEMBRO DE 1942
 
 Reorganiza os Quadros V, VI, VII, IX e X do Ministério da Viação e Obras Públicas e dá outras providências

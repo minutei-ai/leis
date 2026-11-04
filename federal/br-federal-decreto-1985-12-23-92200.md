@@ -1,5 +1,3 @@
-###DEC-092200-0-000-23-12-1985@@@
-
 Decreto Nº 92.200, de 23 de DEZembro de 1985
 
 Institui o Programa Nova Universidade e dá ostras providências

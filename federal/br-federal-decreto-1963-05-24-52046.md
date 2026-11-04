@@ -1,5 +1,3 @@
-###DEC-052046-0-000-24-05-1963@@@
-
 DECRETO Nº 52.046, DE 24 DE MAIO DE 1963.
 
 Anula o Decreto nº 46.690, de 19 de agôsto de 1959.

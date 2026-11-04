@@ -1,5 +1,3 @@
-###DEC-084779-0-000-09-06-1980@@@
-
 Decreto nº 84.779, de 09 dE junho de 1980
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro, Recife, Estado de Pernambuco e Guarujá, Estado de São Paulo.

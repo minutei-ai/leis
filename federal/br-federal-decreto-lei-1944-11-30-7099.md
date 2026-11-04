@@ -1,5 +1,3 @@
-###DEL-007099-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.099 – DE 30 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Marinha o crédito suplementar de Cr$ 1.100.000,00, à verba que especifica,

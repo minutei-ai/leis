@@ -1,5 +1,3 @@
-###DEC-061479-0-000-05-10-1967@@@
-
 DECRETO Nº 61.479, DE 5 DE OUTUBRO DE 1967.
 
 Reconhece cursos do Conservatório Musical de Uberlândia.

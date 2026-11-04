@@ -1,5 +1,3 @@
-###DEC-064222-0-000-19-03-1969@@@
-
 DECRETO Nº 64.222, DE 19 DE MARÇO DE 1969.
 
 Concede ao cidadão brasileiro Frederico Baird Bomfim o direito de lavrar minério de ferro, no município de Urucará, Estado de Amazonas.

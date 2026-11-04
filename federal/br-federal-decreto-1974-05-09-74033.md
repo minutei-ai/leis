@@ -1,5 +1,3 @@
-###DEC-074033-0-000-09-05-1974@@@
-
 DECRETO Nº 74.033, DE 9 DE MAIO 1974.
 
 Declara de utilidade pública, para fins de desapropriação, aréa de terra necessária à construção da subestação Saci, no Município de Valinhos, Estado de São Paulo.

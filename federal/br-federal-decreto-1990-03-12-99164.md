@@ -1,7 +1,3 @@
-1
-
-###DEC-099164-0-000-12-03-1990@@@
-
 DECRETO N° 99.164, DE 12 DE MARÇO DE 1990
 
 Promulga o Acordo de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa.

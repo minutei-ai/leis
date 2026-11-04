@@ -1,56 +1,54 @@
-###DEC-020507-0-000-24-01-1946@@@ 
+**DECRETO N. 20.507 – DE 24 DE JANEIRO DE 1946**
 
-<strong>DECRETO N. 20.507 – DE 24 DE JANEIRO DE 1946</strong>
+***Aprova o Regimento do Serviço de Expansão do Trigo.***
 
-<em><strong>Aprova o Regimento do Serviço de Expansão do Trigo.</strong></em>
+O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra *a* da Constituição,
 
-O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra <em>a</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art.** 1º Fica aprovado o Regimento do Serviço de Expansão do Trigo (S. E. T.) que com êste baixa, assinado pelo Ministro de Estado da Agricultura.
 
-<strong>Art.</strong> 1º Fica aprovado o Regimento do Serviço de Expansão do Trigo (S. E. T.) que com êste baixa, assinado pelo Ministro de Estado da Agricultura.
-
-<strong>Art.</strong> 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de Janeiro de 1946, 125º da Independência e  58º da República.
 
-<strong>JOSÉ LINHARES.</strong>
+**JOSÉ LINHARES.**
 
 Theodureto de Camargo.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGIMENTO DO SERVIÇO DE EXPANSÃO DO TRIGO</strong></span></span></h1>
+# **REGIMENTO DO SERVIÇO DE EXPANSÃO DO TRIGO**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art.</strong> 1º O Serviço de Expansão do Trigo (S. E. T.), criado pelo Decreto-lei nº 6.170, de 5 de Janeiro de 1944, é diretamente subordinado ao Ministro da Agricultura e tem por finalidade fomentar, orientar e controlar a produção, o comércio e a Indústria de trigo, no país e seus derivados, bem como divulgar, em publicações próprias ou por intermédio do Serviço de Documentação (S. D.) os resultados dos seus trabalhos.
+**Art.** 1º O Serviço de Expansão do Trigo (S. E. T.), criado pelo Decreto-lei nº 6.170, de 5 de Janeiro de 1944, é diretamente subordinado ao Ministro da Agricultura e tem por finalidade fomentar, orientar e controlar a produção, o comércio e a Indústria de trigo, no país e seus derivados, bem como divulgar, em publicações próprias ou por intermédio do Serviço de Documentação (S. D.) os resultados dos seus trabalhos.
 
-<strong>CAPITULO II</strong>
+**CAPITULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art.</strong> 2º O S. E. T. compõe-se de:
+**Art.** 2º O S. E. T. compõe-se de:
 
 I – Seção de Produção (S. P.); Seção de Comércio (S. C.);Seção de Industria (S. I. ); Seção de Administração (S. A)
 
 II – Inspetorias Regionais (I. R) com sede nos Estados do Rio Grande do Sul, Santa Catarina, Paraná, São Paulo, Mato Grosso, Goiaz, Minas Gerais, Bahia e Pernambuco. Postos Tritíceos, (P. T. ) localizados, respectivamente, nos Estados do Rio Grande do Sul – 3, Santa Catarina – 2, Paraná – 2, Minas Gerais – 1, São Paulo – 1, Mato Grosso – 1, Goiaz – 1, Bahia – 1, territórios de Ponta Porã – 1, e Iguaçu – 1. Nucleos Coloniais Tritíceos (N. C.T.), situados nos Estados do Rio Grande do Sul, Santa Catarina, Paraná, Minas Gerais, Goiaz, Mato Grosso e Território de Ponta Porã.
 
-<strong>Art.</strong> 3º O diretor do S. E. T. terá um secretário, por êle designado.
+**Art.** 3º O diretor do S. E. T. terá um secretário, por êle designado.
 
-<strong>Art.</strong> 4º Cada Seção terá um chefe, designado na forma deste Regimento,
+**Art.** 4º Cada Seção terá um chefe, designado na forma deste Regimento,
 
-<strong>Art.</strong> 5º Cada órgão regional será, chefiado por um servidor, na forma deste Regimento.
+**Art.** 5º Cada órgão regional será, chefiado por um servidor, na forma deste Regimento.
 
-<strong>Art.</strong> 6º Para melhor distribuição dos trabalhos e a juízo do Diretor do S. E. T., as Seções poderão se dividir em turmas e as Inspetorias Regionais em Circunscrições Tritíceas, constituídas de Residências Tri-ticeas.
+**Art.** 6º Para melhor distribuição dos trabalhos e a juízo do Diretor do S. E. T., as Seções poderão se dividir em turmas e as Inspetorias Regionais em Circunscrições Tritíceas, constituídas de Residências Tri-ticeas.
 
-<strong>Art.</strong> 7º Os órgãos que integram o S. E. T. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação de diretor.
+**Art.** 7º Os órgãos que integram o S. E. T. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação de diretor.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art.</strong> 8º A S. P. compete:
+**Art.** 8º A S. P. compete:
 
 I – incrementar, pela difusão do plantio, pelo ensaio cultural e pela melhoria, dos métodos agrícolas, a produção nacional do trigo;
 
@@ -106,7 +104,7 @@ XXVI – organizar e manter atualizado o cadastro dos produtores de  trigo, o q
 
 XXVII – elaborar modelos de boletins estatísticos e de questionários destinados ao cadastro dos produtores.
 
-<strong>Art.</strong> 9º À S. C. compete: 
+**Art.** 9º À S. C. compete: 
 
 I – orientar e fiscalizar e comércio de trigo e seus derivados; 
 
@@ -136,7 +134,7 @@ XIII – organizar e manter atualizado o cadastro dos comerciantes de trigo e fa
 
 XIV – elaborar modêlos de boletins, estatísticos e de questionários destinados ao cadastro dos comerciantes de trigo e seus derivados, bem como da aveia e do centeio.
 
-<strong>Art.</strong> 10. À S. I. compete:
+**Art.** 10. À S. I. compete:
 
 I – orientar e fiscalizar a industrialização do trigo nacional e importado;
 
@@ -176,7 +174,7 @@ XVIII – elaborar modelos de boletins técnicos e de questionários destinados�
 
 XIX – promover inquéritos a fim de ajuizar o custo de produção dos produtos e subprodutos do trigo, tendo em vista os dados fornecidos pelas Seções e demais fatores que entram na  composição dos mesmos.
 
-<strong>Art.</strong> 11. À S. A. tem por finalidades execução dos serviços  de administração geral do S. E. T., competindo-lhe:
+**Art.** 11. À S. A. tem por finalidades execução dos serviços  de administração geral do S. E. T., competindo-lhe:
 
 I – receber, registrar, distribuir, expedir e arquivar a correspondência oficial e papéis do Serviço;
 
@@ -220,15 +218,15 @@ XX – providenciar a abertura e fechamento da sede do S. E .T.;
 
 XXI – processar as concorrências para construção, instalação e montagem de armazens, silos, laboratórios e demais obras.
 
-<strong>Art.</strong> 12\. Às I.R. compete:
+**Art.** 12\. Às I.R. compete:
 
 I – orientar, executar e fiscalizar, dentro das respectivas jurisdições e de acôrdo com as normas estabelecidas pela Diretoria, as atributações inerentes ao S.E.T., segundo as exigências do meio onde atuam.
 
-<strong>CAPITULO IV</strong>
+**CAPITULO IV**
 
-<em>DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS</em>
+*DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS*
 
-<strong>Art.</strong> 13. Ao Diretor incumbe:
+**Art.** 13. Ao Diretor incumbe:
 
 I – orientar e coordenar as atividades do Serviço;
 
@@ -282,7 +280,7 @@ XXV – requisitar ou ordenar pagamentos e entrega de adiantamentos;
 
 XXVI – autorizar a aquisição do Material necessário aos trabalhos do S.E.T,
 
-<strong>Art.</strong> 14. Aos Chefes de Seção incumbe;
+**Art.** 14. Aos Chefes de Seção incumbe;
 
 I – dirigir e fiscalizar os trabalhos da respectiva Seção;
 
@@ -320,7 +318,7 @@ XVII – contribuir para as publicações relativas às atividades do Serviço c
 
 XVIII – requisitar transporte.
 
-<strong>Art.</strong> 15. Ao Chefe da S. A., além do enumerado no artigo anterior, incumbe:
+**Art.** 15. Ao Chefe da S. A., além do enumerado no artigo anterior, incumbe:
 
 I – distribuir os papéis entrados no S. E. T.;
 
@@ -328,7 +326,7 @@ II – providenciar a publicação, nos órgãos oficiais, dos atos e expediênt
 
 III – passar, mediante autorização do Diretor, certidões de documentos do S. E. T.
 
-<strong>Art.</strong> 16. Aos Chefes dos órgãos Regionais, incumbe :
+**Art.** 16. Aos Chefes dos órgãos Regionais, incumbe :
 
 I – dirigir e fiscalizar os trabalhos do respectivo órgão;
 
@@ -340,7 +338,7 @@ IV – opinar em todos os assuntos submetidos ao exame e estudo do órgão respe
 
 V – expedir portarias em assuntos de sua exclusiva competência e ordens de serviço;
 
-VI – propôr ao Diretor quaisquer medidas convenientes aos interêsses do S. E<em>.</em> T. e particularmente aos do órgão sob a sua chefia;
+VI – propôr ao Diretor quaisquer medidas convenientes aos interêsses do S. E*.* T. e particularmente aos do órgão sob a sua chefia;
 
 VII – propôr a concessão de vantagens aos seus subordinados;
 
@@ -348,7 +346,7 @@ VIII – indicar ao Diretor os seus substitutos eventuais;
 
 IX – aplicar penas disciplinares inclusive a de suspensão até 15 dias, propondo ao Diretor a aplicação de penalidades que excederem à de sua alçada;
 
-X <em>–</em> organizar e submeter  à aprovação da autoridade superior, a escala de férias do pessoal que lhe fôr subordinado, bem assim as alterações subseqüentes;
+X *–* organizar e submeter  à aprovação da autoridade superior, a escala de férias do pessoal que lhe fôr subordinado, bem assim as alterações subseqüentes;
 
 XI – autorizar despesas e ordenar pagamentos dentro das dotações distribuidas ao respectivo órgão;
 
@@ -356,7 +354,7 @@ XII – requisitar transportes;
 
 XIII – expedir boletins de merecimento dos funcionários que lhe forem diretamente subordinados.
 
-<strong>Art.</strong> 17. Ao Secretário do Diretor  incumbe:
+**Art.** 17. Ao Secretário do Diretor  incumbe:
 
 I – atender às pessoas que desejarem comunicar-se com o Diretor;
 
@@ -368,27 +366,27 @@ IV – elaborar e redigir o relatório anual do Serviço;
 
 V – executar as demais atribuições que lhe forem cometidas pelo Diretor.
 
-<strong>Art.</strong> 18. Aos servidores em geral, com exercício no S. E. T., incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art.** 18. Aos servidores em geral, com exercício no S. E. T., incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art.</strong> 19. Os trabalhos do S. E. T. serão exercidos por funcionários requisitados do Ministério e por extranumerários admitidos na forma da lei e de acôrdo com as necessidades do Serviço.
+**Art.** 19. Os trabalhos do S. E. T. serão exercidos por funcionários requisitados do Ministério e por extranumerários admitidos na forma da lei e de acôrdo com as necessidades do Serviço.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art.</strong> 20. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais, estabelecido para o Serviço Público Civil.
+**Art.** 20. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais, estabelecido para o Serviço Público Civil.
 
-<strong>Art.</strong> 21. O diretor, os Chefes de Seção e os Chefes de órgãos Regionais não ficam sujeitos ao regime de ponto, devendo, observar, porém, o horário fixado.
+**Art.** 21. O diretor, os Chefes de Seção e os Chefes de órgãos Regionais não ficam sujeitos ao regime de ponto, devendo, observar, porém, o horário fixado.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art.</strong> 22. Serão substituídos. automàticamente, em suas faltas e impedimentos eventuais, até 30 dias;
+**Art.** 22. Serão substituídos. automàticamente, em suas faltas e impedimentos eventuais, até 30 dias;
 
 I – O Diretor, por um chefe da Seção, designado pelo Ministro de Estado;
 
@@ -398,14 +396,14 @@ III – O Secretário, por um servidor designado pelo Diretor.
 
 Parágrafo único. Haverá, sempre, servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPITULO VIII</strong>
+**CAPITULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art.</strong> 23. Nenhum servidor poderá, Fazer publicações e conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e atividades do Serviço sem autorização escrita do Diretor.
+**Art.** 23. Nenhum servidor poderá, Fazer publicações e conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e atividades do Serviço sem autorização escrita do Diretor.
 
-<strong>Art.</strong> 24. Cada Seção ou órgão Regional deverá organizar e manter uma coleção de leis. resoluções, portarias, instruções e ordens de serviço que digam respeito às atividades do Serviço.
+**Art.** 24. Cada Seção ou órgão Regional deverá organizar e manter uma coleção de leis. resoluções, portarias, instruções e ordens de serviço que digam respeito às atividades do Serviço.
 
-<strong>Art.</strong> 25. Os casos omissos nêste Regimento serão resolvidos pelo Ministro de Estado por proposta do Diretor, ouvida a Comissão de Eficiência.
+**Art.** 25. Os casos omissos nêste Regimento serão resolvidos pelo Ministro de Estado por proposta do Diretor, ouvida a Comissão de Eficiência.
 
 Rio de Janeiro, 24 de Janeiro de 1946. – Theodureto de Camargo.

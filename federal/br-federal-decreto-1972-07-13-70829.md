@@ -1,5 +1,3 @@
-###DEC-070829-0-000-13-07-1972@@@
-
 DECRETO Nº 70.829, DE 13 DE JULHO DE 1972.
 
 Dispõe sobre a renovação das licenças de funcionamento das estações de telecomunicações.

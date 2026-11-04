@@ -1,5 +1,3 @@
-###DEC-081275-0-000-31-01-1978@@@
-
 Decreto nº 81.275, de 31 de janeiro de 1978
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Vicente Pallotti Ltda para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Coronel Vivida, Estado do Paraná.

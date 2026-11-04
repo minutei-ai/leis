@@ -1,5 +1,3 @@
-###DEL-009594-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.594 – DE 16 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$... 20.266,70, para pagamento de gratificação de magistério.

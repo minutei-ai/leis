@@ -1,5 +1,3 @@
-###DEL-001923-0-000-20-01-1982@@@
-
 # Decreto-lei nº 1.923, de 20 de janeiro de 1982
 
 Modifica a legislação que dispõe sobre o Fundo de Apoio ao Desenvolvimento Social - FAS.

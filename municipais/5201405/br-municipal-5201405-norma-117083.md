@@ -10,7 +10,17 @@ Art. 2º O Poder Executivo fica autorizado a desapropriar o imóvel caracterizad
 
 Art. 3º Fica desafetado do uso público, o imóvel situado no loteamento denominado VILA BRASÍLIA-COMPLEMENTO de propriedade do município, matrícula nº seguir discriminado:
 
-<table><thead></thead><tbody><tr><td>QUADRA</td><td>LOTE</td><td>ÁREA (M²)</td></tr><tr><td>01</td><td>01</td><td>479,50</td></tr></tbody></table>
+QUADRA
+
+LOTE
+
+ÁREA (M²)
+
+01
+
+01
+
+479,50
 
 Art. 4º Fica o Poder Executivo Municipal, autorizado  a permutar a área desafetada descrita no artigo anterior, com a área desapropriada citada no artigo 1º, desta lei.
 
@@ -22,11 +32,14 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação, revogando-se as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 16 dias do mês de julho do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-RONNIE BARBOSA VIEIRA<br>
+RONNIE BARBOSA VIEIRA
+
 Secretário Municipal de Habitação e Regularização Fundiária

@@ -1,5 +1,3 @@
-###DEC-052816-0-000-11-11-1963@@@
-
 decreto nº 52.816, de 11 de novembro de 1963.
 
 Concede a sociedade Brasilmar Meridional de Navegação- Ltda ,autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-006821-0-000-14-04-2009@@@
-
 DECRETO Nº 6.821, DE 14 DE ABRIL DE 2009.
 
 Altera o Decreto no 44.045, de 19 de julho de 1958, que aprova o regulamento do Conselho Federal e Conselhos Regionais de Medicina a que se refere a Lei no 3.268, de 30 de setembro de 1957.

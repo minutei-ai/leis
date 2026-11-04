@@ -1,5 +1,3 @@
-###MPV-002031-0-033-27-07-2000@@@
-
 medida provisoria nº 2.031-33, de 27 de julho de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085749-0-000-24-02-1981@@@
-
 Decreto nº 85.749, de 24 de fevereiro de 1981
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural que menciona, situado nos Municípios de Mogi das Cruzes, Santa Isabel e Guararema, no Estado de São Paulo, compreendido na área prioritária de reforma agrária fixada pelo Decreto nº 85.748, de 24 de fevereiro de 1981.

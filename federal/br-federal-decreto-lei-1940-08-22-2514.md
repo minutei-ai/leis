@@ -1,5 +1,3 @@
-###DEL-002514-0-000-22-08-1940@@@
-
 DECRETO-LEI N. 2.514 – DE 22 DE AGOSTO DE 1940
 
 Inclui no Quadro Permanente do Ministério da Fazenda um cargo de coletor e um de escrivão e dá outras providencias

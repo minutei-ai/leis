@@ -1,5 +1,3 @@
-###DEL-004814-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.814 – DE 8 DE OUTUBRO DE 1942
 
 Suprime o cargo de Chefe de Polícia e eleva o padrão de vencimento do Secretário do Território do Acre

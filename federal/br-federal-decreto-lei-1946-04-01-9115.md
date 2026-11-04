@@ -1,5 +1,3 @@
-###DEL-009115-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.115 – DE 1 DE ABRIL DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2.292.200,00, para atender a despesas com a exploração do Pôrto de Laguna, e dá outras providências

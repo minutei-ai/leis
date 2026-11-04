@@ -1,5 +1,3 @@
-###DEC-083542-0-000-04-06-1979@@@
-
 Decreto nº 83.542, de 04 de junho de 1979.
 
 Declara de utilidade pública para fins de desapropriação, uma área de terreno, sem benfeitorias, a ser desmembrada de maior porção, situada no Município de Santana de Parnaíba, Estado de São Paulo, pela Telecomunicações de São Paulo S.A. - TELESP.

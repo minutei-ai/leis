@@ -1,7 +1,3 @@
-1
-
-###DEC-099378-0-000-11-07-1990@@@
-
 DECRETO Nº 99.378, DE 11 DE JULHO DE 1990
 
 Altera dispositivos do Decreto nº 97.936, de 10 de julho de 1989, que instituiu o Cadastro Nacional do Trabalhador.

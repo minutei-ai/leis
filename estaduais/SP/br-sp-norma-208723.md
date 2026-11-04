@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208723)<br>
-
 # LEI N° 17.818, DE 27 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 288/2022, do Deputado Fernando Cury - UNIÃO)

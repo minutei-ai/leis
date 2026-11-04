@@ -1,5 +1,3 @@
-###DEC-081869-0-000-28-06-1978@@@
-
 Decreto nº 81.869, de 28 de junho de 1978.
 
 Concede à empresa HISPANICA DE PETROLEOS S/A - "HISPANOIL", autorização para funcionar na República Federativa do Brasil sob a denominação social de HISPANICA DE PETROLEOS S/A - "HISPANOIL" DO BRASIL.

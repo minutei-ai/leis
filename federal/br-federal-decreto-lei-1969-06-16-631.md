@@ -1,5 +1,3 @@
-###DEL-000631-0-000-16-06-1969@@@
-
 Decreto-lei nº 631, de 16 de Junho de 1969
 
 Altera a denominação da Siderúrgica de Santa Catarina S.A. e dá outras providências.

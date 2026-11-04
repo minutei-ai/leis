@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir, na Secretaria da Fazenda, 
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da rubrica 3.5.08 - 3.1.4.17, do orçamento em vigor.
 
-Redação de acordo coma a Lei nº 2.338, de 23 de maio de 1966.<br>
+Redação de acordo coma a Lei nº 2.338, de 23 de maio de 1966.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito, correrão por conta da Codificação 3.05.08 - 3.1.4.19-1, do Orçamento vigente."
 
 Art. 3º - A presente Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
@@ -21,4 +22,4 @@ Governador
 
 Ivo Braga
 
-* * *
+ *

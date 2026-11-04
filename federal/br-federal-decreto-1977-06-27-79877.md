@@ -1,5 +1,3 @@
-###DEC-079877-0-000-27-06-1977@@@
-
 DECRETO Nº 79.877, DE 27 DE JUNHO DE 1977
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados na Cidade e Estado do Rio de Janeiro.

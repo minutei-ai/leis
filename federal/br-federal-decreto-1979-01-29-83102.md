@@ -1,5 +1,3 @@
-###DEC-083102-0-000-29-01-1979@@@
-
 Decreto nº 83.102, de 29 de janeiro de 1979
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Administrativas e Comércio Exterior do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEL-009880-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.880 – DE 16 DE SETEMBRO DE 1946
 
 Cria a Exposição Internacional de Indústria e Comércio e dá outras providências.

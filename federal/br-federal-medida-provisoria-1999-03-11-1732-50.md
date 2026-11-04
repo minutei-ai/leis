@@ -1,5 +1,3 @@
-###MPV-001732-0-050-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.732-50, DE 11 DE MARÇO DE 1999
 
 Dá do nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, que altera legislação a Fundo de Amparo ao Trabalhador.

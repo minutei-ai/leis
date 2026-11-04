@@ -1,7 +1,3 @@
-1
-
-###DEC-001707-0-000-17-11-1995@@@
-
 DECRETO Nº 1.707, DE 17 DE NOVEMBRO DE 1995
 
 Delega ao Ministro de Estado da Fazenda a competência para alterar a forma de fixação da taxa de câmbio, para fins de cálculo do imposto de importação.

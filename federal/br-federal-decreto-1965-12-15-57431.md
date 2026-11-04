@@ -1,5 +1,3 @@
-###DEC-057431-0-000-15-12-1965@@@
-
 DECRETO Nº 57.431, de 15 de dezembro de 1965.
 
 Concede a Concórdia Companhia de Seguros autorização para funcionar e aprova os seus Estatutos.

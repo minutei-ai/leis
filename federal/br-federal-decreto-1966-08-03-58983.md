@@ -1,5 +1,3 @@
-###DEC-058983-0-000-03-08-1966@@@
-
 DECRETO Nº 58.983, DE 3 DE AGÔSTO DE 1966.
 
 Altera o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

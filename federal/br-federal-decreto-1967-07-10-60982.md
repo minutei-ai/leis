@@ -1,5 +1,3 @@
-###DEC-060982-0-000-10-07-1967@@@
-
 DECRETO Nº 60.982, DE 10 DE JULHO DE 1967.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Município de Campinas, Estado de São Paulo.

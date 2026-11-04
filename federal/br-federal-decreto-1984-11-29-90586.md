@@ -1,5 +1,3 @@
-###DEC-090586-0-000-29-11-1984@@@
-
 Decreto nº 90.586, de 29 de novembro de 1984
 
 Autoriza o funcionamento de habilitações do curso de Ciências da União das Faculdades Francanas, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-003558-0-000-14-08-2000@@@
-
 DECRETO Nº 3.558, DE 14 DE AGOSTO DE 2000.
 
 Dispõe sobre a prorrogação do prazo de validade de restos a pagar do exercício de 1998.

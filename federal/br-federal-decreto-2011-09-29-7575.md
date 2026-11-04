@@ -1,5 +1,3 @@
-###DEC-007575-0-000-29-09-2011-PUB-01@@@
-
 DECRETO Nº 7.575, DE 29 DE SETEMBRO DE 2011.
 
 Altera os Anexos VII, VIII e X ao Decreto no 7.445, de 1o de março de 2011, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2011.

@@ -1,5 +1,3 @@
-###DEC-072971-0-000-19-10-1973@@@
-
 DECRETO Nº 72.971, DE 19 DE OUTUBRO DE 1973.
 
 Declara sem efeito o Decreto número 27.776, de 8 de fevereiro de 1950, alterado pelo de nº 31.007, de 13 de junho de 1952.

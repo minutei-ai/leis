@@ -1,5 +1,3 @@
-###DEL-008506-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.506 – DE 31 DE DEZEMBRO DE 1945
 
 Cria três cargos de Ajudante de Tesoureiro na Alfândega do Rio de Janeiro.

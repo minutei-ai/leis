@@ -1,5 +1,3 @@
-###DEC-088945-0-000-07-11-1983@@@
-
 decreto nº 88.945, de 07 de NOVEMBRO DE 1983.
 
 Promulga o Tratado de Delimitação Marítima entre o Governo da República Federativa do Brasil e o Governo da República Francesa.
@@ -72,4 +70,20 @@ EM FÉ DO QUÊ, os abaixo assinados firmam e selam o presente Tratado.
 
 Feito em Paris, aos 30 de janeiro de 1981, em dois exemplares originais, cada um em língua portuguesa e francesa, os dois textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República Federativa do Brasil:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República Francesa:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">(Jean François-Poncet)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pela República Federativa do Brasil:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pela República Francesa:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Ramiro Saraiva Guerreiro)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+&nbsp;(Jean François-Poncet)
+
+</td></tr></tbody></table>

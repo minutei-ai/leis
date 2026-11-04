@@ -1,5 +1,3 @@
-###DEC-078908-0-000-07-12-1976@@@
-
 DECRETO Nº 78.908, DE 7 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Arquitetura e Urbanismo, e de Educação Artística, ministrados pelas Faculdades Integradas Bennett, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

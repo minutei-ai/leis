@@ -1,5 +1,3 @@
-###DEL-006794-0-000-16-08-1944@@@
-
 DECRETO-LEI N. 6.794 – DE 16 DE AGÔSTO DE 1944
 
 Manda computar o tempo de serviço prestado pelos Oficiais Cirurgiões Dentistas do Corpo de Saúde da Armada

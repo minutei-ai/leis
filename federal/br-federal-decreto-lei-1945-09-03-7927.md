@@ -1,5 +1,3 @@
-###DEL-007927-0-000-03-09-1945@@@
-
 DECRETO-LEI N.  7.927 – DE 3 DE SETEMBRO DE 1945.
 
 Dispõe sôbre a carreira de Ensaiador do Quadro II – extinto – E. F. C. B. – Ministério da Viação e Obras Públicas.

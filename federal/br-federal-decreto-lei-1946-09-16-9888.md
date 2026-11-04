@@ -1,5 +1,3 @@
-###DEL-009888-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.888 – DE 16 DE SETEMBRO DE 1946
 
 Lei de Organização do Ministério da Aeronáutica

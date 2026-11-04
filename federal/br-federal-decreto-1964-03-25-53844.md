@@ -1,5 +1,3 @@
-###DEC-053844-0-000-25-03-1964@@@
-
 DECRETO Nº 53.844, DE 25 DE MARÇO DE 1964.
 
 Cria, no Departamento Federal de Segurança Pública, um quartel policial, na Ilha das Flôres.

@@ -1,5 +1,3 @@
-###DEL-003211-0-000-26-04-1941@@@
-
 DECRETO-LEI N. 3.211 – DE 26 DE ABRIL DE 1941
 
 Providencia, quanto ao pagamento de diferenças de vencimentos a oficiais de justiça.

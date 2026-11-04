@@ -1,14 +1,12 @@
-###DEC-035911-0-000-27-07-1954@@@
+**DECRETO Nº 35.911, DE 27 DE JULHO DE 1954.**
 
-<strong>DECRETO Nº 35.911, DE 27 DE JULHO DE 1954.</strong>
+***Especifica as funções, nos Ministérios Militares, consideradas de caráter permanente no exterior, para os efeitos do disposto no art. 4º do Decreto nº 33.642, de 24 de agôsto de 1953.***
 
-<em><strong>Especifica as funções, nos Ministérios Militares, consideradas de caráter permanente no exterior, para os efeitos do disposto no art. 4º do Decreto nº 33.642, de 24 de agôsto de 1953.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Para os efeitos do disposto no art. 4º do Decreto nº 33.642, de 24 de agôsto de 1953, são, nos Ministérios Militares, consideradas de caráter permanente no exterior, as funções:
+**Art**. 1º Para os efeitos do disposto no art. 4º do Decreto nº 33.642, de 24 de agôsto de 1953, são, nos Ministérios Militares, consideradas de caráter permanente no exterior, as funções:
 
 1 - de Adido Militar, Adjunto de Adido e respectivos auxiliares (Marinha, Exército e Aeronáutica);
 
@@ -38,13 +36,13 @@
 
 14 - de Zelador do Cemitério Militar Brasileiro em Pistóia.
 
-<strong>Art</strong>. 2º O disposto no presente Decreto é considerado em vigor a partir de 1º de janeiro de 1954.
+**Art**. 2º O disposto no presente Decreto é considerado em vigor a partir de 1º de janeiro de 1954.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de julho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato e Almeida Guillobel
 

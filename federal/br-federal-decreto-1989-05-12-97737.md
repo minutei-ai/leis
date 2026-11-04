@@ -1,7 +1,3 @@
-1
-
-###DEC-097737-0-000-12-05-1989@@@
-
 DECRETO n° 97.737, DE 12 DE MAIO DE 1989
 
 Renova a concessão outorgada a REDE SUL MATOGROSSENSE DE EMISSORAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Caarapó, Estado de Mato Grosso do Sul.

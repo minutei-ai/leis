@@ -1,5 +1,3 @@
-###DEC-087431-0-000-02-08-1982@@@
-
 Decreto nº 87.431, de 02 de agosto de 1982.
 
 Aprova alteração introduzida no Estatuto da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

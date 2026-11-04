@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ba09b9c2-72f3-40ba-82bb-8be2a8398374/texto#nowhere)
 
-###DEL-000908-0-000-01-10-1969@@@
-
 DECRETO-LEI Nº 908, DE 1º DE OUTUBRO DE 1969
 
 Eleva à categoria de Delegacia Regional as Subdelegacias Regionais que especifica e dá outras providências.

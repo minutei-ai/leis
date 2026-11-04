@@ -1,5 +1,3 @@
-###DEC-056648-0-000-05-08-1965@@@
-
 DECRETO Nº 56.648, DE 5 DE AGÔSTO DE 1965.
 
 Outorga a Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-053814-0-000-23-03-1964@@@
-
 decreto nº 53.814, de 23 de março de 1964.
 
 Autoriza o cidadão brasileiro João Pinto Ribas a pesquisar diamantes, no Município de Diamantina, Estado de Minas Gerais.

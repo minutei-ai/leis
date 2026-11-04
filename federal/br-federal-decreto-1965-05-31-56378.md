@@ -1,5 +1,3 @@
-###DEC-056378-0-000-31-05-1965@@@
-
 DECRETO Nº 56.378, DE 31 DE MAIO DE 1965.
 
 Regulamenta o art. 31 da Lei número 3.115, de 16-3-1957.

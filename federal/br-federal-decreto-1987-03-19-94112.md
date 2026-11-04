@@ -1,5 +1,3 @@
-###DEC-094112-0-000-19-03-1987@@@
-
 DECRETO N° 94.112, DE 19 DE MARÇO DE 1987
 
 Altera dispositivo do Decreto n° 93.090, de 8 de agosto de 1986.

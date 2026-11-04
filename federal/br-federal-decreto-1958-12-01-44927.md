@@ -1,5 +1,3 @@
-###DEC-044927-0-000-01-12-1958@@@
-
 DECRETO Nº 44.927, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Dalmo de Souza Dornellas a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

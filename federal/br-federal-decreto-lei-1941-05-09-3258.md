@@ -1,5 +1,3 @@
-###DEL-003258-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.258 – DE 9 DE MAIO DE 1941
 
 Dispõe sobre a criação do Instituto Militar de Tecnologia

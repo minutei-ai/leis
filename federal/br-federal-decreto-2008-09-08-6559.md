@@ -1,5 +1,3 @@
-###DEC-006559-0-000-08-09-2008@@@
-
 DECRETO Nº 6.559, DE 8 DE SETEMBRO DE 2008.
 
 Aprova o Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior Brasileiro e delega competência ao Ministro de Estado das Relações Exteriores para a prática dos atos que especifica.

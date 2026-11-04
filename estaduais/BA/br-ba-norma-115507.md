@@ -16,7 +16,19 @@ Art. 2º - Em seguida à criação da entidade acima mencionada, fica extinta a 
 
 § 4º - Os recursos orçamentários consignados ao orçamento de 1970 e 1971 a conta do Programa 08 - Indústria e Comércio, Subprograma 08.7 - Promoção do Comércio Interno, Atividade 08.7.103 - Promoção do Comércio Interno a cargo da entidade descentralizada, para a Bolsa de Mercadorias, deverão ser considerados conforme especificação abaixo e com novos valores que deverão atender às despesas referentes a contribuições anuais obrigatórias do Governo do Estado como entidade que comporá o Conselho Deliberativo do Núcleo de Promoção de Exportações da Bahia - PROMOEXPORT/BA.
 
-<table style="width: 354.4pt; margin-left: 35.45pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="473" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 276.4pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="369"><p class="Tabela-Texto">Programa 08 - Indústria e Comércio</p></td><td style="width: 78.0pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">1970 <span style="mso-spacerun: yes;">&nbsp;</span>1971</p></td></tr><tr><td style="width: 276.4pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="369"><p class="Tabela-Texto">Sub-Programa 08.7 - Promoção do Comércio Interno. Elemento: Diversas Transferências</p></td><td style="width: 78.0pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104">&nbsp;</td></tr><tr><td style="width: 276.4pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="369"><p class="Tabela-Texto">Correntes</p></td><td style="width: 78.0pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104">&nbsp;</td></tr><tr><td style="width: 276.4pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="369"><p class="Tabela-Texto">Diversos</p></td><td style="width: 78.0pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">60.000<span style="mso-spacerun: yes;">&nbsp; </span>210.000</p></td></tr><tr><td style="width: 276.4pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="369"><p class="Tabela-Texto">(PROMOEXPORT/BA)</p></td><td style="width: 78.0pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104">&nbsp;</td></tr></tbody></table>
+Programa 08 - Indústria e Comércio
+
+1970  1971
+
+Sub-Programa 08.7 - Promoção do Comércio Interno. Elemento: Diversas Transferências
+
+Correntes
+
+Diversos
+
+60.000  210.000
+
+(PROMOEXPORT/BA)
 
 § 5º - Fica modificado o 4º Plano Trimestral de Aplicação da Secretaria da Indústria e Comércio no valor correspondente à participação do Estado para 1970.
 

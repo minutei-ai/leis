@@ -1,5 +1,3 @@
-###DEL-009476-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.476 – DE 15 DE JULHO DE 1946
 
 Suprime cargo isolado, cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

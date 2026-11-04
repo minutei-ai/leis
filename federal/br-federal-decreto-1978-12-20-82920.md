@@ -1,5 +1,3 @@
-###DEC-082920-0-000-20-12-1978@@@
-
 Decreto nº 82.920, de 20 de dezembro de 1978.
 
 Concede à Júlio César Camelo Parrode - Firma Individual, o direito de lavrar micaxisto no Município de Aparecida de Goiânia, Estado de Goiás.

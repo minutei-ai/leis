@@ -1,5 +1,3 @@
-###DEC-049701-0-000-31-12-1960@@@
-
 decreto nº 49.701, de 31 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Adriano Seabra Fonseca a pesquisar minério de chumbo, no município de Bocaiúva do Sul, Estado do Pananá.

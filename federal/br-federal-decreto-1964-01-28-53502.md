@@ -1,5 +1,3 @@
-###DEC-053502-0-000-28-01-1964@@@
-
 DECRETO Nº 53.502, DE 28 DE JANEIRO DE 1964.
 
 Transfere, sem aumento de despesa, cargo de desenhista, classe A, nível 12, do Grupo Ocupacional P-1001 - Desenho e Cartografia, do Território Federal do Amapá para o idêntico Quadro do Ministério da Justiça e Negócios Exteriores.

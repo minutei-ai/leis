@@ -1,5 +1,3 @@
-###DEC-054737-0-000-30-10-1964@@@
-
 DECRETO Nº 54.737, DE 30 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Aparecida do Tabuado, Estado de Mato Grosso, concessão para distribuir energia elétrica, e dá outras providências.

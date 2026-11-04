@@ -1,5 +1,3 @@
-###DEC-094857-0-000-08-09-1987@@@
-
 DECRETO N° 94.857, DE 8 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Marabá, Estado do Pará, destinado ao Tribunal Regional do Trabalho da 8ª Região.

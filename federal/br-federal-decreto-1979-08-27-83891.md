@@ -1,5 +1,3 @@
-###DEC-083891-0-000-27-08-1979@@@
-
 Decreto nº 83.891, de 27 de agosto de 1979.
 
 Declara perempta concessão outorgada à Rádio Olinda-Pernambuco Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Olinda, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEL-009775-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.775 – DE 6 DE SETEMBRO DE 1946
 
 Dispõe sôbre as atribuições do Conselho de Segurança Nacional e de seus órgãos complementares e dá outras providências

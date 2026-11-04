@@ -1,5 +1,3 @@
-###DEC-089953-0-000-10-07-1984@@@
-
 DECRETO Nº 89.953, DE 10 DE JULHO DE 1984
 
 Concede à Telecomunicações Aeronáuticas S/A - TASA, autorização para proceder o aumento de seu capital social.

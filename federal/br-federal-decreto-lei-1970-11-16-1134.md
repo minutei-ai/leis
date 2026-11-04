@@ -1,5 +1,3 @@
-###DEL-001134-0-000-16-11-1970@@@
-
 # DECReTO-LEI Nº 1.134, dE 16 DE NOVembRO DE 1970
 
 Altera a sistemática de incentivos fiscais concedidos a empreendimentos florestais.

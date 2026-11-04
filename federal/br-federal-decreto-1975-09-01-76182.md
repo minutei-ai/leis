@@ -1,5 +1,3 @@
-###DEC-076182-0-000-01-09-1975@@@
-
 DECRETO Nº 76.182 - DE 1 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Ituverava, com sede na cidade de Ituverava, Estado de São Paulo.

@@ -10,11 +10,27 @@ Art. 1º Ficam remembrados os Lotes 12 e 13A da Quadra 09 do Loteamento POLO EMP
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 12</td><td style="text-align:center">5.477,44</td></tr><tr><td style="text-align:center">LOTE 13A</td><td style="text-align:center">3.225,42</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE 12
+
+5.477,44
+
+LOTE 13A
+
+3.225,42
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 12/13A</td><td style="text-align:center">8.702,86</td></tr></tbody></table>
+**IMÓVEL**
+
+(m²)
+
+LOTE 12/13A
+
+8.702,86
 
 Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2022.236.935, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -22,8 +38,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogando o
 
 Aparecida de Goiânia, Estado de Goiás, aos 27 de junho de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-###DEC-077308-0-000-17-03-1976@@@
-
 DECRETO Nº 77.308, DE 17 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação, Ciências e Letras de Cascavel, com sede na Cidade de Cascavel, Estado do Paraná.

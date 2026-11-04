@@ -1,5 +1,3 @@
-###DEC-066118-0-000-26-01-1970@@@
-
 DECRETO Nº 66.118, DE 26 DE JANEIRO DE 1970.
 
 Regulamenta o disposto no Decreto-lei nº 594, de 27 de maio de 1969, que instituiu a Loteria Esportiva Federal.

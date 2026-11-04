@@ -1,5 +1,3 @@
-###DEC-003247-0-000-17-11-1999@@@
-
 DECRETO Nº 3.247, DE 17 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a execução do Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do Mercado Comum do Sul (MERCOSUL), e o Governo da República do Chile, de 20 de setembro de 1999.

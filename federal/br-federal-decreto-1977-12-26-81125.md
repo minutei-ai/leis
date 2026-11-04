@@ -1,5 +1,3 @@
-###DEC-081125-0-000-26-12-1977@@@
-
 Decreto nº 81.125, de 26 de dezembro de 1977.
 
 Altera o Decreto nº 73.259, de 5 de dezembro de 1973 que autorizou o funcionamento do curso de Educação Artística, da Faculdade de Educação de Florianópolis, com sede na cidade de Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-056398-0-000-03-06-1965@@@
-
 DECRETO Nº 56.398, de 3 de junho de 1965.
 
 Autoriza Carmonita Ltda., a pesquisar argila, nos municípios de Carmo do Paranaíba e Lagoa Formosa, no Estado de Minas Gerais.

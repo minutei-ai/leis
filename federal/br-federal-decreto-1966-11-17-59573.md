@@ -1,5 +1,3 @@
-###DEC-059573-0-000-17-11-1966@@@
-
 DECRETO Nº 59.573, DE 17 DE NOVEMBRO DE 1966.
 
 Declara de utilidade pública o “Instituto Social Paulista de Assistência e Educação” com sede em São Paulo, Estado de São Paulo.

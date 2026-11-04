@@ -1,5 +1,3 @@
-###DEL-006020-0-000-23-11-1943@@@
-
 DECRETO‑LEI N. 6.020 – DE 23 DE NOVEMBRO DE 1943
 
 Autoriza o Govêrno do Estado de Minas Gerais a assumir a administração do Banco Hipotecário e Agrícola de Minas Gerais e dá outras providências

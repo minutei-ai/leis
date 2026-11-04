@@ -1,5 +1,3 @@
-###DEC-059940-0-000-06-01-1967@@@
-
 DECRETO Nº 59.940, DE 6 DE JANEIRO DE 1967.
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de Cr$1.500.000,00 (hum bilhões e quinhentos milhões de cruzeiros), para o fim que específica.

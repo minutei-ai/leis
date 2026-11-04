@@ -1,5 +1,3 @@
-###DEL-000072-0-000-16-12-1937@@@
-
 DECRETO-LEI N. 72 – DE 16 DE DEZEMBRO DE 1937
 
 Altera a Lei n. 470, de 9 de agôsto de 1937 e regula a cobrança do imposto nela instituído

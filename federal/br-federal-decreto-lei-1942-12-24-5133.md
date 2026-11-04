@@ -1,5 +1,3 @@
-###DEL-005133-0-000-24-12-1942@@@
-
 DECRETO-LEI N. 5.133 – DE 24 DE DEZEMBRO DE 1942
 
  Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 52.000,00 para atender a despesas do Serviço de Saude dos Portos

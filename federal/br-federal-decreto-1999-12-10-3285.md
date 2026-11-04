@@ -1,5 +1,3 @@
-###DEC-003285-0-000-10-12-1999@@@
-
 DECRETO Nº 3.285, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a não aplicação do Decreto nº 1.068, de 2 de março de 1994, às instituições financeiras estaduais cujo controle acionário tenha sido adquirido pela União.

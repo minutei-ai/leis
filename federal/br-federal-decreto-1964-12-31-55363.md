@@ -1,5 +1,3 @@
-###DEC-055363-0-000-31-12-1964@@@
-
 DECRETO Nº 55.363, DE 31 DE DEZEMBRO DE 1964.
 
 Aprova alteração introduzida nos Estatutos da Seguradora Indústria e Comércio S.A., relativa ao aumento de capital social.

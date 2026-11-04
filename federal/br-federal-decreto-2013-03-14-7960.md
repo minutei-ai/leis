@@ -1,5 +1,3 @@
-###DEC-007960-0-000-14-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.960, DE 14 DE MARÇO DE 2013
 
 Altera os arts. 3° e 4° do Decreto n° 6.806, de 25 de março de 2009, para acrescentar no rol de autoridades com direito a honras militares o Chefe do Estado-Maior Conjunto das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-088180-0-000-15-03-1983@@@
-
 Decreto nº 88.180, de 15 de março de 1983
 
 Suspende a execução de partes dos artigos 27, inciso XII, e 78 da Constituição do Estado do Rio Grande do Sul.

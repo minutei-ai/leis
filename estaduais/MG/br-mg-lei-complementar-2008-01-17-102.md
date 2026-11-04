@@ -1511,7 +1511,3 @@ AÉCIO NEVES
 Danilo de Castro
 
 Renata Maria Paes de Vilhena
-
-\============================================================
-
-Data da última atualização: 19/1/2026.

@@ -1,5 +1,3 @@
-###DEC-052109-A-000-11-06-1963@@@
-
 DECRETO Nº 52.109-A, DE 11 DE JUNHO DE 1963.
 
 Concentra na Capitania dos Portos do Estado de Alagoas jurisdição sôbre as Agências e Capatazias do Baixo São Francisco.

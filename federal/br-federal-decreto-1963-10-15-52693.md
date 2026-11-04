@@ -1,5 +1,3 @@
-###DEC-052693-0-000-15-10-1963@@@
-
 DECRETO Nº 52.693, DE 15 DE OUTUBRO DE 1963.
 
 Aprova o Plano de Integração Nacional e o respectivo Regulamento.

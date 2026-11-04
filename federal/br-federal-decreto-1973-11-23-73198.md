@@ -1,5 +1,3 @@
-###DEC-073198-0-000-23-11-1973@@@
-
 DECRETO N  73.198 - DE 23 DE NOVEMBRO DE 1973
 
 Concede a Mármore Branco Mar de Espanha Ltda. o direito de lavrar mármore no município de Mar de Espanha, Estado de Minas Gerais.

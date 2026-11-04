@@ -1,5 +1,3 @@
-###DEC-007064-0-000-14-01-2010@@@
-
 DECRETO Nº 7.064, DE 14 DE JANEIRO DE 2010.
 
 Dispõe sobre a execução do Quinquagésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 35 (53PA-ACE35), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Chile, em 27 de maio de 2009.
@@ -418,161 +416,545 @@ ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>Serviços integrados de engenharia para outros projetos chave em mão (CCP 86739)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>g) Serviços de planejamento urbano e de arquitetura de paisagens (CCP 8674)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>h) Serviços médicos e dentários (CCP 9312)</td><td>1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4)Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>i) Serviços de veterinária (CCP 932)</td><td>1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>j) Serviços proporcionados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico (CCP 93191)</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>BServiços de informática e serviços conexos</td><td></td><td></td><td></td></tr>
-<tr><td>a)Serviços de consultores em instalação de equipamentos de informática. (CCP 841)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b)Serviços de aplicação de programas de informática (CCP 842)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c)Serviços de processamento de dados (CCP 843)</td><td>1) Nenhuma 2) Nenhuma 3)Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>d)Serviços de bases de dados (CCP 844)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+Serviços integrados de engenharia para outros projetos chave em mão (CCP 86739)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+g) Serviços de planejamento urbano e de arquitetura de paisagens (CCP 8674)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+h) Serviços médicos e dentários (CCP 9312)
+
+1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4)Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+i) Serviços de veterinária (CCP 932)
+
+1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+j) Serviços proporcionados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico (CCP 93191)
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.
+
+BServiços de informática e serviços conexos
+
+a)Serviços de consultores em instalação de equipamentos de informática. (CCP 841)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+b)Serviços de aplicação de programas de informática (CCP 842)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c)Serviços de processamento de dados (CCP 843)
+
+1) Nenhuma 2) Nenhuma 3)Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+d)Serviços de bases de dados (CCP 844)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>e)Outros (CCP 845+849)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Serviços de pesquisa e de desenvolvimento</td><td></td><td></td><td></td></tr>
-<tr><td>a) Serviços de pesquisa e de desenvolvimento em Ciências Naturais e em Engenharia (CCP 851) Não inclui pesquisa científica e técnica no Mar Territorial, na Zona Econômica Exclusiva e na Plataforma Continental Argentina</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b) Serviços de pesquisa e desenvolvimento das Ciências Sociais e Humanísticas (CCP 852)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c) Serviços interdisciplinares de pesquisa e de desenvolvimento (CCP 853)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Serviços de aluguel sem operadores.</td><td></td><td></td><td></td></tr>
-<tr><td>b) Serviços de aluguel de aeronaves sem tripulação (CCP 83104)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c) Serviços de leasing ou aluguel de outros meios de tranasporte sem pessoal Serviços de leasing de automóveis privados sem motorista (CCP 83101+´83102</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+e)Outros (CCP 845+849)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+C. Serviços de pesquisa e de desenvolvimento
+
+a) Serviços de pesquisa e de desenvolvimento em Ciências Naturais e em Engenharia (CCP 851) Não inclui pesquisa científica e técnica no Mar Territorial, na Zona Econômica Exclusiva e na Plataforma Continental Argentina
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+b) Serviços de pesquisa e desenvolvimento das Ciências Sociais e Humanísticas (CCP 852)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c) Serviços interdisciplinares de pesquisa e de desenvolvimento (CCP 853)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+E. Serviços de aluguel sem operadores.
+
+b) Serviços de aluguel de aeronaves sem tripulação (CCP 83104)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c) Serviços de leasing ou aluguel de outros meios de tranasporte sem pessoal Serviços de leasing de automóveis privados sem motorista (CCP 83101+´83102
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>F.outros serviços prestados às empresas</td><td></td><td></td><td></td></tr>
-<tr><td>a)Serviços de publicidade (CCP 871)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b)Serviços de estudo de mercados e pesquisas de opinião pública (CCP 864)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c)Serviços de consultoria em administração (CCP 865)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>f) Serviços relacionados com a silvicultura: -serv. de plantação e viveiro -serv. relacionados com a produção florestal como a poda, ou raleio, os inventários florestais, a proteção sanitária, e contra os incêndios. (CCP ver. 1.1-86140)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>e) Serviços de ensaios e Análises técnicas de composição e de pureza. (CCP 86761)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>h)Serviços relacionados com a mineração (CCP 883+5115)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>i) Serviços relacionados com as manufaturas (CCP 884+885, exceto os compreendidos na posição 88442)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>k) Serviços de colocação e fornecimento de pessoal. (CCP872)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+F.outros serviços prestados às empresas
+
+a)Serviços de publicidade (CCP 871)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+b)Serviços de estudo de mercados e pesquisas de opinião pública (CCP 864)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c)Serviços de consultoria em administração (CCP 865)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+f) Serviços relacionados com a silvicultura: -serv. de plantação e viveiro -serv. relacionados com a produção florestal como a poda, ou raleio, os inventários florestais, a proteção sanitária, e contra os incêndios. (CCP ver. 1.1-86140)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+e) Serviços de ensaios e Análises técnicas de composição e de pureza. (CCP 86761)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+h)Serviços relacionados com a mineração (CCP 883+5115)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+i) Serviços relacionados com as manufaturas (CCP 884+885, exceto os compreendidos na posição 88442)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+k) Serviços de colocação e fornecimento de pessoal. (CCP872)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>l) Serviços de pesquisa e de segurança (CCP873)</td><td>1) Obrigação de constituir-se no território nacional. 2) Nenhuma. 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. As empresas de segurança deverão contar com participação nacional. 4) Em aditamento ao indicado na seção horizontal, a pessoa, o diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos</td><td>1) Nenhuma 2) Nenhuma 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. 4) Em aditamento ao indicado na seção horizontal, o pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos</td><td></td></tr>
-<tr><td>n) Serviços de manutenção e repa- paração (com exclusão das embar- cações, das aeronaves e outros equipamentos de transporte) (CCP 633)</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>o) Serviços de limpeza de edifícios (CCP 874)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>q.) Serviços de empacotamento (CCP876)</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>r) Serviços editoriais e de imprensa (CCP88442)</td><td>1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>s) Serviços prestados por ocasião de assembléias ou de convenções (CCP 87909*)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>t) Outros (CCP 8790)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+l) Serviços de pesquisa e de segurança (CCP873)
+
+1) Obrigação de constituir-se no território nacional. 2) Nenhuma. 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. As empresas de segurança deverão contar com participação nacional. 4) Em aditamento ao indicado na seção horizontal, a pessoa, o diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos
+
+1) Nenhuma 2) Nenhuma 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. 4) Em aditamento ao indicado na seção horizontal, o pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos
+
+n) Serviços de manutenção e repa- paração (com exclusão das embar- cações, das aeronaves e outros equipamentos de transporte) (CCP 633)
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+o) Serviços de limpeza de edifícios (CCP 874)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+q.) Serviços de empacotamento (CCP876)
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+r) Serviços editoriais e de imprensa (CCP88442)
+
+1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+s) Serviços prestados por ocasião de assembléias ou de convenções (CCP 87909*)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+t) Outros (CCP 8790)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>2.SERVIÇOS DE COMUNICAÇÕES</td><td></td><td></td><td></td></tr>
-<tr><td>B. Serviços de mensageiros (CCP 7512)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. SERVIÇOS DE TELECOMUNICAÇÕES</td><td></td><td></td><td></td></tr>
-<tr><td>Todos os subsetores</td><td>Esta oferta não inclui fornecimento de facilidades satelitais dos satélites artificiais geoestacionários do Serviço Fixo por Satélite.</td><td></td><td></td></tr>
-<tr><td>Os serviços incluídos nesta coluna poderão ser prestados mediante qualquer meio tecnológico (Ex: fibra ótica, conexões radielétricas, atélites cabo), com exceção das limitações indicadas na coluna de acesso aos mercados.</td><td></td><td></td><td></td></tr>
-<tr><td>-Serviço telefônico básico local e de longa distância nacional (CCP 7521)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>-Serviço telefônico básico local e de longa distância nacional (CCP 7521)</td></tr>
-<tr><td>- Telefonia internacional (CCP 7521)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>- Dados Nacionais (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+2.SERVIÇOS DE COMUNICAÇÕES
+
+B. Serviços de mensageiros (CCP 7512)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+C. SERVIÇOS DE TELECOMUNICAÇÕES
+
+Todos os subsetores
+
+Esta oferta não inclui fornecimento de facilidades satelitais dos satélites artificiais geoestacionários do Serviço Fixo por Satélite.
+
+Os serviços incluídos nesta coluna poderão ser prestados mediante qualquer meio tecnológico (Ex: fibra ótica, conexões radielétricas, atélites cabo), com exceção das limitações indicadas na coluna de acesso aos mercados.
+
+-Serviço telefônico básico local e de longa distância nacional (CCP 7521)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Serviço telefônico básico local e de longa distância nacional (CCP 7521)
+
+- Telefonia internacional (CCP 7521)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+- Dados Nacionais (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>- Telex Nacional (CCP 7523**)l</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>- Fac-símile Nacional Armazenagem e retransmissão (CCP 7521** + 7529**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>-Dados Internacionais (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>Ver Anexo adjunto</td></tr>
-<tr><td>-Telex Internacional (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>-Fac-símile Internacional Armazenagem e retransmissão (CCP 7521** + 7529**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>-Circuitos alugados para telefonia</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Circuitos alugados para voz e dados internacionais</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>Ver Anexo adjunto</td></tr>
-<tr><td>Serviços Móveis: Serviço de Telefonia Móvel (STM) Serviço de Comunicações Pessoais (PCS) Busca de pessoas (Paging) Concentração de enlaces (Trunking) Dados móveis</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma O STM se presta em um regime duopólico ficando determinado o espectro disponível em todas as áreas de exploração. No Serviço de Comunicações Pessoais (PCS), a autoridade de aplicação determinará, conforme as necessidades presentes e futuras, a quantidade de prestadores por áreas de exploração. 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+- Telex Nacional (CCP 7523**)l
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+- Fac-símile Nacional Armazenagem e retransmissão (CCP 7521** + 7529**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Dados Internacionais (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+Ver Anexo adjunto
+
+-Telex Internacional (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Fac-símile Internacional Armazenagem e retransmissão (CCP 7521** + 7529**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Circuitos alugados para telefonia
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+Circuitos alugados para voz e dados internacionais
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+Ver Anexo adjunto
+
+Serviços Móveis: Serviço de Telefonia Móvel (STM) Serviço de Comunicações Pessoais (PCS) Busca de pessoas (Paging) Concentração de enlaces (Trunking) Dados móveis
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma O STM se presta em um regime duopólico ficando determinado o espectro disponível em todas as áreas de exploração. No Serviço de Comunicações Pessoais (PCS), a autoridade de aplicação determinará, conforme as necessidades presentes e futuras, a quantidade de prestadores por áreas de exploração. 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>h)Correio eletrônico (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>i)Correio de voz (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>j) Extração de informação on-line e de bases de dados (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>k)Serviços de intercâmbio eletrônico de dados (IED) (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>l) Serviços de fac-símile ampliados/de valor agregado, incluídos os de armazenagem e retransmissão e o de armazenagem e recuperação (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>m) Conversão de códigos e de protocolos</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>n) Processamento de dados e/ou informação on-line (com inclusão do processamento de transação) (CCP 843**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>o) Outros</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+h)Correio eletrônico (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+i)Correio de voz (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+j) Extração de informação on-line e de bases de dados (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+k)Serviços de intercâmbio eletrônico de dados (IED) (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+l) Serviços de fac-símile ampliados/de valor agregado, incluídos os de armazenagem e retransmissão e o de armazenagem e recuperação (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+m) Conversão de códigos e de protocolos
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+n) Processamento de dados e/ou informação on-line (com inclusão do processamento de transação) (CCP 843**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+o) Outros
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
  ARGENTINA - LISTA DE COMPROMISOS ESPECÍFICOS
 
 Modos de prestação: 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>3. SERVIÇOS DE CONSTRUÇÃO E SERVIÇOS DE ENGENHARIA CONEXOS</td><td></td><td></td><td></td></tr>
-<tr><td>A. Trabalhos gerais de construção para a edificação (CCP 512)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Armado de construções pré-fabricadas e trabalhos de instalação (CCP 514+516)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>D. Trabalhos de acabamento de edifícios (CCP 517)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Outros (CCP 511+515+518)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>4. SERVIÇOS DE DISTRIBUIÇÃO</td><td></td><td></td><td></td></tr>
-<tr><td>B.Serviços comerciais por atacado (CCP 622)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C.Serviços comerciais a varejo (CCP 631+632) 6111+6113+6121</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>D. Serviços de franquia (CCP 8929)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+3. SERVIÇOS DE CONSTRUÇÃO E SERVIÇOS DE ENGENHARIA CONEXOS
+
+A. Trabalhos gerais de construção para a edificação (CCP 512)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+C. Armado de construções pré-fabricadas e trabalhos de instalação (CCP 514+516)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+D. Trabalhos de acabamento de edifícios (CCP 517)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+E. Outros (CCP 511+515+518)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+4. SERVIÇOS DE DISTRIBUIÇÃO
+
+B.Serviços comerciais por atacado (CCP 622)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+C.Serviços comerciais a varejo (CCP 631+632) 6111+6113+6121
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+D. Serviços de franquia (CCP 8929)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISOS ESPECÍFICOS
 
 Modos de prestação: 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>9. SERVIÇOS DE TURISMO E SERVIÇOS RELACIONADOS COM AS VIAGENS</td><td></td><td></td><td></td></tr>
-<tr><td>A.Hotéis e restaurantes (incluídos os serviços de abastecimento de comidas do exterior por contrato) (CCP 641/643)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>B. Serviços de agências de viagens e organização de viagens em grupo (CCP 7471)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Serviços de guias de turismo (CCP 7472)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>D. Outros</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>11. SERVIÇOS DE TRANSPORTE</td><td></td><td></td><td></td></tr>
-<tr><td>A. Serviços de transporte marítimo</td><td></td><td></td><td></td></tr>
-<tr><td>f. Serviços de apoio relacionado com o transporte</td><td></td><td></td><td></td></tr>
-<tr><td>Outros serviços auxiliares ao transporte por água (7459)</td><td></td><td></td><td></td></tr>
-<tr><td>Serviços de limpeza, desinfecção, fumigação, controle de parasitos e serviços semelhantes.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+9. SERVIÇOS DE TURISMO E SERVIÇOS RELACIONADOS COM AS VIAGENS
+
+A.Hotéis e restaurantes (incluídos os serviços de abastecimento de comidas do exterior por contrato) (CCP 641/643)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+B. Serviços de agências de viagens e organização de viagens em grupo (CCP 7471)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+C. Serviços de guias de turismo (CCP 7472)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+D. Outros
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+11. SERVIÇOS DE TRANSPORTE
+
+A. Serviços de transporte marítimo
+
+f. Serviços de apoio relacionado com o transporte
+
+Outros serviços auxiliares ao transporte por água (7459)
+
+Serviços de limpeza, desinfecção, fumigação, controle de parasitos e serviços semelhantes.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISOS ESPECÍFICOS
 
 Modos de prestação: 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>C. Serviços de transporte aéreo</td><td></td><td></td><td></td></tr>
-<tr><td>Venda e comercialização de serviços de transporte aéreo</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de sistemas de reserva informatizados</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+C. Serviços de transporte aéreo
+
+Venda e comercialização de serviços de transporte aéreo
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de sistemas de reserva informatizados
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ANEXO
 
@@ -664,38 +1046,69 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>3. De acordo com as leis e regulamentos que regem os investimentos estrangeiros, todo capital estrangeiro aplicado no Brasil deve ser registrado no Banco Central do Brasil para que se possam remeter fundos ao estrangeiro. O Banco Central do Brasil estabelece os procedimentos relativos a remessas e transferências de fundos ao exterior. Os prestadores estrangeiros de serviços que desejem prestar serviços como pessoa jurídica deverão adotar uma das formas societárias previstas em lei no Brasil. A lei brasileira estabelece distinção entre a pessoa jurídica e as pessoas físicas que a controlam, o que, conseqüentemente, confere vida independente à pessoa jurídica. Disso resulta que a pessoa jurídica tem plenos direitos e responsabilidades sob seu patrimônio e suas obrigações. Uma sociedade adquire a condição de pessoa jurídica de direito privado ao registrar devidamente o respectivo contrato social (Estatuto e/ou Contrato) junto ao Registro Público (RP) competente. É indispensável que os assentamentos do RP contenham as seguintes informações sobre a pessoa jurídica:</td><td>3) Nenhuma 4) Não consolidado, exceto pelo indicado na coluna de acesso a mercados.</td><td></td></tr>
-<tr><td></td><td>i. denominação, objetos e localização de sede; ii. descrição da pessoa que ocupa cargos diretivos, incluindo as pessoas que ostentem representação ativa e passiva, judicial e extra-judicial; iii. o processo de alteração dos dispositivos de administração; iv. disposições relativas às responsabilidades dos administradores por atos que pratiquem; e v. disposições relativas à sua dissolução, que incluam o destino que terão seus ativos. Não são consideradas pessoas jurídicas pela lei brasileira a “empresa individual” e a “parceria”. Poder-se-á estabelecer joint venture por associação de capitais mediante a constituição de qualquer tipo de sociedade comercial prevista na lei brasileira (geralmente trata-se de uma Sociedade Privada de Responsabilidade Limitada ou uma Sociedade Anônima). Também se pode estabelecer joint venture por meio de consórcio, que não é nem pessoa jurídica, nem um tipo de associação de capital. O consórcio é utilizado sobretudo em grandes contratos de prestação de serviços. Trata-se da associação de duas ou mais empresas para a realização conjunta de uma finalidade específica. Cada associado do consórcio mantém sua própria estrutura organizacional. 4) Não consolidado, exceto nos casos que se referem a medidas que afetam a entrada e permanência temporária no Brasil relativas às seguintes categorias de pessoas: 1. Pessoal transferido dentro da mesma empresa Definição: Os empregados de uma companhia/associação/empresa estabelecida no território de uma Parte que são transferidos temporariamente para a prestação de serviço mediante presença comercial no território do Brasil. Deve existir uma relação de associação entre o prestador de serviços instalado no território do Brasil e sua sede no estrangeiro. Deve existir uma vaga correspondente ao posto. Entende-se por empregados: i) Executivos Definição: Os executivos são aqueles que se encarregam principalmente da gestão da organização e têm ampla liberdade de ação para tomar decisões. Para nomear um executivo ou diretor, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do executivo ou diretor; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Gerentes Definição: Os gerentes são aqueles que se encarregam principalmente da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretores ou profissionais. Para nomear um gerente ou administrador, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do gerente ou administrador; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por igual período, uma única vez, de acordo com as leis e regulamentos nacionais. iii) Especialistas Definição: Os especialistas são aqueles que possuem conhecimentos especializados de um nível avançado, essenciais para o estabelecimento/prestação do serviço e/ou possuem conhecimentos de domínio privado da organização. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de três anos no mínimo. A empresa deve justificar a necessidade de contratar tais profissionais e técnicos tendo em conta os profissionais e técnicos similares disponíveis no Brasil.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+3. De acordo com as leis e regulamentos que regem os investimentos estrangeiros, todo capital estrangeiro aplicado no Brasil deve ser registrado no Banco Central do Brasil para que se possam remeter fundos ao estrangeiro. O Banco Central do Brasil estabelece os procedimentos relativos a remessas e transferências de fundos ao exterior. Os prestadores estrangeiros de serviços que desejem prestar serviços como pessoa jurídica deverão adotar uma das formas societárias previstas em lei no Brasil. A lei brasileira estabelece distinção entre a pessoa jurídica e as pessoas físicas que a controlam, o que, conseqüentemente, confere vida independente à pessoa jurídica. Disso resulta que a pessoa jurídica tem plenos direitos e responsabilidades sob seu patrimônio e suas obrigações. Uma sociedade adquire a condição de pessoa jurídica de direito privado ao registrar devidamente o respectivo contrato social (Estatuto e/ou Contrato) junto ao Registro Público (RP) competente. É indispensável que os assentamentos do RP contenham as seguintes informações sobre a pessoa jurídica:
+
+3) Nenhuma 4) Não consolidado, exceto pelo indicado na coluna de acesso a mercados.
+
+i. denominação, objetos e localização de sede; ii. descrição da pessoa que ocupa cargos diretivos, incluindo as pessoas que ostentem representação ativa e passiva, judicial e extra-judicial; iii. o processo de alteração dos dispositivos de administração; iv. disposições relativas às responsabilidades dos administradores por atos que pratiquem; e v. disposições relativas à sua dissolução, que incluam o destino que terão seus ativos. Não são consideradas pessoas jurídicas pela lei brasileira a “empresa individual” e a “parceria”. Poder-se-á estabelecer joint venture por associação de capitais mediante a constituição de qualquer tipo de sociedade comercial prevista na lei brasileira (geralmente trata-se de uma Sociedade Privada de Responsabilidade Limitada ou uma Sociedade Anônima). Também se pode estabelecer joint venture por meio de consórcio, que não é nem pessoa jurídica, nem um tipo de associação de capital. O consórcio é utilizado sobretudo em grandes contratos de prestação de serviços. Trata-se da associação de duas ou mais empresas para a realização conjunta de uma finalidade específica. Cada associado do consórcio mantém sua própria estrutura organizacional. 4) Não consolidado, exceto nos casos que se referem a medidas que afetam a entrada e permanência temporária no Brasil relativas às seguintes categorias de pessoas: 1. Pessoal transferido dentro da mesma empresa Definição: Os empregados de uma companhia/associação/empresa estabelecida no território de uma Parte que são transferidos temporariamente para a prestação de serviço mediante presença comercial no território do Brasil. Deve existir uma relação de associação entre o prestador de serviços instalado no território do Brasil e sua sede no estrangeiro. Deve existir uma vaga correspondente ao posto. Entende-se por empregados: i) Executivos Definição: Os executivos são aqueles que se encarregam principalmente da gestão da organização e têm ampla liberdade de ação para tomar decisões. Para nomear um executivo ou diretor, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do executivo ou diretor; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Gerentes Definição: Os gerentes são aqueles que se encarregam principalmente da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretores ou profissionais. Para nomear um gerente ou administrador, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do gerente ou administrador; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por igual período, uma única vez, de acordo com as leis e regulamentos nacionais. iii) Especialistas Definição: Os especialistas são aqueles que possuem conhecimentos especializados de um nível avançado, essenciais para o estabelecimento/prestação do serviço e/ou possuem conhecimentos de domínio privado da organização. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de três anos no mínimo. A empresa deve justificar a necessidade de contratar tais profissionais e técnicos tendo em conta os profissionais e técnicos similares disponíveis no Brasil.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>As pessoas jurídicas devem respeitar a proporção de ao menos dois brasileiros por cada três empregados. Duração da estada: até dois anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 2. Pessoas em visita de negócios i) Vendedores de serviços Definição: Representantes de um prestador de serviços que entram temporariamente no território do Brasil para vender serviços ou concluir acordos de venda desses serviços para esse prestador de serviços e/ou participar de reuniões nesse contexto. Os representantes desses prestadores de serviços não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Também não receberão remuneração alguma de fontes localizadas no território do Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Pessoas responsáveis por estabelecer presença comercial Definição: Empregados de uma pessoa jurídica com o objetivo de estabelecer presença comercial dessa pessoa jurídica no território do Brasil e/ou participar de reuniões nesse contexto. Os empregados dessas pessoas jurídicas não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Referem-se unicamente aos empregados de uma pessoa jurídica que não tenha presença comercial no território do Brasil. Esses empregados não receberão remuneração alguma de fontes localizadas no território do Brasil. Para estabelecer presença comercial, as pessoas em visita de negócios devem designar como representante um residente no Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 3. Prestadores de serviços por contrato - Empregados de pessoas jurídicas Definição: Os empregados de uma companhia/associação/empresa estabelecida no estrangeiro que entrem temporariamente no território do Brasil com o objetivo de prestar serviço de acordo com um contrato concluído entre seu empregador e um consumidor do serviço no território do Brasil.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+As pessoas jurídicas devem respeitar a proporção de ao menos dois brasileiros por cada três empregados. Duração da estada: até dois anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 2. Pessoas em visita de negócios i) Vendedores de serviços Definição: Representantes de um prestador de serviços que entram temporariamente no território do Brasil para vender serviços ou concluir acordos de venda desses serviços para esse prestador de serviços e/ou participar de reuniões nesse contexto. Os representantes desses prestadores de serviços não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Também não receberão remuneração alguma de fontes localizadas no território do Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Pessoas responsáveis por estabelecer presença comercial Definição: Empregados de uma pessoa jurídica com o objetivo de estabelecer presença comercial dessa pessoa jurídica no território do Brasil e/ou participar de reuniões nesse contexto. Os empregados dessas pessoas jurídicas não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Referem-se unicamente aos empregados de uma pessoa jurídica que não tenha presença comercial no território do Brasil. Esses empregados não receberão remuneração alguma de fontes localizadas no território do Brasil. Para estabelecer presença comercial, as pessoas em visita de negócios devem designar como representante um residente no Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 3. Prestadores de serviços por contrato - Empregados de pessoas jurídicas Definição: Os empregados de uma companhia/associação/empresa estabelecida no estrangeiro que entrem temporariamente no território do Brasil com o objetivo de prestar serviço de acordo com um contrato concluído entre seu empregador e um consumidor do serviço no território do Brasil.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL 
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>Limita-se aos empregados de empresas estabelecidas no estrangeiro que não tenham presença comercial no território do Brasil. Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. A pessoa jurídica da outra Parte deve obter um contrato de serviços para a prestação do serviço no território do Brasil. O consumidor do serviço deve ser uma pessoa jurídica estabelecida no Brasil. Deve existir um contrato de assistência tecnológica ou de transferência de tecnologia entre a empresa estrangeira e o consumidor do serviço estabelecido no Brasil. Para cada profissional estrangeiro incluído no contrato, devem prestar-se a) justificativa da necessidade dos serviços do profissional em questão, tendo em conta a disponibilidade de profissionais no Brasil e b) provas de que o profissional dispõe de uma experiência prévia de pelo menos 3 anos. No caso em que a empresa estrangeira não conte com profissionais brasileiros, deverá haver um plano de treinamento que contemple a formação de profissionais brasileiros. Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 4. Profissional Independente Definição: Uma pessoa física, que entre temporariamente no Brasil, com o objetivo de prestar um serviço sob contrato de trabalho outorgado por uma pessoa jurídica estabelecida no território do Brasil. As pessoas jurídicas devem respeitar a proporção de pelo menos dois brasileiros para cada três empregados. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de no mínimo três anos, e sua escolaridade, que deve ser superior. A empresa deve justificar a necessidade de contratar tais profissionais tendo em conta os profissionais similares disponíveis no Brasil.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+Limita-se aos empregados de empresas estabelecidas no estrangeiro que não tenham presença comercial no território do Brasil. Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. A pessoa jurídica da outra Parte deve obter um contrato de serviços para a prestação do serviço no território do Brasil. O consumidor do serviço deve ser uma pessoa jurídica estabelecida no Brasil. Deve existir um contrato de assistência tecnológica ou de transferência de tecnologia entre a empresa estrangeira e o consumidor do serviço estabelecido no Brasil. Para cada profissional estrangeiro incluído no contrato, devem prestar-se a) justificativa da necessidade dos serviços do profissional em questão, tendo em conta a disponibilidade de profissionais no Brasil e b) provas de que o profissional dispõe de uma experiência prévia de pelo menos 3 anos. No caso em que a empresa estrangeira não conte com profissionais brasileiros, deverá haver um plano de treinamento que contemple a formação de profissionais brasileiros. Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 4. Profissional Independente Definição: Uma pessoa física, que entre temporariamente no Brasil, com o objetivo de prestar um serviço sob contrato de trabalho outorgado por uma pessoa jurídica estabelecida no território do Brasil. As pessoas jurídicas devem respeitar a proporção de pelo menos dois brasileiros para cada três empregados. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de no mínimo três anos, e sua escolaridade, que deve ser superior. A empresa deve justificar a necessidade de contratar tais profissionais tendo em conta os profissionais similares disponíveis no Brasil.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL 
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 5. Estagiários Definição: Pessoa, nacional do Chile, que venha ao Brasil para realizar a parte prática do ensino superior ou de caráter profissional, que, associada à parte teórica, contribua para seu aperfeiçoamento profissional. Deverá ser elaborado “Termo de Compromisso” entre o estagiário e a empresa ou instituição brasileira, com a participação de um intermediário, que poderá ser: uma entidade de intercâmbio de estudantes, oficialmente reconhecida; um organismo de cooperação internacional; ou setores de cooperação internacional de diferentes Ministérios da República Federativa do Brasil O estagiário poderá ser beneficiário unicamente da bolsa de permanência e não será considerado empregado da empresa. Duração da estada: até 1 ano O empregado de uma empresa estabelecida no território do Chile que seja admitido no Brasil como estagiário em uma sucursal ou escritório de representação no Brasil deverá cumprir os seguintes critérios: a remuneração deverá ocorrer unicamente no estrangeiro pela empresa estabelecida no território chileno; e exige-se autorização do Ministério do Trabalho e do Emprego Duração da estada: até 1 ano Para todas as categorias: Seguirão aplicando-se todos os demais requisitos, leis e regulamentos relativos à entrada, estada e trabalho. A permissão de trabalho estará sujeita ao desempenho das funções para as quais foi concedida com autorização do Ministério do Trabalho e do Emprego.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 5. Estagiários Definição: Pessoa, nacional do Chile, que venha ao Brasil para realizar a parte prática do ensino superior ou de caráter profissional, que, associada à parte teórica, contribua para seu aperfeiçoamento profissional. Deverá ser elaborado “Termo de Compromisso” entre o estagiário e a empresa ou instituição brasileira, com a participação de um intermediário, que poderá ser: uma entidade de intercâmbio de estudantes, oficialmente reconhecida; um organismo de cooperação internacional; ou setores de cooperação internacional de diferentes Ministérios da República Federativa do Brasil O estagiário poderá ser beneficiário unicamente da bolsa de permanência e não será considerado empregado da empresa. Duração da estada: até 1 ano O empregado de uma empresa estabelecida no território do Chile que seja admitido no Brasil como estagiário em uma sucursal ou escritório de representação no Brasil deverá cumprir os seguintes critérios: a remuneração deverá ocorrer unicamente no estrangeiro pela empresa estabelecida no território chileno; e exige-se autorização do Ministério do Trabalho e do Emprego Duração da estada: até 1 ano Para todas as categorias: Seguirão aplicando-se todos os demais requisitos, leis e regulamentos relativos à entrada, estada e trabalho. A permissão de trabalho estará sujeita ao desempenho das funções para as quais foi concedida com autorização do Ministério do Trabalho e do Emprego.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
@@ -755,12 +1168,31 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL 
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>2.C SERVIÇOS DE TELECOMUNICAÇÕES Serviços Locais, de Longa Distância e Internacionais, para uso público ou não, prestados por meio de qualquer tecnologia de rede (cabo, satélite, etc) a) Serviços telefônicos de voz b) Serviços de transmissão de datos por comutação de pacotes c) Serviços de Transmissão de Dados por Comutação de Circuitos d) Serviços de Telex e) Serviços Telegráficos f) Serviços de fac-símile g) Serviços de Aluguel de Circuitos Privativos</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>o) Outros serviços de telecomunicações básicas Serviços móveis Serviços celulares analógicos e digitais (800 MHz, 900 MHz, 1800 MHz, 1900/2100 MHz) Serviços móveis globais por satélite Serviços de paging Serviços de trunking (460 MHz, 800 MHz, 900 MHz)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>D. Serviços Audiovisuais Serviços de produção e distribuição de filmes e vídeo tapes (CPC 9611)</td><td>1) Não consolidado 2) Não consolidado 3) Não consolidado 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 2) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 3) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+2.C SERVIÇOS DE TELECOMUNICAÇÕES Serviços Locais, de Longa Distância e Internacionais, para uso público ou não, prestados por meio de qualquer tecnologia de rede (cabo, satélite, etc) a) Serviços telefônicos de voz b) Serviços de transmissão de datos por comutação de pacotes c) Serviços de Transmissão de Dados por Comutação de Circuitos d) Serviços de Telex e) Serviços Telegráficos f) Serviços de fac-símile g) Serviços de Aluguel de Circuitos Privativos
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+o) Outros serviços de telecomunicações básicas Serviços móveis Serviços celulares analógicos e digitais (800 MHz, 900 MHz, 1800 MHz, 1900/2100 MHz) Serviços móveis globais por satélite Serviços de paging Serviços de trunking (460 MHz, 800 MHz, 900 MHz)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+D. Serviços Audiovisuais Serviços de produção e distribuição de filmes e vídeo tapes (CPC 9611)
+
+1) Não consolidado 2) Não consolidado 3) Não consolidado 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 2) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 3) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 4) Não consolidado, exceto pelo indicado na seção horizontal
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
@@ -824,15 +1256,49 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>Serviços de despacho de alfândegas (conforme indicado no ponto 3 das Definições)</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de estações e depósitos de contêineres (conforme indicado no ponto 4 das Definições)</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de agências marítimas (conforme indicado no ponto 5 das Definições)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de transitários marítimos (conforme indicado no ponto 6 das Definições)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Manutenção e reparação de embarcações (CPC 8868)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de rebocadores (7214)</td><td>1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal. Para arvorar a bandeira brasileira, serão necessariamente brasileiros o comandante, o chefe de máquinas e 2/3 da tripulação. Caso a embarcação conte com o Registro Especial Brasileiro (REB), serão necessariamente brasileiros apenas o comandante e o chefe de máquinas</td><td>1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+Serviços de despacho de alfândegas (conforme indicado no ponto 3 das Definições)
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de estações e depósitos de contêineres (conforme indicado no ponto 4 das Definições)
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de agências marítimas (conforme indicado no ponto 5 das Definições)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de transitários marítimos (conforme indicado no ponto 6 das Definições)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Manutenção e reparação de embarcações (CPC 8868)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de rebocadores (7214)
+
+1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal. Para arvorar a bandeira brasileira, serão necessariamente brasileiros o comandante, o chefe de máquinas e 2/3 da tripulação. Caso a embarcação conte com o Registro Especial Brasileiro (REB), serão necessariamente brasileiros apenas o comandante e o chefe de máquinas
+
+1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
@@ -848,14 +1314,43 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>C. Serviços de transporte aéreo Manutenção e reparação de aeronaves (CPC 8868)</td><td>1) Nenhuma 2) Nenhuma 3)A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Serviços de transporte ferroviário Transporte de cargas (CPC 71121, CPC 71123, CPC 71129)</td><td>1) Não consolidado 2) Não consolidado 3) É necessária autorização do Governo. A concessão de novas autorizações é discricionária. Pode-se limitar o número de prestadores de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>F. Serviços de transporte rodoviário Transporte de cargas (CPC 71231, CPC 71233, CPC 71234)</td><td>1) Não consolidador 2) Não consolidado 3) Nenhuma, exceto no que respeita ao transporte internacional terrestre, tal como previsto no Acordo sobre Transporte Internacional Terrestre adotado por Argentina, Bolívia, Brasil, Chile, Paraguai e Uruguai. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>G. Transporte por dutos Transporte de outros produtos (CPC 7139 excluídos os hidrocarbonetos)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>H. Serviços auxiliares para todo tipo de transporte a) Serviços de carga e descarga (CPC 741) b) Serviços de armazenagem (CPC 742)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+C. Serviços de transporte aéreo Manutenção e reparação de aeronaves (CPC 8868)
+
+1) Nenhuma 2) Nenhuma 3)A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+E. Serviços de transporte ferroviário Transporte de cargas (CPC 71121, CPC 71123, CPC 71129)
+
+1) Não consolidado 2) Não consolidado 3) É necessária autorização do Governo. A concessão de novas autorizações é discricionária. Pode-se limitar o número de prestadores de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+F. Serviços de transporte rodoviário Transporte de cargas (CPC 71231, CPC 71233, CPC 71234)
+
+1) Não consolidador 2) Não consolidado 3) Nenhuma, exceto no que respeita ao transporte internacional terrestre, tal como previsto no Acordo sobre Transporte Internacional Terrestre adotado por Argentina, Bolívia, Brasil, Chile, Paraguai e Uruguai. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+G. Transporte por dutos Transporte de outros produtos (CPC 7139 excluídos os hidrocarbonetos)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+H. Serviços auxiliares para todo tipo de transporte a) Serviços de carga e descarga (CPC 741) b) Serviços de armazenagem (CPC 742)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS NOS SERVIÇOS
 
@@ -1016,10 +1511,19 @@ LISTA DO CHILE
 
 Modo de Fornecimento: 1) Prestação transfronteiriça    2) Consumo no Exterior   3) Presença Comercial   4) Movimentação de pessoas físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao Acesso aos Mercados</td><td>Limitações ao Tratamento Nacional</td><td>Compromissos Adicionais</td></tr>
-<tr><td>COMPROMISSOS HORIZONTAIS Todos os serviços incluídos nesta lista</td><td>3) A autorização de presença comercial será outorgada às pessoas jurídicas constituídas conforme a Legislação Nacional do Paraguai, com sede e representação no território paraguaio, para os efeitos de suas prerrogativas e responsabilidades. Aquisição de terra: Não consolidado, no referente a zonas de fronteira. Sociedades constituídas no estrangeiro: As sociedades constituídas no estrangeiro têm seu domicílio no lugar onde está o principal de seus negócios. Os estabelecimentos, agências ou sucursais constituídas na República se consideram domiciliados nela no tocante aos atos aqui praticados, devendo cumprir com as obrigações e formalidades previstas para o tipo de sociedade mais semelhante ao de sua constituição. Para cumprir as formalidades mencionadas, qualquer sociedade constituída no estrangeiro que desejar exercer sua atividade no território nacional deve: a) estabelecer uma representação com domicílio no país, além dos domicílios particulares derivados de outras causas legais; b) acreditar que a sociedade foi constituída de acordo com as leis de seu país; e c) justificar, de igual forma, o acordo ou decisão de criar a sucursal ou representação, o capital que lhe for outorgado e a nomeação dos representantes. Isto será aplicado às sociedades ou corporações constituídas em outros Estados, embora o tipo de sociedade não esteja previsto na legislação nacional. A sociedade constituída no estrangeiro com domicílio na República, ou cujo principal objetivo estiver destinado a cumprir na mesma, será considerada como sociedade local para os efeitos de cumprimento das formalidades de constituição ou de sua reforma e fiscalização, em seu caso. O representante da sociedade constituída no estrangeiro está autorizado para realizar todos os atos que aquela pode celebrar e para representá-la em um juízo. 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizarem investimento estrangeiro direto, nas seguintes categorias: I. Homens de negócios: pessoas que ingressam para realizar negócios, investimentos ou estudos de mercado, desde que não recebam remuneração no Paraguai, nem se envolvam em vendas diretas de bens ou de serviços ao público em geral, nem forneçam eles mesmos os serviços. Não podem prestar serviços no país sob contrato de trabalho ou civil que os vinculem com uma empresa radicada no Paraguai. Duração da estada em território nacional de 90 dias prorrogáveis por mais 90 dias. II. Transferência intra-empresarial: empregados de uma empresa que realize investimento estrangeiro direto no Paraguai, que tiverem sido empregados nessa empresa pelo menos durante um ano imediatamente anterior a sua entrada temporária no território nacional para continuar prestando serviços nessa empresa ou em uma filial dessa empresa, conforme estabelecido pela legislação nacional na matéria. A categoria se limita às seguintes categorias: a) Gerentes: pessoas dentro de uma empresa ou organização que primariamente são responsáveis do funcionamento de um departamento ou de uma subdivisão. Supervisionam e controlam o trabalho de outros supervisores profissionais ou empregadores gerenciais. Têm a autoridade para contratar ou demitir, recomendar, contratar demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licenças. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha a não ser que esses empregados sejam profissionais, como tampouco inclui os empregados que, de forma primária, desempenham tarefas necessárias para a prestação do serviço; b) Executivos: pessoas dentro da organização que, de forma primária, levem a administração. Exercem um amplo espectro em matéria de tomada de decisões e recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem diretamente tarefas relacionadas com a prestação do (dos) serviço (s) da organização; c) Especialistas: pessoas dentro de uma empresa ou organização que possuem conhecimento de avançado nível de profissionalidade e aqueles que possuem conhecimento derivado do proprietário da organização de serviços, de técnicas de pesquisa em equipamento ou gerenciamento. III Apoderados de empresas estrangeiras: pessoas que, em caráter de depositários judiciais, de empresas estabelecidas no exterior, ingressam no Paraguai só para realizar negócios, investimentos ou estudos de mercado; recebem sua remuneração do exterior, não podem prestar serviços no país sob contrato de trabalho ou civil que as vinculem com uma empresa radicada no Paraguai. Duração da estada: 90 dias prorrogáveis, em território nacional, por mais 90 dias.</td><td>3) Reserva-se o direito de estabelecer acordos especiais de ações (tais como retenção das “ações de ouro”) e outorgar preferências para a compra de ações aos empregados da empresa estatal sujeita a privatização. A sede central localizada no estrangeiro deverá pagar um imposto pelos benefícios fiscais aprovados pelas sucursais, agências ou estabelecimentos localizado no país correspondente a uma taxa de 15% (15%). 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas categorias indicadas na coluna de acesso a mercado. Representante legal o representante legal de uma empresa é a pessoa que assume as responsabilidades administrativas, penais, civis e comerciais emergentes da prestação de serviços da empresa. Deve ter residência permanente.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao Acesso aos Mercados
+
+Limitações ao Tratamento Nacional
+
+Compromissos Adicionais
+
+COMPROMISSOS HORIZONTAIS Todos os serviços incluídos nesta lista
+
+3) A autorização de presença comercial será outorgada às pessoas jurídicas constituídas conforme a Legislação Nacional do Paraguai, com sede e representação no território paraguaio, para os efeitos de suas prerrogativas e responsabilidades. Aquisição de terra: Não consolidado, no referente a zonas de fronteira. Sociedades constituídas no estrangeiro: As sociedades constituídas no estrangeiro têm seu domicílio no lugar onde está o principal de seus negócios. Os estabelecimentos, agências ou sucursais constituídas na República se consideram domiciliados nela no tocante aos atos aqui praticados, devendo cumprir com as obrigações e formalidades previstas para o tipo de sociedade mais semelhante ao de sua constituição. Para cumprir as formalidades mencionadas, qualquer sociedade constituída no estrangeiro que desejar exercer sua atividade no território nacional deve: a) estabelecer uma representação com domicílio no país, além dos domicílios particulares derivados de outras causas legais; b) acreditar que a sociedade foi constituída de acordo com as leis de seu país; e c) justificar, de igual forma, o acordo ou decisão de criar a sucursal ou representação, o capital que lhe for outorgado e a nomeação dos representantes. Isto será aplicado às sociedades ou corporações constituídas em outros Estados, embora o tipo de sociedade não esteja previsto na legislação nacional. A sociedade constituída no estrangeiro com domicílio na República, ou cujo principal objetivo estiver destinado a cumprir na mesma, será considerada como sociedade local para os efeitos de cumprimento das formalidades de constituição ou de sua reforma e fiscalização, em seu caso. O representante da sociedade constituída no estrangeiro está autorizado para realizar todos os atos que aquela pode celebrar e para representá-la em um juízo. 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizarem investimento estrangeiro direto, nas seguintes categorias: I. Homens de negócios: pessoas que ingressam para realizar negócios, investimentos ou estudos de mercado, desde que não recebam remuneração no Paraguai, nem se envolvam em vendas diretas de bens ou de serviços ao público em geral, nem forneçam eles mesmos os serviços. Não podem prestar serviços no país sob contrato de trabalho ou civil que os vinculem com uma empresa radicada no Paraguai. Duração da estada em território nacional de 90 dias prorrogáveis por mais 90 dias. II. Transferência intra-empresarial: empregados de uma empresa que realize investimento estrangeiro direto no Paraguai, que tiverem sido empregados nessa empresa pelo menos durante um ano imediatamente anterior a sua entrada temporária no território nacional para continuar prestando serviços nessa empresa ou em uma filial dessa empresa, conforme estabelecido pela legislação nacional na matéria. A categoria se limita às seguintes categorias: a) Gerentes: pessoas dentro de uma empresa ou organização que primariamente são responsáveis do funcionamento de um departamento ou de uma subdivisão. Supervisionam e controlam o trabalho de outros supervisores profissionais ou empregadores gerenciais. Têm a autoridade para contratar ou demitir, recomendar, contratar demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licenças. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha a não ser que esses empregados sejam profissionais, como tampouco inclui os empregados que, de forma primária, desempenham tarefas necessárias para a prestação do serviço; b) Executivos: pessoas dentro da organização que, de forma primária, levem a administração. Exercem um amplo espectro em matéria de tomada de decisões e recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem diretamente tarefas relacionadas com a prestação do (dos) serviço (s) da organização; c) Especialistas: pessoas dentro de uma empresa ou organização que possuem conhecimento de avançado nível de profissionalidade e aqueles que possuem conhecimento derivado do proprietário da organização de serviços, de técnicas de pesquisa em equipamento ou gerenciamento. III Apoderados de empresas estrangeiras: pessoas que, em caráter de depositários judiciais, de empresas estabelecidas no exterior, ingressam no Paraguai só para realizar negócios, investimentos ou estudos de mercado; recebem sua remuneração do exterior, não podem prestar serviços no país sob contrato de trabalho ou civil que as vinculem com uma empresa radicada no Paraguai. Duração da estada: 90 dias prorrogáveis, em território nacional, por mais 90 dias.
+
+3) Reserva-se o direito de estabelecer acordos especiais de ações (tais como retenção das “ações de ouro”) e outorgar preferências para a compra de ações aos empregados da empresa estatal sujeita a privatização. A sede central localizada no estrangeiro deverá pagar um imposto pelos benefícios fiscais aprovados pelas sucursais, agências ou estabelecimentos localizado no país correspondente a uma taxa de 15% (15%). 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas categorias indicadas na coluna de acesso a mercado. Representante legal o representante legal de uma empresa é a pessoa que assume as responsabilidades administrativas, penais, civis e comerciais emergentes da prestação de serviços da empresa. Deve ter residência permanente.
 
 REPUBLICA DO PARAGUAI
 
@@ -1059,13 +1563,41 @@ REPUBLICA DO PARAGUAI
 
 Modo de Fornecimento: 1) Prestação transfronteiriça    2) Consumo no Exterior   3) Presença Comercial 4) Movimentação de pessoas físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao Acesso aos Mercados</td><td>Limitações ao Tratamento Nacional</td><td>Compromissos Adicionais</td></tr>
-<tr><td>h. Correio eletrônico ( CCP 7523 ) i. Correio de voz ( CCP7523) j. Extração de informação on-line e de banco de dados (CCP 7523) k. Serviços de intercâmbio eletrônico de dados IED (CCP 7523 l. Serviços de fac-símile ampliados/ de valor agregado, incluídos os de armazenagem e retransmissão e os de armazenagem e recuperação (CCP 7523 )</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td></td></tr>
-<tr><td>o. Outros 0.1 Serviço Celular Móvel (CCP n.d.)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma O sistema se presta em modalidade duopólica, estando destinado o espectro disponível em todas as áreas de exploração. Por enquanto não há mais disponibilidade de freqüências. 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.</td></tr>
-<tr><td>0.2 Comunicações pessoais (CCP n.d.)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.</td></tr>
-<tr><td>0.3 Serviços de Rádio - busca (CCP n.d.)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao Acesso aos Mercados
+
+Limitações ao Tratamento Nacional
+
+Compromissos Adicionais
+
+h. Correio eletrônico ( CCP 7523 ) i. Correio de voz ( CCP7523) j. Extração de informação on-line e de banco de dados (CCP 7523) k. Serviços de intercâmbio eletrônico de dados IED (CCP 7523 l. Serviços de fac-símile ampliados/ de valor agregado, incluídos os de armazenagem e retransmissão e os de armazenagem e recuperação (CCP 7523 )
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+o. Outros 0.1 Serviço Celular Móvel (CCP n.d.)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma O sistema se presta em modalidade duopólica, estando destinado o espectro disponível em todas as áreas de exploração. Por enquanto não há mais disponibilidade de freqüências. 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.
+
+0.2 Comunicações pessoais (CCP n.d.)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.
+
+0.3 Serviços de Rádio - busca (CCP n.d.)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
 
 REPUBLICA DO PARAGUAI
 
@@ -1160,10 +1692,19 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4 Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>TODOS OS SERVIÇOS INCLUÍDOS NESTA LISTA</td><td>4. Não consolidado, exceto para medidas referentes à entrada e permanência temporária para as seguintes categorias de pessoas naturais: I. Pessoal transferido dentro da mesma empresa: Os empregados de uma empresa estabelecida em território do Chile transferidos de forma temporária para a prestação de um serviço mediante presença comercial em território Uruguaio: i) Gerentes: pessoas encarregadas da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretivos ou profissionais. Tem autoridade para contratar ou demitir, recomendar ou demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licença. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha (first line supervisors) a não ser que esses empregados sejam profissionais, como também não inclui os empregados que, de forma primária, desempenham as tarefas necessárias para a prestação do serviço. ii) Executivos: pessoas encarregadas, fundamentalmente, da gestão da organização e têm ampla liberdade de ação para tomar decisões. Recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem, de forma direta, tarefas relacionadas com a prestação do (dos) serviço(s) da organização. iii) Especialistas: pessoas que possuem conhecimentos especializados de um nível avançado essenciais para a prestação do serviço e/ou possuem conhecimentos de domínio privado da organização, de suas técnicas, de equipamentos de pesquisa ou de gerenciamento da organização, incluindo os consultores em sistemas e programas informáticos e os consultores em instalação de equipamento de informática Duração da estada de gerentes, executivos e especialistas: dois anos prorrogáveis por igual período. II.Pessoas de Negócios: 1) Representantes de um prestador de serviços que ingressam de forma temporária no território do Uruguai para concluir acordos de venda desses serviços para esse prestador de serviços, e/ou 2) Empregados de uma pessoa jurídica que entram ao Uruguai para estabelecer uma presença comercial dessa pessoa jurídica no território uruguaio ou para realizar estudos de mercado para esse prestador de serviços.</td><td>4. Não consolidado, exceto para medidas referentes às categorias de pessoas naturais mencionadas em Acesso a Mercados</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+TODOS OS SERVIÇOS INCLUÍDOS NESTA LISTA
+
+4. Não consolidado, exceto para medidas referentes à entrada e permanência temporária para as seguintes categorias de pessoas naturais: I. Pessoal transferido dentro da mesma empresa: Os empregados de uma empresa estabelecida em território do Chile transferidos de forma temporária para a prestação de um serviço mediante presença comercial em território Uruguaio: i) Gerentes: pessoas encarregadas da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretivos ou profissionais. Tem autoridade para contratar ou demitir, recomendar ou demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licença. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha (first line supervisors) a não ser que esses empregados sejam profissionais, como também não inclui os empregados que, de forma primária, desempenham as tarefas necessárias para a prestação do serviço. ii) Executivos: pessoas encarregadas, fundamentalmente, da gestão da organização e têm ampla liberdade de ação para tomar decisões. Recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem, de forma direta, tarefas relacionadas com a prestação do (dos) serviço(s) da organização. iii) Especialistas: pessoas que possuem conhecimentos especializados de um nível avançado essenciais para a prestação do serviço e/ou possuem conhecimentos de domínio privado da organização, de suas técnicas, de equipamentos de pesquisa ou de gerenciamento da organização, incluindo os consultores em sistemas e programas informáticos e os consultores em instalação de equipamento de informática Duração da estada de gerentes, executivos e especialistas: dois anos prorrogáveis por igual período. II.Pessoas de Negócios: 1) Representantes de um prestador de serviços que ingressam de forma temporária no território do Uruguai para concluir acordos de venda desses serviços para esse prestador de serviços, e/ou 2) Empregados de uma pessoa jurídica que entram ao Uruguai para estabelecer uma presença comercial dessa pessoa jurídica no território uruguaio ou para realizar estudos de mercado para esse prestador de serviços.
+
+4. Não consolidado, exceto para medidas referentes às categorias de pessoas naturais mencionadas em Acesso a Mercados
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1171,10 +1712,15 @@ Lista de compromissos específicos
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4 Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td>a) Os representantes desses prestadores de serviços ou os empregados dessas pessoas jurídicas não participarão das vendas diretas ao público nem prestarão os mesmos serviços. b) Refere-se unicamente aos empregados de uma pessoa jurídica que não tenha a presença comercial no Uruguai. c) Esses representantes ou empregados não receberão remuneração alguma de fontes localizadas no Uruguai. Duração da estada: 90 dias prorrogáveis em território nacional por 90 dias adicionais. III. Prestadores de serviços por contrato - Empregados de pessoas jurídicas. Os empregados de uma empresa estabelecida no Chile que entrem, de forma temporária, em território uruguaio para prestar um serviço, de acordo com um ou vários contratos concluídos entre seu empregador e um ou vários consumidores do serviço no território uruguaio. a) Limita-se aos empregados de empresas estabelecidas no estrangeiro que carecem de presença comercial no Uruguai. b) A pessoa jurídica obteve um contrato para a prestação de um serviço no território uruguaio. c) Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. d) Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. Prazos de permanência: as pessoas que tiverem obtido um contrato ou um convite que especifique a atividade a desenvolver e, caso corresponder, a remuneração que receberá no estrangeiro, podem ingressar e permanecer no território uruguaio durante 15 dias prorrogáveis por 15 mais dias. As pessoas que tiverem obtido um contrato ou arrendamento de serviços ou de obra e que ingresse para prestar serviços a uma pessoa natural ou jurídica, radicada no Uruguai, podem ingressar e permanecer no território uruguaio por um ano prorrogável por igual período indefinidamente, enquanto durar sua condição de trabalhador contratado. IV. Profissionais e Técnicos Especializados: Pessoas naturais que ingressam no Uruguai, por períodos limitados de tempo para prestar ou desenvolver atividades vinculadas a sua profissão e especialidade, sob contrato entre eles e um cliente localizado no país: científicos, pesquisadores, docentes, profissionais, acadêmicos, técnicos, jornalistas, esportistas e artistas. 1. A pessoa física presta o serviço como trabalhador autônomo; 2. A pessoa física obteve um contrato de serviço no Uruguai;</td><td></td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+a) Os representantes desses prestadores de serviços ou os empregados dessas pessoas jurídicas não participarão das vendas diretas ao público nem prestarão os mesmos serviços. b) Refere-se unicamente aos empregados de uma pessoa jurídica que não tenha a presença comercial no Uruguai. c) Esses representantes ou empregados não receberão remuneração alguma de fontes localizadas no Uruguai. Duração da estada: 90 dias prorrogáveis em território nacional por 90 dias adicionais. III. Prestadores de serviços por contrato - Empregados de pessoas jurídicas. Os empregados de uma empresa estabelecida no Chile que entrem, de forma temporária, em território uruguaio para prestar um serviço, de acordo com um ou vários contratos concluídos entre seu empregador e um ou vários consumidores do serviço no território uruguaio. a) Limita-se aos empregados de empresas estabelecidas no estrangeiro que carecem de presença comercial no Uruguai. b) A pessoa jurídica obteve um contrato para a prestação de um serviço no território uruguaio. c) Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. d) Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. Prazos de permanência: as pessoas que tiverem obtido um contrato ou um convite que especifique a atividade a desenvolver e, caso corresponder, a remuneração que receberá no estrangeiro, podem ingressar e permanecer no território uruguaio durante 15 dias prorrogáveis por 15 mais dias. As pessoas que tiverem obtido um contrato ou arrendamento de serviços ou de obra e que ingresse para prestar serviços a uma pessoa natural ou jurídica, radicada no Uruguai, podem ingressar e permanecer no território uruguaio por um ano prorrogável por igual período indefinidamente, enquanto durar sua condição de trabalhador contratado. IV. Profissionais e Técnicos Especializados: Pessoas naturais que ingressam no Uruguai, por períodos limitados de tempo para prestar ou desenvolver atividades vinculadas a sua profissão e especialidade, sob contrato entre eles e um cliente localizado no país: científicos, pesquisadores, docentes, profissionais, acadêmicos, técnicos, jornalistas, esportistas e artistas. 1. A pessoa física presta o serviço como trabalhador autônomo; 2. A pessoa física obteve um contrato de serviço no Uruguai;
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1182,13 +1728,27 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td>3. Se receber uma remuneração pelo contrato, a mesma será paga, unicamente, à pessoa física. 4. A pessoa física possui as qualificações acadêmicas e de outro tipo, adequadas para a prestação do serviço. Duração da estada: as pessoas que tiverem obtido um contrato ou arrendamento de serviços ou obra e que ingressarem para prestar serviços a uma pessoa natural ou jurídica radicada no Uruguai podem permanecer até dois anos, prorrogáveis por igual período. V.Representantes de Empresas Estrangeiras: a) Pessoas que ingressam no país em caráter de depositário judicial de empresas estrangeiras, por períodos limitados de tempo, contratados entre seu empregador e um cliente domiciliado no Uruguai, onde o empregador não tem uma filial, recebem sua remuneração do exterior. b) Pessoas que entram no Uruguai por ser necessária sua presença no país para que sejam cumpridos os requisitos de outorga de licenças ou “franchising”. Duração da estada: um ano prorrogável por períodos iguais enquanto durar sua condição de representante da empresa.</td><td></td><td></td></tr>
-<tr><td>1. SERVIÇOS PRESTADOS ÀS EMPRESAS</td><td></td><td></td><td></td></tr>
-<tr><td>A. Serviços Profissionais</td><td>Para a prestação de serviços profissionais é necessário que as pessoas físicas possuam o título habilitante reconhecido no Uruguai, e fixar domicílio legal no país. As autoridades uruguaias regulamentarão o exercício destas profissões no futuro. O domicílio legal não implica residência no Uruguai</td><td></td><td></td></tr>
-<tr><td>a. Serviços Jurídicos 861 exceto 86130</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+3. Se receber uma remuneração pelo contrato, a mesma será paga, unicamente, à pessoa física. 4. A pessoa física possui as qualificações acadêmicas e de outro tipo, adequadas para a prestação do serviço. Duração da estada: as pessoas que tiverem obtido um contrato ou arrendamento de serviços ou obra e que ingressarem para prestar serviços a uma pessoa natural ou jurídica radicada no Uruguai podem permanecer até dois anos, prorrogáveis por igual período. V.Representantes de Empresas Estrangeiras: a) Pessoas que ingressam no país em caráter de depositário judicial de empresas estrangeiras, por períodos limitados de tempo, contratados entre seu empregador e um cliente domiciliado no Uruguai, onde o empregador não tem uma filial, recebem sua remuneração do exterior. b) Pessoas que entram no Uruguai por ser necessária sua presença no país para que sejam cumpridos os requisitos de outorga de licenças ou “franchising”. Duração da estada: um ano prorrogável por períodos iguais enquanto durar sua condição de representante da empresa.
+
+1. SERVIÇOS PRESTADOS ÀS EMPRESAS
+
+A. Serviços Profissionais
+
+Para a prestação de serviços profissionais é necessário que as pessoas físicas possuam o título habilitante reconhecido no Uruguai, e fixar domicílio legal no país. As autoridades uruguaias regulamentarão o exercício destas profissões no futuro. O domicílio legal não implica residência no Uruguai
+
+a. Serviços Jurídicos 861 exceto 86130
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1214,16 +1774,51 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td></td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>i. Serviços de Veterinária 932</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td></td></tr>
-<tr><td>j. Serviços prestados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico 93191</td><td>1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td>1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td></td></tr>
-<tr><td>B. Serviços de Informática e Serviços Conexos CCP 84, exceto para “time-stamping” (n.d), certificação digital (n.d) e outros (CCP 849)</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.</td><td></td></tr>
-<tr><td>C. Serviços de Pesquisa e Desenvolvimento</td><td></td><td>As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais.</td><td></td></tr>
-<tr><td>a. Serviços de Pesquisa e Desenvolvimento das Ciências Naturais 851 Não inclui a pesquisa científica e técnica no mar territorial, na zona econômica exclusiva e na plataforma continental do Uruguai.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b. Serviços de Pesquisa e Desenvolvimento das Ciências Sociais e as Humanísticas 852</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c. Serviços Interdisciplinares de Pesquisa e Desenvolvimento 853</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+i. Serviços de Veterinária 932
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+j. Serviços prestados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico 93191
+
+1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+B. Serviços de Informática e Serviços Conexos CCP 84, exceto para “time-stamping” (n.d), certificação digital (n.d) e outros (CCP 849)
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.
+
+C. Serviços de Pesquisa e Desenvolvimento
+
+As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais.
+
+a. Serviços de Pesquisa e Desenvolvimento das Ciências Naturais 851 Não inclui a pesquisa científica e técnica no mar territorial, na zona econômica exclusiva e na plataforma continental do Uruguai.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+b. Serviços de Pesquisa e Desenvolvimento das Ciências Sociais e as Humanísticas 852
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+c. Serviços Interdisciplinares de Pesquisa e Desenvolvimento 853
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1231,15 +1826,39 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td></td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>D. Serviços Imobiliários</td><td></td><td></td><td></td></tr>
-<tr><td>a. Serviços Imobiliários relativos a bens raízes próprios ou alugados 8210</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b. Serviços Imobiliários por comissão ou por contrato 8220</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Serviços pelo aluguel sem operários</td><td></td><td></td><td></td></tr>
-<tr><td>b. Serviços pelo aluguel de aeronaves sem tripulação 83104</td><td>1. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 2. Nenhuma 3. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 2) Nenhuma 3) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c. Serviços pelo aluguel de outro meio de transporte sem pessoal Serviços pelo aluguel de automóveis privados sem motorista 83101 - 83102</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.</td><td></td></tr>
-</table>
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+D. Serviços Imobiliários
+
+a. Serviços Imobiliários relativos a bens raízes próprios ou alugados 8210
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+b. Serviços Imobiliários por comissão ou por contrato 8220
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+E. Serviços pelo aluguel sem operários
+
+b. Serviços pelo aluguel de aeronaves sem tripulação 83104
+
+1. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 2. Nenhuma 3. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 2) Nenhuma 3) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c. Serviços pelo aluguel de outro meio de transporte sem pessoal Serviços pelo aluguel de automóveis privados sem motorista 83101 - 83102
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1266,16 +1885,55 @@ Lista de compromissos específicos.
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>i. Serviços relacionados com as Manufaturas 884-885 (exceto para os compreendidos na posição 88442)</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>k. Serviços de Colocação e Fornecimento de Pessoal 872</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>l. Serviços de pesquisa e segurança 873</td><td>1. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. As empresas e os prestadores individuais de segurança que pretenderem desempenhar estes serviços deverão obter a prévia autorização outorgada pelo Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de Domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>n. Serviços de manutenção e reparação de equipamentos (com exclusão das embarcações, aeronaves e outros equipamentos de transporte) 633 - 8861 - 8866</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>o. Serviços de limpeza de edifícios 874</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.</td><td></td></tr>
-<tr><td>p. Serviços de fotografia 875, exceto 87504</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>q. Serviços de empacotamento 876</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+i. Serviços relacionados com as Manufaturas 884-885 (exceto para os compreendidos na posição 88442)
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+k. Serviços de Colocação e Fornecimento de Pessoal 872
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+l. Serviços de pesquisa e segurança 873
+
+1. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. As empresas e os prestadores individuais de segurança que pretenderem desempenhar estes serviços deverão obter a prévia autorização outorgada pelo Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de Domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+n. Serviços de manutenção e reparação de equipamentos (com exclusão das embarcações, aeronaves e outros equipamentos de transporte) 633 - 8861 - 8866
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+o. Serviços de limpeza de edifícios 874
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.
+
+p. Serviços de fotografia 875, exceto 87504
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+q. Serviços de empacotamento 876
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1373,11 +2031,21 @@ Lista de compromissos específicos
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td>-por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; -que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional -controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>- Por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja integrada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; e - Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: - Domicílio social em território nacional. - Controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>B. Transporte de carga 7212</td><td>1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -que a metade mais um dos sócios esteja integrada por cidadãos naturais ou legais da República (sociedades pessoais); -por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; .</td><td></td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+-por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; -que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional -controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+- Por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja integrada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; e - Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: - Domicílio social em território nacional. - Controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+B. Transporte de carga 7212
+
+1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -que a metade mais um dos sócios esteja integrada por cidadãos naturais ou legais da República (sociedades pessoais); -por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; .
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1385,11 +2053,19 @@ Lista de compromissos específicos .
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td></td><td>1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional. -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios.</td><td></td></tr>
-<tr><td></td><td>-que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando seus proprietários, participantes ou naturais ou legais da República e justificarem seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas ou físicas, deverão acreditar sua condição de cidadãos estatais ou mistos: -Domicílio social no território nacional -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquina e o Rádio Operador ou Comissário. Reserva de carga aplicável pela efetiva aplicação do princípio de reciprocidade. O Convênio entre a República Oriental do Uruguai e a República Federativa do Brasil sobre transporte marítimo estabelece 50% de fretes de tráfego de intercâmbio reservado para cada bandeira. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>-Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando os proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando os proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas: - Domicílio social no território nacional. - Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquinas e Rádio Operador ou Comissário. Em tráfegos autorizados pelo Convênio com o Brasil 50% da tripulação deve ser uruguaia. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional. -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios.
+
+-que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando seus proprietários, participantes ou naturais ou legais da República e justificarem seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas ou físicas, deverão acreditar sua condição de cidadãos estatais ou mistos: -Domicílio social no território nacional -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquina e o Rádio Operador ou Comissário. Reserva de carga aplicável pela efetiva aplicação do princípio de reciprocidade. O Convênio entre a República Oriental do Uruguai e a República Federativa do Brasil sobre transporte marítimo estabelece 50% de fretes de tráfego de intercâmbio reservado para cada bandeira. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+-Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando os proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando os proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas: - Domicílio social no território nacional. - Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquinas e Rádio Operador ou Comissário. Em tráfegos autorizados pelo Convênio com o Brasil 50% da tripulação deve ser uruguaia. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1397,14 +2073,43 @@ Lista de compromissos específicos
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>e. Serviços de reboque e tração 7214</td><td>1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem entre porto do litoral oceânico está reservado a embarcações de bandeira nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. e 3. Para abandeirar um navio deve acreditar-se que empresa e representante tenham domicílio legal no território nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de exploração de portos 7451</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos.. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços Auxiliares de Transporte Marítimo Serviços de manipulação de carga objetivo de transporte marítimo</td><td>1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma** os prestadores destes serviços devem obter autorização prévia do Poder Executivo. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de armazenagem 742</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de estações e depósitos de contêineres</td><td>1) Não consolidado 2) Nenhuma 3) Nenhuma. Os prestadores destes serviços devem obter uma concessão e/ou autorização prévia do Poder Executivo, de acordo com a legislação nacional e com as condições contratuais acordadas com o prestador de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+e. Serviços de reboque e tração 7214
+
+1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem entre porto do litoral oceânico está reservado a embarcações de bandeira nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. e 3. Para abandeirar um navio deve acreditar-se que empresa e representante tenham domicílio legal no território nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de exploração de portos 7451
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos.. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços Auxiliares de Transporte Marítimo Serviços de manipulação de carga objetivo de transporte marítimo
+
+1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma** os prestadores destes serviços devem obter autorização prévia do Poder Executivo. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de armazenagem 742
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de estações e depósitos de contêineres
+
+1) Não consolidado 2) Nenhuma 3) Nenhuma. Os prestadores destes serviços devem obter uma concessão e/ou autorização prévia do Poder Executivo, de acordo com a legislação nacional e com as condições contratuais acordadas com o prestador de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1425,12 +2130,31 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>b. Transporte de carga 7222</td><td>1. e 3. Reservado para embarcações de bandeira nacional, exceto quando não estejam disponíveis na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão ter sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativas de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. e 3. Para realizar o serviço o navio deve possuir bandeira nacional, exceto quando não se disponham na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativa de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c. Aluguel de embarcações com tripulação 7223</td><td>1. e 3. Reservado a embarcações de bandeira nacional, exceto quando não existam navios nacionais disponíveis na matrícula. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. e 3. O alugador deve ser armador nacional. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>e. Serviços de reboque e tração 7224</td><td>1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão</td><td>1 e 3 Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2.Nenhuma 4.Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+b. Transporte de carga 7222
+
+1. e 3. Reservado para embarcações de bandeira nacional, exceto quando não estejam disponíveis na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão ter sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativas de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. e 3. Para realizar o serviço o navio deve possuir bandeira nacional, exceto quando não se disponham na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativa de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+c. Aluguel de embarcações com tripulação 7223
+
+1. e 3. Reservado a embarcações de bandeira nacional, exceto quando não existam navios nacionais disponíveis na matrícula. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. e 3. O alugador deve ser armador nacional. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+e. Serviços de reboque e tração 7224
+
+1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão
+
+1 e 3 Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2.Nenhuma 4.Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -1438,15 +2162,41 @@ Lista de compromissos específicos .
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>Serviços de exploração de portos 7451</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Serviços de transporte aéreo</td><td></td><td></td><td></td></tr>
-<tr><td>Venda e comercialização de serviços de transporte aéreo</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Manutenção de aeronaves</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>H. Serviços auxiliares relacionados com todos os meios de transporte</td><td></td><td></td><td></td></tr>
-<tr><td>b.Serviços de armazenamento e depósito 742 (exceto o regime de depósitos ou de armazenamento fiscais)</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+Serviços de exploração de portos 7451
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+C. Serviços de transporte aéreo
+
+Venda e comercialização de serviços de transporte aéreo
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+Manutenção de aeronaves
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+H. Serviços auxiliares relacionados com todos os meios de transporte
+
+b.Serviços de armazenamento e depósito 742 (exceto o regime de depósitos ou de armazenamento fiscais)
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
  ANEXO
 
@@ -1936,161 +2686,545 @@ ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>Serviços integrados de engenharia para outros projetos chave em mão (CCP 86739)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>g) Serviços de planejamento urbano e de arquitetura de paisagens (CCP 8674)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>h) Serviços médicos e dentários (CCP 9312)</td><td>1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4)Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>i) Serviços de veterinária (CCP 932)</td><td>1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>j) Serviços proporcionados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico (CCP 93191)</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>BServiços de informática e serviços conexos</td><td></td><td></td><td></td></tr>
-<tr><td>a)Serviços de consultores em instalação de equipamentos de informática. (CCP 841)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b)Serviços de aplicação de programas de informática (CCP 842)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c)Serviços de processamento de dados (CCP 843)</td><td>1) Nenhuma 2) Nenhuma 3)Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>d)Serviços de bases de dados (CCP 844)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+Serviços integrados de engenharia para outros projetos chave em mão (CCP 86739)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+g) Serviços de planejamento urbano e de arquitetura de paisagens (CCP 8674)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+h) Serviços médicos e dentários (CCP 9312)
+
+1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4)Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+i) Serviços de veterinária (CCP 932)
+
+1) Não consolidado por não regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado por não estar regulamentado 2) Nenhuma 3) Nenhuma a nível nacional 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+j) Serviços proporcionados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico (CCP 93191)
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4)Não consolidado, exceto pelo indicado na seção horizontal.
+
+BServiços de informática e serviços conexos
+
+a)Serviços de consultores em instalação de equipamentos de informática. (CCP 841)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+b)Serviços de aplicação de programas de informática (CCP 842)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c)Serviços de processamento de dados (CCP 843)
+
+1) Nenhuma 2) Nenhuma 3)Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+d)Serviços de bases de dados (CCP 844)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>e)Outros (CCP 845+849)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Serviços de pesquisa e de desenvolvimento</td><td></td><td></td><td></td></tr>
-<tr><td>a) Serviços de pesquisa e de desenvolvimento em Ciências Naturais e em Engenharia (CCP 851) Não inclui pesquisa científica e técnica no Mar Territorial, na Zona Econômica Exclusiva e na Plataforma Continental Argentina</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b) Serviços de pesquisa e desenvolvimento das Ciências Sociais e Humanísticas (CCP 852)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c) Serviços interdisciplinares de pesquisa e de desenvolvimento (CCP 853)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Serviços de aluguel sem operadores.</td><td></td><td></td><td></td></tr>
-<tr><td>b) Serviços de aluguel de aeronaves sem tripulação (CCP 83104)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c) Serviços de leasing ou aluguel de outros meios de tranasporte sem pessoal Serviços de leasing de automóveis privados sem motorista (CCP 83101+´83102</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+e)Outros (CCP 845+849)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+C. Serviços de pesquisa e de desenvolvimento
+
+a) Serviços de pesquisa e de desenvolvimento em Ciências Naturais e em Engenharia (CCP 851) Não inclui pesquisa científica e técnica no Mar Territorial, na Zona Econômica Exclusiva e na Plataforma Continental Argentina
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+b) Serviços de pesquisa e desenvolvimento das Ciências Sociais e Humanísticas (CCP 852)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c) Serviços interdisciplinares de pesquisa e de desenvolvimento (CCP 853)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+E. Serviços de aluguel sem operadores.
+
+b) Serviços de aluguel de aeronaves sem tripulação (CCP 83104)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c) Serviços de leasing ou aluguel de outros meios de tranasporte sem pessoal Serviços de leasing de automóveis privados sem motorista (CCP 83101+´83102
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>F.outros serviços prestados às empresas</td><td></td><td></td><td></td></tr>
-<tr><td>a)Serviços de publicidade (CCP 871)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b)Serviços de estudo de mercados e pesquisas de opinião pública (CCP 864)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c)Serviços de consultoria em administração (CCP 865)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>f) Serviços relacionados com a silvicultura: -serv. de plantação e viveiro -serv. relacionados com a produção florestal como a poda, ou raleio, os inventários florestais, a proteção sanitária, e contra os incêndios. (CCP ver. 1.1-86140)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>e) Serviços de ensaios e Análises técnicas de composição e de pureza. (CCP 86761)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>h)Serviços relacionados com a mineração (CCP 883+5115)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>i) Serviços relacionados com as manufaturas (CCP 884+885, exceto os compreendidos na posição 88442)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>k) Serviços de colocação e fornecimento de pessoal. (CCP872)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+F.outros serviços prestados às empresas
+
+a)Serviços de publicidade (CCP 871)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+b)Serviços de estudo de mercados e pesquisas de opinião pública (CCP 864)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c)Serviços de consultoria em administração (CCP 865)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+f) Serviços relacionados com a silvicultura: -serv. de plantação e viveiro -serv. relacionados com a produção florestal como a poda, ou raleio, os inventários florestais, a proteção sanitária, e contra os incêndios. (CCP ver. 1.1-86140)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+e) Serviços de ensaios e Análises técnicas de composição e de pureza. (CCP 86761)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+h)Serviços relacionados com a mineração (CCP 883+5115)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+i) Serviços relacionados com as manufaturas (CCP 884+885, exceto os compreendidos na posição 88442)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+k) Serviços de colocação e fornecimento de pessoal. (CCP872)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>l) Serviços de pesquisa e de segurança (CCP873)</td><td>1) Obrigação de constituir-se no território nacional. 2) Nenhuma. 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. As empresas de segurança deverão contar com participação nacional. 4) Em aditamento ao indicado na seção horizontal, a pessoa, o diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos</td><td>1) Nenhuma 2) Nenhuma 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. 4) Em aditamento ao indicado na seção horizontal, o pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos</td><td></td></tr>
-<tr><td>n) Serviços de manutenção e repa- paração (com exclusão das embar- cações, das aeronaves e outros equipamentos de transporte) (CCP 633)</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>o) Serviços de limpeza de edifícios (CCP 874)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>q.) Serviços de empacotamento (CCP876)</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>r) Serviços editoriais e de imprensa (CCP88442)</td><td>1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>s) Serviços prestados por ocasião de assembléias ou de convenções (CCP 87909*)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>t) Outros (CCP 8790)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+l) Serviços de pesquisa e de segurança (CCP873)
+
+1) Obrigação de constituir-se no território nacional. 2) Nenhuma. 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. As empresas de segurança deverão contar com participação nacional. 4) Em aditamento ao indicado na seção horizontal, a pessoa, o diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos
+
+1) Nenhuma 2) Nenhuma 3) O pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos. 4) Em aditamento ao indicado na seção horizontal, o pessoal diretivo e os empregados de empresas de segurança e custódia devem ser cidadãos argentinos
+
+n) Serviços de manutenção e repa- paração (com exclusão das embar- cações, das aeronaves e outros equipamentos de transporte) (CCP 633)
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+o) Serviços de limpeza de edifícios (CCP 874)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+q.) Serviços de empacotamento (CCP876)
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado * 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+r) Serviços editoriais e de imprensa (CCP88442)
+
+1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) A propriedade de empresas jornalísticas está reservada exclusivamente a nacionais argentinos. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+s) Serviços prestados por ocasião de assembléias ou de convenções (CCP 87909*)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4)4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+t) Outros (CCP 8790)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>2.SERVIÇOS DE COMUNICAÇÕES</td><td></td><td></td><td></td></tr>
-<tr><td>B. Serviços de mensageiros (CCP 7512)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. SERVIÇOS DE TELECOMUNICAÇÕES</td><td></td><td></td><td></td></tr>
-<tr><td>Todos os subsetores</td><td>Esta oferta não inclui fornecimento de facilidades satelitais dos satélites artificiais geoestacionários do Serviço Fixo por Satélite.</td><td></td><td></td></tr>
-<tr><td>Os serviços incluídos nesta coluna poderão ser prestados mediante qualquer meio tecnológico (Ex: fibra ótica, conexões radielétricas, atélites cabo), com exceção das limitações indicadas na coluna de acesso aos mercados.</td><td></td><td></td><td></td></tr>
-<tr><td>-Serviço telefônico básico local e de longa distância nacional (CCP 7521)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>-Serviço telefônico básico local e de longa distância nacional (CCP 7521)</td></tr>
-<tr><td>- Telefonia internacional (CCP 7521)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>- Dados Nacionais (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+2.SERVIÇOS DE COMUNICAÇÕES
+
+B. Serviços de mensageiros (CCP 7512)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+C. SERVIÇOS DE TELECOMUNICAÇÕES
+
+Todos os subsetores
+
+Esta oferta não inclui fornecimento de facilidades satelitais dos satélites artificiais geoestacionários do Serviço Fixo por Satélite.
+
+Os serviços incluídos nesta coluna poderão ser prestados mediante qualquer meio tecnológico (Ex: fibra ótica, conexões radielétricas, atélites cabo), com exceção das limitações indicadas na coluna de acesso aos mercados.
+
+-Serviço telefônico básico local e de longa distância nacional (CCP 7521)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Serviço telefônico básico local e de longa distância nacional (CCP 7521)
+
+- Telefonia internacional (CCP 7521)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+- Dados Nacionais (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>- Telex Nacional (CCP 7523**)l</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>- Fac-símile Nacional Armazenagem e retransmissão (CCP 7521** + 7529**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>-Dados Internacionais (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>Ver Anexo adjunto</td></tr>
-<tr><td>-Telex Internacional (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>-Fac-símile Internacional Armazenagem e retransmissão (CCP 7521** + 7529**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>-Circuitos alugados para telefonia</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Circuitos alugados para voz e dados internacionais</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>Ver Anexo adjunto</td></tr>
-<tr><td>Serviços Móveis: Serviço de Telefonia Móvel (STM) Serviço de Comunicações Pessoais (PCS) Busca de pessoas (Paging) Concentração de enlaces (Trunking) Dados móveis</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma O STM se presta em um regime duopólico ficando determinado o espectro disponível em todas as áreas de exploração. No Serviço de Comunicações Pessoais (PCS), a autoridade de aplicação determinará, conforme as necessidades presentes e futuras, a quantidade de prestadores por áreas de exploração. 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+- Telex Nacional (CCP 7523**)l
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+- Fac-símile Nacional Armazenagem e retransmissão (CCP 7521** + 7529**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Dados Internacionais (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+Ver Anexo adjunto
+
+-Telex Internacional (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Fac-símile Internacional Armazenagem e retransmissão (CCP 7521** + 7529**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+-Circuitos alugados para telefonia
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+Circuitos alugados para voz e dados internacionais
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+Ver Anexo adjunto
+
+Serviços Móveis: Serviço de Telefonia Móvel (STM) Serviço de Comunicações Pessoais (PCS) Busca de pessoas (Paging) Concentração de enlaces (Trunking) Dados móveis
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma O STM se presta em um regime duopólico ficando determinado o espectro disponível em todas as áreas de exploração. No Serviço de Comunicações Pessoais (PCS), a autoridade de aplicação determinará, conforme as necessidades presentes e futuras, a quantidade de prestadores por áreas de exploração. 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISSOS ESPECÍFICOS
 
 Modos de prestação:1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>h)Correio eletrônico (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>i)Correio de voz (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>j) Extração de informação on-line e de bases de dados (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>k)Serviços de intercâmbio eletrônico de dados (IED) (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>l) Serviços de fac-símile ampliados/de valor agregado, incluídos os de armazenagem e retransmissão e o de armazenagem e recuperação (CCP 7523**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>m) Conversão de códigos e de protocolos</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>n) Processamento de dados e/ou informação on-line (com inclusão do processamento de transação) (CCP 843**)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>o) Outros</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+h)Correio eletrônico (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+i)Correio de voz (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+j) Extração de informação on-line e de bases de dados (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+k)Serviços de intercâmbio eletrônico de dados (IED) (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+l) Serviços de fac-símile ampliados/de valor agregado, incluídos os de armazenagem e retransmissão e o de armazenagem e recuperação (CCP 7523**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+m) Conversão de códigos e de protocolos
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+n) Processamento de dados e/ou informação on-line (com inclusão do processamento de transação) (CCP 843**)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+o) Outros
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
  ARGENTINA - LISTA DE COMPROMISOS ESPECÍFICOS
 
 Modos de prestação: 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>3. SERVIÇOS DE CONSTRUÇÃO E SERVIÇOS DE ENGENHARIA CONEXOS</td><td></td><td></td><td></td></tr>
-<tr><td>A. Trabalhos gerais de construção para a edificação (CCP 512)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Armado de construções pré-fabricadas e trabalhos de instalação (CCP 514+516)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>D. Trabalhos de acabamento de edifícios (CCP 517)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Outros (CCP 511+515+518)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>4. SERVIÇOS DE DISTRIBUIÇÃO</td><td></td><td></td><td></td></tr>
-<tr><td>B.Serviços comerciais por atacado (CCP 622)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C.Serviços comerciais a varejo (CCP 631+632) 6111+6113+6121</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>D. Serviços de franquia (CCP 8929)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+3. SERVIÇOS DE CONSTRUÇÃO E SERVIÇOS DE ENGENHARIA CONEXOS
+
+A. Trabalhos gerais de construção para a edificação (CCP 512)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+C. Armado de construções pré-fabricadas e trabalhos de instalação (CCP 514+516)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+D. Trabalhos de acabamento de edifícios (CCP 517)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+E. Outros (CCP 511+515+518)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+4. SERVIÇOS DE DISTRIBUIÇÃO
+
+B.Serviços comerciais por atacado (CCP 622)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+C.Serviços comerciais a varejo (CCP 631+632) 6111+6113+6121
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+D. Serviços de franquia (CCP 8929)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISOS ESPECÍFICOS
 
 Modos de prestação: 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>9. SERVIÇOS DE TURISMO E SERVIÇOS RELACIONADOS COM AS VIAGENS</td><td></td><td></td><td></td></tr>
-<tr><td>A.Hotéis e restaurantes (incluídos os serviços de abastecimento de comidas do exterior por contrato) (CCP 641/643)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>B. Serviços de agências de viagens e organização de viagens em grupo (CCP 7471)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Serviços de guias de turismo (CCP 7472)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>D. Outros</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>11. SERVIÇOS DE TRANSPORTE</td><td></td><td></td><td></td></tr>
-<tr><td>A. Serviços de transporte marítimo</td><td></td><td></td><td></td></tr>
-<tr><td>f. Serviços de apoio relacionado com o transporte</td><td></td><td></td><td></td></tr>
-<tr><td>Outros serviços auxiliares ao transporte por água (7459)</td><td></td><td></td><td></td></tr>
-<tr><td>Serviços de limpeza, desinfecção, fumigação, controle de parasitos e serviços semelhantes.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+9. SERVIÇOS DE TURISMO E SERVIÇOS RELACIONADOS COM AS VIAGENS
+
+A.Hotéis e restaurantes (incluídos os serviços de abastecimento de comidas do exterior por contrato) (CCP 641/643)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+B. Serviços de agências de viagens e organização de viagens em grupo (CCP 7471)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+C. Serviços de guias de turismo (CCP 7472)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+D. Outros
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+11. SERVIÇOS DE TRANSPORTE
+
+A. Serviços de transporte marítimo
+
+f. Serviços de apoio relacionado com o transporte
+
+Outros serviços auxiliares ao transporte por água (7459)
+
+Serviços de limpeza, desinfecção, fumigação, controle de parasitos e serviços semelhantes.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ARGENTINA - LISTA DE COMPROMISOS ESPECÍFICOS
 
 Modos de prestação: 1) Prestação transfronteiriça  2) Consumo no exterior 3) Presença comercial 4) Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>C. Serviços de transporte aéreo</td><td></td><td></td><td></td></tr>
-<tr><td>Venda e comercialização de serviços de transporte aéreo</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de sistemas de reserva informatizados</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+C. Serviços de transporte aéreo
+
+Venda e comercialização de serviços de transporte aéreo
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto o indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de sistemas de reserva informatizados
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 ANEXO
 
@@ -2182,38 +3316,69 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>3. De acordo com as leis e regulamentos que regem os investimentos estrangeiros, todo capital estrangeiro aplicado no Brasil deve ser registrado no Banco Central do Brasil para que se possam remeter fundos ao estrangeiro. O Banco Central do Brasil estabelece os procedimentos relativos a remessas e transferências de fundos ao exterior. Os prestadores estrangeiros de serviços que desejem prestar serviços como pessoa jurídica deverão adotar uma das formas societárias previstas em lei no Brasil. A lei brasileira estabelece distinção entre a pessoa jurídica e as pessoas físicas que a controlam, o que, conseqüentemente, confere vida independente à pessoa jurídica. Disso resulta que a pessoa jurídica tem plenos direitos e responsabilidades sob seu patrimônio e suas obrigações. Uma sociedade adquire a condição de pessoa jurídica de direito privado ao registrar devidamente o respectivo contrato social (Estatuto e/ou Contrato) junto ao Registro Público (RP) competente. É indispensável que os assentamentos do RP contenham as seguintes informações sobre a pessoa jurídica:</td><td>3) Nenhuma 4) Não consolidado, exceto pelo indicado na coluna de acesso a mercados.</td><td></td></tr>
-<tr><td></td><td>i. denominação, objetos e localização de sede; ii. descrição da pessoa que ocupa cargos diretivos, incluindo as pessoas que ostentem representação ativa e passiva, judicial e extra-judicial; iii. o processo de alteração dos dispositivos de administração; iv. disposições relativas às responsabilidades dos administradores por atos que pratiquem; e v. disposições relativas à sua dissolução, que incluam o destino que terão seus ativos. Não são consideradas pessoas jurídicas pela lei brasileira a “empresa individual” e a “parceria”. Poder-se-á estabelecer joint venture por associação de capitais mediante a constituição de qualquer tipo de sociedade comercial prevista na lei brasileira (geralmente trata-se de uma Sociedade Privada de Responsabilidade Limitada ou uma Sociedade Anônima). Também se pode estabelecer joint venture por meio de consórcio, que não é nem pessoa jurídica, nem um tipo de associação de capital. O consórcio é utilizado sobretudo em grandes contratos de prestação de serviços. Trata-se da associação de duas ou mais empresas para a realização conjunta de uma finalidade específica. Cada associado do consórcio mantém sua própria estrutura organizacional. 4) Não consolidado, exceto nos casos que se referem a medidas que afetam a entrada e permanência temporária no Brasil relativas às seguintes categorias de pessoas: 1. Pessoal transferido dentro da mesma empresa Definição: Os empregados de uma companhia/associação/empresa estabelecida no território de uma Parte que são transferidos temporariamente para a prestação de serviço mediante presença comercial no território do Brasil. Deve existir uma relação de associação entre o prestador de serviços instalado no território do Brasil e sua sede no estrangeiro. Deve existir uma vaga correspondente ao posto. Entende-se por empregados: i) Executivos Definição: Os executivos são aqueles que se encarregam principalmente da gestão da organização e têm ampla liberdade de ação para tomar decisões. Para nomear um executivo ou diretor, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do executivo ou diretor; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Gerentes Definição: Os gerentes são aqueles que se encarregam principalmente da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretores ou profissionais. Para nomear um gerente ou administrador, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do gerente ou administrador; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por igual período, uma única vez, de acordo com as leis e regulamentos nacionais. iii) Especialistas Definição: Os especialistas são aqueles que possuem conhecimentos especializados de um nível avançado, essenciais para o estabelecimento/prestação do serviço e/ou possuem conhecimentos de domínio privado da organização. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de três anos no mínimo. A empresa deve justificar a necessidade de contratar tais profissionais e técnicos tendo em conta os profissionais e técnicos similares disponíveis no Brasil.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+3. De acordo com as leis e regulamentos que regem os investimentos estrangeiros, todo capital estrangeiro aplicado no Brasil deve ser registrado no Banco Central do Brasil para que se possam remeter fundos ao estrangeiro. O Banco Central do Brasil estabelece os procedimentos relativos a remessas e transferências de fundos ao exterior. Os prestadores estrangeiros de serviços que desejem prestar serviços como pessoa jurídica deverão adotar uma das formas societárias previstas em lei no Brasil. A lei brasileira estabelece distinção entre a pessoa jurídica e as pessoas físicas que a controlam, o que, conseqüentemente, confere vida independente à pessoa jurídica. Disso resulta que a pessoa jurídica tem plenos direitos e responsabilidades sob seu patrimônio e suas obrigações. Uma sociedade adquire a condição de pessoa jurídica de direito privado ao registrar devidamente o respectivo contrato social (Estatuto e/ou Contrato) junto ao Registro Público (RP) competente. É indispensável que os assentamentos do RP contenham as seguintes informações sobre a pessoa jurídica:
+
+3) Nenhuma 4) Não consolidado, exceto pelo indicado na coluna de acesso a mercados.
+
+i. denominação, objetos e localização de sede; ii. descrição da pessoa que ocupa cargos diretivos, incluindo as pessoas que ostentem representação ativa e passiva, judicial e extra-judicial; iii. o processo de alteração dos dispositivos de administração; iv. disposições relativas às responsabilidades dos administradores por atos que pratiquem; e v. disposições relativas à sua dissolução, que incluam o destino que terão seus ativos. Não são consideradas pessoas jurídicas pela lei brasileira a “empresa individual” e a “parceria”. Poder-se-á estabelecer joint venture por associação de capitais mediante a constituição de qualquer tipo de sociedade comercial prevista na lei brasileira (geralmente trata-se de uma Sociedade Privada de Responsabilidade Limitada ou uma Sociedade Anônima). Também se pode estabelecer joint venture por meio de consórcio, que não é nem pessoa jurídica, nem um tipo de associação de capital. O consórcio é utilizado sobretudo em grandes contratos de prestação de serviços. Trata-se da associação de duas ou mais empresas para a realização conjunta de uma finalidade específica. Cada associado do consórcio mantém sua própria estrutura organizacional. 4) Não consolidado, exceto nos casos que se referem a medidas que afetam a entrada e permanência temporária no Brasil relativas às seguintes categorias de pessoas: 1. Pessoal transferido dentro da mesma empresa Definição: Os empregados de uma companhia/associação/empresa estabelecida no território de uma Parte que são transferidos temporariamente para a prestação de serviço mediante presença comercial no território do Brasil. Deve existir uma relação de associação entre o prestador de serviços instalado no território do Brasil e sua sede no estrangeiro. Deve existir uma vaga correspondente ao posto. Entende-se por empregados: i) Executivos Definição: Os executivos são aqueles que se encarregam principalmente da gestão da organização e têm ampla liberdade de ação para tomar decisões. Para nomear um executivo ou diretor, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do executivo ou diretor; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Gerentes Definição: Os gerentes são aqueles que se encarregam principalmente da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretores ou profissionais. Para nomear um gerente ou administrador, devem reunir-se os seguintes requisitos: a) o investimento deve ser de no mínimo US$ 50.000,00, sempre que a empresa crie 10 novos empregos durante os dois primeiros anos desde o estabelecimento ou entrada do gerente ou administrador; ou b) a empresa deve ter investido no Brasil um mínimo de US$ 200.000,00. Duração da estada: até três anos, prorrogáveis, por igual período, uma única vez, de acordo com as leis e regulamentos nacionais. iii) Especialistas Definição: Os especialistas são aqueles que possuem conhecimentos especializados de um nível avançado, essenciais para o estabelecimento/prestação do serviço e/ou possuem conhecimentos de domínio privado da organização. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de três anos no mínimo. A empresa deve justificar a necessidade de contratar tais profissionais e técnicos tendo em conta os profissionais e técnicos similares disponíveis no Brasil.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>As pessoas jurídicas devem respeitar a proporção de ao menos dois brasileiros por cada três empregados. Duração da estada: até dois anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 2. Pessoas em visita de negócios i) Vendedores de serviços Definição: Representantes de um prestador de serviços que entram temporariamente no território do Brasil para vender serviços ou concluir acordos de venda desses serviços para esse prestador de serviços e/ou participar de reuniões nesse contexto. Os representantes desses prestadores de serviços não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Também não receberão remuneração alguma de fontes localizadas no território do Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Pessoas responsáveis por estabelecer presença comercial Definição: Empregados de uma pessoa jurídica com o objetivo de estabelecer presença comercial dessa pessoa jurídica no território do Brasil e/ou participar de reuniões nesse contexto. Os empregados dessas pessoas jurídicas não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Referem-se unicamente aos empregados de uma pessoa jurídica que não tenha presença comercial no território do Brasil. Esses empregados não receberão remuneração alguma de fontes localizadas no território do Brasil. Para estabelecer presença comercial, as pessoas em visita de negócios devem designar como representante um residente no Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 3. Prestadores de serviços por contrato - Empregados de pessoas jurídicas Definição: Os empregados de uma companhia/associação/empresa estabelecida no estrangeiro que entrem temporariamente no território do Brasil com o objetivo de prestar serviço de acordo com um contrato concluído entre seu empregador e um consumidor do serviço no território do Brasil.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+As pessoas jurídicas devem respeitar a proporção de ao menos dois brasileiros por cada três empregados. Duração da estada: até dois anos, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 2. Pessoas em visita de negócios i) Vendedores de serviços Definição: Representantes de um prestador de serviços que entram temporariamente no território do Brasil para vender serviços ou concluir acordos de venda desses serviços para esse prestador de serviços e/ou participar de reuniões nesse contexto. Os representantes desses prestadores de serviços não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Também não receberão remuneração alguma de fontes localizadas no território do Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. ii) Pessoas responsáveis por estabelecer presença comercial Definição: Empregados de uma pessoa jurídica com o objetivo de estabelecer presença comercial dessa pessoa jurídica no território do Brasil e/ou participar de reuniões nesse contexto. Os empregados dessas pessoas jurídicas não participarão nas vendas diretas ao público nem prestarão eles mesmos os serviços. Referem-se unicamente aos empregados de uma pessoa jurídica que não tenha presença comercial no território do Brasil. Esses empregados não receberão remuneração alguma de fontes localizadas no território do Brasil. Para estabelecer presença comercial, as pessoas em visita de negócios devem designar como representante um residente no Brasil. Duração da estada: até noventa (90) dias, prorrogáveis, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 3. Prestadores de serviços por contrato - Empregados de pessoas jurídicas Definição: Os empregados de uma companhia/associação/empresa estabelecida no estrangeiro que entrem temporariamente no território do Brasil com o objetivo de prestar serviço de acordo com um contrato concluído entre seu empregador e um consumidor do serviço no território do Brasil.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL 
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>Limita-se aos empregados de empresas estabelecidas no estrangeiro que não tenham presença comercial no território do Brasil. Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. A pessoa jurídica da outra Parte deve obter um contrato de serviços para a prestação do serviço no território do Brasil. O consumidor do serviço deve ser uma pessoa jurídica estabelecida no Brasil. Deve existir um contrato de assistência tecnológica ou de transferência de tecnologia entre a empresa estrangeira e o consumidor do serviço estabelecido no Brasil. Para cada profissional estrangeiro incluído no contrato, devem prestar-se a) justificativa da necessidade dos serviços do profissional em questão, tendo em conta a disponibilidade de profissionais no Brasil e b) provas de que o profissional dispõe de uma experiência prévia de pelo menos 3 anos. No caso em que a empresa estrangeira não conte com profissionais brasileiros, deverá haver um plano de treinamento que contemple a formação de profissionais brasileiros. Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 4. Profissional Independente Definição: Uma pessoa física, que entre temporariamente no Brasil, com o objetivo de prestar um serviço sob contrato de trabalho outorgado por uma pessoa jurídica estabelecida no território do Brasil. As pessoas jurídicas devem respeitar a proporção de pelo menos dois brasileiros para cada três empregados. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de no mínimo três anos, e sua escolaridade, que deve ser superior. A empresa deve justificar a necessidade de contratar tais profissionais tendo em conta os profissionais similares disponíveis no Brasil.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+Limita-se aos empregados de empresas estabelecidas no estrangeiro que não tenham presença comercial no território do Brasil. Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. A pessoa jurídica da outra Parte deve obter um contrato de serviços para a prestação do serviço no território do Brasil. O consumidor do serviço deve ser uma pessoa jurídica estabelecida no Brasil. Deve existir um contrato de assistência tecnológica ou de transferência de tecnologia entre a empresa estrangeira e o consumidor do serviço estabelecido no Brasil. Para cada profissional estrangeiro incluído no contrato, devem prestar-se a) justificativa da necessidade dos serviços do profissional em questão, tendo em conta a disponibilidade de profissionais no Brasil e b) provas de que o profissional dispõe de uma experiência prévia de pelo menos 3 anos. No caso em que a empresa estrangeira não conte com profissionais brasileiros, deverá haver um plano de treinamento que contemple a formação de profissionais brasileiros. Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 4. Profissional Independente Definição: Uma pessoa física, que entre temporariamente no Brasil, com o objetivo de prestar um serviço sob contrato de trabalho outorgado por uma pessoa jurídica estabelecida no território do Brasil. As pessoas jurídicas devem respeitar a proporção de pelo menos dois brasileiros para cada três empregados. Os contratos pertinentes devem ser aprovados pelo Ministério do Trabalho. Para tal aprovação, é levada em conta a compatibilidade das qualificações da pessoa com o setor comercial em que opera a empresa, assim como sua experiência profissional, que deve ser de no mínimo três anos, e sua escolaridade, que deve ser superior. A empresa deve justificar a necessidade de contratar tais profissionais tendo em conta os profissionais similares disponíveis no Brasil.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL 
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>TODOS OS SETORES INCLUÍDOS NESTA LISTA</td><td>Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 5. Estagiários Definição: Pessoa, nacional do Chile, que venha ao Brasil para realizar a parte prática do ensino superior ou de caráter profissional, que, associada à parte teórica, contribua para seu aperfeiçoamento profissional. Deverá ser elaborado “Termo de Compromisso” entre o estagiário e a empresa ou instituição brasileira, com a participação de um intermediário, que poderá ser: uma entidade de intercâmbio de estudantes, oficialmente reconhecida; um organismo de cooperação internacional; ou setores de cooperação internacional de diferentes Ministérios da República Federativa do Brasil O estagiário poderá ser beneficiário unicamente da bolsa de permanência e não será considerado empregado da empresa. Duração da estada: até 1 ano O empregado de uma empresa estabelecida no território do Chile que seja admitido no Brasil como estagiário em uma sucursal ou escritório de representação no Brasil deverá cumprir os seguintes critérios: a remuneração deverá ocorrer unicamente no estrangeiro pela empresa estabelecida no território chileno; e exige-se autorização do Ministério do Trabalho e do Emprego Duração da estada: até 1 ano Para todas as categorias: Seguirão aplicando-se todos os demais requisitos, leis e regulamentos relativos à entrada, estada e trabalho. A permissão de trabalho estará sujeita ao desempenho das funções para as quais foi concedida com autorização do Ministério do Trabalho e do Emprego.</td><td></td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+TODOS OS SETORES INCLUÍDOS NESTA LISTA
+
+Duração da estada: até um ano, prorrogável, por uma única vez, por igual período, de acordo com as leis e regulamentos nacionais. 5. Estagiários Definição: Pessoa, nacional do Chile, que venha ao Brasil para realizar a parte prática do ensino superior ou de caráter profissional, que, associada à parte teórica, contribua para seu aperfeiçoamento profissional. Deverá ser elaborado “Termo de Compromisso” entre o estagiário e a empresa ou instituição brasileira, com a participação de um intermediário, que poderá ser: uma entidade de intercâmbio de estudantes, oficialmente reconhecida; um organismo de cooperação internacional; ou setores de cooperação internacional de diferentes Ministérios da República Federativa do Brasil O estagiário poderá ser beneficiário unicamente da bolsa de permanência e não será considerado empregado da empresa. Duração da estada: até 1 ano O empregado de uma empresa estabelecida no território do Chile que seja admitido no Brasil como estagiário em uma sucursal ou escritório de representação no Brasil deverá cumprir os seguintes critérios: a remuneração deverá ocorrer unicamente no estrangeiro pela empresa estabelecida no território chileno; e exige-se autorização do Ministério do Trabalho e do Emprego Duração da estada: até 1 ano Para todas as categorias: Seguirão aplicando-se todos os demais requisitos, leis e regulamentos relativos à entrada, estada e trabalho. A permissão de trabalho estará sujeita ao desempenho das funções para as quais foi concedida com autorização do Ministério do Trabalho e do Emprego.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
@@ -2273,12 +3438,31 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL 
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>2.C SERVIÇOS DE TELECOMUNICAÇÕES Serviços Locais, de Longa Distância e Internacionais, para uso público ou não, prestados por meio de qualquer tecnologia de rede (cabo, satélite, etc) a) Serviços telefônicos de voz b) Serviços de transmissão de datos por comutação de pacotes c) Serviços de Transmissão de Dados por Comutação de Circuitos d) Serviços de Telex e) Serviços Telegráficos f) Serviços de fac-símile g) Serviços de Aluguel de Circuitos Privativos</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>o) Outros serviços de telecomunicações básicas Serviços móveis Serviços celulares analógicos e digitais (800 MHz, 900 MHz, 1800 MHz, 1900/2100 MHz) Serviços móveis globais por satélite Serviços de paging Serviços de trunking (460 MHz, 800 MHz, 900 MHz)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>D. Serviços Audiovisuais Serviços de produção e distribuição de filmes e vídeo tapes (CPC 9611)</td><td>1) Não consolidado 2) Não consolidado 3) Não consolidado 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 2) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 3) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+2.C SERVIÇOS DE TELECOMUNICAÇÕES Serviços Locais, de Longa Distância e Internacionais, para uso público ou não, prestados por meio de qualquer tecnologia de rede (cabo, satélite, etc) a) Serviços telefônicos de voz b) Serviços de transmissão de datos por comutação de pacotes c) Serviços de Transmissão de Dados por Comutação de Circuitos d) Serviços de Telex e) Serviços Telegráficos f) Serviços de fac-símile g) Serviços de Aluguel de Circuitos Privativos
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+o) Outros serviços de telecomunicações básicas Serviços móveis Serviços celulares analógicos e digitais (800 MHz, 900 MHz, 1800 MHz, 1900/2100 MHz) Serviços móveis globais por satélite Serviços de paging Serviços de trunking (460 MHz, 800 MHz, 900 MHz)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma, exceto pelo indicado na seção horizontal deste subsetor e na seção de compromissos horizontais 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+D. Serviços Audiovisuais Serviços de produção e distribuição de filmes e vídeo tapes (CPC 9611)
+
+1) Não consolidado 2) Não consolidado 3) Não consolidado 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 2) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 3) Não consolidado, exceto quanto à aplicação da taxa CONDECINE, em que as obras cinematográficas chilenas receberão o mesmo tratamento dado às obras brasileiras. 4) Não consolidado, exceto pelo indicado na seção horizontal
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
@@ -2342,15 +3526,49 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>Serviços de despacho de alfândegas (conforme indicado no ponto 3 das Definições)</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de estações e depósitos de contêineres (conforme indicado no ponto 4 das Definições)</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de agências marítimas (conforme indicado no ponto 5 das Definições)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de transitários marítimos (conforme indicado no ponto 6 das Definições)</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Manutenção e reparação de embarcações (CPC 8868)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal</td><td></td></tr>
-<tr><td>Serviços de rebocadores (7214)</td><td>1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal. Para arvorar a bandeira brasileira, serão necessariamente brasileiros o comandante, o chefe de máquinas e 2/3 da tripulação. Caso a embarcação conte com o Registro Especial Brasileiro (REB), serão necessariamente brasileiros apenas o comandante e o chefe de máquinas</td><td>1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+Serviços de despacho de alfândegas (conforme indicado no ponto 3 das Definições)
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de estações e depósitos de contêineres (conforme indicado no ponto 4 das Definições)
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública, assim como às leis e regulamentos aduaneiros nacionais. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de agências marítimas (conforme indicado no ponto 5 das Definições)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de transitários marítimos (conforme indicado no ponto 6 das Definições)
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma, exceto que a ocupação de zonas de caráter público nos portos está sujeita a procedimentos de disponibilidade e concessão, ou à licitação pública. 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Nenhuma 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Manutenção e reparação de embarcações (CPC 8868)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal
+
+Serviços de rebocadores (7214)
+
+1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal. Para arvorar a bandeira brasileira, serão necessariamente brasileiros o comandante, o chefe de máquinas e 2/3 da tripulação. Caso a embarcação conte com o Registro Especial Brasileiro (REB), serão necessariamente brasileiros apenas o comandante e o chefe de máquinas
+
+1) Não consolidado 2) Não consolidado 3) A presença comercial exige a constituição de uma empresa brasileira de navegação conforme as leis e regulamentos nacionais, exigindo, entre outros requisitos, a posse de pelo menos uma embarcação e recursos de capital suficientes à atividade a ser explorada 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
@@ -2366,14 +3584,43 @@ LISTA DE COMPROMISSOS ESPECÍFICOS DO BRASIL
 
 Modos de prestação:  1) Prestação transfronteiriça 2) Consumo no Exterior 3) Presença Comercial 4) Presença de Pessoas Físicas 
 
-<table>
-<tr><td>Setor ou subsetor</td><td>Limitações ao acesso a mercados</td><td>Limitações ao tratamento nacional</td><td>Compromissos adicionais</td></tr>
-<tr><td>C. Serviços de transporte aéreo Manutenção e reparação de aeronaves (CPC 8868)</td><td>1) Nenhuma 2) Nenhuma 3)A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Nenhuma 2) Nenhuma 3) A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Serviços de transporte ferroviário Transporte de cargas (CPC 71121, CPC 71123, CPC 71129)</td><td>1) Não consolidado 2) Não consolidado 3) É necessária autorização do Governo. A concessão de novas autorizações é discricionária. Pode-se limitar o número de prestadores de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>F. Serviços de transporte rodoviário Transporte de cargas (CPC 71231, CPC 71233, CPC 71234)</td><td>1) Não consolidador 2) Não consolidado 3) Nenhuma, exceto no que respeita ao transporte internacional terrestre, tal como previsto no Acordo sobre Transporte Internacional Terrestre adotado por Argentina, Bolívia, Brasil, Chile, Paraguai e Uruguai. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>G. Transporte por dutos Transporte de outros produtos (CPC 7139 excluídos os hidrocarbonetos)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>H. Serviços auxiliares para todo tipo de transporte a) Serviços de carga e descarga (CPC 741) b) Serviços de armazenagem (CPC 742)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+Setor ou subsetor
+
+Limitações ao acesso a mercados
+
+Limitações ao tratamento nacional
+
+Compromissos adicionais
+
+C. Serviços de transporte aéreo Manutenção e reparação de aeronaves (CPC 8868)
+
+1) Nenhuma 2) Nenhuma 3)A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Nenhuma 2) Nenhuma 3) A empresa estrangeira deve receber autorização presidencial para funcionar e é obrigada a manter, em base permanente, um representante no Brasil para resolver quaisquer questões e receber citação judicial pela sociedade. A empresa deve ser homologada pela Agência Nacional de Aviação Civil (ANAC), conforme os parâmetros da OACI. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+E. Serviços de transporte ferroviário Transporte de cargas (CPC 71121, CPC 71123, CPC 71129)
+
+1) Não consolidado 2) Não consolidado 3) É necessária autorização do Governo. A concessão de novas autorizações é discricionária. Pode-se limitar o número de prestadores de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+F. Serviços de transporte rodoviário Transporte de cargas (CPC 71231, CPC 71233, CPC 71234)
+
+1) Não consolidador 2) Não consolidado 3) Nenhuma, exceto no que respeita ao transporte internacional terrestre, tal como previsto no Acordo sobre Transporte Internacional Terrestre adotado por Argentina, Bolívia, Brasil, Chile, Paraguai e Uruguai. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+G. Transporte por dutos Transporte de outros produtos (CPC 7139 excluídos os hidrocarbonetos)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+H. Serviços auxiliares para todo tipo de transporte a) Serviços de carga e descarga (CPC 741) b) Serviços de armazenagem (CPC 742)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 LISTA DE COMPROMISSOS ESPECÍFICOS NOS SERVIÇOS
 
@@ -2534,10 +3781,19 @@ LISTA DO CHILE
 
 Modo de Fornecimento: 1) Prestação transfronteiriça    2) Consumo no Exterior   3) Presença Comercial   4) Movimentação de pessoas físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao Acesso aos Mercados</td><td>Limitações ao Tratamento Nacional</td><td>Compromissos Adicionais</td></tr>
-<tr><td>COMPROMISSOS HORIZONTAIS Todos os serviços incluídos nesta lista</td><td>3) A autorização de presença comercial será outorgada às pessoas jurídicas constituídas conforme a Legislação Nacional do Paraguai, com sede e representação no território paraguaio, para os efeitos de suas prerrogativas e responsabilidades. Aquisição de terra: Não consolidado, no referente a zonas de fronteira. Sociedades constituídas no estrangeiro: As sociedades constituídas no estrangeiro têm seu domicílio no lugar onde está o principal de seus negócios. Os estabelecimentos, agências ou sucursais constituídas na República se consideram domiciliados nela no tocante aos atos aqui praticados, devendo cumprir com as obrigações e formalidades previstas para o tipo de sociedade mais semelhante ao de sua constituição. Para cumprir as formalidades mencionadas, qualquer sociedade constituída no estrangeiro que desejar exercer sua atividade no território nacional deve: a) estabelecer uma representação com domicílio no país, além dos domicílios particulares derivados de outras causas legais; b) acreditar que a sociedade foi constituída de acordo com as leis de seu país; e c) justificar, de igual forma, o acordo ou decisão de criar a sucursal ou representação, o capital que lhe for outorgado e a nomeação dos representantes. Isto será aplicado às sociedades ou corporações constituídas em outros Estados, embora o tipo de sociedade não esteja previsto na legislação nacional. A sociedade constituída no estrangeiro com domicílio na República, ou cujo principal objetivo estiver destinado a cumprir na mesma, será considerada como sociedade local para os efeitos de cumprimento das formalidades de constituição ou de sua reforma e fiscalização, em seu caso. O representante da sociedade constituída no estrangeiro está autorizado para realizar todos os atos que aquela pode celebrar e para representá-la em um juízo. 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizarem investimento estrangeiro direto, nas seguintes categorias: I. Homens de negócios: pessoas que ingressam para realizar negócios, investimentos ou estudos de mercado, desde que não recebam remuneração no Paraguai, nem se envolvam em vendas diretas de bens ou de serviços ao público em geral, nem forneçam eles mesmos os serviços. Não podem prestar serviços no país sob contrato de trabalho ou civil que os vinculem com uma empresa radicada no Paraguai. Duração da estada em território nacional de 90 dias prorrogáveis por mais 90 dias. II. Transferência intra-empresarial: empregados de uma empresa que realize investimento estrangeiro direto no Paraguai, que tiverem sido empregados nessa empresa pelo menos durante um ano imediatamente anterior a sua entrada temporária no território nacional para continuar prestando serviços nessa empresa ou em uma filial dessa empresa, conforme estabelecido pela legislação nacional na matéria. A categoria se limita às seguintes categorias: a) Gerentes: pessoas dentro de uma empresa ou organização que primariamente são responsáveis do funcionamento de um departamento ou de uma subdivisão. Supervisionam e controlam o trabalho de outros supervisores profissionais ou empregadores gerenciais. Têm a autoridade para contratar ou demitir, recomendar, contratar demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licenças. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha a não ser que esses empregados sejam profissionais, como tampouco inclui os empregados que, de forma primária, desempenham tarefas necessárias para a prestação do serviço; b) Executivos: pessoas dentro da organização que, de forma primária, levem a administração. Exercem um amplo espectro em matéria de tomada de decisões e recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem diretamente tarefas relacionadas com a prestação do (dos) serviço (s) da organização; c) Especialistas: pessoas dentro de uma empresa ou organização que possuem conhecimento de avançado nível de profissionalidade e aqueles que possuem conhecimento derivado do proprietário da organização de serviços, de técnicas de pesquisa em equipamento ou gerenciamento. III Apoderados de empresas estrangeiras: pessoas que, em caráter de depositários judiciais, de empresas estabelecidas no exterior, ingressam no Paraguai só para realizar negócios, investimentos ou estudos de mercado; recebem sua remuneração do exterior, não podem prestar serviços no país sob contrato de trabalho ou civil que as vinculem com uma empresa radicada no Paraguai. Duração da estada: 90 dias prorrogáveis, em território nacional, por mais 90 dias.</td><td>3) Reserva-se o direito de estabelecer acordos especiais de ações (tais como retenção das “ações de ouro”) e outorgar preferências para a compra de ações aos empregados da empresa estatal sujeita a privatização. A sede central localizada no estrangeiro deverá pagar um imposto pelos benefícios fiscais aprovados pelas sucursais, agências ou estabelecimentos localizado no país correspondente a uma taxa de 15% (15%). 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas categorias indicadas na coluna de acesso a mercado. Representante legal o representante legal de uma empresa é a pessoa que assume as responsabilidades administrativas, penais, civis e comerciais emergentes da prestação de serviços da empresa. Deve ter residência permanente.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao Acesso aos Mercados
+
+Limitações ao Tratamento Nacional
+
+Compromissos Adicionais
+
+COMPROMISSOS HORIZONTAIS Todos os serviços incluídos nesta lista
+
+3) A autorização de presença comercial será outorgada às pessoas jurídicas constituídas conforme a Legislação Nacional do Paraguai, com sede e representação no território paraguaio, para os efeitos de suas prerrogativas e responsabilidades. Aquisição de terra: Não consolidado, no referente a zonas de fronteira. Sociedades constituídas no estrangeiro: As sociedades constituídas no estrangeiro têm seu domicílio no lugar onde está o principal de seus negócios. Os estabelecimentos, agências ou sucursais constituídas na República se consideram domiciliados nela no tocante aos atos aqui praticados, devendo cumprir com as obrigações e formalidades previstas para o tipo de sociedade mais semelhante ao de sua constituição. Para cumprir as formalidades mencionadas, qualquer sociedade constituída no estrangeiro que desejar exercer sua atividade no território nacional deve: a) estabelecer uma representação com domicílio no país, além dos domicílios particulares derivados de outras causas legais; b) acreditar que a sociedade foi constituída de acordo com as leis de seu país; e c) justificar, de igual forma, o acordo ou decisão de criar a sucursal ou representação, o capital que lhe for outorgado e a nomeação dos representantes. Isto será aplicado às sociedades ou corporações constituídas em outros Estados, embora o tipo de sociedade não esteja previsto na legislação nacional. A sociedade constituída no estrangeiro com domicílio na República, ou cujo principal objetivo estiver destinado a cumprir na mesma, será considerada como sociedade local para os efeitos de cumprimento das formalidades de constituição ou de sua reforma e fiscalização, em seu caso. O representante da sociedade constituída no estrangeiro está autorizado para realizar todos os atos que aquela pode celebrar e para representá-la em um juízo. 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizarem investimento estrangeiro direto, nas seguintes categorias: I. Homens de negócios: pessoas que ingressam para realizar negócios, investimentos ou estudos de mercado, desde que não recebam remuneração no Paraguai, nem se envolvam em vendas diretas de bens ou de serviços ao público em geral, nem forneçam eles mesmos os serviços. Não podem prestar serviços no país sob contrato de trabalho ou civil que os vinculem com uma empresa radicada no Paraguai. Duração da estada em território nacional de 90 dias prorrogáveis por mais 90 dias. II. Transferência intra-empresarial: empregados de uma empresa que realize investimento estrangeiro direto no Paraguai, que tiverem sido empregados nessa empresa pelo menos durante um ano imediatamente anterior a sua entrada temporária no território nacional para continuar prestando serviços nessa empresa ou em uma filial dessa empresa, conforme estabelecido pela legislação nacional na matéria. A categoria se limita às seguintes categorias: a) Gerentes: pessoas dentro de uma empresa ou organização que primariamente são responsáveis do funcionamento de um departamento ou de uma subdivisão. Supervisionam e controlam o trabalho de outros supervisores profissionais ou empregadores gerenciais. Têm a autoridade para contratar ou demitir, recomendar, contratar demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licenças. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha a não ser que esses empregados sejam profissionais, como tampouco inclui os empregados que, de forma primária, desempenham tarefas necessárias para a prestação do serviço; b) Executivos: pessoas dentro da organização que, de forma primária, levem a administração. Exercem um amplo espectro em matéria de tomada de decisões e recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem diretamente tarefas relacionadas com a prestação do (dos) serviço (s) da organização; c) Especialistas: pessoas dentro de uma empresa ou organização que possuem conhecimento de avançado nível de profissionalidade e aqueles que possuem conhecimento derivado do proprietário da organização de serviços, de técnicas de pesquisa em equipamento ou gerenciamento. III Apoderados de empresas estrangeiras: pessoas que, em caráter de depositários judiciais, de empresas estabelecidas no exterior, ingressam no Paraguai só para realizar negócios, investimentos ou estudos de mercado; recebem sua remuneração do exterior, não podem prestar serviços no país sob contrato de trabalho ou civil que as vinculem com uma empresa radicada no Paraguai. Duração da estada: 90 dias prorrogáveis, em território nacional, por mais 90 dias.
+
+3) Reserva-se o direito de estabelecer acordos especiais de ações (tais como retenção das “ações de ouro”) e outorgar preferências para a compra de ações aos empregados da empresa estatal sujeita a privatização. A sede central localizada no estrangeiro deverá pagar um imposto pelos benefícios fiscais aprovados pelas sucursais, agências ou estabelecimentos localizado no país correspondente a uma taxa de 15% (15%). 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas categorias indicadas na coluna de acesso a mercado. Representante legal o representante legal de uma empresa é a pessoa que assume as responsabilidades administrativas, penais, civis e comerciais emergentes da prestação de serviços da empresa. Deve ter residência permanente.
 
 REPUBLICA DO PARAGUAI
 
@@ -2577,13 +3833,41 @@ REPUBLICA DO PARAGUAI
 
 Modo de Fornecimento: 1) Prestação transfronteiriça    2) Consumo no Exterior   3) Presença Comercial 4) Movimentação de pessoas físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>Limitações ao Acesso aos Mercados</td><td>Limitações ao Tratamento Nacional</td><td>Compromissos Adicionais</td></tr>
-<tr><td>h. Correio eletrônico ( CCP 7523 ) i. Correio de voz ( CCP7523) j. Extração de informação on-line e de banco de dados (CCP 7523) k. Serviços de intercâmbio eletrônico de dados IED (CCP 7523 l. Serviços de fac-símile ampliados/ de valor agregado, incluídos os de armazenagem e retransmissão e os de armazenagem e recuperação (CCP 7523 )</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td></td></tr>
-<tr><td>o. Outros 0.1 Serviço Celular Móvel (CCP n.d.)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma O sistema se presta em modalidade duopólica, estando destinado o espectro disponível em todas as áreas de exploração. Por enquanto não há mais disponibilidade de freqüências. 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.</td></tr>
-<tr><td>0.2 Comunicações pessoais (CCP n.d.)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.</td></tr>
-<tr><td>0.3 Serviços de Rádio - busca (CCP n.d.)</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td>1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+Limitações ao Acesso aos Mercados
+
+Limitações ao Tratamento Nacional
+
+Compromissos Adicionais
+
+h. Correio eletrônico ( CCP 7523 ) i. Correio de voz ( CCP7523) j. Extração de informação on-line e de banco de dados (CCP 7523) k. Serviços de intercâmbio eletrônico de dados IED (CCP 7523 l. Serviços de fac-símile ampliados/ de valor agregado, incluídos os de armazenagem e retransmissão e os de armazenagem e recuperação (CCP 7523 )
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+o. Outros 0.1 Serviço Celular Móvel (CCP n.d.)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma O sistema se presta em modalidade duopólica, estando destinado o espectro disponível em todas as áreas de exploração. Por enquanto não há mais disponibilidade de freqüências. 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.
+
+0.2 Comunicações pessoais (CCP n.d.)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes ao ingresso, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+I. Será garantida a interconexão com as redes e serviços públicos de transporte de telecomunicações. II. Tornar-se-ão públicas as condições gerais aplicáveis à interconexão com as redes e serviços públicos.
+
+0.3 Serviços de Rádio - busca (CCP n.d.)
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
+
+1) Não consolidado 2) Não consolidado 3) Nenhuma 4) Não consolidado, exceto para medidas referentes à entrada, permanência e trabalho de pessoas naturais com contrato temporário com empresas que realizem investimento estrangeiro direto, nas seguintes categorias: gerentes, executivos e especialistas.
 
 REPUBLICA DO PARAGUAI
 
@@ -2678,10 +3962,19 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4 Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>TODOS OS SERVIÇOS INCLUÍDOS NESTA LISTA</td><td>4. Não consolidado, exceto para medidas referentes à entrada e permanência temporária para as seguintes categorias de pessoas naturais: I. Pessoal transferido dentro da mesma empresa: Os empregados de uma empresa estabelecida em território do Chile transferidos de forma temporária para a prestação de um serviço mediante presença comercial em território Uruguaio: i) Gerentes: pessoas encarregadas da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretivos ou profissionais. Tem autoridade para contratar ou demitir, recomendar ou demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licença. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha (first line supervisors) a não ser que esses empregados sejam profissionais, como também não inclui os empregados que, de forma primária, desempenham as tarefas necessárias para a prestação do serviço. ii) Executivos: pessoas encarregadas, fundamentalmente, da gestão da organização e têm ampla liberdade de ação para tomar decisões. Recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem, de forma direta, tarefas relacionadas com a prestação do (dos) serviço(s) da organização. iii) Especialistas: pessoas que possuem conhecimentos especializados de um nível avançado essenciais para a prestação do serviço e/ou possuem conhecimentos de domínio privado da organização, de suas técnicas, de equipamentos de pesquisa ou de gerenciamento da organização, incluindo os consultores em sistemas e programas informáticos e os consultores em instalação de equipamento de informática Duração da estada de gerentes, executivos e especialistas: dois anos prorrogáveis por igual período. II.Pessoas de Negócios: 1) Representantes de um prestador de serviços que ingressam de forma temporária no território do Uruguai para concluir acordos de venda desses serviços para esse prestador de serviços, e/ou 2) Empregados de uma pessoa jurídica que entram ao Uruguai para estabelecer uma presença comercial dessa pessoa jurídica no território uruguaio ou para realizar estudos de mercado para esse prestador de serviços.</td><td>4. Não consolidado, exceto para medidas referentes às categorias de pessoas naturais mencionadas em Acesso a Mercados</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+TODOS OS SERVIÇOS INCLUÍDOS NESTA LISTA
+
+4. Não consolidado, exceto para medidas referentes à entrada e permanência temporária para as seguintes categorias de pessoas naturais: I. Pessoal transferido dentro da mesma empresa: Os empregados de uma empresa estabelecida em território do Chile transferidos de forma temporária para a prestação de um serviço mediante presença comercial em território Uruguaio: i) Gerentes: pessoas encarregadas da direção da organização ou de algum de seus departamentos ou subdivisões e supervisionam e controlam o trabalho de outros supervisores, diretivos ou profissionais. Tem autoridade para contratar ou demitir, recomendar ou demitir ou outras ações vinculadas à área de pessoal tais como a promoção ou licença. Exercem autoridade discricional nas atividades diárias. Este exercício não inclui supervisores de primeira linha (first line supervisors) a não ser que esses empregados sejam profissionais, como também não inclui os empregados que, de forma primária, desempenham as tarefas necessárias para a prestação do serviço. ii) Executivos: pessoas encarregadas, fundamentalmente, da gestão da organização e têm ampla liberdade de ação para tomar decisões. Recebem somente supervisão de direção de altos níveis executivos, do diretório ou dos acionistas. Não desenvolvem, de forma direta, tarefas relacionadas com a prestação do (dos) serviço(s) da organização. iii) Especialistas: pessoas que possuem conhecimentos especializados de um nível avançado essenciais para a prestação do serviço e/ou possuem conhecimentos de domínio privado da organização, de suas técnicas, de equipamentos de pesquisa ou de gerenciamento da organização, incluindo os consultores em sistemas e programas informáticos e os consultores em instalação de equipamento de informática Duração da estada de gerentes, executivos e especialistas: dois anos prorrogáveis por igual período. II.Pessoas de Negócios: 1) Representantes de um prestador de serviços que ingressam de forma temporária no território do Uruguai para concluir acordos de venda desses serviços para esse prestador de serviços, e/ou 2) Empregados de uma pessoa jurídica que entram ao Uruguai para estabelecer uma presença comercial dessa pessoa jurídica no território uruguaio ou para realizar estudos de mercado para esse prestador de serviços.
+
+4. Não consolidado, exceto para medidas referentes às categorias de pessoas naturais mencionadas em Acesso a Mercados
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2689,10 +3982,15 @@ Lista de compromissos específicos
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4 Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td>a) Os representantes desses prestadores de serviços ou os empregados dessas pessoas jurídicas não participarão das vendas diretas ao público nem prestarão os mesmos serviços. b) Refere-se unicamente aos empregados de uma pessoa jurídica que não tenha a presença comercial no Uruguai. c) Esses representantes ou empregados não receberão remuneração alguma de fontes localizadas no Uruguai. Duração da estada: 90 dias prorrogáveis em território nacional por 90 dias adicionais. III. Prestadores de serviços por contrato - Empregados de pessoas jurídicas. Os empregados de uma empresa estabelecida no Chile que entrem, de forma temporária, em território uruguaio para prestar um serviço, de acordo com um ou vários contratos concluídos entre seu empregador e um ou vários consumidores do serviço no território uruguaio. a) Limita-se aos empregados de empresas estabelecidas no estrangeiro que carecem de presença comercial no Uruguai. b) A pessoa jurídica obteve um contrato para a prestação de um serviço no território uruguaio. c) Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. d) Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. Prazos de permanência: as pessoas que tiverem obtido um contrato ou um convite que especifique a atividade a desenvolver e, caso corresponder, a remuneração que receberá no estrangeiro, podem ingressar e permanecer no território uruguaio durante 15 dias prorrogáveis por 15 mais dias. As pessoas que tiverem obtido um contrato ou arrendamento de serviços ou de obra e que ingresse para prestar serviços a uma pessoa natural ou jurídica, radicada no Uruguai, podem ingressar e permanecer no território uruguaio por um ano prorrogável por igual período indefinidamente, enquanto durar sua condição de trabalhador contratado. IV. Profissionais e Técnicos Especializados: Pessoas naturais que ingressam no Uruguai, por períodos limitados de tempo para prestar ou desenvolver atividades vinculadas a sua profissão e especialidade, sob contrato entre eles e um cliente localizado no país: científicos, pesquisadores, docentes, profissionais, acadêmicos, técnicos, jornalistas, esportistas e artistas. 1. A pessoa física presta o serviço como trabalhador autônomo; 2. A pessoa física obteve um contrato de serviço no Uruguai;</td><td></td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+a) Os representantes desses prestadores de serviços ou os empregados dessas pessoas jurídicas não participarão das vendas diretas ao público nem prestarão os mesmos serviços. b) Refere-se unicamente aos empregados de uma pessoa jurídica que não tenha a presença comercial no Uruguai. c) Esses representantes ou empregados não receberão remuneração alguma de fontes localizadas no Uruguai. Duração da estada: 90 dias prorrogáveis em território nacional por 90 dias adicionais. III. Prestadores de serviços por contrato - Empregados de pessoas jurídicas. Os empregados de uma empresa estabelecida no Chile que entrem, de forma temporária, em território uruguaio para prestar um serviço, de acordo com um ou vários contratos concluídos entre seu empregador e um ou vários consumidores do serviço no território uruguaio. a) Limita-se aos empregados de empresas estabelecidas no estrangeiro que carecem de presença comercial no Uruguai. b) A pessoa jurídica obteve um contrato para a prestação de um serviço no território uruguaio. c) Os empregados dessas empresas estabelecidas no estrangeiro recebem sua remuneração de seu empregador. d) Os empregados possuem qualificações acadêmicas e de outro tipo adequadas para a prestação do serviço. Prazos de permanência: as pessoas que tiverem obtido um contrato ou um convite que especifique a atividade a desenvolver e, caso corresponder, a remuneração que receberá no estrangeiro, podem ingressar e permanecer no território uruguaio durante 15 dias prorrogáveis por 15 mais dias. As pessoas que tiverem obtido um contrato ou arrendamento de serviços ou de obra e que ingresse para prestar serviços a uma pessoa natural ou jurídica, radicada no Uruguai, podem ingressar e permanecer no território uruguaio por um ano prorrogável por igual período indefinidamente, enquanto durar sua condição de trabalhador contratado. IV. Profissionais e Técnicos Especializados: Pessoas naturais que ingressam no Uruguai, por períodos limitados de tempo para prestar ou desenvolver atividades vinculadas a sua profissão e especialidade, sob contrato entre eles e um cliente localizado no país: científicos, pesquisadores, docentes, profissionais, acadêmicos, técnicos, jornalistas, esportistas e artistas. 1. A pessoa física presta o serviço como trabalhador autônomo; 2. A pessoa física obteve um contrato de serviço no Uruguai;
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2700,13 +3998,27 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td>3. Se receber uma remuneração pelo contrato, a mesma será paga, unicamente, à pessoa física. 4. A pessoa física possui as qualificações acadêmicas e de outro tipo, adequadas para a prestação do serviço. Duração da estada: as pessoas que tiverem obtido um contrato ou arrendamento de serviços ou obra e que ingressarem para prestar serviços a uma pessoa natural ou jurídica radicada no Uruguai podem permanecer até dois anos, prorrogáveis por igual período. V.Representantes de Empresas Estrangeiras: a) Pessoas que ingressam no país em caráter de depositário judicial de empresas estrangeiras, por períodos limitados de tempo, contratados entre seu empregador e um cliente domiciliado no Uruguai, onde o empregador não tem uma filial, recebem sua remuneração do exterior. b) Pessoas que entram no Uruguai por ser necessária sua presença no país para que sejam cumpridos os requisitos de outorga de licenças ou “franchising”. Duração da estada: um ano prorrogável por períodos iguais enquanto durar sua condição de representante da empresa.</td><td></td><td></td></tr>
-<tr><td>1. SERVIÇOS PRESTADOS ÀS EMPRESAS</td><td></td><td></td><td></td></tr>
-<tr><td>A. Serviços Profissionais</td><td>Para a prestação de serviços profissionais é necessário que as pessoas físicas possuam o título habilitante reconhecido no Uruguai, e fixar domicílio legal no país. As autoridades uruguaias regulamentarão o exercício destas profissões no futuro. O domicílio legal não implica residência no Uruguai</td><td></td><td></td></tr>
-<tr><td>a. Serviços Jurídicos 861 exceto 86130</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+3. Se receber uma remuneração pelo contrato, a mesma será paga, unicamente, à pessoa física. 4. A pessoa física possui as qualificações acadêmicas e de outro tipo, adequadas para a prestação do serviço. Duração da estada: as pessoas que tiverem obtido um contrato ou arrendamento de serviços ou obra e que ingressarem para prestar serviços a uma pessoa natural ou jurídica radicada no Uruguai podem permanecer até dois anos, prorrogáveis por igual período. V.Representantes de Empresas Estrangeiras: a) Pessoas que ingressam no país em caráter de depositário judicial de empresas estrangeiras, por períodos limitados de tempo, contratados entre seu empregador e um cliente domiciliado no Uruguai, onde o empregador não tem uma filial, recebem sua remuneração do exterior. b) Pessoas que entram no Uruguai por ser necessária sua presença no país para que sejam cumpridos os requisitos de outorga de licenças ou “franchising”. Duração da estada: um ano prorrogável por períodos iguais enquanto durar sua condição de representante da empresa.
+
+1. SERVIÇOS PRESTADOS ÀS EMPRESAS
+
+A. Serviços Profissionais
+
+Para a prestação de serviços profissionais é necessário que as pessoas físicas possuam o título habilitante reconhecido no Uruguai, e fixar domicílio legal no país. As autoridades uruguaias regulamentarão o exercício destas profissões no futuro. O domicílio legal não implica residência no Uruguai
+
+a. Serviços Jurídicos 861 exceto 86130
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2732,16 +4044,51 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td></td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>i. Serviços de Veterinária 932</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td></td></tr>
-<tr><td>j. Serviços prestados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico 93191</td><td>1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td>1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais</td><td></td></tr>
-<tr><td>B. Serviços de Informática e Serviços Conexos CCP 84, exceto para “time-stamping” (n.d), certificação digital (n.d) e outros (CCP 849)</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.</td><td></td></tr>
-<tr><td>C. Serviços de Pesquisa e Desenvolvimento</td><td></td><td>As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais.</td><td></td></tr>
-<tr><td>a. Serviços de Pesquisa e Desenvolvimento das Ciências Naturais 851 Não inclui a pesquisa científica e técnica no mar territorial, na zona econômica exclusiva e na plataforma continental do Uruguai.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b. Serviços de Pesquisa e Desenvolvimento das Ciências Sociais e as Humanísticas 852</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c. Serviços Interdisciplinares de Pesquisa e Desenvolvimento 853</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+i. Serviços de Veterinária 932
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+j. Serviços prestados por parteiras, enfermeiras, fisioterapeutas e pessoal paramédico 93191
+
+1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+1. Não consolidado* 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal e na nota em Serviços Profissionais
+
+B. Serviços de Informática e Serviços Conexos CCP 84, exceto para “time-stamping” (n.d), certificação digital (n.d) e outros (CCP 849)
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.
+
+C. Serviços de Pesquisa e Desenvolvimento
+
+As subvenções para pesquisa e desenvolvimento estão disponíveis somente para os prestadores nacionais.
+
+a. Serviços de Pesquisa e Desenvolvimento das Ciências Naturais 851 Não inclui a pesquisa científica e técnica no mar territorial, na zona econômica exclusiva e na plataforma continental do Uruguai.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+b. Serviços de Pesquisa e Desenvolvimento das Ciências Sociais e as Humanísticas 852
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+c. Serviços Interdisciplinares de Pesquisa e Desenvolvimento 853
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2749,15 +4096,39 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td></td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>D. Serviços Imobiliários</td><td></td><td></td><td></td></tr>
-<tr><td>a. Serviços Imobiliários relativos a bens raízes próprios ou alugados 8210</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>b. Serviços Imobiliários por comissão ou por contrato 8220</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>E. Serviços pelo aluguel sem operários</td><td></td><td></td><td></td></tr>
-<tr><td>b. Serviços pelo aluguel de aeronaves sem tripulação 83104</td><td>1. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 2. Nenhuma 3. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 2) Nenhuma 3) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c. Serviços pelo aluguel de outro meio de transporte sem pessoal Serviços pelo aluguel de automóveis privados sem motorista 83101 - 83102</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.</td><td></td></tr>
-</table>
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+D. Serviços Imobiliários
+
+a. Serviços Imobiliários relativos a bens raízes próprios ou alugados 8210
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+b. Serviços Imobiliários por comissão ou por contrato 8220
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+E. Serviços pelo aluguel sem operários
+
+b. Serviços pelo aluguel de aeronaves sem tripulação 83104
+
+1. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 2. Nenhuma 3. Caso se tratar de um condomínio, o requisito de domicílio deverá ser verificado com relação a 51% do valor da aeronave. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 2) Nenhuma 3) Os proprietários de aeronaves, para solicitar matriculação das mesmas, deverão estar domiciliados na República. Sem prejuízo do indicado requisito domiciliário, as aeronaves de empresas nacionais deverão ter matrícula uruguaia. Porém, excepcionalmente, a fim de garantir a prestação dos serviços ou por razões de conveniência nacional, a autoridade aeronáutica poderá permitir a utilização de aeronaves de matrícula estrangeira. Nas aeronaves nacionais somente poderão exercer funções os cidadãos uruguaios, salvo disposição expressa em contrário da autoridade competente. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+c. Serviços pelo aluguel de outro meio de transporte sem pessoal Serviços pelo aluguel de automóveis privados sem motorista 83101 - 83102
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2784,16 +4155,55 @@ Lista de compromissos específicos.
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>i. Serviços relacionados com as Manufaturas 884-885 (exceto para os compreendidos na posição 88442)</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>k. Serviços de Colocação e Fornecimento de Pessoal 872</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>l. Serviços de pesquisa e segurança 873</td><td>1. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. As empresas e os prestadores individuais de segurança que pretenderem desempenhar estes serviços deverão obter a prévia autorização outorgada pelo Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de Domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>n. Serviços de manutenção e reparação de equipamentos (com exclusão das embarcações, aeronaves e outros equipamentos de transporte) 633 - 8861 - 8866</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>o. Serviços de limpeza de edifícios 874</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.</td><td></td></tr>
-<tr><td>p. Serviços de fotografia 875, exceto 87504</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>q. Serviços de empacotamento 876</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+i. Serviços relacionados com as Manufaturas 884-885 (exceto para os compreendidos na posição 88442)
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+k. Serviços de Colocação e Fornecimento de Pessoal 872
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+l. Serviços de pesquisa e segurança 873
+
+1. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. As empresas e os prestadores individuais de segurança que pretenderem desempenhar estes serviços deverão obter a prévia autorização outorgada pelo Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de Domicílio ou residência legal no país. 2. Nenhuma 3. As empresas e os prestadores individuais de segurança que pretendam desempenhar estes serviços deverão obter a prévia autorização do Ministério do Interior e inscrever-se no Registro de Empresas e Prestadores de Segurança que funciona na órbita desse Ministério. Requisito de domicílio ou residência legal no país 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+n. Serviços de manutenção e reparação de equipamentos (com exclusão das embarcações, aeronaves e outros equipamentos de transporte) 633 - 8861 - 8866
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+o. Serviços de limpeza de edifícios 874
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado em compromissos horizontais.
+
+p. Serviços de fotografia 875, exceto 87504
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+q. Serviços de empacotamento 876
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado * 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2891,11 +4301,21 @@ Lista de compromissos específicos
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td>-por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; -que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional -controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>- Por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja integrada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; e - Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: - Domicílio social em território nacional. - Controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>B. Transporte de carga 7212</td><td>1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -que a metade mais um dos sócios esteja integrada por cidadãos naturais ou legais da República (sociedades pessoais); -por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; .</td><td></td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+-por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; -que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional -controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+- Por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja integrada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; e - Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Para os demais casos: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: - Domicílio social em território nacional. - Controle e direção da empresa exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+B. Transporte de carga 7212
+
+1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -que a metade mais um dos sócios esteja integrada por cidadãos naturais ou legais da República (sociedades pessoais); -por constância contábil e notarial que a maioria das ações representativas pelo menos 51% dos votos computáveis esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios; .
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2903,11 +4323,19 @@ Lista de compromissos específicos .
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td></td><td></td><td>1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional. -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios.</td><td></td></tr>
-<tr><td></td><td>-que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando seus proprietários, participantes ou naturais ou legais da República e justificarem seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas ou físicas, deverão acreditar sua condição de cidadãos estatais ou mistos: -Domicílio social no território nacional -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquina e o Rádio Operador ou Comissário. Reserva de carga aplicável pela efetiva aplicação do princípio de reciprocidade. O Convênio entre a República Oriental do Uruguai e a República Federativa do Brasil sobre transporte marítimo estabelece 50% de fretes de tráfego de intercâmbio reservado para cada bandeira. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>-Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando os proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando os proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas: - Domicílio social no território nacional. - Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquinas e Rádio Operador ou Comissário. Em tráfegos autorizados pelo Convênio com o Brasil 50% da tripulação deve ser uruguaia. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+1. e 3. O transporte marítimo de cabotagem é reservado a navios de matrícula nacional. Para abandeirar a empresa e seu representante legal devem ter domicílio legal no território nacional. Para os casos em que o tráfego ou serviço a que for destinado o navio deva cumprir-se dentro do território nacional, deverão acreditar no que corresponder: a) Quando seus proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar: -Domicílio social em território nacional. -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% de sua tripulação deverão ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, é suficiente que o capitão, o chefe de máquinas e o rádio operador ou comissário sejam uruguaios.
+
+-que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando seus proprietários, participantes ou naturais ou legais da República e justificarem seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas ou físicas, deverão acreditar sua condição de cidadãos estatais ou mistos: -Domicílio social no território nacional -Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquina e o Rádio Operador ou Comissário. Reserva de carga aplicável pela efetiva aplicação do princípio de reciprocidade. O Convênio entre a República Oriental do Uruguai e a República Federativa do Brasil sobre transporte marítimo estabelece 50% de fretes de tráfego de intercâmbio reservado para cada bandeira. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+-Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Nos demais casos: a) Quando os proprietários, participantes ou armadores sejam pessoas físicas, deverão acreditar sua condição de cidadãos naturais ou legais da República e justificar seu domicílio em território nacional. b) Quando os proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas: - Domicílio social no território nacional. - Controle e direção da empresa, exercidos por cidadãos naturais ou legais uruguaios. Tripulação: Para navios que operarão em tráfegos autorizados, como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o capitão. Para navios que operarão em tráfegos não autorizados, somente deverão ser cidadãos naturais ou legais uruguaios o Capitão, o Chefe de Máquinas e Rádio Operador ou Comissário. Em tráfegos autorizados pelo Convênio com o Brasil 50% da tripulação deve ser uruguaia. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2915,14 +4343,43 @@ Lista de compromissos específicos
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>e. Serviços de reboque e tração 7214</td><td>1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem entre porto do litoral oceânico está reservado a embarcações de bandeira nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. e 3. Para abandeirar um navio deve acreditar-se que empresa e representante tenham domicílio legal no território nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de exploração de portos 7451</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos.. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços Auxiliares de Transporte Marítimo Serviços de manipulação de carga objetivo de transporte marítimo</td><td>1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma** os prestadores destes serviços devem obter autorização prévia do Poder Executivo. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de armazenagem 742</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Serviços de estações e depósitos de contêineres</td><td>1) Não consolidado 2) Nenhuma 3) Nenhuma. Os prestadores destes serviços devem obter uma concessão e/ou autorização prévia do Poder Executivo, de acordo com a legislação nacional e com as condições contratuais acordadas com o prestador de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1) Não consolidado 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+e. Serviços de reboque e tração 7214
+
+1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem entre porto do litoral oceânico está reservado a embarcações de bandeira nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. e 3. Para abandeirar um navio deve acreditar-se que empresa e representante tenham domicílio legal no território nacional. Como mínimo 50% da tripulação deve ser uruguaia, incluído o Capitão 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de exploração de portos 7451
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários por parte de empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com assessoramento da Administração Nacional de Portos.. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços Auxiliares de Transporte Marítimo Serviços de manipulação de carga objetivo de transporte marítimo
+
+1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma** os prestadores destes serviços devem obter autorização prévia do Poder Executivo. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado* com a ressalva de que não existem limitações para os transbordos (de borda a borda ou pelo cais) e/ou para o uso de equipamento de manipulação da carga de a bordo 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de armazenagem 742
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado* 2) Nenhuma 3) Nenhuma** 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+Serviços de estações e depósitos de contêineres
+
+1) Não consolidado 2) Nenhuma 3) Nenhuma. Os prestadores destes serviços devem obter uma concessão e/ou autorização prévia do Poder Executivo, de acordo com a legislação nacional e com as condições contratuais acordadas com o prestador de serviços. 4) Não consolidado, exceto pelo indicado na seção horizontal.
+
+1) Não consolidado 2) Nenhuma 3) Nenhuma 4) Não consolidado, exceto pelo indicado na seção horizontal.
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2943,12 +4400,31 @@ Lista de compromissos específicos.
 
 Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>b. Transporte de carga 7222</td><td>1. e 3. Reservado para embarcações de bandeira nacional, exceto quando não estejam disponíveis na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão ter sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativas de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. e 3. Para realizar o serviço o navio deve possuir bandeira nacional, exceto quando não se disponham na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativa de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>c. Aluguel de embarcações com tripulação 7223</td><td>1. e 3. Reservado a embarcações de bandeira nacional, exceto quando não existam navios nacionais disponíveis na matrícula. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. e 3. O alugador deve ser armador nacional. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>e. Serviços de reboque e tração 7224</td><td>1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão</td><td>1 e 3 Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2.Nenhuma 4.Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+b. Transporte de carga 7222
+
+1. e 3. Reservado para embarcações de bandeira nacional, exceto quando não estejam disponíveis na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão ter sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativas de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. e 3. Para realizar o serviço o navio deve possuir bandeira nacional, exceto quando não se disponham na matrícula navios nacionais e deve acreditar-se: a) Quando os proprietários, participantes ou armadores forem pessoas físicas, deverão sua condição de cidadãos naturais ou legais da República e justificar seu domicílio no território nacional. b) Quando seus proprietários, participantes ou armadores forem pessoas jurídicas privadas, estatais ou mistas, deverão acreditar, quando corresponder: -Que a metade mais um dos sócios sejam cidadãos naturais ou legais uruguaios, domiciliados na República (Sociedades pessoais). -Por constância contábil e notarial, que a maioria das ações representativa de, pelo menos, 51% dos votos computáveis, esteja formada por ações nominativas, de propriedade de cidadãos naturais ou legais uruguaios. -Que o controle e direção da empresa sejam exercidos por cidadãos naturais ou legais uruguaios. Como mínimo 50% da tripulação deve ser cidadãos naturais ou legais uruguaios, incluído o Capitão. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+c. Aluguel de embarcações com tripulação 7223
+
+1. e 3. Reservado a embarcações de bandeira nacional, exceto quando não existam navios nacionais disponíveis na matrícula. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. e 3. O alugador deve ser armador nacional. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+e. Serviços de reboque e tração 7224
+
+1. e 3. Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão
+
+1 e 3 Os serviços de reboque e tração que impliquem operações de cabotagem estão reservados para navios de bandeira nacional, exceto quando não existam disponíveis na matrícula navios nacionais. 2.Nenhuma 4.Não consolidado, exceto pelo indicado na seção horizontal. Tripulação: como mínimo 50% devem ser cidadãos naturais ou legais uruguaios, incluído o Capitão
 
 REPÚBLICA ORIENTAL DO URUGUAI
 
@@ -2956,15 +4432,41 @@ Lista de compromissos específicos .
 
  Modos de Prestação: 1. Prestação transfronteiriça  2\. Consumo no exterior 3. Presença comercial 4. Presença de Pessoas Físicas
 
-<table>
-<tr><td>SETOR OU SUBSETOR</td><td>LIMITAÇÕES AO ACESSO A MERCADOS</td><td>LIMITAÇÕES AO TRATAMENTO NACIONAL</td><td>COMPROMISSOS ADICIONAIS</td></tr>
-<tr><td>Serviços de exploração de portos 7451</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>C. Serviços de transporte aéreo</td><td></td><td></td><td></td></tr>
-<tr><td>Venda e comercialização de serviços de transporte aéreo</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>Manutenção de aeronaves</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-<tr><td>H. Serviços auxiliares relacionados com todos os meios de transporte</td><td></td><td></td><td></td></tr>
-<tr><td>b.Serviços de armazenamento e depósito 742 (exceto o regime de depósitos ou de armazenamento fiscais)</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td>1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.</td><td></td></tr>
-</table>
+SETOR OU SUBSETOR
+
+LIMITAÇÕES AO ACESSO A MERCADOS
+
+LIMITAÇÕES AO TRATAMENTO NACIONAL
+
+COMPROMISSOS ADICIONAIS
+
+Serviços de exploração de portos 7451
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Não consolidado* 2. Nenhuma 3. Compete à Assembléia Geral do Poder Legislativo a habilitação dos Portos. A prestação de serviços portuários pelas empresas privadas será exercida nos termos e condições dispostos pela regulamentação baixada pelo Poder Executivo com o Assessoramento da Administração Nacional de Portos. 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+C. Serviços de transporte aéreo
+
+Venda e comercialização de serviços de transporte aéreo
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+Manutenção de aeronaves
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+H. Serviços auxiliares relacionados com todos os meios de transporte
+
+b.Serviços de armazenamento e depósito 742 (exceto o regime de depósitos ou de armazenamento fiscais)
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
+
+1. Nenhuma 2. Nenhuma 3. Nenhuma 4. Não consolidado, exceto pelo indicado na seção horizontal.
 
  ANEXO
 

@@ -1,5 +1,3 @@
-###DEC-067761-0-000-09-12-1970@@@
-
 DECRETO Nº 67.761, DE 9 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a nova subestação de Itapira até a estrutura 7-9 da linha de transmissão sub-estação velha de Itapira - subestação de Socorro, no município de Itapira, Estado de São Paulo.

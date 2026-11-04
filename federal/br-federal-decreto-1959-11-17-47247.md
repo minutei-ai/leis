@@ -1,5 +1,3 @@
-###DEC-047247-0-000-17-11-1959@@@
-
 DECRETO Nº 47.247, DE 17 DE NOVEMBRO DE 1959.
 
 Outorga concessão à Rádio Imprensa Sociedade Anônima para instalar uma estação radiodifusora.

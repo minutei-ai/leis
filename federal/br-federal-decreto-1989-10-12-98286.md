@@ -1,7 +1,3 @@
-1
-
-###DEC-098286-0-000-12-10-1989@@@
-
 DECRETO N° 98.286, DE 12 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia das Faculdades Integradas de Vilhena.

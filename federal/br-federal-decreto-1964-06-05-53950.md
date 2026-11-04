@@ -1,5 +1,3 @@
-###DEC-053950-0-000-05-06-1964@@@
-
 DECRETO Nº 53.950, DE 5 DE JUNHO DE 1964.
 
 Altera os preços básicos mínimos para as operações de financiamento ou aquisição de arroz e milho de produção nacional, de safra de 1963-1964, fixados pelo Decreto número 52.445, de 3-9-63.

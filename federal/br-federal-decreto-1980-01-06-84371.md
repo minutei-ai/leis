@@ -1,5 +1,3 @@
-###DEC-084371-0-000-06-01-1980@@@
-
 Decreto nº 84.371, de 6 de janeiro de 1980
 
 Declara luto oficial.

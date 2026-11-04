@@ -1,5 +1,3 @@
-###DEC-096915-0-000-03-10-1988@@@
-
 DECRETO Nº 96.915, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre a liquidação de obrigações em moeda estrangeira devidas por entidades da Administração Federal e dá outras providências.

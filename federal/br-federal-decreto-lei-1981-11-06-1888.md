@@ -1,7 +1,3 @@
-1
-
-###DEL-001888-0-000-06-11-1981@@@
-
 # Decreto-lei nº 1.888, de 6 de novembro de 1981.
 
 Acrescenta parágrafo ao artigo 2º do Decreto-lei nº 1.874, de 8 de julho de 1981, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082169-0-000-24-08-1978@@@
-
 Decreto nº 82.169, de 24 de agosto de 1978.
 
 Concede reconhecimento ao curso de Comunicação Social, ministrado pela Universidade Gama Filho, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

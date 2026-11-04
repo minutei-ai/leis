@@ -1,5 +1,3 @@
-###DEC-085599-0-000-30-12-1980@@@
-
 Decreto nº 85.599, de 30 de dezembro de 1980
 
 Concede à CENTRAIS ELÉTRICAS DO SUL DO BRASIL S.A. - ELETROSUL, autorização para proceder ao aumento do seu Capital Social.

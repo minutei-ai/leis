@@ -1,5 +1,3 @@
-###DEC-081496-0-000-30-03-1978@@@
-
 Decreto nº 81.496, de 30 de março de 1978.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, ministrados pelo Centro de Ensino Superior, com sede na cidade de Chapecó, Estado de Santa Catarina.

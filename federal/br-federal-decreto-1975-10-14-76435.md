@@ -1,5 +1,3 @@
-###DEC-076435-0-000-14-10-1975@@@
-
 DECRETO Nº 76.435, de 14 de outubro de 1975.
 
 Altera a denominação do Centro Nacional de Informações e Documentação de Transportes, a que se refere o artigo 7º do Decreto número 73.100, de 6 de novembro de 1973.

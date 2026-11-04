@@ -1,5 +1,3 @@
-###DEC-003350-0-000-27-01-2000@@@
-
 DECRETO Nº 3.350, DE 27 DE JANEIRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.140, de 16 de agosto de 1999.

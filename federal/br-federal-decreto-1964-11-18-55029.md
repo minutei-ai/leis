@@ -1,5 +1,3 @@
-###DEC-055029-0-000-18-11-1964@@@
-
 decreto nº 55.029, de 18 de novembro de 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$100.000.000,00, para atender as despesas que especifica.

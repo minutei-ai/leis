@@ -1,5 +1,3 @@
-###DEC-062355-0-000-06-03-1968@@@
-
 DECRETO Nº 62.355, DE 6 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Irmandade de Nossa Senhora das Graças”, com sede em Lajes, Estado de Santa Catarina.

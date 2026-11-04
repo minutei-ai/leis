@@ -1,5 +1,3 @@
-###DEC-051996-B-000-10-05-1963@@@
-
 DECRETO Nº 51.996-B, DE 10 DE MAIO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Marítimos e Terrestres Garantia, inclusive aumento do capital social.

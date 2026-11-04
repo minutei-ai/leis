@@ -1,5 +1,3 @@
-###DEC-054383-0-000-06-10-1964@@@
-
 decreto nº 54.383, de 6 de outubro de 1964.
 
 Dá nova redação ao § 3º do art. 1º do Decreto nº 53.937, de 29 de maio de 1964, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares, Navais e Aeronáuticos junto às representações diplomáticas no exterior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073697-0-000-28-02-1974@@@
-
 DECRETO Nº 73.697, DE 28 DE FEVEREIRO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

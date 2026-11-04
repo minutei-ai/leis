@@ -1,14 +1,17 @@
-LEI COMPLEMENTAR MUNICIPAL Nº 213, DE 12 DE JUNHO DE 2023<br>
+LEI COMPLEMENTAR MUNICIPAL Nº 213, DE 12 DE JUNHO DE 2023
+
 (Revogada pela Lei Ordinária Nº 3.820, de 16 de janeiro de 2025).
 
 ~~Dispõe sobre o contrato de gestão por resultados para os servidores comissionados da Câmara Municipal de Aparecida de Goiânia e revoga disposições em contrário.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PRESIDENTE DA CÂMARA MUNICIPAL, NOS TERMOS DO ARTIGO 54, DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE LEI COMPLEMENTAR:~~
 
-~~CAPÍTULO<br>
+~~CAPÍTULO
+
 DO MODELO DE GESTÃO~~
 
-~~Seção I<br>
+~~Seção I
+
 Da Gestão por Resultados~~
 
 ~~Art. 1º Esta Lei Complementar define a Gestão por Resultados para os servidores comissionados da Câmara Municipal de Aparecida de Goiânia, Goiás e dispõe sobre a estrutura organizacional dos cargos de provimento em comissão, justamente com suas atribuições, os seus respectivos percentuais e valores de remuneração.~~
@@ -37,7 +40,8 @@ Da Gestão por Resultados~~
 
 ~~IV-    Signatários: Servidores Comissionados.~~
 
-~~Seção II<br>
+~~Seção II
+
 Do Contrato de Resultados~~
 
 ~~Art. 5º O contrato de resultados terá duração de até 2 (dois) anos, prorrogável por igual período, e conterá, no mínimo, disposições que estabeleçam:~~
@@ -94,17 +98,144 @@ Do Contrato de Resultados~~
 
  
 
-~~ANDRÉ LUIS CARLOS DA SILVA<br>
+~~ANDRÉ LUIS CARLOS DA SILVA
+
 Presidente~~
 
 ~~Anexo I~~
 
 ~~Descrição dos grupos ocupacionais~~
 
-<table><tbody><tr><td style="width:152px;  height:63px; "><s>Grupo Ocupacional</s></td><td style="width:333px;  height:63px; "><s>Descrição</s></td><td style="width:81px;  height:63px; "><s>% do limite</s></td></tr><tr><td style="width:152px; "><s>1. Operacional</s></td><td style="width:333px; "><s><b>Atribuições</b>: Realiza tarefas operacionais de baixa e média complexidade, sob supervisão.<br><br>Baixa complexidade: realiza serviços de limpeza, organização e conservação das diversas dependências, manuseando material de limpeza e obedecendo aos critérios de segurança, realiza atividades de copa e cozinha, carga e descarga de material e equipamentos, distribuição de correspondências, reprografia e encadernação, recebimento e encaminhamento de processos, dentre outros trabalhos similares.<br>Média complexidade: realiza condução de veículos, reparos elétricos, hidráulicos e mecânicos, controle, distribuição e abastecimento de material, montagem e desmontagem de móveis, divisórias e equipamentos, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>25%</s></td></tr><tr><td style="width:152px; "><s>2. Coordnação Operacional</s></td><td style="width:333px; "><s>Realiza tarefas operacionais, sendo referência técnica para o grupo e supervisionando a equipe operacional da sua área.<br>Atribuições: acompanha e orienta as atividades de manutenção corretiva e preventiva de equipamentos e infraestrutura, elabora relatórios periódicos, indicando ocorrências, resultados de inspeção ou acontecimentos de interesse para informar superiores, capacidade de realizar as mesmas atividades do Grupo Operacional, coordenando a equipe e suas atividades, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>35%</s></td></tr><tr><td style="width:152px; "><s>3. Administrativo I &nbsp; &nbsp;</s></td><td style="width:333px; "><s>Executa atividades padronizadas, desenvolvendo as suas competências e habilidades para o exercício de suas tarefas, mas sem autonomia decisória.<br>Atribuições: recepção, protocolo, atendimento telefônico e presencial de servidores e usuários, digitação, recebimento, triagem, organização, encaminhamento e arquivamento de documentos, processos e correspondências, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>40%</s></td></tr><tr><td style="width:152px; "><s>4. Administrativo II</s></td><td style="width:333px; "><s>Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas.<br>Atribuições: realizar trabalhos e atividades técnicas, administrativas, recursos humanos, financeiras, orçamentárias, contábeis, patrimoniais e operacionais, elaborar atos administrativos, tais como despachos, ofícios e portarias, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>50%</s></td></tr><tr><td style="width:152px; "><s>5. Coordenação Administrativa</s></td><td style="width:333px; "><s>É referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas e supervisiona a equipe administrativa da sua área.<br>Atribuições: Acompanha processos, controla fluxo de trabalho, elabora relatórios gerenciais, capacidade de realizar as mesmas atividades do Grupo Administrativo I e II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>60%</s></td></tr><tr><td style="width:152px; "><s>6. Técnico I</s></td><td style="width:333px; "><s>Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise, colabora para a organização e aprimoramento do seu setor.<br>Atribuições: analisa processos de menor complexidade, elabora e monitora relatórios, atua como Fiscal de Contratos, realiza atendimento para suporte e resolução de problemas técnicos de informática, realiza instalação, configuração e manutenção de equipamentos e infraestrutura de redes, realiza trabalhos técnicos, conforme a legislação específica, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>65%</s></td></tr><tr><td style="width:152px; "><s>7. Técnico II</s></td><td style="width:333px; "><s>Executa tarefas de alta complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, colabora para a organização e aprimoramento do seu setor, participa das atividades de acompanhamento e controle e auxilia a supervisão da equipe.<br>Atribuições: elabora anteprojetos de lei, minutas de decretos, de contratos, de editais, termo de referência e outros atos normativos; elabora projetos técnicos; analisa processos e emite pareceres técnicos ou jurídicos; elabora e monitora relatórios de maior complexidade; executa trabalhos relacionados com desenvolvimento e implantação em sua área de atuação; desenvolve, implementa e administra sistemas informatizados; executa serviços de contabilidade de alta complexidade; atua em processos judiciais em defesa dos interesses da administração municipal; ministra curso de capacitação e treinamentos relacionados a sua área de atuação; realiza trabalhos técnicos, conforme legislação específica, atua como Gestor de Contrato, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>75%</s></td></tr><tr><td style="width:152px; "><s>8. Fiscalização<br>e/ou<br>Categoria Especial da Secretaria</s></td><td style="width:333px; "><s>Executa atividades que exigem estudos analíticos, tem pleno domínio de suas atribuições e conhecimento aprofundado das atividades do setor, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que envolvem a avaliação crítica dos processos em que atua.<br>Atribuições: planeja, examina, inspeciona, ajusta, corrige, controla, certifica e executa trabalhos de fiscalização, tem poder de autuar quando necessário, exerce o poder de polícia administrativa, observando as normas e legislações específicas, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>85%</s></td></tr><tr><td style="width:152px; "><s>9. Coordenação Técnica</s></td><td style="width:333px; "><s>Executa tarefas de alta complexidade, tem pleno domínio de suas atribuições, é referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, é responsável pela organização e gestão das atividades do seu setor atuando diretamente no seu aprimoramento por meio da avaliação crítica dos processos em que atua, considerando os impactos nos setores relacionados, supervisiona equipes e/ou projetos.<br>Atribuições: planeja, inspeciona e controla atividades relacionadas a sua área de atuação; gerencia recursos materiais, patrimoniais, financeiros, tecnológicos e humanos da Unidade Administrativa a qual está subordinado, capacidade de realizar as mesmas atividades do Grupo Técnico I e Técnico II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.</s></td><td style="width:81px; "><s>90%</s></td></tr><tr><td style="width:152px; "><s>10. Liderança</s></td><td style="width:333px; "><s>Planeja e coordena atividades de alta complexidade, capacidade de gerenciar em condições de turbulência, adversidades e incertezas, com poder decisório e conciliador, supervisiona e mobiliza equipes a partir de uma visão sistêmica da Câmara com outros Órgãos e Instituições.<br>Atribuições: emite pareceres em processos administrativos ou outros atos legais, elabora relatórios gerenciais, conduz reuniões, define e gerencia ações estratégicas voltadas para as melhores práticas de recursos humanos, financeiro e material, além de providenciar meios para que as atividades sejam desenvolvidas de acordo com as normas, leis e procedimentos técnicos do município, acompanha o trabalho dos servidores lotados na unidade e subunidades sob sua direção, observando os critérios definidos pelo Regimento Interno do Órgão ou Entidade, dentre outros trabalhos similares, ordena despesa, representa a pasta em eventos e reuniões intra e extra prefeitura, etc.</s></td><td style="width:81px; "><s>100%</s></td></tr></tbody></table>
+~~Grupo Ocupacional~~
 
-~~Anexo II<br>
-Grupos Operacionais- BMA~~<br>
+~~Descrição~~
+
+~~% do limite~~
+
+~~1. Operacional~~
+
+~~**Atribuições**: Realiza tarefas operacionais de baixa e média complexidade, sob supervisão.
+
+Baixa complexidade: realiza serviços de limpeza, organização e conservação das diversas dependências, manuseando material de limpeza e obedecendo aos critérios de segurança, realiza atividades de copa e cozinha, carga e descarga de material e equipamentos, distribuição de correspondências, reprografia e encadernação, recebimento e encaminhamento de processos, dentre outros trabalhos similares.
+Média complexidade: realiza condução de veículos, reparos elétricos, hidráulicos e mecânicos, controle, distribuição e abastecimento de material, montagem e desmontagem de móveis, divisórias e equipamentos, dentre outros trabalhos similares.~~
+
+~~25%~~
+
+~~2. Coordnação Operacional~~
+
+~~Realiza tarefas operacionais, sendo referência técnica para o grupo e supervisionando a equipe operacional da sua área.
+Atribuições: acompanha e orienta as atividades de manutenção corretiva e preventiva de equipamentos e infraestrutura, elabora relatórios periódicos, indicando ocorrências, resultados de inspeção ou acontecimentos de interesse para informar superiores, capacidade de realizar as mesmas atividades do Grupo Operacional, coordenando a equipe e suas atividades, dentre outros trabalhos similares.~~
+
+~~35%~~
+
+~~3. Administrativo I    ~~
+
+~~Executa atividades padronizadas, desenvolvendo as suas competências e habilidades para o exercício de suas tarefas, mas sem autonomia decisória.
+Atribuições: recepção, protocolo, atendimento telefônico e presencial de servidores e usuários, digitação, recebimento, triagem, organização, encaminhamento e arquivamento de documentos, processos e correspondências, dentre outros trabalhos similares.~~
+
+~~40%~~
+
+~~4. Administrativo II~~
+
+~~Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas.
+Atribuições: realizar trabalhos e atividades técnicas, administrativas, recursos humanos, financeiras, orçamentárias, contábeis, patrimoniais e operacionais, elaborar atos administrativos, tais como despachos, ofícios e portarias, dentre outros trabalhos similares.~~
+
+~~50%~~
+
+~~5. Coordenação Administrativa~~
+
+~~É referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas e supervisiona a equipe administrativa da sua área.
+Atribuições: Acompanha processos, controla fluxo de trabalho, elabora relatórios gerenciais, capacidade de realizar as mesmas atividades do Grupo Administrativo I e II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.~~
+
+~~60%~~
+
+~~6. Técnico I~~
+
+~~Executa tarefas de média complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise, colabora para a organização e aprimoramento do seu setor.
+Atribuições: analisa processos de menor complexidade, elabora e monitora relatórios, atua como Fiscal de Contratos, realiza atendimento para suporte e resolução de problemas técnicos de informática, realiza instalação, configuração e manutenção de equipamentos e infraestrutura de redes, realiza trabalhos técnicos, conforme a legislação específica, dentre outros trabalhos similares.~~
+
+~~65%~~
+
+~~7. Técnico II~~
+
+~~Executa tarefas de alta complexidade, tem domínio de suas atribuições, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, colabora para a organização e aprimoramento do seu setor, participa das atividades de acompanhamento e controle e auxilia a supervisão da equipe.
+Atribuições: elabora anteprojetos de lei, minutas de decretos, de contratos, de editais, termo de referência e outros atos normativos; elabora projetos técnicos; analisa processos e emite pareceres técnicos ou jurídicos; elabora e monitora relatórios de maior complexidade; executa trabalhos relacionados com desenvolvimento e implantação em sua área de atuação; desenvolve, implementa e administra sistemas informatizados; executa serviços de contabilidade de alta complexidade; atua em processos judiciais em defesa dos interesses da administração municipal; ministra curso de capacitação e treinamentos relacionados a sua área de atuação; realiza trabalhos técnicos, conforme legislação específica, atua como Gestor de Contrato, dentre outros trabalhos similares.~~
+
+~~75%~~
+
+~~8. Fiscalização
+e/ou
+Categoria Especial da Secretaria~~
+
+~~Executa atividades que exigem estudos analíticos, tem pleno domínio de suas atribuições e conhecimento aprofundado das atividades do setor, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que envolvem a avaliação crítica dos processos em que atua.
+Atribuições: planeja, examina, inspeciona, ajusta, corrige, controla, certifica e executa trabalhos de fiscalização, tem poder de autuar quando necessário, exerce o poder de polícia administrativa, observando as normas e legislações específicas, dentre outros trabalhos similares.~~
+
+~~85%~~
+
+~~9. Coordenação Técnica~~
+
+~~Executa tarefas de alta complexidade, tem pleno domínio de suas atribuições, é referência técnica para o grupo, utiliza suas competências e habilidades na execução de suas tarefas, realiza atividades que requerem análise e planejamento, é responsável pela organização e gestão das atividades do seu setor atuando diretamente no seu aprimoramento por meio da avaliação crítica dos processos em que atua, considerando os impactos nos setores relacionados, supervisiona equipes e/ou projetos.
+Atribuições: planeja, inspeciona e controla atividades relacionadas a sua área de atuação; gerencia recursos materiais, patrimoniais, financeiros, tecnológicos e humanos da Unidade Administrativa a qual está subordinado, capacidade de realizar as mesmas atividades do Grupo Técnico I e Técnico II, coordenando a equipe e suas atividades, dentre outros trabalhos similares.~~
+
+~~90%~~
+
+~~10. Liderança~~
+
+~~Planeja e coordena atividades de alta complexidade, capacidade de gerenciar em condições de turbulência, adversidades e incertezas, com poder decisório e conciliador, supervisiona e mobiliza equipes a partir de uma visão sistêmica da Câmara com outros Órgãos e Instituições.
+Atribuições: emite pareceres em processos administrativos ou outros atos legais, elabora relatórios gerenciais, conduz reuniões, define e gerencia ações estratégicas voltadas para as melhores práticas de recursos humanos, financeiro e material, além de providenciar meios para que as atividades sejam desenvolvidas de acordo com as normas, leis e procedimentos técnicos do município, acompanha o trabalho dos servidores lotados na unidade e subunidades sob sua direção, observando os critérios definidos pelo Regimento Interno do Órgão ou Entidade, dentre outros trabalhos similares, ordena despesa, representa a pasta em eventos e reuniões intra e extra prefeitura, etc.~~
+
+~~100%~~
+
+~~Anexo II
+
+Grupos Operacionais- BMA~~
+
  
 
-<table><tbody><tr><td style=" width:169px;  height:40px;    "><s>GRUPO OCUPACIONAL</s></td><td style=" width:144px;  height:40px;    "><s>% relacionado ao limite R$ 6.000,00</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>1. Operacional</s></td><td style=" width:144px;  height:20px;   "><s>25%</s></td></tr><tr><td style=" width:169px;  height:40px;   "><s>2. Coordenação Operacional</s></td><td style=" width:144px;  height:40px;   "><s>35%</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>3. Administrativo I</s></td><td style=" width:144px;  height:20px;   "><s>40%</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>4. Administrativo II</s></td><td style=" width:144px;  height:20px;   "><s>50%</s></td></tr><tr><td style=" width:169px;  height:40px;   "><s>5. Coordenação Administrativa</s></td><td style=" width:144px;  height:40px;   "><s>60%</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>6. Técnico I</s></td><td style=" width:144px;  height:20px;   "><s>65%</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>7. Técnico II</s></td><td style=" width:144px;  height:20px;   "><s>75%</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>8. Fiscalização e /ou</s></td><td style=" width:144px;  height:20px;   "><s>80%</s></td></tr><tr><td style=" width:169px;  height:40px;   "><s>Categoria Especial da Secretaria</s></td><td style=" width:144px;  height:40px;   "><s>&nbsp;85%</s></td></tr><tr><td style=" width:169px;  height:20px;   "><s>9. Coordenação Técnica</s></td><td style=" width:144px;  height:20px;   "><s>90%</s></td></tr><tr><td style=" width:169px;  height:21px;   "><s>10. Liderança</s></td><td style=" width:144px;  height:21px;   "><s>100%</s></td></tr></tbody></table>
+~~GRUPO OCUPACIONAL~~
+
+~~% relacionado ao limite R$ 6.000,00~~
+
+~~1. Operacional~~
+
+~~25%~~
+
+~~2. Coordenação Operacional~~
+
+~~35%~~
+
+~~3. Administrativo I~~
+
+~~40%~~
+
+~~4. Administrativo II~~
+
+~~50%~~
+
+~~5. Coordenação Administrativa~~
+
+~~60%~~
+
+~~6. Técnico I~~
+
+~~65%~~
+
+~~7. Técnico II~~
+
+~~75%~~
+
+~~8. Fiscalização e /ou~~
+
+~~80%~~
+
+~~Categoria Especial da Secretaria~~
+
+~~ 85%~~
+
+~~9. Coordenação Técnica~~
+
+~~90%~~
+
+~~10. Liderança~~
+
+~~100%~~

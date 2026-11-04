@@ -1,5 +1,3 @@
-###DEC-071684-0-000-12-01-1973@@@
-
 DECRETO Nº 71.684, DE 12 DE JANEIRO DE 1973
 
 Fixa na Aeronáutica, para os diferentes Quadros e Postos, as proporções a serem observadas no cálculo da quota compulsória para o ano de 1972.

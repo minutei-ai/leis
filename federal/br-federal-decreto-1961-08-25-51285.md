@@ -1,5 +1,3 @@
-###DEC-051285-0-000-25-08-1961@@@
-
 DECRETO Nº 51.285, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Obramil S.A. - Organização Brasileira de Minérios autorização para continuar a funcionar como emprêsa de mineração.

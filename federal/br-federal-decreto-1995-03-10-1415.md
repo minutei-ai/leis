@@ -1,7 +1,3 @@
-1
-
-###DEC-001415-0-000-10-03-1995@@@
-
 DECRETO Nº 1.415, DE 10 DE MARÇO DE 1995
 
 Cria a Assessoria de Estudos e Atividades Especiais no Estado-Maior das Forças Armadas.

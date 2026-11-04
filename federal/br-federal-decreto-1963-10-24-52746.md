@@ -1,5 +1,3 @@
-###DEC-052746-0-000-24-10-1963@@@
-
 DECRETO Nº 52.746, DE 24 DE OUTUBRO DE 1963.
 
 Transfere da Prefeitura Municipal de são Domingos do Prata para Centrais Elétrica de Minas Gerais - CEMIG - a concessão para distribuir energia elétrica no Município.

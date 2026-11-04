@@ -1,5 +1,3 @@
-###DEC-092186-0-000-20-12-1985@@@
-
 Decreto nº 92.186, de 20 de dezembro de 1985
 
 Concede à Empresa Gerencial de Projetos Navais - EMGEPRON autorização para proceder ao aumento do seu capital.

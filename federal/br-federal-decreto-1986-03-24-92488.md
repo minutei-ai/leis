@@ -1,5 +1,3 @@
-###DEC-092488-0-000-24-03-1986@@@
-
 DECRETO Nº 92.488, DE 24 DE MARÇO DE 1986
 
 Define filme nacional de longa metragem.

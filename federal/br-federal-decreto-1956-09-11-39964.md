@@ -1,30 +1,28 @@
-###DEC-039964-0-000-11-09-1956@@@
+**DECRETO Nº 39.964, DE 11 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 39.964, DE 11 DE SETEMBRO DE 1956.</strong>
+***Aprova o Regimento da Diretoria das Rendas Internas.***
 
-<em><strong>Aprova o Regimento da Diretoria das Rendas Internas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Diretoria das Rendas Internas (D.R.I.), que com êste baixa, assinado pelo Ministro da Fazenda.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Diretoria das Rendas Internas (D.R.I.), que com êste baixa, assinado pelo Ministro da Fazenda.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 11 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim
 
-<strong>REGIMENTO DA DIRETORIA DAS RENDAS INTERNAS</strong>
+**REGIMENTO DA DIRETORIA DAS RENDAS INTERNAS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º A Diretoria das Rendas Internas (D.R.I.), imediatamente subordinada à Direção Geral da Fazenda Nacional, tem por finalidades:
+**Art**. 1º A Diretoria das Rendas Internas (D.R.I.), imediatamente subordinada à Direção Geral da Fazenda Nacional, tem por finalidades:
 
 I - superintender, orientar, coordenar e fiscalizar os serviços relativos a arrecadação de todos os impostos, taxas e contribuições federais, não compreendidos na esfera de competência da Diretoria das Rendas Aduaneiras e da divisão do Impôsto de Renda;
 
@@ -46,11 +44,11 @@ IX - supervisionar, em todo o Território Nacional, os serviços das Recebedoria
 
 X - promover a instauração da ação fiscal competente, tendo em vista as comunicações do Banco do Brasil, S. A., do Instituto Brasileiro do Café, da Superintendência da Moeda e do Crédito e demais órgãos sôbre infrações à legislação cambial e bancária.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º A D.R.I. compreende:
+**Art**. 2º A D.R.I. compreende:
 
 I - Serviço dos Impostos de Consumo, Sêlo e Afins (S.I.C.S.).
 
@@ -66,31 +64,31 @@ VI - Junta Consultiva do Impôsto de Consumo (J.C.I.C.).
 
 Parágrafo único. A D.R.I. exerce as suas atribuições nos Estados e Territórios por intermédio das Delegacias Fiscais, Recebedorias, Estações Aduaneiras e Coletorias Federais, órgãos que, na orientação dêsses serviços lhe são imediata ou mediatamente subordinados.
 
-<strong>Art</strong>. 3º A D.R.I. terá um Diretor, nomeado, em comissão, pelo Presidente da República.
+**Art**. 3º A D.R.I. terá um Diretor, nomeado, em comissão, pelo Presidente da República.
 
 Parágrafo único. O Diretor terá um Secretário, escolhido entre os servidores do Ministério, e três Assistentes Técnicos, escolhidos e designados na forma dêste Regimento.
 
-<strong>Art</strong>. 4º Os serviços e as Seções terão chefes designados na forma dêste Regimento.
+**Art**. 4º Os serviços e as Seções terão chefes designados na forma dêste Regimento.
 
-<strong>Art</strong>. 5º Os órgãos que integram a D.R.I. funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os órgãos que integram a D.R.I. funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competências dos órgãos</em>
+*Da competências dos órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>DO SERVIÇO DOS IMPOSTOS DE CONSUMO, SÊLO E AFINS</em>
+*DO SERVIÇO DOS IMPOSTOS DE CONSUMO, SÊLO E AFINS*
 
-<strong>Art</strong>. 6º Ao S.I.C.S. compete orientar e coordenar as atividades de arrecadação e fiscalização dos Impostos de Consumo e de Sêlo e Afins.
+**Art**. 6º Ao S.I.C.S. compete orientar e coordenar as atividades de arrecadação e fiscalização dos Impostos de Consumo e de Sêlo e Afins.
 
-<strong>Art</strong>. 7º O S.I.C.S. compõe-se de:
+**Art**. 7º O S.I.C.S. compõe-se de:
 
 a) Seção do Impôsto de Consumo (Sç.I.C.);
 
 b) Seção do Impôsto do Sêlo (Sç.I.S.).
 
-<strong>Art</strong>. 8º Ao Sç.I.C. compete:
+**Art**. 8º Ao Sç.I.C. compete:
 
 I - estudar e preparar os processos referentes à incidência ou isenção do Impôsto de Consumo, inclusive os que versarem sôbre consultas, recursos, reposições e restituições;
 
@@ -108,7 +106,7 @@ VII - organizar e manter em dia o cadastro dos estabelecimentos fabris e comerci
 
 VIII - examinar a divisão das circunscrições e seções fiscais do Distrito Federal, dos Estados e dos Territórios e propor a fixação das sedes respectivas.
 
-<strong>Art</strong>. 9º À Sç.I.S. compete:
+**Art**. 9º À Sç.I.S. compete:
 
 I - estudar e preparar os processos relativos à incidência ou isenção do Impôsto do Sêlo e Afins, inclusive nas Operações a Têrmo, Operações Bancárias e Cambiais e Operações Hipotecárias; do de Venda e Consignações, nos Territórios Federais; do Sêlo Penitenciário; da Taxa de Educação e Saúde e da Taxa Militar;
 
@@ -122,13 +120,13 @@ V - estudar, planejar e coordenar os serviços de fiscalização e inspeção de
 
 VI - examinar os relatórios dos Inspetores e Agentes Fiscais do Impôsto de Consumo, quanto à matéria de sua competência.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DO SERVIÇO DE TRIBUTOS DIVERSOS</em>
+*DO SERVIÇO DE TRIBUTOS DIVERSOS*
 
-<strong>Art</strong>. 10. Ao S.T.D. compete orientar e fiscalizar a arrecadação proveniente das atividades de Garimpagem, Comércio de Pedras Preciosas e demais de que trata o Código de Minas, bem como a que provém da Venda de Mercadorias Mediante Sorteio e de outros tributos não compreendidos na competência do S.I.C.S.
+**Art**. 10. Ao S.T.D. compete orientar e fiscalizar a arrecadação proveniente das atividades de Garimpagem, Comércio de Pedras Preciosas e demais de que trata o Código de Minas, bem como a que provém da Venda de Mercadorias Mediante Sorteio e de outros tributos não compreendidos na competência do S.I.C.S.
 
-<strong>Art</strong>. 11. O S.T.D. compõe-se de:
+**Art**. 11. O S.T.D. compõe-se de:
 
 a) Seção de Fiscalização de Garimpagem e do Comércio de Pedras Preciosas (Sç.F.G.);
 
@@ -136,7 +134,7 @@ b) Seção de Fiscalização de Vendas Mediante Sorteio (Sç.F.S.);
 
 c) Seção de Tributos Diversos (Sç.T.D.).
 
-<strong>Art</strong>. 12. À Sç.F.G. compete:
+**Art**. 12. À Sç.F.G. compete:
 
 I - estudar e preparar os processos sôbre Faiscação, Garimpagem, Comércio de Pedras Preciosas e Semipreciosas, Ouro e Minérios, Lapidação, Comércio de Jóias e Obras de Ourives;
 
@@ -160,7 +158,7 @@ X - organizar e manter atualizado o registro dos processos fiscais instaurados.
 
 Parágrafo único. Para superintender a fiscalização e orientar a arrecadação dos tributos de que tratam o Código de Minas e o Decreto-Lei nº 466, de 4 de junho de 1933, no Estado de Minas Gerais, o Diretor designará um funcionário do Ministério da Fazenda, na forma do artigo 16 do Decreto-Lei nº 5.247, de 12 de fevereiro de 1943.
 
-<strong>Art</strong>. 13. À Sç.F.S. compete:
+**Art**. 13. À Sç.F.S. compete:
 
 I - estudar e preparar os processos relativos à autorização para funcionamento de organizações que explorem a venda de imóveis ou mercadorias mediante sorteio;
 
@@ -180,7 +178,7 @@ VIII - receber, registrar e apreciar os demonstrativos de receita e despesas e o
 
 IX - organizar e manter atualizado o registro dos processos fiscais instaurados.
 
-<strong>Art</strong>. 14. À Sç.T.D. compete:
+**Art**. 14. À Sç.T.D. compete:
 
 I - estudar e preparar os processos relativos às sociedades de economia coletiva, estabelecimentos bancários e usinas hidro e têrmo-elétricas, bem como orientar e coordenar o serviço de fiscalização respectiva;
 
@@ -202,15 +200,15 @@ IX - registrar as comunicações enviadas pelo Banco do Brasil, Sociedade Anôni
 
 X - organizar e manter atualizado o registro dos processos fiscais instaurados.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>DO SERVIÇO DE COLETORIAS FEDERAIS</em>
+*DO SERVIÇO DE COLETORIAS FEDERAIS*
 
-<strong>Art</strong>. 15. Ao S.C.F. compete superintender, orientar, controlar e inspecionar, no Território Nacional, a arrecadação e outros atos praticados pelas Coletorias Federais.
+**Art**. 15. Ao S.C.F. compete superintender, orientar, controlar e inspecionar, no Território Nacional, a arrecadação e outros atos praticados pelas Coletorias Federais.
 
 Parágrafo único. As Coletorias Federais, nos têrmos da Lei nº 1.293, de 27 de dezembro de 1950, são órgãos do sistema arrecadador da União e têm por finalidade, dentro da respectiva jurisdição, arrecadar e contabilizar as rendas internas pertencentes à União ou a cargo desta e efetuar pagamentos devidamente autorizados, podendo, ainda, em casos especiais, ser-lhe atribuída a arrecadação de rendas aduaneiras.
 
-<strong>Art</strong>. 16. O S.C.F., nos têrmos da Lei nº 1.293, de 27 de dezembro de 1950, compõe-se de:
+**Art**. 16. O S.C.F., nos têrmos da Lei nº 1.293, de 27 de dezembro de 1950, compõe-se de:
 
 a) Seção de Administração (Sç.A.);
 
@@ -218,7 +216,7 @@ b) Seção de Contrôle e Estatística (Sç.C.E.);
 
 c) Seção de Orientação e Inspeção (Sç.O.I).
 
-<strong>Art</strong>. 17. À Sç.A. compete:
+**Art**. 17. À Sç.A. compete:
 
 I - dar parecer nos processos sôbre criação, fusão, extinção ou mudança de sede das exatoriais;
 
@@ -232,7 +230,7 @@ V - organizar, em articulação com o S.A., os planos de suprimento do material 
 
 VI - propor a fixação do número dos Auxiliares de Coletorias e a sua lotação nos Estados, de acôrdo com os índices de serviço.
 
-<strong>Art</strong>. 18. À S.C.E. compete:
+**Art**. 18. À S.C.E. compete:
 
 I - comparar, analisar e estudar, numérica e gràficamente, os elementos relativos à receita das Coletorias Federais, suas oscilações e causas, na base dos elementos fornecidos pela S.M.;
 
@@ -240,7 +238,7 @@ II - manter em dia e em ordem o cadastro de tôdas as Coletorias Federais, com a
 
 III - fornecer os elementos necessários para o processamento de reclassificação de Coletoria Federais, bem como o de criação de Tesourarias nessas repartições.
 
-<strong>Art</strong>. 19. À O.I. compete:
+**Art**. 19. À O.I. compete:
 
 I - estudar as normas do serviço de arrecadação, propondo as medidas que julgar necessárias à simplificação, racionalização e uniformização dos métodos de trabalho em uso naquelas repartições arrecadadoras;
 
@@ -260,11 +258,11 @@ VIII - propor a expedição de instruções necessária à aplicação das leis 
 
 IX - estudar e propor a mecanização dos serviços Coletorias Federais.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>DA FISCALIZAÇÃO GERAL DE LOTERIAS</em>
+*DA FISCALIZAÇÃO GERAL DE LOTERIAS*
 
-<strong>Art</strong>. 20. À F.G.L., de acôrdo com o Decreto-lei nº 6.259, de 10 de fevereiro de 1944, compete:
+**Art**. 20. À F.G.L., de acôrdo com o Decreto-lei nº 6.259, de 10 de fevereiro de 1944, compete:
 
 I - fiscalizar as loterias em todo o território nacional;
 
@@ -276,21 +274,21 @@ IV - propor a expedição de circulares e instruções destinadas a tornar unifo
 
 V - organizar e manter atualizado o resgistro dos processos fiscais instaurados.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>DO SERVIÇO DE ADMINISTRAÇÃO</em>
+*DO SERVIÇO DE ADMINISTRAÇÃO*
 
-<strong>Art</strong>. 21. Ao S.A. compete prestar os serviços de administração geral, centralizando tôdas as atividades de pessoal, material orçamento, mecanização e estatística que se fizerem necessários à execução dos trabalhos da D.R.I.
+**Art**. 21. Ao S.A. compete prestar os serviços de administração geral, centralizando tôdas as atividades de pessoal, material orçamento, mecanização e estatística que se fizerem necessários à execução dos trabalhos da D.R.I.
 
-<strong>Art</strong>. 22. Subordinada ao S.A. funcionará uma Seção de Mecanização (S.M.).
+**Art**. 22. Subordinada ao S.A. funcionará uma Seção de Mecanização (S.M.).
 
-<strong>Art</strong>. 23. À S.M. compete efetuar os trabalhos de apuração e tabulação de dados estatísticos e contábeis com o equipamento mecânico ou eletro-mecânico de que dispuser, cabendo-lhe especialmente apurar a arrecadação mensal, semestral e anual das rendas internas, em cada repartição arrecadadora do Ministério da Fazenda, em cada Estado, nos Territórios e no Distrito Federal, pelas rubricas orçamentárias, comparando-a com a estimativa orçamentária do exercício em curso e com a arrecadação de igual período do exercício anterior.
+**Art**. 23. À S.M. compete efetuar os trabalhos de apuração e tabulação de dados estatísticos e contábeis com o equipamento mecânico ou eletro-mecânico de que dispuser, cabendo-lhe especialmente apurar a arrecadação mensal, semestral e anual das rendas internas, em cada repartição arrecadadora do Ministério da Fazenda, em cada Estado, nos Territórios e no Distrito Federal, pelas rubricas orçamentárias, comparando-a com a estimativa orçamentária do exercício em curso e com a arrecadação de igual período do exercício anterior.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>DA JUNTA CONSULTIVA DO IMPÔSTO DE CONSUMO</em>
+*DA JUNTA CONSULTIVA DO IMPÔSTO DE CONSUMO*
 
-<strong>Art</strong>. 24. A J.C.I.C., órgão de aconselhamento do Diretor da D.R.I., funcionando sob sua presidência de acôrdo com o estabelecido no art. 204, do Decreto-lei nº 7.404, de 22 de março de 1945, é constituída de seis (6) membros e terá suas atividades disciplinares em regimento próprio, competindo-lhe:
+**Art**. 24. A J.C.I.C., órgão de aconselhamento do Diretor da D.R.I., funcionando sob sua presidência de acôrdo com o estabelecido no art. 204, do Decreto-lei nº 7.404, de 22 de março de 1945, é constituída de seis (6) membros e terá suas atividades disciplinares em regimento próprio, competindo-lhe:
 
 I - opinar sôbre as questões decorrentes de interpretação e aplicação das leis do Impôsto de Consumo;
 
@@ -300,11 +298,11 @@ III - propor a expedição de circulares, instruções e ordens de serviço rela
 
 Parágrafo único. A J.C.I.C. terá um Secretário, designado pelo Diretor da D.R.I.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 25. Ao Diretor incumbe:
+**Art**. 25. Ao Diretor incumbe:
 
 I - dirigir, orientar e coordenar as atividades da D.R.I;
 
@@ -368,7 +366,7 @@ XXX - elogiar e impor penas disciplinares, inclusive a de suspensão até 30 dia
 
 XXXI - apresentar, anualmente, ao Diretor Geral da Fazenda Nacional, relatório sôbre as atividades da D.R.I.
 
-<strong>Art</strong>. 26. Aos Chefes de Serviços incumbe:
+**Art**. 26. Aos Chefes de Serviços incumbe:
 
 I - dirigir, coordenar e controlar as atividades do respectivo Serviço;
 
@@ -398,7 +396,7 @@ XIII - apresentar, semanalmente, boletins das atividades do Serviço, e propor a
 
 XIV - apresentar, anualmente, ao Diretor, relatório das atividades do Serviço.
 
-<strong>Art</strong>. 27. Aos Chefes de Seção incumbe:
+**Art**. 27. Aos Chefes de Seção incumbe:
 
 I - orientar e fiscalizar a execução dos trabalhos pertinentes à Seção, determinado normas e métodos que se fizerem necessários;
 
@@ -424,11 +422,11 @@ XI - apresentar, semanalmente, ao respectivo Chefe, boletim das atividades da Se
 
 XII - apresentar, anualmente, realtório dos trabalhos realizados, em andamento ou planejados na Seção.
 
-<strong>Art</strong>. 28. Ao Fiscal-Geral de loterias, além das atribuições genéricas previstas neste Regimento para os Chefes de Serviço, incumbem as previstas no Decreto-lei número 6.259, de 10 de fevereiro de 1944.
+**Art**. 28. Ao Fiscal-Geral de loterias, além das atribuições genéricas previstas neste Regimento para os Chefes de Serviço, incumbem as previstas no Decreto-lei número 6.259, de 10 de fevereiro de 1944.
 
-<strong>Art</strong>. 29. Ao Chefe da S.F.S., além das atribuições genéricas previstas neste Regimento para os Chefes da Seção, incumbem ao previsto para o Fiscal Superintendente a que se refere o Decreto-lei nº 7.930, de 3 de setembro de 1945.
+**Art**. 29. Ao Chefe da S.F.S., além das atribuições genéricas previstas neste Regimento para os Chefes da Seção, incumbem ao previsto para o Fiscal Superintendente a que se refere o Decreto-lei nº 7.930, de 3 de setembro de 1945.
 
-<strong>Art</strong>. 30. Aos membros da J.C.I.C. incumbe:
+**Art**. 30. Aos membros da J.C.I.C. incumbe:
 
 I - estudar e relatar os processos que lhes forem distribuídos;
 
@@ -438,7 +436,7 @@ III - redigir o parecer da J.C.I.C., quando designado pelo Presidente;
 
 IV - sugerir medidas referentes aos trabalhos da J.C.I.C.
 
-<strong>Art</strong>. 31. Ao Secretário da J.C.I.C. incumbe:
+**Art**. 31. Ao Secretário da J.C.I.C. incumbe:
 
 I - assistir às Sessões e lavrar as atas;
 
@@ -450,13 +448,13 @@ IV - observar os prazos de distribuição dos processos;
 
 V - providenciar sôbre a expedição da correspondência;
 
-VI - organizar os pareceres da J.C.I.C., aprovados pelo Diretor, a fim de serem publicados no <em>Diário Oficial;</em>
+VI - organizar os pareceres da J.C.I.C., aprovados pelo Diretor, a fim de serem publicados no *Diário Oficial;*
 
 VII - guardar, classificar e conservar em boa ordem os papéis, documentos e pareceres que lhes forem confiados;
 
 VIII - manter atualizado o fichário dos pareceres.
 
-<strong>Art</strong>. 32. Aos Assistentes Técnicos incumbe:
+**Art**. 32. Aos Assistentes Técnicos incumbe:
 
 I - estudar os papéis e processos que lhes forem distribuídos pelo Diretor, inclusive relatórios de Inspetores Fiscais;
 
@@ -466,7 +464,7 @@ III - colaborar com o Diretor no estudo de propostas de alteração de leis e re
 
 IV - manter atualizado o contrôle dos processos e documentos que forem à decisão ou estudo do Diretor.
 
-<strong>Art</strong>. 33. Ao Secretário do Diretor incumbe:
+**Art**. 33. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor e caminhando-as ou dando a êste comnhecimento do assunto a tratar;
 
@@ -476,21 +474,21 @@ III - redigir a correspondência do pessoal do Diretor;
 
 IV - manter atualizado o contrôle dos processos e documentos que forem à decisão o estudo do Diretor.
 
-<strong>Art</strong>. 34. Aos demais servidores que não tenham atribuições especificadas neste Regulamento, incumbe executar os trabalhos que forem determinados pelo respectivo Chefe.
+**Art**. 34. Aos demais servidores que não tenham atribuições especificadas neste Regulamento, incumbe executar os trabalhos que forem determinados pelo respectivo Chefe.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 35. O horário normal de trabalho da D.R.I. será fixado pelo Diretor, respeitando o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 35. O horário normal de trabalho da D.R.I. será fixado pelo Diretor, respeitando o número de horas semanais estabelecido para o Serviço Público Civil.
 
 Parágrafo único - O Diretor, seus Assistentes Técnicos e Secretário, Chefes de Serviço e de Seção estão sujeitos ao número de horas semanais de trabalho prescrito pela Lei nº 2.188, de 3 de março de 1954.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 36. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 36. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor, por um dos Chefes de Serviços, de sua indicação, designado pelo Diretor-Geral da Fazenda Nacional;
 
@@ -500,22 +498,22 @@ III - Os Chefes de Seção, por servidores, de sua indicação, designados pelo 
 
 Parágrafo único - Haverá, sempre, servidores previàmente designados, para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 37. A D.R.I. deverá cooperar, emitindo seu parecer, sempre que se tratar da criação, alteração, ou extinção de repartições arrecadadoras de rendas internas, ou de órgãos de fiscalização dêsses tributos.
+**Art**. 37. A D.R.I. deverá cooperar, emitindo seu parecer, sempre que se tratar da criação, alteração, ou extinção de repartições arrecadadoras de rendas internas, ou de órgãos de fiscalização dêsses tributos.
 
-<strong>Art</strong>. 38. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias ordens e instruções de serviço e decisões que digam respeito às suas atividades específicadas.
+**Art**. 38. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias ordens e instruções de serviço e decisões que digam respeito às suas atividades específicadas.
 
-<strong>Art</strong>. 39. As designações do Chefe do S.C.F., dos Inspetores Fiscais e de Coletorias e Fiscais Auxiliares em Operações Bancárias são de competência do Ministro da Fazenda, podendo a respectiva designação ser efetuada pelo Diretor das Rendas Internas, desde que disponha de delegação de competência.
+**Art**. 39. As designações do Chefe do S.C.F., dos Inspetores Fiscais e de Coletorias e Fiscais Auxiliares em Operações Bancárias são de competência do Ministro da Fazenda, podendo a respectiva designação ser efetuada pelo Diretor das Rendas Internas, desde que disponha de delegação de competência.
 
-<strong>Art</strong>. 40. O Chefe da F.G.I. será o Fiscal Geral designado pelo Presidente da República, nos têrmos do art. 64 do Decreto-lei nº 6.259, de 10 de fevereiro de 1944, e o Chefe da S.F.S. será Fiscal Superintendente, designado pelo Diretor da D.R.I., nos têrmos do art. 47 do Decreto-lei nº 7.930, de 3 de setembro de 1945.
+**Art**. 40. O Chefe da F.G.I. será o Fiscal Geral designado pelo Presidente da República, nos têrmos do art. 64 do Decreto-lei nº 6.259, de 10 de fevereiro de 1944, e o Chefe da S.F.S. será Fiscal Superintendente, designado pelo Diretor da D.R.I., nos têrmos do art. 47 do Decreto-lei nº 7.930, de 3 de setembro de 1945.
 
-<strong>Art</strong>. 41. Dois dos Assistentes Técnicos de Diretor devem ser escolhidos obrigatòriamente, entre funcionários pertencentes à Carreira de Agente Fiscal do Impôsto de Consumo, de acôrdo com o art. 3º do Decreto-lei nº 9.719, de 3 de setembro de 1946, que deu nova redação ao art. 162 do Decreto-lei nº 739, de 24 de setembro de 1938, só podendo, porém, efetuar-se a respectiva designação, mediante prévia autorização do Ministro da Fazenda.
+**Art**. 41. Dois dos Assistentes Técnicos de Diretor devem ser escolhidos obrigatòriamente, entre funcionários pertencentes à Carreira de Agente Fiscal do Impôsto de Consumo, de acôrdo com o art. 3º do Decreto-lei nº 9.719, de 3 de setembro de 1946, que deu nova redação ao art. 162 do Decreto-lei nº 739, de 24 de setembro de 1938, só podendo, porém, efetuar-se a respectiva designação, mediante prévia autorização do Ministro da Fazenda.
 
-<strong>Art</strong>. 42. Nenhum chefe ou servidor poderá prestar informações, fazer publicações e conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades da D.R.I., sem autorização escrita do Diretor.
+**Art**. 42. Nenhum chefe ou servidor poderá prestar informações, fazer publicações e conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades da D.R.I., sem autorização escrita do Diretor.
 
 Rio de Janeiro, 11 de setembro de 1956.
 
-<strong>JOSÉ MARIA ALKMIM</strong>
+**JOSÉ MARIA ALKMIM**

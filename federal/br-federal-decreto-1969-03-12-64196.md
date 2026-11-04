@@ -1,5 +1,3 @@
-###DEC-064196-0-000-12-03-1969@@@
-
 DECRETO Nº 64.196, DE 12 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Centro Vocacional de Guarapuava, com sede em Guarapuava, Estado do Paraná.

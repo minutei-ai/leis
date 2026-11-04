@@ -1,5 +1,3 @@
-###DEC-097137-0-000-24-11-1988@@@
-
 DECRETO Nº 97.137, DE 24 DE NOVEMBRO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Filosofia, Ciências e Letras de Nova Iguaçu.

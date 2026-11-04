@@ -1,5 +1,3 @@
-###DEC-067322-0-000-02-10-1970@@@
-
 DECRETO Nº 67.322, DE 2 DE OUTUBRO DE 1970.
 
 Dispõe sôbre a fixação de limite mínimo para a retribuição de professôres do ensino médio oficial, a ser observado pelos Estados, pelo Distrito Federal, pelos Territórios e pelos Municípios das Capitais, como condição para a utilização da parcela destinada à Educação, nas quotas dos respectivos Fundos de Participação, e dá outras providências.

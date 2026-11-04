@@ -1,5 +1,3 @@
-###DEC-057439-0-000-16-12-1965@@@
-
 DECRETO Nº 57.439, DE 16 DE DEEZEMBRO DE 1965.
 
 Autoriza a Companhia Siderúrgica Paulista - COSIPA a pesquisar calcário, no município de Salto do Pirapora, Estado de São Paulo.

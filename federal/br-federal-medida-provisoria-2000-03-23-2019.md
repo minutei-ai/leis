@@ -1,5 +1,3 @@
-###MPV-002019-0-000-23-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.019, DE 23 DE MARÇO DE 2000.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 3 de abril de 2000.

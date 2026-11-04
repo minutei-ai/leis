@@ -1,5 +1,3 @@
-###DEC-045873-0-000-27-04-1959@@@
-
 DECRETO Nº 45.873, de 27 DE abril DE 1959.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Município de Santa Rita de Jacutinga, no Estado de Minas Gerais.

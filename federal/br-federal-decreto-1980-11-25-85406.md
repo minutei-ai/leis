@@ -1,5 +1,3 @@
-###DEC-085406-0-000-25-11-1980@@@
-
 Decreto nº 85.406, de 25 de novembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da Estação Transformadora de Distribuição Granja Julieta, da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

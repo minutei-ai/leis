@@ -1,5 +1,3 @@
-###DEL-008404-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.404 – DE 20 DE DEZEMBRO DE 1945
 
 Cria e transforma cargos isolados no Ministério da Justiça e Negócios Interiores e dá outras providências.

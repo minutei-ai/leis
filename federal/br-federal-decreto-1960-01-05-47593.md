@@ -1,5 +1,3 @@
-###DEC-047593-0-000-05-01-1960@@@
-
 DEcreto nº 47.593, de 5 de janeiro de 1960.
 
 Outorga concessão à Rádio Panamericana Sociedade Anônima para instalar uma estação radiodifusora.

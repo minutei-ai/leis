@@ -1,5 +1,3 @@
-###DEL-007705-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.705 – DE 5 DE JULHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar a Sociedade Recreio dos Anciãos para Asilo da Velhice Desamparada, dos impostos que menciona

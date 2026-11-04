@@ -1,5 +1,3 @@
-###DEC-007624-0-000-22-11-2011-PUB-01@@@
-
 DECRETO Nº 7.624, DE 22 DE NOVEMBRO DE 2011
 
 Dispõe sobre as condições de exploração pela iniciativa privada da infraestrutura aeroportuária, por meio de concessão.

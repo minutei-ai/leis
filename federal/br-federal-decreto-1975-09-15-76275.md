@@ -1,5 +1,3 @@
-###DEC-076275-0-000-15-09-1975@@@
-
 DECRETO Nº 76.275 - DE 15 DE SETEMBRO DE 1975
 
 Organiza o Conselho Nacional de Direito Autoral e dá outras providências.

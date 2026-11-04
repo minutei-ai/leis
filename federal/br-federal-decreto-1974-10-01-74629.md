@@ -1,5 +1,3 @@
-###DEC-074629-0-000-01-10-1974@@@
-
 DECRETO Nº 74.629, DE 1 DE OUTUBRO DE 1974.
 
 Dispõe sobre a classificação da BEFIEX como órgão de deliberação coletiva.

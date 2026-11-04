@@ -1,7 +1,3 @@
-1
-
-###DEC-097642-0-000-11-04-1989@@@
-
 DECRETO N.° 97.642, DE 11 DE ABRIL DE 1989
 
 Autoriza a doação do imóvel que menciona.

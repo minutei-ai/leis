@@ -1,5 +1,3 @@
-###DEC-095237-0-000-13-11-1987@@@
-
 DECRETO N° 95.237, DE 13 DE NOVEMBRO DE 1987
 
 Altera dispositivo do Decreto n° 94.236, de 15 de abril de 1987, que transferiu o Instituto Nacional de Pesquisas da Amazônia - INPA para o Ministério da Ciência e Tecnologia, transformando-o em órgão autônomo da Administração Direta e dá outras providências.

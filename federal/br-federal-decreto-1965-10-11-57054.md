@@ -1,46 +1,44 @@
-###DEC-057054-0-000-11-10-1965@@@
+**DECRETO Nº 57.054, DE 11 DE OUTUBRO DE 1965.**
 
-<strong>DECRETO Nº 57.054, DE 11 DE OUTUBRO DE 1965.</strong>
+***Aprova o Regulamento dos Serviços de Rotas Aéreas.***
 
-<em><strong>Aprova o Regulamento dos Serviços de Rotas Aéreas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento dos Serviços de Rotas Aéreas, que com êste baixa, assinado pelo Ministro da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento dos Serviços de Rotas Aéreas, que com êste baixa, assinado pelo Ministro da Aeronáutica.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de outubro de 1965; 144º da Independência e 77º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Eduardo Gomes
 
-<strong>REGULAMENTO DOS SERVIÇOS DE ROTAS AÉREAS</strong>
+**REGULAMENTO DOS SERVIÇOS DE ROTAS AÉREAS**
 
-<strong>PRIMEIRA PARTE</strong>
+**PRIMEIRA PARTE**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Missão e Subordinação</em>
+*Missão e Subordinação*
 
-<strong>Art</strong>. 1º Os Serviços de Rotas Aéreas (SR) têm por missão dirigir os serviços afetos à Diretoria de Rotas Aéreas, na Zona Aérea respectiva, no tocante à proteção ao vôo, telecomunicações e meteorologia, lhe devendo subordinação tôdas as rêdes e postos regionais; orientar as questões relativas ao material empregado nas rêdes e postos regionais, no tocante a suprimento e manutenção; opinar nas questões de pessoal utilizado no Serviço.
+**Art**. 1º Os Serviços de Rotas Aéreas (SR) têm por missão dirigir os serviços afetos à Diretoria de Rotas Aéreas, na Zona Aérea respectiva, no tocante à proteção ao vôo, telecomunicações e meteorologia, lhe devendo subordinação tôdas as rêdes e postos regionais; orientar as questões relativas ao material empregado nas rêdes e postos regionais, no tocante a suprimento e manutenção; opinar nas questões de pessoal utilizado no Serviço.
 
-<strong>Art</strong>. 2º Os Serviços de Rotas Aéreas são subordinados, administrativa e disciplinarmente, aos respectivos Comandos de Zonas Aéreas e técnica e operacionalmente à Diretoria de Rotas Aéreas.
+**Art**. 2º Os Serviços de Rotas Aéreas são subordinados, administrativa e disciplinarmente, aos respectivos Comandos de Zonas Aéreas e técnica e operacionalmente à Diretoria de Rotas Aéreas.
 
-<strong>SEGUNDA PARTE</strong>
+**SEGUNDA PARTE**
 
-<em>Organização</em>
+*Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Constituição Geral</em>
+*Constituição Geral*
 
-<strong>Art</strong>. 3º Os Serviços de Rotas Aéreas têm a seguinte constituição geral:
+**Art**. 3º Os Serviços de Rotas Aéreas têm a seguinte constituição geral:
 
 1 - Chefia
 
@@ -52,19 +50,19 @@ Eduardo Gomes
 
 5 - Núcleos de Proteção ao Vôo
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Chefia</em>
+*Chefia*
 
-<strong>Art</strong>. 4º A Chefia é constituída:
+**Art**. 4º A Chefia é constituída:
 
 1 - Chefe
 
 2 - Seção Auxiliar
 
-<strong>Art</strong>. 5º Os Serviços de Rotas Aéreas são chefiados por Coronel-Aviador ou Tenente Coronel Aviador, de preferência com o Curso de Proteção ao Vôo ou de Comunicações.
+**Art**. 5º Os Serviços de Rotas Aéreas são chefiados por Coronel-Aviador ou Tenente Coronel Aviador, de preferência com o Curso de Proteção ao Vôo ou de Comunicações.
 
-<strong>Art</strong>. 6º Ao Chefe do Serviço de Rotas Aéreas, além das atribuições previstas em lei ou regulamento, compete:
+**Art**. 6º Ao Chefe do Serviço de Rotas Aéreas, além das atribuições previstas em lei ou regulamento, compete:
 
 1 - dirigir tôdas as atividades do SR;
 
@@ -80,17 +78,17 @@ Eduardo Gomes
 
 7 - remeter às autoridades competentes, na forma e na época oficialmente fixadas, os relatórios das atividades do SR.
 
-<strong>Art</strong>. 7º A Seção Auxiliar, diretamente subordinada ao Chefe do Serviço de Rotas Aéreas, é o órgão encarregado de auxiliar a administração do SR.
+**Art**. 7º A Seção Auxiliar, diretamente subordinada ao Chefe do Serviço de Rotas Aéreas, é o órgão encarregado de auxiliar a administração do SR.
 
-<strong>Art</strong>. 8º As funções de Chefe da Seção Auxiliar são exercidas por Capitão Aviador ou Especialista.
+**Art**. 8º As funções de Chefe da Seção Auxiliar são exercidas por Capitão Aviador ou Especialista.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Seção de Operações</em>
+*Seção de Operações*
 
-<strong>Art</strong>. 9º A Seção de Operações (SOPR), diretamente subordinada ao Chefe do Serviço de Rotas Aéreas, é o órgão que tem a seu cargo tôdas as questões operacionais relativas ao tráfego aéreo, às telecomunicações, à meteorologia e às informações aeronáuticas necessárias ao cumprimento da missão do SR, reunindo para êsse fim todo o pessoal e material exigidos.
+**Art**. 9º A Seção de Operações (SOPR), diretamente subordinada ao Chefe do Serviço de Rotas Aéreas, é o órgão que tem a seu cargo tôdas as questões operacionais relativas ao tráfego aéreo, às telecomunicações, à meteorologia e às informações aeronáuticas necessárias ao cumprimento da missão do SR, reunindo para êsse fim todo o pessoal e material exigidos.
 
-<strong>Art</strong>. 10. A Seção de Operações tem a seguinte constituição:
+**Art**. 10. A Seção de Operações tem a seguinte constituição:
 
 1 - Chefe
 
@@ -100,15 +98,15 @@ Eduardo Gomes
 
 4 - Subseção de Meteorologia (OPR-3)
 
-<strong>Art</strong>. 11. As funções de Chefe da Seção de Operações são exercidas por Major Aviador ou Major Especialista, êste último preferivelmente em Tráfego Aéreo.
+**Art**. 11. As funções de Chefe da Seção de Operações são exercidas por Major Aviador ou Major Especialista, êste último preferivelmente em Tráfego Aéreo.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Seção do Material</em>
+*Seção do Material*
 
-<strong>Art</strong>. 12. A Seção do Material (SMTA), diretamente subordinado ao Chefe do Serviço de Rotas Aéreas, é o órgão que tem a seu cargo o suprimento e a manutenção especializados, bem como o planejamento dos serviços de instalação necessários ao cumprimento da missão do SR, reunindo para êsse fim todo o pessoal e material exigidos.
+**Art**. 12. A Seção do Material (SMTA), diretamente subordinado ao Chefe do Serviço de Rotas Aéreas, é o órgão que tem a seu cargo o suprimento e a manutenção especializados, bem como o planejamento dos serviços de instalação necessários ao cumprimento da missão do SR, reunindo para êsse fim todo o pessoal e material exigidos.
 
-<strong>Art</strong>. 13. A Seção do Material tem a seguinte constituição:
+**Art**. 13. A Seção do Material tem a seguinte constituição:
 
 1 - Chefe
 
@@ -118,15 +116,15 @@ Eduardo Gomes
 
 4 - Subseção de Instalações (MAT-3)
 
-<strong>Art</strong>. 14. As funções de Chefe da Seção de Material são exercidas por Major Especialista, de preferência em Comunicações.
+**Art**. 14. As funções de Chefe da Seção de Material são exercidas por Major Especialista, de preferência em Comunicações.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Seção do Pessoal</em>
+*Seção do Pessoal*
 
-<strong>Art</strong>. 15. A Seção do Pessoal (SPES), diretamente subordinada ao Chefe do Serviço de Rotas Aéreas, é o órgão que tem a seu cargo tôdas as questões pertinentes a administração do pessoal, militar e civil, do SR, inclusive movimentação, assistência social e outras atribuições delegadas por autoridade competente.
+**Art**. 15. A Seção do Pessoal (SPES), diretamente subordinada ao Chefe do Serviço de Rotas Aéreas, é o órgão que tem a seu cargo tôdas as questões pertinentes a administração do pessoal, militar e civil, do SR, inclusive movimentação, assistência social e outras atribuições delegadas por autoridade competente.
 
-<strong>Art</strong>. 16. A Seção do Pessoal tem a seguinte constituição:
+**Art**. 16. A Seção do Pessoal tem a seguinte constituição:
 
 1 - Chefe
 
@@ -134,15 +132,15 @@ Eduardo Gomes
 
 3 - Subseção de Assistência Social (PES-2)
 
-<strong>Art</strong>. 17. As funções de Chefe da Seção do Pessoal são exercidas por Major Especialista.
+**Art**. 17. As funções de Chefe da Seção do Pessoal são exercidas por Major Especialista.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Núcleos de Proteção ao Vôo</em>
+*Núcleos de Proteção ao Vôo*
 
-<strong>Art</strong>. 18. Os Núcleos de Proteção ao Vôo (NPV) são órgãos isolados do Serviço de Proteção ao Vôo, com finalidade estritamente operacional.
+**Art**. 18. Os Núcleos de Proteção ao Vôo (NPV) são órgãos isolados do Serviço de Proteção ao Vôo, com finalidade estritamente operacional.
 
-<strong>Art</strong>. 19. Os Serviços de Rotas Aéreas exercem ação sôbre os Núcleos de Proteção ao Vôo localizados dentro das respectivas áreas de jurisdição.
+**Art**. 19. Os Serviços de Rotas Aéreas exercem ação sôbre os Núcleos de Proteção ao Vôo localizados dentro das respectivas áreas de jurisdição.
 
 Parágrafo único. Os Núcleos de Proteção ao Vôo subordinam-se:
 
@@ -150,11 +148,11 @@ a) para todos os efeitos, aos Serviços de Rotas Aéreas a que pertencem, no cas
 
 b) apenas técnica e operacinalmente aos Serviços de Rotas Aéreas a que pertencem, no caso de estarem sediados em área sob a jurisdição de Organização da Aeronáutica.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Atribuições dos Chefes de Seção</em>
+*Atribuições dos Chefes de Seção*
 
-<strong>Art</strong>. 20. Compete aos Chefes de Seção, de maneira geral:
+**Art**. 20. Compete aos Chefes de Seção, de maneira geral:
 
 1 - coordenar, orientar e fiscalizar os serviços que lhe estão subordinados;
 
@@ -168,40 +166,40 @@ b) apenas técnica e operacinalmente aos Serviços de Rotas Aéreas a que perten
 
 6 - encaminhar na época própria e da forma estabelecida nas instruções em vigor, os relatórios estatísticos sôbre as atividades da Seção e dos serviços subordinados.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 21. Os Chefes de Seção devem possuir, de preferência, o Curso de Proteção ao Vôo.
+**Art**. 21. Os Chefes de Seção devem possuir, de preferência, o Curso de Proteção ao Vôo.
 
-<strong>Art</strong>. 22. A Chefia das Subseções, quando exercidas por militares, compete a Oficial do Pôsto de Capitão.
+**Art**. 22. A Chefia das Subseções, quando exercidas por militares, compete a Oficial do Pôsto de Capitão.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Substituições</em>
+*Substituições*
 
-<strong>Art</strong>. 23. O Chefe do Serviço de Rotas Aéreas é substituído, em seus impedimentos, pelo Oficial Aviador, da ativa, de maior pôsto e antiguidade.
+**Art**. 23. O Chefe do Serviço de Rotas Aéreas é substituído, em seus impedimentos, pelo Oficial Aviador, da ativa, de maior pôsto e antiguidade.
 
 Parágrafo único. As demais substituições, no Serviço de Rotas Aéreas, far-se-ão de acôrdo com o Regulamento Interno dos Serviços de Aeronáutica (RISAER).
 
-<strong>TERCEIRA PARTE</strong>
+**TERCEIRA PARTE**
 
-<em>Disposições Finais</em>
+*Disposições Finais*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 24. As lotações de funções dos Serviços de Rotas Aéreas, não fixadas no presente Regulamento, serão estabelecidas nas respectivas Tabelas de Organização e Lotação.
+**Art**. 24. As lotações de funções dos Serviços de Rotas Aéreas, não fixadas no presente Regulamento, serão estabelecidas nas respectivas Tabelas de Organização e Lotação.
 
-<strong>Art</strong>. 25. O suprimento especializado para o funcionamento dos Serviços de Rotas Aéreas e dos respectivos órgãos subordinados é da responsabilidade da Diretoria de Rotas Aéreas.
+**Art**. 25. O suprimento especializado para o funcionamento dos Serviços de Rotas Aéreas e dos respectivos órgãos subordinados é da responsabilidade da Diretoria de Rotas Aéreas.
 
 Parágrafo único. Os Serviços de Rotas Aéreas ficam obrigados a remeter à Diretoria de Rotas Aéreas, nas épocas e na forma por esta estabelecidas, os inventários de todo o material técnico que lhes tiver sido distribuído.
 
-<strong>Art</strong>. 26. As necessidades administrativas normais dos Serviços de Rotas Aéreas são atendidas pelos respectivos Comandos de Zona Aérea, na forma por êstes estabelecida.
+**Art**. 26. As necessidades administrativas normais dos Serviços de Rotas Aéreas são atendidas pelos respectivos Comandos de Zona Aérea, na forma por êstes estabelecida.
 
-<strong>Art</strong>. 27. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica, ouvido o Estado-Maior da Aeronáutica.
+**Art**. 27. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica, ouvido o Estado-Maior da Aeronáutica.
 
-<strong>EDUARDO GOMES</strong>
+**EDUARDO GOMES**
 
 Ministro da Aeronáutica

@@ -1,5 +1,3 @@
-###DEC-061610-A-000-24-10-1967@@@
-
 Decreto nº 61.610-A, de 24 de outubro de 1967.
 
 Autoriza a realização de convênio entre o Instituto do Açúcar e do Álcool e o Banco de Desenvolvimento de Minas Gerais e dá outras providências.

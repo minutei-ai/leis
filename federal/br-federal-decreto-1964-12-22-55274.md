@@ -1,5 +1,3 @@
-###DEC-055274-0-000-22-12-1964@@@
-
 DECRETO Nº 55.274, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza restituição do imóvel à Prefeitura Municipal de Palmeira das Missões, no Rio Grande do Sul, por inexecução de encargo.

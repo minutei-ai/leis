@@ -1,5 +1,3 @@
-###DEC-092363-0-000-04-02-1986@@@
-
 DECRETO Nº 92.363, DE 04 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento do curso de Enfermagem da Escola de Enfermagem Matias de Albuquerque Coelho, em Olinda, Pernambuco.

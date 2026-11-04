@@ -1,5 +1,3 @@
-###MPV-002073-0-037-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Na 2.073‑37, DE 17 DE MAIO DE 2001.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

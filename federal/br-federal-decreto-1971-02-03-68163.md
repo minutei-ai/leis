@@ -1,5 +1,3 @@
-###DEC-068163-0-000-03-02-1971@@@
-
 decreto nº 68.163, de 3 de fevereiro de 1971.
 
 Extingue a Diretoria da Despesa Pública e dá outras providências.

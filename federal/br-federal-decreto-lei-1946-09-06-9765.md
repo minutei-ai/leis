@@ -1,5 +1,3 @@
-###DEL-009765-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.765 – DE 6 DE SETEMBRO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 200.000,00, à verba que especifica.

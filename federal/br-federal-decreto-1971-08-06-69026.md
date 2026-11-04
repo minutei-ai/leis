@@ -1,5 +1,3 @@
-###DEC-069026-0-000-06-08-1971@@@
-
 DECRETO Nº 69.026, DE 6 DE AGÔSTO DE 1971.
 
 Aprova e manda adotar oficialmente a Bandeira-Insígnia de Vice-Presidente da República.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.112, DE 29 DE DEZEMBRO DE 2015**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a identificação, o diagnóstico, acompanhamento integral e atendimento educacional escolar para estudantes da educação básica com Transtorno do Déficit de Atenção com Hiperatividade - TDAH.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a identificação, o diagnóstico, acompanhamento integral e atendimento educacional escolar para estudantes da educação básica com Transtorno do Déficit de Atenção com Hiperatividade - TDAH.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

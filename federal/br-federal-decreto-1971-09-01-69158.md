@@ -1,5 +1,3 @@
-###DEC-069158-0-000-01-09-1971@@@
-
 DECRETO Nº 69.158, DE 1 DE SETEMBRO DE 1971.
 
 Dispõe sôbre a Administração Superior da Universidade Federal de Ouro Prêto.

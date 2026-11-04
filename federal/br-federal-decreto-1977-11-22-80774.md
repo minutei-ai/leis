@@ -1,5 +1,3 @@
-###DEC-080774-0-000-22-11-1977@@@
-
 Decreto nº 80.774, de 22 de novembro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem, em favor de a Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, necessários à construção do Sistema de Abastecimento de Água da Refinaria Duque de Caxias (REDUC) e dos trechos da segunda linha do Oleoduto Rio - Belo Horizonte, integrante do Sistema de Transferência de Petróleo para a Refinaria Gabriel Passos (REGAP), situados no Município de Duque de Caxias, no Estado do Rio de Janeiro.

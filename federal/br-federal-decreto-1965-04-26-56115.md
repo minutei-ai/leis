@@ -1,5 +1,3 @@
-###DEC-056115-0-000-26-04-1965@@@
-
 Decreto nº 56.115, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro Aureliano da Silveira Brum a pesquisar mica, no Município de Tombos, Estado de Minas Gerais.

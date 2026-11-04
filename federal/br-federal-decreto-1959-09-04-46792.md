@@ -1,5 +1,3 @@
-###DEC-046792-0-000-04-09-1959@@@
-
 Decreto nº 46.792, de 4 de setembro de 1959.
 
 Revoga o Art. 17 baixado com o Decreto nº 21.854, de 26 de setembro de 1946.

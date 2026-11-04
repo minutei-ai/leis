@@ -1,5 +1,3 @@
-###DEL-007474-0-000-18-04-1945@@@
-
 DECRETO-LEI N. 7.474 – DE 18 DE ABRIL DE 1945
 
 Concede anistia

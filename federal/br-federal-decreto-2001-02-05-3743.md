@@ -1,5 +1,3 @@
-###DEC-003743-0-000-05-02-2001@@@
-
 DECRETO Nº 3.743, DE 5 DE FEVEREIRO DE 2001
 
 Regulamenta a Lei nº 6.431, de 11 de julho de 1977, que autoriza a doação de porções de terras devolutas a Municípios incluídos na região da Amazônia Legal, para os fins que especifica, e dá outras providências.

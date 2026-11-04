@@ -1,5 +1,3 @@
-###DEC-052473-0-000-13-09-1963@@@
-
 DECRETO Nº 52.473, DE 13 DE SETEMBRO DE 1963.
 
 Aprova o Plano Preferencial do Setor Rodoviário do Plano Trienal de Desenvolvimento Econômico e Social e Normas Especiais para a sua execução.

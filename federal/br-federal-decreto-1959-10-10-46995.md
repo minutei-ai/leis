@@ -1,5 +1,3 @@
-###DEC-046995-0-000-10-10-1959@@@
-
 DECRETO Nº 46.995, DE 10 DE OUTUBRO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$1.0000.000,00 para auxiliar a Casa dos Artistas do Rio de Janeiro.

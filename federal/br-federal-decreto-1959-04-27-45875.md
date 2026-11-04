@@ -1,5 +1,3 @@
-###DEC-045875-0-000-27-04-1959@@@
-
 DECRETO Nº 45.875, DE 27 DE ABRIL DE 1959.
 
 Revoga o Decreto nº 8.490, de 27 de dezembro de 1941.

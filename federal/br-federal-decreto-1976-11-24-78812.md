@@ -1,5 +1,3 @@
-###DEC-078812-0-000-24-11-1976@@@
-
 DECRETO Nº 78.812, DE 24 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia de Operação, da Escola Técnica Federal de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

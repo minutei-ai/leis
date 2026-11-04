@@ -1,5 +1,3 @@
-###DEC-079214-0-000-08-02-1977@@@
-
 DECRETO Nº 79.214, DE 8 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento à habilitação em Administração Escolar do Curso de pedagogia, das Faculdades da Zona Leste de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

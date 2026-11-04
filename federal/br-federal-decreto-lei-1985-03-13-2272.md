@@ -1,5 +1,3 @@
-###DEL-002272-0-000-13-03-1985@@@
-
 # DECRETO-LEI Nº 2.272, DE 13 DE MARÇO DE 1985
 
 Dispõe sobre o cancelamento de débitos para com a Fazenda Nacional, de natureza não tributária, contraídos por entidades filantrópicas.

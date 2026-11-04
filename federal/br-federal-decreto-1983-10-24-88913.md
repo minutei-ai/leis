@@ -1,5 +1,3 @@
-###DEC-088913-0-000-24-10-1983@@@
-
 decreto nº 88.913, de 24 de outubro de 1983.
 
 Concede à USINA SIDERÚRGICA DA BAHIA S.A. - USIBA (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital autorizado, bem como de capital social.

@@ -1,5 +1,3 @@
-###DEL-009339-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.339 – DE 10 DE JUNHO DE 1946
 
 Dispõe sôbre a Administração do Lóide Brasileiro, Patromônio Nacional, e dá outras providências.

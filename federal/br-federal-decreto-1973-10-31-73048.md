@@ -1,5 +1,3 @@
-###DEC-073048-0-000-31-10-1973@@@
-
 DECRETO Nº 73.048, DE 31 DE OUTUBRO DE 1973.
 
 Concede autorização à Companhia Delta Marine Drilling Co., para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEL-004610-0-000-22-08-1942@@@
-
 DECRETO-LEI N. 4.610 – DE 22 DE AGOSTO DE 1942
 
 Cria a 1ª Bateria de Projetores do Distrito de Defesa de Costa

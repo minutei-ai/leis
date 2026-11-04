@@ -1,5 +1,3 @@
-###DEC-088440-0-000-29-06-1983@@@
-
 # Decreto nº 88.440, de 29 de junho de 1983
 
 Aprova as Tabelas de Etapas, dos Complementos da Ração Comum e do Quantitativo das Rações Operacionais das Forças Armadas para o Segundo Semestre de 1983.

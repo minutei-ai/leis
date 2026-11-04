@@ -1,12 +1,10 @@
-###DEC-024531-0-000-18-02-1948@@@
+**DECRETO Nº 24.531, DE 18 DE FEVEREIRO DE 1948.**
 
-<strong>DECRETO Nº 24.531, DE 18 DE FEVEREIRO DE 1948.</strong>
+***Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$6.107.515,80 para ocorrer ao pagamento de despesas realizadas em 1946.***
 
-<em><strong>Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$6.107.515,80 para ocorrer ao pagamento de despesas realizadas em 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei nº 98, de 17 de setembro de 1947, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93, do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei nº 98, de 17 de setembro de 1947, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93, do Regulamento Geral de Contabilidade Pública,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica aberto, ao Ministério da Educação e Saúde, o crédito especial de  seis milhões cento e sete mil quinhentos e quinze cruzeiros e oitenta centavos (Cr$6.107.515,80) para fazer face às despesas realizadas em 1946, assim discriminadas:
 
@@ -34,7 +32,7 @@ Taxas de esgôto à The rio de Janeiro City Improvements Company Limited, inclus
 
 Rio de Janeiro, 19 de fevereiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani
 

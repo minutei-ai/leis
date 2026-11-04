@@ -1,5 +1,3 @@
-###DEC-049180-0-000-01-11-1960@@@
-
 DECRETO N. 49.180 – DE 1 DE NOVEMBRO DE 1960
 
 Cria cargos e funções gratificadas no Quadro do Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e da outras providências.

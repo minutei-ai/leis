@@ -1,5 +1,3 @@
-###DEC-060349-0-000-09-03-1967@@@
-
 DECRETO Nº 60.349, DE 9 DE MARÇO DE 1967.
 
 Altera o Regimento do Gabinete Civil da Presidência da República, aprovado pelo Decreto nº 56.596, de 21 de julho de 1965, em virtude da integração, no mesmo Gabinete, da Agência Nacional, conforme o disposto no Decreto-lei nº 166, de 14 de fevereiro de 1967, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077105-0-000-03-02-1976@@@
-
 DECRETO Nº 77.105, DE 3 DE FEVEREIRO DE 1976.
 
 Dispõe sobre a destinação, no exercício de 1976, dos recursos para a execução do programa de redistribuição de terras e de Estímulo á Agroindústria do Norte e Nordeste (PROTERRA).

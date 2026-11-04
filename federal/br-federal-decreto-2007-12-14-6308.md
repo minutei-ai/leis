@@ -1,5 +1,3 @@
-###DEC-006308-0-000-14-12-2007@@@
-
 DECRETO Nº 6.308, DE 14 DE DEZEMBRO DE 2007.
 
 Dispõe sobre as entidades e organizações de assistência social de que trata o art. 3o da Lei no 8.742, de 7 de dezembro de 1993, e dá outras providências.
@@ -43,5 +41,3 @@ Dispõe sobre as entidades e organizações de assistência social de que trata 
 LUIZ INÁCIO LULA DA SILVA
 
 Patrus Aninas
-
-Este texto não substitui o publicado no DOU de 17.12.2007

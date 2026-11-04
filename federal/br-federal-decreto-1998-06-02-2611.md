@@ -1,5 +1,3 @@
-###DEC-002611-0-000-02-06-1998@@@
-
 DECRETO Nº 2.611, DE 2 DE JUNHO DE 1998
 
 Promulga o Protocolo para a Repressão de Atos Ilícitos de Violência em Aeroportos que Prestem Serviços à Aviação Civil Internacional, concluído em Montreal, em 24 de fevereiro de 1988.

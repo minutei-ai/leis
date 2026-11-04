@@ -1,5 +1,3 @@
-###DEC-071925-0-000-16-03-1973@@@
-
 Decreto Nº 71.925, DE 16 DE MARÇO DE 1973.
 
 Aproveita no Quadro de Pessoal do Ministério da Marinha disponíveis do Departamento Nacional de Obras Contra as Secas e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210136)<br>
-
 # DECRETO N° 68.989, DE 21 DE OUTUBRO DE 2024
 
 ### _Transfere, da Secretaria de Governo e Relações Institucionais para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Poá._

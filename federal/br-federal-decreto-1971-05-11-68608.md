@@ -1,5 +1,3 @@
-###DEC-068608-0-000-11-05-1971@@@
-
 DECRETO Nº 68.608 - DE 11 DE MAIO DE 1971.
 
 Altera o Decreto nº 51.581, de 8 de novembro de 1962, que aprovou o enquadramento definitivo do pessoal do ex-Território Federal do Acre, e dá outras providências.

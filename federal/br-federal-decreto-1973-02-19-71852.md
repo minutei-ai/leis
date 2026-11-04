@@ -1,5 +1,3 @@
-###DEC-071852-0-000-19-02-1973@@@
-
 DECRETO Nº 71.852, DE 19 DE FEVEREIRO DE 1973.
 
 Concede à Sílex do Brasil Ltda. o direito de lavrar cianita no município de Mateus Leme, Estado de Minas Gerais.

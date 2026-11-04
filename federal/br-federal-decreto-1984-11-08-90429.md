@@ -1,5 +1,3 @@
-###DEC-090429-0-000-08-11-1984@@@
-
 Decreto nº 90.429, de 08 de novembro de 1984
 
 Concede à AÇOS FINOS PIRATINI S.A. (GRUPO SIDERBRÁS) autorização para proceder a aumento de seu capital social.

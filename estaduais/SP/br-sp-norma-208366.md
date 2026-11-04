@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208366)<br>
-
 # DECRETO N° 67.856, DE 01 DE AGOSTO DE 2023
 
 ### _Regulamenta a Lei n° 17.621, de 3 de fevereiro de 2023, que obriga bares, restaurantes, casas noturnas e de eventos a adotar medidas de auxílio à mulher que se sinta em situação de risco, e a Lei n° 17.635, de 17 de fevereiro de 2023, que dispõe sobre a capacitação dos funcionários de bares, restaurantes, boates, clubes noturnos, casas de espetáculos e congêneres, de modo a habilitá-los a identificar e combater o assédio sexual e a cultura do estupro praticados contra as mulheres, institui o selo e o prêmio "Estabelecimento Amigo da Mulher", e dá providências correlatas._
@@ -8,14 +6,16 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso das suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposição Preliminar
 
 **Artigo 1° -** Este decreto regulamenta a [Lei n° 17.621, de 3 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206842), e a [Lei n° 17.635, de 17 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206987), e institui o protocolo "Não se Cale" de atendimento às mulheres que se encontrem em situação de risco ou sejam vítimas de violência nos estabelecimentos indicados neste decreto.
 
 **Parágrafo único -** O protocolo "Não se Cale" consiste em um conjunto de medidas a serem implementadas pelo Estado, pelas empresas, pelos empresários e responsáveis pelos estabelecimentos de que trata este decreto, em cumprimento às leis referidas no "caput" deste artigo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Objetivos e Conceitos
 
 **Artigo 2° -** São objetivos do protocolo "Não se Cale":
@@ -56,7 +56,8 @@ XI - violência psicológica: qualquer conduta que cause dano emocional à mulhe
 
 XII - violência sexual: qualquer conduta que constranja a mulher a presenciar, manter ou participar de qualquer forma de relação sexual não consentida.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Ações do Protocolo "Não se Cale"
 
 **Artigo 4° -** Cabe aos estabelecimentos de que trata este decreto:
@@ -141,7 +142,8 @@ II - de, no mínimo, 1 (um) funcionário, para auxiliar a mulher que esteja vuln
 
 **§ 2° -** Consideram-se meios indiretos de identificação quaisquer informações que permitam distinguir minimamente os envolvidos, como qualquer dado eventualmente fornecido no ingresso no estabelecimento, número de cartão utilizado para pagamento, descrição física, dentre outras.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Sanções
 
 **Artigo 8° -** O descumprimento da [Lei n° 17.621, de 3 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206842), da [Lei n° 17.635, de 17 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206987), ou das disposições deste decreto sujeita os infratores às sanções administrativas previstas na Lei federal n° 8.078, de 11 de setembro de 1990, sem prejuízo das de natureza civil, penal e das definidas em normas específicas.
@@ -150,15 +152,18 @@ Das Sanções
 
 **§ 2° -** As sanções administrativas mencionadas no "caput" deste artigo serão aplicadas pela Fundação de Proteção e Defesa do Consumidor -PROCON/SP, após regular processo administrativo no qual se assegure a ampla defesa.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Ações Integradas
 
 **Artigo 9° -** Os órgãos, serviços e equipamentos públicos estaduais trabalharão de forma integrada e coordenada para garantir os cuidados necessários à mulher vítima de violência ou que se encontre em situação de risco nos estabelecimentos indicados neste decreto, observadas as peculiaridades de cada região.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das medidas de incentivo ao enfrentamento da violência contra a mulher
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Selo "Estabelecimento Amigo da Mulher"
 
 **Artigo 10 -** Fica instituído o Selo "Estabelecimento Amigo da Mulher" a ser concedido aos estabelecimentos que desenvolvam ações de enfrentamento da violência contra a mulher e de estímulo à criação de ambientes mais seguros.
@@ -175,14 +180,16 @@ Do Selo "Estabelecimento Amigo da Mulher"
 
 **Parágrafo único -** Ato da Secretária de Políticas para a Mulher disciplinará o formato dos selos, a forma, o procedimento, os critérios e o meio para sua concessão.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Prêmio "Estabelecimento Amigo da Mulher"
 
 **Artigo 12 -** Fica instituído o Prêmio "Estabelecimento Amigo da Mulher" a ser concedido anualmente aos estabelecimentos que tenham, pelo menos, recebido o Selo "Estabelecimento Amigo da Mulher" na categoria ouro no período de 12 (doze) meses anteriores à abertura de edital de chamamento público para outorga da premiação.
 
 **Artigo 13 -** A Secretaria de Políticas para a Mulher poderá instituir no edital de chamamento público critérios adicionais de avaliação para outorga da premiação, bem como constituir comissão com o objetivo de selecionar, dentre os inscritos, aqueles a serem agraciados com o Prêmio "Estabelecimento Amigo da Mulher".
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Disposições Finais
 
 **Artigo 14 -** A Secretária de Políticas para a Mulher e o Diretor Executivo da Fundação de Proteção e Defesa do Consumidor - PROCON/SP expedirão, no âmbito de suas competências, os atos necessários à execução deste decreto.

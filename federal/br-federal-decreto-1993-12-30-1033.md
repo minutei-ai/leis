@@ -1,5 +1,3 @@
-###DEC-001033-0-000-30-12-1993@@@
-
 DECRETO N° 1.033, DE 30 DE DEZEMBRO DE 1993
 
 Extingue o Centro de Controle de Estoque da Marinha e dá outras providências.

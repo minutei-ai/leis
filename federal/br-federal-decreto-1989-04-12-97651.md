@@ -1,7 +1,3 @@
-1
-
-###DEC-097651-0-000-12-04-1989@@@
-
 DECRETO N° 97.651, DE 12 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Ciências, da Faculdade de Filosofia, Ciências e Letras Veiga de Almeida.

@@ -1,5 +1,3 @@
-###DEC-055760-0-000-15-02-1965@@@
-
 DECRETO Nº 55.760, DE 15 DE FEVEREIRO DE 1965.
 
 Regulamenta a Lei nº 4.557, de 10 de dezembro de 1964, que dispõe sôbre a marcação de volumes para exportação e dá outras providências.

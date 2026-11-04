@@ -1,5 +1,3 @@
-###DEC-046851-0-000-15-09-1959@@@
-
 DECRETO Nº 46.851, DE 15 DE SETEMBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Patu, Estado do Rio Grande do Norte, concessão para distribuir energia elétrica.

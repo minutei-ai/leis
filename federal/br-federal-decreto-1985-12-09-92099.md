@@ -1,5 +1,3 @@
-###DEC-092099-0-000-09-12-1985@@@
-
 Decreto nº 92 099, de 09 de dezembro de 1985
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Califórnia", compreendidos na referida área, no Município de Quixadá, no Estado do Ceará, e dá outras providências

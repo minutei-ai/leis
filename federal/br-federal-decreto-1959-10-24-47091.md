@@ -1,5 +1,3 @@
-###DEC-047091-0-000-24-10-1959@@@
-
 DECRETO Nº 47.091, DE 24 DE OUTUBRO DE 1959.
 
 Suprime cargo extinto.

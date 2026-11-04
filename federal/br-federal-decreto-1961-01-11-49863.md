@@ -1,5 +1,3 @@
-###DEC-049863-0-000-11-01-1961@@@
-
 DECRETO Nº 49.863, DE 11 DE JANEIRO DE 1961.
 
 Cria o Regimento de Infantaria Aeroterrestre, com sede em Deodoro - Rio Janeiro (Estado da Guanabara), subordinado ao Núcleo da Divisão Aeroterrestre.

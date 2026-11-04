@@ -1,5 +1,3 @@
-###DEC-092926-0-000-16-07-1986@@@
-
 DECRETO Nº 92.926, DE 16 DE JULHO DE 1986
 
 Autoriza o funcionamento dos cursos de Letras e Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Caetité.

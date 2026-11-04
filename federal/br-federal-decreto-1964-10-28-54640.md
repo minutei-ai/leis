@@ -1,5 +1,3 @@
-###DEC-054640-0-000-28-10-1964@@@
-
 DECRETO Nº 54.640, DE 28 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Nacional de Álcalis a construir linha de transmissão.

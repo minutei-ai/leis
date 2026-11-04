@@ -1,5 +1,3 @@
-###DEC-056678-0-000-06-08-1965@@@
-
 DECRETO Nº 56.678, DE 6 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Benedito Moreira Curimbaba a pesquisar argila, nos municípios de Poços de Caldas e Caldas, no Estado de Minas Gerais.

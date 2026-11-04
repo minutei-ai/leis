@@ -1,5 +1,3 @@
-###DEC-072442-0-000-09-07-1973@@@
-
 DECRETO Nº 72.442, DE 9 DE JULHO DE 1973
 
 Autoriza a reversão de terras e benfeitorias à Prefeitura Municipal de Bom Jesus do Itabapoana, no Estado do Rio de Janeiro.

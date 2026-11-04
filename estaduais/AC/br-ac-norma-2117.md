@@ -1,6 +1,10 @@
 > **LEI Nº 3.119, DE 17 DE FEVEREIRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n. 1.899, de 3 de maio de 2007, que “Dispõe sobre a criação do Conselho Estadual de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e da Valorização dos Profissionais da Educação – FUNDEB.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n. 1.899, de 3 de maio de 2007, que “Dispõe sobre a criação do Conselho Estadual de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e da Valorização dos Profissionais da Educação – FUNDEB.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

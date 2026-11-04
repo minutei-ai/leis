@@ -1,5 +1,3 @@
-###DEC-046590-0-000-14-08-1959@@@
-
 Decreto nº 46.590, de 14 de agôsto de 1959.
 
 Concede à Sociedade anônima The Coca-Cola Export Corporation autorização para continuar a funcionar na República.

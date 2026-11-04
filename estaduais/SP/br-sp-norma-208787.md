@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208787)<br>
-
 # DECRETO N° 68.072, DE 09 DE NOVEMBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de São Vicente, parte do imóvel que especifica._

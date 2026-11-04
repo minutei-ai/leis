@@ -1,5 +1,3 @@
-###DEL-008592-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.592 – DE 8 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 5.741,90, para pagamento de gratificações de magistério.

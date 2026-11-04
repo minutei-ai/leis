@@ -1,5 +1,3 @@
-###DEL-009338-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.338 – DE 10 DE JUNHO DE 1946
 
 Introduz alterações no Q. S. do Ministério da Guerra

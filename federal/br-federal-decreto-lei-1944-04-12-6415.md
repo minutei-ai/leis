@@ -1,5 +1,3 @@
-###DEL-006415-0-000-12-04-1944@@@
-
 DECRETO-LEI N. 6.415 – DE 12 DE ABRIL DE 1944
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 800,000,00 para a instalação e o aparelhamento de Postos de Desinfeção de Vagões e dá outras providências.

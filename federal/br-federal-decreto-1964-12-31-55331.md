@@ -1,5 +1,3 @@
-###DEC-055331-0-000-31-12-1964@@@
-
 DECRETO Nº 55.331, DE 31 DE DEZEMBRO DE 1964.
 
 Fixa a gratificação, a titulo de representação, do Assessor Civil brasileiro do Colégio Interamericano de Defesa.

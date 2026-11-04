@@ -1,5 +1,3 @@
-###DEC-048155-0-000-09-05-1960@@@
-
 DECRETO Nº 48.155, DE 9 DE MAIO DE 1960.
 
 Suprime cargo extinto.

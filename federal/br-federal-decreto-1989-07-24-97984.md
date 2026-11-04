@@ -1,7 +1,3 @@
-1
-
-###DEC-097984-0-000-24-07-1989@@@
-
 DECRETO Nº 97.984, DE 24 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Humanas de Vitória.

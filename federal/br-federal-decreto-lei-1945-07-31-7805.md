@@ -1,5 +1,3 @@
-###DEL-007805-0-000-31-07-1945@@@
-
 DECRETO-LEI N. 7.805 – DE 31 DE JULHO DE 1945
 
 Altera, sem aumento de despesa, o vigente orçamento do Plano de Obras e Equipamentos.

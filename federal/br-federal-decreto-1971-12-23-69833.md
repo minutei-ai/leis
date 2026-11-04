@@ -1,5 +1,3 @@
-###DEC-069833-0-000-23-12-1971@@@
-
 DECRETO Nº 69.833 - DE 23 DE DEZEMBRO DE 1971
 
 Reduz as alíquotas do Imposto Único sôbre Lubrificantes e Combustíveis Líquidos e Gasosos.

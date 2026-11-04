@@ -1,5 +1,3 @@
-###DEC-007482-0-000-16-05-2011-PUB-01@@@
-
 DECRETO Nº 7.482, DE 16 DE MAIO DE 2011
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEL-004851-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.851 – DE 21 DE OUTUBRO DE 1942
 
  Dispõe sobre os balanços do exercício de 1941

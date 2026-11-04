@@ -1,5 +1,3 @@
-###MPV-000543-0-000-24-08-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° 543, DE 24 DE AGOSTO DE 2011
 
 Altera a Lei n° 11.110, de 25 de abril de 2005, para autorizar a União a conceder a instituições financeiras subvenção econômica sob a forma de equalização de parte dos custos a que estão sujeitas, para contratação e acompanhamento de operações de microcrédito produtivo orientado.

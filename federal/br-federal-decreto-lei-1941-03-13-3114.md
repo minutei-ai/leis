@@ -1,5 +1,3 @@
-###DEL-003114-0-000-13-03-1941@@@
-
 DECRETO-LEI N. 3.114 – DE 13 DE MARÇO DE 1941
 
 Dispõe sobre fiscalização de entorpecentes

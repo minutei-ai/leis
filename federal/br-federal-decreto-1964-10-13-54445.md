@@ -1,5 +1,3 @@
-###DEC-054445-0-000-13-10-1964@@@
-
 DECRETO Nº 54.445, DE 13 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Romão Cuenca Borrego a pesquisar água mineral no município de Assis, Estado de São Paulo.

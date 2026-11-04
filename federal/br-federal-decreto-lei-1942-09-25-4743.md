@@ -1,5 +1,3 @@
-###DEL-004743-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.743 – DE 25 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 348:397$0, para liquidar despesas de reparos em próprios nacionais danificados por temporal

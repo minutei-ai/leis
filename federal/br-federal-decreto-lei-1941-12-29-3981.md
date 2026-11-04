@@ -1,5 +1,3 @@
-###DEL-003981-0-000-29-12-1941@@@
-
 DECRETO-LEI N. 3.981 – DE 29 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de 21:700$0, para pagamento a examinadores nos concursos de habilitação à matrícula na Faculdade de Medicina de Porto Alegre.

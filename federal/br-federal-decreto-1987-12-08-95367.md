@@ -1,5 +1,3 @@
-###DEC-095367-0-000-08-12-1987@@@
-
 DECRETO Nº 95.367, DE 08 DE DEZEMBRO DE 1987
 
 Reajusta os valores da Indenização de Representação de Gabinete que menciona.

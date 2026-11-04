@@ -1,5 +1,3 @@
-###DEC-052166-0-000-28-06-1963@@@
-
 DECRETO Nº 52.166, DE 28 DE JUNHO DE 1963.
 
 Cria Grupo de Trabalho incumbido de Estudar, Programar e Estabelecer normas relativas à construção de residências destinadas aos representantes do Congresso Nacional.

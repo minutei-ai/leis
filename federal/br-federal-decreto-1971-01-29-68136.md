@@ -1,5 +1,3 @@
-###DEC-068136-0-000-29-01-1971@@@
-
 DECRETO Nº 68.136, DE 29 DE JANEIRO DE 1971.
 
 Dispõe sobre reserva de acidentes não liquidados das Sociedades de Seguros que operam no ramo de Acidentes do Trabalho.

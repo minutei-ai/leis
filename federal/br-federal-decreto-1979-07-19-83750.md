@@ -1,5 +1,3 @@
-###DEC-083750-0-000-19-07-1979@@@
-
 Decreto nº 83.750, de 19 de julho de 1979.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar talco no Município de Ponta Grossa, Estado do Paraná.

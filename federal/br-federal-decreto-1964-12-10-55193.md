@@ -1,5 +1,3 @@
-###DEC-055193-0-000-10-12-1964@@@
-
 DECRETO Nº 55.193, DE 10 DE DEZEMBRO DE 1964.
 
 Revoga os Artigos 35 e seu parágrafo único, do Decreto 50.660 de 29 de maio de 1961, que cria a Comissão Permanente de Estudos Técnicos da Aviação Civil e define suas atribuições.

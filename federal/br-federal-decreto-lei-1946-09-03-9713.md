@@ -1,5 +1,3 @@
-###DEL-009713-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.713 – DE 3 DE SETEMBRO DE 1946
 
 Altera, sem aumento de despesa, o orçamento do Ministério da Justiça e Negócios Interiores.

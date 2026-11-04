@@ -1,5 +1,3 @@
-###DEC-072562-0-000-31-07-1973@@@
-
 DECRETO Nº 72.562, de 31 de julho de 1973.
 
 Confisca bens de propriedade da Estrada de Ferro Perus - Pirapora S.A., e dá outras providências.

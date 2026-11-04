@@ -1,5 +1,3 @@
-###DEC-073307-0-000-13-12-1973@@@
-
 DECRETO Nº 73.307 - DE 13 DE DEZEMBRO DE 1973
 
 Concede a Marialda Gomes Mattos, firma individual, o direito de lavrar diatomito, no Município de Mucugê, Estado da Bahia.

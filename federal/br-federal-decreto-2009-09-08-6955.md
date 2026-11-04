@@ -1,5 +1,3 @@
-###DEC-006955-0-000-08-09-2009@@@
-
 DECRETO Nº 6.955, DE 8 DE SETEMBRO DE 2009
 
 Prorroga o mandato dos atuais membros do Conselho Nacional de Saúde - CNS.

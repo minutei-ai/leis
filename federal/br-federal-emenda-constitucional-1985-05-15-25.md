@@ -1,12 +1,10 @@
-###EMC-000025-0-000-15-05-1985@@@
+# **EMENDA CONSTITUCIONAL Nº 25**
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>EMENDA CONSTITUCIONAL Nº 25</strong></span></span></h1>
-
-<em>Altera dispositivos da Constituição Federal e estabelece outras normas constitucionais de caráter transitório.</em>
+*Altera dispositivos da Constituição Federal e estabelece outras normas constitucionais de caráter transitório.*
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do art. 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º Os dispositivos da Constituição Federal abaixo enumerados passam a vigorar com as seguintes alterações:
+**Art**. 1º Os dispositivos da Constituição Federal abaixo enumerados passam a vigorar com as seguintes alterações:
 
 “Art. 15.
 
@@ -92,9 +90,9 @@ V - a atuação dos Partidos Políticos deverá ser permanente e de âmbito naci
 
 § 2º Os eleitos por Partidos que não obtiverem os percentuais exigidos pelo parágrafo anterior terão seus mandatos preservados, desde que optem, no prazo de 60 (sessenta) dias, por qualquer dos Partidos remanescentes.
 
-§ 3º Resguardados os princípios previstos no “<em>caput</em>” e itens deste artigo, lei federal estabelecerá normas sobre a criação, fusão, incorporação, extinção e fiscalização financeira dos Partidos Políticos e poderá dispor sobre regras gerais para a sua organização e funcionamento.”
+§ 3º Resguardados os princípios previstos no “*caput*” e itens deste artigo, lei federal estabelecerá normas sobre a criação, fusão, incorporação, extinção e fiscalização financeira dos Partidos Políticos e poderá dispor sobre regras gerais para a sua organização e funcionamento.”
 
-<strong>Art</strong>. 2º Os Municípios com autonomia restabelecida por esta Emenda e os que tenham sido descaracterizados como de interesse da Segurança Nacional a partir de 1º de dezembro de 1984 realizarão eleições para Prefeito e Vice-Prefeito no dia 15 de novembro de 1985, tomando posse, os eleitos, em 1º de janeiro de 1986, para mandato coincidente com os dos demais Municípios, vedada a sublegenda e permitida a coligação partidária.
+**Art**. 2º Os Municípios com autonomia restabelecida por esta Emenda e os que tenham sido descaracterizados como de interesse da Segurança Nacional a partir de 1º de dezembro de 1984 realizarão eleições para Prefeito e Vice-Prefeito no dia 15 de novembro de 1985, tomando posse, os eleitos, em 1º de janeiro de 1986, para mandato coincidente com os dos demais Municípios, vedada a sublegenda e permitida a coligação partidária.
 
 § 1º Os novos Municípios, criados pelos Estados até 15 de maio de 1985, terão, na data prevista neste artigo e nas condições nele estabelecidas, eleições para Prefeito, Vice-Prefeito e Vereadores.
 
@@ -102,20 +100,20 @@ V - a atuação dos Partidos Políticos deverá ser permanente e de âmbito naci
 
 § 3º A devolução da autonomia municipal dar-se-á com a posse dos eleitos, permanecendo, até a sua efetivação, salvo lei específica em contrário, o regime de Prefeito nomeado na forma das disposições constitucionais e legislação anteriores.
 
-<strong>Art</strong>. 3º A primeira representação do Distrito Federal à Câmara dos Deputados será de 8 (oito) Deputados, eleitos em 15 de novembro de 1986.
+**Art**. 3º A primeira representação do Distrito Federal à Câmara dos Deputados será de 8 (oito) Deputados, eleitos em 15 de novembro de 1986.
 
 Parágrafo único. Na data estabelecida neste artigo, o Distrito Federal elegerá, ainda, 3 (três) Senadores, sendo que os dois mais votados terão mandato de 8 (oito) anos e o terceiro, mandato de 4 (quatro) anos.
 
-<strong>Art</strong>. 4º Até a posse do Prefeito de Capital, eleito na forma do disposto no art. 2º, não perderá o mandato o Deputado ou Senador investido nessa função de acordo com as disposições constitucionais anteriores.
+**Art**. 4º Até a posse do Prefeito de Capital, eleito na forma do disposto no art. 2º, não perderá o mandato o Deputado ou Senador investido nessa função de acordo com as disposições constitucionais anteriores.
 
-<strong>Art</strong>. 5º O disposto nos §§ 1º e 2º do art. 152 da Constituição não se aplica às eleições de 15 de novembro de 1986.
+**Art**. 5º O disposto nos §§ 1º e 2º do art. 152 da Constituição não se aplica às eleições de 15 de novembro de 1986.
 
-<strong>Art</strong>. 6º Os Partidos Políticos que, até a data desta Emenda, tenham tido seus registros indeferidos, cancelados ou cassados, poderão reorganizar-se, desde que atendidos os princípios estabelecidos no <em>“caput”</em> e itens do art. 152 da Constituição.
+**Art**. 6º Os Partidos Políticos que, até a data desta Emenda, tenham tido seus registros indeferidos, cancelados ou cassados, poderão reorganizar-se, desde que atendidos os princípios estabelecidos no *“caput”* e itens do art. 152 da Constituição.
 
-<strong>Art</strong>. 7º A apresentação de candidatos às eleições municipais previstas no art. 2º é facultada aos Partidos Políticos em formação que atendam aos princípios estabelecidos no <em>“caput”</em> e itens do art. 152 da Constituição.
+**Art**. 7º A apresentação de candidatos às eleições municipais previstas no art. 2º é facultada aos Partidos Políticos em formação que atendam aos princípios estabelecidos no *“caput”* e itens do art. 152 da Constituição.
 
-<strong>Art</strong>. 8º São revogados o § 3º do art. 17, o item V do art. 35, o item IX do art. 137 e o parágrafo único do art. 148 da Constituição.
+**Art**. 8º São revogados o § 3º do art. 17, o item V do art. 35, o item IX do art. 137 e o parágrafo único do art. 148 da Constituição.
 
 Brasília, em 15 de maio de 1985
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td colspan="2" style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span><span>A MESA DA CÂMARA DOS DEPUTADOS </span></span></p></td><td style="width:210.8pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span><span>A MESA DO SENADO FEDERAL</span></span></p></td><td style="vertical-align:top"></td></tr><tr><td style="width:207.25pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-align:center"><span><span>ULYSSES GUIMARÃES</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>Presidente</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>HUMBERTO SOUTO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>CARLOS WILSON</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>HAROLDO SANFORD</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>LEUR LOMANTO</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>EPITÁCIO CAFETEIRA</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>JOSÉ FREJAT</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td colspan="3" style="width:300.35pt;padding-right:5.4pt;padding-left:5.4pt;vertical-align:top"><p class="Artigo" style="text-align:center"><span><span>JOSÉ FRAGELLI</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>Presidente</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>GUILHERME PALMEIRA</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>PASSOS PORTO</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>ENÉAS FARIA</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>1º Secretário</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>JOÃO LOBO</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>2º Secretário</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>MARCONDES GADELHA</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>3º Secretário</span></span></p><p class="Artigo" style="margin-top:6pt; text-align:center"><span><span>EUNICE MICHILES</span></span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr><tr style="height:0pt"><td style="width:218.05pt"></td><td style="width:3.55pt"></td><td style="width:221.6pt"></td><td style="width:86pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> A MESA DA CÂMARA DOS DEPUTADOS </td><td> A MESA DO SENADO FEDERAL </td><td></td></tr><tr><td> ULYSSES GUIMARÃES Presidente HUMBERTO SOUTO 1º Vice-Presidente CARLOS WILSON 2º Vice-Presidente HAROLDO SANFORD 1º Secretário LEUR LOMANTO 2º Secretário EPITÁCIO CAFETEIRA 3º Secretário JOSÉ FREJAT 4º Secretário </td><td colspan="3"> JOSÉ FRAGELLI Presidente GUILHERME PALMEIRA 1º Vice-Presidente PASSOS PORTO 2º Vice-Presidente ENÉAS FARIA 1º Secretário JOÃO LOBO 2º Secretário MARCONDES GADELHA 3º Secretário EUNICE MICHILES 4º Secretário </td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>

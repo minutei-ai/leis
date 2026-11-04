@@ -1,5 +1,3 @@
-###DEC-002578-0-000-05-05-1998@@@
-
 DECRETO Nº 2.578, DE 5 DE MAIO DE 1998
 
 Dá nova redação aos arts. 6º e 25 do Estatuto do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto nº 104, de 22 de abril de 1991.

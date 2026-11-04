@@ -1,5 +1,3 @@
-###DEC-044956-0-000-01-12-1958@@@
-
 decreto nº 44.956, de 1 de dezembro de 1958.
 
 Autoriza Silva Areal, Mármores e Granitos S.A, a pesquisar mármore no município de Cacheiro do Itapemerim, Estado do Espírito Santo.

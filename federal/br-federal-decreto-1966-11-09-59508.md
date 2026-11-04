@@ -1,5 +1,3 @@
-###DEC-059508-0-000-09-11-1966@@@
-
 DECRETO Nº 59.508, DE 9 DE NOVEMBRO DE 1966.
 
 Concede à CARB - Carbonatos da Bahia Ltda., autorização para funcionar como emprêsa de mineração.

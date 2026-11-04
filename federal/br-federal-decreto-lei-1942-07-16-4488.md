@@ -1,5 +1,3 @@
-###DEL-004488-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.488 – DE 16 DE JULHO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 8:000$0, à verba que especifica

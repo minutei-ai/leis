@@ -1,5 +1,3 @@
-###DEC-048251-0-000-31-05-1960@@@
-
 Decreto nº 43.251, de 31 de maio de 1960.
 
 Acrescenta um parágrafo ao artigo 1º do Decreto nº 48.204, de 12 de maio de 1960.

@@ -1,5 +1,3 @@
-###DEC-051996-A-000-10-05-1963@@@
-
 DECRETO Nº 51.996-a, DE 10 DE MAIO DE 1963.
 
 Dispõe sôbre a Comissão Executiva de Assistência à Cafeicultura (C.E.A.C.) e dá outras providências.

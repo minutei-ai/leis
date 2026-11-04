@@ -1,5 +1,3 @@
-###DEL-003911-0-000-09-12-1941@@@
-
 DECRETO-LEI N. 3.911 – DE 9 DE DEZEMBRO DE 1941
 
 Estabelece medidas de proteção e segurança aos interesses de estrangeiro na atual emergência

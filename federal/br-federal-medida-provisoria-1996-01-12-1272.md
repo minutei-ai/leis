@@ -1,7 +1,3 @@
-1
-
-###MPV-001272-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.272, DE 12 DE JANEIRO DE 1996.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

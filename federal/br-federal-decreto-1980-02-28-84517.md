@@ -1,5 +1,3 @@
-###DEC-084517-0-000-28-02-1980@@@
-
 DECRETO Nº 84.517, DE 28 DE FEVEREIRO DE 1980
 
 Cria a Diretoria de Telecomunicações (D Telecom) e a Diretoria de Material de Comunicações e de Eletrônica (DMCE), extingue a Diretoria de Comunicações (D Com) e dá outras providências.
@@ -45,8 +43,6 @@ Art. 5º Fica acrescentado ao Art. 3º do Decreto nº 68.276, de 19 de fevereiro
 JOÃO FIGUEIREDO
 
 Walter Pires
-
-###DEC-084517-0-000-28-02-1980@@@RET01+++
 
 DECRETO Nº 84.517, DE 28 DE FEVEREIRO DE 1980.
 

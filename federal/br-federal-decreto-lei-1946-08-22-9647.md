@@ -1,5 +1,3 @@
-###DEL-009647-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.647 – DE 22 DE AGÔSTO DE 1946
 
 Proíbe a exportação de generos de primeira necessidade, couros e madeiras, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-084087-0-000-15-10-1979@@@
-
 Decreto nº 84.087, de 15 de outubro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Cananéia, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

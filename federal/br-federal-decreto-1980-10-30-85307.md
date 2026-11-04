@@ -1,5 +1,3 @@
-###DEC-085307-0-000-30-10-1980@@@
-
 Decreto nº 85.307, de 30 de outubro de 1980
 
 Amplia a área prioritária, para fins de reforma agrária, de que trata o Decreto nº 77.073, de 22 de janeiro de 1976, alterado pelo Decreto nº 78.250, de 16 de agosto de 1976, e prorroga o prazo de intervenção governamental.

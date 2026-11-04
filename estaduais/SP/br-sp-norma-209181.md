@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209181)<br>
-
 # DECRETO N° 68.374, DE 09 DE MARÇO DE 2024
 
 ### _Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Santa Isabel, que declarou Situação de Emer­gência em áreas do Município._

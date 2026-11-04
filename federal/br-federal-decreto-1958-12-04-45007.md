@@ -1,5 +1,3 @@
-###DEC-045007-0-000-04-12-1958@@@
-
 DECRETO Nº 45.007, DE 04 DE DEZEMBRO DE 1958.
 
 Outorga a Pagnoncelli Hachmann & Companhia Limitada concessão para o aproveitamento da energia hidráulica de um desnível existente no curso d’água Herval ou Santa Cruz, distrito da sede do município de Capinzal, Estado de Santa Catarina.

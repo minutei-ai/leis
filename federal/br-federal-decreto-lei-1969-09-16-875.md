@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/63e9c732-0b5b-4f42-ae67-5836f79fcc73/texto#nowhere)
 
-###DEL-000875-0-000-16-09-1969@@@
-
 DECRETO-LEI Nº 875, DE 16 DE SETEMBRO DE 1969
 
 Transfere cargo do Território Federal do Amapá para o Ministério da Justiça.

@@ -67,7 +67,3 @@ Art. 6º – Esta Lei Complementar entra em vigor na data de sua publicação, p
 Palácio Tiradentes, em Belo Horizonte, aos 28 de abril de 2016; 228º da Inconfidência Mineira e 195º da Independência do Brasil.
 
 FERNANDO DAMATA PIMENTEL
-
-\=====================================================================
-
-Data da última atualização: 2/1/2024.

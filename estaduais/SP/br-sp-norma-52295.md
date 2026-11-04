@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52295)
-
 # LEI COMPLEMENTAR Nº 964, DE 16 DE DEZEMBRO DE 2004
 
 ### _Prorroga o prazo para a concessão da Gratificação Área Educação, instituída pela Lei Complementar nº 834, de 4 de novembro de 1997_

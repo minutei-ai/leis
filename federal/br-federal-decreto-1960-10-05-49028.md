@@ -1,5 +1,3 @@
-###DEC-049028-0-000-05-10-1960@@@
-
 decreto nº 49.028, de 5 de outubro de 1960.
 
 Autoriza o cidadão brasileiro Carmine Nocera a pesquisar areia quartzosa no município de Piquete, Estado de São Paulo.

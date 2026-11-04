@@ -1,7 +1,3 @@
-1
-
-###MPV-000893-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 893,  DE  16  DE FEVEREIRO  DE  1995
 
 Altera o art. 5º da Lei nº 7.862, de 30 de outubro de 1989, que dispõe sobre a remuneração das disponibilidades do Tesouro Nacional.

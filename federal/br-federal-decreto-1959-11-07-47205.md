@@ -1,5 +1,3 @@
-###DEC-047205-0-000-07-11-1959@@@
-
 DECRETO Nº 47.205, DE 7 DE NOVEMBRO DE 1959.
 
 Aplica a zona de concessão da Emprêsa Elétrica de Londrina S.A., com a inclusão do município de Jataizinho, Estado do Paraná, e dá outras providências.

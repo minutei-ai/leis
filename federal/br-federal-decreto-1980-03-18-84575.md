@@ -1,5 +1,3 @@
-###DEC-084575-0-000-18-03-1980@@@
-
 Decreto nº 84.575, de 18 de março de 1980.
 
 Modifica a redação do Art. 12 do Decreto nº 83.700, de 5 de julho de 1979, incluindo os bancos comerciais privados, os bancos de investimento e as caixas econômicas entre os agentes financeiros da linha de crédito industrial do Programa Nacional do Álcool - PROÁLCOOL.

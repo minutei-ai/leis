@@ -1,5 +1,3 @@
-###DEC-058194-0-000-14-04-1966@@@
-
 DECRETO Nº 58.194, DE 14 DE ABRIL DE 1966.
 
 Suspende as atividades da Patrulha Auxiliar Brasileira - PAB, com sede em São Paulo, Estado de São Paulo.

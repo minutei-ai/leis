@@ -1,5 +1,3 @@
-###DEC-007662-0-000-28-12-2011-PUB-01@@@
-
 DECRETO Nº 7.662, DE 28 DE DEZEMBRO DE 2011
 
 Discrimina ações do Programa de Aceleração do Crescimento a serem executadas por meio de transferência obrigatória.

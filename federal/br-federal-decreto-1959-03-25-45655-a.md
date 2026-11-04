@@ -1,5 +1,3 @@
-###DEC-045655-A-000-25-03-1959@@@
-
 DECRETO Nº 45.655-A, DE 25 DE MARÇO DE 1959.
 
 Transfere, em aumento de despesa, função de Tabela Numérica Ordinária de Extranumerário-mensalista do Parque Central de Motomecanização, para idêntica tabela do Campo de Provas da Marambaia, ambas do Ministério da Guerra.

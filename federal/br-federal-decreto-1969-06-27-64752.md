@@ -1,5 +1,3 @@
-###DEC-064752-0-000-27-06-1969@@@
-
 DECRETO Nº 64.752, DE 27 DE JUNHO DE 1969.
 
 Estabelece normas para a movimentação e utilização de créditos orçamentários e adicionais e dá outras providências.

@@ -86,8 +86,6 @@ Art. 6º Esta Lei Complementar entra em vigor 45 (quarenta e cinco) dias após a
 
 Goiânia, 7 de julho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

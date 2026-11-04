@@ -1,5 +1,3 @@
-###DEC-048674-0-000-04-08-1960@@@
-
 DECRETO Nº 48.674, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, a fração ideal do domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

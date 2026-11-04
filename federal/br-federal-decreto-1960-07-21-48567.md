@@ -1,5 +1,3 @@
-###DEC-048567-0-000-21-07-1960@@@
-
 DECRETO N. 48.567 – DE 21 DE JULHO DE 1960
 
 Autoriza o cidadão brasileiro Sebastião Rodrigues Gomes a lavrar água potável de mesa, no município de Palma, Estado de Minas Gerais.

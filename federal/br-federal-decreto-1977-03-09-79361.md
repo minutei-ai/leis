@@ -1,5 +1,3 @@
-###DEC-079361-0-000-09-03-1977@@@
-
 Decreto nº 79.361, de 9 de março de 1977.
 
 Declara em extinção o Quadro de Oficiais Especialistas em Suprimento Técnico e o Quadro de Oficiais de Administração do Corpo de Oficiais da Ativa da Força Aérea Brasileira em tempo de paz e dá outras providências.

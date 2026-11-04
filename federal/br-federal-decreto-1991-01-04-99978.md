@@ -1,7 +1,3 @@
-1
-
-###DEC-099978-0-000-04-01-1991@@@
-
 DECRETO Nº 99.978, DE 4 DE JANEIRO DE 1991.
 
 Outorga à Usina União e Indústria S.A. concessão para aproveitamento de energia hidráulica, para uso exclusivo, no Rio Ipo­juca, Estado de Pernambuco, no trecho que menciona.

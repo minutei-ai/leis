@@ -1,5 +1,3 @@
-###DEC-091523-0-000-09-08-1985@@@
-
 Decreto nº 91.523, de 09 de agosto de 1985
 
 Autoriza a transferência direta da concessão outorgada à RADIONORTE LTDA., para a JERONIMO T. MINAMIHARA & CIA LTDA.

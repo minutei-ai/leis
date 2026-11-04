@@ -1,5 +1,3 @@
-###DEC-048456-A-000-01-07-1960@@@
-
 DECRETO Nº 48.456-A, DE 1 DE JULHO DE 1960.
 
 Altera a redação de dispositivo do Decreto nº 34.380, de 27 de outubro de 1953, que dispõe sôbre os documentos comprobatórios de quitação com o Serviço Militar.

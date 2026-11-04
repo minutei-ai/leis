@@ -1,5 +1,3 @@
-###DEC-094567-0-000-08-07-1987@@@
-
 DECRETO N° 94.567, DE 8 DE JULHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, situada no Município e Comarca de Iguape, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

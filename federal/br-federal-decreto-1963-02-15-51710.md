@@ -1,5 +1,3 @@
-###DEC-051710-0-000-15-02-1963@@@
-
 DECRETO Nº 51.710, DE 15 DE FEVEREIRO DE 1963.
 
 Abre ao Poder Judiciário - Justiça do trabalho - crédito especial de Cr$60.000.000,00, para o fim que especifica.

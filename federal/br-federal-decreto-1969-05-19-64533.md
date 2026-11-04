@@ -1,5 +1,3 @@
-###DEC-064533-0-000-19-05-1969@@@
-
 DECRETO Nº 64.533, DE 19 DE MAIO DE 1969.
 
 Declara de utilidade pública a Associação Beneficente e Filantrópica Dez de Outubro, com sede no Estado da Guanabara.

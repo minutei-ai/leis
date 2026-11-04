@@ -1,5 +1,3 @@
-###DEL-003773-0-000-29-10-1941@@@
-
 DECRETO-LEI N. 3.773 – DE 29 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de três mil contos de réis (3.000:000$0), para aquisição de gasogênios destinados à revenda

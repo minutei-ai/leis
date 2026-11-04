@@ -1,5 +1,3 @@
-###DEC-051216-0-000-21-08-1961@@@
-
 DECRETO Nº 51.216, de 21 de agôsto de 1961.
 
 Cria Grupo de Trabalho e dá outras providências.

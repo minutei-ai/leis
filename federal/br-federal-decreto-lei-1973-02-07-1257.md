@@ -1,5 +1,3 @@
-###DEL-001257-0-000-07-02-1973@@@
-
 DECRETO-LEI N. 1.257 – DE 7 DE FEVEREIRO DE 1973
 
 Estende às borrachas naturais beneficiadas, de qualquer procedência, os favores previstos no Convênio de 29 de março de 1958, entre o Brasil e a Bolívia, aplicáveis às borrachas em, bruto.

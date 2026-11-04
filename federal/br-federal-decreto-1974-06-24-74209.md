@@ -1,5 +1,3 @@
-###DEC-074209-0-000-24-06-1974@@@
-
 DECRETO Nº 74.209, DE 24 DE JUNHO DE 1974.
 
 Dispõe sobre a composição e o funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - CONMETRO, e dá outras providências.

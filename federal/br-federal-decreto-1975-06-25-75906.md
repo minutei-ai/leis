@@ -1,5 +1,3 @@
-###DEC-075906-0-000-25-06-1975@@@
-
 DECRETO Nº 75.906 - DE 25 DE JUNHO DE 1975.
 
 Outorga à Centrais Elétricas Matogrossenses S.A. - CEMAT, concessão para o aproveitamento da energia hidráulica do Salto do Céu, no Rio Branco, Município de Cáceres, Estado de Mato Grosso.

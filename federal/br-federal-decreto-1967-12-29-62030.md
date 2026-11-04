@@ -1,5 +1,3 @@
-###DEC-062030-0-000-29-12-1967@@@
-
 Decreto nº 62.030, de 29 de dezembro de 1967.
 
 Estende aos Conselheiros e servidores do Conselho Administrativo da Defesa Econômica (CADE) o regime de previdência e assistência do Instituto de Previdência e Assistência dos Servidores do Estado - IPASE.

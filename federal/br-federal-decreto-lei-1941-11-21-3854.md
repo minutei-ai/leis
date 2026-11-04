@@ -1,5 +1,3 @@
-###DEL-003854-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.854 – DE 21 DE NOVEMBRO DE 1941
 
 Dispõe sobre a obrigatoriedade de normas a serem observadas no levantamento das estatísticas administrativas e dá outras providências

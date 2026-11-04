@@ -1,5 +1,3 @@
-###DEC-068683-0-000-26-05-1971@@@
-
 DECRETO Nº 68.683 - De 26 de maio de 1971.
 
 Concede permissão, em caráter permanente, à emprêsa Poliolefinas S.A. Indústria e Comércio, sediada no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

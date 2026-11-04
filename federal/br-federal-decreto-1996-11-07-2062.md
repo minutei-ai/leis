@@ -1,5 +1,3 @@
-###DEC-002062-0-000-07-11-1996@@@
-
 DECRETO Nº 2.062, DE 7 DE NOVEMBRO DE 1996.
 
 Acrescenta parágrafo único ao artigo 2º do Regulamento de Fiscalização de Produtos de Uso Veterinário e dos Estabelecimentos que os fabriquem e/ou comerciem, aprovado pelo Decreto nº 1.662, de 6 de outubro de 1995.

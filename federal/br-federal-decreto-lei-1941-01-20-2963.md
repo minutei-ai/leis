@@ -1,5 +1,3 @@
-###DEL-002963-0-000-20-01-1941@@@
-
 DECRETO-LEI N. 2.963 – DE 20 DE JANEIRO DE 1941
 
 Altera as tabelas do Pessoal Civil do Ministério da Guerra, anexas ao Decreto-lei n. 2.522, de 23 de agosto de 1940

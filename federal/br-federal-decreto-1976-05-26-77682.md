@@ -1,5 +1,3 @@
-###DEC-077682-0-000-26-05-1976@@@
-
 DECRETO Nº 77.682, DE 26 DE MAIO DE 1976
 
 Declara a caducidade do Manifesto de Mina que menciona.

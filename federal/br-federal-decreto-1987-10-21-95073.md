@@ -1,5 +1,3 @@
-###DEC-095073-0-000-21-10-1987@@@
-
 DECRETO Nº 95.073, DE 21 DE OUTUBRO DE 1987
 
 Altera o Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200).

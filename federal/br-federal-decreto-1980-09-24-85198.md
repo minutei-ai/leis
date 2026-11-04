@@ -1,5 +1,3 @@
-###DEC-085198-0-000-24-09-1980@@@
-
 Decreto nº 85.198, de 24 de setembro de 1980.
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado Matinha localizado nos Municípios de Pio XII, Olho D'Água das Cunhãs e Vitorino Freire, no Estado do Maranhão, compreendido na área prioritária de reforma agrária fixada pelo Decreto nº 70.220/72, ampliada pelo Decreto nº 71.195/72 e com vigência prorrogada pelo Decreto nº 79.288/77.

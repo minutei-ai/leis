@@ -1,5 +1,3 @@
-###DEC-049744-0-000-31-12-1960@@@
-
 DECRETO Nº 49.744, DE 31 DE dezembro DE 1960.
 
 Declara de utilidade Pública um área de terra necessária à construção da linha de transmissão de que trata o Decreto nº 41.897, de 26 de julho de 1957 e autoriza a Companhia Sul Mineira de Eletricidade a promover as servidões necessárias sôbre ele ou a desapropriação da mesma.

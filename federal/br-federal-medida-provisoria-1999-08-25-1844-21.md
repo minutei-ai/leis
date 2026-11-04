@@ -1,5 +1,3 @@
-###MPV-001844-0-021-25-08-1999@@@
-
 Medida Provisória nº 1.844-21, de 25 de agosto de 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

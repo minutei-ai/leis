@@ -1,5 +1,3 @@
-###DEC-004108-0-000-28-01-2002@@@
-
 DECRETO Nº 4.108, DE 28 DE JANEIRO DE 2002.
 
 Dispõe sobre a execução do Quinquagésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 2 (prorrogação do ACE-2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 27 de setembro de 200l.
@@ -50,6 +48,18 @@ A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual en
 
 Em fé do que, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos vinte e sete dias do mês de setembro de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:4.5pt groove #000000; border-collapse:collapse"><tbody><tr style="height:23.25pt"><td style="width:256.5pt; border-right-style:groove; border-right-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">José Artur Denot Medeiros</span></p></td><td style="width:245.25pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Oriental do Uruguai</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Elbio Rosselli Frieri</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:4.5pt groove #000000; border-collapse:collapse"><tbody><tr style="height:23.25pt"><td style="width:256.5pt; border-right-style:groove; border-right-width:4.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+José Artur Denot Medeiros
+
+</td><td style="width:245.25pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top">
+
+Pelo Governo da República Oriental do Uruguai
+
+Elbio Rosselli Frieri
+
+</td></tr></tbody></table>
 
 (Anexo)

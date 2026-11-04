@@ -1,5 +1,3 @@
-###DEC-053178-0-000-11-12-1963@@@
-
 decreto nº 53.178, de 11 de dezembro de 1963.
 
 Autoriza a Emprêsa de Caolim Ltda. A pesquisar feldspato, no município de Maricá, Estado do Rio de Janeiro.

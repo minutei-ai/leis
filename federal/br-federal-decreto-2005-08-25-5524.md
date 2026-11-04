@@ -1,5 +1,3 @@
-###DEC-005524-0-000-25-08-2005@@@
-
 DECRETO Nº 5.524, DE 25 DE AGOSTO DE 2005.
 
        Dispõe sobre a criação da Embaixada do Brasil em Belize, com sede em Belmopan.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
          Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 26.8.2005

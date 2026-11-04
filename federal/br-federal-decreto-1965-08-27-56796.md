@@ -1,5 +1,3 @@
-###DEC-056796-0-000-27-08-1965@@@
-
 DECRETO Nº 56.796, DE 27 DE AGôSTO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Paraná Companhia de Seguros, inclusive aumento do capital social.

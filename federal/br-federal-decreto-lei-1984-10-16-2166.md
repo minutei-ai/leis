@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1ad4a794-90e4-42af-9b3e-fcba59d4e547/texto#nowhere)
 
-###DEL-002166-0-000-16-10-1984@@@
-
 # DECRETO-LEI Nº 2.166, DE 16 DE OUTUBRO DE 1984
 
 Institui Gratificação de Atividades de Assessoramento Especial e de Altos Estudos e Pesquisas, na Escola Superior de Guerra.

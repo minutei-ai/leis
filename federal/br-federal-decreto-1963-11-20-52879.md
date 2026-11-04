@@ -1,5 +1,3 @@
-###DEC-052879-0-000-20-11-1963@@@
-
 DECRETO Nº 52.879, DE 20 DE NOVEMBRO DE 1963.
 
 Autorização para subscrição pública de ações para constituição do capital do Banco de Produção e Fomento do Estado do Acre, S.A, Sociedade de economia mista.

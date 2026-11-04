@@ -1,5 +1,3 @@
-###DEC-057680-0-000-28-01-1966@@@
-
 decreto nº 57.680, de 28 de janeiro de 1966.
 
 Aplica ao pessoal dos Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará (S.N.A.P.P), o aumento de que trata a Lei número 4.863, de 29 de novembro de 1965.

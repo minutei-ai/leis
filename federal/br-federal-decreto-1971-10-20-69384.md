@@ -1,5 +1,3 @@
-###DEC-069384-0-000-20-10-1971@@@
-
 DECRETO Nº 69.384, DE 20 DE OUTUBRO DE 1971.
 
 Concede à Mineração Urandi S.A. o direito de lavrar minério de manganês , no município de Urandi, Estado da Bahia.

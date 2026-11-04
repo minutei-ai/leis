@@ -1,5 +1,3 @@
-###DEC-050953-0-000-14-07-1961@@@
-
 DECRETO Nº 50.953, DE 14 DE JULHO DE 1961.
 
 Dispõe sôbre o aproveitamento do Pessoal dos extintos Territórios Federais de Iguaçu e Ponta Porã, postos em disponibilidade pela Lei número 125, de 24 de outubro de 1947.

@@ -1,5 +1,3 @@
-###DEC-056211-0-000-30-04-1965@@@
-
 DECRETO Nº 56.211, DE 30 DE ABRIL DE 1965.
 
 Concede à Sociedade Anônima Martinelli - Navegação e Comércio “SAMNAVE”, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-003767-0-000-08-03-2001@@@
-
 DECRETO Nº 3.767, DE 8 DE MARÇO DE 2001
 
 Delega competência ao Ministro de Estado da Justiça para dispensar adidos e auxiliares de adidos integrantes dos quadros da Polícia Federal que estejam exercendo suas funções junto às missões diplomáticas brasileiras no exterior.

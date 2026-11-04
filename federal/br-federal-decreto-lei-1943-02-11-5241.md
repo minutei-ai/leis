@@ -1,5 +1,3 @@
-###DEL-005241-0-000-11-02-1943@@@
-
 DECRETO‑LEI N. 5.241 – DE 11 DE FEVEREIRO DE 1943
 
 Modifica, dando‑lhe nova redação, o art. 4º do decreto‑lei ri. 4.081, de 3 de fevereiro de 1942

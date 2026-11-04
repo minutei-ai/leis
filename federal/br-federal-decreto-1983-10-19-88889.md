@@ -1,5 +1,3 @@
-###DEC-088889-0-000-19-10-1983@@@
-
 DECRETO Nº 88.889, DE 19 de OUTUBRO DE 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO E TELEVISÃO UNIVERSITÁRIA METROPOLITANA LTDA., para explorar serviço de radiodifusão sonora em onda curta, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

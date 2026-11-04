@@ -1,5 +1,3 @@
-###DEC-007451-0-000-11-03-2011-PUB-01@@@
-
 DECRETO Nº 7.451, DE 11 DE MARÇO DE 2011
 
 Regulamenta o Regime Especial para a Indústria Aeronáutica Brasileira - RETAERO, instituído pelos arts. 29 a 33 da Lei nº 12.249, de 11 de junho de 2010.

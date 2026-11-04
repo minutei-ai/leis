@@ -1,5 +1,3 @@
-###DEC-059047-0-000-10-08-1966@@@
-
 Decreto Nº 59.047, DE 10 DE AGôSTO DE 1966.
 
 Extingue o Consulado Privativo do Brasil em Rocha, Uruguai.

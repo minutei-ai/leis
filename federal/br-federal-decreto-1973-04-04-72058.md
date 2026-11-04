@@ -1,5 +1,3 @@
-###DEC-072058-0-000-04-04-1973@@@
-
 Decreto Nº 72.058, DE 4 DE ABRIL DE 1973.
 
 Extingue a Comissão Especial instituída pelo Decreto nº 60.462, de 13 de março de 1967, e dá outras providências.

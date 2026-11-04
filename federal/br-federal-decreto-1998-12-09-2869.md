@@ -1,5 +1,3 @@
-###DEC-002869-0-000-09-12-1998@@@
-
 DECRETO Nº 2.869, DE 9 DE DEZEMBRO DE 1998.
 
 Regulamenta a cessão de águas públicas para exploração da aqüicultura, e dá outras providências.

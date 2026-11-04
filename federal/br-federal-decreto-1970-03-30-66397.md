@@ -1,5 +1,3 @@
-###DEC-066397-0-000-30-03-1970@@@
-
 DECRETO Nº 66.397 - DE 30 DE MARÇO DE 1970
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Tribunal Marítimo, cargos originários dos extintos Lloyd Brasileiro - Património Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal.

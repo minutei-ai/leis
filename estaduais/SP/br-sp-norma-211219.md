@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211219)<br>
-
 # DECRETO N° 69.722, DE 18 DE JULHO DE 2025
 
 ### _Substitui os Anexos I, II e III do Decreto n° 61.229, de 17 de abril de 2015, que autoriza o Secretário de Governo e Relações Institucionais a representar o Estado na celebração de convênios com Municípios paulistas, no âmbito do Programa "Articulação Municipal"._
@@ -18,7 +16,8 @@ Arthur Luis Pinho de Lima
 
 Gilberto Kassab
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 2° do [Decreto n° 61.229, de 17 de abril de 2015](https://www.al.sp.gov.br/norma/174518)
 
 Termo de convênio que celebram o Estado de São Paulo, por intermédio da Secretaria de Governo e Relações Institucionais, e o Município de (nome do Município), tendo por objeto a transferência de recursos financeiros para execução de (Especificação da obra), no âmbito do Programa "Articulação Municipal".
@@ -167,7 +166,8 @@ NOME:
 
 CPF:
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 2° do [Decreto n° 61.229, de 17 de abril de 2015](https://www.al.sp.gov.br/norma/174518)
 
 Termo de convênio que celebram o Estado de São Paulo, por intermédio da Secretaria de Governo e Relações Institucionais, e o Município de (nome do Município) tendo por objeto a transferência de recursos financeiros para aquisição de (especificar o veículo, material ou equipamento), no âmbito do Programa "Articulação Municipal".
@@ -312,7 +312,8 @@ NOME:
 
 CPF:
 
-#### ANEXO III<br>
+#### ANEXO III
+
 a que se refere o artigo 2° do [Decreto n° 61.229, de 17 de abril de 2015](https://www.al.sp.gov.br/norma/174518)
 
 Termo de convênio que celebram o Estado de São Paulo, por intermédio da Secretaria de Governo e Relações Institucionais, e o Município de (nome do Município), visando à execução de (especificar), no âmbito do Programa "Articulação Municipal".

@@ -1,5 +1,3 @@
-###DEC-064441-0-000-30-04-1969@@@
-
 DECRETO Nº 64.441, DE 30 DE ABRIL DE 1969.
 
 Institui o Sistema de Programação Financeira do Tesouro Nacional e dá outras providências.

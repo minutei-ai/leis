@@ -1,5 +1,3 @@
-###DEL-008070-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.073 – DE 10 DE OUTUBRO DE 1945
 
 Altera a carreira de Operário de Artes Gráficas do Quadro Suplementar do Ministério da Guerra.

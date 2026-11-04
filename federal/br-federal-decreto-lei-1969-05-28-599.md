@@ -1,5 +1,3 @@
-###DEL-000599-0-000-28-05-1969@@@
-
 DECRETO-LEI Nº 599, DE 28 DE MAIO DE 1969
 
 Altera as condições de fixação do reajustamento do valor das Obrigações Reajustáveis do Tesouro Nacional.

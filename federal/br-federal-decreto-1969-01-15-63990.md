@@ -1,5 +1,3 @@
-###DEC-063990-0-000-15-01-1969@@@
-
 DECRETO Nº 63.990, DE 15 DE JANEIRO DE 1969.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Caruaru - Pe.

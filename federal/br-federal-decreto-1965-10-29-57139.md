@@ -1,5 +1,3 @@
-###DEC-057139-0-000-29-10-1965@@@
-
 DECRETO Nº 57.139, DE 29 DE OUTUBRO DE 1965.
 
 Concede à sociedade L. Figueiredo Navegação S.A. autorização para continuar a funcionar como emprêsa de navegação e cabotagem.

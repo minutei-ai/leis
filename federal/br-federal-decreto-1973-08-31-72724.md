@@ -1,5 +1,3 @@
-###DEC-072724-0-000-31-08-1973@@@
-
 decreto nº 72.724, de 31 de agosto de 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

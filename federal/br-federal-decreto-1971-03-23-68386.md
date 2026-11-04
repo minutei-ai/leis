@@ -1,5 +1,3 @@
-###DEC-068386-0-000-23-03-1971@@@
-
 DECRETO Nº 68.386, DE 23 DE MARÇO DE 1971.
 
 Autoriza o funcionamento de Faculdade.

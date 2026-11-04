@@ -1,5 +1,3 @@
-###DEC-066505-0-000-28-04-1970@@@
-
 decreto nº 66.505, de 28 de abril de 1970.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

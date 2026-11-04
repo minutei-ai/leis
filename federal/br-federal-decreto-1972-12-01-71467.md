@@ -1,5 +1,3 @@
-###DEC-071467-0-000-01-12-1972@@@
-
 DECRETO Nº 71.467 - DE 1º DE DEZEMBRO DE 1972
 
 Regulamenta o item II do artigo 6º da Lei nº 5.754, de 3 de dezembro de 1971, e dá outras providências.

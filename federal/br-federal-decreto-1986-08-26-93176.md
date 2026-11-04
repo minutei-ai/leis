@@ -1,5 +1,3 @@
-###DEC-093176-0-000-26-08-1986@@@
-
 DECRETO Nº 93.176, DE 26 DE AGOSTO DE 1986
 
 Autoriza o funcionamento da habilitação em Biologia, do curso de Ciências, das Faculdades da Zona Leste de São Paulo.

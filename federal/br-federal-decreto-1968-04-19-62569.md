@@ -1,5 +1,3 @@
-###DEC-062569-0-000-19-04-1968@@@
-
 decreto nº 62.569, de 19 de abril de 1968.
 
 Declara de utilidade pública a “Sociedade de Obras Sociais de Nossa Senhora de Nazaré”, com sede em Manaus, Estado do Amazonas.

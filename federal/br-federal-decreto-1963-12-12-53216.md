@@ -1,5 +1,3 @@
-###DEC-053216-0-000-12-12-1963@@@
-
 DECRETO Nº 53.216, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Sebastião de Faria a pesquisar quartzo, feldspato e caolim, no município de Bragança Paulista, Estado de São Paulo.

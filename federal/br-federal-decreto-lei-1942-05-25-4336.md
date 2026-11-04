@@ -1,5 +1,3 @@
-###DEL-004336-0-000-25-05-1942@@@
-
 DECRETO-LEI N. 4.336 – DE 25 DE MAIO DE 1942
 
 Altera, sem aumento de despesa, o atual Orçamento do Ministério da Educação e Saude, e dá outras providências

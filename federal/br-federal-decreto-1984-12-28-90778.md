@@ -1,5 +1,3 @@
-###DEC-090778-0-000-28-12-1984@@@
-
 Decreto nº 90.778, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Odontologia da Fundação Educacional de Lavras - MG.

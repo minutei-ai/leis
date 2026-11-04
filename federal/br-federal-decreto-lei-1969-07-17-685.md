@@ -1,5 +1,3 @@
-###DEL-000685-0-000-17-07-1969@@@
-
 DECRETO-LEI Nº 685, DE 17 DE JULHO DE 1969
 
 Estabelece normas complementares para resguardo da economia pública, poupança privada e segurança nacional no âmbito econômico-financeiro.

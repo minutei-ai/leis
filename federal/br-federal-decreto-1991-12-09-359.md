@@ -1,7 +1,3 @@
-1
-
-###DEC-000359-0-000-09-12-1991@@@
-
 DECRETO Nº 359, DE 9 DE DEZEMBRO DE 1991
 
 Regulamenta o art. 47 da Lei nº 5.540 de 28 de novembro de 1968, e dá outras providências .

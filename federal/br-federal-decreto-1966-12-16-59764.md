@@ -1,5 +1,3 @@
-###DEC-059764-0-000-16-12-1966@@@
-
 DECRETO Nº 59.764, DE 16 DE DEZEMBRO DE 1966.
 
 Declara caduco o Decreto nº 17.305, de 6 de dezembro de 1944.

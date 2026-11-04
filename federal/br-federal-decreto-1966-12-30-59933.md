@@ -1,5 +1,3 @@
-###DEC-059933-0-000-30-12-1966@@@
-
 DECRETO Nº 59.933, DE 30 DE DEZEMBRO DE 1966.
 
 Autoriza a Cia. Estrada de Ferro e Minas de São Jerônimo, a pesquisar carvão no município de Guaíba - Estado do Rio Grande do Sul.

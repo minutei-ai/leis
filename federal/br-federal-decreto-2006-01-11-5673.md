@@ -1,5 +1,3 @@
-###DEC-005673-0-000-11-01-2006@@@
-
 DECRETO Nº 5.673, DE 11 DE JANEIRO DE 2006.
 
 Dá nova redação aos §§ 2º e 3º do art. 2º do Decreto no 4.678, de 24 de abril de 2003, que dispõe sobre as atribuições e composição do Conselho de Gestão de Previdência Complementar - CGPC.

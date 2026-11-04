@@ -56,314 +56,236 @@ ANEXO ÚNICO
 
 QUADRO DE CARGOS EM COMISSÃO DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:463.15pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGO</span></p></td><td style="width:83.85pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black">SÍMBOLO</span></p></td><td style="width:56.1pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">QTD</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante-Geral do Corpo de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-1</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante-Geral do Corpo de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2A</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Operações de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Segurança Contra Incêndio</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Corregedor-Chefe</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor de Instituto Militar de Ensino Superior de Bombeiros</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante Regional de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.55pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2B</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.35pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.35pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor de Departamento</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.35pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor de Academia</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Saúde</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Inteligência</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.3pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.45pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Formação e Aperfeiçoamento de Praças</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador&nbsp; de Treinamento Operacional</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador de Gestão de Frota</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.35pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Operações Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Segurança Contra Incêndio</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Corregedor Adjunto</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor·Adjunto de Instituto</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">0l</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante Regional de Bombeiros Militar</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Assessor Especial</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.75pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador I</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.6pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Chefe do Centro de Gestão do Vetor Aéreo</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.35pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Aeronave</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.2pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2C</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.4pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.45pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Aeronave</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.45pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.55pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.45pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.4pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">04</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Batalhão</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">20</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Chefe do Centro de Engenharia e Arquitetura</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.95pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor Adjunto de Departamento</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.5pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:2.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador Adjunto</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:19.65pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">05</span></p></td></tr><tr style="height:6.0pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Diretor Adjunto de Academia</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.0pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.5pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:6.0pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:2.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Chefe de Núcleo de Gestão</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.8pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador Técnico</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:21.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-2D</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">08</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Subcomandante de Batalhão</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:2.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">20</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador II</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.35pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">83</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Assessor de Comunicação Social I</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAS-3</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.5pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">01</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Comandante de Companhia</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">60</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Coordenador III</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.95pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">26</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Tripulante Operacional</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">06</span></p></td></tr><tr style="height:13.65pt"><td style="width:323.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="431"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Mecânico de Voo</span></p></td><td style="width:83.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" valign="top" width="112"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:20.85pt;margin-bottom:
-  3.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">DAI-4</span></p></td><td style="width:56.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" valign="top" width="75"><p class="Tabela-Texto" style="margin-top:0cm;margin-right:1.3pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">02</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QTD
+
+Comandante-Geral do Corpo de Bombeiros Militar
+
+DAS-1
+
+01
+
+Subcomandante-Geral do Corpo de Bombeiros Militar
+
+DAS-2A
+
+01
+
+Comandante de Operações de Bombeiros Militar
+
+DAS-2B
+
+0l
+
+Comandante de Segurança Contra Incêndio
+
+DAS-2B
+
+01
+
+Corregedor-Chefe
+
+DAS-2B
+
+01
+
+Diretor de Instituto Militar de Ensino Superior de Bombeiros
+
+DAS-2B
+
+01
+
+Comandante Regional de Bombeiros Militar
+
+DAS-2B
+
+04
+
+Diretor de Departamento
+
+DAS-2C
+
+05
+
+Diretor de Academia
+
+DAS-2C
+
+01
+
+Coordenador de Saúde
+
+DAS-2C
+
+01
+
+Coordenador de Inteligência
+
+DAS-2C
+
+01
+
+Coordenador de Formação e Aperfeiçoamento de Praças
+
+DAS-2C
+
+01
+
+Coordenador  de Treinamento Operacional
+
+DAS-2C
+
+01
+
+Coordenador de Gestão de Frota
+
+DAS-2C
+
+0l
+
+Subcomandante de Operações Bombeiros Militar
+
+DAS-2C
+
+01
+
+Subcomandante de Segurança Contra Incêndio
+
+DAS-2C
+
+0l
+
+Corregedor Adjunto
+
+DAS-2C
+
+0l
+
+Diretor·Adjunto de Instituto
+
+DAS-2C
+
+0l
+
+Subcomandante Regional de Bombeiros Militar
+
+DAS-2C
+
+04
+
+Assessor Especial
+
+DAS-2C
+
+01
+
+Coordenador I
+
+DAS-2C
+
+05
+
+Chefe do Centro de Gestão do Vetor Aéreo
+
+DAS-2C
+
+01
+
+Comandante de Aeronave
+
+DAS-2C
+
+04
+
+Subcomandante de Aeronave
+
+DAS-2D
+
+04
+
+Comandante de Batalhão
+
+DAS-2D
+
+20
+
+Chefe do Centro de Engenharia e Arquitetura
+
+DAS-2D
+
+01
+
+Diretor Adjunto de Departamento
+
+DAS-2D
+
+05
+
+Coordenador Adjunto
+
+DAS-2D
+
+05
+
+Diretor Adjunto de Academia
+
+DAS-2D
+
+01
+
+Chefe de Núcleo de Gestão
+
+DAS-2D
+
+06
+
+Coordenador Técnico
+
+DAS-2D
+
+08
+
+Subcomandante de Batalhão
+
+DAS-3
+
+20
+
+Coordenador II
+
+DAS-3
+
+83
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+01
+
+Comandante de Companhia
+
+DAI-4
+
+60
+
+Coordenador III
+
+DAI-4
+
+26
+
+Tripulante Operacional
+
+DAI-4
+
+06
+
+Mecânico de Voo
+
+DAI-4
+
+02

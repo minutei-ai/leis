@@ -1,5 +1,3 @@
-###DEC-050947-0-000-13-07-1961@@@
-
 decreto nº 50.947, de 13 de julho de 1961.
 
 Retifica o Decreto nº 50.502, de 26 de abril de 1961, publicado no Diário Oficial da mesma data.

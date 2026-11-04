@@ -1,5 +1,3 @@
-###DEC-003439-0-000-25-04-2000@@@
-
 DECRETO Nº 3.439, DE 25 DE ABRIL DE 2000.
 
 Delega competência ao Ministro de Estado da Defesa para autorizar o funcionamento no Brasil de empresa estrangeira de transporte aéreo, na forma da Lei nº 7.565, de 19 de dezembro de 1986.

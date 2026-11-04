@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:15:01.000Z"
 sha256_fonte: "0b2dd7950f765390dcbf74256222c682204456c57d4a1de30cf47c61d861a239"
 sha256_markdown: "76c5eb334e0fce10a220d814d673d803b17a643d0228730e98b91d2fb4803bd2"
 ---
-
 # LEI Nº 1.540, DE 23 DE NOVEMBRO DE 1994.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,17 +20,22 @@ Denomina PALÁCIO DA JUSTIÇA DESEMBARGADOR LEÃO NETO DO CARMO a sede do Tribun
 
 Publicada no Diário Oficial nº 3.916, de 24 de novembro de 1994, página 2.
 
-O Governador do Estado de Mato Grosso do Sul, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Passa a denominar-se PALÁCIO DA JUSTICA DESEMBARGADOR LEÃO<br>
-NETO DO CARMO, o prédio que abriga o Tribunal de Justiça do Estado<br>
-de Mato Grosso do Sul.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 23 de novembro de 1994.<br>
-<br>
-PEDRO PEDROSSIAN<br>
+O Governador do Estado de Mato Grosso do Sul, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Passa a denominar-se PALÁCIO DA JUSTICA DESEMBARGADOR LEÃO
+
+NETO DO CARMO, o prédio que abriga o Tribunal de Justiça do Estado
+
+de Mato Grosso do Sul.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 23 de novembro de 1994.
+
+PEDRO PEDROSSIAN
+
 Governador

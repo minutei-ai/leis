@@ -1,5 +1,3 @@
-###DEC-069186-0-000-13-09-1971@@@
-
 DECRETO Nº 69.186, DE 13 DE SETEMBRO DE 1971.
 
 Outorga à Emprêsa Luz e Fôrça Santa Maria S.A., concessão para aproveitamento de energia hidráulica, no Estado do Espírito Santo.

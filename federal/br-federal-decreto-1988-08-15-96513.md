@@ -1,5 +1,3 @@
-###DEC-096513-0-000-15-08-1988@@@
-
 DECRETO N° 96.513, DE 15 DE AGOSTO DE 1988
 
 Revoga o Regulamento do Centro de Controle de Estoque da Marinha, aprovado pelo Decreto n° 81.961, de 11 de julho de 1978.

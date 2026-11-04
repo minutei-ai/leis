@@ -1,5 +1,3 @@
-###DEC-053698-0-000-13-03-1964@@@
-
 DECRETO Nº 53.698, DE 13 DE MARÇO DE 1964.
 
 Estende as vantagens do Decreto número 47.053, de 20 de outubro de 1959, aos servidores civis subordinados à Diretoria de Hidrografia e Navegação e ao Centro de Reparos Almirante Moraes Rêgo (Departamento de Obras e Reparos e Departamento de Sinalização Náutica), do Ministério da Marinha, e dá outras providências.

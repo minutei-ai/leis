@@ -1,5 +1,3 @@
-###DEC-080225-0-000-24-08-1977@@@
-
 DECRETO Nº 80.225, DE 24 DE AGOSTO DE 1977.
 
 Retifica a concessão de lavra outorgada à Companhia de Mineração de Ferro e Carvão S.A. pelo Decreto nº 20.205, de 14 de dezembro de 1945.

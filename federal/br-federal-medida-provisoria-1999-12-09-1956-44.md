@@ -1,5 +1,3 @@
-###MPV-001956-0-044-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.956-44, DE 9 DE DEZEMBRO DE 1999.
 
 Dá nova redação aos arts. 3º, 16 e 44 da Lei nº 4.777, de 15 de setembro de 1965, e dispõe sobre a proibição do incremento da conversão de áreas florestais em áreas agrícolas na região Norte e na parte Norte da região Cento-Oeste, e dá outras providências.

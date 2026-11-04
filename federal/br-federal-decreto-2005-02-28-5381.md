@@ -1,5 +1,3 @@
-###DEC-005381-0-000-28-02-2005@@@
-
 DECRETO Nº 5.381 DE 28 DE FEVEREIRO DE 2005
 
 Dá nova redação ao art. 2º do Decreto nº 4.855, de 9 de outubro de 2003, que estabelece prazo para o enquadramento jurídico das cooperativas de eletrificação rural.

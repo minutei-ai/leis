@@ -1,5 +1,3 @@
-###DEC-078322-0-000-26-08-1976@@@
-
 DECRETO Nº 78.322, de 26 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração de Três de Maio, com sede na cidade de Três de Maio, Estado do Rio Grande do Sul.

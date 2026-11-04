@@ -1,5 +1,3 @@
-###DEL-003123-0-000-19-03-1941@@@
-
 DECRETO-LEI N. 3.123 – DE 19 DE MARÇO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 1.200:000$0, para instalação de um laboratório e construção de dois aviões.

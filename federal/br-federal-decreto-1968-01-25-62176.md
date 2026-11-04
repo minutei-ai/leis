@@ -1,5 +1,3 @@
-###DEC-062176-0-000-25-01-1968@@@
-
 DECRETO Nº 62.176, DE 25 DE JANEIRO DE 1968.
 
 Dá numeração a regulamentos do Exército.

@@ -60,11 +60,14 @@ Art. 7º Este Decreto entrará em vigor na data de sua publicação, revogadas a
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 01 de novembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-ALANNA RITIELLE P. DE ARUAÚJO<br>
+ALANNA RITIELLE P. DE ARUAÚJO
+
 Secretária de Governo
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário da Fazenda

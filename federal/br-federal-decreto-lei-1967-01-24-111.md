@@ -1,5 +1,3 @@
-###DEL-000111-0-000-24-01-1967@@@
-
 DECRETO-LEI Nº 111, DE 24 DE JANEIRO DE 1967
 
 Altera a lei nº 5.189, de 8 de dezembro de 1966.

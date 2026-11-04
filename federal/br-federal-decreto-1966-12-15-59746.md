@@ -1,5 +1,3 @@
-###DEC-059746-0-000-15-12-1966@@@
-
 DECRETO Nº 59.746, de 15 de dezembro de 1966.
 
 Concede reconhecimento ao Conservatório Musical de Ribeirão Prêto.

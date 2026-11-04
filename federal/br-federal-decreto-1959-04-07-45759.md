@@ -1,5 +1,3 @@
-###DEC-045759-0-000-07-04-1959@@@
-
 DECRETO Nº 45.759, DE 7 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro José Schwerber a pesquisar minérios de ferro e manganês e bauxita, no município de Ouro Preto, Estado de Minas Gerais.

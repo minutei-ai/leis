@@ -1,5 +1,3 @@
-###DEC-079411-0-000-17-03-1977@@@
-
 DECRETO Nº 79.411, de 17 de março de 1977.
 
 Fixa o fator de reajustamento salarial relativo a março de 1977.

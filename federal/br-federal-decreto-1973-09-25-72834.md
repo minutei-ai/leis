@@ -1,5 +1,3 @@
-###DEC-072834-0-000-25-09-1973@@@
-
 DECRETO Nº 72.834, DE 25 DE SETEMBRO DE 1973.
 
 Concede reconhecimento ao curso de Ciências (licenciatura de 1º grau) da Faculdade de Formação de Professores do Instituto Americano de Lins, com sede na Cidade de Lins Estado de São Paulo.

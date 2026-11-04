@@ -1,5 +1,3 @@
-###DEL-000695-0-000-23-07-1969@@@
-
 DECRETO-LEI Nº 695, DE 23 DE JULHO DE 1969
 
 Aprova a reforma do ex-soldado de Segunda Classe (Q IG FI) - Elias Cosme da Silveira, cujo registro foi negado pelo Tribunal de Contas da União.

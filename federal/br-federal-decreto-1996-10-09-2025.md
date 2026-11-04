@@ -1,7 +1,3 @@
-1
-
-###DEC-002025-0-000-09-10-1996@@@
-
 DECRETO Nº 2.025, DE 9 DE OUTUBRO DE 1996.
 
 Dispensa o registro de que trata o art. 39 do Decreto nº 58.380, de 10 de maio de 1966, no caso de financiamentos ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF).

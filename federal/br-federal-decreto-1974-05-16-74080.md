@@ -1,5 +1,3 @@
-###DEC-074080-0-000-16-05-1974@@@
-
 DECRETO Nº 74.080, DE 16 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, dois lotes de terrenos urbanos, com benfeitorias situados na Cidade de Cascavel, Estado do Paraná, necessários à construção de uma estação terminal de telecomunicações, pela Empresa Brasileira de Telecomunicações - EMBRATEL.

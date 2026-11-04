@@ -1,5 +1,3 @@
-###DEC-067990-0-000-30-12-1970@@@
-
 decreto nº 67.990, de 30 de dezembro de 1970.
 
 Prorroga, até 31 de dezembro de 1971, o prazo para aproveitamento dos navios estrangeiros na cobatagem nacional.

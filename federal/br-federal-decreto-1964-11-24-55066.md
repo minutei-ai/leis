@@ -1,5 +1,3 @@
-###DEC-055066-0-000-24-11-1964@@@
-
 DECRETO Nº 55.066, DE 24 DE NOVEMBRO DE 1964.
 
 Dispõe sôbre a fiscalização da aplicação dos recursos do Plano Nacional de Educação e dá outras providências.

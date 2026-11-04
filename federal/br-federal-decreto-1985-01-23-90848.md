@@ -1,5 +1,3 @@
-###DEC-090848-0-000-23-01-1985@@@
-
 DECRETO Nº 90.848, DE 23 DE JANEIRO DE 1985
 
 Outorga concessão à RÁDIO ITATAIA DE SANTA QUITÉRIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Quitéria, Estado do Ceará.

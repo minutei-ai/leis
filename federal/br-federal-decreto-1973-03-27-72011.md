@@ -1,5 +1,3 @@
-###DEC-072011-0-000-27-03-1973@@@
-
 DECRETO Nº 72.011, DE 27 DE MARÇO DE 1973.
 
 Inclui a habilitação Administração Escolar (1º e 2º graus) na autorização para funcionamento do curso de Pedagogia da Faculdade de Educação Antônio Augusto Reis Neves - Barretos - SP.

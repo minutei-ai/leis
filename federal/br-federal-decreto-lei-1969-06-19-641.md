@@ -1,7 +1,3 @@
-1
-
-###DEL-000641-0-000-19-06-1969@@@
-
 Decreto-lei nº 641, de 19 de Junho de 1969
 
 Aprova o Acôrdo Cultural entre o Brasil e o Paquistão, assinado em lslamabad a 8 de fevereiro de 1968.

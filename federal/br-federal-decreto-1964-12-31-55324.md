@@ -1,5 +1,3 @@
-###DEC-055324-0-000-31-12-1964@@@
-
 DECRETO Nº 55.324, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Aparício Casado D’Avila a pesquisar calcário no município São Gabriel, Estado do Rio Grande do Sul.

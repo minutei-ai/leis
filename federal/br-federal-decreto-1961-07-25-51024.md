@@ -1,5 +1,3 @@
-###DEC-051024-0-000-25-07-1961@@@
-
 DECRETO Nº 51.024, DE 25 DE JULHO DE 1961.
 
 Cria a Reserva Florestal do Jaru e da outras providências.

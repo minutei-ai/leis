@@ -1,5 +1,3 @@
-###DEC-078388-0-000-09-09-1976@@@
-
 decreto nº 78.388, de 9 de setembro de 1976.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado de São Paulo.

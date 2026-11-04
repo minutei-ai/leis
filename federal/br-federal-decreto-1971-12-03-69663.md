@@ -1,5 +1,3 @@
-###DEC-069663-0-000-03-12-1971@@@
-
 Decreto nº 69.663 - de 3 de dezembro de 1971
 
 Retifica o Decreto nº 67.327, de 5 de outubro de 1970, referente à redistribuição de cargos com os respectivos ocupantes, para o Ministério das Relações Exteriores.

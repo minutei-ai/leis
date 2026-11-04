@@ -1,5 +1,3 @@
-###DEL-004992-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.992 – DE 26 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 20.000.000,00 para prosseguimento da construção da rodovia Rio-Baía.

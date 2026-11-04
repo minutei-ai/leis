@@ -1,5 +1,3 @@
-###DEL-006954-0-000-12-10-1944@@@
-
 DECRETO-LEI N. 6.954 – DE 12 DE OUTUBRO DE 1944
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 400.000,00, para despesas da Comissão Executiva Têxtil

@@ -1,5 +1,3 @@
-###DEL-001085-0-000-18-02-1970@@@
-
 # DECRETO-LEI Nº 1.085, DE 18 DE FEVEREIRO DE 1970
 
 Dá nova redação ao inciso XIV, do artigo 4º, da Lei nº 4.595, de 31 de dezembro de 1964.

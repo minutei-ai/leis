@@ -25,8 +25,10 @@ Parágrafo único. O desmembramento referido no “caput” está em conformidad
 
 Aparecida de Goiânia, Estado de Goiás, aos 11 de janeiro de 2024. 
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

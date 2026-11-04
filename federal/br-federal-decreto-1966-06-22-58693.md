@@ -1,5 +1,3 @@
-###DEC-058693-0-000-22-06-1966@@@
-
 decreto nº 58.693, de 22 de junho de 1966.
 
 Aprova o Regimento da Consultoria Geral da República.
@@ -313,8 +311,6 @@ Art. 28. Os casos omissos que envolveram matéria regimental serão resolvidos p
 Brasília, 22 de junho de 1966.
 
 Mem de Sá
-
-###DEC-058693-0-000-22-06-1966@@@RET01+++
 
 Decreto nº 58.693, de 22 de junho de 1966.
 

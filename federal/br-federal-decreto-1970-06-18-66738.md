@@ -1,5 +1,3 @@
-###DEC-066738-0-000-18-06-1970@@@
-
 DECRETO Nº 66.738, DE 18 DE JUNHO DE 1970.
 
 Altera o item II do artigo 2º do Decreto nº 58.684, de 21 de junho de 1966.

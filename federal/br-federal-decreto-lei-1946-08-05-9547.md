@@ -1,5 +1,3 @@
-###DEL-009547-0-000-05-08-1946@@@
-
 DECRETO-LEI N . 9.547 – DE 5 DE AGÔSTO DE 1946
 
 Altera com redução de despesa, os Quadros Permanente e Suplementar do Ministério das Relações Exteriores e dá outras providências.

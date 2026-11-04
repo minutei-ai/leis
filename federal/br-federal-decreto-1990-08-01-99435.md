@@ -1,7 +1,3 @@
-1
-
-###DEC-099435-0-000-01-08-1990@@@
-
 DECRETO N° 99.435, DE 1° DE AGOSTO DE 1990
 
 Dispõe sobre a criação da Comissão de Reavaliação de Incentivos Fiscais.

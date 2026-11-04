@@ -1,5 +1,3 @@
-###DEC-074891-0-000-13-11-1974@@@
-
 Decreto nº 74.891, de 13 de novembro de 1974.
 
 Dispõe sobre a Estrutura Básica do Ministério da Saúde e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070247-0-000-07-03-1972@@@
-
 DECRETO Nº 70.247, DE 7 DE MARÇO DE 1972.
 
 Declara de utilidade pública a Irmandade de Nossa Senhora do Perpétuo Socorro da Santa Casa de Caridade de Bom Despacho, com sede em Bom Despacho, Estado de Minas Gerais.

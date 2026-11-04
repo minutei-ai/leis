@@ -1,5 +1,3 @@
-###DEC-060314-0-000-07-03-1967@@@
-
 DECRETO Nº 60.314, DE 7 DE MARÇO DE 1967.
 
 Cria os Distritos de Colonização de Santa Cruz e Duque de Caxias.

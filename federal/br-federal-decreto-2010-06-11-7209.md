@@ -1,5 +1,3 @@
-###DEC-007209-0-000-11-06-2010@@@
-
 DECRETO Nº 7.209, DE 11 DE JUNHO DE 2010.
 
 Dispõe sobre a criação da Embaixada do Brasil em Thimphu, no Reino do Butão, cumulativa com a Embaixada em Nova Délhi.

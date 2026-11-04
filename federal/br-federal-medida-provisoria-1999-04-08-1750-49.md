@@ -1,5 +1,3 @@
-###MPV-001750-0-049-08-04-1999@@@
-
 MEDIDA PrOViSÓRIA nº 1.750-49, DE 8 DE ABRIL DE 1999
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

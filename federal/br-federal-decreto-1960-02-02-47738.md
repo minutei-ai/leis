@@ -1,5 +1,3 @@
-###DEC-047738-0-000-02-02-1960@@@
-
 DECRETO Nº 47.738, DE 2 DE FEVEREIRO DE 1960.
 
 Concede autorização para o funcionamento do curso de Bacharelado da Faculdade de Direito Clóvis Bevilaqua.

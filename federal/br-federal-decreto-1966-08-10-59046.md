@@ -1,5 +1,3 @@
-###DEC-059046-0-000-10-08-1966@@@
-
 Decreto nº 59.046, de 10 de agôsto de 1966.
 
 Transfere, para o sistema de ensino do Estado de São Paulo, as escolas estaduais e municipais de grau médio e confere atribuições para a prática de atos relacionados com o ensino superior.

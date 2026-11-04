@@ -1,5 +1,3 @@
-###DEC-069866-0-000-30-12-1971@@@
-
 DECRETO Nº 69.866 - DE 30 DE DEZEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Fazenda para o Quadro de Pessoal da Procuradoria Geral da República, e dá outras providências.

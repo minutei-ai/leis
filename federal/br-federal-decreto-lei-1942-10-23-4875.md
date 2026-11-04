@@ -1,5 +1,3 @@
-###DEL-004875-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.875 – DE 23 DE OUTUBRO DE 1942
 
 Dispõe sobre licença ao procurador geral e demais membros do Ministério

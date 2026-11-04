@@ -1,5 +1,3 @@
-###DEC-048464-0-000-07-07-1960@@@
-
 decreto nº 48.464, de 7 de julho de 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Patrimonial de Seguros Gerais.

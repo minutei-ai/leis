@@ -1,5 +1,3 @@
-###DEL-006585-0-000-13-06-1944@@@
-
 DECRETO-LEI N. 6.585 – DE 13 DE JUNHO DE 1944
 
 Altera a carreira de Escriturário do Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

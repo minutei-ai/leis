@@ -1,5 +1,3 @@
-###DEC-049603-0-000-28-12-1960@@@
-
 DECRETO Nº 49.603, DE 28 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$130.000.000,00 para atender às despesas com a manutenção do Restaurante Central dos Estudantes.

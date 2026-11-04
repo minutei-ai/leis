@@ -1,5 +1,3 @@
-###DEC-088027-0-000-07-01-1983@@@
-
 Decreto nº 88.027, de 07 de janeiro de 1983
 
 Inclui o Centro Técnico Aeroespacial do Ministério da Aeronáutica no regime de que trata o Decreto nº 86.212, de 15 de julho de 1981, e dá outras providências.

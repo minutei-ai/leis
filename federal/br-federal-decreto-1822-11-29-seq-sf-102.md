@@ -1,5 +1,3 @@
-###DEC-000000-0-102-29-11-1822@@@
-
 DECRETO - DE 29 DE NOVEMBRO DE 1822
 
 Manda que, durante a occupação da Bahia pelas tropas de Portugal, sejam os recursos judiciaes interpostos para a Casa da Supplicação desta Côrte.

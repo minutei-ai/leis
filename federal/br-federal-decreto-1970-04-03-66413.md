@@ -1,5 +1,3 @@
-###DEC-066413-0-000-03-04-1970@@@
-
 DECRETO Nº 66.413, DE 3 DE ABRIL DE 1970.
 
 Retifica o Decreto nº 61.241, de 25 de agôsto de 1967, que aprovou o Quadro de Pessoal Extinto da Estrada de Ferro Tocantins.

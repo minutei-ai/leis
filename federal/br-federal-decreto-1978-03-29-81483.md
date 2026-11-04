@@ -1,5 +1,3 @@
-###DEC-081483-0-000-29-03-1978@@@
-
 Decreto nº 81.483, de 29 de março de 1978.
 
 Concede UNICAL - Universidade de Calcários Ltda. o direito de lavrar calcário nos Municípios Rio Pardo, Estado do Rio Grande do Sul.

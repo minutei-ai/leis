@@ -1,5 +1,3 @@
-###DEL-009424-0-000-04-07-1946@@@
-
 DECRETO-LEI N. 9.424 – DE 4 DE JULHO DE 1946
 
 Considera de utilidade pública a desapropriação de um imóvel em Belém, Estado do Pará, para servir de sede à 28ª Circunscrição de Recrutamento e à Inspetoria dos Tiros de Guerra da 8ª Região Militar.

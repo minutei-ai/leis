@@ -1,5 +1,3 @@
-###DEC-049883-0-000-12-01-1961@@@
-
 DECRETO Nº 49.883, DE 12 DE JANEIRO de 1961.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Leme, Estado de São Paulo.

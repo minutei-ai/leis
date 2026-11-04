@@ -1,7 +1,3 @@
-1
-
-###DEC-085816-0-000-17-03-1981@@@
-
 DECRETO Nº 85.816, de 17 de março de 1981.
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta para o Exército a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas e dá outras providências.

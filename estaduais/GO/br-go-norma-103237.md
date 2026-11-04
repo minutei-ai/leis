@@ -1,7 +1,9 @@
 LEI Nº 20.795, DE 10 DE JUNHO DE 2020
 
-     <br>
-Autoriza o Chefe do Poder Executivo a firmar o termo de colaboração que especifica.<br>
+     
+
+Autoriza o Chefe do Poder Executivo a firmar o termo de colaboração que especifica.
+
 \- [Redação dada pela Lei nº 21.427, de 30-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105625).
 
 ~~Autoriza o Chefe do Poder Executivo Estadual de Goiás a firmar termo de colaboração entre a Administração Pública e a FUNDAHC – Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás para a operação, e/ou gestão de Hospitais de Campanha.~~
@@ -12,13 +14,16 @@ CAPÍTULO I
 
 DAS DISPOSIÇÕES GERAIS
 
-Art. 1º Esta Lei autoriza a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, em valor de até R$ 524.000.000,00 (quinhentos e vinte e quatro milhões de reais), com a finalidade de realizar parceria que tenha por objeto o gerenciamento, a operacionalização e a execução de atividades de saúde pública em unidade estadual.<br>
+Art. 1º Esta Lei autoriza a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, em valor de até R$ 524.000.000,00 (quinhentos e vinte e quatro milhões de reais), com a finalidade de realizar parceria que tenha por objeto o gerenciamento, a operacionalização e a execução de atividades de saúde pública em unidade estadual.
+
 \- [Redação dada pela Lei nº 23.038, de 28-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109764).
 
-~~Art. 1º Fica autorizada a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, no valor de até R$ 400.000.000,00 (quatrocentos milhões de reais), com a finalidade de realizar parceria que tenha por objetivo o gerenciamento, operacionalização e a execução de atividades de saúde pública em unidade estadual.~~<br>
+~~Art. 1º Fica autorizada a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, no valor de até R$ 400.000.000,00 (quatrocentos milhões de reais), com a finalidade de realizar parceria que tenha por objetivo o gerenciamento, operacionalização e a execução de atividades de saúde pública em unidade estadual.~~
+
 \- [Redação dada pela Lei nº 22.293, de 28-9-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107827).
 
-~~Art. 1º Fica autorizada a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, no valor de até R$ 280.000.000,00 (duzentos e oitenta milhões de reais), com a finalidade de realizar parceria que tenha por objeto o gerenciamento, operacionalização e a execução de atividades de saúde pública em unidade estadual.~~<br>
+~~Art. 1º Fica autorizada a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, no valor de até R$ 280.000.000,00 (duzentos e oitenta milhões de reais), com a finalidade de realizar parceria que tenha por objeto o gerenciamento, operacionalização e a execução de atividades de saúde pública em unidade estadual.~~
+
 \- [Redação dada pela Lei nº 21.427, de 30-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105625).
 
 ~~Art. 1º Esta Lei autoriza a transferência de recursos financeiros do Estado de Goiás, por meio da Secretaria de Estado da Saúde, para a Fundação de Apoio ao Hospital das Clínicas da Universidade Federal de Goiás – FUNDAHC, no valor de até R$ 150.000.000,00 (cento e cinquenta milhões de reais), com a finalidade de realizar parceria que tenha por objeto o gerenciamento, operacionalização e a execução de atividades de saúde pública em unidade estadual.~~

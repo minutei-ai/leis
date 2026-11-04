@@ -1,5 +1,3 @@
-###DEC-062200-0-000-31-01-1968@@@
-
 decreto Nº 62.200, de 31 de janeiro de 1968.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos sem similar nacional, neste descritos e consignados à firma “Emprêsa Telefônica da Paraíba S.A.”, de João Pessoa - Paraíba.
@@ -14,7 +12,69 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, exceto a taxa prevista no Decreto-lei nº 83, de 26.12.66, Artigo 9º, a importação de equipamentos novos, sem similar nacional, a seguir descritos e consignados à “Emprêsa Telefônica da Paraíba S.A.”, de João Pessoal (Pb):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:177.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:92.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:88.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p><p class="Tabela" style="text-indent:0pt; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>5</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal"><span>6</span></p></td><td style="width:177.3pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; line-height:normal"><span>Gerador de sinais VHF/UHF, tipo 608 - F - fabricante: “Hewlett Packard”.................................................</span></p><p class="Tabela" style="text-indent:0pt; line-height:normal"><span>Osciloscópio Portátil, tipo AC/DC - fabricante: “Tectronis”. .........................</span></p><p class="Tabela" style="text-indent:0pt; line-height:normal"><span>Voltímetro integral a válvula, tipo 410-B - fabricante “Hewlett Packard”.................................................</span></p><p class="Tabela" style="text-indent:0pt; line-height:normal"><span>Localizador de defeitos em cabos tipo 4901-A - fabricante “Hewlett Pachard”.................................................</span></p><p class="Tabela" style="text-indent:0pt; line-height:normal"><span>Oscilador de audio, tipo 200-CD fabricante “Hewlett Packard”..................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; line-height:normal"><span>Avião BEECHRAFT, Baron B-55, equipado com 2 motores continental de 260 HP, equipamentos rádio e equipamentos e instrumental adicionais...............................................</span></p></td><td style="width:92.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal"><span>1</span></p></td><td style="width:88.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>1.260</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>3.970</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>265</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>695</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span>195</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center; line-height:normal"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:normal"><span>71.500</span></p></td></tr><tr><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:177.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ...................................................</span></p></td><td style="width:92.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:88.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>77.885</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Gerador de sinais VHF/UHF, tipo 608 - F - fabricante: “Hewlett Packard”.................................................
+
+Osciloscópio Portátil, tipo AC/DC - fabricante: “Tectronis”. .........................
+
+Voltímetro integral a válvula, tipo 410-B - fabricante “Hewlett Packard”.................................................
+
+Localizador de defeitos em cabos tipo 4901-A - fabricante “Hewlett Pachard”.................................................
+
+Oscilador de audio, tipo 200-CD fabricante “Hewlett Packard”..................
+
+Avião BEECHRAFT, Baron B-55, equipado com 2 motores continental de 260 HP, equipamentos rádio e equipamentos e instrumental adicionais...............................................
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1.260
+
+3.970
+
+265
+
+695
+
+195
+
+71.500
+
+TOTAL ...................................................
+
+-
+
+77.885
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

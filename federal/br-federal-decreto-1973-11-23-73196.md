@@ -1,5 +1,3 @@
-###DEC-073196-0-000-23-11-1973@@@
-
 DECRETO Nº 73.196 - DE 23 DE NOVEMBRO DE 1973
 
 Concede à Mineração Santa Amélia Ltda. O direito de lavrar minério de ferro no Município de Nova Lima estado de Minas Gerais.

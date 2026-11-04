@@ -1,5 +1,3 @@
-###DEC-048639-0-000-29-07-1960@@@
-
 DECRETO N.º 48.639, DE 29 DE JULHO DE 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de insenção de impostos e taxas federais, a importação dos equipamentos novos, ora descritos.

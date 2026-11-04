@@ -1,5 +1,3 @@
-###DEC-046971-0-000-07-10-1959@@@
-
 decreto nº 46.971, de 07 de outubro de 1959.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências.

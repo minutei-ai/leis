@@ -1,5 +1,3 @@
-###DEC-053515-0-000-30-01-1964@@@
-
 DECRETO Nº 53.515, DE 30 DE JANEIRO DE 1964.
 
 Concede à Sociedade estrangeira Bank of London & South America Limited autorização para aumentar o seu capital.

@@ -1,5 +1,3 @@
-###DEC-048465-0-000-07-07-1960@@@
-
 DECRETO Nº 48.465, DE 7 DE JULHO DE 1960.
 
 Revoga o Decreto que concede à sociedade anônima Astória Of Brasil, INC, autorização para funcionar na República.

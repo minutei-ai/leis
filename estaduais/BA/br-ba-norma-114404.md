@@ -2,7 +2,8 @@ LEI Nº 1.621 DE 22 DE FEVEREIRO DE 1962
 
 Cria o Município de São Desidério, desmembrado do de Barreiras.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.906](https://www.legislabahia.ba.gov.br/documentos/lei-no-12906-de-24-de-setembro-de-2013#LO%2012.906) de 24 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Bacia do Rio Grande, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Angical, Baianópolis, Barreiras, Buritirama, Catolândia, Cotegipe, Cristópolis, Formosa do Rio Preto, Luis Eduardo Magalhães, Mansidão, Riachão das Neves, Santa Rita de Cássia, São Desidério e Wanderley.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -61,4 +62,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

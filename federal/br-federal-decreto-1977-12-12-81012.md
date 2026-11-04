@@ -1,5 +1,3 @@
-###DEC-081012-0-000-12-12-1977@@@
-
 decreto nº 81.012, de 12 de dezembro de 1977.
 
 Concede à Companhia Brasileira de Cobre o direito de lavrar minério de cobre no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

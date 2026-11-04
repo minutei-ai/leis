@@ -1,5 +1,3 @@
-###DEC-068312-0-000-03-03-1971@@@
-
 decreto nº 68.312, de 3 de março de 1971.
 
 Dispõe sobre o programa oficial "A Voz do Brasil."

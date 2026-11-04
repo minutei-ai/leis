@@ -1,5 +1,3 @@
-###DEC-007798-0-000-12-09-2012-PUB-01@@@
-
 DECRETO N° \- 7.798, DE 12 DE SETEMBRO DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério de Minas e Energia.

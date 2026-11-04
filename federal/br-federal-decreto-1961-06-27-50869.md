@@ -1,5 +1,3 @@
-###DEC-050869-0-000-27-06-1961@@@
-
 DECRETO Nº 50.869, DE 27 DE JUNHO DE 1961.
 
 Dispõe sôbre a política habitacional do Govêrno e dá outras providências.

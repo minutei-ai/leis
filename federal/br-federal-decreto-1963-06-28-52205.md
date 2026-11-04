@@ -1,5 +1,3 @@
-###DEC-052205-0-000-28-06-1963@@@
-
 DECRETO Nº 52.205, de 28 de junho de 1963.
 
 Declara de utilidade pública o Círculo Operário Riograndino, com sede na Cidade do Rio Grande, Estado do Rio Grande do Sul.

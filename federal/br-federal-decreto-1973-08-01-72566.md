@@ -1,5 +1,3 @@
-###DEC-072566-0-000-01-08-1973@@@
-
 DECRETO Nº 72.566, de 1 de Agosto de 1973
 
 Torna sem efeito aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal da Bahia e dá outras providência.

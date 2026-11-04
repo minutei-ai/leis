@@ -1,5 +1,3 @@
-###DEC-085281-0-000-22-10-1980@@@
-
 DECRETO Nº 85.281, DE 22 DE OUTUBRO DE 1980
 
 Altera o Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas.

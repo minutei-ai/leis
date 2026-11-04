@@ -1,5 +1,3 @@
-###DEC-061924-0-000-20-12-1967@@@
-
 DECRETO Nº 61.924, DE 20 DE DEZEMBRO DE 1967.
 
 Retifica o Decreto nº 55.915, de 12 de abril de 1965, para o fim que especifica.

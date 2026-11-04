@@ -1,5 +1,3 @@
-###DEC-052882-0-000-20-11-1963@@@
-
 DECRETO Nº 52.882, DE 20 DE NOVEMBRO DE 1963.
 
 Abre, pelo Ministério da Fazenda, a crédito especial de Cr$300.000.000,00 (trezentos milhões de cruzeiros) para o fim que especifica.

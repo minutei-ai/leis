@@ -1,5 +1,3 @@
-###DEC-085402-0-000-25-11-1980@@@
-
 Decreto nº 85.402, de 25 novembro de 1980.
 
 Autoriza a funcionar no País o CENTROBANCO - Madrid, España.

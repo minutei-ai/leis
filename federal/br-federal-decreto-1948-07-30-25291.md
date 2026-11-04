@@ -1,20 +1,18 @@
-###DEC-025291-0-000-30-07-1948@@@
+**DECRETO Nº 25.291, DE 30 DE JULHO DE 1948.**
 
-<strong>DECRETO Nº 25.291, DE 30 DE JULHO DE 1948.</strong>
+***Altera o Regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura, aprovado pelo ecreto nº 4.438, de 26 de julho de 1939.***
 
-<em><strong>Altera o Regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura, aprovado pelo ecreto nº 4.438, de 26 de julho de 1939.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O artigo 3º do Regimento do Departamento Nacional da Produção Vegetal, aprovado pelo Decreto nº 4.438, de 26 de julho de 1939, fica acrescido do seguinte:
+**Art**. 1º O artigo 3º do Regimento do Departamento Nacional da Produção Vegetal, aprovado pelo Decreto nº 4.438, de 26 de julho de 1939, fica acrescido do seguinte:
 
 “Art. 3º ...................................................................................................................................
 
 Parágrafo único - A D. T. C. terá um assistente jurídico, diretamente subordinado ao respectivo Diretor”.
 
-<strong>Art</strong>. 2º Os arts. 17, 18, 19 e 20 do Regimento, passam a vigorar com a seguinte redação:
+**Art**. 2º Os arts. 17, 18, 19 e 20 do Regimento, passam a vigorar com a seguinte redação:
 
 “Art. 17. A D. T. C. é constituída dos seguintes órgãos:
 
@@ -126,7 +124,7 @@ o) preparar o expediente e elaborar todos os atos relativos ao assuntos de que t
 
 Parágrafo único - A Seção de Administração deverá funcionar perfeitamente articulada com o Departamento de Administração do Ministério da Agricultura, observando as normas e métodos de trabalho prescritos pelo mesmo”.
 
-<strong>Art</strong>. 3º Os arts. 25 e 26 do Regimento passam a vigor com a seguinte redação:
+**Art**. 3º Os arts. 25 e 26 do Regimento passam a vigor com a seguinte redação:
 
 “Art. 25. Ao Secretário incumbe executar os trabalhos que lhe forem atribuídos pelo Diretor-Geral ou Diretores da Divisão respectivos, e ao Auxiliar os que lhe forem determinados pelo Diretor-Geral ou Secretário dêste.
 
@@ -140,7 +138,7 @@ III - emitir parecer nos processos que devam ser encaminhados à Procuradoria da
 
 IV - dar parecer sôbre processos que, em trânsito no judiciário, necessitarem da audiência da D. T. C.”
 
-<strong>Art</strong>. 4º O artigo 30 do Regimento, passa a vigorar com a seguinte redação:
+**Art**. 4º O artigo 30 do Regimento, passa a vigorar com a seguinte redação:
 
 “Art. 30. Aos administradores de núcleos coloniais e colônias agrícolas nacionais incumbe:
 
@@ -182,12 +180,12 @@ s) aprovar a escala de férias para o pessoal do núcleo ou colônia agrícola n
 
 t) encerrar o ponto do pessoal”.
 
-<strong>Art</strong>. 5º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 5º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+**Art**. 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de julho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

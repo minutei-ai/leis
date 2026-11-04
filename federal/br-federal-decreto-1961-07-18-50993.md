@@ -1,5 +1,3 @@
-###DEC-050993-0-000-18-07-1961@@@
-
 Decreto nº 50.993, de 18 de julho de 1961.
 
 Declara públicas, de uso comum, do domínio da União e do Estado de Mato Grosso, as águas do rio “Santa Virgínia/Dourados” “Dourados” e “Dourados” respectivamente, nos seus trechos superior, médio e inferior.

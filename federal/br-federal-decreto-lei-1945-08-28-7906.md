@@ -1,5 +1,3 @@
-###DEL-007906-0-000-28-08-1945@@@
-
 DECRETO-LEI N. 7.906 – DE 28 DE AGÔSTO DE 1945
 
 Estende aos militares da Aeronáutica e da Marinha, a anistia concedida pelo Decreto-lei nº 7.669, de 23 da julho de 1945.

@@ -1,5 +1,3 @@
-###DEC-074376-0-000-08-08-1974@@@
-
 DECRETO Nº 74.376 - DE 8 DE AGOSTO DE 1974.
 
 Torna sem efeito inclusão, no Quadro de Pessoal do Ministério da Saúde, de servidor do extinto Serviço de Alimentação da Previdência Social - SAPS.

@@ -1,5 +1,3 @@
-###DEC-077979-0-000-07-07-1976@@@
-
 DECRETO Nº 77.979, DE 7 DE JULHO DE 1976.
 
 Altera a estrutura básica do Instituto Nacional de Alimentação e Nutrição (INAN), aprovada pelo Decreto nº 73.996, de 30 de abril de 1974.

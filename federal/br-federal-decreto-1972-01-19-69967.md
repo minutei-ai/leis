@@ -1,5 +1,3 @@
-###DEC-069967-0-000-19-01-1972@@@
-
 Decreto nº 69.967, de 19 de janeiro de 1972.
 
 Autoriza o funcionamento do Curso de Ciências Contábeis da Faculdade de Ciências Administrativas "Professor Mário Henrique Simonsen", na Guanabara.

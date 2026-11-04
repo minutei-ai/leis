@@ -1,5 +1,3 @@
-###DEC-077628-0-000-18-05-1976@@@
-
 Decreto nº 77.628 - de 18 de maio de 1976.
 
 Dispõe o Acompanhamento das Despesas com o Pessoal da Administração Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048145-0-000-28-04-1960@@@
-
 DECRETO Nº 48.145, DE 28 DE ABRIL DE 1960.
 
 Cria a Comissão de Transferência de Serviços Federais (COTRAN).

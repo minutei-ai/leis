@@ -1,5 +1,3 @@
-###DEC-055211-0-000-15-12-1964@@@
-
 DECRETO Nº 55.211, DE 15 DE DEZEMBRO DE 1964.
 
 Autoriza a Central Elétrica de Furnas S.A. a construir linhas de transmissão de energia elétrica e subestações.

@@ -1,5 +1,3 @@
-###DEC-053142-0-000-10-12-1963@@@
-
 Decreto nº 53.142, de 10 de dezembro de 1963.
 
 Autoriza a Companhia Brasileira de Alumínio a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

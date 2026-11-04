@@ -1,5 +1,3 @@
-###DEC-067274-0-000-25-09-1970@@@
-
 Decreto nº 67.274, de 25 de setembro de 1970.
 
 Autoriza o funcionamento da Faculdade de Educação Física da Associação de Ensino de Ribeirão Prêto, na cidade de Ribeirão Prêto, Estado de São Paulo.

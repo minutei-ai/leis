@@ -1,5 +1,3 @@
-###DEC-006622-0-000-29-10-2008@@@
-
 DECRETO Nº 6.622, DE 29 DE OUTUBRO DE 2008.
 
 Altera o art. 375 do Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

@@ -1,5 +1,3 @@
-###DEC-061886-0-000-11-12-1967@@@
-
 Decreto nº 61.886, de 11 de Dezembro de 1967.
 
 Declara de utilidade pública a “Associação de Proteção a Maternidade e a Infância de Governador Valadares”, com sede em Governador Valadares, Estado de Minas Gerais.

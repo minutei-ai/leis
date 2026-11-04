@@ -1,5 +1,3 @@
-###DEL-007495-0-000-26-04-1945@@@
-
 DECRETO-LEI N. 7.495 – DE 26 DE ABRIL DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar o Sindicato dos JornaIistas Profissionais do Rio de Janeiro do pagamento dos impostos que menciona

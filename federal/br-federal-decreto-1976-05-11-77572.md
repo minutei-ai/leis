@@ -1,5 +1,3 @@
-###DEC-077572-0-000-11-05-1976@@@
-
 Decreto nº 77.572, de 11 de maio de 1976
 
 Autoriza a Unión de Bancos del Uruguay, Español, Territorial Y Del Norte a funcionar no País.

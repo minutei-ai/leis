@@ -1,5 +1,3 @@
-###DEL-009861-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.861 – DE 13 DE SETEMBRO DE 1940
 
 Isenta o Sindicato dos Jornalista Profissionais do Rio de Janeiro de pagamento de laudêmio.

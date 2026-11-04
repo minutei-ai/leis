@@ -1,5 +1,3 @@
-###DEC-088406-0-000-20-06-1983@@@
-
 Decreto nº 88.406, de 20 de junho de 1983
 
 Declara perempta a concessão outorgada à RÁDIO IRACEMA DE FORTALEZA S.A., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Fortaleza, Estado do ceará.

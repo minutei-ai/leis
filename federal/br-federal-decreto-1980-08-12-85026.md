@@ -1,5 +1,3 @@
-###DEC-085026-0-000-12-08-1980@@@
-
 Decreto nº 85.026, de 12 de agosto de 1980.
 
 Autoriza o aumento da potência da RÁDIO NONOAI LTDA., na cidade de Nonoai, Estado do Rio Grande do Sul.

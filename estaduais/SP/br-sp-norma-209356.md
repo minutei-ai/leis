@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209356)<br>
-
 # LEI N° 17.911, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 798/2023, do Deputado Luiz Fernando T. Ferreira - PT)

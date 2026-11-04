@@ -1,5 +1,3 @@
-###DEC-060260-0-000-23-02-1967@@@
-
 DECRETO Nº 60.260, DE 23 DE FEVEREIRO DE 1967.
 
 Revoga o Decreto nº 54.399, de 9 de outubro de 1964.

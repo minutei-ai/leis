@@ -1,5 +1,3 @@
-###DEC-005938-0-000-19-10-2006@@@
-
 DECRETO Nº 5.938, DE 19 DE OUTUBRO DE 2006.
 
 Promulga o Tratado de Extradição entre a República Federativa do Brasil e a Ucrânia, celebrado em Brasília, em 21 de outubro de 2003.
@@ -24,11 +22,7 @@ Brasília, 19 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.10.2006
-
-TRATADO DE EXTRADIÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A UCRÂNIA
+        Celso Luiz Nunes AmorimTRATADO DE EXTRADIÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A UCRÂNIA
 
 A República Federativa do Brasil
 

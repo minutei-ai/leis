@@ -1,28 +1,26 @@
-###DEC-042647-0-000-18-11-1957@@@
+**DECRETO Nº 42.647, DE 18 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.647, DE 18 DE NOVEMBRO DE 1957.</strong>
+***Aprova o Regimento do Comissáriado Permanente de Exposições e Feiras e dá outras providências.***
 
-<em><strong>Aprova o Regimento do Comissáriado Permanente de Exposições e Feiras e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Comissariado Permanente de Exposições e Feiras no Exterior que a êste acompanha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Comissariado Permanente de Exposições e Feiras no Exterior que a êste acompanha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso
 
-<strong>REGIMENTO DO COMISSARIADO PERMANENTE DE EXPOSIÇÕES E FEIRAS NO EXTERIOR</strong>
+**REGIMENTO DO COMISSARIADO PERMANENTE DE EXPOSIÇÕES E FEIRAS NO EXTERIOR**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<strong>Art</strong>. 1º O Comissariado Permanente de Exposições e Feiras no Exterior, criado pelo Decreto nº 40.826, de 23 de janeiro de 1957, alterado pelo Decreto nº 42.320, de 23 de setembro de 1957, tem a seguinte composição:
+**Art**. 1º O Comissariado Permanente de Exposições e Feiras no Exterior, criado pelo Decreto nº 40.826, de 23 de janeiro de 1957, alterado pelo Decreto nº 42.320, de 23 de setembro de 1957, tem a seguinte composição:
 
 I - Comissário Geral.
 
@@ -42,21 +40,21 @@ VI - Comissário indicado pela Confederação Nacional do Comércio.
 
 § 3º O Comissariado Permanente de Exposições e Feiras no Exterior organizará seus serviços de Secretaria, Contabilidade e Pagadoria.
 
-<strong>Art</strong>. 2º Cabe ao Comissariado Permanente de Exposições e Feiras no Exterior planejar, organizar, apresentar e supervisionar as representações em exposições e feiras no exterior.
+**Art**. 2º Cabe ao Comissariado Permanente de Exposições e Feiras no Exterior planejar, organizar, apresentar e supervisionar as representações em exposições e feiras no exterior.
 
 Parágrafo único. Em seu trabalho de planejamento e organização de mostras brasileiras no exterior o Comissariado poderá solicitar, sob a forma de conselheiros ou assessôres, a colaboração dos órgãos da Administração direta ou indireta e dos Órgãos de Classe.
 
-<strong>Art</strong>. 3º Sempre que conveniências de organização e de economia o justifiquem, o Comissariado Permanente de Exposições e Feiras no Exterior proporá ao Ministério competente a instituição de comissários locais, recrutados entre os membros de sua representação no exterior.
+**Art**. 3º Sempre que conveniências de organização e de economia o justifiquem, o Comissariado Permanente de Exposições e Feiras no Exterior proporá ao Ministério competente a instituição de comissários locais, recrutados entre os membros de sua representação no exterior.
 
 § 1º Os Comissários Locais são mandatários do Comissariado Permanente de Exposições e Feiras no Exterior.
 
 § 2º As atribuições dos Comissários Locais serão definidas nos atos regulamentares das Seções Brasileiras nos certames a que o Brasil der a sua adesão.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Comissário Geral</em>
+*Do Comissário Geral*
 
-<strong>Art</strong>. 4º Compete ao Comissário Geral:
+**Art**. 4º Compete ao Comissário Geral:
 
 I - Orientar, controlar e supervisionar as representações brasileiras em certames no exterior.
 
@@ -90,11 +88,11 @@ XV - Designar seu substituto, nos impedimentos e ausência até trinta dias.
 
 XVI - Praticar os demais atos inerentes à função.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Comissário do Ministério do Trabalho, Indústria e Comércio</em>
+*Do Comissário do Ministério do Trabalho, Indústria e Comércio*
 
-<strong>Art</strong>. 5º Compete ao Comissário representante do Ministério do Trabalho, Indústria e Comércio:
+**Art**. 5º Compete ao Comissário representante do Ministério do Trabalho, Indústria e Comércio:
 
 I - Comparecer às reuniões do Comissariado, discutir e votar as matérias em pauta.
 
@@ -108,11 +106,11 @@ V - Apresentar relatórios ao titular da pasta.
 
 VI - Coordenar grupos de trabalho.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO COMISSÁRIO REPRESENTANTE DO MINISTÉRIO DAS RELAÇÕES EXTERIORES</em>
+*DO COMISSÁRIO REPRESENTANTE DO MINISTÉRIO DAS RELAÇÕES EXTERIORES*
 
-<strong>Art</strong>. 6º Compete especialmente ao Comissário representante do Ministério das Relações Exteriores:
+**Art**. 6º Compete especialmente ao Comissário representante do Ministério das Relações Exteriores:
 
 I - Servir de elemento de ligação entre o Comissariado e a Representação Diplomática e Consultar acreditada junto ao Govêrno Brasileiro.
 
@@ -128,11 +126,11 @@ VI - Apresentar Relatório ao titular da Pasta.
 
 VII - Coordenar grupos de trabalho.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO COMISSÁRIO REPRESENTANTE DO MINISTÉRIO DE FAZENDA</em>
+*DO COMISSÁRIO REPRESENTANTE DO MINISTÉRIO DE FAZENDA*
 
-<strong>Art</strong>. 7º Compete especialmente ao Representante do Ministério da Fazenda:
+**Art**. 7º Compete especialmente ao Representante do Ministério da Fazenda:
 
 I - Comparecer às reuniões do Comissariado, discutir e votar as matérias da pauta.
 
@@ -144,11 +142,11 @@ IV - Relatar as matérias que lhe forem distribuídas pelo Comissário Geral.
 
 V - Apresentar Relatório ao Ministro de Estado.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO COMISSÁRIO DA INDÚSTRIA</em>
+*DO COMISSÁRIO DA INDÚSTRIA*
 
-<strong>Art</strong>. 8º Compete especialmente ao Comissário da Indústria:
+**Art**. 8º Compete especialmente ao Comissário da Indústria:
 
 I - Opinar, originariamente, nos processos e assuntos relacionados com setor representado, em suas relações diretas e indiretas com o Comissariado.
 
@@ -170,11 +168,11 @@ IX - Comparecer às reuniões do Comissariado, discutir e votar as matérias da 
 
 X - Apressentar Relatório ao presidente da Confederação Nacional da Indústria.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO COMISSÁRIO DO COMÉRCIO</em>
+*DO COMISSÁRIO DO COMÉRCIO*
 
-<strong>Art</strong>. 9º Compete especialmente ao Comissário do Comércio:
+**Art**. 9º Compete especialmente ao Comissário do Comércio:
 
 I - Opinar, originariamente, nos processos e assuntos relacionados com o setor representado, em suas relações diretas e indiretas com o Comissariado.
 
@@ -194,4 +192,4 @@ VIII - Apresentar Relatório ao Presidente da Confederação Nacional do Comérc
 
 Rio de Janeiro, 18 de novembro de 1957.
 
-<strong>PARSIFAL BARROSO</strong>
+**PARSIFAL BARROSO**

@@ -1,5 +1,3 @@
-###DEC-091384-0-000-01-07-1985@@@
-
 DECRETO Nº 91.384, DE 01 DE JULHO DE 1985
 
 Renova a concessão outorgada à EMPRESA JORNAL DO COMÉRCIO S/A, e autoriza a transferência direta para a RÁDIOS JORNAL DO COMÉRCIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Recife, Estado de Pernambuco.

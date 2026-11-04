@@ -1,5 +1,3 @@
-###DEC-080026-0-000-26-07-1977@@@
-
 Decreto nº 80.026, de 26 de julho de 1977
 
 Concede reconhecimento aos cursos de Matemática e de Ciências Sociais, da Faculdade de Filosofia, Ciências e Letras de Teófilo Otoni, com sede na cidade de Teófilo Otoni, Estado de Minas Gerais.

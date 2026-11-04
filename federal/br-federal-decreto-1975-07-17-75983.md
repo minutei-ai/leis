@@ -1,5 +1,3 @@
-###DEC-075983-0-000-17-07-1975@@@
-
 DECRETO Nº 75.983 - DE 17 DE JULHO DE 1975.
 
 Concede reconhecimento aos cursos de História e de Geografia, da Faculdade de Filosofia, Ciências e Letras de Adamantina. Estado de São Paulo.

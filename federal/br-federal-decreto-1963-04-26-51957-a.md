@@ -1,5 +1,3 @@
-###DEC-051957-A-000-26-04-1963@@@
-
 decreto nº 51.957-A, de 26 de abril de 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, a ampliar suas instalações.

@@ -1,5 +1,3 @@
-###DEC-059280-0-000-23-09-1966@@@
-
 DECRETO Nº 59.280, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza a cessão, sob regime de aforamento, do terreno que menciona, situando no Estado do Rio de Janeiro.

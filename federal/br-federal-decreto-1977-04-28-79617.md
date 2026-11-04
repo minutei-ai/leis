@@ -1,5 +1,3 @@
-###DEC-079617-0-000-28-04-1977@@@
-
 DECRETO Nº 79.617, DE 28 DE ABRIL DE 1977.
 
 Concede a Minérios Industriais do Sul S.A - MINEL o direito de lavrar caulim no Município de Urussanga, Estado de Santa Catarina.

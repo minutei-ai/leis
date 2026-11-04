@@ -1,5 +1,3 @@
-###MPV-002059-0-000-08-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.059, DE 8 DE SETEMBRO DE 2000.
 
 Acresce disposições à Lei nº 4.348, de 26 de junho de 1964.

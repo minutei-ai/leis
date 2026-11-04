@@ -1,5 +1,3 @@
-###DEC-081622-0-000-03-05-1978@@@
-
 Decreto nº 81.622, de 03 de maio de 1978.
 
 Retifica a concessão de lavra outorgada à Companhia Siderúrgica Paulista - COSIPA pelo Decreto nº 78.795, de 22 de novembro de 1976.

@@ -1,5 +1,3 @@
-###DEC-047415-0-000-11-12-1959@@@
-
 DECRETO Nº 47.415, DE 11 DE Dezembro DE 1959.
 
 Altera a denominação de Henrique Lage da Agencia da Capitania dos Portos do Estado de Santa Catarina, para Imbituba.

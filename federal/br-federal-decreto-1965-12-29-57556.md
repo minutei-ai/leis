@@ -1,5 +1,3 @@
-###DEC-057556-0-000-29-12-1965@@@
-
 DECRETO Nº 57.556, DE 29 DE DEZEMBRO DE 1965.
 
 Abre crédito suplementar autorizado pela Lei n° 4.787, de 6-10-1965.

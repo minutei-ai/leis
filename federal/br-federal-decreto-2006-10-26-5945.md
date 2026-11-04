@@ -1,5 +1,3 @@
-###DEC-005945-0-000-26-10-2006@@@
-
 DECRETO Nº 5.945, DE 26 DE OUTUBRO DE 2006.
 
 Promulga o Memorando de Entendimento entre a República Federativa do Brasil e a República Argentina para o Estabelecimento de um Mecanismo Permanente de Intercâmbio de Informações sobre a Circulação e o Tráfico Ilícito de Armas de Fogo, Munições, Explosivos e outros Materiais Correlatos, celebrado em Buenos Aires, em 16 de outubro de 2003.
@@ -24,11 +22,7 @@ Brasília,  26 de  outubro  de 2006; 185o da Independência e 118o da Repúbl
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.10.2006
-
-MEMORANDO DE ENTENDIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA PARA O ESTABELECIMENTO DE UM MECANISMO PERMANENTE DE INTERCÂMBIO DE INFORMAÇÕES SOBRE A CIRCULAÇÃO E O TRÁFICO ILÍCITO DE ARMAS DE FOGO, MUNIÇÕES, EXPLOSIVOS E OUTROS MATERIAIS CORRELATOS
+        Celso Luiz Nunes AmorimMEMORANDO DE ENTENDIMENTO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA PARA O ESTABELECIMENTO DE UM MECANISMO PERMANENTE DE INTERCÂMBIO DE INFORMAÇÕES SOBRE A CIRCULAÇÃO E O TRÁFICO ILÍCITO DE ARMAS DE FOGO, MUNIÇÕES, EXPLOSIVOS E OUTROS MATERIAIS CORRELATOS
 
 A República Federativa do Brasil
 
@@ -90,4 +84,12 @@ Pela Parte brasileira serão autoridades de aplicação:
 
 Feito em Buenos Aires, República Argentina, em 16 de outubro de 2003, em dois originais, em português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:218.9pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">_________________________________ PELA REPÚBLICA FEDERATIVA DO BRASIL Celso Amorim Ministro das Relações Exteriores</span></p></td><td style="width:224.6pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">______________________________ PELA REPÚBLICA ARGENTINA Rafael Antonio Bielsa Ministro das Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:218.9pt; vertical-align:top">
+
+_________________________________ PELA REPÚBLICA FEDERATIVA DO BRASIL Celso Amorim Ministro das Relações Exteriores
+
+</td><td style="width:224.6pt; vertical-align:top">
+
+______________________________ PELA REPÚBLICA ARGENTINA Rafael Antonio Bielsa Ministro das Relações Exteriores
+
+</td></tr></tbody></table>

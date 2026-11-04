@@ -1,5 +1,3 @@
-###DEL-004195-0-000-24-03-1942@@@
-
 DECRETO-LEI N. 4.195 – DE 24 DE MARÇO DE 1942
 
 Torna sem aplicação 37:000$0, em dotação orçamentária do Ministério da Educação e Saude e abre o crédito especial de igual importância.

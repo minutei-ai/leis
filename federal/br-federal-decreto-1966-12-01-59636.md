@@ -1,5 +1,3 @@
-###DEC-059636-0-000-01-12-1966@@@
-
 DECRETO Nº 59.636, DE 1º DE DEZEMBRO DE 1966.
 
 Renova o decreto nº 1.090, de 30 de maio de 1962.

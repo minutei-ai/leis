@@ -1,5 +1,3 @@
-###DEC-005042-0-000-08-04-2004@@@
-
 DECRETO Nº 5.042,  DE 8 DE ABRIL DE 2004
 
 Acresce alínea ao inciso I do art. 1º do Decreto nº 1.422, de 20 de março de 1995, que dispõe sobre a composição e o funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial - CONMETRO.

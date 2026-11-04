@@ -1,5 +1,3 @@
-###DEC-059641-0-000-02-12-1966@@@
-
 DECRETO Nº 59.641, DE 2 DE DEZEMBRO de 1966.
 
 Ministério da Fazenda. Abertura de crédito especial de Cr$107.699, destinado ao pagamento de servidores do Instituto Nacional de Educação de Surdos, do Ministério da Educação e Cultura.

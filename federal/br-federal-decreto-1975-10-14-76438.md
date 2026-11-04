@@ -1,5 +1,3 @@
-###DEC-076438-0-000-14-10-1975@@@
-
 DECRETO Nº 76.438, DE 14 DE OUTUBRO DE 1975.
 
 Autoriza o aterro de área em mar e a cessão, sob o regime de aforameto, do terreno que menciona, situado no Município de Simões Filho, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099131-0-000-09-03-1990@@@
-
 DECRETO Nº 99.131, DE 9 DE MARÇO DE 1990
 
 Renova a concessão outorgada a Socie­dade RÁDIO DA PARAÍBA LTDA. para explorar serviço de radiodifusão sonora em onda mé­dia, na Cidade de Campina Grande, Estado da Paraíba.

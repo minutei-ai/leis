@@ -1,14 +1,12 @@
-###LEI-000208-0-000-31-12-1947@@@
+**LEI N. 208 – DE 31 DE DEZEMBRO DE 1947**
 
-<strong>LEI N. 208 – DE 31 DE DEZEMBRO DE 1947</strong>
-
-<em><strong>Distribui crédito consignado ao Ministério da Educação e Saúde, na Verba 3-1-06-01-30-19 “a”, do orçamento vigente e dá outras providências.</strong></em>
+***Distribui crédito consignado ao Ministério da Educação e Saúde, na Verba 3-1-06-01-30-19 “a”, do orçamento vigente e dá outras providências.***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional, decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º São aprovados os projetos e orçamentos constantes da Exposição de Motivos n. 83, de 30 de junho de 1947, do Ministério da Educação e Saúde, referente à distribuição do crédito de Cr$ 3.370.000,00 (três milhões, trezentos e setenta mil cruzeiros), consignado na Verba 3 – I – 06 – 01 – 30 – 19 “a”, destinada a auxílios a instituições particulares, para construção e instalação de Preventórios a filhos sadios de Lázaros, de acôrdo com a, seguinte discriminação:
+**Art.** 1º São aprovados os projetos e orçamentos constantes da Exposição de Motivos n. 83, de 30 de junho de 1947, do Ministério da Educação e Saúde, referente à distribuição do crédito de Cr$ 3.370.000,00 (três milhões, trezentos e setenta mil cruzeiros), consignado na Verba 3 – I – 06 – 01 – 30 – 19 “a”, destinada a auxílios a instituições particulares, para construção e instalação de Preventórios a filhos sadios de Lázaros, de acôrdo com a, seguinte discriminação:
 
 I – OBRAS E SERVIÇOS
 
@@ -18,7 +16,7 @@ Preventório de Rio Branco – Acre:
 
 Terminação de obras ......................................................................................  45.000,00
 
-Postes, arame farpado e tela Page para cêrcas ............................................. <u>20.500,00</u>                 65.500,00
+Postes, arame farpado e tela Page para cêrcas ............................................. 20.500,00                 65.500,00
 
 Preventório de Cruzeiro do Sul – Acre:
 
@@ -28,13 +26,13 @@ Terminação do Pavilhão Central ..............................................
 
 Grupo Motor Gerador ........................................................................................ 45.800,00
 
-Serviço de Águas ............................................................................................. <u>35.628,00</u>                568.432,80
+Serviço de Águas ............................................................................................. 35.628,00                568.432,80
 
 Preventório de Manaus – Amazonas:
 
                                                                                                                                  Cr$                          Cr$
 
-Pavilhão Jardim de Infância ............................................................................. <u>135.622,80</u>             135\. 622,80
+Pavilhão Jardim de Infância ............................................................................. 135.622,80             135\. 622,80
 
 Preventório de Belém – Pará:
 
@@ -44,7 +42,7 @@ Pintura em cinco prédios ......................................................
 
 Motor Gerador para luz e fôrça .......................................................................... 65.500,00
 
-Fogão ................................................................................................................. <u>15.000,00</u>              100.000,00
+Fogão ................................................................................................................. 15.000,00              100.000,00
 
 Preventório de Parnaíba – Piauí:
 
@@ -54,19 +52,19 @@ Pavilhão Oficinas .............................................................
 
 Pinturas .............................................................................................................. 42.000,00
 
-Colocação de 4 caixas de água .........................................................................  <u>8.000,00</u>               110.000,00
+Colocação de 4 caixas de água .........................................................................  8.000,00               110.000,00
 
 Preventório de Fortaleza – Ceará:
 
                                                                                                                                   Cr$                      Cr$
 
-Lavanderia .......................................................................................................... <u>68.107,00</u>               68.107,00
+Lavanderia .......................................................................................................... 68.107,00               68.107,00
 
 Preventório de Natal – Rio G. do Norte:
 
                                                                                                                                    Cr$                       Cr$
 
-Recreio coberto ................................................................................................... <u>70.873,00</u>               70.873,00
+Recreio coberto ................................................................................................... 70.873,00               70.873,00
 
 Preventório de Recife – Pernambuco:
 
@@ -74,13 +72,13 @@ Preventório de Recife – Pernambuco:
 
 Aumento da cozinha ............................................................................................ 49.422,10
 
-Construção de fossa ............................................................................................ <u>10.875,70</u>              60.297,80
+Construção de fossa ............................................................................................ 10.875,70              60.297,80
 
 Preventório de Maceió – Alagoas:
 
                                                                                                                                    Cr$                       Cr$
 
-Pavilhão Oficinas ................................................................................................. <u>60.000,00</u>              60.000,00
+Pavilhão Oficinas ................................................................................................. 60.000,00              60.000,00
 
 Preventório de Salvador – Bahia:
 
@@ -90,7 +88,7 @@ Aviário para poedeiras ........................................................
 
 Aviário para pintos .............................................................................................. 11.125,70
 
-Pinturas ............................................................................................................... <u>22.000,00</u>               48.975,70
+Pinturas ............................................................................................................... 22.000,00               48.975,70
 
 Preventório de Vitória – Espírito Santo:
 
@@ -102,7 +100,7 @@ Serviço de água...............................................................
 
 Cêrcas (pasto e aviário)........................................................................................ 29.100,00
 
-Pinturas................................................................................................................. <u>29.940,00</u>            100.040,00
+Pinturas................................................................................................................. 29.940,00            100.040,00
 
 Preventório de Niterói – Estado do Rio:
 
@@ -114,25 +112,25 @@ Aviário para poedeiras.........................................................
 
 Aviário para pintos ................................................................................................ 11.125,70
 
-Banheiro, WC., e depósito de ferramentas............................................................ <u>15.000,00</u>           107.400,50
+Banheiro, WC., e depósito de ferramentas............................................................ 15.000,00           107.400,50
 
 Preventório do Distrito Federal:
 
                                                                                                                                     Cr$                      Cr$
 
-Pavilhão de Observação ..................................................................................... <u>299.992,20</u>           299.992,20
+Pavilhão de Observação ..................................................................................... 299.992,20           299.992,20
 
 Preventório de Belo Horizonte – Minas Gerais:
 
                                                                                                                                      Cr$                      Cr$
 
-Continuação da Creche ....................................................................................... <u>277.952,80</u>          277.952,80
+Continuação da Creche ....................................................................................... 277.952,80          277.952,80
 
 Preventório de Juiz de Fora – Minas Gerais:
 
       Cr$                     Cr$
 
-Terminação do Pavilhão para dormitório para moças .......................................... <u>276.404,90</u>         276.404,90
+Terminação do Pavilhão para dormitório para moças .......................................... 276.404,90         276.404,90
 
 Preventório de Varginha – Minas Gerais:
 
@@ -144,19 +142,19 @@ Banheiro, WC. e depósito para ferramentas......................................
 
 Pinturas.................................................................................................................. 40.000,00
 
-Fogão .................................................................................................................... <u>13.000,00</u>           218.000,00
+Fogão .................................................................................................................... 13.000,00           218.000,00
 
 Preventório de São Paulo:
 
                                                                                                                                      Cr$                      Cr$
 
-Continuação de obras.......................................................................................... <u>250.000,00</u>           250.000,00
+Continuação de obras.......................................................................................... 250.000,00           250.000,00
 
 Preventório de Curitiba – Paraná:
 
                                                                                                                                      Cr$                       Cr$
 
-Casa para funcionários rurais................................................................................ <u>65.424,80</u>     65.424,80
+Casa para funcionários rurais................................................................................ 65.424,80     65.424,80
 
 Preventório de Goiânia – Goiás:
 
@@ -208,33 +206,33 @@ Preventório de Varginha – Minas gerais.......................................
 
 Preventório de Pôrto Alegre –  R. G. do Sul .......................................................................................10.000,00
 
-Preventório de Goiânia – Goiás ......................................................................................................... <u>25.000,00</u>
+Preventório de Goiânia – Goiás ......................................................................................................... 25.000,00
 
-Soma ............................................................................................................................................. <u>3.370.000,00</u>
+Soma ............................................................................................................................................. 3.370.000,00
 
-<strong>Art.</strong> 2º Os auxílios serão distribuídos por intermédio da Federação das Sociedades da Assistência aos Lázaros e Defesa Contra a Lepra.
+**Art.** 2º Os auxílios serão distribuídos por intermédio da Federação das Sociedades da Assistência aos Lázaros e Defesa Contra a Lepra.
 
-<strong>Art.</strong> 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 3º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 31 de dezembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clemente Mariani.
 
 Corrêa e Castro.
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>O CONGRESSO NACIONAL DECRETA, NOS TÊRMOS DO ARTIGO 66, ITEM I, DA CONSTITUIÇÃO FEDERAL E EU, FERNANDO DE MELLO VIANNA, VICE-PRESIDENTE DO SENADO FEDERAL, PROMULGO O SEGUINTE</strong></span></span></h1>
+# **O CONGRESSO NACIONAL DECRETA, NOS TÊRMOS DO ARTIGO 66, ITEM I, DA CONSTITUIÇÃO FEDERAL E EU, FERNANDO DE MELLO VIANNA, VICE-PRESIDENTE DO SENADO FEDERAL, PROMULGO O SEGUINTE**
 
-<h2 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>DECRETO LEGISLATIVO Nº 6, de 1947</em></span></span></h2>
+## *DECRETO LEGISLATIVO Nº 6, de 1947*
 
-<strong>Art.</strong> 1º E’ aprovado o Acôrdo firmado na Conferência de Neuchatel, Suíça, em 8 de fevereiro de 1947, referente à conservação ou restauração dos direitos de propriedade industrial, atingidos pela segunda guerra mundial.
+**Art.** 1º E’ aprovado o Acôrdo firmado na Conferência de Neuchatel, Suíça, em 8 de fevereiro de 1947, referente à conservação ou restauração dos direitos de propriedade industrial, atingidos pela segunda guerra mundial.
 
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Senado Federal, em 30 de dezembro de 1947. – Fernando de Mello Vianna.
 
-<h3 style="margin-top:6pt;font-weight:normal;font-style:normal"><span style="font-size:1.2em"><span><strong>CONFERÊNCIA DE NEUCHATEL</strong></span></span></h3>
+### **CONFERÊNCIA DE NEUCHATEL**
 
 Acôrdo referente à conservação ou à restauração dos direitos de propriedade industrial atingidos pela segunda Guerra Mundial.
 

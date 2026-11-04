@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a328db9d-1bb2-4d66-b29d-416e93ab47fa/texto#nowhere)
 
-###MPV-001603-0-000-27-11-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.603, DE 27 DE NOVEMBRO DE 1997
 
 Acresce parágrafos ao art. 18 da Lei nº 9.293, de 15 de julho de 1996, que dispõe sobre as diretrizes para a elaboração da lei orçamentária para o exercício de 1997.

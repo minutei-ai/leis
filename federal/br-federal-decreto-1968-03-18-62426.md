@@ -1,5 +1,3 @@
-###DEC-062426-0-000-18-03-1968@@@
-
 DECRETO Nº 62.426, DE 18 DE MARÇO DE 1968.
 
 Dispõe sôbre o provimento de vagas nas classes da carreira de Diplomata.

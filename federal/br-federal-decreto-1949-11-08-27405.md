@@ -1,14 +1,12 @@
-###DEC-027405-0-000-08-11-1949@@@
+**DECRETO N° 27.405, DE 8 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO N° 27.405, DE 8 DE NOVEMBRO DE 1949.</strong>
+***Declara de utilidade pública e autoriza a companhia de Carris, Luz e Fôrça do Rio de Janeiro LTDA. a promover a desapropriação de diversas áreas de térreas necessárias à execução das obras para ampliação do aproveitamento realizado pela Companhia de Carris, Luz e Fôrça do Rio de Janeiro LTDA., na usina de Ribeirão das Lajes.***
 
-<em><strong>Declara de utilidade pública e autoriza a companhia de Carris, Luz e Fôrça do Rio de Janeiro LTDA. a promover a desapropriação de diversas áreas de térreas necessárias à execução das obras para ampliação do aproveitamento realizado pela Companhia de Carris, Luz e Fôrça do Rio de Janeiro LTDA., na usina de Ribeirão das Lajes.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu e Companhia Carris, Luz e Fôrça do Rio de Janeiro LTDA. e o disposto no artigo 151, item b, do Código de Águas, bem como os preceitos aplicáveis do Decreto-lei n° 3.365, de 21 de junho de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o que requereu e Companhia Carris, Luz e Fôrça do Rio de Janeiro LTDA. e o disposto no artigo 151, item b, do Código de Águas, bem como os preceitos aplicáveis do Decreto-lei n° 3.365, de 21 de junho de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as áreas de terra necessárias à execução das obras para ampliação do aproveitamento hidro-elétrico de Ribeirão das Lajes, de acôrdo com os decretos ns. 18.588, de 11 de maio de 1945, e 20.657, de 26 de fevereiro de 1946, constantes das plantas aprovadas pelo Ministro da Agricultura, de ns. 34.882, 34.883, 34.893, 34.894, 34.901 e seguintes:
+**Art**. 1º Ficam declaradas de utilidade pública as áreas de terra necessárias à execução das obras para ampliação do aproveitamento hidro-elétrico de Ribeirão das Lajes, de acôrdo com os decretos ns. 18.588, de 11 de maio de 1945, e 20.657, de 26 de fevereiro de 1946, constantes das plantas aprovadas pelo Ministro da Agricultura, de ns. 34.882, 34.883, 34.893, 34.894, 34.901 e seguintes:
 
 1 - Áreas de terra indicadas na planta número 34.882, com o total de 450.160 (quatrocentos e cinqüenta mil, cento e sessenta) metros quadrados, e de propriedade atribuída a Otávio Teixeira Campos;
 
@@ -148,12 +146,12 @@
 
 69 - Área de terra indicada na planta número 34.901, com 4.450(quatro mil quatrocentos e cinqüenta) metros quadrados e de propriedade atribuída ao Dr. Stelio Galvão Bueno ou quem de direito;
 
-<strong>Art</strong>. 2º A Companhia de Carris, Luz e Fôrça do Rio de Janeiro Ltda. fica autorizada a promover a desapropriação da referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º A Companhia de Carris, Luz e Fôrça do Rio de Janeiro Ltda. fica autorizada a promover a desapropriação da referidas áreas de terra, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
 Rio de janeiro, 8 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

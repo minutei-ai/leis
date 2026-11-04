@@ -1,5 +1,3 @@
-###DEC-055080-0-000-25-11-1964@@@
-
 DECRETO Nº 55.080, DE 25 DE NOVEMBRO DE 1964.
 
 Autoriza a cessão gratuita ao Estado da Guanabara do terreno que menciona.

@@ -12,8 +12,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 26 de setembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -909,8 +907,6 @@ CLÁUSULA QUINQUAGÉSIMA QUINTA – DO FORO
 Eventuais controvérsias sobre este instrumento serão dirimidas perante o Supremo Tribunal Federal, nos termos do artigo 102, inciso I, alínea “f”, da Constituição Federal.
 
 Vitória, 25 de janeiro de 2022.
-
-<br>
 
 Gladson de Lima Cameli
 

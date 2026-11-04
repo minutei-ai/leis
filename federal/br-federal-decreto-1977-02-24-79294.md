@@ -1,5 +1,3 @@
-###DEC-079294-0-000-24-02-1977@@@
-
 DECRETO Nº 79.294, DE 24 de FEVEREIRO DE 1977.
 
 Confisca bens pertencentes a Ernesto Dias Loureiro Filho e dá outras providências.

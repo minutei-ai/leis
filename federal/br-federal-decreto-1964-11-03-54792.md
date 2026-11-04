@@ -1,5 +1,3 @@
-###DEC-054792-0-000-03-11-1964@@@
-
 DECRETO Nº 54.792, DE 3 DE novembrO DE 1964.
 
 Autoriza o cidadão brasileiro Otávio Mortati a pesquisar água mineral, no município de Presidente Prudente, Estado de São Paulo.

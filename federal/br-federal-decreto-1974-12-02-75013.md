@@ -1,5 +1,3 @@
-###DEC-075013-0-000-02-12-1974@@@
-
 DECRETO Nº 75.013, DE 2 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação de Araraquara, mantida pela Associação São Bento de Ensino, com sede na cidade de Araraquara, Estado de São Paulo.

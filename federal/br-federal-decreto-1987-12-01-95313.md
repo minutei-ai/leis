@@ -1,5 +1,3 @@
-###DEC-095313-0-000-01-12-1987@@@
-
 DECRETO Nº 95.313, DE 1º DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Instituto de Tecnologia de Governador Valadares, Minas Gerais.

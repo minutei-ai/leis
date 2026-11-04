@@ -1,5 +1,3 @@
-###DEC-083787-0-000-30-07-1979@@@
-
 Decreto nº 83.787, de 30 de julho de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Grajaú, Estado do Maranhão.

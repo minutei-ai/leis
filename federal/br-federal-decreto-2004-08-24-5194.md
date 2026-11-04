@@ -1,5 +1,3 @@
-###DEC-005194-0-000-24-08-2004@@@
-
 DECRETO Nº 5.194 DE 24 DE AGOSTO DE 2004
 
 Dá nova redação ao art. 3º do Decreto nº 3.500, de 9 de junho de 2000, que dispõe sobre a Comissão Nacional de Classificação - CONCLA.

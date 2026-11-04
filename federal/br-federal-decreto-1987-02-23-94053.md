@@ -1,5 +1,3 @@
-###DEC-094053-0-000-23-02-1987@@@
-
 DECRETO N° 94.053, DE 23 DE FEVEREIRO DE 1987
 
 Revoga o artigo 30 do Decreto n ° 74.170, de 10 de junho de 1974, que regulamenta a Lei n° 5.991, de 17 de dezembro de 1973, que dispõe sobre o controle sanitário do comércio de drogas, medicamentos, insumos farmacêuticos e correlatos.

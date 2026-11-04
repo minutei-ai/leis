@@ -1,5 +1,3 @@
-###DEL-004480-0-000-15-07-1942@@@
-
 DECRETO-LEI N. 4.480 – DE 15 DE JULHO DE 1942
 
 Dispõe sobre o limite de ações preferenciais emitidas pelas sociedades a que se refere o decreto-lei n. 852, de 1938

@@ -1,5 +1,3 @@
-###DEC-086849-0-000-13-01-1982@@@
-
 DECRETO Nº 86.849, DE 13 DE JANEIRO DE 1982
 
 Concede à Companhia Siderúrgica Nacional - CSN autorização para proceder a aumento do seu Capital Social.

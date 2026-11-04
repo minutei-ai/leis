@@ -1,7 +1,3 @@
-1
-
-###DEC-085828-0-000-19-03-1981@@@
-
 DECRETO Nº 85.828, DE 19 DE MARÇO DE 1981.
 
 Autoriza o funcionamento dos cursos de Administração, de Ciências Econômicas e de Ciências Contábeis, da Faculdade de Administração, Ciências Econômicas e Contábeis de Natal, Estado do Rio Grande do Norte.

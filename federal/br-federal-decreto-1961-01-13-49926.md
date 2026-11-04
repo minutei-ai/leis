@@ -1,5 +1,3 @@
-###DEC-049926-0-000-13-01-1961@@@
-
 DECRETO Nº 49.926, DE 13 DE JANEIRO DE 1961.
 
 Concede à Argilas especiais “Aresa” Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-061718-0-000-22-11-1967@@@
-
 DECRETO Nº 61.718, DE 22 DE NOVEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Prefeitura Municipal de Mutum, no distrito sede do município de Mutum, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S.A., no município de Mutum, Estado de Minas Gerais e dá outras providências.

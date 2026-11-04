@@ -1,6 +1,6 @@
 > **LEI Nº 3.205, DE 21 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2017.</span></span></span></p></td></tr></tbody></table>
+Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2017.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -18,7 +18,7 @@ III – o orçamento de Investimento das Empresas em que o Estado detenha a maio
 
 **Art. 3°** A receita estimada decorrerá da arrecadação de tributos e de outras receitas correntes e de capital, na forma da legislação vigente, discriminada nos quadros anexos a esta lei e que apresenta o seguinte desdobramento:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>&nbsp;</span></span></p><p><span><span>Discriminação das Receitas</span></span></p></td><td><p><span><span>R$1,00</span></span></p></td></tr><tr><td><p><span><strong><span>Receitas</span></strong></span></p></td><td><p><span><strong><span>Valor</span></strong></span></p></td></tr><tr><td colspan="2"><p><span><span>1 - RECURSOS PRÓPRIOS DO TESOURO – Estimativa da Receita</span></span></p></td></tr><tr><td><p><span><span>1.1 - Receitas Correntes</span></span></p></td><td><p><span><span>4.402.615.010,62</span></span></p></td></tr><tr><td><p><span><span>1.1.1 - Receita Tributária</span></span></p></td><td><p><span><span>1.308.059.558,03</span></span></p></td></tr><tr><td><p><span><span>1.1.2 - Receita Patrimonial</span></span></p></td><td><p><span><span>32.333.446,09</span></span></p></td></tr><tr><td><p><span><span>1.1.3 - Receita de Serviços</span></span></p></td><td><p><span><span>1,00&nbsp;</span></span></p></td></tr><tr><td><p><span><span>1.1.4 - Transferências Correntes</span></span></p></td><td><p><span><span>2.684.333.985,00</span></span></p></td></tr><tr><td><p><span><span>1.1.5 - Outras Receitas Correntes</span></span></p></td><td><p><span><span>377.888.020,50</span></span></p></td></tr><tr><td><p><span><span>1.2 - Dedução das Receitas Correntes (FUNDEB)</span></span></p></td><td><p><span><span>- 691.957.496,50</span></span></p></td></tr><tr><td><p><span><strong><span>Sub-total</span></strong></span></p></td><td><p><span><strong><span>3.710.657.514,12</span></strong></span></p></td></tr><tr><td colspan="2"><p><span><span>2 - RECURSOS DE OUTRAS FONTES: Convênios, Recursos Próprios das Indiretas, Operações de Crédito, SUS, FUNDEB e Receitas Previdenciárias.</span></span></p></td></tr><tr><td><p><span><span>2.1 – Receitas Correntes</span></span></p></td><td><p><span><span>1.147.770.451,57</span></span></p></td></tr><tr><td><p><span><span>2.1.1 – Receitas Tributárias</span></span></p></td><td><p><span><span>26.423.170,36</span></span></p></td></tr><tr><td><p><span><span>2.1.2 – Receitas de Contribuições</span></span></p></td><td><p><span><span>141.813.191,30</span></span></p></td></tr><tr><td><p><span><span>2.1.3 – Receita Patrimonial</span></span></p></td><td><p><span><span>15.057.282,60</span></span></p></td></tr><tr><td><p><span><span>2.1.4 – Receita Agropecuária</span></span></p></td><td><p><span><span>400.000,00</span></span></p></td></tr><tr><td><p><span><span>2.1.5 – Receita Industrial</span></span></p></td><td><p><span><span>200.000,00</span></span></p></td></tr><tr><td><p><span><span>2.1.6 – Receita de Serviços</span></span></p></td><td><p><span><span>104.223.916,99</span></span></p></td></tr><tr><td><p><span><span>2.1.7 – Transferências Correntes</span></span></p></td><td><p><span><span>810.054.704,29</span></span></p></td></tr><tr><td><p><span><span>2.1.8 – Outras Receitas Correntes</span></span></p></td><td><p><span><span>49.598.186,03</span></span></p></td></tr><tr><td><p><span><span>2.2 – Receita Intra-orçamentária</span></span></p></td><td><p><span><span>338.119.334,91</span></span></p></td></tr><tr><td><p><span><span>2.3 – Receitas de Capital</span></span></p></td><td><p><span><span>468.261.582,79</span></span></p></td></tr><tr><td><p><span><span>2.2.1 – Operações de Crédito</span></span></p></td><td><p><span><span>339.456.356,69</span></span></p></td></tr><tr><td><p><span><span>2.2.3 – Transferências de Capital</span></span></p></td><td><p><span><span>128.805.226,10</span></span></p></td></tr><tr><td><p><span><span>2.4 - Dedução dos Investimentos do RPPS</span></span></p></td><td><p><span><span>- 8.000,00</span></span></p></td></tr><tr><td><p><span><strong><span>Sub-total</span></strong></span></p></td><td><p><span><strong><span>1.954.143.369,27</span></strong></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> &nbsp; Discriminação das Receitas </td><td> R$1,00 </td></tr><tr><td> **Receitas** </td><td> **Valor** </td></tr><tr><td colspan="2"> 1 - RECURSOS PRÓPRIOS DO TESOURO – Estimativa da Receita </td></tr><tr><td> 1.1 - Receitas Correntes </td><td> 4.402.615.010,62 </td></tr><tr><td> 1.1.1 - Receita Tributária </td><td> 1.308.059.558,03 </td></tr><tr><td> 1.1.2 - Receita Patrimonial </td><td> 32.333.446,09 </td></tr><tr><td> 1.1.3 - Receita de Serviços </td><td> 1,00&nbsp; </td></tr><tr><td> 1.1.4 - Transferências Correntes </td><td> 2.684.333.985,00 </td></tr><tr><td> 1.1.5 - Outras Receitas Correntes </td><td> 377.888.020,50 </td></tr><tr><td> 1.2 - Dedução das Receitas Correntes (FUNDEB) </td><td> - 691.957.496,50 </td></tr><tr><td> **Sub-total** </td><td> **3.710.657.514,12** </td></tr><tr><td colspan="2"> 2 - RECURSOS DE OUTRAS FONTES: Convênios, Recursos Próprios das Indiretas, Operações de Crédito, SUS, FUNDEB e Receitas Previdenciárias. </td></tr><tr><td> 2.1 – Receitas Correntes </td><td> 1.147.770.451,57 </td></tr><tr><td> 2.1.1 – Receitas Tributárias </td><td> 26.423.170,36 </td></tr><tr><td> 2.1.2 – Receitas de Contribuições </td><td> 141.813.191,30 </td></tr><tr><td> 2.1.3 – Receita Patrimonial </td><td> 15.057.282,60 </td></tr><tr><td> 2.1.4 – Receita Agropecuária </td><td> 400.000,00 </td></tr><tr><td> 2.1.5 – Receita Industrial </td><td> 200.000,00 </td></tr><tr><td> 2.1.6 – Receita de Serviços </td><td> 104.223.916,99 </td></tr><tr><td> 2.1.7 – Transferências Correntes </td><td> 810.054.704,29 </td></tr><tr><td> 2.1.8 – Outras Receitas Correntes </td><td> 49.598.186,03 </td></tr><tr><td> 2.2 – Receita Intra-orçamentária </td><td> 338.119.334,91 </td></tr><tr><td> 2.3 – Receitas de Capital </td><td> 468.261.582,79 </td></tr><tr><td> 2.2.1 – Operações de Crédito </td><td> 339.456.356,69 </td></tr><tr><td> 2.2.3 – Transferências de Capital </td><td> 128.805.226,10 </td></tr><tr><td> 2.4 - Dedução dos Investimentos do RPPS </td><td> - 8.000,00 </td></tr><tr><td> **Sub-total** </td><td> **1.954.143.369,27** </td></tr></tbody></table>
 
 **Art. 4°** A despesa total, do mesmo valor da receita total, é fixada da seguinte maneira:
 
@@ -958,7 +958,389 @@ R$ 1,00
 
  |
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span>715.404 - Companhia de Colonização do Estado do Acre - COLONACRE - Em liquidação</span></p></td><td><p><span><span>20.000,00</span></span></p></td><td><p><span><span>4.500,00</span></span></p></td><td><p><span><span>24.500,00</span></span></p></td></tr><tr><td><p><span><span>715.503 - Empresa de Processamento de Dados – ACREDATA</span></span></p></td><td><p><span><span>9.039.386,48</span></span></p></td><td><p><span><span>1.000,00</span></span></p></td><td><p><span><span>9.040.386,48</span></span></p></td></tr><tr><td><p><span><span>715.504 - Companhia Industrial de Laticínios do Acre - CILA</span></span></p></td><td><p><span><span>2.505.496,33</span></span></p></td><td><p><span><span>10.000,00</span></span></p></td><td><p><span><span>2.515.496,33</span></span></p></td></tr><tr><td><p><span><span>715.510 - Banco do Estado do Acre - BANACRE - Em liquidação</span></span></p></td><td><p><span><span>1.158.371,52</span></span></p></td><td><p><span><span>5.063,21</span></span></p></td><td><p><span><span>1.163.434,73</span></span></p></td></tr><tr><td><p><span><span>717 - Secretaria de Estado de Educação e Esporte- SEE</span></span></p></td><td><p><span><span>242.874.911,44</span></span></p></td><td><p><span><span>568.595.620,06</span></span></p></td><td><p><span><span>811.470.531,50</span></span></p></td></tr><tr><td><p><span><span>717.212 - Instituto Dom Moacir Grecchi - IDM&nbsp;</span></span></p></td><td><p><span><span>4.867.482,06</span></span></p></td><td><p><span><span>29.717.185,68</span></span></p></td><td><p><span><span>34.584.667,74</span></span></p></td></tr><tr><td><p><span><span>717.303 - Fundação Elias Mansour – FEM</span></span></p></td><td><p><span><span>5.060.000,00</span></span></p></td><td><p><span><span>3.499.700,00</span></span></p></td><td><p><span><span>8.559.700,00</span></span></p></td></tr><tr><td><p><span><span>717.306 – Fundação. FDRHCD</span></span></p></td><td><p><span><span>1,00</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>-</span></span></p></td></tr><tr><td><p><span><span>719 - Secretaria de Estado de Segurança Pública – SESP</span></span></p></td><td><p><span><span>6.409.500,00&nbsp;</span></span></p></td><td><p><span><span>8.001.001,00&nbsp;</span></span></p></td><td><p><span><span>14.410.501,00</span></span></p></td></tr><tr><td><p><span><span>719.204 – Departamento Estadual de Trânsito – DETRAN</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>52.212.112,60</span></span></p></td><td><p><span><span>52.212.112,60</span></span></p></td></tr><tr><td><p><span><span>720 - Secretaria de Estado de Meio Ambiente – SEMA</span></span></p></td><td><p><span><span>250.000,00</span></span></p></td><td><p><span><span>40.922.758,26</span></span></p></td><td><p><span><span>41.172.758,26</span></span></p></td></tr><tr><td><p><span><span>720.202 – Instituto de Meio Ambiente do Acre – IMAC</span></span></p></td><td><p><span><span>500.000,00</span></span></p></td><td><p><span><span>2.708.944,05</span></span></p></td><td><p><span><span>3.208.944,05</span></span></p></td></tr><tr><td><p><span><span>720.206 – Instituto de Terras do Acre – ITERACRE</span></span></p></td><td><p><span><span>150.000,00</span></span></p></td><td><p><span><span>8.637.002,00</span></span></p></td><td><p><span><span>8.787.002,00</span></span></p></td></tr><tr><td><p><span><span>720.215– Instituto de Mudanças Climáticas e Regulação de Serviços Ambientais - IMC</span></span></p></td><td><p><span><span>30.000,00</span></span></p></td><td><p><span><span>2.390.000,00</span></span></p></td><td><p><span><span>2.420.000,00</span></span></p></td></tr><tr><td><p><span><span>720.512 – Companhia de Desenvolvimento e Serviços Ambientais - CDSA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>1.141.123,13</span></span></p></td><td><p><span><span>1.141.123,13</span></span></p></td></tr><tr><td><p><span><span>721 - Secretaria de Estado de Saúde – SESACRE</span></span></p></td><td><p><span><span>130.560.000,00</span></span></p></td><td><p><span><span>232.809.540,00</span></span></p></td><td><p><span><span>363.369.540,00</span></span></p></td></tr><tr><td><p><span><span>721.302 – Fundação Hospitalar do Acre – FUNDHACRE&nbsp;</span></span></p></td><td><p><span><span>4.310.000,00</span></span></p></td><td><p><span><span>50.132.119,76</span></span></p></td><td><p><span><span>54.442.119,76</span></span></p></td></tr><tr><td><p><span><span>722 - Secretaria de Estado Desenvolvimento Social – SEDS</span></span></p></td><td><p><span><span>3.925.000,00</span></span></p></td><td><p><span><span>5.970.000,00</span></span></p></td><td><p><span><span>9.895.000,00</span></span></p></td></tr><tr><td><p><span><span>722.304 – Fundação do Bem-estar Social do Acre – FUNBESA</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>1,00</span></span></p></td><td><p><span><span>1,00</span></span></p></td></tr><tr><td><p><span><span>732 – Secretaria de Estado de Agropecuária – SEAP</span></span></p></td><td><p><span><span>400.000,00</span></span></p></td><td><p><span><span>8.848.217,42</span></span></p></td><td><p><span><span>9.248.217,42</span></span></p></td></tr><tr><td><p><span><span>732.207 – Instituto de Defesa Agropecuária e Florestal – IDAF</span></span></p></td><td><p><span><span>50.000,00</span></span></p></td><td><p><span><span>2.899.754,40&nbsp;</span></span></p></td><td><p><span><span>2.949.754,40</span></span></p></td></tr><tr><td><p><span><span>744 – Secretaria de Estado de Articulação Institucional – SAI</span></span></p></td><td><p><span><span>120.000,00</span></span></p></td><td><p><span><span>250.000,00</span></span></p></td><td><p><span><span>370.000,00</span></span></p></td></tr><tr><td><p><span><span>751 – Secretaria de Estado de Turismo e Lazer – SETUL&nbsp;</span></span></p></td><td><p><span><span>600.000,00&nbsp;</span></span></p></td><td><p><span><span>600.000,00&nbsp;</span></span></p></td><td><p><span><span>1.200.000,00</span></span></p></td></tr><tr><td><p><span><span>752 - Secretaria de Estado de Desenvolvimento da Indústria, do Comércio e dos Serviços Sustentáveis – SEDENS</span></span></p></td><td><p><span><span>800.000,00</span></span></p></td><td><p><span><span>17.347.815,00</span></span></p></td><td><p><span><span>18.147.815,00</span></span></p></td></tr><tr><td><p><span><span>752 – 205 – Junta Comercial do Estado do Acre – JUCEAC</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>2.815.000,00</span></span></p></td><td><p><span><span>2.815.000,00</span></span></p></td></tr><tr><td><p><span><span>752.214 – Institutos de Pesos e Medidas do Estado do Acre – IPEM</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>992.000,00</span></span></p></td><td><p><span><span>992.000,00</span></span></p></td></tr><tr><td><p><span><span>752.506 - Agência de Negócios do Acre – ANAC</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>3.000,00</span></span></p></td><td><p><span><span>3.000,00</span></span></p></td></tr><tr><td><p><span><span>752.511 - Administradora da Zona de Processamento de Exportação do Acre - AZPE</span></span></p></td><td><p><span><span>4,00</span></span></p></td><td><p><span><span>-</span></span></p></td><td><p><span><span>4,00</span></span></p></td></tr><tr><td><p><span><span>753 - Secretaria de Estado de Extensão Agroflorestal e Produção Familiar – SEAPROF</span></span></p></td><td><p><span><span>1.100.000,00</span></span></p></td><td><p><span><span>43.771.381,77</span></span></p></td><td><p><span><span>44.871.381,77</span></span></p></td></tr><tr><td><p><span><span>753.401 – Companhia de Armazéns e Entrepostos do Acre - CAGEACRE</span></span></p></td><td><p><span><span>11.866.651,50</span></span></p></td><td><p><span><span>178.000,00&nbsp;</span></span></p></td><td><p><span><span>12.044.651,50</span></span></p></td></tr><tr><td><p><span><span>753.402 – Empresa de Assistência Técnica e Extensão Rural do Acre - EMATER</span></span></p></td><td><p><span><span>23.762.617,16</span></span></p></td><td><p><span><span>10.000.000,00</span></span></p></td><td><p><span><span>33.762.617,16</span></span></p></td></tr><tr><td><p><span><span>754 – Secretaria de Estado de Infraestrutura e Obras Públicas - SEOP</span></span></p></td><td><p><span><span>3.060.000,00</span></span></p></td><td><p><span><span>13.292.263,92</span></span></p></td><td><p><span><span>16.352.263,92</span></span></p></td></tr><tr><td><p><span><span>754.201 – Departamento de Estradas de Rodagens, Hidroviárias e Aeroportuária do Acre - DERACRE</span></span></p></td><td><p><span><span>6.000.000,00</span></span></p></td><td><p><span><span>13.005.000,00</span></span></p></td><td><p><span><span>19.005.000,00</span></span></p></td></tr><tr><td><p><span><span>754.203 – Departamento Estadual de Pavimentação e Saneamento – DEPASA&nbsp;</span></span></p></td><td><p><span><span>28.169.407,94</span></span></p></td><td><p><span><span>87.807.601,50</span></span></p></td><td><p><span><span>115.977.009,44</span></span></p></td></tr><tr><td><p><span><span>754.210 – Agência Reguladora dos Serviços Públicos do Estado do Acre -AGEAC</span></span></p></td><td><p><span><span>100.000,00</span></span></p></td><td><p><span><span>823.900,00</span></span></p></td><td><p><span><span>923.900,00</span></span></p></td></tr><tr><td><p><span><span>754.502 – Companhia de Saneamento do Acre - SANACRE</span></span></p></td><td><p><span><span>20.001,00</span></span></p></td><td><p><span><span>1.000,00</span></span></p></td><td><p><span><span>21.001,00</span></span></p></td></tr><tr><td><p><span><span>755 – Secretaria de Estado de Justiça e Direitos Humanos - SEJUDH</span></span></p></td><td><p><span><span>660.000,00&nbsp;</span></span></p></td><td><p><span><span>2.653.082,06</span></span></p></td><td><p><span><span>3.313.082,06</span></span></p></td></tr><tr><td><p><span><span>755.209 – Instituto de Administração Penitenciária – IAPEN</span></span></p></td><td><p><span><span>27.120.000,00</span></span></p></td><td><p><span><span>4.000.000,00</span></span></p></td><td><p><span><span>31.120.000,00&nbsp;</span></span></p></td></tr><tr><td><p><span><span>755.213 – Instituto Sócio Educativo – ISE&nbsp;</span></span></p></td><td><p><span><span>3.252.000,00</span></span></p></td><td><p><span><span>450.000,00</span></span></p></td><td><p><span><span>3.702.000,00</span></span></p></td></tr><tr><td><p><span><span>756 – Secretaria de Estado de Habitação - SEHAB</span></span></p></td><td><p><span><span>600.000,00</span></span></p></td><td><p><span><span>7.618.806,54</span></span></p></td><td><p><span><span>8.218.806,54</span></span></p></td></tr><tr><td><p><span><span>756.501 - Companhia de Habitação do Acre - COHAB</span></span></p></td><td><p><span><span>5.532.891,11</span></span></p></td><td><p><span><span>3.392.600,00</span></span></p></td><td><p><span><span>8.925.491,11</span></span></p></td></tr><tr><td><p><span><span>758- Secretaria de Estado da Polícia Civil do Estado do Acre - SEPC</span></span></p></td><td><p><span><span>9.650.000,00</span></span></p></td><td><p><span><span>1.000.000,00</span></span></p></td><td><p><span><span>10.650.000,00</span></span></p></td></tr><tr><td><p><span><span>759. Secretaria de Estado de Pequenos Negócios – SEPN</span></span></p></td><td><p><span><span>1.000.000,00</span></span></p></td><td><p><span><span>3.275.315,54</span></span></p></td><td><p><span><span>4.275.315,54</span></span></p></td></tr><tr><td><p><span><span>760 Secretaria de Estado de Política para as Mulheres – SEPM</span></span></p></td><td><p><span><span>200.000,00</span></span></p></td><td><p><span><span>3.130.000,00</span></span></p></td><td><p><span><span>3.330.000,00</span></span></p></td></tr><tr><td><p><span><span>761 – Secretaria de Estado de Ciência e Tecnologia - SECT</span></span></p></td><td><p><span><span>3.500.000,00</span></span></p></td><td><p><span><span>1.700.000,00</span></span></p></td><td><p><span><span>5.200.000,00</span></span></p></td></tr><tr><td><p><span><span>761.301 – Fundação de Tecnologia do Acre - FUNTAC</span></span></p></td><td><p><span><span>800.000,00</span></span></p></td><td><p><span><span>22.586.265,37</span></span></p></td><td><p><span><span>23.386.265,37</span></span></p></td></tr><tr><td><p><span><span>761.309 – Fund. de Amparo à Pesquisa do Estado do Acre - FAPAC</span></span></p></td><td><p><span><span>100.000,00&nbsp;</span></span></p></td><td><p><span><span>1.418.596,82</span></span></p></td><td><p><span><span>1.518.596,82</span></span></p></td></tr><tr><td><p><span><strong><span>Total</span></strong></span></p></td><td><p><span><strong><span>3.710.657.514,12&nbsp;</span></strong></span></p></td><td><p><span><strong><span>1.954.143.369,27&nbsp;</span></strong></span></p></td><td><p><span><strong><span>5.664.800.883,39&nbsp;</span></strong></span></p></td></tr></tbody></table>
+715.404 - Companhia de Colonização do Estado do Acre - COLONACRE - Em liquidação
+
+20.000,00
+
+4.500,00
+
+24.500,00
+
+715.503 - Empresa de Processamento de Dados – ACREDATA
+
+9.039.386,48
+
+1.000,00
+
+9.040.386,48
+
+715.504 - Companhia Industrial de Laticínios do Acre - CILA
+
+2.505.496,33
+
+10.000,00
+
+2.515.496,33
+
+715.510 - Banco do Estado do Acre - BANACRE - Em liquidação
+
+1.158.371,52
+
+5.063,21
+
+1.163.434,73
+
+717 - Secretaria de Estado de Educação e Esporte- SEE
+
+242.874.911,44
+
+568.595.620,06
+
+811.470.531,50
+
+717.212 - Instituto Dom Moacir Grecchi - IDM
+
+4.867.482,06
+
+29.717.185,68
+
+34.584.667,74
+
+717.303 - Fundação Elias Mansour – FEM
+
+5.060.000,00
+
+3.499.700,00
+
+8.559.700,00
+
+717.306 – Fundação. FDRHCD
+
+1,00
+
+-
+
+-
+
+719 - Secretaria de Estado de Segurança Pública – SESP
+
+6.409.500,00
+
+8.001.001,00
+
+14.410.501,00
+
+719.204 – Departamento Estadual de Trânsito – DETRAN
+
+-
+
+52.212.112,60
+
+52.212.112,60
+
+720 - Secretaria de Estado de Meio Ambiente – SEMA
+
+250.000,00
+
+40.922.758,26
+
+41.172.758,26
+
+720.202 – Instituto de Meio Ambiente do Acre – IMAC
+
+500.000,00
+
+2.708.944,05
+
+3.208.944,05
+
+720.206 – Instituto de Terras do Acre – ITERACRE
+
+150.000,00
+
+8.637.002,00
+
+8.787.002,00
+
+720.215– Instituto de Mudanças Climáticas e Regulação de Serviços Ambientais - IMC
+
+30.000,00
+
+2.390.000,00
+
+2.420.000,00
+
+720.512 – Companhia de Desenvolvimento e Serviços Ambientais - CDSA
+
+-
+
+1.141.123,13
+
+1.141.123,13
+
+721 - Secretaria de Estado de Saúde – SESACRE
+
+130.560.000,00
+
+232.809.540,00
+
+363.369.540,00
+
+721.302 – Fundação Hospitalar do Acre – FUNDHACRE
+
+4.310.000,00
+
+50.132.119,76
+
+54.442.119,76
+
+722 - Secretaria de Estado Desenvolvimento Social – SEDS
+
+3.925.000,00
+
+5.970.000,00
+
+9.895.000,00
+
+722.304 – Fundação do Bem-estar Social do Acre – FUNBESA
+
+-
+
+1,00
+
+1,00
+
+732 – Secretaria de Estado de Agropecuária – SEAP
+
+400.000,00
+
+8.848.217,42
+
+9.248.217,42
+
+732.207 – Instituto de Defesa Agropecuária e Florestal – IDAF
+
+50.000,00
+
+2.899.754,40
+
+2.949.754,40
+
+744 – Secretaria de Estado de Articulação Institucional – SAI
+
+120.000,00
+
+250.000,00
+
+370.000,00
+
+751 – Secretaria de Estado de Turismo e Lazer – SETUL
+
+600.000,00
+
+600.000,00
+
+1.200.000,00
+
+752 - Secretaria de Estado de Desenvolvimento da Indústria, do Comércio e dos Serviços Sustentáveis – SEDENS
+
+800.000,00
+
+17.347.815,00
+
+18.147.815,00
+
+752 – 205 – Junta Comercial do Estado do Acre – JUCEAC
+
+-
+
+2.815.000,00
+
+2.815.000,00
+
+752.214 – Institutos de Pesos e Medidas do Estado do Acre – IPEM
+
+-
+
+992.000,00
+
+992.000,00
+
+752.506 - Agência de Negócios do Acre – ANAC
+
+-
+
+3.000,00
+
+3.000,00
+
+752.511 - Administradora da Zona de Processamento de Exportação do Acre - AZPE
+
+4,00
+
+-
+
+4,00
+
+753 - Secretaria de Estado de Extensão Agroflorestal e Produção Familiar – SEAPROF
+
+1.100.000,00
+
+43.771.381,77
+
+44.871.381,77
+
+753.401 – Companhia de Armazéns e Entrepostos do Acre - CAGEACRE
+
+11.866.651,50
+
+178.000,00
+
+12.044.651,50
+
+753.402 – Empresa de Assistência Técnica e Extensão Rural do Acre - EMATER
+
+23.762.617,16
+
+10.000.000,00
+
+33.762.617,16
+
+754 – Secretaria de Estado de Infraestrutura e Obras Públicas - SEOP
+
+3.060.000,00
+
+13.292.263,92
+
+16.352.263,92
+
+754.201 – Departamento de Estradas de Rodagens, Hidroviárias e Aeroportuária do Acre - DERACRE
+
+6.000.000,00
+
+13.005.000,00
+
+19.005.000,00
+
+754.203 – Departamento Estadual de Pavimentação e Saneamento – DEPASA
+
+28.169.407,94
+
+87.807.601,50
+
+115.977.009,44
+
+754.210 – Agência Reguladora dos Serviços Públicos do Estado do Acre -AGEAC
+
+100.000,00
+
+823.900,00
+
+923.900,00
+
+754.502 – Companhia de Saneamento do Acre - SANACRE
+
+20.001,00
+
+1.000,00
+
+21.001,00
+
+755 – Secretaria de Estado de Justiça e Direitos Humanos - SEJUDH
+
+660.000,00
+
+2.653.082,06
+
+3.313.082,06
+
+755.209 – Instituto de Administração Penitenciária – IAPEN
+
+27.120.000,00
+
+4.000.000,00
+
+31.120.000,00
+
+755.213 – Instituto Sócio Educativo – ISE
+
+3.252.000,00
+
+450.000,00
+
+3.702.000,00
+
+756 – Secretaria de Estado de Habitação - SEHAB
+
+600.000,00
+
+7.618.806,54
+
+8.218.806,54
+
+756.501 - Companhia de Habitação do Acre - COHAB
+
+5.532.891,11
+
+3.392.600,00
+
+8.925.491,11
+
+758- Secretaria de Estado da Polícia Civil do Estado do Acre - SEPC
+
+9.650.000,00
+
+1.000.000,00
+
+10.650.000,00
+
+759. Secretaria de Estado de Pequenos Negócios – SEPN
+
+1.000.000,00
+
+3.275.315,54
+
+4.275.315,54
+
+760 Secretaria de Estado de Política para as Mulheres – SEPM
+
+200.000,00
+
+3.130.000,00
+
+3.330.000,00
+
+761 – Secretaria de Estado de Ciência e Tecnologia - SECT
+
+3.500.000,00
+
+1.700.000,00
+
+5.200.000,00
+
+761.301 – Fundação de Tecnologia do Acre - FUNTAC
+
+800.000,00
+
+22.586.265,37
+
+23.386.265,37
+
+761.309 – Fund. de Amparo à Pesquisa do Estado do Acre - FAPAC
+
+100.000,00
+
+1.418.596,82
+
+1.518.596,82
+
+**Total**
+
+**3.710.657.514,12 **
+
+**1.954.143.369,27 **
+
+**5.664.800.883,39 **
 
 OBS: 
 
@@ -968,11 +1350,31 @@ OBS: 
 
 **Art. 7°** A despesa do orçamento de Investimento, observada a programação em anexo a esta lei, é fixada em R$ 50.000,00 (Cinquenta mil reais), com a seguinte distribuição:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><h5><span><span>&nbsp;</span></span></h5></td><td><p><span><span>R$ 1,00</span></span></p></td></tr><tr><td><h5><span><span>Órgão/Entidade</span></span></h5></td><td><h5><span><span>Total</span></span></h5></td></tr><tr><td><p><span><span>Companhia de Habitação do Estado do Acre – COHAB</span></span></p></td><td><p><span><span>50.000,00</span></span></p></td></tr></tbody></table>
+#####
+
+R$ 1,00
+
+##### Órgão/Entidade
+
+##### Total
+
+Companhia de Habitação do Estado do Acre – COHAB
+
+50.000,00
 
 **Art. 8°** As fontes de receita para cobertura da despesa fixada no artigo anterior, são estimadas com o seguinte desdobramento:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><h5><span><span>&nbsp;</span></span></h5></td><td><p><span><span>R$ 1,00</span></span></p></td></tr><tr><td><h5><span><span>Receitas</span></span></h5></td><td><h5><span><span>Total</span></span></h5></td></tr><tr><td><p><span><span>Recursos do Tesouro Estadual</span></span></p></td><td><p><span><span>50.000,00</span></span></p></td></tr></tbody></table>
+#####
+
+R$ 1,00
+
+##### Receitas
+
+##### Total
+
+Recursos do Tesouro Estadual
+
+50.000,00
 
 **Art. 9°** Fica o Poder Executivo autorizado a abrir crédito suplementar até o limite de trinta por cento da despesa fixada nesta lei, em conformidade com o art. 161 da Constituição Estadual e os arts. 7° e 43 da Lei Federal n. 4.320, de 17 de março de 1964 e, se necessário, alocar e redistribuir dotações de receitas e despesas, em conformidade com a Portaria Interministerial n. 163, de 4 de maio de 2000, Portaria Conjunta STN/SOF nº 1, de 10 de dezembro de 2014, Portaria STN nº 700, de 10 de dezembro de 2014, (6º EDIÇÃO), Manual de Receita e Despesa Nacional, versão 2015 e demais alterações.
 
@@ -1031,5 +1433,3 @@ Rio Branco – Acre, 21 de dezembro de 2016, 128º da República, 114º do Trata
 **Tião Viana**
 
 Governador do Estado do Acre
-
-<br>

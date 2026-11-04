@@ -1,5 +1,3 @@
-###DEC-004047-0-000-10-12-2001@@@
-
 DECRETO Nº 4.047, DE 10 DE DEZEMBRO DE 2001
 
 Define o direito a classe de passagem aérea, em viagens no território nacional, para as autoridades que menciona.

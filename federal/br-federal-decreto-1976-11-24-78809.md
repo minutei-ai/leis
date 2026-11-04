@@ -1,5 +1,3 @@
-###DEC-078809-0-000-24-11-1976@@@
-
 DECETO Nº 78.809, DE 24 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.
@@ -25,8 +23,6 @@ Brasília, 24 de novembro de 1976; 155º da Independência e 89º da República.
 ernesto geisel
 
 Shigeaki Ueki
-
-###DEC-078809-0-000-24-11-1976@@@RET01+++
 
 DECETO Nº 78.809, DE 24 DE NOVEMBRO DE 1976.
 

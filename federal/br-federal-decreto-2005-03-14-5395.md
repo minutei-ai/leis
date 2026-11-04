@@ -1,5 +1,3 @@
-###DEC-005395-0-000-14-03-2005@@@
-
 DECRETO Nº 5.395 DE 14 DE MARÇO DE 2005
 
 Distribui os efetivos de Oficiais da Marinha, em tempo de paz, a vigorar em 2005, e fixa os percentuais mínimos dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha, que deverão ser ocupados exclusivamente por oficiais do sexo masculino.

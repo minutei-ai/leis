@@ -1,5 +1,3 @@
-###DEL-005158-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.158 – DE 31 DE DEZEMBRO DE 1942
 
 Concede a Manoel Gonçalves dos Santos uma pensão especial

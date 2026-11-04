@@ -1,5 +1,3 @@
-###MPV-001586-0-000-11-09-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.586, DE 11 DE SETEMBRO DE 1997
 
 Dispõe sobre a recuperação de haveres do Tesouro Nacional e do Instituto Nacional do Seguro Social - INSS e a utilização de Títulos da Dívida Pública, de responsabilidade do Tesouro Nacional, na quitação de débitos com o INSS, e dá outras providências.

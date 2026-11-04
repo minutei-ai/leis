@@ -1,22 +1,20 @@
-###DEC-027959-0-000-05-04-1950@@@
+**DECRETO N. 27.959 – DE 5 DE ABRIL DE 1950**
 
-<strong>DECRETO N. 27.959 – DE 5 DE ABRIL DE 1950</strong>
-
-<em><strong>Modifica a alínea “b” do art. 23 e o art. 27 do Decreto nº 25.382, de 18 de agosto de 1948 (Regulamento do Quadro de Estado Maior do Exército).</strong></em>
+***Modifica a alínea “b” do art. 23 e o art. 27 do Decreto nº 25.382, de 18 de agosto de 1948 (Regulamento do Quadro de Estado Maior do Exército).***
 
 O Presidente da República, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º – A alínea b do art. 23 e o art. 27 do Decreto n. 25.382 (Regulamento do Quadro de Estado – Maior do Exército), passam a ter a seguinte redação:
+**Art.** 1º – A alínea b do art. 23 e o art. 27 do Decreto n. 25.382 (Regulamento do Quadro de Estado – Maior do Exército), passam a ter a seguinte redação:
 
-“<strong>Art.</strong> 23 – .....................
+“**Art.** 23 – .....................
 
 a) – .................
 
 b) – ficando apurado que perdeu as qualidades indispensáveis ao exercício das funções de estado-maior, é declarado “inapto” para êsse serviço.
 
-<strong>Art.</strong> 27 – A Comissão Permanente de Sindicância (C.P.S.) e o Conselho Permanente de Revisão (C.P.R.) regem-se per instruções do Chefe do Estado-Maior do Exército, a quem compete decidir, em definitivo, sôbre a idoneidade dos oficiais candidatos à matrícula na E.E.M. e sôbre o ingresso ou permanência do oficial no Q.E.M.E. .
+**Art.** 27 – A Comissão Permanente de Sindicância (C.P.S.) e o Conselho Permanente de Revisão (C.P.R.) regem-se per instruções do Chefe do Estado-Maior do Exército, a quem compete decidir, em definitivo, sôbre a idoneidade dos oficiais candidatos à matrícula na E.E.M. e sôbre o ingresso ou permanência do oficial no Q.E.M.E. .
 
 § 1º – Os arquivos de uma e outro são mantidos no E.M.E. .
 
@@ -30,10 +28,10 @@ b) – ficando apurado que perdeu as qualidades indispensáveis ao exercício da
 
 Na intercorrência dêsses casos, a decisão do Chefe do E.M.E. será tomada de acôrdo com o despacho do Ministro da Guerra, após o pronunciamento do Conselho de Justificação.
 
-<strong>Art.</strong> 2º – Este Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art.** 2º – Este Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, 5 de abril de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Canrobert P. da Costa.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/213030)<br>
-
 # ATO DO PRESIDENTE N° 143, DE 2026
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de Lei n° 863, de 2026, que orça a Receita e fixa a Despesa do Estado para o exercício de 2027._

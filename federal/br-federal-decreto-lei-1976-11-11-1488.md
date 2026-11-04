@@ -1,5 +1,3 @@
-###DEL-001488-0-000-11-11-1976@@@
-
 # DECRETO-LEI Nº 1.488, DE 11 DE NOVEMRO DE 1976
 
 Acrescenta um parágrafo no artigo 1º do Decreto-lei número 1.428, de 2 de dezembro de 1975, que dispõe sobre isenções de impostos na importação, cria incentivos fiscais à indústria nacional de bens de capital, regulamenta a concessão de estimulos à ampliação de produção destinada à exportação e dá outras providências.

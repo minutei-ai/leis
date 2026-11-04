@@ -1,5 +1,3 @@
-###DEC-074730-0-000-18-10-1974@@@
-
 decreto nº 74.730, de 18 de outubro de 1974.
 
 Altera o Decreto nº 72.577, de 7 de agosto de 1973, que sconfisca bem imóvel de propriedade do Lanifício Paulista S.A. e dá outras providências.

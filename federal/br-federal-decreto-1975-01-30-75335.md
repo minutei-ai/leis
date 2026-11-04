@@ -1,5 +1,3 @@
-###DEC-075335-0-000-30-01-1975@@@
-
 DECRETO Nº 75.335, DE 30 DE JANEIRO DE 1975.
 
 Cria o Centro de Análises de Sistemas Navais e dá outras providências.

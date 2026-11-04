@@ -1,7 +1,3 @@
-1
-
-###DEC-097916-0-000-06-07-1989@@@
-
 DECRETO N° 97 916, DE 6 de JULHO DE 1989
 
 Altera a redação do artigo 48 do Decreto n° 93.872, de 23 de dezembro de 1986.

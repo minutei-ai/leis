@@ -1,5 +1,3 @@
-###DEC-090900-0-000-05-02-1985@@@
-
 Decreto nº 90.900, de 05 de fevereiro de 1985
 
 Dá nova redação ao § 2º do art. 1º do Decreto nº 57.272, de 16 de novembro de 1965, que dispõe sobre acidente em ser viço.

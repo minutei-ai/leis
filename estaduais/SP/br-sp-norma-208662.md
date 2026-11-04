@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208662)<br>
-
 # DECRETO N° 68.016, DE 11 DE OUTUBRO DE 2023
 
 ### _Dispõe sobre a Outorga da Medalha de Honra e Mérito da Gestão Pública em Saúde "Walter Leser"._

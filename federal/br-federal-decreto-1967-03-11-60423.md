@@ -1,5 +1,3 @@
-###DEC-060423-0-000-11-03-1967@@@
-
 DECRETO Nº 60.423, DE 11 DE MARÇO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de NCr$172.369,00 (cento e setenta e dois mil, trezentos e sessenta e nove cruzeiros novos), autorizado pela Lei nº 5.222, de 17 de janeiro do corrente ano, para o fim que menciona.

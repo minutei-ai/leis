@@ -1,7 +1,3 @@
-1
-
-###DEC-095866-0-000-23-03-1988@@@
-
 DECRETO N° 95.866, DE 23 DE MARÇO DE 1988
 
 Cria, na Superintendência de Campanhas de Saúde Pública o Comando SUCAM de Operações Sanitárias de Emergência, para atender às situações de calamidade pública, e dá outras providências.

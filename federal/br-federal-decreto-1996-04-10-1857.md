@@ -1,5 +1,3 @@
-###DEC-001857-0-000-10-04-1996@@@
-
 DECRETO Nº 1.857, DE 10 DE ABRIL DE 1996
 
 Cria o Programa de Apoio a Núcleos de Excelência - PRONEX.

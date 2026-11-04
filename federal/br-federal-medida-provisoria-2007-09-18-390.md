@@ -1,5 +1,3 @@
-###MPV-000390-0-000-18-09-2007@@@
-
 MEDIDA PROVISÓRIA Nº 390, DE 18 DE SETEMBRO DE 2007.
 
 Revoga a Medida Provisória no 379, de 28 de junho de 2007, que altera dispositivos da Lei no 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes.                       
@@ -17,5 +15,3 @@ LUIZ INÁCIO LULA DA SILVA
 Tarso Genro
 
 Walfrido dos Mares Guia
-
-Este texto não substitui o publicado no DOU de 18.9.2007 - Edição extra

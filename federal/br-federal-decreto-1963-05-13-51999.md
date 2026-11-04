@@ -1,5 +1,3 @@
-###DEC-051999-0-000-13-05-1963@@@
-
 DECRETO Nº 51.999, DE 13 DE MAIO DE 1963.
 
 Outorga concessão à Televisão Excelsior Rio Sociedade Anônima para estabelecer uma estação de rádiotelevisão na cidade do Rio de Janeiro, Estado da Guanabara.

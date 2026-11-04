@@ -1,5 +1,3 @@
-###DEL-001938-0-000-10-05-1982@@@
-
 # Decreto-lei nº 1.938, de 10 de maio de 1982
 
 Concede isenção do imposto de importação nos casos que especifica e dá outras providências.

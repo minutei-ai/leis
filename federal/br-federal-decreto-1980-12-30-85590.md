@@ -1,5 +1,3 @@
-###DEC-085590-0-000-30-12-1980@@@
-
 Decreto nº 85.590, de 30 de dezembro de 1980
 
 Concede à COMPANHIA SIDERÚGICA PAULISTA - COSIPA, autorização para proceder a aumento do seu capital social.

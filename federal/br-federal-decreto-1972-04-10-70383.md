@@ -1,5 +1,3 @@
-###DEC-070383-0-000-10-04-1972@@@
-
 DECRETO Nº 70.383, DE 10 DE ABRIL DE 1972.
 
 Autoriza o funcionamento do Curso de Eletrônica-Telecomunicações da Faculdade de Engenharia, em Joinville, Estado de Santa Catarina.

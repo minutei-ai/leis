@@ -1,5 +1,3 @@
-###DEC-064621-0-000-02-06-1969@@@
-
 DECRETO Nº 64.621, DE 2 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 36.545, de 3 de dezembro de 1954.

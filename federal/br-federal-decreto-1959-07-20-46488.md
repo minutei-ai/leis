@@ -1,5 +1,3 @@
-###DEC-046488-0-000-20-07-1959@@@
-
 DECRETO Nº 46.488, DE 20 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro Sivert Francisco Bartholdy a lavrar diamante, ouro e quartzo no município de  Diamantina,  Estado de Minas Gerais.

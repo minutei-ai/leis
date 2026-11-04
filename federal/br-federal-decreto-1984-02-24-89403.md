@@ -1,5 +1,3 @@
-###DEC-089403-0-000-24-02-1984@@@
-
 Decreto nº 89.403, 24 de fevereiro de 1984
 
 Fixa, para o exercício de 1984, o limite global de importações através da Zona Franca de Manaus, e dá outras providências.

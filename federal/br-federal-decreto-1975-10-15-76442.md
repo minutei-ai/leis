@@ -1,5 +1,3 @@
-###DEC-076442-0-000-15-10-1975@@@
-
 Decreto Nº 76.442, DE 15 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção da subestação de Macatuba, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

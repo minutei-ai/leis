@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/180680)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/compilacao-lei-16383-01.02.2017.html)
 
 # LEI N° 16.383, DE 01 DE FEVEREIRO DE 2017
@@ -9,10 +8,12 @@
 
 ### _~~Altera a Lei n° 12.281, de 2006, que dispõe sobre o cancelamento de serviços prestados de forma contínua~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
 ~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~
 
-~~Artigo 1° - O artigo 2° da [Lei n° 12.281, de 22 de fevereiro de 2006](https://www.al.sp.gov.br/norma/61441), passa a vigorar com a seguinte redação:~~<br>
+~~Artigo 1° - O artigo 2° da [Lei n° 12.281, de 22 de fevereiro de 2006](https://www.al.sp.gov.br/norma/61441), passa a vigorar com a seguinte redação:~~
+
 ~~"Artigo 2° - Obrigam-se, ainda, a disponibilizar o cancelamento do serviço por meio do telefone, da rede mundial de computadores - internet ou do correio." (NR).~~
 
 ~~Artigo 2° - Vetado.~~

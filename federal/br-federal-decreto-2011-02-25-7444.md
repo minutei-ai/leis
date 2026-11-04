@@ -1,5 +1,3 @@
-###DEC-007444-0-000-25-02-2011-PUB-01@@@
-
 DECRETO Nº 7.444, DE 25 DE FEVEREIRO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1.961, de 17 de dezembro 2010, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a Libéria.

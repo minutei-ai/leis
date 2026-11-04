@@ -1,5 +1,3 @@
-###DEC-053150-0-000-10-12-1963@@@
-
 DECRETO Nº 53.150, DE 10 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Bolivar Sant’Anna Batista a pesquisar minério de chumbo no município de Sento Sé, Estado da Bahia.

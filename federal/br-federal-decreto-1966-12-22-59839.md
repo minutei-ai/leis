@@ -1,5 +1,3 @@
-###DEC-059839-0-000-22-12-1966@@@
-
 DECRETO Nº 59.839, DE 22 DE DEZEMBRO DE 1966.
 
 Autoriza estrangeiro a adquirir o domínio útil de fração ideal do terreno acrescido de marinha que menciona, situado no Estado da Guanabara.
@@ -15,8 +13,6 @@ Brasília, 22 de dezembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Octavio Bulhões
-
-###DEC-059839-0-000-22-12-1966@@@RET01+++
 
 decreto nº 59.839, de 22 de dezembro de 1966.
 

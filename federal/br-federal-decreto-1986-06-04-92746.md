@@ -1,5 +1,3 @@
-###DEC-092746-0-000-04-06-1986@@@
-
 DECRETO Nº 92.746, DE 4 DE JUNHO DE 1986
 
 Promulga o Acordo de Cooperação Técnico-Científica e Tecnológica entre a República Federal do Brasil e a Líbia.

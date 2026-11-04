@@ -1,5 +1,3 @@
-###DEC-066374-0-000-24-03-1970@@@
-
 DECRETO Nº 66.374 - DE 24 DE MARÇO DE 1970
 
 Autoriza a reversão de imóvel à Prefeitura Municipal de Pôrto União, no Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###MPV-002179-0-034-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.179‑34, DE 28 DE JUNHO DE 2001
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

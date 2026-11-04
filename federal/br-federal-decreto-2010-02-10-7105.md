@@ -1,5 +1,3 @@
-###DEC-007105-0-000-10-02-2010@@@
-
 DECRETO Nº 7.105, DE 10 DE FEVEREIRO DE 2010.
 
 Promulga o Acordo entre a República Federativa do Brasil e o Reino da Espanha sobre o Livre Exercício de Atividades Econômicas Remuneradas por Parte de Familiares Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico de Missões Diplomáticas e Repartições Consulares, assinado em Madri, em 17 de setembro de 2007

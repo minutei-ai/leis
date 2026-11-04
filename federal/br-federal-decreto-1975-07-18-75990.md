@@ -1,5 +1,3 @@
-###DEC-075990-0-000-18-07-1975@@@
-
 DECRETO Nº 75.990 - DE 18 DE JULHO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

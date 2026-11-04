@@ -1,7 +1,3 @@
-1
-
-###DEC-001334-0-000-08-12-1994@@@
-
 DECRETO Nº 1.334, DE 8 DE DEZEMBRO DE 1994
 
 Altera dispositivos do Decreto nº 1.303, de 8 de novembro de 1994, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078260-0-000-17-08-1976@@@
-
 DECRETO Nº 78.260, DE 17 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento do curso de Engenharia de Produção, do Instituto de Engenharia Paulista, com sede na cidade de São Paulo, Estado de São Paulo.

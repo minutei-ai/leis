@@ -1,5 +1,3 @@
-###DEC-073238-0-000-03-12-1973@@@
-
 Decreto Nº 73.238 - de 3 de Dezembro de 1973
 
 Revoga o Decreto nº 64.407,de 25 de abril de 1969.

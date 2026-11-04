@@ -1,5 +1,3 @@
-###DEC-065165-A-000-15-09-1969@@@
-
 DECRETO Nº 65.165-A - de 15 de setembro de 1969.
 
 Aprova o Regulamento da Diretoria de Administração do Pessoal do Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-088664-0-000-31-08-1983@@@
-
 Decreto nº 88.664, de 31 de agosto de 1983
 
 Concede à Companhia de Siderúrgica de Mogi das Cruzes - COSIM autorização para proceder a aumento de seu capital social.

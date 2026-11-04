@@ -1,5 +1,3 @@
-###DEC-050066-0-000-25-01-1961@@@
-
 DECRETO Nº 50.066, DE 25 DE JANEIRO DE 1961.
 
 Dispõe sôbre a agregação de Estabelecimentos de Ensino Superior não federais a Universidades federais.

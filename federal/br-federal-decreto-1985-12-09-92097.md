@@ -1,5 +1,3 @@
-###DEC-092097-0-000-09-12-1985@@@
-
 Decreto nº 92.097, de o9 de dezembro de 1985.
 
 Autoriza o Governo do Estado da Paraíba a explorar, através da RÁDIO TABAJARA DA PARAÍBA S/A, na cidade de João Pessoa, Estado da Paraíba, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

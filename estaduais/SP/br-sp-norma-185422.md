@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185422)
-
 # DECRETO Nº 63.252, DE 08 DE MARÇO DE 2018
 
 ### _Homologa, por 180 (cento e oitenta) dias, o Decreto do Prefeito do Município de São Sebastião, que declarou Situação de Emergência em áreas do Município_
@@ -18,8 +16,12 @@ Palácio dos Bandeirantes, 8 de março de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Moacir Rossetti<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Moacir Rossetti
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo
+
 Publicado na Secretaria de Governo, aos 8 de março de 2018.

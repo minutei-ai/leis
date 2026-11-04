@@ -1,5 +1,3 @@
-###DEC-057800-0-000-14-02-1966@@@
-
 decreto nº 57.800, de 14 de fevereiro de 1966.
 
 Abre a Superintendência do Plano de Valorização Econômica da Amazônia o crédito especial de Cr$200.000.000, para o fim que especifica.

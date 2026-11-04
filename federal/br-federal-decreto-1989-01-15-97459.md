@@ -1,5 +1,3 @@
-###DEC-097459-0-000-15-01-1989@@@
-
 DECRETO Nº 97.459, DE 15 DE JANEIRO DE 1989
 
 Dispõe sobre a cessão de servidores da Administração Pública Federal e dá outras providências.

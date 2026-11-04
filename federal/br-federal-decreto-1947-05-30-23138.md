@@ -1,12 +1,10 @@
-###DEC-023138-0-000-30-05-1947@@@
+**DECRETO Nº 23.138, dE 30 DE maio DE 1947**
 
-<strong>DECRETO Nº 23.138, dE 30 DE maio DE 1947</strong>
+***Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 26.100.000,00, para prosseguimento da construção de trechos ferroviários.***
 
-<em><strong>Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 26.100.000,00, para prosseguimento da construção de trechos ferroviários.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei número 24, de 15 de fevereiro de 1947, e tendo em ouvido o Tribunal de Contas nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei número 24, de 15 de fevereiro de 1947, e tendo em ouvido o Tribunal de Contas nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
-
-<strong>decreta:</strong>
+**decreta:**
 
 Artigo único. Fica aberto, pelo Ministério da Viação e Obras Públicas, o crédito especial de vinte e seis milhões e cem mil cruzeiros (Cr$ 26.100.000,00) para atender à despesa (Obras, Equipamentos e Aquisição de Imóveis) com os seguintes serviços.
 
@@ -22,7 +20,7 @@ d) Prosseguimento dos trabalhos de construção do trecho Brumado-Monte Azul. Te
 
 Rio de Janeiro, 30 de maio de 1946, 126.° da Independência e 59.° da República.
 
-<strong>eurico g. dutra.</strong>
+**eurico g. dutra.**
 
 Clóvis Pestana.
 

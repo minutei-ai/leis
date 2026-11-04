@@ -1,5 +1,3 @@
-###DEC-067484-0-000-04-11-1970@@@
-
 DECRETO Nº 67.484, DE 4 DE NOVEMBRO DE 1970.
 
 Autoriza o funcionamento da Universidade Estadual de Mato Grosso, na Cidade de Campo Grande, Estado de Mato Grosso.

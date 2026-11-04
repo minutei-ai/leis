@@ -1,5 +1,3 @@
-###DEC-060554-0-000-07-04-1967@@@
-
 DECRETO Nº 60.554, DE 7 DE ABRIL DE 1967.
 
 Concede autorização para funcionamento de Faculdade.

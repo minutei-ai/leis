@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211391)<br>
-
 # LEI N° 18.190, DE 01 DE SETEMBRO DE 2025
 
 ## (Projeto de lei n.° 837/2021, dos Deputados Marcio da Farmácia - PODE e Marcio Nakashima - PDT)

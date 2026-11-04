@@ -1,5 +1,3 @@
-###DEC-089814-0-000-19-06-1984@@@
-
 Decreto nº 89.814, de 19 de junho de 1984
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Gleba Retiro do Pinhal", situado no Município de Coronel Vivida, no Estado do Paraná, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.813, de 19 de junho de 1984.

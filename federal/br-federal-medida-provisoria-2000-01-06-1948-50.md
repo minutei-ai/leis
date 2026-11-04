@@ -1,5 +1,3 @@
-###MPV-001948-0-050-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.948-50, DE 6 DE JNAEIRO DE 2000.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional NTN destinadas a aumento de capital do Banco do Brasil S.A., e da outras providências.

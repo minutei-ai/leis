@@ -1,5 +1,3 @@
-###DEC-046238-0-000-18-06-1959@@@
-
 DECRETO Nº 46.238, DE 18 DE JUNHO DE 1959.
 
 Estipula condições para o preenchimento de funções gratificadas e correlatas no Departamento Nacional de Obras e de Saneamento.

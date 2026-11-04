@@ -1,5 +1,3 @@
-###DEL-006693-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.693 – DE 14 DE JULHO DE 1944
 
 Dispõe sôbre a criação de uma entidade que se ocupará do estudo da organização racional do trabalho e do preparo de pessoal para as administrações pública e privada

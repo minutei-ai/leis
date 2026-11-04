@@ -1,7 +1,3 @@
-1
-
-###DEC-001361-0-000-01-01-1995@@@
-
 DECRETO Nº 1.361, DE 1º DE JANEIRO DE 1995
 
 Dispõe  sobre a vinculação das entidades integrantes da Administração Pública  Federal indireta aos órgãos da Presidência da República e aos Ministérios.

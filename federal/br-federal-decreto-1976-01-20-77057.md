@@ -1,5 +1,3 @@
-###DEC-077057-0-000-20-01-1976@@@
-
 DECRETO Nº 77.057, DE 20 DE JANEIRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessária à implantação de uma Segunda vila residencial para técnicos e funcionários da Central Nuclear "Almirante Álvaro Alberto", de Furnas - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-066789-0-000-26-06-1970@@@
-
 DECRETO Nº 66.789 - DE 26 DE JUNHO DE 1970
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - do Ministério da Indústria e do Comércio, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

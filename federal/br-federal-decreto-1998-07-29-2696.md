@@ -1,5 +1,3 @@
-###DEC-002696-0-000-29-07-1998@@@
-
 DECRETO Nº 2.696, DE 29 DE JULHO DE 1998
 
 Dispõe sobre o levantamento da proibição da exportação ao Governo de Serra Leoa de armamento bélico, nos termos da Resolução 1171 (1998) do Conselho de Segurança das Nações Unidas, e dá outras providências.

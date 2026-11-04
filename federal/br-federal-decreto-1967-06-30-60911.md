@@ -1,5 +1,3 @@
-###DEC-060911-0-000-30-06-1967@@@
-
 DECRETO Nº 60.911, DE 30 DE JUNHO DE 1967.
 
 Declara de utilidade pública a “União Social Camiliana” com sede em Santos, Estado de São Paulo.

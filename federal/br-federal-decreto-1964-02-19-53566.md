@@ -1,5 +1,3 @@
-###DEC-053566-0-000-19-02-1964@@@
-
 DECRETO Nº 53.566, DE 19 DE FEVEREIRO DE 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel localizado em Anápolis - GO, destinado ao Ministério da Guerra.

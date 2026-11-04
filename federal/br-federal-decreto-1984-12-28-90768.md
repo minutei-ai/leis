@@ -1,5 +1,3 @@
-###DEC-090768-0-000-28-12-1984@@@
-
 DECRETO Nº 90.768, DE 28 DE DEZEMBRO DE 1984
 
 Renova a concessão outorgada à RÁDIO PRINCESA DO OESTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Xanxerê, Estado de Santa Catarina.

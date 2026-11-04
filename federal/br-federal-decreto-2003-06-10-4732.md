@@ -1,5 +1,3 @@
-###DEC-004732-0-000-10-06-2003@@@
-
 DECRETO Nº 4.732, DE 10 DE JUNHO DE 2003.
 
        Dispõe sobre a Câmara de Comércio Exterior - CAMEX, do Conselho de Governo.
@@ -188,5 +186,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
 Brasília, 10 de junho de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

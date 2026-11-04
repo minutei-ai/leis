@@ -1,5 +1,3 @@
-###DEC-066193-0-000-06-02-1970@@@
-
 decreto nº 66.193 - de 6 de Fevereiro de 1970
 
 Torna sem efeito o Decreto nº 65.271, de 6 de outubro de 1969, que outorgou concessão à TV Secretaria de Educação e Cultura do Estado do Ceará, para estabelecer uma estação de radiodifusão de sons e imagens (televisão) na cidade de Fortaleza, Estado do Ceará.

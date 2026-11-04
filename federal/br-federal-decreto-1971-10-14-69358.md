@@ -1,5 +1,3 @@
-###DEC-069358-0-000-14-10-1971@@@
-
 Decreto nº 69.358, de 14 de outubro de 1971.
 
 Dispõe sôbre a autonomia administrativa e financeira assegurada à Coordenação de Assuntos Internacionais de Agricultura - CINGRA, do Ministério da Agricultura, e dá outras providências.

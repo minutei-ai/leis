@@ -1,5 +1,3 @@
-###DEC-048040-0-000-05-04-1960@@@
-
 DECRETO Nº 48.040, DE 5 DE ABRIL DE 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Sociedade Anônima Norte Espirito Santense de Fôrça Elétrica (S.A.N.E.F.E.).

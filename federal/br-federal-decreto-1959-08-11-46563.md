@@ -1,5 +1,3 @@
-###DEC-046563-0-000-11-08-1959@@@
-
 DECRETO Nº 46.563, DE 11 DE AGÔSTO DE 1959.
 
 Autoriza a Comissão do Vale do São Francisco a aceitar a doação do terreno onde deverá ser construído um campo de pouso, no município de Monte Azul, no Estado de Minas Gerais, e a instituição de servidão.

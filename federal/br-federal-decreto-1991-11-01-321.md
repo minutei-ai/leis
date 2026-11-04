@@ -1,7 +1,3 @@
-1
-
-###DEC-000321-0-000-01-11-1991@@@
-
 DECRETO Nº 321, DE 1º DE NOVEMBRO DE 1991
 
 Dispõe sobre o intercâmbio de informações entre o Departamento da Receita Federal e o Instituto Nacional do Seguro Social INSS e dá outras providências.

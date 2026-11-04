@@ -1,5 +1,3 @@
-###DEC-056024-0-000-23-04-1965@@@
-
 DECRETO Nº 56.024, DE 23 DE ABRIL DE 1965.
 
 Transfere do Município de Capinópolis para a Emprêsa Capinopolense de Eletricidade S.A. concessão para distribuir energia elétrica.

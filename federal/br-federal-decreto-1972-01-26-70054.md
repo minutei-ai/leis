@@ -1,5 +1,3 @@
-###DEC-070054-0-000-26-01-1972@@@
-
 DECRETO Nº 70.054, DE 26 DE JANEIRO DE 1972.
 
 Declara sem efeito o Decreto nº 54.832, de 3 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-067534-0-000-11-11-1970@@@
-
 DECRETO Nº 67.534, DE 11 DE NOVEMBRO DE1970.
 
 Concede reconhecimento à Faculdade de Direito do Acre.

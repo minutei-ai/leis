@@ -1,7 +1,3 @@
-1
-
-###DEC-000457-0-000-26-02-1992@@@
-
 DECRETO N° 457, DE 26 DE FEVEREIRO DE 1992
 
 Consolida as normas sobre a Comissão de Estudos das Leis de Remuneração dos Militares das Forças Armadas  \- CELRM, e dá outras providências.

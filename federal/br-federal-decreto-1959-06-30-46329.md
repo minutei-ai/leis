@@ -1,5 +1,3 @@
-###DEC-046329-0-000-30-06-1959@@@
-
 DECRETO Nº 46.329, DE 30 DE JUNHO DE 1959.
 
 Desvincula da concessão de que é titular a Companhia Energia Elétrica da Bahia as unidades geradora ns. 1 e 2 da Usina do Dique, em Salvador, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085976-0-000-05-05-1981@@@
-
 Decreto nº 85.976, de 05 de maio de 1981.
 
 Autoriza o funcionamento, em Linhares, Espírito Santo, dos cursos de Educação Física, de Ciências e de Educação Artística, da Universidade Federal do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-091052-0-000-06-03-1985@@@
-
 DECRETO Nº 91.052, DE 06 DE MARÇO DE 1985
 
 Dispõe sobre o montante do Capital Social da Petróleo Brasileiro S/A. - PETROBRÁS.

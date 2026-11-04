@@ -1,5 +1,3 @@
-###DEC-086376-0-000-17-09-1981@@@
-
 Decreto nº 86.376, de 17 de setembro de 1981.
 
 Autoriza a COBRA COMPUTADORES E SISTEMAS BRASILEIROS S.A. a proceder ao aumento do limite do seu capital Social.

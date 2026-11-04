@@ -1,5 +1,3 @@
-###DEC-086645-0-000-25-11-1981@@@
-
 Decreto nº 86.645, de 25 de novembro de 1981
 
 Autoriza o aumento da potência da RÁDIO CULTURA DE SANTOS DUMONT LTDA., na cidade de Santos Dumont, Estado de Minas Gerais.

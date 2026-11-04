@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53077)
-
 # LEI Nº 11.908, DE 22 DE MARÇO DE 2005
 
 ## (PL 188/2004 - Caldini Crespo)

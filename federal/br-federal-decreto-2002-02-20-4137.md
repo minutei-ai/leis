@@ -1,5 +1,3 @@
-###DEC-004137-0-000-20-02-2002@@@
-
 DECRETO Nº 4.137, DE 20 DE FEVEREIRO DE 2002
 
 Institui a carteira de identidade funcional dos membros da Defensoria Pública da União e dá outras providências.
@@ -28,12 +26,20 @@ FERNANDO HENRIQUE CARDOSO
 
 Aloysio Nunes Ferreira Filho
 
-ANEXO<br>
-Características da carteira de identidade dos membros da Defensoria Pública da União<br>
-1.Dimensões: carteira aberta: 15 cm x 10 cm.<br>
-2.Externamente: em couro vermelho, dividida em três partes, com duas dobras: no anverso, o símbolo das Armas da República em metal e as inscrições "República Federativa do Brasil" e "Defensoria Pública da União", impressas em dourado.<br>
-3.Internamente: dividida em três partes, com duas dobras.<br>
-3.1Da cédula de identidade funcional, confeccionada em papel branco com as Armas da República em marca d\`água, constará:<br>
-a) na primeira dobra: o nome da instituição impresso, o número da cédula, o número de inscrição do titular na Ordem dos Advogados do Brasil, seu nome, a filiação, o cargo, a data de admissão, o tipo sanguíneo e fator RH, o CPF, a nacionalidade, a naturalidade e a assinatura do titular da cédula de identidade, cortada por uma faixa diagonal verde-amarela;<br>
-b) na parte central: o cargo do titular, uma fotografia no tamanho 2x2 e, no rodapé a inscrição "válida em todo território nacional - Decreto nº....../...",<br>
-c) na última dobra: as Armas da República impressa na cor original, as prerrogativas dos membros, quando em serviço, constantes do art. 44 da Lei Complementar nº 80, de 12 de janeiro de 1994, a data de expedição e assinatura do Defensor Público-Geral da União.<br>
+ANEXO
+
+Características da carteira de identidade dos membros da Defensoria Pública da União
+
+1.Dimensões: carteira aberta: 15 cm x 10 cm.
+
+2.Externamente: em couro vermelho, dividida em três partes, com duas dobras: no anverso, o símbolo das Armas da República em metal e as inscrições "República Federativa do Brasil" e "Defensoria Pública da União", impressas em dourado.
+
+3.Internamente: dividida em três partes, com duas dobras.
+
+3.1Da cédula de identidade funcional, confeccionada em papel branco com as Armas da República em marca d\`água, constará:
+
+a) na primeira dobra: o nome da instituição impresso, o número da cédula, o número de inscrição do titular na Ordem dos Advogados do Brasil, seu nome, a filiação, o cargo, a data de admissão, o tipo sanguíneo e fator RH, o CPF, a nacionalidade, a naturalidade e a assinatura do titular da cédula de identidade, cortada por uma faixa diagonal verde-amarela;
+
+b) na parte central: o cargo do titular, uma fotografia no tamanho 2x2 e, no rodapé a inscrição "válida em todo território nacional - Decreto nº....../...",
+
+c) na última dobra: as Armas da República impressa na cor original, as prerrogativas dos membros, quando em serviço, constantes do art. 44 da Lei Complementar nº 80, de 12 de janeiro de 1994, a data de expedição e assinatura do Defensor Público-Geral da União.

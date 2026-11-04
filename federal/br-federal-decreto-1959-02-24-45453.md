@@ -1,5 +1,3 @@
-###DEC-045453-0-000-24-02-1959@@@
-
 decreto nº 45.453, de 24 de fevereiro de 1959.
 
 Nomeia interventor administrativo na Companhia Fôrça e Luz Norte Fluminense.

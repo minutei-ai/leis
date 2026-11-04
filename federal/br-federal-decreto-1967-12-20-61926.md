@@ -1,5 +1,3 @@
-###DEC-061926-0-000-20-12-1967@@@
-
 decreto Nº 61.926, de 20 de dezembro de 1967.
 
 Concede autorização, em caráter permanente, à “COBRAZIL” - Companhia de Mineração e Metalúrgica “Brazil”, para trabalho contínuo, nos domingos e feriados.

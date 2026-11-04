@@ -1,5 +1,3 @@
-###DEC-002830-0-000-29-10-1998@@@
-
 DECRETO Nº 2.830, DE 29 DE OUTUBRO DE 1998
 
 Dispõe sobre o Certificado Financeiro do Tesouro - CFT, definindo-lhe as características, e dá outras providências.

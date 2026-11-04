@@ -1,5 +1,3 @@
-###DEC-092004-0-000-28-11-1985@@@
-
 DECRETO Nº 92.004, DE 28 DE novembro DE 1985
 
 Revoga o artigo 2º do Decreto nº 91.404, de 05 de julho de 1985, que dispõe sobre medidas de contenção de despesas nas entidades da Administração Indireta, e prorroga o prazo de sua vigência.

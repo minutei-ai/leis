@@ -1,5 +1,3 @@
-###DEC-051714-0-000-15-02-1963@@@
-
 DECRETO Nº 51.714, DE 15 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública a Casa do Puríssimo Coração de Maria de Guaratinguetá, com sede em Guaratinguetá, Estado de São Paulo.
@@ -15,8 +13,6 @@ Brasília, 15 de fevereiro de 1963; 142º da independência e 75º da República
 João Goulart
 
 João Mangabeira
-
-###DEC-051714-0-000-15-02-1963@@@RET01+++
 
 decreto nº 51.714, de 15 de fevereiro de 1963.
 

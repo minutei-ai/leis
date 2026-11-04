@@ -1,5 +1,3 @@
-###DEC-049813-0-000-05-01-1961@@@
-
 DECRETO Nº 49.813, DE 5 DE JANEIRO DE 1961.
 
 Declara de utilidade pública a Irmandade dos Pobre de Engenheiro Paulo de Frontin, com sede em Engenheiro Paulo de Frontin, Estado do Rio de Janeiro.

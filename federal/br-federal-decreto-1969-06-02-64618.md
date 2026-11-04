@@ -1,5 +1,3 @@
-###DEC-064618-0-000-02-06-1969@@@
-
 DECRETO Nº 64.618, DE 2 DE JUNHO DE 1969.
 
 Aprova o Regulamento de Trabalho a Bordo de Embarcações Pesqueiras.

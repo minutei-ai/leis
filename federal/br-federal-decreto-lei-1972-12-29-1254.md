@@ -1,5 +1,3 @@
-###DEL-001254-0-000-29-12-1972@@@
-
 # DECRETO-LEI Nº 1.254, DE 29 DE DEZEMBRO De 1972
 
 Altera, para o exercício de 1973, a distribuição do produto da arrecadação dos impostos únicos.

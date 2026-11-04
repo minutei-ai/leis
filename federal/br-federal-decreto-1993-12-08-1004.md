@@ -1,7 +1,3 @@
-1
-
-###DEC-001004-0-000-08-12-1993@@@
-
 DECRETO N° 1.004, DE 8 DE DEZEMBRO DE 1993
 
 Altera o Decreto n° 919, de 8 de setembro de 1993, que aprovou o Estatuto da Companhia de Pesquisa de Recursos Minerais - (CPRM.

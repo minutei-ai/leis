@@ -1,5 +1,3 @@
-###DEC-064150-0-000-03-03-1969@@@
-
 DECRETO Nº 64.150, DE 3 DE MARÇO DE 1969.
 
 Provê sôbre bôlsas de alimentação a estudantes carentes de recursos e dá outras providências.

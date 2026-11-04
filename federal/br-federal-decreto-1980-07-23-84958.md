@@ -1,5 +1,3 @@
-###DEC-084958-0-000-23-07-1980@@@
-
 Decreto nº 84.958, de 23 de julho de 1980.
 
 Altera a localização de Organização Militar no Ministério do Exército

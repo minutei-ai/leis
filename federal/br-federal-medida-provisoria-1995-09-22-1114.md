@@ -1,7 +1,3 @@
-1
-
-###MPV-001114-0-000-22-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.114, de 22 de SETEMBRO de 1995.
 
 Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

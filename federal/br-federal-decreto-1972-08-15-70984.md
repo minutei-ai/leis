@@ -1,5 +1,3 @@
-###DEC-070984-0-000-15-08-1972@@@
-
 Decreto nº 70.984, de 15 de agosto de 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha e cassa a disponibilidade do mesmo.

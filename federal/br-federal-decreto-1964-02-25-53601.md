@@ -1,5 +1,3 @@
-###DEC-053601-0-000-25-02-1964@@@.
-
 DECRETO Nº 53.601, DE 25 DE FEVEREIRO DE 1964.
 
 Autoriza o cidadão brasileiro Acendino Cypriano da Silva a pesquisar água mineral no município de Mutum, Estado de Minas Gerais.

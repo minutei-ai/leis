@@ -1,5 +1,3 @@
-###DEC-064971-0-000-11-08-1969@@@
-
 DECRETO Nº 64.971 - DE 11 DE AGÔSTO DE 1969.
 
 Revalida, nos têrmos do artigo 1º do Decreto nº 62.347, de 4 de março de 1968, a filiação da Confederação Nacional dos Trabalhadores na Indústria à Confederação Internacional das Organizações Sindicais Livres - CIOSL.

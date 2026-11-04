@@ -1,5 +1,3 @@
-###DEC-086850-0-000-13-01-1982@@@
-
 DECRETO Nº 86.850, DE 13 DE JANEIRO DE 1982
 
 Concede à COMPANHIA SIDERÚRGICA PAULISTA - COSIPA, autorização para proceder a aumento do seu capital social.

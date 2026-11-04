@@ -1,5 +1,3 @@
-###DEC-003054-0-000-07-05-1999@@@
-
 DECRETO Nº 3.054, DE 7 DE MAIO DE 1999.
 
 Promulga o Acordo de Co-Produção Cinematográfica, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Argentina.
@@ -224,4 +222,14 @@ O presente Acordo terá dois anos de duração a partir da data de sua entrada e
 
 Feito na Cidade de Buenos Aires, aos dezoito dias do mês de abril de mil novecentos e oitenta e oito, em dois originais nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Pelo Governo da República</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Federativa do Brasil</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Argentina</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Celso Furtado</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Jorge Frederico Sabato</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Argentina
+
+Celso Furtado
+
+Jorge Frederico Sabato

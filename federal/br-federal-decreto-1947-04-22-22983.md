@@ -1,20 +1,18 @@
-###DEC-022983-0-000-22-04-1947@@@
+**DECRETO Nº 22.983, DE 22 DE ABRIL DE 1947.**
 
-<strong>DECRETO Nº 22.983, DE 22 DE ABRIL DE 1947.</strong>
+***Outorga à firma Carbucal Limitada, com sede na cidade de Brusque, concessão para o aproveitamento total da energia hidráulica de uma queda dágua denominada Lageado Alto, no ribeirão de igual nome, distrito de Botuverá, município de Brusque, Estado de Santa Catarina.***
 
-<em><strong>Outorga à firma Carbucal Limitada, com sede na cidade de Brusque, concessão para o aproveitamento total da energia hidráulica de uma queda dágua denominada Lageado Alto, no ribeirão de igual nome, distrito de Botuverá, município de Brusque, Estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos termos do art. 150 do Código de Águas (Decreto número 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos termos do art. 150 do Código de Águas (Decreto número 24.643, de 10 de julho de 1934),
+**decreta:**
 
-<strong>decreta:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos é outorgada à Firma Carbucal Limitada, com sede na cidade de Brusque, concessão para o aproveitamento total da energia hidráulica de queda dágua denominada Lageado Alto, no ribeirão de igual nome, distrito de Botuverá, município de Brusque, Estado de Santa Catarina.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos é outorgada à Firma Carbucal Limitada, com sede na cidade de Brusque, concessão para o aproveitamento total da energia hidráulica de queda dágua denominada Lageado Alto, no ribeirão de igual nome, distrito de Botuverá, município de Brusque, Estado de Santa Catarina.
 
 § 1º Em portaria do Ministro da Agricultura na ocasião da aprovação dos projetos serão determinadas altura da queda a aproveitar, bem como as descargas e a potência concedidas.
 
 § 2º O aproveitamento destina-se a produção de energia elétrica para consumo exclusivo da concessionária, que não a poderá fornecer a terceiros, mesmo a título gratuíto, excluídas, todavia, desta proibição as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia que lhes for feito.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a :
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a :
 
 I - Registrá-lo na Divisão de Águas dentro de trinta (30) dias após a publicação.
 
@@ -50,22 +48,22 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere este artigo poderão ser prorrogados por ato do Ministério da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministério da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministério da Agricultura.
 
-<strong>Art</strong>. 4º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da mesma divisão.
+**Art**. 4º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga e a realizar as observações de acordo com as instruções da mesma divisão.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contatos da data do registro do contrato respectivamente na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contatos da data do registro do contrato respectivamente na Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão, toda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente de produção de energia elétrica, reverterá ao Estado de Santa Catarina, mediante indenização do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
+**Art**. 6º Findo o prazo da concessão, toda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente de produção de energia elétrica, reverterá ao Estado de Santa Catarina, mediante indenização do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
 
-<strong>Art</strong>. 7º Se o governo do Estado de Santa Catarina não fizer uso do direito que lhe concede o artigo precedente, caberá a concessionária a alternativa de requerer ao Governo Federal que a concessão seja renovada pela forma que no respectivo contrato deverá estar prevista, ou de restabelecer as suas expensas, a situação do curso dágua anterior ao aproveitamento concedido.
+**Art**. 7º Se o governo do Estado de Santa Catarina não fizer uso do direito que lhe concede o artigo precedente, caberá a concessionária a alternativa de requerer ao Governo Federal que a concessão seja renovada pela forma que no respectivo contrato deverá estar prevista, ou de restabelecer as suas expensas, a situação do curso dágua anterior ao aproveitamento concedido.
 
-<strong>Art</strong>. 8º A concessionária gozará desde a data do registro de que trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sobre a matéria.
+**Art**. 8º A concessionária gozará desde a data do registro de que trata o artigo 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sobre a matéria.
 
-<strong>Art</strong>. 9º O presente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 9º O presente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 22 de abril de 1947; 126º da Independência e 59º da República.
 
-<strong>Eurico g. dutra</strong>
+**Eurico g. dutra**
 
 Daniel de Carvalho

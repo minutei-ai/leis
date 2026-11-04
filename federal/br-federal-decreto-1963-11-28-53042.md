@@ -1,5 +1,3 @@
-###DEC-053042-0-000-28-11-1963@@@
-
 decreto nº 53.042, de 28 de novembro de 1963.
 
 Prorroga o prazo fixado no artigo 1º do Decreto nº 52.425, de 31 de agôsto de 1963, que suspendeu as atividades do Instituto Brasileiro de Ação Democrática Popular (ADEP).

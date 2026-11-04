@@ -1,5 +1,3 @@
-###DEC-003737-0-000-30-01-2001@@@
-
 DECRETO Nº 3.737, DE 30 DE JANEIRO DE 2001
 
 Dispõe sobre a regulamentação do Fundo para o Desenvolvimento Tecnológico das Telecomunicações - Funttel, e dá outras providências.

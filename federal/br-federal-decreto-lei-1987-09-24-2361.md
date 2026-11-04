@@ -1,7 +1,3 @@
-1
-
-###DEL-002361-0-000-24-09-1987@@@
-
 # DECRETO-LEI Nº 2.361, DE 24 DE SETEMBRO DE 1987
 
 Dispõe sobre o reajuste de preços de contratos de prestação de serviços no caso que especifica.

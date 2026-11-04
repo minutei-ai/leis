@@ -1,5 +1,3 @@
-###DEC-079697-0-000-12-05-1977@@@
-
 DECRETO Nº 79.697, De 12 de maio 1977.
 
 Extingue a Comissão para Estudos da Regulamentação do Fundo de Saúde da Marinha, criada pelo Decreto nº 77.174, de l3 de fevereiro de 1976.

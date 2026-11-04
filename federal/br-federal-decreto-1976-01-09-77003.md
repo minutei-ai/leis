@@ -1,5 +1,3 @@
-###DEC-077003-0-000-09-01-1976@@@
-
 DECRETO Nº 77.003, DE 9 DE JANEIRO DE 1976.
 
 Aprova alteração de dispositivo do Estatuto da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, aprovado pelo Decreto nº 76.664, de 24 de novembro de 1975, e dá outras providências.

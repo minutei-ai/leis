@@ -1,5 +1,3 @@
-###DEC-047254-0-000-17-11-1959@@@
-
 decreto nº 47.254, de 17 de novembro de 1959.
 
 Revoga o Decreto nº 19.887, de 26 de outubro de 1945.

@@ -1,5 +1,3 @@
-###DEC-048469-0-000-07-07-1960@@@
-
 DECRETO Nº 48.469, DE 7 de JULHO DE 1960.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho e Juntas de Conciliação e Julgamento da Primeira Região, o crédito especial de Cr$21.000.000,00 (vinte e um milhões de cruzeiros), para atender à despesa especificada no artigo 5º da Lei nº 3.610, de 11 de agôsto de1959.

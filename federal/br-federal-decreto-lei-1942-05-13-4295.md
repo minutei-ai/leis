@@ -1,5 +1,3 @@
-###DEL-004295-0-000-13-05-1942@@@
-
 DECRETO-LEI N. 4.295 – DE 13 DE MAIO DE 1942
 
 Estabelece medidas de emergência, transitórias, relativas à indústria da energia elétrica.

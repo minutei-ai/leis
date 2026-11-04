@@ -1,5 +1,3 @@
-###DEC-046242-0-000-19-06-1959@@@
-
 DECRETO Nº 46.242, DE 19 DE JUNHO DE 1959.
 
 Retifica o Decreto nº 45.745, de 7 abril de 1959.

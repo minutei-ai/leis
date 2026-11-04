@@ -1,7 +1,3 @@
-1
-
-###DEC-001697-0-000-13-11-1995@@@
-
 DECRETO Nº 1.697, DE 13 DE NOVEMBRO DE 1995.
 
 Cria o Grupo-Executivo do Setor Pesqueiro - GESPE, e dá outras providências.

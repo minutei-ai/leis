@@ -1,5 +1,3 @@
-###DEC-078253-0-000-16-08-1976@@@
-
 DECRETO Nº 78.253, DE 16 DE AGOSTO DE 1976.
 
 Retifica a concessão de lavra outorgada à EMIBRA - Empresa de Minérios Brasil Norte-Nordeste Ltda., pelo Decreto nº 61.470, de 5 de outubro de 1967, retificado pelo Decreto nº 73.499, de 17 de janeiro de 1974.

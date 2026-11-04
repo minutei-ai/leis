@@ -1,5 +1,3 @@
-###DEC-056897-0-000-23-09-1965@@@
-
 DECRETO Nº 56.897, DE 23 DE SETEMBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Previdência do Sul, inclusive aumento do capital social.

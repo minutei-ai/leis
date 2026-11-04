@@ -1,5 +1,3 @@
-###DEC-056492-0-000-18-06-1965@@@
-
 decreto nº 56.492, de 18 de junho de 1965.
 
 Revoga dispositivos do Decreto número 56.284, de 14 de maio de 1965.

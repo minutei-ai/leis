@@ -18,8 +18,6 @@ Art. 3º Esta Lei entra em vigor 180 (cento e oitenta) dias após a sua publica�
 
 Goiânia, 31 de outubro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

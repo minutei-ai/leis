@@ -1,5 +1,3 @@
-###DEC-080121-0-000-10-08-1977@@@
-
 DECRETO Nº 80.121, DE 10 DE AGOSTO DE 1977.
 
 Concede à Mineração Geral do Nordeste S.A., o direito de lavrar caulim no Município de Buique, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-055226-0-000-15-12-1964@@@
-
 DECRETO Nº 55.226, DE 15 DE DEZEMBRO DE 1964.
 
 Outorga concessão à Rádio Difusora de Cariacica Ltda. para estabelecer uma estação radiodifusora e revoga permissão que atualmente detém.

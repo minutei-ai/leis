@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209191)<br>
-
 # DECRETO N° 68.388, DE 15 DE MARÇO DE 2024
 
 ### _Autoriza a outorga de uso, em favor da Universidade Estadual Júlio de Mesquita Filho - UNESP, de parte do imóvel que especifica, e dá providências correlatas._

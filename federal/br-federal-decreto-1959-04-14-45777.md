@@ -1,5 +1,3 @@
-###DEC-045777-0-000-14-04-1959@@@
-
 DECRETO Nº 45.777, DE 14 DE ABRIL DE 1959.
 
 Autoriza a cidadã brasileira Maria Eulália Fagundes Beck a lavrar calcário, no município do Rio Grande do Sul.

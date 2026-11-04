@@ -1,5 +1,3 @@
-###DEC-064435-0-000-30-04-1969@@@
-
 DECRETO nº 64.435, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Instituto Salesiano de Assistência Educacional com sede em Dourados, Estado de Mato Grosso.

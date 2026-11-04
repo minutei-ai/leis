@@ -1,6 +1,10 @@
 > **LEI Nº 4.487, DE 03 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título Honorífico de Cidadão Acreano ao Sr. Marco Antônio Menezes Pimenta.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título Honorífico de Cidadão Acreano ao Sr. Marco Antônio Menezes Pimenta.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

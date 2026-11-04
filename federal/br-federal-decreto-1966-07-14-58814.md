@@ -1,5 +1,3 @@
-###DEC-058814-0-000-14-07-1966@@@
-
 decreto nº 58.814, de 14 de julho de 1966.
 
 Autoriza o Instituto Brasileiro de Reforma Agrária a liquidar com a Superintendência das Emprêsas Incorporadas ao Patrimônio Nacional o débito remanescente da transação autorizada pelo Decreto nº 40.051, de 1º de outubro de 1956.

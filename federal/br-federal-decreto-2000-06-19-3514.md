@@ -1,5 +1,3 @@
-###DEC-003514-0-000-19-06-2000@@@
-
 DECRETO Nº 3.514, DE 19 DE JUNHO DE 2000.
 
 Dá nova redação ao art. 10 do Decreto nº 3.473, de 18 de maio de 2000, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 2000.

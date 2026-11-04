@@ -1,7 +1,3 @@
-1
-
-###DEC-001917-0-000-27-05-1996@@@
-
 DECRETO N° 1.917, DE 27 DE MAIO DE 1996.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Educação e do Desporto e dá outras providências.
@@ -853,8 +849,6 @@ DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 Art. 39. Os cargos em comissão e funções gratificadas do Instituto Benjamim Constant e do Instituto Nacional de Educação de Surdos são os constantes no Anexo ao Decreto nº 228, de 11 de outubro de 1991.
 
 Art. 40. Os regimentos internos definirão o detalhamento dos órgãos integrantes da Estrutura Regimental, as competências das respectivas unidades e as atribuições de seus dirigentes.
-
-###DEC-001917-0-000-27-05-1996@@@RET01+++
 
 DECRETO Nº 1.917, DE 27 DE MAIO DE 1996.
 

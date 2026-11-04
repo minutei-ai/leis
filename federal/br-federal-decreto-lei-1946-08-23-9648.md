@@ -1,5 +1,3 @@
-###DEL-009648-0-000-23-08-1946@@@
-
 DECRETO-LEI N. 9.648 – DE 23 DE AGÔSTO DE 1946
 
 Dispõe sôbre o preenchimento e a extinção dos cargos que especifica, do Quadro Suplementar da Prefeitura do Distrito Federal.

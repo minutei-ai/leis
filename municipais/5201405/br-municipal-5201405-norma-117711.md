@@ -14,7 +14,25 @@ CONSIDERANDO a manifestação da Procuradoria Geral do Município nos processos 
 
 Art. 1º A Regularização Fundiária Urbana dos imóveis relacionados a seguir, do loteamento denominado Jardim Nova Era, em Aparecida de Goiânia, objeto de procedimento administrativo, fica classificada como REGULARIZAÇÃO FUNDIÁRIA URBANA DE INTERESSE SOCIAL – REURB “S”.
 
-<table><thead></thead><tbody><tr><td>Rua Duque de Caxias</td><td>Chácara 02</td></tr><tr><td>Rua Duque de Caxias</td><td>Chácara 04 A</td></tr><tr><td>Rua Duque de Caxias</td><td>Chácara 02 A</td></tr><tr><td>Rua Duque de Caxias</td><td>Chácara 03</td></tr><tr><td>Rua Duque de Caxias</td><td>Chácara 04</td></tr></tbody></table>
+Rua Duque de Caxias
+
+Chácara 02
+
+Rua Duque de Caxias
+
+Chácara 04 A
+
+Rua Duque de Caxias
+
+Chácara 02 A
+
+Rua Duque de Caxias
+
+Chácara 03
+
+Rua Duque de Caxias
+
+Chácara 04
 
 Art. 2º Fica aprovada a Regularização Fundiária Urbana de Interesse Social dos imóveis elencados no art. 1º deste Decreto.
 
@@ -26,11 +44,14 @@ Município de Aparecida de Goiânia, 17 de Outubro de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-VALDIVINO EDSON DE AZEVEDO<br>
+VALDIVINO EDSON DE AZEVEDO
+
 Secretário Interino de Habitação

@@ -8,7 +8,8 @@ LEI COMPLEMENTAR Nº 105 DE 08 DE OUTUBRO DE 2015.
 
 ~~Art.1º - Fica instituído o Alvará de Aceite para construções irregulares construídas em desacordo com o Código de Edificações e com a Lei de Zoneamento, Uso e Ocupação do Solo do Município desde que totalmente concluída ou estruturalmente definidas, até a publicação desta Lei Complementar.~~
 
-~~§ 1º - A comprovação a respeito da data da edificação poderá ser feita através do Boletim de Informações Cadastrais (BIC), emitido pelo Cadastro Imobiliário, Declaração de Energização fornecida pela Companhia Energética de Goiás – CELG, Termo de Embargo, Auto de Infração ou por imagens aéreas (aerofotogrametria ou obtidas por satélite).~~<br>
+~~§ 1º - A comprovação a respeito da data da edificação poderá ser feita através do Boletim de Informações Cadastrais (BIC), emitido pelo Cadastro Imobiliário, Declaração de Energização fornecida pela Companhia Energética de Goiás – CELG, Termo de Embargo, Auto de Infração ou por imagens aéreas (aerofotogrametria ou obtidas por satélite).~~
+
 ~~(Redação alterada pela Lei Complementar nº 115, de 9 de dezembro de 2015).~~
 
 ~~§ 1º - A comprovação a respeito da data da edificação poderá ser feita através do boletim de informações cadastrais (BIC), emitido pelo Cadastro Imobiliário, Declaração de Energização fornecida pela Companhia Energética do Estado de Goiás – CELG e/ou Termo de Embargo e auto de infração.~~
@@ -17,12 +18,14 @@ LEI COMPLEMENTAR Nº 105 DE 08 DE OUTUBRO DE 2015.
 
 ~~§ 3º - Esta Lei não se aplica às edificações verticais acima de 03 (três) andares, devendo estas edificações serem submetidas unitariamente à autorização legislativa, por meio de lei autorizativa específica.~~
 
-~~§ 4º - Fica criado por esta lei o Conselho da Regularidade que será composto por 03 membros do Poder Legislativo, 02 integrantes da Secretaria de Regulação Urbana e Rural, 01 integrante da Secretaria do Meio Ambiente, 01 integrante do Conselho Regional de Engenharia e Arquitetura (CREA-GO), 01 integrante do Conselho de Arquitetura e Urbanismo (CAU-GO), e será o órgão responsável pelo exame e julgamento da procedência ou não dos pedidos de regularização das obras do Município.~~<br>
+~~§ 4º - Fica criado por esta lei o Conselho da Regularidade que será composto por 03 membros do Poder Legislativo, 02 integrantes da Secretaria de Regulação Urbana e Rural, 01 integrante da Secretaria do Meio Ambiente, 01 integrante do Conselho Regional de Engenharia e Arquitetura (CREA-GO), 01 integrante do Conselho de Arquitetura e Urbanismo (CAU-GO), e será o órgão responsável pelo exame e julgamento da procedência ou não dos pedidos de regularização das obras do Município.~~
+
 ~~(Redação alterada pela Lei Complementar nº 115, de 9 de dezembro de 2015).~~
 
 ~~§ 4º - Fica criado por esta lei o conselho da regularidade que será composto por 03 membros do Poder Legislativo, 02 integrantes da Secretaria da Fazenda Municipal, 01 integrante da Secretaria da Regulação Urbana e 01 do Conselho Regional de Engenharia e Arquitetura (CREA), que será o órgão responsável pelo exame e julgamento da procedência ou não dos pedidos de regularização das obras no Município.~~
 
-~~§ 5º - O Conselho se reunirá, sempre que necessário for, para decidir sobre os pedidos de regularização, devendo o processo estar instruído pelos órgãos competentes.~~<br>
+~~§ 5º - O Conselho se reunirá, sempre que necessário for, para decidir sobre os pedidos de regularização, devendo o processo estar instruído pelos órgãos competentes.~~
+
 ~~(Redação alterada pela Lei Complementar nº 115, de 9 de dezembro de 2015).~~
 
 ~~§ 5º - O Conselho se reunirá 01 (uma) vez por mês para decidir sobre os pedidos de regularização, devendo o processo estar instruído pelos órgãos competentes;~~
@@ -83,7 +86,8 @@ LEI COMPLEMENTAR Nº 105 DE 08 DE OUTUBRO DE 2015.
 
 ~~Art.9º - Para concessão do Alvará de Aceite e Levantamento aplica-se no que couber, a Legislação Tributária Vigente, referente à aprovação de projetos de edificações em geral e da expedição do Termo de Habite-se.~~
 
-~~§ 1º - A Taxa de Emissão do Alvará para Construção, específica para o caso de Alvará de Aceite e Levantamento, será de 4 UVFA/m² (quatro Unidades de Valor Fiscal de Aparecida de Goiânia por metro quadrado).~~<br>
+~~§ 1º - A Taxa de Emissão do Alvará para Construção, específica para o caso de Alvará de Aceite e Levantamento, será de 4 UVFA/m² (quatro Unidades de Valor Fiscal de Aparecida de Goiânia por metro quadrado).~~
+
 ~~(Redação alterada pela Lei Complementar nº 115, de 9 de dezembro de 2015).~~
 
 ~~§ 1º - Para concessão do Alvará de Levantamento, serão cobrados valores equivalentes ao dobro dos valores cobrados para aprovação de projetos apenas para as áreas em desacordo com a legislação.~~
@@ -98,5 +102,6 @@ LEI COMPLEMENTAR Nº 105 DE 08 DE OUTUBRO DE 2015.
 
 ~~Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, aos dias 08 do mês de Outubro do ano de dois mil e quinze.~~
 
-~~GUSTAVO MENDANHA MELO<br>
+~~GUSTAVO MENDANHA MELO
+
 PRESIDENTE~~

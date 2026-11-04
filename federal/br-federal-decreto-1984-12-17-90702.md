@@ -1,5 +1,3 @@
-###DEC-090702-0-000-17-12-1984@@@
-
 Decreto nº 90.702, de 17 de dezembro de 1984.
 
 Dispõe sobre a Comissão Geral de Avaliação e dá outras providências.

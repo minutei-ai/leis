@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 351/2024 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "b" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "b" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004035893.
 
 **RESOLVE:**
 
@@ -11,8 +11,6 @@ Parágrafo único. O recurso necessário à execução do disposto neste artigo 
 Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 27 dias do mês de Junho de 2024.
-
-<br>
 
 FRANCISCO SERVULO FREIRE NOGUEIRA
 

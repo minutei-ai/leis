@@ -1,5 +1,3 @@
-###DEC-059194-0-000-08-09-1966@@@
-
 DECRETO Nº 59.194, DE 8 DE SETEMBRO DE 1966.
 
 Dá nova redação ao parágrafo 3º do art. 3º do Decreto n° 24.163 de 24-4-1934, que institui a Comissão de Exposições e Ferias e dá outras providências.

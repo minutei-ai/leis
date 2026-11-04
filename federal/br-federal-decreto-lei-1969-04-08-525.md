@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8200ce54-3510-4298-970a-c8845762da6a/texto#nowhere)
 
-###DEL-000525-0-000-08-04-1969@@@
-
 DECRETO-Lei 525, DE 8 DE ABRIL DE 1969.
 
 Autoriza a constituição de sociedade de economia mista destinada a explorar os serviços do Pôrto de Pesca de Laguna e dá outras providências.

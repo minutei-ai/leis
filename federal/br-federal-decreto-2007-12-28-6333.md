@@ -1,5 +1,3 @@
-###DEC-006333-0-000-28-12-2007@@@
-
 DECRETO Nº 6.333, DE 28 DE DEZEMBRO DE 2007.
 
 Altera o Regimento Interno da Comissão Técnica da Moeda e do Crédito, aprovado pelo Decreto no 1.304, de 9 de novembro de 1994.
@@ -37,5 +35,3 @@ Arno Hugo Augustin Filho
 Paulo Bernardo Silva
 
 Henrique de Campos Meirelles
-
-Este texto não substitui o publicado no DOU de 31.12.2007

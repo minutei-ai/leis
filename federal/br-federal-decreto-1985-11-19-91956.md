@@ -1,5 +1,3 @@
-###DEC-091956-0-000-19-11-1985@@@
-
 DECRETO Nº 91.956, de 19 de novembro de 1985
 
 Altera dispositivos do Regulamento da Secretaria de Economia e Finanças da Aeronáutica.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62045)
-
 # LEI Nº 12.305, DE 12 DE ABRIL DE 2006
 
 ### _Autoriza a Fazenda do Estado a doar ao Município de Guzolândia, o imóvel que especifica_

@@ -1,5 +1,3 @@
-###DEL-004208-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.208 – DE 27 DE MARÇO DE 1942
 
 Abre, ao Ministério da Agricultura, o crédito especial de 4:800$0 (quatro contos e oitocentos mil réis) para pagamento de gratificação de função criada pelo decreto-lei n. 3.889, de 5 de dezembro de 1941.

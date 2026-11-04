@@ -1,5 +1,3 @@
-###DEL-000123-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 123, DE 31 DE JANEIRO DE 1967
 
 Estabelece a correção monetária nos contratos a conta do Fundo da Marinha Mercante, define as condições do prêmio pago aos armadores nacionais e eleva o teto dos financiamentos sob responsabilidade da Comissão de Marinha Mercante.

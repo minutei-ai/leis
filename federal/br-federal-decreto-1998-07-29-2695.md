@@ -1,5 +1,3 @@
-###DEC-002695-0-000-29-07-1998@@@
-
 DECRETO Nº 2.695, DE 29 DE JULHO DE 1998
 
 Promulga o Acordo sobre Segurança Técnica Relacionada ao Desenvolvimento Conjunto dos Satélites e Recursos Terrestres, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Popular da China.
@@ -128,4 +126,20 @@ Dispositivos Finais
 
 Feito em Beijing, em 13 de dezembro de 1995, em dois originais nos idiomas português, chinês e inglês, todos sendo igualmente válidos. Em caso de qualquer divergência de interpretação, a versão em inglês deve prevalecer.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Popular da China</span></p></td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Qian Qichen</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Popular da China
+
+</td></tr><tr><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Luiz Felipe Lampreia
+
+</td><td style="width:210.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Qian Qichen
+
+</td></tr></tbody></table>

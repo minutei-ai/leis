@@ -1,5 +1,3 @@
-###DEC-052955-0-000-26-11-1963@@@
-
 Decreto nº 52.955, de 26 de novembro de 1963.
 
 Amplia zona de concessão da Companhia Sul Mineira de Eletricidade.

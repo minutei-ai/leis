@@ -1,5 +1,3 @@
-###DEC-069526-0-000-09-11-1971@@@
-
 DECRETO Nº 69.526 - DE 9 DE NOVEMBRO DE 1971
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério do Trabalho e Previdência Social para o Instituto Nacional da Previdência Social, e dá outras providências.

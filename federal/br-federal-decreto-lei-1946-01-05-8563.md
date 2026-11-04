@@ -1,5 +1,3 @@
-###DEL-008563-0-000-05-01-1946@@@
-
 DECRETO-LEI N. 8.563 – DE 5 DE JANEIRO DE 1946
 
 Dispõe sôbre a conversão de ações de sociedades sob fiscalização do Govêrno Federal.

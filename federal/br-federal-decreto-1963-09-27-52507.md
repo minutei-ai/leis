@@ -1,5 +1,3 @@
-###DEC-052507-0-000-27-09-1963@@@
-
 DECRETO Nº 52.507, DE 27 DE SETEMBRO DE 1963.
 
 Cria Funções Gratificadas no Ministério da Fazenda.

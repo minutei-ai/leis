@@ -1,5 +1,3 @@
-###DEC-073557-0-000-24-01-1974@@@
-
 Decreto Nº 73.557, DE 24 DE JANEIRO 1974.
 
 Retifica o artigo 1º, do Decreto número 56.684, de 9 de agosto de 1965, através do qual foi concedido a Águas Minerais Naturais Ltda. o direito de lavrar água mineral, no Município de Nova Iguaçu, Estado do Rio de Janeiro.

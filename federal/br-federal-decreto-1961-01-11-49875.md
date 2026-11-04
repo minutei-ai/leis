@@ -1,5 +1,3 @@
-###DEC-049875-0-000-11-01-1961@@@
-
 DECRETO Nº 49.875,DE 11 DE JANEIRO DE 1961.
 
 Cria o “Parque Nacional do Tocantins”, no Estado de Goiás e dá outras providências.

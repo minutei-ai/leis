@@ -1,5 +1,3 @@
-###DEC-058798-0-000-12-07-1966@@@
-
 decreto nº 58.798, de 12 de julho de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

@@ -1,5 +1,3 @@
-###DEC-068637-0-000-20-05-1971@@@
-
 DECRETO Nº 68.637 - DE 20 DE MAIO DE 1971.
 
 Autoriza o funcionamento dos Cursos de Desenho e Matemática da Faculdade de Filosofia, Ciências e Letras de Jales, S.P.

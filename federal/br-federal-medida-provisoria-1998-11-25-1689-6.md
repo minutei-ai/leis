@@ -1,5 +1,3 @@
-###MPV-001689-0-006-25-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.689-6, DE 25 DE NOVEMBRO DE 1998.
 
 Altera a Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

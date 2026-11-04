@@ -1,5 +1,3 @@
-###DEC-064113-0-000-13-02-1969@@@
-
 DECRETO Nº 64.113, de 13 de FEVEREIRO DE 1969.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

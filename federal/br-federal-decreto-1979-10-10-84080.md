@@ -1,5 +1,3 @@
-###DEC-084080-0-000-10-10-1979@@@
-
 Decreto nº 84.080, de 10 de OUtUbro de 1979.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Peru sobre a Instalação e Funcionamento na cidade de São Paulo de um Escritório da Minero Peru Comercial.
@@ -80,4 +78,14 @@ Código 49.11.99.00 da TIP I - Decreto nº 83.263/79
 
 Feito em dois exemplares, nos idiomas português e espanhol, sendo ambos igualmente válidos e assinados a bordo do navio da Armada Peruana "Ucayali", fundeado no Rio Amazonas (Solimões), na linha de fronteira brasileiro-peruana, aos cinco dias do mês de novembro de mil novecentos e setenta e seis.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">DO PERU</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Antonio P. Azeredo da Silveira</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) José de la Puente Radbil</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL:
+
+DO PERU
+
+a) Antonio P. Azeredo da Silveira
+
+a) José de la Puente Radbil

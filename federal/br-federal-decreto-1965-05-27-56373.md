@@ -1,5 +1,3 @@
-###DEC-056373-0-000-27-05-1965@@@
-
 decreto nº 56.373, de 27 de maio de 1965.
 
 Regula o pagamento de vencimentos, indenizações e demais direitos aos integrantes do Destacamento Brasileiro da Fôrça Armada Interamericana (FAIBRÁS)

@@ -1,5 +1,3 @@
-###DEC-058586-0-000-06-06-1966@@@
-
 DECRETO Nº 58.586, DE 6 DE JUNHO DE 1966.
 
 Dispõe sôbre os efeitos de alteração do enquadramento dos cargos do nível superior do Ministério da Fazenda.

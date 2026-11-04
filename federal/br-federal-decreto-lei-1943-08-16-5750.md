@@ -1,5 +1,3 @@
-###DEL-005750-0-000-16-08-1943@@@
-
 DECRETO‑LEI N. 5.750 – DE  16 DE AGôSTO DE  1943
 
 Dispensa as administrações de entidades autárquicas instituídas pela União do recolhimento de que trata o art. 2º do decreto-lei n. 5.228, de 5 da fevereiro de 1943, e dá outras providências.

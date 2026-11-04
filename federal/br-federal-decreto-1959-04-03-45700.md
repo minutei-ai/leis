@@ -1,5 +1,3 @@
-###DEC-045700-0-000-03-04-1959@@@
-
 DECRETO Nº 45.700, DE 3 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Leandro Martignago a pesquisar fluorita, no município de Tubarão, Estado de Santa Catarina.

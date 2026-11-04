@@ -1,7 +1,3 @@
-1
-
-###DEC-097875-0-000-26-06-1989@@@
-
 DECRETO N.° 97.875, DE 26 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “TIPITY ou LAGOA FEIA e CUTINGUTA” (parte), classificado como “latifúndio por exploração”, situado no Município de São João da Barra, Estado do Rio de Janeiro, compreendido na zona prioritária fixada pelo Decreto n° 92.691, de 19 de maio de 1986, e dá outras providências.

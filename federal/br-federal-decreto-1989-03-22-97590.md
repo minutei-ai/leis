@@ -1,5 +1,3 @@
-###DEC-097590-0-000-22-03-1989@@@
-
 DECRETO N° 97.590, DE 22 DE MARÇO DE 1989
 
 Promulga o Adendo ao Acordo para o Funcionamento do Escritório de Área da OPAS/OMS no Brasil, entre a República Federativa do Brasil e a Organização Pan-Americana da Saúde/Organização Mundial da Saúde.

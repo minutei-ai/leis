@@ -46,4 +46,56 @@ ANEXO ÚNICO
 
 CARGOS EM COMISSÃO DO FUNDO ESTADUAL DE SAÚDE - FES-BA
 
-<table style="width: 337.5pt; margin-left: 98.0pt; border-collapse: collapse; border: none; mso-border-alt: solid black 1.5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="450" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 139.5pt; border: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 94.5pt; border: solid black .6pt; border-left: none; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 103.5pt; border: solid black .6pt; border-left: none; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Diretor</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAS-2B</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Diretor Adjunto</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAS-2D</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Coordenador Técnico</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAS-2D</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>03</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Coordenador II</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>05</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Coordenador III</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAI-4</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>07</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Coordenador IV</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>05</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Secretário Administrativo I</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 139.5pt; border: solid black .6pt; border-top: none; mso-border-top-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Secretário Administrativo II</span></p></td><td style="width: 94.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="126"><p class="Tabela-Texto"><span>DAI-6</span></p></td><td style="width: 103.5pt; border-top: none; border-left: none; border-bottom: solid black .6pt; border-right: solid black .6pt; mso-border-top-alt: solid black .6pt; mso-border-left-alt: solid black .6pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="138"><p class="Tabela-Texto"><span>03</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Diretor
+
+DAS-2B
+
+01
+
+Diretor Adjunto
+
+DAS-2D
+
+01
+
+Coordenador Técnico
+
+DAS-2D
+
+03
+
+Coordenador II
+
+DAS-3
+
+05
+
+Coordenador III
+
+DAI-4
+
+07
+
+Coordenador IV
+
+DAI-5
+
+05
+
+Secretário Administrativo I
+
+DAI-5
+
+01
+
+Secretário Administrativo II
+
+DAI-6
+
+03

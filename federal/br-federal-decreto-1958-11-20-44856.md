@@ -1,5 +1,3 @@
-###DEC-044856-0-000-20-11-1958@@@
-
 DECRETO Nº 44.856, DE 20 DE NOVEMBRO DE 1958.
 
 Altera a lotação do Ministério da Educação e Cultura.

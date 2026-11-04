@@ -1,5 +1,3 @@
-###DEL-006359-0-000-22-03-1944@@@
-
 DECRETO-LEI N. 6.359 – DE 22  DE MARÇO DE 1944
 
 Prorroga o prazo previsto no art. 3º do Decreto-lei nº 5.219, de 22 de janeiro de 1943

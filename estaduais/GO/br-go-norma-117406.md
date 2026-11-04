@@ -12,8 +12,10 @@ Goiânia, 16 de setembro de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-DR. GEORGE MORAIS<br>
+DR. GEORGE MORAIS
+
 Deputado Estadual

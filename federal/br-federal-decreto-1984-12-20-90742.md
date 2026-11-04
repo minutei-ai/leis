@@ -1,5 +1,3 @@
-###DEC-090742-0-000-20-12-1984@@@
-
 Decreto nº 90.742, de 20 de dezembro de 1984
 
 Fixa os Efetivos de Oficiais da Marinha para 1985.

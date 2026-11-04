@@ -1,5 +1,3 @@
-###DEC-088887-0-000-19-10-1983@@@
-
 DECRETO Nº 88.887 DE 19 DE OUTUBRO DE 1983
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE RÁDIO CAMAQUENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Camaquã, Estado do Rio Grande do Sul.

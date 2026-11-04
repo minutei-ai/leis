@@ -1,5 +1,3 @@
-###DEC-068835-0-000-01-07-1971@@@
-
 DECRETO Nº 68.835, DE 1 DE JULHO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis abaixo, situados na rua Marechal Floriano, Pôrto Alegre, Estado do Rio Grande do Sul, a seguir descritos e caracterizados: 1º imóvel: constituído pelo prédio e respectivo terreno, cuja numeração é 249 e 257; 2º imóvel: constituído pelo prédio e respectivo terreno, com a numeração 261, 263 e 267, necessários a construção da Estação Terminal de Microondas daquela cidade, integrante do Sistema Nacional de Telecomunicações.

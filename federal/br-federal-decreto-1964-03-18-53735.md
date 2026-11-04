@@ -1,5 +1,3 @@
-###DEC-053735-0-000-18-03-1964@@@
-
 DECRETO Nº 53.735, De 18 de março de 1964.
 
 Autoriza a Comissão Nacional de Energia Nuclear (CNEN), a criar uma sociedade subsidiária e subscrever a maioria de suas ações.

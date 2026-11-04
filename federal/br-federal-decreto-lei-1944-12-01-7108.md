@@ -1,5 +1,3 @@
-###DEL-007108-0-000-01-12-1944@@@
-
 DECRETO-LEI N. 7.108 – DE 1 DE DEZEMBRO DE 1944
 
 Desapropria, para fins de utilidade pública, um terreno em Natal, Estado do Rio Grande do Norte

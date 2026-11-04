@@ -1,5 +1,3 @@
-###DEL-006236-0-000-02-02-1944@@@
-
 DECRETO-LEI N. 6.236 – DE 2 DE FEVEREIRO DE 1944
 
 Altera dispositivos do Decreto-lei n º 5.894, de 20 de outubro de 1943

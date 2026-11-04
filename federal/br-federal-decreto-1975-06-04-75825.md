@@ -1,5 +1,3 @@
-###DEC-075825-0-000-04-06-1975@@@
-
 DECRETO Nº 75.825, DE 4 JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Civil na Universidade Católica do Salvador, com sede em Salvador, Estado da Bahia.

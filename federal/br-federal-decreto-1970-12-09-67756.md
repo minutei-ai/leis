@@ -1,5 +1,3 @@
-###DEC-067756-0-000-09-12-1970@@@
-
 DECRETO Nº 67.756, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 34.798, de 16 de dezembro de 1953.

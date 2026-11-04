@@ -1,5 +1,3 @@
-###DEC-047690-0-000-20-01-1960@@@
-
 DECRETO Nº 47.690, DE 20 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro José Procópio de Rezende a lavrar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

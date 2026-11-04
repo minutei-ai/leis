@@ -1,22 +1,20 @@
-###DEC-025469-0-000-09-09-1948@@@
+**DECRETO Nº 25.469, DE 9 DE SETEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.469, DE 9 DE SETEMBRO DE 1948.</strong>
+***Concede à sociedade anônima “Shellmex do Brazil Limited” autorização para continuar a funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “Shellmex do Brazil Limited” autorização para continuar a funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**; atendendo ao que requereu a sociedade anônima “Shellmex do Brazil Limited” autorizada a funcionar na República pelos Decretos ns. 10.168, de 9 de abril de 1913; 12.438, de 11 de abril de 1917; 15.305, de 19 de fevereiro de 1945; 21.377, de 8 de julho de 1946 e 22.631, de 24 de fevereiro de 1947,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>; atendendo ao que requereu a sociedade anônima “Shellmex do Brazil Limited” autorizada a funcionar na República pelos Decretos ns. 10.168, de 9 de abril de 1913; 12.438, de 11 de abril de 1917; 15.305, de 19 de fevereiro de 1945; 21.377, de 8 de julho de 1946 e 22.631, de 24 de fevereiro de 1947,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade anônima “Shellmex do Brazil Limited”, com sede em Londres, Inglaterra, autorização para continuar a funcionar na República, com a alteração introduzida em seus estatutos pela resolução de sua diretoria, aprovada em reunião realizada a 9 de junho de 1948, que elevou o capital destinado às suas operações no Brasil, de Cr$148.587.240,00 para Cr$299.470.440,00 (duzentos e noventa e nove milhões e quatrocentos e setenta mil e quatrocentos e quarenta cruzeiros), mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 9 de setembro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPA</strong><em><strong>N</strong></em><strong>HAM O DECRETO N.º 25.469, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPA*N*HAM O DECRETO N.º 25.469, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cáusulas para a qual não esteja cominada pena esp
 
 Rio de Janeiro, 9 de setembro de 1948.
 
-<strong>MORVAN DE FIGUEIREDO</strong>
+**MORVAN DE FIGUEIREDO**

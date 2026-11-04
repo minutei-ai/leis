@@ -1,5 +1,3 @@
-###DEC-049919-0-000-13-01-1961@@@
-
 DECRETO Nº 49.919, DE 13 DE JANEIRO DE 1961.
 
 Concede autorização ao Banco Econômico de Crédito Sociedade Cooperativa de Responsabilidade Limitada com sede no Estado da Guanabara, para modificar seu estatuto social.

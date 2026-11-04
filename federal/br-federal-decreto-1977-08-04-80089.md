@@ -1,5 +1,3 @@
-###DEC-080089-0-000-04-08-1977@@@
-
 DECRETO Nº 80.089, DE 4 DE AGOSTO DE 1977.
 
 Autoriza a transformação do curso de Desenho e Plástica em curso de Educação Artística, da Faculdade de Educação São Luís, com sede na cidade de Jaboticabal, Estado de São Paulo.

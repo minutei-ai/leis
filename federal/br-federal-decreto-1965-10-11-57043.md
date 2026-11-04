@@ -1,5 +1,3 @@
-###DEC-057043-0-000-11-10-1965@@@
-
 Decreto nº 57.043, de 11 de outubro de 1965.
 
 Altera o Regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

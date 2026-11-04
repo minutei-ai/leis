@@ -1,5 +1,3 @@
-###DEL-007703-0-000-05-07-1945@@@
-
 DECRETO-LEI N. 7.703 – DE 5 DE JULHO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 440.000,00, para despesas com a Superintendência de Abastecimento do Vale Amazônico (S.A.V.A.)

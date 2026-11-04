@@ -1,5 +1,3 @@
-###DEC-090285-0-000-08-10-1984@@@
-
 Decreto nº 90.285, de 08 de outubro de 1984
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária-INCRA a doar o imóvel que menciona.

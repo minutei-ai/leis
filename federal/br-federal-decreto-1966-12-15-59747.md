@@ -1,5 +1,3 @@
-###DEC-059747-0-000-15-12-1966@@@
-
 DECRETO Nº 59.747, DE 15 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, a área de terra necessária a construção do canal Armas, em Belém, no Estado do Pará .

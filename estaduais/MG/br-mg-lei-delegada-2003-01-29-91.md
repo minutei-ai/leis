@@ -147,7 +147,3 @@ Universidade do Estado de Minas Gerais – UEMG
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Reitoria Reitor 01 - Reitoria Vice-Reitor 01 - Pró-Reitoria de Ensino Pró-Reitor 01 1,75803 Pró-Reitoria de Pesquisa e Extensão Pró-Reitor 01 1,75803 Pró-Reitoria de Planejamento, Gestão e Finanças Pró-Reitor 01 1,75803 Gabinete Chefe de Gabinete 01 -
-
-\=============================
-
-Data da última atualização: 25/1/2011.

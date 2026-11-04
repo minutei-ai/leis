@@ -1,8 +1,6 @@
-###EMC-000004-0-000-14-09-1993@@@
+**EMENDA CONSTITUCIONAL Nº 4, DE 1993**
 
-<strong>EMENDA CONSTITUCIONAL Nº 4, DE 1993</strong>
-
-<em><strong>Dá nova redação ao art. 16 da Constituição Federal.</strong></em>
+***Dá nova redação ao art. 16 da Constituição Federal.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
@@ -12,9 +10,9 @@ Artigo único. O art. 16 da Constituição Federal passa a vigorar com a seguint
 
 Brasília, 14 de setembro de 1993.
 
-<strong>A MESA DA CÂMARA DOS DEPUTADOS</strong>
+**A MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO OLIVEIRA**
 
 Presidente
 
@@ -30,9 +28,9 @@ Deputado B. SÁ
 
 4º Secretário
 
-<strong>A MESA DO SENADO FEDERAL</strong>
+**A MESA DO SENADO FEDERAL**
 
-<strong>SENADOR HUMBERTO LUCENA</strong>
+**SENADOR HUMBERTO LUCENA**
 
 Presidente
 

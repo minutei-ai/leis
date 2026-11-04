@@ -1,5 +1,3 @@
-###DEC-061724-0-000-22-11-1967@@@
-
 DECRETO Nº 61.724, DE 22 DE NOVEMBRO DE 1967.
 
 Autoriza a Companhia Siderúrgica Nacional a aumentar a potência de sua usina.

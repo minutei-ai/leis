@@ -136,7 +136,8 @@ Art. 5º - Esta Lei entrara em vigor na data de sua publicação, revogadas as d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e três dias do mês de dezembro de um mil novecentos e noventa e nove.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
 ANEXO III
@@ -165,5 +166,6 @@ g)    exploração de atividades e serviços de manutenção,  e abastecimen
 
 h)    exploração de atividades em geral em praças, parques, jardins e unidades de conservação ambiental........................................................................................................., 45 UFIR
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL

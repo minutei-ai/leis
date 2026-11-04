@@ -1,5 +1,3 @@
-###DEC-066707-0-000-12-06-1970@@@
-
 decreto nº 66.707, de 12 de junho de 1970.
 
 Torna sem efeito o Decreto nº 63.136 de 21 de agôsto de 1968 e retifica o art. 1º do Decreto nº 14.924 de 2 de março de 1944.

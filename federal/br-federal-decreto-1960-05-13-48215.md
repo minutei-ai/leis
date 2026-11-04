@@ -1,5 +1,3 @@
-###DEC-048215-0-000-13-05-1960@@@
-
 DECRETO Nº 48.215, DE 13 DE MAIO DE 1960.
 
 Cria a Companhia de Polícia da 11ª Região Militar.

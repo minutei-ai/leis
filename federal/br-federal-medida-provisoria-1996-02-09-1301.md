@@ -1,7 +1,3 @@
-1
-
-###MPV-001301-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.301, DE 9 DE FEVEREIRO DE 1996.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004694-0-000-12-05-2003@@@
-
 DECRETO Nº 4.694, DE 12 DE MAIO DE 2003.
 
        Altera os arts. 19, 22 e 23 do Estatuto da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF, aprovado pelo Decreto no 3.604, de 20 de setembro de 2000.
@@ -44,6 +42,8 @@ II \- dirigir, coordenar e controlar as atividades da área que lhe foi atribu
 
 Brasília, 12 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Guido Mantega<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Guido Mantega
+
 Ciro Ferreira Gomes

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183720)
-
 # DECRETO Nº 62.886, DE 20 DE OUTUBRO DE 2017
 
 ### _Suspende o expediente nas repartições públicas estaduais no dia 3 de novembro de 2017, e dá providências correlatas_
@@ -28,50 +26,96 @@ Palácio dos Bandeirantes, 20 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Rubens Naman Rizek Junior<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Agricultura e Abastecimento<br>
-Cláudio Valverde Santos<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Jose Luiz de França Penna<br>
-Secretário da Cultura<br>
-José Renato Nalini<br>
-Secretário da Educação<br>
-Benedito Braga<br>
-Secretário de Saneamento e Recursos Hídricos<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Nelson Luiz Baeta Neves Filho<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Habitação<br>
-Laurence Casagrande Lourenço<br>
-Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Mendy Tal<br>
-Chefe de Gabinete, Respondendo pelo Expediente da Secretaria de Desenvolvimento Social<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Eduardo Ribeiro Adriano<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Saúde<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Lourival Gomes<br>
-Secretário da Administração Penitenciária<br>
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-José Luiz Ribeiro<br>
-Secretário do Emprego e Relações do Trabalho<br>
-Paulo Gustavo Maiurino<br>
-Secretário de Esporte, Lazer e Juventude<br>
-João Carlos de Souza Meirelles<br>
-Secretário de Energia e Mineração<br>
-Fabrício Cobra Arbex<br>
-Secretário-Adjunto da Casa Civil, Respondendo pelo Expediente da Secretaria de Turismo<br>
-Linamara Rizzo Battistella<br>
-Secretária dos Direitos da Pessoa com Deficiência<br>
-Tiago Antonio Morais<br>
-Chefe de Gabinete, Respondendo pelo Expediente da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Rubens Naman Rizek Junior
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Agricultura e Abastecimento
+
+Cláudio Valverde Santos
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Jose Luiz de França Penna
+
+Secretário da Cultura
+
+José Renato Nalini
+
+Secretário da Educação
+
+Benedito Braga
+
+Secretário de Saneamento e Recursos Hídricos
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Nelson Luiz Baeta Neves Filho
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Habitação
+
+Laurence Casagrande Lourenço
+
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes
+
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Mendy Tal
+
+Chefe de Gabinete, Respondendo pelo Expediente da Secretaria de Desenvolvimento Social
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Eduardo Ribeiro Adriano
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Saúde
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Lourival Gomes
+
+Secretário da Administração Penitenciária
+
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+José Luiz Ribeiro
+
+Secretário do Emprego e Relações do Trabalho
+
+Paulo Gustavo Maiurino
+
+Secretário de Esporte, Lazer e Juventude
+
+João Carlos de Souza Meirelles
+
+Secretário de Energia e Mineração
+
+Fabrício Cobra Arbex
+
+Secretário-Adjunto da Casa Civil, Respondendo pelo Expediente da Secretaria de Turismo
+
+Linamara Rizzo Battistella
+
+Secretária dos Direitos da Pessoa com Deficiência
+
+Tiago Antonio Morais
+
+Chefe de Gabinete, Respondendo pelo Expediente da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 20 de outubro de 2017.

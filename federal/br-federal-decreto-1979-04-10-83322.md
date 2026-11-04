@@ -1,5 +1,3 @@
-###DEC-083322-0-000-10-04-1979@@@
-
 Decreto nº 83.322, de 10 de abril de 1979.
 
 Concede reconhecimento ao curso de Educação Física da Universidade Gama Filho, com sede no Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-082540-0-000-01-11-1978@@@
-
 Decreto nº 82.540, de 01 de novembro de 1978.
 
 Concede reconhecimento ao curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras "Madre Gertrudes de São José" com sede em Cachoeiro do Itapemirim, no Estado do Espírito Santo.

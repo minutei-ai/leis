@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211618)<br>
-
 # DECRETO N° 69.941, DE 10 DE OUTUBRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, por doação, sem encargos, do Município de Marília, o imóvel que especifica._

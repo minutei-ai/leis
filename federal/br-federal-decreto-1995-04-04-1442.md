@@ -1,7 +1,3 @@
-1
-
-###DEC-001442-0-000-04-04-1995@@@
-
 DECRETO Nº 1.442, DE 4 DE ABRIL DE 1995
 
 Dá nova redação aos arts. 10 e 34 do Decreto nº 455, de 26 de fevereiro de 1992, que regulamenta a Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

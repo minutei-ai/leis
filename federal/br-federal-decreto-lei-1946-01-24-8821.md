@@ -1,5 +1,3 @@
-###DEL-008821-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.821 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a acumulação de aposentadorias e pensões e dá outras providências.

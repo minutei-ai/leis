@@ -10,12 +10,14 @@ Art. 1º Fica prorrogada, para o exercício de 2025, a vigência do Cofinanciame
 
 Art. 2º Os saldos de exercícios anteriores serão reprogramados e livremente utilizados no investimento e no custeio das equipes, das ações e dos serviços de proteção social básica, de proteção social especial e de média e alta complexidades, nos benefícios eventuais, na vigilância socioassistencial e nas demais áreas de gestão.
 
-Art. 3º Para o cumprimento dos programas, dos projetos, dos serviços e dos benefícios socioassistenciais destinados ao fortalecimento do SUAS no Estado de Goiás, no exercício de 2025, será destinado o valor de R$ 38.643.682,00 (trinta e oito milhões, seiscentos e quarenta e três mil e seiscentos e oitenta e dois reais).<br>
+Art. 3º Para o cumprimento dos programas, dos projetos, dos serviços e dos benefícios socioassistenciais destinados ao fortalecimento do SUAS no Estado de Goiás, no exercício de 2025, será destinado o valor de R$ 38.643.682,00 (trinta e oito milhões, seiscentos e quarenta e três mil e seiscentos e oitenta e dois reais).
+
 \- [Redação dada pelo Decreto nº 10.717, de 26-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111002).
 
 ~~Art. 3º Para o cumprimento dos programas, dos projetos, dos serviços e dos benefícios socioassistenciais destinados ao fortalecimento do SUAS no Estado de Goiás, no exercício de 2025, será destinado o valor de R$ 15.000.000,00 (quinze milhões de reais).~~
 
-Parágrafo único. Ficam fixados, para o exercício de 2025, os valores de até RS 2,50 (dois reais e cinquenta centavos) mensais por família cadastrada no Cadastro Único para Programas Sociais do Governo Federal – CadÚnico e de, no mínimo, R$ 6.000,00 (seis mil reais) mensais para os municípios que não atingirem esse valor pelo número das famílias.<br>
+Parágrafo único. Ficam fixados, para o exercício de 2025, os valores de até RS 2,50 (dois reais e cinquenta centavos) mensais por família cadastrada no Cadastro Único para Programas Sociais do Governo Federal – CadÚnico e de, no mínimo, R$ 6.000,00 (seis mil reais) mensais para os municípios que não atingirem esse valor pelo número das famílias.
+
 \- [Redação dada pelo Decreto nº 10.717, de 26-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111002).
 
 ~~Parágrafo único. Ficam fixados, para o exercício de 2025, os valores de R$ 2,50 (dois reais e cinquenta centavos) mensais por família cadastrada no Cadastro Único para Programas Sociais do Governo Federal – CadÚnico e de, no mínimo, R$ 6.000,00 (seis mil reais) mensais para os municípios que não atingirem esse valor pelo número das famílias.~~

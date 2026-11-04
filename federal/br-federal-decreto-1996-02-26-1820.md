@@ -1,5 +1,3 @@
-###DEC-001820-0-000-26-02-1996@@@
-
 DECRETO Nº 1.820, DE 26 FEVEREIRO DE 1996
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

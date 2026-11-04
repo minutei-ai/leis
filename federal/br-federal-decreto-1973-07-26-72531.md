@@ -1,5 +1,3 @@
-###DEC-072531-0-000-26-07-1973@@@
-
 DECRETO Nº 72.531, DE 26 DE JULHO DE 1973.
 
 Transfere o Centro Experimental de Orientação Infanto-Juvenil, da Coordenação de Proteção Materno-Infantil, para a Fundação Instituto Oswaldo Cruz.

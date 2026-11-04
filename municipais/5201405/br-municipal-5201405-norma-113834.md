@@ -16,7 +16,8 @@ a)    Presidente: Rosângela Ribeiro de Souza – CPF 966.986.671-53
 
 b)    Vice-Presidente: Rutileia de Sá Arruda –    CPF 963.187.751-53
 
-c)    Secretária: Marinês Eurides Moreira Correia – CPF 508.340.531-87<br>
+c)    Secretária: Marinês Eurides Moreira Correia – CPF 508.340.531-87
+
                                         
 
 II.    REPRESENTANTES GOVERNAMENTAIS:
@@ -43,7 +44,8 @@ b)    Suplente: Norma Vieira Andrade -  CPF: 520.970.801-20
 
 a)    Titular: Marilya Rodrigues Reis - CPF: 027.478.861-66
 
-b)    Suplente: Loanny Moreira Barbosa - CPF: 018.065.251-60<br>
+b)    Suplente: Loanny Moreira Barbosa - CPF: 018.065.251-60
+
  
 
 5.    Secretaria Municipal de Esporte, Lazer e Juventude
@@ -100,7 +102,8 @@ III.    REPRESENTANTES NÃO GOVERNAMENTAIS:
 
 a)    Titular: Maria Lúcia das Dores Ferreira -  CPF: 144.208.131-72
 
-b)    Suplente: Simone Ferreira – CPF: 037.684.251-26<br>
+b)    Suplente: Simone Ferreira – CPF: 037.684.251-26
+
   
 
 2.    ENTIDADE: Associação de Moradores da Terra do Sol e Continental Mãos Unidas
@@ -167,18 +170,22 @@ b)    Suplente: Nivalda Pereira da Silva – CPF: 363.302.991-53
 
 a)    Titular: Elisabete Alves Nascimento – CPF: 003.875.361-83
 
-b)    Suplente: Ana Carolina da Silva - CPF: 737.865.511-20<br>
+b)    Suplente: Ana Carolina da Silva - CPF: 737.865.511-20
+
  
 
 Art. 2º Este Decreto Entrará em vigor na data de sua publicação, revogando as disposições contrárias.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 25 de janeiro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-SULNARA SANTANA<br>
+SULNARA SANTANA
+
 Secretária de Assistência Social

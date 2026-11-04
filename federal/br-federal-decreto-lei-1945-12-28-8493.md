@@ -1,5 +1,3 @@
-###DEL-008493-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.493 – DE 28 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a concessão de empréstimos de emergência a estabelecimentos bancários.

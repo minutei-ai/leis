@@ -1,5 +1,3 @@
-###DEC-088230-0-000-14-04-1983@@@
-
 Decreto nº 88.230, de 14 de abril de 1983.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS, imóveis constituídos de terra e benfeitorias que menciona.

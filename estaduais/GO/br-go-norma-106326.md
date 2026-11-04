@@ -50,8 +50,6 @@ b) ao art. 3º deste Decreto.
 
 Goiânia, 10 de novembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

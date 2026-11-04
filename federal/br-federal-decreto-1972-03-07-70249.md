@@ -1,5 +1,3 @@
-###DEC-070249-0-000-07-03-1972@@@
-
 DECRETO Nº 70.249, DE 7 DE MARÇO DE 1972.
 
 Redistribui com os respectivos ocupantes, para o Instituto Nacional de Previdência Social, cargos do Ministério do Trabalho e Previdência Social e dá outras providências.

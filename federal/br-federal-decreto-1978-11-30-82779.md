@@ -1,5 +1,3 @@
-###DEC-082779-0-000-30-11-1978@@@
-
 Decreto nº 82.779, de 30 de novembro de 1978.
 
 Altera o Decreto nº 78.523, de 30 de setembro de 1976, que concedeu reconhecimento ao curso de Administração da Faculdade de Administração de Capivari, com sede na cidade de Capivari, Estado de São Paulo.

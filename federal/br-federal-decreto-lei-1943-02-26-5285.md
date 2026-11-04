@@ -1,5 +1,3 @@
-###DEL-005285-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.285 – DE 26 DE FEVEREIRO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 9.037,00 para liquidação de despesas

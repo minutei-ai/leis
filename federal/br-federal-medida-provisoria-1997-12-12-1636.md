@@ -1,5 +1,3 @@
-###MPV-001636-0-000-12-12-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.636, DE 12 DE DEZEMBRO DE 1997
 
 Dispõe acerca da incidência do imposto de renda na fonte sobre rendimentos de aplicações financeiras e dá outras providências.

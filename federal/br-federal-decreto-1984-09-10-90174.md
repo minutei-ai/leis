@@ -1,5 +1,3 @@
-###DEC-090174-0-000-10-09-1984@@@
-
 DECRETO Nº 90.174, DE 10 DE SETEMBRO DE 1984
 
 Altera dispositivo do Decreto nº 84.626. de 09 de abril de 1980, que cria, no Ministério da Aeronáutica, a Diretoria do Material da Aeronáutica.

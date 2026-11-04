@@ -1,5 +1,3 @@
-###DEC-002255-0-000-16-06-1997@@@
-
 DECRETO Nº 2.255, DE 16 DE JUNHO DE 1997
 
 Concede indenização à família de pessoa desaparecida ou morta em razão de participação, ou acusação de participação, em atividades políticas, no período de 2 de setembro de 1961 a 15 de agosto de 1979.

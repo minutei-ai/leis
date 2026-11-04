@@ -1,5 +1,3 @@
-###DEC-052741-0-000-23-10-1963@@@
-
 DECRETO Nº 52.741, DE 23 DE OUTUBRO DE 1963.
 
 Revoga o art. 531 do Regulamento Geral da Previdência Social.

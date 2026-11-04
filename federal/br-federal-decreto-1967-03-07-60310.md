@@ -1,5 +1,3 @@
-###DEC-060310-0-000-07-03-1967@@@
-
 DECRETO Nº 60.310, DE 7 DE MARÇO DE 1967.
 
 Declara de interêsse social, para fins de desapropriação, áreas de terra situadas no Município de Iguatemi, no Estado de Estado Mato Grosso.

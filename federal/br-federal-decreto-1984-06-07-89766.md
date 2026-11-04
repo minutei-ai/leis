@@ -1,5 +1,3 @@
-###DEC-089766-0-000-07-06-1984@@@
-
 Decreto nº 89.766, de 07 de junho de 1984
 
 Dispõe sobre a estrutura básica do Ministério das Relações Exteriores e dá outras providências.

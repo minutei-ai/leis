@@ -1,7 +1,3 @@
-1
-
-###DEC-098655-0-000-21-12-1989@@@
-
 DECRETO Nº 98.655, DE 21 DE DEZEMBRO DE 1989
 
 Altera o Decreto n° 96.620, de 31 de agosto de 1988, e dá outras providências.

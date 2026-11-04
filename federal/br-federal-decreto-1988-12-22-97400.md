@@ -1,5 +1,3 @@
-###DEC-097400-0-000-22-12-1988@@@
-
 DECRETO Nº 97.400, DE 22 DE DEZEMBRO DE 1988
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

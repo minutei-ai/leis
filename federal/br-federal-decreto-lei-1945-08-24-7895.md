@@ -1,5 +1,3 @@
-###DEL-007895-0-000-24-08-1945@@@
-
 DECRETO-LEI N. 7.895 – DE 24 DE AGÔSTO DE 1945
 
 Dispõe sôbre o custeio das despesas de material e aluguel de casa das Coletorias Federais, e dá outras providências

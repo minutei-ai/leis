@@ -1,5 +1,3 @@
-###DEC-062318-0-000-28-02-1968@@@
-
 DECRETO Nº 62.318, DE 28 DE FEVEREIRO DE 1968.
 
 Prorroga o prazo fixado no parágrafo único do art. 15 do Decreto número 60.439, de 13 de março de 1967, com a redação prevista na alínea II do art. 1º do Decreto nº 61.507, de 10 de outubro de 1967.

@@ -1,5 +1,3 @@
-###DEC-092901-0-000-08-07-1986@@@
-
 DECRETO Nº 92.901, DE 8 DE JULHO DE 1986
 
 Outorga à Companhia Industrial Itaunense concessão para o aproveitamento da energia hidráulica de um trecho do rio São João, no Município de Itaúna, Estado de Minas Gerais, para uso exclusivo.

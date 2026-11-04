@@ -1,6 +1,7 @@
 LEI Nº 1.734 DE 19 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-12637-de-10-de-janeiro-de-2013#LO%2012.637)  de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Bacia do Rio Corrente, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Brejolândia, Canápolis, Cocos, Coribe, Correntina, Jaborandi, Santa Maria da Vitória, Santana, São Félix do Coribe, Serra Dourada e Tabocas do Brejo Velho.  
 
 Cria o Município de CANÁPOLIS, desmembrado do de SANTANA.
@@ -49,4 +50,4 @@ Governador
 
 Ademar Martinelli Braga
 
-* * *
+ *

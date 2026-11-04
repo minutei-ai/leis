@@ -1,5 +1,3 @@
-###DEL-005827-0-000-16-09-1943@@@
-
 DECRETO N. 5.827 – 16 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 3.000,00 à verba especifica

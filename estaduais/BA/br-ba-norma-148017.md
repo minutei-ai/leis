@@ -158,21 +158,24 @@ Pablo Rodrigo Barrozo dos Anjos Vale
 
 Secretário da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura
 
-Osni Cardoso de Araújo<br>
+Osni Cardoso de Araújo
+
 Secretário de Desenvolvimento Rural
 
 Marcus Vinicius Di Flora
 
 Secretário de Comunicação Social
 
-Luís Maurício Bacellar Batista<br>
+Luís Maurício Bacellar Batista
+
 Secretário de Turismo
 
 Fabya dos Reis Santos
 
 Secretária de Assistência e Desenvolvimento Social
 
-José Carlos Souto de Castro Filho<br>
+José Carlos Souto de Castro Filho
+
 Secretário de Administração Penitenciária e Ressocialização
 
 Mateus da Cunha Dias
@@ -181,45 +184,4 @@ Secretário Extraordinário do Sistema Viário Oeste Ponte Salvador-Itaparica
 
 ANEXO ÚNICO
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:402.45pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:6.75pt"><td colspan="2" style="width:402.45pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="537"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:17.2pt;margin-bottom:
-  3.0pt;margin-left:18.45pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-.55pt;line-height:117%"><span style="color:black">TABELA DE CONTRIBUIÇÃO PARA BENEFIClÁRIOS TlTULARES DE QUE TRATA O INCISO X DOART. 4º E AGREGADOS</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.45pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:104%"><span style="color:black">Faixa Etária</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-right:1.7pt;text-align:justify;
-  text-justify:inter-ideograph;line-height:104%"><span style="color:black">Valor da Contribuição</span></p><p class="Tabela-Texto" style="margin-top:.2pt;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">(em R$)</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">até 24 anos</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-top:.65pt;margin-right:2.55pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">120,00</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">de 25 a 29 anos</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-top:.65pt;margin-right:.9pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">156,00</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">de 30 a <i>39 </i>anos</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-top:.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">204,96</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:.35pt;margin-right:.3pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">de 40 a 49 anos</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-top:.9pt;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">271,55</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:.65pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">de 50 a 59 anos</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-top:1.05pt;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">362,10</span></p></td></tr><tr style="height:6.75pt"><td style="width:205.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="274"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:1.6pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:104%"><span style="color:black;font-weight:normal">a partir de 60 anos</span></p></td><td style="width:196.7pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:6.75pt" valign="top" width="262"><p class="Tabela-Texto" style="margin-top:.9pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">485,26</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> TABELA DE CONTRIBUIÇÃO PARA BENEFIClÁRIOS TlTULARES DE QUE TRATA O INCISO X DOART. 4º E AGREGADOS </td></tr><tr><td valign="top"> Faixa Etária </td><td valign="top"> Valor da Contribuição (em R$) </td></tr><tr><td valign="top"> até 24 anos </td><td valign="top"> 120,00 </td></tr><tr><td valign="top"> de 25 a 29 anos </td><td valign="top"> 156,00 </td></tr><tr><td valign="top"> de 30 a *39 *anos </td><td valign="top"> 204,96 </td></tr><tr><td valign="top"> de 40 a 49 anos </td><td valign="top"> 271,55 </td></tr><tr><td valign="top"> de 50 a 59 anos </td><td valign="top"> 362,10 </td></tr><tr><td valign="top"> a partir de 60 anos </td><td valign="top"> 485,26 </td></tr></tbody></table>

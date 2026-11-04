@@ -1,5 +1,3 @@
-###DEL-002022-0-000-18-05-1983@@@
-
 # DECRETO-LEI Nº 2.022, de 18 de maio de 1983
 
 Complementa a redação do Art. 6º do Decreto - Lei nº 185, de 23 de fevereiro de 1967 que estabelece normas para a contratação de obras ou serviços a cargo do Governo Federal.

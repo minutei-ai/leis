@@ -1,5 +1,3 @@
-###DEC-045321-0-000-27-01-1959@@@
-
 DECRETO Nº 45.321, DE 27 DE JANEIRO DE 1959.
 
 Renova o Decreto nº 39.106, de 30 de abril de 1956.

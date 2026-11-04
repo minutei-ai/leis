@@ -1,5 +1,3 @@
-###DEC-091316-0-000-11-06-1985@@@
-
 DECRETO Nº 91.316, DE 11 DE JUNHO DE 1985
 
 Outorga concessão à FUNDAÇÃO DE APOIO AO DESENVOLVIMENTO DA EDUCAÇÃO DO ESTADO DO PIAUÍ - FADEP, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Teresina, Estado do Piauí.

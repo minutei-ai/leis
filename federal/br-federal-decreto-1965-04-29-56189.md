@@ -1,5 +1,3 @@
-###DEC-056189-0-000-29-04-1965@@@
-
 DECRETO Nº 56.189, de 29 de abril de 1965.
 
 Abre, ao Ministério das Relações Exteriores, o crédito especial de Cr$25.000.000, para atender às despesas decorrentes da vista ao Brasil do Presidente da República do Senegal.

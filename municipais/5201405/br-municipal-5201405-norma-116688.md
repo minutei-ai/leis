@@ -22,8 +22,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 11 de
 
  
 
-VETER MARTINS MORAIS<br>
+VETER MARTINS MORAIS
+
 Prefeito em exercício
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

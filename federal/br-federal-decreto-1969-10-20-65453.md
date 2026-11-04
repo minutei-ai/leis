@@ -1,5 +1,3 @@
-###DEC-065453-0-000-20-10-1969@@@
-
 DECRETO Nº 65.453 - DE 20 DE OUTUBRO DE 1969.
 
 Dispõe sôbre a regulamentação das normas legais relativas à aplicação da correção monetária às emprêsas concessionárias de serviços portuários.

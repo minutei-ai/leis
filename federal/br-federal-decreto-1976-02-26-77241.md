@@ -1,5 +1,3 @@
-###DEC-077241-0-000-26-02-1976@@@
-
 DECRETO Nº 77.241, DE 26 DE FEVEREIRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

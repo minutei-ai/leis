@@ -32,28 +32,36 @@ a) universidades e instituições de pesquisa para promover estudos e pesquisa s
 
 b) órgãos públicos e organização da sociedade civil para alcançar os fins previstos nesta Lei.
 
-VI – estimular a realização de cursos e _workshops_ para pais e mães sobre cuidados específicos e estratégias de manejo de crianças com condições especiais;<br>
+VI – estimular a realização de cursos e _workshops_ para pais e mães sobre cuidados específicos e estratégias de manejo de crianças com condições especiais;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-VII – estimular a disponibilização de treinamentos sobre direitos e acesso a serviços de saúde e educação para crianças atípicas;<br>
+VII – estimular a disponibilização de treinamentos sobre direitos e acesso a serviços de saúde e educação para crianças atípicas;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-VIII – estimular a criação de um banco de recursos e contatos de profissionais especializados e redes de apoio para pais e mães atípicos;<br>
+VIII – estimular a criação de um banco de recursos e contatos de profissionais especializados e redes de apoio para pais e mães atípicos;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-IX – estimular a orientação e a assistência na obtenção de benefícios e serviços sociais específicos para famílias de crianças com necessidades especiais;<br>
+IX – estimular a orientação e a assistência na obtenção de benefícios e serviços sociais específicos para famílias de crianças com necessidades especiais;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-X – estimular a implementação de programas de auxílio financeiro para famílias em situação de vulnerabilidade devido às necessidades especiais dos filhos;<br>
+X – estimular a implementação de programas de auxílio financeiro para famílias em situação de vulnerabilidade devido às necessidades especiais dos filhos;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-XI – estimular instituições educacionais e de saúde a se adaptarem para atender às necessidades das crianças com condições especiais;<br>
+XI – estimular instituições educacionais e de saúde a se adaptarem para atender às necessidades das crianças com condições especiais;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-XII – estimular a celebração de parcerias com organizações não governamentais e entidades privadas para ampliar a rede de suporte às famílias;<br>
+XII – estimular a celebração de parcerias com organizações não governamentais e entidades privadas para ampliar a rede de suporte às famílias;
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-XIII – estimular a divulgação e a acessibilidade dos serviços e programas oferecidos.<br>
+XIII – estimular a divulgação e a acessibilidade dos serviços e programas oferecidos.
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
 Art. 3º A Semana Estadual instituída por esta Lei tem por objetivos:
@@ -66,10 +74,12 @@ III – incentivar a realização de concursos, oficinas temáticas, cursos e af
 
 Art. 4º A Semana Estadual das Mães Atípicas fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.
 
-Art. 4º-A As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.<br>
+Art. 4º-A As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
-Art. 4º-B Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública instituída.<br>
+Art. 4º-B Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública instituída.
+
 \- [Acrescido pela Lei nº 24.367, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714).
 
 Art. 5º Esta Lei entra em vigor na data de sua publicação.

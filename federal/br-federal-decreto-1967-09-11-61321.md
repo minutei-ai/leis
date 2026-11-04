@@ -1,5 +1,3 @@
-###DEC-061321-0-000-11-09-1967@@@
-
 DECRETO Nº 61.321, DE 11 DE SETEMBRO DE 1967.
 
 Prorroga o prazo para realização dos estudos do Grupo de Trabalho criado pelo Decreto nº 60.848, de 9 de junho de 1967.

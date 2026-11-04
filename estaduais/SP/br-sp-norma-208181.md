@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208181)<br>
-
 # DECRETO N° 67.737, DE 12 DE JUNHO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Via Paulista S/A, a área complementar necessária à implantação de dispositivo do tipo diamante no km 225+840m da Rodovia Anhanguera, SP-255, no Município de Botucatu, e dá providências correlatas._

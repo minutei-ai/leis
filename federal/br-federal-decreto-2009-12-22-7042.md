@@ -1,5 +1,3 @@
-###DEC-007042-0-000-22-12-2009@@@
-
 DECRETO Nº 7.042, DE 22 DE DEZEMBRO DE 2009.
 
 Altera o caput do art. 12 do Decreto no 6.752, de 28 de janeiro de 2009, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2009.

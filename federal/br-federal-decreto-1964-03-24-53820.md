@@ -1,5 +1,3 @@
-###DEC-053820-0-000-24-03-1964@@@
-
 DECRETO Nº 53.820, DE 24 DE MARÇO DE 1964.
 
 Dispõe sôbre a profissão de atleta de futebol, disciplina sua participação nas partidas e dá outras providências.

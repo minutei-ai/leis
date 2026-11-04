@@ -1,5 +1,3 @@
-###DEC-081835-0-000-26-06-1978@@@
-
 Decreto nº 81.835, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Ciências Contábeis, ministrado pela Faculdade de Ciências Contábeis e Administrativas de Cachoeiro de Itapemirim, com sede na cidade de Cachoeiro de Itapemirim, Estado do Espírito Santo.

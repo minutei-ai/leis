@@ -1,5 +1,3 @@
-###DEC-086991-0-000-08-03-1982@@@
-
 decreto nº 86.991, de 08 de março de 1982.
 
 Suspende, por inconstitucionalidade, a execução de parte do item X do artigo 17 da Constituição do Estado de São Paulo e de parte do artigo 10 do Decreto-lei Complementar nº 7, de 6 de novembro de 1969, do mesmo Estado.

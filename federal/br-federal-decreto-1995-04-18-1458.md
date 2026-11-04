@@ -1,7 +1,3 @@
-1
-
-###DEC-001458-0-000-18-04-1995@@@
-
 DECRETO Nº 1.458, DE 18 DE ABRIL DE 1995
 
 Altera, para o produto que especifica, o Anexo ao Decreto nº 1.453, de 11 de abril de 1995.

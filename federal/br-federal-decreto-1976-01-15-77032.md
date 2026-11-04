@@ -1,5 +1,3 @@
-###DEC-077032-0-000-15-01-1976@@@
-
 DECRETO Nº 77.032, DE 15 DE JANEIRO DE 1976.
 
 Torna sem efeito a cassação da disponibilidade de servidora do Ministério da Saúde.

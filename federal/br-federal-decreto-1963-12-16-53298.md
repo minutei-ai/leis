@@ -1,5 +1,3 @@
-###DEC-053298-0-000-16-12-1963@@@
-
 decreto nº 53.298, de 16 dezembro de 1963.
 
 Autoriza o cidadão brasileiro Raphael de Oliveira Pirajá a pesquisar areia quartzosa, no município de Mongagua, Estado de São Paulo.

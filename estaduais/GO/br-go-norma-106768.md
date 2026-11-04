@@ -30,40 +30,49 @@ ANEXO ÚNICO
 
 | DE (ESTRUTURA DA LEI Nº 20.491, DE 25 DE JUNHO DE 2019) |   | PARA (ESTRUTURA DO DECRETO Nº 10.218, DE 16 DE FEVEREIRO DE 2023) |
 | --- | --- | --- |
-| SEQUÊN-<br>
+| SEQUÊN-
+
 CIA |
-SIGLA<br>
+SIGLA
+
 DO ÓRGÃO
 
- | NOME DA UNIDADE | CLASSIFI-<br>
+ | NOME DA UNIDADE | CLASSIFI-
+
 CAÇÃO |
 
-DENOMINAÇÃO<br>
+DENOMINAÇÃO
+
  DO CARGO
 
  |
 
-QUAN-<br>
+QUAN-
+
 TIDADE
 
  | SÍMBOLO |   |
 
-SEQUÊN-<br>
+SEQUÊN-
+
 CIA
 
  |
 
-SIGLA<br>
+SIGLA
+
 DO ÓRGÃO
 
  | NOME DA UNIDADE | CLASSIFICAÇÃO |
 
-DENOMINA-<br>
+DENOMINA-
+
 ÇÃO DO CARGO
 
  |
 
-QUAN-<br>
+QUAN-
+
 TIDADE
 
  | SÍMBOLO |

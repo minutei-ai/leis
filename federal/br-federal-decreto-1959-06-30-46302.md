@@ -1,5 +1,3 @@
-###DEC-046302-0-000-30-06-1959@@@
-
 DECRETO Nº 46.302, DE 30 DE JUNHO DE 1959.
 
 Autoriza a cidadã brasileira Maria Eulalia Fagundes Beck a lavrar calcário no município de Pinheiro Machado , Estado do Rio Grande do Sul.

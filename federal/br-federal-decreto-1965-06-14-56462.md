@@ -1,5 +1,3 @@
-###DEC-056462-0-000-14-06-1965@@@
-
 DECRETO Nº 56.462, de 14 DE JUNHO DE 1965.
 
 Dispõe sôbre o lançamento e arrecadação, no exercício de 1965, do impôsto territorial rural e dá outras providências.

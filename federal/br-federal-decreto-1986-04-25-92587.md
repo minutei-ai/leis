@@ -1,5 +1,3 @@
-###DEC-092587-0-000-25-04-1986@@@
-
 DECRETO Nº 92.587, DE 25 DE ABRIL DE 1986
 
 Altera dispositivo do Decreto nº 86.010, de 15 de maio de 1981, que dispõe sobre a Comissão de Coordenação do Transporte Aéreo Civil - COTAC.

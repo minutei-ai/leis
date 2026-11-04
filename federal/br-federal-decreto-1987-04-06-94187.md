@@ -1,5 +1,3 @@
-###DEC-094187-0-000-06-04-1987@@@
-
 DECRETO Nº 94.187, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à RÁDIO UNIVERSITÁRIA METROPOLITANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rio Branco, Estado do Acre.

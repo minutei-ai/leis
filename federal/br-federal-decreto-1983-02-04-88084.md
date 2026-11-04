@@ -1,5 +1,3 @@
-###DEC-088084-0-000-04-02-1983@@@
-
 DECRETO Nº 88.084, DE 04 DE FEVEREIRO DE 1983.
 
 Autoriza ROMULO JOSÉ BARBONI, de nacionalidade argentina, a adquirir imóvel rural.

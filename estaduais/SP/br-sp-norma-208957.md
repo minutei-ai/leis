@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208957)<br>
-
 # DECRETO N° 68.208, DE 15 DE DEZEMBRO DE 2023
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Virtude Samaritana", instituída pela Associação Paulista dos Servidores do Estado e dos Municípios de São Paulo - PAULISERV-SP, e dá providências correlatas._

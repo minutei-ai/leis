@@ -117,7 +117,3 @@ Art. 6º – Esta Lei Delegada entra em vigor a partir da data de sua publicaç�
 Palácio da Liberdade, em Belo Horizonte, aos 25 de janeiro de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.
 
 Aécio Neves - Governador do Estado
-
-\======================================================================
-
-Data da última atualização: 18/8/2026.

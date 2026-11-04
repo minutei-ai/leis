@@ -1,5 +1,3 @@
-###DEC-072721-0-000-30-08-1973@@@
-
 DECRETO Nº 72.721, DE 30 DE AGOSTO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação uma área de terreno, composto de dois lotes com benfeitorias, situada na Cidade de Leopoldina - Estado de Minas Gerais, destinada à construção da Estação Tanden, pela Companhia Telefônica de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-055523-0-000-11-01-1965@@@
-
 DECRETO Nº 55.523, de 11 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Arlindo Siqueira a pesquisar quartzo e mica   no município de Santa Maria do Suaçul, Estado de Mina Gerais.

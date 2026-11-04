@@ -1,18 +1,16 @@
-###DEC-035728-0-000-25-06-1954@@@
+**DECRETO Nº 35.728, DE 25 DE JULHO DE 1954.**
 
-<strong>DECRETO Nº 35.728, DE 25 DE JULHO DE 1954.</strong>
+***Altera o Regimento de Divisão do Imposto de Renda.***
 
-<em><strong>Altera o Regimento de Divisão do Imposto de Renda.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da Atribuição que lhe confere o art. 87, item I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da Atribuição que lhe confere o art. 87, item I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º o art. 15 do Decreto número 9.423, de 20 de maio de 1942, passa a ter a seguinte redação:
+**Art**. 1º o art. 15 do Decreto número 9.423, de 20 de maio de 1942, passa a ter a seguinte redação:
 
 “Art. 15 Onde não houver D. S., mas se tornar conveniente a assistência direta da D. R., serão criadas por Portaria do Diretor Geral da Fazenda Nacional, sempre a critério e por iniciativa do Diretor da D. I. R, Inspetorias do Impôsto de Renda , sendo a designação dos Inspetores de competência do Diretor da D. I. R., aos inspetores será atribuída gratificação de função a ser fixada em lei”.
 
-<strong>Art</strong>. 2º Acrescente-se ao art. 22 do Regimento aprovado pelo Decreto citado, um parágrafo 3º, com a seguinte redação:
+**Art**. 2º Acrescente-se ao art. 22 do Regimento aprovado pelo Decreto citado, um parágrafo 3º, com a seguinte redação:
 
 3º As Inspetorias criadas na forma do art. 21 da lei nº 154, de 25 de novembro de 1947, terão a seu cargo as seguintes atividades:
 
@@ -118,7 +116,7 @@ LII - instruir os constituintes sôbre o modo de preenchimento das declarações
 
 LIII - colher e fornecer os elementos necessários à Sc. E da D. I. R. de acordo com as instruções que forem expedidas.
 
-<strong>Art</strong>. 3º Acrescente-se ao artigo 28 do Regime aludido um parágrafo único, com e seguinte redação:
+**Art**. 3º Acrescente-se ao artigo 28 do Regime aludido um parágrafo único, com e seguinte redação:
 
 Parágrafo único. Aos inspetores designados na forma do art. 15 deste Regimento, incumbe:
 
@@ -158,12 +156,12 @@ XVII - proibir a entrada no recinto da repartição às pessoas que se tornarem 
 
 XVIII - apresentar à Delegacia Regional ou Seccional, a cuja jurisdição fiscal pertencer, relatório dos trabalhos da Inspetoria.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 4º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º revogam-se as disposições em contrário.
+**Art**. 5º revogam-se as disposições em contrário.
 
 Rio de Janeiro, 25 de junho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Osvaldo Aranha

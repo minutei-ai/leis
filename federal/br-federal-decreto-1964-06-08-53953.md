@@ -1,5 +1,3 @@
-###DEC-053953-0-000-08-06-1964@@@
-
 decreto nº 53.953, de 8 de junho de 1964.
 
 Concede reconhecimento à Faculdade de Economia da Vale do Rio dos Sinos, de São Leopoldo, Estado do Rio Grande do Sul.

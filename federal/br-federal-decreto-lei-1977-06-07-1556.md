@@ -1,5 +1,3 @@
-###DEL-001556-0-000-07-06-1977@@@
-
 # DECRETO-Lei Nº 1.556, DE 7 DE JUNHO DE 1977
 
 Dispõe sobre a não-incidência da cota de previdência sobre os combustíveis automotivos destinados à exportação e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058873-0-000-20-07-1966@@@
-
 DECRETO Nº 58.873, DE 20 DE JULHO DE 1966.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica.

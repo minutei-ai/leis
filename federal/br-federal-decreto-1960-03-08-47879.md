@@ -1,5 +1,3 @@
-###DEC-047879-0-000-08-03-1960@@@
-
 DECRETO Nº 47.879, DE 8 DE MARÇO DE 1960.
 
 Outorga à Comissão Estadual de Energia Elétrica, do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica, no município de Pôrto Lucena, Estado do Rio Grande do Sul e dá outras providências.

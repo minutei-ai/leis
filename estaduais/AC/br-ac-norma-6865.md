@@ -1,6 +1,6 @@
 > **LEI Nº 4.820, DE 23 DE JULHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Plano de Cargos, Carreiras e Remuneração - PCCR dos Servidores da Assembleia Legislativa do Estado do Acre - ALEAC.</span></span></span></p></td></tr></tbody></table>
+Institui o Plano de Cargos, Carreiras e Remuneração - PCCR dos Servidores da Assembleia Legislativa do Estado do Acre - ALEAC.
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 
@@ -383,7 +383,7 @@ Governadora do Estado do Acre
 **DENOMINAÇÕES, QUANTITATIVOS, REQUISITOS E ATRIBUIÇÕES**
 
 |
-**Cargo/Carreira****a**
+**Cargo/Carreiraa**
 
  |
 
@@ -501,25 +501,25 @@ Exercer, garantidas as atribuições originais, as atividades de segurança inst
 
 **CARREIRA DE ANALISTA LEGISLATIVO**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>CARGO EFETIVO</span></strong></span></p></td><td valign="top"><p><span><strong><span>CLASSE</span></strong></span></p></td><td valign="top"><p><span><strong><span>PADRÃO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VENCIMENTO BÁSICO (R$)</span></strong></span></p></td></tr><tr><td rowspan="12"><p><span><span>ANALISTA LEGISLATIVO</span></span></p></td><td rowspan="4"><p><span><span>A</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$<strong>&nbsp;</strong>7.553,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 7.930,65</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 8.327,18</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 8.743,54</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>B</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 9.617,90</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 10.098,79</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 10.603,73</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 11.133,92</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>ESPECIAL</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 12.247,31</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 12.859,67</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 13.502,66</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 14.177,79</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **CARGO EFETIVO** </td><td valign="top"> **CLASSE** </td><td valign="top"> **PADRÃO** </td><td valign="top"> **VENCIMENTO BÁSICO (R$)** </td></tr><tr><td rowspan="12"> ANALISTA LEGISLATIVO </td><td rowspan="4"> A </td><td valign="top"> 1 </td><td valign="top"> R$**&nbsp;**7.553,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 7.930,65 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 8.327,18 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 8.743,54 </td></tr><tr><td rowspan="4"> B </td><td valign="top"> 1 </td><td valign="top"> R$ 9.617,90 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 10.098,79 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 10.603,73 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 11.133,92 </td></tr><tr><td rowspan="4"> ESPECIAL </td><td valign="top"> 1 </td><td valign="top"> R$ 12.247,31 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 12.859,67 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 13.502,66 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 14.177,79 </td></tr></tbody></table>
 
 **TABELA II**
 
 **CARREIRA DE TÉCNICO LEGISLATIVO**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>CARGO EFETIVO</span></strong></span></p></td><td valign="top"><p><span><strong><span>CLASSE</span></strong></span></p></td><td valign="top"><p><span><strong><span>PADRÃO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VENCIMENTO BÁSICO (R$)</span></strong></span></p></td></tr><tr><td rowspan="12"><p><span><span>TÉCNICO LEGISLATIVO</span></span></p></td><td rowspan="4"><p><span><span>A</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 5.347,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 5.614,35</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 5.895,07</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 6.189,82</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>B</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 6.808,80</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 7.149,24</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 7.506,70</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 7.882,04</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>ESPECIAL</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 8.670,24</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 9.103,75</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 9.558,94</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 10.036,89</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **CARGO EFETIVO** </td><td valign="top"> **CLASSE** </td><td valign="top"> **PADRÃO** </td><td valign="top"> **VENCIMENTO BÁSICO (R$)** </td></tr><tr><td rowspan="12"> TÉCNICO LEGISLATIVO </td><td rowspan="4"> A </td><td valign="top"> 1 </td><td valign="top"> R$ 5.347,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 5.614,35 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 5.895,07 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 6.189,82 </td></tr><tr><td rowspan="4"> B </td><td valign="top"> 1 </td><td valign="top"> R$ 6.808,80 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 7.149,24 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 7.506,70 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 7.882,04 </td></tr><tr><td rowspan="4"> ESPECIAL </td><td valign="top"> 1 </td><td valign="top"> R$ 8.670,24 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 9.103,75 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 9.558,94 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 10.036,89 </td></tr></tbody></table>
 
 **TABELA III**
 
 **CARREIRA DE POLÍCIA LEGISLATIVA**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>CARGO EFETIVO</span></strong></span></p></td><td valign="top"><p><span><strong><span>CLASSE</span></strong></span></p></td><td valign="top"><p><span><strong><span>PADRÃO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VENCIMENTO BÁSICO (R$)</span></strong></span></p></td></tr><tr><td rowspan="12"><p><span><span>POLICIAL LEGISLATIVO</span></span></p><p><span><span>(Nível superior)</span></span></p></td><td rowspan="4"><p><span><span>A</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 7.350,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 7.717,50</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 8.103,38</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 8.508,54</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>B</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>&nbsp;R$ 9.359,40</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 9.827,37</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 10.318,74</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 10.834,67</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>ESPECIAL</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 11.918,14</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 12.514,05</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 13.139,75</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 13.796,74</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **CARGO EFETIVO** </td><td valign="top"> **CLASSE** </td><td valign="top"> **PADRÃO** </td><td valign="top"> **VENCIMENTO BÁSICO (R$)** </td></tr><tr><td rowspan="12"> POLICIAL LEGISLATIVO (Nível superior) </td><td rowspan="4"> A </td><td valign="top"> 1 </td><td valign="top"> R$ 7.350,00 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 7.717,50 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 8.103,38 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 8.508,54 </td></tr><tr><td rowspan="4"> B </td><td valign="top"> 1 </td><td valign="top"> &nbsp;R$ 9.359,40 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 9.827,37 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 10.318,74 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 10.834,67 </td></tr><tr><td rowspan="4"> ESPECIAL </td><td valign="top"> 1 </td><td valign="top"> R$ 11.918,14 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 12.514,05 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 13.139,75 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 13.796,74 </td></tr></tbody></table>
 
 **TABELA IV**
 
 **QUADRO EM EXTINÇÃO - AUXILIAR LEGISLATIVO**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>CARGO EFETIVO</span></strong></span></p></td><td valign="top"><p><span><strong><span>CLASSE</span></strong></span></p></td><td valign="top"><p><span><strong><span>PADRÃO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VENCIMENTO BÁSICO (R$)</span></strong></span></p></td></tr><tr><td rowspan="12"><p><span><span>AUXILIAR LEGISLATIVO</span></span></p></td><td rowspan="4"><p><span><span>A</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 3.208,20</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 3.368,61</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 3.537,04</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 3.713,89</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>B</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 4.085,28</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 4.289,54</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 4.504,02</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 4.729,22</span></span></p></td></tr><tr><td rowspan="4"><p><span><span>ESPECIAL</span></span></p></td><td valign="top"><p><span><span>1</span></span></p></td><td valign="top"><p><span><span>R$ 5.202,14</span></span></p></td></tr><tr><td valign="top"><p><span><span>2</span></span></p></td><td valign="top"><p><span><span>R$ 5.462,25</span></span></p></td></tr><tr><td valign="top"><p><span><span>3</span></span></p></td><td valign="top"><p><span><span>R$ 5.735,36</span></span></p></td></tr><tr><td valign="top"><p><span><span>4</span></span></p></td><td valign="top"><p><span><span>R$ 6.022,13</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **CARGO EFETIVO** </td><td valign="top"> **CLASSE** </td><td valign="top"> **PADRÃO** </td><td valign="top"> **VENCIMENTO BÁSICO (R$)** </td></tr><tr><td rowspan="12"> AUXILIAR LEGISLATIVO </td><td rowspan="4"> A </td><td valign="top"> 1 </td><td valign="top"> R$ 3.208,20 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 3.368,61 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 3.537,04 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 3.713,89 </td></tr><tr><td rowspan="4"> B </td><td valign="top"> 1 </td><td valign="top"> R$ 4.085,28 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 4.289,54 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 4.504,02 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 4.729,22 </td></tr><tr><td rowspan="4"> ESPECIAL </td><td valign="top"> 1 </td><td valign="top"> R$ 5.202,14 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> R$ 5.462,25 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> R$ 5.735,36 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> R$ 6.022,13 </td></tr></tbody></table>
 
 **ANEXO IV**
 
@@ -529,28 +529,258 @@ Exercer, garantidas as atribuições originais, as atividades de segurança inst
 
 **Cargos de Natureza Especial - CNE**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>SIMBOLOGIA</span></span></p></td><td><p><span><span>VENCIMENTO (R$)</span></span></p></td></tr><tr><td><p><span><span>CNE-7</span></span></p></td><td><p><span><span>R$ 26.000,00</span></span></p></td></tr><tr><td><p><span><span>CNE-6</span></span></p></td><td><p><span><span>R$ 24.000,00</span></span></p></td></tr><tr><td><p><span><span>CNE-5</span></span></p></td><td><p><span><span>R$ 23.400,00</span></span></p></td></tr><tr><td><p><span><span>CNE-4</span></span></p></td><td><p><span><span>R$ 19.500,00</span></span></p></td></tr><tr><td><p><span><span>CNE-3</span></span></p></td><td><p><span><span>R$ 15.000,00</span></span></p></td></tr><tr><td><p><span><span>CNE-2</span></span></p></td><td><p><span><span>R$ 13.000,00</span></span></p></td></tr><tr><td><p><span><span>CNE-1</span></span></p></td><td><p><span><span>R$ 12.000,00</span></span></p></td></tr></tbody></table>
+SIMBOLOGIA
+
+VENCIMENTO (R$)
+
+CNE-7
+
+R$ 26.000,00
+
+CNE-6
+
+R$ 24.000,00
+
+CNE-5
+
+R$ 23.400,00
+
+CNE-4
+
+R$ 19.500,00
+
+CNE-3
+
+R$ 15.000,00
+
+CNE-2
+
+R$ 13.000,00
+
+CNE-1
+
+R$ 12.000,00
 
 **Seção II**
 
 **Cargos de Direção e Assessoramento Superior - DAS**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>SIMBOLOGIA</span></span></p></td><td><p><span><span>VENCIMENTO (R$)</span></span></p></td></tr><tr><td><p><span><span>DAS-6</span></span></p></td><td><p><span><span>R$ 7.000,00</span></span></p></td></tr><tr><td><p><span><span>DAS-5</span></span></p></td><td><p><span><span>R$ 6.000,00</span></span></p></td></tr><tr><td><p><span><span>DAS-4</span></span></p></td><td><p><span><span>R$ 5.000,00</span></span></p></td></tr><tr><td><p><span><span>DAS-3</span></span></p></td><td><p><span><span>R$ 4.000,00</span></span></p></td></tr><tr><td><p><span><span>DAS-2</span></span></p></td><td><p><span><span>R$ 3.000,00</span></span></p></td></tr><tr><td><p><span><span>DAS-1</span></span></p></td><td><p><span><span>R$ 2.000,00</span></span></p></td></tr></tbody></table>
+SIMBOLOGIA
+
+VENCIMENTO (R$)
+
+DAS-6
+
+R$ 7.000,00
+
+DAS-5
+
+R$ 6.000,00
+
+DAS-4
+
+R$ 5.000,00
+
+DAS-3
+
+R$ 4.000,00
+
+DAS-2
+
+R$ 3.000,00
+
+DAS-1
+
+R$ 2.000,00
 
 **Seção III**
 
 **Cargos de Secretariado Parlamentar – SP**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>SIMBOLOGIA</span></span></p></td><td><p><span><span>VENCIMENTO (R$)</span></span></p></td></tr><tr><td><p><span><span>SP-1</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>12.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-2</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>11.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-3</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>11.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-4</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>10.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-5</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>10.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-6</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>9.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-7</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>9.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-8</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>8.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-9</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>8.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-10</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>7.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-11</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>7.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-12</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>6.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-13</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>6.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-14</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>5.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-15</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>5.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-16</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>4.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-17</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>4.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-18</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>3.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-19</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>3.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-20</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.800,00</span></span></p></td></tr><tr><td><p><span><span>SP-21</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.600,00</span></span></p></td></tr><tr><td><p><span><span>SP-22</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.500,00</span></span></p></td></tr><tr><td><p><span><span>SP-23</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.400,00</span></span></p></td></tr><tr><td><p><span><span>SP-24</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.200,00</span></span></p></td></tr><tr><td><p><span><span>SP-25</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.000,00</span></span></p></td></tr><tr><td><p><span><span>SP-26</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>1.900,00</span></span></p></td></tr><tr><td><p><span><span>SP-27</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>1.800,00</span></span></p></td></tr><tr><td><p><span><span>SP-28</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>1.700,00</span></span></p></td></tr><tr><td><p><span><span>SP-29</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>1.650,00</span></span></p></td></tr></tbody></table>
+SIMBOLOGIA
+
+VENCIMENTO (R$)
+
+SP-1
+
+R$ 12.000,00
+
+SP-2
+
+R$ 11.500,00
+
+SP-3
+
+R$ 11.000,00
+
+SP-4
+
+R$ 10.500,00
+
+SP-5
+
+R$ 10.000,00
+
+SP-6
+
+R$ 9.500,00
+
+SP-7
+
+R$ 9.000,00
+
+SP-8
+
+R$ 8.500,00
+
+SP-9
+
+R$ 8.000,00
+
+SP-10
+
+R$ 7.500,00
+
+SP-11
+
+R$ 7.000,00
+
+SP-12
+
+R$ 6.500,00
+
+SP-13
+
+R$ 6.000,00
+
+SP-14
+
+R$ 5.500,00
+
+SP-15
+
+R$ 5.000,00
+
+SP-16
+
+R$ 4.500,00
+
+SP-17
+
+R$ 4.000,00
+
+SP-18
+
+R$ 3.500,00
+
+SP-19
+
+R$ 3.000,00
+
+SP-20
+
+R$ 2.800,00
+
+SP-21
+
+R$ 2.600,00
+
+SP-22
+
+R$ 2.500,00
+
+SP-23
+
+R$ 2.400,00
+
+SP-24
+
+R$ 2.200,00
+
+SP-25
+
+R$ 2.000,00
+
+SP-26
+
+R$ 1.900,00
+
+SP-27
+
+R$ 1.800,00
+
+SP-28
+
+R$ 1.700,00
+
+SP-29
+
+R$ 1.650,00
 
 **Seção IV**
 
 **Funções Gratificadas – FG**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>SIMBOLOGIA</span></span></p></td><td><p><span><span>VALOR (R$)</span></span></p></td></tr><tr><td><p><span><span>FG - 5</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.800,00</span></span></p></td></tr><tr><td><p><span><span>FG - 4</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>2.100,00</span></span></p></td></tr><tr><td><p><span><span>FG - 3</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>1.400,00</span></span></p></td></tr><tr><td><p><span><span>FG - 2</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>900,00</span></span></p></td></tr><tr><td><p><span><span>FG - 1</span></span></p></td><td><p><span><span>R$&nbsp;</span><span>600,00</span></span></p></td></tr></tbody></table>
+SIMBOLOGIA
+
+VALOR (R$)
+
+FG - 5
+
+R$ 2.800,00
+
+FG - 4
+
+R$ 2.100,00
+
+FG - 3
+
+R$ 1.400,00
+
+FG - 2
+
+R$ 900,00
+
+FG - 1
+
+R$ 600,00
 
 **ANEXO V**
 
 **TABELA DE ENQUADRAMENTO INICIAL**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>REFERÊNCIA ANTERIOR</span></span></p></td><td><p><span><span>CLASSE/PADRÃO ATUAL</span></span></p></td></tr><tr><td><p><span><span>A1</span></span></p></td><td><p><span><span>A - Padrão 1</span></span></p></td></tr><tr><td><p><span><span>A2</span></span></p></td><td><p><span><span>A - Padrão 2</span></span></p></td></tr><tr><td><p><span><span>A3</span></span></p></td><td><p><span><span>B - Padrão 3</span></span></p></td></tr><tr><td><p><span><span>B4</span></span></p></td><td><p><span><span>&nbsp;B - Padrão 4</span></span></p></td></tr><tr><td><p><span><span>B5</span></span></p></td><td><p><span><span>Especial - Padrão 1</span></span></p></td></tr><tr><td><p><span><span>B6</span></span></p></td><td><p><span><span>Especial - Padrão 2</span></span></p></td></tr><tr><td><p><span><span>C7</span></span></p></td><td><p><span><span>Especial - Padrão 3</span></span></p></td></tr><tr><td><p><span><span>C8 a D13</span></span></p></td><td><p><span><span>Especial - Padrão 4</span></span></p></td></tr></tbody></table>
+REFERÊNCIA ANTERIOR
+
+CLASSE/PADRÃO ATUAL
+
+A1
+
+A - Padrão 1
+
+A2
+
+A - Padrão 2
+
+A3
+
+B - Padrão 3
+
+B4
+
+B - Padrão 4
+
+B5
+
+Especial - Padrão 1
+
+B6
+
+Especial - Padrão 2
+
+C7
+
+Especial - Padrão 3
+
+C8 a D13
+
+Especial - Padrão 4

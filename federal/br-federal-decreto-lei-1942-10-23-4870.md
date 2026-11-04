@@ -1,5 +1,3 @@
-###DEL-004870-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.870 – DE 23 DE OUTUBRO DE 1942
 
 Modifica dispositivos do decreto-lei n. 3.937, de 13 de dezembro de 1941, que reorganiza o Instituto Nacional do Mate, e dá outras providências

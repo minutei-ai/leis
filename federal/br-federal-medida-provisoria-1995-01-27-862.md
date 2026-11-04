@@ -1,7 +1,3 @@
-1
-
-###MPV-000862-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 862, DE 27 DE JANEIRO DE 1995
 
 Concede novo prazo para conclusão do inventário do Instituto Nacional de Assistência Médica da Previdência Social (Inamps), extinto pela Lei nº 8.689, de 27 de julho de 1993.

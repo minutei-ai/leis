@@ -1,5 +1,3 @@
-###DEC-051045-0-000-26-07-1961@@@
-
 DECRETO Nº 51.045, DE 26 DE JULHO DE 1961.
 
 Institui o “Dia do Cego”

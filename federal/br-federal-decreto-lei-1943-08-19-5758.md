@@ -1,5 +1,3 @@
-###DEL-005758-0-000-19-08-1943@@@
-
 DECRETO‑LEI N. 5.758 – de 19 DE AGOSTO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 343.685,00 para classificação do despesa

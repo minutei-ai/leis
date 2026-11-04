@@ -1,5 +1,3 @@
-###DEC-078719-0-000-11-11-1976@@@
-
 Decreto N° 78.719, DE 11 DE NOVEMBRO DE 1976.
 
 Eleva o capital da empresa pública Financiadora de Estudos e Projetos - FINEP.

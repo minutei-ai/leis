@@ -1,5 +1,3 @@
-###DEC-078319-0-000-26-08-1976@@@
-
 DECRETO Nº 78.319, DE 26 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia de Produção da Escola Politécnica da Universidade de São Paulo, com sede na cidade de São de Paulo.

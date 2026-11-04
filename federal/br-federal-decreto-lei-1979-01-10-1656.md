@@ -1,7 +1,3 @@
-1
-
-###DEL-001656-0-000-10-01-1979@@@
-
 # Decreto-lei nº 1.656, de 10 de janeiro de 1979
 
 Prorroga o prazo estabelecido no artigo 1º do Decreto-lei nº 1.577, de 10 de outubro de 1977, que dispõe sobre a concessão de isenção do imposto de Importação e do Imposto sobre Produtos Industrializados, nos casos que especifica.

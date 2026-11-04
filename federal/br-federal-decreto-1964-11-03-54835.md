@@ -1,5 +1,3 @@
-###DEC-054835-0-000-03-11-1964@@@
-
 DECRETO Nº 54.835, DE 3 DE Novembro DE 1964.
 
 Autoriza a cidadã brasileira Adelaide de Oliveira Ribas a pesquisar minério de ferro, no município de São Félix do Xingu, Estado do Pará.

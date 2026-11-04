@@ -1,5 +1,3 @@
-###DEL-001582-0-000-17-11-1977@@@
-
 # Decreto-lei nº 1.582, de 17 de novembro de 1977
 
 Altera o Decreto-lei nº 1.438, de 26 de dezembro de 1975, que dispõe sobre o Imposto sobre os Serviços de Transporte Rodoviário Intermunicipal e Interestadual de Passageiros e Cargas (ISTR).

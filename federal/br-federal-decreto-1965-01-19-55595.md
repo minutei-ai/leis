@@ -1,5 +1,3 @@
-###DEC-055595-0-000-19-01-1965@@@
-
 DECRETO Nº 55.595, DE 19 DE JANEIRO DE 1965.
 
 Promulga o Acôrdo Cultural com a República Árabe Unida.

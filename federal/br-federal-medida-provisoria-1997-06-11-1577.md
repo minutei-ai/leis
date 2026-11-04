@@ -1,5 +1,3 @@
-###MPV-001577-0-000-11-06-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.577, DE 11 DE JUNHO DE 1997
 
 Altera a redação dos arts. 2o, 6o, 7o, 11 e 12 da Lei nº 8.629, de 25 de fevereiro de 1993, acresce dispositivo a Lei nº 8.437, de 30 de junho de 1992, e dá outras providências.

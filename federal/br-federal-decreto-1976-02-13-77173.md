@@ -1,5 +1,3 @@
-###DEC-077173-0-000-13-02-1976@@@
-
 Decreto nº 77.173, de 13 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Educação, Ciências e Letras de Cascavel, com sede na cidade de Cascavel, Estado do Paraná.

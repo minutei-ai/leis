@@ -1,4 +1,5 @@
-LEI Nº 22.381, DE 13 DE NOVEMBRO DE 2023<br>
+LEI Nº 22.381, DE 13 DE NOVEMBRO DE 2023
+
 \- [Revogada pela Lei nº 23.794, de 4-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111495/lei-23794), art. 4º
 
 ~~Dá denominação ao próprio público que especifica.~~

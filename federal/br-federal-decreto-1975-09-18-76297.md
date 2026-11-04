@@ -1,5 +1,3 @@
-###DEC-076297-0-000-18-09-1975@@@
-
 DECRETO Nº 76.297 - DE 18 DE Setembro De 1975
 
 Torna sem efeito outorgas concedidas, dispõe sobre as empresa Rádio Nacional do Rio de Janeiro e TV - Rádio Nacional de Brasília, autoriza a estabelecer estações de radiodifusão e dá outras providências.

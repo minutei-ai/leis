@@ -1,5 +1,3 @@
-###DEC-079288-0-000-16-02-1977@@@
-
 DECRETO Nº 79.288, DE 16 DE FEVEREIRO DE 1977.
 
  Prorroga o prazo de intervenção governamental nas áreas prioritárias, para fins de reforma agrária, de que tratam os Decretos n.ºs 70.220, de 1º de março de 1972, e 71.195, de 4 de outubro de 1972.

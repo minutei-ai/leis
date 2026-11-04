@@ -1,5 +1,3 @@
-###DEC-047745-0-000-03-02-1960@@@
-
 DECRETO Nº 47.745, DE 3 DE FEVERIRO DE 1960
 
 Altera o Decreto nº 45.799, de 15 de abril de 1959, que modificou a Ordenança Geral para o Serviço da Armada.

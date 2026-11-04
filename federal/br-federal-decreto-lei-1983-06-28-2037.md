@@ -1,5 +1,3 @@
-###DEL-002037-0-000-28-06-1983@@@
-
 # Decreto-LEI nº 2.037, de 28 de junho de 1983
 
 Dispõe sobre o controle prévio dos dispêndios para investimentos das entidades da administração indireta e fundações supervisionadas e dá outras providências.

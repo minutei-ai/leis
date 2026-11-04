@@ -1,5 +1,3 @@
-###DEC-060918-0-000-30-06-1967@@@
-
 DECRETO Nº 60.918, DE 30 DE JUNHO DE 1967.
 
 Retifica o enquadramento do pessoal do Quadro Ordinário da Universidade Federal do Rio de Janeiro.

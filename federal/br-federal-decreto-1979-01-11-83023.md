@@ -1,5 +1,3 @@
-###DEC-083023-0-000-11-01-1979@@@
-
 DECRETO Nº 83.023, DE 11 DE JANEIRO DE 1979
 
 Concede reconhecimento aos cursos de Comunicação Visual e de Educação Artística, ministrados pela Faculdade de Artes Plásticas e Comunicação Visual, com sede na cidade de Guarulhos, Estado de São Paulo.

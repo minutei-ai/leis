@@ -1,5 +1,3 @@
-###DEC-080610-0-000-25-10-1977@@@
-
 DECRETO Nº 80.610, DE 25 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins desapropriação pela União, imóvel situado na cidade de Belo Horizonte, Estado de Minas Gerais, destinado ao Tribunal Regional do Trabalho da Terceira Região.

@@ -1,5 +1,3 @@
-###DEC-069169-0-000-08-09-1971@@@
-
 DECRETO Nº 69.169, DE 8 DE SETEMBRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - Conselho Nacional de Pesquisas, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

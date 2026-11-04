@@ -1,5 +1,3 @@
-###DEC-005969-0-000-21-11-2006@@@
-
 DECRETO Nº 5.969 DE 21 DE NOVEMBRO DE 2006.
 
 Promulga a Decisão no 18/05, do Conselho do Mercado Comum do Mercosul, que dispõe sobre a Integração e o Funcionamento do Fundo para a Convergência Estrutural e Fortalecimento Institucional do Mercosul - FOCEM, adotada em Assunção, em 19 de junho de 2005.
@@ -20,11 +18,7 @@ Brasília, 21 de novembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 22.11.2006
-
-MERCOSUL/CMC/No 18/05
+         Celso Luiz Nunes AmorimMERCOSUL/CMC/No 18/05
 
 INTEGRAÇÃO E FUNCIONAMENTO DO FUNDO PARA A
 

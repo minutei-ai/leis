@@ -1,5 +1,3 @@
-###DEC-083874-0-000-21-08-1979@@@
-
 DECRETO Nº 83.874, DE 21 DE AGOSTO DE 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Educadora Cariri Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Crato, Estado do Ceará.

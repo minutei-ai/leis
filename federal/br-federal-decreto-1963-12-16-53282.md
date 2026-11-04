@@ -1,5 +1,3 @@
-###DEC-053282-0-000-16-12-1963@@@
-
 DECRETO Nº 53.282, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Mario Minamoto a pesquisar ouro no município de Eldorado, Estado de São Pulo.

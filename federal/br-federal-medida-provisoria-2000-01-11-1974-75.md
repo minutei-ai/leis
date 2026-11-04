@@ -1,5 +1,3 @@
-###MPV-001974-0-075-11-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-75, DE 11 de janeiro DE 2000.
 
 Dispõe sobre o títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

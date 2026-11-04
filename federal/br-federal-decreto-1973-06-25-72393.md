@@ -1,5 +1,3 @@
-###DEC-072393-0-000-25-06-1973@@@
-
 DECRETO Nº 72.393, DE 25 DE JUNHO DE 1973.
 
 Autoriza o funcionamento dos cursos de Artes Industriais (licenciatura) e Formação de Professores de disciplinas especializadas para o Ensino de 1º e 2º graus, da Faculdade de Belas Artes de São Paulo, mantida pela FEBASP Sociedade Civil, com sede na cidade São Paulo, Estado de São Paulo.

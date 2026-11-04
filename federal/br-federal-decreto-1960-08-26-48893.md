@@ -1,5 +1,3 @@
-###DEC-048893-0-000-26-08-1960@@@
-
 DECRETO Nº 48.893, DE 26 DE AGÔSTO DE 1960.
 
 Concede à sociedade Navegação “Minuano” Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

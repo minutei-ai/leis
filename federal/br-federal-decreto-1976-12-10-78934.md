@@ -1,5 +1,3 @@
-###DEC-078934-0-000-10-12-1976@@@
-
 Decreto Nº 78.934, DE 10 DE DEZEMBRO DE 1976.
 
 Decreta a intervenção federal no Município de Buri, Estado de São Paulo.

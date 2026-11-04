@@ -1,5 +1,3 @@
-###DEC-086089-0-000-09-06-1981@@@
-
 Decreto nº 86.089, de 09 de junho de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias necessárias à implantação da Estação Transformadora de Distribuição Gumercindo da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

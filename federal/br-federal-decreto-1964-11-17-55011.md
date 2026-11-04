@@ -1,5 +1,3 @@
-###DEC-055011-0-000-17-11-1964@@@
-
 Decreto nº 55.011, de 17 de novembro de 1964.
 
 Declara de utilidade pública a Associação Brasileira de Metais, com sede em São Paulo, Estado de São Paulo.

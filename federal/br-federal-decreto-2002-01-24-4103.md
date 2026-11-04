@@ -1,5 +1,3 @@
-###DEC-004103-0-000-24-01-2002@@@
-
 DECRETO Nº 4.103, DE 24 DE JANEIRO DE 2002.
 
 Fixa o valor mínimo anual por aluno de que trata o art. 6~~º~~, § 1~~º~~, da Lei n~~º~~ 9.424, de 24 de dezembro de 1996, para o exercício de 2002.

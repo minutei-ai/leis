@@ -1,5 +1,3 @@
-###DEC-097489-0-000-08-02-1989@@@
-
 DECRETO N° 97 489, DE 8 DE FEVEREIRO DE 1989
 
 Promulga o Acordo sobre o Estabelecimento e os Privilégios e Imunidades da Delegação da Comissão das Comunidades Européias no Brasil.

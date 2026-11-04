@@ -1,5 +1,3 @@
-###DEC-069188-0-000-14-09-1971@@@
-
 DECRETO Nº 69.188, DE 14 DE SETEMBRO DE 1971.
 
 Autoriza a Rêde Ferroviária Federal S.A. a incorporar os bens imóveis, equipamentos e instalações de trecho ferroviário da ligação Pires do Rio-Brasília.

@@ -1,5 +1,3 @@
-###DEC-004207-0-000-23-04-2002@@@
-
 DECRETO Nº 4 207, DE 23 DE ABRIL DE 2002
 
 Dispõe sobre a Medalha do Pacificador e dá outras providências.

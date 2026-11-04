@@ -1,5 +1,3 @@
-###DEC-083864-0-000-16-08-1979@@@
-
 Decreto nº 83.864 de 16 de agosto de 1979.
 
 Cassa a concessão outorgada à Nova Rádio Independência Ltda., para estabelecer na cidade de Picuí, Estado da Paraíba, uma estação de radiodifusão sonora em onda média de âmbito local.

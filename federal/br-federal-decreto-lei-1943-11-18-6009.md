@@ -1,5 +1,3 @@
-###DEL-006009-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.009 – DE 18 DE NOVEMBRO DE 1943
 
 Eleva a importância da pensão especial concedida a D. Maria Amélia Bocaiúva Bulcão pelo decreto legislativo n. 2.707, de 30 de dezembro de 1912

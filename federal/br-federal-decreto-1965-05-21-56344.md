@@ -1,5 +1,3 @@
-###DEC-056344-0-000-21-05-1965@@@
-
 DECRETO Nº 56.344, de 21 de maio de 1965.
 
 Renova o Decreto nº 2.141, de 22 de janeiro de 1963.

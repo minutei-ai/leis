@@ -1,5 +1,3 @@
-###DEC-093605-0-000-21-11-1986@@@
-
 DECRETO Nº 93.605, DE 21 DE NOVEMBRO DE 1986.
 
 Cria a Comissão Interministerial para a Recuperação Financeira do Setor Sucro-Alcooleiro, e dá outras providências.

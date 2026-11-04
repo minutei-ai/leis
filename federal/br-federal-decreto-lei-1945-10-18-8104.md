@@ -1,5 +1,3 @@
-###DEL-008104-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.104 – DE 18 DE OUTUBRO DE 1945
 
 Dôa à Fundação Brasil Central patentes de invenção, marcas de fábrica, modêlos de utilidade, desenhos ou modêlos industriais e de comércio, títulos de estabelecimentos, insígnias e frases de propaganda incorporadas ao Patrimônio Nacional, e dá outras providências.

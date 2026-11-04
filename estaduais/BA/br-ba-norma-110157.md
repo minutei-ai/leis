@@ -40,4 +40,30 @@ QUADRO DE CARGOS EM COMISSÃO
 
 CONJUNTO PENAL DE JUAZEIRO
 
-<table style="width: 382.5pt; margin-left: 66.5pt; border-collapse: collapse; border: none; mso-border-alt: solid black 1.5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="510" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 132.0pt; border: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="176"><p class="Tabela-Texto"><span>DENOMINAÇÃO</span></p></td><td style="width: 120.0pt; border: solid black 1.5pt; border-left: none; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="160"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 130.5pt; border: solid black 1.5pt; border-left: none; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="174"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 132.0pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="176"><p class="Tabela-Texto"><span>DIRETOR</span></p></td><td style="width: 120.0pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="160"><p class="Tabela-Texto"><span>DAS-2D</span></p></td><td style="width: 130.5pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="174"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 132.0pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="176"><p class="Tabela-Texto"><span>DIRETOR ADJUNTO</span></p></td><td style="width: 120.0pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="160"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 130.5pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="174"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 132.0pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="176"><p class="Tabela-Texto"><span>COORDENADOR IV</span></p></td><td style="width: 120.0pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="160"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 130.5pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="174"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 132.0pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="176"><p class="Tabela-Texto"><span>TOTAL</span></p></td><td style="width: 120.0pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="160">&nbsp;</td><td style="width: 130.5pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="174"><p class="Tabela-Texto"><span>03</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+DIRETOR
+
+DAS-2D
+
+01
+
+DIRETOR ADJUNTO
+
+DAS-3
+
+01
+
+COORDENADOR IV
+
+DAI-5
+
+01
+
+TOTAL
+
+03

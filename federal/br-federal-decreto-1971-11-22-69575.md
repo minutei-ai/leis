@@ -1,5 +1,3 @@
-###DEC-069575-0-000-22-11-1971@@@
-
 DECRETO Nº 69.575 - DE 22 DE NOVEMBRO DE 1971
 
 Concede à Mineração e Química Vale do Paraíba Ltda., o direito de lavrar bauxita, no município de Lavrinhas, Estado de São Paulo.

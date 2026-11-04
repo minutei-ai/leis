@@ -1,5 +1,3 @@
-###DEL-009908-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.908 – DE 17 DE SETEMBRO DE 1946
 
 Declara feriado nacional o dia 18 de setembro de 1946.

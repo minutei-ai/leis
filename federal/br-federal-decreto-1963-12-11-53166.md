@@ -1,5 +1,3 @@
-###DEC-053166-0-000-11-12-1963@@@
-
 DECRETO Nº 53.166, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Madre Júlia da Imaculada do Divino Infante, como administradora do Asilo São Luís da Serra da Piedadt, a pesquisar calcário, minério de ferro e manganês, no município de Caeté, e sediado em Belo Horizonte, Estado de Minas Gerais.

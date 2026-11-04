@@ -1,5 +1,3 @@
-###DEC-066950-0-000-23-07-1970@@@
-
 DECRETO Nº 66.950, DE 23 DE JULHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério do Trabalho e Previdência Social, cargo originário do Território Federal de Rondônia, e dá outras providências.

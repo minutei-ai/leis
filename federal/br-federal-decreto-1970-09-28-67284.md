@@ -1,5 +1,3 @@
-###DEC-067284-0-000-28-09-1970@@@
-
 DECRETO Nº 67.284, DE 28 DE SETEMBRO DE 1970.
 
 Aprova o Regimento da Comissão do Enquadramento Sindical.

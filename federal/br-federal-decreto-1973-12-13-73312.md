@@ -1,5 +1,3 @@
-###DEC-073312-0-000-13-12-1973@@@
-
 Decreto nº 73.312 - de 13 de dezembro de 1973
 
 Concede a Caolim Itabirito Ltda., o direito de lavrar areia quartzoza, no Município de Itabirito, Estado de Minas Gerais.

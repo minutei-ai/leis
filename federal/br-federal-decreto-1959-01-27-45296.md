@@ -1,5 +1,3 @@
-###DEC-045296-0-000-27-01-1959@@@
-
 DECRETO Nº 45.296, DE 27 de JANEIRO DE 1959.
 
 Autoriza a Companhia Vale do Rio Doce S. A. a pesquisar minério de ferro no município de Conceição do Mato Dentro, Estado de Minas Gerais.

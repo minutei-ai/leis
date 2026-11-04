@@ -1,4 +1,5 @@
-DECRETO Nº 9.919, DE 6 DE AGOSTO DE 2021<br>
+DECRETO Nº 9.919, DE 6 DE AGOSTO DE 2021
+
 \- [Revogado pelo Decreto nº 10.609, de 18-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110171/decreto-10609), art. 39, II.
 
 ~~Institui o Comitê Gestor do Sistema Estadual de Informações Cidadãs (CG/SEIC), com a definição de sua competência e de sua composição, e dá outras providências.~~

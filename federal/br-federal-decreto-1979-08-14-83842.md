@@ -1,5 +1,3 @@
-###DEC-083842-0-000-14-08-1979@@@
-
 DECRETO Nº 83.842, DE 14 DE AGOSTO DE 1979.
 
 Delega competência ao Ministro do Trabalho para autorizar o funcionamento de empresas aos domingos e feriados civis e religiosos.

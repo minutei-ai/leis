@@ -1,5 +1,3 @@
-###DEC-062156-0-000-19-01-1968@@@
-
 DECRETO Nº 62.156, DE 19 DE JANEIRO DE 1968.
 
 Declara caduco o Decreto nº 28.196, de 7 de junho de 1950.

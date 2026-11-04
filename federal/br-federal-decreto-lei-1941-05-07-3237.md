@@ -1,5 +1,3 @@
-###DEL-003237-0-000-07-05-1941@@@
-
 DECRETO-LEI Nº 3.237 – DE 7 DE MAIO DE 1941
 
 Dispõe sobre o uso e gozo de terrenos da Baixada Fluminense, beneficiados com o seu saneamento.

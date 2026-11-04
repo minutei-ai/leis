@@ -1,5 +1,3 @@
-###DEC-096389-0-000-21-07-1988@@@
-
 DECRETO N° 96.389, DE 21 DE JULHO DE 1988
 
 Institui o ano de 1989, como o "Ano Brasileiro de Segurança no Trânsito", e dá outras providencias.

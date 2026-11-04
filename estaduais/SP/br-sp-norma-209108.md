@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209108)<br>
-
 # DECRETO N° 68.333, DE 09 DE FEVEREIRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, as áreas necessárias à implantação de dispositivo de acesso no km 58+800m da Rodovia SP-270, no Município de São Roque, e dá providências correlatas._

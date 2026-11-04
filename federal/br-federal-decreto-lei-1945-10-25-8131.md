@@ -1,5 +1,3 @@
-###DEL-008131-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.131 – DE 25 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 47.450,00, à verba que especifica.

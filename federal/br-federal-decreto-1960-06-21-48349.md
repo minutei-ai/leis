@@ -1,5 +1,3 @@
-###DEC-048349-0-000-21-06-1960@@@
-
 DECRETO Nº 48.349, DE 21 DE JUNHO DE 1960.
 
 Concede à Pedrinco S.A. - Pedreiras e Indústria de Concreto autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-084332-0-000-20-12-1979@@@
-
 Decreto nº 84.332, de 20 de dezembro de 1979.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Ciências da Saúde, em Presidente Prudente, Estado de São Paulo.

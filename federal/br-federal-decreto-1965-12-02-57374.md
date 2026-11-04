@@ -1,5 +1,3 @@
-###DEC-057374-0-000-02-12-1965@@@
-
 DECRETO Nº 57.374, DE 2 DE DEZEMBRO DE 1965.
 
 Abertura de crédito especial autorizada pela Lei N.º 4.702, de 1965.

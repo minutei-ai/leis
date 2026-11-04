@@ -1,5 +1,3 @@
-###DEC-055465-0-000-05-01-1965@@@
-
 decreto nº 55.465, de 5 de janeiro de 1965.
 
 Renova o decreto nº 46.449, de 17 de julho de 1959.

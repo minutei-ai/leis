@@ -1,5 +1,3 @@
-###LCP-000016-0-000-30-10-1973@@@
-
 # LEI COmPLEMENTAR Nº 16, DE 30 DE OUTUBRO DE 1973
 
 Altera a redação de dispositivos da Lei Complementar nº 11, de 25 de maio de 1971, e dá outras providências.

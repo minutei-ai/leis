@@ -1,5 +1,3 @@
-###DEC-071939-0-000-19-03-1973@@@
-
 DECRETO Nº 71.939, DE 19 DE MARÇO DE 1973.
 
 Concede a S.A. de Cimento Mineração e Cabotagem "CIMIMAR" o direito de lavrar basalto no Município de Canoas, Estado do Rio Grande do Sul.

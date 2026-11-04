@@ -1,5 +1,3 @@
-###DEL-002194-0-000-26-12-1984@@@
-
 # DECRETO-LEI Nº 2.194, DE 26 DE DEZEMBro DE 1984
 
 Dispõe sobre a transformação de gratificação deferida aos servidores do Departamento Nacional de Estradas de Rodagem e dá outras providências.

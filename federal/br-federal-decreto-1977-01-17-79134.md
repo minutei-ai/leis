@@ -1,5 +1,3 @@
-###DEC-079134-0-000-17-01-1977@@@
-
 DECRETO Nº 79.134, DE 17 DE JANEIRO DE 1977.
 
 Dispõe sobre a regulagem de motor a óleo diesel e dá outras providências.

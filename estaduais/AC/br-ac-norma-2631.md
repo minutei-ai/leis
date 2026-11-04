@@ -1,6 +1,10 @@
 > **LEI Nº 3.251, DE 18 DE MAIO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Acresce dispositivo à Lei nº 1.332, de 17 de maio de 2000, altera dispositivos da Lei nº 1.230, de 27 de junho de 1997 e revoga a Lei nº 1.213, de 22 de novembro de 1996.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Acresce dispositivo à Lei nº 1.332, de 17 de maio de 2000, altera dispositivos da Lei nº 1.230, de 27 de junho de 1997 e revoga a Lei nº 1.213, de 22 de novembro de 1996.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

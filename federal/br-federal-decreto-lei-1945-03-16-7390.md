@@ -1,5 +1,3 @@
-###DEL-007390-0-000-16-03-1945@@@
-
 DECRETO-LEI N. 7.390 – DE 16 DE MARÇO DE 1945
 
 Dispõe sôbre emissão de obrigações ao portador

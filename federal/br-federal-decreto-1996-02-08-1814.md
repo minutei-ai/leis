@@ -1,5 +1,3 @@
-###DEC-001814-0-000-08-02-1996@@@
-
 DECRETO Nº 1.814, DE 8 DE FEVEREIRO DE 1996
 
 Dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativos a Títulos e Valores Mobiliários - IOF no resgate de aplicações destinadas à subscrição de quotas de Fundo de Investimento Imobiliário e de Fundo Mútuo de Investimento em Empresas Emergentes.

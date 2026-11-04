@@ -1,5 +1,3 @@
-###DEC-080511-0-000-07-10-1977@@@
-
 Decreto nº 80.511, de 7 de outubro de 1977.
 
 Regulamenta a Lei número 6.431, de 11 de julho de 1977, que autoriza a doação de porções de terras devolutas a Municípios incluídos na região da Amazônia Legal, para fins que especifica, e dá outras providências.

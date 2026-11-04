@@ -1,7 +1,3 @@
-1
-
-###DEC-099126-0-000-09-03-1990@@@
-
 DECRETO Nº 99.126, DE 9 DE MARÇO DE 1990
 
 Outorga concessão à TV UPAON‑AÇU LTDA., para explorar Serviço Especial de Televisão por Assinatura - TVA, na cidade de São Luís, Estado do Maranhão.

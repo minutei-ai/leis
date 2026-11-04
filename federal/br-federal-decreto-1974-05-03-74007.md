@@ -1,5 +1,3 @@
-###DEC-074007-0-000-03-05-1974@@@
-
 DECRETO Nº 74.007, DE 3 DE MAIO DE 1974.
 
 Declara a caducidade dos Decretos que menciona.

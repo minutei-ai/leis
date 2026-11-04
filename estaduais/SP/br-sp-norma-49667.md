@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49667)
-
 # LEI Nº 11.685, DE 27 DE FEVEREIRO DE 2004
 
 ## ( PL 45/2001 - Rodolfo Costa e Silva)

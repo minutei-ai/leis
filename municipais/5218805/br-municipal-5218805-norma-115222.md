@@ -1,7 +1,5 @@
-<br>
 LEI Nº 7.440, DE 31 DE OUTUBRO DE 2023.
 
-<br>
 Autoriza o Poder Executivo a conceder patrocínio ao Independente Esportes de Rio Verde.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

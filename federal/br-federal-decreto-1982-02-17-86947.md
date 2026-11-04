@@ -1,5 +1,3 @@
-###DEC-086947-0-000-17-02-1982@@@
-
 # Decreto nº 86.947, de 17 de fevereiro de 1982
 
 Cria a Embaixada do Brasil em Saint John´s, Antígua e Barbuda.

@@ -1,5 +1,3 @@
-###DEC-088153-0-000-09-03-1983@@@
-
 Decreto nº 88.153, de 09 de março de 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Roque Gonzales, Estado do Rio do Sul, e dá outras providências.

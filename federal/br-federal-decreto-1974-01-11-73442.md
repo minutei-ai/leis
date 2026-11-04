@@ -1,5 +1,3 @@
-###DEC-073442-0-000-11-01-1974@@@
-
 DECRETO Nº 73.442, DE 11 DE JANEIRO DE 1974
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, duas faixas de terra destinadas à passagem de linhas de transmissão, no Estado de São Paulo.

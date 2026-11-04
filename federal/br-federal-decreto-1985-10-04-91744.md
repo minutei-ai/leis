@@ -1,5 +1,3 @@
-###DEC-091744-0-000-04-10-1985@@@
-
 Decreto nº 91.744, de O4 de outubro de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviços de radiodifusão sonora em onda tropical, nas cidades e unidades da Federação indicadas.

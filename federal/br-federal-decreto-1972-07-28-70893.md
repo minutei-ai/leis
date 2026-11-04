@@ -1,5 +1,3 @@
-###DEC-070893-0-000-28-07-1972@@@
-
 DECRETO Nº 70.893, DE 28 DE JULHO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

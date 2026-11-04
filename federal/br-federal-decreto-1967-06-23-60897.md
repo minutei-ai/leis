@@ -1,5 +1,3 @@
-###DEC-060897-0-000-23-06-1967@@@
-
 DECRETO Nº 60.897, DE 23 DE JUNHO DE 1967.
 
 Autoriza o Ministro da Educação e Cultura a contratar, em nome da União Federal, a operação de crédito que menciona.

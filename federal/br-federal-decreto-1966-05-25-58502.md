@@ -1,5 +1,3 @@
-###DEC-058502-0-000-25-05-1966@@@
-
 Decreto nº 58.502, de 25 de maio de 1966.
 
 Fixa o número de Conselheiros para a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-096884-0-000-30-09-1988@@@
-
 DECRETO N° 96.884 DE 30 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à CARAÍBA EMPREENDIMENTOS CULTURAIS LTDA., para explorar serviços de radiodifusão sonora em onda média, na Cidade de Senhor do Bonfim, Estado da Bahia.

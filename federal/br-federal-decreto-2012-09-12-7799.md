@@ -1,5 +1,3 @@
-###DEC-007799-0-000-12-09-2012-PUB-01@@@
-
 DECRETO N° \- 7.799, DE 12 DE SETEMBRO DE 2012
 
 Dispõe sobre o remanejamento de cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona;  altera o Anexo II ao Decreto n° 4.740, de 13 de junho de 2003, que aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Fundação Instituto Brasileiro de Geografia e Estatística  \- IBGE; e os Anexos I e II ao Decreto n° 7.675, de 20 de janeiro de 2012, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão.

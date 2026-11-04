@@ -1,5 +1,3 @@
-###DEC-051939-A-000-26-04-1963@@@
-
 DECRETO Nº 51.939-A, de 26 de abril de 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Pery de Eletricidade - CIPEL.

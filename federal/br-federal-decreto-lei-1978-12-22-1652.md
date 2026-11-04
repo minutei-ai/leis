@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3d21175e-7047-4bb9-b127-d2c548d4d6cf/texto#nowhere)
 
-###DEL-001652-0-000-22-12-1978@@@
-
 # Decreto-lei nº 1.652, de 22 de dezembro de 1978
 
 Altera, para o exercício de 1979, a distribuição do produto da arrecadação dos impostos que menciona.

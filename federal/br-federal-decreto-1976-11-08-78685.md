@@ -1,5 +1,3 @@
-###DEC-078685-0-000-08-11-1976@@@
-
 decreto Nº 78.685, de 8 de novembro de 1976.
 
 Concede à Companhia Cearense de Cimento Portland o direito de lavrar calcário no Município de Sobral, Estado do Ceará.

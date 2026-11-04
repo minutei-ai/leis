@@ -1,5 +1,3 @@
-###DEC-065275-0-000-06-10-1969@@@
-
 DECRETO Nº 65.275 - DE 6 DE OUTUBRO DE 1969.
 
 Autoriza funcionamento de faculdade.

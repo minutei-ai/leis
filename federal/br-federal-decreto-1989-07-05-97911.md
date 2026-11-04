@@ -1,7 +1,3 @@
-1
-
-###DEC-097911-0-000-05-07-1989@@@
-
 DECRETO Nº 97.911, DE 5 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado FAZENDA PAIAIÁ, classificado como latifúndio por exploração, situado no Município de Cristinópolis, Estado de Sergipe, compreendido na zona prioritária fixada pelo Decreto n.° 92.687, de 19 de maio de 1986, e dá outras providências.

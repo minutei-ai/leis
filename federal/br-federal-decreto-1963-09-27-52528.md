@@ -1,5 +1,3 @@
-###DEC-052528-0-000-27-09-1963@@@
-
 DECRETO Nº 52.528, DE 27 DE SETEMBRO DE 1963.
 
 Autoriza a entrega gratuita à Administração do Pôrto do Rio de Janeiro, de imóveis situados no Estado da Guanabara.

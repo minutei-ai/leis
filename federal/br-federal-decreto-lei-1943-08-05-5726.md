@@ -1,5 +1,3 @@
-###DEL-005726-0-000-05-08-1943@@@
-
 DECRETO-LEI N. 5.726 – DE 5 AGôSTO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 11.903,20 para pagamento de gratificação adicional

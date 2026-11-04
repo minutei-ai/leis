@@ -1,5 +1,3 @@
-###DEC-048243-0-000-27-05-1960@@@
-
 DECRETO Nº 48.243, DE 27 DE MAIO DE 1960.
 
 Cria no Ministério das Relações Exteriores, a Comissão encarregada do planejamento e criação da Academia de Estudos de Política Internacional e Diplomacia.

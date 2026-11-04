@@ -1,5 +1,3 @@
-###DEL-003617-0-000-15-09-1941@@@
-
 DECRETO-LEI N. 3.617 – DE 15 DE SETEMBRO DE 1941
 
 Estabelece as bases de organização dos desportos universitários

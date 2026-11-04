@@ -1,5 +1,3 @@
-###DEC-056063-0-000-26-04-1965@@@
-
 DECRETO Nº 56.063, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Mineração Jundú S.A. a lavrar feldspato e mica no município de Governador Valadares, Estado de Minas Gerais.

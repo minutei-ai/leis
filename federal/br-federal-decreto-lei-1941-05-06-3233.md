@@ -1,5 +1,3 @@
-###DEL-003233-0-000-06-05-1941@@@
-
 DECRETO-LEI N. 3.233 – DE 6 DE MAIO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 278:400$0, para atender a despesa com pessoal extranumerário da Penitenciária Agrícola do Distrito Federal

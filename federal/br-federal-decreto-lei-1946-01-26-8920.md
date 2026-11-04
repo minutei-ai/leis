@@ -1,5 +1,3 @@
-###DEL-008920-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.920 – DE 26 DE JANEIRO DE 1946
 
 Regula a situação perante o serviço militar dos sacerdotes, ministros de qualquer religião e de membros de ordens religiosas regulares

@@ -1,5 +1,3 @@
-###DEC-006717-0-000-29-12-2008@@@
-
 DECRETO Nº 6.717, DE 29 DE DEZEMBRO DE 2008.
 
 Fixa o percentual da subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais, para o exercício fiscal do ano de 2009.

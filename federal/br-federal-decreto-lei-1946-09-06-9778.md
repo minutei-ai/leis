@@ -1,5 +1,3 @@
-###DEL-009778-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.778 – DE 6 DE SETEMBRO DE l946
 
 Subordina ao Ministro do Trabalho, Indústria e Comércio a Comissão Executiva Têxtil, e dá outras providências.

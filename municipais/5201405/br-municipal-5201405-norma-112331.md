@@ -12,5 +12,6 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 21 de janeiro de 2026.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

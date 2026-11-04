@@ -1,5 +1,3 @@
-###DEL-007164-0-000-15-12-1944@@@
-
 DECRETO-LEI N. 7.164 – DE 15 DE DEZEMBRO DE 1944
 
  Autoriza a permuta de terrenos em Niterói, Estado do Rio de Janeiro

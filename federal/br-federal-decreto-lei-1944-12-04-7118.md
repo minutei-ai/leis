@@ -1,5 +1,3 @@
-###DEL-007118-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.118 – DE 4 DE DEZEMBRO DE 1944
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de Cr$ 77. 000,00 à verba que indica

@@ -1,5 +1,3 @@
-###DEC-075268-0-000-23-01-1975@@@
-
 DECRETO Nº 75.268, DE 23 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao Curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras "Rui Barbosa", mantida pela Sociedade Cultural de Andradina, com sede na cidade de Andradina, Estado de São Paulo.

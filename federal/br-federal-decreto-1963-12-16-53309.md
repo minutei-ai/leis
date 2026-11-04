@@ -1,5 +1,3 @@
-###DEC-053309-0-000-16-12-1963@@@
-
 DECRETO Nº 53.309, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Henry John Romero Sanson a pesquisar mármore no município de Iporanga, Estado de São Paulo.

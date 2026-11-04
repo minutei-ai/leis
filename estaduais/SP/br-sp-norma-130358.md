@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130358)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2008/compilacao-emenda.constitucional-25-12.05.2008.html)
 
 # EMENDA CONSTITUCIONAL Nº 25, DE 12 DE MAIO DE 2008

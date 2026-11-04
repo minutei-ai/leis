@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=98373)
-
 # LEI COMPLEMENTAR Nº 1.052, DE 01 DE JULHO DE 2008
 
 ### _Inclui dispositivo no artigo 1º da Lei Complementar nº 918, de 2002, que dispõe sobre a nomeação dos membros do Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados de Transporte do Estado de São Paulo - ARTESP, instituída pela Lei Complementar nº 914, de 2002_

@@ -1,5 +1,3 @@
-###MPV-001875-0-055-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.875-55, DE 24 DE SETEMBRO DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

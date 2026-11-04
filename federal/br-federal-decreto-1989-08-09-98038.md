@@ -1,7 +1,3 @@
-1
-
-###DEC-098038-0-000-09-08-1989@@@
-
 DECRETO N° 98.038, DE 9 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de Zootecnia das Faculdades Integradas de Ourinhos.

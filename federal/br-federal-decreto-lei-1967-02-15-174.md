@@ -1,5 +1,3 @@
-###DEL-000174-0-000-15-02-1967@@@
-
 DECRETO-LEI Nº 174, DE 15 DE FEVEREIRO DE 1967
 
 Dá nova redação a dispositivos da Lei nº 5.020, de 7 de junho de 1966, que dispõe sôbre as promoções de oficiais da ativa da Aeronáutica.

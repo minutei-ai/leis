@@ -1,5 +1,3 @@
-###DEC-074993-0-000-26-11-1974@@@
-
 DECRETO Nº 74.993, DE 26 DE NOVEMBRO DE 1974.
 
 Concede à marinha de Guerra da Bolívia o Prêmio "Marinha do Brasil"

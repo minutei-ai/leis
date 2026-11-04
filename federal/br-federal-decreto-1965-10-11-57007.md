@@ -1,5 +1,3 @@
-###DEC-057007-0-000-11-10-1965@@@
-
 DECRETO Nº 57.007, DE 11 DE OUTUBRO DE 1965.
 
 Abre o crédito especial de Cr$12.000.000.000 destinado ao aumento do capital da Fábrica Nacional de Motores S.A., e dá outras providências.

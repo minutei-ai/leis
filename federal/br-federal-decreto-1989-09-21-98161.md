@@ -1,7 +1,3 @@
-1
-
-###DEC-098161-0-000-21-09-1989@@@
-
 DECRETO Nº 98.161, DE 21 DE SETEMBRO DE 1989
 
 Dispõe sobre a administração do Fundo Nacional de Meio Ambiente, e dá outras providências.

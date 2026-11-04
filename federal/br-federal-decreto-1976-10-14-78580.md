@@ -1,5 +1,3 @@
-###DEC-078580-0-000-14-10-1976@@@
-
 Decreto nº 78.580, de 14 de outubro de 1976.
 
 Concede à S.A. Mineração da Trindade - SAMITRI, o direito de lavrar minério de ferro no Município de Ouro Preto, Estado de Minas Gerais.

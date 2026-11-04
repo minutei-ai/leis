@@ -24,7 +24,8 @@ b) o destinatário conectado:
 
 § 1º-A Na hipótese prevista no inciso II do caput deste artigo, o imposto deve ser pago por ocasião do fornecimento de energia elétrica ou da operação de conexão e uso do sistema de transmissão ou de distribuição de energia elétrica, conforme o disposto em regulamento.
 
-§ 2º É assegurado o pagamento do imposto ao Estado de Goiás quando nele ocorrer o consumo da energia elétrica.<br>
+§ 2º É assegurado o pagamento do imposto ao Estado de Goiás quando nele ocorrer o consumo da energia elétrica.
+
 ...................................................................” (NR)
 
 Art. 2º Esta Lei entra em vigor na data de sua publicação.
@@ -33,5 +34,6 @@ Goiânia, 19 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

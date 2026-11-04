@@ -1,5 +1,3 @@
-###DEC-056234-0-000-03-05-1965@@@
-
 DECRETO Nº 56.234, DE 3 DE MAIO DE 1965.
 
 Altera o nº 54, do art. 32 do Regulamento de Administração do Exército e revoga o Decreto nº 53.478, de 23 de janeiro de 1964.

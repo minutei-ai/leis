@@ -1,5 +1,3 @@
-###DEC-079775-0-000-06-06-1977@@@
-
 DECRETO Nº 79.775, DE 6 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Ciências Econômicas, da Faculdade de Ciências Econômicas e Administrativas de Araraquara, com sede na cidade de Araraquara, Estado de São Paulo.

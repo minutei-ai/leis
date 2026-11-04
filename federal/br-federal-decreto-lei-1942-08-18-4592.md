@@ -1,5 +1,3 @@
-###DEL-004592-0-000-18-08-1942@@@
-
 DECRETO-LEI N. 4.592 – DE 18 DE AGOSTO DE 1942
 
 Altera, sem aumento de despesas, o atual Orçamento do Ministério da Marinha

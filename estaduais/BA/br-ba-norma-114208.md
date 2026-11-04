@@ -6,40 +6,35 @@ O VICE-GOVERNADOR NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, faço
 
 Art. 1º - Os prêmios estabelecidos no [§ 3º do artigo 8º da Lei nº 1.202, de 23 de outubro de 1959](https://www.legislabahia.ba.gov.br/documentos/lei-no-1202-de-23-de-outubro-de-1959#LO_1_202_Art__8_P_3) , passem a ter os seguintes valores:
 
-<table border="1" cellspacing="0" cellpadding="0" width="387" style="width:290.6pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="66" valign="top" style="width:49.6pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.65pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>prêmio de<quebra></quebra></span></p></td><td width="166" valign="top" style="width:124.35pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$1.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="66" valign="top" style="width:49.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.65pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>prêmio de<quebra></quebra></span></p></td><td width="166" valign="top" style="width:124.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$100.000,00<quebra></quebra></span></p></td></tr><tr><td width="66" valign="top" style="width:49.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.65pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>prêmios de<quebra></quebra></span></p></td><td width="166" valign="top" style="width:124.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$50.000,00<quebra></quebra></span></p></td></tr><tr><td width="66" valign="top" style="width:49.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.65pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>prêmios de<quebra></quebra></span></p></td><td width="166" valign="top" style="width:124.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$20.000,00<quebra></quebra></span></p></td></tr><tr><td width="66" valign="top" style="width:49.6pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="156" valign="top" style="width:116.65pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>prêmios de<quebra></quebra></span></p></td><td width="166" valign="top" style="width:124.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$10.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+1<quebra></quebra>
+
+prêmio de<quebra></quebra>
+
+Cr$1.000.000,00<quebra></quebra>
+
+1<quebra></quebra>
+
+prêmio de<quebra></quebra>
+
+Cr$100.000,00<quebra></quebra>
+
+2<quebra></quebra>
+
+prêmios de<quebra></quebra>
+
+Cr$50.000,00<quebra></quebra>
+
+5<quebra></quebra>
+
+prêmios de<quebra></quebra>
+
+Cr$20.000,00<quebra></quebra>
+
+10<quebra></quebra>
+
+prêmios de<quebra></quebra>
+
+Cr$10.000,00<quebra></quebra>
 
 § 1º - A distribuição dos prêmios referidos neste artigo se fará de acordo com as seguintes bases:
 
@@ -73,4 +68,4 @@ ORLANDO MOSCOSO
 
 Ruy Santos
 
-* * *
+ *

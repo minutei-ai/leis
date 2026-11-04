@@ -1,7 +1,3 @@
-1
-
-###DEC-001799-0-000-30-01-1996@@@
-
 # DECRETO N° 1.799, DE 30 DE JANEIRO DE 1996
 
 Regulamenta a Lei n° 5.433, de 8 de maio de 1968, que regula a microfilmagem de documentos oficiais, e dá outras providências.

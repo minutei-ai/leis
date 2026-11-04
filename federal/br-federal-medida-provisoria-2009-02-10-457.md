@@ -1,5 +1,3 @@
-###MPV-000457-0-000-10-02-2009@@@
-
 MEDIDA PROVISÓRIA Nº 457, DE 10 DE FEVEREIRO DE 2009.
 
 Altera os arts. 96 e 102 da Lei no 11.196, de 21 de novembro de 2005, que dispõem sobre parcelamento de débitos de responsabilidade dos Municípios, decorrentes de contribuições sociais de que tratam as alíneas “a” e “c” do parágrafo único do art. 11 da Lei no 8.212, de 24 de julho de 1991.

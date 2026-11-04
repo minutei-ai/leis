@@ -1,5 +1,3 @@
-###DEC-091572-0-000-26-08-1985@@@
-
 Decreto nº 91.572, dE 26 de agosto de 1985
 
 Outorga concessão à RÁDIO DIFUSORA DO DESCOBRIMENTO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Porto Seguro, Estado da Bahia.

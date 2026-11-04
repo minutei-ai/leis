@@ -1,5 +1,3 @@
-###DEC-048729-0-000-04-08-1960@@@
-
 DECRETO Nº 48.729, DE 4 DE AGÔSTO DE 1960.
 
 Anula o item V, do Decreto nº 47.568, de 31 de dezembro de 1959 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066845-0-000-03-07-1970@@@
-
 DECRETO Nº 66.845, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Fundação Presidente Kennedy, com sede em Manaus, Estado do Amazonas.

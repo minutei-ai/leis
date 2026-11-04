@@ -1,5 +1,3 @@
-###DEL-004459-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.459 – DE 9 DE JULHO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 2.002:806$7, para pagamento ao Estado do Rio Grande do Sul

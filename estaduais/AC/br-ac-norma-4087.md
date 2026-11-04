@@ -1,14 +1,16 @@
 > **LEI Nº 3.651, DE 10 DE SETEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do Grupo Especial de Operações em Fronteira – GEFRON/AC e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do Grupo Especial de Operações em Fronteira – GEFRON/AC e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica criado na estrutura da Secretaria de Estado de Justiça e Segurança Pública - SEJUSP, o Grupo Especial de Operações em Fronteira - GEFRON/AC, força integrada de prevenção e repressão a ilícitos e/ou incidentes típicos de fronteira. 
-
-<br>
 
 **Art. 2º** O GEFRON/AC atuará na região de fronteira brasileira, mais especificamente na abrangência do Estado do Acre, por meio de ações integradas da Polícia Militar, Polícia Civil, Polícia Penal e do Corpo de Bombeiros Militar, na prevenção e repressão ao tráfico de drogas, armas e explosivos, combate ao crime organizado e outros crimes e/ou incidentes típicos das regiões de fronteira, respeitadas as atribuições constitucionais e legais de cada instituição.
 

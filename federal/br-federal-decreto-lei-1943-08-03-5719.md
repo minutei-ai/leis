@@ -1,5 +1,3 @@
-###DEL-005719-0-000-03-08-1943@@@
-
 DECRETO-LEI N. 5.719 – DE 3 DE AGôSTO DE 1943
 
 Suspende, pelo prazo de seis meses, a cobrança dos direitos e taxas aduaneiras que incidem sôbre a manteiga, e dá outras providências

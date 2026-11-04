@@ -205,7 +205,3 @@ Haroldo Lopes da Costa - 2º-Vice-Presidente
 Amílcar Padovani - 3º-Secretário
 
 José Laviola - 4º-Secretário
-
-\------------------------------------------------------------
-
-Data da última atualização: 22/2/2006.

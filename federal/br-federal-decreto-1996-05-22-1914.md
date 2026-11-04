@@ -1,7 +1,3 @@
-1
-
-###DEC-001914-0-000-22-05-1996@@@
-
 DECRETO Nº 1.914, DE 22 DE MAIO DE 1996.
 
 Dispõe sobre a execução do Décimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica Nº 18, entre Brasil, Argentina, Paraguai e Uruguai, de 07 de novembro de 1995.

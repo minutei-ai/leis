@@ -1,5 +1,3 @@
-###DEC-052755-0-000-24-10-1963@@@
-
 DECRETO Nº 52.755, DE 24 DE Outubro DE 1963.
 
 Concede à sociedade Italcable Servizi Cablografici Radiotelegrafici e Radiolettrici - Società per Azioni autorização para continuar a funcionar na República.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000709-0-000-22-12-1992@@@
-
 DECRETO N° 709, DE 22 DE DEZEMBRO DE 1992
 
 Promulga o Acordo sobre Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República Popular da Bulgária, de 25.7.1990.

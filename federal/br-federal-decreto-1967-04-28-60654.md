@@ -1,5 +1,3 @@
-###DEC-060654-0-000-28-04-1967@@@
-
 DECRETO Nº 60.654, DE 28 DE ABRIL DE 1967.
 
 Declara de utilidade pública o “Banco de Sangue São Pedro e São Paulo”, com sede em Belo Horizonte, Estado de Minas Gerais.

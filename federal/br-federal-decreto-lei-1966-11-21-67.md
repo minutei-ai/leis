@@ -1,5 +1,3 @@
-###DEL-000067-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 67, DE 21 De NOVEMBRO DE 1966.
 
 Dispõe sôbre os bens e pessoal vinculado aos serviços de navegação e de reparos navais explorados pelo Lloyd Brasileiro - Patrimônio Nacional e pela Companhia Nacional de Navegação Costeira - Autarquia Federal, extingue estas autarquias, autoriza a constituição da Companhia de Navegação Lloyd Brasileiro e da Emprêsa de Reparos Navais “Costeira” S.A., e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000913-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 913, de 24 de FEVEREIRO de 1995
 
 Cria, na estrutura organizacional do Ministério da Justiça, o Conselho Federal de que trata o art. 13 da Lei nº 7.347, de 24 de julho de 1985, altera os arts. 4º, 39, 82, 91 e 98 da Lei nº 8.078, de 11 de setembro de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001951-0-033-13-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.951-33, DE 13 DE DEZEMBRO DE 2000.
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação - SFH, altera as Leis nºs 4.380, de 21 de agosto de 1964, 8.036, de 11 de maio de 1990, e 8.692, de 28 de julho de 1993, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057720-0-000-02-02-1966@@@
-
 decreto nº 57.720, de 2 de fevereiro de 1966.
 
 Autoriza Porcelana Schmidt S.A. a pesquisar feldspato, quartzo e caulim no município de Pedras Grandes, Estado de Santa Catarina..

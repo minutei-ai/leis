@@ -1,5 +1,3 @@
-###DEC-080586-0-000-20-10-1977@@@
-
 DECRETO Nº 80.586, DE 20 DE OUTUBRO DE 1977.
 
 Outorga concessão à Rádio Difusora Cacique Ltda., para estabelecer uma estação de radiodifusão sonora em onda media de âmbito regional, na cidade de Nova andradina, Estado de Mato Grosso.

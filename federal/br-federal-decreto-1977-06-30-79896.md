@@ -1,5 +1,3 @@
-###DEC-079896-0-000-30-06-1977@@@
-
 ### decreto nº 79.896, de 30 de junho de 1977
 
 Concede reconhecimento ao curso de Medicina, da Faculdade Bandeirante de Medicina, com sede na cidade e Bragança Paulista, Estado de São Paulo.

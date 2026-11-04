@@ -1,5 +1,3 @@
-###DEC-003111-0-000-06-07-1999@@@
-
 DECRETO Nº 3.111, DE 6 DE JULHO DE 1999.
 
 Estende os prazos estabelecidos no Decreto nº 3.059, de 14 de maio de 1999.

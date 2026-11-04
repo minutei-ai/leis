@@ -1,5 +1,3 @@
-###DEC-074393-0-000-12-08-1974@@@
-
 decreto nº 74.393, de 12 de agosto de 1974.
 
 Declara a caducidade das concessões outorgadas à Companhia Brasileira de Cimento Portland Perus para lavrar minérios de ferro, manganês e associados no Município de Corumbá, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-052395-0-000-22-08-1963@@@
-
 DECRETO Nº 52.395, DE 22 DE AGÔSTO DE 1963.
 
 Autoriza o cidadão brasileiro Lino Abel a lavrar quartzosa no município de São Vicente, Estado de São Paulo.

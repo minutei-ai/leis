@@ -1,5 +1,3 @@
-###DEC-004781-0-000-16-07-2003@@@
-
 DECRETO Nº 4.781, DE 16 DE JULHO DE 2003.
 
        Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e dá outras providências.
@@ -28,7 +26,8 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 16 de julho de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
  
 
 Guido Mantega

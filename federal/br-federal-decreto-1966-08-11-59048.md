@@ -1,5 +1,3 @@
-###DEC-059048-0-000-11-08-1966@@@
-
 DECRETO Nº 59.048, DE 11 DE AGÔSTO DE 1966.
 
 Altera a Ordenança Geral para o Serviço da Armada, aprovada pelo Decreto nº 8.726, de 6 de fevereiro de 1942.

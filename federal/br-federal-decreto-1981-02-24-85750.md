@@ -1,5 +1,3 @@
-###DEC-085750-0-000-24-02-1981@@@
-
 Decreto nº 85.750, de 24 de fevereiro de 1981
 
 Assegura autonomia administrativa à Escola Superior de Guerra e dá outras providências.

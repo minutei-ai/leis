@@ -1,5 +1,3 @@
-###DEC-047017-0-000-14-10-1959@@@
-
 DECRETO Nº 47.017,DE 14 DE OUTUBRO DE 1959.
 
 Abre, pelo Ministério da Agricultura, os créditos especiais de Cr$2.000.000,00, Cr$200.000,00 e Cr$1.700.000,00 para os fins que especifica.

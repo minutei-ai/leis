@@ -1,5 +1,3 @@
-###DEC-061024-0-000-17-07-1967@@@
-
 DECRETO Nº 61.024, DE 17 DE JULHO DE 1967.
 
 Abre ao Ministério da Agricultura o Crédito Extraordinário de NCr$16.600.000,00 (dezesseis milhões e seiscentos mil cruzeiros novos), destinados à reconstrução e reequipamento do Edifício Sede em Brasília.

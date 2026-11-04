@@ -1,5 +1,3 @@
-###DEC-006336-0-000-28-12-2007@@@
-
 DECRETO Nº 6.336, DE 28 DE DEZEMBRO DE 2007.
 
 Dispõe sobre a descentralização da administração dos portos de Laguna - SC e de Maceió - AL.
@@ -17,5 +15,3 @@ Brasília, 28 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 31.12.2007

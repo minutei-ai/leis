@@ -1,5 +1,3 @@
-###DEC-072177-0-000-07-05-1973@@@
-
 DECRETO N.º 72.177, DE 7 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no estado de Goiás.

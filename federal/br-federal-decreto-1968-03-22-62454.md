@@ -1,5 +1,3 @@
-###DEC-062454-0-000-22-03-1968@@@
-
 DECRETO Nº 62.454, DE 22 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Associação Barão de Souza Queiroz de Proteção à Infância” com sede em São Paulo, Estado de São Paulo.
@@ -15,8 +13,6 @@ Brasília, 22 de março de 1968; 147º da Independência e 80º da República.
 A. Costa e Silva
 
 Luís Antonio da Gama e Silva
-
-###DEC-062454-0-000-22-03-1968@@@RET01+++
 
 DECRETO Nº 62.454, DE 22 DE MARÇO DE 1968.
 

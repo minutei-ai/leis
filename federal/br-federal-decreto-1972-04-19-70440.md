@@ -1,5 +1,3 @@
-###DEC-070440-0-000-19-04-1972@@@
-
 DECRETO Nº 70.440, de 19 de ABRIL de 1972.
 
 Declara de utilidade pública a Fundação de Assistência à Infância de Santo André - F.A.I.S.A., com sede em Santro André, Estado de São Paulo.

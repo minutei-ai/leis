@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211980)<br>
-
 # DECRETO N° 70.200, DE 12 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre a concessão da Medalha dos Bandeirantes_

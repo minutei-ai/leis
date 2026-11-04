@@ -1,7 +1,3 @@
-1
-
-###DEC-001389-0-000-08-02-1995@@@
-
 DECRETO Nº 1.389, DE 8 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução da Ata de Retificação do Décimo e do Décimo Primeiro Protocolos Adicionais ao Acordo Comercial nº 10, entre Brasil, Argentina e México, de 6 de dezembro de 1994.

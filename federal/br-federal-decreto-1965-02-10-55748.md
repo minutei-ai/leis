@@ -1,5 +1,3 @@
-###DEC-055748-0-000-10-02-1965@@@
-
 DECRETO Nº 55.748, DE 10 DE FEVEREIRO DE 1965.
 
 Dispõe sôbre a revisão do Quadro de Pessoal da Administração do Pôrto do Rio de Janeiro e dá outras providências.

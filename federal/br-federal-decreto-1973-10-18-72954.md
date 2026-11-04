@@ -1,5 +1,3 @@
-###DEC-072954-0-000-18-10-1973@@@
-
 Decreto nº 72.954, de 18 de outubro de 1973.
 
 Declara sem efeito o Decreto número 62.738, de 20 de maio de 1968, retificado pelo 63.321, de 30 de setembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-059345-0-000-30-09-1966@@@
-
 DECRETO Nº 59.345, DE 30 DE SETEMBRO DE 1966.
 
 Renova o Decreto n.º 1.924, de 19 de dezembro de 1962.

@@ -1,5 +1,3 @@
-###DEC-061328-0-000-11-09-1967@@@
-
 DECRETO Nº 61.328, DE 11 DE SETEMBRO DE 1967.
 
 Abre o Ministério da Saúde, o crédito suplementar de NCr$5.300.000,00 (cinco milhões e trezentos mil cruzeiros novos), para o fim que especifica.

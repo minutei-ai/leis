@@ -1,5 +1,3 @@
-###DEL-006919-0-000-03-10-1944@@@
-
 DECRETO-LEI N. 6.919 – DE 3 DE OUTUBRO DE 1944
 
 Dispõe sobre o pessoal do Instituto Nacional do Sal e dá outras providências

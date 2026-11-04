@@ -1,5 +1,3 @@
-###DEC-053339-0-000-23-12-1963@@@
-
 DECRETO Nº 53.339, DE 23 DE DEZEMBRO DE 1963.
 
 Autoriza o Banco do Brasil S.A. a levar a crédito da Comissão Nacional de Planejamento (COPLAN) os recursos provenientes da aplicação do Decreto nº 50.363, de 20 de março de 1961.

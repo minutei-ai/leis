@@ -1,5 +1,3 @@
-###DEC-045153-0-000-31-12-1958@@@
-
 DECRETO Nº 45.153, de 31 de dezembro de 1958.
 
 Abre, ao Ministério da Fazenda, crédito suplementares, no valor de Cr$700.000.000,00 para o fim que específica.

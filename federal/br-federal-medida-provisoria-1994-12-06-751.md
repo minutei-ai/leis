@@ -1,7 +1,3 @@
-1
-
-###MPV-000751-0-000-06-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 751, DE 06 DE DEZEMBRO DE 1994.
 
 Dispõe sobre as regras para a conversão, em Real, das mensalidades escolares nos estabelecimentos particulares de ensino, e dá outras providências.

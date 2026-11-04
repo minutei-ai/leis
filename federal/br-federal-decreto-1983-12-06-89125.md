@@ -1,5 +1,3 @@
-###DEC-089125-0-000-06-12-1983@@@
-
 DECRETO Nº 89.125, DE 06 DE DEZEMBRO DE 1983
 
 Eleva o capital da Empresa Pública Financiadora de Estudos e Projetos - FINEP

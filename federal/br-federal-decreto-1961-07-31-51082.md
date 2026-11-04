@@ -1,5 +1,3 @@
-###DEC-051082-0-000-31-07-1961@@@
-
 DECRETO Nº 51.082, DE 31 JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Goiás, as águas do rio denominado Jacuaba, Jacuba-Posse e Posse, respectivamente nos seus trechos superior, médio e inferior.

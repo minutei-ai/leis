@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.412 , de 14 de Novembro de 2018.](https://legis.ac.gov.
 
 > **LEI Nº 3.147, DE 26 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a concessão de uso da Fábrica de Preservativos Masculinos de Xapuri - NATEX.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a concessão de uso da Fábrica de Preservativos Masculinos de Xapuri - NATEX.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

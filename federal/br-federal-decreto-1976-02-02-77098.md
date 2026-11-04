@@ -1,5 +1,3 @@
-###DEC-077098-0-000-02-02-1976@@@
-
 DECRETO Nº 77.098, DE 2 DE FEVEREIRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e respectivas benfeitorias, necessária à segurança da Central Nuclear "Almirante Álvaro Alberto", de FURNAS - Centrais Elétricas S.A.; no Estado do Rio de Janeiro.

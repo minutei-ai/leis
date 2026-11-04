@@ -1,5 +1,3 @@
-###DEC-002901-0-000-23-12-1998@@@
-
 DECRETO Nº 2.901, DE 23 DE DEZEMBRO DE 1998.
 
 Dispõe sobre remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores que menciona, e dá outras providências.

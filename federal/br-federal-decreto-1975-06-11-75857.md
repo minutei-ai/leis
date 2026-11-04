@@ -1,5 +1,3 @@
-###DEC-075857-0-000-11-06-1975@@@
-
 DECRETO Nº 75.857, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento aos cursos de Administração, de Ciências Contábeis e de Ciências, da Universidade Federal de Alagoas, com sede na cidade de Maceió, Estado de Alagoas.

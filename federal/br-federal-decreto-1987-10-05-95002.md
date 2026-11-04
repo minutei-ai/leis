@@ -1,5 +1,3 @@
-###DEC-095002-0-000-05-10-1987@@@
-
 DECRETO Nº 95.002, DE 5 DE OUTUBRO DE 1987
 
 Modifica dispositivos do Regulamento do Código de Mineração, aprovado pelo Decreto nº 62.934, de 2 de julho de 1968.

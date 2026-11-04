@@ -14,5 +14,6 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 02 de Dezembro de 2020.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Presidente

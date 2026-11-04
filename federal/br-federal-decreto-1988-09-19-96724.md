@@ -1,5 +1,3 @@
-###DEC-096724-0-000-19-09-1988@@@
-
 DECRETO N° 96.724, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à TV CATARATAS LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Foz do Iguaçu, Estado do Paraná.

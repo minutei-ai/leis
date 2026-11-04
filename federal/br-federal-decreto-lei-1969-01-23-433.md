@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/db2e2a8b-8e90-4dc6-a705-0f7dc838d7eb/texto#nowhere)
 
-###DEL-000433-0-000-23-01-1969@@@
-
 DECRETO-LEI Nº 433, DE 23 DE JANEIRO DE 1969
 
 Acrescenta parágrafos ao artigo 19 do Decreto-lei nº 401, de 30 de dezembro de 1968, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052242-0-000-09-07-1963@@@
-
 DECRETO Nº 52.242, de 9 de julho de 1963.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar argila e bauxita no município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-081441-0-000-13-03-1978@@@
-
 Decreto nº 81.441, de 13 de março de 1978.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela Mineração do Vale do Paranaíba S.A.-VALEP.

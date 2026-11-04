@@ -1,5 +1,3 @@
-###DEL-006980-0-000-24-10-1944@@@
-
 DECRETO-LEI N. 6.980 – DE 24 DE OUTUBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Educação e Saúde

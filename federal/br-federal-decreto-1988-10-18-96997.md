@@ -1,5 +1,3 @@
-###DEC-096997-0-000-18-10-1988@@@
-
 DECRETO Nº 96.997, DE 18 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados no Município de Itaguaí, Estado do Rio de Janeiro, destinados à instalação de Estação Telefônica da Telecomunicações do Rio de Janeiro S.A. - TELERJ, e dá outras providências.

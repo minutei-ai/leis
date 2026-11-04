@@ -14,10 +14,12 @@ Goiânia, 20 de outubro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-ANEXO ÚNICO<br>
+ANEXO ÚNICO
+
 (Alteração do Apêndice II do Anexo VIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266 "Abrir Decreto Numerado nº 4852, de 1997 em nova aba"), de 29 de dezembro de 1997)
 
 “APÊNDICE II
@@ -26,7 +28,8 @@ SUBSTITUIÇÃO TRIBUTÁRIA ESTABELECIDA POR CONVÊNIO OU PROTOCOLO
 
 .................................................................
 
-IV – VEÍCULO AUTOMOTOR NOVO<br>
+IV – VEÍCULO AUTOMOTOR NOVO
+
 (Convênios ICMS 199/17 e 200/17)
 
 | A) VEÍCULO RELACIONADO NO CONVÊNIO ICMS 199/17 |
@@ -66,9 +69,10 @@ IV – VEÍCULO AUTOMOTOR NOVO<br>
 | 31.0 | Outros veículos para transportes de mercadorias equipados para propulsão, simultaneamente, com motor de pistão de ignição por centelha (faísca) e motor elétrico de peso em carga máxima (bruto) não superior a 5 (cinco) toneladas, exceto caminhão de peso em carga máxima superior a 3,9 toneladas | 25.031.00 | 8704.51.00 | 30 | 54,07 | 49,26 | 41,23 |
 | 32.0 | Outros veículos para transporte de mercadorias, unicamente com motor elétrico para propulsão, exceto veículo de peso em carga máxima superior a 3,9 toneladas | 25.032.00 | 8704.60.00 | 30 | 54,07 | 49,26 | 41,23 |
 
-<table><tbody><tr><td colspan="8">B) VEÍCULO RELACIONADO NO CONVÊNIO ICMS 200/17</td></tr><tr><th colspan="1" rowspan="2" style="text-align: center;">Item</th><th colspan="1" rowspan="2" style="text-align: center;">Descrição</th><th colspan="1" rowspan="2" style="text-align: center;">CEST</th><th colspan="1" rowspan="2" style="text-align: center;">NCM</th><th colspan="4" rowspan="1" style="text-align: center;">MVA</th></tr><tr><th style="text-align: center;">Interna</th><th style="text-align: center;">4%</th><th style="text-align: center;">7%</th><th style="text-align: center;">12%</th></tr><tr><td>1.0</td><td>Motocicletas (incluídos os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral, exceto os classificados no CEST 26.001.01; carros laterais.</td><td style="text-align: center;">26.001.00</td><td style="text-align: center;">8711</td><td style="text-align: center;">34</td><td style="text-align: center;">58,81</td><td style="text-align: center;">53,85</td><td style="text-align: center;">45,58</td></tr><tr><td>1.1</td><td>Bicicletas e outros ciclos (incluídos os triciclos) com propulsão de motor elétrico auxiliar assistido pela força humana.</td><td style="text-align: center;">26.001.01</td><td style="text-align: center;">8711</td><td style="text-align: center;">34</td><td style="text-align: center;">58,81</td><td style="text-align: center;">53,85</td><td style="text-align: center;">45,58</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">B) VEÍCULO RELACIONADO NO CONVÊNIO ICMS 200/17</td></tr><tr><th colspan="1" rowspan="2">Item</th><th colspan="1" rowspan="2">Descrição</th><th colspan="1" rowspan="2">CEST</th><th colspan="1" rowspan="2">NCM</th><th colspan="4" rowspan="1">MVA</th></tr><tr><th>Interna</th><th>4%</th><th>7%</th><th>12%</th></tr><tr><td>1.0</td><td>Motocicletas (incluídos os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral, exceto os classificados no CEST 26.001.01; carros laterais.</td><td>26.001.00</td><td>8711</td><td>34</td><td>58,81</td><td>53,85</td><td>45,58</td></tr><tr><td>1.1</td><td>Bicicletas e outros ciclos (incluídos os triciclos) com propulsão de motor elétrico auxiliar assistido pela força humana.</td><td>26.001.01</td><td>8711</td><td>34</td><td>58,81</td><td>53,85</td><td>45,58</td></tr></tbody></table>
 
-V – PNEUMÁTICO, PROTETOR E CÂMARA DE AR DE BORRACHA NOVOS<br>
+V – PNEUMÁTICO, PROTETOR E CÂMARA DE AR DE BORRACHA NOVOS
+
 (Convênio ICMS 102/17)
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -81,7 +85,8 @@ V – PNEUMÁTICO, PROTETOR E CÂMARA DE AR DE BORRACHA NOVOS<br>
 | 5.0 | Protetores de borracha, exceto para bicicletas | 16.007.00 | 4012.90 | 45 | 71,85 | 66,48 | 57,53 |
 | 6.0 | Câmaras de ar de borracha, exceto para bicicletas | 16.008.00 | 4013 | 45 | 71,85 | 66,48 | 57,53 |
 
-VI – CIGARRO E OUTROS PRODUTOS DERIVADOS DO FUMO<br>
+VI – CIGARRO E OUTROS PRODUTOS DERIVADOS DO FUMO
+
  (Convênio ICMS 111/17)
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -90,7 +95,8 @@ VI – CIGARRO E OUTROS PRODUTOS DERIVADOS DO FUMO<br>
 | 1.0 | Charutos, cigarrilhas e cigarros, de tabaco ou dos seus sucedâneos | 04.001.00 | 2402 | 50 | 97,26 | 91,10 | 80,82 |
 | 2.0 | Tabaco para fumar, mesmo contendo sucedâneos de tabaco em qualquer proporção | 04.002.00 | 2403.1 | 50 | 97,26 | 91,10 | 80,82 |
 
-VII – TINTA E VERNIZ<br>
+VII – TINTA E VERNIZ
+
  (Convênio ICMS 118/17)
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -104,7 +110,8 @@ VII – TINTA E VERNIZ<br>
 
 ...................................................................................
 
-VIII – LÂMINA E APARELHO DE BARBEAR<br>
+VIII – LÂMINA E APARELHO DE BARBEAR
+
 (Protocolos ICM 16/85 e ICMS 18/01)
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -113,7 +120,8 @@ VIII – LÂMINA E APARELHO DE BARBEAR<br>
 | --- | --- | --- | --- |
 | 1.0 | Aparelhos e lâminas de barbear | 20.064.00 | 8212.10.20 8212.20.10 | 30 | 54,07 | 49,26 | 41,23 |
 
-IX – LÂMPADAS ELÉTRICA E ELETRÔNICA, REATOR E “STARTER” <br>
+IX – LÂMPADAS ELÉTRICA E ELETRÔNICA, REATOR E “STARTER” 
+
 (Protocolos ICM 17/85 e ICMS 26/01)
 
 | Item | Descrição | CEST | NCM | interna | 4% | 7% | 12% |
@@ -126,7 +134,8 @@ IX – LÂMPADAS ELÉTRICA E ELETRÔNICA, REATOR E “STARTER” <br>
 
 ........................................................................
 
-XI – CIMENTO<br>
+XI – CIMENTO
+
 (Protocolos ICM 11/85 e ICMS 7/03)
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -135,7 +144,8 @@ XI – CIMENTO<br>
 | --- | --- | --- | --- |
 | 1.0 | Cimento | 05.001.00 | 2523 | 20 | 42,22 | 37,78 | 30,37 |
 
-XII – APARELHO DE TELEFONIA MÓVEL<br>
+XII – APARELHO DE TELEFONIA MÓVEL
+
 (Convênio ICMS 213/17)
 
 | Item | Descrição | CEST | NCM | MVA |
@@ -148,7 +158,8 @@ XII – APARELHO DE TELEFONIA MÓVEL<br>
 
 .........................................................................
 
-XVII – MARKETING DIRETO<br>
+XVII – MARKETING DIRETO
+
  (Convênio ICMS 45/99)
 
 | Item | Descrição | CEST | NCM | MVA |

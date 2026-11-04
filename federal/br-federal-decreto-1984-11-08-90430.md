@@ -1,5 +1,3 @@
-###DEC-090430-0-000-08-11-1984@@@
-
 Decreto nº 90.430, de 08 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

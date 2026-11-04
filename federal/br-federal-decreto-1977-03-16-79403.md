@@ -1,5 +1,3 @@
-###DEC-079403-0-000-16-03-1977@@@
-
 DECRETO Nº 79.403, DE 16 DE MARÇO DE 1977.
 
 Concede reconhecimento ao curso de Medicina Veterinária, da Faculdade de Medicina Veterinária da Fundação Universidade de Uberlândia.

@@ -1,5 +1,3 @@
-###DEC-058822-0-000-14-07-1966@@@
-
 decreto nº 58.822, de 14 de julho de 1966.
 
 Promulga a Convenção nº 105 concernente à abolição do Trabalho forçado.
@@ -104,4 +102,20 @@ O texto que precede é o texto autêntico da convenção devidamente adotada pel
 
 Em fé dos que assinaram a 4 de julho de 1957.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Date" style="text-indent:0pt; text-align:center"><span>O Presidente da Conferência</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Date" style="text-indent:0pt; text-align:center"><span>O Diretor-Geral da Repartição Internacional do Trabalho</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Date" style="text-indent:0pt; text-align:center"><span>Harold Holt</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Date" style="text-indent:0pt; text-align:center"><span>David A. Morse</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Presidente da Conferência
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Diretor-Geral da Repartição Internacional do Trabalho
+
+</td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Harold Holt
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+David A. Morse
+
+</td></tr></tbody></table>

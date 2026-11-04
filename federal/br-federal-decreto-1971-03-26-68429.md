@@ -1,5 +1,3 @@
-###DEC-068429-0-000-26-03-1971@@@
-
 DECRETO Nº 68.429, DE 26 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Associação de Ensino Nôvo Ateneu, com sede em Curitiba, Estado do Paraná.

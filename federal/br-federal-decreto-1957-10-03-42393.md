@@ -1,16 +1,14 @@
-###DEC-042393-0-000-03-10-1957@@@
+**DECRETO Nº 42.393, DE 3 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.393, DE 3 DE OUTUBRO DE 1957.</strong>
+***Dá nova redação ao art. 5º do Regulamento do Quadro de Estado-Maior do Exército, aprovado pelo Decreto nº 38.259, de 26 de novembro de 1955, e dá outras providências.***
 
-<em><strong>Dá nova redação ao art. 5º do Regulamento do Quadro de Estado-Maior do Exército, aprovado pelo Decreto nº 38.259, de 26 de novembro de 1955, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica revogado o Decreto nº 38.259, de 26 de novembro de 1955.
 
-<strong>Art</strong>. 1º Fica revogado o Decreto nº 38.259, de 26 de novembro de 1955.
-
-<strong>Art</strong>. 2º Passa a ter a seguinte redação o art. 5º do Regulamento do Quadro de Estado-Maior do Exército, aprovado pelo Decreto nº 25.382 de 18 de agôsto de 1948, e dá outras providências:
+**Art**. 2º Passa a ter a seguinte redação o art. 5º do Regulamento do Quadro de Estado-Maior do Exército, aprovado pelo Decreto nº 25.382 de 18 de agôsto de 1948, e dá outras providências:
 
 “Art. 5º São funções do Estado-Maior:
 
@@ -46,12 +44,12 @@ p) A inerentes a Estabelecimentos de Ensino e Cursos consignadas nos respectivos
 
 q) As de Chefe de 1ª Seção de Circunscrição de Recrutamento.”
 
-<strong>Art</strong>. 3º Mesmo no desempenho de função expressa neste decreto, só farão jus à gratificação de que tratam os arts. 115, 116 e 117 da Lei nº 1.316, de 20 de janeiro de 1951 (CVVM), os oficiais possuidores do Curso de Estado-Maior.
+**Art**. 3º Mesmo no desempenho de função expressa neste decreto, só farão jus à gratificação de que tratam os arts. 115, 116 e 117 da Lei nº 1.316, de 20 de janeiro de 1951 (CVVM), os oficiais possuidores do Curso de Estado-Maior.
 
-<strong>Art</strong>. 4º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 3 de outubro de 1957; 136º da independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

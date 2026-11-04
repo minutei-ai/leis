@@ -1,5 +1,3 @@
-###DEC-074496-0-000-04-09-1974@@@
-
 DECRETO Nº 74.496, DE 4 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Comunicação Social, mantida pela Sociedade de Educação do Triângulo Mineiro, com sede na cidade de Uberaba, Estado de Minas Gerais.

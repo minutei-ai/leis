@@ -1,5 +1,3 @@
-###DEC-093296-0-000-26-09-1986@@@
-
 DECRETO Nº 93.296, DE 26 DE SETEMBR0 DE 1986
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais constituídos de parte da "Gleba Pyrineos", situados no Município de Ji-Paraná, no Estado de Rondônia, e compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.684, de 19 de maio de 1986 e dá outras providências.

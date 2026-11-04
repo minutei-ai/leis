@@ -1,5 +1,3 @@
-###DEC-001769-0-000-03-01-1996@@@
-
 DECRETO Nº 1.769, DE 03 DE JANEIRO DE 1996
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Alcance Parcial para a Liberação e Expansão do Comércio Intra-Regional de Sementes, entre Brasil, Argentina, Bolívia, Chile, Colômbia, Equador, Paraguai, Peru, Uruguai, Venezuela e Cuba, de 30 de agosto de 1995.

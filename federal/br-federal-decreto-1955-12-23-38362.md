@@ -1,14 +1,12 @@
-###DEC-038362-0-000-23-12-1955@@@
+**DECRETO Nº 38.362, DE 23 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.362, DE 23 DE DEZEMBRO DE 1955.</strong>
+***Dá redação aos arts. 4º e 5º do Decreto nº 37.406, de 31 de maio de 1955.***
 
-<em><strong>Dá redação aos arts. 4º e 5º do Decreto nº 37.406, de 31 de maio de 1955.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL** no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong> no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando das atribuições que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os Arts. 4º e 5º do Decreto nº 37.406, de 31 de maio de 1955, passam a ter a seguinte redação:
+**Art**. 1º Os Arts. 4º e 5º do Decreto nº 37.406, de 31 de maio de 1955, passam a ter a seguinte redação:
 
 “Art. 4º Nenhum militar poderá receber duas vêzes a medalha de mesma característica, nem usar uma característica inferior se fizer jus a outra de característica superior”.
 
@@ -24,11 +22,11 @@ d) Escola Técnica do Exército: primeiro lugar no curso de sua especialidade; d
 
 e) Escola de Sargentos das Armas: primeiro lugar de sua turma, em cada Arma”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, ficando assim revogados os arts 4º e 5º do Decreto nº 37.406, de 31 de maio de 1955.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, ficando assim revogados os arts 4º e 5º do Decreto nº 37.406, de 31 de maio de 1955.
 
 Rio de Janeiro, 23 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Henrique Alves Câmara
 

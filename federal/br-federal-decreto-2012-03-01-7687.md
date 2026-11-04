@@ -1,5 +1,3 @@
-###DEC-007687-0-000-01-03-2012-PUB-01@@@
-
 DECRETO N° 7.687, DE 1°\- DE MARÇO DE 2012
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre Parceria e Cooperação em Matéria de Segurança Pública, firmado em Brasília, em 6 de novembro de 2008.

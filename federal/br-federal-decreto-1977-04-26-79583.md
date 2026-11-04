@@ -1,5 +1,3 @@
-###DEC-079583-0-000-26-04-1977@@@
-
 Decreto nº 79.583, de 26 de abril de 1977.
 
 Concede à S.A. Indústrias Votorantim o direito de lavrar calcário e dolomito nos Município de Guapiara e Capão Bonito, Estado de São Paulo.

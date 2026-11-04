@@ -1,5 +1,3 @@
-###DEC-088109-0-000-11-02-1983@@@
-
 Decreto nº 88.109, de 11 de fevereiro de 1983.
 
 Altera a denominação da Capitania dos Portos dos Estados do Amazonas e do Acre e Territórios Federais de Rondônia e Roraima.

@@ -1,20 +1,18 @@
-###DEC-028056-0-000-25-04-1950@@@
+**DECRETO Nº 28 056, DE 25 DE ABRIL DE 1950.**
 
-<strong>DECRETO Nº 28 056, DE 25 DE ABRIL DE 1950.</strong>
+***Outorga a Geraldo Ozanam Fernandes concessão para o aproveitamento progressivo da energia hidráulica de uma queda d’água situada no rio São João, distrito de Itaobim, município de Medina, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Geraldo Ozanam Fernandes concessão para o aproveitamento progressivo da energia hidráulica de uma queda d’água situada no rio São João, distrito de Itaobim, município de Medina, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *b*, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>b</em>, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgado a Geraldo Ozanam Fernandes concessão para o aproveitamento progressivo da energia hidráulica de uma queda d’água situada no rio São João distrito de Itaobim, município de Medina, Estado Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgado a Geraldo Ozanam Fernandes concessão para o aproveitamento progressivo da energia hidráulica de uma queda d’água situada no rio São João distrito de Itaobim, município de Medina, Estado Minas Gerais.
 
 § 1º Em portaria do Ministério da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga da derivação e a potência da etapa inicial, bem como das subseqüentes, à medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção de energia elétrica para uso exclusivo do concessionário que não poderá suprir a terceiros, mesmo a título gratuito, excluídos, todavia, dessa proibição, as vilas operárias do concessionário desde que seja gratuito o fornecimento de energia que lhes for feito.
 
-<strong>Art</strong>. 2º Caducara o presente título, independente de qualquer ato declaratório, se o concessionário não cumprir as seguintes condições:
+**Art**. 2º Caducara o presente título, independente de qualquer ato declaratório, se o concessionário não cumprir as seguintes condições:
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -100,22 +98,22 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e a manter nas proximidades do aproveitamento, onde desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e a manter nas proximidades do aproveitamento, onde desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, revertera ao estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico do capital não amortizado.
+**Art**. 4º Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, revertera ao estado de Minas Gerais, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico do capital não amortizado.
 
 § 1º Se o estado de Minas Gerais não fizer uso do seu direito a essa reversão, o concessionário poderá requerer ao Govêrno Federal, que a concessão seja renovada pela forma que devera estar prevista no respectivo contrato.
 
 § 2º Para os efeitos do parágrafo anterior, fica o concessionário obrigado a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a entrar com requerimento de prorrogação da concessão ou de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contando da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contando da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 6º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrario.
+**Art**. 7º Revogam-se as disposições em contrario.
 
 Rio de Janeiro, 25 de abril de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G DUTRA</strong>
+**EURICO G DUTRA**
 
 Daniel de Carvalho

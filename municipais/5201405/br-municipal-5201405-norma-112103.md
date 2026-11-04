@@ -22,14 +22,18 @@ Art. 2º - Esta Lei entrará em vigor na data de sua publicação, retroagindo s
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dezesseis dias do mês de junho de dois mil e três.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MARCOS AURÉLIO L. DE ARIMATÉIA<br>
+MARCOS AURÉLIO L. DE ARIMATÉIA
+
 SEC. DE PLANEJAMENTO
 
-ZANONE RODRIGUES PEREIRA<br>
+ZANONE RODRIGUES PEREIRA
+
 SEC. DE FINANÇAS

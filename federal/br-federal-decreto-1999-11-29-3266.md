@@ -1,5 +1,3 @@
-###DEC-003266-0-000-29-11-1999@@@
-
 DECRETO Nº 3.266, DE 29 DE NOVEMBRO DE 1999.
 
 Atribui competência e fixa a periodicidade para a publicação da tábua completa de mortalidade de que trata o § 8º do art. 29 da Lei nº 8.213, de 24 de julho de 1991, com a redação dada pela Lei nº 9.876, de 26 de novembro de 1999.

@@ -1,6 +1,7 @@
 LEI Nº 8.828 DE 02 DE OUTUBRO DE 2003
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.355 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro de 2011, os limites dos Municípios de Baixa Grande, Capela do Alto Alegre, Gavião , Mairi , Nova Fátima , Pé de Serra , Pintadas , Riachão do Jacuípe, São José do Jacuípe , Várzea da Roça e Várzea do Poço. 
 
 Redefine os limites do município de Várzea do Poço, criado em 1962, através da Lei Estadual nº [1.774](javascript: openDoc\() , desmembrado do território de Miguel Calmon.
@@ -31,4 +32,4 @@ Armando Avena
 
 Secretário do Planejamento
 
-* * *
+ *

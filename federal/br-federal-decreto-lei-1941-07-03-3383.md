@@ -1,5 +1,3 @@
-###DEL-003383-0-000-03-07-1941@@@
-
 DECRETO-LEI N. 3.383 – DE 3 DE JULHO DE 1941
 
 Estende no núcleo  colonial emancipado "Senador Esteves Junior", no Estado de Santa Catarina e, bem assim, a todas as terras sob o mesmo regime federal naquele Estado, os dispositivos do decreto-lei nº 893, de 26 de novembro de 1938.

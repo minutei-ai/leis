@@ -1,5 +1,3 @@
-###DEL-004818-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.818 – DE 8 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 487:520$0, para auxílio a mutilados e paralíticos

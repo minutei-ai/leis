@@ -1,5 +1,3 @@
-###DEC-004413-0-000-07-10-2002@@@
-
 DECRETO Nº 4.413, DE 7 DE OUTUBRO DE 2002
 
 Acrescenta dispositivos ao art. 9º do Decreto nº 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para as empresas concessionárias de serviços públicos de energia elétrica.

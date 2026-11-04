@@ -1,5 +1,3 @@
-###DEC-061012-0-000-14-07-1967@@@
-
 DECRETO Nº 61.012, DE 14 DE JULHO DE 1967.
 
 Regulamenta a aplicação, pelo Ministério da Saúde, do Fundo Especial de Financiamento de Assistência Médica (FEFAM), criado pelo artigo 28, item I, do Decreto-lei nº 204, de 27 de fevereiro de 1967.

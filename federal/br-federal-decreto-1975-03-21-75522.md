@@ -1,5 +1,3 @@
-###DEC-075522-0-000-21-03-1975@@@
-
 decreto nº 75.522, de 21 de março de 1975.
 
 Outorga à Companhia de Papel Chapecó concessão para o aproveitamento hidráulico de um trecho do Rio Tigre (usina do Rio Tigre), no Estado de Santa Catarina.

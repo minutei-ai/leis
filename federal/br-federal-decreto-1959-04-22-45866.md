@@ -1,5 +1,3 @@
-###DEC-045866-0-000-22-04-1959@@@
-
 DECRETO Nº 45.866, 22 DE ABRIL DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Goiânia, no Estado de Goiás.

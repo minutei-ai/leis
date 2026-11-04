@@ -1,5 +1,3 @@
-###DEC-052356-0-000-14-08-1963@@@
-
 DECRETO Nº 52.356, DE 14 DE AGÔSTO DE 1963.
 
 Declara de interêsse social para fins de desapropriação as áreas de terras situadas no município de Mage, 1º e 4º Distritos, com a denominação de São José das Cachoeira ou Cachoeira ou Cachoeirinha e outra no lugar Campanha, em Iriri.

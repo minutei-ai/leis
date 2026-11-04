@@ -1,5 +1,3 @@
-###DEC-006621-0-000-29-10-2008@@@
-
 DECRETO Nº 6.621, DE 29 DE OUTUBRO DE 2008.
 
 Altera o Decreto no 6.433, de 15 de abril de 2008, que institui o Comitê Gestor do Imposto sobre a Propriedade Territorial Rural - CGITR e dispõe sobre a forma de opção de que trata o inciso III do § 4o do art. 153 da Constituição, pelos Municípios e pelo Distrito Federal, para fins de fiscalização e cobrança do Imposto sobre a Propriedade Territorial Rural - ITR.

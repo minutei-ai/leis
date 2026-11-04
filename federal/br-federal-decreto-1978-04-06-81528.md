@@ -1,5 +1,3 @@
-###DEC-081528-0-000-06-04-1978@@@
-
 Decreto nº 81.528, de 06 de abril de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

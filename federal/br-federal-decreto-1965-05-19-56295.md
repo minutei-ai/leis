@@ -1,5 +1,3 @@
-###DEC-056295-0-000-19-05-1965@@@
-
 DECRETO Nº 56.295, DE 19 DE maio DE 1965.
 
 Declara de utilidade pública o Centro Espírita João Moreira, com sede em Capivari, Estado de São Paulo.

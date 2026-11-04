@@ -1,6 +1,10 @@
 > **LEI Nº 3.546, DE 13 DE NOVEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.204, de 20 de dezembro de 2016, que “Autoriza o Poder Executivo Estadual a contratar operação de crédito denominada Financiamento para Infraestrutura e Saneamento – FINISA, junto à Caixa Econômica Federal – CAIXA.”</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 3.204, de 20 de dezembro de 2016, que “Autoriza o Poder Executivo Estadual a contratar operação de crédito denominada Financiamento para Infraestrutura e Saneamento – FINISA, junto à Caixa Econômica Federal – CAIXA.”
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

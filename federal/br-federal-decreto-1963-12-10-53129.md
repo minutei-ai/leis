@@ -1,5 +1,3 @@
-###DEC-053129-0-000-10-12-1963@@@
-
 DECRETO Nº 53.129, DE 10 DE DEZEMBRO DE 1963.
 
 Altera o art. 1º do Decreto número 50.134, de 26 de janeiro de 1961.

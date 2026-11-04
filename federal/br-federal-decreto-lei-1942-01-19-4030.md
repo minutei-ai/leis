@@ -1,5 +1,3 @@
-###DEL-004030-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.030 – DE 19 DE JANEIRO DE 1942
 
 Isenta de prêmios e taxas de que trata o decreto-Lei n. 2.621, de 24 de setembro de 1940, as remessas de valores pertencentes à União

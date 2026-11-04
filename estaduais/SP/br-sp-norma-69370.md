@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69370)
-
 # LEI Nº 12.474, DE 26 DE DEZEMBRO DE 2006
 
 ### _Cria as Secretarias de Estado que especifica e dá providências correlatas_

@@ -1,5 +1,3 @@
-###DEC-067309-0-000-01-10-1970@@@
-
 DECRETO Nº 67.309, DE 1 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 9.669 de 12 de junho de 1942.

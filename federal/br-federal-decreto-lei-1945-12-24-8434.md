@@ -1,5 +1,3 @@
-###DEL-008434-0-000-24-12-1945@@@
-
 DECRETO-LEI  N. 8.434 – DE 24 DE DEZEMBRO DE 1945
 
 Prorroga o prazo para a publicação dos orçamentos municipais

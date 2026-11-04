@@ -1,7 +1,3 @@
-1
-
-###DEC-000481-0-000-26-03-1992@@@
-
 DECRETO N° 481, DE 26 DE MARÇO DE 1992
 
 Institui o Programa de Ação Social em Saneamento - PROSEGE e dá outras providências.

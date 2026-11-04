@@ -1,5 +1,3 @@
-###DEL-006594-0-000-16-06-1944@@@
-
 DECRETO-LEI N. 6.594 – DE 16 DE JUNHO DE 1944
 
 Cria o Parque Central de Moto-Mecanização, nesta Capital, e o Depósito de Moto-Mecanização do Rio de Janeiro

@@ -1,5 +1,3 @@
-###DEC-049415-0-000-03-12-1960@@@
-
 DECRETO Nº 49.415, DE 3 DE dezembro DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona , no estado de São Paulo.

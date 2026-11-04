@@ -1,5 +1,3 @@
-###DEC-076473-0-000-20-10-1975@@@
-
 DECRETO Nº 76.473, DE 20 DE OUTUBRO DE 1975.
 
 Outorga concessão à Rádio Educação Rural de Coari Ltda. para estabelecer uma estação de radiodifusão sonora em onda tropical, na cidade de Coari, Estado do Amazonas.

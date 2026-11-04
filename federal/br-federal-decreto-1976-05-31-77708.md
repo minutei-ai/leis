@@ -1,5 +1,3 @@
-###DEC-077708-0-000-31-05-1976@@@
-
 DECRETO Nº 77.708 - DE 31 DE MAIO DE 1976
 
 Retifica a concessão de lavra outorgada à Sociedade Anônima Mineração de Amianto pelo Decreto número 71.845, de 16 de fevereiro de 1973.

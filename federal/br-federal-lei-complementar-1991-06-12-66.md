@@ -1,7 +1,3 @@
-1
-
-###LCP-000066-0-000-12-06-1991@@@
-
 # LEI COMPLEMENTAR N° 66, DE 12 DE JUNHO DE 1991
 
 Dispõe sobre a composição do Conselho Deliberativo da Superintendência do Desenvolvimento do Nordeste (Sudene).

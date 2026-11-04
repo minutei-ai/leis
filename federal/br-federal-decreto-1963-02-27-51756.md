@@ -1,5 +1,3 @@
-###DEC-051756-0-000-27-02-1963@@@
-
 DECRETO Nº 51.756, DE 27 DE FEVEREIRO DE 1963.
 
 Declara prioritária para o desenvolvimento no Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “Constâncio Vieira & Cia.”, de Aracaju (Sergipe).
@@ -14,7 +12,37 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, com a ressalva neste expressa e pertinente aos motores elétricos referidos nos itens 2 e 3 infra, que acompanham, devidamente acoplados a maquinaria, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Constâncio Vieira & Cia.”, de Aracaju (Sergipe);
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:322.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM – ESPECIAL</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:38.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:322.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1. Maçaroqueira de alta estiragem, modêlo F6, marca </span><span style="font-style:italic">Ingolstadt</span><span>, com 80 fusos, alça de 12”, dispositivo deparada automática, trem de estiragem modêlo PK 400 com manchões duplos e todos os rolos em mancais de rolamento. Prevista para trabalhar com latas de 16” x 36”. Exclusive motores elétricos. Pêso líquido total: 6.425kg. - Fabricação de </span><span style="font-style:italic">Deutscher Spinnereimaschinenbao Iugolstadt</span><span>, Alemanha ........................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2. Motor elétrico tipo CR 725-5, de 4,00 KW 1.140 rpm, modêlo B 3, pêso líquido total: 204kg .........................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3. Motor elétrico tio OR 9,9-2, de 0,32 KW 3,420 rpm, modêlo B 5, pêso líquido total: 21kg ....................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Todos os motores elétricos para 440 V, 60 ciclos, fechados, trifásicos, assíncronos, de fabricação e marca </span><span style="font-style:italic">Siemens Schucker-twerke</span><span> – Alemanha.</span></p></td><td style="width:56.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:38.55pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>52,296</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>420</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>84</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:322.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total ...........................................................................................................</span></p></td><td style="width:56.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:38.55pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>52.800</span></p></td></tr></tbody></table>
+ITEM – ESPECIAL
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Maçaroqueira de alta estiragem, modêlo F6, marca Ingolstadt, com 80 fusos, alça de 12”, dispositivo deparada automática, trem de estiragem modêlo PK 400 com manchões duplos e todos os rolos em mancais de rolamento. Prevista para trabalhar com latas de 16” x 36”. Exclusive motores elétricos. Pêso líquido total: 6.425kg. - Fabricação de Deutscher Spinnereimaschinenbao Iugolstadt, Alemanha ........................
+
+2. Motor elétrico tipo CR 725-5, de 4,00 KW 1.140 rpm, modêlo B 3, pêso líquido total: 204kg .........................................................................
+
+3. Motor elétrico tio OR 9,9-2, de 0,32 KW 3,420 rpm, modêlo B 5, pêso líquido total: 21kg ....................................................................................
+
+Todos os motores elétricos para 440 V, 60 ciclos, fechados, trifásicos, assíncronos, de fabricação e marca Siemens Schucker-twerke – Alemanha.
+
+3
+
+3
+
+3
+
+52,296
+
+420
+
+84
+
+Total ...........................................................................................................
+
+-
+
+52.800
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito aos motores elétrico citados nos itens 2 e 3 retro, fica sua similaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

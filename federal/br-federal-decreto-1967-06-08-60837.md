@@ -1,5 +1,3 @@
-###DEC-060837-0-000-08-06-1967@@@
-
 DECRETO Nº 60.837, DE 8 de JUNHO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Uberaba, Minas Gerais, destinado ao Ministério da Educação e Cultura.

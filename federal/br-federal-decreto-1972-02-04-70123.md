@@ -1,5 +1,3 @@
-###DEC-070123-0-000-04-02-1972@@@
-
 Decreto Nº 70.123, DE 4 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração de Capivari - SP.

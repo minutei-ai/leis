@@ -1,5 +1,3 @@
-###DEC-073872-0-000-26-03-1974@@@
-
 DECRETO Nº 73.872, DE 26 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Educação de Guaratinguetá, com o curso de Pedagogia, mantida pela Organização Guará de Ensino, com sede na cidade de Guaratinguetá, Estado de São Paulo.

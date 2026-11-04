@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ffcfba72-0cb7-42c6-880a-60ae45535789/texto#nowhere)
 
-###DEL-001723-0-000-06-12-1979@@@
-
 # Decreto-lei nº 1.723, de 06 de dezembro de 1979
 
 Dispõe sobre a participação dos Territórios Federais na reserva criada pelo Decreto-lei nº 1434, de 11 de dezembro de 1975.

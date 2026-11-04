@@ -1,5 +1,3 @@
-###DEC-054257-0-000-04-09-1964@@@
-
 decreto nº 54.257, de 4 de setembro de 1964.
 
 Autoriza a cidadã brasileira Selma Rosa Corradini a lavrar areia quartzosa no município de Descalvado, Estado de São Paulo.

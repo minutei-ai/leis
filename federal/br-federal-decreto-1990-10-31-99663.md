@@ -1,5 +1,3 @@
-###DEC-099663-0-000-31-10-1990@@@
-
 DECRETO N° 99.663, DE 31 DE OUTUBRO DE 1990
 
 Extingue o Cadastro Geral das Agên­cias de Colocação de que trata o Decreto n° 62.756, de 22 de maio de l968.

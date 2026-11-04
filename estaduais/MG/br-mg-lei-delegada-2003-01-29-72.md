@@ -155,7 +155,3 @@ a) Departamento Estadual de Telecomunicações de Minas Gerais – DETEL
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Diretoria Geral Diretor Geral 01 1,85057 Diretoria Geral Vice-Diretor Geral 01 1,61924 Diretoria de Engenharia de Radiodifusão e Telecomunicações Diretor 01 1,57298 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,57298 Gabinete Chefe de Gabinete 01 1,23810 Assessoria Jurídica Assessor Jurídico 01 0,90000 Auditoria Seccional Auditor Seccional 01 0,90000
-
-\=======================================
-
-Data da última atualização: 25/7/2011.

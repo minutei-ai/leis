@@ -1,5 +1,3 @@
-###DEL-009479-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.479 – DE 18 DE JULHO DE 1946
 
 Retifica o Art. 2º do Decreto-lei número 9.457, de 12 de Julho de 1946

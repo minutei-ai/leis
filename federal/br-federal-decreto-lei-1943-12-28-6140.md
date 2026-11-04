@@ -1,5 +1,3 @@
-###DEL-006140-0-000-28-12-1943@@@
-
 DECRETO‑LEI N. 6.140 – DE 28 DE DEZEMBRO DE 1943
 
 Altera a letra a, art. 2º do decreto‑lei n. 3.463, de 25 de julho de 1941

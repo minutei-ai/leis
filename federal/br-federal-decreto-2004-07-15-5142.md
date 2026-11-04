@@ -1,5 +1,3 @@
-###DEC-005142-0-000-15-07-2004@@@
-
 DECRETO Nº 5.142,  DE 15 DE JULHO DE 2004
 
        Cria a Câmara de Política de Desenvolvimento Econômico, do Conselho de Governo.

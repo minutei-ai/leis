@@ -1,5 +1,3 @@
-###DEC-055460-0-000-05-01-1965@@@
-
 Decreto nº 55.460, de 5 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Tito Ferreira da Silva a lavrar calcário, no município de Moema, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-004071-0-000-30-01-1942@@@
-
 DECRETO-LEI N. 4.071 – DE 30 DE JANEIRO DE 1942
 
 Revoga o artigo 11 da lei n. 183, de 13 de janeiro de 1936

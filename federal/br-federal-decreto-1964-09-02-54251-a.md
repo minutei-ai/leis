@@ -1,5 +1,3 @@
-###DEC-054251-A-000-02-09-1964@@@
-
 DECRETO Nº 54.251-A, de 2 de setembro de 1964.
 
 Modifica o regulamento da Comissão Nacional de Assistência Técnica.

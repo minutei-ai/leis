@@ -1,5 +1,3 @@
-###DEC-061461-0-000-04-10-1967@@@
-
 DECRETO Nº 61.461, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza a firma Mayer Z. Goldgrob, estabelecida na cidade do Rio de Janeiro, Estado da Guanabara, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-082064-0-000-03-08-1978@@@
-
 Decreto nº 82.064, de 03 de agosto de 1978.
 
 Declara sem efeito a interdição de parte da área a que se refere o Decreto n° 73.562, de 24 de janeiro de 1974, alterado pelo Decreto n° 77.033, de 15 de janeiro de 1976, e dá outras providências.

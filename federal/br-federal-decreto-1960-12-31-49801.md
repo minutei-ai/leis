@@ -1,5 +1,3 @@
-###DEC-049801-0-000-31-12-1960@@@
-
 decreto nº 49.801, de 31 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Janusz Gerulewicz a pesquisar quartzo no município de Veadeiros, Estado de Goiás.

@@ -1,5 +1,3 @@
-###MPV-000034-0-000-06-03-2002@@@
-
 MEDIDA PROVISÓRIA Nº 34, DE 6 DE MARÇO DE 2002
 
 Abre crédito extraordinário, em favor dos Ministérios de Minas e Energia e da Integração Nacional, no valor global de R$ 805.000.000,00, para os fins que especifica.
@@ -22,69 +20,324 @@ ORGAO : 32000 - MINISTERIO DE MINAS E ENERGIA
 
 UNIDADE : 32101 - MINISTERIO DE MINAS E ENERGIA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANEXO I</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>CREDITO</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>EXTRADINÁRIO</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RECURSOS DE TODAS AS FONTES AS FONTES – R$ 1,00</span></p></td></tr></tbody></table>
+ANEXO I
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">FUNC.</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMATICA</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">E</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">S</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">F</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">G</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">N</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">R</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">P</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">M</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">O</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">I</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">U</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">F</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">T</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">E</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em; -aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">V</span></p></td></tr></tbody></table>
+CREDITO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>0909 OPERAÇÕES</span></p><p class="Anexo" style="text-indent:0pt"><span>ESPECIAIS</span></p><p class="Anexo" style="text-indent:0pt"><span>OUTROS</span></p><p class="Anexo" style="text-indent:0pt"><span>ENCARGOS</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ESPECIAIS</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>800.000.000</span></p></td></tr></tbody></table>
+EXTRADINÁRIO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:198.45pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:177.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>OPERAÇÕES ESPECIAS</span></p></td></tr></tbody></table>
+PROGRAMA DE TRABALHO (SUPLEMENTAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>28 846</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0909 0635</span></p></td><td style="width:127.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>PARTICIPAÇÃO DA UNIAO NO CAPITAL-COMERCIALIZADORA BRASILEIRA DE ENERGIA EMERGENCIAL – CBEE</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:148.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>800.000.000</span></p></td><td style="width:62.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>28 846</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0909 0635 0001</span></p></td><td style="width:127.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span>PARTICIPAÇÃO DA UNIÃO NO</span><span style="-aw-import:spaces">&nbsp; </span><span>CAPITAL-COMERCIALIZADORA BRASILEIRA DE ENERGIA EMERGENCIAL – CBEE – (CREDITO EXTRAORDINARIO) - NACIONAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:148.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:62.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>800.000.000</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:127.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:7.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>F</span></p></td><td style="width:7.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5</span></p></td><td style="width:7.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>P</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>90</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>100</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:62.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>800.000.000</span></p></td></tr></tbody></table>
+RECURSOS DE TODAS AS FONTES AS FONTES – R$ 1,00
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:117pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL – FISCAL</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>8000.000.00</span></p></td></tr><tr><td style="width:117pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>TOTAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGURIDADE</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL – GERAL</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>800.000.000</span></p></td></tr></tbody></table>
+FUNC.
 
-ORGAO : 53000 - MINISTERIO DA INTEGRACAO NACIONAL<br>
+PROGRAMATICA
+
+PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO
+
+E
+
+S
+
+F
+
+G
+
+N
+
+D
+
+R
+
+P
+
+M
+
+O
+
+D
+
+I
+
+U
+
+F
+
+T
+
+E
+
+V
+
+0909 OPERAÇÕES
+
+ESPECIAIS
+
+OUTROS
+
+ENCARGOS
+
+ESPECIAIS
+
+800.000.000
+
+OPERAÇÕES ESPECIAS
+
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> 28 846 </td><td> 0909 0635 </td><td> PARTICIPAÇÃO DA UNIAO NO CAPITAL-COMERCIALIZADORA BRASILEIRA DE ENERGIA EMERGENCIAL – CBEE </td><td> &nbsp; </td><td colspan="5"> &nbsp; </td><td> &nbsp; &nbsp; 800.000.000 </td><td> &nbsp; </td></tr><tr><td> 28 846 </td><td> 0909 0635 0001 </td><td> &nbsp; </td><td> PARTICIPAÇÃO DA UNIÃO NO&nbsp; CAPITAL-COMERCIALIZADORA BRASILEIRA DE ENERGIA EMERGENCIAL – CBEE – (CREDITO EXTRAORDINARIO) - NACIONAL &nbsp; </td><td colspan="5"> &nbsp; </td><td> &nbsp; </td><td> &nbsp; &nbsp; 800.000.000 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> F </td><td> 5 </td><td> P </td><td> 90 </td><td> 100 </td><td> &nbsp; </td><td> 800.000.000 </td></tr></tbody></table>
+
+TOTAL – FISCAL
+
+8000.000.00
+
+TOTAL
+
+SEGURIDADE
+
+0
+
+TOTAL – GERAL
+
+800.000.000
+
+ORGAO : 53000 - MINISTERIO DA INTEGRACAO NACIONAL
+
 UNIDADE : 53101 - MINISTERIO DA INTEGRACAO NACIONAL
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANEXO I</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>CREDITO</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>EXTRAORDINARIO</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>PROGRAMA DE</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRABALHO (SUPLEMENTAÇÃO</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RECURSOS DE TODAS AS</span><span style="-aw-import:spaces">&nbsp; </span><span>FONTES – R$ 1,00</span></p></td></tr></tbody></table>
+ANEXO I
 
-<br>
+CREDITO
+
+EXTRAORDINARIO
+
+PROGRAMA DE
+
+TRABALHO (SUPLEMENTAÇÃO
+
+RECURSOS DE TODAS AS  FONTES – R$ 1,00
+
  
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">FUNC.</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMATICA</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">E</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">S</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">F</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">G</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">N</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">R</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">P</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">M</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">O</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">I</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">U</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">F</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">T</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">E</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em; -aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">VALOR</span></p></td></tr></tbody></table>
+FUNC.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0667 DEFESA CIVIL</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.000.000</span></p></td></tr></tbody></table>
+PROGRAMATICA
 
-<table cellspacing="0" cellpadding="0" style="margin-left:219.75pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ATIVIDADES</span></p></td></tr></tbody></table>
+PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>06 182</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0667 4580</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>AÇÕES EMERGENICIAIS DE DEFESA CIVIL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000.000</span></p></td><td style="width:55.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>06 182</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>00667 4580 0859</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span>AÇÕES EMERGENCIAIS DE DEFESA</span><span style="-aw-import:spaces">&nbsp; </span><span>CIVIL –(CREDITO EXTRAORDINARIO) – NA REGIÃO SUDESTE</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000.000</span></p></td></tr><tr><td style="width:148.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>S</span></p></td><td style="width:7.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>4</span></p></td><td style="width:7.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>P</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>40</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>100</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000.000</span></p></td></tr></tbody></table>
+E
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL – FISCAL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>TOTAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGURIDADE</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.000.000</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL- GERAL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.000.000</span></p></td></tr></tbody></table>
+S
 
-ORGAO : 71000 - ENCARGOS FINANCEIROS DA UNIAO<br>
+F
+
+G
+
+N
+
+D
+
+R
+
+P
+
+M
+
+O
+
+D
+
+I
+
+U
+
+F
+
+T
+
+E
+
+VALOR
+
+0667 DEFESA CIVIL
+
+5.000.000
+
+ATIVIDADES
+
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> 06 182 </td><td> 0667 4580 </td><td> AÇÕES EMERGENICIAIS DE DEFESA CIVIL </td><td> &nbsp; </td><td colspan="5"> &nbsp; </td><td> 5.000.000 </td><td> &nbsp; </td></tr><tr><td> 06 182 </td><td> 00667 4580 0859 </td><td> &nbsp; </td><td> AÇÕES EMERGENCIAIS DE DEFESA&nbsp; CIVIL –(CREDITO EXTRAORDINARIO) – NA REGIÃO SUDESTE &nbsp; </td><td colspan="5"> &nbsp; </td><td> &nbsp; </td><td> &nbsp; &nbsp; 5.000.000 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> S </td><td> 4 </td><td> P </td><td> 40 </td><td> 100 </td><td> &nbsp; </td><td> 5.000.000 </td></tr></tbody></table>
+
+TOTAL – FISCAL
+
+0
+
+TOTAL
+
+SEGURIDADE
+
+5.000.000
+
+TOTAL- GERAL
+
+5.000.000
+
+ORGAO : 71000 - ENCARGOS FINANCEIROS DA UNIAO
+
 UNIDADE : 71101 - RECURSOS SOB SUPERVISAO DO MINISTERIO DA FAZENDA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANEXO I</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>CREDITO</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>EXTRAORDINARIO</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>PROGRAMA DE</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRABALHO (SUPLEMENTAÇÃO</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RECURSOS DE TODAS AS</span><span style="-aw-import:spaces">&nbsp; </span><span>FONTES – R$ 1,00</span></p></td></tr></tbody></table>
+ANEXO I
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">FUNC.</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMATICA</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">E</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">S</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">F</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">G</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">N</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:7.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">R</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">P</span></p></td><td style="width:7.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">M</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">O</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">I</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">U</span></p></td><td style="width:7.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">F</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">T</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">E</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em; -aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">VALOR</span></p></td></tr></tbody></table>
+CREDITO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:12pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-top:12pt; margin-bottom:0pt; text-indent:0pt"><span>0905 OPERAÇÕES ESPECIAIS: SERVIÇO DA DIVIDA INTERNA (JUROS E AMORTIZAÇÕES)</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="BodyText2" style="margin-left:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="BodyText2" style="margin-top:6pt; margin-left:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="BodyText2" style="margin-top:6pt; margin-left:0pt; margin-bottom:12pt"><span style="-aw-import:spaces">&nbsp;</span><span>800.000.000</span></p><p class="Anexo" style="margin-top:12pt; margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+EXTRAORDINARIO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:226.8pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OPERAÇÕES ESPECIAIS</span></p></td></tr></tbody></table>
+PROGRAMA DE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:67.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>28 843</span></p></td><td style="width:74.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0905 0455</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>DIVIDA PUBLICA MOBILIARIA FEDERAL INTERNA</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:218.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>800.000.000</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>28 843</span></p></td><td style="width:74.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0905 0455 0001</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>DIVIDA PUBLICA MOBILIARIA FEDERAL INTERNA</span><span style="-aw-import:spaces">&nbsp; </span><span>NACIONAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:218.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>800.000.000</span></p></td></tr><tr><td style="width:67.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>F</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>6</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>F</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>90</span></p></td><td style="width:126.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>100</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>800.000.000</span></p></td></tr></tbody></table>
+TRABALHO (SUPLEMENTAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL – FISCAL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>TOTAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGURIDADE</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>800.000.000</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL- GERAL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>800.000.000</span></p></td></tr></tbody></table>
+RECURSOS DE TODAS AS  FONTES – R$ 1,00
 
-<br>
+FUNC.
+
+PROGRAMATICA
+
+PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO
+
+E
+
+S
+
+F
+
+G
+
+N
+
+D
+
+R
+
+P
+
+M
+
+O
+
+D
+
+I
+
+U
+
+F
+
+T
+
+E
+
+VALOR
+
+0905 OPERAÇÕES ESPECIAIS: SERVIÇO DA DIVIDA INTERNA (JUROS E AMORTIZAÇÕES)
+
+800.000.000
+
+OPERAÇÕES ESPECIAIS
+
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> 28 843 </td><td> 0905 0455 </td><td> DIVIDA PUBLICA MOBILIARIA FEDERAL INTERNA </td><td> &nbsp; </td><td colspan="5"> &nbsp; </td><td> 800.000.000 </td><td> &nbsp; </td></tr><tr><td> 28 843 </td><td> 0905 0455 0001 </td><td> &nbsp; </td><td> DIVIDA PUBLICA MOBILIARIA FEDERAL INTERNA&nbsp; NACIONAL &nbsp; </td><td colspan="5"> &nbsp; </td><td> &nbsp; </td><td> &nbsp; &nbsp; 800.000.000 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> F </td><td> 6 </td><td> F </td><td> 90 </td><td> 100 </td><td> &nbsp; </td><td> 800.000.000 </td></tr></tbody></table>
+
+TOTAL – FISCAL
+
+0
+
+TOTAL
+
+SEGURIDADE
+
+800.000.000
+
+TOTAL- GERAL
+
+800.000.000
+
  
 
-ORGAO : 90000 - RESERVA DE CONTINGENCIA<br>
-UNIDADE : 90000 - RESERVA DE CONTINGENCIA<br>
+ORGAO : 90000 - RESERVA DE CONTINGENCIA
+
+UNIDADE : 90000 - RESERVA DE CONTINGENCIA
+
  
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ANEXO I I</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>CREDITO</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>EXTRAORDINARIO</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>PROGRAMA DE</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TRABALHO (SUPLEMENTAÇÃO</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>RECURSOS DE TODAS AS</span><span style="-aw-import:spaces">&nbsp; </span><span>FONTES – R$ 1,00</span></p></td></tr></tbody></table>
+ANEXO I I
 
-<br>
+CREDITO
+
+EXTRAORDINARIO
+
+PROGRAMA DE
+
+TRABALHO (SUPLEMENTAÇÃO
+
+RECURSOS DE TODAS AS  FONTES – R$ 1,00
+
  
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:99.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">FUNC.</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMATICA</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO</span></p></td><td style="width:113.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">E</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">S</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">F</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">G</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">N</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">R</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">P</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">M</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">O</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">D</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">I</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">U</span></p></td><td style="width:14.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">F</span></p><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em">T</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">E</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span style="font-size:0.9em; -aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.9em">V</span></p></td></tr></tbody></table>
+FUNC.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0999 RESERVA DE CONTINGENCIA</span></p></td><td style="width:113.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.000.000</span></p></td></tr></tbody></table>
+PROGRAMATICA
 
-<table cellspacing="0" cellpadding="0" style="margin-left:219.75pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>OPERAÇÕES ESPECIAIS</span></p></td></tr></tbody></table>
+PROGRAMA/AÇAO/SUBTÍTULO/PRODUTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:67.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>99 999</span></p></td><td style="width:74.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0999 0998</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>RESERVA DE CONTIGENCIA</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:169.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000.000</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>99 999</span></p></td><td style="width:74.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0999 0998 0105</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span>RESERVA DE CONTINGENCIA - FISCAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td colspan="5" style="width:169.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000.000</span></p></td></tr><tr><td style="width:67.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:120.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:11.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>F</span></p></td><td style="width:11.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>9</span></p></td><td style="width:11.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>F</span></p></td><td style="width:11.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>99</span></p></td><td style="width:95.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>100</span></p></td><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000.000</span></p></td></tr></tbody></table>
+E
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL – FISCAL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>TOTAL</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SEGURIDADE</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.000.000</span></p></td></tr><tr><td style="width:92.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL- GERAL</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5.000.000</span></p></td></tr></tbody></table>
+S
+
+F
+
+G
+
+N
+
+D
+
+R
+
+P
+
+M
+
+O
+
+D
+
+I
+
+U
+
+F
+
+T
+
+E
+
+V
+
+0999 RESERVA DE CONTINGENCIA
+
+5.000.000
+
+OPERAÇÕES ESPECIAIS
+
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> 99 999 </td><td> 0999 0998 </td><td> RESERVA DE CONTIGENCIA </td><td> &nbsp; </td><td colspan="5"> &nbsp; </td><td> 5.000.000 </td><td> &nbsp; </td></tr><tr><td> 99 999 </td><td> 0999 0998 0105 </td><td> &nbsp; </td><td> RESERVA DE CONTINGENCIA - FISCAL &nbsp; </td><td colspan="5"> &nbsp; </td><td> &nbsp; </td><td> &nbsp; &nbsp; 5.000.000 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> F </td><td> 9 </td><td> F </td><td> 99 </td><td> 100 </td><td> &nbsp; </td><td> 5.000.000 </td></tr></tbody></table>
+
+TOTAL – FISCAL
+
+0
+
+TOTAL
+
+SEGURIDADE
+
+5.000.000
+
+TOTAL- GERAL
+
+5.000.000

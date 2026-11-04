@@ -1,5 +1,3 @@
-###DEC-061459-0-000-04-10-1967@@@
-
 DECRETO Nº 61.459, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

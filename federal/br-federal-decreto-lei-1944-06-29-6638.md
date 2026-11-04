@@ -1,5 +1,3 @@
-###DEL-006638-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.638 – DE 29 DE JUNHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.969.182,20, para pagamento de transporte aéreo

@@ -1,5 +1,3 @@
-###DEC-045797-0-000-14-04-1959@@@
-
 Decreto nº 45.797, de 14 de abril de 1959.
 
 Altera a vigência do Decreto número 45.746, de 7 de abril de 1959.

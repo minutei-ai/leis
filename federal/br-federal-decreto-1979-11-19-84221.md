@@ -1,5 +1,3 @@
-###DEC-084221-0-000-19-11-1979@@@
-
 Decreto nº 84.221, de 19 de novembro de 1979.
 
 Dispõe sobre a realização do IX Recenseamento Geral do Brasil.

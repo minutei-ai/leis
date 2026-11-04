@@ -1,5 +1,3 @@
-###DEC-004982-0-000-09-02-2004@@@
-
 DECRETO Nº 4.982,  DE 9 DE FEVEREIRO DE 2004.
 
 Promulga o Protocolo de Olivos para a Solução de Controvérsias no Mercosul.

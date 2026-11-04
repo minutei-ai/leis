@@ -1,5 +1,3 @@
-###DEC-074702-0-000-16-10-1974@@@
-
 DECRETO Nº 74.702, de 16 de outubro de 1974.
 
 Declara de utilidade pública, para efeito de desapropriação, área de terra necessária à construção de prédio para instalação de serviços de depósito de bens da Justiça do Trabalho da 8a Região, na cidade de Manaus, Estado do Amazonas.

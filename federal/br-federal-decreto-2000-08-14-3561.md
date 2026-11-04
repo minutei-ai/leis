@@ -1,5 +1,3 @@
-###DEC-003561-0-000-14-08-2000@@@
-
 DECRETO Nº 3.561, DE 14 DE AGOSTO DE 2000.
 
 Dispõe sobre a execução, no Território Nacional, da Resolução 1298 (2000) do Conselho de Segurança das Nações Unidas, que proíbe a venda, suprimento e transporte de armas para os Governos da Eritréia e Etiópia, bem como a assistência técnica e militar àqueles dois países.

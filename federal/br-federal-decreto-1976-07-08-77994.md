@@ -1,5 +1,3 @@
-###DEC-077994-0-000-08-07-1976@@@
-
 DECRETO Nº 77.994, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Ciências e Letras de Votuporanga, com sede na Cidade de Votuporanga, Estado de São Paulo.

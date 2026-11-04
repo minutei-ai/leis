@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212354)<br>
-
 # LEI N° 18.425, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 1490/2023, dos Deputados Marina Helou - REDE, Paula da Bancada Feminista - PSOL, Beth Sahão - PT, Ediane Maria - PSOL, Ana Carolina Serra - CIDADANIA, Andréa Werner - PSB, Monica Seixas do Movimento Pretas - PSOL, Thainara Faria - PT, Ana Perugini - PT, Professora Bebel - PT, Profª Camila Godoi - PSB, Leci Brandão - PCdoB e Maria Lúcia Amary - PSDB)

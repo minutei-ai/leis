@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=76585)
-
 # LEI COMPLEMENTAR Nº 1.040, DE 26 DE MARÇO DE 2008
 
 ### _Altera o Decreto-lei nº 162, de 18 de novembro de 1969._

@@ -1,5 +1,3 @@
-###DEC-070605-0-000-24-05-1972@@@
-
 DECRETO Nº 70.605, DE 24 DE MAIO DE 1972.
 
 Autoriza Japan External Trade Organization - JETRO a funcionar na República Federativa do Brasil.

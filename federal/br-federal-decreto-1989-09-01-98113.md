@@ -1,7 +1,3 @@
-1
-
-###DEC-098113-0-000-01-09-1989@@@
-
 DECRETO N° 98.113, DE 1° DE SETEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis urbanos, as benfeitorias neles erigidas e os bens móveis, que compõem o complexo hospitalar denominado Hospital Universitário Gama Filho, situado na Capital do Estado do Rio de Janeiro, e dá outras providencias.

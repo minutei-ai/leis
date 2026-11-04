@@ -1,5 +1,3 @@
-###DEC-056755-0-000-19-08-1965@@@
-
 DECRETO Nº 56.755, DE 19 DE AGÔSTO DE 1965.
 
 Dá nova redação ao art. 41 do Regulamento do Banco Nacional de Crédito Cooperativo.

@@ -1,5 +1,3 @@
-###MPV-000564-0-000-03-04-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 564, DE 3 DE ABRIL DE 2012
 
 Altera a Lei nº 11.529, de 22 de outubro de 2007, para incluir no Programa Revitaliza do BNDES os setores que especifica, dispõe sobre financiamento às exportações indiretas, autoriza o Poder Executivo a criar a Agência Brasileira Gestora de Fundos e Garantias S.A. - ABGF, autoriza a União a participar de fundos dedicados a garantir operações de comércio exterior ou projetos de infraestrutura de grande vulto, altera a Lei nº 12.096, de 24 de novembro de 2009, e dá outras providências.

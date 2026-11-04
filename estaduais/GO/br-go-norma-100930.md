@@ -1,4 +1,5 @@
-**LEI Nº 20.726, DE 15 DE JANEIRO DE 2020.<br>
+**LEI Nº 20.726, DE 15 DE JANEIRO DE 2020.
+
 \-**  [Revogada pela Lei nº 24.454, de 13-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116183).
 
 ~~Institui a obrigatoriedade de divulgação das informações referentes às obras públicas paralisadas no âmbito estadual, fazendo constar os motivos, o tempo de interrupção e a nova data prevista para sua retomada por parte dos órgãos públicos responsáveis.~~
@@ -31,10 +32,10 @@
 
 ~~PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 15 de janeiro de 2020, 132o da República.~~
 
-~~RONALDO RAMOS CAIADO<br>
+~~RONALDO RAMOS CAIADO
+
 Governador~~
 
-~~PAULO CEZAR MARTINS<br>
-Deputado Estadual~~
+~~PAULO CEZAR MARTINS
 
-_Este texto não substitui o publicado no D.O. de 16-01-2020._
+Deputado Estadual~~

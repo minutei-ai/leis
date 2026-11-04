@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212390)<br>
-
 # DECRETO N° 70.482, DE 24 DE MARÇO DE 2026
 
 ### _Fixa valor anual máximo para pagamento da Bonificação por Resultados - BR da Secretaria da Segurança Pública relativa ao exercício de 2025._

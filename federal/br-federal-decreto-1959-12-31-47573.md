@@ -1,5 +1,3 @@
-###DEC-047573-0-000-31-12-1959@@@
-
 DECRETO Nº 47.573, DE 31 DE DEZEMBRO DE 1959.
 
 Institui, no Ministério da Agricultura, a Comissão Nacional de Avicultura (C.N.A.).

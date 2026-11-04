@@ -1,5 +1,3 @@
-###MPV-001697-0-058-25-09-1998@@@
-
 MEDIDA pROVISÓRIA Nº 1.697-58, DE 25 DE SEtEMBrO DE 1998
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

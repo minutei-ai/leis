@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209257)<br>
-
 # DECRETO N° 68.417, DE 02 DE ABRIL DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Cinquentenário 7° BPM/M", instituída pela Sociedade Veteranos de 32 MMDC - Núcleo MMDC 7° Batalhão de Polícia Militar Metropolitano, e dá providências correlatas._

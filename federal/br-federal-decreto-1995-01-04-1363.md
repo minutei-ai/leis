@@ -1,7 +1,3 @@
-1
-
-###DEC-001363-0-000-04-01-1995@@@
-
 DECRETO Nº 1.363, DE 4 DE JANEIRO DE 1995
 
 Fixa, no Ministério da Marinha, os mínimos de vagas para promoção obrigatória, referentes ao ano‑base de 1994, nos diversos Corpos e Quadros de Oficiais da Marinha.

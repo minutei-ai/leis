@@ -1,5 +1,3 @@
-###DEC-069670-0-000-03-12-1971@@@
-
 DECRETO Nº 69.670 - DE 3 DE DEZEMBRO DE 1971
 
 Concede à empresa de Desenvolvimento ao Recursos Minerais Condemin S.A. o direito de lavrar minério de niquel, no municipio de niquelândia, Estado de Goiás.

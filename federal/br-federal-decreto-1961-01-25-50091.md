@@ -1,5 +1,3 @@
-###DEC-050091-0-000-25-01-1961@@@
-
 DECRETO Nº 50.091, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Estadual Limitada para estabelecer uma estação de radiotelevisão.

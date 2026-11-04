@@ -1,5 +1,3 @@
-###DEC-089424-0-000-08-03-1984@@@
-
 Decreto nº 89.424, de 08 de março de 1984
 
 Dispõe sobre o montante do Capital Social da FLORESTAS RIO DOCE S.A.

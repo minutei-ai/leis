@@ -1,5 +1,3 @@
-###DEL-003941-0-000-16-12-1941@@@
-
 DECRETO-LEI N. 3.941 – DE 16 DE DEZEMBRO DE 1941
 
 Cria o Serviço Atuarial no Ministério do Trabalho, Indústria e Comércio e dá outras providências

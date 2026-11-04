@@ -1,5 +1,3 @@
-###DEC-071185-0-000-03-10-1972@@@
-
 DECRETO Nº 71.185 - DE 3 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública a Instituição Sinodal de Assistência, Educação e Cultura (ISAEC) com sede em São Leopoldo, Estado do Rio Grande do Sul.

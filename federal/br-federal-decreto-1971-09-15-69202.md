@@ -1,5 +1,3 @@
-###DEC-069202-0-000-15-09-1971@@@
-
 DECRETO Nº 69.202, DE 15 DE SETEMBRO DE 1971.
 
 Declara de utilidade publica, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão Campinas e Cachoeira Paulista, no Estado de São Paulo.

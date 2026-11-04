@@ -1,5 +1,3 @@
-###DEC-046999-0-000-12-10-1959@@@
-
 DECRETO Nº 46.999, DE 12 DE OUTUBRO DE 1959.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Centrais Elétrica do Maranhão S.A. (CEMAR).

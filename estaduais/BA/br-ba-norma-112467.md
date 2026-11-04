@@ -1,13 +1,15 @@
 LEI Nº 11.367 DE 02 DE FEVEREIRO DE 2009
 
-Ver também:<br>
+Ver também:
+
 Lei 14.966 de 08 de setembro de 2025. "Altera a Lei nº 11.367, de 02 de fevereiro de 2009, na forma que indica, e dá outras providências."
 
 Dispõe sobre a criação da carreira de Especialista em Produção de Informações Econômicas, Sociais e Geoambientais, no âmbito da Superintendência de Estudos Econômicos e Sociais da Bahia – SEI, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Fica criado, no quadro de pessoal da Superintendência de Estudos Econômicos e Sociais da Bahia - SEI, a carreira de Especialista em Produção de Informações Econômicas, Sociais e Geoambientais, com jornada de trabalho de 40 (quarenta) horas semanais e com as seguintes atribuições:
@@ -58,7 +60,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 2º** - A carreira será composta pelo quantitativo total de 120 (cento e vinte) cargos, distribuídos entre as 14 (quatorze) classes, sendo a inicial integrada por 30 (trinta) cargos.
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : Art.2º - "A carreira será composta pelo quantitativo total de 120 (cento e vinte) cargos, distribuídos entre as 12 (doze) classes, sendo a inicial integrada por 30 (trinta) cargos. "
 
 **§ 1º -** O ingresso na carreira dar-se-á na Classe 1, mediante concurso público de provas e títulos, observada a titulação e habilitação previstas no Anexo III desta Lei.
@@ -71,7 +74,8 @@ Redação original : Art.2º - "A carreira será composta pelo quantitativo tota
 
 § 4 acrescido pela Lei 14.966 de 08 de setembro de 2025
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO DESENVOLVIMENTO NA CARREIRA
 
 **Art. 3º** - O desenvolvimento na carreira dar-se-á, exclusivamente, por meio de promoção, de uma classe para a imediatamente seguinte, mediante o atendimento aos critérios da avaliação do Desempenho Funcional e do Programa de Formação e Aperfeiçoamento Continuado, conforme dispuser o regulamento.
@@ -80,15 +84,16 @@ DO DESENVOLVIMENTO NA CARREIRA
 
 **§ 2º** - Nos processos de promoção, o quantitativo de cargos a serem providos será definido mediante a aplicação dos percentuais previstos no Anexo II desta Lei sobre o número de cargos ocupados na classe imediatamente anterior à pleiteada, no órgão de lotação.
 
-**§** **3º -** É requisito básico para promoção à classe imediatamente seguinte o interstício mínimo de 24 (vinte e quatro) meses de efetivo exercício das atribuições do cargo na classe, exceto para a promoção à Classe 2, cujo interstício mínimo será de 36 (trinta e seis) meses na Classe 1.
+**§3º -** É requisito básico para promoção à classe imediatamente seguinte o interstício mínimo de 24 (vinte e quatro) meses de efetivo exercício das atribuições do cargo na classe, exceto para a promoção à Classe 2, cujo interstício mínimo será de 36 (trinta e seis) meses na Classe 1.
 
-**§ 4º** **\-** O regulamento estabelecerá a forma e demais critérios de avaliação, bem como os requisitos para participação em processo seletivo para a promoção do servidor.
+**§ 4º\-** O regulamento estabelecerá a forma e demais critérios de avaliação, bem como os requisitos para participação em processo seletivo para a promoção do servidor.
 
-**§ 5º** **\-** Observado o disposto no _caput_ deste artigo e as diretrizes procedentes da Secretaria da Administração, a entidade de lotação do servidor divulgará, anualmente, o número de cargos em cada classe dos cargos efetivos que serão preenchidos mediante promoção.
+**§ 5º\-** Observado o disposto no _caput_ deste artigo e as diretrizes procedentes da Secretaria da Administração, a entidade de lotação do servidor divulgará, anualmente, o número de cargos em cada classe dos cargos efetivos que serão preenchidos mediante promoção.
 
-**§** **6º** - Será instituído pela entidade de lotação do servidor, em conjunto com a Secretaria da Administração, o Programa de Formação e Aperfeiçoamento Continuado para o desenvolvimento da carreira.
+**§6º** - Será instituído pela entidade de lotação do servidor, em conjunto com a Secretaria da Administração, o Programa de Formação e Aperfeiçoamento Continuado para o desenvolvimento da carreira.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS VENCIMENTOS E VANTAGENS
 
 **Art. 4º** - Os vencimentos dos ocupantes do cargo de Especialista em Produção de Informações Econômicas, Sociais e Geoambientais são os constantes do Anexo I desta Lei.
@@ -97,17 +102,20 @@ DOS VENCIMENTOS E VANTAGENS
 
 **I** \-         115% (cento e quinze por cento) para as Classes 1 a 6;
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : I - "100% (cem por cento) para as Classes 1 a 6; "
 
 **II** -       140% (cento e quarenta por cento) para as Classes 7 a 14.
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : II - "125% (cento e vinte e cinco por cento) para as Classes 7 a 12."
 
 **§ 1º -** A gratificação será concedida exclusivamente aos servidores em exercício na SEI e à disposição da Secretaria do Planejamento - SEPLAN e não servirá de base para cálculo de qualquer outra vantagem, integrando a remuneração apenas para os efeitos de cálculo das seguintes parcelas:
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : § 1º "A gratificação será concedida exclusivamente aos servidores em exercício na SEI e será paga conjuntamente com os vencimentos e demais vantagens do cargo e não servirá de base para cálculo de qualquer outra vantagem, integrando a remuneração apenas para os efeitos de cálculo das seguintes parcelas:"
 
 **I -**        remuneração de férias;
@@ -138,21 +146,24 @@ Revogado pela Lei 14.966 de 08 de setembro de 2025
 
 **II -**      exercício de mandato eletivo em diretoria de entidade sindical representativa da categoria dos servidores públicos do Estado;  
 
-**III** **\-**     nas demais hipóteses previstas nos artigos 113 e 118, incisos III, VII e XI, alíneas “a”, “b”, “c” e “e”, da Lei nº 6.677, de 26 de setembro de 1994.
+**III\-**     nas demais hipóteses previstas nos artigos 113 e 118, incisos III, VII e XI, alíneas “a”, “b”, “c” e “e”, da Lei nº 6.677, de 26 de setembro de 1994.
 
 **Art. 6º** - É atribuída aos integrantes da carreira de Especialista em Produção de Informações Econômicas, Sociais e Geoambientais a Gratificação de Incentivo à Pós-Graduação, pela titulação de Especialista, Mestre ou Doutor, na área de atuação e especificidade da função, conforme Anexo III desta Lei, nos seguintes percentuais:
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : Art. 6º - "É atribuída aos integrantes da carreira de Especialista em Produção de Informações Econômicas, Sociais e Geoambientais a Gratificação de Incentivo à Pós-Graduação, pela titulação de Mestre ou Doutor, na área de atuação e especificidade da função, conforme Anexo III desta Lei, nos seguintes percentuais:"
 
 **I** -         15% (quinze por cento) pela apresentação do título de Especialista, devidamente reconhecido pelo Ministério da Educação;
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : I \- "20% (vinte por cento) pela apresentação do título de Mestre, devidamente reconhecido pelo Ministério da Educação;"
 
 **II** -       25% (vinte e cinco por cento) pela apresentação do título de Mestre, devidamente reconhecido pelo Ministério da Educação;
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : II \- "25% (vinte e cinco por cento) pela apresentação do título de Doutor, devidamente reconhecido pelo Ministério da Educação."
 
 **III** - 30% (trinta por cento) pela apresentação do título de Doutor, devidamente reconhecido pelo Ministério da Educação.
@@ -161,17 +172,20 @@ Inciso III acrescido pela Lei 14.966 de 08 de setembro de 2025.
 
 **§ 1º -** É vedada a percepção cumulativa dos percentuais previstos nos incisos I, II e III do _caput_ deste artigo.
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : § 1º \- "É vedada a percepção cumulativa dos percentuais previstos nos incisos I e II do caput deste artigo. "
 
 **§ 2º -** É permitida a revisão dos percentuais previstos neste artigo, desde que apresentado o respectivo título.
 
-Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.<br>
+Redação de acordo com a Lei 14.966 de 08 de setembro de 2025.
+
 Redação original : §2º \- "É permitida a revisão do percentual previsto para o inciso II deste artigo, desde que apresentado o respectivo título."
 
 **§ 3º -** A gratificação somente será paga quando o servidor estiver no desempenho efetivo do cargo.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 7º** - As despesas decorrentes da aplicação desta Lei correrão à conta dos recursos constantes do Orçamento do exercício, ficando o Poder Executivo autorizado a promover as alterações que se fizerem necessárias.
@@ -204,229 +218,67 @@ Secretário da Administração
 
 **VIGÊNCIA 1º DE MAIO DE 2025**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:319.6pt;border-collapse:collapse" width="426"><tbody><tr style="height:27.6pt"><td style="width:159.3pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="212"><p class="MsoNormal" style="margin-left:.5pt;text-align:justify;text-justify:
-  inter-ideograph"><b><span style="color:black">CARGOS</span></b></p></td><td style="width:57.9pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">CLASSE</span></p></td><td style="width:102.4pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="137"><p class="MsoNormal" style="margin-left:.5pt;text-align:justify;text-justify:
-  inter-ideograph;text-indent:2.65pt"><span style="font-size:12.0pt">VENCIMENTO (R$)</span></p></td></tr><tr style="height:27.6pt"><td rowspan="14" style="width:159.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:27.6pt" width="212"><p class="MsoNormal" style="margin-top:0cm;margin-right:.4pt;margin-bottom:
-  0cm;margin-left:1.05pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">Especialista em Produção de Informações Econômicas, Sociais e Geoambientais</span></p></td><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">1</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">2.884,89</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">2</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-left:.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">3.118,32</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">3</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">3.368,48</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">4</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">3.635,30</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">5</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">3.927,12</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">6</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">4.242,27</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">7</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">4.585,80</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">8</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">4.952,66</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">9</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">5.352,86</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">10</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">5.769,77</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">11</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">6.228,33</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:.25pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">12</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">6.720,26</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">13</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">7.257,88</span></p></td></tr><tr style="height:27.6pt"><td style="width:57.9pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.15pt;margin-bottom:
-  0cm;margin-left:3.6pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">14</span></p></td><td style="width:102.4pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:27.6pt" width="137"><p class="MsoNormal" style="margin-top:0cm;margin-right:.2pt;margin-bottom:
-  0cm;margin-left:.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">7.838,51</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **CARGOS** </td><td> CLASSE </td><td> VENCIMENTO (R$) </td></tr><tr><td rowspan="14"> Especialista em Produção de Informações Econômicas, Sociais e Geoambientais </td><td> 1 </td><td> 2.884,89 </td></tr><tr><td> 2 </td><td> 3.118,32 </td></tr><tr><td> 3 </td><td> 3.368,48 </td></tr><tr><td> 4 </td><td> 3.635,30 </td></tr><tr><td> 5 </td><td> 3.927,12 </td></tr><tr><td> 6 </td><td> 4.242,27 </td></tr><tr><td> 7 </td><td> 4.585,80 </td></tr><tr><td> 8 </td><td> 4.952,66 </td></tr><tr><td> 9 </td><td> 5.352,86 </td></tr><tr><td> 10 </td><td> 5.769,77 </td></tr><tr><td> 11 </td><td> 6.228,33 </td></tr><tr><td> 12 </td><td> 6.720,26 </td></tr><tr><td> 13 </td><td> 7.257,88 </td></tr><tr><td> 14 </td><td> 7.838,51 </td></tr></tbody></table>
 
 **ANEXO II(Alterado pela Lei 14.966 de 08 de setembro de 2025)**
 
 **TABELA DE DESENVOLVIMENTO NA CARREIRA**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:269.3pt;border-collapse:collapse" width="359"><tbody><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="MsoNormal" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><b><span style="color:black">Classes</span></b></p></td><td style="width:189.6pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.1pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><b><span style="color:black">Percentual sobre o total de servidores ocupantes da classe anterior</span></b></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">2</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">85%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">3</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">85%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">4</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">85%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">5</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">80%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">6</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">80%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">7</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">80%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">8</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">75%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">9</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">75%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">10</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">75%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">11</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">70%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:.1pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">12</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">70%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.0pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">13</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">70%</span></p></td></tr><tr style="height:41.35pt"><td style="width:79.7pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="106"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.0pt;margin-bottom:
-  0cm;margin-left:3.5pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">14</span></p></td><td style="width:189.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="253"><p class="MsoNormal" style="margin-top:0cm;margin-right:9.25pt;margin-bottom:
-  0cm;margin-left:9.7pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">70%</span></p></td></tr></tbody></table>
+**Classes**
+
+**Percentual sobre o total de servidores ocupantes da classe anterior**
+
+2
+
+85%
+
+3
+
+85%
+
+4
+
+85%
+
+5
+
+80%
+
+6
+
+80%
+
+7
+
+80%
+
+8
+
+75%
+
+9
+
+75%
+
+10
+
+75%
+
+11
+
+70%
+
+12
+
+70%
+
+13
+
+70%
+
+14
+
+70%
 
 (\*) O resultado da aplicação do percentual deve ser arredondado para o número inteiro imediatamente superior.
 
@@ -436,28 +288,22 @@ Secretário da Administração
 
 **ÁREAS DE ATUAÇÃO E FORMAÇÃO DA CARREIRA DE ESPECIALISTA EM PRODUÇÃO DE INFORMAÇÕES ECONÔMICAS, SOCIAIS E GEOAMBIENTAIS**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:451.75pt;border-collapse:collapse;border:none" width="602"><tbody><tr><td style="width:198.0pt;border:solid black 1.0pt;
-  background:#E6E6E6;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="264"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">ÁREAS DE ATUAÇÃO</span></b></p></td><td style="width:253.75pt;border:solid black 1.0pt;
-  border-left:none;background:#E6E6E6;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="338"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">FORMAÇÕES</span></p></td></tr><tr><td style="width:198.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="264"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Estudos e Pesquisas Sócio-econômicas</span></p></td><td style="width:253.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="338"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Demografia; Economia; Sociologia; Arquitetura; Urbanismo; Geografia.</span></p></td></tr><tr><td style="width:198.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="264"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Geoambientais</span></p></td><td style="width:253.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="338"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Biologia; Geologia; Engenharia Sanitária e Ambiental; Geografia; Meteorologia; Engenharia Cartográfica; Engenharia de Agrimensura.</span></p></td></tr><tr><td style="width:198.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="264"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Informações Estatísticas</span></p></td><td style="width:253.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="338"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Economia; Matemática; Estatística.</span></p></td></tr><tr><td style="width:198.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="264"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Documentação e Disseminação de Informações</span></p></td><td style="width:253.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.55pt 0cm 3.55pt" valign="top" width="338"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  6.0pt;margin-left:0cm;text-align:justify;text-justify:inter-ideograph"><span style="color:black">Ciência da Computação; Processamento de dados; Administração; Biblioteconomia; Comunicação Social; Sistemas de Informação.</span></p></td></tr></tbody></table>
+**ÁREAS DE ATUAÇÃO**
+
+FORMAÇÕES
+
+Estudos e Pesquisas Sócio-econômicas
+
+Demografia; Economia; Sociologia; Arquitetura; Urbanismo; Geografia.
+
+Geoambientais
+
+Biologia; Geologia; Engenharia Sanitária e Ambiental; Geografia; Meteorologia; Engenharia Cartográfica; Engenharia de Agrimensura.
+
+Informações Estatísticas
+
+Economia; Matemática; Estatística.
+
+Documentação e Disseminação de Informações
+
+Ciência da Computação; Processamento de dados; Administração; Biblioteconomia; Comunicação Social; Sistemas de Informação.

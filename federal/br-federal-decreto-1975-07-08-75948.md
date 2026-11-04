@@ -1,5 +1,3 @@
-###DEC-075948-0-000-08-07-1975@@@
-
 DECRETO Nº 75.948 - DE 8 DE JULHO DE 1975.
 
 Inclui na classificação de órgãos de deliberação coletiva aprovada pelo Decreto nº 70.103, de 3 de fevereiro de 1972, o Conselho Territorial dos Territórios Federais de Roraima, Rondônia e Amapá.

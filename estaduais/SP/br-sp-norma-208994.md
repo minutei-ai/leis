@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208994)<br>
-
 # LEI N° 17.854, DE 22 DE DEZEMBRO DE 2023
 
 ## (Projeto de lei n° 31/2022, do Deputado Murilo Felix - PODE)

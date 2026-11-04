@@ -1,40 +1,38 @@
-###DEC-038609-0-000-19-01-1956@@@
+**DECRETO Nº 38.609, DE 19 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.609, DE 19 DE JANEIRO DE 1956.</strong>
+***Aprova o Regimento do Gabinete do Ministro da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Gabinete do Ministro da Educação e Cultura.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA</strong><strong>:</strong>
+**Art**. 1º Fica aprovado o Regimento do Gabinete do Ministro da Educação e Cultura, que com êste baixa, assinado pelo titular da referida pasta.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Gabinete do Ministro da Educação e Cultura, que com êste baixa, assinado pelo titular da referida pasta.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 19 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Abgar Renault
 
-<strong>REGIMENTO DO GABINETE DO MINISTÉRIO DA EDUCAÇÃO E CULTURA</strong>
+**REGIMENTO DO GABINETE DO MINISTÉRIO DA EDUCAÇÃO E CULTURA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E CONSTITUIÇÃO</em>
+*DA FINALIDADE E CONSTITUIÇÃO*
 
-<strong>Art</strong>. 1º O Gabinete do Ministro da Educação e Cultura (G) tem por finalidade nos têrmos da Lei nº 378, de 13 de janeiro de 1937, a execução do expediente relacionado de modo direto com o Ministro.
+**Art**. 1º O Gabinete do Ministro da Educação e Cultura (G) tem por finalidade nos têrmos da Lei nº 378, de 13 de janeiro de 1937, a execução do expediente relacionado de modo direto com o Ministro.
 
-<strong>Art</strong>. 2º O G. é constituído de Chefe Subchefe, Secretário Particular Assistentes Técnicos, Oficiais, Auxiliares e servidores públicos federais todos de imediata confiança do Ministro e por êle designados.
+**Art**. 2º O G. é constituído de Chefe Subchefe, Secretário Particular Assistentes Técnicos, Oficiais, Auxiliares e servidores públicos federais todos de imediata confiança do Ministro e por êle designados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3º O G. compreende:
+**Art**. 3º O G. compreende:
 
 I - Setor de Programação de Contrôle (S. P. C.);
 
@@ -48,11 +46,11 @@ V - Portaria (P).
 
 Parágrafo único. A chefia do S. E. A. será exercida pelo Subchefe do Gabinete e os demais órgãos terão a supervisão imediata do Chefe do Gabinete.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 4º Ao S. P. C. compete:
+**Art**. 4º Ao S. P. C. compete:
 
 I - apreciar programas de trabalho anualmente apresentados pelos diretores ou chefes de serviço, e elaborar, subsequentemente, o plano geral de ação do M. E. C., para cada exercício, submetendo-o à aprovação do Ministro;
 
@@ -64,7 +62,7 @@ IV - manter documentação atualizada das atividades do M. E. C. e da sua posiç
 
 V - coligir dados de interêsse para o relatório anual do M. E. C. e colaborar na sua feitura.
 
-<strong>Art</strong>. 5º Ao S. E. A. compete:
+**Art**. 5º Ao S. E. A. compete:
 
 I - elaborar por ordem do Ministro estudos de problemas educacionais e culturais ou de organização administrativa do M. E. C., bem como projetos para sua solução;
 
@@ -82,19 +80,19 @@ VII - manter em dia e em ordem o protocolo e o arquivo do G.;
 
 VIII - executar os serviços datilográfos do G.
 
-<strong>Art</strong>. 6º Ao S. R. compete:
+**Art**. 6º Ao S. R. compete:
 
 I - atender as pessoas que procurarem o Ministro ou o Chefe do Gabinete, e orientá-las ou encaminhá-las a quem de direito, quando não fôr caso de audiência pessoal daquelas autoridades;
 
 II - registrar queixas, reclamações ou sugestões apresentadas ao G. e tomar as providências recomendáveis.
 
-<strong>Art</strong>. 7º Ao S.D. compete:
+**Art**. 7º Ao S.D. compete:
 
 I - redigir o noticiário do G. e providenciar sua publicação mediante autorização prévia do Ministro ou do Chefe do Gabinete;
 
 II - manter ligação com os representantes da imprensa, devidamente acreditados no Ministério.
 
-<strong>Art</strong>. 8º À P. compete:
+**Art**. 8º À P. compete:
 
 I - receber, anunciar e encaminhar as pessoas que tiverem interêsse para tratar no G.;
 
@@ -104,11 +102,11 @@ III - executar serviços de entrega e distribuição de expedientes;
 
 IV - zelar pela manutenção do G. em perfeitas condições de limpeza e ordem, articulando-se, para êsse fim, com o Serviço de Administração da Sede.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 9º Ao Chefe do Gabinete incumbe:
+**Art**. 9º Ao Chefe do Gabinete incumbe:
 
 I - distribuir coordenar e fiscalizar os trabalhos do Gabinete;
 
@@ -138,7 +136,7 @@ XIII - elogiar e aplicar penas disciplinares, até suspensão por 30 dias, aos s
 
 XIV - designar os servidores do G. que devam auxiliá-lo diretamente, no desempenho de suas atribuições.
 
-<strong>Art</strong>. 10. Ao Subchefe do Gabinete incumbe:
+**Art**. 10. Ao Subchefe do Gabinete incumbe:
 
 I - substituir o Chefe do Gabinete, na sua falta ou no seu impedimento eventual;
 
@@ -148,7 +146,7 @@ III - orientar, distribuir, coordenar e fiscalizar os trabalhos do S. E. A., bem
 
 IV - expedir boletins de merecimento dos servidores em exercício no S. E. A..
 
-<strong>Art</strong>. 11. Ao Secretário Particular do Ministro incumbe:
+**Art**. 11. Ao Secretário Particular do Ministro incumbe:
 
 I - preparar a correspondência particular do Ministro;
 
@@ -164,7 +162,7 @@ VI - executar quaisquer outros trabalhos determinados pelo Ministro.
 
 Parágrafo único. O Secretário Particular do Ministro terá a colaboração direta dos servidores do G. que forem designados para êsse fim.
 
-<strong>Art</strong>. 12. Aos Assistentes Técnicos, Oficiais, Auxiliares e demais servidores do Gabinete incumbe a execução dos trabalhos próprios dos setores em que tiverem exercício.
+**Art**. 12. Aos Assistentes Técnicos, Oficiais, Auxiliares e demais servidores do Gabinete incumbe a execução dos trabalhos próprios dos setores em que tiverem exercício.
 
 § 1º Incumbe, ainda, aos oficiais de Gabinete representar o Ministro ou o Chefe do Gabinete, quando por êles designados.
 
@@ -172,12 +170,12 @@ Parágrafo único. O Secretário Particular do Ministro terá a colaboração di
 
 DISPOSIÇÕES GERAIS
 
-<strong>Art</strong>. 13. A função de Subchefe do Gabinete será gratificada e privada de servidor do M.E.C.
+**Art**. 13. A função de Subchefe do Gabinete será gratificada e privada de servidor do M.E.C.
 
-<strong>Art</strong>. 14. Poderão ser designadas pessoas estranhas ao serviço público para as funções de Chefe Oficial e Auxiliar de Gabinete, do Secretário Particular do Ministro e de Assistente Técnico.
+**Art**. 14. Poderão ser designadas pessoas estranhas ao serviço público para as funções de Chefe Oficial e Auxiliar de Gabinete, do Secretário Particular do Ministro e de Assistente Técnico.
 
-<strong>Art</strong>. 15. Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 15. Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 19 de janeiro de 1956.
 
-<strong>ABGAR RENAULT</strong>
+**ABGAR RENAULT**

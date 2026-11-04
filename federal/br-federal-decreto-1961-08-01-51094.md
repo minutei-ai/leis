@@ -1,5 +1,3 @@
-###DEC-051094-0-000-01-08-1961@@@
-
 Decreto nº 51.094, de 1º de agôsto de 1961.
 
 Declara públicas, de uso comum, do domínio da União na parte marítima e do domínio do Estado do ceará no restante do seu curso, as águas do curso denominado Curu.

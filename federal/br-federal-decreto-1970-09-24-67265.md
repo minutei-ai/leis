@@ -1,5 +1,3 @@
-###DEC-067265-0-000-24-09-1970@@@
-
 DECRETO Nº 67.265, DE 24 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto número 40.819, de 23 de janeiro de 1957.

@@ -1,5 +1,3 @@
-###DEL-000381-0-000-26-12-1968@@@
-
 DECRETO-LEI Nº 381, DE 26 DE DEZEMBRO DE 1968
 
 Autoriza o Govêrno do Estado do Amazonas a realizar empréstimo com o aval do Tesouro Nacional.

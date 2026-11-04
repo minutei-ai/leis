@@ -1,5 +1,3 @@
-###DEC-048350-0-000-21-06-1960@@@
-
 DECRETO Nº 48.350, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Silvio Ferreira de Oliveira a pesquisar minério de cromo, no município de Piui, Estado de Minas Gerais.

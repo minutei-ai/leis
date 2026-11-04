@@ -1,5 +1,3 @@
-###DEC-072019-0-000-28-03-1973@@@
-
 DECRETO Nº 72.019, DE 28 DE MARÇO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Ministério da Marinha e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047310-0-000-02-12-1959@@@
-
 DECRETO Nº 47.310, DE 2 DE DEZEMBRO DE 1959.
 
 Concede à Sociedade Paulista de Navegação Matarazzo Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

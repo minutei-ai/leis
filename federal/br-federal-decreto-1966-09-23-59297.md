@@ -1,5 +1,3 @@
-###DEC-059297-0-000-23-09-1966@@@
-
 DECRETO Nº 59.297, DE 23 DE SETEMBRO DE 1966.
 
 Transfere da Prefeitura Municipal de Piedade do Rio Grande, Estado de Minas Gerais, para a Centrais Elétricas de Minas Gerais S.A., a concessão para distribuição de energia elétrica.

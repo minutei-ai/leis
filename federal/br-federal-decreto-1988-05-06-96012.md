@@ -1,5 +1,3 @@
-###DEC-096012-0-000-06-05-1988@@@
-
 DECRETO N° 96.012, DE 06 DE MAIO DE 1988
 
 Altera dispositivos do Decreto n° 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha e dá outras providências.

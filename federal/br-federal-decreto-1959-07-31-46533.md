@@ -1,5 +1,3 @@
-###DEC-046533-0-000-31-07-1959@@@
-
 DECRETO Nº 46.533, DE 31 DE JULHO DE 1959.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$14.000.000,00 destinado à cobertura do déficit da Santa Casa de Misericórdia de Santos, Estado de São Paulo.

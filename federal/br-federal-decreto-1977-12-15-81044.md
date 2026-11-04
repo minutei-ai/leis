@@ -1,5 +1,3 @@
-###DEC-081044-0-000-15-12-1977@@@
-
 Decreto nº 81.044, de 15 de dezembro de 1977.
 
 Concede a Gesner Vasconcelos - Firma Individual, o direito de lavrar calcário dolomítico no Município de Itapetinga, Estado da Bahia.

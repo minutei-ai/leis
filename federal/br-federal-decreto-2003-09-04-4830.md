@@ -1,5 +1,3 @@
-###DEC-004830-0-000-04-09-2003@@@
-
 DECRETO Nº 4.830,  DE 4 DE SETEMBRO DE 2003.
 
 Dá nova redação aos arts. 1o, 2o, 5o, 9o e 10 do Decreto nº 3.201, de 6 de outubro de 1999, que dispõe sobre a concessão, de ofício, de licença compulsória nos casos de emergência nacional e de interesse público de que trata o art. 71 da Lei nº 9.279, de 14 de maio de 1996.      
@@ -40,6 +38,8 @@ Parágrafo único.  Nos casos previstos no caput deste artigo, a União adqui
 
         Brasília, 4 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Humberto Sergio Costa Lima<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Humberto Sergio Costa Lima
+
 Luiz Fernando Furlan

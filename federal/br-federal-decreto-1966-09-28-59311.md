@@ -1,5 +1,3 @@
-###DEC-059311-0-000-28-09-1966@@@
-
 DECRETO Nº 59.311, DE 28 DE SETEMBRO DE 1966.
 
 Aprova o Nôvo Regimento do Gabinete do Ministro da Viação e Obras Públicas e dá outras providências.

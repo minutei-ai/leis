@@ -1,5 +1,3 @@
-###DEC-084068-0-000-09-10-1979@@@
-
 Decreto nº 84.068, de 09 de outubro de 1979.
 
 Revoga o Decreto nº 30.981, de 13 de junho de 1952, que concedeu à empresa PFIZER CORPORATION autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-084504-0-000-25-02-1980@@@
-
 DECRETO Nº 84.504, DE 25 DE FEVEREIRO DE 1980.
 
 Autoriza aumento de potência diurna da Rádio Difusora da Companha Ltda, na cidade de Campanha, Estado de Minas Gerais.

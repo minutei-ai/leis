@@ -1,12 +1,10 @@
-###EMC-000048-0-000-10-08-2005@@@
+**EMENDA CONSTITUCIONAL Nº 48, DE 10 DE AGOSTO DE 2005**
 
-<strong>EMENDA CONSTITUCIONAL Nº 48, DE 10 DE AGOSTO DE 2005</strong>
-
-       <em><strong>Acrescenta o § 3º ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura.</strong></em>
+       ***Acrescenta o § 3º ao art. 215 da Constituição Federal, instituindo o Plano Nacional de Cultura.***
 
 AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-        <strong>Art.</strong> 1º O art. 215 da Constituição Federal passa a vigorar acrescido do seguinte § 3º:
+        **Art.** 1º O art. 215 da Constituição Federal passa a vigorar acrescido do seguinte § 3º:
 
 "Art. 215. .................................................................................
 
@@ -24,60 +22,58 @@ IV - democratização do acesso aos bens de cultura;
 
 V - valorização da diversidade étnica e regional."(NR)
 
-        <strong>Art.</strong> 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+        **Art.** 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
         Brasília, em 10 de agosto de 2005
 
          Mesa da Câmara dos Deputados
 
-<strong>DEPUTADO SEVERINO CAVALCANTI</strong>
+**DEPUTADO SEVERINO CAVALCANTI**
 
 Presidente
 
-<strong>DEPUTADO JOSÉ THOMAZ NONÔ</strong>
+**DEPUTADO JOSÉ THOMAZ NONÔ**
 
 1º Vice-Presidente
 
-<strong>DEPUTADO CIRO NOGUEIRA</strong>
+**DEPUTADO CIRO NOGUEIRA**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO OLIVEIRA**
 
-<em>1º Secretário</em>
+*1º Secretário*
 
-<strong>DEPUTADO NILTON CAPIXABA</strong>
+**DEPUTADO NILTON CAPIXABA**
 
 2º Secretário
 
-<strong>DEPUTADO EDUARDO GOMES</strong>
+**DEPUTADO EDUARDO GOMES**
 
-<em>3º Secretário</em>
+*3º Secretário*
 
-<strong>DEPUTADO JOÃO CALDAS</strong>
+**DEPUTADO JOÃO CALDAS**
 
 4º Secretário
 
 Mesa do Senado Federal
 
-<strong>SENADOR RENAN CALHEIROS</strong>
+**SENADOR RENAN CALHEIROS**
 
 Presidente
 
-<strong>SENADOR TIÃO VIANA</strong>
+**SENADOR TIÃO VIANA**
 
 1º Vice-Presidente
 
-<strong>SENADOR EFRAIM MORAIS</strong>
+**SENADOR EFRAIM MORAIS**
 
 1º Secretário
 
-<strong>SENADOR PAULO OCTÁVIO</strong>
+**SENADOR PAULO OCTÁVIO**
 
 3º Secretário
 
-<strong>SENADOR EDUARDO SIQUEIRACAMPOS</strong>
+**SENADOR EDUARDO SIQUEIRACAMPOS**
 
 4º Secretário
-
-Este texto não substitui o publicado no D.O.U. 11.8.2005

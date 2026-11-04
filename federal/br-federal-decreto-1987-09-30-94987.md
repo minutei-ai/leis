@@ -1,5 +1,3 @@
-###DEC-094987-0-000-30-09-1987@@@
-
 DECRETO Nº 94.987, DE 30 DE SETEMBRO DE 1987
 
 Altera a denominação do Centro de TV do CECOR, integrante da estrutura dos Gabinetes da Presidência da República, e dá outras providências.

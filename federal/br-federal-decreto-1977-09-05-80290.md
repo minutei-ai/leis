@@ -1,5 +1,3 @@
-###DEC-080290-0-000-05-09-1977@@@
-
 DECRETO Nº 80.290, DE 5 DE SETEMBRO DE 1977.
 
 Concede à Itapessoca Agro-Industrial S.A. o direito de lavrar gipsita no Município de Ipubi, Estado de Pernambuco.

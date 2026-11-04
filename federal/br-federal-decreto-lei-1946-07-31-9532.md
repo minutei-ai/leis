@@ -1,5 +1,3 @@
-###DEL-009532-0-000-31-07-1946@@@
-
 DECRETO-LEI N. 9.532 – DE 31 DE JULHO DE 1946
 
 Cria, na Prefeitura do Distrito Federal, a Superintendência do Financiamento Urbanistico e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-083806-0-000-01-08-1979@@@
-
 DECRETO Nº 83.806, DE 01 DE AGOSTO DE 1979.
 
 Concede autorização a Empresa KIBON S/A. (INDÚSTRIAS ALIMENTÍCIAS), com sede no Estado de São Paulo, para o funcionamento aos domingos e feriados civis e religiosos, no seu estabelecimento fabril situado em Baurú, naquele Estado.

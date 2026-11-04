@@ -1,5 +1,3 @@
-###DEL-003339-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.339 – DE 12 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito especial de réis 32:565$0, para pagamento de gratificação

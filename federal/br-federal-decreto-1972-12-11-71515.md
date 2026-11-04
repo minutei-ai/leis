@@ -1,5 +1,3 @@
-###DEC-071515-0-000-11-12-1972@@@
-
 Decreto nº 71.515 - de 11 de dezembro de 1972
 
 Autoriza o funcionamento da Faculdade de Administração da Fundação Armando Álvares Penteado - São Paulo - SP.

@@ -1,5 +1,3 @@
-###DEC-005023-0-000-23-03-2004@@@
-
 DECRETO Nº 5.023,  DE 23 DE MARÇO DE 2004.
 
 Cria a Medalha da Vitória e dá outras providências.

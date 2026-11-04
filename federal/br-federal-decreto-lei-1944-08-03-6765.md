@@ -1,5 +1,3 @@
-###DEL-006765-0-000-03-08-1944@@@
-
 DECRETO-LEI N. 6.765 – DE 3 DE AGÔSTO DE 1944
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Guerra

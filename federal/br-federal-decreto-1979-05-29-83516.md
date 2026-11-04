@@ -1,5 +1,3 @@
-###DEC-083516-0-000-29-05-1979@@@
-
 Decreto nº 83.516, de 29 de maio de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Florianópolis, Estado de Santa Catarina.

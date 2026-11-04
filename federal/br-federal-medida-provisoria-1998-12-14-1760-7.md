@@ -1,5 +1,3 @@
-###MPV-001760-0-007-14-12-1998@@@
-
 medida provisória nº 1.760-7, de 14 DE dezembro de 1998.
 
 Altera as Leis nºs 8.112, de 11 de dezembro de 1990, e 9.649, de 27 de maio de 1998, que dispõem, respectivamente, sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais, e sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

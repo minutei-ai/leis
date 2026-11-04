@@ -1,5 +1,3 @@
-###DEC-094434-0-000-11-06-1987@@@
-
 DECRETO Nº 94.434, DE 11 DE JUNHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Colômbia, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

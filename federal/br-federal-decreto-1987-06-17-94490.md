@@ -1,5 +1,3 @@
-###DEC-094490-0-000-17-06-1987@@@
-
 DECRETO N° 94.490, DE 17 DE JUNHO DE 1987
 
 Renova a concessão outorgada À SOCIEDADE RÁDIO PONTA PORÃ LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Ponta Porã, Estado de Mato Grosso do Sul.

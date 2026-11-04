@@ -1,7 +1,3 @@
-1
-
-###DEL-001617-0-000-03-03-1978@@@
-
 # Decreto-lei nº 1.617, de 3 de março de 1978.
 
 Destina a renda líquida de um dos concursos de prognósticos esportivos ao custeio da realização do Campeonato Brasileiro de Futebol e dá outras providências.

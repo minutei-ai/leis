@@ -1,5 +1,3 @@
-###DEC-005020-0-000-19-03-2004@@@
-
 DECRETO Nº 5.020,  DE 19 DE MARÇO DE 2004.
 
 Promulga o Acordo Constitutivo do Centro Latino-Americano de Administração para o Desenvolvimento (CLAD).

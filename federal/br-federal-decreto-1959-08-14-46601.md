@@ -1,5 +1,3 @@
-###DEC-046601-0-000-14-08-1959@@@
-
 DECRETO Nº 46.601, DE 14 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro Sebastião Teixeira de Sousa a pesquisar mica no município de Água Boa, Estado de Minas Gerais.

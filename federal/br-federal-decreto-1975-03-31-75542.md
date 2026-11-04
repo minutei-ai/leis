@@ -1,5 +1,3 @@
-###DEC-075542-0-000-31-03-1975@@@
-
 DECRETO Nº 75.542, DE 31 DE MARÇO DE 1975.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados em Manaus, Estado do Amazonas.

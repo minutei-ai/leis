@@ -1,7 +1,3 @@
-1
-
-###DEC-001496-0-000-22-05-1995@@@
-
 DECRETO Nº 1.496, DE 22 DE MAIO DE 1995
 
 Dispõe sobre a celebração de convênios para prestação de serviços de assistência social entre a extinta Fundação Legião Brasileira de Assistência LBA e as entidades que menciona.

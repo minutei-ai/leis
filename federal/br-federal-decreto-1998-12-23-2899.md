@@ -1,5 +1,3 @@
-###DEC-002899-0-000-23-12-1998@@@
-
 DECRETO Nº 2.899, DE 23 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.015, de 26 de setembro de 1996.

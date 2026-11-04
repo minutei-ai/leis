@@ -1,7 +1,3 @@
-1
-
-###DEC-099191-0-000-20-03-1990@@@
-
 DECRETO Nº 99.191, DE 20 DE MARCO DE 1990
 
 Dispõe sobre a distribuição de imóveis funcionais.

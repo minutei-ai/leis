@@ -1,5 +1,3 @@
-###DEL-004196-0-000-24-03-1942@@@
-
 DECRETO-LEI N. 4.196 – DE 24 DE MARÇO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 10:373$3, para pagamento de gratificações de magistério.

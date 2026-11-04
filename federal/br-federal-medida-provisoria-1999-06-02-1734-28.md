@@ -1,5 +1,3 @@
-###MPV-001734-0-028-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.734-28, DE 2 DE JUNHO DE 1999.
 
 Estabelece multa em operações de importação e dá outras providências.

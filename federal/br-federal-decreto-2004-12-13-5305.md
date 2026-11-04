@@ -1,5 +1,3 @@
-###DEC-005305-0-000-13-12-2004@@@
-
 DECRETO Nº 5.305 DE 13 DE DEZEMBRO DE 2004
 
 Acresce §6º ao art. 81 do Regulamento aprovado pelo Decreto nº 2.314, de 4 de setembro de 1997, que dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas.

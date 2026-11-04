@@ -238,8 +238,6 @@ X – conforme previsto na legislação do Estado do Pará e Paraíba, quanto ao
 
 Goiânia, 20 de abril de 2021; 133º da República.
 
-<br>
-
  
 
 RONALDO CAIADO

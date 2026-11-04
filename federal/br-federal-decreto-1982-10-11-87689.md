@@ -1,5 +1,3 @@
-###DEC-087689-0-000-11-10-1982@@@
-
 Decreto nº 87.689, de 11 de outubro de 1982
 
 Regulamenta a Lei nº 6.710, de 5 de novembro de 1979, que dispõe sobre a profissão de Técnico em Prótese Dentária, e determina outras providências.

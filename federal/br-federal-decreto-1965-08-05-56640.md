@@ -1,5 +1,3 @@
-###DEC-056640-0-000-05-08-1965@@@
-
 DECRETO Nº 56.640, DE 5 DE AGÔSTO DE 1965.
 
 Transfere da Companhia Estadual de Energia Elétrica do Rio Grande do Sul para a Termoelétrica de Charqueadas S. A. a autorização para montar usina Termoelétrica em Alegrete.

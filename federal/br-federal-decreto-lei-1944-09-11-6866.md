@@ -1,5 +1,3 @@
-###DEL-006866-0-000-11-09-1944@@@
-
 DECRETO-LEI N. 6.866 – DE 11 DE SETEMBRO DE 1944
 
 Autoriza a aquisição de imóvel

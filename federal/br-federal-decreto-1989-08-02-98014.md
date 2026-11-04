@@ -1,7 +1,3 @@
-1
-
-###DEC-098014-0-000-02-08-1989@@@
-
 DECRETO Nº 98.014, DE 2 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados FAZENDAS DO NORTE e CARRAIVAS DO GAVIÃO, classificados como latifúndio por exploração, situados no Município de Nova Venécia, Estado do Espirito Santo, com­preendidos na zona prioritária fixada pelo Decreto nº 92.618, de 2 de maio de 1986, e dá outras providências.

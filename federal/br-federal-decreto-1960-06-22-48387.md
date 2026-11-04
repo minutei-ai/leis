@@ -1,5 +1,3 @@
-###DEC-048387-0-000-22-06-1960@@@
-
 DECRETO Nº 48.387, DE 22 DE JUNHO DE 1960.
 
 Estende ao pessoal do Serviço de Assistência Médica Domiciliar e de Urgência (SAMDU) as vantagens de que trata o Decreto nº 47.433, de 15 de dezembro de 1959.

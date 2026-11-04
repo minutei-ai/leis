@@ -1,5 +1,3 @@
-###DEC-005902-0-000-20-09-2006@@@
-
 DECRETO Nº 5.902, DE 20 DE SETEMBRO DE 2006.
 
 Dispõe sobre a execução do Qüinquagésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 20 de abril de 2006.
@@ -22,11 +20,7 @@ Dispõe sobre a execução do Qüinquagésimo Oitavo Protocolo Adicional ao Acor
 
 LUIZ INÁCIO LULA DA SILVA
 
-           Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 21.9.2006.
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 CELEBRADO
+           Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 CELEBRADO
 
 ENTRE A ARGENTINA, O BRASIL, O PARAGUAI E O URUGUAI
 

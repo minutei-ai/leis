@@ -1,5 +1,3 @@
-###DEC-046176-0-000-09-06-1959@@@
-
 DECRETO Nº 46.176, DE 9 DE JUNHO DE 1959.
 
 Constitui, no Ministério da Educação e Cultura, o Grupo de Estudos da Indústria do Livro e dos Problemas do Escritor.

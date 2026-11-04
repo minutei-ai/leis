@@ -1,5 +1,3 @@
-###DEC-056767-0-000-20-08-1965@@@
-
 DECRETO Nº 56.767, DE 20 DE AGÔSTO DE 1965.
 
 Autoriza a Mineração Caeté S. A. a pesquisa minério de ferro, no município de Caeté, Estado de Minas Gerais.

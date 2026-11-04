@@ -1,5 +1,3 @@
-###DEL-000208-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 208, DE 27 de FEVeREIRO DE 1967
 
 Regulamenta a cobrança do Impôsto de Circulação de Mercadorias sôbre os derivados de petróleo, redistribui o Fundo Rodoviário Nacional e dá outras previdências.
@@ -52,7 +50,25 @@ III - 8% pertencem aos Municípios.
 
 Art. 7º A parcela dos Estados e dos Municípios referente ao Fundo Rodoviário Nacional, será distribuída de acôrdo com o art. 28, parágrafo único, da Constituição do Brasil, na seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:22.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9%</span></p></td><td style="width:381.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>proporcionalmente ao consumo;</span></p></td></tr><tr><td style="width:22.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>29%</span></p></td><td style="width:381.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>proporcionalmente à área;</span></p></td></tr><tr><td style="width:22.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>53%</span></p></td><td style="width:381.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>proporcionalmente à população;</span></p></td></tr><tr><td style="width:22.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5%</span></p></td><td style="width:381.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>proporcionalmente à produção de refinados;</span></p></td></tr><tr><td style="width:22.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4%</span></p></td><td style="width:381.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>proporcionalmente à produção de óleo cru.</span></p></td></tr></tbody></table>
+9%
+
+proporcionalmente ao consumo;
+
+29%
+
+proporcionalmente à área;
+
+53%
+
+proporcionalmente à população;
+
+5%
+
+proporcionalmente à produção de refinados;
+
+4%
+
+proporcionalmente à produção de óleo cru.
 
 Art. 8º Aos Municípios será destinada, em cada Estado, a parcela de vinte por cento do total do Impôsto de Circulação de Mercadorias incidente sôbre combustíveis, a ser distribuída na mesma proporção utilizada pelo Departamento Nacional de Estradas de Rodagem para a distribuição da quota dos Municípios no Fundo Rodoviário Nacional.
 

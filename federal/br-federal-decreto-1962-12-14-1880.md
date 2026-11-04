@@ -1,5 +1,3 @@
-###DEC-001880-0-000-14-12-1962@@@
-
 DECRETO N. 1.880 – DE 14 DE DEZEMBRO DE 1962
 
 Cria o Grupo de Coordenação do Comércio com os Países Socialistas da Europa Oriental – COLESTE, e dá outras providência.

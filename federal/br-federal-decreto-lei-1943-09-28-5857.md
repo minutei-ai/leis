@@ -1,5 +1,3 @@
-###DEL-005857-0-000-28-09-1943@@@
-
 DECRETO-LEI N. 5.857 – DE 28 DE SETEMBRO DE 1943
 
 Altera a redação decreto‑lei n. 925, de 2 de dezembro de 1933

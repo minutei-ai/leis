@@ -24,13 +24,16 @@ Parágrafo único. O PPA 2022/2025 reflete as políticas públicas e organiza a 
 
 Art. 4º - Integram esta Lei os seguintes anexos:
 
-~~I - Anexo~~<br>
+~~I - Anexo~~
+
 (Revogado pela Lei Ordinária nº 3.685, de 9 de novembro de 2022).
 
-~~I – Diagnóstico Socioeconômico;<br>
+~~I – Diagnóstico Socioeconômico;
+
 ~~(Revogado pela Lei Ordinária nº 3.685, de 9 de novembro de 2022).
 
-~~II- Anexo<br>
+~~II- Anexo
+
 ~~(Revogado pela Lei Ordinária nº 3.685, de 9 de novembro de 2022).
 
 II – Planejamento Estratégico (Síntese do Plano Plurianual 2022/2025);
@@ -89,17 +92,20 @@ Art. 12 - O Plano Plurianual 2022-2025 e seus programas e ações serão monitor
 
 Art. 13 - A programação constante desta Lei será financiada pelos recursos do Município, acrescidos de outros oriundos de parcerias com a União, Estados e outros Municípios, entidades da sociedade civil organizada, organismos internacionais e, ainda, pela participação do setor privado.
 
-Art.14 - Esta lei entrará em vigor a partir da data de sua publicação retroagindo seus efeitos a 01 de janeiro de 2022<br>
+Art.14 - Esta lei entrará em vigor a partir da data de sua publicação retroagindo seus efeitos a 01 de janeiro de 2022
+
 (Redação alterada pela Lei Ordinária nº 3.685, de 9 de novembro de 2022).
 
 ~~Art. 14 - Esta Lei entrará em vigor na data de sua aprovação.~~
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 02 de março de 2022.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário
 
 [ANEXO PPA 2022 - 2025](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18775)

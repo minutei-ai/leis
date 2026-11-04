@@ -1,5 +1,3 @@
-###DEC-056827-0-000-02-09-1965@@@
-
 DECRETO Nº 56.827, DE 2 DE SETEMBRO DE 1965.
 
 Altera a lotação nominal e numérica do Departamento de Arrecadação.

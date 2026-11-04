@@ -1,5 +1,3 @@
-###DEC-092018-0-000-29-11-1985@@@
-
 Decreto nº 92.018, de 29 de novembro de 1985.
 
 Autoriza a Petrobrás Comércio Internacional S.A. - INTERBRÁS a promover o aumento do capital social de sua Subsidiária INTERBRÁS CAYMAN COMPANY, com sede em Georgetown, Grand Cayman, Ilhas Cayman.

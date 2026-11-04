@@ -1,5 +1,3 @@
-###DEL-000355-0-000-06-08-1968@@@
-
 DECRETO-Lei Nº 355, DE 6 DE AGÔSTO DE 1968
 
 AItera a redação do artigo 1º do Decreto-lei nº 340, de 22 de dezembro de 1967.

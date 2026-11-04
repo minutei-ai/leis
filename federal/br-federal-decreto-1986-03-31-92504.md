@@ -1,5 +1,3 @@
-###DEC-092504-0-000-31-03-1986@@@
-
 DECRETO Nº 92.504, DE 31 DE MARÇO DE 1986
 
 Regulamenta disposições do Decreto-lei nº 2.284, de 10 de março de 1986, quanto às mensalidades dos estabelecimentos de ensino.
@@ -20,7 +18,33 @@ IV - o valor mensal médio acrescido do percentual já autorizado pelo órgão c
 
 V - o valor de cada uma das mensalidades correspondentes ao período de setembro de 1985 a fevereiro de 1986, obtido de acordo com os itens anteriores, será multiplicado pelos respectivos fatores de atualização constantes da tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Mensalidades</span></p></td><td style="width:210.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fatores de Atualização</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Setembro de 1985</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,8351</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Outubro de 1985</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,6743</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Novembro de </span><span style="font-family:Arial; font-size:0.9em">1985</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:9pt"><span style="font-family:Arial">1,5068</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Dezembro de 1985</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,3292</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Janeiro de 1986</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,1436</span></p></td></tr><tr><td style="width:210.8pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fevereiro de 1986</span></p></td><td style="width:210.8pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1,0000</span></p></td></tr></tbody></table>
+Mensalidades
+
+Fatores de Atualização
+
+Setembro de 1985
+
+1,8351
+
+Outubro de 1985
+
+1,6743
+
+Novembro de 1985
+
+1,5068
+
+Dezembro de 1985
+
+1,3292
+
+Janeiro de 1986
+
+1,1436
+
+Fevereiro de 1986
+
+1,0000
 
 § 1º A soma das mensalidades atualizadas na forma da Tabela acima é convertida à razão de mil cruzeiros por um cruzado.
 

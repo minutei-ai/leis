@@ -1,5 +1,3 @@
-###DEC-046919-0-000-30-09-1959@@@
-
 DECRETO Nº 46.919, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Peres de Moura a pesquisar Barita no município de Formiga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-079329-0-000-02-03-1977@@@
-
 DECRETO Nº 79 329, DE 2 DE MARÇO DE 1977.
 
 Transfere à Federação das Escolas Federais Isoladas do Estado do Rio de Janeiro - FEFIERJ, o curso permanente de Arquivo, do Arquivo Nacional do Ministério da Justiça, com a denominação de Curso de Arquivologia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067563-0-000-12-11-1970@@@
-
 decreto nº 67.563, de 12 de novembro de 1970.
 
 Concede autorização à Federação Nacional dos Trabalhadores nas Indústrias Urbanas para filiar-se à Federação Internacional dos Sindicatos de Trabalhadores nas Indústrias Químicas e Diversas ("ICF" International Federation of Chemical and General Workers'Unions) (FISTIQD).

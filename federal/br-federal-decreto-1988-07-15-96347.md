@@ -1,5 +1,3 @@
-###DEC-096347-0-000-15-07-1988@@@
-
 DECRETO N° 96.347, DE 15 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SÃO FELIZ”, classificado como “latifúndio por exploração”, situado no Município de Andarai, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

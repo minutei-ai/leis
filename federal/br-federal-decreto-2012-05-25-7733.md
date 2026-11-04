@@ -1,5 +1,3 @@
-###DEC-007733-0-000-25-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.733, DE 25 DE MAIO DE 2012
 
 Dispõe sobre a integralização de cotas do Fundo de Garantia de Operações de Crédito Educativo.

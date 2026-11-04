@@ -1,5 +1,3 @@
-###DEC-057473-0-000-20-12-1965@@@
-
 decreto nº 57.473, de 20 de dezembro de 1965.
 
 Inclui um parágrafo ao artigo 2º do Decreto nº 809, de 30 de março de 1962.

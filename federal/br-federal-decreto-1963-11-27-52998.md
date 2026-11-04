@@ -1,5 +1,3 @@
-###DEC-052998-0-000-27-11-1963@@@
-
 DECRETO Nº 52.998, DE 27 de NOVEMBRO DE 1963.
 
 Autoriza a Emprêsa de Caolim Ltda. a pesquisar caulim, no município do Mar da Espanha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-002599-0-000-19-05-1998@@@
-
 DECRETO Nº 2.599, DE 19 DE MAIO DE 1998
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Cultura, e dá outras providências.

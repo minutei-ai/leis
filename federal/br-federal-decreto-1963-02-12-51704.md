@@ -1,5 +1,3 @@
-###DEC-051704-0-000-12-02-1963@@@
-
 Decreto Nº 51.704, DE 12 DE FEVEREIRO DE 1963.
 
 Cria Grupo de Trabalho para estudar a retribuição dos servidores, civis e militares, em missão ou estudo no exterior, a redução do seu número, a reorganização dos serviços a que pertencem, e dá outras providências.

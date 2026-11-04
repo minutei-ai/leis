@@ -1,5 +1,3 @@
-###DEC-002737-0-000-17-08-1998@@@
-
 DECRETO Nº 2.737, DE 17 DE AGOSTO DE 1998
 
 Prorroga o prazo estabelecido no art. 3º do Decreto nº 2.507, de 3 de março de 1998.

@@ -1,5 +1,3 @@
-###DEC-076101-0-000-11-08-1975@@@
-
 Decreto Nº 76.101 - DE 11 DE AGOSTO DE 1975
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

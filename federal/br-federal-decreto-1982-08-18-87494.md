@@ -1,5 +1,3 @@
-###DEC-087494-0-000-18-08-1982@@@
-
 Decreto nº 87.494, de 18 de agosto de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, nos Estados de Minas Gerais e São Paulo.

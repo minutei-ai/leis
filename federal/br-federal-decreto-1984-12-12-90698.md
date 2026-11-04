@@ -1,5 +1,3 @@
-###DEC-090698-0-000-12-12-1984@@@
-
 Decreto nº 90.698, de 12 de dezembro de 1984
 
 Regulamenta a Lei nº 7.231, de 23 de outubro de 1984, quanto ao regime jurídico do pessoal do INCRA.

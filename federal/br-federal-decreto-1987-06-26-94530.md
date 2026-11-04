@@ -1,5 +1,3 @@
-###DEC-094530-0-000-26-06-1987@@@
-
 DECRETO N° 94.530, DE 26 DE JUNHO DE 1987.
 
 Outorga concessão à RÁDIO CIDADE DE SUMÉ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Sumé, Estado da Paraíba.

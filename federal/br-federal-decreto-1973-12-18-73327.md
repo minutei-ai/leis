@@ -1,5 +1,3 @@
-###DEC-073327-0-000-18-12-1973@@@
-
 DECRETO Nº 73.327 - DE 18 DE DEZEMBRO DE 1973
 
 Dispõe sobre a estrutura administrativa do Ministério Público Federal, do Ministério Público da União, e dá outras providências.

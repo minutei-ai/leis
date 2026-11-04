@@ -1,5 +1,3 @@
-###DEC-002985-0-000-10-03-1999@@@
-
 DECRETO Nº 2.985, DE 10 DE MARÇO DE 1999.
 
 Dá nova redação ao art. 4º do Estatuto da Biblioteca Nacional, aprovado pelo Decreto nº 99.603, de 13 de outubro de 1990.

@@ -1,5 +1,3 @@
-###DEC-006148-0-000-06-07-2007@@@
-
 DECRETO Nº 6.148, DE 6 DE JULHO DE 2007.
 
 Altera o Estatuto da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.
@@ -19,5 +17,3 @@ Brasília, 6 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Franklin Martins
-
-Este texto não substitui o publicado no DOU de 9.7.2007

@@ -1,5 +1,3 @@
-###DEC-092202-0-000-24-12-1985@@@
-
 Decreto nº 92.202, de 24 de dezembro 1985
 
 Dá nova redação ao Decreto nº 60.430, de 11 de março de 1967, que regulamenta a Lei nº 5.070, de 7 de julho de 1966, que cria o Fundo de Fiscalização das Telecomunicações.

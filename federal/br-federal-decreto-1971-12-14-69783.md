@@ -1,5 +1,3 @@
-###DEC-069783-0-000-14-12-1971@@@
-
 DECRETO Nº 69.783 - DE 14 DE DEZEMBRO DE 1971
 
 Redistribui, com os respectivos cargos, para o Quadro de Pessoal - Parte Permanente - do Departamento Nacional de Obras Contra as Sêcas - DNOCS - funcionários do ex-Departamento dos Correios e Telégrafos, atual Emprêsa Brasileira de Correios e Telégrafos do Ministério das Comunicações.

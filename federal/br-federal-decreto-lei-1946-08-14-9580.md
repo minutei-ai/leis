@@ -1,5 +1,3 @@
-###DEL-009580-0-000-14-08-1946@@@
-
 DECRETO-LEI N. 9.580 – DE 14 DE AGôSTO DE 1946
 
 Retifica o art. 3º, do Decreto-lei numero 9034, de 6 de Março de 1946

@@ -1,5 +1,3 @@
-###DEC-051512-0-000-25-06-1962@@@
-
 DECRETO Nº 51.512, DE 25 DE JUNHO DE 1962.
 
 Retifica a Tabela Numérica Especial da Mensalista do Ministério da Saúde e dá outras providências.

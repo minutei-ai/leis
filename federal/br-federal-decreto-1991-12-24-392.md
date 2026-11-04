@@ -1,7 +1,3 @@
-1
-
-###DEC-000392-0-000-24-12-1991@@@
-
 DECRETO Nº 392, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Iindígena Wassu-Cocal no Estado de Alagoas.

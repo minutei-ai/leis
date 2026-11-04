@@ -1,5 +1,3 @@
-###DEC-045370-0-000-02-02-1959@@@
-
 Decreto nº 45.370, de 2 de fevereiro de 1959.
 
 Declara de utilidade pública, para fins de desapropriação, faixa de terreno e benfeitorias necessárias à construção da ligação ferroviária Bananeiras-Picuí, situadas entre Bananeiras e Barra de Santa Rosa.

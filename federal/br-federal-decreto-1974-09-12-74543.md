@@ -1,5 +1,3 @@
-###DEC-074543-0-000-12-09-1974@@@
-
 DECRETO Nº 74.543, DE 12 DE SETEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra, no Estado da Guanabara.

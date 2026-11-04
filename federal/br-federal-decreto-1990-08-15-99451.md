@@ -1,7 +1,3 @@
-1
-
-###DEC-099451-0-000-15-08-1990@@@
-
 DECRETO N° 99.451, DE 15 DE AGOSTO DE 1990
 
 Dispõe sobre a destinação das atribuições e do acervo técnico‑patrimonial do Departamento Nacional de Obras e Saneamento (DNOS), em extinção, e dá outras providências.

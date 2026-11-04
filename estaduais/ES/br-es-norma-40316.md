@@ -123,5 +123,3 @@ Parágrafo único. Quando houver déficit atuarial, a contribuição dos aposent
 ERICK MUSSO
 
 Presidente
-
-Este texto não substitui o publicado no D.O. de 27.11.2019.

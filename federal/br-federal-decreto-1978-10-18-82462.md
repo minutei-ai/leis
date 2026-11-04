@@ -1,5 +1,3 @@
-###DEC-082462-0-000-18-10-1978@@@
-
 Decreto nº 82.462, de 18 de outubro de 1978.
 
 Autoriza o funcionamento dos cursos de Administração, Ciências Contábeis e Ciências Econômicas, ministrados pela Faculdade de Ciências Administrativas, Econômicas e Contáveis do Vale do Itajai, com sede na cidade de Itajai, Estado de Santa Catarina.

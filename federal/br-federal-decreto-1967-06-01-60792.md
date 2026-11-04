@@ -1,5 +1,3 @@
-###DEC-060792-0-000-01-06-1967@@@
-
 DECRETO Nº 60.792, DE 1 DE JUNHO DE 1967.
 
 Dispõe sôbre mão-de-obra ociosa, institui um sistema para administrá-la e dá outras providências.

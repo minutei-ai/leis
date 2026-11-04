@@ -1,5 +1,3 @@
-###DEC-062001-0-000-28-12-1967@@@
-
 DECRETO Nº 62.001, DE 28 DE DEZEMBRO DE 1967.
 
 Outorga à Fabrica de Papel Primo Tedesco S.A., concessão para o aproveitamento hidráulico de um trecho do rio do Peixe, no município de Rio das Antas, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183084)
-
 # DECRETO Nº 62.820, DE 04 DE SETEMBRO DE 2017
 
 ### _Dispõe sobre a oficialização da "Ordem do Mérito MMDC do Tribunal de Justiça Militar do Estado de São Paulo - Juiz Coronel Romão Gomes"_
@@ -16,14 +14,20 @@ Palácio dos Bandeirantes, 4 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 4 de setembro de 2017.
 
-#### <br>
-Regulamento da “Ordem do Mérito MMDC do Tribunal de Justiça Militar do Estado de São Paulo - Juiz Coronel Romão Gomes”<br>
+####
+
+Regulamento da “Ordem do Mérito MMDC do Tribunal de Justiça Militar do Estado de São Paulo - Juiz Coronel Romão Gomes”
+
 a que se refere o artigo 1º do [Decreto nº 62.820, de 4 de setembro de 2017](http://www.al.sp.gov.br/norma?id=183084)
 
 Artigo 1º - A “Ordem do Mérito MMDC do Tribunal de Justiça Militar do Estado de São Paulo - Juiz Coronel Romão Gomes”, é instituída por este Tribunal, com o escopo de galardoar as personalidades civis e militares, instituições públicas e privadas, nacionais e estrangeiras, que por seus méritos e relevantes serviços prestados à justiça e a história, hajam por merecer especial distinção, bem como aqueles que tenham contribuído de algum modo, para o engrandecimento do Judiciário elevando o nome de São Paulo e do Brasil.

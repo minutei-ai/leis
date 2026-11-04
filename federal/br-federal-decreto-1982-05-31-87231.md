@@ -1,5 +1,3 @@
-###DEC-087231-0-000-31-05-1982@@@
-
 Decreto Nº 87.231, de 31 de maio de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Data São João"', situado no Município de Governador Eugênio Barros, no Estado do Maranhão, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 77.073, de 22 de janeiro de 1976, alterado pelos Decretos nºs 78.250, de 16 de agosto de 1976, e 85.307, de 30 de outubro de 1980.

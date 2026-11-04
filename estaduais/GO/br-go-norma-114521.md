@@ -18,28 +18,31 @@ QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| 1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO<br>
+| 1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+
 1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO |
 | ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO ORÇAMENTÁRIO | VALOR A SUPLEMENTAR | SALDO ATUALIZADO |
 | MELHORIA DE METODOLOGIAS E PROCESSOS DE GESTÃO DE PESSOAS | 04 122 1025 2437 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 0,00 | R$ 6.000.000,00 | R$ 6.000.000,00 |
 
-<table align="center" class="Table" style="border-collapse:collapse" width="680"><tbody><tr><td colspan="2" style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 6.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 6.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">**TOTAL A SUPLEMENTAR POR FONTE**</td></tr><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td>R$ 6.000.000,00</td></tr><tr><td>**TOTAL A SUPLEMENTAR**</td><td>R$ 6.000.000,00</td></tr></tbody></table>
 
 QUADRO 2
 
 | REDUÇÃO |
 | --- |
-| 1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO<br>
+| 1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+
 1802 - ENCARGOS GERAIS DO ESTADO |
 | ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO A PROGRAMAR | VALOR BLOQUEADO | VALOR A REDUZIR |
 | SUBVENÇÕES ECONÔMICAS À S EMPRESAS EM LIQUIDAÇÃO | 04 122 0100 7106 | 15000100 | 90 | 5 - INVERSÕES FINANCEIRAS | R$ 19.850.993,71 | R$ 5.000.000,00 | R$ 5.000.000,00 |
 
-| 1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO<br>
+| 1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+
 1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO |
 | --- |
 | ESPECIFICAÇÃO | AÇÃO | FONTE | MODALIDADE | GRUPO | SALDO A PROGRAMAR | VALOR BLOQUEADO | VALOR A REDUZIR |
 | MELHORIA DE METODOLOGIAS E PROCESSOS DE GESTÃO DE PESSOAS | 04 122 1025 2437 | 15000100 | 90 | 3 - OUTRAS DESPESAS CORRENTES | R$ 2.640.014,93 | R$ 1.000.000,00 | R$ 1.000.000,00 |
 
-<table align="center" class="Table" style="border-collapse:collapse" width="680"><tbody><tr><td colspan="2" style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 6.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 6.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III**</td></tr><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td>R$ 6.000.000,00</td></tr><tr><td>**TOTAL**</td><td>R$ 6.000.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="680"><tbody><tr><td colspan="2" style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 6.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 6.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2">**TOTAL POR FONTE**</td></tr><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td>R$ 6.000.000,00</td></tr><tr><td>**TOTAL**</td><td>R$ 6.000.000,00</td></tr></tbody></table>

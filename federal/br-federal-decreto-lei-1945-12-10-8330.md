@@ -1,5 +1,3 @@
-###DEL-008330-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.330 – DE 10 DE DEZEMBRO DE 1945
 
 Dá nova denominação ao 1º Batalhão de Infantaria Motorizado

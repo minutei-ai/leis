@@ -1,5 +1,3 @@
-###DEL-003241-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.241 – DE 8 DE MAIO DE 1941
 
 Dá nova redação ao artigo 11 do regulamento dos Institutos e Caixas de Aposentadoria e Pensões

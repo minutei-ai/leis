@@ -1,5 +1,3 @@
-###DEC-056248-0-000-05-05-1965@@@
-
 DECRETO Nº 56.248, DE 5 DE MAIO DE 1965.
 
 Retifica o enquadramento do Ministério da Educação e Cultura, aprovado pelo Decreto nº 52.794, de 31 de outubro de 1963.

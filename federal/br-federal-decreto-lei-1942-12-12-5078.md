@@ -1,5 +1,3 @@
-###DEL-005078-0-000-12-12-1942@@@
-
 DECRETO-LEI N. 5.078 – DE 12 DE DEZEMBRO DE 1942
 
 Abre, pelo Ministério da Justiça e negócios Interiores, o crédito suplementar de Cr$ 30.000,00, à verba que especifica

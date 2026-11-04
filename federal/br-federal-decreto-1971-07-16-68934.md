@@ -1,5 +1,3 @@
-###DEC-068934-0-000-16-07-1971@@@
-
 DECRETO Nº 68.934, DE 16 DE JULHO DE 1971.
 
 Concede à Emprêsa de Mineração Afrodísio Witzel o direito de lavrar argila, areia quartzosa e cascalho, no município de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-095949-0-000-22-04-1988@@@
-
 DECRETO N.° 95.949, DE 22 DE ABRIL DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado “LOTE N° 142, DO LOTEAMENTO ITAIPAVAS”, classificado como “latifúndio por exploração”, situado nos Municípios de Xinguara e Rio Maria, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

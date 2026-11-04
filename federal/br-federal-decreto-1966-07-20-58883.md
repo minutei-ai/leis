@@ -1,5 +1,3 @@
-###DEC-058883-0-000-20-07-1966@@@
-
 DECRETO Nº 58.883, DE 20 DE JULHO DE 1966.
 
 Presidência da República. Abertura do crédito extraordinário de Cr$6.300.000.000, para ser aplicado pela SUDENE, através do Gabinete do Ministro Extraordinário para a Coordenação dos Organismos Regionais, destinado a atender aos prejuízos causados pelas chuvas torrenciais ocorridas nos Estados de Pernambuco, Bahia, Sergipe e Alagoas.

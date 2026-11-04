@@ -1,5 +1,3 @@
-###DEC-082627-0-000-13-11-1978@@@
-
 Decreto nº 82.627, de 13 de novembro de 1978.
 
 Autoriza a transferência direta para a Rádio e Televisão Universitária Metropolitana Ltda. da concessão outorgada à Rádio Independência de Brasília Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Brasília, Distrito Federal.

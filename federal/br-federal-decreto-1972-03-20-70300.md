@@ -1,5 +1,3 @@
-###DEC-070300-0-000-20-03-1972@@@
-
 DECRETO Nº 70.300, DE 20 DE MARÇO DE 1972.
 
 Redistribui cargo, com a respectiva ocupante, para o Instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

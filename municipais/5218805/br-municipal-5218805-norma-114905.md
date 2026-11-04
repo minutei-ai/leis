@@ -30,26 +30,90 @@ I - quota de 9,00m2 (nove metros quadrados) por unidade de moradia, exceto nos c
 
 ...................................................................................................”
 
-<br>
-“**TABELA I<br>
+“**TABELA I
+
 OCUPAÇÃO**
 
-<table style="width: 500px;"><tbody><tr><td><strong>Zona</strong> &nbsp; &nbsp; <strong>..........</strong></td><td><strong>Área mínima do lote</strong> <strong>..........</strong></td><td><strong>Dimensão mínima de Testad</strong> <strong>..........</strong></td><td><strong>Taxa de Ocupação</strong> &nbsp; <strong>..........</strong></td><td><strong>Aproveit. Básico não oneroso</strong> <strong>..........</strong></td><td><strong>Outorga Onerosa</strong> <strong><sup>(9)</sup></strong> <strong>..........</strong></td><td><strong>Índice de Permeab. (mínimo)</strong> <strong>..........</strong></td><td><strong>Afastam. Frontal</strong> &nbsp; <strong>..........</strong></td><td><strong>Afastam. lateral / fundos</strong> <strong>..........</strong></td></tr><tr><td style="text-align: center;"><strong>ZEIS</strong></td><td style="text-align: center;"><strong>125,00</strong></td><td style="text-align: center;"><strong>6,00</strong></td><td style="text-align: center;"><strong>70%</strong></td><td><strong>1<sup>(4)</sup></strong> <strong>3<sup>(4) (17)</sup></strong></td><td style="text-align: center;"><strong>---</strong></td><td style="text-align: center;"><strong>20%<b>(2)</b></strong></td><td style="text-align: center;"><strong>3m</strong></td><td style="text-align: center;"><strong>1,00m/1,50m</strong></td></tr></tbody></table>
+**Zona..........**
+
+**Área mínima do lote..........**
+
+**Dimensão mínima de Testad..........**
+
+**Taxa de Ocupação..........**
+
+**Aproveit. Básico não oneroso..........**
+
+**Outorga Onerosa<sup>(9)</sup>..........**
+
+**Índice de Permeab. (mínimo)..........**
+
+**Afastam. Frontal..........**
+
+**Afastam. lateral / fundos..........**
+
+**ZEIS**
+
+**125,00**
+
+**6,00**
+
+**70%**
+
+**1<sup>(4)</sup>3<sup>(4) (17)</sup>**
+
+**---**
+
+**20%**(2)
+
+**3m**
+
+**1,00m/1,50m**
 
 Observações:
 
 ...................................................................................................
 
-(17) Aproveitamento básico não oneroso a ser observado em habitações familiares coletivas.”<br>
+(17) Aproveitamento básico não oneroso a ser observado em habitações familiares coletivas.”
+
  
 
-“**TABELA II<br>
+“**TABELA II
+
 USO**
 
-...................................................................................................<br>
+...................................................................................................
+
  
 
-<table style="width: 500px;"><tbody><tr><td style="text-align: center;"><strong>Zona</strong></td><td style="text-align: center;"><strong>Usos Permitidos</strong></td><td style="text-align: center;"><strong>Usos Permissíveis</strong></td><td style="text-align: center;"><strong>Usos Proibidos</strong></td></tr><tr><td style="text-align: center;"><strong>Zona Especial de Interesse Social</strong></td><td style="text-align: center;"><strong>Habitações unifamiliar e&nbsp;coletiva</strong></td><td><strong>1 - COMÉRCIO E SERVIÇO VICINAL&nbsp;<br>(4) </strong>&nbsp; <strong>1.1 - COMÉRCIO VICINAL<br>Atividade comercial varejista de pequeno porte, disseminada na zona, de utilização imediata e cotidiana, entendida como um prolongamento do uso residencial, subclassificando-se em: </strong>&nbsp; <strong>1.1.1 - COMÉRCIO VICINAL&nbsp;<br>- Açougue<br>- Armarinhos<br>- Mercearia, Hortifrutigranjeiros<br>- Papelaria, Revistaria<br>- Padaria </strong>&nbsp; <strong>1.2 - SERVIÇO VICINAL<br>Atividades profissionais e serviços pessoais de pequeno porte não incômodas ao uso residencial, subclassificando-se em:</strong> &nbsp;<br><strong>1.2.1 - SERVIÇO VICINAL&nbsp;<br>- Profissionais Autônomos<br>- Atelier de Profissionais Autônomos, Salão de beleza,<br>Manicure e Montagem de<br>Bijuterias.</strong></td><td style="text-align: center;"><strong>Demais</strong></td></tr></tbody></table>
+**Zona**
+
+**Usos Permitidos**
+
+**Usos Permissíveis**
+
+**Usos Proibidos**
+
+**Zona Especial de Interesse Social**
+
+**Habitações unifamiliar e coletiva**
+
+**1 - COMÉRCIO E SERVIÇO VICINAL
+(4) 1.1 - COMÉRCIO VICINAL
+Atividade comercial varejista de pequeno porte, disseminada na zona, de utilização imediata e cotidiana, entendida como um prolongamento do uso residencial, subclassificando-se em: 1.1.1 - COMÉRCIO VICINAL
+- Açougue
+- Armarinhos
+- Mercearia, Hortifrutigranjeiros
+- Papelaria, Revistaria
+- Padaria 1.2 - SERVIÇO VICINAL
+Atividades profissionais e serviços pessoais de pequeno porte não incômodas ao uso residencial, subclassificando-se em:**
+**1.2.1 - SERVIÇO VICINAL
+- Profissionais Autônomos
+- Atelier de Profissionais Autônomos, Salão de beleza,
+Manicure e Montagem de
+Bijuterias.**
+
+**Demais**
 
 Observações
 

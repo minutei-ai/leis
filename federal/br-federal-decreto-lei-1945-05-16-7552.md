@@ -1,5 +1,3 @@
-###DEL-007552-0-000-16-05-1945@@@
-
 DECRETO-LEI N. 7.552 – DE 16 DE MAIO DE 1945
 
 Cria uma Junta de Conciliação e Julgamento em São Jerônimo, Estado do Rio Grande do Sul e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-005427-0-000-27-04-1943@@@
-
 DECRETO‑LEI N. 5.427 – DE 27 DE ABRIL DE 1943
 
 Dispõe sobre a aposentadoria de Manuel Francisco Freire

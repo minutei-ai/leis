@@ -1,5 +1,3 @@
-###DEC-073845-0-000-14-03-1974@@@
-
 DECRETO Nº 73.845, DE 14 DE MARÇO DE 1974.
 
 Dispõe sobre o serviço das Agências de Viagens e Transportadoras Turísticas, e dá outras providências.

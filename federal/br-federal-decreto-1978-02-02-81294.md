@@ -1,5 +1,3 @@
-###DEC-081294-0-000-02-02-1978@@@
-
 Decreto nº 81 294, de 2 de fevereiro de 1978.
 
 Declara a caducidade do manifesto de Mina que menciona.

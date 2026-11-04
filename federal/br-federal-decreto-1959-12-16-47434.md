@@ -1,5 +1,3 @@
-###DEC-047434-0-000-16-12-1959@@@
-
 DECRETO Nº 47.434, DE 16 DE Dezembro DE 1959.
 
 Inclui funções gratificadas no Ministério do Trabalho, Industria e Comercio, e dá outras providencias.

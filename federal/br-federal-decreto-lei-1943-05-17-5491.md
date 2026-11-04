@@ -1,5 +1,3 @@
-###DEL-005491-0-000-17-05-1943@@@
-
 DECRETO–LEI N. 5.491 – DE 17 DE MAIO DE 1943
 
 Cria o 7º Grupo Moto‑Mecanizado de Reconhecimento, com sede em Recife

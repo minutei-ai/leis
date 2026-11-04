@@ -32,23 +32,4 @@ Manoel Vitório da Silva Filho
 
 Secretário da Administração
 
-<table class="border=1" cellspacing="0" cellpadding="0" width="321" style="width:240.95pt;border-collapse:collapse;border:none"><tbody><tr style="height:1.0cm"><td width="321" colspan="2" style="width:240.95pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">ANEXO ÚNICO</p><p class="Tabela-Texto">GRUPO OCUPACIONAL TÉCNICO-JURÍDICO</p><p class="Tabela-Texto">DEFENSOR PÚBLICO</p><p class="Tabela-Texto">TABELA DE VENCIMENTOS</p></td></tr><tr style="height:1.0cm"><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">Classe</p></td><td width="174" style="width:130.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">Vencimento</p><p class="Tabela-Texto">(R$)</p></td></tr><tr style="height:1.0cm"><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">1ª</p></td><td width="174" style="width:130.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">4.762,37</p></td></tr><tr style="height:1.0cm"><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">2ª</p></td><td width="174" style="width:130.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">5.291,55</p></td></tr><tr style="height:1.0cm"><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">3ª</p></td><td width="174" style="width:130.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">5.879,51</p></td></tr><tr style="height:1.0cm"><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">Especial</p></td><td width="174" style="width:130.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">6.532,78</p></td></tr><tr style="height:1.0cm"><td width="148" style="width:110.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">Instância Superior</p></td><td width="174" style="width:130.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm"><p class="Tabela-Texto">7.258,65</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> ANEXO ÚNICO GRUPO OCUPACIONAL TÉCNICO-JURÍDICO DEFENSOR PÚBLICO TABELA DE VENCIMENTOS </td></tr><tr><td> Classe </td><td> Vencimento (R$) </td></tr><tr><td> 1ª </td><td> 4.762,37 </td></tr><tr><td> 2ª </td><td> 5.291,55 </td></tr><tr><td> 3ª </td><td> 5.879,51 </td></tr><tr><td> Especial </td><td> 6.532,78 </td></tr><tr><td> Instância Superior </td><td> 7.258,65 </td></tr></tbody></table>

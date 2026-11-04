@@ -51,7 +51,3 @@ O 2º-Secretário Elmo Braz
 O 3º-Secretário - Luiz Junqueira
 
 O 4º-Secretário - Delfim Ribeiro
-
-\================================================================
-
-Data da última atualização: 23/09/2005.

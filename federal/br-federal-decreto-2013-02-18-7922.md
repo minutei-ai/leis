@@ -1,5 +1,3 @@
-###DEC-007922-0-000-18-02-2013-PUB-01@@@
-
 DECRETO N° 7.922, DE 18 DE FEVEREIRO DE 2013
 
 Regulamenta as Gratificações de Qualificação - GQ, instituídas pelas Leis n° 9.657 de 3 de junho de 1998, n° 10.871, de 20 de maio de 2004, n° 11.046, de 27 de dezembro de 2004, n° 11.171, de 2 de setembro de 2005, n° 11.355, de 19 de outubro de 2006, n° 11.356, de 19 de outubro de 2006, n° 11.357, de 19 de outubro de 2006, n° 11.539, de 8 de novembro de 2007, e n° 11.907, de 2 de fevereiro de 2009, e dá outras providências.

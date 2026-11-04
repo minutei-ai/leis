@@ -1,5 +1,3 @@
-###DEC-061591-0-000-23-10-1967@@@
-
 Decreto nº 61.591, de 23 de outubro de 1967.
 
 Altera a alínea “b” do art. 2º e o art. 3º do Decreto nº 60.697, de 8 de maio de 1967.

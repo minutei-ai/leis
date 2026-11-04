@@ -1,5 +1,3 @@
-###DEC-076443-0-000-15-10-1975@@@
-
 DECRETO Nº 76.443, DE 15 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de linhas de transmissão da Companhia Força e Luz Cataguazes - Leopoldina, no Estado de Minas Gerais.

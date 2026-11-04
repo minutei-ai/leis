@@ -1,5 +1,3 @@
-###DEC-050878-0-000-29-06-1961@@@
-
 DECRETO Nº 50.878, DE 29 DE JUNHO DE 1961.
 
 Isenta o Ministério da Saúde do pagamento de emolumentos consulares, licença de importação, pedágios, taxas portuárias, alfandegárias e outras despesas que recaiam sôbre mercadorias e equipamentos, importados ou doados, mediante acôrdo firmado com a Organização Mundial de Saúde (OMS), a Organização Panamericana de Saúde (OPAS), o Fundo Internacional de Socôrro à Infância (FISI) e a Administração de Cooperação Internacional (Ponto IV).

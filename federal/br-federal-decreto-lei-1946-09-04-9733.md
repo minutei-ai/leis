@@ -1,5 +1,3 @@
-###DEL-009733-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.733 – DE 4 DE SETEMBRO DE 1946
 
 sôbre o Curso de Aperfeiçoamento de Diplomata, do lnstituto Rio-Branco

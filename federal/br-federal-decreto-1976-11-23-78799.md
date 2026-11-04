@@ -1,5 +1,3 @@
-###DEC-078799-0-000-23-11-1976@@@
-
 DECRETO Nº 78.799, DE 23 DE NOVEMBRO DE 1976.
 
 Torna sem efeito o Decreto nº 78.666, de 4 de novembro de 1976 que concedeu reconhecimento ao curso de Administração, ministrado no Centro de Ciências Econômicas da Fundação Educacional Encosta Inferior do Nordeste, com sede na cidade de Taquara, Estado do Rio Grande do Sul.

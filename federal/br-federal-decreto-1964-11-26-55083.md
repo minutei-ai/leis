@@ -1,5 +1,3 @@
-###DEC-055083-0-000-26-11-1964@@@
-
 DECRETO Nº 55.083, DE 26 DE NOVEMBRO DE 1964.
 
 Autoriza a cessão gratuita à Prefeitura Municipal de Urussanga, do imóvel que menciona, situado no Estado de Santa Catarina.

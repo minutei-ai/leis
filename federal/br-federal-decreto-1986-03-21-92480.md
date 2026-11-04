@@ -1,5 +1,3 @@
-###DEC-092480-0-000-21-03-1986@@@
-
 DECRETO Nº 92.480, DE 21 DE MARÇO DE 1986
 
 Revoga a concessão outorgada à RÁDIO DIFUSORA BRASILEIRA LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Uberlândia, Estado de Minas Gerais.

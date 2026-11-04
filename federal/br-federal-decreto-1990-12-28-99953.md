@@ -1,7 +1,3 @@
-1
-
-###DEC-099953-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.953, DE 28 DE DEZEMBRO DE 1990
 
 Dispõe sobre a organização e o funcionamento do Conselho Nacional de Ciência e Tecnologia da Secretaria da Ciência e Tecnologia da Presidência da República e dá outras providencias.

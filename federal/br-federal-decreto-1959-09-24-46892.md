@@ -1,5 +1,3 @@
-###DEC-046892-0-000-24-09-1959@@@
-
 decreto nº 46.892, de 24 de setembro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno e prédios que menciona, situados no Município de Frutal, Estado de Minas Gerais.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 24 de setembro de 1959; 138º da Independência e 71º da Rep
 Juscelino kubitschek
 
 Maurício Chagas Bicalho
-
-###DEC-046892-0-000-24-09-1959@@@RET01+++
 
 decreto nº 46.892, de 24 de setembro de 1959.
 

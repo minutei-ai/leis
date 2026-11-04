@@ -1,5 +1,3 @@
-###DEC-062174-0-000-25-01-1968@@@
-
 DECRETO Nº 62.174, DE 25 DE JANEIRO DE 1968.
 
 Revoga os Decretos Federais que concederam à sociedade Alcan Sales Inc., anteriormente denominada Aluminium Limited Sales, Inc., autorização para funcionar e continuar a funcionar na República do Brasil.

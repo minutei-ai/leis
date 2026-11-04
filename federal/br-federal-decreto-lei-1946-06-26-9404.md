@@ -1,5 +1,3 @@
-###DEL-009404-0-000-26-06-1946@@@
-
 DECRETO-LEI N. 9.404 – DE 26 DE JUNHO DE 1946
 
 Dispõe sôbre interstício para a promoção de Primeiros Tenentes das Armas e Serviços.

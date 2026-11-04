@@ -1,5 +1,3 @@
-###DEC-076609-0-000-17-11-1975@@@
-
 DECRETO Nº 76.609, DE 17 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas, Contábeis e de Administração de Empresas "Camilo Castelo Branco", com sede na Cidade de São Paulo, Estado de São Paulo.

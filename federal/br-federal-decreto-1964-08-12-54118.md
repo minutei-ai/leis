@@ -1,5 +1,3 @@
-###DEC-054118-0-000-12-08-1964@@@
-
 Decreto nº 54.118, de 12 de agôsto de 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no município de Magé, Estado do Rio de Janeiro.

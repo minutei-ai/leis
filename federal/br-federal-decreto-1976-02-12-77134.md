@@ -1,5 +1,3 @@
-###DEC-077134-0-000-12-02-1976@@@
-
 DECRETO Nº 77.134, DE 12 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Educação, Ciências e Letras Dom Domênico, com sede na cidade de Guarujá, Estado de São Paulo.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2089091c-5c84-40e1-98be-eb4999e7892c/texto#nowhere)
 
-###DEL-000987-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 987, DE 21 DE OUTUBRO DE 1969
 
 Altera o artigo 1º do Decreto-lei número 803, de 28 de agôsto de 1969.

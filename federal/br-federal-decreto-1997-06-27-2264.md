@@ -1,5 +1,3 @@
-###DEC-002264-0-000-27-06-1997@@@
-
 DECRETO Nº 2.264, DE 27 DE JUNHO DE 1997
 
 Regulamenta a Lei nº 9.424, de 24 de dezembro de 1996, no âmbito federal, e determina outras providências.

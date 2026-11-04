@@ -1,5 +1,3 @@
-###DEC-068465-0-000-02-04-1971@@@
-
 DECRETO Nº 68.465 - DE 2 DE ABRIL DE 1971.
 
 Regulamenta o Decreto-lei nº 1.149, de 28 de janeiro de 1971, que estabelece condições para a filiação de entidades sindicais brasileiras a organizações internacionais e para o funcionamento, no país, de sede, agências, filiais ou representações de entidades sindicais estrangeiras ou internacionais.

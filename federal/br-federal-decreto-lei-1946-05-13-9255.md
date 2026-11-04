@@ -1,5 +1,3 @@
-###DEL-009255-0-000-13-05-1946@@@
-
 DECRETO-LEI N. 9.255 – DE 13 DE MAIO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 1.152.052,00 para execução de obras no edifício do Entreposto Federal da Pesca e torna sem aplicação uma dotação do Plano de Obras e Equipamentos para 1946.

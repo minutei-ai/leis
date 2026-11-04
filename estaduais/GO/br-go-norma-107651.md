@@ -154,8 +154,6 @@ Parágrafo único. (VETADO).
 
 Goiânia, 12 de agosto de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

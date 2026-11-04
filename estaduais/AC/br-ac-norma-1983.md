@@ -1,6 +1,10 @@
 > **LEI Nº 3.344, DE 14 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.312, de 29 de dezembro de 1999, que “Institui o Sistema Estadual de Habitação de Interesse Social do Acre – SEHAC, cria o Fundo Estadual de Habitação.”</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.312, de 29 de dezembro de 1999, que “Institui o Sistema Estadual de Habitação de Interesse Social do Acre – SEHAC, cria o Fundo Estadual de Habitação.”
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

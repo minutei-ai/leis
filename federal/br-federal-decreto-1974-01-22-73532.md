@@ -1,5 +1,3 @@
-###DEC-073532-0-000-22-01-1974@@@
-
 DECRETO Nº 73.532, DE 22 DE JANEIRO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de São Caetano do Sul, com os cursos de Letras, Pedagogia e Matemática, mantida pela Fundação de Educação e Cultura do ABC, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

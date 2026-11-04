@@ -1,5 +1,3 @@
-###DEC-076279-0-000-16-09-1975@@@
-
 DECRETO Nº 76.279 - DE 16 DE SETEMBRO DE 1975
 
 Confisca bens pertencentes à Fábrica de Tecidos Carioba S/A, e dá outras providências.

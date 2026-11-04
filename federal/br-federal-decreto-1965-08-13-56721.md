@@ -1,5 +1,3 @@
-###DEC-056721-0-000-13-08-1965@@@
-
 DECRETO Nº 56.721, DE 13 DE AGÔSTO DE 1965.
 
 Concede à São Cristóvão Companhia Nacional de Seguros Gerais autorização para funcionar e aprova os seus Estatutos.

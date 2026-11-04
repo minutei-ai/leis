@@ -1,5 +1,3 @@
-###DEC-096993-0-000-17-10-1988@@@
-
 DECRETO Nº 96.993, DE 17 DE OUTUBRO DE 1988
 
 Regulamenta a Lei nº 7.291, de 19 de dezembro de 1984, que dispõe sobre as atividades da eqüideocultura no País e dá outras providências.

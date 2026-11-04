@@ -1,5 +1,3 @@
-###DEC-052424-0-000-30-08-1963@@@
-
 DECRETO Nº 52.424, DE 30 DE AGÔSTO DE 1963.
 
 Baixa Normas complementares ao Regime de tempo integral

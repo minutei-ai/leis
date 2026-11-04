@@ -1,5 +1,3 @@
-###DEL-004694-0-000-16-09-1942@@@
-
 DECRETO-LEI N. 4.694 – DE 16 DE SETEMBRO DE 1942
 
 Cria funções gratificadas no Ministério da Marinha e dá outras providências

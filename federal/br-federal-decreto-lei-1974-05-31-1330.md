@@ -1,5 +1,3 @@
-###DEL-001330-0-000-31-05-1974@@@
-
 # DECRETO-LEI Nº 1.330, DE 31 DE MAIO DE 1974
 
 Reduz alíquota do Imposto de Renda incidente sobre o lucro tributável nas empresas concessionárias de serviços públicos de telecomunicações e dá outras providências.

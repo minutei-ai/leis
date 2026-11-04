@@ -1,5 +1,3 @@
-###DEC-059948-0-000-09-01-1967@@@
-
 DECRETO Nº 59.948, DE 9 DE JANEIRO DE 1967.
 
 Autoriza a Mineração Retiro do Sapecado Ltda. a pesquisar minério de manganês no município Brotas de Macaúbas, Estado da Bahia.

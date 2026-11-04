@@ -1,5 +1,3 @@
-###DEL-008776-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.776 – DE 22 DE JANEIRO DE 1946
 
 Suprime e transforma, sem aumento de despesa, carreira e cargos isolados nos Quadros Suplementar e Permanente do Ministério da Justiça e Negócios Interiores.

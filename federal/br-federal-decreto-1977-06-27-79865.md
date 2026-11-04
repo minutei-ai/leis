@@ -1,5 +1,3 @@
-###DEC-079865-0-000-27-06-1977@@@
-
 DECRETO Nº 79.865, DE 27 de junho de 1977
 
 Autoriza o funcionamento da habilitação Formação de Psicólogo, do curso de Psicologia, da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na Cidade de Guarulhos, Estado de São Paulo.

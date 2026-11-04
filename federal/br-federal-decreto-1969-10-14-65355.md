@@ -1,5 +1,3 @@
-###DEC-065355-0-000-14-10-1969@@@
-
 decreto nº 65.355 - de 14 de outubro de 1969.
 
 Concede permissão, em caráter permanente à S.A. Tubos Brasilit, com sede no Estado de São Paulo, para fazer funcionar nos domingos e feriados civis e religiosos, a Seção de P.V.C., de sua fábrica localizada em Utinga, no Município de Santo André.

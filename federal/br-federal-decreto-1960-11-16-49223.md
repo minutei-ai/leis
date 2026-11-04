@@ -1,5 +1,3 @@
-###DEC-049223-0-000-16-11-1960@@@
-
 DECRETO Nº 49.223, DE 16 DE novembro DE 1960.
 
 Autoriza Heitor Corrêa Gonçalves e outros a construir uma linha de transmissão, para uso próprio, no município de Pindamonhangaba, Estado de São Paulo.

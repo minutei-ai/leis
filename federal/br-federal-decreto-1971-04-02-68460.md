@@ -1,5 +1,3 @@
-###DEC-068460-0-000-02-04-1971@@@
-
 DECRETO Nº 68.460 - DE 2 DE ABRIL DE 1971.
 
 Declara a caducidade dos decretos que menciona.

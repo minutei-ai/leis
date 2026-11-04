@@ -1,5 +1,3 @@
-###MPV-001782-0-006-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.782-6, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

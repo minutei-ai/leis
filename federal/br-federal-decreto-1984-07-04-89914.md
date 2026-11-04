@@ -1,5 +1,3 @@
-###DEC-089914-0-000-04-07-1984@@@
-
 Decreto nº 89.914, de 04 de julho de 1984
 
 Outorga concessão à RÁDIO JORNAL DE CÁCERES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cáceres, Estado de Mato Grosso.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.872, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a celebrar termos aditivos aos contratos firmados com a União com base na Lei Federal n° 9.496, de 11 de setembro de 1997, e na Medida Provisória n° 2.192-70, de 24 de agosto de 2001, para adoção das condições estabelecidas pela Lei Complementar Federal n° 156, de 28 de dezembro de 2016.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a celebrar termos aditivos aos contratos firmados com a União com base na Lei Federal n° 9.496, de 11 de setembro de 1997, e na Medida Provisória n° 2.192-70, de 24 de agosto de 2001, para adoção das condições estabelecidas pela Lei Complementar Federal n° 156, de 28 de dezembro de 2016.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

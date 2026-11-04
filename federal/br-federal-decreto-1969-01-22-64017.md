@@ -1,5 +1,3 @@
-###DEC-064017-0-000-22-01-1969@@@
-
 DECRETO Nº 64.017, DE 22 DE JANEIRO DE 1969.
 
 Dá nova redação ao artigo 2º do Decreto nº 61.574, de 20 de outubro de 1967.

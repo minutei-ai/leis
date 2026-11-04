@@ -1,5 +1,3 @@
-###DEC-048707-0-000-04-08-1960@@@
-
 DECRETO Nº 48.707, DE 04 DE agôsto DE 1960.
 
 Autoriza o serviço de Patrimônio da União a aceitar a doação do terreno que menciona, no Estado de Minas Gerais.

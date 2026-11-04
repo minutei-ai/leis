@@ -1,5 +1,3 @@
-###DEC-049231-0-000-16-11-1960@@@
-
 DECRETO Nº 49.231, DE 16 DE NOVEMBRO DE 1960.
 
 Autoriza a Santa Blanca - Indústria de Mármores S.A. a funcionar como emprêsa de mineração.

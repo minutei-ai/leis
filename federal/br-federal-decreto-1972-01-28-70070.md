@@ -1,5 +1,3 @@
-###DEC-070070-0-000-28-01-1972@@@
-
 DECRETO Nº 70.070, de 28 de JANEIRO DE 1972.
 
 Declara sem efeito o Decreto nº 41.529, de 17 de maio de 1957.

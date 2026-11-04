@@ -1,7 +1,3 @@
-1
-
-###DEC-097953-0-000-11-07-1989@@@
-
 DECRETO N.° 97.953, DE 11 DE JULHO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA MARAJÓ”, classificado como latifúndio por exploração, situado no Município de João Câmara, Estado do Rio Grande do Norte, compreendido na zona prioritária, fixada pelo Decreto n° 92.681, de 19 de maio de 1986, e dá outras providências.

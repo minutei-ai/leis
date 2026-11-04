@@ -1,5 +1,3 @@
-###DEC-067596-0-000-18-11-1970@@@
-
 DECRETO Nº 67.596, DE 18 de NOVEMBRO DE 1970.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Belo Horizonte, MG.

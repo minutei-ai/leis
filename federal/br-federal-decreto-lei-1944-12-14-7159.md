@@ -1,5 +1,3 @@
-###DEL-007159-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.159 – DE 14 DE DEZEMBRO 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 36.000,00, à verba que especifica

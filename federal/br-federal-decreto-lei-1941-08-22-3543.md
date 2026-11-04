@@ -1,5 +1,3 @@
-###DEL-003543-0-000-22-08-1941@@@
-
 DECRETO-LEI N. 3.543 – DE 22 DE AGOSTO DE 1941
 
 Autoriza a aquisição do imovel onde funciona o Estabelecimento de Material de Intendência da 2ª  Região Militar

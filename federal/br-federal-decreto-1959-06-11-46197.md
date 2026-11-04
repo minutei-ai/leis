@@ -1,5 +1,3 @@
-###DEC-046197-0-000-11-06-1959@@@
-
 DECRETO Nº 46.197, DE 11 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Pedro Tobias Duarte a pesquisar areias ilmeníticas, no município de Primeira Cruz, Estado do Maranhão.

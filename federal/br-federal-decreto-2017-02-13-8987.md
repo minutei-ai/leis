@@ -54,5 +54,6 @@ Dyogo Henrique de Oliveira
 
 Roberto Freire
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

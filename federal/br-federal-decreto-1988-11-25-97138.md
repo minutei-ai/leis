@@ -1,5 +1,3 @@
-###DEC-097138-0-000-25-11-1988@@@
-
 DECRETO Nº 97.138, DE 25 DE NOVEMBRO DE 1988
 
 Altera a denominação do Instituto de Seleção e Orientação.

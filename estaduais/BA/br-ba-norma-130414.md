@@ -8,8 +8,10 @@ Autoriza o Poder Executivo a contratar operação de crédito externo na forma q
 
 **Parágrafo único** - Os recursos resultantes da operação de crédito autorizada no caput deste artigo, destinam-se ao financiamento do Projeto Sistema Viário Integrado do Estado da Bahia Ponte Salvador Ilha de Itaparica.
 
-Redação de acordo com a Lei nº [14.524](https://www.legislabahia.ba.gov.br/documentos/lei-no-14524-de-15-de-dezembro-de-2022) de 15 de dezembro de 2022.<br>
-Redação anterior de acordo com a Lei nº [14.308](https://www.legislabahia.ba.gov.br/documentos/lei-no-14308-de-18-de-marco-de-2021) de 18 de março de 2021 - "Parágrafo unico - Os recursos resultantes da operação de crédito autorizada no caput deste artigo destinam-se ao financiamento dos investimentos previstos no Projeto do Sistema Viário Integrado do Estado da Bahia."<br>
+Redação de acordo com a Lei nº [14.524](https://www.legislabahia.ba.gov.br/documentos/lei-no-14524-de-15-de-dezembro-de-2022) de 15 de dezembro de 2022.
+
+Redação anterior de acordo com a Lei nº [14.308](https://www.legislabahia.ba.gov.br/documentos/lei-no-14308-de-18-de-marco-de-2021) de 18 de março de 2021 - "Parágrafo unico - Os recursos resultantes da operação de crédito autorizada no caput deste artigo destinam-se ao financiamento dos investimentos previstos no Projeto do Sistema Viário Integrado do Estado da Bahia."
+
 Redação original: "Parágrafo unico - Os recursos resultantes da operação de crédito autorizada neste artigo destinam-se ao financiamento para o Programa Integrado de Desenvolvimento de Políticas Sociais, Infraestrutura e Mobilidade Urbana."
 
 **Art. 2º** - As garantias e contragarantias a serem oferecidas para o cumprimento do disposto nesta Lei serão constituídas, durante o prazo de vigência do respectivo contrato, de parcelas necessárias e suficientes, das cotas de repartição constitucional das receitas tributárias de que o Estado é titular na forma dos arts. 157 e 159, completadas pelas receitas tributárias estabelecidas no art. 155, nos termos do § 4º do art. 167, todos da Constituição Federal, bem como outras garantias em direito admitidas.

@@ -1,5 +1,3 @@
-###DEC-093905-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.905, DE 09 DE JANEIRO DE 1987
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Educação Física da Alta Araraquarense de Santa Fé do Sul.

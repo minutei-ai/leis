@@ -1,5 +1,3 @@
-###DEC-054658-0-000-29-10-1964@@@
-
 Decreto nº 54.658, de 29 de outubro de 1964.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

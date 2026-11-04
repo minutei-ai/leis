@@ -1,5 +1,3 @@
-###DEC-070675-0-000-06-06-1972@@@
-
 DECRETO Nº 70.675, DE 6 DE JUNHO DE 1972.
 
 Torna sem efeito a classificação do Conselho do Fundo Federal Agropecuário do Ministério da Agricultura a que se refere o Decreto nº 70.482, de 9 de maio de 1972, e dá outras providências.

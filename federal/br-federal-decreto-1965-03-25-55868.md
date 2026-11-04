@@ -1,5 +1,3 @@
-###DEC-055868-0-000-25-03-1965@@@
-
 decreto nº 55.868, de 25 de março de 1965.
 
 Regula o art. 10 da Lei nº 4.452, de 5 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-002876-0-000-14-12-1998@@@
-
 DECRETO Nº 2.876, DE 14 DEZEMBRO DE 1998.
 
 Dispõe acerca do imposto de exportação e do imposto sobre produtos industrializados na comercialização de cigarros.

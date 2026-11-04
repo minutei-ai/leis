@@ -1,7 +1,3 @@
-1
-
-###DEL-002319-0-000-07-01-1987@@@
-
 # DECRETO-LEI Nº 2.319, DE 7 DE JANEIRO DE 1987
 
 Dispõe sobre a participação da EMBRAER - Empresa Brasileira de Aeronáutica S.A. em sociedades a serem constituídas no Brasil e no exterior.

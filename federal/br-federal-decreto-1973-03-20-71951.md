@@ -1,5 +1,3 @@
-###DEC-071951-0-000-20-03-1973@@@
-
 DECRETO Nº 71.951, DE 20 DE março DE 1973.
 
 Declara a cessação de exploração de serviços públicos de energia elétrica, outorga concessão e dá outras providências.

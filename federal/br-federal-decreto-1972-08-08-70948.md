@@ -1,5 +1,3 @@
-###DEC-070948-0-000-08-08-1972@@@
-
 DEDRETO Nº 70.948, de 8 de Agosto de 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação Lagoas do Piauí, situada nos Municípios de Luzilândia e Joaquim Pires, no Estado do Piauí.

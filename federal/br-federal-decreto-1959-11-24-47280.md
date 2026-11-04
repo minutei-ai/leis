@@ -1,5 +1,3 @@
-###DEC-047280-0-000-24-11-1959@@@
-
 Decreto nº 47.280, de 24 de novembro de 1959.
 
 Transfere da Cooperativa Agro-Pecuária de Macuco Ltda. para a S.A. Emprêsa Fôrça e Luz Ibero-Americana a concessão para o fornecimento de energia elétrica à Vila de Macuco, Município de Cordeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-056882-0-000-20-09-1965@@@
-
 DECRETO Nº 56.882, DE 20 DE SETEMBRO DE 1965.
 
 Concede reconhecimento ao Curso de Jornalismo da Faculdade de Filosofia e Letras de Juiz de Fora, MG.

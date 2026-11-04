@@ -1,5 +1,3 @@
-###DEC-084724-0-000-22-05-1980@@@
-
 Decreto nº 84.724, de 22 de maio de 1980.
 
 Dispõe sobre a contratação para o desempenho das atividades de assessoramento superior aos Ministros de Estado da Marinha, do Exército e da Aeronáutica, de que trata o Capítulo IV, Título XI, do Decreto-lei nº 200, de 1967, e dá outras providências.

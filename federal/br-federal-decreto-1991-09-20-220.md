@@ -1,5 +1,3 @@
-###DEC-000220-0-000-20-09-1991@@@
-
 DECRETO N° 220, DE 20 DE SETEMBRO DE 1991
 
 Dá nova redação a dispositivos do Regulamento para a Representação do Brasil na Junta Interamericana de Defesa - RBJIDJ.

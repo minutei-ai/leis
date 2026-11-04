@@ -1,7 +1,3 @@
-1
-
-###DEC-098894-0-000-30-01-1990@@@
-
 DECRETO Nº 98.894, DE 30 DE JANEIRO DE 1990
 
 Dispõe sobre o reestudo de área indígena, no Estado de Rondônia, e dá outras providências.

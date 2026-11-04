@@ -1,5 +1,3 @@
-###DEC-084988-0-000-31-07-1980@@@
-
 DECRETO Nº 84.988, DE 31 DE JULHO DE 1980.
 
 Acrescenta dispositivos no Regulamento da Ordem do Mérito Militar.

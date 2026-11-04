@@ -1,5 +1,3 @@
-###DEC-081169-0-000-02-01-1978@@@
-
 Decreto nº 81.169, de 02 de janeiro de 1978.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Record S.A. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade São Paulo, Estado de São Paulo.
@@ -21,8 +19,6 @@ Brasília, 02 de janeiro de 1978; 157º da Independência e 90º da República.
 Ernesto Geisel
 
 Shigeaki Ueki
-
-###DEC-081169-0-000-02-01-1978@@@RET02+++
 
 (\*) DECRETO nº 81.169, de 2 de janeiro de 1978.
 

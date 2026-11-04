@@ -1,5 +1,3 @@
-###DEC-064456-0-000-05-05-1969@@@
-
 DECRETO Nº 64.456, DE 5 DE MAIO DE 1969.
 
 Autoriza estrangeiros a adquirirem domínio útil de fração ideal de terreno de marinha e acrescido, em fase de transferência de aforamento no Estado da Guanabara.

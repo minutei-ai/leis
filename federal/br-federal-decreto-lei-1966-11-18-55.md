@@ -1,5 +1,3 @@
-###DEL-000055-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 55, DE 18 DE NOVEMBRO DE 1966
 
 Define a política nacional de turismo, cria o Conselho Nacional de Turismo e a Emprêsa Brasileira de Turismo, e dá outras providências.

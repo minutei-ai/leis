@@ -1,5 +1,3 @@
-###DEC-082673-0-000-20-11-1978@@@
-
 Decreto nº 82.673, de 20 de novembro de 1978.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Comunicação Social, ministrados pelo Centro de Ciências Humanas, Letras e Artes, com sede na cidade de Campina Grande, Estado da Paraíba.

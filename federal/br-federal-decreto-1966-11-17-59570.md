@@ -1,5 +1,3 @@
-###DEC-059570-0-000-17-11-1966@@@
-
 DECRETO Nº 59.570, DE 17 DE NOVEMBRO DE 1966.
 
 Concede reconhecimento à Faculdade Católica de Direito de Ilhéus.

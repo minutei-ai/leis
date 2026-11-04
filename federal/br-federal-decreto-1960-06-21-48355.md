@@ -1,5 +1,3 @@
-###DEC-048355-0-000-21-06-1960@@@
-
 decreto nº 48.355, de 21 de junho de 1960.
 
 Autoriza o cidadão brasileiro Pedro Aulicino Gomes a pesquisar caulim no município de São Bernardo do Campo, Estado de São Paulo.

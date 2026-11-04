@@ -1,7 +1,3 @@
-1
-
-###DEC-099273-0-000-05-06-1990@@@
-
 DECRETO Nº99.273, DE 5 DE JUNHO DE 1990
 
 Revoga dispositivo do Regimento Interno Consolidado da Secretaria-Geral da Presidência da República.

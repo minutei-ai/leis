@@ -1,5 +1,3 @@
-###DEC-067056-0-000-14-08-1970@@@
-
 decreto nº 67.056, de 14 de agôsto de 1970.
 
 Autoriza o Ministro dos Transportes a tomar as providências necessárias à regularização da avaliação dos bens incorporados à Companhia de Navegação Lloyd Brasileiro.

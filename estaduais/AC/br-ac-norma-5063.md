@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.983, de 03 de Outubro de 2022.](https://legis.ac.gov.
 
 > **LEI Nº 3.910, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.763, de 19 de julho de 2021, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2022.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 3.763, de 19 de julho de 2021, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2022.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

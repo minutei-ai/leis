@@ -1,7 +1,3 @@
-1
-
-###DEC-000716-0-000-06-01-1993@@@
-
 DECRETO N° 716, DE 6 DE JANEIRO DE 1993
 
 Prorroga o mandato dos Conselheiros do Conselho de Recursos da Presidência Social (CRPS).

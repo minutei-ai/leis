@@ -1,5 +1,3 @@
-###DEC-051280-0-000-25-08-1961@@@
-
 DECRETO Nº 51.280, DE 25 DE AGOSTO DE 1961.
 
 Autoriza o Ministério da Aeronáutica, a aceitar doação de terrenos em Itanhaem (SP).

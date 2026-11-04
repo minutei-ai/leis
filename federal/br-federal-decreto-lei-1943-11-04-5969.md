@@ -1,5 +1,3 @@
-###DEL-005969-0-000-04-11-1943@@@
-
 DECRETO‑LEI N. 5.969 – DE 4 DE NOVEMBRO DE 1943
 
 Dispõe sôbre os exames de licença ginasial no ano de 1943

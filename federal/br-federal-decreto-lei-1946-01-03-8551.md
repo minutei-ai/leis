@@ -1,5 +1,3 @@
-###DEL-008551-0-000-03-01-1946@@@
-
 DECRETO-LEI N. 8.551 – DE 3 DE JANEIRO DE 1946
 
 Dispõe sôbre cargos da Diretoria do Espediente da Secretaria da Presidência da República.

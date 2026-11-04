@@ -1,5 +1,3 @@
-###DEC-061120-0-000-31-07-1967@@@
-
 DECRETO Nº 61.120, DE 31 DE JULHO DE 1967.
 
 Concede reconhecimento de cursos na Faculdade Estadual de Filosofia, Ciências e Letras de União da Vitória, Paraná.

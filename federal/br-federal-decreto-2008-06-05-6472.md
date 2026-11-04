@@ -1,5 +1,3 @@
-###DEC-006472-0-000-05-06-2008@@@
-
 DECRETO Nº 6.472, DE 5 DE JUNHO DE 2008.
 
 Altera o art. 3o do Decreto no 4.722, de 5 de junho de 2003, que estabelece critérios para exploração da espécie Swietenia Macrophylla King (mogno).
@@ -19,5 +17,3 @@ Brasília, 5 de junho de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Carlos MInc
-
-Este texto não substitui o publicado no DOU de 6.6.2008

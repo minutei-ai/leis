@@ -1,5 +1,3 @@
-###DEC-002623-0-000-10-06-1998@@@
-
 DECRETO Nº 2.623, DE 10 DE JUNHO DE 1998
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores que menciona, dá outras providências.

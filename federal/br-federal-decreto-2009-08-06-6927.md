@@ -1,5 +1,3 @@
-###DEC-006927-0-000-06-08-2009@@@
-
 DECRETO Nº 6.927, DE 6 DE AGOSTO DE 2009.
 
 Dispõe sobre a antecipação do abono anual devido ao segurado e ao dependente da Previdência Social, no ano de 2009.

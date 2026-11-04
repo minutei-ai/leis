@@ -1,5 +1,3 @@
-###DEL-007142-0-000-11-12-1944@@@
-
 DECRETO-LEI N. 7.142 – DE 11 DE DEZEMBRO DE 1944
 
 Restabelece cargo no Quadro III – Parte Suplementar, do Ministério da Viação e Obras Públicas e dá outras providências

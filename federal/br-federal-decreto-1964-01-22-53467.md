@@ -1,5 +1,3 @@
-###DEC-053467-0-000-22-01-1964@@@
-
 DECRETO Nº 53.467, DE 22 DE JANEIRO DE 1964.
 
 Altera o artigo 4º do Regulamento aprovado pelo Decreto nº16.368, de 16 de agôsto de 1944, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046284-0-000-29-06-1959@@@
-
 DECRETO Nº 46.284, DE 29 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro Julio Gonçalves da Silva a pesquisar diamantes no município de Conceição do Mato Dentro, Estado de Minas Gerais.

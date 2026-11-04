@@ -1,5 +1,3 @@
-###MPV-002135-0-024-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.135-24, DE 26 DE JANEIRO DE 2001.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

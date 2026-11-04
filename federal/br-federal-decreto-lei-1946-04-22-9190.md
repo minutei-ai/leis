@@ -1,5 +1,3 @@
-###DEL-009190-0-000-22-04-1946@@@
-
 DECRETO-LEI N. 9.190 – DE 22 DE ABRIL DE 1946
 
 Reorganiza o Museu lmperial, criado pelo Decreto-lei nº 2.096, de 29 de Março de 1940, e dá outras providências

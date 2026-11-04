@@ -1,5 +1,3 @@
-###DEC-079537-0-000-14-04-1977@@@
-
 Decreto nº 79.537, de 14 de abril de 1977.
 
 Declara de utilidade pública, para fins de desapropriação e instituição de servidão, pela Telecomunicações do Rio de Janeiro S.A. - TELERJ, áreas de terra, sem benfeitorias, necessárias à implantação e construção de estação de rádio e faixas de terras destinadas, respectivamente, ao seu acesso e à passagem de linha de transmissão, a serem desmembradas de maior porção, situadas no Município de Santo Antônio de Pádua, zona rural, Estado do Rio de Janeiro.

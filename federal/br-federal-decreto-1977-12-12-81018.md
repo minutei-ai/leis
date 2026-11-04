@@ -1,5 +1,3 @@
-###DEC-081018-0-000-12-12-1977@@@
-
 Decreto nº 81.018, de 12 de dezembro de 1977.
 
 Retifica a concessão de lavra outorgada à Cia. Nacional de Cimento Portland pelo Decreto nº 1.715, de 28 de novembro de 1962.

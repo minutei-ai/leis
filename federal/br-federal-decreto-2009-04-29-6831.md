@@ -1,5 +1,3 @@
-###DEC-006831-0-000-29-04-2009@@@
-
 DECRETO Nº 6.831, DE 29 DE ABRIL DE 2009.
 
 Dispõe sobre a execução do Quadragésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica n~~º~~ 35, assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Chile, de 7 de julho de 2008.

@@ -1,5 +1,3 @@
-###DEC-096609-0-000-30-08-1988@@@
-
 DECRETO Nº 96.609, DE 30 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO MAFRENSE LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Simplício Mendes, Estado do Piauí.

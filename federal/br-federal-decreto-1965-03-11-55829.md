@@ -1,5 +1,3 @@
-###DEC-055829-0-000-11-03-1965@@@
-
 DECRETO Nº 55.829, DE 11 DE MARÇO DE 1965.
 
 Reajusta os preços básicos mínimos relativos à safra do ano agrícola 1964-65, para a juta e malva da Região Amazônica, constantes do Decreto nº 55.061, de 24 de novembro de 1964.

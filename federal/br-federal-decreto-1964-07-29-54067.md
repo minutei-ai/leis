@@ -1,5 +1,3 @@
-###DEC-054067-0-000-29-07-1964@@@
-
 DECRETO Nº 54.067, de 29 de julho de 1964.
 
 Dispõe sôbre a reformulação do sistema geral da Previdência Social e a administração transitória das instituição de previdência social até que esta se complete e dá outras providências.

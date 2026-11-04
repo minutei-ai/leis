@@ -1,5 +1,3 @@
-###MPV-001980-0-025\-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-25, DE 23 de novembro de 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

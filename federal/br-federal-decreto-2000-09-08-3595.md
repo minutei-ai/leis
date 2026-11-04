@@ -1,5 +1,3 @@
-###DEC-003595-0-000-08-09-2000@@@
-
 DECRETO Nº 3.595, DE 8 DE SETEMBRO DE 2000.
 
 Altera os arts. 1º , 5º e 7º do Decreto nº 2.430, de 17 de dezembro de 1997, que regulamenta o art. 31 da Lei nº 9.491, de 9 de setembro de 1997.

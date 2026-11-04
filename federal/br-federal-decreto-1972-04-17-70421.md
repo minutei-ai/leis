@@ -1,5 +1,3 @@
-###DEC-070421-0-000-17-04-1972@@@
-
 DECRETO Nº 70.421, DE 17 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Piracicaba, com sede em Piracicaba, Estado de São Paulo.

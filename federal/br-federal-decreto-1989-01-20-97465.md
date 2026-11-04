@@ -1,5 +1,3 @@
-###DEC-097465-0-000-20-01-1989@@@
-
 DECRETO Nº 97.465, DE 20 DE JANEIRO DE 1989
 
 Dispõe sobre a vinculação de entidades da Administração Indireta, e dá outras providências.

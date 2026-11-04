@@ -1,5 +1,3 @@
-###DEC-067283-0-000-28-09-1970@@@
-
 DECRETO Nº 67.283, DE 28 DE SETEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro, cargos originários da extinta Companhia Nacional de Navegação Costeira.

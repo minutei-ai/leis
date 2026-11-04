@@ -22,8 +22,10 @@ Art. 4º Esta lei entra em vigor na data de sua publicação, revogando-se as di
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA – GO, 20 DE JANEIRO DE 2022.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

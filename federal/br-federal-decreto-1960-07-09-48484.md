@@ -1,5 +1,3 @@
-###DEC-048484-0-000-09-07-1960@@@
-
 DECRETO Nº 48.484, DE 9 DE JULHO DE 1960.
 
 Dispõe sôbre a transferência de função da Tabela Única de Extranumerário-mensalista do Departamento Administrativo do Serviço Público para idêntica Tabela do Ministério da Fazenda.

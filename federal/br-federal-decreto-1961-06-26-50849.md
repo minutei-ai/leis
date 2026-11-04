@@ -1,5 +1,3 @@
-###DEC-050849-0-000-26-06-1961@@@
-
 decreto nº 50.849, de 26 de junho de 1961.
 
 Concede à sociedade anônima Luiz G.A. Valente S.A. - Comércio e Navegação autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

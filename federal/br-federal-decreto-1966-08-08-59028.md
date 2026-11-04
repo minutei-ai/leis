@@ -1,5 +1,3 @@
-###DEC-059028-0-000-08-08-1966@@@
-
 DECRETO Nº 59.028, DE 8 DE AGÔSTO DE 1966.
 
 Revoga o Decreto nº 53.907, de 6 de maio de 1964.

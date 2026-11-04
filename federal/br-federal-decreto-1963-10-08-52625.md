@@ -1,5 +1,3 @@
-###DEC-052625-0-000-08-10-1963@@@
-
 Decreto nº 52.625, de 8 De outubro de 1963.
 
 Autoriza a Companhia Hidro-Elétrica Paranapanema a construir linha de transmissão.

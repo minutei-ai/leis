@@ -1,5 +1,3 @@
-###DEC-075260-0-000-22-01-1975@@@
-
 DECRETO Nº 75.260, DE 22 DE JANEIRO DE 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

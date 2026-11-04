@@ -1,5 +1,3 @@
-###DEL-002979-0-000-23-01-1941@@@
-
 DECRETO-LEI N. 2.979 – DE 23 DE JANEIRO DE 1941
 
 Dispõe sobre o registo de aparelhos receptores de radiodifusão

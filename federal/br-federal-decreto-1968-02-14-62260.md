@@ -1,5 +1,3 @@
-###DEC-062260-0-000-14-02-1968@@@
-
 DECRETO Nº 62.260, DE 14 de FEVEREIRO DE 1968.
 
 Outorga concessão à Emprêsa Jornal do Commércio da Bahia S.A., da cidade de Salvador, Estado da Bahia, para estabelecer uma estação de radiodifusão de sons e imagens (televisão).

@@ -1,5 +1,3 @@
-###DEC-066442-0-000-14-04-1970@@@
-
 DECRETO Nº 66.442, DE 14 DE ABRIL DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Instituto Nacional de Previdência Social, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

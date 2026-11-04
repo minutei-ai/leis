@@ -1,5 +1,3 @@
-###DEC-062516-0-000-09-04-1968@@@
-
 DECRETO Nº 62.516, DE 9 DE ABRIL DE 1968.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação de equipamentos novos, neste descritos e consignados à emprêsa “S.A. Fiação Borborema”, de Natal (RN).

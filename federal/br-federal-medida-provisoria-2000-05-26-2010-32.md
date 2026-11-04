@@ -1,5 +1,3 @@
-###MPV-002010-0-032-26-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.010-32, DE 26 DE maio de 2000.
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

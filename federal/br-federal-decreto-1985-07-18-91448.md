@@ -1,5 +1,3 @@
-###DEC-091448-0-000-18-07-1985@@@
-
 Decreto nº 91.448 de 18 de julho de 1985.
 
 Autoriza a funcionamento do curso de Fonoaudiologia da Faculdade de Reabilitação, no Estado do Rio de Janeiro.

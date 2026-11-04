@@ -1,5 +1,3 @@
-###DEC-072726-0-000-31-08-1973@@@
-
 DECRETO Nº 72.726, DE 31 DE AGOSTO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

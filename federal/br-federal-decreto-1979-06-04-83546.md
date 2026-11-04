@@ -1,5 +1,3 @@
-###DEC-083546-0-000-04-06-1979@@@
-
 decreto nº 83.546, de 04 de junho de 1979.
 
 Cria a Embaixada do Brasil na República de Cingapura com sede na cidade de Cingapura.
@@ -19,8 +17,6 @@ Brasília, em 04 de junho de 1979; 158º da Independência e 91º da República.
 joão b. de figueiredo
 
 R. S. Guerreiro
-
-###DEC-083546-0-000-04-06-1979@@@RET01+++
 
 Decreto nº 83.546, de 04 de junho de 1979.
 

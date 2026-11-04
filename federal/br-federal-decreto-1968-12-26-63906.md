@@ -1,5 +1,3 @@
-###DEC-063906-0-000-26-12-1968@@@
-
 decreto nº 63.906, de 26 de dezembro de 1968.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação externa a ser contratadas pela Centrais Elétricas de São Paulo S. A. e dá outras providências

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209453)<br>
-
 # DECRETO N° 68.511, DE 14 DE MAIO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante permissão de uso, a título precário e gratuito, e por prazo determinado, do Departamento de Estradas de Rodagem - DER, parte do imóvel que especifica._

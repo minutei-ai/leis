@@ -1,5 +1,3 @@
-###DEC-074026-0-000-08-05-1974@@@
-
 DECRETO Nº 74.026, DE 8 DE MAIO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra urbana, com benfeitorias, a ser desmembrada de maior porção, destinada à construção de estação local situada no Município de Francisco Morato, Comarca de Franco da Rocha, Estado de São Paulo, pela Telecomunicações de São Paulo S.A. - TELESP.

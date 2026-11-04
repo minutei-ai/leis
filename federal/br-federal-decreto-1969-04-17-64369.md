@@ -1,5 +1,3 @@
-###DEC-064369-0-000-17-04-1969@@@
-
 DECRETO Nº 64.369, DE 17 DE ABRIL DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Formosa - GO, destinado ao Ministério do Exército.

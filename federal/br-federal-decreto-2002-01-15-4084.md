@@ -1,5 +1,3 @@
-###DEC-004084-0-000-15-01-2002@@@
-
 DECRETO Nº 4.084, DE 15 DE JANEIRO DE 2002.
 
 Dispõe sobre os efetivos do pessoal militar do Exército, em serviço ativo, a vigorar em 2002.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001466-0-000-04-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.466, DE 4 DE JUNHO DE 1996.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário até o limite de R$8.000.000.000,00, para os fins que especifica.

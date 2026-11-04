@@ -1,5 +1,3 @@
-###DEL-006500-0-000-15-05-1944@@@
-
 DECRETO-LEI N. 6.500 – DE 15 DE MAIO DE 1944
 
 Cria dois cargos isolados de Ajudante de Tesoureiro no Quadro I – Parte Permanente, do Ministério da Viação e Obras Públicas e dá outras providências

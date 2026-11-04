@@ -1,5 +1,3 @@
-###DEC-090192-0-000-12-09-1984@@@
-
 # DECRETO Nº 90.192, DE 12 de setembro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de distribuição da Sociedade Anônima de Eletrificação da Paraíba-SAELPA, no Estado da Paraíba.

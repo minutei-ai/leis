@@ -1,5 +1,3 @@
-###DEC-086959-0-000-25-02-1982@@@
-
 decreto nº 86.959, de 25 de fevereiro de 1982
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos e Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 86.914 de 15 de fevereiro de 1982.

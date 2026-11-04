@@ -4,7 +4,8 @@ Dispõe sobre o Código de Saúde do Estado da Bahia.
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 GENERALIDADES
 
 Art. 1º - Este Código regula as obrigações de ordem sanitária em todo território estadual, visando à defesa e proteção da saúde individual ou coletiva.
@@ -21,10 +22,12 @@ Parágrafo único - Caberá ao Conselho Estadual de Saúde a coordenação das a
 
 Art. 6º - As chefias dos Centros Executivos Regionais competirá a responsabilidade em nível executivo, dentro da área de jurisdição dos mesmos, das ações de promoção, proteção e recuperação da saúde, constantes deste Código e na forma da legislação em vigor.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 PROMOÇÃO DA SAÚDE
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 EDUCAÇÃO SANITÁRIA
 
 Art. 7º - Os programas de educação sanitária serão orientados pelo órgão competente da Secretaria da Saúde Pública, em colaboração com a Secretaria da Educação e Cultura.
@@ -39,7 +42,8 @@ Art. 8º - As unidades de Saúde Pública, ao lado de suas atividades médico-as
 
 Art. 9º - A educação sanitária será um dos objetivos do ensino a ser ministrado nas escolas primárias e secundárias, visando a alcançar os indivíduos em formação, mais susceptíveis à criação e conservação de hábitos ou comportamentos relacionados com a defesa da saúde e à sua difusão.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 HIGIENE MATERNA, DA CRIANÇA E DA ADOLESCENCIA
 
 Art. 10 - O Estado assegurará proteção e assistência médica à maternidade e à infância, atendendo à mulher nos períodos pré-nupcial , pré-concepcional, natal e pós-natal e à criança desde a sua concepção até a adolescência.
@@ -50,7 +54,8 @@ Art. 11 - A Secretaria da Saúde Pública poderá firmar convênios com o Minist
 
 Art. 12 - A Secretaria da Saúde Pública proporcionará assistência técnica e financeira às instituições privadas, sem finalidade lucrativa, que se dediquem à proteção materno-infantil , de acordo com a regulamentação específica.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 HIGIENE MENTAL
 
 Art. 13 - Cabe à Secretaria da Saúde Pública orientar, planejar, executar e fiscalizar, através de seus órgãos competentes, as medidas necessárias à promoção, preservação e recuperação da saúde mental, visando reduzir ao mínimo a incidência de doenças mentais e a necessidade de internamentos em manicômios.
@@ -71,7 +76,8 @@ Art. 19 - Somente poderão funcionar no território do Estado os estabelecimento
 
 Parágrafo único - Estes estabelecimentos ficarão sujeitos a normas técnicas e à supervisão da autoridade sanitária competente.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 ODONTOLOGIA SANITÁRIA
 
 Art. 20 - Cabe à autoridade sanitária, por intermédio dos órgãos competentes, planejar, coordenar e orientar, no Estado, as atividades em que se integram as funções de promoção, proteção e reparação da saúde oral da população especialmente na idade escolar.
@@ -82,10 +88,12 @@ Art. 22 - Compete à autoridade sanitária, diretamente ou mediante a assinatura
 
 Art. 23 - À autoridade sanitária, através do setor especializado, compete promover a realização de estudos e pesquisa de âmbito da odontologia sanitária, visando suas finalidades básicas.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 PROTEÇÃO E RECUPERAÇÃO DA SAÚDE
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 SANEAMENTO
 
 Art. 24 - A promoção das medidas de saneamento constitui obrigação do Estado e do indivíduo.
@@ -132,7 +140,8 @@ Art. 35 - As indústrias a se instalarem no território do Estado ficarão obrig
 
 Parágrafo único - As indústrias já instaladas antes da vigência deste Código ficam obrigadas a promover as medidas necessárias para corrigir os inconvenientes da poluição e da contaminação de água receptoras, de áreas territoriais e da atmosfera, dentro do prazo fixado pela autoridade competente.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 HIGIENE DO TRABALHO
 
 Art. 36 - A autoridade sanitária competente, no intuito de adotar medidas adequadas, realizará investigação sobre as condições dos locais e da natureza do trabalho e a saúde individual dos trabalhadores, em consonância com a legislação federal.
@@ -141,7 +150,8 @@ Art. 37 - A autoridade sanitária competente, em colaboração com os Ministéri
 
 Art. 38 - A investigação dos problemas básicos de higiene industrial estará afeta a laboratório especializado de saúde pública, que para isso disporá de instalações adequadas, em colaboração com outras instituições interessadas no problema.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 HIGIENE DE ALIMENTAÇÃO
 
 Art. 39 - A Secretaria da Saúde Pública, por seus órgãos especializados, providenciará, planejará e coordenará os meios de controle sanitário da alimentação, obedecendo aos padrões básicos estabelecidos pelas autoridades competentes.
@@ -174,7 +184,8 @@ V - a fiscalização de propaganda comercial de gêneros alimentícios, naturais
 
 Art. 44 - Os problemas de higiene da alimentação serão resolvidos em colaboração com os órgãos federais, estaduais e municipais competentes.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOENÇAS TRANSMISSÍVEIS
 
 Art. 45 - É dever das autoridades sanitárias a perfeita execução das medidas que visem a prevenção e impeça a disseminação das doenças transmissíveis.
@@ -323,7 +334,8 @@ IV - imunizá-los;
 
 V - sacrificá-los.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 NOTIFICAÇÃO COMPULSÓRIA
 
 Art. 67 - Para efeito deste Código, entende-se por notificação compulsória a comunicação à autoridade sanitária de casos confirmados ou suspeitos das doenças que, por sua gravidade, incidência ou possibilidade de disseminação, exijam medidas especiais de controle.
@@ -396,7 +408,8 @@ Art. 77 - As autoridades sanitárias competentes promoverão, como atividades de
 
 § 2º - As instalações particulares, de caráter não lucrativo, autarquias ou para estatais que proporcionem meio de combate eficiente as doenças não transmissíveis e aos acidentes pessoais poderão receber auxílio técnico e financeiro do Estado.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 ASSISTÊNCIA MÉDICO
 
 Art. 78 - A Secretaria da Saúde Pública, de acordo com os meios de que dispuser, através dos órgãos competentes prestará assistência médico-hospitalar, de ambulatório e de urgência a todos que comprovarem insuficiência de recursos.
@@ -415,10 +428,12 @@ Art. 81 - A autoridade sanitária competente estabelecerá os requisitos técnic
 
 Art. 82 - A Secretaria da Saúde Pública promoverá, dentro das suas disponibilidades, o amparo à velhice e estimulará os estudos que dizem respeito à geriatria.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 AÇÕES COMPLEMENTARES
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 ESTATÍSTICA VITAL E SANITÁRIA
 
 Art. 83 - A Secretaria da Saúde Pública, através de seu órgão competente, providenciará a coleta, análise e interpretação dos dados estatísticos de importância para as atividades médico-sanitárias do Estado.
@@ -429,7 +444,8 @@ Art. 84 - Os hospitais e estabelecimentos similares, as organizações para hosp
 
 Art. 85 - A Secretaria da Saúde Pública, através de seu órgão competente, adotará os critérios para a definição das áreas de registro de óbitos e de nascimento do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 FORMAÇÃO DE PESSOAL TÉCNICO
 
 Art. 86 - A formação e o aperfeiçoamento adequado do pessoal técnico constituem fatores indispensáveis ao êxito do trabalho de saúde pública.
@@ -442,7 +458,8 @@ Art. 87 - Para atingir o objetivo do artigo anterior, faz-se mister a promoção
 
 Art. 88 - Os diplomados por Escola de Saúde Pública ou os técnicos habilitados em cursos especiais de saúde pública, terão preferência de nomeação para os cargos nos órgãos de saúde pública do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 FISCALIZAÇÃO DA MEDICINA E PROFISSÕES AFINS
 
 Art. 89 - No exercício da Medicina, Medicina Veterinária, Odontologia, Farmácia, Enfermagem e outras profissões afins, é indispensável possuir o diploma, título ou certificado correspondente outorgado por faculdade ou escola oficial, reconhecida ou equiparada a estabelecimentos federais competentes.
@@ -507,7 +524,8 @@ Art. 97 - As firmas ou associações particulares que participarem lucrativament
 
 Art. 98 - Os produtos tóxicos para fins de agricultura, que acarretam males à saúde humana, deverão ser fiscalizados pela autoridade sanitária competente, obedecidas as exigências do Ministério da Saúde.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 LABORATÓRIO DE SAÚDE PÚBLICA
 
 Art. 99 - A Secretaria da Saúde Pública manterá em funcionamento o Laboratório Central de Saúde Pública, devidamente aparelhado, destinado a realização de exame bacteriológicos, sorológicos, mitológicos, parasitológicos, químicos e bromatológicos para diagnóstico clínico e controle sanitário.
@@ -516,7 +534,8 @@ Art. 100 - O Laboratório Central de Saúde Pública adotará os padrões, méto
 
 Parágrafo único - Os laboratórios particulares que se dediquem à patologia clínica estão sujeitos às avaliações e padronizações estabelecidas pelo Laboratório Central da Saúde Pública.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 ENFERMAGEM
 
 Art. 101 - A Secretaria da Saúde Pública, através da autoridade sanitária competente, manterá um órgão normativo de enfermagem.
@@ -531,7 +550,8 @@ III - fiscalizar as atividades de enfermagem em todo o Estado, de acordo com a l
 
 IV - exigir, sempre que possível, dos hospitais, clínicas e ambulatórios que tenham enfermeiras diplomadas na chefia dos serviços de enfermagem e auxiliares de enfermagem também diplomadas nas funções que lhes são próprias.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 SAÚDE INTERNACIONAL
 
 Art. 103 - s autoridades sanitárias do Estado, em colaboração permanente com os órgãos federais, cumprirão e farão cumprir para integridade de saúde do País, as determinações tocantes à "Saúde Internacional".
@@ -542,7 +562,8 @@ Art. 104 - Só poderão trafegar no território do Estado os veículos terrestre
 
 Art. 105 - As autoridades sanitárias competentes, aliadas aos órgão federais, determinarão as condições de sanidade que serão exigidas dos estrangeiros que vierem fixar-se em qualquer parte do Estado.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 PENALIDADES
 
 Art. 106 - Verificada qualquer infração à legislação sanitária vigente, a autoridade competente expedirá a intimação ou notificação que precederá a lavratura do respectivo auto de infração, o qual será a base de processo administrativo da contravenção.
@@ -621,7 +642,8 @@ Art. 123 - As penalidades aplicadas aos infratores da legislação sanitária se
 
 Art. 124 - A imposição da penalidade por infração sanitária não isenta o infrator da ação penal que no caso couber.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DISPOSIÇÕES FINAIS
 
 Art. 125 - O Governo do estado determinará através dos órgãos especializados de saúde, as normas sanitárias a serem observadas nas migrações humanas internas, providenciando inclusive a necessária fiscalização.

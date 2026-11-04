@@ -1,5 +1,3 @@
-###DEL-004499-0-000-20-07-1942@@@
-
 DECRETO-LEI N. 4.499 – DE 20 DE JULHO DE 1942
 
 Dispõe sobre matérias primas necessárias à fabricação de gasogênios

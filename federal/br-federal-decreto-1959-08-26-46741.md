@@ -1,5 +1,3 @@
-###DEC-046741-0-000-26-08-1959@@@
-
 Decreto nº 46.741, de 26 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro Paulo de Almeida e Silva a pesquisar minério de chumbo no município de Macaúbas, Estado da Bahia.

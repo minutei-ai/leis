@@ -1,5 +1,3 @@
-###DEC-068303-0-000-01-03-1971@@@
-
 Decreto nº 68.303, de 1 de março de 1971.
 
 Confisca bem de Osvaldo Teixeira de Melo e dá outras providências.

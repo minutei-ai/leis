@@ -1,5 +1,3 @@
-###DEC-068310-0-000-03-03-1971@@@
-
 DECRETO Nº 68.310, DE 3 DE MARÇO DE 1971.
 
 Redistribui com os ocupantes, cargos do Ministério dos Transportes para o Ministério das Minas e Energia, e dá outras providências.

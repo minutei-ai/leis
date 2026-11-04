@@ -1,5 +1,3 @@
-###DEC-076316-0-000-19-09-1975@@@
-
 DECRETO Nº 76.316 - DE 19 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Fonoaudiologia da Universidade Federal de Santa Maria, com sede na Cidade de Santa Maria, Estado do Rio Grande do Sul.

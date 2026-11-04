@@ -1,5 +1,3 @@
-###DEC-067369-0-000-12-10-1970@@@
-
 DECRETO Nº 67.369, de 12 de outubro DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional - e Companhia Nacional de Navegação Costeira - Autarquia Federal.

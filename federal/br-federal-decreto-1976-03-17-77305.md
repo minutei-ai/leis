@@ -1,5 +1,3 @@
-###DEC-077305-0-000-17-03-1976@@@
-
 DECRETO Nº 77.305, DE 17 DE MARÇO DE 1976
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Educação Ciências e Letras Notre-Dame, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

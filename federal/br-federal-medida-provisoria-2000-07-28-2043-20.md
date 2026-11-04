@@ -1,5 +1,3 @@
-###MPV-002043-0-020-28-07-2000@@@
-
 Medida Provisória Nº 2.043-20, de 28 de Julho de 2000.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outros que especifica, de responsabilidade dos Municípios.

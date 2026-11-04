@@ -1,5 +1,3 @@
-###DEC-055304-0-000-30-12-1964@@@
-
 Decreto nº 55.304, de 30 de dezembro de 1964.
 
 Declara de utilidade pública uma faixa de terra destinada a passagem da linha de subtransmissão que se estenderá entre a substação de manobra de Barra do Piraí, município de Barra do Piraí, e a subestação de distribuição de Valença, município de Valença, Estado do Rio de Janeiro e autoriza a Rio Light S.A. - Serviços de Eletricidade e Carris a promover constituição de servidão ou a desapropriação da mesma.

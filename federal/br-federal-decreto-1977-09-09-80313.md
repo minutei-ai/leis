@@ -1,5 +1,3 @@
-###DEC-080313-0-000-09-09-1977@@@
-
 DECRETO Nº 80.313, DE 09 DE setembro DE 1977.
 
 Retifica a concessão de lavra outorgada à S.A. de Cimento Mineração e Cabotagem "CIMIMAR" pelo Decreto nº 71.939, de 19 de março de 1973.

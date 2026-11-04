@@ -1,5 +1,3 @@
-###DEC-091252-0-000-17-05-1985@@@
-
 DECRETO nº 91.252, de 17 de maio dE 1985
 
 Autoriza o funcionamento do curso de Direito da Fundação das Escolas Unidas do Planalto Catarinense.

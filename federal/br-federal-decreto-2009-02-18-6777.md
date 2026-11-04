@@ -1,5 +1,3 @@
-###DEC-006777-0-000-18-02-2009@@@
-
 DECRETO Nº 6.777, DE 18 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a criação da Embaixada do Brasil em Antígua e Barbuda, com sede em Saint John's.

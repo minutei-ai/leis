@@ -1,5 +1,3 @@
-###DEC-074186-0-000-18-06-1974@@@
-
 DECRETO Nº 74.186, DE 18 DE JUNHO DE 1974.
 
 Concede reconhecimento à Escola de Educação Física de Volta Redonda, mantida pela Fundação Oswaldo Aranha, com sede na cidade de Volta Redonda, Estado do Rio de Janeiro.

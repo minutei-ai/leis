@@ -1,5 +1,3 @@
-###DEC-060718-0-000-12-05-1967@@@
-
 DECRETO Nº 60.718, DE 12 DE MAIO DE 1967.
 
 Declara de utilidade pública , para a desapropriação, o imóvel situado na cidade de Barbacena, Estado de Minas Gerais.

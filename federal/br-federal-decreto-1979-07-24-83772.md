@@ -1,5 +1,3 @@
-###DEC-083772-0-000-24-07-1979@@@
-
 DECRETO Nº 83.772, DE 24 DE JULHO DE 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Curitibanos, Estado de Santa Catarina.

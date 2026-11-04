@@ -1,5 +1,3 @@
-###MPV-001783-0-003-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.783-3, DE 11 DE MARÇO DE 1999
 
 Institui o Auxílio–Transporte aos militares, servidores e empregados públicos da administração federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

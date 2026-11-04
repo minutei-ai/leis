@@ -1,5 +1,3 @@
-###MPV-001975-0-026-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.975-26, DE 1º DE junho DE 2000.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

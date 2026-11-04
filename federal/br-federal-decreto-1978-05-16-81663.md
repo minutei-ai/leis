@@ -1,5 +1,3 @@
-###DEC-081663-0-000-16-05-1978@@@
-
 Decreto nº 81.663,de 16 de maio de 1978.
 
 Dispõe sobre a Estrutura Básica do Ministério do Trabalho e dá outras providências.

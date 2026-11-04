@@ -1,5 +1,3 @@
-###DEC-045510-0-000-27-02-1959@@@
-
 DECRETO Nº 45.510, DE 27 DE FEVEREIRO DE 1959.
 
 Concede à Sociedade Navegação Atlântico Sul S/A. autorização para funcionar como emprêsa de navegação de cabotagem.

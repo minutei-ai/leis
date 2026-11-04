@@ -1,5 +1,3 @@
-###DEC-054646-0-000-29-10-1964@@@
-
 DECRETO Nº 54.646, DE 29 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública a “Inspetoria Salesiana São Pio X”, com sede em Rio do Sul, Estado de Santa Catarina.

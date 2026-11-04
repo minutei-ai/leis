@@ -1,5 +1,3 @@
-###DEC-051761-0-000-28-02-1963@@@
-
 DECRETO Nº 51.761, DE 28 DE FEVEREIRO DE 1963.
 
 Decreta a intervenção federal nos serviços e instalações do porto de Ilhéus, Estado da Bahia, estendida esta à concessionária e dá outras providências.

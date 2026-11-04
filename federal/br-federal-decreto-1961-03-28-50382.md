@@ -1,5 +1,3 @@
-###DEC-050382-0-000-28-03-1961@@@
-
 DECRETO Nº 50.382, DE 26 DE MARÇO DE 1961.
 
 Reajusta a representação por serviço no exterior concedida aos Cônsules Privativos, padrão “M”, e aos Ex - Auxiliares de Consulado, padrão “N”.

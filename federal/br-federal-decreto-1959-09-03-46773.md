@@ -1,5 +1,3 @@
-###DEC-046773-0-000-03-09-1959@@@
-
 DECRETO Nº 46.773, DE 3 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro João César Favero a pesquisar caulim, feldspato e mica, no município de Bicas, Estado de Minas Gerais.

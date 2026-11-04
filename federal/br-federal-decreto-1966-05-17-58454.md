@@ -1,5 +1,3 @@
-###DEC-058454-0-000-17-05-1966@@@
-
 DECRETO Nº 58.454, DE 17 DE MAIO DE 1966.
 
 Outorga ao Município de Campo Alegre de Goiás concessão para o aproveitamento de energia hidráulica.

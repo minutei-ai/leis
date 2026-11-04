@@ -1,5 +1,3 @@
-###DEC-074686-0-000-14-10-1974@@@
-
 DECRETO Nº 74.686, DE 14 DE OUTUBRO DE 1974.
 
 Dispõe sobre a inclusão no Orçamento Federal, de dotações destinadas a assegurar a cobertura do Tesouro Nacional às despesas de custeio do Programa de Garantia da Atividade Agropecuária - PROAGRO.

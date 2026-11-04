@@ -1,7 +1,3 @@
-1
-
-###DEC-098046-0-000-14-08-1989@@@
-
 DECRETO Nº 98.046, DE 14 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de História da Faculdade de Filosofia Ciências e Letras Nossa Senhora do Patrocínio.

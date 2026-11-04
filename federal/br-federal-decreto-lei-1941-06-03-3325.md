@@ -1,5 +1,3 @@
-###DEL-003325-0-000-03-06-1941@@@
-
 DECRETO-LEI N. 3.325 – DE 3 DE JUNHO DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 87:766$9 para a execução do Registo Industrial.

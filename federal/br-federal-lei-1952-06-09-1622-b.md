@@ -1,12 +1,10 @@
-###LEI-001622-B-000-09-06-1952@@@
+**LEI Nº 1.622-B, DE 9 DE JUNHO DE 1952**
 
-<strong>LEI Nº 1.622-B, DE 9 DE JUNHO DE 1952</strong>
+***Concede isenção de impôsto de importação e taxas aduaneiras para material importado pela Santa Casa de Misericórdia de Maceió, Estado de Alagoas.***
 
-<em><strong>Concede isenção de impôsto de importação e taxas aduaneiras para material importado pela Santa Casa de Misericórdia de Maceió, Estado de Alagoas.</strong></em>
+**O CONGRESSO NACIONAL** decreta e eu promulgo, nos têrmos do art. 70, § 4º, da Constituição Federal, a seguinte Lei:
 
-<strong>O CONGRESSO NACIONAL</strong> decreta e eu promulgo, nos têrmos do art. 70, § 4º, da Constituição Federal, a seguinte Lei:
-
-<strong>Art</strong>. 1º É concedida isenção do impôsto de importação e taxas aduaneiras, excetuada a de previdência social, para o material de procedência inglêsa, que consta da relação abaixo, vindo para a Santa Casa de Misericórdia de Maceió, Estado de Alagoas, e destinado a ampliação do seus estabelecimentos hospitalares, bem como para a instalação de um Instituto de Radiologia e Câncer:
+**Art**. 1º É concedida isenção do impôsto de importação e taxas aduaneiras, excetuada a de previdência social, para o material de procedência inglêsa, que consta da relação abaixo, vindo para a Santa Casa de Misericórdia de Maceió, Estado de Alagoas, e destinado a ampliação do seus estabelecimentos hospitalares, bem como para a instalação de um Instituto de Radiologia e Câncer:
 
 a) 2 (dois) elevadores próprios para transporte de leitos;
 
@@ -18,11 +16,11 @@ d) 2 (duas) mesa cirúrgicas, 6 (seis) mesas auxiliares, 4 (quatro) mesas de May
 
 e) 2 (duas) mesas obstétricas, 6 (seis) mesas auxiliares, 2 (duas) mesas para anestesia e 6 (seis) baldes;
 
-f) 1 (um) aparelho para radioterapia profunda Stabili<em>v</em>olt <em>Siemens</em>, com dispositivo de convergência (conjunto completo);
+f) 1 (um) aparelho para radioterapia profunda Stabili*v*olt *Siemens*, com dispositivo de convergência (conjunto completo);
 
-g) 1 (um) aparelho de radiodiagnóstico de quinhentos mil <em>ampères</em> (completo);
+g) 1 (um) aparelho de radiodiagnóstico de quinhentos mil *ampères* (completo);
 
-h) 100 (cem) miligramas de <em>rádium</em>;
+h) 100 (cem) miligramas de *rádium*;
 
 i) 2 (duas) instalações de ar condicionado para os dois conjuntos cirúrgicos do hospital;
 
@@ -46,10 +44,10 @@ r) 600 (seiscentos) metros quadrados de azulejos coloridos;
 
 s) 1 (uma) instalação de ointer-comunicação para 40 (quarenta) telefones e respectivos pertences.
 
-<strong>Art</strong>. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 SENADO FEDERAL, EM 9 DE JUNHO DE 1952.
 
-<strong>ETELVINO LINS</strong>
+**ETELVINO LINS**
 
 1º SECRETÁRIO, no exercício da PRESIDÊNCIA

@@ -1,5 +1,3 @@
-###DEL-000158-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 158, DE 10 DE FEVereIRO DE 1967
 
 Dispõe sôbre a aposentadoria especial do aeronauta e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086517-0-000-30-10-1981@@@
-
 Decreto nº 86.517, de 30 de outubro de 1981
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

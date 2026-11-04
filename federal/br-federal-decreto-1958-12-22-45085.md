@@ -1,5 +1,3 @@
-###DEC-045085-0-000-22-12-1958@@@
-
 DECRETO Nº 45.085, DE 22 DE DEZEMBRO DE 1958.
 
 Concede à sociedade Navegação e Comércio Minas Gerais Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

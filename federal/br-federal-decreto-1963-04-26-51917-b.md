@@ -1,5 +1,3 @@
-###DEC-051917-B-000-26-04-1963@@@
-
 DECRETO Nº 51.917-B, DE 26 DE ABRIL DE 1963.
 
 Dá nova redação ao § 1º do artigo 51 do Decreto nº 50.821, de 22 de junho de 1961.

@@ -1,12 +1,10 @@
-###EMC-000061-0-000-11-11-2009@@@
+**EMENDA CONSTITUCIONAL Nº 61**
 
-<strong>EMENDA CONSTITUCIONAL Nº 61</strong>
-
-<em><strong>Altera o art. 103-B da Constituição Federal, para modificar a composição do Conselho Nacional de Justiça.</strong></em>
+***Altera o art. 103-B da Constituição Federal, para modificar a composição do Conselho Nacional de Justiça.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art.</strong> 1º O art. 103-B da Constituição Federal passa a vigorar com a seguinte redação:
+**Art.** 1º O art. 103-B da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 103-B. O Conselho Nacional de Justiça compõe-se de 15 (quinze) membros com mandato de 2 (dois) anos, admitida 1 (uma) recondução, sendo:
 
@@ -20,66 +18,66 @@ I - o Presidente do Supremo Tribunal Federal;
 
 .........................................................................................” (NR)
 
-<strong>Art.</strong> 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art.** 2º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 11 de novembro de 2009.
 
                                                                           MESA DA CÂMARA DOS DEPUTADOS
 
-<strong>DEPUTADO MICHEL TEMER</strong>
+**DEPUTADO MICHEL TEMER**
 
  Presidente
 
-<strong>DEPUTADO MARCO MAIA</strong>
+**DEPUTADO MARCO MAIA**
 
 1º Vice-Presidente
 
-<strong>DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO</strong>
+**DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO RAFAEL GUERRA</strong>
+**DEPUTADO RAFAEL GUERRA**
 
 1º Secretário
 
-<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO OLIVEIRA**
 
 2º Secretário
 
-<strong>DEPUTADO ODAIR CUNHA</strong>
+**DEPUTADO ODAIR CUNHA**
 
 3º Secretário
 
-<strong>DEPUTADO NELSON MARQUEZELLI</strong>
+**DEPUTADO NELSON MARQUEZELLI**
 
 4º Secretário
 
                                                                                 MESA DO SENADO FEDERAL
 
-<strong>SENADOR JOSÉ SARNEY</strong>
+**SENADOR JOSÉ SARNEY**
 
  Presidente
 
-<strong>SENADOR MARCONI PERILLO</strong>
+**SENADOR MARCONI PERILLO**
 
 1º Vice-Presidente
 
-<strong>SENADORA SERYS SLHESSARENKO</strong>
+**SENADORA SERYS SLHESSARENKO**
 
 2º Vice-Presidente
 
-<strong>SENADOR HERÁCLITO FORTES</strong>
+**SENADOR HERÁCLITO FORTES**
 
 1º Secretário
 
-<strong>SENADOR JOÃO VICENTE CLAUDINO</strong>
+**SENADOR JOÃO VICENTE CLAUDINO**
 
 2º Secretário
 
-<strong>SENADOR MÃO SANTA</strong>
+**SENADOR MÃO SANTA**
 
 3º Secretário
 
-<strong>SENADOR CÉSAR BORGES</strong>
+**SENADOR CÉSAR BORGES**
 
 no exercício da 4ª Secretaria

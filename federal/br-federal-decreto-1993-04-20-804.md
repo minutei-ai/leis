@@ -1,5 +1,3 @@
-###DEC-000804-0-000-20-04-1993@@@
-
 DECRETO N° 804, DE 20 DE ABRIL DE 1993
 
 Altera a redação dos arts. 6° e 7° do Decreto n° 99.188, de 17 de março de 1990.

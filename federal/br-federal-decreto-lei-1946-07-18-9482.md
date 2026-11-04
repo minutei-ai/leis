@@ -1,5 +1,3 @@
-###DEL-009482-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.482  – DE 18 DE JULHO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República.

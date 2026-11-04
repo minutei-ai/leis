@@ -1,5 +1,3 @@
-###DEC-058096-0-000-29-03-1966@@@
-
 DECRETO Nº 58.096, DE 29 DE MARÇO DE 1966.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$820.000.000 para o fim que especifica.

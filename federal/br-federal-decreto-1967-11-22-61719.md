@@ -1,5 +1,3 @@
-###DEC-061719-0-000-22-11-1967@@@
-
 DECRETO Nº 61.719, DE 22 DE NOVEMBRO DE 1967.
 
 Outorga à Companhia de Eletricidade de Pernambuco concessão para distribuir energia elétrica nos distritos de Goiania e Tejucopapo no município de Goiana, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-087371-0-000-07-07-1982@@@
-
 decreto nº 87.371, de 07 de julho de 1982
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-061124-0-000-01-08-1967@@@
-
 decreto nº 61.124, de 1º de agôsto de 1967.
 
 Acrescenta dispositivo do Decreto número 59.917, de 30 de dezembro de 1966 que regulamenta o SERFHAU - Serviço Federal de Habitação e Urbanismo, estabelece suas finalidades e modo de operação, cria o Fundo de Financiamento de Planos de Desenvolvimento Local integrado, e dá outras providências.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.358, DE 19 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fica o Poder Executivo autorizado a divulgar os direitos das pessoas com neoplasia maligna - câncer - pelos órgãos públicos do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fica o Poder Executivo autorizado a divulgar os direitos das pessoas com neoplasia maligna - câncer - pelos órgãos públicos do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

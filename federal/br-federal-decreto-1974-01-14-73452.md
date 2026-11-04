@@ -1,5 +1,3 @@
-###DEC-073452-0-000-14-01-1974@@@
-
 DECRETO N° 73.452, DE 14 DE JANEIRO DE 1974.
 
 Concede reconhecimento aos cursos de Educação Física (licenciatura) e Técnico em Desportos, da Faculdade de Educação Física de Sorocaba, mantida pela Associação Sorocabana de Educação e Cultura, com sede na cidade de Sorocaba, Estado de São Paulo.

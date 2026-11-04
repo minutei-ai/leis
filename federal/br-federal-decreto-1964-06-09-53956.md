@@ -1,5 +1,3 @@
-###DEC-053956-0-000-09-06-1964@@@
-
 DECRETO Nº 53.956, DE 9 DE JUNHO DE 1964.
 
 Modifica o Decreto nº 430, de 28 de dezembro de 1961 e dá outras providências.

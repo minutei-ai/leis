@@ -1,5 +1,3 @@
-###DEL-005071-0-000-11-12-1942@@@
-
 DECRETO-LEI N. 5.071 – DE 11 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Justiça e Negócios lnteriores, o crédito suplementar de Cr$ 50.000,00 à verba que especifica

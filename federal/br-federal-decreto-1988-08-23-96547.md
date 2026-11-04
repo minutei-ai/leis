@@ -1,5 +1,3 @@
-###DEC-096547-0-000-23-08-1988@@@
-
 DECRETO N° 96.547, DE 23 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO CURIMÃ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Imperatriz, Estado do Maranhão.

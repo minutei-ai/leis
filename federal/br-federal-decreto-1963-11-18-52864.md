@@ -1,5 +1,3 @@
-###DEC-052864-0-000-18-11-1963@@@
-
 DECRETO Nº 52.864, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza o Ministro da Fazenda a dar garantia do Tesouro Nacional às operações de crédito que menciona e dá outras providências.

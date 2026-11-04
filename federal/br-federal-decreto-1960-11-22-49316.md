@@ -1,5 +1,3 @@
-###DEC-049316-0-000-22-11-1960@@@
-
 DECRETO Nº 49.316, DE 22 DE NOVEMBRO DE 1960.
 
 Altera o Quadro de Pessoal da Administração do Pôrto do Rio de Janeiro, aprovado pelo Decreto nº 48.271, de 4 junho de 1960, e dá outras providências.

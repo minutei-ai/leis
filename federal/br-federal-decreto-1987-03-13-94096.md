@@ -1,5 +1,3 @@
-###DEC-094096-0-000-13-03-1987@@@
-
 DECRETO N° 94.096, DE 13 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São Pedro", constituído pelas Fazendas Marisa, Sônia e Santa Helena, classificado no Cadastro de Imóveis Rurais do INCRA, como latifúndio por exploração, situado no Município de Natividade, Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências,

@@ -2,7 +2,11 @@ Modificada pelas Leis nº [3.782, de 13 de Outubro de 2021;](https://legis.ac.go
 
 > **LEI Nº 3.760, DE 19 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa de Estímulo à Construção Civil para Geração de Emprego e Renda – PEC/GER-AC, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa de Estímulo à Construção Civil para Geração de Emprego e Renda – PEC/GER-AC, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -17,8 +21,6 @@ Modificada pelas Leis nº [3.782, de 13 de Outubro de 2021;](https://legis.ac.go
 **~~Parágrafo único.~~** ~~No âmbito do PEC/GER-AC serão adotadas as providências tratadas nesta lei, em caráter suplementar ao que dispõem os arts. 42 a 49 da Lei Complementar Federal nº 123, de 14 de abril de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte.~~
 
 **§ 1º** No âmbito do PEC/GER-AC serão adotadas as providências tratadas nesta lei, em caráter suplementar ao que dispõem os arts. 42 a 49 da Lei Complementar Federal nº 123, de 14 de abril de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte. (Transformado pela Lei nº 4.372, de 11/07/2024)
-
-<br>
 
 **§ 2º** É permitida a utilização do credenciamento como procedimento auxiliar de contratação. (Incluído pela Lei nº 4.372, de 11/07/2024)
 
@@ -46,15 +48,11 @@ Modificada pelas Leis nº [3.782, de 13 de Outubro de 2021;](https://legis.ac.go
 
 **Art. 6º** É obrigatória a exigência da documentação de que trata o art. 69 da Lei Federal nº 14.133, de 2021, para a garantia a capacidade operativa das empresas participantes. (Redação dada pela Lei nº 4.372, de 11/07/2024)
 
-<br>
-
 **~~Art. 6º-A~~** ~~Não se admitirá a participação simultânea de mesma microempresa ou empresa de pequeno porte em licitações cuja soma de valores globais, em que esta tenha se sagrado vencedora, ultrapasse o teto de R$ 400.000,00 (quatrocentos mil reais). (Incluído pela Lei nº 3.890, de 22/12/2021)~~
 
 **~~Art. 6º-A~~** ~~Não se admitirá a participação simultânea de mesma microempresa ou empresa de pequeno porte em licitações cuja soma de valores globais, em que esta tenha se sagrado vencedora, ultrapasse o teto de R$ 500.000,00 (quinhentos mil reais). (Redação dada pela Lei nº 4.364, de 10/06/2024)~~
 
 **Art. 6º-A** Não se admitirá a participação simultânea de mesma microempresa ou empresa de pequeno porte em procedimentos cuja soma de valores globais em que esta tenha se sagrado vencedora ultrapassa o teto de R$ 500.000,00 (quinhentos mil reais). (Redação dada pela Lei nº 4.372, de 11/07/2024)
-
-<br>
 
 **~~Art. 6º-B~~** ~~Será admitida mais de uma contratação de mesma microempresa ou empresa de pequeno porte no PEC/GER-AC, desde que a soma de valores de seus contratos, simultaneamente, em execução no âmbito do programa, não ultrapasse o teto de R$ 400.000,00 (quatrocentos mil reais).~~ ~~(Incluído pela Lei nº 3.890, de 22/12/2021)~~
 
@@ -70,9 +68,9 @@ Modificada pelas Leis nº [3.782, de 13 de Outubro de 2021;](https://legis.ac.go
 
 **Art. 9º** Fica o Poder executivo autorizado a abrir crédito adicional especial no valor de R$ 20.000.000,00 (vinte milhões de reais), suplementada, se necessário, nos orçamentos futuros.
 
-**~~Parágrafo único.~~** ~~O crédito adicional suplementar de que trata o **caput**, no valor de R$ 20.000.000,00 (vinte milhões de reais), será compensado de acor~~~~do com superávit financeiro apurado em balanço patrimonial do exercício anterior nos termos do disposto no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964.~~
+**~~Parágrafo único.~~** ~~O crédito adicional suplementar de que trata o **caput**, no valor de R$ 20.000.000,00 (vinte milhões de reais), será compensado de acordo com superávit financeiro apurado em balanço patrimonial do exercício anterior nos termos do disposto no inciso I do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964.~~
 
-**Parágrafo único.** O crédito adicional suplementar de que trata o **caput**, será compensado de acordo com excesso de arrecadação até o montante de R$ 20.000.000,00 (vinte milhões de reais), proveniente de excesso de arrecadação da Receita da COTA-PARTE DO FPE – (FONTE 100), nos termos do disposto no inciso II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964. (Redação dada pela Lei nº 3.782, de 13/10/2021)<br>
+**Parágrafo único.** O crédito adicional suplementar de que trata o **caput**, será compensado de acordo com excesso de arrecadação até o montante de R$ 20.000.000,00 (vinte milhões de reais), proveniente de excesso de arrecadação da Receita da COTA-PARTE DO FPE – (FONTE 100), nos termos do disposto no inciso II do § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964. (Redação dada pela Lei nº 3.782, de 13/10/2021)
 
 **~~Art. 10.~~** ~~As despesas decorrentes do PEC/GER-AC, correrão por conta da seguinte dotação orçamentária, consignada no orçamento vigente, suplementada, se necessário, inclusive nos orçamentos futuros:~~
 

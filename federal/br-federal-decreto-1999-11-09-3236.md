@@ -1,5 +1,3 @@
-###DEC-003236-0-000-09-11-1999@@@
-
 DECRETO N° 3.236, DE 9 DE NOVEMBRO DE 1999.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Reino da Tailândia sobre Isenção Parcial de Visto, celebrado em Brasília, em 21 de julho de 1997.
@@ -66,4 +64,14 @@ ARTIGO 5
 
 Feito em Brasília, em 21 de julho de 1997, em dois exemplares, nos idiomas português, tailandês e inglês. Em caso de divergência, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo do Reino da Tailândia</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pitak Intrawityanunt</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Vice-Ministro dos Negócios Estrangeiros</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:205.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo do Reino da Tailândia
+
+Luiz Felipe Lampreia
+
+Pitak Intrawityanunt
+
+Ministro de Estado das  Relações Exteriores
+
+Vice-Ministro dos Negócios Estrangeiros

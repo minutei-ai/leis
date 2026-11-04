@@ -1,5 +1,3 @@
-###DEC-087397-0-000-13-07-1982@@@
-
 Decreto nº 87.397, de 13 de julho de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

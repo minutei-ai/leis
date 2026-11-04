@@ -1,5 +1,3 @@
-###DEC-049286-0-000-18-11-1960@@@
-
 DECRETO Nº 49.286, DE 18 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Tito Ferreira da Silva a pesquisar calcário no município de Moema, Estado de Minas Gerais.

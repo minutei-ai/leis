@@ -1,5 +1,3 @@
-###DEC-069449-0-000-01-11-1971@@@
-
 DECRETO Nº 69.449 - DE 1º DE NOVEMBRO DE 1971
 
 Autoriza o funcionamento do Curso de Administração de Empresas da Faculdade de Ciências Contábeis de Itapetininga-SP.

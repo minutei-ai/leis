@@ -1,5 +1,3 @@
-###DEC-081914-0-000-11-07-1978@@@
-
 Decreto nº 81.914, de 11 de julho de 1978.
 
 Concede a Geraldo Lacerda de Oliveira - Firma Individual, o direito de lavrar diamante nos Municípios de Bocaiúva e Diamantina, Estado de Minas Gerais.

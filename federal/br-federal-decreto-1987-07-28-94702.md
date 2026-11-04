@@ -1,5 +1,3 @@
-###DEC-094702-0-000-28-07-1987@@@
-
 DECRETO Nº 94.702, DE 28 DE JULHO DE 1987.
 
 Autoriza o funcionamento do curso de Medicina Veterinária da Associação de Ensino de Marília.

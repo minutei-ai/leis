@@ -31,7 +31,3 @@ Palácio da Liberdade, Belo Horizonte, 16 de julho de 1943.
 BENEDITO VALADARES RIBEIRO
 
 Cristiano Monteiro Machado
-
-\======================================
-
-Data da última atualização: 04/09/2006.

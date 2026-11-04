@@ -1,5 +1,3 @@
-###DEC-059220-0-000-16-09-1966@@@
-
 DECRETO Nº 59.220, DE 16 DE SETEMBRO DE 1966.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

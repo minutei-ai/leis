@@ -1,5 +1,3 @@
-###DEC-077444-0-000-14-04-1976@@@
-
 DECRETO Nº 77.444 - DE 14 DE ABRIL DE 197.
 
 Regulamenta a concessão dos Incentivos Funcionais aos servidores do Grupo Pesquisa Científica e Tecnológica, do Serviço Civil da União e das Autarquias federais, e dá outras providências.

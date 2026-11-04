@@ -1,5 +1,3 @@
-###DEC-097448-0-000-12-01-1989@@@
-
 DECRETO Nº 97.448, DE 12 DE JANEIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDA BUENOS AIRES e BARREIRÃO”, classificados como “latifúndio por exploração”, situados no Município de Presidente Olegário, no Estado de Minas Gerais, compreendidos na zona prioritária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

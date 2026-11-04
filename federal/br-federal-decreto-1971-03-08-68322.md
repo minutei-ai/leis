@@ -1,5 +1,3 @@
-###DEC-068322-0-000-08-03-1971@@@
-
 DECRETO Nº 68.322, DE 8 DE MARÇO DE 1971.
 
 Altera o artigo 5º ao Decreto número 63.433, de 16 de outubro de 1968, que regulamenta a exportação temporária de produtos nacionais e nacionalizados.

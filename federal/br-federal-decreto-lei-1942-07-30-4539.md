@@ -1,5 +1,3 @@
-###DEL-004539-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.539 – DE 30 DE JULHO DE 1942
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 210:000$0 (duzentos e dez contos de réis), para atender ao pagamento de ajudas de custo.

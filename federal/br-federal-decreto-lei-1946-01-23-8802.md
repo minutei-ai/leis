@@ -1,5 +1,3 @@
-###DEL-008802-0-000-23-01-1946@@@
-
 DECRETO-LEI N. 8.802 – DE 23 DE JANEIRO DE 1946
 
 Dispõe sôbre o provimento dos cargos vagos criados pelo Decreto-lei número 8.498, de 28 de Dezembro de 1945.

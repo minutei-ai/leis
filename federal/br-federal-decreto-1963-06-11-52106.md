@@ -1,5 +1,3 @@
-###DEC-052106-0-000-11-06-1963@@@
-
 DECRETO Nº 52.106, DE 11 DE JUNHO DE 1963.
 
 Cria Grupo de Trabalho para propor medidas com objetivo de desenvolver a indústria nacional de fertilizantes e corretivos.

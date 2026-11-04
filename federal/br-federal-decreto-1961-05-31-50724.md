@@ -1,5 +1,3 @@
-###DEC-050724-0-000-31-05-1961@@@
-
 DECRETO Nº 50.724, DE 31 DE MAIO DE 1961.
 
 Autoriza Simab S.A. Comércio e Indústria, a comprar pedras preciosas.

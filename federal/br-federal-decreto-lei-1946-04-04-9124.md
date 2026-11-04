@@ -1,5 +1,3 @@
-###DEL-009124-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.124 – DE 4 DE ABRIL DE 1946
 
 Transforma o Departamento de Construções Proletárias da Secretaria Geral de Viação e Obras da Prefeitura do Distrito Federal em Departamento de Habitação Popular, e da outras providências.

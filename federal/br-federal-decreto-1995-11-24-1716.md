@@ -1,7 +1,3 @@
-1
-
-###DEC-001716-0-000-24-11-1995@@@
-
 DECRETO N° 1.716, DE 24 DE NOVEMBRO DE 1995.
 
 Dispõe sobre os procedimentos para escolha e nomeação de membros do Conselho Nacional de Educação, de que trata o art. 8° da Lei n° 4.024, de 20 de dezembro de 1961.

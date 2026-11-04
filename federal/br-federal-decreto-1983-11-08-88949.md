@@ -1,5 +1,3 @@
-###DEC-088949-0-000-08-11-1983@@@
-
 decreto nº 88.949, de 08 de novembro de 1983.
 
 Concede autorização ao navio de pesquisa norte-americano "ROBERT D. CONRAD" para realizar em águas brasileiras os serviços que especifica.

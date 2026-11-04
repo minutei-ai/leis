@@ -1,5 +1,3 @@
-###DEC-079353-0-000-08-03-1977@@@
-
 DECRETO Nº 79.353, DE 8 DE MARÇO DE 1977.
 
 Renova prazo de concessão outorgada à Fábrica de tecidos da Gabiroba S.A., para o uso exclusivo do aproveitamento hidráulico de um trecho do rio Candidópolis no Município de Presidente Vargas atual Município de Itabira, Estado de Minas Gerais.

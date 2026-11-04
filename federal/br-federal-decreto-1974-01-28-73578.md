@@ -1,5 +1,3 @@
-###DEC-073578-0-000-28-01-1974@@@
-
 DECRETO Nº 73.578, DE 28 DE JANEIRO DE 1974.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operações externas que especifica.

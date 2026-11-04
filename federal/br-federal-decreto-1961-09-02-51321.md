@@ -1,5 +1,3 @@
-###DEC-051321-0-000-02-09-1961@@@
-
 DECRETO Nº 51.321, DE 2 DE SETEMBRO DE 1961.
 
 Cria o Grupamento de Fuzileiros Navais de Brasília.

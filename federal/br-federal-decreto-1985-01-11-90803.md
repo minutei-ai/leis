@@ -1,5 +1,3 @@
-###DEC-090803-0-000-11-01-1985@@@
-
 Decreto nº 90.803, de 11 de janeiro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no Município de Catanduvas, Estado do Paraná.

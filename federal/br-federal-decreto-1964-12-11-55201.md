@@ -1,5 +1,3 @@
-###DEC-055201-0-000-11-12-1964@@@
-
 DECRETO Nº 55.201, DE 11 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Francisco Ferreira a pesquisar minério de ferro e manganês, no município de Sabará, Estado de Minas Gerais.

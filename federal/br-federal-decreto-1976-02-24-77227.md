@@ -1,5 +1,3 @@
-###DEC-077227-0-000-24-02-1976@@@
-
 DECRETO Nº 77.227, DE 24 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Letras, da Faculdade de Filosofia, Ciências e Letras de São Manuel com sede na cidade de São Manuel, Estado de São Paulo.

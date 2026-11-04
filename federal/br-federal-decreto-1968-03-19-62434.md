@@ -1,5 +1,3 @@
-###DEC-062434-0-000-19-03-1968@@@
-
 DECRETO Nº 62.434, DE 19 de MARÇO DE 1968.
 
 Retifica o Decreto nº 55.717, de 2 de fevereiro de 1965.

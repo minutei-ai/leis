@@ -1,7 +1,3 @@
-1
-
-###MPV-001259-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.259, DE 12 DE JANEIRO DE 1996.
 
 Dá nova redação a dispositivos da Lei nº 8.742, de 7 de dezembro de 1993, que dispõe sobre a organização da Assistência Social, e dá outras providências.

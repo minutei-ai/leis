@@ -28,6 +28,20 @@ Governador do Estado
 
 ~~SEMANAS alusivAs~~
 
-<table><tbody><tr><td><p><s>SEMANA</s></p></td><td><p><s>JANEIRO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>Terceira Semana</s></p></td><td><p><s>Semana de Conscientização sobre a Trombofilia.</s></p></td><td><p></p></td></tr><tr><td><p><s>............................</s></p></td><td><p><s>........................................................................</s></p></td><td><p><s>............................</s></p></td></tr></tbody></table>
+~~SEMANA~~
+
+~~JANEIRO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~Terceira Semana~~
+
+~~Semana de Conscientização sobre a Trombofilia.~~
+
+~~............................~~
+
+~~........................................................................~~
+
+~~............................~~
 
 ~~” (NR)~~

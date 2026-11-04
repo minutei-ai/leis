@@ -1,5 +1,3 @@
-###DEC-081576-0-000-18-04-1978@@@
-
 Decreto nº 81.576, de 18 de abril de 1978
 
 Retifica a concessão de lavra outorgada à Companhia de Mineração Novalimense pelo Decreto nº 61.759, de 23 de novembro de 1967.

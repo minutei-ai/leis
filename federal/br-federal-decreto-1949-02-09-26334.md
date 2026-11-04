@@ -1,14 +1,12 @@
-###DEC-026334-0-000-09-02-1949@@@
+**DECRETO Nº 26.334, DE 09 DE FEVEREIRO DE 1949.**
 
-<strong>DECRETO Nº 26.334, DE 09 DE FEVEREIRO DE 1949.</strong>
+***Altera o decreto n° 21.737, de 30 de agosto de 1946 que regula a concessão de auxilio para transporte ,ajuda de custo e diárias aos funcionários diplomáticos e consulares***
 
-<em><strong>Altera o decreto n° 21.737, de 30 de agosto de 1946 que regula a concessão de auxilio para transporte ,ajuda de custo e diárias aos funcionários diplomáticos e consulares</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição ,e tendo em vista o disposto no decreto lei número 7.410, de 23 de março de 1945,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição ,e tendo em vista o disposto no decreto lei número 7.410, de 23 de março de 1945,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º O art.1° e seus parágrafos do decreto lei n° 21.737, de 30 de agosto de 1946, passam a ser os seguintes:
+**Art**. 1.º O art.1° e seus parágrafos do decreto lei n° 21.737, de 30 de agosto de 1946, passam a ser os seguintes:
 
 “Art. 1.° Aos funcionários  da carreira de Diplomata , removidos para qualquer posto ,quanto a remoção importar em deslocamento de uma para outra  cidade, serão concedidos:
 
@@ -30,7 +28,7 @@ IV os tutelados e curatelados indigentes.
 
 § 3° O auxilio a que se refere o paragrafo anterior serra , nas mesmas condições concedido aos primeiros , segundos e terceirossecretarios , Consules <Consules adjunto, e vice; Consules com filhos menores de 12 anos.”
 
-<strong>Art</strong>. 2º O art. 2° e seus parágrafos do decreto n° 21.737,de30 de agosto de 1946,passam a ser os seguintes:
+**Art**. 2º O art. 2° e seus parágrafos do decreto n° 21.737,de30 de agosto de 1946,passam a ser os seguintes:
 
 “Art. 2° O auxilio para transporte serra a razão da distancia  entre os diferentes postos , de acordo com os registro existentes no ministério da das Relações exteriores e na base de Cr$:3,00 por milha de fração.
 
@@ -46,10 +44,10 @@ c) serviçais  Cr$ 2,30 por milha ou fração.
 
 § 3° Na fixação do suplemento referido no parágrafo anterior , será considerada a peculiaridade de cada caso , concreto.
 
-<strong>Art</strong>. 3º Este decreto entrará em vigorem 1° de janeiro  de 1949,revogadas as disposições em contrário.
+**Art**. 3º Este decreto entrará em vigorem 1° de janeiro  de 1949,revogadas as disposições em contrário.
 
 Rio de Janeiro, 9 de Fevereiro de 1949; 128.º da Independência e 61.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Raul Fernandes

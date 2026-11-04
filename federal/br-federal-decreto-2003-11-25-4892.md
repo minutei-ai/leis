@@ -1,5 +1,3 @@
-###DEC-004892-0-000-25-11-2003@@@
-
 DECRETO Nº 4.892,  DE 25 DE NOVEMBRO DE 2003.
 
        Regulamenta a Lei Complementar nº 93, de 4 de fevereiro de 1998, que criou o Fundo de Terras e da Reforma Agrária, e dá outras providências.

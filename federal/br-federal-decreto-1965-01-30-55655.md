@@ -1,5 +1,3 @@
-###DEC-055655-0-000-30-01-1965@@@
-
 DECRETO Nº 55.655, DE 30 DE JANEIRO DE 1965.
 
 Autoriza o Govêrno do Estado de Santa Catarina a pesquisar apatita no município de Anitápolis, Estado de Santa Catarina.

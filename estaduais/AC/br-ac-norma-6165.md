@@ -1,6 +1,10 @@
 > **LEI Nº 4.402, DE 24 DE SETEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Ementa da Lei nº 3.820, de 3 de dezembro de 2021 que dispõe sobre a validade do laudo médico pericial que atesta deficiência físicas, mentais e/ou intelectuais de caráter irreversível.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Ementa da Lei nº 3.820, de 3 de dezembro de 2021 que dispõe sobre a validade do laudo médico pericial que atesta deficiência físicas, mentais e/ou intelectuais de caráter irreversível.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual c/c o art. 58, § 1º, X do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

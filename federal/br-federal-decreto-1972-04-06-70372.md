@@ -1,5 +1,3 @@
-###DEC-070372-0-000-06-04-1972@@@
-
 DECRETO Nº 70.372, DE 6 DE ABRIL DE 1972.
 
 Aproveita no Ministério da Aeronáutica servidora disponível do extinto Território Federal de Ponta Porã, e dá outras providências.

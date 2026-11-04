@@ -1,5 +1,3 @@
-###DEC-046635-0-000-17-08-1959@@@
-
 DECRETO Nº 46.635, DE 17 DE AGôSTO DE 1959.
 
 Declara de utilidade pública as áreas de terra e as benfeitorias, por acaso nelas existentes, necessários à construção do reservatório de acumulação da usina Jurumirim, no rio Paranapanema, Estado de São Paulo e autoriza a Usinas Elétricas do Paranapanema S.A. a promover desapropriação.

@@ -1,5 +1,3 @@
-###DEC-054446-0-000-13-10-1964@@@
-
 decreto nº 54.446, de 13 de outubro de 1964.
 
 Autoriza o cidadão brasileiro José Diniz a pesquisar quartzo e mica, no município de Santa Maria do Suaçuí, Estado de Minas Gerais.

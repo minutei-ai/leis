@@ -1,7 +1,3 @@
-1
-
-###DEC-001114-0-000-19-04-1994@@@
-
 DECRETO N° 1.114, DE 19 DE ABRIL DE 1994
 
 Dá nova redação ao art. 2º do Decreto nº 607, de 20 de julho de 1992, que dispõe sobre a composição do Conselho de Gestão da Previdência Complementar, e dá outras providências.

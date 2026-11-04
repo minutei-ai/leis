@@ -1,5 +1,3 @@
-###DEC-047727-0-000-29-01-1960@@@
-
 DECRETO N.º 47.727, DE 29 DE JANEIRO DE 1960.
 
 Renova o Decreto n.º42.360, de 27 de setembro de 1957.

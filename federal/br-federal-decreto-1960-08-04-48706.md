@@ -1,5 +1,3 @@
-###DEC-048706-0-000-04-08-1960@@@
-
 DECRETO Nº 48.706, DE 04 DE agôsto DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona situado no Município de Ouro Fino, no Estado de Minas Gerais.

@@ -128,7 +128,8 @@ IV – 1 (um) representante titular da Secretaria de Governo e 1 (um) suplente;�
 
 V – 1 (um) representante titular da Secretaria Municipal de comunicação e 1 (um) suplente.
 
-VI – 1 (um) representante do Poder Legislativo de Aparecida de Goiânia-GO e 1 (um) suplente.<br>
+VI – 1 (um) representante do Poder Legislativo de Aparecida de Goiânia-GO e 1 (um) suplente.
+
 (Redação alterada pela Lei Ordinária nº 3.667, de 16 de maio de 2022).
 
 ~~Art. 11. Fica criada a comissão Mista de Reavaliação de Informações com a seguinte representação.~~
@@ -143,7 +144,8 @@ VI – 1 (um) representante do Poder Legislativo de Aparecida de Goiânia-GO e 1
 
 ~~V.    04 (quatro) representantes indicados pela Chefia da Casa Civil.~~
 
-~~VI.    04 (quatro) representantes indicados pela Secretaria Municipal de Ciência e Tecnologia e Inovação.~~<br>
+~~VI.    04 (quatro) representantes indicados pela Secretaria Municipal de Ciência e Tecnologia e Inovação.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 3.569, de 3 de julho de 2020).~~
 
 ~~Art. 11 - Fica criada a Comissão Mista de Reavaliação de Informações com a seguinte representação efetivo e respectivos suplentes:~~
@@ -160,17 +162,20 @@ VI – 1 (um) representante do Poder Legislativo de Aparecida de Goiânia-GO e 1
 
 ~~VI – 1 (um) representante da Secretaria Municipal de Ciência, Tecnologia e Inovação.~~
 
-§ 1º. A comissão será presidida pelo Titular da Secretaria Municipal de Transparência Fiscalização e Controle.<br>
+§ 1º. A comissão será presidida pelo Titular da Secretaria Municipal de Transparência Fiscalização e Controle.
+
 (Redação alterada pela Lei Ordinária nº 3.667, de 16 de maio de 2022).
 
 ~~§1º. A nomeação dos membros da Comissão Mista de Reavaliação de Informações, inclusive seu Presidente, é da competência do Prefeito Municipal, para mandato de quatro anos.~~
 
-§ 2º. A indicação dos membros da Comissão Mista de Reavaliação de Informações, será de competência do titular da pasta representada, para o mandato de um ano. <br>
+§ 2º. A indicação dos membros da Comissão Mista de Reavaliação de Informações, será de competência do titular da pasta representada, para o mandato de um ano. 
+
 (Redação alterada pela Lei Ordinária nº 3.667, de 16 de maio de 2022).
 
 ~~§2º. O membro da Comissão Mista de Reavaliação de Informações poderá ser desligado da função nos casos de renúncia, falta injustificada a três reuniões consecutivas ou desligamento do órgão que representa.~~
 
-§ 3º. A nomeação será formalizada por meio de Portaria expedida pela Secretaria Municipal de Transparência Fiscalização e Controle.<br>
+§ 3º. A nomeação será formalizada por meio de Portaria expedida pela Secretaria Municipal de Transparência Fiscalização e Controle.
+
 (Redação acrescentada pela Lei Ordinária nº 3.667, de 16 de maio de 2022).
 
 Art. 12 - Cabe à Comissão Mista de Reavaliação de Informações:
@@ -299,14 +304,18 @@ Art. 19 – Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 26 de junho de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito de Aparecida de Goiânia
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Chefe da Casa Civil
 
-EINSTEIN A. FERREIRA PANIAGO<br>
+EINSTEIN A. FERREIRA PANIAGO
+
 Secretário de Transparência, Fiscalização e Controle
 
-FÁBIO CAMARGO FERREIRA<br>
-Procurador Geral do Município<br>
+FÁBIO CAMARGO FERREIRA
+
+Procurador Geral do Município

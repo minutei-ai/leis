@@ -1,5 +1,3 @@
-###DEC-007553-0-000-12-08-2011-PUB-01@@@
-
 DECRETO Nº  7.553, DE 12 DE AGOSTO DE 2011
 
 Dá nova redação ao art. 3 do Decreto nº  3.500, de 9 de junho de 2000, que dispõe sobre a Comissão Nacional de Classificação - CONCLA.

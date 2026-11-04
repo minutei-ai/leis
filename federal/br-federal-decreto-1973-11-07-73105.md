@@ -1,5 +1,3 @@
-###DEC-073105-0-000-07-11-1973@@@
-
 DECRETO Nº 73.105 - DE 7 DE NOVEMBRO DE 1973
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

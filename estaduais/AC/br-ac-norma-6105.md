@@ -1,6 +1,10 @@
 > **LEI Nº 4.374, DE 11 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.549, de 2 de dezembro de 2019, que institui o Regime de Previdência Complementar do Estado, para dispor sobre o prazo para opção desse Regime.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.549, de 2 de dezembro de 2019, que institui o Regime de Previdência Complementar do Estado, para dispor sobre o prazo para opção desse Regime.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

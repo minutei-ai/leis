@@ -1,5 +1,3 @@
-###DEC-052352-0-000-12-08-1963@@@
-
 DECRETO Nº 52.352, DE 12 DE AGÔSTO DE 1963.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Justiça e Negócios Interiores.

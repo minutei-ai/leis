@@ -1,5 +1,3 @@
-###DEC-097476-0-000-25-01-1989@@@
-
 DECRETO N° 97.476, DE 25 DE JANEIRO DE 1989
 
 Declara de utilidade pública as instituições que menciona.

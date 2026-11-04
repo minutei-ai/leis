@@ -1,5 +1,3 @@
-###DEC-007334-0-000-19-10-2010-PUB-01@@@
-
 DECRETO Nº 7.334, DE 19 DE OUTUBRO DE 2010.
 
 Institui o Censo do Sistema Único de Assistência Social - Censo SUAS, e dá outras providências.

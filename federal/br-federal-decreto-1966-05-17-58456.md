@@ -1,5 +1,3 @@
-###DEC-058456-0-000-17-05-1966@@@
-
 DECRETO Nº 58.456, de 17 de maio de 1966.
 
 Declara a cessação dos serviços de energia elétrica executado no Município de Dois Córregos, Estado de São Paulo, pela Companhia Independência de Eletricidade e outorga concessão à Companhia Paulista de Fôrça e Luz.

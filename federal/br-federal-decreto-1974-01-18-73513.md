@@ -1,5 +1,3 @@
-###DEC-073513-0-000-18-01-1974@@@
-
 DECRETO Nº 73.513, DE 18 DE JANEIRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de imóvel em Blumenau, SC, destinado ao Ministério do Exército.

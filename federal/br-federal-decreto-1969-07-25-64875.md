@@ -1,5 +1,3 @@
-###DEC-064875-0-000-25-07-1969@@@
-
 DECRETO Nº 64.875 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto número 18.766 de 30 de maio de 1945.

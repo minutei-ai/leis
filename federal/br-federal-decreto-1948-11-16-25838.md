@@ -1,24 +1,22 @@
-###DEC-025838-0-000-16-11-1948@@@
+**DECRETO N° 25.838, DE 16 DE NOVEMBRO DE 1948.**
 
-<strong>DECRETO N° 25.838, DE 16 DE NOVEMBRO DE 1948.</strong>
+***Outorga concessão à Rádio Chavantes S. A., para estabelecer uma estação radiodifusora na cidade de Ipameri, Estado de Goiás.***
 
-<em><strong>Outorga concessão à Rádio Chavantes S. A., para estabelecer uma estação radiodifusora na cidade de Ipameri, Estado de Goiás.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.° I, da Constituição, atendendo ao que requereu a Rádio Chavantes S. A., e tendo em vista o disposto no art. 6.°, n.° XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.° I, da Constituição, atendendo ao que requereu a Rádio Chavantes S. A., e tendo em vista o disposto no art. 6.°, n.° XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão à Rádio Chavantes S. A. nos têrmos do artigo 11 do Decreto número 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Ipameri, Estado de Goiás, sem direito de exclusividade, uma estação radiodifusora, destinada a executar os serviços de radiodifusora, de acôrdo comas cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único – O contrato decorrente desta concessão deverá ser assinado dentro de 60 dias a contar da data da publicação dêste Decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único – O contrato decorrente desta concessão deverá ser assinado dentro de 60 dias a contar da data da publicação dêste Decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 16 de novembro de 1948; 127.° da Independência e 60.° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
-<strong>CLÁUSULA A QUE SE REFERE O DECRETO N° 25.838, DESTA DATA</strong>
+**CLÁUSULA A QUE SE REFERE O DECRETO N° 25.838, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizador, impor a concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias diretamente à concessionária ou da publicação do ato no <em>Diário Oficial.</em>
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias diretamente à concessionária ou da publicação do ato no *Diário Oficial.*
 
 VII
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 16 de novembro de 1948.
 
-<strong>CLÓVIS PESTANA</strong>
+**CLÓVIS PESTANA**

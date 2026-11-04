@@ -1,5 +1,3 @@
-###DEL-004512-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.512 – DE 23 DE JULHO DE 1942
 
 Modifica a taxa das máquinas dínamo-eIétricas compreendidas na Divisão C, alínea 1, 2 e 3, do art. 1.831, da Tarifa das Alfândegas, mandada executar pelo decreto-lei n. 2.873, de 18 de dezembro de 1940

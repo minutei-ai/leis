@@ -1,5 +1,3 @@
-###DEC-052475-0-000-13-09-1963@@@
-
 DECRETO Nº 52.475, DE 13 DE SETEMBRO DE 1963.
 
 Dispõe sôbre a remuneração do pessoal a serviço das emprêsas de navegação pertencentes à União e da outras providências.

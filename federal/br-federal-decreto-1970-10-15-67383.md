@@ -1,5 +1,3 @@
-###DEC-067383-0-000-15-10-1970@@@
-
 DECRETO Nº 67.383, DE 15 DE OUTUBRO DE 1970.
 
 Concede reconhecimento à Faculdade de Farmácia e Odontologia de Campo Grande, Mato Grosso.

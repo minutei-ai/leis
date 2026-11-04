@@ -1,5 +1,3 @@
-###DEC-075669-0-000-28-04-1975@@@
-
 DECRETO Nº 75.669, DE 28 DE ABRIL DE 1975
 
 Suprime cargo de Adido das Forças Armadas e dá nova redação à letra e do artigo 1º do Decreto nº 53.937, de 29 de maio de 1964, alterada pelo Decreto nº 70.159, de 17 de fevereiro de 1972, que fixa a lotação de Adidos e Adjuntos de Adido Naval, do Exército e Aeronáutico junto às representações diplomáticas no exterior.

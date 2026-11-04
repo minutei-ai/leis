@@ -1,5 +1,3 @@
-###DEC-054077-0-000-31-07-1964@@@
-
 DECRETO Nº 54.077, DE 31 DE JULHO DE 1964.
 
 Declara caduca a concessão outorgada pelo Decreto nº 38.563, de 13.01.56.

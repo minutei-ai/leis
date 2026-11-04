@@ -1,5 +1,3 @@
-###DEC-070587-0-000-23-05-1972@@@
-
 DECRETO Nº 70.587, DE 23 DE MAIO DE 1972.
 
 Retifica o artigo 1º do Decreto número 45.324, de 27 de janeiro de 1959.

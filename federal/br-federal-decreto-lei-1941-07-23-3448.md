@@ -1,5 +1,3 @@
-###DEL-003448-0-000-23-07-1941@@@
-
 DECRETO-LEI N. 3.448 – DE 23 DE JULHO DE 1941
 
 Cria, o  Quadro de Oficiais Auxiliares (Q.O. Aux.), no Corpo de Oficiais da Aeronáutica

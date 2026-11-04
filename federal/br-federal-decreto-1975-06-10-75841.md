@@ -1,5 +1,3 @@
-###DEC-075841-0-000-10-06-1975@@@
-
 DECRETO Nº 75.841, DE 10 DE JUNHO DE 1975.
 
 Estabelece normas para a fixação da lotação do Grupo - Magistério e da outras providências.

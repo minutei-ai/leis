@@ -1,5 +1,3 @@
-###DEC-086329-0-000-02-09-1981@@@
-
 Decreto nº 86.329, de 2 de setembro de 1981.
 
 Institui o Conselho Consultivo da Administração de Saúde Previdenciária - CONASP.

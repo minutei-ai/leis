@@ -1,5 +1,3 @@
-###DEC-065357-0-000-14-10-1969@@@
-
 DECRETO Nº 65.357 - DE 14 DE OUTUBRO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas e Administrativas de Botucatu - S.P.

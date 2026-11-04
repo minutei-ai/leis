@@ -1,5 +1,3 @@
-###DEC-081577-0-000-18-04-1978@@@
-
 DECRETO Nº 81.577, DE 18 DE ABRIL DE 1978.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias á implantação do Canteiro de Obras da Usina Hidroelétrica denominada Nova Avanhandava (ex-Rui Barbosa), da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

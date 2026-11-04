@@ -36,7 +36,7 @@ Inicia-se a descrição deste perímetro no vértice M4-A, de coordenadas N=8.14
 | --- |
 | **ÁREA** | **Dimensões Lineares e Confrontações das Quadras (em metros)** | **Área (m²)** |
 | --- | --- | --- |
-| **Logradouro** | **Frente** | **Fundo** | **Confr. Fundo** | **Lado** **Direito** | **Confr. LD** | **Lado** **Esquer do** | **Confr. LE** | **Chanfro** |
+| **Logradouro** | **Frente** | **Fundo** | **Confr. Fundo** | **LadoDireito** | **Confr. LD** | **LadoEsquer do** | **Confr. LE** | **Chanfro** |
 | QUADRA 01 | Avenida Bela Vista | 35,87 + 61,21 + 64,37 | 119,24 | Rua PJ2 | 65,73 + 43,15 | Rua 1º de Janeiro | 69,84 | Rua PJ1 | 8,23 D=17,27 R=8,00 8,91 7,07 | 14.884,08 |
 | QUADRA 02 | Rua 1º de Janeiro | 105,59+ 12,95 | 98,19 + 21,35 | RUA PJ1 | 71,68 + 1,64 | Rua da Sede | 114,47 | Rua PJ2 | 6,04 5,07 3,29 7,07 | 12.283,33 |
 |   | **Área** | **27.167,41** |
@@ -45,7 +45,7 @@ Inicia-se a descrição deste perímetro no vértice M4-A, de coordenadas N=8.14
 | --- |
 | **ÁREA** | **Dimensões Lineares e Confrontações dos Lotes (em metros)** | **Área ( m²)** |
 | --- | --- | --- |
-| **Logradouro** | **Frente** | **Fundo** | **Confr. Fundo** | **Lado Direito** | **Confr. LD** | **Lado** **Esquerdo** | **Confr. LE** | **Chanfro** |
+| **Logradouro** | **Frente** | **Fundo** | **Confr. Fundo** | **Lado Direito** | **Confr. LD** | **LadoEsquerdo** | **Confr. LE** | **Chanfro** |
 | Lote 1 | Avenida Bela Vista | 35,87 + 61,21 | 119,24 | Rua PJ2 | 58,08 + 47,94 + 43,15 | Lote 02 e Rua 1º de Janeiro | 69,84 | Rua PJ1 | 8,23 8,91 7,07 | 10.883,00 |
 | Lote 2 | Avenida Bela Vista | 64,37 | 47,94 | Lote 01 -Quadra 01 | 65,73 | Rua 1º de Janeiro | 58,08 | Lote 01 - Quadra 01 | D=17,27 R=8,00 | 4.001,08 |
 |   | **Área** | **14.884,08** |
@@ -54,7 +54,7 @@ Inicia-se a descrição deste perímetro no vértice M4-A, de coordenadas N=8.14
 | --- |
 | **ÁREA** | **Dimensões Lineares e Confrontações dos Lotes (em metros)** | **Área (m²)** |
 | --- | --- | --- |
-| **Logradouro** | **Frente** | **Fundo** | **Confr. Fundo** | **Lado Direito** | **Confr. LD** | **Lado** **Esquer do** | **Confr. LE** | **Chanfr o** |
+| **Logradouro** | **Frente** | **Fundo** | **Confr. Fundo** | **Lado Direito** | **Confr. LD** | **LadoEsquer do** | **Confr. LE** | **Chanfr o** |
 | Lote 01 | Rua 1º de Janeiro | 105,59 | 98,19 | Rua PJ1 | 84,01 | APM 01 – Área Verde | 114,47 | Rua PJ2 | 6,04 7,07 | 10.743,23 |
 | APM 01 - Área Verde | Rua da Sede | 71,68 + 1,64 | 84,01 | Lote 01 - Quadra 02 | 21,35 | Rua PJ1 | 12,95 | Rua 1º de Janeiro | 3,29 5,07 | 1.540,10 |
 |   | **Área** | **12.283,33** |
@@ -71,5 +71,6 @@ Aparecida de Goiânia, 9 de outubro de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

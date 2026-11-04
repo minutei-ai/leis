@@ -1,5 +1,3 @@
-###DEC-068956-0-000-20-07-1971@@@
-
 DECRETO Nº 68.956, de 20 de julho de 1971.
 
 Concede à Emprêsa de Caolim Ltda. o direito de lavrar pirofilita, no município de Onça do Pitanguí, Estado de Minas Gerais.

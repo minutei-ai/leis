@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212076)<br>
-
 # DECRETO N° 70.270, DE 22 DE DEZEMBRO DE 2025
 
 ### _Dispõe sobre a alteração do Regimento do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS._
@@ -20,12 +18,14 @@ Vahan Agopyan
 
 #### ANEXO
 
-#### ANEXO<br>
+#### ANEXO
+
 a que se refere o artigo 1° do [Decreto n° 58.385, de 13 de setembro de 2012](https://www.al.sp.gov.br/norma/168149)
 
 #### REGIMENTO DO CENTRO ESTADUAL DE EDUCAÇÃO TECNOLÓGICA "PAULA SOUZA" - CEETEPS
 
-#### TÍTULO I<br>
+#### TÍTULO I
+
 Da Natureza e Fins do CEETEPS
 
 **Artigo 1° -** O Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, criado pelo Decreto- Lei de 6 de outubro de 1969, como entidade autárquica, com sede e foro na Capital do Estado, investido de personalidade jurídica, com patrimônio próprio e autonomia administrativa, financeira, didática e disciplinar, na forma da legislação do país, e transformado em Autarquia de Regime Especial associada à Universidade Estadual Paulista "Júlio de Mesquita Filho", pela [Lei n° 952 de 30 de janeiro de 1976](https://www.al.sp.gov.br/norma/45520), reger-se-á pelas normas deste Regimento.
@@ -46,10 +46,12 @@ Da Natureza e Fins do CEETEPS
 
 2\. Cursos de Educação Superior.
 
-#### TÍTULO II<br>
+#### TÍTULO II
+
 Da Administração
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Conselho Deliberativo
 
 **Artigo 4° -** O CEETEPS terá um Conselho Deliberativo de caráter eminentemente especializado, integrado por pessoas de notória capacidade nas áreas relacionadas com os objetivos da Instituição.
@@ -110,7 +112,8 @@ XIV - fixar competências do Presidente e dos dirigentes das unidades administra
 
 XV - resolver os casos omissos.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Presidência
 
 **Artigo 7° -** As funções em confiança de Presidente e Vice-Presidente são privativas dos integrantes das carreiras docentes do CEETEPS e serão nomeados pelo Governador, com base em listas tríplices, uma para cada função, propostas pelo Conselho Deliberativo do CEETEPS.
@@ -121,7 +124,8 @@ Da Presidência
 
 **§ 3° -** No caso de vacância das funções em confiança de Presidente e Vice-Presidente, para o exercício de novo mandato, proceder-se-á a escolha e a nomeação no prazo de 60 (sessenta) dias.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Unidades de Ensino
 
 **Artigo 8° -** As Unidades de Ensino são as unidades locais destinadas à implementação das políticas educacionais do CEETEPS, constituídas pelas Escolas Técnicas Estaduais - ETECs, pelas Faculdades de Tecnologia - FATECs, executoras das atividades de educação profissional e tecnológica em seus diferentes níveis e de educação básica e superior.
@@ -130,10 +134,12 @@ Das Unidades de Ensino
 
 **Parágrafo único -** As atividades previstas para as Unidades de Ensino deverão contemplar o ensino e as suas relações com o setor produtivo e a comunidade externa, e quando pertinente, a pesquisa e a extensão.
 
-#### TÍTULO III<br>
+#### TÍTULO III
+
 Da Pesquisa e da Extensão de Serviços à Comunidade
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Pesquisa
 
 **Artigo 10 -** A pesquisa, no CEETEPS, terá como função específica, busca de novos conhecimentos, métodos e técnicas, e deverá ser entendida como indispensável recurso da educação, para o desenvolvimento da tecnologia.
@@ -152,7 +158,8 @@ V - divulgação dos resultados das pesquisas realizadas em suas unidades;
 
 VI - promoção de congressos, simpósios e seminários para estudos e debates.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Extensão de Serviços à Comunidade
 
 **Artigo 12 -** O CEETEPS estenderá também seus serviços para o desenvolvimento técnico e tecnológico da comunidade.
@@ -161,17 +168,20 @@ Da Extensão de Serviços à Comunidade
 
 **Parágrafo único -** O CEETEPS deverá oferecer serviços que definam como prolongamento de suas atividades de ensino e pesquisa.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Pessoal Docente e Técnico Administrativo
 
 **Artigo 14 -** A contratação do pessoal docente e técnico administrativo do CEETEPS dar-se-á por concurso público, na forma da lei.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Regime Disciplinar
 
 **Artigo 15 -** Cabe aos integrantes da carreira docente e servidores/empregados técnicos e administrativos, fiel observância dos preceitos exigidos para a manutenção da ordem, da dignidade e da disciplina no CEETEPS, em face do disposto no Regulamento Disciplinar dos Empregados Públicos do CEETEPS, aprovado pelo Conselho Deliberativo, nos respectivos Regimentos das ETECs e FATECs, e na legislação específica.
 
-#### TÍTULO IV<br>
+#### TÍTULO IV
+
 Do Patrimônio, dos Recursos e do Regime Financeiro
 
 **Artigo 16 -** Constituem patrimônio do CEETEPS:
@@ -212,7 +222,8 @@ V - rendas eventuais.
 
 **Artigo 19 -** Para as aquisições de bens, serviços e obras deverão ser observados os princípios da licitação, nos termos da legislação vigente.
 
-#### TÍTULO V<br>
+#### TÍTULO V
+
 Das Disposições Gerais e Transitórias
 
 **Artigo 20 -** O regulamento interno do Conselho Deliberativo de que trata o inciso II do artigo 6° deste Regimento, deverá ser elaborado e expedido no prazo de 120 (cento e vinte) dias.

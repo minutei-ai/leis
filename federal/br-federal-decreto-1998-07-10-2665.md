@@ -1,5 +1,3 @@
-###DEC-002665-0-000-10-07-1998@@@
-
 DECRETO Nº 2.665, DE 10 DE JULHO DE 1998
 
 Estabelece critérios para a percepção da Gratificação de Desempenho de Atividade de Ciência e Tecnologia pelos ocupantes de cargos de nível superior das carreiras de Pesquisa em Ciência e Tecnologia, de Desenvolvimento Tecnológico e de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia por servidores ocupantes de cargos efetivos e de empregos de nível superior mencionados no art. 27 da Lei nº 8.691, de 28 de julho de 1993.

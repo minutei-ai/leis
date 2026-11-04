@@ -1,5 +1,3 @@
-###MPV-001802-0-002-25-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.802-2, DE 25 DE FEVEREIRO DE 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

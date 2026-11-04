@@ -1,5 +1,3 @@
-###DEC-086767-0-000-22-12-1981@@@
-
 Decreto nº 86.767, de 22 de dezembro de 1981
 
 Autoriza o aumento do capital social da VALE DO RIO DOCE NAVEGAÇÃO S.A. - DOCE-NAVE.

@@ -1,5 +1,3 @@
-###DEC-066975-0-000-28-07-1970@@@
-
 DECRETO Nº 66.975, DE 28 DE JULHO DE 1970.
 
 Outorga a Companhia Telefônica do Rio Grande do Norte - TELERN - concessão para explorar o serviço de telefonia público urbano do Município de Natal, no Estado do Rio Grande do Norte.

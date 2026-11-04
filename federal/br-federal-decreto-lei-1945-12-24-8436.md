@@ -1,5 +1,3 @@
-###DEL-008436-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.436 – DE 24 DE DEZEMBRO DE 1945
 
 Revoga o Decreto-lei nº 7.246, de 16 de janeiro de 1945, e dá outras providências.

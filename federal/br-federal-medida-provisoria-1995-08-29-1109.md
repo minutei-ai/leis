@@ -1,5 +1,3 @@
-###MPV-001109-0-000-29-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.109, DE 29 DE AGOSTO DE 1995.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, e dá outras providências.

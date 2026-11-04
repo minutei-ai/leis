@@ -1,5 +1,3 @@
-###DEC-044974-0-000-02-12-1958@@@
-
 Decreto nº 44.974, de 2 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Theóphilo Badin, a pesquisar columbita e associados, no município de Paramarim, Estado da Bahia.

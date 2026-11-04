@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a0562cae-ecca-49e8-8801-2af59a988d67/texto#nowhere)
 
-###DEL-000964-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 964, DE 13 DE OUTUBRO DE 1969
 
 Altera o Decreto-lei nº 830, de 8 setembro de 1969.

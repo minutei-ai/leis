@@ -27,7 +27,6 @@ sha256_markdown: "942db8b854351acdd31e7300d79f4e4ab042a10786d2391eda095749ade8d6
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 79, DE 27 DE MAIO DE 2014
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 28.5.2014
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2014-05-27-79.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -120,8 +118,4 @@ Senadora ANGELA PORTELA 2ª Secretária
 
 Senador CIRO NOGUEIRA 3º Secretário
 
-Senador JOÃO VICENTE CLAUDINO 4º Secretário
-
-Este texto não substitui o publicado no DOU 28.5.2014
-
-\*
+Senador JOÃO VICENTE CLAUDINO 4º Secretário\*

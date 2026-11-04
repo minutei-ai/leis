@@ -1,5 +1,3 @@
-###DEC-045731-0-000-06-04-1959@@@
-
 DECRETO Nº 45.731, DE 6 DE ABRIL DE 1959.
 
 Autoriza a emprêsa de mineração Th. Badin de Minérios Ltda. a pesquisar columbia nos municípios de Rio de Contas, Livramento do Brumado e Paramirim, Estado da Bahia.

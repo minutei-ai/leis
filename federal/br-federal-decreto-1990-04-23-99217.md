@@ -1,7 +1,3 @@
-1
-
-###DEC-099217-0-000-23-04-1990@@@
-
 DECRETO Nº 99.217, DE 23 DE ABRIL DE 1990
 
 Dispõe sobre a coordenação das soleni­dades de substituição da Bandeira Nacio­nal, hasteada no mastro especial implantado na Praça dos Três Poderes, em Brasília, e dá outras providências.

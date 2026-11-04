@@ -1,6 +1,10 @@
 > **LEI Nº 3.221, DE 16 DE JANEIRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.153, de 29 de julho de 2016, que obriga os fornecedores de bens e serviços, que atuam no Estado, a fixar data e turno para entrega dos produtos ou realização dos serviços aos consumidores.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.153, de 29 de julho de 2016, que obriga os fornecedores de bens e serviços, que atuam no Estado, a fixar data e turno para entrega dos produtos ou realização dos serviços aos consumidores.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

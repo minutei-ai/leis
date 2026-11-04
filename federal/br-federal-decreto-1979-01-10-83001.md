@@ -1,5 +1,3 @@
-###DEC-083001-0-000-10-01-1979@@@
-
 Decreto nº 83.001, de 10 de janeiro de 1979
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "ACAUÃ", nos municípios de Aroeiras, Natuba e Umbuzeiros, Estado da Paraíba.

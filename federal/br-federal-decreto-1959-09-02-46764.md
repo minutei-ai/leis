@@ -1,5 +1,3 @@
-###DEC-046764-0-000-02-09-1959@@@
-
 decreto nº 46.764, de 2 de setembro de 1959.
 
 Concede à Ford Motor do Brasil S.A. autorização para continuar a funcionar na República.

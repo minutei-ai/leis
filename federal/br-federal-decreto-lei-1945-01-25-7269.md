@@ -1,5 +1,3 @@
-###DEL-007269-0-000-25-01-1945@@@
-
 DECRETO-LEI N. 7.269 – DE 25 DE JANEIRO DE 1945
 
 Dispõe sôbre as férias dos Ministros do Tribunal de Segurança Nacional

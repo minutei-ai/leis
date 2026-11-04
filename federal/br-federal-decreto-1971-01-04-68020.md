@@ -1,5 +1,3 @@
-###DEC-068020-0-000-04-01-1971@@@
-
 DECRETO Nº 68.020, DE 4 DE JANEIRO DE 1971.
 
 Declara de utilidade pública o Artezanato Nossa Senhora Aparecida, com sede em Valença, Estado do Rio de Janeiro.

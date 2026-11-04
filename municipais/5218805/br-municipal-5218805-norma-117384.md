@@ -46,7 +46,7 @@ a) Ensino superior completo em qualquer área de formação;
 
 **QUADRO EFETIVO ORDEM CARGO NÍVEL PADRÃO ORIGINÁRIO**
 
-<table style="width: 500px;"><tbody><tr><td style="text-align: center;"><strong>ORDEM</strong></td><td style="width: 131.683px; text-align: center;"><strong>CARGO</strong></td><td style="width: 37px; text-align: center;"><strong>NÍVEL</strong></td><td style="text-align: center; width: 219px;"><strong>PADRÃO ORIGINÁRIO (ANEXO IX DA LEI ORDEM CARGO NÍVEL COMPLEMENTAR MUNICIPAL Nº&nbsp;3.853/99)</strong></td></tr><tr><td colspan="1" rowspan="2" style="text-align: center;">01</td><td colspan="1" rowspan="2" style="width: 131.683px; text-align: center;">GUARDA MUNICIPAL CIVIL DE RIO VERDE-GO</td><td style="width: 37px; text-align: center;">I</td><td style="text-align: center; width: 219px;">X-A&nbsp; R$ 3.222,62</td></tr><tr><td style="width: 13px; text-align: center;">II</td><td style="text-align: center; width: 219px;">XI-A R$ 3.552,91</td></tr></tbody></table>
+<table><tbody><tr><td>**ORDEM**</td><td>**CARGO**</td><td>**NÍVEL**</td><td>**PADRÃO ORIGINÁRIO (ANEXO IX DA LEI ORDEM CARGO NÍVEL COMPLEMENTAR MUNICIPAL Nº&nbsp;3.853/99)**</td></tr><tr><td colspan="1" rowspan="2">01</td><td colspan="1" rowspan="2">GUARDA MUNICIPAL CIVIL DE RIO VERDE-GO</td><td>I</td><td>X-A&nbsp; R$ 3.222,62</td></tr><tr><td>II</td><td>XI-A R$ 3.552,91</td></tr></tbody></table>
 
 "
 

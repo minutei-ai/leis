@@ -1,5 +1,3 @@
-###DEC-056488-0-000-18-06-1965@@@
-
 DECRETO Nº 56.488, DE 18 DE JUNHO DE 1965.
 
 Declara de utilidade pública a “Conferência de São Vicente de Paulo de Goiânia”, capital do Estado de Goiás.

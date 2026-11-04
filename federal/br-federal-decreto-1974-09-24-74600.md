@@ -1,5 +1,3 @@
-###DEC-074600-0-000-24-09-1974@@@
-
 DECRETO Nº 74.600, DE 24 DE SETEMBRO DE 1974.
 
 Promulga o convênio sobre a Entrada de Navios Nucleares em Águas Brasileiras e sua Permanência em Portos Brasileiros.

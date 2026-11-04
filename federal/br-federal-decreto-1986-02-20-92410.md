@@ -1,5 +1,3 @@
-###DEC-092410-0-000-20-02-1986@@@
-
 DECRETO Nº 92.410, DE 20 DE FEVEREIRO DE 1986
 
 Altera o artigo 3º do Decreto nº 62.352, de 05 de março de 1968; modificado pelos Decretos nºs 90.008, de 31 de julho de 1984, e 92.206, de 24 de dezembro de 1985, que dispõe sobre a composição do Grupo Executivo da Indústria de Mineração (GEIMI), e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094995-0-000-05-10-1987@@@
-
 DECRETO Nº 94.995, DE 5 DE OUTUBRO DE 1987
 
 Outorga concessão a GASPAR RADIODIFUSÃO LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Itiquira, Estado de Mato Grosso.

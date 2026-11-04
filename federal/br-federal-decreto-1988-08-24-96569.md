@@ -1,5 +1,3 @@
-###DEC-096569-0-000-24-08-1988@@@
-
 DECRETO N° 96.569, DE 24 DE AGOSTO DE 1988
 
 Retifica o Decreto nº 95.794, de 08 de março de 1988.

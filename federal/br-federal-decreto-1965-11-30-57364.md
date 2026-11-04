@@ -1,5 +1,3 @@
-###DEC-057364-0-000-30-11-1965@@@
-
 DECRETO Nº 57.364, DE 30 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Alexandre Barni a pesquisar calcário no município de Vidal Ramos, Estado de Santa Catarina.

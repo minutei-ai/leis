@@ -1,5 +1,3 @@
-###DEC-049972-0-000-20-01-1961@@@
-
 DECRETO Nº 49.972, DE 20 DE JANEIRO DE 1961.
 
 Abre, ao Ministério da Educação e Cultura, os créditos especiais que indica.

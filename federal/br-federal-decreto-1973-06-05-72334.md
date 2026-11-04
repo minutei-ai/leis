@@ -1,5 +1,3 @@
-###DEC-072334-0-000-05-06-1973@@@
-
 DECRETO Nº 72.334, DE 5 DE JUNHO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.

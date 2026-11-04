@@ -1,5 +1,3 @@
-###DEC-052267-0-000-17-07-1963@@@
-
 Decreto nº 52.267, de 17 de julho de 1963.
 
 Dispõe sôbre um programa de educação de base e adota medidas necessárias à sua execução através de Escolas Radiofônicas nas áreas subdesenvolvidas do Norte, Nordeste, Centro-Oeste e em outras áreas em desenvolvimento do País a ser empreendida pela Conferência Nacional dos Bispos do Brasil.

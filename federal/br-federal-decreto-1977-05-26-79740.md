@@ -1,5 +1,3 @@
-###DEC-079740-0-000-26-05-1977@@@
-
 decreto nº 79.740, de 26 de maio de 1977.
 
 Concede reconhecimento ao curso de Letras, do Instituto de Ensino Superior Alto Uruguai, com sede na Cidade de Frederico Westphalen, Estado do Rio Grande do Sul.

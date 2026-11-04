@@ -1,5 +1,3 @@
-###DEC-057250-0-000-12-11-1965@@@
-
 DECRETO Nº 57.250, de 12 de novembro de 1965.
 
 Declara de utilidade pública o “Instituto Santa Lúcia”, com sede no Estado da Guanabara.

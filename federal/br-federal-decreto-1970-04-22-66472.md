@@ -1,5 +1,3 @@
-###DEC-066472-0-000-22-04-1970@@@
-
 DECRETO Nº 66.472, DE 22 DE ABRIL DE 1970.
 
 Autoriza funcionamento da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, no Estado da Paraíba.

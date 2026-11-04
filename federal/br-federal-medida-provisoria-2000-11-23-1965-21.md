@@ -1,5 +1,3 @@
-###MPV-001965-0-021-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-21, DE 23 DE novembro DE 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

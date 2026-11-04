@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210860)<br>
-
 # LEI COMPLEMENTAR N° 1.420, DE 10 DE ABRIL DE 2025
 
 ### _Altera dispositivos da Lei Complementar n.° 892, de 31 de janeiro de 2001, que estabelece critérios para promoção de Cabos e Soldados da Polícia Militar do Estado, e dá providências correlatas._

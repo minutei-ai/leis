@@ -1,5 +1,3 @@
-###DEC-049463-0-000-07-12-1960@@@
-
 DECRETO Nº 49.463, DE 7 DE DEZEMBRO DE 1960.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Montes Claros (MG).
@@ -19,8 +17,6 @@ Brasília, 7 de dezembro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Francisco de Mello
-
-###DEC-049463-0-000-07-12-1960@@@RET01+++
 
 DECRETO Nº 49.463, DE 7 DE DEZEMBRO DE 1960
 

@@ -1,5 +1,3 @@
-###DEC-059731-0-000-15-12-1966@@@
-
 DECRETO Nº 59.731, de 15 de Dezembro de 1966.
 
 Concede a Minas Pastoril S.A. autorização para funcionar como emprêsa de mineração.

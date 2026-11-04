@@ -1,5 +1,3 @@
-###DEC-054076-0-000-31-07-1964@@@
-
 DECRETO Nº 54.076, DE 31 DE JULHO DE 1964.
 
 Acrescenta parágrafo ao art. 3º do Decreto nº 52.401, de 23 de agôsto de 1963.

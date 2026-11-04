@@ -1,5 +1,3 @@
-###DEC-075843-0-000-10-06-1975@@@
-
 DECRETO Nº 75.843, DE 10 DE JUNHO DE 1975.
 
 Autoriza o Ministério da Fazenda a conceder a garantia da União para operação externa que menciona.

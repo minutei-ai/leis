@@ -1,5 +1,3 @@
-###DEC-077790-0-000-09-06-1976@@@
-
 Decreto nº 77.790, de 9 de junho de 1976.
 
 Extingue a "Reserva Indígena Tapayuna", no Município de Diamantina, Estado do Mato Grosso, e dá outras providências.

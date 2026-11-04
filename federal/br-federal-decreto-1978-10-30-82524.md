@@ -1,5 +1,3 @@
-###DEC-082524-0-000-30-10-1978@@@
-
 Decreto nº 82 542, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Administração, ministrado pela Faculdade de Administração de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

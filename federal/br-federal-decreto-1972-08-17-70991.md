@@ -1,5 +1,3 @@
-###DEC-070991-0-000-17-08-1972@@@
-
 DECRETO Nº 70.991, DE 17 DE AGOSTO DE 1972.
 
 Concede a José Peres de Moura, firma individual, o direito de lavrar grafita no município de Arcos, Estado de Minas Gerais.

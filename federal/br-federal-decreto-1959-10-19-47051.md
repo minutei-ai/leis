@@ -1,5 +1,3 @@
-###DEC-047051-0-000-19-10-1959@@@
-
 DECRETO Nº 47.051, DE 19 DE OUTUBRO DE 1959.
 
 Institui a Comissão de Assistência às Fundações Educacionais.

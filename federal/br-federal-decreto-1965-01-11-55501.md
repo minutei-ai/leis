@@ -1,5 +1,3 @@
-###DEC-055501-0-000-11-01-1965@@@
-
 DECRETO Nº 55.501, de 11 de janeiro de 1965.
 
 Autoriza a cidadã brasileira Maria Amélia Pôrto de Toledo Piza, a pesquisar caulim e mica, no município de Paraíbuna, Estado de São Paulo.

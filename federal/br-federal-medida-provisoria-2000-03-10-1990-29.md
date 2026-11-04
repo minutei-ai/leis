@@ -1,5 +1,3 @@
-###MPV-001990-0-029-10-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.990-29, DE 10 de março de 2000.
 
 Altera a legislação do imposto de renda relativamente à incidência na fonte sobre rendimentos de aplicações financeiras, inclusive de beneficiários residentes ou domiciliados no exterior, à conversão, em capital social, de obrigações no exterior de pessoas jurídicas domiciliadas no País, amplia as hipóteses de opção, pelas pessoas físicas, pelo desconto simplificado, regula a informação, na declaração de rendimentos, de depósitos mantidos em bancos no exterior, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077517-0-000-29-04-1976@@@
-
 DECRETO Nº 77.517 - DE 29 DE ABRIL DE 1976
 
 Altera a redação do artigo 3º do Decreto nº 75.370, de 13 de fevereiro de 1975, que institui mecanismo de Coordenação e Acompanhamento dos Programas Especiais do II Plano Nacional de Desenvolvimento (PND).

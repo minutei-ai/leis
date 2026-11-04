@@ -1,5 +1,3 @@
-###DEC-067157-0-000-11-09-1970@@@
-
 Decreto nº 67.157, de 11 de setembro de 1970.
 
 Declara de utilidade pública à Confederação Nacional das Congregações Marianas do Brasil, com sede no Estado da Guanabara.

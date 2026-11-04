@@ -1,5 +1,3 @@
-###DEC-084572-0-000-17-03-1980@@@
-
 decreto nº 84.572, de 17 de março de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado de Mato Grosso do Sul.

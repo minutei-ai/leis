@@ -1,5 +1,3 @@
-###DEC-089656-0-000-15-05-1984@@@
-
 DECRETO Nº 89.656, de 15 de maio de 1984.
 
 Altera a localização da sede do COMANDO DA 2ª DIVISÃO DE EXÉRCITO no Ministério do Exército e dá outras providências.

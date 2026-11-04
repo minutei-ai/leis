@@ -1,5 +1,3 @@
-###DEC-047799-0-000-12-02-1960@@@
-
 DECRETO Nº 47.799, DE 12 DE FEVEREIRO DE 1960.
 
 Altera o Parágrafo Único do Art. 2º do Regulamento do Arquivo do Exército, aprovado pelo Dec. nº 614, de 30 de janeiro de 1936, alterado pelos Dec. nº 29.189, de 24 de janeiro de 1951 e Dec. nº 46.759, de 1 de setembro de 1959.

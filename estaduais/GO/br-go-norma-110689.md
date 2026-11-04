@@ -1,4 +1,5 @@
-DECRETO Nº 10.693, DE 17 DE MAIO DE 2025<br>
+DECRETO Nº 10.693, DE 17 DE MAIO DE 2025
+
 (NORMA CADUCADA)
 
 Decreta situação de emergência zoossanitária no Estado de Goiás, de forma preventiva, para a mitigação do risco da influenza aviária de alta patogenicidade.

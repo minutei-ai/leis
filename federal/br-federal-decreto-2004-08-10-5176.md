@@ -1,5 +1,3 @@
-###DEC-005176-0-000-10-08-2004@@@
-
 DECRETO Nº 5.176 DE 10 DE AGOSTO DE 2004
 
 Regulamenta a carreira de Especialista em Políticas Públicas e Gestão Governamental \- EPPGG e dá outras providências.

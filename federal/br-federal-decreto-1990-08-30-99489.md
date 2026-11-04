@@ -1,7 +1,3 @@
-1
-
-###DEC-099489-0-000-30-08-1990@@@
-
 DECRETO Nº 99.489, DE 30 DE AGOSTO DE 1990
 
 Declara de utilidade pública o HOSPITAL DE CARIDADE NOSSA SENHORA DAS GRAÇAS (BOSSOROCA/RS) e outras entidades.

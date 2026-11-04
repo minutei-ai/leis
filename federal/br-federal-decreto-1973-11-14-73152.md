@@ -1,5 +1,3 @@
-###DEC-073152-0-000-14-11-1973@@@
-
 DECRETO Nº 73.152 - DE 14 DE NOVEMBRO DE 1973
 
 Revoga o Decreto nº 62.269, de 15 de fevereiro de 1968.

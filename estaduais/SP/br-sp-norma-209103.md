@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209103)<br>
-
 # DECRETO N° 68.328, DE 07 DE FEVEREIRO DE 2024
 
 ### Autoriza o Fundo Social de São Paulo - FUSSP a representar o Estado de São Paulo na celebração de convênios com municípios paulistas, visando à realização de cursos no âmbito do Programa Escola de Qualificação Profissional, e dá providências correlatas.
@@ -48,7 +46,8 @@ Secretário Executivo, Respondendo pelo Expediente da Casa Civil 
 
 Publicado na Casa Civil, aos 7 de fevereiro de 2024.
 
-#### ANEXO<br>
+#### ANEXO
+
 a que se refere o artigo 3° do Decreto n° 68.328, de 7 de fevereiro de 2024
 
 **PROCESSO SEI n°** 
@@ -59,19 +58,22 @@ CONVÊNIO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA CASA 
 
 O Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo - FUSSP, com sede na Avenida Morumbi, n° 4.500, Município de São Paulo, doravante designado simplesmente FUSSP, neste ato representado por seu(ua) Presidente (ou Chefe de Gabinete, conforme Portaria de delegação), \_\_\_\_\_\_\_\_\_\_\_\_, e o \[MUNICÍPIO\], inscrito no CNPJ sob o n° \_\_\_\_\_\_\_\_\_\_\_\_\_, neste ato representado por seu(ua) Prefeito(a) \[NOME COMPLETO DO(A) PREFEITO(A) \], inscrito(a) no CPF/MF sob n°\_\_\_\_\_\_\_\_\_\_ , de ora em diante denominado CONVENENTE, resolvem celebrar o presente convênio, que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021, do Decreto n° 66.173, de 21 de outubro de 2021, pela Portaria FUSSP n° \_\_\_\_, de \_\_\_\_\_ de 202\_, e demais normas regulamentares incidentes na espécie, mediante as seguintes cláusulas e condições.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto do presente convênio a conjugação de esforços para a implantação e a execução do projeto \[escola e curso\] no âmbito do Programa Escola de Qualificação Profissional, mediante transferência de recursos materiais e financeiros ao CONVENENTE, de acordo com o plano de trabalho constante de fls. \_\_\_\_ do processo administrativo n° \_\_\_\_\_\_\_, que integra o presente instrumento como Anexo.
 
 **Parágrafo único -** O plano de trabalho poderá ser modificado, mediante termo aditivo, após manifestação do CONVENENTE, pronunciamento do setor técnico do FUSSP e autorização do(a) Presidente do Fundo, vedada a alteração de objeto e o acréscimo de recursos estaduais.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Do Valor e dos Recursos Financeiros
 
 O valor total do presente convênio é de R$ \_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_\_\_\_), de responsabilidade do FUSSP, na forma prevista na Cláusula Quarta, programa de trabalho \_\_\_\_\_\_, onerando a U.O. \_\_\_\_\_\_ (nomenclatura da UO), U.G.O. \_\_\_\_\_, U.G.E. \_\_\_\_\_\_, natureza da despesa \_\_\_\_\_\_\_ (nomenclatura da natureza da despesa).
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Das Responsabilidades e Obrigações dos Partícipes
 
 Constituem responsabilidades e obrigações dos partícipes:
@@ -122,7 +124,8 @@ m) restituir ao FUSSP os recursos materiais transferidos, ou o seu equivalente e
 
 n) observar, nas operações de tratamento de dados pessoais necessárias à fiel execução deste ajuste, as disposições da Lei federal n° 13.709, de 14 de agosto de 2018 - Lei Geral de Proteção de Dados Pessoais, responsabilizando-se por eventuais danos ou prejuízos a que der causa.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Da transferência dos Recursos
 
 Os recursos materiais e financeiros de responsabilidade do FUSSP serão transferidos na seguinte conformidade:
@@ -139,7 +142,8 @@ II - os recursos financeiros, nos termos indicados no cronograma de desembolso p
 
 **§ 4° -** O descumprimento do disposto nos parágrafos anteriores obrigará o CONVENENTE à reposição dos recursos financeiros recebidos, acrescidos da remuneração da caderneta de poupança até a data do efetivo depósito.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Prestação de Contas
 
 O CONVENENTE deverá apresentar ao FUSSP prestação de contas, em até 30 (trinta) dias a partir do término do período de execução do objeto previsto no plano de trabalho, sem prejuízo do cumprimento de suas obrigações junto ao Tribunal de Contas do Estado, na forma da legislação de regência.
@@ -172,7 +176,8 @@ e) notas fiscais/faturas emitidas em nome do CONVENENTE com menção ao Convêni
 
 **§ 3° -** A falta de prestação de contas nas condições estabelecidas nesta cláusula e na legislação aplicável, ou a sua desaprovação pelos órgãos competentes do FUSSP, implicará a suspensão das liberações subsequentes, até a correção das impropriedades verificadas.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de \_\_\_\_ (\_\_\_\_\_\_\_\_\_) meses, contados da assinatura do presente instrumento.
@@ -181,22 +186,26 @@ O prazo de vigência do presente convênio é de \_\_\_\_ (\_\_\_\_\_\_\_\_\_) m
 
 **§ 2° -** O FUSSP prorrogará de ofício a vigência do convênio quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido na hipótese de descumprimento de suas cláusulas ou infração legal, procedendo-se o competente acerto de contas.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Dos Saldos Financeiros
 
 Quando da conclusão, denúncia, rescisão ou extinção do convênio, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos ao FUSSP, no prazo improrrogável de 30 (trinta) dias do evento, sob pena de imediata instauração de tomada de contas especial do responsável.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada ao convênio serão, obrigatoriamente, seguidas as orientações do FUSSP, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem a promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Do Foro
 
 Fica eleito o Foro da Comarca de São Paulo para dirimir eventuais questões oriundas deste convênio, com renúncia expressa a qualquer outro, por mais privilegiado que seja.
@@ -205,18 +214,24 @@ E assim, por estarem de acordo, assinam os partícipes o presente instrumento em
 
 São Paulo, \_\_ de \_\_\_\_\_\_\_\_\_ de 20\_\_. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 PRESIDENTE DO FUNDO SOCIAL DE SÃO PAULO
 
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 PREFEITO(A) 
 
 Testemunhas:
 
-1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-Nome:<br>
+1.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nome:
+
 CPF:
 
- 2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-Nome:<br>
+ 2.\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nome:
+
 CPF:

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210401)<br>
-
 # DECRETO N° 69.176, DE 18 DE DEZEMBRO DE 2024
 
 ### _Institui, junto à Secretaria de Agricultura e Abastecimento, o Programa Agro Jovem e o Prêmio "Jovem Inovador do Agro Paulista" e dá providências correlatas._

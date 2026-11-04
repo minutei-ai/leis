@@ -1,7 +1,3 @@
-1
-
-###DEC-099202-0-000-04-04-1990@@@
-
 DECRETO N° 99.202, DE 4 DE ABRIL DE 1990
 
 Expede normas complementares relativas à extinção dos órgãos da Administração Pública Federal direta.

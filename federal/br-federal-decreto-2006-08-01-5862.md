@@ -1,5 +1,3 @@
-###DEC-005862-0-000-01-08-2006@@@
-
 DECRETO Nº 5.862, DE 1º DE AGOSTO DE 2006.
 
 Estende o prazo de que trata o art. 1o do Decreto no 5.188, de 18 de agosto de 2004.
@@ -19,5 +17,3 @@ LUIZ INÁCIO LULA DA SILVA
            Paulo Bernardo Silva
 
            Jorge Hage Sobrinho
-
-Este texto não substitui o publicado no D.O.U. de 2.8.2006

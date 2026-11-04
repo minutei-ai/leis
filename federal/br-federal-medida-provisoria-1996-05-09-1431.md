@@ -1,7 +1,3 @@
-1
-
-###MPV-001431-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.431, DE 9 DE MAIO DE 1996.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

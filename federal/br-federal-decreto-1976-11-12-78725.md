@@ -1,5 +1,3 @@
-###DEC-078725-0-000-12-11-1976@@@
-
 DECRETO Nº 78.725, DE 12 DE NOVEMBRO DE 1976.
 
 Renova por (dez) anos a concessão outorgada à Universidade do Recife, do Ministério da Educação e Cultura, atual Universidade Federal de Pernambuco (Rádio Universitária) para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Recife, Estado de Pernambuco.

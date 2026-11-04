@@ -1,5 +1,3 @@
-###DEL-006689-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.689 – DE 13 DE JULHO DE 1944
 
 Dispõe sôbre a organização do Curso de Museus, no Ministério da Educação e Saúde, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-096645-0-000-05-09-1988@@@
-
 DECRETO N° 96.645, DE 5 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO VALE DO PAJEÚ LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Canto do Buriti, Estado do Piauí.

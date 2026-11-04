@@ -1,5 +1,3 @@
-###DEC-087173-0-000-14-05-1982@@@
-
 Decreto nº 87.173, de 14 de maio de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Seringal Itamarati", situado no Município de Tarauacá, Estado do Acre, compreendido na área prioritária para reforma agrária fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de agosto de 1980.

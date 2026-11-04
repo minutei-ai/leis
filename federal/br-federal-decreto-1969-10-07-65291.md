@@ -1,5 +1,3 @@
-###DEC-065291-0-000-07-10-1969@@@
-
 DECRETO Nº 65.291 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 21.440 de 16 de  julho de 1946.

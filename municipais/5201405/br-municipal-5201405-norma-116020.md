@@ -1,22 +1,27 @@
-LEI MUNICIPAL Nº 2.637, DE 22 DE MARÇO DE 2007.<br>
+LEI MUNICIPAL Nº 2.637, DE 22 DE MARÇO DE 2007.
+
 (Revogado pela Lei Ordinária nº 3.604, de 9 de abril de 2021).
 
 ~~Dispõe sobre a criação do CONSELHO DO FUNDEB – Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação e dá outras providências.~~
 
-~~Capítulo I<br>
+~~Capítulo I
+
 Das Disposições Preliminares~~
 
 ~~Art. 1º - Fica criado o Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e da Valorização dos Profissionais da Educação – Conselho do FUNDEB, no âmbito de município de Aparecida de Goiânia.~~
 
-~~Capítulo II<br>
+~~Capítulo II
+
 Da Composição~~
 
 ~~Art. 2º - O Conselho a que se refere o art. 1º, é constituído por 10 membros titulares, acompanhados de seus respectivos suplentes, conforme representação e indicação a seguir discriminados:~~
 
-~~I – 01 (um) representante da Secretaria Municipal de Educação, indicado pelo Poder Executivo Municipal;~~<br>
+~~I – 01 (um) representante da Secretaria Municipal de Educação, indicado pelo Poder Executivo Municipal;~~
+
 ~~(Redação alterada pela Lei Ordinária nº 3.397, de 14 de dezembro de 2017).~~
 
-~~I – 2 (dois) representantes do Poder Executivo Municipal, dos quais pelo menos  1(um) da Secretaria Municipal da Educação e 2 (dois) representantes do Legislativo Municipal.~~<br>
+~~I – 2 (dois) representantes do Poder Executivo Municipal, dos quais pelo menos  1(um) da Secretaria Municipal da Educação e 2 (dois) representantes do Legislativo Municipal.~~
+
 ~~(Redação alterada pela Lei Complementar nº 51, de 24 de maio de 2012).~~
 
 ~~I)    um representante da Secretaria Municipal de Educação, indicado pelo Poder Executivo Municipal;~~ 
@@ -79,7 +84,8 @@ Da Composição~~
 
 ~~Parágrafo Único - O parecer de que trata o inciso IV deste artigo deverá ser apresentado ao Poder Executivo Municipal em até trinta dias antes do vencimento do prazo para a apresentação da prestação de contas junto ao Tribunal de Contas dos Municípios.~~
 
-~~Capítulo IV<br>
+~~Capítulo IV
+
 Das Disposições Finais~~
 
 ~~Art. 6º - O Conselho do FUNDEB terá um Presidente e um Vice-Presidente, que serão eleitos pelos conselheiros.~~

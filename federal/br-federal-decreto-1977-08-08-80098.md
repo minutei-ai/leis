@@ -1,5 +1,3 @@
-###DEC-080098-0-000-08-08-1977@@@
-
 DECRETO Nº 80.098, DE 8 DE AGOSTO DE 1977.
 
 Institui o Programa Nacional de Desenvolvimento do Artesanato e dá outras providências.

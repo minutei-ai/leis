@@ -1,5 +1,3 @@
-###DEC-097569-0-000-10-03-1989@@@
-
 DECRETO N° 97.569, DE 10 DE MARÇO DE 1989
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Educação e Letras de Caraguatatuba.

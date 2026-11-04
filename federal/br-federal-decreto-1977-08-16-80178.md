@@ -1,5 +1,3 @@
-###DEC-080178-0-000-16-08-1977@@@
-
 DECRETO Nº 80.178, DE 16 DE AGOSTO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Espírito Santo.
@@ -21,8 +19,6 @@ ERNESTO GEISEL
 Sylvio Frota
 
 Mário Henrique Simonsen
-
-###DEC-080178-0-000-16-08-1977@@@RET+++
 
 DECRETO Nº 80.178, DE 16 DE AGOSTO DE 1977.
 

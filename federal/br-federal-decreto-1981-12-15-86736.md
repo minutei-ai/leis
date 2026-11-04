@@ -1,5 +1,3 @@
-###DEC-086736-0-000-15-12-1981@@@
-
 dECRETO Nº 86.736, DE 15 DE DEZEMBRO DE 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paranaense de Energia - COPEL, no Estado do Paraná.

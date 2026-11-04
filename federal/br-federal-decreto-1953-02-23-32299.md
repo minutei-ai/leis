@@ -1,23 +1,21 @@
-###DEC-032299-0-000-23-02-1953@@@
+**DECRETO Nº 32.299, DE 23 DE FEVEREIRO DE 1953.**
 
-<strong>DECRETO Nº 32.299, DE 23 DE FEVEREIRO DE 1953.</strong>
+***Declara públicas, de uso comum, do domínio do Estado do Paraná, as águas do rio São Sebastião.***
 
-<em><strong>Declara públicas, de uso comum, do domínio do Estado do Paraná, as águas do rio São Sebastião.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 5º do Decreto-lei número 2.281, de 5 de junho de 1940, e
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 5º do Decreto-lei número 2.281, de 5 de junho de 1940, e
-
-CONSIDERANDO que o edital de classificação do curso dágua publicado no <em>Diário</em> <em>Oficial</em> de 24 de junho de 1948 não suscitou qualquer contestação ou reclamação.
+CONSIDERANDO que o edital de classificação do curso dágua publicado no *DiárioOficial* de 24 de junho de 1948 não suscitou qualquer contestação ou reclamação.
 
 CONSIDERANDO que o Conselho Nacional de Águas e Energia Elétrica opinou pela classificação constante no mesmo edital.
 
-<strong>Art</strong>. 1º São declaradas pública de uso comum, do domínio do Estado do Paraná, as águas do rio denominado São Sebastião, em tôda sua extensão e é tributário pela margem esquerda do rio Cachoeiro.
+**Art**. 1º São declaradas pública de uso comum, do domínio do Estado do Paraná, as águas do rio denominado São Sebastião, em tôda sua extensão e é tributário pela margem esquerda do rio Cachoeiro.
 
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de fevereiro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

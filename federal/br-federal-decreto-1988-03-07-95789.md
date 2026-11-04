@@ -1,7 +1,3 @@
-1
-
-###DEC-095789-0-000-07-03-1988@@@
-
 DECRETO N° 95.789, DE 7 DE MARÇO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação de circuitos subterrâneos de 13,8kV, no Município do Rio de Janeiro, Estado do Rio de Janeiro.

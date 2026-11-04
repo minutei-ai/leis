@@ -1,5 +1,3 @@
-###DEC-051560-0-000-08-10-1962@@@
-
 decreto nº 51.560, de 8 de outubro de 1962.
 
 Altera o Regulamento para a Ordem do Mérito Naval.

@@ -1,5 +1,3 @@
-###DEC-085292-0-000-27-10-1980@@@
-
 Decreto nº 85.292, de 27 de outubro de 1980.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais, de Ciências, de Letras e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Sul, Estado do Rio Grande do Sul.

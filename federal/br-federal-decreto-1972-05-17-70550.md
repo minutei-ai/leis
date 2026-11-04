@@ -1,5 +1,3 @@
-###DEC-070550-0-000-17-05-1972@@@
-
 DECRETO Nº 70.550, DE 17 DE MAIO DE 1972.
 
 Declara sem efeito o Decreto número 10.935, de 25 de novembro de 1942.

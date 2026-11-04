@@ -1,14 +1,12 @@
-###DEC-031637-0-000-23-10-1952@@@
+**DECRETO Nº 31.637, DE 23 DE OUTUBRO 1952.**
 
-<strong>DECRETO Nº 31.637, DE 23 DE OUTUBRO 1952.</strong>
+***Declara de utilidade pública as áreas de terra compreendidas no planalto de ampliação do aproveitamento do rio Tijuco e autoriza a Emprêsa Luz e Fôrça Ituiutabana S.A. a promover a respectiva desapropriação.***
 
-<em><strong>Declara de utilidade pública as áreas de terra compreendidas no planalto de ampliação do aproveitamento do rio Tijuco e autoriza a Emprêsa Luz e Fôrça Ituiutabana S.A. a promover a respectiva desapropriação.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e atendendo ao que dispõe o Decreto-lei nº 3.365, de 21 de junho de 1948,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e atendendo ao que dispõe o Decreto-lei nº 3.365, de 21 de junho de 1948,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as áreas de terra adiante relacionadas e necessárias a realização das obras de ampliação do aproveitamento da energia hidráulica do rio Tijuco, município de Ituiutaba, Estado de Minas Gerais, que Decreto nº 25.632, de 6 de outubro de 1948, autorizou a Emprêsa Luz e Fôrça Ituiutabana S.A. a executar:
+**Art**. 1º São declaradas de utilidade pública as áreas de terra adiante relacionadas e necessárias a realização das obras de ampliação do aproveitamento da energia hidráulica do rio Tijuco, município de Ituiutaba, Estado de Minas Gerais, que Decreto nº 25.632, de 6 de outubro de 1948, autorizou a Emprêsa Luz e Fôrça Ituiutabana S.A. a executar:
 
 Gleba nº 1 – área de 15.600,00 metros quadrados, de propriedade atribuída a Saul de Oliveira Carvalho, situada à margem direita do rio Tijuco.
 
@@ -34,14 +32,14 @@ Gleba nº 11 - área de 10.160,00 metros quadrados, de propriedade atribuída a 
 
 Parágrafo único – Perfazem essas glebas a superfície total de 351.200,00 metros quadrados e estão representados nas plantas aprovadas pelo Ministro da Agricultura.
 
-<strong>Art</strong>. 2º A. Emprêsa Luz e Fôrça Ituiutabana S.A. fica autorizada a promover na forma da legislação vigente, a desapropriação das áreas indicadas, com as benfeitorias que nelas se acharem.
+**Art**. 2º A. Emprêsa Luz e Fôrça Ituiutabana S.A. fica autorizada a promover na forma da legislação vigente, a desapropriação das áreas indicadas, com as benfeitorias que nelas se acharem.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de outubro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

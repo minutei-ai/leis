@@ -1,5 +1,3 @@
-###DEC-066136-0-000-29-01-1970@@@
-
 DECRETO Nº 66.136 - DE 29 DE JANEIRO DE 1970
 
 Declara de utilidade pública a Sociedade Portuguêsa de Beneficência de Campos, com sede em Campos, Estado do Rio de Janeiro.

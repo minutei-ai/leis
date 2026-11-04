@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211443)<br>
-
 # DECRETO N° 69.864, DE 15 DE SETEMBRO DE 2025
 
 ### _Regulamenta a evolução funcional da carreira de médico de que trata a Lei Complementar n° 1.193, de 2 de janeiro de 2013, altera o Decreto n° 59.156, de 6 de maio de 2013, que regulamenta o processo de avaliação para fins de pagamentos do Prêmio de Produtividade Médica - PPM e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DISPOSIÇÃO PRELIMINAR
 
 **Artigo 1° -** Fica regulamentada, nos termos deste decreto, a promoção de que trata a Seção X do Capítulo II da [Lei complementar n° 1.193, de 2 de janeiro de 2013](https://www.al.sp.gov.br/norma/169111), aos servidores integrantes da carreira de Médico, constituída na seguinte conformidade:
@@ -21,7 +20,8 @@ III - Médico III.
 
 **Parágrafo único -** Considera-se promoção a elevação do cargo ou função-atividade à classe imediatamente superior, mediante processo de avaliação de desempenho e títulos, obedecidos os interstícios, a periodicidade e as demais condições e exigências estabelecidas neste decreto.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DAS CONDIÇÕES
 
 **Artigo 2° -** Concorrerão à promoção os servidores integrantes da carreira de Médico que, no ano de referência, cumulativamente:
@@ -78,7 +78,8 @@ III - livros e artigos publicados em revistas e periódicos técnicos ou cientí
 
 2\. feita a aproximação para a unidade subsequente, quando a primeira decimal for igual ou superior a 5 (cinco).
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DO PROCESSO DE PROMOÇÃO
 
 **Artigo 8° -** O processo de promoção será implementado anualmente pelos órgãos setoriais de recursos humanos das Secretarias de Estado e Autarquias, auxiliados, no que couber, pelos seus subsetoriais de recursos humanos.

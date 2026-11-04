@@ -1,5 +1,3 @@
-###DEL-008509-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.509 – DE 31 DE DEZEMBRO DE 1945
 
 Cria uma Coletoria Federal no Município de Carlos Chagas, no Estado de Minas Gerais, e dá outras providências.

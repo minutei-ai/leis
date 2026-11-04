@@ -1,5 +1,3 @@
-###DEC-003846-0-000-19-06-2001@@@
-
 DECRETO Nº 3.846, DE 19 DE JUNHO DE 2001
 
 Dispõe sobre a execução, no Território Na­cional das outras sanções contra a Libéria, estabelecidas pela Resolução 1.343 (2001) do Conselho de Segurança das Nações Unidas.

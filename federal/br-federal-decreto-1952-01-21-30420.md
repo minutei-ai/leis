@@ -1,20 +1,18 @@
-###DEC-030420-0-000-21-01-1952@@@
+**DECRETO Nº 30.420, DE 21 DE JANEIRO DE 1952.**
 
-<strong>DECRETO Nº 30.420, DE 21 DE JANEIRO DE 1952.</strong>
+***Outorga à Emprêsa de Água e Esgotos de Ribeirão Preto S.A. concessão para o aproveitamento de energia hidráulica da corredeira do Quebra Joelho, existente no rio Pardo, distrito de Ribeirão Preto, município de igual nome, Estado de São Paulo.***
 
-<em><strong>Outorga à Emprêsa de Água e Esgotos de Ribeirão Preto S.A. concessão para o aproveitamento de energia hidráulica da corredeira do Quebra Joelho, existente no rio Pardo, distrito de Ribeirão Preto, município de igual nome, Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Água (Decreto n.º 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Água (Decreto n.º 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorga à Emprêsa de Água e Esgotos de Ribeirão Preto S.A. concessão para o aproveitamento de energia hidráulica da corredeira do Quebra Joelho, no rio Pardo, Distrito de Ribeirão Preto, município de igual nome, Estado de São Paulo.
+**Art**. 1º É outorga à Emprêsa de Água e Esgotos de Ribeirão Preto S.A. concessão para o aproveitamento de energia hidráulica da corredeira do Quebra Joelho, no rio Pardo, Distrito de Ribeirão Preto, município de igual nome, Estado de São Paulo.
 
 § 1° - Em portaria do Ministério da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga de derivação e a potência.
 
 § 2.º - O aproveitamento destina-se ao uso exclusivo da concessionária, que não poderá ceder energia a terceiros, mesmo a título gratuito, excluídas, todavia, desta proibição, as vilas operárias das concessionárias, desde que seja gratuito o fornecimento de energia que lhe fôr feito.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a concessionária não satisfazer as condições seguintes:
 
 I – Registrá-lo a Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias contados da data de sua publicação;
 
@@ -96,22 +94,22 @@ V – iniciar e concluir as obras nos prazos que forem determinados pelo Minist�
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3.º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde o desde quando fôr determinada pela Divisão de Águas as instalações necessárias à observações fluviométricas e medições de cargas do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art**. 3.º A concessionária fica obrigada a construir e manter, nas proximidades do aproveitamento, onde o desde quando fôr determinada pela Divisão de Águas as instalações necessárias à observações fluviométricas e medições de cargas do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Govêrno Federal em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas.
+**Art**. 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Govêrno Federal em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas.
 
 § 1º - A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado de São Paulo não se opõe à utilização dos bens objetos de reversão.
 
 § 2º - A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se se o não fizer que não pretende a renovação.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trina (30) anos, contando da data do registro do respectivo contrato disciplinar pelo Tribunal de Contas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trina (30) anos, contando da data do registro do respectivo contrato disciplinar pelo Tribunal de Contas.
 
-<strong>Art</strong>. 6º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 21de janeiro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

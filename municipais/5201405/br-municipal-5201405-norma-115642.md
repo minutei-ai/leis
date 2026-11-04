@@ -18,15 +18,48 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 19 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">ÁREA SEM DENOMINAÇÃO</td><td style="text-align:center">6.210,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+ÁREA SEM DENOMINAÇÃO
+
+6.210,00
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">ÁREA 01 A – DESTINADA AO SISTEMA VIÁRIO</td><td style="text-align:center">1.493,59</td></tr><tr><td style="text-align:center">ÁREA 02 A</td><td style="text-align:center">398,79</td></tr><tr><td style="text-align:center">ÁREA 03 A</td><td style="text-align:center">434,48</td></tr><tr><td style="text-align:center">ÁREA 04 A</td><td style="text-align:center">1.570,64</td></tr><tr><td style="text-align:center">ÁREA 05 A – DESTINADA AO SISTEMA VIÁRIO</td><td style="text-align:center">1.278,45</td></tr><tr><td style="text-align:center">ÁREA 06 A</td><td style="text-align:center">1.034,05</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+ÁREA 01 A – DESTINADA AO SISTEMA VIÁRIO
+
+1.493,59
+
+ÁREA 02 A
+
+398,79
+
+ÁREA 03 A
+
+434,48
+
+ÁREA 04 A
+
+1.570,64
+
+ÁREA 05 A – DESTINADA AO SISTEMA VIÁRIO
+
+1.278,45
+
+ÁREA 06 A
+
+1.034,05

@@ -1,5 +1,3 @@
-###DEC-055305-0-000-30-12-1964@@@
-
 decreto nº 55.305, de 30 de dezembro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Oceânica Companhia Brasileira de Seguros, inclusive aumento do capital social.

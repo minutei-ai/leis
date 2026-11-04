@@ -1,5 +1,3 @@
-###DEL-006297-0-000-28-02-1944@@@
-
 DECRETO-LEI N. 6.297 – DE 28 DE FEVEREIRO DE 1944
 
 Altera a tabela do salário adicional para a indústria, aprovada pelo Decreto lei nº 5.978, de 10 de novembro de 1943, e dá outras providências

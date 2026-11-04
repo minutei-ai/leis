@@ -1,5 +1,3 @@
-###DEC-055335-0-000-31-12-1964@@@
-
 DECRETO Nº 55.335, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098469-0-000-05-12-1989@@@
-
 DECRETO Nº 98.469, DE 05 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Escola Superior de Estudos Empresariais e Informática.

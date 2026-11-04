@@ -1,5 +1,3 @@
-###DEC-005404-0-000-28-03-2005@@@
-
 DECRETO Nº 5.404 DE 28 DE MARÇO DE 2005
 
 Dispõe sobre o Conselho Nacional de Previdência Complementar - CNPC, e dá outras providências.

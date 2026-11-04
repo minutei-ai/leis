@@ -1,5 +1,3 @@
-###DEC-047871-0-000-08-03-1960@@@
-
 DECRETO Nº 47.871, DE 8 DE MARÇO DE 1960.
 
 Dispõe sôbre as vantagens do pessoal a serviço do Lóide Brasileiro, Patrimônio Nacional e da Companhia Nacional de Navegação Costeira (Autarquia Federal) e dá outras providências.

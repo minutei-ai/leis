@@ -1,5 +1,3 @@
-###DEC-007187-0-000-27-05-2010@@@
-
 DECRETO Nº 7.187, DE 27 DE MAIO DE 2010.
 
 Dá nova redação a dispositivos do art. 12 do Anexo I ao Decreto no 5.135, de 7 de julho de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Casa Civil da Presidência da República, no tocante às competências da Imprensa Nacional.

@@ -1,5 +1,3 @@
-###DEC-059278-0-000-23-09-1966@@@
-
 DECRETA Nº 59.278, DE 23 DE SETEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação o imóvel que menciona, necessário ao Ministério da Guerra.

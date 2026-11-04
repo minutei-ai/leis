@@ -1,5 +1,3 @@
-###DEL-008961-0-000-28-01-1946@@@
-
 ( \* ) DECRETO-LEI N. 8.961 – DE 28 DE JANEIRO DE 1946
 
 Altera a carreira de Prático de Engenharia do Quadro Suplementar do Ministério da Aeronáutica e dá outras providências.

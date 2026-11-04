@@ -1,5 +1,3 @@
-###DEC-092640-0-000-12-05-1986@@@
-
 DECRETO Nº 92.640, DE 12 DE MAIO DE 1986
 
 Altera dispositivo do Decreto nº 77.272, de 9 de março de 1976.

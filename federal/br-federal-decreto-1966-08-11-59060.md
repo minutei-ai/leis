@@ -1,5 +1,3 @@
-###DEC-059060-0-000-11-08-1966@@@
-
 Decreto nº 59.060, de 11 de agÔsto de 1966.
 
 Cria o Consulado Privativo do Brasil em Chuy, Uruguai.

@@ -1,5 +1,3 @@
-###DEC-058540-0-000-30-05-1966@@@
-
 DECRETO Nº 58.540, DE 30 DE MAIO DE 1966.
 
 Altera o art. 1º do Decreto nº 2.049, de 15 de janeiro de 1963.

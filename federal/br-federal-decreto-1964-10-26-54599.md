@@ -1,5 +1,3 @@
-###DEC-054599-0-000-26-10-1964@@@
-
 DECRETO Nº 54.599, DE 26 DE OUTUBRO DE 1964.
 
 Renova o Decreto nº 50.729, de 6 de junho de 1961.

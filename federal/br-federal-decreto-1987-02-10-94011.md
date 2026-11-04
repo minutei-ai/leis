@@ -1,5 +1,3 @@
-###DEC-094011-0-000-10-02-1987@@@
-
 DECRETO Nº 94.011, DE 10 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado na cidade de Sobral, Estado do Ceará, destinado ao Tribunal Regional do Trabalho da 7ª Região.

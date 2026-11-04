@@ -1,5 +1,3 @@
-###DEC-067816-0-000-15-12-1970@@@
-
 DECRETO nº 67.816, de 15 de Dezembro de 1970.
 
 Concede à empresa The Coca-Cola Export Corparation autorização para continuar a funcionar na República Federativa do Brasil.

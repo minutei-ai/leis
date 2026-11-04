@@ -1,5 +1,3 @@
-###DEC-064322-0-000-08-04-1969@@@
-
 Decreto nº 64.322, de 8 de abril de 1969.
 
 Inclui cargo no enquadramento definitivo do extinto Serviço de Alimentação da Previdência Social, e dá outras providências.

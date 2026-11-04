@@ -1,5 +1,3 @@
-###DEL-000194-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 194, DE 24 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a aplicação da legislação, sôbre o Fundo de Garantia de Tempo de Serviço às entidades de fins filantrópicos.

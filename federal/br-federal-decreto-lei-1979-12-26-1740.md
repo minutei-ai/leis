@@ -1,5 +1,3 @@
-###DEL-001740-0-000-26-12-1979@@@
-
 # Decreto-lei nº 1.740, de 26 de dezembro de 1979
 
 Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

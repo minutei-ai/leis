@@ -1,7 +1,3 @@
-1
-
-###DEC-098124-0-000-06-09-1989@@@
-
 DECRETO N° 98.124, DE 6 DE SETEMBRO DE 1989
 
 Altera a redação do art. 6° do Decreto n° 97.161, de 6 de dezembro de 1988, que dispõe sobre procedimentos para execução de Programa de Desimobilização de bens, inclusive participações societárias.

@@ -8,11 +8,14 @@ Art. 1º Esta lei altera o Anexo II – Categoria Operacional – OP 18-E, corre
 
 Art. 2º O Anexo II – Categoria Operacional, correspondente ao cargo de Fiscal de Edificações e Loteamentos II – OP – 18-E, passará a viger com a seguinte alteração:
 
-“...................................................................................................<br>
-**PRÉ-REQUISITOS:<br>
+“...................................................................................................
+
+**PRÉ-REQUISITOS:
+
 SUBCLASSE II**
 
-01 – Habilitação em curso de nível superior na área de engenharia em geral e/ou no curso de nível superior em arquitetura e urbanismo.<br>
+01 – Habilitação em curso de nível superior na área de engenharia em geral e/ou no curso de nível superior em arquitetura e urbanismo.
+
 ...................................................................................................” (NR).
 
 Art. 3º Permanecem inalterados os demais requisitos e regras do cargo de Fiscal de Edificações e Loteamentos II.

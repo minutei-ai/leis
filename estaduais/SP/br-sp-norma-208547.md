@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208547)<br>
-
 # LEI N° 17.754, DE 20 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 625/2021, do Deputado Barros Munhoz - PSDB)

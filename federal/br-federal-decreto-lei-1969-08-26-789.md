@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6e92af08-eb16-4328-b4c6-c1bf548e2976/texto#nowhere)
 
-###DEL-000789-0-000-26-08-1969@@@
-
 DECRETO-LEI Nº 789, De 26 de AGôSTO DE 1969
 
 Dispõe sôbre o enquadramento sindical rural e sôbre o lançamento e recolhimento da contribuição sindical rural.

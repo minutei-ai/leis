@@ -1,5 +1,3 @@
-###DEC-058626-0-000-15-06-1966@@@
-
 DECRETO Nº 58.626, DE 15 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Sebastião Tomio a pesquisar calcário no Município de Botuverá, Estado de Santa Catarina.

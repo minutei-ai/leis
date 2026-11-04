@@ -1,5 +1,3 @@
-###DEC-047869-0-000-08-03-1960@@@
-
 decreto nº 47.869, de 8 de março de 1960.
 
 Abre, ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional da 2ª Região, o crédito especial de Cr$236.100,00, para o fim que especifica.

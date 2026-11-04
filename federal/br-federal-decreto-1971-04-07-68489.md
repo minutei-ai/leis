@@ -1,5 +1,3 @@
-###DEC-068489-0-000-07-04-1971@@@
-
 DECRETO Nº 68.489 - DE 7 DE ABRIL DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo da Universidade Federal Fluminense para o Ministério do Trabalho e Previdência Social, e dá outras providências.

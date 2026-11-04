@@ -1,5 +1,3 @@
-###DEC-005512-0-000-15-08-2005@@@
-
 DECRETO Nº 5.512, DE 15 DE AGOSTO DE 2005.
 
        Dispõe sobre a prova de regularidade fiscal perante a Fazenda Nacional e dá outras providências.
@@ -31,5 +29,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
 Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 16.8.2005

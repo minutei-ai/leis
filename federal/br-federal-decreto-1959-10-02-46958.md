@@ -1,5 +1,3 @@
-###DEC-046958-0-000-02-10-1959@@@
-
 DECRETO Nº 46.958, DE 2 DE OUTUBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Caicó, Estado do Rio Grande do Norte, concessão para distribuir energia elétrica.

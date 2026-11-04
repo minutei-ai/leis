@@ -1,5 +1,3 @@
-###DEC-071952-0-000-20-03-1973@@@
-
 DECRETO Nº 71.952, DE 20 DE MARÇO DE 1973.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado do Ceará.
@@ -25,8 +23,6 @@ Brasília, 20 de março de 1973; 152º da Independência e 85º da República.
 EMÍLIO G. MÉDICI
 
 Benjamim Mário Baptista
-
-###DEC-071952-0-000-20-03-1973@@@
 
 DECRETO Nº 71.952, DE 20 DE MARÇO DE 1973.
 

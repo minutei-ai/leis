@@ -1,5 +1,3 @@
-###DEC-073745-0-000-06-03-1974@@@
-
 DECRETO Nº 73.745, DE 6 DE MARÇO DE 1974.
 
 Declara perempta a concessão outorgada à rádio difusora do Amazonas Ltda., para executar serviço de radiodifusão sonora em onda tropical na Cidade de Manaus, Estado do Amazonas.

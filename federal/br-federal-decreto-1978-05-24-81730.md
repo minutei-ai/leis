@@ -1,5 +1,3 @@
-###DEC-081730-0-000-24-05-1978@@@
-
 Decreto nº 81.730, de 24 de maio de 1978.
 
 Autoriza a conversão dos crusos de Ciências e de Matemática, ministrado pela Faculdade de Filosofia, Ciências e Letras de Presidente Wenceslau, Estado de São Paulo.

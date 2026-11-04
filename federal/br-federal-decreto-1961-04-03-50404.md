@@ -1,5 +1,3 @@
-###DEC-050404-0-000-03-04-1961@@@
-
 DECRETO Nº 50.404, DE 3 DE ABRIL DE 1961.
 
 Dispõe sôbre a transferência da sede do Departamento Nacional de Obras Contra as Sêcas.

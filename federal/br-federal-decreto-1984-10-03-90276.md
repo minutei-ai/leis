@@ -1,5 +1,3 @@
-###DEC-090276-0-000-03-10-1984@@@
-
 Decreto nº 90.276, de 03 de outubro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

@@ -1,5 +1,3 @@
-###DEC-058749-A-000-28-06-1966@@@
-
 Decreto nº 58.749-A, de 28 de junho de 1966.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Parnaíba, com sede em Parnaíba, Estado do Piauí.

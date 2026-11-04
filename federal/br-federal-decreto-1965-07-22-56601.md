@@ -1,5 +1,3 @@
-###DEC-056601-0-000-22-07-1965@@@
-
 DECRETO Nº 56.601, DE 22 DE JULHO DE 1965.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$5.000.000.000 para o fim que menciona.

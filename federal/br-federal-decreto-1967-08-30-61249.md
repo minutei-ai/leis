@@ -1,5 +1,3 @@
-###DEC-061249-0-000-30-08-1967@@@
-
 DECRETO Nº 61.249, DE 30 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública o Centro Espírita “Ismênia de Jesus”, com sede em Santos, Estado de São Paulo.

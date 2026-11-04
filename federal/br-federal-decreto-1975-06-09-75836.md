@@ -1,5 +1,3 @@
-###DEC-075836-0-000-09-06-1975@@@
-
 DECRETO Nº 75.836, DE 9 DE JUNHO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora do Lavrador Ltda., para executar serviços de radiodifusão sonora em onda média de âmbito regional, na Cidade de Campos, Estado do Rio de Janeiro.

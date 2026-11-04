@@ -16,11 +16,14 @@ A Assembleia Legislativa do Estado do Paraná decretou e eu sanciono a seguinte 
 
 Palácio do Governo, em 31 de agosto de 2026.
 
-_Carlos Massa Ratinho Junior<br>
+_Carlos Massa Ratinho Junior
+
 Governador do Estado_
 
-_Maiquel Guilherme Zimann<br>
+_Maiquel Guilherme Zimann
+
 Chefe da Casa Civil em exercício_
 
-_Alexandre Amaro<br>
+_Alexandre Amaro
+
 Deputado Estadual_

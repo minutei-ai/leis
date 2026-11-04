@@ -1,5 +1,3 @@
-###MPV-001692-0-027-28-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.692-27, DE 28 DE AGOSTO DE 1998
 
 Dá nova redação aos arts. 2º da Lei nº 9.138, de 29 de novembro de 1995, e 1º, 2º e 3º da Lei nº 8.427, de 27 de maio de 1992, que dispõem, respectivamente, sobre o crédito rural e sobre a concessão de subvenção econômica nas operações de crédito rural, autoriza o Poder Executivo a renegociar as obrigações financeiras relativas à liquidação de operações de Empréstimos do Governo Federal - EGF, vencidas e prorrogadas a partir de 1991, e dá outras providências.

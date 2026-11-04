@@ -79,7 +79,3 @@ INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS
 Unidades Administrativas e Funções Gratificadas Extintas
 
 UNIDADE ADMINISTRATIVA FUNÇÃO GRATIFICADA QUANTIDADE CÓDIGO Além Paraíba, Cambuí, Caxambu, Congonhas, Divino, Machado, Matozinho, Nanuque, Santos Dumont, São Gonçalo do Sapucaí Coordenador Regional 10 CRSE 01, CRSE 12, CRSE 16, CRSE 17, CRSE 23, CRSE 42, CRSE 45, CRSE 49, CRSE 70, CRSE 73
-
-\============================================================
-
-Data da última atualização: 19/10/2026.

@@ -1,5 +1,3 @@
-###DEC-073451-0-000-14-01-1974@@@
-
 DECRETO Nº 73.451, DE 14 DE JANEIRO DE 1974.
 
 Concede reconhecimento ao Curso de Licenciatura em Ciências (1º Grau) da Faculdade de Filosofia, Ciências e Letras de Presidente Prudente, com sede na cidade de Presidente Prudente, Estado de São Paulo.

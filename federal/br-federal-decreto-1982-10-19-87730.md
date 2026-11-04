@@ -1,5 +1,3 @@
-###DEC-087730-0-000-19-10-1982@@@
-
 DECRETO nº 87.730, de 19 de outubro de 1982
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói e Angra dos Reis, Estado do Rio de Janeiro e Salvador, Estado da Bahia.

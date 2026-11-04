@@ -1,5 +1,3 @@
-###DEC-080673-0-000-07-11-1977@@@
-
 DECRETO Nº 80.673, DE 07 DE NOVEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada à Minérios Catarinenses S/A., pelo Decreto nº 62.733, de 20 de maio de 1968.

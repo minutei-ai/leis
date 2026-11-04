@@ -1,7 +1,3 @@
-1
-
-###DEC-095781-0-000-04-03-1988@@@
-
 DECRETO N° 95.781, DE 4 DE MARÇO DE 1988.
 
 Altera a redação do caput do art. 1° do Decreto n° 95.682, de 28 de janeiro de 1988, que dispõe sobre medidas de contenção de despesas nos órgãos e entidades da Administração Federal, e dá outra providência.

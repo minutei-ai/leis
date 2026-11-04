@@ -1,5 +1,3 @@
-###DEC-061236-0-000-23-08-1967@@@
-
 DECRETO Nº 61.236, DE 23 DE AGÔSTO DE 1967.
 
 Altera o art. 1º do Decreto nº 57.085, de 15 de outubro de 1965.

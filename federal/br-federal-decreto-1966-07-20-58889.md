@@ -1,5 +1,3 @@
-###DEC-058889-0-000-20-07-1966@@@
-
 DECRETO Nº 58.889, DE 20 DE JULHO DE 1966.
 
 Declara sem efeito o decreto número 52.998, de 27 de novembro de 1963.

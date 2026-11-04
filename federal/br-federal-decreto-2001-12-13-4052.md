@@ -1,5 +1,3 @@
-###DEC-004052-0-000-13-12-2001@@@
-
 DECRETO Nº 4.052, DE 13 DE DEZEMBRO DE 2001
 
 Regulamenta os arts. 5~~º~~ e 7~~º~~ da Lei n~~º~~ 9.989, de 21 de julho de 2000, e o art. 8~~º~~ da Lei n~~º~~ 10.297, de 26 de outubro de 2001, e dá outras providências

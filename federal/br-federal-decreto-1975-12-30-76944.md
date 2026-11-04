@@ -1,5 +1,3 @@
-###DEC-076944-0-000-30-12-1975@@@
-
 DECRETO Nº 76.944, DE 30 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento da Faculdade Cândido Mendes, com sede na cidade de Campos, Estado do Rio de Janeiro.

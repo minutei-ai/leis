@@ -1,5 +1,3 @@
-###DEC-007495-0-000-07-06-2011-PUB-01@@@
-
 DECRETO Nº  7.495, DE 7 DE JUNHO DE 2011
 
 Cria a Comissão Nacional para a Conferência das Nações Unidas sobre Desenvolvimento Sustentável, o Comitê Nacional de Organização da Conferência das Nações Unidas sobre Desenvolvimento Sustentável, a Assessoria Extraordinária para a Conferência das Nações Unidas sobre Desenvolvimento Sustentável e dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS.

@@ -1,5 +1,3 @@
-###DEC-058615-0-000-14-06-1966@@@
-
 DECRETO Nº 58.615, DE 14 DE JUNHO DE 1966
 
 Outorga á companhia Estadual de Energia Elétrica do Rio Grande do Sul concessão para distribuir energia elétrica.

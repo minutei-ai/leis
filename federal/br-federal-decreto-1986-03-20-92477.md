@@ -1,5 +1,3 @@
-###DEC-092477-0-000-20-03-1986@@@
-
 DECRETO Nº 92.477, DE 20 DE MARÇO DE 1986
 
 Outorga concessão à ECO-EMPRESA CODOENSE DE RÁDIO DIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Codó, Estado do Maranhão.

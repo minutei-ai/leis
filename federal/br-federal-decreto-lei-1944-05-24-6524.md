@@ -1,5 +1,3 @@
-###DEL-006524-0-000-24-05-1944@@@
-
 DECRETO-LEI  N. 6.524 - DE 24 DE MAIO DE 1944
 
 Dá nova designação aos membros do Tribunal de Contas do Distrito Federal

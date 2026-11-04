@@ -1,7 +1,3 @@
-1
-
-###DEL-000644-0-000-23-06-1969@@@
-
 DECRETO-LEI Nº 644, de 23 de junho de 1969
 
 Altera a legislação do impôsto único sôbre energia elétrica e do empréstimo compulsório em favor da ELETROBRÁS.
@@ -85,8 +81,6 @@ Jarbas G. Passarinho
 Antônio Dias Leite Júnior
 
 Marcos Vinicius Pratini de Moraes
-
-###DEL-000644-0-000-23-06-1969@@@RET01+++
 
 decreto-lei nº 644, de 23 de junho de 1969
 

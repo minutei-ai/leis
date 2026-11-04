@@ -1,5 +1,3 @@
-###DEL-006299-0-000-29-02-1944@@@
-
 DECRETO-LEI N. 6.299 – DE 29 DE FEVEREIRO DE 1944
 
 Dispõe sôbre o pessoal do Instituto de Aposentadoria e Pensões dos Comerciários

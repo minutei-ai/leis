@@ -1,5 +1,3 @@
-###DEC-046909-0-000-26-09-1959@@@
-
 DECRETO Nº 46.909, DE 26 DE SETEMBRO DE 1959.
 
 Altera o Decreto nº 46.512, de 21 de julho de 1959.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183382)
-
 # DECRETO Nº 62.838, DE 27 DE SETEMBRO DE 2017
 
 ### _Institui Comissão de Avaliação do cumprimento da Lei federal nº 11.794, de 8 de outubro de 2008, bem como das resoluções e portarias editadas pelo Conselho Nacional de Controle de Experimentação Animal - CONCEA no âmbito do Estado de São Paulo_
@@ -48,12 +46,20 @@ Palácio dos Bandeirantes, 27 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 27 de setembro de 2017.

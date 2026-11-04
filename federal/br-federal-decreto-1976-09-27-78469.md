@@ -1,5 +1,3 @@
-###DEC-078469-0-000-27-09-1976@@@
-
 Decreto nº 78.469, de 27 de setembro de 1976.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Biblioteconomia, da Fundação Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

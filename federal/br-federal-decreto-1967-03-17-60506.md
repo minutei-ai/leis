@@ -1,5 +1,3 @@
-###DEC-060506-0-000-17-03-1967@@@
-
 DECRETO Nº 60.506, DE 17 DE MARÇO DE 1967.
 
 Altera o artigo 4º do Regulamento do Gabinete do Ministro da Aeronáutica, aprovado pelo Decreto número 377, de 19 de dezembro de 1961, modificado pelo Decreto nº 56.906, de 28 de setembro de 1965.

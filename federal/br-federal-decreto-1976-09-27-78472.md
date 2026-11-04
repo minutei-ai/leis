@@ -1,5 +1,3 @@
-###DEC-078472-0-000-27-09-1976@@@
-
 DECRETO Nº 78.472, DE 27 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Específicas do Ensino de 2º grau, Esquemas I e II, da Faculdade de Belas Artes de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

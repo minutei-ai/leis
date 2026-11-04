@@ -1,5 +1,3 @@
-###DEC-089283-0-000-10-01-1984@@@
-
 Decreto nº 89.283, de 1o de janeiro de 1984
 
 Altera a composição do Conselho Federal de Entorpecentes - CONFEN

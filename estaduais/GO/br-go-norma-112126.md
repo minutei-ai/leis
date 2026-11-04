@@ -16,10 +16,65 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS</b><br>401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO</td><td style=" width:85px;    ">02 061 4100 4139</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 68.540.974,08</td><td style=" width:85px;    ">R$ 151.567.603,81</td><td style=" width:85px;    ">R$ 220.108.577,89</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO</td><td style=" width:85px;    ">02 061 4100 4139</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.659.253,71</td><td style=" width:85px;    ">R$ 22.709.917,42</td><td style=" width:85px;    ">R$ 24.369.171,13</td></tr></tbody></table>
+**400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**
+401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 174.277.521,23</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 174.277.521,23</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO
+
+02 061 4100 4139
+
+25000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 68.540.974,08
+
+R$ 151.567.603,81
+
+R$ 220.108.577,89
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TJGO
+
+02 061 4100 4139
+
+25000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.659.253,71
+
+R$ 22.709.917,42
+
+R$ 24.369.171,13
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 174.277.521,23
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 174.277.521,23

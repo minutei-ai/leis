@@ -1,7 +1,3 @@
-1
-
-###DEL-001902-0-000-22-12-1981@@@
-
 # decreto-lei nº 1.902, de 22 de dezembro de 1981.
 
 Reajusta os valores de vencimentos, salários e proventos dos servidores civis do Poder Executivo, bem como os das pensões e dá outras providencias.

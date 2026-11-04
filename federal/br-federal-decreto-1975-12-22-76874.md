@@ -1,5 +1,3 @@
-###DEC-076874-0-000-22-12-1975@@@
-
 DECRETO Nº 76.874, de 22 de dezembro de 1975.
 
 Prorroga o prazo de intervenção governamental na área prioritária, para fins de Reforma Agrária, assim declarada pelo Decreto número 73.082, de 05 de novembro de 1973.

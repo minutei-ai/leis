@@ -1,5 +1,3 @@
-###DEL-004408-0-000-25-06-1942@@@
-
 DECRETO-LEI N. 4.408 – DE 25 DE JUNHO DE 1942
 
 Concede Uma pensão especial à viúva e filhos menores de Ludgero Moreira, vítima de acidente em serviço.

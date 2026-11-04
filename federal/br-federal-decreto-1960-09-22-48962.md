@@ -1,5 +1,3 @@
-###DEC-048962-0-000-22-09-1960@@@
-
 DECRETO Nº 48.962, DE 22 DE SETEMBRO DE 1960.
 
 Altera o Decreto nº 34.783, de 14 de dezembro de 1953.

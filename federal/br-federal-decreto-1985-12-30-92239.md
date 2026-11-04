@@ -1,5 +1,3 @@
-###DEC-092239-0-000-30-12-1985@@@
-
 Decreto nº 92.239, de 30 de dezembro de 1985
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Sanga Azul", situado no Município de Anchieta, Estado de Santa Catarina e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980, e dá outras providências..

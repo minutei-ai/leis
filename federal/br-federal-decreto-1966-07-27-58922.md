@@ -1,5 +1,3 @@
-###DEC-058922-0-000-27-07-1966@@@
-
 DECRETO Nº 58.922, DE 27 DE JULHO DE 1966.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

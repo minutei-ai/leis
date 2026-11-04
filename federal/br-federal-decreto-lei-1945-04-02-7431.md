@@ -1,5 +1,3 @@
-###DEL-007431-0-000-02-04-1945@@@
-
 DECRETO-LEI N. 7.431 – DE 2 DE ABRIL DE 1945
 
 Designa nova zona de garimpagem de pedras preciosas e dá outras providências

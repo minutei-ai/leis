@@ -1,5 +1,3 @@
-###DEC-071469-0-000-04-12-1972@@@
-
 DECRETO Nº 71.469 - DE 4 DE DEZEMBRO 1972
 
 Concede reconhecimento ao Curso de Administração de Empresas da Faculdade de Ciências Econômicas de São Paulo - SP.

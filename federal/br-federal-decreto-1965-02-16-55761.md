@@ -1,5 +1,3 @@
-###DEC-055761-0-000-16-02-1965@@@
-
 decreto nº 55.761, de 16 de fevereiro de 1965.
 
 Declara de interêsse social, para fins de desapropriação área de terras e complexos industriais, situados no Estado de Pernambuco, e dá outras providências.

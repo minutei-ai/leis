@@ -1,5 +1,3 @@
-###DEC-046753-0-000-26-08-1959@@@
-
 DECRETO Nº 46.753, DE 26 DE AGÔSTO DE 1959.
 
 Estabelece normas diretoras para o desenvolvimento da Indústria Mecânica Pesada e institui o Grupo Executivo para aplicação dessas normas.

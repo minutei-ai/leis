@@ -1,5 +1,3 @@
-###DEL-003252-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.252 – DE 9 DE MAIO DE 1941
 
 Cria uma coletoria federal no município de Borborema, Estado de São Paulo, e dá outras Providências

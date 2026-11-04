@@ -1,5 +1,3 @@
-###DEL-005771-0-000-23-08-1943@@@
-
 DECRETO‑LEI N. 5.771 – DE 23 DE AGÔSTO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona

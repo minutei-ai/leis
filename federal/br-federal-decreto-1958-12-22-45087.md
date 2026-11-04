@@ -1,5 +1,3 @@
-###DEC-045087-0-000-22-12-1958@@@
-
 DECRETO Nº 45.087, DE 22 DE DEZEMBRO DE 1958.
 
 Concede à sociedade de Navegação de Cabotagem Seabra Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

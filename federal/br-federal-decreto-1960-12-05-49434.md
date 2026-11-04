@@ -1,5 +1,3 @@
-###DEC-049434-0-000-05-12-1960@@@
-
 DECReTO Nº 49.434, DE 5 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Navega Tancho a pesquisar feldspato, no município de Parati, Estado do Rio de Janeiro.

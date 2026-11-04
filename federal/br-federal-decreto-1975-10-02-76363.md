@@ -1,5 +1,3 @@
-###DEC-076363-0-000-02-10-1975@@@
-
 DECRETO Nº 76.363, DE 2 DE OUTUBRO DE 1975.
 
 Inclui na relação aprovada pelo Decreto nº 70.102, de 3 de fevereiro de 1972, o Conselho de Prevenção Antitóxico.

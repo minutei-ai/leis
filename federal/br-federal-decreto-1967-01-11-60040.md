@@ -1,5 +1,3 @@
-###DEC-060040-0-000-11-01-1967@@@
-
 DECRETO Nº 60.040, DE 11 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Januário Lavio Filho a pesquisar granito no município de Itapecerica da Serra, Estado de São Paulo.

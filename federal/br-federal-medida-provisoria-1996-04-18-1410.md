@@ -1,7 +1,3 @@
-1
-
-###MPV-001410-0-000-18-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.410, de 18 de ABRIL DE 1996.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional -  NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

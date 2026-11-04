@@ -1,5 +1,3 @@
-###DEC-005374-0-000-17-02-2005@@@
-
 DECRETO Nº 5.374 DE 17 DE FEVEREIRO DE 2005
 
 Fixa, para o exercício de 2005, o valor mínimo anual por aluno de que trata o art. 6º, § 1º , da Lei nº 9.424, de 24 de dezembro de 1996, e dá outras providências.

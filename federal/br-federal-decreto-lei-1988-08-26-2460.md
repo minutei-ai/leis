@@ -1,7 +1,3 @@
-1
-
-###DEL-002460-0-000-26-08-1988@@@
-
 # DECRETO‑LEI Nº 2.460, DE 26 DE AGOSTO DE 1988
 
 Autoriza a concessão de garantia da União aos títulos que menciona.

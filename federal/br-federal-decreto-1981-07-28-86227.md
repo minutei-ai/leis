@@ -1,5 +1,3 @@
-###DEC-086227-0-000-28-07-1981@@@
-
 DECRETO Nº 86.227, DE 28 DE JULHO DE 1981.
 
 Autoriza a transferência dos bens imóveis da União, que menciona, ao capital social da ARSA - Aeroportos do Rio de Janeiro S/A, e dá outras previdências.

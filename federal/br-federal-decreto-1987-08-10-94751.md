@@ -1,5 +1,3 @@
-###DEC-094751-0-000-10-08-1987@@@
-
 DECRETO Nº 94.751, DE 10 DE AGOSTO DE 1987.
 
 Renova a concessão outorgada à RÁDIO CULTURA PALOTINENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Palotina, Estado do Paraná.

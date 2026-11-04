@@ -1,5 +1,3 @@
-###DEC-058420-0-000-17-05-1966@@@
-
 DECRETO Nº 58.420, DE 17 DE MAIO DE 1966.
 
 Dá nova redação ao item III do artigo 7º e ao art. 28, e seu § 3º, do Decreto nº 54.252, de 3 de setembro de 1964.

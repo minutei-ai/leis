@@ -1,5 +1,3 @@
-###DEL-008422-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.422 – DE 21 de DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 1.969.129,00, à verba que especifica.

@@ -1,5 +1,3 @@
-###DEC-003112-0-000-06-07-1999@@@
-
 DECRETO Nº 3.112, DE 6 DE JULHO DE 1999.
 
 Dispõe sobre a regulamentação da Lei nº 9.796, de 5 de maio de 1999, que versa sobre compensação financeira entre o Regime Geral de Previdência Social e os regimes próprios de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios, na contagem recíproca de tempo de contribuição para efeito de aposentadoria, e dá outras providências.

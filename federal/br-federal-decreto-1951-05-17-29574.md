@@ -1,14 +1,12 @@
-###DEC-029574-0-000-17-05-1951@@@
+**DECRETO Nº 29 574, DE 17 DE MAIO 1951.**
 
-<strong>DECRETO Nº 29 574, DE 17 DE MAIO 1951.</strong>
+***Declara de utilidade pública diversas áreas de terra situadas no distrito de Antônio Dias, Município de igual nome, Estado de Minas Gerais, e autoriza a Companhia Aços Especiais Itabira a promover as respectivas desapropriações.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra situadas no distrito de Antônio Dias, Município de igual nome, Estado de Minas Gerais, e autoriza a Companhia Aços Especiais Itabira a promover as respectivas desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela Companhia Aços Especiais Itabira,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela Companhia Aços Especiais Itabira,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam considerados de utilidade pública as áreas de terras de terra abaixo relacionadas, de acôrdo com as plantas apresentadas em escala 1/2000, situadas no distrito de Antônio Dias, município de igual nome, Estado de Minas Gerais, que serão inundadas pelas águas represadas do rio Piracicaba, na construção de um reservatório de acumulação, para o aproveitamento da cachoeira do salto, cuja concessão, outorgada pelo Decreto nº 17.045, de 3 de novembro de 1944, à Companhia Vale do Rio Dôce S. A. e a Amintas Jacques de Moraes foi posteriormente transferida à Companhia Aços Especiais Itabira, pelos Decretos ns. 18.961, de 20 de junho de 1945, e 23.219, de 20 de junho de 1947:
+**Art**. 1º Ficam considerados de utilidade pública as áreas de terras de terra abaixo relacionadas, de acôrdo com as plantas apresentadas em escala 1/2000, situadas no distrito de Antônio Dias, município de igual nome, Estado de Minas Gerais, que serão inundadas pelas águas represadas do rio Piracicaba, na construção de um reservatório de acumulação, para o aproveitamento da cachoeira do salto, cuja concessão, outorgada pelo Decreto nº 17.045, de 3 de novembro de 1944, à Companhia Vale do Rio Dôce S. A. e a Amintas Jacques de Moraes foi posteriormente transferida à Companhia Aços Especiais Itabira, pelos Decretos ns. 18.961, de 20 de junho de 1945, e 23.219, de 20 de junho de 1947:
 
 1 - Uma área de 21.120 metros quadrados, de propriedade atribuída aos herdeiros de Cordiano Barros, situada à margem direita do rio Piracicaba, distrito de Antônio Dias, município de igual nome, Estado de Minas Gerais, conforme planta nº 1.
 
@@ -40,14 +38,14 @@
 
 15 - Uma área de 2.400 metros quadrados, de propriedade atribuída a Angenor Ataíde, situada à margem esquerda do rio Piracicaba, distrito de Antônio Dias, município de igual nome, Estado de Minas gerais, conforme planta nº 15.
 
-<strong>Art</strong>. 2º A companhia Aços Especiais Itabira fica autorizada a promover a desapropriação das referidas áreas, na forma da legislação vigente.
+**Art**. 2º A companhia Aços Especiais Itabira fica autorizada a promover a desapropriação das referidas áreas, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revoga-se as disposições em contrário.
+**Art**. 4º Revoga-se as disposições em contrário.
 
 Rio de Janeiro, 17 de maio de 1951;130º da Independência e 63º da Republica.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

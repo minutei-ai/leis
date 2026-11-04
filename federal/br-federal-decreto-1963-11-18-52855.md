@@ -1,5 +1,3 @@
-###DEC-052855-0-000-18-11-1963@@@
-
 DECRETO Nº 52.855, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia Nacional de Mineração de Carvão do Barro-Branco, a pesquisar carvão mineral no município de Orleães, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-055098-0-000-01-12-1964@@@
-
 DECRETO Nº 55.098, 1 DE DEZEMBRO DE 1964.
 
 Altera a taxa de conversão aplicável as operações de receita e despesas rendáveis no exterior e dá outras providências.

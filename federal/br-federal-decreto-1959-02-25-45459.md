@@ -1,5 +1,3 @@
-###DEC-045459-0-000-25-02-1959@@@
-
 DECRETO Nº 45.459, DE 25 DE FEVEREIRO DE 1959.
 
 Altera a lotação numérica de repartições do Ministério da Aeronáutica.

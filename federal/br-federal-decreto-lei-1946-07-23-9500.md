@@ -1,5 +1,3 @@
-###DEL-009500-0-000-23-07-1946@@@
-
 DECRETO-LEI N. 9.500 – DE 23 DE JULHO DE 1946
 
 Lei do Serviço Militar

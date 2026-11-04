@@ -1,5 +1,3 @@
-###DEC-069915-0-000-11-01-1972@@@
-
 DECRETO Nº 69.915, DE 11 DE JANEIRO DE 1972.
 
 Retifica O Decreto nº 65.159, de 15 de setembro de 1969, alterado pelo de nº 69.164, de 3 de setembro de 1971, que dispôs sobre o enquadramento de servidores do extinto Instituto Nacional do Pinho, amparados pelas Leis nºs 3.967, de 5 de outubro de 1961, e 4.069, de 11 de junho de 1962.

@@ -1,5 +1,3 @@
-###DEC-083727-0-000-17-07-1979@@@
-
 Decreto nº 83.727, de 17 de julho de 1979
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Itumbiara, com sede na cidade de Itumbiara, Estado de Goiás.

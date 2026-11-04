@@ -1,5 +1,3 @@
-###DEC-053457-0-000-20-01-1964@@@
-
 DECRETO Nº 53.457, DE 20 DE JANEIRO DE 1964.
 
 Outorga à Prefeitura Municipal de Simonésia concessão para o aproveitamento de energia hidráulica da cachoeira Santo Antônio existente no rio São Simão, Município de Simonésia, Estado de Minas Gerais.
@@ -41,8 +39,6 @@ Brasília, 20 de janeiro de 1964; 143º da Independência 76º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-053457-0-000-20-01-1964@@@RET01+++
 
 decreto nº 53.457, de 20 de janeiro de 1964.
 

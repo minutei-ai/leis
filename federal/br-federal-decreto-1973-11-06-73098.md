@@ -1,5 +1,3 @@
-###DEC-073098-0-000-06-11-1973@@@
-
 DECRETO Nº 73.098 - DE 6 DE NOVEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, do Quadro de Pessoal do Departamento Administrativo do Pessoal Civil para o do Ministério da Educação e Cultura, e dá outras providências.

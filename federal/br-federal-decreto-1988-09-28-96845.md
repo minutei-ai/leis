@@ -1,5 +1,3 @@
-###DEC-096845-0-000-28-09-1988@@@
-
 DECRETO Nº 96.845, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à Rádio Difusora de Uberaba Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Uberaba, Estado de Minas Gerais.

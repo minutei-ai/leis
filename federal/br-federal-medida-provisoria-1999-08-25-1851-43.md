@@ -1,5 +1,3 @@
-###MPV-001851-0-043-25-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.851-43, DE 25 DE AGOSTO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

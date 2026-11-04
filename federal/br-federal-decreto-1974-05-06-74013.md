@@ -1,5 +1,3 @@
-###DEC-074013-0-000-06-05-1974@@@
-
 DECRETO Nº 74.013, DE 6 DE MAIO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Monte Santo de Minas, Estado de Minas Gerais.

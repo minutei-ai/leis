@@ -1,5 +1,3 @@
-###DEC-057038-0-000-11-10-1965@@@
-
 DECRETO Nº 57.038, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza Olinto Rodrigues da Silva, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-048092-0-000-11-04-1960@@@
-
 DECRETO Nº 48.092, DE 11 DE ABRIL DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário Mensalista do Ministério da Guerra.

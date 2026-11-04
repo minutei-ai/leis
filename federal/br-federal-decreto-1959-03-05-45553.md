@@ -1,5 +1,3 @@
-###DEC-045553-0-000-05-03-1959@@@
-
 DECRETO Nº 45.553, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Luiz Fonseca de Souza Meireles a lavrar pirofilita no município de Santana de Paranaíba, Estado de São Paulo.

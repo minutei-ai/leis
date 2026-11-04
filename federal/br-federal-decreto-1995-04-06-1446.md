@@ -1,7 +1,3 @@
-1
-
-###DEC-001446-0-000-06-04-1995@@@
-
 DECRETO Nº 1.446, DE 6 DE ABRIL DE 1995
 
 Dá nova redação ao art. 2º do Decreto nº 1.099, de 30 de março de 1994, que dispõe sobre a organização e o funcionamento da Junta de Programação Financeira.

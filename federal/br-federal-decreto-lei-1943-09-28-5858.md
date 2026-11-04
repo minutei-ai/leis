@@ -1,5 +1,3 @@
-###DEL-005858-0-000-28-09-1943@@@
-
 DECRETO‑LEI N. 5.858 – DE 28 DE SETEMBRO DE 1943
 
 Altera o efetivo de primeiros tenentes médicos da Aeronáutica, a que se refere, art. 2º do decreto‑lei n. 3.872, de 2 de dezembro de 1941

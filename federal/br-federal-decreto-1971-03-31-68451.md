@@ -1,5 +1,3 @@
-###DEC-068451-0-000-31-03-1971@@@
-
 DECRETO Nº 68.451, DE 31 DE MARÇO DE 1971.
 
 Regulamenta o artigo 4º da Lei número 5.480, de 10 de agosto de 1968.

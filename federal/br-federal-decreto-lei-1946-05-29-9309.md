@@ -1,5 +1,3 @@
-###DEL-009309-0-000-29-05-1946@@@
-
 DECRETO-LEI N. 9.309 – DE 29 DE MAIO DE 1946
 
 Eleva, sem aumento de despesa, o limite fixada pelo Decreto-lei número 6.403, de 5 de Abril de 1944.

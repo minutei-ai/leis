@@ -1,5 +1,3 @@
-###DEC-056592-0-000-21-07-1965@@@
-
 Decreto nº 56.592, de 21 de julho de 1965.
 
 Altera o parágrafo 1º do artigo 2º do Decreto nº 54.559, de 23 de outubro de 1964.

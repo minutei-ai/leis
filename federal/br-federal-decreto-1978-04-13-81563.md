@@ -1,5 +1,3 @@
-###DEC-081563-0-000-13-04-1978@@@
-
 Decreto nº 81.563, de 13 de abril de 1978
 
 Dá nova redação a disposições do Regulamento do PRORURAL, aprovado pelo Decreto nº 73.617, de 12 de fevereiro de 1974, e ao art. 3º do Regulamento aprovado pelo Decreto nº 76.022, de 24 de julho de 1975.

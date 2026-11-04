@@ -1,5 +1,3 @@
-###DEC-054344-0-000-29-09-1964@@@
-
 decreto nº 54.344, de 29 de setembro de 1964
 
 Renova o Decreto nº 47.393, de 10 de dezembro de 1959.

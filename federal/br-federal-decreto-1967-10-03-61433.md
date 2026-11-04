@@ -1,5 +1,3 @@
-###DEC-061433-0-000-03-10-1967@@@
-
 DECRETO Nº 61.433, DE 3 DE OUTUBRO DE 1967.
 
 Autoriza Josino Soares Ferreira a comprar pedras preciosas.

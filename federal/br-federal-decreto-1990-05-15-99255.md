@@ -1,7 +1,3 @@
-1
-
-###DEC-099255-0-000-15-05-1990@@@
-
 DECRETO Nº 99.255, DE 15 DE MAIO DE 1990
 
 Revoga parágrafo do Decreto nº 76.590, de 11 de novembro de 1975, que dispõe sobre os Sistemas Integrados de Transporte Aéreo Regional.

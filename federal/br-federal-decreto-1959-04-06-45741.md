@@ -1,5 +1,3 @@
-###DEC-045741-0-000-06-04-1959@@@
-
 DECRETO Nº 45.741, DE 6 DE ABRIL DE 1959.
 
 Concede à sociedade anônima Eli Lilly And Company of Brazil, Inc. autorização para continuar a funcionar na República.

@@ -1,5 +1,3 @@
-###DEL-006809-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.809 – DE 21 DE AGÔSTO DE 1944
 
 Prorroga por cento e vinte dias o prazo a que se refere o art. 17 do Decreto-lei nº 6.378, de 28 de março de 1944

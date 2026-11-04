@@ -1,5 +1,3 @@
-###DEC-080535-0-000-10-10-1977@@@
-
 DECRETO Nº 80.535, DE 10 DE OUTUBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Pirapora, Estado de Minas Gerais.

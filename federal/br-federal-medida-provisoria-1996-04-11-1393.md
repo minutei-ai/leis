@@ -1,7 +1,3 @@
-1
-
-###MPV-001393-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.393, DE 11 DE ABRIL DE 1996.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

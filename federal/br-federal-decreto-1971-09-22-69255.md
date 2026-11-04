@@ -1,5 +1,3 @@
-###DEC-069255-0-000-22-09-1971@@@
-
 DECRETO Nº 69.255, DE 22 DE SETEMBRO DE 1971.
 
 Declara de utilidade publica, para fins de constituição de servidão, uma faixa de terra destinada a passagem de linha de transmissão no município de Guarapari, Estado do Espirito Santo.

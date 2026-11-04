@@ -1,5 +1,3 @@
-###DEC-066175-0-000-04-02-1970@@@
-
 DECRETO Nº 66.175 - DE 4 DE FEVEREIRO 1970
 
 Dispõe sôbre o visto consular em fatura comercial.

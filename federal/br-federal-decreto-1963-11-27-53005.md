@@ -1,5 +1,3 @@
-###DEC-053005-0-000-27-11-1963@@@
-
 DECRETO Nº 53.005, DE 27 DE NOVEMBRO DE 1963.
 
 Transfere de Martinetto e Irmãos para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica e dá outras providências.

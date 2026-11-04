@@ -1,5 +1,3 @@
-###DEC-071659-0-000-04-01-1973@@@
-
 DECRETO Nº 71.659, DE 4 DE JANEIRO DE 1973.
 
 Concede reconhecimento ao Curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras da Organização Mogiana de Educação e Cultura, de duração plena, para habilitação de Educação Moral e Cívica, Mogi dos Cruzes, São Paulo.

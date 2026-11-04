@@ -19,15 +19,18 @@ Art. 3º - O SENAI devolverá os imóveis ao patrimônio do Município, se por q
 
 Art. 4º - Esta Lei entrará em vigor na data de sua publicação, revogando expressamente a alínea “a” do artigo 1º, da Lei Municipal 2.470, de 25 de junho de 2004.
 
-Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado do Goiás,  aos vinte e dois dias do mês de agosto de dois mil e oito.<br>
+Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado do Goiás,  aos vinte e dois dias do mês de agosto de dois mil e oito.
+
                   
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-PAULO HENRIQUE DE TOLEDO CARDOSO<br>
-SEC. DE REGULAÇÃO URBANA<br>
-    <br>
+PAULO HENRIQUE DE TOLEDO CARDOSO
+
+SEC. DE REGULAÇÃO URBANA

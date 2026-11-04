@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208280)<br>
-
 # DECRETO N° 67.802, DE 17 DE JULHO DE 2023
 
 ### _Transfere atribuições da Secretaria da Justiça e Cidadania para a Secretaria de Agricultura e Abastecimento._

@@ -1,5 +1,3 @@
-###DEC-006731-0-000-12-01-2009@@@
-
 DECRETO Nº 6.731, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República Oriental do Uruguai sobre Cooperação Policial em Matéria de Investigação, Prevenção e Controle de Fatos Delituosos, celebrado em Rio Branco, Uruguai,  em 14 de abril de 2004.

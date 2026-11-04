@@ -1,5 +1,3 @@
-###DEC-090391-0-000-30-10-1984@@@
-
 Decreto nº 90.391, de 30 de outubro de 1984
 
 Ratifica a revisão do projeto e da planta de situação, a que se refere o Decreto nº 87.397, de 13 de julho de 1982, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-096648-0-000-05-09-1988@@@
-
 DECRETO N° 96.648, DE 05 DE SETEMBRO DE 1988
 
 Outorga concessão à RADIODIFUSÃO CAMPO ABERTO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Laranjeiras do Sul, Estado do Paraná.

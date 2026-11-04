@@ -1,5 +1,3 @@
-###DEC-071762-0-000-26-01-1973@@@
-
 DECRETO Nº 71.762, DE 26 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Artes Plásticas de Santos, mantida pelo Instituto Superior de Educação Santa Cecília, Santos - São Paulo.

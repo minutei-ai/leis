@@ -1,5 +1,3 @@
-###DEL-008279-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.279 – DE 4 DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, o orçamento do “Plano de Obras e Equipamentos” para 1945, na parte relativa ao Ministério da Viação e Obras Públicas.

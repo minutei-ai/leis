@@ -1,5 +1,3 @@
-###DEC-006486-0-000-17-06-2008@@@
-
 DECRETO Nº 6.486, DE 17 DE JUNHO DE 2008.
 
 Dispõe sobre a execução da Ata de Retificação, de 20 de março de 2007, do Acordo de Complementação Econômica nº 62, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República de Cuba.
@@ -22,11 +20,7 @@ Brasília, 17 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 17.6.2008
-
-ATA DE RETIFICAÇÃO DO ACORDO DE ALCANCE PARCIAL DE COMPLEMENTAÇÃO ECONÔMICA N° 62, MERCOSUL - CUBA
+Celso Luiz Nunes AmorimATA DE RETIFICAÇÃO DO ACORDO DE ALCANCE PARCIAL DE COMPLEMENTAÇÃO ECONÔMICA N° 62, MERCOSUL - CUBA
 
  Na cidade de Montevidéu, aos vinte dias do mês de março de dois mil e sete, a Secretaria-Geral da Associação Latino-Americana de Integração (ALADI), em uso das faculdades que lhe confere a Resolução 30 do Comitê de Representantes, como depositária dos Acordos e Protocolos assinados pelos Governos dos países-membros da Associação, e em conformidade com o estabelecido em seu Artigo Terceiro, faz constar:
 

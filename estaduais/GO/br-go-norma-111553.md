@@ -16,26 +16,273 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">COFINANCIAMENTO DE COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA</td><td style=" width:12%;    ">10 303 1043 2506</td><td style=" width:12%;    ">26000232</td><td style=" width:12%;    ">41</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 881,25</td><td style=" width:12%;    ">R$ 881,25</td></tr><tr><td style=" width:12%;    ">PLANO DE FORTALECIMENTO - &nbsp;DISPONIBILIZAÇÃO DE LEITOS DE UTI</td><td style=" width:12%;    ">10 302 1043 2518</td><td style=" width:12%;    ">26000232</td><td style=" width:12%;    ">41</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 10.000,00</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 510.000,00</td></tr><tr><td style=" width:12%;    ">REALIZAÇÃO DE &nbsp;PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE</td><td style=" width:12%;    ">10 302 1043 2521</td><td style=" width:12%;    ">26010233</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 10.000,00</td><td style=" width:12%;    ">R$ 685.704,12</td><td style=" width:12%;    ">R$ 695.704,12</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 181 1051 2351</td><td style=" width:12%;    ">27000280</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 5.377.943,00</td><td style=" width:12%;    ">R$ 205.321,50</td><td style=" width:12%;    ">R$ 5.583.264,50</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 183 1051 3179</td><td style=" width:12%;    ">27130000</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 197.429,36</td><td style=" width:12%;    ">R$ 197.429,36</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL</td><td style=" width:12%;    ">14 421 1007 2373</td><td style=" width:12%;    ">27490224</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 329.629,94</td><td style=" width:12%;    ">R$ 329.629,94</td></tr><tr><td style=" width:12%;    ">GESTÃO DA INICIATIVA NOVOS TEMPOS EM RESSOCIALIZAÇÃO</td><td style=" width:12%;    ">14 421 1007 2485</td><td style=" width:12%;    ">27490223</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 32.780,00</td><td style=" width:12%;    ">R$ 32.780,00</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO</td><td style=" width:12%;    ">06 182 1051 2368</td><td style=" width:12%;    ">17030292</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 40.000,00</td><td style=" width:12%;    ">R$ 648.406,71</td><td style=" width:12%;    ">R$ 688.406,71</td></tr><tr><td style=" width:12%;    ">GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO</td><td style=" width:12%;    ">06 182 1051 2368</td><td style=" width:12%;    ">17030292</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 99.000,00</td><td style=" width:12%;    ">R$ 1.468.199,20</td><td style=" width:12%;    ">R$ 1.567.199,20</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+COFINANCIAMENTO DE COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA</td><td style=" width:50%;  height:19px;   ">R$ 2.116.605,91</td></tr><tr><td style=" width:50%;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 500.881,25</td></tr><tr><td style=" width:50%;    ">26010233 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 685.704,12</td></tr><tr><td style=" width:50%;    ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 205.321,50</td></tr><tr><td style=" width:50%;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 197.429,36</td></tr><tr><td style=" width:50%;    ">27490223 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS - CORRENTES - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 32.780,00</td></tr><tr><td style=" width:50%;    ">27490224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS - CAPITAL - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 329.629,94</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 4.068.352,08</td></tr></tbody></table>
+10 303 1043 2506
+
+26000232
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 881,25
+
+R$ 881,25
+
+PLANO DE FORTALECIMENTO -  DISPONIBILIZAÇÃO DE LEITOS DE UTI
+
+10 302 1043 2518
+
+26000232
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 500.000,00
+
+R$ 510.000,00
+
+REALIZAÇÃO DE  PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE
+
+10 302 1043 2521
+
+26010233
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 685.704,12
+
+R$ 695.704,12
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+27000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 5.377.943,00
+
+R$ 205.321,50
+
+R$ 5.583.264,50
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA
+
+06 183 1051 3179
+
+27130000
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 197.429,36
+
+R$ 197.429,36
+
+**2951-FUNDO PENITENCIÁRIO ESTADUAL - FUNPES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+AQUISIÇÃO DE EQUIPAMENTO DE SEGURANÇA PRISIONAL
+
+14 421 1007 2373
+
+27490224
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 329.629,94
+
+R$ 329.629,94
+
+GESTÃO DA INICIATIVA NOVOS TEMPOS EM RESSOCIALIZAÇÃO
+
+14 421 1007 2485
+
+27490223
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 32.780,00
+
+R$ 32.780,00
+
+**2953-FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO
+
+06 182 1051 2368
+
+17030292
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 40.000,00
+
+R$ 648.406,71
+
+R$ 688.406,71
+
+GESTÃO OPERACIONAL DE PREVENÇÃO E SOCORRO
+
+06 182 1051 2368
+
+17030292
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 99.000,00
+
+R$ 1.468.199,20
+
+R$ 1.567.199,20
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+17030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA
+
+R$ 2.116.605,91
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 500.881,25
+
+26010233 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 685.704,12
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 205.321,50
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 197.429,36
+
+27490223 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS - CORRENTES - EXERCÍCIOS ANTERIORES
+
+R$ 32.780,00
+
+27490224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS - CAPITAL - EXERCÍCIOS ANTERIORES
+
+R$ 329.629,94
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 4.068.352,08

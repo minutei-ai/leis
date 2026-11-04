@@ -1,5 +1,3 @@
-###DEC-007617-0-000-17-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.617, DE 17 DE NOVEMBRO DE 2011
 
 Altera o Regulamento do Benefício de Prestação Continuada, aprovado pelo Decreto n° 6.214, de 26 de setembro de 2007.

@@ -1,5 +1,3 @@
-###DEC-061073-0-000-26-07-1967@@@
-
 DECRETO Nº 61.073, DE 26 DE JULHO DE 1967.
 
 Transfere de Antônio Luís de Souza para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Ilicínea, Estado de Minas Gerais e dá outras providências.

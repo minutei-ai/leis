@@ -1,5 +1,3 @@
-###DEL-002157-0-000-14-08-1984@@@
-
 # DecretO-lei nº 2.157, de 14 de agosto de 1984.
 
 Altera o artigo 7º do Decreto-lei nº 2.035, de 21 de junho de 1983, acrescentado pelo Decreto-lei nº 2.055, de 1983, que dispõe sobre a sucessão da autarquia federal Superintendência Nacional da Marinha Mercante - SUNAMAM.

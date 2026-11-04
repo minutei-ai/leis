@@ -1,5 +1,3 @@
-###DEL-003315-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.315 – DE 26 DE MAIO DE 1941
 
 Organiza o 14º Regimento de Infantaria

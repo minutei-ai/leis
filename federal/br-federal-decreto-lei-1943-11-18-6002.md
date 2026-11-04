@@ -1,5 +1,3 @@
-###DEL-006002-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.002 – DE 18 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 15.444,00 para pagamento de contribuição devida ao Instituto de Aposentadoria e Pensões dos Industriários

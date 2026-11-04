@@ -1,5 +1,3 @@
-###DEC-045621-0-000-24-03-1959@@@
-
 Decreto nº 45.621, de 24 de março de 1959.
 
 Autoriza pessoa jurídica estrangeira a adquirir, em transferência de aforamento, e domínio útil do terreno de marinha que menciona, no Distrito Federal.

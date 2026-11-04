@@ -6,18 +6,20 @@ Declara de Utilidade Pública Estadual o Museu Parque Temático Histórico do Pa
 
 Publicada no Diário Oficial nº 8.519, de 19 de setembro de 2013, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública Estadual o <i>Museu Parque Temático Histórico do Pantanal</i>, com sede e foro no Município de Coxim.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública Estadual o *Museu Parque Temático Histórico do Pantanal*, com sede e foro no Município de Coxim.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 18 de setembro de 2013.
 
-<br>
-ANDRÉ PUCCINELLI<br>
-Governador do Estado<br>
-<br>
-TANIA MARA GARIB<br>
+ANDRÉ PUCCINELLI
+
+Governador do Estado
+
+TANIA MARA GARIB
+
 Secretária de Estado de Trabalho e Assistência Social

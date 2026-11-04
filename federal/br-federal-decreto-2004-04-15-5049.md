@@ -1,5 +1,3 @@
-###DEC-005049-0-000-15-04-2004@@@
-
 DECRETO Nº 5.049, DE 15 DE ABRIL DE 2004
 
  Dispõe sobre a execução do Segundo Protocolo Adicional, de 17 de novembro de 2003, ao Acordo de Alcance Parcial no 38, assinado ao amparo do artigo 25 do Tratado de Montevidéu, entre os Governos da República Federativa do Brasil e da República Cooperativista da Guiana.
@@ -22,10 +20,14 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO DE ALCANCE PARCIAL DE COMPLEMENTAÇÃO<br>
-ECONÔMICA N° 38, SUBCRITO AO AMPARO DO<br>
-ARTIGO 25 DO TRATADO DE MONTEVIDÉU 1980,<br>
-ENTRE A REPÚBLICA FEDERATIVA DO BRASIL<br>
+# ACORDO DE ALCANCE PARCIAL DE COMPLEMENTAÇÃO
+
+ECONÔMICA N° 38, SUBCRITO AO AMPARO DO
+
+ARTIGO 25 DO TRATADO DE MONTEVIDÉU 1980,
+
+ENTRE A REPÚBLICA FEDERATIVA DO BRASIL
+
 E A REPÚBLICA COOPERATIVISTA DA GUIANA
 
 ## Segundo Protocolo Adicional

@@ -1,5 +1,3 @@
-###DEC-007418-0-000-31-12-2010-PUB-01@@@
-
 DECRETO Nº 7.418, DE 31 DE DEZEMBRO DE 2010.
 
 Prorroga a validade dos restos a pagar não-processados inscritos nos exercícios financeiros de 2007, 2008 e 2009.

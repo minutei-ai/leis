@@ -1,5 +1,3 @@
-###DEC-059739-0-000-15-12-1966@@@
-
 Decreto nº 59.739, de 15 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Roberto Gasparini a pesquisar diatomita, no município de Campos, Estado do Rio de Janeiro.

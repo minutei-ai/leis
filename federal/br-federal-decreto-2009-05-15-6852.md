@@ -1,5 +1,3 @@
-###DEC-006852-0-000-15-05-2009@@@
-
 DECRETO Nº 6.852, DE 15 DE MAIO DE 2009.
 
 Estabelece norma temporária sobre progressão funcional e promoção dos servidores integrantes da Carreira de Auditoria-Fiscal do Trabalho e dos titulares do cargo de Auditor-Fiscal da Receita Federal do Brasil, oriundos da Carreira Auditoria-Fiscal da Previdência Social, de que trata a Lei no 10.593, de 6 de dezembro de 2002, e dá outras providências.

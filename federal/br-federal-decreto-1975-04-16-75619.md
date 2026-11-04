@@ -1,5 +1,3 @@
-###DEC-075619-0-000-16-04-1975@@@
-
 DECRETO Nº 75.619, DE 16 DE ABRIL DE 1975.
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Araçatuba, manida pela Associação de Ensino "Marechal Cândido Rondon", com sede na Cidade de Araçatuba, Estado de São Paulo.

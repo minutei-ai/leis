@@ -1,32 +1,30 @@
-###DEC-041478-0-000-08-05-1957@@@
+**DECRETO Nº 41.478, DE 8 DE MAIO DE 1957.**
 
-<strong>DECRETO Nº 41.478, DE 8 DE MAIO DE 1957.</strong>
+***Aprova o Regimento das Delegacias Regionais do Trabalho, do Ministério do Trabalho, Indústria e Comércio, e dá outras providências.***
 
-<em><strong>Aprova o Regimento das Delegacias Regionais do Trabalho, do Ministério do Trabalho, Indústria e Comércio, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e, tendo em vista o art. 5º do Decreto-lei nº 2.168, de 6 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e, tendo em vista o art. 5º do Decreto-lei nº 2.168, de 6 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento das Delegacias Regionais do Trabalho, do Ministério do Trabalho, Indústria e Comércio, que com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento das Delegacias Regionais do Trabalho, do Ministério do Trabalho, Indústria e Comércio, que com êste baixa, assinado pelo respectivo Ministro de Estado.
+**Art**. 2º O presente Regimento se aplicará à Delegacia Regional do Trabalho no Estado de São Paulo, no que couber.
 
-<strong>Art</strong>. 2º O presente Regimento se aplicará à Delegacia Regional do Trabalho no Estado de São Paulo, no que couber.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 8 de maio de 1957; 136º da Independência  e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso
 
 REGIMENTO DAS DELEGACIAS REGIONAIS DO TRABALHO DO MINISTÉRIO DO TRABALHO, INDÚSTRIA E COMÉRCIO
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º As Delegacias Regionais do Trabalho (D.R.T.), do Ministério do Trabalho, Indústria e Comércio, a que se refere o Decreto-lei nº 2.168, de 6 de maio de 1940, são diretamente subordinadas ao Ministro do Trabalho, Indústria e Comércio e têm por finalidade orientar, executar e fiscalizar, na esfera de sua jurisdição própria, o exato cumprimento das leis de proteção do trabalho, bem assim outros encargos de órgãos do aludido Ministério, que lhes sejam legalmente conferidos.
+**Art**. 1º As Delegacias Regionais do Trabalho (D.R.T.), do Ministério do Trabalho, Indústria e Comércio, a que se refere o Decreto-lei nº 2.168, de 6 de maio de 1940, são diretamente subordinadas ao Ministro do Trabalho, Indústria e Comércio e têm por finalidade orientar, executar e fiscalizar, na esfera de sua jurisdição própria, o exato cumprimento das leis de proteção do trabalho, bem assim outros encargos de órgãos do aludido Ministério, que lhes sejam legalmente conferidos.
 
 § 1º Constitui, ainda, finalidade das Delegacias Regionais do Trabalho:
 
@@ -38,13 +36,13 @@ b) adotar providências para a coordenação dos interêsses econômicos e profi
 
 § 3º Mediante pronunciamento das respectivas Delegacias Regionais do Trabalho, o Ministro de Estado poderá modificar a jurisdição das Delegacias Regionais do Trabalho, para atender a condições geográficas peculiares.
 
-<strong>Art</strong>. 2º Haverá uma D.R.T. para cada Estado, com sede nas respectivas Capitais e jurisdição em todo o território estadual.
+**Art**. 2º Haverá uma D.R.T. para cada Estado, com sede nas respectivas Capitais e jurisdição em todo o território estadual.
 
 Parágrafo único. Os Territórios Federais do Acre, Rio Branco, Rondônia, passam a integrar a jurisdição da D.R.T. no Estado do Amazonas; o do Amapá, da D.R.T. no Estado do Pará; e o de Fernando de Noronha, da D.R.T., no Estado de Pernambuco.
 
-<strong>Art</strong>. 3º As Delegacias Regionais do Trabalho, no exercício de suas atribuições, cumpre observar a orientação e  instruções emanadas dos órgãos da administração central do Ministério do Trabalho, Indústria e Comércio, sem prejuízo da subordinação direta ao respectivo Ministro de Estado.
+**Art**. 3º As Delegacias Regionais do Trabalho, no exercício de suas atribuições, cumpre observar a orientação e  instruções emanadas dos órgãos da administração central do Ministério do Trabalho, Indústria e Comércio, sem prejuízo da subordinação direta ao respectivo Ministro de Estado.
 
-<strong>Art</strong>. 4º Fica adotada a seguinte ordem e nomenclatura para as Delegacias Regionais do Trabalho:
+**Art**. 4º Fica adotada a seguinte ordem e nomenclatura para as Delegacias Regionais do Trabalho:
 
 1ª - D.R.T. no Estado do Amazonas.
 
@@ -86,11 +84,11 @@ Parágrafo único. Os Territórios Federais do Acre, Rio Branco, Rondônia, pass
 
 20ª - D.R.T. no Estado de Mato Grosso.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 5º As D.R.T. compreendem:
+**Art**. 5º As D.R.T. compreendem:
 
 I – Seção de Administração (S.A.);
 
@@ -102,23 +100,23 @@ IV – Seção de Identificação Profissional (S.I.P.);
 
 V – Seção de Abono Familiar (S.A.F.).
 
-<strong>Art</strong>. 6º Cada D.R.T. será dirigida por um Delegado Regional, designado pelo Presidente da República.
+**Art**. 6º Cada D.R.T. será dirigida por um Delegado Regional, designado pelo Presidente da República.
 
-<strong>Art</strong>. 7º Os Delegados Regionais terão um Secretário e um Assistente Jurídico, por êles designados.
+**Art**. 7º Os Delegados Regionais terão um Secretário e um Assistente Jurídico, por êles designados.
 
-<strong>Art</strong>. 8º As funções, em cada D.R.T., serão providas por designação dos respectivos Delegados Regionais.
+**Art**. 8º As funções, em cada D.R.T., serão providas por designação dos respectivos Delegados Regionais.
 
-<strong>Art</strong>. 9º Os órgãos de que se compõem as D.R.T. funcionarão perfeitamente articulado entre si, em regime de mútua colaboração e sob a orientação e coordenação do Delegado Regional.
+**Art**. 9º Os órgãos de que se compõem as D.R.T. funcionarão perfeitamente articulado entre si, em regime de mútua colaboração e sob a orientação e coordenação do Delegado Regional.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 10. À Seção de Administração compete:
+**Art**. 10. À Seção de Administração compete:
 
 I) coordenar os assuntos relativos aos servidores da Delegacia, executando e fiscalizando as medidas de caráter administrativo e social que a seu respeito forem adotadas;
 
@@ -126,11 +124,11 @@ II) coordenar, executar e fiscalizar as medidas de caráter administrativo, econ
 
 III) receber, registrar, distribuir, guardar e expedir a correspondência, processos e demais documentos referentes aos serviços da Delegacia localizados na sede, bem como orientar e atender aos pedidos de informações do público e dos demais órgãos da Delegacia.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Seção de Fiscalização</em>
+*Da Seção de Fiscalização*
 
-<strong>Art</strong>. 11. À Seção de Fiscalização compete:
+**Art**. 11. À Seção de Fiscalização compete:
 
 I) fiscalizar, a observância das disposições legais de proteção ao trabalho relativas à identificação profissional, duração do trabalho, férias, higiene e segurança do trabalho, nacionalização do trabalho, proteção ao trabalho da mulher e de menor e contrato coletivo.
 
@@ -156,7 +154,7 @@ IX) lavrar as certidões de nacionalização do trabalho;
 
 X) instruir os processos de recursos das decisões cominatórias de multas nos processos de infração dos preceitos legais a que se refere o art. 21.
 
-<strong>Art</strong>. 12. Ao P.F. compete:
+**Art**. 12. Ao P.F. compete:
 
 a) fiscalizar, no território de sua jurisdição, a observância das disposições legais de proteção ao trabalho;
 
@@ -168,11 +166,11 @@ d) receber e conferir relações de empregados e de menores, entregando uma das 
 
 e) apresentar, anualmente, relatório das suas atividades.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Seção Sindical</em>
+*Da Seção Sindical*
 
-<strong>Art</strong>. 13. À Seção Sindical compete:
+**Art**. 13. À Seção Sindical compete:
 
 I) proceder ao registro e organizar o cadastro de associados profissionais em tôda a sua jurisdição;
 
@@ -212,11 +210,11 @@ XVIII) – prestar informações  em casos de admissão de técnicos estrangeir
 
 XIX) – promover as necessárias pesquisas sôbre os problemas de distribuição e colocação de trabalhadores.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Seção de Identificação Profissional</em>
+*Da Seção de Identificação Profissional*
 
-<strong>Art</strong>. 14. À Seção de Identificação Profissional compete:
+**Art**. 14. À Seção de Identificação Profissional compete:
 
 I) – proceder à identificação física dos candidatos à Carteira Profissional;
 
@@ -246,13 +244,13 @@ XIII) efetuar o registro dos livros e fichas de empregados, organizando-lhes o r
 
 XIV) – proceder ao registro dos que exerçam profissão regulamentada.
 
-<strong>Art</strong>. 15. Aos Postos de Identificação compete executar na sua zona de ação, as atribuições previstas nos itens I e II do artigo anterior.
+**Art**. 15. Aos Postos de Identificação compete executar na sua zona de ação, as atribuições previstas nos itens I e II do artigo anterior.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Seção de Abono Familiar</em>
+*Da Seção de Abono Familiar*
 
-<strong>Art</strong>. 16. À Seção de Abono Familiar compete:
+**Art**. 16. À Seção de Abono Familiar compete:
 
 I) – organizar, examinar e informar os processos de habilitação ao abono familiar, bem como todos os serviços complementares, em conformidade com o Decreto nº 12.299 de 1943 e instruções do S.E.P.T.;
 
@@ -270,11 +268,11 @@ VII) – examinar e informar os processos originados de reclamações dos benefi
 
 VIII) – manter estreita colaboração com a Delegacia Fiscal do Tesouro Nacional e exatorias fiscais, no que se refere ao Abono Familiar.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições dos Funcionários</em>
+*Das Atribuições dos Funcionários*
 
-<strong>Art</strong>. 17. Aos Delegados Regionais incumbe:
+**Art**. 17. Aos Delegados Regionais incumbe:
 
 I – orientar, coordenar e fiscalizar a execução dos trabalhos afetos à Delegacia;
 
@@ -286,7 +284,7 @@ IV – impor multas, nos têrmos da legislação vigente;
 
 V – fixar as sedes e âmbitos de ação dos postos de fiscalização e de identificação, depois de aprovada sua criação pelo Ministro de Estado;
 
-VI – recorrer <em>ex-offício</em> de tôda decisão que julgar improcedente os autos de infração lavrados;
+VI – recorrer *ex-offício* de tôda decisão que julgar improcedente os autos de infração lavrados;
 
 VII – despachar diretamente com os Chefes de Seção;
 
@@ -334,7 +332,7 @@ V – organizar o registro de jurisprudência das decisões administrativas e ju
 
 VI – apresentar ao Delegado Regional nas épocas próprias, o relatório dos trabalhos a seu cargo.
 
-<strong>Art</strong>. 19. Aos Chefes de Seção incumbe:
+**Art**. 19. Aos Chefes de Seção incumbe:
 
 I – dirigir, coordenar e fiscalizar os trabalhos a cargo da Seção;
 
@@ -366,9 +364,9 @@ XIV – propor ao Delegado Regional, conforme a necessidade do serviço, a organ
 
 XV – apresentar ao Delegado Regional, nas épocas próprias, o relatório das atividades do respectivo serviço.
 
-<strong>Art</strong>. 20. Aos demais servidores compete executar os trabalhos de que forem incumbidos, observar as ordens e instruções superiores e cumprirem as prescrições legais e regimentais.
+**Art**. 20. Aos demais servidores compete executar os trabalhos de que forem incumbidos, observar as ordens e instruções superiores e cumprirem as prescrições legais e regimentais.
 
-<strong>Art</strong>. 21. Ao Secretário compete:
+**Art**. 21. Ao Secretário compete:
 
 I – receber e encaminhar ao Delegado as pessoas que o procurem dando-lhe prévio conhecimento do assunto a tratar;
 
@@ -376,29 +374,29 @@ II – representar o Delegado quando para isso fôr designado; e
 
 III – redigir a correspondência pessoal do Delegado.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 22. As D.R.T. terão a lotação que fôr aprovada pela autoridade competente.
+**Art**. 22. As D.R.T. terão a lotação que fôr aprovada pela autoridade competente.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 23. O horário de trabalho das D.R.T. será fixado pelo Delegado Regional, observadas as disposições legais em vigor;
+**Art**. 23. O horário de trabalho das D.R.T. será fixado pelo Delegado Regional, observadas as disposições legais em vigor;
 
-<strong>Art</strong>. 24. Não estão sujeitos a ponto o Delegado e os Encarregados dos Postos de Fiscalização.
+**Art**. 24. Não estão sujeitos a ponto o Delegado e os Encarregados dos Postos de Fiscalização.
 
 § 1º A freqüência dos servidores incumbidos da função de fiscalização e assistência sindical, pela própria natureza dos seus encargos, será verificada por meio de boletins diários de produção, controlados pelo referido Chefe imediato.
 
 § 2º Os demais servidores estão sujeitos aponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 25. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 25. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I – O Delegado Regional, pró um servidor por êle indicado e designado pelo Ministro de Estado;
 
@@ -408,15 +406,15 @@ III – Os Encarregados de Postos de Fiscalização pelo servidor por êles indi
 
 Parágrafo único. Haverá sempre funcionário previamente designado para as substituições a que se refere êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 26. Cada Seção deverá manter atualizados regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às atividades específicas das mesmas.
+**Art**. 26. Cada Seção deverá manter atualizados regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às atividades específicas das mesmas.
 
-<strong>Art</strong>. 27. Os casos omissos neste Regulamento, serão relativos pelo Ministro de Estado.
+**Art**. 27. Os casos omissos neste Regulamento, serão relativos pelo Ministro de Estado.
 
-<strong>Art</strong>. 28. Êste Regimento entrará em vigor na data da sua publicação.
+**Art**. 28. Êste Regimento entrará em vigor na data da sua publicação.
 
 Rio de Janeiro, 8 de maio de 1957.
 

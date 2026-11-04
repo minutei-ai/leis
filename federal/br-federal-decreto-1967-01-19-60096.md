@@ -1,5 +1,3 @@
-###DEC-060096-0-000-19-01-1967@@@
-
 decreto nº 60.096, de 19 de janeiro de 1967.
 
 Retifica o art. 1º do Decreto número 59.264, de 22 de setembro de 1966.

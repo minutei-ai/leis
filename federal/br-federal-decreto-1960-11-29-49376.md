@@ -1,5 +1,3 @@
-###DEC-049376-0-000-29-11-1960@@@
-
 DECRETO Nº 49.376, DE 29 DE NOVEMBRO DE 1960.
 
 Cria cargos e função gratificada no Instituto de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providências.

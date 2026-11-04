@@ -1,5 +1,3 @@
-###DEC-094321-0-000-12-05-1987@@@
-
 DECRETO Nº 94.321, DE 12 DE MAIO DE 1987
 
 Autoriza o funcionamento do curso de Zootecnia da Escola Superior de Agronomia de Paraguaçu Paulista.

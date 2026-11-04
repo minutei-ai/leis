@@ -1,5 +1,3 @@
-###MPV-001873-0-045-26-08-1999@@@
-
 Medida provisória nº 1.873-45, de 26 de agosto de 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do banco do Brasil S.A., e dá outras providências.

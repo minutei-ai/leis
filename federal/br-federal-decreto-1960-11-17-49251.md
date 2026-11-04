@@ -1,5 +1,3 @@
-###DEC-049251-0-000-17-11-1960@@@
-
 DECRETO Nº 49.251, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Geraldo Gobbo a pesquisar água mineral no município de Americana, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-001494-0-000-17-05-1995@@@
-
 DECRETO Nº 1.494, DE 17 DE MAIO DE 1995
 
 Regulamenta a Lei nº 8.313, de 23 de dezembro de 1991, estabelece a sistemática de execução do Programa Nacional de Apoio à Cultura PRONAC, e dá outras providências.

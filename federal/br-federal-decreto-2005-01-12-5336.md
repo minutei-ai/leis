@@ -1,5 +1,3 @@
-###DEC-005336-0-000-12-01-2005@@@
-
 DECRETO Nº 5.336 DE 12 DE JANEIRO DE 2005
 
 Dispõe sobre a execução da Ata de Retificação do Trigésimo Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República do Chile, de 10 de junho de 2004, para correção de erro de concordância, na versão em português, na preferência outorgada pelo Brasil no item NALADI/SH 2204.21.10.

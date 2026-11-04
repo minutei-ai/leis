@@ -1,5 +1,3 @@
-###DEC-001957-0-000-12-07-1996@@@
-
 DECRETO Nº 1.957, DE 12 DE JULHO DE 1996.
 
 Regulamenta a Lei n° 9.292, de 12 de julho de 1996, que dispõe sobre a remuneração dos membros dos conselhos de administração e fiscal das entidades que menciona.

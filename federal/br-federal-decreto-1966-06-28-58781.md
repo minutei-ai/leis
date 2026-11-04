@@ -1,5 +1,3 @@
-###DEC-058781-0-000-28-06-1966@@@
-
 DECRETO Nº 58.781, DE 28 DE JUNHO DE 1966.
 
 Autoriza a Centrais Elétricas do Pará S.A. a construir linha de transmissão e subestação abaixadora.

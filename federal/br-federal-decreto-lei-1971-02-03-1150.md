@@ -1,5 +1,3 @@
-###DEL-001150-0-000-03-02-1971@@@
-
 # DECRETO-LEI Nº 1.150, DE 3 DE FEVEREIRO DE 1971
 
 Reajusta os vencimentos aos servidores civis e militares do Poder Executivo e dá outras providências.

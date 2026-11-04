@@ -1,7 +1,3 @@
-1
-
-###DEC-097786-0-000-26-05-1989@@@
-
 DECRETO N° 97.786, DE 26 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas de Várzea Grande.

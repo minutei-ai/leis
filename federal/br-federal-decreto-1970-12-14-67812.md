@@ -1,5 +1,3 @@
-###DEC-067812-0-000-14-12-1970@@@
-
 DECRETO Nº 67.812, de 14 de dezembro de 1970.
 
 Altera o Regimento do Conselho Nacional do Petróleo, e dá outras providências.

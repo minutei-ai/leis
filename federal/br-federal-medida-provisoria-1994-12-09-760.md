@@ -1,7 +1,3 @@
-1
-
-###MPV-000760-0-000-09-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 760, DE 09 DE DEZEMBRO DE 1994.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante (FMM), em favor da Companhia de Navegação Lloyd Brasileiro (Lloydbrás).

@@ -1,6 +1,10 @@
 > **LEI Nº 4.590, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a alteração da denominação da Fundação Hospital Estadual do Acre em homenagem ao Governador Flaviano Melo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a alteração da denominação da Fundação Hospital Estadual do Acre em homenagem ao Governador Flaviano Melo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

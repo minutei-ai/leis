@@ -52,13 +52,16 @@ XVI – estimular a realização dos exames diagnósticos estabelecidos nos prot
 
 XVII – estimular a realização dos exames de triagem neonatal e o teste do pezinho ampliado.
 
-Art. 3º-A Os hospitais, maternidades e todos os estabelecimentos de saúde do Estado de Goiás orientarão os pais sobre doenças raras não detectáveis pelo Programa Nacional de Triagem Neonatal.<br>
+Art. 3º-A Os hospitais, maternidades e todos os estabelecimentos de saúde do Estado de Goiás orientarão os pais sobre doenças raras não detectáveis pelo Programa Nacional de Triagem Neonatal.
+
 \- [Acrescido pela Lei nº 23.312, de 31-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110541).
 
-§ 1º Os pais serão informados, no momento do teste do pezinho, sobre seu objetivo, as principais doenças não detectáveis no exame, bem como sobre a existência do teste do pezinho ampliado.<br>
+§ 1º Os pais serão informados, no momento do teste do pezinho, sobre seu objetivo, as principais doenças não detectáveis no exame, bem como sobre a existência do teste do pezinho ampliado.
+
 \- [Acrescido pela Lei nº 23.312, de 31-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110541).
 
-§ 2º As informações serão de fácil entendimento, disponibilizadas de forma presencial e complementadas por meio digital ou impresso.<br>
+§ 2º As informações serão de fácil entendimento, disponibilizadas de forma presencial e complementadas por meio digital ou impresso.
+
 \- [Acrescido pela Lei nº 23.312, de 31-3-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110541).
 
 Art. 4º (VETADO).

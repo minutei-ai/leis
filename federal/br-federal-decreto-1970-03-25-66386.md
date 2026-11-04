@@ -1,5 +1,3 @@
-###DEC-066386-0-000-25-03-1970@@@
-
 DECRETO Nº 66.386 - DE 25 DE MARÇO DE 1970
 
 Concede reconhecimento a Escola de Administração.

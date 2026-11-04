@@ -1,5 +1,3 @@
-###DEC-097402-0-000-22-12-1988@@@
-
 DECRETO N° 97.402, DE 22 DE DEZEMBRO DE 1988
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

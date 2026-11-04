@@ -1,5 +1,3 @@
-###DEC-051979-0-000-30-04-1963@@@
-
 DECRETO Nº 51.979, DE 30 DE ABRIL DE 1963.
 
 Dispõe sôbre a organização do Gabinete do Ministro da Fazenda.

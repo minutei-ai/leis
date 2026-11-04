@@ -1,9 +1,3 @@
-![](data:image/png;base64,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)
-
-# CÂMARA DOS DEPUTADOS
-
-# Centro de Documentação e Informação
-
 DECRETO-LEI Nº 1.604, DE 22 DE FEVEREIRO DE 1978
 
 Reajusta os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União, e dá outras providências.
@@ -118,13 +112,451 @@ L.G. do Nascimento e Silva
 
 ESCALAS DE RETRIBUIÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:217.58pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Denominação</span></p></td><td style="width:83.38pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Vencimento Mensal</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td><td style="width:82.48pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Representação Mensal</span></p></td><td style="width:68.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Gratificação de Atividade</span></p></td></tr><tr><td style="width:217.58pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>a) - CARGOS DE NATUREZA ESPECIAL</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro de Estado</span></p><p class="TableContents" style="font-size:10pt"><span>Consultor-Geral da República</span></p><p class="TableContents" style="font-size:10pt"><span>Diretor-Geral do Departamento</span></p><p class="TableContents" style="font-size:10pt"><span>Administrativo do Serviço Público</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Governador de Território Federal</span></p><p class="TableContents" style="font-size:10pt"><span>Secretário de Governo de Território Federal</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:83.38pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>55.255,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>55.255,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>55.255,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>45.208,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>30.389,00</span></p></td><td style="width:82.48pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>70%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>70%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>70%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p></td><td style="width:68.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr><tr><td style="width:217.58pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>b) – MAGISTRATURA</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro do Supremo Tribunal Federal</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro do Tribunal Federal de Recursos</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>JUSTIÇA MILITAR</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro do Superior Tribunal Federal</span></p><p class="TableContents" style="font-size:10pt"><span>Auditor Corregedor</span></p><p class="TableContents" style="font-size:10pt"><span>Auditor Militar</span></p><p class="TableContents" style="font-size:10pt"><span>Auditor Substituto</span></p></td><td style="width:83.38pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>55.255,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>42.697,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>40.185,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>31.395,00</span></p></td><td style="width:82.48pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>70%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>45%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>25%</span></p></td><td style="width:68.3pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr></tbody></table>
+Denominação
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:218.48pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Denominação</span></p></td><td style="width:81.58pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Vencimento Mensal</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td><td style="width:83.38pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Representação Mensal</span></p></td><td style="width:68.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Gratificação de Atividade</span></p></td></tr><tr><td style="width:218.48pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>JUSTIÇA DO TRABALHO</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro do Tribunal Superior do Trabalho</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz de Tribunal Regional do Trabalho</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz-Presidente de Junta de Conciliação e Julgamento</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz do Trabalho Substituto</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Desembargador</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz de Direito</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz Substituto</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz Temporário</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>JUSTIÇA FEDERAL DE 1ª INSTÂNCIA</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz Federal</span></p></td><td style="width:81.58pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.252,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>42.697,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>37.674,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>27.627,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>42.697,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>37.924,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>33.906,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>25.116,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>40.185,00</span></p></td><td style="width:83.38pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>25%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>30%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p></td><td style="width:68.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr><tr><td style="width:218.48pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>c) – TRIBUNAL DE CONTAS DA UNIÃO</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro do Tribunal de Contas da União</span></p><p class="TableContents" style="font-size:10pt"><span>Auditor</span></p></td><td style="width:81.58pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.252,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>40.185,00</span></p></td><td style="width:83.38pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p></td><td style="width:68.3pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr></tbody></table>
+Vencimento Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:230.68pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Denominação</span></p></td><td style="width:87.52pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Vencimento Mensal</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td><td style="width:63.42pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Representação Mensal</span></p></td><td style="width:70.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Gratificação de Atividade</span></p></td></tr><tr><td style="width:230.68pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>d) – MINISTÉRIO PÚBLICO DA UNIÃO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>MINISTÉRIO PÚBLICO FEDERAL</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador-Geral da República</span></p><p class="TableContents" style="font-size:10pt"><span>Subprocurador-Geral da República</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador da República de 1ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador da República de 2ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador da República de 3ª Categoria</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>MINISTÉRIO PÚBLICO MILITAR</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador-Geral da Justiça Militar</span></p><p class="TableContents" style="font-size:10pt"><span>Subprocurador-Geral</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador de 1ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador de 2ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador de 3ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Advogado de Ofício</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>MINISTÉRIO PÚBLICO DO TRABALHO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador-Geral da Justiça do Trabalho</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador do Trabalho de 1ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador do Trabalho de 2ª Categoria</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador Adjunto</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador-Geral</span></p></td><td style="width:87.52pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>55.255,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>33.434,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>27.501,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>23.734,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>31.896,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>27.501,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>23.734,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>19.087,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>17.203,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>27.501,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>23.734,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>19.087,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>42.697,00</span></p></td><td style="width:63.42pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>70%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p></td><td style="width:70.1pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr></tbody></table>
+Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:229.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Denominação</span></p></td><td style="width:92.92pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Vencimento Mensal</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td><td style="width:73.03pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Representação Mensal</span></p></td><td style="width:55.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Gratificação de Atividade</span></p></td></tr><tr><td style="width:229.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>Subprocurador</span></p><p class="TableContents" style="font-size:10pt"><span>Curador</span></p><p class="TableContents" style="font-size:10pt"><span>Promotor Público</span></p><p class="TableContents" style="font-size:10pt"><span>Promotor Substituto</span></p><p class="TableContents" style="font-size:10pt"><span>Defensor Público</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DA UNIÃO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Procurador-Geral</span></p><p class="TableContents" style="font-size:10pt"><span>Subprocurador-Geral</span></p></td><td style="width:92.92pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>30.139,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>27.501,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>25.116,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>19.840,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>17.203,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>31.896,00</span></p></td><td style="width:73.03pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>30%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p></td><td style="width:55.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr><tr><td style="width:229.82pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>e) – TRIBUNAL MARÍTIMO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz-Presidente</span></p><p class="TableContents" style="font-size:10pt"><span>Juiz</span></p></td><td style="width:92.92pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>33.906,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>33.906,00</span></p></td><td style="width:73.03pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>40%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td><td style="width:55.95pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p></td></tr></tbody></table>
+Representação Mensal
+
+Gratificação de Atividade
+
+a) - CARGOS DE NATUREZA ESPECIAL
+
+Ministro de Estado
+
+Consultor-Geral da República
+
+Diretor-Geral do Departamento
+
+Administrativo do Serviço Público
+
+Governador de Território Federal
+
+Secretário de Governo de Território Federal
+
+55.255,00
+
+55.255,00
+
+55.255,00
+
+45.208,00
+
+30.389,00
+
+70%
+
+70%
+
+70%
+
+35%
+
+20%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+b) – MAGISTRATURA
+
+Ministro do Supremo Tribunal Federal
+
+Ministro do Tribunal Federal de Recursos
+
+JUSTIÇA MILITAR
+
+Ministro do Superior Tribunal Federal
+
+Auditor Corregedor
+
+Auditor Militar
+
+Auditor Substituto
+
+55.255,00
+
+50.232,00
+
+50.232,00
+
+42.697,00
+
+40.185,00
+
+31.395,00
+
+70%
+
+60%
+
+60%
+
+45%
+
+35%
+
+25%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Denominação
+
+Vencimento Mensal
+
+Cr$
+
+Representação Mensal
+
+Gratificação de Atividade
+
+JUSTIÇA DO TRABALHO
+
+Ministro do Tribunal Superior do Trabalho
+
+Juiz de Tribunal Regional do Trabalho
+
+Juiz-Presidente de Junta de Conciliação e Julgamento
+
+Juiz do Trabalho Substituto
+
+JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Desembargador
+
+Juiz de Direito
+
+Juiz Substituto
+
+Juiz Temporário
+
+JUSTIÇA FEDERAL DE 1ª INSTÂNCIA
+
+Juiz Federal
+
+50.252,00
+
+42.697,00
+
+37.674,00
+
+27.627,00
+
+42.697,00
+
+37.924,00
+
+33.906,00
+
+25.116,00
+
+40.185,00
+
+60%
+
+35%
+
+35%
+
+25%
+
+35%
+
+35%
+
+30%
+
+20%
+
+35%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+c) – TRIBUNAL DE CONTAS DA UNIÃO
+
+Ministro do Tribunal de Contas da União
+
+Auditor
+
+50.252,00
+
+40.185,00
+
+60%
+
+35%
+
+-
+
+-
+
+Denominação
+
+Vencimento Mensal
+
+Cr$
+
+Representação Mensal
+
+Gratificação de Atividade
+
+d) – MINISTÉRIO PÚBLICO DA UNIÃO
+
+MINISTÉRIO PÚBLICO FEDERAL
+
+Procurador-Geral da República
+
+Subprocurador-Geral da República
+
+Procurador da República de 1ª Categoria
+
+Procurador da República de 2ª Categoria
+
+Procurador da República de 3ª Categoria
+
+MINISTÉRIO PÚBLICO MILITAR
+
+Procurador-Geral da Justiça Militar
+
+Subprocurador-Geral
+
+Procurador de 1ª Categoria
+
+Procurador de 2ª Categoria
+
+Procurador de 3ª Categoria
+
+Advogado de Ofício
+
+MINISTÉRIO PÚBLICO DO TRABALHO
+
+Procurador-Geral da Justiça do Trabalho
+
+Procurador do Trabalho de 1ª Categoria
+
+Procurador do Trabalho de 2ª Categoria
+
+Procurador Adjunto
+
+MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Procurador-Geral
+
+55.255,00
+
+50.232,00
+
+33.434,00
+
+27.501,00
+
+23.734,00
+
+50.232,00
+
+31.896,00
+
+27.501,00
+
+23.734,00
+
+19.087,00
+
+17.203,00
+
+50.232,00
+
+27.501,00
+
+23.734,00
+
+19.087,00
+
+42.697,00
+
+70%
+
+60%
+
+-
+
+-
+
+-
+
+60%
+
+35%
+
+-
+
+-
+
+-
+
+-
+
+60%
+
+-
+
+-
+
+-
+
+35%
+
+-
+
+-
+
+20%
+
+20%
+
+20%
+
+-
+
+-
+
+20%
+
+20%
+
+20%
+
+20%
+
+-
+
+20%
+
+20%
+
+20%
+
+-
+
+Denominação
+
+Vencimento Mensal
+
+Cr$
+
+Representação Mensal
+
+Gratificação de Atividade
+
+Subprocurador
+
+Curador
+
+Promotor Público
+
+Promotor Substituto
+
+Defensor Público
+
+MINISTÉRIO PÚBLICO JUNTO AO TRIBUNAL DE CONTAS DA UNIÃO
+
+Procurador-Geral
+
+Subprocurador-Geral
+
+30.139,00
+
+27.501,00
+
+25.116,00
+
+19.840,00
+
+17.203,00
+
+50.232,00
+
+31.896,00
+
+30%
+
+-
+
+-
+
+-
+
+-
+
+60%
+
+35%
+
+-
+
+20%
+
+20%
+
+20%
+
+20%
+
+-
+
+-
+
+e) – TRIBUNAL MARÍTIMO
+
+Juiz-Presidente
+
+Juiz
+
+33.906,00
+
+33.906,00
+
+40%
+
+-
+
+-
+
+20%
 
 # ANEXO II
 
@@ -142,7 +574,7 @@ ESCALA DE RETRIBUIÇÃO DOS CARGOS EM COMISSÃO, FUNÇÕES DE CONFIANÇA E FUNÇ
 
  DE CARGOS DE QUE TRATA A LEI Nº 5.645, DE 10 DE DEZEMBRO DE 1970.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.38pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:173.58pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><br><span>GRUPOS</span></p></td><td style="width:96.42pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><br><span>NÍVEIS</span></p></td><td style="width:105.98pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Vencimento ou Salário Mensal</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td><td style="width:68.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Representação</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Mensal</span></p></td></tr><tr><td style="width:173.58pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>a) – DIREÇÃO E ASSESSORAMENTO SUPERIORES</span></p></td><td style="width:96.42pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAS-6</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAS-5</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAS-4</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAS-3</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAS-2</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAS-1</span></p></td><td style="width:105.98pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50.232,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>45.208,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>42.697,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>36.418,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>32.650,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>27.627,00</span></p></td><td style="width:68.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>60%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>55%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>50%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>45%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>35%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p></td></tr><tr><td rowspan="3" style="width:173.58pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>b) – DIREÇÃO E ASSISTÊNCIA INTERMEDIÁRIAS</span></p></td><td rowspan="2" style="width:96.42pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CORRELAÇÃO COM CATEGORIAS</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DE NÍVEL SUPERIOR</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAI-3</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAI-2</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAI-1</span></p></td><td style="width:105.98pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>VALOR MENSAL DA GRAFIFICAÇÃO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td><td rowspan="2" style="width:68.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr><tr style="height:11.5pt"><td rowspan="2" style="width:105.98pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>6.279,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>4.771,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>3.767,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>3.767,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>3.264,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>2.511,00</span></p></td></tr><tr><td style="width:96.42pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CORRELAÇÃO COM CATEGORIAS DE NÍVEL MÉDIO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAI-3</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAI-2</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>DAI-1</span></p></td><td style="width:68.7pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>-</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> GRUPOS </td><td> NÍVEIS </td><td> Vencimento ou Salário Mensal Cr$ </td><td> Representação Mensal </td></tr><tr><td> &nbsp; a) – DIREÇÃO E ASSESSORAMENTO SUPERIORES </td><td> &nbsp; DAS-6 DAS-5 DAS-4 DAS-3 DAS-2 DAS-1 </td><td> &nbsp; 50.232,00 45.208,00 42.697,00 36.418,00 32.650,00 27.627,00 </td><td> &nbsp; 60% 55% 50% 45% 35% 20% </td></tr><tr><td rowspan="3"> &nbsp; b) – DIREÇÃO E ASSISTÊNCIA INTERMEDIÁRIAS </td><td rowspan="2"> CORRELAÇÃO COM CATEGORIAS DE NÍVEL SUPERIOR &nbsp; DAI-3 DAI-2 DAI-1 </td><td> VALOR MENSAL DA GRAFIFICAÇÃO Cr$ </td><td rowspan="2"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - </td></tr><tr><td rowspan="2"> &nbsp; 6.279,00 4.771,00 3.767,00 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3.767,00 3.264,00 2.511,00 </td></tr><tr><td> CORRELAÇÃO COM CATEGORIAS DE NÍVEL MÉDIO &nbsp; DAI-3 DAI-2 DAI-1 </td><td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - </td></tr></tbody></table>
 
 ##### ANEXO III
 
@@ -158,7 +590,257 @@ ESCALA DE VENCIMENTOS E SALÁRIOS, E RESPECTIVAS REFERÊNCIAS, DOS CARGOS E EMPR
 
 A LEI Nº 5.645, DE 10 DE DEZEMBRO DE 1970.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.38pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:56.32pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>Valor Mensal do vencimento ou salário</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Cr$</span></p></td><td style="width:35.02pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Referências</span></p></td><td style="width:63.48pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>Valor Mensal do vencimento ou salário</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Cr$</span></p></td><td style="width:56.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Referências</span></p></td><td style="width:59.88pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>Valor Mensal do vencimento ou salário</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Cr$</span></p></td><td style="width:59.82pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Referências</span></p></td><td style="width:63.52pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>Valor Mensal do vencimento ou salário</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Cr$</span></p></td><td style="width:48.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>Referências</span></p></td></tr><tr><td style="width:56.32pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>33.434,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>31.840,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>30.325,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>28.884,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>27.507,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>26.199,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>24.949,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>23.760,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>22.631,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>21.553,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>20.525,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>19.545,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>18.614,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>17.731,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>16.882,00</span></p></td><td style="width:35.02pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>57</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>56</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>55</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>54</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>53</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>52</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>51</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>50</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>49</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>48</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>47</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>46</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>45</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>44</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>43</span></p></td><td style="width:63.48pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>16.079,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>15.314,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>14.583,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>13.890,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>13.227,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>12.601,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>11.999,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>11.429,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>10.886,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>10.367,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>9.874,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>9.403,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>8.951,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>8.524,00</span></p></td><td style="width:56.22pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>42</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>41</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>40</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>39</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>38</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>37</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>36</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>35</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>34</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>33</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>32</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>31</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>30</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>29</span></p></td><td style="width:59.88pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>8.117,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>7.729,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>7.362,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>7.011,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>6.676,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>6.357,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>6.056,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>5.768,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>5.492,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>5.229,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>4.984,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>4.748,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>4.522,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>4.307,00</span></p></td><td style="width:59.82pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>28</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>27</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>26</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>25</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>24</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>23</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>22</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>21</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>20</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>19</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>18</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>17</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>16</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>15</span></p></td><td style="width:63.52pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>4.103,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3.906,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3.719,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3.542,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3.376,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3.215,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3.059,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.913,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.776,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.641,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.517,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.398,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.286,00</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2.178,00</span></p></td><td style="width:48.9pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:9pt"><span>14</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>13</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>12</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>11</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>10</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>9</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>8</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>7</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>6</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>5</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>4</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>3</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>2</span></p><p class="TableContents" style="text-align:center; font-size:9pt"><span>1</span></p></td></tr></tbody></table>
+Valor Mensal do vencimento ou salário
+
+Cr$
+
+Referências
+
+Valor Mensal do vencimento ou salário
+
+Cr$
+
+Referências
+
+Valor Mensal do vencimento ou salário
+
+Cr$
+
+Referências
+
+Valor Mensal do vencimento ou salário
+
+Cr$
+
+Referências
+
+33.434,00
+
+31.840,00
+
+30.325,00
+
+28.884,00
+
+27.507,00
+
+26.199,00
+
+24.949,00
+
+23.760,00
+
+22.631,00
+
+21.553,00
+
+20.525,00
+
+19.545,00
+
+18.614,00
+
+17.731,00
+
+16.882,00
+
+57
+
+56
+
+55
+
+54
+
+53
+
+52
+
+51
+
+50
+
+49
+
+48
+
+47
+
+46
+
+45
+
+44
+
+43
+
+16.079,00
+
+15.314,00
+
+14.583,00
+
+13.890,00
+
+13.227,00
+
+12.601,00
+
+11.999,00
+
+11.429,00
+
+10.886,00
+
+10.367,00
+
+9.874,00
+
+9.403,00
+
+8.951,00
+
+8.524,00
+
+42
+
+41
+
+40
+
+39
+
+38
+
+37
+
+36
+
+35
+
+34
+
+33
+
+32
+
+31
+
+30
+
+29
+
+8.117,00
+
+7.729,00
+
+7.362,00
+
+7.011,00
+
+6.676,00
+
+6.357,00
+
+6.056,00
+
+5.768,00
+
+5.492,00
+
+5.229,00
+
+4.984,00
+
+4.748,00
+
+4.522,00
+
+4.307,00
+
+28
+
+27
+
+26
+
+25
+
+24
+
+23
+
+22
+
+21
+
+20
+
+19
+
+18
+
+17
+
+16
+
+15
+
+4.103,00
+
+3.906,00
+
+3.719,00
+
+3.542,00
+
+3.376,00
+
+3.215,00
+
+3.059,00
+
+2.913,00
+
+2.776,00
+
+2.641,00
+
+2.517,00
+
+2.398,00
+
+2.286,00
+
+2.178,00
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
 
 ANEXO IV
 
@@ -174,13 +856,33 @@ PERMANENTES, INCLUÍDOS NO PLANO DE CLASSIFICAÇÃO DE CARGOS
 
 DE QUE TRATA A LEI Nº 5.645, DE 10 DE DEZEMBRO DE 1970
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.38pt; border-collapse:collapse"><tbody><tr><td style="width:91.68pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>GRUPOS</span></p></td><td style="width:113.22pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CATEGORIAS FUNCIONAIS</span></p></td><td style="width:81.53pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CÓDIGO</span></p></td><td style="width:158.25pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSES</span></p></td></tr><tr style="height:46.25pt"><td rowspan="2" style="width:91.68pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>ARTESANATO</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>(ART-700 ou LT-ART.700)</span></p></td><td rowspan="3" style="width:113.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="font-size:10pt"><span>b) – Auxiliar de Artífice</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="3" style="width:81.53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>ART-709 ou LT-ART-709</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="3" style="width:158.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Auxiliar de Artífice – de 3 a 9</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:11.5pt"><td style="width:0pt; height:11.5pt"></td></tr><tr style="height:11.5pt"><td rowspan="6" style="width:91.68pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>OUTRAS ATIVIDADES DE NÍVEL MÉDIO (NM-1000 ou LT-NM-1000)</span></p></td></tr><tr><td style="width:113.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>n) Agente de Assuntos da Indústria Açucareira</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Agente de Atividades Agropecuárias</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Agente de Comercialização do Café</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Agente de Saúde Pública</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Agente de Serviços de Engenharia</span></p></td><td style="width:81.53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>NM-1024 ou LT-NM-1024</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>NM-1007 ou LT-NM-1007</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>NM-1022 ou LT-NM-1022</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>NM-1022 ou LT-NM-1022</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>NM-1013 ou LT-NM-1013</span></p></td><td style="width:158.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>CLASSE ESPECIAL – de 37 a 39</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE D</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 30 a 36</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE C</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 23 a 29</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE B</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 14 a 22</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE A</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 3 a 9</span></p></td></tr><tr><td style="width:113.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>o) Agente de Assuntos da Indústria Madeireira</span></p></td><td style="width:81.53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>NM-1023 ou LT-NM-1023</span></p></td><td style="width:158.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>CLASSE ESPECIAL – de 34 a 36</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE D</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 30 a 33</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE C</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 23 a 29</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE B</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 10 a 16</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE A</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>3 a</span><span style="-aw-import:spaces">&nbsp; </span><span>9</span></p></td></tr><tr style="height:11.5pt"><td rowspan="3" style="width:113.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>p) Agente de Transporte Marítimo e Fluvial</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Auxiliar Operacional de Serviços Diversos</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="3" style="width:81.53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>NM-1038 ou LT-NM-1038</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>NM-1006 ou LT-NM-1006</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="3" style="width:158.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>CLASSE ESPECIAL – de 31 a 33</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE D</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 27 a 30</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE C</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 21 a 26</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE B</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 10 a 16</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE A</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>3 a</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>9</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:11.5pt"><td style="width:0pt; height:11.5pt"></td></tr><tr style="height:11.5pt"><td style="width:0pt; height:11.5pt"></td></tr><tr><td style="width:91.68pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>SERVIÇOS DE TRANSPORTE OFICIAL E PORTARIA (TP-1200 ou LT-TP-1200)</span></p></td><td style="width:113.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="font-size:10pt"><span>a) Agente de Portaria</span></p></td><td style="width:81.53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>TP-1202 ou LP-TP-1202</span></p></td><td style="width:158.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>CLASSE ESPECIAL – de 18 a 20</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE C</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 13 a 17</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE B</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>7 a 12</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE A</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>3 a</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>6</span></p></td></tr><tr style="height:46pt"><td style="width:91.68pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:113.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="font-size:10pt"><span>b) Motorista Oficial</span></p></td><td style="width:81.53pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="font-size:10pt"><span>TP-1201 ou LT-TP-1201</span></p></td><td style="width:158.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>CLASSE ESPECIAL – de 21 a 25</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE B</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 16 a 20</span></p><p class="TableContents" style="font-size:10pt"><span>CLASSE A</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 14 a 15</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> GRUPOS </td><td> CATEGORIAS FUNCIONAIS </td><td> CÓDIGO </td><td> REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSES </td></tr><tr><td rowspan="2"> ARTESANATO (ART-700 ou LT-ART.700) </td><td rowspan="3"> b) – Auxiliar de Artífice &nbsp; </td><td rowspan="3"> ART-709 ou LT-ART-709 &nbsp; </td><td rowspan="3"> Auxiliar de Artífice – de 3 a 9 &nbsp; </td></tr><tr><td></td></tr><tr><td rowspan="6"> OUTRAS ATIVIDADES DE NÍVEL MÉDIO (NM-1000 ou LT-NM-1000) </td></tr><tr><td> n) Agente de Assuntos da Indústria Açucareira &nbsp; Agente de Atividades Agropecuárias &nbsp; Agente de Comercialização do Café &nbsp; Agente de Saúde Pública &nbsp; Agente de Serviços de Engenharia </td><td> NM-1024 ou LT-NM-1024 &nbsp; &nbsp; NM-1007 ou LT-NM-1007 &nbsp; NM-1022 ou LT-NM-1022 &nbsp; &nbsp; NM-1022 ou LT-NM-1022 &nbsp; NM-1013 ou LT-NM-1013 </td><td> CLASSE ESPECIAL – de 37 a 39 &nbsp; &nbsp; &nbsp; CLASSE D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 30 a 36 &nbsp; &nbsp; CLASSE C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 23 a 29 &nbsp; &nbsp; &nbsp; CLASSE B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 14 a 22 &nbsp; &nbsp; CLASSE A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 3 a 9 </td></tr><tr><td> o) Agente de Assuntos da Indústria Madeireira </td><td> NM-1023 ou LT-NM-1023 </td><td> CLASSE ESPECIAL – de 34 a 36 CLASSE D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 30 a 33 CLASSE C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 23 a 29 CLASSE B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 10 a 16 CLASSE A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de&nbsp;&nbsp;&nbsp; 3 a&nbsp; 9 </td></tr><tr><td rowspan="3"> p) Agente de Transporte Marítimo e Fluvial &nbsp; Auxiliar Operacional de Serviços Diversos &nbsp; </td><td rowspan="3"> NM-1038 ou LT-NM-1038 &nbsp; &nbsp; NM-1006 ou LT-NM-1006 &nbsp; </td><td rowspan="3"> CLASSE ESPECIAL – de 31 a 33 CLASSE D&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 27 a 30 CLASSE C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 21 a 26 CLASSE B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 10 a 16 CLASSE A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de&nbsp;&nbsp; 3 a&nbsp;&nbsp; 9 &nbsp; </td></tr><tr><td></td></tr><tr><td></td></tr><tr><td> SERVIÇOS DE TRANSPORTE OFICIAL E PORTARIA (TP-1200 ou LT-TP-1200) </td><td> a) Agente de Portaria </td><td> TP-1202 ou LP-TP-1202 </td><td> CLASSE ESPECIAL – de 18 a 20 CLASSE C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 13 a 17 CLASSE B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de&nbsp;&nbsp; 7 a 12 CLASSE A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de&nbsp;&nbsp; 3 a&nbsp;&nbsp; 6 </td></tr><tr><td> &nbsp; </td><td> b) Motorista Oficial </td><td> TP-1201 ou LT-TP-1201 </td><td> CLASSE ESPECIAL – de 21 a 25 CLASSE B&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 16 a 20 CLASSE A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – de 14 a 15 </td></tr></tbody></table>
 
 “ANEXO”
 
 (Art. 1º da Lei nº 6.389, de 9 de dezembro de 1976)
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.38pt; border-collapse:collapse"><tbody><tr><td style="width:91.62pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>GRUPOS</span></p></td><td style="width:111.42pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CATEGORIAS FUNCIONAIS</span></p></td><td style="width:65.18pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CÓDIGO</span></p></td><td style="width:176.45pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>REFERÊNCIA DE VENCIMENTO OU SALÁRIO POR CLASSES</span></p></td></tr><tr style="height:80.5pt"><td style="width:91.62pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="font-size:10pt"><span>PROCESSAMENTO DE DADOS (LT-PRO-1600)</span></p></td><td style="width:111.42pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>b) Programador</span></p></td><td style="width:65.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>LT-PRO-1602</span></p></td><td style="width:176.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>CLASSE ESPECIAL – de 41 a 42</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>CLASSE C</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 39 a 40</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>CLASSE B</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 36 a 38</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>CLASSE A</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>– de 32 a 35</span></p></td></tr></tbody></table>
+GRUPOS
+
+CATEGORIAS FUNCIONAIS
+
+CÓDIGO
+
+REFERÊNCIA DE VENCIMENTO OU SALÁRIO POR CLASSES
+
+PROCESSAMENTO DE DADOS (LT-PRO-1600)
+
+b) Programador
+
+LT-PRO-1602
+
+CLASSE ESPECIAL – de 41 a 42
+
+CLASSE C               – de 39 a 40
+
+CLASSE B               – de 36 a 38
+
+CLASSE A               – de 32 a 35
 
 ANEXO V
 
@@ -200,7 +902,47 @@ CÓDIGO: D-300
 
 CÓDIGO: D-301
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.12pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:153.12pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>DENOMINAÇÃO DA CLASSE</span></p></td><td style="width:160.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>VENCIMENTO MENSAL – Cr$</span></p></td><td style="width:167.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>REPRESENTAÇÃO MENSAL</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:153.12pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span>Ministro de 1ª Classe</span></p><p class="TableContents" style="font-size:10pt"><span>Ministro de 2ª Classe</span></p><p class="TableContents" style="font-size:10pt"><span>Conselheiro</span></p><p class="TableContents" style="font-size:10pt"><span>1º Secretário</span></p><p class="TableContents" style="font-size:10pt"><span>2º Secretário</span></p><p class="TableContents" style="font-size:10pt"><span>3º Secretário</span></p></td><td style="width:160.22pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>24.039,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>17.940,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>14.710,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>12.199,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>10.046,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>8.611,00</span></p></td><td style="width:167.1pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>30%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>30%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>30%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>25%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20%</span></p></td></tr></tbody></table>
+DENOMINAÇÃO DA CLASSE
+
+VENCIMENTO MENSAL – Cr$
+
+REPRESENTAÇÃO MENSAL
+
+Ministro de 1ª Classe
+
+Ministro de 2ª Classe
+
+Conselheiro
+
+1º Secretário
+
+2º Secretário
+
+3º Secretário
+
+24.039,00
+
+17.940,00
+
+14.710,00
+
+12.199,00
+
+10.046,00
+
+8.611,00
+
+30%
+
+30%
+
+30%
+
+25%
+
+20%
+
+20%
 
 ANEXO VI
 
@@ -216,9 +958,63 @@ GRUPO: MAGISTÉRIO
 
 CÓDIGO: M-400 ou LT-M-400
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:160.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>NÍVEL</span></p></td><td style="width:165.08pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>REGIME DE TRABALHO</span></p></td><td style="width:126.8pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>VENCIMENTO OU SALÁRIO MENSAL</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td></tr><tr><td style="width:160.22pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>6</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>5</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>4</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>3</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>2</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>1</span></p></td><td style="width:165.08pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>20 horas semanais</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20 horas semanais</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20 horas semanais</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20 horas semanais</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20 horas semanais</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>20 horas semanais</span></p></td><td style="width:126.8pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>15.069,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>13.311,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>11.552,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>10.799,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>7.534,00</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>4.394,00</span></p></td></tr></tbody></table>
+NÍVEL
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:160.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>DENOMINAÇÃO DO EMPREGO</span></p></td><td style="width:160.22pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>REGIME DE TRABALHO</span></p></td><td style="width:131.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:middle"><p class="TableContents" style="text-align:center; font-size:10pt"><span>SALÁRIO MENSAL</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span>Cr$</span></p></td></tr><tr><td style="width:160.22pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>Auxiliar de Ensino</span></p></td><td style="width:160.22pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>40 horas</span></p></td><td style="width:131.65pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>20092</span></p></td></tr></tbody></table>
+REGIME DE TRABALHO
+
+VENCIMENTO OU SALÁRIO MENSAL
+
+Cr$
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+20 horas semanais
+
+20 horas semanais
+
+20 horas semanais
+
+20 horas semanais
+
+20 horas semanais
+
+20 horas semanais
+
+15.069,00
+
+13.311,00
+
+11.552,00
+
+10.799,00
+
+7.534,00
+
+4.394,00
+
+DENOMINAÇÃO DO EMPREGO
+
+REGIME DE TRABALHO
+
+SALÁRIO MENSAL
+
+Cr$
+
+Auxiliar de Ensino
+
+40 horas
+
+20092
 
 ANEXO VII
 
@@ -228,4 +1024,20 @@ ANEXO VII”
 
 (Decreto-lei nº 1.341, de 22 de agosto de 1974)
 
-<table cellspacing="0" cellpadding="0" style="margin-left:0.02pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:166.72pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>DENOMINAÇÃO DAS GRATIFICAÇÕES E INDENIZAÇÕES</span></p></td><td style="width:153.72pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>DEFINIÇÃO</span></p></td><td style="width:131.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span>BASES DE CONCESSÃO E VALORES</span></p></td></tr><tr><td style="width:166.72pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>IX – AUXÍLIO PARA MORADIA</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>XX – GRATIFICAÇÃO POR ENCARGO DE CURSO OU CONCURSO</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:153.72pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Devido aos servidores pertencentes ao Grupo Polícia Federal e à Categoria Funcional de Fiscal de Tributos Federais do Grupo-Tributação, Arrecadação e Fiscalização, mandados servir fora da sede originária de serviço.</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="text-align:center; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Devida ao servidor pelo desempenho eventual de atividades de auxiliar ou membro de comissões de provas ou concursos de cursos de treinamento e aperfeiçoamento regularmente instituídos por força do Plano de Classificação de Cargos, sem prejuízo do exercício das atribuições normais do cargo ou emprego de que for titular.</span></p></td><td style="width:131.65pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Fixados em regulamento</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="TableContents" style="font-size:10pt"><span>Fixados em regulamentos, nos limites dos recursos próprios, não podendo a referente aos encargos de curso ser superior a 51 (quinze) horas-aula mensais, fixada a hora-aula em 1% (um por cento) do valor da Referência do servidor, sendo vedada a incorporação ao vencimento ou salário para qualquer efeito, inclusive cálculo de proventos de aposentadoria.</span></p></td></tr></tbody></table>
+DENOMINAÇÃO DAS GRATIFICAÇÕES E INDENIZAÇÕES
+
+DEFINIÇÃO
+
+BASES DE CONCESSÃO E VALORES
+
+IX – AUXÍLIO PARA MORADIA
+
+XX – GRATIFICAÇÃO POR ENCARGO DE CURSO OU CONCURSO
+
+Devido aos servidores pertencentes ao Grupo Polícia Federal e à Categoria Funcional de Fiscal de Tributos Federais do Grupo-Tributação, Arrecadação e Fiscalização, mandados servir fora da sede originária de serviço.
+
+Devida ao servidor pelo desempenho eventual de atividades de auxiliar ou membro de comissões de provas ou concursos de cursos de treinamento e aperfeiçoamento regularmente instituídos por força do Plano de Classificação de Cargos, sem prejuízo do exercício das atribuições normais do cargo ou emprego de que for titular.
+
+Fixados em regulamento
+
+Fixados em regulamentos, nos limites dos recursos próprios, não podendo a referente aos encargos de curso ser superior a 51 (quinze) horas-aula mensais, fixada a hora-aula em 1% (um por cento) do valor da Referência do servidor, sendo vedada a incorporação ao vencimento ou salário para qualquer efeito, inclusive cálculo de proventos de aposentadoria.

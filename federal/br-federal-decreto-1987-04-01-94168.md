@@ -1,5 +1,3 @@
-###DEC-094168-0-000-01-04-1987@@@
-
 DECRETO N° 94.168, DE 1° DE ABRIL DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte da Gleba denominada "FICA-FACA", constituída por diversos imóveis, classificados no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e minifúndio, situada no Município de Nova Brasilândia, no Estado de Mato Grosso, compreendida na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 2 de maio de 1986, e dá outras providências.

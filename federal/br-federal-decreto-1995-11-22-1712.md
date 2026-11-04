@@ -1,7 +1,3 @@
-1
-
-###DEC-001712-0-000-22-11-1995@@@
-
 DECRETO N° 1.712, DE 22 DE NOVEMBRO DE 1995.
 
 Prorroga e transfere a concessão de que trata o Decreto n° 88.015, de 3 de janeiro de 1983.

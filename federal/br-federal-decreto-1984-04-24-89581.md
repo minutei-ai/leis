@@ -1,5 +1,3 @@
-###DEC-089581-0-000-24-04-1984@@@
-
 Decreto nº 89.581, de 24 de abril de 1984
 
 Outorga à Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL concessão para o aproveitamento da energia hidráulica de um trecho do rio Iguaçu, no local denominado Capanema, nos Municípios de Capanema e Céu Azul, Estado do Paraná.

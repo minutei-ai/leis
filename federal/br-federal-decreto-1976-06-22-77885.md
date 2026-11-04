@@ -1,5 +1,3 @@
-###DEC-077885-0-000-22-06-1976@@@
-
 DECRETO N.º 77.885, DE 22 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a outorga deferida à Bauru Rádio Clube S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Bauru, Estado de São Paulo.

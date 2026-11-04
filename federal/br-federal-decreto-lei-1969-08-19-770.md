@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1fba0cf9-6c82-4dae-9181-4aae2c602e7d/texto#nowhere)
 
-###DEL-000770-0-000-19-08-1969@@@
-
 DECRETO-LEI nº 770, DE 19 DE AGÔSTO DE 1969
 
 Autoriza a União a constituir a EMBRAER - Emprêsa Brasileira de Aeronáutica S.A. e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068559-0-000-28-04-1971@@@
-
 DECRETO Nº 68.559, DE 28 DE ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão entre os municípios de Quixadá e Russas, no Estado do Ceará.

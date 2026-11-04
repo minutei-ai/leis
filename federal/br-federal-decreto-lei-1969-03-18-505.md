@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/514ec447-7cd3-455b-ade8-2bcbbf0151c5/texto#nowhere)
 
-###DEL-000505-0-000-18-03-1969@@@
-
 DECRETO-LEI Nº 505, DE 18 DE MARÇO DE 1969
 
 Dispõe sôbre a inscrição na Ordem dos Advogados do Brasil, como Solicitador Acadêmico

@@ -1,5 +1,3 @@
-###DEC-072784-0-000-12-09-1973@@@
-
 DECRETO Nº 72.784, DE 12 DE SETEMBRO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis do Ministério da Fazenda no Quadro Único de Pessoal da Universidade Federal de Santa Maria.

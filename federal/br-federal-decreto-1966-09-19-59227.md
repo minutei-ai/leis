@@ -1,5 +1,3 @@
-###DEC-059227-0-000-19-09-1966@@@
-
 decreto nº 59.227, dE 19 DE SETEMBRO DE 1966.
 
 Altera o Regulamento para a “Secretaria Geral da Marinha”, aprovado pelo Decreto nº 32.273, de 18 de fevereiro de 1953.

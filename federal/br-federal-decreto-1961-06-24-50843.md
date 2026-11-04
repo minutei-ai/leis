@@ -1,5 +1,3 @@
-###DEC-050843-0-000-24-06-1961@@@
-
 Decreto nº 50.843, de 24 de junho de 1961.
 
 Cria o Consulado honorário do Brasil em Bissau, Guiné Portuguêsa.

@@ -1,5 +1,3 @@
-###DEC-052455-0-000-10-09-1963@@@
-
 DECRETO Nº 52.455, DE 10 DE SETEMBRO DE 1963.
 
 Regula o pagamento das dívidas das autarquias e órgãos governamentais para com as instituições de previdência social.

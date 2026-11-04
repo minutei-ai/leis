@@ -1,5 +1,3 @@
-###DEL-009321-0-000-03-06-1946@@@
-
 DECRETO-LEI N. 9.321 – DE 3 DE JUNHO DE 1946
 
 Cria cargo no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

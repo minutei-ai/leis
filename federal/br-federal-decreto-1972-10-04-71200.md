@@ -1,5 +1,3 @@
-###DEC-071200-0-000-04-10-1972@@@
-
 DECRETO Nº 71.200, DE 4 DE OUTUBRO DE 1972.
 
 Concede reconhecimento aos cursos de Pedagogia e Ciências da Faculdade de Ciências e Letras e Pedagogia, da Universidade Mackenzie, no Estado de São Paulo.

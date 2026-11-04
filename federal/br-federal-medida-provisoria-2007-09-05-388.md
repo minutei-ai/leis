@@ -1,5 +1,3 @@
-###MPV-000388-0-000-05-09-2007@@@
-
 MEDIDA PROVISÓRIA Nº 388, DE 5 DE SETEMBRO DE 2007.
 
 Altera e acresce dispositivos à Lei no 10.101, de 19 de dezembro de 2000.
@@ -27,5 +25,3 @@ Altera e acresce dispositivos à Lei no 10.101, de 19 de dezembro de 2000.
 LUIZ INÁCIO LULA DA SILVA
 
 Carlos Lupi
-
-Este texto não substitui o publicado no DOU de 6.9.2007

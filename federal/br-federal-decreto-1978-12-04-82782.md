@@ -1,5 +1,3 @@
-###DEC-082782-0-000-04-12-1978@@@
-
 Decreto nº 82.782, de 04 de dezembro de 1978.
 
 Autoriza a conversão do curso de Ciências Biológicas em curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras Eugênio Pacelli, com sede na cidade de Pouso Alegre, Estado de Minas Gerais.

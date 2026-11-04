@@ -1,5 +1,3 @@
-###DEC-079021-0-000-23-12-1976@@@
-
 DECRETO Nº 79.021 - DE 23 DE DEZEMBRO DE 1976.
 
 Autoriza a transferência de mantenedora da Faculdade de Educação Física da Alta Araraquarense, com sede na cidade de Santa Fé do Sul, Estado de São Paulo.

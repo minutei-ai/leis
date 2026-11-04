@@ -1,5 +1,3 @@
-###DEC-089437-0-000-12-03-1984@@@
-
 Decreto nº 89.437, de 12 de março de 1984
 
 Dispõe sobre cargo privativo de Oficial-General da Aeronáutica.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62187)
-
 # LEI Nº 12.380, DE 10 DE MAIO DE 2006
 
 ## (Projeto de lei nº 777/2005, do Deputado Fausto Figueira - PT)

@@ -1,5 +1,3 @@
-###DEC-052565-0-000-30-09-1963@@@
-
 DECRETO Nº 52.565, DE 30 DE SETEMBRO DE 1963.
 
 Restringe a zona de concessão da Companhia Fôrça e Luz Nordeste do Brasil e outorga à Companhia de Serviços Elétricos do Rio Grande do Norte concessão para distribuir energia elétrica ao município de Parnamirim, Estado do Rio grande do Norte.

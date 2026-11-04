@@ -1,5 +1,3 @@
-###DEC-005741-0-000-30-03-2006@@@
-
 DECRETO Nº 5.741, DE 30 DE MARÇO DE 2006.
 
 Regulamenta os arts. 27-A, 28-A e 29-A da Lei no 8.171, de 17 de janeiro de 1991, organiza o Sistema Unificado de Atenção à Sanidade Agropecuária, e dá outras providências.

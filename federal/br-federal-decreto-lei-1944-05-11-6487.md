@@ -1,5 +1,3 @@
-###DEL-006487-0-000-11-05-1944@@@
-
 DECRETO-LEI N. 6.487 – DE 11 MAIO DE 1944
 
 Retifica o art. 2º do Decreto-lei nº 6.304, de 2 de março de 1944

@@ -1,5 +1,3 @@
-###DEC-081724-0-000-24-05-1978@@@
-
 DECRETO Nº 81.724, DE 24 DE MAIO DE 1978.
 
 Concede reconhecimento à habilitação em Orientação Educacional do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Blumenau, com sede na cidade de Blumenau, Estado de Santa Catarina.

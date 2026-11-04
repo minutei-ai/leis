@@ -1,5 +1,3 @@
-###DEC-067656-0-000-24-11-1970@@@
-
 DECRETO Nº 67.656, DE 24 DE NOVEMBRO DE 1970.
 
 Concede a firma individual Afrodizio Witzel o direito de lavrar argila, no município de Mogi das Cruzes, Estado de São Paulo.

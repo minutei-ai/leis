@@ -1,5 +1,3 @@
-###DEC-052454-0-000-09-09-1963@@@
-
 DECRETO Nº 52.454, DE 9 DE SETEMBRO DE 1963.
 
 Altera a redação do parágrafo único do art. 1º do Dec. nº 50.936, de 12 de julho de 1961.

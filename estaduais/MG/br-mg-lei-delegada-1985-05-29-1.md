@@ -63,7 +63,3 @@ ANEXO ÚNICO
 (ARTIGO 4º DA LEI DELEGADA Nº 1 DE 29 DE MAIO DE 1985)
 
 Código Denominação Símbolo de Vencimento Nº de cargos Ex-01 Chefe de Gabinete V-68 1 DS-02 Diretor II V-68 1 DS-01 Diretor I V-58 3 AS-02 Assessor II V-58 8 AS-01 Assessor I V-45 3 EX-06 Assistente-Administrativo V-35 5
-
-\================================
-
-Data da última atualização: 28/7/2016.

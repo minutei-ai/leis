@@ -1,5 +1,3 @@
-###DEC-065394-0-000-13-10-1969@@@
-
 Decreto nº 65.394, de 13 de outubro de 1969.
 
 Cria o Estabelecimento Regional de Finanças da 12ª Região Militar e dá outras providências.

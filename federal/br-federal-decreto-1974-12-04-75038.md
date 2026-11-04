@@ -1,5 +1,3 @@
-###DEC-075038-0-000-04-12-1974@@@
-
 DECRETO nº 75.038, DE 4 DE DEZEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Tupã, mantida pela Instituição Tamoios de Ensino e Cultura, com sede na Cidade de Tupã, Estado de São Paulo.

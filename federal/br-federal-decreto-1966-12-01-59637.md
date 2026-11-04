@@ -1,5 +1,3 @@
-###DEC-059637-0-000-01-12-1966@@@
-
 Decreto nº 59.637, de 1º de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Gastão de Souza Mesquita Neto a pesquisar argila no município de Jussara, Estado do Paraná.

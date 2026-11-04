@@ -1,5 +1,3 @@
-###DEL-001537-0-000-13-04-1977@@@
-
 # DECRETO-LEI Nº 1.537, DE 13 DE ABRIL DE 1977
 
 Isenta do pagamento de custas e emolumentos a pratica de quaisquer atos, pelos Ofícios e Cartórios de Registro de Imóveis, de Registro de Títulos e Documentos e de Notas, relativos às solicitações feitas pela União.

@@ -1,5 +1,3 @@
-###DEC-056204-0-000-30-04-1965@@@
-
 DECRETO Nº 56.204, DE 30 DE ABRIL DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Salvador de Seguros, inclusive aumento do capital social.

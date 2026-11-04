@@ -589,7 +589,3 @@ Lucas Lopes
 Cristiano Monteiro Machado
 
 Dermeval José Pimenta
-
-\==================
-
-Data da última atualização: 3/9/2007.

@@ -1,5 +1,3 @@
-###DEC-071101-0-000-14-09-1972@@@
-
 DECRETO Nº 71.101, DE 14 DE SETEMBRO DE 1972.
 
 Concede à Empresa de Mineração do Nordeste S.A. - MANESA o direito de lavrar argila no município de Escada, Estado de Pernambuco.

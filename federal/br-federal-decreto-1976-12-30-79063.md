@@ -1,5 +1,3 @@
-###DEC-079063-0-000-30-12-1976@@@
-
 DECRETO Nº 79.063, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Econômicas e de Administração de São José do Rio Preto, com sede na Cidade de São José do Rio Preto, Estado de São Paulo.

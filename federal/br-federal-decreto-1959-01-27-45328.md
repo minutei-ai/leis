@@ -1,5 +1,3 @@
-###DEC-045328-0-000-27-01-1959@@@
-
 DECRETO Nº 45.328, DE 27 DE JANEIRO DE 1959.
 
 Autoriza a Companhia Paulista de Cimento a pesquisar calcário no município de Capão Bonito, Estado de São Paulo.

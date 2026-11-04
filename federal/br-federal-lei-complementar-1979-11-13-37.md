@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fa9438e0-c8ee-48fc-a610-a16a9975ed5b/texto#nowhere)
 
-###LCP-000037-0-000-13-11-1979@@@
-
 # LEI COMPLEMENTAR Nº 37, DE 13 DE NOVEMBRO DE 1979
 
 Altera a Lei Complementar nº 35, de 14 de março de 1979 (Lei Orgânica da Magistratura Nacional).

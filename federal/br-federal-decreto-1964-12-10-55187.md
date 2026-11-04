@@ -1,5 +1,3 @@
-###DEC-055187-0-000-10-12-1964@@@
-
 DECRETO Nº 55.187, DE 10 DE DEZEMBRO DE 1964.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado do Rio de Janeiro.

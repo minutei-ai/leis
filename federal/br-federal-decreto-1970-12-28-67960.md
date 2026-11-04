@@ -1,5 +1,3 @@
-###DEC-067960-0-000-28-12-1970@@@
-
 Decreto nº 67.960, de 28 de dezembro de 1970.
 
 Concede autorização às emprêsas Bauer Dredging International Corp. e Gregg Gibson and Gregg, Inc., e à sua subempreiteira Ballast Nedam Groep N. V., para operarem em águas brasileiras com as drogas Triton, Bill Bauer (de sucção e recalque) de nacionalidade norte-americana, e Humber River, de nacionalidade inglêsa, nos serviços de dragagem no terminal de Ponta do Tubarão no Estado do Espírito Santo.

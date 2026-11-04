@@ -1,5 +1,3 @@
-###DEL-008695-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.695 – DE 16 DE JANEIRO DE 1946
 
 Altera carreiras no Quadro Permanente do Ministério da Agricultura.

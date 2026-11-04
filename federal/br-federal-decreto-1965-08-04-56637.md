@@ -1,5 +1,3 @@
-###DEC-056637-0-000-04-08-1965@@@
-
 DECRETO Nº 56.637, DE 4 DE AGôSTO DE 1965.
 
 Autoriza o cidadão brasileiro Paulo Teixeira de Carvalho a Pesquisar quartzito, no município de Prado, Estado de Minas Gerais.

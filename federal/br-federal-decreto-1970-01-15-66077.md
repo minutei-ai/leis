@@ -1,5 +1,3 @@
-###DEC-066077-0-000-15-01-1970@@@
-
 DECRETO Nº 66.077 - DE 15 DE JANEIRO DE 1970
 
 Concede autorização à Companhia Zapata Marine Service Ltd. para operar em águas brasileiras a embarcação M/V "Sampson Service", de nacionalidade norte-americana, no serviço que especifica.

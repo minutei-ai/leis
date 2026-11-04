@@ -1,5 +1,3 @@
-###DEC-084466-0-000-07-02-1980@@@
-
 Decreto nº 84.466, de 07 de fevereiro de 1980.
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Ciências da Saúde Grande Rio, do Rio de Janeiro.

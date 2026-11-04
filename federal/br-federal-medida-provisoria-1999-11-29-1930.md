@@ -1,5 +1,3 @@
-###MPV-001930-0-000-29-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.930, DE 29 DE NOVEMBRO DE 1999.
 
 Altera dispositivos da Lei nº 9.870, de 23 de novembro de 1999, que dispõe sobre o valor total das anuidades escolares.

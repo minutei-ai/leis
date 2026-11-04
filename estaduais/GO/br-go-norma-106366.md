@@ -42,8 +42,6 @@ Art. 7º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 2 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

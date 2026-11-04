@@ -1,5 +1,3 @@
-###DEC-053460-0-000-21-01-1964@@@
-
 DECRETO Nº 53.460, DE 21 DE JANEIRO DE 1964.
 
 Fixa data para extinção da Comissão Federal de Abastecimento e Preços (COFAP) e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006187-0-000-07-01-1944@@@
-
 DECRETO-LEI N. 6.187 – DE 7 DE JANEIRO DE 1944
 
 Cria a 5ª Companhia Regional no Corpo de Fuzileiros Navais

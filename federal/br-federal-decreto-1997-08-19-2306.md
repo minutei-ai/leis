@@ -1,5 +1,3 @@
-###DEC-002306-0-000-19-08-1997@@@
-
 DECRETO Nº 2.306, DE 19 DE AGOSTO DE 1997
 
 Regulamenta, para o Sistema Federal de Ensino, as disposições contidas no art. 10 da Medida Provisória nº 1.477-39, de 8 de agosto de 1997, e nos arts. 16, 19, 20, 45, 46 e § 1º, 52, parágrafo único, 54 e 88 da Lei nº 9.394, de 20 de dezembro de 1996, e dá outras providências.

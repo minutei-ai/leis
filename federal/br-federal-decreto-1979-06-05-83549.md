@@ -1,5 +1,3 @@
-###DEC-083549-0-000-05-06-1979@@@
-
 Decreto nº 83.549, de 5 de junho de 1979.
 
 Cria a Reserva Biológica do Atol das Rocas e dá outras providências.

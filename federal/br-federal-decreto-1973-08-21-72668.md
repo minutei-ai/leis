@@ -1,5 +1,3 @@
-###DEC-072668-0-000-21-08-1973@@@
-
 decreto nº 72.668, de 21 de agosto de 1973.
 
 Autoriza o funcionamento, em regime especial, das licenciaturas em Ciências Sociais, Estudos Sociais, Letras e Pedagogia, na Faculdade de Filosofia, Ciência e Letras de Ijuí, mantida pela Fundação de Integração, Desenvolvimento e Educação do Noroeste do Estado - FIDENE, em Ijuí, Estado do Rio Grande do Sul.

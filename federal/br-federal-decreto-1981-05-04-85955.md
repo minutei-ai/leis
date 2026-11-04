@@ -1,5 +1,3 @@
-###DEC-085955-0-000-04-05-1981@@@
-
 DECRETO Nº 85.955, DE 04 DE MAIO DE 1981.
 
 Declara perempta a concessão outorgada à EMISSORA RIO SÃO FRANCISCO LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Penedo, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-067313-0-000-01-10-1970@@@
-
 DECRETO Nº 67.313, DE 1º DE OUTUBRO DE 1970.
 
 Autoriza a transferência, para o patrimônio do Estado do Paraná, de imóvel de propriedade da União, e dá outras providências.

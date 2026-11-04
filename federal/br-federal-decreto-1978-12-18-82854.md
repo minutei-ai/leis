@@ -1,5 +1,3 @@
-###DEC-082854-0-000-18-12-1978@@@
-
 Decreto nº 82 854, de 18 de dezembro de 1978
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Jaboatão, Estado de Pernambuco.

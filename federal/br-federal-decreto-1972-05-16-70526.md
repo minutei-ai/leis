@@ -1,5 +1,3 @@
-###DEC-070526-0-000-16-05-1972@@@
-
 DECRETO Nº 70.526, DE 16 DE MAIO DE 1972.
 
 Concede a COEICOM - Sociedade de Empreendimentos Industriais, Comerciais e Mineração Ltda. o direito de lavrar calcário, no município de Matozinhos, Estado de Minas Gerais.

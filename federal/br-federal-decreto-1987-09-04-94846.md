@@ -1,5 +1,3 @@
-###DEC-094846-0-000-04-09-1987@@@
-
 DECRETO N° 94.846, DE 4 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Groairas", classificado no Cadastro de Imóveis do INCRA como latifúndio por exploração, situado no Município de Santa Quitéria, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.617 de 2 de maio de 1986, e dá outras providências.

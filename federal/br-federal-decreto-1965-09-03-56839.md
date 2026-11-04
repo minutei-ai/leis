@@ -1,5 +1,3 @@
-###DEC-056839-0-000-03-09-1965@@@
-
 Decreto nº 56.839, de 3 de setembro de 1965.
 
 Abre à Presidência da República, o crédito especial de Cr$4.362.416, para atender a despesas que especifica, a cargo do Estado Maior das Fôrças Armadas.

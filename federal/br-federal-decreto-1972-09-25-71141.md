@@ -1,5 +1,3 @@
-###DEC-071141-0-000-25-09-1972@@@
-
 Decreto nº 71.141, de 25 de setembro de 1972.
 
 Autoriza o funcionamento do Centro de Ensino Superior de Juiz de Fora, Estado de Minas Gerais.

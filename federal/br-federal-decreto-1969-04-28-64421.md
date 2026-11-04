@@ -1,5 +1,3 @@
-###DEC-064421-0-000-28-04-1969@@@
-
 DECRETO Nº 64.421, DE 28 DE ABRIL DE 1969.
 
 Declara luto oficial.

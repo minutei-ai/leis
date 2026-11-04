@@ -1,5 +1,3 @@
-###DEC-058542-0-000-30-05-1966@@@
-
 DECRETO Nº 58.542, DE 30 DE MAIO DE 1966.
 
 Autoriza a cidadã brasileira Blandina Antunes de Souza a pesquisar mica, quartzo e pedras coradas no município de Galiléia, Estado de Minas Gerais.

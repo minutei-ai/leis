@@ -1,5 +1,3 @@
-###DEL-005830-0-000-17-09-1943@@@
-
 DECRETO‑LEI N. 5.830 – DE 17 DE SETEMBR0 DE 1943
 
 Altera as carreiras de Arquivologista dos Quadras Permanentes dos Minis­térios da Educação e Saúde, das Relações Exteriores e da Justiça e Negócios Interiores

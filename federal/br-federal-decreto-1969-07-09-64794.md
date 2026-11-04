@@ -1,5 +1,3 @@
-###DEC-064794-0-000-09-07-1969@@@
-
 DECRETO Nº 64.794 - De 9 De JULHO DE 1969.
 
 Desmembra da "Casa do Brasil em Roma" a Chancelaria da Embaixada do Brasil junto à Santa Sé, e dá outras providências.

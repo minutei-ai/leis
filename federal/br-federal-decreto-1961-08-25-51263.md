@@ -1,5 +1,3 @@
-###DEC-051263-0-000-25-08-1961@@@
-
 DECRETO Nº 51.263, DE 25 DE AGÔSTO DE 1961.
 
 Renova o decreto nº 44.537, de 24 de setembro de 1958.

@@ -1,5 +1,3 @@
-###DEC-074525-0-000-10-09-1974@@@
-
 Decreto nº 74.525, de 10 de setembro de 1974.
 
 Autoriza o funcionamento dos cursos de Pedagogia, de Ciências e de Letras da Faculdade de Educação Ciências e Letras de Irati, mantida pela Fundação Faculdade de Educação, Ciências e Letras com sede na cidade de Irati, Estado do Paraná.

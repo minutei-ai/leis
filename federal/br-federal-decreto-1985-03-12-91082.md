@@ -1,5 +1,3 @@
-###DEC-091082-0-000-12-03-1985@@@
-
 Decreto nº 91.082, de 12 de março de 1985
 
 Estabelece cargo privativos de Oficial-General e revoga os Decretos nº 73 368, de 26 de dezembro de 1973, nº 75 355, de 05 de fevereiro de 1975, nº 89 176, de 14 de. dezembro de 1983 e nº 89 498, de 29 de março de 1984.

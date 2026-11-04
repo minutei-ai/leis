@@ -1,5 +1,3 @@
-###DEL-001961-0-000-23-09-1982@@@
-
 # DecReto-lei nº 1.961, de 23 de setembro de 1982
 
 Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social e dá outras providências.

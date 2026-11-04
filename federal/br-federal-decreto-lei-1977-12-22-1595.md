@@ -1,5 +1,3 @@
-###DEL-001595-0-000-22-12-1977@@@
-
 # Decreto-lei nº 1.595, de 22 de dezembro de 1977.
 
 Dispõe sobre o imposto de renda devido pelos importadores ou distribuidores de filmes estrangeiros, e dá outras providências.

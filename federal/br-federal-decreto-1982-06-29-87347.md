@@ -1,5 +1,3 @@
-###DEC-087347-0-000-29-06-1982@@@
-
 Decreto nº 87.347, de 29 de junho de 1982.
 
 Concede à COBRA - Computadores e Sistemas Brasileiros S.A., autorização para proceder a aumento do seu capital social.

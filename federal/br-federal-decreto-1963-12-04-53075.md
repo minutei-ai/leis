@@ -1,5 +1,3 @@
-###DEC-053075-0-000-04-12-1963@@@
-
 DECRETO Nº 53.075, DE 4 DE DEZEMBRO DE 1963.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, o terreno acrescido de marinha que menciona; no Estado da Guanabara.

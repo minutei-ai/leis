@@ -1,5 +1,3 @@
-###DEL-009870-0-000-14-09-1946@@@
-
 DECRETO-LEI N. 9.870 – DE 14 DE SETEMBRO DE 1946
 
 Declara a responsabilidade do Govêrno Federal, pelo passivo das emprêsas incorporadas ao patrimônio nacional, por fôrça do art. 2º do Decreto-lei nº 9.521, de 26 de Julho de 1946, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070943-0-000-07-08-1972@@@
-
 DECRETO Nº 70.943, DE 7 DE AGOSTO DE 1972.
 
 Concede reconhecimento ao curso de Estudos Sociais, 1º ciclo, da Faculdade de Filosofia, Ciências e Letras, de Santos, SP.

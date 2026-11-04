@@ -1,5 +1,3 @@
-###DEL-006026-0-000-24-11-1943@@@
-
 DECRETO‑LEI N. 6.026 – DE 24 DE NOVEMBRO DE 1943
 
 Dispõe sôbre as medidas aplicáveis aos menores de 18 anos pela prática de fatos considerados infrações penais e dá outras providências

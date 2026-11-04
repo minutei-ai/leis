@@ -1,5 +1,3 @@
-###DEC-050792-0-000-15-06-1961@@@
-
 DECRETO Nº 50.792, DE 15 DE JUNHO DE 1961.
 
 Autoriza a Prefeitura Municipal de Ituêta a construir uma linha de transmissão e outorga concessão para distribuir energia elétrica.

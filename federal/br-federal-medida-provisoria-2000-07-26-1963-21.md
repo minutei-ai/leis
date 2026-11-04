@@ -1,5 +1,3 @@
-###MPV-001963-0-021-26-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.963-21, DE 26 DE julho DE 2000.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

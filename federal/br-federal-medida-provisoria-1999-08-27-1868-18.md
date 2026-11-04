@@ -1,5 +1,3 @@
-###MPV-001868-0-018-27-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.868-18, DE 27 de agosto DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

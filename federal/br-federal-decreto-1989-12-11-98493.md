@@ -1,5 +1,3 @@
-###DEC-098493-0-000-11-12-1989@@@
-
 DECRETO N° 98.493, DE 11 DE DEZEMBRO DE 1989
 
 Autoriza a Universidade Federal de Pernambuco a alienar bem imóvel de sua propriedade, situado em Recife, Estado de Pernambuco, e dá outras providências.

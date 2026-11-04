@@ -1,5 +1,3 @@
-###DEC-007388-0-000-09-12-2010-PUB-01@@@
-
 DECRETO Nº 7.388, DE 9 DE DEZEMBRO DE 2010.
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional de Combate à Discriminação - CNCD.

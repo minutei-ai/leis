@@ -1,5 +1,3 @@
-###DEC-068896-0-000-09-07-1971@@@
-
 DECRETO Nº 68.896, de 9 de julho de 1971.
 
 Concede autorização a sociedade seguradora estrangeira para continuar a operar sob nova denominação e aumentar o capital de suas operações no Brasil.

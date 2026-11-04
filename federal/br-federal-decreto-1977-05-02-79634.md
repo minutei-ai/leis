@@ -1,5 +1,3 @@
-###DEC-079634-0-000-02-05-1977@@@
-
 decreto nº 79.634, de 2 de maio de 1977.
 
 Retifica a concessão de lavra outorgada à Cerâmica Windlin Ltda., pelo Decreto nº 75.035, de 4 de dezembro de 1974.

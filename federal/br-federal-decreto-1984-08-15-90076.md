@@ -1,5 +1,3 @@
-###DEC-090076-0-000-15-08-1984@@@
-
 Decreto nº 90.076, de 15 dE agosto de 1984
 
 Renova a concessão outorgada à PALMARES COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade Maceió, Estado de Alagoas.

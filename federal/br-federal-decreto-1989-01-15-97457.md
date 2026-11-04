@@ -1,5 +1,3 @@
-###DEC-097457-0-000-15-01-1989@@@
-
 DECRETO Nº 97.457, DE 15 DE JANEIRO DE 1989
 
 Dispensa servidores civis da Administração Federal e dos extintos Territórios Federais, extingue cargos, e dá outras providências .

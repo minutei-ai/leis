@@ -1,5 +1,3 @@
-###DEC-061378-0-000-18-09-1967@@@
-
 DECRETO Nº 61.378, DE 18 DE SETEMBRO DE 1967.
 
 Declara caduco o Decreto nº 29.215, de 26 de janeiro de 1951.

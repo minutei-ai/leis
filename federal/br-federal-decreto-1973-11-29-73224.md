@@ -1,5 +1,3 @@
-###DEC-073224-0-000-29-11-1973@@@
-
 DECRETO Nº 73.224 - DE 29 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBRÁS, áreas de terra e benfeitorias, situadas nos Municípios de Araucária e Campo Largo, no Estado do Paraná.

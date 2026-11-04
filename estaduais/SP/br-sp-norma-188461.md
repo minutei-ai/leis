@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188461)
-
 # DECRETO Nº 63.844, DE 26 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS DO TIETÊ S.A., os imóveis necessários às obras de implantação do dispositivo (tipo 5 - parclo com rotatória) no km 5+250m da Rodovia Jornalista Francisco Aguirre Proença, SP-101, Municípios de Campinas e Hortolândia, Comarcas de Campinas e Hortolândia, no trecho que especifica e dá providências correlatas_

@@ -1,7 +1,3 @@
-1
-
-###DEC-095764-0-000-02-03-1988@@@
-
 DECRETO N.° 95.764, DE 2 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Tapera, Três Irmãos ou Bode", classificado como latifúndio por exploração, situado no Município de Itapipoca, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agraria fixada pelo Decreto n° 92.617, de 2 de maio de 1986, e dá outras providências.

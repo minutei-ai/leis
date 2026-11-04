@@ -1,5 +1,3 @@
-###DEC-089322-0-000-24-01-1984@@@
-
 DECRETO Nº 89.322, DE 24 DE JANEIRO DE 1984
 
 Revoga a concessão outorgada à BAURU RÁDIO CLUBE LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Bauru, Estado de São Paulo.

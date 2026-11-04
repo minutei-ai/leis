@@ -1,5 +1,3 @@
-###DEC-057482-0-000-24-12-1965@@@
-
 Decreto nº 57.482, de 24 de dezembro de 1965.
 
 Considera de alto interesse nacional as novas intenções a serem realizadas no ativo fixo de empresas que se dediquem à produção de alumínio.

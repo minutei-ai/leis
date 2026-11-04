@@ -14,8 +14,6 @@ Art. 4º Esta Lei entra em vigor após decorridos 90 (noventa) dias da data de s
 
 Goiânia, 7 de maio de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

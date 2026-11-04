@@ -1,5 +1,3 @@
-###DEC-084775-0-000-09-06-1980@@@
-
 Decreto nº 84.775, de 09 de junho de 1980.
 
 Adapta o Estado da Fundação Oswaldo Cruz, vinculada ao Ministério da Saúde, às disposições da Lei 6.733 de 4 de dezembro de 1979.

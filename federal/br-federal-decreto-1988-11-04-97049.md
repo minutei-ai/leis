@@ -1,5 +1,3 @@
-###DEC-097049-0-000-04-11-1988@@@
-
 DECRETO Nº 97.049, DE 4 DE NOVEMBRO DE 1988
 
 Dispõe sobre a elevação do capital social da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE.

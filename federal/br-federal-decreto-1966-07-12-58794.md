@@ -1,5 +1,3 @@
-###DEC-058794-0-000-12-07-1966@@@
-
 DECRETO Nº 58.794, DE 12 DE JULHO DE 1966.
 
 Cria função gratificada no Conselho Nacional de Pesquisas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059372-0-000-07-10-1966@@@
-
 DECRETO Nº 59.372, DE 7 DE OUTUBRO DE 1966.
 
 Abre, pelo Ministério da Educação e Cultura, o crédito especial de Cr$360.000.000 para atender a despesas com a desapropriação dos terreiros onde foram travadas as Batalhas dos Guararapes.

@@ -1,5 +1,3 @@
-###DEC-060388-0-000-11-03-1967@@@
-
 DECRETO Nº 60.388, DE 11 DE MARÇO DE 1967.
 
 Transfere da Prefeitura Municipal de Peçanha para Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica.

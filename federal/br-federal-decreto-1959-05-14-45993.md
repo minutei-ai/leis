@@ -1,5 +1,3 @@
-###DEC-045993-0-000-14-05-1959@@@
-
 DECRETO Nº 45.993, DE 14 DE MAIO DE 1959.
 
 Autoriza o Ministro da Fazend a dar garantia do Tesouro Nacional a empréstimo a ser concedido à Brazilian Traction Light and Power.

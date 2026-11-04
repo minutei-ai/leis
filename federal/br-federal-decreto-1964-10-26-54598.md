@@ -1,5 +1,3 @@
-###DEC-054598-0-000-26-10-1964@@@
-
 DECRETO Nº 54.598, DE 26 DE OUTUBRO DE 1964.
 
 Dá nova redação ao art. 1º do Decreto nº 50.802, de 16 de junho de 1961.

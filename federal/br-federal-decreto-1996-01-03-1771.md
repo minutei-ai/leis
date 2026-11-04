@@ -1,5 +1,3 @@
-###DEC-001771-0-000-03-01-1996@@@
-
 DECRETO Nº 1.771, DE 03 DE JANEIRO DE 1996.
 
 Dá nova redação ao art. 27 do Decreto nº 774, de 18 de março de 1993.

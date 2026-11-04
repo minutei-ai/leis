@@ -1,5 +1,3 @@
-###DEC-051314-0-000-26-08-1961@@@
-
 DECRETO Nº 51.314, DE 26 DE AGÔSTO DE 1961.
 
 Dispõe sôbre feriado bancário.

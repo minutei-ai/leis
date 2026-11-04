@@ -1,5 +1,3 @@
-###DEC-097564-0-000-09-03-1989@@@
-
 DECRETO N° 97.564, DE 9 DE MARÇO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA PEDRA BRANCA”, classificado como latifúndio por exploração, situado no Município de Coribe, no Estado da Bahia, compreendido na zona prioritária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

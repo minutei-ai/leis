@@ -1,7 +1,3 @@
-1
-
-###DEC-095858-0-000-22-03-1988@@@
-
 DECRETO N° 95.858, DE 22 DE MARÇO DE 1988
 
 Fixa os Efetivos de Oficiais da Força Aérea Brasileira para 1988.

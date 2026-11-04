@@ -1,5 +1,3 @@
-###DEC-059617-0-000-30-11-1966@@@
-
 DECRETO Nº 59.617, DE 30 DE NOVEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Esperança Companhia de Seguros Gerais, relativa ao aumento do capital social.

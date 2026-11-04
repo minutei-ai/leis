@@ -1,11 +1,11 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=175407)
-
 # DECRETO Nº 61.474, DE 03 DE SETEMBRO DE 2015
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovia dos Tamoios S.A., os imóveis necessários às obras de implantação de nova pista no trecho em serra do km 60+480m ao km 64+440m da Rod. dos Tamoios, SP-099, Município e comarca de Paraibuna, no trecho que especifica e dá providências correlatas_
 
-GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956 e do disposto no Contrato de Concessão Patrocinada SLT nº 008/2014,<br>
-Decreta:<br>
+GERALDO ALCKMIN, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956 e do disposto no Contrato de Concessão Patrocinada SLT nº 008/2014,
+
+Decreta:
+
 **Artigo 1° -** Ficam declarados de utilidade pública para fins de desapropriação pela RODOVIA DOS TAMOIOS S.A., empresa concessionária de serviço público, por via amigável ou judicial, os imóveis descritos e caracterizados nas plantas cadastrais de códigos nº DE-SP0000099-060.065-5-D03/001, nº DE-SP0000099-060.065-2-D03/002, nº DE-SP0000099-060.065-5-D03/003, nº DE-SP0000099-060.065-2-D03/004, nº DE-SP0000099-060.065-2-D03/005 e memoriais descritivos constantes do processo ARTESP-019.171/2015-SG, necessários às obras implantação de nova pista no trecho em serra do km 60+480m ao km 64+440m da Rodovia dos Tamoios, SP-099, Município e Comarca de Paraibuna, com área total de 96.027,34m2 (noventa e seis mil, vinte e sete metros quadrados e oitenta e trinta e quatro decímetros quadrados), dentro dos perímetros a seguir descritos, imóveis estes que constam pertencer aos proprietários, a saber:
 
 **I** - área 1, a área a ser desapropriada, conforme planta nº DE-SP0000099-060.065-5-D03/001, localiza-se no km 60+600m, Pista Norte, da Rodovia dos Tamoios (SP-099), Município e Comarca de Paraibuna, que consta pertencer a Cristiano Carvalho da Silva, Luana Carvalho da Silva, Nayara Carvalho da Silva, Lino Israel e/ou outros, com linha de divisa partindo do ponto denominado 01 de coordenadas N=7394659,629259 e E=447447,538864, sendo constituída pelo segmento 1-2 - em linha reta com azimute 323°30'1", distância de 5,25m; segmento 2-3 - em linha reta com azimute 316°6'31", distância de 39,43m; segmento 3-4 - em linha reta com azimute 310°42'1", distância de 44,91m; segmento 4-5 - em linha reta com azimute 300°50'10", distância de 60,02m; segmento 5-6 - em linha reta com azimute 292°57'29", distância de 42,60m; segmento 6-7 - em linha reta com azimute 283°58'41", distância de 26,95m; segmento 7-8 - em linha reta com azimute 56°55'0", distância de 44,58m; segmento 8-9 - em linha reta com azimute 94°26'20", distância de 19,13m; segmento 9-10 - em linha reta com azimute 111°7'30", distância de 62,19m; segmento 10-11 - em linha reta com azimute 121°49'20", distância de 31,47m; segmento 11-12 - em linha reta com azimute 147°34'33", distância de 37,88m; segmento 12-13 - em linha reta com azimute 159°20'2", distância de 42,22m; segmento 13-1 - em linha reta com azimute 169°52'53", distância de 28,63m, perfazendo uma área de 7.195,78m2 (sete mil, cento e noventa e cinco metros quadrados e setenta e oito decímetros quadrados);
@@ -30,13 +30,22 @@ Decreta:<br>
 
 **XI** - área 11, a área a ser desapropriada, conforme planta nº DE-SP0000099-060.065-5-D03/005, localiza-se no km 64 - Pista Sul, da Rodovia dos Tamoios (SP-099), Município e Comarca de Paraibuna, que consta pertencer a Rodrigo Miragaia Oliveira Costa, Cecília Carvalho Nascimento, Flávio Farkouh, Pedro Antônio Noschese, Santa Noschese, José Carlos Etrusco Vieira, Comercial e Imobiliária dos Bairros Jardins Ltda. e/ou outros, com linha de divisa partindo do ponto denominado 01 de coordenadas N=7392977,13085 e E=450125,249238, sendo constituída pelo segmento 1-2 - em linha reta com azimute 138°41'33", distância de 8,26m; segmento 2-3 - em linha reta com azimute 136°45'21", distância de 9,80m; segmento 3-4 - em linha reta com azimute 137°44'48", distância de 20,06m; segmento 4-5 - em linha reta com azimute 137°27'8", distância de 30,20m; segmento 5-6 - em linha reta com azimute 139°26'44", distância de 30,11m; segmento 6-7 - em linha reta com azimute 139°5'56", distância de 25,04m; segmento 7-8 - em linha reta com azimute 139°50'23", distância de 20,19m; segmento 8-9 - em linha reta com azimute 139°44'31", distância de 40,02m; segmento 9-10 - em linha reta com azimute 140°6'15", distância de 30,10m; segmento 10-11 - em linha reta com azimute 138°45'29", distância de 10,20m; segmento 11-12 - em linha reta com azimute 140°11'22", distância de 21,71m; segmento 12-13 - em linha reta com azimute 288°5'44", distância de 36,97m; segmento 13-14 - em linha reta com azimute 295°41'22", distância de 27,94m; segmento 14-15 - em linha reta com azimute 309°17'6", distância de 22,23m; segmento 15-16 - em linha reta com azimute 325°49'10", distância de 54,30m; segmento 16-17 - em linha reta com azimute 317°17'9", distância de 88,43m; segmento 17-1 - em linha reta com azimute 10°38'57", distância de 38,75m, perfazendo uma área de 6.466,72m2 (seis mil, quatrocentos e sessenta e seis metros quadrados e setenta e dois decímetros quadrados).
 
-**Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem -DER.<br>
-**Artigo 3º -** As despesas com execução do presente decreto correrão por conta de verba própria da Concessionária Rodovia dos Tamoios S.A.<br>
-**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 3 de setembro de 2015<br>
-GERALDO ALCKMIN<br>
-Edson Aparecido dos Santos<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+**Artigo 2º -** Fica a expropriante autorizada a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15 do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956, devendo a carta de adjudicação ser expedida em nome do Departamento de Estradas de Rodagem -DER.
+
+**Artigo 3º -** As despesas com execução do presente decreto correrão por conta de verba própria da Concessionária Rodovia dos Tamoios S.A.
+
+**Artigo 4º -** Este decreto entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 3 de setembro de 2015
+
+GERALDO ALCKMIN
+
+Edson Aparecido dos Santos
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 3 de setembro de 2015.

@@ -1,5 +1,3 @@
-###DEC-059919-0-000-30-12-1966@@@
-
 DECRETO Nº 59.919, de 30 de dezembro de 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar mica e pedras coradas, no município de São José da Safira, Estado de Minas Gerais.

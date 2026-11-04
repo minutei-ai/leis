@@ -1,7 +1,3 @@
-1
-
-###MPV-000864-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 864, DE 27 DE JANEIRO DE 1995
 
 Autoriza a utilização do produto da alienação do navio Docevale no saneamento financeiro da Companhia de Navegação Lloyd Brasileiro (Lloydbrás).

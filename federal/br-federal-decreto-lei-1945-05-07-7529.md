@@ -1,5 +1,3 @@
-###DEL-007529-0-000-07-05-1945@@@
-
 DECRETO-LEI N. 7.529 – DE 7 DE MAIO DE 1945
 
 Autoriza a intervenção da Caixa de Mobilização e Fiscalização Bancária no estabelecimento bancário que menciona, e dá outras providências

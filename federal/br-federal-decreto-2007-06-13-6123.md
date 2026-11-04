@@ -1,5 +1,3 @@
-###DEC-006123-0-000-13-06-2007@@@
-
 DECRETO Nº 6.123, DE 13 DE JUNHO DE 2007.
 
 Dispõe sobre procedimentos para a expedição de autorização para a execução de Serviço Especial de Fins Científicos e Experimentais que envolva experimentos de transmissão de sinais de radiodifusão ou demonstrações de sistemas desenvolvidos para essa finalidade.
@@ -19,5 +17,3 @@ Brasília, 13 de junho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Helio Costa
-
-Este texto não substitui o publicado no DOU de 14.6.2007.

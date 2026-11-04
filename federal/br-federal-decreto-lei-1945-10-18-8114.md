@@ -1,5 +1,3 @@
-###DEL-008114-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.114 – DE 18 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 6.000.000,00, à verba que especifica

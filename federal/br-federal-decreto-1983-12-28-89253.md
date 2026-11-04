@@ -1,5 +1,3 @@
-###DEC-089253-0-000-28-12-1983@@@
-
 DECRETO Nº 89.253, DE 28 DE DEZeMBRO DE 1983
 
 Dispõe sobre a aplicação, no âmbito das entidades estatais, do Decreto-lei nº 1.971, de 30 de novembro de 1982, alterado pelo Decreto-lei nº 2.100, de 28 de dezembro de 1983, e dá outras providências.

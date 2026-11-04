@@ -1,36 +1,34 @@
-###DEC-020488-0-000-24-01-1946@@@
+**DECRETO Nº 20.488, DE 24 de janeiro DE 1946.**
 
-<strong>DECRETO Nº 20.488, DE 24 de janeiro DE 1946.</strong>
+***Aprova o Regimento do Departamento Nacional de Obras de Saneamento (D.N.O.S.) do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Obras de Saneamento (D.N.O.S.) do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**Decreta:**
 
-<strong>Decreta:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Obras de Saneamento (D.N.O.S.), que, assinado pelo Ministro da Viação e Obras Públicas, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Obras de Saneamento (D.N.O.S.), que, assinado pelo Ministro da Viação e Obras Públicas, com êste baixa.
-
-<strong>Art</strong>. 2º O presente decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de Janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Mauricio Joppert da Silva
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DE OBRAS DE SANEAMENTO, APROVADO PELO DECRETO Nº 20.488, DE 24 DE JANEIRO DE 1946</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DE OBRAS DE SANEAMENTO, APROVADO PELO DECRETO Nº 20.488, DE 24 DE JANEIRO DE 1946**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
 DA FINALIDADE
 
-<strong>Art</strong>. 1º O Departamento Nacional de Obras de Saneamento (D.N.O.S) é um órgão subordinado diretamente ao Ministro da Viação e Obras Públicas e tem por finalidade promover, orientar, superintender, estudar, projetar, executar, contratar, fiscalizar e instruir todos os empreendimentos ou assunto relativos a construção, melhoramento e conservação, modificação e exploração de obras de saneamento e de defesa contra inundações.
+**Art**. 1º O Departamento Nacional de Obras de Saneamento (D.N.O.S) é um órgão subordinado diretamente ao Ministro da Viação e Obras Públicas e tem por finalidade promover, orientar, superintender, estudar, projetar, executar, contratar, fiscalizar e instruir todos os empreendimentos ou assunto relativos a construção, melhoramento e conservação, modificação e exploração de obras de saneamento e de defesa contra inundações.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
 DA ORGANIZAÇÃO
 
-<strong>Art</strong>. 2º O D.N.O.S. compõe-se dos seguintes órgãos:
+**Art**. 2º O D.N.O.S. compõe-se dos seguintes órgãos:
 
 a) Divisão de  projetos (D.P.)
 
@@ -40,7 +38,7 @@ c) Divisão de Administração (D.A.)
 
 d) Distritos.
 
-<strong>Art</strong>. 3º O D.N.O.S. será dirigido por Diretor Geral padrão R, nomeado em comissão pelo Presidente da República, escolhido dentre os engenheiros civis brasileiros possuidores de comprovados conhecimentos e tirocínio em assuntos da especialização do Departamento.
+**Art**. 3º O D.N.O.S. será dirigido por Diretor Geral padrão R, nomeado em comissão pelo Presidente da República, escolhido dentre os engenheiros civis brasileiros possuidores de comprovados conhecimentos e tirocínio em assuntos da especialização do Departamento.
 
 § 1º O Diretor Geral será auxiliado por:
 
@@ -52,17 +50,17 @@ c) 1 Secretário, escolhido entre os funcionários.
 
 § 2º Cada Diretor de Divisão será auxiliado por um Secretário por êle designado.
 
-<strong>Art</strong>. 4º Por conveniência do serviço, poderá o Diretor Geral criar Residências, subordinadas a êle, próprio ou a algum dos Distritos, e extingui-las à medida das necessidades. As residências terão caráter temporário e destinar-se-ão a executar estudos ou obras cujo vulto e duração não justifiquem a criação de um Distrito.
+**Art**. 4º Por conveniência do serviço, poderá o Diretor Geral criar Residências, subordinadas a êle, próprio ou a algum dos Distritos, e extingui-las à medida das necessidades. As residências terão caráter temporário e destinar-se-ão a executar estudos ou obras cujo vulto e duração não justifiquem a criação de um Distrito.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
 DA ORGANIZAÇÃO E DAS ATRIBUIÇÕES DOS ÓRGÃOS COMPETENTES
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
 Da D.P.
 
-<strong>Art</strong>. 5º A Divisão de Projetos (D.P.) compreende:
+**Art**. 5º A Divisão de Projetos (D.P.) compreende:
 
 a) Seção de Hidráulica (S.H.);
 
@@ -70,7 +68,7 @@ b) Seção de Estruturas (S.E.);
 
 c) Seção de Documentação (S.D.).
 
-<strong>Art</strong>. 6º À D.P. compete:
+**Art**. 6º À D.P. compete:
 
 a) Superintender, coordenar e orientar os trabalhos das Seções que integram a Divisão;
 
@@ -88,7 +86,7 @@ g) Informar sôbre os pedidos de aforamento dos terrenos de marinha e dos reserv
 
 h) Elaborar as instruções para concorrências e expedir os respectivos convites.
 
-<strong>Art</strong>. 7º À S.H. compete:
+**Art**. 7º À S.H. compete:
 
 a) Estudar, projetar e orçar tôdas as obras hidráulicas necessárias aos trabalhos afetos ao D.N.O.S.;
 
@@ -96,7 +94,7 @@ b) Preparar instruções de serviços para trabalhos de campo;
 
 c) Coordenar e avaliar as observações hidrológicas e meteorológicas referentes as bacias hidrográficas a serem melhoradas.
 
-<strong>Art</strong>. 8º À S.E. compete:
+**Art**. 8º À S.E. compete:
 
 a) Estudar, projetar e orçar tôdas as estruturas necessárias aos trabalhos afetos ao D.N.O.S.;
 
@@ -104,7 +102,7 @@ b) Preparar instruções de serviço para trabalhos de campo;
 
 c) Preparar normas para execução dos serviços de construção de estruturas.
 
-<strong>Art</strong>. 9º À S.D. compete:
+**Art**. 9º À S.D. compete:
 
 a) Guardas e arquivar plantas, projetos, desenhos, memórias justificativas, boletins de informações e cardenetas de campo;
 
@@ -122,17 +120,17 @@ g) Organizar e manter em dia os catálogos necessários aos serviços do D.N.O.S
 
 h) Coligir dados e documentos relativos aos trabalhos do D.N.O.S. ou que a êle enteressem.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
 Da D.O.
 
-<strong>Art</strong>. 10. A Divisão de Obras (D.O.) compreende:
+**Art**. 10. A Divisão de Obras (D.O.) compreende:
 
 a) Seção de Aparelhagem (S.A.);
 
 b) Seção de Contrôle (S.C.)
 
-<strong>Art</strong>.11. À D.O. compete:
+**Art**.11. À D.O. compete:
 
 a) Superintender, coordenar e orientar os trabalhos das seções que integram a Divisão;
 
@@ -150,7 +148,7 @@ g) Adotar, dentro de suas atribuições, tôdas as medidas necessárias ao bom �
 
 h) Minutar a parte técnica dos contratos de obras.
 
-<strong>Art</strong>. 12. À S.A. compete:
+**Art**. 12. À S.A. compete:
 
 a) promover a aquisição de todo o aparelhamento mecânico para obras e transporte, necessário para obras e transporte, necessário aos trabalhos do D.N.O.S.;
 
@@ -170,7 +168,7 @@ h) promover a padronização e o aperfeiçoamento progressivo do equipamento do 
 
 i) manter um arquivo especializado de catálogos de equipamentos.
 
-<strong>Art</strong>. 13. À S.C. compete:
+**Art**. 13. À S.C. compete:
 
 a) controlar o custeio geral dos trabalhos a cargo do D.N.O.S.;
 
@@ -186,11 +184,11 @@ f) manter um contrôle estatístico de ordem econômica, tendo em vista o estabe
 
 g) verificar os boletins de medição em face dos contratos correspondentes.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da D.A.</em>
+*Da D.A.*
 
-<strong>Art</strong>. 14. A Divisão de Administração (D.A.) compreende:
+**Art**. 14. A Divisão de Administração (D.A.) compreende:
 
 a) Seção de Pessoal (S.P.)
 
@@ -202,7 +200,7 @@ d) Seção Finenceira (S.F.)
 
 e) Seção Médica (S.Md.)
 
-<strong>Art</strong>. 15. À D.A. compete:
+**Art**. 15. À D.A. compete:
 
 a) superintender, coordenar e orientar os trabalhos das seções que integram a Divisão;
 
@@ -214,7 +212,7 @@ d) propor providências para as desapropriações julgadas necessárias;
 
 e) passar certidões referentes às atividades do D.N.O.S., quando autorizada pelo Diretor Geral;
 
-<strong>Art</strong>. 16. À S.P compete:
+**Art**. 16. À S.P compete:
 
 a) encaminhar à Divisão do Pessoal (DPV) do Departamento de Administração do Ministério da Viação e Obras Públicas, devidamente instruídos, os processos dos servidores em exercício no D.N.O.S.;
 
@@ -232,7 +230,7 @@ g) promover a publicação do boletim do pessoal do D.N.O.S.;
 
 h) processar e pagar as fôlhas de pessoal, sempre que êstes encargos não forem cometidos a outros órgãos.
 
-<strong>Art</strong>. 17. À S.M. compete:
+**Art**. 17. À S.M. compete:
 
 a) promover a aquisição do material permanente e de consumo necessário aos trabalhos do D.N.O.S., excetua-se o equipamento mecânico e de transporte;
 
@@ -252,7 +250,7 @@ h) proceder ao balanço anual dos bens do D.N.O.S.;
 
 i) realizar, quando necessário, concorrências e coletas de preços para a aquisição de materiais.
 
-<strong>Art</strong>. 18. À S.Cm. Compete:
+**Art**. 18. À S.Cm. Compete:
 
 a) Receber, registrar, distribuir, expedir e guardar a correspondência oficial e papéis relativos à atividade do D.N.O.S., controlando o respectivo andamento;
 
@@ -262,9 +260,9 @@ c) Atender às partes e prestar informações sôbre o andamento e despachos de 
 
 d) Superintender os serviços da Portaria por intermédio do respectivo Chefe;
 
-e) Promover a publicação, no <em>Diário</em> <em>oficial</em>, dos atos e decisões relativas ao D.N.O.S..
+e) Promover a publicação, no *Diáriooficial*, dos atos e decisões relativas ao D.N.O.S..
 
-<strong>Art</strong>. 19. À S.F. compete:
+**Art**. 19. À S.F. compete:
 
 a) Preparar as taabelas de distribuição de créditos;
 
@@ -278,23 +276,23 @@ e) Extrair, conferir e legalizar guias de recolhimento, depósitos, cauções e 
 
 f) Extrair nas épocas próprias, balancetes, demonstrações e balanços que devam ser submetidos às Repartições competentes;
 
-<strong>Art</strong>. 20. À S.Md., Compete:
+**Art**. 20. À S.Md., Compete:
 
 a) Providenciar a possível assistência médica, farmacêutica e hospitais diretamente ou por intermédio dos institutos respectivos, ao pessoal do D.N.O.S.;
 
 b) Proceder aos necessários exames de sanidade dos candidatos a admissão pelo Plano de Obras e Equipamentos.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos Distritos</em>
+*Dos Distritos*
 
-<strong>Art</strong>. 21. Os Distritos (D) compreendem:
+**Art**. 21. Os Distritos (D) compreendem:
 
 a) Turma Técnica (T.T.);
 
 b) Turma Administrativa (T.A.).
 
-<strong>Art</strong>. 22. Aos Distritos compete:
+**Art**. 22. Aos Distritos compete:
 
 a) Representar o D.N.O.S., dentro dos limites de suas atribuições junto aos Govêrnos dos Estados, Territórios e Municipios, aos empreiteiros e tarefeitos e ao público em geral.
 
@@ -334,7 +332,7 @@ r) organizar e remeter à D.O. os boletins de medição dos trabalhos executado;
 
 s) Informar ao Diretor Geral sôbre os pedidos de aforamentos dos terrenos de marinha e dos reservados à servidão pública, tendo em vista as conseqüências de sua concessão, em face das necessidades presentes e futuras das obras de saneamento.
 
-<strong>Art</strong>. 23. As Turmas Técnicas compete:
+**Art**. 23. As Turmas Técnicas compete:
 
 a) Estudos topo-hidrográficos, hidrológicos, geológicos, etc.;
 
@@ -344,15 +342,15 @@ c) Serviços técnicos de escritório;
 
 d) Serviços de cadastro, estatística e custeio.
 
-<strong>Art</strong>. 24. Às Turmas Administrativas compete:
+**Art**. 24. Às Turmas Administrativas compete:
 
 a) Exercer nos Distritos, dentro de suas atribuições, funções correspondentes às das Seções de Pessoal, de Material, de Comunicações, Financeira e Médica.
 
-<strong>capítulo iv</strong>
+**capítulo iv**
 
 DO PESSOAL E SUAS ATRIBUIÇÕES
 
-<strong>Art</strong>. 25. Ao Diretor Geral compete:
+**Art**. 25. Ao Diretor Geral compete:
 
 a) Orientar, dirigir, coordenar e fiscalizar tôdas as atividades do D.N.O.S.;
 
@@ -400,7 +398,7 @@ v) autorizar pagamentos dentro dos limites dos respectivos créditos orçamentá
 
 x) delegar competência a funcionários do D. N. O. S . para exercer qualquer atribuição de sua alçada.
 
-<strong>Art</strong>. 26. Aos Inspetores compete:
+**Art**. 26. Aos Inspetores compete:
 
 a) coadjuvar o Diretor Geral no estudo de assuntos que por êste lhe forem cometidos;
 
@@ -408,7 +406,7 @@ b) inspencionar os trabalhos do D. N. O S. apresentando ao Diretor Geral relató
 
 c) proceder a estudos preliminares relativos aos problemas apresentados ao D.N.O S.
 
-<strong>Art</strong>. 27 Ao Assistente Jurídico compete:
+**Art**. 27 Ao Assistente Jurídico compete:
 
 a) prestar assistência jurídica aos trabalhos dos vários órgãos do D N O
 
@@ -424,7 +422,7 @@ f) examinar o aspecto legal das questões relativas a acidentes no trabalho;
 
 g) manter sempre atualizado o ementário da legislação e jurisprudência referentes à administração em geral
 
-<strong>Art</strong>. 28. Aos Secretários do Diretor Geral e dos Diretores de Divisão compete:
+**Art**. 28. Aos Secretários do Diretor Geral e dos Diretores de Divisão compete:
 
 a) representá-los em reuniões e manifestações oficias, quando autorizados;
 
@@ -434,7 +432,7 @@ c) redigir a correspondência de seu Diretor;
 
 d) execer outros encargos determinados pelo seu Diretor.
 
-<strong>Art</strong>. 29. Aos Diretores de Divisão compete:
+**Art**. 29. Aos Diretores de Divisão compete:
 
 a) orientar, dirigir e coordenar os trabalhos a cargo da Divisão;
 
@@ -456,9 +454,9 @@ i) enviar à D.A. o resumo do ponto do pessoal da Divisão;
 
 j) movimentar o pessoal da Divisão de acôrdo com as conveniências do serviço
 
-<strong>Art</strong>. 30. Aos Chefes de Seção compete:
+**Art**. 30. Aos Chefes de Seção compete:
 
-a<strong>)</strong> dirigir os trabalhos a cargos da Seçao;
+a**)** dirigir os trabalhos a cargos da Seçao;
 
 b) propor ao Diretor da Divisão instruções e providências para orientação e execução dos trabalhos da Seção;
 
@@ -466,7 +464,7 @@ c) apresentar anualmente ao Diretor da Divisão o relatório das atividades da S
 
 d) Elogiar e impor penas disciplinares, de advertência e repreenssão ao pessoal que lhe fôr subordinado e propor ao Diretor da Divisão a aplicação das que escaparem à sua alçada.
 
-<strong>Art</strong>. 31. Ao Chefe da Portaria, que será designado pelo Diretor Geral, compete:
+**Art**. 31. Ao Chefe da Portaria, que será designado pelo Diretor Geral, compete:
 
 a) abrir e fechar as portas do edifício;
 
@@ -480,7 +478,7 @@ e) atender e dar informações às pessoas que tenham interêsses a tratar no D.
 
 f) providenciar o hasteamento da Bandeira Nacional nos dias em que isso fôr oficialmente determinado.
 
-<strong>Art</strong>. 32. Aos Chefes de Distrito compete:
+**Art**. 32. Aos Chefes de Distrito compete:
 
 a) orientar, dirigir e coordenar os trabalhos a cargo do Distrito;
 
@@ -504,35 +502,35 @@ j) representar o Distrito, dentro dos limites de suas atribuições, em suas rel
 
 k) movimentar o pessoal do Distrito de acôrdo com as conveniências do serviço.
 
-<strong>Art</strong>. 33. Aos Chefes de Turma compete:
+**Art**. 33. Aos Chefes de Turma compete:
 
 a) exercer nos Distritos, dentro de suas atribuições, encargos correspondentes aos dos Chefes de Seção.
 
-<strong>Art</strong>. 34. Aos servidores do D. N. O S. sem funções especificações neste Regimento compete executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 34. Aos servidores do D. N. O S. sem funções especificações neste Regimento compete executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 35. O D. N. O.S .terá a lotação que fôr aprovada em decreto.
+**Art**. 35. O D. N. O.S .terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além do pessoal constante da lotação, o D. N. O . poderá ter pessoal extranumerário admitido na forma da legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 36. O horário normal de trabalho será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 36. O horário normal de trabalho será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 37. A frequência do pessoal em trabalho fora das sedes será verificada por meio de boletins diários de produção, controlados pelos superiores imediato.
+**Art**. 37. A frequência do pessoal em trabalho fora das sedes será verificada por meio de boletins diários de produção, controlados pelos superiores imediato.
 
-<strong>Art</strong>. 38. O Diretor Geral, os Diretores de Divisão, os Inspetores e os Chefes de Distrito não ficam sujeitos a ponto, devendo, porém, tanto quanto possível, observar o horário fixado.
+**Art**. 38. O Diretor Geral, os Diretores de Divisão, os Inspetores e os Chefes de Distrito não ficam sujeitos a ponto, devendo, porém, tanto quanto possível, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 39. Será substituído, automàticamente, em suas faltas ou impedimentos ocasionais, até 30 dias:
+**Art**. 39. Será substituído, automàticamente, em suas faltas ou impedimentos ocasionais, até 30 dias:
 
 a) o Diretor Geral, por um Inspetor ou Diretor de Divisão de sua indicação, designado pelo Ministro de Estado da Viação e Obras Públicas;
 
@@ -546,14 +544,14 @@ e) o Chefe da Portaria, por um servidor designado pelo Diretor da Divisão de Ad
 
 Parágrafo único. Haverá, sempre, servidor previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. Os casos omissos ou duvidosos que, na aplicação dêste Regimento, surgirem com respeito à organização interna dos serviços, serão resolvidos pelo Diretor Geral.
+**Art**. Os casos omissos ou duvidosos que, na aplicação dêste Regimento, surgirem com respeito à organização interna dos serviços, serão resolvidos pelo Diretor Geral.
 
-<strong>Art</strong>. 41. Os demais casos omissos ou duvidosos, também referentes à aplicação dêste Regimento, serão resolvidos pelo Ministro da Viação e Obras públicas.
+**Art**. 41. Os demais casos omissos ou duvidosos, também referentes à aplicação dêste Regimento, serão resolvidos pelo Ministro da Viação e Obras públicas.
 
 Rio de janeiro, 24 de janeiro de 1946.
 
-<strong>Maurício Joppert da Silva</strong>
+**Maurício Joppert da Silva**

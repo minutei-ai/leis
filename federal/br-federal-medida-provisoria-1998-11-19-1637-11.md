@@ -1,5 +1,3 @@
-###MPV-001637-0-011-19-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.637-11, DE 19 DE NOVEMBRO DE 1998.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

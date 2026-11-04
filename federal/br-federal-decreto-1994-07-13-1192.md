@@ -1,7 +1,3 @@
-1
-
-###DEC-001192-0-000-13-07-1994@@@
-
 DECRETO N° 1.192, DE 13 DE JULHO DE 1994
 
 Dispõe sobre a transferência do cargo em comissão que menciona.

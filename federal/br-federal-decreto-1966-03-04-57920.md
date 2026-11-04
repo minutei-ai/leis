@@ -1,5 +1,3 @@
-###DEC-057920-0-000-04-03-1966@@@
-
 DECRETO Nº 57.920, DE 4 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Casemiro Costa a pesquisar mármore e, calcário no município de Cachoeiro de Itapemirim, do Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58419)
-
 # LEI Nº 12.132, DE 11 DE OUTUBRO DE 2005
 
 ## ( PL 461/2005 - Afonso Lobato)

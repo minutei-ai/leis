@@ -1,5 +1,3 @@
-###DEC-075271-0-000-23-01-1975@@@
-
 DECRETO Nº 75.271, DE 23 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Educação Física da Escola Superior de Educação Física e Técnicas Desportivas, mantida pela Associação de Ensino Marechal Cândido Rondon, com sede na cidade de Araçatuba, Estado de São Paulo.

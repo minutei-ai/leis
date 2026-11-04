@@ -1,5 +1,3 @@
-###DEC-088627-0-000-17-08-1983@@@
-
 decreto nº 88.627, de 17 de agosto de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

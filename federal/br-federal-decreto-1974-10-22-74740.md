@@ -1,5 +1,3 @@
-###DEC-074740-0-000-22-10-1974@@@
-
 Decreto nº 74.740, de 22 de outubro de 1974.
 
 Concede à Mineradora Montita Ltda. o direito de lavrar minério de manganês, no Município de Luziânia, Estado de Goiás.

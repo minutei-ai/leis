@@ -1,5 +1,3 @@
-###DEC-065035-0-000-21-08-1969@@@
-
 DECRETO Nº 65.035 - DE 21 DE AGôSTO DE 1969.
 
 Cria a 12ª Campanha de Política do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064264-0-000-21-03-1969@@@
-
 DECRETO Nº 64.264, DE 21 DE MARÇO DE 1969.
 
 Concede à Companhia de Mineração Rio Acima o direito de lavrar minério de ferro e ocre, no município de Santa Bárbara, Estado de Minas Gerais.

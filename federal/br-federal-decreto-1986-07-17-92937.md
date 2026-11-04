@@ -1,5 +1,3 @@
-###DEC-092937-0-000-17-07-1986@@@
-
 DECRETO Nº 92.937, DE 17 DE JULHO DE 1986
 
 Autoriza o funcionamento da Universidade do Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-000643-0-000-19-06-1969@@@
-
 DECRETO-LEI Nº 643, DE 19 DE JUNHO DE 1969
 
 Autoriza a venda de imóveis do INPS nas condições que especifica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076651-0-000-19-11-1975@@@
-
 DECRETO Nº 76.651, DE 19 DE NOVEMBRO DE 1975.
 
 Altera a estrutura administrativa da Rede Ferroviária Federal Sociedade Anônima - RFFSA, e dá outras providências.

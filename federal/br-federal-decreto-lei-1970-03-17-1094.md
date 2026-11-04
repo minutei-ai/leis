@@ -1,5 +1,3 @@
-###DEL-001094-0-000-17-03-1970@@@
-
 # DECreto-LEI Nº 1.094, DE 17 DE MARÇO DE 1970
 
 Dispõe sôbre a Comissão Especial da Faixa de Fronteiras e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008215-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.215 – DE 23 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial da Cr$ 20.000.000,00 para  prosseguimento e complementação das obras de ligação rodoviária do Sul com o Norte do País.

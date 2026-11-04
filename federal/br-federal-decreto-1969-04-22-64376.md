@@ -1,5 +1,3 @@
-###DEC-064376-0-000-22-04-1969@@@
-
 DECRETO Nº 64.376, DE 22 DE ABRIL DE 1969.
 
 Transfere servidores, com os cargos de que são ocupantes, do Quadro de Pessoal - Parte Especial - do Ministério dos Transportes para os Quadros de Pessoal do Departamento Nacional de Obras de Saneamento (DNOS) e do Departamento Nacional de Obras Contra as Secas (DNOCS), do Ministério do Interior, e dá outras providências.

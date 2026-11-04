@@ -1,5 +1,3 @@
-###DEC-003895-0-000-23-08-2001@@@
-
 DECRETO Nº 3.895, DE 23 DE AGOSTO de 2001
 
 Promulga o Acordo de Cooperação Judiciária e Assistência Mútua em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo da República da Colômbia, celebrado em Cartagena de Índias, em 7 de novembro de 1997.

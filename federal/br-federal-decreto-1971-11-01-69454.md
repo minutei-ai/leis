@@ -1,5 +1,3 @@
-###DEC-069454-0-000-01-11-1971@@@
-
 DECRETO Nº 69.454 - DE 1 DE NOVEMBRO DE 1971
 
 Extingue o Grupo Especial para a Racionalização da Agroindústria Canavieira do Nordeste - GERAN, e dá outras providências.

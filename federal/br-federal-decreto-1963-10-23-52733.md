@@ -1,5 +1,3 @@
-###DEC-052733-0-000-23-10-1963@@@
-
 DECRETO Nº 52.733, DE 23 DE OUTUBRO DE 1963.
 
 Transfere da Companhia de Eletricidade do Alto Rio Doce para Centrais Elétricas de Minas Gerais S.A. concessão para aproveitamento de energia hidráulica.

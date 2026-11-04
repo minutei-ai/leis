@@ -1,5 +1,3 @@
-###DEC-074537-0-000-11-09-1974@@@
-
 DECRETO Nº 74.537, DE 11 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Educação Artística, da Faculdade de Artes Plásticas de Santos, mantida pelo Instituto Superior de Educação Santa Cecília, com sede na cidade de Santos, Estado de São Paulo.

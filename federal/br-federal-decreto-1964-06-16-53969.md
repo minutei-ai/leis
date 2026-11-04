@@ -1,5 +1,3 @@
-###DEC-053969-0-000-16-06-1964@@@
-
 DECRETO Nº 53.969, DE 16 DE JUNHO DE 1964.
 
 Aprova o Regulamento da Comissão Nacional da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO).

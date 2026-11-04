@@ -1,5 +1,3 @@
-###DEC-080643-0-000-27-10-1977@@@
-
 DECRETO Nº 80.643, DE 21 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, pela Telecomunicações de São Paulo S.A. - TELESP, os lotes de terreno que menciona situados na Rua Panamá, Município e Comarca de Itanhaém, Estado de São Paulo, destinados a obrigar Estação Rádio.

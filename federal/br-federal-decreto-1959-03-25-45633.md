@@ -1,5 +1,3 @@
-###DEC-045633-0-000-25-03-1959@@@
-
 Decreto nº 45.633, de 25 de março de 1959.
 
 Declara sem efeito o Decreto número 40.273, de 5 de novembro de 1956.

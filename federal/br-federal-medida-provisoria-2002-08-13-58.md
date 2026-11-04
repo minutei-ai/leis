@@ -1,5 +1,3 @@
-###MPV-000058-0-000-13-08-2002@@@
-
 MEDIDA PROVISÓRIA Nº 58, DE 13 DE AGOSTO DE 2002
 
 Exclui da vedação prevista no art. 3º da Lei nº 9.491, de 9 de setembro de 1997, as ações detidas pela União no capital do Banco do Brasil S.A., e dá outras providências.

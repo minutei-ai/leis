@@ -38,8 +38,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 14 de maio de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

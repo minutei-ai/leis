@@ -1,5 +1,3 @@
-###DEC-047542-A-000-30-12-1959@@@
-
 DECRETO N. 47.542 “A” – DE 30 DE DEZEMBRO DE 1959
 
 Autoriza o Departamento Administrativo do Serviço Público a realizar despesas nos têrmos do artigo 48 do Código de Contabilidade da União e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099670-0-000-06-11-1990@@@
-
 DECRETO N° 99.670, DE 6 DE NOVEMBRO DE 1990
 
 Altera o Decreto n° 92.503, de 26 de março de 1986, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz.

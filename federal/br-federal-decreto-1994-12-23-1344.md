@@ -1,7 +1,3 @@
-1
-
-###DEC-001344-0-000-23-12-1994@@@
-
 # DECRETO Nº 1.344, DE 23 DE DEZEMBRO DE 1994
 
 Fixa o prazo para conclusão dos trabalhos que se refere a Lei nº 8.878, de 11 de maio de 1994.

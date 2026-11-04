@@ -1,5 +1,3 @@
-###DEC-045377-0-000-03-02-1959@@@
-
 decreto nº 45.377, de 3 de fevereiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Buriti, no Estado do Maranhão.

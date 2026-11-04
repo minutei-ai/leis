@@ -1,5 +1,3 @@
-###DEC-049302-0-000-21-11-1960@@@
-
 DECRETO Nº 49.302, DE 21 DE NOVEMBRO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação, que faz D. Sylvia Gomes, de uma área de terreno necessária ao Ministério da Guerra.

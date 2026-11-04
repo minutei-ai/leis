@@ -1,5 +1,3 @@
-###DEC-075980-0-000-17-07-1975@@@
-
 DECRETO Nº 75.980 - DE 17 DE JULHO DE 1975.
 
 Concede reconhecimento aos cursos de Ciências, de Estudos Sociais e de Letras, mantidos, em Curvelo, pela Universidade Católica de Minas Gerais, em convênio com a Fundação Educacional de Curvelo, Estado de Minas Gerais.

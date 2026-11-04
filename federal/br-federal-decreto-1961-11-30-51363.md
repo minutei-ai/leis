@@ -1,5 +1,3 @@
-###DEC-051363-0-000-30-11-1961@@@
-
 decreto nº 51.363, de 30 de novembro de 1961.
 
 Dispõe sôbre eleições dos Presidentes dos Órgãos Colegiados da Previdência Social e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-000572-0-000-22-06-1992@@@
-
 DECRETO N° 572, DE 22 DE JUNHO DE 1992
 
 Dispõe sobre inclusão no Programa Nacional de Desestatização - PND, da Espírito Santo Centrais Elétricas S.A. - ESCELSA e Light Serviços de Eletricidade S.A.

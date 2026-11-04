@@ -1,5 +1,3 @@
-###DEC-091743-0-000-04-10-1985@@@
-
 Decreto nº 91.743, de 04 de outubro de 1985
 
 Reduz alíquota do Imposto sobre Produtos Industrializados.

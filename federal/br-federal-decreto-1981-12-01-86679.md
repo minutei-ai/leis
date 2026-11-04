@@ -1,5 +1,3 @@
-###DEC-086679-0-000-01-12-1981@@@
-
 Decreto nº 86.679, de 01 de dezembro de 1981
 
 Autoriza o aumento de potência da RÁDIO DOZE DE MAIO LTDA., na cidade de São Lourenço D' Oeste, Estado de Santa Catarina.

@@ -24,7 +24,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pelo Decreto nº 10.670, de 2-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110556).
 
 FAIXA DE SERVIDÃO AAB – BAIXO RECALQUE - ALTO RECALQUE
@@ -51,7 +52,8 @@ FAIXA DE SERVIDÃO AAB – BAIXO RECALQUE - ALTO RECALQUE
 | ~~MATRÍCULA~~ | ~~Nº 2.598 no Cartório de Registro de Imóveis do Município de Abadiânia/GO~~ |
 | ~~MEMORIAL DESCRITIVO~~ | ~~Situação e Limites: A Faixa de Servidão destina-se à proteção, operação, ampliação, manutenção e acesso a AAB Baixo Recalque – Alto Recalque. É constituído de 1(um) trecho, através de uma faixa de 6,00 (seis) metros de largura, dentro dos seguintes limites e confrontações: TRECHO 01 – MATRÍCULA Nº. 2.598, propriedade de ANICÉSIO CARNEIRO DE LIMA e sua mulher, dona MARIA APARECIDA GONÇALVES LIMA, com área de 1.299,74 m2; Inicia-se a descrição deste perímetro no vértice 1, de coordenadas N 8.213.700,96m e E 739.088,95m, localizado na divisa com a área da EEAB Baixo Recalque; deste, segue com os seguintes azimutes e distâncias: 106°20' e 6,01 m até o vértice 2, de coordenadas N 8.213.699,20m e E 739.094,69m; 196°26' e 16,79 m até o vértice 3, de coordenadas N 8.213.683,15m e E 739.089,76m; 213°46' e 154,48 m até o vértice 4, de coordenadas N 8.213.555,64m e E 739.002,46m; 221°56' e 46,32 m até o vértice 5, de coordenadas N 8.213.521,51m e E 738.971,10m; 312°06' e 4,13 m até o vértice 6, de coordenadas N 8.213.524,30m e E 738.968,07m; 266°42' e 2,68 m até o vértice 7, de coordenadas N 8.213.524,18m e E 738.965,40m; 41°56' e 47,78 m até o vértice 8, de coordenadas N 8.213.559,38m e E 738.997,75m; 33°46' e 153,14 m até o vértice 9, de coordenadas N 8.213.685,78m e E 739.084,30m; 17°01'52" e 15,88 m até o vértice 1, ponto inicial da descrição deste perímetro. Todas as coordenadas aqui descritas encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central nº - 51°00', Fuso 22, tendo como Datum o SIRGAS 2000.~~ |
 
-ANEXO II<br>
+ANEXO II
+
 \- [Redação dada pelo Decreto nº 10.670, de 2-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110556).
 
 I – ESTAÇÃO ELEVATÓRIA DE ÁGUA BRUTA – BAIXO RECALQUE E ALTO RECALQUE – DESAPROPRIAÇÃO

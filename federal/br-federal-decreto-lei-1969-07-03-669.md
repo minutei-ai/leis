@@ -1,5 +1,3 @@
-###DEL-000669-0-000-03-07-1969@@@
-
 DECRETO-LEI Nº 669, DE 3 DE JULHO DE 1969
 
 Exclui do benefício da concordata as emprêsas que exploram serviços aéreos ou de infra-estrutura aeronáutica e dá outras providências.

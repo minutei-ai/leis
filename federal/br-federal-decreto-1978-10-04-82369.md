@@ -1,5 +1,3 @@
-###DEC-082369-0-000-04-10-1978@@@
-
 Decreto nº 82.369, de 04 de outubro de 1978
 
 Concede à Jacinto Alves do Amaral - Firma Individual, o direito de lavrar agalmatolito no Município de Mateus Leme, Estado de Minas Gerais.

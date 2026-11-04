@@ -1,5 +1,3 @@
-###DEC-056086-0-000-26-04-1965@@@
-
 DECRETO Nº56.086, DE 26 DE ABRIL DE 1965.
 
 Autoriza a Companhia Elétrica Caiuá a vender equipamentos.

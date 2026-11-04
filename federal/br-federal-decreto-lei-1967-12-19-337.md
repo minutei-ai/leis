@@ -1,5 +1,3 @@
-###DEL-000337-0-000-19-12-1967@@@
-
 DECRETO-LEI Nº 337, DE 19 DE DEZEMBRO DE 1967
 
 Prorroga a entrada em vigor do Decreto-lei nº 265, de 28 de fevereiro de 1967.

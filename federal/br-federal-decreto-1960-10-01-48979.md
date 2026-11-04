@@ -1,5 +1,3 @@
-###DEC-048979-0-000-01-10-1960@@@
-
 DECRETO Nº 48.979, DE 1º DE OUTUBRO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno que a Municipalidade de Pôrto Lucena, RGS, deseja fazer para a efetivação da sede da Capatazia da Capitania Fluvial dos Portos do Rio Uruguai, em Pôrto Lucena, no mesmo Estado.

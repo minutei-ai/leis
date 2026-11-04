@@ -1,5 +1,3 @@
-###DEC-052437-0-000-02-09-1963@@@
-
 DECRETO Nº 52.437, DE 2 DE SETEMBRO DE 1963.
 
 Abre, ao Ministério da Saúde, o crédito especial de CR$17.000.000,00 (dezessete milhões de cruzeiros), destinado a auxiliar a Associação Pró-Matre, instituição beneficente, com sede no Estado da Guanabara.

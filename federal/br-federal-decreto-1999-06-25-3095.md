@@ -1,5 +1,3 @@
-###DEC-003095-0-000-25-06-1999@@@
-
 DECRETO Nº 3.095, DE 25 DE JUNHO DE 1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.021, de 7 de abril de 1999.

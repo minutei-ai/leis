@@ -1,7 +1,3 @@
-1
-
-###MPV-000861-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 861, DE 27 DE JANEIRO DE 1995
 
 Dispõe sobre o prazo previsto no § 4º do art. 2º da Lei nº 8.352, de 28 de dezembro de 1991.

@@ -1,5 +1,3 @@
-###DEL-001845-0-000-30-12-1980@@@
-
 # Decreto-lei nº 1.845, de 30 de dezembro de 1980.
 
 Prorroga a isenção concedida no artigo 2º do Decreto-lei nº 1.507, de 2 de dezembro de 1976 e concede dispensa de pagamento da Taxa de Melhoramento dos Portos (TMP) e do Adicional ao Frete para a Renovação da Marinha Mercante (AFRMM), nos casos que especifica.

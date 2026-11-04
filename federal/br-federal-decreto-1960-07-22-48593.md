@@ -1,5 +1,3 @@
-###DEC-048593-0-000-22-07-1960@@@
-
 DECRETO Nº 48.593, de 22 DE julho DE 1960.
 
 Autoriza o cidadão brasileiro Jerônimo Thomé da Júnior a lavrar rutilo e ouro, no município de Pirenópolis, Estado de Goiás.

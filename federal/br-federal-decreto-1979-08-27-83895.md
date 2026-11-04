@@ -1,5 +1,3 @@
-###DEC-083895-0-000-27-08-1979@@@
-
 Decreto nº 83.895, de 27 de agosto de 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Emissora de Educação Rural Santarém Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Santarém, Estado do Pará.

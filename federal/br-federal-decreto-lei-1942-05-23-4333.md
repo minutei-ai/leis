@@ -1,5 +1,3 @@
-###DEL-004333-0-000-23-05-1942@@@
-
 DECRETO-LEI N. 4.333 – DE 23 de MAIO DE 1942
 
 Revigora, por 60 dias, dispositivos do decreto n. 1.137, de 7 de outubro de 1936, e dá outras providências

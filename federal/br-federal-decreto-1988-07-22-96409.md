@@ -1,5 +1,3 @@
-###DEC-096409-0-000-22-07-1988@@@
-
 DECRETO N° 96.409, DE 22 DE JULHO DE 1988
 
 Autoriza o DEUTSCHE BANK AKTIENGESELLSCHAFT a instalar mais duas filiais no Brasil.

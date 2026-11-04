@@ -1,5 +1,3 @@
-###DEC-058377-0-000-09-05-1966@@@
-
 Decreto nº 58.377 de 9 de maio de 1966.
 
 Cria o Plano de Financiamento de Cooperativas Operárias e fixa as normas gerais de sua constituição e funcionamento.

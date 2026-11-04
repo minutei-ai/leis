@@ -1,5 +1,3 @@
-###DEC-052506-0-000-27-09-1963@@@
-
 DECRETO Nº 52.506, DE 27 DE SETEMBRO DE 1963.
 
 Abre ao Poder Judiciário - Superior Tribunal Militar, o crédito especial de Cr$4.300.000,00 (quatro milhões e trezentos mil cruzeiros), para atender a pagamentos de pessoal e material.
@@ -19,8 +17,6 @@ Brasília, 27 de setembro de 1963; 142º da Independência e 75º da República.
 João goulart
 
 Carvalho Pinto
-
-###DEC-052506-0-000-27-09-1963@@@RET01+++
 
 DECRETO Nº 52.506, DE 27 DE SETEMBRO DE 1963.
 

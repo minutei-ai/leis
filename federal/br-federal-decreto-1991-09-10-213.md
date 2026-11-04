@@ -1,5 +1,3 @@
-###DEC-000213-0-000-10-09-1991@@@
-
 DECRETO Nº 213, DE 10 DE SETEMBRO DE 1991
 
 Altera o art. 78 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

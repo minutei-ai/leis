@@ -1,7 +1,3 @@
-1
-
-###DEC-098209-0-000-27-09-1989@@@
-
 DECRETO Nº 98.209, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “SANTA RITA II”, situado no Município de Catanduvas, Estado de Santa Catarina, e dá outras providências.

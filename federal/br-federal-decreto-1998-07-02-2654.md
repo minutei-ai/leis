@@ -1,5 +1,3 @@
-###DEC-002654-0-000-02-07-1998@@@
-
 DECRETO Nº 2.654, DE 12 DE JULHO DE 1998
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Centrais Geradoras do Sul do Brasil S.A. - GERASUL.
@@ -21,8 +19,6 @@ FERNANDO HENRIQUE CARDOSO
 Raimundo Brito
 
 Paulo Paiva
-
-###DEC-002654-0-000-02-07-1998@@@RET01+++
 
 RETIFICAÇÃO
 

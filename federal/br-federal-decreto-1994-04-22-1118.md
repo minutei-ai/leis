@@ -1,7 +1,3 @@
-1
-
-###DEC-001118-0-000-22-04-1994@@@
-
 DECRETO N° 1.118, DE 22 DE ABRIL DE 1994
 
 Cria a Zona de Processamento de Exportação (ZPE) de Vila Velha, no Estado do Espírito Santo.

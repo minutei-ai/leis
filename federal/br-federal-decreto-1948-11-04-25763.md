@@ -1,22 +1,20 @@
-###DEC-025763-0-000-04-11-1948@@@
+**DECRETO Nº 25.763, DE 4 DE NOVEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.763, DE 4 DE NOVEMBRO DE 1948.</strong>
+***Concede à sociedade anônima “W. M. Jackson, Inc.” autorização para continuar a funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “W. M. Jackson, Inc.” autorização para continuar a funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima “W. M. Jackson, Inc.”, autorizada a funcionar pelos Decretos ns. 1.733, de 23 de junho de 1937, 17.426, de 27 de dezembro de 1944, e 21.342, de 24 de junho de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima “W. M. Jackson, Inc.”, autorizada a funcionar pelos Decretos ns. 1.733, de 23 de junho de 1937, 17.426, de 27 de dezembro de 1944, e 21.342, de 24 de junho de 1946,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. E’ concedida à sociedade anônima “W. M. Jackson, Inc.”, com sede na cidade de Wilmington, Condado de New Castle, Estado de Delaware, Estados Unidos da América, autorização para continuar a funcionar na República, com o aumento do capital destinado às operações no Brasil de Cr$9.500.000,00 (nove milhões e quinhentos mil cruzeiros) para Cr$16.500,00.000,00 (dezesseis milhões e quinhentos mil cruzeiros), em virtude da resolução tomada pela sua diretoria e aprovada na reunião realizada em 23 de agôsto de 1948, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 4 de novembro de 1948, 127.° da Independência e 60.° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Honório Monteiro
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 25.763, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 25.763, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 4 de novembro de 1948.
 
-<strong>HONÓRIO MONTEIRO.</strong>
+**HONÓRIO MONTEIRO.**

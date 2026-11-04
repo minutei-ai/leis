@@ -28,7 +28,8 @@ Art. 4º - O capital social inicial autorizado da Companhia será de Cr$10.000.0
 
 § 1º - A participação do Estado da Bahia isoladamente ou em conjunto com entidades estaduais da administração indireta, será de, pelo menos, 20% (vinte por cento) do capital social com direito a voto integralizado em dinheiro, bens ou créditos de qualquer espécie.
 
-Redação de acordo com o art. 5º da Lei nº 5.514, de 17 de novembro de 1989.<br>
+Redação de acordo com o art. 5º da Lei nº 5.514, de 17 de novembro de 1989.
+
 Redação original: "§ 1º - A participação do Estado da Bahia isoladamente ou em conjunto com entidades estaduais da administração indireta, será de pelo menos 51% (cinqüenta e um por cento) do capital social com direito a voto, que será integralizado em dinheiro, bens ou créditos de qualquer espécie."
 
 § 2º - Nos aumentos de capital, respeitar-se-á a percentagem mínima de participação do Estado, prevista no parágrafo anterior.
@@ -51,7 +52,8 @@ Art. 12 - A sociedade manterá perfeito entrosamento com órgãos públicos que,
 
 Art. 13 - O controle e supervisão da Central de Tratamento de Efluentes Líquidos S/A - CETREL - serão exercidos pela Secretaria da Indústria e Comércio.
 
-Redação de acordo com a Lei nº 3.696, de 11 de maio de 1979.<br>
+Redação de acordo com a Lei nº 3.696, de 11 de maio de 1979.
+
 Redação original: "Art. 13 - Enquanto não for criado, por lei, o órgão que se encarregará da administração do Complexo Petroquímico de Camaçari COPEC, a Central de Tratamento de Efluentes de Líquidos - CETREL ficará sujeita à supervisão e controle da Secretaria das Minas e Energia."
 
 Parágrafo único - Com a criação da entidade referida neste artigo a Companhia passará automaticamente para a área da Secretaria a qual o COPEC se vincular.

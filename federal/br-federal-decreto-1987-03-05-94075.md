@@ -1,5 +1,3 @@
-###DEC-094075-0-000-05-03-1987@@@
-
 DECRETO N° 94.075, DE 05 DE MARÇO DE 1987
 
 Dispõe sobre o prazo de isenção do Imposto de Renda para os empreendimentos agrícolas e industriais nas áreas de atuação da Superintendência do Desenvolvimento da Amazônia - SUDAM e da Superintendência do Desenvolvimento do Nordeste - SUDENE.

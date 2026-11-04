@@ -1,5 +1,3 @@
-###DEC-004898-0-000-26-11-2003@@@
-
 DECRETO Nº 4.898,  DE 26 DE NOVEMBRO DE 2003.
 
        Transfere competências da EMBRATUR - Instituto Brasileiro de Turismo para o Ministério do Turismo, e dá outras providências.

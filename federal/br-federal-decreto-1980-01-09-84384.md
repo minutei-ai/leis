@@ -1,5 +1,3 @@
-###DEC-084384-0-000-09-01-1980@@@
-
 DECRETO Nº 84.384, DE 09 DE JANEIRO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

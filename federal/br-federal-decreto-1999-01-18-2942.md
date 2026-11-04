@@ -1,5 +1,3 @@
-###DEC-002942-0-000-18-01-1999@@@
-
 DECRETO Nº 2.942, DE 18 DE JANEIRO DE 1999.
 
 Regulamenta os arts. 7º, 11 e 16 da Lei nº 8.159, de 8 de janeiro de 1991, que dispõe sobre a política nacional de arquivos públicos e privados e dá outras providências.

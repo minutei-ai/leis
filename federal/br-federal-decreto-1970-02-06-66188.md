@@ -1,5 +1,3 @@
-###DEC-066188-0-000-06-02-1970@@@
-
 decreto nº 66.188 - de 6 de fevereiro de 1970
 
 Concede reconhecimento de Curso.

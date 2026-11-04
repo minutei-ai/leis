@@ -1,5 +1,3 @@
-###DEL-008078-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.078 – DE 11 DE OUTUBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 200.000,00 à verba que especifica

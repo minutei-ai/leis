@@ -1,5 +1,3 @@
-###DEC-044965-0-000-01-12-1958@@@
-
 DECRETO Nº 44.965, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza Ardósias Brasil Ltda. a lavrar ardósia no município de Sete Lagoas, Estado de Minas Gerais.

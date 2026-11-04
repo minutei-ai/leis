@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211352)<br>
-
 # DECRETO N° 69.818, DE 26 DE AGOSTO DE 2025
 
 ### _Altera o Decreto n° 58.438, de 9 de outubro de 2012, que aprova o Estatuto da Fundação Universidade Virtual do Estado de São Paulo - UNIVESP, e o Decreto n° 60.333, de 3 de abril de 2014, que aprova o Regimento Geral da Fundação Universidade Virtual do Estado de São Paulo - UNIVESP._

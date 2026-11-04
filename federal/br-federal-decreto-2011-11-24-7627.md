@@ -1,5 +1,3 @@
-###DEC-007627-0-000-24-11-2011-PUB-01@@@
-
 DECRETO Nº 7.627, DE 24 DE NOVEMBRO DE 2011
 
 Regulamenta a monitoração eletrônica de pessoas prevista no Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, e na Lei no 7.210, de 11 de julho de 1984 - Lei de Execução Penal.

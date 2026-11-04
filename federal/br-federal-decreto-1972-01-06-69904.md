@@ -1,5 +1,3 @@
-###DEC-069904-0-000-06-01-1972@@@
-
 DECRETO Nº 69.904, DE 6 DE JANEIRO DE 1972.
 
 Declara caducos os Decretos números 15.435, de 7 de abril de 1922; 17.156, de 23 de dezembro de 1925; 6, de 4 de janeiro de 1935; 99, de 22 de março de 1935; 156, de 10 de maio de 1935 e 27.761; de 3 de fevereiro de 1950, que autorizaram a Italcabe Servizi Cablografici Radiotelegrafici e Radiolettrici Societá Per Azione a explorar serviço telegráfico internacional e interior, através de cabos telegráficos submarinos e dá outras providências.

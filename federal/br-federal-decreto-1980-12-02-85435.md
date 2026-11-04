@@ -1,5 +1,3 @@
-###DEC-085435-0-000-02-12-1980@@@
-
 Decreto nº 85.435, de 02 de dezembro de 1980.
 
 Concede à FORJAS ACESITA S.A., autorização para proceder a aumento do seu capital social.

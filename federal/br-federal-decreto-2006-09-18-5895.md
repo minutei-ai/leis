@@ -1,5 +1,3 @@
-###DEC-005895-0-000-18-09-2006@@@
-
 DECRETO Nº 5.895, DE 18 DE SETEMBRO DE 2006.
 
                  Dá nova redação ao art. 3o do Decreto no 2.536, de 6 de abril de 1998, que dispõe sobre a concessão do Certificado de Entidade Beneficente de Assistência Social a que se refere o inciso IV do art. 18 da Lei no 8.742, de 7 de dezembro de 1993.    
@@ -59,5 +57,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
          Jose Agenor Alvares da Silva
-
-Este texto não substitui o publicado no D.O.U. de 15.9.2006.

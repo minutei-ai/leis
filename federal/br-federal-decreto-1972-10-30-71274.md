@@ -1,5 +1,3 @@
-###DEC-071274-0-000-30-10-1972@@@
-
 Decreto Nº 71.274 - DE 30 DE OUTUBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras Mário Henrique Simonsen - Rio-GB.

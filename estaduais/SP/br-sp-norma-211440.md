@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211440)<br>
-
 # DECRETO N° 69.862, DE 11 DE SETEMBRO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Agricultura e Abastecimento nos Sistemas de Administração Financeira e Orçamentária do Estado._

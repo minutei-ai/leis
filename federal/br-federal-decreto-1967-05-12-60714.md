@@ -1,5 +1,3 @@
-###DEC-060714-0-000-12-05-1967@@@
-
 DECRETO Nº 60.714, DE 12 DE MAIO DE 1967.
 
 Dá nova redação ao art. 79 do Decreto nº 59.203, de 12 de setembro de 1966 (Regulamenta a Lei de Promoções de Oficiais da Ativa da Aeronáutica).

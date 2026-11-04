@@ -1,5 +1,3 @@
-###DEL-003996-0-000-02-01-1942@@@
-
 DECRETO-LEI N. 3.996 – DE 2 DE JANEIRO DE 1942
 
 Dispõe sobre as perícias médico-legais relativas a acidentes do trabalho e dá outras providências

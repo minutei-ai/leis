@@ -1,5 +1,3 @@
-###DEC-078654-0-000-27-10-1976@@@
-
 DECRETO Nº 78.654, DE 27 DE outubro DE 1976.
 
 Autoriza o funcionamento dos cursos de Pedagogia e de Ciências da Fundação Faculdade Estadual de Filosofia, Ciências e Letras de Guarapuava.

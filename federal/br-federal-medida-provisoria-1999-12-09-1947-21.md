@@ -1,5 +1,3 @@
-###MPV-001947-0-021-09-12-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.947-21, DE 9 DE DEZEMBRO DE 1999
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1ºde maio de 1998

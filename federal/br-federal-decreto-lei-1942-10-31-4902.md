@@ -1,5 +1,3 @@
-###DEL-004902-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.902 – DE 31 DE OUTUBRO DE 1942
 
 Dispõe sobre a garantia de lugar e sobre a remuneração dos brasileiros convocados para qualquer encargo de natureza militar

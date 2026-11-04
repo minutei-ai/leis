@@ -1,5 +1,3 @@
-###DEC-004064-0-000-26-12-2001@@@
-
 DECRETO Nº 4.064, DE 26 DE DEZEMBRO DE 2001.
 
 Dá nova redação ao § 4o do art. 10 do Decreto no 3.431, de 24 de abril de 2000, que regulamenta a execução do programa de Recuperação Fiscal - REFIS.

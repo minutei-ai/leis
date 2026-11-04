@@ -1,5 +1,3 @@
-###DEC-053486-0-000-24-01-1964@@@
-
 Decreto nº 53.486, de 24 de janeiro de 1964.
 
 Concede reconhecimento a curso.

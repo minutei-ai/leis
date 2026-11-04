@@ -1,5 +1,3 @@
-###MPV-001817-0-001-19-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.817-1, DE 19 DE ABRIL DE 1999.
 
 Altera a redação do § 2º do art. 60 da Lei nº 9.692, de 27 de julho de 1998, que dispões sobre as diretrizes para a elaboração da Lei Orçamentária de 1999.

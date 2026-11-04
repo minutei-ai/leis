@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208133)<br>
-
 # DECRETO N° 67.718, DE 26 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias à implantação de marginal no trecho entre os km 248+000 e 252+000 da Rodovia Marechal Rondon, SP-300, no Município de Botucatu, e dá providências correlatas._

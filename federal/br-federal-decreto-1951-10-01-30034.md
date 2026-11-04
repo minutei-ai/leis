@@ -1,14 +1,12 @@
-###DEC-030034-0-000-01-10-1951@@@
+**DECRETO Nº30.034, DE 1 DE OUTUBRO DE 1951.**
 
-<strong>DECRETO Nº</strong> <strong>30.034, DE 1 DE OUTUBRO DE 1951.</strong>
+***C**lassifica as especialidades das praç**as das Fô**rç**as Armadas, para efeito de percepçã**o da "gratificaçã**o de especialidade e funçã**o", prevista na Lei nº**1.316, de 20-1-1951.***
 
-<em><strong>C</strong></em><em><strong>lassifica as especialidades das praç</strong></em><em><strong>as das Fô</strong></em><em><strong>rç</strong></em><em><strong>as Armadas, para efeito de percepçã</strong></em><em><strong>o da "gratificaçã</strong></em><em><strong>o de especialidade e funçã</strong></em><em><strong>o", prevista na Lei nº</strong></em> <em><strong>1.316, de 20-1-1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚ</strong><strong>BLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Na conformidade do artigo 84 da Lei nº 1.316, de 20 de janeiro de 1951, é adotada a seguinte classificação para as praças especialistas das Fôrças Armadas, para fins de abono da "gratificação de especialidade e função", de que trata o Capítulo IX do Título III do Código de Vencimentos e Vantagens dos Militares:
+**Art**. 1º Na conformidade do artigo 84 da Lei nº 1.316, de 20 de janeiro de 1951, é adotada a seguinte classificação para as praças especialistas das Fôrças Armadas, para fins de abono da "gratificação de especialidade e função", de que trata o Capítulo IX do Título III do Código de Vencimentos e Vantagens dos Militares:
 
 I - No Exército
 
@@ -658,17 +656,17 @@ e. Operação e manutenção de radar
 
 f. Pilôtos
 
-<strong>Art</strong>. 2º A gratificação de especialidade e função denominada "gratificação de especialidade" só poderá ser concedida à praça que tiver o respectivo curso em organização militar ou, na falta deste, em curso civil conhecido pelo Ministro da Fôrça Armada a que pertencer.
+**Art**. 2º A gratificação de especialidade e função denominada "gratificação de especialidade" só poderá ser concedida à praça que tiver o respectivo curso em organização militar ou, na falta deste, em curso civil conhecido pelo Ministro da Fôrça Armada a que pertencer.
 
-<strong>Art</strong>. 3º A gratificação de especialidade e função não poderá ser acumulada com outra atribuída ao Serviço a que pertencer a praça ou qualquer sub-especialidade.
+**Art**. 3º A gratificação de especialidade e função não poderá ser acumulada com outra atribuída ao Serviço a que pertencer a praça ou qualquer sub-especialidade.
 
-<strong>Art</strong>. 4º Para os efeitos de saque de remuneração das várias categorias e especialidades, cada organização recorrerá ao respectivo quadro do efetivo ou de lotação.
+**Art**. 4º Para os efeitos de saque de remuneração das várias categorias e especialidades, cada organização recorrerá ao respectivo quadro do efetivo ou de lotação.
 
-<strong>Art</strong>. 5º Êste decreto entrará em vigor a partir do dia 23 de janeiro de 1951, revogadas as disposições em contrário.
+**Art**. 5º Êste decreto entrará em vigor a partir do dia 23 de janeiro de 1951, revogadas as disposições em contrário.
 
 Rio de janeiro, 1 de outubro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Renato de Almeida Guillobel
 

@@ -1,5 +1,3 @@
-###DEL-003663-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.663 – DE 25 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de 30:000$0 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-068854-0-000-02-07-1971@@@
-
 DECRETO Nº 68.854, DE 2 DE JULHO DE 1971.
 
 Declara de utilidade pública a Irmandade da Santa Casa de São Vicente de Paulo de Terra Boa, com sede em Terra Boa, Estado do Paraná.

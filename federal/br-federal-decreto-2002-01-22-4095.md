@@ -1,5 +1,3 @@
-###DEC-004095-0-000-22-01-2002@@@
-
 DECRETO Nº 4.095, DE 22 DE JANEIRO DE 2002.
 
 Dá nova redação ao Anexo II ao Decreto n~~º~~ 3.838, de 6 de junho de 2001, que aprova a Estrutura Regimental do Instituto Nacional do Seguro Social - INSS.

@@ -1,5 +1,3 @@
-###DEL-001142-0-000-30-12-1970@@@
-
 # DECRETO-LEI Nº 1.142, DE 30 DE DEZEMBRO DE 1970
 
 Altera e consolida a legislação referente ao fundo de Marinha Mercante, dispõe sôbre o Adicional ao Frete para a Renovação da Marinha Mercante e dá outras providências.
@@ -199,8 +197,6 @@ Antônio Delfim Netto
 Mário David Andreazza
 
 João Paulo dos Reis Velloso
-
-###DEL-001142-0-000-30-12-1970@@@RET01+++
 
 # DECRETO-LEI Nº 1.142, DE 30 DE DEZEMBRO 1970
 

@@ -1,5 +1,3 @@
-###DEL-001731-0-000-20-12-1979@@@
-
 # DECRETO-LEI Nº 1.731, DE 20 DE DEZEMBRO DE 1979
 
 Reajusta o valor do soldo base de cálculo de remuneração dos militares.

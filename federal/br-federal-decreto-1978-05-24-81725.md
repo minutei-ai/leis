@@ -1,5 +1,3 @@
-###DEC-081725-0-000-24-05-1978@@@
-
 Decreto nº 81.725, de 24 de maio de 1978.
 
 Autoriza a conversão do curso de Licenciatura em Ciências em curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Registro, com sede na cidade de Registro, Estado de São Paulo.

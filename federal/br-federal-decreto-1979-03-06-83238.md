@@ -1,5 +1,3 @@
-###DEC-083238-0-000-06-03-1979@@@
-
 Decreto nº 83.238, de 06 DE MARÇO de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

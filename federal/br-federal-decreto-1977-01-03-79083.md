@@ -1,5 +1,3 @@
-###DEC-079083-0-000-03-01-1977@@@
-
 DECRETO Nº 79.083, DE 3 DE JANEIRO DE 1977.
 
 Concede à Operadora de Equipamentos S.A. o direito de lavrar calcário no Município de Lagoa Santa, Estado de Minas Gerais.

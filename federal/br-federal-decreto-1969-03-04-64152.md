@@ -1,5 +1,3 @@
-###DEC-064152-0-000-04-03-1969@@@
-
 DECRETO Nº 64.152, DE 4 DE MARÇO DE 1969.
 
 Cria a Coordenação de Relações Públicas no Ministério do Planejamento e Coordenação Geral.

@@ -1,5 +1,3 @@
-###DEC-081196-0-000-09-01-1978@@@
-
 Decreto nº 81.196, de 9 de janeiro de 1978.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nas Cidades do Rio de Janeiro e do Recife, Estado de Pernambuco.

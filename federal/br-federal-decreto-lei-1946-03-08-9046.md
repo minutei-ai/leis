@@ -1,5 +1,3 @@
-###DEL-009046-0-000-08-03-1946@@@
-
 DECRETO-LEI N. 9.046 – DE 8 DE MARÇO DE 1946
 
 Autoriza o Ministério da Aeronáutica a contratar prolongamento de tráfego aéreo.

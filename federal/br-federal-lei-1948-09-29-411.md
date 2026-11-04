@@ -1,12 +1,10 @@
-###LEI-000411-0-000-29-09-1948@@@
+**LEI Nº 411, DE 29 DE SETEMBRO DE 1948**
 
-<strong>LEI Nº 411, DE 29 DE SETEMBRO DE 1948</strong>
+***Concede isenção de direitos de importação e taxas aduaneiras a entidades que especifica.***
 
-<em><strong>Concede isenção de direitos de importação e taxas aduaneiras a entidades que especifica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
-
-<strong>Art</strong>. 1º São concedidas isenções de direitos de importação e demais taxas aduaneiras para o material abaixo discriminado e destinado a:
+**Art**. 1º São concedidas isenções de direitos de importação e demais taxas aduaneiras para o material abaixo discriminado e destinado a:
 
 I - Cooperativa Central de Pesca do Rio de Janeiro, um conjunto de material para fabricação de frio e gêlo empregado na conservação de pescado: maquinismo, acessórios, peças e outros artigos, para a instalação do Entreposto Federal de Pesca; trinta e oito volumes com materiais destinados à fabricação de frio e gêlo, empregados na conservação do pescado;
 
@@ -24,7 +22,7 @@ VII - Herzem Barreto de Oliveira Dias, fazendeiro no Estado da Bahia; dez vagõe
 
 VIII - Moore-Mc Cormack (Navegação) S. A., dez chatas, pertences e acessórios, com 65 toneladas cada uma, que se destinam ao movimento de descarga de navios estrangeiros;
 
-IX - Plantações <em>Ford</em> de Belterra, trezentas toneladas de óleo Diesel, cem mil litros de gasolina e cinquenta mil litros de querosene, vindos por intermédio da <em>Anglo Mexican Co</em>., para fornecimento de energia grátis, luz e confôrto aos trabalhadores da região;
+IX - Plantações *Ford* de Belterra, trezentas toneladas de óleo Diesel, cem mil litros de gasolina e cinquenta mil litros de querosene, vindos por intermédio da *Anglo Mexican Co*., para fornecimento de energia grátis, luz e confôrto aos trabalhadores da região;
 
 X - Aéro Clube do Ceará, um avião de treinamento primário, importado dos Estados Unidos da América do Norte e doado pela firma Brasil Oiticica S. A.;
 
@@ -40,7 +38,7 @@ XV - Companhia Industrial de Produtos Químicos Brasileiros, materiais e maquini
 
 XVI - Emprêsa Jornal do Comércio S. A., de Recife, materiais, pertences e acessórios para a montagem de uma estação radiodifusora, com finalidades culturais, e para servir à defesa nacional;
 
-XVII - Dr. Paulo Duarte, Diretor do "<em>Institut Français des Hautes Études Brésiliennes</em>", oito caixotes com coleções de livros e outros materiais de pesquisas científicas, vindos em sua bagagem pessoal para instituições culturais brasileiras;
+XVII - Dr. Paulo Duarte, Diretor do "*Institut Français des Hautes Études Brésiliennes*", oito caixotes com coleções de livros e outros materiais de pesquisas científicas, vindos em sua bagagem pessoal para instituições culturais brasileiras;
 
 XVIII - Companhia Carbonífera Metropolitana, materiais importados dos Estados Unidos da América do Norte, para a lavra de suas minas, de carvão em Crissiuma e Urussanga, em Santa Catarina;
 
@@ -58,16 +56,16 @@ XXIV - Sociedade Algodoeira do Nordeste Brasileiro S.A., sete milhões, noventa 
 
 XXV - Indústria Brasileira de Peixe Limitada, de Pôrto Alegre, materiais importados para aumentar e desenvolver seu aparelhamento industrial de pesca;
 
-XXVI - <em>Standard</em> Elétrica S. A., materiais para a fabricação, no país, de centrais telefônicas automáticas, de válvulas eletrônicas para rádio e de retificadores de selênio.
+XXVI - *Standard* Elétrica S. A., materiais para a fabricação, no país, de centrais telefônicas automáticas, de válvulas eletrônicas para rádio e de retificadores de selênio.
 
-<strong>Art</strong>. 2º É igualmente concedido ao Colégio São José de Recife e Convento da Conceição de Olinda (Ordem das Dorotéias) isenção de direitos de importação e demais taxas aduaneiras para duas caixas com o pêso bruto de 243 quilos, com duas imagens da Beata Paula Franssinetti, vindas de Portugal para os estabelecimentos acima mencionados, as quais se encontram nas Docas de Recife, e, ora, liberadas de qualquer multa em que tenham incorrido.
+**Art**. 2º É igualmente concedido ao Colégio São José de Recife e Convento da Conceição de Olinda (Ordem das Dorotéias) isenção de direitos de importação e demais taxas aduaneiras para duas caixas com o pêso bruto de 243 quilos, com duas imagens da Beata Paula Franssinetti, vindas de Portugal para os estabelecimentos acima mencionados, as quais se encontram nas Docas de Recife, e, ora, liberadas de qualquer multa em que tenham incorrido.
 
-<strong>Art</strong>. 3º A isenção concedida nesta Lei não abrange as taxas de previdência a que estiver sujeito o material importado.
+**Art**. 3º A isenção concedida nesta Lei não abrange as taxas de previdência a que estiver sujeito o material importado.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29 de setembro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Ovídio Xavier de Abreu

@@ -1,5 +1,3 @@
-###DEC-075176-0-000-31-12-1974@@@
-
 DECRETO Nº 75.176, DE 31 DE DEZEMRO DE 1974.
 
 Concede à Maremoto Mineração e Metarlurgia Ltda. odireito de lavrar argila e areia quartzosa no Munucípio de Mogi da Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-074499-0-000-04-09-1974@@@
-
 DECRETO Nº 74.499, DE 4 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Educação e Estudos Sociais Don Domênico, mantida pela Sociedade Amparo aos Praianos do Guarujá, com sede na cidade de Guarujá, Estado de São Paulo.

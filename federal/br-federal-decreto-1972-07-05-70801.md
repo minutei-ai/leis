@@ -1,5 +1,3 @@
-###DEC-070801-0-000-05-07-1972@@@
-
 Decreto nº 70.801, de 5 de julho de 1972.
 
 Declara de utilidade pública as instituições que menciona.

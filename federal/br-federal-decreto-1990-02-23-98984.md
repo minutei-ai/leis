@@ -1,7 +1,3 @@
-1
-
-###DEC-098984-0-000-23-02-1990@@@
-
 DECRETO Nº 98.984, DE 23 DE FEVEREIRO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “COCEIRA/NOVA ALEGRIA”, situado no Município de Tuntum, Estado do Maranhão, e dá outras providências.

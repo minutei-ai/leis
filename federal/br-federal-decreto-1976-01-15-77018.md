@@ -1,5 +1,3 @@
-###DEC-077018-0-000-15-01-1976@@@
-
 DECRETO Nº 77.018, DE 15 DE JANEIRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

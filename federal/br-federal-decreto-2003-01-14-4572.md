@@ -1,5 +1,3 @@
-###DEC-004572-0-000-14-01-2003@@@
-
 DECRETO N. 4.572 – DE 14 DE JANEIRO DE 2003
 
 Fixa o número de vagas para promoção obrigatória, no ano-base 2002, para os diversos postos dos Quadros de Oficiais da Aeronáutica

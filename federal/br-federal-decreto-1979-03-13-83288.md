@@ -1,5 +1,3 @@
-###DEC-083288-0-000-13-03-1979@@@
-
 decreto nº 83.288, de 13 de março de 1979
 
 Cassa a concessão outorgada à TV Pirangi S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Natal, Estado do Rio Grande do Norte.

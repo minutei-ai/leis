@@ -1,5 +1,3 @@
-###DEL-008145-0-000-28-10-1945@@@
-
 DECRETO-LEI N. 8.145 – DE 28 DE OUTUBRO DE 1945
 
 Cria a Comissão Organizadora de Assistência Social aos Servidores do Estado e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080604-0-000-24-10-1977@@@
-
 DECRETO Nº 80.604, DE 24 DE OUTUBRO DE 1977.
 
 Autoriza a transformação dos Cursos de Ciências e de Matemática da Faculdade de Ciências e Letras de Avaré, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-060617-0-000-25-04-1967@@@
-
 decreto nº 60.617, de 25 de abril de 1967.
 
 Retifica o parágrafo único, do art. 2º, do Decreto nº 60.318, de 7 de março de 1967.

@@ -1,5 +1,3 @@
-###DEC-049307-0-000-21-11-1960@@@
-
 DECRETO Nº 49.307, DE 21 DE NOVEMBRO DE 1960.
 
 Restabelece o cargo do Adido Naval junto a Embaixada do Brasil em Paris (França), e dá outras providências.

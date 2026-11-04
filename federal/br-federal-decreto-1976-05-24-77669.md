@@ -1,5 +1,3 @@
-###DEC-077669-0-000-24-05-1976@@@
-
 Decreto nº 776.669 - de 24 de maio de 1976
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Administração da Faculdade Municipal de Filosofia, Ciências e Letras de Paranavaí, com sede na Cidade de Paranavaí, Estado do Paraná.

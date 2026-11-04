@@ -1,5 +1,3 @@
-###DEC-058017-0-000-18-03-1966@@@
-
 DECRETO Nº 58.017, DE 18 DE MARÇO DE 1966.
 
 Autoriza o Departamento Nacional de Obras Contra as Sêcas, a instalar uma usina hidrelétrica, no açude público Estreito, no município de Espinosa, Estado de Minas Gerais.

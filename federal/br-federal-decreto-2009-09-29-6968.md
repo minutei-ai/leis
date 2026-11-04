@@ -1,5 +1,3 @@
-###DEC-006968-0-000-29-09-2009@@@
-
 DECRETO Nº 6.968, DE 29 DE SETEMBRO DE 2009.
 
 Dispõe sobre a execução no território nacional da Convenção no 166 da Organização Internacional do Trabalho, que trata da repatriação de trabalhadores marítimos, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-001853-0-000-10-04-1996@@@
-
 DECRETO Nº 1.853 ,DE 10 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Protocolo, assinado em 22.12.95, que prorroga os Acordos de Alcance Parcial de Natureza Comercial, entre Brasil, Argentina, Chile, México, Uruguai e Venezuela.

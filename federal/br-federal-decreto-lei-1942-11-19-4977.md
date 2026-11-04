@@ -1,5 +1,3 @@
-###DEL-004977-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.977 – DE 19 DE NOVEMBRO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de Cr$ 3.344.034,10 pa¿a liquidação de despesas com instalações de Liceus lndustriais.

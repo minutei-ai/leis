@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211213)<br>
-
 # DECRETO N° 69.716, DE 18 DE JULHO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria dos Direitos da Pessoa com Deficiêncianos Sistemas de Administração Financeira e Orçamentária do Estado._

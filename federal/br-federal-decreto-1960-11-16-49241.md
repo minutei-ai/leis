@@ -1,5 +1,3 @@
-###DEC-049241-0-000-16-11-1960@@@
-
 DECRETO Nº 49.241, DE 16 DE NOVEMBRO DE 1960.
 
 Concede a Companhia Brasileira de Usinas Metalúrgicas autorização para funcionar como emprêsa de mineração.

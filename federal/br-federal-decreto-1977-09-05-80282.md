@@ -1,5 +1,3 @@
-###DEC-080282-0-000-05-09-1977@@@
-
 DECRETO Nº 80.282, DE 5 DE SETEMBRO DE 1977.
 
 Aprova o Estatuto do Centro de Educação Tecnológica da Bahia, com sede na cidade de Salvador, Estado da Bahia.

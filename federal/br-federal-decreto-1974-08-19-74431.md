@@ -1,5 +1,3 @@
-###DEC-074431-0-000-19-08-1974@@@
-
 decreto nº 74.431, de 19 de agosto de 1974.
 
 Promulga o Protocolo sobre Relações de Trabalho e Previdência Social Brasil - Paraguai.

@@ -1,5 +1,3 @@
-###DEC-054088-0-000-04-08-1964@@@
-
 DECRETO Nº 54.088, DE 4 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública o “Colégio São Manuel”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

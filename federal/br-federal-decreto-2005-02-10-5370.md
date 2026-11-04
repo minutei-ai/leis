@@ -1,5 +1,3 @@
-###DEC-005370-0-000-10-02-2005@@@
-
 DECRETO Nº 5.370 DE 10 DE FEVEREIRO DE 2005
 
  Dispõe sobre a criação da Embaixada em Iaundê, República do Camerun.

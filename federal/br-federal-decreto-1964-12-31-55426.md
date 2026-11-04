@@ -1,5 +1,3 @@
-###DEC-055426-0-000-31-12-1964@@@
-
 DECRETO Nº 55.426, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Química Industrial Barra do Piraí S.A. a lavrar caulim no município de Itabirito, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-006386-0-000-29-02-2008@@@
-
 DECRETO Nº 6.386, DE 29 DE FEVEREIRO DE 2008.
 
 Regulamenta o art. 45 da Lei no 8.112, de 11 de dezembro de 1990, e dispõe sobre o processamento das consignações em folha de pagamento no âmbito do Sistema Integrado de Administração de Recursos Humanos - SIAPE.
@@ -263,5 +261,3 @@ Brasília, 29 de fevereiro de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 29.2.2008 - Edição extra

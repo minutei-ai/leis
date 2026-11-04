@@ -1,7 +1,3 @@
-1
-
-###DEC-001618-0-000-05-09-1995@@@
-
 DECRETO Nº 1.618, DE 5 DE SETEMBRO DE 1995
 
 Altera alíquotas incidentes sobre operações de crédito do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

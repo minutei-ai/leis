@@ -1,5 +1,3 @@
-###DEC-054551-0-000-22-10-1964@@@
-
 DECRETO Nº 54.551, DE 22 DE OUTUBRO DE 1964.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

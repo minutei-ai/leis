@@ -1,5 +1,3 @@
-###DEC-090695-0-000-12-12-1984@@@
-
 Decreto nº 90.695, de 12 de dezembro de 1984
 
 Autoriza o funcionamento do curso de Ciências do Centro de Ensino Superior de Erexim.

@@ -1,12 +1,10 @@
-###EMC-000047-0-000-05-07-2005@@@
+**EMENDA CONSTITUCIONAL Nº 47**
 
-<strong>EMENDA CONSTITUCIONAL Nº 47</strong>
-
-<em><strong>Altera os arts. 37, 40, 195 e 201 da Constituição Federal, para dispor sobre a previdência social, e dá outras providências.</strong></em>
+***Altera os arts. 37, 40, 195 e 201 da Constituição Federal, para dispor sobre a previdência social, e dá outras providências.***
 
 AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art.</strong> 1º Os arts. 37, 40, 195 e 201 da Constituição Federal passam a vigorar com a seguinte redação:
+**Art.** 1º Os arts. 37, 40, 195 e 201 da Constituição Federal passam a vigorar com a seguinte redação:
 
 "Art. 37. ...................................................................................
 
@@ -52,9 +50,9 @@ III cujas atividades sejam exercidas sob condições especiais que prejudiquem a
 
 § 13. O sistema especial de inclusão previdenciária de que trata o § 12 deste artigo terá alíquotas e carências inferiores às vigentes para os demais segurados do regime geral de previdência social." (NR)
 
-<strong>Art.</strong> 2º Aplica-se aos proventos de aposentadorias dos servidores públicos que se aposentarem na forma do caput do art. 6º da Emenda Constitucional nº 41, de 2003, o disposto no art. 7º da mesma Emenda.
+**Art.** 2º Aplica-se aos proventos de aposentadorias dos servidores públicos que se aposentarem na forma do caput do art. 6º da Emenda Constitucional nº 41, de 2003, o disposto no art. 7º da mesma Emenda.
 
-<strong>Art.</strong> 3º Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo art. 40 da Constituição Federal ou pelas regras estabelecidas pelos arts. 2º e 6º da Emenda Constitucional nº 41, de 2003, o servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 16 de dezembro de 1998 poderá aposentar-se com proventos integrais, desde que preencha, cumulativamente, as seguintes condições:
+**Art.** 3º Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo art. 40 da Constituição Federal ou pelas regras estabelecidas pelos arts. 2º e 6º da Emenda Constitucional nº 41, de 2003, o servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 16 de dezembro de 1998 poderá aposentar-se com proventos integrais, desde que preencha, cumulativamente, as seguintes condições:
 
 I trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;
 
@@ -64,57 +62,57 @@ III idade mínima resultante da redução, relativamente aos limites do art. 40,
 
 Parágrafo único. Aplica-se ao valor dos proventos de aposentadorias concedidas com base neste artigo o disposto no art. 7º da Emenda Constitucional nº 41, de 2003, observando-se igual critério de revisão às pensões derivadas dos proventos de servidores falecidos que tenham se aposentado em conformidade com este artigo.
 
-<strong>Art.</strong> 4º Enquanto não editada a lei a que se refere o § 11 do art. 37 da Constituição Federal, não será computada, para efeito dos limites remuneratórios de que trata o inciso XI do caput do mesmo artigo, qualquer parcela de caráter indenizatório, assim definida pela legislação em vigor na data de publicação da Emenda Constitucional nº 41, de 2003.
+**Art.** 4º Enquanto não editada a lei a que se refere o § 11 do art. 37 da Constituição Federal, não será computada, para efeito dos limites remuneratórios de que trata o inciso XI do caput do mesmo artigo, qualquer parcela de caráter indenizatório, assim definida pela legislação em vigor na data de publicação da Emenda Constitucional nº 41, de 2003.
 
-<strong>Art.</strong> 5º Revoga-se o parágrafo único do art. 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
+**Art.** 5º Revoga-se o parágrafo único do art. 6º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
 
-<strong>Art.</strong> 6º Esta Emenda Constitucional entra em vigor na data de sua publicação, com efeitos retroativos à data de vigência da Emenda Constitucional nº 41, de 2003.
+**Art.** 6º Esta Emenda Constitucional entra em vigor na data de sua publicação, com efeitos retroativos à data de vigência da Emenda Constitucional nº 41, de 2003.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
+**MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO SEVERINO CAVALCANTI</strong>
+**DEPUTADO SEVERINO CAVALCANTI**
 
 Presidente
 
-<strong>DEPUTADO JOSÉ THOMAZ NONÔ</strong>
+**DEPUTADO JOSÉ THOMAZ NONÔ**
 
 1º Vice-Presidente
 
-<strong>DEPUTADO CIRO NOGUEIRA</strong>
+**DEPUTADO CIRO NOGUEIRA**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO OLIVEIRA**
 
 1º Secretário
 
-<strong>DEPUTADO EDUARDO GOMES</strong>
+**DEPUTADO EDUARDO GOMES**
 
 3º Secretário
 
-<strong>DEPUTADO JOÃO CALDAS</strong>
+**DEPUTADO JOÃO CALDAS**
 
 4º Secretário
 
-<strong>MESA DO SENADO FEDERAL</strong>
+**MESA DO SENADO FEDERAL**
 
-<strong>SENADOR RENAN CALHEIROS</strong>
+**SENADOR RENAN CALHEIROS**
 
 Presidente
 
-<strong>SENADOR TIÃO VIANA</strong>
+**SENADOR TIÃO VIANA**
 
 1º Vice-Presidente
 
-<strong>SENADOR EFRAIM MORAIS</strong>
+**SENADOR EFRAIM MORAIS**
 
 1º Secretário
 
-<strong>SENADOR PAULO OCTÁVIO</strong>
+**SENADOR PAULO OCTÁVIO**
 
 3º Secretário
 
-<strong>SENADOR EDUARDO SIQUEIRA CAMPOS</strong>
+**SENADOR EDUARDO SIQUEIRA CAMPOS**
 
 4º Secretário
 

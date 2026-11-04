@@ -1,5 +1,3 @@
-###DEC-091413-0-000-09-07-1985@@@
-
 DECRETO Nº 91.413, DE 09 DE JULHO DO 1985
 
 Dispõe sobre a criação de função de confiança na Tabela Permanente do Ministério da Cultura, e dá outras providências.

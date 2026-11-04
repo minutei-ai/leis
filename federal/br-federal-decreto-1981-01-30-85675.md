@@ -1,5 +1,3 @@
-###DEC-085675-0-000-30-01-1981@@@
-
 DECRETO Nº 85.675, DE 30 DE JANEIRO DE 1981.
 
 Declara de utilidade pública, fins de constituição de servidão  administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

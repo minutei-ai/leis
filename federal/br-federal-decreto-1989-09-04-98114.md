@@ -1,7 +1,3 @@
-1
-
-###DEC-098114-0-000-04-09-1989@@@
-
 DECRETO N° 98.114, DE 4 DE SETEMBRO DE 1989
 
 Reduz para zero a alíquota do IPI incidente sobre os produtos que menciona.

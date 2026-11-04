@@ -1,5 +1,3 @@
-###DEC-060297-0-000-06-03-1967@@@
-
 DECRETO Nº 60.297, DE 6 DE MARÇO DE 1967.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Centrais Elétricas do Paranaíba S.A. - CEPASA.

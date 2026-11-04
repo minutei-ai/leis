@@ -1,5 +1,3 @@
-###MPV-001675-0-041-27-08-1998@@@
-
 medida provisória nº 1.675-41, de 27 de agosto de 1998
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073448-0-000-11-01-1974@@@
-
 DECRETO Nº 73.448, DE 11 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º do Decreto número 62.543, de 16 de abril de 1968, através do qual foi concedido a Alumínio Minas Gerais S.A. o direito de lavrar bauxita no Município de Barão de Cocais, Estado de Minas Gerais.

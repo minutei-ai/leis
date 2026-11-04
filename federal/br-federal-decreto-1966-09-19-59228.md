@@ -1,5 +1,3 @@
-###DEC-059228-0-000-19-09-1966@@@
-
 Decreto nº 59.228, de 19 de setembro de 1966.
 
 Autoriza Fluorita Cocal Ltda. a pesquisar fluorita, no município de Urussunga, Estado de Santa Catarina.

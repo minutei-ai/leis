@@ -1,5 +1,3 @@
-###DEC-086631-0-000-23-11-1981@@@
-
 DECRETO Nº 86.631, DE 23 DE NOVEMBRO DE 1981
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO MORENA LTDA., para executar serviços de radiodifusão de sons e imagens (televisão), na cidade de Campo Grande, Estado de Mato Grosso do Sul.

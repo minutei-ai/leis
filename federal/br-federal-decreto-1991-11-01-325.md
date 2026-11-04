@@ -1,7 +1,3 @@
-1
-
-###DEC-000325-0-000-01-11-1991@@@
-
 DECRETO Nº 325, DE 1º DE NOVEMBRO DE 1991
 
 Disciplina a comunicação, ao Ministério Público Federal, da prática de ilícitos penais previstos na legislação tributária e de crime funcional contra a ordem tributária e dá outras providências.

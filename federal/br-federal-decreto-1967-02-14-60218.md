@@ -1,5 +1,3 @@
-###DEC-060218-0-000-14-02-1967@@@
-
 DECRETO Nº 60.218, DE 14 DE FEVEREIRO DE 1967.
 
 Altera o Quadro de Pessoal do Conselho Nacional de Economia.

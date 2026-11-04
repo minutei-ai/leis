@@ -1,5 +1,3 @@
-###DEC-084177-0-000-12-11-1979@@@
-
 decreto nº 84.177, de novembro de 1979.
 
 Dá nova redação ao parágrafo 1º do art. 3º e ao art. 6º do Decreto nº 74.557, de 12 de setembro de 1974, que cria a Comissão Interministerial para os Recursos do Mar.

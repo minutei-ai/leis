@@ -1,5 +1,3 @@
-###MPV-001607-0-023-22-10-1998@@@
-
 medIDA PROVisóRIA Nº 1.607-23, DE 22 De OUtubRO De 1998
 
 Altera a legislação que rege o Salário-Educação, e dá outras providências.

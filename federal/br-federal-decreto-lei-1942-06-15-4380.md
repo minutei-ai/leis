@@ -1,5 +1,3 @@
-###DEL-004380-0-000-15-06-1942@@@
-
 DECRETO-LEI N. 4.380 – DE 15 DE JUNHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 129:683$0 para despesas no exterior

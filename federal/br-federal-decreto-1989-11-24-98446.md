@@ -1,7 +1,3 @@
-1
-
-###DEC-098446-0-000-24-11-1989@@@
-
 DECRETO Nº 98.446, DE 24 DE NOVEMBRO DE 1989
 
 Declara de utilidade pública a ASSOCIAÇÃO PROMOCIONAL DO CORAÇÃO IMACULADO DE MARIA e outras entidades.

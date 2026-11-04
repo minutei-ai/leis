@@ -1,5 +1,3 @@
-###DEC-006626-0-000-03-11-2008@@@
-
 DECRETO Nº 6.626, DE 3 DE NOVEMBRO DE 2008.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo de Belize, celebrado em Brasília, em 7 de junho de 2005.                  

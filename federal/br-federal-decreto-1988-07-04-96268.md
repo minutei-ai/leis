@@ -1,5 +1,3 @@
-###DEC-096268-0-000-04-07-1988@@@
-
 DECRETO N° 96.268, DE 4 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “GLEBA QUATRO RESERVAS”, classificado como “latifúndio por exploração”, situado no Município de Terra Nova do Norte, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 02 de maio de 1986, e dá outras providências.

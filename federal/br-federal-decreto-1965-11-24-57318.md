@@ -1,5 +1,3 @@
-###DEC-057318-0-000-24-11-1965@@@
-
 DECRETO Nº 57.318, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 24 de novembro de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Octávio Marcondes Ferraz
-
-###DEC-057318-0-000-24-11-1965@@@RET01+++
 
 DECRETO Nº 57.318, DE 24 DE Novembro 1965.
 

@@ -1,5 +1,3 @@
-###DEC-076514-0-000-24-10-1975@@@
-
 DECRETO Nº 76.514, DE 24 DE OUTUBRO DE 1975.
 
 Altera dispositivos do Regulamento para o Corpo de Praças da Armada, aprovado pelo Decreto nº 74.072, de 15 de maio de 1974.

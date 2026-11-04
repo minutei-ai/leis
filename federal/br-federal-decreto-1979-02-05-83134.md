@@ -1,5 +1,3 @@
-###DEC-083134-0-000-05-02-1979@@@
-
 Decreto nº 83.134, de 05 de fevereiro de 1979
 
 Concede à Cerâmica Igaçaba S.A. o direito de lavrar argila no Município de Salto, Estado de São Paulo.

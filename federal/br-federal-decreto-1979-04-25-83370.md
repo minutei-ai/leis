@@ -1,5 +1,3 @@
-###DEC-083370-0-000-25-04-1979@@@
-
 Decreto nº 83.370, de 25 de abril de 1979.
 
 Concede reconhecimento à habilitação Publicidade e Propaganda do curso de Comunicação Social, da Universidade Metodista de Piracicaba, Estado de São Paulo.

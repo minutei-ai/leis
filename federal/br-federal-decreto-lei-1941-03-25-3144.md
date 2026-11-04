@@ -1,5 +1,3 @@
-###DEL-003144-0-000-25-03-1941@@@
-
 DECRETO-LEI N. 3.144 – DE 25 DE MARÇO DE 1941
 
 Cria as funções gratificadas de Secretário da Casa de Correção e da Casa de Detenção e dá outras providências.

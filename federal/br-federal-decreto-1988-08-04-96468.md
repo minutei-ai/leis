@@ -1,5 +1,3 @@
-###DEC-096468-0-000-04-08-1988@@@
-
 DECRETO N° 96.468, DE 4 DE AGOSTO DE 1988
 
 Declara luto oficial.

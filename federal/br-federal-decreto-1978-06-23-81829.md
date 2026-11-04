@@ -1,5 +1,3 @@
-###DEC-081829-0-000-23-06-1978@@@
-
 DECRETO nº 81.829, de 23 de junho de 1978
 
 Concede a Calçamentos em Mosaicos, "Lisbrasil" Ltda. o direito de lavrar mármore no Município de Sete Lagoas, Estado de Minas Gerais.

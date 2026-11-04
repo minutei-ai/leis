@@ -1,5 +1,3 @@
-###DEC-074169-0-000-10-06-1974@@@
-
 DECRETO Nº 74.169, DE 10 DE JUNHO DE 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras do Instituto Cultural Newton Paiva Ferreira, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

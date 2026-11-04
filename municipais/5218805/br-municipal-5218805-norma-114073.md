@@ -14,9 +14,10 @@ Art. 4º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Rio Verde, aos 12 de dezembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
+VINÍCIUS FONSÊCA CAMPOS
+
 Procurador-Geral

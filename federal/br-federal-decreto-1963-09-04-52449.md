@@ -1,5 +1,3 @@
-###DEC-052449-0-000-04-09-1963@@@
-
 DECRETO Nº 52.449, DE 4 DE SETEMBRO DE 1963.
 
 Determina que o Serviço Nacional de Recenseamento, do Instituto Brasileiro de Geografia e Estatística, realize pesquisas especiais com a finalidade que especifica e cria Grupo Especial de Trabalho encarregado de colaborar no planejamento e execução das mesmas.

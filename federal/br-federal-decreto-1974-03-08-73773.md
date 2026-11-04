@@ -1,5 +1,3 @@
-###DEC-073773-0-000-08-03-1974@@@
-
 DECRETO nº 73.773, de 8 de março de 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

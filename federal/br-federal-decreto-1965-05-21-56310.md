@@ -1,5 +1,3 @@
-###DEC-056310-0-000-21-05-1965@@@
-
 DECRETO Nº 56.310, DE 21 DE MAIO DE 1965.
 
 Autoriza a Cerâmica Martini Sociedade Anônima a pesquisar argila, no município de Mogi Gauçu, Estado de São Paulo.

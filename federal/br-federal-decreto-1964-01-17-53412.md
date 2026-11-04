@@ -1,5 +1,3 @@
-###DEC-053412-0-000-17-01-1964@@@
-
 DECRETO Nº 53.412, DE 17 DE JANEIRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBRÁS, terras situadas no Município de Duque de Caxias, Estado do Rio de Janeiro.

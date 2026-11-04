@@ -1,5 +1,3 @@
-###DEC-096056-0-000-19-05-1988@@@
-
 DECRETO N° 96.056, DE 19 DE MAIO DE 1988
 
 Reorganiza o Conselho de Desenvolvimento Industrial -  CDI e dá outras providências.

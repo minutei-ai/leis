@@ -1,5 +1,3 @@
-###DEL-009336-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.336 – DE 10 DE JUNHO DE 1946
 
 Altera, sem aumento de despêsa, o Orçamento Geral da República para o exercício vigente.

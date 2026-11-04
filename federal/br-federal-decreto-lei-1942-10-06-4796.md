@@ -1,5 +1,3 @@
-###DEL-004796-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.796 – DE 6 DE OUTUBRO DE 1942
 
 Cria o 1º Batalhão de Carros de Combate Leves, na 7ª Região Militar e dá outras providências

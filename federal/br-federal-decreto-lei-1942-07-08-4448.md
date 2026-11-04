@@ -1,5 +1,3 @@
-###DEL-004448-0-000-08-07-1942@@@
-
 DECRETO-LEI N. 4.448 – DE 8 DE JULHO DE 1942
 
 Cria função gratificada no Ministério da Educação e Saude, e dá outras providências

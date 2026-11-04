@@ -1,5 +1,3 @@
-###DEC-045422-0-000-12-02-1959@@@
-
 DECRETO Nº 45.422, DE 12 DE FEVEREIRO DE 1959.
 
 Consolida e regulamenta as disposições legais de que tratam o Decreto-lei nº 7.404, de 22 de março de 1945 e suas alterações posteriores.

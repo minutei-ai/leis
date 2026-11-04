@@ -4,7 +4,8 @@ Reorganiza a Casa Civil do Gabinete do Governador e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi delegada pela Resolução nº 1.176, de 03 de dezembro de 1982, da Assembléia Legislativa do Estado, promulga a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA
 
 Art. 1º - Fica reorganizada, na forma indicada na presente Lei, a Casa Civil do Gabinete do Governador.
@@ -27,7 +28,8 @@ VII - prestar assistência pessoal ao Governador;
 
 VIII - organizar o cerimonial.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA
 
 Art. 3º - A Casa Civil do Gabinete do Governador tem a seguinte estrutura:
@@ -66,7 +68,8 @@ Art. 7º - O Chefe da Casa Civil do Gabinete do Governador terá Assessores Espe
 
 Art. 8º - O assessoramento jurídico da Casa Civil do Gabinete do Governador compete à Procuradoria Geral do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPETÊNCIAS DOS ÓRGÃOS
 
 Art. 9º - À Chefia da Casa Civil, com funções de assistência e assessoramento direto e imediato ao Governador em assuntos de Administração Civil e de Política, compete:
@@ -147,7 +150,8 @@ V - atender às partes na área de sua competência;
 
 VI - exercer outras competências, conforme se dispuser no Regimento, além das que lhe forem especialmente conferidas pelo Governador ou pela Chefia da Casa Civil.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 15 - Haverá, sempre, substituto previamente designado, conforme se dispuser no Regimento, para os titulares dos órgãos que integram a Casa Civil.

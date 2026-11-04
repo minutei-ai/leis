@@ -1,5 +1,3 @@
-###DEC-056610-0-000-23-07-1965@@@
-
 Decreto nº 56.610, de 23 de julho de 1965.
 
 Concede à sociedade anônima S. S. White Dental Manufacturing Company of Brazil autorização para continuar a funcionar na República.

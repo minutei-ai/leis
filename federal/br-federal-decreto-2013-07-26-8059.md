@@ -420,11 +420,39 @@ II - de R$ 3.501,00 (três mil quinhentos e um reais) a R$ 9.500,00 (nove mil qu
 
 I - em caso de deficiência das garantias:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr style="height:14.9pt"><td style="width:185.8pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>DEFICIENCIA APURADA POR COMPONENTE</span></p></td><td style="width:188.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>CLASSIFICAÇÃO</span></p></td></tr><tr><td style="width:185.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Até 1,5 o valor da tolerância</span></p></td><td style="width:188.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Leve</span></p></td></tr><tr><td style="width:185.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Superior a 1,5 e até 3,0 vezes do valor de tolerância admitida</span></p></td><td style="width:188.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Grave</span></p></td></tr><tr><td style="width:185.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Superior a 3,0 vezes o valor da tolerância admitida</span></p></td><td style="width:188.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Gravíssima</span></p></td></tr></tbody></table>
+DEFICIENCIA APURADA POR COMPONENTE
+
+CLASSIFICAÇÃO
+
+Até 1,5 o valor da tolerância
+
+Leve
+
+Superior a 1,5 e até 3,0 vezes do valor de tolerância admitida
+
+Grave
+
+Superior a 3,0 vezes o valor da tolerância admitida
+
+Gravíssima
 
 II - em caso de excesso das garantias:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:213.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt; font-size:8pt"><span>EXCESSO APURADO POR</span><span style="-aw-import:spaces">&nbsp; </span><span>COMPONENTE ALÉM DO TEOR MÁXIMO ADMITIDO</span></p></td><td style="width:213.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:12pt; text-align:justify; line-height:12pt"><span style="font-size:8pt">CLASSIFICAÇÃO DA INFRAÇÃO</span></p><p class="ArtArt" style="margin-top:12pt; margin-left:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Até 50%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Leve</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Acima de 50 e até 100%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Grave</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Acima de 100%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Gravíssima</span></p></td></tr></tbody></table>
+EXCESSO APURADO POR  COMPONENTE ALÉM DO TEOR MÁXIMO ADMITIDO
+
+CLASSIFICAÇÃO DA INFRAÇÃO
+
+Até 50%
+
+Leve
+
+Acima de 50 e até 100%
+
+Grave
+
+Acima de 100%
+
+Gravíssima
 
                                                                                                                                                                          " (NR)
 
@@ -468,15 +496,57 @@ II - no caso dos outros componentes garantidos ou declarados dos produtos, que n
 
 a) no caso de deficiência no teor dos componentes garantidos:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:213.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>DEFICIÊNCIA APURADA POR COMPONENTE</span></p></td><td style="width:213.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>MULTA – R$</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Até 1,5 vezes o valor de tolerância admitida</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>1.000 a</span><span> 3.500</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Superior a 1,5 e até 3,0 vezes do valor de tolerância admitida</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>3.501 a</span><span> 9.500</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Superior a 3,0 vezes o valor de tolerância admitida</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>9.501 a</span><span> 19.000</span></p></td></tr></tbody></table>
+DEFICIÊNCIA APURADA POR COMPONENTE
+
+MULTA – R$
+
+Até 1,5 vezes o valor de tolerância admitida
+
+1.000 a 3.500
+
+Superior a 1,5 e até 3,0 vezes do valor de tolerância admitida
+
+3.501 a 9.500
+
+Superior a 3,0 vezes o valor de tolerância admitida
+
+9.501 a 19.000
 
 b) no caso de excesso no teor dos componentes garantidos ou declarados:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:213.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>EXCESSO APURADO POR COMPONENTE ALÉM DO TEOR MÁXIMO ADMITIDO</span></p></td><td style="width:213.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>MULTA – R$</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Até 50%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>1.000 a</span><span> 3.500</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Acima de 50% e até 100%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>3.501 a</span><span> 9.500</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Acima de 100%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>9.501 a</span><span> 19.000</span></p></td></tr></tbody></table>
+EXCESSO APURADO POR COMPONENTE ALÉM DO TEOR MÁXIMO ADMITIDO
+
+MULTA – R$
+
+Até 50%
+
+1.000 a 3.500
+
+Acima de 50% e até 100%
+
+3.501 a 9.500
+
+Acima de 100%
+
+9.501 a 19.000
 
 c) no caso de presença de contaminantes:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-left:51.05pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:213.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>EXCESSO APURADO POR CONTAMINANTE ALÉM DO TEOR MÁXIMO ADMITIDO</span></p></td><td style="width:213.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>MULTA – R$</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Até 25%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>9.501 a</span><span> 12.000</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Acima de 25% e até 50%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>12.001 a</span><span> 15.000</span></p></td></tr><tr><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>Acima de 50%</span></p></td><td style="width:213.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="ArtArt" style="margin-left:0pt; text-indent:0pt"><span>15.001 a</span><span> 19.000</span></p></td></tr></tbody></table>
+EXCESSO APURADO POR CONTAMINANTE ALÉM DO TEOR MÁXIMO ADMITIDO
+
+MULTA – R$
+
+Até 25%
+
+9.501 a 12.000
+
+Acima de 25% e até 50%
+
+12.001 a 15.000
+
+Acima de 50%
+
+15.001 a 19.000
 
 ..........................................................................................................
 

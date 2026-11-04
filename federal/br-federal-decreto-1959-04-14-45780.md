@@ -1,5 +1,3 @@
-###DEC-045780-0-000-14-04-1959@@@
-
 DECRETO Nº 45.780, DE 14 DE abril DE 1959.
 
 Renova o decreto de pesquisa número 40.094, de 9 de outubro de 1956.

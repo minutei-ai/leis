@@ -1,5 +1,3 @@
-###DEC-003136-0-000-13-08-1999@@@
-
 DECRETO Nº 3.136, DE 13 DE AGOSTO DE 1999.
 
 Cria a Comissão Nacional para a preparação da participação do Brasil nas negociações internacionais com vistas à elaboração de convenção-quadro sobre controle do uso de tabaco, e dá outras providências.

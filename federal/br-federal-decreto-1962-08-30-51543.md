@@ -1,5 +1,3 @@
-###DEC-051543-0-000-30-08-1962@@@
-
 DECRETO Nº 51.543, DE 30 DE AGÔSTO DE 1962.
 
 Autoriza o Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas a parcelar dívida já ajuizada do Sindicato dos Arrumadores de São Paulo.

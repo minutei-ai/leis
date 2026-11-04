@@ -47,5 +47,3 @@ HUDSON LEAL
 JANETE DE SÁ
 
 2ª Secretária
-
-Este texto não substitui o publicado no D.O. de 14.10.2026.

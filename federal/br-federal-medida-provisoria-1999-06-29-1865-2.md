@@ -1,5 +1,3 @@
-###MPV-001865-0-002-29-06-1999@@@
-
 MEDIDA PROVISÓRIA nº 1.865-2, DE 29 DE JUNHO DE 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057757-0-000-08-02-1966@@@
-
 DECRETO Nº 57.757, DE 8 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública a “Fundação Visconde de Pôrto Seguro”, com sede em São Paulo, Estado de São Paulo.

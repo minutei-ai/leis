@@ -1,5 +1,3 @@
-###MPV-000226-0-000-29-11-2004@@@
-
 MEDIDA PROVISÓRIA Nº 226, DE 29 DE NOVEMBRO DE 2004
 
 Institui o Programa Nacional de Microcrédito Produtivo Orientado - PNMPO e altera dispositivos da Lei nº 8.029, de 12 de abril de 1990, que trata do apoio ao desenvolvimento de micro e pequenas empresas, da Lei nº 9.311, de 24 de outubro de 1996, que institui a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira \- CPMF, da Lei nº 9.872, de 23 de novembro de 1999, que trata do Fundo de Aval para a Geração de Emprego e Renda \- FUNPROGER, da Lei nº 10.194, de 14 de fevereiro de 2001, que dispõe sobre a instituição de Sociedades de Crédito ao Microempreendedor, e da Lei nº 10.735, de 11 de setembro de 2003, que dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, e dá outras providências.

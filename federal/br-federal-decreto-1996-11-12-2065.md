@@ -1,5 +1,3 @@
-###DEC-002065-0-000-12-11-1996@@@
-
 DECRETO Nº 2.065, DE 12 DE NOVEMBRO DE 1996.
 
 Dispõe sobre as consignações em folha de pagamento de servidores públicos civis da Administração Federal direta, autárquica e fundacional e dá outras providências.

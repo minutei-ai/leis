@@ -1,5 +1,3 @@
-###DEC-096658-0-000-06-09-1988@@@
-
 DECRETO N° 96.658, DE 6 DE SETEMBRO DE 1988
 
 Outorga concessão à TELEVISÃO SOCIEDADE LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -6,15 +6,16 @@ Denomina “Alberto Zanatta” o trecho da Rodovia Estadual MS-441, que liga a s
 
 Publicada no Diário Oficial nº 10.250, de 12 de agosto de 2020, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado “Alberto Zanatta” o trecho da Rodovia Estadual MS-441, que liga a sede do Município de Bandeirantes até o cruzamento da MS-060.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado “Alberto Zanatta” o trecho da Rodovia Estadual MS-441, que liga a sede do Município de Bandeirantes até o cruzamento da MS-060.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 11 de agosto de 2020.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

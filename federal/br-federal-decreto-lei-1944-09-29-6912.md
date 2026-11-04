@@ -1,5 +1,3 @@
-###DEL-006912-0-000-29-09-1944@@@
-
 DECRETO-LEI N. 6.912 – DE 29 DE SETEMBRO DE 1944
 
 Reorganiza o Serviço Florestal do Ministério da Agricultura, e dá outras providências

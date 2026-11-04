@@ -1,5 +1,3 @@
-###DEC-057788-0-000-11-02-1966@@@
-
 DECRETO Nº 57.788, DE 11 DE FEVEREIRO DE 1966.
 
 Altera a redação do art. 17 do Regulamento aprovado pelo Decreto Nº 2.089, de 18 de janeiro de 1.963, do Conselho de Ministros.

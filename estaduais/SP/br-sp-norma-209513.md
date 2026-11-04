@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209513)<br>
-
 # DECRETO N° 68.571, DE 29 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de retorno no km 213+860m da Rodovia SP-304, no Município de São Pedro, e dá providências correlatas._

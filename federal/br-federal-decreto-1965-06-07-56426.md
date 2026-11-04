@@ -1,5 +1,3 @@
-###DEC-056426-0-000-07-06-1965@@@
-
 Decreto nº 56.426, de 7 de junho de 1965.
 
 Aprova alteração introduzida nos Estatutos da Vera Cruz Companhia Brasileira de Seguros, relativa ao aumento do capital social.

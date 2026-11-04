@@ -1,5 +1,3 @@
-###DEC-085060-0-000-25-08-1980@@@
-
 Decreto nº 85.060, de 25 de agosto de 1980.
 
 Autoriza o funcionamento da habilitação em supervisão Escolar de 1º e2º Graus, no curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Patos de Minas, Estado de Minas Gerais.

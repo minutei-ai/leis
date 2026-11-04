@@ -1,5 +1,3 @@
-###DEC-053156-0-000-11-12-1963@@@
-
 DECRETO Nº 53.156, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Emprêsa Fôrça e Luz Santa Catarina S. A. a construir linha de transmissão e subestações abaixadoras.

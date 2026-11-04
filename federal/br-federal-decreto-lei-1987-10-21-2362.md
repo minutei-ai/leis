@@ -1,7 +1,3 @@
-1
-
-###DEL-002362-0-000-21-10-1987@@@
-
 # DECRETO-LEI Nº 2.362, DE 21 DE OUTUBRO DE 1987.
 
 Concede isenção do Imposto sobre Produtos Industrializados no caso que especifica.

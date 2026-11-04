@@ -1,5 +1,3 @@
-###DEC-065253-0-000-01-10-1969@@@
-
 DECRETO Nº 65.253 - DE 1 DE OUTUBRO DE 1969.
 
 Dispõe sôbre a organização administrativa do Ministério da Saúde.

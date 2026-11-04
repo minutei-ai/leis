@@ -1,5 +1,3 @@
-###DEC-068813-0-000-28-06-1971@@@
-
 DECRETO Nº 68.813 - DE 28 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Centro Infantil Professor Estevão Pinto, com sede em Belo Horizonte, Estado de Minas Gerais.

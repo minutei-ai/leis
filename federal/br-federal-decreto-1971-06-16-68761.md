@@ -1,5 +1,3 @@
-###DEC-068761-0-000-16-06-1971@@@
-
 DECRETO Nº 68.761 - de 16 de junho de 1971.
 
 Revoga o Decreto nº 42.883, de 26 de dezembro de 1957, outorga, concessão e dá outras providências.

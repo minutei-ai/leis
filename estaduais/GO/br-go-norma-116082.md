@@ -158,25 +158,71 @@ Goiânia, 3 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO I
 
 (Alteração da [Lei nº 17.866](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89860), de 19 de dezembro de 2012)
 
-“ANEXO III<br>
+“ANEXO III
+
 QUADRO DE OFICIAIS ESPECIALISTAS – QOE
 
 Subquadro de Oficiais Complementares
 
-<table class="Table" style="width:100.0%; border-collapse:collapse; border:none" width="100%"><tbody><tr><td style=" width:50%;    "><b>Posto</b></td><td style=" width:50%;    "><b>Quantidade</b></td></tr><tr><td style=" width:50%;    ">Tenente-Coronel</td><td style=" width:50%;    ">*</td></tr><tr><td style=" width:50%;    ">Major</td><td style=" width:50%;    ">38</td></tr><tr><td style=" width:50%;    ">Capitão</td><td style=" width:50%;    ">140</td></tr><tr><td style=" width:50%;    ">1º Tenente</td><td style=" width:50%;    ">259</td></tr><tr><td style=" width:50%;    ">2º Tenente</td><td style=" width:50%;    ">391</td></tr></tbody></table>
+**Posto**
+
+**Quantidade**
+
+Tenente-Coronel
+
+*
+
+Major
+
+38
+
+Capitão
+
+140
+
+1º Tenente
+
+259
+
+2º Tenente
+
+391
 
 \* será constituída exclusivamente pelos oficiais promovidos nos termos da [Lei nº 23.118](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989), de 27 de novembro de 2024, que ocupavam anteriormente o posto de Major.
 
 Subquadro de Oficiais Músicos
 
-<table class="Table" style="width:100.0%; border-collapse:collapse; border:none" width="100%"><tbody><tr><td style=" width:50%;    "><b>Posto</b></td><td style=" width:50%;    "><b>Quantidade</b></td></tr><tr><td style=" width:50%;    ">Tenente-Coronel</td><td style=" width:50%;    ">*</td></tr><tr><td style=" width:50%;    ">Major</td><td style=" width:50%;    ">1</td></tr><tr><td style=" width:50%;    ">Capitão</td><td style=" width:50%;    ">3</td></tr><tr><td style=" width:50%;    ">1º Tenente</td><td style=" width:50%;    ">6</td></tr><tr><td style=" width:50%;    ">2º Tenente</td><td style=" width:50%;    ">8</td></tr></tbody></table>
+**Posto**
+
+**Quantidade**
+
+Tenente-Coronel
+
+*
+
+Major
+
+1
+
+Capitão
+
+3
+
+1º Tenente
+
+6
+
+2º Tenente
+
+8
 
 \* será constituída exclusivamente pelos oficiais promovidos nos termos da [Lei nº 23.118](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989), de 27 de novembro de 2024, que ocupavam anteriormente o posto de Major.” (NR)
 
@@ -184,9 +230,10 @@ ANEXO II
 
 (Alteração da [Lei nº 16.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88613), de 26 de janeiro de 2010)
 
-“ANEXO III<br>
+“ANEXO III
+
 QUADRO DE OFICIAIS ESPECIALISTAS – QOE
 
-<table class="MsoTableGrid" style="width:100.0%; border-collapse:collapse; border:none" width="100%"><tbody><tr><td style=" width:50%;  height:17px;   ">POSTO</td><td style=" width:50%;  height:17px;   ">QUANTITATIVO</td></tr><tr><td colspan="2" style=" width:100%;  height:17px;   ">a)&nbsp;Oficiais Complementares</td></tr><tr><td style=" width:50%;  height:17px;   ">Tenente-Coronel</td><td style=" width:50%;  height:17px;   ">*</td></tr><tr><td style=" width:50%;  height:17px;   ">Major</td><td style=" width:50%;  height:17px;   ">16</td></tr><tr><td style=" width:50%;  height:17px;   ">Capitão</td><td style=" width:50%;  height:17px;   ">58</td></tr><tr><td style=" width:50%;  height:17px;   ">1º Tenente</td><td style=" width:50%;  height:17px;   ">74</td></tr><tr><td style=" width:50%;  height:17px;   ">2º Tenente</td><td style=" width:50%;  height:17px;   ">100</td></tr><tr><td colspan="2" style=" width:100%;  height:17px;   ">b)Oficiais Músicos</td></tr><tr><td style=" width:50%;  height:17px;   ">Tenente-Coronel</td><td style=" width:50%;  height:17px;   ">*</td></tr><tr><td style=" width:50%;  height:17px;   ">Major</td><td style=" width:50%;  height:17px;   ">1</td></tr><tr><td style=" width:50%;  height:17px;   ">Capitão</td><td style=" width:50%;  height:17px;   ">5</td></tr><tr><td style=" width:50%;  height:17px;   ">1º Tenente</td><td style=" width:50%;  height:17px;   ">12</td></tr><tr><td style=" width:50%;  height:17px;   ">2º Tenente</td><td style=" width:50%;  height:17px;   ">14</td></tr></tbody></table>
+<table><tbody><tr><td>POSTO</td><td>QUANTITATIVO</td></tr><tr><td colspan="2">a)&nbsp;Oficiais Complementares</td></tr><tr><td>Tenente-Coronel</td><td>*</td></tr><tr><td>Major</td><td>16</td></tr><tr><td>Capitão</td><td>58</td></tr><tr><td>1º Tenente</td><td>74</td></tr><tr><td>2º Tenente</td><td>100</td></tr><tr><td colspan="2">b)Oficiais Músicos</td></tr><tr><td>Tenente-Coronel</td><td>*</td></tr><tr><td>Major</td><td>1</td></tr><tr><td>Capitão</td><td>5</td></tr><tr><td>1º Tenente</td><td>12</td></tr><tr><td>2º Tenente</td><td>14</td></tr></tbody></table>
 
 \* será constituído exclusivamente pelos oficiais promovidos nos termos da [Lei nº 23.118](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989), de 27 de novembro de 2024, que ocupavam anteriormente o posto de Major.” (NR)

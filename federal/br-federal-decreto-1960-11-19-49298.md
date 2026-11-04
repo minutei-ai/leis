@@ -1,5 +1,3 @@
-###DEC-049298-0-000-19-11-1960@@@
-
 DECRETO Nº 49.298, DE 19 DE Novembro DE 1960.
 
 Abre, pelo Ministério da Viação e Obras Publicas, o credito especial de Cr$2.000.000.000,00, para o fim que menciona.

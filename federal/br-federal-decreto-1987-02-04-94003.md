@@ -1,5 +1,3 @@
-###DEC-094003-0-000-04-02-1987@@@
-
 DECRETO Nº 94.003, DE 04 DE FEVEREIRO DE 1987
 
 Inclui a Máquinas Piratininga do Nordeste S.A. no Programa de Privatização.

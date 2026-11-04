@@ -1,5 +1,3 @@
-###DEC-071913-0-000-14-03-1973@@@
-
 DECRETO Nº 71.913, DE 14 DE março de 1973.
 
 Concede a MIBRASIL - Mineração Industrial Brasileira S.A. o direito de lavrar areia quartzosa no Município de Jacobina, Estado da Bahia.

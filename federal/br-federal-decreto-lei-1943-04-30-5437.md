@@ -1,5 +1,3 @@
-###DEL-005437-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.437 – DE 30 DE ABRIL DF 1943
 
 Dispõe sobre Registo de Despesas e dá outras providências

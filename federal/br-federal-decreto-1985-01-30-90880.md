@@ -1,5 +1,3 @@
-###DEC-090880-0-000-30-01-1985@@@
-
 Decreto nº 90.880, de 30 de janeiro de 1985
 
 Regulamenta a Lei nº 7.256, de 27 de novembro de 1984, que estabelece normas integrantes do Estatuto da Microempresa e dá outras providências.

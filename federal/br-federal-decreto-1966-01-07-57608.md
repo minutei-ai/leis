@@ -1,5 +1,3 @@
-###DEC-057608-0-000-07-01-1966@@@
-
 Decreto nº 57.608, de 7 de janeiro de 1966.
 
 Declara de utilidade pública a “Associação Brasiliense de Esperanto”, com sede em Brasília, Distrito Federal.

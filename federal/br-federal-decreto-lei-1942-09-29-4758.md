@@ -1,5 +1,3 @@
-###DEL-004758-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.758 – DE 29 DE SETEMBRO DE 1942
 
 Dispõe sobre o Comando da 14ª Divisão de Infantaria

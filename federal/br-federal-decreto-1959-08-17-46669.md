@@ -1,5 +1,3 @@
-###DEC-046669-0-000-17-08-1959@@@
-
 DECRETO Nº 46.669, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza a Sociedade Extrativa Santa Fé Limitada a lavrar argila no município de Tremembé, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-054198-0-000-24-08-1964@@@
-
 decreto nº 54.198, de 24 de agôsto de 1964.
 
 Autoriza o cidadão brasileiro Custódio Netto Júnior a pesquisar carvão, no Município de São Félix do Xingu, Estado do Pará.

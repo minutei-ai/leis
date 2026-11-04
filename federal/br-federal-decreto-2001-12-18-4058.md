@@ -1,5 +1,3 @@
-###DEC-004058-0-000-18-12-2001@@@
-
 DECRETO Nº 4.058, DE 18 DE DEZEMBRO DE 2001.
 
 Dá nova redação aos arts. 1o, 2o, 3o, 4o, 6o, e 20 do Decreto no 3.969, de 15 de outubro de 2001, que estabelece normas gerais sobre o planejamento das atividades da administração previdenciária em matéria fiscal e para a execução de procedimentos fiscais com vistas à apuração e cobrança de créditos previdenciários.

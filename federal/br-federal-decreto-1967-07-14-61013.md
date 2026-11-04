@@ -1,5 +1,3 @@
-###DEC-061013-0-000-14-07-1967@@@
-
 decreto Nº 61.013, de 14 de julho de 1967.
 
 Redistribui o cargo de Procurador de 2ª Categoria do Quadro Suplementar do Ministério dos Transportes e aproveita servidor em disponibilidade no Quadro de Pessoal do Instituto do Açúcar e do Álcool.

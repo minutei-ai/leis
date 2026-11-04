@@ -1,5 +1,3 @@
-###DEC-084462-0-000-05-02-1980@@@
-
 Decreto nº 84.462, de 05 de fevereiro de 1980
 
 Autoriza o funcionamento do curso de Estudos Sociais, licenciatura plena, habilitação em Educação Moral e Cívica, da Faculdade de Filosofia, Ciências e Letras de Presidente Venceslau.

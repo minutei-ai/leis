@@ -1,5 +1,3 @@
-###DEC-053827-0-000-24-03-1964@@@
-
 DECRETO Nº 53.827, DE 24 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro Luiz Gonzaga de Araujo Lobo a pesquisar dolomita no município de Itararé, Estado de São Paulo.

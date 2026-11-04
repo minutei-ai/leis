@@ -1,5 +1,3 @@
-###DEC-068309-0-000-03-03-1971@@@
-
 DECRETO Nº 68.309, DE 3 DE MARÇO DE 1971.
 
 Declara de utilidade pública o Lar Anália Franco, com sede no Estado na Guanabara.

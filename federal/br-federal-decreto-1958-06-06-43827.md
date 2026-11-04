@@ -1,14 +1,12 @@
-###DEC-043827-0-000-06-06-1958@@@
+**DECRETO Nº 43.827, DE 6 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.827, DE 6 DE JUNHO DE 1958.</strong>
+***Transfere, sem aumento de despesa, funções da Tabela Numérica Especial de Extranumerários-mensalista do Ministério da Guerra, que menciona, e dá outras providências.***
 
-<em><strong>Transfere, sem aumento de despesa, funções da Tabela Numérica Especial de Extranumerários-mensalista do Ministério da Guerra, que menciona, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções, da Tabela Numérica Especial de Extranumerário-mensalista da extinta Coudelaria de Monte Belo, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções, da Tabela Numérica Especial de Extranumerário-mensalista da extinta Coudelaria de Monte Belo, abaixo indicadas:
 
 a) para idêntica tabela do Quartel General da 4ª Região Militar, vinte e duas (22) funções de Trabalhador Braçal, a saber:
 
@@ -30,14 +28,14 @@ III - Uma (1) função referência 18, ocupada por Francisco de Brito; e
 
 IV - seis (6) funções referência 17, sendo duas (2) em caráter excedente, ocupadas por Antônio Alvim Corrêa, Henrique João Evangelista, Agenor Luiz, Antônio Emílio de Souza, Saturnino Marques da Paixão e José Luiz Maia.
 
-<strong>Art</strong>. 2º Ficam suprimidas 3 (três) funções da referência 17 e 8 (oito) da referência 16, que se encontram vagas, da Série Funcional de Trabalhador Braçal da Tabela Numérica Especial de Extranumerários-mensalista da Coudelaria de Monte Belo.
+**Art**. 2º Ficam suprimidas 3 (três) funções da referência 17 e 8 (oito) da referência 16, que se encontram vagas, da Série Funcional de Trabalhador Braçal da Tabela Numérica Especial de Extranumerários-mensalista da Coudelaria de Monte Belo.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de junho de 1958; 137º da independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

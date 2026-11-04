@@ -1,5 +1,3 @@
-###DEC-058098-0-000-29-03-1966@@@
-
 DECRETO Nº 58.098, DE 29 DE MARÇO DE 1966.
 
 Encampa Concessão.

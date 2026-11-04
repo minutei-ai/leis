@@ -1,5 +1,3 @@
-###DEC-085144-0-000-15-09-1980@@@
-
 DECRETO Nº 85.144, DE 15 DE SETEMBRO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., nos Estados de Goiás e Mato Grosso.

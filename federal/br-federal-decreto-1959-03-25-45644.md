@@ -1,5 +1,3 @@
-###DEC-045644-0-000-25-03-1959@@@
-
 DECRETO Nº 45.644, DE 25 DE MARÇO DE 1959.
 
 Declara públicas de uso comum, do domínio do Estado da Bahia, as águas do rio “Ouricuri-Corrente”, “Paramirim” e “Paramirim”, respectivamente nos seus trechos superior, médio e inferior.

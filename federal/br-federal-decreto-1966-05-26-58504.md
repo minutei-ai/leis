@@ -1,5 +1,3 @@
-###DEC-058504-0-000-26-05-1966@@@
-
 DECRETO Nº 58.504, DE 26 DE MAIO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companha Continental de Seguros, relativa ao aumento do capital social.

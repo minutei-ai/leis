@@ -1,5 +1,3 @@
-###DEL-001201-0-000-29-12-1971@@@
-
 # Decreto-lei nº 1.201, de 29 de dezembro de 1971
 
 Isenta do impôsto único sôbre minerais as saídas de sal marinho destinadas ao exterior.
@@ -17,8 +15,6 @@ Brasília, 29 de dezembro de 1971; 15 da Independência e 83º da República.
 Emílio g. médici
 
 Antônio Delfim Netto
-
-###DEL-001201-0-000-29-12-1971@@@RET01+++
 
 # DECRETO-LEI Nº 1.201, DE 29 DE DEZEMBRO DE 1971
 

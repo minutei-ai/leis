@@ -1,5 +1,3 @@
-###DEC-088719-0-000-15-09-1983@@@
-
 DECRETO Nº 88.719, DE 15 de SETEMBRO DE 1983
 
 Institui o prêmio "Grandes Educadores Brasileiros".

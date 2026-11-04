@@ -1,5 +1,3 @@
-###DEC-069058-0-000-12-08-1971@@@
-
 decreto nº 69.058, de 12 de agôsto de 1971.
 
 Autorização para funcionamento da Faculdade de Filosofia, Ciências e Letras de Ituverava, com os Cursos de Pedagogia, Letras, Matemática e Estudos Sociais (Licenciatura do 1º ciclo) S.P.

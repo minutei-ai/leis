@@ -1,7 +1,3 @@
-1
-
-###DEC-095584-0-000-05-01-1988@@@
-
 DECRETO N° 95.584, DE 5 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO QUERÊNCIA DE SANTO AUGUSTO LTDA., para explorar serviços de radiodifusão sonora em onda média, na cidade de Santo Augusto, Estado do Rio Grande do Sul.

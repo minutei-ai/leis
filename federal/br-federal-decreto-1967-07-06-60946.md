@@ -1,5 +1,3 @@
-###DEC-060946-0-000-06-07-1967@@@
-
 decreto Nº 60.946, DE 6 DE JULHO DE 1967.
 
 Transfere do Senhor Rigoleto Conti para Sociedade Industrial de Madeiras S.A. a concessão para o aproveitamento de um trecho do rio Lajeado Grande, no distrito de General Carneiro, município de Palmas, Estado do Paraná.

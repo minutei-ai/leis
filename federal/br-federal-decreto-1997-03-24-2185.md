@@ -1,5 +1,3 @@
-###DEC-002185-0-000-24-03-1997@@@
-
 DECRETO Nº 2.185, DE 24 DE MARÇO DE 1997
 
 Delega competência para a prática dos atos que menciona, altera dispositivos do Decreto nº 825, de 28 de maio de 1993, e dá outras providências.

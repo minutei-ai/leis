@@ -1,5 +1,3 @@
-###DEC-056008-0-000-23-04-1965@@@
-
 DECRETO Nº 56.008, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro João de Augustinis a pesquisar argila, no município ,de Ijaci, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-005266-0-000-20-02-1943@@@
-
 DECRETO‑LEI N. 5.266 – DE 20 DE FEVEREIRO DE 1943
 
 Incorpora ao patrimônio nacional os bens de Irmãos Folonari, de Bresia, Itália, e dá outras providências

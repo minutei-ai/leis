@@ -1,5 +1,3 @@
-###DEC-059819-0-000-20-12-1966@@@
-
 DECRETO Nº 59.819, DE 20 DE DEZEMBRO DE 1966.
 
 Autoriza o Ministério da viação e Obras Públicas a adquirir, com financiamento externo, equipamento destinado à mecanização automatizada do Centro de Triagem Postal de São Paulo.
@@ -21,8 +19,6 @@ Brasília, 20 de dezembro de 1966; 145º da Independência e 78º da Republica.
 H. CASTELlO BRANCO
 
 Juarez Távora
-
-###DEC-059819-0-000-20-12-1966@@@RET01+++
 
 DECRETO Nº 59.819, DE 20 DE DEZEMBRO DE 1966.
 

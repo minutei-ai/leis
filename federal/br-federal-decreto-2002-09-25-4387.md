@@ -1,5 +1,3 @@
-###DEC-004387-0-000-25-09-2002@@@
-
 DECRETO Nº 4.387, DE 25 DE SETEMBRO DE 2002
 
 Promulga o Protocolo de Emenda ao Tratado de Cooperação Amazônica.

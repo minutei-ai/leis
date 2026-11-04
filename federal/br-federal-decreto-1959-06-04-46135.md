@@ -1,5 +1,3 @@
-###DEC-046135-0-000-04-06-1959@@@
-
 DECRETO Nº 46.135, DE 4 DE JUNHO DE 1959.
 
 Concede reconhecimento ao curso de auxiliar de enfermagem da Escola de Auxiliares de Enfermagem Sagrado Coração de Jesus.

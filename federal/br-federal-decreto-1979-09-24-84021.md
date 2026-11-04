@@ -1,5 +1,3 @@
-###DEC-084021-0-000-24-09-1979@@@
-
 Decreto nº 84.021, de 24 de setembro de 1979.
 
 Aprova o Estatuto da Companhia de Desenvolvimento de Barcarena e dá outras Providências.

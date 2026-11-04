@@ -1,5 +1,3 @@
-###MPV-001742-0-018-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.742-18, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

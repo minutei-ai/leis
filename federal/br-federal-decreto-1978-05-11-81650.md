@@ -1,5 +1,3 @@
-###DEC-081650-0-000-11-05-1978@@@
-
 Decreto nº 81.650, de 11 de maio de 1978.
 
 Autoriza o serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Foz do Iguaçu, Estado do Paraná.

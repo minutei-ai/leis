@@ -1,5 +1,3 @@
-###DEC-048333-0-000-21-06-1960@@@
-
 DECRETO Nº 48.333, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Darcy de Almeida a pesquisar bentonita no município de Oeiras, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEL-009292-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.292 – DE 27 DE MAIO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.000.000,00, para atender às despesas com a Reunião do Congresso Postal das Américas e Espanha.

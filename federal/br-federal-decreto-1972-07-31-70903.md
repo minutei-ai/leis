@@ -1,5 +1,3 @@
-###DEC-070903-0-000-31-07-1972@@@
-
 DECRETO Nº 70.903, DE 31 DE JULHO DE 1972.
 
 Declara sem efeito o Decreto nº 40.418, de 26 de 1956.

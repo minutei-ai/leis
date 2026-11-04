@@ -1,5 +1,3 @@
-###DEC-006500-0-000-02-07-2008@@@
-
 DECRETO Nº 6.500, DE 2 DE JULHO DE 2008.
 
 Dispõe sobre a execução do Trigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica no 14, entre os Governos da República Argentina e da República Federativa do Brasil, relativo ao Acordo sobre a Política Automotiva Comum.
@@ -130,7 +128,17 @@ ARTIGO 3o - Alíquota de Importação
 
 A partir da entrada em vigor do presente Acordo, ficam estabelecidas as seguintes alíquotas do Imposto de Importação para os Produtos Automotivos não originários das Partes:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:341.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">a. Automóveis e veículos comerciais leves (de até 1500kg de capacidade de carga); </span><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt"> b. Ônibus;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">c. Caminhões;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">d. Tratores rodoviários para semi-reboques;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">e. Chassis com motor, inclusive os com cabina;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; letter-spacing:-0.2pt">f. Reboques e semi-reboques;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">g. Carrocerias e cabinas;</span></p></td><td style="width:182.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">35%</span></p></td></tr><tr><td style="width:341.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">h. Tratores agrícolas, colheitadeiras, máquinas agrícolas autopropulsadas; </span><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt"> i. Máquinas rodoviárias autopropulsadas;</span></p></td><td style="width:182.22pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">14%</span></p></td></tr><tr><td style="width:341.65pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial; letter-spacing:-0.2pt">j. Autopeças.</span></p></td><td style="width:182.22pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Mantidas as alíquotas estabelecidas na TEC do Mercosul.</span></p></td></tr></tbody></table>
+a. Automóveis e veículos comerciais leves (de até 1500kg de capacidade de carga);   b. Ônibus;  c. Caminhões;  d. Tratores rodoviários para semi-reboques;  e. Chassis com motor, inclusive os com cabina;   f. Reboques e semi-reboques;  g. Carrocerias e cabinas;
+
+35%
+
+h. Tratores agrícolas, colheitadeiras, máquinas agrícolas autopropulsadas;   i. Máquinas rodoviárias autopropulsadas;
+
+14%
+
+j. Autopeças.
+
+Mantidas as alíquotas estabelecidas na TEC do Mercosul.
 
 As alíquotas estabelecidas neste Artigo substituirão as alíquotas nacionais vigentes, ressalvadas as preferências transitórias e exceções temporárias correspondentes e os “ex” tarifários relativos aos “Produtos Automotivos” não produzidos no MERCOSUL.
 
@@ -348,13 +356,2757 @@ APÊNDICE I
 
 LISTA 1 - AUTOMÓVEIS E VEÍCULOS COMERCIAIS LEVES, ÔNIBUS, CAMINHÕES, CAMINHÕES TRATORES, CHASSIS COM MOTOR - CAPAZES DE SE LOCOMOVER POR SEUS PRÓPRIOS MEIOS -, REBOQUES E SEMI-REBOQUES E CARROCERIAS
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">NCM</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Descrição da TEC</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Alínea do Artigo 3</span><span style="font-family:Arial; font-size:0.67em; text-decoration:underline; letter-spacing:-0.2pt; vertical-align:super">o</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8424.81.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.11.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.19.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Raspo-transportadores (“scrapers”)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Compactadores e rolos ou cilindros compressores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.51.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.51.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.51.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.52.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8429.59.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.31.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.41.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Perfuratriz de percussão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.41.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Perfuratriz rotativa</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.41.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.50.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras máquinas e aparelhos, autopropulsados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8433.51.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Ceifeiras-debulhadoras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8433.52.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras máquinas e aparelhos para debulha</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8433.53.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Máquinas para colheita de raízes ou tubérculos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8433.59.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade para trabalhar até dois sulcos de colheita e potência no volante inferior ou igual a 59,7kW (80HP)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8433.59.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8479.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Automotrizes para espalhar e calcar pavimentos betuminosos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8479.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8701.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Motocultores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8701.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Tratores rodoviários para semi-reboques</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">d</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8701.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Tratores de lagartas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h;i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8701.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">h</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8702.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Com motor de pistão, de ignição por compressão (diesel ou semidiesel)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a;b</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8702.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">b</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.21.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--De cilindrada não superior a 1.000cm³</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.22.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.22.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.23.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.23.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.24.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.24.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.31.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.31.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.32.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.32.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.33.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.33.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8703.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">i</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Chassis com motor e cabina</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.21.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com caixa basculante</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a;c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.21.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Frigoríficos ou isotérmicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a;c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.21.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">a;c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.22.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Chassis com motor e cabina</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.22.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com caixa basculante</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.22.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Frigoríficos ou isotérmicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.22.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.23.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Chassis com motor e cabina</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.23.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com caixa basculante</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.23.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Frigoríficos ou isotérmicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.23.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.31.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Chassis com motor e cabina</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.31.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com caixa basculante</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.31.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Frigoríficos ou isotérmicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.31.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.32.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Chassis com motor e cabina</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.32.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com caixa basculante</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.32.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Frigoríficos ou isotérmicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.32.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8704.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8705.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8705.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Torres (“derricks”) automóveis, para sondagem ou perfuração</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8705.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Veículos de combate a incêndio</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8705.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Caminhões-betoneiras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8705.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">c</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8706.00.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dos veículos da posição 87.02</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8706.00.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">e</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8707.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Para os veículos da posição 87.03</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">g</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8707.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">g</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Reboques e semi-reboques, autocarregáveis ou autodescarregáveis, para usos agrícolas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">f</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.31.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Cisternas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">f</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.39.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">f</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros reboques e semi-reboques</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">f</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.80.00 (*)</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros veículos</span></p></td><td style="width:100.78pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">f</span></p></td></tr></tbody></table>
+NCM
+
+Descrição da TEC
+
+Alínea do Artigo 3o
+
+8424.81.19
+
+Outros
+
+i
+
+8429.11.90
+
+Outros
+
+i
+
+8429.19.90
+
+Outros
+
+i
+
+8429.20.90
+
+Outros
+
+i
+
+8429.30.00
+
+-Raspo-transportadores (“scrapers”)
+
+i
+
+8429.40.00
+
+-Compactadores e rolos ou cilindros compressores
+
+i
+
+8429.51.19
+
+Outras
+
+i
+
+8429.51.29
+
+Outras
+
+i
+
+8429.51.99
+
+Outras
+
+i
+
+8429.52.19
+
+Outras
+
+i
+
+8429.59.00
+
+--Outros
+
+i
+
+8430.31.90
+
+Outros
+
+i
+
+8430.41.10
+
+Perfuratriz de percussão
+
+i
+
+8430.41.20
+
+Perfuratriz rotativa
+
+i
+
+8430.41.90
+
+Outras
+
+i
+
+8430.50.00
+
+-Outras máquinas e aparelhos, autopropulsados
+
+i
+
+8433.51.00
+
+--Ceifeiras-debulhadoras
+
+h
+
+8433.52.00
+
+--Outras máquinas e aparelhos para debulha
+
+h
+
+8433.53.00
+
+--Máquinas para colheita de raízes ou tubérculos
+
+h
+
+8433.59.11
+
+Com capacidade para trabalhar até dois sulcos de colheita e potência no volante inferior ou igual a 59,7kW (80HP)
+
+h
+
+8433.59.90
+
+Outros
+
+h
+
+8479.10.10
+
+Automotrizes para espalhar e calcar pavimentos betuminosos
+
+i
+
+8479.10.90
+
+Outros
+
+i
+
+8701.10.00
+
+-Motocultores
+
+h
+
+8701.20.00
+
+-Tratores rodoviários para semi-reboques
+
+d
+
+8701.30.00
+
+-Tratores de lagartas
+
+h;i
+
+8701.90.90
+
+Outros
+
+h
+
+8702.10.00
+
+-Com motor de pistão, de ignição por compressão (diesel ou semidiesel)
+
+a;b
+
+8702.90.90
+
+Outros
+
+b
+
+8703.21.00
+
+--De cilindrada não superior a 1.000cm³
+
+a
+
+8703.22.10
+
+Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista
+
+a
+
+8703.22.90
+
+Outros
+
+a
+
+8703.23.10
+
+Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista
+
+a
+
+8703.23.90
+
+Outros
+
+a
+
+8703.24.10
+
+Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista
+
+a
+
+8703.24.90
+
+Outros
+
+a
+
+8703.31.10
+
+Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista
+
+a
+
+8703.31.90
+
+Outros
+
+a
+
+8703.32.10
+
+Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista
+
+a
+
+8703.32.90
+
+Outros
+
+a
+
+8703.33.10
+
+Com capacidade de transporte de pessoas sentadas inferior ou igual a seis, incluído o motorista
+
+a
+
+8703.33.90
+
+Outros
+
+a
+
+8703.90.00
+
+-Outros
+
+a
+
+8704.10.90
+
+Outros
+
+i
+
+8704.21.10
+
+Chassis com motor e cabina
+
+e
+
+8704.21.20
+
+Com caixa basculante
+
+a;c
+
+8704.21.30
+
+Frigoríficos ou isotérmicos
+
+a;c
+
+8704.21.90
+
+Outros
+
+a;c
+
+8704.22.10
+
+Chassis com motor e cabina
+
+e
+
+8704.22.20
+
+Com caixa basculante
+
+c
+
+8704.22.30
+
+Frigoríficos ou isotérmicos
+
+c
+
+8704.22.90
+
+Outros
+
+c
+
+8704.23.10
+
+Chassis com motor e cabina
+
+e
+
+8704.23.20
+
+Com caixa basculante
+
+c
+
+8704.23.30
+
+Frigoríficos ou isotérmicos
+
+c
+
+8704.23.90
+
+Outros
+
+c
+
+8704.31.10
+
+Chassis com motor e cabina
+
+e
+
+8704.31.20
+
+Com caixa basculante
+
+c
+
+8704.31.30
+
+Frigoríficos ou isotérmicos
+
+c
+
+8704.31.90
+
+Outros
+
+c
+
+8704.32.10
+
+Chassis com motor e cabina
+
+e
+
+8704.32.20
+
+Com caixa basculante
+
+c
+
+8704.32.30
+
+Frigoríficos ou isotérmicos
+
+c
+
+8704.32.90
+
+Outros
+
+c
+
+8704.90.00
+
+-Outros
+
+c
+
+8705.10.90
+
+Outros
+
+c
+
+8705.20.00
+
+-Torres (“derricks”) automóveis, para sondagem ou perfuração
+
+c
+
+8705.30.00
+
+-Veículos de combate a incêndio
+
+c
+
+8705.40.00
+
+-Caminhões-betoneiras
+
+c
+
+8705.90.90
+
+Outros
+
+c
+
+8706.00.10
+
+Dos veículos da posição 87.02
+
+e
+
+8706.00.90
+
+Outros
+
+e
+
+8707.10.00
+
+-Para os veículos da posição 87.03
+
+g
+
+8707.90.90
+
+Outras
+
+g
+
+8716.20.00
+
+-Reboques e semi-reboques, autocarregáveis ou autodescarregáveis, para usos agrícolas
+
+f
+
+8716.31.00
+
+--Cisternas
+
+f
+
+8716.39.00
+
+--Outros
+
+f
+
+8716.40.00
+
+-Outros reboques e semi-reboques
+
+f
+
+8716.80.00 (*)
+
+-Outros veículos
+
+f
 
 (\*) Exceto os de tração humana ou animal
 
 LISTA 2 - AUTOPEÇAS  (Alínea j do Artigo 3o)
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">NCM</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Descrição da TEC</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Obs</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3815.12.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Em colméia cerâmica ou metálica para conversão catalítica de gases de escape de veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.32.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De copolímeros de etileno</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.32.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.32.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De poli(tereftalato de etileno)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.32.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.33.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, com acessórios</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.39.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3917.40.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3919.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3923.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Garrafões, garrafas, frascos e artigos semelhantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3923.50.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3926.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Guarnições para móveis, carroçarias ou semelhantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3926.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Arruelas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3926.90.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De transmissão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">3926.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4006.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.11.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Sem acessórios</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.12.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com uma pressão de ruptura superior ou igual a 17,3MPa</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.12.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com uma pressão de ruptura superior ou igual a 17,3MPa</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.21.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.22.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com uma pressão de ruptura superior ou igual a 17,3MPa</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.22.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.31.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Sem acessórios</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.32.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com uma pressão de ruptura superior ou igual a 17,3MPa</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.32.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.41.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Sem acessórios</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.42.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com uma pressão de ruptura superior ou igual a 17,3MPa</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4009.42.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.31.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correias de transmissão sem fim, de seção trapezoidal, estriadas, com uma circunferência externa superior a 60cm, mas não superior a 180cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.32.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correias de transmissão sem fim, de seção trapezoidal, não estriadas, com uma circunferência externa superior a 60cm, mas não superior a 180cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.33.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correias de transmissão sem fim, de seção trapezoidal, estriadas, com uma circunferência externa superior a 180cm, mas não superior a 240cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.34.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correias de transmissão sem fim, de seção trapezoidal, não estriadas, com uma circunferência externa superior a 180cm, mas não superior a 240cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.35.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correias de transmissão sem fim, síncronas, com uma circunferência externa superior a 60cm, mas não superior a 150cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.36.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correias de transmissão sem fim, síncronas, com uma circunferência externa superior a 150cm, mas não superior a 198cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4010.39.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Dos tipos utilizados em automóveis de passageiros (incluídos os veículos de uso misto (“station wagons”) e os automóveis de corrida)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De medida 11,00-24</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.61.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Dos tipos utilizados em veículos e máquinas agrícolas ou florestais</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.62.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Dos tipos utilizados em veículos e máquinas próprios para construção civil ou manutenção industrial, para aros de diâmetro inferior ou igual a 61cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.63.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.69.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.92.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Nas seguintes medidas: 4,00-15; 4,00-18; 4,00-19; 5,00-15; 5,00-16; 5,50-16; 6,00-16; 6,00-19; 6,00-20; 6,50-16; 6,50-20; 7,50-16; 7,50-18; 7,50-20</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.92.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.93.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Dos tipos utilizados em veículos e máquinas próprios para construção civil ou manutenção industrial, para aros de diâmetro inferior ou igual a 61cm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.94.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4011.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4012.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">“Flaps”</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4012.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4013.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Para pneumáticos do tipo dos utilizados em ônibus ou caminhões, de medida 11,00-24</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4013.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4013.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4016.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Partes de veículos automóveis ou tratores e de máquinas ou aparelhos, não domésticos, dos Capítulos 84, 85 ou 90</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4016.91.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Revestimentos para pavimentos (pisos) e capachos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4016.93.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Juntas, gaxetas e semelhantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4016.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4205.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras obras de couro natural ou reconstituído.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4503.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4504.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4805.40.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4823.20.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4823.70.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Artigos moldados ou prensados, de pasta de papel</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4823.90.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">4911.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">5704.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">5911.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6812.99.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Juntas e outros elementos com função semelhante de vedação</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6812.99.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Amianto trabalhado, em fibras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6812.99.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Misturas à base de amianto ou à base de amianto e carbonato de magnésio</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6812.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6813.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Contendo amianto</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6813.81.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Pastilhas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6813.81.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6813.89.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Disco de fricção para embreagens</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6813.89.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6815.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(3)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">6909.19.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7007.11.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--De dimensões e formatos que permitam a sua aplicação em automóveis, veículos aéreos, barcos ou outros veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7007.21.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--De dimensões e formatos que permitam a sua aplicação em automóveis, veículos aéreos, barcos ou outros veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7009.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Espelhos retrovisores para veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7009.91.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Não emoldurados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7014.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Artefatos de vidro para sinalização e elementos de óptica de vidro (exceto os da posição 70.15), não trabalhados opticamente.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.31.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Tubos não revestidos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.39.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Tubos não revestidos, de diâmetro exterior inferior ou igual a 229mm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.39.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Tubos revestidos, de diâmetro exterior inferior ou igual a 229mm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.51.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Tubos de diâmetro exterior inferior ou igual a 229mm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.59.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.90.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7304.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7306.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros, soldados, de seção circular, de ferro ou aço não ligado</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7306.50.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros, soldados, de seção circular, de outras ligas de aços</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.11.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--De ferro fundido não maleável</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.19.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De aço</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.19.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.21.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Flanges</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.22.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Cotovelos, curvas e luvas ou mangas, roscados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.91.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Flanges</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.92.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Cotovelos, curvas e luvas ou mangas, roscados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.93.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Acessórios para soldar topo a topo</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7307.99.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7311.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Recipientes para gases comprimidos ou liquefeitos, de ferro fundido, ferro ou aço.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7312.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7315.11.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Correntes de rolos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7315.12.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De transmissão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7315.12.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7315.19.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7315.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Correntes antiderrapantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7317.00.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Grampos de fio curvado</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7317.00.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.13.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Ganchos e armelas (pitões)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.14.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Parafusos perfurantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.15.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros parafusos e pinos ou pernos, mesmo com as porcas e arruelas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.16.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Porcas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.19.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.21.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Arruelas de pressão e outras arruelas de segurança</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.22.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras arruelas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.23.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Rebites</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.24.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Chavetas, cavilhas e contrapinos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7318.29.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7320.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Molas de folhas e suas folhas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7320.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Cilíndricas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7320.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7320.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7325.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De ferro fundido, não maleável</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7325.99.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De aço</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7325.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7326.19.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7326.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Obras de fios de ferro ou aço</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7326.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Não aletados nem ranhurados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Não aletados nem ranhurados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.21.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.22.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Não aletados nem ranhurados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.22.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.29.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Não aletados nem ranhurados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7411.29.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7412.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De cobre refinado</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7412.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De ligas de cobre</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7415.21.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Arruelas (incluídas as de pressão)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7415.29.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7415.33.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Parafusos; pinos ou pernos e porcas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7415.39.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7419.99.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Molas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7419.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7608.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De alumínio não ligado</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7608.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Sem costura, extrudados e trefilados, segundo Norma ASTM B210, de seção circular, de liga AA 6061 (“Aluminium Association”), com limite elástico aparente de Johnson (“JAEL”) superior a 3.000Nm, segundo Norma SAE AE7, diâmetro externo superior ou igual a 85mm mas inferior ou igual a 105mm e espessura superior ou igual a 1,9mm e inferior ou igual a 2,3mm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7608.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7609.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Acessórios para tubos (por exemplo, uniões, cotovelos, luvas ou mangas), de alumínio.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7613.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Recipientes para gases comprimidos ou liquefeitos, de alumínio.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7616.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Tachas, pregos, escápulas, parafusos, pinos ou pernos roscados, porcas, ganchos roscados, rebites, chavetas, cavilhas, contrapinos, arruelas e artefatos semelhantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">7616.99.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8301.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Fechaduras dos tipos utilizados em veículos automóveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8301.50.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Fechos e armações com fecho, com fechadura</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8301.60.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8301.70.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Chaves apresentadas isoladamente</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8302.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Dobradiças de qualquer tipo (incluídos os gonzos e as charneiras)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8302.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras guarnições, ferragens e artigos semelhantes, para veículos automóveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8307.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8307.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De outros metais comuns</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(1)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8308.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Grampos, colchetes e ilhoses</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8308.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Rebites tubulares ou de haste fendida</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8309.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8310.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Placas indicadoras, placas sinalizadoras, placas-endereços e placas semelhantes, números, letras e sinais diversos, de metais comuns, exceto os da posição 94.05.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8407.33.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8407.34.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8407.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros motores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8408.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De cilindrada inferior ou igual a 1.500cm³</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8408.20.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De cilindrada superior a 1.500cm³, mas inferior ou igual a 2.500cm³</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8408.20.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De cilindrada superior a 2.500cm³, mas inferior ou igual a 3.500cm³</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8408.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8408.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Bielas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.12</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Blocos de cilindros, cabeçotes e cárteres</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.13</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Carburadores, com bomba e dispositivo de compensação de nível de combustível incorporados, ambos a membrana, de diâmetro de venturi inferior ou igual a 22,8mm e peso inferior ou igual a 280g</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.14</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas de admissão ou de escape</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.15</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Coletores de admissão ou de escape</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.16</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Anéis de segmento</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.17</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Guias de válvulas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.18</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros carburadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Pistões ou êmbolos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Camisas de cilindro</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.40</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Injeção eletrônica</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.91.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Bielas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.12</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Blocos de cilindros, cabeçotes e cárteres</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.13</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Injetores (incluídos os bicos injetores)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.14</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas de admissão ou de escape</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.15</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Coletores de admissão ou de escape</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.16</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Anéis de segmento</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.17</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Guias de válvulas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Pistões ou êmbolos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Camisas de cilindro</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8409.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Cilindros hidráulicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.21.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.29.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.31.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Cilindros pneumáticos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.31.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.90.80</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras, de máquinas das subposições 8412.21 ou 8412.31</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8412.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.19.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Bombas manuais, exceto das subposições 8413.11 ou 8413.19</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.30.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Para gasolina ou álcool</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.30.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Injetoras de combustível para motor de ignição por compressão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.30.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Para óleo lubrificante</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.30.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.50.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.60.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De engrenagem</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.60.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.60.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.70.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Eletrobombas submersíveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.70.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.91.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8413.92.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--De elevadores de líquidos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Bombas de vácuo</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.30.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade inferior a 4.700 frigorias/hora</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.30.91</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade inferior ou igual a 16.000 frigorias/hora</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.30.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.59.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.80.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.80.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Turboalimentadores de ar, de peso inferior ou igual a 50kg para motores das posições 84.07 ou 84.08, acionado pelos gases de escapamento dos mesmos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.80.22</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Turboalimentadores de ar, de peso superior a 50kg para motores das posições 84.07 ou 84.08, acionados pelos gases de escapamento dos mesmos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.80.33</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Centrífugos, de vazão máxima inferior a 22.000m3/h</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.80.39</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.80.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De bombas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.90.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De ventiladores ou coifas aspirantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.90.31</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Pistões ou êmbolos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.90.33</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Blocos de cilindros, cabeçotes e cárteres</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.90.34</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8414.90.39</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8415.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade inferior ou igual a 30.000 frigorias/hora</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8415.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8415.82.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com capacidade inferior ou igual a 30.000 frigorias/hora</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8415.82.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8415.83.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Sem dispositivo de refrigeração</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8415.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8418.69.40</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Grupos frigoríficos de compressão para refrigeração ou para ar condicionado, com capacidade inferior ou igual a 30.000 frigorias/hora</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8418.99.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8419.50.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8419.89.40</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Evaporadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.23.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Para filtrar óleos minerais nos motores de ignição por centelha ou por compressão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.29.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.31.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Filtros de entrada de ar para motores de ignição por centelha ou por compressão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.39.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Depuradores por conversão catalítica de gases de escape de veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.39.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.99.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De aparelhos para filtrar ou depurar gases, da subposição 8421.39</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8421.99.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8424.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8425.42.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros macacos, hidráulicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8425.49.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Manuais</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8425.49.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8426.91.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Próprios para serem montados em veículos rodoviários</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.69.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8430.69.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.20.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Autopropulsadas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.39.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.41.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Caçambas, mesmo de mandíbulas, pás, ganchos e tenazes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.42.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Lâminas para “bulldozers” ou “angledozers”</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.49.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Cabinas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8431.49.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8433.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8473.30.42</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Placas (módulos) de memória com uma superfície inferior ou igual a 50cm2</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8473.30.49</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Válvulas redutoras de pressão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Rotativas, de caixas de direção hidráulica</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Válvulas de retenção</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Válvulas de segurança ou de alívio</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.80.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas de expansão termostáticas ou pressostáticas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.80.92</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas solenóides</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.80.95</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas tipo esfera</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.80.97</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Válvulas tipo borboleta</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.80.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8481.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De carga radial</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De carga radial</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Rolamentos de roletes em forma de tonel</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Rolamentos de agulhas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.50.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De carga radial</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.50.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.80.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros, incluídos os rolamentos combinados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.91.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.91.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Roletes cilíndricos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.91.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Roletes cônicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.91.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8482.99.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Virabrequins</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.10.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Árvore de “cames” para comando de válvulas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.10.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Veios flexíveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.10.40</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Manivelas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Mancais com rolamentos incorporados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.30.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Montados com “bronzes” de metal antifricção</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.30.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">“Bronzes”</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.30.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.40.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Caixas de transmissão, redutores, multiplicadores e variadores de velocidade, incluídos os conversores de torques</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.40.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.50.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Polias, exceto as de rolamentos reguladoras de tensão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.50.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.60.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De fricção</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.60.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.60.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8483.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Rodas dentadas e outros órgãos elementares de transmissão apresentados separadamente; partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8484.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Juntas metaloplásticas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8484.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Juntas de vedação, mecânicas (selos mecânicos)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8484.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8487.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.10.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.10.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Síncronos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.10.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Motores universais de potência superior a 37,5W</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.31.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Motores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.32.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Motores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.32.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Geradores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.40.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Síncronos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.40.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.40.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Síncronos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8501.40.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8504.40.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8505.11.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--De metal</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8505.19.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De ferrita (cerâmicos)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8505.19.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8505.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8505.90.80</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8505.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De chumbo, do tipo utilizado para o arranque dos motores de pistão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De peso inferior ou igual a 1.000kg</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.30.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De níquel-ferro</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.80.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros acumuladores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Separadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.90.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Recipientes de plástico, suas tampas e tampões</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8507.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Velas de ignição</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Magnetos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.30.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Distribuidores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.30.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Bobinas de ignição</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.40.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Motores de arranque, mesmo funcionando como geradores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.50.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dínamos e alternadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.50.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.80.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Velas de aquecimento</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.80.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Reguladores de voltagem (conjuntores-disjuntores)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.80.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Ignição eletrônica digital</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.80.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8511.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.20.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Faróis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.20.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.20.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Luzes fixas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.20.22</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Luzes indicadoras de manobras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.20.23</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Caixas de luzes combinadas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.20.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Aparelhos de sinalização acústica</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.40.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Limpadores de pára-brisas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.40.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Degeladores e desembaçadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8512.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8517.70.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Circuitos impressos com componentes elétricos ou eletrônicos, montados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8518.29.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8518.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De alto-falantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8519.81.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com sistema de leitura óptica por “laser” (leitores de discos compactos)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8523.59.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Cartões e etiquetas de acionamento por aproximação</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8527.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Com toca-fitas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8527.21.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8527.29.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8529.10.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8529.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8530.80.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8531.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8531.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.21.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.22.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Eletrolíticos de alumínio</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.23.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.24.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Próprios para montagem em superfície (SMD -”Surface Mounted Device”)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.25.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Próprios para montagem em superfície (SMD -”Surface Mounted Device”)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.25.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.29.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8532.30.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Resistências fixas de carbono, aglomeradas ou de camada</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De fio</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.21.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Próprias para montagem em superfície (SMD -”Surface Mounted Device”)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.21.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.29.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.31.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Potenciômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.31.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.39.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.40.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8533.40.92</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros potenciômetros de carvão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8534.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Circuitos impressos.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8535.30.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Não automáticos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8535.30.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Fusíveis e corta-circuitos de fusíveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Disjuntores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.41.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Para tensão não superior a 60V</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.50.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.61.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Suportes para lâmpadas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Conectores para cabos planos constituídos por condutores paralelos isolados individualmente</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.90.30</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Soquetes para microestruturas eletrônicas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8536.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8537.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8538.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Quadros, painéis, consoles, cabinas, armários e outros suportes, da posição 85.37, desprovidos dos seus aparelhos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8538.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Para tensão inferior ou igual a 15V</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.21.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Para tensão inferior ou igual a 15V</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.29.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Para tensão inferior ou igual a 15V</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.29.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.39.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8539.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8541.40.22</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros diodos emissores de luz (LED), exceto diodos “laser”</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8542.33.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8542.39.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8542.39.39</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8544.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Cabos coaxiais e outros condutores elétricos coaxiais</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8544.30.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Jogos de fios para velas de ignição e outros jogos de fios dos tipos utilizados em quaisquer veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8544.42.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Munidos de peças de conexão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8544.49.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8545.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Escovas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8546.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-De cerâmica</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8546.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8547.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Peças isolantes de cerâmica</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8547.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8547.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8706.00.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8707.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Pára-choques e suas partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.21.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Cintos de segurança</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Pára-lamas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.12</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Grades de radiadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.13</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Portas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.14</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Painéis de instrumentos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.91</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Pára-lamas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.92</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Grades de radiadores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.93</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Portas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.94</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Painéis de instrumentos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.95</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Geradores de gás para acionar retratores de cintos de segurança</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.29.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.30.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.30.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.30.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.40.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Servo-assistidas, próprias para torques de entrada superiores ou iguais a 750Nm</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.40.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.40.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.50.12</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Eixos não motores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.50.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.50.80</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.50.91</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De eixos não motores, dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.50.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.70.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De eixos propulsores dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.70.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.80.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Sistemas de suspensão e suas partes (incluídos os amortecedores de suspensão)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.91.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Radiadores e suas partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.92.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Silenciosos e tubos de escape; suas partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.93.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Embreagens e suas partes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.94.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Volantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.94.12</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Barras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.94.13</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Caixas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.94.81</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Volantes</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.94.82</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Barras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.94.83</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Caixas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.95.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Bolsas infláveis de segurança com sistema de insuflação (“airbags”)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.95.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Bolsas infláveis para “airbags”</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.95.22</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Sistema de insuflação</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.95.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.99.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dispositivos para comando de acelerador, freio, embreagem, direção ou caixa de marchas mesmo os de adaptação dos preexistentes, do tipo dos utilizados por pessoas incapacitadas</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8708.99.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Chassis de reboques e semi-reboques</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(2)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">8716.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9025.11.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9025.19.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9025.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De termômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9025.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.10.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Medidores-transmissores eletrônicos, que funcionem pelo princípio de indução eletromagnética</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.10.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.10.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Manômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.20.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.80.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros instrumentos e aparelhos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De instrumentos e aparelhos para medida ou controle do nível</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.90.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De manômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9026.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9027.90.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9028.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De peso inferior ou igual a 50kg</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9029.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Contadores de voltas, contadores de produção ou de horas de trabalho</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9029.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9029.20.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Indicadores de velocidade e tacômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9029.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De indicadores de velocidade e tacômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9029.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9030.33.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Do tipo dos utilizados em veículos automóveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9030.33.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9030.33.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9030.89.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9030.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9031.80.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Dinamômetros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9031.80.40</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Aparelhos digitais, de uso em veículos automóveis, para medida e indicação de múltiplas grandezas tais como: velocidade média, consumos instantâneo e médio e autonomia (computador de bordo)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9031.80.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9031.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.10.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De expansão de fluidos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.10.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Manostatos (pressostatos)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.11</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Eletrônicos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.19</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.21</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De sistemas antibloqueantes de freio (ABS)</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.22</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De sistemas de suspensão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.23</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De sistemas de transmissão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.24</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De sistemas de ignição</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.25</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De sistemas de injeção</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.29</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.81</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De pressão</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.82</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De temperatura</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.83</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De umidade</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.89</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.89.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.90.10</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Circuitos impressos com componentes elétricos ou eletrônicos, montados</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.90.91</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">De termostatos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9032.90.99</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9104.00.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Relógios para painéis de instrumentos e relógios semelhantes, para automóveis, veículos aéreos, embarcações ou para outros veículos.</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">(4)</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9109.19.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">--Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9114.10.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Molas, incluídas as espirais</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9114.90.20</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Ponteiros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9114.90.50</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Eixos e pinhões</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9114.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outras</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9401.20.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Assentos dos tipos utilizados em veículos automóveis</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9401.80.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros assentos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9401.90.90</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">Outros</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9603.50.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outras escovas que constituam partes de máquinas, aparelhos ou veículos</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9613.80.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Outros isqueiros e acendedores</span></p></td><td style="width:100.78pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr><tr><td style="width:124.2pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">9613.90.00</span></p></td><td style="width:298.52pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">-Partes</span></p></td><td style="width:100.78pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; letter-spacing:-0.2pt">&nbsp;</span></p></td></tr></tbody></table>
+NCM
+
+Descrição da TEC
+
+Obs
+
+3815.12.10
+
+Em colméia cerâmica ou metálica para conversão catalítica de gases de escape de veículos
+
+3917.32.10
+
+De copolímeros de etileno
+
+(1)
+
+3917.32.29
+
+Outros
+
+(1)
+
+3917.32.30
+
+De poli(tereftalato de etileno)
+
+(1)
+
+3917.32.90
+
+Outros
+
+(1)
+
+3917.33.00
+
+--Outros, não reforçados com outras matérias, nem associados de outra forma com outras matérias, com acessórios
+
+(1)
+
+3917.39.00
+
+--Outros
+
+(1)
+
+3917.40.90
+
+Outros
+
+(4)
+
+3919.90.00
+
+-Outras
+
+(1)
+
+3923.30.00
+
+-Garrafões, garrafas, frascos e artigos semelhantes
+
+3923.50.00
+
+-Rolhas, tampas, cápsulas e outros dispositivos para fechar recipientes
+
+3926.30.00
+
+-Guarnições para móveis, carroçarias ou semelhantes
+
+3926.90.10
+
+Arruelas
+
+3926.90.21
+
+De transmissão
+
+3926.90.90
+
+Outras
+
+(4)
+
+4006.90.00
+
+-Outros
+
+4009.11.00
+
+--Sem acessórios
+
+(1)
+
+4009.12.10
+
+Com uma pressão de ruptura superior ou igual a 17,3MPa
+
+(1)
+
+4009.12.90
+
+Outros
+
+(1)
+
+4009.21.10
+
+Com uma pressão de ruptura superior ou igual a 17,3MPa
+
+(1)
+
+4009.21.90
+
+Outros
+
+(1)
+
+4009.22.10
+
+Com uma pressão de ruptura superior ou igual a 17,3MPa
+
+(1)
+
+4009.22.90
+
+Outros
+
+(1)
+
+4009.31.00
+
+--Sem acessórios
+
+(1)
+
+4009.32.10
+
+Com uma pressão de ruptura superior ou igual a 17,3MPa
+
+(1)
+
+4009.32.90
+
+Outros
+
+(1)
+
+4009.41.00
+
+--Sem acessórios
+
+(1)
+
+4009.42.10
+
+Com uma pressão de ruptura superior ou igual a 17,3MPa
+
+(1)
+
+4009.42.90
+
+Outros
+
+(1)
+
+4010.31.00
+
+--Correias de transmissão sem fim, de seção trapezoidal, estriadas, com uma circunferência externa superior a 60cm, mas não superior a 180cm
+
+4010.32.00
+
+--Correias de transmissão sem fim, de seção trapezoidal, não estriadas, com uma circunferência externa superior a 60cm, mas não superior a 180cm
+
+4010.33.00
+
+--Correias de transmissão sem fim, de seção trapezoidal, estriadas, com uma circunferência externa superior a 180cm, mas não superior a 240cm
+
+4010.34.00
+
+--Correias de transmissão sem fim, de seção trapezoidal, não estriadas, com uma circunferência externa superior a 180cm, mas não superior a 240cm
+
+4010.35.00
+
+--Correias de transmissão sem fim, síncronas, com uma circunferência externa superior a 60cm, mas não superior a 150cm
+
+4010.36.00
+
+--Correias de transmissão sem fim, síncronas, com uma circunferência externa superior a 150cm, mas não superior a 198cm
+
+4010.39.00
+
+--Outras
+
+4011.10.00
+
+-Dos tipos utilizados em automóveis de passageiros (incluídos os veículos de uso misto (“station wagons”) e os automóveis de corrida)
+
+4011.20.10
+
+De medida 11,00-24
+
+4011.20.90
+
+Outros
+
+4011.61.00
+
+--Dos tipos utilizados em veículos e máquinas agrícolas ou florestais
+
+4011.62.00
+
+--Dos tipos utilizados em veículos e máquinas próprios para construção civil ou manutenção industrial, para aros de diâmetro inferior ou igual a 61cm
+
+4011.63.90
+
+Outros
+
+4011.69.90
+
+Outros
+
+4011.92.10
+
+Nas seguintes medidas: 4,00-15; 4,00-18; 4,00-19; 5,00-15; 5,00-16; 5,50-16; 6,00-16; 6,00-19; 6,00-20; 6,50-16; 6,50-20; 7,50-16; 7,50-18; 7,50-20
+
+4011.92.90
+
+Outros
+
+4011.93.00
+
+--Dos tipos utilizados em veículos e máquinas próprios para construção civil ou manutenção industrial, para aros de diâmetro inferior ou igual a 61cm
+
+(4)
+
+4011.94.90
+
+Outros
+
+4011.99.90
+
+Outros
+
+4012.90.10
+
+“Flaps”
+
+4012.90.90
+
+Outros
+
+4013.10.10
+
+Para pneumáticos do tipo dos utilizados em ônibus ou caminhões, de medida 11,00-24
+
+4013.10.90
+
+Outras
+
+4013.90.00
+
+-Outras
+
+4016.10.10
+
+Partes de veículos automóveis ou tratores e de máquinas ou aparelhos, não domésticos, dos Capítulos 84, 85 ou 90
+
+4016.91.00
+
+--Revestimentos para pavimentos (pisos) e capachos
+
+(4)
+
+4016.93.00
+
+--Juntas, gaxetas e semelhantes
+
+(4)
+
+4016.99.90
+
+Outras
+
+(4)
+
+4205.00.00
+
+Outras obras de couro natural ou reconstituído.
+
+(1)
+
+4503.90.00
+
+-Outras
+
+4504.90.00
+
+-Outras
+
+4805.40.90
+
+Outros
+
+4823.20.99
+
+Outros
+
+4823.70.00
+
+-Artigos moldados ou prensados, de pasta de papel
+
+4823.90.99
+
+Outros
+
+4911.10.90
+
+Outros
+
+5704.90.00
+
+-Outros
+
+(1)
+
+5911.90.00
+
+-Outros
+
+6812.99.10
+
+Juntas e outros elementos com função semelhante de vedação
+
+6812.99.20
+
+Amianto trabalhado, em fibras
+
+(1)
+
+6812.99.30
+
+Misturas à base de amianto ou à base de amianto e carbonato de magnésio
+
+(1)
+
+6812.99.90
+
+Outras
+
+6813.20.00
+
+-Contendo amianto
+
+6813.81.10
+
+Pastilhas
+
+6813.81.90
+
+Outras
+
+6813.89.10
+
+Disco de fricção para embreagens
+
+6813.89.90
+
+Outras
+
+6815.10.90
+
+Outras
+
+(3)
+
+6909.19.90
+
+Outros
+
+7007.11.00
+
+--De dimensões e formatos que permitam a sua aplicação em automóveis, veículos aéreos, barcos ou outros veículos
+
+(4)
+
+7007.21.00
+
+--De dimensões e formatos que permitam a sua aplicação em automóveis, veículos aéreos, barcos ou outros veículos
+
+(4)
+
+7009.10.00
+
+-Espelhos retrovisores para veículos
+
+(1)
+
+7009.91.00
+
+--Não emoldurados
+
+7014.00.00
+
+Artefatos de vidro para sinalização e elementos de óptica de vidro (exceto os da posição 70.15), não trabalhados opticamente.
+
+7304.31.10
+
+Tubos não revestidos
+
+(1)
+
+7304.39.10
+
+Tubos não revestidos, de diâmetro exterior inferior ou igual a 229mm
+
+(1)
+
+7304.39.20
+
+Tubos revestidos, de diâmetro exterior inferior ou igual a 229mm
+
+(1)
+
+7304.51.10
+
+Tubos de diâmetro exterior inferior ou igual a 229mm
+
+(1)
+
+7304.59.19
+
+Outros
+
+(1)
+
+7304.90.19
+
+Outros
+
+(1)
+
+7304.90.90
+
+Outros
+
+(1)
+
+7306.30.00
+
+-Outros, soldados, de seção circular, de ferro ou aço não ligado
+
+(1)
+
+7306.50.00
+
+-Outros, soldados, de seção circular, de outras ligas de aços
+
+(1)
+
+7307.11.00
+
+--De ferro fundido não maleável
+
+(1)
+
+7307.19.20
+
+De aço
+
+(1)
+
+7307.19.90
+
+Outros
+
+(1)
+
+7307.21.00
+
+--Flanges
+
+7307.22.00
+
+--Cotovelos, curvas e luvas ou mangas, roscados
+
+7307.91.00
+
+--Flanges
+
+7307.92.00
+
+--Cotovelos, curvas e luvas ou mangas, roscados
+
+7307.93.00
+
+--Acessórios para soldar topo a topo
+
+7307.99.00
+
+--Outros
+
+7311.00.00
+
+Recipientes para gases comprimidos ou liquefeitos, de ferro fundido, ferro ou aço.
+
+7312.10.90
+
+Outros
+
+7315.11.00
+
+--Correntes de rolos
+
+7315.12.10
+
+De transmissão
+
+7315.12.90
+
+Outras
+
+7315.19.00
+
+--Partes
+
+7315.20.00
+
+-Correntes antiderrapantes
+
+7317.00.20
+
+Grampos de fio curvado
+
+7317.00.90
+
+Outros
+
+7318.13.00
+
+--Ganchos e armelas (pitões)
+
+7318.14.00
+
+--Parafusos perfurantes
+
+7318.15.00
+
+--Outros parafusos e pinos ou pernos, mesmo com as porcas e arruelas
+
+7318.16.00
+
+--Porcas
+
+7318.19.00
+
+--Outros
+
+7318.21.00
+
+--Arruelas de pressão e outras arruelas de segurança
+
+7318.22.00
+
+--Outras arruelas
+
+7318.23.00
+
+--Rebites
+
+7318.24.00
+
+--Chavetas, cavilhas e contrapinos
+
+7318.29.00
+
+--Outros
+
+7320.10.00
+
+-Molas de folhas e suas folhas
+
+7320.20.10
+
+Cilíndricas
+
+7320.20.90
+
+Outras
+
+7320.90.00
+
+-Outras
+
+7325.10.00
+
+-De ferro fundido, não maleável
+
+7325.99.10
+
+De aço
+
+7325.99.90
+
+Outras
+
+7326.19.00
+
+--Outras
+
+7326.20.00
+
+-Obras de fios de ferro ou aço
+
+7326.90.90
+
+Outros
+
+7411.10.10
+
+Não aletados nem ranhurados
+
+(1)
+
+7411.10.90
+
+Outros
+
+(1)
+
+7411.21.10
+
+Não aletados nem ranhurados
+
+(1)
+
+7411.21.90
+
+Outros
+
+(1)
+
+7411.22.10
+
+Não aletados nem ranhurados
+
+(1)
+
+7411.22.90
+
+Outros
+
+(1)
+
+7411.29.10
+
+Não aletados nem ranhurados
+
+(1)
+
+7411.29.90
+
+Outros
+
+(1)
+
+7412.10.00
+
+-De cobre refinado
+
+7412.20.00
+
+-De ligas de cobre
+
+7415.21.00
+
+--Arruelas (incluídas as de pressão)
+
+7415.29.00
+
+--Outros
+
+7415.33.00
+
+--Parafusos; pinos ou pernos e porcas
+
+7415.39.00
+
+--Outros
+
+7419.99.30
+
+Molas
+
+7419.99.90
+
+Outras
+
+7608.10.00
+
+-De alumínio não ligado
+
+(1)
+
+7608.20.10
+
+Sem costura, extrudados e trefilados, segundo Norma ASTM B210, de seção circular, de liga AA 6061 (“Aluminium Association”), com limite elástico aparente de Johnson (“JAEL”) superior a 3.000Nm, segundo Norma SAE AE7, diâmetro externo superior ou igual a 85mm mas inferior ou igual a 105mm e espessura superior ou igual a 1,9mm e inferior ou igual a 2,3mm
+
+(1)
+
+7608.20.90
+
+Outros
+
+(1)
+
+7609.00.00
+
+Acessórios para tubos (por exemplo, uniões, cotovelos, luvas ou mangas), de alumínio.
+
+7613.00.00
+
+Recipientes para gases comprimidos ou liquefeitos, de alumínio.
+
+7616.10.00
+
+-Tachas, pregos, escápulas, parafusos, pinos ou pernos roscados, porcas, ganchos roscados, rebites, chavetas, cavilhas, contrapinos, arruelas e artefatos semelhantes
+
+7616.99.00
+
+--Outras
+
+8301.20.00
+
+-Fechaduras dos tipos utilizados em veículos automóveis
+
+8301.50.00
+
+-Fechos e armações com fecho, com fechadura
+
+8301.60.00
+
+-Partes
+
+8301.70.00
+
+-Chaves apresentadas isoladamente
+
+8302.10.00
+
+-Dobradiças de qualquer tipo (incluídos os gonzos e as charneiras)
+
+8302.30.00
+
+-Outras guarnições, ferragens e artigos semelhantes, para veículos automóveis
+
+8307.10.90
+
+Outros
+
+(1)
+
+8307.90.00
+
+-De outros metais comuns
+
+(1)
+
+8308.10.00
+
+-Grampos, colchetes e ilhoses
+
+8308.20.00
+
+-Rebites tubulares ou de haste fendida
+
+8309.90.00
+
+-Outros
+
+8310.00.00
+
+Placas indicadoras, placas sinalizadoras, placas-endereços e placas semelhantes, números, letras e sinais diversos, de metais comuns, exceto os da posição 94.05.
+
+8407.33.90
+
+Outros
+
+8407.34.90
+
+Outros
+
+8407.90.00
+
+-Outros motores
+
+8408.20.10
+
+De cilindrada inferior ou igual a 1.500cm³
+
+8408.20.20
+
+De cilindrada superior a 1.500cm³, mas inferior ou igual a 2.500cm³
+
+8408.20.30
+
+De cilindrada superior a 2.500cm³, mas inferior ou igual a 3.500cm³
+
+8408.20.90
+
+Outros
+
+8408.90.90
+
+Outros
+
+8409.91.11
+
+Bielas
+
+8409.91.12
+
+Blocos de cilindros, cabeçotes e cárteres
+
+8409.91.13
+
+Carburadores, com bomba e dispositivo de compensação de nível de combustível incorporados, ambos a membrana, de diâmetro de venturi inferior ou igual a 22,8mm e peso inferior ou igual a 280g
+
+8409.91.14
+
+Válvulas de admissão ou de escape
+
+8409.91.15
+
+Coletores de admissão ou de escape
+
+8409.91.16
+
+Anéis de segmento
+
+8409.91.17
+
+Guias de válvulas
+
+8409.91.18
+
+Outros carburadores
+
+8409.91.20
+
+Pistões ou êmbolos
+
+8409.91.30
+
+Camisas de cilindro
+
+8409.91.40
+
+Injeção eletrônica
+
+8409.91.90
+
+Outras
+
+8409.99.11
+
+Bielas
+
+8409.99.12
+
+Blocos de cilindros, cabeçotes e cárteres
+
+8409.99.13
+
+Injetores (incluídos os bicos injetores)
+
+8409.99.14
+
+Válvulas de admissão ou de escape
+
+8409.99.15
+
+Coletores de admissão ou de escape
+
+8409.99.16
+
+Anéis de segmento
+
+8409.99.17
+
+Guias de válvulas
+
+8409.99.20
+
+Pistões ou êmbolos
+
+8409.99.30
+
+Camisas de cilindro
+
+8409.99.90
+
+Outras
+
+8412.21.10
+
+Cilindros hidráulicos
+
+8412.21.90
+
+Outros
+
+8412.29.00
+
+--Outros
+
+8412.31.10
+
+Cilindros pneumáticos
+
+8412.31.90
+
+Outros
+
+8412.90.80
+
+Outras, de máquinas das subposições 8412.21 ou 8412.31
+
+8412.90.90
+
+Outras
+
+8413.19.00
+
+--Outras
+
+8413.20.00
+
+-Bombas manuais, exceto das subposições 8413.11 ou 8413.19
+
+8413.30.10
+
+Para gasolina ou álcool
+
+8413.30.20
+
+Injetoras de combustível para motor de ignição por compressão
+
+8413.30.30
+
+Para óleo lubrificante
+
+8413.30.90
+
+Outras
+
+8413.50.90
+
+Outras
+
+8413.60.11
+
+De engrenagem
+
+8413.60.19
+
+Outras
+
+8413.60.90
+
+Outras
+
+8413.70.10
+
+Eletrobombas submersíveis
+
+8413.70.90
+
+Outras
+
+8413.91.90
+
+Outras
+
+8413.92.00
+
+--De elevadores de líquidos
+
+8414.10.00
+
+-Bombas de vácuo
+
+8414.30.11
+
+Com capacidade inferior a 4.700 frigorias/hora
+
+8414.30.91
+
+Com capacidade inferior ou igual a 16.000 frigorias/hora
+
+8414.30.99
+
+Outros
+
+8414.59.90
+
+Outros
+
+8414.80.19
+
+Outros
+
+8414.80.21
+
+Turboalimentadores de ar, de peso inferior ou igual a 50kg para motores das posições 84.07 ou 84.08, acionado pelos gases de escapamento dos mesmos
+
+8414.80.22
+
+Turboalimentadores de ar, de peso superior a 50kg para motores das posições 84.07 ou 84.08, acionados pelos gases de escapamento dos mesmos
+
+8414.80.33
+
+Centrífugos, de vazão máxima inferior a 22.000m3/h
+
+8414.80.39
+
+Outros
+
+8414.80.90
+
+Outros
+
+8414.90.10
+
+De bombas
+
+8414.90.20
+
+De ventiladores ou coifas aspirantes
+
+8414.90.31
+
+Pistões ou êmbolos
+
+8414.90.33
+
+Blocos de cilindros, cabeçotes e cárteres
+
+8414.90.34
+
+Válvulas
+
+8414.90.39
+
+Outras
+
+8415.20.10
+
+Com capacidade inferior ou igual a 30.000 frigorias/hora
+
+8415.20.90
+
+Outros
+
+8415.82.10
+
+Com capacidade inferior ou igual a 30.000 frigorias/hora
+
+8415.82.90
+
+Outros
+
+8415.83.00
+
+--Sem dispositivo de refrigeração
+
+8415.90.00
+
+-Partes
+
+8418.69.40
+
+Grupos frigoríficos de compressão para refrigeração ou para ar condicionado, com capacidade inferior ou igual a 30.000 frigorias/hora
+
+8418.99.00
+
+--Outras
+
+8419.50.90
+
+Outros
+
+8419.89.40
+
+Evaporadores
+
+8421.23.00
+
+--Para filtrar óleos minerais nos motores de ignição por centelha ou por compressão
+
+8421.29.90
+
+Outros
+
+8421.31.00
+
+--Filtros de entrada de ar para motores de ignição por centelha ou por compressão
+
+8421.39.20
+
+Depuradores por conversão catalítica de gases de escape de veículos
+
+8421.39.90
+
+Outros
+
+8421.99.10
+
+De aparelhos para filtrar ou depurar gases, da subposição 8421.39
+
+8421.99.99
+
+Outras
+
+8424.90.90
+
+Outras
+
+8425.42.00
+
+--Outros macacos, hidráulicos
+
+8425.49.10
+
+Manuais
+
+8425.49.90
+
+Outros
+
+8426.91.00
+
+--Próprios para serem montados em veículos rodoviários
+
+8430.69.19
+
+Outros
+
+8430.69.90
+
+Outros
+
+8431.20.11
+
+Autopropulsadas
+
+8431.20.90
+
+Outras
+
+8431.39.00
+
+--Outras
+
+8431.41.00
+
+--Caçambas, mesmo de mandíbulas, pás, ganchos e tenazes
+
+8431.42.00
+
+--Lâminas para “bulldozers” ou “angledozers”
+
+8431.49.21
+
+Cabinas
+
+8431.49.29
+
+Outras
+
+8433.90.90
+
+Outras
+
+8473.30.42
+
+Placas (módulos) de memória com uma superfície inferior ou igual a 50cm2
+
+8473.30.49
+
+Outros
+
+8481.10.00
+
+-Válvulas redutoras de pressão
+
+8481.20.10
+
+Rotativas, de caixas de direção hidráulica
+
+8481.20.90
+
+Outras
+
+8481.30.00
+
+-Válvulas de retenção
+
+8481.40.00
+
+-Válvulas de segurança ou de alívio
+
+8481.80.21
+
+Válvulas de expansão termostáticas ou pressostáticas
+
+8481.80.92
+
+Válvulas solenóides
+
+8481.80.95
+
+Válvulas tipo esfera
+
+8481.80.97
+
+Válvulas tipo borboleta
+
+8481.80.99
+
+Outros
+
+8481.90.90
+
+Outras
+
+8482.10.10
+
+De carga radial
+
+8482.10.90
+
+Outros
+
+8482.20.10
+
+De carga radial
+
+8482.20.90
+
+Outros
+
+8482.30.00
+
+-Rolamentos de roletes em forma de tonel
+
+8482.40.00
+
+-Rolamentos de agulhas
+
+8482.50.10
+
+De carga radial
+
+8482.50.90
+
+Outros
+
+8482.80.00
+
+-Outros, incluídos os rolamentos combinados
+
+8482.91.19
+
+Outras
+
+8482.91.20
+
+Roletes cilíndricos
+
+8482.91.30
+
+Roletes cônicos
+
+8482.91.90
+
+Outros
+
+8482.99.00
+
+--Outras
+
+8483.10.10
+
+Virabrequins
+
+8483.10.20
+
+Árvore de “cames” para comando de válvulas
+
+8483.10.30
+
+Veios flexíveis
+
+8483.10.40
+
+Manivelas
+
+8483.10.90
+
+Outros
+
+8483.20.00
+
+-Mancais com rolamentos incorporados
+
+8483.30.10
+
+Montados com “bronzes” de metal antifricção
+
+8483.30.20
+
+“Bronzes”
+
+8483.30.90
+
+Outros
+
+8483.40.10
+
+Caixas de transmissão, redutores, multiplicadores e variadores de velocidade, incluídos os conversores de torques
+
+8483.40.90
+
+Outros
+
+8483.50.10
+
+Polias, exceto as de rolamentos reguladoras de tensão
+
+8483.50.90
+
+Outras
+
+8483.60.11
+
+De fricção
+
+8483.60.19
+
+Outras
+
+8483.60.90
+
+Outros
+
+8483.90.00
+
+-Rodas dentadas e outros órgãos elementares de transmissão apresentados separadamente; partes
+
+8484.10.00
+
+-Juntas metaloplásticas
+
+8484.20.00
+
+-Juntas de vedação, mecânicas (selos mecânicos)
+
+8484.90.00
+
+-Outros
+
+8487.90.00
+
+-Outras
+
+8501.10.19
+
+Outros
+
+8501.10.21
+
+Síncronos
+
+8501.10.29
+
+Outros
+
+8501.20.00
+
+-Motores universais de potência superior a 37,5W
+
+8501.31.10
+
+Motores
+
+8501.32.10
+
+Motores
+
+8501.32.20
+
+Geradores
+
+8501.40.11
+
+Síncronos
+
+8501.40.19
+
+Outros
+
+8501.40.21
+
+Síncronos
+
+8501.40.29
+
+Outros
+
+8504.40.90
+
+Outros
+
+8505.11.00
+
+--De metal
+
+8505.19.10
+
+De ferrita (cerâmicos)
+
+8505.19.90
+
+Outros
+
+8505.20.90
+
+Outros
+
+8505.90.80
+
+Outros
+
+8505.90.90
+
+Partes
+
+8507.10.00
+
+-De chumbo, do tipo utilizado para o arranque dos motores de pistão
+
+8507.20.10
+
+De peso inferior ou igual a 1.000kg
+
+8507.30.19
+
+Outros
+
+8507.40.00
+
+-De níquel-ferro
+
+8507.80.00
+
+-Outros acumuladores
+
+8507.90.10
+
+Separadores
+
+8507.90.20
+
+Recipientes de plástico, suas tampas e tampões
+
+8507.90.90
+
+Outras
+
+8511.10.00
+
+-Velas de ignição
+
+8511.20.10
+
+Magnetos
+
+8511.20.90
+
+Outros
+
+8511.30.10
+
+Distribuidores
+
+8511.30.20
+
+Bobinas de ignição
+
+8511.40.00
+
+-Motores de arranque, mesmo funcionando como geradores
+
+8511.50.10
+
+Dínamos e alternadores
+
+8511.50.90
+
+Outros
+
+8511.80.10
+
+Velas de aquecimento
+
+8511.80.20
+
+Reguladores de voltagem (conjuntores-disjuntores)
+
+8511.80.30
+
+Ignição eletrônica digital
+
+8511.80.90
+
+Outros
+
+8511.90.00
+
+-Partes
+
+8512.20.11
+
+Faróis
+
+8512.20.19
+
+Outros
+
+8512.20.21
+
+Luzes fixas
+
+8512.20.22
+
+Luzes indicadoras de manobras
+
+8512.20.23
+
+Caixas de luzes combinadas
+
+8512.20.29
+
+Outros
+
+8512.30.00
+
+-Aparelhos de sinalização acústica
+
+8512.40.10
+
+Limpadores de pára-brisas
+
+8512.40.20
+
+Degeladores e desembaçadores
+
+8512.90.00
+
+-Partes
+
+8517.70.10
+
+Circuitos impressos com componentes elétricos ou eletrônicos, montados
+
+8518.29.90
+
+Outros
+
+(4)
+
+8518.90.10
+
+De alto-falantes
+
+8519.81.10
+
+Com sistema de leitura óptica por “laser” (leitores de discos compactos)
+
+(4)
+
+8523.59.10
+
+Cartões e etiquetas de acionamento por aproximação
+
+8527.21.10
+
+Com toca-fitas
+
+8527.21.90
+
+Outros
+
+8527.29.00
+
+--Outros
+
+8529.10.19
+
+Outras
+
+8529.90.90
+
+Outras
+
+8530.80.90
+
+Outros
+
+8531.10.90
+
+Outros
+
+8531.90.00
+
+-Partes
+
+8532.21.19
+
+Outros
+
+8532.22.00
+
+--Eletrolíticos de alumínio
+
+8532.23.90
+
+Outros
+
+8532.24.10
+
+Próprios para montagem em superfície (SMD -”Surface Mounted Device”)
+
+8532.25.10
+
+Próprios para montagem em superfície (SMD -”Surface Mounted Device”)
+
+8532.25.90
+
+Outros
+
+8532.29.90
+
+Outros
+
+8532.30.90
+
+Outros
+
+8533.10.00
+
+-Resistências fixas de carbono, aglomeradas ou de camada
+
+8533.21.10
+
+De fio
+
+8533.21.20
+
+Próprias para montagem em superfície (SMD -”Surface Mounted Device”)
+
+8533.21.90
+
+Outras
+
+8533.29.00
+
+--Outras
+
+8533.31.10
+
+Potenciômetros
+
+8533.31.90
+
+Outras
+
+8533.39.90
+
+Outras
+
+8533.40.19
+
+Outras
+
+8533.40.92
+
+Outros potenciômetros de carvão
+
+8534.00.00
+
+Circuitos impressos.
+
+8535.30.11
+
+Não automáticos
+
+8535.30.19
+
+Outros
+
+8536.10.00
+
+-Fusíveis e corta-circuitos de fusíveis
+
+8536.20.00
+
+-Disjuntores
+
+8536.41.00
+
+--Para tensão não superior a 60V
+
+8536.50.90
+
+Outros
+
+8536.61.00
+
+--Suportes para lâmpadas
+
+8536.90.10
+
+Conectores para cabos planos constituídos por condutores paralelos isolados individualmente
+
+8536.90.30
+
+Soquetes para microestruturas eletrônicas
+
+8536.90.90
+
+Outros
+
+8537.10.90
+
+Outros
+
+8538.10.00
+
+-Quadros, painéis, consoles, cabinas, armários e outros suportes, da posição 85.37, desprovidos dos seus aparelhos
+
+8538.90.90
+
+Outras
+
+8539.10.10
+
+Para tensão inferior ou igual a 15V
+
+8539.10.90
+
+Outros
+
+8539.21.10
+
+Para tensão inferior ou igual a 15V
+
+8539.29.10
+
+Para tensão inferior ou igual a 15V
+
+8539.29.90
+
+Outros
+
+8539.39.00
+
+--Outros
+
+8539.90.90
+
+Outras
+
+8541.40.22
+
+Outros diodos emissores de luz (LED), exceto diodos “laser”
+
+8542.33.19
+
+Outros
+
+8542.39.19
+
+Outros
+
+8542.39.39
+
+Outros
+
+8544.20.00
+
+-Cabos coaxiais e outros condutores elétricos coaxiais
+
+8544.30.00
+
+-Jogos de fios para velas de ignição e outros jogos de fios dos tipos utilizados em quaisquer veículos
+
+8544.42.00
+
+--Munidos de peças de conexão
+
+8544.49.00
+
+--Outros
+
+8545.20.00
+
+-Escovas
+
+8546.20.00
+
+-De cerâmica
+
+8546.90.00
+
+-Outros
+
+8547.10.00
+
+-Peças isolantes de cerâmica
+
+8547.20.90
+
+Outras
+
+8547.90.00
+
+-Outros
+
+8706.00.20
+
+Dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10
+
+8707.90.10
+
+Dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10
+
+8708.10.00
+
+-Pára-choques e suas partes
+
+8708.21.00
+
+--Cintos de segurança
+
+8708.29.11
+
+Pára-lamas
+
+8708.29.12
+
+Grades de radiadores
+
+8708.29.13
+
+Portas
+
+8708.29.14
+
+Painéis de instrumentos
+
+8708.29.19
+
+Outros
+
+8708.29.91
+
+Pára-lamas
+
+8708.29.92
+
+Grades de radiadores
+
+8708.29.93
+
+Portas
+
+8708.29.94
+
+Painéis de instrumentos
+
+8708.29.95
+
+Geradores de gás para acionar retratores de cintos de segurança
+
+8708.29.99
+
+Outros
+
+8708.30.11
+
+Dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10
+
+8708.30.19
+
+Outras
+
+8708.30.90
+
+Outros
+
+8708.40.11
+
+Servo-assistidas, próprias para torques de entrada superiores ou iguais a 750Nm
+
+8708.40.19
+
+Outras
+
+8708.40.90
+
+Outras
+
+8708.50.12
+
+Eixos não motores
+
+8708.50.19
+
+Outros
+
+8708.50.80
+
+Outros
+
+8708.50.91
+
+De eixos não motores, dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10
+
+8708.50.99
+
+Outras
+
+8708.70.10
+
+De eixos propulsores dos veículos das subposições 8701.10, 8701.30, 8701.90 ou 8704.10
+
+8708.70.90
+
+Outros
+
+8708.80.00
+
+-Sistemas de suspensão e suas partes (incluídos os amortecedores de suspensão)
+
+8708.91.00
+
+--Radiadores e suas partes
+
+8708.92.00
+
+--Silenciosos e tubos de escape; suas partes
+
+8708.93.00
+
+--Embreagens e suas partes
+
+8708.94.11
+
+Volantes
+
+8708.94.12
+
+Barras
+
+8708.94.13
+
+Caixas
+
+8708.94.81
+
+Volantes
+
+8708.94.82
+
+Barras
+
+8708.94.83
+
+Caixas
+
+8708.95.10
+
+Bolsas infláveis de segurança com sistema de insuflação (“airbags”)
+
+8708.95.21
+
+Bolsas infláveis para “airbags”
+
+8708.95.22
+
+Sistema de insuflação
+
+8708.95.29
+
+Outras
+
+8708.99.10
+
+Dispositivos para comando de acelerador, freio, embreagem, direção ou caixa de marchas mesmo os de adaptação dos preexistentes, do tipo dos utilizados por pessoas incapacitadas
+
+8708.99.90
+
+Outros
+
+8716.90.10
+
+Chassis de reboques e semi-reboques
+
+(2)
+
+8716.90.90
+
+Outras
+
+9025.11.90
+
+Outros
+
+9025.19.90
+
+Outros
+
+9025.90.10
+
+De termômetros
+
+9025.90.90
+
+Outros
+
+9026.10.11
+
+Medidores-transmissores eletrônicos, que funcionem pelo princípio de indução eletromagnética
+
+9026.10.19
+
+Outros
+
+9026.10.29
+
+Outros
+
+9026.20.10
+
+Manômetros
+
+9026.20.90
+
+Outros
+
+9026.80.00
+
+-Outros instrumentos e aparelhos
+
+9026.90.10
+
+De instrumentos e aparelhos para medida ou controle do nível
+
+9026.90.20
+
+De manômetros
+
+9026.90.90
+
+Outros
+
+9027.90.99
+
+Outros
+
+9028.20.10
+
+De peso inferior ou igual a 50kg
+
+9029.10.10
+
+Contadores de voltas, contadores de produção ou de horas de trabalho
+
+9029.10.90
+
+Outros
+
+9029.20.10
+
+Indicadores de velocidade e tacômetros
+
+9029.90.10
+
+De indicadores de velocidade e tacômetros
+
+9029.90.90
+
+Outros
+
+9030.33.21
+
+Do tipo dos utilizados em veículos automóveis
+
+9030.33.29
+
+Outros
+
+9030.33.90
+
+Outros
+
+9030.89.90
+
+Outros
+
+9030.90.90
+
+Outros
+
+9031.80.11
+
+Dinamômetros
+
+9031.80.40
+
+Aparelhos digitais, de uso em veículos automóveis, para medida e indicação de múltiplas grandezas tais como: velocidade média, consumos instantâneo e médio e autonomia (computador de bordo)
+
+9031.80.99
+
+Outros
+
+9031.90.90
+
+Outros
+
+9032.10.10
+
+De expansão de fluidos
+
+9032.10.90
+
+Outros
+
+9032.20.00
+
+-Manostatos (pressostatos)
+
+9032.89.11
+
+Eletrônicos
+
+9032.89.19
+
+Outros
+
+9032.89.21
+
+De sistemas antibloqueantes de freio (ABS)
+
+9032.89.22
+
+De sistemas de suspensão
+
+9032.89.23
+
+De sistemas de transmissão
+
+9032.89.24
+
+De sistemas de ignição
+
+9032.89.25
+
+De sistemas de injeção
+
+9032.89.29
+
+Outros
+
+9032.89.81
+
+De pressão
+
+9032.89.82
+
+De temperatura
+
+9032.89.83
+
+De umidade
+
+9032.89.89
+
+Outros
+
+9032.89.90
+
+Outros
+
+9032.90.10
+
+Circuitos impressos com componentes elétricos ou eletrônicos, montados
+
+9032.90.91
+
+De termostatos
+
+9032.90.99
+
+Outros
+
+9104.00.00
+
+Relógios para painéis de instrumentos e relógios semelhantes, para automóveis, veículos aéreos, embarcações ou para outros veículos.
+
+(4)
+
+9109.19.00
+
+--Outros
+
+9114.10.00
+
+-Molas, incluídas as espirais
+
+9114.90.20
+
+Ponteiros
+
+9114.90.50
+
+Eixos e pinhões
+
+9114.90.90
+
+Outras
+
+9401.20.00
+
+-Assentos dos tipos utilizados em veículos automóveis
+
+9401.80.00
+
+-Outros assentos
+
+9401.90.90
+
+Outros
+
+9603.50.00
+
+-Outras escovas que constituam partes de máquinas, aparelhos ou veículos
+
+9613.80.00
+
+-Outros isqueiros e acendedores
+
+9613.90.00
+
+-Partes
 
 Obs:
 

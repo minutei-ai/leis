@@ -1,5 +1,3 @@
-###MPV-001780-0-006-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.780-6, DE 11 DE FEVEREIRO DE 1999.
 
 Altera a redação do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão ao tráfico ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica.

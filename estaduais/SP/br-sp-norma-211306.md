@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211306)<br>
-
 # DECRETO N° 69.780, DE 11 DE AGOSTO DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria dos Transportes Metropolitanos, a administração das áreas que especifica, localizadas no Município de São Paulo._

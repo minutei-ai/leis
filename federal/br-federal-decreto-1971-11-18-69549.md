@@ -1,5 +1,3 @@
-###DEC-069549-0-000-18-11-1971@@@
-
 DECRETO Nº 69.549 - DE 18 DE NOVEMBRO DE 1971
 
 Revoga o Decreto nº 58.454, de 17 de maio de 1966, outorga concessão e dá outras providências.

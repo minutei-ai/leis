@@ -1,5 +1,3 @@
-###DEC-081427-0-000-06-03-1978@@@
-
 Decreto nº 81.427, de 6 de março de 1978.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação dos terrenos que menciona, situados no Município de Campanha, Estado de Minas Gerais.

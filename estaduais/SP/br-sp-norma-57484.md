@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57484)
-
 # LEI Nº 12.023, DE 09 DE SETEMBRO DE 2005
 
 ## ( PL 699/2004 - Romeu Tuma)

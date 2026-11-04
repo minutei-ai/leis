@@ -1,5 +1,3 @@
-###DEC-048610-0-000-25-07-1960@@@
-
 Decreto nº 48.610, de 25 de julho de 1960.
 
 Autoriza a Mineração, Lageado Limitada a pesquisar minérios de chumbo no município de Apiaí, Estado de São Paulo.

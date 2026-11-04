@@ -1,5 +1,3 @@
-###DEC-083716-0-000-11-07-1979@@@
-
 Decreto nº 83.716, de 11 de julho de 1979.
 
 Cria, no território Federal de Rondônia, a Reserva Biológica do Jaru, com os limites que especifica, e dá outras providências.

@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 33/2025 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025, conforme processo 202500004007909.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e "c" e art. 12 da [Lei nº 23.246](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412), de 25 de Janeiro de 2025, conforme processo 202500004007909.
 
 **RESOLVE:**
 
@@ -20,7 +20,8 @@ QUADRO 1
 
 SUPLEMENTAÇÃO
 
-| **400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**<br>
+| **400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**
+
 **401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |

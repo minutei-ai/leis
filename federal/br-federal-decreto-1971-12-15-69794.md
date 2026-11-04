@@ -1,5 +1,3 @@
-###DEC-069794-0-000-15-12-1971@@@
-
 Decreto nº 69.794 - de 15 de dezembro de 1971
 
 Reconhece a Faculdade de Ciências Econômicas Sul de Minas, em Itajubá, Minas Gerais.

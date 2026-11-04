@@ -1,5 +1,3 @@
-###DEC-050992-0-000-18-07-1961@@@
-
 Decreto nº 50.992, de 18 de julho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado do Paraná, as águas do rio denominado Monjolo. Olaria, Xarquinho, Cascavel e Cascavel, respectivamente, nos seus trechos superior, médio e inferior.

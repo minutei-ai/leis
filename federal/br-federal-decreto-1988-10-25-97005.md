@@ -1,5 +1,3 @@
-###DEC-097005-0-000-25-10-1988@@@
-
 DECRETO Nº 97.005, DE 25 DE OUTUBRO DE 1988
 
 Altera o Decreto nº 62.860, de 18 de junho de 1968, que estabelece a estrutura básica da Organização do Ministério da Marinha e dá outras providências.

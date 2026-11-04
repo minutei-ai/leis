@@ -1,5 +1,3 @@
-###DEC-057154-0-000-03-11-1965@@@
-
 DECRETO Nº 57.154, DE 3 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que mencionado necessário ao Ministério da Saúde.

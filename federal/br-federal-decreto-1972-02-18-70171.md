@@ -1,5 +1,3 @@
-###DEC-070171-0-000-18-02-1972@@@
-
 DECRETO Nº 70.171, DE 18 DE FEVEREIRO DE 1972.
 
 Dispõe sobre a circulação aérea sobre o território brasileiro e dá outras providências.

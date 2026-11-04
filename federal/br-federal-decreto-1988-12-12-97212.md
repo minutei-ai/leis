@@ -1,5 +1,3 @@
-###DEC-097212-0-000-12-12-1988@@@
-
 DECRETO Nº 97.212, DE 12 DE DEZEMBRO DE 1988
 
 Promulga o Tratado de Institucionalização do Parlamento Latino-Americano.

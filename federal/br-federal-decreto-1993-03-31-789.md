@@ -1,7 +1,3 @@
-1
-
-###DEC-000789-0-000-31-03-1993@@@
-
 DECRETO N° 789, DE 31 DE MARÇO DE 1993
 
 Altera dispositivos do Regulamento da Organização e do Custeio da Seguridade Social, aprovado pelo Decreto no 612, de 21 de julho de 1992.

@@ -1,5 +1,3 @@
-###DEC-056632-A-000-02-08-1965@@@
-
 DECRETO Nº 56.632-A, DE 2 DE AGÔSTO DE 1965.
 
 Acrescenta dispositivo à Ordenança Geral para o Serviço da Armada, aprovada pelo Decreto nº 8.726, de 6 de fevereiro de 1942.

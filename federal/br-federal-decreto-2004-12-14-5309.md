@@ -1,5 +1,3 @@
-###DEC-005309-0-000-14-12-2004@@@
-
 DECRETO Nº 5.309, DE 14 DE DEZEMBRO DE 2004
 
 Dispõe sobre a criação da Embaixada do Brasil em San Marino, República de San Marino, cumulativa com a Embaixada do Brasil em Roma, e dá outras providências.

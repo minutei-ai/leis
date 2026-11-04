@@ -1,5 +1,3 @@
-###DEL-000241-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 241, DE 28 DE FEVEREIRO DE 1967
 
 Inclui entre as profissões cujo exercício é regulado pela Lei nº 5.194, de 24 de dezembro de 1966, a profissão de engenheiro de operação.

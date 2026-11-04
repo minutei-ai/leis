@@ -1,5 +1,3 @@
-###DEC-004176-0-000-28-03-2002@@@
-
 DECRETO Nº 4.176, DE 28 DE MARÇO DE 2002
 
 Estabelece normas e diretrizes para a elaboração, a redação, a alteração, a consolidação e o encaminhamento ao Presidente da República de projetos de atos normativos de competência dos órgãos do Poder Executivo Federal, e dá outras providências.

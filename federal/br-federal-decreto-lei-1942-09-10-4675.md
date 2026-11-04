@@ -1,5 +1,3 @@
-###DEL-004675-0-000-10-09-1942@@@
-
 DECRETO-LEI N. 4.675 – DE 10 DE SETEMBRO DE 1942
 
 Requisita material de sondagens para petróleo

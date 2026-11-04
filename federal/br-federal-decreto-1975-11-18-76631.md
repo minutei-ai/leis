@@ -1,5 +1,3 @@
-###DEC-076631-0-000-18-11-1975@@@
-
 Decreto nº 76.631, de 18 de novembro de 1975.
 
 Incluí os cargos de Químico Tecnologista e Pesquisador em Engenharia Hidráulica nas relações do Decreto nº 56.664, de 5 de dezembro de 1966.

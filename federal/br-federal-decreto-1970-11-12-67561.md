@@ -1,5 +1,3 @@
-###DEC-067561-0-000-12-11-1970@@@
-
 decreto nº 67.561, de 12 de novembro de 1970.
 
 Estabelece o plano para execução da política salarial do Serviço Civil do Poder Executivo, e dá outras providências.

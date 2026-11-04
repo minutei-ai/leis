@@ -1,5 +1,3 @@
-###DEC-062387-0-000-11-03-1968@@@
-
 DECRETO Nº 62.387, DE 11 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Orfanato Nossa Senhora Auxiliadora”, com sede em Cachoeira do Campo, Estado de Minas Gerais.

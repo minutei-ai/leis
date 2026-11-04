@@ -1,5 +1,3 @@
-###DEC-075710-0-000-09-05-1975@@@
-
 Decreto Nº 75.710, DE 9 DE MAIO DE 1975.
 
 Concede reconhecimento ao Curso de Engenharia Mecânica da Universidade Federal do Espírito Santo, com sede na Cidade de Vitória, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEL-002965-0-000-21-01-1941@@@
-
 DECRETO-LEI N. 2.965 – DE 21 DE JANEIRO DE 1941
 
 Dispõe sobre o pagamento da percentagem de que trata o art. 1º do Decreto-lei n. 2.087, de 25 de março de 1940

@@ -1,5 +1,3 @@
-###DEC-088984-0-000-10-11-1983@@@
-
 decreto nº 88.984, de 10 de novembro de 1983.
 
 Cria o Conselho Federal e os Conselhos Regionais de Relações do Trabalho, institui o Sistema Nacional de Relações do Trabalho e dá outras providências.

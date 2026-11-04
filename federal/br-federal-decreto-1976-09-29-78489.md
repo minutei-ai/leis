@@ -1,5 +1,3 @@
-###DEC-078489-0-000-29-09-1976@@@
-
 Decreto nº 78.489, de 29 de setembro de 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Radiodifusão Planalto Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Passo Fundo, Estado do Rio Grande do Sul.

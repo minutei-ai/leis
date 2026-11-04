@@ -1,5 +1,3 @@
-###DEC-080953-0-000-07-12-1977@@@
-
 Decreto nº 80.953, de 07 de dezembro de 1977.
 
 Concede á Companhia de Pesquisas e Lavras Minerais - COPELMI, o direito de lavrar carvão mineral no Município de Triunfo. Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000874-0-000-16-07-1993@@@
-
 # DECRETO N° 874, DE 16 DE JULHO DE 1993
 
 Dispõe sobre a execução do Décimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 29/1/1993.

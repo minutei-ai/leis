@@ -1,5 +1,3 @@
-###DEL-008224-0-000-26-11-1945@@@
-
 DECRETO-LEI N. 8.224 – DE 26 DE NOVEMBRO DE 1945
 
 Dispõe sôbre o cargo isolado de Redutor-Chefe das Anais do Quadro Suplementar do Ministério das Relações Exteriores.

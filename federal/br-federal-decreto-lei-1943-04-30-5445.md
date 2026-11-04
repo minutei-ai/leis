@@ -1,5 +1,3 @@
-###DEL-005445-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.445 – DE 30 DE ABRIL DE 1943
 
 Cria o 1º Grupamento de Artilharia de Costa da 2ª Região Militar

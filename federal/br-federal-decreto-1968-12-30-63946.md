@@ -1,5 +1,3 @@
-###DEC-063946-0-000-30-12-1968@@@
-
 DECRETO Nº 63.946, DE 30 DE DEZEMBRO DE 1968.
 
 Adota novas medidas de contenção de despesas públicas e estabelece normas de elaboração e execução orçamentária.

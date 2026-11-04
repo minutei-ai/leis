@@ -1,5 +1,3 @@
-###DEC-054617-0-000-27-10-1964@@@
-
 decreto nº 54.617, de 27 de outubro de 1964.
 
 Autoriza o Cidadão brasileiro Geraldo Gonçalves da Silva a pesquisar quartzo e mica no município de Coroaci, Estado de Minas Gerais.

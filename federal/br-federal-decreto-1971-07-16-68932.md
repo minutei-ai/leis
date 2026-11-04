@@ -1,5 +1,3 @@
-###DEC-068932-0-000-16-07-1971@@@
-
 decreto nº 68.932, de 16 de julho de 1971.
 
 Declara sem efeito o Decreto nº 52.932, de 26 de novembro de 1963.

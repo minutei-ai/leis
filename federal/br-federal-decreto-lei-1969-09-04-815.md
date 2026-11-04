@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ddc3df0c-9b0b-43f6-b4ca-646a4449388b/texto#nowhere)
 
-###DEL-000815-0-000-04-09-1969@@@
-
 DECRETo-Lei Nº 815, DE 4 DE Setembro DE 1969
 
 Isenta do impôsto de renda na fonte os juros e comissões que especifica, pagos no exterior decorrentes de exportação de produtos nacionais.

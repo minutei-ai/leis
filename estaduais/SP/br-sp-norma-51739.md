@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51739)
-
 # LEI Nº 11.793, DE 09 DE SETEMBRO DE 2004
 
 ## ( PL 1223/2003 - Caldini Crespo)

@@ -1,5 +1,3 @@
-###DEC-048990-0-000-01-10-1960@@@
-
 DECRETO Nº 48.990, DE 1º DE OUTUBRO E 1960.
 
 Declara de utilidade pública a “Caixa Beneficente dos Hospitais de Tuberculose do Parque do Mandaqui”, com sede em São Paulo, Estado de São Paulo.

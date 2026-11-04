@@ -1,5 +1,3 @@
-###DEC-084580-0-000-19-03-1980@@@
-
 Decreto nº 84.580, de 19 de março de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

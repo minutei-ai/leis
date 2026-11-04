@@ -52,6 +52,22 @@ c) filhos solteiros incapacitados física ou mentalmente.
 
 Feito em Caracas, aos vinte e nove dias do mês de julho de mil novecentos e noventa e quatro, em dois originais igualmente autênticos, nos idiomas espanhol e português.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governador da República</span></p></td><td style="width:193.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governador da República</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td><td style="width:193.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Da Venezuela</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Celso Luiz Nunes Amorim</span></p></td><td style="width:193.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Miguel Angel Burelli Rivas</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das</span></p></td><td style="width:193.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado de</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td><td style="width:193.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governador da República
 
-###DEC-003228-0-000-29-10-1999@@@RET01+++
+Pelo Governador da República
+
+Federativa do Brasil
+
+Da Venezuela
+
+Celso Luiz Nunes Amorim
+
+Miguel Angel Burelli Rivas
+
+Ministro de Estado das
+
+Ministro de Estado de
+
+Relações Exteriores
+
+Relações Exteriores

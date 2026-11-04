@@ -1,5 +1,3 @@
-###DEC-072099-0-000-18-04-1973@@@
-
 DECRETO Nº 72.099, DE 18 DE ABRIL DE 1973.
 
 Concede à Mineração Potyra S.A. o direito de lavrar scheelita no Município de Lages, Estado do Rio Grande do Norte.

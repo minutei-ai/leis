@@ -1,5 +1,3 @@
-###DEC-051380-0-000-21-12-1961@@@
-
 DECRETO Nº 51.380, DE 21 DE DEZEMBRO DE 1961.
 
 Aprovação de aumentos de capital e de reforma estatutária da Auxiliadora Predial S.A.

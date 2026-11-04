@@ -1,5 +1,3 @@
-###LEI-000000-D-000-20-10-1823@@@
-
 LEI - DE 20 DE OUTUBRO DE 1823
 
 Declara em vigor a legislação pela qual se regia o Brazil até 25 de Abril de 1821 e bem assim as leis promulgadas pelo Senhor D. Pedro, como Regente e Imperador daquella data em diante, e os decretos das Cortes Portuguesas que são especificados.

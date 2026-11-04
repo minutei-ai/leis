@@ -1,7 +1,3 @@
-1
-
-###DEC-001349-0-000-28-12-1994@@@
-
 DECRETO N° 1.349, DE 28 DE DEZEMBRO DE 1994
 
 Autoriza depósito de ações de propriedade da União no Fundo de Amortização da Dívida Pública Mobiliária Federal, na forma estabelecida no art. 30 da Medida Provisória n° 785, de 23 de dezembro de 1994, e no art. 3° do Decreto n° 1.312, de 18 de novembro de 1994, e dá outras providências.

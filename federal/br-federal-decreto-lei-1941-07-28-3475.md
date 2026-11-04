@@ -1,5 +1,3 @@
-###DEL-003475-0-000-28-07-1941@@@
-
 DECRETO-LEI N. 3.475 – DE 28 DE JULHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 10.883:520$6, para liquidação de compromissos

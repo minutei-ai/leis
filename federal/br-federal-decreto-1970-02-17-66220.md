@@ -1,5 +1,3 @@
-###DEC-066220-0-000-17-02-1970@@@
-
 DECRETO Nº 66.220 - DE 17 DE FEVEREIRO DE 1970
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado de Sergipe.

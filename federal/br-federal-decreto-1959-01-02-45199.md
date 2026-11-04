@@ -1,5 +1,3 @@
-###DEC-045199-0-000-02-01-1959@@@
-
 DECRETO Nº 45.199, DE 2 DE JANEIRO DE 1959.
 
 Concede à Companhia Aymorés, Indústria-Navegação-Comércio, autorização para funcionar como emprêsa de navegação de cabotagem.

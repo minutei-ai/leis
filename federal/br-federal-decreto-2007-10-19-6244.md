@@ -1,5 +1,3 @@
-###DEC-006244-0-000-19-10-2007@@@
-
 DECRETO Nº 6.244, DE 19 DE OUTUBRO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil na República Eslovaca, com sede em Bratislava.
@@ -19,5 +17,3 @@ Brasília, 19 de outubro de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 22.10.2007

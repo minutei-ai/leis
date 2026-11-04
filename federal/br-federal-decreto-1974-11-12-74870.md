@@ -1,5 +1,3 @@
-###DEC-074870-0-000-12-11-1974@@@
-
 DECRETO Nº 74.870, DE 12 DE NOVEMBRO DE 1974.
 
 Autoriza, até 31 de dezembro de 1975, o aproveitamento dos navios estrangeiros na cabotagem nacional.

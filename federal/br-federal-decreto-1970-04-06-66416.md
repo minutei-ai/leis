@@ -1,5 +1,3 @@
-###DEC-066416-0-000-06-04-1970@@@
-
 DECRETO Nº 66.416, DE 6 DE ABRIL de 1970.
 
 Retifica o artigo 1º do Decreto número 48.218 de 13 de maio de 1960.

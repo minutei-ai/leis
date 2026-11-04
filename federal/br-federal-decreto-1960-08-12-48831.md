@@ -1,5 +1,3 @@
-###DEC-048831-0-000-12-08-1960@@@
-
 DECRETO Nº 48.831, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o Govêrno do Estado do Rio de Janeiro de a ampliar na usina a termelétrica existente no distrito sede do município de Cabo Frio.

@@ -1,5 +1,3 @@
-###DEC-075415-0-000-25-02-1975@@@
-
 DECRETO Nº 75.415, DE 25 DE FEVEREIRO DE 1975
 
 Declara de utilidade pública e interesse social área de terra abrangida pelo Projeto de Irrigação "Custódia", no Município de Custódia, Estado de Pernambuco.

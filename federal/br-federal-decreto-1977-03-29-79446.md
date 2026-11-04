@@ -1,5 +1,3 @@
-###DEC-079446-0-000-29-03-1977@@@
-
 Decreto nº 79.446, de 29 de março de 1977.
 
 Concede a Herbert Schmidt, Firma Individual, o direito de lavrar ardósia no Município de Blumenau, Estado de Santa Catarina.

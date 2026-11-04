@@ -1,7 +1,3 @@
-1
-
-###DEC-001309-0-000-11-11-1994@@@
-
 DECRETO Nº 1.309, DE 11 DE NOVEMBRO DE 1994
 
 Estabelece o Recadastramento Nacional dos Servidores Públicos Civis da Administração Federal direta, autárquica e fundacional, e dá outras providências.

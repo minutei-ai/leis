@@ -1,10 +1,8 @@
-###DEC-062940-0-000-02-07-1968@@@
+**DECRETO Nº 62.940, DE 2 DE JULHO DE 1968.**
 
-<strong>DECRETO Nº 62.940, DE 2 DE JULHO DE 1968.</strong>
+***Assegura aos exportadores de produtos agropecuários a execução de contratos de exportação com prazos e condições que estabelece.***
 
-<em><strong>Assegura aos exportadores de produtos agropecuários a execução de contratos de exportação com prazos e condições que estabelece.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 83, item II, da Constituição e
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 83, item II, da Constituição e
 
 CONSIDERANDO que é livre aos exportadores de produtos manufaturados, minerais e agropecuários firmar contratos de fornecimento com importadores estrangeiros;
 
@@ -18,13 +16,13 @@ CONSIDERANDO que os contratos de exportação, com prazos convenientes, constitu
 
 CONSIDERANDO, ainda, que a eficácia dêsses contratos, como estímulo, decorre fundamentalmente da garantia de sua execução, em razão do que a matéria foi aprovada pelo Conselho Nacional do Comércio Exterior,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É vedado a qualquer órgão governamental, sob qualquer fundamento, adotar medidas restritivas ou impeditivas à exportação de produtos agropecuários que prejudiquem a execução dos contratos celebrados com importadores estrangeiros, aprovados e registrados nos têrmos dêste Decreto.
+**Art**. 1º É vedado a qualquer órgão governamental, sob qualquer fundamento, adotar medidas restritivas ou impeditivas à exportação de produtos agropecuários que prejudiquem a execução dos contratos celebrados com importadores estrangeiros, aprovados e registrados nos têrmos dêste Decreto.
 
 Parágrafo único. Excetuam-se do disposto neste artigo os casos de comprovada necessidade de defesa sanitária.
 
-<strong>Art</strong>. 2º Os contratos a que se refere o artigo anterior deverão conter planos de exportação e poderão contemplar prazos de até 3 (três) anos, devendo ser submetidos à Carteira de Comércio Exterior (CACEX) do Banco do Brasil S. A., para aprovação e registro.
+**Art**. 2º Os contratos a que se refere o artigo anterior deverão conter planos de exportação e poderão contemplar prazos de até 3 (três) anos, devendo ser submetidos à Carteira de Comércio Exterior (CACEX) do Banco do Brasil S. A., para aprovação e registro.
 
 § 1º Dos contratos deverão constar, entre outras, cláusulas sôbre:
 
@@ -36,29 +34,29 @@ c) eventual prorrogação, por período igual ou inferior, mediante prévia apro
 
 d) eventual inadimplência por parte do importador estrangeiro.
 
-§ 2º Na hipótese de a exportação não vir a se consumar em virtude de acontecimentos, no país importador, da natureza dos previstos no item <em>a</em> do parágrafo anterior, a mercadoria objeto do contrato poderá ser adquirida por órgãos governamentais próprios, desde que fique comprovada a impossibilidade de sua colocação em outros mercados.
+§ 2º Na hipótese de a exportação não vir a se consumar em virtude de acontecimentos, no país importador, da natureza dos previstos no item *a* do parágrafo anterior, a mercadoria objeto do contrato poderá ser adquirida por órgãos governamentais próprios, desde que fique comprovada a impossibilidade de sua colocação em outros mercados.
 
 § 3º Para a aprovação do contrato, a CACEX levará em conta a experiência comercial do requerente, assim como a idoneidade e capacidade financeira das firmas intervenientes, inclusive o importador.
 
-<strong>Art</strong>. 3º O preço do produto a exportar será aquêle vigorante no mercado externo na ocasião do embarque, podendo, entretanto, a critério da CACEX, ser fixado para todo o prazo contratado ou, conforme o caso, para frações dêsse prazo ou do produto, com reajustes periódicos.
+**Art**. 3º O preço do produto a exportar será aquêle vigorante no mercado externo na ocasião do embarque, podendo, entretanto, a critério da CACEX, ser fixado para todo o prazo contratado ou, conforme o caso, para frações dêsse prazo ou do produto, com reajustes periódicos.
 
-<strong>Art</strong>. 4º As operações contratadas serão conduzidas em moedas conversíveis, ou, havendo anuência do Banco Central do Brasil, em moedas inconversíveis ou de convênio.
+**Art**. 4º As operações contratadas serão conduzidas em moedas conversíveis, ou, havendo anuência do Banco Central do Brasil, em moedas inconversíveis ou de convênio.
 
-<strong>Art</strong>. 5º Ficam os exportadores sujeitos às penalidades previstas no Capítulo XI do Decreto nº 59.607, de 28-11-66, que regulamentou o Capítulo VI da Lei nº 5.025, de 10-6-66, no que couber, sempre que descumprirem cláusulas contratuais por causas que lhes sejam imputáveis.
+**Art**. 5º Ficam os exportadores sujeitos às penalidades previstas no Capítulo XI do Decreto nº 59.607, de 28-11-66, que regulamentou o Capítulo VI da Lei nº 5.025, de 10-6-66, no que couber, sempre que descumprirem cláusulas contratuais por causas que lhes sejam imputáveis.
 
-<strong>Art</strong>. 6º O Grupo Executivo de Movimentação de Safras (GREMOS) e o Ministério dos Transportes estabelecerão normas que visem, prioritàriamente, ao escoamento das safras, e a disponibilidade de atracação nos portos de embarque, de navios que transportarão os produtos ao exterior.
+**Art**. 6º O Grupo Executivo de Movimentação de Safras (GREMOS) e o Ministério dos Transportes estabelecerão normas que visem, prioritàriamente, ao escoamento das safras, e a disponibilidade de atracação nos portos de embarque, de navios que transportarão os produtos ao exterior.
 
-<strong>Art</strong>. 7º O Conselho Nacional do Comércio Exterior (CONCEX) poderá, quando conveniente, modificar o limite de prazo referido no art. 2º.
+**Art**. 7º O Conselho Nacional do Comércio Exterior (CONCEX) poderá, quando conveniente, modificar o limite de prazo referido no art. 2º.
 
-<strong>Art</strong>. 8º No exame dos contratos a que se refere este Decreto, a CACEX levará na devida conta as características de comercialização dos produtos, bem como as normas legais que sôbre os mesmos incidam.
+**Art**. 8º No exame dos contratos a que se refere este Decreto, a CACEX levará na devida conta as características de comercialização dos produtos, bem como as normas legais que sôbre os mesmos incidam.
 
-<strong>Art</strong>. 9º No caso de eventual escassez, no mercado interno, de produtos cuja exportação esteja amparada por contratos previstos no presente Decreto, poderá ser concedida para a sua importação, por ato do Conselho de Política Aduaneira, isenção do impôsto de importação, ouvidos os órgãos ligados à execução da política do abastecimento e da produção.
+**Art**. 9º No caso de eventual escassez, no mercado interno, de produtos cuja exportação esteja amparada por contratos previstos no presente Decreto, poderá ser concedida para a sua importação, por ato do Conselho de Política Aduaneira, isenção do impôsto de importação, ouvidos os órgãos ligados à execução da política do abastecimento e da produção.
 
-<strong>Art</strong>. 10. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 10. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 2 de julho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Mário David Andreazza
 

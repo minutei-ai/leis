@@ -1,5 +1,3 @@
-###DEL-007897-0-000-24-08-1945@@@
-
 DECRETO-LEI N. 7.897 – DE 24 DE AGÔSTO DE 1945
 
 Dispõe sôbre a carreira de Dactilos-copista, do Quadro Permanente, do Ministério da Justiça e Negócios Interiores.

@@ -1,5 +1,3 @@
-###DEC-051883-0-000-02-04-1963@@@
-
 DECRETO Nº 51.883, DE 2 DE ABRIL DE 1963.
 
 Cria Grupo de Trabalho para rever as normas de operações das Caixas Econômicas Federais e dá outras providências.

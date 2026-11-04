@@ -37,7 +37,3 @@ REDAÇÃO ORIGINAL
 .......................................................
 
 Parágrafo único- A Polícia Militar é força auxiliar e reserva do Exército."
-
-\==============================================================
-
-Data da última atualização: 23/03/2004.

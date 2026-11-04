@@ -1,5 +1,3 @@
-###DEC-076471-0-000-17-10-1975@@@
-
 Decreto nº 76.471, de 17 de outubro de 1975.
 
 Autoriza o funcionamento da Faculdade de Arqueologia e Museologia "Marechal Rondon", com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

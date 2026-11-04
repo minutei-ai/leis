@@ -1,5 +1,3 @@
-###DEC-005288-0-000-29-11-2004@@@
-
 DECRETO Nº 5.288 DE 29 DE NOVEMBRO DE 2004
 
 Regulamenta a Medida Provisória no 226, de 29 de novembro de 2004, que institui o Programa Nacional de Microcrédito Produtivo Orientado - PNMPO, e dá outras providências.

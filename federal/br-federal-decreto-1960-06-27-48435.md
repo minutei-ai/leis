@@ -1,5 +1,3 @@
-###DEC-048435-0-000-27-06-1960@@@
-
 DECRETO Nº 48.435, DE 27 DE JUNHO DE 1960.
 
 Outorga à Prefeitura Municipal de Cratéus, Estado do Ceará, concessão para distribuir energia elétrica.

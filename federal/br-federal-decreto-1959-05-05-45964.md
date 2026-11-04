@@ -1,5 +1,3 @@
-###DEC-045964-0-000-05-05-1959@@@
-
 decreto nº 45.964, de 5 de maio de 1959.
 
 Abre, ao Ministério da Agricultura, o crédito extraordinário de Cr$26.500.000,00.

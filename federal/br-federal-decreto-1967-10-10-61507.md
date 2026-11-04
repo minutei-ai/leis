@@ -1,5 +1,3 @@
-###DEC-061507-0-000-10-10-1967@@@
-
 DECRETO Nº 61.507, DE 10 DE OUTUBRO DE 1967.
 
 Altera dispositivos do Decreto 60.439, de 13 de março de 1967.

@@ -1,5 +1,3 @@
-###DEC-053659-0-000-04-03-1964@@@
-
 DECRETO Nº 53.659, DE 4 DE MARÇO DE 1964.
 
 Extingue o Consulado honorário do Brasil em Horta, Portugal.

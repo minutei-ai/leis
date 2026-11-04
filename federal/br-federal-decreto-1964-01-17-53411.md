@@ -1,5 +1,3 @@
-###DEC-053411-0-000-17-01-1964@@@
-
 DECRETO Nº 53.411, DE 17 DE JANEIRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão, em favor da Petróleo Brasileiro S.A. - Petrobrás, terras situadas nos Municípios de Osório, Santo Antônio da Patrulha, Gravataí, Estêio e Canoas, no Estado do Rio Grande do Sul.

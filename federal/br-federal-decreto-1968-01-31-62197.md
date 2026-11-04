@@ -1,5 +1,3 @@
-###DEC-062197-0-000-31-01-1968@@@
-
 DECRETO Nº 62.197, DE 31 DE JANEIRO DE 1968.
 
 Institui um Grupo de Trabalho para estudo do desenvolvimento sócio-econômico do Estado do Espírito Santo.

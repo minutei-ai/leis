@@ -1,5 +1,3 @@
-###DEC-074748-0-000-23-10-1974@@@
-
 DECRETO Nº 74.748, DE 23 DE outubro DE 1974.
 
 Exclui servidor da Rede Ferroviária Federal S.A. - Estrada de Ferro Santos a Jundiaí - do enquadramento de que trata o Decreto número 51.559, de 4 de outubro de 1962.

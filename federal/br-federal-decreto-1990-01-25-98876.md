@@ -1,7 +1,3 @@
-1
-
-###DEC-098876-0-000-25-01-1990@@@
-
 DECRETO Nº 98.876, DE 25 DE JANEIRO DE 1990
 
 Revoga o Decreto nº 79.724, de 24 de maio de 1977, que autorizou a SHELL EXPLORATION SERVICES (BRASIL) B.V. a funcionar na República Faderativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-064358-0-000-16-04-1969@@@
-
 DECRETO Nº 64.358, DE 16 DE ABRIL DE 1969.
 
 Autoriza funcionamento de Faculdade.

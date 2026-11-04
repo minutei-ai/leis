@@ -1,5 +1,3 @@
-###DEC-073656-0-000-15-02-1974@@@
-
 DECRETO Nº 73.656, DE 15 DE FEVEREIRO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004755-0-000-20-06-2003@@@
-
 DECRETO Nº 4.755, DE 20 DE JUNHO DE 2003.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Meio Ambiente, e dá outras providências.      
@@ -28,8 +26,10 @@ Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e
 
         Brasília, 20 de junho de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-Guido Mantega<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+Guido Mantega
+
 Marina Silva
 
 ANEXO I

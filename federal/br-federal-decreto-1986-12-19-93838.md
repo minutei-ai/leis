@@ -1,5 +1,3 @@
-###DEC-093838-0-000-19-12-1986@@@
-
 DECRETO Nº 93.838, DE 19 DE DEZEMBRO DE 1986
 
 Aplica aos funcionários integrantes da Carreira Auditoria do Tesouro Nacional do Ministério da Fazenda as normas gerais de progressão funcional de que trata o Decreto nº 84.669, de 29 de abril de 1980.

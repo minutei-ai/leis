@@ -1,5 +1,3 @@
-###DEC-074626-0-000-27-09-1974@@@
-
 DECRETO Nº 74.626, DE 27 DE SETEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada na Cidade de Petrópolis, Estado do Rio de Janeiro, destinada à ampliação das instalações mecânicas da Companhia Eletromecânica CELMA.

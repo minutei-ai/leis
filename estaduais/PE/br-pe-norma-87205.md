@@ -16,7 +16,7 @@ Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
 
 **Art. 5º Fica o Chefe do Poder Executivo autorizado a abrir créditos adicionais destinados a fazer face aos pagamentos de obrigações decorrentes da operação de crédito ora autorizada.**
 
-Art<strong>. 6º Esta Lei entra em vigor na data de sua publicação.</strong>
+Art**. 6º Esta Lei entra em vigor na data de sua publicação.**
 
 Palácio do Campo das Princesas, Recife, 23 de dezembro do ano de 2025, 209º da Revolução Republicana Constitucionalista e 204º da Independência do Brasil.
 

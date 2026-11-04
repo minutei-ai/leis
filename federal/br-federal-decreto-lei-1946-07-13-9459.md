@@ -1,5 +1,3 @@
-###DEL-009459-0-000-13-07-1946@@@
-
 DECRETO-LEI N. 9.459 – DE 13 DE JULHO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República para o exercício vigente

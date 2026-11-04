@@ -1,5 +1,3 @@
-###DEC-046869-0-000-16-09-1959@@@
-
 decreto nº 46.869, de 16 de setembro de 1959.
 
 Concede reconhecimento ao curso de auxiliar de enfermagem da Escola Goiana de Auxiliares de Enfermagem.

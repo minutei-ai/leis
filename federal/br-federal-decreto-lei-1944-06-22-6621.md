@@ -1,5 +1,3 @@
-###DEL-006621-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.621 – DE 22 DE JUNHO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 15.666,00, para pagamento de fornecimentos e serviços prestados em 1934 e 1935

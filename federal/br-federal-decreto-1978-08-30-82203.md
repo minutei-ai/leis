@@ -1,5 +1,3 @@
-###DEC-082203-0-000-30-08-1978@@@
-
 Decreto nº 82.203, de 30 de agosto de 1978.
 
 Concede reconhecimento aos cursos de Química e de Engenharia de Operação de Universidade de Fortaleza, com sede na cidade de Fortaleza, Estado do Ceará.

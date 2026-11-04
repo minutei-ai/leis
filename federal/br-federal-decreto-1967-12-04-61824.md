@@ -1,5 +1,3 @@
-###DEC-061824-0-000-04-12-1967@@@
-
 DECRETO Nº 61.824, DE 4 DE DEZEMBRO DE 1967.
 
 Outorga concessão à Rádio Difusora de Serrinha S.A., para estabelecer uma estação de radiodifusão sonora, na cidade de Serrinha, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-094875-0-000-16-09-1987@@@
-
 DECRETO N° 94.875, DE 16 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Itajubá, Estado de Minas Gerais, destinado ao Tribunal Regional do Trabalho da 3° Região.

@@ -1,5 +1,3 @@
-###DEL-002095-0-000-27-12-1983@@@
-
 # Decreto nº 2.095, de 27 de dezembro de 1983
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

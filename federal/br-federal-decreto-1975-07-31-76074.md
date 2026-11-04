@@ -1,5 +1,3 @@
-###DEC-076074-0-000-31-07-1975@@@
-
 DECRETO Nº 76.074, DE 31 DE JULHO DE 1975
 
 Concede à Companhia de Ferro Ligas da Bahia S.A. - FERBASA o direito de lavrar minério de cromo no Município de Campo Formoso, Estado da Bahia.

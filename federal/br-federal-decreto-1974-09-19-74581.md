@@ -1,5 +1,3 @@
-###DEC-074581-0-000-19-09-1974@@@
-
 DECRETO Nº 74.581, DE 19 DE SETEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Light - Serviço de Eletricidade S.A., Estado de São Paulo.

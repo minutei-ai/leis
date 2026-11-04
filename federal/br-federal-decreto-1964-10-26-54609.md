@@ -1,5 +1,3 @@
-###DEC-054609-0-000-26-10-1964@@@
-
 DECRETO Nº 54.609, DE 26 DE OUTUBRO DE 1964.
 
 Extingue a Comissão Geral de Investigações, criada pelo Decreto número 53.897, de 27 de abril de 1964, e dá outras providências.

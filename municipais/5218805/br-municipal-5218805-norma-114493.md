@@ -30,17 +30,18 @@ Art. 2º Revogadas disposições em contrário, esta Lei entrará em vigor na da
 
 Gabinete do Prefeito de Rio Verde, aos 27 de junho de 2007.
 
-PAULO ROBERTO CUNHA<br>
+PAULO ROBERTO CUNHA
+
 Prefeito de Rio Verde
 
-<br>
-ARIOVALDO LOPES MACHADO<br>
+ARIOVALDO LOPES MACHADO
+
 Procurador-Geral
 
-<br>
-AFONSO CELSO B. J. DE MATTOS<br>
+AFONSO CELSO B. J. DE MATTOS
+
 Secretário de Planejamento e Administração
 
-<br>
-RUBENS LEÃO DE LEMOS BARROSO<br>
+RUBENS LEÃO DE LEMOS BARROSO
+
 Secretário de Governo e Relações Exteriores

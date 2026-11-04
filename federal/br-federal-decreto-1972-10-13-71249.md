@@ -1,5 +1,3 @@
-###DEC-071249-0-000-13-10-1972@@@
-
 DECRETO nº 71.249, de 13 de outubro de 1972.
 
 Dispõe sobre a Tabela Provisória de Pessoal Temporário do Serviço Nacional de informações.

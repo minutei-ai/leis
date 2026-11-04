@@ -1,5 +1,3 @@
-###DEC-087600-0-000-21-09-1982@@@
-
 Decreto nº 87.600, de 21 de setembro de 1982.
 
 Outorga à Centrais Elétricas Matogrossenses S.A. - CEMAT concessão para o aproveitamento da energia hidráulica de um trecho do Ribeirão da Onça, denominado Cachoeira da Onça, no Município de Alto Garças, Estado de Mato Grosso.

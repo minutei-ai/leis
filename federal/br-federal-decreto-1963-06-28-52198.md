@@ -1,5 +1,3 @@
-###DEC-052198-0-000-28-06-1963@@@
-
 Decreto nº 52.198, de 28 de junho de 1963.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 39.265, de 30 de maio de 1956, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Japi II” no município de São José de Campestre no Estado do Rio Grande do Norte.

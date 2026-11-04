@@ -1,5 +1,3 @@
-###DEC-057801-0-000-14-02-1966@@@
-
 Decreto nº 57.801, de 14 de fevereiro de 1966.
 
 Autoriza a firma Nacur Gema Limitada, a comprar pedras preciosas.

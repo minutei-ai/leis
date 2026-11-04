@@ -1,5 +1,3 @@
-###DEC-098817-0-000-11-01-1990@@@
-
 DECRETO N° 98.817, DE 11 DE JANEIRO DE 1990
 
 Fixa, no Ministério da Aeronáutica, os mínimos de vagas para promoção obrigatória, Referentes ao ano-base de 1989, nos Diversos Quadros do Corpo de Oficiais da Ativa.

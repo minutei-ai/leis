@@ -1,5 +1,3 @@
-###DEC-047061-0-000-21-10-1959@@@
-
 DECRETO Nº 47.061, DE 21 DE OUTUBRO DE 1959.
 
 Autoriza “Orinco” - Organização Imobiliária e Comércio Ltda - lavrar água mineral no município de Guarapari, Estado do Espírito Santo.

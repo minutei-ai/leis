@@ -1,5 +1,3 @@
-###DEC-093796-0-000-18-12-1986@@@
-
 DECRETO Nº 93.796, DE 18 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Gleba Tira Sentido", situado no Município de Alto Paraguai, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 2 de maio de 1986, e dá outras providências.

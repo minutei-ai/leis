@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62123)
-
 # LEI Nº 12.355, DE 24 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 415/2005, do Deputado Jorge Caruso - PMDB)

@@ -1,5 +1,3 @@
-###DEC-096623-0-000-31-08-1988@@@
-
 DECRETO N° 96.623, DE 3l DE AGOSTO DE 1988
 
 Dispõe sobre a inclusão da Nuclebrás Equipamentos Pesados S.A. - NUCLEP e Nuclebrás de Monazita e Associados Ltda. - NUCLEMON no Programa Federal de Desestatização e dá outras providências.

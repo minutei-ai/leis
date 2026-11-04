@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210394)<br>
-
 # DECRETO N° 69.184, DE 18 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre a concessão de abono complementar aos servidores do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008, e Portaria n° 61, de 31 de janeiro de 2024, do Ministério da Educação._

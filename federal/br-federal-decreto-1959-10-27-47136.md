@@ -1,5 +1,3 @@
-###DEC-047136-0-000-27-10-1959@@@
-
 DECRETO Nº 47.136, DE 27 OUTUBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Souza, Estado da Paraíba, concessão para distribuir energia elétrica.

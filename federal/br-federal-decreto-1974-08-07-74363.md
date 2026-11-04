@@ -1,5 +1,3 @@
-###DEC-074363-0-000-07-08-1974@@@
-
 DECRETO Nº 74.363, DE 7 DE AGOSTO DE 1974.
 
 Concede reconhecimento à Escola de Medicina e Cirurgia de Uberlândia, mantida pela fundação Escola de Medicina e Cirurgia de Uberlândia, com sede na cidade de Uberlândia, Estado de Minas Gerais.

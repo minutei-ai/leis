@@ -1,5 +1,3 @@
-###DEC-048514-0-000-12-07-1960@@@
-
 DECRETO Nº 48.514, DE 12 DE JULHO DE 1960.
 
 Altera o Quadro Pessoal do Serviço de Alimentação da Previdência Social (S.A.P.S.), e dá outras providências.

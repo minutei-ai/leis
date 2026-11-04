@@ -1,5 +1,3 @@
-###MPV-000411-0-000-28-12-2007@@@
-
 MEDIDA PROVISÓRIA Nº 411, DE 28 DE DEZEMBRO DE 2007.
 
 Dispõe sobre o Programa Nacional de Inclusão de Jovens - ProJovem, instituído pela Lei no 11.129, de 30 de junho de 2005, altera a Lei no 10.836, de 9 de janeiro de 2004, e dá outras providências.
@@ -183,5 +181,3 @@ LUIZ INÁCIO LULA DA SILVA
                          Dilma Rousseff
 
                         Luiz Soares Dulci
-
-Este texto não substitui o publicado no DOU de 28.12.2007 - Edição extra.

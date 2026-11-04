@@ -1,5 +1,3 @@
-###MPV-001921-0-000-30-09-1999@@@
-
 Medida provisória Nº 1.921, DE 30 DE Setembro DE 1999.
 
 Altera dispositivos da Lei n.º 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante.

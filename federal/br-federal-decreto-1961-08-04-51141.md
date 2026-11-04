@@ -1,5 +1,3 @@
-###DEC-051141-0-000-04-08-1961@@@
-
 DECRETO Nº 51.141, DE 4 DE AGÔSTO DE 1961.
 
 Concede taxa favorecida de juros para redesconto de “warrant” representativo de gêneros alimentícios quando armazenados pelo produtor.

@@ -1,5 +1,3 @@
-###DEL-001711-0-000-12-11-1979@@@
-
 # Decreto-lei nº 1.711, de 12 de novembro de 1979
 
 Autoriza o parcelamento da Taxa Rodoviária única e dá outras providências.

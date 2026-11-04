@@ -1,5 +1,3 @@
-###DEC-072588-0-000-10-08-1973@@@
-
 Decreto nº 72.588, de 10 de agosto de 1973.
 
 Aprova o Regulamento da Diretoria de Assuntos Especiais, Educação Física e Desportos, do Departamento de Ensino e Pesquisa do Ministério do Exército, e dá outras providências.

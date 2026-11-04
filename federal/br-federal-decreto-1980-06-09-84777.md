@@ -1,5 +1,3 @@
-###DEC-084777-0-000-09-06-1980@@@
-
 Decreto nº 84.777, de 09 de junho de 1980
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO EDUCADORA DE GUAJARÁ-MIRIM LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Guajará-Mirim, Território Federal de Rondônia.

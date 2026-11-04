@@ -1,7 +1,3 @@
-1
-
-###MPV-001290-0-000-01-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.290, DE 1º DE FEVEREIRO DE 1996
 
 Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral.

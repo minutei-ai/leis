@@ -1,5 +1,3 @@
-###DEC-046544-0-000-05-08-1959@@@
-
 DECRETO Nº 46.544, DE 5 DE AGÔSTO DE 1959.
 
 Dispõe sôbre a execução dos serviços no Instituto de Pesquisas Rodoviárias (IPR), do Conselho Nacional de Pesquisas, e dá outras providências.

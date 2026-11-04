@@ -1,5 +1,3 @@
-###DEC-058439-0-000-17-05-1966@@@
-
 DECRETO Nº 58.439, DE 17 DE MAIO DE 1966.
 
 Concede à Indústria Mineira de Calcinação Ltda. autorização para funcionar como emprêsa de mineração.

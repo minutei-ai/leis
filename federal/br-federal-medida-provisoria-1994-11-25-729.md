@@ -1,7 +1,3 @@
-1
-
-###MPV-000729-0-000-25-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 729, DE 25 DE NOVEMBRO DE 1994
 
 Dá nova redação a dispositivos das Leis nºs 8.849, de 28 de janeiro de 1994, e 8.541, de 23 de dezembro de 1992, que alteram a legislação do imposto sobre a renda e proventos de qualquer natureza, e dá outras providências.

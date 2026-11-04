@@ -1,14 +1,12 @@
-###DEC-027960-0-000-05-04-1950@@@
+**DECRETO Nº 27.960, DE 5 DE ABRIL DE 1950.**
 
-<strong>DECRETO Nº 27.960, DE 5 DE ABRIL DE 1950.</strong>
+***Modifica os parágrafos únicos dos artigos 48, 50 e 58 e os artigos 56, 57 e 59 do Decreto nº 10.790, de 9 de novembro de 1942 (Regulamento da Escola de Estado Maior).***
 
-<em><strong>Modifica os parágrafos únicos dos artigos 48, 50 e 58 e os artigos 56, 57 e 59 do Decreto nº 10.790, de 9 de novembro de 1942 (Regulamento da Escola de Estado Maior).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os parágrafos únicos dos artigos 48, 50 e 58 e os artigos 56, 57 e 59 do Decreto nº 10.790, de 9 de novembro de 1942 (Regulamento da Escola de Estado Maior) passam a ter a seguinte redação:
+**Art**. 1º Os parágrafos únicos dos artigos 48, 50 e 58 e os artigos 56, 57 e 59 do Decreto nº 10.790, de 9 de novembro de 1942 (Regulamento da Escola de Estado Maior) passam a ter a seguinte redação:
 
 “Art. 48 ....................................................................................................................................
 
@@ -62,10 +60,10 @@ Art. 59. O julgamento de cada prova traduz-se em graus, variáveis de zero a dez
 
 § 1º e § 2º - Sem alteração”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, 5 de abril de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

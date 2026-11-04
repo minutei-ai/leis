@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5ae6c9f6-2d17-44d4-ae04-99d7439a3126/texto#nowhere)
 
-###DEL-002176-0-000-29-11-1984@@@
-
 # Decreto-lei nº 2.176, de 29 de novembro de 1984
 
 Altera o Decreto-lei nº 2.163, de 19 de setembro de 1984, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal.

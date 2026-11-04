@@ -1,5 +1,3 @@
-###DEC-093992-0-000-02-02-1987@@@
-
 DECRETO N° 93.992, DE 02 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação da subestação de Santa Maria da Vitória, da Companhia de Eletricidade do Estado da Bahia - COELBA, no Estado da Bahia.

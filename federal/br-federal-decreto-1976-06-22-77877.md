@@ -1,5 +1,3 @@
-###DEC-077877-0-000-22-06-1976@@@
-
 DECRETO Nº 77.877, DE 22 DE JUNHO DE 1976.
 
 Transfere o Observatório Nacional, do Ministério da Educação e Cultura, para a Fundação Conselho Nacional de Desenvolvimento Científico e Tecnológico e dá outras providências.

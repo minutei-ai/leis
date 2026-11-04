@@ -1,5 +1,3 @@
-###DEC-002258-0-000-20-06-1997@@@
-
 DECRETO Nº 2.258, DE 20 DE JUNHO DE 1997
 
 Institui o Programa de Racionalização das Unidades Descentralizadas do Governo Federal e dá outras providências.

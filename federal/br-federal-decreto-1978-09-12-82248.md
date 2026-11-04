@@ -1,5 +1,3 @@
-###DEC-082248-0-000-12-09-1978@@@
-
 DECRETO Nº 82.248, DE 12 DE SETEMBRO DE 1978
 
 Cassa concessão outorgada à Rádio Eretã Ltda. para estabelecer, na cidade de Glória de Dourados, Estado de Mato Grosso, uma estação de radiodifusão sonora em onda tropical.

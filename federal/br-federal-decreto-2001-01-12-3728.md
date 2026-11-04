@@ -1,5 +1,3 @@
-###DEC-003728-0-000-12-01-2001@@@
-
 DECRETO Nº 3.728, DE 12 DE JANEIRO DE 2001
 
 Dispõe sobre o prazo a ser adotado nas assunções, renegociações, prorrogações e composições de dívidas, sob o amparo dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata o art. 3º , inciso IV, da Lei nº 10.177, de 12 de janeiro de 2001.

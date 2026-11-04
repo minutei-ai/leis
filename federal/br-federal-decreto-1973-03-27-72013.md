@@ -1,5 +1,3 @@
-###DEC-072013-0-000-27-03-1973@@@
-
 DECRETO Nº 72.013, DE 27 DE MARÇO DE 1973.
 
 Da nova redação a dispositivos do Decreto nº 55.551, de 12 de janeiro de 1965, alterado pelo de nº 71.264, de 20 de outubro de 1972, que regulamentaram a Lei nº 4.440, de 27 de outubro de 1964.

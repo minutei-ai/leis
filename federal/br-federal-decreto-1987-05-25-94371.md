@@ -1,5 +1,3 @@
-###DEC-094371-0-000-25-05-1987@@@
-
 DECRETO Nº 94.371, DE 25 DE MAIO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação de Subestação Transformadora de Distribuição Heliópolis, no Município de Nova Iguaçu, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-058656-0-000-16-06-1966@@@
-
 DECRETO Nº 58.656, DE 16 DE JUNHO DE 1966.
 
 Concede reconhecimento ao Curso de Contador da Faculdade de Ciências Econômicas de Uberlândia, no Estado de Minas Gerais.

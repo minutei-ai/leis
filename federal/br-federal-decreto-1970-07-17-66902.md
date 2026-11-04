@@ -1,5 +1,3 @@
-###DEC-066902-0-000-17-07-1970@@@
-
 Decreto nº 66.902, de 17 de julho de 1970.
 
 Declara caduco o Decreto nº 12.750 de 30 de junho de 1943.

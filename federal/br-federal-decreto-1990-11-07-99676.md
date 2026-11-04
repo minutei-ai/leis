@@ -1,7 +1,3 @@
-1
-
-###DEC-099676-0-000-07-11-1990@@@
-
 DECRETO N° 99.676, DE 7 DE NOVEMBRO DE 1990
 
 Institui o ano de 1991 Ano Nacional da Qualidade e Produtividade, e dá outras providências.

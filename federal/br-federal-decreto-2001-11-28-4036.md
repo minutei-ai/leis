@@ -1,5 +1,3 @@
-###DEC-004036-0-000-28-11-2001@@@
-
 DECRETO Nº 4.036, DE 28 DE NOVEMBRO DE 2001
 
 Dá nova redação ao art 1o e acresce inciso ao Anexo do Decreto no 3.280, de 8 de dezembro de 1999, que dispõe sobre a vinculação de entidades integrantes da Administração Pública Federal indireta, e dá outras providências.

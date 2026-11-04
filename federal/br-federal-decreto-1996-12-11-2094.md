@@ -1,7 +1,3 @@
-1
-
-###DEC-002094-0-000-11-12-1996@@@
-
 DECRETO Nº 2.094, DE 11 DE DEZEMBRO DE 1996.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona e dá outras providências.

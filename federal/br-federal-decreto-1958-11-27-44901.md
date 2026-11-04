@@ -1,5 +1,3 @@
-###DEC-044901-0-000-27-11-1958@@@
-
 DECRETO Nº 44.901, DE 27 DE NOVEMBRO DE 1958.
 
 Dá nova redação ao art. 4º do Decreto nº 37.222, de 27 de abril de 1955.

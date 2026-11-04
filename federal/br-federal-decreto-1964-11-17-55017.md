@@ -1,5 +1,3 @@
-###DEC-055017-0-000-17-11-1964@@@
-
 Decreto nº 55.017, de 17 de novembro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Novo Hamburgo Companhia de Seguros Gerais, inclusive aumento do capital social.

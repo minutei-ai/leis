@@ -1,5 +1,3 @@
-###DEC-056057-0-000-26-04-1965@@@
-
 Decreto nº 56.057, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro Sylvestre Ribeiro Júnior a pesquisar feldspato e mica no município de Caratinga, Estado de Minas Gerais.

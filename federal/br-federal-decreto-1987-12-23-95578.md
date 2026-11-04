@@ -1,5 +1,3 @@
-###DEC-095578-0-000-23-12-1987@@@
-
 DECRETO Nº 95.578, DE 23 DE DEZEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "LOTE 147, DO LOTEAMENTO ITAIPAVAS", classificado como “latifúndio por exploração”, situado nos Municípios de Xinguara e Rio Maria, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92 623, de 02 de maio de 1.986. e dá outras providências.

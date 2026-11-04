@@ -1,7 +1,3 @@
-1
-
-###DEC-001297-0-000-27-10-1994@@@
-
 DECRETO Nº 1.297, DE 27 DE OUTUBRO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

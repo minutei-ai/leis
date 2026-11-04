@@ -1,5 +1,3 @@
-###DEL-003375-0-000-27-06-1941@@@
-
 DECRETO-LEI N. 3.375 – DE 27 DE JUNHO DE 1941
 
 Dispõe sobre o, Chefia, da Sub-Diretoria dos Serviços de Remonta e Veterinária

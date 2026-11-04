@@ -1,7 +1,3 @@
-1
-
-###DEC-000004-0-000-14-01-1991@@@
-
 DECRETO Nº 4, DE 14 DE JANEIRO DE 1991
 
 Fixa, no Ministério da Aeronáutica, os Mínimos de Vagas para Promoção Obrigatória, Referentes ao Ano-base de 1990, nos Diversos Quadros do Corpo de Oficiais da Ativa.

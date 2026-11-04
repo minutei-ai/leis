@@ -1,7 +1,3 @@
-1
-
-###DEC-097840-0-000-19-06-1989@@@
-
 DECRETO N° 97.840, DE 19 DE JUNHO DE 1989
 
 Regulamenta o disposto no art. 3° da Lei n° 7.747, de 4 de abril de 1989, modificada pela Lei n° 7.764, de 2 de maio de 1989.

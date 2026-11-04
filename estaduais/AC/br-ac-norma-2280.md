@@ -1,6 +1,10 @@
 > **LEI Nº 3.148, DE 27 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o termo “acreano” como gentílico oficial do Estado e o acresce ao conjunto de símbolos a que se refere o art. 8º da Constituição Estadual.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o termo “acreano” como gentílico oficial do Estado e o acresce ao conjunto de símbolos a que se refere o art. 8º da Constituição Estadual.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

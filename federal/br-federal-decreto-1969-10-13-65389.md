@@ -1,5 +1,3 @@
-###DEC-065389-0-000-13-10-1969@@@
-
 DECRETO Nº 65.389 - DE 13 DE OUTUBRO DE 1969.
 
 Autoriza a cessão de imóvel ao Clube de Aeronáutica, e dá outras providências.

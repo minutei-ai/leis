@@ -12,8 +12,10 @@ Art. 2° Este Decreto entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia - GO, Estado de Goiás, 12 de abril de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo

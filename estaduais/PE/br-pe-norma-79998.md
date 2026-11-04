@@ -42,4 +42,4 @@ Art. 6º Esta Lei entra em vigor na data da sua publicação.
 
 Presidente
 
-O PROJETO QUE ORIGINOU ESTA LEI É DE AUTORIA DO DEPUTADO ERIBERTO FILHO - PSB<strong>.</strong>
+O PROJETO QUE ORIGINOU ESTA LEI É DE AUTORIA DO DEPUTADO ERIBERTO FILHO - PSB**.**

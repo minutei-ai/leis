@@ -1,5 +1,3 @@
-###DEC-093882-0-000-29-12-1986@@@
-
 DECRETO Nº 93.882, DE 29 DE DEZEMBRO DE 1986
 
 Dispõe sobre o prazo de incorporação da ARSA - Aeroportos do Rio de Janeiro S.A., à Empresa Brasileira de Infra-Estrutura Aeroportuária - INFRAERO, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077487-0-000-27-04-1976@@@
-
 DECRETO Nº 77.487 - DE 27 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão a ser construída por FURNAS - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

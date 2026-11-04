@@ -1,5 +1,3 @@
-###DEL-003951-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.951 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 200$0, à verba que especifica.

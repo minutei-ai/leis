@@ -1,5 +1,3 @@
-###DEL-007235-0-000-08-01-1945@@@
-
 DECRETO-LEI N. 7.235 – DE 8 DE JANEIRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 59.950.000,00, para subscrição de ações do Banco de Crédito da Borracha S.A.

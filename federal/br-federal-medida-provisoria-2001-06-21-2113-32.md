@@ -1,5 +1,3 @@
-###MPV-002113-0-032-21-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.113- 32, DE 21 DE JUNHO DE 2001
 
 Altera a legislação das Contribuições para a Seguridade Social - COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e do Imposto sobre a Renda, e dá outras providências.
@@ -692,10 +690,80 @@ Roberto Brant
 
 ANEXO I
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:209.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Valor dos prêmios oferecidos</span></p></td><td style="width:209.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Valor da taxa de fiscalização</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>até R$ 1.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 1.000,01 a R$ 5.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 5.000,01 a R$ 10.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 10.000,01 a 50.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 50.000,01 a 100.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 100.000,01 a 500.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 500.000,01 a 1.667.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>acima de 1.667.000,01</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 27,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 133,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 267,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 1.333,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 3.333,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 10.667,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 33.333,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 66.667,00</span></p></td></tr></tbody></table>
+Valor dos prêmios oferecidos
+
+Valor da taxa de fiscalização
+
+até R$ 1.000,00
+
+de R$ 1.000,01 a R$ 5.000,00
+
+de R$ 5.000,01 a R$ 10.000,00
+
+de R$ 10.000,01 a 50.000,00
+
+de R$ 50.000,01 a 100.000,00
+
+de R$ 100.000,01 a 500.000,00
+
+de R$ 500.000,01 a 1.667.000,00
+
+acima de 1.667.000,01
+
+R$ 27,00
+
+R$ 133,00
+
+R$ 267,00
+
+R$ 1.333,00
+
+R$ 3.333,00
+
+R$ 10.667,00
+
+R$ 33.333,00
+
+R$ 66.667,00
 
 ANEXO II
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:209.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Valor dos prêmios oferecidos</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">pelo requerente</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span></p></td><td style="width:209.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Valor da remuneração da Caixa</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Econômica Federal</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>até R$ 1.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 1.000,01 a R$ 5.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 5.000,01 a R$ 10.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 10.000,01 a 50.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 50.000,01 a 100.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 100.000,01 a 500.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>de R$ 500.000,01 a 1.667.000,00</span></p><p class="Anexo" style="margin-top:0pt; margin-bottom:0pt; text-indent:0pt"><span>acima de 1.667.000,01</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 20,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 100,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 200,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 1.000,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 2.500,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 8.000,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 25.000,00</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">R$ 50.000,00</span></p></td></tr></tbody></table>
+Valor dos prêmios oferecidos
 
-<br>
+pelo requerente
+
+Valor da remuneração da Caixa
+
+Econômica Federal
+
+até R$ 1.000,00
+
+de R$ 1.000,01 a R$ 5.000,00
+
+de R$ 5.000,01 a R$ 10.000,00
+
+de R$ 10.000,01 a 50.000,00
+
+de R$ 50.000,01 a 100.000,00
+
+de R$ 100.000,01 a 500.000,00
+
+de R$ 500.000,01 a 1.667.000,00
+
+acima de 1.667.000,01
+
+R$ 20,00
+
+R$ 100,00
+
+R$ 200,00
+
+R$ 1.000,00
+
+R$ 2.500,00
+
+R$ 8.000,00
+
+R$ 25.000,00
+
+R$ 50.000,00

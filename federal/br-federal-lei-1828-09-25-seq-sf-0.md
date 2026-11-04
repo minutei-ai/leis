@@ -1,5 +1,3 @@
-###LEI-000000-0-000-25-09-1828@@@
-
 LEI - DE 25 DE SETEMBRO DE 1828
 
 Reduz a dous por cento os direitos de baldeação e reexportação de todas as mercadorias importadas.

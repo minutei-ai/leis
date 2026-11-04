@@ -27,7 +27,6 @@ sha256_markdown: "405ce1401bca80b3911599b2ed38683eaf78305a56347d06b2261725494f0a
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 141, DE 16 DE OUTUBRO DE 2026
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2026/emendaconstitucional-141-16-outubro-2026-800062-publicacaooriginal-181622-pl.html.
 >
-> Este texto não substitui o publicado no DOU de 16.10.2026
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2026-10-16-141.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -133,8 +131,4 @@ Brasília, 16 de outubro de 2026.
 |  |  |  |
 | Deputada Delegada Katarina 3ª Secretária |  | Senadora Ana Paula Lobato 3ª Secretária |
 |  |  |  |
-| Deputado Sergio Souza 4º Secretário |  | Senador Laércio Oliveira 4º Secretário |
-
-Este texto não substitui o publicado no DOU 16.10.2026 - Edição extra
-
-\*
+| Deputado Sergio Souza 4º Secretário |  | Senador Laércio Oliveira 4º Secretário |\*

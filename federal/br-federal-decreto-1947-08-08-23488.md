@@ -1,14 +1,12 @@
-###DEC-023488-0-000-08-08-1947@@@
+**DECRETO Nº 23.488, DE 8 DE AGÔSTO DE 1947.**
 
-<strong>DECRETO Nº 23.488, DE 8 DE AGÔSTO DE 1947.</strong>
+***Aprova, com modificações, as alterações introduzidas nos estatutos da “Atlântica”, Companhia Nacional de Seguros.***
 
-<em><strong>Aprova, com modificações, as alterações introduzidas nos estatutos da “Atlântica”, Companhia Nacional de Seguros.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam aprovadas as alterações introduzidas nos estatutos sociais da “Atlântica”, Companhia de Nacional de Seguros, com sede nesta cidade do Rio de Janeiro, autorizada a funcionar pela Carta Patente nº 244, de 29 de abril de 1935, conforme deliberação da assembléia geral extraordinária de acionistas, realizada a 25 de março de 1947, mediante as condições a abaixo:
+**Art**. 1º Ficam aprovadas as alterações introduzidas nos estatutos sociais da “Atlântica”, Companhia de Nacional de Seguros, com sede nesta cidade do Rio de Janeiro, autorizada a funcionar pela Carta Patente nº 244, de 29 de abril de 1935, conforme deliberação da assembléia geral extraordinária de acionistas, realizada a 25 de março de 1947, mediante as condições a abaixo:
 
 I - Os estatutos são aprovados com as seguintes alterações.
 
@@ -26,16 +24,16 @@ d) 12% para gratificação à Diretoria, desde que o dividendo a distribuir não
 
 e) 10% para um fundo de garantia subsidiária das reservas técnicas;
 
-f) atendida a percentagem prevista na letra <em>a</em> e o restante da distribuição supra, será o saldo destinado a uma reserva para atender ao aumento do capital social.
+f) atendida a percentagem prevista na letra *a* e o restante da distribuição supra, será o saldo destinado a uma reserva para atender ao aumento do capital social.
 
 II - As alterações consignadas na cláusula precedente deverão ser aprovadas em assembléia geral extraordinária de acionistas, dentro do prazo de 60 (sessenta) dias, contados da data da publicação dêste decreto.
 
-<strong>Art</strong>. 2º A sociedade continuará integralmente sujeita às leis e regulamentos vigentes, ou que vierem a vigorar, sôbre o objeto da autorização a que alude o presente decreto.
+**Art**. 2º A sociedade continuará integralmente sujeita às leis e regulamentos vigentes, ou que vierem a vigorar, sôbre o objeto da autorização a que alude o presente decreto.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de agôsto de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo

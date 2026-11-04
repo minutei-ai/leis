@@ -1,5 +1,3 @@
-###DEC-058571-0-000-02-06-1966@@@
-
 decreto nº 58.571, de 2 de junho de 1966.
 
 Declara de utilidade publica o “Fundo Norte-Americano para Assistência Social”, com sede no Estado da Guanabara.

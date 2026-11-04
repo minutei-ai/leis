@@ -1,5 +1,3 @@
-###DEC-047849-0-000-07-03-1960@@@
-
 Decreto nº 47.849, de 7 de março de 1960.
 
 Autoriza a Companhia de Eletricidade São Paulo e Rio a ampliar o seu sistema de transmissão de energia elétrica no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-062396-0-000-13-03-1968@@@
-
 DECRETO Nº 62.396, DE 13 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Sociedade Mineira de Ensino Médico” com sede em Belo Horizonte, Estado de Minas Gerais.

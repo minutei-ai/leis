@@ -1,5 +1,3 @@
-###DEL-006840-0-000-31-08-1944@@@
-
 DECRETO-LEI N. 6.840 – DE 31 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 500.000,00, à verba que especifica

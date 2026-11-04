@@ -1,5 +1,3 @@
-###DEC-050753-0-000-09-06-1961@@@
-
 DECRETO Nº 50.753, DE 9 DE JUNHO DE 1961.
 
 Dispõe sôbre as rendas industriais da Comissão Nacional de Energia Nuclear.

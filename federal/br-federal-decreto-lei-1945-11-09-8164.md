@@ -1,5 +1,3 @@
-###DEL-008164-0-000-09-11-1945@@@
-
 DECRETO-LEI N. 8.164 – DE 9 DE NOVEMBRO DE 1945
 
 Dá competência aos Tribunais Regionais e aos juizes de direito para conhecer de atos dos Prefeitos municipais.

@@ -1,5 +1,3 @@
-###DEC-054650-0-000-29-10-1964@@@
-
 DECRETO Nº 54.650, DE 29 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública o “Instituto Dom Bosco”, com sede em São Paulo, Estado de São Paulo.

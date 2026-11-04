@@ -1,5 +1,3 @@
-###DEC-079652-0-000-04-05-1977@@@
-
 DECRETO Nº 79.652, DE 4 DE MAIO DE 1977.
 
 Concede reconhecimento ao curso de Comunicação Social, da Universidade de Caxias do Sul, com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

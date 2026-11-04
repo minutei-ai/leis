@@ -1,7 +1,3 @@
-1
-
-###DEC-095847-0-000-18-03-1988@@@
-
 DECRETO N° 95.847, DE 18 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA SÃO JOAQUIM", classificado como latifúndio por exploração, situado no Município de Teixeira Soares, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 2 de maio de l986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070485-0-000-09-05-1972@@@
-
 DECRETO Nº 70.485, DE 9 DE MAIO DE 1972.
 
 Torna sem efeito aproveitamento, no Quadro de Pessoal do Ministério da Marinha, de servidores disponíveis do Instituto de Previdência e Assistência dos Servidores do Estado e do Departamento Nacional de Obras de Saneamento.

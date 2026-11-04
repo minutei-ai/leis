@@ -1,5 +1,3 @@
-###DEC-052406-0-000-27-08-1963@@@
-
 DECRETO Nº 52.406, DE 27 DE AGÔSTO DE 1963.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$25.000.000,00, para o fim que especifica.

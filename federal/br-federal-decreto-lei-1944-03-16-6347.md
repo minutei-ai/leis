@@ -1,5 +1,3 @@
-###DEL-006347-0-000-16-03-1944@@@
-
 DECRETO-LEI N. 6.347 – DE 16 DE MARÇO DE 1944
 
 Eleva o vencimento mensal do Diretor da Estrada de Ferro Noroeste do Brasil

@@ -1,5 +1,3 @@
-###DEC-092220-0-000-26-12-1985@@@
-
 Decreto nº 92.220, dE 26 de dezembro de 1985
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Centro de Educação Técnica da Bahia.

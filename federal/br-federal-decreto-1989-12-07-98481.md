@@ -1,5 +1,3 @@
-###DEC-098481-0-000-07-12-1989@@@
-
 DECRETO N° 98.481, DE 07 DE DEZEMBRO DE 1989
 
 Renova a concessão outorgada à REDE RIOGRANDENSE DE EMISSORAS LTDA., para explorar serviço de radiodifusão sonora em onda curta, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

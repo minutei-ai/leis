@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209090)<br>
-
 # DECRETO N° 68.319, DE 26 DE JANEIRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas complementares necessárias à implantação de dispositivo de acesso e retorno no km 253+850m da Rodovia SP-333, no Município de Guarantã, e dá providências correlatas._

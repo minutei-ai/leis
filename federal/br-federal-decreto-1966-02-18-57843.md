@@ -1,5 +1,3 @@
-###DEC-057843-0-000-18-02-1966@@@
-
 DECRETO Nº 57.843, DE 18 DE FEVEREIRO DE 1966.
 
 Institui a “hora de verão” em todo o território nacional.

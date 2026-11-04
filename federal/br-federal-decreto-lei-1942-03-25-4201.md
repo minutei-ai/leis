@@ -1,5 +1,3 @@
-###DEL-004201-0-000-25-03-1942@@@
-
 DECRETO-LEI N. 4.201 – DE 25 DE MARÇO DE 1942
 
 Abre pelo Ministério da Agricultura, o crédito suplementar de réis 30:000$0 à Verba 2 – Material, Consignação III, Subconsignação 40-10-07.

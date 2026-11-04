@@ -1,5 +1,3 @@
-###DEL-005100-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.100 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 18.000,00 para pagamento de gratificação de magistério

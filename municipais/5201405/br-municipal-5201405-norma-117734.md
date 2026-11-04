@@ -10,11 +10,27 @@ Art. 1º Ficam remembrados os Lotes 02 e 03 da Quadra 03 do Loteamento ALL PARK 
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEIS</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 02</td><td style="text-align:center">1.800,00</td></tr><tr><td style="text-align:center">LOTE 03</td><td style="text-align:center">1.800,00</td></tr></tbody></table>
+**IMÓVEIS**
+
+(m²)
+
+LOTE 02
+
+1.800,00
+
+LOTE 03
+
+1.800,00
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><strong>IMÓVEL</strong></td><td style="text-align:center">(m²)</td></tr><tr><td style="text-align:center">LOTE 02/03</td><td style="text-align:center">3.600,00</td></tr></tbody></table>
+**IMÓVEL**
+
+(m²)
+
+LOTE 02/03
+
+3.600,00
 
 Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2021.231.435, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -22,8 +38,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 11 de janeiro de 2023.
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana   <br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana

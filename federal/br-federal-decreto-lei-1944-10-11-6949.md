@@ -1,5 +1,3 @@
-###DEL-006949-0-000-11-10-1944@@@
-
 DECRETO-LEI N. 6.949 – DE 11 DE OUTUBRO DE 1944
 
 Extingue o Conselho de Assistência e Proteção a Menores

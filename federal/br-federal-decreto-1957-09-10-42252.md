@@ -1,14 +1,12 @@
-###DEC-042252-0-000-10-09-1957@@@
+**DECRETO Nº 42.252, DE 10 DE SETEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.252, DE 10 DE SETEMBRO DE 1957.</strong>
+***Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.***
 
-<em><strong>Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item l, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item l, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.1º O regulamento da Escola de Comando e Estado Maior da Aeronáutica, aprovado pelo Decreto número 35.937, de 29 de julho de 1954, fica assim alterado:
+**Art**.1º O regulamento da Escola de Comando e Estado Maior da Aeronáutica, aprovado pelo Decreto número 35.937, de 29 de julho de 1954, fica assim alterado:
 
 “Art.16. As provas do exame de admissão ao Curso de Estado-Maior versarão sobre os seguintes assuntos:
 
@@ -52,12 +50,12 @@ Art.132. O oficial de pôsto superior aos previstos nos artigos 5º e 7º poder�
 
 a) tenha sido promovido como decorrência da Lei nº 2.999, de 11 de dezembro de 1956;
 
-b) Não haja gozado ainda, dos direitos, assegurados pelos artigos citados, letras <em>e</em> e <em>d</em>, respectivamente, e pelo art.12”
+b) Não haja gozado ainda, dos direitos, assegurados pelos artigos citados, letras *e* e *d*, respectivamente, e pelo art.12”
 
-<strong>Art</strong>. 2º. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 10 de setembro de 1957; 136º da Independência e 69da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello

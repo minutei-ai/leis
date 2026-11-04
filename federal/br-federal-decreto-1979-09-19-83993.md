@@ -1,5 +1,3 @@
-###DEC-083993-0-000-19-09-1979@@@
-
 Decreto nº 83.993, de 19 de setembro de 1979.
 
 Constitui a Empresa Brasileira de Notícias, aprova seu Estatuto e dá outras providências.

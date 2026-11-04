@@ -1,5 +1,3 @@
-###DEC-073869-0-000-26-03-1974@@@
-
 DECRETO Nº 73.869, DE 26 DE MARÇO DE 1974.
 
 Concede reconhecimento aos Cursos de Engenharia Civil, de Engenharia Mecânica e de Engenharia Elétrica da Universidade Gama Filho, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

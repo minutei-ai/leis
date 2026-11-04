@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210553)<br>
-
 # DECRETO N° 69.325, DE 22 DE JANEIRO DE 2025
 
 ### _Dispõe, nos termos do artigo 102 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, sobre a aplicação dos recursos destinados ao pagamento de precatórios e sobre os termos e condições para acordos diretos com os credores._

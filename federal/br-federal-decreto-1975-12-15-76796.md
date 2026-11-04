@@ -1,5 +1,3 @@
-###DEC-076796-0-000-15-12-1975@@@
-
 Decreto Nº 76.796, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Civil, da Faculdade General Roberto Lisboa, das Faculdades Reunidas Nuno Lisboa, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

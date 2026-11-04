@@ -1,5 +1,3 @@
-###DEC-005091-0-000-21-05-2004@@@
-
 DECRETO Nº 5.091,  DE 21 DE MAIO DE 2004
 
 Dispõe sobre o Departamento de Engenharia e Construção, do Comando do Exército, e dá outras providências.

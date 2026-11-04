@@ -1,5 +1,3 @@
-###DEL-000220-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 220, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a aceitação pelo Banco Nacional de Crédito Cooperativo S.A. da Nota Promissória Rural prevista no Decreto-lei nº 167, de 14 de fevereiro de 1967.

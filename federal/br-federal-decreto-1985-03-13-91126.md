@@ -1,5 +1,3 @@
-###DEC-091126-0-000-13-03-1985@@@
-
 Decreto nº 91.126, de 13 de março de 1985
 
 Outorga concessão à MOSSORÓ RÁDIO SOCIEDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Alexandria, Estado do Rio Grande do Norte.

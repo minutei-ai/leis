@@ -1,5 +1,3 @@
-###DEC-059801-0-000-19-12-1966@@@
-
 DECRETO Nº 59.801, DE 19 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública a “Associação Instrutora da Juventude Feminina”, com sede em São Paulo, Estado de São Paulo.

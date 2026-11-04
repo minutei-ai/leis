@@ -1,5 +1,3 @@
-###DEC-048616-0-000-25-07-1960@@@
-
 DECRETO Nº 43.616, DE 25 DE JULHO DE 1960
 
 Autoriza o cidadão brasileiro Nelson Caggiano a pesquisar feldspato, no município de São Roque, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-075189-0-000-06-01-1975@@@
-
 DECRETO N° 75.189, DE 6 de JANEIRO DE 1975.
 
 Autoriza a participação das empresas canadenses que menciona em atividades de aerolevantamento compreendidas no Projeto de Pesquisa dos Recursos Minerais da Região Centro-Oeste do Brasil, em consonância com os termos do Acordo Internacional celebrado entre a Agência Canadense de Desenvolvimento Internacional e o Departamento Nacional da Produção Mineral - DNPM, e dá outras providências.

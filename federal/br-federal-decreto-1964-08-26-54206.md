@@ -1,5 +1,3 @@
-###DEC-054206-0-000-26-08-1964@@@
-
 Decreto nº 54.206, de 26 de agôsto de 1964.
 
 Aprova a revisão do Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Industriários, e dá outras providências.

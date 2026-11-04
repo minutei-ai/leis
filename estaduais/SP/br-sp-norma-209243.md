@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209243)<br>
-
 # DECRETO N° 68.409, DE 26 DE MARÇO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Gás Natural São Paulo Sul S/A, as faixas de terra necessárias à passagem de duto de gás natural, no Município de Boituva, e dá providências correlatas._

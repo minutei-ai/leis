@@ -1,5 +1,3 @@
-###DEC-076952-0-000-30-12-1975@@@
-
 DECRETO Nº 76.952, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Turismo da Universidade Católica de Petrópolis, com sede na Cidade de Petrópolis, Estado do Rio de Janeiro.

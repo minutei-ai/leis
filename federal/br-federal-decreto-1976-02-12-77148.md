@@ -1,5 +1,3 @@
-###DEC-077148-0-000-12-02-1976@@@
-
 DECRETO Nº 77.148, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de História da Faculdade de Filosofia, Ciências e Letras, com sede na Cidade de Patos de Minas, Estado de Minas Gerais.

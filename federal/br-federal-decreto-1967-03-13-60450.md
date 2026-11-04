@@ -1,5 +1,3 @@
-###DEC-060450-0-000-13-03-1967@@@
-
 Decreto Nº 60.450, de 13 de março de 1967.
 
 Fixa poderes especiais do Superintendente da Superintendência Nacional do Abastecimento (SUNAB).

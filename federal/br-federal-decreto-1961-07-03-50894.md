@@ -1,5 +1,3 @@
-###DEC-050894-0-000-03-07-1961@@@
-
 DECRETO Nº 50.894, DE 3 DE JULHO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Novo Hamburgo - Companhia de Seguros Gerais.

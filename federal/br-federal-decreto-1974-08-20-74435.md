@@ -1,5 +1,3 @@
-###DEC-074435-0-000-20-08-1974@@@
-
 decreto nº 74.435 - de 20 de agosto de 1974.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciência Econômicas, administrativas, Contábeis e Atuariais, mantida pelo Instituto de Ensino Superior da Região Bragantina, com sede na cidade Bragança Paulista, Estado de São Paulo.

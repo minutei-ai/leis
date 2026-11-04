@@ -1,5 +1,3 @@
-###DEC-067514-0-000-09-11-1970@@@
-
 DECRETO Nº 67.514, DE 9 DE NOVEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 54.524, de 21 de outubro de 1964.

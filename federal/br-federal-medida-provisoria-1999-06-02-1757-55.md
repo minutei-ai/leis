@@ -1,5 +1,3 @@
-###MPV-001757-0-055-02-06-1999@@@
-
 mEDIDA PROVISORIA Nº 1.757-55, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, da outras providências.

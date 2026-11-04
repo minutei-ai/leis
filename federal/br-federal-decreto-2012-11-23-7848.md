@@ -1,5 +1,3 @@
-###DEC-007848-0-000-23-11-2012-PUB-01@@@
-
 DECRETO N° 7.848, DE 23 DE NOVEMBRO DE 2012
 
 Altera o Decreto n° 5.294, de 1° de dezembro de 2004, que fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior.

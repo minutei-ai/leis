@@ -1,5 +1,3 @@
-###DEL-001239-0-000-02-10-1972@@@
-
 # DECRETO-LEi Nº 1.239, DE 2 DE OUTUbrO DE 1972
 
 Acrescenta parágrafo ao artigo 5º do Decreto-lei nº 204, de 27 de fevereiro de 1967, e dispõe sobre financiamento à exportação.

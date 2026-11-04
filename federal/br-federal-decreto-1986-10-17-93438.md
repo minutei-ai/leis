@@ -1,5 +1,3 @@
-###DEC-093438-0-000-17-10-1986@@@
-
 DECRETO Nº 93.438, DE 17 DE OUTUBRO DE 1986.
 
 Revoga o Decreto nº 65.611, de 23 de outubro de 1969.

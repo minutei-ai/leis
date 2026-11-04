@@ -1,5 +1,3 @@
-###DEC-082181-0-000-28-08-1978@@@
-
 Decreto nº 82.181, de 28 de agosto de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Brasileira de Energia Elétrica - CBEE, no Estado do Rio de Janeiro.

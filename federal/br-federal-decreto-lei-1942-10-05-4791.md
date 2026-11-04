@@ -1,5 +1,3 @@
-###DEL-004791-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.791 – DE 5 DE OUTUBRO DE 1942
 
 Institue o Cruzeiro como unidade monetária brasileira, e dá outras providências

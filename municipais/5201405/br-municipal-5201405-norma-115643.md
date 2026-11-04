@@ -18,19 +18,58 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 19 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">ÁREA 01 DA QUADRA 45</td><td style="text-align:center">1.779,09</td></tr><tr><td style="text-align:center">ÁREA PÚBLICA DA QUADRA 46</td><td style="text-align:center">6.618,78</td></tr><tr><td style="text-align:center">AVENIDA BRASIL (PARTE 01)</td><td style="text-align:center">3.228,76</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+ÁREA 01 DA QUADRA 45
+
+1.779,09
+
+ÁREA PÚBLICA DA QUADRA 46
+
+6.618,78
+
+AVENIDA BRASIL (PARTE 01)
+
+3.228,76
 
 SITUAÇÃO INTERMEDIÁRIA REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">ÁREA 01 DA QUADRA 45 / AVENIDA BRASIL (PARTE 01) / ÁREA PÚBLICA DA QUADRA 46</td><td style="text-align:center">11.626,63</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+ÁREA 01 DA QUADRA 45 / AVENIDA BRASIL (PARTE 01) / ÁREA PÚBLICA DA QUADRA 46
+
+11.626,63
 
 SITUAÇÃO PROPOSTA DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">ÁREA 01 – QUADRA 46</td><td style="text-align:center">3.949,53</td></tr><tr><td style="text-align:center">ÁREA 02 – QUADRA 46</td><td style="text-align:center">4.130,54</td></tr><tr><td style="text-align:center">ÁREA 03 – QUADRA 46</td><td style="text-align:center">3.061,98</td></tr><tr><td style="text-align:center">ÁREA 04 – QUADRA 46</td><td style="text-align:center">484,58</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+ÁREA 01 – QUADRA 46
+
+3.949,53
+
+ÁREA 02 – QUADRA 46
+
+4.130,54
+
+ÁREA 03 – QUADRA 46
+
+3.061,98
+
+ÁREA 04 – QUADRA 46
+
+484,58

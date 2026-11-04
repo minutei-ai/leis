@@ -1,5 +1,3 @@
-###DEC-091134-0-000-13-03-1985@@@
-
 Decreto nº 91.134, de 13 de março de 1985
 
 Outorga concessão à RADIODIFUSÃO E COMUNICAÇÕES ABC LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Araguaína, Estado de Goiás.

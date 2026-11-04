@@ -1,5 +1,3 @@
-###DEC-061758-0-000-23-11-1967@@@
-
 DECRETO Nº 61.758, DE 23 DE NOVEMBRO DE 1967.
 
 Concede à “Pan American World Airways Inc.” autorização para continuar a funcionar no Brasil.

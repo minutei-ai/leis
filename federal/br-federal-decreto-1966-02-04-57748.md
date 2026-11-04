@@ -1,5 +1,3 @@
-###DEC-057748-0-000-04-02-1966@@@
-
 DECRETO Nº 57.748, DE 4 DE FEVEREIRO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno em Santa Vitória do Palmar - RS, destinado ao Ministério da Guerra.

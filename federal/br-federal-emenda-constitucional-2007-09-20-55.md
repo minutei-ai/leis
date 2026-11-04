@@ -1,10 +1,8 @@
-###EMC-000055-0-000-20-09-2007@@@
+**EMENDA CONSTITUCIONAL Nº 55, DE 20 DE SETEMBRO DE 2007**
 
-<strong>EMENDA CONSTITUCIONAL Nº 55, DE 20 DE SETEMBRO DE 2007</strong>
+    ***Altera o art. 159 da Constituição Federal, aumentando a entrega de recursos pela União ao Fundo de Participação dos Municípios. AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:***
 
-    <em><strong>Altera o art. 159 da Constituição Federal, aumentando a entrega de recursos pela União ao Fundo de Participação dos Municípios. AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:</strong></em>
-
-    <strong>Art.</strong> 1º O art. 159 da Constituição Federal passa a vigorar com as seguintes alterações:
+    **Art.** 1º O art. 159 da Constituição Federal passa a vigorar com as seguintes alterações:
 
   "Art. 159 ..................................................................................
 
@@ -16,11 +14,11 @@
 
   ..............................................................................................." (NR)
 
-    <strong>Art.</strong> 2º No exercício de 2007, as alterações do art. 159 da Constituição Federal previstas nesta Emenda Constitucional somente se aplicam sobre a arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados realizada a partir de 1º de setembro de 2007.
+    **Art.** 2º No exercício de 2007, as alterações do art. 159 da Constituição Federal previstas nesta Emenda Constitucional somente se aplicam sobre a arrecadação dos impostos sobre renda e proventos de qualquer natureza e sobre produtos industrializados realizada a partir de 1º de setembro de 2007.
 
-    <strong>Art.</strong> 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+    **Art.** 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
-<strong>Mesa da Câmara dos Deputados</strong>                                   <strong>Mesa do Senado Federal</strong>
+**Mesa da Câmara dos Deputados**                                   **Mesa do Senado Federal**
 
 Deputado Arlindo Chinaglia                                              Senador Renan Calheiros
 
@@ -49,5 +47,3 @@ Deputado Waldemir Moka                       Senador César
 Deputado José Carlos Machado         Senador Magno Malta
 
        4º Secretário       4º Secretário
-
-    Este texto não substitui o publicado no DOU 21.9.2007

@@ -1,5 +1,3 @@
-###DEC-050964-0-000-17-07-1961@@@
-
 DECRETO Nº 50.964, de 17 de Julho de 1961.
 
 Declara públicas, de uso comum, do domínio da União as águas do Rio denominado Guine-Eleutério, Eleutério e Eleutério ou das Pedras, respectivamente nos seus trechos superior, médio e inferior.

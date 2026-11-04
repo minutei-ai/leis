@@ -1,5 +1,3 @@
-###DEC-055816-0-000-08-03-1965@@@
-
 DECRETO Nº 55.816, DE 8 DE MARÇO DE 1965.
 
 Giustina do Brasil S.A. - Autorização para operar com entidades oficiais de crédito público da União e dos Estados.

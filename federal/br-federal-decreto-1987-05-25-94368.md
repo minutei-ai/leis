@@ -1,5 +1,3 @@
-###DEC-094368-0-000-25-05-1987@@@
-
 DECRETO Nº 94.368, DE 25 DE MAIO DE 1987.
 
 Autoriza o Nederlandsche Middenstandsbank NV, como sucessor do Banco NMB Sudamericano, a funcionar no Brasil, e dá outras providências.

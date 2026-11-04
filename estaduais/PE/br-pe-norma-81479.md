@@ -43,24 +43,37 @@ BIANCA FERREIRA TEIXEIRA
 GRATIFICAÇÃO DE MERGULHADOR OPERACIONAL - SÍMBOLO GMOp (AC)
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="374" valign="top" style="width:280.4pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">DENOMINAÇÃO</span></p></td><td width="136" valign="top" style="width:102.1pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QUANTITATIVO</span></p></td><td width="94" valign="top" style="width:70.55pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VALOR</span></p></td></tr><tr><td width="374" valign="top" style="width:280.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Gratificação de Mergulhador Operacional - GMOp</span></p></td><td width="136" valign="top" style="width:102.1pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+DENOMINAÇÃO
+
+</td><td width="136" valign="top" style="width:102.1pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+QUANTITATIVO
+
+</td><td width="94" valign="top" style="width:70.55pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+VALOR
+
+</td></tr><tr><td width="374" valign="top" style="width:280.4pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+Gratificação de Mergulhador Operacional - GMOp
+
+</td><td width="136" valign="top" style="width:102.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">60</span></p></td><td width="94" valign="top" style="width:70.55pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+60
+
+</td><td width="94" valign="top" style="width:70.55pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 2.525,00</span></p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+R$ 2.525,00
+
+</td></tr></tbody></table>
 
 ”

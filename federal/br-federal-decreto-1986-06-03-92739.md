@@ -1,5 +1,3 @@
-###DEC-092739-0-000-03-06-1986@@@
-
 DECRETO Nº 92.739, DE 3 DE JUNHO DE 1986
 
 Prorroga o prazo de vigência do Decreto nº 91.404, de 5 de julho de 1985, que dispõe sobre medidas de contenção de despesas nas entidades da Administração Indireta, e dá outras providências.

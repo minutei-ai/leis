@@ -1,5 +1,3 @@
-###DEC-074495-0-000-04-09-1974@@@
-
 DECRETO Nº 74.495, DE 4 DE SETEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Educação Artística, como transformação do curso de Desenho e Plástica da Faculdade de Ciências, Letras e Educação, mantida pela Associação Prudentina de Educação e Cultura, com sede na cidade de Presidente Prudente, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-067038-0-000-12-08-1970@@@
-
 Decreto nº 67.038, de 12 de agôsto de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - da Universidade Federal do Rio de Janeiro, cargos originários do Departamento Administrativo do Pessoal Civil.

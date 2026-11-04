@@ -1,5 +1,3 @@
-###DEC-078940-0-000-15-12-1976@@@
-
 DECRETO Nº 78.940, DE 15 DE DEZEMBRO DE 1976.
 
 Autoriza o Ministro da Fazenda contratar operação externa e dá outras providências.

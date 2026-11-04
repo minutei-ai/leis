@@ -1,7 +1,3 @@
-1
-
-###DEC-098203-0-000-27-09-1989@@@
-
 DECRETO N° 98.203, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “LOTES 24, 38, 46, 61, 62, 73, 80 e 93, do LOTEAMENTO NOVA VIDA/MOEDA, situados no Município de Araguatins, Estado do Tocantins, e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-062275-0-000-19-02-1968@@@
-
 DECRETO Nº 62.275, DE 19 DE FEVEREIRO DE 1968.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Industria e do Comércio.

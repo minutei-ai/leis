@@ -1,5 +1,3 @@
-###MPV-001985-0-031\-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-31, DE 28 de agosto DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

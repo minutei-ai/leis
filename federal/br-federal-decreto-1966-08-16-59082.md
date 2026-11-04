@@ -1,5 +1,3 @@
-###DEC-059082-0-000-16-08-1966@@@
-
 DECRETO Nº 59.082, DE 16 DE AGôSTO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada nos Municípios de Bauyex e Santa Rita, no Estado da Paraíba.

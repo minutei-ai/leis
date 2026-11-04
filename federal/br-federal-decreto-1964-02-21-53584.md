@@ -1,5 +1,3 @@
-###DEC-053584-0-000-21-02-1964@@@
-
 DECRETO Nº 53.584, DE 21 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre a uniformização e contrôle dos preços de venda de medicamentos em tôdas as capitais de Estados e Territórios Federais.

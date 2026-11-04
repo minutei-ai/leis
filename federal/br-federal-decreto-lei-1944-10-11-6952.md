@@ -1,5 +1,3 @@
-###DEL-006952-0-000-11-10-1944@@@
-
 DECRETO-LEI N. 6.952 – DE 11 DE OUTUBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 2.025,80 para pagamento de gratificação de magistério

@@ -1,5 +1,3 @@
-###DEC-062485-0-000-29-03-1968@@@
-
 DECRETO Nº 62.485, DE 29 DE MARÇO DE 1968.
 
 Altera o Decreto nº 62.256, de 12 de fevereiro de 1968.

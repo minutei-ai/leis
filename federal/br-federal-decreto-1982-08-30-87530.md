@@ -1,5 +1,3 @@
-###DEC-087530-0-000-30-08-1982@@@
-
 Decreto nº 87.530, de 30 de agosto de 1982
 
 Autoriza a Petrobrás Mineração S.A. - PETROMISA a proceder ao aumento do limite de seu Capital Social.

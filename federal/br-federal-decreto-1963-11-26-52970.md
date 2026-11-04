@@ -1,5 +1,3 @@
-###DEC-052970-0-000-26-11-1963@@@
-
 DECRETO Nº 52.970, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia de Mineração Rio Acima a pesquisar minério de ferro, manganês e ocre, no município de Santa Bárbara, Estado de Minas Gerais.

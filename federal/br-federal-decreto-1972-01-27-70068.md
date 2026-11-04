@@ -1,5 +1,3 @@
-###DEC-070068-0-000-27-01-1972@@@
-
 DECRETO Nº 70.068, DE 27 DE JANEIRO DE 1972.
 
 Concede recolhimento ao Curso de Mecânica de Máquinas, da Faculdade de Engenharia de Operação "Bras Cubas", com sede em Mogi das Cruzes, SP.

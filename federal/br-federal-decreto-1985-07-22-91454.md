@@ -1,5 +1,3 @@
-###DEC-091454-0-000-22-07-1985@@@
-
 DECRETO Nº 91.454, DE 22 DE JULHO DE 1985
 
 Modifica o Decreto nº 83.841, de 14 de agosto de 1979, ampliando a delegação de competência ao Ministério das Minas e Energia, para atos relativos à concessão de lavra mineral.

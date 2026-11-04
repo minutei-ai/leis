@@ -1,5 +1,3 @@
-###DEC-003785-0-000-06-04-2001@@@
-
 DECRETO Nº 3.785, DE 6 DE ABRIL DE 2001
 
 Dispõe sobre a dissolução, liquidação e extinção das Centrais de Abastecimento da Amazônia S/A - CEASA/AM.

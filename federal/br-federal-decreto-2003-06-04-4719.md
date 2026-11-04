@@ -1,8 +1,14 @@
-###DEC-004719-0-000-04-06-2003@@@
-
 [DECRETO Nº 4.719, DE 4 DE MAIO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.719-2003?OpenDocument)
 
-<table cellspacing="0" cellpadding="0" style="width:100%; margin-bottom:0pt"><tbody><tr><td style="width:50%; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-family:'Arial           '; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:50%; vertical-align:middle"><p class="NormalWeb" style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span style="font-family:Arial; color:#800000">Promulga o Acordo sobre Arbi</span><span style="font-family:Arial; color:#800000">tragem Comercial Internacional do Mercosu</span><span style="font-family:Arial">l.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="width:100%; margin-bottom:0pt"><tbody><tr><td style="width:50%; vertical-align:middle">
+
+&nbsp;
+
+</td><td style="width:50%; vertical-align:middle">
+
+Promulga o Acordo sobre Arbitragem Comercial Internacional do Mercosul.
+
+</td></tr></tbody></table>
 
         O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso VIII, da Constituição,
 
@@ -20,12 +26,9 @@
 
         Brasília, 4 de junho de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Celso Luiz Nunes Amorim
+LUIZ INÁCIO LULA DA SILVA
 
-Este texto não substitui o publicado no D.O.U. de 5.6.2003
-
-ACORDO SOBRE ARBITRAGEM COMERCIAL INTERNACIONAL DO MERCOSUL
+Celso Luiz Nunes AmorimACORDO SOBRE ARBITRAGEM COMERCIAL INTERNACIONAL DO MERCOSUL
 
         A República Argentina, a República Federativa do Brasil, a República do Paraguai e a República Oriental do Uruguai, doravante denominados "Estados-Partes";
 

@@ -1,5 +1,3 @@
-###MPV-002101-0-027-27-12-2000@@@
-
 medida provisória nº 2.101-27, de 27 de dezembro de 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047660-0-000-19-01-1960@@@
-
 Decreto nº 47.660, de 19 de janeiro de 1960.
 
 Concede autorização para o funcionamento de curso.

@@ -1,5 +1,3 @@
-###DEL-003143-0-000-25-03-1941@@@
-
 DECRETO-LEI N. 3.143 – DE 25 DE MARÇO DE 1941
 
 Permite no corrente ano a realização de novas provas dos concursos de habilitação ou exames vestibulares.

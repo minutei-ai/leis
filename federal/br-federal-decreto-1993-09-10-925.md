@@ -1,7 +1,3 @@
-1
-
-###DEC-000925-0-000-10-09-1993@@@
-
 DECRETO N° 925, DE 10 DE SETEMBRO DE 1993
 
 Dispõe sobre a cessão de servidores de órgãos e entidades da Administração Pública Federal.

@@ -1,5 +1,3 @@
-###DEC-046255-0-000-19-06-1959@@@
-
 DECRETO Nº 46.255, DE 19 DE JUNHO DE 1959.
 
 Dispõe sôbre as nomeações para Quadro do Instituto de Aposentadoria e Pensões dos Bancários.

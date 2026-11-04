@@ -1,5 +1,3 @@
-###DEC-072028-0-000-29-03-1973@@@
-
 decreto nº 72.028, de 29 de março de 1973.
 
 Concede permissão, em caráter permanente, à empresa Fiação e Tecelagem São José S.A., com fábrica em Barbacena, no Estado de Minas Gerais, para funcionar aos domingos e feriados civis e religiosos.

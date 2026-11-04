@@ -1,5 +1,3 @@
-###DEC-071818-0-000-07-02-1973@@@
-
 DECRETO Nº 71.818, 7 DE FEVEREIRO DE 1973.
 
 Dispõe sobre a utilização de Grupos-Tarefa no Ministério da Saúde.

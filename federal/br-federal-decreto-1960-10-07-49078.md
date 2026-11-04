@@ -1,5 +1,3 @@
-###DEC-049078-0-000-07-10-1960@@@
-
 DECRETO Nº 49.078, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza a Prefeitura Municipal de Santo Antônio da Alegria, Estado de São Paulo, a construir uma linha de transmissão e a estabelecer novo sistema de distribuição.

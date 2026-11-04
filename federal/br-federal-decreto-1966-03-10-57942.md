@@ -1,5 +1,3 @@
-###DEC-057942-0-000-10-03-1966@@@
-
 DECRETO Nº 57.942, DE 10 DE MARÇO DE 1966.
 
 Promulga o Acôrdo sôbre privilégios e Imunidades da Organização dos Estados Americanos.

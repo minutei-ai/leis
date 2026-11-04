@@ -1,5 +1,3 @@
-###DEC-085212-0-000-29-09-1980@@@
-
 Decreto nº 85.212, de 29 de Setembro de 1980
 
 Cassa a concessão outorgada à Rádio Televisão Brasil Oeste Ltda., para estabelecer na cidade de Corumbá, Estado de Mato Grosso do Sul, uma estação de radiodifusão sonora em onda tropical.

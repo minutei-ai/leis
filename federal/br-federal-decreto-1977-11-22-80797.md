@@ -1,5 +1,3 @@
-###DEC-080797-0-000-22-11-1977@@@
-
 DECRETO Nº 80.797, DE 22 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Topografia, da Escola Superior de Agricultura de Mossoró , com sede na cidade de Mossoró , Estado do Rio Grande do Norte.

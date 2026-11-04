@@ -1,5 +1,3 @@
-###DEC-007168-0-000-05-05-2010@@@
-
 DECRETO Nº 7.168, DE 5 DE MAIO DE 2010.
 
 Dispõe sobre o Programa Nacional de Segurança da Aviação Civil Contra Atos de Interferência Ilícita (PNAVSEC).

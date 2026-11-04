@@ -1,5 +1,3 @@
-###DEL-002278-0-000-19-11-1985@@@
-
 # Decreto-lei nº 2.278, de 19 de novembro de 1985.
 
 Altera o artigo 1º do Decreto-lei nº 1.477, de 26 de agosto de 1976, e dá outras providências.

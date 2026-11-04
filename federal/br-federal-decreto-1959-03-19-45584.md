@@ -1,5 +1,3 @@
-###DEC-045584-0-000-19-03-1959@@@
-
 Decreto nº 45.584, de 19 de março de 1959.
 
 Outorga concessão à Rádio Progresso de Ijuí Limitada para instalar uma estação radiodifusora.

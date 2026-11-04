@@ -1,5 +1,3 @@
-###DEC-007638-0-000-08-12-2011-PUB-01@@@
-
 DECRETO Nº 7.638, DE 8 DE DEZEMBRO DE 2011.
 
 Altera o Decreto no 7.496, de 8 de junho de 2011, que institui o Plano Estratégico de Fronteiras

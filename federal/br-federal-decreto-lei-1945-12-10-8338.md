@@ -1,5 +1,3 @@
-###DEL-008338-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.338 – DE 10 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 2.600,00, à verba que especifica.

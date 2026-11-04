@@ -1,5 +1,3 @@
-###DEC-073031-0-000-30-10-1973@@@
-
 DECRETO Nº 73.031, DE 30 DE OUTUBRO DE 1973.
 
 Cria o Serviço de Pronto Socorro da Previdência Social.

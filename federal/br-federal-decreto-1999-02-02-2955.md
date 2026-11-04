@@ -1,5 +1,3 @@
-###DEC-002955-0-000-02-02-1999@@@
-
 DECRETO Nº 2.955, DE 2 DE FEVEREIRO DE 1999.
 
 Dispõe sobre o Certificado Financeiro do Tesouro - CFT, definindo-lhe as características financeiras, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050766-0-000-09-06-1961@@@
-
 DECRETO Nº 50.766, DE 9 JUNHO DE 1961.
 
 Altera dispositivo do Decreto nº 50.293 de 23 de fevereiro de 1961.

@@ -1,5 +1,3 @@
-###DEC-007713-0-000-03-04-2012-PUB-01@@@
-
 DECRETO Nº 7.713, DE 3 DE ABRIL DE 2012
 
 Estabelece a aplicação de margem de preferência nas licitações realizadas no âmbito da Administração Pública Federal para aquisição de fármacos e medicamentos descritos no Anexo I, para fins do disposto no art. 3º da Lei no 8.666, de 21 de junho de 1993.

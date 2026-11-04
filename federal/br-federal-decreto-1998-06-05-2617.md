@@ -1,5 +1,3 @@
-###DEC-002617-0-000-05-06-1998@@@
-
 DECRETO Nº 2.617, DE 5 DE JUNHO DE 1998
 
 Dispõe sobre a composição do capital de empresas prestadoras de serviços de telecomunicações.

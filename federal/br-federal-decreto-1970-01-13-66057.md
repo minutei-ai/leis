@@ -1,5 +1,3 @@
-###DEC-066057-0-000-13-01-1970@@@
-
 DECRETO Nº 66.057 - DE 13 DE JANEIRO DE 1970
 
 Concede a J. de Augustinis & Cia. Ltda. o direito de lavrar bauxita e argila, no município de Poços de Caldas, Estado de Minas Gerais.

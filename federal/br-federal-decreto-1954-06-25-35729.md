@@ -1,18 +1,16 @@
-###DEC-035729-0-000-25-06-1954@@@
+**DECRETO Nº 35.729, DE 25 DE JUNHO DE 1954.**
 
-<strong>DECRETO Nº 35.729, DE 25 DE JUNHO DE 1954.</strong>
+***Institui, no Ministério da Fazenda, a Comissão Executiva da Indústria de Material Automobilístico.***
 
-<em><strong>Institui, no Ministério da Fazenda, a Comissão Executiva da Indústria de Material Automobilístico.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no art. 1º do Decreto nº 29.806,de 27 de julho de 1951,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no art. 1º do Decreto nº 29.806,de 27 de julho de 1951,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**.1 º Fica instituída no Ministério da Fazenda, diretamente subordinada ao Ministério de Estado, a Comissão Executiva da Indústria de Material Automobilístico - (CEIMA).
 
-<strong>Art</strong>.1 º Fica instituída no Ministério da Fazenda, diretamente subordinada ao Ministério de Estado, a Comissão Executiva da Indústria de Material Automobilístico - (CEIMA).
+**Art**. 2º A CEIMA será composta de oito membros, nomeados pelo Presidente da República, na forma do art. 6º.
 
-<strong>Art</strong>. 2º A CEIMA será composta de oito membros, nomeados pelo Presidente da República, na forma do art. 6º.
-
-<strong>Art</strong>. 3º A CEIMA terá por finalidade:
+**Art**. 3º A CEIMA terá por finalidade:
 
 a) - promover e coordenar estudos referentes a: nomenclatura, revisão de tarifas aduaneiras, classificação de mercadorias por categorias cambiais para importação, normalização de materiais, coleção de tipos, preparo de mão de obra especializada e de técnicos, suprimento de matérias primas e de bens de produção, estatistícas, censo industrial, medidas tributárias e legislativas, mercado, custo de produçâo, mostras e exposições, propostas de novas indústrias, incentivos, catálogos e publicações, novas linhas de fabricação, padrões de qualidade e outros assuntos de interêsse da indústria de material automobilístico;
 
@@ -28,7 +26,7 @@ f) colaborar, quando solicitada, com os estabelecimentos governamentais de créd
 
 g) fazer o registro das emprêsas produtoras de material automobilístico.
 
-<strong>Art</strong>. 4º Compete privativamente a Presidente da Comissão:
+**Art**. 4º Compete privativamente a Presidente da Comissão:
 
 a) - superintender e dirigir, administrativa e tecnicamente, todos os trabalhos da Comissão;
 
@@ -36,15 +34,15 @@ b) promover e coordenar tôdas as questões pertinentes à indústria nacional d
 
 c) presidir as sessões do Plenário do Conselho, cabendo-lhes o voto de qualidade, no caso do empate, e o direito de veto das resoluções ou decisões do Conselho, sempre que julgá-las contrárias aos interêsses nacionais ou ao bem público.
 
-<strong>Art</strong>. 5º A Comissão será composta de representantes dos seguintes órgãos e atividades: Carteira de Comércio Exterior do Banco do Brasil, Banco Nacional do Desenvolvimento Econômico, Institutos de Tecnologia, comércio importador de material automobilístico, indústria de veículos a motor, indústria de peças para veículos a motor e indústria de aço.
+**Art**. 5º A Comissão será composta de representantes dos seguintes órgãos e atividades: Carteira de Comércio Exterior do Banco do Brasil, Banco Nacional do Desenvolvimento Econômico, Institutos de Tecnologia, comércio importador de material automobilístico, indústria de veículos a motor, indústria de peças para veículos a motor e indústria de aço.
 
-<strong>Art</strong>. 6º As funções dos membros da Comissão são consideradas de serviço público relevante, não remuneradas, e providas por escolha do Presidente da República mediante lista tríplice apresentada pelo Ministro da Fazenda, sempre que se tratar de representantes de órgãos governamentais, e pelas respectivas associações de classe, nos demais casos (representantes do comércio e da indústria.)
+**Art**. 6º As funções dos membros da Comissão são consideradas de serviço público relevante, não remuneradas, e providas por escolha do Presidente da República mediante lista tríplice apresentada pelo Ministro da Fazenda, sempre que se tratar de representantes de órgãos governamentais, e pelas respectivas associações de classe, nos demais casos (representantes do comércio e da indústria.)
 
 Parágrafo primeiro. O cargo de Presidente é da livre nomeação do Presidente da República.
 
 Parágrafo segundo. Os demais membros da Comissão serão nomeados por dois anos, podendo haver recondução, satisfeitas as formalidades previstas neste artigo.
 
-<strong>Art</strong>. 7º Compete à Comissão:
+**Art**. 7º Compete à Comissão:
 
 a) pronunciar-se sôbre tôdas as questões relativas à indústria nacional de material automobilístico, antes de serem submetidas à decisão do Presidente da República;
 
@@ -52,23 +50,23 @@ b) manifestar-se sôbre quaisquer assuntos relativos à competência da Comissã
 
 c) sugerir medidas convenientes ao bom desempenho das tarefas da Comissão.
 
-<strong>Art</strong>. 8º As decisões e resoluções da Comissão serão tomadas por maioria de votos, presentes o Presidente e no mínimo quatro dos seus membros.
+**Art**. 8º As decisões e resoluções da Comissão serão tomadas por maioria de votos, presentes o Presidente e no mínimo quatro dos seus membros.
 
 Parágrafo 1º. Do veto do Presidente da Comissão caberá recursos, dentro de dez dias para o Ministro da Fazenda, o qual poderá ser interposto por qualquer dos membros presentes.
 
 Parágrafo segundo. Das decisões ou resoluções da CEIMA caberá recurso suspensivo para o Ministro da Fazenda desde que impetrado no prazo de 15 dias da publicação do ato recorrido, sem prejuízo do pedido de reconsideração a mesma Comissão.
 
-<strong>Art</strong>. 9º A Comissão terá uma Secretaria diretamente subordinada ao Presidente.
+**Art**. 9º A Comissão terá uma Secretaria diretamente subordinada ao Presidente.
 
-<strong>Art</strong>. 10. A Comissão poderá estabelecer sub-comissões técnicas, que serão órgãos especializados, destinados aos estudos de natureza técnica e econômica, pertinentes à indústria de material automobilístico.
+**Art**. 10. A Comissão poderá estabelecer sub-comissões técnicas, que serão órgãos especializados, destinados aos estudos de natureza técnica e econômica, pertinentes à indústria de material automobilístico.
 
-<strong>Art</strong>. 11. Todos os órgãos da Administração Federal deverão prestar à CEIMA a cooperação que lhes fôr solicitada.
+**Art**. 11. Todos os órgãos da Administração Federal deverão prestar à CEIMA a cooperação que lhes fôr solicitada.
 
-<strong>Art</strong>. 12. O Ministro da Fazenda tomará as medidas legais necessárias para pronta instalação e funcionamento da CEIMA.
+**Art**. 12. O Ministro da Fazenda tomará as medidas legais necessárias para pronta instalação e funcionamento da CEIMA.
 
 Rio de Janeiro, 25 de junho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Osvaldo Aranha
 

@@ -1,5 +1,3 @@
-###DEC-053092-0-000-09-12-1963@@@
-
 DECRETO Nº 53.092, DE 9 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre função considerada de caráter ou interêsse militar, e dá outras providências.

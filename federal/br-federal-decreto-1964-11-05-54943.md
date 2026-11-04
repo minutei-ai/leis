@@ -1,5 +1,3 @@
-###DEC-054943-0-000-05-11-1964@@@
-
 DECRETO Nº 54.943, DE 5 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Flodoaldo Pontes Pinto a pesquisar cassiterita, no município de Pôrto Velho, Território Federal de Rondônia.

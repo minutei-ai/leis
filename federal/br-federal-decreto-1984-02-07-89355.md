@@ -1,5 +1,3 @@
-###DEC-089355-0-000-07-02-1984@@@
-
 Decreto nº 89.355, de 07 de fevereiro de 1984
 
 Revoga a concessão outorgada à RÁDIO TAMANDARÉ S.A., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Recife, Estado de Pernambuco.

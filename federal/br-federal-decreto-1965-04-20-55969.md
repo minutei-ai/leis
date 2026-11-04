@@ -1,5 +1,3 @@
-###DEC-055969-0-000-20-04-1965@@@
-
 DECRETO Nº 55.969, de 20 DE ABRIL DE 1965.
 
 Autoriza Tanus Jorge Bastani a comprar pedras preciosas.

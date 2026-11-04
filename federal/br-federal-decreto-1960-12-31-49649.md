@@ -1,5 +1,3 @@
-###DEC-049649-0-000-31-12-1960@@@
-
 decreto nº 49.649, de 31 de dezembro de 1960.
 
 Concede à Siderúrgica J.L. Aliperti S.A. autorização para funcionar como emprêsa de mineração.

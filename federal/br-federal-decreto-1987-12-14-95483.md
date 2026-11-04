@@ -1,5 +1,3 @@
-###DEC-095483-0-000-14-12-1987@@@
-
 DECRETO Nº 95.483, DE 14 DE DEZEMBRO DE 1987
 
 Outorga concessão à SOCIEDADE ZONA SUL DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Capão do Leão, Estado do Rio Grande do Sul.

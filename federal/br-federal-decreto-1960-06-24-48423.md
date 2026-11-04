@@ -1,5 +1,3 @@
-###DEC-048423-0-000-24-06-1960@@@
-
 DECRETO Nº 48.423, DE 24 DE junho DE 1960.
 
 Amplia à zona de concessão do Estado do Rio de Janeiro, e dá outras providências.

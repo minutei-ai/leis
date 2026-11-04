@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211115)<br>
-
 # LEI N° 18.160, DE 27 DE JUNHO DE 2025
 
 ## (Projeto de lei n° 3/2024, da Deputada Carla Morando - PSDB)

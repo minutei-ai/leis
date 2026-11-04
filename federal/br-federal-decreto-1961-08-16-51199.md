@@ -1,5 +1,3 @@
-###DEC-051199-0-000-16-08-1961@@@
-
 DECRETO Nº 51.199, DE 16 DE AGÔSTO DE 1961.
 
 Cria o Consulado de carreira do Brasil em Nairobi, Quênia.

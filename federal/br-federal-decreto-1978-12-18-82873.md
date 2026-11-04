@@ -1,5 +1,3 @@
-###DEC-082873-0-000-18-12-1978@@@
-
 Decreto nº 82.873, de 18 de dezembro de 1978
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras necessárias à implantação do campus da Universidade Federal de Sergipe, no Município de São Cristovão, Estado de Sergipe.

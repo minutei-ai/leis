@@ -1,6 +1,7 @@
 DECRETO Nº 10.307, DE 24 DE AGOSTO DE 2023
 
-Dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e designa essa área como Rede de Contratações – REDECON no Poder Executivo estadual.<br>
+Dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e designa essa área como Rede de Contratações – REDECON no Poder Executivo estadual.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON no Poder Executivo estadual.~~
@@ -9,19 +10,22 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º Este Decreto dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e designa essa área como Rede de Contratações – REDECON, com suas regras e suas diretrizes, no Poder Executivo estadual.<br>
+Art. 1º Este Decreto dispõe sobre o Sistema Estruturador das Redes de Gestão – SIGES, criado pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e designa essa área como Rede de Contratações – REDECON, com suas regras e suas diretrizes, no Poder Executivo estadual.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 1º Este Decreto dispõe sobre o Sistema Estruturador de Organização e Inovação Institucional, criado pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, na área de gestão de compras e contratos e cria a Rede de Contratações – REDECON, com suas regras e suas diretrizes, no Poder Executivo estadual.~~
 
-§ 1º A REDECON é parte integrante do SIGES, instituído pelo Decreto nº 10.263, de 19 de maio de 2023, responsável por alinhar e coordenar atividades, dados e informações sob a responsabilidade da unidade central de contratações.<br>
+§ 1º A REDECON é parte integrante do SIGES, instituído pelo Decreto nº 10.263, de 19 de maio de 2023, responsável por alinhar e coordenar atividades, dados e informações sob a responsabilidade da unidade central de contratações.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 1º A REDECON é parte integrante do Sistema de Gestão Estadual – SIGES, instituído pelo [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023, responsável por alinhar e coordenar atividades, dados e informações sob a responsabilidade da unidade central de contratações.~~
 
 § 2º A REDECON é composta por todos os órgãos e as entidades da administração pública direta, autárquica e fundacional do Poder Executivo estadual.
 
-Art. 2º A REDECON objetiva promover a eficiência, a governança e a gestão das contratações públicas estaduais, de forma central, setorial e correlata, mediante:<br>
+Art. 2º A REDECON objetiva promover a eficiência, a governança e a gestão das contratações públicas estaduais, de forma central, setorial e correlata, mediante:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 2º A REDECON objetiva promover a eficiência, a governança e a gestão das contratações públicas estaduais, de forma central e setorial, mediante:~~
@@ -40,7 +44,8 @@ Art. 3º A REDECON tem como unidade central a Subsecretaria de Logística e Patr
 
 Art. 4º À unidade central da REDECON compete executar atividades referentes:
 
-I – à formulação, à comunicação e à supervisão de políticas, normas e diretrizes a serem seguidas pela própria unidade central e pelas unidades setoriais e correlatas;<br>
+I – à formulação, à comunicação e à supervisão de políticas, normas e diretrizes a serem seguidas pela própria unidade central e pelas unidades setoriais e correlatas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – à formulação, à comunicação e à supervisão de políticas, normas e diretrizes a serem seguidas pela própria unidade central e pelas unidades setoriais;~~
@@ -49,22 +54,26 @@ II – à orientação técnica às unidades setoriais vinculadas a ela, para su
 
 III – ao acompanhamento geral da execução das entregas e das atividades de sua área de atuação;
 
-IV – à especificação das funções e das entregas das unidades setoriais e correlatas relacionadas à temática;<br>
+IV – à especificação das funções e das entregas das unidades setoriais e correlatas relacionadas à temática;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – à especificação das funções e das entregas das unidades setoriais relacionadas à temática;~~
 
-V – à identificação, ao mapeamento e à divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades da própria unidade central e das unidades setoriais e correlatas, conforme as diretrizes da unidade central de gestão por processos;<br>
+V – à identificação, ao mapeamento e à divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades da própria unidade central e das unidades setoriais e correlatas, conforme as diretrizes da unidade central de gestão por processos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~V – à identificação, ao mapeamento e à divulgação dos serviços, dos processos de trabalho, das entregas, das atividades e das respectivas responsabilidades da própria unidade central e das unidades setoriais, conforme as diretrizes da unidade central de gestão por processos;~~
 
-VI – à identificação do perfil técnico necessário aos servidores, para a atuação na própria unidade central e nas unidades setoriais e correlatas, conforme as diretrizes da unidade central de gestão de pessoas;<br>
+VI – à identificação do perfil técnico necessário aos servidores, para a atuação na própria unidade central e nas unidades setoriais e correlatas, conforme as diretrizes da unidade central de gestão de pessoas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VI – à identificação do perfil técnico necessário aos servidores, para a atuação na própria unidade central e nas unidades setoriais, conforme as diretrizes da unidade central de gestão de pessoas;~~
 
-VII – à capacitação das unidades setoriais e correlatas, com a possibilidade de parcerias com a Escola de Governo do Estado, também com outros entes, Poderes, empresas e entidades privadas especializadas, quando forem necessárias;<br>
+VII – à capacitação das unidades setoriais e correlatas, com a possibilidade de parcerias com a Escola de Governo do Estado, também com outros entes, Poderes, empresas e entidades privadas especializadas, quando forem necessárias;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VII – à capacitação das unidades setoriais, com a possibilidade de parcerias com a Escola de Governo do Estado, também com outros entes, Poderes, empresas e entidades privadas especializadas, quando forem necessárias;~~
@@ -75,7 +84,8 @@ IX – à realização de processo de seleção dos servidores que comporão a R
 
 X – à definição de critérios para a concessão e a manutenção das funções comissionadas às quais se refere este Decreto;
 
-XI – à definição de informações e indicadores da própria unidade central e das unidades setoriais e correlatas que subsidiem as tomadas de decisão e os planos de melhoria na área de compras e contratos;<br>
+XI – à definição de informações e indicadores da própria unidade central e das unidades setoriais e correlatas que subsidiem as tomadas de decisão e os planos de melhoria na área de compras e contratos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~XI – à definição de informações e indicadores da própria unidade central e das unidades setoriais que subsidiem as tomadas de decisão e os planos de melhoria na área de compras e contratos;~~
@@ -86,7 +96,8 @@ XIII – à convocação para deliberações do Conselho Consultivo, nos termos 
 
 Parágrafo único. Excepcionalmente, poderá haver a designação de servidores sem a realização do processo seletivo a que se refere o inciso IX do _caput_ deste artigo, na forma do § 3º do art. 8º deste Decreto.
 
-Art. 5º As unidades setoriais e correlatas de contratação possuem competência tática e operacional na execução das entregas e das atividades na área da gestão das contratações no âmbito do respectivo órgão ou entidade, inclusive para:<br>
+Art. 5º As unidades setoriais e correlatas de contratação possuem competência tática e operacional na execução das entregas e das atividades na área da gestão das contratações no âmbito do respectivo órgão ou entidade, inclusive para:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 5º As unidades setoriais de contratação possuem competência tática e operacional na execução das entregas e das atividades na área da gestão das contratações no âmbito do respectivo órgão ou entidade, inclusive para:~~
@@ -101,7 +112,8 @@ IV – manter atualizado o cadastro dos componentes da REDECON; e
 
 V – promover a capacitação dos servidores nos programas de capacitação e formação definidos pela unidade central, bem como das unidades a ela vinculadas.
 
-Art. 6º Para a composição da REDECON, a unidade central, as unidades setoriais e as unidades correlatas poderão contar com servidores efetivos, comissionados, empregados públicos permanentes e pessoal contratado por tempo determinado responsáveis por atender o disposto nos arts. 4º e 5º deste Decreto.<br>
+Art. 6º Para a composição da REDECON, a unidade central, as unidades setoriais e as unidades correlatas poderão contar com servidores efetivos, comissionados, empregados públicos permanentes e pessoal contratado por tempo determinado responsáveis por atender o disposto nos arts. 4º e 5º deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 6º Para a composição da REDECON, a unidade central e as unidades setoriais deverão contar com servidores públicos efetivos responsáveis por atender o disposto nos arts. 4º e 5º deste Decreto.~~
@@ -114,17 +126,20 @@ b) Analista-Governamental, regida pela [Lei nº 20.196](https://legisla.casacivi
 
 c) Técnico-Governamental, regida pela [Lei nº 20.197](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100127), de 6 de julho de 2018.
 
-§ 2º Os servidores lotados nas unidades setoriais e correlatas da REDECON serão tecnicamente subordinados à unidade central, sem prejuízo à sua subordinação administrativa.<br>
+§ 2º Os servidores lotados nas unidades setoriais e correlatas da REDECON serão tecnicamente subordinados à unidade central, sem prejuízo à sua subordinação administrativa.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º Os servidores lotados nas unidades setoriais da REDECON serão tecnicamente subordinados à unidade central, sem prejuízo à sua subordinação administrativa.~~
 
-Art. 7º As unidades setoriais e correlatas de contratação serão representadas por Conselho Consultivo na REDECON, ao qual competem o assessoramento e a propositura de ações para a efetivação dos objetivos da rede, nos termos do art. 2º deste Decreto.<br>
+Art. 7º As unidades setoriais e correlatas de contratação serão representadas por Conselho Consultivo na REDECON, ao qual competem o assessoramento e a propositura de ações para a efetivação dos objetivos da rede, nos termos do art. 2º deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 7º As unidades setoriais de contratação serão representadas por Conselho Consultivo na REDECON, ao qual competem o assessoramento e a propositura de ações para a efetivação dos objetivos da rede, nos termos do art. 2º deste Decreto.~~
 
-§ 1º O Conselho Consultivo da REDECON será composto por 6 (seis) membros, escolhidos entre os Gerentes ou os representantes indicados pelas unidades setoriais e correlatas, que serão convocados pela unidade central, à qual competirá a Presidência do colegiado.<br>
+§ 1º O Conselho Consultivo da REDECON será composto por 6 (seis) membros, escolhidos entre os Gerentes ou os representantes indicados pelas unidades setoriais e correlatas, que serão convocados pela unidade central, à qual competirá a Presidência do colegiado.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 1º O Conselho Consultivo da REDECON será composto por 6 (seis) membros, escolhidos entre os Gerentes ou os representantes indicados pelas unidades setoriais, que serão convocados pela unidade central, à qual competirá a Presidência do colegiado.~~
@@ -133,7 +148,8 @@ Art. 7º As unidades setoriais e correlatas de contratação serão representada
 
 Art. 8º As atribuições da REDECON deverão ser exercidas em conformidade com o [Decreto nº 10.216](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106747), de 14 de fevereiro de 2023, que estabelece regras e diretrizes para os agentes públicos que desempenham funções essenciais nos processos de licitações e contratações públicas, e com as demais normas aplicáveis às respectivas funções, desde que sejam obedecidos os seguintes requisitos e critérios:
 
-I – nas funções setoriais e correlatas:<br>
+I – nas funções setoriais e correlatas:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – nas funções setoriais:~~
@@ -158,35 +174,42 @@ d) conclusão de, no mínimo, 60 (sessenta) horas em ações de capacitação pr
 
 e) a aceitação obrigatória do plano de trabalho estabelecido pela unidade central da REDECON, observados os requisitos do art. 14 deste Decreto.
 
-§ 1º Será exigida do servidor designado para as Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs ou Gratificações do Sistema Estruturador das Redes de Gestão – GRGs a participação no Programa de Certificação em Compras Governamentais, ofertado pela Diretoria Executiva da Escola de Governo ou por outra instituição de ensino formalmente estabelecida e aprovada pela unidade central da REDECON.<br>
+§ 1º Será exigida do servidor designado para as Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs ou Gratificações do Sistema Estruturador das Redes de Gestão – GRGs a participação no Programa de Certificação em Compras Governamentais, ofertado pela Diretoria Executiva da Escola de Governo ou por outra instituição de ensino formalmente estabelecida e aprovada pela unidade central da REDECON.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 1º Será exigida do servidor designado para as Funções Comissionadas do Sistema Estruturador de Organização e Inovação Institucional – FCSISTs a participação no Programa de Certificação em Compras Governamentais, ofertado pela Diretoria Executiva da Escola de Governo ou por outra instituição de ensino formalmente estabelecida e aprovada pela unidade central da REDECON.~~
 
-§ 2º Na ausência de plano de trabalho preestabelecido, poderão ser realizadas pela unidade setorial e correlata ações autorizadas pela unidade central da REDECON via o Sistema Eletrônico de Informações – SEI.<br>
+§ 2º Na ausência de plano de trabalho preestabelecido, poderão ser realizadas pela unidade setorial e correlata ações autorizadas pela unidade central da REDECON via o Sistema Eletrônico de Informações – SEI.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º Na ausência de plano de trabalho preestabelecido, poderão ser realizadas pela unidade setorial ações autorizadas pela unidade central da REDECON via o Sistema Eletrônico de Informações – SEI.~~
 
-§ 3º O servidor designado para o exercício das funções da REDECON receberá interinamente o valor integral da função comissionada ou gratificação até que seja realizado o processo seletivo de que trata o inciso IX do art. 4º deste Decreto.<br>
+§ 3º O servidor designado para o exercício das funções da REDECON receberá interinamente o valor integral da função comissionada ou gratificação até que seja realizado o processo seletivo de que trata o inciso IX do art. 4º deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 3º O servidor designado para o exercício das funções da REDECON receberá interinamente o valor integral da função comissionada até que seja realizado o processo seletivo de que trata o inciso IX do art. 4º deste Decreto.~~
 
-§ 4º A designação da FCRG ou da GRG da REDECON ocorrerá com a observância aos arts. 103 e 110 a 113, respectivamente, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.<br>
+§ 4º A designação da FCRG ou da GRG da REDECON ocorrerá com a observância aos arts. 103 e 110 a 113, respectivamente, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 4º A designação da FCSIST da REDECON implica a obrigatoriedade do cumprimento da jornada de 8 (oito) horas diárias de trabalho, exceto nos casos previstos no § 3º do art. 74 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020, e não se aplicará o disposto no art. 76 da referida lei.~~
 
-Art. 9º A designação para o exercício das funções da REDECON observará o disposto na Lei nº 21.792, de 2023, será validada pelo titular da unidade central da REDECON e será efetivada por ato do titular:<br>
+Art. 9º A designação para o exercício das funções da REDECON observará o disposto na Lei nº 21.792, de 2023, será validada pelo titular da unidade central da REDECON e será efetivada por ato do titular:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 9º A designação para o exercício das funções da REDECON observará o disposto na [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e será efetivada por ato do titular da SEAD.~~
 
-I – do órgão central de gestão de contratações, referentemente à unidade central da REDECON; e<br>
+I – do órgão central de gestão de contratações, referentemente à unidade central da REDECON; e
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-II – do respectivo órgão ou entidade de lotação, referentemente às unidades setoriais da REDECON, após a validação prévia da Subsecretaria de Logística e Patrimônio, da SEAD.<br>
+II – do respectivo órgão ou entidade de lotação, referentemente às unidades setoriais da REDECON, após a validação prévia da Subsecretaria de Logística e Patrimônio, da SEAD.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 Art. 10. O processo de seleção previsto no inciso IX do art. 4º deste Decreto competirá à Superintendência de Recrutamento e Seleção, da SEAD, será realizado com a participação da unidade central da REDECON e deverá observar:
@@ -199,7 +222,8 @@ III – a inexistência de direito líquido e certo à designação, ainda que o
 
 § 1º O servidor selecionado conforme o _caput_ deste artigo poderá ser lotado em qualquer unidade componente da REDECON, desde que seja aprovado pela unidade central e haja observância à [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e ao [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023.
 
-§ 2º Até que seja realizado o processo de seleção disposto no caput deste artigo, poderão ser indicados servidores tanto pela unidade central quanto pelas unidades setoriais e correlatas da REDECON.<br>
+§ 2º Até que seja realizado o processo de seleção disposto no caput deste artigo, poderão ser indicados servidores tanto pela unidade central quanto pelas unidades setoriais e correlatas da REDECON.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º Até que seja realizado o processo de seleção disposto no _caput_ deste artigo, poderão ser indicados servidores tanto pela unidade central quanto pelas unidades setoriais da REDECON.~~
@@ -264,7 +288,8 @@ Art. 13. O Programa de Certificação em Compras Governamentais será estabeleci
 
 § 2º Os cursos avulsos e complementares na área de contratações públicas ofertados pela Diretoria Executiva da Escola de Governo ou contratados de instituições de ensino formalmente estabelecidas deverão ser previamente autorizados pela unidade central da REDECON.
 
-Art. 14. A REDECON deverá dispor de plano de trabalho com as ações a serem realizadas pela unidade central e pelas unidades setoriais e correlatas.<br>
+Art. 14. A REDECON deverá dispor de plano de trabalho com as ações a serem realizadas pela unidade central e pelas unidades setoriais e correlatas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 14. A REDECON deverá dispor de plano de trabalho com as ações a serem realizadas pela unidade central e pelas unidades setoriais.~~
@@ -281,17 +306,20 @@ IV – a entrega (nome, tipo, quantidade ou percentual e data limite).
 
 § 2º O plano de trabalho poderá ser revisto a qualquer momento, conforme as prioridades e a necessidade da REDECON.
 
-§ 3º A Superintendência Central de Compras e Contratos, por meio da Gerência Central de Governança de Contratações, será responsável por cumprir o disposto nos §§ 1º e 2º deste artigo e poderá acionar as unidades setoriais e correlatas.<br>
+§ 3º A Superintendência Central de Compras e Contratos, por meio da Gerência Central de Governança de Contratações, será responsável por cumprir o disposto nos §§ 1º e 2º deste artigo e poderá acionar as unidades setoriais e correlatas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 3º A Superintendência Central de Compras e Contratos, por meio da Gerência Central de Governança de Contratações, será responsável por cumprir o disposto nos §§ 1º e 2º deste artigo e poderá acionar as unidades setoriais.~~
 
-§ 4º O plano de trabalho a que se refere o caput deste artigo deverá ser alinhado com os demais planos de trabalho do SIGES, de forma a garantir eficiência, eficácia e efetividade de todas as ações, bem como evitar conflitos e sobrecarga de operações no âmbito setorial e correlato.<br>
+§ 4º O plano de trabalho a que se refere o caput deste artigo deverá ser alinhado com os demais planos de trabalho do SIGES, de forma a garantir eficiência, eficácia e efetividade de todas as ações, bem como evitar conflitos e sobrecarga de operações no âmbito setorial e correlato.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 4º O plano de trabalho a que se refere o _caput_ deste artigo deverá ser alinhado com os demais planos de trabalho do SIGES, de forma a garantir eficiência, eficácia e efetividade de todas as ações, bem como evitar conflitos e sobrecarga de operações no âmbito setorial.~~
 
-Art. 15. Para a classificação dos órgãos e das entidades estaduais na REDECON e para a distribuição das FCRGs ou das GRGs, serão considerados:<br>
+Art. 15. Para a classificação dos órgãos e das entidades estaduais na REDECON e para a distribuição das FCRGs ou das GRGs, serão considerados:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 15. Para a classificação dos órgãos e das entidades estaduais na REDECON e para a distribuição das FCSISTs, serão considerados:~~
@@ -310,7 +338,8 @@ III – Porte 3: órgãos e entidades que possuam média complexidade e médio v
 
 IV – Porte 4: órgãos e entidades que possuam baixa complexidade e baixo volume de contratações.
 
-§ 2º A classificação dos órgãos e das entidades na REDECON e a concessão das FCRGs e das GRGs serão estabelecidas por portaria do titular do órgão central de gestão de contratações, considerados critérios objetivos que diferenciem o volume de trabalho, a complexidade das entregas e as atividades desempenhadas para o exercício das atribuições da REDECON.<br>
+§ 2º A classificação dos órgãos e das entidades na REDECON e a concessão das FCRGs e das GRGs serão estabelecidas por portaria do titular do órgão central de gestão de contratações, considerados critérios objetivos que diferenciem o volume de trabalho, a complexidade das entregas e as atividades desempenhadas para o exercício das atribuições da REDECON.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º A classificação dos órgãos e das entidades na REDECON e a distribuição das FCSISTs serão estabelecidas por portaria do titular da SEAD, considerados critérios objetivos que diferenciem o volume de trabalho, a complexidade das entregas e as atividades desempenhadas para o exercício das atribuições da REDECON.~~
@@ -320,8 +349,6 @@ IV – Porte 4: órgãos e entidades que possuam baixa complexidade e baixo volu
 Art. 16. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 24 de agosto de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

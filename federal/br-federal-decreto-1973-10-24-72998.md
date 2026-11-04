@@ -1,5 +1,3 @@
-###DEC-072998-0-000-24-10-1973@@@
-
 DECRETO Nº 72.998, DE 24 DE OUTUBRO DE 1973.
 
 Aprova o Regulamento do Departamento de Material Bélico, do Ministério do Exército, e dá outras providências.

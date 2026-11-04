@@ -1,7 +1,3 @@
-1
-
-###DEC-001450-0-000-10-04-1995@@@
-
 # DECRETO Nº 1.450, DE 10 DE ABRIL DE 1995
 
 Dispõe sobre aquisição, mediante compra e venda, do imóvel rural que menciona, para fins de reforma agrária.

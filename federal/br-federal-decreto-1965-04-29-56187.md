@@ -1,5 +1,3 @@
-###DEC-056187-0-000-29-04-1965@@@
-
 Decreto nº 56.187, de 29 de abril de 1965.
 
 Autoriza pessoa jurídica estrangeira a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno acrescido de marinha que menciona no Estado da Guanabara.

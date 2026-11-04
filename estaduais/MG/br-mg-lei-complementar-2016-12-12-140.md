@@ -591,7 +591,3 @@ Art. 42 – Esta lei complementar entra em vigor na data de sua publicação.
 Palácio Tiradentes, em Belo Horizonte, aos 12 de dezembro de 2016; 228º da Inconfidência Mineira e 195º da Independência do Brasil.
 
 FERNANDO DAMATA PIMENTEL
-
-\============================================================
-
-Data da última atualização: 3/11/2025.

@@ -1,5 +1,3 @@
-###DEL-009152-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.152 – DE 08 DE ABRIL DE 1946
 
 Dispõe sôbre o pagamento dos certificados de prêmio emitidos pelo Departamento Nacional do Café.

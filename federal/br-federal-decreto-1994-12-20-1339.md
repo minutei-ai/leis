@@ -1,7 +1,3 @@
-1
-
-###DEC-001339-0-000-20-12-1994@@@
-
 DECRETO Nº 1.339, DE 20 DE DEZEMBRO DE 1994
 
 Regulamenta, no âmbito do Ministério da Marinha, o art. 67 da Lei nº 7.501, de 27 de junho de 1986, com a redação dada pelo art. 13 da Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre o regime jurídico dos auxiliares locais, estendido às Forças Armadas através do art. 14 da referida Lei nº 8.745/93.

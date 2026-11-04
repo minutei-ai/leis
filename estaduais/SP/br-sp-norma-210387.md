@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210387)<br>
-
 # DECRETO N° 69.189, DE 18 DE DEZEMBRO DE 2024
 
 ### _Transfere a unidade policial que especifica, no âmbito da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, altera sua denominação e dá providências correlatas._

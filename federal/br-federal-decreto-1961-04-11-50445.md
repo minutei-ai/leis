@@ -1,5 +1,3 @@
-###DEC-050445-0-000-11-04-1961@@@
-
 DECRETO Nº 50.445, DE 11 DE ABRIL DE 1961.
 
 Aprova alterações introduzidas nos Estatutos de A Equitativa dos Estados Unidos do Brasil, Sociedade Mútua de Seguros Gerais.

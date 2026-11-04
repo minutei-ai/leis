@@ -1,5 +1,3 @@
-###DEC-081372-0-000-21-02-1978@@@
-
 Decreto nº 81.372, de 21 de fevereiro de 1978
 
 Concede à Companhia de Pesquisas e Lavras Minerais - COPELMI o direito de lavrar carvão mineral e areia quartzosa nos Municípios de Triunfo e Guaíba, Estado do Rio Grande do Sul.

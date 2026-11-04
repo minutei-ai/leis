@@ -1,5 +1,3 @@
-###DEC-056262-0-000-06-05-1965@@@
-
 Decreto nº 56.262, de 6 de maio de 1965.
 
 Inclui nas relações de que trata o Decreto nº 54.015, de 13 de julho de 1964, os cargos que especifica.

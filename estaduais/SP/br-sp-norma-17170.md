@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=17170)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1992/compilacao-lei.complementar-687-07.10.1992.html)
 
 # LEI COMPLEMENTAR Nº 687, DE 07 DE OUTUBRO DE 1992
@@ -51,7 +50,8 @@ _~~\- Artigo 2º com redação dada pela [Lei Complementar nº 808, de 28/03/199
 
 ~~Artigo 2º - O adicional de local de exercício será calculado mediante a aplicação dos percentuais a seguir identificados, sobre o valor do padrão em que estiver enquadrado o cargo ou a função -atividade do servidor, observada a jornada de trabalho a que estiver sujeito, na seguinte conformidade: (NR)~~
 
-~~_\- "Caput" com redação dada pela [Lei Complementar nº 978, de 06/10/2005](https://www.al.sp.gov.br/norma/58297)._<br>
+~~_\- "Caput" com redação dada pela [Lei Complementar nº 978, de 06/10/2005](https://www.al.sp.gov.br/norma/58297)._
+
 **Artigo 2º -** O Adicional de Local de Exercício será calculado mediante aplicação do coeficiente 1,50 (um inteiro e cinquenta centésimos) sobre a Unidade Básica de Valor - UBV, observada a jornada de trabalho a que estiver sujeito o servidor. (NR)~~
 
 _~~\- "Caput" com redação dada pela [Lei Complementar nº 1.144, de 11/07/2011](https://www.al.sp.gov.br/norma/161700), com efeitos a partir de 01/06/2011.~~_
@@ -60,7 +60,8 @@ _~~\- "Caput" com redação dada pela [Lei Complementar nº 1.144, de 11/07/2011
 
 _\- "Caput" com redação dada pela [Lei Complementar nº 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860),_ _com efeitos a partir de 60 (sessenta) dias após a data de sua publicação._
 
-~~I - 6,58% (seis inteiros e cinqüenta e oito centésimos por cento), a partir de 1º de janeiro de 2005; (NR)<br>
+~~I - 6,58% (seis inteiros e cinqüenta e oito centésimos por cento), a partir de 1º de janeiro de 2005; (NR)
+
 _\- Inciso I acrescentado pela [Lei Complementar nº 978, de 06/10/2005](https://www.al.sp.gov.br/norma/58297)._~~
 
 **I -** 5,8 (cinco inteiros e oito décimos) para as escolas identificadas como de altíssima vulnerabilidade; (NR)
@@ -87,7 +88,8 @@ _\- § 1º acrescentado pela [Lei Complementar nº 1.374, de 30 de março de 202
 
 _\- § 2º acrescentado pela [Lei Complementar nº 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860),_ _com efeitos a partir de 60 (sessenta) dias após a data de sua publicação._
 
-_\- Vide artigo 4º, II, do [Decreto nº 66.805, de 02/06/2022](https://www.al.sp.gov.br/norma/203787)._<br>
+_\- Vide artigo 4º, II, do [Decreto nº 66.805, de 02/06/2022](https://www.al.sp.gov.br/norma/203787)._
+
 **§ 3º -** A fórmula de cálculo do fator de ponderação, assim como o seu valor para cada Município paulista serão disciplinados em decreto. (NR)
 
 _\- § 3º acrescentado pela [Lei Complementar nº 1.374, de 30 de março de 2022](https://www.al.sp.gov.br/norma/202860),_ _com efeitos a partir de 60 (sessenta) dias após a data de sua publicação._
@@ -108,7 +110,8 @@ _\- "Caput" com redação dada pela [Lei Complementar nº 1.374, de 30/03/2022](
 
 ~~Parágrafo único - Sobre o benefício pecuniário a que se refere esta lei complementar, não incidirá vantagem de qualquer natureza.~~
 
-~~**§ 1º -** Para fins de proventos, o adicional de local de exercício será calculado proporcionalmente, à razão do tempo de contribuição previdenciária sobre a referida vantagem e do tempo de contribuição para fins de aposentadoria. (NR)<br>
+~~**§ 1º -** Para fins de proventos, o adicional de local de exercício será calculado proporcionalmente, à razão do tempo de contribuição previdenciária sobre a referida vantagem e do tempo de contribuição para fins de aposentadoria. (NR)
+
 _\- § 1º com redação dada pela [Lei Complementar nº 1.097, de 27/10/2009](https://www.al.sp.gov.br/norma/158283), revogado o parágrafo único._~~
 
 **§ 1º -** o Adicional de Local de Exercício - ALE não se incorporará aos vencimentos, salários ou proventos para nenhum efeito, ressalvado o cômputo para fins de aposentadoria e pensão, caso exercida a opção constante do § 2º do artigo 8º da [Lei Complementar nº 1.012 de 5 de julho de 2007](https://www.al.sp.gov.br/norma/72783). (NR)
@@ -123,25 +126,38 @@ _\- § 1º com redação dada pela [Lei Complementar nº 1.374, de 30/03/2022](h
 
 _\- § 2º com redação dada pela [Lei Complementar nº 1.374, de 30/03/2022](https://www.al.sp.gov.br/norma/202860),_ _com efeitos a partir de 60 (sessenta) dias após a data de sua publicação._
 
-**Artigo 4º -** A concessão do adicional de que trata esta lei complementar será efetuada gradativamente, nos termos das normas a serem expedidas pela Secretaria da Educação.<br>
+**Artigo 4º -** A concessão do adicional de que trata esta lei complementar será efetuada gradativamente, nos termos das normas a serem expedidas pela Secretaria da Educação.
+
 ~~Artigo 5º - O funcionário ou servidor perderá o direito ao adicional de local de exercício na hipótese de afastamentos, licenças e ausências de qualquer natureza, salvo nos casos de faltas abonadas, ferias, licença-prêmio, licença a gestante, adoção, gala, nojo e júri.~~
 
 **Artigo 5º -** O servidor perderá o direito à percepção do Adicional de Local de Exercício - ALE em caso de licenças e afastamentos, exceto em virtude de férias, licença-gestante, licença por adoção e licença-paternidade, serviços obrigatórios por lei e outros afastamentos que a legislação considere como de efetivo exercício para todos os efeitos. (NR)
 
 _\-Artigo 5º com redação dada pela [Lei Complementar nº 1.374, de 30/03/2022](https://www.al.sp.gov.br/norma/202860),_ _com efeitos a partir de 60 (sessenta) dias após a data de sua publicação._
 
-**Artigo 6º -** Aplicam-se as disposições desta lei complementar ao funcionário ou servidor que, de acordo com o estabelecido nos artigos 80 a 83 da [Lei Complementar nº 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762), exerça substituição em cargos do Quadro de Apoio Escolar.<br>
-**Artigo 7º -** As despesas resultantes da aplicação desta lei complementar serão cobertas com as dotações próprias do Orçamento vigente ficando o Poder Executivo autorizado a abrir, para o corrente exercício, créditos suplementares até o limite de Cr$ 8.636.900.000,00 (oito bilhões, seiscentos e trinta e seis milhões e novecentos mil cruzeiros), mediante a utilização de recursos nos termos do § 1º do artigo 43 da Lei federal nº 4.320, de 17 de março de 1964.<br>
+**Artigo 6º -** Aplicam-se as disposições desta lei complementar ao funcionário ou servidor que, de acordo com o estabelecido nos artigos 80 a 83 da [Lei Complementar nº 180, de 12 de maio de 1978](https://www.al.sp.gov.br/norma/30762), exerça substituição em cargos do Quadro de Apoio Escolar.
+
+**Artigo 7º -** As despesas resultantes da aplicação desta lei complementar serão cobertas com as dotações próprias do Orçamento vigente ficando o Poder Executivo autorizado a abrir, para o corrente exercício, créditos suplementares até o limite de Cr$ 8.636.900.000,00 (oito bilhões, seiscentos e trinta e seis milhões e novecentos mil cruzeiros), mediante a utilização de recursos nos termos do § 1º do artigo 43 da Lei federal nº 4.320, de 17 de março de 1964.
+
 **Artigo 8º -** Esta lei complementar entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º de abril de 1992.
 
-Palácio dos Bandeirantes, 7 de outubro de 1992<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Frederico Mathias Mazzucchelli<br>
-Secretário da Fazenda<br>
-Fernando Gomes de Morais<br>
-Secretário da Educação<br>
-Miguel Tebar Barrionuevo<br>
-Secretário da Administração e Modernização do Serviço Público<br>
-Cláudio Ferraz de Alvarenga<br>
-Secretário do Governo<br>
+Palácio dos Bandeirantes, 7 de outubro de 1992
+
+LUIZ ANTONIO FLEURY FILHO
+
+Frederico Mathias Mazzucchelli
+
+Secretário da Fazenda
+
+Fernando Gomes de Morais
+
+Secretário da Educação
+
+Miguel Tebar Barrionuevo
+
+Secretário da Administração e Modernização do Serviço Público
+
+Cláudio Ferraz de Alvarenga
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 7 de outubro de 1992.

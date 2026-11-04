@@ -1,5 +1,3 @@
-###DEC-046386-0-000-07-07-1959@@@
-
 DECRETO Nº 46.386, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre a coordenação dos trabalhos a que se referem os decretos resultantes dos Encontros dos Bispos do Nordeste.

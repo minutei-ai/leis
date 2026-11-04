@@ -1,5 +1,3 @@
-###DEC-075816-0-000-03-06-1975@@@
-
 DECRETO Nº 72.816, DE 3 DE JUNHO DE 1975.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica nos Distritos sede, Conceição do Formoso e São João da Serra, pertencentes ao Município de Santos Dumont, Estado de Minas Gerais.

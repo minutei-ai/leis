@@ -1,5 +1,3 @@
-###DEC-045318-0-000-27-01-1959@@@
-
 DECRETO Nº 45.318, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro José Tiradentes de Lima, a pesquisar ilmenita e associados no município de Piaçabuçu, no Estado de Alagoas.

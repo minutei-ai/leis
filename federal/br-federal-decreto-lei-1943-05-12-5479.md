@@ -1,5 +1,3 @@
-###DEL-005479-0-000-12-05-1943@@@
-
 DECRETO‑LEI N. 5.479 – DE 12 DE MAIO DE 1943
 
 Isenta de custas, taxas e emolumentos as certidões e justificações para ha­bilitação dos herdeiros de praças à pensão instituida pelos decretos‑leis ns. 4.819, de 8 de outubro de 1942, e 4.839, de 16 de outubro de 1942

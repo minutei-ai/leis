@@ -1,5 +1,3 @@
-###DEC-072455-0-000-11-07-1973@@@
-
 DECRETO Nº 72.455 DE 11 DE JULHO DE 1973.
 
 Dispõe sobre a reintegração de servidor do Ministério da Agricultura, atingido pelo Decreto nº 62.234, de 7 de fevereiro de 1968, e dá outras providências.

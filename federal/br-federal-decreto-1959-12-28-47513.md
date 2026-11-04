@@ -1,5 +1,3 @@
-###DEC-047513-0-000-28-12-1959@@@
-
 DECRETO Nº 47.513, DE 28 DE DEZEMBRO DE 1959.
 
 Concede à Indústria e Comércio “Magnebock” Ltda. autorização para funcionar como emprêsa de mineração.

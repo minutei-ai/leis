@@ -1,5 +1,3 @@
-###DEL-006192-0-000-10-01-1944@@@
-
 DECRETO-LEI N. 6.192 – DE 10 DE JANEIRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei nº 4.605, de 21 de agôsto de 1942

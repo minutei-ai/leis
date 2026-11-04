@@ -1,5 +1,3 @@
-###DEC-066373-0-000-23-03-1970@@@
-
 DECRETO Nº 66.373 - DE 23 DE MARÇO DE 1970
 
 Autoriza a cessão gratuita de área de terreno que menciona, situada no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-003904-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.904 – DE 5 DE DEZEMBRO DE 1941
 
 Autoriza a aquisição de terrenos, destinados à construção do Estádio Nacional, e dá outras providências.

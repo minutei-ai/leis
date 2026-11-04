@@ -1,5 +1,3 @@
-###DEC-097599-0-000-30-03-1989@@@
-
 DECRETO N° 97.599, DE 30 DE MARÇO DE 1989
 
 Dispõe sobre a adoção de turno ininterrupto de trabalho nas repartições federais situadas no Estado de Roraima.

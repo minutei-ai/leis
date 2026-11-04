@@ -1,5 +1,3 @@
-###DEC-081295-0-000-02-02-1978@@@
-
 Decreto nº 81 295, de 2 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Engenharia da Universidade Federal de Pelotas, Rio Grande do Sul.

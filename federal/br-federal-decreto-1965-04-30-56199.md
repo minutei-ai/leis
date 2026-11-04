@@ -1,5 +1,3 @@
-###DEC-056199-0-000-30-04-1965@@@
-
 DECRETO Nº 56.199, DE 30 DE abril DE 1965.
 
 Autoriza David Albert Selim Mizrahi, a comprar pedras preciosas.

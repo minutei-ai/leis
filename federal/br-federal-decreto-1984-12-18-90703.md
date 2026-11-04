@@ -1,5 +1,3 @@
-###DEC-090703-0-000-18-12-1984@@@
-
 # Decreto nº 90.703, de 18 de dezembro de 1984
 
 Dispõe sobre à nomeação e designação de Militares da Marinha.

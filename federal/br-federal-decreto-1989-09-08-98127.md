@@ -1,7 +1,3 @@
-1
-
-###DEC-098127-0-000-08-09-1989@@@
-
 DECRETO N.° 98.127, DE 8 DE SETEMBRO DE 1989
 
 Dispõe sobre a instituição da Universidade Federal de Roraima, e dá outras providências.

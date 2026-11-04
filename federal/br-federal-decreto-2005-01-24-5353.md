@@ -1,5 +1,3 @@
-###DEC-005353-0-000-24-01-2005@@@
-
 DECRETO Nº 5.353 DE 24 DE JANEIRO DE 2005
 
 Dispõe sobre a competência, composição, funcionamento e estruturação do Conselho Nacional de Desenvolvimento Industrial \- CNDI, e dá outras providências.

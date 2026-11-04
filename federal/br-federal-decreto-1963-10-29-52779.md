@@ -1,5 +1,3 @@
-###DEC-052779-0-000-29-10-1963@@@
-
 DECRETO Nº 52.779, DE 29 DE OUTUBRO DE 1963.
 
 Regulamenta o disposto no art. 17, da Lei nº 4.239, de 27 de junho de 1963.

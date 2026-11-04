@@ -1,7 +1,8 @@
-LEI Nº 21.784, DE 17 DE JANEIRO DE 2023.<br>
-[\- Declarada inconstitucional pelo TJGO na ADI nº 5087913-06.2023.8.09.0000.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18328)<br>
-\- [Vide Lei nº 12.786, de 26-12-1995](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82735/lei-12786).<br>
-<br>
+LEI Nº 21.784, DE 17 DE JANEIRO DE 2023.
+
+[\- Declarada inconstitucional pelo TJGO na ADI nº 5087913-06.2023.8.09.0000.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18328)
+
+\- [Vide Lei nº 12.786, de 26-12-1995](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82735/lei-12786).
 
 ~~Proíbe visitas íntimas nos estabelecimentos penitenciários do Estado de Goiás.~~
 

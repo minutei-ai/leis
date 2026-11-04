@@ -1,5 +1,3 @@
-###MPV-001704-0-002-28-08-1998@@@
-
 medida provisória nº 1.704-2, de 28 de agosto de 1998
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

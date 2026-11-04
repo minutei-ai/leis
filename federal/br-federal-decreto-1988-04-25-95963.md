@@ -1,5 +1,3 @@
-###DEC-095963-0-000-25-04-1988@@@
-
 DECRETO N° 95.963, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO AGRESTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santo Antônio, Estado do Rio Grande do Norte.

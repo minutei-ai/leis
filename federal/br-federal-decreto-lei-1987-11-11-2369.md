@@ -1,7 +1,3 @@
-1
-
-###DEL-002369-0-000-11-11-1987@@@
-
 # DECRETO-LEI Nº 2.369, DE 11 DE NOVEMBRO DE 1987.
 
 Altera o Decreto-lei nº 2.032, de 9 de junho de 1983, e dá outras providências.

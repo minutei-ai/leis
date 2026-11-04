@@ -1,5 +1,3 @@
-###DEC-046659-0-000-17-08-1959@@@
-
 DECRETO Nº 46.659, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Arnaldo Rodrigues Duarte a lavrar água mineral no município de Rezende, Estado do rio de Janeiro.

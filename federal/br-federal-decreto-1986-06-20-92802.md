@@ -1,5 +1,3 @@
-###DEC-092802-0-000-20-06-1986@@@
-
 DECRETO Nº 92.802, DE 20 DE JUNHO DE 1986
 
 Outorga concessão à RÁDIO INGAMAR LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Marialva, Estado do Paraná.

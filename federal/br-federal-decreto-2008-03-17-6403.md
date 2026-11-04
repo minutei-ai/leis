@@ -1,5 +1,3 @@
-###DEC-006403-0-000-17-03-2008@@@
-
 DECRETO Nº 6.403, DE 17 DE MARÇO DE 2008.
 
 Dispõe sobre a utilização de veículos oficiais pela administração pública federal direta, autárquica e fundacional.
@@ -145,5 +143,3 @@ Brasília, 17 de março de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 18.3.2008

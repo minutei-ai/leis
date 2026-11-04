@@ -1,5 +1,3 @@
-###DEC-055163-0-000-08-12-1964@@@
-
 DECRETO Nº 55.163, DE 08 DE DEZEMBRO DE 1964.
 
 Dá nova redação ao art. 3º do Decreto nº 53.968, de 16 de junho de 1964.

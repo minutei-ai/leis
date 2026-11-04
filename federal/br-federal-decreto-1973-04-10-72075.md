@@ -1,5 +1,3 @@
-###DEC-072075-0-000-10-04-1973@@@
-
 DECRETO Nº 72.075, DE 10 DE ABRIL DE 1973.
 
 Concede reconhecimento à Faculdade de Medicina de Petrópolis, com sede na cidade de Petrópolis, Estado do Rio de Janeiro.

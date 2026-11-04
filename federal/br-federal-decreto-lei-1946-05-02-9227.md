@@ -1,5 +1,3 @@
-###DEL-009227-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.227 – DE 2 DE maio DE 1946
 
 Altera, sem aumento de despesa, o Orçamento do Plano de Obras e Equipamentos.

@@ -1,5 +1,3 @@
-###DEL-000320-0-000-29-03-1967@@@
-
 DECRETO-LEI Nº 320, DE 29 DE MARÇO DE 1967
 
 Prorroga a vigência do Decreto-lei nº 265, de 28 de fevereiro de 1967.

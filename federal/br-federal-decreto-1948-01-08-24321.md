@@ -1,28 +1,26 @@
-###DEC-024321-0-000-08-01-1948@@@
+**DECRETO N° 24.321, DE 8 DE JANEIRO DE 1948.**
 
-<strong>DECRETO N° 24.321, DE 8 DE JANEIRO DE 1948.</strong>
+***Aprova as especificações e tabelas para a classificação e fiscalização da exportação do tabaco em fôlha do Estado de Santa Catarina.***
 
-<em><strong>Aprova as especificações e tabelas para a classificação e fiscalização da exportação do tabaco em fôlha do Estado de Santa Catarina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição Federal e tendo em vista o que dispõe o artigo 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94 do Regulamento aprovado pelo Decreto número 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição Federal e tendo em vista o que dispõe o artigo 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94 do Regulamento aprovado pelo Decreto número 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as especificações e tabelas para a classificação e fiscalização da exportação do tabaco em fôlha do Estado de Santa Catarina, assinadas pelo Ministro de Estado dos Negócios da Agricultura.
 
-<strong>Art</strong>. 1º Ficam aprovadas as especificações e tabelas para a classificação e fiscalização da exportação do tabaco em fôlha do Estado de Santa Catarina, assinadas pelo Ministro de Estado dos Negócios da Agricultura.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de janeiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho
 
-<strong>ESPECIFICAÇÕES E TABELA PARA CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DO TABACO EM FÔLHA DO ESTADO DE SANTA CATARINA, APROVADAS PELO DECRETO Nº 24.321, DE 8 DE JANEIRO DE 1948, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.</strong>
+**ESPECIFICAÇÕES E TABELA PARA CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DO TABACO EM FÔLHA DO ESTADO DE SANTA CATARINA, APROVADAS PELO DECRETO Nº 24.321, DE 8 DE JANEIRO DE 1948, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.**
 
-I - A classificação do tabaco em fôlha do Estado de Santa Catarina - <em>Nicotiana tabacum</em>, Lin. - será feita de acôrdo com os seguintes fatores:
+I - A classificação do tabaco em fôlha do Estado de Santa Catarina - *Nicotiana tabacum*, Lin. - será feita de acôrdo com os seguintes fatores:
 
 a) zona de produção;
 
@@ -42,21 +40,21 @@ II - A classificação, segundo a colheita e zona de produção, será levada a 
 
 III - Quanto aos processos de secagem, o tabaco em fôlha será diferenciado em duas categorias, ou sejam:
 
-Categoria TG ou <em>tabaco de galpão</em>, constituída de fôlhas submetidas à secagem natural, à sombra ou galpão.
+Categoria TG ou *tabaco de galpão*, constituída de fôlhas submetidas à secagem natural, à sombra ou galpão.
 
-Categoria TE ou <em>tabaco de estufa</em>, constituída de fôlhas submetidas à secagem artificial, em estufas.
+Categoria TE ou *tabaco de estufa*, constituída de fôlhas submetidas à secagem artificial, em estufas.
 
 IV - As fôlhas de tabaco, quando beneficiadas na forma do idem anterior, serão apresentadas ou arrumadas de cinco maneiras diferentes, constituindo os seguines grupos:
 
-Grupo FM - <em>Fôlhas manocadas</em> \- constituído em um conjunto de vinte e cinco fôlhas uniformes e amarradas pelas extremidades do talos or uma fôlha ou embira, formando o que se denomina <em>manoca.</em>
+Grupo FM - *Fôlhas manocadas* \- constituído em um conjunto de vinte e cinco fôlhas uniformes e amarradas pelas extremidades do talos or uma fôlha ou embira, formando o que se denomina *manoca.*
 
-Grupo FS - <em>Fôlhas soltas</em> - constiuído de fôlhas a granel, com talo inteiro e destacadas, geralmente, do tabaco manocado.
+Grupo FS - *Fôlhas soltas* - constiuído de fôlhas a granel, com talo inteiro e destacadas, geralmente, do tabaco manocado.
 
-Grupo FA - <em>Fôlhas arrumadas</em> \- constituído de fôlhas colocadas umas sôbre as outras, formando maços uniformes.
+Grupo FA - *Fôlhas arrumadas* \- constituído de fôlhas colocadas umas sôbre as outras, formando maços uniformes.
 
-Grupo FDS - <em>Fôlhas destaladas soltas</em> \- constiuído de fôlhas a granel e das quais foi retirada a nervura principal.
+Grupo FDS - *Fôlhas destaladas soltas* \- constiuído de fôlhas a granel e das quais foi retirada a nervura principal.
 
-Grupo FDA - <em>Fôlhas destaladas arrumadas -</em> constituído de fôlhas das quais foi retirada a nervura principal e colocadas umas sôbre as outras, formando maços uniformes.
+Grupo FDA - *Fôlhas destaladas arrumadas -* constituído de fôlhas das quais foi retirada a nervura principal e colocadas umas sôbre as outras, formando maços uniformes.
 
 V - Quanto ao tamanho, as fôlhas de tabaco de galpão serão divididas em subgrupos, com os seguintes característicos:
 
@@ -80,25 +78,25 @@ VII - Entende-se por fôlha larga aquela cuja largura corresponde, no mínimo, a
 
 VIII - Quanto à côr, o tabaco de galpão será dividido em três classes principais, assim diferenciadas:
 
-Classe <em>L ou Claro</em>
+Classe *L ou Claro*
 
-Classe <em>B ou Castanho</em>
+Classe *B ou Castanho*
 
-Classe <em>S ou Escuro</em>
+Classe *S ou Escuro*
 
-IX - A classe <em>L ou claro</em> se caracteriza por uma coloração acentuadamente clara; a <em>classe B ou castanho,</em> pelas variações da côr castanha e a classe <em>S ou escuro,</em> por uma coloração mais escura do que a classe anterior.
+IX - A classe *L ou claro* se caracteriza por uma coloração acentuadamente clara; a *classe B ou castanho,* pelas variações da côr castanha e a classe *S ou escuro,* por uma coloração mais escura do que a classe anterior.
 
-X - Cada uma das classes, <em>Claro, Castanho</em> e <em>Escuro</em>, será diferenciada em tantas subclasses quantas forem as côres ou tonalidades dominantes, podendo, quando necessário e sem prejuízo das condições de produção e das exigências estabelecidas nas presentes especificações, ser adotados símbolos já conhecidos nos principais mercados internacionais e que se relacionem com marcas prèviamente registradas na repartição competente.
+X - Cada uma das classes, *Claro, Castanho* e *Escuro*, será diferenciada em tantas subclasses quantas forem as côres ou tonalidades dominantes, podendo, quando necessário e sem prejuízo das condições de produção e das exigências estabelecidas nas presentes especificações, ser adotados símbolos já conhecidos nos principais mercados internacionais e que se relacionem com marcas prèviamente registradas na repartição competente.
 
 XI - Na classificação do tabaco de galpão, segundo a qualidade, serão levados em consideração, enre outros caracteristicos, a aparência, a espessura, o grau de maciez, a elasticidade, o aroma, o estado de conservação e de sanidade e a quantidade de defeitos.
 
 XII - Para a execução do disposto no item anterior, ficam estabelecidos três tipos, com os seguintes característicos:
 
-Tipo 1 - <em>ou primeira</em> - constituído de fôlhas macias, elásticas, com bastante uniformidade em relação à côr, de aroma agradável, em bom estado de conservação e sanidade, isentas de matérias estranhas, de manchas, de perfurações e dilacerações;
+Tipo 1 - *ou primeira* - constituído de fôlhas macias, elásticas, com bastante uniformidade em relação à côr, de aroma agradável, em bom estado de conservação e sanidade, isentas de matérias estranhas, de manchas, de perfurações e dilacerações;
 
-Tipo 2 - <em>ou segunda</em> - constituído de fôlhas elásticas, macias, com certa uniformidade em relação côr, de aroma agradável, isentas de matérias estranhas, em bom estado de conservação e sanidade, com poucas perfurações e dicelarações em um dos lóbulos;
+Tipo 2 - *ou segunda* - constituído de fôlhas elásticas, macias, com certa uniformidade em relação côr, de aroma agradável, isentas de matérias estranhas, em bom estado de conservação e sanidade, com poucas perfurações e dicelarações em um dos lóbulos;
 
-Tipo 3 - <em>ou terceira</em> - constituido de fôlhas macias e elásticas, de aroma agradável, isentas de matérias estranhas, em bom estado de conservação e sanidade, com algumas parfurações e dilacerações em ambos os lóbulos.
+Tipo 3 - *ou terceira* - constituido de fôlhas macias e elásticas, de aroma agradável, isentas de matérias estranhas, em bom estado de conservação e sanidade, com algumas parfurações e dilacerações em ambos os lóbulos.
 
 XIII - As fôlhas de tabalho de estufa serão diferenciadas em nove classes, com os seguintes característicos:
 
@@ -188,10 +186,30 @@ b) certificados de reclassificação e arbitragem.
 
 XXXI - As taxas relativas à classificação fiscalização da exportação do tabaco em fôlha do Estado de Santa Catarina e, bem assim, aquelas previstas no Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940, para trabalhos realizados a requerimento da parte ou partes interessadas, serão cobradas de acôrdo com a seguinte tabela, por quilo.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:32pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cr$</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>a) classificação (art. 80) inclusive emissão de certificado ..................................................</span></span></p></td><td style="width:32pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>0,060</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>b) reclassificação (art. 39), inclusive emissão de certificado ..............................................</span></span></p></td><td style="width:32pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>0,06</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>c) arbitragem (parágrafo único do art. 84) inclusive emissão de certificado .......................</span></span></p></td><td style="width:32pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>0,18</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>d) inspeção para os fins indicados nas alíneas </span></span><span style="font-style:italic"><span><em>c </em></span></span><span><span>e </span></span><span style="font-style:italic"><span><em>d </em></span></span><span><span>do art. 79, inclusive emissão de certificado ...........................................................................................................................</span></span></p></td><td style="width:32pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>0,02</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>e) fiscalização da exportação</span></span><span style="-aw-import:spaces"><span>&nbsp; </span></span><span><span>(art. 5º do Decreto-lei nº 334, de 15 de março de 1938, e arts. 81 e 82 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940), inclusive emissão de certificado .........................................................................................</span></span></p></td><td style="width:32pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>0,020</span></span></p></td></tr></tbody></table>
+Cr$
+
+a) classificação (art. 80) inclusive emissão de certificado ..................................................
+
+0,060
+
+b) reclassificação (art. 39), inclusive emissão de certificado ..............................................
+
+0,06
+
+c) arbitragem (parágrafo único do art. 84) inclusive emissão de certificado .......................
+
+0,18
+
+d) inspeção para os fins indicados nas alíneas *c *e *d *do art. 79, inclusive emissão de certificado ...........................................................................................................................
+
+0,02
+
+e) fiscalização da exportação  (art. 5º do Decreto-lei nº 334, de 15 de março de 1938, e arts. 81 e 82 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940), inclusive emissão de certificado .........................................................................................
+
+0,020
 
 XXXII - Os casos omissos serão resolvidos pelo Serviço de Economia Rural, com aprovação do Ministério da Agricultura.
 
 Rio de Janeiro, 8 de janeiro de 1948.
 
-<strong>DANIEL DE CARVALHO</strong>
+**DANIEL DE CARVALHO**

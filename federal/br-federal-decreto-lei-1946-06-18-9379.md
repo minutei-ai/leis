@@ -1,5 +1,3 @@
-###DEL-009379-0-000-18-06-1946@@@
-
 DECRETO-LEI N. 9.379 – DE 18 DE JUNHO DE 1946
 
 Suprime funções gratificadas do Quadro Permanente do Ministério da Educação e Saúde.

@@ -1,5 +1,3 @@
-###MPV-001685-0-004-25-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.685-4, dE 25 dE SETEMbRO DE 1998
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

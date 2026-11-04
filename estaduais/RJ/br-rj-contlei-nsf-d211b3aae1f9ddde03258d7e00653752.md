@@ -1,20 +1,15 @@
-<br>
-<br>
 **LEI N.º 11.097 DE 08 DE JANEIRO DE 2026**
 
-<br>
-<br>
+<table width="100%" border="1"><tbody><tr><td width="100%">**DISPÕE SOBRE A REVISÃO 2026 DO PLANO PLURIANUAL 2024-2027, INSTITUÍDO PELA LEI Nº 10.276, DE 09 DE JANEIRO DE 2024.**</td></tr></tbody></table>
 
-<table width="100%" border="1"><tbody><tr><td width="100%"><b><font face="Arial">DISPÕE SOBRE A REVISÃO 2026 DO PLANO PLURIANUAL 2024-2027, INSTITUÍDO PELA LEI Nº 10.276, DE 09 DE JANEIRO DE 2024.</font></b></td></tr></tbody></table>
+**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO**
 
-<br>
-<br>
-**O GOVERNADOR DO ESTADO DO RIO DE JANEIRO**<br>
-Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:<br>
+Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:
 
 **RESOLVE:**
 
-**Art. 1º** Esta Lei estabelece a Revisão 2026 do Plano Plurianual 2024 a 2027 do Estado do Rio de Janeiro, instituído pela Lei Estadual nº 10.276, de 09 de janeiro de 2024, conforme o disposto no seu art. 3º e no art. 209, § 1º da Constituição Estadual do Rio de Janeiro.<br>
+**Art. 1º** Esta Lei estabelece a Revisão 2026 do Plano Plurianual 2024 a 2027 do Estado do Rio de Janeiro, instituído pela Lei Estadual nº 10.276, de 09 de janeiro de 2024, conforme o disposto no seu art. 3º e no art. 209, § 1º da Constituição Estadual do Rio de Janeiro.
+
 **§ 1º.** Integram esta Lei os conteúdos abaixo discriminados:
 
 **I –** Programação Resumida - (Anexo I);
@@ -67,7 +62,7 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§3º**. **VETADO.**
 
-**§4º.** **VETADO.**
+**§4º.VETADO.**
 
 **Art. 5º** Fica o Poder Executivo autorizado a realizar as seguintes alterações nos anexos I, II, IV, V e VI desta Lei, desde que contribuam para a realização dos objetivos dos programas e não os descaracterizem:
 
@@ -107,17 +102,12 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **Parágrafo único.** Os relatórios publicizados em meio eletrônico conterão as metas planejadas versus as executadas, físicas e financeiras, justificados os eventuais descumprimentos.
 
-**Art. 9º** **VETADO.**
+**Art. 9ºVETADO.**
 
 **Art. 10** Esta Lei entrará em vigor na data de sua publicação.
 
-<br>
+Rio de Janeiro, 08 de janeiro de 2026.
 
-Rio de Janeiro, 08 de janeiro de 2026.<br>
-<br>
-<br>
-**CLÁUDIO CASTRO**<br>
+**CLÁUDIO CASTRO**
+
 Governador
-
-<br>
-<br>

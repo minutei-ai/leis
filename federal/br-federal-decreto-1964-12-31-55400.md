@@ -1,5 +1,3 @@
-###DEC-055400-0-000-31-12-1964@@@
-
 Decreto nº 55.400, de 31 de dezembro de 1964.
 
 Autoriza a S.A. de Cimento Mineração e Cabotagem “Cimimar” a lavrar caulim e argila no município de São Benedito do Campo, Estado de São Paulo.

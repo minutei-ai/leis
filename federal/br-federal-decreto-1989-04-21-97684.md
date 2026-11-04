@@ -1,7 +1,3 @@
-1
-
-###DEC-097684-0-000-21-04-1989@@@
-
 DECRETO N° 97.684, DE 21 DE ABRIL DE 1989
 
 Dá nova regulamentação à Lei n° 6.874, de 03 de dezembro de 1980, que dispõe sobre a edição de listas telefônicas.

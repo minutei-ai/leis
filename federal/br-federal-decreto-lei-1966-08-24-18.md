@@ -1,5 +1,3 @@
-###DEL-000018-0-000-24-08-1966@@@
-
 DECRETO-LEI Nº 18, DE 24 DE AGôSTO DE 1966
 
 Dispõe sôbre o exercício da profissão de aeronauta e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093375-0-000-09-10-1986@@@
-
 DECRETO Nº 93.375, DE 9 DE OUTUBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Pajeú, Represa, Três Cantos e Contendas", situados no Município de Caldeirão Grande, no Estado da Bahia compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986 e dá outras providências.

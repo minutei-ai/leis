@@ -1,5 +1,3 @@
-###DEC-064051-0-000-31-01-1969@@@
-
 DECRETO Nº 64.051, DE 31 DE JANEIRO DE 1969.
 
 Inclui nas disposições do Decreto número 55.090, de 28.11.1964, o Grupo Nacional de Desenvolvimento das Construções Escolares.

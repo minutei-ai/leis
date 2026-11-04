@@ -18,11 +18,14 @@ Parágrafo único. O procedimento autorizado no "caput" deste artigo somente pod
 
 Art. 2º Esta lei entrará em vigor na data de sua publicação, revogando disposições em contrário. Gabinete do Prefeito do Município de Aparecida de Goiânia, Goiás, aos 19 dias do mês de Novembro de 2020.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-ANDRÉ LUIS FERREIRA DA ROSA<br>
+ANDRÉ LUIS FERREIRA DA ROSA
+
 Secretário Municipal da Fazenda

@@ -1,5 +1,3 @@
-###DEC-044967-0-000-01-12-1958@@@
-
 DECRETO Nº 44.967, DE 1º DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Carlos Jafet, a lavrar carvão mineral no município de Cricíuma, Estado de Santa Catarina.

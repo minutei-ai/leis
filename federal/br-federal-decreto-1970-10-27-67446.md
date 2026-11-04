@@ -1,5 +1,3 @@
-###DEC-067446-0-000-27-10-1970@@@
-
 Decreto Nº 67.446, de 27 de outubro de 1970.
 
 Redistribui com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional.

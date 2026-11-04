@@ -1,5 +1,3 @@
-###DEC-049647-0-000-31-12-1960@@@
-
 DECRETO Nº 49.647, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Moacyr José dos Santos a lavrar feldspato no município de Maricá, Estado do Rio de Janeiro.

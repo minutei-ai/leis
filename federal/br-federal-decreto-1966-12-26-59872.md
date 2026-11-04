@@ -1,5 +1,3 @@
-###DEC-059872-0-000-26-12-1966@@@
-
 Decreto Nº 59.872, DE 26 DE DEZEMBRO DE 1966.
 
 Retifica o Decreto nº 59.042, de 10 de agôsto de 1966.

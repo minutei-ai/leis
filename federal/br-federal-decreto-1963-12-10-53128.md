@@ -1,5 +1,3 @@
-###DEC-053128-0-000-10-12-1963@@@
-
 DECRETO Nº 53.128, DE 10 DE DEZEMBRO DE 1963.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia (COELBA) concessão para distribuir energia elétrica no município de Mundo Novo Estado da Bahia.

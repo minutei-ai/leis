@@ -1,5 +1,3 @@
-###DEC-045733-0-000-06-04-1959@@@
-
 DECRETO Nº 45.733, DE 06 DE abril DE 1959.
 
 Autoriza a emprêsa de mineração Th. Badin de Minérios Ltda., a pesquisar columbita nos municípios de Rio de Contas e Livramento do Brumado, Estado da Bahia.

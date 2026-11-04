@@ -1,5 +1,3 @@
-###DEC-074558-0-000-13-09-1974@@@
-
 DECRETO Nº 74.558, DE 13 DE SETEMBRO DE 1974.
 
 Renova prazo de concessão outorgada à firma Bula, Sbravati, Granemann & Companhia Ltda., atualmente Marombas e Cia. Ltda. de aproveitamento de energia hidráulica, para uso exclusivo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001240-0-000-15-09-1994@@@
-
 DECRETO Nº 1.240, DE 15 DE SETEMBRO DE 1994
 
 Promulga a Convenção Interamericana sobre Conflitos de Leis em Matéria de Cheques, adotada em Montevidéu, em 8 de maio de 1979.

@@ -1,5 +1,3 @@
-###DEC-002690-0-000-28-07-1998@@@
-
 DECRETO Nº 2.690, DE 28 DE JULHO DE 1998
 
 Promulga o Acordo sobre o Exercício de Atividades Remuneradas por Parte de Dependentes do Pessoal  Diplomático, Consular, Administrativo e Técnico, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai em Brasília, em 23 de outubro de 1996.
@@ -90,4 +88,14 @@ Artigo VI
 
 Feito em Brasília, em 23 de outubro de 1996, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:199.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:199.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ruben Melgarejo Lanzoni</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:199.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República do Paraguai
+
+Luiz Felipe Lampreia
+
+Ruben Melgarejo Lanzoni
+
+Ministro de Estado das Relações Exteriores
+
+Ministro de Relações Exteriores

@@ -1,5 +1,3 @@
-###DEC-088548-0-000-26-07-1983@@@
-
 Decreto nº 88.548, de 26 de julho de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Cabo Frio e Angra dos Reis, Estado do Rio de Janeiro, Salvador, Estado da Bahia e Recife, Estado de Pernambuco.

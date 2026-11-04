@@ -1,5 +1,3 @@
-###DEC-071847-0-000-16-02-1973@@@
-
 DECRETO Nº 71.847, DE 16 DE FEVEREIRO DE 1973.
 
 Retifica aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEC-083610-0-000-21-06-1979@@@
-
 DECRETO Nº 83.610, de 21 de junho de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Manaus, Estado do Amazonas.

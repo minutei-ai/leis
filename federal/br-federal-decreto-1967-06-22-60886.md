@@ -1,5 +1,3 @@
-###DEC-060886-0-000-22-06-1967@@@
-
 DECRETO Nº 60.886, DE 22 DE JUNHO DE 1967.
 
 Altera o enquadramento dos cargos, funções e empregos do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.
@@ -27,8 +25,6 @@ Brasília, 22 de junho de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 Jarbas G. Passarinho
-
-###DEC-060886-0-000-22-06-1967@@@RET01+++
 
 DECRETO Nº 60.886, DE 22 DE JUNHO DE 1967.
 

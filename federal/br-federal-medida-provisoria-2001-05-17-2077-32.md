@@ -1,5 +1,3 @@
-###MPV-002077-0-032-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.077‑32, DE 17 DE MAIO DE 2001.
 
 Institui o Auxílio‑Transporte, dispõe sobre o pagamento dos militares e dos servidores do Poder Executivo Federal, inclusive de suas autarquias, fundações, empresas públicas e sociedades de economia mista, e dá outras providências.

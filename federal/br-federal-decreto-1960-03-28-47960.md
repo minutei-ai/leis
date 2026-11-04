@@ -1,5 +1,3 @@
-###DEC-047960-0-000-28-03-1960@@@
-
 DECRETO Nº 47.960, DE 28 DE MARÇO DE 1960.
 
 Declara de utilidade pública a Sociedade Pro-Construção da Maternidade Popular (Escola) de Fortaleza, com sede em Fortaleza, Estado do Ceará.

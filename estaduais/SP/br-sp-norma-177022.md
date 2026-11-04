@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/177022)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2016/compilacao-lei-16120-18.01.2016.html)
 
 # LEI N° 16.120, DE 18 DE JANEIRO DE 2016
@@ -9,7 +8,8 @@
 
 ### _~~Veda aos estabelecimentos comerciais a exigência de valor mínimo para compras com cartão de crédito ou débito~~_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
+
 ~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~
 
 ~~Artigo 1° - É vedado aos estabelecimentos comerciais no âmbito do Estado a exigência de valor mínimo para compras e consumo com cartão de crédito ou débito.~~

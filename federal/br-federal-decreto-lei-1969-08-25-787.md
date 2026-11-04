@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8c61cdc0-7959-4409-b02d-0d6b2dd15a0a/texto#nowhere)
 
-###DEL-000787-0-000-25-08-1969@@@
-
 dEcRETO-LEI Nº 787, DE 25 De AGÔSTO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Fazenda o crédito especial de NCr$200.000.000,00 para o fim que específica.

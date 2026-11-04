@@ -1,5 +1,3 @@
-###DEC-074141-0-000-29-05-1974@@@
-
 DECRETO Nº 74.141, DE 29 DE MAIO DE 1974.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, da Universidade Católica de Goiás, mantida pela "Sociedade Goiana de Cultura", com sede na cidade de Goiânia, Estado de Goiás.

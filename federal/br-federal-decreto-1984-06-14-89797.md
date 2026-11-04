@@ -1,5 +1,3 @@
-###DEC-089797-0-000-14-06-1984@@@
-
 Decreto nº 89.797, de 14 de junhO de 1984
 
 Dispensa a licitação para alienação das terras devolutas da União que menciona, e dá outras providências.

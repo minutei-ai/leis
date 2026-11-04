@@ -1,5 +1,3 @@
-###DEC-085659-0-000-22-01-1981@@@
-
 Decreto nº 85.659, de 22 de janeiro de 1981.
 
 Autoriza o funcionamento do curso de Graduação de Professores da Faculdade de Formação de Professores Bethencourt da Silva, com sede no Rio de Janeiro, Estado do Rio de janeiro.

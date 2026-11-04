@@ -1,5 +1,3 @@
-###DEC-003166-0-000-14-09-1999@@@
-
 DECRETO Nº 3.166, DE 14 DE SETEMBRO DE 1999.
 
 Promulga a convenção da UNIDROIT sobre Bens culturais Furtados ou Ilicitamente Exportados, concluída em Roma, em 24 de junho de 1995.

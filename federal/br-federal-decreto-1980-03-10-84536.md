@@ -1,5 +1,3 @@
-###DEC-084536-0-000-10-03-1980@@@
-
 DECRETO Nº 84.536 DE 10 DE MARÇO DE 1980
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Fundação Regional de Ensino Superior de Araras, São Paulo.

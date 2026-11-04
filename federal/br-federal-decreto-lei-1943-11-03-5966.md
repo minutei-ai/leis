@@ -1,5 +1,3 @@
-###DEL-005966-0-000-03-11-1943@@@
-
 DECRETO‑LEI N. 5.966 – DE 3 DE NOVEMBRO DE 1943
 
 Modifica o decreto‑lei n. 5.424. de 26 de abril de 1943

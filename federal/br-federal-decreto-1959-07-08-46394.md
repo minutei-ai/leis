@@ -1,5 +1,3 @@
-###DEC-046394-0-000-08-07-1959@@@
-
 DECRETO N° 46.394, DE 8 DE JULHO DE 1959.
 
 Suprime cargo extinto.

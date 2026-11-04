@@ -1,5 +1,3 @@
-###DEC-078564-0-000-11-10-1976@@@
-
 DECRETO Nº 78.564, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Educação, Ciências e Letras, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

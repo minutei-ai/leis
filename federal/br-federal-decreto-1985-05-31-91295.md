@@ -1,5 +1,3 @@
-###DEC-091295-0-000-31-05-1985@@@
-
 DECRETO Nº 91.295, de 31 de maio de 1985.
 
 Inclui na organização da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, a Comissão Executora do Projeto RADAMBRASIL.

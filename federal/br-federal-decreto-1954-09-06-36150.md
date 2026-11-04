@@ -1,14 +1,12 @@
-###DEC-036150-0-000-06-09-1954@@@
+**DECRETO Nº 36.150, DE 6 DE SETEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.150, DE 6 DE SETEMBRO DE 1954.</strong>
+***Cria a estandarte distintivo para a 1ª Companhia de Comunicações - “Companhia Barão de Capanema”.***
 
-<em><strong>Cria a estandarte distintivo para a 1ª Companhia de Comunicações - “Companhia Barão de Capanema”.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criado o estandarte distintivo para a 1ª Companhia de Comunicações - “Companhia Barão de Capanema”, de acôrdo com o modêlo que êste acompanha, obedecendo às seguintes características:
+**Art**. 1º Fica criado o estandarte distintivo para a 1ª Companhia de Comunicações - “Companhia Barão de Capanema”, de acôrdo com o modêlo que êste acompanha, obedecendo às seguintes características:
 
 Campo de azul turquesa, com uma faixa central de vermelho, igual a um nono da largura do campo.
 
@@ -26,10 +24,10 @@ Laço militar das côres nacionais, com a inscrição de ordem - 1ª Companhia d
 
 Dimensões do estandarte: - 0,80x1,10.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 6 de setembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

@@ -1,5 +1,3 @@
-###DEC-074162-0-000-10-06-1974@@@
-
 DECRETO Nº 74.162, DE 10 DE JUNHO DE 1974.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica do curso de Estudos Sociais da Faculdade de Ciências, Letras e Educação de Presidente Prudente, mantida pela Associação Prudentina de Educação, com sede na cidade de Presidente Prudente, Estado de São Paulo.

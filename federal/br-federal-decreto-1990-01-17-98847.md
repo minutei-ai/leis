@@ -1,7 +1,3 @@
-1
-
-###DEC-098847-0-000-17-01-1990@@@
-
 DECRETO Nº 98.847, DE 17 DE JANEIRO DE 1990
 
 Altera o Decreto nº 97.858, de 22 de junho de 1989, e dá outras providências.

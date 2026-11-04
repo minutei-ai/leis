@@ -1,5 +1,3 @@
-###DEC-046856-0-000-15-09-1959@@@
-
 decreto nº 46.856, de 15 de setembro de 1959.
 
 Outorga ao Estado do Rio Grande do Sul concessão para o aproveitamento progressivo da energia hidráulica existente no trecho do rio Taquari compreendido entre a cidade de Bom Retiro do Sul, município de igual nome, Estado do Rio Grande do Sul, e a vila de Mussum município de Guaporé, no mesmo Estado.

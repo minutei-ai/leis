@@ -1,5 +1,3 @@
-###DEC-054823-0-000-03-11-1964@@@
-
 DECRETO Nº 54.823, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza a Cerâmica Togni Ltda. a pesquisar argila, no município de Poços de Caldas, Estado de Minas Gerais.

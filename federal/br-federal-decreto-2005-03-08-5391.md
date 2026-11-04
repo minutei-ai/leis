@@ -1,5 +1,3 @@
-###DEC-005391-0-000-08-03-2005@@@
-
 DECRETO Nº 5.391 DE 8 DE MARÇO DE 2005
 
 Dá nova redação a dispositivos do Anexo I ao Decreto nº 5.201, de 2 de setembro de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores - DAS, das Funções Gratificadas - FG, das Gratificações de Exercício em Cargo de Confiança, das Gratificações de Representação pelo Exercício de Função e das Gratificações de Representação - GR do Ministério da Defesa.

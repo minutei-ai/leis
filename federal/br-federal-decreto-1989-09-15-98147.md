@@ -1,7 +1,3 @@
-1
-
-###DEC-098147-0-000-15-09-1989@@@
-
 DECRETO Nº 98.147, DE 15 DE SETEMBRO DE 1989
 
 Declara de utilidade pública as instituições que menciona.

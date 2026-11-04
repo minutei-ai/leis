@@ -1,5 +1,3 @@
-###DEC-046334-0-000-30-06-1959@@@0
-
 Decreto nº 46.334, de 30 de junho de 1959.
 
 Declara de utilidade pública e autoriza a desapropriação de imóvel necessário ao serviço do Exército Brasileiro.

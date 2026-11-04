@@ -1,5 +1,3 @@
-###DEL-001579-0-000-11-10-1977@@@
-
 # DECRETO-LEI Nº 1.579, DE 11 DE OUTUBRO DE 1977
 
 Modifica o Decreto-Lei nº 1.510, de 27 de dezembro de 1976, que dispõe sobre a tributação de resultados obtidos na transferência de participações societárias e nas operações com imóveis.

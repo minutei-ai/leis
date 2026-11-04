@@ -1,7 +1,3 @@
-1
-
-###DEL-000601-0-000-29-05-1969@@@
-
 Decreto-lei nº 601, de 29 de Maio de 1969
 
 Aprova Acôrdos Aéreos com a Dinamarca, Noruega e Suécia, assinados no Rio de Janeiro a 18 de março de 1969.
@@ -23,8 +19,6 @@ Márcio de Souza e Mello
 José de Magalhães Pinto
 
 O acôrdo a que se refere o presente Decreto foi publicado no D.O. de 30-5 e republicano no de 3-6-69.
-
-###DEL-000601-0-000-29-05-1969@@@REP01+++
 
 (\*) DECRETO-Lei Nº 601, DE 29 DE MAIO DE 1969
 

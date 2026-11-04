@@ -1,5 +1,3 @@
-###DEC-072973-0-000-19-10-1973@@@
-
 DECRETO Nº 72.973, DE 19 DE OUTUBRO DE1973.
 
 Declara sem efeito o Decreto número 25.900, de 2 de dezembro de 1948.

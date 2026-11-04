@@ -1,5 +1,3 @@
-###DEC-095489-0-000-14-12-1987@@@
-
 DECRETO Nº 95.489, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação de Caraguatatuba, São Paulo.

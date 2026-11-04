@@ -1,5 +1,3 @@
-###DEC-005725-0-000-16-03-2006@@@
-
 DECRETO Nº 5.725, DE 16 DE MARÇO DE 2006.
 
 Aprova alterações no Regulamento do Serviço Social do Comércio - SESC, de que trata o Decreto no 61.836, de 5 de dezembro de 1967.

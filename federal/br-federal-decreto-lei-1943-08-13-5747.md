@@ -1,5 +1,3 @@
-###DEL-005747-0-000-13-08-1943@@@
-
 DECRETO‑Lei N. 5.747 – DE 13 DE AGÔSTO DE 1943
 
 Cria uma coletoria federal, no município de Leopoldina, no Estado de Alagoas, e dá outras providências

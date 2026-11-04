@@ -1,5 +1,3 @@
-###DEC-075701-0-000-07-05-1975@@@
-
 DECRETO Nº 75.701, DE 7 DE MAIO DE 1975.
 
 Encampa bens e instalações que constituem a usina termelétrica do Porto e a usina diesel, ambas situadas em Pelotas e de propriedade da Companhia Pelotense de Eletricidade - CPE.

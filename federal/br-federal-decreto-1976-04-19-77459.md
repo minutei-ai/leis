@@ -1,5 +1,3 @@
-###DEC-077459-0-000-19-04-1976@@@
-
 DECRETO Nº 77.459 - DE 19 DE ABRIL DE 1976
 
 Aprova o Regulamento dos Serviços Regionais de Proteção ao Vôo e dá outras providências.

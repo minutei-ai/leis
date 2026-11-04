@@ -1,5 +1,3 @@
-###DEC-052807-0-000-06-11-1963@@@
-
 DECRETO Nº 52.807, DE 6 DE NOVEMBRO DE1963.
 
 Autoriza a Companha Brasileira de Usinas Metalúrgicas a pesquisar minério de ferro no município de Antônio Dias, Estado de Minas Gerais.

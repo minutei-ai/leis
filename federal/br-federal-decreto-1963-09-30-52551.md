@@ -1,5 +1,3 @@
-###DEC-052551-0-000-30-09-1963@@@
-
 DECRETO Nº 52.551, DE 30 DE SETEMBRO DE 1963.
 
 Transfere da Emprêsa de Fôrça e Luz J. Moreira & Irmão para a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Nova Era Estado de Minas Gerais, e dá outras providências.

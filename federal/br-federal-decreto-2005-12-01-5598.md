@@ -1,5 +1,3 @@
-###DEC-005598-0-000-01-12-2005@@@
-
 DECRETO Nº 5.598, DE 1º DE DEZEMBRO DE 2005.
 
 Regulamenta a contratação de aprendizes e dá outras providências.

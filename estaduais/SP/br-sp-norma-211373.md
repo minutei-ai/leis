@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211373)<br>
-
 # ATO DA MESA N° 25/2025, DE 29 DE AGOSTO DE 2025
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições regimentais, CONSIDERANDO o disposto artigo 4° da [Lei Complementar n° 1.431, de 16 de julho de 2025](https://www.al.sp.gov.br/norma/211196), RESOLVE:

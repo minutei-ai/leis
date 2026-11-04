@@ -1,5 +1,3 @@
-###DEC-080809-0-000-23-11-1977@@@
-
 Decreto nº 80.809, de 23 de novembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

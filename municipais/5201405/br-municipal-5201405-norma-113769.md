@@ -8,14 +8,16 @@ Art 1º Fica aberto um Crédito Especial no valor de R$ 60.000,00 (sessenta mil 
 
 Art 2º Fica indicada à fonte do Recurso do Programa de Apoio Administrativo, da Secretaria de Ação Social – 08.122.4000.2.029-3.1.90.13, para originar o valor citado no artigo anterior, sendo desmembrado da seguinte forma:
 
-<table><tbody><tr><td colspan="3" style=" width:660px;  height:21px;   ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Manutenção do Fundo Municipal de Assistência Social</b></td></tr><tr><td colspan="3" style=" width:660px;  height:21px;   "><b>DETALHAMENTO DAS APLICAÇÕES</b></td></tr><tr><td style=" width:431px;  height:21px;   "><b>NATUREZA DA DESPESA</b></td><td style="  height:21px;   "><b>FONTE</b></td><td style=" width:184px;  height:21px;   "><b>Proposta</b></td></tr><tr><td style=" width:431px;  height:21px;   ">31.90.13 – Obrigações Patronais</td><td style="  height:21px;   ">00</td><td style=" width:184px;  height:21px;   ">60.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Manutenção do Fundo Municipal de Assistência Social**</td></tr><tr><td colspan="3">**DETALHAMENTO DAS APLICAÇÕES**</td></tr><tr><td>**NATUREZA DA DESPESA**</td><td>**FONTE**</td><td>**Proposta**</td></tr><tr><td>31.90.13 – Obrigações Patronais</td><td>00</td><td>60.000,00</td></tr></tbody></table>
 
 Art 3º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos nove dias do mês de outubro de dois mil e nove.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL 
 
-ELI DE FARIA<br>
-SECRETÁRIO EXECUTIVO<br>
+ELI DE FARIA
+
+SECRETÁRIO EXECUTIVO

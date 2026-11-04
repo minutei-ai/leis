@@ -1,6 +1,10 @@
 > **LEI Nº 4.609, DE 15 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Reconhece o Município de Feijó - Acre, como a Capital do Açaí.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Reconhece o Município de Feijó - Acre, como a Capital do Açaí.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

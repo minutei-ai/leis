@@ -1,5 +1,3 @@
-###DEC-065177-0-000-17-09-1969@@@
-
 DECRETO Nº 65.177 - DE 17 DE SETEMBRO DE 1969.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá entre as sedes municipais de Anicuns e Nazário, no Estado de Goiás.

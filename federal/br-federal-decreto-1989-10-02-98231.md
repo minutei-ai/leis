@@ -1,7 +1,3 @@
-1
-
-###DEC-098231-0-000-02-10-1989@@@
-
 DECRETO Nº 98.231, DE 2 DE OUTUBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PEIXE FRITO (PARTE)”, situado no Município de Bodoquena, Estado de Mato Grosso do Sul, e dá outras providências.

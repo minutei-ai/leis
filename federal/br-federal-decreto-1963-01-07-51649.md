@@ -1,5 +1,3 @@
-###DEC-051649-0-000-07-01-1963@@@
-
 DECRETO Nº 51.649, DE 7 DE JANEIRO DE 1963.
 
 Aprova a reclassificação de servidores da Administração do Pôrto do Rio de Janeiro (A. P.R. J.), e dá outras providencias.

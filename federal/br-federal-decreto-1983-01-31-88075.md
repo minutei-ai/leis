@@ -1,5 +1,3 @@
-###DEC-088075-0-000-31-01-1983@@@
-
 Decreto nº 88.075, de 31 de janeiro de 1983.
 
 Altera dispositivos do Decreto nº 77.272 de 9 de março de 1976, transferindo o Com5ºDN da cidade de Florianópolis para a cidade de Rio Grande; o ComGrupNL do Com2ºDN para o Com1ºDN; ComGrupNS do Com1ºDN para o Com5ºDN; e dá outras providências.

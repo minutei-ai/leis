@@ -1,5 +1,3 @@
-###DEC-095967-0-000-25-04-1988@@@
-
 DECRETO N° 95.967, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO QUERÊNCIA DE CORONEL BICACO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Coronel Bicaco, Estado do Rio Grande do Sul

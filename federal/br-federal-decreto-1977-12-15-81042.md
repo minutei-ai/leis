@@ -1,5 +1,3 @@
-###DEC-081042-0-000-15-12-1977@@@
-
 Decreto nº 81.042, de 15 de dezembro de 1977.
 
 Declara sem efeito o Decreto n° 16.665, de 27 de setembro de 1944, que autorizou o cidadão brasileiro Eugênio Appelt a lavrar mica e associados no Município de Governador Valadares, Estado de Minas Gerais.

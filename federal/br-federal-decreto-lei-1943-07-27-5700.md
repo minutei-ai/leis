@@ -1,5 +1,3 @@
-###DEL-005700-0-000-27-07-1943@@@
-
 DECRETO‑LEI N. 5.700 – DE 27 DE JULHO DE 1943
 
 Prorroga até 31 de dezembro do corrente ano, o prazo a que se refere o art. 1º do decreto‑lei n. 5.235, de 9‑2‑1943

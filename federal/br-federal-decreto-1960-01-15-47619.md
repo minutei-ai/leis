@@ -1,5 +1,3 @@
-###DEC-047619-0-000-15-01-1960@@@
-
 DECRETO Nº 47.619, DE 15 DE JANEIRO DE 1960.
 
 Declara insubsistente o Decreto número 44.016, de 8 de julho de 1958.

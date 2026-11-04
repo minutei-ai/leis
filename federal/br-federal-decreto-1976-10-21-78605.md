@@ -1,5 +1,3 @@
-###DEC-078605-0-000-21-10-1976@@@
-
 DECRETO Nº 78.605, DE 21 DE OUTUBRO DE 1976.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores ao Primeiro Grau de Belém do São Francisco, com sede na cidade de Belém do São Francisco, Estado de Pernambuco.

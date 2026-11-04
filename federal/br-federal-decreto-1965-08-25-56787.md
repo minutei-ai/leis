@@ -1,5 +1,3 @@
-###DEC-056787-0-000-25-08-1965@@@
-
 DECRETO Nº 56.787, DE 25 DE AGôSTO DE 1965.
 
 Declara de utilidade pública a “Sociedade Beneficente Hospitalar São Caetano”, com sede em São Caetano do Sul, Estado de São Paulo.

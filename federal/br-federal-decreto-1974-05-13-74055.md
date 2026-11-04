@@ -1,5 +1,3 @@
-###DEC-074055-0-000-13-05-1974@@@
-
 DECRETO Nº 74.055, DE 13 DE MAIO DE 1974.
 
 Aprova o Regulamento para a Diretoria de Hidrografia e Navegação.

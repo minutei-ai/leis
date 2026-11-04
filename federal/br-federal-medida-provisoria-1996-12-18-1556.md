@@ -1,7 +1,3 @@
-1
-
-###MPV-001556-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.556, DE 18 DE DEZEMBRO DE 1996.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

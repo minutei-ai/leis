@@ -1,5 +1,3 @@
-###DEC-064348-0-000-10-04-1969@@@
-
 DECRETO Nº 64.348, DE 10 DE ABRIL DE 1969.
 
 Torna sem efeito nomeação para interventor federal no Município de Goiana, no Estado de Pernambuco, e dá outras providencias.

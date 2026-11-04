@@ -1,5 +1,3 @@
-###DEC-085055-0-000-19-08-1980@@@
-
 Decreto nº 85.055, de 19 de agosto de 1980
 
 Autoriza o funcionamento do curso de Ciências Contábeis, da Faculdade de Ciências Humanas de Marechal Cândido Rondon, em Marechal Cândido Rondon, Estado do Paraná.

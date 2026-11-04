@@ -1,5 +1,3 @@
-###DEC-003200-0-000-06-10-1999@@@
-
 DECRETO Nº 3.200, DE 6 DE OUTUBRO DE 1999.
 
 Dispõe sobre o Conselho Nacional de Desenvolvimento Rural - CNDR e sobre o Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências.

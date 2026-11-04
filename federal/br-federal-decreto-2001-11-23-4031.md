@@ -1,5 +1,3 @@
-###DEC-004031-0-000-23-11-2001@@@
-
 DECRETO Nº 4.031, DE 23 DE NOVEMBRO DE 2001.
 
 Altera os Anexos I, II, IV, V e VI do Decreto no 3.746, de 6 de fevereiro de 2001, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 2001.

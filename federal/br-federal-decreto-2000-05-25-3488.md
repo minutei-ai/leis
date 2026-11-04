@@ -1,5 +1,3 @@
-###DEC-003488-0-000-25-05-2000@@@
-
 DECRETO Nº 3.488, DE 25 DE MAIO DE 2000.
 
 Promulga o Acordo de Cooperação na Área de Turismo entre o Governo da República Federativa do Brasil e o Governo da Jamaica, celebrado em Brasília, em 28 de agosto de 1997.
@@ -112,4 +110,20 @@ Os abaixo-assinados, devidamente autorizados pelos respectivos Governos, assinar
 
 Feito em Brasília, em 28 de agosto de 1997, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente idênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Ministro de Estado das Relações Exteriores</span></p></td><td style="width:201.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da Jamaica</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Seymour St. Edward Mullings</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Vice-Primeiro-Ministro</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das Relações Exteriores
+
+</td><td style="width:201.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da Jamaica
+
+Seymour St. Edward Mullings
+
+Vice-Primeiro-Ministro
+
+</td></tr></tbody></table>

@@ -1,7 +1,3 @@
-1
-
-###DEC-001001-0-000-06-12-1993@@@
-
 DECRETO Nº 1.001, DE 6 DE DEZEMBRO DE 1993
 
 Cria Comissão Especial, com âmbito de atuação na Administração Pública Federal direta e indireta, e dá outras providências.

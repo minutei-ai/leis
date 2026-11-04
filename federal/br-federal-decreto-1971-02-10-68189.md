@@ -1,5 +1,3 @@
-###DEC-068189-0-000-10-02-1971@@@
-
 decreto nº 68.189, de 10 de Fevereiro de 1971.
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

@@ -1,5 +1,3 @@
-###DEL-007023-0-000-06-11-1944@@@
-
 DECRETO-LEI N. 7.023 – DE 6 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 115.000,00 à verba que especifica e torna sem aplicação igual quantia no orçamento em vigor.

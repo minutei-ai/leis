@@ -28,7 +28,7 @@ Art. 2° A contribuição previdenciária de que trata o inciso III, § 2°, do 
 
 Parágrafo Único. Para custeio do déficit atuarial fica instituída, também, a contribuição a cargo do ente o percentual de alíquota do custo suplementar, conforme tabela discriminada abaixo, incidente sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos, para o período de 2016 a 2051.
 
-<table><tbody><tr><td colspan="4" style="width: 604px; text-align: center;"><b>Custo Suplementar</b></td></tr><tr><td style="width: 151px; text-align: center;">2016</td><td style="width: 151px; text-align: center;">a</td><td style="width: 151px; text-align: center;">2020</td><td style="width: 151px; text-align: center;">2,00%</td></tr><tr><td style="width: 151px; text-align: center;">2021</td><td style="width: 151px; text-align: center;">a</td><td style="width: 151px; text-align: center;">2051</td><td style="width: 151px; text-align: center;">28,40%</td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">**Custo Suplementar**</td></tr><tr><td>2016</td><td>a</td><td>2020</td><td>2,00%</td></tr><tr><td>2021</td><td>a</td><td>2051</td><td>28,40%</td></tr></tbody></table>
 
 Art. 3° Mantem-se inalterada a alíquota de contribuição previdenciária de 11% (onze por cento) sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos e sobre as parcelas dos proventos de aposentadoria e de pensão que superem o limite máximo estabelecido para os benefícios do Regime Geral da Previdência Social e o dobro deste limite do que trata o art. 201 da Constituição Federal, quando o beneficiário, na forma da Lei, for portador de doença incapacitante.
 
@@ -36,11 +36,14 @@ Art. 4° Este Decreto entrará em vigor no dia 1º de Janeiro de 2017, ficando r
 
 Aparecida de Goiânia, aos 25 dias do mês de Outubro de 2.016.
 
-LUIZ ALBERTO MAGUITO VILELA <br>
+LUIZ ALBERTO MAGUITO VILELA 
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA <br>
+ELI DE FARIA 
+
 PRESIDENTE DO APARECIDAPREV
 
-EULER MORAIS <br>
-SECRETÁRIO MUNICIPAL DE GOVERNO E INTEGRAÇÃO INSTITUCIONAL<br>
+EULER MORAIS 
+
+SECRETÁRIO MUNICIPAL DE GOVERNO E INTEGRAÇÃO INSTITUCIONAL

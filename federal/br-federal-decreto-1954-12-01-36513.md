@@ -1,14 +1,12 @@
-###DEC-036513-0-000-01-12-1954@@@
+**DECRETO Nº 36.513, DE 1 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.513, DE 1 DE DEZEMBRO DE 1954.</strong>
+***Cria o Estandarte-Distintivo do 1º Regimento de Obuses-105 (Regimento Floriano).***
 
-<em><strong>Cria o Estandarte-Distintivo do 1º Regimento de Obuses-105 (Regimento Floriano).</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da constituição,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criado o estandarte-distivo para o 1º Regimento de Obuses-105 (Regime Floriano), de acôrdo com o môdelo que acompanha este decreto e com as seguintes característica:
+**Art**. 1º Fica criado o estandarte-distivo para o 1º Regimento de Obuses-105 (Regime Floriano), de acôrdo com o môdelo que acompanha este decreto e com as seguintes característica:
 
 a) Campo de azul ultramar, tendo ao centro uma coluna de ouro com o sabre das armas da Republica sobreposta e ladeada por dois ramos de carvalho, também de ouro;
 
@@ -22,11 +20,11 @@ e) Franja de ouro em derredor laço militar das côres nacionais, com a inscriç
 
 f) Dimensões 0,80 x1,10m
 
-<strong>Art</strong>. 2º Êste decreto entrara em vigôr na data de sua publicação, em contrario
+**Art**. 2º Êste decreto entrara em vigôr na data de sua publicação, em contrario
 
 Rio de janeiro, 1 de dezembro de 1954; 133º da independente e 66º da republica.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott
 

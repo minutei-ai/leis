@@ -1,5 +1,3 @@
-###DEC-055795-0-000-24-02-1965@@@
-
 DECRETO Nº 55.795, DE 24 DE FEVEREIRO DE 1965.
 
 Institui em todo território nacional, a Festa Anual das Árvores.

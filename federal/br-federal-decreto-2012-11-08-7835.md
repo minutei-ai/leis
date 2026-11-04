@@ -1,5 +1,3 @@
-###DEC-007835-0-000-08-11-2012-PUB-01@@@
-
 DECRETO Nº 7.835, DE 8 DE NOVEMBRO DE 2012
 
 Altera o Regimento Interno do Conselho de Recursos do Sistema Financeiro Nacional, Anexo ao Decreto nº 1.935, de 20 de junho de 1996, e altera o Estatuto do Conselho de Controle de Atividades Financeiras - COAF, Anexo ao Decreto nº 2.799, de 8 de outubro de 1998, e dá outras providências.

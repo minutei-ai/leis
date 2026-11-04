@@ -1,5 +1,3 @@
-###DEC-045303-0-000-27-01-1959@@@
-
 DECRETO Nº 45.303, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Ricardo Lacerda de Almeida Brennand a pesquisar argila no município de Oeiras, Estado do Piauí.

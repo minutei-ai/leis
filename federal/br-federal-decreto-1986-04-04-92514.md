@@ -1,5 +1,3 @@
-###DEC-092514-0-000-04-04-1986@@@
-
 DECRETO Nº 92.514, DE 4 DE ABRIL DE 1986
 
 Autoriza a transferência direta da concessão outorgada À RÁDIO JABOTICABAL LIMITADA, para o SISTEMA EVANGELIZADOR DE RADIODIFUSÃO LIMITADA.

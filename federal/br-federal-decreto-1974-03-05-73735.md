@@ -1,5 +1,3 @@
-###DEC-073735-0-000-05-03-1974@@@
-
 DECRETO Nº 73.735, DE 5 DE MARÇO DE 1974.
 
 Retifica o artigo 1º do Decreto número 71.602, de 22 de dezembro de 1972, que concedeu reconhecimento ao Curso de Comunicação Social da Faculdade de Filosofia e Ciências Humanas da Universidade Federal de Minas Gerais.

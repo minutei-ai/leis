@@ -1,5 +1,3 @@
-###DEC-067361-0-000-07-10-1970@@@
-
 DECRETO Nº 67.361, DE 7 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto número 14.538, de 19 de janeiro de 1944.

@@ -1,5 +1,3 @@
-###DEC-064865-0-000-24-07-1969@@@
-
 DECRETO Nº 64.865 - DE 24 DE JULHO DE 1969.
 
 Cria o Comando de Fronteira do Acre-Rondônia e dá outras providências.

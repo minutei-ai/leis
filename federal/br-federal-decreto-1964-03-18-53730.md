@@ -1,5 +1,3 @@
-###DEC-053730-0-000-18-03-1964@@@
-
 DECRETO Nº 53.730, DE 18 DE MARÇO DE 1964.
 
 Aprova as alterações introduzidas nos Estatutos da Sociedade Anônima de Seguros Gerais Lloyd Industrial Sul Americano, inclusive aumento de capital social.

@@ -1,5 +1,3 @@
-###DEC-053031-0-000-28-11-1963@@@
-
 DECRETO Nº 53.031, de 28 de novembro de 1963.
 
 Dispõe sôbre gratificação do Presidente e membros do Conselho Deliberativo do Departamento Nacional de Obras de Saneamento, e dá outras providências.

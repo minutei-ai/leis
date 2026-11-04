@@ -1,5 +1,3 @@
-###DEC-057798-0-000-14-02-1966@@@
-
 DECRETO Nº 57.798, de 14 de fevereiro de 1966.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito que menciona.

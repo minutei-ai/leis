@@ -1,5 +1,3 @@
-###DEC-073648-0-000-14-02-1974@@@
-
 DECRETO nº 73.648, de 14 de Fevereiro de 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona e a promover sua reversão à Prefeitura Municipal de Várzea Grande, Estado de Mato Grosso.

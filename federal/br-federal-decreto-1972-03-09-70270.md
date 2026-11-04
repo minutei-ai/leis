@@ -1,5 +1,3 @@
-###DEC-070270-0-000-09-03-1972@@@
-
 DECRETO Nº 70.270, DE 9 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis destinados à construção de uma Estação Telefônica Automática, pela Companhia Telefônica Brasileira, na Cidade do Rio de Janeiro, Estado da Guanabara.

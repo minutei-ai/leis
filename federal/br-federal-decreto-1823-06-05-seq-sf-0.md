@@ -1,5 +1,3 @@
-###DEC-000000-0-000-05-06-1823@@@
-
 DECRETO - DE 5 DE JUNHO DE 1823
 
 Dispensa o Procurador da Corda das funcções do Promotor Fiscal dos delictos da liberdade da imprensa e nomeia para este logar o Dezembargador Promotor das Justiças da Casa da Supplicação.

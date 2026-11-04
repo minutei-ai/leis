@@ -1,6 +1,7 @@
 LEI Nº 4.399 DE 25 DE FEVEREIRO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique.
 
 Cria o Município de América Dourada, fixa os limites e dá outras providências.
@@ -25,8 +26,10 @@ começa no marco no lugar Aldeia, à margem da Vereda do Romão Gramacho ou Rio 
 
 Começa no lugar Mato Verde, às margens da Vereda do Romão Gramacho, ou rio Jacaré, daí em reta, em direção Norte, até a sede do Povoado de Belo Campo, tendo nesta, como limite, a estrada que vai de Mato Verde para Gameleira dos Crentes, a qual divide o referido Povoado, deixando uma parte do mesmo para cada Município. Daí segue em reta, ainda em direção Norte, até o lugar chamado Boi.
 
-Redação de acordo com a Lei nº 4.482, de 03 de julho de 1985.<br>
-Redação original: "4 - Com o Município de Lapão:<br>
+Redação de acordo com a Lei nº 4.482, de 03 de julho de 1985.
+
+Redação original: "4 - Com o Município de Lapão:
+
 começa no marco no lugar Mato Verde, à margem da Vereda do Romão Gramacho ou Rio Jacaré, daí em reta ao marco no Povoado de Belo Campo, daí em reta ao marco no lugar Boi."
 
 5 - Com o Município de João Dourado:
@@ -43,8 +46,10 @@ Distrito de Belo Campo:
 
 começa na barragem do Mato Verde à margem da Vereda Romão Gramacho, ou rio Jacaré, daí em reta em direção Norte até a sede do Povoado de Belo Campo, onde tem como limite a estrada que vai de Mato Verde para Gameleira dos Crentes e daí pela interdistrital ao Povoado de Bom Prazer e deste pela linha divisória com os Municípios de Irecê e João Dourado até o marco no lugar Mãe Velha, deste marco em linha reta ao marco do lugar Campo Alegre e deste ainda em reta ao marco no lugar Presídio, no rio Jacaré, subindo por este rio até o marco inicial no lugar Mato Verde, com sede na parte da Vila de Belo Campo, pertencente ao Município de América Dourada.
 
-Redação de acordo com a Lei nº 4.482, de 03 de julho de 1985.<br>
-Redação original: "Distrito de Belo Campo:<br>
+Redação de acordo com a Lei nº 4.482, de 03 de julho de 1985.
+
+Redação original: "Distrito de Belo Campo:
+
 começa no marco no lugar Mato Verde na margem do Rio Jacaré, daí pela estrada vicinal ao marco situado fora da área urbana no lugar Belo Campo, daí pela linha interdistrital ao Povoado Bom Prazer e deste pela linha divisória com os Municípios de Irecê e João Dourado até o marco no lugar Mãe Velha, deste marco linha reta ao marco do lugar Campo Alegre e deste ainda em reta ao marco do lugar Campo Alegre e deste ainda em reta ao marco no lugar Presídio no Rio Jacaré, subindo por este Rio até o marco inicial no lugar Mato Verde, com sede na Vila de Belo Campo."
 
 Distrito de Soares:

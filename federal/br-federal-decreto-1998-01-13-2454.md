@@ -1,5 +1,3 @@
-###DEC-002454-0-000-13-01-1998@@@
-
 DECRETO Nº 2.454, DE 13 DE JANEIRO DE 1998
 
 Torna sem efeito a revogação do Decreto que menciona.

@@ -1,5 +1,3 @@
-###DEC-056387-0-000-01-06-1965@@@
-
 DECRETO Nº 56.387, DE 1º DE JUNHO DE 1965.
 
 Dispõe sôbre a não realização, no corrente ano, das Assembléias Gerais dos Conselhos nacionais, de Estatística e de Geografia.

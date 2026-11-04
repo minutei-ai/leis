@@ -1,5 +1,3 @@
-###DEC-058307-0-000-02-05-1966@@@
-
 DECRETO Nº 58.307, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Moacir de Lima Valenti a pesquisar calcário no município de Cantagalo, no Estado do Rio de Janeiro.

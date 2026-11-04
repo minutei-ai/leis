@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208939)<br>
-
 # DECRETO N° 68.190, DE 14 DE DEZEMBRO DE 2023
 
 ### _Autoriza a abertura de licitação para a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção e realização dos investimentos necessários para a exploração do sistema rodoviário denominado "Lote Litoral Paulista", e aprova o respectivo regulamento._
@@ -76,12 +74,14 @@ Secretário-Chefe da Casa Civil
 
 Publicado na Casa Civil, aos 14 de dezembro de 2023.
 
-#### ANEXO <br>
+#### ANEXO 
+
 a que se refere o artigo 3° do Decreto n°68.190, de 14 de dezembro de 2023
 
 #### REGULAMENTO DA CONCESSÃO DOS SERVIÇOS PÚBLICOS DE EXPLORAÇÃO DO SISTEMA RODOVIÁRIO DENOMINADO "LOTE LITORAL PAULISTA"
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a concessão patrocinada dos serviços públicos de ampliação, operação, manutenção, conservação e realização de investimentos necessários à exploração do sistema rodoviário que abrange os Municípios de Miracatu, Pedro de Toledo, Itariri, Peruíbe, Itanhaém, Mongaguá, Praia Grande, Santos, Bertioga, Biritiba-Mirim, Mogi das Cruzes, Itaquaquecetuba e Arujá, totalizando aproximadamente 212 km (duzentos e doze quilômetros), correspondente ao "Lote Litoral Paulista" do Programa Estadual de Concessões, compreendendo sua execução, gestão e fiscalização, conforme autorizado pelo [Decreto n° 61.634, de 19 de novembro de 2015](https://www.al.sp.gov.br/norma/176482).
@@ -102,7 +102,8 @@ VI - SPA 344/055 - km 10,200 ao km 20,000.
 
 **Parágrafo único -** Serão incorporadas ao sistema rodoviário de que trata o "caput" todas as ampliações a serem implantadas durante o período da concessão, que passarão a integrar sua faixa de domínio.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Serviços Previstos no Sistema Rodoviário
 
 **Artigo 3° -** Os serviços e demais atividades operacionais a serem executados no sistema rodoviário são classificados em:
@@ -227,7 +228,8 @@ IV - declaração de utilidade pública ou de interesse social para fins de desa
 
 **Parágrafo único -** Os sistemas de controle e automação a que se refere este artigo deverão permitir integral aplicação dos serviços não delegados, especialmente no que se refere à fiscalização de trânsito.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Responsabilidades da Concessionária
 
 **Artigo 8° -** São deveres da concessionária, durante todo o prazo de concessão, sem prejuízo do disposto no contrato de concessão:
@@ -292,7 +294,8 @@ XXIX- manter em plena operação, e dentro dos padrões estabelecidos, os canais
 
 XXX- observar o regramento estabelecido no contrato e normas expedidas pela ARTESP quanto à devolução do sistema rodoviário ou eventual transferência para concessionária que a suceda.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 9° -** Estão sujeitos à fiscalização e monitoramento todos os serviços previstos no presente regulamento.
@@ -309,12 +312,14 @@ Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa 
 
 **§ 2° -** A fiscalização do serviço será feita pela ARTESP, que poderá contratar serviços de apoio à fiscalização, observado o disposto na [Lei Complementar n° 914, de 14 de janeiro de 2002](https://www.al.sp.gov.br/norma/935), e alterações posteriores.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Do Policiamento Ostensivo, Preventivo e Repressivo
 
 **Artigo 12 -** As atividades policiais de caráter ostensivo, preventivo e repressivo, e outras atribuídas por lei à Polícia Militar, serão exercidas, no sistema rodoviário de que trata este regulamento, pela Polícia Militar Rodoviária.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Das Tarifas de Pedágio e das Receitas
 
 **Artigo 13 -** Constituem receitas da concessionária, a partir das datas previstas no edital:
@@ -341,7 +346,8 @@ X - outras previstas no edital e no contrato respectivo, ou que venham a ser reg
 
 **Artigo 14 -** As tarifas de pedágio, a contraprestação pública e as receitas acessórias decorrentes dos serviços não delegados, bem como os critérios e a periodicidade de reajuste, serão estabelecidos no edital, observadas as normas legais e regulamentares pertinentes.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Dos Direitos e Obrigações dos Usuários
 
 **Artigo 15 -** São direitos e obrigações dos usuários:
@@ -362,7 +368,8 @@ VII- contribuir para a conservação das boas condições dos bens públicos por
 
 **Artigo 16 -** A ARTESP e a concessionária estimularão a participação da comunidade em assuntos de interesse do sistema rodoviário objeto da concessão.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Disposições Gerais
 
 **Artigo 17 -** O Poder Concedente providenciará, mediante proposta da concessionária, as medidas para a declaração de utilidade pública dos bens e áreas necessários à ampliação do sistema rodoviário, responsabilizando-se a concessionária pela promoção das desapropriações e servidões administrativas, bem como pelas respectivas indenizações, na forma autorizada pelo Poder Público.

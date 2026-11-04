@@ -1,65 +1,85 @@
-LEI Nº 21.880, DE 20 DE ABRIL DE 2023.<br>
-\- [Vide Lei nº 22.785](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109232/lei-22875), de 26-7-2024 (Estabelece os repasses financeiros do Estado de Goiás ao Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, como subvenção econômica, para a cobertura das provisões técnicas.)<br>
-\- [Vide Decreto nº 21.257](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107074/decreto-10257), de 24-4-2023 - (Designa o presidente para o Ipasgo Saúde).<br>
+LEI Nº 21.880, DE 20 DE ABRIL DE 2023.
+
+\- [Vide Lei nº 22.785](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109232/lei-22875), de 26-7-2024 (Estabelece os repasses financeiros do Estado de Goiás ao Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, como subvenção econômica, para a cobertura das provisões técnicas.)
+
+\- [Vide Decreto nº 21.257](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107074/decreto-10257), de 24-4-2023 - (Designa o presidente para o Ipasgo Saúde).
+
  
 
 Autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
 
-Art. 1º Fica instituído o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, pessoa jurídica de direito privado, sem fins lucrativos, na modalidade de autogestão multipatrocinada, com o objetivo de prestar assistência à saúde, de caráter suplementar, inclusive com a manutenção, a criação, a administração e a operação de planos privados de assistência à saúde.<br>
+Art. 1º Fica instituído o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, pessoa jurídica de direito privado, sem fins lucrativos, na modalidade de autogestão multipatrocinada, com o objetivo de prestar assistência à saúde, de caráter suplementar, inclusive com a manutenção, a criação, a administração e a operação de planos privados de assistência à saúde.
+
 \-  [Redação dada pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 ~~Art. 1º Fica instituído o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, pessoa jurídica de direito privado, sem fins lucrativos, na modalidade de autogestão, com o objetivo de prestar assistência à saúde dos servidores públicos e militares, ativos, inativos e pensionistas do Estado de Goiás, bem como de seus dependentes e agregados, além dos empregados públicos inscritos como usuários.~~
 
-Parágrafo único. O Ipasgo Saúde goza, nos termos das alíneas “a” e “c” do inciso VI do art. 150 da Constituição federal, de imunidade em relação aos impostos federais e municipais, bem como é beneficiário de isenção dos tributos estaduais e isenção de custas, emolumentos e demais taxas judiciárias estaduais.<br>
+Parágrafo único. O Ipasgo Saúde goza, nos termos das alíneas “a” e “c” do inciso VI do art. 150 da Constituição federal, de imunidade em relação aos impostos federais e municipais, bem como é beneficiário de isenção dos tributos estaduais e isenção de custas, emolumentos e demais taxas judiciárias estaduais.
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 ~~Parágrafo único. O Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás – Ipasgo Saúde, goza, nos termos do art. 150, inciso VI, alíneas "a" e "c", da Constituição Federal, de imunidade em relação aos impostos federais e municipais, bem assim é beneficiário de isenção dos tributos estaduais.~~
 
-Art. 1º-A. Poderão ser inscritos como beneficiários do Ipasgo Saúde:<br>
+Art. 1º-A. Poderão ser inscritos como beneficiários do Ipasgo Saúde:
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-I – servidores e empregados públicos e militares, ativos, inativos, ex– servidores e pensionistas dos Poderes do Estado de Goiás, dos municípios e da União, desde que estejam estabelecidos no território estadual;<br>
+I – servidores e empregados públicos e militares, ativos, inativos, ex– servidores e pensionistas dos Poderes do Estado de Goiás, dos municípios e da União, desde que estejam estabelecidos no território estadual;
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-II – servidores e empregados públicos de outros entes da Federação que estiverem cedidos ao Estado, com ônus para o órgão requisitante;<br>
+II – servidores e empregados públicos de outros entes da Federação que estiverem cedidos ao Estado, com ônus para o órgão requisitante;
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-III – pessoal de que trata a [Lei estadual nº 8.974](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86332), de 5 de janeiro de 1981, ativo e inativo;<br>
+III – pessoal de que trata a [Lei estadual nº 8.974](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86332), de 5 de janeiro de 1981, ativo e inativo;
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-IV – pensionistas de ex– detentores de emprego público estadual, desde que o benefício tenha sido concedido pelo Regime Geral de Previdência devido ao vínculo com a administração pública estadual;<br>
+IV – pensionistas de ex– detentores de emprego público estadual, desde que o benefício tenha sido concedido pelo Regime Geral de Previdência devido ao vínculo com a administração pública estadual;
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-V – serventuários da Justiça, titulares cartorários e dobristas, ativos e inativos, inscritos na vigência da [Lei estadual nº 10.150](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85504), de 29 de novembro de 1986;<br>
+V – serventuários da Justiça, titulares cartorários e dobristas, ativos e inativos, inscritos na vigência da [Lei estadual nº 10.150](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85504), de 29 de novembro de 1986;
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-VI – detentores de mandato eletivo do Executivo e do Legislativo estadual ou municipal, durante o seu exercício;<br>
+VI – detentores de mandato eletivo do Executivo e do Legislativo estadual ou municipal, durante o seu exercício;
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-VII – empregados, aposentados e administradores do próprio Ipasgo Saúde; e<br>
+VII – empregados, aposentados e administradores do próprio Ipasgo Saúde; e
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-VIII – conselheiros tutelares.<br>
+VIII – conselheiros tutelares.
+
 \- [Redação dada pela Lei nº 22.760, de 10-6-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108990/lei-22760)
 
-~~VIII – grupos familiares dos beneficiários indicados nos incisos I a VII deste artigo, com limitação ao terceiro grau de parentesco consanguíneo e até o segundo grau de parentesco por afinidade, menor sob guarda ou tutela e o curatelado.~~<br>
+~~VIII – grupos familiares dos beneficiários indicados nos incisos I a VII deste artigo, com limitação ao terceiro grau de parentesco consanguíneo e até o segundo grau de parentesco por afinidade, menor sob guarda ou tutela e o curatelado.~~
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-IX – as pessoas vinculadas às entidades patrocinadoras, nos termos da regulamentação da Agência Nacional de Saúde Suplementar – ANS;<br>
+IX – as pessoas vinculadas às entidades patrocinadoras, nos termos da regulamentação da Agência Nacional de Saúde Suplementar – ANS;
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679/lei-24360).
 
-X – os integrantes de uma ou mais categorias profissionais; e<br>
+X – os integrantes de uma ou mais categorias profissionais; e
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679/lei-24360).
 
-XI – os grupos familiares dos beneficiários indicados nos incisos I a X deste artigo até o quarto grau de parentesco consanguíneo ou por afinidade, o cônjuge ou o companheiro, bem como a criança e o adolescente sob guarda definitiva, tutela ou curatela.<br>
+XI – os grupos familiares dos beneficiários indicados nos incisos I a X deste artigo até o quarto grau de parentesco consanguíneo ou por afinidade, o cônjuge ou o companheiro, bem como a criança e o adolescente sob guarda definitiva, tutela ou curatela.
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679/lei-24360).
 
-Parágrafo único. A normatização do sistema de assistência à saúde ocorrerá na forma de regulamento próprio para cada plano de saúde, com a aprovação do Conselho de Administração e registro na ANS, o qual poderá definir os graus de parentesco elegíveis para os grupos familiares, respeitado o limite máximo estabelecido no inciso XI deste artigo.<br>
+Parágrafo único. A normatização do sistema de assistência à saúde ocorrerá na forma de regulamento próprio para cada plano de saúde, com a aprovação do Conselho de Administração e registro na ANS, o qual poderá definir os graus de parentesco elegíveis para os grupos familiares, respeitado o limite máximo estabelecido no inciso XI deste artigo.
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679/lei-24360).
 
-~~Parágrafo único.  Poderão ser inscritos como beneficiários do Ipasgo Saúde os grupos familiares dos beneficiários indicados nos incisos I a VIII deste artigo, com limitação ao terceiro grau de parentesco consanguíneo e até o segundo grau de parentesco por afinidade, menor sob guarda ou tutela e o curatelado.~~<br>
+~~Parágrafo único.  Poderão ser inscritos como beneficiários do Ipasgo Saúde os grupos familiares dos beneficiários indicados nos incisos I a VIII deste artigo, com limitação ao terceiro grau de parentesco consanguíneo e até o segundo grau de parentesco por afinidade, menor sob guarda ou tutela e o curatelado.~~
+
 \- [Acrescido pela Lei nº 22.760, de 10-6-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108990)
 
 Art. 2º Compõem as receitas do Ipasgo Saúde:
@@ -68,12 +88,14 @@ I – as contribuições mensais dos servidores públicos ativos, inativos e dos
 
 II – rendas resultantes da aplicação de reservas financeiras, de locações e de investimentos realizados com os seus recursos e da alienação de seus bens e serviços, bem como outros rendimentos derivados de seus bens e direitos;
 
-III – receitas decorrentes de convênios, contratos e outras formas, inclusive da exploração dos recursos de propriedade ou de uso do Ipasgo Saúde;<br>
+III – receitas decorrentes de convênios, contratos e outras formas, inclusive da exploração dos recursos de propriedade ou de uso do Ipasgo Saúde;
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 ~~III – as receitas decorrentes de convênios, contratos e afins;~~
 
-IV – doações, legados, subvenções, repasses, ressarcimentos, compensações, programas de apoio custeados por entes públicos e outras rendas eventuais, inclusive as contribuições dos patrocinadores;<br>
+IV – doações, legados, subvenções, repasses, ressarcimentos, compensações, programas de apoio custeados por entes públicos e outras rendas eventuais, inclusive as contribuições dos patrocinadores;
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 ~~IV – doações, legados, subvenções, repasses e outras rendas eventuais;~~
@@ -90,25 +112,31 @@ IX – taxas, contribuições, percentagens e outras importâncias devidas em de
 
 Art. 3º Os valores pagos pelos usuários do Ipasgo Saúde, e descontados das respectivas folhas de pagamento a título de contraprestação pecuniária, caracterizam-se como valores consignados ao Estado que deverão ser transferidos ao lpasgo Saúde até o 5º (quinto) dia útil após o pagamento dos salários.
 
-Art. 4º Ao usuário titular, optante do padrão de conforto básico ou especial, cadastrado até a data de vigência desta Lei, ficam assegurados os percentuais de desconto e o sistema assistencial da extinta autarquia, e ele poderá, por sua livre iniciativa, aderir aos planos de saúde regulamentados, que venham a ser registrados pelo Ipasgo Saúde.<br>
-[\- Redação dada pela Lei nº 23.941, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111793) <br> 
+Art. 4º Ao usuário titular, optante do padrão de conforto básico ou especial, cadastrado até a data de vigência desta Lei, ficam assegurados os percentuais de desconto e o sistema assistencial da extinta autarquia, e ele poderá, por sua livre iniciativa, aderir aos planos de saúde regulamentados, que venham a ser registrados pelo Ipasgo Saúde.
 
-~~Art. 4º Ao beneficiário, optante do padrão de conforto básico ou especial, cadastrado até a data de vigência desta Lei, ficam assegurados os percentuais de desconto e o sistema assistencial da extinta autarquia, e ele poderá, por sua livre iniciativa, aderir a outras modalidades de planos assistenciais que possam ser criadas pelo Ipasgo Saúde.~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)<br>
+[\- Redação dada pela Lei nº 23.941, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111793) 
+ 
+
+~~Art. 4º Ao beneficiário, optante do padrão de conforto básico ou especial, cadastrado até a data de vigência desta Lei, ficam assegurados os percentuais de desconto e o sistema assistencial da extinta autarquia, e ele poderá, por sua livre iniciativa, aderir a outras modalidades de planos assistenciais que possam ser criadas pelo Ipasgo Saúde.~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
+
 \-  [Redação dada pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)~~
 
 ~~Art. 4º Ao usuário, servidor público estadual ativo, inativo ou pensionista optante do padrão de conforto básico ou especial, cuja contribuição é calculada com base em desconto percentual sobre a remuneração, cadastrado até a data de vigência desta Lei, ficam assegurados os percentuais de desconto e o sistema assistencial da extinta autarquia, e ele poderá, por sua livre iniciativa, aderir a outras modalidades de planos assistenciais que venham a ser criadas pelo Ipasgo Saúde.~~
 
-§ 1º O dependente sem qualquer contribuição assistencial vinculado ao usuário titular enquadrado no sistema percentual de cálculo da contribuição deverá também contribuir, para serem assegurados o equilíbrio atuarial e a justiça contributiva no custeio dos planos de assistência à saúde operados pelo Ipasgo Saúde, observados o seu Estatuto Social e os regulamentos dos planos.<br>
+§ 1º O dependente sem qualquer contribuição assistencial vinculado ao usuário titular enquadrado no sistema percentual de cálculo da contribuição deverá também contribuir, para serem assegurados o equilíbrio atuarial e a justiça contributiva no custeio dos planos de assistência à saúde operados pelo Ipasgo Saúde, observados o seu Estatuto Social e os regulamentos dos planos.
+
 \- [Acrescido pela Lei nº 23.941, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111793)
 
-§ 2º A contribuição prevista no § 1º deste artigo será calculada à razão de 30% (trinta por cento) da tabela atuarial de mensalidades do respectivo plano de saúde, observada a faixa etária do usuário dependente, limitado o valor total da contribuição dos dependentes, no máximo, ao valor da contribuição do titular.<br>
+§ 2º A contribuição prevista no § 1º deste artigo será calculada à razão de 30% (trinta por cento) da tabela atuarial de mensalidades do respectivo plano de saúde, observada a faixa etária do usuário dependente, limitado o valor total da contribuição dos dependentes, no máximo, ao valor da contribuição do titular.
+
 \- [Acrescido pela Lei nº 23.941, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111793)
 
 Art. 5º O Ipasgo Saúde será organizado e administrado por:
 
 I – Conselho de Administração, como órgão superior de consulta e deliberação;
 
-II – Diretoria– Executiva, integrada pelo Presidente e pelos Diretores; e<br>
+II – Diretoria– Executiva, integrada pelo Presidente e pelos Diretores; e
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 ~~II – Diretoria Executiva, integrada pelo Presidente, pelo Chefe de Gabinete e pelos Diretores; e~~
@@ -117,37 +145,46 @@ III – Conselho Fiscal, como órgão de fiscalização.
 
 Art. 6º O Conselho de Administração será composto:
 
-I – por seis membros e seus respectivos suplentes indicados pelo Governador do Estado, na qualidade de representantes do ente patrocinador instituidor;<br>
+I – por seis membros e seus respectivos suplentes indicados pelo Governador do Estado, na qualidade de representantes do ente patrocinador instituidor;
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~I – por 4 (quatro) representantes e seus respectivos suplentes indicados pelo Governador do Estado, e o Estado de Goiás serão principal patrocinador;~~<br>
+~~I – por 4 (quatro) representantes e seus respectivos suplentes indicados pelo Governador do Estado, e o Estado de Goiás serão principal patrocinador;~~
+
 [\- Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~I – por 4 (quatro) representantes e seus respectivos suplentes indicados pelo Governador do Estado;~~
 
-II – por quatro membros e seus respectivos suplentes, eleitos entre os beneficiários titulares vinculados ao Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;<br>
+II – por quatro membros e seus respectivos suplentes, eleitos entre os beneficiários titulares vinculados ao Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 ~~II – por 4 (quatro) representantes dos servidores do Estado de Goiás e seus respectivos suplentes; e~~
 
-III – por um membro e seu respectivo suplente, eleitos entre os beneficiários dos demais patrocinadores de planos de saúde, distintos do Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;<br>
+III – por um membro e seu respectivo suplente, eleitos entre os beneficiários dos demais patrocinadores de planos de saúde, distintos do Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~III – por 1 (um) representante e seu respectivo suplente indicados pelo segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde;~~<br>
+~~III – por 1 (um) representante e seu respectivo suplente indicados pelo segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde;~~
+
 [\- Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~III – pelo Presidente do Ipasgo Saúde e seu suplente, com direito a voz e voto, nos casos que não caracterizem conflito de interesse.~~
 
-IV – por um membro, entre os demais patrocinadores, e seu respectivo suplente, eleitos diretamente pelos representantes dos patrocinadores, na forma prevista no Estatuto Social do Ipasgo Saúde; e<br>
+IV – por um membro, entre os demais patrocinadores, e seu respectivo suplente, eleitos diretamente pelos representantes dos patrocinadores, na forma prevista no Estatuto Social do Ipasgo Saúde; e
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~IV – por 1 (um) representante e seu respectivo suplente dos servidores vinculados ao segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde; e~~<br>
+~~IV – por 1 (um) representante e seu respectivo suplente dos servidores vinculados ao segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde; e~~
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-V – pelo Diretor-Presidente do Ipasgo Saúde e seu suplente, integrante da Diretoria-Executiva, por ele indicado.<br>
+V – pelo Diretor-Presidente do Ipasgo Saúde e seu suplente, integrante da Diretoria-Executiva, por ele indicado.
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~V – pelo Presidente do Ipasgo Saúde e seu suplente, com direito a voz e voto, nos casos em que não se evidencie conflito de interesses.~~<br>
+~~V – pelo Presidente do Ipasgo Saúde e seu suplente, com direito a voz e voto, nos casos em que não se evidencie conflito de interesses.~~
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 § 1º O Presidente do Conselho de Administração será eleito dentre os seus membros para um mandato de 2 (dois) anos e poderá ser reconduzido por igual período.
@@ -160,39 +197,48 @@ II – 4 (quatro) anos de efetivo exercício em cargo de direção ou de assesso
 
 III – 4 (quatro) anos de experiência como profissional liberal em atividade direta ou indiretamente vinculada à área de gestão ou de atuação do Ipasgo Saúde.
 
-~~§ 3º Os representantes dos servidores deverão ser ocupantes de cargos efetivos ou de emprego público permanente, indicados pelo fórum dos servidores.~~<br>
+~~§ 3º Os representantes dos servidores deverão ser ocupantes de cargos efetivos ou de emprego público permanente, indicados pelo fórum dos servidores.~~
+
 \- [Revogado pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679), art. 4º, I.
 
 § 4º As funções desempenhadas no Conselho de Administração serão remuneradas nos moldes do regimento.
 
 Art. 7º O Conselho Fiscal será composto por:
 
-I – três membros e seus respectivos suplentes, indicados pelo Governador do Estado, na qualidade de representantes do ente patrocinador instituidor;<br>
+I – três membros e seus respectivos suplentes, indicados pelo Governador do Estado, na qualidade de representantes do ente patrocinador instituidor;
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~I – 2 (dois) representantes e seus respectivos suplentes indicados pelo Governador do Estado;~~<br>
+~~I – 2 (dois) representantes e seus respectivos suplentes indicados pelo Governador do Estado;~~
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~I – 3 (três) representantes e seus respectivos suplentes indicados pelo Governador do Estado; e~~
 
-II – um membro e seu respectivo suplente, eleito entre os beneficiários titulares vinculados ao Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;<br>
+II – um membro e seu respectivo suplente, eleito entre os beneficiários titulares vinculados ao Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~II – 1 (um) representante dos servidores públicos do Estado de Goiás e seu respectivo suplente;~~<br>
+~~II – 1 (um) representante dos servidores públicos do Estado de Goiás e seu respectivo suplente;~~
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~II – 2 (dois) representantes dos servidores públicos do Estado de Goiás e seus respectivos suplentes.~~
 
-III – um membro e seu respectivo suplente, eleito entre os beneficiários dos demais patrocinadores de planos de saúde distintos do Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde; e<br>
+III – um membro e seu respectivo suplente, eleito entre os beneficiários dos demais patrocinadores de planos de saúde distintos do Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde; e
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~III – 1 (um) representante e seu respectivo suplente indicados pelo segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde; e~~<br>
+~~III – 1 (um) representante e seu respectivo suplente indicados pelo segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde; e~~
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-IV – um membro e seu respectivo suplente, eleito diretamente pelos representantes dos patrocinadores, na forma prevista no Estatuto Social do Ipasgo Saúde.<br>
+IV – um membro e seu respectivo suplente, eleito diretamente pelos representantes dos patrocinadores, na forma prevista no Estatuto Social do Ipasgo Saúde.
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~IV – 1 (um) representante dos servidores e seu respectivo suplente vinculados ao segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde.~~<br>
+~~IV – 1 (um) representante dos servidores e seu respectivo suplente vinculados ao segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde.~~
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
 § 1º Os integrantes do Conselho Fiscal deverão obedecer aos mesmos critérios de elegibilidade do Conselho de Administração.
@@ -201,55 +247,70 @@ IV – um membro e seu respectivo suplente, eleito diretamente pelos representan
 
 Art. 8º Compete ao Conselho de Administração e ao Conselho Fiscal aprovar e fiscalizar a gestão do Ipasgo Saúde, observados o estatuto, os regimentos e os regulamentos próprios.
 
-Art. 9º A Diretoria-Executiva será indicada pelo Governador do Estado de Goiás, com a seguinte composição:<br>
+Art. 9º A Diretoria-Executiva será indicada pelo Governador do Estado de Goiás, com a seguinte composição:
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679)
 
-~~Art. 9º A Diretoria Executiva será indicada pelo Governador do Estado, com a seguinte composição:<br>
+~~Art. 9º A Diretoria Executiva será indicada pelo Governador do Estado, com a seguinte composição:
+
 ~~\- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
-I – Diretor-Presidente; e<br>
+I – Diretor-Presidente; e
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~I – Presidente; e~~<br>
+~~I – Presidente; e~~
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~I – Presidente~~
 
-II – Diretores.<br>
+II – Diretores.
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~II – Chefia de Gabinete; e~~
 
-~~III – Diretorias.~~<br>
+~~III – Diretorias.~~
+
 \- [Suprimido pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
-Art. 10. A gestão do Ipasgo Saúde será exercida pela Diretoria-Executiva, composta pelo Diretor-Presidente, a quem caberá a representação do Ipasgo Saúde, e por três outros Diretores.<br>
+Art. 10. A gestão do Ipasgo Saúde será exercida pela Diretoria-Executiva, composta pelo Diretor-Presidente, a quem caberá a representação do Ipasgo Saúde, e por três outros Diretores.
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 ~~Art. 10. Ao Presidente do Ipasgo Saúde caberá a representação do Ipasgo Saúde.~~
 
-§ 1º Os Diretores deverão ser brasileiros, indicados e nomeados pelo Governador do Estado, e atender aos seguintes requisitos:<br>
+§ 1º Os Diretores deverão ser brasileiros, indicados e nomeados pelo Governador do Estado, e atender aos seguintes requisitos:
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-I – formação acadêmica compatível com o cargo para o qual forem indicados;<br>
+I – formação acadêmica compatível com o cargo para o qual forem indicados;
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-II – experiência profissional de, no mínimo:<br>
+II – experiência profissional de, no mínimo:
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-a) cinco anos nos setores público ou privado em função de gestão em área correlata à da indicação;<br>
+a) cinco anos nos setores público ou privado em função de gestão em área correlata à da indicação;
+
 \- [Acrescida pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-b) quatro anos de efetivo exercício em cargo de direção ou de assessoramento superior; ou<br>
+b) quatro anos de efetivo exercício em cargo de direção ou de assessoramento superior; ou
+
 \- [Acrescid pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-c) quatro anos de experiência como profissional liberal em atividade direta ou indiretamente vinculada à área de gestão ou de atuação do Ipasgo Saúde.<br>
+c) quatro anos de experiência como profissional liberal em atividade direta ou indiretamente vinculada à área de gestão ou de atuação do Ipasgo Saúde.
+
 \- [Acrescida pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-§ 2º Os integrantes da Diretoria-Executiva exercerão o mandato de dois anos, com a possibilidade de recondução na forma do Estatuto Social do Ipasgo Saúde, o qual definirá as respectivas atribuições.<br>
+§ 2º Os integrantes da Diretoria-Executiva exercerão o mandato de dois anos, com a possibilidade de recondução na forma do Estatuto Social do Ipasgo Saúde, o qual definirá as respectivas atribuições.
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-Art. 11. O Presidente, os Diretores e os Conselheiros serão pessoalmente responsáveis pelos atos lesivos que praticarem com dolo, culpa, desídia ou fraude e pelas infrações às legislações federal e estadual pertinentes e ao Estatuto do Ipasgo Saúde, assegurados o contraditório e a ampla defesa, com a observância do devido processo legal.<br>
+Art. 11. O Presidente, os Diretores e os Conselheiros serão pessoalmente responsáveis pelos atos lesivos que praticarem com dolo, culpa, desídia ou fraude e pelas infrações às legislações federal e estadual pertinentes e ao Estatuto do Ipasgo Saúde, assegurados o contraditório e a ampla defesa, com a observância do devido processo legal.
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~Art. 11. O Presidente, o Chefe de Gabinete, os diretores e os conselheiros serão pessoalmente responsáveis pelos atos lesivos que praticarem com dolo, culpa, desídia ou fraude e pelas infrações às legislações federal e estadual pertinentes e ao Estatuto do Ipasgo Saúde, assegurados o contraditório e a ampla defesa, com a observância do devido processo legal.~~
@@ -272,125 +333,160 @@ VII – a contratação de pessoal, sob o regime da Consolidação das Leis do T
 
 VIII – aquisição e alienação de bens, produtos e serviços.
 
-Art. 13. Compete ao Ipasgo Saúde adotar regulamentos próprios, aprovados pelo Conselho de Administração, observados os princípios da legalidade, da integridade, da transparência, da responsabilização e da sustentabilidade.<br>
+Art. 13. Compete ao Ipasgo Saúde adotar regulamentos próprios, aprovados pelo Conselho de Administração, observados os princípios da legalidade, da integridade, da transparência, da responsabilização e da sustentabilidade.
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 ~~Art. 13. Compete ao Ipasgo Saúde adotar regulamentos próprios, com a observância dos princípios do Direito Administrativo, devidamente aprovados pelo Conselho de Administração.~~
 
-Art. 14. Para o alcance de sua finalidade, o Ipasgo Saúde celebrará convênio com cada patrocinador, observado o disposto nesta Lei, no Estatuto do Ipasgo Saúde e nas normas da Agência Nacional de Saúde Suplementar – ANS.<br>
+Art. 14. Para o alcance de sua finalidade, o Ipasgo Saúde celebrará convênio com cada patrocinador, observado o disposto nesta Lei, no Estatuto do Ipasgo Saúde e nas normas da Agência Nacional de Saúde Suplementar – ANS.
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~Art. 14. Para o alcance de sua finalidade, o Ipasgo Saúde celebrará Contrato de Gestão com o Estado de Goiás, e caberá à Secretaria de Estado da Administração a supervisão de sua execução, observado o disposto nesta Lei e no Estatuto do Ipasgo Saúde.~~
 
-§ 1º Considera-se patrocinadora a instituição pública ou privada que participa, total ou parcialmente, do custeio do plano privado de assistência à saúde ou de outras despesas relativas à sua execução e administração, na forma definida no convênio celebrado com o Ipasgo Saúde.<br>
+§ 1º Considera-se patrocinadora a instituição pública ou privada que participa, total ou parcialmente, do custeio do plano privado de assistência à saúde ou de outras despesas relativas à sua execução e administração, na forma definida no convênio celebrado com o Ipasgo Saúde.
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-§ 2º Poderão ser patrocinadores dos planos de saúde operados pelo Ipasgo Saúde:<br>
+§ 2º Poderão ser patrocinadores dos planos de saúde operados pelo Ipasgo Saúde:
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-I – órgãos, autarquias e fundações públicas de qualquer dos Poderes do Estado de Goiás e de seus municípios;<br>
+I – órgãos, autarquias e fundações públicas de qualquer dos Poderes do Estado de Goiás e de seus municípios;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-II – órgãos, autarquias e fundações públicas da União estabelecidos no território estadual;<br>
+II – órgãos, autarquias e fundações públicas da União estabelecidos no território estadual;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-III – entidades às quais se vinculem os beneficiários de que tratam os incisos IX e X do art. 1º-A desta Lei; e<br>
+III – entidades às quais se vinculem os beneficiários de que tratam os incisos IX e X do art. 1º-A desta Lei; e
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
-~~III – entidades representativas dos respectivos beneficiários relacionados no inciso I do art. 1º– A; e~~<br>
+~~III – entidades representativas dos respectivos beneficiários relacionados no inciso I do art. 1º– A; e~~
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-IV – o Ipasgo Saúde, na condição de patrocinador dos planos de assistência à saúde concedidos aos seus empregados e administradores.<br>
+IV – o Ipasgo Saúde, na condição de patrocinador dos planos de assistência à saúde concedidos aos seus empregados e administradores.
+
 \-  [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-§ 3º O convênio deverá conter, no mínimo, as seguintes informações:<br>
+§ 3º O convênio deverá conter, no mínimo, as seguintes informações:
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-I – a participação financeira dos beneficiários no custeio do plano;<br>
+I – a participação financeira dos beneficiários no custeio do plano;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-II – a participação financeira do patrocinador no custeio do plano, quando for o caso;<br>
+II – a participação financeira do patrocinador no custeio do plano, quando for o caso;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-III – as condições de ingresso e de exclusão de beneficiários;<br>
+III – as condições de ingresso e de exclusão de beneficiários;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-IV – a forma de cálculo da revisão das contraprestações pecuniárias;<br>
+IV – a forma de cálculo da revisão das contraprestações pecuniárias;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-V – as coberturas e exclusões assistenciais;<br>
+V – as coberturas e exclusões assistenciais;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-VI – as carências;<br>
+VI – as carências;
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-VII – os mecanismos de regulação ou fatores moderadores utilizados no plano; e<br>
+VII – os mecanismos de regulação ou fatores moderadores utilizados no plano; e
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-VIII – as demais condições exigidas pela Lei federal nº 9.656, de 3 de junho 1998.<br>
+VIII – as demais condições exigidas pela Lei federal nº 9.656, de 3 de junho 1998.
+
 \- [Acrescido pela Lei nº 22.614, de 11-4-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675)
 
-~~Parágrafo único. Preservada a autonomia gerencial, patrimonial, financeira e orçamentária do Ipasgo Saúde, o Contrato de Gestão, elaborado com o acordo das partes, terá como objetos:~~<br>
+~~Parágrafo único. Preservada a autonomia gerencial, patrimonial, financeira e orçamentária do Ipasgo Saúde, o Contrato de Gestão, elaborado com o acordo das partes, terá como objetos:~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~I – o estabelecimento dos instrumentos para atuação, controle e supervisão do Ipasgo Saúde, nos campos administrativo, técnico, atuarial, contábil e econômico– financeiro;~~<br>
+~~I – o estabelecimento dos instrumentos para atuação, controle e supervisão do Ipasgo Saúde, nos campos administrativo, técnico, atuarial, contábil e econômico– financeiro;~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~II – a fixação de metas para a realização de suas finalidades;~~<br>
+~~II – a fixação de metas para a realização de suas finalidades;~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~III – o estabelecimento das responsabilidades pela execução e pelos prazos referentes aos programas, aos planos, aos projetos e às atividades do Ipasgo Saúde, bem como a contrapartida por parte do poder público; e~~<br>
+~~III – o estabelecimento das responsabilidades pela execução e pelos prazos referentes aos programas, aos planos, aos projetos e às atividades do Ipasgo Saúde, bem como a contrapartida por parte do poder público; e~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~IV – a avaliação do desempenho do Ipasgo Saúde, com a aferição da sua eficiência e sustentabilidade financeira e da observância dos princípios da legalidade, da legitimidade, da moralidade, da razoabilidade, da proporcionalidade, da impessoalidade, da economicidade e da publicidade, bem como do atendimento aos preceitos constitucionais, legais, regulamentares, estatutários e regimentais aplicáveis.~~<br>
+~~IV – a avaliação do desempenho do Ipasgo Saúde, com a aferição da sua eficiência e sustentabilidade financeira e da observância dos princípios da legalidade, da legitimidade, da moralidade, da razoabilidade, da proporcionalidade, da impessoalidade, da economicidade e da publicidade, bem como do atendimento aos preceitos constitucionais, legais, regulamentares, estatutários e regimentais aplicáveis.~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
 Art. 15. O Ipasgo Saúde poderá celebrar contratos de prestação de serviços com quaisquer pessoas físicas ou jurídicas.
 
-Art. 16. Compete ao Ipasgo Saúde:<br>
+Art. 16. Compete ao Ipasgo Saúde:
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 ~~Art. 16. Competem ao Ipasgo Saúde:~~
 
-I – elaborar e publicar relatórios que demonstrem o cumprimento das obrigações regulatórias, conforme os parâmetros e a periodicidade estabelecidos pela ANS; e<br>
+I – elaborar e publicar relatórios que demonstrem o cumprimento das obrigações regulatórias, conforme os parâmetros e a periodicidade estabelecidos pela ANS; e
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 ~~I – a elaboração e a publicação mensal do balancete contábil–financeiro;~~
 
-II – elaborar e publicar relatórios que demonstrem o cumprimento das obrigações firmadas com os patrocinadores;<br>
+II – elaborar e publicar relatórios que demonstrem o cumprimento das obrigações firmadas com os patrocinadores;
+
 \- [Redação dada Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 ~~II – a elaboração e a publicação anual do relatório com as estatísticas de prestação de serviços assistenciais aos usuários;~~
 
-~~III – a elaboração e a publicação anual do relatório de prestação de contas para verificar a probidade da administração, a guarda e o emprego legal dos recursos financeiros recebidos; e~~<br>
+~~III – a elaboração e a publicação anual do relatório de prestação de contas para verificar a probidade da administração, a guarda e o emprego legal dos recursos financeiros recebidos; e~~
+
 \- [Revogado pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679), art. 4º, II.
 
-~~IV – a elaboração do relatório para demonstrar o cumprimento dos regulamentos e das demais normas expedidas.~~<br>
+~~IV – a elaboração do relatório para demonstrar o cumprimento dos regulamentos e das demais normas expedidas.~~
+
 \- [Revogado pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679), art. 4º, II.
 
-Parágrafo único. O Ipasgo Saúde apresentará relatórios ao Poder Executivo do Estado de Goiás que identifiquem que os recursos provenientes de aporte financeiro previsto no art. 27, inciso V, desta Lei, sejam destinados exclusivamente ao custeio das despesas relativas à operação vinculada aos seus beneficiários.<br>
+Parágrafo único. O Ipasgo Saúde apresentará relatórios ao Poder Executivo do Estado de Goiás que identifiquem que os recursos provenientes de aporte financeiro previsto no art. 27, inciso V, desta Lei, sejam destinados exclusivamente ao custeio das despesas relativas à operação vinculada aos seus beneficiários.
+
 \- [Acrescido pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679).
 
 Art. 17. O Ipasgo Saúde deverá publicar em _site_ próprio todos os relatórios anuais discriminados no art. 16, o estatuto e as demais normas da prestação de serviços de assistência à saúde, como medida de promoção à transparência ativa de sua gestão.
 
 Art. 18. O Ipasgo Saúde deverá publicar em _site_ próprio, no prazo máximo de 180 (cento e oitenta) dias a partir de sua criação, o estatuto e os regulamentos de aquisição de bens, produtos e serviços e de contratação de pessoal, devidamente aprovados pelo Conselho de Administração.
 
-~~Art. 19. A normatização do sistema de assistência à saúde ocorrerá na forma de regulamento próprio para cada plano de saúde, com a aprovação do Conselho de Administração e registro na Agência Nacional de Saúde Suplementar – ANS.~~<br>
-\- [Revogado pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679), art. 4º, III.<br>
+~~Art. 19. A normatização do sistema de assistência à saúde ocorrerá na forma de regulamento próprio para cada plano de saúde, com a aprovação do Conselho de Administração e registro na Agência Nacional de Saúde Suplementar – ANS.~~
+
+\- [Revogado pela Lei nº 24.360, de 22-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679), art. 4º, III.
+
 \- [Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~Art. 19. A normatização do sistema de assistência à saúde dos servidores públicos do Estado de Goiás será realizada por meio de regulamento, mediante aprovação do Conselho de Administração, no prazo de até 12 (doze) meses da publicação desta Lei.~~
 
-~~Parágrafo único. O regulamento de que trata o _caput_ deverá ainda versar sobre a inclusão dos seguintes dependentes:~~<br>
+~~Parágrafo único. O regulamento de que trata o _caput_ deverá ainda versar sobre a inclusão dos seguintes dependentes:~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~I – o cônjuge ou companheiro;~~<br>
+~~I – o cônjuge ou companheiro;~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~II – os parentes de 1º a 3º grau consanguíneos, na condição de pais, filhos (naturais ou adotivos), irmãos, sobrinhos e netos; e~~<br>
+~~II – os parentes de 1º a 3º grau consanguíneos, na condição de pais, filhos (naturais ou adotivos), irmãos, sobrinhos e netos; e~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
-~~III – os parentes de até 2º grau por afinidade, na condição de enteados, cunhados ou sogros.~~<br>
+~~III – os parentes de até 2º grau por afinidade, na condição de enteados, cunhados ou sogros.~~
+
 \- [Revogado pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675), art. 2°.
 
 Art. 20. O Ipasgo Saúde, instituído no art. 1º desta Lei, sucederá a Autarquia extinta no art. 32 também desta Lei, em todos os seus direitos, créditos e obrigações de qualquer natureza, contratos ou atos administrativos.
@@ -401,7 +497,8 @@ Parágrafo único. O Ipasgo Saúde adotará perante os cartórios de registros d
 
 Art. 22. Os bens e direitos patrimoniais, assim como as receitas, não poderão ter destinação diversa da estabelecida no estatuto.
 
-Art. 23. No caso de desvio de finalidade do Ipasgo Saúde ou de sua extinção, ocorrerá a reversão integral do patrimônio aportado pelo respectivo patrocinador.<br>
+Art. 23. No caso de desvio de finalidade do Ipasgo Saúde ou de sua extinção, ocorrerá a reversão integral do patrimônio aportado pelo respectivo patrocinador.
+
 [\- Redação dada pela Lei nº 22.614, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675).
 
 ~~Art. 23. No caso de desvio de finalidade do Ipasgo Saúde ou de sua extinção, ocorrerá a reversão integral do patrimônio aportado pelo Estado de Goiás.~~
@@ -426,7 +523,8 @@ III – custear a assistência prestada aos usuários vítimas ou pensionistas, 
 
 IV – a compensação financeira mensal, decorrente do não recolhimento da mensalidade para o padrão de conforto Básico, dos titulares servidores aposentados e pensionistas remunerados pelos cofres públicos estaduais, cujos proventos ou benefícios não foram alcançados pela [Emenda Constitucional nº 16](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/102974), de 12 de março de 1997, devendo sua regulamentação se dar por lei especifica em até 12 (doze) meses; e
 
-V - realizar aportes financeiros anuais em caso de desequilíbrio entre as receitas e as despesas do Ipasgo Saúde relativas aos servidores públicos e militares do Estado de Goiás ativos, inativos e pensionistas, bem como aos empregados públicos inscritos como usuários, conforme disponibilidade orçamentária e financeira.<br>
+V - realizar aportes financeiros anuais em caso de desequilíbrio entre as receitas e as despesas do Ipasgo Saúde relativas aos servidores públicos e militares do Estado de Goiás ativos, inativos e pensionistas, bem como aos empregados públicos inscritos como usuários, conforme disponibilidade orçamentária e financeira.
+
 [\- Redação dada pela Lei nº 23.941, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111793)
 
 ~~V – realizar aportes financeiros anuais em caso de desequilíbrio entre receitas e despesas assistenciais relativas aos servidores públicos e militares do Estado de Goiás ativos, inativos e pensionistas, além dos empregados públicos inscritos como usuários, conforme disponibilidade orçamentária e financeira.~~

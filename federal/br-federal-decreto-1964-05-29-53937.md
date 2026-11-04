@@ -1,5 +1,3 @@
-###DEC-053937-0-000-29-05-1964@@@
-
 DECRETO Nº 53.937, DE 29 DE MAIO DE 1964.
 
 Fixa a lotação dos Adidos e Adjuntos de Adidos Militares, Navais e Aeronáuticos junto às representações diplomáticas no exterior e dà outras providências.

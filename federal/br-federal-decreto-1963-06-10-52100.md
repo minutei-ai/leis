@@ -1,5 +1,3 @@
-###DEC-052100-0-000-10-06-1963@@@
-
 DECRETO Nº 52.100, DE 10 DE JUNHO DE 1963.
 
 Altera disposições do Decreto número 47.491 de 24 de Dezembro de 1959, que regula o abastecimento de trigo, estabelece normas para sua comercialização e industrialização e adota providências relacionadas com a defesa da produção nacional.

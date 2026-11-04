@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183966)
-
 # DECRETO Nº 62.918, DE 10 DE NOVEMBRO DE 2017
 
 ### _Dá denominação ao dispositivo rodoviário que especifica_
@@ -16,8 +14,12 @@ Palácio dos Bandeirantes, 10 de novembro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 10 de novembro de 2017.

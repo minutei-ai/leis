@@ -1,5 +1,3 @@
-###DEC-002405-0-000-26-11-1997@@@
-
 DECRETO Nº 2.405, DE 26 DE NOVEMBRO DE 1997
 
 Qualifica como organização social a Associação Brasileira de Tecnologia de Luz Síncrotron - ABTLuS e autoriza a absorção das atividades do extinto Laboratório Nacional de Luz Síncrotron.

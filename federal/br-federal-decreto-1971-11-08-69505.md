@@ -1,5 +1,3 @@
-###DEC-069505-0-000-08-11-1971@@@
-
 DECRETO Nº 69.505 - de 8 DE novembro DE 1971
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona situados no Município do Rio Branco, no Estado do Acre.

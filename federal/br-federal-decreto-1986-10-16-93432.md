@@ -1,5 +1,3 @@
-###DEC-093432-0-000-16-10-1986@@@
-
 DECRETO Nº 93.432, DE 16 DE OUTUBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO BRASIL SOCIEDADE LIMITADA, para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-085912-0-000-15-04-1981@@@
-
 decreto nº 85.912, de 15 de abril de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Força e Luz Cataguazes-Leopoldina, no Estado de Minas Gerais.

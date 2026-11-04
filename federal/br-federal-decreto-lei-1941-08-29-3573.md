@@ -1,5 +1,3 @@
-###DEL-003573-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.573 – DE 29 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 282:600$0 para atender à despesa com a admissão de pessoal extranumerário-diarista

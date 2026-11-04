@@ -1,5 +1,3 @@
-###DEC-066440-0-000-13-04-1970@@@
-
 DECRETO Nº 66.440, DE 13 DE ABRIL DE 1970
 
 Concede reconhecimento de Curso.

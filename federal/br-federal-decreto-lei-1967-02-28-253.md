@@ -1,5 +1,3 @@
-###DEL-000253-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 253, DE 28 DE FEVEREIRO DE 1967
 
 Modifica a Lei nº 5.010, de 30 de maio de 1966, e dá outras providências.
@@ -104,7 +102,17 @@ f) um Cargo de Auxiliar de Portaria;
 
 XIV - Ao anexo IV são acrescentados os seguintes cargos com os respectivos símbolos:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Distribuidor ............................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PJ-4</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Contador ...............................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PJ-4</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Distribuidor-Contador ..............................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PJ-4</span></p></td></tr></tbody></table>
+Distribuidor ............................................................................................................
+
+PJ-4
+
+Contador ...............................................................................................................
+
+PJ-4
+
+Distribuidor-Contador ..............................................................................................
+
+PJ-4
 
 Art. 2º O Conselho da Justiça Federal poderá propor ao Poder Executivo o não provimento, de imediato, dos cargos a que se refere o Anexo II, nas Seções Judiciárias de menor movimento forense, cabendo aos funcionários nomeados o exercício cumulativo das funções correspondentes, na forma que o Conselho determinar.
 

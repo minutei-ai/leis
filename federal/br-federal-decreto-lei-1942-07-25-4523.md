@@ -1,5 +1,3 @@
-###DEL-004523-0-000-25-07-1942@@@
-
 DECRETO-LEI N. 4.523 – DE 25 DE JULHO DE 1942
 
 Cria a Comissão de Controle dos Acordos de Washington, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-060980-0-000-10-07-1967@@@
-
 DECRETO Nº 60.980, DE 10 DE JULHO DE 1967.
 
 Transfere para o Ministro do Trabalho e Previdência Social, por delegação de competência, a faculdade de nomear os membros e respectivos suplementes do Conselho Superior do Trabalho Marítimo.

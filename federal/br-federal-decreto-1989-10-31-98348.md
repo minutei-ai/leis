@@ -1,7 +1,3 @@
-1
-
-###DEC-098348-0-000-31-10-1989@@@
-
 DECRETO Nº 98.348, DE 31 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Matemática Aplicada à Informática das Faculdades Integradas Ibirapuera.

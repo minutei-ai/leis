@@ -1,7 +1,3 @@
-1
-
-###DEC-001451-0-000-11-04-1995@@@
-
 DECRETO Nº 1.451, DE 11 DE ABRIL DE 1995
 
 Aprova o Estatuto Social do Serviço Federal de Processamento de Dados (SERPRO).

@@ -1,5 +1,3 @@
-###DEC-058039-0-000-22-03-1966@@@
-
 decreto nº 58.039, de 22 de março de 1966.
 
 Concede à Partezani & Cia. Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-049491-0-000-09-12-1960@@@
-
 DECRETO Nº 49.491, DE 9 DE DEZEMBRO DE 1960.
 
 Transfere função da Tabela Única de Extranumerário-mensalista do Ministério do Trabalho, Indústria e Comércio para idêntica Tabela do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-080735-0-000-14-11-1977@@@
-
 Decreto nº 80.735, de 14 de novembro de 1977.
 
 Retifica a concessão de lavra outorgada à Alumínio Poços de Caldas S/A pelo Decreto nº 71.405, de 20 de novembro de 1972.

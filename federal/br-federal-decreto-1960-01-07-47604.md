@@ -1,5 +1,3 @@
-###DEC-047604-0-000-07-01-1960@@@
-
 DECRETO Nº 47.604, DE 7 DE JANEIRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia de Seguros de Vida “Previdência do Sul”.

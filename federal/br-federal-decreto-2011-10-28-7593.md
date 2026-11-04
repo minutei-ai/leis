@@ -1,5 +1,3 @@
-###DEC-007593-0-000-28-10-2011-PUB-01@@@
-
 DECRETO Nº 7.593, DE 28 DE OUTUBRO DE 2011
 
 Altera o Decreto nº 7.555, de 19 de agosto de 2011, que regulamenta os arts. 14 a 20 da Medida Provisória nº 540, de 2 de agosto de 2011, que dispõem sobre a incidência do Imposto sobre Produtos Industrializados - IPI, no mercado interno e na  importação, relativo aos cigarros classificados no código 2402.20.00 da Tabela de Incidência do IPI.

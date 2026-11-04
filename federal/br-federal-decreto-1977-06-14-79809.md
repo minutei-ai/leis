@@ -1,5 +1,3 @@
-###DEC-079809-0-000-14-06-1977@@@
-
 Decreto nº 79.809, de 14 de junho de 1977
 
 Altera o Decreto nº 71.407, de 20 de novembro de 1972, que dispõe sobre o Instituto Nacional de Estudos e Pesquisas Educacionais do Ministério da Educação e Cultura.

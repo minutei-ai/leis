@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a629eeea-d1ba-4b38-9727-03e4d06bf37b/texto#nowhere)
 
-###DEL-000235-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 235, DE 28 DE FEVEREIRO DE 1967
 
 Acrescenta parágrafo ao art. 1º do Decreto-lei nº 162, de 13 de fevereiro de 1967.

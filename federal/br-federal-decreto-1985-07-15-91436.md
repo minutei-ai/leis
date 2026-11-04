@@ -1,5 +1,3 @@
-###DEC-091436-0-000-15-07-1985@@@
-
 Decreto nº 91.436, de 15 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO POTI S/A, para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Natal, Estado do Rio Grande do Norte.

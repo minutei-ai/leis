@@ -1,5 +1,3 @@
-###DEC-081100-0-000-21-12-1977@@@
-
 DECRETO Nº 81.100, DE 21 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Lages, com sede na cidade de Lages, Estado de Santa Catarina.

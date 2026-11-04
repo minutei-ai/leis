@@ -1,5 +1,3 @@
-###DEC-067806-0-000-11-12-1970@@@
-
 DECRETO Nº 67.806, DE 11 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública o Instituto e Orfanato Santo Antônio de Pádua, com sede em Itabirito, Estado de Minas Gerais.

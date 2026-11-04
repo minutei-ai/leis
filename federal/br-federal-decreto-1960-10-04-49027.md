@@ -1,5 +1,3 @@
-###DEC-049027-0-000-04-10-1960@@@
-
 DECRETO Nº 49.027, DE 4 DE OUTUBRO DE 1960.
 
 Concede a Ford Motor do Brasil S.A. autorização para continuar a funcionar da República.

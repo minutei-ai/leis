@@ -1,5 +1,3 @@
-###DEC-073304-0-000-13-12-1973@@@
-
 DECRETO Nº 73.304 - DE 13 DE DEZEMBRO DE 1973
 
 Concede à ARMISA - Arditti Minérios S.A. Comércio, Indústria e Exportação o direito de lavrar minério de manganês, no Município de Mirangaba - Estado da Bahia.

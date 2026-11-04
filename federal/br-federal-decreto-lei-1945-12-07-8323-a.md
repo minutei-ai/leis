@@ -1,5 +1,3 @@
-###DEL-008323-A-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.323 – A – DE 7 DE DEZEMBRO DE 1945
 
 Reorganiza o Departamento Administrativo do Serviço Público ( D. A. S. P.) e dá outras providências.

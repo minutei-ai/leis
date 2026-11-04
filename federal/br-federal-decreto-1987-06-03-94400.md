@@ -1,5 +1,3 @@
-###DEC-094400-0-000-03-06-1987@@@
-
 DECRETO Nº 94.400, DE 3 DE JUNHO DE 1987
 
 Concede autorização ao navio de pesquisa "ROBERT D. CONRAD", de bandeira americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

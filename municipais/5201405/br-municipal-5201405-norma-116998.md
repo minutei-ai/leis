@@ -10,7 +10,7 @@ Art. 1º. Nos termos da Lei Orgânica do Município e do que dispõe o Plano Dir
 
 Art. 2º - A área urbanizada do loteamento residencial será composta de seu sistema viário (vias e canalização de tráfego), 07 (sete) quadras divididas em 14 (quatorze) áreas, 10 (dez) áreas verdes e 02 (duas) Áreas Públicas Municipais, conforme Memorial de Caracterização de Loteamento- Anexo I, parte integrante desta Lei.
 
-| **CLASSIFICAÇÃO DAS ÁREAS** | **DISTRIBUIÇÃO DAS ÁREAS** **M²\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_%** |
+| **CLASSIFICAÇÃO DAS ÁREAS** | **DISTRIBUIÇÃO DAS ÁREASM²\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_%** |
 | --- | --- |
 | Área total do imóvel | 282.598,08m² | \- |
 | Rede de Transmissão - CELG | 5.410,80m² | \- |
@@ -35,8 +35,10 @@ Art. 7º - Esta lei entrará em vigor na data de sua publicação, revogando a L
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 13 dias do mês de novembro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

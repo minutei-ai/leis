@@ -1,5 +1,3 @@
-###DEC-059065-0-000-12-08-1966@@@
-
 DECRETO Nº 59.065, DE 12 DE AGôSTO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, em favor de Companhia Vale do Rio Doce S.A., a área de terra que menciona.

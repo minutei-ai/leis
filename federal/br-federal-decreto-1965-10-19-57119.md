@@ -1,5 +1,3 @@
-###DEC-057119-0-000-19-10-1965@@@
-
 DECRETO Nº 57.119, DE 19 DE OUTUBRO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “S/A Indústria Têxtil de Mandacarú”, de João Pessoa (Pb).
@@ -14,7 +12,45 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “S.A. Indústria Têxtil de Mandacarú”, de João Pessoa (P              b):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Maçaroqueira marca HOWA, modêlo 100, de 104 fusos, alça de 305 mm, estiragem com braço pendular, de fabricação da firma </span><span style="font-style:italic">Howa Machinery</span><span> Ltd., procedente do Japão, Pêso líquido: 4.900kg ...............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.850</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Partes do trem de alta estiragem WST, tipo UT-3/E-430, para três filatórios </span><span style="font-style:italic">Brooks</span><span> &amp; </span><span style="font-style:italic">Doxey</span><span>, com 288 fusos cada, bitola de 85,725 mm. Fabricantes e exportadores: Spindel Fabrik Sussen, Schurr, Stahlecker &amp; Grill GMBH de Sussen, Alemanha. Pêso líquido 230kg ..............................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.728</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.324,4</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Coletores de Resíduos, sistema Augusta, marca JACOBI, tipo peneumafil, para três filatório </span><span style="font-style:italic">Brooks</span><span> &amp; </span><span style="font-style:italic">Doxey</span><span>, com ventiladores industriais acoplados e motor trifásico, de fabricação e exportação de Ernest Jacobi &amp; Co., K. G. Augsburg, Alemanha. Pêso líquido: 432kg ..........................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.793,5</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:262.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">12.967,9</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor total
+
+CIF US$
+
+1
+
+Maçaroqueira marca HOWA, modêlo 100, de 104 fusos, alça de 305 mm, estiragem com braço pendular, de fabricação da firma Howa Machinery Ltd., procedente do Japão, Pêso líquido: 4.900kg ...............................................
+
+1
+
+7.850
+
+2
+
+Partes do trem de alta estiragem WST, tipo UT-3/E-430, para três filatórios Brooks &amp; Doxey, com 288 fusos cada, bitola de 85,725 mm. Fabricantes e exportadores: Spindel Fabrik Sussen, Schurr, Stahlecker &amp; Grill GMBH de Sussen, Alemanha. Pêso líquido 230kg ..............................
+
+1.728
+
+2.324,4
+
+3
+
+Coletores de Resíduos, sistema Augusta, marca JACOBI, tipo peneumafil, para três filatório Brooks &amp; Doxey, com ventiladores industriais acoplados e motor trifásico, de fabricação e exportação de Ernest Jacobi &amp; Co., K. G. Augsburg, Alemanha. Pêso líquido: 432kg ..........................
+
+6
+
+2.793,5
+
+TOTAL .................................................................................
+
+-
+
+12.967,9
 
 Parágrafo único. Com respeito ao motor elétrico que acompanha a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Circular nº 16 de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

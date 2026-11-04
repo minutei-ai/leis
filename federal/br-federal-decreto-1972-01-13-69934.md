@@ -1,5 +1,3 @@
-###DEC-069934-0-000-13-01-1972@@@
-
 DECRETO Nº 69.934, DE 13 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Fundação Maria Auxiliadora, com sede em São Paulo, Estado de São Paulo.

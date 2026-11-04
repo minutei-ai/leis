@@ -1,5 +1,3 @@
-###DEC-007781-0-000-01-08-2012-PUB-01@@@
-
 DECRETO N° 7.781, DE 1º DE AGOSTO DE 2012.
 
 Altera os Anexos VII, VIII e X do Decreto n° 7.680, de 17 de fevereiro de 2012, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2012.

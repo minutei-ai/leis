@@ -1,5 +1,3 @@
-###DEL-006935-0-000-06-10-1944@@@
-
 DECRETO-LEI N. 6.935 – DE 6 DE OUTUBRO DE 1944
 
 Abre o crédito especial de Cr$ 60.000,00, para prêmio ao maestro Francisco Braga

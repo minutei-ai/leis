@@ -1,36 +1,34 @@
-###DEC-035545-0-000-21-05-1954@@@
+**DECRETO Nº 35.545, DE 21 DE MAIO DE 1954.**
 
-<strong>DECRETO Nº 35.545, DE 21 DE MAIO DE 1954.</strong>
+***Aprova o Regulamento do Gabinete do Ministro da Aeronáutica.***
 
-<em><strong>Aprova o Regulamento do Gabinete do Ministro da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Gabinete do Ministro da Aeronáutica, que com êste baixa assinado pelo Ministro de Estado do Negócios da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Gabinete do Ministro da Aeronáutica, que com êste baixa assinado pelo Ministro de Estado do Negócios da Aeronáutica.
-
-<strong>Art</strong>. 2º O aludido Regulamento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O aludido Regulamento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 21 de maio de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Nero Moura
 
-<strong>REGULAMENTO DO GABINETE DO MINISTRO DA AERONÁUTICA</strong>
+**REGULAMENTO DO GABINETE DO MINISTRO DA AERONÁUTICA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>GENERALIDADES</em>
+*GENERALIDADES*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Missão e subordinação</em>
+*Missão e subordinação*
 
-<strong>Art</strong>. 1º O Gabinete do Ministro é o órgão do Ministério da Aeronáutica que tem por finalidade auxiliar o Ministro no estudo dos assuntos de sua competência.
+**Art**. 1º O Gabinete do Ministro é o órgão do Ministério da Aeronáutica que tem por finalidade auxiliar o Ministro no estudo dos assuntos de sua competência.
 
-<strong>Art</strong>. 2º Compete ao Gabinete do Ministro:
+**Art**. 2º Compete ao Gabinete do Ministro:
 
 a) - estudar e informar os assuntos e questões dependentes da decisão do Ministro, quer do ponto de vista técnica, quer do administrativo;
 
@@ -42,17 +40,17 @@ d) - orientar e dirigir os serviços de relações públicas, de cerimonial e de
 
 e) - superintender os serviços auxiliares gerais do Ministério.
 
-<strong>Art</strong>. 3º O Gabinete do Ministro é diretamente subordinado, para tôdos os efeitos, ao Ministro da Aeronáutica.
+**Art**. 3º O Gabinete do Ministro é diretamente subordinado, para tôdos os efeitos, ao Ministro da Aeronáutica.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Constituição Geral</em>
+*Constituição Geral*
 
-<strong>Art</strong>. 4º O Gabinete do Ministro constitui-se de:
+**Art**. 4º O Gabinete do Ministro constitui-se de:
 
 a) - Chefia;
 
@@ -76,11 +74,11 @@ b) - Serviço Geral de Expediente e Arquivo;
 
 c) - Serviço de Administração do Edifício da Aeronáutica.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Chefia do Gabinete</em>
+*Chefia do Gabinete*
 
-<strong>Art</strong>. 5º Ao Chefe do Gabinete do Ministro compete:
+**Art**. 5º Ao Chefe do Gabinete do Ministro compete:
 
 a) - dirigir, orientar e coordenar os trabalhos do Gabinete;
 
@@ -92,13 +90,13 @@ d) - transmitir aos diferentes órgãos do Ministério as ordens ou instruções
 
 e) - assinar os documentos que se relacionarem com assuntos gerais de serviço.
 
-<strong>Art</strong>. 6º O Chefe de Gabinete é um Brigadeiro-do-Ar.
+**Art**. 6º O Chefe de Gabinete é um Brigadeiro-do-Ar.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Secretaria</em>
+*Secretaria*
 
-<strong>Art</strong>. 7º A Secretária do Gabinete compete:
+**Art**. 7º A Secretária do Gabinete compete:
 
 a) - os serviços de protocolo, expediente e arquivo;
 
@@ -108,13 +106,13 @@ c) - a organização dos boletins do Ministério e das Coletâneas de Leis, Decr
 
 d) - o serviço de registro de atos oficiais.
 
-<strong>Art</strong>. 8º O Secretário do Gabinete é um Major-Aviador.
+**Art**. 8º O Secretário do Gabinete é um Major-Aviador.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Seções de Relações Públicas</em>
+*Seções de Relações Públicas*
 
-<strong>Art</strong>. 9º Compete à Seção de Relações Públicas:
+**Art**. 9º Compete à Seção de Relações Públicas:
 
 a) - as ligações com o Congresso, Ministério, Governos Estaduais, do Distrito Federal e dos Territórios e com os demais órgãos da Administração Pública;
 
@@ -126,13 +124,13 @@ d) - o cerimonial, protocolo e condecorações;
 
 e) - as audiências do Ministro.
 
-<strong>Art</strong>. 10 O Chefe da Seção de Relações Públicas é um Coronel ou Tenente-Coronel Aviador, que disporá de tantos Majores, ou civis designados em comissão, como Adjuntos, quantos necessários ao Serviço.
+**Art**. 10 O Chefe da Seção de Relações Públicas é um Coronel ou Tenente-Coronel Aviador, que disporá de tantos Majores, ou civis designados em comissão, como Adjuntos, quantos necessários ao Serviço.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Seções de Estudo e Informações</em>
+*Seções de Estudo e Informações*
 
-<strong>Art</strong>. 11. Complete a seções de Estudo e Informações a articulação de providências relativas a:
+**Art**. 11. Complete a seções de Estudo e Informações a articulação de providências relativas a:
 
 a) - organização geral aeronáutica;
 
@@ -154,19 +152,19 @@ i) - finanças;
 
 j) - outros assuntos determinados pelo Ministro;
 
-<strong>Art</strong>. 12. As Seções de Estudo e Informações serão tantas quantas necessárias ao serviço. Sua constituição e atribuições serão fixadas pelo Ministro.
+**Art**. 12. As Seções de Estudo e Informações serão tantas quantas necessárias ao serviço. Sua constituição e atribuições serão fixadas pelo Ministro.
 
-<strong>Art</strong>. 13. Os Chefes das Seções de Estudo e Informações são Coronéis ou Tenentes-Coronéis dos diversos Quadros do Corpo de Oficiais da Aeronáutica, ou civis designados em comissão.
+**Art**. 13. Os Chefes das Seções de Estudo e Informações são Coronéis ou Tenentes-Coronéis dos diversos Quadros do Corpo de Oficiais da Aeronáutica, ou civis designados em comissão.
 
 Parágrafo único - As Seções de Estudo e Informações dispõem de tantos Adjuntos, Tenentes-Coroneis dos diversos Quadros do Corpo de Oficiais da Aeronáutica, ou civis designados em comissão, quando sejam necessários ao serviço.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos Oficiais de Gabinete</em>
+*Dos Oficiais de Gabinete*
 
-<strong>Art</strong>. 14. Exercem as funções de Oficial de Gabinete do Ministro os oficiais designados Secretário do Gabinete, Chefes e adjuntos da seção de relações Públicas e das Seções de Estudo e Informações. Desempenha igualmente, essas funções, o civil designando em comissão, Chefe ou Adjunto de uma das seções de Estudo e Informações ou Adjunto da Seção de Relações Públicas.
+**Art**. 14. Exercem as funções de Oficial de Gabinete do Ministro os oficiais designados Secretário do Gabinete, Chefes e adjuntos da seção de relações Públicas e das Seções de Estudo e Informações. Desempenha igualmente, essas funções, o civil designando em comissão, Chefe ou Adjunto de uma das seções de Estudo e Informações ou Adjunto da Seção de Relações Públicas.
 
-<strong>Art</strong>. 15. compete aos Oficiais e Gabinete:
+**Art**. 15. compete aos Oficiais e Gabinete:
 
 a) - estudar convenientemente os ocumentos que lhes sejam distribuídos;
 
@@ -174,17 +172,17 @@ b)- promover tôdas as informações que se tornarem necessárias;
 
 c) - levar os documentos que lhes houverem sido distribuídos à assinatura, esclarecimento ou decisão do Ministro ou Chefe do Gabinete, conforme estabelecimento nas normas internas do serviço do Gabinete.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Consultoria Jurídica</em>
+*Consultoria Jurídica*
 
-<strong>Art</strong>. 16. Compete à Consultoria Jurídica emitir pareceres e informações sôbre os assuntos de sua especialidade e examinar as questões de interesse privado que se liguem à administração da Aeronáutica.
+**Art**. 16. Compete à Consultoria Jurídica emitir pareceres e informações sôbre os assuntos de sua especialidade e examinar as questões de interesse privado que se liguem à administração da Aeronáutica.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Seção Administrativa</em>
+*Seção Administrativa*
 
-<strong>Art</strong>. 17. Compete à Seção Administrativa:
+**Art**. 17. Compete à Seção Administrativa:
 
 a) - a administração do pessoal militar e pessoal civil do Gabinete;
 
@@ -194,21 +192,21 @@ c) - os serviços gerais do Gabinete, inclusive o de transporte;
 
 d) - o serviço de rádio-comunicação do Gabinete.
 
-<strong>Art</strong>. 18. A organização e as atribuições dos diversos órgãos da Seção Administrativa serão fixadas pelo Ministro.
+**Art**. 18. A organização e as atribuições dos diversos órgãos da Seção Administrativa serão fixadas pelo Ministro.
 
-<strong>Art</strong>. 19. O chefe da Seção Administrativa é um Major Aviador, que dispõe de tantos auxiliares, Capitães ou Tenentes dos diversos Quadros do Corpo de Oficiais da Aeronáutica, quantos necessários ao serviço.
+**Art**. 19. O chefe da Seção Administrativa é um Major Aviador, que dispõe de tantos auxiliares, Capitães ou Tenentes dos diversos Quadros do Corpo de Oficiais da Aeronáutica, quantos necessários ao serviço.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Órgãos subordinados</em>
+*Órgãos subordinados*
 
-<strong>Art</strong>. 20. O Esquadrão de Transporte Especial, o Serviço Geral de Expediente e Arquivo e o Serviço de Administração do Edifício da Aeronáutica terão sua organização e funcionamento definidos em Regulamentos próprios ou Instruções especiais.
+**Art**. 20. O Esquadrão de Transporte Especial, o Serviço Geral de Expediente e Arquivo e o Serviço de Administração do Edifício da Aeronáutica terão sua organização e funcionamento definidos em Regulamentos próprios ou Instruções especiais.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Substituições e distribuições disciplinares</em>
+*Substituições e distribuições disciplinares*
 
-<strong>Art</strong>. 21. Por necessidades e interêsse do serviço, as substituições temporárias no Gabinete do Ministro obedecerão ao seguinte critério:
+**Art**. 21. Por necessidades e interêsse do serviço, as substituições temporárias no Gabinete do Ministro obedecerão ao seguinte critério:
 
 a) o Chefe do Gabinete será substituído pelo Oficial de Gabinete do Quadro de Oficiais Aviadores, de maior antiguidade;
 
@@ -218,32 +216,32 @@ c) o secretário, por um Oficial de Gabinete, designado pelo Chefe do Gabinete;
 
 d) o chefe da Seção Administrativa, pelo Oficial de maior antiguidade pertencente à Seção.
 
-<strong>Art</strong>. 22. O Chefe do Gabinete tem atribuições disciplinares equivalentes às de Comandante de Zona Aérea.
+**Art**. 22. O Chefe do Gabinete tem atribuições disciplinares equivalentes às de Comandante de Zona Aérea.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DISPOSIÇÕES FINAIS</em>
+*DISPOSIÇÕES FINAIS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 23. A Chefia do Gabinete e as funções exercidas nas Seções de Estudo e Informações e na Seção de Relações Públicas são consideradas, obedecidas as prescrições do Regulamento para o Serviço de Estado Maior na Aeronáutica, como funções de estado-maior.
+**Art**. 23. A Chefia do Gabinete e as funções exercidas nas Seções de Estudo e Informações e na Seção de Relações Públicas são consideradas, obedecidas as prescrições do Regulamento para o Serviço de Estado Maior na Aeronáutica, como funções de estado-maior.
 
-<strong>Art</strong>. 24. A Seção de Relações Públicas e as Seções de Estudo e Informações poderão dispor, quando as necessidades do serviço o exigirem, de Auxiliares de Gabinete, civis designados em comissão.
+**Art**. 24. A Seção de Relações Públicas e as Seções de Estudo e Informações poderão dispor, quando as necessidades do serviço o exigirem, de Auxiliares de Gabinete, civis designados em comissão.
 
-<strong>Art</strong>. 25. O Chefe do Gabinete organizará instruções pormenorizadas em que se fixarão normas de trabalho e de funcionamento, definição de atribuições e demais indicações necessárias à boa marcha do serviço.
+**Art**. 25. O Chefe do Gabinete organizará instruções pormenorizadas em que se fixarão normas de trabalho e de funcionamento, definição de atribuições e demais indicações necessárias à boa marcha do serviço.
 
-<strong>Art</strong>. 26. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica.
+**Art**. 26. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Disposições Transitórias</em>
+*Disposições Transitórias*
 
-<strong>Art</strong>. 27. Os oficiais que, na data de aprovação de presente Regulamento, estiverem exercendo funções de Oficial de Gabinete, poderão ser designados para a Seção Administrativa ou para o Esquadrão de Transporte Especial.
+**Art**. 27. Os oficiais que, na data de aprovação de presente Regulamento, estiverem exercendo funções de Oficial de Gabinete, poderão ser designados para a Seção Administrativa ou para o Esquadrão de Transporte Especial.
 
 Rio de Janeiro, 21 de maio de 1954.
 
-<strong>NERO MOURA</strong>
+**NERO MOURA**
 
 MINISTRO DA AERONÁUTICA

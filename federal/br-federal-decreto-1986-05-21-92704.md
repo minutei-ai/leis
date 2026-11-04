@@ -1,5 +1,3 @@
-###DEC-092704-0-000-21-05-1986@@@
-
 DECRETO Nº 92.704, DE 21 DE MAIO DE 1986
 
 Autoriza o funcionamento da habilitação em Química da Faculdade de Filosofia, Ciências e Letras de Patos de Minas.

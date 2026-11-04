@@ -1,5 +1,3 @@
-###DEL-005142-0-000-29-12-1942@@@
-
 DECRETO-LEI N. 5.142 – DE 29 DE DEZEMBRO DE 1942
 
 Dispõe sobre a desapropriação de terras na parte ocidental da Ilha do Governador

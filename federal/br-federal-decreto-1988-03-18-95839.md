@@ -1,7 +1,3 @@
-1
-
-###DEC-095839-0-000-18-03-1988@@@
-
 DECRETO N° 95.839, DE 18 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Corujão e Pindorama", formada pelos lotes n°s 48, 72, 73 e 75 do Loteamento Ribeirão Dois Riachos, classificado como latifúndio por exploração, situado no município de Arapoema, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

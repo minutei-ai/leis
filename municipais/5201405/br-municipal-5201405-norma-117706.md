@@ -28,11 +28,14 @@ Município de Aparecida de Goiânia, 19 de Outubro de 2023.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-VALDIVINO EDSON DE AZEVEDO<br>
+VALDIVINO EDSON DE AZEVEDO
+
 Secretário de Habitação

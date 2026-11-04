@@ -1,5 +1,3 @@
-###DEC-005474-0-000-22-06-2005@@@
-
 DECRETO Nº 5.474, DE 22 DE JUNHO DE 2005
 
 Regulamenta a Lei nº 10.849, de 23 de março de 2004, que cria o Programa de Financiamento da Ampliação e Modernização da Frota Pesqueira Nacional - Profrota Pesqueira, institui o Grupo Gestor do Profrota Pesqueira e dá outras providências.

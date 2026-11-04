@@ -1,5 +1,3 @@
-###DEC-050395-0-000-29-03-1961@@@
-
 DECRETO Nº 50.395, DE 29 DE MARÇO DE 1961.
 
 Dispõe sôbre a lotação dos órgãos do Serviço Aduaneiro e dá outras providências.

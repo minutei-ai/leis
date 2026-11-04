@@ -1,5 +1,3 @@
-###DEC-070423-0-000-17-04-1972@@@
-
 DECRETO N.º 70.423, DE 17 DE ABRIL DE 1972.
 
 Concede à Companhia de Mineração Jacundá o direito de lavrar cassiterita, no município de Porto Velho, Território Federal de Rondônia.

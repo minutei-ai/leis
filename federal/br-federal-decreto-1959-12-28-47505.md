@@ -1,5 +1,3 @@
-###DEC-047505-0-000-28-12-1959@@@
-
 DECRETO Nº 47.505, DE 28 DE DEZEMBRO DE 1959.
 
 Transfere de Licínio Notini para a Emprêsa de Eletricidade Divinópolis-Cajuru S. A. e desta para a Centrais Elétricas de Minas Gerais S. A. (CEMIG) a concessão para a produção e fornecimento de energia elétrica aos Municípios de Divinópolis e Carmo do Cajuru, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060801-0-000-02-06-1967@@@
-
 decreto nº 60.801, de 2 de junho de 1967.
 
 Aprova a alteração introduzida nos Estatutos da Regente Companhia Nacional de seguros, relativa ao aumento do capital social.

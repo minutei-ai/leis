@@ -1,5 +1,3 @@
-###DEC-079059-0-000-30-12-1976@@@
-
 DECRETO Nº 79.059, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Escola Superior de Estudos Sociais, com sede na Cidade Brusque, Estado de Santa Catarina.

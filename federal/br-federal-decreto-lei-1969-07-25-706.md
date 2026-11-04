@@ -1,5 +1,3 @@
-###DEL-000706-0-000-25-07-1969@@@
-
 DECRETO-LEI Nº 706, DE 25 DE JULHO DE 1969
 
 Estende aos portadores de certificado de curso de pós-graduação em psicologia e psicologia educacional, o direito assegurado pelo Art. 19 da Lei nº 4.119-62.

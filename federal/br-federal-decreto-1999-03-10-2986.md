@@ -1,5 +1,3 @@
-###DEC-002986-0-000-10-03-1999@@@
-
 DECRETO Nº 2.986, DE 10 DE MARÇO DE 1999.
 
 Altera dispositivos do Decreto nº 2.958, de 8 de fevereiro de 1999, que aprova a consolidação do Estatuto da RADIOBRÁS – Empresa Brasileira de Comunicação S.A.

@@ -1,5 +1,3 @@
-###DEL-007807-0-000-31-07-1945@@@
-
 DECRETO-LEI N. 7.807 – DE 31 DE JULHO DE 1945
 
 Limita as reservas de calcário conchifero da Lagoa de Araruama, Estado do Rio de Janeiro para a indústria da soda e dá outras providências.

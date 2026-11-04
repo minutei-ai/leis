@@ -1,5 +1,3 @@
-###DEL-002120-0-000-14-05-1984@@@
-
 # decreto-lei nº 2.120, DE 14 dE maio DE 1984
 
 Dispõe sobre o tratamento tributário relativo a bagagem.

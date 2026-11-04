@@ -1,5 +1,3 @@
-###DEC-047878-0-000-08-03-1960@@@
-
 DECRETO Nº 47.878, DE 8 DE MARÇO DE 1960.
 
 Declara caduca a concessão outorgada pelo Decreto nº 25.403, de 30 de agôsto de 1948, à Companhia Mato-grossense de Eletricidade, com sede na cidade de São Paulo, Estado de São Paulo, e outorga à Centrais Elétricas Mato-Grossenses Sociedade Anônima, com sede em Cuiabá, Estado de Mato Grosso, a concessão de que trata o citado Decreto.

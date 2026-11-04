@@ -1,5 +1,3 @@
-###DEC-062071-0-000-05-01-1968@@@
-
 DECRETO Nº 62.071, DE 5 DE JANEIRO DE 1968.
 
 Autoriza a Mineração Nacional Mina S. A. a lavrar cassiterita no município de São Tiago, Estado de Minas Gerais.

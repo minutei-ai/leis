@@ -1,5 +1,3 @@
-###DEC-056297-0-000-19-05-1965@@@
-
 DECRETO Nº 56.297, DE 19 DE MAIO DE 1965.
 
 Declara de utilidade pública a “Maternidade de Guaratinguetá”, com sede em Guaratiguentá, Estado de São Paulo.

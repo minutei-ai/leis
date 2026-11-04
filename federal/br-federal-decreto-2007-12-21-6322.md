@@ -1,5 +1,3 @@
-###DEC-006322-0-000-21-12-2007@@@
-
 DECRETO Nº 6.322, DE 21 DE DEZEMBRO DE 2007.
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.
@@ -151,5 +149,3 @@ Brasília, 21 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel João Jorge Filho
-
-Este texto não substitui o publicado no DOU de 24.12.2007

@@ -1,5 +1,3 @@
-###DEC-077707-0-000-31-05-1976@@@
-
 DECRETO Nº 77.707 - DE 31 DE MAIO DE 1976
 
 Concede à Companhia de Cimento Portland Itaú o direito de lavrar calcário e argila no Município  de Pratápolis, Estado de Minas Gerais.

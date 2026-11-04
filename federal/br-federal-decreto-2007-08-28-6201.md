@@ -1,5 +1,3 @@
-###DEC-006201-0-000-28-08-2007@@@
-
 DECRETO Nº 6.201, DE 28 DE AGOSTO DE 2007.
 
 Dispõe sobre a concessão de rebate no valor das parcelas com vencimento em 2007 de financiamentos de investimento rural.
@@ -43,5 +41,3 @@ Guido Mantega
 Reinhold Stephanes
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 29.8.2007

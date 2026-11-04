@@ -1,5 +1,3 @@
-###DEC-068630-0-000-19-05-1971@@@
-
 DECRETO Nº 68.630 - de 19 de maio 1971.
 
 Altera o Decreto n° 66.780, de 25 de junho de 1970, que distribuiu pessoal da Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP).

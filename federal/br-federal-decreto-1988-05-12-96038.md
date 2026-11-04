@@ -1,5 +1,3 @@
-###DEC-096038-0-000-12-05-1988@@@
-
 DECRETO N° 96.038, DE 12 DE MAIO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, a área de terra constituída pela Serra da Barriga, declarada Monumento Nacional, situada no Município de União dos Palmares, Estado de Alagoas.

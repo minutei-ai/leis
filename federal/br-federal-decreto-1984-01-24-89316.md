@@ -1,5 +1,3 @@
-###DEC-089316-0-000-24-01-1984@@@
-
 DECRETO Nº 89.316, DE 24 DE JANEIRO DE 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia-COELBA, no Estado da Bahia.

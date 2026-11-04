@@ -1,5 +1,3 @@
-###MPV-001681-0-010-26-10-1998@@@
-
 MEDIDA PROVISÓRiA Nº 1.681-10, DE 26 DE OUTUBRO DE 1998
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de rnicroempresas e de empresas de pequeno porte, e dá outras providências.

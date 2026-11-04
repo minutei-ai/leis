@@ -1,5 +1,3 @@
-###DEL-007456-0-000-10-04-1945@@@
-
 DECRETO-LEI N. 7.456 – DE 10 DE ABRIL DE 1945
 
 Autoriza a aquisição de imóveis em Belém, Estado do Pará

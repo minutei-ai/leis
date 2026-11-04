@@ -1,5 +1,3 @@
-###DEC-075047-0-000-05-12-1974@@@
-
 DECRETO Nº 75.047, DE 5 DE DEZEMBRO DE 1974.
 
 Dispõe sobre a transferência a outros órgãos das atribuições da Delegacia do Tesouro Brasileiro no Exterior, extinta pelo Decreto número 74.175, de 12 de junho de 1974, e dá outras providências.

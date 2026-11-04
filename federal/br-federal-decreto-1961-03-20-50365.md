@@ -1,5 +1,3 @@
-###DEC-050365-0-000-20-03-1961@@@
-
 DECRETO Nº 50.365, DE 20 DE MARÇO DE 1961.
 
 Estende a aplicação do Decreto número 50.354, de 17 de março de 1961 a casos que inumera.

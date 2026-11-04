@@ -1,5 +1,3 @@
-###DEC-061925-0-000-20-12-1967@@@
-
 DECRETO Nº 61.925, de 20 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terreno confrontantes com a Escola Superior de Agricultura de Lavras, situadas na Cidade de Lavras, Estado de Minas Gerais, necessárias à expansão de suas atividades.

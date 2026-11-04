@@ -1,5 +1,3 @@
-###DEL-006763-0-000-03-08-1944@@@
-
 DECRETO LEI N. 6.763 – DE 3 DE AGÔSTO DE 1944
 
 Autoriza União a liquidar dívidas do Estado do Amazonas

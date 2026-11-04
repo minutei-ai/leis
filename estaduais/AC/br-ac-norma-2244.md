@@ -1,6 +1,10 @@
 > **LEI Nº 3.135, DE 01 DE JUNHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a valorização da raça negra e povos indígenas nas peças publicitárias veiculadas pela administração pública estadual.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a valorização da raça negra e povos indígenas nas peças publicitárias veiculadas pela administração pública estadual.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

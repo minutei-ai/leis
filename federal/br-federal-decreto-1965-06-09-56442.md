@@ -1,5 +1,3 @@
-###DEC-056442-0-000-09-06-1965@@@
-
 decreto nº 56.442, de 9 de junho de 1965.
 
 Concede à Navegação Costalina S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

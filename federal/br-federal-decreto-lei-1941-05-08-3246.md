@@ -1,5 +1,3 @@
-###DEL-003246-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.246 – DE 8 DE MAIO DE 1941
 
 Altera, sem aumento de despesa, a redação de uma dotação de orçamento em vigor, na parte referente ao Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEL-006938-0-000-07-10-1944@@@
-
 DECRETO-LEI N  6.938 – DE 7 DE OUTUBRO DE 1944
 
 Dispõe sôbre o financiamento da safra de algodão de 1944-45, e dá outras providências

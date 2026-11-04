@@ -4,12 +4,14 @@ Cria o plano de cargos, carreiras e vencimentos dos servidores efetivos da Câma
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, NOS TERMOS DO ARTIGO 54, DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE LEI:
 
-Capítulo I<br>
+Capítulo I
+
 DISPOSIÇÃO PRELIMINAR
 
 Art. 1º. Esta Lei Complementar cria o Plano de Cargos, Carreiras e Vencimentos dos Servidores Efetivos da Câmara Municipal de Aparecida de Goiânia/GO.
 
-Capítulo II<br>
+Capítulo II
+
 DO DESENVOLVIMENTO NA CARREIRA
 
 Art. 2º O desenvolvimento dos servidores efetivos na carreira legislativa de que trata esta Lei dar-se-á mediante progressão funcional e promocional.
@@ -24,7 +26,8 @@ Art. 4º. Progressão promocional, em razão do tempo de efetivo exercício no c
 
 § 2º O acréscimo pecuniário de que se trata o Art. 3 º e. Art. 4º, independe da correção inflacionária anual.
 
-Capítulo III<br>
+Capítulo III
+
 ADICIONAL DE TITULARIDADE
 
 Art. 5º. As gratificações por conclusão de cursos correspondem aos respectivos percentuais:
@@ -51,7 +54,8 @@ II - estiverem relacionados com as funções do cargo de provimento originário 
 
 § 4º O Adicional de titularidade integra a remuneração do servidor efetivo para efeito de férias, licenças, décimo terceiro salário e afastamentos remunerados, e incorporar-se-á ao salário base para fins de aposentadoria e disponibilidade.
 
-Capítulo IV<br>
+Capítulo IV
+
 DO VALE-ALIMENTAÇÃO
 
 Art.6º. O vale-alimentação, destinado aos servidores efetivos da Câmara Municipal de Aparecida de Goiânia, concedido em pecúnia na folha de pagamento, tem caráter indenizatório e não se incorpora ao vencimento, remuneração, proventos ou pensão por expressa determinação legal e refere a 22% (vinte e dois por cento) do menor salário base do servidor efetivo.
@@ -60,7 +64,8 @@ Art.7º. Não são consideradas para efeito de pagamento do vale-alimentação a
 
 § 1º O vale-alimentação não será considerado para fins de incidência de imposto de renda ou de contribuição para o regime geral ou regime próprio de previdência e planos de assistência à saúde”.
 
-Capítulo V<br>
+Capítulo V
+
 DO VALE-TRANSPORTE
 
 Art.8º O vale-transporte, destinado a todos os servidores efetivos da Câmara Municipal de Aparecida de Goiânia, de natureza jurídica indenizatória e concedido em pecúnia na folha de pagamento, destina-se ao custeio parcial de despesas realizadas para a locomoção, de suas residências para os locais de trabalho e vice-versa, excetuados aqueles realizados os deslocamentos em intervalos para repouso ou alimentação, durante a jornada de trabalho.
@@ -77,7 +82,8 @@ Art.8º O vale-transporte, destinado a todos os servidores efetivos da Câmara M
 
 Art. 9º. Não são consideradas para efeito de pagamento do vale-transporte as ocorrências abaixo: afastamento ou licença com perda da remuneração; afastamento por motivo de reclusão; exoneração, aposentadoria, transferência ou redistribuição; licença para tratar de interesses particulares; falta não justificada.
 
-Capítulo VI<br>
+Capítulo VI
+
 DAS VANTAGENS FINANCEIRAS ESPECIAIS DE INCORPORAÇÃO
 
 Art.11. O servidor efetivo da Câmara Municipal de Aparecida de Goiânia que tiver exercido função gratificada nos cargos de direção, chefia, coordenação, assessoramento de provimento em comissão ou de natureza especial por 3 anos ininterruptos ou por 6 anos alternados incorporará ao seu vencimento a gratificação da função ou remuneração do cargo em comissão, de maior valor, desde que exercido por um período mínimo de um ano.
@@ -86,7 +92,8 @@ Art.11. O servidor efetivo da Câmara Municipal de Aparecida de Goiânia que tiv
 
 § 2º O servidor que tenha incorporado a diferença de remuneração de cargo em comissão ou função de confiança na forma do caput e que vier a ocupar novo cargo em comissão ou função gratificada de nível superior ao incorporado somente poderá incorporar a nova diferença se cumprir novo período de carência por 3 anos ininterruptos ou por 6 anos alternados conforme previsto no caput.
 
-Capítulo VII<br>
+Capítulo VII
+
 DO ADICIONAL POR TEMPO DE SERVIÇO
 
 Art.12. Por quinquênio de efetivo exercício no serviço público da Câmara Municipal de Aparecida de Goiânia, será concedido ao servidor efetivo um adicional correspondente a 10% (dez por cento) do vencimento de seu cargo efetivo.
@@ -99,7 +106,8 @@ Art.12. Por quinquênio de efetivo exercício no serviço público da Câmara Mu
 
 § 4º - Ao servidor efetivo da Câmara Municipal será concedida, por quinquênio de efetivo serviço público, gratificação adicional de 10%(dez por cento) calculados sobre a remuneração, gratificação de periculosidade e de insalubridade e de adicional noturno.
 
-Capítulo VIII<br>
+Capítulo VIII
+
 DA GRATIFICAÇÃO POR PRODUTIVIDADE
 
 Art.13. A gratificação por produtividade, somente será devida ao servidor, da Câmara Municipal de Aparecida de Goiânia, ocupante de cargo de provimento efetivo, na forma e condições determinadas em regulamento próprio.
@@ -118,7 +126,8 @@ Art.15. Para realizar as avaliações de desempenho, será criada uma Comissão 
 
 Art.16. Os valores referentes às gratificações de desempenho serão atribuídos aos servidores em função do alcance dos resultados obtidos na avaliação institucional e na avaliação individual. Os percentuais da gratificação terão como referência o salário base do servidor efetivo, conforme o anexo IV.
 
-Capítulo IX<br>
+Capítulo IX
+
 DA LINCENÇA PRÊMIO
 
 Art. 17. Após cada cinco anos de efetivo exercício no serviço, o servidor efetivo da Câmara Municipal de Aparecida de Goiânia fará jus a três (03) meses de licença-prêmio, com o vencimento do cargo efetivo, acrescido das vantagens permanentes, podendo ser gozada em período mínimo de 30 dias.
@@ -133,7 +142,8 @@ Art. 17. Após cada cinco anos de efetivo exercício no serviço, o servidor efe
 
 § 5º O pagamento da pecúnia deverá ser feito no mês subsequente à aprovação do requerimento.
 
-Capítulo X<br>
+Capítulo X
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 18. Os servidores de que se trata essa Lei farão jus aos direitos e vantagens pecuniárias previstas no Estatuto dos Servidores Públicos de Aparecida de Goiânia sem prejuízo de outros adicionais relacionados como indenização, gratificações, auxílios, previdências ou assistência social previstos em legislação específica.
@@ -146,5 +156,6 @@ Gabinete do Presidente da Câmara Municipal de Aparecida de Goiânia, aos 27 dia
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Presidente da Câmara Municipal

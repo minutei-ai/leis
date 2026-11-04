@@ -1,7 +1,3 @@
-1
-
-###DEC-098830-0-000-15-01-1990@@@
-
 DECRETO Nº 98.830, DE 15 DE JANEIRO DE 1990
 
 Dispõe sobre a coleta, por estrangeiros, de dados e materiais científicos no Brasil, e dá outras providências.

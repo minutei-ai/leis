@@ -1,5 +1,3 @@
-###DEC-070922-0-000-03-08-1972@@@
-
 DECRETO Nº 70.922, DE 3 DE AGOSTO DE 1972.
 
 Retifica o Quadro Único de Pessoal da Universidade Federal Fluminense, e dá outras providências.

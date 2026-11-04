@@ -1,5 +1,3 @@
-###DEC-049615-0-000-29-12-1960@@@
-
 DECRETO N. 49.615 – DE 29 DE DEZEMBRO DE 1960
 
 Declara de utilidade pública o Patronato de Menores, com sede no Rio de Janeiro, Estado da Guanabara.

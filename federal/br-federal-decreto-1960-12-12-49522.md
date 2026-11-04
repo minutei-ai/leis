@@ -1,5 +1,3 @@
-###DEC-049522-0-000-12-12-1960@@@
-
 DECRETO Nº 49.522, DE 12 DE DEZEMBRO DE 1960.
 
 Renova o Decreto nº 43.595, de 28 de abril de 1958.

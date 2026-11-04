@@ -1,5 +1,3 @@
-###DEC-065331-0-000-10-10-1969@@@
-
 DECRETO Nº 65.331 - DE 10 DE OUTUBRO DE 1969.
 
 Aprova o Regulamento para o Fundo de Desenvolvimento do Ensino Profissional Marítimo.

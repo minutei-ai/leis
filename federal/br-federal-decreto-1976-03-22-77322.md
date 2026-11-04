@@ -1,5 +1,3 @@
-###DEC-077322-0-000-22-03-1976@@@
-
 Decreto nº 77.322, de 22 de março de 1976.
 
 Concede à Minérios Metalúrgicos do Nordeste S.A. o direito de lavrar manganês no Município de Jacaraci, Estado da Bahia.

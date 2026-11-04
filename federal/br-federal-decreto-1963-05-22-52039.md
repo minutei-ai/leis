@@ -1,5 +1,3 @@
-###DEC-052039-0-000-22-05-1963@@@
-
 DECRETO Nº 52.039, DE 22 DE MAIO DE 1963.
 
 Outorga concessão à Companhia Telefônica Oeste do Brasil - “Teleoeste”, para executar serviço radiotelefônico público interior.

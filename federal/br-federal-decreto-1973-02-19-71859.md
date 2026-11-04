@@ -1,5 +1,3 @@
-###DEC-071859-0-000-19-02-1973@@@
-
 DECRETO Nº 71.859, DE 19 DE FEVEREIRO DE 1973.
 
 Altera dispositivos do Regulamento do Ministério da Agricultura, aprovado pelo Decreto nº 68.594, de 6 de maio de 1971.

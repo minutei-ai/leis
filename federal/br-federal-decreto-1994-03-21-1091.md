@@ -1,7 +1,3 @@
-1
-
-###DEC-001091-0-000-21-03-1994@@@
-
 DECRETO N° 1.091, DE 21 DE MARÇO DE 1994
 
 Dispõe sobre procedimentos a serem observados por empresas controladas direta ou indiretamente pela União.

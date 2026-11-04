@@ -1,5 +1,3 @@
-###DEL-008584-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.584 – DE 8 JANEIRO DE 1946
 
 Cria sem aumento de despesa no Serviço Nacional de Lepra, do Departamento Nacional de Saúde, o Instituto de Leprologia.

@@ -1,5 +1,3 @@
-###DEC-094855-0-000-08-09-1987@@@
-
 DECRETO N° 94.855, DE 8 DE SETEMBRO DE 1987
 
 Autoriza a Companhia Brasileira de Infra-estrutura Fazendária - INFAZ a aumentar seu capital social.

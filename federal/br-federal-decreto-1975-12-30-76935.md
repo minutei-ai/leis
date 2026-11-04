@@ -1,5 +1,3 @@
-###DEC-076935-0-000-30-12-1975@@@
-
 DECRETO Nº 76.935, DE 30 DE DEZEMBRO DE 1975.
 
 Fixa o preço mínimo único básico para financiamento ou aquisição de semente de juta da safra de 1975-76 produzida nos Estados do Amazonas e Pará.

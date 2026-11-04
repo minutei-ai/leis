@@ -1,5 +1,3 @@
-###DEC-058056-0-000-23-03-1966@@@
-
 Decreto nº 58.056, de 23 de março de 1966.
 
 Dá nova redação a dispositivos do Decreto nº 50.640, de 20 de maio de 1961, para transferir competência sôbre fiscalização do uso de cargos oficiais ao Departamento Federal de Segurança Pública.

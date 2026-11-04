@@ -1,5 +1,3 @@
-###DEC-070211-0-000-28-02-1972@@@
-
 Decreto nº 70.211, de 28 de fevereiro de 1972.
 
 Declara a urgência da desapropriação de parte das áreas e benfeitorias declaradas de utilidade pública, para fins de desapropriação, pelo Decreto nº 69.388, de 20 de outubro de 1971.

@@ -1,5 +1,3 @@
-###DEL-007887-0-000-21-08-1945@@@
-
 DECRETO-LEI N. 7.887 – DE 21 DE AGÔSTO DE 1945
 
 Dispõe sôbre a organização do Departamento Federal de Segurança Pública, e dá outras providências.

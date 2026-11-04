@@ -1,5 +1,3 @@
-###DEL-005615-0-000-24-06-1943@@@
-
 DECRETO‑LEI N. 5.615 – DE 24 JUNHO DE 1943
 
 Abre ao Ministério da Educação o Saúde o crédito especial de Cr$ 300.000,00, para atender a despesas do Serviço Federal de Águas e Esgotos

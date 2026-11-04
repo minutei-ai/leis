@@ -1,5 +1,3 @@
-###DEC-080952-0-000-07-12-1977@@@
-
 Decreto nº 80.952, de 07 de dezembro de 1977.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar quartzo róseo, no Município de Pedra Lavrada, Estado da Paraíba.

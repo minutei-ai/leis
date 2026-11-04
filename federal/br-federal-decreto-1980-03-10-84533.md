@@ -1,5 +1,3 @@
-###DEC-084533-0-000-10-03-1980@@@
-
 Decreto nº 84.533, de 10 de março de 1980.
 
 Promulga os Estatutos do Grupo de Países Latino-Americanos e do Caribe Exportadores de Açúcar (GEPLACEA).

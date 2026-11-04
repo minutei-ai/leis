@@ -1,5 +1,3 @@
-###DEC-092611-0-000-02-05-1986@@@
-
 DECRETO Nº 92.611, DE 2 DE MAIO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIRCEU DE MARÍLIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Marília, Estado de São Paulo.

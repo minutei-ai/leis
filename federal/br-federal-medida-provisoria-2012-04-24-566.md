@@ -1,5 +1,3 @@
-###MPV-000566-0-000-24-04-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° 566, DE 24 DE ABRIL DE 2012
 
 Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e da Integração Nacional, no valor global de R$ 706.400.000,00, para os fins que especifica.

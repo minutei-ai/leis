@@ -1,6 +1,10 @@
 > **LEI Nº 4.408, DE 03 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade da criação ou adaptação de no mínimo uma sala reservada e equipada em todos os Institutos Médico-Legais IMLs do Estado para atendimento de crianças e adolescentes vítimas de violência ou que estejam como acompanhantes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade da criação ou adaptação de no mínimo uma sala reservada e equipada em todos os Institutos Médico-Legais IMLs do Estado para atendimento de crianças e adolescentes vítimas de violência ou que estejam como acompanhantes.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

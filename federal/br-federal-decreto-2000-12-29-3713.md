@@ -1,5 +1,3 @@
-###DEC-003713-0-000-29-12-2000@@@
-
 DECRETO Nº 3.713, DE 29 DE DEZEMBRO DE 2000.
 
 Dá nova redação ao art. 3º do Decreto nº 2.891, de 22 de dezembro de 1998, e revoga o Decreto nº 3.302, de 21 de dezembro de 1999.

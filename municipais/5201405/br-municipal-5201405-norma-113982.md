@@ -40,11 +40,14 @@ Gabinete do Prefeito do Município de Aparecida de Goiânia, 30 de julho de 2024
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JORGE LUIZ MARREIROS SALDANHA<br>
+JORGE LUIZ MARREIROS SALDANHA
+
 Secretário

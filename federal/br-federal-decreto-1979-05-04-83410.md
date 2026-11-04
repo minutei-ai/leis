@@ -1,5 +1,3 @@
-###DEC-083410-0-000-04-05-1979@@@
-
 Decreto nº 83.410, de 04 de maio de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Vargem Grande do Sul da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

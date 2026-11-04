@@ -1,5 +1,3 @@
-###DEC-006692-0-000-12-12-2008@@@
-
 DECRETO Nº 6.692, DE 12 DE DEZEMBRO DE 2008.
 
 Dá nova redação aos arts. 9o, 10, 13 e 19 do Decreto no 3.591, de 6 de setembro de 2000, que dispõe sobre o Sistema de Controle Interno do Poder Executivo Federal, e acresce parágrafo ao art. 8o do Decreto no 5.480, de 30 de junho de 2005, que dispõe sobre o Sistema de Correição do Poder Executivo Federal.

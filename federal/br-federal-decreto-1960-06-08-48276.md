@@ -1,5 +1,3 @@
-###DEC-048276-0-000-08-06-1960@@@
-
 DECRETO Nº 48.276, DE 8 DE JUNHO DE 1960.
 
 Transfere, sem aumento de despesas, função de Assistente referência 28 da Tabela Única de Extranumerário Mensalista do Ministério do Trabalho, Indústria e Comércio para idêntica Tabela do Ministério da Fazenda.

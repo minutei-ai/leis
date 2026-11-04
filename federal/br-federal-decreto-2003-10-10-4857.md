@@ -1,5 +1,3 @@
-###DEC-004857-0-000-10-10-2003@@@
-
 DECRETO Nº 4.857,  DE 10 DE OUTUBRO DE 2003.
 
        Dá nova redação ao § 2º do art. 5º do Decreto nº 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior \- CAMEX, do Conselho de Governo e altera a denominação do Comitê Executivo de Gestão, constante do mesmo Decreto.
@@ -32,5 +30,6 @@ XVIII \- um representante do Serviço Social Autonômo Agência de Promoção 
 
         Brasília, 10 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

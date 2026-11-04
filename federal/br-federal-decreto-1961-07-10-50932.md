@@ -1,5 +1,3 @@
-###DEC-050932-0-000-10-07-1961@@@
-
 DECRETO Nº 50.932, DE 10 DE JULHO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Internacional de Seguros.

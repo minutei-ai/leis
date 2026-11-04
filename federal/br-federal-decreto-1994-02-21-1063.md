@@ -1,7 +1,3 @@
-1
-
-###DEC-001063-0-000-21-02-1994@@@
-
 DECRETO Nº 1.063, DE 21 DE FEVEREIRO DE 1994
 
 Dispõe sobre a e execução do Décimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 8 das Preferências Outorgadas no Período de 1962/1980, entre Brasil e Bolívia, de 30 de junho de 1993.

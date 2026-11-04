@@ -1,5 +1,3 @@
-###DEC-064405-0-000-25-04-1969@@@
-
 DECRETO Nº 64.405, DE 25 DE ABRIL DE 1969.
 
 Fixa a distribuição em cada Arma e em cada pôsto, das funções gerais dos Oficiais do Exército, a vigorar a partir de 24 de abril de 1969.
@@ -10,7 +8,73 @@ Decreta:
 
 Art. 1º São os efetivos globais das Armas atualmente em vigor, distribuídos em cada Arma e em cada pôsto pelas funções gerais (QEMG e QSG) e pelas funções privativas da seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PÔSTO</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ARMA</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Funções gerais (QEMG e QSG)</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Funções Privativas</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Efetivo previsto por pôsto</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cel. </span><span style="font-family:Arial; font-style:italic">-</span><span style="font-family:Arial"> (a) (b)</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria.................. Cavalaria.................. Artilharia................... Engenharia...............</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">104 39 95 5</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41 28 22 29</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">353</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ten.-Cel. </span><span style="font-family:Arial; font-style:italic">-</span><span style="font-family:Arial">(c) (d)</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria.................. Cavalaria.................. Artilharia................... Engenharia...............</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">261 127 82 -</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">81 39 59 40 (e)</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">689</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maj. </span><span style="font-family:Arial; font-style:italic">-</span><span style="font-family:Arial"> (f) (g)</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria.................. Cavalaria.................. Artilharia................... Engenharia...............</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">270 104 373 40</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">220 91 148 139</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1385</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cap.</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria.................. Cavalaria.................. Artilharia................... Engenharia............... Comunicações.......... Material Bélico..........</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">340 194 282 50 - -</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">573 222 348 283 49 (h) 72 (i)</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">2413</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1º Ten.</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria.................. Cavalaria.................. Artilharia................... Engenharia............... Comunicações......... Material Bélico..........</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">226</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">13 -</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">571 189 284 117 70 106 (j)</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">1576</span></p></td></tr><tr><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2º Ten.</span></p></td><td style="width:94.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Infantaria.................. Cavalaria.................. Artilharia................... Engenharia............... Comunicações......... Material Bélico..........</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">58 26 38 20 21 15</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:77.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Variável (Lei nº 5.394, de 23 de fevereiro de 1968).</span></p></td></tr></tbody></table>
+PÔSTO
+
+ARMA
+
+Funções gerais (QEMG e QSG)
+
+Funções Privativas
+
+Efetivo previsto por pôsto
+
+Cel. - (a) (b)
+
+Infantaria.................. Cavalaria.................. Artilharia................... Engenharia...............
+
+104 39 95 5
+
+41 28 22 29
+
+353
+
+Ten.-Cel. -(c) (d)
+
+Infantaria.................. Cavalaria.................. Artilharia................... Engenharia...............
+
+261 127 82 -
+
+81 39 59 40 (e)
+
+689
+
+Maj. - (f) (g)
+
+Infantaria.................. Cavalaria.................. Artilharia................... Engenharia...............
+
+270 104 373 40
+
+220 91 148 139
+
+1385
+
+Cap.
+
+Infantaria.................. Cavalaria.................. Artilharia................... Engenharia............... Comunicações.......... Material Bélico..........
+
+340 194 282 50 - -
+
+573 222 348 283 49 (h) 72 (i)
+
+2413
+
+1º Ten.
+
+Infantaria.................. Cavalaria.................. Artilharia................... Engenharia............... Comunicações......... Material Bélico..........
+
+226  13 -
+
+571 189 284 117 70 106 (j)
+
+1576
+
+2º Ten.
+
+Infantaria.................. Cavalaria.................. Artilharia................... Engenharia............... Comunicações......... Material Bélico..........
+
+58 26 38 20 21 15
+
+Variável (Lei nº 5.394, de 23 de fevereiro de 1968).
 
 Observações:
 

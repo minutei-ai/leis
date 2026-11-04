@@ -1,5 +1,3 @@
-###DEC-077502-0-000-27-04-1976@@@
-
 DECRETO Nº 77.502 - DE 27 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Engenharia de Produção da Escola de Engenharia de São Carlos, Estado de São Paulo.

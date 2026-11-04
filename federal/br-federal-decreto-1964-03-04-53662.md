@@ -1,5 +1,3 @@
-###DEC-053662-0-000-04-03-1964@@@
-
 DECRETO Nº 53.662, DE 4 DE MARÇO DE 1964.
 
 Institui Comissão para proceder a exame do cálculo de vencimentos e vantagens dos Membros da Magistratura do Ministério Público Federal, do Serviço Jurídico da União e dos Autárquicos.

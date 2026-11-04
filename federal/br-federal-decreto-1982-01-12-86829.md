@@ -1,5 +1,3 @@
-###DEC-086829-0-000-12-01-1982@@@
-
 DECRETO Nº 86.829, DE 12 DE JANEIRO DE 1982
 
 Cria a Comissão Nacional para Assuntos Antárticos (CONANTAR) e dá outras providências.

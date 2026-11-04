@@ -1,5 +1,3 @@
-###DEC-083688-0-000-04-07-1979@@@
-
 Decreto nº 83.688, de 04 de julho de 1979.
 
 Autoriza a cessão sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Corumbá, Estado de Mato Grosso do Sul.

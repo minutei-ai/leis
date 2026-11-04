@@ -1,6 +1,6 @@
 > **LEI Nº 4.134, DE 18 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a revisão do subsídio da magistratura do Poder Judiciário do Estado.</span></span></span></p></td></tr></tbody></table>
+Dispõe sobre a revisão do subsídio da magistratura do Poder Judiciário do Estado.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -32,4 +32,52 @@ Governador do Estado do Acre
 
 **REAJUSTE DA MAGISTRATURA ACREANA**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>Cargos Ocupados</span></strong></span></p></td><td><p><span><strong><span>Art. 69 da LC n.º 221/2010</span></strong></span></p></td><td><p><span><strong><span>Subsídio 1º de abril/2023</span></strong></span></p></td><td><p><span><strong><span>Subsídio 1º de fevereiro/2024</span></strong></span></p></td><td><p><span><strong><span>Subsídio 1º de fevereiro/2025</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Desembargador</span></strong></span></p></td><td><p><span><span>90,25% do salário do Ministro do STF</span></span></p></td><td><p><span><span>R$ 37.589,96</span></span></p></td><td><p><span><span>R$ 39.717,69</span></span></p></td><td><p><span><span>R$ 41.845,49</span></span></p></td></tr><tr><td><p><span><strong><span>Juiz de Direito de Entrância Final</span></strong></span></p></td><td><p><span><span>95% do subsídio de Desembargador</span></span></p></td><td><p><span><span>R$ 35.710,45</span></span></p></td><td><p><span><span>R$ 37.731,80</span></span></p></td><td><p><span><span>R$ 39.753,21</span></span></p></td></tr><tr><td><p><span><strong><span>Juiz de Direito de Entrância Inicial</span></strong></span></p></td><td><p><span><span>95% do subsídio da Entrância Final</span></span></p></td><td><p><span><span>R$ 33.924,93</span></span></p></td><td><p><span><span>R$ 35.845,21</span></span></p></td><td><p><span><span>R$ 37.765,55</span></span></p></td></tr><tr><td><p><span><strong><span>Juiz de Direito Substituto</span></strong></span></p></td><td><p><span><span>95% do subsídio da Entrância Inicial</span></span></p></td><td><p><span><span>R$ 32.228,69</span></span></p></td><td><p><span><span>R$ 34.052,95</span></span></p></td><td><p><span><span>R$ 35.877,27</span></span></p></td></tr></tbody></table>
+**Cargos Ocupados**
+
+**Art. 69 da LC n.º 221/2010**
+
+**Subsídio 1º de abril/2023**
+
+**Subsídio 1º de fevereiro/2024**
+
+**Subsídio 1º de fevereiro/2025**
+
+**Desembargador**
+
+90,25% do salário do Ministro do STF
+
+R$ 37.589,96
+
+R$ 39.717,69
+
+R$ 41.845,49
+
+**Juiz de Direito de Entrância Final**
+
+95% do subsídio de Desembargador
+
+R$ 35.710,45
+
+R$ 37.731,80
+
+R$ 39.753,21
+
+**Juiz de Direito de Entrância Inicial**
+
+95% do subsídio da Entrância Final
+
+R$ 33.924,93
+
+R$ 35.845,21
+
+R$ 37.765,55
+
+**Juiz de Direito Substituto**
+
+95% do subsídio da Entrância Inicial
+
+R$ 32.228,69
+
+R$ 34.052,95
+
+R$ 35.877,27

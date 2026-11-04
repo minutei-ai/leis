@@ -1,5 +1,3 @@
-###DEC-076672-0-000-25-11-1975@@@
-
 DECRETO Nº 76.672, DE 25 DE NOVEMBRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do domínio útil do terreno que menciona, situado no Município de Niterói, Estado do Rio de Janeiro.

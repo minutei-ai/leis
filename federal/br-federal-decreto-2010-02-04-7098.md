@@ -1,5 +1,3 @@
-###DEC-007098-0-000-04-02-2010@@@
-
 DECRETO Nº 7.098, DE 4 DE FEVEREIRO DE 2010.
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT do Ministério do Planejamento, Orçamento e Gestão para o Ministério da Justiça.
@@ -22,4 +20,18 @@ LUIZ INÁCIO LULA DA SILVA
 
 A N E X O
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:33.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível da FCT</span></p></td><td style="width:54.38pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quantidade</span></p></td><td style="width:91.32pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Posto de Trabalho</span></p></td><td style="width:71.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Unidade</span></p></td></tr><tr><td style="width:33.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:54.38pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:91.32pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Analista em Organização e Modernização.</span></p></td><td style="width:71.82pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretaria Executiva do Ministério da Justiça</span></p></td></tr></tbody></table>
+Nível da FCT
+
+Quantidade
+
+Posto de Trabalho
+
+Unidade
+
+1
+
+2
+
+Analista em Organização e Modernização.
+
+Secretaria Executiva do Ministério da Justiça

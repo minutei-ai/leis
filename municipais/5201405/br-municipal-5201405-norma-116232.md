@@ -30,16 +30,20 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Goiás, 19 de novembro 
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FABIO PASSAGLIA<br>
+FABIO PASSAGLIA
+
 Chefe da Casa Civil
 
-ALESSANDRO MAGALHÃES<br>
+ALESSANDRO MAGALHÃES
+
 Secretário Municipal de Saúde
 
-MAYARA MENDANHA<br>
+MAYARA MENDANHA
+
 Secretaria Municipal de Assistência Social
 
 ANEXO I

@@ -1,5 +1,3 @@
-###DEC-077166-0-000-12-02-1976@@@
-
 DECRETO Nº 77.166, DE 12 DE FEVEREIRO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a fevereiro de 1976.

@@ -1,5 +1,3 @@
-###DEC-049598-0-000-28-12-1960@@@
-
 DECRETO Nº 49.598, DE 28 DE DEZEMBRO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário à 7ª Região Militar, em Recife, Estado de Pernambuco.

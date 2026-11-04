@@ -1,5 +1,3 @@
-###DEC-058568-0-000-02-06-1966@@@
-
 DECRETO Nº 58.568, DE 2 DE JUNHO DE 1966.
 
 Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 2ª Região, abre o crédito especial de Cr$890.000.000, para o fim que especifica.

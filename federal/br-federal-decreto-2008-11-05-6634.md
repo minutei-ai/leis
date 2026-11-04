@@ -1,5 +1,3 @@
-###DEC-006634-0-000-05-11-2008@@@
-
 DECRETO Nº 6.634, DE 5 DE NOVEMBRO DE 2008.
 
 Dispõe sobre o Conselho Nacional das Zonas de Processamento de Exportação - CZPE, de que trata o art. 3o da Lei no 11.508, de 20 de julho de 2007, e dá outras providências.

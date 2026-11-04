@@ -1,5 +1,3 @@
-###DEC-051050-0-000-26-07-1961@@@
-
 decreto nº 51.050, de 26 de julho de 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio Estrela.

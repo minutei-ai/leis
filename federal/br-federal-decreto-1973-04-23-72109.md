@@ -1,5 +1,3 @@
-###DEC-072109-0-000-23-04-1973@@@
-
 DECRETO Nº 72.109, DE 23 DE ABRIL DE 1973.
 
 Declara de utilidade pública para fins de desapropriação, um lote de terreno urbano, sem benfeitorias, a ser desmembrado de maior porção necessário à instalação de estação automática de telefones, no Distrito de Jaraguá, na Vila Nossa Senhora da Conceição, Município de São Paulo, Estado de São Paulo, pela Companhia Telefônica Brasileira - CTB.

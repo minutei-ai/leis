@@ -1,5 +1,3 @@
-###DEC-073629-0-000-13-02-1974@@@
-
 DECRETO Nº 73.629, DE 13 DE FEVEREIRO 1974.
 
 Inclui representante do Estado-Maior das Forças Armadas na Comissão de Cartografia do Instituto Brasileiro de Geografia e Estatísticas.

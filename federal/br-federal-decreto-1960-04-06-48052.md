@@ -1,5 +1,3 @@
-###DEC-048052-0-000-06-04-1960@@@
-
 DECRETO Nº 48.052, DE 6 DE ABRIL DE 1960.
 
 Concede a “Vanguarda” - Sociedade Comercial e Marítima Limitada autorização para funcionar como emprêsa de navegação e cabotagem.

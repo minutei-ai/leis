@@ -1,5 +1,3 @@
-###DEL-007086-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.086 – DE 27 DE NOVEMBRO DE 1944
 
 Autoriza a Prefeitura do Distrito Federal a receber bens em doação e dá outras providências.

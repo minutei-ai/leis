@@ -1,5 +1,3 @@
-###DEC-094541-0-000-01-07-1987@@@
-
 DECRETO N° 94.541, DE 1° DE JULHO DE 1987
 
 Estabelece normas para o escoamento, comercialização e estocagem de álcool para fins combustíveis, e dá outras providências.

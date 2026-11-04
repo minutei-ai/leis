@@ -1,5 +1,3 @@
-###DEC-085544-0-000-16-12-1980@@@
-
 DECRETO Nº 85.544, de 16 de dezembro de 1980.
 
 Altera a subordinação do 8º Batalhão Logístico no Ministério do Exército.

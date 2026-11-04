@@ -1,5 +1,3 @@
-###DEC-005243-0-000-14-10-2004@@@
-
 DECRETO Nº 5.243 DE 14 DE OUTUBRO DE 2004
 
 Dá nova redação aos incisos II e X do art. 1º do Decreto nº 5.204, de 13 de setembro de 2004, que dispõe sobre a substituição de Ministros de Estado em suas ausências do território nacional, nos seus afastamentos ou em outros impedimentos legais ou regulamentare

@@ -1,5 +1,3 @@
-###DEC-058897-0-000-21-07-1966@@@
-
 DECRETO Nº 58.897, DE 21 DE JULHO DE 1966.
 
 Abre, ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 2ª Região - o crédito especial de Cr$60.664.800, para atender às despesas decorrentes da Lei nº 4.942, de 5 de abril de 1966.

@@ -1,5 +1,3 @@
-###DEL-007421-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.421 – DE 26 DE MARÇO DE 1945
 
 Suprime Função gratificada no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

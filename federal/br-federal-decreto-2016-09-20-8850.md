@@ -36,5 +36,6 @@ Dyogo Henrique de Oliveira
 
 Geddel Vieira Lima
 
-<<ANEXO>><br>
+<<ANEXO>>
+
 <<TABELA>>

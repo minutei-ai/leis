@@ -1,5 +1,3 @@
-###LEI-000000-0-000-27-10-1831@@@
-
 LEI - DE 27 DE OUTUBRO DE 1831
 
 Autoriza credito para as despezas com o concerto das muralhas e outras obras do Arsenal do Exercito.

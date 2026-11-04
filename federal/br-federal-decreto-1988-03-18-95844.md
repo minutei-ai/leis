@@ -1,7 +1,3 @@
-1
-
-###DEC-095844-0-000-18-03-1988@@@
-
 DECRETO N° 95.844, DE 18 DE MARÇO DE 1988
 
 Outorga concessão a EMPREENDIMENTOS GUIMARÃES E FRANZÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Vitória, Estado de Minas Gerais.

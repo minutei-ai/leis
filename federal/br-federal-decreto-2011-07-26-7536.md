@@ -1,5 +1,3 @@
-###DEC-007536-0-000-26-07-2011-PUB-01@@@
-
 DECRETO Nº 7.536 DE 26 DE JULHO DE 2011.
 
   Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

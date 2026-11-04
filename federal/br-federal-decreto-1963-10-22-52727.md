@@ -1,5 +1,3 @@
-###DEC-052727-0-000-22-10-1963@@@
-
 DECRETO Nº 52.727, DE 22 DE OUTUBRO DE 1963.
 
 Autoriza a Companhia Hidro Elétrica do São Francisco a construir linha de transmissão de Caruaru a Bezerros, Estado de Pernambuco, e declara de utilidade pública a faixa de terra destinada à passagem desta linha.

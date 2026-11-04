@@ -1,5 +1,3 @@
-###DEC-088556-0-000-01-08-1983@@@
-
 Decreto nº 88.556, de 1º de agosto de 1983
 
 Altera a legislação do Imposto sobre Produtos Industrializados.

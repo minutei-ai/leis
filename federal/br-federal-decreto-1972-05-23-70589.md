@@ -1,5 +1,3 @@
-###DEC-070589-0-000-23-05-1972@@@
-
 DECRETO Nº 70.589, DE 23 DE MAIO DE 1972.
 
 Retifica o artigo 1º do Decreto número 8.110. de 23 de outubro de 1941.

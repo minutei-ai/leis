@@ -1,5 +1,3 @@
-###DEC-096265-0-000-01-07-1988@@@
-
 DECRETO N° 96.265, DE 1° DE JULHO DE 1988
 
 Autoriza a Universidade Federal do Ceará a alienar bens imóveis de sua propriedade e dá outras providências.

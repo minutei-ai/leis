@@ -1,5 +1,3 @@
-###DEC-082188-0-000-29-08-1978@@@
-
 Decreto nº 82.188, de 29 de agosto de 1978.
 
 Concede reconhecimento ao curso de Tecnólogo em Bovinocultura, ministrado pela Universidade Federal de Alagoas, com sede na cidade de Maceió, Estado de Alagoas.

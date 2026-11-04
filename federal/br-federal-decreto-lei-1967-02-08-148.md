@@ -1,5 +1,3 @@
-###DEL-000148-0-000-08-02-1967@@@
-
 DECRETO-LEI Nº 148, DE 8 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a organização da vida rural, investiduras das Associações Rurais nas funções e prerrogativas do órgão sindical.

@@ -1,5 +1,3 @@
-###DEC-052887-0-000-20-11-1963@@@
-
 DECRETO Nº 52.887, DE 20 DE NOVEMBRO DE 1963.
 
 Exclui das disposições do Decreto nº 50.899, de 1 julho de 1960, as importações de produtos que menciona.

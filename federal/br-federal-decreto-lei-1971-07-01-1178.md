@@ -1,5 +1,3 @@
-###DEL-001178-0-000-01-07-1971@@@
-
 # DECRETO-LEI Nº 1.178, 1º DE JULHO DE 1971
 
 Dispõe sôbre a entrega das parcelas pertencentes aos Municípios, do produto da arrecadação do impôsto sôbre circulação de mercadorias.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212352)<br>
-
 # LEI N° 18.423, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 677/2023, dos Deputados Leonardo Siqueira - NOVO, Altair Moraes - REPUBLICANOS e Tomé Abduch - REPUBLICANOS)

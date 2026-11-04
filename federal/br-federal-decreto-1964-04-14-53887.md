@@ -1,5 +1,3 @@
-###DEC-053887-0-000-14-04-1964@@@
-
 DECRETO Nº 53.887, DE 14 DE ABRIL DE 1964.
 
 Dispõe sôbre edição de livros didáticos e revoga o Decreto nº 53.583, de 21 de fevereiro de 1964.

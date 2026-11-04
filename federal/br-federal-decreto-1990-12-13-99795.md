@@ -1,7 +1,3 @@
-1
-
-###DEC-099795-0-000-13-12-1990@@@
-
 # DECRETO N° 99.795, DE 13 DE DEZEMBRO DE 1990
 
 Dispõe sobre autorizações para que o Ministro das Relações Exteriores e os servidores não diplomáticos do Ministério das Relações Exteriores se ausentem do país.

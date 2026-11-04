@@ -1,5 +1,3 @@
-###DEC-006819-0-000-13-04-2009@@@
-
 DECRETO Nº 6.819, DE 13 DE ABRIL DE 2009.
 
 Regulamenta as Seções II, III e IV do Capítulo I da Medida Provisória no 459, de 25 de março de 2009, que dispõe sobre o Programa Minha Casa, Minha Vida - PMCMV, a regularização fundiária de assentamentos localizados em áreas urbanas, e dá outras providências.

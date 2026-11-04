@@ -1,5 +1,3 @@
-###DEC-089652-0-000-11-05-1984@@@
-
 Decreto nº 89.652, de 11 de maio de 1984
 
 Regulamenta a aplicação do Instituto da Progressão Funcional às carreiras que integram o Magistério da Aeronáutica.

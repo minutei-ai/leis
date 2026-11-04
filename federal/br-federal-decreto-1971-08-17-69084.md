@@ -1,5 +1,3 @@
-###DEC-069084-0-000-17-08-1971@@@
-
 Decreto nº 69.084, de 17 de agôsto de 1971.
 
 Dispõe sôbre a sucessão do Conselho Nacional de Telecomunicações junto ao International Telecomunications Satellite Consortium pela Emprêsa Brasileira de Telecomunicações - EMBRATEL, e dá outras providências.

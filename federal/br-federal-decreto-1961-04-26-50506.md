@@ -1,5 +1,3 @@
-###DEC-050506-0-000-26-04-1961@@@
-
 DECRETO Nº 50.506, DE 26 DE ABRIL DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado na cidade de Borborema, Estado de São Paulo.

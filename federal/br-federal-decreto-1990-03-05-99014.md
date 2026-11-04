@@ -1,7 +1,3 @@
-1
-
-###DEC-099014-0-000-05-03-1990@@@
-
 DECRETO Nº 99.014, DE 5 DE MARÇO DE 1990.
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período de 1962/80, entre o Brasil e o Peru (Acordo nº12).

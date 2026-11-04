@@ -1,5 +1,3 @@
-###DEC-077613-0-000-17-05-1976@@@
-
 DECRETO Nº 77.613, DE 17 DE MAIO DE 1976
 
 Autoriza o funcionamento do curso de Serviço Social do Instituto de Ciências Humanas, com sede na Cidade de Santo Amaro, Estado de São Paulo.

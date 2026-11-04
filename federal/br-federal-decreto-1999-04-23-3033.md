@@ -1,5 +1,3 @@
-###DEC-003033-0-000-23-04-1999@@@
-
 DECRETO Nº 3.033, DE 23 DE ABRIL DE 1999.
 
 Limita a execução do Orçamento de Investimento das empresas dos Grupos ELETROBRÁS e PETROBRÁS para 1999, aprovado pela Lei nº 9.789, de 23 de fevereiro de 1999, e dá outras providências.

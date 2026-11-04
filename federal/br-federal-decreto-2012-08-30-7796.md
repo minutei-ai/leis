@@ -1,5 +1,3 @@
-###DEC-007796-0-000-30-08-2012-PUB-01@@@
-
 DECRETO Nº 7.796, DE 30 DE AGOSTO DE 2012
 
 Altera a redação de Notas Complementares aos Capítulos da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI que menciona, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.

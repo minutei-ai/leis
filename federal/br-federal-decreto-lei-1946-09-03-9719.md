@@ -1,5 +1,3 @@
-###DEL-009719-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.719 – DE 3 DE SETEMBRO DE 1946
 
 Dispõe sôbre a inspeção e fiscalização do impôsto de consumo

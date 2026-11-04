@@ -1,19 +1,17 @@
-###DEC-029738-0-000-09-07-1951@@@
+**DECRETO Nº 29.738, DE 9 DE JULHO DE 1951.**
 
-<strong>DECRETO Nº 29.738, DE 9 DE JULHO DE 1951.</strong>
+***Aprova o Regulamento do Salão Nacional de Belas Artes de 1951.***
 
-<em><strong>Aprova o Regulamento do Salão Nacional de Belas Artes de 1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Salão Nacional de Belas Artes de 1951, que com êste baixa, assinado pelo Ministro de Estado da Educação e Saúde.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Salão Nacional de Belas Artes de 1951, que com êste baixa, assinado pelo Ministro de Estado da Educação e Saúde.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor a partir da data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor a partir da data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, 9 de julho de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 E. Simões Filho

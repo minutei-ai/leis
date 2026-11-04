@@ -1,5 +1,3 @@
-###DEC-078325-0-000-26-08-1976@@@
-
 Decreto nº 78.325, de 26 de agosto de 1976.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a garantir empréstimos a serem contraídos no exterior pela LIGTH - Serviços de Eletricidade S.A., nas condições que menciona.

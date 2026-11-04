@@ -1,5 +1,3 @@
-###DEC-047550-0-000-30-12-1959@@@
-
 Decreto nº 47.550, de 30 de dezembro de 1959.
 
 Autoriza a cidadã brasileira Maria Celina Lobato a pesquisar areias ilmeniticas no município de Japaratuba, Estado de Sergipe.

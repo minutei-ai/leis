@@ -1,5 +1,3 @@
-###DEC-082878-0-000-18-12-1978@@@
-
 Decreto nº 82.878, de 18 de dezembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Belém, Estado do Pará.

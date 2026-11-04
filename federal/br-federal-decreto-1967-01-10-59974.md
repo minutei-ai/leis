@@ -1,5 +1,3 @@
-###DEC-059974-0-000-10-01-1967@@@
-
 DECRETO Nº 59.974, DE 10 DE JANEIRO DE 1967.
 
 Declara de utilidade pública o “Hospital São Francisco”, com sede em Concórdia, Estado de Santa Catarina.

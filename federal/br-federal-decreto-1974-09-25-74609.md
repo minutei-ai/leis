@@ -1,5 +1,3 @@
-###DEC-074609-0-000-25-09-1974@@@
-
 DECRETO Nº 74.609, DE 25 DE SETEMBRO DE 1974.
 
 Autoriza a cessão sob o regime de arrendamento, do terreno que menciona, situado no Município de Recife, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEL-008136-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.136 – DE 25 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o credito especial de Cr$ 1.000.000,00, para reparos e readaptação do Palácio Tiradentes.

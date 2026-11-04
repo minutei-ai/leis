@@ -1,5 +1,3 @@
-###DEC-058365-0-000-09-05-1966@@@
-
 DECRETO Nº 58.365, DE 9 DE MAIO DE 1966.
 
 Altera o Regulamento Geral dos Transportes aprovado pelo Decreto nº 51.813, de 8 de março de 1963.

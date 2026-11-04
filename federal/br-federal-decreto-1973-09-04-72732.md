@@ -1,5 +1,3 @@
-###DEC-072732-0-000-04-09-1973@@@
-
 DECRETO Nº 72.732, DE 4 DE SETEMBRO DE 1973.
 
 Declara a caducidade da concessão outorgada à Rádio Guaíba S.A., para estabelecer estação de radiotelevisão, na cidade de Porto Alegre, Estado do Rio Grande de Sul.

@@ -1,5 +1,3 @@
-###DEC-005745-0-000-04-04-2006@@@
-
 DECRETO Nº 5.745, DE 4 DE ABRIL DE 2006.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América para a Promoção da Segurança da Aviação, celebrado em Brasília, em 22 de março de 2004.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 5.4.2006
-
- ACORDO ENTRE O GOVERNO DA REPÚBLICA
+       Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA
 
 FEDERATIVA DO BRASIL E O GOVERNO
 

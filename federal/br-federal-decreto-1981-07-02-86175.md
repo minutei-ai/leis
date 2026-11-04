@@ -1,5 +1,3 @@
-###DEC-086175-0-000-02-07-1981@@@
-
 Decreto nº 86.175, de 02 de julho de 1981.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

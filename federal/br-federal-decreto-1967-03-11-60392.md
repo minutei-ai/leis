@@ -1,5 +1,3 @@
-###DEC-060392-0-000-11-03-1967@@@
-
 decreto nº 60.392, de 11 de março de 1967.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à ETNA - Emprêsa Termelétrica Nova Andradina Ltda.

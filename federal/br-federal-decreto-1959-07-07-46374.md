@@ -1,5 +1,3 @@
-###DEC-046374-0-000-07-07-1959@@@
-
 DECRETO Nº 46.374, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias ao desenvolvimento econômico social do Nordeste de Minas Gerais, incluído no Poligono das Sêcas.

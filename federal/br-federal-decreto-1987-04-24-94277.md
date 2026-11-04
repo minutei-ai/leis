@@ -1,5 +1,3 @@
-###DEC-094277-0-000-24-04-1987@@@
-
 DECRETO Nº 94.277, DE 24 DE ABRIL DE 1987.
 
 Autoriza a COBRA-COMPUTADORES E SISTEMAS BRASILEIROS S.A., a proceder ao aumento do limite do seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-051801-0-000-05-03-1963@@@
-
 DECRETO Nº 51.801, DE 5 DE MARÇO DE 1963.
 
 Retifica dispositivos do Regimento Interno e Regulamento de Pessoal do Departamento Nacional de Estradas de ferro, aprovados, provisòriamente, pelo Decreto nº 2.090, de 18 de janeiro de 1963.

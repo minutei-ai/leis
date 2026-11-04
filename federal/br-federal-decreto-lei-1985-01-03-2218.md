@@ -1,5 +1,3 @@
-###DEL-002218-0-000-03-01-1985@@@
-
 # Decreto-lei nº 2.218, de 03 de janeiro de 1985.
 
 Reajusta os vencimentos e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências.

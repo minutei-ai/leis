@@ -1,5 +1,3 @@
-###DEC-093333-0-000-03-10-1986@@@
-
 DECRETO Nº 93.333, DE 3 DE OUTUBRO DE 1986
 
 Declara de utilidade pública as instituições que menciona.

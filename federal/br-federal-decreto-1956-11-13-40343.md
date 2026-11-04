@@ -1,12 +1,10 @@
-###DEC-040343-0-000-13-11-1956@@@
+**DECRETO Nº 40.343, DE 13 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.343, DE 13 DE NOVEMBRO DE 1956.</strong>
+***Declara de utilidade pública e autoriza a desapropriação de imóveis, necessários ao serviço do Exercito Nacional.***
 
-<em><strong>Declara de utilidade pública e autoriza a desapropriação de imóveis, necessários ao serviço do Exercito Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista o parágrafo 16.º do art. 141 da Constituição Federal e, usando das atribuições que lhe confere o item I, do art. 87, da mesma Constituição, decreta:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o parágrafo 16.º do art. 141 da Constituição Federal e, usando das atribuições que lhe confere o item I, do art. 87, da mesma Constituição, decreta:
-
-<strong>Art</strong>. 1.º São declarados de utilidade pública, para fins de desapropriação, de acôrdo com as letras A e B do artigo 5.º, tudo do Decreto-lei n.º 3.365, de 21 de junho de 1941, os terrenos situados em Santa Maria, no Estado do Rio Grande do Sul, assim discriminados:
+**Art**. 1.º São declarados de utilidade pública, para fins de desapropriação, de acôrdo com as letras A e B do artigo 5.º, tudo do Decreto-lei n.º 3.365, de 21 de junho de 1941, os terrenos situados em Santa Maria, no Estado do Rio Grande do Sul, assim discriminados:
 
 A – Um terreno pertencente ao Dr. Carlos Maximiliano Pereira dos Santos com 1164,4296 há conhecido como “Propriedade do Dr. Carlos Maximiliano” avaliada em Cr$ 6.300.000,00 (seis milhões e trezentos mil cruzeiros);
 
@@ -18,16 +16,16 @@ D – um terreno cujos sucessores não puderam ser identificados em Cartórios e
 
 Tudo de acordo com a documentação constante do processo protocolado, no Ministério da Guerra, sob o n.º 645-R-56-ZMS.
 
-<strong>Art</strong>. 2.º Os imóveis em aprêço destinam-se ao Campo de Instrução da Guarnição da Cidade de Santa Maria.
+**Art**. 2.º Os imóveis em aprêço destinam-se ao Campo de Instrução da Guarnição da Cidade de Santa Maria.
 
-<strong>Art</strong>. 3.º A despesa decorrente das aquisições correrá à conta dos recursos orçamentários, para o exercício de 1956.
+**Art**. 3.º A despesa decorrente das aquisições correrá à conta dos recursos orçamentários, para o exercício de 1956.
 
-<strong>Art</strong>. 4.º Fica o Ministério da Guerra autorizado a promover a desapropriação referida no artigo 1.º.
+**Art**. 4.º Fica o Ministério da Guerra autorizado a promover a desapropriação referida no artigo 1.º.
 
-<strong>Art</strong>. 5.º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5.º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 13 de novembro de 1956; 135.º da Independência e 68.º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott.

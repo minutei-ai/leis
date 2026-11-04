@@ -46,6 +46,44 @@ ANEXO ÚNICO
 
 (Lei nº 16.148, de 29 de outubro de 2013)
 
-<table><tbody><tr><td><p>ESCOLA ESTADUAL</p></td><td><p>DESCRIÇÃO DO IMÓVEL</p></td><td><p>CONVÊNIO</p></td><td><p>MUNICÍPIO DONATÁRIO</p></td></tr><tr><td><p>...............................</p></td><td><p>.................................................................</p></td><td><p>..............................</p></td><td><p>.........................</p></td></tr><tr><td><p>EEB Abel Capella</p></td><td><p>Área de 4.410,00 m² (quatro mil, quatrocentos e dez metros quadrados), com benfeitorias de aproximadamente 974,00 m² (novecentos e setenta e quatro metros quadrados), matriculado sob o nº 4.574 no Registro de Imóveis da Comarca de Biguaçu e cadastrado sob o nº 4098 no Sistema de Gestão Patrimonial da Secretaria de Estado da Administração.</p></td><td><p>Termo de Convênio nº 16769/2011-0</p></td><td><p>Governador Celso Ramos</p></td></tr><tr><td><p>EEF Seremita F. C. da Silva</p></td><td><p>Área de 6.275,00 m² (seis mil, duzentos e setenta e cinco metros quadrados), com benfeitorias de 428,00 m² (quatrocentos e vinte e oito metros quadrados), conforme certidão nº 15.823 e matrículas nº 1.172 e nº 4.276 no Registro de Imóveis da Comarca de Xanxerê, cadastrado sob o nº 4255 no Sistema de Gestão Patrimonial da Secretaria de Estado da Administração.</p></td><td><p>Termo de Convênio nº 16930/2011-7</p></td><td><p>Ipuaçu</p></td></tr><tr><td><p>..............................</p></td><td><p>.................................................................</p></td><td><p>..............................</p></td><td><p>.........................</p></td></tr></tbody></table>
+ESCOLA ESTADUAL
+
+DESCRIÇÃO DO IMÓVEL
+
+CONVÊNIO
+
+MUNICÍPIO DONATÁRIO
+
+...............................
+
+.................................................................
+
+..............................
+
+.........................
+
+EEB Abel Capella
+
+Área de 4.410,00 m² (quatro mil, quatrocentos e dez metros quadrados), com benfeitorias de aproximadamente 974,00 m² (novecentos e setenta e quatro metros quadrados), matriculado sob o nº 4.574 no Registro de Imóveis da Comarca de Biguaçu e cadastrado sob o nº 4098 no Sistema de Gestão Patrimonial da Secretaria de Estado da Administração.
+
+Termo de Convênio nº 16769/2011-0
+
+Governador Celso Ramos
+
+EEF Seremita F. C. da Silva
+
+Área de 6.275,00 m² (seis mil, duzentos e setenta e cinco metros quadrados), com benfeitorias de 428,00 m² (quatrocentos e vinte e oito metros quadrados), conforme certidão nº 15.823 e matrículas nº 1.172 e nº 4.276 no Registro de Imóveis da Comarca de Xanxerê, cadastrado sob o nº 4255 no Sistema de Gestão Patrimonial da Secretaria de Estado da Administração.
+
+Termo de Convênio nº 16930/2011-7
+
+Ipuaçu
+
+..............................
+
+.................................................................
+
+..............................
+
+.........................
 
 ” (NR)

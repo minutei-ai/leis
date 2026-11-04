@@ -1,5 +1,3 @@
-###DEL-001169-0-000-29-04-1971@@@
-
 # Decreto-lei Nº 1.169, DE 29 DE ABRIL DE 1971
 
 Estabelece normas interpretativas do Decreto-lei nº 1.154, de 1 de março de 1971, que institui a Nomenclatura Brasileira de Mercadorias, assegura o prazo de vigência do Decreto-lei nº 398, de 30 de dezembro de 1968, resguarda a validade das decisões do Conselho de Política Aduaneira, mantém seus poderes e dá outras providências.
@@ -18,7 +16,33 @@ Art. 1º É mantida a vigência até 31 de dezembro de 1971 do acréscimo de 100
 
 Art. 2º São mantidos até 31 de dezembro de 1971 os valôres mínimos para fins de cálculo do impôsto de importação, estabelecidos no artigo 3º do Decreto-lei nº 398, de 30 de dezembro de 1968, assim discriminados na Tarifa Aduaneira do Brasil:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Código</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Mercadorias</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>87.02.02.00</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Automóveis, inclusive de esportes, pesando até 800 Kg Pauta de valor mínimo por unidade: US$4.000,00 CIF</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>87.02.03.00</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Automóveis, inclusive de esporte, pesando acima de 800 Kg até 1.100 K Pauta de valor mínimo por unidade: US$4.800,00 CIF</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>87.02.04.00</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Automóveis, inclusive de esporte, pesando mais de 1.100 Kg Pauta de valor mínimo por unidade: US$6.300,00 CIF</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>87.02.05.00</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Camionetas de uso misto, pesando acima de 800 Kg Pauta de valor mínimo por unidade: US$4.000,00 CIF</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>87.02.06.00</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Camionetas de uso misto, pesando acima de 800 Kg até 1.100 Kg Pauta de valor mínimo por unidade: US$4.800,00 CIF</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>87.02.07.00</span></p></td><td style="width:353.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Camionetas de uso misto, pesando mais de 1.100 Kg Pauta de valor mínimo por unidade: US$6.300,00 CIF</span></p></td></tr></tbody></table>
+Código
+
+Mercadorias
+
+87.02.02.00
+
+- Automóveis, inclusive de esportes, pesando até 800 Kg Pauta de valor mínimo por unidade: US$4.000,00 CIF
+
+87.02.03.00
+
+- Automóveis, inclusive de esporte, pesando acima de 800 Kg até 1.100 K Pauta de valor mínimo por unidade: US$4.800,00 CIF
+
+87.02.04.00
+
+- Automóveis, inclusive de esporte, pesando mais de 1.100 Kg Pauta de valor mínimo por unidade: US$6.300,00 CIF
+
+87.02.05.00
+
+- Camionetas de uso misto, pesando acima de 800 Kg Pauta de valor mínimo por unidade: US$4.000,00 CIF
+
+87.02.06.00
+
+- Camionetas de uso misto, pesando acima de 800 Kg até 1.100 Kg Pauta de valor mínimo por unidade: US$4.800,00 CIF
+
+87.02.07.00
+
+- Camionetas de uso misto, pesando mais de 1.100 Kg Pauta de valor mínimo por unidade: US$6.300,00 CIF
 
 Parágrafo único. Igualmente e pelo mesmo prazo é mantido o valor mínimo CIF de US$2,200.00 por unidade, fixado na Tarifa Aduaneira que acompanhou o Decreto-lei nº 63, de 21 de novembro de 1966, para os “veículos tipo jipe, com tração nas quatro rodas, com ou sem polia para transmissão de fôrça”, compreendidos na subposição nº 87.02.01.00 da Tarifa Aduaneira do Brasil, adotada com o Decreto-lei nº 1.154, de 1 de março de 1971.
 

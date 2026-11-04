@@ -1,5 +1,3 @@
-###DEC-058114-0-000-30-03-1966@@@
-
 Decreto nº 58.114, de 30 de março de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Vera Cruz - Companhia Brasileira de Seguros, relativa ao aumento de capital social.

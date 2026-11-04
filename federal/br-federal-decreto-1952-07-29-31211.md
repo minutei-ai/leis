@@ -1,14 +1,12 @@
-###DEC-031211-0-000-29-07-1952@@@
+**DECRETO Nº 31.211, DE 29 DE JULHO DE 1952.**
 
-<strong>DECRETO Nº 31.211, DE 29 DE JULHO DE 1952.</strong>
+***Designa as funções privativas de Oficiais Generais do Exército em tempo de paz.***
 
-<em><strong>Designa as funções privativas de Oficiais Generais do Exército em tempo de paz.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando a atribuição que lhe confere o art. 87, inciso I, da Constituição e de acôrdo com o art. 3º da Lei nº 1.632, de 30 de junho de 1952,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando a atribuição que lhe confere o art. 87, inciso I, da Constituição e de acôrdo com o art. 3º da Lei nº 1.632, de 30 de junho de 1952,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São funções privativas de Oficiais-Generais, efetivos ou graduados:
+**Art**. 1º São funções privativas de Oficiais-Generais, efetivos ou graduados:
 
 I - GENERAIS DAS ARMAS
 
@@ -112,12 +110,12 @@ Subchefe do Departamento Técnico e de Produção;
 
 § 3º Tôdas as demais funções enumeradas no presente Decreto, e não especificadas nos §§ 1º, e 2º, poderão ser exercidas por Oficiais Generais Graduados.
 
-<strong>Art</strong>. 2º As alterações relativas às funções correspondentes ao pôsto de General de Brigada do Quadro de Oficiais Generais serão reguladas oportunamente.
+**Art**. 2º As alterações relativas às funções correspondentes ao pôsto de General de Brigada do Quadro de Oficiais Generais serão reguladas oportunamente.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de julho de 1952.; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

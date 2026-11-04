@@ -1,5 +1,3 @@
-###DEC-053185-0-000-11-12-1963@@@
-
 Decreto nº 53.185, de 11 de dezembro de 1963.
 
 Autoriza a Carbonífera Criciúma Limitada a lavrar carvão mineral no município de Criciúma, Estado de Santa Catarina.

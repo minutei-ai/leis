@@ -1,5 +1,3 @@
-###DEC-052818-0-000-12-11-1963@@@
-
 DECRETO Nº 52.818, DE 12 DE NOVEMBRO DE 1963.
 
 Aprova os atos constitutivos e os Estatutos da Companhia Brasileira de Alimentos (COBAL).

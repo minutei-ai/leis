@@ -1,5 +1,3 @@
-###DEC-087455-0-000-12-08-1982@@@
-
 Decreto nº 87.455, de 12 de agosto de 1982
 
 Cria Reserva Ecológica de Sauim-Castanheiras, e dá outras providências.

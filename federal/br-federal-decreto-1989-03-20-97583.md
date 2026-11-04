@@ -1,5 +1,3 @@
-###DEC-097583-0-000-20-03-1989@@@
-
 DECRETO N° 97.583, DE 20 DE MARÇO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados do Centro de Ensino Superior Professor Plínio Mendes dos Santos.

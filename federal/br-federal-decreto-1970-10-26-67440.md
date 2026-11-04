@@ -1,5 +1,3 @@
-###DEC-067440-0-000-26-10-1970@@@
-
 DECRETO Nº 67.440, DE 26 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública a Fundação "Educandário Cel. Quito Junqueira", com sede em Ribeirão Prêto, Estado de São Paulo.

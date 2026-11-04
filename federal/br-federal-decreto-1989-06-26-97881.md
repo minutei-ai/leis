@@ -1,7 +1,3 @@
-1
-
-###DEC-097881-0-000-26-06-1989@@@
-
 DECRETO N° 97.881, DE 26 DE JUNHO DE 1989
 
 Prorroga a vigência do Decreto n° 93.594, de 19 de novembro de 1986, e dá outras providências.

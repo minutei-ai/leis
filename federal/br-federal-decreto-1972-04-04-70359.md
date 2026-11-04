@@ -1,5 +1,3 @@
-###DEC-070359-0-000-04-04-1972@@@
-
 DECRETO Nº 70.359, DE 4 DE ABRIL DE 1972.
 
 Autoriza o funcionamento do curso de Ciências, na Faculdade de Filosofia, Ciências e Letras, de Montes Claros, em Minas Gerais.

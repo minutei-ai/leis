@@ -1,5 +1,3 @@
-###DEC-086305-0-000-19-08-1981@@@
-
 DECRETO Nº 86.305, DE 19 DE AGOSTO DE 1981
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

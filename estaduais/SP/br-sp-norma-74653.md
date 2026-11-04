@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74653)
-
 # LEI Nº 12.777, DE 28 DE NOVEMBRO DE 2007
 
 ### _Autoriza a Fazenda do Estado a doar o imóvel que especifica._

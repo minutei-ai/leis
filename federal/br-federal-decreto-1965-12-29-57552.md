@@ -1,5 +1,3 @@
-###DEC-057552-0-000-29-12-1965@@@
-
 Decreto nº 57.552, de 29 de dezembro de 1965.
 
 Prorroga o prazo estabelecido pelo Decreto nº 55.979, de 22 de abril de 1965.

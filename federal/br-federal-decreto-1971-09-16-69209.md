@@ -1,5 +1,3 @@
-###DEC-069209-0-000-16-09-1971@@@
-
 DECRETO Nº 69.209, DE 16 DE SETEMBRO DE 1971.
 
 Constitui, no Ministério das Relações Exteriores, a Comissão Nacional da Conferência Interamericana Especializada sôbre a Aplicação da Ciência e da Tecnologia ao Desenvolvimento da América Latina (CONCACTAL).

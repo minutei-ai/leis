@@ -1,5 +1,3 @@
-###DEC-049263-0-000-17-11-1960@@@
-
 DECRETO Nº 49.263, DE 17 DE NOVEMBRO DE 1960.
 
 Concede a Companhia de Águas Termais do Gravatal autorização para funcionar como emprêsa de mineração.

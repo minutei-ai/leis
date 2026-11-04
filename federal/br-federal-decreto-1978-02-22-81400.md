@@ -1,5 +1,3 @@
-###DEC-081400-0-000-22-02-1978@@@
-
 Decreto nº 81.400, de 22 de fevereiro de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

@@ -1,5 +1,3 @@
-###DEC-002410-0-000-28-11-1997@@@
-
 DECRETO Nº 2.410, DE 28 DE NOVEMBRO DE 1997
 
 Dispõe sobre o cálculo e o recolhimento da Taxa de Fiscalização de Serviços de Energia Elétrica instituída pela Lei nº 9.427, de 26 dezembro de 1996, e dá outras providências.

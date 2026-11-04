@@ -1,7 +1,3 @@
-1
-
-###MPV-000900-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 900, DE 16 DE FEVEREIRO DE 1995
 
 Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela Embraer  Empresa Brasileira de Aeronáutica S.A., bem como sobre a utilização de créditos da União junto à Embraer - Empresa Brasileira de Aeronáutica S.A.

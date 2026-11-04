@@ -1,5 +1,3 @@
-###DEC-082821-0-000-11-12-1978@@@
-
 Decreto nº 82.821, de 11 de dezembro de 1978.
 
 Autoriza a Universidade Federal do Paraná-UFPr a permutar com o Instituto de Administração Financeira da Previdência e Assistência Social - IAPAS, imóveis situado na cidade de Curitiba, capital do Estado do Paraná.

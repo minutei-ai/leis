@@ -1,7 +1,3 @@
-1
-
-###DEC-099032-0-000-05-03-1990@@@
-
 DECRETO N° 99.032, DE 5 DE MARÇO DE 1990.
 
 Autoriza o funcionamento do Curso de Pedagogia da Faculdade Varzeagrandense de Ciências Humanas.

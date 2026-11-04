@@ -1,7 +1,3 @@
-1
-
-###DEC-000669-0-000-21-10-1992@@@
-
 DECRETO Nº 669, DE 21 DE OUTUBRO DE 1992
 
 Promulga o Acordo Comercial entre o Governo da República Federativa do Brasil e o Governo da República da Tunísia, celebrando em Brasília, em 27/11/90.

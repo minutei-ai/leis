@@ -1,5 +1,3 @@
-###DEL-005456-0-000-03-05-1943@@@
-
 DECRETO‑LEI N. 5.456 – DE 3 DE MAIO DE 1943
 
 Concede a Olímpia dos Santos uma pensão em virtude do acidente fatal sofrido por seu filho, soldado do Exército, José dos Santos

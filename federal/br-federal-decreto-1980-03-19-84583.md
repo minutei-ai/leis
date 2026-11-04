@@ -1,5 +1,3 @@
-###DEC-084583-0-000-19-03-1980@@@
-
 DECRETO Nº 84.583, DE 19 DE MARÇO DE 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da subestação de Votuporanga II, da CESP - Companhia Energética de São Paulo.

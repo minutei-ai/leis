@@ -1,5 +1,3 @@
-###DEC-062384-0-000-11-03-1968@@@
-
 Decreto nº 62.384, de 11 de março de 1968.
 
 Dispõe sôbre a fiscalização do trânsito nas rodovias federais, a cargo do Departamento Nacional de Estradas de Rodagem, e dá outras providências.

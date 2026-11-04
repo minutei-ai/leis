@@ -1,5 +1,3 @@
-###DEC-094903-0-000-18-09-1987@@@
-
 DECRETO n° 94.903, DE 18 DE SETEMBRO DE 1987
 
 Declara de utilidade pública a instituição que menciona.

@@ -1,5 +1,3 @@
-###DEC-087450-0-000-04-08-1982@@@
-
 Decreto nº 87.450, de 04 de agosto de 1962
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que especifica, situados nos Municípios de Medianeira e São Miguel do Iguaçu, no Estado do Paraná, compreendidos na área prioritária para reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

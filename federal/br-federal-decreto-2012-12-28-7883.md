@@ -1,5 +1,3 @@
-###DEC-007883-0-000-28-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.883, DE 28 DE DEZEMBRO DE 2012
 
 Altera os Anexos I e II ao Decreto nº 7.628, de 30 de novembro de 2011, relativos ao Programa de Dispêndios Globais - PDG das empresas estatais federais para 2012, e dá outras providências.

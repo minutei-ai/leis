@@ -1,5 +1,3 @@
-###DEC-096794-0-000-27-09-1988@@@
-
 DECRETO N° 96.794, DE 27 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA ITAPIREMA DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ji-Paraná, Estado de Rondônia.

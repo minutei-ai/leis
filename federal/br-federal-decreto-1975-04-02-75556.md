@@ -1,5 +1,3 @@
-###DEC-075556-0-000-02-04-1975@@@
-
 DECRETO Nº 75.556, DE 2 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Civil da Faculdade de Engenharia Civil de Araraquara, mantida pela Associação Escola de Agrimensura de Araraquara, com sede na cidade de Araraquara, Estado de São Paulo.

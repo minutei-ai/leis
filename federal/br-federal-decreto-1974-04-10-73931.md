@@ -1,5 +1,3 @@
-###DEC-073931-0-000-10-04-1974@@@
-
 DECRETO Nº 73.931, DE 10 DE ABRIL DE 1974
 
 Dispõe sobre a Embaixada do Brasil na República Árabe da Líbia.

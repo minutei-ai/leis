@@ -1,5 +1,3 @@
-###DEC-003411-0-000-12-04-2000@@@
-
 DECRETO Nº 3.411, DE 12 DE ABRIL DE 2000.
 
 Regulamenta a Lei nº 9.611, de 19 de fevereiro de 1998, que dispõe sobre o Transporte Multimodal de Cargas, altera os Decretos nºs 91.030, de 5 de março de 1985, e 1.910, de 21 de maio de 1996, e dá outras providências.

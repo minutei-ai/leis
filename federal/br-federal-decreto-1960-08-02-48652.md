@@ -1,5 +1,3 @@
-###DEC-048652-0-000-02-08-1960@@@
-
 DECRETO Nº 43.652, DE 2 DE AGôSTO DE 1960.
 
 Autoriza a cessão gratuita do terreno que menciona, situado, em Belo Horizonte, Estado de Minas Gerais.

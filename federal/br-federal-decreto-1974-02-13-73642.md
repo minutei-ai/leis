@@ -1,5 +1,3 @@
-###DEC-073642-0-000-13-02-1974@@@
-
 DECRETO Nº 73.642, DE 13 DE FEVEREIRO DE 1974.
 
 Concede à Serrana S.A. de Mineração o direito de lavrar areia no Município de Cananéia, Estado de São Paulo.

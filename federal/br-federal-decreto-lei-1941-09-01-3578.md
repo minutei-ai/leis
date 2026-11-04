@@ -1,5 +1,3 @@
-###DEL-003578-0-000-01-09-1941@@@
-
 DECRETO-LEI N. 3.578 – DE 1 DE SETEMBRO DE 1941
 
 Retifica, sem aumento de despesa, o orçamento geral, da União para o exercício de 1941

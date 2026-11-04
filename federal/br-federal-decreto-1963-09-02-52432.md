@@ -1,5 +1,3 @@
-###DEC-052432-0-000-02-09-1963@@@
-
 DECRETO Nº 52.432, DE 2 DE SETEMBRO DE 1963.
 
 Organize, no Ministério da Aeronáutica, Esquadrilhas Aeroterrestres de Salvamento.

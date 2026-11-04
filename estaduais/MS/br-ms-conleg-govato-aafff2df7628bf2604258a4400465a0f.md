@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual a “Associação de Pais e Amigos da Nat
 
 Publicada no Diário Oficial nº 11.291, de 10 de outubro de 2023, página 8.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a “Associação de Pais e Amigos da Natação de Costa Rica”, com sede no Município de Costa Rica, em Mato Grosso do Sul.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a “Associação de Pais e Amigos da Natação de Costa Rica”, com sede no Município de Costa Rica, em Mato Grosso do Sul.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 9 de outubro de 2023.
 
-<br>
-EDUARDO CORREA RIEDEL<br>
+EDUARDO CORREA RIEDEL
+
 Governador do Estado

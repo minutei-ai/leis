@@ -1,5 +1,3 @@
-###DEC-052538-0-000-30-09-1963@@@
-
 Decreto nº 52.538, de 30 de setembro de 1963.
 
 Altera a denominação de curso.

@@ -1,5 +1,3 @@
-###DEC-006990-0-000-27-10-2009@@@
-
 DECRETO Nº 6.990, DE 27 DE OUTUBRO DE 2009.
 
 Regulamenta o art. 71 da Lei no 11.941, de 27 de maio de 2009, que trata da adjudicação de ações pela União, para pagamento de débitos inscritos na dívida Ativa que acarrete a participação no capital social de sociedade empresarial devedora.

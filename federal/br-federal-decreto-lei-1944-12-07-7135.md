@@ -1,5 +1,3 @@
-###DEL-007135-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.135 – DE 7 DE DEZEMBRO DE 1944
 
 Concede à Sociedade Escolas e Ambulatório São José, do Estado do Rio Grande do Norte, uso e gôzo, a título precário, do terreno de marinha que menciona

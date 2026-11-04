@@ -1,5 +1,3 @@
-###DEL-004204-0-000-26-03-1942@@@
-
 DECRETO-LEI N. 4.204 – DE 26 DE MARÇO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de réis 207:000$0, para pagamento de ajuda de custo.

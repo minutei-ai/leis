@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208501)<br>
-
 # DECRETO N° 67.921, DE 12 DE SETEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária das Linhas 8 e 9 do Sistema de Trens Metropolitanos de São Paulo S/A - Viamobilidade Linhas 8 e 9, a área necessária a obras para implantação da Passarela Jardim Portela, no Município de Itapevi, e dá providências correlatas._

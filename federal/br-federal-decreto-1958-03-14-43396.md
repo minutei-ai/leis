@@ -1,14 +1,12 @@
-###DEC-043396-0-000-14-03-1958@@@
+**DECRETO Nº 43.396, DE 14 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.396, DE 14 DE MARÇO DE 1958.</strong>
+***Dispõe sôbre funções gratificadas do Ministério da Fazenda, a dá outras providências.***
 
-<em><strong>Dispõe sôbre funções gratificadas do Ministério da Fazenda, a dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas, no Ministério da Fazenda, as funções gratificadas abaixo discriminadas com os respectivos símbolos, que integrarão a lotação da Contadoria-Geral da República:
+**Art**. 1º Ficam incluídas, no Ministério da Fazenda, as funções gratificadas abaixo discriminadas com os respectivos símbolos, que integrarão a lotação da Contadoria-Geral da República:
 
 Símbolo FG-5
 
@@ -40,14 +38,14 @@ Símbolo FG-7
 
 30 - Chefe de Turma de Serviços Auxiliares (T.A.) - (Contadorias Seccionais junto aos Ministérios de Aeronáutica, da Agricultura, da Educação e Cultura, da Fazenda, da Guerra, da Justiça e Negócios Interiores, da Marinha, do Trabalho, Indústria e Comércio, da Viação e Obras Públicas, ao Departamento dos Correios e Telégrafos e às Delegacias Fiscais nos Estados do Amazonas, Pará, Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia, Espírito Santo, Rio de Janeiro, Minas Gerais, Mato Grosso, Goiás, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul).
 
-<strong>Art</strong>. 2º A despesa resultante dêste decreto correrá por conta dos recursos orçamentários próprios.
+**Art**. 2º A despesa resultante dêste decreto correrá por conta dos recursos orçamentários próprios.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 14 de março de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

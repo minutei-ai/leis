@@ -1,5 +1,3 @@
-###DEC-070235-0-000-06-03-1972@@@
-
 DECRETO Nº 70.235, DE 6 DE MARÇO DE 1972.
 
 Dispõe sobre o processo administrativo fiscal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008339-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.339 – DE 10 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, Orçamento Geral da República

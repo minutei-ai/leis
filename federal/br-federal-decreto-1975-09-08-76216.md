@@ -1,5 +1,3 @@
-###DEC-076216-0-000-08-09-1975@@@
-
 DECRETO Nº 76.216 - DE 8 DE SETEMBRO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Uberlândia, Estado de Minas Gerais.

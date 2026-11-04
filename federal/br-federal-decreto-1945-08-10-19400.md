@@ -1,20 +1,18 @@
-###DEC-019400-0-000-10-08-1945@@@
+**DECRETO Nº 19.400, DE 10 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.400, DE 10 DE AGÔSTO DE 1945.</strong>
+***Outorga concessão a Leão Júnior & Com., Sociedade Anônima, para o aproveitamento de energia hidráulica de um desnível existente no rio Putinga ou Concórdia, no distrito de Guarapuavinha, município de Guarapuava, Estado de Paraná.***
 
-<em><strong>Outorga concessão a Leão Júnior & Com., Sociedade Anônima, para o aproveitamento de energia hidráulica de um desnível existente no rio Putinga ou Concórdia, no distrito de Guarapuavinha, município de Guarapuava, Estado de Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Respeitadas os direitos de terceiros anteriormente adquiridos, é outorgada concessão a Leão Júnior & Com., Sociedade Anônima, com sede em Curitiba, Estado do Paraná,  para o aproveitamento de um desnível existente no rio Putinga ou Concórdia, no distrito de Guarapuavinha, município de Guarapuava, Estado de Paraná.
 
-<strong>Art</strong>. 1º Respeitadas os direitos de terceiros anteriormente adquiridos, é outorgada concessão a Leão Júnior & Com., Sociedade Anônima, com sede em Curitiba, Estado do Paraná,  para o aproveitamento de um desnível existente no rio Putinga ou Concórdia, no distrito de Guarapuavinha, município de Guarapuava, Estado de Paraná.
-
-<strong>Art</strong>. 2º O aproveitamento destina-se ao uso exclusivo de Leão Júnior & Com., Sociedade Anônima.
+**Art**. 2º O aproveitamento destina-se ao uso exclusivo de Leão Júnior & Com., Sociedade Anônima.
 
 Parágrafo único. A altura de queda e a descarga concedidas, serão determinadas portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos.
 
-<strong>Art</strong>. 3º Sob pena de caducidade da presente concessão, a interessada obriga-se a:
+**Art**. 3º Sob pena de caducidade da presente concessão, a interessada obriga-se a:
 
 I - Registrar este título na Divisão de Águas do Departamento Nacional de Produção Mineral - Ministério da Agricultura.
 
@@ -40,22 +38,22 @@ V - Apresentar o mesmo contrato à Divisão Águas, para os fins de registro, de
 
 Parágrafo único. Os prazos, a que se refere artigo, poderão ser prorrogados por ato do Ministro da Agricultura, por motivo de fôrça maior, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção da energia hidráulica, reverterá para o Estado do Paraná, mediante indenização na base do custo histórico, isto é, do capital efetivamente invertido, menos a depreciação.
+**Art**. 6º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento, existir em função exclusiva e permanente da produção da energia hidráulica, reverterá para o Estado do Paraná, mediante indenização na base do custo histórico, isto é, do capital efetivamente invertido, menos a depreciação.
 
-<strong>Art</strong>. 7º Se o Governo do Estado do Paraná não fizer uso do direto que lhe concede o artigo precedente, caberá à concessionária a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma quer no respectivo contrato, deverá estar prevista, ou de restabelecer, às suas expensas, no curso de água, a situação anterior ao aproveitamento concedido.
+**Art**. 7º Se o Governo do Estado do Paraná não fizer uso do direto que lhe concede o artigo precedente, caberá à concessionária a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma quer no respectivo contrato, deverá estar prevista, ou de restabelecer, às suas expensas, no curso de água, a situação anterior ao aproveitamento concedido.
 
 Parágrafo único. Para os efeitos dêste artigo fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado do Paraná e a entrar com o requerimento de prorrogação da concessão, ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8º A concessionária gozará, dêsde a data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 8º A concessionária gozará, dêsde a data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 10 de agosto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Apolonio Sales

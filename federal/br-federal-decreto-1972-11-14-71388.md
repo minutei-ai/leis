@@ -1,5 +1,3 @@
-###DEC-071388-0-000-14-11-1972@@@
-
 DECRETO Nº 71.388, DE 14 DE NOVEMBRO DE 1972.
 
 Prorroga, até 31 de dezembro de 1973, o prazo para aproveitamento dos navios estrangeiros na cabotagem nacional.

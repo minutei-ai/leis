@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.506, de 20 de Dezembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 4.183, DE 11 DE OUTUBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Conselho Estadual de Trânsito do Estado do Acre - CETRAN/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Conselho Estadual de Trânsito do Estado do Acre - CETRAN/AC.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

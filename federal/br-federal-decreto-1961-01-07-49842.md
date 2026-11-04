@@ -1,5 +1,3 @@
-###DEC-049842-0-000-07-01-1961@@@
-
 Decreto nº 49.842, de 7 de janeiro de 1961.
 
 Autoriza a firma I.B. Sabbá & Cia. Ltda., a comprar pedras preciosas.

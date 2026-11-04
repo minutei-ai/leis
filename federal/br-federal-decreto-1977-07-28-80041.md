@@ -1,5 +1,3 @@
-###DEC-080041-0-000-28-07-1977@@@
-
 DECRET0 Nº 80.041, DE 28 DE JULHO DE 1977
 
 Concede à CIMENVALE - Mineração e Cimento Vale do Itajaí S.A. o direito de lavrar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

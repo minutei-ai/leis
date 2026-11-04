@@ -1,7 +1,3 @@
-1
-
-###DEC-095818-0-000-11-03-1988@@@
-
 DECRETO N.° 95.818, DE 11 DE MARÇO DE 1988
 
 Cria a Floresta Nacional de Ibirama, no Estado de Santa Catarina, e dá outras providências.

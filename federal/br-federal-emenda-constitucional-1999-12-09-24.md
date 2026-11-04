@@ -1,12 +1,10 @@
-###EMC-000024-0-000-09-12-1999@@@
+**EMENDA CONSTITUCIONAL Nº 24.**
 
-<strong>EMENDA CONSTITUCIONAL Nº 24.</strong>
-
-<em><strong>Altera dispositivos da Constituição Federal pertinentes à representação classista na Justiça do Trabalho.</strong></em>
+***Altera dispositivos da Constituição Federal pertinentes à representação classista na Justiça do Trabalho.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art</strong>. 1º Os arts. 111. 112, 113, 115 e 116 da Constituição Federal passam a vigorar com a seguinte redação:
+**Art**. 1º Os arts. 111. 112, 113, 115 e 116 da Constituição Federal passam a vigorar com a seguinte redação:
 
 “Art. 111. .................................................................................................................................
 
@@ -40,19 +38,19 @@ III - (Revogado)”.
 
 Parágrafo único. (Revogado)”
 
-<strong>Art</strong>. 2º É assegurado o cumprimento dos mandatos dos atuais ministros classistas temporários do Tribunal Superior do Trabalho e dos atuais juízes classistas do Tribunal Regional do Trabalho e das Juntas de Conciliação e Julgamento.
+**Art**. 2º É assegurado o cumprimento dos mandatos dos atuais ministros classistas temporários do Tribunal Superior do Trabalho e dos atuais juízes classistas do Tribunal Regional do Trabalho e das Juntas de Conciliação e Julgamento.
 
-<strong>Art</strong>. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art**. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revoga-se art. 117 da Constituição Federal.
+**Art**. 4º Revoga-se art. 117 da Constituição Federal.
 
 Brasília, em 9 de dezembro de 1999.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
+**MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO MICHEL TEMER</strong>
+**DEPUTADO MICHEL TEMER**
 
-<strong>PRESIDENTE</strong>
+**PRESIDENTE**
 
 Deputado HERÁCLITO FORTES
 

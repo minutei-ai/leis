@@ -1,5 +1,3 @@
-###DEC-053213-0-000-12-12-1963@@@
-
 DECRETO Nº 53.213, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza a S.A. Fôrça e Luz Santos Dumont a vender imóvel em Juiz de Fora, Estado de Minas Gerais.

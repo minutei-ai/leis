@@ -1,5 +1,3 @@
-###DEC-006791-0-000-10-03-2009@@@
-
 DECRETO Nº 6.791, DE 10 DE MARÇO DE 2009.
 
 Aprova o Estatuto Social do Serviço Federal de Processamento de Dados - SERPRO.

@@ -1,5 +1,3 @@
-###DEC-005531-0-000-02-09-2005@@@
-
 DECRETO Nº  5.531, DE 2 DE SETEMBRO DE 2005
 
 Dispõe sobre a execução do Vigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República do Peru, de 25 de maio de 2005.

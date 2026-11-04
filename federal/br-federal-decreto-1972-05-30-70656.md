@@ -1,5 +1,3 @@
-###DEC-070656-0-000-30-05-1972@@@
-
 DECRETO Nº 70.656, DE 30 DE MAIO DE 1972.
 
 Concede reconhecimento às "Faculdades Metropolitanas Unidas - Associação Educacional", com sede em São Paulo, SP.

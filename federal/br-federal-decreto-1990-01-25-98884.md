@@ -1,7 +1,3 @@
-1
-
-###DEC-098884-0-000-25-01-1990@@@
-
 DECRETO N°. 98.884, DE 25 DE JANEIRO DE 1990
 
 Cria a Unidade de Conservação denominada RESERVA BIOLÓGICA GUARIBAS, no Estado da Paraíba, e dá outras providências.

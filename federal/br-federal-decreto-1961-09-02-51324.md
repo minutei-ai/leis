@@ -1,5 +1,3 @@
-###DEC-051324-0-000-02-09-1961@@@
-
 DECRETO Nº 51.324, DE 2 DE SETEMBRO DE 1961.
 
 Cria o Grupamento de Fuzileiros Navais do Rio de Janeiro.

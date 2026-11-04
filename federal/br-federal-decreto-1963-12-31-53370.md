@@ -1,5 +1,3 @@
-###DEC-053370-0-000-31-12-1963@@@
-
 DECRETO Nº 53.370, DE 31 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública a Sociedade Meridional de Educação – SOME – com sede em Passo Fundo, do Rio Grande do Sul.

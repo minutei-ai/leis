@@ -1,5 +1,3 @@
-###DEC-047074-0-000-22-10-1959@@@
-
 DECRETO Nº 47.074, de 22 de outubro de 1959.
 
 Autoriza Josué Irffi, a comprar pedras preciosas.

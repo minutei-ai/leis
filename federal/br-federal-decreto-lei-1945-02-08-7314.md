@@ -1,5 +1,3 @@
-###DEL-007314-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.314 – DE 8 DE FEVEREIRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2.000.000,00, para pagamento da material destinado ao abastecimento d’água em Rio Branco, no Estado de Pernambuco

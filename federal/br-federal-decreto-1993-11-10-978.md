@@ -1,7 +1,3 @@
-1
-
-###DEC-000978-0-000-10-11-1993@@@
-
 DECRETO N° 978, DE 10 DE NOVEMBRO DE 1993
 
 Regulamenta o disposto no art. 13 da Lei n° 8.429, de 2 de junho de 1992.

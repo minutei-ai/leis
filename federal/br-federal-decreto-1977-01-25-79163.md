@@ -1,5 +1,3 @@
-###DEC-079163-0-000-25-01-1977@@@
-
 DECRETO Nº 79.163 , DE 25 DE JANEIRO DE 1977.
 
 Autoriza a transformação do curso de Desenho em curso de Educação Artística, da Faculdade de Ciências e Letras de Bragância Paulista, com sede na cidade de Bragância Paulista, Estado de São Paulo.

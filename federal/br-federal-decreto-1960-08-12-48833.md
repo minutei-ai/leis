@@ -1,5 +1,3 @@
-###DEC-048833-0-000-12-08-1960@@@
-
 DECRETO Nº 48.833, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza Companhia de Eletricidade São Paulo e Rio a ampliar o seu sistema de transmissão de energia elétrica no Estado de São Paulo.

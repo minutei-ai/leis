@@ -1,5 +1,3 @@
-###DEC-079772-0-000-06-06-1977@@@
-
 DECRETO Nº 79.772, DE 6 DE JUNHO DE 1977
 
 Aprova quota adicional ao limite de importações, através da Zona Franca de Manaus, no ano de 1977, estabelecido pelo Decreto nº 79.028, de 23 de dezembro de 1976.

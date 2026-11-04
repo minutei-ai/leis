@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6144c293-1991-4d2a-a669-c0a75c86eb06/texto#nowhere)
 
-###DEL-000414-0-000-10-01-1969@@@
-
 DECRETO-LEI nº 414, DE 10 DE JANEIRo De 1969
 
 Altera a redação do artigo 163 do Decreto-lei nº 37, de 18 de novembro de 1966, e a do § 1º do artigo 66 da Lei nº 3.244, de 14 de agôsto de 1957, constitui o Fundo Federal do Desenvolvimento Ferroviário, e dá outras providências.

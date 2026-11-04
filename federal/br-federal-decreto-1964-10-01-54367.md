@@ -1,5 +1,3 @@
-###DEC-054367-0-000-01-10-1964@@@
-
 DECRETO Nº 54.367, DE 1º DE OUTUBRO DE 1964.
 
 Fixa valôres de gratificações especiais aos Diretores da Comissão do Plano do Carvão Nacional (C.P.C.A.N.).

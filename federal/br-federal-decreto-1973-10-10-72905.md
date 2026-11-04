@@ -1,5 +1,3 @@
-###DEC-072905-0-000-10-10-1973@@@
-
 DECRETO Nº 72.905, DE 10 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão, no Estado de Mato Grosso.

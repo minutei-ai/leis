@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bd79331c-e5b5-4868-9fcc-06c1924fd3ff/texto#nowhere)
 
-###DEL-000992-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 992, DE 21 DE OUTUBRO DE 1969
 
 Transfere cargo, com o respectivo ocupante, do Quadro de Pessoal do Ministério da Marinha, para o do Ministério da Educação e Cultura.

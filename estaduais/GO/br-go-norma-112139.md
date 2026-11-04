@@ -494,7 +494,8 @@ IV – ao término do mandato dos atuais representantes das servidoras e dos ser
 
 Goiânia, 9 de janeiro de 2026; 138º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS
@@ -547,12 +548,14 @@ QUADRO DE CORRELAÇÃO DOS CARGOS DE NÍVEL FUNDAMENTAL TRANSFORMADOS (\*2)
 
 ANEXO III
 
-QUANTITATIVO DE CARGOS EFETIVOS<br>
+QUANTITATIVO DE CARGOS EFETIVOS
+
 NÍVEL SUPERIOR
 
 | Grupo Ocupacional | Categoria Funcional | Quantitativo |
 | --- | --- | --- |
-| Analista Ministerial<br>
+| Analista Ministerial
+
   | Analista em Arquitetura e Urbanismo | 7 |
 | Analista em Biblioteconomia | 1 |
 | Analista em Biologia | 3 |
@@ -575,7 +578,8 @@ NÍVEL SUPERIOR
 | Analista Jurídico | 22 |
 | Analista Legislativo | 1 |
 
-QUANTITATIVO DE CARGOS EFETIVOS<br>
+QUANTITATIVO DE CARGOS EFETIVOS
+
 NÍVEL MÉDIO (\*1)
 
 (Técnico(a) Ministerial - Área de Apoio)
@@ -586,7 +590,8 @@ NÍVEL MÉDIO (\*1)
 
 (\*1) O quantitativo inclui a somatória dos cargos de Técnico(a) Ministerial – Área de Apoio dos Anexos I e II, que serão providos quando da vacância prevista nos artigos 28 e 29 desta Lei, e aqueles constantes no Anexo XXI.
 
-QUANTITATIVO DE CARGOS EFETIVOS<br>
+QUANTITATIVO DE CARGOS EFETIVOS
+
 NÍVEL MÉDIO (\*1)
 
 (Técnico(a) Ministerial - Área Especializada)
@@ -667,33 +672,56 @@ QUADRO DE FUNÇÕES DE CONFIANÇA
 
 ANEXO VI
 
-QUADRO DE PESSOAL E VENCIMENTOS<br>
+QUADRO DE PESSOAL E VENCIMENTOS
+
 NÍVEL SUPERIOR
 
 | Grupo Ocupacional | Categoria Funcional | Classes | Níveis | Valores – R$ |
 | --- | --- | --- | --- | --- |
-| Analista Ministerial<br>
-  | Analista em Arquitetura e Urbanismo<br>
-Analista em Biblioteconomia<br>
-Analista em Biologia<br>
-Analista em Comunicação Social<br>
-Analista em Contabilidade<br>
-Analista em Engenharia Agronômica<br>
-Analista em Engenharia Ambiental e Sanitária<br>
-Analista em Engenharia Civil<br>
-Analista em Engenharia Elétrica<br>
-Analista em Engenharia Mecânica<br>
-Analista em Estatística<br>
-Analista em Geoprocessamento<br>
-Analista em Gestão<br>
-Analista em Medicina<br>
-Analista em Medina do Trabalho<br>
-Analista em Educação<br>
-Analista em Psicologia<br>
-Analista em Serviço Social<br>
-Analista em Tecnologia da Informação<br>
-Analista Jurídico<br>
-Analista Legislativo<br>
+| Analista Ministerial
+
+  | Analista em Arquitetura e Urbanismo
+
+Analista em Biblioteconomia
+
+Analista em Biologia
+
+Analista em Comunicação Social
+
+Analista em Contabilidade
+
+Analista em Engenharia Agronômica
+
+Analista em Engenharia Ambiental e Sanitária
+
+Analista em Engenharia Civil
+
+Analista em Engenharia Elétrica
+
+Analista em Engenharia Mecânica
+
+Analista em Estatística
+
+Analista em Geoprocessamento
+
+Analista em Gestão
+
+Analista em Medicina
+
+Analista em Medina do Trabalho
+
+Analista em Educação
+
+Analista em Psicologia
+
+Analista em Serviço Social
+
+Analista em Tecnologia da Informação
+
+Analista Jurídico
+
+Analista Legislativo
+
   | E | 3 | 18.226,45 |
 | 2 | 17.869,08 |
 | 1 | 17.518,70 |
@@ -710,13 +738,16 @@ Analista Legislativo<br>
 | 2 | 11.634,98 |
 | 1 | 11.406,85 |
 
-ANEXO VII<br>
+ANEXO VII
+
 NÍVEL MÉDIO
 
 | Grupo Ocupacional | Categoria Funcional | Classes | Níveis | Valores – R$ |
 | --- | --- | --- | --- | --- |
-| Técnico(a) Ministerial – Área de Apoio<br>
-  | Técnico(a) Ministerial<br>
+| Técnico(a) Ministerial – Área de Apoio
+
+  | Técnico(a) Ministerial
+
   | E | 3 | 9.073,83 |
 | 2 | 8.895,91 |
 | 1 | 8.721,47 |
@@ -733,13 +764,16 @@ NÍVEL MÉDIO
 | 2 | 5.792,34 |
 | 1 | 5.678,77 |
 
-ANEXO VIII<br>
+ANEXO VIII
+
 NÍVEL MÉDIO ESPECIALIZADO
 
 | Grupo Ocupacional | Categoria Funcional | Classes | Níveis | Valores – R$ |
 | --- | --- | --- | --- | --- |
-| Técnico(a) Ministerial – Área Especializada | Técnico(a) em Arquivo<br>
-Técnico(a) em Segurança do Trabalho<br>
+| Técnico(a) Ministerial – Área Especializada | Técnico(a) em Arquivo
+
+Técnico(a) em Segurança do Trabalho
+
 Técnico(a) em Tecnologia da Informação | E | 3 | 9.073,83 |
 | 2 | 8.895,91 |
 | 1 | 8.721,47 |
@@ -756,19 +790,28 @@ Técnico(a) em Tecnologia da Informação | E | 3 | 9.073,83 |
 | 2 | 5.792,34 |
 | 1 | 5.678,77 |
 
-ANEXO IX<br>
-NÍVEL MÉDIO<br>
-(Quadro em transformação por vacância, na forma do art. 29, ou por transformação direta, nos termos do art.<br>
+ANEXO IX
+
+NÍVEL MÉDIO
+
+(Quadro em transformação por vacância, na forma do art. 29, ou por transformação direta, nos termos do art.
+
 26 desta Lei, ou extinção por vacância, conforme [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
 
 | Grupo Ocupacional | Categoria Funcional | Classes | Níveis | Valores – R$ |
 | --- | --- | --- | --- | --- |
-| Assistente do Ministério Público | Assistente Administrativo<br>
-Assistente de Informática<br>
-Assistente Programador<br>
-Assistente Recepcionista (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Secretário(a) Assistente<br>
-Técnico(a) em Arquivo<br>
+| Assistente do Ministério Público | Assistente Administrativo
+
+Assistente de Informática
+
+Assistente Programador
+
+Assistente Recepcionista (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Secretário(a) Assistente
+
+Técnico(a) em Arquivo
+
 Técnico(a) em Segurança do Trabalho | E | 3 | 9.073,83 |
 | 2 | 8.895,91 |
 | 1 | 8.721,47 |
@@ -785,22 +828,34 @@ Técnico(a) em Segurança do Trabalho | E | 3 | 9.073,83 |
 | 2 | 5.792,34 |
 | 1 | 5.678,77 |
 
-ANEXO X<br>
-NÍVEL FUNDAMENTAL<br>
+ANEXO X
+
+NÍVEL FUNDAMENTAL
+
 (Quadro em transformação por vacância, na forma do art. 28 desta Lei, ou extinção por vacância, conforme [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
 
 | Grupo Ocupacional | Categoria Funcional | Classes | Níveis | Valores – R$ |
 | --- | --- | --- | --- | --- |
-| Auxiliar do Ministério Público | Artífice de Eletricidade (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Artífice de Marcenaria (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Auxiliar de Copa (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Auxiliar de Segurança (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Auxiliar Motorista (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Auxiliar Porteiro (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Auxiliar Telefonista (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)<br>
-Artífice de Mecânica de Veículos<br>
-Auxiliar Administrativo<br>
-Oficial(a) do Ministério Público<br>
+| Auxiliar do Ministério Público | Artífice de Eletricidade (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Artífice de Marcenaria (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Auxiliar de Copa (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Auxiliar de Segurança (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Auxiliar Motorista (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Auxiliar Porteiro (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Auxiliar Telefonista (vide [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
+
+Artífice de Mecânica de Veículos
+
+Auxiliar Administrativo
+
+Oficial(a) do Ministério Público
+
 Secretário(a) Auxiliar | E | 3 | 7.258,61 |
 | 2 | 7.116,29 |
 | 1 | 6.976,76 |
@@ -817,7 +872,8 @@ Secretário(a) Auxiliar | E | 3 | 7.258,61 |
 | 2 | 4.633,59 |
 | 1 | 4.542,73 |
 
-ANEXO XI<br>
+ANEXO XI
+
 TABELA DE VENCIMENTOS INICIAIS DOS CARGOS EFETIVOS
 
 | Referência | Vencimento – R$ |
@@ -826,7 +882,8 @@ TABELA DE VENCIMENTOS INICIAIS DOS CARGOS EFETIVOS
 | Classe A 1 do Nível Médio | 5.678,77 |
 | Classe A 1 do Nível Fundamental | 4.542,73 |
 
-ANEXO XII<br>
+ANEXO XII
+
 TABELA DE VENCIMENTOS DOS CARGOS EM COMISSÃO
 
 | Símbolo | Vencimento – R$ | Representação – R$ |
@@ -842,7 +899,8 @@ TABELA DE VENCIMENTOS DOS CARGOS EM COMISSÃO
 | CC-9 | 5.459,98 | 16.379,90 |
 | CC-10 | 8.308,07 | 18.443,91 |
 
-ANEXO XIII<br>
+ANEXO XIII
+
 TABELA DE VALORES DAS FUNÇÕES DE CONFIANÇA
 
 | Símbolo | Valor – R$ |
@@ -858,41 +916,54 @@ TABELA DE VALORES DAS FUNÇÕES DE CONFIANÇA
 | FC-9 | 10.027,39 |
 | FC-10 | 13.035,59 |
 
-ANEXO XIV<br>
+ANEXO XIV
+
 ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL SUPERIOR
 
 | ANALISTA EM ARQUITETURA E URBANISMO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Arquitetura e Urbanismo, reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Arquitetura e Urbanismo (CAU).<br>
-Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à arquitetura, além de informática geral.<br>
+| Habilitação Profissional | Conclusão de curso superior em Arquitetura e Urbanismo, reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Arquitetura e Urbanismo (CAU).
+
+Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à arquitetura, além de informática geral.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas a trabalhos técnicos que contemplem planejamento, organização, orçamento e controle de serviços de elaboração de projetos, fiscalização e vistorias de obras e instalações, consultorias, emissão de laudos, pareceres técnicos e assessoramento técnico-científico nas áreas da Arquitetura e do Urbanismo, abrangendo projetos arquitetônicos, paisagísticos, urbanísticos e de interiores. |
 | Descrição Exemplificativa | 1 – participar do planejamento, coordenação e avaliação de planos, projetos, programas e pesquisas relativos às edificações e aos espaços institucionais do Ministério Público, bem como executar, supervisionar e coordenar estudos, projetos, direção, fiscalização, construção e restauração de edifícios, com todas as suas obras complementares, e de obras de caráter artístico ou monumental; 2 – elaborar projetos arquitetônicos, layouts, estudos de locação de divisórias, mobiliários e ambientação, além de serviços de urbanismo, arquitetura paisagística e decoração arquitetônica dos prédios do Ministério Público; 3 – orientar e realizar o mapeamento e a cartografia de levantamentos necessários às áreas operacionais da instituição; 4 – realizar exame técnico de processos relativos à execução de obras, compreendendo a verificação de projetos, especificações, normas e padronizações, elaborando pareceres técnicos quando instado; 5 – participar da elaboração e execução de convênios e processos licitatórios que incluam projetos de construção, ampliação, reforma ou remoção de obras e instalações, atuando como assistente técnico, quando designado; 6 – elaborar orçamentos, cronogramas e relatórios estatísticos referentes à sua área de atuação, acompanhando indicadores de desempenho; 7 – prestar assessoramento técnico aos órgãos de execução do Ministério Público em processos extrajudiciais e judiciais que contenham questões de arquitetura e urbanismo, elaborando pareceres, laudos e relatórios fundamentados, inclusive sobre atividades sujeitas a licenciamento ambiental; 8 – colaborar tecnicamente na formalização de convênios, contratos e acordos inerentes à área de arquitetura e urbanismo, propondo medidas de adequação quando necessário; 9 – colaborar no desenvolvimento e na execução de capacitações, cursos, palestras, seminários e eventos técnico-científicos em articulação com instituições públicas, privadas ou de ensino; 10 – realizar intercâmbio e articulação com organizações governamentais e não governamentais ligadas à sua área de atuação, visando desenvolver parcerias para o desenvolvimento de projetos e programas institucionais, bem como a atuação multidisciplinar em casos de maior complexidade; 11 – gerir documentação técnica relativa a obras, reformas e patrimônio imobiliário; 12 – coordenar projetos junto a equipes multidisciplinares, integrando áreas como engenharia, segurança do trabalho, arquitetura, urbanismo e meio ambiente; 13 – realizar vistorias, exames, avaliações, inspeções técnicas, perícias e/ou estudos especializados de campo, atuando como assistente técnico em processos judiciais, quando designado; 14 – integrar comissões, comitês técnicos, grupos de trabalho e iniciativas institucionais, representando o Ministério Público em sua área de competência; 15 – executar e conduzir equipe de instalação, montagem, operação, reparo ou manutenção de sistemas e componentes arquitetônicos; 16 – utilizar ferramentas de informática aplicadas à arquitetura, bem como recursos de informática geral, para elaboração de projetos, relatórios técnicos, laudos, análises e demais atividades de sua competência; 17 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM BIBLIOTECONOMIA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Biblioteconomia reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Biblioteconomia (CRB).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Biblioteconomia reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Biblioteconomia (CRB).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo a execução de ações técnicas relativas ao planejamento, organização, direção, coordenação e controle de serviços em bibliotecas, arquivos e centros de documentação e informação, compreendendo a catalogação, classificação, conservação e disseminação de acervos e informações técnico-científicas, bem como o assessoramento técnico, a elaboração de pareceres, a realização de vistorias e perícias e outras atividades afins no âmbito do Ministério Público. |
 | Descrição Exemplificativa | 1 – planejar, organizar, supervisionar e executar atividades técnicas relativas à gestão de bibliotecas, centros de documentação e unidades de informação; 2 – elaborar, revisar e aplicar normas e procedimentos de catalogação, classificação, indexação, armazenamento, conservação, recuperação e disseminação de documentos e informações; 3 – coordenar a elaboração, atualização e manutenção de catálogos, bases de dados, bibliografias e outros instrumentos de controle bibliográfico; 4 – planejar e executar serviços de referência e atendimento ao usuário, promovendo a orientação na busca e no uso da informação; 5 – realizar estudos e pesquisas para implantação, expansão ou modernização de serviços e sistemas de informação; 6 – executar e supervisionar processos de seleção, aquisição, permuta, doação, tombamento e descarte de obras e materiais informacionais; 7 – elaborar pareceres técnicos e laudos, inclusive em processos judiciais e administrativos, quando demandado; 8– prestar assessoramento técnico às membras e aos membros e servidoras e servidores do Ministério Público, bem como a outras unidades e órgãos da Instituição; 9 – conduzir programas de incentivo à leitura e ações de educação continuada no uso da informação; 10 – promover e coordenar a integração entre as unidades de informação do Ministério Público e instituições congêneres; 11 – efetuar vistorias e perícias técnicas em bibliotecas e acervos, quando designado; 12 – zelar pela segurança, conservação e atualização do acervo sob sua responsabilidade; 13 – manter atualizados os registros e controles estatísticos de uso e funcionamento da unidade de informação; 14 – supervisionar, treinar e avaliar estagiários e demais profissionais da área; 15 – participar de programas de capacitação, comissões e grupos de trabalho, no âmbito de sua área de atuação; 16 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM BIOLOGIA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Biologia ou Ciências Biológicas reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Biologia (CRBio).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Biologia ou Ciências Biológicas reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Biologia (CRBio).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo o planejamento, a supervisão, coordenação e execução de estudos, pesquisas, projetos e consultorias, com emissão de laudos, pareceres técnicos e assessoramento técnico-científico nas diversas áreas das Ciências Biológicas. |
 | Descrição Exemplificativa | 1 – prestar assessoramento técnico aos órgãos de execução do Ministério Público em processos extrajudiciais e judiciais, elaborando pareceres, laudos e relatórios fundamentados, inclusive sobre atividades sujeitas a licenciamento ambiental; 2 – analisar estudos e documentos técnicos relativos a processos de licenciamento ambiental, tais como Estudos de Impacto Ambiental (EIA), Relatórios de Impacto Ambiental (RIMA) e Estudos de Impacto de Vizinhança (EIV); 3 – colaborar tecnicamente na formalização de convênios, contratos e acordos inerentes à sua área de conhecimento, propondo medidas de adequação quando necessário; 4 – colaborar no desenvolvimento de projetos institucionais voltados a ações de educação ambiental, capacitação, cursos, palestras, seminários e eventos técnico-científicos, em articulação com instituições públicas, privadas e demais entidades; 5 – realizar intercâmbio e articulação com organizações governamentais e não governamentais ligadas à sua área de atuação, visando desenvolver parcerias para o desenvolvimento de projetos e programas institucionais, bem como a atuação multidisciplinar em casos de maior complexidade; 6 – realizar vistorias, exames, avaliações, inspeções técnicas, perícias e estudos especializados de campo, atuando como assistente técnico em processos judiciais quando designado; 7 – atuar no acompanhamento e avaliação de planos, programas e pesquisas voltados à proteção da biodiversidade, do meio ambiente e da gestão de recursos naturais; 8 – integrar comissões, comitês técnicos, grupos de trabalho e iniciativas institucionais, representando o Ministério Público em sua área de competência; 9 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM COMUNICAÇÃO SOCIAL |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Comunicação Social com habilitação em Jornalismo, Publicidade e Propaganda, Relações Públicas ou Radialismo, reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Comunicação Social com habilitação em Jornalismo, Publicidade e Propaganda, Relações Públicas ou Radialismo, reconhecido pelo Ministério da Educação (MEC).
+
+Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo planejamento, coordenação e execução da política de comunicação social do Ministério Público, abrangendo jornalismo, assessoria de imprensa, publicidade e mídias digitais; produzir, gerir e revisar conteúdos multimídia para portal, intranet e redes sociais; organizar campanhas institucionais e coberturas de eventos; assessorar a Administração Superior em matérias de comunicação; manter relacionamento estratégico com veículos e entidades do setor; elaborar relatórios gerenciais e propor medidas para ampliar o alcance e a eficiência das ações comunicacionais. |
@@ -902,9 +973,12 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM CONTABILIDADE |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Ciências Contábeis reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Contabilidade (CRC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Ciências Contábeis reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Contabilidade (CRC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo atos e fatos da contabilidade orçamentária, financeira e patrimonial, compreendendo a elaboração e análise de balancetes, balanços, registros e demais demonstrações contábeis, bem como prestar assessoramento técnico aos órgãos do Ministério Público, por meio da emissão de laudos, pareceres, relatórios, informações técnicas e da realização de vistorias, perícias e visitas técnicas. |
@@ -914,9 +988,12 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM ENGENHARIA AGRONÔMICA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Engenharia Agronômica ou Agronomia reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Engenharia e Agronomia (CREA).<br>
-Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.<br>
+| Habilitação Profissional | Conclusão de curso superior em Engenharia Agronômica ou Agronomia reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo estudos, projetos, pesquisas, supervisão e avaliações nas áreas de agropecuária, uso e ocupação do solo, manejo de recursos naturais renováveis, proteção ambiental e desenvolvimento rural sustentável, bem como prestar assessoramento técnico-científico aos órgãos do Ministério Público, com emissão de laudos, pareceres e relatórios técnicos. |
@@ -926,9 +1003,12 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM ENGENHARIA AMBIENTAL E SANITÁRIA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Engenharia Ambiental e Sanitária, Engenharia Sanitária ou Engenharia Ambiental reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Engenharia e Agronomia (CREA).<br>
-Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.<br>
+| Habilitação Profissional | Conclusão de curso superior em Engenharia Ambiental e Sanitária, Engenharia Sanitária ou Engenharia Ambiental reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas a trabalhos técnicos que contemplem planejamento, organização, orçamento e controle de serviços de elaboração de projetos, fiscalização e vistorias de obras e instalações, consultorias, emissão de laudos, pareceres técnicos e assessoramento técnico-científico nas áreas da Engenharia Ambiental e Sanitária, abrangendo saneamento básico, recursos hídricos, resíduos sólidos, controle de poluição e impactos ambientais. |
@@ -938,9 +1018,12 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM ENGENHARIA CIVIL |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Engenharia Civil reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Engenharia e Agronomia (CREA).<br>
-Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.<br>
+| Habilitação Profissional | Conclusão de curso superior em Engenharia Civil reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas a trabalhos técnicos que contemplem planejamento, organização, orçamento e controle de serviços de elaboração de projetos, fiscalização e vistorias de obras e instalações, consultorias, emissão de laudos, pareceres técnicos e assessoramento técnico-científico nas áreas da Engenharia Civil. |
@@ -950,52 +1033,68 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM ENGENHARIA ELÉTRICA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Engenharia Elétrica reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Engenharia e Agronomia (CREA).<br>
-Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.<br>
+| Habilitação Profissional | Conclusão de curso superior em Engenharia Elétrica reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas a trabalhos técnicos que contemplem planejamento, organização, orçamento e controle de serviços de elaboração de projetos, fiscalização e vistorias de obras e instalações, consultorias, emissão de laudos, pareceres técnicos e assessoramento técnico-científico nas áreas da Engenharia Elétrica. |
 | Descrição Exemplificativa | 1 – fiscalizar e gerenciar, técnica e administrativamente, as obras, as instalações elétricas, lógicas e de telecomunicações, bem como os equipamentos eletroeletrônicos executados pelo Ministério Público; 2 – elaborar orçamentos de instalações e equipamentos; 3 – realizar vistorias e elaborar laudos técnicos de imóveis, instalações e equipamentos destinados ao uso do Ministério Público; 4 – planejar e programar a manutenção geral, preventiva e corretiva, dos prédios e dos equipamentos eletroeletrônicos destinados ao uso do Ministério Público; 5 – elaborar e/ou acompanhar projetos de instalações elétricas, de telecomunicações, som, vídeo, cabeamento estruturado, dados, fibras ópticas, controle de acesso, segurança patrimonial, detecção e alarme de incêndio e proteção contra descargas atmosféricas; 6 – elaborar pareceres e atuar como assistente técnico em processos licitatórios, quando designado; 7 – proceder ao exame e à análise de laudos, perícias e outras peças que envolvam conhecimentos de engenharia elétrica, emitindo parecer técnico; 8 – acompanhar a realização de perícias quando designado pelo Ministério Público; 9 – realizar perícias que envolvam conhecimentos de engenharia elétrica, emitindo laudo técnico, quando solicitado pelo Ministério Público; 10 – atuar como assistente técnico do Ministério Público em procedimentos judiciais, quando designado; 11 – orientar membros do Ministério Público em procedimentos cujo objeto envolva conhecimento de engenharia elétrica; 12 – colaborar tecnicamente na formalização de convênios, contratos e acordos inerentes à sua área de conhecimento, propondo medidas de adequação quando necessário; 13 – colaborar no desenvolvimento e execução de projetos institucionais, capacitação, cursos, palestras, seminários e eventos técnico-científicos em articulação com instituições públicas, privadas e demais entidades correlatas; 14 – realizar intercâmbio e articulação com organizações governamentais e não governamentais ligadas à sua área de atuação, visando desenvolver parcerias para o desenvolvimento de projetos e programas institucionais, bem como a atuação em casos de maior complexidade; 15 – integrar comissões, comitês técnicos, grupos de trabalho e iniciativas institucionais, representando o Ministério Público em sua área de competência; 16 – utilizar ferramentas de informática aplicadas à engenharia, bem como recursos de informática geral, para elaboração de projetos, relatórios técnicos, laudos, análises e demais atividades de sua competência; 17 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM ENGENHARIA MECÂNICA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Engenharia Mecânica reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Engenharia e Agronomia (CREA).<br>
-Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.<br>
+| Habilitação Profissional | Conclusão de curso superior em Engenharia Mecânica reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Engenharia e Agronomia (CREA).
+
+Conhecimentos de legislação afeta ao Ministério Público e de informática aplicada à engenharia, além de informática geral.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas a trabalhos técnicos que contemplem planejamento, organização, orçamento e controle de serviços de elaboração de projetos, fiscalização e vistorias de obras e instalações, consultorias, emissão de laudos, pareceres técnicos e assessoramento técnico-científico nas áreas da Engenharia Mecânica, abrangendo instalações e equipamentos eletromecânicos, sistemas de climatização, ventilação e transporte vertical. |
 | Descrição Exemplificativa | 1 – fiscalizar e gerenciar, técnica e administrativamente, as instalações eletromecânicas, sistemas de climatização, ventilação, ar-condicionado, elevadores, plataformas elevatórias e demais equipamentos executados pelo Ministério Público; 2 – elaborar orçamentos de instalações e equipamentos eletromecânicos destinados às edificações do Ministério Público; 3 – realizar vistorias e elaborar laudos técnicos de imóveis, instalações e equipamentos eletromecânicos destinados ao uso do Ministério Público; 4 – planejar e programar a manutenção geral, preventiva e corretiva, das instalações e equipamentos eletromecânicos vinculados às edificações; 5 – elaborar e/ou acompanhar projetos de climatização, ventilação, exaustão, transporte vertical e demais sistemas eletromecânicos aplicados às edificações; 6 – prestar assessoramento técnico aos órgãos de execução e às unidades especializadas do Ministério Público em processos extrajudiciais e judiciais, elaborando pareceres, laudos e relatórios fundamentados em sua área de formação; 7 – colaborar tecnicamente na formalização de convênios, contratos e acordos inerentes à sua área de conhecimento, propondo medidas de adequação quando necessário; 8 – colaborar no desenvolvimento e execução de projetos institucionais, capacitação, cursos, palestras, seminários e eventos técnico-científicos em articulação com instituições públicas, privadas e demais entidades correlatas; 9 – realizar intercâmbio e articulação com organizações governamentais e não governamentais ligadas à sua área de atuação, visando desenvolver parcerias para o desenvolvimento de projetos e programas institucionais, bem como a atuação em casos de maior complexidade; 10 – proceder ao exame e à análise de laudos, perícias e outras peças que envolvam conhecimentos de engenharia mecânica, emitindo parecer técnico; 11 – acompanhar a realização de perícias por outros órgãos quando designado; 12 – realizar vistorias, inspeções técnicas e perícias, atuando como assistente técnico em processos judiciais quando designado; 13 – integrar comissões, comitês técnicos, grupos de trabalho e iniciativas institucionais, representando o Ministério Público em sua área de competência; 14 – utilizar ferramentas de informática aplicadas à engenharia, bem como recursos de informática geral, para elaboração de projetos, relatórios técnicos, laudos, análises e demais atividades de sua competência; 15 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM ESTATÍSTICA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Estatística, Matemática ou Economia (Bacharelado) reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Estatística, Matemática ou Economia (Bacharelado) reconhecido pelo Ministério da Educação (MEC).
+
+Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo o planejamento, execução e avaliação de pesquisas, estudos, análises estatísticas e de dados institucionais, bem como a formulação de planos, projetos e programas relacionados à sua área de atuação. |
 | Descrição Exemplificativa | 1 – participar do planejamento, execução e avaliação de planos, programas, projetos e pesquisas de interesse institucional, especialmente nas áreas de planejamento estratégico e gestão de desempenho; 2 – desenhar amostras, definir métodos estatísticos e aplicar modelos de análise quantitativa voltados ao diagnóstico e à formulação de políticas públicas e institucionais; 3 – construir instrumentos de coleta de dados, bem como elaborar questionários, formulários e estruturas de entrevistas voltadas a estudos qualitativos e quantitativos; 4 – criar, organizar e manter bancos de dados, desenvolver sistemas de codificação e estruturar fluxos de tratamento, depuração e análise de informações; 5 – planejar e organizar métodos e programas de trabalho estatístico, promovendo melhorias de produtividade e eficiência nos processos administrativos ou finalísticos; 6 – auxiliar na elaboração do orçamento, na administração financeira e na definição de indicadores para o planejamento estratégico das áreas meio e fim da Instituição; 7 – assessorar a Administração Superior e os órgãos de execução do Ministério Público na formulação e revisão de políticas institucionais, mediante estudos, análises estatísticas e emissão de pareceres técnicos; 8 – elaborar laudos, relatórios, painéis e estudos técnicos, contendo dados estatísticos e analíticos voltados à gestão de desempenho, avaliação institucional e tomada de decisão; 9 – realizar vistorias, inspeções técnicas, análises documentais e perícias no campo da estatística, quando determinado ou necessário ao exercício de suas funções; 10 – emitir pareceres técnicos em matérias relacionadas à sua área de atuação, inclusive para subsidiar processos administrativos, judiciais ou iniciativas institucionais; 11 – participar de comissões, grupos de trabalho e projetos institucionais, bem como colaborar na formulação de normas, metodologias e boas práticas em estatística e análise de dados; 12 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM GEOPROCESSAMENTO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Agronomia, Engenharia Agronômica, Engenharia Ambiental, Engenharia Ambiental e Sanitária, Engenharia Cartográfica, Engenharia Civil, Engenharia de Agrimensura, Geografia ou Geologia reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Engenharia e Agronomia (CREA).<br>
+| Habilitação Profissional | Conclusão de curso superior em Agronomia, Engenharia Agronômica, Engenharia Ambiental, Engenharia Ambiental e Sanitária, Engenharia Cartográfica, Engenharia Civil, Engenharia de Agrimensura, Geografia ou Geologia reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Engenharia e Agronomia (CREA).
+
 Conhecimentos de legislação afeta ao Ministério Público e informática. Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo estudos a partir do processamento de dados geoespaciais. |
 | Descrição Exemplificativa | 1 – prestar assessoramento técnico aos órgãos de execução e às unidades especializadas do Ministério Público em processos extrajudiciais e judiciais, elaborando pareceres, laudos, relatórios e informações técnicas; 2 – executar atividades de aquisição, armazenamento, processamento, análise e apresentação de informações sobre o meio físico referenciadas espacialmente, utilizando conhecimentos de cartografia, sensoriamento remoto, processamento digital de imagens e análise espacial; 3 – realizar levantamentos de informações cartográficas por técnicas de georreferenciamento, posicionamento global (GPS) e sensoriamento remoto, incluindo o uso de drones para coleta de dados; 4 – elaborar análises ambientais, de planejamento e gestão territorial, zoneamentos, monitoramentos, bem como mapeamentos temáticos de recursos naturais; 5 – programar, operacionalizar e avaliar atividades de geoprocessamento, análise e desenvolvimento de Sistemas de Informações Geográficas (SIG) e de plataformas de webgis; 6 – realizar análises espaciais, temporais, estatísticas e geoestatísticas, validando também trabalhos de geoprocessamento produzidos por terceiros; 7 – realizar geocodificação de dados e atualização de bases cartográficas; 8 – colaborar tecnicamente na formalização de convênios, contratos e acordos inerentes à sua área de conhecimento, propondo medidas de adequação quando necessário; 9 – colaborar no desenvolvimento e execução de projetos institucionais, capacitação, cursos, palestras, seminários e eventos técnico-científicos em articulação com instituições públicas, privadas e organizações da sociedade civil; 10 – realizar intercâmbio e articulação com instituições governamentais e não governamentais ligadas à sua área de atuação, visando parcerias para projetos e programas institucionais, bem como a atuação multidisciplinar em casos de maior complexidade; 11 – integrar comissões, comitês técnico-científicos, grupos de trabalho e iniciativas institucionais, representando o Ministério Público em sua área de competência; 12 – efetuar vistorias e inspeções em campo, produzindo relatórios e pareceres técnicos; 13 – fornecer dados estatísticos e apresentar relatórios das atividades desenvolvidas; 14 – utilizar ferramentas de informática aplicadas ao geoprocessamento, bem como recursos de informática geral, para elaboração de mapas, projetos, relatórios técnicos, laudos, análises e demais atividades de sua competência; 15 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM GESTÃO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em qualquer área do conhecimento reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em qualquer área do conhecimento reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior destinadas ao planejamento, coordenação, execução, supervisão e controle dos processos de gestão técnico-administrativa do Ministério Público, compreendendo a elaboração e avaliação de planos, programas, projetos, pesquisas e diagnósticos; o gerenciamento de recursos logísticos, orçamentários e financeiros; a produção e análise de dados e informações institucionais; e o assessoramento à Administração Superior na definição e implementação de políticas, estratégias e indicadores de desempenho. |
 | Descrição Exemplificativa | 1 – elaborar, executar e avaliar planos, programas, projetos, pesquisas, diagnósticos e indicadores estratégicos de interesse institucional; 2 – planejar, coordenar, supervisionar e controlar as atividades de gestão técnico-administrativa, de suporte e de apoio logístico às áreas meio e fim do Ministério Público; 3 – pesquisar, coletar, consolidar, analisar e difundir dados e informações que subsidiem políticas, decisões e ações da Administração Superior e dos órgãos de execução; 4 – desenvolver e aplicar métodos estatísticos e ferramentas de análise, incluindo desenho de amostras, elaboração de instrumentos de coleta e construção de bancos de dados; 5 – apoiar a elaboração, execução e acompanhamento do orçamento, bem como realizar estudos de viabilidade econômico- financeira de projetos institucionais; 6 – assessorar a Administração Superior e os órgãos de execução na formulação de diretrizes, metas e indicadores de desempenho, integrando-se ao planejamento estratégico institucional; 7 – produzir laudos, relatórios gerenciais, pareceres técnicos e notas informativas relacionados à gestão administrativa e às áreas temáticas sob sua responsabilidade; 8 – desenvolver, executar e ministrar programas de capacitação e desenvolvimento de recursos humanos voltados à gestão técnico-administrativa e ao suporte logístico; 9 – monitorar e avaliar a execução de contratos, convênios e demais instrumentos administrativos, assegurando a observância de normas legais, prazos e metas estabelecidas; 10 – interagir com órgãos governamentais, entidades públicas e privadas e organismos de controle para intercâmbio de informações e harmonização de procedimentos administrativos; 11 – zelar pelos equipamentos, sistemas e demais recursos sob sua responsabilidade, mantendo-os em condições adequadas de uso e segurança; 12 – acompanhar inovações tecnológicas, metodologias e melhores práticas em gestão pública, propondo sua adoção ou aperfeiçoamento no âmbito institucional; 13 – cumprir e fazer cumprir normas, diretrizes e protocolos de governança, gestão de riscos, transparência e proteção de dados pessoais aplicáveis à Instituição; 14 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM MEDICINA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Medicina reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Medicina (CRM).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Medicina reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Medicina (CRM).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas à análise técnica e pericial médica no âmbito do Ministério Público, bem como à orientação e assessoramento técnico-científico em questões de saúde, em conformidade com a legislação profissional. |
@@ -1005,10 +1104,14 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM MEDICINA DO TRABALHO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Medicina reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Medicina (CRM).<br>
-Título de especialista em Medicina do Trabalho obtido por meio de Residência Médica ou reconhecido pela Associação Médica Brasileira e registrado no respectivo Conselho.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Medicina reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Medicina (CRM).
+
+Título de especialista em Medicina do Trabalho obtido por meio de Residência Médica ou reconhecido pela Associação Médica Brasileira e registrado no respectivo Conselho.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior voltadas à promoção, proteção, vigilância e recuperação da saúde ocupacional das servidoras e dos servidores, membras e membros da Instituição, mediante planejamento, execução e avaliação de ações técnicas especializadas de medicina do trabalho. |
@@ -1018,9 +1121,12 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM EDUCAÇÃO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Pedagogia reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Pedagogia reconhecido pelo Ministério da Educação (MEC).
+
+Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior relacionadas à formulação, planejamento, execução e avaliação de planos, programas, projetos e pesquisas voltadas à política educacional e ao desenvolvimento institucional do Ministério Público, prestando suporte técnico especializado à Administração Superior, aos Centros de Apoio Operacional e à Escola Superior do Ministério Público. |
@@ -1030,9 +1136,12 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM PSICOLOGIA |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Psicologia reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Psicologia (CRP).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Psicologia reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Psicologia (CRP).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo a assessoria e a execução de programas e atividades em que os conhecimentos da psicologia estejam envolvidos. |
@@ -1042,34 +1151,44 @@ Ser aprovado em concurso público. |
 
 | ANALISTA EM SERVIÇO SOCIAL |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Serviço Social reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no Conselho Regional de Serviço Social (CRESS).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Serviço Social reconhecido pelo Ministério da Educação (MEC).
+
+Registro no Conselho Regional de Serviço Social (CRESS).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior, envolvendo planejamento, coordenação, orientação e execução de trabalhos relacionados com o diagnóstico, desenvolvimento e acompanhamento de aspectos sociais. |
 | Descrição Exemplificativa | 1 – participar do planejamento, elaboração, coordenação, execução e avaliação de planos, programas, projetos, pesquisas e ações institucionais relacionados à área social; 2 – assessorar as membras e os membros do Ministério Público na definição de políticas institucionais, especialmente nas áreas de promoção social, direitos fundamentais e relações familiares; 3 – realizar estudo social e avaliação social/familiar de membras, membros, servidoras e servidores ou terceiros, quando determinado por órgãos de execução ou da Administração, apresentando laudo à chefia imediata ou ao(à) Procurador(a)-Geral de Justiça, especialmente quando houver repercussão nas atividades laborais; 4 – elaborar relatórios, laudos e pareceres técnicos para instrução de procedimentos administrativos ou judiciais, quando instado por órgãos de execução, administrativos ou Centros de Apoio; 5 – pesquisar e analisar as condições socioeconômicas de famílias ou grupos sociais, com vistas à formulação de diagnósticos e subsídios para decisões técnicas e institucionais; 6 – propor, elaborar e/ou participar da execução de projetos de intervenção social, prevenção e promoção de direitos, conforme a realidade diagnosticada; 7 – colaborar com a construção e revisão de instrumentos técnicos e metodológicos voltados à avaliação social, ao aprimoramento institucional ou à gestão de pessoas; 8 – auxiliar na supervisão, fiscalização e avaliação de entidades, serviços e obras conveniadas ou relacionadas à área de atuação do Ministério Público; 9 – promover parcerias com órgãos da Administração Pública e com entidades da sociedade civil, visando ao fortalecimento de redes de proteção e ao atendimento de demandas sociais; 10 – assessorar comissões de concurso de servidoras e servidores e membras e membros, especialmente na análise de perfil e nos cursos de formação; 11 – supervisionar, orientar e avaliar estagiários ou residentes vinculados à área de Serviço Social; 12 – realizar visitas domiciliares ou institucionais, sempre que necessário ao desempenho de suas atribuições; 13 – participar de programas de capacitação, grupos de trabalho e comissões, contribuindo com conhecimentos técnicos da área de Serviço Social; 14 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA EM TECNOLOGIA DA INFORMAÇÃO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Engenharia de Software ou outro curso superior completo na área de Tecnologia da Informação reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática avançada.<br>
+| Habilitação Profissional | Conclusão de curso superior em Ciência da Computação, Sistemas de Informação, Engenharia da Computação, Engenharia de Software ou outro curso superior completo na área de Tecnologia da Informação reconhecido pelo Ministério da Educação (MEC).
+
+Registro no respectivo órgão fiscalizador ou conselho profissional específico, se houver exigência legal.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática avançada.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior na área de tecnologia da informação, envolvendo análise, planejamento, desenvolvimento, implantação, suporte e manutenção de sistemas de informação; administração de infraestrutura tecnológica, banco de dados, segurança da informação e redes de computadores; atendimento a usuários, bem como assessoramento técnico à Administração Superior e aos órgãos de execução do Ministério Público. |
 | Descrição Exemplificativa | 1 – participar do planejamento, execução, monitoramento e avaliação de planos, programas, projetos e pesquisas da área de tecnologia da informação e comunicação; 2 – atuar nas seguintes áreas especializadas: Programação de Sistemas – desenvolver e manter sistemas computacionais; realizar análise e levantamento de requisitos junto aos usuários; documentar os sistemas em conjunto com os usuários e as áreas competentes; aplicar metodologias de engenharia de software; analisar e avaliar diagramas, estruturas, entradas e saídas; realizar testes e testes paralelos, avaliando rotinas de produção; identificar, junto ao usuário, necessidades de alteração dos sistemas; elaborar documentação técnica e de usuários; gerenciar versões e mudanças; apoiar a implantação e realizar treinamento de usuários; b) Infraestrutura e Suporte – planejar, implantar, configurar, monitorar e manter ambientes computacionais, compreendendo hardware, sistemas operacionais, redes de computadores, servidores físicos e virtuais; prestar suporte técnico a usuários; controlar recursos computacionais e realizar análise de desempenho e disponibilidade; c) Redes e Segurança da Informação – projetar, implantar e administrar redes de computadores e serviços de comunicação de dados; definir padrões e políticas de segurança da informação; implementar e gerenciar mecanismos de proteção e recuperação de dados; controle de acessos; criptografia; auditoria e resposta a incidentes; d) Datacenter e Continuidade de Serviços – gerenciar e manter ambientes de datacenter, incluindo servidores, clusters, balanceadores de carga, soluções de contingência e continuidade de negócios; administrar infraestrutura de armazenamento e virtualização; e) Banco de Dados – projetar, administrar e manter bases de dados; gerenciar segurança, integridade, disponibilidade e desempenho; realizar backup e restauração; modelar dados; definir perfis de acesso e realizar tunning de SGBDs; 3 – emitir pareceres técnicos, realizar perícias e vistorias, elaborar relatórios técnicos e documentos correlatos; 4 – apoiar a formulação e a revisão de políticas institucionais de tecnologia da informação, bem como propor a adoção de padrões, processos, metodologias e ferramentas; 5 – propor métodos e normas de trabalho voltados ao aperfeiçoamento de rotinas dos usuários, observando a adequação técnica, a segurança da informação e a eficiência operacional; 6 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA JURÍDICO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Direito reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Direito reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior consistentes na execução de tarefas de apoio técnico-jurídico aos órgãos administrativos do Ministério Público, com ênfase na análise normativa, elaboração de documentos jurídicos e assessoramento na formulação de políticas institucionais. |
 | Descrição Exemplificativa | 1 – participar do planejamento, execução e avaliação de planos, programas, projetos e pesquisas institucionais no campo jurídico e administrativo; 2 – analisar processos judiciais, procedimentos extrajudiciais e administrativos, emitindo informações técnicas e propostas de manifestação; 3 – minutar despachos, decisões, pareceres, manifestações, peças processuais, recursos e outros documentos jurídicos; 4 – prestar assessoramento técnico-jurídico à Administração Superior e aos órgãos de execução na definição de políticas institucionais e estratégicas; 5 – elaborar relatórios, notas técnicas e estudos jurídicos destinados à formulação de planos, programas e projetos relacionados à sua área de atuação; 6 – realizar pesquisas jurisprudenciais, doutrinárias e legislativas, sistematizando e atualizando informações de interesse institucional; 7 – auxiliar na elaboração e revisão de minutas de projetos de lei, atos normativos e regulamentos institucionais; 8 – organizar e manter atualizados arquivos e bancos de dados jurídicos e normativos; 9 – acompanhar a tramitação de processos judiciais, extrajudiciais e administrativos, prestando apoio jurídico às unidades administrativas do Ministério Público; 10 – exercer atividade consultiva junto aos órgãos da Instituição, promovendo a análise técnica de matérias jurídicas de interesse institucional; 11 – manter contato com órgãos públicos, entidades privadas e demais instituições, conforme orientação da chefia imediata; 12 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ANALISTA LEGISLATIVO |
 | --- |
-| Habilitação Profissional | Conclusão de curso superior em Direito reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Conclusão de curso superior em Direito reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível superior de grande complexidade relacionadas à pesquisa, análise e assessoramento técnico-jurídico em matérias legislativas e normativas de interesse institucional, bem como à organização de acervos legislativos e jurisprudenciais. |
@@ -1077,75 +1196,96 @@ Ser aprovado em concurso público. |
 | Descrição Exemplificativa | 1 – participar do planejamento, execução e avaliação de planos, programas, projetos e pesquisas voltados ao aprimoramento normativo e legislativo da Instituição; 2 – prestar assessoramento técnico-jurídico na elaboração, revisão e consolidação de atos normativos internos, bem como na redação de minutas de projetos de lei, decretos, resoluções e proposições correlatas; 3 – acompanhar a tramitação de proposições legislativas de interesse do Ministério Público nos âmbitos federal, estadual e municipal, realizando análises técnicas e pareceres; 4 – compilar, atualizar, classificar e divulgar normas constitucionais, legais, infralegais e regulamentares de interesse institucional; 5 – organizar, manter e atualizar banco de dados legislativos e acervo jurisprudencial relevante à atuação institucional, promovendo a sistematização de informações normativas e decisórias; 6 – atender a consultas formuladas por membras e membros, órgãos da Administração ou Centros de Apoio, elaborando notas técnicas, estudos comparativos e análises normativas; 7 – promover o intercâmbio técnico com casas legislativas, órgãos de controle, tribunais e demais instituições jurídicas ou normativas; 8 – realizar análises jurídicas e técnicas para subsidiar a formulação de políticas institucionais e a atuação estratégica do Ministério Público em matérias legislativas; 9 – participar da elaboração de relatórios, painéis temáticos, pareceres técnicos e estudos sobre impacto normativo e adequação legislativa; 10 – colaborar com comissões temáticas, grupos de trabalho e iniciativas institucionais voltadas ao aperfeiçoamento legislativo e normativo; 11 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 | --- | --- |
 
-ANEXO XV<br>
-ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL MÉDIO<br>
+ANEXO XV
+
+ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL MÉDIO
+
 TÉCNICO(A) MINISTERIAL – ÁREA DE APOIO
 
 | TÉCNICO(A) MINISTERIAL – ÁREA DE APOIO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
-Ser aprovado em concurso público.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
+Ser aprovado em concurso público.
+
 Possuir Carteira Nacional de Habilitação, categoria B, válida. |
 | Descrição Sumária das Tarefas | Desenvolver atividades de nível médio, prestando suporte técnico- administrativo às unidades ministeriais e administrativas, atuando no protocolo, organização e tramitação de documentos e processos; atendimento ao público interno e externo; controle de agendas, prazos, materiais e patrimônio; coleta e consolidação de dados para relatórios; condução de veículos oficiais; realizar diligências externas; e operação de sistemas e equipamentos, executando ainda outras tarefas afins determinadas pela chefia imediata. |
 | Descrição Exemplificativa | 1 – prestar suporte técnico-administrativo às unidades ministeriais e administrativas, executando atividades relativas às áreas de protocolo, arquivo, orçamento, finanças, pessoal, material, patrimônio, tecnologia da informação, órgãos colegiados, unidades ministeriais e controle interno; 2 – organizar, manter e atualizar arquivos e registros físicos e digitais da unidade, bem como realizar o controle de documentos e processos administrativos, judiciais e extrajudiciais; 3 – coletar, organizar, classificar e registrar dados e informações necessários à gestão administrativa e ao acompanhamento das atividades institucionais; 4 – redigir, digitar, revisar e expedir expedientes, ofícios, relatórios, comunicações internas e demais documentos administrativos; 5 – executar os procedimentos administrativos e operacionais necessários ao funcionamento da unidade, zelando pela correta tramitação de processos administrativos, judiciais e extrajudiciais, documentos e informações; 6 – atender ao público interno e externo, prestando informações, orientações e suporte às demandas institucionais, presencialmente, por telefone ou por meio eletrônico; 7 – organizar e manter atualizados a agenda e os contatos institucionais da unidade, bem como realizar o controle de prazos, compromissos e diligências; 8 – receber, expedir, acompanhar e controlar a movimentação de comunicações oficiais, processos, documentos e materiais; 9 – auxiliar na realização de audiências, reuniões, diligências internas e demais atos administrativos ou funcionais, inclusive secretariando diretamente as membras e os membros do Ministério Público em suas atividades institucionais; 10 – realizar diligências externas, quando determinado, bem como praticar atos de comunicação, tais como notificações, intimações, convocações e entrega ou recebimento de expedientes, documentos e materiais de interesse da unidade; 11 – acompanhar a membra e o membro do Ministério Público em deslocamentos institucionais, conduzindo veículo oficial; 12 – realizar o controle, recebimento, armazenamento e distribuição de materiais, equipamentos e bens patrimoniais da unidade, bem como zelar pela sua guarda e conservação; 13 – compilar, organizar e sistematizar dados e informações para elaboração de relatórios estatísticos, acompanhamento de indicadores e suporte às atividades de planejamento e gestão institucional; 14 – operar sistemas informatizados, equipamentos e ferramentas tecnológicas necessários ao desempenho de suas atividades; 15 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 ANEXO XVI
 
-ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL MÉDIO<br>
+ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL MÉDIO
+
 TÉCNICO(A) MINISTERIAL – ÁREA ESPECIALIZADA
 
 | TÉCNICO(A) EM ARQUIVO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio, com os requisitos do art. 1º, incisos III e V, da Lei Federal nº 6.546, de 04 de julho de 1978, reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no respectivo órgão fiscalizador ou conselho de classe, caso exista exigência legal.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio, com os requisitos do art. 1º, incisos III e V, da Lei Federal nº 6.546, de 04 de julho de 1978, reconhecido pelo Ministério da Educação (MEC).
+
+Registro no respectivo órgão fiscalizador ou conselho de classe, caso exista exigência legal.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Executar atividades de nível médio, de natureza técnico-operacional, relativas a recepção, organização, tramitação, controle, conservação e disponibilização de documentos e informações, prestando suporte à gestão documental da Instituição e à execução das rotinas dos arquivos correntes e intermediários. |
 | Descrição Exemplificativa | 1 – receber, registrar, classificar, distribuir, arquivar e controlar documentos físicos e digitais no âmbito da Instituição; 2 – executar rotinas de organização, arranjo, descrição, movimentação e recuperação de documentos e informações; 3 – prestar informações relativas ao acervo arquivístico, conforme normas de acesso e tramitação documental; 4 – auxiliar nas atividades de avaliação, seleção e eliminação de documentos, conforme diretrizes arquivísticas estabelecidas; 5 – preparar documentos para digitalização, microfilmagem ou outros processos de reprodução e conservação; 6 – operar equipamentos e sistemas informatizados relacionados à gestão de documentos e arquivos; 7 – zelar pela conservação, segurança, integridade e acondicionamento adequado dos documentos e materiais sob sua guarda; 8 – manter atualizados os registros, etiquetas, protocolos e bases de dados necessários ao controle do acervo; 9 – auxiliar no planejamento e na execução de rotinas e procedimentos de gestão documental em todas as unidades administrativas do Ministério Público; 10 – colaborar na implantação e aprimoramento de normas, rotinas e boas práticas de arquivamento institucional; 11 – realizar tarefas administrativas de apoio à tramitação documental e à gestão da unidade ou órgão de arquivo; 12 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | TÉCNICO(A) EM SEGURANÇA DO TRABALHO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio, com curso técnico em Segurança do Trabalho, nos termos da legislação vigente, reconhecido pelo Ministério da Educação (MEC).<br>
-Registro no respectivo órgão fiscalizador ou conselho de classe, caso exista exigência legal.<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio, com curso técnico em Segurança do Trabalho, nos termos da legislação vigente, reconhecido pelo Ministério da Educação (MEC).
+
+Registro no respectivo órgão fiscalizador ou conselho de classe, caso exista exigência legal.
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Executar atividades de nível médio, de natureza técnico-operacional, relativas à promoção da segurança e da higiene do trabalho, atuando na prevenção de acidentes e doenças ocupacionais, na análise e avaliação de riscos nos ambientes laborais, na orientação técnica aos integrantes e na implementação de programas e ações de caráter educativo, corretivo e preventivo, conforme as normas legais e institucionais vigentes. |
 | Descrição Exemplificativa | 1 – auxiliar no planejamento, execução e avaliação de planos, projetos, programas e pesquisas da Administração Superior do Ministério Público; 2 – informar à chefia imediata, mediante parecer técnico, sobre os riscos existentes nos ambientes de trabalho, bem como cientificá-la sobre as medidas de eliminação e neutralização; 3 – informar os integrantes sobre os riscos das atividades desempenhadas, bem como sobre as medidas de eliminação e neutralização; 4 – analisar métodos e processos de trabalho, identificar fatores de risco de acidentes, doenças profissionais e do trabalho e agentes ambientais agressivos, propondo sua eliminação ou controle; 5 – executar procedimentos de segurança e higiene do trabalho, avaliando os resultados e adequando estratégias utilizadas, de forma a integrar o processo prevencionista à planificação institucional; 6 – executar programas de prevenção de acidentes, doenças profissionais e do trabalho, com a participação dos integrantes, acompanhando, avaliando e propondo sua constante atualização; 7 – propor a realização de debates, encontros, campanhas, seminários, palestras, reuniões, treinamentos e outros recursos didáticos e pedagógicos para divulgação de normas de segurança e higiene do trabalho e assuntos correlatos; 8 – executar normas de segurança aplicáveis a projetos de construção, ampliação, reforma, arranjos físicos e de fluxos, com vistas à observância das medidas de segurança e higiene do trabalho, inclusive nos contratos com terceiros; 9 – encaminhar às áreas competentes normas, regulamentos, documentação, dados estatísticos, análises e materiais de apoio técnico e educacional para conhecimento e desenvolvimento dos integrantes; 10 – indicar, solicitar e inspecionar equipamentos de proteção contra incêndio, recursos audiovisuais e materiais didáticos, avaliando seu desempenho e conformidade com a legislação vigente; 11 – cooperar com as atividades relativas ao meio ambiente, orientando quanto ao tratamento e destinação de resíduos, incentivando e conscientizando os integrantes quanto à sua importância; 12 – orientar empresas contratadas quanto aos procedimentos de segurança e higiene do trabalho previstos na legislação e nos contratos de prestação de serviços; 13 – executar atividades ligadas à segurança e higiene do trabalho, utilizando métodos e técnicas científicas e observando os dispositivos legais e institucionais pertinentes; 14 – levantar e estudar dados estatísticos de acidentes do trabalho, doenças profissionais e do trabalho, calcular sua frequência e gravidade e propor ajustes às ações prevencionistas; 15 – articular-se e colaborar com setores de recursos humanos, fornecendo levantamentos técnicos de riscos das áreas e atividades para subsidiar medidas de prevenção; 16 – informar os integrantes e a Diretoria-Geral sobre atividades insalubres, perigosas e penosas, seus riscos específicos e as medidas ou alternativas de eliminação ou neutralização; 17 – avaliar as condições ambientais de trabalho e emitir parecer técnico para subsidiar o planejamento e a organização do trabalho seguro; 18 – propor articulação e colaboração com órgãos e entidades ligados à prevenção de acidentes, doenças profissionais e do trabalho; 19 – participar de seminários, treinamentos, congressos e cursos para intercâmbio e aperfeiçoamento profissional; 20 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | TÉCNICO(A) EM TECNOLOGIA DA INFORMAÇÃO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática avançada.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática avançada.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Executar atividades de nível médio, de natureza técnico-operacional, relacionadas à área de tecnologia da informação, compreendendo o desenvolvimento e a manutenção de programas de computador, codificação e testes de rotinas, apoio na elaboração de documentação técnica, suporte a usuários e a analistas em tecnologia da informação, bem como a participação em projetos, treinamentos e ações institucionais voltadas à informatização e modernização dos processos de trabalho. |
 | Descrição Exemplificativa | 1 – auxiliar no planejamento, execução e avaliação de planos, projetos, programas e pesquisas da Administração Superior do Ministério Público no âmbito da tecnologia da informação; 2 – desenvolver e manter programas e sistemas computacionais, com base em especificações fornecidas por analistas em tecnologia da informação ou conforme orientação da chefia; 3 – realizar a codificação, testes, depuração e validação de rotinas e aplicações em linguagem de programação; 4 – participar da elaboração e atualização de manuais, diagramas e documentação técnica dos sistemas desenvolvidos; 5 – prestar suporte técnico a usuários internos, orientando quanto ao uso correto dos sistemas e equipamentos; 6 – colaborar na instalação, configuração e atualização de softwares institucionais; 7 – auxiliar os analistas em tecnologia da informação na definição de funcionalidades, requisitos e fluxos dos sistemas em desenvolvimento; 8 – participar de ações de capacitação, treinamentos e suporte técnico- operacional a usuários; 9 – elaborar pareceres, relatórios e laudos técnicos simples, quando solicitado por órgãos de execução do Ministério Público ou Centros de Apoio, no limite de sua competência técnica; 10 – atuar, quando designado, no apoio técnico à realização de vistorias e perícias na área de tecnologia da informação, sob supervisão de profissional legalmente habilitado, respeitados os limites de sua formação e atribuições; 11 – zelar pela conservação, guarda e utilização adequada dos equipamentos, ferramentas e recursos tecnológicos; 12 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 ANEXO XVII
 
-ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL MÉDIO EM EXTINÇÃO<br>
+ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL MÉDIO EM EXTINÇÃO
+
 (Quadro em extinção, cujos cargos, quando vagos, serão transformados em Técnico(a) Ministerial – Área de Apoio, nos termos do art. 29 desta Lei, ou extintos por vacância, conforme a [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
 
 | ASSISTENTE ADMINISTRATIVO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Prestar apoio administrativo amplo à Administração Superior do Ministério Público, colaborando no planejamento, execução e avaliação de projetos institucionais, gerindo rotinas, dados, recursos materiais e tecnológicos das áreas administrativas, além de executar outras atribuições determinadas pela chefia. |
 | Descrição Exemplificativa | 1 – auxiliar no planejamento, execução e avaliação de planos, projetos, programas e pesquisas da Administração Superior do Ministério Público; 2 – executar tarefas administrativas para gestão das áreas administrativas da Procuradoria-Geral de Justiça (protocolo, arquivo, orçamento, finanças, pessoal, material, patrimônio, informática, órgãos colegiados, controladoria), aplicando princípios de organização e métodos; 3 – coletar, classificar e registrar dados da atuação do Ministério Público nas áreas meio e fim; 4 – zelar pelos equipamentos e materiais da unidade ou órgão, de acordo com o controle de estoque e tombamento; 5 – operar equipamentos diversos necessários ao desempenho de suas tarefas; 6 – gerir as rotinas burocráticas da unidade ou órgão; 7 – executar outras atividades afins; 8 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | ASSISTENTE RECEPCIONISTA (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Atuar na recepção e no apoio administrativo à Administração Superior do Ministério Público, recepcionando visitantes, prestando atendimento ao público, gerindo processos, documentos e recursos da Procuradoria-Geral de Justiça, além de executar demais atribuições determinadas pela chefia. |
 | Descrição Exemplificativa | 1 – auxiliar no planejamento, execução e avaliação de planos, projetos, programas e pesquisas da Administração Superior do Ministério Público; 2 – executar tarefas administrativas para gestão das áreas administrativas da Procuradoria-Geral de Justiça, recepcionando, acompanhando e encaminhando pessoas em visita, assegurando atendimento eficaz àqueles que procuram os órgãos de administração do Ministério Público; 3 – auxiliar no atendimento ao público; 4 – receber, autuar e controlar a tramitação de processos administrativos e judiciais relacionados à unidade ou órgão, cumprindo despachos e registrando-os devidamente; 5 – organizar, preencher e manter atualizados os registros obrigatórios da unidade ou órgão em sistemas informatizados de gestão documental e processual; 6 – controlar a emissão e o recebimento de expedientes; 7 – organizar o arquivo da unidade ou órgão; 8 – redigir ou digitar documentos diversos; 9 – gerir a comunicação eletrônica da unidade ou órgão, incluindo e-mails, mensagens instantâneas e outras plataformas digitais; 10 – auxiliar na realização de diligências e audiências; 11 – organizar agenda e contatos de interesse da unidade ou órgão, com os devidos registros; 12 – zelar pelos equipamentos e materiais da unidade ou órgão, mantendo controle de estoque e tombamento; 13 – operar equipamentos diversos necessários ao desempenho de suas tarefas; 14 – gerir as rotinas burocráticas da unidade ou órgão; 15 – executar outras atividades afins; 16 – executar outras atividades correlatas, conforme necessidade institucional ou a critério da chefia imediata ou da Administração Superior. |
 
 | SECRETÁRIO(A) ASSISTENTE |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio, reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Médio, reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Prestar apoio administrativo amplo à Administração Superior do Ministério Público, colaborando no planejamento, execução e monitoramento de projetos institucionais, gerindo rotinas burocráticas, atendimento ao público, tramitação de processos, documentação, patrimônio, equipamentos e comunicações oficiais, bem como executando quaisquer outras atribuições determinadas pela chefia. |
@@ -1155,19 +1295,22 @@ Ser aprovado em concurso público. |
 
 ANEXO XVIII
 
-ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL FUNDAMENTAL EM EXTINÇÃO<br>
+ATRIBUIÇÕES DOS CARGOS EFETIVOS DE NÍVEL FUNDAMENTAL EM EXTINÇÃO
+
 (Quadro em extinção, cujos cargos, quando vagos, serão transformados nos termos do art. 28 desta Lei ou extintos por vacância, conforme a [Lei nº 19.267](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98577), de 28 de abril de 2016)
 
 | ARTÍFICE DE ELETRICIDADE (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC), com conhecimento técnico em instalações elétricas prediais de baixa complexidade.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC), com conhecimento técnico em instalações elétricas prediais de baixa complexidade.
+
 Ser aprovado em concurso público. |
 | Descrição Sumária das Tarefas | Executar serviços de instalação, manutenção e reparo em sistemas e equipamentos elétricos, zelando pelo funcionamento das unidades administrativas. |
 | Descrição Exemplificativa | 1 – instalar e substituir tomadas, interruptores, lâmpadas e pequenos quadros elétricos; 2 – realizar reparos simples em fiação e circuitos; 3 – apoiar técnicos e engenheiros em serviços de maior complexidade; 4 – inspecionar periodicamente instalações para identificar falhas; 5 – executar outras tarefas correlatas, conforme determinação da chefia imediata. |
 
 | ARTÍFICE DE MARCENARIA (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC), com conhecimento técnico em trabalhos de marcenaria.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC), com conhecimento técnico em trabalhos de marcenaria.
+
 Ser aprovado em concurso público |
 | --- | --- |
 | Descrição Sumária das Tarefas | Executar serviços de confecção, montagem, reparo e conservação de móveis e estruturas de madeira. |
@@ -1177,7 +1320,8 @@ Ser aprovado em concurso público |
 
 | ARTÍFICE DE MECÂNICA DE VEÍCULOS |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental, reconhecido pelo Ministério da Educação (MEC), com conhecimento técnico em mecânica de veículos leves. Possuir Carteira Nacional de Habilitação, categorias B e D, válida.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental, reconhecido pelo Ministério da Educação (MEC), com conhecimento técnico em mecânica de veículos leves. Possuir Carteira Nacional de Habilitação, categorias B e D, válida.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Executar serviços básicos de manutenção preventiva e corretiva em veículos da instituição. |
@@ -1187,8 +1331,10 @@ Ser aprovado em concurso público. |
 
 | AUXILIAR ADMINISTRATIVO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Executar atividades de apoio administrativo, sob supervisão da chefia imediata, envolvendo a organização, registro, tramitação e guarda de documentos, o atendimento a usuários internos e externos, o controle e distribuição de materiais, bem como a operação de equipamentos de uso administrativo, visando assegurar a regularidade e eficiência das rotinas da unidade de lotação. |
@@ -1198,7 +1344,8 @@ Ser aprovado em concurso público. |
 
 | AUXILIAR DE COPA (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Executar atividades de apoio em copa, preparo e distribuição de bebidas e lanches, mantendo a organização do ambiente. |
@@ -1208,7 +1355,8 @@ Ser aprovado em concurso público. |
 
 | AUXILIAR DE SEGURANÇA (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Auxiliar na vigilância patrimonial e no controle de acesso de pessoas às dependências institucionais. |
@@ -1218,8 +1366,10 @@ Ser aprovado em concurso público. |
 
 | AUXILIAR MOTORISTA (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
-Possuir Carteira Nacional de Habilitação, categorias B e D, válida.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
+Possuir Carteira Nacional de Habilitação, categorias B e D, válida.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Dirigir veículos oficiais do Ministério Público, realizando transporte de membros, servidores, materiais, equipamentos e documentos, bem como prestar apoio em atividades administrativas e diligências externas, zelando pela conservação do veículo e pelo cumprimento das ordens da chefia imediata. |
@@ -1229,7 +1379,8 @@ Ser aprovado em concurso público. |
 
 | AUXILIAR PORTEIRO (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Controlar a entrada e saída de pessoas e bens nas dependências da instituição, prestando informações. |
@@ -1239,7 +1390,8 @@ Ser aprovado em concurso público. |
 
 | AUXILIAR TELEFONISTA (Vide Lei nº 19.267, de 28 de abril de 2016) |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
 Ser aprovado em concurso público |
 | --- | --- |
 | Descrição Sumária das Tarefas | Operar equipamentos de telefonia, recepcionando chamadas e encaminhando comunicações. |
@@ -1249,9 +1401,12 @@ Ser aprovado em concurso público |
 
 | OFICIAL(A) DO MINISTÉRIO PÚBLICO |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
-Possuir Carteira Nacional de Habilitação, categoria B, válida.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
+Possuir Carteira Nacional de Habilitação, categoria B, válida.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Executar atividades de apoio operacional e administrativo nas Promotorias de Justiça, incluindo a entrega e recebimento de documentos, realização de diligências, intimações e notificações, condução de veículos oficiais, atendimento ao público, guarda de materiais e substituição eventual do secretário(a) auxiliar, conforme determinação da chefia imediata. |
@@ -1261,8 +1416,10 @@ Ser aprovado em concurso público. |
 
 | SECRETÁRIO(A) AUXILIAR |
 | --- |
-| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).<br>
-Conhecimentos de legislação afeta ao Ministério Público e informática.<br>
+| Habilitação Profissional | Portador de certificado de conclusão do Ensino Fundamental reconhecido pelo Ministério da Educação (MEC).
+
+Conhecimentos de legislação afeta ao Ministério Público e informática.
+
 Ser aprovado em concurso público. |
 | --- | --- |
 | Descrição Sumária das Tarefas | Executar atividades de apoio administrativo e de secretaria nas Promotorias de Justiça e demais unidades do Ministério Público, incluindo atendimento ao público, controle de processos, redação de documentos, organização de arquivos e registros oficiais, auxílio em diligências e audiências, bem como apoio direto às membras e aos membros da Instituição no desempenho de suas funções. |

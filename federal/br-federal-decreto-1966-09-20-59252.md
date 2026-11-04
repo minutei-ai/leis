@@ -1,5 +1,3 @@
-###DEC-059252-0-000-20-09-1966@@@
-
 DECRETO Nº 59.252, DE 20 DE SETEMBRO DE 1966.
 
 Abre ao Ministério da Educação e Cultura o Crédito especial de Cr$974.313.628 (novecentos e setenta e quatro milhões, trezentos e treze mil, seiscentos e trinta e oito cruzeiros), para atender a diversas despesas.

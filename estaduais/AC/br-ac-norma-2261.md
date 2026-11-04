@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.376, de 11 de Julho de 2024.](https://legis.ac.gov.br
 
 > **LEI Nº 3.492, DE 02 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a celebração de parcerias de incentivo à atividade laboral no sistema prisional do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a celebração de parcerias de incentivo à atividade laboral no sistema prisional do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -26,13 +30,11 @@ Modificada pela Lei nº [4.376, de 11 de Julho de 2024.](https://legis.ac.gov.br
 
 **~~IV -~~** ~~vinte e cinco por cento ao ressarcimento ao Estado das despesas realizadas com a manutenção do preso, valor que deverá ser depositado na conta do fundo rotativo vinculado ao IAPEN/AC.~~
 
-**IV -** vinte e cinco por cento ao Estado a título de ressarcimento das despesas realizadas com a manutenção do preso, devendo o valor ser depositado na conta do Fundo Penitenciário do Estado do Acre - FUNPENACRE. (Redação dada pela Lei nº 4.376, de 11/07/2024)<br>
+**IV -** vinte e cinco por cento ao Estado a título de ressarcimento das despesas realizadas com a manutenção do preso, devendo o valor ser depositado na conta do Fundo Penitenciário do Estado do Acre - FUNPENACRE. (Redação dada pela Lei nº 4.376, de 11/07/2024)
 
 **Parágrafo único.** Dos percentuais de que tratam os incisos I e II do **caput** deste artigo poderá ser deduzida a indenização, quando fixada judicialmente, dos danos causados pelo crime, desde que não reparados por outros meios.
 
 **Art. 5º** Ficam incorporadas ao patrimônio do Estado todas as benfeitorias realizadas no interior das unidades prisionais pelas parceiras, sem que elas tenham direito a indenização, quando da rescisão das parcerias de que trata esta lei.
-
-<br>
 
 **Art. 6º** As parcerias de que trata esta lei terão prazo de até sessenta meses, sem prejuízo de eventual renovação.
 

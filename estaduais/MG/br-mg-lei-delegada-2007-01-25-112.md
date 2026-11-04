@@ -983,7 +983,3 @@ II – a Lei Delegada nº 49, de 2 de janeiro de 2003.
 Palácio da Liberdade, em Belo Horizonte, aos 25 de janeiro de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.
 
 AÉCIO NEVES – Governador do Estado
-
-\===================
-
-Data da última atualização: 29/7/2016.

@@ -1,24 +1,22 @@
-###DEC-025660-0-000-13-10-1948@@@
+**DECRETO Nº 25.660, DE 13 DE OUTUBRO DE 1948.**
 
-<strong>DECRETO Nº 25.660, DE 13 DE OUTUBRO DE 1948.</strong>
+***Manda executar o Tratado Interamericano de Assistência Recíproca, firmado no Rio de Janeiro, a 2 de setembro de 1947, por ocasião da Conferência Interamericana para a Manutenção da Paz e da Segurança no COntinente.***
 
-<em><strong>Manda executar o Tratado Interamericano de Assistência Recíproca, firmado no Rio de Janeiro, a 2 de setembro de 1947, por ocasião da Conferência Interamericana para a Manutenção da Paz e da Segurança no COntinente.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL:</strong>
+**O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL:**
 
 TENDO o Congresso Nacional aprovado pelo Decreto Legislativo n.º 5, de 14 de fevereiro de 1948, o Tratado Interamericano de Assistência Recíproca, firmado no Rio de Janeiro, a 2 de setembro de 1947, entre o Brasil e diversos países; e havendo sido depositado na União Pan-americana, a 25 de março de 1948, o instrumento brasileiro de ratificação do referido Tratado:
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Que o mesmo, apenso por cópia ao presente Decreto, seja executado e cumprido tão inteiramente como nêle se contém.
 
 Rio de Janeiro, 13 de outubro de 1948, 127.º da Independência e 60.º da Republica.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Hildebrando Accioly.
 
-<strong>EURICO GASPAR DUTRA, PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL,</strong>
+**EURICO GASPAR DUTRA, PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL,**
 
 Faço saber, aos que a presente Carta de ratificação virem, que, por ocasião da Conferência Interamericana para a Manutenção da Paz e da Segurança no COntinente, foi celebrado, no Rio de Janeiro, a 2 de setembro de 1947, entre o Brasil e diversos países, o Tratado Interamericano de Assistência Recíproca, do teor seguinte:
 
@@ -74,7 +72,7 @@ Se a inviolabilidade ou integridade do território ou a soberania ou independên
 
 ARTIGO 7.º
 
-Em caso de conflito entre dois ou mais Estados Americanos, sem prejuízo do direito de legítima defesa, de conformidade com o Artigo 51 da Carta das Nações Unidas, as Altas Partes Contratantes reunidas em consulta instarão com os Estados em litígio para que suspendam as hostilidades e restaurem o <em>statu quo ante bellum,</em>  e tomarão, além disso, tôdas as outras medidas necessárias para se restabelecer  ou manter a paz e a segurança interamericanas, e par que o conflito seja resolvido por meios pacíficos. A recusa da ação pacificadora será levada em conta na determinação do agressor e na aplicação imediata, das medidas que se acordarem na reunião de consulta.
+Em caso de conflito entre dois ou mais Estados Americanos, sem prejuízo do direito de legítima defesa, de conformidade com o Artigo 51 da Carta das Nações Unidas, as Altas Partes Contratantes reunidas em consulta instarão com os Estados em litígio para que suspendam as hostilidades e restaurem o *statu quo ante bellum,*  e tomarão, além disso, tôdas as outras medidas necessárias para se restabelecer  ou manter a paz e a segurança interamericanas, e par que o conflito seja resolvido por meios pacíficos. A recusa da ação pacificadora será levada em conta na determinação do agressor e na aplicação imediata, das medidas que se acordarem na reunião de consulta.
 
 artigo 8.º
 
@@ -126,7 +124,7 @@ Quando se tratar de uma situação ou disputa entre Estados americanos, serão e
 
 ARTIGO 19
 
-Para constituir <em>quorum,</em> em tôdas as reuniões a que se referem os Artigos anteriores, se exigirá que o número dos Estados representados seja pelo menos igual ao número de votos necessários para adotar a respectiva decisão.
+Para constituir *quorum,* em tôdas as reuniões a que se referem os Artigos anteriores, se exigirá que o número dos Estados representados seja pelo menos igual ao número de votos necessários para adotar a respectiva decisão.
 
 ARTIGO 20
 
@@ -216,7 +214,7 @@ Si la inviolabilidad o la integridad del territorio o la soberanía o la indepen
 
 ARTÍCULO 7.º
 
-En caso de conflicto entre dos o más Estados Americanos, sin perjuicio del derecho de legítima defensa, de conformidad con el Artículo 51 de la Carta de las Naciones Unidas, las Altas Partes Contratantes reunidas en consulta instarán a los Estados contendientes a suspender las hostilidades y a restablecer las cosas al <em>statu quo ante bellum</em>  y tomarán además, todas las otras medidas necesarias para restablecer o mantener la paz y la seguridad interamericanas, y para la solución del conflicto por medios pacíficos. El rechazo de la acción pacificadora será considerado para determinación del agresor y la aplicación inmediata de las medidas que se acuerden en la reunión de consulta.
+En caso de conflicto entre dos o más Estados Americanos, sin perjuicio del derecho de legítima defensa, de conformidad con el Artículo 51 de la Carta de las Naciones Unidas, las Altas Partes Contratantes reunidas en consulta instarán a los Estados contendientes a suspender las hostilidades y a restablecer las cosas al *statu quo ante bellum*  y tomarán además, todas las otras medidas necesarias para restablecer o mantener la paz y la seguridad interamericanas, y para la solución del conflicto por medios pacíficos. El rechazo de la acción pacificadora será considerado para determinación del agresor y la aplicación inmediata de las medidas que se acuerden en la reunión de consulta.
 
 ARTÍCULO 8.º
 
@@ -268,7 +266,7 @@ Cuando se trata de una situación o disputa entre Estados Americanos serán excl
 
 ARTÍCULO 19
 
-Para constituir <em>quorum</em> en todas las reuniones a que se refieren los Artículos anteriores se exigirá que el número de los Estados representados sea por lo menos igual al número de votos necesarios para adoptar la respectiva decisión.
+Para constituir *quorum* en todas las reuniones a que se refieren los Artículos anteriores se exigirá que el número de los Estados representados sea por lo menos igual al número de votos necesarios para adoptar la respectiva decisión.
 
 ARTÍCULO 20
 
@@ -358,7 +356,7 @@ Si l’inviolabilité ou l’intègrité du territoire, la souverainité ou l’
 
 ARTICLE 7
 
-En cas de conflit entre deux ou plusieurs États Américains, sans préjudice du droit de légitime défense, conformément à la Article 51 de la Charte des Nations Unies, les Hautes Parties Contractants réunies en consulation, exhorteront les États belligérants à suspendre les hostilités et à revenir au <em>statu quo ante bellum</em> ; elles prendront, en outre, toutes mesures nécessaires au rétablissement ou ao maintien de la paix et de la sécurité interaméricaines, et à la solution de confit par des moyens pacifiques. Les refus de l’action pacificatrice sera consideré pour la détermination de l’agresseur et l’application immédiate des mesures étabiles par la réunion de consultation.
+En cas de conflit entre deux ou plusieurs États Américains, sans préjudice du droit de légitime défense, conformément à la Article 51 de la Charte des Nations Unies, les Hautes Parties Contractants réunies en consulation, exhorteront les États belligérants à suspendre les hostilités et à revenir au *statu quo ante bellum* ; elles prendront, en outre, toutes mesures nécessaires au rétablissement ou ao maintien de la paix et de la sécurité interaméricaines, et à la solution de confit par des moyens pacifiques. Les refus de l’action pacificatrice sera consideré pour la détermination de l’agresseur et l’application immédiate des mesures étabiles par la réunion de consultation.
 
 ARTICLE 8
 
@@ -410,7 +408,7 @@ Lorsqu’il s’agit d’une situation ou d’un différend entre états Améric
 
 ARTICLE 19
 
-Pour former le <em>quorum</em>, dans toutes les réunions auxquelles se réfèrent les Articles précédents, il faudra que le nombre des États représentés soit au moins égal à celui des votes nécessaires pour adopter la décision en question.
+Pour former le *quorum*, dans toutes les réunions auxquelles se réfèrent les Articles précédents, il faudra que le nombre des États représentés soit au moins égal à celui des votes nécessaires pour adopter la décision en question.
 
 ARTICLE 20
 
@@ -500,7 +498,7 @@ If the inviolability or the integrity of the territory or the sovereignty or pol
 
 ARTICLE 7
 
-In the case of a conflict between two or more American States,  without prejudice to the right of self-defense in conformity with Article 51 of the Charter of the United Nations, the High Contracting Parties, meeting in consultation shall call upon the contending States to suspend hostilities and restore matters to the <em>statu quo ante bellum</em>, and shall take in addition all other necessary measures to reestablish or maintain inter-American peace and security and for the solution of the conflict by peaceful means. The rejection of the pacivying action will be considered in the determination of the agressor and in the application of the measures which the consultative meeting may agree upon.
+In the case of a conflict between two or more American States,  without prejudice to the right of self-defense in conformity with Article 51 of the Charter of the United Nations, the High Contracting Parties, meeting in consultation shall call upon the contending States to suspend hostilities and restore matters to the *statu quo ante bellum*, and shall take in addition all other necessary measures to reestablish or maintain inter-American peace and security and for the solution of the conflict by peaceful means. The rejection of the pacivying action will be considered in the determination of the agressor and in the application of the measures which the consultative meeting may agree upon.
 
 ARTICLE 8
 
@@ -874,6 +872,6 @@ Em firmeza do que, mandei passar esta Carta que assino e é selada com o sêlo d
 
 Dada no Palácio da Presidência, no Rio de Janeiro, aos cinco dias do mês de março de mil novecentos e quarenta e oito, 127.º da Independência e 60.º da República.
 
-<strong>EURICO GASPAR DUTRA</strong>
+**EURICO GASPAR DUTRA**
 
 Raul Fernandes

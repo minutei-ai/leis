@@ -1,5 +1,3 @@
-###DEC-064640-0-000-03-06-1969@@@
-
 DECRETO Nº 64.640, DE 3 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 17.265 de 29 de novembro de 1944.

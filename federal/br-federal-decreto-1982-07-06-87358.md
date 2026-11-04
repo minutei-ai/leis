@@ -1,5 +1,3 @@
-###DEC-087358-0-000-06-07-1982@@@
-
 Decreto nº 87.358, de 06 de julho de 1982
 
 Autoriza a Petrobrás Fertilizantes S.A. - PETROFÉRTIL a proceder ao aumento do limite de seu Capital Social.

@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 481/2024 - Economia
 
-O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392/lei-22536), de 9 de Janeiro de 2024, conforme Processo nº 202400004035893.<br>
+O **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "a" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392/lei-22536), de 9 de Janeiro de 2024, conforme Processo nº 202400004035893.
 
 **RESOLVE:**
 
@@ -12,18 +12,18 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 22 dias do mês de Agosto de 2024.
 
-<br>
-
 FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| **4200 - SECRETARIA DE ESTADO DA RETOMADA<br>
+| **4200 - SECRETARIA DE ESTADO DA RETOMADA
+
 4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA** |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
-| REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA | 11 691 1054 3.254 | 15000100 | 50 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$<br>
+| REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA | 11 691 1054 3.254 | 15000100 | 50 | 3 - OUTRAS DESPESAS CORRENTES | R$ 0,00 | R$
+
 225.050,00 | R$ 225.050,00 |
 | **TOTAL A SUPLEMENTAR POR FONTE** |
 | 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 225.050,00 |
@@ -33,7 +33,8 @@ QUADRO 2
 
 | REDUÇÃO |
 | --- |
-| **4200 - SECRETARIA DE ESTADO DA RETOMADA<br>
+| **4200 - SECRETARIA DE ESTADO DA RETOMADA
+
 4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA** |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | GESTÃO E MANUTENÇÃO DAS ATIVIDADES | 04 122 4200 4.243 | 15000100 | 90 | 4 - INVESTIMENTOS | R$ 4.185.397,08 | R$ 225.050,00 | R$ 225.050,00 |

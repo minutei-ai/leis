@@ -1,5 +1,3 @@
-###DEL-006267-0-000-11-02-1944@@@
-
 DECRETO-LEI N. 6.267 – DE 11 DE FEVEREIRO DE 1944
 
 Cria uma coletoria federal no município de Andradina, no Estado de São Paulo, e dá outras providências

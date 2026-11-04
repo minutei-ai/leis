@@ -1,5 +1,3 @@
-###DEC-046737-0-000-26-08-1959@@@
-
 DECRETO Nº 46.737, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro José da Silva Miranda a pesquisar ametista no município de Sento Sé, Estado da Bahia.

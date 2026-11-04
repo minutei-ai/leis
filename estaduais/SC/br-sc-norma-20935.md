@@ -26,6 +26,26 @@ ANEXO ÚNICO
 
 BENS PÚBLICOS – INTRAMUNICÍPIOS
 
-<table><tbody><tr><td><p>.....</p></td><td><p>......................................................................................</p></td><td><p>...............................</p></td></tr><tr><td><p></p></td><td><p>CAMPO BELO DO SUL</p></td><td><p>LEI ORIGINAL Nº</p></td></tr><tr><td><p>1</p></td><td><p>Denomina Padre Edilson José de Souza a Rodovia SC-390, trecho compreendido entre os Municípios de Capão Alto e Campo Belo do Sul</p></td><td><p>17.401, de 2017</p></td></tr><tr><td><p>.....</p></td><td><p>......................................................................................</p></td><td><p>.................................</p></td></tr></tbody></table>
+.....
+
+......................................................................................
+
+...............................
+
+CAMPO BELO DO SUL
+
+LEI ORIGINAL Nº
+
+1
+
+Denomina Padre Edilson José de Souza a Rodovia SC-390, trecho compreendido entre os Municípios de Capão Alto e Campo Belo do Sul
+
+17.401, de 2017
+
+.....
+
+......................................................................................
+
+.................................
 
 ” (NR)

@@ -1,5 +1,3 @@
-###DEC-046801-0-000-10-09-1959@@@
-
 DECRETO Nº 46.801, DE 10 DE SETEMBRO DE 1959.
 
 Concede à sociedade Transportes Marítimos São Jerônimo Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

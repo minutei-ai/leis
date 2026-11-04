@@ -1,5 +1,3 @@
-###DEC-094044-0-000-20-02-1987@@@
-
 DECRETO Nº 94.044, DE 20 DE FEVEREIRO DE 1987.
 
 Dispõe sobre a execução do Sétimo Protocolo Modificativo do Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre Brasil e Uruguai (Acordo nº 35).
@@ -38,7 +36,25 @@ Os Plenipotenciários da República Federativa do Brasil e da República Federat
 
 Artigo 1º. - Modificar as preferências outorgadas pela República Federativa do Brasil para a importação dos seguintes produtos da seguinte maneira:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NALADI 10.03.0.01 -</span></p></td><td style="width:114.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cevada (inclusive as variedades chamadas “nuas”</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">P.P.: 100% -</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quota anual: toneladas</span></p></td><td style="width:42.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30.000</span></p></td></tr><tr><td style="width:95.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NALADI 11.07.0.01 -</span></p></td><td style="width:114.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cevada malteada em grão, inclusive a cevada cervejeira</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">P.P.: 100% -</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quota anual: toneladas</span></p></td><td style="width:42.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">55.000</span></p></td></tr></tbody></table>
+NALADI 10.03.0.01 -
+
+Cevada (inclusive as variedades chamadas “nuas”
+
+P.P.: 100% -
+
+Quota anual: toneladas
+
+30.000
+
+NALADI 11.07.0.01 -
+
+Cevada malteada em grão, inclusive a cevada cervejeira
+
+P.P.: 100% -
+
+Quota anual: toneladas
+
+55.000
 
 Artigo 2º. - Ampliar a lista de mercadorias negociadas pela República Oriental do Uruguai com a inclusão do produto denominado “Ônibus urbanos, montados, sem câmaras nem pneus”, classificados no item 87.02.2.99 da NALADI, nas seguintes condições:
 

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212845)<br>
-
 # DECRETO N° 70.761, DE 17 DE JULHO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título oneroso e por prazo determinado, área do Complexo Aeroportuário Campo de Marte, de propriedade da União, localizado no Município de São Paulo._

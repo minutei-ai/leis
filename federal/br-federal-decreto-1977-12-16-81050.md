@@ -1,5 +1,3 @@
-###DEC-081050-0-000-16-12-1977@@@
-
 decreto nº 81.050, de 16 de dezembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

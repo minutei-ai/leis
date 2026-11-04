@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208440)<br>
-
 # LEI N° 17.735, DE 28 DE AGOSTO DE 2023
 
 ## (Projeto de lei n° 647/2019, do Deputado Tenente Nascimento - PSL)

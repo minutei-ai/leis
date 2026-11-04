@@ -1,5 +1,3 @@
-###DEL-008571-0-000-08-01-1946@@@
-
 DECRETO-LEI  N. 8.571 – DE 8 DE JANEIRO DE 1946
 
 Cria uma Coletoria Federal no Bairro de Alecrim na Cidade de  Natal, no Estado do Rio Grande do Norte, e dá outras providências.

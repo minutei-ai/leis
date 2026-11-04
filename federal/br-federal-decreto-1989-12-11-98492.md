@@ -1,5 +1,3 @@
-###DEC-098492-0-000-11-12-1989@@@
-
 DECRETO N° 98.492, DE 11 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Biológicas do Centro de Estudos Superiores do Médio Amazonas.

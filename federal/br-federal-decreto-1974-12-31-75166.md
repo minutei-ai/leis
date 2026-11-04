@@ -1,5 +1,3 @@
-###DEC-075166-0-000-31-12-1974@@@
-
 DECRETO Nº 75.166, DE 31 DE DEZEMBRO DE 1974
 
 Concede reconhecimento ao curso de Psicologia da Faculdade de Filosofia, Ciência e Letras de Itatiba, emItatiba, Estado de São Paulo, mantida pelo Instituto de Ensino Superior da Região Barganteia.

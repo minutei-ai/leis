@@ -1,5 +1,3 @@
-###MPV-001679-0-018-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.679-18, DE 26 DE OUTUBRO DE 1998
 
 Dispõe sobre normas e condições gerais de proteção ao trabalho portuário, institui multas pela inobservância de seus preceitos, e dá outras providências.

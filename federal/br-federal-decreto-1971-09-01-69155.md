@@ -1,5 +1,3 @@
-###DEC-069155-0-000-01-09-1971@@@
-
 DECRETO Nº 69.155, DE 1º DE SETEMBRO DE 1971.
 
 Concede à Mineração Itaípe Ltda. o direito de lavrar calcário, no município de Ilhéus, Estado da Bahia.

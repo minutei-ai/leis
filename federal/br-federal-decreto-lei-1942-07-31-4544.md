@@ -1,5 +1,3 @@
-###DEL-004544-0-000-31-07-1942@@@
-
 DECRETO-LEI N. 4.544 – DE 31 DE JULHO DE 1942
 
 Autotiza o Prefeito do Distrito Federal a dar em locação, a título precário, ao Sindicato dos Lavradores do Distrito Federal o imovel que menciona

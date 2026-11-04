@@ -1,5 +1,3 @@
-###DEC-061964-0-000-22-12-1967@@@
-
 DECRETO Nº 61.964, DE 22 DE DEZEMBRO DE 1967
 
 Concede indulto a setenciados primários e dá outras providências.

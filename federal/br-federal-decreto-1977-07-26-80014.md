@@ -1,5 +1,3 @@
-###DEC-080014-0-000-26-07-1977@@@
-
 DECRETO Nº 80.014, DE 26 DE JULHO DE 1977
 
 Concede reconhecimento ao curso de Fonoaudiologia da Escola de Reabilitação, da Universidade Católica de Petrópolis, com sede na cidade de Petrópolis, Estado do Rio de Janeiro.

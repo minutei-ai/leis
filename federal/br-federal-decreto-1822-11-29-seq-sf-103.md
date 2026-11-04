@@ -1,5 +1,3 @@
-###DEC-000000-0-103-29-11-1822@@@
-
 DECRETO - DE 29 DE NOVEMBRO DE 1822
 
 Crêa um Batalhão de Artilharia de Linha na Villa de Santos, da Província de S. Paulo.

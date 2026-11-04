@@ -1,5 +1,3 @@
-###DEC-069261-0-000-22-09-1971@@@
-
 DECRETO Nº 69.261, DE 22 DE SETEMBRO DE 1971.
 
 Altera dispositivos do Decreto número 1.117, de 1º de junho de 1962 que regulamenta a Lei nº 3.577, de 4 de julho de 1959.

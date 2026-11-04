@@ -1,5 +1,3 @@
-###DEC-094585-0-000-10-07-1987@@@
-
 DECRETO N° 94.585, DE 10 DE JULHO DE 1987
 
 Renova a concessão outorgada à RÁDIO PONTAL DE NOVA LONDRINA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nova Londrina, Estado do Paraná.

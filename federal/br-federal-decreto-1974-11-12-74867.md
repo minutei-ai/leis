@@ -1,5 +1,3 @@
-###DEC-074867-0-000-12-11-1974@@@
-
 DECRETO nº 74.867, DE 12 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora de Cratéus Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cratéus, Estado do Ceará.

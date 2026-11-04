@@ -1,5 +1,3 @@
-###DEC-055562-0-000-18-01-1965@@@
-
 decreto nº 55.562, de 18 de janeiro de 1965.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral de Minas Gerais - o crédito suplementar de Cr$175.327.900,00 para execução da lei nº 4.351, de 6 de julho de1964.

@@ -1,5 +1,3 @@
-###DEC-096456-0-000-02-08-1988@@@
-
 DECRETO N° 96.456, DE 2 DE AGOSTO DE 1988
 
 Extingue a Comissão Gerencial de Projetos Especiais  ComGePE e dá outras providências.

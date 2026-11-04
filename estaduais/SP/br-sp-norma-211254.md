@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211254)<br>
-
 # DECRETO N° 69.755, DE 30 DE JULHO DE 2025
 
 ### _Altera o Decreto n° 55.587, de 17 de março de 2010, que institui o Conselho Estadual dos Direitos da População de Lésbicas, Gays, Bissexuais, Travestis e Transexuais_

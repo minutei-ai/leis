@@ -1,5 +1,3 @@
-###DEC-059127-0-000-25-08-1966@@@
-
 decreto Nº 59.127, DE 25 DE AGÔSTO DE 1966.
 
 Autoriza a Companhia Brasileira do Zinco a pesquisar minério de cobre no município de Curaçá, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-055696-0-000-02-02-1965@@@
-
 Decreto nº 55.696, de 2 de fevereiro de 1965.
 
 Autoriza o cidadão brasileiro José Espíndola de Magalhães Junior a pesquisar água mineral, no município de Campos Novos Paulista, Estado de São Paulo.

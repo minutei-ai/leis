@@ -1,5 +1,3 @@
-###DEC-060229-0-000-16-02-1967@@@
-
 DECRETO Nº 60.229, DE 16 de FEVEREIRO DE 1967.
 
 Declara de utilidade pública, para desapropriação, o terreno situado na Estrada de Itararé, na cidade de Itapecerica da Serra, Estado de São Paulo.

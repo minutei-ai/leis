@@ -1,5 +1,3 @@
-###DEC-046253-0-000-19-06-1959@@@
-
 DECRETO Nº 46.253, DE 19 DE JUNHO DE 1959.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$272.182,00, para o fim que especifica.

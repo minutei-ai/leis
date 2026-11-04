@@ -1,5 +1,3 @@
-###DEL-000188-0-000-23-02-1967@@@
-
 DECRETO-LEI Nº 188, DE 23 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a aplicação da correção do registro contábil do valor original dos bens do ativo imobilizado do capital das emprêsas concessionárias dos serviços portuários.

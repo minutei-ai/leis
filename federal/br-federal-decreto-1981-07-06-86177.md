@@ -1,5 +1,3 @@
-###DEC-086177-0-000-06-07-1981@@@
-
 Decreto nº 86.177, de 06 de julho de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem do ramal de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

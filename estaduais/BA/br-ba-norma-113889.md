@@ -46,7 +46,8 @@ Parágrafo único - O pessoal e as dotações orçamentárias do Departamento da
 
 Art. 8º - A partir de 1º de janeiro do ano corrente, o Secretário Particular do Governador perceberá subsídios de Cr$60.000,00 (sessenta mil cruzeiros) mensais.
 
-Redação de acordo com a Lei nº 1.480, de 13 de setembro de 1961.<br>
+Redação de acordo com a Lei nº 1.480, de 13 de setembro de 1961.
+
 Redação origina: "Art. 8º - O Secretário particular do Governador perceberá subsídios de Cr$30.000,00 (trinta mil cruzeiros) mensais."
 
 Art. 9º - O Vice-Governador, que gozará de prerrogativas e honras de Chefe de Governo e cujas funções serão fixadas em lei, terá Gabinete próprio, autônomo e sob sua imediata direção, com verbas e recursos específicos, assim constituídos:
@@ -81,4 +82,4 @@ Luiz de Moura Bastos
 
 Josaphat Borges
 
-* * *
+ *

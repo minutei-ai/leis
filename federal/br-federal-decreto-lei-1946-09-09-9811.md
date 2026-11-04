@@ -1,5 +1,3 @@
-###DEL-009811-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.811 – DE 9 DE SETEMBRO DE 1946
 
 Dá nova redação ao parágrafo único do art. 15 do Decreto-lei nº 3.365, de 21 de Julho de 1941.

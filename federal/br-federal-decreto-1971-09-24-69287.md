@@ -1,5 +1,3 @@
-###DEC-069287-0-000-24-09-1971@@@
-
 DECRETO Nº 69.287, DE 24 DE SETEMBRO DE 1971.
 
 Reorganiza o Corpo de Fuzileiros Navais e dá outras providências.

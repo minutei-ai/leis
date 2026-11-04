@@ -1,5 +1,3 @@
-###DEC-096500-0-000-12-08-1988@@@
-
 DECRETO N° 96.500, DE 12 DE AGOSTO DE 1988
 
 Institui o "Dia Nacional das Santas Casas de Misericórdia".

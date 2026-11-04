@@ -1,5 +1,3 @@
-###DEC-073107-0-000-07-11-1973@@@
-
 DECRETO Nº 73.107 - DE 7 DE NOVEMBRO DE 1973
 
 Altera o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE), aprovado pelo Decreto nº 70.291, de 15 de março de 1972, e dá outras providências.

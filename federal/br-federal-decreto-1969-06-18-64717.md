@@ -1,5 +1,3 @@
-###DEC-064717-0-000-18-06-1969@@@
-
 DECRETO Nº 64.717, DE 18 DE JUNHO DE 1969.
 
 Fixa as atribuições gerais do Conselho Superior de Economia e Finanças, extingue o Conselho Superior do Fundo do Exército e da outras providências.

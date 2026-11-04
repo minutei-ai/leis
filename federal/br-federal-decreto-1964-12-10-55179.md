@@ -1,5 +1,3 @@
-###DEC-055179-0-000-10-12-1964@@@
-
 DECRETO Nº 55.179, DE 10 DE DEZEMBRO De 1964.
 
 Autoriza o cidadão brasileiro Olavo das Neves de Oliveira Melo a pesquisar cassiterita no Município de Lábrea, Estado do Amazonas.

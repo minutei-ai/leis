@@ -1,5 +1,3 @@
-###DEC-046045-0-000-18-05-1959@@@
-
 DECRETO Nº 46.045, DE 18 DE MAIO DE 1959
 
 Autoriza o cidadão brasileiro Rodolpho Porto D’Ave a pesquisar diamante e ouro, no Município de Itupiranga, Estado do Pará.

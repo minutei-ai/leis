@@ -1,5 +1,3 @@
-###DEC-049132-0-000-21-10-1960@@@
-
 DECRETO Nº 49.132, DE 21 DE OUTUBRO DE 1960.
 
 Cria uma Embaixada do Brasil na República da Coréia.

@@ -1,5 +1,3 @@
-###DEC-067877-0-000-18-12-1970@@@
-
 DECRETO Nº 67.877, DE 18 DE DEZEMBRO DE 1970.
 
 Cria, no Ministério da Aeronáutica, a Base Aérea de Santa Maria e dá outras providências.

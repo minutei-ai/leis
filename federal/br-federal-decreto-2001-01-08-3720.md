@@ -1,5 +1,3 @@
-###DEC-003720-0-000-08-01-2001@@@
-
 DECRETO Nº 3.720, DE 8 DE JANEIRO DE 2001
 
 Determina a observância das Normas e Recomendações da Décima Edição do Anexo 9 à Convenção de Aviação Civil Internacional.
@@ -40,4 +38,78 @@ NOTIFICAÇÃO DE CUMPRIMENTO OU DE DIFERENÇAS AO ANEXO 9
 
 1     Apresentação das seguintes diferenças entre os regulamentos e as práticas nacionais da República Federativa do Brasil e as disposições da décima edição do anexo 9 à convenção de aviação Civil Internacional referente à FACILITAÇÃO.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) Disposição do Anexo</span><span style="width:0.58pt; display:inline-block">&nbsp;</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Diferenças</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.5</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>A apresentação da Declaração Geral é exigida.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.46</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para a liberação das aeronaves de pequeno porte e de suas cargas é exigida a participação de mais de um orgão.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.5.1</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Brasil ainda não expede passaporte de leitura mecânica, embora pretenda fazê-lo em um futuro próximo.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.5.2</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Embora ainda não expeça o passaporte de leitura mecânica, o Brasil o expedirá em um futura proximo de acordo com o Doc. 9303 Parte I, da OACI.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.5.4</span><span style="width:13.16pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Os passaportes diplomáticos e oficiais têm prazo de validade diferenciados em função da missão do portador. Os passaportes comuns têm validade de 5 ( cinco ) anos improrrogáveis.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.8</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Exige-se o pagamento de emolumentos na concessão de vistos, exceto quando a isenção é estabelecida em acordo.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.8.1</span><span style="width:13.16pt; display:inline-block">&nbsp;</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Não se emite, ainda, autorizações ou vistos de leitura mecânica conforme preconizado do Doc. 9303 Parte 2, da OACI.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.8.3</span><span style="width:13.16pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>A validade para utilização de visto é de 3 ( três ) meses a contar da data de sua concessão.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.8.7</span><span style="width:13.16pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span><span style="width:35.4pt; display:inline-block">&nbsp;</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Brasil ainda não emite autorização ou vistos,</span><span style="width:3.4pt; display:inline-block">&nbsp;</span><span>no formato previsto na Zona Visual dos Vistos de Leitura Mecânica, estabelecidos no Doc. 9303 parte 2, da ACI Visto de Leitura Mecânica.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.9</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O controle da entrada e saída será feito através do cartão de entrada e saída, o qual será preenchido e entregue à Polícia Federal pelos passageiros e tripulantes estrangeiros. O transportador deverá orientar os passageiros e tripulantes estrangeiros quanto ao correto preenchimento do cartão de Entrada/Saída.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.10</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>As autoridades brasileiras exigirão dos estrangeiros (passageiros e tripulantes) o preenchimento do Cartão de Entrada/Saída, o qual substitui o modelo constante do Apêndice 5 da 10ª Edição do Anexo 9.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.10.1</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cumpre ao transportador orientar o passageiro estrangeiro quanto ao carreto preenchimento do Cartão de Entrada/Saída e demais procedimentos correlatos.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.10.2</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabe ao transportador confeccionar e fornecer aos passageiros estrangeiros o Cartão de Embarque/Desembarque antes do embarque ou durante o vôo, conforme seja o caso.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.16</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>As autoridades aduaneiras brasileiras poderão exigir, sempre que necessário, declaração escrita de bagagem acompanhada de passageiros e tripulantes procedentes do exterior.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.33</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Exige-se o Cartão de Entrada/Saída de passageiros estrangeiros por ocasião da saída do país.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.41</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Os transportes serão passíveis de multa quando efetuarem o transporte de estrangeiros para o Brasil, caso a documentação destes não estiver em ordem.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.15.1</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>As autoridades brasileiras adotam todas as medidas necessárias em relação às mercadorias destinadas ao exterior antes de autorizar o seu embarque. Entretanto, caso ocorra um embarque irregular, as autoridades brasileiras determinarão, nos termos da lei, que as mercadorias sejam desembarcadas antes da saída da aeronave.</span></p></td></tr><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8.3.2</span></p></td><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>A legislação não contempla a possibilidade de visto, quando o ingresso em território nacional, para equipes de busca e salvamento e de investigação de acidentes. A critério da autoridade de imigração (Polícia Federal) poderá ser concedido o “desembarque condicional”, que será analisado caso a caso.</span></p></td></tr></tbody></table>
+a) Disposição do Anexo
+
+b) Diferenças
+
+2.5
+
+A apresentação da Declaração Geral é exigida.
+
+2.46
+
+Para a liberação das aeronaves de pequeno porte e de suas cargas é exigida a participação de mais de um orgão.
+
+3.5.1
+
+O Brasil ainda não expede passaporte de leitura mecânica, embora pretenda fazê-lo em um futuro próximo.
+
+3.5.2
+
+Embora ainda não expeça o passaporte de leitura mecânica, o Brasil o expedirá em um futura proximo de acordo com o Doc. 9303 Parte I, da OACI.
+
+3.5.4
+
+Os passaportes diplomáticos e oficiais têm prazo de validade diferenciados em função da missão do portador. Os passaportes comuns têm validade de 5 ( cinco ) anos improrrogáveis.
+
+3.8
+
+Exige-se o pagamento de emolumentos na concessão de vistos, exceto quando a isenção é estabelecida em acordo.
+
+3.8.1
+
+Não se emite, ainda, autorizações ou vistos de leitura mecânica conforme preconizado do Doc. 9303 Parte 2, da OACI.
+
+3.8.3
+
+A validade para utilização de visto é de 3 ( três ) meses a contar da data de sua concessão.
+
+3.8.7
+
+O Brasil ainda não emite autorização ou vistos, no formato previsto na Zona Visual dos Vistos de Leitura Mecânica, estabelecidos no Doc. 9303 parte 2, da ACI Visto de Leitura Mecânica.
+
+3.9
+
+O controle da entrada e saída será feito através do cartão de entrada e saída, o qual será preenchido e entregue à Polícia Federal pelos passageiros e tripulantes estrangeiros. O transportador deverá orientar os passageiros e tripulantes estrangeiros quanto ao correto preenchimento do cartão de Entrada/Saída.
+
+3.10
+
+As autoridades brasileiras exigirão dos estrangeiros (passageiros e tripulantes) o preenchimento do Cartão de Entrada/Saída, o qual substitui o modelo constante do Apêndice 5 da 10ª Edição do Anexo 9.
+
+3.10.1
+
+Cumpre ao transportador orientar o passageiro estrangeiro quanto ao carreto preenchimento do Cartão de Entrada/Saída e demais procedimentos correlatos.
+
+3.10.2
+
+Cabe ao transportador confeccionar e fornecer aos passageiros estrangeiros o Cartão de Embarque/Desembarque antes do embarque ou durante o vôo, conforme seja o caso.
+
+3.16
+
+As autoridades aduaneiras brasileiras poderão exigir, sempre que necessário, declaração escrita de bagagem acompanhada de passageiros e tripulantes procedentes do exterior.
+
+3.33
+
+Exige-se o Cartão de Entrada/Saída de passageiros estrangeiros por ocasião da saída do país.
+
+3.41
+
+Os transportes serão passíveis de multa quando efetuarem o transporte de estrangeiros para o Brasil, caso a documentação destes não estiver em ordem.
+
+4.15.1
+
+As autoridades brasileiras adotam todas as medidas necessárias em relação às mercadorias destinadas ao exterior antes de autorizar o seu embarque. Entretanto, caso ocorra um embarque irregular, as autoridades brasileiras determinarão, nos termos da lei, que as mercadorias sejam desembarcadas antes da saída da aeronave.
+
+8.3.2
+
+A legislação não contempla a possibilidade de visto, quando o ingresso em território nacional, para equipes de busca e salvamento e de investigação de acidentes. A critério da autoridade de imigração (Polícia Federal) poderá ser concedido o “desembarque condicional”, que será analisado caso a caso.

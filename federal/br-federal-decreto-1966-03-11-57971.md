@@ -1,5 +1,3 @@
-###DEC-057971-0-000-11-03-1966@@@
-
 DECRETO Nº 57.971, DE 11 DE MARÇO DE 1966.
 
 Abre à Prefeitura da República, o crédito especial de Cr$200.000.000, para fim que especifica.

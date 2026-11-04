@@ -1,7 +1,3 @@
-1
-
-###DEC-095784-0-000-04-03-1988@@@
-
 DECRETO N.° 95.784, DE 4 DE MARÇO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado. "Fazenda 29, Pontal do Tigre", classificado como latifúndio por exploração, situado no Município de Querência do Norte no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n ° 92 622, de 2 de maio de 1986, e dá outras providências

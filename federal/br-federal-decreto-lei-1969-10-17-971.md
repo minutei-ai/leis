@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/95df97a6-061f-4bbf-87d0-df154788cfc9/texto#nowhere)
 
-###DEL-000971-0-000-17-10-1969@@@
-
 DECRETO-LEI Nº 971, DE 17 DE OUTUBRO DE 1969
 
 Considera como tempo de serviço militar o prestado por servidores civis nos Ministérios Militares durante a Segunda Guerra Mundial e que posteriormente ingressaram nos Quadros ou Serviços de Saúde das Fôrças Armadas.

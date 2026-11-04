@@ -1,5 +1,3 @@
-###DEC-056030-0-000-23-04-1965@@@
-
 decreto nº 56.030, de 23 de abril de 1965.
 
 Autoriza o cidadão brasileiro Custódio Netto Junior a pesquisar carvão, no município de São Felix do Xingú, Estado do Pará.

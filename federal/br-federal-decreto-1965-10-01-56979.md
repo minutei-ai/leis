@@ -1,5 +1,3 @@
-###DEC-056979-0-000-01-10-1965@@@
-
 DECRETO Nº 56.979, DE 1º DE OUTUBRO DE 1965.
 
 Cria o “Conselho de Cooperação Técnica da Aliança para o Progresso” e da outras providências.

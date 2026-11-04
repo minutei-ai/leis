@@ -1,5 +1,3 @@
-###DEC-081534-0-000-10-04-1978@@@
-
 Decreto nº 81.534, de 10 de abril de 1978.
 
 Declara sem efeito o Decreto nº 26.207, de 17 de janeiro de 1949, que autorizou a Companhia de Mineração Novalimense a lavrar minério de manganês no Município de Nova Lima, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-054379-0-000-05-10-1964@@@
-
 Decreto nº 54.379, de 5 de outubro de 1964.
 
 Transfere, da Companhia Fôrça e Luz de Ibiá S.A., para Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia Elétrica.

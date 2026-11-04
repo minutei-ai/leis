@@ -1,5 +1,3 @@
-###DEC-066940-0-000-22-07-1970@@@
-
 DECRETO Nº 66.940, DE 22 DE JULHO DE 1970.
 
 Declara de utilidade pública a Sociedade "Minha Escola", com sede em São Paulo, Estado de São Paulo.

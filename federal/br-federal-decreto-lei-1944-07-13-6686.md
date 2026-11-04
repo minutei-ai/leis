@@ -1,5 +1,3 @@
-###DEL-006686-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.686 – DE 13 DE JULHO DE 1944
 
 Suspende, pelo prazo de 6 meses, a cobrança dos direitos de importação e demais taxas aduaneiras que incidem sôbre a penicilina

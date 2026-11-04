@@ -1,5 +1,3 @@
-###DEC-090564-0-000-27-11-1984@@@
-
 Decreto nº 90.564, de 27 de novembro de 1984
 
 Declara de utilidade pública as instituições que menciona.

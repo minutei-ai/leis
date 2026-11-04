@@ -1,5 +1,3 @@
-###DEL-006162-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.162 – DE 30 DE DEZEMBRO DE 1943
 
 Cria, no Ministério da Agricultura, cinco Secções de Fomento Agrícola

@@ -1,5 +1,3 @@
-###DEC-046627-0-000-14-08-1959@@@
-
 DECRETO Nº 46.627, DE 14 DE AGÔSTO DE 1959.
 
 Outorga à Prefeitura Municipal de Santana do Ipanema, Estado de Alagoas, concessão para distribuir energia elétrica, e dá outras providências.

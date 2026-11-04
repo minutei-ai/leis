@@ -1,5 +1,3 @@
-###DEC-084977-0-000-30-07-1980@@@
-
 Decreto nº 84.977, de 30 de julho de 1980.
 
 Autoriza o aumento da potência da FUNDAÇÃO CONTRISEL, na cidade de São Sepé, Estado do Rio Grande do Sul.

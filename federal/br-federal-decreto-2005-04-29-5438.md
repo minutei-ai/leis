@@ -1,5 +1,3 @@
-###DEC-005438-0-000-29-04-2005@@@
-
 DECRETO Nº 5.438, DE 29 DE ABRIL DE 2005
 
 Autoriza a Comissão Nacional de Energia Nuclear - CNEN a vender o terreno denominado "Campo de Roma".

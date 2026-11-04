@@ -1,5 +1,3 @@
-###DEC-052845-0-000-18-11-1963@@@
-
 DECRETO Nº 52.845, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza cidadão brasileiro Newton de Carvalho a pesquisar calcário no município de Salto de Pirapora, Estado de São Paulo.

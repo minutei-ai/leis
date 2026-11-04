@@ -1,5 +1,3 @@
-###DEC-066229-0-000-18-02-1970@@@
-
 DECRETO Nº 66.229 - DE 18 DE FEVEREIRO DE 1970
 
 Autoriza funcionamento de Faculdade.

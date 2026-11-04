@@ -1,5 +1,3 @@
-###DEC-088077-0-000-01-02-1983@@@
-
 DECRETO Nº 88.077, de 01 de fevereiro de 1983
 
 Cria, no âmbito do Ministério Público do Trabalho, Conselho Superior, a Corregedoria Geral e o colégio de Procuradores do Trabalho.

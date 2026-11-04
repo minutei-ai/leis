@@ -1,5 +1,3 @@
-###DEC-050416-0-000-06-04-1961@@@
-
 DECRETO Nº 50.416, DE 6 DE ABRIL DE 1961.
 
 Revoga dispositivo regulamentar.

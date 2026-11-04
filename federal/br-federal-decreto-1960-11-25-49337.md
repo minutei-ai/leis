@@ -1,5 +1,3 @@
-###DEC-049337-0-000-25-11-1960@@@
-
 DECRETO Nº 49.337, DE 25 DE novembro DE 1960.
 
 Abre o Supremo Tribunal Federal o crédito especial de Cr$150.000.000,00 para o fim que especifica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001912-0-000-21-05-1996@@@
-
 DECRETO Nº 1.912, DE 21 DE MAIO DE 1996.
 
 Dispõe sobre o alfandegamento de portos organizados e instalações portuárias de uso público e de uso privativo, e dá outras providências,

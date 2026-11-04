@@ -1,5 +1,3 @@
-###DEL-006284-0-000-18-02-1944@@@
-
 DECRETO-LEI N. 6.284 – DE 18 DE FEVEREIRO DE 1944
 
 Concede pensão especial à genitora de Luiz Caliope de Lacerda, vítima de acidente em serviço

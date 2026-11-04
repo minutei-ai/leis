@@ -1,14 +1,12 @@
-###DEC-041425-0-000-24-04-1957@@@
+**DECRETO Nº 41.425, DE 24 DE ABRIL DE 1957.**
 
-<strong>DECRETO Nº 41.425, DE 24 DE ABRIL DE 1957.</strong>
+***Dá nova redação ao art. 2º do Decreto nº 34.701, de 26 de novembro de 1953, que considera organizado o Centro Técnico de Aeronáutica.***
 
-<em><strong>Dá nova redação ao art. 2º do Decreto nº 34.701, de 26 de novembro de 1953, que considera organizado o Centro Técnico de Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a vigorar com a seguinte redação o art. 2º do Decreto nº 34.701, de 26 de novembro de 1953, que considera organizado o Centro Técnico de Aeronáutica (C. T. A.):
+**Art**. 1º Passa a vigorar com a seguinte redação o art. 2º do Decreto nº 34.701, de 26 de novembro de 1953, que considera organizado o Centro Técnico de Aeronáutica (C. T. A.):
 
 “Art. 2º O Centro Técnico de Aeronáutica, instituição científica e técnica de pesquisa e de ensino superior, tem por finalidade:
 
@@ -22,10 +20,10 @@
 
  \- colaborar com as organizações científicas, técnicas e de ensino do país e de outras nações, para o progresso da ciência e da técnica”.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 24 de abril de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 A. S. M. Ararigboia

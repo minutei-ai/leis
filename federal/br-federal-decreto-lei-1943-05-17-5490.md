@@ -1,5 +1,3 @@
-###DEL-005490-0-000-17-05-1943@@@
-
 DECRETO‑LEI N. 5.490 – DE 17 DE MAIO DE 1943
 
 Extingue o 3º Regimento Auto‑Metralhadoras de Divisão de Cavalaria, com sede em Bagé

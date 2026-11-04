@@ -1,5 +1,3 @@
-###DEC-076206-0-000-04-09-1975@@@
-
 DECRETO Nº 76.206 - DE 4 DE SETEMBRO DE 1975
 
 Concede reconhecimento ao curso de Pedagogia da Universidade Regional do Noroeste, com sede na cidade de Campina Grande, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEL-008161-0-000-07-11-1945@@@
-
 DECRETO-LEI N. 8.161 – DE 7 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 4.000.000,00, à verba que especifica.

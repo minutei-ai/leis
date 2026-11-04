@@ -1,5 +1,3 @@
-###DEC-002218-0-000-30-04-1997@@@
-
 DECRETO Nº 2.218, DE 30 DE ABRIL DE 1997
 
 Fixa, para o período de 1º de maio de 1997 a 30 de abril 1998, o limite para as importações realizadas pelas empresas comerciais da Zona Franca de Manaus, beneficiadas com os incentivos de que trata o Decreto-lei nº 288, de 28 de fevereiro de 1967, bem assim os aplicáveis às Áreas de Livre Comércio.

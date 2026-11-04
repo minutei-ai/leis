@@ -1,5 +1,3 @@
-###DEC-056140-0-000-27-04-1965@@@
-
 Decreto nº 56.140, de 27 de abril de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Protetora Companhia Nacional de Seguros Gerais, inclusive aumento do capital social e extensão das operações de seguros ao Ramo Vida.

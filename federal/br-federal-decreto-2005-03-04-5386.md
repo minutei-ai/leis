@@ -1,5 +1,3 @@
-###DEC-005386-0-000-04-03-2005@@@
-
 DECRETO Nº 5.386 DE 4 DE MARÇO DE 2005
 
 Dispõe sobre a execução do Programa de Dispêndios Globais das empresas que menciona, e dá outras providências.

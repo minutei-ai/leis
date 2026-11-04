@@ -1,5 +1,3 @@
-###DEC-070182-0-000-22-02-1972@@@
-
 DECRETO Nº 70.182, DE 22 DE FEVEREIRO DE 1972.
 
 Aproveita no Ministério da Aeronáutica servidor em disponibilidade e dá outras providências.

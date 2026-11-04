@@ -1,5 +1,3 @@
-###MPV-001932-0-002-01-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.932-2, DE 1º DE DEZEMBRO DE 1999.
 
 Altera a legislação tributária federal e dá outras providências.

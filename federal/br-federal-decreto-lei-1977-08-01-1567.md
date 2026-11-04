@@ -1,5 +1,3 @@
-###DEL-001567-0-000-01-08-1977@@@
-
 # DECRETO-LEI Nº 1.567, DE 1º DE AGOSTO DE 1977
 
 Dispõe sobre aplicação das normas previstas no artigo 3º e seu parágrafo do Decreto-lei nº 1.531, de 30 de março de 1977, aos contratos de financiamento de que trata o artigo 1º do Decreto-lei nº 1.452, de 30 de março de 1976.

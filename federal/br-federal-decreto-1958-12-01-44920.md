@@ -1,5 +1,3 @@
-###DEC-044920-0-000-01-12-1958@@@
-
 decreto nº 44.920, de 1 de dezembro de 1958.
 
 Autoriza Pesquisas Minerais Heco Limitada a pesquisar minério de ferro no município de Nova Lima Estado de Minas Gerais.

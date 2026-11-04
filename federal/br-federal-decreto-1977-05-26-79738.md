@@ -1,5 +1,3 @@
-###DEC-079738-0-000-26-05-1977@@@
-
 decreto nº 79.738, de 26 de maio de 1977.
 
 Concede reconhecimento ao curso de Educação Artística, da Faculdade de Filosofia, Ciências e Letras de Blumenau, com sede na cidade de Blumenau, Estado de Santa Catarina.

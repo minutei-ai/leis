@@ -58,5 +58,6 @@ Brasília, 21 de dezembro de 2017; 196º da Independência e 129º da Repúbli
 
 MICHEL TEMER
 
-Fernando Coelho Filho<br>
+Fernando Coelho Filho
+
 Dyogo Henrique de Oliveira

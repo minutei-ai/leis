@@ -1,5 +1,3 @@
-###DEC-048912-0-000-31-08-1960@@@
-
 DECRETO Nº 48.912, DE 31 DE AGôSTO DE 1960.
 
 Acresce parágrafo e modifica artigo do Regulamento Interno e dos Serviços Gerais, baixado pelo Decreto nº 42.018, de 9 de agôsto de 1957.

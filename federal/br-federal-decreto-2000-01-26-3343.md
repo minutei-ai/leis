@@ -1,5 +1,3 @@
-###DEC-003343-0-000-26-01-2000@@@
-
 decreto nº 3.343, de 26 de janeiro de 2000.
 
 Altera o § 3º do art. 1º do Decreto nº 3.099, de 29 de junho de 1999, que define os critérios e as condições para a assunção, pela União, das obrigações dos Municípios.

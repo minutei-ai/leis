@@ -1,5 +1,3 @@
-###DEC-050315-0-000-04-03-1961@@@
-
 DECRETO Nº 50.315, de 4 de março de 1961.
 
 Concede autorização para funcionamento de curso.

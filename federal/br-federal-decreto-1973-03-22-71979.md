@@ -1,5 +1,3 @@
-###DEC-071979-0-000-22-03-1973@@@
-
 DECRETO Nº 71.979, DE 22 DE MARÇO DE 1973.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de linha de transmissão no Estado de São Paulo.

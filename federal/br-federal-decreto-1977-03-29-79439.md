@@ -1,5 +1,3 @@
-###DEC-079439-0-000-29-03-1977@@@
-
 DECRETO Nº 79.439, DE 29 DE MARÇO DE 1977.
 
 Extingue o Consulado Honorário do Brasil em Atlanta, Estados Unidos da América.

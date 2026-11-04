@@ -1,5 +1,3 @@
-###DEC-088161-0-000-10-03-1983@@@
-
 Decreto nº 88.161, de 10 de março de 1983
 
 Delega competência aos Ministros de Estado da Marinha, do Exército e da Aeronáutica para aprovarem os respectivos Regulamentos de Uniformes.

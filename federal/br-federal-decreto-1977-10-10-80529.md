@@ -1,5 +1,3 @@
-###DEC-080529-0-000-10-10-1977@@@
-
 Decreto nº 80.529, de 10 de outubro de 1977.
 
 Concede reconhecimento ao curso de Formação de Tecnólogo em Processamento de Dados, da Faculdade de Ciências Econômicas, com sede na cidade de Blumenau, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-006385-0-000-30-03-1944@@@
-
 DECRETO-LEI N. 6.385 – DE 30 DE MARÇO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 20.000.000,00, para prosseguimento da construção da rodovia Ponta Grossa-Foz do Iguassú

@@ -1,5 +1,3 @@
-###DEC-093572-0-000-13-11-1986@@@
-
 DECRETO Nº 93.572, DE 13 DE NOVEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE PRESIDENTE PRUDENTE LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Presidente Prudente, Estado de São Paulo.

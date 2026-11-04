@@ -1,7 +1,3 @@
-1
-
-###DEC-099361-0-000-29-06-1990@@@
-
 DECRETO N° 99.361, DE 29 DE JUNHO DE 1990
 
 Dispõe sobre a execução da Ata de Re­tificação do Vigésimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial n° 1, entre o Brasil e a Argentina.

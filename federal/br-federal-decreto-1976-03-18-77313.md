@@ -1,5 +1,3 @@
-###DEC-077313-0-000-18-03-1976@@@
-
 DECRETO Nº 77.313, DE 18 DE MARÇO DE 1976.
 
 Aprova o Regulamento do Depósito de Aeronáutica do Rio de Janeiro e dá outras providências.

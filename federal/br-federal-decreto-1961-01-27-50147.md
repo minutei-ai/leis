@@ -1,5 +1,3 @@
-###DEC-050147-0-000-27-01-1961@@@
-
 Decreto nº 50.147, de 27 de janeiro de 1961.
 
 Altera lotação numérica de repartições atendidas pelo Quadro Permanente do Ministério da Fazenda.

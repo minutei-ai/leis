@@ -1,5 +1,3 @@
-###DEC-060393-0-000-11-03-1967@@@
-
 DECRETO Nº 60.393, DE 11 DE MARÇO DE 1967.
 
 Regula o pagamento da gratificação pelo exercício em determinadas zonas ou locais, aos servidores do Departamento Federal de Segurança Pública, na forma estabelecida pelo art. 302 do Decreto nº 59.310, de 23 de setembro de 1966 e art. 7º do Decreto-lei nº 81, de 21 de dezembro de 1966.

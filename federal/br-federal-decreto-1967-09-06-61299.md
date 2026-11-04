@@ -1,5 +1,3 @@
-###DEC-061299-0-000-06-09-1967@@@
-
 DECRETO Nº 61.299, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A - PETROBRÁS, terras e benfeitorias situadas no Município de São Cristóvão, Estado de Sergipe.

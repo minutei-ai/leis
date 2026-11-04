@@ -1,5 +1,3 @@
-###DEC-082208-0-000-01-09-1978@@@
-
 Decreto nº 82.208, de 01 de setembro de 1978.
 
 Declara sem efeito o Decreto nº 11 148, de 28 de dezembro de 1942, que autorizou o cidadão brasileiro Simplício Antunes Armondes a lavrar pedras coradas e associados no Município de Galiléia, Estado de Minas Gerais.

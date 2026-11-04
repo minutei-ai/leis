@@ -1,5 +1,3 @@
-###DEC-085360-0-000-12-11-1980@@@
-
 Decreto nº 85.360, de 12 de novembro de 1980.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Burro Branco", situado no Município de Campo Erê, no Estado de Santa Catarina, compreendido na área prioritária para fins de reforma agrária, de que tratam os Decretos ns. 69.411, de 22 de outubro de 1971, 78.422, de 15 de setembro de 1976, e 84.969, de 18 de julho de 1980.

@@ -1,5 +1,3 @@
-###DEC-005130-0-000-07-07-2004@@@
-
 DECRETO Nº 5.130, DE 7 DE JULHO DE 2004.
 
        Regulamenta o art. 40 da Lei no 10.741, de 1o de outubro de 2003 (Estatuto do Idoso), e dá outras providências.
@@ -100,5 +98,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 7 de julho de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Alfredo Nascimento

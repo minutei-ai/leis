@@ -1,5 +1,3 @@
-###DEC-072783-0-000-12-09-1973@@@
-
 Decreto nº 72.783, de 12 de setembro de 1973.
 
 Redistribui para o Ministério da Marinha cargo, com o respectivo ocupante, do antigo Departamento dos Correios e Telégrafos, e dá outras providências.

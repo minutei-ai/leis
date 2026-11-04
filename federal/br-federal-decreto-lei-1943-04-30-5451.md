@@ -1,5 +1,3 @@
-###DEL-005451-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.451 – DE 30 DE ABRIL DE 1943
 
 Modifica o decreto‑lei n. 4.812, de 8 de outubro de 1942 e o decreto‑lei n. 5.275, de 24 de fevereiro de 1943

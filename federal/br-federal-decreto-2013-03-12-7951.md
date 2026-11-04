@@ -1,5 +1,3 @@
-###DEC-007951-0-000-13-03-2013-PUB-01@@@
-
 DECRETO N° 7.951, DE 12 DE MARÇO DE 2013
 
 Altera o Decreto n° 6.952, de 2 de setembro de 2009, que aprova o Regulamento do Fundo de Desenvolvimento do Nordeste, e dá outras providências.

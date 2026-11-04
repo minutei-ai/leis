@@ -1,5 +1,3 @@
-###DEC-005401-0-000-28-03-2005@@@
-
 DECRETO Nº 5.401 DE 28 DE MARÇO DE 2005
 
 Dispõe sobre a criação do Escritório de Representação do Brasil em Lagos, República da Nigéria.

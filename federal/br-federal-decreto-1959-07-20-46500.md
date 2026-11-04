@@ -1,5 +1,3 @@
-###DEC-046500-0-000-20-07-1959@@@
-
 DECRETO Nº 46.500, DE 20 DE JULHO DE 1959.
 
 Autoriza a Companhia Nacional de Álcalis a instalar, para uso exclusivo, uma usina terrmelétrica no Arraial do Cabo, distrito do município de Cabo Frio, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-059404-0-000-20-10-1966@@@
-
 decreto nº 59.404, de 20 de outubro de 1966.
 
 Abre ao Ministério da Marinha, o crédito especial de Cr$400.000.000 para atender as despesas com reparos de navios.

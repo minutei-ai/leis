@@ -1,5 +1,3 @@
-###DEC-080550-0-000-11-10-1977@@@
-
 DECRETO Nº 80.550, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Formação de Professores de Alagoinhas, Estado da Bahia.

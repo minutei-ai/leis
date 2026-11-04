@@ -1,19 +1,17 @@
-###DEC-042834-0-000-17-12-1957@@@
+**DECRETO Nº 42.834, DE 17 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.834, DE 17 DE DEZEMBRO DE 1957.</strong>
+***Cria o Parque Regional de Motomecanização da 2ª Região Militar.***
 
-<em><strong>Cria o Parque Regional de Motomecanização da 2ª Região Militar.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e de acôrdo com o Art. 19 da Lei número 2.851,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e de acôrdo com o Art. 19 da Lei número 2.851,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica criado o Parque Regional de Motomecanização da 2ª Região Militar, com sede na cidade de São Paulo.
 
-<strong>Art</strong>. 1º Fica criado o Parque Regional de Motomecanização da 2ª Região Militar, com sede na cidade de São Paulo.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, em 17 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

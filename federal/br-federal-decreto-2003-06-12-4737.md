@@ -1,5 +1,3 @@
-###DEC-004737-0-000-12-06-2003@@@
-
 DECRETO Nº 4.737, DE 12 DE JUNHO DE 2003.
 
        Altera dispositivos do Estatuto Social da Empresa Gestora de Ativos - EMGEA.
@@ -36,5 +34,6 @@ Parágrafo único.  As demonstrações financeiras de que trata o caput deste 
 
         Brasília, 12 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

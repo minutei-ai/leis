@@ -1,5 +1,3 @@
-###DEC-065310-0-000-08-10-1969@@@
-
 Decreto nº 65.310 - de 8 de outubro de 1966.
 
 Acresce parágrafos ao artigo 10 do Decreto nº 63.343, de 1 de outubro de 1968, e dá outras providências.

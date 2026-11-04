@@ -1,6 +1,10 @@
 > **LEI Nº 4.588, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.434, de 14 de novembro de 2024, que dispõe sobre a campanha estadual de conscientização e orientação do Lúpus Eritematoso Sistêmico - LES, para tratar da eficácia de dispositivo específico.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.434, de 14 de novembro de 2024, que dispõe sobre a campanha estadual de conscientização e orientação do Lúpus Eritematoso Sistêmico - LES, para tratar da eficácia de dispositivo específico.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

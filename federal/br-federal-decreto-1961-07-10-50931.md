@@ -1,5 +1,3 @@
-###DEC-050931-0-000-10-07-1961@@@
-
 Decreto nº 50.931, de 10 de julho de 1961.
 
 Concede à Pepsi-Cola do Brasil, S.A. autorização para continuar a funcionar na República.

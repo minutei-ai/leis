@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211840)<br>
-
 # LEI N° 18.334, DE 14 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 380/2024, da Deputada Dani Alonso - PL)

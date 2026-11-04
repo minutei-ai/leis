@@ -1,5 +1,3 @@
-###DEC-071038-0-000-29-08-1972@@@
-
 DECRETO Nº 71.038, DE 29 DE AGOSTO DE 1972.
 
 Declara de utilidade pública as instituições que menciona.
@@ -55,8 +53,6 @@ Brasília, 29 de agosto de 1972; 151º da Independência e 84º da República.
 Emílio G. Médici
 
 Alfredo Buzaid
-
-###DEC-071038-0-000-29-08-1972@@@
 
 DECRETO Nº 71.038, DE 29 DE AGOSTO DE 1972.
 

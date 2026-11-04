@@ -1,5 +1,3 @@
-###DEC-075064-0-000-09-12-1974@@@
-
 DECRETO Nº 75.064, DE 9 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Moema, mantida pela Sociedade Brasileira de Educação e Assistência, com sede na Cidade de São Paulo, Estado de São Paulo.

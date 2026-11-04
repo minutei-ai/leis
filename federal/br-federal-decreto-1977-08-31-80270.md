@@ -1,5 +1,3 @@
-###DEC-080270-0-000-31-08-1977@@@
-
 DECRETO Nº 80.270, DE 31 de agosto DE 1977.
 
 Autoriza a reversão ao Instituto Rio Grandense do Arroz do terreno que menciona, situado no Município de Uruguaiana, Estado do Rio Grande do Sul.

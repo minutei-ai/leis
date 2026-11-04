@@ -1,5 +1,3 @@
-###DEC-076788-0-000-15-12-1975@@@
-
 DECRETO Nº 76.788, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de  Geografia do Centro Pedagógico de Três Lagoas, Estado de Mato Grosso.

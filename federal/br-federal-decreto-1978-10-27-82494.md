@@ -1,5 +1,3 @@
-###DEC-082494-0-000-27-10-1978@@@
-
 Decreto nº 82 494, de 27 de outubro de 1978.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Município de Cruzeiro do Sul, Estado do Acre.
@@ -21,8 +19,6 @@ ESNESTO GEISEL
 Mário Henrique Simonsen
 
 Armando Dias Mendes
-
-###DEC-082494-0-000-27-10-1978@@@RET01+++
 
 DECRETO Nº 82.494, DE 27 DE OUTUBRO DE 1978.
 

@@ -1,5 +1,3 @@
-###DEC-049994-0-000-24-01-1961@@@
-
 DECRETO Nº 49.994, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a Companhia de Cimento Portland Paraíso a pesquisar calcário, no município de Campos, Estado do Rio de Janeiro.

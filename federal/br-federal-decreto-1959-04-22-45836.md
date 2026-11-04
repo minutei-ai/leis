@@ -1,5 +1,3 @@
-###DEC-045836-0-000-22-04-1959@@@
-
 decreto nº 45.836, de 22 de abril de 1959.
 
 Declara de utilidade pública e autoriza a sua desapropriação imóvel que menciona, situado na Cidade de Bauru, Estado de São Paulo, necessário ao Serviço do Exército.

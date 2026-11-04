@@ -1,5 +1,3 @@
-###DEL-004577-0-000-12-08-1942@@@
-
 DECRETO-LEI N. 4.577 – DE 12 DE AGOSTO DE 1942
 
 Autoriza a permuta de imóveis entre a Estrada de Ferro Central do Brasil e o Dr. Guilherme Benjamin Weinschenck

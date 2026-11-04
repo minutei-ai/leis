@@ -1,5 +1,3 @@
-###DEC-096037-0-000-12-05-1988@@@
-
 DECRETO N° 96.037, DE 12 DE MAIO DE 1988
 
 Dá nova redação a dispositivo do Decreto n° 88.513, de julho de 1983, que dispõe sobre o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial  Militar das Forças Armadas.

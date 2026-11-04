@@ -1,7 +1,3 @@
-1
-
-###MPV-000929-0-000-01-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 929, DE 1º DE MARÇO DE 1995
 
 Altera o art. 4º da Lei nº 8.427, de 27 de maio de 1992, que dispõe sobre a concessão de subvenção econômica nas operações de crédito rural.

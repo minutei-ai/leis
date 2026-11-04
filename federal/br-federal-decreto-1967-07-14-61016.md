@@ -1,5 +1,3 @@
-###DEC-061016-0-000-14-07-1967@@@
-
 DECRETO Nº 61.016, DE 14 DE JULHO DE 1967.
 
 Considera incluídos no item III do art. 1º do Decreto nº 59.835, de 21 de dezembro de 1966, os órgãos que menciona.

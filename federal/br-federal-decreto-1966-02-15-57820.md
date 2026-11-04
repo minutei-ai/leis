@@ -1,5 +1,3 @@
-###DEC-057820-0-000-15-02-1966@@@
-
 DECRETO Nº 57.820, DE 15 DE FEVEREIRO DE 1966.
 
 Aprova as novas especificações da padronização do Tabaco em Fôlha para cigarros e desfiados, visando a sua classificação e à fiscalização da exportação.

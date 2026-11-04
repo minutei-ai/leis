@@ -1,5 +1,3 @@
-###DEC-073462-0-000-15-01-1974@@@
-
 DECRETO Nº 73.462, DE 15 DE JANEIRO DE 1974.
 
 Declara perempta a concessão outorgada à Rádio Cinquentenário de Birigui Limitada, para executar serviço de radiodifusão sonora em ondas médias de âmbito regional, na cidade de Birigui, Estado de São Paulo.

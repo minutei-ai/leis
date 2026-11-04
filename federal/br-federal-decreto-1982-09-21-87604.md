@@ -1,5 +1,3 @@
-###DEC-087604-0-000-21-09-1982@@@
-
 Decreto nº 87.604, de 21 de setembro de 1982
 
 Declara de utilidade pública, para fins de desapropriação, imóveis, com benfeitorias, situados no Município de São José dos Campos, Estado de São Paulo, destinados à instalação de Escritórios de Serviços e Central de Trânsito, a cargo da Telecomunicações de São Paulo S.A. - TELESP.

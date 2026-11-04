@@ -1,5 +1,3 @@
-###DEC-064943-0-000-06-08-1969@@@
-
 Decreto nº 64.943 - de 6 de agôsto de 1969.
 
 Declara de utilidade pública para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá de Matatu a Federação, no Município de Salvador, no Estado da Bahia.

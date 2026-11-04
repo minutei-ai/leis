@@ -1,5 +1,3 @@
-###DEC-088492-0-000-12-07-1983@@@
-
 Decreto nº 88.492, de 12 de julho de 1983
 
 Autoriza a transferência direta da concessão outorgada à REDE RIOGRANDENSE DE EMISSORAS LTDA., para a RÁDIO CONTINENTAL LTDA., para executar serviço de radiodifusão sonora em onda média, na cidade de Canoas, Estado do Rio Grande do Sul.

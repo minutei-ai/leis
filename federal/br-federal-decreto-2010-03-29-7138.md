@@ -1,5 +1,3 @@
-###DEC-007138-0-000-29-03-2010@@@
-
 DECRETO Nº 7.138, DE 29 DE MARÇO DE 2010.
 
 Regulamenta o art. 2o, inciso I, da Lei Complementar no 134, de 14 de janeiro de 2010, que dispõe sobre a composição do Conselho de Administração da Superintendência da Zona Franca de Manaus, e dá outras providências

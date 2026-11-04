@@ -1,5 +1,3 @@
-###DEC-059321-0-000-29-09-1966@@@
-
 DECRETO Nº 59.321, DE 29 DE SETEMBRO DE 1966.
 
 Altera o Regulamento da Diretoria do Pessoal da Aeronáutica.

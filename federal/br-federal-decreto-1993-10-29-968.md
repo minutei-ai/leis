@@ -1,7 +1,3 @@
-1
-
-###DEC-000968-0-000-29-10-1993@@@
-
 DECRETO Nº 968, DE 29 DE OUTUBRO DE 1993
 
 Regulamenta o Decreto-Lei nº 828, de 5 de setembro de 1969, que instituiu o Fundo de Desenvolvimento Profissional Marítimo.
@@ -187,8 +183,6 @@ Brasília, 29 de outubro de 1993; 172º da Independência e 105º da República.
 ITAMAR FRANCO
 
 Ivan da Silveira Serpa
-
-###DEC-000968-0-000-29-10-1993@@@RET01+++
 
 # DECRETO N° 968, DE 29 DE OUTUBRO DE 1993
 

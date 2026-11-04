@@ -1,5 +1,3 @@
-###DEL-009593-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.593 – DE 16 DE AGÔSTO DE 1946
 
 Desapropria, por utilidade pública, terrenos que menciona, situados no Município de Pedro Leopoldo, Estado de Minas Gerais, e dá outras providências.

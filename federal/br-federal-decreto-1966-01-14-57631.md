@@ -1,5 +1,3 @@
-###DEC-057631-0-000-14-01-1966@@@
-
 Decreto nº 57.631, de 14 de janeiro de 1966.
 
 Outorga concessão à Televisão Anhanguera - S.A., sediada na cidade de Goiânia GO, para estabelecer uma estação de radiodifusão de sons e imagens (Televisão).

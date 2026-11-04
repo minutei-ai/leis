@@ -1,6 +1,6 @@
 **LEI Nº 14.087 DE 26 DE ABRIL DE 2019**
 
-**Ratifica** **o** **Protocolo de Intenções do Consórcio Interestadual de Desenvolvimento Sustentável do Nordeste - Consórcio Nordeste, e o Convênio de Cooperação firmado entre o Estado da Bahia e o Estado do Ceará**.
+**RatificaoProtocolo de Intenções do Consórcio Interestadual de Desenvolvimento Sustentável do Nordeste - Consórcio Nordeste, e o Convênio de Cooperação firmado entre o Estado da Bahia e o Estado do Ceará**.
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
@@ -150,13 +150,15 @@ celebrar o presente **PROTOCOLO DE INTENÇÕES**, a ser submetido aos respectivo
 
  
 
-TÍTULO I<br>
+TÍTULO I
+
 DAS DISPOSIÇÕES INICIAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO CONSORCIAMENTO
 
-**CLÁUSULA 1ª -** **DOS SUBSCRITORES -** São subscritores deste **PROTOCOLO DE INTENÇÕES**, por ordem alfabética, os seguintes entes da República Federativa do Brasil:
+**CLÁUSULA 1ª -DOS SUBSCRITORES -** São subscritores deste **PROTOCOLO DE INTENÇÕES**, por ordem alfabética, os seguintes entes da República Federativa do Brasil:
 
 I - O **ESTADO DE ALAGOAS**, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob o nº 12.200.192/0001-69, com sede na Rua Cincinato Pinto, s/n, Palácio República dos Palmares, Maceió - AL, neste ato representado pelo Vice-Governador do Estado JOSÉ LUCIANO BARBOSA DA SILVA;
 
@@ -180,7 +182,7 @@ IX - O **ESTADO DE SERGIPE**, pessoa jurídica de direito público interno, insc
 
 **§ 2º** - Todos os Estados criados através de divisão, desmembramento ou de fusão de quaisquer dos entes mencionados nos incisos do _caput_ considerar-se-ão subscritores do Protocolo de Intenções ou consorciados, caso o Estado-mãe ou o que tenha participado da fusão ou incorporação seja respectivamente subscritor ou consorciado.
 
-**CLÁUSULA 2ª -** **DA RATIFICAÇÃO** \- O **PROTOCOLO DE INTENÇÕES**, após sua ratificação mediante leis aprovadas por, pelo menos, 50% (cinquenta por cento) dos Estados que o tenham subscrito, converter-se-á automaticamente em Contrato de Consórcio Público, ato constitutivo do **CONSÓRCIO INTERESTADUAL DE DESENVOLVIMENTO SUSTENTÁVEL** **DO NORDESTE - CONSÓRCIO NORDESTE.**
+**CLÁUSULA 2ª -DA RATIFICAÇÃO** \- O **PROTOCOLO DE INTENÇÕES**, após sua ratificação mediante leis aprovadas por, pelo menos, 50% (cinquenta por cento) dos Estados que o tenham subscrito, converter-se-á automaticamente em Contrato de Consórcio Público, ato constitutivo do **CONSÓRCIO INTERESTADUAL DE DESENVOLVIMENTO SUSTENTÁVELDO NORDESTE - CONSÓRCIO NORDESTE.**
 
 **§ 1º** - Somente será considerado consorciado o ente da Federação subscritor do **PROTOCOLO DE INTENÇÕES** que o ratificar por meio de lei.
 
@@ -194,14 +196,15 @@ IX - O **ESTADO DE SERGIPE**, pessoa jurídica de direito público interno, insc
 
 **§ 6º** - A alteração do Contrato de Consórcio dependerá de instrumento aprovado pela Assembleia Geral, cuja eficácia dependerá de ratificação, mediante lei, por parte de todos os consorciados.
 
-CAPITULO II<br>
+CAPITULO II
+
 DA DENOMINAÇÃO, PRAZO E SEDE
 
-**CLÁUSULA 3ª -** **DA DENOMINAÇÃO E NATUREZA JURÍDICA** \- O Consórcio Público previsto neste **PROTOCOLO DE INTENÇÕES** será constituído na forma de associação pública, de natureza autárquica e interfederativa, com personalidade jurídica de direito público, criado conforme o previsto na Lei Federal nº 11.107, de 06 de abril de 2005, sob a denominação de **Consórcio Interestadual de Desenvolvimento Sustentável do Nordeste - CONSÓRCIO NORDESTE**.
+**CLÁUSULA 3ª -DA DENOMINAÇÃO E NATUREZA JURÍDICA** \- O Consórcio Público previsto neste **PROTOCOLO DE INTENÇÕES** será constituído na forma de associação pública, de natureza autárquica e interfederativa, com personalidade jurídica de direito público, criado conforme o previsto na Lei Federal nº 11.107, de 06 de abril de 2005, sob a denominação de **Consórcio Interestadual de Desenvolvimento Sustentável do Nordeste - CONSÓRCIO NORDESTE**.
 
-**CLÁUSULA 4ª -** **DO PRAZO DE VIGÊNCIA -** O Consórcio vigerá por prazo indeterminado**.**
+**CLÁUSULA 4ª -DO PRAZO DE VIGÊNCIA -** O Consórcio vigerá por prazo indeterminado**.**
 
-**CLÁUSULA 5ª -** **DA SEDE** \- A sede do Consórcio será na Capital do Estado líder do **CONSÓRCIO NORDESTE.**
+**CLÁUSULA 5ª -DA SEDE** \- A sede do Consórcio será na Capital do Estado líder do **CONSÓRCIO NORDESTE.**
 
 **§ 1º -** A Assembleia Geral poderá, na forma do Estatuto, alterar a sede indicada nesta Cláusula, por decisão unânime dos seus membros, e, ainda, aprovar a criação de escritórios em outros Estados.
 
@@ -211,7 +214,8 @@ DA DENOMINAÇÃO, PRAZO E SEDE
 
 **CLÁUSULA 7ª** \- O Consórcio fica autorizado a representar os entes da Federação consorciados perante outras esferas de Governo, no que respeita a assuntos de interesse comum, uma vez aprovado pela Assembleia Geral.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS OBJETIVOS, FINALIDADES, ATRIBUIÇÕES E PRINCÍPIOS
 
 CLÁUSULA 8ª - DOS OBJETIVOS - O CONSÓRCIO NORDESTE tem por objetivo promover o desenvolvimento sustentável na sua área de atuação.
@@ -310,17 +314,20 @@ XVIII - exercer outras competências necessárias à fiel execução de suas fin
 
 CLÁUSULA 11 - DOS PRINCÍPIOS - O CONSÓRCIO NORDESTE observará os princípios da administração pública previstos na Constituição Federal, especialmente o princípio da eficiência, devendo pautar as suas ações pela integração, colaboração, compartilhamento, coordenação, articulação, privilegiando a utilização de métodos extrajudiciais de solução de conflitos, sempre a partir de uma visão sistêmica.
 
-TÍTULO II<br>
+TÍTULO II
+
 DA ORGANIZAÇÃO DO CONSÓRCIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **CLÁUSULA 12** \- **DO ESTATUTO** \- O Consórcio será organizado por estatuto cujas disposições, sob pena de nulidade, deverão atender a todas as cláusulas do Contrato de Consórcio Público.
 
 **Parágrafo único** \- O estatuto poderá dispor sobre o exercício do poder disciplinar e regulamentar, procedimento administrativo e outros temas referentes ao funcionamento e à organização do Consórcio.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ÓRGÃOS
 
 **CLÁUSULA 13** \- **DOS ÓRGÃOS** \- São órgãos do Consórcio:
@@ -335,10 +342,12 @@ IV - Conselho Consultivo.
 
 **Parágrafo único** \- Os estatutos poderão dispor sobre a criação e o funcionamento do Conselho de Administração, Câmaras Temáticas, Ouvidoria, Câmara de Regulação e de outros órgãos internos da organização do Consórcio, sendo vedada a criação de cargos, empregos e funções remunerados.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ASSEMBLEIA GERAL
 
-Seção I<br>
+Seção I
+
 Do funcionamento
 
 **CLÁUSULA 14** \- **DA ASSEMBLEIA** \- A Assembleia Geral, instância máxima do Consórcio, é órgão colegiado composto pelos representantes de todos os entes da Federação consorciados.
@@ -367,7 +376,8 @@ Do funcionamento
 
 **CLAUSULA l9** \- **DO QUÓRUM PARA AS DECISÕES** \- As decisões da Assembleia Geral serão tomadas, salvo as exceções previstas neste instrumento e nos estatutos, mediante maioria de, pelo menos, metade mais um dos votos dos presentes.
 
-Seção II<br>
+Seção II
+
 Das competências 
 
 **CLÁUSULA 20** \- **DAS COMPETÊNCIAS** \- Compete à Assembleia Geral:
@@ -420,7 +430,8 @@ X - homologar a indicação do Secretário Executivo.
 
 **§ 3º** - As competências arroladas nesta cláusula não prejudicam que outras sejam reconhecidas pelos estatutos.
 
-Seção III<br>
+Seção III
+
 Da eleição e da destituição do Presidente e do Conselho de Administração 
 
 **CLÁUSULA 21** \- **DA ELEIÇÃO DO PRESIDENTE** \- O Presidente será eleito em Assembleia Geral para mandato de 01 (um) ano, sendo permitida uma reeleição, podendo ser apresentadas candidaturas nos primeiros 30 (trinta) minutos. Somente são admitidos como candidatos Chefes do Poder Executivo de consorciado.
@@ -449,7 +460,8 @@ Da eleição e da destituição do Presidente e do Conselho de Administração 
 
 **§ 7º** \- Rejeitada moção de censura, nenhuma outra poderá ser apreciada na mesma Assembleia e nos 180 (cento e oitenta) dias seguintes
 
-Seção IV<br>
+Seção IV
+
 Das atas
 
 **CLÁUSULA 23** \- **DO REGISTRO** \- Nas atas da Assembleia Geral serão registradas:
@@ -472,7 +484,8 @@ I - mediante o pagamento das despesas de reprodução, para qualquer do povo, in
 
 II \- de forma gratuita, no caso de solicitação de qualquer órgão ou entidade, inclusive conselho, que integre a Administração de consorciado.
 
-CAPITULO IV<br>
+CAPITULO IV
+
 DA PRESIDÊNCIA
 
 **CLÁUSULA 25** \- **DA COMPETÊNCIA** \- Sem prejuízo do que prever os Estatutos do Consórcio, incumbe ao Presidente:
@@ -495,7 +508,8 @@ I - interino das funções da Presidência, inclusive para evitar inelegibilidad
 
 II - em substituição ou em sucessão nos casos em que o Presidente não mais exercer a Chefia do Poder Executivo de consorciado.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA SECRETARIA EXECUTIVA
 
 **CLÁUSULA 26** \- **DA NOMEAÇÃO** \- Fica criado o emprego público em comissão de Secretário Executivo.
@@ -538,7 +552,8 @@ X - promover a publicação de atos e contratos do Consórcio, quando essa provi
 
 **§ 2º** \- A delegação prevista no § 1º dependerá de ato escrito e publicado no sítio que o Consórcio mantiver na internet.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO CONSELHO CONSULTIVO
 
 **CLÁUSULA 28** \- **DA NATUREZA E DAS ATRIBUIÇÕES** \- O Conselho Consultivo é órgão permanente, de natureza colegiada, com as atribuições de opinar sobre as matérias constantes dos incisos V a VII da Cláusula 20.
@@ -561,13 +576,16 @@ V - organizações não governamentais.
 
 **§ 2º** \- Os membros do Conselho Consultivo serão escolhidos dentre pessoas com notável saber técnico e reputação ilibada.
 
-TÍTULO III<br>
+TÍTULO III
+
 DA GESTÃO ADMINISTRATIVA DO CONSÓRCIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS RECURSOS HUMANOS
 
-Seção I<br>
+Seção I
+
 Dos empregos comissionados
 
 **CLÁUSULA 30** \- **DOS CARGOS COMISSIONADOS** \- Ficam criados os empregos comissionados constantes do Anexo I deste **PROTOCOLO DE INTENÇÕES**:
@@ -580,7 +598,8 @@ Dos empregos comissionados
 
 **Parágrafo único** \- A atividade da Presidência e a de membro do Conselho de Administração, bem como a participação dos representantes dos entes consorciados na Assembleia Geral e em outras atividades do Consórcio não será remunerada, sendo considerado trabalho público relevante.
 
-Seção II<br>
+Seção II
+
 Contratação de Pessoal
 
 **CLÁUSULA 32** \- **DA CONTRATAÇÃO DE PESSOAL** \- O Consórcio poderá contratar empregados públicos por prazo determinado ou indeterminado.
@@ -597,7 +616,8 @@ Contratação de Pessoal
 
 **Parágrafo único** \- Caracterizam-se como casos de contratação por tempo determinado as situações de necessidade temporária de excepcional interesse público, de acordo com a Lei Federal nº 8.745, de 9 de dezembro de 1993.
 
-Seção III<br>
+Seção III
+
 Da cessão de servidores pelos entes associados
 
 **CLÁUSULA 35** \- **DA CESSÃO DE SERVIDORES** \- O consórcio público poderá ser integrado por servidores cedidos temporariamente pelos entes associados, na forma e condições da legislação de cada um.
@@ -608,17 +628,20 @@ Da cessão de servidores pelos entes associados
 
 **§ 3º** \- Na hipótese de o ente da Federação associado assumir o ônus da cessão do servidor, tais pagamentos poderão ser contabilizados como créditos hábeis para operar compensação com obrigações previstas no contrato de rateio, mediante aprovação na Assembleia Geral.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS CONTRATOS, DA INTEGRIDADE E DA TRANSPARÊNCIA
 
-Seção I<br>
+Seção I
+
 Dos contratos
 
 **CLÁUSULA 36** \- **DAS AQUISIÇÕES DE BENS E SERVIÇOS** \- Para aquisição de bens e serviços será observada a legislação federal vigente.
 
 **CLÁUSULA 37** \- **DO REGISTRO DE PREÇOS -** Os entes consorciados poderão aderir a Registro de Preços realizado pelo Consórcio.
 
-Seção II<br>
+Seção II
+
 Da integridade e da transparência
 
 **CLÁUSULA 38** \- **DA INTEGRIDADE** \- O Consórcio deverá implantar mecanismos e procedimentos internos de integridade, auditoria e denúncia de irregularidades e a aplicação efetiva de códigos de ética e de conduta no âmbito da pessoa jurídica.
@@ -627,7 +650,8 @@ Da integridade e da transparência
 
 **Parágrafo único** \- O Consórcio deverá implantar procedimentos destinados a assegurar o direito fundamental de acesso à informação em conformidade com os princípios básicos da administração pública e com as diretrizes previstas no art. 3º da Lei 12.527, de 18 de novembro de 2011.
 
-CAPITULO III<br>
+CAPITULO III
+
 DA GESTÃO ASSOCIADA
 
 **CLÁUSULA 40** \- **DA GESTÃO ASSOCIADA -** Os entes associados, ao ratificarem, por lei, o presente instrumento, autorizam a gestão associada dos serviços públicos remunerados ou não pelo usuário, prestados na forma de contrato de programa e desde que a referida gestão seja previamente aprovada pela Assembleia Geral.
@@ -672,10 +696,12 @@ XIV - a elaboração de planos de redução dos custos dos serviços prestados p
 
 **Parágrafo único** \- Os chefes do Poder Executivo poderão estabelecer novos projetos, desde que haja a aprovação pela Assembleia Geral.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DA GESTÃO ECONÔMICA E FINANCEIRA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 **CLÁUSULA 43** \- **DO REGIME DA ATIVIDADE FINANCEIRA** \- A execução das receitas e das despesas do Consórcio obedecerá às normas de direito financeiro aplicáveis às entidades públicas.
@@ -692,7 +718,8 @@ II - contrato de rateio.
 
 **CLÁUSULA 45** \- **DA RESPONSABILIDADE SUBSIDIÁRIA** \- Os entes consorciados respondem somente de forma subsidiária pelas obrigações do Consórcio.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA CONTABILIDADE
 
 **CLÁUSULA 46** \- **DA SEGREGAÇÃO CONTÁBIL** \- No que se refere aos serviços prestados em regime de gestão associada, a contabilidade do Consórcio deverá permitir que se reconheça a gestão econômica e financeira de cada serviço em relação a cada um de seus titulares.
@@ -703,17 +730,20 @@ I - o investido e arrecadado em cada serviço, inclusive os valores de eventuais
 
 II - a situação patrimonial, especialmente a parcela de valor dos bens vinculados aos serviços que tenha sido amortizada pelas receitas emergentes da prestação de serviços.
 
-CAPITULO III<br>
+CAPITULO III
+
 DOS CONVÊNIOS E OUTROS INSTRUMENTOS DE PARCERIA
 
 **CLÁUSULA 47** \- **DOS CONVÊNIOS E PARA RECEBER RECURSOS** \- Com o objetivo de receber recursos, o Consórcio fica autorizado a celebrar convênios com entidades governamentais ou privadas, nacionais ou estrangeiras, exceto com entes consorciados ou com entidades a eles vinculadas.
 
 **CLÁUSULA 48** \- **DA INTERVENIÊNCIA** \- Fica o Consórcio autorizado a comparecer como interveniente em convênios celebrados por entes consorciados e terceiros, a fim de receber ou aplicar recursos.
 
-TÍTULO V<br>
+TÍTULO V
+
 DA SAÍDA DO CONSORCIADO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO RECESSO
 
 **CLÁUSULA 49** \- **DO RECESSO** \- A retirada de membro do Consórcio dependerá de ato formal de seu representante na Assembleia Geral.
@@ -722,7 +752,8 @@ DO RECESSO
 
 **§ 2**º - Os bens destinados ao Consórcio pelo consorciado que se retira não serão revertidos ou retrocedidos, excetuadas as hipóteses de previsão contratual ou de decisão da Assembleia Geral.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA EXCLUSÃO
 
 **CLÁUSULA 50** \- **DAS HIPÓTESES DE EXCLUSÃO** \- São hipóteses de exclusão de consorciado:
@@ -747,7 +778,8 @@ IV - a existência de motivos graves, reconhecidos em deliberação fundamentada
 
 **§ 3º** \- Da decisão do órgão que decretar a exclusão caberá recurso de reconsideração dirigido à Assembleia Geral, o qual não terá efeito suspensivo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ALTERAÇÃO E DA EXTINÇÃO DO CONTRATO DE CONSÓRCIO PÚBLICO
 
 **CLÁUSULA 52** \- **DA EXTINÇÃO -** A extinção do contrato de Consórcio dependerá de instrumento aprovado pela Assembleia Geral, ratificado mediante lei por todos os consorciados.
@@ -758,10 +790,12 @@ DA ALTERAÇÃO E DA EXTINÇÃO DO CONTRATO DE CONSÓRCIO PÚBLICO
 
 **§ 3**º - Com a extinção, o pessoal cedido ao Consórcio retornará aos seus órgãos de origem e os empregados públicos do Consórcio terão seus contratos de trabalho automaticamente rescindidos.
 
-TÍTULO VI<br>
+TÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
-CAPÍTULO<br>
+CAPÍTULO
+
 DAS DISPOSIÇÕES GERAIS
 
 **CLÁUSULA 53** \- **DO REGIME JURÍDICO** \- O Consórcio será regido pelo disposto na Lei Federal nº 11.107, de 6 de abril de 2005, pelo Decreto Federal nº 6.017, de 17 de janeiro de 2007, e, no que tais diplomas foram omissos, pela legislação que rege as associações civis.
@@ -780,10 +814,12 @@ V - eficiência, o que exigirá que todas as decisões do Consórcio tenham expl
 
 **CLÁUSULA 55** \- **DA EXIGIBILIDADE** \- Quando adimplente com suas obrigações, qualquer ente consorciado é parte legítima para exigir o pleno cumprimento das cláusulas previstas neste contrato.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS DISPOSIÇÕES TRANSITÓRIAS
 
-Seção 1<br>
+Seção 1
+
 Da elaboração dos Estatutos
 
 **CLÁUSULA 56** \- **DA ASSEMBLEIA ESTATUINTE** \- Atendido o disposto no _caput_ da Cláusula 2ª do presente Termo, por meio de edital subscrito por, pelo menos, 50% (cinquenta por cento) dos Estados consorciados, será convocada a Assembleia Geral para a elaboração dos Estatutos do Consórcio.
@@ -806,14 +842,16 @@ III - o número de votos necessários para aprovação de emendas ao projeto de 
 
 **CLÁUSULA 57** \- O primeiro Presidente terá mandato até o dia 31 de dezembro de 2019.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA REPRESENTAÇÃO JUDICIAL E ASSESSORAMENTO JURÍDICO
 
 **CLÁUSULA 58** \- A Procuradoria Geral do Estado Líder será competente para realizar a representação judicial e o assessoramento jurídico do Consórcio, nos termos de convênio a ser celebrado.
 
 **Parágrafo único** \- O Fórum dos Procuradores Gerais do Nordeste funcionará como órgão jurídico consultivo do Consórcio.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 FORO
 
 **CLÁUSULA 59** \- **DO FORO** \- Eventuais controvérsias sobre este instrumento serão dirimidas perante o Supremo Tribunal Federal, nos termos do artigo 102, I, f, da Constituição Federal.
@@ -860,12 +898,14 @@ ANEXO I
 
 CORPO FUNCIONAL
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse:collapse"><tbody><tr style="height:13.3pt"><td style="width:212.8pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm .5pt 0cm .5pt;height:13.3pt" valign="top" width="284"><p class="Tabela-Texto">EMPREGOS COMISSIONADOS</p></td><td style="width:212.4pt;border:solid black 1.0pt;
-  padding:0cm .5pt 0cm .5pt;height:13.3pt" valign="top" width="283"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr style="height:11.5pt"><td style="width:212.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt;height:11.5pt" valign="top" width="284"><p class="Tabela-Texto">Secretário Executivo</p></td><td style="width:212.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:11.5pt" valign="top" width="283"><p class="Tabela-Texto">01</p></td></tr><tr style="height:17.5pt"><td style="width:212.8pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt;height:17.5pt" valign="top" width="284"><p class="Tabela-Texto">Analistas Técnicos</p></td><td style="width:212.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm .5pt 0cm .5pt;height:17.5pt" valign="top" width="283"><p class="Tabela-Texto">09</p></td></tr></tbody></table>
+EMPREGOS COMISSIONADOS
+
+QUANTIDADE
+
+Secretário Executivo
+
+01
+
+Analistas Técnicos
+
+09

@@ -20,15 +20,32 @@ Aparecida de Goiânia, 26 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 09</td><td style="text-align:center">301,20</td></tr><tr><td style="text-align:center">LOTE 10</td><td style="text-align:center">301,20</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 09
+
+301,20
+
+LOTE 10
+
+301,20
 
 SITUAÇÃO PROPOSTA DE REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 09/10</td><td style="text-align:center">602,40</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 09/10
+
+602,40

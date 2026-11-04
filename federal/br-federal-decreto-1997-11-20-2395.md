@@ -1,5 +1,3 @@
-###DEC-002395-0-000-20-11-1997@@@
-
 DECRETO Nº 2.395, DE 20 DE NOVEMBRO DE 1997
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial nº 21, Subscrito ao Amparo do Artigo 25 do Tratado de Montevidéu de 1980, entre Brasil e Cuba, de 29 de setembro de 1997.

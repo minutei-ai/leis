@@ -1,5 +1,3 @@
-###LEI-000000-0-000-23-10-1832@@@
-
 LEI - DE 23 DE OUTUBRO DE 1832
 
 Sobre naturalisação dos estrangeiros.

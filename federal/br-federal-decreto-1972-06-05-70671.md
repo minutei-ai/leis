@@ -1,5 +1,3 @@
-###DEC-070671-0-000-05-06-1972@@@
-
 DECRETO Nº 70.671, DE 5 DE JUNHO DE 1972.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

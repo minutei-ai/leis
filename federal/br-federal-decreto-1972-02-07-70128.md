@@ -1,5 +1,3 @@
-###DEC-070128-0-000-07-02-1972@@@
-
 DECRETO Nº 70.128, DE 7 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Umuarama, Estado do Paraná.

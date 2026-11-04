@@ -1,5 +1,3 @@
-###DEC-062522-0-000-15-04-1968@@@
-
 DECRETO Nº 62.522, DE 15 DE ABRIL DE 1968.
 
 Acrescenta dispositivos ao Cerimonial da Marinha do Brasil, aprovado pelo Decreto nº 43.807, de 27 de maio de 1958.

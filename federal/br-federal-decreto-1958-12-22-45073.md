@@ -1,5 +1,3 @@
-###DEC-045073-0-000-22-12-1958@@@
-
 DECRETO Nº 45.073, DE 22 DE DEZEMBRO DE 1958.
 
 Ratifica o Decreto nº 627, de 23 de julho de 1958.

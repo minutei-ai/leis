@@ -1,5 +1,3 @@
-###DEC-064032-0-000-27-01-1969@@@
-
 DECRETO Nº 64.032, DE 27 DE JANEIRO DE 1969.
 
 Provê sôbre a concessão de bôlsas de estudo, nos estabelecimentos de ensino superior.

@@ -1,5 +1,3 @@
-###DEC-001651-0-000-28-09-1995@@@
-
 DECRETO Nº 1.651, DE 28 DE SETEMBRO DE 1995
 
 Regulamenta o Sistema Nacional de Auditoria no âmbito do Sistema Único de Saúde.

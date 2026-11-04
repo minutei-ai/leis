@@ -1,5 +1,3 @@
-###DEC-002550-0-000-16-04-1998@@@
-
 DECRETO Nº 2.550, DE 16 DE ABRIL DE 1998
 
 Delega competência para a prática dos atos que menciona.

@@ -1,5 +1,3 @@
-###DEL-001565-0-000-29-07-1977@@@
-
 # DECRETO-LEI Nº 1.565, DE 29 DE JULHO DE 1977
 
 Estabelece condições especiais para importação de bens destinados à produção de petróleo bruto e gás natural na Bacia de Campos, na Plataforma Continental Brasileira e dá outras providências.

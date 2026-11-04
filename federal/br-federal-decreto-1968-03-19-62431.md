@@ -1,5 +1,3 @@
-###DEC-062431-0-000-19-03-1968@@@
-
 DECRETO Nº 62.431, DE 19 DE MARÇO DE 1968.
 
 Altera a redação do Decreto nº 60.186, de 8 de fevereiro de 1967.
@@ -30,7 +28,27 @@ II - Os Membros efetivos Representantes dos Trabalhadores não poderão ser reco
 
 “Art 6º O Conselho Administrativo terá um a Secretaria própria e uma Coordenadoria Técnico-Administrativa, diretamente subordinadas à Presidência do C.A., constituída essa última por uma Secretaria Executiva e por Seções, às quais competirão executar as tarefas de apoio administrativo e técnico ao C.A., na forma que dispuser o seu Regimento Interno e cujos encargos de chefia serão atendidos pelas seguintes funções gratificadas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(Simb.)</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Secretaria Executiva..........................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1-F</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Expediente........................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2-F</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Concessão de Bôlsas........................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2-F</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Contabilidade....................................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2-F</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Assistência ao Bolsista.....................................................................</span></p></td><td style="width:38.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2-F</span></p></td></tr></tbody></table>
+(Simb.)
+
+Chefe da Secretaria Executiva..........................................................................................
+
+1-F
+
+Chefe da Seção de Expediente........................................................................................
+
+2-F
+
+Chefe da Seção de Concessão de Bôlsas........................................................................
+
+2-F
+
+Chefe da Seção de Contabilidade....................................................................................
+
+2-F
+
+Chefe da Seção de Assistência ao Bolsista.....................................................................
+
+2-F
 
 § 1º Ficam criadas nas Seções de Concessão de Bôlsas de Contabilidade e de Expediente, respectivamente as seguintes turmas, cujos encargos de chefia serão remuneradas pelo símbolo 3-F:
 

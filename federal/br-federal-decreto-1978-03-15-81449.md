@@ -1,5 +1,3 @@
-###DEC-081449-0-000-15-03-1978@@@
-
 Decreto nº 81.449, de 15 de março de 1978.
 
 Autoriza o funcionamento do curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras e Divinópolis, com sede na cidade de Divinópolis, Estado de Minas Gerais.

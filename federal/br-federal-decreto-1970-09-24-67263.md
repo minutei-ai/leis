@@ -1,5 +1,3 @@
-###DEC-067263-0-000-24-09-1970@@@
-
 Decreto nº 67.263, de 24 de setembro de 1970.
 
 Declara caduco o Decreto número 11.634, de 11 de fevereiro de 1943.

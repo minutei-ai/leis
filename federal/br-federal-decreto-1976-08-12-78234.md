@@ -1,5 +1,3 @@
-###DEC-078234-0-000-12-08-1976@@@
-
 DECRETO Nº 78.234, DE 12 DE AGOSTO DE 1976.
 
 Renova o prazo da concessão para o uso exclusivo do aproveitamento hidráulico de um trecho do rio Sorocaba, outorgada à S.A. Fabrica Votorantim, atual S.A. Indústrias Votorantim, no Estado de São Paulo.

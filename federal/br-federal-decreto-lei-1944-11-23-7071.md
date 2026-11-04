@@ -1,5 +1,3 @@
-###DEL-007071-0-000-23-11-1944@@@
-
 DECRETO-LEI N. 7.071 – DE 23 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 20.000,00 à verba que especifica

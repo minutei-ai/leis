@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f0a6299b-d747-4145-a9d3-59b172fa8ad7/texto#nowhere)
 
-###DEL-001214-0-000-26-04-1972@@@
-
 # DECRETO-LEI Nº 1.214, DE 26 DE AbRIL DE 1972
 
 Altera os Decretos-leis nºs 157, de 10 de fevereiro de 1967, e 1.161, de 19 de março de 1971, e dá outras providências
@@ -14,7 +12,41 @@ Art. 1º O artigo 3º do Decreto-lei nº 157, de 10 de fevereiro de 1967, passa 
 
 “Art. 3º Será assegurado à pessoa física, para fins de efetivação dos depósitos ou aquisição dos certificados mencionados no artigo anterior, pagar o imposto de renda devido em cada exercício, mediante redução de acordo com percentuais da tabela abaixo, em função dos rendimentos brutos auferidos:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Rendimentos</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Brutos</span></p></td><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Percentual sobre o imposto</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>devido</span></p></td></tr><tr><td style="width:202.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>0 - 20.000</span></p></td><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>24</span></p></td></tr><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>20.001 - 30.000</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>22</span></p></td></tr><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>30.001 - 40.000</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>20</span></p></td></tr><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>40.001 - 50.000</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>18</span></p></td></tr><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>50.001 - 60.000</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>16</span></p></td></tr><tr><td style="width:202.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>60.001 - 70.000</span></p></td><td style="width:202.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>14</span></p></td></tr><tr><td style="width:202.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>acima de 70.000</span></p></td><td style="width:202.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>12</span></p></td></tr></tbody></table>
+Rendimentos
+
+Brutos
+
+Percentual sobre o imposto
+
+devido
+
+0 - 20.000
+
+24
+
+20.001 - 30.000
+
+22
+
+30.001 - 40.000
+
+20
+
+40.001 - 50.000
+
+18
+
+50.001 - 60.000
+
+16
+
+60.001 - 70.000
+
+14
+
+acima de 70.000
+
+12
 
 § 1º Para os efeitos deste artigo, o contribuinte recolherá a totalidade do imposto de renda devido na declaração, sendo a parcela correspondente ao incentivo depositada ex officio em conta especial do Tesouro Nacional junto ao Banco do Brasil S.A.
 

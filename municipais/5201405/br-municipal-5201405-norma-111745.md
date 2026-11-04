@@ -1,4 +1,5 @@
-ESTADO DE GOIÁS<br>
+ESTADO DE GOIÁS
+
 CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA
 
 PROJETO DE EMENDA À LEI ORGÂNICA MUNICIPAL Nº 01 DE 20 DE MARÇO DE 2014.
@@ -19,7 +20,8 @@ Art. 2º – Esta Emenda entra em vigor na data de sua publicação, retroagindo
 
 Art. 3º – Revogando-se as disposições em contrário.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Presidente
 
 WILLIAM LUDOVICO DE ALMEIDA

@@ -1,5 +1,3 @@
-###DEL-008968-0-000-08-02-1946@@@
-
 DECRETO-LEI N. 8.968 – DE 8 DE FEVEREIRO DE 1946
 
 Dispõe sôbre a direção do Aero-Clube do Brasil

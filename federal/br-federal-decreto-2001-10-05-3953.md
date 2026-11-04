@@ -1,5 +1,3 @@
-###DEC-003953-0-000-05-10-2001@@@
-
 DECRETO Nº 3.953, DE 5 DE OUTUBRO DE 2001
 
 Regulamenta o disposto na Medida Provisória nº 2, de 24 de setembro de 2001, que dispõe sobre a assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras.

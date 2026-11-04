@@ -1,6 +1,10 @@
 > **LEI Nº 3.692, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Título de Cidadã Acreana à Sra. Palmira Valente dos Santos Machado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Título de Cidadã Acreana à Sra. Palmira Valente dos Santos Machado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

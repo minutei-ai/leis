@@ -1,5 +1,3 @@
-###DEL-003724-0-000-16-10-1941@@@
-
 DECRETO-LEI N. 3.724 – DE 16 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito  suplementar de 5:000$0 a verba que especifica

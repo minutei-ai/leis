@@ -1,5 +1,3 @@
-###DEC-087619-0-000-21-09-1982@@@
-
 # Decreto nº 87.619, de 21 de setembro de 1982
 
 Altera a subordinação do Centro de Instrução de Guerra na Selva (CIGS) no Ministério do Exército.

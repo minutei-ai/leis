@@ -1,5 +1,3 @@
-###DEC-000604-0-000-14-07-1992@@@
-
 DECRETO Nº 604, DE 14 DE JULHO DE 1992
 
 Promulga o Acordo de Cooperação para a Redução da Demanda, Prevenção do Uso Indevido e Combate à Produção e ao Tráfico Ilícitos de Entorpecentes e Substâncias Psicotrópicas, entre o Governo da República Federativa do Brasil e o Governo da República do Chile.

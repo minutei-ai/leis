@@ -1,7 +1,3 @@
-1
-
-###DEC-099400-0-000-18-07-1990@@@
-
 DECRETO Nº 99.400, DE 18 DE JULHO DE 1990
 
 Institui Grupo de Trabalho, sob a coordenação da Secretaria de Assuntos Estratégicos da Presidência da República.

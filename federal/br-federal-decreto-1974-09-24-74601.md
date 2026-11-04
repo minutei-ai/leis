@@ -1,5 +1,3 @@
-###DEC-074601-0-000-24-09-1974@@@
-
 decreto nº 74.601, de 24 de setembro de 1974.
 
 Extingue o Consulado Honorário em Wolfsburgo, República Federal da Alemanha.

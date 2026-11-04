@@ -1,5 +1,3 @@
-###DEC-005656-0-000-30-12-2005@@@
-
 DECRETO Nº 5.656, DE 30 DE DEZEMBRO DE 2005.
 
 Regulamenta o preenchimento dos cargos efetivos da Carreira de Diplomata do Ministério das Relações Exteriores criados pelo art. 11 da Medida Provisória no 269, de 15 de dezembro de 2005.

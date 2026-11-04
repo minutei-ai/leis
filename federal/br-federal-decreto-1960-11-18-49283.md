@@ -1,5 +1,3 @@
-###DEC-049283-0-000-18-11-1960@@@
-
 DECRETO Nº 49.283, DE 18 DE NOVEMBRO DE 1960.
 
 Abre ao Poder Judiciário, Superior Tribunal Militar, o crédito especial de Cr$405.983,20 (quatrocentos e cinco mil, novecentos e oitenta e três cruzeiros e vinte centavos), para atender ao pagamento de vencimentos, salário-família, Ajuda e Custo e Gratificação Adicional de pessoal da Justiça Militar.

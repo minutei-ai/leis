@@ -1,5 +1,3 @@
-###DEC-060509-0-000-27-03-1967@@@
-
 DECRETO Nº 60.509, DE 27 de MARÇO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada no Município de Una, Estado da Bahia.
@@ -19,8 +17,6 @@ Brasília, 27 de março de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 Mario David Andreazza
-
-###DEC-060509-0-000-27-03-1967@@@RET01+++
 
 decreto Nº 60.509, de 27 de março de 1967.
 

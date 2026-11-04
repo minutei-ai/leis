@@ -1,5 +1,3 @@
-###DEC-045925-0-000-29-04-1959@@@
-
 DECRETO Nº 45.925, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Rodolpho Porto D’ave a pesquisar diamante e ouro, no município de Itupiranga , Estado da Pará.

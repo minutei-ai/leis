@@ -1,5 +1,3 @@
-###DEC-047466-0-000-22-12-1959@@@
-
 DECRETO Nº 47.466, DE 22 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre a exibição de filmes nacionais.

@@ -1,5 +1,3 @@
-###DEC-047195-0-000-06-11-1959@@@
-
 DECRETO Nº 47.195, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Aloísio Van der Naillen da Silva a pesquisar ilmenita no município de Primeira Cruz, Estado do Maranhão.

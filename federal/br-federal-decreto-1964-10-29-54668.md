@@ -1,5 +1,3 @@
-###DEC-054668-0-000-29-10-1964@@@
-
 DECRETO Nº 54.668, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza Abrahão Ramos da Silva a comprar pedras preciosas.

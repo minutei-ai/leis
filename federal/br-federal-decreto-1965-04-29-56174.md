@@ -1,5 +1,3 @@
-###DEC-056174-0-000-29-04-1965@@@
-
 Decreto nº 56.174, de 29 de abril de 1965.
 
 Autoriza a Campanha Brasileira de Carbureto de Cálcio a pesquisar calcário, no município de Barroso, Estado de Minas Gerais.

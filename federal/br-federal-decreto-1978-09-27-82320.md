@@ -1,5 +1,3 @@
-###DEC-082320-0-000-27-09-1978@@@
-
 decreto nº 82.320, de 27 de setembro de 1978.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República da Bolívia sobre a Instalação e o Funcionamento, na Cidade do Rio de Janeiro, de um Escritório de "Yacimientos Petrolíferos Fiscales Bolivianos".

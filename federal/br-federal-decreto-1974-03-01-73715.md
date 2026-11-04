@@ -1,5 +1,3 @@
-###DEC-073715-0-000-01-03-1974@@@
-
 DECRETO Nº 73.715, DE 1 DE MARÇO DE 1974.
 
 Dispõe sobre a inclusão, no orçamento federal, de dotações destinadas ao pagamento dos empréstimos concedidos às entidades executoras do Programa "Corredores de Exportação".

@@ -1,5 +1,3 @@
-###DEC-068361-0-000-17-03-1971@@@
-
 Decreto nº 68.361, de 17 de março de 1971.
 
 Declara de utilidade pública, par fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas - DNOCS, a área de terreno necessária à construção do açude público Brumado, no município de Rio de Contas, no Estado da Bahia.

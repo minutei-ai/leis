@@ -1,5 +1,3 @@
-###DEC-002299-0-000-13-08-1997@@@
-
 DECRETO Nº 2.299, DE 13 DE AGOSTO DE 1997
 
 Regulamenta, no âmbito do Ministério da Aeronáutica, o Capítulo V da Lei nº 7.501, de 27 de junho de 1986, que dispõe sobre o regime de contratação dos Auxiliares Locais.

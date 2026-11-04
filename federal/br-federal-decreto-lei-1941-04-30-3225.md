@@ -1,5 +1,3 @@
-###DEL-003225-0-000-30-04-1941@@@
-
 DECRETO-LEI N. 3.225 – DE 30 DE ABRIL DE 1941
 
 Eleva a gratificação de função de Administrador do Parque Nacional de Iguassú

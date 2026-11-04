@@ -1,5 +1,3 @@
-###DEC-047204-0-000-06-11-1959@@@
-
 decreto nº 47.204, de 06 de novembro de 1959.
 
 Concede à Emprêsa de Mineração Taquaral Ltda. autorização para funcionar como emprêsa de mineração.

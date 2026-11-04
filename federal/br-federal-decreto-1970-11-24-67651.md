@@ -1,5 +1,3 @@
-###DEC-067651-0-000-24-11-1970@@@
-
 DECRETO Nº 67.651, DE 24 DE NOVEMBRO DE 1970.
 
 Concede à Companhia Carbonífera São Marcos S. A. o direito de lavrar carvão mineral no município de Nova Veneza, Estado de Santa Catarina.

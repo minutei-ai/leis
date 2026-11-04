@@ -1,5 +1,3 @@
-###DEC-066917-0-000-20-07-1970@@@
-
 decreto nº 66.917, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 25.633, de 6 de outubro de 1948.

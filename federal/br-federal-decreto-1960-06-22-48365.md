@@ -1,5 +1,3 @@
-###DEC-048365-0-000-22-06-1960@@@
-
 DECRETO Nº 48.365, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Pedro Geraldo da Silva a pesquisar diamante, no município de Conceição do Mato Dentro, Estado de Minas Gerais.

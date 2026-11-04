@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209729)<br>
-
 # DECRETO N° 68.703, DE 15 DE JULHO DE 2024
 
 ### _Transfere os cargos que especifica e dá providências correlatas._
@@ -36,8 +34,258 @@ Valéria Muller Ramos Bolsonaro
 
 **A N E X O I**
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:none;border-left:none;border-right:none;border-top:none;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>CARGO / FUNÇÃO-ATIVIDADE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>REF.</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>E.V.</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>SQC / SQF</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>OCUPANTE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>RG</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>DO</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:9px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>PARA</strong></span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Auxiliar de Serviços Gerais</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.E.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Luciene Aparecida Silva Costa</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">36.509.317-8</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSS</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QCC</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Douglas Fabiano de Melo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">43.316.740-6</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSE</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Médico III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">M-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQF-II</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Sérgio Eduardo Menegatti</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">8.832.408-4</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSS</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Analista em Planejamento, Orçamento e Finanças Públicas II</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Cristiano Issao Izumi</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">21.320.522-1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSFP</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Analista em Planejamento, Orçamento e Finanças Públicas II</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Camila Andrade Giaquinto Martins</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">17.442.206-4</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSFP</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Carla Pereira de Paula</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">30.042.434-6</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">3</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Edileusa Aparecida da Silva Poloto</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">20.368.414-X</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.0781px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:95.1406px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p></td></tr></tbody></table>
+**CARGO / FUNÇÃO-ATIVIDADE**
+
+**REF.**
+
+**E.V.**
+
+**SQC / SQF**
+
+**OCUPANTE**
+
+**RG**
+
+**DO**
+
+**PARA**
+
+Auxiliar de Serviços Gerais
+
+1
+
+N.E.
+
+SQC-III
+
+Luciene Aparecida Silva Costa
+
+36.509.317-8
+
+QSS
+
+QCC
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Douglas Fabiano de Melo
+
+43.316.740-6
+
+QSE
+
+QSAP
+
+Médico III
+
+M-I
+
+N.U.
+
+SQF-II
+
+Sérgio Eduardo Menegatti
+
+8.832.408-4
+
+QSS
+
+QSAP
+
+Analista em Planejamento, Orçamento e Finanças Públicas II
+
+1
+
+N.U.
+
+SQC-III
+
+Cristiano Issao Izumi
+
+21.320.522-1
+
+QSGGD
+
+QSFP
+
+Analista em Planejamento, Orçamento e Finanças Públicas II
+
+1
+
+N.U.
+
+SQC-III
+
+Camila Andrade Giaquinto Martins
+
+17.442.206-4
+
+QSGGD
+
+QSFP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Carla Pereira de Paula
+
+30.042.434-6
+
+QSAP
+
+QSGGD
+
+Oficial Administrativo
+
+3
+
+N.I.
+
+SQC-III
+
+Edileusa Aparecida da Silva Poloto
+
+20.368.414-X
+
+QSAP
+
+QSGGD
 
 **A N E X O II**
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:none;border-left:none;border-right:none;border-top:none;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>CARGO</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>REF.</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>E.V.</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>SQC</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>EX-OCUPANTE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>RG</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>MOTIVO DA VACÂNCIA</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>DO</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>PARA</strong></span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Juliana Fonte da Silva</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">42.770.834-5</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Exoneração</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSE</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Analista em Planejamento, Orçamento e Finanças Públicas I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Felipe de Moura Pedro</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">33.545.975-4</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Exoneração</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSFP</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Analista em Planejamento, Orçamento e Finanças Públicas I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.U.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Yumi Mizuta</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">30.330.464-9</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Exoneração</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSFP</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSGGD</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Rita Prieto Andres</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">8.665.088-9</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Aposentadoria</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSSGD</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Oficial Administrativo</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">1</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">N.I.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-III</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Elias Vieira da Cruz Neto</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">10.336.327-0</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Aposentadoria</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSSGD</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSAP</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Assessor Técnico IV</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">11</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">C.C.</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Ana Eliza Martino Rabay</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">38.018.944-6</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">Exoneração</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5156px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSDE</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:19px;padding:2px;vertical-align:top;width:84.5625px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSPM</span></p></td></tr></tbody></table>
+**CARGO**
+
+**REF.**
+
+**E.V.**
+
+**SQC**
+
+**EX-OCUPANTE**
+
+**RG**
+
+**MOTIVO DA VACÂNCIA**
+
+**DO**
+
+**PARA**
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Juliana Fonte da Silva
+
+42.770.834-5
+
+Exoneração
+
+QSAP
+
+QSE
+
+Analista em Planejamento, Orçamento e Finanças Públicas I
+
+1
+
+N.U.
+
+SQC-III
+
+Felipe de Moura Pedro
+
+33.545.975-4
+
+Exoneração
+
+QSFP
+
+QSGGD
+
+Analista em Planejamento, Orçamento e Finanças Públicas I
+
+1
+
+N.U.
+
+SQC-III
+
+Yumi Mizuta
+
+30.330.464-9
+
+Exoneração
+
+QSFP
+
+QSGGD
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Rita Prieto Andres
+
+8.665.088-9
+
+Aposentadoria
+
+QSSGD
+
+QSAP
+
+Oficial Administrativo
+
+1
+
+N.I.
+
+SQC-III
+
+Elias Vieira da Cruz Neto
+
+10.336.327-0
+
+Aposentadoria
+
+QSSGD
+
+QSAP
+
+Assessor Técnico IV
+
+11
+
+C.C.
+
+SQC-I
+
+Ana Eliza Martino Rabay
+
+38.018.944-6
+
+Exoneração
+
+QSDE
+
+QSPM

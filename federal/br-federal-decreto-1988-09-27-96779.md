@@ -1,5 +1,3 @@
-###DEC-096779-0-000-27-09-1988@@@
-
 DECRETO N° 96.779, DE 27 DE SETEMBRO DE 1988
 
 Outorga concessão à FUNDAÇÃO RAINHA DA Paz para executar serviço de radiodifusão sonora em onda média, na Cidade de Brasília, Distrito Federal.

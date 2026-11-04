@@ -1,5 +1,3 @@
-###DEC-049573-0-000-22-12-1960@@@
-
 DECRETO N. 49.573 – DE 22 DE DEZEMBRO DE 1960
 
 Declara de utilidade pública, para fins de desapropriação, imóvel que menciona, necessário ao Ministério da Guerra.

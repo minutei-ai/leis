@@ -1,5 +1,3 @@
-###DEL-004985-0-000-21-11-1942@@@
-
 DECRETO-LEI N. 4.985 – DE 21 DE NOVEMBRO DE 1942
 
 Modifica o decreto-lei n. 2.557, de 4 de setembro de 1940, e dá outras providências

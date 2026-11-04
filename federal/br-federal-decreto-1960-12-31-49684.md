@@ -1,5 +1,3 @@
-###DEC-049684-0-000-31-12-1960@@@
-
 DECRETO Nº 49.684, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Eduardo Mayrink de Azevedo Fraga a pesquisar ouro e diamante no município de Itupiranga, Estado do Pará.

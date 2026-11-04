@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210596)<br>
-
 # DECRETO N° 69.349, DE 07 DE FEVEREIRO DE 2025
 
 ### _Altera o Decreto n° 62.033, de 17 de junho de 2016, que regulamenta a Lei n° 16.079, de 22 de dezembro de 2015, que cria o Programa de Qualificação Profissional e de Transferência de Renda "Via Rápida", e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-068711-0-000-03-06-1971@@@
-
 DECRETO Nº 68.711 - de 3 de junho de 1971.
 
 Extingue o Consulado-Geral do Brasil em Gotemburgo.

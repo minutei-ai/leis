@@ -1,5 +1,3 @@
-###DEC-005776-0-000-12-05-2006@@@
-
 DECRETO Nº 5.776, DE 12 DE MAIO DE 2006.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Meio Ambiente, e dá outras providências.

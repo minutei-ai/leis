@@ -1,5 +1,3 @@
-###DEC-060373-0-000-11-03-1967@@@
-
 DECRETO Nº 60.373, DE 11 DE MARÇO DE 1967.
 
 Autoriza Luiz Schuster Baron, a comprar pedras preciosas.

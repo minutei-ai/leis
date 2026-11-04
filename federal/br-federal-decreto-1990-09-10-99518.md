@@ -1,7 +1,3 @@
-1
-
-###DEC-099518-0-000-10-09-1990@@@
-
 DECRETO Nº 99.518, DE 10 DE SETEMBRO DE 1990
 
 Prescreve a adoção de plano extraordinário de redução das despesas de custeio nas entidades que menciona.

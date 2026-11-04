@@ -1,5 +1,3 @@
-###DEC-091951-0-000-18-11-1985@@@
-
 # Decreto nº 91.951, de 18 de novembro de 1985.
 
 Suspende o funcionamento da Sociedade "Serviço de Controle de Diversões Públicas - SCDP", com sede no Rio de Janeiro.

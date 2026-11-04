@@ -1,5 +1,3 @@
-###DEC-077842-0-000-16-06-1976@@@
-
 DECRETO Nº 77.842, DE 16 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada à Mineração Nordeste Brasileiro Ltda, para lavrar cassiterita no Município de Itapiúna Estado do Ceará.

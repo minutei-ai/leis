@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/158612)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2009/compilacao-lei-13872-15.12.2009.html)
 
 # LEI N° 13.872, DE 15 DE DEZEMBRO DE 2009

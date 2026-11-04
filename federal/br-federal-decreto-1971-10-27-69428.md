@@ -1,5 +1,3 @@
-###DEC-069428-0-000-27-10-1971@@@
-
 DECRETO Nº 69.428 - de outubro de 1971
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - da Universidade Federal Fluminense - (MEC), cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

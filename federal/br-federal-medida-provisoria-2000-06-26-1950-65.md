@@ -1,5 +1,3 @@
-###MPV-001950-0-065-26-06-2000@@@
-
 MEDIDA provisória nº 1.950-65, de 26 de junho de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-051227-0-000-22-08-1961@@@
-
 DECRETO Nº 51.227, DE 22 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Mário Carvalho a pesquisar quartzo e mica no município de Santa Maria do Suassuí, Estado de Minas Gerais.

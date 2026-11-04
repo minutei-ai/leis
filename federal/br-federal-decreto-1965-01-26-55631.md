@@ -1,5 +1,3 @@
-###DEC-055631-0-000-26-01-1965@@@
-
 DECRETO Nº 55.631, DE 26 DE JANEIRO DE 1965.
 
 Autoriza Irineu Cardoso de Carvalho a comprar pedras preciosas.

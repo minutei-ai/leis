@@ -1,5 +1,3 @@
-###DEC-002584-0-000-12-05-1998@@@
-
 DECRETO Nº 2.584, DE 12 DE MAIO DE 1998
 
 Dispõe sobre a prorrogação do prazo estabelecido no art. 5º do Decreto nº 2.389, de 18 de novembro de 1997.

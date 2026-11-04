@@ -1,5 +1,3 @@
-###DEC-074742-0-000-22-10-1974@@@
-
 DECRETO Nº 74.742, DE 22 DE OUTUBRO DE 1974.
 
 Concede à Companhia Níquel Tocantins o direito de lavrar calcário no Município de Corumbá de Goiás, Estado de Goiás.

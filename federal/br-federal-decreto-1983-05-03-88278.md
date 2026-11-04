@@ -1,5 +1,3 @@
-###DEC-088278-0-000-03-05-1983@@@
-
 Decreto nº 88.278, de 03 de MAIO de 1983
 
 Declara de interesse social, para fins de desapropriação, imóvel rural no Município de Alhandra, Estado da Paraíba, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 56.583, de 19.7.65, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19.1.71, 75.147, de 27.12.74, e 82.884, de 19.12.78.

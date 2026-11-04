@@ -1,5 +1,3 @@
-###DEC-092058-0-000-05-12-1985@@@
-
 DECRETO Nº 92.058, de 05 de dezembro de 1985
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática Cruzeiro do Sul.

@@ -1,5 +1,3 @@
-###DEC-092211-0-000-24-12-1985@@@
-
 Decreto nº 92.211, de 24 de dezembro de 1985.
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia das Faculdades do Sagrado Coração, em Bauru, São Paulo.

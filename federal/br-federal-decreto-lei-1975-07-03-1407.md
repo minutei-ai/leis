@@ -1,5 +1,3 @@
-###DEL-001407-0-000-03-07-1975@@@
-
 # DECRETO-LEI Nº 1.407, DE 3 DE JULHO DE 1975
 
 Cancela penalidades e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058370-0-000-09-05-1966@@@
-
 DECRETO Nº 58.370, DE 9 DE MAIO DE 1966
 
 Autoriza o Serviço de Navegação da Bacia do Prata a ceder, para a Prefeitura Municipal de Presidente Epitácio, SP., área de terreno de sua propriedade e dá outras providências.

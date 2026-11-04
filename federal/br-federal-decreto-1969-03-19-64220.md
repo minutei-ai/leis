@@ -1,5 +1,3 @@
-###DEC-064220-0-000-19-03-1969@@@
-
 DECRETO Nº 64.220, de 19 DE MARÇO DE 1969.
 
 Declara de utilidade pública a Casa "Padre Moye", com sede em São Paulo, Estado de São Paulo.

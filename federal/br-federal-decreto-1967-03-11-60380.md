@@ -1,5 +1,3 @@
-###DEC-060380-0-000-11-03-1967@@@
-
 DECRETO Nº 60.380, DE 11 DE MARÇO DE 1967.
 
 Declara caduco o Decreto nº 39.525, de 6 de julho de 1956.

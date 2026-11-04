@@ -1,5 +1,3 @@
-###DEC-056920-0-000-01-10-1965@@@
-
 DECRETO Nº 56.920, DE 1 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileira André de Monlevad a pesquisar diamante no município de Chapada dos Guimarães, Estado de Mato Grosso.

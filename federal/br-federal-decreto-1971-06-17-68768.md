@@ -1,5 +1,3 @@
-###DEC-068768-0-000-17-06-1971@@@
-
 DECRETO Nº 68.768 - DE 17 DE JUNHO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Fazenda e dá outras providências.

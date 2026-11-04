@@ -1,5 +1,3 @@
-###DEC-060250-0-000-21-02-1967@@@
-
 DECRETO Nº 60.250, DE 21 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação a área de terra no município de São Paulo, Estado de São Paulo, necessária à instalação de um terminal de microondas, integrantes do sistema básico de telecomunicações São Paulo-Pôrto Alegre (Tronco Sul).

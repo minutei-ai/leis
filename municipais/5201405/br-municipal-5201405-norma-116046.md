@@ -64,5 +64,6 @@ Art. 3º - Revogadas as disposições em contrario, esta Lei entrara em vigor na
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 03 dias de janeiro de 1996.
 
-NORBERTO TEIXEIRA<br>
+NORBERTO TEIXEIRA
+
 PREFEITO MUNICIPAL

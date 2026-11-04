@@ -1,5 +1,3 @@
-###MPV-000176-0-000-24-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 176, DE 24 DE MARÇO DE 2004
 
 Altera dispositivos da Lei nº 9.140, de 4 de dezembro de 1995, que reconhece como mortas pessoas desaparecidas em razão de participação, ou acusação de participação, em atividades políticas.

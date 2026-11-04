@@ -1,5 +1,3 @@
-###DEC-073389-0-000-31-12-1973@@@
-
 DECRETO Nº 73.389 - DE 31 DE DEZMEBRO DE 1973
 
 Extingue o Departamento  Nacional de Pesquisa Agropecuária, consoante proposta do Ministério da Agricultura nos termos do art. 4º do Decreto nº 72.020, de 28 de março de 1973.

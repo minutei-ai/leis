@@ -1,5 +1,3 @@
-###DEC-065356-0-000-14-10-1969@@@
-
 DECRETO Nº 65.356 - DE 14 DE OUTUBRO DE 1969.
 
 Modifica denominação de Escola

@@ -1,5 +1,3 @@
-###DEC-096510-0-000-15-08-1988@@@
-
 # DECRETO N.° 96.510, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SERIDÓ, LAGOA SECA” e “FAZENDA SÃO FRANCISCO”, classificado como “latifúndio por exploração”, situado nos Municípios de São José do Seridó e Jardim do Seridó, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.681, de 19 de maio de 1986, e dá outras providências.

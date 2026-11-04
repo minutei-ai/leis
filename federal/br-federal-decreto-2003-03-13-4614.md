@@ -1,5 +1,3 @@
-###DEC-004614-0-000-13-03-2003@@@
-
 DECRETO Nº 4.614, DE 13 DE MARÇO DE 2003.
 
 Atualiza o Anexo que discrimina a legislação da receita e da despesa constante da Lei no 10.640, de 14 de janeiro de 2003.

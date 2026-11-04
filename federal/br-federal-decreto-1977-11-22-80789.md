@@ -1,5 +1,3 @@
-###DEC-080789-0-000-22-11-1977@@@
-
 Decreto nº 80.789, de 22 de novembro de 1977.
 
 Declara sem efeito o Decreto número 20.066, de 30 de setembro de 1945, que autorizou a Sociedade Brasileira de Mineração Ltda. a lavrar minério de ferro e associados no Município de Belo Vale, Estado de Minas Gerais.

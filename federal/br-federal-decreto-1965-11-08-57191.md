@@ -1,5 +1,3 @@
-###DEC-057191-0-000-08-11-1965@@@
-
 DECRETO Nº 57.191, DE 8 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Yoshiaki Kosaka a pesquisar Caulim no município de Cotia - Estado de São Paulo.

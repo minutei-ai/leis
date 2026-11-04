@@ -1,5 +1,3 @@
-###DEC-077963-0-000-06-07-1976@@@
-
 DECRETO Nº 77.963, DE 6 DE JULHO DE 1976.
 
 Renova o prazo de concessão, outorgada à Usina Catende S.A., para uso exclusivo, do aproveitamento hidráulico de um desnível existente no Rio Pirangi, no Município de Palmares, Estado de Pernambuco.

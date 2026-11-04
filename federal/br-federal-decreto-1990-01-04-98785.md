@@ -1,7 +1,3 @@
-1
-
-###DEC-098785-0-000-04-01-1990@@@
-
 DECRETO Nº 98.785, DE 4 DE JANEIRO DE 1990
 
 Vigésimo Oitavo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, entre o Brasil e a Argentina (Acordo nº 1).

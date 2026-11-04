@@ -1,5 +1,3 @@
-###DEC-059568-0-000-17-11-1966@@@
-
 DECRETO Nº 59.568, DE 17 DE NOVEMBRO DE 1966.
 
 Concede à sociedade Luiz G. A. Valente S.A. - Comércio e Navegação autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210758)<br>
-
 # LEI N° 18.126, DE 19 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 121/2024, do Deputado Mauro Bragato - PSDB)

@@ -1,5 +1,3 @@
-###DEC-051114-0-000-02-08-1961@@@
-
 DECRETO Nº 51.114, DE 2 DE AGÔSTO DE 1961.
 
 Dá nova redação aos arts. V, IX, XV e XIX, do Regulamento baixado pelo Decreto nº 47.757, de 3 de fevereiro de 1960, que estabeleceu normas de execução da Lei nº 3.173, de 6 de junho de 1957, sôbre a Zona Franca de Manaus.

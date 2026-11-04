@@ -1,5 +1,3 @@
-###DEC-056389-0-000-01-06-1965@@@
-
 DECRETO Nº 56.389, DE 1º DE JUNHO DE 1965.
 
 Altera a lotação numérica e nominal do Ministério da Fazenda.

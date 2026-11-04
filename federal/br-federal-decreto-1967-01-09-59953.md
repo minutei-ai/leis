@@ -1,5 +1,3 @@
-###DEC-059953-0-000-09-01-1967@@@
-
 DECRETO Nº 59.953, DE 9 DE JANEIRO De 1967.
 
 Outorga à Centrais Elétricas de Santa Catarina S.A. concessão para distribuir energia elétrica no Município de Pôrto Belo, da outra providências.

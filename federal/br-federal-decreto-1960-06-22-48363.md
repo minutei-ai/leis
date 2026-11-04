@@ -1,5 +1,3 @@
-###DEC-048363-0-000-22-06-1960@@@
-
 DECRETO Nº 48.363, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Wilson Gagriel Giannetti a pesquisar calcário e mármore, no município de Iporanga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-073729-0-000-04-03-1974@@@
-
 DECRETO Nº 73.729, 4 DE MARÇO DE 1974.
 
 Declara de utilidade pública as instituições que menciona.

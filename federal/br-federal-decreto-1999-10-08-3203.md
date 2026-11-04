@@ -1,5 +1,3 @@
-###DEC-003203-0-000-08-10-1999@@@
-
 DECRETO Nº 3.203, DE 8 DE OUTUBRO DE 1999.
 
 Dispõe sobre a Câmara de Relações Exteriores e Defesa Nacional, do Conselho de Governo.

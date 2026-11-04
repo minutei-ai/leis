@@ -1,5 +1,3 @@
-###DEL-004174-0-000-13-03-1942@@@
-
 DECRETO-LEI N. 4.174 – DE 13 DE MARÇO DE 1942
 
 Considera de interesse para o serviço militar o exercício do cargo de Diretor Técnico em vários estabelecimentos de indústria civil.

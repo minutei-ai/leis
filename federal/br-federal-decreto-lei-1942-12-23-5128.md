@@ -1,5 +1,3 @@
-###DEL-005128-0-000-23-12-1942@@@
-
 DECRETO-LEI N. 5.128 – DE 23 DE DEZEMBRO DE 1942
 
 Modifica a lei orgânica do Tribunal de Contas

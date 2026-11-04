@@ -1,5 +1,3 @@
-###DEC-075487-0-000-18-03-1975@@@
-
 Decreto N° 75.487, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de São João da Boa Vista, Estado de São Paulo.

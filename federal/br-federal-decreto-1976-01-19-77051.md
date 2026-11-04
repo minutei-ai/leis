@@ -1,5 +1,3 @@
-###DEC-077051-0-000-19-01-1976@@@
-
 DECRETO Nº 77.051, DE 19 DE JANEIRO DE 1976.
 
 Altera dispositivos do Decreto nº 71.756, de 24 de janeiro de 1973, que regulamenta, para a Aeronáutica, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

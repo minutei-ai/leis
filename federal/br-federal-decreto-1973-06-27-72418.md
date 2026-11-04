@@ -1,5 +1,3 @@
-###DEC-072418-0-000-27-06-1973@@@
-
 Decreto nº 72.418, de 27 de junho de 1973.
 
 Retifica os artigos 1º e 2º, do Decreto nº 67.602, de 18 de novembro de 1970.

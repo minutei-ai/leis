@@ -1,5 +1,3 @@
-###DEC-055797-0-000-24-02-1965@@@
-
 DECRETO Nº 55.797, DE 24 DE FEVEREIRO DE 1965.
 
 Autoriza a admissão de técnicos na Comissão do Vale do São Francisco.

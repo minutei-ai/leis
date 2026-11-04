@@ -1,5 +1,3 @@
-###DEC-068323-0-000-09-03-1971@@@
-
 DECRETO Nº 68.323, DE 9 DE MARÇO DE 1971.
 
 Outorga à Companhia Sul Sergipana de Eletricidade concessão para o aproveitamento hidráulico situado na confluência dos rios Piauí e Piauitinga, no distrito sede do município de Estância, Estado de Sergipe, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055441-0-000-31-12-1964@@@
-
 DECRETO Nº 55.441, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Lazaro dos Reis a pesquisar ouro e diamante nos municípios de Grão Mogol e Turmalina, Estado de Minas Gerais.

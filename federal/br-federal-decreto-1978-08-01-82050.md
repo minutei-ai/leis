@@ -1,5 +1,3 @@
-###DEC-082050-0-000-01-08-1978@@@
-
 DECRETO Nº 82.050, DE 01 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Viçosa, Estado de Alagoas.

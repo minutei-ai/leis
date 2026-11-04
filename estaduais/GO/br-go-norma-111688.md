@@ -16,10 +16,68 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>350-FUNDO ESPECIAL DE REAPARELHAMENTO DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REFORMA E AMPLIAÇÃO DA NOVA SEDE DO TCMGO</td><td style=" width:85px;    ">01 032 1047 3150</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 15.032.195,02</td><td style=" width:85px;    ">R$ 15.032.195,02</td></tr><tr><td style=" width:85px;    ">REFORMA E AMPLIAÇÃO DA NOVA SEDE DO TCMGO</td><td style=" width:85px;    ">01 032 1047 3150</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 13.867.804,98</td><td style=" width:85px;    ">R$ 13.867.804,98</td></tr></tbody></table>
+**350-FUNDO ESPECIAL DE REAPARELHAMENTO DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; height: 19px; text-align: right;">R$ 15.032.195,02</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; text-align: right;">R$ 13.867.804,98</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style="width: 340px; text-align: right;">R$ 28.900.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REFORMA E AMPLIAÇÃO DA NOVA SEDE DO TCMGO
+
+01 032 1047 3150
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 15.032.195,02
+
+R$ 15.032.195,02
+
+REFORMA E AMPLIAÇÃO DA NOVA SEDE DO TCMGO
+
+01 032 1047 3150
+
+25010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 13.867.804,98
+
+R$ 13.867.804,98
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 15.032.195,02
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 13.867.804,98
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 28.900.000,00

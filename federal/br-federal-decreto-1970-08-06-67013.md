@@ -1,5 +1,3 @@
-###DEC-067013-0-000-06-08-1970@@@
-
 DECRETO Nº 67.013, DE 6 DE AGÔSTO DE 1970.
 
 Declara caduco o Decreto nº 15.201, de 29 de março de 1944.

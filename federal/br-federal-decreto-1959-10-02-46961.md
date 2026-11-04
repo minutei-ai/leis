@@ -1,5 +1,3 @@
-###DEC-046961-0-000-02-10-1959@@@
-
 DECRETO Nº 46.961, DE 2 DE OUTUBRO DE 1959.
 
 Outorga à Companhia Hidrelétrica do Rio Pardo concessão para o aproveitamento progressivo de energia hidráulica de um trecho do rio Pardo compreendido entre a foz do rio Lambari e o reservatório da usina Euclides da Cunha situado nos municípios de Caconde e São José do Rio Pardo, Estado de São Paulo.

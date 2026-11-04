@@ -1,6 +1,10 @@
 > **LEI Nº 3.237, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a implantação do programa de orientação e prevenção do câncer de intestino no âmbito do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a implantação do programa de orientação e prevenção do câncer de intestino no âmbito do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -21,5 +25,3 @@ Rio Branco – Acre, 15 de março de 2017, 129º da República, 115º do Tratado
 **Tião Viana**
 
 Governador do Estado do Acre
-
-<br>

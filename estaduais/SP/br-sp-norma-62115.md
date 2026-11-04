@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62115)
-
 # LEI Nº 12.347, DE 24 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 708/2004, do Deputado Edson Gomes - PFL)

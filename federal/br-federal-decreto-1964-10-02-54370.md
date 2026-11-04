@@ -1,5 +1,3 @@
-###DEC-054370-0-000-02-10-1964@@@
-
 Decreto nº 54.370, de 2 de outubro de 1964.
 
 Cria a Escola de Arquitetura na Universidade do Ceará, dispõe sôbre o respectivo funcionamento e dá outras providências.

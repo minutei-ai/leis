@@ -1,5 +1,3 @@
-###DEC-045952-0-000-30-04-1959@@@
-
 DECRETO Nº 45.952, DE 30 de ABRIL DE 1959.
 
 Aprova o Regulamento da Diretoria de Material de Comunicação (DMC).

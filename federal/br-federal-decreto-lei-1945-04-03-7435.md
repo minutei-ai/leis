@@ -1,5 +1,3 @@
-###DEL-007435-0-000-03-04-1945@@@
-
 DECRETO-LEI N. 7.435 – DE 3 DE ABRIL DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 90.000,00, e dá outras providências

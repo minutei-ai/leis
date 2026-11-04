@@ -1,7 +1,3 @@
-1
-
-###DEC-097879-0-000-26-06-1989@@@
-
 DECRETO N° 97.879, DE 26 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Educação Artística do Centro de Educação e Artes de Cuiabá.

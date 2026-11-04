@@ -1,5 +1,3 @@
-###DEC-002239-0-000-27-05-1997@@@
-
 DECRETO Nº 2.239, DE 27 DE MAIO DE 1997
 
 Remaneja cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e dá outras providências.

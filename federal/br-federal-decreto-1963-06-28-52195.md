@@ -1,5 +1,3 @@
-###DEC-052195-0-000-28-06-1963@@@
-
 Decreto nº 52.195, de 28 de junho de 1963.
 
 Concede reconhecimento ao Curso de Engenharia Civil da Escola de Engenharia da Pontifícia Universidade Católica do Rio Grande do Sul.

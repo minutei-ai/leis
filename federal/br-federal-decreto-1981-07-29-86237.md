@@ -1,5 +1,3 @@
-###DEC-086237-0-000-29-07-1981@@@
-
 DECRETO Nº 86.237, DE 29 DE JULHO DE 1981
 
 Autoriza o aumento do Capital Social da Companhia Siderúrgica da Amazônia - SIDERAMA.

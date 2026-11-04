@@ -1,5 +1,3 @@
-###DEC-079626-0-000-28-04-1977@@@
-
 DECRETO Nº 79.626, DE 28 DE ABRIL DE 1977
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Processamento de Dados, da Universidade Federal de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo.

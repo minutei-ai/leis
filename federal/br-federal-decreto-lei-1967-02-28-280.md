@@ -1,5 +1,3 @@
-###DEL-000280-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 280, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a organizar uma Sociedade por Ações e dá outras providências.

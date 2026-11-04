@@ -1,24 +1,22 @@
-###DEC-032424-0-000-12-03-1953@@@
+**DECRETO Nº 32.424, DE 12 DE MARÇO DE 1953.**
 
-<strong>DECRETO Nº 32.424, DE 12 DE MARÇO DE 1953.</strong>
+***Aprova o Regulamento para a Diretoria do Armamento da Marinha.***
 
-<em><strong>Aprova o Regulamento para a Diretoria do Armamento da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, resolve:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, resolve:
+**Art**. 1º. Fica aprovado o Regulamento para a Diretoria do Armamento da Marinha, que com êste baixa, assinado, pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º. Fica aprovado o Regulamento para a Diretoria do Armamento da Marinha, que com êste baixa, assinado, pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de março de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<strong>Art</strong>. 1º. A Diretoria do Armamento da Marinha (DA) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com os armamentos, ofensivo e defensivo, da MB e todos os sistemas, equipamentos e demais material especializado a êles, correlato; bem como pesquisar novas armas a serem adotadas, atendido o que prevê o artigo 17 do Regulamento para o Estado Maior da Armada (aprovado pelo Decreto nº 32.101-A, Reservado, de 17 de janeiro de 1953).
+**Art**. 1º. A Diretoria do Armamento da Marinha (DA) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com os armamentos, ofensivo e defensivo, da MB e todos os sistemas, equipamentos e demais material especializado a êles, correlato; bem como pesquisar novas armas a serem adotadas, atendido o que prevê o artigo 17 do Regulamento para o Estado Maior da Armada (aprovado pelo Decreto nº 32.101-A, Reservado, de 17 de janeiro de 1953).
 
 Parágrafo único. A DA é subordinada:
 
@@ -28,7 +26,7 @@ b) ao Estado Maior da Armada, quanto ao comando e à logística de consumo;
 
 c) à Secretaria Geral da Marinha, quanto à logística de produção e à administração dos negócios da MB.
 
-<strong>Art</strong>. 2º. À DA competirá:
+**Art**. 2º. À DA competirá:
 
 a) planejar suas atividades;
 
@@ -46,13 +44,13 @@ g) representar a MB em congressos ou conferências técnicas sôbre assunto de s
 
 h) emitir parecer sôbre assuntos técnicos de sua alçada.
 
-<strong>CAPITULO II</strong>
+**CAPITULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
 Estrutura Orgânica
 
-<strong>Art</strong>. 3º. Além do Diretor Geral do Armamento e seu Gabinete, a DA disporá de uma Vice-Diretoria, um Grupo de Inspeção e dos quatro seguintes Departamentos:
+**Art**. 3º. Além do Diretor Geral do Armamento e seu Gabinete, a DA disporá de uma Vice-Diretoria, um Grupo de Inspeção e dos quatro seguintes Departamentos:
 
 Departamento de Planejamento - (DA-10).
 
@@ -66,17 +64,17 @@ Parágrafo único. A Vice-Diretoria será construída pelo Vice-Diretor do Armam
 
 Atribuições dos Diversos Órgãos
 
-<strong>Art</strong>. 4º. O Diretor Geral do Armamento (DGA), Assessor Técnico do Ministro da Marinha em assuntos de Armamento, será o responsável pelo fornecimento dos requisitos de apôio logístico às Forças, Estabelecimentos Navais e Serviços da MB, no que se referir a todo o material de competência da DA.
+**Art**. 4º. O Diretor Geral do Armamento (DGA), Assessor Técnico do Ministro da Marinha em assuntos de Armamento, será o responsável pelo fornecimento dos requisitos de apôio logístico às Forças, Estabelecimentos Navais e Serviços da MB, no que se referir a todo o material de competência da DA.
 
-<strong>Art</strong>. 5º. O DGA será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DA e dos Estabelecimentos e Serviços que lhe forem subordinados.
+**Art**. 5º. O DGA será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DA e dos Estabelecimentos e Serviços que lhe forem subordinados.
 
-<strong>Art</strong>. 6º. O DGA manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou êrros que forem verificados e aperfeiçoar os serviços.
+**Art**. 6º. O DGA manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou êrros que forem verificados e aperfeiçoar os serviços.
 
-<strong>Art</strong>. 7º. No desempenho de suas atribuições, o DGA terá como auxiliares diretores o Vice-Diretor e seu Gabinete.
+**Art**. 7º. No desempenho de suas atribuições, o DGA terá como auxiliares diretores o Vice-Diretor e seu Gabinete.
 
 Vice-Diretoria (DA-05)
 
-<strong>Art</strong>. 8º. À Vice-Diretoria (DA-05) competirá:
+**Art**. 8º. À Vice-Diretoria (DA-05) competirá:
 
 a) providenciar a execução das diretivas e ordens do DGA;
 
@@ -98,7 +96,7 @@ i) verificar todo o expediente a ser submetido ao DGA.
 
 Grupo de Inspeção (DA-06)
 
-<strong>Art</strong>. 9º. Ao Grupo de Inspeção (DA-06), constituído por um chefe assessorado por oficiais da própria DA, competirá:
+**Art**. 9º. Ao Grupo de Inspeção (DA-06), constituído por um chefe assessorado por oficiais da própria DA, competirá:
 
 a) inspecionar periòdicamente todos os órgãos sob o controle técnico ou administrativo da DA, atendendo às instruções ou recomendações da Inspetoria Geral da Marinha e procurando especialmente constatar;
 
@@ -116,9 +114,9 @@ d) manter o DGA ao para da produção das fábricas, oficinas e laboratórios da
 
 Departamentos
 
-<strong>Art</strong>. 10. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
+**Art**. 10. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
 
-<strong>Art</strong>. 11. Ao Departamento de Planejamento (DA-10) competirá:
+**Art**. 11. Ao Departamento de Planejamento (DA-10) competirá:
 
 a) elaborar os planos de atividades da DA e dos órgãos que lhe são subordinados;
 
@@ -132,7 +130,7 @@ e) organizar os elementos informativos necessários à mobilização dos recurso
 
 f) organizar o plano de ensino técnico profissional do pessoal civil da DA.
 
-<strong>Art</strong>. 12. Ao Departamento de Estudos (DA-20) competirá:
+**Art**. 12. Ao Departamento de Estudos (DA-20) competirá:
 
 a) estudar, projetar, especificar e alterar o armamento ofensivo e defensivo da MB, os sistemas, equipamentos e demais técnico a êle correlato;
 
@@ -144,7 +142,7 @@ d) manter a biblioteca e o arquivo técnico da DA;
 
 e) acompanhar o progresso, científico e técnico do armamento, estimulando-o no País.
 
-<strong>Art</strong>. 13. Ao Departamento de Experiências e Pesquisas (DA-30) competirá:
+**Art**. 13. Ao Departamento de Experiências e Pesquisas (DA-30) competirá:
 
 a) realizar, promover e auxiliar experiências e pesquisas que interessem ao armamento e demais material afeto à DA;
 
@@ -154,9 +152,9 @@ c) estabelecer normas para as experiências e pesquisas que interessem à DA;
 
 d) manter o DGA ao corrente das atividades relativas a experiências e pesquisas, desenvolvidas pelos órgãos subordinados à DA;
 
-e) <em>elaborar programas de experiências</em> e pesquisas a serem cumpridas pelos órgãos subordinados à DA;
+e) *elaborar programas de experiências* e pesquisas a serem cumpridas pelos órgãos subordinados à DA;
 
-<strong>Art</strong>. 14. Ao Departamento de Intendência (DA-40) competirá:
+**Art**. 14. Ao Departamento de Intendência (DA-40) competirá:
 
 a) lavrar contratos;
 
@@ -172,21 +170,21 @@ f) elaborar a proposta orçamentária da DA e dos órgãos a ela subordinados;
 
 g) coligir e analisar os dados referentes à contabilidade industrial dos órgãos subordinados à DA, indicando providências para seu aperfeiçoamento;
 
-<strong>Art</strong>. 15. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DA.
+**Art**. 15. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DA.
 
 Gabinete
 
-<strong>Art</strong>. 16. Ao Gabinete do DGA (DA-02) competirá:
+**Art**. 16. Ao Gabinete do DGA (DA-02) competirá:
 
 a) desempenho de funções de representação;
 
 b) a correspondência de caráter pessoal do DGA.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Ar</strong>t. 17. À DA disporá do seguinte pessoal:
+**Ar**t. 17. À DA disporá do seguinte pessoal:
 
 a) um diretor Geral do Armamento, oficial general, da ativa, do Corpo da Armada ou do Corpo de Engenheiros e Técnicos Navais;
 
@@ -210,37 +208,37 @@ j) tantos oficiais da ativa ou da reserva, dos diversos Corpos e Quadros da MB, 
 
 l) tantos suboficiais, sargentos, marinheiros, fuzileiros, taifeiros e servidores civis, quantos forem necessários, de acôrdo com os efetivos fixados no Regimento Interno.
 
-Parágrafo único. Os oficiais dos quais tratam as alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, e <em>f</em> deverão ser, de preferência, especializados em armamento.
+Parágrafo único. Os oficiais dos quais tratam as alíneas *a*, *b*, *c*, *d*, e *f* deverão ser, de preferência, especializados em armamento.
 
-<strong>Art</strong>. 18. As atribuições do pessoal serão discriminadas no Regimento Interno da DA.
+**Art**. 18. As atribuições do pessoal serão discriminadas no Regimento Interno da DA.
 
-<strong>Art</strong>. 19. O pessoal da DA será nomeado, designado ou admitido de acôrdo com legislação em vigor.
+**Art**. 19. O pessoal da DA será nomeado, designado ou admitido de acôrdo com legislação em vigor.
 
-<strong>CAPITULO IV</strong>
+**CAPITULO IV**
 
-<em>Das disposições gerais</em>
+*Das disposições gerais*
 
-<strong>Art</strong>. 20. Ficarão subordinadas à DA todos os órgãos dos seguintes tipos: Centros de Armamento e de Munição; Fábricas de Armamento, de Pólvora e de Explosivos; Laboratórios especializados em assuntos ligados ao armamento; Depósitos de Material Bélico; Oficinas de Reparo de Armamento; Polígonos de Tiro.
+**Art**. 20. Ficarão subordinadas à DA todos os órgãos dos seguintes tipos: Centros de Armamento e de Munição; Fábricas de Armamento, de Pólvora e de Explosivos; Laboratórios especializados em assuntos ligados ao armamento; Depósitos de Material Bélico; Oficinas de Reparo de Armamento; Polígonos de Tiro.
 
 Parágrafo único. Os regulamentos ou regimentos internos dos diversos órgãos, conforme o caso, especificarão, quando necessário, a natureza da subordinação.
 
-<strong>Art</strong>. 21. O serviço interno da DA obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação dêste Regulamento.
+**Art**. 21. O serviço interno da DA obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação dêste Regulamento.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 22. Durante o prazo fixado no artigo 21, o DGA expedirá as instruções necessárias à adaptação das disposições contidas nêste Regulamento.
+**Art**. 22. Durante o prazo fixado no artigo 21, o DGA expedirá as instruções necessárias à adaptação das disposições contidas nêste Regulamento.
 
-<strong>Art</strong>. 23. Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme ocaso, pelo qual se deverá reger.
+**Art**. 23. Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme ocaso, pelo qual se deverá reger.
 
-<strong>Art</strong>. 24. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os Regulamentos ou Regimentos Internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos Regulamentos ou Regimentos Internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
+**Art**. 24. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os Regulamentos ou Regimentos Internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos Regulamentos ou Regimentos Internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
 
-<strong>Art</strong>. 25. Êste Regulamento deverá ser revisto dentro do prazo de doze meses contados a partir de sua aprovação.
+**Art**. 25. Êste Regulamento deverá ser revisto dentro do prazo de doze meses contados a partir de sua aprovação.
 
 Rio de Janeiro, D.F., 12 de março de 1953.
 
-<strong>RENATO DE ALMEIDA GUILLOBEL</strong>
+**RENATO DE ALMEIDA GUILLOBEL**
 
 Vice-Almirante
 

@@ -1,5 +1,3 @@
-###DEC-075451-0-000-06-03-1975@@@
-
 DECRETO Nº 75.451, DE 6 DE MARÇO DE 1975.
 
 Declara sem efeito o Decreto nº 58.144, de 4 de abril de 1966, que concedeu a Sebastião de Faria o direito de lavrar quartzo, feldspato e caulim.

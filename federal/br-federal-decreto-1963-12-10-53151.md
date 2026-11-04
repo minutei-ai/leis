@@ -1,5 +1,3 @@
-###DEC-053151-0-000-10-12-1963@@@
-
 Decreto nº 53.151, de 10 de dezembro de 1963.
 
 Determina providências para a declaração de nulidade ou caducidade de autorização de pesquisa ou lavra de jazidas minerais.

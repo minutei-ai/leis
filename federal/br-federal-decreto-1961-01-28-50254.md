@@ -1,5 +1,3 @@
-###DEC-050254-0-000-28-01-1961@@@
-
 DECRETO Nº 50.254,DE 28 DE JANEIRO DE 1961.
 
 Retifica e altera o Decreto número 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.986, de 3 de abril de 1956.

@@ -1,5 +1,3 @@
-###DEC-002067-0-000-12-11-1996@@@
-
 DECRETO Nº 2.067, DE 12 DE NOVEMBRO DE 1996.
 
 Promulga o Protocolo de Cooperação e Assistência Jurisdicional em Matéria Civil, Comercial, Trabalhista e Administrativa.

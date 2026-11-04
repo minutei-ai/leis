@@ -1,5 +1,3 @@
-###DEC-051868-0-000-27-03-1963@@@
-
 decreto nº 51.868, de 27 de março de 1963.
 
 Cria Grupo de Trabalho para propor diretrizes para o desenvolvimento da pesca no País.

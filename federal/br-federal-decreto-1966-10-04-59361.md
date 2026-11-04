@@ -1,5 +1,3 @@
-###DEC-059361-0-000-04-10-1966@@@
-
 Decreto nº 59.361, de 4 de outubro de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, a área que indica.

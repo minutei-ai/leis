@@ -1,5 +1,3 @@
-###DEC-050642-0-000-20-05-1961@@@
-
 DECRETO Nº 50.642, DE 20 DE MAIO DE 1961.
 
 Aprova as novas razões percentuais para efeito de cálculo da parte variável da remuneração dos Agentes Fiscais do Impôsto de Consumo.

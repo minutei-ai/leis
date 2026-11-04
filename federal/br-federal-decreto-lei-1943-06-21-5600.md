@@ -1,5 +1,3 @@
-###DEL-005600-0-000-21-06-1943@@@
-
 DECRETO‑LEI N. 5.600 – DE 21 DE JUNHO DE 1943
 
 Altera dispositivos de decreto‑lei n. 4.178, de 13 de março de 1942

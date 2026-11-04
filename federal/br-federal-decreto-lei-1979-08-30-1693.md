@@ -1,5 +1,3 @@
-###DEL-001693-0-000-30-08-1979@@@
-
 # Decreto-leI nº 1.693, de 30 de agosto de 1979
 
 Dá nova redação a dispositivos da Lei nº 5.787, de 27 de junho de 1972, alterada pelo Decreto-lei nº 1.603, de 22 de fevereiro de 1978.

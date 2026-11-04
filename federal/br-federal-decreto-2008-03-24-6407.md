@@ -1,5 +1,3 @@
-###DEC-006407-0-000-24-03-2008@@@
-
 DECRETO Nº 6.407, DE 24 DE MARÇO DE 2008.
 
 Dá nova redação aos arts. 12 e 17 do Estatuto Social da Companhia Nacional de Abastecimento - CONAB, aprovado pelo Decreto no 4.514, de 13 de dezembro de 2002.
@@ -31,5 +29,3 @@ LUIZ INÁCIO LULA DA SILVA
 Reinhold Stephanes
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 25.3.2008

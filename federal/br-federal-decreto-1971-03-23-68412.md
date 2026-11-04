@@ -1,5 +1,3 @@
-###DEC-068412-0-000-23-03-1971@@@
-
 DECRETO Nº 68.412, DE 23 DE MARÇO DE 1971.
 
 Concede à Minérios Metalúrgicos do Nordeste Ltda. o direito de lavrar manganês, no município de Saúde, Estado da Bahia.

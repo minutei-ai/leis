@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c7ef5dfa-a473-47fa-a772-a6e4fa63c024/texto#nowhere)
 
-###DEL-000747-0-000-07-08-1969@@@
-
 DECRETO-LEI Nº 747, DE 7 DE AGôSTO DE 1969
 
 Altera o Plano Nacional de Viação - Setor Rodoviário, aprovado pela Lei nº 5.356, de 17 de novembro de 1967, incluindo a rodovia que menciona.

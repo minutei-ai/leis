@@ -1,5 +1,3 @@
-###DEC-064370-0-000-18-04-1969@@@
-
 DECRETO Nº 64.370, DE 18 DE ABRIL DE 1969.
 
 Dá nova redação ao artigo 1º do Decreto nº 63.989/68.

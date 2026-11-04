@@ -1,5 +1,3 @@
-###DEC-064251-0-000-21-03-1969@@@
-
 DECRETO Nº 64.251, DE 21 DE MARÇO DE 1969.
 
 Concede a Antônio de Souza Dias o Direito de lavrar talco, no município de Ponta Grossa, Estado do Paraná.

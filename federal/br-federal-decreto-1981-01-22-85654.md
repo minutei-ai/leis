@@ -1,5 +1,3 @@
-###DEC-085654-0-000-22-01-1981@@@
-
 Decreto nº 85.654, de 22 de janeiro de 1981.
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras que menciona.

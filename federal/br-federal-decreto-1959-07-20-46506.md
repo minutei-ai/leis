@@ -1,5 +1,3 @@
-###DEC-046506-0-000-20-07-1959@@@
-
 DECRETO Nº 46.506, DE 20 DE JULHO DE 1959.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

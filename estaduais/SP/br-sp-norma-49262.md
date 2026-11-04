@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49262)
-
 # LEI Nº 11.638, DE 07 DE JANEIRO DE 2004
 
 ## (PL 606/2003 - Caldini Crespo)

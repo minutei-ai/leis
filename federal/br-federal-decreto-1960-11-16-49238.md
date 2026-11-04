@@ -1,5 +1,3 @@
-###DEC-049238-0-000-16-11-1960@@@
-
 DECRETO N. 49.238 – DE 16 DE NOVEMBRO DE 1960
 
 Dispõe sôbre a denominação de estabelecimento.

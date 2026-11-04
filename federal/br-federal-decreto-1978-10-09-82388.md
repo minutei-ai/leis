@@ -1,5 +1,3 @@
-###DEC-082388-0-000-09-10-1978@@@
-
 Decreto nº 82 388, de 09 de outubro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, das benfeitorias que menciona, situadas no Município de Betim, Estado de Minas Gerais.

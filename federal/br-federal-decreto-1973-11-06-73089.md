@@ -1,5 +1,3 @@
-###DEC-073089-0-000-06-11-1973@@@
-
 Decreto nº 73.089 - de 6 de novembro de 1973
 
 Declara de utilidade pública, para fins de constituição, de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-050799-0-000-16-06-1961@@@
-
 DECRETO Nº 50.799, DE 16 DE JUNHO DE 1961.
 
 Desvincula do acervo da Companhia Mineira de Eletricidade os equipamentos e acessórios que especifica.
@@ -27,8 +25,6 @@ Brasília, 16 de junho de 1961; 140º da Independência e 73º da República.
 Jânio quadros
 
 João Agripino
-
-###DEC-050799-0-000-16-06-1961@@@RET01+++
 
 DECRETO Nº 50.799, DE 16 DE JUNHO DE 1961.
 

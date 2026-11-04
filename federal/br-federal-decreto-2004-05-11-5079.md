@@ -1,5 +1,3 @@
-###DEC-005079-0-000-11-05-2004@@@
-
 DECRETO Nº 5.079,  DE 11 DE MAIO DE 2004
 
 Dispõe sobre a composição, estruturação, competência e funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional \- CONSEA, e dá outras providências.

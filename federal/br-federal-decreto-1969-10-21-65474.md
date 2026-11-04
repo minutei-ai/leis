@@ -1,5 +1,3 @@
-###DEC-065474-0-000-21-10-1969@@@
-
 DECRETO Nº 65.474 - DE 21 DE OUTUBRO DE 1969.
 
 Modifica os Estatutos da Fundação Nacional do Índio e dá outras providências.

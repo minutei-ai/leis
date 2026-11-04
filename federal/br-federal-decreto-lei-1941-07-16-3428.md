@@ -1,5 +1,3 @@
-###DEL-003428-0-000-16-07-1941@@@
-
 DECRETO-LEI N. 3.428 – DE 16 DE JULHO DE 1941
 
 Fixa a representação do Embaixador na Bolívia, para o corrente exercício financeiro de 1941, em 250:000$0

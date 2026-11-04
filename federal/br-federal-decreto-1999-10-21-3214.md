@@ -1,5 +1,3 @@
-###DEC-003214-0-000-21-10-1999@@@
-
 DECRETO Nº 3.214, DE 21 DE OUTUBRO DE 1999.
 
 Revoga o § 2º do art. 74 do Decreto nº 2.574, de 29 de abril de 1998, que regulamenta a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre o desporto e dá outras providências.

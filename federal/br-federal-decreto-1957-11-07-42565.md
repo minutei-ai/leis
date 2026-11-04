@@ -1,16 +1,14 @@
-###DEC-042565-0-000-07-11-1957@@@
+**DECRETO Nº42.565, DE 11 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº42.565, DE 11 DE NOVEMBRO DE 1957.</strong>
+***Declara de utilidade pública as áreas de terra e os benfeitorias, por acaso nelas existentes, necessárias a execução das obras do projeto de aproveitamento progressivo da energia hidráulica de várias cachoeiras existentes no rio Santa Maria, município de Santa Leopoldina, Estado do Espírito Santo.***
 
-<em><strong>Declara de utilidade pública as áreas de terra e os benfeitorias, por acaso nelas existentes, necessárias a execução das obras do projeto de aproveitamento progressivo da energia hidráulica de várias cachoeiras existentes no rio Santa Maria, município de Santa Leopoldina, Estado do Espírito Santo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 junho de 1941, e o requerido pela interessada,
+**DECRETA,**
 
-<strong>DECRETA,</strong>
+**Art**. 1º Ficam declaradas de utilidade pública diversas áreas de terra necessárias á execução das obras do projeto de aproveitamento progressivo da energia hidráulica das cachoeiras timbui, Sêco, Suissa, Santa Leopoldina e Rio Bonito, existentes Rio Santa Maria, no município de Santa Leopoldina , Estado do Espírito Santo, cuja concessão foi outorgada pelo Decreto nº 40.143, de 16 de outubro de 1956.
 
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública diversas áreas de terra necessárias á execução das obras do projeto de aproveitamento progressivo da energia hidráulica das cachoeiras timbui, Sêco, Suissa, Santa Leopoldina e Rio Bonito, existentes Rio Santa Maria, no município de Santa Leopoldina , Estado do Espírito Santo, cuja concessão foi outorgada pelo Decreto nº 40.143, de 16 de outubro de 1956.
-
-<strong>Art</strong>. 2º As diversas áreas de terra descritas no artigo anterior compreendem as áreas constantes das plantas aprovadas pelo Ministério da Agricultura, no Processo D Ag 2.395-52, situadas no distrito de jetibá, município de Santa Leopoldina, Estado do Espirito Santo, de propriedade atribuída ás pessoas a seguir relacionadas:
+**Art**. 2º As diversas áreas de terra descritas no artigo anterior compreendem as áreas constantes das plantas aprovadas pelo Ministério da Agricultura, no Processo D Ag 2.395-52, situadas no distrito de jetibá, município de Santa Leopoldina, Estado do Espirito Santo, de propriedade atribuída ás pessoas a seguir relacionadas:
 
 1 - Área de 285.075 m² (duzentos e oitenta e cinco mil e setenta e cinco metros quadrados), de propriedade atribuída a Franz Herzoz,
 
@@ -126,16 +124,16 @@
 
 57 - Área de 86.250 m² (oitenta e seis mil e duzentos e cinquenta metros quadrados), de propriedade atribuída a Ernesto Binow.
 
-<strong>Art</strong>. 3º Fica autorizada à Espírito Santo Centrais Elétricas S., a promover a desaproriação das refefridas áreas de terra, na forma da legislação vigente.
+**Art**. 3º Fica autorizada à Espírito Santo Centrais Elétricas S., a promover a desaproriação das refefridas áreas de terra, na forma da legislação vigente.
 
 Parágrafo único. Nos têrmos do artigo 15 de Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956, a desapropriação é declarada de caráter urgente.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 7 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mario Meneghetti

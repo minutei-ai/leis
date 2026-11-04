@@ -1,5 +1,3 @@
-###DEC-003778-0-000-23-03-2001@@@
-
 DECRETO Nº 3.778, DE 23 DE MARÇO DE 2001
 
 Dispõe sobre a prorrogação do prazo de validade dos Restos a Pagar do exercício financeiro de 1999, no caso que especifica.

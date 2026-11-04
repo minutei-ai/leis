@@ -1,5 +1,3 @@
-###DEC-051785-0-000-04-03-1963@@@
-
 DECRETO Nº 51.785, DE 4 DE MARÇO DE 1963.
 
 Outorga ao Departamento de Águas e Energia Elétrica do Estado de São Paulo concessão para distribuir energia elétrica em diverso municípios do Estado de São Paulo e dá outras providências.

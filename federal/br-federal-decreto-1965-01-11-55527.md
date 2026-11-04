@@ -1,5 +1,3 @@
-###DEC-055527-0-000-11-01-1965@@@
-
 DECRETO Nº 55.527, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Carlos Paschoal dos Santos a pesquisar baritina no município de Ibitiara, Estado da Bahia.

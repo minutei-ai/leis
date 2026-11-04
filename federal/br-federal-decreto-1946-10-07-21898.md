@@ -1,19 +1,17 @@
-###DEC-021898-0-000-07-10-1946@@@
+**DECRETO Nº 21.898, DE 7 DE OUTUBRO 1946.**
 
-<strong>DECRETO Nº 21.898, DE 7 DE OUTUBRO 1946.</strong>
+***Concede reconhecimento ao curso ginasial do Ginásio Guanabara, do Distrito Federal.***
 
-<em><strong>Concede reconhecimento ao curso ginasial do Ginásio Guanabara, do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 72 da Lei Orgânica do Ensino Secundário,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 72 da Lei Orgânica do Ensino Secundário,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É concedido reconhecimento, sob o regime de inspeção permanente, ao curso ginasial do Ginásio Guanabara, com sede no Distrito Federal.
 
-<strong>Art</strong>. 1º É concedido reconhecimento, sob o regime de inspeção permanente, ao curso ginasial do Ginásio Guanabara, com sede no Distrito Federal.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrario.
+**Art**. 2º Revogam-se as disposições em contrario.
 
 Rio de janeiro, 7 de outubro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Ernesto de Souza Campos

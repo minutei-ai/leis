@@ -1,7 +1,3 @@
-1
-
-###DEC-099269-0-000-31-05-1990@@@
-
 DECRETO N° 99.269, DE 31 DE MAIO DE 1990
 
 Dispõe sobre a organização e o funcionamento de órgãos do Ministério da Justiça e dá outras providências.

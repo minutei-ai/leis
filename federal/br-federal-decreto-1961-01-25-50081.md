@@ -1,5 +1,3 @@
-###DEC-050081-0-000-25-01-1961@@@
-
 DECRETO Nº 50.081, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Difusora Carioca Limitada para estabelecer uma estação de radiodifusão.

@@ -1,5 +1,3 @@
-###DEC-049232-0-000-16-11-1960@@@
-
 DECRETO Nº 49.232, DE 16 DE Novembro DE 1960.
 
 Autoriza o cidadão brasileiro Tarnier Teixeira a lavrar cassiterita no município de Ipameri, Estado de Goiás.

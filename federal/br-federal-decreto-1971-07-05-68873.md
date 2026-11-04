@@ -1,5 +1,3 @@
-###DEC-068873-0-000-05-07-1971@@@
-
 DECRETO Nº 68.873, DE 5 DE JULHO DE 1971.
 
 Altera a área e estabelece os limites do Parque Nacional do Araguaia.

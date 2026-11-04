@@ -1,5 +1,3 @@
-###DEC-076852-0-000-17-12-1975@@@
-
 DECRETO nº 76.852, DE 17 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento das habilitações plenas em Química e Física, da Faculdade de "Auxilium" de Filosofia, Ciências e Letras, com sede na cidade de Lins, Estado de São Paulo.

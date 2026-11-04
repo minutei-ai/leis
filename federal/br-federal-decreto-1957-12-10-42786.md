@@ -1,36 +1,34 @@
-###DEC-042786-0-000-10-12-1957@@@
+**DECRETO Nº 42.786, DE 10 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.786, DE 10 DE DEZEMBRO DE 1957.</strong>
+***Aprova o Regimento do Conselho Nacional do Petróleo.***
 
-<em><strong>Aprova o Regimento do Conselho Nacional do Petróleo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Conselho Nacional do Petróleo, que com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Conselho Nacional do Petróleo, que com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 10 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico de Aguiar Salles
 
-<strong>REGIMENTO DO CONSELHO NACIONAL DE PETRÓLEO</strong>
+**REGIMENTO DO CONSELHO NACIONAL DE PETRÓLEO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Definição</em>
+*Da Definição*
 
-<strong>Art</strong>. 1º O Conselho Nacional do Petróleo (C.N.P.), instituído pelo Decreto-lei nº 395, de 29 de abril de 1938, organizado pelos Decretos-leis nº 538, de 7 de julho de 1938, e número 1.143, de 9 de março de 1939, é órgão autônomo, diretamente subordinado ao Presidente da República.
+**Art**. 1º O Conselho Nacional do Petróleo (C.N.P.), instituído pelo Decreto-lei nº 395, de 29 de abril de 1938, organizado pelos Decretos-leis nº 538, de 7 de julho de 1938, e número 1.143, de 9 de março de 1939, é órgão autônomo, diretamente subordinado ao Presidente da República.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 2º O C.N.P., é órgão de orientação e fiscalização do monopólio da União, instituído pelo art. 1º da Lei nº 2.004, de 3 de outubro de 1953, tem por fim:
+**Art**. 2º O C.N.P., é órgão de orientação e fiscalização do monopólio da União, instituído pelo art. 1º da Lei nº 2.004, de 3 de outubro de 1953, tem por fim:
 
 I - superintender as medidas concernentes ao abastecimento nacional do petróleo e ao aproveitamento de outros hidrocarbonetos fluidos e gases raros;
 
@@ -38,15 +36,15 @@ II - promover, orientar e fiscalizar o aproveitamento das jazidas de rochas betu
 
 Parágrafo único. entende-se por abastecimento nacional de petróleo a produção, a importação, a exportação, a refinação, o transporte, distribuição e o comércio de petróleo, de poço ou de xisto, e de seus derivados.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO CONSELHO</em>
+*DO CONSELHO*
 
-<strong>Art</strong>. 3º O C.N.P. compõe-se de:
+**Art**. 3º O C.N.P. compõe-se de:
 
 I - Plenário (Pl.).
 
@@ -60,25 +58,25 @@ V - Gabinete do Presidente (G.P.).
 
 VI - Serviço Jurídico. (S.J.).
 
-<strong>Art</strong>. 4º O C.N.P. será dirigido por um Presidente, nomeado, em comissão, pelo Presidente da República.
+**Art**. 4º O C.N.P. será dirigido por um Presidente, nomeado, em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 5º As Divisões terão Diretores, nomeados, em comissão, pelo Presidente da República.
+**Art**. 5º As Divisões terão Diretores, nomeados, em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 6º O Presidente terá um Chefe de Gabinete, um Consultor Jurídico, Assistentes Técnicos, um Secretário, Oficiais e Auxiliares de Gabinete.
+**Art**. 6º O Presidente terá um Chefe de Gabinete, um Consultor Jurídico, Assistentes Técnicos, um Secretário, Oficiais e Auxiliares de Gabinete.
 
 § 1º O Consultor Jurídico, os Assistentes Técnicos, Oficiais e Auxiliares referidos neste artigo perceberão a gratificação pela representação de Gabinete que lhes fôr arbitrada pelo Presidente.
 
 § 2º O Presidente poderá conceder a gratificação a que alude o parágrafo anterior ao pessoal subalterno com exercício em seu Gabinete.
 
-<strong>Art</strong>. 7º Os Diretores de Divisão e o Chefe do Serviço Jurídico terão Secretários.
+**Art**. 7º Os Diretores de Divisão e o Chefe do Serviço Jurídico terão Secretários.
 
-<strong>Art</strong>. 8º O Gabinete do Presidente, os Serviços, as Seções, o Laboratório de Análises, a Secretaria do Plenário, o Setor de Relações Públicas, a Pagadoria e a Portaria terão Chefes; as Turmas de Administração, a Turma de Transporte, a Turma de Impressão e Encadernação, a Turma de Arquivo Geral e o Depósito de Material terão Encarregados.
+**Art**. 8º O Gabinete do Presidente, os Serviços, as Seções, o Laboratório de Análises, a Secretaria do Plenário, o Setor de Relações Públicas, a Pagadoria e a Portaria terão Chefes; as Turmas de Administração, a Turma de Transporte, a Turma de Impressão e Encadernação, a Turma de Arquivo Geral e o Depósito de Material terão Encarregados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO PLENÁRIO</em>
+*DO PLENÁRIO*
 
-<strong>Art</strong>. 9º O Pl. compõe-se de um Presidente e oito Conselheiros.
+**Art**. 9º O Pl. compõe-se de um Presidente e oito Conselheiros.
 
 Parágrafo único. Os Conselheiros são:
 
@@ -98,7 +96,7 @@ Parágrafo único. Os Conselheiros são:
 
 8\. Um representante das organizações de classe do Comércio.
 
-<strong>Art</strong>. 10. Para Presidente ou membro do Conselho é necessário:
+**Art**. 10. Para Presidente ou membro do Conselho é necessário:
 
 I - ser brasileiro nato, de notória competência e reputação ilibada, e maior de trina anos de idade;
 
@@ -106,15 +104,15 @@ II - estar no gôzo do direitos civis e políticos;
 
 III - não ter, no momento da designação, nem ter tido nos cinco anos precedentes, interêsses diretos ou indiretos em emprêsas particulares que se dediquem ou se hajam dedicado à pesquisa, lavra, industrialização ou ao comércio de petróleo e derivados, bem como às indústrias de aproveitamento de outros hidrocarbonetos fluidos ou de gases raros.
 
-<strong>Art</strong>. 11. Os Conselheiros representantes dos Ministérios são escolhidos livremente dentre os oficiais generais ou superiores do serviço ativo, os funcionários de alta categoria, os membros do magistério superior ou pessoas estranhas ao funcionalismo público.
+**Art**. 11. Os Conselheiros representantes dos Ministérios são escolhidos livremente dentre os oficiais generais ou superiores do serviço ativo, os funcionários de alta categoria, os membros do magistério superior ou pessoas estranhas ao funcionalismo público.
 
-<strong>Art</strong>. 12. Os Conselheiros representantes das organizações de classe são escolhidos de listas tríplices, uma para a Indústria e outra para o Comércio, elaboradas respectivamente pela Confederação Nacional da Indústria e pela Federação das Associações Comerciais do Brasil.
+**Art**. 12. Os Conselheiros representantes das organizações de classe são escolhidos de listas tríplices, uma para a Indústria e outra para o Comércio, elaboradas respectivamente pela Confederação Nacional da Indústria e pela Federação das Associações Comerciais do Brasil.
 
-<strong>Art</strong>. 13. Os Conselheiros serão designados por decreto.
+**Art**. 13. Os Conselheiros serão designados por decreto.
 
-<strong>Art</strong>. 14. O Presidente e os Conselheiros, depositários da confiança do Presidente da República, receberão a investidura em caráter de comissão, pelo prazo de três anos, podendo ser substituídos ou reconduzidos.
+**Art**. 14. O Presidente e os Conselheiros, depositários da confiança do Presidente da República, receberão a investidura em caráter de comissão, pelo prazo de três anos, podendo ser substituídos ou reconduzidos.
 
-<strong>Art</strong>. 15. O Pl. reunir-se-á uma vez por semana e, extraordinariamente, sempre que o Presidente o convocar, presente a maioria dos Conselheiros.
+**Art**. 15. O Pl. reunir-se-á uma vez por semana e, extraordinariamente, sempre que o Presidente o convocar, presente a maioria dos Conselheiros.
 
 § 1º As sessões serão presididas pelo Presidente do Conselho e, em sua falta ou impedimento, pelo Conselheiro mais antigo, ou pelo mais idoso, em caso de igualdade de condições.
 
@@ -124,9 +122,9 @@ III - não ter, no momento da designação, nem ter tido nos cinco anos preceden
 
 § 4º O Presidente da Petróleo Brasileiro, S.A. (Petrobrás) participará das sessões em que se tiver de deliberar sôbre assunto de interêsse da Sociedade sob sua direção sem direito a voto.
 
-<strong>Art</strong>. 16. O processo que deva ser submetido ao Pl. será distribuído pelo Presidente a um dos Conselheiros que terá, para relatá-lo, o prazo de 20 dias, prorrogável a juízo do Pl.
+**Art**. 16. O processo que deva ser submetido ao Pl. será distribuído pelo Presidente a um dos Conselheiros que terá, para relatá-lo, o prazo de 20 dias, prorrogável a juízo do Pl.
 
-<strong>Art</strong>. 17. A seqüência dos trabalhos das sessões será a seguinte:
+**Art**. 17. A seqüência dos trabalhos das sessões será a seguinte:
 
 I - leitura, votação e assinatura da ata da sessão anterior;
 
@@ -140,25 +138,25 @@ V - Indicações.
 
 Parágrafo único. Esta seqüência poderá ser alterada pelo Pl. para tratar de matéria urgente ou assunto para o qual peçam preferência quaisquer dos Conselheiros.
 
-<strong>Art</strong>. 18. A ordem do dia será organizada com os processos em pauta e com aquêles cuja discussão ou votação tenham sido adiadas.
+**Art**. 18. A ordem do dia será organizada com os processos em pauta e com aquêles cuja discussão ou votação tenham sido adiadas.
 
 Parágrafo único. Em caso de urgência, reconhecida pelo Pl., poderão ser submetidos a discussão e votação processos não incluídos na ordem do dia.
 
-<strong>Art</strong>. 19. Para discussão dos relatórios e pareceres, o Presidente da sessão concederá a palavra aos Conselheiros que a solicitarem.
+**Art**. 19. Para discussão dos relatórios e pareceres, o Presidente da sessão concederá a palavra aos Conselheiros que a solicitarem.
 
-<strong>Art</strong>. 20. Durante a discussão os Conselheiros poderão:
+**Art**. 20. Durante a discussão os Conselheiros poderão:
 
 I - apresentar por escrito, emendas ou substitutivos às conclusões dos pareceres;
 
 II - formular requerimentos verbais ou escritos propondo previdências para a boa instrução do assunto em debate.
 
-<strong>Art</strong>. 21. O Conselheiro que não se julgar suficientemente esclarecido poderá pedir vista do processo ou adiamento da discussão.
+**Art**. 21. O Conselheiro que não se julgar suficientemente esclarecido poderá pedir vista do processo ou adiamento da discussão.
 
 § 1º O prazo de vista será de uma semana, salvo prorrogação a juízo do Pl.
 
 § 2º Findo o prazo estabelecido no parágrafo anterior, sem que o processo haja sido restituído, entrará êste na ordem do dia, se assim deliberar o Pl.
 
-<strong>Art</strong>. 22. Após o encerramento da discussão, os pareceres e as emendas ou substitutivos serão submetidos a votação nominal.
+**Art**. 22. Após o encerramento da discussão, os pareceres e as emendas ou substitutivos serão submetidos a votação nominal.
 
 § 1º Qualquer Conselheiro poderá requerer preferência nas votações.
 
@@ -166,9 +164,9 @@ II - formular requerimentos verbais ou escritos propondo previdências para a bo
 
 § 3º Para encaminhamento da votação, o Presidente da sessão concederá a palavra ao Conselheiro que a solicitar, durante o prazo que fôr determinado pelo Pl.
 
-<strong>Art</strong>. 23. As dúvidas suscitadas na aplicação dêste Regimento, atinentes às atividades do Pl, constituirão questões de ordem, que poderão ser levantadas em qualquer fase da sessão.
+**Art**. 23. As dúvidas suscitadas na aplicação dêste Regimento, atinentes às atividades do Pl, constituirão questões de ordem, que poderão ser levantadas em qualquer fase da sessão.
 
-<strong>Art</strong>. 24. Da sessão se lavrará ata, com a exposição sucinta dos trabalhos.
+**Art**. 24. Da sessão se lavrará ata, com a exposição sucinta dos trabalhos.
 
 § 1º A ata, depois de lida e aprovada, será assinada pelo Presidente da sessão, Conselheiros, presentes e por quem a tiver lavrado.
 
@@ -176,13 +174,13 @@ II - formular requerimentos verbais ou escritos propondo previdências para a bo
 
 § 3º Não havendo sessão por falta de número, lavrar-se-á um têrmo de ata, para constar.
 
-<strong>Art</strong>. 25. As sessões serão taquigrafadas, podendo ser revistas as notas respectivas pelos Conselheiros.
+**Art**. 25. As sessões serão taquigrafadas, podendo ser revistas as notas respectivas pelos Conselheiros.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA DIVISÃO TÉCNICA</em>
+*DA DIVISÃO TÉCNICA*
 
-<strong>Art</strong>. 26. A D.T. compõe-se de:
+**Art**. 26. A D.T. compõe-se de:
 
 I - Seção de Autorização e Fiscalização (S.A.F.);
 
@@ -196,13 +194,13 @@ V - Laboratório de Análises (L.A.);
 
 VI - Turma de Administração (T.A.).
 
-<strong>Art</strong>. 27. O Diretor terá um Assistente-Chefe e três Assessôres Técnicos.
+**Art**. 27. O Diretor terá um Assistente-Chefe e três Assessôres Técnicos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA DIVISÃO ECONÔMICA</em>
+*DA DIVISÃO ECONÔMICA*
 
-<strong>Art</strong>. 28. A D.E. compõe-se de:
+**Art**. 28. A D.E. compõe-se de:
 
 I - Serviço de Abastecimento (S.A.);
 
@@ -236,15 +234,15 @@ b) Seção de Consumo e Estoque (S.C.E.);
 
 c) Seção de Registro e Cadastro (S.R.C.).
 
-<strong>Art</strong>. 29. A Divisão Econômica contará com uma Assessoria Econômica e uma Auditoria Contábil, que funcionará junto ao Gabinete do Diretor.
+**Art**. 29. A Divisão Econômica contará com uma Assessoria Econômica e uma Auditoria Contábil, que funcionará junto ao Gabinete do Diretor.
 
 Parágrafo único. A Assessoria Econômica contará com quatro Assessôres e a Auditoria Contábil com quatro Auditores.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA DIVISÃO ADMINISTRATIVA</em>
+*DA DIVISÃO ADMINISTRATIVA*
 
-<strong>Art</strong>. 30. A D.A. compõe-se de:
+**Art**. 30. A D.A. compõe-se de:
 
 I - Seção do Pessoal (S.P.).
 
@@ -266,37 +264,37 @@ VII - Portaria (P.).
 
 § 3º Subordinado à S.C. funcionará a Turma de Arquivo Geral (T.A.G.).
 
-<strong>Art</strong>. 31. O Diretor terá um Assessor Técnico.
+**Art**. 31. O Diretor terá um Assessor Técnico.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO GABINETE DO PRESIDENTE</em>
+*DO GABINETE DO PRESIDENTE*
 
-<strong>Art</strong>. 32. O G.P. compõe-se de:
+**Art**. 32. O G.P. compõe-se de:
 
 I - Secretaria do Plenário (S.Pl.).
 
 II - Setor de Relações Públicas (S.R.Pb.).
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO SERVIÇO JURÍDICO</em>
+*DO SERVIÇO JURÍDICO*
 
-<strong>Art</strong>. 33. O S.J. compõe-se de:
+**Art**. 33. O S.J. compõe-se de:
 
 I - Seção de Legislação e Jurisprudência (S.L.J.)
 
 II - Seção de Contrôle e Autorização (S.C.A.).
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da Competência</em>
+*Da Competência*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO CONSELHO</em>
+*DO CONSELHO*
 
-<strong>Art</strong>. 34. Ao C.N.P. compete:
+**Art**. 34. Ao C.N.P. compete:
 
 I - autorizar, regular e controlar a importação e exportação, o transporte, a distribuição e o comércio de petróleo e gases raros, bem assim seus derivados, no território nacional;
 
@@ -330,11 +328,11 @@ XV - adotar tôdas as medidas que julgar necessárias para assegurar o fiel cump
 
 XVI - fixar, na forma da lei, os preços do petróleo e derivados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA DIVISÃO TÉCNICA</em>
+*DA DIVISÃO TÉCNICA*
 
-<strong>Art</strong>. 35. À D.T. compete:
+**Art**. 35. À D.T. compete:
 
 I - promover, orientar e superintender, do ponto de vista técnico, a  execução do Código de Minas no que se refere às jazidas de rochas betuminosas e pirobetuminosas, instruindo e preparando os expedientes a serem submetidos ao Presidente;
 
@@ -344,7 +342,7 @@ III - superintender as medidas da ordem técnica relativas ao abastecimento naci
 
 IV - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>Art</strong>. 36. A S.A.F. compete:
+**Art**. 36. A S.A.F. compete:
 
 I - instruir e processar os pedidos de autorização e registro para pesquisa e lavra de jazidas de rochas betuminosas e pirobetuminosas, extraindo as certidões, competentes;
 
@@ -366,7 +364,7 @@ IX - manter cadastro dêsses depósitos e respectivos equipamentos;
 
 X - lavrar autos de infração a leis e regulamentos relativos às instalações e equipamentos acima mencionados.
 
-<strong>Art</strong>. 37. À S.P.L. compete:
+**Art**. 37. À S.P.L. compete:
 
 I - opinar sôbre os planos e relatórios de pesquisa e de lavra de jazidas de petróleo, gases naturais e gases raros de qualquer origem e de rochas betuminosas e pirobetuminosas;
 
@@ -384,7 +382,7 @@ VII - propor medidas destinadas a favorecer a formação de técnicos de petról
 
 VIII - realizar ou promover trabalhos de geologia, paleontologia, petrografia e mineralogia, de interêsse do Conselho.
 
-<strong>Art</strong>. 38. À S.I.T. compete:
+**Art**. 38. À S.I.T. compete:
 
 I - emitir pareceres sôbre os pedidos para instalação, construção e ampliação de refinarias de petróleo, destilarias, de rochas betuminosas e pirobetuminosas, usinas de recuperação de óleos usados, oleodutos, gasodutos e terminais;
 
@@ -398,7 +396,7 @@ V - emitir certificados técnicos referentes à instalação de refinarias de pe
 
 VI - manter cadastro das refinarias, destilarias, fábricas de produtos petroquímicos e dos condutos para transporte de petróleo e derivados.
 
-<strong>Art</strong>. 39. À S.D. compete:
+**Art**. 39. À S.D. compete:
 
 I - executar serviços de desenho, cartografia, microfotografia, cópias heliográficas e fotostáticas necessários às atividades do Conselho;
 
@@ -406,7 +404,7 @@ II - verificar a exatidão das plantas e mapas apresentados ao Conselho;
 
 III - manter atualizados o arquivo e o fichário de desenhos e fotografias aéreas.
 
-<strong>Art</strong>. 40. Ao L. A. compete:
+**Art**. 40. Ao L. A. compete:
 
 I - realizar ou promover as análises e diligências necessárias à verificação da qualidade de petróleo e derivados ou quaisquer outros ensaios e análises.
 
@@ -420,7 +418,7 @@ V - colaborar com os outros órgãos do Conselho na formação de técnicos espe
 
 Parágrafo único. Haverá um encarregado de material, no L. A., que desempenhará as atribuições que lhe forem cometidas pelo Chefe respectivo.
 
-<strong>Art</strong>. 41. À T.A. compete:
+**Art**. 41. À T.A. compete:
 
 I - articular-se com os demais órgãos do Conselho, no sentido de maior coordenação dos trabalhos afetos à Divisão;
 
@@ -436,11 +434,11 @@ VI - organizar e manter atualizada uma coleção de circulares, portarias, parec
 
 VII  controlar a freqüência dos servidores.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA DIVISÃO ECONÔMICA</em>
+*DA DIVISÃO ECONÔMICA*
 
-<strong>Art</strong>. 42. À D.E. compete:
+**Art**. 42. À D.E. compete:
 
 I - promover, orientar e superintender a execução das atividades econômicas do Conselho instruindo e preparando os expedientes a serem submetidos ao Presidente do Conselho;
 
@@ -452,7 +450,7 @@ IV - organizar e submeter à aprovação do Conselho o Plano do Abastecimento Na
 
 V - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>Art</strong>. 43. À A.E. compete:
+**Art**. 43. À A.E. compete:
 
 I - Assessorar o Diretor da Divisão nos estudos e pronunciamentos especializados, inclusive no que se refere o item II do art. 42;
 
@@ -460,13 +458,13 @@ II - assistir aos Serviços da Divisão em matéria especializada de sua compet�
 
 III - colaborar na organização do relatório anual da Divisão, em assuntos de sua especialidade.
 
-<strong>Art</strong>. 44. À A.C. compete:
+**Art**. 44. À A.C. compete:
 
 I - fiscalizar as operações financeiras e mercantis das emprêsa que operem no abastecimento nacional de petróleo;
 
 II - proceder ao exame da escrituração contábil das emprêsas a que se refere o item anterior.
 
-<strong>Art</strong>. 45. Ao S.A. compete:
+**Art**. 45. Ao S.A. compete:
 
 I - estudar e processar os pedidos:
 
@@ -490,7 +488,7 @@ IV - estudar as questões econômicas concernentes ao abastecimento nacional de 
 
 V - adotar ou propor providências que objetivem a perfeita execução do abastecimento nacional de petróleo, de acôrdo com as normas legais em vigor.
 
-<strong>Art</strong>. 46. À S. P. A. compete:
+**Art**. 46. À S. P. A. compete:
 
 I - elaborar, no último trimestre de cada ano, o plano do abastecimento nacional de petróleo para o ano seguinte, segundo as necessidades das zonas geo-econômicas;
 
@@ -510,7 +508,7 @@ IV - processar os pedidos de autorização relativos à importação e exportaç
 
 V - opinar sôbre os pedidos de autorização ou de registro de emprêsas constituídas ou que vierem a ser constituir para exploração da indústria petroquímica.
 
-<strong>Art</strong>. 47. À S. A. T. compete:
+**Art**. 47. À S. A. T. compete:
 
 I - emitir parecer sôbre:
 
@@ -532,7 +530,7 @@ d) das bombas e postos de serviço instalados no território nacional;
 
 IV - promover levantamentos anuais sôbre bombas, postos de serviço e veículos empregados no abastecimento nacional de petróleo.
 
-<strong>Art</strong>. 48. À S.E.A. compete:
+**Art**. 48. À S.E.A. compete:
 
 I - executar o abastecimento nacional de petróleo, de acôrdo com os trabalhos elaborados pela S.P.A.;
 
@@ -556,7 +554,7 @@ VI - coordenar as relações entre as refinarias, os imporadores, os distribuido
 
 VII - lavrar autos de infração a leis e regulamentos relativos ao abastecimento nacional de petróleo.
 
-<strong>Art</strong>. 49. Ao S. Pr. Compete:
+**Art**. 49. Ao S. Pr. Compete:
 
 I - estudar e propor a fixação dos preços de venda dos derivados de petróleo, tendo em vista, tanto quanto possível, a respectiva uniformidade em todo o território nacional;
 
@@ -578,7 +576,7 @@ VI - estudar e propor os valores do óleo de poço e de xisto betuminoso, assim 
 
 VII - opinar sôbre a mistura de álcool anidro à gasolina, ouvidos o S.A. e o L.A.
 
-<strong>Art</strong>. 50. À S. C. D. compete:
+**Art**. 50. À S. C. D. compete:
 
 I - determinar o custo:
 
@@ -594,7 +592,7 @@ IV - determinar as perdas reais que ocorrerem nos transportes e depósitos de pe
 
 V - organizar e manter atualizado documentário sôbre frete internacional e tributos que se relacionem com a importação, exportação, carga, descarga e armazenamento de petróleo e derivados.
 
-<strong>Art</strong>. 51. À S.C.T. compete:
+**Art**. 51. À S.C.T. compete:
 
 I - determinar o custo:
 
@@ -610,7 +608,7 @@ IV - sugerir o meio de transporte e a base de suprimento mais adequados ao inter
 
 V - organizar e manter atualizado documentário sôbre fretes e tributos que gravem a transferência e transporte de petróleo e derivados.
 
-<strong>Art</strong>. 52. À S.P.V. compete:
+**Art**. 52. À S.P.V. compete:
 
 I - determinar:
 
@@ -626,7 +624,7 @@ III - organizar e manter atualizado documentário de interêsse de suas atribui�
 
 IV - lavrar autos de infração relativos à inobservância dos limites, máximo e mínimo, dos preços de venda de petróleo e derivados.
 
-<strong>Art</strong>. 53. Ao S.E. compete:
+**Art**. 53. Ao S.E. compete:
 
 I - coligir e mante atualizados informes necessários e úteis ao abastecimento nacional de petróleo;
 
@@ -642,7 +640,7 @@ VI - determinar os estoques mínimos de petróleo e derivados;
 
 VII - fazer previsões das necessidades nacionais de combustíveis líquidos.
 
-<strong>Art</strong>. 54. À S.P.I.E. compete:
+**Art**. 54. À S.P.I.E. compete:
 
 I - examinar e criticar os demonstrativos periòdicos de produção das refinarias e dos refinadores;
 
@@ -654,7 +652,7 @@ IV - organizar quadros e tabelas necessários à divulgação dos elementos esta
 
 V - realizar quaisquer outros levantamentos de interêsse da Divisão.
 
-<strong>Art</strong>. 55. À S.C.E. compete:
+**Art**. 55. À S.C.E. compete:
 
 I - examinar e criticar os demonstrativos de consumo das entidades e dos distribuidores de derivados de petróleo;
 
@@ -666,7 +664,7 @@ IV - determinar os estoques mínimos de petróleo e derivados nas bases de supri
 
 V - proceder ao levantamento das entregas, quantidade misturadas, transferências e estoques de álcool anidro nos diversos pontos de entrega dêsse produto pelo instituto de Açúcar e do Álcool.
 
-<strong>Art</strong>. 56. À S.R.C. compete:
+**Art**. 56. À S.R.C. compete:
 
 I - processar os pedidos de autorização e registro para o exercício de atividades relacionadas com o abastecimento nacional de petróleo e indústria petroquímica;
 
@@ -682,7 +680,7 @@ a) documentário sôbre estatística econômica e financeira;
 
 b) registro dos dados coligidos pelos Serviços da Divisão.
 
-<strong>Art</strong>. 57. À T.A. compete:
+**Art**. 57. À T.A. compete:
 
 I - articular-se com os demais órgãos do Conselho, no sentido da maior coordenação dos trabalhos afetados à Divisão;
 
@@ -694,17 +692,17 @@ IV - preparar o expediente da Divisão, providenciando as publicações necessá
 
 V - executar trabalhos de taquigrafia e mecanografia.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA DIVISÃO ADMINISTRATIVA</em>
+*DA DIVISÃO ADMINISTRATIVA*
 
-<strong>Art</strong>. 58. À D.A. compete:
+**Art**. 58. À D.A. compete:
 
 I - promover, orientar e superintender a execução das atividades de administração geral do Conselho, instruindo e preparando os expedientes a serem submetidos ao Presidente;
 
 II - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>Art</strong>. 59. À S. P. compete:
+**Art**. 59. À S. P. compete:
 
 I - orientar e fiscalizar a aplicação da Legislação do Pessoal, elaborando ou instruindo os expedientes relaticos ao provimento e vacância dos cargos e funções do Conselho e aos direitos, vantagens, deveres e responsabilidades dos respectivos ocupantes;
 
@@ -716,7 +714,7 @@ IV - manter atualizados os registros numéricos e nominal do pessoal, bem assim 
 
 V - proceder à matrícula do pessoal do Conselho nas instituições de previdência e assistência, instruir os expedientes de averbação, consignação, desconto e recolhimento;
 
-VI - organizar e providenciar a publicação do Boletim do Pessoal, encaminhando à S. C. os expedientes que devam ser publicaods no <em>Diário Oficial</em> e órgãos da imprensa;
+VI - organizar e providenciar a publicação do Boletim do Pessoal, encaminhando à S. C. os expedientes que devam ser publicaods no *Diário Oficial* e órgãos da imprensa;
 
 VII - providenciar os exames e inspeções médicas a que tenham de submeter-se os candidatos a emprêgo no Conselho e os servidores dêste;
 
@@ -730,7 +728,7 @@ IX - colaborar na organização da proposta orçamentária e do relatório do Co
 
 X - promover ou propor a adoção de medidas que consubstanciem racional aplicação de justiça social, espírito de cooperação e harmonia nas relações de emprêgo entre o Conselho e seus servidores.
 
-<strong>Art</strong>. 60. À S.O.C. compete:
+**Art**. 60. À S.O.C. compete:
 
 I - elaborar a proposta orçamentária do Conselho, acompanhá-la e instruí-la junto aos órgãos competentes;
 
@@ -752,7 +750,7 @@ IX - adotar ou sugerir outras providências que visem a fiel aplicação dos pri
 
 X - coloborar na organização do relatório do Conselho, nos assuntos de orçamento e contabilidade.
 
-<strong>Art</strong>. 61. À Pg. Compete:
+**Art**. 61. À Pg. Compete:
 
 I - efetuar:
 
@@ -762,7 +760,7 @@ b) os recolhimentos regularmente processados;
 
 II - organizar balancete diário de caixa, encaminhando-o à S. O. C., acompanhado dos comprovantes dos pagamentos e ou recolhimentos efetuados no dia.
 
-<strong>Art</strong>. 62. À S. M. compete:
+**Art**. 62. À S. M. compete:
 
 I - executar, orientar, coordenar e fiscalizar os assuntos referentes a fornecimento de material e prestação de serviços, bem como as medidas de caráter administrativo correspondentes;
 
@@ -782,7 +780,7 @@ VIII - adotar ou sugerir medidas que visem à fiel aplicação do princípios de
 
 IX - colaborar na organização da proposta orçamentária e do relatório do Conselho, nos assuntos de Material.
 
-<strong>Art</strong>. 63. Ao D. M. compete:
+**Art**. 63. Ao D. M. compete:
 
 I - proceder à conferência, recebimento, armazenamento e distribuição do material adquirido, solicitanto as perícias que se fizerem necessárias;
 
@@ -802,13 +800,13 @@ c) o estoque existente;
 
 VI - promover o acondicionamento, despacho e expedição de material.
 
-<strong>Art</strong>. 64. À T. I. E. compete executar os serviços de impressão e encadernação necessários ao Conselho;
+**Art**. 64. À T. I. E. compete executar os serviços de impressão e encadernação necessários ao Conselho;
 
-<strong>Art</strong>. 65. À S. C: compete:
+**Art**. 65. À S. C: compete:
 
 I - receber, registrar, numerar, distribuir e expedir a correspondência oficial e os demais papéis relativos às atividades do Conselho;
 
-II - providenciar a publicação dos atos do Conselho que lhe forem encaminhados para divulgação no <em>Diário Oficial</em> e órgãos da imprensa;
+II - providenciar a publicação dos atos do Conselho que lhe forem encaminhados para divulgação no *Diário Oficial* e órgãos da imprensa;
 
 III -controlar o movimento interno de papéis;
 
@@ -818,7 +816,7 @@ V - prestar informações às partes sôbre o andamento dos expedientes que lhes
 
 VI - colaborar na organização do Relatório do Conselho, nos assuntos de comunicação e arquivo;
 
-<strong>Art</strong>. 66. À T.A.G. compete:
+**Art**. 66. À T.A.G. compete:
 
 I - receber, selecionar e gaurdar ou arquivar os documentos que devam permanecer no Conselho;
 
@@ -826,7 +824,7 @@ II - instruir e preparar as certidões autorizadas dos documentos sob seu contr�
 
 III - manter sigilo sôbre os documentos de natureza confidencial ou reservada.
 
-<strong>Art</strong>. 67. À S.D.B. compete:
+**Art**. 67. À S.D.B. compete:
 
 I - coligir, ordenar, classificar, guardar e conservar a documentação não sigilosa de interêsse do Conselho;
 
@@ -846,9 +844,9 @@ VIII - promover a tradução de obras e artigos de interêsse do Conselho, ouvid
 
 IX - colaborar na organização do Relatório do Conselho, nos assuntos de documentação e biblioteca.
 
-<strong>Art</strong>. 68. À T.T. compete promover, orientar, controlar e fiscalizar a utilização, manutenção, guarda, conservação e reparo dos veículos do Conselho.
+**Art**. 68. À T.T. compete promover, orientar, controlar e fiscalizar a utilização, manutenção, guarda, conservação e reparo dos veículos do Conselho.
 
-<strong>Art</strong>. 69. À Portaria compete:
+**Art**. 69. À Portaria compete:
 
 I - exercer vigilância e fiscalização constantes nas dependências do Conselho, especialmente nos locais de entrada e saída;
 
@@ -860,11 +858,11 @@ IV - encaminhar as partes aos dirigentes dos órgãos competentes.
 
 Parágrafo único. Haverá dois Ajudantes, na Portaria, que desempenharão as atribuições que lhes forem cometidas pelo Chefe respectivo.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO GABINETE DO PRESIDENTE</em>
+*DO GABINETE DO PRESIDENTE*
 
-<strong>Art</strong>. 70. Ao G.P. compete:
+**Art**. 70. Ao G.P. compete:
 
 I - orientar, coordenar e promover o expediente para espacho do Presidente;
 
@@ -872,7 +870,7 @@ II - registrar, classificar, guardar e conservar a documentoação de natureza s
 
 III - elaborar o expediente que fôr determinado pelo Presidente.
 
-<strong>Art</strong>. 71. À S. Pl. Compete:
+**Art**. 71. À S. Pl. Compete:
 
 I - preparar os processos a serem encaminhados ao Pl., remetê-los aos relatores designados e prestar tôdas as informações que lhe forem solicitadas pelos Conselheiros;
 
@@ -886,7 +884,7 @@ V - executar os trabalhos de taquigrafia e mecanografia relativos às atividades
 
 VI - manter registro dos prazos legais e regimentais referentes aos Conselheiros e aos processos a êles distribuídos.
 
-<strong>Art</strong>. 72. Ao S.R.Pb. compete:
+**Art**. 72. Ao S.R.Pb. compete:
 
 I - auscultar a opinão pública no que concerne às atividades do Conselho e divulgar, pelos meios adequados, as informações de interêsse da política nacional do petróleo;
 
@@ -898,11 +896,11 @@ IV - Planejar e executar o programa de relações e de atividade sociais interna
 
 V - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO SERVIÇO JURÍDICO</em>
+*DO SERVIÇO JURÍDICO*
 
-<strong>Art</strong>. 73. Ao S.J. compete:
+**Art**. 73. Ao S.J. compete:
 
 I - estudar, do ponto de vista legal, os pedidos:
 
@@ -916,7 +914,7 @@ II - propor a adoção de normas legais de interêsse do Conselho, instruindo e 
 
 III - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>Art</strong>. 74. À S.L.J. compete:
+**Art**. 74. À S.L.J. compete:
 
 I - emitir parecer sôbre:
 
@@ -938,7 +936,7 @@ VI - providenciar e fornecer ao Ministério Público os elementos necessários �
 
 VII - acompanhar os trabalhos legislativos que digam respeito à matéria de interêsse do Conselho e emitir parecer sôbre os projetos apresentados;
 
-<strong>Art</strong>. 75. À S. C. A. compete:
+**Art**. 75. À S. C. A. compete:
 
 I - estudar e minutar contratos e convenções em que seja parte o Conselho e lavrar os respectivos instrumentos;
 
@@ -972,11 +970,11 @@ X - estudar e processar os pedidos de prorrogação e de revogação de prazo da
 
 XI - manter cadastro de associados de emprêsas que se dediquem a atividades relacionadas com abastecimento nacional do petróleo.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 76. Ao Presidente compete:
+**Art**. 76. Ao Presidente compete:
 
 I - presideir as sessões do Plenário, convocar sessões extraordinárias, designar a ordem do dia, os relatores e comissões de Conselheiros;
 
@@ -1018,7 +1016,7 @@ XIX - adortar tôda e qualquer providência que se torne necessária ao bom func
 
 Parágrafo único - O Presidente poderá delegar o exercício de atribuições de sua competência.
 
-<strong>Art</strong>. 77. Aos Conselheiros competem as atribuições de natureza deliberativa contidas no art. 34 dêste Regimento e especialmente:
+**Art**. 77. Aos Conselheiros competem as atribuições de natureza deliberativa contidas no art. 34 dêste Regimento e especialmente:
 
 I - comparecer às sessões do Pl. E requerer a convocação de sessões extraordinárias, justificando a necessidade;
 
@@ -1038,7 +1036,7 @@ VIII - solicitar ao Presidente as medidas que considerem necessárias ao desempe
 
 Parágrafo único - Aos conselheiros representantes dos Ministérios militares cabe o direito de recurso previsto no art. 8º, § 2º, do Decreto-lei nº 538, de 7 de julho de 1938.
 
-<strong>Art</strong>. 78. Aos Diretores de Divisão compete:
+**Art**. 78. Aos Diretores de Divisão compete:
 
 I - distribuir, orientar, coordenar e fiscalizar os serviços afetos ou de interêsse da Divisão;
 
@@ -1076,11 +1074,11 @@ XI - entender-se, em matéria de sua competência, com os dirigentes dos órgão
 
 XII - fornecer ao S.Dv., para o relatório anual do Conselho, os dados referentes às atividades da Divisão.
 
-<strong>Art</strong>. 79. Compete ainda ao Diretor da D.A. manter entendimentos com os dirigentes das demais Divisões e Chefes do Gabinete e do Serviço Jurídico, em assuntos de Administração Geral.
+**Art**. 79. Compete ainda ao Diretor da D.A. manter entendimentos com os dirigentes das demais Divisões e Chefes do Gabinete e do Serviço Jurídico, em assuntos de Administração Geral.
 
-<strong>Art</strong>. 80. Aos Chefes do Gabinete e do Serviço Jurídico, competem as atribuições constantes do art. 78, no que couber.
+**Art**. 80. Aos Chefes do Gabinete e do Serviço Jurídico, competem as atribuições constantes do art. 78, no que couber.
 
-<strong>Art</strong>. 81. Compete ainda:
+**Art**. 81. Compete ainda:
 
 I - ao Chefe do Gabinete:
 
@@ -1098,7 +1096,7 @@ a) - emitir ou visar pareceres e informações;
 
 b) - colaborar, nos assuntos da sua competência, com os demais órgãos do Conselho;
 
-<strong>Art</strong>. 82. Compete aos Chefes de Serviço da D.E., do Laboratório de Análises, e de Seção:
+**Art**. 82. Compete aos Chefes de Serviço da D.E., do Laboratório de Análises, e de Seção:
 
 I - distribuir o pessoal sob suas ordens, de acôrdo com as necessidades dos serviços;
 
@@ -1118,7 +1116,7 @@ VIII - propor a organização da escala de férias do pessoal;
 
 IX - apresentar ao Diretor de Divisão ou Chefe de Serviço o resumo mensal e relatório anual das atividades do órgão sob sua chefia.
 
-<strong>Art</strong>. 83. Compete ao Chefe da Secretaria do Plenário:
+**Art**. 83. Compete ao Chefe da Secretaria do Plenário:
 
 I - as atribuições constantes do art. 82, no que couber;
 
@@ -1126,7 +1124,7 @@ II - orientar e coordenar os trabalhos afertos à Secretaria do Plenário;
 
 III - assistir às sessões do Pl. adotando as providências necessárias ao bom andamento dos trabalhos e redigir a respectiva ata.
 
-<strong>Art</strong>. 84. Compete ao Chefe do Setor de Divulgação:
+**Art**. 84. Compete ao Chefe do Setor de Divulgação:
 
 I - orientar e coordenar os trabalhos afetos ao Setor;
 
@@ -1134,9 +1132,9 @@ II - providenciar, junto aos demais órgãos, os dados e elementos para elabora�
 
 III - elaborar, sob a direção do Chefe do Gabinete, o relatório anual do Conselheiro.
 
-<strong>Art</strong>. 85. Ao Consultor Jurídico, aos Assistentes Técnicos, aos Oficiais e Auxiliares de Gabinete compete executar as atribuições que lhes forem cometidas pelo Presidente.
+**Art**. 85. Ao Consultor Jurídico, aos Assistentes Técnicos, aos Oficiais e Auxiliares de Gabinete compete executar as atribuições que lhes forem cometidas pelo Presidente.
 
-<strong>Art</strong>. 86. Compete aos Assessôres Técnicos e Auditores dos Diretores de Divisão:
+**Art**. 86. Compete aos Assessôres Técnicos e Auditores dos Diretores de Divisão:
 
 I - estudar e emitir parecer nos processos que lhes forem distribuídos;
 
@@ -1150,11 +1148,11 @@ V - coordenar os dados referentes às atividades da Divisão para o relatório a
 
 VI - manter articulação com os dirigentes dos órgãos da Divisão;
 
-<strong>Art</strong>. 87. Compete aos Secretários exercer as atribuições que lhes forem cometidas pela autoridade a que estiverem subordinados.
+**Art**. 87. Compete aos Secretários exercer as atribuições que lhes forem cometidas pela autoridade a que estiverem subordinados.
 
-<strong>Art</strong>. 88. Compete aos demais Chefes e Encarregados de órgãos executar, no que couber, as atribuições referidas no art. 82.
+**Art**. 88. Compete aos demais Chefes e Encarregados de órgãos executar, no que couber, as atribuições referidas no art. 82.
 
-<strong>Art</strong>. 89. Compete ainda:
+**Art**. 89. Compete ainda:
 
 I - Ao Chefe da Portaria:
 
@@ -1176,21 +1174,21 @@ a) organizar os plantões e escalas de serviço do pessoal que lhe fôr subordin
 
 b) velar para que os motoristas se apresentem devidamente uniformizados.
 
-<strong>Art</strong>. 90. Além das atribuições especificadas neste Título, outras poderão ser cometidas por ato expresso da autoridade superior.
+**Art**. 90. Além das atribuições especificadas neste Título, outras poderão ser cometidas por ato expresso da autoridade superior.
 
-<strong>Art</strong>. 91. Compete aos servidores em geral, com exercício no Conselho, executar com presteza os trabalhos que lhes forem cometidos, zelando pela conservação e aproveitamento dos materiais e equipamentos de que se utilizarem.
+**Art**. 91. Compete aos servidores em geral, com exercício no Conselho, executar com presteza os trabalhos que lhes forem cometidos, zelando pela conservação e aproveitamento dos materiais e equipamentos de que se utilizarem.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 92. O horário normal de trabalho será fixado pelo Presidente do Conselho, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 92. O horário normal de trabalho será fixado pelo Presidente do Conselho, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 93. Serão substituídos, automàticamente, em suas faltas ou impedimentos eventuais, até 30 dias:
+**Art**. 93. Serão substituídos, automàticamente, em suas faltas ou impedimentos eventuais, até 30 dias:
 
 I - o Presidente, por um Diretor de Divisão ou pelo Chefe do Gabinete;
 
@@ -1202,43 +1200,43 @@ IV - os Secretários, por servidores designados pelas autoridades a que estivere
 
 Parágrafo único. Haverá sempre servidores prèviamente designados para as substituições a que se refere êste artigo.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Das Disposições Gerais e Transfitórias</em>
+*Das Disposições Gerais e Transfitórias*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 94. As decisões do Conselho serão publicadas no <em>Diário oficial</em> da União e, em seguida, comunicadas diretamente aos interessados, indicando-se a data da publicação.
+**Art**. 94. As decisões do Conselho serão publicadas no *Diário oficial* da União e, em seguida, comunicadas diretamente aos interessados, indicando-se a data da publicação.
 
 Parágrafo único. Das comunicações expedidas deverá ser exigido recibo, ou aviso postal de recebimento.
 
-<strong>Art</strong>. 95. Das decisões do Conselho caberá recurso para o Presidente da República, no prazo de trinta dias, contados da data da publicação no <em>Diário Oficial</em> ou do recebimento da comunicação.
+**Art**. 95. Das decisões do Conselho caberá recurso para o Presidente da República, no prazo de trinta dias, contados da data da publicação no *Diário Oficial* ou do recebimento da comunicação.
 
-<strong>Art</strong>. 96. Os conflitos de atribuição entre o Plenário e o Presidente do Conselho serão solucionados pelo Presidente da república.
+**Art**. 96. Os conflitos de atribuição entre o Plenário e o Presidente do Conselho serão solucionados pelo Presidente da república.
 
-<strong>Art</strong>. 97. Salvo prévia autorização do Presidente, aos servidores com exercício no Conselho é vedado divulgar quaisquer dados relativos às atividades afetas ou de interêsse do Conselho.
+**Art**. 97. Salvo prévia autorização do Presidente, aos servidores com exercício no Conselho é vedado divulgar quaisquer dados relativos às atividades afetas ou de interêsse do Conselho.
 
-<strong>Art</strong>. 98. Os casos omissos dêste Regimentos serão resolvidos:
+**Art**. 98. Os casos omissos dêste Regimentos serão resolvidos:
 
 I - pelo Plenário na parte deliberativa;
 
 II - pelo Presidente, na parte executiva.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 99. Enquanto não fôr criado o cargo, em comissão, de Diretor da D. T., compete ao Assistente-Chefe exercer as respectivas atribuições.
+**Art**. 99. Enquanto não fôr criado o cargo, em comissão, de Diretor da D. T., compete ao Assistente-Chefe exercer as respectivas atribuições.
 
 Rio de Janeiro, em 10 de dezembro de 1957.
 
-<strong>EURICO DE AGUIAR SALLES</strong>
+**EURICO DE AGUIAR SALLES**
 
 IX - colaborar na organização da proposta orçamentária e do relatório do Conselho, nos assuntos de Material.
 
-<strong>Art</strong>. 63. Ao D.M. compete:
+**Art**. 63. Ao D.M. compete:
 
 I - proceder à conferência, recebimento, armazenamento e distribuição do material adquirido, solicitando as perícias que se fizerem necessárias;
 
@@ -1258,13 +1256,13 @@ c) o estoque existente;
 
 VI - promover o acondicionamento, despacho e expedição de material.
 
-<strong>Art</strong>. 64. A T.I.E. compete executar os serviços de impressão e encadernação necessários ao Conselho;
+**Art**. 64. A T.I.E. compete executar os serviços de impressão e encadernação necessários ao Conselho;
 
-<strong>Art</strong>. 65. A S.C. compete:
+**Art**. 65. A S.C. compete:
 
 I - receber, registrar, numerar, distribuir, e expedir a correspondência oficial e os demais papéis relativos às atividades do Conselho;
 
-II - providenciar a publicação dos atos do Conselho que lhes fôrem encaminhados para divulgação no <em>Diário</em> <em>Oficial</em> e órgãos da imprensa;
+II - providenciar a publicação dos atos do Conselho que lhes fôrem encaminhados para divulgação no *DiárioOficial* e órgãos da imprensa;
 
 III - controlar o movimento interno de papéis;
 
@@ -1274,7 +1272,7 @@ V - prestar informações às partes sôbre o andamento dos expedientes que lhes
 
 VI - colaborar na organização do Relatório do Conselho, nos assuntos de comunicação e arquivo.
 
-<strong>Art</strong>. 66. A T.A.G. compete:
+**Art**. 66. A T.A.G. compete:
 
 I - receber, selecionar e guardar ou arquivar os documentos que devam permanecer no Conselho;
 
@@ -1282,7 +1280,7 @@ II - instruir e preparar as certidões autorizadas dos documentos sob seu contr�
 
 III - manter sigilo sôbre os documentos de natureza confidencial ou reservada.
 
-<strong>Art</strong>. 67. A S. C. B compete:
+**Art**. 67. A S. C. B compete:
 
 I - coligir, ordenar, classificar, guardar e conservar a documentação não sigilosa de interêsse do Conselho;
 
@@ -1302,9 +1300,9 @@ VIII - promover a tradução de obras e artigos de interêsse do Conselho, ouvid
 
 IX - colaborar na organização do Relatório do Conselho, nos assuntos de documentação e biblioteca.
 
-<strong>Art</strong>. 68. À T.T. compete promover, orientar, controlar e fiscalizar a utilização, manutenção, guarda, conservação e preparo e reparo dos veículos do Conselho.
+**Art**. 68. À T.T. compete promover, orientar, controlar e fiscalizar a utilização, manutenção, guarda, conservação e preparo e reparo dos veículos do Conselho.
 
-<strong>Art</strong>. 69. À Portaria compete:
+**Art**. 69. À Portaria compete:
 
 I - exercer vigilância e fiscalização constantes nas dependência do Conselho, especialmente nos locais de entrada e saída;
 
@@ -1316,11 +1314,11 @@ IV - encaminhar as partes aos dirigentes dos órgãos competentes.
 
 Parágrafo único. Haverá dois Ajudantes, na Portaria, que desempenharão as atribuições que lhe forem cometidas pelo Chefe respectivo.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO GABINETE DO PRESIDENTE</em>
+*DO GABINETE DO PRESIDENTE*
 
-<strong>Art</strong>. 70. Ao G.P. compete:
+**Art**. 70. Ao G.P. compete:
 
 I - orientar, coordenar e promover o expediente para despacho do Presidente;
 
@@ -1328,7 +1326,7 @@ II - registrar, classificar, guardar e conservar a documentação de natureza si
 
 III - elaborar o expediente que fôr determinado pelo Presidente.
 
-<strong>Art</strong>. 71. À S. P1.compete:
+**Art**. 71. À S. P1.compete:
 
 I - preparar os processos a serem encaminhados ao P1, remetê-los aos relatores designados e prestar tôdas as informações que lhe forem solicitadas pelos Conselheiros;
 
@@ -1342,7 +1340,7 @@ V - executar os trabalhos de taquigrafia e mecanografia relativos às atividades
 
 VI - manter registro dos prazos legais e regimentais referentes aos Conselheiros e aos processos a êles distribuídos.
 
-<strong>Art</strong>. 72. Ao S.R. Pb. Compete:
+**Art**. 72. Ao S.R. Pb. Compete:
 
 I - auscultar a opinião pública no que concerne às atividades do Conselho e divulgar, pelos meios adequados, as informações de interêsse da política nacional do petróleo;
 
@@ -1354,11 +1352,11 @@ IV - planejar e executar o programa de relações e de atividades sociais intern
 
 V - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Serviço Jurídico</em>
+*Do Serviço Jurídico*
 
-<strong>Art</strong>. 73. Ao S.J. compete:
+**Art**. 73. Ao S.J. compete:
 
 I - estudar, do ponto de vista legal, os pedidos:
 
@@ -1372,7 +1370,7 @@ II - propor a adoção de normas legais de interêsse do Conselho, instruindo e 
 
 III - executar, de acôrdo com as normas legais em vigor, outras atribuições que lhe forem delegadas.
 
-<strong>Art</strong>. 74. À S.L.J. compete:
+**Art**. 74. À S.L.J. compete:
 
 I - emitir parecer sôbre:
 
@@ -1394,7 +1392,7 @@ VI - providenciar e fornecer ao Ministério Público os elementos necessários �
 
 VII - acompanhar os trabalhos legislativos que digam respeito à matéria de interêsse do Conselho e emitir parecer sôbre os projetos apresentados;
 
-<strong>Art</strong>. 75. À S.C.A. compete:
+**Art**. 75. À S.C.A. compete:
 
 I - estudar e minutar contratos e convenções em que seja parte o Conselho e lavrar os respectivos instrumentos;
 
@@ -1428,11 +1426,11 @@ X - estudar e processar os edidos de prorrogação e de revogação de prazo das
 
 XI - manter cadastro de associados de emprêsas que se dediquem a atividades relacionadas com abastecimento nacional do petróleo.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 76. Ao Presidente compete:
+**Art**. 76. Ao Presidente compete:
 
 I - presidir as sessões do Plenário, convocar sessões extraordinárias, designar a ordem do dia, os relatores e comissões de Conselheiros;
 
@@ -1474,7 +1472,7 @@ XIX - adotar tôda e qualquer providência que se torne necessária ao bom funci
 
 Parágrafo único. O Presidente poderá delegar o exercício de atribuições de sua competência.
 
-<strong>Art</strong>. 77. Aos Conselheiros compete as atribuições de natureza deliberativa contidas no art. 34 dêste Regimento e especialmente:
+**Art**. 77. Aos Conselheiros compete as atribuições de natureza deliberativa contidas no art. 34 dêste Regimento e especialmente:
 
 I - comparecer às sessões do P1., e requerer a convocação de sessões extraordinárias, justificando a sua necessidade;
 
@@ -1494,7 +1492,7 @@ VIII - solicitar ao Presidente as medidas que considere necessárias ao desempen
 
 Parágrafo único. Aos conselheiros representantes dos Ministérios militares cabe o direito de recurso previsto no art. 8º, § 2º, do Decreto-lei nº 538, de 7 de julho de 1938.
 
-<strong>Art</strong>. 78. Aos Diretores de Divisão compete:
+**Art**. 78. Aos Diretores de Divisão compete:
 
 I - distribuir, orientar, coordenar e fiscalizar os serviços afetos ou de interêsse da Divisão;
 
@@ -1532,11 +1530,11 @@ XI - entender-se, em matéria de sua competência, com os dirigentes dos órgão
 
 XII - fornecer ao S. R. Pb. para o relatório anual do Conselho, os dados referentes às atividades da Divisão.
 
-<strong>Art</strong>. 79. Compete ainda ao Diretor da D. A manter entendimentos com os dirigentes das demais Divisões e Chefes do Gabinete e do Serviço Jurídico, em assuntos de Administração Geral.
+**Art**. 79. Compete ainda ao Diretor da D. A manter entendimentos com os dirigentes das demais Divisões e Chefes do Gabinete e do Serviço Jurídico, em assuntos de Administração Geral.
 
-<strong>Art</strong>. 80. Aos Chefes do Gabinete e do Serviço Jurídico, compete as atribuições constantes do art. 78, no que couber.
+**Art**. 80. Aos Chefes do Gabinete e do Serviço Jurídico, compete as atribuições constantes do art. 78, no que couber.
 
-<strong>Art</strong>. 81. Compete ainda:
+**Art**. 81. Compete ainda:
 
 I - ao Chefe do Gabinete:
 
@@ -1554,7 +1552,7 @@ a) emitir ou visar pareceres e informações;
 
 b) colaborar, nos assuntos da sua competência, com os demais órgãos do Conselho.
 
-<strong>Art</strong>. 82. Compete aos Chefes de Serviço da D.E., do Laboratório de Análises, e de Seção.
+**Art**. 82. Compete aos Chefes de Serviço da D.E., do Laboratório de Análises, e de Seção.
 
 I - distribuir o pessoal sob suas ordens, de acôrdo com as necessidades dos serviços;
 
@@ -1574,7 +1572,7 @@ VIII - propor a organização da escala de férias do pessoal;
 
 IX - apresentar ao Diretor de Divisão ou Chefe do Serviço o resumo mensal e relatório anual das atividades do órgão sob sua chefia.
 
-<strong>Art</strong>. 83. Compete ao Chefe da Secretaria do Plenário:
+**Art**. 83. Compete ao Chefe da Secretaria do Plenário:
 
 I - as atribuições constantes do art. 82, no que couber;
 
@@ -1582,7 +1580,7 @@ II - orientar e coordenar os trabalhos afetos à Secretaria do Plenário;
 
 III - assistir às seções do P1, usando da atribuição, adotando as providências necessárias ao bom andamento dos trabalhos e redigir a respectiva ata.
 
-<strong>Art</strong>. 84. Compete ao Chefe do Setor de Relações Públicas:
+**Art**. 84. Compete ao Chefe do Setor de Relações Públicas:
 
 I - orientar e coordenar os trabalhos afetos ao Setor;
 
@@ -1590,9 +1588,9 @@ II - providenciar, junto aos demais órgãos, os dados e elementos para elabora�
 
 III - elaborar, sob a direção do Chefe de Gabinete, o relatório anual do Conselho.
 
-<strong>Art</strong>. 85. Ao Consultor Jurídico, aos Assistentes Técnicos, aos Oficiais e Auxiliares de Gabinete compete executar as atribuições que lhes forem cometidas pelo Presidente.
+**Art**. 85. Ao Consultor Jurídico, aos Assistentes Técnicos, aos Oficiais e Auxiliares de Gabinete compete executar as atribuições que lhes forem cometidas pelo Presidente.
 
-<strong>Art</strong>. 86. Compete aos Assessores Técnicos e Auditores dos Diretores de Divisão:
+**Art**. 86. Compete aos Assessores Técnicos e Auditores dos Diretores de Divisão:
 
 I - estudar e emitir parecer nos processos que lhes forem distribuídos;
 
@@ -1606,11 +1604,11 @@ V - coordenar os dados referentes às atividades da Divisão para o relatório a
 
 VI - manter articulação com os dirigentes dos órgãos da Divisão.
 
-<strong>Art</strong>. 87. Compete aos Secretários exercer as atribuições que lhe forem cometidas pela autoridade a que estiverem subordinados.
+**Art**. 87. Compete aos Secretários exercer as atribuições que lhe forem cometidas pela autoridade a que estiverem subordinados.
 
-<strong>Art</strong>. 88. Compete aos demais Chefes e Encarregados de órgãos executar, no que couber, as atribuições referidas no art. 82.
+**Art**. 88. Compete aos demais Chefes e Encarregados de órgãos executar, no que couber, as atribuições referidas no art. 82.
 
-<strong>Art</strong>. 89. Compete ainda:
+**Art**. 89. Compete ainda:
 
 I - Ao Chefe da Portaria:
 
@@ -1632,21 +1630,21 @@ a) organizar os plantões e escalas de serviço do pessoal que lhe fôr subordin
 
 b) velar para que os motoristas se apresentem devidamente uniformizados.
 
-<strong>Art</strong>. 90. Além das atribuições especificadas neste Título, outras poderão ser cometidas por ato expresso da autoridade superior.
+**Art**. 90. Além das atribuições especificadas neste Título, outras poderão ser cometidas por ato expresso da autoridade superior.
 
-<strong>Art</strong>. 91. Compete aos servidores em geral, com exercício no Conselho, executar com presteza, os trabalhos que lhes forem cometidos, zelando pela conservação e aproveitamento dos materiais e equipamentos de que se utilizarem.
+**Art**. 91. Compete aos servidores em geral, com exercício no Conselho, executar com presteza, os trabalhos que lhes forem cometidos, zelando pela conservação e aproveitamento dos materiais e equipamentos de que se utilizarem.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 92. O horário normal de trabalho será fixado pelo Presidente do Conselho, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 92. O horário normal de trabalho será fixado pelo Presidente do Conselho, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 93. Serão substituídos, automàticamente, em suas faltas ou impedimentos eventuais, até 30 dias:
+**Art**. 93. Serão substituídos, automàticamente, em suas faltas ou impedimentos eventuais, até 30 dias:
 
 I - o Presidente, por um Diretor de Divisão ou pelo Chefe do Gabinete;
 
@@ -1658,38 +1656,38 @@ IV - os Secretários, por servidores designados pelas autoridades a que estivere
 
 Parágrafo único. Haverá sempre servidores prèviamente designados para as substituições a que se refere êste artigo.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Das Disposições Gerais e Transitórias</em>
+*Das Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 94. As decisões do Conselho serão publicadas no <em>Diário</em> <em>Oficial</em> da União que, em seguida, comunicadas diretamente aos interessados, indicando-se a data da publicação.
+**Art**. 94. As decisões do Conselho serão publicadas no *DiárioOficial* da União que, em seguida, comunicadas diretamente aos interessados, indicando-se a data da publicação.
 
 Parágrafo único. Das comunicações expedidas deverá ser exigido recibo ou aviso postal de recebimento.
 
-<strong>Art</strong>. 95. Das decisões do Conselho caberá recurso para o Presidente da República, no prazo de trinta dias, contados da data da publicação no <em>Diário Oficial</em> ou do recebimento da comunicação.
+**Art**. 95. Das decisões do Conselho caberá recurso para o Presidente da República, no prazo de trinta dias, contados da data da publicação no *Diário Oficial* ou do recebimento da comunicação.
 
-<strong>Art</strong>. 96. Os conflitos de atribuição entre o Plenário e o Presidente do Conselho serão solucionados pelo Presidente da República.
+**Art**. 96. Os conflitos de atribuição entre o Plenário e o Presidente do Conselho serão solucionados pelo Presidente da República.
 
-<strong>Art</strong>. 97. Salvo prévia autorização do Presidente, aos servidores com exercício no Conselho é vedado divulgar quaisquer dados relativos às atividades afetas ou de interêsse do Conselho.
+**Art**. 97. Salvo prévia autorização do Presidente, aos servidores com exercício no Conselho é vedado divulgar quaisquer dados relativos às atividades afetas ou de interêsse do Conselho.
 
-<strong>Art</strong>. 98. Os casos omissos deste Regimento serão resolvidos:
+**Art**. 98. Os casos omissos deste Regimento serão resolvidos:
 
 I - pelo Plenário na parte deliberativa;
 
 II - pelo Presidente, na parte executiva.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 99. Enquanto não fôr criado o cargo, em comissão, de Diretor da D. T., compete ao Assistente-Chefe exercer as respectivas atribuições.
+**Art**. 99. Enquanto não fôr criado o cargo, em comissão, de Diretor da D. T., compete ao Assistente-Chefe exercer as respectivas atribuições.
 
 Rio de Janeiro, em 10 de dezembro de 1957.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico de Aguiar Salles

@@ -1,5 +1,3 @@
-###DEC-074725-0-000-18-10-1974@@@
-
 Decreto nº 74.725, de 18 de outubro de 1974.
 
 Concede à Urano - Mineração, Indústria e Comércio Ltda. o direito de lavrar calcário e dolomito no Município de Guapiara, Estado de São Paulo.

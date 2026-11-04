@@ -1,5 +1,3 @@
-###DEC-087326-0-000-24-06-1982@@@
-
 Decreto nº 87.326, de 24 de junho de 1982
 
 Revoga o Decreto nº 79.707, de 19 de maio de 1977, que declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras e benfeitorias que menciona.

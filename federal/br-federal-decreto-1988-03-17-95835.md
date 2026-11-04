@@ -1,7 +1,3 @@
-1
-
-###DEC-095835-0-000-17-03-1988@@@
-
 DECRETO N° 95.835, DE 17 DE MARCO DE 1988
 
 Altera o inciso d do artigo 1° do Decreto n° 92.603, de 26 de março de 1986, que fixa os Cargos Privativos de Oficial-General do Exército em Tempo de Paz.

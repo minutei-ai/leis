@@ -1,5 +1,3 @@
-###DEC-094138-0-000-24-03-1987@@@
-
 DECRETO Nº 94.138, DE 24 DE MARÇO DE 1987.
 
 Concede autorização ao navio de pesquisa "Marion-Dufresne", de bandeira francesa, para realizar em águas jurisdicionais os serviços que especifica.

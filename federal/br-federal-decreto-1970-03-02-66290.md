@@ -1,5 +1,3 @@
-###DEC-066290-0-000-02-03-1970@@@
-
 DECRETO Nº 66.290 - DE 2 DE MARÇO DE 1970
 
 Transfere para o Distrito Federal a sede da Segunda Subprocuradoria-Geral da República, do Ministério Público Federal.

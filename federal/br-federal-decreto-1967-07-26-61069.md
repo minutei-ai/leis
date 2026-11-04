@@ -1,5 +1,3 @@
-###DEC-061069-0-000-26-07-1967@@@
-
 DECRETO nº 61.069, DE 26 DE JULHO DE 1967.
 
 Transfere do Hospital Deraldo Guimarães para a Prefeitura Municipal de Almenara a concessão para produzir, transmitir e distribuir energia elétrica no município de Almenara, Estado de Minas Gerais.

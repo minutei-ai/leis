@@ -1,5 +1,3 @@
-###DEL-005765-0-000-20-08-1943@@@
-
 DECRETO‑LEI N. 5.765 – DE 20 DE AGÔSTO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 5.036 de 4 de dezembro de 1942

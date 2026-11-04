@@ -20,8 +20,10 @@ Goiânia, 30 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-PAULO CEZAR<br>
+PAULO CEZAR
+
 Deputado Estadual

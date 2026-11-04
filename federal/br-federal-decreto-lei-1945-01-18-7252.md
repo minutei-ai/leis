@@ -1,5 +1,3 @@
-###DEL-007252-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.252 – DE 18 DE JANEIRO DE 1945
 
 Abre créditos especiais para classificação de despesa proveniente dos aumentos e do regime do salário-família, de que trata o Decreto-lei nº 5.976, de 10 de novembro de 1943

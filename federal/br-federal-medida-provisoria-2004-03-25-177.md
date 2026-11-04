@@ -1,5 +1,3 @@
-###MPV-000177-0-000-25-03-2004@@@
-
 MEDIDA PROVISÓRIA Nº 177, DE 25 DE MARÇO 2004.
 
 Dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001637-0-000-08-01-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.637, DE 8 DE JANEIRO DE 1998
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

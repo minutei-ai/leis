@@ -1,5 +1,3 @@
-###DEC-062154-0-000-19-01-1968@@@
-
 DECRETO Nº 62.154, DE 19 DE JANEIRO DE 1968.
 
 Regulamenta a movimentação do pessoal diplomático.

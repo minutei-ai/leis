@@ -1,5 +1,3 @@
-###DEL-004263-0-000-16-04-1942@@@
-
 DECRETO-LEI N. 4.263 – DE 16 DE ABRIL DE 1942
 
 Abre, ao Ministério das Relações Exteriores, o crédito especial de 117:000$0; para despesas no exterior.

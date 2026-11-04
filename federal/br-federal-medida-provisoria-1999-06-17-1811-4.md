@@ -1,5 +1,3 @@
-###MPV-001811-0-004-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.811-4, DE 17 DE JUNHO DE 1999
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

@@ -1,5 +1,3 @@
-###DEC-095969-0-000-26-04-1988@@@
-
 DECRETO N° 95.969, DE 26 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA DONA JULIETA, LOTE N° 1 DO LOTEAMENTO FAZENDA SERRA, GLEBA M”, classificado como “latifúndio por exploração”, situado no Município de Itaguatins, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

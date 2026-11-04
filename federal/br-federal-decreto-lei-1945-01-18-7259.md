@@ -1,5 +1,3 @@
-###DEL-007259-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.259 – DE 18 DE JANEIRO DE 1945
 
 Cria funções gratificadas para o Serviço de Estatística da Produção, do Ministério da Agricultura

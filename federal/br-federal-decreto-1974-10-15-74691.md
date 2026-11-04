@@ -1,5 +1,3 @@
-###DEC-074691-0-000-15-10-1974@@@
-
 decreto nº 74.691, de 15 de outubro de 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Educação de Marília, mantida pela Associação de Ensino de Marília, com sede na cidade de Marília, Estado de São Paulo.

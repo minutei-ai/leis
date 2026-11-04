@@ -1,5 +1,3 @@
-###DEC-061870-0-000-08-12-1967@@@
-
 DECRETO Nº 61.870, DE 8 DE DEZEMBRO DE 1967.
 
 Concede reconhecimento ao Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras “Santa Maria”, da Universidade Católica de Minas Gerais.

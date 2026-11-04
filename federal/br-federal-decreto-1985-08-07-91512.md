@@ -1,5 +1,3 @@
-###DEC-091512-0-000-07-08-1985@@@
-
 Decreto nº 91.512 de 07 de agosto de 1985
 
 Autoriza o funcionamento do curso Ciências Contábeis do Instituto Santareno de Ensino Superior.

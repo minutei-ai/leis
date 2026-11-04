@@ -1,5 +1,3 @@
-###DEC-076070-0-000-31-07-1975@@@
-
 DECRETO Nº 76.070, DE 31 DE JULHO DE 1975.
 
 Concede à "EMPARA" - Empresa Paraopeba Limitada o direito de lavar minério de ferro, no município de Igarapé, Estado de Minas Gerais.

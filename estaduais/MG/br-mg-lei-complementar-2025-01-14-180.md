@@ -91,7 +91,3 @@ Art. 15 – Esta lei complementar entra em vigor na data de sua publicação.
 Belo Horizonte, aos 14 de janeiro de 2025; 237º da Inconfidência Mineira e 204º da Independência do Brasil.
 
 ROMEU ZEMA NETO
-
-\============================================================
-
-Data da última atualização: 3/11/2025.

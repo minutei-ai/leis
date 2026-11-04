@@ -1,5 +1,3 @@
-###DEL-003762-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.762 – DE 25 DE OUTUBRO DE 1941
 
 Cria as Zonas Aéreas de que trata a Lei de Organização do Ministério da Aeronáutica.

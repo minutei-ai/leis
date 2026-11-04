@@ -1,5 +1,3 @@
-###DEC-084876-0-000-08-07-1980@@@
-
 Decreto nº 84.876, de 08 de julho de 1980.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado de São Paulo, e dá outras providências.

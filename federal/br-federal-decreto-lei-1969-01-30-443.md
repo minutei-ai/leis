@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cf062ce8-0a8c-4382-8d4b-0f40510af520/texto#nowhere)
 
-###DEL-000443-0-000-30-01-1969@@@
-
 DECRETO-LEI Nº 443, DE 30 DE JANEIRO DE 1969
 
 Acrescenta parágrafos ao art. 42 da Lei Orgânica da Previdência Social.

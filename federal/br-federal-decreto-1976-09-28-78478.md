@@ -1,5 +1,3 @@
-###DEC-078478-0-000-28-09-1976@@@
-
 DECRETO Nº 78.478, DE 28 DE SETEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Gaúcha S.A, cuja denominação foi, posteriormente alterada para Rádio e Televisão Gaúcha S.A para executar serviço de radiodifusão sonora em onda curta, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

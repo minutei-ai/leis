@@ -1,12 +1,10 @@
-###EMC-000062-0-000-09-12-2009@@@
+**EMENDA CONSTITUCIONAL Nº 62**
 
-<strong>EMENDA CONSTITUCIONAL Nº 62</strong>
-
-<em><strong>Altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios.</strong></em>
+***Altera o art. 100 da Constituição Federal e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias, instituindo regime especial de pagamento de precatórios pelos Estados, Distrito Federal e Municípios.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art.</strong> 1º O art. 100 da Constituição Federal passa a vigorar com a seguinte redação:
+**Art.** 1º O art. 100 da Constituição Federal passa a vigorar com a seguinte redação:
 
 “Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais abertos para este fim.
 
@@ -42,7 +40,7 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do a
 
 § 16. A seu critério exclusivo e na forma de lei, a União poderá assumir débitos, oriundos de precatórios, de Estados, Distrito Federal e Municípios, refinanciando-os diretamente.”(NR)
 
-<strong>Art.</strong> 2º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 97:
+**Art.** 2º O Ato das Disposições Constitucionais Transitórias passa a vigorar acrescido do seguinte art. 97:
 
 “Art. 97. Até que seja editada a lei complementar de que trata o § 15 do art. 100 da Constituição Federal, os Estados, o Distrito Federal e os Municípios que, na data de publicação desta Emenda Constitucional, estejam em mora na quitação de precatórios vencidos, relativos às suas administrações direta e indireta, inclusive os emitidos durante o período de vigência do regime especial instituído por este artigo, farão esses pagamentos de acordo com as normas a seguir estabelecidas, sendo inaplicável o disposto no art. 100 desta Constituição Federal, exceto em seus §§ 2º, 3º, 9º, 10, 11, 12, 13 e 14, e sem prejuízo dos acordos de juízos conciliatórios já formalizados na data de promulgação desta Emenda Constitucional.
 
@@ -144,74 +142,74 @@ II - 30 (trinta) salários mínimos para Municípios.
 
 § 18. Durante a vigência do regime especial a que se refere este artigo, gozarão também da preferência  a que se refere o § 6º os titulares originais de precatórios que tenham completado 60 (sessenta) anos de idade até a data da promulgação desta Emenda Constitucional.”
 
-<strong>Art.</strong> 3º A implantação do regime de  pagamento criado pelo art. 97 do Ato das Disposições Constitucionais Transitórias deverá ocorrer no prazo de até  90 (noventa dias), contados da data da publicação desta Emenda Constitucional.
+**Art.** 3º A implantação do regime de  pagamento criado pelo art. 97 do Ato das Disposições Constitucionais Transitórias deverá ocorrer no prazo de até  90 (noventa dias), contados da data da publicação desta Emenda Constitucional.
 
-<strong>Art.</strong> 4º A entidade federativa voltará a observar somente o disposto no art. 100 da Constituição Federal:
+**Art.** 4º A entidade federativa voltará a observar somente o disposto no art. 100 da Constituição Federal:
 
 I - no caso de opção pelo sistema previsto no inciso I do § 1º do art. 97 do Ato das Disposições Constitucionais Transitórias, quando o valor dos precatórios devidos for inferior ao dos recursos destinados ao seu pagamento;
 
 II - no caso de opção pelo sistema previsto no inciso II do § 1º do art. 97 do Ato das Disposições Constitucionais Transitórias, ao final do prazo.
 
-<strong>Art.</strong> 5º Ficam convalidadas todas as cessões de precatórios efetuadas antes da promulgação desta Emenda Constitucional, independentemente da concordância da entidade devedora.
+**Art.** 5º Ficam convalidadas todas as cessões de precatórios efetuadas antes da promulgação desta Emenda Constitucional, independentemente da concordância da entidade devedora.
 
-<strong>Art.</strong> 6º Ficam também convalidadas todas as compensações de precatórios com tributos vencidos até 31 de outubro de 2009 da entidade devedora, efetuadas na forma do disposto no § 2º do art. 78 do ADCT, realizadas antes da promulgação desta Emenda Constitucional.
+**Art.** 6º Ficam também convalidadas todas as compensações de precatórios com tributos vencidos até 31 de outubro de 2009 da entidade devedora, efetuadas na forma do disposto no § 2º do art. 78 do ADCT, realizadas antes da promulgação desta Emenda Constitucional.
 
-<strong>Art.</strong> 7º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art.** 7º Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, em 9 de dezembro de 2009.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>                                                                                                                     
+**MESA DA CÂMARA DOS DEPUTADOS**                                                                                                                     
 
-<strong>DEPUTADO MICHEL TEMER</strong>                                                                       
+**DEPUTADO MICHEL TEMER**                                                                       
 
 Presidente
 
-<strong>DEPUTADO MARCO MAIA</strong>
+**DEPUTADO MARCO MAIA**
 
 1º Vice-Presidente
 
-<strong>DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO</strong>
+**DEPUTADO ANTÔNIO CARLOS MAGALHÃES NETO**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO RAFAEL GUERRA</strong>
+**DEPUTADO RAFAEL GUERRA**
 
 1º Secretário
 
-<strong>DEPUTADO INOCÊNCIO OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO OLIVEIRA**
 
 2º Secretário
 
-<strong>DEPUTADO ODAIR CUNHA</strong>
+**DEPUTADO ODAIR CUNHA**
 
 3º Secretário
 
-<strong>DEPUTADO NELSON MARQUEZELLI</strong>
+**DEPUTADO NELSON MARQUEZELLI**
 
 4º Secretário
 
-<strong>MESA DO SENADO FEDERAL</strong>
+**MESA DO SENADO FEDERAL**
 
-<strong>SENADOR MARCONI PERILLO</strong>
+**SENADOR MARCONI PERILLO**
 
 1º Vice-Presidente, no exercício da Presidência
 
-<strong>SENADORA SERYS SLHESSARENKO</strong>
+**SENADORA SERYS SLHESSARENKO**
 
 2ª Vice-Presidente
 
-<strong>SENADOR HERÁCLITO FORTES</strong>
+**SENADOR HERÁCLITO FORTES**
 
 1º Secretário
 
-<strong>SENADOR JOÃO VICENTE CLAUDINO</strong>
+**SENADOR JOÃO VICENTE CLAUDINO**
 
 2º Secretário
 
-<strong>SENADOR MÃO SANTA</strong>
+**SENADOR MÃO SANTA**
 
 3º Secretário
 
-<strong>SENADORA PATRÍCIA SABOYA</strong>
+**SENADORA PATRÍCIA SABOYA**
 
 4ª Secretária

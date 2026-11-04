@@ -1,5 +1,3 @@
-###DEC-059456-0-000-04-11-1966@@@
-
 DECRETO Nº 59.456, DE 4 DE NOVEMBRO DE 1966.
 
 Aprova os Planos Nacional e Regionais de Reforma Agrária e dá outras providências.
@@ -106,7 +104,7 @@ Art. 18. A implantação dos projetos referidos no artigo anterior, está previs
 
 Art. 19. Para a execução dos projetos referidos no inciso II do artigo 17 deste decreto, e na forma do previsto no artigo 29 do Estatuto da Terra, são previstas contribuições das entidades oficiais de valorização regional, nos montantes indicados no quadro demonstrativo seguinte, em milhões de cruzeiros.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td rowspan="2" style="width:251.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ENTIDADE</span></p></td><td rowspan="2" style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ANO</span></p></td><td colspan="3" style="width:99.3pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PROJETOS</span></p></td><td rowspan="2" style="width:31.8pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Total</span></p></td></tr><tr><td style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.9.1</span></p></td><td style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.9.2</span></p></td><td style="width:28.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.9.3</span></p></td></tr><tr><td style="width:251.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Superintendência do Plano de Valorização Econômica da Amazônia (S.P.V.E.A.) ................................................</span></p></td><td style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1967</span></p></td><td style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>889</span></p></td><td style="width:28.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>380</span></p></td><td style="width:28.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.500</span></p></td><td style="width:31.8pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.769</span></p></td></tr><tr><td style="width:251.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fundação Brasil Central (F.B.C.) .....................................</span></p></td><td style="width:28.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1967</span></p></td><td style="width:28.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:28.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>100</span></p></td><td style="width:28.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:31.8pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>100</span></p></td></tr><tr><td style="width:251.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Totais ...............................................................................</span></p></td><td style="width:28.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1967</span></p></td><td style="width:28.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>889</span></p></td><td style="width:28.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>480</span></p></td><td style="width:28.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.500</span></p></td><td style="width:31.8pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.869</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> ENTIDADE </td><td rowspan="2"> ANO </td><td colspan="3"> PROJETOS </td><td rowspan="2"> Total </td></tr><tr><td> 2.9.1 </td><td> 2.9.2 </td><td> 2.9.3 </td></tr><tr><td> Superintendência do Plano de Valorização Econômica da Amazônia (S.P.V.E.A.) ................................................ </td><td> 1967 </td><td> 889 </td><td> 380 </td><td> 1.500 </td><td> 2.769 </td></tr><tr><td> Fundação Brasil Central (F.B.C.) ..................................... </td><td> 1967 </td><td> - </td><td> 100 </td><td> - </td><td> 100 </td></tr><tr><td> Totais ............................................................................... </td><td> 1967 </td><td> 889 </td><td> 480 </td><td> 1.500 </td><td> 2.869 </td></tr></tbody></table>
 
 SEÇÃO II
 
@@ -266,7 +264,137 @@ Art. 23. A implantação dos projetos e subprojetos referidos no artigo anterior
 
 Art. 24. Para a execução dos projetos referidos no incisos II, III e IV do art. 22 dêste Decreto, e na forma do estatuído no art. 29 do estatuto da terra, são previstas contribuições das entidades oficiais de valorização regional nos montantes indicados no quadro demonstrativo seguinte, em milhões de cruzeiros:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:95.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:101.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:98.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ENTIDADES</span></p></td><td style="width:98.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:95.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Art. 22</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Incisos</span></p></td><td style="width:101.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Subprojeto</span></p></td><td style="width:98.65pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Superintedência do Desenvolvimento Econômico do Nordeste</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(SUDENE)</span></p></td><td style="width:98.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Comissão do Vale do São Francisco</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(C.V.S.F.)</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>II</span></p></td><td style="width:101.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.1.1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.2.1</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>200</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>95</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>III</span></p></td><td style="width:101.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.1.1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.1.2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.1.4/6</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.1.7</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.2.1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.2.2/3</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>130</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>90</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>310</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>210</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>377</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>993</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>IV</span></p></td><td style="width:101.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.1.1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.1.2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.1.3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.1.4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.1.5</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.1.6</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.2.2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.2.4</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.2.5</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>730</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.500</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>620</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>620</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>610</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>640</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>850</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>238</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>397</span></p></td></tr><tr><td style="width:95.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Totais .......................</span></p></td><td style="width:101.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.660</span></p></td><td style="width:98.65pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.950</span></p></td></tr></tbody></table>
+ENTIDADES
+
+Art. 22
+
+Incisos
+
+Subprojeto
+
+Superintedência do Desenvolvimento Econômico do Nordeste
+
+(SUDENE)
+
+Comissão do Vale do São Francisco
+
+(C.V.S.F.)
+
+II
+
+2.1.1
+
+2.2.1
+
+200
+
+-
+
+-
+
+95
+
+III
+
+3.1.1
+
+3.1.2
+
+3.1.4/6
+
+3.1.7
+
+3.2.1
+
+3.2.2/3
+
+130
+
+90
+
+310
+
+210
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+377
+
+993
+
+IV
+
+4.1.1
+
+4.1.2
+
+4.1.3
+
+4.1.4
+
+4.1.5
+
+4.1.6
+
+4.2.2
+
+4.2.4
+
+4.2.5
+
+730
+
+1.500
+
+620
+
+620
+
+610
+
+640
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+850
+
+238
+
+397
+
+Totais .......................
+
+-
+
+5.660
+
+2.950
 
 Art. 25. A hierarquização das medidas programadas e as prioridades para atuação dos órgãos e serviços federais já existentes nas áreas prioritárias, obedecerão ao disposto neste decreto e constarão dos convênios acôrdos ou tratados a serem firmados com o IBRA que, nos termos do parágrafo único do art. 16 do Estatuto da Terra é o órgão competente para promover e coordenar a execução da Reforma Agrária.
 

@@ -1,24 +1,22 @@
-###DEC-032494-0-000-31-03-1953@@@
+**DECRETO Nº. 32.494, DE 31 DE MARÇO DE 1953.**
 
-<strong>DECRETO Nº. 32.494, DE 31 DE MARÇO DE 1953.</strong>
+***Declara de utilidade pública a faixa de terra destinada a passagem da linha tronco de transmissão da Companhia Hidroelétrica do São Francisco, de Paulo Afonso a Salvador (Linha Sul).***
 
-<em><strong>Declara de utilidade pública a faixa de terra destinada a passagem da linha tronco de transmissão da Companhia Hidroelétrica do São Francisco, de Paulo Afonso a Salvador (Linha Sul).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o dispôsto no artigo 151, letras “*b*” e “*c*” do Código de Águas, e no decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidroelétrica do São Francisco, concessionária do aproveitamento da energia, hidráulica do Rio São Francisco, no trêcho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706 de 3 de outubro de 1945, revalidado pelo Decreto nº 27.723, de 23 de janeiro de 1950,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o dispôsto no artigo 151, letras “<em>b</em>” e “<em>c</em>” do Código de Águas, e no decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidroelétrica do São Francisco, concessionária do aproveitamento da energia, hidráulica do Rio São Francisco, no trêcho compreendido entre Juazeiro e Piranhas, em virtude do Decreto nº 19.706 de 3 de outubro de 1945, revalidado pelo Decreto nº 27.723, de 23 de janeiro de 1950,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - É declarada de utilidade pública a faixa de terra, destinada à passagem aérea ou subterrânea, da linha tronco de transmissão de energia elétrica de 220 kv, da Companhia Hidroelétrica do São Francisco, de Paulo Afonso a Salvador, com 100 metros de largura na extensão de 450 km. E 120 metros no trecho restante com a extensão de 6.150 metros.
 
-<strong>Art</strong>. 1º - É declarada de utilidade pública a faixa de terra, destinada à passagem aérea ou subterrânea, da linha tronco de transmissão de energia elétrica de 220 kv, da Companhia Hidroelétrica do São Francisco, de Paulo Afonso a Salvador, com 100 metros de largura na extensão de 450 km. E 120 metros no trecho restante com a extensão de 6.150 metros.
+**Art**. 2º - A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta provida pelo Ministério da Agricultura, situadas nos Estados de Alagoas, Bahia e Sergipe, de propriedade atribuída ás pessoas a seguir relacionadas, na ordem em que se encontram ao longo do traçado da linha:
 
-<strong>Art</strong>. 2º - A faixa de terra descrita no artigo anterior compreende as áreas constantes da planta provida pelo Ministério da Agricultura, situadas nos Estados de Alagoas, Bahia e Sergipe, de propriedade atribuída ás pessoas a seguir relacionadas, na ordem em que se encontram ao longo do traçado da linha:
+**ALAGOAS**
 
-<strong>ALAGOAS</strong>
+*Município de Água Branca*
 
-<em>Município de Água Branca</em>
+**BAHIA**
 
-<strong>BAHIA</strong>
-
-<em>Município de Gloria</em>
+*Município de Gloria*
 
 1 - Parque Nacional de Paulo Afonso.
 
@@ -38,15 +36,15 @@
 
 9 - José Gonçalves de Sá.
 
-<em>Município de Geremoabo</em>
+*Município de Geremoabo*
 
 10 - Antônio Gomes da Silva.
 
 11 - Espólio de Antônio Gomes de Carvalho.
 
-<strong>SERGIPE</strong>
+**SERGIPE**
 
-<em>Município de Pôrto da Fôlha</em>
+*Município de Pôrto da Fôlha*
 
 12 - João Geraldo Valadão.
 
@@ -80,15 +78,15 @@
 
 27 - Manoel Gomes dos Santos.
 
-<strong>BAHIA</strong>
+**BAHIA**
 
-<em>Município de Geremoabo</em>
+*Município de Geremoabo*
 
 28 - João da Costa Carvalho e Maria José Carvalho.
 
-<strong>SERGIPE</strong>
+**SERGIPE**
 
-<em>Município de N. Senhora da Glória</em>
+*Município de N. Senhora da Glória*
 
 29 - Espólio de João Loureço dos Santos e outros
 
@@ -118,7 +116,7 @@
 
 42 - Espólio de Antônio do Prado Franco.
 
-<em>Município de Frei Paulo</em>
+*Município de Frei Paulo*
 
 43 - Wenceslau José da Costa.
 
@@ -132,7 +130,7 @@
 
 48 - Silvestre Pereira Cunha.
 
-<em>Município de Ribeirópolis</em>
+*Município de Ribeirópolis*
 
 49 - Espólio Francisco Alves.
 
@@ -258,7 +256,7 @@
 
 108 - Firmina Batista de Jesus.
 
-<em>Município de Frei Paulo.</em>
+*Município de Frei Paulo.*
 
 109 - José Pedro dos Santos.
 
@@ -266,7 +264,7 @@
 
 111 - Timóteo Rodrigues da Mota.
 
-<em>Município de Ribeirópolis</em>
+*Município de Ribeirópolis*
 
 112 - Espólio de Ernestro Francisco de Santana.
 
@@ -278,7 +276,7 @@
 
 116 - José Aquino Santana.
 
-<em>Município de Frei Paulo</em>
+*Município de Frei Paulo*
 
 117 - João Manoel de Santana.
 
@@ -298,7 +296,7 @@
 
 125 - Cícero Manoel de Santana.
 
-<em>Município de Itabaiana</em>
+*Município de Itabaiana*
 
 126 - Miguel Antônio dos Santos.
 
@@ -320,7 +318,7 @@
 
 134 - Pedrito Ferreira Alves.
 
-<em>Município de Itabaiana</em>
+*Município de Itabaiana*
 
 135 - José da Silva Passos.
 
@@ -418,7 +416,7 @@
 
 182 - João Tavares da Costa.
 
-<em>Município de Campo do Brito</em>
+*Município de Campo do Brito*
 
 183 - Manoel Francisco Teles.
 
@@ -510,7 +508,7 @@
 
 227 - José de Faro Rollemberg.
 
-<em>Município de Lagarto</em>
+*Município de Lagarto*
 
 227 - José de Faro Rollemberg.
 
@@ -570,7 +568,7 @@
 
 255 - Terras devolutas do Estado.
 
-<em>Município de Salgado</em>
+*Município de Salgado*
 
 256 - Marciano José Barbosa.
 
@@ -582,7 +580,7 @@
 
 260 - Cia. Industrial São Gonçalo S.A.
 
-<em>Município de Buquim</em>
+*Município de Buquim*
 
 262 - José Francisco de Mendonça e Pedro Francisco de Mendonça.
 
@@ -654,7 +652,7 @@
 
 296 - Manoel Araújo Bessa.
 
-<em>Município de Arauá</em>
+*Município de Arauá*
 
 296 - Manoel Araújo Bessa.
 
@@ -676,7 +674,7 @@
 
 305 - Otoniel Silveira Nascimento.
 
-<em>Município de Itabaianinha</em>
+*Município de Itabaianinha*
 
 305 - Otoniel Silveira Nascimento.
 
@@ -822,9 +820,9 @@
 
 377 - Joaquim Alves Limeira.
 
-<strong>BAHIA</strong>
+**BAHIA**
 
-<em>Município de Rio Real</em>
+*Município de Rio Real*
 
 378 - João Bispo dos Santos.
 
@@ -832,15 +830,15 @@
 
 380 - Benjamim Alves de Fonseca.
 
-<strong>SERGIPE</strong>
+**SERGIPE**
 
-<em>Município de Itabaianinha</em>
+*Município de Itabaianinha*
 
 381 - Otávio Souza Dantas de Carvalho.
 
-<strong>BAHIA</strong>
+**BAHIA**
 
-<em>Município de Rio Real</em>
+*Município de Rio Real*
 
 382 - Maria Pureza do Amor.
 
@@ -916,7 +914,7 @@
 
 418 - João Pereira dos Santos.
 
-<em>Município de Itapicuru</em>
+*Município de Itapicuru*
 
 419 - Hermógenes Ferreira Lima e Filhos.
 
@@ -1046,7 +1044,7 @@
 
 481 - Mancio Pimentel Sampaio.
 
-<em>Município de Entre Rios</em>
+*Município de Entre Rios*
 
 482 - Sinfronio da Rocha Ribeiro.
 
@@ -1122,7 +1120,7 @@
 
 510 - Casemiro Bispo dos Santos.
 
-<em>Município de Alagoinhas</em>
+*Município de Alagoinhas*
 
 511 - Terras devolutas do Estado.
 
@@ -1170,7 +1168,7 @@
 
 533 - Espólio de Gabriel Ferreira de Santana.
 
-<em>Município de Catu</em>
+*Município de Catu*
 
 534 - Ilarindo de Carvalho Barros.
 
@@ -1212,7 +1210,7 @@
 
 553 - Espólio de Antônio Calmon de Brito
 
-<em>Município de Pojuca</em>
+*Município de Pojuca*
 
 554 - Dilson Vasconcelos Aguiar.
 
@@ -1220,13 +1218,13 @@
 
 556 - João de Souza Freire.
 
-<em>Município de São Sebastião</em>
+*Município de São Sebastião*
 
 557 - João de Souza Freire.
 
 558 - Espólio de Manoel Campos Monte Santo.
 
-<em>Município de Mata de São João</em>
+*Município de Mata de São João*
 
 559 - Espólio de Heitor Marback.
 
@@ -1246,7 +1244,7 @@
 
 567 - João Saback de Oliveira.
 
-<em>Município de Camaçari</em>
+*Município de Camaçari*
 
 568 - Nélson Heitor Dória.
 
@@ -1278,7 +1276,7 @@
 
 582 - Corinto Félix Martins.
 
-<em>Município de Salvador</em>
+*Município de Salvador*
 
 583 - Julieta Robato Piana.
 
@@ -1398,20 +1396,20 @@
 
 641 - Francisco da Silva Lima Jorge.
 
-<strong>Art</strong>. 3º A Companhia Hidroelétrica de São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 3º A Companhia Hidroelétrica de São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 4º Quando não for necessário proceder-se à desapropriação do domínio pleno, fica constituída em favor da mesma Companhia e para o fim indicado, a servidão necessária, a qual compreende o direito atribuído a emprêsa concessionária de praticar tôdos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
+**Art**. 4º Quando não for necessário proceder-se à desapropriação do domínio pleno, fica constituída em favor da mesma Companhia e para o fim indicado, a servidão necessária, a qual compreende o direito atribuído a emprêsa concessionária de praticar tôdos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções.
 
 § 1º Os proprietários das áreas de terras atingidas pelo ônus limitarão o uso e gôzo das mesmas ao que fôr compatível com a existência da servidão abstendo-se, em conseqüência de praticar; dentro das mesmas quaisquer atos que embaracem ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidroelétrica do São Francisco fica autorizada a promover, no caso de embaraço opôsto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento podendo utilizar-se, inclusive do processo da desapropriação, nos têrmos do artigo 40, do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º O Presente Decreto entra em vigor na data da sua publicação
+**Art**. 5º O Presente Decreto entra em vigor na data da sua publicação
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário, ficando retificado, com a promulgação deste, o Decreto-lei nº 31.485, de 19 de setembro de 1952.
+**Art**. 6º Revogam-se as disposições em contrário, ficando retificado, com a promulgação deste, o Decreto-lei nº 31.485, de 19 de setembro de 1952.
 
 Rio de Janeiro, 31 de março de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

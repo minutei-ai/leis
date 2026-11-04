@@ -1,5 +1,3 @@
-###DEC-083469-0-000-21-05-1979@@@
-
 Decreto nº 83.469, de 21 de maio de 1979.
 
 Autoriza o funcionamento da habilitação Supervisão Escolar do curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Governador Valadares, com sede na Cidade de Governador Valadares, Estado de Minas Gerais.

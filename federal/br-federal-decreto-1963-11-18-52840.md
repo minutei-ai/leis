@@ -1,5 +1,3 @@
-###DEC-052840-0-000-18-11-1963@@@
-
 DECRETO Nº 52.840, DE 18 DE NOVEMBRO DE 1963.
 
 Transfere autorização para construir linha de transmissão.

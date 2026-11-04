@@ -1,5 +1,3 @@
-###DEC-072687-0-000-24-08-1973@@@
-
 DECRETO Nº 72.687, DE 24 DE AGOSTO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

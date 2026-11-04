@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210977)<br>
-
 # LEI COMPLEMENTAR N° 1.421, DE 26 DE MAIO DE 2025
 
 ### _Institui o Programa de Aposentadoria Incentivada - PAI aos servidores efetivos do Tribunal de Contas do Estado de São Paulo e dá outras providências._

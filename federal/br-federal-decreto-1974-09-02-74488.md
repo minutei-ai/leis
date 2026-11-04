@@ -1,5 +1,3 @@
-###DEC-074488-0-000-02-09-1974@@@
-
 DECRETO Nº 74.488, DE 2 DE SETEMBRO DE 1974.
 
 Autoriza a alienação de parte do imóvel que menciona, situado em Curitiba, Estado do Paraná.

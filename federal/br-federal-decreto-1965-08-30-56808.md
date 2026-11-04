@@ -1,5 +1,3 @@
-###DEC-056808-0-000-30-08-1965@@@
-
 DECRETO Nº 56.808, DE 30 DE AGôSTO DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Companhia Nacional de Seguros Ipiranga, relativa ao aumento do capital social.

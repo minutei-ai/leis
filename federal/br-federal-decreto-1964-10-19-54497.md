@@ -1,5 +1,3 @@
-###DEC-054497-0-000-19-10-1964@@@
-
 DECRETO Nº 54.497, DE 19 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Mário Linhares Cabral a pesquisar minério de ferro, no município de Itabira, Estado de Minas Gerais.

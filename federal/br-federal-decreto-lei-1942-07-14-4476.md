@@ -1,5 +1,3 @@
-###DEL-004476-0-000-14-07-1942@@@
-
 DECRETO-LEI N. 4.476 – DE 14 DE JULHO DE 1942
 
 Cria 10 lugares de despachante aduaneiro na Alfândega de Niterói e dá outras providências

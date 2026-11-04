@@ -1,5 +1,3 @@
-###DEL-004022-0-000-15-01-1942@@@
-
 DECRETO-LEI N. 4.022 – DE 15 DE JANEIRO DE 1942
 
 Dá a garantia do Tesouro Nacional para o aumento do empréstimo de financiamento da usina siderúrgica em construção em Volta Redonda

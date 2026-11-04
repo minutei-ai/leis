@@ -1,5 +1,3 @@
-###DEC-086729-0-000-15-12-1981@@@
-
 Decreto nº 86.729, de 15 de dezembro de 1981
 
 Fixa o montante do Capital Social da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL.

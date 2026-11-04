@@ -1,5 +1,3 @@
-###DEC-091433-0-000-12-07-1985@@@
-
 Decreto nº 91.433, de 12 de julho de 1985.
 
 Altera o Decreto nº 90.754, de 27 de dezembro de 1984, que dispõe sobre a organização e o funcionamento do Conselho Nacional de Informática e Automação (CONIN).

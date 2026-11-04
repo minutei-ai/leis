@@ -1,5 +1,3 @@
-###DEL-006231-0-000-01-02-1944@@@
-
 DECRETO-LEI N. 6.231 – DE 1 DE FEVEREIRO DE 1944
 
 Altera a redação do art. 1 º do decreto-lei n º 5.691, de 22 de julho de 1943

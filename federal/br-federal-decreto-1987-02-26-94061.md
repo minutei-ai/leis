@@ -1,5 +1,3 @@
-###DEC-094061-0-000-26-02-1987@@@
-
 DECRETO N° 94.061, DE 26 DE FEVEREIRO DE 1987
 
 Regulamenta o artigo 15 e seguintes da Lei nº 5.536, de 21 de novembro de 1968, que criou o Conselho Superior de Censura.

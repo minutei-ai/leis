@@ -1,5 +1,3 @@
-###MPV-001702-0-030-27-10-1998@@@
-
 MEDIDA PROVISÓria Nº 1.702-30, DE 27 DE OUTUBRO DE 1998
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067775-0-000-09-12-1970@@@
-
 Decreto nº 67.775, de 9 de dezembro de 1970.
 
 Declara caduco o Decreto número 31.881, de 3 de dezembro de 1952.

@@ -1,5 +1,3 @@
-###DEC-073477-0-000-16-01-1974@@@
-
 DECRETO N.º 73.477, DE 16 dE JANEIRO DE 1974.
 
 Altera dispositivo do Decreto número 69.596, de 23 de novembro de 1971, que autoriza a cessão de terrenos situados no Estado da Guanabara.

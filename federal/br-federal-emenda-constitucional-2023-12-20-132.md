@@ -27,7 +27,6 @@ sha256_markdown: "fee5c6e0927c66d8972b02d346d9b840133ba8a7114679d2782505a9585c55
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 132, DE 20 DE DEZEMBRO DE 2023
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2023/emendaconstitucional-132-20-dezembro-2023-795084-publicacaooriginal-170513-pl.html.
 >
-> Este texto não substitui o publicado no DOU de 21.12.2023
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-12-20-132.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -1314,8 +1312,4 @@ Brasília, em 20 de dezembro de 2023
 | Deputado LUCIANO BIVAR 1º Secretário | Senador ROGÉRIO CARVALHO 1º Secretário |
 | Deputada MARIA DO ROSÁRIO 2ª Secretária | Senador WEVERTON 2º Secretário |
 | Deputado JÚLIO CÉSAR 3º Secretário | Senador CHICO RODRIGUES 3º Secretário |
-| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |
-
-Este texto não substitui o publicado no DOU 21.12.2023
-
-\*
+| Deputado LUCIO MOSQUINI 4º Secretário | Senador STYVENSON VALENTIM 4º Secretário |\*

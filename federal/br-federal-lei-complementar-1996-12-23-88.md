@@ -1,7 +1,3 @@
-1
-
-###LCP-000088-0-000-23-12-1996@@@
-
 LEI COMPLEMENTAR N° 88, DE 23 DE DEZEMBRO DE 1996.
 
 Altera a redação dos arts. 5°, 6°, 10 e 17 da Lei Complementar n° 76, de 6 de julho de 1993, que dispõe sobre o procedimento contraditório especial, de rito sumário, para o processo de desapropriação de imóvel rural, por interesse social, para fins de reforma agrária.

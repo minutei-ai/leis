@@ -1,5 +1,3 @@
-###DEC-089370-0-000-08-02-1984@@@
-
 DECRETO Nº 89.37O, DE O8 DE FEVEREIRO DE 1984
 
 Renova por 10 (dez) anos a concessão outorgada à RADIO DIFUSORA DE JOINVILLE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Joinville, Estado de Santa Catarina.

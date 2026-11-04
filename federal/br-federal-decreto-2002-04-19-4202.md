@@ -1,5 +1,3 @@
-###DEC-004202-0-000-19-04-2002@@@
-
 DECRETO Nº 4.202, DE 19 DE ABRIL DE 2002
 
 Dá nova redação ao caput do art. 2º do Decreto nº 4.049, de 12 de dezembro de 2001, que dispõe sobre a inscrição de despesas de Restos a Pagar no exercício de 2002, e dá outras providências.

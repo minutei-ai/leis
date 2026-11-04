@@ -1,5 +1,3 @@
-###DEL-006077-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.077 – DE 9 DE DEZEMBRO DE 1943
 
 Abre créditos suplementares aos Ministérios da Agricultura e da Educação e Saúde para atender a despesas com pessoal extranumerário mensalista, e dá outras providências

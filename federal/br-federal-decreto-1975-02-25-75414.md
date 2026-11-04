@@ -1,5 +1,3 @@
-###DEC-075414-0-000-25-02-1975@@@
-
 DECRETO Nº 75.414, DE 25 DE FEVEREIRO DE 1975.
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Música Santa Marcelina, mantida pela Associação Santa Marcelina, com sede na Cidade de Botucatu, Estado de São Paulo.

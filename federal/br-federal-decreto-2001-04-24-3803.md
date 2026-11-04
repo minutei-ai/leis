@@ -1,5 +1,3 @@
-###DEC-003803-0-000-24-04-2001@@@
-
 DECRETO Nº 3.803, DE 24 DE ABRIL DE 2001
 
 Dispõe sobre o crédito presumido da contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social - Cofins, previsto nos arts. 3º e 4º da Lei nº 10.147, de 21 de dezembro de 2000.
@@ -95,8 +93,6 @@ FERNANDO HENRIQUE CARDOSO
 Pedro Malan
 
 José Serra
-
-<br>
 
 ANEXO
 

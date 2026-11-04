@@ -1,7 +1,3 @@
-1
-
-###DEC-098606-0-000-19-12-1989@@@
-
 DECRETO Nº 98.606, DE 19 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento dos cursos de Ciências e Letras, da Faculdade de Formação de Professores de Afogados da Ingazeira.

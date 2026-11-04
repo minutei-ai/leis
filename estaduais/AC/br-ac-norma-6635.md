@@ -1,6 +1,10 @@
 > **LEI Nº 4.750, DE 29 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação de um imóvel ao Estado do Acre, para fins de construção da nova maternidade de Rio Branco.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação de um imóvel ao Estado do Acre, para fins de construção da nova maternidade de Rio Branco.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

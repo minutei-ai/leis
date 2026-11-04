@@ -1,5 +1,3 @@
-###DEC-045784-0-000-14-04-1959@@@
-
 DECRETO Nº 45.784, DE 14 DE ABRIL DE 1959.
 
 Retifica o art. 1º do Decreto nº 27.558, de 7 de dezembro de 1949.

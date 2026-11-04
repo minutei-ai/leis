@@ -1,5 +1,3 @@
-###DEC-076011-0-000-24-07-1975@@@
-
 DECRETO Nº 76.011 - de 24 de julho de 1975.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União em operação de crédito externo a ser celebrada pela Empresa Brasileira de infra-estrutura Aeroportuária - INFRAERO.

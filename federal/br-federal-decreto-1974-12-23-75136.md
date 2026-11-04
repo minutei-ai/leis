@@ -1,5 +1,3 @@
-###DEC-075136-0-000-23-12-1974@@@
-
 DECRETO Nº 75.136, DE 23 DE DEZEMBRO DE 1974.
 
 Altera o artigo 1º, do Decreto número 74.074, de 16 de maio de 1974, que interditou, para fins de atração e pacificação de grupo indígena, área no Município de Diamantino, Estado de Mato Grosso.

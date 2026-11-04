@@ -1,5 +1,3 @@
-###DEC-058106-0-000-30-03-1966@@@
-
 DECRETO Nº 58.106, DE 30 DE MARÇO DE 1966.
 
 Declara de utilidade pública faixa de terra destinada à passagem de linha de transmissão.

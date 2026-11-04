@@ -1,5 +1,3 @@
-###DEL-007341-0-000-26-02-1945@@@
-
 DECRETO-LEI N. 7.341 – DE 26 DE FEVEREIRO DE 1945
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Guerra

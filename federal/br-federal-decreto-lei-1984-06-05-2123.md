@@ -1,5 +1,3 @@
-###DEL-002123-0-000-05-06-1984@@@
-
 # decreto-lei nº 2.123, de 05 de junho dE 1984
 
 Altera a redação de dispositivos do Decreto-lei nº 2.121, de 16 de maio de 1984, que instituiu a Gratificação de Apoio à Atividade de Ensino, e dá outras providências.

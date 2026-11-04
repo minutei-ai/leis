@@ -1,5 +1,3 @@
-###DEC-064808-0-000-10-07-1969@@@
-
 DECRETO Nº 64.808 - DE 10 DE JULHO DE 1969.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde o distrito sede do município de Presidente Alves até a Fazenda Boa Esperança, no Estado de São Paulo.

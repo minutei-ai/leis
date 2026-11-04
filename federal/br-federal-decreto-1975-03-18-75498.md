@@ -1,5 +1,3 @@
-###DEC-075498-0-000-18-03-1975@@@
-
 DECRETO Nº 75.498, DE 18 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", com sede na Cidade de São Paulo, Estado de São Paulo.

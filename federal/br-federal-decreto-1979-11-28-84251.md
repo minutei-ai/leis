@@ -1,5 +1,3 @@
-###DEC-084251-0-000-28-11-1979@@@
-
 Decreto nº 84.251, de 28 novembro de 1979.
 
 Dá nova redação ao artigo 2º do Decreto nº 82.961, de 29 de dezembro de 1978, e determina outras providências.

@@ -1,5 +1,3 @@
-###DEC-064707-0-000-17-06-1969@@@
-
 DECRETO Nº 64.707, DE 17 DE JUNHO DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Ourinhos - São Paulo, destinado ao Ministério do Exército.

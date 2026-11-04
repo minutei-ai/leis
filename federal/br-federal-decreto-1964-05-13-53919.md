@@ -1,5 +1,3 @@
-###DEC-053919-0-000-13-05-1964@@@
-
 decreto nº 53.919, de 13 de maio de 1964.
 
 Altera o Regulamento da Inspetoria Geral da Aeronáutica.

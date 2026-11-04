@@ -1,5 +1,3 @@
-###DEC-096833-0-000-28-09-1988@@@
-
 DECRETO Nº 96.833, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à GAZETA COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão sonora em onda média na Cidade de Santa Cruz do Sul, Estado do Rio Grande do Sul.

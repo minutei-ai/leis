@@ -1,5 +1,3 @@
-###DEC-071037-0-000-29-08-1972@@@
-
 DECRETO Nº 71.037, DE 29 DE AGOSTO DE 1972.
 
 Estabelece o procedimento administrativo para concessão dos beneficiários decorrentes de acidentes de trabalho, regulamenta a artigo 15 da Lei nº 5.316, de 14 de setembro de 1967, com a nova redação dada pelo Decreto-lei nº 893, de 26 de setembro de 1969, e dá outras providências.

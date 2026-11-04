@@ -1,5 +1,3 @@
-###DEC-052326-0-000-07-08-1963@@@
-
 decreto nº 52.326, de 7 de agôsto e 1963.
 
 Constitui Grupo de Trabalho para promover estudos e coordenar a execução de projetos de recuperação da área de alagados no Município de Salvador, Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001666-0-000-10-10-1995@@@
-
 Decreto nº 1.666, de 10 de outubro de 1995.
 
 Promulga os Convênios Constitutivo e de Administração do Fundo Multilateral de Investimentos (FUMIN) celebrados em 11 de fevereiro de 1992, entre o Banco Interamericando de Desenvolvimento e os países doadores, entre os quais o Brasil.

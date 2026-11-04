@@ -1,5 +1,3 @@
-###DEC-089204-0-000-19-12-1983@@@
-
 DECRETO Nº 89.204, DE 19 DE DEZEMBRO DE 1983
 
 Classifica os Consulados-Gerais que menciona.

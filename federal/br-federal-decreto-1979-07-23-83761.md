@@ -1,5 +1,3 @@
-###DEC-083761-0-000-23-07-1979@@@
-
 DECRETO Nº 83.761 DE 23 DE JULHO DE 1979.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Estudos Sociais, com sede na cidade de Jaraguá do Sul, Estado de Santa Catarina.

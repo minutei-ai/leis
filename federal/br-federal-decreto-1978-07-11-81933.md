@@ -1,5 +1,3 @@
-###DEC-081933-0-000-11-07-1978@@@
-
 Decreto nº 81.933, de 11 de julho de 1978.
 
 Concede reconhecimento ao Curso de Ciências Contábeis da Faculdade de Ciências Contábeis, Econômicas e de Administração, com sede na cidade de Videira, Estado de Santa Catarina.

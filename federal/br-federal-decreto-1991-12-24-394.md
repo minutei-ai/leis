@@ -1,7 +1,3 @@
-1
-
-###DEC-000394-0-000-24-12-1991@@@
-
 DECRETO Nº 394, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Apiaká-Kayabi, no Estado do Mato Grosso.

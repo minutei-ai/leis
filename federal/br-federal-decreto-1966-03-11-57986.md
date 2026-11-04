@@ -1,5 +1,3 @@
-###DEC-057986-0-000-11-03-1966@@@
-
 decreto nº 57.986, de 11 de março de 1966.
 
 Autoriza o cidadão brasileiro Bernardino Altoé a pesquisar mármore, no município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

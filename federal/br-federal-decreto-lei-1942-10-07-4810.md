@@ -1,5 +1,3 @@
-###DEL-004810-0-000-07-10-1942@@@
-
 DECRETO-LEI N. 4.810 – DE 7 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 30:000$0, para atender às despesas com instalações no Tribunal de Apelação do Distrito Federal, e dá outras providências

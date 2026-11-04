@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:23:21.000Z"
 sha256_fonte: "fa2b9f9409318eab1dc9e614f900fd10d382b7bad6ff57e74120c1622fad8f75"
 sha256_markdown: "ce6668ba466de4e566f36a223784bae58bb645190f814a8ed76c64688b92caf2"
 ---
-
 # LEI Nº 1.148, DE 13 DE JUNHO DE 1991.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,15 +20,16 @@ Aprova o Orçamento da Fundação de Promoção Social de Mato Grosso do Sul - P
 
 Publicada no Diário Oficial nº 3.072, de 14 de junho de 1991.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica aprovado o Orçamento para o exercício de 1.991 da Fundação de Promoção Social de Mato Grosso do Sul - PROMOSUL, criada através da Lei Estadual nº 1.136, de 16 de abril de 1.991, estimada a receita e fixada a despesa em igual valor de Cr$ 694.459.000,00 (Seiscentos e noventa e quatro milhões, quatrocentos e cinquenta e nove mil cruzeiros), na forma do detalhamento constante nos Anexos I e II a esta Lei.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 13 de junho de 1.991.<br>
-<br>
-PEDRO PEDROSSIAN<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica aprovado o Orçamento para o exercício de 1.991 da Fundação de Promoção Social de Mato Grosso do Sul - PROMOSUL, criada através da Lei Estadual nº 1.136, de 16 de abril de 1.991, estimada a receita e fixada a despesa em igual valor de Cr$ 694.459.000,00 (Seiscentos e noventa e quatro milhões, quatrocentos e cinquenta e nove mil cruzeiros), na forma do detalhamento constante nos Anexos I e II a esta Lei.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Campo Grande, 13 de junho de 1.991.
+
+PEDRO PEDROSSIAN
+
 Governador
 
 **Conferência da versão do texto.** Os arts. 1º e 2º do texto acima (Consultoria Legislativa), o valor (Cr$ 694.459.000,00) e a remissão à Lei Estadual nº 1.136/1991 foram comparados, em leitura visual, com a página 1 do Diário Oficial nº 3.072 e coincidem; o texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.

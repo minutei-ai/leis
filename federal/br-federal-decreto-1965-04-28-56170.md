@@ -1,5 +1,3 @@
-###DEC-056170-0-000-28-04-1965@@@
-
 Decreto nº 56.170, de 28 de abril de 1965.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional a empréstimos a serem realizados pela Rêde Ferroviária Federal S.A.

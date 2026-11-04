@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/195400)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2020/compilacao-ato.da.mesa-10-18.09.2020.html)
 
 # ATO DA MESA N° 10, DE 18 DE SETEMBRO DE 2020
@@ -17,8 +16,10 @@ _\- "Caput" com redação dada pelo [Ato da Mesa n° 23, de 03/09/2024](https://
 
 **§ 2°** - O custeio da assistência à saúde suplementar dos beneficiários constantes deste artigo é de responsabilidade da ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, condicionado à disponibilidade orçamentária, tendo por base a dotação específica consignada no orçamento.
 
-**Artigo 2° -** Para os fins do artigo 1° deste Ato, fica o Programa de Assistência à Saúde Suplementar implantado por:<br>
-**I** \- Convênio com operadoras de plano de assistência à saúde, organizado na modalidade de autogestão ou cogestão, inclusive por meio de sindicatos ou entidades de classe representativas de funcionários e servidores, nos termos da [Resolução n° 858, de 16 de dezembro de 2008](https://www.al.sp.gov.br/norma/147353) e art. 5° do Decreto Estadual n° 60.435, de 13 de maio de 2014.<br>
+**Artigo 2° -** Para os fins do artigo 1° deste Ato, fica o Programa de Assistência à Saúde Suplementar implantado por:
+
+**I** \- Convênio com operadoras de plano de assistência à saúde, organizado na modalidade de autogestão ou cogestão, inclusive por meio de sindicatos ou entidades de classe representativas de funcionários e servidores, nos termos da [Resolução n° 858, de 16 de dezembro de 2008](https://www.al.sp.gov.br/norma/147353) e art. 5° do Decreto Estadual n° 60.435, de 13 de maio de 2014.
+
 **II** - Contrato com operadoras, seguradoras ou cooperativas de plano de assistência à saúde, observado o disposto na [Resolução n° 858, de 16 de dezembro de 2008](https://www.al.sp.gov.br/norma/147353), e na Lei n° 8.666, de 21 de junho de 1993;
 
 ~~**III** - Auxílio, de caráter indenizatório, mediante ressarcimento de despesas de valor despendido pelo servidor diretamente com sua saúde, inclusos planos privados de assistência à saúde médica ou odontológica e pagamentos efetuados a médicos de qualquer especialidade, dentistas, psicólogos, fisioterapeutas, nutricionistas, terapeutas ocupacionais, fonoaudiólogos, hospitais, e provenientes de exames laboratoriais, serviços radiológicos, aparelhos ortopédicos e próteses ortopédicas e dentárias.~~
@@ -39,13 +40,20 @@ _\- Vide_ [_Despacho da SGA, de 07/10/2025_](https://www.doe.sp.gov.br/legislati
 
 #### Das Disposições Comuns Aos Convênios e Contratos
 
-**Artigo 3° -** Os planos ou seguros de saúde médica destinados aos beneficiários, previstos no artigo 2°, incisos I e II, deste Ato, contemplarão atendimento ambulatorial e internação hospitalar, com ou sem obstetrícia, realizados exclusivamente no país, centro de terapia intensiva ou similar, quando necessária a internação hospitalar, para tratamento das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde.<br>
-**§ 1°** - A cobertura definida no caput observará, como padrão mínimo, o constante das normas relativas ao rol de procedimentos e eventos em saúde editadas pela Agência Nacional de Saúde Suplementar - ANS.<br>
-**§ 2°** \- O beneficiário do artigo 1° deste Ato e seus dependentes poderão complementar o custeio de planos de assistência à saúde suplementar superiores ao mínimo previsto neste artigo, sem qualquer custo adicional para a ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO.<br>
-**§ 3°** - É voluntária a inscrição, a adesão e a exclusão de qualquer beneficiário em plano de assistência à saúde de que trata este Ato.**<br>
-Artigo 4° -** Para atender ao disposto no artigo 2°, incisos I e II, deste Ato, ficam as operadoras de planos de saúde médica obrigadas a:<br>
-**I** \- oferecer e disponibilizar a todos os beneficiários dos planos de assistência à saúde suplementar, no mínimo na área de abrangência a que está vinculado o titular do benefício, tanto na modalidade apartamento como enfermaria, os serviços assistenciais previstos no artigo 3° deste Ato, por meios próprios ou por intermédio de rede de prestadores de serviços;<br>
-**II** - manter sistema informatizado de controle de arrecadação e de gastos;<br>
+**Artigo 3° -** Os planos ou seguros de saúde médica destinados aos beneficiários, previstos no artigo 2°, incisos I e II, deste Ato, contemplarão atendimento ambulatorial e internação hospitalar, com ou sem obstetrícia, realizados exclusivamente no país, centro de terapia intensiva ou similar, quando necessária a internação hospitalar, para tratamento das doenças listadas na Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde, da Organização Mundial de Saúde.
+
+**§ 1°** - A cobertura definida no caput observará, como padrão mínimo, o constante das normas relativas ao rol de procedimentos e eventos em saúde editadas pela Agência Nacional de Saúde Suplementar - ANS.
+
+**§ 2°** \- O beneficiário do artigo 1° deste Ato e seus dependentes poderão complementar o custeio de planos de assistência à saúde suplementar superiores ao mínimo previsto neste artigo, sem qualquer custo adicional para a ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO.
+
+**§ 3°** - É voluntária a inscrição, a adesão e a exclusão de qualquer beneficiário em plano de assistência à saúde de que trata este Ato.**
+
+Artigo 4° -** Para atender ao disposto no artigo 2°, incisos I e II, deste Ato, ficam as operadoras de planos de saúde médica obrigadas a:
+
+**I** \- oferecer e disponibilizar a todos os beneficiários dos planos de assistência à saúde suplementar, no mínimo na área de abrangência a que está vinculado o titular do benefício, tanto na modalidade apartamento como enfermaria, os serviços assistenciais previstos no artigo 3° deste Ato, por meios próprios ou por intermédio de rede de prestadores de serviços;
+
+**II** - manter sistema informatizado de controle de arrecadação e de gastos;
+
 **III** - fornecer identificação individual aos beneficiários; e
 
 **IV** - designar uma pessoa responsável pelo relacionamento com o convenente ou contratante.
@@ -56,17 +64,24 @@ Artigo 4° -** Para atender ao disposto no artigo 2°, incisos I e II, deste Ato
 
 _\- Parágrafo único acrescentado pelo [Ato da Mesa n° 05, de 28/02/2023](https://www.al.sp.gov.br/norma/207081)._
 
-**Artigo 6° -** Caberá às operadoras, seguradoras ou cooperativas conveniadas e contratadas encaminhar, anualmente, à contratante, quadro demonstrativo contendo o detalhamento das receitas arrecadadas e das despesas gerais com os respectivos beneficiários, em conformidade com as normas estabelecidas.**<br>
-Parágrafo único -** Os dados e documentos relativos à prestação de contas abrangida no caput deverão estar à disposição dos órgãos de controle e dos órgãos convenentes ou contratantes.**<br>
-Artigo 7° -** Dependentes poderão ser inscritos no plano de saúde contratado ou conveniado pelo órgão ou entidade, desde que o valor do custeio seja assumido integralmente pelos próprios ou pelo titular; o mesmo aplica-se para o titular em caso de valores acima do indenizável.**<br>
-Artigo 8° -** O beneficiário titular poderá solicitar o cancelamento de sua inscrição no plano de assistência à saúde suplementar a que estiver vinculado a qualquer tempo, sendo exigida, nesta hipótese, a quitação de eventuais débitos de contribuição e/ou participação.**<br>
-Parágrafo único -** O cancelamento da inscrição a que se refere o caput implicará a cessação dos direitos de utilização da assistência à saúde pelo titular e seus dependentes junto à operadora conveniada, contratada ou ao serviço prestado diretamente pelo órgão ou entidade.**<br>
-Artigo 9° -** Nenhum contrato poderá receber reajuste em periodicidade inferior a doze meses, ressalvado o disposto no caput do artigo 22 da Resolução Normativa n° 195, de 14 de julho de 2009, da Agência Nacional de Saúde Suplementar - ANS, ou norma superveniente.**<br>
+**Artigo 6° -** Caberá às operadoras, seguradoras ou cooperativas conveniadas e contratadas encaminhar, anualmente, à contratante, quadro demonstrativo contendo o detalhamento das receitas arrecadadas e das despesas gerais com os respectivos beneficiários, em conformidade com as normas estabelecidas.**
+
+Parágrafo único -** Os dados e documentos relativos à prestação de contas abrangida no caput deverão estar à disposição dos órgãos de controle e dos órgãos convenentes ou contratantes.**
+
+Artigo 7° -** Dependentes poderão ser inscritos no plano de saúde contratado ou conveniado pelo órgão ou entidade, desde que o valor do custeio seja assumido integralmente pelos próprios ou pelo titular; o mesmo aplica-se para o titular em caso de valores acima do indenizável.**
+
+Artigo 8° -** O beneficiário titular poderá solicitar o cancelamento de sua inscrição no plano de assistência à saúde suplementar a que estiver vinculado a qualquer tempo, sendo exigida, nesta hipótese, a quitação de eventuais débitos de contribuição e/ou participação.**
+
+Parágrafo único -** O cancelamento da inscrição a que se refere o caput implicará a cessação dos direitos de utilização da assistência à saúde pelo titular e seus dependentes junto à operadora conveniada, contratada ou ao serviço prestado diretamente pelo órgão ou entidade.**
+
+Artigo 9° -** Nenhum contrato poderá receber reajuste em periodicidade inferior a doze meses, ressalvado o disposto no caput do artigo 22 da Resolução Normativa n° 195, de 14 de julho de 2009, da Agência Nacional de Saúde Suplementar - ANS, ou norma superveniente.**
+
 Artigo 10 -** As situações não previstas neste Ato, em especial aquelas relativas a prazos de carência, cobertura, atendimento de urgência e emergência, reembolso, dentre outras, deverão observar as normas regulamentares da Agência Nacional de Saúde Suplementar - ANS.
 
 #### Dos Convênios
 
-**Artigo 11 -** É vedada a exclusão de beneficiário em decorrência de insuficiência de margem consignável do titular do benefício.**<br>
+**Artigo 11 -** É vedada a exclusão de beneficiário em decorrência de insuficiência de margem consignável do titular do benefício.**
+
 Parágrafo único -** Durante o período de insuficiência de margem consignável, o disposto no caput não exime o beneficiário do pagamento dos débitos de contribuição e participação de sua responsabilidade sob pena de a inadimplência gerar cancelamento de sua inscrição.
 
 #### Dos Contratos
@@ -79,7 +94,8 @@ Parágrafo único -** Durante o período de insuficiência de margem consignáve
 
 #### Do Auxílio de Caráter Indenizatório
 
-**Artigo 13 -** Os servidores ativos e inativos poderão requerer o auxílio de caráter indenizatório, pago mediante ressarcimento, nos termos do artigo 2°, inciso III, deste Ato.<br>
+**Artigo 13 -** Os servidores ativos e inativos poderão requerer o auxílio de caráter indenizatório, pago mediante ressarcimento, nos termos do artigo 2°, inciso III, deste Ato.
+
 **§ 1°** \- A comprovação da realização das despesas com saúde previstas no caput poderá, ainda, se efetivar mediante apresentação dos respectivos comprovantes:
 
 **1\. -** recibo emitido pelos profissionais elencados no inciso III do artigo 2°, devidamente assinado, onde constem expressamente o nome do servidor enquanto tomador do serviço, o nome completo do profissional, o valor despendido, a data da prestação do serviço, o número de inscrição no Cadastro de Pessoas Físicas ou no Cadastro Nacional de Pessoa Jurídica da Receita Federal do Brasil e a natureza do serviço prestado;
@@ -118,16 +134,20 @@ _~~\- Vide [Decisão da Mesa n° 2.910, de 07/12/2021](https://www.al.sp.gov.br/
 
 _\- § 4° com redação dada pelo [Ato da Mesa n° 05, de 28/02/2023](https://www.al.sp.gov.br/norma/207081)._
 
-**§ 5°** - O Departamento de Recursos Humanos emitirá protocolo de recebimento dos documentos apresentados.<br>
-**§ 6°** - A comprovação de despesas deverá ser informada nos seguintes termos:<br>
+**§ 5°** - O Departamento de Recursos Humanos emitirá protocolo de recebimento dos documentos apresentados.
+
+**§ 6°** - A comprovação de despesas deverá ser informada nos seguintes termos:
+
 **1 -** As despesas realizadas dentro do ano-calendário, mesmo que não realizadas na referência em curso, cujo valor individual seja superior ao valor máximo mensal indenizável, poderão ser preservadas e distribuídas para a comprovação mensal e serão registradas em sistema informatizado no regime de conta-corrente do beneficiário;
 
 **2\. -** O prazo-limite para a comprovação dos gastos dar-se-á, inadiavelmente, no ano-calendário em que ocorreram tais gastos, salvo com relação ao gasto havido no mês de dezembro, o qual poderá ser comprovado no mês de janeiro do ano imediatamente subsequente;
 
 _~~\- Vide artigo 2° do [Ato da Mesa n° 40, de 08/12/2021](https://www.al.sp.gov.br/norma/201286).~~_
 
-**3\. -** Em nenhuma hipótese haverá, em função do disposto no item 1, a antecipação de indenizações em relação a referências ainda não transcorridas;<br>
-**4\. -** A perda da qualidade de servidor faz cessar o direito ao recebimento de indenizações relativas às referências futuras, ainda que haja saldo de despesas comprovadas.<br>
+**3\. -** Em nenhuma hipótese haverá, em função do disposto no item 1, a antecipação de indenizações em relação a referências ainda não transcorridas;
+
+**4\. -** A perda da qualidade de servidor faz cessar o direito ao recebimento de indenizações relativas às referências futuras, ainda que haja saldo de despesas comprovadas.
+
 **§ 7°** - Fica assegurada aos aposentados do Quadro de Servidores da Assembleia Legislativa a utilização da contribuição ao IAMSPE - Instituto de Assistência Médica ao Servidor Público Estadual, como comprovação de gasto em saúde para fins de percepção da indenização de que trata o presente Ato, obedecido o limite máximo indenizável pelo Programa de Assistência à Saúde Suplementar.
 
 **§ 8°** - A indenização de que trata este Ato será paga mensalmente ou em periodicidade trimestral, semestral ou anual, desde que não tenha sido objeto de ressarcimento no período considerado, mediante requerimento do servidor, instruído com o(s) devido(s) comprovante(s) de despesas médicas, tendo como limite a soma dos valores mensais do ressarcimento no período respectivo.
@@ -158,11 +178,16 @@ _~~\- § 9° com redação dada pelo [Ato da Mesa n° 05, de 28/02/2023](https:/
 
 _\- § 9° com redação dada pelo [Ato da Mesa n° 23, de 03/09/2024](https://www.al.sp.gov.br/norma/209906)._
 
-**§ 10** - A Indenização à Saúde Suplementar não será concedida ao servidor nas seguintes licenças e afastamentos:<br>
-**I** - licença para concorrer e/ou exercer mandato eletivo, salvo se optar pela manutenção da percepção de remuneração de seu cargo efetivo e não perceber o mesmo benefício no exercício do mandato;<br>
-**II** - licença para tratar de interesses particulares;<br>
-**III** \- aos servidores cedidos com prejuízo dos vencimentos;<br>
-**IV** \- aos servidores de outros órgãos ou Poderes cedidos à Assembleia Legislativa do Estado de São Paulo em regime de comissionamento, designação ou destacamento.<br>
+**§ 10** - A Indenização à Saúde Suplementar não será concedida ao servidor nas seguintes licenças e afastamentos:
+
+**I** - licença para concorrer e/ou exercer mandato eletivo, salvo se optar pela manutenção da percepção de remuneração de seu cargo efetivo e não perceber o mesmo benefício no exercício do mandato;
+
+**II** - licença para tratar de interesses particulares;
+
+**III** \- aos servidores cedidos com prejuízo dos vencimentos;
+
+**IV** \- aos servidores de outros órgãos ou Poderes cedidos à Assembleia Legislativa do Estado de São Paulo em regime de comissionamento, designação ou destacamento.
+
 **§ 11** - os servidores efetivos do QSAL cedidos sem prejuízo dos vencimentos, a indenização à Saúde Suplementar somente será concedida a partir de requerimento acompanhado de certidão emitida pela unidade central de recursos humanos do respectivo órgão cessionário atestando o não percebimento de quaisquer benefícios de natureza semelhante por parte do mesmo.
 
 ~~**§ 12** - Em qualquer hipótese de desligamento do plano de saúde, inclusive em caso de adesão a outro plano, o servidor deverá providenciar a comunicação imediata ao Departamento de Recursos Humanos para a suspensão do benefício, ou sua readequação, sob pena de restituição dos valores indevidamente ressarcidos, sem prejuízo das sanções penais, civis e administrativas eventualmente cabíveis.~~
@@ -171,7 +196,8 @@ _\- § 9° com redação dada pelo [Ato da Mesa n° 23, de 03/09/2024](https://w
 
 _\- § 12 revogado pelo [Ato da Mesa n° 23, de 03/09/2024](https://www.al.sp.gov.br/norma/209906)._
 
-**§ 13** - A prova da qualidade de companheiro prevista no § 9° deste artigo se dará mediante apresentação de escritura pública ou de declaração judicial que tenha por objeto o reconhecimento da união estável.<br>
+**§ 13** - A prova da qualidade de companheiro prevista no § 9° deste artigo se dará mediante apresentação de escritura pública ou de declaração judicial que tenha por objeto o reconhecimento da união estável.
+
 **§ 14** \- Os servidores exonerados poderão efetuar a comprovação por meio eletrônico.
 
 ~~§ 15 - Os servidores ativos e inativos requerentes do benefício instituído por meio do Programa de Assistência à Saúde Complementar, na qualidade de microempresário individual ou empresário individual, deverão anexar ao requerimento de indenização o competente Certificado de Condição de Microemprendedor Individual - CCMEI (emitido no endereço eletrônico www.portaldoempreendedor.gov.br) ou a Ficha Cadastral Completa emitida pela Junta Comercial do Estado de São Paulo, atualizada mensalmente, juntamente com os demais comprovantes exigidos neste Ato.~~
@@ -228,7 +254,8 @@ _\- Inciso III com redação dada pelo [Ato da Mesa n° 23, de 03/09/2024](https
 
 **Artigo 14 -** Os servidores ativos e inativos que aderirem à modalidade prevista no inciso I do artigo 2°, deste Ato, terão direito ao ressarcimento previsto no artigo 13 de forma automática, independentemente de requerimento formal.
 
-**§ 1°** \- O valor global do ressarcimento devido mensalmente ao servidor jamais ultrapassará o valor do auxílio mensal, nos termos do parágrafo único do artigo 2° deste Ato.<br>
+**§ 1°** \- O valor global do ressarcimento devido mensalmente ao servidor jamais ultrapassará o valor do auxílio mensal, nos termos do parágrafo único do artigo 2° deste Ato.
+
 **§ 2°** - Na hipótese de requerimento apresentado após o processamento da folha de pagamento, a entidade conveniada procederá ao acerto financeiro na folha subsequente.
 
 ~~**§ 3°** - É obrigação da entidade conveniada informar ao Serviço de Aposentados e Pensionistas acerca de qualquer mudança de valor, inclusão ou exclusão de beneficiários, bem como apresentar documentos destinados à comprovação de condições complementares de beneficiário.~~

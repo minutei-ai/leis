@@ -1,5 +1,3 @@
-###DEL-000304-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 304,de 28 de fevereiro de 1967
 
 Abre Crédito Especial pelo Ministério da Viação e Obras Públicas ao Grupo Executivo de Integração da Política de Transportes, GEIPOT.

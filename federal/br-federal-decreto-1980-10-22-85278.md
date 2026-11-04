@@ -1,5 +1,3 @@
-###DEC-085278-0-000-22-10-1980@@@
-
 Decreto nº 85.278, de 22 de outubro de 1980
 
 Dispõe sobre o aumento de capital do Banco de Roraima S/A.

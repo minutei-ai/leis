@@ -1,5 +1,3 @@
-###DEC-057503-0-000-28-12-1965@@@
-
 Decreto nº 57.503, de 28 de dezembro de 1965.
 
 Autoriza a Centrais Elétricas de Minas Gerais S. A. a construir linha de transmissão.

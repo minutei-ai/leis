@@ -1,5 +1,3 @@
-###DEL-007060-0-000-21-11-1944@@@
-
 DECRETO-LEI N. 7.060 – DE 21 DE NOVEMBRO DE 1944
 
 Dispõe sôbre os contribuintes civís do Montepio Militar

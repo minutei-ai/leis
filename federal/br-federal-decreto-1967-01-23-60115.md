@@ -1,5 +1,3 @@
-###DEC-060115-0-000-23-01-1967@@@
-
 Decreto nº 60.115, de 23 de Janeiro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação ou constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-045050-0-000-13-12-1958@@@
-
 DECRETO Nº 45.050, DE 13 DE DEZEMBRO DE 1958.
 
 Dispõe sobre a desapropriação do imóvel.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 13 de dezembro de 1958, 137º da Independência e 70º da Rep
 Juscelino Kubitschek
 
 Clovis Salgado
-
-###DEC-045050-0-000-13-12-1958@@@RET01+++
 
 DECRETO Nº 45.050, DE 13 DE DEZEMBRO DE 1958.
 

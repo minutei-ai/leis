@@ -1,5 +1,3 @@
-###DEC-086994-0-000-08-03-1982@@@
-
 decreto nº 86.994, de 08 de março de 1982
 
 Concede à COMPANHIA FERRO DE AÇO DE VITÓRIA - COFAVI autorização para proceder a aumento do seu capital social.

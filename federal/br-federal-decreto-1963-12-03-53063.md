@@ -1,5 +1,3 @@
-###DEC-053063-0-000-03-12-1963@@@
-
 DECRETO Nº 53.063, DE 3 DE DEZEMBRO DE 1963.
 
 Retifica relação que acompanhou o Decreto nº 51.865, de 26 de março de 1963, que aprovou o enquamento dos cargos e funções da Rêde de Viação Cearense e deu outras providências.

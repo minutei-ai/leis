@@ -1,5 +1,3 @@
-###DEC-003433-0-000-25-04-2000@@@
-
 DECRETO N° 3.433, DE 25 DE ABRIL DE 2000.
 
 Dispõe sobre a execução do Vigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica n° 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 14 de janeiro de 2000.

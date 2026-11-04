@@ -1,5 +1,3 @@
-###DEC-046174-0-000-08-06-1959@@@
-
 DECRETO Nº 46.174, DE 8 DE JUNHO DE 1959.
 
 Concede à sociedade anônima Caisse Genérale de Prêts Fonciers et Industriels autorização para continuar a funcionar na República.

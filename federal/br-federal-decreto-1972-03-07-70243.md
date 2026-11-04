@@ -1,5 +1,3 @@
-###DEC-070243-0-000-07-03-1972@@@
-
 DECRETO Nº 70.243, DE 7 DE MARÇO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Adamantina, com os Cursos de Pedagogia, Estudos Sociais, Letras e Ciências.

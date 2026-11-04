@@ -1,5 +1,3 @@
-###DEC-003536-0-000-03-07-2000@@@
-
 DECRETO Nº 3.536, DE 3 DE JULHO DE 2000.
 
 Dispõe sobre a execução do Regulamento 1 (Regulamento Único para o Transporte de Mercadorias sobre Coberta em Embarcações da Hidrovia Paraguai - Paraná (Porto de Cáceres - Porto de Nueva Palmira), de 19/06/96), do Acordo de Alcance Parcial nº 5, assinado ao amparo do art. 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai, e da República Oriental do Uruguai, registrado em 03 de dezembro de 1998.
@@ -36,4 +34,22 @@ A Secretaria - Geral da Associação será depositária do presente instrumento,
 
 EM FÉ DO QUE, os respectivos plenipotenciários subscrevem o presente na cidade de Montevidéu, aos três dias do mês de dezembro de mil novecentos e noventa e oito, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:272.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina:</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Carlos Onis Vigil</span></p></td></tr><tr><td style="width:272.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Bolívia:</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Mario Lea Plaza Torri</span></p></td></tr><tr><td style="width:272.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:272.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai:</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Efrain Dario Centurión</span></p></td></tr><tr><td style="width:272.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Adolfo Castells Mendivil</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+Carlos Onis Vigil
+
+Pelo Governo da República da Bolívia:
+
+Mario Lea Plaza Torri
+
+Pelo Governo da República Federativa do Brasil:
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Paraguai:
+
+Efrain Dario Centurión
+
+Pelo Governo da República Oriental do Uruguai:
+
+Adolfo Castells Mendivil

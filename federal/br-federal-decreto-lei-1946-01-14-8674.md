@@ -1,5 +1,3 @@
-###DEL-008674-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.674 – DE 14 DE JANEIRO DE 1946
 
 Cria cargos isolados de provimento efetivo, no Quadro Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências.

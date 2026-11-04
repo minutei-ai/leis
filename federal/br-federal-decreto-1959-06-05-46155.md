@@ -1,5 +1,3 @@
-###DEC-046155-0-000-05-06-1959@@@
-
 DECRETO Nº 46.155, DE 5 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Octávio S. Rolim a lavrar calcário no município de Apiaí, Estado de São Paulo.

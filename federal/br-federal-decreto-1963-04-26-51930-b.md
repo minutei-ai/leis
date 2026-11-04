@@ -1,5 +1,3 @@
-###DEC-051930-B-000-26-04-1963@@@
-
 DECRETO Nº 51.930-B, de 26 de abril de 1963.
 
 Autoriza a cidadã brasileira Elmira Mörschbächer Baumann, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-004648-0-000-27-03-2003@@@
-
 DECRETO Nº 4.648, DE 27 DE MARÇO DE 2003.
 
 Altera os arts. 6º e 10 do Decreto nº 59.170, de 2 de setembro de 1966, que criou a Agência Especial de Financiamento Industrial - FINAME, e dá outras providências.

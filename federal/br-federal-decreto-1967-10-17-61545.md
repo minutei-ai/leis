@@ -1,5 +1,3 @@
-###DEC-061545-0-000-17-10-1967@@@
-
 DECRETO Nº 61.545, DE 17 DE OUTUBRO DE 1967.
 
 Suspende o funcionamento da “União Nacional dos Servidores Civis do Ministério da Marinha” e dá outras providências.

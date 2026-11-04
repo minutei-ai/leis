@@ -1,5 +1,3 @@
-###DEC-050018-0-000-24-01-1961@@@
-
 DECRETO Nº 50.180, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Jehú Pinto de Aguilar a pesquisar pedras semipreciosas no município de Jequitinhonha, Estado de Minas Gerais.

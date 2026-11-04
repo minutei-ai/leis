@@ -1,5 +1,3 @@
-###DEC-046831-0-000-15-09-1959@@@
-
 DECRETO Nº 46.834, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro João Soares da Silva a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

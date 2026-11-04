@@ -1,5 +1,3 @@
-###DEC-004010-0-000-12-11-2001@@@
-
 DECRETO Nº 4.010, DE 12 DE NOVEMBRO DE 2001
 
 Dispõe sobre liberação de recursos para pagamento dos servidores públicos federais, no âmbito da Administração Pública Federal direta, autárquica e fundacional.

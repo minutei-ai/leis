@@ -1,5 +1,3 @@
-###DEL-009237-0-000-06-05-1946@@@
-
 DECRETO-LEI N. 9.237 – DE 6 DE MAIO DE 1946
 
 Dispõe sôbre a readmissão e a aposentadoria de Ricardo José Soares das Mercês.

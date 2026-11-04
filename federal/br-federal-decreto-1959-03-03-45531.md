@@ -1,5 +1,3 @@
-###DEC-045531-0-000-03-03-1959@@@
-
 DECRETO Nº 45.531, DE 3 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores do Instituto de Aposentadoria e Pensões dos Comerciários.

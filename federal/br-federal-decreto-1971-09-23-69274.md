@@ -1,5 +1,3 @@
-###DEC-069274-0-000-23-09-1971@@@
-
 Decreto Nº 69.274, DE 23 DE setembro DE 1971.
 
 Autoriza o funcionamento da Faculdade Bandeirante de Medicina, na cidade de Bragança Paulista, Estado de São Paulo.

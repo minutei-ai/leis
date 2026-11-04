@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.316 DE 17 DE MAIO DE 2016.<br>
+LEI MUNICIPAL Nº 3.316 DE 17 DE MAIO DE 2016.
+
 Declarada Incostitucional pelo TJ/GO na ADI nº 5236450.85.2017
 
 ~~Dispõe sobre a obrigatoriedade da realização da Oração Universal do Pai Nosso, nas Escolas Municipais de Ensino Fundamental, Cmeis Públicos e Conveniados do Município de Aparecida de Goiânia – GO, e dá outras providências.~~ 
@@ -13,5 +14,6 @@ Declarada Incostitucional pelo TJ/GO na ADI nº 5236450.85.2017
 
 ~~GABINETE DO PRESIDENTE DA CÂMARA MUNICIPAL DE APARECIDA DE GOIANIA, AOS 17 DIAS DO MÊS DE MAIO DE DOIS MIL E DEZESSEIS.~~
 
-~~ROBERTO TEIXEIRA DA SILVA<br>
+~~ROBERTO TEIXEIRA DA SILVA
+
 PRESIDENTE~~

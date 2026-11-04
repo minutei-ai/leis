@@ -1,5 +1,3 @@
-###DEC-059591-0-000-25-11-1966@@@
-
 DECRETO Nº 59.591, DE 25 DE NOVEMBRO DE 1966.
 
 Ministério da Fazenda. Abertura de crédito especial de Cr$20.000.000.000, destinado ao Banco da Amazônia S.A., para aplicação em créditos especializados à iniciativa privada na Região Amazônica.

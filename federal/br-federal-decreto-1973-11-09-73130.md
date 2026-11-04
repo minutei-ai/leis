@@ -1,5 +1,3 @@
-###DEC-073130-0-000-09-11-1973@@@
-
 DECRETO Nº 73.130 - DE 9 DE NOVEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058498-0-000-24-05-1966@@@
-
 DECRETO Nº 58.498, DE 24 DE MAIO DE 1966.
 
 Autoriza estrangeira a adquirirem, em transferência de aforamento o domínio útil do terreno de marinha e acrescidos que menciona, no estado da Guanabara.

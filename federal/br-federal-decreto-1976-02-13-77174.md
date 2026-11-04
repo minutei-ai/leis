@@ -1,5 +1,3 @@
-###DEC-077174-0-000-13-02-1976@@@
-
 Decreto nº 77.174, de 13 de fevereiro de 1976.
 
 Cria a Comissão para Estudos da Regulamentação do Fundo de Saúde da Marinha, e dá outras providências.

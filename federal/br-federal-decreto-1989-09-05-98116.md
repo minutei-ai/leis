@@ -1,7 +1,3 @@
-1
-
-###DEC-098116-0-000-05-09-1989@@@
-
 DECRETO N° 98.116, DE 5 DE SETEMBRO DE 1989
 
 Autoriza o funcionamento do plano de Curso Superior em Moda (Têxtil e Confecção), da Faculdade Anhembi Morumbi.

@@ -1,5 +1,3 @@
-###DEC-045109-0-000-26-12-1958@@@
-
 DECRETO Nº 45.109, DE 26 DE DEZEMBRO DE 1958.
 
 Abre, pelo Ministério da Agricultura o crédito especial de Cr$1.965.747,20 destinado a atender ao pagamento dos débitos contraídos pela 1º Inspetoria Regional do Serviço de Proteção aos Índios.

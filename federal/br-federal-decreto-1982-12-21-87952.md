@@ -1,5 +1,3 @@
-###DEC-087952-0-000-21-12-1982@@@
-
 DECRETO Nº 87.952, DE 21 DE DEZEMBRO DE 1982
 
 Autoriza a transferência direta, para a RÁDIO JORNAL A CRÍTICA LTDA., da concessão outorgada à SOMPUR SÃO PAULO RADIODIFUSÃO LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Manaus, Estado do Amazonas.

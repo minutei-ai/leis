@@ -1,5 +1,3 @@
-###DEC-050595-0-000-15-05-1961@@@
-
 DECRETO Nº 50.595, DE 15 DE MAIO DE 1961.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito da isenção de impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional, abaixo descritos.
@@ -16,7 +14,67 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito da isenção de todos e quaisquer impostos e taxas federais, a importação dos equipamentos novos, a seguir especificados e consignados à firma INDÚSTRIA NORDESTINA DE PRODUTOS ALIMENTÍCIOS LTDA. (INPA) para instalação de uma fábrica de cerveja e malte, em Camassari, Estado da Bahia.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Discriminação</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor CIF (US$)</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>21.700 kg de alumínio tamanho 1,0x2,0m, espessura 2 a 5mm sendo chapas de DURALUMINIUM tipo duro, com as seguintes características:</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Cu = 4,6 – 5,2%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Mn = 0,6 – 1,0%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Mg = 0,65 – 1,0%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Si até 0,6%</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Al o restante</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>22.323</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>41.400 kg de chapas de alumínio DURALUMINIUM, tamanho 1,0x2,0m espessura de 2 a 5mm, tipo mole, com as seguintes caraterísticas:</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Cu = 3,0 – 4,0%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Mn = 0,25 – 0,5%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Mg = 0,25 – 0,5%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Si até 0,5%</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Al o restante</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>42.454</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>24.500 kg de chapas de Super-Duraluminium, com as seguintes características:</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Cu = 4,4 – 5,5%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Mn = 0,6 – 1,0%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Mg = 0,6 – 1,0%</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span>Si = 0,6 – 1,0%</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Al igual ao restante</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>25.300</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>100t de aço inoxidável com 18% de cromo e 8% de níquel, laminadas a frio, com espessura de 1,2 e 3mm, tamanho de chapas 1.000 x 2.000mm</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>123.400</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5.000 kg de eletrodos para soldagem de Cu</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5.000 kg de eletrodos para soldagem de Al</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>5.000 kg de eletrodos para soldagem de Aço V2A</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">16.800</span></p></td></tr><tr><td style="width:372.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total ............................................................................................................................</span></p></td><td style="width:53.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">230.777</span></p></td></tr></tbody></table>
+Discriminação
+
+Valor CIF (US$)
+
+21.700 kg de alumínio tamanho 1,0x2,0m, espessura 2 a 5mm sendo chapas de DURALUMINIUM tipo duro, com as seguintes características:
+
+Cu = 4,6 – 5,2%
+
+Mn = 0,6 – 1,0%
+
+Mg = 0,65 – 1,0%
+
+Si até 0,6%
+
+Al o restante
+
+22.323
+
+41.400 kg de chapas de alumínio DURALUMINIUM, tamanho 1,0x2,0m espessura de 2 a 5mm, tipo mole, com as seguintes caraterísticas:
+
+Cu = 3,0 – 4,0%
+
+Mn = 0,25 – 0,5%
+
+Mg = 0,25 – 0,5%
+
+Si até 0,5%
+
+Al o restante
+
+42.454
+
+24.500 kg de chapas de Super-Duraluminium, com as seguintes características:
+
+Cu = 4,4 – 5,5%
+
+Mn = 0,6 – 1,0%
+
+Mg = 0,6 – 1,0%
+
+Si = 0,6 – 1,0%
+
+Al igual ao restante
+
+25.300
+
+100t de aço inoxidável com 18% de cromo e 8% de níquel, laminadas a frio, com espessura de 1,2 e 3mm, tamanho de chapas 1.000 x 2.000mm
+
+123.400
+
+5.000 kg de eletrodos para soldagem de Cu
+
+5.000 kg de eletrodos para soldagem de Al
+
+5.000 kg de eletrodos para soldagem de Aço V2A
+
+16.800
+
+Total ............................................................................................................................
+
+230.777
 
 Art. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 

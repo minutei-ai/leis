@@ -1,5 +1,3 @@
-###MPV-001787-0-003-25-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.787-3, DE 25 DE MARÇO DE 1999
 
 Altera dispositivos das Leis nºs 5.972, de 11 de dezembro de 1973, e 9.636, de 15 de maio de 1998, e dá outras providências.

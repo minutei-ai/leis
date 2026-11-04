@@ -1,5 +1,3 @@
-###DEL-003003-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.003 – DE 30 DE JANEIRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 25:840$0 para ocorrer a pagamentos de vencimentos.

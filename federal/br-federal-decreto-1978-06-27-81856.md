@@ -1,5 +1,3 @@
-###DEC-081856-0-000-27-06-1978@@@
-
 DECRETO Nº 81.856, DE 27 DE JUNHO DE 1978.
 
 Concede à Mineração Pedra Preta Ltda, o direito de lavrar minério de manganês no Município de São João D'aliança, Estado de Goiás.

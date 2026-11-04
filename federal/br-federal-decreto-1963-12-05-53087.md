@@ -1,5 +1,3 @@
-###DEC-053087-0-000-05-12-1963@@@
-
 DECRETO Nº 53.087, DE 5 DE DEZEMBRO DE 1963.
 
 Cria Grupo de Trabalho com a incumbência de publicar e divulgar os estudos, projetos e relatórios apresentados pelo Ministro Extraordinário para a Reforma Administrativa.
@@ -51,8 +49,6 @@ Art. 8º Êste decreto entrará em vigor na data da sua publicação, revogadas 
 Brasília, em 5 de dezembro de 1963; 142º da Independência e 75º da República.
 
 JOÃO GOULART
-
-###DEC-053087-0-000-03-12-1963@@@RET01+++
 
 DECRETO Nº 53.087, DE 3 DE DEZEMBRO DE 1963.
 

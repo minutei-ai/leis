@@ -1,5 +1,3 @@
-###DEC-070803-0-000-05-07-1972@@@
-
 decreto nº 70.803, de 5 de julho de 1972.
 
 Concede a Minérios Metalúrgicos do Nordeste Ltda. o direito de lavrar minério de manganês, no município de Licínio de Almeida, Estado da Bahia.

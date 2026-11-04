@@ -1,5 +1,3 @@
-###DEC-007003-0-000-09-11-2009@@@
-
 DECRETO Nº 7.003, DE 9 DE NOVEMBRO DE 2009.
 
 Regulamenta a licença para tratamento de saúde, de que tratam os arts. 202 a 205 da Lei no 8.112, de 11 de dezembro de 1990, e dá outras providências.

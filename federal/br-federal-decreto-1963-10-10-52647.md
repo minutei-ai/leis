@@ -1,5 +1,3 @@
-###DEC-052647-0-000-10-10-1963@@@
-
 Decreto Nº 52.647, DE 10 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública a Policlínica de Copacabana, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-048451-0-000-30-06-1960@@@
-
 DECRETO Nº 48.451, DE 30 DE JUNHO DE 1960.
 
 Transfere função da Tabela Numérica de Mensalistas do Núcleo do Parque de Aeronáutica da Lagoa Santa para a Tabela Numérica Especial de Extranumerário-mensalista do Parque de Aeronáutica do Recife.

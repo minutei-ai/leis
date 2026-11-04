@@ -1,5 +1,3 @@
-###DEL-007236-0-000-08-01-1945@@@
-
 DECRETO-LEI N. 7.236 – DE 8 DE JANEIRO DE 1945
 
 Dá a garantia do Tesouro Nacional ao empréstimo que realizar a Companhia Vale do Rio Doce S. A. com o Export-Import Bank, de Washington

@@ -1,5 +1,3 @@
-###DEC-048884-0-000-25-08-1960@@@
-
 DECRETO Nº 48.884, DE 25 DE AGÔSTO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da The Yorkshirre Insurance Company Limited.

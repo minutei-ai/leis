@@ -1,5 +1,3 @@
-###DEC-046911-0-000-29-09-1959@@@
-
 DECRETO Nº 46.911, DE 29 DE SETEMBRO DE 1959.
 
 Concede nacionalização à Companhia Burroughs do Brasil, Inc. sob a denominação de Burroughs do Brasil S. A.

@@ -253,7 +253,3 @@ Marcus Vinicius Caetano Pestana da Silva
 João Heraldo Lima
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\================================================================
-
-Data da última atualização: 23/11/2007.

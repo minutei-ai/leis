@@ -1,5 +1,3 @@
-###DEC-094099-0-000-16-03-1987@@@
-
 DECRETO N° 94.099, DE 16 DE MARÇO DE 1987
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo Comercial n° 12, firmado entre o Brasil e o México no setor da indústria eletrônica e de comunicações elétricas.

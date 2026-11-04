@@ -1,5 +1,3 @@
-###DEC-006496-0-000-30-06-2008@@@
-
 DECRETO Nº 6.496, DE 30 DE JUNHO DE 2008.
 
 Altera os arts. 62 e 303 do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999

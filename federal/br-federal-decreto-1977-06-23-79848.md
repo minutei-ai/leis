@@ -1,5 +1,3 @@
-###DEC-079848-0-000-23-06-1977@@@
-
 Decreto nº 79.848, de 23 de junho de 1977
 
 Concede reconhecimento ao curso Ciências Biológicas, da Faculdade Estadual de Filosofia, Ciências e Letras de Jacarezinho, com sede na cidade de Jacarezinho, Estado do Paraná.

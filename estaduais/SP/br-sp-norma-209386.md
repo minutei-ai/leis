@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209386)<br>
-
 # LEI N° 17.925, DE 26 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 686/2023, da Deputada Leci Brandão - PCdoB)

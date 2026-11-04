@@ -1,5 +1,3 @@
-###DEC-071797-0-000-01-02-1973@@@
-
 DECRETO Nº 71.797, DE 1 DE FEVEREIRO DE 1973
 
 Concede à Magnesita S.A. o direito de lavrar olivina no município de Patrocínio, Estado de Minas Gerais.

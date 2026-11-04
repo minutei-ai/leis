@@ -1,5 +1,3 @@
-###DEL-005034-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.034 – DE 4 DE DEZEMBRO DE 1942
 
 Autoriza as autarquias – Estrada de Ferro Central do Brasil, Estrada de Ferro Noroeste do Brasil, Rede de Viação Paraná Santa Catarina, Administração do Porto do Rio de Janeiro, Serviços de Navegação da Amazônia e de Administração do Porto do Pará e Lloyd Brasileiro – a requisitarem o material necessário aos seus serviços.

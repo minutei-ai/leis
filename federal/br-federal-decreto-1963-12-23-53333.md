@@ -1,5 +1,3 @@
-###DEC-053333-0-000-23-12-1963@@@
-
 DECRETO Nº 53.333, DE 23 DE DEZEMBRO DE 1963.
 
 Autoriza Representações Mineração Cidade do Aço Ltda, a pesquisar caulim e areia no município de Itabirito, Estado de Minas Gerais.

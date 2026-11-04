@@ -1,5 +1,3 @@
-###DEC-058784-0-000-28-06-1966@@@
-
 DECRETO Nº 58.784, DE 28 DE JUNHO DE 1966.
 
 Autoriza o administrador do condomínio “Taquaril” a pesquisar calcário no município de Prudente de Moraes, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69342)
-
 # LEI Nº 12.453, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 184/2006, do Deputado Mauro Bragato - PSDB)

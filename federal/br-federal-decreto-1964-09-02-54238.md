@@ -1,5 +1,3 @@
-###DEC-054238-0-000-02-09-1964@@@
-
 DECRETO Nº 54.238, DE 2 DE SETEMBRO DE 1964.
 
 Cria, junto ao Ministério das Minas e Energia, Comissão Especial para os fins que menciona, e dá outras providências.

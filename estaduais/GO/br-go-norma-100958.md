@@ -20,7 +20,8 @@ III – associação da prática de compostagem com a promoção do uso do compo
 
 IV – aumentar a reciclagem de resíduos orgânicos e a vida útil dos aterros sanitários, atendendo ao Plano Estadual de Resíduos Sólidos;
 
-V – estimular a prática de compostagem nas escolas estaduais, promovendo a redução dos resíduos orgânicos provenientes da merenda escolar.<br>
+V – estimular a prática de compostagem nas escolas estaduais, promovendo a redução dos resíduos orgânicos provenientes da merenda escolar.
+
 \- [Acrescido pela Lei nº 23.714, de 30-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111354).
 
 Art. 4º São instrumentos da Política Estadual de Incentivo à Prática de Compostagem:
@@ -43,7 +44,8 @@ VIII – valorização do composto orgânico de qualidade e promover seu uso pr�
 
 IX – incentivo do uso do composto na agricultura urbana, a exemplo das hortas escolares, para viabilizar a prática da compostagem;
 
-X – (VETADO).<br>
+X – (VETADO).
+
 \- [Acrescido pela Lei nº 23.714, de 30-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111354).
 
 Art. 5º Esta Lei entra em rigor na data de sua publicação.

@@ -1,5 +1,3 @@
-###DEC-083251-0-000-07-03-1979@@@
-
 Decreto nº 83 251, de 07 de março de 1979
 
 Concede à Companhia de Mineração Santarém - COMISA o direito de lavrar bauxita no Município de faro, Estado do Pará.

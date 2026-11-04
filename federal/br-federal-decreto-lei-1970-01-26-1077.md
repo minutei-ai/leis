@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0a291901-9206-41d4-b975-2e6f0761f2d3/texto#nowhere)
 
-###DEL-001077-0-000-26-01-1970@@@
-
 # DECRETO-Lei Nº 1.077, de 26 De JAneiRO dE 1970
 
 Dispõe sôbre a execução do artigo 153 § 8º, parte final, da República Federativa do Brasil.

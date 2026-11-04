@@ -1,5 +1,3 @@
-###DEC-055222-0-000-15-12-1964@@@
-
 DECRETO Nº 55.222, DE 15 DE DEZEMBRO De 1964.
 
 Autoriza o cidadão brasileiro José Alves da Cunha a lavrar argila, no Município de Taubaté, Estado de São Paulo.

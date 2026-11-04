@@ -1,5 +1,3 @@
-###DEL-005626-0-000-28-06-1943@@@
-
 DECRETO‑LEI N. 5.626 – DE 28 DE JUNHO DE 1943
 
 Suspende, pelo prazo de seis (6) meses, a cobrança dos direitos e taxas que recaem sôbre o sal estrangeiro

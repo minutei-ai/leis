@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212423)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/compilacao-lei-18439-01.04.2026.html)
 
 # LEI N° 18.439, DE 01 DE ABRIL DE 2026

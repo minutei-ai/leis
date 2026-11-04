@@ -1,5 +1,3 @@
-###DEC-049268-0-000-17-11-1960@@@
-
 DECRETO Nº 49.268, DE 17 DE NOVEMBRO DE 1960.
 
 Renova o decreto nº 43.866, de 9 de junho de 1958.

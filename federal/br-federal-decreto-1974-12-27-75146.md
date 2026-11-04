@@ -1,5 +1,3 @@
-###DEC-075146-0-000-27-12-1974@@@
-
 DECRETO Nº 75.146, DE 27 DE DEZEMBRO DE 1974.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural, denominado "Fazenda Conceição do Surui", situado no Município de Magé, Estado do Rio de Janeiro.
@@ -19,8 +17,6 @@ Brasília, 27 de dezembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Alysson Paulinelli.
-
-###DEC-075146-0-000-27-12-1974@@@RET01+++
 
 DECRETO Nº 75.146, DE 27 DE DEZEMBRO DE 1974.
 

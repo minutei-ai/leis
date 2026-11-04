@@ -1,5 +1,3 @@
-###DEC-091386-0-000-01-07-1985@@@
-
 DECRETO Nº 91.386, DE 01 DE JULHO DE 1985
 
 Renova a concessão outorgada à EMISSORAS GUARARAPES LTDA. e autoriza a transferência direta para a DIFUSORAS DE PERNAMBUCO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pesqueira, Estado de Pernambuco.

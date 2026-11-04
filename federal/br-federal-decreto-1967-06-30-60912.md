@@ -1,5 +1,3 @@
-###DEC-060912-0-000-30-06-1967@@@
-
 DECRETO Nº 60.912, DE 30 DE JUNHO DE 1967.
 
 Declara de utilidade pública a “Liga Sandumonense de Proteção e Assistência à Infância”, com sede em Santos Dumont, Estado de Minas Gerais.

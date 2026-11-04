@@ -1,5 +1,3 @@
-###DEC-070346-0-000-28-03-1972@@@
-
 DECRETO Nº 70.346, DE 28 DE MARÇO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Departamento Nacional de Estradas de Rodagem, cargo do Ministério do Trabalho e Previdência Social, e dá outras providências.

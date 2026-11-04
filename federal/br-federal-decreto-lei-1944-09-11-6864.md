@@ -1,5 +1,3 @@
-###DEL-006864-0-000-11-09-1944@@@
-
 DECRETO-LEI N. 6.864 – DE 11 DE SETEMBRO DE 1944
 
 Cria no Quadro de Oficiais Auxiliares (Q. O. Aux), do Corpo de Oficiais Aviadores (C.O.A. ) novas categorias

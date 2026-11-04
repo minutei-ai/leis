@@ -1,5 +1,3 @@
-###DEL-006475-0-000-08-05-1944@@@
-
 DECRETO-LEI N. 6.475 – DE 8 DE MAIO DE 1944
 
 Retifica o Orçamento Geral da República no tocante à dotação que especifica

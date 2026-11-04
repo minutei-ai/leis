@@ -1,5 +1,3 @@
-###DEC-061281-0-000-04-09-1967@@@
-
 decreto nº 61.281, de 4 de setembro de 1967.
 
 Outorga à Emprêsa Termelétrica Nova Andradina Ltda., concessão para distribuir energia elétrica no município de Nova Andradina, Estado de Mato Grosso.

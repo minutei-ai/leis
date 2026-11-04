@@ -1,5 +1,3 @@
-###DEL-001681-0-000-07-05-1979@@@
-
 # DECRETO-LEI nº 1.681, de 07 de maio de 1979
 
 Altera a alínea “i” do item II do Artigo 13, da Lei nº 4.452, de 05 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-052912-0-000-22-11-1963@@@
-
 DECRETO Nº 52.912, DE 22 DE NOVEMBRO DE 1963.
 
 Aprova o Regulamento do Gabinete do Procurador-Geral do Distrito Federal.

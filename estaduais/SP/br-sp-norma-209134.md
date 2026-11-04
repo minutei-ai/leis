@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209134)<br>
-
 # DECRETO N° 68.342, DE 29 DE FEVEREIRO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha do Mérito do Museu Histórico Militar de Bauru", instituído pela Associação Museu Histórico e Militar de Bauru e dá providências correlatas._

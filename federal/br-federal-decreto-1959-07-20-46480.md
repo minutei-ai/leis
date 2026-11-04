@@ -1,5 +1,3 @@
-###DEC-046480-0-000-20-07-1959@@@
-
 DECRETO Nº 46.480, DE 20 DE JULHO DE 1959.
 
 Concede à Indústria Brasileira de Mineração Ouro Branco Ltda, autorização para funcionar como empresa de mineração.

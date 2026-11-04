@@ -1,5 +1,3 @@
-###DEC-003197-0-000-05-10-1999@@@
-
 DECRETO Nº 3.197, DE 5 DE OUTUBRO DE 1999.
 
 Promulga a Convenção nº 132 da Organização Internacional do Trabalho - OIT sobre Férias Anuais Remuneradas (revista em 1970), concluída em Genebra, em 24 de junho de 1970
@@ -194,4 +192,12 @@ O Texto que precede é o texto autêntico da Convenção devidamente adotada na 
 
 Em fé do que apuseram suas assinaturas, no dia vinte e cinco de junho de 1970.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Presidente da Conferência V. Manickavasagam</span></p></td><td style="width:206.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">O Diretor-Geral da Repartição Internacional do Trabalho Wilfred Jenks</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Presidente da Conferência V. Manickavasagam
+
+</td><td style="width:206.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Diretor-Geral da Repartição Internacional do Trabalho Wilfred Jenks
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-091814-0-000-21-10-1985@@@
-
 Decreto nº 91.814, de 21 de outubro de 1985
 
 Concede Empresa YAOHAN DEPARTMENT STORE CO. LTD., autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-071410-0-000-21-11-1972@@@
-
 DECRETO Nº 71.410, DE 21 DE NOVEMBRO DE 1972.
 
 Autoriza a permuta dos terrenos que menciona, situados em Teresópolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-001601-0-000-18-01-1978@@@
-
 # DECRETO-LEI Nº 1.601, DE 18 DE janeiro DE 1978
 
 Dispõe sobre a Sistemática a ser aplicada aos incentivos fiscais à atividade turística, que menciona, e dá outras providências.

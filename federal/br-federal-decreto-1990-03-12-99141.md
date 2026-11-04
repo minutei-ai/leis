@@ -1,7 +1,3 @@
-1
-
-###DEC-099141-0-000-12-03-1990@@@
-
 # DECRETO Nº 99.141, DE 12 DE MARCO DE 1990
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado FAZENDA PLANALTO/PEDESA, situado no Município de Santa Luzia, Estado do Maranhão, e dá outras providências.

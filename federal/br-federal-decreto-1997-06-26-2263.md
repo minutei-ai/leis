@@ -1,5 +1,3 @@
-###DEC-002263-0-000-26-06-1997@@@
-
 DECRETO Nº 2.263, DE 25 DE JUNHO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto 1.988, de 27 de agosto de 1996.

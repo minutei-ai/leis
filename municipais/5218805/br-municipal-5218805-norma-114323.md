@@ -52,7 +52,6 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogando-se as
 
 Gabinete do Prefeito de Rio Verde, aos 15 de abril de 2014.
 
-<br>
  
 
 JURACI MARTINS DE OLVEIRA

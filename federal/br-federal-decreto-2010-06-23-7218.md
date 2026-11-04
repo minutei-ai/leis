@@ -1,5 +1,3 @@
-###DEC-007218-0-000-23-06-2010@@@
-
 DECRETO Nº 7.218, DE 23 DE JUNHO DE 2010.
 
 Autoriza o aumento de capital da Empresa Binacional Alcântara Cyclone Space

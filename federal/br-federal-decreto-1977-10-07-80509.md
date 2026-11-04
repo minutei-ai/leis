@@ -1,5 +1,3 @@
-###DEC-080509-0-000-07-10-1977@@@
-
 DECRETO Nº 80.509, DE 7 DE OUTUBRO DE 1977.
 
 Cria a Diretoria de Armamento e Comunicações da Marinha (DACM), extingue a Diretoria de Armamento da Marinha (DAM) e a Diretoria de Comunicações e Eletrônica da Marinha (DCEM) e dá outras providências.

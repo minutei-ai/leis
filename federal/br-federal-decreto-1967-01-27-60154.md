@@ -1,5 +1,3 @@
-###DEC-060154-0-000-27-01-1967@@@
-
 DECRETO Nº 60.154, DE 27 DE JANEIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Estradas de Rodagem, área de terreno em que está situada uma pedreira no município de Sapucaia, Estado do Rio de Janeiro.

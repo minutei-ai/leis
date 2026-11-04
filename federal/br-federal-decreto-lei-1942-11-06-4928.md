@@ -1,5 +1,3 @@
-###DEL-004928-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.928 – DE 6 DE NOVEMBRO DE 1942
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saude, e dá outras providências

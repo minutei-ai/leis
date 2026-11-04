@@ -1,5 +1,3 @@
-###DEL-004563-0-000-11-08-1942@@@
-
 DECRETO-LEI N. 4.563 – DE 11 DE AGOSTO DE 1942
 
 Autoriza a Ordem dos Advogados do Brasil a instituir Caixas de Assistência, em benefício dos profissionais nela inscritos

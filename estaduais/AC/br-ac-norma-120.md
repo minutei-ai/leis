@@ -1,6 +1,10 @@
 > **LEI Nº 3.628, DE 26 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação, com encargo, de um imóvel urbano da Fundação do Bem Estar Social – FUNBESA ao Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação, com encargo, de um imóvel urbano da Fundação do Bem Estar Social – FUNBESA ao Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-046913-0-000-29-09-1959@@@
-
 decreto nº 46.913, de 29 de setembro de 1959.
 
 Concede à “CINABA” - Comércio, Indústria e Navegação Bandeirantes S/A autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

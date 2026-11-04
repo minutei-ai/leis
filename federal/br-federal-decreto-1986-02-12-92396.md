@@ -1,5 +1,3 @@
-###DEC-092396-0-000-12-02-1986@@@
-
 DECRETO Nº 92.396, DE 12 DE FEVEREIRO DE 1986
 
 Transfere competências da Administração Federal, e dá outras providências,

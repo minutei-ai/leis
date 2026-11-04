@@ -1,5 +1,3 @@
-###DEC-085689-0-000-02-02-1981@@@
-
 Decreto nº 85.689, de 02 de fevereiro de 1981
 
 Concede à Telecomunicações de Minas Gerais S.A. - TELEMIG, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS, autorização para promover o aumento do seu capital social.

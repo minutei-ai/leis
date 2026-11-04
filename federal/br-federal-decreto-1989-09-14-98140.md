@@ -1,7 +1,3 @@
-1
-
-###DEC-098140-0-000-14-09-1989@@@
-
 DECRETO N° 98.140, DE 14 DE SETEMBRO DE 1989
 
 Renova a concessão outorgada à REDE Sul MATOGROSSENSE DE EMISSORAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Aparecida do Taboado, Estado do Mato Grosso do Sul.

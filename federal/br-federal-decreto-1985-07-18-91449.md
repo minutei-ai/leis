@@ -1,5 +1,3 @@
-###DEC-091449-0-000-18-07-1985@@@
-
 DECRETO Nº 91.449, DE 18 DE JULHO DE 1985.
 
 Autoriza o funcionamento de cursos, em regime especial, em Humaitá, Estado do Amazonas.

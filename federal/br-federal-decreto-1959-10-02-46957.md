@@ -1,5 +1,3 @@
-###DEC-046957-0-000-02-10-1959@@@
-
 DECRETO Nº 46.957, DE 2 DE OUTUBRO DE 1959.
 
 Estabelece a freqüência de 60 ciclos por segundo no sistema elétrico da S.A. Emprêsa Fôrça e Luz de Mogi-Mirim.

@@ -1,5 +1,3 @@
-###DEC-095579-0-000-29-12-1987@@@
-
 DECRETO Nº 95.579, DE 29 DE DEZEMBRO DE 1987
 
 Reajusta o valor do Piso Nacional de Salários.

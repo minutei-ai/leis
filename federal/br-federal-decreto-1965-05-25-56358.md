@@ -1,5 +1,3 @@
-###DEC-056358-0-000-25-05-1965@@@
-
 DECRETO Nº 56.358, DE 25 DE MAIO DE 1965.
 
 Dispõe sôbre a execução do Decreto nº 55.185, de 10 de dezembro de 1964.

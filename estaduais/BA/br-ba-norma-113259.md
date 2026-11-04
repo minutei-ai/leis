@@ -10,91 +10,71 @@ Art. 2º - São indicadas a seguir as instituições a serem beneficiadas com o 
 
 Acordos e Convênios
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Hospital Regional de Ruy Barbosa<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Cr$360.000,00<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Idem, idem Regis Pacheco, em Canavieiras<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$360.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Idem, idem de Caetité<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$320.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Idem, idem de Caravelas<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$320.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Idem, idem de Ubaíra<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$360.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Idem, idem de Amargosa<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$360.000,00<quebra></quebra></span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$2.080.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+Hospital Regional de Ruy Barbosa<quebra></quebra>
+
+Cr$360.000,00<quebra></quebra>
+
+Idem, idem Regis Pacheco, em Canavieiras<quebra></quebra>
+
+Cr$360.000,00<quebra></quebra>
+
+Idem, idem de Caetité<quebra></quebra>
+
+Cr$320.000,00<quebra></quebra>
+
+Idem, idem de Caravelas<quebra></quebra>
+
+Cr$320.000,00<quebra></quebra>
+
+Idem, idem de Ubaíra<quebra></quebra>
+
+Cr$360.000,00<quebra></quebra>
+
+Idem, idem de Amargosa<quebra></quebra>
+
+Cr$360.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$2.080.000,00<quebra></quebra>
 
 Serviços Contratuais
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Abrigo do Salvador<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Cr$1.241.800,00<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Casa Pia dos Órfãos de São Joaquim<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$240.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Santa Casa de Misericórdia da Capital<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$289.600,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Orfanato da Imaculada Conceição do Convento do Desterrro<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$192.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:4"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Ginásio Salesiano de Salvador<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$215.000,00</span><quebra></quebra></p></td></tr><tr style="mso-yfti-irow:5"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Colégio das Órfãs do Sagrado Coração de Jesus<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$48.000,00<quebra></quebra></span></p></td></tr><tr style="mso-yfti-irow:6"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Casa Pia e Orfanato N.S. do Salete<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$48.000,00<quebra></quebra></span></p></td></tr><tr style="mso-yfti-irow:7"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Enxovais e material<quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$225.600,00<quebra></quebra></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td width="299" valign="top" style="width:224.45pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><quebra></quebra></p></td><td width="299" valign="top" style="width:224.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span style="color:black">Cr$2.080.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+Abrigo do Salvador<quebra></quebra>
+
+Cr$1.241.800,00<quebra></quebra>
+
+Casa Pia dos Órfãos de São Joaquim<quebra></quebra>
+
+Cr$240.000,00<quebra></quebra>
+
+Santa Casa de Misericórdia da Capital<quebra></quebra>
+
+Cr$289.600,00<quebra></quebra>
+
+Orfanato da Imaculada Conceição do Convento do Desterrro<quebra></quebra>
+
+Cr$192.000,00<quebra></quebra>
+
+Ginásio Salesiano de Salvador<quebra></quebra>
+
+Cr$215.000,00<quebra></quebra>
+
+Colégio das Órfãs do Sagrado Coração de Jesus<quebra></quebra>
+
+Cr$48.000,00<quebra></quebra>
+
+Casa Pia e Orfanato N.S. do Salete<quebra></quebra>
+
+Cr$48.000,00<quebra></quebra>
+
+Enxovais e material<quebra></quebra>
+
+Cr$225.600,00<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$2.080.000,00<quebra></quebra>
 
 Art. 3º - Para atender às despesas decorrentes da abertura do presente crédito serão utilizados os recursos provenientes da operação de crédito realizada com o Banco do Brasil S.A., autorizada pela Lei nº [408](https://www.legislabahia.ba.gov.br/documentos/lei-no-408-de-11-de-agosto-de-1951) , de 11 de agosto de 1951 e aprovada pelo Decreto nº 15.021, de 03 de setembro do mesmo ano.
 
@@ -112,4 +92,4 @@ Expedito Pereira da Cruz
 
 Jayme Baleeiro
 
-* * *
+ *

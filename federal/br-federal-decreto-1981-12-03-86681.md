@@ -1,5 +1,3 @@
-###DEC-086681-0-000-03-12-1981@@@
-
 DECRETO Nº 86.681, DE 03 DE DEZEMBRO DE 1981
 
 Encampa bens e instalações que constituem a Usina Avanhandava da Companhia Paulista de Força e Luz - CPFL e a Usina Miguel Estefno da Companhia Nacional de Energia Elétrica - CNEE situadas no Estado de São Paulo.

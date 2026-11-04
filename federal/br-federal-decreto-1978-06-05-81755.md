@@ -1,5 +1,3 @@
-###DEC-081755-0-000-05-06-1978@@@
-
 Decreto nº 81.755, de 05 de junho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Jardinópolis, da companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-002252-0-000-04-03-1985@@@
-
 # DECRETO-LEI Nº 2.252, dE 04 dE março de 1985
 
 Revoga o art. 4º e seus parágrafos do Decreto-Lei nº 1.924, de 20 de janeiro de 1982, que “destina ao Comitê Olímpico Brasileiro a renda líquida de um dos concursos de prognósticos esportivos nos anos em que não são realizados Jogos Olímpicos ou Jogos Pan-Americanos’’.

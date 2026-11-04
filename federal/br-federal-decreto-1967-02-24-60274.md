@@ -1,5 +1,3 @@
-###DEC-060274-0-000-24-02-1967@@@
-
 DECRETO Nº 60.274, DE 24 DE FEVEREIRO DE 1967.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de NCr$3.588.280,00, para os fins que especifica.

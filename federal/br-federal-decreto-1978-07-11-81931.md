@@ -1,5 +1,3 @@
-###DEC-081931-0-000-11-07-1978@@@
-
 Decreto nº 81.931, de 11 de julho de 1978.
 
 Autoriza o registro em nome da União Federal, dos imóveis que menciona, situados no Estado do Mato Grosso.

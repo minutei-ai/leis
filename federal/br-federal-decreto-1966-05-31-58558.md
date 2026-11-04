@@ -1,5 +1,3 @@
-###DEC-058558-0-000-31-05-1966@@@
-
 DECRETO Nº 58.558, DE 31 DE maio DE 1966.
 
 Altera o Regulamento para Diretoria de Saúde da Marinha, aprovado pelo Decreto nº 44.780, de 6 de novembro de 1958.

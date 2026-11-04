@@ -1,5 +1,3 @@
-###DEC-072896-0-000-09-10-1973@@@
-
 Decreto Nº 72.896, de 9 DE outubro de 1973.
 
 Dispõe sobre a designação de comissão para rever inventário e levantamento dos bens, direitos e ações pertencentes à União, destinados à constituição do capital inicial da Empresa Brasileira de Correios e Telégrafos, e dá outras providências.

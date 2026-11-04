@@ -1,5 +1,3 @@
-###DEC-055449-0-000-05-01-1965@@@
-
 Decreto nº 55.449, de 5 de janeiro de 1965.
 
 Outorga ao Município de Jeceaba, concessão para distribuir energia elétrica no Município, e dá outras providências.

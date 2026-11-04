@@ -1,7 +1,3 @@
-1
-
-###DEC-097920-0-000-06-07-1989@@@
-
 DECRETO N.° 97.920, DE 6 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “SANTA FILOMENA E TABOCA (parte)”, classificado como “latifúndio por exploração, situados no Município de Caxias, Estado do Maranhão”, compreendido na zona prioritária fixada pelo Decreto n° 92.619, de 02 de maio de 1986, e dá outras providências.

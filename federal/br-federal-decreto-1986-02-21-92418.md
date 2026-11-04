@@ -1,5 +1,3 @@
-###DEC-092418-0-000-21-02-1986@@@
-
 DECRETO Nº 92.418, de 21 de fevereiro de 1986
 
 Renova a concessão outorgada à TELEVISÃO BARÉ LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Manaus, Estado do Amazonas.

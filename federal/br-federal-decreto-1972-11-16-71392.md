@@ -1,5 +1,3 @@
-###DEC-071392-0-000-16-11-1972@@@
-
 DECRETO Nº 71.392 - DE 16 DE NOVEMBRO DE 1972.
 
 Autoriza a encampação dos bens e instalações vinculados às concessões dos Serviços públicos de energia elétrica em diversos municípios do Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-066880-0-000-16-07-1970@@@
-
 Decreto nº 66.880, de 16 de julho de 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Bragança - PA, destinado ao Ministério do Exército.

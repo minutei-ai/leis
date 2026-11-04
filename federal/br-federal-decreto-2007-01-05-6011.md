@@ -1,5 +1,3 @@
-###DEC-006011-0-000-05-01-2007@@@
-
 DECRETO Nº 6.011, DE 5 DE JANEIRO DE 2007.
 
 Promulga o Acordo para Cooperação na Área da Aeronáutica Militar entre o Governo da República Federativa do Brasil e a República Francesa, celebrado em Paris, em 15 de julho de 2005.
@@ -24,11 +22,7 @@ Brasília,  5  de janeiro  de 2007; 186o da Independência e 119o da Repúbli
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 4.1.2007.
-
- ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+       Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DA REPÚBLICA FRANCESA PARA COOPERAÇÃO NA ÁREA DA AERONÁUTICA MILITAR
 

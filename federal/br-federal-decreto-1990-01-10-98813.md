@@ -1,5 +1,3 @@
-###DEC-098813-0-000-10-01-1990@@@
-
 DECRETO Nº 98.813, DE 10 DE JANEIRO DE 1990
 
 Aprova o Regulamento do Fundo da Garantia do Tempo de Serviço (FGTS).

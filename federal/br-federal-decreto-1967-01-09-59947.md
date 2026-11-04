@@ -1,5 +1,3 @@
-###DEC-059947-0-000-09-01-1967@@@
-
 DECRETO nº 59.947, DE 9 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Conrado Barsoti a pesquisar calcário e dolomita, nos municípios de Piraí e Itaguaí, Estado do Rio de Janeiro.

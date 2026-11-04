@@ -1,5 +1,3 @@
-###DEC-061403-0-000-27-09-1967@@@
-
 decreto nº 61.403, de 27 de setembro de 1967.
 
 Declara de utilidade pública o Instituto Santa Terezinha com sede em São Paulo, Estado de São Paulo.

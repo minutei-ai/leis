@@ -1,5 +1,3 @@
-###DEC-058537-0-000-30-05-1966@@@
-
 DECRETO Nº 58.537, DE 30 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Geraldo Carvalho de Freitas a pesquisar minério de manganês no município de São João d’Aliança, Estado de Goiás.

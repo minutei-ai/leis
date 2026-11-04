@@ -1,5 +1,3 @@
-###DEC-096349-0-000-15-07-1988@@@
-
 DECRETO N° 96.349, DE 15 DE JULHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestacão Cajuru, da Companhia Paulista de Forca e Luz  CPFL, no Estado de São Paulo.

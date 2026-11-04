@@ -1,5 +1,3 @@
-###DEL-006685-0-000-13-07-1944@@@
-
 DECRETO-LEI N. 6.685 – DE 13 DE JULHO DE 1944
 
 Autoriza a assinatura de contrato entre o Tesouro Nacional e o Banco do Brasil S.A., para funcionamento da Câmara de Reajustamento Econômico e dá outras providências

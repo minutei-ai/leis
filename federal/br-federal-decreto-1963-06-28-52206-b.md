@@ -1,5 +1,3 @@
-###DEC-052206-B-000-28-06-1963@@@
-
 DECRETO Nº 52.206-B, DE 28 DE JUNHO DE 1963.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$30.791.905,30, para o fim que menciona.

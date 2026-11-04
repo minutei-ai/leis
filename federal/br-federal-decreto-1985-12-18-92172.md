@@ -1,5 +1,3 @@
-###DEC-092172-0-000-18-12-1985@@@
-
 DECRETO Nº 92.172, DE 18 DE DEZEMBRO DE 1985.
 
 Dispõe sobre a extinção da Artilharia de Costa da 1ª Região Militar e 1ª Brigada de Artilharia Antiaérea, da Artilharia Divisionária da 2ª Divisão de Exército e de seus respectivos Comandos; a criação da 1ª Brigada de Artilharia de Costa e Antiaérea, da 2ª Brigada de Artilharia de Costa e Antiaérea e de seus respectivos Comandos, no Ministério do Exército, e dá outras providências.

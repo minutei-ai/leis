@@ -1,5 +1,3 @@
-###DEL-008192-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.192 – DE 20 DE NOVEMBRO DE 1945
 
 Dispõe sôbre a concessão anual de bolsas de estudos na Escola Nacional Educação Física e Desportos.

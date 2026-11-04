@@ -1,5 +1,3 @@
-###DEC-068002-0-000-31-12-1970@@@
-
 DECRETO Nº 68.002, de 31 de dezembro de 1970.
 
 Declara sem efeito o Decreto número 24.559, de 21 de fevereiro de 1948.

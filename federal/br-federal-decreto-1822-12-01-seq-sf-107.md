@@ -1,5 +1,3 @@
-###DEC-000000-0-107-01-12-1822@@@
-
 DECRETO - DO 1º DE DEZEMBRO DE 1822
 
 Organiza a guarda de honra da pessoa do Imperador.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.170, DE 13 DE SETEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.448, de 10 de outubro de 2011, que institui o Plano de Cargos, Carreiras e Remuneração - PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre - DETRAN/AC, para adequação dos requisitos para provimentos de cargos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.448, de 10 de outubro de 2011, que institui o Plano de Cargos, Carreiras e Remuneração - PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre - DETRAN/AC, para adequação dos requisitos para provimentos de cargos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

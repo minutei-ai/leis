@@ -1,7 +1,3 @@
-1
-
-###DEC-001380-0-000-30-01-1995@@@
-
 DECRETO Nº 1.380, DE 30 DE JANEIRO DE 1995
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

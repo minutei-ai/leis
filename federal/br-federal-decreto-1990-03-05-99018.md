@@ -1,7 +1,3 @@
-1
-
-###DEC-099018-0-000-05-03-1990@@@
-
 DECRETO Nº 99.018, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Administração do Instituto GAMMON, Escola de 1º e 2º graus, em Lavras, Minas Gerais.

@@ -1,18 +1,16 @@
-###DEC-042634-0-000-13-11-1957@@@
+**DECRETO Nº 42.634, DE 13 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.634, DE 13 DE NOVEMBRO DE 1957.</strong>
+***Outorga à Prefeitura Municipal de Neópolis, Estado de Sergipe, concessão para distribuir energia elétrica na sede do município, mediante suprimento de energia elétrica que receberá da Companhia Hidro Elétrica do São Francisco.***
 
-<em><strong>Outorga à Prefeitura Municipal de Neópolis, Estado de Sergipe, concessão para distribuir energia elétrica na sede do município, mediante suprimento de energia elétrica que receberá da Companhia Hidro Elétrica do São Francisco.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I. da Constituição e nos têrmos do art. 150, do Código de Águas (Decreto n° 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I. da Constituição e nos têrmos do art. 150, do Código de Águas (Decreto n° 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1**°** É outorgada à Prefeitura Municipal de Neópolis, Estado de Sergipe, concessão para distribuir energia elétrica na sede do município, ficando, para tanto, autorizada a receber suprimento de energia elétrica da Companhia Hidro Elétrica do São Francisco e reformar a rêde de distribuição da cidade.
 
-<strong>Art</strong>. 1<strong>°</strong> É outorgada à Prefeitura Municipal de Neópolis, Estado de Sergipe, concessão para distribuir energia elétrica na sede do município, ficando, para tanto, autorizada a receber suprimento de energia elétrica da Companhia Hidro Elétrica do São Francisco e reformar a rêde de distribuição da cidade.
+**Art**. 2**°** A presente concessão fica sujeita às disposições do decreto n° 41.019, de 26 de fevereiro de 1957, que regulamenta os serviços de energia elétrica.
 
-<strong>Art</strong>. 2<strong>°</strong> A presente concessão fica sujeita às disposições do decreto n° 41.019, de 26 de fevereiro de 1957, que regulamenta os serviços de energia elétrica.
-
-<strong>Art</strong>. 3<strong>°</strong> Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as seguintes condições:
+**Art**. 3**°** Caducará o presente título, independente de ato declaratório, se a concessionária não satisfizer as seguintes condições:
 
 I - Submeter à aprovação do Ministério da Agricultura, em três (3) vias, dentro do prazo de um (1) ano, a contar da data da publicação dêste Decreto, o projeto e orçamento relativos às obras autorizadas as quais deverão obedecer as normas técnicas estabelecidas em leis e regulamentos.
 
@@ -24,14 +22,14 @@ VI - Iniciar e concluir as obras nos prazos que forem marcadas pelo Ministério 
 
 Parágrafo único. Os prazos referidos neste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 4° As tarifas do fornecimento de energia elétrica serão fixadas e revista trienalmente pela referida Divisão de Águas.
+**Art**. 4° As tarifas do fornecimento de energia elétrica serão fixadas e revista trienalmente pela referida Divisão de Águas.
 
-<strong>Art</strong>. 5° A presente concessão vigorará pelo prazo de trinta (30) anos, contados a partir da data do registro do respectivo contrato, pelo Tribunal de Contas.
+**Art**. 5° A presente concessão vigorará pelo prazo de trinta (30) anos, contados a partir da data do registro do respectivo contrato, pelo Tribunal de Contas.
 
-<strong>Art</strong>. 6° Revogam-se as disposições em contrário.
+**Art**. 6° Revogam-se as disposições em contrário.
 
 Rio de janeiro, 13 de novembro de 1957; 136° da Independência e 69° da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

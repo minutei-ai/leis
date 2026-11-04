@@ -1,7 +1,3 @@
-1
-
-###DEC-097804-0-000-06-06-1989@@@
-
 DECRETO N° 97.804, DE 06 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Agronomia da Faculdade de Ciências Agrárias de Rondonópolis.

@@ -1,5 +1,3 @@
-###DEC-059248-0-000-19-09-1966@@@
-
 Decreto Nº 59.248, DE 19 DE SETEMBRO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Cairú Companhia de Seguros Gerais, inclusive mudança de denominação e aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-092873-0-000-30-06-1986@@@
-
 DECRETO Nº 92.873, DE 30 DE JUNHO DE 1986
 
 Extingue o Vice-Consulado do Brasil em Willemstad.

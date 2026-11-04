@@ -1,5 +1,3 @@
-###DEL-004950-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.950 – DE 13 DE NOVEMBRO DE 1942
 
 Eleva padrão de vencimento no Ministério da Educação e Saude e dá outras providências

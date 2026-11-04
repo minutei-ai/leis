@@ -1,5 +1,3 @@
-###DEC-075974-0-000-17-07-1975@@@
-
 DECRETO Nº 75.974 - DE 17 dE JULHO DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a julho de 1975.

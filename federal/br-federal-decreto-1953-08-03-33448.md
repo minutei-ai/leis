@@ -1,14 +1,12 @@
-###DEC-033448-0-000-03-08-1953@@@
+**DECRETO Nº 33.448, DE 3 DE AGÔSTO DE 1953.**
 
-<strong>DECRETO Nº 33.448, DE 3 DE AGÔSTO DE 1953.</strong>
+***Dá nova redação a artigos do Regulamento do Serviço de Saúde do Serviço do Exército.***
 
-<em><strong>Dá nova redação a artigos do Regulamento do Serviço de Saúde do Serviço do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passam a ter a redação abaixo, os seguintes artigos do Regulamento do Serviço de Saúde do Exercito, aprovado pelo Decreto de número 32.090, de 14 de janeiro de 1953:
+**Art**. 1º Passam a ter a redação abaixo, os seguintes artigos do Regulamento do Serviço de Saúde do Exercito, aprovado pelo Decreto de número 32.090, de 14 de janeiro de 1953:
 
 “Art. 24.....................................................................................................................................
 
@@ -26,7 +24,7 @@
 
 ...........................................................................................................................................................
 
-<strong>Art</strong>. 68 .....................................................................................................................................
+**Art**. 68 .....................................................................................................................................
 
 1ª Seção - Seção de Organização Hospitalar, com os seguintes encargos básicos:
 
@@ -54,17 +52,17 @@ e) Circulares Técnicas.
 
 f) Ligação com consultores civis.
 
-<strong>Art</strong>. 117. As atribuições orgânicas e funcionais do Serviço de Saúde das Divisões - como Grandes Unidades Táticas de Combate - constituem objeto do C 8 - 5 e do C 8 - 10.
+**Art**. 117. As atribuições orgânicas e funcionais do Serviço de Saúde das Divisões - como Grandes Unidades Táticas de Combate - constituem objeto do C 8 - 5 e do C 8 - 10.
 
 Parágrafo único .....................................................................................................................
 
-<strong>Art</strong>. 133 Como órgãos de direção limitada, e no que concerne às suas atribuições de coordenação do Serviço de Saúde no âmbito das Guarnições, as Chefias de SS Gu são subordinadas:
+**Art**. 133 Como órgãos de direção limitada, e no que concerne às suas atribuições de coordenação do Serviço de Saúde no âmbito das Guarnições, as Chefias de SS Gu são subordinadas:
 
 1 - ...........................................................................................................................................
 
 2 - ...........................................................................................................................................
 
-<strong>Art</strong>. 151. A fim de possibilitar seu perfeito ajustamento funcional, os Oficiais Médicos, - de acôrdo com os cursos e estágios de aperfeiçoamento que possuam - serão registrados, no DGS, como:
+**Art**. 151. A fim de possibilitar seu perfeito ajustamento funcional, os Oficiais Médicos, - de acôrdo com os cursos e estágios de aperfeiçoamento que possuam - serão registrados, no DGS, como:
 
 1 - ............................................................................................................................................
 
@@ -152,10 +150,10 @@ Parágrafo único ..............................................................
 
 \- Serviços Gerais - MD 42
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, em 3 de agôsto de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

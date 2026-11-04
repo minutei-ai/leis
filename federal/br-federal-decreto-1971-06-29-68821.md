@@ -1,5 +1,3 @@
-###DEC-068821-0-000-29-06-1971@@@
-
 DECRETO Nº 68.821 - DE 29 de junho de 1971.
 
 Redistribui com os respectivos ocupantes, para o Ministério da Agricultura, cargos do Instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076321-0-000-22-09-1975@@@
-
 Decreto nº 76.321 - de 22 de setembro de 1975
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

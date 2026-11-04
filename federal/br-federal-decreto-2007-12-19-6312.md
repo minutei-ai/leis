@@ -1,5 +1,3 @@
-###DEC-006312-0-000-19-12-2007@@@
-
 DECRETO Nº 6.312, DE 19 DE DEZEMBRO DE 2007.
 
 Regulamenta a Gratificação de Desempenho em Atividade de Pesquisa, Produção e Análise, Gestão e Infra-Estrutura de Informações Geográficas e Estatísticas - GDIBGE, instituída pelo art. 80 da Lei no 11.355, de 19 de outubro de 2006.
@@ -131,5 +129,3 @@ Brasília, 19 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 20.12.2007

@@ -1,5 +1,3 @@
-###DEC-075756-0-000-23-05-1975@@@
-
 DECRETO N° 75.756, DE 23 DE MAIO DE 1975.
 
 Dispõe sobre a criação das Inspetorias Seccionais de Finanças e dos Núcleos de Contabilidade na Inspetoria Geral de Finanças do Ministério da Agricultura e dá outras providências.

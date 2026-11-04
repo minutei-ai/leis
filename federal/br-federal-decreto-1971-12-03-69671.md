@@ -1,5 +1,3 @@
-###DEC-069671-0-000-03-12-1971@@@
-
 DECRETO Nº 69.671 - DE 3 DE DEZEMBRO DE 1971
 
 Concede à Emprêsa de Caolim Limitada o direito de lavrar caulim, no município de Inhaúma, Estado de Minas Gerais.

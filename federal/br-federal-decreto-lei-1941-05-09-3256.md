@@ -1,5 +1,3 @@
-###DEL-003256-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.256 – DE 9 DE MAIO DE 1941
 
 Regula o provimento da função de diretor dos estabelecimentos de ensino da Universidade do Brasil

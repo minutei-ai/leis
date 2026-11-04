@@ -1,5 +1,3 @@
-###DEC-048002-0-000-05-04-1960@@@
-
 Decreto nº 48.002, de 5 de abril de 1960.
 
 Declara de utilidade pública a Conferência dos Religiosos do Brasil.

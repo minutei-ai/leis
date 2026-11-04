@@ -1,5 +1,3 @@
-###DEC-046746-0-000-26-08-1959@@@
-
 DECRETO Nº 46.746, DE 26 DE AGôSTO DE 1959.
 
 Autoriza o cidadão brasileiro Eduardo André Matarazzo a pesquisar calcário, no município de Arroio Grande, Estado do Rio Grande do Sul.

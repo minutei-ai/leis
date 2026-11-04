@@ -1,5 +1,3 @@
-###DEC-089395-0-000-21-02-1984@@@
-
 Decreto nº 89.395 de 21 de fevereiro de 1984
 
 Dispõe sobre a unificação dos prazos de concessão da Companhia Telefônica do Brasil Central e Controladas e dá outras providências.

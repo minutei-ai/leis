@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211589)<br>
-
 # DECRETO N° 69.922, DE 01 DE OUTUBRO DE 2025
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Bastos, que declarou Situação de Emergência em áreas do Município._

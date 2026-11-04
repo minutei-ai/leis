@@ -1,5 +1,3 @@
-###DEL-009426-0-000-04-07-1946@@@
-
 DECRETO-LEI N. 9.426 – DE 4 DE JULHO DE 1946
 
 Considera de utilidade pública a desapropriação de quatro lotes de terreno na Cidade do Salvador, Estado da Bahia, para instalação do 4º Grupo Móvel de Artilharia de Costa.

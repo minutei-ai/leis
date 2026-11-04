@@ -1,5 +1,3 @@
-###DEC-094752-0-000-10-08-1987@@@
-
 DECRETO Nº 94.752, DE 10 DE AGOSTO DE 1987.
 
 Renova a concessão outorgada à RÁDIO CLUB DE FAXINAL LTDA., para explorar serviço de radiodifusão sonora em onda média na cidade de Faxinal, Estado do Paraná.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211429)<br>
-
 # DECRETO N° 69.853, DE 10 DE SETEMBRO DE 2025
 
 ### _Dá nova redação a dispositivos do Decreto n° 58.786, de 21 de dezembro de 2012, que dispõe sobre o Conselho de Orientação do Fundo de Apoio a Contribuintes do Estado de São Paulo._

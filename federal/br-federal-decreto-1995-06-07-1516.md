@@ -1,7 +1,3 @@
-1
-
-###DEC-001516-0-000-07-06-1995@@@
-
 DECRETO Nº 1.516, DE 7 de JUNHO DE 1995
 
 Dispõe sobre a execução, no território nacional, da Resolução 988 (1995) do Conselho de Segurança das Nações Unidas que prorroga, até 5 de julho de 1995, o levantamento parcial das sanções contra a Iugoslávia.

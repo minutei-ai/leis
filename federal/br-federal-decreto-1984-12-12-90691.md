@@ -1,5 +1,3 @@
-###DEC-090691-0-000-12-12-1984@@@
-
 Decreto nº 90.691, de 12 de dezembro de 1984
 
 Dá nova redação ao artigo 90 do Decreto nº 87.062, de 29.03.1982.

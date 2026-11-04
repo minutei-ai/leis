@@ -1,5 +1,3 @@
-###DEC-051037-0-000-25-07-1961@@@
-
 Decreto nº 51.037, de 25 de julho de 1961.
 
 Declara públicas, de uso comum do domínio do Estado de Goiás as águas do rio Santana.

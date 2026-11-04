@@ -1,5 +1,3 @@
-###DEC-047491-0-000-24-12-1959@@@
-
 DECRETO Nº 47.491, DE 24 DE DEZEMBRO DE 1959.
 
 Regula o abastecimento de trigo, estabelece normas para sua comercialização e industrialização e adota providências relacionadas com a defesa da produção nacional.
@@ -217,8 +215,6 @@ Mário Meneghetti
 S. Paes de Almeida
 
 Ernani do Amaral Peixoto
-
-###DEC-047491-0-000-24-12-1959@@@RET01+++
 
 decreto nº 47.491, de 24 de dezembro de 1959.
 

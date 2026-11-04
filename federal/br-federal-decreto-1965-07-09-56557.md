@@ -1,5 +1,3 @@
-###DEC-056557-0-000-09-07-1965@@@
-
 Decreto nº 56.557, de 9 de julho de 1965.
 
 Concede à Pedreiras Harmonia Ltda. autorização para funcionar como emprêsa de mineração.

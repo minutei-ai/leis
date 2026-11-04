@@ -1,5 +1,3 @@
-###DEL-008467-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.467 – DE 27 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar o Sindicato dos Estivadores do Rio de Janeiro dos impostos que menciona.

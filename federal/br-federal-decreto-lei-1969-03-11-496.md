@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c7796a09-70a0-47bf-a582-feb49e222a7e/texto#nowhere)
 
-###DEL-000496-0-000-11-03-1969@@@
-
 DECRETO-LEI Nº 496, DE 11 DE MARÇO DE 1969
 
 Dispõe sôbre as aeronaves de emprêsas de transporte aéreo em liquidação, falência ou concordata e dá outras providências

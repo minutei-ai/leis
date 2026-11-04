@@ -16,26 +16,54 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</b><br>3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE MERCADÕES GOIANOS</td><td style=" width:85px;    ">15 451 1054 3253</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 6.273.327,71</td><td style=" width:85px;    ">R$ 6.273.327,71</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE MERCADÕES GOIANOS</td><td style=" width:85px;    ">15 451 1054 3253</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 26.100.078,29</td><td style=" width:85px;    ">R$ 26.100.078,29</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS** 3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>CONSTRUÇÃO DE MERCADÕES GOIANOS</td><td>15 451 1054 3253</td><td>17610156</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 0,00</td><td>R$ 6.273.327,71</td><td>R$ 6.273.327,71</td></tr><tr><td>CONSTRUÇÃO DE MERCADÕES GOIANOS</td><td>15 451 1054 3253</td><td>27610156</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 0,00</td><td>R$ 26.100.078,29</td><td>R$ 26.100.078,29</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 6.273.327,71</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 26.100.078,29</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 32.373.406,00</td></tr></tbody></table>
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 6.273.327,71
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 26.100.078,29
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 32.373.406,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">BOLSA-UNIFORME PARA ALUNOS DOS COLÉGIOS ESTADUAIS DA POLÍCIA MILITAR - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">06 361 1008 2557</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.295.572,96</td><td style=" width:85px;    ">R$ 3.295.572,96</td><td style=" width:85px;    ">R$ 3.295.572,96</td></tr><tr><td style=" width:85px;    ">BOLSA-UNIFORME PARA ALUNOS DOS COLÉGIOS ESTADUAIS DA POLÍCIA MILITAR - ENSINO MÉDIO</td><td style=" width:85px;    ">06 362 1008 2558</td><td style=" width:85px;    ">17610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.977.754,75</td><td style=" width:85px;    ">R$ 2.977.754,75</td><td style=" width:85px;    ">R$ 2.977.754,75</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA** 2902 - POLÍCIA MILITAR</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>BOLSA-UNIFORME PARA ALUNOS DOS COLÉGIOS ESTADUAIS DA POLÍCIA MILITAR - ENSINO FUNDAMENTAL</td><td>06 361 1008 2557</td><td>17610156</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 3.295.572,96</td><td>R$ 3.295.572,96</td><td>R$ 3.295.572,96</td></tr><tr><td>BOLSA-UNIFORME PARA ALUNOS DOS COLÉGIOS ESTADUAIS DA POLÍCIA MILITAR - ENSINO MÉDIO</td><td>06 362 1008 2558</td><td>17610156</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 2.977.754,75</td><td>R$ 2.977.754,75</td><td>R$ 2.977.754,75</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR</td><td style=" width:85px;    ">12 306 1008 2019</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 17.304.980,66</td><td style=" width:85px;    ">R$ 4.043.538,29</td><td style=" width:85px;    ">R$ 4.043.538,29</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO** 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR</td><td>12 306 1008 2019</td><td>27610156</td><td>50</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 17.304.980,66</td><td>R$ 4.043.538,29</td><td>R$ 4.043.538,29</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse" width="681"><tbody><tr><td colspan="8" style=" width:680px;  height:19px;   "><b>3262-AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA - EMATER</b></td></tr><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">AGROINDÚSTRIAL MODULAR</td><td style=" width:85px;    ">20 606 1035 2628</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 22.056.540,00</td><td style=" width:85px;    ">R$ 22.056.540,00</td><td style=" width:85px;    ">R$ 22.056.540,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**3262-AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁRIA - EMATER**</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>AGROINDÚSTRIAL MODULAR</td><td>20 606 1035 2628</td><td>27610156</td><td>90</td><td>4 - INVESTIMENTOS</td><td>R$ 22.056.540,00</td><td>R$ 22.056.540,00</td><td>R$ 22.056.540,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 6.273.327,71</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 26.100.078,29</td></tr></tbody></table>
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   "><b>TOTAL</b></td><td style=" width:340px;  height:19px;   ">R$ 32.373.406,00</td></tr></tbody></table>
+R$ 6.273.327,71
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:340px;  height:19px;   ">R$ 6.273.327,71</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 26.100.078,29</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 32.373.406,00</td></tr></tbody></table>
+R$ 26.100.078,29
+
+**TOTAL**
+
+R$ 32.373.406,00
+
+**TOTAL POR FONTE**
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 6.273.327,71
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 26.100.078,29
+
+**TOTAL**
+
+R$ 32.373.406,00

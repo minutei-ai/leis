@@ -1,5 +1,3 @@
-###DEL-008697-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.697 – DE 16 DE JANEIRO DE 1946
 
 Cria cargos de redator da Imprensa Nacional no Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências.

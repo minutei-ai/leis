@@ -1,5 +1,3 @@
-###DEC-061355-0-000-15-09-1967@@@
-
 DECRETO Nº 61.355, DE 15 DE SETEMBRO DE 1967.
 
 Revoga os Decretos nº 55.943, de 19 de abril de 1965 e nº 56.298, de 19 de maio de 1965.

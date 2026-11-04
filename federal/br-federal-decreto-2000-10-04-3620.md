@@ -1,5 +1,3 @@
-###DEC-003620-0-000-04-10-2000@@@
-
 DECRETO Nº 3.620, DE 04 DE OUTUBRO DE 2000.
 
 Dispõe sobre a execução do Vigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículo automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 14 de julho de 2000, e de sua Ata de Retificação de 17 de julho de 2000.

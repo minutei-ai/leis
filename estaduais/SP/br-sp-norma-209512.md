@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209512)<br>
-
 # DECRETO N° 68.572, DE 29 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A, a área complementar necessá­ria à implantação de dispositivo de retorno no km 84+300m da Rodovia SP-270, no Mu­nicípio de Sorocaba, e dá providências correlatas._

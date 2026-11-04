@@ -1,5 +1,3 @@
-###DEL-002296-0-000-10-06-1940@@@
-
 DECRETO-LEI N. 2.296 – DE 10 de JUNHO DE 1940
 
  Cria o Departamento de Educação Física de Marinha

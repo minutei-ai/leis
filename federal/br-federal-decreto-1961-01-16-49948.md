@@ -1,5 +1,3 @@
-###DEC-049948-0-000-16-01-1961@@@
-
 DECRETO Nº 49.948, DE 16 DE JANEIRO DE 1961.
 
 Abre, ao Poder Legislativo – Senado Federal, o crédito especial de Cr$1.861.243,20, para o fim que especifica.

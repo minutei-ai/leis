@@ -1,5 +1,3 @@
-###DEC-068247-0-000-16-02-1971@@@
-
 DECRETO Nº 68.247, DE 16 DE FEVEREIRO DE 1971.
 
 Torna sem efeito o Decreto número 41.119, de 12-3-1957.

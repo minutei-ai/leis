@@ -1,5 +1,3 @@
-###DEC-050127-0-000-26-01-1961@@@
-
 decreto nº 50.127, de 26 de janeiro de 1961.
 
 Renova o Decreto nº 44.648, de 17 de outubro de 1958.

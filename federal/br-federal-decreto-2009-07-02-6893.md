@@ -1,5 +1,3 @@
-###DEC-006893-0-000-02-07-2009@@@
-
 DECRETO Nº 6.893, DE 2 DE JULHO DE 2009.
 
 Regulamenta a Lei no 11.961, de 2 de julho de 2009, que dispõe sobre a residência provisória para o estrangeiro em situação irregular no território nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002563-0-000-27-04-1998@@@
-
 DECRETO Nº 2.563, DE 27 DE ABRIL DE 1998
 
 Dispõe sobre a atualização cadastral dos aposentados e pensionistas da Administração Pública Federal direta, autárquica e fundacional do Poder Executivo da União.

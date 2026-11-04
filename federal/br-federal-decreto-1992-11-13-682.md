@@ -1,7 +1,3 @@
-1
-
-###DEC-000682-0-000-13-11-1992@@@
-
 DECRETO Nº 682, DE 13 DE NOVEMBRO DE 1992
 
 Dispõe sobre a publicação de balancete patrimonial mensal, pelas sociedades de economia mista, empresas públicas e sociedades comerciais sob o controle direto ou indireto da União.

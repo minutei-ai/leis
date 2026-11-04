@@ -1,5 +1,3 @@
-###DEC-048643-0-000-01-08-1960@@@
-
 DECRETO Nº 48.643, DE 1º DE AGÔSTO DE 1960.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$164.523.799,40 (cento e sessenta e quatro milhões, quinhentos e vinte e três mil, setecentos e noventa e nove cruzeiros e quarenta centavos) para atender a despesa de que trata o parágrafo 1º do artigo 66 da Lei nº 3.244, de 14 de agôsto de 1957.

@@ -1,5 +1,3 @@
-###DEC-097130-0-000-23-11-1988@@@
-
 DECRETO Nº 97.130, DE 23 DE NOVEMBRO DE 1988
 
 Inclui no regime tributário de que trata o Decreto-Lei nº 2.444, de 29 de junho de 1988, os produtos que relaciona.

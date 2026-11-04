@@ -1,5 +1,3 @@
-###MPV-000597-0-000-26-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº  597, DE 26 DE DEZEMBRO DE 2012
 
 Dá nova redação ao § 5º do art. 3º da Lei nº 10.101, de 19 de dezembro de 2000, e dá outras providências.

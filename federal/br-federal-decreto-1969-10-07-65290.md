@@ -1,5 +1,3 @@
-###DEC-065290-0-000-07-10-1969@@@
-
 DECRETO Nº 65.290 - DE 7 DE OUTUBRO de 1969.
 
 Estabelece normas para abertura de créditos suplementares destinados ao atendimento das despesas com o Pessoal Civil e Militar da União, no exercício de 1969.

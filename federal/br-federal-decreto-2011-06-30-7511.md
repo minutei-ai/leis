@@ -1,5 +1,3 @@
-###DEC-007511-0-000-30-06-2011-PUB-01@@@
-
 DECRETO Nº 7.511, DE 30 DE JUNHO DE 2011
 
 Altera a redação do inciso III do art. 1º do Decreto nº 7.468, de 28 de abril de 2011.

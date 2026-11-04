@@ -1,6 +1,10 @@
 > **LEI Nº 4.433, DE 14 DE NOVEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Título Honorífico de Cidadã Acreana a Sra. Zulmira Gomes do Nascimento, in memoriam</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Título Honorífico de Cidadã Acreana a Sra. Zulmira Gomes do Nascimento, in memoriam
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-054212-0-000-26-08-1964@@@
-
 DECRETO Nº 54.212, DE 26 DE AGÔSTO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal da Caixa  Econômica Federal do Ceará e dá outras providências.

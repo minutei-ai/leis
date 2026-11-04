@@ -1,5 +1,3 @@
-###DEC-058703-0-000-23-06-1966@@@
-
 Decreto nº 58.703, de 23 de junho de 1966.
 
 Altera o Decreto nº 34.203, de 13 de outubro de 1953, e dá outras providências.

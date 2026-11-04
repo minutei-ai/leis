@@ -1,5 +1,3 @@
-###DEL-006887-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.887– DE 21 DE SETEMBRO DE 1944
 
 Dispõe sôbre a organização da Justiça dos Territórios

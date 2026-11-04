@@ -1,5 +1,3 @@
-###DEC-080380-0-000-21-09-1977@@@
-
 DECRETO Nº 80.380, DE 21 DE SETEMBRO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Universidade Católica de Pelotas para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Pelotas, Estado do Rio Grande do Sul.

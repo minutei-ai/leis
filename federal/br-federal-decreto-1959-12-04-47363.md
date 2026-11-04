@@ -1,5 +1,3 @@
-###DEC-047363-0-000-04-12-1959@@@
-
 DECRETO Nº 47.363, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileira Ivo Felisberto de Souza a pesquisar mármore, feldespato e pedras coradas no município de Castelo Estado do Espírito Santo.

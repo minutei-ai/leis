@@ -1,5 +1,3 @@
-###DEC-053122-0-000-10-12-1963@@@
-
 DECRETO Nº 53.122, DE 10 DE DEZEMBRO DE 1963.
 
 Autoriza a Emprêsa de Coalim Ltda. a lavrar caulim no Município de Juiz de Fora, estado de Minas Gerais.

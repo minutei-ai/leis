@@ -1,5 +1,3 @@
-###DEC-072483-0-000-17-07-1973@@@
-
 DECRETO Nº 72.483, DE 17 DE JULHO DE 1973
 
 Concede à Mineração, Indústria e Comércio Baini Ltda; o direito de lavrar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

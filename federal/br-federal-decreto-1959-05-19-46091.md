@@ -1,5 +1,3 @@
-###DEC-046091-0-000-19-05-1959@@@
-
 Decreto nº 46.091, de 19 de maio de 1959.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Distribuidora de Eletricidade do Brejo Paraibano.

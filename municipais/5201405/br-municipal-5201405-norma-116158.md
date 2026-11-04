@@ -20,15 +20,18 @@ Gabinete do Prefeito Municipal de Aparecida Goiânia, Estado de Goiás, 03 de Ju
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
 ANEXO I
 
-DESCRIÇÃO SUMÁRIA DO CARGO DE MOTORISTA –<br>
+DESCRIÇÃO SUMÁRIA DO CARGO DE MOTORISTA –
+
 CLASSES I e II E PRÉ- REQUISITO POR CLASSE
 
 CARGO: Motorista
@@ -55,7 +58,8 @@ Ser maior de 21 (vinte e um) anos;
 
 Ser aprovado em curso especializado e em curso de treinamento de prática veicular em situação de risco, nos termos da normatização do CONTRAN;
 
-Treinamento especializado e reciclagem em cursos específicos a cada 05 (cinco) anos, nos termos da normatização do CONTRAN”.<br>
+Treinamento especializado e reciclagem em cursos específicos a cada 05 (cinco) anos, nos termos da normatização do CONTRAN”.
+
  
 
 ANEXO II

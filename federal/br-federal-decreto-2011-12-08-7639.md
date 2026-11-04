@@ -1,5 +1,3 @@
-###DEC-007639-0-000-08-12-2011-PUB-01@@@
-
 DECRETO Nº 7.639, DE 8 DE DEZEMBRO DE 2011.
 
 Altera o art. 5~~º~~ do Decreto n~~º~~ 5.151, de 22 de julho de 2004, que dispõe sobre os procedimentos a serem observados pelos órgãos e pelas entidades da administração pública federal direta e indireta, para fins de celebração de atos complementares de cooperação técnica recebida de organismos internacionais e da aprovação e gestão de projetos vinculados aos referidos instrumentos.

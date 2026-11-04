@@ -1,5 +1,3 @@
-###DEC-087211-0-000-24-05-1982@@@
-
 Decreto nº 87.211, de 24 de maio de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da ETD Guararema da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

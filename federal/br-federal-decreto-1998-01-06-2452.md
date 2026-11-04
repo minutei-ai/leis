@@ -1,5 +1,3 @@
-###DEC-002452-0-000-06-01-1998@@@
-
 DECRETO Nº 2.452, DE 6 DE JANEIRO DE 1998
 
 Altera o Decreto nº 2.219, de 2 de maio de 1997, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

@@ -2,21 +2,26 @@ revogada
 
 LEI Nº 13.202 DE 09 DE DEZEMBRO DE 2014
 
-Ver também:<br>
-Revogada pela Lei nº [14.572](https://www.legislabahia.ba.gov.br/documentos/lei-no-14572-de-25-de-maio-de-2023) de 25 de maio de 2023.<br>
-Decreto nº [16.270](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16270-de-12-de-agosto-de-2015) de 12 de agosto de 2015 - Dispõe sobre a regularização da lotação dos integrantes dos Quadros da Polícia Militar da Bahia que estejam servindo em unidades do Corpo de Bombeiros Militar da Bahia, em face das transferências efetivadas com base no art. 64 da Lei nº [13.202](https://www.legislabahia.ba.gov.br/documentos/lei-no-13202-de-09-de-dezembro-de-2014), de 09 de dezembro de 2014, e dá outras providências.<br>
+Ver também:
+
+Revogada pela Lei nº [14.572](https://www.legislabahia.ba.gov.br/documentos/lei-no-14572-de-25-de-maio-de-2023) de 25 de maio de 2023.
+
+Decreto nº [16.270](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16270-de-12-de-agosto-de-2015) de 12 de agosto de 2015 - Dispõe sobre a regularização da lotação dos integrantes dos Quadros da Polícia Militar da Bahia que estejam servindo em unidades do Corpo de Bombeiros Militar da Bahia, em face das transferências efetivadas com base no art. 64 da Lei nº [13.202](https://www.legislabahia.ba.gov.br/documentos/lei-no-13202-de-09-de-dezembro-de-2014), de 09 de dezembro de 2014, e dá outras providências.
+
 Decreto nº [16.269](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16269-de-12-de-agosto-de-2015) de 12 de agosto de 2015 - Dispõe sobre a regularização da lotação dos integrantes dos Quadros do Corpo de Bombeiros Militar da Bahia que estejam servindo em unidades da Polícia Militar da Bahia, em face das transferências efetivadas com fundamento no art. 63 da Lei nº [13.202](https://www.legislabahia.ba.gov.br/documentos/lei-no-13202-de-09-de-dezembro-de-2014), de 09 de dezembro de 2014, e dá outras providências.
 
 Institui a Organização Básica do Corpo de Bombeiros Militar da Bahia e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei organiza o Corpo de Bombeiros Militar da Bahia - CBMBA, define a sua finalidade e competências, as unidades que o compõem e dispõe sobre o seu efetivo.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA FINALIDADE E DAS COMPETÊNCIAS
 
 **Art. 2º** - O Corpo de Bombeiros Militar da Bahia - CBMBA, força auxiliar e reserva do Exército, organizado com base na hierarquia e disciplina, é órgão em regime especial de administração direta, integrante do Sistema de Segurança Pública, que tem por finalidade a execução dos serviços específicos de bombeiros militares no território do Estado da Bahia, ao qual compete:
@@ -121,7 +126,8 @@ DA FINALIDADE E DAS COMPETÊNCIAS
 
 **Parágrafo único -**   O Subcomandante-Geral é o substituto imediato do Comandante-Geral nos seus eventuais impedimentos.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ORGANIZAÇÃO
 
 **Art. 7º** - O Corpo de Bombeiros Militar da Bahia - CBMBA tem a seguinte estrutura básica:
@@ -264,14 +270,16 @@ DA ORGANIZAÇÃO
 
 **Art. 30** - A Coordenadoria de Inteligência tem por finalidade planejar, coordenar, executar, fiscalizar, controlar, articular, supervisionar e gerenciar as atividades de inteligência bombeiro militar, no âmbito do Sistema de Inteligência do Corpo de Bombeiros Militar - SINBOM, dentro do território baiano, e assessorar o Alto Comando da Corporação nos assuntos de cunho estratégico, tático e operacional que lhe forem confiados, além de se inter-relacionar com os demais órgãos estaduais de inteligência e do Sistema Brasileiro de Inteligência - SISBIN.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA REGIONALIZAÇÃO E DO DESDOBRAMENTO
 
 **Art. 31** - A ação de bombeiro militar dar-se-á em todo território do Estado da Bahia, de forma regionalizada, por meio de planejamento e acompanhamento dos Comandos de Operações, sob as diretrizes do Comando-Geral.
 
 **Art. 32** - O desdobramento das regiões em áreas, subáreas e setores será estabelecido em conformidade com as necessidades e características fisiográficas, psicossociais, políticas e econômicas, ficando autorizado o Comandante-Geral do Corpo de Bombeiros Militar da Bahia a adotar as providências necessárias.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO PESSOAL
 
 **Art. 33** - O efetivo do Corpo de Bombeiros Militar da Bahia será distribuído nos seguintes quadros:
@@ -308,14 +316,16 @@ Artigo 35 revogado pela Lei n° 13.589, de 10 de novembro de 2016.
 
 **Art. 36** \- O Quadro de Oficiais Auxiliares Bombeiros Militares - QOABM é integrado pelos Oficiais existentes no seu Quadro e destina-se aos bombeiros militares oriundos da carreira de Praças, da graduação de Subtenente, competindo-lhes o exercício de atividades operacionais e administrativas da Corporação.
 
-Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.<br>
+Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.
+
 Redação original: "Art 36 - O Quadro de Oficiais Auxiliares Bombeiros Militares - QOABM é integrado pelos Oficiais existentes no seu Quadro e destina-se aos bombeiros militares oriundos do círculo de Praças, das graduações de Subtenentes e 1º Sargento, que tenham concluído com aproveitamento o Curso de Aperfeiçoamento de Sargentos - CAS, competindo-lhes o exercício de atividades operacionais e administrativas da Corporação.
 
 **§ 1º** - O ingresso no QOABM se dará após a conclusão, com aproveitamento, do Curso de Formação de Oficiais específico, atendidos os requisitos estabelecidos na Lei nº 7.990, de 27 de dezembro de 2001, e na regulamentação relativa ao ingresso no referido Quadro.
 
 **§ 2º** - Os ocupantes da graduação de Subtenente poderão participar do processo seletivo para ingresso no QOABM, respeitada a proporção de 50% (cinquenta por cento) das vagas pelo critério de antiguidade e 50% (cinquenta por cento) mediante a realização de provas de desempenho profissional e intelectual.
 
-Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.<br>
+Redação de acordo com a Lei 14.186 de 15 de janeiro de 2020.
+
 Redação original: "§ 2º  - Os ocupantes da graduação de Subtenente e 1º Sargento com CAS poderão participar do processo seletivo para ingresso no QOABM, respeitada a proporção de 50% (cinquenta por cento) das vagas pelo critério de antiguidade e 50% (cinquenta por cento) mediante a realização de provas de desempenho profissional e intelectual.
 
 **§ 3º** - O maior grau hierárquico do Quadro de Oficiais Auxiliares Bombeiros Militares é o Posto de Tenente Coronel.
@@ -326,8 +336,10 @@ Redação original: "§ 2º  - Os ocupantes da graduação de Subtenente e 1º 
 
 **§ 6º** - As funções a serem exercidas pelos Oficiais Superiores do QOABM serão preferencialmente desempenhadas em unidades administrativas da estrutura organizacional do Corpo de Bombeiros Militar, nas áreas profissionais demandadas a serem definidas por ato do Comandante-Geral.
 
-Redação de acordo com a Lei n° 13.589 de 10 de novembro de 2016.<br>
-Redação original: "Art. 36 - O Quadro de Oficiais Auxiliares Bombeiros Militares - QOABM é composto por oficiais existentes no seu Quadro, competindo-lhe o exercício de atividades operacionais e administrativas da Corporação, incluindo o comando e chefia de subunidades.<br>
+Redação de acordo com a Lei n° 13.589 de 10 de novembro de 2016.
+
+Redação original: "Art. 36 - O Quadro de Oficiais Auxiliares Bombeiros Militares - QOABM é composto por oficiais existentes no seu Quadro, competindo-lhe o exercício de atividades operacionais e administrativas da Corporação, incluindo o comando e chefia de subunidades.
+
 Parágrafo único -   O maior grau hierárquico do Quadro de Oficiais Auxiliares Bombeiros Militares é o posto de Major."
 
 **Art. 36-A** - O Quadro Especial de Tenentes Auxiliares Bombeiros Militares - QETABM é composto por todos os 1º Tenentes que ingressarem no Quadro e destina-se aos bombeiros militares oriundos da carreira de Praças, unicamente da graduação de Subtenente BM, competindo-lhes preferencialmente o exercício de atividades operacionais da Corporação.
@@ -374,7 +386,8 @@ Art. 36-B acrescido de acordo com a Lei 14.186 de 15 de janeiro de 2020.
 
 **Art. 43** - A distribuição do quantitativo do efetivo da ativa do Corpo de Bombeiros Militar da Bahia no Quadro Organizacional será definida por Portaria do Comandante-Geral.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS ATRIBUIÇÕES DOS TITULARES DE CARGOS EM COMISSÃO
 
 **Art. 44** - Aos titulares dos cargos em comissão, além do desempenho das atividades concernentes aos Sistemas Estaduais definidos em legislação própria, cabe o exercício das atribuições gerais e específicas a seguir enumeradas:
@@ -587,7 +600,8 @@ DAS ATRIBUIÇÕES DOS TITULARES DE CARGOS EM COMISSÃO
 
 **§ 4º** \- Os ocupantes de cargos em comissão do Corpo de Bombeiros Militar da Bahia poderão exercer outras atribuições inerentes aos respectivos cargos, necessárias ao cumprimento de suas competências.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 45** - Constituem Comissões Permanentes do Corpo de Bombeiros Militar da Bahia, regidas por legislação específica:
@@ -716,7 +730,8 @@ Artigo 62 revogado pela Lei n° 13.589, de 10 de novembro de 2016.
 
 **§ 5º** - Ao ser efetivada a transferência, o policial militar passará ao Posto ou Graduação do Quadro de destino, figurando como o menos antigo dentre os bombeiros militares com a mesma data de ingresso, bem como daqueles com data de ingresso anterior à sua.
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 16.269 de 12 de agosto de 2015 - Dispõe sobre a regularização da lotação dos integrantes dos Quadros do Corpo de Bombeiros Militar da Bahia que estejam servindo em unidades da Polícia Militar da Bahia, em face das transferências efetivadas com fundamento no art. 63 da Lei nº 13.202, de 09 de dezembro de 2014, e dá outras providências.
 
 **Art. 64** - Fica assegurado aos atuais integrantes do Quadro de Oficiais, do Quadro de Oficiais Auxiliares e do Quadro de Praças de Bombeiros Militares da Polícia Militar, criados pela Lei nº 9.848, de 29 de dezembro de 2005, o direito de opção, em caráter irretratável, de ingressar respectivamente no Quadro de Oficiais, no Quadro de Oficiais Auxiliares e no Quadro de Praças Policiais Militares da Polícia Militar, desde que:
@@ -739,7 +754,8 @@ Decreto nº 16.269 de 12 de agosto de 2015 - Dispõe sobre a regularização da 
 
 **§ 4º** - Ao ser efetivada a transferência, o bombeiro militar passará ao Posto ou Graduação do Quadro de destino, figurando como o menos antigo dentre os policiais militares com a mesma data de ingresso, bem como daqueles com data de ingresso anterior à sua.
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 16.270 de 12 de agosto de 2015 - Dispõe sobre a regularização da lotação dos integrantes dos Quadros da Polícia Militar da Bahia que estejam servindo em unidades do Corpo de Bombeiros Militar da Bahia, em face das transferências efetivadas com base no art. 64 da Lei nº 13.202, de 09 de dezembro de 2014, e dá outras providências.
 
 **Art. 65** - No prazo de 10 (dez) dias da data de publicação desta Lei, o Governador do Estado constituirá comissão especial responsável pela análise dos processos de opção referidos nos arts. 63 e 64 desta Lei, cuja conclusão dos trabalhos findar-se-á em 45 (quarenta e cinco) dias.
@@ -782,564 +798,260 @@ Secretário da Administração
 
 **CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="624"><tbody><tr style="page-break-inside:avoid"><td style="width:401.9pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="536"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">UNIDADES</span></b></p></td><td style="width:66.35pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">QTE</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="color:black">Comando-Geral</span></p></td><td style="width:66.35pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Subcomando-Geral</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandos de Operações</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">02</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comando de Atividades Técnicas e Pesquisas</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Corregedoria do Corpo de Bombeiros Militar</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Departamentos</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">06</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Gabinete do Comando-Geral</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Academia de Bombeiros Militar</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Centro de Formação e Aperfeiçoamento de Praças</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Gabinete do Subcomando-Geral</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Centro de Gestão Estratégica</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Centro Corporativo de Projetos</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Núcleos de Gestão Administrativa e Financeira</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">03</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenadoria de Saúde</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenadoria de Inteligência</span></p></td><td style="width:66.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="page-break-inside:avoid;height:17.0pt"><td style="width:401.9pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt" valign="top" width="536"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Grupamento de Bombeiros Militar</span></p></td><td style="width:66.35pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:17.0pt" valign="top" width="88"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td></tr></tbody></table>
+**UNIDADES**
+
+QTE
+
+Comando-Geral
+
+01
+
+Subcomando-Geral
+
+01
+
+Comandos de Operações
+
+02
+
+Comando de Atividades Técnicas e Pesquisas
+
+01
+
+Corregedoria do Corpo de Bombeiros Militar
+
+01
+
+Departamentos
+
+06
+
+Gabinete do Comando-Geral
+
+01
+
+Academia de Bombeiros Militar
+
+01
+
+Centro de Formação e Aperfeiçoamento de Praças
+
+01
+
+Gabinete do Subcomando-Geral
+
+01
+
+Centro de Gestão Estratégica
+
+01
+
+Centro Corporativo de Projetos
+
+01
+
+Núcleos de Gestão Administrativa e Financeira
+
+03
+
+Coordenadoria de Saúde
+
+01
+
+Coordenadoria de Inteligência
+
+01
+
+Grupamento de Bombeiros Militar
+
+20
 
 **ANEXO II**
 
 **QUADRO DE CARGOS EM COMISSÃO DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:475.1pt;border-collapse:collapse" width="633"><tbody><tr style="height:21.15pt"><td style="width:53.35pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="margin-left:3.7pt;page-break-after:avoid"><span style="color:black">CARGO</span></p></td><td style="width:306.05pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="408"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">SÍMBOLO</span></b></p></td><td style="width:75.95pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">QTD</span></p></td><td style="width:39.75pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="color:black">Comandante-Geral do Corpo de Bombeiros Militar</span></p></td><td style="width:75.95pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-1</span></p></td><td style="width:39.75pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Subcomandante-Geral do Corpo de Bombeiros Militar</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2A</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Operações de Bombeiros Militares</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">02</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Atividades Técnicas e Pesquisas</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Corregedor-Chefe</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Assistente Militar do Comando-Geral</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2B</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Diretor de Departamento</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">06</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Assessor Especial</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Subcomandante de Operações Bombeiros Militares</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">02</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Subcomandante de Atividades Técnicas e Pesquisas</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Corregedor Adjunto</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenador de Saúde</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenador de Inteligência</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenador I</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2C</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">03</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Diretor Adjunto de Departamento</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">06</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Grupamento</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Chefe de Núcleo</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">03</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenador Técnico</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-2D</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">04</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Subcomandante de Grupamento</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Assessor de Comunicação Social I</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenador II</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAS-3</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">69</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Subgrupamento</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">40</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Assessor Administrativo</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">02</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Coordenador III</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">17</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Assistente Orçamentário</span></p></td><td style="width:75.95pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAI-4</span></p></td><td style="width:39.75pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr><tr style="height:21.15pt"><td style="width:53.35pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="71"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">&nbsp;</span></p></td><td style="width:306.05pt;border:none;border-bottom:
-  solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="408"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Secretário Administrativo I</span></p></td><td style="width:75.95pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="101"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">DAI-5</span></p></td><td style="width:39.75pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.15pt" valign="top" width="53"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">01</span></p></td></tr></tbody></table>
+CARGO
+
+**SÍMBOLO**
+
+QTD
+
+Comandante-Geral do Corpo de Bombeiros Militar
+
+DAS-1
+
+01
+
+Subcomandante-Geral do Corpo de Bombeiros Militar
+
+DAS-2A
+
+01
+
+Comandante de Operações de Bombeiros Militares
+
+DAS-2B
+
+02
+
+Comandante de Atividades Técnicas e Pesquisas
+
+DAS-2B
+
+01
+
+Corregedor-Chefe
+
+DAS-2B
+
+01
+
+Assistente Militar do Comando-Geral
+
+DAS-2B
+
+01
+
+Diretor de Departamento
+
+DAS-2C
+
+06
+
+Assessor Especial
+
+DAS-2C
+
+01
+
+Subcomandante de Operações Bombeiros Militares
+
+DAS-2C
+
+02
+
+Subcomandante de Atividades Técnicas e Pesquisas
+
+DAS-2C
+
+01
+
+Corregedor Adjunto
+
+DAS-2C
+
+01
+
+Coordenador de Saúde
+
+DAS-2C
+
+01
+
+Coordenador de Inteligência
+
+DAS-2C
+
+01
+
+Coordenador I
+
+DAS-2C
+
+03
+
+Diretor Adjunto de Departamento
+
+DAS-2D
+
+06
+
+Comandante de Grupamento
+
+DAS-2D
+
+20
+
+Chefe de Núcleo
+
+DAS-2D
+
+03
+
+Coordenador Técnico
+
+DAS-2D
+
+04
+
+Subcomandante de Grupamento
+
+DAS-3
+
+20
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+01
+
+Coordenador II
+
+DAS-3
+
+69
+
+Comandante de Subgrupamento
+
+DAI-4
+
+40
+
+Assessor Administrativo
+
+DAI-4
+
+02
+
+Coordenador III
+
+DAI-4
+
+17
+
+Assistente Orçamentário
+
+DAI-4
+
+01
+
+Secretário Administrativo I
+
+DAI-5
+
+01
 
 **ANEXO III**
 
 **QUADRO DE CARGOS PRIVATIVOS DO POSTO DE CORONEL DO CORPO DE BOMBEIROS MILITAR DA BAHIA - CBMBA**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.25pt;border-collapse:collapse" width="624"><tbody><tr style="height:20.45pt"><td colspan="2" style="width:468.25pt;border-top:solid black 1.0pt;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" valign="top" width="624"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CARGOS</span></b></p></td></tr><tr style="height:20.45pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="color:black">01</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.45pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante-Geral do Corpo de Bombeiros Militar</span></p></td></tr><tr style="height:20.75pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.75pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">02</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.75pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Subcomandante-Geral do Corpo de Bombeiros Militar</span></p></td></tr><tr style="height:20.9pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">03</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Operações Bombeiros Militares da Capital e da Região Metropolitana de Salvador - RMS</span></p></td></tr><tr style="height:20.9pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">04</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Operações Bombeiros Militares do Interior</span></p></td></tr><tr style="height:20.9pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">05</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Comandante de Atividades Técnicas e Pesquisas</span></p></td></tr><tr style="height:20.9pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">06</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Corregedor-Chefe</span></p></td></tr><tr style="height:20.9pt"><td style="width:31.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="42"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">07</span></p></td><td style="width:436.4pt;border:none;border-bottom:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.9pt" valign="top" width="582"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Assistente Militar do Comando-Geral</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **CARGOS** </td></tr><tr><td valign="top"> 01 </td><td valign="top"> Comandante-Geral do Corpo de Bombeiros Militar </td></tr><tr><td valign="top"> 02 </td><td valign="top"> Subcomandante-Geral do Corpo de Bombeiros Militar </td></tr><tr><td valign="top"> 03 </td><td valign="top"> Comandante de Operações Bombeiros Militares da Capital e da Região Metropolitana de Salvador - RMS </td></tr><tr><td valign="top"> 04 </td><td valign="top"> Comandante de Operações Bombeiros Militares do Interior </td></tr><tr><td valign="top"> 05 </td><td valign="top"> Comandante de Atividades Técnicas e Pesquisas </td></tr><tr><td valign="top"> 06 </td><td valign="top"> Corregedor-Chefe </td></tr><tr><td valign="top"> 07 </td><td valign="top"> Assistente Militar do Comando-Geral </td></tr></tbody></table>
 
 **ANEXO IV**
 
-Redação de acordo com a Lei nº 14.186 de 15 de janeiro de 2020<br>
+Redação de acordo com a Lei nº 14.186 de 15 de janeiro de 2020
+
 Redação anterior do anexo IV de acordo com a Lei n°13.589 de 10 de novembro de 2016.
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:486.2pt;border-collapse:collapse;border:none" width="648"><tbody><tr><td colspan="7" style="width:486.2pt;border:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="648"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QUADRO DE EFETIVO DE OFICIAIS DO CORPO DE BOMBEIROS MILITAR</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm .5pt 0cm .5pt" width="181"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">POSTO</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;background:white;padding:
-  0cm .5pt 0cm .5pt" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QOBM</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;background:white;padding:
-  0cm .5pt 0cm .5pt" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QOSBM<br>MÉDICO</span></p></td><td style="width:78.0pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" width="104"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QOSBM ODONTÓLOGO</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;background:white;padding:
-  0cm .5pt 0cm .5pt" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QOABM</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;background:white;padding:
-  0cm .5pt 0cm .5pt" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QETABM</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;background:white;padding:
-  0cm .5pt 0cm .5pt" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">TOTAL</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CORONEL</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">7</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">-</span></p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="104"><p align="center" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.05pt;
-  margin-bottom:3.0pt;margin-left:7.05pt;text-align:center"><span style="color:black">-</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">-</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">-</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">7</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">TENENTE CORONEL</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">34</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">1</span></p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="104"><p align="center" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.05pt;
-  margin-bottom:3.0pt;margin-left:7.05pt;text-align:center"><span style="color:black">1</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">1</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">-</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">37</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">MAJOR</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">80</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">3</span></p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="104"><p align="center" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.05pt;
-  margin-bottom:3.0pt;margin-left:7.05pt;text-align:center"><span style="color:black">3</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">6</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">-</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">92</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CAPITÃO</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">109</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">6</span></p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="104"><p align="center" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.05pt;
-  margin-bottom:3.0pt;margin-left:7.05pt;text-align:center"><span style="color:black">3</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">24</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">-</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">142</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">1º TENENTE</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">145</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">16</span></p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="104"><p align="center" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.05pt;
-  margin-bottom:3.0pt;margin-left:7.05pt;text-align:center"><span style="color:black">8</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">106</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">45</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">320</span></p></td></tr><tr><td style="width:135.9pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">TOTAL</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">375</span></p></td><td style="width:67.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="90"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">26</span></p></td><td style="width:78.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="104"><p align="center" class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.05pt;
-  margin-bottom:3.0pt;margin-left:7.05pt;text-align:center"><span style="color:black">15</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="66"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">137</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="76"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">45</span></p></td><td style="width:48.8pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm .5pt 0cm .5pt" valign="top" width="65"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">598</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="7"> QUADRO DE EFETIVO DE OFICIAIS DO CORPO DE BOMBEIROS MILITAR </td></tr><tr><td> POSTO </td><td> QOBM </td><td> QOSBM MÉDICO </td><td> QOSBM ODONTÓLOGO </td><td> QOABM </td><td> QETABM </td><td> TOTAL </td></tr><tr><td valign="top"> CORONEL </td><td valign="top"> 7 </td><td valign="top"> - </td><td valign="top"> - </td><td valign="top"> - </td><td valign="top"> - </td><td valign="top"> 7 </td></tr><tr><td valign="top"> TENENTE CORONEL </td><td valign="top"> 34 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> 1 </td><td valign="top"> - </td><td valign="top"> 37 </td></tr><tr><td valign="top"> MAJOR </td><td valign="top"> 80 </td><td valign="top"> 3 </td><td valign="top"> 3 </td><td valign="top"> 6 </td><td valign="top"> - </td><td valign="top"> 92 </td></tr><tr><td valign="top"> CAPITÃO </td><td valign="top"> 109 </td><td valign="top"> 6 </td><td valign="top"> 3 </td><td valign="top"> 24 </td><td valign="top"> - </td><td valign="top"> 142 </td></tr><tr><td valign="top"> 1º TENENTE </td><td valign="top"> 145 </td><td valign="top"> 16 </td><td valign="top"> 8 </td><td valign="top"> 106 </td><td valign="top"> 45 </td><td valign="top"> 320 </td></tr><tr><td valign="top"> TOTAL </td><td valign="top"> 375 </td><td valign="top"> 26 </td><td valign="top"> 15 </td><td valign="top"> 137 </td><td valign="top"> 45 </td><td valign="top"> 598 </td></tr></tbody></table>
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:468.3pt;border-collapse:collapse" width="624"><tbody><tr><td colspan="3" style="width:468.3pt;border:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="624"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QUADRO DE EFETIVO DE PRAÇAS DO CORPO DE BOMBEIROS MILITAR</span></p></td></tr><tr><td style="width:135.95pt;border:solid #000001 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt"><span style="color:black">GRADUAÇÃO</span></p></td><td style="width:151.25pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="202"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">QPBM</span></p></td><td style="width:181.1pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="241"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">TOTAL</span></p></td></tr><tr><td style="width:135.95pt;border:solid #000001 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt"><span style="color:black">SUBTENENTE</span></p></td><td style="width:151.25pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="202"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">298</span></p></td><td style="width:181.1pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="241"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">298</span></p></td></tr><tr><td style="width:135.95pt;border:solid #000001 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt"><span style="color:black">1º SARGENTO</span></p></td><td style="width:151.25pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="202"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">613</span></p></td><td style="width:181.1pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="241"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">613</span></p></td></tr><tr><td style="width:135.95pt;border:solid #000001 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt"><span style="color:black">CABO</span></p></td><td style="width:151.25pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="202"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">804</span></p></td><td style="width:181.1pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="241"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">804</span></p></td></tr><tr><td style="width:135.95pt;border:solid #000001 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt"><span style="color:black">SOLDADO 1ª CLASSE</span></p></td><td style="width:151.25pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="202"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">2.745</span></p></td><td style="width:181.1pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="241"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">2.745</span></p></td></tr><tr><td style="width:135.95pt;border:solid #000001 1.0pt;
-  border-top:none;background:white;padding:0cm .5pt 0cm .5pt" valign="top" width="181"><p class="Tabela-Texto" style="margin-left:5.65pt"><span style="color:black">TOTAL</span></p></td><td style="width:151.25pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="202"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">4.460</span></p></td><td style="width:181.1pt;border-top:none;border-left:none;
-  border-bottom:solid #000001 1.0pt;border-right:solid #000001 1.0pt;
-  background:white;padding:0cm .5pt 0cm .5pt" width="241"><p align="center" class="Tabela-Texto" style="text-align:center"><span style="color:black">4.460</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> QUADRO DE EFETIVO DE PRAÇAS DO CORPO DE BOMBEIROS MILITAR </td></tr><tr><td valign="top"> GRADUAÇÃO </td><td> QPBM </td><td> TOTAL </td></tr><tr><td valign="top"> SUBTENENTE </td><td> 298 </td><td> 298 </td></tr><tr><td valign="top"> 1º SARGENTO </td><td> 613 </td><td> 613 </td></tr><tr><td valign="top"> CABO </td><td> 804 </td><td> 804 </td></tr><tr><td valign="top"> SOLDADO 1ª CLASSE </td><td> 2.745 </td><td> 2.745 </td></tr><tr><td valign="top"> TOTAL </td><td> 4.460 </td><td> 4.460 </td></tr></tbody></table>
 
 **ANEXO V**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:373.35pt;border-collapse:collapse" width="498"><tbody><tr><td colspan="2" style="width:373.35pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="498"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CURSO DE FORMAçãO ESPECíFICA DE BOMBEIRO MILITAR</span></b></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="color:black">1.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Soldado Bombeiro Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">2.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Cabo Bombeiro Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">3.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Sargento Bombeiro Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">4.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Aperfeiçoamento de Sargento Bombeiro Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">5.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Oficiais Bombeiro Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">6.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Aperfeiçoamento de Oficiais Bombeiro Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">7.</span></p></td><td style="width:343.2pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="458"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Superior de Bombeiro Militar</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **CURSO DE FORMAçãO ESPECíFICA DE BOMBEIRO MILITAR** </td></tr><tr><td valign="top"> 1. </td><td valign="top"> Curso de Formação de Soldado Bombeiro Militar </td></tr><tr><td valign="top"> 2. </td><td valign="top"> Curso de Formação de Cabo Bombeiro Militar </td></tr><tr><td valign="top"> 3. </td><td valign="top"> Curso de Formação de Sargento Bombeiro Militar </td></tr><tr><td valign="top"> 4. </td><td valign="top"> Curso de Aperfeiçoamento de Sargento Bombeiro Militar </td></tr><tr><td valign="top"> 5. </td><td valign="top"> Curso de Formação de Oficiais Bombeiro Militar </td></tr><tr><td valign="top"> 6. </td><td valign="top"> Curso de Aperfeiçoamento de Oficiais Bombeiro Militar </td></tr><tr><td valign="top"> 7. </td><td valign="top"> Curso de Superior de Bombeiro Militar </td></tr></tbody></table>
 
 **ANEXO VI**
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:378.65pt;border-collapse:collapse" width="505"><tbody><tr><td colspan="2" style="width:378.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="505"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">CURSO DE FORMAçãO ESPECíFICA DE POLICIAL MILITAR</span></b></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="color:black">1.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Soldado Policial Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">2.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Cabo Policial Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">3.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Sargento Policial Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">4.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Aperfeiçoamento de Sargento Policial Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">5.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Formação de Oficiais Policial Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">6.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Aperfeiçoamento de Oficiais Policial Militar</span></p></td></tr><tr style="height:3.2pt"><td style="width:30.15pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="40"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">7.</span></p></td><td style="width:348.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:3.2pt" valign="top" width="465"><p class="MsoNormal" style="page-break-after:avoid"><span style="font-size:
-  12.0pt">Curso de Superior de Polícia Militar</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **CURSO DE FORMAçãO ESPECíFICA DE POLICIAL MILITAR** </td></tr><tr><td valign="top"> 1. </td><td valign="top"> Curso de Formação de Soldado Policial Militar </td></tr><tr><td valign="top"> 2. </td><td valign="top"> Curso de Formação de Cabo Policial Militar </td></tr><tr><td valign="top"> 3. </td><td valign="top"> Curso de Formação de Sargento Policial Militar </td></tr><tr><td valign="top"> 4. </td><td valign="top"> Curso de Aperfeiçoamento de Sargento Policial Militar </td></tr><tr><td valign="top"> 5. </td><td valign="top"> Curso de Formação de Oficiais Policial Militar </td></tr><tr><td valign="top"> 6. </td><td valign="top"> Curso de Aperfeiçoamento de Oficiais Policial Militar </td></tr><tr><td valign="top"> 7. </td><td valign="top"> Curso de Superior de Polícia Militar </td></tr></tbody></table>

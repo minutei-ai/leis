@@ -1,5 +1,3 @@
-###DEL-000597-0-000-27-05-1969@@@
-
 Decreto-lei nº 597, de 27 de Maio de 1969
 
 Autoriza o Govêrno do Estado do Rio Grande do Sul a contratar empréstimo externo com a USAID.

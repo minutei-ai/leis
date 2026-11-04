@@ -1,5 +1,3 @@
-###DEC-050072-0-000-25-01-1961@@@
-
 decreto nº 50.072, de 25 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Raimundo do Figueiredo Cavalcante a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEC-049405-0-000-02-12-1960@@@
-
 DECRETO Nº 49.405, DE 2 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Maria de Almeida a pesquisar quartzo e mica no município de Coroací, Estado de Minas Gerais.

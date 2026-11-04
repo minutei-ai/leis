@@ -1,5 +1,3 @@
-###DEC-093274-0-000-18-09-1986@@@
-
 DECRETO Nº 93.274, DE 18 DE SETEMBRO DE 1986
 
 Cria o 2º Esquadrão de Helicópteros de Emprego Gera, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001101-0-000-30-03-1994@@@
-
 DECRETO N° 1.101, DE 30 DE MARÇO DE 1994
 
 Dá nova redação a dispositivos do Decreto nº 90.374, de 29 de outubro de 1984, que modificou o Decreto nº 43.708, de 16 de maio de 1958, que instituiu, no Ministério da Justiça, a Medalha "Mérito Policial".

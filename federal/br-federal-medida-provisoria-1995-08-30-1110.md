@@ -1,7 +1,3 @@
-1
-
-###MPV-001110-0-000-30-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.110, DE 30 DE AGOSTO DE 1995.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

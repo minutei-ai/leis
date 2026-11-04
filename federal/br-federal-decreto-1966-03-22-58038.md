@@ -1,5 +1,3 @@
-###DEC-058038-0-000-22-03-1966@@@
-
 decreto nº 58.038, de 22 de março de 1966.
 
 Concede a Torrenco - Sociedade de Navegação e Comércio Ltda. autorização para funcionar como emprêsa de mineração.

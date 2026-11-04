@@ -1,5 +1,3 @@
-###DEC-046921-0-000-30-09-1959@@@
-
 DECRETO Nº 46.921, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro João Leão de Faria a pesquisar feldspato no município de Maricá, Estado do Rio de Janeiro.

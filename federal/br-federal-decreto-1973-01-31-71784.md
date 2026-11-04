@@ -1,5 +1,3 @@
-###DEC-071784-0-000-31-01-1973@@@
-
 DECRETO Nº 71.784, DE 31 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade Bandeirante de Odontologia mantida pelo Instituto de Ensino Superior da Região Bragantina, Bragança Paulista, São Paulo.

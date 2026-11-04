@@ -1,5 +1,3 @@
-###DEC-050156-0-000-27-01-1961@@@
-
 DECRETO Nº 50.156, DE 27 DE JANEIRO DE 1961.
 
 Outorga concessão á Rádio Paulista para estabelecer uma Estação de Radiotelevisão.

@@ -1,5 +1,3 @@
-###DEC-049847-0-000-07-01-1961@@@
-
 DECRETO Nº 49.847, DE 7 DE Janeiro DE 1961.
 
 Concede reconhecimentos a cursos.

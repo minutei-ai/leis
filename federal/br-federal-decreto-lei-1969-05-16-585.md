@@ -1,5 +1,3 @@
-###DEL-000585-0-000-16-05-1969@@@
-
 DECRETO-LEI Nº 585, DE 16 DE MAIO DE 1969
 
 Regula o depósito e guarda de aeronaves, nas apreensões judiciais ou administrativas.

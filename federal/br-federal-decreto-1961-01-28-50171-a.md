@@ -1,5 +1,3 @@
-###DEC-050171-A-000-28-01-1961@@@
-
 Decreto nº 50.171-A, de 28 de janeiro de 1961.
 
 Dá nova redação ao art. 27 do Regulamento aprovado pelo Decreto número 5.739, de 29-5-1940 e modificado pelo decreto nº 49.353, de 28-11 de 1960.

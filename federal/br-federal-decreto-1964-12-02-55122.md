@@ -1,5 +1,3 @@
-###DEC-055122-0-000-02-12-1964@@@
-
 decreto nº 55.122, de 2 de dezembro de 1964
 
 Renova o Decreto nº 47.394, de 10 de dezembro de 1959.

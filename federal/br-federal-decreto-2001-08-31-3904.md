@@ -1,5 +1,3 @@
-###DEC-003904-0-000-31-08-2001@@@
-
 DECRETO Nº 3.904, DE 31 DE AGOSTO DE 2001
 
  Dispõe sobre a concessão e a comprovação do regime do drawback, na modalidade de suspensão.

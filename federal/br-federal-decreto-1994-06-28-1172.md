@@ -1,7 +1,3 @@
-1
-
-###DEC-001172-0-000-28-06-1994@@@
-
 DECRETO N° 1.172, DE 28 DE JUNHO DE 1994
 
 Dispõe sobre o levantamento parcial das sanções contra a África do Sul, estabelecidas pelo Decreto n° 91.524, de 9 de agosto de 1985.

@@ -1,5 +1,3 @@
-###DEC-085941-0-000-28-04-1981@@@
-
 Decreto nº 85.941, de 28 dE abril de 1981.
 
 Concede autorização à PECTEN BRAZIL AMAZON EXPLORATION AND DEVELOPMENT COMPANY e SHELL EXPLORATION SERVICES (BRAZIL) B. V., para operarem em águas interiores do Brasil, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

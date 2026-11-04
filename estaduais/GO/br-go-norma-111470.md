@@ -894,7 +894,8 @@ Goiânia, 28 de outubro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -919,7 +920,8 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 1.7 Qual é o conjunto dos destinatários atingidos pelo problema? Qual é o número de casos a serem resolvidos?
 
-1.8 O que poderá acontecer se nada for feito? O problema se agravará? Permanecerá estável? Poderá ser superado pela própria dinâmica social, sem a intervenção do Estado? Com quais consequências?<br>
+1.8 O que poderá acontecer se nada for feito? O problema se agravará? Permanecerá estável? Poderá ser superado pela própria dinâmica social, sem a intervenção do Estado? Com quais consequências?
+
  
 
 **Alternativas**
@@ -946,7 +948,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 2.3.7 possibilidade de impugnação no Poder Judiciário?
 
-<br>
 **Competência legislativa**
 
 3\. O Estado de Goiás deve adotar alguma medida? Ele dispõe de competência constitucional ou legal para fazê-lo?
@@ -959,8 +960,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 3.4 A matéria é, de fato, de iniciativa do Poder Executivo estadual ou é da iniciativa exclusiva da União ou de outro Poder estadual ou órgão autônomo?
 
-<br>
-<br>
 **Necessidade de edição de lei**
 
 4\. Deve ser proposta a edição de lei?
@@ -973,8 +972,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 4.4 Há fundamento legal suficiente para a edição de ato normativo secundário? Qual?
 
-<br>
-<br>
 **Reserva legal**
 
 5\. Fórmulas legais excessivamente genéricas foram usadas?
@@ -985,12 +982,10 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 5.3 Há delegação indevida de competência normativa?
 
-<br>
 **Norma temporária**
 
 6\. O ato normativo deve ter prazo de vigência limitado? Seria o caso de editar norma temporária?
 
-<br>
 **Oportunidade de edição do ato normativo**
 
 7\. O momento é oportuno para a edição de ato normativo?
@@ -999,7 +994,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 7.2 Por que não podem ser aguardadas outras alterações, necessárias e previsíveis, para que sejam apresentadas em um mesmo ato normativo?
 
-<br>
 **Densidade do ato normativo**
 
 8\. A densidade que se pretende conferir ao ato normativo é apropriada?
@@ -1022,7 +1016,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 8.5 Quais regras são afetadas pela disposição pretendida? São regras que podem ser dispensadas?
 
-<br>
 **Direitos fundamentais**
 
 9\. As regras propostas afetam direitos fundamentais ou garantias constitucionais?
@@ -1079,7 +1072,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 9.3.5 A adoção de cláusula de transição entre o regime vigente e o regime proposto seria recomendável?
 
-<br>
 **Norma tributária**
 
 10\. Há pretensão de instituir ou majorar tributo? Qual é o fundamento constitucional?
@@ -1102,7 +1094,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 10.9 No caso de taxa, trata-se de cobrança em razão do exercício do poder de polícia ou da utilização de serviço público específico e divisível prestado ou posto à disposição do contribuinte? Há equivalência razoável entre o custo da atividade estatal e a prestação cobrada?
 
-<br>
 **Compreensão do ato normativo**
 
 11\. O ato normativo corresponde às expectativas dos cidadãos?
@@ -1113,7 +1104,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 11.3 O vocabulário empregado, a forma como os dispositivos foram organizados, a ordem lógica e o nível de abstração permitem que todos compreendam o texto do ato normativo?
 
-<br>
 **Exequibilidade do ato normativo**
 
 12\. O ato normativo é exequível?
@@ -1148,7 +1138,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 12.10 O ato normativo pretendido foi submetido a testes sobre a possibilidade de sua execução com a participação das autoridades responsáveis pela aplicação dele? Por que não? A que conclusão se chegou?
 
-<br>
 **Análise de custos envolvidos**
 
 13\. Há relação equilibrada entre custos e benefícios? Procedeu-se à análise?
@@ -1171,7 +1160,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 13.7 Há compatibilidade entre a proposta e os limites individualizados para as despesas públicas?
 
-<br>
 **Simplificação administrativa**
 
 14\. O ato normativo reduzirá ou aumentará as exigências procedimentais?
@@ -1212,7 +1200,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 14.7.3 A proteção de dados pessoais está garantida?
 
-<br>
 **Prazo de vigência e de adaptação**
 
 15\. Há necessidade de _vacatio legis_ ou de prazo para a adaptação da administração e dos particulares?
@@ -1235,7 +1222,6 @@ QUESTÕES A SEREM AVALIADAS PREVIAMENTE À ELABORAÇÃO DOS ATOS NORMATIVOS NO P
 
 15.4 Para o cumprimento da nova obrigação, foram especificados tratamento diferenciado, simplificado e favorecido e prazo especial para as microempresas e as empresas de pequeno porte, consoante o art. 1º, §§ 3º a 6º, da Lei Complementar federal nº 123, de 14 de dezembro de 2006?
 
-<br>
 **Avaliação de resultados**
 
 16\. Como os resultados do ato normativo serão avaliados?

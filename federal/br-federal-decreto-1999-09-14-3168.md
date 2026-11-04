@@ -1,5 +1,3 @@
-###DEC-003168-0-000-14-09-1999@@@
-
 DECRETO Nº 3.168, DE 14 de SETEMBRO DE 1999.
 
 Promulga a Convenção nº 146 da Organização Internacional do Trabalho – OIT sobre Férias Remuneradas Anuais da Gente do Mar, concluída em Genebra, em 29 de outubro de 1976

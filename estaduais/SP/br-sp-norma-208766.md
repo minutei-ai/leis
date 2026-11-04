@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208766)<br>
-
 # DECRETO N° 68.059, DE 07 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Via Paulista S/A., a área complementar necessária à duplicação do trecho entre os km 155+700m e 179+600m da Rodovia Otávio Pacheco de Almeida Prado, SP 255, no Município de Barra Bonita, e dá providências correlatas._

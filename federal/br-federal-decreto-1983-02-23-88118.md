@@ -1,5 +1,3 @@
-###DEC-088118-0-000-23-02-1983@@@
-
 Decreto nº 88.118, de 23 de fevereiro de 1983
 
 Dispõe sobre o processo administrativo de demarcação de terras indígenas e dá outras providências.

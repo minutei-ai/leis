@@ -1,7 +1,3 @@
-1
-
-###DEC-001207-0-000-01-08-1994@@@
-
 DECRETO Nº 1.207, DE 1º DE AGOSTO DE 1994
 
 Acrescenta inciso ao art. 14 do Decreto nº 96.036, de 12 de maio de 1988.

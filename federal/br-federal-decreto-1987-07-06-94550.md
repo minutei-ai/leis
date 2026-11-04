@@ -1,5 +1,3 @@
-###DEC-094550-0-000-06-07-1987@@@
-
 DECRETO N° 94.550, DE 6 DE JULHO DE 1987
 
 Autoriza o funcionamento do curso de Administração a ser ministrado pela Faculdade Maria Augusta Ribeiro Daher.

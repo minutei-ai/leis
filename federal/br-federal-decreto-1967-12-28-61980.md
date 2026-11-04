@@ -1,5 +1,3 @@
-###DEC-061980-0-000-28-12-1967@@@
-
 DECRETO Nº 61.980, DE 28 DE DEZEMBRO DE 1967.
 
 Regulamenta o Decreto-Lei número 65, de 21 de novembro de 1966, e dá outras providências.

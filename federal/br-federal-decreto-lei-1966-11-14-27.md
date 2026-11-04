@@ -1,5 +1,3 @@
-###DEL-000027-0-000-14-11-1966@@@
-
 DECRETO-LEI Nº 27, DE 14 DE NOVEMBRO DE 1966
 
 Acrescenta à Lei nº 5.172, de 25 de outubro de 1966, artigo referente às contribuições para fins sociais.

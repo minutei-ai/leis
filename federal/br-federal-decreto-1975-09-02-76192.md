@@ -1,5 +1,3 @@
-###DEC-076192-0-000-02-09-1975@@@
-
 DECRETO Nº 76.192 - DE 2 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade de Educação Física de Santo Amaro, mantido pela Organização Santamarense de Educação e Cultura, com sede na cidade de São Paulo, Estado de São Paulo.

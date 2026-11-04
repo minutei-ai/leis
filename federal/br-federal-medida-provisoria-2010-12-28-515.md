@@ -1,5 +1,3 @@
-###MPV-000515-0-000-28-12-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 515, DE 28 DE DEZEMBRO DE 2010
 
 Abre crédito extraordinário em favor da Justiça do Trabalho e de diversos órgãos do Poder Executivo, no valor global de R$ 26.673.264.196,00, para os fins que especifica.

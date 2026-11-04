@@ -1,5 +1,3 @@
-###DEC-057604-0-000-07-01-1966@@@
-
 DECRETO Nº 57.604, de 7 de janeiro de 1966.
 
 Dispõe sôbre a lotação provisória dos cargos integrante do Quadro de Pessoal, Partes Permanente, Suplementar, Especial, Especial Extinta e cargos não enquadrados, do Ministério da Educação e Cultura, e dá outras providências.

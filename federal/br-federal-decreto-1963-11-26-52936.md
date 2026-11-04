@@ -1,5 +1,3 @@
-###DEC-052936-0-000-26-11-1963@@@
-
 DECRETO Nº 52.936, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Mineração do Nordeste Brasileiro Ltda. a lavrar cassiterita, no município de Itapíuna, Estado de Ceará.

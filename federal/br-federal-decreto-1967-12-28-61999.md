@@ -1,5 +1,3 @@
-###DEC-061999-0-000-28-12-1967@@@
-
 DECRETO nº 61.999, DE 28 DE DEZEMBRO DE 1967.
 
 Autoriza a ICOMINAS S.A. - Emprêsa de Mineração a lavrar minérios de ferro, de manganês e ocre no município de Santa Bárbara, Estado de Minas Gerais.

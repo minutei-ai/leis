@@ -1,5 +1,3 @@
-###DEC-065017-0-000-19-08-1969@@@
-
 DECRETO Nº 65.017 - DE 19 DE AGôSTO DE 1969.
 
 Declara de utilidade pública o Hospital Beneficente São Roque, com sede em Carlos Barbosa, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-084216-0-000-14-11-1979@@@
-
 Decreto nº 84.216, de 14 de novembro de 1979.
 
 Aprova o Plano Geral de Convocação para o Serviço Militar Inicial nas Forças Armadas em 1981.

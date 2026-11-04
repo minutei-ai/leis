@@ -1,5 +1,3 @@
-###DEC-067662-0-000-26-11-1970@@@
-
 Decreto Nº 67.662, DE 26 DE NOVEMBRO DE 1970.
 
 Concede à emprêsa Organizacion Nacional de Autobuses Sociedad Anónima do Brasil - (ONDA do Brasil) autorização para funcionar na República Federativa do Brasil.

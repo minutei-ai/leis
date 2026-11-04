@@ -1,7 +1,3 @@
-1
-
-###DEC-095724-0-000-11-02-1988@@@
-
 DECRETO N° 95.724, DE 11 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo de Complementação Econômica, subscrito entre o Brasil e o Uruguai (Acordo n° 2).

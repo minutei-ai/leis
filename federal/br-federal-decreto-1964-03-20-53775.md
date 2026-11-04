@@ -1,5 +1,3 @@
-###DEC-053775-0-000-20-03-1964@@@
-
 DECRETO Nº 53.775, DE 20 DE MARÇO DE 1964.
 
 Cria o Centro de Instrução de Marítimos “Almirante Graça Aranha”.

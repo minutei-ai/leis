@@ -1,5 +1,3 @@
-###DEC-076405-0-000-09-10-1975@@@
-
 DECRETO Nº 76.405, DE 9 DE OUTUBRO DE 1975.
 
 Eleva as alíquotas da Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

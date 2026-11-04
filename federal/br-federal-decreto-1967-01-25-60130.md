@@ -1,5 +1,3 @@
-###DEC-060130-0-000-25-01-1967@@@
-
 decreto nº 60.130, de 25 de janeiro de 1967.
 
 Prorroga o prazo a que se refere o art. 72 do Regulamento dos Serviços de Radioamador.

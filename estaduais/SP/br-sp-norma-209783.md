@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209783)<br>
-
 # DECRETO N° 68.733, DE 25 DE JULHO DE 2024
 
 ### _Institui o São Paulo Sempre Alerta - Plano Estadual de Resiliência à Estiagem, que dispõe sobre diretrizes e ações de prevenção, mitigação e resposta aos impactos da estiagem prolongada no ano de 2024, e dá providências correlatas._

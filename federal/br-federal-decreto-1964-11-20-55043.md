@@ -1,5 +1,3 @@
-###DEC-055043-0-000-20-11-1964@@@
-
 DECRETO Nº 55.043, DE 20 DE NOVEMBRO DE 1964.
 
 Dá nova redação ao art. 30 do Regulamento aprovado pelo Decreto número 52.339, de 8 de agôsto de 1963, e ao art. 8º do Decreto nº 52.341, da mesma data.

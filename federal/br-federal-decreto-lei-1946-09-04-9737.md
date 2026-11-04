@@ -1,5 +1,3 @@
-###DEL-009737-0-000-04-09-1946@@@
-
 DECRETO LEI N. 9.737 – DE 4 DE SETEMBRO DE 1946
 
 Dispõe sôbre o pessoal da Escola Politecnica da Bahia e da Faculdade de Direito do Ceará, abre crédito especial e dá outras providências.

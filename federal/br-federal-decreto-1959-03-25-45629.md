@@ -1,5 +1,3 @@
-###DEC-045629-0-000-25-03-1959@@@
-
 DECRETO Nº 45.629, DE 25 DE MARÇO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

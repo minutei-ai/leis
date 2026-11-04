@@ -1,5 +1,3 @@
-###DEC-060674-0-000-03-05-1967@@@
-
 DECRETO Nº 60.674, DE 3 DE MAIO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estadas de Rodagem, a área de terreno situada no Município de Itaguara, Estado de Minas Gerais.

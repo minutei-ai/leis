@@ -122,8 +122,6 @@ Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 25 de maio de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

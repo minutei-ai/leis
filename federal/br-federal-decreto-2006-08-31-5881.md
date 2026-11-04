@@ -1,5 +1,3 @@
-###DEC-005881-0-000-31-08-2006@@@
-
 DECRETO Nº 5.881, DE 31 DE AGOSTO DE 2006.
 
 Regulamenta o art. 55 da Lei no 11.196, de 21 de novembro de 2005, que instituiu o regime de suspensão da Contribuição para o PIS/PASEP e da COFINS na aquisição de máquinas e equipamentos para a produção de papéis destinados à impressão de jornais e periódicos.
@@ -75,5 +73,3 @@ Brasília, 31 de agosto de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
         Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 1º.9.2006.

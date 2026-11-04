@@ -1,5 +1,3 @@
-###DEC-074281-0-000-15-07-1974@@@
-
 DECRETO Nº 74.281 - de 15 de juLHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à entidade Emissoras Riograndenses Ltda., para executar serviços de radiodifusão sonora em onda média de âmbito regional, na Cidade de Pelotas, Estado do Rio Grande do Sul.

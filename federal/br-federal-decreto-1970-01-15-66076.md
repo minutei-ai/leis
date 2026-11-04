@@ -1,5 +1,3 @@
-###DEC-066076-0-000-15-01-1970@@@
-
 DECRETO Nº 66.076 - DE 15 DE JANEIRO DE 1970
 
 Estende a autorização concedida à firma Western Geophysical Company of América pelo Decreto número 62.325, de 29 de fevereiro de 1968, para operação de seus navios também em águas interiores do Brasil.

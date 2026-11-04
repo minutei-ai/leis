@@ -1,22 +1,20 @@
-###DEC-023506-0-000-16-08-1947@@@
+**DECRETO Nº 23.506, DE 16 DE AGÔSTO DE 1947.**
 
-<strong>DECRETO Nº 23.506, DE 16 DE AGÔSTO DE 1947.</strong>
+***Aprova as cláusulas do contrato a ser celebrado com a Prefeitura do Distrito Federal, para execução do serviço de radiodifusão, na Capital da República, pela Rádio Emissora Roquete Pinto.***
 
-<em><strong>Aprova as cláusulas do contrato a ser celebrado com a Prefeitura do Distrito Federal, para execução do serviço de radiodifusão, na Capital da República, pela Rádio Emissora Roquete Pinto.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, tendo em vista o Decreto nº 16.948, de 28 de outubro de 1944, e de acôrdo com o estabelecido no Decreto nº 24.655, de 11 de julho de 1934, e no regulamento aprovado pelo Decreto número 21.111, de 1º de março de 1932,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o Decreto nº 16.948, de 28 de outubro de 1944, e de acôrdo com o estabelecido no Decreto nº 24.655, de 11 de julho de 1934, e no regulamento aprovado pelo Decreto número 21.111, de 1º de março de 1932,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. Ficam aprovadas as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas, do contrato relativo à concessão outorgada, pelo Decreto número16.948, de 24 de outubro de 1944, à Prefeitura do Distrito Federal, para execução, por parte desta, sem direito de exclusividade, do serviço de radiodifusão, na Capital da República, devendo o referido contrato ser assinado no prazo de trinta (30 dias), a contar da data de publicação dêste Decreto no “<em>Diário</em> <em>Oficial</em>” sob pena de ser, desde logo, considerada nula a concessão.
+Artigo único. Ficam aprovadas as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas, do contrato relativo à concessão outorgada, pelo Decreto número16.948, de 24 de outubro de 1944, à Prefeitura do Distrito Federal, para execução, por parte desta, sem direito de exclusividade, do serviço de radiodifusão, na Capital da República, devendo o referido contrato ser assinado no prazo de trinta (30 dias), a contar da data de publicação dêste Decreto no “*DiárioOficial*” sob pena de ser, desde logo, considerada nula a concessão.
 
 Rio de Janeiro, 16 de agôsto de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 23.506, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 23.506, DESTA DATA**
 
 I
 
@@ -52,7 +50,7 @@ V
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se em todo tempo, fôr verificada a inobservância das disposições contidas nas alíneas <em>a, b, c</em> e <em>d, in fine</em> da cláusula III;
+a) se em todo tempo, fôr verificada a inobservância das disposições contidas nas alíneas *a, b, c* e *d, in fine* da cláusula III;
 
 b) se, em qualquer tempo, se verificar o emprêgo da Estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -66,4 +64,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de pena
 
 Rio de Janeiro, 16 de agôsto de 1947.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

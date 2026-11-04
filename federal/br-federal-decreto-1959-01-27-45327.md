@@ -1,5 +1,3 @@
-###DEC-045327-0-000-27-01-1959@@@
-
 DECRETO Nº 45.327, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro João Fernandes Alves da Costa a pesquisar gipsita no município de Araripina, Estado de Pernambuco.

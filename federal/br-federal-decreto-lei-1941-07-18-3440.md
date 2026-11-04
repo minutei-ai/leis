@@ -1,5 +1,3 @@
-###DEL-003440-0-000-18-07-1941@@@
-
 DECRETO-LEI N. 3.440 – DE 18 DE JULHO DE 1941
 
 Autoriza a aquisição do terreno denominado “Sítio Dendê”. em Ricardo de Albuquerque, Distrito Federal, para serventia das unidades aquarteladas na Vila Militar e Deodoro

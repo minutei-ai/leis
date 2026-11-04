@@ -1,5 +1,3 @@
-###DEC-077843-0-000-16-06-1976@@@
-
 DECRETO Nº 77.843, DE 16 DE JUNHO DE 1976.
 
 Concede à Minérios Industriais do Sul S.A. - MINEL, o direito de lavrar caulim no Município de Morro da Fumaça, Estado de Santa Catarina.

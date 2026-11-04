@@ -1,5 +1,3 @@
-###DEC-078846-0-000-26-11-1976@@@
-
 DECRETO Nº 78.846, DE 26 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para efeitos de desapropriação, a área que menciona, necessária ao Ministério da Marinha.

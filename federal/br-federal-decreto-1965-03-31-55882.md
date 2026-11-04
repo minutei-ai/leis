@@ -1,5 +1,3 @@
-###DEC-055882-0-000-31-03-1965@@@
-
 DECRETO Nº 55.882, de 31 de março de 1965.
 
 Autoriza, em caráter excepcional, o provimento interino dos cargos que especifica.

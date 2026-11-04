@@ -1,5 +1,3 @@
-###DEC-082074-0-000-03-08-1978@@@
-
 DECRETO Nº 82.074, DE 03 DE AGOSTO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

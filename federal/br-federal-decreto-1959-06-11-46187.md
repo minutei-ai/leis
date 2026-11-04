@@ -1,5 +1,3 @@
-###DEC-046187-0-000-11-06-1959@@@
-
 Decreto nº 46.187, de 11 de junho de 1959.
 
 Autoriza o “The First national city Bank of New York” a instalar Agências em Belo horizonte (MG) e Curitiba (PR).

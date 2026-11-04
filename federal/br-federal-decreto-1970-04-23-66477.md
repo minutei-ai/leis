@@ -1,5 +1,3 @@
-###DEC-066477-0-000-23-04-1970@@@
-
 DECRETO nº 66.477, DE 23 DE ABRIL DE 1970.
 
 Reconhecimento de Cursos.

@@ -1,5 +1,3 @@
-###DEL-006623-0-000-23-06-1944@@@
-
 DECRETO-LEI N. 6.623 – DE 23 DE JUNHO DE 1944
 
 Abre crédito suplementar ao Ministério da Educação e Saúde para atender à despesa que especifica

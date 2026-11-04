@@ -1,5 +1,3 @@
-###DEL-005046-0-000-05-12-1942@@@
-
 DECRETO-LEI N. 5.046 – DE 5 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 20. 000,00 à verba que especifica

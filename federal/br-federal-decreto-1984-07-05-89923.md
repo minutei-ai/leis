@@ -1,5 +1,3 @@
-###DEC-089923-0-000-05-07-1984@@@
-
 Decreto nº 89.923, de 05 de julho de 1984.
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Química S.A. - PETROQUISA.

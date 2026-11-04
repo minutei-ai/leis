@@ -1,5 +1,3 @@
-###DEC-070433-0-000-18-04-1972@@@
-
 DECRETO Nº 70.433, DE 18 DE ABRIL DE 1972.
 
 Torna sem efeito aproveitamento de disponível do Instituto de Previdência e Assistência dos Servidores do Estado no Quadro de Pessoal do Ministério da Marinha.

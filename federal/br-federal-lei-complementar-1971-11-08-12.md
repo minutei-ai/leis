@@ -1,7 +1,3 @@
-1
-
-###LCP-000012-0-000-08-11-1971@@@
-
 # LEI COMPLEMENTAR Nº 12, DE 8 DE NOVEmBRO de 1971
 
 Regula o art. 69 da Constituição, e dá outras providências.

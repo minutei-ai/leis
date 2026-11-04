@@ -1,5 +1,3 @@
-###DEC-072935-0-000-17-10-1973@@@
-
 DECRETO Nº 72.935, DE 17 DE OUTUBRO DE 1973.
 
 Concede reconhecimento da Faculdade de Filosofia, Ciências e Letras "Dom Bosco", mantida pelo Instituto Educacional "Dom Bosco", com sede na cidade de Santa Rosa, Estado do Rio Grande do Sul.

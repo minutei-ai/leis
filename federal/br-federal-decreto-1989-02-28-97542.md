@@ -1,5 +1,3 @@
-###DEC-097542-0-000-28-02-1989@@@
-
 DECRETO N° 97.542, DE 28 DE FEVEREIRO DE 1989
 
 Revoga o Decreto n° 64.463, de 5 de maio de 1969, que aprova o Regulamento para a Diretoria-Geral de Navegação.

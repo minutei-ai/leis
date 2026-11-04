@@ -1,5 +1,3 @@
-###DEC-092377-0-000-06-02-1986@@@
-
 DECRETO Nº 92.377, DE 06 DE FeveREIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Ribeira da Companhia de Serviços Elétricos do Rio Grande do Norte - COSERN, no Estado do Rio Grande do Norte.

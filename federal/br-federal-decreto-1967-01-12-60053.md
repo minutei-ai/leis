@@ -1,5 +1,3 @@
-###DEC-060053-0-000-12-01-1967@@@
-
 DECRETO Nº 60.053, DE 12 DE JANEIRO de 1967.
 
 Abre, pelo Ministério da Indústria e do Comércio, o crédito especial de Cr$50.000,00 (cinqüenta milhões de cruzeiros), destinado a auxiliar a realização da 1ª Festa Nacional de Calçados e Feiras Agro-Industriais em Nôvo Hamburgo - Rio Grande do Sul.

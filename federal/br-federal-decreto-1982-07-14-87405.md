@@ -1,5 +1,3 @@
-###DEC-087405-0-000-14-07-1982@@@
-
 Decreto nº 87.405, de 14 de julho de 1982.
 
 Prorroga o prazo no artigo 10 do Decreto nº 86.215, de 15 de julho de 1981.

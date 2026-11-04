@@ -1,5 +1,3 @@
-###DEC-066042-0-000-07-01-1970@@@
-
 decreto nº 66.042 - de 7 de janeiro de 1970
 
 Declara de utilidade pública a "Fundação Laura de Andrade", com sede em Calciolândia, Estado de Minas Gerais.

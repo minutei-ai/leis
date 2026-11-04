@@ -1,5 +1,3 @@
-###DEC-073663-0-000-15-02-1974@@@
-
 DECRETO Nº 73.663, DE 15 DE FEVEREIRO DE 1974.
 
 Torna sem efeito a redistribuição, com o respectivo ocupante, de cargo do Ministério dos Transportes para o Ministério da Fazenda.

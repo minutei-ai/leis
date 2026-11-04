@@ -1,5 +1,3 @@
-###DEL-008623-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.623 – DE 10 DE JANEIRO DE 1946
 
 Autoriza aumento de vencimentos ou salários dos servidores e dos Presidentes dos Institutos e Caixas de Aposentadoria e Pensões e do Instituto de Previdência e Assistência aos Servidores do Estado e dá outras providências

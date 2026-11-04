@@ -1,5 +1,3 @@
-###DEC-078241-0-000-13-08-1976@@@
-
 decreto nº 78.241, de 13 de agosto 1976.
 
 Concede à PRECON - Premoldados de Concreto e Cimento Amianto S.A. o direito de lavrar calcário no Município de Matozinhos, Estado de Minas Gerais.

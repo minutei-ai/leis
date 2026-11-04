@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/00c8f8e7-f01b-48a2-a429-2d0c5515a1c9/texto#nowhere)
 
-###DEL-000311-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 311, DE 28 DE FEVEREIRO DE 1967
 
 Isenta dos impostos de importação e de consumo, bem como da taxa de despacho aduaneiro, materiais transferidos à Companhia de Transportes Urbanos (CTU).

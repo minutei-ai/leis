@@ -1,5 +1,3 @@
-###DEC-049501-0-000-12-12-1960@@@
-
 DECRETO Nº 49.501, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Geraldo Moreira Novais a pesquisar mica no município de Raul Soares, Estado de Minas Gerais.

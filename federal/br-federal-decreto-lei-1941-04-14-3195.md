@@ -1,5 +1,3 @@
-###DEL-003195-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.195 – DE 14 DE ABRIL DE 1941
 
 Dispõe sobre o preenchimento dos cargos vagos constantes das tabelas dos discursos quadros de pessoal dos ministérios.

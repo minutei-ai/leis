@@ -1,5 +1,3 @@
-###DEC-007583-0-000-13-10-2011-PUB-01@@@
-
 DECRETO Nº 7.583, DE 13 DE OUTUBRO DE 2011
 
 Regulamenta a aplicação da Tarifa Social de Energia Elétrica, e dá outras providências.

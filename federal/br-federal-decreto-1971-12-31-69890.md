@@ -1,5 +1,3 @@
-###DEC-069890-0-000-31-12-1971@@@
-
 DECRETO Nº 69.890 - DE 31 DE DEZEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, cargo do Ministério das Minas e Energia para o Ministério da Indústria e do Comércio, e dá outras providências.

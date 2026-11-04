@@ -1,5 +1,3 @@
-###DEC-082760-0-000-29-11-1978@@@
-
 Decreto nº 82.760, de 29 de novembro de 1978:
 
 Declara a caducidade do Manifesto de Mina que menciona.

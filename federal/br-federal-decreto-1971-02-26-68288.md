@@ -1,5 +1,3 @@
-###DEC-068288-0-000-26-02-1971@@@
-
 DECRETO Nº 68.288, DE 26 DE FEVEREIRO DE 1971.
 
 Declara caduco o Decreto n  45.785, de 14 de abril de 1959.

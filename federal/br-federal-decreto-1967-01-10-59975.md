@@ -1,5 +1,3 @@
-###DEC-059975-0-000-10-01-1967@@@
-
 DECRETO Nº 59.975, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Olímpio De Villa a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

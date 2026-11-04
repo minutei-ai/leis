@@ -1,5 +1,3 @@
-###DEL-008220-0-000-26-11-1945@@@
-
 DECRETO-LEI N. 8.220 – DE 26 DE NOVEMBRO DE 1945
 
 Autoriza a mobilização das reservas de ouro disponíveis no país estrangeiro

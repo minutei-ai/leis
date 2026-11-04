@@ -1,5 +1,3 @@
-###DEC-048236-0-000-19-05-1960@@@
-
 decreto nº 48.236, de 19 de maio de 1960.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$50.000.000,00, para atender às despesas com a concessão de bolsas de estudos a estudantes carentes de recursos.

@@ -1,5 +1,3 @@
-###DEC-088813-0-000-04-10-1983@@@
-
 DECRETO Nº 88.813, DE 04 DE OUTUBRO DE 1983
 
 Homologa a demarcação da Área Indígena que menciona, no Estado do Maranhão.

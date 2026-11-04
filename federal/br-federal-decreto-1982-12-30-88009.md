@@ -1,5 +1,3 @@
-###DEC-088009-0-000-30-12-1982@@@
-
 Decreto nº 88.009, de 30 de dezembro de 1982
 
 Autoriza, até 31 de dezembro de 1983, o aproveitamento dos navios estrangeiros na cabotagem nacional, em regime de afretamento.

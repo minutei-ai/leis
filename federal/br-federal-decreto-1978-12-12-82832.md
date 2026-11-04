@@ -1,5 +1,3 @@
-###DEC-082832-0-000-12-12-1978@@@
-
 decreto nº 82.832, de 12 de dezembro de 1978
 
 Fixa o fator de reajustamento salarial relativo a dezembro de 1978.

@@ -1,5 +1,3 @@
-###DEC-046354-0-000-06-07-1959@@@
-
 DECRETO Nº 46.354, DE 6 DE JULHO DE 1959.
 
 Altera dispositivos do Regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

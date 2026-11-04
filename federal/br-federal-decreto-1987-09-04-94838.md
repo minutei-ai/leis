@@ -1,5 +1,3 @@
-###DEC-094838-0-000-04-09-1987@@@
-
 DECRETO Nº 94.838, DE 4 DE SETEMBRO DE 1987.
 
 Altera o Regimento dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 92.614, de 2 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000488-0-000-12-05-2010@@@
-
 MEDIDA PROVISÓRIA Nº 488, DE 12 DE MAIO DE 2010.
 
 Autoriza a criação da Empresa Brasileira de Legado Esportivo S.A. - BRASIL 2016 e dá outras providências.

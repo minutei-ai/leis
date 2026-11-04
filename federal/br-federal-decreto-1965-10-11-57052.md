@@ -1,5 +1,3 @@
-###DEC-057052-0-000-11-10-1965@@@
-
 Decreto nº 57.052, de 11 de outubro de 1965.
 
 Declara de utilidade pública, imóvel que menciona na cidade de Brasília, Distrito Federal.

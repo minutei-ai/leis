@@ -1,5 +1,3 @@
-###DEC-048076-0-000-07-04-1960@@@
-
 DECRETO N.º 48.076, DE 7 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Amadio Alves de Oliveira a pesquisar quartzo e pedras coradas, no município de Itambacurí, Estado de Minas Gerais.

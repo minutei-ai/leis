@@ -1,5 +1,3 @@
-###DEC-071997-0-000-27-03-1973@@@
-
 decreto nº 71.997, de 27 de março de 1973.
 
 Concede a Indústrias Brasileiras de Artigos Refratários S.A. - IBAR o direito de lavrar argila no Município de Salesópolis, Estado de São Paulo.
@@ -27,8 +25,6 @@ Brasília, 27 de março de 1973; 152º da Independência e 85º da República.
 Emílio g. médici
 
 Antônio Dias Leite Júnior
-
-###DEC-071997-0-000-27-03-1973@@@RET01+++
 
 DECRETO Nº 71.997, DE 27 DE MARÇO DE 1973.
 

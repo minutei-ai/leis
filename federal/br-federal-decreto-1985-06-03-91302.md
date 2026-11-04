@@ -1,5 +1,3 @@
-###DEC-091302-0-000-03-06-1985@@@
-
 Decreto nº 91.302, de 03 de junho de 1985
 
 Outorga à Companhia Paulista de Força e Luz-CPFL concessão para o aproveitamento da energia hidráulica do Ribeirão Quilombo, situado no Município de Americana, Estado de São Paulo.

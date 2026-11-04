@@ -1,14 +1,12 @@
-###DEC-033317-0-000-16-07-1953@@@
+**DECRETO Nº 33.317, DE 16 DE JULHO DE 1953.**
 
-<strong>DECRETO Nº 33.317, DE 16 DE JULHO DE 1953.</strong>
+***Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministérios da Agricultura.***
 
-<em><strong>Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministérios da Agricultura.</strong></em>
+**O PRESIDENTE DE REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DE REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a lotação numérica de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, para feito de serem transferidos, com os respectivos ocupantes, os seguintes cargos:
+**Art**. 1º Fica alterada a lotação numérica de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, para feito de serem transferidos, com os respectivos ocupantes, os seguintes cargos:
 
 a) da lotação permanente da Inspertoria Regional de Produtos de Origem Animal, em Belo Horizonte - Minas Gerais - para igual lotação da Inspetoria Regional de Produtos de Origem Animal no Rio de Janeiro - Distrito Federal.
 
@@ -130,12 +128,12 @@ f) - da lotação permanente da Inspetoria Regional de Produtos de Origem Animal
 
 1\. Carmen Lúcia Moreira
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 16 de julho de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

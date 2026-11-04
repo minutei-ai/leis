@@ -1,5 +1,3 @@
-###DEL-009655-0-000-27-08-1946@@@
-
 DECRETO-LEI N. 9.655 – DE 27 DE AGÔSTO DE 1946
 
 Cria, sem aumento de despesa, no Serviço Nacional de Malária, do Departamento Nacional de Saúde, o Instituto de Malariologia.

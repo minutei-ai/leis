@@ -1,4 +1,5 @@
-**DECRETO Nº 10.093, DE 8 DE JUNHO DE 2022**<br>
+**DECRETO Nº 10.093, DE 8 DE JUNHO DE 2022**
+
 \- [Revogado tacitamente pelo Decreto nº 10.320, de 12-9-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107716/decreto-10320).
 
 ~~Altera o Regulamento da Agência Goiana de Defesa Agropecuária – AGRODEFESA, aprovado pelo [Decreto nº 9.550](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72465/decreto-9550), de 8 de novembro de 2019.~~
@@ -180,8 +181,6 @@
 ~~Art. 3º Este Decreto entra em vigor na data de sua publicação.~~
 
 Goiânia, 8 de junho de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

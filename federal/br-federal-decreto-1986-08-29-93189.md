@@ -1,5 +1,3 @@
-###DEC-093189-0-000-29-08-1986@@@
-
 DECRETO Nº 93.189, DE 29 DE AGOSTO DE 1986
 
 Regulamenta a Lei nº 7.525, de 22 de julho de 1986, que dispõe sobre a indenização a ser paga pela PETROBRÁS e suas subsidiárias aos Estados e Municípios.

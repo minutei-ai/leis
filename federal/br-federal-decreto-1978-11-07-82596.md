@@ -1,5 +1,3 @@
-###DEC-082596-0-000-07-11-1978@@@
-
 Decreto nº 82.596, de 07 de novembro de 1978.
 
 Concede reconhecimento ao curso de Educação Física da Universidade Federal de Viçosa, com sede em Viçosa, Estado de Minas Gerais.

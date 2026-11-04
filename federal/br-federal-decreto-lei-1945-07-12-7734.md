@@ -1,5 +1,3 @@
-###DEL-007734-0-000-12-07-1945@@@
-
 DECRETO-LEI N. 7.734 – DE 12 DE JULHO DE 1945
 
 Cria a 2ª coletoria federal do município de Goiânia, no Estado de Goiás, e dá outras providências

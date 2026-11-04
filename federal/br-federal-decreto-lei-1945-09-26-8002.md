@@ -1,5 +1,3 @@
-###DEL-008002-0-000-26-09-1945@@@
-
 DECRETO-LEI N. 8.002 – DE 26 DE SETEMBRO DE 1945
 
 Altera a carreira de Engenheiro do Quadro II – E. F. C. B. – do Ministério da Viação e Obras Públicas e dá outras providências.

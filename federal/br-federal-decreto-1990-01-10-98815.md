@@ -1,7 +1,3 @@
-1
-
-###DEC-098815-0-000-10-01-1990@@@
-
 DECRETO N° 98.815, DE 10 DE JANEIRO DE 1990
 
 Delega competência ao Ministro de Estado da Justiça para a prática dos atos que menciona.

@@ -1,30 +1,28 @@
-###DEC-021712-0-000-27-08-1946@@@
+**DECRETO Nº 21.712, DE 27 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.712, DE 27 DE AGÔSTO DE 1946.</strong>
+***Aprova o Regimento do Serviço Nacional de Malária do Departamento Nacional de Saúde, do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento do Serviço Nacional de Malária do Departamento Nacional de Saúde, do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Nacional de Malária (S. N. M.) que, assinado pelo Ministro de Estado da Educação e Saúde, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Nacional de Malária (S. N. M.) que, assinado pelo Ministro de Estado da Educação e Saúde, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de agôsto de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Ernesto de Souza Campos
 
-<strong>REGIMENTO DO SERVIÇO NACIONAL DE MALÁRIA DO DEPARTAMENTO NACIONAL DE SAÚDE</strong>
+**REGIMENTO DO SERVIÇO NACIONAL DE MALÁRIA DO DEPARTAMENTO NACIONAL DE SAÚDE**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço Nacional de Malária (S. N. M.) órgão integrante do Departamento Nacional de Saúde (D. N. S.), tem por finalidade:
+**Art**. 1º O Serviço Nacional de Malária (S. N. M.) órgão integrante do Departamento Nacional de Saúde (D. N. S.), tem por finalidade:
 
 a) organizar, em todo o País, o plano de combate à malária, constituindo-se o centro orientador, coordenador e fiscalizador das atividades dos serviços estaduais, municípais e privados empenhados na campanha e ainda o órgão realizador da parte que, no programa fixado, tocar à administração federal;
 
@@ -34,13 +32,13 @@ c) procurar padronizar, respeitadas as conveniências regionais, as organizaçõ
 
 d) realizar estudos, pesquisas e investigações sôbre a malária.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O. S. N. M. compreenderá serviços centralizados, técnicos e administrativos, e serviços de campo.
+**Art**. 2º O. S. N. M. compreenderá serviços centralizados, técnicos e administrativos, e serviços de campo.
 
-<strong>Art</strong>. 3º Os serviços centralizados ficarão a cargo, respectivamente, dos seguinte órgãos:
+**Art**. 3º Os serviços centralizados ficarão a cargo, respectivamente, dos seguinte órgãos:
 
 Seção de Epidemiologia (S. E.)
 
@@ -52,27 +50,27 @@ Instituo de Malariologia (I. M.)
 
 Seção de Administração (S. A.)
 
-<strong>Art</strong>. 4º Para efeito da execução dos trabalhos de campo do Serviço, fica o território brasileiro dividido em circunscrições.
+**Art**. 4º Para efeito da execução dos trabalhos de campo do Serviço, fica o território brasileiro dividido em circunscrições.
 
 § 1º A divisão em circunscrições de que trata êste artigo será determinada em portaria do diretor geral do D. N. S., por proposta do diretor do S. N. P.
 
 § 2º As circunscrições serão dividas em setores, de acôrdo com as necessidades dos serviços.
 
-<strong>Art</strong>. 5º Para chefiarem as S. P. H., S. E., O. C., I. M. e as Circunscrições serão designados pelo Diretor do Serviço, mediante aprovação do Diretor Geral, funcionários pertencentes às carreiras de Engenheiro, no primeiro caso, e de Médico Sanitarista, nos demais casos.
+**Art**. 5º Para chefiarem as S. P. H., S. E., O. C., I. M. e as Circunscrições serão designados pelo Diretor do Serviço, mediante aprovação do Diretor Geral, funcionários pertencentes às carreiras de Engenheiro, no primeiro caso, e de Médico Sanitarista, nos demais casos.
 
 Parágrafo único. As chefias a que se refere êste artigo, poderão, ainda, ser exercidas por extranumerários especialmente contratados para êsse fim.
 
-<strong>Art</strong>. 6º A S. A. terá um chefe designado pelo diretor do Serviço, mediante aprovação do diretor geral.
+**Art**. 6º A S. A. terá um chefe designado pelo diretor do Serviço, mediante aprovação do diretor geral.
 
-<strong>Art</strong>. 7º O diretor do Serviço será auxiliado por um secretário, por êle designado.
+**Art**. 7º O diretor do Serviço será auxiliado por um secretário, por êle designado.
 
-<strong>Art</strong>. 8º As seções e circunscrições de que tratam os arts. 3º e 4º funcionarão perfeitamente coordenadas em regime de mútua colaboração, sob a orientação do diretor do Serviço.
+**Art**. 8º As seções e circunscrições de que tratam os arts. 3º e 4º funcionarão perfeitamente coordenadas em regime de mútua colaboração, sob a orientação do diretor do Serviço.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 9º A S. E. compete:
+**Art**. 9º A S. E. compete:
 
 a) promover e efetuar reconhecimentos e inquéritos epidemiológicos, preliminares e concorrentes, nas regiões do País em que êles se façam necessários, a critério do Diretor do Serviço;
 
@@ -80,7 +78,7 @@ b) elaborar resenhas técnicas, sempre atualizadas, sôbre a luta contra a malá
 
 c) opinar sôbre os resultados obtidos com os trabalhos de combate à malária no País, em face da análise dos fatores epidemiológicos comparados, antes e depois da instalação de serviços.
 
-<strong>Art</strong>. 10. À S. O. C. compete:
+**Art**. 10. À S. O. C. compete:
 
 a) opinar sôbre a organização de quaisquer serviços de combate à malária no País e bem assim sôbre regulamentos e regimentos que cuidem do assunto;
 
@@ -90,7 +88,7 @@ c) estudar e preparar planos e orçamentos de combate à malária, na base dos d
 
 d) fiscalizar, verificando-lhes a eficiência e custo, os trabalhos profiláticos contra a malária, especialmente dos executados pelo Serviço e, também, dos realizados por organizações oficiais e privadas.
 
-<strong>Art</strong>. 11. À S. P. H. compete:
+**Art**. 11. À S. P. H. compete:
 
 a) fazer levantamentos hidrográficos e topográficos, colher dados geológicos e meteorológicos e outros informes necessários ao planejamento dos trabalhos de pequena hidráulica;
 
@@ -98,11 +96,11 @@ b) preparar projetos e orçamentos de obras de pequena hidráulica;
 
 c) fiscalizar, verificando-lhes a eficiência e o custo, os trabalhos de pequena hidráulica.
 
-<strong>Art</strong>. 12. À S. A. compete promover as medidas preliminares necessárias à administração de pessoal, material, orçamento e comunicações a cargo do Serviço de Administração do D. N. S. com o qual deverá funcionar perfeitamente entrosada.
+**Art**. 12. À S. A. compete promover as medidas preliminares necessárias à administração de pessoal, material, orçamento e comunicações a cargo do Serviço de Administração do D. N. S. com o qual deverá funcionar perfeitamente entrosada.
 
 Parágrafo único. A S. A. observará as normas e métodos de trabalhos prescritos pelo Serviço de Administração do D. N. S.
 
-<strong>Art</strong>. 13. Ao I. M. compete:
+**Art**. 13. Ao I. M. compete:
 
 a) realizar estudos, pesquisas e investigações, no que respeita à malária, sôbre:
 
@@ -128,13 +126,13 @@ b) preparar técnicamente e aperfeiçoar o pessoal, nos domínios da malariologi
 
 c) efetuar estudos complementares em qualquer setor de interêsse científico, experimental ou prático, no campo da malariologia, a juízo do Diretor do S. N. M.
 
-<strong>Art</strong>. 14. Compete aos serviços de campo, as respectivas circunscrições, a realização da tarefa profilática e das investigações epidemiológicas necessárias.
+**Art**. 14. Compete aos serviços de campo, as respectivas circunscrições, a realização da tarefa profilática e das investigações epidemiológicas necessárias.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS</em>
+*DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS*
 
-<strong>Art</strong>. 15. Ao Diretor incumbe:
+**Art**. 15. Ao Diretor incumbe:
 
 a) dirigir, coordenar e fiscalizar os trabalhos respectivos;
 
@@ -166,7 +164,7 @@ o) aprovar a escala de férias do pessoal;
 
 p) baixar ordens de serviço necessárias à execução dêste regimento.
 
-<strong>Art</strong>. 16. Aos Chefes de Seção do I. M. e de Circunscrição incumbe:
+**Art**. 16. Aos Chefes de Seção do I. M. e de Circunscrição incumbe:
 
 a) dirigir e fiscalizar a execução dos trabalhos a cargo da seção ou circunscrição;
 
@@ -180,7 +178,7 @@ e) impôr penas disciplinares de advertência e repreensão ao pessoal êle subo
 
 f) organizar a escala de férias do pessoal da seção ou circunscrição, submetendo-a à aprovação do diretor do Serviço.
 
-<strong>Art</strong>. 17. Ao secretário do diretor incumbe:
+**Art**. 17. Ao secretário do diretor incumbe:
 
 a) atender às pessoas que procurarem o diretor, dando a êste conhecimento do assunto a tratar;
 
@@ -188,48 +186,48 @@ b) representar o diretor quando para isso fôr designado;
 
 c) redigir a correspondência pessoal do diretor.
 
-<strong>Art</strong>. 18. Aos servidores, que não tenham atribuições especificadas neste regimento, incumbirá as que lhes forem conferidas pelos superiores a que estiverem diretamente subordinados.
+**Art**. 18. Aos servidores, que não tenham atribuições especificadas neste regimento, incumbirá as que lhes forem conferidas pelos superiores a que estiverem diretamente subordinados.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 19. O. S. N. M. terá a lotação que fôr oportunamente aprovada em decreto.
+**Art**. 19. O. S. N. M. terá a lotação que fôr oportunamente aprovada em decreto.
 
 Parágrafo único. O S. N. M. poderá ter, além dos funcionários constantes da lotação fixada em decreto, pessoal extranumerário, para obras e trabalhos de campo.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 20. O período de trabalho, no S. N. M., será, no mínimo, de quarenta e quatro horas semanais para os serviços de campo de qualquer natureza e de trinta e três para os demais.
+**Art**. 20. O período de trabalho, no S. N. M., será, no mínimo, de quarenta e quatro horas semanais para os serviços de campo de qualquer natureza e de trinta e três para os demais.
 
-<strong>Art</strong>. 21. A freqüência do pessoal em trabalho fora da sede do Serviço será verificada por boletins diários de produção, controlados pelo superior imediato.
+**Art**. 21. A freqüência do pessoal em trabalho fora da sede do Serviço será verificada por boletins diários de produção, controlados pelo superior imediato.
 
-<strong>Art</strong>. 22. Não fica sujeito a ponto o diretor do Serviço.
+**Art**. 22. Não fica sujeito a ponto o diretor do Serviço.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 23. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais:
+**Art**. 23. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais:
 
 a) o Diretor do S. N. M. pelo chefe da seção prèviamente designado pelo Diretor Geral;
 
 b) os Chefes de Seção do I. M. e de Circunscrição, por funcionários prèviamente designados pelo Diretor do Serviço.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 24. Nenhum servidor poderá fazer publicações, ou conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do Serviço, sem prévia autorização do diretor.
+**Art**. 24. Nenhum servidor poderá fazer publicações, ou conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do Serviço, sem prévia autorização do diretor.
 
-<strong>Art</strong>. 25. São os médicos obrigados a relatar, em diários, suas atividades e bem assim as ocorrências de interêsse do Serviço, enviando-os, semanalmente, ao diretor.
+**Art**. 25. São os médicos obrigados a relatar, em diários, suas atividades e bem assim as ocorrências de interêsse do Serviço, enviando-os, semanalmente, ao diretor.
 
-<strong>Art</strong>. 26. O pessoal do Serviço é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado e sob regime de tempo integral, quando assim o exigirem as necessidades do Serviço, a critério do diretor do S. N. M.
+**Art**. 26. O pessoal do Serviço é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado e sob regime de tempo integral, quando assim o exigirem as necessidades do Serviço, a critério do diretor do S. N. M.
 
 Parágrafo único. É obrigatória, para os chefes de circunscrição ou de setor, a residência na localidade sede do seu trabalho.
 
 Rio de Janeiro, 27 de agôsto de 1946.
 
-<strong>ERNESTO DE SOUZA CAMPOS</strong>
+**ERNESTO DE SOUZA CAMPOS**

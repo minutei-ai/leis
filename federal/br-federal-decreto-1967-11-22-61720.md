@@ -1,5 +1,3 @@
-###DEC-061720-0-000-22-11-1967@@@
-
 DECRETO Nº 61.720, DE 22 DE NOVEMBRO DE 1967.
 
 Outorga à Companhia de Serviços Elétricos do Rio Grande do Norte - concessão para distribuir energia elétrica no município de Açu, Estado do Rio Grande do Norte.

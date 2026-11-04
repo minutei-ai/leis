@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209759)<br>
-
 # DECRETO N° 68.711, DE 23 DE JULHO DE 2024
 
 ### _Acrescenta dispositivo ao Decreto n° 68.421, de 2 de abril de 2024._

@@ -1,5 +1,3 @@
-###DEC-080658-0-000-01-11-1977@@@
-
 DECRETO Nº 80.658, DE 01 DE novembro DE 1977.
 
 Concede à Marpó Ltda. o direito de lavrar mármore e calcário no Município de Patos de Minas, Estado de Minas Gerais.

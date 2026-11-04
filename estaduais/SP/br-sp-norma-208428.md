@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208428)<br>
-
 # DECRETO N° 67.898, DE 21 DE AGOSTO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S.A., as áreas necessárias à execução de obras para melhoria do dispositivo do tipo parclo com rotatória, no km 265+800m da Rodovia Marechal Rondon, SP-300, no Município de São Manuel, e dá providências correlatas._

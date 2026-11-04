@@ -1,5 +1,3 @@
-###DEC-006691-0-000-11-12-2008@@@
-
 DECRETO Nº 6.691, DE 11 DE DEZEMBRO DE 2008.
 
 Dá nova redação ao art. 7o do Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.         

@@ -1,5 +1,3 @@
-###DEL-005484-0-000-14-05-1943@@@
-
 DECRETO‑LEI N. 5.484 – DE 14 DE MAIO DE 1943
 
 Dispõe sobre promoções de oficiais do Exército

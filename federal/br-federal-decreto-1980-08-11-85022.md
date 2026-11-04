@@ -1,5 +1,3 @@
-###DEC-085022-0-000-11-08-1980@@@
-
 decreto nº 85.022, de 11 de agosto de 1980.
 
 Institui Comissão Especial do âmbito do Ministério da Justiça.

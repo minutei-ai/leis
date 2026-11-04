@@ -1,5 +1,3 @@
-###DEC-078129-0-000-29-07-1976@@@
-
 DECRETO Nº 78.129, DE 29 DE JULHO DE 1976.
 
 Autoriza a cessão, sob regime de aforamento, dos terrenos que menciona, situados no Município de São Luís, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-060553-0-000-07-04-1967@@@
-
 DECRETO Nº 60.553, DE 7 DE ABRIL DE 1967.
 
 Autoriza a Companhia de Papel e Papelão Pedras Brancas - Rio Grande do Sul - a funcionar aos domingos e feriados civis e religiosos.

@@ -2,13 +2,15 @@ Modificada pelas Leis nº [4.110, de 13 de Junho de 2023;](https://legis.ac.gov.
 
 > **LEI Nº 3.515, DE 29 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Conselho Estadual de Segurança Pública e Defesa Social – CONESPDS e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Conselho Estadual de Segurança Pública e Defesa Social – CONESPDS e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei
-
-<br>
 
 **Art. 1°** Fica criado o Conselho Estadual de Segurança Pública e Defesa Social – CONESPDS, vinculado à Secretaria de Estado de Justiça e Segurança Pública – SEJUSP, órgão colegiado permanente, de natureza consultiva, sugestiva e de acompanhamento social das atividades de segurança pública e defesa social, respeitadas as instâncias decisórias e as normas de organização da administração pública, com a finalidade de formular e propor diretrizes para a política de segurança pública e defesa social, bem como fortalecer a integração e a articulação entre os órgãos governamentais, não governamentais e sociedade.
 

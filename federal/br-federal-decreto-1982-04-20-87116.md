@@ -1,5 +1,3 @@
-###DEC-087116-0-000-20-04-1982@@@
-
 Decreto Nº 87.116, de 20 de abril dE 1982
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CLUBE DE RIBEIRÃO PRETO LTDA., para o SISTEMA CLUBE DE COMUNICAÇÃO LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ribeirão Preto, Estado de São Paulo.

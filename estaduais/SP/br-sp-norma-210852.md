@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210852)<br>
-
 # DECRETO N° 69.478, DE 10 DE ABRIL DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para o Departamento de Estradas de Rodagem - DER, a administração dos imóveis que especifica._

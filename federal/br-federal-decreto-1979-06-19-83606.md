@@ -1,5 +1,3 @@
-###DEC-083606-0-000-19-06-1979@@@
-
 decreto nº 83.606, de 19 de junho de 1979.
 
 Concede à Cimento Portland Mato Grosso S.A., o direito de lavrar calcário no Município de Nobres, Estado de Mato Grosso.

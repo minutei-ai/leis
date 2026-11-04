@@ -1,5 +1,3 @@
-###DEL-004723-0-000-22-09-1942@@@
-
 DECRETO-LEI N. 4.723 – DE 22 DE SETEMBRO de 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de 50:000$0, à verba que especifica

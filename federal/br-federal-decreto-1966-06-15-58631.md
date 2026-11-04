@@ -1,5 +1,3 @@
-###DEC-058631-0-000-15-06-1966@@@
-
 Decreto nº 58.631, de 15 de junho de 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica do Rio Grande do Sul concessão para distribuir energia elétrica.

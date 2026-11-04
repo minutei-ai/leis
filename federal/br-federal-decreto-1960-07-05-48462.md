@@ -1,5 +1,3 @@
-###DEC-048462-0-000-05-07-1960@@@
-
 DECRETO Nº 48.462, DE 5 DE JULHO DE 1960.
 
 Altera a redação do art. 28 do Decreto nº 35.312, de 2 de abril de 1954.

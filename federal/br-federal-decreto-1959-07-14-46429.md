@@ -1,5 +1,3 @@
-###DEC-046429-0-000-14-07-1959@@@
-
 DECRETO Nº 46.429, DE 14 DE JULHO DE 1959.
 
 Aprova o Regulamento para o Fundo Naval.

@@ -1,5 +1,3 @@
-###MPV-000006-0-000-23-10-2001@@@
-
 MEDIDA PROVISÓRIA Nº 6, DE 23 DE OUTUBRO DE 2001
 
 Abre crédito extraordinário, em favor do Ministério de Minas e Energia, do Ministério do Desenvolvimento Agrário e do Ministério da Integração Nacional, no valor global de R$ 280.000.000,00, para os fins que especifica.

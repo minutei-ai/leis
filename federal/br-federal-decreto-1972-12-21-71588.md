@@ -1,5 +1,3 @@
-###DEC-071588-0-000-21-12-1972@@@
-
 DECRETO Nº 71.588 - DE 21 DE DEZEMBRO DE 1972
 
 Atribui cargo de Comandante de Grupamento a General-de-Brigada Combatente.

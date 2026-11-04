@@ -1,5 +1,3 @@
-###DEL-008294-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.294 – DE 5 DE DEZEMBRO DE 1945
 
 Cria cargos de Redatores no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

@@ -96,11 +96,14 @@ V – art. 32.
 
 Gabinete do Prefeito Municipal em exercício, de Aparecida Goiânia, Estado de Goiás, 22 de setembro de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefia da Casa Civil
 
-ANDRÉ LUIS FERREIRA DA ROSA<br>
+ANDRÉ LUIS FERREIRA DA ROSA
+
 Secretário de Fazenda

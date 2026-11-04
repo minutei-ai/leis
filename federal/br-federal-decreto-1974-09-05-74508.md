@@ -1,5 +1,3 @@
-###DEC-074508-0-000-05-09-1974@@@
-
 Decreto nº 74.508, de 5 de setembro de 1974.
 
 Concede à Amazônia Mineração S.A. o direito de lavrar minério de ferro, no Município de Marabá, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-002224-0-000-13-05-1997@@@
-
 DECRETO Nº 2.224, DE 13 DE MAIO DE 1997
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores ao Grupo Técnico de Prestação de Contas do Ministério da Administração Federal e Reforma do Estado, e dá outras providências.

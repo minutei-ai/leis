@@ -1,5 +1,3 @@
-###DEC-084975-0-000-30-07-1980@@@
-
 DECRETO Nº 84.975, DE 30 DE JULHO DE 1980
 
 Autoriza o aumento da potência da RADIODIFUSÃO ASSISENSE LTDA., na cidade de São Francisco de Assis, Estado do Rio Grande do Sul.

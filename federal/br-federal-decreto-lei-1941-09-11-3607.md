@@ -1,5 +1,3 @@
-###DEL-003607-0-000-11-09-1941@@@
-
 DECRETO-LEI N. 3.607 – DE 11 DE SETEMBRO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona

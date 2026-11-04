@@ -1,5 +1,3 @@
-###DEL-003516-0-000-18-08-1941@@@
-
 DECRETO-LEI N. 3.516 – DE 18 DE AGOSTO DE 1941
 
 Torna sem aplicação 1.500:000$0. em dotação orçamentária do Ministério da Educação e Saúde e abre crédito especial de idêntica importância.

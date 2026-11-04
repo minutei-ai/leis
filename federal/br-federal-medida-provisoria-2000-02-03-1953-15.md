@@ -1,5 +1,3 @@
-###MPV-001953-0-015-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.953-15, DE 3 de Fevereiro DE 2000.
 
 Institui o Auxilio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

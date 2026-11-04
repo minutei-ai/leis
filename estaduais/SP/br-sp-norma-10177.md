@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=10177)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1996/compilacao-lei.complementar-815-30.07.1996.html)
 
 # LEI COMPLEMENTAR Nº 815, DE 30 DE JULHO DE 1996
@@ -7,13 +6,16 @@
 
 ### _Cria a Região Metropolitana da Baixada Santista e autoriza o Poder Executivo a instituir o Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista, a criar entidade autárquica e a constituir o Fundo de Desenvolvimento Metropolitano da Baixada Santista, e dá providências correlatas._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
+
 **Artigo 1º -** Fica criada a Região Metropolitana da Baixada Santista como unidade regional do Estado de São Paulo, compreendida pelo agrupamento dos Municípios de Bertioga, Cubatão, Guarujá, Itanhaém, Mongaguá, Peruíbe, Praia Grande, Santos e São Vicente.
 
 **Parágrafo único -** Integrarão a Região Metropolitana os Municípios que vierem a ser criados em decorrência de desmembramento ou fusão dos Municípios integrantes da Região.
 
-**Artigo 2º -** A criação da Região Metropolitana da Baixada Santista tem por finalidade concretizar os objetivos referidos no artigo 153, "caput", da Constituição Estadual, bem como no artigo 1º da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941)<br>
+**Artigo 2º -** A criação da Região Metropolitana da Baixada Santista tem por finalidade concretizar os objetivos referidos no artigo 153, "caput", da Constituição Estadual, bem como no artigo 1º da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941)
+
 **Artigo 3º -** Fica o Poder Executivo autorizado a instituir, na Região Metropolitana da Baixada Santista, um Conselho de Desenvolvimento, de caráter normativo e deliberativo, composto por um representante de cada Município que a íntegra, e por representantes do Estado nos campos funcionais de interesse comum.
 
 **§ 1º -** Os representantes do Estado no Conselho de Desenvolvimento serão designados pelo Governador do Estado, a partir de indicações das Secretarias a que se vincularem as funções públicas de interesse comum, atendidas as prescrições do artigo 10 da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941).
@@ -30,13 +32,20 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 **Parágrafo único -** O Estado, no que couber, compatibilizará os planos e programas estaduais ás diretrizes referidas no "caput" deste artigo.
 
-**Artigo 5º -** As funções públicas de interesse comum serão definidas pelo Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista, entre os seguintes campos funcionais:<br>
-**I -** planejamento e uso do solo;<br>
-**II -** transporte e sistema viário regional;<br>
-**III -** habitação;<br>
-**IV -** saneamento básico;<br>
-**V -** meio ambiente;<br>
-**VI -** desenvolvimento econômico; e<br>
+**Artigo 5º -** As funções públicas de interesse comum serão definidas pelo Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista, entre os seguintes campos funcionais:
+
+**I -** planejamento e uso do solo;
+
+**II -** transporte e sistema viário regional;
+
+**III -** habitação;
+
+**IV -** saneamento básico;
+
+**V -** meio ambiente;
+
+**VI -** desenvolvimento econômico; e
+
 **VII -** atendimento social.
 
 **§ 1º -** O planejamento do serviço referido no inciso II será da competência do Estado e dos Municípios integrantes da Região Metropolitana da Baixada Santista.
@@ -45,9 +54,12 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 **§ 3º -** Entende-se, para os efeitos desta lei complementar, que o campo funcional "VII - atendimento social", engloba, entre outras, as funções saúde e educação.
 
-**Artigo 6º -** A participação popular no Conselho de Desenvolvimento atenderá aos princípios estabelecidos no artigo 14 e parágrafo único da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941).<br>
-**Artigo 7º -** O Conselho de Desenvolvimento terá, além das fixadas no artigo 13 da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941), as seguintes atribuições:<br>
-**I -** propor critérios de compensação financeira aos Municípios Metropolitanos que suportem ônus decorrentes da execução de funções ou serviços públicos metropolitanos;<br>
+**Artigo 6º -** A participação popular no Conselho de Desenvolvimento atenderá aos princípios estabelecidos no artigo 14 e parágrafo único da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941).
+
+**Artigo 7º -** O Conselho de Desenvolvimento terá, além das fixadas no artigo 13 da [Lei Complementar nº 760, de 1º de agosto de 1994](https://www.al.sp.gov.br/norma/12941), as seguintes atribuições:
+
+**I -** propor critérios de compensação financeira aos Municípios Metropolitanos que suportem ônus decorrentes da execução de funções ou serviços públicos metropolitanos;
+
 **II -** vetado.
 
 **§ 1º -** O Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista compatibilizará suas deliberações com as diretrizes fixadas pela União e pelo Estado para o desenvolvimento da Região.
@@ -86,30 +98,48 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 **§ 4º -** Deverão ser mantidas atualizadas as informações estatísticas e de qualquer natureza, necessárias para o planejamento metropolitano, especialmente, as de natureza físico-territorial, demográfica, econômica, financeira, urbanística, social, cultural, ambiental e outras de relevante interesse público, bem como promover anualmente a sua ampla divulgação.
 
-**Artigo 11 -** Fica o Poder Executivo autorizado a constituir o Fundo de Desenvolvimento Metropolitano da Baixada Santista - FUNDO, com a finalidade de dar suporte financeiro ao planejamento integrado e às ações conjuntas dele decorrentes, no que se refere às funções públicas de interesse comum entre o Estado e os Municípios integrantes da Região.<br>
+**Artigo 11 -** Fica o Poder Executivo autorizado a constituir o Fundo de Desenvolvimento Metropolitano da Baixada Santista - FUNDO, com a finalidade de dar suporte financeiro ao planejamento integrado e às ações conjuntas dele decorrentes, no que se refere às funções públicas de interesse comum entre o Estado e os Municípios integrantes da Região.
+
 **Artigo 12 -** Vetado.
 
 **§ 1º -** A aplicação dos recursos do Fundo será supervisionada por um Conselho de Orientação composto por 6 (seis) membros, sendo 4 (quatro) do Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista, e 2 (dois) Diretores da Autarquia referida no artigo 10 desta lei complementar, ou da Secretaria Executiva enquanto aquela não for criada, indicados, respectivamente, por sua Diretoria.
 
 **§ 2º -** O Fundo será administrado, quanto ao aspecto financeiro, por instituição financeira oficial do Estado.
 
-**Artigo 13 -** A área de atuação do FUNDO abrangerá os Municípios que compõem a Região Metropolitana.<br>
-**Artigo 14 -** São objetivos do FUNDO:<br>
-**I -** financiar e investir em programas e projetos de interesse da área;<br>
-**II -** contribuir com recursos técnicos e financeiros para a melhoria dos serviços públicos municipais;<br>
-**III -** contribuir com recursos técnicos e financeiros para a melhoria da qualidade de vida e para o desenvolvimento sócio-econômico da Região; e<br>
-**IV -** contribuir com recursos técnicos e financeiros para a redução das desigualdades sociais da Região.<br>
-**Artigo 15 -** Constituirão recursos do FUNDO:<br>
-**I -** recursos do Estado e dos Municípios a ele destinados por disposição legal;<br>
-**II -** transferências da União, destinadas á execução de planos e programas de interesse comum entre a Região Metropolitana da Baixada Santista e a União;<br>
-**III -** empréstimos nacionais e internacionais e recursos provenientes da ajuda e cooperação internacional e de acordos intergovernamentais;<br>
-**IV -** retorno das operações de crédito contratadas com órgãos e entidades da administração direta e indireta do Estado e dos Municípios e concessionárias de serviços públicos;<br>
-**V -** produto de operações de crédito e rendas provenientes da aplicação de seus recursos;<br>
-**VI -** resultado de aplicação de multas cobradas de infratores cuja competência tenha sido delegacia ou transferida para a Região Metropolitana da Baixada Santista;<br>
-**VII -** recursos decorrentes do rateio de custos referentes a obras de interesse comum; e<br>
-**VIII -** doações de pessoas físicas ou jurídicas, públicas ou privadas, nacionais, estrangeiras ou multinacionais e outros recursos eventuais.<br>
-**Artigo 16 -** Para atender as despesas decorrentes da aplicação desta lei complementar, fica o Poder Executivo autorizado a:<br>
-**I -** abrir créditos especiais até o limite de R$ 100,00 (cem reais);<br>
+**Artigo 13 -** A área de atuação do FUNDO abrangerá os Municípios que compõem a Região Metropolitana.
+
+**Artigo 14 -** São objetivos do FUNDO:
+
+**I -** financiar e investir em programas e projetos de interesse da área;
+
+**II -** contribuir com recursos técnicos e financeiros para a melhoria dos serviços públicos municipais;
+
+**III -** contribuir com recursos técnicos e financeiros para a melhoria da qualidade de vida e para o desenvolvimento sócio-econômico da Região; e
+
+**IV -** contribuir com recursos técnicos e financeiros para a redução das desigualdades sociais da Região.
+
+**Artigo 15 -** Constituirão recursos do FUNDO:
+
+**I -** recursos do Estado e dos Municípios a ele destinados por disposição legal;
+
+**II -** transferências da União, destinadas á execução de planos e programas de interesse comum entre a Região Metropolitana da Baixada Santista e a União;
+
+**III -** empréstimos nacionais e internacionais e recursos provenientes da ajuda e cooperação internacional e de acordos intergovernamentais;
+
+**IV -** retorno das operações de crédito contratadas com órgãos e entidades da administração direta e indireta do Estado e dos Municípios e concessionárias de serviços públicos;
+
+**V -** produto de operações de crédito e rendas provenientes da aplicação de seus recursos;
+
+**VI -** resultado de aplicação de multas cobradas de infratores cuja competência tenha sido delegacia ou transferida para a Região Metropolitana da Baixada Santista;
+
+**VII -** recursos decorrentes do rateio de custos referentes a obras de interesse comum; e
+
+**VIII -** doações de pessoas físicas ou jurídicas, públicas ou privadas, nacionais, estrangeiras ou multinacionais e outros recursos eventuais.
+
+**Artigo 16 -** Para atender as despesas decorrentes da aplicação desta lei complementar, fica o Poder Executivo autorizado a:
+
+**I -** abrir créditos especiais até o limite de R$ 100,00 (cem reais);
+
 **II -** proceder à incorporação no orçamento vigente, das classificações orçamentárias incluídas pelos créditos autorizados no inciso I, promovendo, se necessário, a abertura de créditos adicionais suplementares.
 
 **Parágrafo único -** Os valores dos créditos adicionais a que se refere este artigo serão cobertos na forma prevista no § 1º do artigo 43 da Lei federal nº 4320, de 17 de março de 1964.
@@ -118,31 +148,44 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei c
 
 #### Disposições Transitórias
 
-**Artigo 1º -** Enquanto não especificadas as funções públicas de interesse comum, pelo Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista, prevalecerão as compreendidas nos seguintes campos funcionais:<br>
-**a)** planejamento e uso do solo;<br>
-**b)** transporte e sistema viário regional;<br>
-**c)** habitação;<br>
-**d)** saneamento básico;<br>
-**e)** meio ambiente;<br>
-**f)** desenvolvimento econômico; e<br>
-**g)** atendimento social.<br>
-**Artigo 2º -** O Conselho de Orientação, referido no § 1º do artigo 12 desta lei complementar, será constituído em 30 (trinta) dias contados da data de constituição do Fundo de Desenvolvimento Metropolitano da Baixada Santista - FUNDO, e suas atribuições serão definidas em regulamento dentro de 60 (sessenta) dias, contados da publicação desta lei complementar.<br>
+**Artigo 1º -** Enquanto não especificadas as funções públicas de interesse comum, pelo Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista, prevalecerão as compreendidas nos seguintes campos funcionais:
+
+**a)** planejamento e uso do solo;
+
+**b)** transporte e sistema viário regional;
+
+**c)** habitação;
+
+**d)** saneamento básico;
+
+**e)** meio ambiente;
+
+**f)** desenvolvimento econômico; e
+
+**g)** atendimento social.
+
+**Artigo 2º -** O Conselho de Orientação, referido no § 1º do artigo 12 desta lei complementar, será constituído em 30 (trinta) dias contados da data de constituição do Fundo de Desenvolvimento Metropolitano da Baixada Santista - FUNDO, e suas atribuições serão definidas em regulamento dentro de 60 (sessenta) dias, contados da publicação desta lei complementar.
+
 **Artigo 3º -** O Conselho de Desenvolvimento da Região Metropolitana da Baixada Santista elaborará seu Regimento Interno provisório no prazo máximo de 30 (trinta) dias após sua instalação.
 
 _\- No [Mandado de Injunção nº 2276482-73.2020.8.26.0000](https://www.tjsp.jus.br/), o Tribunal de Justiça do Estado de São Paulo concedeu a ordem: "a) para que, no prazo de seis meses, supra-se a omissão legislativa contida nas Leis Complementares Estaduais nº 756/94" (leia-se: 760/94) "e 815/96; b) caso não suprida a mora legislativa: destine-se metade do número de assentos do Conselho de Desenvolvimento Regional da Baixada Santista à sociedade civil, para elaboração e aprovação do Plano Regional de Gestão Integrada de Resíduos Sólidos, tomada de decisões e fiscalização de medidas relacionadas com o referido plano; \_ proceda-se a escolha dos representantes da sociedade civil por Universidades sediadas na Baixada Santista, e por entidades, cooperativas ou associativas sediadas na Baixada Santista e constituídas há pelo menos um ano, e que tenham objeto social relacionado com a defesa do meio ambiente, da saúde ou da gestão de resíduos sólidos"._
 
-Palácio dos Bandeirantes, 30 de julho de 1996.<br>
-MÁRIO COVAS<br>
-André Franco Montoro Filho<br>
-Secretário de Economia e Planejamento<br>
-Robson Marinho<br>
-Secretário - Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
+Palácio dos Bandeirantes, 30 de julho de 1996.
+
+MÁRIO COVAS
+
+André Franco Montoro Filho
+
+Secretário de Economia e Planejamento
+
+Robson Marinho
+
+Secretário - Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 30 de julho de 1996.
 
-<br>
-
 _\- Texto retificado no [Diário Oficial do Executivo de 02/08/1996](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=19960802&Caderno=DOE-I&NumeroPagina=1) e [de 06/08/1996](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=19960806&Caderno=DOE-I&NumeroPagina=1)._
-
-<br>

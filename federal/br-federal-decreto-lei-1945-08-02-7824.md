@@ -1,5 +1,3 @@
-###DEL-007824-0-000-02-08-1945@@@
-
 DECRETO-LEI N. 7.824 – DE 2 DE AGÔSTO DE 1945
 
 Dispõe sôbre a cobrança dos direitos aduaneiros a que se refere o § 2º do art. 1º do Decreto-lei n. 6.462, de 2 de maio de 1944

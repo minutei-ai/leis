@@ -1,5 +1,3 @@
-###DEC-047194-0-000-06-11-1959@@@0
-
 DECRETO Nº 47.194, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza a Cidadã brasileira Luiza Gomes Antunes a lavrar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-064430-0-000-30-04-1969@@@
-
 DECRETO nº 64.430, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Instituto Feminino de Educação e Assistência Social - I.F.E.A.S., com sede em Americana, Estado de São Paulo.

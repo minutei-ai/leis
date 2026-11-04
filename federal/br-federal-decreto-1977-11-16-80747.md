@@ -1,5 +1,3 @@
-###DEC-080747-0-000-16-11-1977@@@
-
 Decreto nº 80.747, de 16 de novembro de 1977.
 
 Declara sem efeito o Decreto nº 16.019, de 06 de julho de 1944, que autorizou a Diatomita Industrial Ltda. a lavrar diatomita no Município de Fortaleza, Estado do Ceará.

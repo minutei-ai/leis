@@ -1,5 +1,3 @@
-###DEC-055560-0-000-15-01-1965@@@
-
 DECRETO Nº 55.560, DE 15 DE JANEIRO DE 1965.
 
 Modifica a redação do Decreto número 53.913, de 11 de maio de 1964, que dispõe sôbre estoques de trigo e seus derivados e quantidades em trânsito de trigo em grão, importando, e dá outras providências.

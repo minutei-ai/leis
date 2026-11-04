@@ -60,5 +60,3 @@ Secretária de Estado da Economia
 CUMPRA-SE e PUBLIQUE-SE.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em GOIÂNIA, aos 29 dias do mês de setembro de 2023.
-
-<br>

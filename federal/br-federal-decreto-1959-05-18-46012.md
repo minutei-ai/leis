@@ -1,5 +1,3 @@
-###DEC-046012-0-000-18-05-1959@@@
-
 DECRETO Nº 46.012, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Geraldo Spyer Prates a pesquisar minério de ferro no município de Betim, Estado de Minas Gerais.

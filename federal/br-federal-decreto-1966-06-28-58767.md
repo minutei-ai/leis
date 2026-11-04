@@ -1,5 +1,3 @@
-###DEC-058767-0-000-28-06-1966@@@
-
 Decreto nº 58.767, de 28 de junho de 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Alvorada companhia Nacional de Seguros Gerais.

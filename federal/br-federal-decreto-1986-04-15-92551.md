@@ -1,5 +1,3 @@
-###DEC-092551-0-000-15-04-1986@@@
-
 DECRETO Nº 92.551, DE 15 DE ABRIL DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Itacolomi da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

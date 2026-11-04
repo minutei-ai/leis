@@ -1,5 +1,3 @@
-###DEC-051939-B-000-26-04-1963@@@
-
 Decreto nº 51.939-B, de 26 de abril de 1963.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, o terreno de marinha, que menciona, no Estado do Rio de Janeiro.

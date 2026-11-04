@@ -1,5 +1,3 @@
-###DEC-051036-0-000-25-07-1961@@@
-
 DECRETO Nº 51.036, DE 25 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Minas Gerais as águas do rio Jataí Grande.

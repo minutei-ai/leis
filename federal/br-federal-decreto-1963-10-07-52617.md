@@ -1,5 +1,3 @@
-###DEC-052617-0-000-07-10-1963@@@
-
 DECRETO Nº 52.617, DE 7 DE OUTUBRO DE 1963.
 
 Aprova o Regimento do Conselho Federal de Educação.
@@ -259,8 +257,6 @@ Art. 33. Enquanto não estiver criado o quadro de funcionários do Conselho perm
 Art. 34. Êste Regimento entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Paulo de Tarso
-
-###DEC-052617-0-000-07-10-1963@@@RET01+++
 
 DECRETO Nº 52.617, DE 7 DE OUTUBRO DE 1963.
 

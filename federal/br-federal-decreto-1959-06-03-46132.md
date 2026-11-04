@@ -1,5 +1,3 @@
-###DEC-046132-0-000-03-06-1959@@@
-
 Decreto nº 46.132, de 3 de junho de 1959.
 
 Concede o abono provisório aos servidores do Instituto Nacional de Imigração e Colonização.

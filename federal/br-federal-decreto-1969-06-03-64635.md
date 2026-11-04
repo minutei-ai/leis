@@ -1,5 +1,3 @@
-###DEC-064635-0-000-03-06-1969@@@
-
 DECRETO Nº 64.635, DE 3 DE JUNHO DE 1969.
 
 Dispõe sôbre o aproveitamento de Professor no Quadro de Pessoal da então Universidade do Pará e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079822-0-000-17-06-1977@@@
-
 DECRETO Nº 79.822, DE 17 DE JUNHO DE 1977.
 
 Regulamenta a Lei nº 5.766, de 20 de dezembro de 1971, que criou o Conselho Federal e os Conselhos Regionais de Psicologia e dá outras providências.

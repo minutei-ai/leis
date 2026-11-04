@@ -1,5 +1,3 @@
-###DEC-082542-0-000-01-11-1978@@@
-
 Decreto nº 82.542, de 01 de novembro de 1978.
 
 Concede reconhecimento aos cursos de Letras e de Estudos Socais da Faculdade de Ciências e Educação de Criciuma, com sede em Criciuma, Estado de Santa Catarina.

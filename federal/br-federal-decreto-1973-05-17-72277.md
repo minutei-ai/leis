@@ -1,5 +1,3 @@
-###DEC-072277-0-000-17-05-1973@@@
-
 DECRETO Nº 72.277, DE 17 DE MAIO DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha,

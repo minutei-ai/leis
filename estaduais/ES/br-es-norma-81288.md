@@ -59,5 +59,3 @@ DARY PAGUNG
 CORONEL ALEXANDRE QUINTINO
 
 2º Secretário
-
-Este texto não substitui o publicado no D.O. de 26.10.2022.

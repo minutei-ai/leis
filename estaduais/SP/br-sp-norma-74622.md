@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74622)
-
 # LEI Nº 12.768, DE 21 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 119/2007, do Deputado Orlando Morando - PSDB)

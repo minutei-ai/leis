@@ -1,7 +1,3 @@
-1
-
-###MPV-001493-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.493, DE 7 DE JUNHO DE 1996.
 
 Dispõe sobre os fundos que especifica e dá outras providências.

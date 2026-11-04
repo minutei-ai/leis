@@ -1,5 +1,3 @@
-###DEC-061463-0-000-04-10-1967@@@
-
 DECRETO Nº 61.463, DE 4 DE OUTUBRO DE 1967.
 
 Transfere do Departamento de Águas e Energia do Estado de Pernambuco para a Companhia de Eletricidade de Pernambuco as concessões para distribuir energia elétrica nos municípios de Santa Cruz do Capibaribe e São José do Belmonte, Estado de Pernambuco.

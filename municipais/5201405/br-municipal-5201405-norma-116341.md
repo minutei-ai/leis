@@ -20,8 +20,10 @@ Art. 3º Esta lei entrará em vigor 90 (noventa) dias após a data de sua public
 
 Gabinete do Município de Aparecida Goiânia-GO, 14 de março de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

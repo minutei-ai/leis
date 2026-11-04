@@ -1,5 +1,3 @@
-###DEC-058152-0-000-04-04-1966@@@
-
 DECRETO Nº 58.152, DE 4 DE ABRIL DE 1966.
 
 Autoriza o Cidadão Brasileiro Antônio Preto de Godoy a lavrar feldspato e quartzo, no município de Socorro, Estado de São Paulo.

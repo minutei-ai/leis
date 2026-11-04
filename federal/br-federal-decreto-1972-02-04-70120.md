@@ -1,5 +1,3 @@
-###DEC-070120-0-000-04-02-1972@@@
-
 Decreto Nº 70.120, DE 4 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública o Instituto Adventista de Ensino, com sede na Capital do Estado de São Paulo.

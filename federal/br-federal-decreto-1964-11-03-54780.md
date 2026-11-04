@@ -1,5 +1,3 @@
-###DEC-054780-0-000-03-11-1964@@@
-
 DECRETO Nº 54.780, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Sérgio Marinho Nunes a pesquisar ocre e minério de ferro no município de Santa Bárbara, estado de Minas Gerais.

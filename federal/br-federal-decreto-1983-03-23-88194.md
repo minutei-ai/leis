@@ -1,5 +1,3 @@
-###DEC-088194-0-000-23-03-1983@@@
-
 Decreto nº 88.194, de 23 dE março dE 1983
 
 Homologa a demarcação da área indígena que menciona, no Estado de Mato Grosso.

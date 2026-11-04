@@ -1,5 +1,3 @@
-###DEC-079792-0-000-07-06-1977@@@
-
 DECRETO Nº 79.792, DE 7 DE JUNHO DE 1977
 
 Fixa o preço mínimo único básico para o Alho Curado da Safra 1977-78, produzido e/ou comercializado em todo o Território Nacional.

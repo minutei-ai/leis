@@ -1,5 +1,3 @@
-###DEC-054098-0-000-05-08-1964@@@.
-
 DECRETO Nº 54.098, DE 5 DE AGÔSTO DE 1964.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Três Lagoas (MT).

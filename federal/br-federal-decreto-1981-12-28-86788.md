@@ -1,5 +1,3 @@
-###DEC-086788-0-000-28-12-1981@@@
-
 Decreto nº 86.788, de 28 de dezembro de 1981.
 
 Declara de utilização pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

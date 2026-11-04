@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59314)
-
 # LEI Nº 12.148, DE 12 DE DEZEMBRO DE 2005
 
 ## (PL 908/2003 - Paulo Sergio)

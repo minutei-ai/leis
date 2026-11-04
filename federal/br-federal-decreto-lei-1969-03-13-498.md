@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7706a9c4-d3a8-414b-bcaa-31321aeb5c2a/texto#nowhere)
 
-###DEL-000498-0-000-13-03-1969@@@
-
 DECRETO-LEI Nº 498, DE 13 DE MARÇO DE 1969
 
 Isenta de impôsto a importação de materiais destinado à construção de navios cargueiros.

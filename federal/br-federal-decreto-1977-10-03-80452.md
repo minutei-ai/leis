@@ -1,5 +1,3 @@
-###DEC-080452-0-000-03-10-1977@@@
-
 DECRETO Nº 80.452, DE 3 DE OUTUBRO DE 1977
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de São Luís, Estado do Maranhão.

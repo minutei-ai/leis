@@ -1,7 +1,3 @@
-1
-
-###DEC-097871-0-000-26-06-1989@@@
-
 DECRETO Nº 97.871, DE 26 DE JUNHO DE 1989
 
 Altera o Decreto nº 92.607, de 30 de abril de 1986, que dispõe sobre as áreas de jurisdição dos Distritos Navais e do Comando Naval de Brasília.

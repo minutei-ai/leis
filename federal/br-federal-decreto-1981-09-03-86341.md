@@ -1,5 +1,3 @@
-###DEC-086341-0-000-03-09-1981@@@
-
 Decreto nº 86.341 de 03 de setembro de 1981
 
 Cassa a concessão outorgada à RÁDIO ATALAIA LTDA., para estabelecer, na cidade de Óbidos, Estado do Pará, uma estação de radiodifusão sonora em onda tropical.

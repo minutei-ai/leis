@@ -1,5 +1,3 @@
-###DEC-045593-0-000-23-03-1959@@@
-
 DECRETO Nº 45.593, DE 23 DE MARÇO DE 1959.
 
 Concede à Companhia Petrolífera Brasileira autorização para funcionar.

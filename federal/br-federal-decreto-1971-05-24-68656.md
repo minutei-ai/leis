@@ -1,5 +1,3 @@
-###DEC-068656-0-000-24-05-1971@@@
-
 Decreto nº 68.656 - de 24 de maio de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão ou desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, áreas de terra e benfeitorias situadas no município de São Mateus do Sul, Estado do Paraná.

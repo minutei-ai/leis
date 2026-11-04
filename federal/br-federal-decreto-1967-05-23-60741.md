@@ -1,5 +1,3 @@
-###DEC-060741-0-000-23-05-1967@@@
-
 DECRETO Nº 60.741, DE 23 DE MAIO DE 1967.
 
 Abre ao Ministério do Planejamento e Coordenação Geral, o crédito especial de NCr$5.000.000,00 (cinco milhões de cruzeiros novos), para o fim que especifica.

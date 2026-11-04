@@ -1,5 +1,3 @@
-###DEC-065402-0-000-13-10-1969@@@
-
 DECRETO Nº 65.402 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública o Instituto dos Meninos Cantores de Petropólis, com sede em Petrópolis, Estado do Rio de Janeiro.

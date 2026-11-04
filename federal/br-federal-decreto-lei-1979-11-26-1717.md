@@ -1,5 +1,3 @@
-###DEL-001717-0-000-26-11-1979@@@
-
 # Decreto-lei nº 1.717, de 26 de novembro de 1979
 
 Acrescenta os itens V, VI e VII ao § 1º do artigo 1º do Decreto-lei nº 1.678, de 22 de fevereiro de 1979, e dá outras providências.

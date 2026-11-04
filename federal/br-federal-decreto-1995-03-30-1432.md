@@ -1,7 +1,3 @@
-1
-
-###DEC-001432-0-000-30-03-1995@@@
-
 DECRETO Nº 1.432, DE 30 DE MARÇO DE 1995
 
 Dispõe sobre a alteração de subordinação de Grande Comando no Ministério do Exército e dá outras providências.

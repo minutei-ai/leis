@@ -8,16 +8,20 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Fica instituído, no âmbito da Secretaria de Estado da Educação, o Auxílio Aprimoramento Continuado, no valor mensal de R$ 500,00 (quinhentos reais) por beneficiário.
 
-§ 1º O Auxílio Aprimoramento Continuado destina-se à cobertura de despesas com aprimoramento educacional e profissional continuado, com cursos presenciais e/ou a distância, bem como graduação e pós-graduação _lato_ e _stricto sensu_ em áreas do conhecimento relacionadas à atuação profissional do servidor (cargo e/ou função).<br>
+§ 1º O Auxílio Aprimoramento Continuado destina-se à cobertura de despesas com aprimoramento educacional e profissional continuado, com cursos presenciais e/ou a distância, bem como graduação e pós-graduação _lato_ e _stricto sensu_ em áreas do conhecimento relacionadas à atuação profissional do servidor (cargo e/ou função).
+
 \- [Acrescido pelo Decreto nº 10.182, de 15-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106454/decreto-10182)
 
-~~Parágrafo único. O Auxílio Aprimoramento Continuado destina-se à cobertura de despesas para o aprimoramento educacional e profissional continuado, com livros, manuais, revistas, cursos, seminários, palestras, _workshops_, simpósios, congressos e materiais para qualificação de toda natureza, tem caráter indenizatório e não se incorpora, em hipótese nenhuma, à remuneração mensal do beneficiário, caracteriza-se como rendimento não tributável e sem incidência de contribuição previdenciária, além de não ser computado para efeito de 13º (décimo terceiro) salário nem para a base de cálculo de margem consignável.~~<br>
+~~Parágrafo único. O Auxílio Aprimoramento Continuado destina-se à cobertura de despesas para o aprimoramento educacional e profissional continuado, com livros, manuais, revistas, cursos, seminários, palestras, _workshops_, simpósios, congressos e materiais para qualificação de toda natureza, tem caráter indenizatório e não se incorpora, em hipótese nenhuma, à remuneração mensal do beneficiário, caracteriza-se como rendimento não tributável e sem incidência de contribuição previdenciária, além de não ser computado para efeito de 13º (décimo terceiro) salário nem para a base de cálculo de margem consignável.~~
+
 \- [Revogado pelo Decreto nº 10.182, de 15-12-2022, art. 2](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106454/decreto-10182)[º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106454/decreto-10182)
 
-§ 2º Os beneficiados com o Auxílio Aprimoramento Continuado deverão realizar, semestralmente, cursos de aprimoramento continuado com carga horária mínima de 20 (vinte) horas para servidores administrativos e de 40 (quarenta) horas para docentes.<br>
+§ 2º Os beneficiados com o Auxílio Aprimoramento Continuado deverão realizar, semestralmente, cursos de aprimoramento continuado com carga horária mínima de 20 (vinte) horas para servidores administrativos e de 40 (quarenta) horas para docentes.
+
 \- [Acrescido pelo Decreto nº 10.182, de 15-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106454/decreto-10182).
 
-§ 3º O Auxílio Aprimoramento Continuado tem caráter indenizatório e não se incorpora, em qualquer hipótese, à remuneração mensal do servidor beneficiado, caracteriza-se como rendimento não tributável e sem incidência de contribuição previdenciária, também não é computado para efeito de 13º salário nem para a base de cálculo de margem consignável.<br>
+§ 3º O Auxílio Aprimoramento Continuado tem caráter indenizatório e não se incorpora, em qualquer hipótese, à remuneração mensal do servidor beneficiado, caracteriza-se como rendimento não tributável e sem incidência de contribuição previdenciária, também não é computado para efeito de 13º salário nem para a base de cálculo de margem consignável.
+
 \- [Acrescido pelo Decreto nº 10.182, de 15-12-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106454/decreto-10182).
 
 Art. 2º Serão beneficiários do Auxílio Aprimoramento Continuado os servidores efetivos, inclusive aqueles que percebem sob o regime de subsídio, comissionados, empregados públicos e contratados temporários, todos em efetivo exercício na Secretaria de Estado da Educação e remunerados em sua folha de pagamento.
@@ -35,8 +39,6 @@ Art. 6º As despesas decorrentes deste Decreto serão custeadas à conta do Orç
 Art. 7º Este Decreto entra em vigor a partir de 1º de outubro de 2021.
 
 Goiânia, 5 de outubro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

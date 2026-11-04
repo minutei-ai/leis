@@ -114,8 +114,10 @@ Art. 25 Esta Lei entrará na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 21 dias do mês de fevereiro do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

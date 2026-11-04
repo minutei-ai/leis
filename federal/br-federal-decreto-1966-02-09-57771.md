@@ -1,5 +1,3 @@
-###DEC-057771-0-000-09-02-1966@@@
-
 DECRETO Nº 57.771, DE 9 DE FEVEREIRO DE 1966.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional a operação de crédito que menciona.

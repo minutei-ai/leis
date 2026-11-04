@@ -1,5 +1,3 @@
-###DEC-004055-0-000-14-12-2001@@@
-
 DECRETO Nº 4.055, DE 14 DE DEZEMBRO DE 2001.
 
 Publica o Plano Plurianual 2000-2003 vigente.

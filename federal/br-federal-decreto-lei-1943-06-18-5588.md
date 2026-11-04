@@ -1,5 +1,3 @@
-###DEL-005588-0-000-18-06-1943@@@
-
 DECRETO‑LEI N. 5.588 – DE 18 DE JUNHO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial  de Cr$  1.000.OOO,OO para pagamento de subvenção à Comissão Executiva da Pesca, e dá outras providencias
@@ -39,8 +37,6 @@ S/c. n. 13 ‑ Móveis e artigos de ornamentação, etc.
 19‑Departamento Nacional da Produção Animal
 
 02 ‑ Divisão de Caça e Pesca ......................................................................... 164.100,00
-
-<br>
 
 Consignação ll ‑ Material de Consumo
 

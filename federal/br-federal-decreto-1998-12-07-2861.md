@@ -1,5 +1,3 @@
-###DEC-002861-0-000-07-12-1998@@@
-
 DECRETO Nº 2.861, DE 7 DE DEZEMBRO DE 1998.
 
 Promulga o Protocolo Adicional nº 4, assinado em Montreal, em 25 de setembro de 1975, que modifica a Convenção para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, concluída em Varsóvia em 12 de outubro de 1929, e emendada pelo Protocolo celebrado na Haia, em 28 de setembro de 1955, com a reserva constante do Artigo XXI, parágrafo 1º alínea “a”, do referido Protocolo.

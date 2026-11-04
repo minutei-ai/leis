@@ -8,33 +8,38 @@ Publicada no Diário Oficial nº 218, de 13 de novembro de 1979. [Revogada pela 
 
 Situação no cadastro de origem: Revogada
 
-<del>O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL</del><br>
-<del>Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:</del><br>
-<br>
-<del>Art. 1º - Os exames supletivos previstos na Lei nº 5.692,de 11 de agosto de 1971, que fixa Diretrizes e Bases para o ensino de 1º e 2º graus, serão realizados periodicamente, nos meses de abril e outubro de cada exercício civil.</del><br>
-<br>
-<del>Art. 2º - O Conselho Estadual de Educação ao fixar a estrutura, a duração e o regime escolar que se ajustem as suas finalidades próprias e ao tipo especial de aluno a que se destine cada curso, determinará o calendário dos respectivos exames.</del><br>
-<br>
-<del>Art. 3º - As inscrições aos exames supletivos terão início com o edital de conhecimento dos interessados pelo prazo de trinta dias.</del><br>
-<br>
-<del>Parágrafo único - A realização da primeira prova do calendário de exames supletivos se dará quinze dias após o encerramento das inscrições de que trata este artigo.</del><br>
-<br>
-<del>Art. 4º - Os resultados dos exames supletivos serão publicados no Diário Oficial, quinze dias após a realização da última prova.</del><br>
-<br>
-<del>Art. 5º - A taxa única de inscrição por disciplina para os exames supletivos de 1º e 2º graus correspondem ao sub-item 59.4. da Tabela F em vigor nesta data, anexa ao Código Tributário Estadual, específica ao lançamento da taxa incidente em atos relativos a</del><br>
-<del>educação.</del><br>
-<br>
-<del>Art. 6º - O Conselho Estadual de Educação baixará as normas reguladoras dos exames supletivos constantes desta lei, no prazo de quinze dias.</del><br>
-<br>
-<del>Art. 7º. - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.</del><br>
-<br>
-<del>Campo Grande, 13 de novembro de 1979.</del><br>
-<br>
-<del>MARCELO MIRANDA SOARES</del><br>
-<del>Governador</del><br>
-<br>
-<del>JOÃO LEITE SCHIMIDT</del><br>
-<del>Secretário de Estado para Asuntos da Casa Civil</del><br>
-<br>
-<del>HERCULES MAYMOME</del><br>
-<del>Secretário de Estado de Educação</del>
+~~O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL~~
+
+~~Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:~~
+
+~~Art. 1º - Os exames supletivos previstos na Lei nº 5.692,de 11 de agosto de 1971, que fixa Diretrizes e Bases para o ensino de 1º e 2º graus, serão realizados periodicamente, nos meses de abril e outubro de cada exercício civil.~~
+
+~~Art. 2º - O Conselho Estadual de Educação ao fixar a estrutura, a duração e o regime escolar que se ajustem as suas finalidades próprias e ao tipo especial de aluno a que se destine cada curso, determinará o calendário dos respectivos exames.~~
+
+~~Art. 3º - As inscrições aos exames supletivos terão início com o edital de conhecimento dos interessados pelo prazo de trinta dias.~~
+
+~~Parágrafo único - A realização da primeira prova do calendário de exames supletivos se dará quinze dias após o encerramento das inscrições de que trata este artigo.~~
+
+~~Art. 4º - Os resultados dos exames supletivos serão publicados no Diário Oficial, quinze dias após a realização da última prova.~~
+
+~~Art. 5º - A taxa única de inscrição por disciplina para os exames supletivos de 1º e 2º graus correspondem ao sub-item 59.4. da Tabela F em vigor nesta data, anexa ao Código Tributário Estadual, específica ao lançamento da taxa incidente em atos relativos a~~
+
+~~educação.~~
+
+~~Art. 6º - O Conselho Estadual de Educação baixará as normas reguladoras dos exames supletivos constantes desta lei, no prazo de quinze dias.~~
+
+~~Art. 7º. - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.~~
+
+~~Campo Grande, 13 de novembro de 1979.~~
+
+~~MARCELO MIRANDA SOARES~~
+
+~~Governador~~
+
+~~JOÃO LEITE SCHIMIDT~~
+
+~~Secretário de Estado para Asuntos da Casa Civil~~
+
+~~HERCULES MAYMOME~~
+
+~~Secretário de Estado de Educação~~

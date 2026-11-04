@@ -1,18 +1,16 @@
-###DEC-040845-0-000-28-01-1957@@@
+**DECRETO Nº 40.845, DE 28 DE JANEIRO DE 1957.**
 
-<strong>DECRETO Nº 40.845, DE 28 DE JANEIRO DE 1957.</strong>
+***Dispõe sôbre as relações entre o Conselho Nacional do Petróleo e a Petróleo Brasileiro S.A. -***  ***nPetrobrás, e dá outras providências.***
 
-<em><strong>Dispõe sôbre as relações entre o Conselho Nacional do Petróleo e a Petróleo Brasileiro S.A. -</strong></em>  <em><strong>nPetrobrás, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição e tendo em vista o art. 51 da Lei nº 2.004, de 3 de outubro de 1953,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição e tendo em vista o art. 51 da Lei nº 2.004, de 3 de outubro de 1953,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A União exercerá o monopólio instituído no art. 1º da Lei nº 2.004, de 3 de outubro de 1953, por intermédio do Conselho Nacional do Petróleo, como órgão de orientação e fiscalização, e da Petróleo Brasileiro S.A. - Petrobrás, e suas subsidiárias, como órgãos de execução.
+**Art**. 1º A União exercerá o monopólio instituído no art. 1º da Lei nº 2.004, de 3 de outubro de 1953, por intermédio do Conselho Nacional do Petróleo, como órgão de orientação e fiscalização, e da Petróleo Brasileiro S.A. - Petrobrás, e suas subsidiárias, como órgãos de execução.
 
 Parágrafo único. As atribuições do Conselho Nacional do Petróleo, previstas no art. 3º e seus parágrafos da Lei nº 2.004, de 3 de outubro de 1953, serão desempenhadas na forma de seu Regimento, observado o disposto no art. 50 da mencionada Lei.
 
-<strong>Art</strong>. 2º A Petrobrás apresentará anualmente ao Conselho Nacional do Petróleo, até 30 de setembro, o plano de suas atividades futuras, destacando, especialmente, os trabalhos a serem executados no ano seguinte.
+**Art**. 2º A Petrobrás apresentará anualmente ao Conselho Nacional do Petróleo, até 30 de setembro, o plano de suas atividades futuras, destacando, especialmente, os trabalhos a serem executados no ano seguinte.
 
 § 1º O Plano deverá conter:
 
@@ -72,11 +70,11 @@ VII - quanto à formação do pessoal técnico necessário aos seus serviços, o
 
 § 1º preparação, treinamento e especialização de técnicos nacionais para os trabalhos de geologia, geofísica, sondagem, produção e refinação.
 
-§ 2º A aprovação do plano, de que trata o presente artigo, importará na autorização prevista em lei para a sua execução, exceto no que concerne: A) à instalação, ampliação ou modificação de refinarias (inciso III, letra <em>c</em>) ou de oleodutos (inciso IV, letra <em>a</em>); B) à localização de tanques destinados ao armazenamento de petróleo seus derivados, e de gases raros (inciso III, letra <em>d</em>), bem como C) à importação e exportação dos citados produtos (inciso III, letra <em>e</em>), operações essas que dependem, em cada caso de autorização do Conselho Nacional do Petróleo.
+§ 2º A aprovação do plano, de que trata o presente artigo, importará na autorização prevista em lei para a sua execução, exceto no que concerne: A) à instalação, ampliação ou modificação de refinarias (inciso III, letra *c*) ou de oleodutos (inciso IV, letra *a*); B) à localização de tanques destinados ao armazenamento de petróleo seus derivados, e de gases raros (inciso III, letra *d*), bem como C) à importação e exportação dos citados produtos (inciso III, letra *e*), operações essas que dependem, em cada caso de autorização do Conselho Nacional do Petróleo.
 
-<strong>Art</strong>. 3º No fim de cada semestre, a Petrobrás apresentará relatório discriminado sôbre o desenvolvimento das atividades, quer de expansão, quer de rotina, em confronto com o programa estabelecido, o qual conterá todos os dados técnicos disponíveis.
+**Art**. 3º No fim de cada semestre, a Petrobrás apresentará relatório discriminado sôbre o desenvolvimento das atividades, quer de expansão, quer de rotina, em confronto com o programa estabelecido, o qual conterá todos os dados técnicos disponíveis.
 
-<strong>Art</strong>. 4º A fim de habilitar o Conselho Nacional do Petróleo a desempenhar a função de superintender as medidas concernentes ao abastecimento nacional de petróleo, que lhe foi cometida na legislação anterior e ratificada na Lei nº 2.004, de 3 de outubro de 1953 (arts. 3º e 4º), ficam sujeitas à deliberação final do Conselho:
+**Art**. 4º A fim de habilitar o Conselho Nacional do Petróleo a desempenhar a função de superintender as medidas concernentes ao abastecimento nacional de petróleo, que lhe foi cometida na legislação anterior e ratificada na Lei nº 2.004, de 3 de outubro de 1953 (arts. 3º e 4º), ficam sujeitas à deliberação final do Conselho:
 
 I - a localização e capacidade das refinarias;
 
@@ -90,7 +88,7 @@ V - as quotas a serem entregues às empresas distribuidoras.
 
 Parágrafo único. A fim de assegurar o adequado abastecimento das bases litorâneas de provimento com derivados do petróleo de produção nacional, o Conselho Nacional do Petróleo e a Petrobrás promoverão, articuladamente, nos respectivos setores de ação, a melhor utilização e movimentação da Frota Nacional de Petroleiros.
 
-<strong>Art</strong>. 5º A Petrobrás, visando a manter o Conselho Nacional do Petróleo permanente a par de suas atividades, enviar-lhe-á, com regularidade, os seguintes elementos:
+**Art**. 5º A Petrobrás, visando a manter o Conselho Nacional do Petróleo permanente a par de suas atividades, enviar-lhe-á, com regularidade, os seguintes elementos:
 
 I - quanto à pesquisa, semestralmente:
 
@@ -130,13 +128,13 @@ b) natureza e quantidade de derivados produzidos em cada refinaria, inclusive pr
 
 c) previsão da natureza e quantidade de derivados a serem produzidas em cada refinaria no decurso dos três meses seguintes.
 
-<strong>Art</strong>. 6º A Petrobrás dará conhecimento ao Conselho Nacional do Petróleo de todos os contratos celebrados para aquisição de petróleo, equipamentos e outros produtos necessários à operação e à expansão da indústria de refino e atividades correlatas.
+**Art**. 6º A Petrobrás dará conhecimento ao Conselho Nacional do Petróleo de todos os contratos celebrados para aquisição de petróleo, equipamentos e outros produtos necessários à operação e à expansão da indústria de refino e atividades correlatas.
 
-<strong>Art</strong>. 7º O Conselho Nacional do Petróleo fixará:
+**Art**. 7º O Conselho Nacional do Petróleo fixará:
 
 I - as tarifas dos oleodutos;
 
-II - os preços de venda, aos distribuidores, dos refinados, ex<em>\-</em>depósito refinarias;
+II - os preços de venda, aos distribuidores, dos refinados, ex*\-*depósito refinarias;
 
 III - os preços de venda do petróleo de produção nacional bem como os dos derivados, gases raros e outros hidrocarbonetos fluídos destinados ao consumo interno e à exportação;
 
@@ -146,7 +144,7 @@ V - as reservas mínimas de petróleo que deverão ser mantidas nos campos petro
 
 VI - os estudos mínimos de petróleo e derivados que deverão ser mantidas nas refinarias.
 
-<strong>Art</strong>. 8º O Conselho Nacional do Petróleo fiscalizará:
+**Art**. 8º O Conselho Nacional do Petróleo fiscalizará:
 
 I - a execução, pela Petrobrás, da pesquisa e lavra de jazidas, bem como dos projetos ou instalações destinadas à industrialização e ao comércio do petróleo, seus derivados e gases raros;
 
@@ -162,7 +160,7 @@ VI - o custo de operação dos oleodutos;
 
 VII - quaisquer outras atividades ou instalações referentes à industrialização, ao transporte, ao armazenamento, à distribuição e ao comércio do petróleo, seus derivados e gases raros.
 
-<strong>Art</strong>. 9º Para regularização do abastecimento nacional de petróleo e seus derivados poderá o Conselho Nacional do Petróleo baixar normas sôbre:
+**Art**. 9º Para regularização do abastecimento nacional de petróleo e seus derivados poderá o Conselho Nacional do Petróleo baixar normas sôbre:
 
 I - natureza e quantidade dos produtos a serem refinados;
 
@@ -178,29 +176,29 @@ VI - movimentação dos petroleiros;
 
 VII - quaiquer outras ações ou realizações e serem empreendidas visando á eficiência do abastecimento nacional de petróleo, seus derivados, outros hidrocarbonetos fluídos e gases raros.
 
-<strong>Art</strong>. 10. Para o fim estipulado no art. 27 da Lei nº 2.004, de 3 de outubro de 1953, os valores do petróleo, do gás natural e do xisto, betuminoso, lavrados pela Petrobrás, serão fixados pelo Conselho Nacional do Petróleo.
+**Art**. 10. Para o fim estipulado no art. 27 da Lei nº 2.004, de 3 de outubro de 1953, os valores do petróleo, do gás natural e do xisto, betuminoso, lavrados pela Petrobrás, serão fixados pelo Conselho Nacional do Petróleo.
 
-<strong>Art</strong>. 11. Até 31 de março de cada ano, à vista da arrecadação, no exercício anterior, da quota-parte do impôsto sôbre combustíveis destinados à formação do capital da Petrobrás, elaborará esta o plano de distribuição de ações ou obrigações da sociedade e de suas subsidiárias, que couberem à União, aos Estados, ao Distrito Federal e aos Municípios, na forma do disposto no art. 13 da Lei nº 2.004, de 3 de outubro de 1953.
+**Art**. 11. Até 31 de março de cada ano, à vista da arrecadação, no exercício anterior, da quota-parte do impôsto sôbre combustíveis destinados à formação do capital da Petrobrás, elaborará esta o plano de distribuição de ações ou obrigações da sociedade e de suas subsidiárias, que couberem à União, aos Estados, ao Distrito Federal e aos Municípios, na forma do disposto no art. 13 da Lei nº 2.004, de 3 de outubro de 1953.
 
-<strong>Art</strong>. 12. O Presidente da Petrobrás será convocado, por escrito, com o prazo mínimo de 2 dias, para comparecer às sessões do Conselho Nacional do Petróleo, sempre que êste houver de deliberar sôbre assunto de interêsse da Sociedade.
+**Art**. 12. O Presidente da Petrobrás será convocado, por escrito, com o prazo mínimo de 2 dias, para comparecer às sessões do Conselho Nacional do Petróleo, sempre que êste houver de deliberar sôbre assunto de interêsse da Sociedade.
 
-<strong>Art</strong>. 13. O veto do Presidente da Petrobrás às decisões do Conselho de Administração, ou da Diretoria Executiva, da Sociedade, será fundamentado, oposto dentro de 5 dias e remetido ao Presidente da República, no mesmo prazo, como recurso <em>ex-offício</em> devidamente instruído por intermédio do Conselho Nacional do Petróleo.
+**Art**. 13. O veto do Presidente da Petrobrás às decisões do Conselho de Administração, ou da Diretoria Executiva, da Sociedade, será fundamentado, oposto dentro de 5 dias e remetido ao Presidente da República, no mesmo prazo, como recurso *ex-offício* devidamente instruído por intermédio do Conselho Nacional do Petróleo.
 
 Parágrafo único. O veto terá efeito suspensivo e de suas razões dirá o Conselho Nacional do Petróleo, dentro de 15 dias.
 
-<strong>Art</strong>. 14. As contribuições especiais e multas, a que estão sujeitas as emprêsas titulares de concessões ou autorizações para quaisquer das atividades relacionadas com hidrocarbonetos fluídos, serão arrecadadas mediante guias fornecidas pelo Conselho Nacional do Petróleo e depositadas, em conta especial, no Banco do Brasil, para subscrição pela União de ações e obrigações da Petrobrás ou de suas subsidiárias.
+**Art**. 14. As contribuições especiais e multas, a que estão sujeitas as emprêsas titulares de concessões ou autorizações para quaisquer das atividades relacionadas com hidrocarbonetos fluídos, serão arrecadadas mediante guias fornecidas pelo Conselho Nacional do Petróleo e depositadas, em conta especial, no Banco do Brasil, para subscrição pela União de ações e obrigações da Petrobrás ou de suas subsidiárias.
 
 Parágrafo único. O Conselho Nacional do Petróleo baixará instruções, dentro de 30 dias, para tornar efetiva a arrecadação; a parte fixa das contribuições constará de guias emitidas mensalmente; a parte variável, anualmente encerrado o respectivo balanço.
 
-<strong>Art</strong>. 15. Para o fim previsto no art. 10, § 3º, da Lei nº 2.004, de 1953, as jazidas de petróleo, de rochas betuminosas e pirobetuminosas e de gases naturais, descobertas no território nacional, serão avaliadas na forma da lei que rege as sociedades por ações, submetido o laudo de avaliação à homologação do Conselho Nacional do Petróleo.
+**Art**. 15. Para o fim previsto no art. 10, § 3º, da Lei nº 2.004, de 1953, as jazidas de petróleo, de rochas betuminosas e pirobetuminosas e de gases naturais, descobertas no território nacional, serão avaliadas na forma da lei que rege as sociedades por ações, submetido o laudo de avaliação à homologação do Conselho Nacional do Petróleo.
 
-<strong>Art</strong>. 16. A reforma dos Estatutos em pontos que não dependem, na forma do art. 8º da Lei nº 2.004, de 3 de outubro de 1953, de autorização legislativa, fica subordinada à aprovação do Presidente da República, mediante decreto, ouvido o Conselho Nacional do Petróleo.
+**Art**. 16. A reforma dos Estatutos em pontos que não dependem, na forma do art. 8º da Lei nº 2.004, de 3 de outubro de 1953, de autorização legislativa, fica subordinada à aprovação do Presidente da República, mediante decreto, ouvido o Conselho Nacional do Petróleo.
 
-<strong>Art</strong>. 17. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 17. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de janeiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 

@@ -1,6 +1,10 @@
 > **LEI Nº 3.899, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui nas Escolas Públicas do Estado do Acre a realização de seminários, palestras, cursos e/ou atividades correlatas de conhecimentos sobre Direito Constitucional e do Consumidor.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui nas Escolas Públicas do Estado do Acre a realização de seminários, palestras, cursos e/ou atividades correlatas de conhecimentos sobre Direito Constitucional e do Consumidor.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

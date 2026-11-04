@@ -1,5 +1,3 @@
-###DEC-094502-0-000-19-06-1987@@@
-
 DECRETO N° 94.502, DE 19 DE JUNHO DE 1987.
 
 Outorga concessão ao SISTEMA TIMON DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Timon, Estado do Maranhão.

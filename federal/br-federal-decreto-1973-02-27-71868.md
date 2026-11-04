@@ -1,5 +1,3 @@
-###DEC-071868-0-000-27-02-1973@@@
-
 DECRETO N.º 71.868, DE 27 DE FEVEREIRO DE 1973.
 
 Concede autorização à empresa Zapata North Sea Inc. para operar no mar territorial do Brasil, fixado pelo Decreto-lei n.º 1.098, de 25 de março de 1970, a embarcação de perfuração "VINEGARROON", de nacionalidade panamenha, a serviço da Petróleo Brasileiro S. A. - PETROBRAS.

@@ -1,5 +1,3 @@
-###DEC-007522-0-000-08-07-2011-PUB-01@@@
-
 DECRETO Nº 7.522, DE 8 DE JULHO DE 2011
 
 Altera o art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares - R-200, aprovado pelo Decreto nº 88.777, de 30 de setembro de 1983, para caracterizar como exercício de função de natureza policial-militar ou de interesse policial- militar ou de bombeiro-militar o exercício de cargo ou função no Ministério da Fazenda e no Ministério do Planejamento, Orçamento e Gestão.

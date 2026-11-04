@@ -1,5 +1,3 @@
-###DEC-055908-0-000-12-04-1965@@@
-
 decreto nº 55.908, de 12 de abril de 1965.
 
 Concede reconhecimento à Faculdade de Filosofia de Campos.

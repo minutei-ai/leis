@@ -1,5 +1,3 @@
-###DEC-048499-0-000-11-07-1960@@@
-
 DECRETO Nº 48.499, DE 11 DE JULHO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

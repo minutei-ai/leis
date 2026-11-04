@@ -1,5 +1,3 @@
-###DEC-092719-0-000-29-05-1986@@@
-
 DECRETO Nº 92.719, DE 29 DE MAIO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação do estação transformadora de distribuição Parisi da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009878-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.878 – DE 16 DE SETEMBRO DE 1946
 
 Dispõe sôbre promoção de militares Desaparecidos ou mortos em conseqüência de torpedeamento de navios brasileiros.

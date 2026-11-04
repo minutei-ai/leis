@@ -1,5 +1,3 @@
-###MPV-002022-0-016-20-04-2000@@@
-
 Medida Provisória nº 2.022-16, de 20 de abril de 2000.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

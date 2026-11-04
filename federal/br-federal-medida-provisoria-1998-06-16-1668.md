@@ -1,5 +1,3 @@
-###MPV-001668-0-000-16-06-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.668, DE 16 DE JUNHO DE 1998
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

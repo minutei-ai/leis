@@ -1,5 +1,3 @@
-###DEC-069366-0-000-18-10-1971@@@
-
 DECRETO Nº 69.366, DE 18 DE OUTUBRO DE 1971.
 
 Autorização para o funcionamento do Curso de Licenciatura em Matemática - 1º ciclo - da Faculdade de Filosofia "Bernardo Sayão", GO.

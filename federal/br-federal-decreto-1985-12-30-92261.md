@@ -1,5 +1,3 @@
-###DEC-092261-0-000-30-12-1985@@@
-
 DECRETO Nº 92.261, DE 30 DE DEZEMBRO DE 1985
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "São João das Neves'', "Santa Rosa'', "São Félix'', "Santa Severa do Bota Pau'' e "Matões'', situados no Município de Coroatá, no Estado do Maranhão, e compreendidos na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 1º de março de 1972, alterado pelos Decretos nºs 71.195, de 4 de outubro de 1972, 79.288, de 16 de fevereiro de 1977 e 87.095, de 16 de abril de 1982, e dá outras providências.

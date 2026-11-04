@@ -1,5 +1,3 @@
-###DEC-064673-0-000-10-06-1969@@@
-
 DECRETO Nº 64.673, DE 10 DE JUNHO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Educação "Braz Cubas", de Mogi das Cruzes - SP.

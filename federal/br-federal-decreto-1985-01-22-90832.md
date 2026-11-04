@@ -1,5 +1,3 @@
-###DEC-090832-0-000-22-01-1985@@@
-
 Decreto nº 90.832, de 22 de janeiro de 1985
 
 Concede autorização ao navio de pesquisa "ENDEAVOR", de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

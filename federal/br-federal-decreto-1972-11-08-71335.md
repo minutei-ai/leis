@@ -1,5 +1,3 @@
-###DEC-071335-0-000-08-11-1972@@@
-
 DECRETO Nº 71.335 - DE 8 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento ao Curso de Matemática da Faculdade de Filosofia, Ciências e Letras da Fundação Universidade de Uberlândia - Minas Gerais.

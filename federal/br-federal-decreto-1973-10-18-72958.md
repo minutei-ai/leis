@@ -1,5 +1,3 @@
-###DEC-072958-0-000-18-10-1973@@@
-
 DECRETO Nº 72.958, DE 18 DE OUTUBRO DE 1973.
 
 Retifica o Decreto nº 70.964, de 11 de agosto de 1972, que dispõe sobre a fusão das Partes Permanente e Especial do Quadro de Pessoal do Ministério das Relações Exteriores, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093647-0-000-03-12-1986@@@
-
 DECRETO Nº 93.647, DE 3 DE DEZEMBRO DE 1986
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados (IPI).

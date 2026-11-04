@@ -1,5 +1,3 @@
-###DEC-081325-0-000-09-02-1978@@@
-
 Decreto nº 81.325, de 9 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Engenharia Civil da Faculdade de Engenharia Civil de Nova Iguaçu, Estado do Rio de Janeiro.

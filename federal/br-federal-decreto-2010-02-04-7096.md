@@ -1,5 +1,3 @@
-###DEC-007096-0-000-04-02-2010@@@
-
 DECRETO Nº 7.096, DE 4 DE FEVEREIRO DE 2010.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Desenvolvimento, Indústria e Comércio Exterior, e dá outras providências.        

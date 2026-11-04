@@ -1,5 +1,3 @@
-###DEC-091563-0-000-23-08-1985@@@
-
 Decreto nº 91.563, de 23 de agosto de 1985
 
 Revoga a concessão outorgada à LINS RÁDIO CLUBE LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Lins, Estado de São Paulo.

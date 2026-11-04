@@ -1,5 +1,3 @@
-###DEC-060166-0-000-01-02-1967@@@
-
 DECRETO Nº 60.166, DE 1 DE FEVEREIRO DE 1967.
 
 Autoriza o cidadão brasileiro Amaltino França Diniz a lavrar calcário no município de Paraopeba, Estado de Minas Gerais.

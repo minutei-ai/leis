@@ -1,5 +1,3 @@
-###DEC-068611-0-000-11-05-1971@@@
-
 DECRETO Nº 68.611 - DE 11 DE MAIO DE 1971.
 
 Revoga o Decreto no 57.133, de 27 de outubro de 1965.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212444)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/compilacao-lei-18443-02.04.2026.html)
 
 # LEI N° 18.443, DE 02 DE ABRIL DE 2026
@@ -13,15 +12,18 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Artigo 1° -** Esta lei dispõe sobre as classes, as regras de evolução funcional e a designação para funções de direção no âmbito da Polícia Civil do Estado de São Paulo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DAS CLASSES E DA EVOLUÇÃO FUNCIONAL
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Das Classes
 
 **Artigo 2° -** As carreiras policiais civis são estruturadas em 4 (quatro) classes, dispostas hierarquicamente de acordo com o grau de complexidade das atribuições e o nível de responsabilidade, em ordem crescente, na seguinte conformidade:
@@ -34,7 +36,8 @@ III - 1ª Classe;
 
 IV - Classe Especial.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Evolução Funcional
 
 **Artigo 3° -** A evolução funcional dos servidores das carreiras da Polícia Civil dar-se-á por meio de promoção nas classes, com base em critérios objetivos, independentemente de vagas.
@@ -79,7 +82,8 @@ V - ausência ao trabalho em virtude de consulta ou sessão de tratamento de sa�
 
 **Parágrafo único -** No caso de afastamento sem prejuízo dos vencimentos para participação em cursos, congressos ou demais certames afetos à sua área de atuação, haverá a interrupção do interstício quando o afastamento se der por prazo superior a 90 (noventa) dias.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Avaliação de Desempenho
 
 **Artigo 7° -** A avaliação de desempenho será realizada a cada 12 (doze) meses, em 2 (duas) fases, de responsabilidade da chefia imediata e na sequência pela autoridade superior.
@@ -102,7 +106,8 @@ Da Avaliação de Desempenho
 
 **§ 6° -** As regras para realização das avaliações de desempenho, observadas as disposições desta lei, serão regulamentadas pelo Delegado Geral de Polícia.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Curso Superior de Polícia
 
 **Artigo 8° -** Aos integrantes da Classe Especial da carreira de Delegado de Polícia será exigida a obtenção do certificado de conclusão do Curso Superior de Polícia, ministrado pela Academia de Polícia "Dr. Coriolano Nogueira Cobra" anualmente, como condição para nomeação nos cargos em comissão e a designação para as funções de confiança e direção no âmbito da Polícia Civil de São Paulo, sem prejuízo do cumprimento das demais exigências previstas nesta lei ou em outros dispositivos legais.
@@ -117,7 +122,8 @@ Do Curso Superior de Polícia
 
 **§ 3° -** O Curso Superior de Polícia será regulamentado pelo Delegado Geral de Polícia.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das Funções de Direção das Unidades Policiais
 
 **Artigo 9° -** Além da formação em Curso Superior de Polícia referida no artigo 8°, são requisitos para a designação e o exercício das seguintes funções de direção:

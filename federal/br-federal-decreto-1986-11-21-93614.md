@@ -1,5 +1,3 @@
-###DEC-093614-0-000-21-11-1986@@@
-
 DECRETO Nº 93.614, DE 21 DE NOVEMBRO DE 1986.
 
 Extingue os órgãos que menciona, e dá outras providências.

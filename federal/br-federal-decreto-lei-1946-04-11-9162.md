@@ -1,5 +1,3 @@
-###DEL-009162-0-000-11-04-1946@@@
-
 DECRETO-LEI N. 9.162 – DE 11 DE ABRIL DE 1946
 
 Cria o Depósito de Motomecanização da 2ª Região Militar e a 2ª Companhia Leve de Manutenção.

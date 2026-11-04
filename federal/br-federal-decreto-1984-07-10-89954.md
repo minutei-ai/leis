@@ -1,5 +1,3 @@
-###DEC-089954-0-000-10-07-1984@@@
-
 DECRETO Nº 89.954, DE 10 DE JULHO DE 1984
 
 Concede à Companhia Eletromecânica CELMA autorização para proceder o aumento de seu capital social.

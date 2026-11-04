@@ -1,5 +1,3 @@
-###DEC-048168-0-000-10-05-1960@@@
-
 DECRETO Nº 48.168, de 10 de maio de 1960.
 
 Autoriza o cidadão brasileiro Moacyr Gonçalves da Costa a pesquisar água mineral no município de Belo Horizonte, Estados de Minas Gerais.

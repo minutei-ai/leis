@@ -1,5 +1,3 @@
-###DEC-004240-0-000-21-05-2002@@@
-
 DECRETO Nº 4.240, DE 21 DE MAIO DE 2002
 
 Promulga o Acordo de Cooperação Mútua entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai para Combater o Tráfego de Aeronaves Envolvidas em Atividades Ilícitas Transnacionais, celebrado em Brasília, em 10 de fevereiro de 2000.

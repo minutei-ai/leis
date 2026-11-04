@@ -1,5 +1,3 @@
-###DEC-002375-0-000-11-11-1997@@@
-
 DECRETO Nº 2.375, DE 11 DE NOVEMBRO DE 1997
 
 Altera alíquotas do Imposto sobre Produtos Industrializados.

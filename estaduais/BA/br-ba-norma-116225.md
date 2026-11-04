@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º -  É declarada de utilidade pública a sociedade "Obras Paroquiais de São Gonçalo do Retiro", com sede nesta Capital.
 
-Redação de acordo com a Lei nº 3.505, de 24 de setembro de 1976.<br>
+Redação de acordo com a Lei nº 3.505, de 24 de setembro de 1976.
+
 Redação original: "Art. 1º - É declarado de utilidade pública o "CENTRO COMUNITÁRIO DA IGREJA DE SÃO GONÇALO DO RETIRO", com sede nesta Capital."
 
 &nbs

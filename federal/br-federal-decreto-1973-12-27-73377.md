@@ -1,5 +1,3 @@
-###DEC-073377-0-000-27-12-1973@@@
-
 Decreto Nº 73.377 - de 27 de Dezembro de 1973
 
 Torna sem efeito cassação de disponibilidade de servidora do Instituto Nacional de Previdência Social.

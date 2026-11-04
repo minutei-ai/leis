@@ -1,5 +1,3 @@
-###DEC-044876-0-000-26-11-1958@@@
-
 DECRETO Nº 44.876, DE 26 DE NOVEMBRO DE 1958.
 
 Concede permissão à “Sipes do Brasil S.A.” Industrial de Produtos Eletrolíticos e Sintéticos, estabelecida em S. Caetano do Sul, no Estado de São Paulo, para funcionar aos domingos e feriados civis e religiosos.

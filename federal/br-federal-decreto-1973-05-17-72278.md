@@ -1,5 +1,3 @@
-###DEC-072278-0-000-17-05-1973@@@
-
 DECRETO Nº 72.278, DE 17 DE MAIO DE 1973.
 
 Dispõe sobre o Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto número 60.433, de 13 de março de 1967 e alterado pelos Decretos nºs 63.725, de 4 de dezembro de 1968, 68.359, de 16 de março de 1971, 69.288, de 24 de setembro de 1971 e 70.681, de 7 de junho de 1972.

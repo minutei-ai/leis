@@ -1,5 +1,3 @@
-###DEL-005083-0-000-12-12-1942@@@
-
 DECRETO-LEI N. 5.083 – DE 12 DE DEZEMBRO DE 1942
 
 Dispõe sobre a substituição de Diretores do Departamento Administrativo do Serviço Público e dá outras providências

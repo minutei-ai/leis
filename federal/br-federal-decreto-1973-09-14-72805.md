@@ -1,5 +1,3 @@
-###DEC-072805-0-000-14-09-1973@@@
-
 DECRETO Nº 72.805, DE 14 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra rural e respectiva faixa de acesso, sem benfeitorias, situadas no município de Felixlândia, Estado de Minas Gerais, destinadas à instalação de uma estação repetidora de microondas e serviços afins, pela Companhia Telefônica de Minas Gerais.

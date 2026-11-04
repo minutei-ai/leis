@@ -1,5 +1,3 @@
-###DEC-005569-0-000-31-10-2005@@@
-
 DECRETO Nº 5.569, DE 31 DE OUTUBRO DE 2005.
 
 Dispõe sobre a criação da Embaixada do Brasil na República da Croácia, com sede em Zagreb.

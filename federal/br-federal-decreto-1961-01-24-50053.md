@@ -1,5 +1,3 @@
-###DEC-050053-0-000-24-01-1961@@@
-
 DECRETO Nº 50.053, DE 24 DE JANEIRO DE 1961.
 
 Outorga concessão à rádio Difusora de Goiânia Limitada para estabelecer uma estação de radio-difusão.

@@ -1,5 +1,3 @@
-###DEC-077461-0-000-19-04-1976@@@
-
 Decreto nº 77.461 - de 19 de abril de 1976
 
 Autoriza o aterro de área em mar e a cessão, sob regime de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

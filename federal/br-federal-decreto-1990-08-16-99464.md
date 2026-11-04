@@ -1,7 +1,3 @@
-1
-
-###DEC-099464-0-000-16-08-1990@@@
-
 DECRETO Nº 99.464, DE 16 DE AGOSTO DE 1990
 
 Dispõe sobre prioridades, inclusões no Programa Nacional de Desestatização e designação do Gestor do Fundo Nacional de Desestatização.

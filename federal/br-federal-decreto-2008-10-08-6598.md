@@ -1,5 +1,3 @@
-###DEC-006598-0-000-08-10-2008@@@
-
 DECRETO Nº 6.598, DE 8 DE OUTUBRO DE 2008.
 
 Acrescenta § 3o ao art. 2o do Decreto no 5.269, de 10 de novembro de 2004, que dispõe sobre a competência, composição e funcionamento do Conselho Diretor do Fundo da Marinha Mercante - CDFMM.

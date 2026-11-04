@@ -1,5 +1,3 @@
-###DEC-096223-0-000-24-06-1988@@@
-
 DECRETO N° 96.223, DE 24 DE JUNHO DE 1988
 
 Renova a concessão outorgada à RÁDIO EMISSORA FANDANGO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.

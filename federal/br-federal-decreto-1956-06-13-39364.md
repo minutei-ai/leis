@@ -1,14 +1,12 @@
-###DEC-039364-0-000-13-06-1956@@@
+**DECRETO Nº 39.364, DE 13 DE JUNHO DE 1956.**
 
-<strong>DECRETO Nº 39.364, DE 13 DE JUNHO DE 1956.</strong>
+***Regulamenta o art. 7º da Lei número 2.163, de 5 de janeiro de 1954 e dá outras providências.***
 
-<em><strong>Regulamenta o art. 7º da Lei número 2.163, de 5 de janeiro de 1954 e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição, e tendo em vista o que dispõe o artigo 7º da Lei nº 2.163, de 5 de janeiro de 1954 e os arts. 65 e 149 do Decreto-lei nº 9.760, de 5 de setembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição, e tendo em vista o que dispõe o artigo 7º da Lei nº 2.163, de 5 de janeiro de 1954 e os arts. 65 e 149 do Decreto-lei nº 9.760, de 5 de setembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São transferidos para o patrimônio do Instituto Nacional de Imigração e Colonização todos os imóveis e outros direitos que, pertencendo à União, se encontravam, a 5 de janeiro de 1954, sob administração da extinta Divisão de Terras e Colonização do Ministério da Agricultura e do extinto Departamento Nacional de Imigração do Ministério do Trabalho Indústria e Comércio.
+**Art**. 1º São transferidos para o patrimônio do Instituto Nacional de Imigração e Colonização todos os imóveis e outros direitos que, pertencendo à União, se encontravam, a 5 de janeiro de 1954, sob administração da extinta Divisão de Terras e Colonização do Ministério da Agricultura e do extinto Departamento Nacional de Imigração do Ministério do Trabalho Indústria e Comércio.
 
 § 1º Os bens e direitos, inclusive o direito e ação, a que alude o presente artigo dizem respeito:
 
@@ -22,19 +20,19 @@ d) aos imóveis situados à rua Prefeito Olimpio de Melo nº 802, e rua Matta Ma
 
 § 2º Ficam, igualmente, transferidos para o mencionado Instituto as glebas denominadas “Missões”, “Chopim”, “Chopinzinho”, “Andradas”, “Arroio Bonito” e “Pinhão”, situadas no Estado do Paraná, a gleba denominada “Boa Vista”, situada no Estado de Mato Grosso, e, ainda, o direito e ação concernante aos referidos bens (Decreto-lei nº 9.760, de 5-9-46, arts. 65 e 149).
 
-<strong>Art</strong>. 2º Serão transferidos para o patrimônio do Instituto Nacional de Imigração e Colonização os remanescentes dos núcleos coloniais e das colônias agrícolas emancipadas que o mesmo de futuro indicar.
+**Art**. 2º Serão transferidos para o patrimônio do Instituto Nacional de Imigração e Colonização os remanescentes dos núcleos coloniais e das colônias agrícolas emancipadas que o mesmo de futuro indicar.
 
 Parágrafo único. A transferência prevista no presente artigo far-se-á mediante têrmo a ser assinado no Serviço do Patrimônio da União.
 
-<strong>Art</strong>. 3º Dentro do prazo de 60 (sessenta) dias, contados da publicação do presente Decreto, o Serviço de Patrimônio da União do Ministério da Fazenda e a Superintendência das Emprêsas Incorporadas ao Patrimônio da União farão entrega ao Instituto Nacional de Imigração e Colonização de tôda a documentação relativa aos bens ora transferidos para o seu patrimônio, individuando-os devidamente.
+**Art**. 3º Dentro do prazo de 60 (sessenta) dias, contados da publicação do presente Decreto, o Serviço de Patrimônio da União do Ministério da Fazenda e a Superintendência das Emprêsas Incorporadas ao Patrimônio da União farão entrega ao Instituto Nacional de Imigração e Colonização de tôda a documentação relativa aos bens ora transferidos para o seu patrimônio, individuando-os devidamente.
 
-<strong>Art</strong>. 4º O Instituto Nacional de Imigração e Colonização promoverá a demarcação, divisão e loteamento das áreas a que alude o presente decreto, através dos trabalhos topográficos a seu cargo ou judicialmente na defesa do seu patrimônio.
+**Art**. 4º O Instituto Nacional de Imigração e Colonização promoverá a demarcação, divisão e loteamento das áreas a que alude o presente decreto, através dos trabalhos topográficos a seu cargo ou judicialmente na defesa do seu patrimônio.
 
-<strong>Art</strong>. 5º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 13 de junho de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles
 

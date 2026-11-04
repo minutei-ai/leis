@@ -1,5 +1,3 @@
-###MPV-002137-0-000-28-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.137, DE 28 DE DEZEMBRO DE 2000.
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

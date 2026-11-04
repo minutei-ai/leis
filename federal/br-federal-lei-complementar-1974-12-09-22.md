@@ -1,7 +1,3 @@
-1
-
-###LCP-000022-0-000-09-12-1974@@@
-
 # LEI COMPLEMENTAR Nº 22, DE 9 DE DEZEmBRO DE 1974
 
 Dá nova redação ao art. 11, de Decreto-Lei nº 406, de 31 de dezembro de 1968, dispondo sobre isenção do imposto sobre serviços.

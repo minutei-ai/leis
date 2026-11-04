@@ -1,5 +1,3 @@
-###DEC-057159-0-000-03-11-1965@@@
-
 DECRETO Nº 57.159, DE 3 DE NOVEMBRO DE 1965.
 
 Cria o 3º Batalhão de Comunicações de Exército, com sede em Porto Alegre, Rio Grande do Sul.

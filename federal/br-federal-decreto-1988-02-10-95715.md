@@ -1,7 +1,3 @@
-1
-
-###DEC-095715-0-000-10-02-1988@@@
-
 DECRETO Nº 95.715, DE 10 DE FEVEREIRO DE 1988
 
 Regulamenta as desapropriações para reforma agrária, e dá outras providências.

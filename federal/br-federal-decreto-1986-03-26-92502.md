@@ -1,5 +1,3 @@
-###DEC-092502-0-000-26-03-1986@@@
-
 DECRETO Nº 92.502, DE 26 DE MARÇO DE 1986
 
 Promulga o Acordo de Cooperação Científica e Tecnológica entre a República Federativa do Brasil e a República da Colômbia.
@@ -88,4 +86,14 @@ O presente Acordo poderá ser denunciado por qualquer das Partes, mediante notif
 
 Feito em Bogotá, D.E., aos 12 dias do mês de março de 1981, em dois exemplares originais, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">DA COLÔMBIA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Diego Uribe Vargas)</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL:
+
+DA COLÔMBIA:
+
+(Ramiro Saraiva Guerreiro)
+
+(Diego Uribe Vargas)

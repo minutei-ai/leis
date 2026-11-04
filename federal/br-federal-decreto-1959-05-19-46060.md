@@ -1,5 +1,3 @@
-###DEC-046060-0-000-19-05-1959@@@
-
 DECRETO Nº 46.060, DE 19 DE MAIO DE 1959.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Piauí - o crédito especial de Cr$300.000,00, para o fim que especifica.

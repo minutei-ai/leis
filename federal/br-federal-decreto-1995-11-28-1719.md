@@ -1,7 +1,3 @@
-1
-
-###DEC-001719-0-000-28-11-1995@@@
-
 DECRETO Nº 1.719, DE 28 DE NOVEMBRO DE 1995.
 
 Aprova o Regulamento de Outorga de Concessão ou Permissão para Exploração de Serviços de Telecomunicações em Base Comercial que menciona.

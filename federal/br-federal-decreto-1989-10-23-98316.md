@@ -1,7 +1,3 @@
-1
-
-###DEC-098316-0-000-23-10-1989@@@
-
 DECRETO N° 98.316, DE 23 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno com benfeitorias de um imóvel urbano, situado no Município de Porto Alegre, Estado do Rio Grande do Sul, destinado à instalação do Tribunal Regional Federal da 4ª Região, e dá outras providências.

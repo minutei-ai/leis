@@ -1,5 +1,3 @@
-###DEL-007763-0-000-20-07-1945@@@
-
 DECRETO-LEI N. 7.763 – DE 20 DE JULHO DE 1945
 
 Altera a carreia de Oficial Administrativo do Quadro Permanente do Ministério da Justiça e Negócios Interiores e abre crédito suplementar.

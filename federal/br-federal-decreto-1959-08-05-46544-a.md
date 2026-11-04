@@ -1,5 +1,3 @@
-###DEC-046544-A-000-05-08-1959@@@
-
 DECRETO Nº 46.544-A, de 5 de agÔsto de 1959.
 
 Inclui nas disposições do art. 1º do Decreto nº 30.955, de 7 de junho de 1952, funções exercidas na Comissão Executiva de Armazéns e Silos.

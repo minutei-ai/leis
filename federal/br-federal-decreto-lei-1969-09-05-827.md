@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bd581dfb-b091-4ce9-9986-8aab4a16fd98/texto#nowhere)
 
-###DEL-000827-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 827, DE 5 de SEtemBRO DE 1969
 
 Dispõe sôbre o Escritório Técnico da Universidade Federal do Rio de janeiro.

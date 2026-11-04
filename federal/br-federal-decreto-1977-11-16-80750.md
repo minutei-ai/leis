@@ -1,5 +1,3 @@
-###DEC-080750-0-000-16-11-1977@@@
-
 DECRETO Nº 80.750, DE 16 DE NOVEMBRO DE 1977.
 
 Concede à Itapessoca Agro-Industrial S.A., o direito de lavrar gipsita, no Município de Ipubi, Estado de Pernambuco.

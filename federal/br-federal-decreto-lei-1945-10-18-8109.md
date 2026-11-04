@@ -1,5 +1,3 @@
-###DEL-008109-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.109 – DE 18 DE OUTUBRO DE 1945
 
 Abre crédito suplementar ao Ministério da Agricultura

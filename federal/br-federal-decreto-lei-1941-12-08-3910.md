@@ -1,5 +1,3 @@
-###DEL-003910-0-000-08-12-1941@@@
-
 DECRETO-LEI N. 3.910 – DE 8 DE DEZEMBRO DE 1941
 
 concede uma pensão especial. ás filhas solteiras do 1º tenente da Armada  Henrique Francisco Caldas

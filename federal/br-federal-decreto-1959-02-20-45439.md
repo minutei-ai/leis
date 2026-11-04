@@ -1,5 +1,3 @@
-###DEC-045439-0-000-20-02-1959@@@
-
 DECRETO Nº 45.439, DE 20 DE FEVEREIRO DE 1959.
 
 Concede o abono provisório aos servidores do Instituto Brasileiro do Sal.

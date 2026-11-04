@@ -1,5 +1,3 @@
-###DEC-045520-0-000-03-03-1959@@@
-
 DECRETO Nº 45.520, DE 3 DE MARÇO DE 1959.
 
 Autoriza a Lapidação Ponta Porã Limitada, a comprar pedras preciosas.

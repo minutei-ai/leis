@@ -1,5 +1,3 @@
-###DEC-078599-0-000-21-10-1976@@@
-
 DECRETO Nº 78.599, DE 21 DE OUTUBRO DE 1976.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural, situado no Município de Pio XII, Estado do Maranhão, compreendido na área prioritária de Reforma Agrária, de que tratam os Decretos nºs 70.220, de 1 de março de 1972, e 71.195, de 4 outubro de 1972.

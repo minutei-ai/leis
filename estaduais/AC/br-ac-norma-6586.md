@@ -2,7 +2,11 @@ Modificada pelas Leis nº [4.680, de 27 de Novembro de 2025;](https://legis.ac.g
 
 > **LEI Nº 4.655, DE 23 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a contratação de operação de crédito com a Caixa Econômica Federal - CEF visando ao financiamento de ações com foco na transformação digital.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a contratação de operação de crédito com a Caixa Econômica Federal - CEF visando ao financiamento de ações com foco na transformação digital.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -12,9 +16,10 @@ Modificada pelas Leis nº [4.680, de 27 de Novembro de 2025;](https://legis.ac.g
 
 **~~Art. 2º~~** ~~Fica o Poder Executivo autorizado a utilizar, para pagamento do principal, juros, tarifas bancárias e outros encargos da operação de crédito de que trata esta Lei, em caráter irrevogável e irretratável, _pro solvendo_, as receitas a que se referem o art. 157 e a alínea “a” do inciso I e o inciso II, ambos do art. 159, complementadas pelas receitas dispostas no art. 155, nos termos do § 4º do art. 167, todos da Constituição da República, no que couber, bem como outras garantias admitidas em direito.~~
 
-**~~Art. 2º~~** ~~Fica o Poder Executivo autorizado a utilizar, para pagamento do principal, juros, tarifas bancárias e outros encargos da operação de crédito de que trata esta Lei, parcelas de quotas do Fundo de Participações dos Estados e ou do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS e do produto da arrecadação de outros impostos, na forma da legislação em vigor. (Redação dada pela Lei nº 4.680, de 27/11/2025)<br>~~
+**~~Art. 2º~~** ~~Fica o Poder Executivo autorizado a utilizar, para pagamento do principal, juros, tarifas bancárias e outros encargos da operação de crédito de que trata esta Lei, parcelas de quotas do Fundo de Participações dos Estados e ou do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS e do produto da arrecadação de outros impostos, na forma da legislação em vigor. (Redação dada pela Lei nº 4.680, de 27/11/2025)
+~~
 
-**Art. 2º** Fica o Poder Executivo autorizado a vincular, como garantia à operação de crédito de que trata esta Lei, as receitas do Fundo de Participações dos Estados - FPE, do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS, e do produto da arrecadação de outros impostos, na forma da legislação em vigor e, na hipótese de sua extinção, os fundos ou impostos que venham a lhes substituir, bem como, na sua insuficiência, parte dos depósitos bancários. (Redação dada pela Lei nº 4.805, de 28/05/2026)<br>
+**Art. 2º** Fica o Poder Executivo autorizado a vincular, como garantia à operação de crédito de que trata esta Lei, as receitas do Fundo de Participações dos Estados - FPE, do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Produção de Serviços de Transportes Interestadual e Intermunicipal e de Comunicações - ICMS, e do produto da arrecadação de outros impostos, na forma da legislação em vigor e, na hipótese de sua extinção, os fundos ou impostos que venham a lhes substituir, bem como, na sua insuficiência, parte dos depósitos bancários. (Redação dada pela Lei nº 4.805, de 28/05/2026)
 
 **Art. 3º** Fica determinada a consignação dos recursos provenientes da operação de crédito de que trata esta Lei como receita no orçamento ou em créditos adicionais, nos termos do inciso II do § 1º do art. 32 da Lei Complementar Federal nº 101, de 2000.
 

@@ -1,5 +1,3 @@
-###DEC-079823-0-000-17-06-1977@@@
-
 DECRETO Nº 79.823, DE 17 DE JUNHO DE 1977
 
 Autoriza a concessão de garantia da União à operação de crédito externo, para implantação de usina siderúrgica pela Aço Minas Gerais S. A. - AÇOMINAS.

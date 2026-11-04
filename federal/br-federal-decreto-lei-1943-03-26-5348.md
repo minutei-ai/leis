@@ -1,5 +1,3 @@
-###DEL-005348-0-000-26-03-1943@@@
-
 DECRETO-LEI N. 5.348 – DE 26 DE MARÇO DE 1943
 
 Abre ao Ministério das Relações Exteriores o Crédito especial de Cr$ 268.239,10 para liquidação de despesas

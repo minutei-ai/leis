@@ -1,5 +1,3 @@
-###DEL-008285-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.285 – DE 4 DE DEZEMBRO DE 1945
 
 Abre ao  Ministério da Guerra o crédito especial de Cr$ 395.086,00 para pagamento de diferença de vencimentos a Professores Militares.

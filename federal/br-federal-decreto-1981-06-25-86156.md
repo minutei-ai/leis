@@ -1,5 +1,3 @@
-###DEC-086156-0-000-25-06-1981@@@
-
 Decreto nº 86.156, de 25 de junho de 1981
 
 Dá nova redação ao artigo 2º do Decreto nº 82.476, de 23 de outubro de 1978, que estabeleceu normas para o escoamento e a comercialização do álcool para fins carburantes.

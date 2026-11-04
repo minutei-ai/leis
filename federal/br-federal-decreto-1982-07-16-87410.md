@@ -1,5 +1,3 @@
-###DEC-087410-0-000-16-07-1982@@@
-
 Decreto nº 87.410, de 16 de julho DE 1982.
 
 Promulga o Acordo de Cooperação Econômica, Científica, Técnica e Cultural entre o Governo da República Federativa do Brasil e o Governo da República Popular do Congo.

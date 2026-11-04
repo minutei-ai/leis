@@ -1,5 +1,3 @@
-###DEC-003421-0-000-20-04-2000@@@
-
 DECRETO Nº 3.421, DE 20 DE ABRIL DE 2000.
 
 Altera a denominação do Parque Nacional do Monte Pascoal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073435-0-000-10-01-1974@@@
-
 DECRETO Nº 73.435, DE 10 DE JANEIRO DE 1974.
 
 Extingue a Fábrica de artilharia da Marinha e dá outras providências.

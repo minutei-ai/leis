@@ -1,5 +1,3 @@
-###DEC-055983-0-000-22-04-1965@@@
-
 DECRETO Nº 55.983, DE 22 DE ABRIL DE 1965.
 
 Autoriza Alumínio Minas Gerais Sociedade Anônima a pesquisar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

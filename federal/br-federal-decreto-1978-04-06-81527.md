@@ -1,5 +1,3 @@
-###DEC-081527-0-000-06-04-1978@@@
-
 Decreto nº 81.527, de 06 de abril de 1978.
 
 Retifica a concessão de lavra outorgada à Canaan Material de Construção, Comércio, Indústria e Representações Ltda. pelo Decreto nº 73.305, de 13 de dezembro de 1973.

@@ -1,5 +1,3 @@
-###DEC-002295-0-000-04-08-1997@@@
-
 DECRETO Nº 2.295, DE 4 DE AGOSTO DE 1997
 
 Regulamenta o disposto no art. 24, inciso IX, da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre a dispensa de licitação nos casos que possam comprometer a segurança nacional.

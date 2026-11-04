@@ -1,7 +1,3 @@
-1
-
-###DEC-097724-0-000-08-05-1989@@@
-
 DECRETO N° 97.724, DE 08 DE MAIO DE 1989
 
 Altera o Estatuto da Fundação Jorge Duprat Fgueiredo, de Segurança e Medicina do Trabalho  FUNDACENTRO, aprovado pelo Decreto n° 77.319, de 22 de março de 1976.

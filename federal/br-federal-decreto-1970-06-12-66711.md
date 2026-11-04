@@ -1,5 +1,3 @@
-###DEC-066711-0-000-12-06-1970@@@
-
 DECRETO Nº 66.711, DE 12 DE JUNHO DE 1970.
 
 Concede à Cimentos Brasil S.A. - CIBRASA o direito de lavrar calcário, no município de Capanema, Estado do Pará.

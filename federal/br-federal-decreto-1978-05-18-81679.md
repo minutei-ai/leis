@@ -1,5 +1,3 @@
-###DEC-081679-0-000-18-05-1978@@@
-
 Decreto nº 81.679, de 18 de maio de 1978.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada por Empreendimentos Florestais S.A - FLONIBRA

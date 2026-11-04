@@ -1,5 +1,3 @@
-###DEC-045282-0-000-26-01-1959@@@
-
 decreto nº 45.282, de 26 de janeiro de 1959.
 
 Inclui, no regime do Instituto de Previdência e Assistência dos Servidores do Estado, os servidores do Instituto Nacional de Imigração e Colonização.

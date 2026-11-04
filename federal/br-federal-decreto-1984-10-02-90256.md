@@ -1,5 +1,3 @@
-###DEC-090256-0-000-02-10-1984@@@
-
 Decreto nº 90.256, de 02 de outubro de 1984
 
 Renova a concessão outorgada à RÁDIO BOM JESUS DE SIQUEIRA CAMPOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Siqueira Campos, Estado do Paraná.

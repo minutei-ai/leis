@@ -1,5 +1,3 @@
-###DEC-094068-0-000-27-02-1987@@@
-
 DECRETO N° 94.068, DE 27 DE FEVEREIRO DE 1987
 
 Autoriza o funcionamento do curso de Psicologia da Fundação de Ensino do Pólo Geoeducacional do Vale do Itajaí.

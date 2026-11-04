@@ -1,5 +1,3 @@
-###DEC-092063-0-000-05-12-1985@@@
-
 Decreto nº 92.063, de 05 de dezembro de 1985
 
 Autoriza o funcionamento do curso Esquema I da Universidade para o Desenvolvimento do Estado de Santa Catarina.

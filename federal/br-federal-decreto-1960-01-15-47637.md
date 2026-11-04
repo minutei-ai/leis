@@ -1,5 +1,3 @@
-###DEC-047637-0-000-15-01-1960@@@
-
 DECRETO Nº 47.637, DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Jovino Rezende a pesquisa minério de ferro no Município de Itaúna, Estado de Minas Gerais.

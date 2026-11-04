@@ -1,5 +1,3 @@
-###DEC-099656-0-000-26-10-1990@@@
-
 DECRETO Nº 99.656, DE 26 DE OUTUBRO DE 1990
 
 Dispõe sobre a criação, nos órgãos e entidades da Administração Federal direta e indireta, da Comissão Interna de Conservação de Energia CICE, nos casos que menciona, e dá outras providências.

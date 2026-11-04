@@ -1,5 +1,3 @@
-###DEC-088588-0-000-02-08-1983@@@
-
 Decreto nº 88.588, de 02 de agosto de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de distribuição da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

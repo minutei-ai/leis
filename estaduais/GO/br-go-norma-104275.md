@@ -1,4 +1,5 @@
-DECRETO Nº 9.932, DE 31 DE AGOSTO DE 2021<br>
+DECRETO Nº 9.932, DE 31 DE AGOSTO DE 2021
+
 \- [Revogado pelo Decreto nº 10.382, de 5-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108381/decreto-10382), Art. 19, I.
 
 ~~Dispõe sobre a regulamentação e a normatização das Funções Comissionadas da Secretaria de Estado da Educação, constante das Tabelas 1, 2 e 4 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019.~~
@@ -36,8 +37,6 @@ DECRETO Nº 9.932, DE 31 DE AGOSTO DE 2021<br>
 ~~Art. 6º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 31 de agosto de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

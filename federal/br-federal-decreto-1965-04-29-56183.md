@@ -1,5 +1,3 @@
-###DEC-056183-0-000-29-04-1965@@@
-
 DECRETO Nº 56.183, DE 29 DE ABRIL DE 1965.
 
 Retifica o Decreto nº 51.836, de 14 de março de 1963, que criou o Quadro Especial da Escola de Farmácia e Odontologia de Alfenas.

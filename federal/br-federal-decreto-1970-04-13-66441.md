@@ -1,5 +1,3 @@
-###DEC-066441-0-000-13-04-1970@@@
-
 DECRETO Nº 66.441, DE 13 DE ABRIL DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Portos e Vias Navegáveis, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

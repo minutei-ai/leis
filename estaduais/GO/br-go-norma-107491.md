@@ -2,7 +2,7 @@ RESOLUÇÃO 001/2020, DE 4 DE SETEMBRO DE 2020
 
 Dispõe sobre o funcionamento e atividades do Conselho de Governo do Estado de Goiás, criado pela [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701), de 25 de julho de 2019.
 
-<table style="width: 80.0344%; height: 19px;"><tbody><tr style="height: 19px;"><td style="width: 28.7064%; height: 19px;"><vide><span>-&nbsp;</span><a style="text-align: justify; text-indent: 94.4px;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107857/resolucao-1">Vide Resolução nº 001/2023</a></vide></td><td style="width: 71.2936%; height: 19px;"><vide><span>&nbsp;</span><span>Dispõe sobre as medidas necessárias para execução do </span><a style="font-size: medium; text-align: justify; text-indent: 94.4px; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; cursor: pointer; background-color: #ffffff;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107465" target="_blank" rel="noopener">Decreto nº 10.285</a><span>, de 10 de julho de 2023.</span></vide></td></tr></tbody></table>
+<table style="width: 80.0344%; height: 19px;"><tbody><tr style="height: 19px;"><td style="width: 28.7064%; height: 19px;"><vide>-&nbsp;<a style="text-align: justify; text-indent: 94.4px;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107857/resolucao-1">Vide Resolução nº 001/2023</a></vide></td><td style="width: 71.2936%; height: 19px;"><vide>&nbsp;Dispõe sobre as medidas necessárias para execução do <a style="font-size: medium; text-align: justify; text-indent: 94.4px; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; cursor: pointer; background-color: #ffffff;" href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107465" target="_blank" rel="noopener">Decreto nº 10.285</a>, de 10 de julho de 2023.</vide></td></tr></tbody></table>
 
 O CONSELHO DE GOVERNO DO ESTADO DE GOIÁS, instituído nos termos do art. 11 da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701), de 25 de julho de 2019, no uso das atribuições e com vistas a estabelecer seu funcionamento,
 
@@ -18,27 +18,36 @@ Governador do Estado
 
 Presidente do Conselho de Governo
 
-ADRIANO DA ROCHA LIMA<br>
-Secretário-Chefe da Secretaria-Geral da Governadoria<br>
+ADRIANO DA ROCHA LIMA
+
+Secretário-Chefe da Secretaria-Geral da Governadoria
+
 Coordenador do Conselho de Governo
 
-JULIANA PEREIRA DINIZ PRUDENTE<br>
+JULIANA PEREIRA DINIZ PRUDENTE
+
 Procuradora-Geral do Estado
 
-BRUNO MAGALHÃES D’ABADIA<br>
+BRUNO MAGALHÃES D’ABADIA
+
 Secretário de Estado da Administração
 
-ALAN FARIAS TAVARES<br>
+ALAN FARIAS TAVARES
+
 Secretário de Estado da Casa Civil
 
-CRISTIANE ALKMIN JUNQUEIRA SCHMIDT<br>
+CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
+
 Secretária de Estado da Economia
 
-HENRIQUE MORAES ZILLER<br>
+HENRIQUE MORAES ZILLER
+
 Chefe da Controladoria-Geral do Estado
 
-**<br>
-ANEXO I<br>
+**
+
+ANEXO I
+
 **REGIMENTO INTERNO DO CONSELHO DE GOVERNO
 
 CAPÍTULO I
@@ -101,7 +110,8 @@ Art. 5º A participação dos Conselheiros é atribuição indelegável, não po
 
 Art. 6º A convite do Presidente ou por deliberação do Conselho, poderão participar das reuniões, sem direito a voto, convidados cuja audiência seja considerada útil para fornecer esclarecimentos e informações.
 
-Art. 7º As reuniões ordinárias ocorrerão mensalmente.<br>
+Art. 7º As reuniões ordinárias ocorrerão mensalmente.
+
 \- [Redação dada pela Resolução nº 02/2023, de 28-07-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107858/resolucao-2).
 
 ~~Art. 7º As reuniões ordinárias ocorrerão quinzenalmente, sendo o calendário anual apresentado e definido na primeira reunião do ano.~~
@@ -144,7 +154,8 @@ Art. 12. O Conselho de Governo contará com Câmaras Temáticas criadas em ato d
 
 § 4º Para desenvolver as ações executivas das Câmaras Temáticas mencionadas no _caput_poderão ser constituídos comitês-executivos, cujo funcionamento, competência e composição serão definidos em ato específico das próprias câmaras.
 
-Art. 13. As atas das reuniões deverão registrar os temas de deliberação, as decisões adotadas e a relação dos conselheiros participantes e ausentes, bem como, após terem sido aprovadas, deverão ser assinadas por todos os conselheiros participantes.<br>
+Art. 13. As atas das reuniões deverão registrar os temas de deliberação, as decisões adotadas e a relação dos conselheiros participantes e ausentes, bem como, após terem sido aprovadas, deverão ser assinadas por todos os conselheiros participantes.
+
 \- [Redação dada pela Resolução nº 02/2023, de 28-07-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107858/resolucao-2).
 
 ~~Art. 13. As atas das reuniões deverão retratar os temas objeto de deliberação e as decisões adotadas, devendo constar ainda a relação dos conselheiros participantes e ausentes, e, depois de aprovadas, deverão ser assinadas por todos os conselheiros participantes e publicadas no Diário Oficial no prazo de 3 (três) dias úteis.~~
@@ -210,8 +221,6 @@ Art. 20. O Conselho de Governo atuará também em caráter extraordinário em si
 Art. 21. Os casos omissos deste Regimento interno podem ser supridos mediante deliberação do Conselho ou do seu Presidente, conforme a necessidade.
 
 CONSELHO DE GOVERNO, em GOIÂNIA – GO, aos 4 dias do mês de setembro de 2020.
-
-<br>
 
 .
 

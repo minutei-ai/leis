@@ -1,5 +1,3 @@
-###DEC-075230-0-000-16-01-1975@@@
-
 DECRETO Nº 75.230, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Psicologia da Faculdade de Filosofia, Ciências e Letras " Farias Brito", mantida pela Associação Paulista de Educação e Cultura, com sede na Cidade de Guarulhos , Estado de São Paulo.

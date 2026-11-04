@@ -1,5 +1,3 @@
-###DEL-000110-0-000-23-01-1967@@@
-
 DECRETO-LEI Nº 110, DE 23 DE JANEIRO de 1967
 
 Ratifica o sistema de remuneração nos órgãos de deliberação coletiva da previdência social, a que se refere o art. 26 do Decreto-lei número 72, de 21 de novembro de 1966.

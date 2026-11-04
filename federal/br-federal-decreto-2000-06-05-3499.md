@@ -1,5 +1,3 @@
-###DEC-003499-0-000-05-06-2000@@@
-
 DECRETO Nº 3.499, DE 5 DE JUNHO DE 2000.
 
 Dispõe sobre a execução do Vigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 28 de abril de 2000.

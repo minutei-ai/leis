@@ -1,5 +1,3 @@
-###DEC-057469-0-000-20-12-1965@@@
-
 DECRETO Nº 57.469, de 20 de dezembro de 1965.
 
 Aprova a alteração introduzida nos Estatutos da Iguassu Companhia Seguros, relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-046805-0-000-11-09-1959@@@
-
 DECRETO Nº 46.805, DE 11 DE SETEMBRO DE 1959.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$10.000.000,00, para auxiliar a Sociedade Pró-Construção da Maternidade Popular (Escola) de Fortaleza, no Estado do Ceará.

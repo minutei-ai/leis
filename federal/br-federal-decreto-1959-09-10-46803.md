@@ -1,5 +1,3 @@
-###DEC-046803-0-000-10-09-1959@@@
-
 DECRETO Nº 46.803, de 10 de setembro de 1959.
 
 Altera o Decreto nº 43.190, de 12 de fevereiro de 1958.

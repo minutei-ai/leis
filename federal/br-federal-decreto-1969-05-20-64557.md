@@ -1,5 +1,3 @@
-###DEC-064557-0-000-20-05-1969@@@
-
 DECRETO Nº 64.557, DE 20 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, uma área da terra destinada a construção de nova estação telefônica de Natividade, Estado do Rio de Janeiro.

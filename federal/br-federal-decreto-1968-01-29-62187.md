@@ -1,5 +1,3 @@
-###DEC-062187-0-000-29-01-1968@@@
-
 DECRETO Nº 62.187, DE 29 DE JANEIRO DE 1968.
 
 Declara de utilidade pública, para fins de desapropriação, terreno destinado à ampliação do aeroporto de Val-de-Cans, Belém (PA).

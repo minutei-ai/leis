@@ -16,7 +16,8 @@ IV – CENTRO DE SAÚDE VILA BRASÍLIA, situada à Av. Bandeiras c/ Rua Ivair, q
 
 V – UNIDADE BÁSICA DE SAÚDE MADRE GERMANA, situado à APM 4, à Rua MG-4 c/ MG 17, Madre Germana – 1ª Etapa;
 
-VI – Ambulatório Multiprofissional de Aparecida de Goiânia – AMAG, situado à Rua Barão do Rio Branco com Rua Pires do Rio, Quadra 34, Lotes 09/10, Jardim Nova Era.<br>
+VI – Ambulatório Multiprofissional de Aparecida de Goiânia – AMAG, situado à Rua Barão do Rio Branco com Rua Pires do Rio, Quadra 34, Lotes 09/10, Jardim Nova Era.
+
 (Redação alterada pela Lei Complementar nº 109, de 20 de novembro de 2015).
 
 ~~VI – CENTRO DE REABILITAÇÃO DE APARECIDA DE GOIÂNIA, situada à Av. Graça Aranha, qd. 37, lt. 25, Jardim Nova Era;~~
@@ -31,5 +32,6 @@ Art. 2° - Esta Lei entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Segunda-feira, 25 de Junho de 2007
 
-José Macedo de Araújo <br>
-Prefeito Municipal<br>
+José Macedo de Araújo 
+
+Prefeito Municipal

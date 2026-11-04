@@ -1,5 +1,3 @@
-###DEL-007853-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.853 – DE 13 DE AGÔSTO DE 1945
 
 Altera e cria carreiras no Quadro Único – Parte Permanente – do Ministério do Tabalho, Indústria e Comércio, e dá outras providências

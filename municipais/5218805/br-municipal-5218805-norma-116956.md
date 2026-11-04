@@ -6,15 +6,20 @@ Altera a Lei 6.908/2018, que dispõe sobre os serviços de transporte individual
 
 Art. 1º A Lei n. 6.908/2018, passa a viger com a seguinte redação:
 
-**“CAPÍTULO II<br>
-DO TRANSPORTE POR MOTOTÁXI<br>
-Seção I<br>
+**“CAPÍTULO II
+
+DO TRANSPORTE POR MOTOTÁXI
+
+Seção I
+
 Do Objeto**
 
-<br>
-..................................................................................................<br>
-Art. 6° .......................................................................................<br>
-§1º O permissionário que se cadastrar como pessoa física para prestação de serviços de mototaxistas, poderá posteriormente, se assim o interessar, e a juízo da AMT, mediante requerimento, cumpridos os requisitos do art. 21, inciso II, desta Lei, obter a alteração de pessoa física para pessoa jurídica na modalidade Microempresário Individual-MEI.<br>
+..................................................................................................
+
+Art. 6° .......................................................................................
+
+§1º O permissionário que se cadastrar como pessoa física para prestação de serviços de mototaxistas, poderá posteriormente, se assim o interessar, e a juízo da AMT, mediante requerimento, cumpridos os requisitos do art. 21, inciso II, desta Lei, obter a alteração de pessoa física para pessoa jurídica na modalidade Microempresário Individual-MEI.
+
 § 2º Os mototaxistas poderão atuar livremente na busca de usuários para a prestação de serviço de mototáxi dentro do Município de Rio Verde-GO, obedecidas as normas de trânsito, demais leis vigentes sobre a prestação do serviço de mototáxi e a presente lei.” 
 
 Art. 2º Revoga-se o parágrafo único do art. 6º, Lei 6.908/2018

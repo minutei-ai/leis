@@ -1,5 +1,3 @@
-###DEC-077530-0-000-30-04-1976@@@
-
 DECRETO Nº 77.530 - DE 30 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

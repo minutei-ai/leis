@@ -1,7 +1,3 @@
-1
-
-###DEC-001444-0-000-05-04-1995@@@
-
 DECRETO Nº 1.444, DE 5 DE ABRIL DE 1995
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

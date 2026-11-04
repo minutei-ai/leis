@@ -1,5 +1,3 @@
-###DEC-057037-0-000-11-10-1965@@@
-
 DECRETO Nº 57.037, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Sebastião de Castro Teixeira a comprar pedras preciosas.

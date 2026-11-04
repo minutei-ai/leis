@@ -1,5 +1,3 @@
-###DEC-075103-0-000-20-12-1974@@@
-
 Decreto Nº 75.103, DE 20 DE DEZEMBRO DE 1974.
 
 Promulga o Convênio que Estabelece a Organização Latino-Americana de Energia (OLADE).

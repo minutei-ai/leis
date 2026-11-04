@@ -1,5 +1,3 @@
-###DEC-095178-0-000-10-11-1987@@@
-
 DECRETO N° 95.178, DE 10 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento de habilitação do curso de Engenharia da Faculdade de Engenharia de Alimentos de São Gonçalo, Rio de Janeiro.

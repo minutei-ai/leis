@@ -1771,7 +1771,3 @@ ANEXO XII
 CARGO/NÍVEL/GRAU Vencimento Básico R$ D1A 635,73 D1B 667,51 D1C 699,32 D2A 881,85 D2B 925,95 D2C 970,05 D3A 1167,60 D3B 1225,99 D3C 1284,37
 
 ".
-
-\============================================================
-
-Data da última atualização: 29/12/2025.

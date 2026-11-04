@@ -1,5 +1,3 @@
-###DEC-053621-0-000-27-02-1964@@@
-
 DECRETO Nº 53.621, de 27 DE FEVEREIRO DE 1964.
 
 Concede à sociedade anônima Refinações de Milho, Brazil autorização para continuar a funcionar na República.

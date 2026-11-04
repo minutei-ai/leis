@@ -4,10 +4,12 @@ Dispõe sobre a adequação do Regime Próprio de Previdência Social de Apareci
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-TÍTULO I<br>
+TÍTULO I
+
 DO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Das Disposições Preliminares e dos Objetivos
 
 Art. 1º - O Regime Próprio de Previdência Social do Município de Aparecida de Goiânia instituído pela Lei Complementar nº 001, de 1º de novembro de 2001 e regulado pela Lei Complementar nº 007, de 30 de dezembro de 2002, passa a ser regido pela presente Lei Complementar.
@@ -32,7 +34,8 @@ IV - unicidade de regime e de unidade gestora no âmbito do Município de Aparec
 
 V - administração democrática e descentralizada.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Dos Beneficiários
 
 Art. 4º - São filiados do Regime Próprio de Previdência Social de Aparecida de Goiânia na qualidade de beneficiários, os segurados e seus dependentes, nos termos das Seções I e II deste Capítulo.
@@ -73,7 +76,8 @@ VI - valor da contribuição previdenciária descontada;
 
 Art. 6º - O servidor efetivo requisitado da União, de Estados, do Distrito Federal ou de outros Municípios permanece filiado ao regime previdenciário de origem, para onde deverão ser repassadas suas contribuições previdenciárias.
 
-Seção I<br>
+Seção I
+
 Dos Segurados
 
 Art. 7º - São segurados do Regime Próprio de Previdência Social de Aparecida de Goiânia:
@@ -96,7 +100,8 @@ IV - os servidores estabilizados por força do artigo 19 dos Atos das Disposiç�
 
 V - os servidores não estabilizados e não efetivos, que ingressaram no serviço público entre 5 de outubro de 1983 e 5 de outubro de 1988 sem concurso público e ocupam cargo efetivo.
 
-Seção II<br>
+Seção II
+
 Dos Dependentes
 
 Art. 9º - Consideram-se beneficiários, na condição de dependentes do segurado:
@@ -111,10 +116,12 @@ III - os irmãos não emancipados, menores de 18 (dezoito) anos ou inválidos.
 
 § 2º - Os dependentes da mesma espécie concorrem em igualdade de condições e repartirão igualmente os proventos advindos de benefícios previdenciários.
 
-§3º - O cônjuge concorrerá em igualdade com os demais beneficiários habilitados sobre os proventos da pensão por morte, salvo disposições em contrário na norma previdenciária.<br>
+§3º - O cônjuge concorrerá em igualdade com os demais beneficiários habilitados sobre os proventos da pensão por morte, salvo disposições em contrário na norma previdenciária.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~§ 3º - O cônjuge é a exceção ao disposto no parágrafo anterior, visto que fará jus a 50% (cinqüenta por cento) dos proventos, deixando a outra metade para ser dividida entre os demais dependentes.~~<br>
+~~§ 3º - O cônjuge é a exceção ao disposto no parágrafo anterior, visto que fará jus a 50% (cinqüenta por cento) dos proventos, deixando a outra metade para ser dividida entre os demais dependentes.~~
+
 (Revogado pela Lei Complementar nº 146, de 10 de setembro de 2018).
 
 § 4º - Os filhos inválidos somente farão jus ao benefício após completarem a idade limite, se forem solteiros e não possuírem outra fonte de renda, desde que a invalidez seja anterior ao fato gerador do benefício e seja confirmada anualmente pela Perícia Médica Oficial do RPPS.
@@ -145,10 +152,12 @@ III - os irmãos não emancipados, menores de 18 (dezoito) anos ou inválidos.
 
 ~~IV - para os dependentes em geral e irmão: pela cessação da invalidez ou da dependência econômica;~~
 
-~~V – pelo falecimento; ao completarem 18 (dezoito) anos de idade, salvo se inválidos, ou pela emancipação, ainda que inválidos.<br>
+~~V – pelo falecimento; ao completarem 18 (dezoito) anos de idade, salvo se inválidos, ou pela emancipação, ainda que inválidos.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-Seção III<br>
+Seção III
+
 Das Inscrições
 
 Art. 11 - A inscrição do segurado é automática e ocorre quando da investidura no cargo ou quando da concessão do benefício previdenciário no caso dos segurados inativos.
@@ -181,7 +190,8 @@ c) aposentadoria voluntária;
 
 II - quanto ao dependente:
 
-a)    pensão por morte;<br>
+a)    pensão por morte;
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 13 - As prestações do Regime Próprio de Previdência Social de Aparecida de Goiânia consistem nos seguintes benefícios:~~
@@ -206,10 +216,12 @@ a)    pensão por morte;<br>
 
 ~~b) auxílio-reclusão.~~
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Das Regras para Aposentadoria
 
-Art. 14 As contribuições do patrocinador e do participante incidirão sobre a base de cálculo das contribuições ao RPPS estabelecidas na Lei Municipal que exceder o limite máximo dos benefícios pagos pelo Regime Geral de Previdência Social, observando o disposto no inciso XI do art. 37 da Constituição Federal.<br>
+Art. 14 As contribuições do patrocinador e do participante incidirão sobre a base de cálculo das contribuições ao RPPS estabelecidas na Lei Municipal que exceder o limite máximo dos benefícios pagos pelo Regime Geral de Previdência Social, observando o disposto no inciso XI do art. 37 da Constituição Federal.
+
 (Redação alterada pela Lei Complementar nº 235, de 22 de agosto de 2024).
 
 ~~Art. 14 - A concessão de aposentadoria para os servidores efetivos deverá obedecer a três regras distintas:~~
@@ -222,14 +234,16 @@ a) o primeiro tipo será concedido ao segurado que tenha ingressado regularmente
 
 b) o segundo tipo será concedido ao segurado que tenha ingressado regularmente no serviço público, antes de 31 de dezembro de 2003 e implementar todas as condições pessoais, temporais e funcionais previstas no art. 21 desta Lei;
 
-c) o terceiro tipo será concedido ao segurado que tenha ingressado regularmente no serviço público, até 16 de dezembro de 1998 e implementar todas as condições pessoais, temporais e funcionais previstas no art. 21-A, desta Lei;<br>
+c) o terceiro tipo será concedido ao segurado que tenha ingressado regularmente no serviço público, até 16 de dezembro de 1998 e implementar todas as condições pessoais, temporais e funcionais previstas no art. 21-A, desta Lei;
+
 (Redação acrescentada pela Lei Complementar nº 11, de 23 de dezembro de 2005).
 
 III - a de direito adquirido será assegurada ao servidor efetivo, a qualquer tempo, para concessão de aposentadoria que, até a data de publicação da Emenda Constitucional nº 41, de 31 de dezembro de 2003, tenham cumprido todos os requisitos para obtenção de benefícios conforme os critérios da legislação então vigente.
 
 Parágrafo único - É assegurado ao servidor efetivo enquadrado na regra do direito adquirido ou na regra de transição o direito de opção pelo benefício concedido pela regra geral.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Da Aposentadoria por Invalidez
 
 ~~Art. 15 - A aposentadoria por invalidez será devida ao segurado que for considerado incapaz, insusceptível de reabilitação para o exercício de atividade pública municipal ou de readaptação de função, enquanto permanecer nessa condição.~~
@@ -278,10 +292,12 @@ Da Aposentadoria por Invalidez
 
 ~~§ 9º - É vedada a concessão da aposentadoria por invalidez, quando a incapacidade permanente for causada por doença pré-existente ao ingresso do segurado no serviço público efetivo.~~
 
-~~§ 10 - O segurado é obrigado a se submeter anualmente ao exame da Perícia do RPPS, sob pena de suspensão do pagamento do seu benefício, caso seja verificada a cessação da incapacidade o benefício será extinto ex-oficio.<br>
+~~§ 10 - O segurado é obrigado a se submeter anualmente ao exame da Perícia do RPPS, sob pena de suspensão do pagamento do seu benefício, caso seja verificada a cessação da incapacidade o benefício será extinto ex-oficio.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Da Aposentadoria Compulsória
 
 ~~Art. 16 - O Segurado Ativo será automaticamente aposentado ao completar setenta anos de idade, com proventos proporcionais ao tempo de contribuição calculados segundo o disposto no art. 25 desta Lei.~~
@@ -292,15 +308,18 @@ Da Aposentadoria Compulsória
 
 ~~§ 3º - A contagem do tempo de contribuição do servidor para cálculo dos proventos somente se dará até a data em que completar 70 (setenta) anos de idade.~~
 
-~~§ 4º - As vantagens pecuniárias somente serão computadas para efeito de cálculo dos proventos se adquiridas antes da data em que completar 70 (setenta) anos de idade.~~<br>
+~~§ 4º - As vantagens pecuniárias somente serão computadas para efeito de cálculo dos proventos se adquiridas antes da data em que completar 70 (setenta) anos de idade.~~
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 17 - Aos servidores que, após o implemento da idade limite para permanência no serviço público, tenham sido mantidos em exercício de cargo de provimento efetivo, deverá ser concedida a aposentadoria imediatamente.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 Da Aposentadoria Voluntária
 
-Seção I<br>
+Seção I
+
 Da Aposentadoria Por Idade e Tempo De Contribuição
 
 ~~Art. 18 - O Segurado Ativo fará jus à aposentadoria voluntária por idade e tempo de contribuição com proventos calculados segundo o disposto no art. 24, da presente Lei desde que preencha, cumulativamente, os seguintes requisitos:~~
@@ -315,10 +334,12 @@ Da Aposentadoria Por Idade e Tempo De Contribuição
 
 ~~§ 2º - Para fins do disposto no parágrafo anterior, consideram-se funções de magistério a atividade docente do professor exercida exclusivamente em sala de aula.~~
 
-~~§ 3º - O servidor que tenha completado as exigências para aposentadoria voluntária de que trata este artigo e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no art. 16 desta Lei.<br>
+~~§ 3º - O servidor que tenha completado as exigências para aposentadoria voluntária de que trata este artigo e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no art. 16 desta Lei.
+
 ~~(Revogado pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
-Seção II<br>
+Seção II
+
 Da Aposentadoria por Idade
 
 ~~Art. 19 - O segurado fará jus à aposentadoria por idade, com proventos proporcionais ao tempo de contribuição, desde que preencha, cumulativamente, os seguintes requisitos:~~
@@ -329,10 +350,12 @@ Da Aposentadoria por Idade
 
 ~~III - sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher.~~
 
-~~Parágrafo único - Para o cálculo dos proventos proporcionais será considerado um trinta e cinco avos por ano de contribuição, se homem, e um trinta avos, se mulher e observado o que dispõem o art. 25.~~<br>
+~~Parágrafo único - Para o cálculo dos proventos proporcionais será considerado um trinta e cinco avos por ano de contribuição, se homem, e um trinta avos, se mulher e observado o que dispõem o art. 25.~~
+
 (Revogado pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
-Seção III<br>
+Seção III
+
 Das Aposentadorias Pela Regra de Transição
 
 ~~Art. 20 - Ao Segurado Ativo que tiver ingressado em cargo público efetivo na administração pública direta, autárquica e fundacional da União, Estados, Distrito Federal e Municípios, até 16 de dezembro de 1998, será facultada sua aposentadoria pelas regras estabelecidas neste artigo, quando cumprir cumulativamente:~~
@@ -357,7 +380,8 @@ Das Aposentadorias Pela Regra de Transição
 
 ~~§ 3º - O servidor de que trata este artigo, que tenha completado as exigências para aposentadoria voluntária estabelecidas no caput, e que opte por permanecer em atividade, fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no art. 16, da presente lei.~~
 
-~~§ 4º - Às aposentadorias concedidas de acordo com este artigo serão reajustados para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em Lei.<br>
+~~§ 4º - Às aposentadorias concedidas de acordo com este artigo serão reajustados para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em Lei.
+
 ~~(R​evogado pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
 ~~Art. 21 - O Segurado Ativo que tenha ingressado no serviço público até 31 de dezembro 2003, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da sua última remuneração no cargo efetivo em que se der a aposentadoria, quando observadas as reduções de idade e tempo de contribuição contidas no §1º do art. 18, da presente Lei, vier a preencher cumulativamente as seguintes condições:~~
@@ -370,17 +394,20 @@ Das Aposentadorias Pela Regra de Transição
 
 ~~IV - dez anos de carreira e cinco anos de efetivo exercício no cargo em que se der a aposentadoria.~~
 
-~~§1°- Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados quaisquer beneficios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei.~~<br>
+~~§1°- Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados quaisquer beneficios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei.~~
+
 ~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005).~~
 
 ~~§ 1º - Os proventos das aposentadorias concedidas conforme este artigo serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, na forma da Lei, observado o disposto no art. 37, XI, da Constituição Federal.~~
 
 ~~§ 2º - Entende-se por totalidade da remuneração o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em Lei incorporadas ou incorporáveis à remuneração do servidor.~~
 
-~~§ 3º - Fica vedada à inclusão, para cálculo do provento, de qualquer espécie remuneratória paga em decorrência de função de confiança, de cargo em comissão ou do local de trabalho, assim como os adicionais de caráter individual, ou quaisquer outras vantagens pagas sobre o mesmo fundamento, ainda que sobre ela incida a contribuição previdenciária.~~<br>
+~~§ 3º - Fica vedada à inclusão, para cálculo do provento, de qualquer espécie remuneratória paga em decorrência de função de confiança, de cargo em comissão ou do local de trabalho, assim como os adicionais de caráter individual, ou quaisquer outras vantagens pagas sobre o mesmo fundamento, ainda que sobre ela incida a contribuição previdenciária.~~
+
 (R​evogado pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
-~~Art. 21-A - Ressalvado o direito de opção pelas demais aposentadorias voluntárias, o segurado, que tenha ingressado no serviço público até 16 de dezembro de 1998, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da última remuneração do cargo efetivo em que se der a aposentadoria, desde que preencha, cumulativamente, as seguintes condições:~~<br>
+~~Art. 21-A - Ressalvado o direito de opção pelas demais aposentadorias voluntárias, o segurado, que tenha ingressado no serviço público até 16 de dezembro de 1998, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da última remuneração do cargo efetivo em que se der a aposentadoria, desde que preencha, cumulativamente, as seguintes condições:~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 11, de 23 de dezembro de 2005~~
 
 ~~I- 35 (trinta e cinco) anos de contribuição, se homem, e 30 (trinta) anos de contribuição, se mulher;~~ 
@@ -389,17 +416,22 @@ Das Aposentadorias Pela Regra de Transição
 
 ~~III- idade mínima resultante da redução, relativamente aos limites do art. 18, inciso III, desta Lei, de 1 (um) ano de idade para cada ano de contribuição que exceder a condição prevista no inciso I, do caput deste artigo.~~
 
-~~§1°- Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados quaisquer beneficios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei, observando-se igual critério de revisão às pensões derivadas dos proventos de servidores falecidos, que tenham se aposentado em conformidade com este artigo.~~<br>
+~~§1°- Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados quaisquer beneficios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria, na forma da lei, observando-se igual critério de revisão às pensões derivadas dos proventos de servidores falecidos, que tenham se aposentado em conformidade com este artigo.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
 
-~~§2°- Entende-se por totalidade da remuneração o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em Lei, incorporadas ou incorporáveis à remuneração do servidor.~~<br>
+~~§2°- Entende-se por totalidade da remuneração o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em Lei, incorporadas ou incorporáveis à remuneração do servidor.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
 
-~~§3°- Fica vedada à inclusão, para cálculo do provento, de qualquer espécie remuneratória paga em decorrência de função de confiança, de cargo em comissão ou do local de trabalho, assim como os adicionais de caráter individual, ou quaisquer outras vantagens pagas sobre o mesmo fundamento, ainda que sobre ela incida a contribuição previdenciária.~~<br>
-~~(Redação acrescentada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~<br>
+~~§3°- Fica vedada à inclusão, para cálculo do provento, de qualquer espécie remuneratória paga em decorrência de função de confiança, de cargo em comissão ou do local de trabalho, assim como os adicionais de caráter individual, ou quaisquer outras vantagens pagas sobre o mesmo fundamento, ainda que sobre ela incida a contribuição previdenciária.~~
+
+~~(Redação acrescentada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
+
 (Revogado pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 Do Direito Adquirido
 
 Art. 22 - É assegurada a concessão, a qualquer tempo, de aposentadoria aos servidores públicos, bem como pensão aos seus dependentes, que, até 31 de dezembro de 2003, tenham cumprido todos os requisitos para obtenção desses benefícios, com base nos critérios da legislação então vigente.
@@ -408,11 +440,14 @@ Parágrafo único - Os proventos da aposentadoria a ser concedida aos servidores
 
 Art. 23 - O servidor de que trata o artigo anterior, que opte por permanecer em atividade tendo completado as exigências para aposentadoria voluntária e que conte com, no mínimo, vinte e cinco anos de contribuição, se mulher, ou trinta anos de contribuição, se homem, fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 Das Disposições Gerais Da Aposentadoria
 
-~~Art. 24- Com exceção dos beneficios de aposentadoria previstos nos artigos 21, 21-A е 22, desta Lei, o cálculo dos proventos de aposentadoria aqui previstos considerará a média aritmética simples das maiores remunerações, utilizadas como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado, correspondentes a 80% (oitenta por cento) de todo o periodo contributivo desde a competência julho de 1994, até a última competência percebida antes do requerimento do beneficio.~~<br>
-~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~<br>
+~~Art. 24- Com exceção dos beneficios de aposentadoria previstos nos artigos 21, 21-A е 22, desta Lei, o cálculo dos proventos de aposentadoria aqui previstos considerará a média aritmética simples das maiores remunerações, utilizadas como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado, correspondentes a 80% (oitenta por cento) de todo o periodo contributivo desde a competência julho de 1994, até a última competência percebida antes do requerimento do beneficio.~~
+
+~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 24 - Com exceção dos benefícios de aposentadoria previstos nos artigos 21 e 22 desta Lei, o cálculo dos proventos de aposentadoria aqui previstos considerará a média aritmética simples das maiores remunerações, utilizadas como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado, correspondentes a 80% (oitenta por cento) de todo o período contributivo desde a competência julho de 1994, até a última competência percebida antes do requerimento do benefício.~~
@@ -481,7 +516,8 @@ Art. 35 - A remuneração e o subsídio dos ocupantes de cargos, funções e emp
 
 § 2º - As remunerações, os subsídios e os benefícios de que trata o caput que estejam sendo percebidos em desacordo do disposto neste artigo serão imediatamente reduzidos aos limites dele decorrentes, de forma proporcional, mediante desconto do valor excedente.
 
-Art. 36- Os beneficios de aposentadoria e pensão, de que tratam esta Lei com exceção dos artigos 21, 21-A e 22, serão reajustados para preservar-lhes, em caráter permanente, o valor real, na mesma data eт que se der o reajuste dos beneficios do RGPS, de acordo com a variação do indice definido em Lei própria.<br>
+Art. 36- Os beneficios de aposentadoria e pensão, de que tratam esta Lei com exceção dos artigos 21, 21-A e 22, serão reajustados para preservar-lhes, em caráter permanente, o valor real, na mesma data eт que se der o reajuste dos beneficios do RGPS, de acordo com a variação do indice definido em Lei própria.
+
 (Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)
 
 ~~Art. 36 - Os benefícios de aposentadoria e pensão, de que tratam esta Lei com exceção dos artigos 21 e 22, serão reajustados para preservar-lhes, em caráter permanente, o valor real, na mesma data em que se der o reajuste dos benefícios do RGPS, de acordo com a variação do índice definido em Lei própria.~~
@@ -498,7 +534,8 @@ Art. 37 - O servidor que completar as exigências para aposentadoria estabelecid
 
 Art. 38 - O abono de permanência previsto no artigo anterior será concedido, nas mesmas condições, ao servidor abrangido pelo art. 23, da presente Lei.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 Do Auxílio Doença
 
 Art. 39 - O auxílio-doença será devido ao segurado que ficar incapacitado provisoriamente para o seu trabalho por mais de quinze dias consecutivos, por motivo de doença ou tratamento de saúde.
@@ -517,7 +554,8 @@ Art. 39 - O auxílio-doença será devido ao segurado que ficar incapacitado pro
 
 Art. 40 - O segurado em gozo de auxílio-doença, insusceptível de recuperação para exercício do seu cargo ou de readaptação de função deverá ser aposentado por invalidez.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 Do Salário-Maternidade
 
 Art. 41 - Será devido salário-maternidade à segurada gestante, por cento e vinte dias consecutivos, com início entre vinte e oito dias antes do parto e a data de ocorrência deste.
@@ -532,7 +570,8 @@ Art. 41 - Será devido salário-maternidade à segurada gestante, por cento e vi
 
 Art. 42 - O salário-maternidade não poderá ser acumulado com benefício por incapacidade.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 Do Salário-Família
 
 Art. 43 - Será devido o salário-família, mensalmente, ao segurado ativo ou inativo de baixa renda na proporção do número de filhos ou equiparados, de qualquer condição, de até quatorze anos ou inválidos.
@@ -557,7 +596,8 @@ II - R$ 14,99 (quatorze reais e noventa e nove centavos), para o segurado com re
 
 Parágrafo único - O benefício manterá um valor igual ao benefício equivalente aplicado no Regime Geral de Previdência Social, devendo ser corrigido na mesma data e índice do Instituto Nacional do Seguro Social – INSS.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 Da Pensão por Morte
 
 ~~Art. 48 - A pensão por morte consistirá numa importância mensal conferida ao conjunto dos dependentes do segurado, quando do seu falecimento.~~
@@ -568,7 +608,8 @@ Da Pensão por Morte
 
 ~~II - desaparecimento em acidente, desastre ou catástrofe.~~
 
-~~§ 2º - A pensão provisória será transformada em definitiva com o óbito do segurado ausente ou deve ser cancelada com reaparecimento do mesmo, ficando os dependentes desobrigados da reposição dos valores recebidos, salvo má-fé.<br>
+~~§ 2º - A pensão provisória será transformada em definitiva com o óbito do segurado ausente ou deve ser cancelada com reaparecimento do mesmo, ficando os dependentes desobrigados da reposição dos valores recebidos, salvo má-fé.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 49 - A pensão por morte será devida aos dependentes a contar:
@@ -585,7 +626,8 @@ IV - da data do requerimento de dependente devidamente inscrito, no caso deste s
 
 ~~I - à totalidade dos proventos percebidos pelo aposentado na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do regime geral de previdência social, acrescido de setenta por cento da parcela excedente a este limite; ou~~
 
-~~II - à totalidade da remuneração de contribuição percebida pelo servidor no cargo efetivo na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do regime geral de previdência social, acrescido de setenta por cento da parcela excedente a este limite.<br>
+~~II - à totalidade da remuneração de contribuição percebida pelo servidor no cargo efetivo na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do regime geral de previdência social, acrescido de setenta por cento da parcela excedente a este limite.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 51 - A pensão será rateada entre todos os dependentes em partes iguais e não será protelada pela falta de habilitação de outro possível dependente.
@@ -606,7 +648,8 @@ Art. 51 - A pensão será rateada entre todos os dependentes em partes iguais e 
 
 ~~III - pela cessação da invalidez comprovada pela Perícia do RPPS.~~
 
-~~Parágrafo único - Com a extinção do direito do último pensionista extinguir-se-á a pensão.<br>
+~~Parágrafo único - Com a extinção do direito do último pensionista extinguir-se-á a pensão.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 53 - A pensão poderá ser requerida a qualquer tempo, observado o artigo 58.
@@ -619,7 +662,8 @@ Art. 56 - A condição legal de dependente, para fins desta lei, é aquela verif
 
 Parágrafo único - A invalidez ou a alteração de condições quanto ao dependente, supervenientes à morte do segurado, não darão origem a qualquer direito à pensão.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 Do Auxílio-Reclusão
 
 Art. 57 - O auxílio-reclusão consistirá numa importância mensal concedida aos dependentes do segurado de baixa renda recolhido à prisão que não perceber remuneração dos cofres públicos.
@@ -642,7 +686,8 @@ II - certidão emitida pela autoridade competente sobre o efetivo recolhimento d
 
 § 7º - Se o segurado preso vier a falecer na prisão, o benefício será transformado em pensão por morte.
 
-CAPÍTULO XII<br>
+CAPÍTULO XII
+
 Das Disposições Gerais Sobre Os Benefícios
 
 Art. 58 - Prescreve em 5 (cinco) anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação do beneficiário para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pelo Regime Próprio de Previdência Social de Aparecida de Goiânia.
@@ -673,23 +718,29 @@ III - a pensão de alimentos prevista em decisão judicial; e
 
 IV - contribuição de inativos e pensionistas previstas nesta lei.
 
-Art. 62 - Os valores do benefício do salário-maternidade, serão calculados pela totalidade da última remuneração de contribuição do cargo efetivo em que se der a concessão do benefício, sendo esse valor fixado preservado do início ao término do direito, ser pago pelo órgão de origem do segurado.<br>
+Art. 62 - Os valores do benefício do salário-maternidade, serão calculados pela totalidade da última remuneração de contribuição do cargo efetivo em que se der a concessão do benefício, sendo esse valor fixado preservado do início ao término do direito, ser pago pelo órgão de origem do segurado.
+
 (Redação alterada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 62- Os proventos dos beneficios de auxílio-doença e salário- maternidade, serão calculados pela totalidade da última remuneração do cargo efetivo em que se der a concessão do beneficio.~~ <br>
+~~Art. 62- Os proventos dos beneficios de auxílio-doença e salário- maternidade, serão calculados pela totalidade da última remuneração do cargo efetivo em que se der a concessão do beneficio.~~ 
+
 ~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
 
-~~§ 1°- Revogado.~~<br>
+~~§ 1°- Revogado.~~
+
 ~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
 
-~~§2°- Entende-se por remuneração do cargo efetivo, para efeitos desta Lei, o valor constituido pelo vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei, dos adicionais de caráter indivicual, ou demais vantagens de qualquer natureza, desde que incorporadas pelo segurado.~~ <br>
+~~§2°- Entende-se por remuneração do cargo efetivo, para efeitos desta Lei, o valor constituido pelo vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei, dos adicionais de caráter indivicual, ou demais vantagens de qualquer natureza, desde que incorporadas pelo segurado.~~ 
+
 ~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
 
-~~§3°- É permitida, por opção, formal do servidor, incluir na base de cálculo de seu beneficio o valor de vantagens pecuniárias percebidas por exercicio de cargo em comissão ou função gratificada. Crescendo e Mode~~ <br>
+~~§3°- É permitida, por opção, formal do servidor, incluir na base de cálculo de seu beneficio o valor de vantagens pecuniárias percebidas por exercicio de cargo em comissão ou função gratificada. Crescendo e Mode~~ 
+
 ~~(Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)~~
 
-~~§4°- O provento do Auxilio-Reclusão será calculado na forma do caput e será devido aos dependentes do segurado considerado de baixa renda, na forma da lei.~~ <br>
-~~(Redação alterada pela~~ ~~Lei Complementar nº 11, de 23 de dezembro de 2005)~~
+~~§4°- O provento do Auxilio-Reclusão será calculado na forma do caput e será devido aos dependentes do segurado considerado de baixa renda, na forma da lei.~~ 
+
+~~(Redação alterada pelaLei Complementar nº 11, de 23 de dezembro de 2005)~~
 
 ~~Art. 62 - Os proventos dos benefícios de auxílio-doença, salário-maternidade e auxílio-reclusão serão calculados pela média aritmética simples das doze últimas remunerações de contribuição.~~
 
@@ -705,7 +756,8 @@ Art. 64 - Os proventos de pensões serão revistos na mesma proporção e na mes
 
 Art. 65 - Na hipótese do inciso II do art. 5º, o servidor mantém a qualidade de segurado até doze meses após a cessação das contribuições.
 
-~~§ 1º - O prazo a que se refere o caput será prorrogado por mais doze meses, caso o servidor tenha quantidade igual ou superior a 120 (cento e vinte) contribuições.~~<br>
+~~§ 1º - O prazo a que se refere o caput será prorrogado por mais doze meses, caso o servidor tenha quantidade igual ou superior a 120 (cento e vinte) contribuições.~~
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 § 2º - O período de afastamento sem contribuição não será computado para contagem do tempo de contribuição daquele que mantém a qualidade de segurado, não lhe sendo devido benefícios previdenciários as expensas do APRECIDAPREV, com exceção da pensão por morte.
@@ -714,7 +766,8 @@ Art. 65 - Na hipótese do inciso II do art. 5º, o servidor mantém a qualidade 
 
 § 4º - É permitido ao segurado afastado efetuar o recolhimento das contribuições previdenciárias devidas por ele e a respectiva parte patronal, sendo que neste caso permanecerá na condição de segurado até a cessação das contribuições quando iniciará a contagem do prazo estabelecido no caput.
 
-~~§ 5º - O segurado afastado que continuar a contribuir nos termos previstos no parágrafo anterior, não poderá ser beneficiado, durante o período de afastamento, por auxílio-doença, salário-maternidade e salário-família.<br>
+~~§ 5º - O segurado afastado que continuar a contribuir nos termos previstos no parágrafo anterior, não poderá ser beneficiado, durante o período de afastamento, por auxílio-doença, salário-maternidade e salário-família.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 65-A Mantém a qualidade de segurado, independentemente de contribuições:
@@ -737,7 +790,8 @@ VI - até 6 (seis) meses após a cessação das contribuições, o segurado facu
 
 § 3º A perda da qualidade de segurado ocorrerá no dia seguinte ao do término do prazo fixado no Plano de Custeio da Seguridade Social para recolhimento da contribuição referente ao mês imediatamente posterior ao do final dos prazos fixados neste artigo e seus parágrafos.
 
-§ 4º. Fica vedado o pagamento retroativo sobre períodos de licença sem remuneração, quando o servidor não exerceu a faculdade de contribuir enquanto esteve fora de suas atividades.<br>
+§ 4º. Fica vedado o pagamento retroativo sobre períodos de licença sem remuneração, quando o servidor não exerceu a faculdade de contribuir enquanto esteve fora de suas atividades.
+
 (Redação acrescentada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 65-B. A concessão das prestações pecuniárias depende dos seguintes períodos de carência: 
@@ -750,10 +804,12 @@ III - salário-maternidade para as seguradas, conforme previsto nessa lei: 10 (d
 
 IV - auxílio-reclusão: 24 (vinte e quatro) contribuições mensais.
 
-Parágrafo único. Em caso de parto antecipado, o período de carência a que se refere o inciso III será reduzido em número de contribuições equivalente ao número de meses em que o parto foi antecipado.<br>
+Parágrafo único. Em caso de parto antecipado, o período de carência a que se refere o inciso III será reduzido em número de contribuições equivalente ao número de meses em que o parto foi antecipado.
+
 (Redação acrescentada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-Art. 66 Concedida à aposentadoria ou pensão, através de portaria do Presidente do APARECIDAPREV, será o ato publicado no Diário Oficial Eletrônico do Município e encaminhado à apreciação do Tribunal de Contas dos Municípios do Estado de Goiás - TCM/GO. <br>
+Art. 66 Concedida à aposentadoria ou pensão, através de portaria do Presidente do APARECIDAPREV, será o ato publicado no Diário Oficial Eletrônico do Município e encaminhado à apreciação do Tribunal de Contas dos Municípios do Estado de Goiás - TCM/GO. 
+
 (Redação alterada pela Lei Complementar nº 154, de 23 de novembro de 2018)
 
 ~~Art. 66 - Concedida à aposentadoria ou pensão, através de Decreto do Chefe do Executivo, será o ato publicado e encaminhado à apreciação do Tribunal de Contas dos Municípios do Estado de Goiás (TCM/GO).~~
@@ -768,30 +824,36 @@ Art. 66 Concedida à aposentadoria ou pensão, através de portaria do President
 
 Art. 67 - Fica vedada à celebração de convênio, consórcio ou outra forma de associação para a concessão dos benefícios previdenciários de que trata esta lei com a União, Estado, Distrito Federal ou outros Municípios.
 
-CAPÍTULO XIII<br>
+CAPÍTULO XIII
+
 Do Décimo Terceiro Salário
 
 Art. 68- Será devido o décimo terceiro salário aos beneficiários do Regime Próprio de Previdência Social de Aparecida de Goiânia que, durante o ano, receberam beneficios custeados pelo APARECIDAPREV. 
 
 §1°- O décimo terceiro salário tem por base de cálculo o valor da remuneração de contribuição do mês de dezembro de cada ano, sendo pago proporcionalmente ao periodo em que o segurado percebeu proventos relativos aos beneficios previstos no caput, observando-se o que dispõe o art. 81, da Lei Complementar 003, de 28 de dezembro de 2001. 
 
-§ 2° - É de responsabilidade do APARECIDAPREV o pagamento do décimo terceiro salário proporcional aos meses de beneficio, sendo o restante de responsabilidade do órgão público a que o segurado estiver vinculado.<br>
+§ 2° - É de responsabilidade do APARECIDAPREV o pagamento do décimo terceiro salário proporcional aos meses de beneficio, sendo o restante de responsabilidade do órgão público a que o segurado estiver vinculado.
+
 (Redação alterada pela Lei Complementar nº 11, de 23 de dezembro de 2005)
 
 ~~Art. 68 - Será devido o décimo terceiro salário aos beneficiários do Regime Próprio de Previdência Social de Aparecida de Goiânia que, durante o ano, receberam aposentadoria ou pensão.~~
 
 ~~Parágrafo único - O décimo terceiro salário tem por base de cálculo o valor da remuneração de contribuição do mês de novembro de cada ano, sendo pago proporcionalmente ao período em que o segurado percebeu proventos relativos aos benefícios previstos no caput.~~
 
-TITULO III<br>
+TITULO III
+
 DO CUSTEIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Da Entidade Gestora
 
-~~Art. 69 - Fica mantido o Fundo de Previdência do Município de Aparecida de Goiânia – APARECIDAPREV, que passa a ser uma autarquia municipal regida pelos dispositivos da presente Lei, com personalidade jurídica própria, como a entidade responsável pela gestão do Regime Próprio de Previdência Social de Aparecida de Goiânia.<br>
+~~Art. 69 - Fica mantido o Fundo de Previdência do Município de Aparecida de Goiânia – APARECIDAPREV, que passa a ser uma autarquia municipal regida pelos dispositivos da presente Lei, com personalidade jurídica própria, como a entidade responsável pela gestão do Regime Próprio de Previdência Social de Aparecida de Goiânia.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 70 - O APARECIDAPREV será a pessoa jurídica de direito público interno responsável pela gestão administrativa, jurídica e financeira do Regime Próprio de Previdência Social de Aparecida de Goiânia.<br>
+~~Art. 70 - O APARECIDAPREV será a pessoa jurídica de direito público interno responsável pela gestão administrativa, jurídica e financeira do Regime Próprio de Previdência Social de Aparecida de Goiânia.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Parágrafo único - A organização administrativa do APARECIDAPREV obedecerá o organograma previsto no Anexo I desta Lei e ao estabelecido em regulamento próprio.~~
@@ -806,14 +868,16 @@ Da Entidade Gestora
 
 ~~IV - Procurador Previdenciário.~~
 
-~~§ 1º- O cargo em comissão de Presidente da autarquia APARECIDAPREV, será de livre nomeação e exoneração pelo Chefe do Poder Executivo, tendo o nomeado status e vencimentos de secretário municipal.~~<br>
+~~§ 1º- O cargo em comissão de Presidente da autarquia APARECIDAPREV, será de livre nomeação e exoneração pelo Chefe do Poder Executivo, tendo o nomeado status e vencimentos de secretário municipal.~~
+
 ~~(Redação alterada pela Lei Complementar nº 19, de 25 de junho de 2009)~~
 
 ~~§ 1º - O cargo em comissão de Presidente será exercida por servidor segurado, pelo APARECIDAPREV, sendo de livre nomeação e exoneração do Chefe do Poder Executivo, com status de Secretário Municipal.~~
 
 ~~§ 2º - Os cargos em comissão de Diretor Financeiro e Diretor de Benefícios são de livre nomeação e exoneração do Chefe do Poder Executivo, devendo os escolhidos possuir como qualificação mínima curso superior completo ou em curso.~~
 
-~~§ 3º - O cargo em comissão de Procurador Previdenciário é de livre nomeação e exoneração do Chefe do Poder Executivo.<br>
+~~§ 3º - O cargo em comissão de Procurador Previdenciário é de livre nomeação e exoneração do Chefe do Poder Executivo.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 72 - A remuneração da Diretoria do APARECIDAPREV será determinada pelo quadro que segue:~~
@@ -825,7 +889,8 @@ Da Entidade Gestora
 | ~~DIRETOR DE BENEFÍCIOS~~ | ~~01~~ | ~~COMISSÃO~~ | ~~APARECIDAPREV~~ | ~~40% DO SECRETÁRIO MUNICIPAL~~ |
 | ~~PROCURADOR PREVIDENCIÁRIO~~ | ~~01~~ | ~~COMISSÃO~~ | ~~APARECIDAPREV~~ | ~~40% DO SECRETÁRIO MUNICIPAL~~ |
 
-~~Parágrafo único -    As remunerações previstas neste artigo ficarão a cargo do APARECIDAPREV. <br>~~ (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
+~~Parágrafo único -    As remunerações previstas neste artigo ficarão a cargo do APARECIDAPREV. 
+~~ (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 73 -    Compete ao APARECIDAPREV:
 
@@ -859,27 +924,32 @@ IX -    prestar contas perante os órgãos competentes e seus segurados.
 
 ~~III -    contratar, em conjunto com os Diretores serviços de assessoria e técnicos especializados necessários para dar suporte ao bom funcionamento do APARECIDAPREV;~~
 
-~~IV -    zelar pelo bom funcionamento do Regime Próprio de Previdência Social de Aparecida de Goiânia.<br>
+~~IV -    zelar pelo bom funcionamento do Regime Próprio de Previdência Social de Aparecida de Goiânia.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 75 -    Cabe aos Diretores:~~
 
 ~~I -    Financeiro, assessorar o Presidente nas competências elencadas nos incisos I, IV, V e IX, do art. 73;~~
 
-~~II -    Benefícios, cabe assessorar o Presidente nas competências elencadas nos incisos II, III, VI e VIII, do art. 73.<br>
+~~II -    Benefícios, cabe assessorar o Presidente nas competências elencadas nos incisos II, III, VI e VIII, do art. 73.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 76 -     Ao Procurador de Previdência cabe assessorar o Presidente na competência prevista no inciso VII, do art. 73, além de assessorar os demais Diretores em suas competências especificas e a orientação jurídica em geral.<br>
+~~Art. 76 -     Ao Procurador de Previdência cabe assessorar o Presidente na competência prevista no inciso VII, do art. 73, além de assessorar os demais Diretores em suas competências especificas e a orientação jurídica em geral.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-Seção I<br>
+Seção I
+
 Do Fundo Especial Da Previdência Social
 
 Art. 77 -    O Fundo de Liquidez da Previdência Social – FLPS de Aparecida de Goiânia, será constituído como um fundo contábil nos termos da Lei nº 4.320, de 17 de março de 1964 e terá como finalidade prover recursos para o pagamento dos benefícios do Regime Próprio de Previdência Social do Município.
 
 Parágrafo único -    O FLPS integrará o APARECIDAPREV que passará a ser responsável por sua gestão administrativa e financeira, assim como sua representação jurídica.
 
-Seção II<br>
+Seção II
+
 Das Fontes De Receita
 
 Art. 78 - São fontes de receita do FLPS com destinação exclusiva para acumulação de reserva financeira com finalidade de prover o pagamento dos benefícios de responsabilidade do Regime Próprio de Previdência Social de Aparecida de Goiânia:
@@ -920,7 +990,8 @@ XVII - renda líquida dos concursos de prognósticos, considerando todos e quais
 
 XVIII - aportes provenientes de Certificados de Recebíveis Imobiliários - CRIs, cotas de Fundos de Investimentos e Direitos Creditórios - FIDCs, Fundos Imobiliários e Certificados de Direitos Creditórios Imobiliários – CDC-I;
 
-XVIV - outras receitas não previstas nos itens precedentes.<br>
+XVIV - outras receitas não previstas nos itens precedentes.
+
 (Redação alterada pela Lei Complementar nº 14, de 7 de dezembro de 2006)
 
 ~~Art. 78 -    São fontes de receita do FLPS com destinação exclusiva para acumulação de reserva financeira com finalidade de prover o pagamento dos benefícios de responsabilidade do Regime Próprio de Previdência Social de Aparecida de Goiânia:~~ 
@@ -943,7 +1014,8 @@ XVIV - outras receitas não previstas nos itens precedentes.<br>
 
 § 3º -    Nenhuma prestação do Regime Próprio de Previdência Social de Aparecida de Goiânia será criada, majorada ou estendida sem a correspondente fonte de custeio total.
 
-§ 4º - Fica estabelecido o Plano de Custeio do APARECIDAPREV, que será financiado através das contribuições dos seus segurados ativos, inativos e pensionistas e da contribuição patronal previstas na presente Lei Complementar.<br>
+§ 4º - Fica estabelecido o Plano de Custeio do APARECIDAPREV, que será financiado através das contribuições dos seus segurados ativos, inativos e pensionistas e da contribuição patronal previstas na presente Lei Complementar.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
 ~~§ 4º - Os segurados do APARECIDAPREV, elencados no art. 7°, desta Lei Complementar, para efeitos do PLANO DE CUSTEIO, serão subdivididos em 2 (dois) Grupos:~~
@@ -958,13 +1030,16 @@ XVIV - outras receitas não previstas nos itens precedentes.<br>
 
 ~~a) segurados ativos e seus dependentes, quando beneficiários de pensão, não referenciados no Grupo 1, que completarem os requisitos necessários para a entrada em gozo de benefício previdenciário a partir de 01/01/2017;~~
 
-~~b) todos os segurados efetivados no Município que ingressarem após a entrada em vigor desta Lei.~~<br>
+~~b) todos os segurados efetivados no Município que ingressarem após a entrada em vigor desta Lei.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
-§ 5 º - O Município de Aparecida de Goiânia, através de seus órgãos contribuintes do APARECIDAPREV, em adição à sua contribuição previdenciária prevista nesta Lei Complementar, é responsável pela realização de aportes mensais até a data de pagamento da folha de benefícios dos segurados inativos e pensionistas.<br>
+§ 5 º - O Município de Aparecida de Goiânia, através de seus órgãos contribuintes do APARECIDAPREV, em adição à sua contribuição previdenciária prevista nesta Lei Complementar, é responsável pela realização de aportes mensais até a data de pagamento da folha de benefícios dos segurados inativos e pensionistas.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-~~§ 5º - As alíquotas de contribuição mensal previstas no art. 80, § 2°, incisos I e II, desta Lei Complementar, serão destinadas à formação da Conta Capitalizada, responsável pela constituição das Reservas Técnicas do Grupo 2.~~<br>
+~~§ 5º - As alíquotas de contribuição mensal previstas no art. 80, § 2°, incisos I e II, desta Lei Complementar, serão destinadas à formação da Conta Capitalizada, responsável pela constituição das Reservas Técnicas do Grupo 2.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
 § 6º - Para efeito do Plano de Custeio e obtenção do financeiro e atuarial do APARECIDAPREV, institui-se que a base de cálculo dos aportes previstos no parágrafo anterior é a constituída na forma abaixo:
@@ -977,13 +1052,16 @@ III – segurados ativos que vierem a se aposentar até 31 de dezembro de 2024;
 
 IV – os beneficiários de pensão originadas por morte dos segurados referidos nas alíneas anteriores, concedidas a qualquer tempo;
 
-V – dependentes dos servidores ativos ou inativos, que venham a obter pensão até 31 de dezembro de 2024.<br>
+V – dependentes dos servidores ativos ou inativos, que venham a obter pensão até 31 de dezembro de 2024.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-~~§ 6º - A alíquota de contribuição prevista no art. 80, §2°, inciso III, desta Lei Complementar, serão destinadas a formação da Conta Tesouro, que será responsável pelo pagamento dos benefícios do Grupo 1.~~<br>
+~~§ 6º - A alíquota de contribuição prevista no art. 80, §2°, inciso III, desta Lei Complementar, serão destinadas a formação da Conta Tesouro, que será responsável pelo pagamento dos benefícios do Grupo 1.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
-§ 7º - Os aportes de que trata o caput deste artigo, não excederão o prazo máximo de 35 anos.<br>
+§ 7º - Os aportes de que trata o caput deste artigo, não excederão o prazo máximo de 35 anos.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
 ~~§ 7º - Os benefícios serão pagos aos segurados através do APARECIDAPREV, da seguinte forma:~~
@@ -992,25 +1070,32 @@ V – dependentes dos servidores ativos ou inativos, que venham a obter pensão 
 
 ~~II - benefícios de auxílio-doença, auxílio reclusão, salário-maternidade e salário-família dos integrantes do Grupo 1 e 2, serão custeados pelos recursos oriundos das contribuições dos segurados e dos recursos capitalizados pelo APARECIDAPREV, bem como os resultados das aplicações financeiras e da compensação financeira entre regimes previdenciários;~~
 
-~~III - benefícios de aposentadoria e pensão por morte, concedidos a partir de 01/01/2017, comporão o Grupo 2 e serão pagos com recursos oriundos das contribuições dos segurados e dos recursos capitalizados pelo APARECIDAPREV, bem como os resultados das aplicações financeiras e da compensação financeira entre regimes previdenciários.~~<br>
+~~III - benefícios de aposentadoria e pensão por morte, concedidos a partir de 01/01/2017, comporão o Grupo 2 e serão pagos com recursos oriundos das contribuições dos segurados e dos recursos capitalizados pelo APARECIDAPREV, bem como os resultados das aplicações financeiras e da compensação financeira entre regimes previdenciários.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
-§ 8º - O valor dos aportes a que se refere o§ 4º, deste artigo, deverá ser equivalente à diferença entre o valor da contribuição patronal e a folha  mensal  de benefícios  dos segurados, que constituem a Base de Cálculo dos Aportes previstos nos incisos I, II, III, IV e V,  do § 6º, quando a folha de benefícios for superior à contribuição patronal.<br>
+§ 8º - O valor dos aportes a que se refere o§ 4º, deste artigo, deverá ser equivalente à diferença entre o valor da contribuição patronal e a folha  mensal  de benefícios  dos segurados, que constituem a Base de Cálculo dos Aportes previstos nos incisos I, II, III, IV e V,  do § 6º, quando a folha de benefícios for superior à contribuição patronal.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-~~§ 8º - As despesas oriundas dos benefícios previstos no inciso I, do parágrafo anterior, que ultrapassarem o valor da contribuição patronal, deverão ser custeados pelo Município de Aparecida de Goiânia, sendo vedada a utilização dos recursos oriundos das contribuições dos segurados e dos recursos capitalizados pelo APARECIDAPREV, bem como os resultados das aplicações financeiras e da compensação financeira entre regimes previdenciários.~~<br>
+~~§ 8º - As despesas oriundas dos benefícios previstos no inciso I, do parágrafo anterior, que ultrapassarem o valor da contribuição patronal, deverão ser custeados pelo Município de Aparecida de Goiânia, sendo vedada a utilização dos recursos oriundos das contribuições dos segurados e dos recursos capitalizados pelo APARECIDAPREV, bem como os resultados das aplicações financeiras e da compensação financeira entre regimes previdenciários.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
-§ 9º - O Plano de Custeio do APARECIDAPREV será revisto anualmente, observadas as normas gerais de atuária, objetivando a manutenção de seu equilíbrio financeiro e atuarial.<br>
+§ 9º - O Plano de Custeio do APARECIDAPREV será revisto anualmente, observadas as normas gerais de atuária, objetivando a manutenção de seu equilíbrio financeiro e atuarial.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-~~§ 9º - As fontes de receita previstas nos incisos do caput deste artigo serão regulamentadas pelo Chefe do Poder Executivo, podendo este delegar esta função ao Presidente do APARECIDAPREV.~~<br>
+~~§ 9º - As fontes de receita previstas nos incisos do caput deste artigo serão regulamentadas pelo Chefe do Poder Executivo, podendo este delegar esta função ao Presidente do APARECIDAPREV.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
-§ 10 - O Demonstrativo de Resultado da Avaliação Atuarial – DRAA juntamente com o Plano de Custeio do APARECIDAPREV, a partir do exercício de 2010, será encaminhado ao Ministério da Previdência Social, até 31 de março de cada exercício.<br>
+§ 10 - O Demonstrativo de Resultado da Avaliação Atuarial – DRAA juntamente com o Plano de Custeio do APARECIDAPREV, a partir do exercício de 2010, será encaminhado ao Ministério da Previdência Social, até 31 de março de cada exercício.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-~~§ 10 - O pagamento dos benefícios ao Grupo 1, serão transferidos ao APARECIDAPREV quando o equilíbrio financeiro e atuarial do APARECIDAPREV atingir recursos suficientes para o custeio dos benefícios dos Grupos 1 e 2, em sua totalidade ou proporcionalmente ou até a extinção do Grupo 1.~~<br>
+~~§ 10 - O pagamento dos benefícios ao Grupo 1, serão transferidos ao APARECIDAPREV quando o equilíbrio financeiro e atuarial do APARECIDAPREV atingir recursos suficientes para o custeio dos benefícios dos Grupos 1 e 2, em sua totalidade ou proporcionalmente ou até a extinção do Grupo 1.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
 Art. 79 - O valor anual da taxa de administração do APARECIDAPREV será de até 2,4% do valor total da remuneração, de contribuição dos servidores efetivos, com base no exercício anterior, observando que:
@@ -1051,13 +1136,16 @@ b) capacitação e atualização dos gestores e membros dos conselhos e comitê.
 
 I - deverá ser aplicada a partir do início do exercício subsequente ao da publicação da lei de que trata o caput do § 4º, condicionada à prévia formalização da adesão ao Pró-Gestão - RPPS;
 
-II - deixará de ser aplicada se, no prazo de dois anos, contado a partir da data prevista no inciso I, o RPPS não obtiver a certificação institucional em um dos níveis de aderência estabelecidos no Pró-Gestão RPPS;<br>
+II - deixará de ser aplicada se, no prazo de dois anos, contado a partir da data prevista no inciso I, o RPPS não obtiver a certificação institucional em um dos níveis de aderência estabelecidos no Pró-Gestão RPPS;
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 79 - O valor anual da taxa de administração do Aparecidaprev será de até 2% do valor total da remuneração, subsídios, proventos e pensões pagos aos seus segurados e beneficiários no exercício anterior.~~<br>
+~~Art. 79 - O valor anual da taxa de administração do Aparecidaprev será de até 2% do valor total da remuneração, subsídios, proventos e pensões pagos aos seus segurados e beneficiários no exercício anterior.~~
+
 ~~(Redação alterada pela Lei Complementar nº 123, de 12 de dezembro de 2016).~~
 
-~~Art. 79 - O valor anual da taxa de administração do APARECIDAPREV é de 2% (dois por cento) do valor total da remuneração, subsídios, proventos e pensões pagas aos seus segurados e beneficiários no exercício financeiro anterior.~~<br>
+~~Art. 79 - O valor anual da taxa de administração do APARECIDAPREV é de 2% (dois por cento) do valor total da remuneração, subsídios, proventos e pensões pagas aos seus segurados e beneficiários no exercício financeiro anterior.~~
+
 ~~(Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).~~
 
 ~~Art. 79 -    O APARECIDAPREV terá seus gastos administrativos mantidos pelos recursos do FLPS, até o limite anual de dois por cento do total gasto com os seus segurados no exercício anterior.~~ 
@@ -1072,54 +1160,150 @@ II - deixará de ser aplicada se, no prazo de dois anos, contado a partir da dat
 
 ~~§ 5º -    A extinção do APARECIDAPREV, que se trata da unidade gestora do regime próprio de previdência social do Município, não acarretará na extinção do FLPS e do próprio sistema previdenciário próprio de Aparecida de Goiânia, ficando seus recursos destinados a constituir o patrimônio da futura unidade gestora e para os fins dispostos no §1º, deste artigo.~~
 
-Seção III<br>
+Seção III
+
 Da Contribuição Previdenciária
 
-Art. 80 - A alíquota de contribuição previdenciária total deverá ser de 22,50%, sendo 11,50% a parte total do Ente e a parte total contributiva do Servidor de 11,00% revistas de acordo com as reavaliações atuariais anuais e, havendo manutenção ou aumento da alíquota do Ente, a alteração poderá ser efetuada por Decreto Municipal. <br>
+Art. 80 - A alíquota de contribuição previdenciária total deverá ser de 22,50%, sendo 11,50% a parte total do Ente e a parte total contributiva do Servidor de 11,00% revistas de acordo com as reavaliações atuariais anuais e, havendo manutenção ou aumento da alíquota do Ente, a alteração poderá ser efetuada por Decreto Municipal. 
+
 (Redação alterada pelo Decreto "N" Nº 221, de 25 de outubro de 2016)
 
-~~Art. 80. A contribuição previdenciária de que trata o inciso III, §2º do art. 80 desta Lei, de responsabilidade do ente, será de 9,00%  (alíquota do custo normal) incidente sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos, incluída nesse percentual 2% para as despesas administrativas conforme definida na reavaliação atuarial de 2014.~~<br>
+~~Art. 80. A contribuição previdenciária de que trata o inciso III, §2º do art. 80 desta Lei, de responsabilidade do ente, será de 9,00%  (alíquota do custo normal) incidente sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos, incluída nesse percentual 2% para as despesas administrativas conforme definida na reavaliação atuarial de 2014.~~
+
 ~~(Redação alterada pela Lei Complementar nº 92, de 31 de julho de 2014).~~
 
 ~~Art. 80 -    O percentual da remuneração do servidor segurado ativo e inativo ou pensionista, bem como, o percentual do montante da folha mensal dos servidores segurados ativos a ser repassado como contribuição para o APARECIDAPREV, será o determinado por esta Lei e poderão ser alteradas segundo a necessidade verificada através de estudos atuariais.~~
 
 § 1º -    O Poder Executivo deverá, mediante Lei alterar os percentuais de contribuições  previstos no § 2º deste artigo, desde que o  custo  total dos benefícios previdenciários assim o exija, com base em estudo atuarial, observado como limite o estabelecido na Lei Federal nº 9.717, de 27 de novembro de 1998.
 
-§ 2º. A contribuição previdenciária será de 19,24% (alíquota normal) incidente sobre a totalidade da remuneração de contribuição, incluída nesse percentual a fonte de financiamento para as despesas administrativas definida na avaliação atuarial.<br>
+§ 2º. A contribuição previdenciária será de 19,24% (alíquota normal) incidente sobre a totalidade da remuneração de contribuição, incluída nesse percentual a fonte de financiamento para as despesas administrativas definida na avaliação atuarial.
+
 (Redação alterada pela Lei Complementar nº 74, de 8 de outubro de 2023).
 
-I – o produto da arrecadação referente às contribuições de caráter compulsório, dos servidores ativos de qualquer dos Poderes do Município, suas autarquias e fundações na razão de 14% (quatorze por cento) sobre a remuneração de contribuição;<br>
+I – o produto da arrecadação referente às contribuições de caráter compulsório, dos servidores ativos de qualquer dos Poderes do Município, suas autarquias e fundações na razão de 14% (quatorze por cento) sobre a remuneração de contribuição;
+
 (Redação alterada pela Lei Complementar nº 180, de 21 de dezembro de 2020).
 
-~~I - Para custeio do déficit atuarial, do 1º período ao 5º período, fica instituída contribuição a cargo do ente o percentual de 2,76% (alíquota suplementar) incidente sobre a totalidade da remuneração de contribuição.~~ <br>
+~~I - Para custeio do déficit atuarial, do 1º período ao 5º período, fica instituída contribuição a cargo do ente o percentual de 2,76% (alíquota suplementar) incidente sobre a totalidade da remuneração de contribuição.~~ 
+
 ~~(Redação alterada pela Lei Complementar nº 74, de 8 de outubro de 2013).~~
 
-II – o produto da arrecadação referente às contribuições dos aposentados e pensionistas de qualquer dos Poderes do Município, suas autarquias e fundações na razão de 14% (quatorze por cento), incidentes sobre a parcela dos benefícios que supere o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social de que trata o Art. 201 da Constituição Federal;<br>
+II – o produto da arrecadação referente às contribuições dos aposentados e pensionistas de qualquer dos Poderes do Município, suas autarquias e fundações na razão de 14% (quatorze por cento), incidentes sobre a parcela dos benefícios que supere o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social de que trata o Art. 201 da Constituição Federal;
+
 (Redação alterada pela Lei Complementar nº 180, de 21 de dezembro de 2020).
 
-~~II - Para custeio do déficit atuarial total, fica instituída alíquota suplementar a cargo do ente a ser cobrada de forma escalonada conforme descrito na tabela a seguir:~~<br>
+~~II - Para custeio do déficit atuarial total, fica instituída alíquota suplementar a cargo do ente a ser cobrada de forma escalonada conforme descrito na tabela a seguir:~~
+
 ~~(Redação alterada pela Lei Complementar nº 74, de 8 de outubro de 2013).~~
 
-<table><tbody><tr><td style=" width:16%;  height:76px;    "><s><b>Período</b></s></td><td style=" width:16%;  height:76px;    "><s><b>Aliquota Custo Normal e Taxa de AdministraçãoTotal Mensal</b></s></td><td style=" width:16%;  height:76px;    "><s><b>Alíquota Contribuição - Custo Suplementar Total Mensal</b></s></td><td style=" width:16%;  height:76px;    "><s><b>Alíquota - Total Mensal</b></s></td><td style=" width:18%;  height:76px;    "><s><b>Alíquota Ente/Prefeitura - Total Mensal</b></s></td><td style=" width:15%;  height:76px;    "><s><b>Alíquota de do Servidor - Total Mensal</b></s></td></tr><tr><td style=" width:16%;  height:17px;   "><s>1º ao 5º ano</s></td><td style=" width:16%;  height:17px;   "><s>19,24%</s></td><td style=" width:16%;  height:17px;   "><s>2,76%</s></td><td style=" width:16%;  height:17px;   "><s>22,00%</s></td><td style=" width:18%;  height:17px;   "><s>11,00%</s></td><td style=" width:15%;  height:17px;   "><s>11,00%</s></td></tr><tr><td style=" width:16%;  height:17px;   "><s>6º ao 10º ano</s></td><td style=" width:16%;  height:17px;   "><s>19,24%</s></td><td style=" width:16%;  height:17px;   "><s>2,76%</s></td><td style=" width:16%;  height:17px;   "><s>22,00%</s></td><td style=" width:18%;  height:17px;   "><s>11,00%</s></td><td style=" width:15%;  height:17px;   "><s>11,00%</s></td></tr><tr><td style=" width:16%;  height:17px;   "><s>11º ao 15º ano</s></td><td style=" width:16%;  height:17px;   "><s>19,24%</s></td><td style=" width:16%;  height:17px;   "><s>3,76%</s></td><td style=" width:16%;  height:17px;   "><s>23,00%</s></td><td style=" width:18%;  height:17px;   "><s>12,00%</s></td><td style=" width:15%;  height:17px;   "><s>11,00%</s></td></tr><tr><td style=" width:16%;  height:18px;   "><s>16º ao 20º ano</s></td><td style=" width:16%;  height:18px;   "><s>19,24%</s></td><td style=" width:16%;  height:18px;   "><s>5,56%</s></td><td style=" width:16%;  height:18px;   "><s>24,80%</s></td><td style=" width:18%;  height:18px;   "><s>13,80%</s></td><td style=" width:15%;  height:18px;   "><s>11,00%</s></td></tr><tr><td style=" width:16%;  height:18px;   "><s>21º ao 25º ano</s></td><td style=" width:16%;  height:18px;   "><s>19,24%</s></td><td style=" width:16%;  height:18px;   "><s>5,76%</s></td><td style=" width:16%;  height:18px;   "><s>25,00%</s></td><td style=" width:18%;  height:18px;   "><s>14,00%</s></td><td style=" width:15%;  height:18px;   "><s>11,00%</s></td></tr><tr><td style=" width:16%;  height:18px;   "><s>26º ao 33º ano</s></td><td style=" width:16%;  height:18px;   "><s>19,24%</s></td><td style=" width:16%;  height:18px;   "><s>6,27%</s></td><td style=" width:16%;  height:18px;   "><s>25,51%</s></td><td style=" width:18%;  height:18px;   "><s>14,51%</s></td><td style=" width:15%;  height:18px;   "><s>11,00%</s></td></tr></tbody></table>
+~~**Período**~~
+
+~~**Aliquota Custo Normal e Taxa de AdministraçãoTotal Mensal**~~
+
+~~**Alíquota Contribuição - Custo Suplementar Total Mensal**~~
+
+~~**Alíquota - Total Mensal**~~
+
+~~**Alíquota Ente/Prefeitura - Total Mensal**~~
+
+~~**Alíquota de do Servidor - Total Mensal**~~
+
+~~1º ao 5º ano~~
+
+~~19,24%~~
+
+~~2,76%~~
+
+~~22,00%~~
+
+~~11,00%~~
+
+~~11,00%~~
+
+~~6º ao 10º ano~~
+
+~~19,24%~~
+
+~~2,76%~~
+
+~~22,00%~~
+
+~~11,00%~~
+
+~~11,00%~~
+
+~~11º ao 15º ano~~
+
+~~19,24%~~
+
+~~3,76%~~
+
+~~23,00%~~
+
+~~12,00%~~
+
+~~11,00%~~
+
+~~16º ao 20º ano~~
+
+~~19,24%~~
+
+~~5,56%~~
+
+~~24,80%~~
+
+~~13,80%~~
+
+~~11,00%~~
+
+~~21º ao 25º ano~~
+
+~~19,24%~~
+
+~~5,76%~~
+
+~~25,00%~~
+
+~~14,00%~~
+
+~~11,00%~~
+
+~~26º ao 33º ano~~
+
+~~19,24%~~
+
+~~6,27%~~
+
+~~25,51%~~
+
+~~14,51%~~
+
+~~11,00%~~
 
 III. A contribuição previdenciária de responsabilidade do Município, incluidas suas autarquias e fundações, denominada de contribuição patronal, será de 14,50% (quatorze inteiros e cinco décimos percentuais – alíquota do custo normal + Custo Adicional Mensal de Insuficiência Financeira ou Suplementar – Patronal) calculada sobre a totalidade da remuneração de contribuição dos servidores efetivos.
 
-a)    No custo normal previsto no inciso III, já está incluído o percentual de 2,00% (dois por cento) para as despesas administrativas necessárias à organização e funcionamento da unidade gestora, calculada sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos e das folhas de benefícios dos aposentados e pensionistas, conforme definida na reavaliação atuarial de 2024.<br>
+a)    No custo normal previsto no inciso III, já está incluído o percentual de 2,00% (dois por cento) para as despesas administrativas necessárias à organização e funcionamento da unidade gestora, calculada sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos e das folhas de benefícios dos aposentados e pensionistas, conforme definida na reavaliação atuarial de 2024.
+
 (Redação alterada pela Lei Complementar nº 234, de 22 de agosto de 2024).
 
-~~III – de uma contribuição mensal do Município e do Legislativo, incluídas suas autarquias e fundações, definida na reavaliação atuarial igual a 14,50% (quatorze e meio por cento) necessária à organização e funcionamento da unidade gestora calculada sobre a remuneração de contribuição dos segurados ativos.~~<br>
+~~III – de uma contribuição mensal do Município e do Legislativo, incluídas suas autarquias e fundações, definida na reavaliação atuarial igual a 14,50% (quatorze e meio por cento) necessária à organização e funcionamento da unidade gestora calculada sobre a remuneração de contribuição dos segurados ativos.~~
+
 ~~(Redação alterada pela Lei Complementar nº 180, de 21 de dezembro de 2020).~~
 
- ~~III – 11,50% (onze e meio por cento) sobre remuneração de contribuição mensal dos servidores segurados ativos, com contribuição do Município, denominada de Contribuição Patronal.~~ <br>
+ ~~III – 11,50% (onze e meio por cento) sobre remuneração de contribuição mensal dos servidores segurados ativos, com contribuição do Município, denominada de Contribuição Patronal.~~ 
+
 ~~(Redação alterada pelo Decreto "N" Nº 221, de 25 de outubro de 2016)~~
 
-~~III - As contribuições correspondentes às alíquotas normal e suplementar, relativas ao exercício de 2013, totalizando 22,00%, serão exigidas a partir do primeiro dia do mês seguinte ao da publicação desta lei.~~<br>
+~~III - As contribuições correspondentes às alíquotas normal e suplementar, relativas ao exercício de 2013, totalizando 22,00%, serão exigidas a partir do primeiro dia do mês seguinte ao da publicação desta lei.~~
+
 ~~(Redação alterada pela Lei Complementar nº 74, de 8 de outubro de 2013).~~
 
-IV – A contribuição previdenciária para o APARECIDAPREV será de 11% (onze por cento) do que ultrapassar o teto estabelecido pelo regime geral de previdência, como remuneração de contribuição mensal, para o servidores segurados inativos e os pensionistas, e serão exigidas a partir do primeiro dia do mês seguinte ao da publicação desta lei.<br>
+IV – A contribuição previdenciária para o APARECIDAPREV será de 11% (onze por cento) do que ultrapassar o teto estabelecido pelo regime geral de previdência, como remuneração de contribuição mensal, para o servidores segurados inativos e os pensionistas, e serão exigidas a partir do primeiro dia do mês seguinte ao da publicação desta lei.
+
 (Redação alterada pela Lei Complementar nº 74, de 8 de outubro de 2023).
 
-V - As alíquotas totais de contribuição previdenciária de 22,00%, incluído o custeio suplementar e a taxa de administração, sendo 11,00% a parte total do Ente e 11,00% a parte total do servidor serão revistas de acordo com as reavaliações atuariais anuais e havendo manutenção ou aumento da alíquota do Ente, a alteração poderá ser efetuada por  Autorização Legislativa.<br>
+V - As alíquotas totais de contribuição previdenciária de 22,00%, incluído o custeio suplementar e a taxa de administração, sendo 11,00% a parte total do Ente e 11,00% a parte total do servidor serão revistas de acordo com as reavaliações atuariais anuais e havendo manutenção ou aumento da alíquota do Ente, a alteração poderá ser efetuada por  Autorização Legislativa.
+
 (Redação alterada pela Lei Complementar nº 74, de 8 de outubro de 2023).
 
 ~~§ 2º -    Decorridos 90 (noventa) dias da data de publicação desta Lei, a contribuição previdenciária para o APARECIDAPREV será de:~~
@@ -1178,32 +1362,42 @@ II -    aos benefícios previdenciários de responsabilidade do regime pagos 
 
 § 10 -     O limite estabelecido para o Regime Geral de Previdência Social, que servirá de base para o cálculo das contribuições dos inativos e pensionistas, terá valor igual a R$ 2.668,15 (dois mil e seiscentos e sessenta e oito reais e quinze centavos) e será reajustado na mesma data e proporção em que for reajustado para o INSS.
 
-§ 11 - Todos os recursos oriundos da contribuição patronal serão repassados ao APARECIDAPREV, que como gestor único, destiná-los-á exclusivamente para o pagamento de benefícios previdenciários, ressalvada taxa de administração estabelecida nesta Lei Complementar.<br>
+§ 11 - Todos os recursos oriundos da contribuição patronal serão repassados ao APARECIDAPREV, que como gestor único, destiná-los-á exclusivamente para o pagamento de benefícios previdenciários, ressalvada taxa de administração estabelecida nesta Lei Complementar.
+
 (Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).
 
-§ 12 - Os recursos das contribuições dos segurados e o excedente do resultado da contribuição patronal que ultrapassar o valor da folha base de aportes prevista no art. 78, § 6º, desta Lei Complementar, serão depositados na Conta Corrente do APARECIDAPREV, para constituição das reservas técnicas garantidoras de benefícios da qual será separada a taxa de administração anual.<br>
+§ 12 - Os recursos das contribuições dos segurados e o excedente do resultado da contribuição patronal que ultrapassar o valor da folha base de aportes prevista no art. 78, § 6º, desta Lei Complementar, serão depositados na Conta Corrente do APARECIDAPREV, para constituição das reservas técnicas garantidoras de benefícios da qual será separada a taxa de administração anual.
+
 (Redação alterada pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-~~§ 12 - Os recursos das contribuições dos segurados e o excedente do resultado da contribuição patronal que ultrapassar o valor dos benefícios referentes ao Grupo 1, serão depositados na Conta Capitalizada do APARECIDAPREV para constituição das reservas técnicas, destinada à formação ao Grupo 2.~~<br>
+~~§ 12 - Os recursos das contribuições dos segurados e o excedente do resultado da contribuição patronal que ultrapassar o valor dos benefícios referentes ao Grupo 1, serão depositados na Conta Capitalizada do APARECIDAPREV para constituição das reservas técnicas, destinada à formação ao Grupo 2.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
 
-§ 13. Para custeio do déficit atuarial fica instituída, também, a contribuição a cargo do ente o percentual de alíquota do custo suplementar, conforme tabela abaixo discriminada, incidente sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos, para o período de 2014 a 2045.<br>
+§ 13. Para custeio do déficit atuarial fica instituída, também, a contribuição a cargo do ente o percentual de alíquota do custo suplementar, conforme tabela abaixo discriminada, incidente sobre a totalidade da remuneração de contribuição dos servidores ativos efetivos, para o período de 2014 a 2045.
+
 (Redação dada pela Lei Complementar nº 92, de 31 de julho de 2014).
 
-<table><tbody><tr><td colspan="3" style=" width:122px;    "><b>Período</b></td><td style=" width:88px;    "><b>Custo Suplementar (%)</b></td></tr><tr><td style=" width:48px;    ">2014</td><td style=" width:27px;    ">a</td><td style=" width:48px;    ">2018</td><td style=" width:88px;    ">2,00%</td></tr><tr><td style=" width:48px;    ">2019</td><td style=" width:27px;    ">a</td><td style=" width:48px;    ">2023</td><td style=" width:88px;    ">4,00%</td></tr><tr><td style=" width:48px;    ">2024</td><td style=" width:27px;    ">a</td><td style=" width:48px;    ">2028</td><td style=" width:88px;    ">4,50%</td></tr><tr><td style=" width:48px;    ">2029</td><td style=" width:27px;    ">a</td><td style=" width:48px;    ">2033</td><td style=" width:88px;    ">5,50%</td></tr><tr><td style=" width:48px;    ">2034</td><td style=" width:27px;    ">a</td><td style=" width:48px;    ">2038</td><td style=" width:88px;    ">6,50%</td></tr><tr><td style=" width:48px;    ">2039</td><td style=" width:27px;    ">a</td><td style=" width:48px;    ">2045</td><td style=" width:88px;    ">7,50%</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">**Período**</td><td>**Custo Suplementar (%)**</td></tr><tr><td>2014</td><td>a</td><td>2018</td><td>2,00%</td></tr><tr><td>2019</td><td>a</td><td>2023</td><td>4,00%</td></tr><tr><td>2024</td><td>a</td><td>2028</td><td>4,50%</td></tr><tr><td>2029</td><td>a</td><td>2033</td><td>5,50%</td></tr><tr><td>2034</td><td>a</td><td>2038</td><td>6,50%</td></tr><tr><td>2039</td><td>a</td><td>2045</td><td>7,50%</td></tr></tbody></table>
 
-~~§ 13 - As receitas provenientes da realização financeira dos FI-BDA’s (Fundos Integrados de Bens Direitos e Ativos), previstos pelo art. 249, da Constituição Federal, serão alocados para formação das Reservas Técnicas do Grupo 2, até o limite necessário para atingir o equilíbrio financeiro e atuarial.~~<br>
-~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~<br>
+~~§ 13 - As receitas provenientes da realização financeira dos FI-BDA’s (Fundos Integrados de Bens Direitos e Ativos), previstos pelo art. 249, da Constituição Federal, serão alocados para formação das Reservas Técnicas do Grupo 2, até o limite necessário para atingir o equilíbrio financeiro e atuarial.~~
+
+~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
+
 (Revogado pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-§14. A participação de responsabilidade total do Ente Federativo, já incluído o Custo Normal de 7,00%, o Custo Suplementar de 2,00% e a Taxa de Administração de 2% será de: 11,00% e a participação de responsabilidade total do servidor ativo efetivo será de: 11,00%.<br>
+§14. A participação de responsabilidade total do Ente Federativo, já incluído o Custo Normal de 7,00%, o Custo Suplementar de 2,00% e a Taxa de Administração de 2% será de: 11,00% e a participação de responsabilidade total do servidor ativo efetivo será de: 11,00%.
+
 (Redação dada pela Lei Complementar nº 92, de 31 de julho de 2014).
 
-~~§ 14 - Os recursos previstos no parágrafo anterior que excederem o montante necessário para atingir o equilíbrio financeiro e atuarial do APARECIDAPREV, poderão ser utilizados pelo Tesouro Municipal para cumprimento das suas obrigações com Regime Próprio de Previdência Social do Município de Aparecida de Goiânia.~~<br>
-~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~<br>
+~~§ 14 - Os recursos previstos no parágrafo anterior que excederem o montante necessário para atingir o equilíbrio financeiro e atuarial do APARECIDAPREV, poderão ser utilizados pelo Tesouro Municipal para cumprimento das suas obrigações com Regime Próprio de Previdência Social do Município de Aparecida de Goiânia.~~
+
+~~(Redação acrescentada pela Lei Complementar nº 14, de 7 de dezembro de 2006).~~
+
 (Revogado pela Lei Complementar nº 22, de 23 de dezembro de 2009).
 
-Art. 80-A. As contribuições devidas ao APARECIDAPREV, descontadas do servidor segurado e da parte de responsabilidade do Ente, deverão ser repassadas até o dia 15 (quinze) do mês subsequente da apuração.<br>
+Art. 80-A. As contribuições devidas ao APARECIDAPREV, descontadas do servidor segurado e da parte de responsabilidade do Ente, deverão ser repassadas até o dia 15 (quinze) do mês subsequente da apuração.
+
 (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
 Art. 81 -    Os déficits do sistema apurados nas avaliações atuariais anuais e destinados à composição de sua reserva matemática de tempo passado, serão objeto de negociação entre o APARECIDAPREV, representado pelo Conselho Municipal de Previdência, e a Administração Municipal.    
@@ -1218,17 +1412,20 @@ Art. 82 -    Fica o Poder Executivo Municipal autorizado a parcelar o pagamen
 
 § 4º -    Aplica-se no que couber a regulamentação estipulada no art. 80 para a consignação do parcelamento previsto no parágrafo anterior. ,
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Da Fiscalização
 
-Seção I<br>
+Seção I
+
 Do Conselho Municipal de Previdência
 
 Art. 83 -    Fica instituído o Conselho Municipal de Previdência – CMP, órgão superior de deliberação colegiada, com a seguinte composição:
 
 I -    5 (cinco) conselheiros representantes do Poder Executivo e seus respectivos suplentes, indicados pelo Prefeito Municipal;
 
-II - 1 (um) representante do Poder Legislativo e seu respectivo suplente, indicado pelos vereadores escolhidos dentre os servidores efetivos da Câmara Municipal;<br>
+II - 1 (um) representante do Poder Legislativo e seu respectivo suplente, indicado pelos vereadores escolhidos dentre os servidores efetivos da Câmara Municipal;
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~II -    1 (um) representante do Poder Legislativo e seu respectivo suplente, indicado pelos Vereadores;~~
@@ -1237,12 +1434,14 @@ III -    3 (três) conselheiros representantes dos segurados ativos e seus re
 
 IV -    2 (dois) conselheiros representantes dos inativos e pensionistas e seus respectivos suplentes, também eleito em assembléia dos seus pares.
 
-§ 1º Caberá ao Prefeito Municipal a nomeação dos membros do CMP, para um mandato de 04 (quatro) anos, admitida uma única recondução.<br>
+§ 1º Caberá ao Prefeito Municipal a nomeação dos membros do CMP, para um mandato de 04 (quatro) anos, admitida uma única recondução.
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025).
 
 ~~§ 1º -    Caberá ao Prefeito Municipal a nomeação dos membros do CMP, para um mandato de 2 (dois) anos, admitida uma recondução.~~
 
-§2º - Os membros dos Conselhos vinculados ao APARECIDAPREV e Comitê de Investimento não serão remunerados, porém, cada um deles fará jus a jetons, em caráter indenizatório, nos valores e limites constantes no art. 79, da Lei 1.353/94.<br>
+§2º - Os membros dos Conselhos vinculados ao APARECIDAPREV e Comitê de Investimento não serão remunerados, porém, cada um deles fará jus a jetons, em caráter indenizatório, nos valores e limites constantes no art. 79, da Lei 1.353/94.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~§ 2º -    O cargo de conselheiro não será remunerado, sendo o seu serviço considerado de alta relevância para o Município de Aparecida de Goiânia.~~
@@ -1265,7 +1464,8 @@ VI – os membros do conselho municipal de previdência deverão comprovar no m�
 
 a) Não ter sofrido condenação criminal ou incidido em alguma das demais situações de inexigibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar;
 
-b) Possuir certificação e habilitação comprovadas, nos termos definidos em parâmetros gerais;<br>
+b) Possuir certificação e habilitação comprovadas, nos termos definidos em parâmetros gerais;
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~VI -    executar outras atividades que sejam de interesse do CMP.~~
@@ -1276,15 +1476,18 @@ b) Possuir certificação e habilitação comprovadas, nos termos definidos em p
 
 § 7º -    Os membros do CMP não serão destituíveis ad nutum, somente podendo ser afastados de suas funções depois de julgados, em processo administrativo, culpados por falta grave ou infração punível com demissão ou em caso de vacância, assim entendida a ausência não justificada em três reuniões consecutivas ou em quatro intercaladas no mesmo ano.
 
-~~§ 8º -    Para exercer a função de conselheiro do CMP o candidato deve contar no mínimo com formação em nível médio completa e, ainda, contar no mínimo com 30 h (trinta horas) de capacitação em Regimes Próprios de Previdência, ministrada por instituição idônea com capacidade técnica comprovada ou pelo próprio APARECIDAPREV.~~ <br>
+~~§ 8º -    Para exercer a função de conselheiro do CMP o candidato deve contar no mínimo com formação em nível médio completa e, ainda, contar no mínimo com 30 h (trinta horas) de capacitação em Regimes Próprios de Previdência, ministrada por instituição idônea com capacidade técnica comprovada ou pelo próprio APARECIDAPREV.~~ 
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-Art. 84 – Os membros do Conselho Municipal de Previdência (CMP), serão escolhidos em assembleia geral realizada pelo APARECIDAPREV, dentre os servidores efetivos, inativos e pensionista vinculados ao APARECIDAPREV.<br>
+Art. 84 – Os membros do Conselho Municipal de Previdência (CMP), serão escolhidos em assembleia geral realizada pelo APARECIDAPREV, dentre os servidores efetivos, inativos e pensionista vinculados ao APARECIDAPREV.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 84 -    Os representantes dos segurados ativos e dos inativos, deverão ser escolhidos em assembléia dos seus pares, convocada para tal fim pelos sindicatos, devendo contar no mínimo com 50% (cinqüenta por cento) do total de segurados ativos e inativos respectivamente, em primeira convocação, caso não seja atingido o quorum mínimo será escolhido em segunda convocação com qualquer quorum.~~
 
-§ 1º - os segurados interessados na candidatura ao cargo de membro do Conselho Municipal de Previdência (CMP), deverão preencher os requisitos legais previstos para o exercício de suas atribuições.<br>
+§ 1º - os segurados interessados na candidatura ao cargo de membro do Conselho Municipal de Previdência (CMP), deverão preencher os requisitos legais previstos para o exercício de suas atribuições.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~§ 1º -    Os segurados interessados na candidatura ao cargo de membro do CMP, deverão possuir os requisitos previstos no parágrafo 8°, do artigo anterior e se apresentar com antecedência ao respectivo sindicato para inscrição da sua chapa que contará com um candidato a suplente.~~
@@ -1295,7 +1498,8 @@ Art. 84 – Os membros do Conselho Municipal de Previdência (CMP), serão escol
 
 § 4º -    O candidato a conselheiro ou a suplente, que no ato da inscrição não cumprir os requisitos aqui elencados não poderá participar do processo eleitoral.
 
-§ 5º - todas e quaisquer divergências quanto às eleições dos membros dos conselhos deverão ser resolvidos pela mesa escolhida para assembleia eleitoral constituída.<br>
+§ 5º - todas e quaisquer divergências quanto às eleições dos membros dos conselhos deverão ser resolvidos pela mesa escolhida para assembleia eleitoral constituída.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 85 -    As decisões proferidas pelo CMP deverão ser publicadas no placar do Município de Aparecida de Goiânia ou no Diário Oficial do Município.
@@ -1314,7 +1518,8 @@ IV -    examinar e emitir parecer conclusivo sobre propostas de alteração d
 
 V -    deliberar sobre a alienação ou gravame de bens integrantes do patrimônio imobiliário do APARECIDAPREV, sem prejuízo da satisfação das exigências legais pertinentes;
 
-VI – definir e regulamentar a atuação do Comitê de Investimento, por meio de decreto municipal, bem como, observada a legislação competente, com base nas diretrizes e regramentos relativos à aplicação dos recursos econômicos financeiros e adequação entre os planos de custeio e de benefícios vigentes.<br>
+VI – definir e regulamentar a atuação do Comitê de Investimento, por meio de decreto municipal, bem como, observada a legislação competente, com base nas diretrizes e regramentos relativos à aplicação dos recursos econômicos financeiros e adequação entre os planos de custeio e de benefícios vigentes.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~VI -     definir e regulamentar a atuação do Comitê de Investimento, bem como, observando a legislação de regência, definir as diretrizes e regras relativas à aplicação dos recursos econômico-financeiros do APARECIDAPREV, à política de benefícios e à adequação entre os planos de custeio e de benefícios;~~
@@ -1337,10 +1542,12 @@ XIV -    acompanhar e apreciar, mediante relatórios gerenciais por ele defin
 
 XV -    deliberar sobre os casos omissos no âmbito das regras aplicáveis ao Regime Próprio de Previdência Social de Aparecida de Goiânia.
 
-Seção II<br>
+Seção II
+
 Do Conselho Fiscal do APARECIDAPREV
 
-    Art. 88 – O APRECIDAPREV, terá como órgão responsável para examinar suas contas um Conselho Fiscal, composto por 03 (três) membros, que serão nomeados por meio de decreto, e seus suplentes, escolhidos dentre os servidores efetivos e segurados, para mandato de 04 anos, permitida a recondução por até 3 (três) vezes.<br>
+    Art. 88 – O APRECIDAPREV, terá como órgão responsável para examinar suas contas um Conselho Fiscal, composto por 03 (três) membros, que serão nomeados por meio de decreto, e seus suplentes, escolhidos dentre os servidores efetivos e segurados, para mandato de 04 anos, permitida a recondução por até 3 (três) vezes.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 88 -    O APARECIDAPREV terá como órgão responsável para examinar suas contas um Conselho Fiscal composto por três membros, segurados, sendo dois indicados, com os respectivos suplentes, em processo eleitoral específico, realizado entre os segurados ativos e os segurados inativos e pensionistas na forma estabelecida nos artigos 83 e 84 da presente Lei, para o exercício de mandato de dois anos, e o outro, com o respectivo suplente, pelo Prefeito Municipal, vedada a recondução em ambos casos.~~
@@ -1361,10 +1568,12 @@ Do Conselho Fiscal do APARECIDAPREV
 
 Art. 88-A – Para o cumprimento do Programa de Certificação Institucional e Modernização da Gestão do Regime Próprio de Previdência Social do Município de Aparecida de Goiânia, instituído pela Portaria SPREV nº. 03 de 31 de janeiro de 2018 e suas alterações, serão regulamentadas por meio de portaria do Presidente do APARECIDAPREV, para cumprimento e adequações necessárias previstas nas diretrizes vigentes.
 
-Parágrafo único - O Programa de Certificação Institucional e Modernização da Gestão, visa o reconhecimento da excelência de boas práticas de gestão destinado a atestar a qualidade e a funcionalidade de produtos e serviços, processos produtivos de gestão ambiental, para fins de credenciamento do sistema de gestão com base nas diretrizes estabelecidas pela Portaria SPREV nº. 03 de 31 de janeiro de 2018.<br>
+Parágrafo único - O Programa de Certificação Institucional e Modernização da Gestão, visa o reconhecimento da excelência de boas práticas de gestão destinado a atestar a qualidade e a funcionalidade de produtos e serviços, processos produtivos de gestão ambiental, para fins de credenciamento do sistema de gestão com base nas diretrizes estabelecidas pela Portaria SPREV nº. 03 de 31 de janeiro de 2018.
+
 (Redação dada pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DISPOSIÇÕES GERAIS
 
 Art. 89 -    As importâncias destinadas ao FLPS são de exclusividade do APARECIDAPREV e, em caso algum, terão aplicação diversa do que tiver sido estabelecido nos termos desta Lei, pelo que serão nulos de pleno direito, os atos praticados em dissonância com o nela disposto, ficando seus autores sujeitos às penalidades cabíveis, sem prejuízo da responsabilidade civil ou criminal em que venham a incorrer.
@@ -1391,17 +1600,22 @@ Art. 97 -    A infração de qualquer dispositivo desta lei, para a qual não
 
 Parágrafo único -    O Presidente é competente para aplicar a multa imposta por infração de dispositivos da presente Lei, sendo obrigatório o desconto em folha de pagamento.
 
-Art. 98 -    Esta Lei Complementar entrará em vigor na data de sua publicação, produzindo efeitos, em relação ao art. 80, a partir do primeiro dia do mês seguinte ao nonagésimo dia posterior à sua publicação, sendo mantida, até essa data, a obrigatoriedade dos recolhimentos praticados na forma da legislação anterior. <br>
-    <br>
+Art. 98 -    Esta Lei Complementar entrará em vigor na data de sua publicação, produzindo efeitos, em relação ao art. 80, a partir do primeiro dia do mês seguinte ao nonagésimo dia posterior à sua publicação, sendo mantida, até essa data, a obrigatoriedade dos recolhimentos praticados na forma da legislação anterior. 
+
+    
+
 Art. 99 -    Revogam-se as disposições em contrário e em especial a Lei Complementar n.º 007, de 30 de dezembro de 2002.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte dias do mês de junho de dois mil e cinco.
 
-MARLÚCIO PEREIRA DA SILVA  <br>
+MARLÚCIO PEREIRA DA SILVA  
+
 PREFEITO MUNICIPAL (em exercício)     
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-ZANONE RODRIGUES PEREIRA<br>
-SEC. DE FINANÇAS<br>
+ZANONE RODRIGUES PEREIRA
+
+SEC. DE FINANÇAS

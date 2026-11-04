@@ -1,5 +1,3 @@
-###DEC-069918-0-000-11-01-1972@@@
-
 Decreto nº 69.918, de 11 de janeiro de 1972.
 
 Dispõe sobre a competência para o julgamento admistrativo dos lítigios fiscais na 2ª instância.

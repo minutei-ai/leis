@@ -1,5 +1,3 @@
-###DEC-086293-0-000-17-08-1981@@@
-
 Decreto nº 86.293, de 17 de agosto de 1981.
 
 Altera dispositivos do Regimento dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 83.500, de 1979, e dá outras providências.

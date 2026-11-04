@@ -1,5 +1,3 @@
-###DEC-068950-0-000-19-07-1971@@@
-
 DECRETO Nº 68.950, DE 19 DE JULHO DE 1971.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de marinha e acrescido que menciona, situado em João Pessoa, no Estado da Paraíba.

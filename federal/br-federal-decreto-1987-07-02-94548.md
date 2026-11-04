@@ -1,5 +1,3 @@
-###DEC-094548-0-000-02-07-1987@@@
-
 DECRETO N° 94.548, DE 2 DE JULHO DE 1987
 
 Dispõe sobre a forma de reajuste de contratos de Financiamento Imobiliário vinculados à Unidade Padrão de Capital, de que trata a Lei n° 4.380, de 21 de agosto de 1964, e dá outras providências.

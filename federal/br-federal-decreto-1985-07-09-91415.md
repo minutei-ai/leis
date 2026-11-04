@@ -1,5 +1,3 @@
-###DEC-091415-0-000-09-07-1985@@@
-
 DECRETO Nº 91.415, DE 09 DE JULHO DE 1985
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Varginha.

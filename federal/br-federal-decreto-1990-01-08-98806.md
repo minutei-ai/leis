@@ -1,7 +1,3 @@
-1
-
-###DEC-098806-0-000-08-01-1990@@@
-
 DECRETO Nº 98.806, DE 8 DE JANEIRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel, com suas benfeitorias, situado na Rua Mato Grosso, nº 394/400, Bairro Preto, em Belo Horizonte, Estado de Minas Gerais, destinado ao Tribunal Regional do Trabalho da 3ª Região.

@@ -1,5 +1,3 @@
-###DEC-083332-0-000-16-04-1979@@@
-
 Decreto nº 83.332, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Química Industrial da Universidade Metodista de Piracicaba, Estado de São Paulo.

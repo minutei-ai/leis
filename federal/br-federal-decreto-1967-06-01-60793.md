@@ -1,5 +1,3 @@
-###DEC-060793-0-000-01-06-1967@@@
-
 DECRETO Nº 60.793, DE 1 DE JUNHO DE 1967.
 
 Dá nova redação ao inciso I do artigo 3º do Decreto nº 50.704, de 31 de maio de 1961.

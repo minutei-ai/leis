@@ -1,5 +1,3 @@
-###DEC-049815-0-000-05-01-1961@@@
-
 DECRETO Nº 49.815, DE 5 DE JANEIRO DE 1961.
 
 Declara de utilidade pública a Fundação Espírita Sanatório “Américo Bairral”, com sede em Itapira, Estado de São Paulo.

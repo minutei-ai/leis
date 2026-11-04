@@ -1,5 +1,3 @@
-###DEC-057171-0-000-04-11-1965@@@
-
 DECRETO Nº 57.171, DE 4 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública a Sociedade Bíblica do Brasil, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-005334-0-000-19-03-1943@@@
-
 DECRETO‑LEI N. 5.334 – DE 19 DE MARÇO DE 1943
 
 Abre ao Ministério  da Fazenda a crédito especial de Cr$ 3.032.494,00 para prosseguimento das obras da Alfândega da Capital da República

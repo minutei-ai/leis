@@ -1,5 +1,3 @@
-###DEC-069611-0-000-29-11-1971@@@
-
 DECRETO Nº 69.611 - DE 29 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública a Vila São José Bento Cottolengo, com sede em Trindade, Estado de Goiás.

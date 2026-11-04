@@ -1,5 +1,3 @@
-###DEL-007685-0-000-28-06-1945@@@
-
 DECRETO-LEI N. 7.685 – DE 28 DE Junho DE 1945
 
 Dispõe sôbre a vigência do Decreto-lei nº 7. 666, de 22 de junho de 1945, e dá outras providências

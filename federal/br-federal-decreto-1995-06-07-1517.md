@@ -1,5 +1,3 @@
-###DEC-001517-0-000-07-06-1995@@@
-
 DECRETO Nº 1.517, DE 07 DE JUNHO DE 1995
 
 Dispõe sobre a execução, no território nacional, da Resolução 733 (1992) do Conselho de Segurança das Nações Unidas, que estabelece embargo ao fornecimento de armas à Somália.

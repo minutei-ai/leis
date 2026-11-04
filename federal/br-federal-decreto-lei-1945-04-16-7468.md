@@ -1,5 +1,3 @@
-###DEL-007468-0-000-16-04-1945@@@
-
 DECRETO-LEI N. 7.468 – DE 16 DE ABRIL DE 1945
 
 Altera a carreira de Fiscal de Plantas Têxteis do Quadro Suplementar do Ministério da Agricultura

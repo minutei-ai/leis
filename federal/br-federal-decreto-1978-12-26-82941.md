@@ -1,5 +1,3 @@
-###DEC-082941-0-000-26-12-1978@@@
-
 Decreto nº 82 941, de 26 de dezembro de 1978
 
 Concede reconhecimento aos cursos de Tecnólogo em Administração Rural e de Tecnólogo em Bovino cultura, ministrados pela Universidade Federal do Piauí, com sede na cidade de Teresina, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEC-089628-0-000-08-05-1984@@@
-
 Decreto nº 89.628, de 08 de maio de 1984
 
 Revoga o Decreto nº 29.088, de 05 de janeiro de 1951, que outorgou concessão à FUNDAÇÃO PANDIÁ CALÓGERAS - Universidade Mineira de Rádio e TV Educativos - RÁDIO INCONFIDÊNCIA, posteriormente transferida, à RÁDIO INCONFIDÊNCIA LTDA., através da Portaria nº 170, de 14 de setembro de 1981, para explorar serviço de radiodifusão sonora em freqüência modulada, na cidade de Belo Horizonte, Estado de Minas Gerais.

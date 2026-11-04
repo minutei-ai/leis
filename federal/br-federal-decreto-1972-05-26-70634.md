@@ -1,5 +1,3 @@
-###DEC-070634-0-000-26-05-1972@@@
-
 Decreto nº 70.634, de 26 de maio de 1972.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Ministério dos Transportes, cargo originário da Universidade Federal de Goiás, e dá outras providências.

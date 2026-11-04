@@ -1,5 +1,3 @@
-###DEC-005650-0-000-29-12-2005@@@
-
 DECRETO Nº 5.650, DE 29 DE DEZEMBRO DE 2005.
 
 Fixa o percentual da subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais, para o exercício fiscal do ano de 2006.

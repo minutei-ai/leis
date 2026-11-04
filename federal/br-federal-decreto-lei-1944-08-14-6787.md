@@ -1,5 +1,3 @@
-###DEL-006787-0-000-14-08-1944@@@
-
 DECRETO-LEI N. 6.787 – DE 14 DE AgÔSTO DE 1944
 
 Dispõe sôbre a percepção de diferença do vencimento

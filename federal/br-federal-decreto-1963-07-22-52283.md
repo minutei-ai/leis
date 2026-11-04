@@ -1,5 +1,3 @@
-###DEC-052283-0-000-22-07-1963@@@
-
 DECRETO Nº 52.283, DE 22 DE JULHO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que faz o Estado de Goiás, de 3 (rês) terrenos, situados na cidade de Goiânia necessários ao Ministério da Guerra.

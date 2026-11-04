@@ -1,5 +1,3 @@
-###DEC-059121-0-000-24-08-1966@@@
-
 DECRETO Nº 59.121, DE 24 DE AGÔSTO DE 1966.
 
 Autoriza a Magnesita S.A. a lavrar cromita no município de Hidrolândia, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-052957-0-000-26-11-1963@@@
-
 Decreto nº 52.957, de 26 de novembro de 1963.
 
 Concede à Mineração Paraitinga Limitada autorização para funcionar como emprêsa de mineração.

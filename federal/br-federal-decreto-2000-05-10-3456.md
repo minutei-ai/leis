@@ -1,5 +1,3 @@
-###DEC-003456-0-000-10-05-2000@@@
-
 decreto nº 3.456, de 10 de maio de 2000.
 
 Delega competência ao Ministro de Estado do planejamento, Orçamento e Gestão para a prática do ato que menciona.

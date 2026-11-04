@@ -48,8 +48,6 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação, mas seus efeit
 
 Goiânia, 1º de março de 2021; 133º da República.
 
-<br>
-
 Ronaldo Caiado
 
 Governador do Estado

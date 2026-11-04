@@ -1,7 +1,3 @@
-1
-
-###DEC-001436-0-000-03-04-1995@@@
-
 DECRETO Nº 1.436, DE 3 DE ABRIL DE 1995
 
 Promulga o Acordo para a Construção de uma segunda Ponte Internacional sobre o Rio Paraná, entre a República Federativa do Brasil e a República do Paraguai, em Foz do Iguaçu, de 26.9.1992.

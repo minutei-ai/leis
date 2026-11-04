@@ -1,5 +1,3 @@
-###DEC-004761-0-000-23-06-2003@@@
-
 [DECRETO Nº 4.761, DE 23 DE JUNHO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.761-2003?OpenDocument)
 
 Autoriza o Conselho Monetário Nacional a alterar as metas para a inflação para o ano de 2004.       
@@ -14,5 +12,6 @@ Autoriza o Conselho Monetário Nacional a alterar as metas para a inflação par
 
         Brasília, 23 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Antonio Palocci Filho

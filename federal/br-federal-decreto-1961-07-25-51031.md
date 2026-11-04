@@ -1,5 +1,3 @@
-###DEC-051031-0-000-25-07-1961@@@
-
 DECRETO Nº 51.031, DE 25 DE JULHO DE 1961.
 
 Outorga concessão à Rádio Canoinhas Limitada para estabelecer uma estação radiodifusora de ondas médias.

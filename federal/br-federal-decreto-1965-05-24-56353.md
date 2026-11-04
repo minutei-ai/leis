@@ -1,5 +1,3 @@
-###DEC-056353-0-000-24-05-1965@@@
-
 DECRETO Nº 56.353, DE 24 DE MAIO DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Jaraguá - Companhia de Seguros Gerais, relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-062539-0-000-16-04-1968@@@
-
 DECRETO Nº 62.539, DE 16 DE ABRIL DE 1968.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Emprêsa Fôrça e Luz de Dores do Paraíbuna no distrito de Dôres de Paraíbuna, município de Santos Dumont, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S.A. no distrito de Dôres de Paraíbuna, município de Santos Dumont, Estado de Minas Gerais.

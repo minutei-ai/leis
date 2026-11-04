@@ -1,5 +1,3 @@
-###DEC-007118-0-000-25-02-2010@@@
-
 DECRETO Nº 7.118, DE 25 DE FEVEREIRO DE 2010.
 
 Cria a Medalha “Sargento Max Wolff Filho” e dá outras providências.

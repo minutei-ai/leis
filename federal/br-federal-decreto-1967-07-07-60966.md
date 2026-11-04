@@ -1,5 +1,3 @@
-###DEC-060966-0-000-07-07-1967@@@
-
 DECRETO Nº 60.966, DE 7 DE JULHO DE 1967.
 
 Autoriza licenciaturas na Faculdade de Filosofia, Ciências e Letras de São Leopoldo.

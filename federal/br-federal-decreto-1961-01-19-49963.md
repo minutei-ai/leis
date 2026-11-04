@@ -1,5 +1,3 @@
-###DEC-049963-0-000-19-01-1961@@@
-
 DECRETO Nº 49.963, DE 19 DE JANEIRO DE 1961.
 
 Concede autorização para o funcionamento de cursos.

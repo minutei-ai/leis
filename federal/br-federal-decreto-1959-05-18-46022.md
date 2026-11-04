@@ -1,5 +1,3 @@
-###DEC-046022-0-000-18-05-1959@@@
-
 DECRETO Nº 46.022, DE 18 DE MAIO DE 1959.
 
 Autoriza a Prefeitura Municipal de Poços de Caldas, a pesquisar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

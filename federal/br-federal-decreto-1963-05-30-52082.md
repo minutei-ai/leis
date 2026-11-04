@@ -1,5 +1,3 @@
-###DEC-052082-0-000-30-05-1963@@@
-
 DECRETO Nº 52.082, de 30 de maio de 1963.
 
 Declara de utilidade pública o Centro Espírita “Nosso Lar” - Casas “André Luiz”, com sede em São Paulo, Estado de São Paulo.

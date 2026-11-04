@@ -1,5 +1,3 @@
-###DEC-003670-0-000-23-11-2000@@@
-
 DECRETO Nº 3.670, DE 23 DE NOVEMBRO DE 2000.
 
 Delega competência ao Ministro de Estado da Defesa para a prática dos atos que menciona.

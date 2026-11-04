@@ -1,5 +1,3 @@
-###DEC-065178-0-000-17-09-1969@@@
-
 DECRETO Nº 65.178 - DE 17 DE SETEMBRO DE 1969.
 
 Declara de utilidade pública para fins de desapropriação, os imóveis necessários à construção de duas subestações abaixadoras de energia elétrica na cidade de Curitiba, no Estado do Paraná, e para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem da linha de transmissão que interligará essas duas subestações.

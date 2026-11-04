@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=73749)
-
 # LEI Nº 12.686, DE 03 DE SETEMBRO DE 2007
 
 ## (Projeto de lei nº 867, de 2005, do Deputado Conte Lopes - PTB)

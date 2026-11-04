@@ -1,5 +1,3 @@
-###DEC-089899-0-000-03-07-1984@@@
-
 Decreto nº 89.899, de 03 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Urucum", situado no Município de Corumbá, no Estado de Mato Grosso do Sul, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.898, de 03 de julho de 1984.

@@ -1,5 +1,3 @@
-###DEC-070061-0-000-26-01-1972@@@
-
 DECRETO Nº 70.061, DE 26 DE JANEIRO DE 1972.
 
 Aproveita, na Universidade Federal da Bahia, servidores em disponibilidade e dá outras providências.

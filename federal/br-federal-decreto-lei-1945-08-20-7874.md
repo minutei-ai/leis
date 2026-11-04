@@ -1,5 +1,3 @@
-###DEL-007874-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.874 – DE 20 DE AGÔSTO DE 1945
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Guerra.

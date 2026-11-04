@@ -1,5 +1,3 @@
-###DEC-082727-0-000-27-11-1978@@@
-
 DECRETO Nº 82.727, DE 27 DE NOVEMBRO DE 1978.
 
 Revoga o Decreto que aprova o Regulamento da Comissão de Desportos da Marinha.

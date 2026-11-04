@@ -1,5 +1,3 @@
-###DEC-083215-0-000-28-02-1979@@@
-
 DECRETO Nº 83.215, DE 28 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Psicologia da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

@@ -1,4 +1,5 @@
-DECRETO Nº 432, DE 28 DE MAIO DE 2026<br>
+DECRETO Nº 432, DE 28 DE MAIO DE 2026
+
 (Revogado pelo Decreto nº 442, de 1º de junho de 2026).
 
 ~~Dispõe sobre o ponto facultativo nas repartições públicas municipais na sexta-feira, dia 5 de junho de 2026, um dia após a data dedicada à celebração de Corpus Christi.~~

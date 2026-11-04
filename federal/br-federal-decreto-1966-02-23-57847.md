@@ -1,5 +1,3 @@
-###DEC-057847-0-000-23-02-1966@@@
-
 Decreto nº 57.847, de 23 de Fevereiro de 1966.
 
 Declara de utilidade pública a Fundação Ateneu Cachoeirense, com sede em Cachoeiro de Itapemirim, Estado do Espírito Santo.

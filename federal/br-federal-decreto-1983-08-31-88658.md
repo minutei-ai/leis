@@ -1,5 +1,3 @@
-###DEC-088658-0-000-31-08-1983@@@
-
 DECRETO Nº 88.658, DE 31 DE AGOSTO DE 1983
 
 Dispõe sobre o limite do Capital Autorizado da PETROBRÁS FERTILIZANTES S.A. - PETROFÉRTIL.

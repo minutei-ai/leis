@@ -1,5 +1,3 @@
-###DEC-046709-0-000-25-08-1959@@@
-
 DECRETO Nº 46.709, DE 25 DE AGÔSTO DE 1959.
 
 Autoriza liberação de crédito contido no Plano de Economia destinado à Fundação Santos Dumont - São Paulo.

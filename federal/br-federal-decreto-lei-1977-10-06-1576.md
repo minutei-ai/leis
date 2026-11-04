@@ -1,5 +1,3 @@
-###DEL-001576-0-000-06-10-1977@@@
-
 # DECRETO-LEI Nº 1.576, DE 6 DE OUTUBRO DE 1977
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Órgãos Auxiliares da Justiça de Primeira Instância do Distrito Federal e dos Territórios.

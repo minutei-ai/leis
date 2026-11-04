@@ -1,5 +1,3 @@
-###DEC-083957-0-000-12-09-1979@@@
-
 decreto nº 83.957, de 12 de setembro de 1979.
 
 Cria a Comissão Permanente de Catalogação de Material de uso comum das Forças Armadas e dá outras providências.

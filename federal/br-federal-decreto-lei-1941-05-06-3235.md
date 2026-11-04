@@ -1,5 +1,3 @@
-###DEL-003235-0-000-06-05-1941@@@
-
 DECRETO-LEI N. 3.235 – DE 6 DE MAIO DE 1941
 
 Dispõe sobre os vencimentos de dívidas no Estado do Rio Grande do Sul

@@ -1,12 +1,10 @@
-###LEI-001410-A-000-10-08-1951@@@
+**LEI Nº 1.410“A”, DE 10 DE AGÔSTO DE 1951**
 
-<strong>LEI Nº 1.410“A”, DE 10 DE AGÔSTO DE 1951</strong>
+***Modifica o art. 2º da Lei nº 67, de 13 de junho de 1935.***
 
-<em><strong>Modifica o art. 2º da Lei nº 67, de 13 de junho de 1935.</strong></em>
+**O CONGRESSO NACIONAL** decreta e eu, ALEXANDRE MARCONDES FILHO, VICE-PRESIDENTE do SENADO FEDERAL, no exercício da Presidência, promulgo, nos têrmos do art. 70, § 4º da Constituição Federal, a seguinte Lei:
 
-<strong>O CONGRESSO NACIONAL</strong> decreta e eu, ALEXANDRE MARCONDES FILHO, VICE-PRESIDENTE do SENADO FEDERAL, no exercício da Presidência, promulgo, nos têrmos do art. 70, § 4º da Constituição Federal, a seguinte Lei:
-
-<strong>Art</strong>. 1º O art. 2º da Lei nº 67, de 13 de junho de 1935, passa a ter a seguinte redação:
+**Art**. 1º O art. 2º da Lei nº 67, de 13 de junho de 1935, passa a ter a seguinte redação:
 
 “Art. 2º Os saldos apurados, mensalmente, dentro das consignações decretadas, no pagamento do subsídio de Deputados e Senadores, terão para cada Casa do Poder Legislativo a seguinte aplicação:
 
@@ -30,10 +28,10 @@ i) qualquer outra despesa da Câmara dos Deputados ou do Senado, determinada pel
 
 j) publicações da Câmara dos Deputados ou do Senado”.
 
-<strong>Art</strong>. 2º Esta Lei entrará em vigor na data de sua publicação.
+**Art**. 2º Esta Lei entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Senado Federal, 10 de agôsto de 1951.
 
-<strong>ALEXANDRE MARCONDES FILHO</strong>
+**ALEXANDRE MARCONDES FILHO**

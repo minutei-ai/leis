@@ -1,5 +1,3 @@
-###DEC-004783-0-000-17-07-2003@@@
-
 DECRETO Nº 4.783, DE 17 DE JULHO DE 2003.
 
        Fixa preços mínimos básicos para cafés arábica e robusta, safra 2002/2003.
@@ -16,10 +14,12 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 17 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
-Bernard Appy<br>
+Bernard Appy
+
 Roberto Rodrigues
 
 ANEXO

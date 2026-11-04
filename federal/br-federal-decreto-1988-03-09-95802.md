@@ -1,7 +1,3 @@
-1
-
-###DEC-095802-0-000-09-03-1988@@@
-
 DECRETO N° 95.802, DE 9 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Buriti e Rio Bonito", classificados como latifúndio por exploração, situados no Município de Santa Luzia, no Estado do Maranhão, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 2 de maio de 1986, e dá outras providências.

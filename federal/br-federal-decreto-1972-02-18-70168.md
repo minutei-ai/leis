@@ -1,5 +1,3 @@
-###DEC-070168-0-000-18-02-1972@@@
-
 DECRETO Nº 70.168, DE 18 de FEVEREIRO DE 1972.
 
 Conceda reconhecimento ao Curso de Biblioteconomia da Universidade Federal do Ceará, em Fortaleza, Estado do Ceará.

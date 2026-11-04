@@ -1,5 +1,3 @@
-###DEC-079018-0-000-23-12-1976@@@
-
 DECRETO Nº 79.018, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Enfermagem, da Universidade de Fortaleza, com sede na cidade de Fortaleza, Estado do Ceará.

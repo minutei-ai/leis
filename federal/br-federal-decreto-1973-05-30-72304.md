@@ -1,5 +1,3 @@
-###DEC-072304-0-000-30-05-1973@@@
-
 DECRETO Nº 72.304, DE 30 DE MAIO DE 1973.
 
 Regulamenta o retorno ao serviço ativo ou a transferência para a reserva remunerada, de militares reformados, cessada sua incapacidade definitiva.

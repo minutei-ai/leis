@@ -1,5 +1,3 @@
-###DEC-081752-0-000-02-06-1978@@@
-
 Decreto nº 81.752, de 02 de junho de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de São Bento do Norte, Estado do Rio Grande do Norte.

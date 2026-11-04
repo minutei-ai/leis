@@ -1,5 +1,3 @@
-###DEC-072934-0-000-16-10-1973@@@
-
 Decreto nº 72.934, de 16 de outubro de 1973.
 
 Concede autorização à Empresa Oceanic Contractors, Inc., de nacionalidade norte-americana, para realizar, no mar territorial do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-061879-0-000-08-12-1967@@@
-
 DECRETO Nº 61.879, dE 8 DE DEZEMBRO DE 1967.
 
 Declara prioritária do desenvolvimento do Nordeste , para efeito de isenção de impostos e taxas federais, a importação de equipamento nôvo, sem similar no país, neste descrito e consignado à emprêsa “Microlite do Nordeste S.A. - Indústria e Comércio, de Jaboatão (PE)”.
@@ -14,7 +12,27 @@ decreta:
 
 Art.1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, exceto a taxa prevista no Decreto-Lei nº 83, de 26-12-66, artigo 9º, a importação de equipamento nôvo sem similar nacional a seguir descrito e consignado à emprêsa “Microlite do Nordeste S.A - Indústria e Comércio”, de Jaboatão (PE):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Item</span></p></td><td style="width:159.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Especificação</span></p></td><td style="width:67.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>importada</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Valor total </span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CIF US$</span></p></td></tr><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:159.55pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquina operatriz automática para deformação de metal “Bodymaker”, utilizada na fabricação de envoltórios destinados à blindagem de pilhas elétricas sêcas marca “KARGES HAMER” modêlo AZ-115 de origem e procedência alemã fabricada por KARGER-HAMBRMASCHINEN - G. m.b.H Co KG BRAUNSCHWEIG. Pêso líquido aproximado - 3.000 Kg</span></p></td><td style="width:67.4pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:70.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2,298</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade
+
+a ser
+
+importada
+
+Valor total
+
+CIF US$
+
+1
+
+Máquina operatriz automática para deformação de metal “Bodymaker”, utilizada na fabricação de envoltórios destinados à blindagem de pilhas elétricas sêcas marca “KARGES HAMER” modêlo AZ-115 de origem e procedência alemã fabricada por KARGER-HAMBRMASCHINEN - G. m.b.H Co KG BRAUNSCHWEIG. Pêso líquido aproximado - 3.000 Kg
+
+1
+
+2,298
 
 Art.2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

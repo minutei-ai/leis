@@ -1,5 +1,3 @@
-###DEC-004330-0-000-12-08-2002@@@
-
 DECRETO Nº 4.330, DE 12 DE AGOSTO DE 2002
 
 Altera o Anexo II ao Decreto nº 4.121, de 7 de fevereiro de 2002, que aprova a Estrutura e o Quadro Demonstrativo dos Cargos Comissionados Técnicos da Agência Nacional do Cinema - ANCINE.

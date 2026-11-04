@@ -1,5 +1,3 @@
-###DEC-051803-0-000-05-03-1963@@@
-
 DECRETO Nº 51.803, de 5 de março de 1963.
 
 Estabelece normas para a sistematização da assistência financeira da União aos Estados.

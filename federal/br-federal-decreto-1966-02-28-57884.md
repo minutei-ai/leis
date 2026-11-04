@@ -1,5 +1,3 @@
-###DEC-057884-0-000-28-02-1966@@@
-
 DECRETO Nº 57.884, DE 28 DE FEVEReIRO DE 1966.
 
 Outorga ao Município de João Lisboa concessão para distribuir energia elétrica.

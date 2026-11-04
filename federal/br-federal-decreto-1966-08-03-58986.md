@@ -1,5 +1,3 @@
-###DEC-058986-0-000-03-08-1966@@@
-
 DECRETO Nº 58.986, DE 3 DE AGÔSTO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Colonial Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

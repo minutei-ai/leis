@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b9030659-2e34-43a9-9569-33183d7eb2c5/texto#nowhere)
 
-###DEL-000434-0-000-23-01-1969@@@
-
 DECREtO-LEI Nº 434, DE 23 DE JANEIRO DE 1969
 
 Altera a Lei nº 4.328, de 30 de abril de 1964 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079949-0-000-13-07-1977@@@
-
 DECRETO Nº 79.949, DE 13 DE JULHO DE 1977
 
 Concede reconhecimento ao curso de Administração, das Faculdades Integradas Santo Antônio, com sede na cidade de São Paulo, Estado de São Paulo.

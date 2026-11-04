@@ -1,6 +1,10 @@
 > **LEI Nº 4.109, DE 13 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a Política de Arquivo Público e Gestão Documental do Poder Executivo do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a Política de Arquivo Público e Gestão Documental do Poder Executivo do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -241,8 +245,6 @@
 **Art. 34.** O Poder Executivo expedirá os regulamentos para fiel execução desta Lei.
 
 **Art. 35.** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco - Acre, 13 de junho de 2023, 135º da República, 121º do Tratado de Petrópolis e 62º do Estado do Acre. 
 

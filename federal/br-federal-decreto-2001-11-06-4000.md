@@ -1,5 +1,3 @@
-###DEC-004000-0-000-06-11-2001@@@
-
 DECRETO Nº 4.000, DE 6 DE NOVEMBRO DE 2001
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas – FCT para o Quadro de Pessoal do Ministério do Meio Ambiente.

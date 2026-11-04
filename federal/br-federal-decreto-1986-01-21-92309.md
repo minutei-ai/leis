@@ -1,5 +1,3 @@
-###DEC-092309-0-000-21-01-1986@@@
-
 DECRETO Nº 92.309, DE 21 DE JANEirO DE 1986
 
 Institui o Sistema Nacional de Supervisão e Coordenação da Operação Interligada - SINSC e o declara empreendimento de relevante interesse nacional.

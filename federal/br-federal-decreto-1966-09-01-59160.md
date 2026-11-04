@@ -1,5 +1,3 @@
-###DEC-059160-0-000-01-09-1966@@@
-
 Decreto Nº 59.160, DE 1º DE SETEMBRO DE 1966.
 
 Declara de utilidade pública a “Congregação das Religiosas Missionárias de Nossa Senhora das Dores” com sede no Estado da Guanabara.

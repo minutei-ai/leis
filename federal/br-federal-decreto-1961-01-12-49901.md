@@ -1,5 +1,3 @@
-###DEC-049901-0-000-12-01-1961@@@
-
 Decreto nº 49.901, de 12 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Tito de Oliveira Lima a lavrar quartzo e pedras coradas no município de Coral, Estado de Minas Gerais.

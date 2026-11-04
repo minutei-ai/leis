@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210340)<br>
-
 # DECRETO N° 69.155, DE 12 DE DEZEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Pedrinhas Paulista, o imóvel que especifica._

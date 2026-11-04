@@ -91,7 +91,3 @@ Palácio da Liberdade, em Belo Horizonte, aos 25 de novembro de 1999.
 ITAMAR FRANCO
 
 Henrique Eduardo Ferreira Hargreaves
-
-\==========================================================
-
-Data da última atualização: 24/06/2013.

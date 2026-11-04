@@ -1,7 +1,3 @@
-1
-
-###DEC-098164-0-000-21-09-1989@@@
-
 DECRETO Nº 98.164, DE 21 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA VALPARAÍSO”, situado no Município de Fontoura Xavier, Estado do Rio Grande do Sul, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-007441-0-000-16-02-2011-PUB-01@@@
-
 DECRETO Nº 7.441, DE 16 DE FEVEREIRO DE 2011
 
 Dispõe sobre a distribuição do efetivo de Oficiais dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica, em tempo de paz, para 2011.

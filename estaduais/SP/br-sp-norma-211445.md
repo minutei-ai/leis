@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211445)<br>
-
 # DECRETO N° 69.866, DE 15 DE SETEMBRO DE 2025
 
 ### _Institui a Medalha "Cinquentenário da Defesa Civil do Estado de São Paulo", da Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, e dá providências correlatas._
@@ -20,7 +18,8 @@ Fraide Barrêto Sales
 
 #### Regulamento da condecoração
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Da Honraria
 
 **Artigo 1° -** A Medalha "Cinquentenário da Defesa Civil do Estado de São Paulo" tem por objetivo reconhecer e galardoar personalidades, físicas ou jurídicas, civis ou militares, nacionais ou estrangeiras, que tenham colaborado com a missão institucional da Coordenadoria Estadual de Proteção e Defesa Civil, com união de forças e a cooperação de todos, promovendo a segurança e a estabilidade, e que tenham prestado relevantes serviços ou contribuído significativamente para o fortalecimento dos princípios de Proteção e de Defesa Civil.
@@ -49,7 +48,8 @@ a) anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) verso: dados de registro do diploma na instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 3° -** A Chancelaria é composta pelo Grão-Mestre, pelo Chanceler, pelo Vice-Chanceler e pelo Conselho da Medalha.
@@ -60,7 +60,8 @@ Da Chancelaria e da Comissão de Outorgas
 
 **Artigo 4° -** O Conselho da Medalha será presidido pelo Chefe de Gabinete da Casa Militar e Coordenador Estadual Adjunto de Defesa Civil e integrado, ainda, pelo Diretor do Departamento de Defesa Civil, pelos Diretores de Divisão do Departamento de Defesa Civil, todos membros natos e mais um integrante de livre escolha do aludido presidente.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Fonte de Honra "Fons Honorum"
 
 **Artigo 5° -** A Fonte de Honra "Fons Honorum" é mantida pela Chancelaria, sendo composta pelo Grão-Mestre, pelo Chanceler, e pelos demais membros e seus suplentes, bem como pelo Presidente do Conselho Estadual da Ordem do Ipiranga.
@@ -87,7 +88,8 @@ IV - Chefe de Gabinete da Casa Militar e Coordenador Estadual Adjunto de Defesa 
 
 **Artigo 8° -** Caso a honraria permaneça por muito tempo sem ser outorgada e nos casos em que o Conselho da Medalha seja dissolvido, será necessário acender novamente a Fonte de Honra "Fons Honorum", conforme previsto no Artigo 6°.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Do Direito de Honra "Jus Honorum"
 
 **Artigo 9° -** As indicações ordinárias comuns para a concessão da honraria serão dirigidas ao Conselho da Medalha em formulário próprio e se farão acompanhar do respectivo perfil da personalidade indicada, seja pessoa física ou pessoa jurídica, bem como das razões que as justifiquem.
@@ -120,7 +122,8 @@ Do Direito de Honra "Jus Honorum"
 
 **Artigo 16 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Capítulo V<br>
+#### Capítulo V
+
 Do Registro e das Chancelas Oficiais dos Diplomas
 
 **Artigo 17 -** O agraciamento por meio da outorga da honraria é de caráter personalíssimo e é intransferível, sendo o diploma o documento formal e oficial que garante a sua autenticidade.
@@ -141,7 +144,8 @@ Do Registro e das Chancelas Oficiais dos Diplomas
 
 **§ 3° -** A realização de cerimônia de outorga sem a chancela oficial numerada constitui falta grave e implicará na aplicação das sanções previstas no Código de Ética e Conduta do Conselho Estadual da Ordem do Ipiranga.
 
-#### Capítulo VI<br>
+#### Capítulo VI
+
 Das Cerimônias de Outorga
 
 **Artigo 20 -** A entrega das medalhas será feita, anualmente, preferencialmente em solenidade pública, na presença do Chefe da Casa Militar, Grão-Mestre.
@@ -166,7 +170,8 @@ Das Cerimônias de Outorga
 
 **§ 3° -** Os membros da Chancelaria devem ostentar ao menos a roseta (botão de lapela) da honraria a ser outorgada.
 
-#### Capítulo VII<br>
+#### Capítulo VII
+
 Das Disposições Finais
 
 **Artigo 23 -** Na hipótese da extinção dessa condecoração no todo ou em parte, seus cunhos, exemplares e complementos remanescentes serão recolhidos ao Conselho Estadual da Ordem do Ipiranga sem ônus para os cofres públicos.

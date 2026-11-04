@@ -1,7 +1,3 @@
-1
-
-###MPV-000930-0-000-01-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 930, DE 1º DE MARÇO DE 1995
 
 Dispõe sobre a implantação, em caráter emergencial e provisório, da Defensoria Pública da União e dá outras providências.

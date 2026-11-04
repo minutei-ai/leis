@@ -1,5 +1,3 @@
-###DEL-008869-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.869 – DE 24 DE JANEIRO DE 1946
 
 Cria, no Quadro Permanente do Ministério da Agricultura, a função gratificada de Secretário do Diretor do Instituto Agronômico do Sul.

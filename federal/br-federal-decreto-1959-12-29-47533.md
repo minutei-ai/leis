@@ -1,5 +1,3 @@
-###DEC-047533-0-000-29-12-1959@@@
-
 Decreto nº 47.533, de 29 de dezembro de 1959.
 
 Concede reconhecimento a Curso.

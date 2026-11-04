@@ -1,5 +1,3 @@
-###DEC-048323-0-000-20-06-1960@@@
-
 DECReTO Nº 48.323, DE 20 DE JUNHO DE 1960.
 
 Concede à Companhia Siderúgica Paulista - COSIPA - autorização para funcionar como emprêsa de mineração.

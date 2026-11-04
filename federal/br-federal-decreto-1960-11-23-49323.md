@@ -1,5 +1,3 @@
-###DEC-049323-0-000-23-11-1960@@@
-
 DECRETO Nº 49.323, DE 23 DE novembro DE 1960.
 
 Altera a estrutura e o Quadro do Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

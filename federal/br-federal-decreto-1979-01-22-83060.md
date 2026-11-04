@@ -1,5 +1,3 @@
-###DEC-083060-0-000-22-01-1979@@@
-
 Decreto nº 83.060, de 22 de janeiro de 1979
 
 Concede à INTERNATIONAL AIR TRANSPORT ASSOCIATION - IATA, autorização para funcionar no Brasil.

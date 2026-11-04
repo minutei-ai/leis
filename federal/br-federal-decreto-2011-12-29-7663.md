@@ -1,5 +1,3 @@
-###DEC-007663-0-000-29-12-2011-PUB-01@@@
-
 DECRETO Nº 7.663, DE 29 DE DEZEMBRO DE 2011.
 
 Dispõe sobre a devolução ficta e a reintegração de estoques do fabricante de eletrodomésticos nos casos mencionados.

@@ -1,5 +1,3 @@
-###DEL-005460-0-000-05-05-1943@@@
-
 DECRETO‑LEI N. 5.460 – DE 5 DE MAIO DE 1943
 
 Organiza a Administração do Porto de Laguna e dá outras providências

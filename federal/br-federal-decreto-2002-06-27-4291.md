@@ -1,5 +1,3 @@
-###DEC-004291-0-000-27-06-2002@@@
-
 DECRETO Nº 4.291, DE 27 DE JUNHO DE 2002
 
 Aprova o Regulamento da Escola Superior de Guerra - ESG, e dá outras providências.

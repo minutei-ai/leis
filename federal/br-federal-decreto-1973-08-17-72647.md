@@ -1,5 +1,3 @@
-###DEC-072647-0-000-17-08-1973@@@
-
 DECRETO Nº 72.647, DE 17 DE AGOSTO DE 1973.
 
 Concede reconhecimento ao curso de Economia da Faculdade de Ciências Econômicas de Mato Grosso, mantida pela Fundação Universidade Federal de Mato Grosso, com sede em Cuiabá, Estado de Mato Grosso.

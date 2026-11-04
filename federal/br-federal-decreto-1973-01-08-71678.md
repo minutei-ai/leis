@@ -1,5 +1,3 @@
-###DEC-071678-0-000-08-01-1973@@@
-
 DECRETO Nº 71.678, DE 8 DE JANEIRO DE 1973.
 
 Retifica o artigo 1º, do Decreto nº 27.563, de 7 de dezembro de 1949.

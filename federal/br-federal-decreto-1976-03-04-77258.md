@@ -1,5 +1,3 @@
-###DEC-077258-0-000-04-03-1976@@@
-
 DECRETO Nº 77.258, DE 4 DE MARÇO DE 1976.
 
 Retifica o enquadramento de servidores da série de Classes e de Classes singular do Grupo Ocupacional P-1700 Medicina, Farmácia e Odontologia do Quadro de Pessoal do Departamento de Polícia Federal.

@@ -1,5 +1,3 @@
-###DEL-007790-0-000-27-07-1945@@@
-
 DECRETO-LEI N. 7.790 – DE 27 DE JULHO DE 1945
 
 Abre, sem aumento de despesa, crédito suplementar e dá outras providências.

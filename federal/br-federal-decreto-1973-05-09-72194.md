@@ -1,5 +1,3 @@
-###DEC-072194-0-000-09-05-1973@@@
-
 DECRETO Nº 72.194, DE 9 DE MAIO DE 1973.
 
 Autoriza o serviço do Patrimônio da União a aceitar a doação de duas glebas de terra, no Município de São Vicente, São Paulo.

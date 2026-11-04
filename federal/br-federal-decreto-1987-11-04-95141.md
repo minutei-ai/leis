@@ -1,5 +1,3 @@
-###DEC-095141-0-000-04-11-1987@@@
-
 DECRETO Nº 95.141, DE 4 DE NOVEMBRO DE 1987
 
 Autoriza empresas de telecomunicações controladas da Telecomunicações Brasileiras S.A.  TELEBRÁS a promover aumento de capital social.

@@ -1,5 +1,3 @@
-###DEC-057981-0-000-11-03-1966@@@
-
 DECRETO Nº 57.981, DE 11 DE MARÇO DE 1966.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a construir ramal de linha de transmissão no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-064657-0-000-06-06-1969@@@
-
 DECRETO Nº 64.657, DE 6 DE JUNHO DE 1969.
 
 Redistribui; com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial da Caixa Econômica Federal do Rio Grande do Sul, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional, e da outras providências.

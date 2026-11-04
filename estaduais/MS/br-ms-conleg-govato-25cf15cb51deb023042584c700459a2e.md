@@ -6,15 +6,16 @@ Declara a Utilidade Pública da Associação Beneficente de Assistência e Recup
 
 Publicada no Diário Oficial nº 10.043, de 5 de dezembro de 2019, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada a Utilidade Pública Estadual da Associação Beneficente de Assistência e Recuperação de Dependentes Químicos - Casa de Apoio Divina Misericórdia “Tia Anita”, com sede no Município de Ivinhema.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada a Utilidade Pública Estadual da Associação Beneficente de Assistência e Recuperação de Dependentes Químicos - Casa de Apoio Divina Misericórdia “Tia Anita”, com sede no Município de Ivinhema.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 4 de dezembro de 2019.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

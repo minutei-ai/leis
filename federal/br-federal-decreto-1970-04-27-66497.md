@@ -1,5 +1,3 @@
-###DEC-066497-0-000-27-04-1970@@@
-
 DECRETO Nº 66.497, DE 27 DE ABRIL DE 1970.
 
 Promulga a Convenção da OIT número 118 sôbre Igualdade de Tratamento dos Nacionais e Não-Nacionais em matéria de Previdência Social.

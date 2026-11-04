@@ -1,5 +1,3 @@
-###DEC-092577-0-000-24-04-1986@@@
-
 DECRETO Nº 92.577, DE 24 DE ABRIL DE 1986
 
 Aprova o Regulamento para o Corpo do Pessoal Graduado da Aeronáutica e dá outras providências.

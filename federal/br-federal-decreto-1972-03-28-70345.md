@@ -1,5 +1,3 @@
-###DEC-070345-0-000-28-03-1972@@@
-
 DECRETO Nº 70.345, dE 28 DE MARÇO DE 1972.
 
 Redistribui, com a respectiva ocupante, para a Superintendência  Nacional do Abastecimento, cargo do Ministério da Indústria e do Comércio, e dá outras providências.

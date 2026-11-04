@@ -1,5 +1,3 @@
-###DEC-066365-0-000-20-03-1970@@@
-
 DECRETO Nº 66.365 - DE 20 DE MARÇO DE 1970
 
 Altera dispositivos do Decreto número 59.905, de 30 de dezembro de 1966, modificado pelos Decretos números 62.289, de 21 de fevereiro de 1968, 65.521, de 21 de outubro de 1969 e 65.685, de 10 de novembro de 1969, que regulamenta a Lei número 4.822, de 29 de outubro de 1965, alterada pela Lei nº 5.141, de 14 de outubro de 1966, que estabelece princípios, condições e critérios básicos para as promoções dos Oficiais da Marinha.

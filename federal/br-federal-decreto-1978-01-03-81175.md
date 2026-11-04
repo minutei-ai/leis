@@ -1,5 +1,3 @@
-###DEC-081175-0-000-03-01-1978@@@
-
 Decreto nº 81 175, de 3 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Tecnólogo em Processamento de dados, da Universidade do Vale do Rio dos Sinos, em São Leopoldo, Estado do Rio Grande do Sul, com sede na cidade de Porto Alegre, no mesmo Estado.

@@ -1,5 +1,3 @@
-###DEL-004486-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.486 – DE 16 DE JULHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 57:112$0. para pagamento aos Serviços Aéreos Condor Ltda.

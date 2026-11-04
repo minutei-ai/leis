@@ -1,5 +1,3 @@
-###DEC-086295-0-000-17-08-1981@@@
-
 Decreto nº 86.295, de 17 de agosto de 1981.
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

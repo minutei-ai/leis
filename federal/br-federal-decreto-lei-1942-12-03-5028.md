@@ -1,5 +1,3 @@
-###DEL-005028-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.028 – DE 3 DE DEZEMBRO DE 1942
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei n. 3.411, de 10 de julho de 1941

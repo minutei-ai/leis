@@ -1,7 +1,3 @@
-1
-
-###MPV-000767-0-000-20-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 767, DE 20 DE DEZEMBRO  DE 1994
 
 Dispõe sobre as contribuições para o Programa de Integração Social (PIS) e para o Programa de Formação do Patrimônio do Servidor Público (Pasep), incidentes sobre receitas de exportação e dá outras providências.

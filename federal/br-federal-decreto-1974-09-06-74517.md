@@ -1,5 +1,3 @@
-###DEC-074517-0-000-06-09-1974@@@
-
 DECRETO Nº 74.517, DE 6 DE SETEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Comunicação Social da Faculdade de Ciências Econômicas Contábeis e de Administração mantida pelo Centro de Ensino Unificado de Brasília  \- CEUB com sede na cidade de Brasília Distrito Federal.

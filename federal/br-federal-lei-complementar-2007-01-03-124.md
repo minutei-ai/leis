@@ -1,5 +1,3 @@
-###LCP-000124-0-000-03-01-2007@@@
-
 LEI COMPLEMENTAR No- 124, DE 3 DE JANEIRO DE 2007
 
 Institui, na forma do art. 43 da Constituição Federal, a Superintendência do Desenvolvimento da Amazônia - SUDAM; estabelece sua composição, natureza jurídica, objetivos, área de competência e instrumentos de ação; dispõe sobre o Fundo de Desenvolvimento da Amazônia - FDA; altera a Medida Provisória no 2.157-5, de 24 de agosto de 2001; revoga a Lei Complementar no 67, de 13 de junho de 1991; e dá outras providências.

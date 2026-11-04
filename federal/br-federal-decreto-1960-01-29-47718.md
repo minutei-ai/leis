@@ -1,5 +1,3 @@
-###DEC-047718-0-000-29-01-1960@@@
-
 DECRETO Nº 47.718, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Waldemar Pereira Duarte a lavrar agalmatolito no município de Pará de Minas, Estado de Minas Gerais.

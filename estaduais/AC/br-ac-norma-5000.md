@@ -1,6 +1,10 @@
 > **LEI Nº 3.834, DE 14 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Título de Cidadão Acreano ao Sr. Wagner Álvares de Souza.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Título de Cidadão Acreano ao Sr. Wagner Álvares de Souza.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

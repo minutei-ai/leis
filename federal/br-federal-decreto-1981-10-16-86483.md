@@ -1,5 +1,3 @@
-###DEC-086483-0-000-16-10-1981@@@
-
 DECReto Nº 86.483, DE 16 DE OUTUBRO DE 1981.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela sobre Sanidade Animal em Áreas de Fronteira dos dois Países.
@@ -84,4 +82,20 @@ Cada uma das Partes Contratantes notificará outra o cumprimento das formalidade
 
 Feito em Caracas, aos 7 dias do mês de novembro de 1979, em dois exemplares, nas línguas portuguesa e espanhola, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:234.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DA VENEZUELA:</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:234.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José Alberto Zambrano Velasco</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:234.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DA VENEZUELA:
+
+</td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Ramiro Saraiva Guerreiro
+
+</td><td style="width:234.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+José Alberto Zambrano Velasco
+
+</td></tr></tbody></table>

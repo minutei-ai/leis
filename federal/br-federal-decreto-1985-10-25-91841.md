@@ -1,5 +1,3 @@
-###DEC-091841-0-000-25-10-1985@@@
-
 Decreto nº 91.841, de 25 de outubro de 1985.
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Glebas Providência I, II e III, compreendidos nas referidas áreas, nos Municípios de Cáceres e Mirassol D'oeste, no Estado de Mato Grosso.

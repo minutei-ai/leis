@@ -1,5 +1,3 @@
-###MPV-001842-0-006-27-07-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.842-6, DE 27 DE JULHO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$300.000.000,00, para os fins que especifica.

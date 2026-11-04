@@ -1,5 +1,3 @@
-###DEL-004329-0-000-23-05-1942@@@
-
 DECRETO-LEI N. 4.329 – DE 23 DE MAIO DE 1942
 
 Cria um Destacamento Misto de Sapadores e Pontoneiros em Fernando de Noronha

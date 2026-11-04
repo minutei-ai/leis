@@ -1,7 +1,3 @@
-1
-
-###DEC-001641-0-000-21-09-1995@@@
-
 DECRETO Nº 1.641, DE 21 DE SETEMBRO DE 1995.
 
 Altera valores constantes do Anexo ao Decreto nº 1.583, de 3 de agosto de 1995, que dispõe sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1995, relativa aos Orçamentos Fiscal e da Seguridade Social, e dá outras providências.

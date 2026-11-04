@@ -1,5 +1,3 @@
-###DEL-005800-0-000-06-09-1943@@@
-
 DECRETO‑LEI N. 5.800 – DE 6 DE SETEMBRO DE 1943
 
 Cria função gratificada no Ministério da Agricultura e dá outras providências

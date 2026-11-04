@@ -1,5 +1,3 @@
-###DEC-077315-0-000-19-03-1976@@@
-
 DECRETO Nº 77.315, DE 19 DE MARÇO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação e instituição de servidão, pela Telecomunicações de São Paulo S.A. - TELESP, áreas de terras, sem benfeitorias, necessárias à implantação e construção de estação rádio e faixa destinada ao seu acesso, a serem desmembradas de maior porção, situadas na Cidade e Comarca de Mariporã, zona rural, Estado de São Paulo.

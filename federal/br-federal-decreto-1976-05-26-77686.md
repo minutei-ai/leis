@@ -1,5 +1,3 @@
-###DEC-077686-0-000-26-05-1976@@@
-
 DECRETO Nº 77.686, DE 26 DE MAIO 1976
 
 Concede à Empresa de Mineração Vale do Paraíba Ltda. o direito de lavrar mármore no Município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

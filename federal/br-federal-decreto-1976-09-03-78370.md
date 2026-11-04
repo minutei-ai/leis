@@ -1,5 +1,3 @@
-###DEC-078370-0-000-03-09-1976@@@
-
 Decreto n.º 78.370-de 3 de setembro de 1976
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis , da Faculdade de Ciências Administrativa e Contábeis Paulo Eiró, com sede na cidade de São Paulo, Estado de São Paulo .

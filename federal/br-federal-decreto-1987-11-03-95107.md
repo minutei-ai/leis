@@ -1,5 +1,3 @@
-###DEC-095107-0-000-03-11-1987@@@
-
 DECRETO Nº 95.107, DE 3 DE NOVEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessária à implantação da subestação Aeroporto da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

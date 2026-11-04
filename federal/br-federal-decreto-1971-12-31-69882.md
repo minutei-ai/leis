@@ -1,5 +1,3 @@
-###DEC-069882-0-000-31-12-1971@@@
-
 DECRETO Nº 69.882 - DE 31 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado em Goiânia, Estado de Goiás, necessário à ampliação do Serviço Postal da Diretoria Regional da Emprêsa Brasileira de Correios e Telégrafos naquele Estado.

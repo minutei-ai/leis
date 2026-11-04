@@ -1,5 +1,3 @@
-###DEC-095580-0-000-29-12-1987@@@
-
 DECRETO Nº 95.580, DE 29 DE DEZEMBRO DE 1987
 
 Reajusta o valor do Salário Mínimo de Referência.

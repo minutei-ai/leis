@@ -1,5 +1,3 @@
-###DEC-094728-0-000-05-08-1987@@@
-
 DECRETO Nº 94.728, DE 5 DE AGOSTO DE 1987.
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Alcance Parcial nº 1, de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre a Argentina e o Brasil.

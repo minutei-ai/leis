@@ -1,20 +1,18 @@
-###DEC-038598-0-000-17-01-1956@@@
+**DECRETO Nº 38.596, DE 17 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.596, DE 17 DE JANEIRO DE 1956.</strong>
+***Aprova as Instruções para a Organização e Funcionamento dos Núcleos de Comando de Zonas de Defesa.***
 
-<em><strong>Aprova as Instruções para a Organização e Funcionamento dos Núcleos de Comando de Zonas de Defesa.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas, as Instruções para a Organização e Funcionamento dos Núcleos de Comando de Zonas de Defesa que com êste baixam, assinadas pelo General de Exército Anor Teixeira dos Santos, Chefe Interino do Estado Maior das Fôrças Armadas.
 
-<strong>Art</strong>. 1º Ficam aprovadas, as Instruções para a Organização e Funcionamento dos Núcleos de Comando de Zonas de Defesa que com êste baixam, assinadas pelo General de Exército Anor Teixeira dos Santos, Chefe Interino do Estado Maior das Fôrças Armadas.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 17 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Antônio Alves Câmara
 
@@ -22,7 +20,7 @@ Henrique Lott
 
 Vasco Alves Secco
 
-<strong>INSTRUÇÕES PARA ORGANIZAÇÃO E FUNCIONAMENTO DOS NÚCLEOS DE COMANDO DE ZONAS DE DEFESA DE QUE TRATA O DECRETO Nº 37.909, DE 16 DE SETEMBRO DE 1955.</strong>
+**INSTRUÇÕES PARA ORGANIZAÇÃO E FUNCIONAMENTO DOS NÚCLEOS DE COMANDO DE ZONAS DE DEFESA DE QUE TRATA O DECRETO Nº 37.909, DE 16 DE SETEMBRO DE 1955.**
 
 I - Finalidade
 
@@ -146,6 +144,6 @@ Para efeito da transferência dêstes arquivos os referidos documentos deverão 
 
 13 - Os Chefes dos NCZD proporão, seis meses após o início de suas atividades quaisquer modificações das presentes Instruções julgadas necessárias.
 
-<strong>GENERAL ANOR TEIXEIRA DOS SANTOS</strong>
+**GENERAL ANOR TEIXEIRA DOS SANTOS**
 
 Chefe Interino do EMFA

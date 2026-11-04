@@ -1,5 +1,3 @@
-###MPV-000203-0-000-28-07-2004@@@
-
 MEDIDA PROVISÓRIA Nº 203, DE 28 DE JULHO 2004
 
 Altera dispositivos da Lei nº 3.268, de 30 de setembro de 1957, que dispõe sobre os Conselhos de Medicina, e dá outras providências.

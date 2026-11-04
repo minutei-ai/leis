@@ -1,5 +1,3 @@
-###DEC-050043-0-000-24-01-1961@@@
-
 DECRETO Nº 50.043, DE 24 DE Janeiro DE 1961.
 
 Autoriza a Companhia de Cimento Portland de Sergipe a lavrar calcário nos municípios de  Laranjeiras e Cotinguiba, Estado de Sergipe.

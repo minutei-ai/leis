@@ -1,5 +1,3 @@
-###DEC-054108-0-000-07-08-1964@@@
-
 DECRETO Nº 54.108, DE 7 DE AGÔSTO DE 1964.
 
 Estabelece obrigatoriedade de utilização do transporte ferroviário pelas repartições públicas, autarquias, órgãos da administração descentralizada e entidades de direito privado, beneficiados pelo Govêrno.

@@ -1,5 +1,3 @@
-###DEL-005021-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.021 – DE 3 DE DEZEMBRO DE 1942
 
 Dispõe sobre funções gratificadas da Comissão de Orçamento

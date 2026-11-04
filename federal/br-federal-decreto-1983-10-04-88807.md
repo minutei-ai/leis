@@ -1,5 +1,3 @@
-###DEC-088807-0-000-04-10-1983@@@
-
 DECRETO Nº 88.807, DE 04 DE OUTUBRO DE 1983
 
 Concede autorização à Empresa PECTEN BRAZIL ALAGOAS PETROLEUM COMPANY para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

@@ -10,118 +10,121 @@ Art. 2º - A despesa será efetuada nos limites que se indicam nos quadros anal�
 
 2 - PODER LEGISLATIVO
 
-<table border="1" cellspacing="0" cellpadding="0" width="425" style="width:318.95pt;
- margin-left:63.8pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.01 - Assembléia Legislativa<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$233.773.210,<quebra></quebra></span></p></td></tr></tbody></table>
+2.01 - Assembléia Legislativa<quebra></quebra>
+
+Cr$233.773.210,<quebra></quebra>
 
 3 - PODER EXECUTIVO
 
-<table border="1" cellspacing="0" cellpadding="0" width="425" style="width:318.95pt;
- margin-left:63.8pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 1.4pt 0cm 1.4pt"><tbody><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.01 - Governo do Estado<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>10.718.250,00<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.02 - Secretaria do Governo do Estado<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>131.536.896,20<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.03 - Secretaria de Agricultura, Indústria e Comércio<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>861.383.301,80<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.04 - Secretaria de Educação e Cultura.<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.612.967.840,20<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.05 - Secretaria da Fazenda<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.793.437.117,70<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.06 - Secretaria<span style="mso-spacerun: yes">&nbsp; </span>do Interior e Justiça<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>371.116.471,30<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.07 - Secretaria da Segurança Pública<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.012.787.188,80<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.08 - Secretaria da Viação e Obras Públicas<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>2.581.296.283,90<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>3.09 - Secretaria de Saúde Pública e Assistência Social<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.439.867.338,00<quebra></quebra></span></p></td></tr><tr><td width="312" valign="top" style="width:233.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>11.808.720.687,90<quebra></quebra></span></p></td></tr></tbody></table>
+3.01 - Governo do Estado<quebra></quebra>
+
+10.718.250,00<quebra></quebra>
+
+3.02 - Secretaria do Governo do Estado<quebra></quebra>
+
+131.536.896,20<quebra></quebra>
+
+3.03 - Secretaria de Agricultura, Indústria e Comércio<quebra></quebra>
+
+861.383.301,80<quebra></quebra>
+
+3.04 - Secretaria de Educação e Cultura.<quebra></quebra>
+
+1.612.967.840,20<quebra></quebra>
+
+3.05 - Secretaria da Fazenda<quebra></quebra>
+
+3.793.437.117,70<quebra></quebra>
+
+3.06 - Secretaria  do Interior e Justiça<quebra></quebra>
+
+371.116.471,30<quebra></quebra>
+
+3.07 - Secretaria da Segurança Pública<quebra></quebra>
+
+1.012.787.188,80<quebra></quebra>
+
+3.08 - Secretaria da Viação e Obras Públicas<quebra></quebra>
+
+2.581.296.283,90<quebra></quebra>
+
+3.09 - Secretaria de Saúde Pública e Assistência Social<quebra></quebra>
+
+1.439.867.338,00<quebra></quebra>
+
+<quebra></quebra>
+
+11.808.720.687,90<quebra></quebra>
 
 4 - PODER JUDICIÁRIO
 
-<table border="1" cellspacing="0" cellpadding="0" width="425" style="width:318.95pt;
- margin-left:63.8pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.01 - Tribunal de Justiça<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>42.691.385,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.02 - Corregedoria Geral da Justiça<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.711.286,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>47.402.671,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+4.01 - Tribunal de Justiça<quebra></quebra>
+
+42.691.385,00<quebra></quebra>
+
+<quebra></quebra>
+
+4.02 - Corregedoria Geral da Justiça<quebra></quebra>
+
+4.711.286,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+47.402.671,00<quebra></quebra>
+
+<quebra></quebra>
 
 5 - ÓRGÃO AUXILIAR
 
-<table border="1" cellspacing="0" cellpadding="0" width="425" style="width:318.95pt;
- margin-left:63.8pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.01<span style="mso-spacerun: yes">&nbsp; </span>Tribunal de Contas<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>18.889.647,40<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="340" colspan="2" valign="top" style="width:9.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12.108.786.215,90<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> 5.01&nbsp; Tribunal de Contas<quebra></quebra> </td><td valign="top"> 18.889.647,40<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td colspan="2" valign="top"> 12.108.786.215,90<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 Parágrafo único - A despesa de pessoal variável obedecerá ao princípio doudecimal constituindo economia do exercício as parcelas não comprometidas tempestivamente.
 
 Art. 3º - A receita será realizada mediante arrecadação dos tributos, rendas, suprimentos de fundo e outros recursos, na forma das leis vigentes e de acordo com a seguinte previsão:
 
-<table border="1" cellspacing="0" cellpadding="0" width="425" style="width:318.95pt;
- margin-left:63.8pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>I<quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Renda Tributária<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8.572.549.000,00<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>II<quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Renda Patrimonial<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.100.000,00<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>III<quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Renda Industrial<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20.200.000,00<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>IV<quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Rendas Diversas<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.030.300.000,00<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.267.149.000,00<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>RECEITA EXTRAORDINÁRIA<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>186.300.000,00<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="265" valign="top" style="width:7.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TOTAL GERAL DA RECEITA<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9.813.449.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+I<quebra></quebra>
+
+Renda Tributária<quebra></quebra>
+
+8.572.549.000,00<quebra></quebra>
+
+II<quebra></quebra>
+
+Renda Patrimonial<quebra></quebra>
+
+4.100.000,00<quebra></quebra>
+
+III<quebra></quebra>
+
+Renda Industrial<quebra></quebra>
+
+20.200.000,00<quebra></quebra>
+
+IV<quebra></quebra>
+
+Rendas Diversas<quebra></quebra>
+
+1.030.300.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+9.267.149.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+RECEITA EXTRAORDINÁRIA<quebra></quebra>
+
+186.300.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+TOTAL GERAL DA RECEITA<quebra></quebra>
+
+9.813.449.000,00<quebra></quebra>
 
 Art. 4º - Para cobertura do deficit fica o Poder Executivo autorizado a realizar operações de crédito até quantia de. Cr$ 2.295.337.215,90, dentro ou fora do País, observados os juros e condições dos mercados, devendo as operações externas atender ao disposto no inciso II do art. 63 da Constituição Federal.
 
@@ -163,113 +166,125 @@ Gileno Amado
 
 Romulo Almeida
 
-<table border="1" cellspacing="0" cellpadding="0" width="482" style="width:361.45pt;
- margin-left:14.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 1.4pt 0cm 1.4pt"><tbody><tr><td width="19" valign="top" style="width:14.15pt;border:solid black .5pt;
-  padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>01<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Gabinete do Secretário<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>282.620.000,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>6.480.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>289.100.000,00<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.15pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>02<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Serviço Geral de Administração<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>7.617.977,50<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>725.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>8.342.977,50<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.15pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>04<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Departamento de Estradas de Rodagem<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.114.400.000,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>102.310.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.216.710,00<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.15pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>06<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Departamento de Viação<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>152.442.157,50<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.137.533,60<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>153.579.691,10<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.15pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>07<quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Departamento de Energia<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>683.781.250,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>32.750.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>716.531.250,00<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.15pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>TOTAL GERAL<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>2.255.198.750,30<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>326.097.533,60<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>2.581.296.383,90<quebra></quebra></span></p></td></tr></tbody></table>
+01<quebra></quebra>
 
-<table border="1" cellspacing="0" cellpadding="0" width="482" style="width:361.45pt;
- margin-left:14.2pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 1.4pt 0cm 1.4pt"><tbody><tr><td width="19" valign="top" style="width:14.5pt;border:solid black .5pt;
-  padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>01<quebra></quebra></span></p></td><td width="189" valign="top" style="width:141.4pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Gabinete do Secretário<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>285.520.677,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>6.480.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>292.000.677,00<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>02<quebra></quebra></span></p></td><td width="189" valign="top" style="width:141.4pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Serviço Geral de Administração<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>7.412.977,50<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>725.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>8.137.977,50<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>04<quebra></quebra></span></p></td><td width="189" valign="top" style="width:141.4pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Departamento de Estradas de Rodagem<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.124.568.502,00<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>102.310.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.226.878.502,00<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>06<quebra></quebra></span></p></td><td width="189" valign="top" style="width:141.4pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Departamento de Viação e Aeroportos<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>151.842.757,50<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>1.137.533,60<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>152.980.291,10<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>07<quebra></quebra></span></p></td><td width="189" valign="top" style="width:141.4pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>Departamento de Energia<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>696.568.246,60<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>32.750.000,00<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>729.318.246,60<quebra></quebra></span></p></td></tr><tr><td width="19" valign="top" style="width:14.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="189" valign="top" style="width:141.4pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>TOTAL GERAL<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>2.280.250.525,90<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>326.097.533,60<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 1.4pt 0cm 1.4pt"><p class="Tabela-Texto"><span>2.606.348.059,50<quebra></quebra></span></p></td></tr></tbody></table>
+Gabinete do Secretário<quebra></quebra>
+
+282.620.000,00<quebra></quebra>
+
+6.480.000,00<quebra></quebra>
+
+289.100.000,00<quebra></quebra>
+
+02<quebra></quebra>
+
+Serviço Geral de Administração<quebra></quebra>
+
+7.617.977,50<quebra></quebra>
+
+725.000,00<quebra></quebra>
+
+8.342.977,50<quebra></quebra>
+
+04<quebra></quebra>
+
+Departamento de Estradas de Rodagem<quebra></quebra>
+
+1.114.400.000,00<quebra></quebra>
+
+102.310.000,00<quebra></quebra>
+
+1.216.710,00<quebra></quebra>
+
+06<quebra></quebra>
+
+Departamento de Viação<quebra></quebra>
+
+152.442.157,50<quebra></quebra>
+
+1.137.533,60<quebra></quebra>
+
+153.579.691,10<quebra></quebra>
+
+07<quebra></quebra>
+
+Departamento de Energia<quebra></quebra>
+
+683.781.250,00<quebra></quebra>
+
+32.750.000,00<quebra></quebra>
+
+716.531.250,00<quebra></quebra>
+
+<quebra></quebra>
+
+TOTAL GERAL<quebra></quebra>
+
+2.255.198.750,30<quebra></quebra>
+
+326.097.533,60<quebra></quebra>
+
+2.581.296.383,90<quebra></quebra>
+
+01<quebra></quebra>
+
+Gabinete do Secretário<quebra></quebra>
+
+285.520.677,00<quebra></quebra>
+
+6.480.000,00<quebra></quebra>
+
+292.000.677,00<quebra></quebra>
+
+02<quebra></quebra>
+
+Serviço Geral de Administração<quebra></quebra>
+
+7.412.977,50<quebra></quebra>
+
+725.000,00<quebra></quebra>
+
+8.137.977,50<quebra></quebra>
+
+04<quebra></quebra>
+
+Departamento de Estradas de Rodagem<quebra></quebra>
+
+1.124.568.502,00<quebra></quebra>
+
+102.310.000,00<quebra></quebra>
+
+1.226.878.502,00<quebra></quebra>
+
+06<quebra></quebra>
+
+Departamento de Viação e Aeroportos<quebra></quebra>
+
+151.842.757,50<quebra></quebra>
+
+1.137.533,60<quebra></quebra>
+
+152.980.291,10<quebra></quebra>
+
+07<quebra></quebra>
+
+Departamento de Energia<quebra></quebra>
+
+696.568.246,60<quebra></quebra>
+
+32.750.000,00<quebra></quebra>
+
+729.318.246,60<quebra></quebra>
+
+<quebra></quebra>
+
+TOTAL GERAL<quebra></quebra>
+
+2.280.250.525,90<quebra></quebra>
+
+326.097.533,60<quebra></quebra>
+
+2.606.348.059,50<quebra></quebra>
 
 [01 GABINETE SECRETÁRIO](https://www.legislabahia.ba.gov.br/sites/default/files/anexos/LO19601381image001.gif)
 
@@ -285,4 +300,4 @@ Romulo Almeida
 
 [07 - DEPARTAMENTO DE ENERGIA](https://www.legislabahia.ba.gov.br/sites/default/files/anexos/LO19601381image007.gif)
 
-* * *
+ *

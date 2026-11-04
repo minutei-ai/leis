@@ -1,5 +1,3 @@
-###DEC-070942-0-000-07-08-1972@@@
-
 DECRETO Nº 70.972, DE 7 DE AGOSTO DE 1972.
 
 Concede reconhecimento ao Curso de Engenheiros Civis da Faculdade de Engenharia da Universidade Católica de Pelotas - RS.

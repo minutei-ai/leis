@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=26940)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1986/compilacao-lei-5091-08.05.1986.html)
 
 # LEI Nº 5.091, DE 08 DE MAIO DE 1986
@@ -7,33 +6,51 @@
 
 ### _Transforma estâncias turísticas em estâncias hidrominerais_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Ficam transformadas em estâncias hidrominerais as seguintes estâncias turísticas:<br>
-I - Lindóia;<br>
-II - Águas de Lindóia;<br>
-III - Serra Negra;<br>
-IV - Amparo;<br>
-V - Monte Alegre do Sul;<br>
-VI - Atibaia;<br>
-VII - Socorro;<br>
-VIII - Águas da Prata;<br>
-IX - Campos do Jordão;<br>
-X - Ibirá;<br>
-XI - Águas de Santa Bárbara;<br>
-XII - Águas de São Pedro; e~~<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Ficam transformadas em estâncias hidrominerais as seguintes estâncias turísticas:
+
+I - Lindóia;
+
+II - Águas de Lindóia;
+
+III - Serra Negra;
+
+IV - Amparo;
+
+V - Monte Alegre do Sul;
+
+VI - Atibaia;
+
+VII - Socorro;
+
+VIII - Águas da Prata;
+
+IX - Campos do Jordão;
+
+X - Ibirá;
+
+XI - Águas de Santa Bárbara;
+
+XII - Águas de São Pedro; e~~
+
 ~~XIII - Poá.~~
 
 ~~Artigo 2.º - Esta lei entrará em vigor na data de sua publicação.~~
 
-~~Palácio dos Bandeirantes, 8 de maio de 1986.<br>
-FRANCO MONTORO<br>
-Sérgio Barbour<br>
-respondendo pelo expediente da Secretaria de Esportes e Turismo<br>
-Luiz Carlos Bresser Pereira, Secretário do Governo.<br>
-Publicada na Assessoria Técnico-Legislativa, aos 8 de maio de 1986.~~
+~~Palácio dos Bandeirantes, 8 de maio de 1986.
 
-<br>
+FRANCO MONTORO
+
+Sérgio Barbour
+
+respondendo pelo expediente da Secretaria de Esportes e Turismo
+
+Luiz Carlos Bresser Pereira, Secretário do Governo.
+
+Publicada na Assessoria Técnico-Legislativa, aos 8 de maio de 1986.~~
 
 Revogada.
 

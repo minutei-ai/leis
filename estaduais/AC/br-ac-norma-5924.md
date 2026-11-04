@@ -1,6 +1,6 @@
 > **LEI Nº 4.293, DE 27 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre autorização para alienação de bens móveis recuperáveis da Administração Pública Direta do Poder Executivo.</span></span></span></p></td></tr></tbody></table>
+Dispõe sobre autorização para alienação de bens móveis recuperáveis da Administração Pública Direta do Poder Executivo.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -22,4 +22,182 @@ Governador do Estado do Acre
 
 **ANEXO ÚNICO**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>LOTE</span></strong></span></p></td><td><p><span><strong><span>MARCA/MODELO</span></strong></span></p></td><td><p><span><strong><span>PLACA</span></strong></span></p></td><td><p><span><strong><span>CHASSI</span></strong></span></p></td><td><p><span><strong><span>ANO</span></strong></span></p></td><td><p><span><strong><span>COR</span></strong></span></p></td><td><p><span><strong><span>PATRIMÔNIO</span></strong></span></p></td><td><p><span><strong><span>SITUAÇÃO FÍSICA</span></strong></span></p></td><td><p><span><strong><span>ÓRGÃO DE ORIGEM</span></strong></span></p></td><td><p><span><strong><span>AVALIAÇÃO</span></strong></span></p></td></tr><tr><td><p><span><span>01</span></span></p></td><td><p><span><span>FORD / RANGER XLT 13P</span></span></p></td><td><p><span><span>MZW7573</span></span></p></td><td><p><span><span>8AFER13P2BJ406300</span></span></p></td><td><p><span><span>2011/2011</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>155055</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 15.083,40</span></span></p></td></tr><tr><td><p><span><span>02</span></span></p></td><td><p><span><span>FORD/RANGER</span></span></p></td><td><p><span><span>MZY0973</span></span></p></td><td><p><span><span>8AFER13P8BJ406298</span></span></p></td><td><p><span><span>2011/2011</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>002173</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 15.083,40</span></span></p></td></tr><tr><td><p><span><span>05</span></span></p></td><td><p><span><span>YAMAHA/XTZ250 TENERE</span></span></p></td><td><p><span><span>NXS5567</span></span></p></td><td><p><span><span>9C6KG0450D0022513</span></span></p></td><td><p><span><span>2012/2013</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>547488</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 3.927,75</span></span></p></td></tr><tr><td><p><span><span>06</span></span></p></td><td><p><span><span>HONDA/XR 250 TORNADO</span></span></p></td><td><p><span><span>MZW5126</span></span></p></td><td><p><span><span>9C2MD34006R007252</span></span></p></td><td><p><span><span>2006/2006</span></span></p></td><td><p><span><span>PRETA</span></span></p></td><td><p><span><span>145955</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 2.663,50</span></span></p></td></tr><tr><td><p><span><span>08</span></span></p></td><td><p><span><span>TOYOTA /HILUX CD4X4</span></span></p></td><td><p><span><span>NXS6032</span></span></p></td><td><p><span><span>8AJFY22G3D8006194</span></span></p></td><td><p><span><span>2013/2013</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>517312</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 19.117,65</span></span></p></td></tr><tr><td><p><span><span>10</span></span></p></td><td><p><span><span>TOYOTA /HILUX CD4X4 SR</span></span></p></td><td><p><span><span>NXT0932</span></span></p></td><td><p><span><span>8AJFY22G4D8006561</span></span></p></td><td><p><span><span>2013/2013</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>5173321</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 29.883,00</span></span></p></td></tr><tr><td><p><span><span>67</span></span></p></td><td><p><span><span>M.BENZ/L 1113/CAMINHÃO/CARGA</span></span></p></td><td><p><span><span>MZQ0033</span></span></p></td><td><p><span><span>34530512675991</span></span></p></td><td><p><span><span>1985/1985</span></span></p></td><td><p><span><span>VERMELHA</span></span></p></td><td><p><span><span>R001987</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Corpo de Bombeiros Militar do Estado do Acre - CBMAC</span></span></p></td><td><p><span><span>R$ 10.641,50</span></span></p></td></tr><tr><td><p><span><span>68</span></span></p></td><td><p><span><span>VW/AMAROK CD4X4</span></span></p></td><td><p><span><span>OXP2370</span></span></p></td><td><p><span><span>WV1DB42H6EA004485</span></span></p></td><td><p><span><span>2013/2014</span></span></p></td><td><p><span><span>BRANCA</span></span></p></td><td><p><span><span>533514</span></span></p></td><td><p><span><span>RECUPERÁVEL</span></span></p></td><td><p><span><span>Secretaria de Estado de Administração - SEAD</span></span></p></td><td><p><span><span>R$ 22.883,75</span></span></p></td></tr></tbody></table>
+**LOTE**
+
+**MARCA/MODELO**
+
+**PLACA**
+
+**CHASSI**
+
+**ANO**
+
+**COR**
+
+**PATRIMÔNIO**
+
+**SITUAÇÃO FÍSICA**
+
+**ÓRGÃO DE ORIGEM**
+
+**AVALIAÇÃO**
+
+01
+
+FORD / RANGER XLT 13P
+
+MZW7573
+
+8AFER13P2BJ406300
+
+2011/2011
+
+VERMELHA
+
+155055
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 15.083,40
+
+02
+
+FORD/RANGER
+
+MZY0973
+
+8AFER13P8BJ406298
+
+2011/2011
+
+VERMELHA
+
+002173
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 15.083,40
+
+05
+
+YAMAHA/XTZ250 TENERE
+
+NXS5567
+
+9C6KG0450D0022513
+
+2012/2013
+
+VERMELHA
+
+547488
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 3.927,75
+
+06
+
+HONDA/XR 250 TORNADO
+
+MZW5126
+
+9C2MD34006R007252
+
+2006/2006
+
+PRETA
+
+145955
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 2.663,50
+
+08
+
+TOYOTA /HILUX CD4X4
+
+NXS6032
+
+8AJFY22G3D8006194
+
+2013/2013
+
+VERMELHA
+
+517312
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 19.117,65
+
+10
+
+TOYOTA /HILUX CD4X4 SR
+
+NXT0932
+
+8AJFY22G4D8006561
+
+2013/2013
+
+VERMELHA
+
+5173321
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 29.883,00
+
+67
+
+M.BENZ/L 1113/CAMINHÃO/CARGA
+
+MZQ0033
+
+34530512675991
+
+1985/1985
+
+VERMELHA
+
+R001987
+
+RECUPERÁVEL
+
+Corpo de Bombeiros Militar do Estado do Acre - CBMAC
+
+R$ 10.641,50
+
+68
+
+VW/AMAROK CD4X4
+
+OXP2370
+
+WV1DB42H6EA004485
+
+2013/2014
+
+BRANCA
+
+533514
+
+RECUPERÁVEL
+
+Secretaria de Estado de Administração - SEAD
+
+R$ 22.883,75

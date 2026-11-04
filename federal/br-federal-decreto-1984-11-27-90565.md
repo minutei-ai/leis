@@ -1,5 +1,3 @@
-###DEC-090565-0-000-27-11-1984@@@
-
 Decreto nº 90.565, de 27 de novembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas-DNOCS - área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "SERRINHA", nos municípios de Serra Talhada, São José do Belmonte e Mirandiba, Estado de Pernambuco, e dá outras providências.

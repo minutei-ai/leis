@@ -1,5 +1,3 @@
-###DEC-048878-0-000-25-08-1960@@@
-
 DECRETO Nº 48.878, DE 25 DE AGÔSTO DE 1960.
 
 Concede à Sociedade Anônimo Martinelli - Navegação e Comércio “Samnave” autorização para funcionar como emprêsa de navegação de cabotagem.

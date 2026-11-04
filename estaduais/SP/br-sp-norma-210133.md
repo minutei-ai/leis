@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210133)<br>
-
 # DECRETO N° 68.986, DE 21 DE OUTUBRO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração Ordem do Mérito Armando Romagnoli "Herói Paulista - Combatente de 32", instituída pela Sociedade Veteranos de 32 - MMDC, e dá providências correlatas._

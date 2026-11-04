@@ -1,5 +1,3 @@
-###DEL-005720-0-000-03-08-1943@@@
-
 DECRETO‑LEI N. 5.720 – DE 3 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 500.000,00, para auxílio ao Instituto da Ordem dos Advogados Brasileiros

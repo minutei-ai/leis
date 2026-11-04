@@ -1,5 +1,3 @@
-###DEC-077490-0-000-27-04-1976@@@
-
 DECRETO Nº 77.490 - DE 27 DE ABRIL DE 1976
 
 Concede à Empresa Brasileira de Tetrâmero Ltda. autorização para funcionar aos domingos e nos dias feriados civis e religiosos, nos setores que menciona.

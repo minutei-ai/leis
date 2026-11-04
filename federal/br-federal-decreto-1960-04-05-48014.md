@@ -1,30 +1,28 @@
-###DEC-048014-0-000-05-04-1960@@@
+**DECRETO Nº 48.014, DE 5 DE ABRIL DE 1960.**
 
-<strong>DECRETO Nº 48.014, DE 5 DE ABRIL DE 1960.</strong>
+***Aprova o Regulamento da Diretoria do Material da Aeronáutica.***
 
-<em><strong>Aprova o Regulamento da Diretoria do Material da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Diretoria do Material da Aeronáutica, que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Diretoria do Material da Aeronáutica, que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de abril de 1960; 139º da Independência e 72º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello
 
-<strong>REGULAMENTO DA DIRETORIA DO MATEIAL DA AERONÁUTICA</strong>
+**REGULAMENTO DA DIRETORIA DO MATEIAL DA AERONÁUTICA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Missão e Subordinação</em>
+*Missão e Subordinação*
 
-<strong>Art</strong>. 1º A Diretoria do Material da Aeronáutica (D.M.A.er.) é o órgão do Ministério da Aeronáutica que tem por missão a direção geral, a coordenação e o contrôle do material da Aeronáutica.
+**Art**. 1º A Diretoria do Material da Aeronáutica (D.M.A.er.) é o órgão do Ministério da Aeronáutica que tem por missão a direção geral, a coordenação e o contrôle do material da Aeronáutica.
 
 Parágrafo único. Para os efeitos dêste Regulamento, entende-se por material da Aeronáutica:
 
@@ -48,19 +46,19 @@ i) pólvora, explosivos e munições;
 
 j) demais materiais técnicos que não sejam da competência, específica das outras Diretorias provedoras (material de intendência, material de saúde, material de construção civil e equipamentos terrestres de telecomunicações e proteção ao vôo).
 
-<strong>Art</strong>. 2º No cumprimento de sua missão a D.M.Aer., é responsável pela manutenção, suprimento, aquisição, armazenagem, distribuição, emprêgo, reparação, fabricação, descarga e alienação do material da sua competência. Competido-lhe, conseqüentemente, o estudo e o estabelecimento de Normas e Instruções relativas ao material da Aeronáutica bem como as medidas de fomento, orientação e contrôle da industria aeronáutica no país aí incluídas as industrias subsidiárias, mantendo íntima colaboração com o Centro Técnico de Aeronáutica e com o Estado Maior da Aeronáutica, a fim de dar eficiente cumprimento às diretrizes emanadas dêste último órgão.
+**Art**. 2º No cumprimento de sua missão a D.M.Aer., é responsável pela manutenção, suprimento, aquisição, armazenagem, distribuição, emprêgo, reparação, fabricação, descarga e alienação do material da sua competência. Competido-lhe, conseqüentemente, o estudo e o estabelecimento de Normas e Instruções relativas ao material da Aeronáutica bem como as medidas de fomento, orientação e contrôle da industria aeronáutica no país aí incluídas as industrias subsidiárias, mantendo íntima colaboração com o Centro Técnico de Aeronáutica e com o Estado Maior da Aeronáutica, a fim de dar eficiente cumprimento às diretrizes emanadas dêste último órgão.
 
-<strong>Art</strong>. 3º A D.M.Aer., como órgão técnico-administrativo é na pessoa do Diretor-Geral do Material, diretamente subordinada ao Ministro da Aeronáuticas em prejuízo das ligações diretas com o Estado Maior da Aeronáutica, a fim de dar cumprimento às suas recomendações e instruções, no tocante às questões relativas à Fôrça Aérea Brasileira.
+**Art**. 3º A D.M.Aer., como órgão técnico-administrativo é na pessoa do Diretor-Geral do Material, diretamente subordinada ao Ministro da Aeronáuticas em prejuízo das ligações diretas com o Estado Maior da Aeronáutica, a fim de dar cumprimento às suas recomendações e instruções, no tocante às questões relativas à Fôrça Aérea Brasileira.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Estrutura básica</em>
+*Estrutura básica*
 
-<strong>Art</strong>. 4º A D.M. Aer., para a execução de sua missão, disporá dos seguintes órgãos:
+**Art**. 4º A D.M. Aer., para a execução de sua missão, disporá dos seguintes órgãos:
 
 1 Órgãos de Direção-Geral:
 
@@ -96,13 +94,13 @@ e) Depósitos de Aeronáutica;
 
 f) Depósito de Material Bélico.
 
-<strong>Art</strong>. 5º O Diretor Geral do Material (DGM) exercerá:
+**Art**. 5º O Diretor Geral do Material (DGM) exercerá:
 
 a) ação técnica, administrativa e disciplinar sôbre os órgãos de direção geral, os de direção especializada e os de execução de que integram a D.M.Aer.,
 
 b) ação técnica, através da cadeia de comando, sôbre os demais órgãos de direção e execução regimentais, nas questões pertinentes ao material da Aeronáutica.
 
-<strong>Art</strong>. 6º O Gabinete Técnico (GT), diretamente subordinado ao DGM, tem por finalidade:
+**Art**. 6º O Gabinete Técnico (GT), diretamente subordinado ao DGM, tem por finalidade:
 
 a) assessorar o DGM nas decisões sôbre assuntos técnicos especializados;
 
@@ -126,7 +124,7 @@ d) Seção de Mobilização Industrial (GT-3);
 
 e) Seção de Estatística (GT-4).
 
-<strong>Art</strong>. 7º O Gabinete Administrativo (GA), diretamente subordinado ao DGM, tem por finalidade:
+**Art**. 7º O Gabinete Administrativo (GA), diretamente subordinado ao DGM, tem por finalidade:
 
 a) incumbir das questões administrativas internas da D.M.Aer., exclusive as de ordem econômica-Fianceira;
 
@@ -160,7 +158,7 @@ f) Seção de Transporte e Serviços Gerais (GA-5);
 
 g) Seção de Operação (GA-6).
 
-<strong>Art</strong>. 8º A Divisão de Material Bélico (DMB) tem por finalidade:
+**Art**. 8º A Divisão de Material Bélico (DMB) tem por finalidade:
 
 a) estudar e elaborar Normas e Instruções relativas ao material bélico em uso na F.A.B.;
 
@@ -182,7 +180,7 @@ d) Seção de Suprimento (DMB-2);
 
 e) Seção de Estudo e Projetos (DMB-3).
 
-<strong>Art</strong>. 9º A Divisão de Economia e Finanças (DMF) tem por finalidade:
+**Art**. 9º A Divisão de Economia e Finanças (DMF) tem por finalidade:
 
 a) reunir elementos estatístico referentes aos atos e fatos administrativos relacionados com o material da Aeronáutica, para sua análise face aos recursos financeiros empregados, a fim de possibilitar ao DGM, não só o exame pormenorizado do cumprimento de sua missão, como também propiciar com os referidos dados estatísticos na melhor previsão orçamentária;
 
@@ -218,11 +216,11 @@ f) Seção de Fiscalização Orçamentária (DMF-4);
 
 g) Seção de Provisões (DMF-5), compreendendo as Sub-Seções de Almoxarifado e Reembolsáveis.
 
-<strong>SEÇÃO 2</strong>
+**SEÇÃO 2**
 
-<em>Da Subdiretora de Manutenção</em>
+*Da Subdiretora de Manutenção*
 
-<strong>Art</strong>. 10. A Subdiretora de Manutenção (SDM), diretamente subordinada ao DGM, é o órgão de direção especializada ao Ministério da Aeronáutica que tem por missão a direção, o planejamento e o contrôle de tôdas as questões relativas à manutenção do material da Aeronáutica.
+**Art**. 10. A Subdiretora de Manutenção (SDM), diretamente subordinada ao DGM, é o órgão de direção especializada ao Ministério da Aeronáutica que tem por missão a direção, o planejamento e o contrôle de tôdas as questões relativas à manutenção do material da Aeronáutica.
 
 Parágrafo único. Para o bom desempenho de suas atribuições, a SDM terá a seguinte constituição:
 
@@ -234,7 +232,7 @@ c) Divisão de Planejamento (IMP);
 
 d) Divisão do Contrôle (DMC).
 
-<strong>Art</strong>. 11. O DMG, diretamente subordinado ao Subdiretor de Manutenção, tem por finalidade:
+**Art**. 11. O DMG, diretamente subordinado ao Subdiretor de Manutenção, tem por finalidade:
 
 a) coadjuvar o Subdiretor em todos os seus trabalhos;
 
@@ -250,7 +248,7 @@ a) Assistente;
 
 b) Seção Auxiliar (DMG-1).
 
-<strong>Art</strong>. 12. A DMP, diretamente subordinada ao Subdiretor de Manutenção tem por finalidade:
+**Art**. 12. A DMP, diretamente subordinada ao Subdiretor de Manutenção tem por finalidade:
 
 a) elaborar os programas de trabalhos e as linhas de ação dos órgãos de execução (Parques de Aeronáutica, Parques Especializados, Núcleos de Parque e Fábricas), em função de apoio necessário às Unidades e Estabelecimento da F.A.B. e das diretivas fixadas pelo Estado-Maior da Aeronáutica;
 
@@ -268,7 +266,7 @@ c) Seção de Manutenção de Parque (DMP-1);
 
 d) Seção de Manutenção Orgânica e de Base (DMP-2).
 
-<strong>Art</strong>. 13. A DMC, diretamente subordinada ao Subdiretor de Manutenção, tem por finalidade:
+**Art**. 13. A DMC, diretamente subordinada ao Subdiretor de Manutenção, tem por finalidade:
 
 a) controlar a execução dos programas de trabalhos dos órgãos de execução (Parques de Aeronáutica, Parques Especializados, Núcleos de Parques e Fábricas), através dos respectivos relatórios de produção e demais dados estatísticos;
 
@@ -288,11 +286,11 @@ c) Seção de Análise do Resultados (DMC-1);
 
 d) Seção de Documentação Técnica (DMC-2), compreendendo a Sub-Seção de Imprensa Técnica.
 
-<strong>SEÇÃO 3</strong>
+**SEÇÃO 3**
 
-<em>Da Subdiretora de Suprimento</em>
+*Da Subdiretora de Suprimento*
 
-<strong>Art</strong>. 14. A Subdiretora de Suprimento (SDS), diretamente subordinada ao DGM, é o órgão de direção especializada do Ministério da Aeronáutica que tem por missão a direção, o planejamento e o contrôle de tôdas as questões relativas ao suprimento do material da Aeronáutica.
+**Art**. 14. A Subdiretora de Suprimento (SDS), diretamente subordinada ao DGM, é o órgão de direção especializada do Ministério da Aeronáutica que tem por missão a direção, o planejamento e o contrôle de tôdas as questões relativas ao suprimento do material da Aeronáutica.
 
 Parágrafo único. Para o bom desempenho de suas atribuições, a SDS terá a seguinte constituição:
 
@@ -306,7 +304,7 @@ d) Divisão de Material (DSM);
 
 e) Divisão Especial de Programa de Assistência Militar (DSE).
 
-<strong>Art</strong>. 15. O DSG, diretamente subordinado ao Subdiretor de Suprimento, tem por finalidade:
+**Art**. 15. O DSG, diretamente subordinado ao Subdiretor de Suprimento, tem por finalidade:
 
 a) coadjuvar o Subdiretor em todos os seus trabalhos;
 
@@ -322,7 +320,7 @@ a) Assistente;
 
 b) Seção Auxiliar (DSG-1).
 
-<strong>Art</strong>. 16. A DSP, diretamente subordinado ao Subdiretor de Suprimento, tem por finalidade:
+**Art**. 16. A DSP, diretamente subordinado ao Subdiretor de Suprimento, tem por finalidade:
 
 a) a previsão e a programação do suprimento de material da Aeronáutica;
 
@@ -354,7 +352,7 @@ e) Seção de Movimentação (DSP-3);
 
 f) Seção de Combustíveis e Lubrificantes (DSP-4).
 
-<strong>Art</strong>. 17. A DSM. Diretamente subordinada ao Subdiretor de Suprimento, tem por finalidade:
+**Art**. 17. A DSM. Diretamente subordinada ao Subdiretor de Suprimento, tem por finalidade:
 
 a) contrôle das células das aeronaves, seus conjuntos componentes, instrumentos e acessórios;
 
@@ -378,7 +376,7 @@ c) Secção de Material Aéreo e Equipamentos Aerotransportados (DSM-1);
 
 d) Seção de Veículos Motorizados e Equipamentos Terrestres (DSM-2).
 
-<strong>Art</strong>. 18. A DSE. Diretamente subordinada ao Subdiretor de Suprimento, tem por finalidade e estudo, a coordenação e o contrôle de tôdas as questões relacionadas com o Programa de Assistência Militar (PAM),dentro do âmbito de ação da SDS; existirá enquanto vigorarem aos acôrdos internacionais respectivos.
+**Art**. 18. A DSE. Diretamente subordinada ao Subdiretor de Suprimento, tem por finalidade e estudo, a coordenação e o contrôle de tôdas as questões relacionadas com o Programa de Assistência Militar (PAM),dentro do âmbito de ação da SDS; existirá enquanto vigorarem aos acôrdos internacionais respectivos.
 
 Parágrafo único. Para o bom desempenho de suas atribuições, a DSE terá a seguinte constituição:
 
@@ -390,11 +388,11 @@ d) Seção de Normas e Procedimentos (DSE-2);
 
 e) Seção de Movimentação (DSE-3);
 
-<strong>SEÇÃO 4</strong>
+**SEÇÃO 4**
 
-<em>Da Subdiretoria de Procura e Desenvolvimento Industrial.</em>
+*Da Subdiretoria de Procura e Desenvolvimento Industrial.*
 
-<strong>Art</strong>. 19. A Subdiretora de Procura e Desenvolvimento Industrial (SDP), diretamente subordinado ao DGM, é o órgão de direção especializada do Ministério da Aeronáutica que tem por missão a direção, o planejamento, a procura e o desenvolvimento industrial do material da Aeronáutica.
+**Art**. 19. A Subdiretora de Procura e Desenvolvimento Industrial (SDP), diretamente subordinado ao DGM, é o órgão de direção especializada do Ministério da Aeronáutica que tem por missão a direção, o planejamento, a procura e o desenvolvimento industrial do material da Aeronáutica.
 
 Parágrafo único. Para o bom desempenho de suas atribuições, a SDP terá a seguinte constituição:
 
@@ -406,7 +404,7 @@ c) Divisão de Procura (DPP);
 
 d) Divisão Tecnico-Industrial (DPI).
 
-<strong>Art</strong>. 20. O DPG, diretamente subordinado ao Subdiretor de Procura e Desenvolvimento Industrial, tem por finalidade;
+**Art**. 20. O DPG, diretamente subordinado ao Subdiretor de Procura e Desenvolvimento Industrial, tem por finalidade;
 
 a) coadjuvar o Subdiretor em todos os seus trabalhos;
 
@@ -422,7 +420,7 @@ a) Assistente;
 
 b) Seção Auxiliar (DPG-1).
 
-<strong>Art</strong>. 21. A DPP, diretamente subordinada ao Subdiretor de Procura e Desenvolvimento Industrial, tem por finalidade:
+**Art**. 21. A DPP, diretamente subordinada ao Subdiretor de Procura e Desenvolvimento Industrial, tem por finalidade:
 
 a) o estudo das possibilidades do mercado interno o externo;
 
@@ -448,7 +446,7 @@ d) Seção de Coleta de Preços e Concorrências Públicas, (DPP-2);
 
 e) Seção de Contrôle de Preços (DPP-1);
 
-<strong>Art</strong>. 22. A DPI, diretamente subordinada ao Subdiretor de Procura e Desenvolvimento Industrial, tem por finalidade:
+**Art**. 22. A DPI, diretamente subordinada ao Subdiretor de Procura e Desenvolvimento Industrial, tem por finalidade:
 
 a) manter em ordem e em dias as especificações dos materias de interêsse para a Aaero náutica, para fins de procura e compra;
 
@@ -466,17 +464,17 @@ b) Adjunto;
 
 c) Seção de Homologação e Fomento Industrial (DPI-2).
 
-<strong>SEÇÃO 5</strong>
+**SEÇÃO 5**
 
-<em>Órgãos especializados de execução</em>
+*Órgãos especializados de execução*
 
-<strong>Art</strong>. 23. Os órgãos especializados de execução, previstos no art. 4º do presente Regulamento, são diretamente subordinados ao DGM e se regem por meio de regulamentação própria.
+**Art**. 23. Os órgãos especializados de execução, previstos no art. 4º do presente Regulamento, são diretamente subordinados ao DGM e se regem por meio de regulamentação própria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>Art</strong>. 24. Compete ao DGM, além das atribuições previstas no art. 5º do presente Regulamento:
+**Art**. 24. Compete ao DGM, além das atribuições previstas no art. 5º do presente Regulamento:
 
 a) dirigir, controlar e fiscalizar tôdas as atividades pertinentes à D.M.Aer.;
 
@@ -506,7 +504,7 @@ m) sugerir ao Diretor Geral do Ensino de Aeronáutica a atualização dos currí
 
 n) cumprir e fazer cumprir os dispositivos de lei ou regulamento, no âmbito de ação do DGM sôbre os escalões subordinados.
 
-<strong>Art</strong>. 25. Compete ao Subdiretor de Procura e Desenvolvimento Industrial, ao Subdiretor de Manutenção e ao de Suprimento:
+**Art**. 25. Compete ao Subdiretor de Procura e Desenvolvimento Industrial, ao Subdiretor de Manutenção e ao de Suprimento:
 
 a) dirigir, controlar e fiscalizar as atividades pertinentes às respectivas Subdiretorias;
 
@@ -524,7 +522,7 @@ g) propor ao DGM a designação dos Chefes de Divisao, dos Adjuntos e dos Chefes
 
 h) cumprir e fazer cumprir os dispositivos de lei ou regulamento no âmbito de ação do Subdiretor sõbre os escalões subordinados.
 
-<strong>Art</strong>. 26. Compete ao Chefe do Gabinete Administrativo do DGM:
+**Art**. 26. Compete ao Chefe do Gabinete Administrativo do DGM:
 
 a) chefiar os serviçoes pertinentes ao GA;
 
@@ -542,7 +540,7 @@ g) colaborar estreitamente com o DGM na coordenação dos trabalhos da D.M.Aer.,
 
 h) superintender so assuntos administrativos da D.M.Aer. excetuados os econômico-financeiros.
 
-<strong>Art</strong>. 27. Compete ao Chefe do Gabinete Técnico do D.G.M:
+**Art**. 27. Compete ao Chefe do Gabinete Técnico do D.G.M:
 
 a) chefiar os serviços pertinentes ao GT;
 
@@ -554,7 +552,7 @@ d) assessorar o DGM nas decisões que o mesmo deva tomar, usando mediante prévi
 
 e) superintender os serviços de setatística relativos às atividades da D.M.Aer., e fazer a respectiva análize.
 
-<strong>Art</strong>. 28. Compete aos Assistentes da Subdiretoria de Procura e Desenvolvimento Industrial, da Subdiretoria de Manutenção e da Subdiretoria de Suprimento, respectivamente:
+**Art**. 28. Compete aos Assistentes da Subdiretoria de Procura e Desenvolvimento Industrial, da Subdiretoria de Manutenção e da Subdiretoria de Suprimento, respectivamente:
 
 a) chefiar os serivços pertinentes aos respectivos Gabinetes;
 
@@ -568,7 +566,7 @@ e) superintender as questões relativas ao pessoal militar e civil das respectiv
 
 f) coordenar os trabalhos das Divisões, segundo a orientação traçada pelos respectivos Subdiretores.
 
-<strong>Art</strong>. 29. Compete aos Chefes de Divisão:
+**Art**. 29. Compete aos Chefes de Divisão:
 
 a) chefiar os trabalhos das respectivas Divisões;
 
@@ -582,7 +580,7 @@ e) estar a par dos problemas pendentes confiados à sua Divisão e diligenciar n
 
 f) cumprir e fazer cumprir os dispositivos de lei ou regulamento, no âmbito das respectivas Divisões.
 
-<strong>Art</strong>. 30. Compete aos Adjuntos:
+**Art**. 30. Compete aos Adjuntos:
 
 a) superintender a distribuição, a movimentação e o contrôle da correspondência oficial em trânsito na Divisão;
 
@@ -594,31 +592,31 @@ d) coordenar os trabalhos das Seções;
 
 e) complementar a ação do Chefe da Divisão, segundo a orientação por êste traçada.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 31. O Diretor Geral de Material será um Major Brigadeiro do Ar, da categoria de Engenheiro, de nomeação do Presidente da República.
+**Art**. 31. O Diretor Geral de Material será um Major Brigadeiro do Ar, da categoria de Engenheiro, de nomeação do Presidente da República.
 
-<strong>Art</strong>. 32. O Subdiretor de Procura e Desenvolvimento Industrial, o Subdiretor de Manutenção e o Subdiretor de Suprimento serão Brigadeiros do Ar. da categoria de Engenheiro, de nomeação do Presidente da República.
+**Art**. 32. O Subdiretor de Procura e Desenvolvimento Industrial, o Subdiretor de Manutenção e o Subdiretor de Suprimento serão Brigadeiros do Ar. da categoria de Engenheiro, de nomeação do Presidente da República.
 
-<strong>Art</strong>. 33. Os Chefes de Gabinete serão Coronéis do Quadro de Oficiais Aviadores, sendo que o de Gabinete Técnico deverá ser da categoria de Engenheiro, ambos de nomeação do Ministro da Aeronáutica.
+**Art**. 33. Os Chefes de Gabinete serão Coronéis do Quadro de Oficiais Aviadores, sendo que o de Gabinete Técnico deverá ser da categoria de Engenheiro, ambos de nomeação do Ministro da Aeronáutica.
 
-<strong>Art</strong>. 34. Os Assistentes serão Coronéis do Quadro de Oficiais Aviadores.
+**Art**. 34. Os Assistentes serão Coronéis do Quadro de Oficiais Aviadores.
 
-<strong>Art</strong>. 35. Os Chefes de Divisão serão Coronéis do Quadro de Oficiais Aviadores, com exceção da DMF que será Coronel do Quadro de Oficiais Intendentes da Aeronáutica.
+**Art**. 35. Os Chefes de Divisão serão Coronéis do Quadro de Oficiais Aviadores, com exceção da DMF que será Coronel do Quadro de Oficiais Intendentes da Aeronáutica.
 
 Parágrafo único. Os Chefes das DMP, DMC e DPI deverão ser Coronéis Aviadores da categoria de Engenheiro.
 
-<strong>Art</strong>. 36. Os adjuntos serão Tenentes-Coronéis Aviadores, com exceção da DMF, que será Tenente-Coronel do Quadro de Oficiais Intendentes da Aeronáutica.
+**Art**. 36. Os adjuntos serão Tenentes-Coronéis Aviadores, com exceção da DMF, que será Tenente-Coronel do Quadro de Oficiais Intendentes da Aeronáutica.
 
-<strong>Art</strong>. 37. Os Chefes de Seções serão Majores do Quadro de Oficiais Aviadores ou do Quadro de Oficiais Especialistas, com exceção das Seções da DMF que serão Majores do Quadro de Oficiais Intendentes.
+**Art**. 37. Os Chefes de Seções serão Majores do Quadro de Oficiais Aviadores ou do Quadro de Oficiais Especialistas, com exceção das Seções da DMF que serão Majores do Quadro de Oficiais Intendentes.
 
 Parágrafo único. Os Chefes das Seções do GT, da DMP, DMC e DPI deverão ser Oficiais da categoria de Engenheiro.
 
-<strong>Art</strong>. 38. O pessoal militar, previsto para o exercício das demais funções é o constante da respectiva Tabela de Organização e Lotação.
+**Art**. 38. O pessoal militar, previsto para o exercício das demais funções é o constante da respectiva Tabela de Organização e Lotação.
 
-<strong>Art</strong>. 39. Serão exercidas por funcionários civis, de livre designação do DGM, as chefias e funções específicas de:
+**Art**. 39. Serão exercidas por funcionários civis, de livre designação do DGM, as chefias e funções específicas de:
 
 \- chefe da Seção Legal;
 
@@ -626,7 +624,7 @@ Parágrafo único. Os Chefes das Seções do GT, da DMP, DMC e DPI deverão ser 
 
 \- Secretários do Diretor Geral e dos Subdiretores.
 
-<strong>Art</strong>. 40. Na designação a que se refere o artigo anterior, serão observadas as seguintes condições essenciais:
+**Art**. 40. Na designação a que se refere o artigo anterior, serão observadas as seguintes condições essenciais:
 
 \- o Chefe da Seção Legal será um Advogado do Ministério da Aeronáutica, militantes no Fôro Local;
 
@@ -634,42 +632,42 @@ Parágrafo único. Os Chefes das Seções do GT, da DMP, DMC e DPI deverão ser 
 
 Parágrafo único. A Seção de Laboratórios de Ensaio dos Materiais, à critério do DGM, também poderá ser chefiada por Engenheiro Civil ou Químico, pertencente aos Quadros do Ministério da Aeronáutica.
 
-<strong>Art</strong>. 41. O DGM poderá destacar pessoal sob suas ordens para atender às necessidades de serviço no órgãos que lhe são subordinados, dando conhecimento de tais providências ao Diretor Geral do Pessoal da Aeronáutica, para fins de contrôle.
+**Art**. 41. O DGM poderá destacar pessoal sob suas ordens para atender às necessidades de serviço no órgãos que lhe são subordinados, dando conhecimento de tais providências ao Diretor Geral do Pessoal da Aeronáutica, para fins de contrôle.
 
 Parágrafo único. Caso a necessidade de serviço exija a permanência do militar ou civil fora da respectiva Unidade por prazo superior a 90 dias, esta providência deverá ser tomada por intermédio da Diretoria do Pessoal da Aeronáutica.
 
-<strong>Art</strong>. 42. O pessoal militar da D.M.Aer., excetuados o DGM e os Subdiretores, será classificado na D.M.Aer., de acôrdo com as disposições vigentes, cabendo ao DGM a sua designação nos órgãos de direção geral e de direção especializada.
+**Art**. 42. O pessoal militar da D.M.Aer., excetuados o DGM e os Subdiretores, será classificado na D.M.Aer., de acôrdo com as disposições vigentes, cabendo ao DGM a sua designação nos órgãos de direção geral e de direção especializada.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 43. As substituições do DGM e dos Subdiretores de Manutenção, de Suprimento e de Procura e Desenvolvimento Industrial obedecendo as prescrições constantes do RISAER.
+**Art**. 43. As substituições do DGM e dos Subdiretores de Manutenção, de Suprimento e de Procura e Desenvolvimento Industrial obedecendo as prescrições constantes do RISAER.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 44. A D.M.Aer. terá um Regimento Interno onde serão previstas as minúcias da organização e a rotina da administração.
+**Art**. 44. A D.M.Aer. terá um Regimento Interno onde serão previstas as minúcias da organização e a rotina da administração.
 
-<strong>Art</strong>. 45. Os caso omissos no presente Regulamento serão resolvidos pelo Ministro Aeronáutica, caso não o possam ser pelo próprio DGM.
+**Art**. 45. Os caso omissos no presente Regulamento serão resolvidos pelo Ministro Aeronáutica, caso não o possam ser pelo próprio DGM.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições transitórias</em>
+*Disposições transitórias*
 
-<strong>Art</strong>. 46. As vistorias das aeronaves civis continuarão sendo feitas pela D.M.Aer., até que a Diretoria de Aeronáutica Civil, nos têrmos da letra <em>f</em> do art. 5º do Decreto número 3.525, de 15 de janeiro de 1942, se organize para tal fim e possa assumir integral responsabilidade de sua execução.
+**Art**. 46. As vistorias das aeronaves civis continuarão sendo feitas pela D.M.Aer., até que a Diretoria de Aeronáutica Civil, nos têrmos da letra *f* do art. 5º do Decreto número 3.525, de 15 de janeiro de 1942, se organize para tal fim e possa assumir integral responsabilidade de sua execução.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições finais</em>
+*Disposições finais*
 
-<strong>Art</strong>. 47. Revogam-se as disposições em contrário.
+**Art**. 47. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de abril de 1960.
 
 Major Brigadeiro do Ar
 
-<strong>FRANCISCO DE ASSIS CORRÊA DE MELLO</strong>
+**FRANCISCO DE ASSIS CORRÊA DE MELLO**
 
 Ministro da Aeronáutica

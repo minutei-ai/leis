@@ -1,5 +1,3 @@
-###DEC-080739-0-000-14-11-1977@@@
-
 DECRETO Nº 80.739, DE 14 DE NOVEMBRO DE 1977.
 
 Fixa o formato fundamental para papéis de expediente de uso no Serviço Público Federal e dá outras providências.

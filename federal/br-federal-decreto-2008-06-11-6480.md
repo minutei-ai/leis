@@ -1,5 +1,3 @@
-###DEC-006480-0-000-11-06-2008@@@
-
 DECRETO Nº 6.480, DE 11 DE JUNHO DE 2008.
 
 Promulga o Protocolo de Montevidéu sobre o Comércio de Serviços do MERCOSUL, concluído em Montevidéu, em 15 de dezembro de 1997, acompanhado de seus quatro Anexos Setoriais, adotados pela Decisão 9/98 do Conselho Mercado Comum, em 23 de julho de 1998, e a “Lista de Compromissos Específicos Iniciais” do Brasil, aprovada pela Decisão no 9/98 do Conselho Mercado Comum, em 23 de julho de 1998.
@@ -22,11 +20,7 @@ Brasília, 11 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 12.6.2008
-
-PROTOCOLO DE MONTEVIDÉU SOBRE O COMÉRCIO
+Celso Luiz Nunes AmorimPROTOCOLO DE MONTEVIDÉU SOBRE O COMÉRCIO
 
 DE SERVIÇOS DO MERCOSUL
 
@@ -458,7 +452,23 @@ Feito na cidade de Montevidéu, República Oriental do Uruguai, aos quinze dias 
 
 A presente versão em português foi feita em Buenos Aires, República Argentina, aos vinte e três dias do mês de julho de mil novecentos e noventa e oito.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:217.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Argentina GUIDO DI TELLA Ministro das Relações Exteriores, Comércio Exterior e Culto</span></p></td><td style="width:323.88pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Federativa do Brasil LUIZ FELIPE LAMPREIA Ministro das Relações Exteriores</span></p></td></tr><tr><td style="width:217.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República do Paraguai RUBEN MELGAREJO Ministro das Relações Exteriores</span></p></td><td style="width:323.88pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República Oriental do Uruguai DIDIER OPERTTI Ministro das Relações Exteriores.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:217.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top">
+
+Pelo Governo da República Argentina GUIDO DI TELLA Ministro das Relações Exteriores, Comércio Exterior e Culto
+
+</td><td style="width:323.88pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil LUIZ FELIPE LAMPREIA Ministro das Relações Exteriores
+
+</td></tr><tr><td style="width:217.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top">
+
+Pelo Governo da República do Paraguai RUBEN MELGAREJO Ministro das Relações Exteriores
+
+</td><td style="width:323.88pt; vertical-align:top">
+
+Pelo Governo da República Oriental do Uruguai DIDIER OPERTTI Ministro das Relações Exteriores.
+
+</td></tr></tbody></table>
 
 MERCOSUL/CMC/DEC No 9/98
 

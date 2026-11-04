@@ -1,5 +1,3 @@
-###DEC-076064-0-000-31-07-1975@@@
-
 decreto nº 76.064, de 31 de julho de 1975
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras, com os cursos de Pedagogia, de Letras, de Ciências e de Estudos Sociais, mantida pela Associação Brasil Central de Educação e Cultura, com sede na Cidade de Uberlândia, Estado de Minas Gerais.

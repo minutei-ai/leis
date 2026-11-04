@@ -1,5 +1,3 @@
-###DEL-007305-0-000-07-02-1945@@@
-
 DECRETO-LEI N. 7.305 – DE 7 DE FEVEREIRO DE 1945
 
 Dispõe sôbre os regimes de benefícios de família e de aposentadoria dos servidores civis dos Territórios Federais

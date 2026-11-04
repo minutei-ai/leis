@@ -1,5 +1,3 @@
-###DEC-059306-0-000-23-09-1966@@@
-
 DECRETO Nº 59.306, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Estevão Gross a pesquisar calcário no município de Eldorado Paulista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-064155-0-000-04-03-1969@@@
-
 DECRETO Nº 64.155, DE 4 DE MARÇO DE 1969.
 
 Altera a lotação de repartições atendidas pelo Quadro de Pessoal - Parte Permanente do Ministério da Agricultura.

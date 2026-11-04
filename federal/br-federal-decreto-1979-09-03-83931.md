@@ -1,5 +1,3 @@
-###DEC-083931-0-000-03-09-1979@@@
-
 Decreto nº 83.931, de 03 de setembro de 1979.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Difusora Matogrossense, cuja denominação social foi, posteriormente, alterada para Rádio Difusora Matogrossense S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Corumbá, Estado de Mato Grosso.

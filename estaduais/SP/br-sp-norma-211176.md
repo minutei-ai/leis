@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211176)<br>
-
 # DECRETO N° 69.689, DE 08 DE JULHO DE 2025
 
 ### _Altera dispositivos do Decreto n° 68.007, de 10 de outubro de 2023, que autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas._

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/79f75620-a3d4-4908-9e6f-914c7a53f500/texto#nowhere)
 
-###DEL-000821-0-000-05-09-1969@@@
-
 DECreTO-LEI Nº 821, DE 5 DE SETEMBRO DE 1969
 
 Dispensa da apresentação do Certificado de Quitação com a previdência social, as transações que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078562-0-000-11-10-1976@@@
-
 DECRETO N 78.562, DE 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos curso de Letras, de Pedagogia e de Matemática, da Faculdade de Educação, Ciências e Letras de Mogi Mirim , com sede na Cidade de Mogi Mirim, Estado de São Paulo.

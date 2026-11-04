@@ -1,5 +1,3 @@
-###DEC-081760-0-000-06-06-1978@@@
-
 Decreto nº 81.760, de 06 de junho de 1978.
 
 Concede reconhecimento ao curso de Agronomia, ministrado pela Escola Superior de Agronomia de Paraguaçu Paulista, com sede na cidade de Paraguaçu Paulista, Estado de São Paulo.

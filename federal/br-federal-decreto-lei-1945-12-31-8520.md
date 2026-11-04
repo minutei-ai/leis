@@ -1,5 +1,3 @@
-###DEL-008520-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.520 – DE 31 DE DEZEMBRO DE 1945
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 4.229, de 2 de abril de 1942, prorrogada sucessivamente pelos de ns. 6.037, de 23 de dezembro de 1943 e 7.117, de 4 de dezembro de 1944

@@ -1,5 +1,3 @@
-###DEC-071146-0-000-26-09-1972@@@
-
 DECRETO Nº 71.146, DE 26 DE SETEMBRO DE 1972.
 
 Autoriza a cessão gratuita de imóvel ao Governo do Estado de São Paulo.

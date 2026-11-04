@@ -1,7 +1,3 @@
-1
-
-###DEC-001667-0-000-10-10-1995@@@
-
 DECRETO Nº 1.667, DE OUTUBRO DE 1995
 
 Promulga o Acordo sobre Serviços Aéreos, entre o Governo da República Federativa do Brasil e o Governo Federal da Áustria, de 16 de julho de 1993.
@@ -286,8 +282,6 @@ Em testemunho do que, os abaixo-assinados, devidamente autorizados por seus resp
 
 Feito em Viena,  aos 16 dias do mês de julho de 1993, nos idiomas português, alemão e inglês, sendo todos os textos igualmente autênticos. Em caso de qualquer divergência de interpretação, prevalecerá o texto em inglês.
 
-<br>
-
 1
 
 PELO GOVERNO DA REPÚBLICA
@@ -317,8 +311,6 @@ Integração do Ministério
 Federal dos Negócios
 
 Estrangeiros
-
-<br>
 
 1
 

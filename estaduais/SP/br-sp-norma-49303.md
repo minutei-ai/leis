@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49303)
-
 # LEI Nº 11.649, DE 13 DE JANEIRO DE 2004
 
 ## (Projeto de lei nº 472/2002, do deputado Ricardo Trípoli - PSDB)

@@ -1,5 +1,3 @@
-###DEC-092913-0-000-10-07-1986@@@
-
 DECRETO Nº 92.913, DE 10 DE JULHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação - 2ª etapa, da subestação Conceição do Coité, da Companhia de Eletricidade do Estado da Bahia, - COELBA, no Estado da Bahia.

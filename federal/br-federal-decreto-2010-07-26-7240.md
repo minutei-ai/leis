@@ -1,5 +1,3 @@
-###DEC-007240-0-000-26-07-2010@@@
-
 DECRETO Nº 7.240, DE 26 DE JULHO DE 2010.
 
 Promulga o Acordo, por Troca de Notas, entre o Governo da República Federativa do Brasil e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte para o Exercício de Atividades Remuneradas por Dependentes de Pessoal Diplomático e Consular, celebrado em Brasília, em 27 de março de 2007

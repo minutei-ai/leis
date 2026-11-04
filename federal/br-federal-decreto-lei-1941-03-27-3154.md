@@ -1,5 +1,3 @@
-###DEL-003154-0-000-27-03-1941@@@
-
 DECRETO-LEI N. 3.154 – DE 27 DE MARÇO DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 416.744$3 para liquidação de despesas

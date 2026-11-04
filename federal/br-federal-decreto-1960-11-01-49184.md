@@ -1,5 +1,3 @@
-###DEC-049184-0-000-01-11-1960@@@
-
 DECRETO Nº 49.184, DE 1 DE NOVEMBRO DE 1960.
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEL-006628-0-000-26-06-1944@@@
-
 DECRETO-LEI  N. 6.628 - DE 26 DE JUNHO DE 1944
 
 Eleva padrão de vencimento de Professor no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-075953-0-000-08-07-1975@@@
-
 DECRETO Nº 75.953 - DE 8 DE JULHO DE 1975.
 
 Altera o Estatuto da Empresa Pública Banco Nacional do Desenvolvimento Econômico - BNDE, e dá outras providências.

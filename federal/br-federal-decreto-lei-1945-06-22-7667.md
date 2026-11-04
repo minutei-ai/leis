@@ -1,5 +1,3 @@
-###DEL-007667-0-000-22-06-1945@@@
-
 DECRETO-LEI N. 7.667 – DE 22 DE JUNHO DE 1945
 
 Incorpora ao patrimônio nacional, nas coleções do Museu Histórico Nacional, objetos que representam lembranças pessoais do Barão de Cotegipe

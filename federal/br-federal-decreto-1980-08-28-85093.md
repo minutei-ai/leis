@@ -1,5 +1,3 @@
-###DEC-085093-0-000-28-08-1980@@@
-
 Decreto nº 85.093, de 28 de agosto de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Matão, da Companhia Paulista de Força e Luz - CPFL no Estado de São Paulo.

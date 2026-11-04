@@ -1,5 +1,3 @@
-###DEC-049869-0-000-11-01-1961@@@
-
 Decreto nº 49.869, de 11 de janeiro de 1961.
 
 Extingue a Agência da Capitania dos Portos do Estado da Bahia, em Madre de Deus.

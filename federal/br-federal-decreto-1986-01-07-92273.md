@@ -1,5 +1,3 @@
-###DEC-092273-0-000-07-01-1986@@@
-
 DECRETO Nº 92.273, DE 07 DE JANEIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem em favor de Petróleo Brasileiro S/A - PETROBRÁS, imóveis constituídos de terras, acessões e benfeitorias que menciona.

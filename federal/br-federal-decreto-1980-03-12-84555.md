@@ -1,5 +1,3 @@
-###DEC-084555-0-000-12-03-1980@@@
-
 DECRETO Nº 84.555, DE 12 DE MARÇO DE 1980
 
 Dispõe sobre a publicação dos atos oficiais, regula as normas de editoração do Diário Oficial e dá outras providências.

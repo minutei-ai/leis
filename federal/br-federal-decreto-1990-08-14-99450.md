@@ -1,7 +1,3 @@
-1
-
-###DEC-099450-0-000-14-08-1990@@@ 
-
 DECRETO N° 99.450, DE 14 DE AGOSTO DE 1990
 
 Excepciona das disposições do Decreto n° 99.259, de 17 de maio de 1990, os pro­gramas que menciona.

@@ -92,8 +92,6 @@ VII – 1º de janeiro de 2019, quanto aos itens 16 a 27 da alínea “g”do Ap
 
 Goiânia, 23 de novembro de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

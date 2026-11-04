@@ -1,5 +1,3 @@
-###DEC-067790-0-000-10-12-1970@@@
-
 DECRETO Nº 67.790, DE 10 DE DEZEMBRO DE 1670.
 
 Declara caduco o Decreto número 23.541, de 18 de agôsto de 1947.

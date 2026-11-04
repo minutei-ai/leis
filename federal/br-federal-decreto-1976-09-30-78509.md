@@ -1,5 +1,3 @@
-###DEC-078509-0-000-30-09-1976@@@
-
 DECRETO Nº 78.509, DE 30 DE SETEMBRO DE 1976.
 
 Autoriza a Escola Federal de Engenharia de Itajubá a alienar bem imóvel de sua propriedade e dá outras providências.

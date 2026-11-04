@@ -1,5 +1,3 @@
-###DEC-093033-0-000-27-07-1986@@@
-
 DECRETO Nº 93.033, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Poço", situado nos Municípios de Una e Santa Luzia, no Estado da Bahia, compreendido, na zona prioritária, para fins de reforma agrária, lixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

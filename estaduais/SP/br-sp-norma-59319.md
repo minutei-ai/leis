@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59319)
-
 # LEI Nº 12.152, DE 13 DE DEZEMBRO DE 2005
 
 ## ( PL 413/2005 - Mesa)

@@ -1,5 +1,3 @@
-###DEC-096236-0-000-29-06-1988@@@
-
 DECRETO N° 96.236, DE 29 DE JUNHO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

@@ -1,5 +1,3 @@
-###DEC-054604-0-000-26-10-1964@@@
-
 DECRETO Nº 54.604, DE 26 DE OUTUBRO DE 1964.
 
 Amplia a zona de concessão das Centrais Elétricas de Goiás S.A.

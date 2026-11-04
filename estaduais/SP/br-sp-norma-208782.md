@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208782)<br>
-
 # DECRETO N° 68.067, DE 09 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Via Paulista S/A., as áreas necessárias à duplicação do trecho entre os km 223+000m e 237+430m da Rodovia João Mellão, SP-255, nos Municípios de Avaré, Botucatu e Pratânia, e dá providências correlatas._

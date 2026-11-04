@@ -1,5 +1,3 @@
-###DEC-067043-0-000-12-08-1970@@@
-
 decreto nº 67.043, de 12 de agôsto de 1970.
 
 Concede autorização à Confederação Nacional dos Trabalhadores em Comunicações e Publicidade para filiar-se à Internacional de Correios, Telégrafos e Telefones (ICTT).

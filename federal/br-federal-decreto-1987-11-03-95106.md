@@ -1,5 +1,3 @@
-###DEC-095106-0-000-03-11-1987@@@
-
 DECRETO Nº 95.106, DE 3 DE NOVEMBRO DE 1987
 
 Altera o art. 4º do Decreto nº 94.667, de 23 de julho de 1987, que dispõe sobre as despesas com a concessão de diárias.

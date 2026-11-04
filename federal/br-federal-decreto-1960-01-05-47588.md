@@ -1,5 +1,3 @@
-###DEC-047588-0-000-05-01-1960@@@
-
 DECRETO Nº 47.588, DE 5 DE JANEIRO DE 1960.
 
 Outorga concessão à Rádio Planalto de Araguari Limitada para instalar uma estação radiodifusora.

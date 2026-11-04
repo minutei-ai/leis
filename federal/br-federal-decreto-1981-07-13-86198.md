@@ -1,5 +1,3 @@
-###DEC-086198-0-000-13-07-1981@@@
-
 Decreto nº 86.198, de 13 de julho de1981
 
 Autoriza o aumento do Capital Social da Companhia de Eletricidade do Amapá - CEA.

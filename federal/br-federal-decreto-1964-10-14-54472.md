@@ -1,5 +1,3 @@
-###DEC-054472-0-000-14-10-1964@@@
-
 DECRETO Nº 54.472, DE 14 DE OUTUBRO DE 1964.
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica no Município de Cacequi, Estado do Rio Grande do Sul, e da outras providências.

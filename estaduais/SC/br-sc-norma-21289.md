@@ -198,7 +198,7 @@ QUADRO DE PESSOAL
 
 (Lei Complementar nº 323, de 2 de março de 2006)
 
-<table><tbody><tr><td><p><strong>QUANTITATIVO</strong></p></td><td><p><strong>CARGOS</strong></p></td><td><p><strong>QUANTITATIVO POR CARGO</strong></p></td><td><p><strong>NÍVEL INICIAL</strong></p></td><td><p><strong>NÍVEL FINAL</strong></p></td></tr><tr><td rowspan="79"><p>16951</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></td><td><p>Agente de Serviços Gerais</p></td><td><p>2284</p></td><td><p>1</p></td><td><p>4</p></td></tr><tr><td><p>Copeiro</p></td><td><p>50</p></td><td><p>5</p></td><td><p>8</p></td></tr><tr><td><p>Lactarista</p></td><td><p>96</p></td><td><p>5</p></td><td><p>8</p></td></tr><tr><td><p>Agente Auxiliar de Saúde Pública</p></td><td><p>100</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Agente de Manutenção</p></td><td><p>30</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Agente de Portaria</p></td><td><p>12</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Agente em Atividades Administrativas</p></td><td><p>100</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Atendente de Saúde Pública</p></td><td><p>90</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Auxiliar de Enfermagem</p></td><td><p>900</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Auxiliar de Laboratório</p></td><td><p>60</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Auxiliar de Serviços Hospitalares e Assistenciais</p></td><td><p>400</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Caldeireiro</p></td><td><p>20</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Carpinteiro</p></td><td><p>5</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Costureiro</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Cozinheiro</p></td><td><p>70</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Eletricista</p></td><td><p>40</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Encanador</p></td><td><p>12</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Jardineiro</p></td><td><p>12</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Marceneiro</p></td><td><p>12</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Massagista</p></td><td><p>2</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Mecânico</p></td><td><p>6</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Motorista</p></td><td><p>200</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Motorista Socorrista</p></td><td><p>100</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Padeiro</p></td><td><p>5</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Pedreiro</p></td><td><p>12</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Pintor</p></td><td><p>12</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Rádio-Operador</p></td><td><p>5</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico Auxiliar de Regulação Médica</p></td><td><p>20</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico de Radiologia e Imagem</p></td><td><p>180</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Alimentos</p></td><td><p>5</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Atividades Administrativas</p></td><td><p>1900</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Contabilidade</p></td><td><p>28</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Edificações</p></td><td><p>6</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Eletricidade</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Eletrônica</p></td><td><p>4</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Enfermagem</p></td><td><p>4400</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Fisioterapia</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Higiene Dental</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Imobilização Ortopédica</p></td><td><p>37</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Informática</p></td><td><p>40</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Instrumentação Cirúrgica</p></td><td><p>300</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Laboratório</p></td><td><p>146</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Manut. de Equip. Médicos Hospitalares</p></td><td><p>22</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Nutrição</p></td><td><p>80</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Patologia Clínica</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Prótese e Órtese</p></td><td><p>50</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Radioterapia</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Segurança do Trabalho</p></td><td><p>20</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Técnico em Vigilância Sanitária</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Telefonista</p></td><td><p>200</p></td><td><p>9</p></td><td><p>12</p></td></tr><tr><td><p>Administrador</p></td><td><p>50</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Analista de Sistemas</p></td><td><p>35</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Analista Técnico Administrativo</p></td><td><p>30</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Arquiteto</p></td><td><p>36</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Assistente Social</p></td><td><p>160</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Auditor em Saúde</p></td><td><p>10</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Bibliotecário</p></td><td><p>10</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Biólogo</p></td><td><p>25</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Bioquímico</p></td><td><p>216</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Contador</p></td><td><p>4</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Economista</p></td><td><p>5</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Enfermeiro</p></td><td><p>1310</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Engenheiro</p></td><td><p>23</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Farmacêutico</p></td><td><p>165</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Fiscal Sanitarista</p></td><td><p>50</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Físico</p></td><td><p>5</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Fisioterapeuta</p></td><td><p>130</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Fonoaudiólogo</p></td><td><p>70</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Médico</p></td><td><p>1969</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Médico Veterinário</p></td><td><p>15</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Nutricionista</p></td><td><p>120</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Odontólogo</p></td><td><p>120</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Pedagogo</p></td><td><p>5</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Profissional de Educação Física</p></td><td><p>10</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Psicólogo</p></td><td><p>100</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Químico</p></td><td><p>15</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Sanitarista</p></td><td><p>50</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>Terapeuta Ocupacional</p></td><td><p>70</p></td><td><p>13</p></td><td><p>16</p></td></tr><tr><td><p>TOTAL DE VAGAS</p></td><td><p>16951</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
+<table><tbody><tr><td> **QUANTITATIVO** </td><td> **CARGOS** </td><td> **QUANTITATIVO POR CARGO** </td><td> **NÍVEL INICIAL** </td><td> **NÍVEL FINAL** </td></tr><tr><td rowspan="79"> 16951 </td><td> Agente de Serviços Gerais </td><td> 2284 </td><td> 1 </td><td> 4 </td></tr><tr><td> Copeiro </td><td> 50 </td><td> 5 </td><td> 8 </td></tr><tr><td> Lactarista </td><td> 96 </td><td> 5 </td><td> 8 </td></tr><tr><td> Agente Auxiliar de Saúde Pública </td><td> 100 </td><td> 9 </td><td> 12 </td></tr><tr><td> Agente de Manutenção </td><td> 30 </td><td> 9 </td><td> 12 </td></tr><tr><td> Agente de Portaria </td><td> 12 </td><td> 9 </td><td> 12 </td></tr><tr><td> Agente em Atividades Administrativas </td><td> 100 </td><td> 9 </td><td> 12 </td></tr><tr><td> Atendente de Saúde Pública </td><td> 90 </td><td> 9 </td><td> 12 </td></tr><tr><td> Auxiliar de Enfermagem </td><td> 900 </td><td> 9 </td><td> 12 </td></tr><tr><td> Auxiliar de Laboratório </td><td> 60 </td><td> 9 </td><td> 12 </td></tr><tr><td> Auxiliar de Serviços Hospitalares e Assistenciais </td><td> 400 </td><td> 9 </td><td> 12 </td></tr><tr><td> Caldeireiro </td><td> 20 </td><td> 9 </td><td> 12 </td></tr><tr><td> Carpinteiro </td><td> 5 </td><td> 9 </td><td> 12 </td></tr><tr><td> Costureiro </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Cozinheiro </td><td> 70 </td><td> 9 </td><td> 12 </td></tr><tr><td> Eletricista </td><td> 40 </td><td> 9 </td><td> 12 </td></tr><tr><td> Encanador </td><td> 12 </td><td> 9 </td><td> 12 </td></tr><tr><td> Jardineiro </td><td> 12 </td><td> 9 </td><td> 12 </td></tr><tr><td> Marceneiro </td><td> 12 </td><td> 9 </td><td> 12 </td></tr><tr><td> Massagista </td><td> 2 </td><td> 9 </td><td> 12 </td></tr><tr><td> Mecânico </td><td> 6 </td><td> 9 </td><td> 12 </td></tr><tr><td> Motorista </td><td> 200 </td><td> 9 </td><td> 12 </td></tr><tr><td> Motorista Socorrista </td><td> 100 </td><td> 9 </td><td> 12 </td></tr><tr><td> Padeiro </td><td> 5 </td><td> 9 </td><td> 12 </td></tr><tr><td> Pedreiro </td><td> 12 </td><td> 9 </td><td> 12 </td></tr><tr><td> Pintor </td><td> 12 </td><td> 9 </td><td> 12 </td></tr><tr><td> Rádio-Operador </td><td> 5 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico Auxiliar de Regulação Médica </td><td> 20 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico de Radiologia e Imagem </td><td> 180 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Alimentos </td><td> 5 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Atividades Administrativas </td><td> 1900 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Contabilidade </td><td> 28 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Edificações </td><td> 6 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Eletricidade </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Eletrônica </td><td> 4 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Enfermagem </td><td> 4400 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Fisioterapia </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Higiene Dental </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Imobilização Ortopédica </td><td> 37 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Informática </td><td> 40 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Instrumentação Cirúrgica </td><td> 300 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Laboratório </td><td> 146 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Manut. de Equip. Médicos Hospitalares </td><td> 22 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Nutrição </td><td> 80 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Patologia Clínica </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Prótese e Órtese </td><td> 50 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Radioterapia </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Segurança do Trabalho </td><td> 20 </td><td> 9 </td><td> 12 </td></tr><tr><td> Técnico em Vigilância Sanitária </td><td> 10 </td><td> 9 </td><td> 12 </td></tr><tr><td> Telefonista </td><td> 200 </td><td> 9 </td><td> 12 </td></tr><tr><td> Administrador </td><td> 50 </td><td> 13 </td><td> 16 </td></tr><tr><td> Analista de Sistemas </td><td> 35 </td><td> 13 </td><td> 16 </td></tr><tr><td> Analista Técnico Administrativo </td><td> 30 </td><td> 13 </td><td> 16 </td></tr><tr><td> Arquiteto </td><td> 36 </td><td> 13 </td><td> 16 </td></tr><tr><td> Assistente Social </td><td> 160 </td><td> 13 </td><td> 16 </td></tr><tr><td> Auditor em Saúde </td><td> 10 </td><td> 13 </td><td> 16 </td></tr><tr><td> Bibliotecário </td><td> 10 </td><td> 13 </td><td> 16 </td></tr><tr><td> Biólogo </td><td> 25 </td><td> 13 </td><td> 16 </td></tr><tr><td> Bioquímico </td><td> 216 </td><td> 13 </td><td> 16 </td></tr><tr><td> Contador </td><td> 4 </td><td> 13 </td><td> 16 </td></tr><tr><td> Economista </td><td> 5 </td><td> 13 </td><td> 16 </td></tr><tr><td> Enfermeiro </td><td> 1310 </td><td> 13 </td><td> 16 </td></tr><tr><td> Engenheiro </td><td> 23 </td><td> 13 </td><td> 16 </td></tr><tr><td> Farmacêutico </td><td> 165 </td><td> 13 </td><td> 16 </td></tr><tr><td> Fiscal Sanitarista </td><td> 50 </td><td> 13 </td><td> 16 </td></tr><tr><td> Físico </td><td> 5 </td><td> 13 </td><td> 16 </td></tr><tr><td> Fisioterapeuta </td><td> 130 </td><td> 13 </td><td> 16 </td></tr><tr><td> Fonoaudiólogo </td><td> 70 </td><td> 13 </td><td> 16 </td></tr><tr><td> Médico </td><td> 1969 </td><td> 13 </td><td> 16 </td></tr><tr><td> Médico Veterinário </td><td> 15 </td><td> 13 </td><td> 16 </td></tr><tr><td> Nutricionista </td><td> 120 </td><td> 13 </td><td> 16 </td></tr><tr><td> Odontólogo </td><td> 120 </td><td> 13 </td><td> 16 </td></tr><tr><td> Pedagogo </td><td> 5 </td><td> 13 </td><td> 16 </td></tr><tr><td> Profissional de Educação Física </td><td> 10 </td><td> 13 </td><td> 16 </td></tr><tr><td> Psicólogo </td><td> 100 </td><td> 13 </td><td> 16 </td></tr><tr><td> Químico </td><td> 15 </td><td> 13 </td><td> 16 </td></tr><tr><td> Sanitarista </td><td> 50 </td><td> 13 </td><td> 16 </td></tr><tr><td> Terapeuta Ocupacional </td><td> 70 </td><td> 13 </td><td> 16 </td></tr><tr><td> TOTAL DE VAGAS </td><td> 16951 </td><td> </td><td> </td></tr></tbody></table>
 
 ” (NR)
 
@@ -210,161 +210,1095 @@ DESCRIÇÃO E ESPECIFICAÇÃO DOS CARGOS DE PROVIMENTO EFETIVO DO QUADRO DE PESS
 
 (Lei Complementar nº 323, de 2 de março de 2006)
 
-<table><tbody><tr><td><center>ANEXO II-1</center></td></tr><tr><td><p>CARGO: Agente de Serviços Gerais</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Lavar, secar e passar as roupas hospitalares, utilizando processos mecânicos, soluções químicas adequadas ao grau de sujidade da roupa, procedendo à coleta, classificação e pesagem das peças, de forma a não ultrapassar a capacidade das máquinas e efetuar a distribuição nas diversas unidades/setores; operar máquinas de lavanderia, preparando-as, acionando-as, controlando o funcionamento e níveis de substâncias químicas empregadas, observando as recomendações técnicas para o uso; e manipular produtos químicos e roupas; executar trabalho rotineiro de conservação, manutenção e limpeza de dependências internas e externas, móveis e acessórios, parques, jardins, áreas verdes e logradouros a fim de mantê-los com boa aparência; e transportar móveis e outros itens, quando necessário; executar atividades de auxiliar de cozinha; executar serviços internos e externos de entrega de documentos e mensagens; operar o painel de controle do elevador de acordo com o solicitado; conduzir paciente, servidores, visitantes e materiais dos diversos setores da unidade, zelando pela conservação deles; e orientar e prestar informações aos usuários quando solicitado.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Fundamental</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ANEXO II-1
 
-<table><tbody><tr><td><center>ANEXO II-2</center></td></tr><tr><td><p>CARGO: Copeiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Preparar e/ou servir café, água, lanche e refeição a servidores e visitantes, recolhendo vasilhames, louças e talheres, limpando e esterilizando utensílios e instalações de copa e zelando pela guarda e conservação do material e do local de trabalho.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Fundamental</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+CARGO: Agente de Serviços Gerais
 
-<table><tbody><tr><td><center>ANEXO II-3</center></td></tr><tr><td><p>CARGO: Lactarista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Produzir fórmulas lácteas, hídricas e enterais, dentro das especificações pré-determinadas; contribuir para o desenvolvimento sadio das crianças, preparando alimentos de acordo com o cardápio estabelecido, técnicas dietéticas de preparo, obedecendo às normas de higiene que a situação requer; distribuir esses alimentos, observando a aceitação deles, bem como repondo-os quando solicitado; manter espaço de preparo, bem como equipamentos desinfetados e limpos; zelar pelo tratamento e descarte dos resíduos provenientes de seu local de trabalho; executar outras tarefas correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Fundamental</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-4</center></td></tr><tr><td><p>CARGO: Agente em Atividades Administrativas</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Receber, classificar, conferir, protocolizar, localizar, expedir e/ou arquivar expedientes e outros documentos; redigir correspondências simples; arquivar sistematicamente cartas, fichas, prontuários, documentos, fitas e outros materiais, classificando-os segundo critérios apropriados; executar tarefas auxiliares de registro, manuseio e guarda de livros e publicações; executar serviços gerais de registro de dados; executar serviços relativos ao controle e distribuição de medicamentos.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+Lavar, secar e passar as roupas hospitalares, utilizando processos mecânicos, soluções químicas adequadas ao grau de sujidade da roupa, procedendo à coleta, classificação e pesagem das peças, de forma a não ultrapassar a capacidade das máquinas e efetuar a distribuição nas diversas unidades/setores; operar máquinas de lavanderia, preparando-as, acionando-as, controlando o funcionamento e níveis de substâncias químicas empregadas, observando as recomendações técnicas para o uso; e manipular produtos químicos e roupas; executar trabalho rotineiro de conservação, manutenção e limpeza de dependências internas e externas, móveis e acessórios, parques, jardins, áreas verdes e logradouros a fim de mantê-los com boa aparência; e transportar móveis e outros itens, quando necessário; executar atividades de auxiliar de cozinha; executar serviços internos e externos de entrega de documentos e mensagens; operar o painel de controle do elevador de acordo com o solicitado; conduzir paciente, servidores, visitantes e materiais dos diversos setores da unidade, zelando pela conservação deles; e orientar e prestar informações aos usuários quando solicitado.
 
-<table><tbody><tr><td><center>ANEXO II-5</center></td></tr><tr><td><p>CARGO: Caldeireiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Operar uma ou mais caldeiras, manejando válvulas, registros e outros dispositivos de controle, a fim de fornecer vapor para produção de calor ou energia.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-6</center></td></tr><tr><td><p>CARGO: Marceneiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de manutenção de marcenaria, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins, acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Fundamental
 
-<table><tbody><tr><td><center>ANEXO II-7</center></td></tr><tr><td><p>CARGO: Carpinteiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de manutenção de carpintaria, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins, acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-8</center></td></tr><tr><td><p>CARGO: Costureiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar trabalhos de costura, na confecção de peças com overloque e outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ANEXO II-2
 
-<table><tbody><tr><td><center>ANEXO II-9</center></td></tr><tr><td><p>CARGO: Cozinheiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Organizar, elaborar e supervisionar serviços de cozinha em hospitais, planejando cardápios e elaborando o pré-preparo, o preparo e a finalização de alimentos, observando métodos de cocção e padrões de qualidade dos alimentos.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+CARGO: Copeiro
 
-<table><tbody><tr><td><center>ANEXO II-10</center></td></tr><tr><td><p>CARGO: Eletricista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de manutenção em eletricidade, transportar materiais e ferramentas, auxiliar na montagem e desmontagem de peças, armações e instalações afins e acompanhar todo o processo desenvolvido.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-11</center></td></tr><tr><td><p>CARGO: Encanador</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de manutenção de encanamentos, transportar materiais e ferramentas, auxiliar na montagem e desmontagem de peças, armações e instalações afins e acompanhar todo o processo desenvolvido.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr><tr></tr></tbody></table>
+Preparar e/ou servir café, água, lanche e refeição a servidores e visitantes, recolhendo vasilhames, louças e talheres, limpando e esterilizando utensílios e instalações de copa e zelando pela guarda e conservação do material e do local de trabalho.
 
-<table><tbody><tr><td><center>ANEXO II-12</center></td></tr><tr><td><p>CARGO: Jardineiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de jardinagem e outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr><tr></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-13</center></td></tr><tr><td><p>CARGO: Mecânico</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar serviços de mecânica, montagem e desmontagem, reparo e ajustamento de máquinas e equipamentos de diversos tipos.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Fundamental
 
-<table><tbody><tr><td><center>ANEXO II-14</center></td></tr><tr><td><p>CARGO: Motorista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Dirigir veículos automotores; proceder ao mapeamento de viagens; transportar pessoas ou materiais em veículos; fazer entrega de malotes e documentos; auxiliar no embarque e desembarque de pacientes; promover o abastecimento de combustível do veículo; efetuar reparos de emergência no veículo; zelar pela segurança de passageiros e cargas que lhe forem confiados e pela limpeza e conservação dos veículos, observando o calendário de manutenção; observar medidas de segurança contra acidentes; e executar tarefas afins.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio e Carteira Nacional de Habilitação específica para conduzir ambulância e carros oficiais</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-15</center></td></tr><tr><td><p>CARGO: Padeiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar a produção e preparar massas de pão, macarrão e similares; redigir documentos tais como requisição de materiais; registros de saída de materiais e relatórios de produção; e trabalhar em conformidade com as normas e os procedimentos técnicos e de qualidade, segurança, higiene, saúde e preservação ambiental.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ANEXO II-3
 
-<table><tbody><tr><td><center>ANEXO II-16</center></td></tr><tr><td><p>CARGO: Pedreiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de manutenção de alvenaria, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins e acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr><tr></tr></tbody></table>
+CARGO: Lactarista
 
-<table><tbody><tr><td><center>ANEXO II-17</center></td></tr><tr><td><p>CARGO: Pintor</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de manutenção de pintura, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins e acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-18</center></td></tr><tr><td><p>CARGO: Agente de Portaria</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar serviços de recepção em portaria de edifícios e/ou hospitais, centros de saúde, baseando-se em regras de conduta pré-determinadas, para assegurar a ordem e segurança dos locais e de seus ocupantes; e auxiliar no encaminhamento e na condução do paciente.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+Produzir fórmulas lácteas, hídricas e enterais, dentro das especificações pré-determinadas; contribuir para o desenvolvimento sadio das crianças, preparando alimentos de acordo com o cardápio estabelecido, técnicas dietéticas de preparo, obedecendo às normas de higiene que a situação requer; distribuir esses alimentos, observando a aceitação deles, bem como repondo-os quando solicitado; manter espaço de preparo, bem como equipamentos desinfetados e limpos; zelar pelo tratamento e descarte dos resíduos provenientes de seu local de trabalho; executar outras tarefas correlatas com o cargo.
 
-<table><tbody><tr><td><center>ANEXO II-19</center></td></tr><tr><td><p>CARGO: Agente de Manutenção</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar serviços de reparos e de manutenção em instalações, máquinas, equipamentos e mobiliário; executar limpeza, regulagem e acondicionamento de peças e maquinário; manusear, acondicionar e operar máquinas e ferramentas de serviço; e executar outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr><tr></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-20</center></td></tr><tr><td><p>CARGO: Auxiliar de Serviços Hospitalares e Assistenciais</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Participar da passagem de plantão e tomar conhecimento sobre as ocorrências; prestar cuidados de higiene e conforto aos pacientes; verificar e anotar no prontuário sinais vitais e comunicar qualquer alteração; acompanhar o paciente aos diversos setores do hospital; auxiliar na deambulação, recreação e alimentação dos pacientes; auxiliar no preparo do paciente para exames, atos cirúrgicos, admissões, altas e transferências; manter limpa e em ordem a unidade do paciente e demais dependências da unidade de enfermagem; limpar e conservar o material usado no setor; fazer rol de roupa suja, receber e guardar roupa limpa; desenvolver um ambiente de colaboração, de trabalho em equipe na unidade e com outros setores do hospital; cumprir e fazer cumprir o regulamento do hospital e o regimento do serviço de enfermagem; e executar outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Fundamental
 
-<table><tbody><tr><td><center>ANEXO II-21</center></td></tr><tr><td><p>CARGO: Atendente de Saúde Pública</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar procedimentos de enfermagem, de acordo com as normas técnicas da instituição; participar na orientação ao indivíduo e a grupos da comunidade, sobre aspectos de saúde; participar de ações de saúde desenvolvidas pela comunidade; participar na execução de programas de vacinação, de acordo com o esquema adotado pelo órgão central; efetuar a coleta de material para exames complementares, quando solicitado; realizar atividades de pré-consulta e pós-consulta médica e de enfermagem; fazer controle de enfermagem de acordo com as normas técnicas e estabelecidas pelos programas das instituições; executar ação de controle e avaliação das condições vitais do indivíduo sadio ou doente, confrontando-as com os padrões de normalidade.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr><tr></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-22</center></td></tr><tr><td><p>CARGO: Agente Auxiliar de Saúde Pública</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Auxiliar o fiscal sanitarista ou sanitarista, a chefia da unidade sanitária e o técnico em vigilância sanitária no desenvolvimento das ações de vigilância sanitária de alimentos e saneamento do meio ambiente; fiscalizar as condições físicas e higiênico-sanitárias de estabelecimentos de interesse da saúde pública para concessão de alvará sanitário, para atendimento de denúncias e reclamações e para manutenção regular de tais condições; fiscalizar as condições de saneamento nas construções civis; lavrar autos e termos, bem como preencher demais documentos em consonância com o código sanitário vigente e normas administrativas expedidas; fiscalizar o funcionamento dos estabelecimentos de interesse da saúde pública; organizar, disciplinar e manter o sistema de arquivo e de protocolo concernente à vigilância sanitária, na unidade sanitária; fiscalizar e controlar o correto cumprimento da legislação vigente em relação a preparo, manipulação, acondicionamento, conservação, armazenamento, transporte, depósito, distribuição ou venda de alimentos, orientando proprietários e manipuladores; apreender, interditar e inutilizar sumariamente alimentos destinados ao consumo que, quando expostos à venda, não estiverem com a devida proteção, apresentarem-se visivelmente prejudiciais à saúde ou manifestamente adulterados; coletar amostras de alimentos, água e outras de interesse da saúde pública para análise prévia, fiscal, de controle, de orientação e de requisição; fiscalizar na comunidade e nos domicílios as condições relacionadas a saneamento básico, coleta e transporte do lixo, habitabilidade e saúde básica; fornecer relatório de suas atividades à chefia imediata; e executar outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ANEXO II-4
 
-<table><tbody><tr><td><center>ANEXO II-23</center></td></tr><tr><td><p>CARGO: Auxiliar de Enfermagem</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Prestar cuidados básicos de enfermagem, sob a coordenação e a supervisão do enfermeiro, nos diferentes níveis de complexidade das ações de saúde; e participar de processos de educação em saúde e de atividades de ações coletivas de saúde, em conformidade com a legislação de exercício profissional.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio e de formação na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+CARGO: Agente em Atividades Administrativas
 
-<table><tbody><tr><td><center>ANEXO II-24</center></td></tr><tr><td><p>CARGO: Auxiliar de Laboratório</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Desenvolver atividades auxiliares gerais de laboratório de análises clínicas e químicas, preparando, limpando, conservando e guardando instrumentos e aparelhos, fazendo coleta e amostras de materiais e similares a fim de assegurar maior rendimento do trabalho e seu processamento de acordo com os padrões requeridos.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-25</center></td></tr><tr><td><p>CARGO: Massagista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Preparar o paciente para aplicação de massagens; aplicar massagens corretivas sob prescrição médica com finalidades fisioterápicas; massagear os pacientes para ativar e melhorar a circulação ou outras vantagens terapêuticas, segundo técnicas adequadas; ensinar ao paciente a prática de exercícios por demonstração para ajudar a orientação ou recuperação de sequelas diversas; cumprir as instruções técnicas de serviço; e executar outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio na área específica de atuação, caso houver.</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho Regional, se houver.</p><p></p></td></tr></tbody></table>
+Receber, classificar, conferir, protocolizar, localizar, expedir e/ou arquivar expedientes e outros documentos; redigir correspondências simples; arquivar sistematicamente cartas, fichas, prontuários, documentos, fitas e outros materiais, classificando-os segundo critérios apropriados; executar tarefas auxiliares de registro, manuseio e guarda de livros e publicações; executar serviços gerais de registro de dados; executar serviços relativos ao controle e distribuição de medicamentos.
 
-<table><tbody><tr><td><center>ANEXO II-26</center></td></tr><tr><td><p>CARGO: Motorista Socorrista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Conduzir veículos de urgência padronizados pelo código sanitário (transporte de pacientes), obedecendo a padrões de capacitação; possuir equilíbrio emocional e autocontrole, disposição para cumprir ações orientadas e capacidade de trabalhar em equipe.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Ensino Médio e Carteira Nacional de Habilitação específica para conduzir ambulância (Categoria E)</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr><tr></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-27</center></td></tr><tr><td><p>CARGO: Rádio-Operador</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Operar sistemas de radiocomunicação e realizar controle operacional de uma frota de veículos de emergência; possuir equilíbrio emocional e autocontrole, disposição para cumprir ações orientadas e capacidade de trabalhar em equipe.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-28</center></td></tr><tr><td><p>CARGO: Técnico Auxiliar de Regulação Médica</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Prestar atendimento telefônico às solicitações de auxílio provenientes da população, nas centrais de regulação médica, anotando dados básicos sobre o chamado (localização, identificação do solicitante, natureza da ocorrência); possuir equilíbrio emocional e autocontrole, disposição para cumprir ações orientadas e capacidade de trabalhar em equipe.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-29</center></td></tr><tr><td><p>CARGO: Técnico em Atividades Administrativas</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Organizar e executar serviços auxiliares nas áreas técnicas e administrativas, com utilização de ferramentas e sistemas informatizados, voltados à organização e atualização de arquivos e fichários, redação de correspondências oficiais, aquisição de materiais, análise e controle de serviços contábeis e outras atividades correlatas com o cargo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+ANEXO II-5
 
-<table><tbody><tr><td><center>ANEXO II-30</center></td></tr><tr><td><p>CARGO: Técnico em Contabilidade</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Efetuar orçamento das despesas de custeio de pessoal, obrigações patrimoniais, materiais de consumo e outros serviços e encargos; emitir mensalmente balanços orçamentários e executar alterações no orçamento, nos casos previstos, conferir e registrar em fichas contábeis todas as despesas da rede hospitalar; e cumprir as rotinas contábeis adotadas no setor público.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+CARGO: Caldeireiro
 
-<table><tbody><tr><td><center>ANEXO II-31</center></td></tr><tr><td><p>CARGO: Técnico em Edificações</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas de caráter técnico relativo à execução de projetos de obras civis, como construção e modificação de prédios, construção de galerias de dutos e outros tipos, pesquisando dados em campo, efetuando estudos de traçados, cooperando na elaboração de plantas arquitetônicas, fazendo levantamento taquiométrico e planialtimétrico e elaborando especificações pertinentes, para colaborar na construção, no reparo e na conservação das obras mencionadas.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-32</center></td></tr><tr><td><p>CARGO: Técnico em Eletricidade</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, construir, instalar, ampliar e reparar redes e linhas elétricas de alta e baixa tensão, linhas e redes de telecomunicação, rede de comunicação de dados e linhas de transmissão de energia de tração de veículos; instalar equipamentos e localizar defeitos.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+Operar uma ou mais caldeiras, manejando válvulas, registros e outros dispositivos de controle, a fim de fornecer vapor para produção de calor ou energia.
 
-<table><tbody><tr><td><center>ANEXO II-33</center></td></tr><tr><td><p>CARGO: Técnico em Eletrônica</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Administrar equipes, metas e resultados de manutenção eletroeletrônica predial; elaborar orçamento, planejar as atividades e controlar o processo para sua realização; elaborar documentação técnica e zelar pela segurança, saúde e meio ambiente.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-34</center></td></tr><tr><td><p>CARGO: Técnico em Informática</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Organizar documentos e informações; orientar usuários e os auxiliar na recuperação de dados e informações; disponibilizar fonte de dados para usuários; providenciar aquisição de material e incorporar material ao acervo; arquivar documentos, classificando-os segundo critérios apropriados para armazená-los e conservá-los; prestar serviço de comutação, alimentar base de dados e elaborar estatísticas; executar tarefas relacionadas com a elaboração e manutenção de arquivos, podendo, ainda, operar equipamentos reprográficos e recuperar e preservar as informações por meio digital, magnético ou papel.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-35</center></td></tr><tr><td><p>CARGO: Técnico em Manutenção de Equipamentos Médico-Hospitalares</p></td></tr><tr><td><p>ATRIBUIÇÕES: Proceder à manutenção de equipamentos médico-hospitalares e a outras atividades correlatas com o cargo</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-36</center></td></tr><tr><td><p>CARGO: Técnico em Segurança do Trabalho</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar tarefas identificando as causas e origens de acidentes de trabalho, planejando, organizando e executando planos de prevenção e criando um ambiente seguro e saudável; e emitir relatório sobre as atividades da sua área de atuação.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+ANEXO II-6
 
-<table><tbody><tr><td><center>ANEXO II-37</center></td></tr><tr><td><p>CARGO: Telefonista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Operar equipamentos de telefonia e outros sistemas de telecomunicações, movimentando chaves, interruptores e outros dispositivos para estabelecer comunicações internas, locais ou interurbanos; e anotar, redigir e transmitir avisos internos para pacientes e servidores.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso de Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+CARGO: Marceneiro
 
-<table><tbody><tr><td><center>ANEXO II-38</center></td></tr><tr><td><p>CARGO: Técnico de Radiologia e Imagem</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Operar aparelho de RX na realização dos diversos tipos de exames, manuseando soluções químicas e substâncias radioativas; revelar filmes e zelar pela conservação dos equipamentos radiográficos e auxiliar na assistência ao paciente.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-39</center></td></tr><tr><td><p>CARGO: Técnico em Alimentos</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar o trabalho de processamento, conservação e controle de qualidade de insumos tais como bebidas, carnes e derivados, frutas e hortaliças, grãos e cereais, laticínios, massas alimentícias, produtos de panificação, pescado e derivados, açúcar e álcool, dentre outros; participar de pesquisa para melhoria, adequação e desenvolvimento de novos produtos e processos, sob supervisão; supervisionar processos de produção e de controle de qualidade nas etapas de produção; promover venda de insumos, processos e equipamentos; mobilizar capacidades comunicativas na elaboração de documentos e nos contatos com membros da equipe e clientes.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+Executar tarefas de manutenção de marcenaria, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins, acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.
 
-<table><tbody><tr><td><center>ANEXO II-40</center></td></tr><tr><td><p>CARGO: Técnico em Enfermagem</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar e supervisionar serviços de enfermagem, empregando processo de rotina e/ou específicos, para possibilitar a proteção e recuperação da saúde do paciente, em hospitais, ambulatórios e serviços similares; e participar de programas de educação em saúde e de ações em saúde coletiva, com observância à legislação do exercício profissional.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-41</center></td></tr><tr><td><p>CARGO: Técnico em Fisioterapia</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Atender pacientes e clientes para prevenção, habilitação e reabilitação de pessoas, utilizando protocolos e procedimentos específicos de fisioterapia, terapia ocupacional e ortoptia; habilitar pacientes e clientes; realizar diagnósticos específicos; analisar condições dos pacientes e clientes; orientar pacientes, clientes, familiares, cuidadores e responsáveis; avaliar baixa visão; ministrar testes e tratamentos ortópticos no paciente; desenvolver programas de prevenção, promoção de saúde e qualidade de vida; e executar atividades técnico-científicas.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-42</center></td></tr><tr><td><p>CARGO: Técnico em Imobilização Ortopédica</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Confeccionar e retirar aparelhos gessados, talas gessadas e enfaixamentos com uso de material convencional e sintético (resina de fibra de vidro); executar imobilizações com uso de esparadrapo e talas digitais (imobilizações para os dedos); preparar e executar trações cutâneas, auxiliar o médico ortopedista na instalação de trações esqueléticas e nas manobras de redução manual; e preparar sala para pequenos procedimentos fora do centro cirúrgico, como pequenas suturas e anestesia local para manobras de redução manual, punções e infiltrações.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-43</center></td></tr><tr><td><p>CARGO: Técnico em Higiene Dental</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Atuar sob a supervisão de um cirurgião-dentista, colaborando em pesquisa, auxiliando-o em seu atendimento de consultório, desenvolvendo as atividades de odontologia sanitária, compondo equipe de saúde em nível local; e desenvolver ações de educação em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+ANEXO II-7
 
-<table><tbody><tr><td><center>ANEXO II-44</center></td></tr><tr><td><p>CARGO: Técnico em Instrumentação Cirúrgica</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Atuar sob a supervisão de profissional cirurgião, auxiliando-o na instrumentação cirúrgica, preparo do paciente, controle do instrumental, suprindo o ambiente das condições físicas e materiais necessários à realização do procedimento.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+CARGO: Carpinteiro
 
-<table><tbody><tr><td><center>ANEXO II-45</center></td></tr><tr><td><p>CARGO: Técnico em Laboratório</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar trabalhos técnicos de laboratório relacionados a dosagens e análises bacteriológicas, bacterioscópicas e química, realizando ou orientando exames, testes de cultura de microorganismos, por meio de manipulação de aparelhos de laboratório e por outros meios para possibilitar diagnóstico, tratamento ou prevenção de doenças.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-46</center></td></tr><tr><td><p>CARGO: Técnico em Nutrição</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Providenciar alimentação adequada para o paciente, sob orientação do nutricionista, verificando prescrição dietética quando delegada, acompanhando a distribuição das refeições aos pacientes e auxiliando na supervisão de produção de refeições.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+Executar tarefas de manutenção de carpintaria, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins, acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.
 
-<table><tbody><tr><td><center>ANEXO II-47</center></td></tr><tr><td><p>CARGO: Técnico em Prótese e Órtese</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Confeccionar, montar, desmontar e ajustar, utilizando-se de moldes, membros artificiais, armaduras e outros aparelhos ortopédicos, sob supervisão especializada.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão do Ensino Médio</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-48</center></td></tr><tr><td><p>CARGO: Técnico de Radioterapia</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Preparar materiais e equipamentos para exames e radioterapia; operar aparelhos médicos e odontológicos para produzir imagens e gráficos funcionais como recurso auxiliar ao diagnóstico e terapia; preparar pacientes e realizar exames e radioterapia; prestar atendimento aos pacientes fora da sala de exame, realizando as atividades segundo boas práticas, normas e procedimento de biossegurança e código de conduta; e mobilizar capacidades de comunicação para registro de informações e troca de informações com a equipe e com os pacientes.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-49</center></td></tr><tr><td><p>CARGO: Técnico em Vigilância Sanitária</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Desenvolver atividades de nível médio relacionadas à vigilância e à inspeção sanitária, realizar perícias técnicas, coleta de amostras para análise laboratorial; elaborar relatório, manual técnico e de roteiro técnico de inspeção; planejar ações de trabalhos de vigilância sanitária; e participar de programas de saúde coletiva de educação em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-50</center></td></tr><tr><td><p>CARGO: Técnico em Patologia Clínica</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Coletar, receber e distribuir material biológico de pacientes; preparar amostras do material biológico e realizar exames conforme protocolo; operar equipamentos analíticos e de suporte; executar, checar, calibrar e fazer manutenção corretiva dos equipamentos; administrar e organizar o local de trabalho; trabalhar conforme normas e procedimentos técnicos de boas práticas, qualidade e biossegurança; mobilizar capacidades de comunicação oral e escrita para efetuar registros, dialogar com a equipe de trabalho e orientar os pacientes quanto à coleta do material biológico.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL:</p><p></p></td></tr></tbody></table>
+ANEXO II-8
 
-<table><tbody><tr><td><center>ANEXO II-51</center></td></tr><tr><td><p>CARGO: Administrador</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Desenvolver estudos, pesquisar, elaborar, implantar, acompanhar, coordenar e controlar planos, programas e projetos relacionados à administração de pessoas e relação de trabalho, de operações e logística, de informação e tecnologia, de material, financeira, de organização, de métodos e de planejamento.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Administração</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do exercício profissional</p></td></tr></tbody></table>
+CARGO: Costureiro
 
-<table><tbody><tr><td><center>ANEXO II-52</center></td></tr><tr><td><p>CARGO: Analista de Sistemas</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Analisar, projetar e executar sistemas de processamento de dados, estudando as necessidades, possibilidades e métodos referentes a eles, para assegurar a exatidão e rapidez dos diversos tratamentos de informações; executar atividades de planejamento, coordenação, controle, orientação e análise das atividades da área de processamento de dados, bem como a definição de projetos de sistemas e tratamento de informações; emitir parecer pertinente à área de processamento de dados, e desenvolver atividades de ensino e pesquisa.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Análise de Sistemas, Sistema de Informação ou Computação</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-53</center></td></tr><tr><td><p>CARGO: Analista Técnico Administrativo</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar pesquisas, estudos, controle, acompanhamento, avaliação, implantação e coordenação de ações, programas, planos e projetos de natureza técnica e administrativa.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional ou em órgão equivalente</p></td></tr></tbody></table>
+Executar trabalhos de costura, na confecção de peças com overloque e outras atividades correlatas com o cargo.
 
-<table><tbody><tr><td><center>ANEXO II-54</center></td></tr><tr><td><p>CARGO: Arquiteto</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Elaborar estudos, anteprojetos e projetos de arquitetura, instalações, estrutura, urbanismo, ajardinamento, paisagismo e outros; elaborar plantas, desenhos, maquetes e estruturas de construção; acompanhar e fiscalizar obras e/ou serviços arquitetônicos e urbanísticos; supervisionar o trabalho dos técnicos, oficiais e auxiliares e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Arquitetura e Urbanismo</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-55</center></td></tr><tr><td><p>CARGO: Assistente Social</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Prestar serviços de âmbito social a indivíduos ou grupos, em tratamento de saúde física ou mental, identificando e analisando seus problemas e necessidades materiais, psíquicas e de outra ordem e aplicando os processos básicos de serviço social, para facilitar a recuperação do paciente e promover sua reintegração ao meio social, familiar e de trabalho; e desenvolver atividades de ensino, pesquisa e vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Serviço Social</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-56</center></td></tr><tr><td><p>CARGO: Auditor em Saúde</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Prestar consultoria e informações gerenciais; realizar auditoria interna e externa; atender solicitações de órgãos fiscalizadores e realizar perícia.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional ou órgão equivalente, se houver</p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-57</center></td></tr><tr><td><p>CARGO: Bibliotecário</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, organizar, coordenar e controlar todo o trabalho na biblioteca, manter intercâmbio com instituições da área, oferecer suporte ao usuário; supervisionar as atividades pertinentes à área; coordenar os processos de informatização da área; oferecer suporte às atividades de ensino, pesquisa e desenvolvimento tecnológico no âmbito da instituição.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Biblioteconomia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ANEXO II-9
 
-<table><tbody><tr><td><center>ANEXO II-58</center></td></tr><tr><td><p>CARGO: Biólogo</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Realizar pesquisa na natureza em laboratório, estudando origem, evolução, funções, estrutura, distribuição, meios, semelhanças e outros aspectos das diferentes formas de vida.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Biologia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+CARGO: Cozinheiro
 
-<table><tbody><tr><td><center>ANEXO II-59</center></td></tr><tr><td><p>CARGO: Bioquímico</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Realizar pesquisas sobre composição, funções e processos químicos dos organismos vivos, desenvolvendo experiências, testes e análises clínicas de material biológico, análises bromatológicas, pesquisa, análise e produção de medicamentos, produção de hemoderivados e controle de qualidade.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Bioquímica</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-60</center></td></tr><tr><td><p>CARGO: Contador</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, supervisionar, orientar e executar os trabalhos inerentes à contabilidade, de acordo com as exigências legais e administrativas, apurar os elementos necessários à elaboração orçamentária e ao controle da situação patrimonial e financeira da instituição; e desenvolver atividades de ensino.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Ciências Contábeis</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+Organizar, elaborar e supervisionar serviços de cozinha em hospitais, planejando cardápios e elaborando o pré-preparo, o preparo e a finalização de alimentos, observando métodos de cocção e padrões de qualidade dos alimentos.
 
-<table><tbody><tr><td><center>ANEXO II-61</center></td></tr><tr><td><p>CARGO: Economista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Realizar planejamento, estudo, análise e previsão de natureza econômica, financeira e administrativa, aplicando os princípios e teorias da economia a fim de formular soluções e diretrizes para os problemas econômicos da instituição; desenvolver atividades de ensino e pesquisa.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Economia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-62</center></td></tr><tr><td><p>CARGO: Enfermeiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Administrar, planejar, coordenar, executar, supervisionar e avaliar atividades e ações de enfermagem no âmbito da assistência, pesquisa e docência, nos diferentes níveis de complexidade das ações de saúde; e participar de processos educativos, de formação e de ações coletivas e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Enfermagem</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-63</center></td></tr><tr><td><p>CARGO: Engenheiro</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Elaborar, analisar, assessorar, supervisionar, acompanhar e fiscalizar projetos e processos nas áreas de construção civil, eletricidade, eletrônica, mecânica, química, alimentos, vigilância sanitária e agronomia; e desenvolver atividades de ensino e pesquisa.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Engenharia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-64</center></td></tr><tr><td><p>CARGO: Farmacêutico</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Desenvolver atividades na área dos medicamentos e correlatos (desde a pesquisa, passando pelo processo de aquisição, manipulação, armazenagem, controle de qualidade e distribuição); atuar na área de análise clínica, análise toxicológica, dos domissaneantes (produção, controle de qualidade e distribuição) e na saúde pública; supervisionar as atividades desenvolvidas nas áreas de atuação, inclusive o pessoal auxiliar e técnico; e participar de atividades de ensino, pesquisa e fabricação de produtos químicos e farmacêuticos e de atividades de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Farmácia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ANEXO II-10
 
-<table><tbody><tr><td><center>ANEXO II-65</center></td></tr><tr><td><p>CARGO: Fiscal Sanitarista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar atividades de natureza fiscal, policial e operacional, envolvendo serviços relativos à inspeção e vigilância sanitária.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior, cuja formação ou especialização tenha afinidade com o exercício da função fiscalizadora</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+CARGO: Eletricista
 
-<table><tbody><tr><td><center>ANEXO II-66</center></td></tr><tr><td><p>CARGO: Físico</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Elaborar, executar e supervisionar projetos de estudo, pesquisa e atividades de ensino; assessorar em atividades da área de física relacionadas à medicina nos campos de mecânica, térmica, ótica, eletricidade, magnetismo, eletrônica e física nuclear, elaborar planos terapêuticos em radioterapia, proteção radiológica, calibração de equipamentos e levantamento radiométrico; supervisionar o controle do material radioativo e participar de atividades de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Física</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no Conselho de Fiscalização do Exercício Profissional, se houver, ou Conselho Nacional de Energia Nuclear (CNEN)</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-67</center></td></tr><tr><td><p>CARGO: Fisioterapeuta</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar métodos e técnicas fisioterápicas, com a finalidade de recuperar, desenvolver e conservar a capacidade física do paciente, após o diagnóstico e a prescrição médica; desenvolver atividades de habilitação e de reabilitação junto com equipe multiprofissional de saúde nas diversas áreas assistenciais; coordenar, orientar e supervisionar as atividades da área específica; e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Fisioterapia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+Executar tarefas de manutenção em eletricidade, transportar materiais e ferramentas, auxiliar na montagem e desmontagem de peças, armações e instalações afins e acompanhar todo o processo desenvolvido.
 
-<table><tbody><tr><td><center>ANEXO II-68</center></td></tr><tr><td><p>CARGO: Fonoaudiólogo</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Identificar problemas ou deficiências ligadas à comunicação oral, empregando técnicas próprias de avaliação e fazendo o treinamento fonético, auditivo, dicção, empostação da voz e outros, para possibilitar o aperfeiçoamento e/ou reabilitação da fala; e participar de processos educativos e de atividades de ensino, pesquisa e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Fonoaudiologia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-69</center></td></tr><tr><td><p>CARGO: Profissional de Educação Física</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, organizar, controlar e supervisionar, exercendo suas atividades por meio de intervenções, legitimadas por diagnósticos, utilizando-se de métodos e técnicas específicas de consulta, de avaliação, de prescrição e de orientação de sessões de atividades físicas e/ou desportivas e intelectivas, com fins educacionais, recreacionais, de treinamento e de promoção da saúde, atuando em equipes interdisciplinares e multidisciplinares, observando a legislação pertinente e o Código de Ética Profissional, sujeito à fiscalização em suas intervenções no exercício profissional pelo sistema CONFEF/CREFs.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Educação Física</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-70</center></td></tr><tr><td><p>CARGO: Médico</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Realizar exames médicos, emitir diagnósticos, prescrever e ministrar tratamentos para as diversas doenças, perturbações e lesões do organismo humano e aplicar os métodos da medicina preventiva; definir instruções; praticar atos cirúrgicos e correlatos; emitir laudos e pareceres; aplicar as leis e regulamentos da saúde pública; desenvolver ações de saúde coletiva; e participar de processos educativos, de ensino, pesquisa e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Medicina</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-71</center></td></tr><tr><td><p>CARGO: Médico Veterinário</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, organizar, supervisionar e executar programas de defesa sanitária realizando estudos e pesquisas, aplicando conhecimentos e métodos para assegurar a saúde da comunidade; executar ações de controle de zoonoses e de vigilância em saúde; e desenvolver atividade de educação em saúde, ensino e pesquisa.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Veterinária ou Medicina Veterinária</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ANEXO II-11
 
-<table><tbody><tr><td><center>ANEXO II-72</center></td></tr><tr><td><p>CARGO: Nutricionista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, organizar, controlar, supervisionar, executar e avaliar os serviços de alimentação e nutrição; elaborar e/ou participar de estudos dietéticos; planejar, executar e avaliar políticas, programas e cursos relacionados com alimentação e nutrição; prestar assistência dietoterápica hospitalar e ambulatorial; desenvolver atividades de ensino e pesquisa; supervisionar a equipe de trabalho e participar de programas de educação em saúde e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Nutrição</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+CARGO: Encanador
 
-<table><tbody><tr><td><center>ANEXO II-73</center></td></tr><tr><td><p>CARGO: Odontólogo</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Diagnosticar e tratar afecções da boca, dentes e região buco-maxilo-facial, utilizando processos clínicos e cirúrgicos para promover e recuperar a saúde bucal e geral; elaborar e aplicar medidas de caráter público, para diagnosticar, prevenir e melhorar as condições de higiene dentária e bucal da comunidade; supervisionar os auxiliares e técnicos da área; e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Odontologia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ATRIBUIÇÕES:
 
-<table><tbody><tr><td><center>ANEXO II-74</center></td></tr><tr><td><p>CARGO: Pedagogo</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Planejar, coordenar, orientar, supervisionar, controlar, executar e avaliar qualquer atividade que implique na aplicação dos conhecimentos da área pedagógica; participar, dentro de sua especialidade, de equipes multiprofissionais na elaboração, análise e implantação de programas e projetos; auxiliar nos estudos, executar e acompanhar o desenvolvimento de projetos de capacitação de recursos humanos, na sua área de competência, com vistas ao desenvolvimento da capacidade física, intelectual e moral do ser humano, visando sua melhor integração individual, social e profissional.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Pedagogia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+Executar tarefas de manutenção de encanamentos, transportar materiais e ferramentas, auxiliar na montagem e desmontagem de peças, armações e instalações afins e acompanhar todo o processo desenvolvido.
 
-<table><tbody><tr><td><center>ANEXO II-75</center></td></tr><tr><td><p>CARGO: Psicólogo</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Atuar no âmbito da saúde em nível primário, secundário e terciário, procedendo ao estudo e à análise dos processos intrapessoais e interpessoais e nos mecanismos do comportamento humano, elaborando e ampliando técnicas psicológicas e psicoterápicas e outros métodos de verificação para possibilitar a orientação, a seleção e o treinamento no campo profissional, no diagnóstico e na identificação e interferência nos fatores determinantes na ação do indivíduo em sua história pessoal, familiar, educacional e social; desenvolver atividades de pesquisa, ensino e aprendizagem; participar de equipes multiprofissionais visando à interação comunidade-instituição, assim como na perspectiva da interdisciplinaridade onde se deem as relações de trabalho na instituição, sempre que for solicitado, visando à recuperação e integração social em curto espaço de tempo.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Psicologia</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
 
-<table><tbody><tr><td><center>ANEXO II-76</center></td></tr><tr><td><p>CARGO: Químico</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Realizar ensaios, análises químicas e físico-químicas, selecionando metodologias, materiais, reagentes de análise e critérios de amostragem, homogeneizando, dimensionando, e solubilizando amostras; produzir substâncias, desenvolver metodologias analíticas, interpretar dados químicos, monitorar impacto ambiental de substâncias, supervisionar procedimentos químicos, e coordenar atividades químicas laboratoriais e industriais.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Química</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+FORMAÇÃO: Conclusão do Ensino Médio
 
-<table><tbody><tr><td><center>ANEXO II-77</center></td></tr><tr><td><p>CARGO: Sanitarista</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Atividade de execução qualificada, em saúde pública, envolvendo estudo, coordenação, supervisão, execução e avaliação de ações de saúde, especialmente na área de formação básica.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior, com pós-graduação na área de saúde pública</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+REGISTRO PROFISSIONAL:
 
-<table><tbody><tr><td><center>ANEXO II-78</center></td></tr><tr><td><p>CARGO: Terapeuta Ocupacional</p></td></tr><tr><td><p>ATRIBUIÇÕES:</p></td></tr><tr><td><p>Executar métodos e técnicas terapêuticas e recreacionais com a finalidade de restaurar, desenvolver e conservar a capacidade mental e física do paciente após diagnóstico e prescrição médica; participar de programas e projetos da habilitação, capacitação e reabilitação e educação em saúde; e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.</p></td></tr><tr><td><p>PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL</p></td></tr><tr><td><p>FORMAÇÃO: Conclusão de Curso Superior em Terapia Ocupacional</p></td></tr><tr><td><p>REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional</p></td></tr></tbody></table>
+ANEXO II-12
+
+CARGO: Jardineiro
+
+ATRIBUIÇÕES:
+
+Executar tarefas de jardinagem e outras atividades correlatas com o cargo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-13
+
+CARGO: Mecânico
+
+ATRIBUIÇÕES:
+
+Executar serviços de mecânica, montagem e desmontagem, reparo e ajustamento de máquinas e equipamentos de diversos tipos.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-14
+
+CARGO: Motorista
+
+ATRIBUIÇÕES:
+
+Dirigir veículos automotores; proceder ao mapeamento de viagens; transportar pessoas ou materiais em veículos; fazer entrega de malotes e documentos; auxiliar no embarque e desembarque de pacientes; promover o abastecimento de combustível do veículo; efetuar reparos de emergência no veículo; zelar pela segurança de passageiros e cargas que lhe forem confiados e pela limpeza e conservação dos veículos, observando o calendário de manutenção; observar medidas de segurança contra acidentes; e executar tarefas afins.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio e Carteira Nacional de Habilitação específica para conduzir ambulância e carros oficiais
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-15
+
+CARGO: Padeiro
+
+ATRIBUIÇÕES:
+
+Planejar a produção e preparar massas de pão, macarrão e similares; redigir documentos tais como requisição de materiais; registros de saída de materiais e relatórios de produção; e trabalhar em conformidade com as normas e os procedimentos técnicos e de qualidade, segurança, higiene, saúde e preservação ambiental.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-16
+
+CARGO: Pedreiro
+
+ATRIBUIÇÕES:
+
+Executar tarefas de manutenção de alvenaria, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins e acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-17
+
+CARGO: Pintor
+
+ATRIBUIÇÕES:
+
+Executar tarefas de manutenção de pintura, transportando materiais e ferramentas, auxiliando na montagem e desmontagem de peças, armações e instalações afins e acompanhando todo o processo desenvolvido, inclusive de preparação e limpeza da área.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-18
+
+CARGO: Agente de Portaria
+
+ATRIBUIÇÕES:
+
+Executar serviços de recepção em portaria de edifícios e/ou hospitais, centros de saúde, baseando-se em regras de conduta pré-determinadas, para assegurar a ordem e segurança dos locais e de seus ocupantes; e auxiliar no encaminhamento e na condução do paciente.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-19
+
+CARGO: Agente de Manutenção
+
+ATRIBUIÇÕES:
+
+Executar serviços de reparos e de manutenção em instalações, máquinas, equipamentos e mobiliário; executar limpeza, regulagem e acondicionamento de peças e maquinário; manusear, acondicionar e operar máquinas e ferramentas de serviço; e executar outras atividades correlatas com o cargo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-20
+
+CARGO: Auxiliar de Serviços Hospitalares e Assistenciais
+
+ATRIBUIÇÕES:
+
+Participar da passagem de plantão e tomar conhecimento sobre as ocorrências; prestar cuidados de higiene e conforto aos pacientes; verificar e anotar no prontuário sinais vitais e comunicar qualquer alteração; acompanhar o paciente aos diversos setores do hospital; auxiliar na deambulação, recreação e alimentação dos pacientes; auxiliar no preparo do paciente para exames, atos cirúrgicos, admissões, altas e transferências; manter limpa e em ordem a unidade do paciente e demais dependências da unidade de enfermagem; limpar e conservar o material usado no setor; fazer rol de roupa suja, receber e guardar roupa limpa; desenvolver um ambiente de colaboração, de trabalho em equipe na unidade e com outros setores do hospital; cumprir e fazer cumprir o regulamento do hospital e o regimento do serviço de enfermagem; e executar outras atividades correlatas com o cargo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-21
+
+CARGO: Atendente de Saúde Pública
+
+ATRIBUIÇÕES:
+
+Executar procedimentos de enfermagem, de acordo com as normas técnicas da instituição; participar na orientação ao indivíduo e a grupos da comunidade, sobre aspectos de saúde; participar de ações de saúde desenvolvidas pela comunidade; participar na execução de programas de vacinação, de acordo com o esquema adotado pelo órgão central; efetuar a coleta de material para exames complementares, quando solicitado; realizar atividades de pré-consulta e pós-consulta médica e de enfermagem; fazer controle de enfermagem de acordo com as normas técnicas e estabelecidas pelos programas das instituições; executar ação de controle e avaliação das condições vitais do indivíduo sadio ou doente, confrontando-as com os padrões de normalidade.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-22
+
+CARGO: Agente Auxiliar de Saúde Pública
+
+ATRIBUIÇÕES:
+
+Auxiliar o fiscal sanitarista ou sanitarista, a chefia da unidade sanitária e o técnico em vigilância sanitária no desenvolvimento das ações de vigilância sanitária de alimentos e saneamento do meio ambiente; fiscalizar as condições físicas e higiênico-sanitárias de estabelecimentos de interesse da saúde pública para concessão de alvará sanitário, para atendimento de denúncias e reclamações e para manutenção regular de tais condições; fiscalizar as condições de saneamento nas construções civis; lavrar autos e termos, bem como preencher demais documentos em consonância com o código sanitário vigente e normas administrativas expedidas; fiscalizar o funcionamento dos estabelecimentos de interesse da saúde pública; organizar, disciplinar e manter o sistema de arquivo e de protocolo concernente à vigilância sanitária, na unidade sanitária; fiscalizar e controlar o correto cumprimento da legislação vigente em relação a preparo, manipulação, acondicionamento, conservação, armazenamento, transporte, depósito, distribuição ou venda de alimentos, orientando proprietários e manipuladores; apreender, interditar e inutilizar sumariamente alimentos destinados ao consumo que, quando expostos à venda, não estiverem com a devida proteção, apresentarem-se visivelmente prejudiciais à saúde ou manifestamente adulterados; coletar amostras de alimentos, água e outras de interesse da saúde pública para análise prévia, fiscal, de controle, de orientação e de requisição; fiscalizar na comunidade e nos domicílios as condições relacionadas a saneamento básico, coleta e transporte do lixo, habitabilidade e saúde básica; fornecer relatório de suas atividades à chefia imediata; e executar outras atividades correlatas com o cargo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-23
+
+CARGO: Auxiliar de Enfermagem
+
+ATRIBUIÇÕES:
+
+Prestar cuidados básicos de enfermagem, sob a coordenação e a supervisão do enfermeiro, nos diferentes níveis de complexidade das ações de saúde; e participar de processos de educação em saúde e de atividades de ações coletivas de saúde, em conformidade com a legislação de exercício profissional.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio e de formação na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-24
+
+CARGO: Auxiliar de Laboratório
+
+ATRIBUIÇÕES:
+
+Desenvolver atividades auxiliares gerais de laboratório de análises clínicas e químicas, preparando, limpando, conservando e guardando instrumentos e aparelhos, fazendo coleta e amostras de materiais e similares a fim de assegurar maior rendimento do trabalho e seu processamento de acordo com os padrões requeridos.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-25
+
+CARGO: Massagista
+
+ATRIBUIÇÕES:
+
+Preparar o paciente para aplicação de massagens; aplicar massagens corretivas sob prescrição médica com finalidades fisioterápicas; massagear os pacientes para ativar e melhorar a circulação ou outras vantagens terapêuticas, segundo técnicas adequadas; ensinar ao paciente a prática de exercícios por demonstração para ajudar a orientação ou recuperação de sequelas diversas; cumprir as instruções técnicas de serviço; e executar outras atividades correlatas com o cargo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio na área específica de atuação, caso houver.
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho Regional, se houver.
+
+ANEXO II-26
+
+CARGO: Motorista Socorrista
+
+ATRIBUIÇÕES:
+
+Conduzir veículos de urgência padronizados pelo código sanitário (transporte de pacientes), obedecendo a padrões de capacitação; possuir equilíbrio emocional e autocontrole, disposição para cumprir ações orientadas e capacidade de trabalhar em equipe.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Ensino Médio e Carteira Nacional de Habilitação específica para conduzir ambulância (Categoria E)
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-27
+
+CARGO: Rádio-Operador
+
+ATRIBUIÇÕES:
+
+Operar sistemas de radiocomunicação e realizar controle operacional de uma frota de veículos de emergência; possuir equilíbrio emocional e autocontrole, disposição para cumprir ações orientadas e capacidade de trabalhar em equipe.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-28
+
+CARGO: Técnico Auxiliar de Regulação Médica
+
+ATRIBUIÇÕES:
+
+Prestar atendimento telefônico às solicitações de auxílio provenientes da população, nas centrais de regulação médica, anotando dados básicos sobre o chamado (localização, identificação do solicitante, natureza da ocorrência); possuir equilíbrio emocional e autocontrole, disposição para cumprir ações orientadas e capacidade de trabalhar em equipe.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-29
+
+CARGO: Técnico em Atividades Administrativas
+
+ATRIBUIÇÕES:
+
+Organizar e executar serviços auxiliares nas áreas técnicas e administrativas, com utilização de ferramentas e sistemas informatizados, voltados à organização e atualização de arquivos e fichários, redação de correspondências oficiais, aquisição de materiais, análise e controle de serviços contábeis e outras atividades correlatas com o cargo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-30
+
+CARGO: Técnico em Contabilidade
+
+ATRIBUIÇÕES:
+
+Efetuar orçamento das despesas de custeio de pessoal, obrigações patrimoniais, materiais de consumo e outros serviços e encargos; emitir mensalmente balanços orçamentários e executar alterações no orçamento, nos casos previstos, conferir e registrar em fichas contábeis todas as despesas da rede hospitalar; e cumprir as rotinas contábeis adotadas no setor público.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-31
+
+CARGO: Técnico em Edificações
+
+ATRIBUIÇÕES:
+
+Executar tarefas de caráter técnico relativo à execução de projetos de obras civis, como construção e modificação de prédios, construção de galerias de dutos e outros tipos, pesquisando dados em campo, efetuando estudos de traçados, cooperando na elaboração de plantas arquitetônicas, fazendo levantamento taquiométrico e planialtimétrico e elaborando especificações pertinentes, para colaborar na construção, no reparo e na conservação das obras mencionadas.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL: Registro no Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-32
+
+CARGO: Técnico em Eletricidade
+
+ATRIBUIÇÕES:
+
+Planejar, construir, instalar, ampliar e reparar redes e linhas elétricas de alta e baixa tensão, linhas e redes de telecomunicação, rede de comunicação de dados e linhas de transmissão de energia de tração de veículos; instalar equipamentos e localizar defeitos.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-33
+
+CARGO: Técnico em Eletrônica
+
+ATRIBUIÇÕES:
+
+Administrar equipes, metas e resultados de manutenção eletroeletrônica predial; elaborar orçamento, planejar as atividades e controlar o processo para sua realização; elaborar documentação técnica e zelar pela segurança, saúde e meio ambiente.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-34
+
+CARGO: Técnico em Informática
+
+ATRIBUIÇÕES:
+
+Organizar documentos e informações; orientar usuários e os auxiliar na recuperação de dados e informações; disponibilizar fonte de dados para usuários; providenciar aquisição de material e incorporar material ao acervo; arquivar documentos, classificando-os segundo critérios apropriados para armazená-los e conservá-los; prestar serviço de comutação, alimentar base de dados e elaborar estatísticas; executar tarefas relacionadas com a elaboração e manutenção de arquivos, podendo, ainda, operar equipamentos reprográficos e recuperar e preservar as informações por meio digital, magnético ou papel.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-35
+
+CARGO: Técnico em Manutenção de Equipamentos Médico-Hospitalares
+
+ATRIBUIÇÕES: Proceder à manutenção de equipamentos médico-hospitalares e a outras atividades correlatas com o cargo
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-36
+
+CARGO: Técnico em Segurança do Trabalho
+
+ATRIBUIÇÕES:
+
+Executar tarefas identificando as causas e origens de acidentes de trabalho, planejando, organizando e executando planos de prevenção e criando um ambiente seguro e saudável; e emitir relatório sobre as atividades da sua área de atuação.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-37
+
+CARGO: Telefonista
+
+ATRIBUIÇÕES:
+
+Operar equipamentos de telefonia e outros sistemas de telecomunicações, movimentando chaves, interruptores e outros dispositivos para estabelecer comunicações internas, locais ou interurbanos; e anotar, redigir e transmitir avisos internos para pacientes e servidores.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso de Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-38
+
+CARGO: Técnico de Radiologia e Imagem
+
+ATRIBUIÇÕES:
+
+Operar aparelho de RX na realização dos diversos tipos de exames, manuseando soluções químicas e substâncias radioativas; revelar filmes e zelar pela conservação dos equipamentos radiográficos e auxiliar na assistência ao paciente.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-39
+
+CARGO: Técnico em Alimentos
+
+ATRIBUIÇÕES:
+
+Planejar o trabalho de processamento, conservação e controle de qualidade de insumos tais como bebidas, carnes e derivados, frutas e hortaliças, grãos e cereais, laticínios, massas alimentícias, produtos de panificação, pescado e derivados, açúcar e álcool, dentre outros; participar de pesquisa para melhoria, adequação e desenvolvimento de novos produtos e processos, sob supervisão; supervisionar processos de produção e de controle de qualidade nas etapas de produção; promover venda de insumos, processos e equipamentos; mobilizar capacidades comunicativas na elaboração de documentos e nos contatos com membros da equipe e clientes.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-40
+
+CARGO: Técnico em Enfermagem
+
+ATRIBUIÇÕES:
+
+Executar e supervisionar serviços de enfermagem, empregando processo de rotina e/ou específicos, para possibilitar a proteção e recuperação da saúde do paciente, em hospitais, ambulatórios e serviços similares; e participar de programas de educação em saúde e de ações em saúde coletiva, com observância à legislação do exercício profissional.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL: Registro no Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-41
+
+CARGO: Técnico em Fisioterapia
+
+ATRIBUIÇÕES:
+
+Atender pacientes e clientes para prevenção, habilitação e reabilitação de pessoas, utilizando protocolos e procedimentos específicos de fisioterapia, terapia ocupacional e ortoptia; habilitar pacientes e clientes; realizar diagnósticos específicos; analisar condições dos pacientes e clientes; orientar pacientes, clientes, familiares, cuidadores e responsáveis; avaliar baixa visão; ministrar testes e tratamentos ortópticos no paciente; desenvolver programas de prevenção, promoção de saúde e qualidade de vida; e executar atividades técnico-científicas.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-42
+
+CARGO: Técnico em Imobilização Ortopédica
+
+ATRIBUIÇÕES:
+
+Confeccionar e retirar aparelhos gessados, talas gessadas e enfaixamentos com uso de material convencional e sintético (resina de fibra de vidro); executar imobilizações com uso de esparadrapo e talas digitais (imobilizações para os dedos); preparar e executar trações cutâneas, auxiliar o médico ortopedista na instalação de trações esqueléticas e nas manobras de redução manual; e preparar sala para pequenos procedimentos fora do centro cirúrgico, como pequenas suturas e anestesia local para manobras de redução manual, punções e infiltrações.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-43
+
+CARGO: Técnico em Higiene Dental
+
+ATRIBUIÇÕES:
+
+Atuar sob a supervisão de um cirurgião-dentista, colaborando em pesquisa, auxiliando-o em seu atendimento de consultório, desenvolvendo as atividades de odontologia sanitária, compondo equipe de saúde em nível local; e desenvolver ações de educação em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-44
+
+CARGO: Técnico em Instrumentação Cirúrgica
+
+ATRIBUIÇÕES:
+
+Atuar sob a supervisão de profissional cirurgião, auxiliando-o na instrumentação cirúrgica, preparo do paciente, controle do instrumental, suprindo o ambiente das condições físicas e materiais necessários à realização do procedimento.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-45
+
+CARGO: Técnico em Laboratório
+
+ATRIBUIÇÕES:
+
+Executar trabalhos técnicos de laboratório relacionados a dosagens e análises bacteriológicas, bacterioscópicas e química, realizando ou orientando exames, testes de cultura de microorganismos, por meio de manipulação de aparelhos de laboratório e por outros meios para possibilitar diagnóstico, tratamento ou prevenção de doenças.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-46
+
+CARGO: Técnico em Nutrição
+
+ATRIBUIÇÕES:
+
+Providenciar alimentação adequada para o paciente, sob orientação do nutricionista, verificando prescrição dietética quando delegada, acompanhando a distribuição das refeições aos pacientes e auxiliando na supervisão de produção de refeições.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-47
+
+CARGO: Técnico em Prótese e Órtese
+
+ATRIBUIÇÕES:
+
+Confeccionar, montar, desmontar e ajustar, utilizando-se de moldes, membros artificiais, armaduras e outros aparelhos ortopédicos, sob supervisão especializada.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão do Ensino Médio
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-48
+
+CARGO: Técnico de Radioterapia
+
+ATRIBUIÇÕES:
+
+Preparar materiais e equipamentos para exames e radioterapia; operar aparelhos médicos e odontológicos para produzir imagens e gráficos funcionais como recurso auxiliar ao diagnóstico e terapia; preparar pacientes e realizar exames e radioterapia; prestar atendimento aos pacientes fora da sala de exame, realizando as atividades segundo boas práticas, normas e procedimento de biossegurança e código de conduta; e mobilizar capacidades de comunicação para registro de informações e troca de informações com a equipe e com os pacientes.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-49
+
+CARGO: Técnico em Vigilância Sanitária
+
+ATRIBUIÇÕES:
+
+Desenvolver atividades de nível médio relacionadas à vigilância e à inspeção sanitária, realizar perícias técnicas, coleta de amostras para análise laboratorial; elaborar relatório, manual técnico e de roteiro técnico de inspeção; planejar ações de trabalhos de vigilância sanitária; e participar de programas de saúde coletiva de educação em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-50
+
+CARGO: Técnico em Patologia Clínica
+
+ATRIBUIÇÕES:
+
+Coletar, receber e distribuir material biológico de pacientes; preparar amostras do material biológico e realizar exames conforme protocolo; operar equipamentos analíticos e de suporte; executar, checar, calibrar e fazer manutenção corretiva dos equipamentos; administrar e organizar o local de trabalho; trabalhar conforme normas e procedimentos técnicos de boas práticas, qualidade e biossegurança; mobilizar capacidades de comunicação oral e escrita para efetuar registros, dialogar com a equipe de trabalho e orientar os pacientes quanto à coleta do material biológico.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Técnico de Ensino Médio na área de atuação
+
+REGISTRO PROFISSIONAL:
+
+ANEXO II-51
+
+CARGO: Administrador
+
+ATRIBUIÇÕES:
+
+Desenvolver estudos, pesquisar, elaborar, implantar, acompanhar, coordenar e controlar planos, programas e projetos relacionados à administração de pessoas e relação de trabalho, de operações e logística, de informação e tecnologia, de material, financeira, de organização, de métodos e de planejamento.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Administração
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do exercício profissional
+
+ANEXO II-52
+
+CARGO: Analista de Sistemas
+
+ATRIBUIÇÕES:
+
+Analisar, projetar e executar sistemas de processamento de dados, estudando as necessidades, possibilidades e métodos referentes a eles, para assegurar a exatidão e rapidez dos diversos tratamentos de informações; executar atividades de planejamento, coordenação, controle, orientação e análise das atividades da área de processamento de dados, bem como a definição de projetos de sistemas e tratamento de informações; emitir parecer pertinente à área de processamento de dados, e desenvolver atividades de ensino e pesquisa.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Análise de Sistemas, Sistema de Informação ou Computação
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-53
+
+CARGO: Analista Técnico Administrativo
+
+ATRIBUIÇÕES:
+
+Executar pesquisas, estudos, controle, acompanhamento, avaliação, implantação e coordenação de ações, programas, planos e projetos de natureza técnica e administrativa.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional ou em órgão equivalente
+
+ANEXO II-54
+
+CARGO: Arquiteto
+
+ATRIBUIÇÕES:
+
+Elaborar estudos, anteprojetos e projetos de arquitetura, instalações, estrutura, urbanismo, ajardinamento, paisagismo e outros; elaborar plantas, desenhos, maquetes e estruturas de construção; acompanhar e fiscalizar obras e/ou serviços arquitetônicos e urbanísticos; supervisionar o trabalho dos técnicos, oficiais e auxiliares e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Arquitetura e Urbanismo
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-55
+
+CARGO: Assistente Social
+
+ATRIBUIÇÕES:
+
+Prestar serviços de âmbito social a indivíduos ou grupos, em tratamento de saúde física ou mental, identificando e analisando seus problemas e necessidades materiais, psíquicas e de outra ordem e aplicando os processos básicos de serviço social, para facilitar a recuperação do paciente e promover sua reintegração ao meio social, familiar e de trabalho; e desenvolver atividades de ensino, pesquisa e vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Serviço Social
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-56
+
+CARGO: Auditor em Saúde
+
+ATRIBUIÇÕES:
+
+Prestar consultoria e informações gerenciais; realizar auditoria interna e externa; atender solicitações de órgãos fiscalizadores e realizar perícia.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional ou órgão equivalente, se houver
+
+ANEXO II-57
+
+CARGO: Bibliotecário
+
+ATRIBUIÇÕES:
+
+Planejar, organizar, coordenar e controlar todo o trabalho na biblioteca, manter intercâmbio com instituições da área, oferecer suporte ao usuário; supervisionar as atividades pertinentes à área; coordenar os processos de informatização da área; oferecer suporte às atividades de ensino, pesquisa e desenvolvimento tecnológico no âmbito da instituição.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Biblioteconomia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-58
+
+CARGO: Biólogo
+
+ATRIBUIÇÕES:
+
+Realizar pesquisa na natureza em laboratório, estudando origem, evolução, funções, estrutura, distribuição, meios, semelhanças e outros aspectos das diferentes formas de vida.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Biologia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-59
+
+CARGO: Bioquímico
+
+ATRIBUIÇÕES:
+
+Realizar pesquisas sobre composição, funções e processos químicos dos organismos vivos, desenvolvendo experiências, testes e análises clínicas de material biológico, análises bromatológicas, pesquisa, análise e produção de medicamentos, produção de hemoderivados e controle de qualidade.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Bioquímica
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-60
+
+CARGO: Contador
+
+ATRIBUIÇÕES:
+
+Planejar, supervisionar, orientar e executar os trabalhos inerentes à contabilidade, de acordo com as exigências legais e administrativas, apurar os elementos necessários à elaboração orçamentária e ao controle da situação patrimonial e financeira da instituição; e desenvolver atividades de ensino.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Ciências Contábeis
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-61
+
+CARGO: Economista
+
+ATRIBUIÇÕES:
+
+Realizar planejamento, estudo, análise e previsão de natureza econômica, financeira e administrativa, aplicando os princípios e teorias da economia a fim de formular soluções e diretrizes para os problemas econômicos da instituição; desenvolver atividades de ensino e pesquisa.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Economia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-62
+
+CARGO: Enfermeiro
+
+ATRIBUIÇÕES:
+
+Administrar, planejar, coordenar, executar, supervisionar e avaliar atividades e ações de enfermagem no âmbito da assistência, pesquisa e docência, nos diferentes níveis de complexidade das ações de saúde; e participar de processos educativos, de formação e de ações coletivas e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Enfermagem
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-63
+
+CARGO: Engenheiro
+
+ATRIBUIÇÕES:
+
+Elaborar, analisar, assessorar, supervisionar, acompanhar e fiscalizar projetos e processos nas áreas de construção civil, eletricidade, eletrônica, mecânica, química, alimentos, vigilância sanitária e agronomia; e desenvolver atividades de ensino e pesquisa.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Engenharia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-64
+
+CARGO: Farmacêutico
+
+ATRIBUIÇÕES:
+
+Desenvolver atividades na área dos medicamentos e correlatos (desde a pesquisa, passando pelo processo de aquisição, manipulação, armazenagem, controle de qualidade e distribuição); atuar na área de análise clínica, análise toxicológica, dos domissaneantes (produção, controle de qualidade e distribuição) e na saúde pública; supervisionar as atividades desenvolvidas nas áreas de atuação, inclusive o pessoal auxiliar e técnico; e participar de atividades de ensino, pesquisa e fabricação de produtos químicos e farmacêuticos e de atividades de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Farmácia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-65
+
+CARGO: Fiscal Sanitarista
+
+ATRIBUIÇÕES:
+
+Executar atividades de natureza fiscal, policial e operacional, envolvendo serviços relativos à inspeção e vigilância sanitária.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior, cuja formação ou especialização tenha afinidade com o exercício da função fiscalizadora
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-66
+
+CARGO: Físico
+
+ATRIBUIÇÕES:
+
+Elaborar, executar e supervisionar projetos de estudo, pesquisa e atividades de ensino; assessorar em atividades da área de física relacionadas à medicina nos campos de mecânica, térmica, ótica, eletricidade, magnetismo, eletrônica e física nuclear, elaborar planos terapêuticos em radioterapia, proteção radiológica, calibração de equipamentos e levantamento radiométrico; supervisionar o controle do material radioativo e participar de atividades de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Física
+
+REGISTRO PROFISSIONAL: Registro no Conselho de Fiscalização do Exercício Profissional, se houver, ou Conselho Nacional de Energia Nuclear (CNEN)
+
+ANEXO II-67
+
+CARGO: Fisioterapeuta
+
+ATRIBUIÇÕES:
+
+Executar métodos e técnicas fisioterápicas, com a finalidade de recuperar, desenvolver e conservar a capacidade física do paciente, após o diagnóstico e a prescrição médica; desenvolver atividades de habilitação e de reabilitação junto com equipe multiprofissional de saúde nas diversas áreas assistenciais; coordenar, orientar e supervisionar as atividades da área específica; e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Fisioterapia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-68
+
+CARGO: Fonoaudiólogo
+
+ATRIBUIÇÕES:
+
+Identificar problemas ou deficiências ligadas à comunicação oral, empregando técnicas próprias de avaliação e fazendo o treinamento fonético, auditivo, dicção, empostação da voz e outros, para possibilitar o aperfeiçoamento e/ou reabilitação da fala; e participar de processos educativos e de atividades de ensino, pesquisa e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Fonoaudiologia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-69
+
+CARGO: Profissional de Educação Física
+
+ATRIBUIÇÕES:
+
+Planejar, organizar, controlar e supervisionar, exercendo suas atividades por meio de intervenções, legitimadas por diagnósticos, utilizando-se de métodos e técnicas específicas de consulta, de avaliação, de prescrição e de orientação de sessões de atividades físicas e/ou desportivas e intelectivas, com fins educacionais, recreacionais, de treinamento e de promoção da saúde, atuando em equipes interdisciplinares e multidisciplinares, observando a legislação pertinente e o Código de Ética Profissional, sujeito à fiscalização em suas intervenções no exercício profissional pelo sistema CONFEF/CREFs.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Educação Física
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-70
+
+CARGO: Médico
+
+ATRIBUIÇÕES:
+
+Realizar exames médicos, emitir diagnósticos, prescrever e ministrar tratamentos para as diversas doenças, perturbações e lesões do organismo humano e aplicar os métodos da medicina preventiva; definir instruções; praticar atos cirúrgicos e correlatos; emitir laudos e pareceres; aplicar as leis e regulamentos da saúde pública; desenvolver ações de saúde coletiva; e participar de processos educativos, de ensino, pesquisa e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Medicina
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-71
+
+CARGO: Médico Veterinário
+
+ATRIBUIÇÕES:
+
+Planejar, organizar, supervisionar e executar programas de defesa sanitária realizando estudos e pesquisas, aplicando conhecimentos e métodos para assegurar a saúde da comunidade; executar ações de controle de zoonoses e de vigilância em saúde; e desenvolver atividade de educação em saúde, ensino e pesquisa.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Veterinária ou Medicina Veterinária
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-72
+
+CARGO: Nutricionista
+
+ATRIBUIÇÕES:
+
+Planejar, organizar, controlar, supervisionar, executar e avaliar os serviços de alimentação e nutrição; elaborar e/ou participar de estudos dietéticos; planejar, executar e avaliar políticas, programas e cursos relacionados com alimentação e nutrição; prestar assistência dietoterápica hospitalar e ambulatorial; desenvolver atividades de ensino e pesquisa; supervisionar a equipe de trabalho e participar de programas de educação em saúde e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Nutrição
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-73
+
+CARGO: Odontólogo
+
+ATRIBUIÇÕES:
+
+Diagnosticar e tratar afecções da boca, dentes e região buco-maxilo-facial, utilizando processos clínicos e cirúrgicos para promover e recuperar a saúde bucal e geral; elaborar e aplicar medidas de caráter público, para diagnosticar, prevenir e melhorar as condições de higiene dentária e bucal da comunidade; supervisionar os auxiliares e técnicos da área; e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Odontologia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-74
+
+CARGO: Pedagogo
+
+ATRIBUIÇÕES:
+
+Planejar, coordenar, orientar, supervisionar, controlar, executar e avaliar qualquer atividade que implique na aplicação dos conhecimentos da área pedagógica; participar, dentro de sua especialidade, de equipes multiprofissionais na elaboração, análise e implantação de programas e projetos; auxiliar nos estudos, executar e acompanhar o desenvolvimento de projetos de capacitação de recursos humanos, na sua área de competência, com vistas ao desenvolvimento da capacidade física, intelectual e moral do ser humano, visando sua melhor integração individual, social e profissional.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Pedagogia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-75
+
+CARGO: Psicólogo
+
+ATRIBUIÇÕES:
+
+Atuar no âmbito da saúde em nível primário, secundário e terciário, procedendo ao estudo e à análise dos processos intrapessoais e interpessoais e nos mecanismos do comportamento humano, elaborando e ampliando técnicas psicológicas e psicoterápicas e outros métodos de verificação para possibilitar a orientação, a seleção e o treinamento no campo profissional, no diagnóstico e na identificação e interferência nos fatores determinantes na ação do indivíduo em sua história pessoal, familiar, educacional e social; desenvolver atividades de pesquisa, ensino e aprendizagem; participar de equipes multiprofissionais visando à interação comunidade-instituição, assim como na perspectiva da interdisciplinaridade onde se deem as relações de trabalho na instituição, sempre que for solicitado, visando à recuperação e integração social em curto espaço de tempo.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Psicologia
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-76
+
+CARGO: Químico
+
+ATRIBUIÇÕES:
+
+Realizar ensaios, análises químicas e físico-químicas, selecionando metodologias, materiais, reagentes de análise e critérios de amostragem, homogeneizando, dimensionando, e solubilizando amostras; produzir substâncias, desenvolver metodologias analíticas, interpretar dados químicos, monitorar impacto ambiental de substâncias, supervisionar procedimentos químicos, e coordenar atividades químicas laboratoriais e industriais.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Química
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-77
+
+CARGO: Sanitarista
+
+ATRIBUIÇÕES:
+
+Atividade de execução qualificada, em saúde pública, envolvendo estudo, coordenação, supervisão, execução e avaliação de ações de saúde, especialmente na área de formação básica.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior, com pós-graduação na área de saúde pública
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
+
+ANEXO II-78
+
+CARGO: Terapeuta Ocupacional
+
+ATRIBUIÇÕES:
+
+Executar métodos e técnicas terapêuticas e recreacionais com a finalidade de restaurar, desenvolver e conservar a capacidade mental e física do paciente após diagnóstico e prescrição médica; participar de programas e projetos da habilitação, capacitação e reabilitação e educação em saúde; e desenvolver atividades de ensino, pesquisa e de vigilância em saúde.
+
+PRÉ-REQUISITOS PARA O EXERCÍCIO PROFISSIONAL
+
+FORMAÇÃO: Conclusão de Curso Superior em Terapia Ocupacional
+
+REGISTRO PROFISSIONAL: Registro no respectivo Conselho de Fiscalização do Exercício Profissional
 
 ” (NR)
 
@@ -380,7 +1314,7 @@ QUADRO DE PESSOAL DA SECRETARIA DE ESTADO DA SAÚDE
 
 ” (NR)
 
-<table><tbody><tr><td>&nbsp;</td><td colspan="10"><center>REFERÊNCIAS</center></td></tr><tr><td><p>NÍVEL</p></td><td><p>A</p></td><td><p>B</p></td><td><p>C</p></td><td><p>D</p></td><td><p>E</p></td><td><p>F</p></td><td><p>G</p></td><td><p>H</p></td><td><p>I</p></td><td><p>J</p></td></tr><tr><td><p>1</p></td><td><p>958,38</p></td><td><p>970,83</p></td><td><p>983,44</p></td><td><p>996,24</p></td><td><p>1.009,19</p></td><td><p>1.022,29</p></td><td><p>1.035,60</p></td><td><p>1.049,05</p></td><td><p>1.062,69</p></td><td><p>1.076,51</p></td></tr><tr><td><p>2</p></td><td><p>1.090,50</p></td><td><p>1.104,67</p></td><td><p>1.119,05</p></td><td><p>1.133,57</p></td><td><p>1.148,32</p></td><td><p>1.163,25</p></td><td><p>1.178,37</p></td><td><p>1.193,69</p></td><td><p>1.209,21</p></td><td><p>1.224,93</p></td></tr><tr><td><p>3</p></td><td><p>1.240,86</p></td><td><p>1.256,98</p></td><td><p>1.273,32</p></td><td><p>1.289,87</p></td><td><p>1.306,64</p></td><td><p>1.323,63</p></td><td><p>1.340,84</p></td><td><p>1.358,28</p></td><td><p>1.375,93</p></td><td><p>1.393,81</p></td></tr><tr><td><p>4</p></td><td><p>1.411,93</p></td><td><p>1.430,28</p></td><td><p>1.448,88</p></td><td><p>1.467,72</p></td><td><p>1.486,81</p></td><td><p>1.506,12</p></td><td><p>1.525,71</p></td><td><p>1.545,54</p></td><td><p>1.565,64</p></td><td><p>1.585,99</p></td></tr><tr><td><p>5</p></td><td><p>1.034,03</p></td><td><p>1.047,48</p></td><td><p>1.061,09</p></td><td><p>1.074,88</p></td><td><p>1.088,86</p></td><td><p>1.103,00</p></td><td><p>1.117,35</p></td><td><p>1.131,87</p></td><td><p>1.146,59</p></td><td><p>1.161,49</p></td></tr><tr><td><p>6</p></td><td><p>1.176,60</p></td><td><p>1.191,88</p></td><td><p>1.207,38</p></td><td><p>1.223,08</p></td><td><p>1.238,98</p></td><td><p>1.255,09</p></td><td><p>1.271,40</p></td><td><p>1.287,93</p></td><td><p>1.304,67</p></td><td><p>1.321,64</p></td></tr><tr><td><p>7</p></td><td><p>1.338,82</p></td><td><p>1.356,22</p></td><td><p>1.373,84</p></td><td><p>1.391,71</p></td><td><p>1.409,80</p></td><td><p>1.428,12</p></td><td><p>1.446,69</p></td><td><p>1.465,51</p></td><td><p>1.484,55</p></td><td><p>1.503,86</p></td></tr><tr><td><p>8</p></td><td><p>1.523,40</p></td><td><p>1.543,22</p></td><td><p>1.563,27</p></td><td><p>1.583,59</p></td><td><p>1.604,17</p></td><td><p>1.625,04</p></td><td><p>1.646,16</p></td><td><p>1.667,56</p></td><td><p>1.689,23</p></td><td><p>1.711,20</p></td></tr><tr><td><p>9</p></td><td><p>1.134,90</p></td><td><p>1.151,92</p></td><td><p>1.169,20</p></td><td><p>1.186,74</p></td><td><p>1.204,55</p></td><td><p>1.222,62</p></td><td><p>1.240,96</p></td><td><p>1.259,57</p></td><td><p>1.278,46</p></td><td><p>1.297,64</p></td></tr><tr><td><p>10</p></td><td><p>1.317,11</p></td><td><p>1.336,85</p></td><td><p>1.356,93</p></td><td><p>1.377,27</p></td><td><p>1.397,94</p></td><td><p>1.418,90</p></td><td><p>1.440,18</p></td><td><p>1.461,79</p></td><td><p>1.483,71</p></td><td><p>1.505,98</p></td></tr><tr><td><p>11</p></td><td><p>1.528,55</p></td><td><p>1.551,48</p></td><td><p>1.574,75</p></td><td><p>1.598,38</p></td><td><p>1.622,36</p></td><td><p>1.646,69</p></td><td><p>1.671,38</p></td><td><p>1.696,46</p></td><td><p>1.721,90</p></td><td><p>1.747,73</p></td></tr><tr><td><p>12</p></td><td><p>1.773,94</p></td><td><p>1.800,56</p></td><td><p>1.827,57</p></td><td><p>1.854,97</p></td><td><p>1.882,80</p></td><td><p>1.911,05</p></td><td><p>1.939,72</p></td><td><p>1.968,81</p></td><td><p>1.998,34</p></td><td><p>2.028,31</p></td></tr><tr><td><p>13</p></td><td><p>1.513,21</p></td><td><p>1.543,48</p></td><td><p>1.574,35</p></td><td><p>1.605,84</p></td><td><p>1.637,95</p></td><td><p>1.670,71</p></td><td><p>1.704,12</p></td><td><p>1.738,20</p></td><td><p>1.772,97</p></td><td><p>1.808,43</p></td></tr><tr><td><p>14</p></td><td><p>1.844,59</p></td><td><p>1.881,49</p></td><td><p>1.919,12</p></td><td><p>1.957,50</p></td><td><p>1.996,64</p></td><td><p>2.036,58</p></td><td><p>2.077,31</p></td><td><p>2.118,87</p></td><td><p>2.161,25</p></td><td><p>2.204,46</p></td></tr><tr><td><p>15</p></td><td><p>2.248,55</p></td><td><p>2.293,53</p></td><td><p>2.339,40</p></td><td><p>2.386,19</p></td><td><p>2.433,90</p></td><td><p>2.482,59</p></td><td><p>2.532,24</p></td><td><p>2.582,87</p></td><td><p>2.634,54</p></td><td><p>2.687,23</p></td></tr><tr><td><p>16</p></td><td><p>2.740,97</p></td><td><p>2.795,80</p></td><td><p>2.851,71</p></td><td><p>2.908,74</p></td><td><p>2.966,92</p></td><td><p>3.026,25</p></td><td><p>3.086,77</p></td><td><p>3.148,51</p></td><td><p>3.211,49</p></td><td><p>3.275,70</p></td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp;</td><td colspan="10">REFERÊNCIAS</td></tr><tr><td> NÍVEL </td><td> A </td><td> B </td><td> C </td><td> D </td><td> E </td><td> F </td><td> G </td><td> H </td><td> I </td><td> J </td></tr><tr><td> 1 </td><td> 958,38 </td><td> 970,83 </td><td> 983,44 </td><td> 996,24 </td><td> 1.009,19 </td><td> 1.022,29 </td><td> 1.035,60 </td><td> 1.049,05 </td><td> 1.062,69 </td><td> 1.076,51 </td></tr><tr><td> 2 </td><td> 1.090,50 </td><td> 1.104,67 </td><td> 1.119,05 </td><td> 1.133,57 </td><td> 1.148,32 </td><td> 1.163,25 </td><td> 1.178,37 </td><td> 1.193,69 </td><td> 1.209,21 </td><td> 1.224,93 </td></tr><tr><td> 3 </td><td> 1.240,86 </td><td> 1.256,98 </td><td> 1.273,32 </td><td> 1.289,87 </td><td> 1.306,64 </td><td> 1.323,63 </td><td> 1.340,84 </td><td> 1.358,28 </td><td> 1.375,93 </td><td> 1.393,81 </td></tr><tr><td> 4 </td><td> 1.411,93 </td><td> 1.430,28 </td><td> 1.448,88 </td><td> 1.467,72 </td><td> 1.486,81 </td><td> 1.506,12 </td><td> 1.525,71 </td><td> 1.545,54 </td><td> 1.565,64 </td><td> 1.585,99 </td></tr><tr><td> 5 </td><td> 1.034,03 </td><td> 1.047,48 </td><td> 1.061,09 </td><td> 1.074,88 </td><td> 1.088,86 </td><td> 1.103,00 </td><td> 1.117,35 </td><td> 1.131,87 </td><td> 1.146,59 </td><td> 1.161,49 </td></tr><tr><td> 6 </td><td> 1.176,60 </td><td> 1.191,88 </td><td> 1.207,38 </td><td> 1.223,08 </td><td> 1.238,98 </td><td> 1.255,09 </td><td> 1.271,40 </td><td> 1.287,93 </td><td> 1.304,67 </td><td> 1.321,64 </td></tr><tr><td> 7 </td><td> 1.338,82 </td><td> 1.356,22 </td><td> 1.373,84 </td><td> 1.391,71 </td><td> 1.409,80 </td><td> 1.428,12 </td><td> 1.446,69 </td><td> 1.465,51 </td><td> 1.484,55 </td><td> 1.503,86 </td></tr><tr><td> 8 </td><td> 1.523,40 </td><td> 1.543,22 </td><td> 1.563,27 </td><td> 1.583,59 </td><td> 1.604,17 </td><td> 1.625,04 </td><td> 1.646,16 </td><td> 1.667,56 </td><td> 1.689,23 </td><td> 1.711,20 </td></tr><tr><td> 9 </td><td> 1.134,90 </td><td> 1.151,92 </td><td> 1.169,20 </td><td> 1.186,74 </td><td> 1.204,55 </td><td> 1.222,62 </td><td> 1.240,96 </td><td> 1.259,57 </td><td> 1.278,46 </td><td> 1.297,64 </td></tr><tr><td> 10 </td><td> 1.317,11 </td><td> 1.336,85 </td><td> 1.356,93 </td><td> 1.377,27 </td><td> 1.397,94 </td><td> 1.418,90 </td><td> 1.440,18 </td><td> 1.461,79 </td><td> 1.483,71 </td><td> 1.505,98 </td></tr><tr><td> 11 </td><td> 1.528,55 </td><td> 1.551,48 </td><td> 1.574,75 </td><td> 1.598,38 </td><td> 1.622,36 </td><td> 1.646,69 </td><td> 1.671,38 </td><td> 1.696,46 </td><td> 1.721,90 </td><td> 1.747,73 </td></tr><tr><td> 12 </td><td> 1.773,94 </td><td> 1.800,56 </td><td> 1.827,57 </td><td> 1.854,97 </td><td> 1.882,80 </td><td> 1.911,05 </td><td> 1.939,72 </td><td> 1.968,81 </td><td> 1.998,34 </td><td> 2.028,31 </td></tr><tr><td> 13 </td><td> 1.513,21 </td><td> 1.543,48 </td><td> 1.574,35 </td><td> 1.605,84 </td><td> 1.637,95 </td><td> 1.670,71 </td><td> 1.704,12 </td><td> 1.738,20 </td><td> 1.772,97 </td><td> 1.808,43 </td></tr><tr><td> 14 </td><td> 1.844,59 </td><td> 1.881,49 </td><td> 1.919,12 </td><td> 1.957,50 </td><td> 1.996,64 </td><td> 2.036,58 </td><td> 2.077,31 </td><td> 2.118,87 </td><td> 2.161,25 </td><td> 2.204,46 </td></tr><tr><td> 15 </td><td> 2.248,55 </td><td> 2.293,53 </td><td> 2.339,40 </td><td> 2.386,19 </td><td> 2.433,90 </td><td> 2.482,59 </td><td> 2.532,24 </td><td> 2.582,87 </td><td> 2.634,54 </td><td> 2.687,23 </td></tr><tr><td> 16 </td><td> 2.740,97 </td><td> 2.795,80 </td><td> 2.851,71 </td><td> 2.908,74 </td><td> 2.966,92 </td><td> 3.026,25 </td><td> 3.086,77 </td><td> 3.148,51 </td><td> 3.211,49 </td><td> 3.275,70 </td></tr></tbody></table>
 
 ” (NR)
 
@@ -388,10 +1322,10 @@ ANEXO IV
 
 LINHA DE CORRELAÇÃO PARA EFEITOS DE RETIFICAÇÃO
 
-<table><tbody><tr><td colspan="3"><center>SITUAÇÃO: LEI COMPLEMENTAR Nº 81, DE 10 DE MARÇO DE 1993, E DEMAIS PLANOS DE CARREIRA</center></td><td colspan="3"><center>SITUAÇÃO NOVA</center></td></tr><tr><td><p>CARGO</p></td><td><p>NÍVEL</p></td><td><p>REF.</p></td><td><p>CARGO</p></td><td><p>NÍVEL</p></td><td><p>REF.</p></td></tr><tr><td><p>Agente de Serviços Gerais</p></td><td><p>01-03</p></td><td><p>A-J</p></td><td><p>Agente de Serviços Gerais</p></td><td><p>01-04</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Ativ. Administrativas</p></td><td><p>05-07</p></td><td><p>A-J</p></td><td><p>Agente em Ativ. Administrativas</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Caldeireiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Caldeireiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Marceneiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Marceneiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Carpinteiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Carpinteiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Costureiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Costureiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Cozinheiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Cozinheiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Eletricista)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Eletricista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Encanador)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Encanador</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Jardineiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Jardineiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Mecânico)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Mecânico</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Motorista</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Motorista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Padeiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Padeiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Pedreiro)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Pedreiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Pintor)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Pintor</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Agente de Manutenção)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Agente de Manutenção</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Artífice II (Telefonista)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Telefonista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Ativ. de Saúde II (Auxiliar de Serviços Hospitalares e Assistenciais)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Auxiliar de Serviços Hospitalares e Assistenciais</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Ativ. de Saúde II (Atendente de Saúde Pública)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Atendente de Saúde Pública</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Ativ. de Saúde II (Agente Auxiliar de Saúde Pública)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td rowspan="3"><p>Agente Auxiliar de Saúde Pública</p><p></p><p></p></td><td rowspan="3"><p>09-12</p><p></p><p></p></td><td rowspan="3"><p>A-J</p><p></p><p></p></td></tr><tr><td><p>Técnico em Ativ. de Saúde</p></td><td rowspan="2"><p>09-11</p><p></p></td><td rowspan="2"><p>A-J</p><p></p></td></tr><tr><td><p>(Agente de Saúde Pública)</p></td></tr><tr><td><p>Agente em Ativ. de Saúde II (Auxiliar de Enfermagem)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Auxiliar de Enfermagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Ativ. de Saúde II (Auxiliar de Laboratório)</p></td><td><p>08-10</p></td><td><p>A-J</p></td><td><p>Auxiliar de Laboratório</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Ativ. de Saúde (Massagista)</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Massagista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Atividades Administrativas</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico em Atividades Administrativas</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Contabilidade</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico em Contabilidade</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Informática</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico em Informática</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Segurança do Trabalho</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico em Segurança do Trabalho</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Ativ. Administrativas (Telefonista)</p></td><td><p>05-07</p></td><td><p>A-J</p></td><td><p>Telefonista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Atividades de Saúde (Técnico de Laboratório)</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico de Laboratório</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Atividades de Saúde (Técnico em Radiologia)</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico de Radiologia e Imagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Atividades de Saúde (Técnico de Enfermagem)</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico em Enfermagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Atividades de Saúde (Técnico Auxiliar de Reabilitação e Fisioterapia)</p></td><td><p>09-11</p></td><td><p>A-J</p></td><td><p>Técnico em Fisioterapia</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Administrador</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Administrador</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista de Informática</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Analista de Sistemas</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista Técnico Administrativo I</p></td><td><p>12-14</p></td><td><p>A-J</p></td><td rowspan="2"><p>Analista Técnico Administrativo</p><p></p></td><td rowspan="2"><p>13-16</p><p></p></td><td rowspan="2"><p>A-J</p><p></p></td></tr><tr><td><p>Analista Técnico Administrativo II</p></td><td><p>13-15</p></td><td><p>A-J</p></td></tr><tr><td><p>Assistente Social</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Assistente Social</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Bibliotecário</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Bibliotecário</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Bioquímico</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Bioquímico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Contador</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Contador</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Enfermeiro</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Enfermeiro</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Engenheiro</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Engenheiro</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Farmacêutico</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Farmacêutico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Fiscal Sanitarista</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Fiscal Sanitarista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista Técnico Administrativo II (Físico)</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Físico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Fisioterapeuta</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Fisioterapeuta</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Fonoaudiólogo</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Fonoaudiólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista Técnico Administrativo II (Profissional de Educação Física)</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td rowspan="2"><p>Profissional de Educação Física</p><p></p></td><td rowspan="2"><p>13-16</p><p></p></td><td rowspan="2"><p>A-J</p><p></p></td></tr><tr><td><p>Professor (Profissional de Educação Física)</p></td><td><p>13-15</p></td><td><p>A-J</p></td></tr><tr><td><p>Médico</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Médico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Médico Veterinário</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Médico Veterinário</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Nutricionista</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Nutricionista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Cirurgião Dentista</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Odontólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Pedagogo</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Pedagogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Psicólogo</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Psicólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista Técnico Administrativo II (Químico)</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Químico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Sanitarista</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Sanitarista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Terapeuta Ocupacional</p></td><td><p>13-15</p></td><td><p>A-J</p></td><td><p>Terapeuta Ocupacional</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">SITUAÇÃO: LEI COMPLEMENTAR Nº 81, DE 10 DE MARÇO DE 1993, E DEMAIS PLANOS DE CARREIRA</td><td colspan="3">SITUAÇÃO NOVA</td></tr><tr><td> CARGO </td><td> NÍVEL </td><td> REF. </td><td> CARGO </td><td> NÍVEL </td><td> REF. </td></tr><tr><td> Agente de Serviços Gerais </td><td> 01-03 </td><td> A-J </td><td> Agente de Serviços Gerais </td><td> 01-04 </td><td> A-J </td></tr><tr><td> Agente em Ativ. Administrativas </td><td> 05-07 </td><td> A-J </td><td> Agente em Ativ. Administrativas </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Caldeireiro) </td><td> 08-10 </td><td> A-J </td><td> Caldeireiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Marceneiro) </td><td> 08-10 </td><td> A-J </td><td> Marceneiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Carpinteiro) </td><td> 08-10 </td><td> A-J </td><td> Carpinteiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Costureiro) </td><td> 08-10 </td><td> A-J </td><td> Costureiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Cozinheiro) </td><td> 08-10 </td><td> A-J </td><td> Cozinheiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Eletricista) </td><td> 08-10 </td><td> A-J </td><td> Eletricista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Encanador) </td><td> 08-10 </td><td> A-J </td><td> Encanador </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Jardineiro) </td><td> 08-10 </td><td> A-J </td><td> Jardineiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Mecânico) </td><td> 08-10 </td><td> A-J </td><td> Mecânico </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Motorista </td><td> 08-10 </td><td> A-J </td><td> Motorista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Padeiro) </td><td> 08-10 </td><td> A-J </td><td> Padeiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Pedreiro) </td><td> 08-10 </td><td> A-J </td><td> Pedreiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Pintor) </td><td> 08-10 </td><td> A-J </td><td> Pintor </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Agente de Manutenção) </td><td> 08-10 </td><td> A-J </td><td> Agente de Manutenção </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Artífice II (Telefonista) </td><td> 08-10 </td><td> A-J </td><td> Telefonista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente em Ativ. de Saúde II (Auxiliar de Serviços Hospitalares e Assistenciais) </td><td> 08-10 </td><td> A-J </td><td> Auxiliar de Serviços Hospitalares e Assistenciais </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente em Ativ. de Saúde II (Atendente de Saúde Pública) </td><td> 08-10 </td><td> A-J </td><td> Atendente de Saúde Pública </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente em Ativ. de Saúde II (Agente Auxiliar de Saúde Pública) </td><td> 08-10 </td><td> A-J </td><td rowspan="3"> Agente Auxiliar de Saúde Pública </td><td rowspan="3"> 09-12 </td><td rowspan="3"> A-J </td></tr><tr><td> Técnico em Ativ. de Saúde </td><td rowspan="2"> 09-11 </td><td rowspan="2"> A-J </td></tr><tr><td> (Agente de Saúde Pública) </td></tr><tr><td> Agente em Ativ. de Saúde II (Auxiliar de Enfermagem) </td><td> 08-10 </td><td> A-J </td><td> Auxiliar de Enfermagem </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente em Ativ. de Saúde II (Auxiliar de Laboratório) </td><td> 08-10 </td><td> A-J </td><td> Auxiliar de Laboratório </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Ativ. de Saúde (Massagista) </td><td> 09-11 </td><td> A-J </td><td> Massagista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Atividades Administrativas </td><td> 09-11 </td><td> A-J </td><td> Técnico em Atividades Administrativas </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Contabilidade </td><td> 09-11 </td><td> A-J </td><td> Técnico em Contabilidade </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Informática </td><td> 09-11 </td><td> A-J </td><td> Técnico em Informática </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Segurança do Trabalho </td><td> 09-11 </td><td> A-J </td><td> Técnico em Segurança do Trabalho </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente em Ativ. Administrativas (Telefonista) </td><td> 05-07 </td><td> A-J </td><td> Telefonista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Atividades de Saúde (Técnico de Laboratório) </td><td> 09-11 </td><td> A-J </td><td> Técnico de Laboratório </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Atividades de Saúde (Técnico em Radiologia) </td><td> 09-11 </td><td> A-J </td><td> Técnico de Radiologia e Imagem </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Atividades de Saúde (Técnico de Enfermagem) </td><td> 09-11 </td><td> A-J </td><td> Técnico em Enfermagem </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Atividades de Saúde (Técnico Auxiliar de Reabilitação e Fisioterapia) </td><td> 09-11 </td><td> A-J </td><td> Técnico em Fisioterapia </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Administrador </td><td> 13-15 </td><td> A-J </td><td> Administrador </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista de Informática </td><td> 13-15 </td><td> A-J </td><td> Analista de Sistemas </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista Técnico Administrativo I </td><td> 12-14 </td><td> A-J </td><td rowspan="2"> Analista Técnico Administrativo </td><td rowspan="2"> 13-16 </td><td rowspan="2"> A-J </td></tr><tr><td> Analista Técnico Administrativo II </td><td> 13-15 </td><td> A-J </td></tr><tr><td> Assistente Social </td><td> 13-15 </td><td> A-J </td><td> Assistente Social </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Bibliotecário </td><td> 13-15 </td><td> A-J </td><td> Bibliotecário </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Bioquímico </td><td> 13-15 </td><td> A-J </td><td> Bioquímico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Contador </td><td> 13-15 </td><td> A-J </td><td> Contador </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Enfermeiro </td><td> 13-15 </td><td> A-J </td><td> Enfermeiro </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Engenheiro </td><td> 13-15 </td><td> A-J </td><td> Engenheiro </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Farmacêutico </td><td> 13-15 </td><td> A-J </td><td> Farmacêutico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Fiscal Sanitarista </td><td> 13-15 </td><td> A-J </td><td> Fiscal Sanitarista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista Técnico Administrativo II (Físico) </td><td> 13-15 </td><td> A-J </td><td> Físico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Fisioterapeuta </td><td> 13-15 </td><td> A-J </td><td> Fisioterapeuta </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Fonoaudiólogo </td><td> 13-15 </td><td> A-J </td><td> Fonoaudiólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista Técnico Administrativo II (Profissional de Educação Física) </td><td> 13-15 </td><td> A-J </td><td rowspan="2"> Profissional de Educação Física </td><td rowspan="2"> 13-16 </td><td rowspan="2"> A-J </td></tr><tr><td> Professor (Profissional de Educação Física) </td><td> 13-15 </td><td> A-J </td></tr><tr><td> Médico </td><td> 13-15 </td><td> A-J </td><td> Médico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Médico Veterinário </td><td> 13-15 </td><td> A-J </td><td> Médico Veterinário </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Nutricionista </td><td> 13-15 </td><td> A-J </td><td> Nutricionista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Cirurgião Dentista </td><td> 13-15 </td><td> A-J </td><td> Odontólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Pedagogo </td><td> 13-15 </td><td> A-J </td><td> Pedagogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Psicólogo </td><td> 13-15 </td><td> A-J </td><td> Psicólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista Técnico Administrativo II (Químico) </td><td> 13-15 </td><td> A-J </td><td> Químico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Sanitarista </td><td> 13-15 </td><td> A-J </td><td> Sanitarista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Terapeuta Ocupacional </td><td> 13-15 </td><td> A-J </td><td> Terapeuta Ocupacional </td><td> 13-16 </td><td> A-J </td></tr></tbody></table>
 
 ANEXO V
 
 LINHA DE CORRELAÇÃO PARA EFEITOS DE APROVEITAMENTO
 
-<table><tbody><tr><td colspan="4"><center>SITUAÇÃO ATUAL</center></td><td colspan="3"><center>SITUAÇÃO NOVA</center></td></tr><tr><td rowspan="80"><p>ANALISTA TÉCNICO EM GESTÃO E PROMOÇÃO DE SAÚDE</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p>&nbsp;</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></td><td><p>COMPETÊNCIA</p></td><td><p>NÍVEL</p></td><td><p>REF.</p></td><td><p>CARGO</p></td><td><p>NÍVEL</p></td><td><p>REF.</p></td></tr><tr><td><p>Agente de Serviços Gerais</p></td><td><p>01-04</p></td><td><p>A-J</p></td><td><p>Agente de Serviços Gerais</p></td><td><p>01-04</p></td><td><p>A-J</p></td></tr><tr><td><p>Copeiro</p></td><td><p>05-08</p></td><td><p>A-J</p></td><td><p>Copeiro</p></td><td><p>05-08</p></td><td><p>A-J</p></td></tr><tr><td><p>Lactarista</p></td><td><p>05-08</p></td><td><p>A-J</p></td><td><p>Lactarista</p></td><td><p>05-08</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente Auxiliar de Saúde Pública</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Agente Auxiliar de Saúde Pública</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente de Manutenção</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Agente de Manutenção</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente de Portaria</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Agente de Portaria</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Agente em Atividades Administrativas</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Agente em Atividades Administrativas</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Atendente de Saúde Pública</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Atendente de Saúde Pública</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Auxiliar de Enfermagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Auxiliar de Enfermagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Auxiliar de Laboratório</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Auxiliar de Laboratório</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Auxiliar de Serviços Hospitalares e Assistenciais</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Auxiliar de Serviços Hospitalares e Assistenciais</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Caldeireiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Caldeireiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Carpinteiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Carpinteiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Costureiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Costureiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Cozinheiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Cozinheiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Eletricista</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Eletricista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Encanador</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Encanador</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Jardineiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Jardineiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Marceneiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Marceneiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Massagista</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Massagista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Mecânico</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Mecânico</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Motorista</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Motorista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Motorista Socorrista</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Motorista Socorrista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Padeiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Padeiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Pedreiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Pedreiro</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Pintor</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Pintor</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Rádio-Operador</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Rádio-Operador</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico Auxiliar de Regulação Médica</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico Auxiliar de Regulação Médica</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico de Radiologia e Imagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico de Radiologia e Imagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Alimentos</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Alimentos</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Atividades Administrativas</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Atividades Administrativas</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Contabilidade</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Contabilidade</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Edificações</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Edificações</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Eletricidade</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Eletricidade</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Eletrônica</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Eletrônica</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Enfermagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Enfermagem</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Fisioterapia</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Fisioterapia</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Higiene Dental</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Higiene Dental</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Imobilização Ortopédica</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Imobilização Ortopédica</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Informática</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Informática</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Instrumentação Cirúrgica</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Instrumentação Cirúrgica</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Laboratório</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Laboratório</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Manutenção de Equipamentos Médicos Hospitalares</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Manutenção de Equipamentos Médicos Hospitalares</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Nutrição</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Nutrição</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Patologia Clínica</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Patologia Clínica</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Prótese e Órtese</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Prótese e Órtese</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Radioterapia</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Radioterapia</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Segurança do Trabalho</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Segurança do Trabalho</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Técnico em Vigilância Sanitária</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Técnico em Vigilância Sanitária</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Telefonista</p></td><td><p>09-12</p></td><td><p>A-J</p></td><td><p>Telefonista</p></td><td><p>09-12</p></td><td><p>A-J</p></td></tr><tr><td><p>Administrador</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Administrador</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista de Sistemas</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Analista de Sistemas</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Analista Técnico Administrativo</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Analista Técnico Administrativo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Arquiteto</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Arquiteto</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Assistente Social</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Assistente Social</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Auditor em Saúde</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Auditor em Saúde</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Bibliotecário</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Bibliotecário</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Biólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Biólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Bioquímico</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Bioquímico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Contador</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Contador</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Economista</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Economista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Enfermeiro</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Enfermeiro</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Engenheiro</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Engenheiro</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Farmacêutico</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Farmacêutico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Fiscal Sanitarista</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Fiscal Sanitarista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Físico</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Físico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Fisioterapeuta</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Fisioterapeuta</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Fonoaudiólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Fonoaudiólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Médico</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Médico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Médico Veterinário</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Médico Veterinário</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Nutricionista</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Nutricionista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Odontólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Odontólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Pedagogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Pedagogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Profissional de Educação Física</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Profissional de Educação Física</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Psicólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Psicólogo</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Químico</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Químico</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Sanitarista</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Sanitarista</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Terapeuta Ocupacional</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Terapeuta Ocupacional</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr><tr><td><p>Terapeuta Ocupacional</p></td><td><p>13-16</p></td><td><p>A-J</p></td><td><p>Terapeuta Ocupacional</p></td><td><p>13-16</p></td><td><p>A-J</p></td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">SITUAÇÃO ATUAL</td><td colspan="3">SITUAÇÃO NOVA</td></tr><tr><td rowspan="80"> ANALISTA TÉCNICO EM GESTÃO E PROMOÇÃO DE SAÚDE &nbsp; </td><td> COMPETÊNCIA </td><td> NÍVEL </td><td> REF. </td><td> CARGO </td><td> NÍVEL </td><td> REF. </td></tr><tr><td> Agente de Serviços Gerais </td><td> 01-04 </td><td> A-J </td><td> Agente de Serviços Gerais </td><td> 01-04 </td><td> A-J </td></tr><tr><td> Copeiro </td><td> 05-08 </td><td> A-J </td><td> Copeiro </td><td> 05-08 </td><td> A-J </td></tr><tr><td> Lactarista </td><td> 05-08 </td><td> A-J </td><td> Lactarista </td><td> 05-08 </td><td> A-J </td></tr><tr><td> Agente Auxiliar de Saúde Pública </td><td> 09-12 </td><td> A-J </td><td> Agente Auxiliar de Saúde Pública </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente de Manutenção </td><td> 09-12 </td><td> A-J </td><td> Agente de Manutenção </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente de Portaria </td><td> 09-12 </td><td> A-J </td><td> Agente de Portaria </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Agente em Atividades Administrativas </td><td> 09-12 </td><td> A-J </td><td> Agente em Atividades Administrativas </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Atendente de Saúde Pública </td><td> 09-12 </td><td> A-J </td><td> Atendente de Saúde Pública </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Auxiliar de Enfermagem </td><td> 09-12 </td><td> A-J </td><td> Auxiliar de Enfermagem </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Auxiliar de Laboratório </td><td> 09-12 </td><td> A-J </td><td> Auxiliar de Laboratório </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Auxiliar de Serviços Hospitalares e Assistenciais </td><td> 09-12 </td><td> A-J </td><td> Auxiliar de Serviços Hospitalares e Assistenciais </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Caldeireiro </td><td> 09-12 </td><td> A-J </td><td> Caldeireiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Carpinteiro </td><td> 09-12 </td><td> A-J </td><td> Carpinteiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Costureiro </td><td> 09-12 </td><td> A-J </td><td> Costureiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Cozinheiro </td><td> 09-12 </td><td> A-J </td><td> Cozinheiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Eletricista </td><td> 09-12 </td><td> A-J </td><td> Eletricista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Encanador </td><td> 09-12 </td><td> A-J </td><td> Encanador </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Jardineiro </td><td> 09-12 </td><td> A-J </td><td> Jardineiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Marceneiro </td><td> 09-12 </td><td> A-J </td><td> Marceneiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Massagista </td><td> 09-12 </td><td> A-J </td><td> Massagista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Mecânico </td><td> 09-12 </td><td> A-J </td><td> Mecânico </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Motorista </td><td> 09-12 </td><td> A-J </td><td> Motorista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Motorista Socorrista </td><td> 09-12 </td><td> A-J </td><td> Motorista Socorrista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Padeiro </td><td> 09-12 </td><td> A-J </td><td> Padeiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Pedreiro </td><td> 09-12 </td><td> A-J </td><td> Pedreiro </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Pintor </td><td> 09-12 </td><td> A-J </td><td> Pintor </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Rádio-Operador </td><td> 09-12 </td><td> A-J </td><td> Rádio-Operador </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico Auxiliar de Regulação Médica </td><td> 09-12 </td><td> A-J </td><td> Técnico Auxiliar de Regulação Médica </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico de Radiologia e Imagem </td><td> 09-12 </td><td> A-J </td><td> Técnico de Radiologia e Imagem </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Alimentos </td><td> 09-12 </td><td> A-J </td><td> Técnico em Alimentos </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Atividades Administrativas </td><td> 09-12 </td><td> A-J </td><td> Técnico em Atividades Administrativas </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Contabilidade </td><td> 09-12 </td><td> A-J </td><td> Técnico em Contabilidade </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Edificações </td><td> 09-12 </td><td> A-J </td><td> Técnico em Edificações </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Eletricidade </td><td> 09-12 </td><td> A-J </td><td> Técnico em Eletricidade </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Eletrônica </td><td> 09-12 </td><td> A-J </td><td> Técnico em Eletrônica </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Enfermagem </td><td> 09-12 </td><td> A-J </td><td> Técnico em Enfermagem </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Fisioterapia </td><td> 09-12 </td><td> A-J </td><td> Técnico em Fisioterapia </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Higiene Dental </td><td> 09-12 </td><td> A-J </td><td> Técnico em Higiene Dental </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Imobilização Ortopédica </td><td> 09-12 </td><td> A-J </td><td> Técnico em Imobilização Ortopédica </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Informática </td><td> 09-12 </td><td> A-J </td><td> Técnico em Informática </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Instrumentação Cirúrgica </td><td> 09-12 </td><td> A-J </td><td> Técnico em Instrumentação Cirúrgica </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Laboratório </td><td> 09-12 </td><td> A-J </td><td> Técnico em Laboratório </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Manutenção de Equipamentos Médicos Hospitalares </td><td> 09-12 </td><td> A-J </td><td> Técnico em Manutenção de Equipamentos Médicos Hospitalares </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Nutrição </td><td> 09-12 </td><td> A-J </td><td> Técnico em Nutrição </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Patologia Clínica </td><td> 09-12 </td><td> A-J </td><td> Técnico em Patologia Clínica </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Prótese e Órtese </td><td> 09-12 </td><td> A-J </td><td> Técnico em Prótese e Órtese </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Radioterapia </td><td> 09-12 </td><td> A-J </td><td> Técnico em Radioterapia </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Segurança do Trabalho </td><td> 09-12 </td><td> A-J </td><td> Técnico em Segurança do Trabalho </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Técnico em Vigilância Sanitária </td><td> 09-12 </td><td> A-J </td><td> Técnico em Vigilância Sanitária </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Telefonista </td><td> 09-12 </td><td> A-J </td><td> Telefonista </td><td> 09-12 </td><td> A-J </td></tr><tr><td> Administrador </td><td> 13-16 </td><td> A-J </td><td> Administrador </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista de Sistemas </td><td> 13-16 </td><td> A-J </td><td> Analista de Sistemas </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Analista Técnico Administrativo </td><td> 13-16 </td><td> A-J </td><td> Analista Técnico Administrativo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Arquiteto </td><td> 13-16 </td><td> A-J </td><td> Arquiteto </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Assistente Social </td><td> 13-16 </td><td> A-J </td><td> Assistente Social </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Auditor em Saúde </td><td> 13-16 </td><td> A-J </td><td> Auditor em Saúde </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Bibliotecário </td><td> 13-16 </td><td> A-J </td><td> Bibliotecário </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Biólogo </td><td> 13-16 </td><td> A-J </td><td> Biólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Bioquímico </td><td> 13-16 </td><td> A-J </td><td> Bioquímico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Contador </td><td> 13-16 </td><td> A-J </td><td> Contador </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Economista </td><td> 13-16 </td><td> A-J </td><td> Economista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Enfermeiro </td><td> 13-16 </td><td> A-J </td><td> Enfermeiro </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Engenheiro </td><td> 13-16 </td><td> A-J </td><td> Engenheiro </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Farmacêutico </td><td> 13-16 </td><td> A-J </td><td> Farmacêutico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Fiscal Sanitarista </td><td> 13-16 </td><td> A-J </td><td> Fiscal Sanitarista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Físico </td><td> 13-16 </td><td> A-J </td><td> Físico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Fisioterapeuta </td><td> 13-16 </td><td> A-J </td><td> Fisioterapeuta </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Fonoaudiólogo </td><td> 13-16 </td><td> A-J </td><td> Fonoaudiólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Médico </td><td> 13-16 </td><td> A-J </td><td> Médico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Médico Veterinário </td><td> 13-16 </td><td> A-J </td><td> Médico Veterinário </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Nutricionista </td><td> 13-16 </td><td> A-J </td><td> Nutricionista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Odontólogo </td><td> 13-16 </td><td> A-J </td><td> Odontólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Pedagogo </td><td> 13-16 </td><td> A-J </td><td> Pedagogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Profissional de Educação Física </td><td> 13-16 </td><td> A-J </td><td> Profissional de Educação Física </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Psicólogo </td><td> 13-16 </td><td> A-J </td><td> Psicólogo </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Químico </td><td> 13-16 </td><td> A-J </td><td> Químico </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Sanitarista </td><td> 13-16 </td><td> A-J </td><td> Sanitarista </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Terapeuta Ocupacional </td><td> 13-16 </td><td> A-J </td><td> Terapeuta Ocupacional </td><td> 13-16 </td><td> A-J </td></tr><tr><td> Terapeuta Ocupacional </td><td> 13-16 </td><td> A-J </td><td> Terapeuta Ocupacional </td><td> 13-16 </td><td> A-J </td></tr></tbody></table>

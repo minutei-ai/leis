@@ -1,5 +1,3 @@
-###DEL-008150-0-000-29-10-1945@@@
-
 DECRETO-LEI N. 8.150 – DE 29 DE OUTUBRO DE 1945
 
 Modifica um dispositivo do Regulamento para o Quadro de Estado-Maior do Exército.

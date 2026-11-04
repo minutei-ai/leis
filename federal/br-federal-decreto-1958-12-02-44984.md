@@ -1,5 +1,3 @@
-###DEC-044984-0-000-02-12-1958@@@
-
 DECRETO Nº 44.984, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theophilo Badim, a pesquisar cassiterita e associados, no Município de Livramento do Brumado, Estado da Bahia.

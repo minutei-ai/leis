@@ -99,5 +99,3 @@ Cristiano Barreto Guimarães
 Secretário Especial de Governo
 
 Iniciativa da Deputada Linda Brasil - PSOL
-
-Este texto não substitui o publicado no D.O.E. de 23.09.2026.

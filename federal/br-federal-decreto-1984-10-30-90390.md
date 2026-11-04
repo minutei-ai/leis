@@ -1,5 +1,3 @@
-###DEC-090390-0-000-30-10-1984@@@
-
 Decreto nº 90.390, de 30 de outubro de 1984
 
 Altera a redação dos arts. 1º e 2º, do Decreto nº 87.396, de 13 de julho de 1982, que declarou de utilidade pública, para fins desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Piraporinha, no Estado de São Paulo.

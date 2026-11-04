@@ -1,5 +1,3 @@
-###DEC-062009-0-000-29-12-1967@@@
-
 DECRETO nº 62.009, DE 29 DE DEZEMBRO DE 1967.
 
 Outorga ao Departamento de Águas e Energia Elétrica do Estado de Minas Gerais concessão para distribuir energia elétrica nos municípios de Barão de Cocais Bom Jesus do Amparo e José de Melo, no Estado de Minas Gerais.

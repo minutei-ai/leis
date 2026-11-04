@@ -1,5 +1,3 @@
-###DEC-069064-0-000-13-08-1971@@@
-
 DECRETO Nº 69.064, de 13 de agôsto de 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 58.354, de 4 de maio de 1966, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Campo Grande", no Município do mesmo nome, Estado de Alagoas.

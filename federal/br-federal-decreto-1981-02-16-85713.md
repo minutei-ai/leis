@@ -1,5 +1,3 @@
-###DEC-085713-0-000-16-02-1981@@@
-
 Decreto nº 85.713, de 16 de fevereiro de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

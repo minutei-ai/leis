@@ -1,5 +1,3 @@
-###DEC-091345-0-000-19-06-1985@@@
-
 Decreto nº 91.345, de 19 de junho de 1985
 
 Dispõe sobre a organização administrativa do Ministério da Cultura.

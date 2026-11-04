@@ -1,5 +1,3 @@
-###DEC-051724-0-000-19-02-1963@@@
-
 DECRETO Nº 51.724, DE 19 DE FEVEREIRO DE 1963.
 
 Estabelece a estruturação básica de Unidades, Estabelecimentos e Serviços Regionais da Aeronáutica e dá outras providências.

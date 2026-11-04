@@ -1,5 +1,3 @@
-###DEC-071596-0-000-21-12-1972@@@
-
 decreto nº 71.596 - de 21 de dezembro de 1972
 
 Dispõe sobre reservas de acidentes não liquidados das Sociedades de Seguros que operavam no Ramo de Acidentes do Trabalho.

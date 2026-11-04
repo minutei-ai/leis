@@ -1,5 +1,3 @@
-###DEC-070107-0-000-03-02-1972@@@
-
 DECRETO Nº 70.107, DE 3 DE FEVEREIRO DE 1972.
 
 Retifica e torna sem efeito redistribuição de cargos para o Quadro de Pessoal das Secretarias do Ministério Público Federal.

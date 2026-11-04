@@ -1,5 +1,3 @@
-###DEC-055427-0-000-31-12-1964@@@
-
 DECRETO Nº 55.427, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia de Pesquisas e Lavras Minerais - Copelmi a lavrar carvão mineral, no município de São Jerônimo, Estado do Rio Grande do Sul.

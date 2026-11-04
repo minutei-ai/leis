@@ -1,5 +1,3 @@
-###DEC-056491-0-000-18-06-1965@@@
-
 DECRETO Nº 56.491, DE 18 DE JUNHO DE 1965.
 
 Abre pelo Ministério da Fazenda, o crédito extraordinário de Cr$300.000.000 (trezentos milhões de cruzeiros) para os fins que específica.

@@ -1,5 +1,3 @@
-###DEC-077060-0-000-20-01-1976@@@
-
 DECRETO Nº 77.060, DE 20 DE JANEIRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS), área de terras que menciona, nos Municípios de Carpina e outros, no Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-081996-0-000-19-07-1978@@@
-
 Decreto nº 81.996, de 19 de julho de 1978.
 
 Aprova o Regulamento da Diretoria de Material da Aeronáutica e dá outras providências.

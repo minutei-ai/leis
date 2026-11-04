@@ -1,5 +1,3 @@
-###DEL-003391-0-000-07-07-1941@@@
-
 DECRETO-LEI N. 3.391 – DE 7 DE JULHO DE 1941
 
 Altera a redação do art. 170 do decreto-lei n. 2,627, de 26 de setembro de 1940

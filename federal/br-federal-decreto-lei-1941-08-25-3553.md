@@ -1,5 +1,3 @@
-###DEL-003553-0-000-25-08-1941@@@
-
 DECRETO-LEI N. 3.553 – DE 25 DE AGOSTO DE 1941
 
 Dá nova redação ao art. 76 do Código de Minas 

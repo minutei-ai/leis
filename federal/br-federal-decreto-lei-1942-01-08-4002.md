@@ -1,5 +1,3 @@
-###DEL-004002-0-000-08-01-1942@@@
-
 DECRETO-LEI N. 4.002 – DE 8 DE JANEIRO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a providenciar a recisão dos contratos que menciona

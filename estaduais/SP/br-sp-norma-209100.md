@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209100)<br>
-
 # DECRETO N° 68.327, DE 06 DE FEVEREIRO DE 2024
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Sorocaba, que declarou Situação de Emergência em áreas do Município._

@@ -1,5 +1,3 @@
-###DEC-069213-0-000-16-09-1971@@@
-
 decreto nº 69.213, de 16 de Setembro de 1971.
 
 Declara de utilidade pública a Escola Doméstica Maria Auxiliadora, com sede em Cuiabá, Estado de Mato Grosso.

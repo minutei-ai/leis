@@ -1,5 +1,3 @@
-###DEC-097411-0-000-26-12-1988@@@
-
 DECRETO N° 97.411, DE 26 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública a instituição que menciona.

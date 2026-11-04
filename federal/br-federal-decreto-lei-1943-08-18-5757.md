@@ -1,5 +1,3 @@
-###DEL-005757-0-000-18-08-1943@@@
-
 DECRETO–LEI N. 5.757 – DE 18 DE AGÔSTO DE 1943
 
 Reduz o interstício para a Promoção dos Capitães de Fragata Farmacêutico do Corpo de Saúde da Armada

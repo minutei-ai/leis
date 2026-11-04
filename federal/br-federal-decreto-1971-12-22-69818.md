@@ -1,5 +1,3 @@
-###DEC-069818-0-000-22-12-1971@@@
-
 decreto nº 69.818 - de 22 DE DEZEMBRO de 1971
 
 Autoriza o funcionamento da Faculdade Ibero-Americana de Letras e Ciências Humanas, em São Paulo, Estado de São Paulo.

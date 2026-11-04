@@ -1,5 +1,3 @@
-###DEC-062146-0-000-19-01-1968@@@
-
 DECRETO Nº 62.146, DE 19 DE JANEIRO DE 1968.
 
 Concede à sociedade E.C. de Witt & Co. Ltd. autorização para continuar a funcionar na República do Brasil.

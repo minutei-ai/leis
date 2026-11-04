@@ -1,5 +1,3 @@
-###DEC-048827-0-000-12-08-1960@@@
-
 DECRETO Nº 48.827, DE 12 DE AGôSTO DE 1960.
 
 Autoriza a Companhia Prada de Eletricidade a ampliar suas instalações de produção de energia elétrica no Estado do Paraná, mediante a montagem de 2 grupo diesel elétricos de 1.100 KVA, cada um, na usina térmica de Sant’Ana.

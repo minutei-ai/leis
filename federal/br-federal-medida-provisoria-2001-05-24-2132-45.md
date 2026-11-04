@@ -1,5 +1,3 @@
-###MPV-002132-0-045-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.132‑45, DE 24 DE MAIO DE 2001.
 
 Altera a legislação do imposto de renda relativamente à incidência na fonte sobre rendimentos de aplicações financeiras, inclusive de beneficiários residentes ou domiciliados no exterior, à conversão, em capital social, de obrigações no exterior de pessoas jurídicas domiciliadas no País, amplia as hipóteses de  opção, pelas pessoas físicas, pelo desconto simplificado, regula a informação, na declaração de rendimentos, de depósitos mantidos em bancos no exterior, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076767-0-000-11-12-1975@@@
-
 decreto nº 76.767, de 11 de dezembro de 1975.
 
 Aprova o Regulamento para a Diretoria de Aeronáutica da Marinha.
@@ -121,8 +119,6 @@ Brasília, 11 de dezembro de 1975.
 Geraldo Azevedo Henning
 
 Ministro da Marinha
-
-###DEC-076767-0-000-11-12-1975@@@
 
 decreto nº 76.767, de 11 de dezembro de 1975.
 

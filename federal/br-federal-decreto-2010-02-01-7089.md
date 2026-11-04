@@ -1,5 +1,3 @@
-###DEC-007089-0-000-01-02-2010@@@
-
 DECRETO Nº 7.089, DE 1º DE FEVEREIRO DE 2010.
 
 Promulga o Acordo Comercial entre o Governo da República Federativa do Brasil e o Governo da República Argelina Democrática e Popular, firmado em Argel, em 8 de fevereiro de 2006.

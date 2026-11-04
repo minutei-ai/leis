@@ -1,5 +1,3 @@
-###DEC-045124-0-000-29-12-1958@@@
-
 Decreto n° 45.124, de 29 de dezembro de 1958.
 
 Autoria a cidadã brasileira Maria Celina Lobato a pesquisar minérios de manganês, de ferro e associados no município de Corumbá, Estado de Mato Grosso.

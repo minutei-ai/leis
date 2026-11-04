@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/74037)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12688-27.09.2007.html)
 
 # LEI N° 12.688, DE 27 DE SETEMBRO DE 2007
@@ -7,8 +6,10 @@
 
 ## (Projeto de lei n° 11, de 2006 da Deputada Analice Fernandes - PSDB)
 
-### _~~Institui o "Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia", a ser comemorado, anualmente, no 4° sábado do mês de abril.~~<br>
-Institui o "Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia". (NR)<br>
+### _~~Institui o "Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia", a ser comemorado, anualmente, no 4° sábado do mês de abril.~~
+
+Institui o "Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia". (NR)
+
 \- Ementa com redação dada pela Lei n° 17.801, de 17/10/2023._
 
 O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA:

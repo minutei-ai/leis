@@ -1,5 +1,3 @@
-###DEC-048133-0-000-20-04-1960@@@
-
 DECRETO Nº 48.133, DE 20 DE ABRIL DE 1960.
 
 Amplia a zona de concessão da Emprêsa Luz e Fôrça Itabapoana Limitada, mediante a inclusão da localidade de Ponte do Itabapoana, no Estado do Espirito Santo.

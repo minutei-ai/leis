@@ -1,5 +1,3 @@
-###DEC-050554-0-000-05-05-1961@@@
-
 Decreto nº 50.554, de 5 de maio de 1961.
 
 Considera de natureza e interêsse militar as funções exercidas por militares no Conselho Nacional de Pesquisas.

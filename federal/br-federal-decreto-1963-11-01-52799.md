@@ -1,5 +1,3 @@
-###DEC-052799-0-000-01-11-1963@@@
-
 Decreto Nº 52.799, DE 1º DE NOVEMBRO DE 1963
 
 Autoriza a concessão gratuito do imóvel que menciona, situado em Bagé, no Estado do Rio Grande do Sul.

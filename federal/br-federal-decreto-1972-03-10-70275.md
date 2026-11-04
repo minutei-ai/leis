@@ -1,5 +1,3 @@
-###DEC-070275-0-000-10-03-1972@@@
-
 DECRETO Nº 70.275, DE 10 DE MARÇO DE 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terrenos necessários à implantação do Projeto de Irrigação do Açude Público Custódia, no município de Custódia, Estado de Pernambuco.

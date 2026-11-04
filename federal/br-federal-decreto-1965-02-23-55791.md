@@ -1,5 +1,3 @@
-###DEC-055791-0-000-23-02-1965@@@
-
 DECRETO Nº 55.791, DE 23 DE FEVEREIRO DE 1965.
 
 Institui, na Escola Superior de Guerra, o Curso de Informações e dá outras providências.

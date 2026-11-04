@@ -1,5 +1,3 @@
-###DEC-068765-0-000-17-06-1971@@@
-
 DECRETO Nº 68.765 - DE 17 DE JUNHO DE 1971.
 
 Revoga o Decreto nº 10.346, de 16 de julho de 1913, que concedeu à emprêsa Julius Pintsch Aktiengeselischaft autorização para funcionar na República Federativa do Brasil.

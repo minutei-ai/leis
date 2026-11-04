@@ -1,5 +1,3 @@
-###DEC-067471-0-000-03-11-1970@@@
-
 DECRETO Nº 67.471, DE 3 DE NOVEMBRO DE 1970.
 
 Autorização para o funcionamento do Curso de Matemática da Faculdade Salesiana de Filosofia, Ciências e Letras de Lorena, S.P.

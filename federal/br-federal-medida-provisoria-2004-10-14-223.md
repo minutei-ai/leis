@@ -1,5 +1,3 @@
-###MPV-000223-0-000-14-10-2004@@@
-
 MEDIDA PROVISÓRIA Nº 223, DE 14 DE OUTUBRO DE 2004
 
 Estabelece normas para o plantio e comercialização da produção de soja geneticamente modificada da safra de 2005, e dá outras providências.

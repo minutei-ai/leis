@@ -1,5 +1,3 @@
-###DEC-067913-0-000-21-12-1970@@@
-
 DECRETO Nº 67.913, DE 21 DE DEZEMBRO DE 1970.
 
 Declara extinto um cargo de Economista do Quadro de Pessoal do Ministério das Relações Exteriores.

@@ -1,5 +1,3 @@
-###DEC-007035-0-000-16-12-2009@@@
-
 DECRETO Nº 7.035, DE 16 DE DEZEMBRO DE 2009.
 
 Altera o Programa de Dispêndios Globais - PDG para 2009, das empresas estatais federais, aprovado pelo Decreto nº 6.647, de 18 de novembro de 2008.

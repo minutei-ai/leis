@@ -1,6 +1,7 @@
 LEI Nº 13.462 DE 10 DE DEZEMBRO DE 2015
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [17.609](https://www.legislabahia.ba.gov.br/documentos/decreto-no-17609-de-18-de-maio-de-2017) de 18 de maio de 2017 - Altera o Decreto nº 17.300, de 26 de dezembro de 2016, e dá outras providências.
 
 Altera a Lei nº 11.631, de 30 de dezembro de 2009, cria o Fundo Estadual de Manutenção das Áreas Industriais da SUDIC - FUNEDIC e dá outras providências.
@@ -29,59 +30,7 @@ j) no âmbito da Superintendência de Desenvolvimento Industrial e Comercial - S
 
 **Art. 2º** \- Fica acrescido o “item 9” ao Anexo II da Lei nº 11.631, de 30 de dezembro de 2009, com a seguinte redação:
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:364.35pt;border-collapse:collapse" width="486"><tbody><tr style="height:35.35pt"><td style="width:17.2pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="23"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="color:black">“9</span></p></td><td style="width:14.25pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="19"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:17.75pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="24"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:11.85pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="16"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="3" style="width:255.2pt;border:solid black 1.0pt;
-  border-right:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="340"><p class="MsoNormal" style="margin-right:2.85pt;text-align:justify;text-justify:
-  inter-ideograph;text-indent:.05pt"><b><span style="color:black">TAXAS PELA PRESTAÇÃO DE SERVIÇOS NA ÁREA DA SECRETARIA DE DESENVOLVIMENTO ECONÔMICO</span></b></p></td><td style="width:48.1pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="64"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="color:black">Valor em R$</span></p></td></tr><tr style="height:35.35pt"><td style="width:17.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="23"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt;color:black">&nbsp;9</span></p></td><td style="width:14.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="19"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt;color:black">1</span></p></td><td style="width:17.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="24"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:11.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="16"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="3" style="width:255.2pt;border-top:none;
-  border-left:solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:
-  none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="340"><p class="MsoNormal" style="margin-right:2.85pt;text-align:justify;text-justify:
-  inter-ideograph;text-indent:.05pt"><span style="font-size:12.0pt;color:black">NO ÂMBITO DA SUDIC E CIS</span></p></td><td style="width:48.1pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:35.35pt" valign="top" width="64"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:49.05pt"><td style="width:17.2pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="23"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt;color:black">&nbsp;9</span></p></td><td style="width:14.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="19"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt;color:black">1</span></p></td><td style="width:17.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="24"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt;color:black">&nbsp;1</span></p></td><td style="width:11.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="16"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:11.9pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="16"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:11.85pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="16"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:231.4pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="309"><p class="MsoNormal" style="margin-right:2.85pt;text-align:justify;text-justify:
-  inter-ideograph;text-indent:.05pt"><span style="font-size:12.0pt;color:black">Taxa mensal devida por empresas localizadas nas áreas dos distritos industriais da Bahia geridos pela </span><span style="color:black">SUDIC e pelo CIS pelo serviço de administração dos distritos industriais, englobando a execução, manutenção, conservação e gestão da&nbsp; infraestrutura e funcionamento destes.</span></p></td><td style="width:48.1pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt;height:49.05pt" valign="top" width="64"><p class="MsoNormal" style="margin-right:4.7pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt;color:black">0,50/por m² de área ocupada</span></p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> “9 </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td colspan="3" valign="top"> **TAXAS PELA PRESTAÇÃO DE SERVIÇOS NA ÁREA DA SECRETARIA DE DESENVOLVIMENTO ECONÔMICO** </td><td valign="top"> Valor em R$ </td></tr><tr><td valign="top"> &nbsp;9 </td><td valign="top"> 1 </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td colspan="3" valign="top"> NO ÂMBITO DA SUDIC E CIS </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> &nbsp;9 </td><td valign="top"> 1 </td><td valign="top"> &nbsp;1 </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Taxa mensal devida por empresas localizadas nas áreas dos distritos industriais da Bahia geridos pela SUDIC e pelo CIS pelo serviço de administração dos distritos industriais, englobando a execução, manutenção, conservação e gestão da&nbsp; infraestrutura e funcionamento destes. </td><td valign="top"> 0,50/por m² de área ocupada </td></tr><tr height="0"></tr></tbody></table>
 
 **revogado Art. 3º** \- A Superintendência de Desenvolvimento Industrial e Comercial - SUDIC e o Centro Industrial do Subaé - CIS ficam autorizados a transferir aos Municípios convenentes e às entidades associativas ou similares a gestão dos distritos industriais, com a finalidade de executar, manter, conservar e administrar a infraestrutura e funcionamento destas áreas.
 

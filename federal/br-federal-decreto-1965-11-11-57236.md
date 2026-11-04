@@ -1,5 +1,3 @@
-###DEC-057236-0-000-11-11-1965@@@
-
 DECRETO Nº 57.236, DE 11 DE NOVEMBRO DE 1965.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

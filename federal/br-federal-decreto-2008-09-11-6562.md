@@ -1,5 +1,3 @@
-###DEC-006562-0-000-11-09-2008@@@
-
 DECRETO Nº 6.562, DE 11 DE SETEMBRO DE 2008.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Ucrânia sobre Cooperação na Área de Turismo, celebrado em Brasília, em 28 de abril de 1999.

@@ -1,5 +1,3 @@
-###DEC-053210-0-000-12-12-1963@@@
-
 DECRETO Nº 53.210, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Álvaro Rodrigues Coelho a pesquisar mica no município de Poté, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-059003-0-000-05-08-1966@@@
-
 DECRETO Nº 59.003, DE 5 DE AGÔSTO DE 1966.
 
 Inclui funções classificadas na Parte Permanente do Quadro de Pessoal do Ministério da Educação e Cultura.

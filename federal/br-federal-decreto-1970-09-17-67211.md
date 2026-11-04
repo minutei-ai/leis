@@ -1,5 +1,3 @@
-###DEC-067211-0-000-17-09-1970@@@
-
 decreto nº 67.211, de 17 de setembro de 1970.
 
 Dá nova redação aos artigos 2º e 3º do Decreto nº 66.881, de 16 de julho de 1970, que dispôs sôbre a inclusão de funções de extranumerário-mensalista na Parte Suplementar da Tabela Única de Extranumerário - Mensalista do Ministério da Fazenda.

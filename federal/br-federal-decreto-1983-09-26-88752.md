@@ -1,5 +1,3 @@
-###DEC-088752-0-000-26-09-1983@@@
-
 Decreto nº 88.752, de 26 de setembro de 1983
 
 Concede à Companhia Siderúrgica Paulista - COSIPA (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

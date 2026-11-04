@@ -1,5 +1,3 @@
-###DEC-050522-0-000-03-05-1961@@@
-
 DECRETO Nº 50.522, DE 3 DE MAIO DE 1961.
 
 Estabelece diretrizes básicas para racionalização, instalação ou ampliação de emprêsas que tenham linhas de fabricação ligadas à indústria mecânica pesada, retifica e consolida o Dec. 46.753, de 26-8-59, e dá outras providências.

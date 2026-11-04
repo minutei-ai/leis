@@ -1,5 +1,3 @@
-###DEC-045533-0-000-03-03-1959@@@
-
 DECRETO Nº 45.533, DE 3 DE MARÇO DE 1959.
 
 Autoriza a concessão de suprimento de recursos, e dá outras providências.

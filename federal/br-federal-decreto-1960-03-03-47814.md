@@ -1,5 +1,3 @@
-###DEC-047814-0-000-03-03-1960@@@
-
 decreto nº 47.814, de 3 de março de 1960.
 
 Autoriza estrangeiro a adquirir, em regime de ocupação, o terreno acrescido de marinha que menciona, no Distrito Federal.

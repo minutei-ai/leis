@@ -1,5 +1,3 @@
-###DEC-002236-0-000-26-05-1997@@@
-
 DECRETO Nº 2.236, DE 26 DE MAIO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.162, de 24 de fevereiro de 1997.

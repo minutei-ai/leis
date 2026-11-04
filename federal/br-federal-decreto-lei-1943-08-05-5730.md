@@ -1,5 +1,3 @@
-###DEL-005730-0-000-05-08-1943@@@
-
 DECRETO‑LEI N. 5.730 –  DE 5 DE AGÔSTO DE 1943
 
 Inclue a cédula de Cr$ 5,00 entre as de que trata o decreto-lei n. 4.791, de 5 de outubro de 1942, e dá outras previdências

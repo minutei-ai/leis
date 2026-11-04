@@ -1,7 +1,3 @@
-1
-
-###MPV-000720-0-000-18-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 720, DE  18 DE NOVEMBRO DE 1994
 
 Dá nova redação ao art. 1º da Lei nº 6.150, de 3 de dezembro de 1974, que dispõe sobre a obrigatoriedade da iodação do sal destinado ao consumo humano, seu controle pelos órgãos sanitários e dá outras providências.

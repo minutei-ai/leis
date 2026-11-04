@@ -1,5 +1,3 @@
-###DEL-006123-0-000-18-12-1943@@@
-
 DECRETO‑LEI N. 6.123 – DE 18 DE DEZEMBRO DE 1943
 
 Cria o 1º Grupo de Aviação de Caça

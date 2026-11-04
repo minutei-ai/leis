@@ -1,5 +1,3 @@
-###DEC-096400-0-000-22-07-1988@@@
-
 DECRETO N° 96.400, DE 22 DE JULHO DE 1988
 
 Aprova o Estatuto da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.

@@ -1,5 +1,3 @@
-###DEC-059972-0-000-10-01-1967@@@
-
 DECRETO Nº 59.972, DE 10 DE JANEIRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situado no Município de Petrópolis, Estado do Rio de Janeiro.

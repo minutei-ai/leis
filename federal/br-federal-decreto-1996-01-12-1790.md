@@ -1,5 +1,3 @@
-###DEC-001790-0-000-12-01-1996@@@
-
 DECRETO Nº 1.790, DE 12 DE JANEIRO DE 1996
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

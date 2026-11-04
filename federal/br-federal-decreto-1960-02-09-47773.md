@@ -1,5 +1,3 @@
-###DEC-047773-0-000-09-02-1960@@@
-
 DECRETO Nº 47.773, DE 9 DE FEVEREIRO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério do Trabalho, Indústria e Comércio.

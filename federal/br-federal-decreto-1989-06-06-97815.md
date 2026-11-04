@@ -1,7 +1,3 @@
-1
-
-###DEC-097815-0-000-06-06-1989@@@
-
 DECRETO N° 97.815, DE 06 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA SÃO PEDRO”, classificado como “latifúndio por exploração”, situado no Município de Guarapuava, no Estado do Paraná, compreendido na zona prioritária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986, e dá outras providências.”

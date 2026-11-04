@@ -1,14 +1,12 @@
-###DEC-057744-0-000-03-02-1966@@@
+**DECRETO Nº 57.744, DE 3 DE FEVEREIRO DE 1966.**
 
-<strong>DECRETO Nº 57.744, DE 3 DE FEVEREIRO DE 1966.</strong>
+***Regulamenta o regime de tempo integral e dedicação exclusiva previsto nos arts. 11 e 12 da Lei nº 4.345, de 26 de junho de 1964, e no art. 7º da Lei nº 4.863, de 29 de novembro de 1965.***
 
-<em><strong>Regulamenta o regime de tempo integral e dedicação exclusiva previsto nos arts. 11 e 12 da Lei nº 4.345, de 26 de junho de 1964, e no art. 7º da Lei nº 4.863, de 29 de novembro de 1965.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O regime de tempo integral e dedicação exclusiva poderá ser aplicado, no interêsse da administração e nos têrmos dêste Regulamento:
+**Art**. 1º O regime de tempo integral e dedicação exclusiva poderá ser aplicado, no interêsse da administração e nos têrmos dêste Regulamento:
 
 a) aos ocupantes de cargos de magistério, à vista de provadas necessidades de ensino e da cadeira, verificada, prèviamente, a viabilidade da medida, em face das instalações disponíveis e outras condições de trabalho de estabelecimento de ensino, com a ressalva constante do § 2º dêste artigo.
 
@@ -28,7 +26,7 @@ g) a ocupantes de cargos que compreendam funções técnicas de nível médio - 
 
 § 2º O regime de tempo integral e dedicação exclusiva de que trata êste decreto não se aplica aos membros do corpo docente e do magistério superior, regido pela Lei nº 4.881-A, de 6 de dezembro de 1965.
 
-<strong>Art</strong>. 2º Ao funcionário sujeito a regime de tempo integral e dedicação exclusiva é proibido exercer cumulativamente outro cargo, função, profissão ou emprêgo, público ou particular.
+**Art**. 2º Ao funcionário sujeito a regime de tempo integral e dedicação exclusiva é proibido exercer cumulativamente outro cargo, função, profissão ou emprêgo, público ou particular.
 
 Parágrafo único. Não se compreendem na proibição dêste artigo:
 
@@ -40,23 +38,23 @@ III - a pretação de assistência não remunerada a outros órgãos do serviço
 
 IV - a participação eventual, sem caráter empregatício, em atividades didáticas de seminários, conferências e outras semelhantes, bem como a ministração de ensino especializado, em cursos temporários de estabelecimento oficial de nível superior, comprovada a carência de especialistas do mesmo ramo.
 
-<strong>Art</strong>. 3º O regime de tempo integral e dedicação exclusiva será aplicado por iniciativa e no interêsse da administração.
+**Art**. 3º O regime de tempo integral e dedicação exclusiva será aplicado por iniciativa e no interêsse da administração.
 
 Parágrafo único. O funcionário, desde que colocado em regime de tempo integral e dedicação exclusiva, fica sujeito, em caráter obrigatório, às normas que lhe são inerentes, ressalvado o direito de opção, prévia e expressamente exercitado, pelo regime de tempo parcial.
 
-<strong>Art</strong>. 4º Os ocupantes de cargos ou funções de direção, chefia ou assessoramento sòmente poderão optar pelo regime de tempo parcial quando houver impedimento legal à sua inclusão no regime de tempo integral e dedicação exclusiva ou quando invocarem motivos justos, a juízo do Ministro de Estado ou do dirigente da autarquia ou do órgão diretamente subordinado ao Presidente da República, sob cujas ordens servirem.
+**Art**. 4º Os ocupantes de cargos ou funções de direção, chefia ou assessoramento sòmente poderão optar pelo regime de tempo parcial quando houver impedimento legal à sua inclusão no regime de tempo integral e dedicação exclusiva ou quando invocarem motivos justos, a juízo do Ministro de Estado ou do dirigente da autarquia ou do órgão diretamente subordinado ao Presidente da República, sob cujas ordens servirem.
 
-<strong>Art</strong>. 5º O pessoal burocrático, auxiliar ou subalterno, cuja atividade seja indispensável ao funcionamento de setor de trabalho em regime de tempo integral e dedicação exclusiva, poderá ser submetido a serviço em horas extraordinárias, pelo prazo e no horário que se fizerem necessários, percebendo gratificação por hora de trabalho, calculada na razão de 1/6 do vencimento diário, até o limite mensal de 40% do vencimento.
+**Art**. 5º O pessoal burocrático, auxiliar ou subalterno, cuja atividade seja indispensável ao funcionamento de setor de trabalho em regime de tempo integral e dedicação exclusiva, poderá ser submetido a serviço em horas extraordinárias, pelo prazo e no horário que se fizerem necessários, percebendo gratificação por hora de trabalho, calculada na razão de 1/6 do vencimento diário, até o limite mensal de 40% do vencimento.
 
 Parágrafo único. Em se tratando de serviço extraordinário noturno a gratificação será acrescida de 25% (vinte por cento).
 
-<strong>Art</strong>. 6º O regime de tempo integral e dedicação exclusiva obriga ao mínimo de 40 (quarenta) horas semanais de trabalho, sem prejuízo de ficar o funcionário à disposição do órgão em que estiver sendo exercido, sempre que as necessidades do serviço o exigirem.
+**Art**. 6º O regime de tempo integral e dedicação exclusiva obriga ao mínimo de 40 (quarenta) horas semanais de trabalho, sem prejuízo de ficar o funcionário à disposição do órgão em que estiver sendo exercido, sempre que as necessidades do serviço o exigirem.
 
 Parágrafo único. Em se tratando de atividade de magistério, o período de trabalho, previsto na legislação específica, será acrescido de, no mínimo 6 (seis) horas semanais.
 
-<strong>Art</strong>. 7º A gratificação de tempo integral inclui-se entre as vantagens compreendidas no teto estabelecido no artigo 13 da Lei 4.863, de 29 de novembro de 1965, o qual não poderá ser ultrapassado, em caso algum, em conseqüência da aplicação do regime de que trata êste Regulamento.
+**Art**. 7º A gratificação de tempo integral inclui-se entre as vantagens compreendidas no teto estabelecido no artigo 13 da Lei 4.863, de 29 de novembro de 1965, o qual não poderá ser ultrapassado, em caso algum, em conseqüência da aplicação do regime de que trata êste Regulamento.
 
-<strong>Art</strong>. 8º O funcionário em regime de tempo integral e dedicação exclusiva perceberá gratificação básica de 40% (quarenta por cento), que poderá ser acrescida das seguintes parcelas em função das respectivas atribuições:
+**Art**. 8º O funcionário em regime de tempo integral e dedicação exclusiva perceberá gratificação básica de 40% (quarenta por cento), que poderá ser acrescida das seguintes parcelas em função das respectivas atribuições:
 
 a) até 20% (vinte por cento), pela essencialidade;
 
@@ -82,7 +80,7 @@ II - de 20% (vinte por cento) a 40% (quarenta por cento), quando em exercício e
 
 § 4º Ressalvado o disposto no parágrafo anterior, o funcionário sob regime de tempo integral e dedicação exclusiva não fará jus a gratificações por serviço extraordinário e pelo exercício em determinadas zonas ou locais, nem às gratificações de produtividade e de representação de gabinete, ou a quaisquer outra vantagens pecuniárias que visem a retribuir condições de trabalho já compensadas pela gratificação correspondente àquela regime.
 
-<strong>Art</strong>. 9º A ausência ao serviço acarretará descontos, correspondentes aos dias de falta, na gratificação pelo exercício em regime de tempo integral e dedicação exclusiva, excetuados apenas os seguintes casos;
+**Art**. 9º A ausência ao serviço acarretará descontos, correspondentes aos dias de falta, na gratificação pelo exercício em regime de tempo integral e dedicação exclusiva, excetuados apenas os seguintes casos;
 
 a) férias;
 
@@ -94,25 +92,25 @@ d) júri e serviço eleitoral por prazo não excedente de 30 dias, no período i
 
 e) licença decorrente de acidente em serviço ou de doença profissional.
 
-<strong>Art</strong>. 10. A gratificação pelo exercício em regime de tempo integral e dedicação exclusiva será considerada, para efeito do cálculo de provento de aposentadoria, à razão de 1/30 (um trinta avos) por ano de efetiva permanência nêsse regime.
+**Art**. 10. A gratificação pelo exercício em regime de tempo integral e dedicação exclusiva será considerada, para efeito do cálculo de provento de aposentadoria, à razão de 1/30 (um trinta avos) por ano de efetiva permanência nêsse regime.
 
 Parágrafo único. O funcionário que ocupar mais de um cargo mediante acumulação legalmente permitida, e estiver submetido ao regime de tempo integral e dedicação exclusiva, poderá, ao passar à inatividade, optar pela situação que mais lhe convier, observado o disposto neste artigo, sendo vedada a acumulação dos benefícios de ambos os regimes, a qualquer título.
 
-<strong>Art</strong>. 11. O funcionário colocado em regime de tempo integral e dedicação exclusiva assinará têrmo de compromisso em que declare vincular-se no regime, obrigando-se a cumprir as condições ao mesmo inerentes, fazendo jus aos seus benefícios sòmente enquanto nele permanecer.
+**Art**. 11. O funcionário colocado em regime de tempo integral e dedicação exclusiva assinará têrmo de compromisso em que declare vincular-se no regime, obrigando-se a cumprir as condições ao mesmo inerentes, fazendo jus aos seus benefícios sòmente enquanto nele permanecer.
 
 § 1º No caso de funcionário que esteja acumulando cargos, constará do têrmo de compromisso declaração expressa do cumprimento do disposto no artigo 12 e seu § 1º dêste decreto.
 
 § 2º A primeira via do têrmo de compromisso, depois de registrada no setor financeiro respectivo, será arquivada no órgão central de pessoal, com os assentamentos do funcionário, a segunda via será mantida na repartição de origem e a terceira via será encaminhada à Comissão de Tempo Integral, juntamente com a cópia de Portaria a que se refere o § 2º do artigo 17.
 
-<strong>Art</strong>. 12.O funcionário que se achar legalmente acumulando e fôr colocado em regime de tempo integral em razão de um dos cargos, será automàticamente afastado do outro, com perda do respectivo vencimento e demais vantagens financeiras, a partir da data em que assinar o têrmo de compromisso.
+**Art**. 12.O funcionário que se achar legalmente acumulando e fôr colocado em regime de tempo integral em razão de um dos cargos, será automàticamente afastado do outro, com perda do respectivo vencimento e demais vantagens financeiras, a partir da data em que assinar o têrmo de compromisso.
 
 § 1º Na hipótese prevista neste artigo e quando o funcionário ocupar o cargo de provimento em comissão, em razão do qual tenha sido submetido ao regime de tempo integral, ficará automàticamente afastado do cargo ou cargos que vinha exercendo antes daquela investidura, com perda dos respectivos vencimentos e demais vantagens financeiras.
 
 § 2º Cessada a sujeição do funcionário ao regime de tempo integral, reassumirá êle, automàticamente, o cargo ou cargos dos quais houver sido afastado, observadas as disposições legais sôbre a reassunção do exercício.
 
-<strong>Art</strong>. 13. Caberá à Comissão de Tempo Integral (COTIDE), subordinada ao Diretor-Geral, do Departamento Administrativo do Serviço Público, zelar pela fiel aplicação do regime de tempo integral e dedicação exclusiva, ressalvada a do pessoal pertencente ao magistério superior, regida pelas normas constantes do respectivo Estatuto.
+**Art**. 13. Caberá à Comissão de Tempo Integral (COTIDE), subordinada ao Diretor-Geral, do Departamento Administrativo do Serviço Público, zelar pela fiel aplicação do regime de tempo integral e dedicação exclusiva, ressalvada a do pessoal pertencente ao magistério superior, regida pelas normas constantes do respectivo Estatuto.
 
-§ 1º Com a ressalva consignada neste artigo, e a do pessoal pertencente aos institutos de pesquisa científica ou tecnológica, cuja supervisão incumbirá ao Conselho Nacional de Pesquisas, a COTIDE, com fundamento nos princípios legais ou regulamentares, fixará critérios, expedirá instruções e exercerá supervisão, fiscalização e contrôle permanentes, sôbre a execução do regime de tempo integral e dedicação exclusiva, podendo ouvir diretamente pessoas ou órgãos especializados e realizar, periòdicamente, verificações <em>in</em> <em>loco</em>.
+§ 1º Com a ressalva consignada neste artigo, e a do pessoal pertencente aos institutos de pesquisa científica ou tecnológica, cuja supervisão incumbirá ao Conselho Nacional de Pesquisas, a COTIDE, com fundamento nos princípios legais ou regulamentares, fixará critérios, expedirá instruções e exercerá supervisão, fiscalização e contrôle permanentes, sôbre a execução do regime de tempo integral e dedicação exclusiva, podendo ouvir diretamente pessoas ou órgãos especializados e realizar, periòdicamente, verificações *inloco*.
 
 § 2º Das decisões da COTIDE caberá recurso ao Diretor-Geral do Departamento Administrativo do Serviço Público (DASP).
 
@@ -120,7 +118,7 @@ Parágrafo único. O funcionário que ocupar mais de um cargo mediante acumulaç
 
 § 4º Fica a Comissão de Tempo Integral classificada na Categoria B, com o máximo de 8 (oito) sessões mensais, remuneradas, nos têrmos do Decreto número 55.090, de 28 de novembro de 1964.
 
-<strong>Art</strong>. 14. A doação do regime de tempo integral e dedicação exclusiva será de iniciativa do chefe da repartição interessada, mediante proposta fundamentada, que deverá conter:
+**Art**. 14. A doação do regime de tempo integral e dedicação exclusiva será de iniciativa do chefe da repartição interessada, mediante proposta fundamentada, que deverá conter:
 
 a) programa de trabalho a ser executado nesse regime e respectiva justificação;
 
@@ -134,7 +132,7 @@ c) a relação de pessoal burocrático, auxiliar e subalterno, que deva se subme
 
 § 3º Nos órgãos diretamente subordinados ao Presidente da República, observados no que couber, os trâmites dos parágrafos anteriores, caberá aos respectivos dirigentes submeter o programa à aprovação presidencial.
 
-<strong>Art</strong>. 15. Os programas de trabalho previstos no artigo anterior serão acompanhados de uma tabela numérica para cada Ministério, órgão diretamente subordinado ao Presidente da República ou autarquias.
+**Art**. 15. Os programas de trabalho previstos no artigo anterior serão acompanhados de uma tabela numérica para cada Ministério, órgão diretamente subordinado ao Presidente da República ou autarquias.
 
 § 1º Constarão obrigatòriamente da tabela os seguintes elementos discriminados em relação a cada repartição:
 
@@ -152,11 +150,11 @@ c) demonstração da despesa mensal e anual por grupos de cargos e funções da 
 
 § 5º Os programas e tabelas dos Ministérios e demais órgão que não observarem o prazo estabelecido no § 2º dêste artigo não serão objeto de exame enquanto não estiverem aprovados pelo Presidente da República os que tenham sido tempestivamente apresentados.
 
-<strong>Art</strong>. 16. As tabelas a que se refere o artigo anterior, depois de aprovadas e publicadas, vigorarão por tempo indeterminado, podendo ser previstas por iniciativa do Ministério ou órgão interessado.
+**Art**. 16. As tabelas a que se refere o artigo anterior, depois de aprovadas e publicadas, vigorarão por tempo indeterminado, podendo ser previstas por iniciativa do Ministério ou órgão interessado.
 
 Parágrafo único. A revisão prevista neste artigo poderá ser total ou parcial e observará os prazos estabelecidos nos §§ 2º e 4º do artigo anterior, bem como, no que couber, as normas de processamento nêle indicadas.
 
-<strong>Art</strong>. 17. Após a publicação das tabelas numéricas aprovadas, a aplicação do regimento de tempo integral e dedicação exclusiva, aos funcionários será determinada mediante Portaria do Ministro de Estado, do dirigente do órgão autárquico ou diretamente subordinado ao Presidente da República.
+**Art**. 17. Após a publicação das tabelas numéricas aprovadas, a aplicação do regimento de tempo integral e dedicação exclusiva, aos funcionários será determinada mediante Portaria do Ministro de Estado, do dirigente do órgão autárquico ou diretamente subordinado ao Presidente da República.
 
 § 1º Constarão obrigatòriamente da Portaria:
 
@@ -166,7 +164,7 @@ b) os percentuais e valôres das respectivas gratificações mensais.
 
 § 2º Cópia autenticada da Portaria, depois de oficialmente publicada, será encaminhada obrigatòriamente à COTIDE, para fins de contrôle.
 
-<strong>Art</strong>. 18. O regime de tempo integral e dedicação exclusiva vigora a partir da assinatura do têrmo de compromisso a que se refere o artigo 11, o qual deverá ser assinado no prazo de 30 (trinta) dias contados da data da Portaria prevista no art. 17.
+**Art**. 18. O regime de tempo integral e dedicação exclusiva vigora a partir da assinatura do têrmo de compromisso a que se refere o artigo 11, o qual deverá ser assinado no prazo de 30 (trinta) dias contados da data da Portaria prevista no art. 17.
 
 § 1º Se o funcionário estiver legalmente afastado do exercício do cargo ou função, o prazo de 30 (trinta) dias correrá a partir da data em que se verificar a reassunção.
 
@@ -174,7 +172,7 @@ b) os percentuais e valôres das respectivas gratificações mensais.
 
 § 3º Será suspenso, até a assinatura do têrmo de compromisso, o pagamento dos vencimentos dos funcionários que tenha omitido essa formalidade sem haver exercido o direito de opção pelo regime de tempo parcial na devida oportunidade.
 
-<strong>Art</strong>. 19. O regime de tempo integral e dedicação exclusiva cessará:
+**Art**. 19. O regime de tempo integral e dedicação exclusiva cessará:
 
 a) automàticamente, na conclusão da tarefa, quando houver sido instituído para a realização de trabalho certo e determinado;
 
@@ -184,51 +182,51 @@ c) a requerimento do funcionário por justa causa, a juízo das autoridades menc
 
 Parágrafo único. A cessação do regime, em qualquer dos casos, será objeto de Portaria declaratória.
 
-<strong>Art</strong>. 20. Verificada em processo administrativo a infringência do compromisso decorrente do regime de tempo integral e dedicação, o funcionário ficará sujeito à pena de demissão, a bem do serviço público, sem prejuízo da responsabilidade criminal e civil.
+**Art**. 20. Verificada em processo administrativo a infringência do compromisso decorrente do regime de tempo integral e dedicação, o funcionário ficará sujeito à pena de demissão, a bem do serviço público, sem prejuízo da responsabilidade criminal e civil.
 
 § 1º A COTIDE, tendo ciência ou notícia de irregularidade que exija investigação, poderá promover a suspensão do regime de tempo integral e dedicação exclusiva em qualquer setor de trabalho ou com referência a grupos de funcionários ou a qualquer funcionário isoladamente, até definitiva apuração dos fatos em processo administrativo.
 
 § 2º Os chefes de serviço que se omitirem na fiscalização e repressão de irregularidade certificadas na execução do regime de tempo integral e dedicação exclusiva, nos respectivos setores, responderão, conjuntamente com os infratores, nos processos administrativo, civil e penal cabíveis.
 
-<strong>Art</strong>. 21. A COTIDE será designada e instalada no prazo de 30 (trinta) dias contados da publicação dêste decreto e requisitará, nos têrmos da legislação em vigor, os servidores necessários ao imediato início das suas atividades e à execução de suas atribuições.
+**Art**. 21. A COTIDE será designada e instalada no prazo de 30 (trinta) dias contados da publicação dêste decreto e requisitará, nos têrmos da legislação em vigor, os servidores necessários ao imediato início das suas atividades e à execução de suas atribuições.
 
 § 1º Recebida a requisição, o chefe da repartição ou serviço providenciará a imediata apresentação do servidor, dando prosseguimento, em seguida, ao respectivo processo, para que a matéria seja submetida à decisão final do Presidente da República.
 
 § 2º Quando se tratar de servidor considerado imprescindível ao órgão em que fôr lotado, o respectivo chefe poderá sustar a apresentação, dando ciência à COTIDE e submetendo o processo, com a devida justificação e em caráter de urgência, à decisão superior.
 
-<strong>Art</strong>. 22. Os membros da COTIDE e os servidores requisitados na forma do artigo anterior poderão ser submetidos ao regime de tempo integral e dedicação exclusiva ou à prestação de serviço em horas extraordinárias de conformidade com o artigo 5º dêste decreto.
+**Art**. 22. Os membros da COTIDE e os servidores requisitados na forma do artigo anterior poderão ser submetidos ao regime de tempo integral e dedicação exclusiva ou à prestação de serviço em horas extraordinárias de conformidade com o artigo 5º dêste decreto.
 
 Parágrafo único. O regime de tempo integral e dedicação exclusiva, e o serviço em horas extraordinárias poderão ser interrompidos, a juízo da COTIDE, nos períodos em que não haja necessidade de sua manutenção.
 
 Disposições Transitórias
 
-<strong>Art</strong>. 23. No corrente ano, os Ministros de Estado e os dirigentes de autarquias e de órgãos diretamente subordinados ao Presidente da República farão organizar, sob sua mediata supervisão, um programa sintético de trabalhos que devem ser realizados no regime de tempo integral e dedicação exclusiva, com indicação do número de funcionários a ser utilizado e estimativa da despesa.
+**Art**. 23. No corrente ano, os Ministros de Estado e os dirigentes de autarquias e de órgãos diretamente subordinados ao Presidente da República farão organizar, sob sua mediata supervisão, um programa sintético de trabalhos que devem ser realizados no regime de tempo integral e dedicação exclusiva, com indicação do número de funcionários a ser utilizado e estimativa da despesa.
 
 Parágrafo único. O programa discriminará o pessoal a ser colocado no regime pela respectiva especialização e natureza das atribuições, indicando os que estejam em exercício de cargos ou funções de direção, chefia, assessoramento e de gabinete propondo as percentagens a serem atribuídas a cada categoria, observados os critérios estabelecidos neste decreto.
 
-<strong>Art</strong>. 24 Os programas e propostas mencionadas no artigo anterior deverão ser encaminhados à COTIDE até 31 de março do corrente ano, improrrogàvelmente.
+**Art**. 24 Os programas e propostas mencionadas no artigo anterior deverão ser encaminhados à COTIDE até 31 de março do corrente ano, improrrogàvelmente.
 
 § 1º Os Ministérios poderão encaminhar de per si e à medida que forem elaborados, programas departamentais, providenciando, entretanto, para que todos os programas da Secretaria de Estado sejam presentes à COTIDE até a data fixada neste artigo.
 
 § 2º Os programas e propostas recebidos depois de 31 de março do corrente ano terão seu estudo sobrestado e não serão submetidos ao Presidente da República enquanto não estiverem aprovados todos os que tenham sido apresentados tempestivamente.
 
-<strong>Art</strong>. 25 A COTIDE estudará os programas e propostas na forma do § 3º do artigo 15, submetendo-os, em conjunto, ao Presidente da República, por intermédio do Diretor-Geral do DASP, até o dia 30 de abril subseqüente.
+**Art**. 25 A COTIDE estudará os programas e propostas na forma do § 3º do artigo 15, submetendo-os, em conjunto, ao Presidente da República, por intermédio do Diretor-Geral do DASP, até o dia 30 de abril subseqüente.
 
-<strong>Art</strong>. 26. Aprovados os programas, caberá aos Ministros de Estado e dirigentes de autarquias ou órgão diretamente subordinados ao Presidente da República promover a implantação do regime de tempo integral e dedicação exclusiva nos órgãos sob sua jurisdição, observado o disposto nos artigos 17 e 18 dêste decreto.
+**Art**. 26. Aprovados os programas, caberá aos Ministros de Estado e dirigentes de autarquias ou órgão diretamente subordinados ao Presidente da República promover a implantação do regime de tempo integral e dedicação exclusiva nos órgãos sob sua jurisdição, observado o disposto nos artigos 17 e 18 dêste decreto.
 
-<strong>Art</strong>. 27. Os programas de trabalho do corrente ano vigorarão até 31 de dezembro, improrrogàvelmente, sendo obrigatório, para o exercício de 1967, o cumprimento do disposto nos artigos 14, 15 e 17 dêste decreto.
+**Art**. 27. Os programas de trabalho do corrente ano vigorarão até 31 de dezembro, improrrogàvelmente, sendo obrigatório, para o exercício de 1967, o cumprimento do disposto nos artigos 14, 15 e 17 dêste decreto.
 
-<strong>Art</strong>. 28. Dentro do prazo de 30 dias, a contar da sua instalação, a COTIDE elaborará instruções, a serem submetidas à aprovação do Presidente da República, estabelecendo, para os efeitos do artigo 8º dêste Regulamento, as normas e critérios para aferição da essencialidade, complexidade e grau de responsabilidade de atribuições para investigação das condições do mercado de trabalho e conseqüentes dificuldades de recrutamento para determinados cargos.
+**Art**. 28. Dentro do prazo de 30 dias, a contar da sua instalação, a COTIDE elaborará instruções, a serem submetidas à aprovação do Presidente da República, estabelecendo, para os efeitos do artigo 8º dêste Regulamento, as normas e critérios para aferição da essencialidade, complexidade e grau de responsabilidade de atribuições para investigação das condições do mercado de trabalho e conseqüentes dificuldades de recrutamento para determinados cargos.
 
-<strong>Art</strong>. 29. No corrente exercício, as despesas com a execução dêste decreto serão atendidas pelas dotações orçamentárias próprias e, no caso de insuficiência, pelo crédito especial previsto no artigo 30 da Lei nº 4.863, de 29 de novembro de 1965.
+**Art**. 29. No corrente exercício, as despesas com a execução dêste decreto serão atendidas pelas dotações orçamentárias próprias e, no caso de insuficiência, pelo crédito especial previsto no artigo 30 da Lei nº 4.863, de 29 de novembro de 1965.
 
 Parágrafo único - As despesas de instalação e de funcionamento da COTIDE serão feitas à conta do crédito a que se refere êste artigo.
 
-<strong>Art</strong>. 30. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 30. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 3 de fevereiro de 1966; 145º da Independência e 78º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Mem de Sá
 

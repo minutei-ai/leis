@@ -1,5 +1,3 @@
-###DEC-071416-0-000-21-11-1972@@@
-
 Decreto nº 71.416 - de 21 de novembro de 1972.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, área de terras situada no município de Pelotas, Estado do Rio Grande do Sul.

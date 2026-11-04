@@ -1,5 +1,3 @@
-###DEC-091569-0-000-23-08-1985@@@
-
 Decreto nº 91.569, de 23 de agosto de 1985
 
 Renova a concessão outorgada à FUNDAÇÃO ISAEC DE COMUNICAÇÃO, para explorar serviço de radiodifusão sonora em onda média, na cidade de Blumenau, Estado de Santa Catarina.

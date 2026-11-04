@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210677)<br>
-
 # DECRETO N° 69.384, DE 26 DE FEVEREIRO DE 2025
 
 ### _Autoriza a outorga de uso, ao Município de Bauru, de parte do imóvel que especifica, e dá providências correlatas._

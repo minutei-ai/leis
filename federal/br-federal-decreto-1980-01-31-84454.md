@@ -1,5 +1,3 @@
-###DEC-084454-0-000-31-01-1980@@@
-
 DECRETO Nº 84.454, DE 31 DE JANEIRO DE 1980
 
 Dispõe sobre a Estrutura Básica da Administração do Território Federal de Rondônia e dá outras providências.

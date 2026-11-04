@@ -1,5 +1,3 @@
-###DEC-091050-0-000-06-03-1985@@@
-
 DECRETO Nº 91.050, DE 06 DE MARÇO DE 1985
 
 Outorga concessão à RÁDIO E TELEVISÃO ALBUQUERQUE LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Carazinho, Estado do Rio Grande do Sul.

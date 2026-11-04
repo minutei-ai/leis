@@ -1,5 +1,3 @@
-###DEC-056746-0-000-17-08-1965@@@
-
 DECRETO Nº 56.746, DE 17 DE AGôSTO DE 1965.
 
 Concede autorização para funcionar como empresa de energia elétrica à Empresa Hidro Elétrica São José Limitada.

@@ -1,5 +1,3 @@
-###DEC-058931-0-000-29-07-1966@@@
-
 DECRETO Nº 58.931, de 29 de julho de 1966.
 
 Ministério da Fazenda - Abre o crédito especial de Cr$30.684.172, para pagamento de quotas federais aos municípios de Ouro Branco, Branquinha, Jaramataia e Carneiros, no Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-081544-0-000-10-04-1978@@@
-
 Decreto nº 81.544, de 10 de abril de 1978
 
 Concedo à Terracal - Calcário Terrafértil Ltda. o direito de lavrar dolomito no Município de Paracatu, Estado de Minas Gerais.

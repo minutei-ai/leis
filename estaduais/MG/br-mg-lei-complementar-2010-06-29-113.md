@@ -533,7 +533,3 @@ ANEXO III
 TABELA DE CORRELAçãO DA CARREIRA DE INVESTIGADOR DE POLíCIA
 
 Situação anterior à publicação desta lei Situação posterior à publicação desta lei Carreira Nível Carreira Nível Auxiliar de Necropsia I Investigador de Polícia II T Auxiliar de Necropsia II Investigador de Polícia II T Auxiliar de Necropsia III Investigador de Polícia II T Auxiliar de Necropsia Especial Investigador de Polícia II I Agente de Polícia T Investigador de Polícia II T Agente de Polícia I Investigador de Polícia II I Agente de Polícia II Investigador de Polícia II II Agente de Polícia III Investigador de Polícia II III Agente de Polícia Especial Investigador de Polícia II Especial
-
-\=================
-
-Data da última atualização: 11/11/2013.

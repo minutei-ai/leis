@@ -1,7 +1,3 @@
-1
-
-###DEC-099118-0-000-09-03-1990@@@
-
 DECRETO Nº 99.118, DE 9 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Humanas do Vale do Rio Grande.

@@ -1,5 +1,3 @@
-###DEC-097591-0-000-22-03-1989@@@
-
 DECRETO N° 97.591, DE 22 DE MARçO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Tecnologia em São Paulo.

@@ -1,5 +1,3 @@
-###DEC-062081-0-000-08-01-1968@@@
-
 DECRETO Nº 62.081, DE 8 DE JANEIRO DE 1968.
 
 Retifica o Decreto nº 59.301, de 23 de setembro de 1966.

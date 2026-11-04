@@ -1,5 +1,3 @@
-###DEC-089338-0-000-31-01-1984@@@
-
 Decreto nº 89.338 de 31 de janeiro de 1984
 
 Revoga a Portaria nº 544, de 16 de outubro de 1940, que outorgou concessão à FUNDAÇÃO PANDIÁ CALÓGERAS - Universidade Mineira de Rádio e TV Educativos - RÁDIO INCONFIDÊNCIA, posteriormente transferido à RADIO INCONFIDÊNCIA LTDA., através do Decreto nº 86.332, de 02 de setembro de 1981, para explorar serviço de radiodifusão sonora em onda curta, na cidade de Belo Horizonte, Estado de Minas Gerais.

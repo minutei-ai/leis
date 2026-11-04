@@ -1,5 +1,3 @@
-###DEC-067308-0-000-01-10-1970@@@
-
 DECRETO Nº 67.308, DE 1 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 38.575, de 16 de janeiro de 1956.

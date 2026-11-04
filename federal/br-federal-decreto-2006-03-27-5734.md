@@ -1,5 +1,3 @@
-###DEC-005734-0-000-27-03-2006@@@
-
 DECRETO Nº 5.734, DE 27 DE MARÇO DE 2006.
 
 Dá nova redação ao inciso I do art. 1o do Decreto no 72.021, de 28 de março de 1973, e revoga o Decreto nº 1.125, de 2 de maio de 1994, que cria a Missão Naval Brasileira na Namíbia.

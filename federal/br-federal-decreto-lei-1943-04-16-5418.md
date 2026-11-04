@@ -1,5 +1,3 @@
-###DEL-005418-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.418 – DE 16 DE ABRIL DE 1943
 
 Abre, ao Ministério da Agricultura, o crédito especial de Cr$ 41.200,00 parapagamento de contribuições devidas ao Instituto de Aposentadoria e Pensões dos Industriários.

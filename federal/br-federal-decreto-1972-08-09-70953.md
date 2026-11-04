@@ -1,5 +1,3 @@
-###DEC-070953-0-000-09-08-1972@@@
-
 DECRETO Nº 70.953, de 9 de Agosto de 1972.
 
 Retifica aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

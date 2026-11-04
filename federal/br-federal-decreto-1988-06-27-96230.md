@@ -1,5 +1,3 @@
-###DEC-096230-0-000-27-06-1988@@@
-
 DECRETO N° 96.230, DE 27 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDA SANTA HELENA” e “FAZENDA DA BARRA”, classificados como “latifúndio por exploração”, situados no Município de Santo Ângelo, no Estado do Rio Grande do Sul, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.692, de 19 de maio de 1986, e dá outras providências.

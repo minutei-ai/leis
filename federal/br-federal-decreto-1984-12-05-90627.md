@@ -1,5 +1,3 @@
-###DEC-090627-0-000-05-12-1984@@@
-
 Decreto nº 90.627, de 05 de dezembro de 1984
 
 Dispõe sobre exclusão de emprego da Categoria Funcional de Agente Administrativo da Tabela Permanente do Conselho Administrativo de Defesa Econômica e dá outras providências.

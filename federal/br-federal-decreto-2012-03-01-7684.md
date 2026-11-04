@@ -1,5 +1,3 @@
-###DEC-007684-0-000-01-03-2012-PUB-01@@@
-
 DECRETO Nº 7.684, DE 1º DE MARÇO DE 2012
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre o Estatuto de Instituições Culturais e seus Técnicos Enviados, firmado em Berlim, em 1º de junho de 2005.

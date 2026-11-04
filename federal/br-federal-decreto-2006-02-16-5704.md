@@ -1,5 +1,3 @@
-###DEC-005704-0-000-16-02-2006@@@
-
 DECRETO Nº 5.704, DE 16 DE FEVEREIRO DE 2006.
 
 Dá nova redação ao art. 14 do Decreto nº 980, de 11 de novembro de 1993, que dispõe sobre a cessão de uso e a administração de imóveis residenciais de propriedade da União a agentes políticos e servidores públicos federais.

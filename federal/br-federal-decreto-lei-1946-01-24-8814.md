@@ -1,5 +1,3 @@
-###DEL-008814-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.814 – DE 24 DE JANEIRO DE 1946
 
 Restabelece cargo de Desenhista suprimido no Quadro Permanente no Ministério da Agricultura e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004400-0-000-24-06-1942@@@
-
 DECRETO-LEI N. 4.400 – DE 24 DE JUNHO DE 1942
 
 Extingue delegações do Tribunal de Contas junto a repartições que funcionam no Distrito Federal, e dá outras providências

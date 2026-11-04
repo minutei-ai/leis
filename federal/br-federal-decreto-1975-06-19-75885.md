@@ -1,5 +1,3 @@
-###DEC-075885-0-000-19-06-1975@@@
-
 DECRETO Nº 75.885, DE 19 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras Presidente Venceslau, de Presidente Venceslau, Estado de São Paulo, mantida pela Instituição Toledo de Ensino, com sede na Cidade de Bauru, no mesmo Estado.

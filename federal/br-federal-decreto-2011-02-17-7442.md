@@ -1,5 +1,3 @@
-###DEC-007442-0-000-17-02-2011-PUB-01@@@
-
 DECRETO Nº 7.442, DE 17 DE FEVEREIRO DE 2011.
 
 Dispõe sobre a transferência da Secretaria de Administração e da Secretaria de Controle Interno da Casa Civil para a Secretaria-Geral da Presidência da República.

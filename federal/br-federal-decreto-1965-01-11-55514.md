@@ -1,5 +1,3 @@
-###DEC-055514-0-000-11-01-1965@@@
-
 DECRETO Nº 55.514, DE 11 DE JANEIRO DE 1965.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a ampliar os seus sistemas de subtransmissão e de distribuição de energia elétrica no Estado da Guanabara.

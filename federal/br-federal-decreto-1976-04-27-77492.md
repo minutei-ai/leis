@@ -1,5 +1,3 @@
-###DEC-077492-0-000-27-04-1976@@@
-
 DECRETO Nº 77.492 - DE 27 DE ABRIL DE 1976
 
 Concede autorização à Polynor S.A. - Indústria e Comércio de Fibras Sintéticas da Paraíba, com sede em João Pessoa, para funcionar aos domingos e feriados civis e religiosos, no estabelecimento que menciona.

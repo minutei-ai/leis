@@ -1,5 +1,3 @@
-###DEC-069713-0-000-07-12-1971@@@
-
 DECRETO Nº 69.713 - DE 7 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Hospital Bernardina Salles de Barros, com sede em Júlio de Castilhos, Estado do Rio Grande do Sul.

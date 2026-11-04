@@ -1,5 +1,3 @@
-###DEC-097016-0-000-25-10-1988@@@
-
 DECRETO N° 97.016, DE 25 DE OUTUBRO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática Positivo.

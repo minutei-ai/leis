@@ -1,5 +1,3 @@
-###DEC-090018-0-000-31-07-1984@@@
-
 DECRETO Nº 90.018, DE 31 DE JULHO DE 1984
 
 Autoriza o aumento do Capital Social da Companhia Siderúrgica da Amazônia - SIDERAMA.

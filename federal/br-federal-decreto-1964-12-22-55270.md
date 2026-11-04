@@ -1,5 +1,3 @@
-###DEC-055270-0-000-22-12-1964@@@
-
 DECRETO Nº 55.270, DE 22 DE DEZEMBRO DE 1964.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamento novos, sem similar nacional registrado e consignados à Emprêsa “SABAP” do Norte S/A Brasileira de Artefatos Plásticos”, de Recife (PE).
@@ -14,7 +12,63 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à Emprêsa ‘SABAP” do Norte S/A Brasileira de Artefatos Plásticos”, Recife (PE).
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF - US$</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Máquina de moldar plástico por injeção à baixa pressão, tipo “Fostermatic” EY 700, modêlo nº 1963, fabricação inglesa (Foster Yattes &amp; Thom Ltd), adequada para moldagem de sapatos e sandálias de PVC plastificado, completa com 10 (dez) meses girartórias 10 (dez) suportes para sapatos comandados a ar comprimido, e respectivo equipamento para contrôle de ar e resfriadores de alumínio para o cilíndro de plástificação; inclui ainda um painel de contrôle para os sistemas elétricos e instrumentos de aquecimento e um sistema de resfriamento à água ............................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>123.407</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Jogos de peças sobressalentes para a máquina FY 700 ................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15.908</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Pares de moldes, ref. nº 68, sendo 2 (dois) de tamanho 39/40 2 (dois) de 37/38 e 2 (dois) de 40/41) .....................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.350</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4. Pares de moldes, ref. nº PIP.1, sendo: 2 (dois) de tamanho 35 e</span><span style="-aw-import:spaces">&nbsp; </span><span>2 (dois) de tramanho 36 ..........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.234</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5. Pares de moldes, ref. nº 2, sendo 3 (três) de tamanho 35 e 2 (dois) de 40 ....................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.586</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6. Pares de moldes, modêlo 133, sendo: 2 (dois) de tamanho 35 e 1 (um) de 36 ............................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.822</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7. Pares de moldes, ref. modêlo 95, tamanhos 15/16 e 17/18.............</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.529</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8. Pares de moldes, ref. nº 107, sendo: 2 (dois) de tamanho 19/20, 2 (dois) de 21/22 e 1 (um) de 23/24 ........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.851</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total .....................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>164.687</span></p></td></tr></tbody></table>
+Item – Especificação
+
+Quantidade a ser importada
+
+Valor Total CIF - US$
+
+1. Máquina de moldar plástico por injeção à baixa pressão, tipo “Fostermatic” EY 700, modêlo nº 1963, fabricação inglesa (Foster Yattes &amp; Thom Ltd), adequada para moldagem de sapatos e sandálias de PVC plastificado, completa com 10 (dez) meses girartórias 10 (dez) suportes para sapatos comandados a ar comprimido, e respectivo equipamento para contrôle de ar e resfriadores de alumínio para o cilíndro de plástificação; inclui ainda um painel de contrôle para os sistemas elétricos e instrumentos de aquecimento e um sistema de resfriamento à água ............................
+
+3
+
+123.407
+
+2. Jogos de peças sobressalentes para a máquina FY 700 ................
+
+3
+
+15.908
+
+3. Pares de moldes, ref. nº 68, sendo 2 (dois) de tamanho 39/40 2 (dois) de 37/38 e 2 (dois) de 40/41) .....................................................
+
+6
+
+6.350
+
+4. Pares de moldes, ref. nº PIP.1, sendo: 2 (dois) de tamanho 35 e  2 (dois) de tramanho 36 ..........................................................................
+
+4
+
+4.234
+
+5. Pares de moldes, ref. nº 2, sendo 3 (três) de tamanho 35 e 2 (dois) de 40 ....................................................................................................
+
+5
+
+5.586
+
+6. Pares de moldes, modêlo 133, sendo: 2 (dois) de tamanho 35 e 1 (um) de 36 ............................................................................................
+
+3
+
+2.822
+
+7. Pares de moldes, ref. modêlo 95, tamanhos 15/16 e 17/18.............
+
+2
+
+1.529
+
+8. Pares de moldes, ref. nº 107, sendo: 2 (dois) de tamanho 19/20, 2 (dois) de 21/22 e 1 (um) de 23/24 ........................................................
+
+5
+
+4.851
+
+Total .....................................................................................................
+
+164.687
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições contrário.
 
@@ -25,8 +79,6 @@ H. Castello Branco
 Otávio Gouveia de Bulhões
 
 Oswaldo Cordeiro de Farias
-
-###DEC-055270-0-000-22-12-1964@@@RET01+++
 
 DECRETO Nº 55.270, DE 22 DE DEZEMBRO DE 1964.
 

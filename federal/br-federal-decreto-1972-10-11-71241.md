@@ -1,5 +1,3 @@
-###DEC-071241-0-000-11-10-1972@@@
-
 DECRETO Nº 71.241, DE 11 DE OUTUBRO DE 1972.
 
 Concede permissão à Companhia Aços Especiais Itabira - ACESITA, para funcionar nos dias de repouso semanal que menciona.

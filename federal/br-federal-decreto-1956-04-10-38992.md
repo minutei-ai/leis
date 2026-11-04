@@ -1,18 +1,16 @@
-###DEC-038992-0-000-10-04-1956@@@
+**DECRETO Nº 38.992, DE 10 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 38.992, DE 10 DE ABRIL DE 1956.</strong>
+***Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, colhidos no ano de 1956.***
 
-<em><strong>Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, colhidos no ano de 1956.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no art. 3º, da Lei nº 1.506, de 19 de dezembro de 1951,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no art. 3º, da Lei nº 1.506, de 19 de dezembro de 1951,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os preços básicos mínimos para as operações de financiamento ou aquisição, no ano de 1956, dos produtos especificadamente mencionados no parágrafo único do art. 1º, da Lei nº 1.506, de 19 de dezembro de 1951, e colhidos no mencionado ano, são os constantes do art. 2º dêste Decreto.
+**Art**. 1º Os preços básicos mínimos para as operações de financiamento ou aquisição, no ano de 1956, dos produtos especificadamente mencionados no parágrafo único do art. 1º, da Lei nº 1.506, de 19 de dezembro de 1951, e colhidos no mencionado ano, são os constantes do art. 2º dêste Decreto.
 
 Parágrafo único. Êstes preços referem-se aos produtos postos nos principais centros do consumo do país, assim considerados para os efeitos dêste Decreto os respectivos portos de escoamento, atendidas as condições e especificações decorrentes da Lei número 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 2º Os preços básicos mínimos estabelecidos neste Decreto, são os seguintes:
+**Art**. 2º Os preços básicos mínimos estabelecidos neste Decreto, são os seguintes:
 
 Arroz
 
@@ -64,14 +62,14 @@ Dezesseis cruzeiros (Cr$16,00) por arrôba de quinze (15) quilos, para o produto
 
 Os preços para o produto entregue em outras localidades das regiões produtoras serão oportunamente determinadas nos têrmos do art. 1º da Lei nº 1.506 de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 3º Os preços de que trata o art. 2º dêste Decreto referem-se à mercadoria nova da safra de 1956, embalada em sacaria nova devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados neste Decreto e nos mencionados na letra <em>a</em> do art. 6º, e no art. 7º da Lei nº 1.506, de 19 de dezembro de 1951.
+**Art**. 3º Os preços de que trata o art. 2º dêste Decreto referem-se à mercadoria nova da safra de 1956, embalada em sacaria nova devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados neste Decreto e nos mencionados na letra *a* do art. 6º, e no art. 7º da Lei nº 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data da sua publicação.
+**Art**. 4º Êste Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

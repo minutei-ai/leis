@@ -1,5 +1,3 @@
-###DEC-088367-0-000-07-06-1983@@@
-
 # Decreto nº 88.367, de 07 de Junho de 1983.
 
 Dá nova redação ao § 1º do artigo 206, do Regulamento dos Benefícios da Previdência Social, aprovado pelo Decreto nº 83.080, de 24 de janeiro de 1979.

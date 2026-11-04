@@ -1,5 +1,3 @@
-###DEC-089976-0-000-18-07-1984@@@
-
 DECREtO nº 89.976, de 18 de julho de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Estado do Rio de Janeiro; São Vicente, Estado de São Paulo; Florianópolis, Estado de Santa Catarina; Salvador, Estado da Bahia e Recife, Estado de Pernambuco.

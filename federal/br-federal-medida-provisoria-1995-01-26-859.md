@@ -1,7 +1,3 @@
-1
-
-###MPV-000859-0-000-26-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 859, DE 26 DE JANEIRO DE 1995
 
 Dispõe sobre suspensão, em caráter excepcional e durante o ano de 1995, da prestação do serviço militar para fins de permitir o exercício temporário de atividade policial militar.

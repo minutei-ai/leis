@@ -1,5 +1,3 @@
-###DEC-090716-0-000-18-12-1984@@@
-
 # Decreto nº 90.716, de 18 de dezembro de 1984
 
 Autoriza aumento de capital da Companhia Brasileira de Trens Urbanos.

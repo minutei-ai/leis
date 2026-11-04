@@ -1,5 +1,3 @@
-###DEC-046223-0-000-16-06-1959@@@
-
 DECRETO Nº 46.223, DE 16 DE JUNHO DE 1959.
 
 Prorroga prazo para a conclusão de rodovias.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000933-0-000-16-09-1993@@@
-
 DECRETO N° 933, DE 16 DE SETEMBRO DE 1993
 
 Reduz para zero a alíquota do Imposto sobre Produtos Industrializados incidentes sobre o produto que menciona.

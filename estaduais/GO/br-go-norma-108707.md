@@ -14,7 +14,8 @@ II – possua vencimento de contribuição no Regime Próprio de Previdência So
 
 § 1º Também terá direito ao benefício especial o servidor ou o membro a que se refere este artigo que, atendidas as condições definidas nos incisos de seu _caput_, já houver migrado para o Regime de Previdência Complementar – RPC a partir de 7 de julho de 2017, com a adesão ou não ao plano de benefícios da Previdência Complementar do Brasil Central – PREVCOM-BrC.
 
-§ 2º É assegurado aos servidores e aos membros referidos neste artigo o direito ao benefício especial instituído nesta Lei Complementar, que será calculado com base nas contribuições recolhidas aos regimes próprios da União, dos estados, do Distrito Federal ou dos municípios, de que trata o art. 40 da Constituição Federal, observados a sistemática estabelecida nos arts. 3º-A e 4º desta Lei Complementar e o direito à compensação financeira de que trata o § 9º do art. 201 da Constituição Federal.<br>
+§ 2º É assegurado aos servidores e aos membros referidos neste artigo o direito ao benefício especial instituído nesta Lei Complementar, que será calculado com base nas contribuições recolhidas aos regimes próprios da União, dos estados, do Distrito Federal ou dos municípios, de que trata o art. 40 da Constituição Federal, observados a sistemática estabelecida nos arts. 3º-A e 4º desta Lei Complementar e o direito à compensação financeira de que trata o § 9º do art. 201 da Constituição Federal.
+
 \- [Redação dada pela Lei Complementar nº](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193) [193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
 ~~§ 2º É assegurado aos servidores e aos membros referidos neste artigo o direito ao benefício especial instituído nesta Lei Complementar, que será calculado com base nas contribuições recolhidas aos regimes próprios da União, dos estados, do Distrito Federal ou dos municípios, de que trata o art. 40 da Constituição federal, observados a sistemática estabelecida nos arts. 3º e 4º desta Lei Complementar e o direito à compensação financeira de que trata o § 9º do art. 201 da Constituição Federal.~~
@@ -23,13 +24,16 @@ Art. 3º (VETADO).
 
 Parágrafo único. (VETADO).
 
-Art. 3º-A  O benefício especial terá como referência as remunerações anteriores à data de mudança do regime utilizadas como base para as contribuições do servidor ou do membro referidos no art. 2º desta Lei Complementar aos regimes próprios de previdência da União, dos estados, do Distrito Federal ou dos municípios, atualizadas pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA, divulgado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou pelo índice que vier a substituí-lo.<br>
+Art. 3º-A  O benefício especial terá como referência as remunerações anteriores à data de mudança do regime utilizadas como base para as contribuições do servidor ou do membro referidos no art. 2º desta Lei Complementar aos regimes próprios de previdência da União, dos estados, do Distrito Federal ou dos municípios, atualizadas pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA, divulgado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, ou pelo índice que vier a substituí-lo.
+
 \- [Acrescido pela Lei Complementar nº 193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
-Parágrafo único.  O benefício especial será equivalente à diferença entre a média aritmética simples das remunerações referidas neste artigo correspondentes a 100% (cem por cento) do período contributivo desde a competência de julho de 1994 ou, caso seja posterior à referida competência, desde o início da contribuição e o valor máximo estabelecido para os benefícios do RGPS às aposentadorias e às pensões, multiplicada pelo fator de conversão, nos termos do art. 2º da [Lei nº 19.179](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98359), de 2015.<br>
+Parágrafo único.  O benefício especial será equivalente à diferença entre a média aritmética simples das remunerações referidas neste artigo correspondentes a 100% (cem por cento) do período contributivo desde a competência de julho de 1994 ou, caso seja posterior à referida competência, desde o início da contribuição e o valor máximo estabelecido para os benefícios do RGPS às aposentadorias e às pensões, multiplicada pelo fator de conversão, nos termos do art. 2º da [Lei nº 19.179](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98359), de 2015.
+
 \- [Acrescido pela Lei Complementar nº 193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
-Art. 4º O fator de conversão a que se refere o parágrafo único do art. 3º-A desta Lei Complementar, cujo resultado é limitado ao máximo de 1 (um), será calculado pela fórmula FC = Tc/Tt, na qual:<br>
+Art. 4º O fator de conversão a que se refere o parágrafo único do art. 3º-A desta Lei Complementar, cujo resultado é limitado ao máximo de 1 (um), será calculado pela fórmula FC = Tc/Tt, na qual:
+
 \- [Redação dada pela Lei Complementar nº 193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
 ~~Art. 4º O fator de conversão a que se refere o parágrafo único do art. 3º desta Lei Complementar, cujo resultado é limitado ao máximo de 1 (um), será calculado pela fórmula FC = Tc/Tt, na qual:~~
@@ -40,7 +44,8 @@ II – “Tc” é a quantidade de contribuições mensais efetuadas para os reg
 
 III – (VETADO); e
 
-IV - ‘Tt’ é o tempo total, igual a 520 (quinhentos e vinte).<br>
+IV - ‘Tt’ é o tempo total, igual a 520 (quinhentos e vinte).
+
 \- [Acrescido pela Lei Complementar nº 193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
 Art. 5º O benefício especial será pago pelo Poder, pelo órgão ou pela entidade de origem do servidor ou do membro disciplinado no art. 2º desta Lei Complementar, por ocasião da concessão de aposentadoria, inclusive por invalidez, ou pensão por morte pelo RPPS/GO, enquanto perdurar o benefício pago por esse regime, inclusive com a gratificação natalina.
@@ -57,12 +62,14 @@ IV – não está sujeito à incidência de contribuição previdenciária; 
 
 V – (VETADO); e 
 
-VI - está sujeito à incidência de imposto sobre a renda.<br>
+VI - está sujeito à incidência de imposto sobre a renda.
+
 \- [Acrescido pela Lei Complementar nº 193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
 Art. 7º (VETADO).
 
-Art. 7º-A O prazo para a opção de que trata o inciso I do art. 2º será de 12 (doze) meses do início da vigência desta Lei Complementar.<br>
+Art. 7º-A O prazo para a opção de que trata o inciso I do art. 2º será de 12 (doze) meses do início da vigência desta Lei Complementar.
+
 \- [Acrescido pela Lei Complementar nº 193, de 21-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860/lei-complementar-193).
 
 Art. 8º O exercício da opção a que se refere o inciso I do art. 2º desta Lei Complementar é irrevogável e irretratável, e não é devida pelo Estado, inclusive suas autarquias e fundações públicas, qualquer contrapartida referente ao valor dos descontos já efetuados sobre a base de contribuição acima do valor máximo fixado para os benefícios do RGPS.
@@ -72,8 +79,6 @@ Art. 9º O rompimento do vínculo funcional efetivo com o Estado por exoneraçã
 Art. 10. Esta Lei Complementar entra em vigor a partir da data de sua publicação.
 
 Goiânia, 24 de abril de 2024; 136º da República.
-
-<br>
 
 RONALDO CAIADO
 

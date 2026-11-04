@@ -1,5 +1,3 @@
-###DEC-093661-0-000-05-12-1986@@@
-
 DECRETO Nº 93.661, DE 5 DE DEZEMBRO DE 1986
 
 Renova prazo de concessão outorgada à Companhia Fábrica de Papel Itajaí, para o aproveitamento da energia hidráulica do desnível Palheiros, no ribeirão Figueiredo, afluente do rio Canoas, no Município de Petrolândia, Estado de Santa Catarina, para uso exclusivo.

@@ -1,14 +1,12 @@
-###DEC-034131-0-000-09-10-1953@@@
+**DECRETO Nº 34.131, DE 9 DE OUTUBRO DE 1953.**
 
-<strong>DECRETO Nº 34.131, DE 9 DE OUTUBRO DE 1953.</strong>
+***Altera o Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa, aprovado pelo Decreto nº 7.368, de 11 de junho do 1941.***
 
-<em><strong>Altera o Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa, aprovado pelo Decreto nº 7.368, de 11 de junho do 1941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º. Ficam alterados os artigos 5º e 6º do Regulamento para o Quadro do Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa, aprovado pelo Decreto nº 7.368, de 11 de junho de 1941, que passam a ter a seguinte redação:
+**Art**. 1º. Ficam alterados os artigos 5º e 6º do Regulamento para o Quadro do Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa, aprovado pelo Decreto nº 7.368, de 11 de junho de 1941, que passam a ter a seguinte redação:
 
 “Art. 5º. Poderão ingressar no Quadro de Prático, a que se refere êste Regulamento, as praças ou ex-praças do Corpo de Pessoal Subalterno da Armada e do Corpo de Marinheiro Nacionais (em extinção) e os civis de reconhecida capacidade técnica que, na época da inscrição, satisfizerem as condições seguintes:
 
@@ -50,10 +48,10 @@ Art. 6º A inscrição será feita à vista de requerimento dirigido ao Diretor-
 
 § 2º A época para as inscrições será fixada pelo Ministro da Marinha, devendo mediar entre as datas de abertura e do encerramento o intervale mínimo de 60 dias”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 9 de outubro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel

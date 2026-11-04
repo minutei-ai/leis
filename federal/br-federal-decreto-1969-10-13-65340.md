@@ -1,5 +1,3 @@
-###DEC-065340-0-000-13-10-1969@@@
-
 DECRETO Nº 63.340 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde Petrolina de Goiás a Santa Rosa de Goiás, no Estado de Goiás.

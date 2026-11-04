@@ -1,5 +1,3 @@
-###DEC-086289-0-000-11-08-1981@@@
-
 DECRETO Nº 86.289, de 11 de AGOSTO de 1981.
 
 Cria, no Exército, o Quadro Especial de Terceiros Sargentos e dá outras providências.

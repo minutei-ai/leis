@@ -1,5 +1,3 @@
-###DEC-080678-0-000-08-11-1977@@@
-
 DECRETO Nº 80.678, DE 08 DE NOVEMBRO DE 1977
 
 Declara sem efeito o Decreto nº 17 336, de 13 de dezembro de 1944, que autorizou a Sociedade Brasileira de Mineração Limitada a lavrar minério de ferro no Município de Belo Vale, Estado de Minas Gerais.

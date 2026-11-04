@@ -1,5 +1,3 @@
-###DEC-002261-0-000-25-06-1997@@@
-
 DECRETO Nº 2.261, DE 25 DE JUNHO DE 1997
 
 Dá nova redação ao $ 2º do art. 1º e ao art. 3º do Decreto nº  2.214, de 25 de abril de 1997, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orcamentária e financeira do Poder Executivo para o exercício de 1997,e dá outras providências.

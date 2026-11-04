@@ -1,5 +1,3 @@
-###DEC-075597-0-000-11-04-1975@@@
-
 DECRETO Nº 75.597, DE 11 DE ABRIL DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Progresso de Ijuí Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ijuí, Estado do Rio Grande do Sul.

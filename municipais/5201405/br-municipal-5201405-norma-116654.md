@@ -14,8 +14,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 14 de dezembro de 2018.
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

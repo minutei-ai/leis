@@ -1,5 +1,3 @@
-###DEC-057652-0-000-19-01-1966@@@
-
 DECRETO Nº 57.652, DE 19 DE JANEIRO DE 1966.
 
 Altera o art. 4º do Decreto número 57.096 de 19 de outubro de 1965, que dispõe sôbre o Regulamento para eleição dos Representantes da Lavoura na Junta Administrativa do Instituto Brasileiro do Café.

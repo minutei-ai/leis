@@ -1,5 +1,3 @@
-###DEL-006753-0-000-31-07-1944@@@
-
 DECRETO-LEI N. 6.753 – DE 31 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de  Cr$ 5.939.327,00, para ocorrer às despesas que mencionam e dá outras providências

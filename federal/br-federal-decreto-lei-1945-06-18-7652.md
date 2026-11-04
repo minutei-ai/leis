@@ -1,5 +1,3 @@
-###DEL-007652-0-000-18-06-1945@@@
-
 DECRETO-LEI N. 7.652 – DE 18 DE JUNHO DE 1945
 
 Autoriza a cobrança de juros de mora sôbre dívidas referentes aos serviços prestados pelo pôrto do Rio de Janeiro

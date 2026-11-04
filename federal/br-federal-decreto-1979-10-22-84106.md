@@ -1,5 +1,3 @@
-###DEC-084106-0-000-22-10-1979@@@
-
 Decreto nº 84.106, de 22 de outubro de 1979.
 
 Altera a redação do art. 7º do Decreto nº 81.384, de 22 de fevereiro de 1978, que dispõe sobre a concessão das vantagens previstas na Lei nº 1.234, de 14 de novembro de 1950.

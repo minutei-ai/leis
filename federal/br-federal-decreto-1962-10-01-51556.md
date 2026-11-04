@@ -1,5 +1,3 @@
-###DEC-051556-0-000-01-10-1962@@@
-
 DECRETO Nº 51.556, DE 1 DE OUTUBRO DE 1962.
 
 Altera, por necessidade de serviço, a lotação de repartições do Ministério do Trabalho e Previdência Social.

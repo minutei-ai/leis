@@ -1,5 +1,3 @@
-###DEL-002268-0-000-13-03-1985@@@
-
 # DECRETO-LEI Nº 2.268, DE 13 DE MARÇO DE 1985.
 
 Dispõe sobre a remuneração dos membros do Ministério Público Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049183-0-000-01-11-1960@@@
-
 DECRETO Nº 49.183, de 1 de novembro de 1960.
 
 Dispõe sôbre a criação da Delegacia do I.A.P.B. em Teresina, Estado do Piauí, e dá outras providencias.

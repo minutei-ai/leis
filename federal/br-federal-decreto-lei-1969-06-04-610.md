@@ -1,5 +1,3 @@
-###DEL-000610-0-000-04-06-1969@@@
-
 DECRETO-LEI Nº 610, DE 4 DE JUNHO DE 1969
 
 Cria Quadros Complementares de Oficiais da Marinha de Guerra.

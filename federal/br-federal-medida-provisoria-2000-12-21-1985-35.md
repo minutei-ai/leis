@@ -1,5 +1,3 @@
-###MPV-001985-0-035\-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-35, DE 21 de dezembro DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

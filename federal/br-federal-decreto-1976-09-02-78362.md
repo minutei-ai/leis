@@ -1,5 +1,3 @@
-###DEC-078362-0-000-02-09-1976@@@
-
 DECRETO Nº 78.362, DE 2 DE SETEMBRO DE 1976.
 
 Declara de utilidade pública, para efeito de desapropriação, o imóvel que menciona, no Município do Rio de Janeiro, Estado do Rio de Janeiro e dá outras providências.

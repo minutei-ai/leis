@@ -1,5 +1,3 @@
-###DEC-047945-0-000-17-03-1960@@@
-
 DECRETO Nº 47.945, DE 17 DE MARÇO DE 1960.
 
 Dispensa os membros da Comissão de Levantamento e Avaliação, referida no art. 6º do Decreto-lei nº 2.436, de 1940, art. 1º do de nº 7.796, de 1945, e art. 2º do de nº 9.549, de 1946.

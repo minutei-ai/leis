@@ -1,5 +1,3 @@
-###DEC-096911-0-000-03-10-1988@@@
-
 DECRETO N° 96.911, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre a estrutura básica do Ministério da Fazenda e dá outras providencias.

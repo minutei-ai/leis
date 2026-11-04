@@ -1,5 +1,3 @@
-###DEC-051647-0-000-27-12-1962@@@
-
 DECRETO Nº 51.647, de 27 de dezembro de 1962.
 
 Cria Comissão Especial para estudar e propor medidas necessárias a coordenação aos recursos Hospitalares e Médicos-Sociais do País.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099177-0-000-15-03-1990@@@
-
 DECRETO Nº 99.177, DE 15 DE MARÇO DE 1990
 
 Dispõe sobre o regime de acumulação de cargos e empregos, e dá outras providências.

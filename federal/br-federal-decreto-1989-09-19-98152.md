@@ -1,7 +1,3 @@
-1
-
-###DEC-098152-0-000-19-09-1989@@@
-
 DECRETO Nº 98.152, DE 19 DE SETEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

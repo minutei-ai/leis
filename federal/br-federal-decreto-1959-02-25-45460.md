@@ -1,5 +1,3 @@
-###DEC-045460-0-000-25-02-1959@@@
-
 DECRETO Nº 45.460, DE 25 DE FEVEREIRO DE 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona em Pôrto Alegre (RS), necessários ao Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-088014-0-000-03-01-1983@@@
-
 DECRETO Nº 88.014, DE 03 DE JANEIRO DE 1983.
 
 Fixa, para o exercício de 1983, o limite global de importações através da Zona Franca de Manaus, e dá outras providências.

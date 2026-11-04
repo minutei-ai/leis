@@ -1,5 +1,3 @@
-###DEC-047802-0-000-13-02-1960@@@
-
 DECRETO Nº 47.802, de 13 de fevereiro de 1960.
 
 Dispõe sôbre a lotação de servidores cedidos à B.F.F.S.A.

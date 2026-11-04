@@ -1,5 +1,3 @@
-###DEC-074017-0-000-07-05-1974@@@
-
 DECRETO Nº 74.017, DE 7 DE MAIO DE 1974
 
 Concede reconhecimento aos cursos de Administração, de Ciências Econômicas e de Ciências Contábeis do Instituto de Ciências Sociais, mantido pela Associação de Ensino Unificado do Distrito Federal - AEUDF,  com sede na cidade de Brasília, Distrito Federal.

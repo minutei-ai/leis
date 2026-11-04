@@ -1,7 +1,3 @@
-1
-
-###DEC-098282-0-000-12-10-1989@@@
-
 DECRETO N° 98.282, DE 12 DE OUTUBRO DE 1989
 
 Prorroga o prazo a que se refere o art. 6° do Decreto n° 94.553, de 6 de julho de 1987.

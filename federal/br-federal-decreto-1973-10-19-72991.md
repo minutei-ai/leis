@@ -1,5 +1,3 @@
-###DEC-072991-0-000-19-10-1973@@@
-
 DECRETO Nº 72.991, DE 19 DE OUTUBRO DE 1973.
 
 Redistribui cargos com os respectivos ocupantes, aproveita, no Quadro de Pessoal do Ministério da Aeronáutica, servidor em disponibilidade e dá outras previdências.

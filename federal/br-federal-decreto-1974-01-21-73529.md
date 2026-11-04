@@ -1,5 +1,3 @@
-###DEC-073529-0-000-21-01-1974@@@
-
 Decreto nº 73.529, de 21 de janeiro de 1974.
 
 Dispõe sobre a alteração da orientação administrativa em virtude de decisões judiciais e dá outras providências.

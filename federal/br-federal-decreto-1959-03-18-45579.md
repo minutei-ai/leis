@@ -1,5 +1,3 @@
-###DEC-045579-0-000-18-03-1959@@@
-
 DECRETO Nº 45.579, DE 18 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de Alagoas.

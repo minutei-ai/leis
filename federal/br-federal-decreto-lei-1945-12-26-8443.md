@@ -1,5 +1,3 @@
-###DEL-008443-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.443 – DE 26 DE DEZEMBRO DE 1945
 
 Extingue os órgãos da Justiça Militar organizada pelo Decreto-lei nº 6.396, de 1 de abril de 1944 e dá outras providências.

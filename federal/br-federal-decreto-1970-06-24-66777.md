@@ -1,5 +1,3 @@
-###DEC-066777-0-000-24-06-1970@@@
-
 DECRETO Nº 66.777 - DE 24 DE JUNHO DE 1970
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis situados no município de Canoas, Estado do Rio Grande do Sul, necessários à construção de gasoduto.

@@ -1,5 +1,3 @@
-###DEC-079909-0-000-05-07-1977@@@
-
 DECRETO Nº 79.909, DE 5 DE JULHO DE 1977
 
 Transfere a sede de Organização Militar no Ministério do Exército e dá outras providências.

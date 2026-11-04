@@ -1,5 +1,3 @@
-###DEL-006806-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.806 – DE 21 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 60.000,00, para o fim que especifica

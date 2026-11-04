@@ -1,5 +1,3 @@
-###DEC-055675-0-000-01-02-1965@@@
-
 DECRETO Nº 55.675, DE 1 DE FEVEREIRO DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Colúmbia Companhia Nacional de Seguros Gerais, relativa ao aumento do capital social.

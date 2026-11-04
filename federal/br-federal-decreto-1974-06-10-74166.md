@@ -1,5 +1,3 @@
-###DEC-074166-0-000-10-06-1974@@@
-
 DECRETO nº 74.166, de 10 de junho de 1974.
 
 Concede reconhecimento à Faculdade de Direito de Araraquara, mantida pela Associação São Bento de Ensino, com sede na Cidade de Araraquara, Estado de São Paulo.

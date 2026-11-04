@@ -1,5 +1,3 @@
-###DEC-064483-0-000-09-05-1969@@@
-
 DECRETO Nº 64.483, DE 9 DE MAIO DE 1969.
 
 Declara de utilidade pública a Sociedade Beneficente Santa Cecília, com sede em Santa Cecília, Estado de Santa Catarina.

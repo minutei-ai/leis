@@ -1,5 +1,3 @@
-###MPV-000156-0-000-23-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 156, DE 23 DE DEZEMBRO 2003.
 
 Altera o caput do art. 1o da Lei nº 10.429, de 24 de abril de 2002, que institui o Auxílio-Aluno no âmbito do Projeto de Profissionalização dos Trabalhadores de Enfermagem - PROFAE.

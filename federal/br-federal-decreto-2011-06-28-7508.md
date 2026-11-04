@@ -1,5 +1,3 @@
-###DEC-007508-0-000-28-06-2011-PUB-01@@@
-
 Decreto nº 7.508, de 28 de junho de 2011
 
 Regulamenta a Lei no 8.080 , de 19 de setembro de 1990, para dispor sobre a organização do Sistema Único de Saúde - SUS, o planejamento da saúde, a assistência à saúde e a articulação interfederativa, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050375-0-000-22-03-1961@@@
-
 DECRETO Nº 50.375, DE 22 DE MARÇO DE 1961.
 
 Cria, no Departamento Federal de Segurança Pública, o Serviço Federal de Prevenção e Repressão de Infrações contra a Fazenda Nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072691-0-000-24-08-1973@@@
-
 Decreto nº 72.691, de 24 de agosto de 1973.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona, situados no Município de Sete Lagoas, Estado de Minas Gerais.

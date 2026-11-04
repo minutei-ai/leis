@@ -1,5 +1,3 @@
-###DEC-088504-0-000-12-07-1983@@@
-
 DECRETO Nº 88.504, DE 12 DE julho DE 1983
 
 Altera o Decreto nº 77.066, de 21 de janeiro de 1976, e os Estatutos da Indústria de Material Bélico do Brasil - IMBEL.

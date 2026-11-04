@@ -1,5 +1,3 @@
-###DEC-061332-0-000-12-09-1967@@@
-
 Decreto nº 61.332, de 12 de setembro de 1967.
 
 Declara de utilidade pública a “Escola Profissional Padre João Piamarta”, com sede em Fortaleza, Estado do Ceará.

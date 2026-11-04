@@ -1,5 +1,3 @@
-###DEC-083164-0-000-13-02-1979@@@
-
 Decreto nº 83.164, de 13 de fevereiro de 1979
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro.

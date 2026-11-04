@@ -1,5 +1,3 @@
-###DEC-097477-0-000-26-01-1989@@@
-
 DECRETO N° 97.477, DE 26 DE JANEIRO DE 1989
 
 Fixa, para o exercício de 1989, o limite global das importações através da Zona Franca de Manaus e dá outras providências.

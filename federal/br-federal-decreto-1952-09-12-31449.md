@@ -1,24 +1,22 @@
-###DEC-031449-0-000-12-09-1952@@@
+**DECRETO Nº 31.449, DE 12 DE SETEMBRO DE 1952.**
 
-<strong>DECRETO Nº 31.449, DE 12 DE SETEMBRO DE 1952.</strong>
+***Outorga concessão à Rádio Bandeirantes S.A. para estabelecer um transmissor de ondas curtas na cidade de São Paulo, Estado de São Paulo.***
 
-<em><strong>Outorga concessão à Rádio Bandeirantes S.A. para estabelecer um transmissor de ondas curtas na cidade de São Paulo, Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Bandeirantes S.A. e tendo em vista o disposto no artigo 5º, nº XII,da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Bandeirantes S.A. e tendo em vista o disposto no artigo 5º, nº XII,da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único - Fica outorgada concessão à Rádio Bandeirantes S.A. nos têrmos do artigo 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer na cidade de São Paulo, Estado de São Paulo, a título precário, na forma do artigo 4º, parágrafo 2º, do Decreto nº 29.783, de 19 de julho de 1951, sem direito de exclusividade, um transmissor de ondas curtas.
 
-Parágrafo único - O contrato decorrente dêsta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estados dos Negócios da Viação e Obras Públicas e será assinado dentro de sessenta (60) dias, a contar da data da publicação dêste Decreto no “<em>Diário Oficial</em>”, sob pena de ser considerada nula a presente concessão.
+Parágrafo único - O contrato decorrente dêsta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estados dos Negócios da Viação e Obras Públicas e será assinado dentro de sessenta (60) dias, a contar da data da publicação dêste Decreto no “*Diário Oficial*”, sob pena de ser considerada nula a presente concessão.
 
 Rio de Janeiro, 12 de setembro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Alvaro de Sousa Lima
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 31.499,DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 31.499,DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata capacidade da concessão, o Govêrno Federal, poderá pelo órgão fiscalizador, impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -86,9 +84,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeito, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>e</em> (infine), <em>j</em>, <em>l</em> e <em>n</em>, da cláusula tercera (III);
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d*, *e* (infine), *j*, *l* e *n*, da cláusula tercera (III);
 
-b) se não forem pagas dentro dos prazos estabelcecidos, a cota e contribuições a que se refere a alínea <em>e</em> da cláusula terceira (III), bem como a importância de qualquer multa imposta nos têrmos da cláusula sexta (VI);
+b) se não forem pagas dentro dos prazos estabelcecidos, a cota e contribuições a que se refere a alínea *e* da cláusula terceira (III), bem como a importância de qualquer multa imposta nos têrmos da cláusula sexta (VI);
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -100,4 +98,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 12 de setembro de 1952.
 
-<strong>ALVARO DE SOUSA LIMA</strong>
+**ALVARO DE SOUSA LIMA**

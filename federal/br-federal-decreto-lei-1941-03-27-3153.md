@@ -1,5 +1,3 @@
-###DEL-003153-0-000-27-03-1941@@@
-
 DECRETO-LEI N. 3.153 – DE 27 DE MARÇO DE 1941
 
 Altera as tabelas do Quadro Suplementar do Ministério da Guerra e dá outras providências

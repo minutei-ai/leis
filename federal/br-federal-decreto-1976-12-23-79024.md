@@ -1,5 +1,3 @@
-###DEC-079024-0-000-23-12-1976@@@
-
 DECRETO Nº 79.024, DE 23 DE DEZEMBRO DE 1976.
 
 Autoriza o funcionamento do curso de Artes Práticas, da Faculdade de Artes de Guararapes, São Paulo.

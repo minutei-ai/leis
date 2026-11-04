@@ -1,5 +1,3 @@
-###DEC-003041-0-000-29-04-1999@@@
-
 DECRETO Nº 3.041, DE 29 DE ABRIL DE 1999.
 
 Prorroga o prazo estabelecido no art. 4º do Decreto nº 2.352, de 20 de outubro de 1997, que cria o Grupo Executivo para a Conclusão do Projeto de Reassentamento de Populações da Usina Hidrelétrica de Itaparica.

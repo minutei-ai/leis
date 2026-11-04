@@ -20,19 +20,32 @@ Nestor Duarte
 
 João da Costa Pinto Dantas Junior
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">RETIFICAÇÃO</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Lei nº 261 de 29 de dezembro de 1950</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Na Secretaria da Agricultura, Indústria e Comércio</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Verba 203 - Serviço de Divulgação</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">ONDE SE LÊ:</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">203 - Serviço de Divulgação</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Material Permanente</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Consignação I Material Permanente......................100.000,00</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">03 - Livros, fichas bibliográficas impressos, etc.......10.000,00</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">LEIA-SE:</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">203 - Serviço de Divulgação</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">2 Material Permanente</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">Consignação I Material Permanente</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">03 - Livros, fichas bibliográficas, impressos, etc..................100.000,00</p></td></tr><tr><td width="576" valign="top" style="width:432.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto">09 - Móveis e artigos de ornamentação.................................10.000,00</p></td></tr></tbody></table>
+RETIFICAÇÃO
+
+Lei nº 261 de 29 de dezembro de 1950
+
+Na Secretaria da Agricultura, Indústria e Comércio
+
+Verba 203 - Serviço de Divulgação
+
+ONDE SE LÊ:
+
+203 - Serviço de Divulgação
+
+Material Permanente
+
+Consignação I Material Permanente......................100.000,00
+
+03 - Livros, fichas bibliográficas impressos, etc.......10.000,00
+
+LEIA-SE:
+
+203 - Serviço de Divulgação
+
+2 Material Permanente
+
+Consignação I Material Permanente
+
+03 - Livros, fichas bibliográficas, impressos, etc..................100.000,00
+
+09 - Móveis e artigos de ornamentação.................................10.000,00

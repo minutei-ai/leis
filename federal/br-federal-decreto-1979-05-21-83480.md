@@ -1,5 +1,3 @@
-###DEC-083480-0-000-21-05-1979@@@
-
 Decreto nº 83.480 de 21 de MAIO de 1979.
 
 Concede reconhecimento aos cursos de Letras e de Ciências da Faculdade de Filosofia, Ciências e Letras de Cabo Frio, Estado do Rio de Janeiro.

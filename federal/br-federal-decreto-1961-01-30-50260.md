@@ -1,5 +1,3 @@
-###DEC-050260-0-000-30-01-1961@@@
-
 DECRETO Nº 50.260,DE 30 DE JANEIRO DE 1961.
 
 Considera de utilidade pública, para fins de desapropriação, imóveis que menciona, necessários ao Ministério da Guerra, na cidade de Lapa, Estado do Paraná.

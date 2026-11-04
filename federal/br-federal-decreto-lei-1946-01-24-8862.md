@@ -1,5 +1,3 @@
-###DEL-008862-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.862 – DE 24 DE JANEIRO DE 1946
 
 Estende ao pessoal operário e auxiliar do Departamento de Águas e Esgôtos as vantagens do Decreto-lei nº 8.629, de 10 de janeiro de 1946.

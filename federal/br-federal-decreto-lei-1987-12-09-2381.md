@@ -1,7 +1,3 @@
-1
-
-###DEL-002381-0-000-09-12-1987@@@
-
 # DECRETO-LEI Nº 2.381, DE 9 DE DEZEMBRO DE 1987.
 
 Isenta do Imposto sobre Produtos Industrializados os produtos que indica, e dá outras providências.

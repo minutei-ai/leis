@@ -1,5 +1,3 @@
-###DEC-074070-0-000-15-05-1974@@@
-
 DECRETO Nº 74.070, DE 15 DE MAIO DE 1974.
 
 Prorroga o prazo da autorização concedida pelo Decreto nº 72.173 de 7 de maio de 1973, à Companhia norte-americana Geophysical Service Inc.

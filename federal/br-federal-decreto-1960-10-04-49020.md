@@ -1,5 +1,3 @@
-###DEC-049020-0-000-04-10-1960@@@
-
 DECRETO Nº 49.020, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alfeno Teixeira Branco a pesquisar minérios de ferro e manganês no município de Caiapônia. Estado de Goiás.

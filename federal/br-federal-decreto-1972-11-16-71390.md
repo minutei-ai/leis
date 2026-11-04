@@ -1,5 +1,3 @@
-###DEC-071390-0-000-16-11-1972@@@
-
 DECRETO Nº 71.390, DE 16 DE NOVEMBRO DE 1972.
 
 Concede à Empresa de Mineração Santo Antônio de Lindóia Ltda. o direito de lavrar água mineral no município de Lindóia, Estado de São Paulo.

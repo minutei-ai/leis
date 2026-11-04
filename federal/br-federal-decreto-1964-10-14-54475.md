@@ -1,5 +1,3 @@
-###DEC-054475-0-000-14-10-1964@@@
-
 DECRETO Nº 54.475, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Arthur Dias Duarte a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

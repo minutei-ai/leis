@@ -1,5 +1,3 @@
-###DEC-091203-0-000-26-04-1985@@@
-
 Decreto nº 91.203, de 26 de abril de 1985.
 
 Transfere subordinação de organizações Militares da Marinha, conforme especificado; altera dispositivo do Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da organização do Ministério da Marinha; e dá outras providências.

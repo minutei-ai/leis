@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209121)<br>
-
 # DECRETO N° 68.339, DE 22 DE FEVEREIRO DE 2024
 
 ### _Transfere, da Secretaria da Justiça e Cidadania para a Secretaria de Esportes, a administração de parte de imóvel que especifica, localizado no Município de São Paulo, e autoriza a Fazenda do Estado a permitir seu uso ao Município de São Paulo._

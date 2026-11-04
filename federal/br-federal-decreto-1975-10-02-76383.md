@@ -1,5 +1,3 @@
-###DEC-076383-0-000-02-10-1975@@@
-
 Decreto nº 76.383, de 2 de outubro de 1975
 
 Concede reconhecimento aos cursos de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Rio Claro, com sede na Cidade de Rio Claro, Estado de São Paulo.

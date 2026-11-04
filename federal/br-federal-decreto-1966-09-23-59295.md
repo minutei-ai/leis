@@ -1,5 +1,3 @@
-###DEC-059295-0-000-23-09-1966@@@
-
 DECRETO Nº 59.295, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o Cidadão brasileiro Alcides Mendes de Oliveira a pesquisar grafita no município de Pedra Azul, Estado de Minas Gerais.

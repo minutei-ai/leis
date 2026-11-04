@@ -1,5 +1,3 @@
-###DEC-073897-0-000-05-04-1974@@@
-
 DECRETO Nº 73.897, DE 5 DE ABRIL DE 1974.
 
 Autoriza o funcionamento da Escola Superior de Artes Santa Marcelina, mantida pela Associação Colégio dos Anjos, com sede na cidade de São Paulo, Estado de São Paulo.

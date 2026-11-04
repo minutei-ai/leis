@@ -1,5 +1,3 @@
-###DEC-081287-0-000-31-01-1978@@@
-
 Decreto nº 81.287, de 31 de janeiro de 1978.
 
 Concede autorização à BP PETROLEUM DEVELOPMENT BRAZIL LIMITED para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A - PETROBRÁS.

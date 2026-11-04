@@ -1,5 +1,3 @@
-###DEC-072972-0-000-19-10-1973@@@
-
 DECRETO Nº 72.972, DE 19 DE OUTUBRO DE 1973.
 
 Declara sem efeito o Decreto número 25.556, de 23 de setembro de 1948, retificado pelo de nº 26.199, de 15 de janeiro de 1949.

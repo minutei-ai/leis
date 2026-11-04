@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61545)
-
 # LEI Nº 12.294, DE 06 DE MARÇO DE 2006
 
 ### _Altera a Lei n. 6.374, de 1º de março de 1989, que dispõe sobre a instituição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicação - ICMS_
@@ -24,13 +22,10 @@ III - a alínea "b" do inciso VII do artigo 9º:
 
 IV - o Capítulo V do Título I, composto pelos artigos 16 a 22-A:
 
-<br>
-
 #### CAPÍTULO V
 
 #### Da Inscrição
 
-<br>
 **Artigo 16 -** Devem inscrever-se no cadastro de contribuintes, mantido pela Secretaria da Fazenda, antes do início de suas atividades:
 
 I - as pessoas de que trata o "caput" do artigo 7º;

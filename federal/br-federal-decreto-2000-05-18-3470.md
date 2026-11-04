@@ -1,5 +1,3 @@
-###DEC-003470-0-000-18-05-2000@@@
-
 decreto nº 3.470, de 18 de maio de 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

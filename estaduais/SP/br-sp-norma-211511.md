@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211511)<br>
-
 # DECRETO N° 69.875, DE 19 DE SETEMBRO DE 2025
 
 ### _Transfere, da Secretaria da Administração Penitenciária para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de São Paulo, e revoga dispositivo do Decreto n° 46.883, de 2 de julho de 2002._

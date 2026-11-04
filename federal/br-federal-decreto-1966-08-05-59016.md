@@ -1,5 +1,3 @@
-###DEC-059016-0-000-05-08-1966@@@
-
 DECRETO Nº 59.016, DE 5 DE AGôSTO DE 1966.
 
 Transfere concessão para distribuir energia elétrica.

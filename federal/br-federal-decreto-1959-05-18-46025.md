@@ -1,5 +1,3 @@
-###DEC-046025-0-000-18-05-1959@@@
-
 Decreto nº 46.025, de 18 de maio de 1959.
 
 Concede à Santa Blanca - Indústria de Mármore Ltda, autorização para funcionar como emprêsa de mineração.

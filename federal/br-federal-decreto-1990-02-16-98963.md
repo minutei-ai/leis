@@ -1,7 +1,3 @@
-1
-
-###DEC-098963-0-000-16-02-1990@@@
-
 DECRETO N° 98.963, DE 16 DE FEVEREIRO DE 1990
 
 Dá nova redação ao art. 2° do Decreto n° 89.250, de 27 de dezembro de 1983.

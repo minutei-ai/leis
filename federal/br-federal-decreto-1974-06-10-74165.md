@@ -1,5 +1,3 @@
-###DEC-074165-0-000-10-06-1974@@@
-
 DECRETO Nº 74.165, DE 10 DE JUNHO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras, mantida pela Sociedade Educacional Anderson, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

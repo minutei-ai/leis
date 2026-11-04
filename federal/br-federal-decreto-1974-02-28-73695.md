@@ -1,5 +1,3 @@
-###DEC-073695-0-000-28-02-1974@@@
-
 DECRETONº 73.695, DE 28 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Ciência Biológicas e de Matemática da Faculdade Estadual de Filosofia, Ciência e Letras de Cornélio Procópio, mantida pela Fundação Faculdade Estadual de Filosofia, Ciência e Letras de Cornélio Procópio, com sede na Cidade de Cornélio Procópio, Estado do Paraná.

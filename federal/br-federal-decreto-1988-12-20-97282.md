@@ -1,5 +1,3 @@
-###DEC-097282-0-000-20-12-1988@@@
-
 DECRETO Nº 97.282, DE 20 DE DEZEMBRO DE 1988
 
 Fixa os efetivos do Exército para 1989.

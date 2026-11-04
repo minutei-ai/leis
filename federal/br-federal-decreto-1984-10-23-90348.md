@@ -1,5 +1,3 @@
-###DEC-090348-0-000-23-10-1984@@@
-
 Decreto nº 90.348, de 23 de Outubro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

@@ -1,5 +1,3 @@
-###DEC-064690-0-000-12-06-1969@@@
-
 decreto nº 64.690, de 12 de junho de 1969.
 
 Declara de utilidade pública o Patronato Salesiano, com sede em Alto Araguaia, Estado de Mato Grosso.

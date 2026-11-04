@@ -1,5 +1,3 @@
-###DEC-075900-0-000-24-06-1975@@@
-
 DECRETO Nº 75.900, De 24 de Junho de 1975.
 
 Concede permissão, em caráter permanente, à Companhia Têxtil Ferreira Guimarães, com sede na cidade de Rio de Janeiro - RJ, para funcionar aos Domingos e nos dias feriados civis e religiosos, no estabelecimento que menciona.

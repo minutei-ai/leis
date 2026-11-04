@@ -1,5 +1,3 @@
-###DEC-060678-0-000-03-05-1967@@@
-
 DECRETO Nº 60.678, DE 3 DE MAIO DE 1967.
 
 Declara a caducidade da concessão outorgada à Rádio Campos Gerais Limitada pelo Decreto nº 29.029, de 26 de dezembro de 1950, para estabelecer, sem direito de exclusividade, na cidade de Curitiba, Estado do Paraná, uma estação radiodifusora de ondas médias.

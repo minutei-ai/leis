@@ -1,5 +1,3 @@
-###DEC-073675-0-000-18-02-1974@@@
-
 DECRETO Nº 73.675, DE 18 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Ciências, de Ciências Biológicas e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de São Caetano do Sul, mantida pela Fundação de Educação e Cultura do ABC, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

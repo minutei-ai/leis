@@ -1,5 +1,3 @@
-###DEC-005892-0-000-12-09-2006@@@
-
 DECRETO Nº 5.892, DE 12 DE SETEMBRO DE 2006.
 
 Acresce parágrafo ao art. 4o do Decreto no 4.840, de 17 de setembro de 2003, que regulamenta a Medida Provisória no 130, de 17 de setembro de 2003, que dispõe sobre a autorização para desconto de prestações em folha de pagamento.
@@ -19,5 +17,3 @@ Brasília, 12 de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
          Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 13.9.2006.

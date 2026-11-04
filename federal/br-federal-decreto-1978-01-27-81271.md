@@ -1,5 +1,3 @@
-###DEC-081271-0-000-27-01-1978@@@
-
 Decreto nº 81.271, de 27 de janeiro de 1978
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Educação Artística, ministrados pela Universidade Federal do Paraná com sede na cidade de Curitiba, Estado do Paraná.

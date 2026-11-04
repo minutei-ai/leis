@@ -1,5 +1,3 @@
-###DEC-093990-0-000-02-02-1987@@@
-
 DECRETO N° 93.990, DE 02 DE FEVEREIRO DE 1987
 
 Aprova o Regulamento para a Ordem do Mérito Naval.
@@ -140,7 +138,25 @@ Parágrafo único - O Presidente da República, o Ministro da Marinha e o Minist
 
 Art. 15. - O Quadro Ordinário terá o seguinte efetivo:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Grã-Cruz .........................................................................................................................</span></p></td><td style="width:48.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">8</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Grande-Oficial ................................................................................................................</span></p></td><td style="width:48.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Comendador ...................................................................................................................</span></p></td><td style="width:48.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">45</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Oficial .............................................................................................................................</span></p></td><td style="width:48.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">85</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Cavaleiro ........................................................................................................................</span></p></td><td style="width:48.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">125</span></p></td></tr></tbody></table>
+- Grã-Cruz .........................................................................................................................
+
+8
+
+- Grande-Oficial ................................................................................................................
+
+15
+
+- Comendador ...................................................................................................................
+
+45
+
+- Oficial .............................................................................................................................
+
+85
+
+- Cavaleiro ........................................................................................................................
+
+125
 
 Art. 16. As vagas em cada grau do Quadro Ordinário dar-se-ão por promoção, transferência para o Quadro Suplementar, exclusão ou morte.
 
@@ -170,11 +186,43 @@ Art. 21. - As propostas para admissão no Quadro Ordinário serão de 2 (dois} t
 
 Art. 22. - As propostas pessoais para admissão no Quadro Ordinário, inerentes aos Oficiais-Generais do Quadro Ordinário da Ordem do Mérito Naval, serão apresentadas de acordo com a tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">Proponentes</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">Número de Propostas</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Membros do Conselho................................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">ilimitada</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Almirantes-de-Esquadra.............................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Demais Almirantes......................................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr></tbody></table>
+Proponentes
+
+Número de Propostas
+
+Membros do Conselho................................................................
+
+ilimitada
+
+Almirantes-de-Esquadra.............................................................
+
+4
+
+Demais Almirantes......................................................................
+
+2
 
 Art. 23. - As propostas funcionais para admissão no Quadro Ordinário inerente às funções desempenhadas pelos Oficiais-Generais da Marinha serão apresentadas de acordo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">Proponentes</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">Nº de Propostas</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comandante-em-Chefe da Esquadra.........................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comandantes de Distritos Navais...............................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comandantes Navais..................................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comandante da Força de Fuzileiros da Esquadra......................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2</span></p></td></tr></tbody></table>
+Proponentes
+
+Nº de Propostas
+
+Comandante-em-Chefe da Esquadra.........................................
+
+4
+
+Comandantes de Distritos Navais...............................................
+
+2
+
+Comandantes Navais..................................................................
+
+2
+
+Comandante da Força de Fuzileiros da Esquadra......................
+
+2
 
 Parágrafo único. - Estas propostas pertencerão sempre a Oficiais da Marinha subordinados aos proponentes, dentro de suas cadeias de comando.
 
@@ -232,7 +280,25 @@ Art. 31. - O Quadro Suplementar não terá limitação de efetivo.
 
 Art. 32. - Os graus de que se compõe o Quadro Suplementar serão concedidos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grã-Cruz...............................................</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Em princípio, a Chefes de Estado e Príncipes de Casas Reinantes estrangeiros.</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grande-Oficial.......................................</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Para nacionais e estrangeiros: Ministro de Estado, Chefes de Forças Navais, Chefes de Estados-Maiores das Forças Armadas e Oficiais-Generais das Forças Armadas de posto equivalente no mínimo a Vice-Almirante.</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comendador.........................................</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Aos demais Oficiais-Generais nacionais e estrangeiros.</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial....................................................</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Aos Oficiais Superiores das Forças Armadas, nacionais e estrangeiros.</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cavaleiro...............................................</span></p></td><td style="width:241.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Aos demais militares nacionais e estrangeiros.</span></p></td></tr></tbody></table>
+Grã-Cruz...............................................
+
+Em princípio, a Chefes de Estado e Príncipes de Casas Reinantes estrangeiros.
+
+Grande-Oficial.......................................
+
+Para nacionais e estrangeiros: Ministro de Estado, Chefes de Forças Navais, Chefes de Estados-Maiores das Forças Armadas e Oficiais-Generais das Forças Armadas de posto equivalente no mínimo a Vice-Almirante.
+
+Comendador.........................................
+
+Aos demais Oficiais-Generais nacionais e estrangeiros.
+
+Oficial....................................................
+
+Aos Oficiais Superiores das Forças Armadas, nacionais e estrangeiros.
+
+Cavaleiro...............................................
+
+Aos demais militares nacionais e estrangeiros.
 
 § 1° - Os civis admitidos na Ordem, na forma deste Regulamento, sê-lo-ão nos graus correspondentes às funções que desempenham e a sua posição social, devendo-se, sempre que possível, estabelecer correlação entre as situações civis e as militares acima enumeradas.
 
@@ -256,7 +322,21 @@ Parágrafo único - As propostas de admissão e promoção deverão ser enviadas
 
 Art. 36. - O número de propostas apresentadas pelos Oficiais-Generais do Quadro Ordinário da Ordem do Mérito Naval para admissão e promoção no Quadro Suplementar, obedecerá à tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">Proponentes</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; font-weight:bold">Número de Propostas</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Membros do Conselho................................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">ilimitada</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Almirantes-de-Esquadra.............................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Demais Almirantes......................................................................</span></p></td><td style="width:138.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1</span></p></td></tr></tbody></table>
+Proponentes
+
+Número de Propostas
+
+Membros do Conselho................................................................
+
+ilimitada
+
+Almirantes-de-Esquadra.............................................................
+
+3
+
+Demais Almirantes......................................................................
+
+1
 
 Parágrafo único - Estas propostas serão sempre referentes a militares e civis não pertencentes à Marinha.
 
@@ -300,4 +380,22 @@ Parágrafo único - Aos excluídos por terem sido reformados, transferidos para 
 
 Art. 45. - Os civis agraciados com a insígnia da Ordem do Mérito Naval terão direito à precedência e às honras previstas no Cerimonial da Marinha, observando-se a seguinte correspondência:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grã-Cruz.....................................................................................</span></p></td><td style="width:142.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Almirante-de-Esquadra</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Grande-Oficial.............................................................................</span></p></td><td style="width:142.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Vice-Almirante</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Comendador...............................................................................</span></p></td><td style="width:142.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Contra-Almirante</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial..........................................................................................</span></p></td><td style="width:142.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial Superior</span></p></td></tr><tr><td style="width:280pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cavaleiro.....................................................................................</span></p></td><td style="width:142.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial Intermediário</span></p></td></tr></tbody></table>
+Grã-Cruz.....................................................................................
+
+Almirante-de-Esquadra
+
+Grande-Oficial.............................................................................
+
+Vice-Almirante
+
+Comendador...............................................................................
+
+Contra-Almirante
+
+Oficial..........................................................................................
+
+Oficial Superior
+
+Cavaleiro.....................................................................................
+
+Oficial Intermediário

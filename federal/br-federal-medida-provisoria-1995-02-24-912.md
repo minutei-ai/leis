@@ -1,7 +1,3 @@
-1
-
-###MPV-000912-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 912, DE 24 DE FEVEREIRO DE 1995
 
 Dispõe sobre a remuneração dos recursos do Fundo Nacional de Desenvolvimento (FND) repassados, sob a forma de empréstimo, à Financiadora de Estudos e Projetos (Finep).

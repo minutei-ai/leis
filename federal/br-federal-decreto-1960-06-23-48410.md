@@ -1,5 +1,3 @@
-###DEC-048410-0-000-23-06-1960@@@
-
 DECRETO Nº 48.410, DE 23 DE JUNHO DE 1960.
 
 Transfere para a Companhia Hidrelétrica do Rio Pardo a concessão para aproveitamento da energia hidráulica que especifica.

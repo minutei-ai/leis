@@ -1,5 +1,3 @@
-###DEC-002386-0-000-14-11-1997@@@
-
 DECRETO Nº 2.386, DE 14 DE NOVEMBRO DE 1997
 
 Acresce dispositivos à Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 2.092, de 10 de dezembro de 1996, e dá outras providências.

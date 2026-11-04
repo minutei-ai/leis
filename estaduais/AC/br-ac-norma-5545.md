@@ -1,6 +1,10 @@
 > **LEI Nº 4.091, DE 20 DE MARÇO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade das escolas e creches do Estado fornecer alimentação diferenciada aos diabéticos e aos hipertensos em sua merenda.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade das escolas e creches do Estado fornecer alimentação diferenciada aos diabéticos e aos hipertensos em sua merenda.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual c/c o art. 15, § 1º, X do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 

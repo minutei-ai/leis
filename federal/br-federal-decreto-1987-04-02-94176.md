@@ -1,5 +1,3 @@
-###DEC-094176-0-000-02-04-1987@@@
-
 DECRETO N° 94.176, DE 2 DE ABRIL DE 1987
 
 Outorga concessão à VALEC - Engenharia e Construções Limitada, para a construção, uso e gozo de duas estradas de ferro, sendo uma na região da Bacia do Araguaia - Tocantins, no rumo norte-sul, abrangendo os Estados de Goiás, Mato Grosso, Pará, Maranhão e o Distrito Federal e outra na região Centro-Oeste, na direção leste-oeste, abrangendo os estados de Minas Gerais, Goiás, Mato Grosso, Rondônia e o Distrito Federal, nos termos das Cláusulas dos Contratos a serem celebrados entre o Ministério dos Transportes e aquela Empresa.

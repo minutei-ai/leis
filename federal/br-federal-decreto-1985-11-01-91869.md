@@ -1,5 +1,3 @@
-###DEC-091869-0-000-01-11-1985@@@
-
 DECRETO Nº 91.869, DE 01 DE NOVEMBRO DE 1985
 
 Autoriza a transferência direta da concessão outorgada à PLANALTO PROMOÇÕES E INFORMAÇÃO S.A., para a S.A. CORREIO BRAZILIENSE.

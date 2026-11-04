@@ -1,5 +1,3 @@
-###DEC-049433-0-000-05-12-1960@@@
-
 DECRETO Nº 49.433, DE 5 DE dezembro DE 1960.
 
 Transfere função da Tabela Única de Extranumerário Mensalista do Ministério do Trabalho, Indústria e Comércio para idêntica Tabela do Ministério da Fazenda.

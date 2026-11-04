@@ -1,5 +1,3 @@
-###DEC-053099-0-000-10-12-1963@@@
-
 DECRETO Nº 53.099, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à “ORMIFEL” Organização de Minérios Não Ferrosos Ltda. autorização para funcionar como emprêsa de mineração.

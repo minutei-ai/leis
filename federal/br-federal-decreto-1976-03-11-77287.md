@@ -1,5 +1,3 @@
-###DEC-077287-0-000-11-03-1976@@@
-
 DECRETO Nº 77.287, DE 11 DE MARÇO DE 1976.
 
 Concede autorização à empresa Zapata North Sea, Inc., para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A.- PETROBRÁS.

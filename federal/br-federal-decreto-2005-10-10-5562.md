@@ -1,5 +1,3 @@
-###DEC-005562-0-000-10-10-2005@@@
-
 DECRETO Nº 5.562, DE 10 DE OUTUBRO DE 2005.
 
 Promulga o Acordo, por troca de Notas, entre o Governo da República Federativa do Brasil e o Governo da República Argentina para Outorga de Vistos Gratuitos aos Estudantes e Docentes, celebrado em Buenos Aires, em 14 de agosto de 2001.

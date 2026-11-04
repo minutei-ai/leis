@@ -4,7 +4,8 @@ O SECRETÁRIO DE ESTADO DA ECONOMIA, no uso de suas atribuições legais, com fu
 
 RESOLVE:
 
-Art. 1º Ficam abertos ao FUNDO ESTADUAL DE SAÚDE - FES, AGÊNCIA BRASIL CENTRAL - ABC, créditos suplementares no valor global de R$ 504.787,60 (quinhentos e quatro mil setecentos e oitenta e sete reais e sessenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Ficam abertos ao FUNDO ESTADUAL DE SAÚDE - FES, AGÊNCIA BRASIL CENTRAL - ABC, créditos suplementares no valor global de R$ 504.787,60 (quinhentos e quatro mil setecentos e oitenta e sete reais e sessenta centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.

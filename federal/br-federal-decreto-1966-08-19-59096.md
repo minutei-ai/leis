@@ -1,5 +1,3 @@
-###DEC-059096-0-000-19-08-1966@@@
-
 DECRETO Nº 59.096, DE 19 DE AGÔSTO DE 1966.
 
 Declara de utilidade pública imóveis situados em Belém, necessários à Universidade Federal do Pará.

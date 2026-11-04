@@ -1,7 +1,3 @@
-1
-
-###DEL-002477-0-000-22-09-1988@@@
-
 # DECRETO-LEI Nº 2.477, DE 22 DE SETEMBRO DE 1988
 
 Altera disposições da legislação aduaneira e dá outras providências.

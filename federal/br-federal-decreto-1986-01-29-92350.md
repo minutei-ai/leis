@@ -1,5 +1,3 @@
-###DEC-092350-0-000-29-01-1986@@@
-
 # DECRETO Nº 92.350, DE 29 DE JANEIRO DE 1986
 
 Dispõe sobre a transferência da Empresa Brasileira de Transportes Urbanos - EBTU do Ministério dos Transportes para o Ministério do Desenvolvimento Urbano e Meio Ambiente e dá outras providências.

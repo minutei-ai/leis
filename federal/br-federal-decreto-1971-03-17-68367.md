@@ -1,5 +1,3 @@
-###DEC-068367-0-000-17-03-1971@@@
-
 Decreto nº 68.367, de 17 de março de 1971.
 
 Altera o Decreto nº 53.252, de 13 de dezembro de 1963, que enquadrou definitivamente funcionários do Ministério do Exército.

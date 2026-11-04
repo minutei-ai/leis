@@ -1,5 +1,3 @@
-###DEC-081440-0-000-13-03-1978@@@
-
 Decreto nº 81.440, de 13 de março de 1978.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar argila no Município de Uberaba, Estado de Minas Gerais.

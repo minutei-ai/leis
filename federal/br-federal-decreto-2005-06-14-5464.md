@@ -1,5 +1,3 @@
-###DEC-005464-0-000-14-06-2005@@@
-
 DECRETO Nº 5.464, DE 14 DE JUNHO DE 2005
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT do Departamento Nacional de Produção Mineral - DNPM para o Ministério do Planejamento, Orçamento e Gestão.

@@ -1,5 +1,3 @@
-###DEC-065130-0-000-10-09-1969@@@
-
 DECRETO Nº 65.130 - DE 10 DE SETEMBRO DE 1969.
 
 Aprova o Regulamento do Instituto Brasileiro de Reforma Agrária - IBRA.

@@ -16,13 +16,16 @@ Art. 3º - Fica excluído da Tabela de Correlação de Cargos, constante do Anex
 
 Art. 4º - Esta Lei entrará em vigor na data de sua publicação, retroagindo os seus efeitos à 1º de janeiro do corrente. Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e três dias do mês de maio de dois mil e dois.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-RONALDO AGUIAR DA SILVA<br>
+RONALDO AGUIAR DA SILVA
+
 SEC. DE ADMINISTRAÇÃO
 
 [ANEXO ÚNICO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18724)

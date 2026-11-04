@@ -1,14 +1,12 @@
-###DEC-025309-0-000-03-08-1948@@@
+**DECRETO Nº 25.309, 3 DE AGÔSTO DE 1948.**
 
-<strong>DECRETO Nº 25.309, 3 DE AGÔSTO DE 1948.</strong>
+***Declara de utilidade pública a faixa de terra necessária à passagem do ramal de transmissão entre a Tôrre***  ***nº50 da linha Pirituba-Paula Sousa e a futura subestação de Água Branca, esquina das ruas Tagipuru e Germaine Burchard, na cidade de São Paulo, e autoriza “ The São Paulo Tramway, Light and Power a desapropriação.***
 
-<em><strong>Declara de utilidade pública a faixa de terra necessária à passagem do ramal de transmissão entre a Tôrre</strong></em>  <em><strong>nº50 da linha Pirituba-Paula Sousa e a futura subestação de Água Branca, esquina das ruas Tagipuru e Germaine Burchard, na cidade de São Paulo, e autoriza “ The São Paulo Tramway, Light and Power a desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e tendo em vista o requerido pela emprêsa interessada, assim como o disposto no art. 151, alínea a e b, do Código de Águas, e nos arts. 3º, 5º alínea h, e 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e tendo em vista o requerido pela emprêsa interessada, assim como o disposto no art. 151, alínea a e b, do Código de Águas, e nos arts. 3º, 5º alínea h, e 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as áreas de terra necessárias ao estabelecimento do ramal de transmissão que deverá ligar a Tôrre nº 50 da linha Pirituba-Paula Sousa coma futura subestação de Água Branca, esquina das ruas Tagiruru e Germaine Burchard, na cidade de São Paulo, autorizado pelo Decreto nº 24.268, de 20 de dezembro de 1947, a saber:
+**Art**. 1º São declaradas de utilidade pública as áreas de terra necessárias ao estabelecimento do ramal de transmissão que deverá ligar a Tôrre nº 50 da linha Pirituba-Paula Sousa coma futura subestação de Água Branca, esquina das ruas Tagiruru e Germaine Burchard, na cidade de São Paulo, autorizado pelo Decreto nº 24.268, de 20 de dezembro de 1947, a saber:
 
 1\) área de propriedade atribuída a Mário Bertocco, com frente para à Avenida Laranjeiras, com duzentos e trinta e sete metros quadrados ( 237m2);
 
@@ -56,14 +54,14 @@
 
 Parágrafo único. As regras a que alude êste artigo estão devidamente representadas nas plantas aprovadas pelo Ministério da Agricultura.
 
-<strong>Art</strong>. 2º Fica “ T<em>he São Paulo Tramway, Light and Power Company, Limeted</em>”, concessionária dos serviços de energia elétrica na cidade de São Paulo, autorizada a desapropriar as referidas áreas, na forma da legislação vigente, usando, inclusive, da faculdade prevista no art. 15 do Decreto-lei nº 3.368, de 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942.
+**Art**. 2º Fica “ T*he São Paulo Tramway, Light and Power Company, Limeted*”, concessionária dos serviços de energia elétrica na cidade de São Paulo, autorizada a desapropriar as referidas áreas, na forma da legislação vigente, usando, inclusive, da faculdade prevista no art. 15 do Decreto-lei nº 3.368, de 21 de junho de 1941, modificado pelo de nº 4.152, de 6 de março de 1942.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de agôsto de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

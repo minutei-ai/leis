@@ -1,5 +1,3 @@
-###DEC-005692-0-000-06-02-2006@@@
-
 DECRETO Nº 5.692, DE 6 DE FEVEREIRO DE 2006.
 
 Dispõe sobre o mandato e a designação dos membros do Conselho Nacional de Saúde, em caráter provisório.

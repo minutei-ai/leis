@@ -1,5 +1,3 @@
-###DEC-049320-0-000-22-11-1960@@@
-
 DECRETO Nº 49.320, DE 22 DE novembro DE 1960.
 
 Concede autorização para o funcionamento de Curso.

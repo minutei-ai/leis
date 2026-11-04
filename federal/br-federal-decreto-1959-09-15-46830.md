@@ -1,5 +1,3 @@
-###DEC-046830-0-000-15-09-1959@@@
-
 DECRETO Nº 46.830, DE 15 DE SETEMBRO DE 1959.
 
 Concede à Fluorita Cocal Ltda, autorização para funcionar como emprêsa de mineração.

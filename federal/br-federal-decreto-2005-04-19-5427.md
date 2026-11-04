@@ -1,5 +1,3 @@
-###DEC-005427-0-000-19-04-2005@@@
-
 DECRETO Nº 5.427 DE 19 DE ABRIL DE 2005
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, das rodovias federais que menciona, e dá outras providências.

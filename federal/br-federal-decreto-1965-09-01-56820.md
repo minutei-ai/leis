@@ -1,5 +1,3 @@
-###DEC-056820-0-000-01-09-1965@@@
-
 DECRETO Nº 56.820, DE 1º DE SETEMBRO DE 1965.
 
 Altera o art. nº 25 do Regimento da Secretaria de Estado das Relações Exteriores, aprovado pelo Decreto nº 12.343, de 5 de maio de 1943.

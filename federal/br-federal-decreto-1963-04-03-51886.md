@@ -1,5 +1,3 @@
-###DEC-051886-0-000-03-04-1963@@@
-
 DECRETO Nº 51.886, de 3 de abril de 1963.
 
 Concede autorização para funcionamento do curso que indica.

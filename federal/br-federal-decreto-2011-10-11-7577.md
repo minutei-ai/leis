@@ -1,5 +1,3 @@
-###DEC-007577-0-000-11-10-2011-PUB-01@@@
-
 DECRETO Nº 7.577, DE 11 DE OUTUBRO DE 2011
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e altera o Anexo II ao Decreto no 7.063, de 13 de janeiro de 2010.

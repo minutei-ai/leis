@@ -16,32 +16,294 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17470224</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 257.000,00</td><td style=" width:85px;    ">R$ 257.000,00</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3161-FUNDAÇÃO DE AMPARO À&nbsp; PESQUISA DO ESTADO DE GOIÁS - FAPEG</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 12.015.295,65</td><td style=" width:85px;    ">R$ 300.000,00</td><td style=" width:85px;    ">R$ 12.315.295,65</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 47.326.836,62</td><td style=" width:85px;    ">R$ 4.000.000,00</td><td style=" width:85px;    ">R$ 51.326.836,62</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE BOLSA DE CTI</td><td style=" width:85px;    ">19 571 1054 2398</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 35.760.785,14</td><td style=" width:85px;    ">R$ 772.200,00</td><td style=" width:85px;    ">R$ 36.532.985,14</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">27000290</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 128.000,00</td><td style=" width:85px;    ">R$ 3.100.000,00</td><td style=" width:85px;    ">R$ 3.228.000,00</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">27000290</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 102.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 152.000,00</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">27030292</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 48.680,44</td><td style=" width:85px;    ">R$ 139.550,56</td><td style=" width:85px;    ">R$ 188.231,00</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:85px;    ">19 571 1054 2397</td><td style=" width:85px;    ">27030292</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 30.000,00</td><td style=" width:85px;    ">R$ 35.625,00</td><td style=" width:85px;    ">R$ 65.625,00</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE BOLSA DE CTI</td><td style=" width:85px;    ">19 571 1054 2398</td><td style=" width:85px;    ">27030292</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 633.319,56</td><td style=" width:85px;    ">R$ 84.411,83</td><td style=" width:85px;    ">R$ 717.731,39</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17470224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS DA UNIÃO - CAPITAL</td><td style=" width:340px;  height:19px;   ">R$ 257.000,00</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.072.200,00</td></tr><tr><td style=" width:340px;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 3.150.000,00</td></tr><tr><td style=" width:340px;    ">27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 259.587,39</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 8.738.787,39</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+17470224
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 257.000,00
+
+R$ 257.000,00
+
+**3161-FUNDAÇÃO DE AMPARO À  PESQUISA DO ESTADO DE GOIÁS - FAPEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 12.015.295,65
+
+R$ 300.000,00
+
+R$ 12.315.295,65
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 47.326.836,62
+
+R$ 4.000.000,00
+
+R$ 51.326.836,62
+
+CONCESSÃO DE BOLSA DE CTI
+
+19 571 1054 2398
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 35.760.785,14
+
+R$ 772.200,00
+
+R$ 36.532.985,14
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+27000290
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 128.000,00
+
+R$ 3.100.000,00
+
+R$ 3.228.000,00
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+27000290
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 102.000,00
+
+R$ 50.000,00
+
+R$ 152.000,00
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+27030292
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 48.680,44
+
+R$ 139.550,56
+
+R$ 188.231,00
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+27030292
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 30.000,00
+
+R$ 35.625,00
+
+R$ 65.625,00
+
+CONCESSÃO DE BOLSA DE CTI
+
+19 571 1054 2398
+
+27030292
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 633.319,56
+
+R$ 84.411,83
+
+R$ 717.731,39
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+17470224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS DA UNIÃO - CAPITAL
+
+R$ 257.000,00
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.072.200,00
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 3.150.000,00
+
+27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 259.587,39
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 8.738.787,39
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17470224</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 257.000,00</td><td style=" width:85px;    ">R$ 257.000,00</td><td style=" width:85px;    ">R$ 257.000,00</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 5.072.200,00</td></tr><tr><td style=" width:340px;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 3.150.000,00</td></tr><tr><td style=" width:340px;    ">27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 259.587,39</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 8.481.787,39</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17470224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS DA UNIÃO - CAPITAL</td><td style=" width:340px;  height:19px;   ">R$ 257.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 257.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17470224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS DA UNIÃO - CAPITAL</td><td style=" width:340px;  height:19px;   ">R$ 257.000,00</td></tr><tr><td style=" width:340px;    ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 5.072.200,00</td></tr><tr><td style=" width:340px;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 3.150.000,00</td></tr><tr><td style=" width:340px;    ">27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 259.587,39</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 8.738.787,39</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+17470224
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 257.000,00
+
+R$ 257.000,00
+
+R$ 257.000,00
+
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.072.200,00
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 3.150.000,00
+
+27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 259.587,39
+
+**TOTAL**
+
+R$ 8.481.787,39
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+17470224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS DA UNIÃO - CAPITAL
+
+R$ 257.000,00
+
+**TOTAL**
+
+R$ 257.000,00
+
+**TOTAL POR FONTE**
+
+17470224 - OUTRAS VINCULAÇÕES DE TRANSFERÊNCIAS DA UNIÃO - CAPITAL
+
+R$ 257.000,00
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 5.072.200,00
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 3.150.000,00
+
+27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 259.587,39
+
+**TOTAL**
+
+R$ 8.738.787,39

@@ -1,5 +1,3 @@
-###DEC-059405-0-000-20-10-1966@@@
-
 DECRETO Nº 59.405, DE 20 DE OUTUBRO DE 1966.
 
 Cria funções gratificadas no Ministério das Minas e Energia, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003937-0-000-13-12-1941@@@
-
 DECRETO-LEI N. 3.937 – DE 13 DE DEZEMBRO DE 1941
 
 Reorganiza o Instituto Nacional do Mate e dá outras providências

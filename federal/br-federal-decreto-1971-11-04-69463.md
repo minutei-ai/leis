@@ -1,5 +1,3 @@
-###DEC-069463-0-000-04-11-1971@@@
-
 DECRETO Nº 69.463 - DE 4 DE NOVEMBRO DE 1971
 
 Autoriza a cessão, sob o regime de aforamento, à Fundação Darcy Vargas, de terrenos que menciona, situados no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-006452-0-000-28-04-1944@@@
-
 DECRETO-LEI N. 6.452 – DE 28 DE ABRIL DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 24.300,00 para atender ao pagamento do salário devido a Jonas do Amaral, relativo ao período de 1-1-43 a 31-12-43.

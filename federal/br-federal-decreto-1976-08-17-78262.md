@@ -1,5 +1,3 @@
-###DEC-078262-0-000-17-08-1976@@@
-
 DECRETO Nº 78.262, de 17 de AGOSTO  DE 1976
 
 Concede reconhecimento ao curso de Filosofia, do Instituto de Ciências Humanas e Letras, com sede na cidade de Manaus, Estado do Amazonas.

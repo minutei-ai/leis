@@ -1,5 +1,3 @@
-###DEC-083178-0-000-15-02-1979@@@
-
 DECRETO Nº 83.178, DE 15 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de São José do Rio Pardo, com sede na cidade de São José do Rio Pardo, Estado de São Paulo.

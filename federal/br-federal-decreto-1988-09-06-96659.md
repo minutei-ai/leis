@@ -1,5 +1,3 @@
-###DEC-096659-0-000-06-09-1988@@@
-
 DECRETO N° 96.659, DE 6 DE SETEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Geografia da Faculdade de Estudos Sociais de Limeira.

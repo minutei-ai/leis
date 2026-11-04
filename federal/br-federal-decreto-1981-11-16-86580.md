@@ -1,5 +1,3 @@
-###DEC-086580-0-000-16-11-1981@@@
-
 Decreto nº 86.580, de 16 de novembro de 1981
 
 Autoriza o aumento de Capital da empresa que menciona.

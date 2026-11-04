@@ -1,7 +1,3 @@
-1
-
-###DEC-001720-0-000-28-11-1995@@@
-
 DECRETO Nº 1.720, de 28 DE NOVEMBRO DE 1995.
 
 Altera dispositivos do Regulamento dos Serviços de Radiofusão aprovado pelo Decreto nº 52.795, de 31 outubro de 1963 , e modificado por disposições posteriores.

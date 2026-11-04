@@ -1,5 +1,3 @@
-###DEC-062574-0-000-22-04-1968@@@
-
 DECRETO Nº 62.574, DE 22 DE ABRIL DE 1968.
 
 Revoga o Decreto nº 60.964, de 7 de julho de 1967.

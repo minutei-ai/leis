@@ -1,5 +1,3 @@
-###DEC-050469-0-000-17-04-1961@@@
-
 DECRETO Nº 50.469, DE 17 DE ABRIL DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que faz o Município de Uberlândia, Estado de Minas Gerais, de um terreno necessário ao Ministério da Guerra.

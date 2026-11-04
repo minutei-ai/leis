@@ -1,5 +1,3 @@
-###DEC-003119-0-000-15-07-1999@@@
-
 DECRETO Nº 3.119, DE 15 de JULHO DE 1999.
 
 Dispõe sobre a alocação, em caráter temporário, dos cargos em comissão do Grupo–Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

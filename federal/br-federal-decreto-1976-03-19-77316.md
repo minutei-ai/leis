@@ -1,5 +1,3 @@
-###DEC-077316-0-000-19-03-1976@@@
-
 DECRETO Nº 77.316, DE 19 DE MARÇO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio São Francisco Ltda, transferida à Fundação Cultural Riograndense - Rádio São Francisco de Caxias do Sul, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

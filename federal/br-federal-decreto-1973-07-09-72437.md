@@ -1,5 +1,3 @@
-###DEC-072437-0-000-09-07-1973@@@
-
 DECRETO Nº 72.437, DE 9 DE JULHO DE 1973.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

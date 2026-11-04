@@ -1,5 +1,3 @@
-###DEL-005978-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.978 – DE 10 DE NOVEMBRO DE 1943
 
 Altera a tabela do salário adicional para a industria e dá outras providências

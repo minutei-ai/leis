@@ -20,15 +20,100 @@ Aparecida de Goiânia, 26 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 01</td><td style="text-align:center">4.046,12</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 01
+
+4.046,12
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 01 A</td><td style="text-align:center">239,51</td></tr><tr><td>LOTE 02</td><td style="text-align:center">195,10</td></tr><tr><td style="text-align:center">LOTE 03</td><td style="text-align:center">220,33</td></tr><tr><td style="text-align:center">LOTE 04</td><td style="text-align:center">211,16</td></tr><tr><td style="text-align:center">LOTE 05</td><td style="text-align:center">219,72</td></tr><tr><td style="text-align:center">LOTE 06</td><td style="text-align:center">229,07</td></tr><tr><td style="text-align:center">LOTE 07</td><td style="text-align:center">236,80</td></tr><tr><td style="text-align:center">LOTE 08</td><td style="text-align:center">180,00</td></tr><tr><td style="text-align:center">LOTE 09</td><td style="text-align:center">180,00</td></tr><tr><td style="text-align:center">LOTE 10</td><td style="text-align:center">180,00</td></tr><tr><td style="text-align:center">LOTE 11</td><td style="text-align:center">180,00</td></tr><tr><td style="text-align:center">LOTE 12</td><td style="text-align:center">348,25</td></tr><tr><td style="text-align:center">LOTE 13</td><td style="text-align:center">180,15</td></tr><tr><td style="text-align:center">LOTE 14</td><td style="text-align:center">187,89</td></tr><tr><td style="text-align:center">LOTE 15</td><td style="text-align:center">309,93</td></tr><tr><td style="text-align:center">LOTE 16</td><td style="text-align:center">185,01</td></tr><tr><td style="text-align:center">LOTE 17</td><td style="text-align:center">185,82</td></tr><tr><td style="text-align:center">LOTE 18</td><td style="text-align:center">186,02</td></tr><tr><td style="text-align:center">LOTE 19</td><td style="text-align:center">191,36</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 01 A
+
+239,51
+
+LOTE 02
+
+195,10
+
+LOTE 03
+
+220,33
+
+LOTE 04
+
+211,16
+
+LOTE 05
+
+219,72
+
+LOTE 06
+
+229,07
+
+LOTE 07
+
+236,80
+
+LOTE 08
+
+180,00
+
+LOTE 09
+
+180,00
+
+LOTE 10
+
+180,00
+
+LOTE 11
+
+180,00
+
+LOTE 12
+
+348,25
+
+LOTE 13
+
+180,15
+
+LOTE 14
+
+187,89
+
+LOTE 15
+
+309,93
+
+LOTE 16
+
+185,01
+
+LOTE 17
+
+185,82
+
+LOTE 18
+
+186,02
+
+LOTE 19
+
+191,36

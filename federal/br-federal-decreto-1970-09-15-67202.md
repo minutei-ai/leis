@@ -1,5 +1,3 @@
-###DEC-067202-0-000-15-09-1970@@@
-
 Decreto nº 67.202, de 15 de setembro de 1970.
 
 Altera o Estatuto da Universidade Federal do Rio de Janeiro.

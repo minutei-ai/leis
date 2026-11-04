@@ -1,5 +1,3 @@
-###DEC-054914-0-000-04-11-1964@@@
-
 DECRETO Nº 54.914, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Stefano Quaranta a lavrar tremolita, algamatolito e quartzito, no município de Mogi das Cruzes, Estado de São Paulo.

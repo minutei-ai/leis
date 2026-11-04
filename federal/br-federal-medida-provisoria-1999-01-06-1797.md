@@ -1,5 +1,3 @@
-###MPV-001797-0-000-06-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.797, DE 6 DE JANEIRO DE 1999
 
 Estabelece prazo para as ratificações de concessões e alienações de terras feitas pelos Estados na Faixa de Fronteira, e dá outras providências.

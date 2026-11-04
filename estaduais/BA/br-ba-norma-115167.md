@@ -4,7 +4,8 @@ Dispõe sobre a estrutura e competência da Polícia Militar e dá outras provid
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faz saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPITULO I -<br>
+CAPITULO I -
+
 FINALIDADES E COMPETÊNCIA
 
 Art. 1º - A Polícia Militar do Estado da Bahia destina-se nos termos da Constituição Federal, à manutenção da ordem pública e da segurança interna.
@@ -25,7 +26,8 @@ Art. 3º - A Polícia Militar do Estado da Bahia é órgão em regime especial d
 
 Parágrafo único - As atividades de administração Geral exercidas no âmbito da Polícia Militar independem do Serviço de Administração Geral da Secretaria da Segurança Pública e fazem parte do Sistema de Administração Geral a que se refere o Título III dá Lei nº 2.321, de 11 de abril de 1966 estando por isso sob a coordenação, orientação normativa e controle do Departamento da Administração Geral.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 ESTRUTURA
 
 Art. 4º - A Polícia Militar compreende a seguinte estrutura:
@@ -52,7 +54,8 @@ II - Órgãos Colegiados:
 
 4)Conselho Geral de Ensino.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 FINALIDADES E COMPETÊNCIAS DOS ÓRGÃOS
 
 Art. 5º - O Gabinete do Comando Geral tem por finalidade prestar assistência ao Comando Geral da Polícia Militar em tarefas técnicas e administrativas, competindo-lhe:
@@ -149,7 +152,8 @@ Art. 13 - A organização administrativa dos órgãos e unidades referidas no in
 
 Parágrafo único - O número de unidades policiais ou policiais-militares de estabelecimentos escolares e de serviços técnicos ou assistenciais, será fixado em Lei de Força decretada anualmente pela Assembléia Legislativa, segundo proposta do Poder Executivo e de acordo com a Constituição Federal.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 PESSOAL
 
 Art. 14 - Os componentes da Polícia Militar são servidores públicos especiais para emprego em dupla função-policial e militar e seus direitos, prerrogativas, honras e garantias são os estabelecidos em leis e regulamentos próprios.
@@ -184,57 +188,68 @@ Art. 17 - Os quadros da Polícia Militar são:
 
 1 - Quadro de Oficiais de Segurança (QOS);
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "1 - de Oficiais de Segurança (QOS)."
 
 2 - Quadro de Oficiais de Administração (QOA);
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "2 - de Oficiais de Intendência (QOI)."
 
 3 - Quadro de Oficiais Especialistas e Técnicos (QOET);
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "3 - de Oficiais Auxiliares de Administração (QOAA)."
 
 4 - Quadro de Praças de Segurança (QPS);
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "4 - de Oficiais Especialista e Técnicos (QOET)."
 
 5 - Quadro de Praças Especialistas (QPE);
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "5 - de Praça de Segurança (QPS)."
 
 6 - Quadro de Praças Artíficies (QPA);
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "6 - de Praças Especialista e Artífices (QPEA)."
 
 § 1º - O Quadro de Oficiais de Segurança, como quadro único, compreende os atuais oficiais das armas e intendência.
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "§ 1º - O Quadro de Oficiais de Segurança compreende os atuais Oficiais das Armas."
 
 § 2º - O Quadro de Oficiais de Administração, organizado e definido com a mesma estrutura hierárquica e competências do Quadro de Oficiais de Administração do Exército, destina-se aos serviços de administração interna da Polícia Militar, com efetivo nunca superior a 1/4 (um quarto) do efetivo global dos capitães e oficiais subalternos do (QOS).
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "§ 2º - O Quadro de Oficiais Auxiliares de Administração organizado com as mesmas finalidades, estrutura e competência do Quadro de Oficiais de Administração do Exército, destina-se à administração interna da Polícia Militar com efetivo nunca superior a 1/3 (um terço) dos capitães e oficiais subalternos do Quadro de Oficiais de Intendência."
 
 § 3º - São considerados Oficiais Especialistas os médicos, dentistas, farmacêuticos e outros existentes na Polícia Militar, para cuja nomeação seja exigido curso de nível universitário e de natureza científica.
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "§ 3º - São considerados Oficiais Especialistas os médicos, dentistas, farmacêuticos e outros para cuja admissão seja exigido diploma de curso universitário."
 
 § 4º - São considerados Oficiais Técnicos os músicos, radiotelegrafistas, identificadores-dactiloscopistas e outros existentes na Corporação, cuja admissão não requeira diploma de curso universitário.
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "§ 4º - São considerados Oficiais Técnicos os radiotelegrafistas, músicos, identificadores datiloscopistas e outros cuja admissão não requeira diploma de curso universitário."
 
 § 5º - As Praças de Segurança, especialistas e artífices terão sua qualificação definida no Regulamento Geral da Polícia Militar.
 
-Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.<br>
+Redação de acordo com a Lei nº 2.688, de 28 de abril de 1969.
+
 Redação original: "§ 5º - As praças de segurança especialistas e artífice terão sua definição em regulamento, de acordo com a legislação referente à qualificação de pessoal militar."
 
 Art. 18 - Só poderão ter acesso ao oficialato superior da Polícia Militar os capitães que pelo menos, possuam curso de aperfeiçoamento de oficiais, como lhes for exigido em regulamento.
@@ -249,7 +264,8 @@ Art. 21 - O policial-militar que for considerado sem idoneidade moral para promo
 
 Parágrafo único - O policial-militar que permanecer na situação acima por tempo superior a dois anos consecutivos sem absolvição ou justificação aceita pela Comissão de Promoções ou autoridade superior será compulsóriamente transferido para a Reserva Remunerada, se não for o caso de exclusão, expulsão, demissão ou reforma.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DISPOSIÇÕES GERAIS
 
 Art. 22 - O Comando Geral da Polícia Militar será atribuído a Oficial de Segurança do serviço ativo do posto de coronel ou tenente coronel ou excepcionalmente, o oficial do Exército do quadro das armas do serviço ativo e de posto equivalente àqueles.
@@ -258,7 +274,8 @@ Parágrafo único - O tenente-coronel que for nomeado para comandar a Polícia M
 
 Art. 23 - O Estado Maior da Polícia Militar composto de serviços Administrativos e de serviços técnicos auxiliares terá um Chefe Oficial de Segurança, por indicação do Comandante Geral, sendo o substituto desta autoridade nos seus impedimentos eventuais.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DISPOSIÇÕES TRANSITÓRIAS
 
 Art. 24 - Fica o Poder Executivo autorizado a reestruturar os órgãos e quadros da Polícia Militar de acordo com as necessidades da corporação sem aumento de efetivos até que seja decretada a Lei da fixação de Força

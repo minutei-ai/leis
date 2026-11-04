@@ -1,5 +1,3 @@
-###DEC-044899-0-000-27-11-1958@@@
-
 DECRETO Nº 44.899, DE 27 DE NOVEMBRO DE 1958.
 
 Altera o Regulamento para o Corpo do Pessoal Subalterno da Armada.

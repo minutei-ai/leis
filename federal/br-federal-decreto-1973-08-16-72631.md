@@ -1,5 +1,3 @@
-###DEC-072631-0-000-16-08-1973@@@
-
 DECRETO Nº 72.631, DE 16 DE AGOSTO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.

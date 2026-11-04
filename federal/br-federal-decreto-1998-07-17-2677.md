@@ -1,5 +1,3 @@
-###DEC-002677-0-000-17-07-1998@@@
-
 DECRETO Nº 2.677, DE 17 DE JULHO DE 1998
 
 Promulga o Protocolo de Reforma da Carta da OEA "Protocolo de Manágua" assinado em Manágua, em 10 de junho de 1993.

@@ -1,5 +1,3 @@
-###DEC-006739-0-000-14-01-2009@@@
-
 DECRETO Nº 6.739, DE 14 DE JANEIRO DE 2009.
 
 Fixa o número de vagas para promoção obrigatória, referentes ao ano-base 2008, para os diversos postos dos Quadros do Corpo de Oficiais da Ativa da Aeronáutica.

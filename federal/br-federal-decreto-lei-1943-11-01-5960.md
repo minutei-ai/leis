@@ -1,5 +1,3 @@
-###DEL-005960-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.960 – DE 1 DE NOVEMBRO DE 1943
 
 Abre crédito especial ao Ministério da Educação e Saúde

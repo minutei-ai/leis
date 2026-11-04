@@ -1,5 +1,3 @@
-###DEC-002556-0-000-20-04-1998@@@
-
 DECRETO Nº 2.556, DE 20 DE ABRIL DE 1998
 
 Regulamenta o registro previsto no art. 3º da Lei nº 9.609, de 19 de fevereiro de 1998, que dispõe sobre a proteção da propriedade intelectual de programa de computador, sua comercialização no País, e dá outras providências.

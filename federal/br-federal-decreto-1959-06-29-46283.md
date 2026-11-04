@@ -1,5 +1,3 @@
-###DEC-046283-0-000-29-06-1959@@@
-
 Decreto nº 46.283, de 29 de junho de 1959.
 
 Concede à Mineração Bica d’Arara S.A. autorização para funcionar com emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-067970-0-000-29-12-1970@@@
-
 decreto nº 67.970, de 29 de dezembro de 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o Instituto Nacional de Previdência Social e dá outras providências.

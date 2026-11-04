@@ -1,5 +1,3 @@
-###DEC-073306-0-000-13-12-1973@@@
-
 DECRETO Nº 73.306 - DE 13 DE DEZEMBRO DE 1973
 
 Concede a Indústrias Brasileiras de Artigos Refratários S.A. - IBAR o direito de lavrar argila refratária, no Município de Mogi das Cruzes - Estado de São Paulo.

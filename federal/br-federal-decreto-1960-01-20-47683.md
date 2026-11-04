@@ -1,5 +1,3 @@
-###DEC-047683-0-000-20-01-1960@@@
-
 Decreto nº 47.683, de 20 de janeiro de 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia União de Seguros Gerais.

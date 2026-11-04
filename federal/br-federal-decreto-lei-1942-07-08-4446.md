@@ -1,5 +1,3 @@
-###DEL-004446-0-000-08-07-1942@@@
-
 DECRETO-LEI N. 4.446 – DE 8 DE JULHO DE 1942
 
 Abre, ao Ministério da Viação e Obras Públicas o crédito especial de réis 32.200:000$0, para construção de ramal ferroviário.

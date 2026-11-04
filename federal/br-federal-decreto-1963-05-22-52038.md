@@ -1,5 +1,3 @@
-###DEC-052038-0-000-22-05-1963@@@
-
 DECRETO Nº 52.038, DE 22 DE MAIO DE 1963.
 
 Fica suprimida a representação do Ministério da Agricultura no Grupo Executivo para as Terras do Sudoeste do Paraná (GETSOP).

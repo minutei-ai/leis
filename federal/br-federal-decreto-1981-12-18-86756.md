@@ -1,5 +1,3 @@
-###DEC-086756-0-000-18-12-1981@@@
-
 Decreto nº 86.756, de 18 de dezembro de 1981
 
 Estabelece área de proteção para fonte de água potável de mesa.

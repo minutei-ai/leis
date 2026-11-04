@@ -1,5 +1,3 @@
-###DEC-060234-0-000-17-02-1967@@@
-
 Decreto nº 60.234, de 17 de fevereiro de 1967.
 
 Altera a redação dos artigos 7º e 17 do Decreto nº 59.575, de 18 de novembro de 1966.

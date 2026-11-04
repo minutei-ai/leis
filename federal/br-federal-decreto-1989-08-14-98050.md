@@ -1,7 +1,3 @@
-1
-
-###DEC-098050-0-000-14-08-1989@@@
-
 DECRETO Nº 98.050, DE 14 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Faculdade de Nutrição e Fonoaudiologia.

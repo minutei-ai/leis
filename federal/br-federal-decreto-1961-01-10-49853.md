@@ -1,5 +1,3 @@
-###DEC-049853-0-000-10-01-1961@@@
-
 DECRETO Nº 49.853, DE 10 DE JANEIRO DE 1961.
 
 Inclui o art. - 3º no Decreto número 49.190-A, de 09-11-60, que fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, para o ano de 1961.

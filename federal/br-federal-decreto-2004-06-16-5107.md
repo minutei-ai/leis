@@ -1,5 +1,3 @@
-###DEC-005107-0-000-16-06-2004@@@
-
 DECRETO Nº 5.107, DE 16 DE JUNHO DE 2004
 
 Dispõe sobre a 2 a Brigada de Infantaria de Selva e dá outras providências.

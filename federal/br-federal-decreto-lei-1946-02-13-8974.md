@@ -1,5 +1,3 @@
-###DEL-008974-0-000-13-02-1946@@@
-
 DECRETO-LEI N. 8.974 – DE 13 DE FEVEREIRO DE 1946
 
 Restaura os Conselhos Administrativos

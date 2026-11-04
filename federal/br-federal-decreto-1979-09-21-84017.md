@@ -1,5 +1,3 @@
-###DEC-084017-0-000-21-09-1979@@@
-
 Decreto nº 84.017, de 21 de setembro de 1979.
 
 Aprova o Regulamento dos Parques Nacionais Brasileiros.

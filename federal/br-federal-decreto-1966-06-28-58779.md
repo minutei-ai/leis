@@ -1,5 +1,3 @@
-###DEC-058779-0-000-28-06-1966@@@
-
 DECRETO Nº 58.779, DE 28 DE JUNHO DE 1966.
 
 Modifica a redação do § 2º do art. 1º do Decreto nº 57.835, de 17 de fevereiro de 1966.

@@ -1,5 +1,3 @@
-###DEL-005632-0-000-29-06-1943@@@
-
 DECRETO‑LEI N. 5.632 – DE 29 DE JUNHO DE 1943
 
 Substitui o item 11 do art. 2º do decreto‑lei n. 5,223, de 25 de janeiro de 1943

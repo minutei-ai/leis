@@ -1,5 +1,3 @@
-###DEC-068673-0-000-24-05-1971@@@
-
 DECRETO Nº 68.673 - DE 24 DE MAIO DE 1971.
 
 Dispõe sôbre a nomeação e designação de Militares da Marinha.

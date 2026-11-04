@@ -1,5 +1,3 @@
-###DEL-005576-0-000-14-06-1943@@@
-
 DECRETO‑LEI N. 5.576 – DE 14 DE JUNHO DE 1943
 
 Assegura direito a emprêgo aos ex‑empregados dos bancos cuja liquidação foi determinada pelo decreto‑lei n. 4.612, de 24‑8-42, e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-001043-0-000-13-01-1994@@@
-
 # DECRETO Nº 1.043, DE 13 DE JANEIRO DE 1994
 
 Regulamenta o art. 6º da Lei nº 8.627, de 19 de fevereiro de 1993, que dispõe sobre o pagamento dos servidores, civis e militares, da União, das autarquias e das fundações públicas.

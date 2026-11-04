@@ -1,14 +1,12 @@
-###DEC-043845-0-000-06-06-1958@@@
+**DECRETO Nº 43.845, DE 6 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.845, DE 6 DE JUNHO DE 1958.</strong>
+***Inclui funções gratificadas no Ministério da Fazenda, e dá outras providências.***
 
-<em><strong>Inclui funções gratificadas no Ministério da Fazenda, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas no Ministério da Fazenda as funções gratificada abaixo discriminadas, com os respectivos símbolos que integrarão a lotação das Delegacias Fiscais do Tesouro Nacional nos Estados:
+**Art**. 1º Ficam incluídas no Ministério da Fazenda as funções gratificada abaixo discriminadas, com os respectivos símbolos que integrarão a lotação das Delegacias Fiscais do Tesouro Nacional nos Estados:
 
 Símbolo FG-2
 
@@ -54,24 +52,24 @@ Símbolo FG-8
 
 17 - Chefe de Arquivo (Amazonas, Pará, Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia, Espírito Santo, Rio de Janeiro, Paraná, Santa Catarina, Goiás e Mato Grosso).
 
-<strong>Art</strong>. 2º As atuais funções gratificadas abaixo discriminadas ficam classificadas no Símbolo FG-2:
+**Art**. 2º As atuais funções gratificadas abaixo discriminadas ficam classificadas no Símbolo FG-2:
 
 3 - Chefe de Serviço de Contrôle e Pagamento (São Paulo, Rio Grande do Sul e Minas Gerais).
 
 3 - Chefe de Serviço de Estudos e Fiscalização (São Paulo, Rio Grande do Sul e Minas Gerais).
 
-<strong>Art</strong>. 3º Ficam classificadas, no Símbolo FG-8, as funções gratificadas, abaixo mencionadas:
+**Art**. 3º Ficam classificadas, no Símbolo FG-8, as funções gratificadas, abaixo mencionadas:
 
 17 - Chefe de Portaria (Amazonas, Pará, Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, Bahia, Espírito Santo, Rio de Janeiro, Paraná, Santa Catarina, Goiás e Mato Grosso).
 
-<strong>Art</strong>. 4º A despesa com a execução dêste Decreto correrá à conta da dotação orçamentária própria.
+**Art**. 4º A despesa com a execução dêste Decreto correrá à conta da dotação orçamentária própria.
 
-<strong>Art</strong>. 5º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 5º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+**Art**. 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim

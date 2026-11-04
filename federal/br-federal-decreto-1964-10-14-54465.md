@@ -1,5 +1,3 @@
-###DEC-054465-0-000-14-10-1964@@@
-
 DECRETO Nº 54.465, DE 14 DE OUTUBRO de 1964.
 
 Autoriza o cidadão brasileiro Francisco Luiz da Silva Campos a pesquisar calcário e quartzo no município de Minas Gerais.

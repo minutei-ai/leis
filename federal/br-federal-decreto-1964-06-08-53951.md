@@ -1,5 +1,3 @@
-###DEC-053951-0-000-08-06-1964@@@
-
 DECRETO Nº 53.951, 8 DE JUNHO DE 1964.
 
 Modifica o Regimento do Serviço Nacional de Educação Sanitária, aprovado pelo Decreto nº 914, de 18 de abril de 1962.

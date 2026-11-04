@@ -1,5 +1,3 @@
-###DEC-047975-0-000-02-04-1960@@@
-
 decreto nº 47.975, de 2 de abril de 1960.
 
 Cria o Comando Naval de Brasília e dá outras providências.

@@ -1,24 +1,22 @@
-###DEC-019399-0-000-10-08-1945@@@
+**DECRETO Nº 19.399, DE 10 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.399, DE 10 DE AGÔSTO DE 1945.</strong>
+***Concede permissão à S.A. Rádio Araguari para estabelecer, na cidade de Araguari, Estado de Minas Gerais, uma estação radiodifusora.***
 
-<em><strong>Concede permissão à S.A. Rádio Araguari para estabelecer, na cidade de Araguari, Estado de Minas Gerais, uma estação radiodifusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição.
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição.
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica concedida à S.A. Rádio Araguari, permissão para estabelecer, na cidade de Araguari, Estado de Minas Gerais, sem direito de exclusividade, uma estação destinada a executar os serviços de radiodifusão, nos termos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias a contar da data da publicação dêste decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 10 de agôsto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João de Mendonça Lima
 
-<strong>CLÀUSULAS A QUE SE REFERE O DECRETO Nº 19.399, DESTA DATA</strong>
+**CLÀUSULAS A QUE SE REFERE O DECRETO Nº 19.399, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobervância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizador, impor à concessionária multas de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telegráfos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial.</em>
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telegráfos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial.*
 
 VII
 
@@ -86,7 +84,7 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alineas <em>a</em>,<em>b</em>,<em>c</em>,<em>d</em>,<em>i</em> (infine)<em>,j</em>,<em>k</em>, e <em>l</em> da cláusula III;
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alineas *a*,*b*,*c*,*d*,*i* (infine)*,j*,*k*, e *l* da cláusula III;
 
 b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea e da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 10 de agôsto de 1945.
 
-<strong>JOÃO DE MENDONÇA LIMA</strong>
+**JOÃO DE MENDONÇA LIMA**

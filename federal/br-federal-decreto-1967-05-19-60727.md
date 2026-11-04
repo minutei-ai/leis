@@ -1,5 +1,3 @@
-###DEC-060727-0-000-19-05-1967@@@
-
 Decreto nº 60.727, de 19 de maio de 1967.
 
 Declara de utilidade pública a “Associação de Educação Familiar e Social”, com sede no Estado da Guanabara.

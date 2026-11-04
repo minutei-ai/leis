@@ -1,5 +1,3 @@
-###DEC-047060-0-000-21-10-1959@@@
-
 DECRETO Nº 47.060, DE 21 DE OUTUBRO DE 1959.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel destinado à ampliação da Escola Industrial Deodoro da Fonseca.

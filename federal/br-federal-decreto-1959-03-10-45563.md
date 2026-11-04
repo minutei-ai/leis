@@ -1,5 +1,3 @@
-###DEC-045563-0-000-10-03-1959@@@
-
 DECRETO Nº 45.563, DE 10 DE março DE 1959.
 
 Abre pelo Tribunal de Contas, o crédito especial de Cr$10.000.000,00, para os fins que especifica.

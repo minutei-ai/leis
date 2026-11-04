@@ -1,5 +1,3 @@
-###DEC-048769-0-000-11-08-1960@@@
-
 Decreto nº 48.769, de 11 de agÔsto de 1960.
 
 Autoriza Silveira & Cia. Ltda., a comprar pedras preciosas.

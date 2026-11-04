@@ -1,5 +1,3 @@
-###DEC-067989-0-000-30-12-1970@@@
-
 DECRETO Nº 67.989, DE 30 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública o Nosso Lar - Casa da Criança - Mantenedora da Casa de Repouso Nosso Lar (Hospital) de Fortaleza, com sede em Fortaleza, Estado do Ceará.

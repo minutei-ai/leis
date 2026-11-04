@@ -1,5 +1,3 @@
-###DEC-053271-0-000-13-12-1963@@@
-
 decreto nº 53.271, de 13 dezembro de 1963.
 
 Autoriza o cidadão brasileiro José Pedro Fonsêca Filho a pesquisar calcário, no município de Matozinhos, Estado de Minas Gerais.

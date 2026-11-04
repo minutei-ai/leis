@@ -1,5 +1,3 @@
-###DEC-075355-0-000-05-02-1975@@@
-
 DECRETO Nº 75.355, DE 5 DE FEVEREIRO DE 1975.
 
 Altera a denominação da Secretaria-Geral da Aeronáutica para Secretaria de Economia e Finanças da Aeronáutica e dá outras providências.

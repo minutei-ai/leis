@@ -1,5 +1,3 @@
-###MPV-002053-0-035-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.053-35, DE 25 DE JANEIRO DE 2001
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

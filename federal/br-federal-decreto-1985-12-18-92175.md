@@ -1,5 +1,3 @@
-###DEC-092175-0-000-18-12-1985@@@
-
 DecreTO nº 92.175, de 18 De dezembro de 1985.
 
 Dispõe sobre a cumulatividade da Embaixada do Brasil junto à República da Irlanda.

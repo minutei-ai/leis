@@ -1,5 +1,3 @@
-###DEC-051960-0-000-26-04-1963@@@
-
 DECRETO Nº 51.960, DE 26 DE ABRIL DE 1963.
 
 Institui como Patrono da Arma de Comunicações o Marechal Cândido Mariano da Silva Rondon.

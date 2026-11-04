@@ -1,5 +1,3 @@
-###DEC-097430-0-000-05-01-1989@@@
-
 DECRETO N° 97.430, DE 5 DE JANEIRO DE 1989
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade Jiparanaense de Educação, em Ji-Paraná, Estado de Rondônia.

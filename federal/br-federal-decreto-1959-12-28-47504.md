@@ -1,5 +1,3 @@
-###DEC-047504-0-000-28-12-1959@@@
-
 DECRETO Nº 47.504, DE 28 DE DEZEMBRO DE 1959.
 
 Transfere de Filoteo de Godoy para a Companhia Fôrça e Luz de Canapolis S.A. a concessão para a produção e fornecimento de energia elétrica ao Município de Canápolis, Estado de Minas Gerais.

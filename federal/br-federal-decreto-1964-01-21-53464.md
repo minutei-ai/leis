@@ -1,5 +1,3 @@
-###DEC-053464-0-000-21-01-1964@@@
-
 DECRETO Nº 53.464, DE 21 DE JANEIRO DE 1964.
 
 Regulamenta a Lei nº 4.119, de 27 de agôsto de 1962, que dispõe sôbre a profissão de psicólogo.

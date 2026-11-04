@@ -1,5 +1,3 @@
-###DEC-089123-0-000-06-12-1983@@@
-
 Decreto nº 89.123, de 06 de dezembro 1983
 
 Concede à Companhia Siderúrgica de Tubarão - CST autorização para proceder a aumento do seu Capital Social.

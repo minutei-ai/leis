@@ -1,5 +1,3 @@
-###DEC-076943-0-000-30-12-1975@@@
-
 DECRETO Nº 76.943, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de formação de Professores para as Disciplinas Especializadas do 2º grau, do Centro Educacional Técnica, com sede na cidade de Belo Horizonte Estado de Minas Gerais.

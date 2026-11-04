@@ -1,5 +1,3 @@
-###DEC-059588-0-000-24-11-1966@@@
-
 DECRETO Nº 59.588, DE 24 DE NOVEMBRO DE 1966.
 
 Inclui função gratificada na Parte Permanente do Quadro de Pessoal, do Ministério da Educação e Cultura.

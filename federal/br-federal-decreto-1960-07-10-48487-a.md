@@ -1,5 +1,3 @@
-###DEC-048487-A-000-10-07-1960@@@
-
 DECRETO Nº 48.487-A, DE 10 DE JULHO DE 1960.
 
 Dispõe sôbre a transferência de cargo do Quadro de Pessoal do IPASE.

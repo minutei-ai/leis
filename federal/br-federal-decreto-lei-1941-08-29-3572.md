@@ -1,5 +1,3 @@
-###DEL-003572-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.572 – DE 29 DE AGOSTO DE 1941
 
 Revoga, em parte, o decreto que criou os Distritos Navais e um Comando Naval no território brasileiro

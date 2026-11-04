@@ -1,5 +1,3 @@
-###DEC-060022-0-000-11-01-1967@@@
-
 Decreto nº 60.022, de 11 de Janeiro de 1967.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, e domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

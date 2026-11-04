@@ -1,5 +1,3 @@
-###DEC-070074-0-000-28-01-1972@@@
-
 DECRETO Nº 70.074, DE 28 DE JANEIRO DE 1972.
 
 Concede à Azuleijos do Pará S.A AZPA o direito de lavrar caulim e argila, no município de Iritúia, Estado do Pará.

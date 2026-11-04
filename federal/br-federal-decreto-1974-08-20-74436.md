@@ -1,5 +1,3 @@
-###DEC-074436-0-000-20-08-1974@@@
-
 DECRETO Nº 74.436 - DE 20 DE AGOSTO DE 1974.
 
 Autoriza o funcionamento dos cursos de Turismo e de Comunicação Social da Faculdade de Relações Públicas e Turismo do Brooklin, mantida pela Associação Nacional de Educação e Cultura - ANEC, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-068459-0-000-01-04-1971@@@
-
 DECRETO Nº 68.459 - DE 1 DE ABRIL DE 1971.
 
 Regulamenta a pesca, tendo em vista o aproveitamento racional e a conservação dos recursos vivos do mar territorial brasileiro.

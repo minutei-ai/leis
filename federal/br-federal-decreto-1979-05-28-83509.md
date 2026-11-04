@@ -1,5 +1,3 @@
-###DEC-083509-0-000-28-05-1979@@@
-
 DECRETO Nº 83.509, DE 28 DE MAIO DE 1979.
 
 Autoriza o funcionamento dos cursos de Letras e Estudos Sociais, ministrados em Telêmaco Borba, em regime de extensão, pela Universidade Estadual de Ponta Grossa, Estado do Paraná.

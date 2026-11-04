@@ -1,5 +1,3 @@
-###DEL-007337-0-000-23-02-1945@@@
-
 DECRETO-LEI N. 7.337 – DE 23 DE FEVEREIRO DE 1945
 
 Dispõe sôbre a transformação de cargo no Ministério da Justiça e Negócios Interiores

@@ -1,5 +1,3 @@
-###DEC-084629-0-000-09-04-1980@@@
-
 Decreto nº 84.629, de 09 de abril de 1980.
 
 Revoga o Decreto nº 81.998, de 19 de julho de 1978.

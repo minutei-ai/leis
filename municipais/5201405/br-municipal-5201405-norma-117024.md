@@ -72,11 +72,14 @@ Art. 13. Esta lei entra em vigor na data de sua publicação, revogadas as dispo
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, AOS 02 DIAS DO MÊS DE JULHO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento

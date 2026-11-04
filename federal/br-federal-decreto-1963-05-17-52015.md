@@ -1,5 +1,3 @@
-###DEC-052015-0-000-17-05-1963@@@
-
 DECRETO Nº 52.015, DE 17 DE MAIO DE 1963.
 
 Declara de utilidade pública a Fundação Educandário Pestalozzi, com sede em Franca, Estado de São Paulo.

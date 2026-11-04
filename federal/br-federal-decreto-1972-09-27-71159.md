@@ -1,5 +1,3 @@
-###DEC-071159-0-000-27-09-1972@@@
-
 DECRETO Nº 71.159, DE 27 DE SETEMBRO DE 1972.
 
 Dispõe sobre a auditoria da aplica de recursos em financiamentos de programas e projetos de cooperação técnica.

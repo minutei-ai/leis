@@ -1,5 +1,3 @@
-###DEC-057216-0-000-10-11-1965@@@
-
 DECRETO Nº 57.216, DE 10 DE NOVEMBRO DE 1965.
 
 Autoriza a Cerâmica Assad S.A. a pesquisar argila, no município de Jundiaí, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-077804-0-000-09-06-1976@@@
-
 DECRETO Nº 77.804, DE 9 DE JUNHO DE 1976.
 
 Cria Organizações Militares e dá outras providências.

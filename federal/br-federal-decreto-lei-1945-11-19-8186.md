@@ -1,5 +1,3 @@
-###DEL-008186-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.186 – DE 19 DE NOVEMBRO DE 1945
 
 Dispõe sobre o processo e julgamento dos crimes da competência do extinto Tribunal de Segurança Nacional.

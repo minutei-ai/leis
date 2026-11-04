@@ -1,5 +1,3 @@
-###DEC-071338-0-000-08-11-1972@@@
-
 decreto nº 71.338 - de 8 de novembro de 1972.
 
 Concede reconhecimento ao Curso de Arquitetura da Faculdade de Arquitetura de Barra do Piraí - RJ.

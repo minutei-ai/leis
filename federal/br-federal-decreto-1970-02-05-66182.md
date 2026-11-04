@@ -1,5 +1,3 @@
-###DEC-066182-0-000-05-02-1970@@@
-
 decreto nº 66.182 - de 5 de fevereiro de 1970
 
 Outorga à Companhia de Telecomunicações de Goiás - COTELGO, concessão para explorar os serviços Telefônicos Públicos Interurbanos no Estado de Goiás e dá outras providências.

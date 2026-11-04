@@ -14,13 +14,16 @@ Art. 3º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, aos 23 dias do mês de abril de 2008.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-ALEXANDRE GONÇALVES DE OLIVEIRA<br>
+ALEXANDRE GONÇALVES DE OLIVEIRA
+
 SECRETÁRIO DE EDUCAÇÃO
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18735)

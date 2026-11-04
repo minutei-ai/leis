@@ -1,5 +1,3 @@
-###DEC-002521-0-000-20-03-1998@@@
-
 DECRETO Nº 2.521, DE 20 DE MARÇO DE 1998
 
 Dispõe sobre a exploração, mediante permissão e autorização, de serviços de transporte rodoviário interestadual e internacional de passageiros e dá outras providências.

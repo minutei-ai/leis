@@ -1,5 +1,3 @@
-###DEC-004092-0-000-16-01-2002@@@
-
 DECRETO Nº 4.092, DE 16 DE JANEIRO DE 2002.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Panamá sobre Isenção de Vistos em Passaportes Comuns, celebrado em Brasília, em 10 de abril de 2000.

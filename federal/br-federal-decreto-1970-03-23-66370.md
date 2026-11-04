@@ -1,5 +1,3 @@
-###DEC-066370-0-000-23-03-1970@@@
-
 DECRETO Nº 66.370 - DE 23 DE MARÇO DE 1970
 
 Aprova o Regulamento para a Diretoria de Hidrografia e Navegação.

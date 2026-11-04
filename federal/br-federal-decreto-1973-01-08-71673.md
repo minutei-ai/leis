@@ -1,5 +1,3 @@
-###DEC-071673-0-000-08-01-1973@@@
-
 DECRETO Nº 71.673, DE 8 DE JANEIRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis na cidade do Rio de Janeiro, Estado da Guanabara, destinados à construção de estação receptora de energia elétrica.

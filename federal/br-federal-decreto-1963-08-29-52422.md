@@ -1,5 +1,3 @@
-###DEC-052422-0-000-29-08-1963@@@
-
 DECRETO Nº 52.422, DE 29 DE Agôsto DE 1963.
 
 Retifica o Decreto nº 52.316, de 1º de agôsto de 1963.

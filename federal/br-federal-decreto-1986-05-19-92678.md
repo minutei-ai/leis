@@ -1,5 +1,3 @@
-###DEC-092678-0-000-19-05-1986@@@
-
 DECRETO Nº 92.678, DE 19 DE MAIO DE 1986
 
 Define a área de competência do Ministério da Reforma e do Desenvolvimento Agrário (MIRAD), extingue o Grupo Executivo para a Região do Baixo Amazonas - GEBAM, e dá outras providências.

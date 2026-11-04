@@ -1,7 +1,3 @@
-1
-
-###DEC-001470-0-000-27-04-1995@@@
-
 DECRETO Nº 1.470, DE 27 DE ABRIL DE 1995
 
 Altera o art. 28 do Estatuto aprovado pelo Decreto nº 97.434, de 5 de janeiro de 1989, que dispõe sobre a Fundação Instituto Brasileiro de Geografia e Estatística- IBGE.

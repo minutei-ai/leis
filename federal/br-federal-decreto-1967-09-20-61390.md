@@ -1,5 +1,3 @@
-###DEC-061390-0-000-20-09-1967@@@
-
 decreto nº 61.390, de 20 de setembro de 1967.
 
 Dispõe sôbre as providências iniciais e imediatas para a implantação da Reforma Administrativa no Ministério da Agricultura.

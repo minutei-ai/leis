@@ -1,5 +1,3 @@
-###DEC-088774-0-000-28-09-1983@@@
-
 DECRETO Nº 88.774, DE 28 DE SETEMBRO DE 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Peixe, Estado de Goiás.

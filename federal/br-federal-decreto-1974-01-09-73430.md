@@ -1,5 +1,3 @@
-###DEC-073430-0-000-09-01-1974@@@
-
 DECRETO Nº 73.430, DE 9 DE JANEIRO DE 1974.
 
 Redefine as atribuições e fixa a estrutura básica do Departamento Nacional de Estradas de Ferro - DNEF e dá outras providências.

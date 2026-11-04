@@ -1,5 +1,3 @@
-###DEC-073603-0-000-08-02-1974@@@
-
 DECRETO Nº 73.603, DE 8 DE FEVEREIRO DE 1974.
 
 Aprova o Regulamento do Departamento de Aviação Civil e dá outras providências.

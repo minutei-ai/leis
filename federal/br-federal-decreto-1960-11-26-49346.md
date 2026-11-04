@@ -1,5 +1,3 @@
-###DEC-049346-0-000-26-11-1960@@@
-
 DECRETO Nº 49.346, DE 26 DE NOVEMBRO DE 1960.
 
 Cria a Tabela Numérica Especial de Mensalistas do Ministério da Saúde e dá outras providências.

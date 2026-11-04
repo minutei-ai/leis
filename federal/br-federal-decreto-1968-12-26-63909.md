@@ -1,5 +1,3 @@
-###DEC-063909-0-000-26-12-1968@@@
-
 DECRETO Nº 63.909, DE 26 DE DEZEMBRO DE 1968.
 
 Declara de utilidade pública a "Obra de Preservação dos Filhos de Tuberculosos" com sede em São Paulo, Estado de São Paulo.

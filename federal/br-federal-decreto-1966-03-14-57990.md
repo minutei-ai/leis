@@ -1,5 +1,3 @@
-###DEC-057990-0-000-14-03-1966@@@
-
 DECRETO Nº 57.990, DE 14 DE MARÇO DE 1966.
 
 Anula o Decreto nº 42.245, de 5 de setembro de 1957.

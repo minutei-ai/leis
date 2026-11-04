@@ -1,5 +1,3 @@
-###DEC-064481-0-000-08-05-1969@@@
-
 DECRETO Nº 64.481, DE 8 DE MAio DE 1969.
 
 Constitui uma delegação para o V Encontro Internacional do Notariado Americano da União Internacional do Notariado Latino.

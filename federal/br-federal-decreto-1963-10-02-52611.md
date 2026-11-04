@@ -1,5 +1,3 @@
-###DEC-052611-0-000-02-10-1963@@@
-
 DECRETO Nº 52.611, DE 2 DE OUTUBRO DE 1963.
 
 Autoriza a Sociedade Algodoeira do Nordeste Brasileiro S.A. - SANBRA - a instalar uma usina termo-elétrica em Maringá, Estado do Paraná.

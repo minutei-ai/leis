@@ -1,5 +1,3 @@
-###DEC-087735-0-000-19-10-1982@@@
-
 Decreto nº 87.735, de 19 de outubro de 1982
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

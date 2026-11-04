@@ -1,5 +1,3 @@
-###DEC-082499-0-000-27-10-1978@@@
-
 Decreto nº 82.499, de 27 de outubro de 1978
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Amaltino França Diniz pelo Decreto nº 60.166, de 01 de fevereiro de 1967.

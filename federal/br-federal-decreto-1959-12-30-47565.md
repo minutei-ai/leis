@@ -1,5 +1,3 @@
-###DEC-047565-0-000-30-12-1959@@@
-
 Decreto nº 47.565, de 30 de dezembro de 1959.
 
 Abre, ao Departamento Administrativo do Serviço Público, o crédito especial de Cr$1.500.000,00, para o fim que especifica.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 30 de dezembro de 1959; 138º da Independência e 71º da Rep
 Juscelino Kubitschek
 
 S. Paes de Almeida
-
-###DEC-047565-0-000-30-12-1959@@@RET01+++
 
 Decreto nº 47.565, de 30 de dezembro de 1959.
 

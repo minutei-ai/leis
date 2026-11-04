@@ -1,5 +1,3 @@
-###DEC-096295-0-000-11-07-1988@@@
-
 DECRETO N° 96.295, DE 11 DE JULHO DE 1988
 
 Revoga os §§ 2° e 3° do art. 6° do Decreto n° 91.370, de 26 de junho de 1985, que instituiu o Conselho Interministerial de Salários de Empresas Estatais - CISE.

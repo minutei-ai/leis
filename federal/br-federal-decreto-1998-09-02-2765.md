@@ -1,5 +1,3 @@
-###DEC-002765-0-000-02-09-1998@@@
-
 DECRETO Nº 2.765, DE 2 DE SETEMBRO DE 1998
 
 Dá nova redação aos arts. 5º e 6º do Decreto nº 2.618, de 5 de junho de 1998, que dispõe sobre o Programa Emergencial de Frentes Produtivas.

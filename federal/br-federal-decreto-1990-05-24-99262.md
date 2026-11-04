@@ -1,7 +1,3 @@
-1
-
-###DEC-099262-0-000-24-05-1990@@@
-
 DECRETO N.º 99.262, DE 24 DE MAIO DE 1990
 
 Introduz alterações no Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto nº 93.326, de 1º de outubro de 1986.

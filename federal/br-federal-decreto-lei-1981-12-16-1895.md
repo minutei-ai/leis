@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/efbc0758-47b6-4684-bd4b-ea316ef886e7/texto#nowhere)
 
-###DEL-001895-0-000-16-12-1981@@@
-
 # Decreto-Lei nº 1.895, dE 16 dE dezembro DE 1981
 
 Altera dispositivos da Lei nº 6.468, de 14 de novembro de 1977, modificada pelos Decretos-leis nºs. 1.647, de 18 de dezembro de 1978, e 1.706, de 23 de outubro de 1979, que dispõe sobre a tributação simplificada para pequenas e médias empresas, e dá outras providências.

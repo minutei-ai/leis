@@ -1,5 +1,3 @@
-###DEC-074449-0-000-22-08-1974@@@
-
 DECRETO Nº 74.449 - DE 22 DE AGOSTO DE 1974.
 
 Consolida as normas sobre regime de trabalho dos servidores incluídos no Plano de Classificação de Cargos, de que trata a Lei n.º 5.645, de 10 de dezembro de 1970, e dá outras providências.

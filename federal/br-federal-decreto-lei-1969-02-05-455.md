@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7012c1f6-5516-4fa7-9328-0744c624db02/texto#nowhere)
 
-###DEL-000455-0-000-05-02-1969@@@
-
 DECRETO-LEI Nº 455, DE 5 DE FEVEREIRO DE 1969
 
 Reajusta os vencimentos de cargos da Prefeitura do Distrito Federal e dá outras providências.

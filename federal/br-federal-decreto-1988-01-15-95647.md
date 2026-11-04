@@ -1,7 +1,3 @@
-1
-
-###DEC-095647-0-000-15-01-1988@@@
-
 DECRETO N° 95.647, DE 15 DE JANEIRO DE 1988
 
 Fixa as proporções, referentes ao ano-base de 1987, a serem observadas para promoção obrigatória de Oficiais das Armas Quadros e Serviços do Exército.
@@ -12,7 +8,125 @@ DECRETA:
 
 Art. 1° São fixadas, para o ano-base de 1987, as seguintes proporções a serem observadas no cálculo do número de vagas para promoção obrigatória no Exército:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:124.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Postos </span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-family:Symbol; font-size:10pt"></span><span style="font-size:10pt">Armas, Quadros e Sv</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:14pt"><span style="font-size:9.33pt; vertical-align:sub">Cel.</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:14pt"><span style="font-size:9.33pt; vertical-align:sub">Ten.-Cel.</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:14pt"><span style="font-size:9.33pt; vertical-align:sub">Maj.</span></p></td><td style="width:53.2pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:14pt"><span style="font-size:9.33pt; vertical-align:sub">Cap.</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:14pt"><span style="font-size:9.33pt; vertical-align:sub">1° Ten.</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Armas e QMB</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/9</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">--</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Médicos</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/6</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Farmacêuticos</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">--</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Dentistas</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/5</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Veterinários</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/6</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/20</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">--</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Intendentes</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/12</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/11</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">QEM</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/7</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/15</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">--</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SAREX</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/3</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/7</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">1/8</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:124.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">QAO</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-left:17pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/4</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1/10</span></p></td></tr></tbody></table>
+Postos Armas, Quadros e Sv
+
+Cel.
+
+Ten.-Cel.
+
+Maj.
+
+Cap.
+
+1° Ten.
+
+Armas e QMB
+
+1/8
+
+1/8
+
+1/9
+
+-
+
+--
+
+Médicos
+
+1/6
+
+1/10
+
+1/20
+
+-
+
+-
+
+Farmacêuticos
+
+1/4
+
+1/4
+
+1/20
+
+--
+
+-
+
+Dentistas
+
+1/5
+
+1/10
+
+1/20
+
+-
+
+-
+
+Veterinários
+
+1/8
+
+1/6
+
+1/20
+
+-
+
+--
+
+Intendentes
+
+1/8
+
+1/12
+
+1/11
+
+-
+
+-
+
+QEM
+
+1/8
+
+1/7
+
+1/15
+
+-
+
+--
+
+SAREX
+
+1/3
+
+1/7
+
+1/8
+
+-
+
+-
+
+QAO
+
+-
+
+-
+
+-
+
+1/4
+
+1/10
 
 Art. 2° Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

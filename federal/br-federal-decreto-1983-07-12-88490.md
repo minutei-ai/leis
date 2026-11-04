@@ -1,5 +1,3 @@
-###DEC-088490-0-000-12-07-1983@@@
-
 Decreto nº 88.490, de 12 de julho de 1983
 
 Altera o Estatuto da empresa pública Casa da Moeda do Brasil.

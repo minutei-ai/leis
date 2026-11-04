@@ -1,5 +1,3 @@
-###DEC-093414-0-000-15-10-1986@@@
-
 DECRETO Nº 93.414, DE 15 DE OUTUBRO DE 1986
 
 Altera o Decreto nº 88.626, de 16 de agosto de 1983, que "estabelece normas para o escoamento, comercialização e estocagem de álcool para fins energéticos, e dá outras providências''.

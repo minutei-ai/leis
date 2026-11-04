@@ -1,5 +1,3 @@
-###DEL-000866-0-000-12-09-1969@@@
-
 DECRETO-LEI Nº 866, de 12 de setembro de 1969
 
 Declara de interêsse da Segurança Nacional, nos têrmos do artigo 16, § 1º , alínea b, da Constituição, o Município que especifica, e dá outras providências.

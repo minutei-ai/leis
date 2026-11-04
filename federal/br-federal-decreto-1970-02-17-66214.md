@@ -1,5 +1,3 @@
-###DEC-066214-0-000-17-02-1970@@@
-
 DECRETO Nº 66.214 - DE 17 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública, o Ginásio Pio XII, com sede em Belo Horizonte, Estado de Minas Gerais.

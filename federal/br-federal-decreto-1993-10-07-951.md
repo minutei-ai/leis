@@ -1,7 +1,3 @@
-1
-
-###DEC-000951-0-000-07-10-1993@@@
-
 DECRETO N° 951, DE 7 DE OUTUBRO DE 1993
 
 Dispõe sobre a autorização a servidores da Administração Pública Federal, para afastamento do País.
@@ -62,8 +58,6 @@ ITAMAR FRANCO
 
 Henrique Hargreaves
 
-###DEC-000951-0-000-07-10-1993@@@RET01+++
-
 DECRETO N.° 951, DE 7 DE OUTUBRO DE 1993
 
 Dispõe sobre a autorização a servidores da Administração Pública Federal, para afastamento do País.
@@ -91,8 +85,6 @@ onde se lê:
 leia-se:
 
 “... dos mapas a que se refere o art. 8°”
-
-###DEC-000951-0-000-07-10-1993@@@RET02+++
 
 DECRETO Nº 951, DE 7 DE OUTUBRO DE 1993
 

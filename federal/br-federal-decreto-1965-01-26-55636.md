@@ -1,5 +1,3 @@
-###DEC-055636-0-000-26-01-1965@@@
-
 decreto Nº 55.636, DE 26 DE JANEIRO de 1965.
 
 Concede autorização à S.A.I.R.F. Matarazzo para trabalho contínuo, na forma estabelecida neste Decreto. (MTPS-175.972-64).

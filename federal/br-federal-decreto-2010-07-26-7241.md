@@ -1,5 +1,3 @@
-###DEC-007241-0-000-26-07-2010@@@
-
 DECRETO Nº 7.241, DE 26 DE JULHO DE 2010.
 
 Transfere a cumulatividade das Embaixadas do Brasil em Moroni, na República Federal Islâmica das Comores, e em Victoria, na República das Seicheles, para a Embaixada do Brasil em Dar es Salam

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/724eb9c2-bdd0-42a3-afed-ccd5c48f729e/texto#nowhere)
 
-###DEL-001216-0-000-09-05-1972@@@
-
 # DECRETO-LEI Nº 1.216, DE 9 DE MAIO DE 1972
 
 Dispõe sobre a entrega das parcelas pertencentes aos Municípios, do produto da arrecadação do imposto sobre a circulação de mercadorias.

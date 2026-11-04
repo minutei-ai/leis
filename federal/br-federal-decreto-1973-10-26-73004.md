@@ -1,5 +1,3 @@
-###DEC-073004-0-000-26-10-1973@@@
-
 Decreto nº 73.004, de 26 de outubro de 1973.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

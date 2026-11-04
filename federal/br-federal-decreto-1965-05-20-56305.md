@@ -1,5 +1,3 @@
-###DEC-056305-0-000-20-05-1965@@@
-
 DECRETO Nº 56.305, DE 20 DE MAIO DE 1965.
 
 Abre ao Poder Judiciário – Tribunal de Justiça do Distrito Federal – o crédito especial de Cr$136.000.000, para o fim que especifica.

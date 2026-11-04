@@ -1,5 +1,3 @@
-###MPV-001863-0-052-26-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.863-52, DE 26 DE AGOSTO DE 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

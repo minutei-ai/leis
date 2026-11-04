@@ -1,5 +1,3 @@
-###DEL-003508-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.508 – DE 14 DE AGOSTO DE 1941
 
 Autoriza o Prefeito do Distrito Federal e realizar a permuta dos terrenos que menciona.

@@ -1,5 +1,3 @@
-###DEC-002163-0-000-25-02-1997@@@
-
 DECRETO Nº 2.163, DE 25 DE FEVEREIRO DE 1997
 
 Dispõe sobre o remanejamento de cargos do Grupo-Direção e Assessoramento Superiores - DAS entre o Ministério da Administração Federal e Reforma do Estado e o Instituto de Pesquisa Econômica Aplicada - IPEA e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003781-0-000-02-04-2001@@@
-
 DECRETO Nº 3.781, DE 2 DE ABRIL DE 2001
 
 Dispõe sobre a remessa, à Secretaria da Receita Federal do Ministério da Fazenda, dos processos administrativos disciplinares que especifica.

@@ -1,5 +1,3 @@
-###DEC-096168-0-000-15-06-1988@@@
-
 DECRETO N° 96.168, DE 15 DE JUNHO DE 1988
 
 Altera o art. 6.° dos Estatutos do Instituto de Resseguros do Brasil - IRB.

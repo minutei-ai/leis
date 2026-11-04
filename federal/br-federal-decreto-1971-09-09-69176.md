@@ -1,5 +1,3 @@
-###DEC-069176-0-000-09-09-1971@@@
-
 Decreto nº 69.176, de 9 de setembro de 1971.
 
 Concede à firma individual Matheus Prêto da Rocha o direito de lavrar feldspato, quartzo e caulim, no município de Pinhalzinho, Estado de São Paulo.

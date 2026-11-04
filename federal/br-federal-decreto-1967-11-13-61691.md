@@ -1,5 +1,3 @@
-###DEC-061691-0-000-13-11-1967@@@
-
 DECRETO Nº 61.691, DE 13 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre inclusão de servidor da Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP), em Parte Especial do Quadro do Pessoal do Departamento Administrativo do Pessoal Civil (DASP), e dá outras providências.

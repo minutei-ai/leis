@@ -1,5 +1,3 @@
-###DEC-058044-0-000-23-03-1966@@@
-
 DECRETO Nº 58.044, DE 23 DE MARÇO DE 1966.
 
 Anula o Decreto número 42.241, de 5 de setembro de 1957.

@@ -1,5 +1,3 @@
-###DEC-007517-0-000-08-07-2011-PUB-01@@@
-
 DECRETO Nº 7.517, DE 8 DE JULHO DE 2011
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Senegal sobre o Exercício de Atividades Remuneradas por parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, firmado em Brasília, em 9 de junho de 2005.

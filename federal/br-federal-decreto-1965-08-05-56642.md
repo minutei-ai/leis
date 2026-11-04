@@ -1,5 +1,3 @@
-###DEC-056642-0-000-05-08-1965@@@
-
 DECRETO Nº 56.642, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Antonio Cordeiro de Souza a pesquisar fluorita, no Município de bom Jesus da Lapa, Estado da Bahia.

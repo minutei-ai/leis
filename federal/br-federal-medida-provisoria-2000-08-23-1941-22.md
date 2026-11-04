@@ -1,5 +1,3 @@
-###MPV-001941-0-022-23-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-22, de 23 de agosto de 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

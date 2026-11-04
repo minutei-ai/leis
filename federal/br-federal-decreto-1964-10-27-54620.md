@@ -1,5 +1,3 @@
-###DEC-054620-0-000-27-10-1964@@@
-
 DECRETO Nº 54.620, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza a cidadã brasileira Inez Balassa Silveira a pesquisar talco e pedras coradas, no município de Pilão Arcado - Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-000703-0-000-24-07-1969@@@
-
 DECRETO-LEI Nº 703, DE 24 DE JULHO DE 1969
 
 Dispõe sôbre a alienação de imóveis residenciais, pela Coordenação do Desenvolvimento de Brasília - Codebrás.

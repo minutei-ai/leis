@@ -1,5 +1,3 @@
-###DEL-007559-0-000-18-05-1945@@@
-
 DECRETO-LEI N. 7.559 – DE 18 DE MAIO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 405.000,00 para pagamento de gratificação de representação

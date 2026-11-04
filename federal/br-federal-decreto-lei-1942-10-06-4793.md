@@ -1,5 +1,3 @@
-###DEL-004793-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.793 – DE 6 DE OUTUBRO DE 1942
 
 Cria a 1ª Companhia Montada de Transmissão na 3ª Região Militar

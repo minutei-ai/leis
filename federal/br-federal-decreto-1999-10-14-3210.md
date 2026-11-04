@@ -1,5 +1,3 @@
-###DEC-003210-0-000-14-10-1999@@@
-
 DECRETO Nº 3.210, DE 14 DE OUTUBRO DE 1999.
 
 Dispõe sobre a Comissão de Desenvolvimento do Projeto e da Implantação do Sistema de Comunicações Militares por Satélite - CISCOMIS, e dá outras providências.

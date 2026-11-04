@@ -1,5 +1,3 @@
-###DEC-079936-0-000-12-07-1977@@@
-
 DECRETO Nº 79.936, DE 12 DE JULHO DE 1977
 
 Autoriza a concessão de auxílio da Reserva do Fundo Especial ao Território Federal de Fernando de Noronha.

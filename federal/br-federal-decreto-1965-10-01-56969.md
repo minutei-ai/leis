@@ -1,5 +1,3 @@
-###DEC-056969-0-000-01-10-1965@@@
-
 DECRETO Nº 56.969, DE 1º DE OUTUBRO DE 1965.
 
 Declara de utilidade pública a “Sociedade das Filhas de Nossa Senhora do Sagrado Coração”, com sede em São Paulo, Estado de São Paulo.

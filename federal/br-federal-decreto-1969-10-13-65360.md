@@ -1,5 +1,3 @@
-###DEC-065360-0-000-13-10-1969@@@
-
 DECRETO Nº 65.360 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Associação Brasileira de Criadores de Bovinos da Raça Holandesa, com sede em São Paulo.

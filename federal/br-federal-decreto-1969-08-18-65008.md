@@ -1,5 +1,3 @@
-###DEC-065008-0-000-18-08-1969@@@
-
 DECRETO Nº 65.008 - DE 18 DE AGÔSTO DE 1969.
 
 Concede à Companhia de Cimento Portland Paraíso o direito de lavrar caulim, mica e quartzo, no município de Caparaó, Estado de Minas Gerais.

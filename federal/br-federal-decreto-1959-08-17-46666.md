@@ -1,5 +1,3 @@
-###DEC-046666-0-000-17-08-1959@@@
-
 DECRETO Nº 46.666,DE 17 DE AGÔSTO DE 1959.
 
 Autoriza a emprêsa de mineração Kenranda Pesquisas Minerais S. A. a pesquisar minério de ouro no município de Jacobina, Estado da Bahia.

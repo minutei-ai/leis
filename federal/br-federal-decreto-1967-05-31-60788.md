@@ -1,5 +1,3 @@
-###DEC-060788-0-000-31-05-1967@@@
-
 DECRETO Nº 60.788, DE 31 DE MAIO DE 1967.
 
 Regulamenta, no que se refere aos limites máximos de pesos brutos dos veículos de carga, os §§ 1º e 2º do art. 14 da Lei nº 5.108, de 21 de setembro de 1966 (Código Nacional de Trânsito), alterada pelo Decreto-lei nº 37, de 28 de fevereiro de 1967.

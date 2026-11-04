@@ -1,5 +1,3 @@
-###DEL-008281-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.281 – DE 4 DE DEZEMBRO DE 1945
 
 Extingue o Depósito do Pessoal do Exército da Fôrça Expedicionária Brasileira.

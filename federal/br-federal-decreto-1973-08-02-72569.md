@@ -1,5 +1,3 @@
-###DEC-072569-0-000-02-08-1973@@@
-
 decreto nº 72.569, de 2 de agosto de 1973.
 
 Concede reconhecimento ao curso de Direito da Faculdade de Direito de Santa Cruz do Sul, mantida pela Associação Pró Ensino em Santa Cruz do Sul, com sede na cidade de Santa Cruz do Sul, Estado do Rio Grande do Sul.

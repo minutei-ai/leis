@@ -1,5 +1,3 @@
-###DEC-051922-0-000-26-04-1963@@@
-
 DECRETO Nº 51.922, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Joaquim Gomes Muniz, a comprar minérios e pedras preciosas.

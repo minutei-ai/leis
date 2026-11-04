@@ -1,5 +1,3 @@
-###DEL-003348-0-000-13-06-1941@@@
-
 DECRETO-LEI N. 3.348 – DE 13 DE JUNHO DE 1941
 
 Dá a garantia do Tesouro Nacional para o empréstimo de financiamento da Usina Siderúrgica a ser montada em Volta Redonda

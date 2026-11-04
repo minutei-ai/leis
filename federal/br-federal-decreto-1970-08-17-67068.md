@@ -1,5 +1,3 @@
-###DEC-067068-0-000-17-08-1970@@@
-
 decreto nº 67.068, de 17 de agôsto de 1970.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas, em Pôrto Alegre.

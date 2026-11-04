@@ -1,5 +1,3 @@
-###DEC-000592-0-000-06-07-1992@@@
-
 DECRETO N° 592, DE 6 DE JULHO DE 1992
 
 Atos Internacionais. Pacto Internacional sobre Direitos Civis e Políticos. Promulgação.

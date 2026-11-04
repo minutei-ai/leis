@@ -1,5 +1,3 @@
-###DEC-081963-0-000-12-07-1978@@@
-
 Decreto nº 81.963, de 12 de julho de 1978.
 
 Declara de utilidade pública para efeito de desapropriação total ou parcial ou instituição de servidão de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que estipula.

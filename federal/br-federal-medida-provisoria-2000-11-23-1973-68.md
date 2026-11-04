@@ -1,5 +1,3 @@
-###MPV-001973-0-068-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.973-68, DE 23 DE novembro DE 2000.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

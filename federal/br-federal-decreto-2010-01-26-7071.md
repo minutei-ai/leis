@@ -1,5 +1,3 @@
-###DEC-007071-0-000-26-01-2010@@@
-
 DECRETO Nº 7.071, DE 26 DE JANEIRO DE 2010.
 
 Promulga o Acordo sobre Cooperação no Campo da Agropecuária entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel, firmado em Brasília, em 4 de dezembro de 2007.

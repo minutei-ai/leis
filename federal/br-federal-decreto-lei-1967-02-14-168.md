@@ -1,5 +1,3 @@
-###DEL-000168-0-000-14-02-1967@@@
-
 decreto-lei nº 168, De 14 de fEVEREIRO De 1967
 
 Retifica dispositivos do Decreto-lei nº 73, de 21 de novembro de 1966, no que tange a aspectos administrativos da Superintendência de Seguros Privados (SUSEP).

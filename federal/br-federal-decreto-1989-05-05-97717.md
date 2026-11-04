@@ -1,7 +1,3 @@
-1
-
-###DEC-097717-0-000-05-05-1989@@@
-
 DECRETO Nº 97.717, DE 5 DE MAIO DE 1989
 
 Declara de preservação permanente as florestas e demais formas de vegetação da área que descreve.

@@ -1,5 +1,3 @@
-###DEL-004070-0-000-30-01-1942@@@
-
 DECRETO-LEI N. 4.070 – DE 30 DE JANEIRO DE 1942
 
 Organiza o 34º Batalhão de Caçadores

@@ -1,5 +1,3 @@
-###DEL-001234-0-000-25-07-1972@@@
-
 # DECRETO-LEI Nº 1.234, DE 25 DE JULHO DE 1972
 
 Dá nova redação ao artigo 2º do Decreto-lei nº 1.117, de 10 de agosto de 1970.

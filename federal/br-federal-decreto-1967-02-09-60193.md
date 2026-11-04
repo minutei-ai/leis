@@ -1,5 +1,3 @@
-###DEC-060193-0-000-09-02-1967@@@
-
 DECRETO Nº 60.193, DE 9 DE FEVEREIRO DE 1967.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providências.

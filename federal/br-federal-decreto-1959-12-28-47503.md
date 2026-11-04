@@ -1,5 +1,3 @@
-###DEC-047503-0-000-28-12-1959@@@
-
 Decreto nº 47.503, de 28 de dezembro de 1959.
 
 Autoriza a Companhia Luz e Fôrça Hulha Branca a remover a linha de transmissão de Curvelo a Gustavo da Silveira.

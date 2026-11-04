@@ -1,7 +1,3 @@
-1
-
-###DEC-099175-0-000-14-03-1990@@@
-
 DECRETO N° 99.175, DE 14 DE MARCO DE 1990
 
 Declara de utilidade pública, para fins de constituição de servidão a administrativa, faixa de terra destinada à passagem de linhas de transmissão de Centrais Elétricas do Norte do Brasil S.A. ELETRONORTE, no Estado do Amazonas.

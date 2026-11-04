@@ -1,5 +1,3 @@
-###DEC-049327-0-000-23-11-1960@@@
-
 DECRETO Nº 49.327, DE 23 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alípio José Viana Pereira a pesquisar mármore no município de Juazeiro, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-000378-0-000-23-12-1968@@@
-
 DECRETO-LEI Nº 378, DE 23 DE DEZembro DE 1968
 
 Dispõe sôbre o Quadro de Pessoal dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal e dá outras providências.

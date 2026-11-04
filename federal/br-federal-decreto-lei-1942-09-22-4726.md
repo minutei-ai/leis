@@ -1,5 +1,3 @@
-###DEL-004726-0-000-22-09-1942@@@
-
 DECRETO-LEI N. 4.726 – DE 22 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 749:670$0, à verba que especifica

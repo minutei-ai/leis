@@ -1,5 +1,3 @@
-###DEC-094806-0-000-31-08-1987@@@
-
 DECRETO N° 94.806, DE 31 DE AGOSTO DE 1987
 
 Cria o Conselho Consultivo da Coordenadoria para Integração da Pessoa Portadora de Deficiência, e dá outras providências.

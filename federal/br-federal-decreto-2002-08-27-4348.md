@@ -1,5 +1,3 @@
-###DEC-004348-0-000-27-08-2002@@@
-
 DECRETO Nº 4.348, DE 27 DE AGOSTO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Quadro de Pessoal do Ministério da Cultura.

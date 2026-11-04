@@ -1,5 +1,3 @@
-###DEC-060876-0-000-20-06-1967@@@
-
 Decreto nº 60.876, de 20 de junho de 1967.
 
 Adota providências relativas à organização do Ministério das Comunicações.

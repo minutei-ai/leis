@@ -1,5 +1,3 @@
-###DEC-045058-0-000-18-12-1958@@@
-
 decreto nº 45.058, de 18 de dezembro de 1958.
 
 Aprova o Plano Diretor para o Desenvolvimento do pôrto do Rio de Janeiro.

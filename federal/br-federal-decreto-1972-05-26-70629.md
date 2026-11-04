@@ -1,5 +1,3 @@
-###DEC-070629-0-000-26-05-1972@@@
-
 DECRETO Nº 70.629, DE 26 DE MAIO DE 1972.
 
 Torna sem efeito aproveitamento no Hospital dos Servidores do Estado de disponível do Instituto Nacional de Previdência Social e dá outras providências.

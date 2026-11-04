@@ -1,5 +1,3 @@
-###DEC-050271-0-000-15-02-1961@@@
-
 Decreto nº 50.271, de 15 de fevereiro de 1961.
 
 Revoga concessões outorgadas para funcionamento de estações de radiodifusão.

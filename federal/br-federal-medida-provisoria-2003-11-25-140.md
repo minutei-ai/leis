@@ -1,5 +1,3 @@
-###MPV-000140-0-000-25-11-2003@@@
-
 MEDIDA PROVISÓRIA Nº 140, DE 25 DE NOVEMBRO 2003.
 
        Cria o Programa Nacional de Financiamento da Ampliação e Modernização da Frota Pesqueira Nacional \- Profrota Pesqueira, e dá outras providências.
@@ -82,8 +80,12 @@ MEDIDA PROVISÓRIA Nº 140, DE 25 DE NOVEMBRO 2003.
 
         Brasília, 25 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
-Guido Mantega<br>
-Ciro Ferreira Gomes<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
+Guido Mantega
+
+Ciro Ferreira Gomes
+
 Marina Silva

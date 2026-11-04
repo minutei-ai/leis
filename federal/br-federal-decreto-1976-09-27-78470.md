@@ -1,5 +1,3 @@
-###DEC-078470-0-000-27-09-1976@@@
-
 DECRETO Nº 78.470, DE 27 DE SETEMBRO 1976.
 
 Declara utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem em favor da petróleo Brasileiro S.A - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, situados em Atalaia Velha, no Município de Aracaju, Estado de Sergipe.

@@ -1,5 +1,3 @@
-###DEC-007165-0-000-29-04-2010@@@
-
 DECRETO Nº 7.165, DE 29 DE ABRIL DE 2010.
 
 Regulamenta o inciso I do art. 48 da Lei no 6.450, de 14 de outubro de 1977, que dispõe sobre a organização básica da Polícia Militar do Distrito Federal.

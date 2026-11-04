@@ -1,5 +1,3 @@
-###DEC-047426-0-000-14-12-1959@@@
-
 Decreto nº 47.426, de 14 de dezembro de 1959.
 
 Retifica o Decreto nº 45.457, de 25 de fevereiro de 1959, que alterou a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

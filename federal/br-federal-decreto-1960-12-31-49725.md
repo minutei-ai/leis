@@ -1,5 +1,3 @@
-###DEC-049725-0-000-31-12-1960@@@
-
 decreto nº 49.725, de 31 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Real de Seguros.

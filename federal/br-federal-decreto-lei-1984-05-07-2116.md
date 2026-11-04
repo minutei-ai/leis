@@ -1,5 +1,3 @@
-###DEL-002116-0-000-07-05-1984@@@
-
 # DECRETO-LEI nº 2.116, de 07 de maio de 1984
 
 Fixa remuneração de Diplomata servindo em organismo internacional e dá outras providências.

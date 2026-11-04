@@ -1,20 +1,18 @@
-###DEC-029614-0-000-30-05-1951@@@
+**DECRETO N. 29.614 – DE 30 DE MAIO DE 1951**
 
-<strong>DECRETO N. 29.614 – DE 30 DE MAIO DE 1951</strong>
-
-<em><strong>Outorga à Usina Hidroelétrica de Putinga S. A, concessão para a aproveitamento de energia hidráulica de uma quéda dágua existente no rio Putinga, distrito de igual nome, município de Encantado, Estado, do Rio Grande do Sul.</strong></em>
+***Outorga à Usina Hidroelétrica de Putinga S. A, concessão para a aproveitamento de energia hidráulica de uma quéda dágua existente no rio Putinga, distrito de igual nome, município de Encantado, Estado, do Rio Grande do Sul.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º É outorgada à Usina Hidroelétrica de Putinga S. A concessão para o aproveitamento progressivo de energia hidráulica de uma quéda dágua existente no rio Putinga, distrito de Putinga, município de Encantado, Estado do Rio Grande do sul.
+**Art.** 1º É outorgada à Usina Hidroelétrica de Putinga S. A concessão para o aproveitamento progressivo de energia hidráulica de uma quéda dágua existente no rio Putinga, distrito de Putinga, município de Encantado, Estado do Rio Grande do sul.
 
 § 1º Em portaria do Ministro da Agricultura, no ato de aprovação dos projetos, serão determinadas a altura de guéda a aproveitar, a descarga de derivação e a potência da etapa inicial bem como das subseqüentes à medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviço público, de utilidade pública e para comércio de energia elétrica nos distritos de Putinga, Anta Gorda, Ilópolis e Arvorezinha, no município de Encantado, Estado do Rio Grande do Sul.
 
-<strong>Art.</strong> 2º Caducará o presente título,  independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art.** 2º Caducará o presente título,  independente de ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta(30) dias, contados da data de sua publicação.
 
@@ -102,30 +100,30 @@ V – Iniciar e concluir as obras nos prazos  que forem determinados pelo Minis
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento onde e desde quando fôr determinado pela Divisão de águas, as instalações necessárias a observação fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art.** 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento onde e desde quando fôr determinado pela Divisão de águas, as instalações necessárias a observação fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão  e distribuição de energia elétrica.
+**Art.** 4º O capital a remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão  e distribuição de energia elétrica.
 
-<strong>Art.</strong> 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 160 do Código de Águas.
+**Art.** 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas, e trienalmente revistas de acôrdo com o disposto no art. 160 do Código de Águas.
 
-<strong>Art.</strong> 6<strong>º</strong> Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art.** 6**º** Para a manutenção da integridade do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de inovação, será realizada por cota especial, que incidirá sôbre tarifas, sob forma de percentagem. Esta cota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época de revisão das tarifas.
 
-<strong>Art.</strong> 7<strong>º</strong> Findo o prazo de concessão, todos os bens e instalações que no momento, existirem em função exclusiva e permanente de produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado do Rio Grande do Sul, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
+**Art.** 7**º** Findo o prazo de concessão, todos os bens e instalações que no momento, existirem em função exclusiva e permanente de produção, transmissão e distribuição de energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado do Rio Grande do Sul, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que faça a prova de que o Estado do Rio Grande do sul não se opõe à utilização dos bens objetos da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer, que não pretende a renovação.
 
-<strong>Art. 8º</strong> A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art. 8º** A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art. 9º</strong> O Presente Decreto entrará em vigor na data de sua publicação.
+**Art. 9º** O Presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art. 10</strong> Revogam-se as disposições em contrário.
+**Art. 10** Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de maio de 1952; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS.</strong>
+**GETÚLIO VARGAS.**
 
 João Cleofas.

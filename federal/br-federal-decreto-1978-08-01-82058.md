@@ -1,5 +1,3 @@
-###DEC-082058-0-000-01-08-1978@@@
-
 Decreto nº 82 058, de 01 de agosto de 1978.
 
 Autoriza estrangeira a adquirir o domínio do imóvel que menciona, no Estado do Rio de Janeiro.

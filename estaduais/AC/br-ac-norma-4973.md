@@ -1,6 +1,10 @@
 > **LEI Nº 3.876, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre revisão ao Plano Plurianual do Estado do Acre para o quadriênio 2020-2023 (PPA 2020-2023), e altera a Lei nº 3.589, de 19 de dezembro de 2019.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre revisão ao Plano Plurianual do Estado do Acre para o quadriênio 2020-2023 (PPA 2020-2023), e altera a Lei nº 3.589, de 19 de dezembro de 2019.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

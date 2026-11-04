@@ -1,5 +1,3 @@
-###DEC-074653-0-000-04-10-1974@@@
-
 DECRETO Nº 74.653, DE 4 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Turismo de Belo Horizonte, Estado de Minas Gerais, mantida pela Organização Bandeirante de Tecnologia e Cultura, com sede na cidade de São Paulo, Estado de São Paulo.

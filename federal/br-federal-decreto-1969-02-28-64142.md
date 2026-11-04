@@ -1,5 +1,3 @@
-###DEC-064142-0-000-28-02-1969@@@
-
 DECRETO Nº 64.142, DE 28 DE FEVEREIRO DE 1969.
 
 Autoriza o Embaixador do Brasil junto ao Govêrno da República do Senegal a aceitar a doação de um terreno que menciona na cidade de Dacar.

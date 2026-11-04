@@ -1,5 +1,3 @@
-###DEC-074009-0-000-03-05-1974@@@
-
 DECRETO Nº 74.009, DE 3 DE MAIO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cataguases S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cataguases, Estado de Minas Gerais.

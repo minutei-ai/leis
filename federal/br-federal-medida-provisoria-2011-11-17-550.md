@@ -1,5 +1,3 @@
-###MPV-000550-0-000-17-11-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 550, DE 17 DE NOVEMBRO DE 2011
 
 Altera a Lei n° 10.735, de 11 de setembro de 2003, que dispõe sobre o direcionamento de depósitos à vista captados pelas instituições financeiras para operações de crédito destinadas à população de baixa renda e a microempreendedores, e dá outras providências.

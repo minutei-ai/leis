@@ -1,5 +1,3 @@
-###DEC-074085-0-000-21-05-1974@@@
-
 DECRETO nº 74.085, de 21 de maio de 1974.
 
 Concede reconhecimento  ao curso de Agrimensura da Escola Superior de Agrimensura de Minas Gerais, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-049896-0-000-12-01-1961@@@
-
 DECRETO Nº 49.896, DE 12 DE JANEIRO DE 1961.
 
 Autoriza a cidadão brasileiro Francisco Portela de Sampaio a pesquisar areias ilmeníticas, no município de Primeira Cruz, Estado do Maranhão.

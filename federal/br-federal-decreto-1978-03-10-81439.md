@@ -1,5 +1,3 @@
-###DEC-081439-0-000-10-03-1978@@@
-
 Decreto nº 81.439, de 10 de março de 1978.
 
 Concede autorização à HISPANICA DE PETROLEOS S/A (HISPANOIL), para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S/A - PETROBRÁS.

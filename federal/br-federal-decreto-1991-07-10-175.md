@@ -1,5 +1,3 @@
-###DEC-000175-0-000-10-07-1991@@@
-
 DECRETO Nº 175, DE 10 DE JULHO DE 1991
 
 Dispõe sobre o Programa de Garantia da Atividade Agropecuária - PROAGRO, instituído pela Lei nº 5.969, de 11 de dezembro de 1973, e a que se referem as disposições do Capítulo XVI da Lei nº 8.171, de 17 de janeiro de 1991, e dá outras providências.

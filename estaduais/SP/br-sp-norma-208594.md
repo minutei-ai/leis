@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208594)<br>
-
 # DECRETO N° 67.990, DE 02 DE OUTUBRO DE 2023
 
 ### _Dispõe sobre o expediente dos servidores nas repartições públicas estaduais da Região Metropolitana de São Paulo e dá providências correlatas._

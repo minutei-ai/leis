@@ -1,5 +1,3 @@
-###DEC-002559-0-000-23-04-1998@@@
-
 DECRETO Nº 2.559, DE 23 DE ABRIL DE 1998
 
 Promulga o Acordo sobre Serviços Aéreos, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Libanesa, em Beirute, em 4 de fevereiro de 1997.

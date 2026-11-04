@@ -1,5 +1,3 @@
-###DEC-080491-0-000-05-10-1977@@@
-
 DECRETO N° 80.491, DE 5 DE OUTUBRO DE 1977.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar argila no Município de Uberaba, Estado de Minas Gerais.

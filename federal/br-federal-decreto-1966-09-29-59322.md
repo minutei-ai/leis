@@ -1,5 +1,3 @@
-###DEC-059322-0-000-29-09-1966@@@
-
 DECRETO Nº 59.322, DE 29 DE SETEMBRO DE 1966.
 
 Reorganiza a Presidência do Instituto Brasileiro de Geografia e Estatística e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001420-0-000-20-03-1995@@@
-
 DECRETO Nº 1.420, DE 20 DE MARÇO DE 1995
 
 Dispõe sobre a transferência de cargos em comissão e funções gratificadas que menciona.

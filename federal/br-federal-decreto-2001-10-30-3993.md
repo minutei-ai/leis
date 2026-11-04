@@ -1,5 +1,3 @@
-###DEC-003993-0-000-30-10-2001@@@
-
 DECRETO Nº 3.993, DE 30 DE OUTUBRO DE 2001
 
 Regulamenta o art. 95-A da Lei nº 4.504, de 30 de novembro de 1964, que institui o Programa de Arrendamento Rural para a Agricultura Familiar, e dá outras providências.

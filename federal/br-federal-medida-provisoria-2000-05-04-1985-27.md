@@ -1,5 +1,3 @@
-###MPV-001985-0-027\-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-27, DE 4 de maio DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

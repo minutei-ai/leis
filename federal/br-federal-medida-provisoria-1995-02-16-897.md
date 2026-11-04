@@ -1,7 +1,3 @@
-1
-
-###MPV-000897-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 897, DE 16 DE FEVEREIRO DE 1995
 
 Dispõe sobre a vinculação da Fundação Osório, e dá outras providências.

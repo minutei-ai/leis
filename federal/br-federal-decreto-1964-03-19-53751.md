@@ -1,5 +1,3 @@
-###DEC-053751-0-000-19-03-1964@@@
-
 Decreto nº 53.751, de 19 de março de 1964.
 
 Transfere ao Município de Cabo Verde, Estado de Minas Gerais, concessão para distribuir energia elétrica.

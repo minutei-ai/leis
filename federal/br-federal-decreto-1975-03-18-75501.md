@@ -1,5 +1,3 @@
-###DEC-075501-0-000-18-03-1975@@@
-
 DECRETO Nº 75.501, DE 18 DE MARÇO DE 1975.
 
 Eleva o Consulado em Paramaribo à categoria de Consulado-Geral.

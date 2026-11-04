@@ -1,19 +1,17 @@
-###DEC-020834-0-000-26-03-1946@@@
+**DECRETO Nº 20.834, DE 26 DE MARÇO DE 1946.**
 
-<strong>DECRETO Nº 20.834, DE 26 DE MARÇO DE 1946.</strong>
+***Concede equiparação, sob o regime de inspeção permanente ao curso ginasial do Ginásio Oficial de Goiás.***
 
-<em><strong>Concede equiparação, sob o regime de inspeção permanente ao curso ginasial do Ginásio Oficial de Goiás.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra *a*, da Constituição, e nos têrmos do artigo 72 da lei orgânico do ensino secundário,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra <em>a</em>, da Constituição, e nos têrmos do artigo 72 da lei orgânico do ensino secundário,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É concedida equiparação sob o regime de inspeção permanente, ao curso ginasial do Ginásio Oficial de Goiás, com sede em Goiás, no Estado de Goiás.
 
-<strong>Art</strong>. 1º É concedida equiparação sob o regime de inspeção permanente, ao curso ginasial do Ginásio Oficial de Goiás, com sede em Goiás, no Estado de Goiás.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de março de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Ernesto de Souza Campos

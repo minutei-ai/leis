@@ -1,5 +1,3 @@
-###DEC-006528-0-000-01-08-2008@@@
-
 DECRETO Nº 6.528, DE 1º DE AGOSTO DE 2008.
 
 Autoriza o aumento do e capital social da Empresa Brasileira de Infra-Estrutura Aeroportuária (Infraero).

@@ -1,5 +1,3 @@
-###DEL-008409-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.409 – DE 20 DE DEZEMBRO DE 1945
 
 Altera e cria carreiras nos Quadros Suplementar e Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052066-0-000-27-05-1963@@@
-
 decreto nº 52.066, de 27 de maio de 1963.
 
 Declara de utilidade pública a “Maternidade Therezinha de Jesus”, com sede em Juiz de Fora, Estado de Minas Gerais.

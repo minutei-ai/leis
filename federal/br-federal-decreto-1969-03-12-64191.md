@@ -1,5 +1,3 @@
-###DEC-064191-0-000-12-03-1969@@@
-
 DECRETO Nº 64.191, DE 12 DE MARÇO DE 1969.
 
 Concede à São Carlos Minérios S/A. o direito de lavrar minério de ferro, no município de Barão de Cocais, Estado de Minas Gerais.

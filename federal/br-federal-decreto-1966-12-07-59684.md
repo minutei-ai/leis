@@ -1,5 +1,3 @@
-###DEC-059684-0-000-07-12-1966@@@
-
 DECRETO Nº 59.684, DE 7 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Domingos Soares Caldeira a pesquisa pedras semi-preciosas, no município de Dores de Guanhães, Estado de Minas Gerais.

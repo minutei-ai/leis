@@ -1,5 +1,3 @@
-###DEC-050997-0-000-19-07-1961@@@
-
 decreto nº 50.997, de 25 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio Chicão.

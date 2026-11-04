@@ -1,5 +1,3 @@
-###DEC-079434-0-000-24-03-1977@@@
-
 DECRETO Nº 79.434, DE 24 DE MARÇO DE 1977.
 
 Concede à Firma Individual Viúva José Neves de Castro o direito de lavrar calcário dolomítico no Município de Redenção, Estado do Ceará.

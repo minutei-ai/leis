@@ -1,5 +1,3 @@
-###DEC-081026-0-000-12-12-1977@@@
-
 Decreto nº 81.026, de 12 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Psicologia, ministrado pelas Faculdades Integradas de Uberaba, com sede na cidade de Uberaba, Estado de Minas Gerais.

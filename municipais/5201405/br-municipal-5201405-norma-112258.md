@@ -23,12 +23,14 @@ SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO  
 
 Parágrafo único. O desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2024469024, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
-Art. 2º Para os efeitos deste Decreto, o ato constitutivo de desmembramento deverá ser registrado em cartório, no prazo de 180 (cento e oitenta) dias, contados da data de publicação, sob pena de caducidade da aprovação.<br>
+Art. 2º Para os efeitos deste Decreto, o ato constitutivo de desmembramento deverá ser registrado em cartório, no prazo de 180 (cento e oitenta) dias, contados da data de publicação, sob pena de caducidade da aprovação.
+
 Parágrafo único. Após o registro do desmembramento, o(s) interessado(s) deverão apresentar a certidão atualizada dos imóveis perante o órgão municipal de planejamento urbano.
 
 Art. 3º  Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 18 de fevereiro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
-Prefeito de Aparecida de Goiânia<br>
+LEANDRO VILELA VELLOSO
+
+Prefeito de Aparecida de Goiânia

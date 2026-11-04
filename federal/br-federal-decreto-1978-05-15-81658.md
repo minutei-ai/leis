@@ -1,5 +1,3 @@
-###DEC-081658-0-000-15-05-1978@@@
-
 Decreto nº 81.658, de 15 de maio de 1978.
 
 Dá nova redação a dispositivos do Decreto nº 71.727, de 17 de janeiro de 1973, alterado pelos Decretos nºs 75.635, de 18 de abril de 1975, 75.689, de 2 de maio de 1975 e 78.673, de 5 de novembro de 1976, que regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da ativa das Forças Armadas.

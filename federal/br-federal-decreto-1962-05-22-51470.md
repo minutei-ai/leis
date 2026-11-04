@@ -1,5 +1,3 @@
-###DEC-051470-0-000-22-05-1962@@@
-
 DECRETO Nº 51.470, DE-22 DE MAIO DE 1962.
 
 Institui no Ministério da Educação e Cultura, como serviço em regime especial de financiamento para o desenvolvimento social e econômico, a Mobilização Nacional Contra o Analfabetismo e dá outras providências.

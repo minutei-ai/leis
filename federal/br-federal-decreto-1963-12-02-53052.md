@@ -1,5 +1,3 @@
-###DEC-053052-0-000-02-12-1963@@@
-
 Decreto nº 53.052, de 2 de dezembro de 1963.
 
 Autoriza o serviço do Patrimônio da União a aceitar a doação do domínio útil do imóvel localizado em Vitória - ES, destinado ao Ministério da Guerra.

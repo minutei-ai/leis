@@ -1,5 +1,3 @@
-###DEC-003026-0-000-13-04-1999@@@
-
 DECRETO Nº 3.026, DE 13 DE ABRIL DE 1999.
 
 Promulga o Convênio para a Preservação, Conservação e Fiscalização dos Recursos Naturais nas Áreas de Fronteira, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia, em Brasília, em 15 de agosto de 1990.
@@ -76,4 +74,14 @@ Artigo VIII
 
 Feito em Brasília, aos 15 dias do mês de agosto de 1990, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Federativa do Brasil</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>da Bolívia</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Francisco Rezek</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Carlos Ituralde Ballivián</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+da Bolívia
+
+Francisco Rezek
+
+Carlos Ituralde Ballivián

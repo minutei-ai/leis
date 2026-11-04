@@ -1,5 +1,3 @@
-###DEC-054784-0-000-03-11-1964@@@
-
 DECRETO Nº 54.784, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Gastone Satori a pesquisar ouro e diamante no município de Iturama, Estado de Minas Gerais.

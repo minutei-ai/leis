@@ -1,5 +1,3 @@
-###DEL-004429-0-000-02-07-1942@@@
-
 DECRETO-LEI N. 4.429 – DE 2 DE JULHO DE 1942
 
 Desdobra a cadeira de Desportos Aquáticos da Escola Nacional de Educação Física e Desportos da Universidade do Brasil, e abre crédito suplementar à dotação orçamentária que especifica.

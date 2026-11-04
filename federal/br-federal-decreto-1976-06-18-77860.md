@@ -1,5 +1,3 @@
-###DEC-077860-0-000-18-06-1976@@@
-
 DECRETO Nº 77.860, DE 18 DE JUNHO DE 1976.
 
 Fixa o fato de reajustamento salarial relativo a junho de 1976.

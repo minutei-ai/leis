@@ -1,5 +1,3 @@
-###DEC-075344-0-000-04-02-1975@@@
-
 DECRETO Nº 75.344, DE 4 DE FEVEREIRO DE1975.
 
 Concede reconhecimento aos cursos de Administração (habilitação em Administração de Empresas) e de Ciências Contábeis da Universidade de Caxias do Sul, com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

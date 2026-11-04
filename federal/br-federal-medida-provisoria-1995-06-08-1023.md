@@ -1,7 +1,3 @@
-1
-
-###MPV-001023-0-000-08-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.023, DE 8 DE JUNHO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

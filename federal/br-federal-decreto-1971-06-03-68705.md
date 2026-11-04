@@ -1,5 +1,3 @@
-###DEC-068705-0-000-03-06-1971@@@
-
 DECRETO Nº 68.705, de 3 de junho de 1971.
 
 Reconhece a existência do estado de calamidade pública nos Municípios de Gramado e três Coroas, no Estado do Rio Grande do Sul, abre o crédito extraordinário de Cr$ 450.000,00, na forma que estabelece e dá outras providências.

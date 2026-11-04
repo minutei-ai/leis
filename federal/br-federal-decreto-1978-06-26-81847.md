@@ -1,5 +1,3 @@
-###DEC-081847-0-000-26-06-1978@@@
-
 Decreto nº 81.847, de 26 de junho de 1978
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Benjamim Constant, Estado do Amazonas.

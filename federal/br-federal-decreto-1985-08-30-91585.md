@@ -1,5 +1,3 @@
-###DEC-091585-0-000-30-08-1985@@@
-
 Decreto nº 91.585, de 30 de agosto de 1985.
 
 Autoriza a instituição de Servidão de Solo, em favor da Concessão de Lavra, de que é titular a Indústria de Fosfatados Catarinense S.A.-IFC, por aquisição de direitos da firma Luchsinger Madorin S.A.

@@ -18,8 +18,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 28 de agosto de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -27,17 +25,17 @@ Governador do Estado
 ANEXO ÚNICO
 
 |
-**ÁREA DE TERRA DECLARADA DE UTILIDADE PÚBLICA PARA A INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA, DESTINADA À IMPLANTAÇÃO, À OPERAÇÃO, À MANUTENÇÃO E AO ACESSO DA REDE COLETORA DE ESGOTO – RCE, DA BACIA ANICUNS, NO RESIDENCIAL JARDIM LEBLON II, TRECHO DE TRAVESSIA E LIGAÇÃO AO INTERCEPTOR PV42 AO AN171 (INTERCEPTOR) PARA AMPLIAÇÃO DO SISTEMA DE TRATAMENTO DE ESGOTO** **, NO MUNICÍPIO DE GOIÂNIA/GO**
+**ÁREA DE TERRA DECLARADA DE UTILIDADE PÚBLICA PARA A INSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA, DESTINADA À IMPLANTAÇÃO, À OPERAÇÃO, À MANUTENÇÃO E AO ACESSO DA REDE COLETORA DE ESGOTO – RCE, DA BACIA ANICUNS, NO RESIDENCIAL JARDIM LEBLON II, TRECHO DE TRAVESSIA E LIGAÇÃO AO INTERCEPTOR PV42 AO AN171 (INTERCEPTOR) PARA AMPLIAÇÃO DO SISTEMA DE TRATAMENTO DE ESGOTO, NO MUNICÍPIO DE GOIÂNIA/GO**
 
  |
 | --- |
 | DENOMINAÇÃO | **FAIXA DE SERVIDÃO DE REDE COLETORA DE ESGOTO – Trecho 1** |
-| ÁREA | **250,72** **m****²** |
-| LOCALIZAÇÃO | **Residencial Jardim Leblon II,** **Município de Goiânia/GO** |
+| ÁREA | **250,72m²** |
+| LOCALIZAÇÃO | **Residencial Jardim Leblon II,Município de Goiânia/GO** |
 | PROPRIETÁRIO | **Acácio Farinha Castanheira e outros** |
 | MATRÍCULA | **Nº 232.286 no Cartório de Registro de Imóveis da 1ª Circunscrição de Goiânia/GO** |
 | LIMITES E CONFRONTAÇÕES |
 
-**O imóvel em descrição, está situado na chácara 18, Residencial Jardim Leblon II, de propriedade de Acácio Farinha Castanheira, possui una superfície de 250,72m² e é constituído por uma faixa de 6,00 metros de largura que será descrita pelo eixo que começa no marco “M1”, de coordenadas E=678660,61 e N=8155446,15 (sirgas 2000), cravado na divisa com a Alameda** **LB-15** **e segue com um azimute de 248°17”54” e distância de 41,80 metros, até o marco “M2”, cravado na divisa com a Área Pública Municipal 2, Zona de Proteção Ambiental, ponto final desta descrição.**
+**O imóvel em descrição, está situado na chácara 18, Residencial Jardim Leblon II, de propriedade de Acácio Farinha Castanheira, possui una superfície de 250,72m² e é constituído por uma faixa de 6,00 metros de largura que será descrita pelo eixo que começa no marco “M1”, de coordenadas E=678660,61 e N=8155446,15 (sirgas 2000), cravado na divisa com a AlamedaLB-15e segue com um azimute de 248°17”54” e distância de 41,80 metros, até o marco “M2”, cravado na divisa com a Área Pública Municipal 2, Zona de Proteção Ambiental, ponto final desta descrição.**
 
  |

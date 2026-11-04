@@ -1,5 +1,3 @@
-###DEC-062086-0-000-08-01-1968@@@
-
 Decreto nº 62.086, de 8 de janeiro de 1968.
 
 Autoriza o cidadão brasileiro Raimundo Francisco de Araujo a comprar pedras preciosas.

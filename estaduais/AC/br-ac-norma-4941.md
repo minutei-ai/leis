@@ -1,6 +1,10 @@
 > **LEI Nº 3.816, DE 03 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o acompanhamento pedagógico de crianças e adolescentes na escola, pelos pais ou responsáveis legais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o acompanhamento pedagógico de crianças e adolescentes na escola, pelos pais ou responsáveis legais.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

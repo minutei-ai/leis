@@ -1,6 +1,7 @@
 DECRETO Nº 9.985, DE 19 DE NOVEMBRO DE 2021
 
-Altera o [Decreto nº 9.933](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104276/decreto-9933), de 31 de agosto de 2021, que dispõe sobre a regulamentação dos Colégios Estaduais em Período Integral – CEPIs ~~Centros de Ensino em Período Integral – CEPIs~~ e delega competência ao Secretário de Estado da Educação para alterar o funcionamento dos estabelecimentos de ensino de tempo regular para período integral.<br>
+Altera o [Decreto nº 9.933](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104276/decreto-9933), de 31 de agosto de 2021, que dispõe sobre a regulamentação dos Colégios Estaduais em Período Integral – CEPIs ~~Centros de Ensino em Período Integral – CEPIs~~ e delega competência ao Secretário de Estado da Educação para alterar o funcionamento dos estabelecimentos de ensino de tempo regular para período integral.
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, com fundamento nos arts. 18 e 20 da [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633/lei-20917), de 21 de dezembro de 2020, também conforme o Processo nº 202100006047917,
@@ -9,7 +10,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º A ementa do [Decreto nº 9.933](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104276/decreto-9933), de 31 de agosto de 2021, passa a vigorar com a seguinte alteração:
 
-“Dispõe sobre a regulamentação dos Colégios Estaduais em Período Integral – CEPIs ~~Centros de Ensino em Período Integral – CEPIs~~ e delega competência ao Secretário de Estado da Educação para alterar o funcionamento dos estabelecimentos de ensino entre tempo regular e período integral.” (NR)<br>
+“Dispõe sobre a regulamentação dos Colégios Estaduais em Período Integral – CEPIs ~~Centros de Ensino em Período Integral – CEPIs~~ e delega competência ao Secretário de Estado da Educação para alterar o funcionamento dos estabelecimentos de ensino entre tempo regular e período integral.” (NR)
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 Art. 2º O [Decreto nº 9.933](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104276/decreto-9933), de 31 de agosto de 2021, passa a vigorar com a seguinte alteração:

@@ -1,5 +1,3 @@
-###DEC-069225-0-000-21-09-1971@@@
-
 DECRETO Nº 69.225, DE 21 DE SETEMBRO DE 1971.
 
 Redistribui cargo da extinta Comissão do Vale do São Francisco para o Instituto Nacional de Colonização e Reforma Agrária e dá outras providências.

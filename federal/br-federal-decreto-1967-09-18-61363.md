@@ -1,5 +1,3 @@
-###DEC-061363-0-000-18-09-1967@@@
-
 DECRETO Nº 61.363, DE 18 DE SETEMBRO DE 1967.
 
 Outorga à Companhia Industrial Paranaense concessão para o aproveitamento exclusivo da energia hidráulica da Cachoeira do Rosário, no rio São João, situada no Distrito de Carioca, município de Pará de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-005853-0-000-24-09-1943@@@
-
 DECRETO‑LEI N. 5.853 – DE 24 DE SETEMBRO DE 1943
 
 Transfere gratuitamente ao Município de São Luiz Gonzaga, do Estado do Rio Grande do Sul ,para fim de utilização com estabelecimento de ensino secundário, o domínio pleno do terreno nacional interior, que men­ciona, com as benfeitorias existentes, situado na cidade de São Luiz Gonzaga, naquele Estado, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-006180-0-000-03-08-2007@@@
-
 DECRETO Nº 6.180, DE 3 DE AGOSTO DE 2007.
 
 Regulamenta a Lei no 11.438, de 29 de dezembro de 2006, que trata dos incentivos e benefícios para fomentar as atividades de caráter desportivo.
@@ -351,5 +349,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Orlando Silva de Jesus Júnior
-
-Este texto não substitui o publicado no DOU de 6.8.2007

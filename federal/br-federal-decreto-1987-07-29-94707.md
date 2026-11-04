@@ -1,5 +1,3 @@
-###DEC-094707-0-000-29-07-1987@@@
-
 DECRETO Nº 94.707, DE 29 DE JULHO DE 1987.
 
 Declara de interesse social, para fins de desapropriação parte do imóvel rural denominado "Fazenda Caraybas", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situado no Município de Baldim, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

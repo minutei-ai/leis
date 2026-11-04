@@ -1,5 +1,3 @@
-###MPV-001943-0-055-26-07-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-55, DE 26 de julho DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

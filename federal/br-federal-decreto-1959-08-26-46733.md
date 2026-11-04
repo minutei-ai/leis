@@ -1,5 +1,3 @@
-###DEC-046733-0-000-26-08-1959@@@
-
 DECRETO Nº 46.733, DE 26 DE AgÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Jorge Zenon Henrique Fridberg a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

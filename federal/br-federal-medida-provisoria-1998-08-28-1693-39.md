@@ -1,5 +1,3 @@
-###MPV-001693-0-039-28-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.693-39, DE 28 DE AGOSTO DE 1998
 
 Altera a legislação referente no Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

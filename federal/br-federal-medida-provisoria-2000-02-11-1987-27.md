@@ -1,5 +1,3 @@
-###MPV-001987-0-027-11-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-27, DE 11 de Fevereiro de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

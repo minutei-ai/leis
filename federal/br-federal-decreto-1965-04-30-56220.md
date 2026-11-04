@@ -1,5 +1,3 @@
-###DEC-056220-0-000-30-04-1965@@@
-
 DECRETO Nº 56.220, DE 30 DE ABRIL DE 1965.
 
 Concede à Matumbá - Minérios Ltda. autorização para funcionar como emprêsa de mineração.

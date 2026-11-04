@@ -1,5 +1,3 @@
-###DEC-051931-B-000-26-04-1963@@@
-
 DECRETO Nº 51.931-B, de 26 de abril de 1963.
 
 Autoriza a firma Mibraco - Mineração Brasileira Comercial Limitada, a comprar pedras preciosas.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098595-0-000-18-12-1989@@@
-
 DECRETO N° 98.595, DE 18 DE DEZEMBRO DE 1989
 
 Regulamenta a Lei n° 7.752, de 14 de abril de 1989, que dispõe sobre benefícios fiscais, na área do imposto de renda, concedidos ao desporto não profissional, e dá outras providências.

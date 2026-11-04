@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209423)<br>
-
 # DECRETO N° 68.506, DE 08 DE MAIO DE 2024
 
 ### _Dispõe sobre a concessão da Medalha dos Bandeirantes_

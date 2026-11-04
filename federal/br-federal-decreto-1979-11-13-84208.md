@@ -1,5 +1,3 @@
-###DEC-084208-0-000-13-11-1979@@@
-
 Decreto nº 84.208, DE 13 DE NOvEMBRO DE 1979.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

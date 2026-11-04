@@ -1,5 +1,3 @@
-###DEC-047343-0-000-04-12-1959@@@
-
 DECRETO Nº 47.343, DE 4 DE DEZEMBRO DE 1959.
 
 Altera o Decreto nº 45.195, de 31 de dezembro de 1958.

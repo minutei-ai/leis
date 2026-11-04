@@ -1,5 +1,3 @@
-###DEC-073599-0-000-08-02-1974@@@
-
 DECRETO Nº 73.599, DE 8 DE FEVEREIRO DE 1974.
 
 Dispõe sobre a Subsistema de Classificação e Retribuição de Cargos e Empregos do Pessoal Civil da Administração Federal e dá outras providências.

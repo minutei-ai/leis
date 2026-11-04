@@ -1,5 +1,3 @@
-###DEC-066585-0-000-18-05-1970@@@
-
 DECRETO Nº 66.585, DE 18 DE MAIO DE 1970.
 
 Autorização para funcionamento da Faculdade de Administração de Emprêsas de Ourinhos, em Ourinhos, Estado de São Paulo.

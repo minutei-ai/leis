@@ -1,5 +1,3 @@
-###DEC-058206-0-000-18-04-1966@@@
-
 DECRETO Nº 58.206, DE 18 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Vicente Gilio a pesquisar pirofilita, argila, xisto, quartzo e caulim no município de Pirapora de Bom Jesus, Estado de São Paulo.

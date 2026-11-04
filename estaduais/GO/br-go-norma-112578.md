@@ -32,18 +32,22 @@ c) 6 – Amortização da Dívida; e
 
 II – às despesas relacionadas no Anexo VI deste Decreto.
 
-§ 1º Os montantes definidos nos Anexos I e II deste Decreto serão automaticamente atualizados nas seguintes hipóteses:<br>
+§ 1º Os montantes definidos nos Anexos I e II deste Decreto serão automaticamente atualizados nas seguintes hipóteses:
+
 \- [Redação dada pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
 ~~§ 1º Quando a abertura de créditos adicionais exceder os limites de empenho definidos no Anexo I deste Decreto, os valores correspondentes serão incorporados ao total estabelecido.~~
 
-I – quando a abertura de créditos adicionais exceder tais montantes, incorporados ao total estabelecido os valores que os superarem; e<br>
+I – quando a abertura de créditos adicionais exceder tais montantes, incorporados ao total estabelecido os valores que os superarem; e
+
 \- [Acrescido pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181) .
 
-II – quando houver desbloqueio de dotação orçamentária no âmbito da mesma unidade, incorporado o valor desbloqueado ao total estabelecido.<br>
+II – quando houver desbloqueio de dotação orçamentária no âmbito da mesma unidade, incorporado o valor desbloqueado ao total estabelecido.
+
 \- [Acrescido pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
-§ 2º A ECONOMIA poderá, mediante portaria, alterar o montante das ações orçamentárias constantes do Anexo II deste Decreto, observadas as metas fiscais estabelecidas.<br>
+§ 2º A ECONOMIA poderá, mediante portaria, alterar o montante das ações orçamentárias constantes do Anexo II deste Decreto, observadas as metas fiscais estabelecidas.
+
 \- [Redação dada pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
 ~~§ 2º Os valores constantes do Anexo II deste Decreto poderão ser desbloqueados mediante portaria da ECONOMIA, com a finalidade de ampliar os limites fixados no Anexo I – Limites de Empenho.~~
@@ -114,31 +118,40 @@ Art. 7º Em decorrência das [Leis nº 22.317](https://legisla.casacivil.go.gov.
 
 Parágrafo único. A periodicidade de inserção no Sistema de Planejamento e Monitoramento do Plano Plurianual – SIPLAM dos dados de execução física e financeira dos produtos do PPA será mensal, até o décimo dia útil subsequente ao mês de execução.
 
-~~Art. 8º Fica instituído, na administração pública estadual direta, autárquica e fundacional, o Instrumento de Parcerias e Contratos Públicos – IPP, destinado a subsidiar a previsão e a governança do crescimento de gastos decorrentes de parcerias públicas, contratos e instrumentos congêneres, com a duração mínima de quatro anos, bem como a aferição de sua aderência às políticas públicas e às prioridades governamentais.~~<br>
+~~Art. 8º Fica instituído, na administração pública estadual direta, autárquica e fundacional, o Instrumento de Parcerias e Contratos Públicos – IPP, destinado a subsidiar a previsão e a governança do crescimento de gastos decorrentes de parcerias públicas, contratos e instrumentos congêneres, com a duração mínima de quatro anos, bem como a aferição de sua aderência às políticas públicas e às prioridades governamentais.~~
+
 \- [Revogado pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181), art. 3º.
 
-~~§ 1º O IPP consiste em um artefato institucional destinado a consolidar as informações, as decisões e o monitoramento referentes às parcerias, aos contratos públicos e aos instrumentos congêneres de que trata este Decreto.~~<br>
+~~§ 1º O IPP consiste em um artefato institucional destinado a consolidar as informações, as decisões e o monitoramento referentes às parcerias, aos contratos públicos e aos instrumentos congêneres de que trata este Decreto.~~
+
 \- [Revogado pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181), art. 3º.
 
-~~§ 2º O IPP constitui etapa obrigatória e prévia à emissão da Declaração do Ordenador de Despesa, ou de instrumento equivalente, quando for exigível na forma da legislação vigente, e à prática de atos que importem a autorização, a formalização, a renovação, a prorrogação, o aditamento ou a ampliação de obrigações financeiras futuras.~~<br>
+~~§ 2º O IPP constitui etapa obrigatória e prévia à emissão da Declaração do Ordenador de Despesa, ou de instrumento equivalente, quando for exigível na forma da legislação vigente, e à prática de atos que importem a autorização, a formalização, a renovação, a prorrogação, o aditamento ou a ampliação de obrigações financeiras futuras.~~
+
 \- [Revogado pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181), art. 3º.
 
-~~§ 3º O IPP será operacionalizado por meio de sistema informacional específico, ferramenta corporativa destinada ao registro, à consolidação e ao monitoramento das informações previstas neste Decreto.~~<br>
+~~§ 3º O IPP será operacionalizado por meio de sistema informacional específico, ferramenta corporativa destinada ao registro, à consolidação e ao monitoramento das informações previstas neste Decreto.~~
+
 \- [Revogado pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181), art. 3º.
 
-~~§ 4º A regulamentação e a normatização do IPP será realizada pela ECONOMIA.<br>
+~~§ 4º A regulamentação e a normatização do IPP será realizada pela ECONOMIA.
+
 ~~\- [Revogado pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181), art. 3º.
 
-Art. 8º-A A ECONOMIA fica autorizada a instituir grupo de trabalho para a avaliação de despesas dos órgãos, dos fundos, das entidades e das empresas estatais dependentes integrantes do Orçamento Fiscal e do Orçamento da Seguridade Social.<br>
+Art. 8º-A A ECONOMIA fica autorizada a instituir grupo de trabalho para a avaliação de despesas dos órgãos, dos fundos, das entidades e das empresas estatais dependentes integrantes do Orçamento Fiscal e do Orçamento da Seguridade Social.
+
 \- [Acrescido pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
-§ 1º A composição, as atribuições e o prazo de funcionamento do grupo de trabalho de que trata o caput deste artigo serão definidos em portaria da ECONOMIA.<br>
+§ 1º A composição, as atribuições e o prazo de funcionamento do grupo de trabalho de que trata o caput deste artigo serão definidos em portaria da ECONOMIA.
+
 \- [Acrescido pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
-§ 2º As avaliações realizadas pelo grupo de trabalho subsidiarão as decisões da ECONOMIA referentes aos limites de empenho e de pagamento previstos neste Decreto.<br>
+§ 2º As avaliações realizadas pelo grupo de trabalho subsidiarão as decisões da ECONOMIA referentes aos limites de empenho e de pagamento previstos neste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
-§ 3º O grupo de trabalho terá o poder de requisitar análises, dados e informações para a prestação de esclarecimentos necessários ao desempenho de suas funções.<br>
+§ 3º O grupo de trabalho terá o poder de requisitar análises, dados e informações para a prestação de esclarecimentos necessários ao desempenho de suas funções.
+
 \- [Acrescido pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
 CAPÍTULO V
@@ -155,7 +168,8 @@ Art. 11. Compõem o presente Decreto:
 
 I – o Anexo I – Limites de Empenho, conforme o art. 8º da Lei Complementar nº 101, de 2000;
 
-II – o Anexo II – Disponibilidade de Ações;<br>
+II – o Anexo II – Disponibilidade de Ações;
+
 \- [Redação dada pelo Decreto nº 10.900, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114181).
 
 ~~II – o Anexo II – Indisponibilização de Recursos;~~
@@ -178,7 +192,8 @@ Goiânia, 29 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 [ANEXOS **I a VIII** deste Decreto](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18730)

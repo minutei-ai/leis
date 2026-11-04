@@ -1,5 +1,3 @@
-###DEC-005342-0-000-14-01-2005@@@
-
 DECRETO Nº 5.342 DE 14 DE JANEIRO DE 2005
 
 Regulamenta a Lei nº 10.891, de 9 de julho de 2004, que institui a Bolsa-Atleta.

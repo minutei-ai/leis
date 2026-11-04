@@ -1,5 +1,3 @@
-###DEC-082973-0-000-03-01-1979@@@
-
 Decreto nº 82.973, de 03 de janeiro de 1979
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário marinho no Município de Santo Amaro, Estado da Bahia.

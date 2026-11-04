@@ -1,5 +1,3 @@
-###DEC-053355-0-000-27-12-1963@@@
-
 DECRETO Nº 53.355, DE 27 DE DEZEMBRO DE 1963
 
 Dispões sôbre doação de imóvel que menciona, em Piripiri, no Estado do Piauí.

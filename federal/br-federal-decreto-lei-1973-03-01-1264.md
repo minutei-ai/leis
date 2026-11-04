@@ -1,5 +1,3 @@
-###DEL-001264-0-000-01-03-1973@@@
-
 DECRETO-LEI N. 1.264 – DE 1 DE MARÇO DE 1973
 
 Modifica, no exercício de 1973, a distribuição da receita proveniente da arrecadação do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos e sobre Energia Elétrica e dá outras providências.

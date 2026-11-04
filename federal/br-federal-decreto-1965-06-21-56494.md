@@ -1,5 +1,3 @@
-###DEC-056494-0-000-21-06-1965@@@
-
 DECRETO Nº 56.494, DE 21 DE JUNHO DE 1965.
 
 Declara de utilidade pública o “Colégio Nossa Senhora Auxiliadora”, com sede em Ribeirão Prêto, Estado de São Paulo.

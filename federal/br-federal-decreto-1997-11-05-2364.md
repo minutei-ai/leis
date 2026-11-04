@@ -1,5 +1,3 @@
-###DEC-002364-0-000-05-11-1997@@@
-
 DECRETO Nº 2.364, DE 5 DE NOVEMBRO DE 1997
 
 Altera o Decreto nº 2.335, de 6 de outubro de 1997, que constituiu a Agência Nacional de Energia Elétrica-ANEEL.

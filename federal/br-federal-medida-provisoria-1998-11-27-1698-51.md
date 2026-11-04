@@ -1,5 +1,3 @@
-###MPV-001698-0-051-27-11-1998@@@
-
 Medida Provisória nº 1.698-51, de 27 de novembro de 1998.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

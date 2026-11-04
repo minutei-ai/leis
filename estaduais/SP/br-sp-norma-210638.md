@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210638)<br>
-
 # DECRETO N° 69.363, DE 19 DE FEVEREIRO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à requalificação de área urbana, no Município de São Paulo, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEL-001944-0-000-15-06-1982@@@
-
 # Decreto-lei nº 1.944, de 15 de junho de 1982
 
 Concede isenção do Imposto sobre Produtos Industrializados para táxis com motor a álcool.

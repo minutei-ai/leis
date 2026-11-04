@@ -1,5 +1,3 @@
-###DEC-079735-0-000-26-05-1977@@@
-
 DECRETO Nº 79.735, DE 26 DE MAIO DE 1977.
 
 Concede reconhecimento ao curso de Comunicação Social da Universidade Metodista de Piracicaba, com sede na cidade de Piracicaba, Estado de São Paulo.

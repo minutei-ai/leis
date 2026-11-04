@@ -18,8 +18,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 13 de maio de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -31,7 +29,7 @@ ANEXO ÚNICO
 | DENOMINAÇÃO | **Ilha do Pescador** |
 | LOCALIZAÇÃO | **A 761,11 m da Cidade de Aporé, na saída para o Mato Grosso do Sul** |
 | ÁREA | **1.928,50 m²** |
-| MATRÍCULA | **Nº 1.920 – Cartório de Registro de Imóveis de** **Aporé/GO** |
+| MATRÍCULA | **Nº 1.920 – Cartório de Registro de Imóveis deAporé/GO** |
 |
 LIMITES E CONFRONTAÇÕES DO IMÓVEL
 

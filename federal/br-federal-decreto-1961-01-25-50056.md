@@ -1,5 +1,3 @@
-###DEC-050056-0-000-25-01-1961@@@
-
 Decreto nº 50.056, de 25 de janeiro de 1961.
 
 Aprova o Regulamento para o Colégio Naval.

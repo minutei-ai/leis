@@ -1,5 +1,3 @@
-###DEC-055147-0-000-04-12-1964@@@
-
 DECRETO Nº 55147, DE 4 DE DEZEMBRO DE 1964.
 
 Declara públicas, de uso comum, as águas do curso d’água que especifica.

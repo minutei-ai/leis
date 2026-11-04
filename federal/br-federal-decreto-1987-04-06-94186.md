@@ -1,5 +1,3 @@
-###DEC-094186-0-000-06-04-1987@@@
-
 DECRETO Nº 94.186, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à RÁDIO PRINCESA DO JACUY LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Candelária, Estado do Rio Grande do Sul.

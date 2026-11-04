@@ -1,5 +1,3 @@
-###DEC-056224-0-000-30-04-1965@@@
-
 DECRETO Nº 56.224, DE 30 DE ABRIL DE 1965.
 
 Autoriza a A.P. Green do Brasil S.A - Comercial, Industrial e Técnica a pesquisar argila, no município de Duque de Caxias, Estado do Rio de Janeiro.

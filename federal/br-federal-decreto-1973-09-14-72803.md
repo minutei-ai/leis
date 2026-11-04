@@ -1,5 +1,3 @@
-###DEC-072803-0-000-14-09-1973@@@
-
 DECRETO Nº 72.803, DE 14 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, destinada à instalação de uma central automática, situado no distrito e município de Caieiras, Comarca de Franco da Rocha, Estado de São Paulo, pela Telecomunicações de São Paulo S.A. - TELESP.

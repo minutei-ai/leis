@@ -1,5 +1,3 @@
-###DEC-046080-0-000-19-05-1959@@@
-
 Decreto nº 46.080, De 19 de maio de 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar da Agricultura.

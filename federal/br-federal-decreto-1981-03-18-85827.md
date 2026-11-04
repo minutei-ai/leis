@@ -1,7 +1,3 @@
-1
-
-###DEC-085827-0-000-18-03-1981@@@
-
 Decreto nº 85.827, de 18 de março de 1981.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Contábeis e Administrativas do Litoral Santista, com sede na cidade de Santos, Estados de São Paulo.

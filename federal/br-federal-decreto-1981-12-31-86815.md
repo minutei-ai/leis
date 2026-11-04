@@ -1,5 +1,3 @@
-###DEC-086815-0-000-31-12-1981@@@
-
 DECRETO Nº 86.815, DE 31 DE DEZEMBRO DE 1981.
 
 Concede autorização às empresas Citco Amazonas Petroleum Corporation e Pecten Brazil Pará Petroleum Company para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-055807-0-000-05-03-1965@@@
-
 DECRETO Nº 55.807, DE 5 DE MARÇO DE 1965.
 
 Dispõe sôbre estoques de trigo e seus derivados e dá outras providências.

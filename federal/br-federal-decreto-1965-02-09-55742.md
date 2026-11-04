@@ -1,5 +1,3 @@
-###DEC-055742-0-000-09-02-1965@@@
-
 Decreto nº 55.742, de 9 de Fevereiro de 1965.
 
 Altera o Regimento do Departamento dos Correios e Telégrafos.

@@ -1,5 +1,3 @@
-###DEC-084932-0-000-17-07-1980@@@
-
 Decreto nº 84.932, de 17 de julho de 1980.
 
 Declara perempta a concessão outorga à Ceará Rádio Clube S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Fortaleza, Estado do Ceará.

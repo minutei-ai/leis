@@ -1,5 +1,3 @@
-###DEL-006513-0-000-19-05-1944@@@
-
 DECRETO-LEI N. 6.513 – DE 19 DE MAIO DE 1944
 
 Altera o art. 1º do Decreto-lei nº 5.756, de 18 de agôsto de 1943

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208216)<br>
-
 # DECRETO N° 67.769, DE 24 DE JUNHO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Viapaulista S/A, a área necessária à implantação de passarela no km 311+600m da Rodovia SP-255, no Município de Taquarituba, e dá providências correlatas._

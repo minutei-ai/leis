@@ -1,5 +1,3 @@
-###DEC-061831-0-000-05-12-1967@@@
-
 DECRETO Nº 61.831, DE 5 DE DEZEMBRO DE 1967.
 
 Outorga à Prefeitura Municipal de Ponta Porã concessão para o aproveitamento da energia hidráulica de um trecho do rio São João, 2º saldo no Distrito de Ponta Porã, município de Ponta Porã, Estado de Mato Grosso.

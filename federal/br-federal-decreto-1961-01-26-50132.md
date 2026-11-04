@@ -1,5 +1,3 @@
-###DEC-050132-0-000-26-01-1961@@@
-
 DECRETO Nº 50.132, DE 26 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Marajoara - Sociedade Anônima para estabelecer uma estação de rádiotelevisão na cidade de Belém, Estado do Pará.

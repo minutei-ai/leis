@@ -1,40 +1,38 @@
-###DEC-043835-0-000-06-06-1958@@@
+**DECRETO Nº 43.835, DE 6 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.835, DE 6 DE JUNHO DE 1958.</strong>
+***Aprova o Regulamento para os Grandes Comandos (R-163).***
 
-<em><strong>Aprova o Regulamento para os Grandes Comandos (R-163).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para os Grandes Comandos (R-163), que com êste baixa , assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para os Grandes Comandos (R-163), que com êste baixa , assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 6 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>REGULAMENTO PARA OS GRANDES COMANDOS (R-163)</strong>
+**REGULAMENTO PARA OS GRANDES COMANDOS (R-163)**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>Art</strong>. 1º O presente Regulamento tem por fim definir as atribuições dos Grandes Comandos do Exército, em tempo de paz, bem como as relações que, entre si, devem manter.
+**Art**. 1º O presente Regulamento tem por fim definir as atribuições dos Grandes Comandos do Exército, em tempo de paz, bem como as relações que, entre si, devem manter.
 
 Parágrafo único. As atribuições dêsses mesmos Comandos, em tempo de guerra, constam dos Manuais de Campanha em vigor.
 
-<strong>Art</strong>. 2º Em tempo de paz, o Ministro de Guerra é o Comandante do Exército, por delegação permanente do Presidente da República.
+**Art**. 2º Em tempo de paz, o Ministro de Guerra é o Comandante do Exército, por delegação permanente do Presidente da República.
 
-<strong>Art</strong>. 3º O Alto Comando, presidido pelo Ministro da Guerra, é constituído pelos Chefes do Estado-Maior do Exército e dos Departamentos e pelos Comandantes dos Exércitos.
+**Art**. 3º O Alto Comando, presidido pelo Ministro da Guerra, é constituído pelos Chefes do Estado-Maior do Exército e dos Departamentos e pelos Comandantes dos Exércitos.
 
-<strong>Art</strong>. 4º O Chefe do Estado-Maior do Exército, Relator do Alto Comando, é o principal assessor do Ministro da Guerra e responsável pela preparação do Exército para a guerra.
+**Art**. 4º O Chefe do Estado-Maior do Exército, Relator do Alto Comando, é o principal assessor do Ministro da Guerra e responsável pela preparação do Exército para a guerra.
 
-<strong>Art</strong>. 5º Os Grandes Comandos do Exército, em tempo de paz, são:
+**Art**. 5º Os Grandes Comandos do Exército, em tempo de paz, são:
 
 1\) os Comandos de Exércitos e os Comandos Militares de Áreas;
 
@@ -48,13 +46,13 @@ Parágrafo único. As atribuições dêsses mesmos Comandos, em tempo de guerra,
 
 6\) os Comandos de Brigadas (Blindadas, Aeroterrestres, de Artilharia Antiárea e Mistas) de Grupamentos e Destacamento, quando privativos de oficial-general.
 
-<strong>Art</strong>. 6º Para o desempenho de suas funções, os Grandes Comandos dispõem de QG cujo funcionamento será regulado pelas “Instruções para o funcionamento dos QG em tempo de paz” e outras que venham a ser propostas pelo EME e baixadas pelo ministro da Guerra.
+**Art**. 6º Para o desempenho de suas funções, os Grandes Comandos dispõem de QG cujo funcionamento será regulado pelas “Instruções para o funcionamento dos QG em tempo de paz” e outras que venham a ser propostas pelo EME e baixadas pelo ministro da Guerra.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Atribuições Orgânicas</em>
+*Atribuições Orgânicas*
 
-<strong>Art</strong>. 7º Os Exércitos constituem, na organização da paz da Fôrças Terrestres, os grandes escalões de enquadramento e preparação da tropa para o Emprêgo; através dêles é que se realiza a unidade de comando das Fôrças Terrestres que guarnecem o território e da administração militar dêste último, cabendo-lhes:
+**Art**. 7º Os Exércitos constituem, na organização da paz da Fôrças Terrestres, os grandes escalões de enquadramento e preparação da tropa para o Emprêgo; através dêles é que se realiza a unidade de comando das Fôrças Terrestres que guarnecem o território e da administração militar dêste último, cabendo-lhes:
 
 1\) a supervisão da instrução, displina, atividades logísticas, preparo da mobilização e planejamento de emprêgo, tudo de acôrdo com diretrizes baixadas pelo Ministro da Guerra e propostas pelo Estado-Maior do Exército;
 
@@ -64,9 +62,9 @@ Parágrafo único. As atribuições dêsses mesmos Comandos, em tempo de guerra,
 
 § 2º Os Comandos Militares de Áreas, como núcleos de formação de futuros Comandos de Exércitos, têm atribuições análogas às dêstes e regem-se pelas mesmas normas, com as ressalvadas estabelecidas no decreto da respectiva criação.
 
-<strong>Art</strong>. 8º Os Corpos, constituídos de várias Grandes Unidades são escalões intermediários entre estas e os Exércitos, com atribuição específica de coordenar o planejamento de emprêgo e a preparação para a guerra, segundo diretrizes e instruções baixadas pelos Exércitos a que pertencem.
+**Art**. 8º Os Corpos, constituídos de várias Grandes Unidades são escalões intermediários entre estas e os Exércitos, com atribuição específica de coordenar o planejamento de emprêgo e a preparação para a guerra, segundo diretrizes e instruções baixadas pelos Exércitos a que pertencem.
 
-<strong>Art</strong>. 9º As Regiões Militares, órgãos territoriais diretamente subordinadas aos Comandos dos Exércitos que lhes guarnecem o território, constituem o elo, para fins de apoio logístico, entre a Direções dos Serviços e as Organizações que dêstes se beneficiam; destinam-se a providenciar o atendimento das necessidades destas organizações, relativas a suprimentos, manutenção, mobilização, recrutamento, aquartelamento, saúde, assistência social, veterinária e remonta.
+**Art**. 9º As Regiões Militares, órgãos territoriais diretamente subordinadas aos Comandos dos Exércitos que lhes guarnecem o território, constituem o elo, para fins de apoio logístico, entre a Direções dos Serviços e as Organizações que dêstes se beneficiam; destinam-se a providenciar o atendimento das necessidades destas organizações, relativas a suprimentos, manutenção, mobilização, recrutamento, aquartelamento, saúde, assistência social, veterinária e remonta.
 
 § 1º Cumpre-lhes organizar e dirigir, em suas respectivas áreas, o funcionamento dos referidos Serviços, de acôrdo com as diretrizes e instruções baixadas pelo Comandantes de Exércitos.
 
@@ -78,17 +76,17 @@ Parágrafo único. As atribuições dêsses mesmos Comandos, em tempo de guerra,
 
 3\) a orientação e fiscalização da instrução das Unidades e órgãos que lhes são diretamente subordinados.
 
-<strong>Art</strong>. 10. As divisões, Grandes Unidades básicas de combinação das Armas, constituem o escalão diretamente responsável pelo preparo da tropa para a guerra, em particular quanto à instrução e ao aparelhamento material.
+**Art**. 10. As divisões, Grandes Unidades básicas de combinação das Armas, constituem o escalão diretamente responsável pelo preparo da tropa para a guerra, em particular quanto à instrução e ao aparelhamento material.
 
-<strong>Art</strong>. 11. Os Comandos de Armas assessoram o Comando da Grande Unidade nos assuntos relativos às respectivas Armas e dirigem, coordenam e fiscalizam a instrução das Unidades subordinadas, de acôrdo com as diretrizes baixadas pelos escalões superiores.
+**Art**. 11. Os Comandos de Armas assessoram o Comando da Grande Unidade nos assuntos relativos às respectivas Armas e dirigem, coordenam e fiscalizam a instrução das Unidades subordinadas, de acôrdo com as diretrizes baixadas pelos escalões superiores.
 
-<strong>Art</strong>. 12. Os Comandos de Brigadas, Grupamentos e Destacamentos exercem funções análogas às dos Comandos de Grandes Unidades, em suas esferas de ação, com as ressalvas decorrentes das missões específicas para que tenham sido criados.
+**Art**. 12. Os Comandos de Brigadas, Grupamentos e Destacamentos exercem funções análogas às dos Comandos de Grandes Unidades, em suas esferas de ação, com as ressalvas decorrentes das missões específicas para que tenham sido criados.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Atribuições Funcionais</em>
+*Atribuições Funcionais*
 
-<strong>Art</strong>. 13. Ao Comandante de Exército, em sua ação de comando, cumpre, de acôrdo com diretrizes baixadas pelo Ministro da Guerra, propostas pelo Estado-Maior do Exército, dirigir, coordenar e fiscalizar a instrução e as atividades logísticas dos elementos que lhe são subordinados, tendo em vista sua preparação para a guerra; cabem-lhe, ainda, os encargos de planejamento que lhe forem atribuídos pelo Estado-Maior do Exército.
+**Art**. 13. Ao Comandante de Exército, em sua ação de comando, cumpre, de acôrdo com diretrizes baixadas pelo Ministro da Guerra, propostas pelo Estado-Maior do Exército, dirigir, coordenar e fiscalizar a instrução e as atividades logísticas dos elementos que lhe são subordinados, tendo em vista sua preparação para a guerra; cabem-lhe, ainda, os encargos de planejamento que lhe forem atribuídos pelo Estado-Maior do Exército.
 
 Parágrafo único. São suas atribuições:
 
@@ -126,7 +124,7 @@ Parágrafo único. São suas atribuições:
 
 17\) apresentar ao Ministro da Guerra, por intermédio do Estado-Maior do Exército, relatórios de suas inspensões periódicas às Grandes Unidades e Regiões Militares subordinadas e, até 15 de fevereiro de cada ano, relatório circunstanciado sôbre as atividades do Exército no decurso do ano anterior.
 
-<strong>Art</strong>. 14. Ao Comandante de Região Militar cumpre:
+**Art**. 14. Ao Comandante de Região Militar cumpre:
 
 1\) dirigir todo o planejamento a cargo da Região Militar, em particular quanto à guarda e defesa do território - defesa contra ataques aéreos, defesa passiva da população, guarda territorial, vigilância e defesa dos pontos sensíveis, vigilância na faixa de fronteira e em núcleos alienígenas, quando não atribuída à responsabilidade de Grande Unidade, defesa contra atividade subversivas e a ação de sabotadores e a defesa de côsta - a segurança interna e manutenção da ordem e às atividades logísticas em apoio a operações previstas, tudo, de acôrdo com diretrizes e instruções do respectivo Exército;
 
@@ -158,7 +156,7 @@ Parágrafo único. São suas atribuições:
 
 15\) apresentar, ao Comando do respectivo Exército, relatórios de suas inpensões periódicas e, até 31 de janeiro de cada ano, relatório circunstanciado sôbre as atividades da Região no decurso do ano anterior.
 
-<strong>Art</strong>. 15. Ao Comandante de Grande Unidade cumpre:
+**Art**. 15. Ao Comandante de Grande Unidade cumpre:
 
 1\) dirigir, consoante as instuções do Comando do Exército, todo o planejamento de emprêgo da tropa, inclusive quanto à segurança interna;
 
@@ -186,7 +184,7 @@ Parágrafo único. São suas atribuições:
 
 13\) apresentar, ao Comando do respectivo Exército, relatórios de suas inpensões periódicas e, até 31 de janeiro de cada ano, relatório circunstanciado sôbre as atividades da Grande Unidade, no decurso do ano anterior.
 
-<strong>Art</strong>. 16. Ao Comandante de Armas cumpre:
+**Art**. 16. Ao Comandante de Armas cumpre:
 
 1\) assessorar o Comandante da respectiva Grande Unidade nos assuntos específicos de sua Arma;
 
@@ -204,35 +202,35 @@ Parágrafo único. São suas atribuições:
 
 8\) apresentar, ao Comando da respectivo Grande Unidade, relatórios de suas inpensões periódicas e, dentro do prazo estabelecido, relatório circunstanciado sôbre as atividades da Comando de Arma e sôbre a marcha da instrução e o preparo para guerra das Unidades subordinadas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Relações de Serviço</em>
+*Relações de Serviço*
 
-<strong>Art</strong>. 17. No desempenho de suas funções, os Comandantes de Exército entendem-se diretamente com o Ministro da Guerra, com o Chefe do Estado-Maior do Exército e com os Chefes de Departamentos.
+**Art**. 17. No desempenho de suas funções, os Comandantes de Exército entendem-se diretamente com o Ministro da Guerra, com o Chefe do Estado-Maior do Exército e com os Chefes de Departamentos.
 
-<strong>Art</strong>. 18. Os Comandantes de Regiões Militares, sem prejuízo da participação normal ao escalão imediatamente superior, entendem-se diretamente com Chefe do Estado-Maior do Exército, nas questões relativas as mobilização e, nos assuntos concernentes ao funcionamento normal dos Serviços, com os Chefes dos Departamentos e mesmo, na conformidade de normas estabelecidas com as Diretorias subordinadas a êstes últimos.
+**Art**. 18. Os Comandantes de Regiões Militares, sem prejuízo da participação normal ao escalão imediatamente superior, entendem-se diretamente com Chefe do Estado-Maior do Exército, nas questões relativas as mobilização e, nos assuntos concernentes ao funcionamento normal dos Serviços, com os Chefes dos Departamentos e mesmo, na conformidade de normas estabelecidas com as Diretorias subordinadas a êstes últimos.
 
 Parágrafo único. Nos demais casos, as relações dos Comandantes de Regiões Militares se fazem por intermédio dos respectivos Exércitos.
 
-<strong>Art</strong>. 19. As relações dos Comandantes de Grandes Unidades com outros Grandes Comandos que não lhe sejam subordinados, são mantidas, em princípio, através dos Comandos dos respectivos Exércitos.
+**Art**. 19. As relações dos Comandantes de Grandes Unidades com outros Grandes Comandos que não lhe sejam subordinados, são mantidas, em princípio, através dos Comandos dos respectivos Exércitos.
 
 Parágrafo único. Excetuam-se, sem prejuízo de participação ao Comandante de Exército, os entendimentos diretos com a Região Militar que apóia a Grande Unidade, no que diz respeito aos Serviços.
 
-<strong>Art</strong>. 20. Qualquer escalão de Comando, no exercício das funções de Comandante de Guarnição, pode entender-se, como tal, diretamente com as autoridades locais, tanto civis, como pertencentes às outras Forças Armadas sempre que o assunto não exigir a intervenção do escalão superior.
+**Art**. 20. Qualquer escalão de Comando, no exercício das funções de Comandante de Guarnição, pode entender-se, como tal, diretamente com as autoridades locais, tanto civis, como pertencentes às outras Forças Armadas sempre que o assunto não exigir a intervenção do escalão superior.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Substituições Temporárias</em>
+*Substituições Temporárias*
 
-<strong>Art</strong>. 21. As substituições temporárias nos Grandes Comandos obedecem, no que lhes fôr aplicável, às normas do Regulamento Interno e dos Serviços Gerais (RISG), respeitadas as prescrições constantes dos artigos que se seguem.
+**Art**. 21. As substituições temporárias nos Grandes Comandos obedecem, no que lhes fôr aplicável, às normas do Regulamento Interno e dos Serviços Gerais (RISG), respeitadas as prescrições constantes dos artigos que se seguem.
 
-<strong>Art</strong>. 22. As substituições do Ministro da Guerra fazem-se em virtude de ato específico do Poder Executivo.
+**Art**. 22. As substituições do Ministro da Guerra fazem-se em virtude de ato específico do Poder Executivo.
 
-<strong>Art</strong>. 23. O substituto do Chefe do Estado-Maior do exército é o Oficial General combatente mais antigo dentre os de maior pôsto que lhe são subordinados.
+**Art**. 23. O substituto do Chefe do Estado-Maior do exército é o Oficial General combatente mais antigo dentre os de maior pôsto que lhe são subordinados.
 
-<strong>Art</strong>. 24. Nos Grandes Comandos, o substituto do Comandante é o Oficial General combatente ou o Oficial da Armas subordinado, mais antigo dentre os de maior pôsto.
+**Art**. 24. Nos Grandes Comandos, o substituto do Comandante é o Oficial General combatente ou o Oficial da Armas subordinado, mais antigo dentre os de maior pôsto.
 
-<strong>Art</strong>. 25. Não haverá substituição quando o titular do cargo se deslocar a serviço, dentro da área correspondente à função ou Grande Comando que exerce:
+**Art**. 25. Não haverá substituição quando o titular do cargo se deslocar a serviço, dentro da área correspondente à função ou Grande Comando que exerce:
 
 1\) para o Ministro da Guerra e o Chefe do Estado-Maior do Exército - o território Nacional;
 
@@ -246,22 +244,22 @@ Parágrafo único. Excetuam-se, sem prejuízo de participação ao Comandante de
 
 Parágrafo único. Nos casos acima, o Chefe de Gabinete do Ministro da Guerra, o Subchefe mais antigo do Estado-Maior do Exército e os Chefes de Estado-Maior ou Assistentes responderão, apenas, pelo expediente.
 
-<strong>Art</strong>. 26. No Estado-Maior do Exército e nos Grandes Comandos, além dos casos previstos no artigo anterior, não haverá substituições temporárias eventuais, quando o afastamento do detentor fôr por prazo provável inferior a 10 dias, passando, neste caso, a responder pelo expediente as autoridades referidas no parágrafo único do artigo anterior.
+**Art**. 26. No Estado-Maior do Exército e nos Grandes Comandos, além dos casos previstos no artigo anterior, não haverá substituições temporárias eventuais, quando o afastamento do detentor fôr por prazo provável inferior a 10 dias, passando, neste caso, a responder pelo expediente as autoridades referidas no parágrafo único do artigo anterior.
 
-<strong>Art</strong>. 27. As substituições por motivo de férias ou afastamento por prazo provável superior a dez dias obedecem ao princípio hierárquico da precedência militar.
+**Art**. 27. As substituições por motivo de férias ou afastamento por prazo provável superior a dez dias obedecem ao princípio hierárquico da precedência militar.
 
-<strong>Art</strong>. 28. Nos casos em que, de acôrdo com as prescrições acima, um oficial responder pelo expediente, suas relações com outras autoridades, subordinadas ao Grande Comando, mas que sôbre aquêle tenham precedência hierárquica, limitam-se ao encaminhamento de documentos, os quais, quando necessário, serão solucionados pelo escalão superior.
+**Art**. 28. Nos casos em que, de acôrdo com as prescrições acima, um oficial responder pelo expediente, suas relações com outras autoridades, subordinadas ao Grande Comando, mas que sôbre aquêle tenham precedência hierárquica, limitam-se ao encaminhamento de documentos, os quais, quando necessário, serão solucionados pelo escalão superior.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Prescrições Diversas</em>
+*Prescrições Diversas*
 
-<strong>Art</strong>. 29. Os Grandes Comandos baixarão, em complemento a êste Regulamento e às Instruções baixadas pelo Ministro da Guerra, propostas pelo Estado-Maior do Exército sôbre o funcionamento dos Quartéis Generais, Normas Gerais de Ação pormenorizando funções e regulando, em minúcia, as relações de serviços para os diversos escalões subordinados.
+**Art**. 29. Os Grandes Comandos baixarão, em complemento a êste Regulamento e às Instruções baixadas pelo Ministro da Guerra, propostas pelo Estado-Maior do Exército sôbre o funcionamento dos Quartéis Generais, Normas Gerais de Ação pormenorizando funções e regulando, em minúcia, as relações de serviços para os diversos escalões subordinados.
 
-<strong>Art</strong>. 30. O presente Regulamento revoga o anterior aprovado pelo Decreto nº 21.816, de 4 de setembro de 1946, e suas alterações.
+**Art**. 30. O presente Regulamento revoga o anterior aprovado pelo Decreto nº 21.816, de 4 de setembro de 1946, e suas alterações.
 
 Rio de Janeiro, 6 de junho de 1958.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**
 
 Ministro da Guerra

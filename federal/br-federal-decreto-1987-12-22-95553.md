@@ -1,5 +1,3 @@
-###DEC-095553-0-000-22-12-1987@@@
-
 DECRETO Nº 95.553, DE 22 DE DEZEMBRO DE 1987
 
 Eleva o capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

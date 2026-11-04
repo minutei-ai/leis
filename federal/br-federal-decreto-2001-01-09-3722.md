@@ -1,5 +1,3 @@
-###DEC-003722-0-000-09-01-2001@@@
-
 DECRETO Nº 3.722, DE 9 DE JANEIRO DE 2001
 
 Regulamenta o art. 34 da Lei nº 8.666, de 21 de junho de 1993, e dispõe sobre o Sistema de Cadastramento Unificado de Fornecedores - SICAF.

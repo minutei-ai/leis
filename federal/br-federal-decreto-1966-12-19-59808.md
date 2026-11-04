@@ -1,5 +1,3 @@
-###DEC-059808-0-000-19-12-1966@@@
-
 DECRETO Nº 59.808, DE 19 DE DEZEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Meridional Companhia de Seguros Gerais, inclusive aumento do capital social.

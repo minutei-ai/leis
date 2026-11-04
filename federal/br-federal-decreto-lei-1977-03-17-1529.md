@@ -1,5 +1,3 @@
-###DEL-001529-0-000-17-03-1977@@@
-
 # DECRETO-LEI Nº 1.529, DE 17 DE MARÇO DE 1977
 
 Reajusta os vencimentos e salários dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências.

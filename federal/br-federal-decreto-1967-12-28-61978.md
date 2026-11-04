@@ -1,5 +1,3 @@
-###DEC-061978-0-000-28-12-1967@@@
-
 Decreto nº 61.978, de 28 de dezembro de 1967.
 
 Transformação e Extinção de Organizações Militares.

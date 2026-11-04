@@ -1,5 +1,3 @@
-###DEC-051887-0-000-04-04-1963@@@
-
 DECRETO Nº 51.887, DE 4 DE ABRIL DE 1963.
 
 Fixa os poderes especiais do Superintendente da SUNAB e as atribuições dos Administradores das entidades por ela jurisdicionadas.

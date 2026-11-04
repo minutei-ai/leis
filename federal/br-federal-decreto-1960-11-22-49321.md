@@ -1,5 +1,3 @@
-###DEC-049321-0-000-22-11-1960@@@
-
 DECRETO Nº 49.321, de 22 de novembro de 1960.
 
 Abre ao Ministério da Fazendo o crédito especial de Cr$25.000.000,00 para o fim que especifica.

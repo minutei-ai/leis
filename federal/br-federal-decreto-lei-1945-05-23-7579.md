@@ -1,5 +1,3 @@
-###DEL-007579-0-000-23-05-1945@@@
-
 DECRETO-LEI N. 7.579 – DE 23 DE MAIO DE 1945
 
 Cria uma Companhia de Infantaria de Guarda na 4ª Zona Aérea

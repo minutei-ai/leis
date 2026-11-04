@@ -1,5 +1,3 @@
-###DEC-097140-0-000-25-11-1988@@@
-
 DECRETO Nº 97.140 DE 25 DE NOVEMBRO DE 1988
 
 Concede licença ao Sindicado dos Estabelecimentos de Ensino Secundário e Comercial no Estado de São Paulo, para filiar-se a Federación de Asociaciones Educativas Privadas Latino-Americanas, com sede em Buenos Aires, República Argentina.

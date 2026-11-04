@@ -1,5 +1,3 @@
-###DEC-061723-0-000-22-11-1967@@@
-
 DECRETO Nº 61.723, DE 22 DE NOVEMBRO DE 1967.
 
 Autoriza a Indústrias Brasileiras de Artigos Refratários S.A. - IBAR, a lavrar quartzito no município de Itapeva, Estado de São Paulo.

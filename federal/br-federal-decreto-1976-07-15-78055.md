@@ -1,5 +1,3 @@
-###DEC-078055-0-000-15-07-1976@@@
-
 DECRETO Nº 78.055, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Específicas do 2º grau, Esquema I, correspondente as Áreas Econômicas Primária e Terciária, da Fundação Universidade de Passo Fundo, com sede na Cidade de Passo Fundo, Estado do Rio Grande do Sul.

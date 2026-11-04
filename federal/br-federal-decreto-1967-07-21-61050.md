@@ -1,5 +1,3 @@
-###DEC-061050-0-000-21-07-1967@@@
-
 DECRETO Nº 61.050, DE 21 DE JULHO DE 1967.
 
 Dá nova redação ao Decreto número 60.155, de 27 de janeiro de 1967, que criou o Grupo Nacional de Desenvolvimento das Construções Escolares do Ministério da Educação e Cultura.

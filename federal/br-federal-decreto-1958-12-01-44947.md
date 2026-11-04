@@ -1,5 +1,3 @@
-###DEC-044947-0-000-01-12-1958@@@
-
 DECRETO Nº 44.947, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza Melhoramentos de Guarulhos Sociedade Limitada a lavrar argila refratária no município de Guarulhos, Estado de São Paulo.

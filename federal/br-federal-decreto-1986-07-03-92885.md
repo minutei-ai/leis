@@ -1,5 +1,3 @@
-###DEC-092885-0-000-03-07-1986@@@
-
 DECRETO Nº 92.885, DE 3 DE JULHO DE 1986
 
 Promulga o Acordo relativo à Cooperação em Ciência e Tecnologia entre a República Federativa do Brasil e os Estados Unidos da América.
@@ -126,4 +124,20 @@ Em testemunho do quê, os abaixo-assinados, devidamente autorizados pelos seus r
 
 Feito, em dois exemplares, em Brasília, em 06 de fevereiro de 1984, nas línguas portuguesa e inglesa, ambos os textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold">PELO GOVERNO DOS ESTADOS UNIDOS DA AMERICA:</span></p></td></tr><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">(George P. Shultz)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DOS ESTADOS UNIDOS DA AMERICA:
+
+</td></tr><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+(Ramiro Saraiva Guerreiro)
+
+</td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+(George P. Shultz)
+
+</td></tr></tbody></table>

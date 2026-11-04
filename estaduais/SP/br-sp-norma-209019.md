@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209019)<br>
-
 # DECRETO N° 68.248, DE 26 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rota das Bandeiras S/A, as áreas necessárias à duplicação do trecho entre os km 22+800m e 24+600m da Rodovia Romildo Prado (SP-063), no Município de Itatiba, e dá providências correlatas._

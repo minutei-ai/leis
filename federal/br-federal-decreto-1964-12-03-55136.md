@@ -1,5 +1,3 @@
-###DEC-055136-0-000-03-12-1964@@@
-
 decreto nº 55.136, de 3 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Manoel Joaquim Azevedo a pesquisar minério de manganês no município de Urandí, Estado da Bahia.

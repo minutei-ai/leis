@@ -1,5 +1,3 @@
-###DEC-088595-0-000-08-08-1983@@@
-
 Decreto nº 88.595, de 08 de agosto de 1983
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade Canoense de Psicologia, no Estado do Rio Grande do Sul.

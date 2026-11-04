@@ -1,5 +1,3 @@
-###DEC-052177-0-000-28-06-1963@@@
-
 DECRETO Nº 52.177, DE 28 DE JUNHO DE 1963.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil das frações ideais do terreno de marinha que menciona no Estado da Guanabara.

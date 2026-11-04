@@ -1,5 +1,3 @@
-###DEC-072701-0-000-27-08-1973@@@
-
 DECRETO Nº 72.701, DE 27 DE AGOSTO DE 1973.
 
 Altera o Decreto nº 58.196, de 15 de abril de 1966, que dispôs sobre o enquadramento do pessoal do Departamento de Polícia Federal, e dá outras providências.

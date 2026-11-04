@@ -1,5 +1,3 @@
-###DEC-064130-0-000-24-02-1969@@@
-
 DECRETO Nº 64.130, DE 24 DE FEVEREIRO DE 1969.
 
 Prorroga por 180 dias o prazo previsto no Plano de Operações do Programa de Pesquisas e Desenvolvimento Pesqueiro do Brasil, aprovado pelo Decreto nº 60.401, de 11 de março de 1967.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099456-0-000-16-08-1990@@@
-
 DECRETO N° 99.456, DE 16 DE AGOSTO DE 1990
 
 Dispõe sobre o aumento do capital social da Embraer - Empresa Brasileira de Aeronáutica S.A.

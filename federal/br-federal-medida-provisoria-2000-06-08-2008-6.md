@@ -1,5 +1,3 @@
-###MPV-002008-0-006-08-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.008-6, de 8 de junho de 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamentos, e dá outras providências.

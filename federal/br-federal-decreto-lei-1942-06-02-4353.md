@@ -1,5 +1,3 @@
-###DEL-004353-0-000-02-06-1942@@@
-
 DECRETO-LEI N. 4.353 – DE 2 DE JUNHO DE 1942
 
 Prorroga o prazo fixado no art. 4º do decreto-lei n. 4.166, de 11 de março de 1942

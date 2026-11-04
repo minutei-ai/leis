@@ -1,5 +1,3 @@
-###DEL-003370-0-000-26-06-1941@@@
-
 DECRETO-LEI N. 3.370 – DE 26 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 1.290:418$0 para pagamento de notas de papel-moeda

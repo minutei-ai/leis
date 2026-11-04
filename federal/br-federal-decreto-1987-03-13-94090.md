@@ -1,5 +1,3 @@
-###DEC-094090-0-000-13-03-1987@@@
-
 DECRETO N° 94.090, DE 13 DE MARÇO DE 1987
 
 Regulamenta a Lei n° 7.474, de 8 de maio de 1986, que dispõe sobre medidas de segurança em favor de ex-Presidente da República, e dá outras providências.

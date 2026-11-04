@@ -1,6 +1,5 @@
 LEI Nº 7.371, DE 28 DE JUNHO DE 2023.
 
-<br>
 Denomina ginásio de esportes que especifica.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE - GO, APROVA E EU SANCIONO A SEGUINTE LEI:**

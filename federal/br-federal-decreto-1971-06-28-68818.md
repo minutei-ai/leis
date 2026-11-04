@@ -1,5 +1,3 @@
-###DEC-068818-0-000-28-06-1971@@@
-
 DECRETO Nº 68.818 - DE 28 de JUNHO DE 1971.
 
 Altera dispositivos do Decreto número 37.398, de 27 de maio de 1955, que cria o Centro de Instrução e Adestramento Aero-Naval.

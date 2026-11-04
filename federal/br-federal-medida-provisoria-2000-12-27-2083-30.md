@@ -1,5 +1,3 @@
-###MPV-002083-0-030-27-12-2000@@@
-
 medida provisória nº 2.083-30, de 27 de dezembro de 2000.
 
 Altera dispositivos da Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento.

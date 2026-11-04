@@ -1,5 +1,3 @@
-###DEC-081825-0-000-23-06-1978@@@
-
 Decreto nº 81.825, de 23 de junho de 1978.
 
 Concede à S.A. Indústrias Votorantim o direito de lavrar argila no Município de Cantagalo, Estado do Rio de Janeiro.

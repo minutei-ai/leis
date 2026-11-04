@@ -1,5 +1,3 @@
-###DEC-079532-0-000-13-04-1977@@@
-
 DECRETO Nº 79.532, DE 13 DE ABRIL DE 1977.
 
 Dispõe sobre as áreas de jurisdição dos Exércitos, Comandos Militares de Área e Regiões Militares, e dá outras providências.

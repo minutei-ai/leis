@@ -4,7 +4,8 @@ LEI Nº 15.113 DE 28 DE JANEIRO DE 2026
 
 **A PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA**, no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução nº 1.193/85 (Regimento Interno), faço saber que o Plenário da Assembleia aprovou e eu promulgo a seguinte Lei:
 
-Capítulo I<br>
+Capítulo I
+
 Das Disposições Preliminares
 
 **Art. 1.**º - Fica instituída a Política Estadual de Desenvolvimento Sustentável da Pesca e Aquicultura continentais do Estado da Bahia.
@@ -49,7 +50,8 @@ Das Disposições Preliminares
 
 **XVIII-** plataforma continental: o leito e o subsolo das áreas submarinas que se estendem além do mar territorial, em toda a extensão do prolongamento natural do território terrestre, até o bordo exterior da margem continental, ou até uma distância de 200 (duzentas) milhas marítimas das linhas de base, a partir das quais se mede a largura do mar territorial, nos casos em que o bordo exterior da margem continental não atinja essa distância.
 
-Capítulo II<br>
+Capítulo II
+
 Dos Princípios, das Diretrizes e dos Objetivos
 
 **Art. 2º** - Constituem princípios da Política Estadual de Desenvolvimento Sustentável da Pesca e Aquicultura:
@@ -132,10 +134,12 @@ Dos Princípios, das Diretrizes e dos Objetivos
 
 **XIX-** ordenar e regulamentar a pesca em águas continentais no âmbito de sua competência.
 
-Capítulo III<br>
+Capítulo III
+
 Da Atividade Pesqueira
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Disposições Gerais
 
 **Art. 5º** - O exercício da atividade pesqueira somente poderá ser realizado mediante registro e licenças requeridos ao órgão federal competente, asseguradas:
@@ -146,10 +150,12 @@ Disposições Gerais
 
 **III-** a busca da segurança alimentar e a sanidade dos alimentos produzidos.
 
-Capítulo IV<br>
+Capítulo IV
+
 Da Pesca
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Disposições Gerais
 
 **Art. 6º** - Para efeitos desta Lei a pesca se classifica em:
@@ -170,10 +176,12 @@ III     – didático-científica: quando praticada por pessoa física ou ju
 
 **II-** admite-se apenas a utilização de embarcação classificada pela legislação marítima nas classes de esporte ou recreio.
 
-Capítulo V<br>
+Capítulo V
+
 Da Aquicultura
 
-Seção I<br>
+Seção I
+
 Disposições Gerais
 
 **Art. 8º** - Para efeito desta Lei a aquicultura se classifica como:
@@ -204,12 +212,14 @@ Disposições Gerais
 
 **§ 1**º - Para o exercício da atividade da aquicultura será exigido do interessado, pessoa física ou jurídica nacional, Registro Geral de Atividade Pesqueira (RGP), além dos cadastros, das licenças ambientais e outorgas estabelecidas pela legislação específica.
 
-Seção II<br>
+Seção II
+
 Da Outorga do Direito de Uso de Recursos Hídricos
 
 **Art. 10** - Para a exploração de projetos de aquicultura o interessado deverá requerer a outorga do direito de uso da água junto ao órgão estadual competente, e federal quando se tratar de corpos d'água de domínio da União.
 
-Seção III<br>
+Seção III
+
 Do Empreendedor de Projeto de Aquicultura e Suas Obrigações
 
 **Art. 11** - Entende-se por empreendedor a pessoa física ou jurídica nacional, de direito público ou privado, que pretender executar projeto de aquicultura na forma prevista nesta Lei e seu Regulamento.
@@ -218,7 +228,8 @@ Do Empreendedor de Projeto de Aquicultura e Suas Obrigações
 
 **Art. 12** - O empreendedor assumirá inteira e total responsabilidade por quaisquer danos individuais, coletivos e difusos, materiais, imateriais e morais, ou prejuízos ocorridos durante a execução do projeto de aquicultura, inclusive submetendo-se a todas as obrigações e penalidades cabíveis, bem como a responsabilidade civil, penal e administrativa pela recuperação de eventuais danos causados.
 
-Seção IV<br>
+Seção IV
+
 Da Licença, Autorização e Dispensa
 
 **Art. 13** - O licenciamento dos empreendimentos ou atividades aquícolas se dará segundo a regulamentação das Políticas Nacional, Estadual e Municipal de Meio Ambiente.
@@ -227,7 +238,8 @@ Da Licença, Autorização e Dispensa
 
 **§ 2**º - O licenciamento e autorização ambientais dos empreendimentos ou atividades aquícolas que afetarem povos e comunidades tradicionais, seus territórios e modos de vida, dependem da consulta prévia, livre e informada.
 
-Capítulo VI<br>
+Capítulo VI
+
 Do Zoneamento da Pesca e Aquicultura
 
 **Art. 14** – O zoneamento da pesca e aquicultura no Estado, com vista ao desenvolvimento sustentável dessas atividades, será realizado com base em estudos técnicos, a cargo dos órgãos competentes, com ampla participação popular e comunitária, observando-se os princípios e objetivos indicados nesta Lei.
@@ -240,7 +252,8 @@ Do Zoneamento da Pesca e Aquicultura
 
 **§ 4**º - A pesca científica poderá ser efetuada em qualquer zona, observada a necessária autorização do órgão competente ou, quando couber, aos povos e comunidades tradicionais envolvidos.
 
-Capítulo VII<br>
+Capítulo VII
+
 Da Assistência Técnica e Extensão Pesqueira e Aquícola
 
 **Art. 15** - A Bahia Pesca S.A e a Superintendência Baiana de Assistência Técnica e Extensão Rural - BAHIATER, deverão promover a assistência técnica e extensão pesqueira e aqüícola à pesca profissional. Parágrafo único - A assistência técnica e a extensão rural aos pescadores e aquicultores serão disponibilizadas com os seguintes objetivos:
@@ -261,7 +274,8 @@ Da Assistência Técnica e Extensão Pesqueira e Aquícola
 
 **VIII-** difundir, capacitar e aplicar tecnologias para uso sustentável.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 Da Fiscalização
 
 **Art. 16** - O Poder Público Estadual estimulará a promoção da assistência técnica por entidades públicas, privadas sem fins lucrativos, visando à ampliação dos serviços.
@@ -276,7 +290,8 @@ Da Fiscalização
 
 **Parágrafo único -** Ficam sujeitas à inspeção, reinspeção e fiscalizações o pescado e seus derivados de acordo com que dispõe a legislação sobre o Serviço de Inspeção Sanitária e Industrial de Produtos de Origem Animal no Estado da Bahia.
 
-Seção I<br>
+Seção I
+
 Do Dano aos Recursos Pesqueiros
 
 **Art. 20** - Constitui dano aos recursos pesqueiros toda ação ou omissão que cause prejuízo ao ecossistema a eles relacionados, além das demais hipóteses previstas na legislação em vigor e, especialmente:
@@ -297,14 +312,16 @@ Do Dano aos Recursos Pesqueiros
 
 **§ 2**º - O Poder Executivo adotará medidas preventivas com vistas a evitar ou minimizar o risco de danos aos recursos pesqueiros.
 
-Capítulo IX<br>
+Capítulo IX
+
 Da Educação Ambiental
 
 **Art. 21** - Os órgãos e entidades competentes criarão mecanismos compatíveis com suas áreas de competência, que visem ao desenvolvimento integrado de programas de educação ambiental e de informação técnica, relativos à proteção e ao incremento dos recursos da fauna e da flora aquáticas no Estado, com destaque para a pesca e aquicultura.
 
 **Art. 22** - Cabe ao poder público divulgar os princípios e o conteúdo desta Lei nas escolas de nível fundamental, médio e superior da rede estadual, em associações, colônias e sindicatos de pescadores, em órgãos ambientais, bibliotecas públicas e Prefeituras Municipais.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 Disposições Finais
 
 **Art. 23** - Para a consecução dos objetivos desta Lei, fica a Secretaria de Agricultura, Pecuária, Irrigação, Pesca e Aquicultura (SEAGRI), autorizada a firmar convênio, instrumento de ajuste ou instrumento congênere com órgão ou entidade governamental ou não governamental da União, dos Estados e dos Municípios, observada a legislação pertinente.

@@ -1,5 +1,3 @@
-###MPV-001710-0-006-28-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.710-6, DE 28 DE JANEIRO DE 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

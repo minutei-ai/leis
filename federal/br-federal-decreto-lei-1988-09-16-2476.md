@@ -1,7 +1,3 @@
-1
-
-###DEL-002476-0-000-16-09-1988@@@
-
 # DECRETO-LEI Nº 2.476, DE 16 DE SETEMBRO DE 1988
 
 Altera o Decreto-Lei nº 2.406, de 5 de janeiro de 1988, e dá outras providências.

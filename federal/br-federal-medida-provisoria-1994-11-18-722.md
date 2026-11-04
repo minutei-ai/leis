@@ -1,7 +1,3 @@
-1
-
-###MPV-000722-0-000-18-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 722, DE 18 DE NOVEMBRO DE 1994
 
 Dispõe sobre alteração do Decreto-Lei nº 1.804, de 3 de setembro de 1980

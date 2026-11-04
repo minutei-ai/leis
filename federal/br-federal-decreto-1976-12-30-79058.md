@@ -1,5 +1,3 @@
-###DEC-079058-0-000-30-12-1976@@@
-
 DECRETO Nº 79.058, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Educação Artística, da Faculdade Paulistana de Música, com sede na Cidade de São Paulo, Estado de São Paulo.

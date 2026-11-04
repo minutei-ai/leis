@@ -1,7 +1,3 @@
-1
-
-###MPV-001212-0-000-28-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.212, de 28 de NOVEMBRO de 1995.
 
 Dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP, e dá outras providências.

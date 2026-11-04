@@ -1,5 +1,3 @@
-###DEC-054749-0-000-30-10-1964@@@
-
 decreto nº 54.749, de 30 de outubro de 1964.
 
 Declara de utilidade pública a Sociedade do Santo Rosário, com sede em Belo Horizonte, Estado de Minas Gerais.

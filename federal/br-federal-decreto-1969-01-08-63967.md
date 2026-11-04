@@ -1,5 +1,3 @@
-###DEC-063967-0-000-08-01-1969@@@
-
 DECRETO Nº 63.967, DE 8 DE JANEIRO DE 1969.
 
 Concede reconhecimento aos Cursos de Engenharia Civil e de Engenharia Eletricista da Escola de Engenharia de Lins, SP.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001500-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.500, DE 7 DE JUNHO DE 1996.
 
 Dá nova redação aos arts. 24, 26 e 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição, institui normas para licitação e contratos da Administração Pública e dá outras providências.

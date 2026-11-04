@@ -1,5 +1,3 @@
-###DEC-048813-0-000-12-08-1960@@@
-
 DECRETO Nº 48.813, DE 12 DE AGôSTO DE 1960.
 
 Autoriza a modificação de freqüência no sistema da Companhia Industrial Ouropretana.
@@ -23,8 +21,6 @@ Brasília, 12 de agôsto de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Antônio Barros Carvalho
-
-###DEC-048813-0-000-12-08-1960@@@RET01+++
 
 Decreto nº 48.813, de 12 de agôsto de 1960.
 

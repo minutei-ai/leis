@@ -1,5 +1,3 @@
-###DEL-009226-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.226 – DE 2 DE MAIO DE 1946
 
 Cria a floresta nacional do Araripe-Apodi

@@ -1,5 +1,3 @@
-###DEC-056941-0-000-01-10-1965@@@
-
 DECRETO Nº 56.941, DE 1 DE OUTUBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Central Elétricas de Furnas S.A., à área de terra que menciona.

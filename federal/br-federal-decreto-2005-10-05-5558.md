@@ -1,5 +1,3 @@
-###DEC-005558-0-000-05-10-2005@@@
-
 DECRETO Nº 5.558, DE 5 DE OUTUBRO DE 2005.
 
 Regulamenta a salvaguarda têxtil, objeto do parágrafo 242 do Informe do Grupo de Trabalho sobre a Acessão da República Popular da China à Organização Mundial de Comércio - OMC.

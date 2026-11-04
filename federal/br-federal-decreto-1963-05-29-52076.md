@@ -1,5 +1,3 @@
-###DEC-052076-0-000-29-05-1963@@@
-
 DECRETO Nº 52.076, DE 29 DE MAIO DE 1963.
 
 Altera dispositivo dos Estatutos da Fundação Serviço Especial de Saúde Pública.

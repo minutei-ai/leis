@@ -1,5 +1,3 @@
-###DEC-069165-0-000-06-09-1971@@@
-
 DECRETO Nº 69.165, DE 6 DE SETEMBRO DE 1971.
 
 Autorização para funcionamento da Faculdade de Direito de Araçatuba - SP.

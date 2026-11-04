@@ -1,5 +1,3 @@
-###DEC-006748-0-000-22-01-2009@@@
-
 DECRETO Nº 6.748, DE 22 DE JANEIRO DE 2009.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República de Moçambique sobre o Combate à Produção, ao Consumo e ao Tráfico Ilícitos de Entorpecentes, Substâncias Psicotrópicas e sobre o Combate às Atividades de Lavagem de Ativos e Outras Transações Financeiras Fraudulentas, firmado em Brasília, em 31 de agosto de 2004.

@@ -1,5 +1,3 @@
-###DEC-004784-0-000-18-07-2003@@@
-
 DECRETO Nº 4.784, DE 18 DE JULHO DE 2003.
 
        Dispõe sobre a composição do Conselho de Controle de Atividades Financeiras - COAF, instituído pela Lei nº 9.613, de 3 de março de 1998.
@@ -14,8 +12,10 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 Brasília, 18 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
-Márcio Thomaz Bastos<br>
+Márcio Thomaz Bastos
+
 Bernard Appy

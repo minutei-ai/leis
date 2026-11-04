@@ -1,5 +1,3 @@
-###DEC-078807-0-000-24-11-1976@@@
-
 DECRETO Nº 78.807, DE 24 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais e de Pedagogia, da Faculdade de Ciências e Letras Geraldo Rezende, com sede na Cidade de Suzano, Estado de São Paulo.

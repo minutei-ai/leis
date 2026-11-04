@@ -1,5 +1,3 @@
-###DEC-095576-0-000-23-12-1987@@@
-
 DECRETO Nº 95.576, DE 23 DE DEZEMBRO DE 1987
 
 Altera a constituição da Comissão Nacional do V Centenário do Descobrimento da América.

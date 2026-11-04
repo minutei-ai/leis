@@ -1,5 +1,3 @@
-###DEC-078227-0-000-12-08-1976@@@
-
 DECRETO Nº 78.227, DE 12 DE AGOSTO DE 1976.
 
 Cria a Embaixada do Brasil em Granada.

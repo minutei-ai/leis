@@ -1,5 +1,3 @@
-###MPV-000592-0-000-03-12-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº  592, DE 3 DE DEZEMBRO DE 2012
 
 Modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial decorrentes da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos sob o regime de concessão, e para disciplinar a destinação dos recursos do Fundo Social.

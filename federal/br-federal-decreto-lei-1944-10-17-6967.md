@@ -1,5 +1,3 @@
-###DEL-006967-0-000-17-10-1944@@@
-
 DECRETO-LEI N. 6.967 – DE 17 DE OUTUBRO DE 1944
 
 Altera, sem aumento da despesa, o  Orçamento Geral da República

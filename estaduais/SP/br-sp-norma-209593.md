@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209593)<br>
-
 # DECRETO N° 68.630, DE 19 DE JUNHO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de Rio Claro, do imóvel que especifica, e dá providências correlatas._

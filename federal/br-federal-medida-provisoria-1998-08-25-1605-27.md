@@ -1,5 +1,3 @@
-###MPV-001605-0-027-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.605-27, DE 25 DE AGOSTO DE 1998
 
 Dá nova relação ao art. 44 da Lei nº 4.771, de 15 de setembro de 1965, e dispõe sobre a proibição do incremento da conversão de áreas florestais em áreas agrícolas na região Norte e na parte Norte da região Centro-Oeste, e dá outras providências.

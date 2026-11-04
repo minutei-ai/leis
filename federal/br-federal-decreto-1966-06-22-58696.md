@@ -1,5 +1,3 @@
-###DEC-058696-0-000-22-06-1966@@@
-
 DECRETO Nº 58.696, DE 22 DE JUNHO 1966.
 
 Fixa medidas de incentivo ao desenvolvimento da pesca e dá outras providências.

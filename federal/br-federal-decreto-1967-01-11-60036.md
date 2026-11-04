@@ -1,5 +1,3 @@
-###DEC-060036-0-000-11-01-1967@@@
-
 decreto nº 60.036, de 11 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro José Sanches a pesquisar ouro e diamante, no município de Dom Joaquim, Estado de Minas Gerais.

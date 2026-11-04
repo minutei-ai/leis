@@ -1,14 +1,12 @@
-###DEC-043700-0-000-09-05-1958@@@
+**DECRETO Nº 43.700, DE 9 DE MAIO DE 1958.**
 
-<strong>DECRETO Nº 43.700, DE 9 DE MAIO DE 1958.</strong>
+***Transfere sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumérico-mensalista do Ministério da Agricultura, que menciona, e dá outras providências.***
 
-<em><strong>Transfere sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumérico-mensalista do Ministério da Agricultura, que menciona, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Agricultura, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Agricultura, abaixo indicadas:
 
 I - uma (1) função de Mestre Artífice, referência 22, ocupada por Milton Lages, da Tabela Numérica Especial de Extranumerário-mensalista do Instituto de Química Agrícola, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas para idêntica Tabela da Inspetoria Regional em São Paulo, do Serviço de Expansão do Trigo;
 
@@ -22,12 +20,12 @@ V - uma (1) função de Artífice, referência 21, excedente, ocupada por João 
 
 VI - uma (1) função de Mestre Especializado, referência 22, ocupada por Délio Cardoso Gouvêa, da Tabela Numérica Especial de Extranumerário-mensalista do Instituto Agronômico do Nordeste, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, para idêntica tabela da Superintendência de Edifícios e Parques, do mesmo Centro.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 9 de maio de 1958, 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBISTCHEK</strong>
+**JUSCELINO KUBISTCHEK**
 
 Mário Meneghetti

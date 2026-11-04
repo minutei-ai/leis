@@ -1,5 +1,3 @@
-###DEL-003416-0-000-11-07-1941@@@
-
 DECRETO-LEI N. 3.416 – DE 11 DE JULHO DE 1941
 
 Altera, sem aumento de despesa, o atual, Orçamento do Ministério da Educação e Saude

@@ -1,5 +1,3 @@
-###DEC-000562-0-000-02-06-1992@@@
-
 DECRETO Nº 562, DE 2 DE JUNHO DE 1992
 
 Reajusta o valor da indenização pela execução de trabalho de campo e delega competência para a prática do ato que menciona.

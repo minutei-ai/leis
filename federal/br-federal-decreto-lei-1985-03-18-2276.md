@@ -1,5 +1,3 @@
-###DEL-002276-0-000-18-03-1985@@@
-
 # DECRETO-lei Nº 2.276, DE 18 DE MARÇO DE 1985
 
 Altera disposições do Decreto-lei nº 2.212, de 31 de dezembro de 1984, e dá outras providências.

@@ -38,7 +38,7 @@ TABELA DE VENCIMENTO
 
 (Vigência a contar de 1º de janeiro de 2022)
 
-<table><tbody><tr><td><p>Nível</p></td><td><p>Referência</p></td><td><p>Valor (em R$)</p></td></tr><tr><td><p>I - Ensino Médio</p></td><td><p>Única</p></td><td><p>3.450,00</p></td></tr><tr><td><p>II - Licenciatura Curta</p></td><td><p>Única</p></td><td><p>3.550,00</p></td></tr><tr><td rowspan="9"><p>III - Licenciatura Plena ou Graduação</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></td><td><p>A</p></td><td><p>3.600,00</p></td></tr><tr><td><p>B</p></td><td><p>3.634,76</p></td></tr><tr><td><p>C</p></td><td><p>3.745,25</p></td></tr><tr><td><p>D</p></td><td><p>3.857,52</p></td></tr><tr><td><p>E</p></td><td><p>3.973,28</p></td></tr><tr><td><p>F</p></td><td><p>4.174,76</p></td></tr><tr><td><p>G</p></td><td><p>4.348,38</p></td></tr><tr><td><p>H</p></td><td><p>4.514,50</p></td></tr><tr><td><p>I</p></td><td><p>4.686,94</p></td></tr><tr><td rowspan="9"><p>IV - Especialização</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></td><td><p>A</p></td><td><p>3.950,06</p></td></tr><tr><td><p>B</p></td><td><p>4.093,96</p></td></tr><tr><td><p>C</p></td><td><p>4.216,25</p></td></tr><tr><td><p>D</p></td><td><p>4.342,32</p></td></tr><tr><td><p>E</p></td><td><p>4.472,30</p></td></tr><tr><td><p>F</p></td><td><p>4.606,32</p></td></tr><tr><td><p>G</p></td><td><p>4.744,50</p></td></tr><tr><td><p>H</p></td><td><p>4.925,74</p></td></tr><tr><td><p>I</p></td><td><p>5.113,91</p></td></tr><tr><td rowspan="9"><p>V - Mestrado</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></td><td><p>A</p></td><td><p>4.698,00</p></td></tr><tr><td><p>B</p></td><td><p>4.898,67</p></td></tr><tr><td><p>C</p></td><td><p>5.045,28</p></td></tr><tr><td><p>D</p></td><td><p>5.196,40</p></td></tr><tr><td><p>E</p></td><td><p>5.352,24</p></td></tr><tr><td><p>F</p></td><td><p>5.512,91</p></td></tr><tr><td><p>G</p></td><td><p>5.678,62</p></td></tr><tr><td><p>H</p></td><td><p>5.895,52</p></td></tr><tr><td><p>I</p></td><td><p>6.120,74</p></td></tr><tr><td rowspan="9"><p>VI - Doutorado</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></td><td><p>A</p></td><td><p>6.330,00</p></td></tr><tr><td><p>B</p></td><td><p>6.525,12</p></td></tr><tr><td><p>C</p></td><td><p>6.720,16</p></td></tr><tr><td><p>D</p></td><td><p>6.921,28</p></td></tr><tr><td><p>E</p></td><td><p>7.128,64</p></td></tr><tr><td><p>F</p></td><td><p>7.342,41</p></td></tr><tr><td><p>G</p></td><td><p>7.562,84</p></td></tr><tr><td><p>H</p></td><td><p>7.851,74</p></td></tr><tr><td><p>I</p></td><td><p>8.151,68</p></td></tr></tbody></table>
+<table><tbody><tr><td> Nível </td><td> Referência </td><td> Valor (em R$) </td></tr><tr><td> I - Ensino Médio </td><td> Única </td><td> 3.450,00 </td></tr><tr><td> II - Licenciatura Curta </td><td> Única </td><td> 3.550,00 </td></tr><tr><td rowspan="9"> III - Licenciatura Plena ou Graduação </td><td> A </td><td> 3.600,00 </td></tr><tr><td> B </td><td> 3.634,76 </td></tr><tr><td> C </td><td> 3.745,25 </td></tr><tr><td> D </td><td> 3.857,52 </td></tr><tr><td> E </td><td> 3.973,28 </td></tr><tr><td> F </td><td> 4.174,76 </td></tr><tr><td> G </td><td> 4.348,38 </td></tr><tr><td> H </td><td> 4.514,50 </td></tr><tr><td> I </td><td> 4.686,94 </td></tr><tr><td rowspan="9"> IV - Especialização </td><td> A </td><td> 3.950,06 </td></tr><tr><td> B </td><td> 4.093,96 </td></tr><tr><td> C </td><td> 4.216,25 </td></tr><tr><td> D </td><td> 4.342,32 </td></tr><tr><td> E </td><td> 4.472,30 </td></tr><tr><td> F </td><td> 4.606,32 </td></tr><tr><td> G </td><td> 4.744,50 </td></tr><tr><td> H </td><td> 4.925,74 </td></tr><tr><td> I </td><td> 5.113,91 </td></tr><tr><td rowspan="9"> V - Mestrado </td><td> A </td><td> 4.698,00 </td></tr><tr><td> B </td><td> 4.898,67 </td></tr><tr><td> C </td><td> 5.045,28 </td></tr><tr><td> D </td><td> 5.196,40 </td></tr><tr><td> E </td><td> 5.352,24 </td></tr><tr><td> F </td><td> 5.512,91 </td></tr><tr><td> G </td><td> 5.678,62 </td></tr><tr><td> H </td><td> 5.895,52 </td></tr><tr><td> I </td><td> 6.120,74 </td></tr><tr><td rowspan="9"> VI - Doutorado </td><td> A </td><td> 6.330,00 </td></tr><tr><td> B </td><td> 6.525,12 </td></tr><tr><td> C </td><td> 6.720,16 </td></tr><tr><td> D </td><td> 6.921,28 </td></tr><tr><td> E </td><td> 7.128,64 </td></tr><tr><td> F </td><td> 7.342,41 </td></tr><tr><td> G </td><td> 7.562,84 </td></tr><tr><td> H </td><td> 7.851,74 </td></tr><tr><td> I </td><td> 8.151,68 </td></tr></tbody></table>
 
 ANEXO II
 
@@ -48,6 +48,68 @@ GRATIFICAÇÃO PELO EXERCÍCIO DE DIREÇÃO DE UNIDADE ESCOLAR
 
 (Lei Complementar nº 668, de 28 de dezembro de 2015)
 
-<table><tbody><tr><td><p>TIPO UNIDADE</p></td><td><p>Nº DE TURNOS</p></td><td><p>Nº DE ALUNOS</p></td><td><p>VALOR</p></td></tr><tr><td><p>1</p></td><td><p>1</p></td><td><p>Qualquer</p></td><td><p>1.746,20</p></td></tr><tr><td><p>2</p></td><td><p>2</p></td><td><p>Até 500</p></td><td><p>2.037,30</p></td></tr><tr><td><p>3</p></td><td><p>2</p></td><td><p>De 501 a 1.200</p></td><td><p>2.328,30</p></td></tr><tr><td><p>4</p></td><td><p>2</p></td><td><p>Acima de 1.200</p></td><td><p>2.619,30</p></td></tr><tr><td><p>5</p></td><td><p>3</p></td><td><p>Até 500</p></td><td><p>2.619,30</p></td></tr><tr><td><p>6</p></td><td><p>3</p></td><td><p>De 501 a 1.200</p></td><td><p>3.201,40</p></td></tr><tr><td><p>7</p></td><td><p>3</p></td><td><p>Acima de 1.200</p></td><td><p>3.783,50</p></td></tr></tbody></table>
+TIPO UNIDADE
+
+Nº DE TURNOS
+
+Nº DE ALUNOS
+
+VALOR
+
+1
+
+1
+
+Qualquer
+
+1.746,20
+
+2
+
+2
+
+Até 500
+
+2.037,30
+
+3
+
+2
+
+De 501 a 1.200
+
+2.328,30
+
+4
+
+2
+
+Acima de 1.200
+
+2.619,30
+
+5
+
+3
+
+Até 500
+
+2.619,30
+
+6
+
+3
+
+De 501 a 1.200
+
+3.201,40
+
+7
+
+3
+
+Acima de 1.200
+
+3.783,50
 
 ” (NR)

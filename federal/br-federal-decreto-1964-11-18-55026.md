@@ -1,5 +1,3 @@
-###DEC-055026-0-000-18-11-1964@@@
-
 DECRETO Nº 55.026, DE 18 DE NOVEMBRO DE 1964.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Central Elétrica capivari-cachoeira S.A.

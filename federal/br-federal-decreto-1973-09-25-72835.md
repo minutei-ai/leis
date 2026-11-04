@@ -1,5 +1,3 @@
-###DEC-072835-0-000-25-09-1973@@@
-
 DECRETO Nº 72.835, DE 25 DE SETEMBRO DE 1973.
 
 Concede reconhecimento à Faculdade de Ciências Contábeis, mantida pela Federação de Estabelecimentos de Ensino Superior, com sede na cidade de Novo Hamburgo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-001560-0-000-30-06-1977@@@
-
 # DECREto-LEI Nº 1.560, DE 30 DE JUNHO DE 1977
 
 Dispõe sobre a tributação de rendimentos das obrigações ao Portador da Eletrobrás.

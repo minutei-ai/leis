@@ -1,5 +1,3 @@
-###MPV-001755-0-014-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.755-14, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

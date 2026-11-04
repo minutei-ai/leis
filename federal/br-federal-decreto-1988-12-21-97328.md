@@ -1,5 +1,3 @@
-###DEC-097328-0-000-21-12-1988@@@
-
 DECRETO Nº 97.328, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Tecnologia Agronômica da Faculdade de Tecnologia em Administração Rural de Dourados, Estado do Mato Grosso do Sul.

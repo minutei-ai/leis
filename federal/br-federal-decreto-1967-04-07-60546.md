@@ -1,5 +1,3 @@
-###DEC-060546-0-000-07-04-1967@@@
-
 DECRETO Nº 60.546, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Assistência Social Diocesana Leão XIII”, com sede em Passo Fundo, Estado do Rio Grande do Sul.

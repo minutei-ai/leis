@@ -1,5 +1,3 @@
-###DEC-045698-0-000-03-04-1959@@@
-
 Decreto nº 45.698, de 3 de abril de 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Diretoria de Intendência para a do Gabinete do Ministro da Aeronáutica.

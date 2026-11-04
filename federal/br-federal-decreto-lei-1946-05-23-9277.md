@@ -1,5 +1,3 @@
-###DEL-009277-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.277– DE 23 DE MAIO DE 1946
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Educação e Saúde.

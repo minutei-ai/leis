@@ -1,5 +1,3 @@
-###DEC-095891-0-000-30-03-1988@@@
-
 DECRETO Nº 95.891, DE 30 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA CAJUEIRO (PARTE”), classificado como “latifúndio por exploração”, situado no Município de Santa Luzia, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 02 de maio de 1986, e dá outras providências.

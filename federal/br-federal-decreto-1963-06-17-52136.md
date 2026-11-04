@@ -1,5 +1,3 @@
-###DEC-052136-0-000-17-06-1963@@@
-
 DECRETO Nº 52.136, DE 17 DE JUNHO DE 1963.
 
 Declara de utilidade pública, para efeito de desapropriação, a faixa de terrenos necessária à linha de transmissão Lapa-Riacho de Santana-Igaporã-Caetité, no Estado da Bahia.
@@ -21,8 +19,6 @@ Art. 5º O presente Decreto entrará em vigor na data de sua publicação, revog
 Brasília, 17 de junho de 1963; 142º da Independência e 75º da República.
 
 JOÃO GOULART
-
-###DEC-052136-0-000-18-06-1963@@@RET01+++
 
 DECRETO Nº 52.136, DE 18 DE JUNHO DE 1963.
 

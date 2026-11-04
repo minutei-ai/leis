@@ -1,5 +1,3 @@
-###DEC-062140-0-000-17-01-1968@@@
-
 DECRETO Nº 62.140, DE 17 DE JANEIRO DE 1968.
 
 Institui Grupo de Trabalho, junto ao Ministério do Interior, para estudar e propor medidas tendentes à racionalização da produção de fibra de juta na Amazônia.

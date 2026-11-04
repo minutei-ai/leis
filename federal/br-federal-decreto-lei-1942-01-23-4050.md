@@ -1,5 +1,3 @@
-###DEL-004050-0-000-23-01-1942@@@
-
 DECRETO-LEI N. 4.050 – DE 23 DE JANEIRO DE 1942
 
 Cria um cargo, em comissão, de Diretor do Instituto Profissional Quinze de Novembro e de outras providências

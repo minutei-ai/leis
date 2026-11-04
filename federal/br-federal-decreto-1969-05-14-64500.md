@@ -1,5 +1,3 @@
-###DEC-064500-0-000-14-05-1969@@@
-
 DECRETO Nº 64.500, DE 14 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 11.147 de 28 de dezembro de 1942.

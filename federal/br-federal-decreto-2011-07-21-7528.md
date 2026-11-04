@@ -1,5 +1,3 @@
-###DEC-007528-0-000-21-07-2011-PUB-01@@@
-
 DECRETO Nº 7.528, DE 21 DE JULHO DE 2011
 
 Altera o Decreto nº 7.078, de 26 de janeiro de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Previdência Social; altera o Decreto nº 7.075, de 26 de janeiro de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Superintendência Nacional de Previdência  Complementar; e remaneja cargos em comissão.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000400-0-000-24-12-1991@@@
-
 DECRETO Nº 400, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Nukini, no Estado do Acre.

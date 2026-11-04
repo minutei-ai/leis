@@ -1,5 +1,3 @@
-###DEC-057742-0-000-03-02-1966@@@
-
 DECRETO Nº 57.742, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza estrangeira a adquirir, em regularização de aforamento, o terreno de acrescido de marinha que menciona, no Estado da Guanabara.

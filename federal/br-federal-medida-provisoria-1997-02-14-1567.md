@@ -1,5 +1,3 @@
-###MPV-001567-0-000-14-02-1997@@@
-
 # MedIDA PROVISÓRIA Nº 1.567 DE 14 DE FEVEREiro DE 1997
 
 Dispõe sobre a regularização, administração, aforamento  de bens imóveis de domínio da União, altera dispositivos dos Decretos-Leis nºs 9.760, de 5 de setembro de 1946, e 2.398, de 21 de dezembro de 1987, regulamenta o § 2º do art. 49 do Ato das Disposições Constitucionais Transitórias, e dá outras providências..

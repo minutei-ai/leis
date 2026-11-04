@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212534)<br>
-
 # DECRETO N° 70.570, DE 05 DE MAIO DE 2026
 
 ### _Disciplina o procedimento para reconhecimento do domínio do Estado ou de Municípios paulistas de trechos de malha viária, em razão da respectiva afetação._

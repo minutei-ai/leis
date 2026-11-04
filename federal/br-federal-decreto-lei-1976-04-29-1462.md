@@ -1,5 +1,3 @@
-###DEL-001462-0-000-29-04-1976@@@
-
 # DECRETO-LEI Nº 1.462, de 29 DE ABRil DE 1976
 
 Reajusta os vencimentos e salários dos servidores civis do Distrito Federal e dos Membros do Tribunal de Contas do Distrito Federal, e dá outras providências.

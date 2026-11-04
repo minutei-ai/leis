@@ -1,5 +1,3 @@
-###DEL-009522-0-000-26-07-1946@@@
-
 DECRETO-LEI N. 9.522 – DE 26 DE JULHO DE 1946
 
 Extingue a cota de 3% sôbre as vendas de câmbio

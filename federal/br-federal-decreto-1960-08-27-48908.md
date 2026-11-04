@@ -1,5 +1,3 @@
-###DEC-048908-0-000-27-08-1960@@@
-
 DECRETO N º 48.908, DE 27 DE AGôSTO DE 1960.
 
 Concede recolhimento a curso

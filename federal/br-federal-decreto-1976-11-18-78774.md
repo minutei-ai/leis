@@ -1,5 +1,3 @@
-###DEC-078774-0-000-18-11-1976@@@
-
 DECRETO Nº 78.774, DE 18 DE NOVEMBRO DE 1976.
 
 Cria Grupo de Trabalho Interministerial, com o objetivo de apresentar diretrizes para a definição de uma Política Energética para Transportes Urbanos.

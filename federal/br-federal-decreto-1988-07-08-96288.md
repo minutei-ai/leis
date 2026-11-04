@@ -1,5 +1,3 @@
-###DEC-096288-0-000-08-07-1988@@@
-
 DECRETO N° 96.288, DE 8 DE JULHO DE 1988
 
 Outorga concessão à RÁDIO CLUBE DE BARRAS LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Barras, Estado do Piauí.

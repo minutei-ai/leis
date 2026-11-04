@@ -1,5 +1,3 @@
-###DEC-058799-0-000-12-07-1966@@@
-
 decreto nº 58.799, de 12 de julho de 1966.
 
 Transforma em Fazenda Regional de Criação, o Pôsto de Criação João Pessoa em Umbuzeiro, Estado da Paraíba, subordinado ao Departamento de Promoção Agropecuária do Ministério da Agricultura e da outras providências.

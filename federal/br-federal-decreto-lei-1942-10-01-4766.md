@@ -1,5 +1,3 @@
-###DEL-004766-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.766 – DE 1 DE OUTUBRO DE 1942
 
 Define crimes militares e contra a segurança do Estado, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-052392-0-000-21-08-1963@@@
-
 DECRETO Nº 52.392, DE 21 DE AGÔSTO DE 1963.
 
 Extingue o Consulado Honorário do Brasil em Cádiz, Espanha.

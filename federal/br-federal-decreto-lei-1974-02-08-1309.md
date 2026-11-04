@@ -1,5 +1,3 @@
-###DEL-001309-0-000-08-02-1974@@@
-
 # DECRETO-LEI Nº 1.309, DE 8 DE FEVEREIRO DE 1974
 
 Altera a redação do item I do § 1º do artigo 13 da Lei nº 4.676, de 16 de junho de 1965, alterado pelo artigo 2º do Decreto-lei nº 644, de 23 de junho de 1969 e dá outras providências.

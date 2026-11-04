@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211448)<br>
-
 # DECRETO N° 69.869, DE 15 DE SETEMBRO DE 2025
 
 ### _Transfere a função-atividade que especifica e dá providências correlatas._

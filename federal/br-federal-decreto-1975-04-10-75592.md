@@ -1,5 +1,3 @@
-###DEC-075592-0-000-10-04-1975@@@
-
 DECRETO Nº 75.592, DE 10 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Contábeis e Administração de Empresas, mantida pela Fundação Técnico-Educacional Souza Marques, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

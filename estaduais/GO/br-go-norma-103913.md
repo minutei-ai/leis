@@ -310,80 +310,100 @@ VII – outros documentos a critério da administração do programa, se entend�
 
 § 2º O cadastramento deverá ser renovado a cada 12 (doze) meses, com a apresentação dos documentos referidos neste artigo, devidamente atualizados.
 
-Art. 25. O atestado de avaliação positiva a que se refere o inciso III do § 1º do art. 24 deste Decreto e o inciso II do § 1º do art. 10 da Lei nº 20.957, de 2021, será concedido pela administração do PROBEM observados o conceito satisfatório (3, 4 ou 5) no Sistema Nacional de Avaliação da Educação Superior - SINAES (INEP/MEC), instituído pela Lei federal nº 10.861, de 14 de abril de 2004, inclusive, no Exame Nacional de Formação Médica - Enamed para oscursos de medicina, além dos seguintes termos:<br>
+Art. 25. O atestado de avaliação positiva a que se refere o inciso III do § 1º do art. 24 deste Decreto e o inciso II do § 1º do art. 10 da Lei nº 20.957, de 2021, será concedido pela administração do PROBEM observados o conceito satisfatório (3, 4 ou 5) no Sistema Nacional de Avaliação da Educação Superior - SINAES (INEP/MEC), instituído pela Lei federal nº 10.861, de 14 de abril de 2004, inclusive, no Exame Nacional de Formação Médica - Enamed para oscursos de medicina, além dos seguintes termos:
+
 \- [Redação dada pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-~~Art. 25. O atestado de avaliação positiva a que se refere o inciso III do § 1º do art. 24 deste Decreto e o inciso II do § 1º do art. 10 da [Lei nº 20.957](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103684), de 2021, será concedido pela administração do PROBEM observados o conceito satisfatório (3, 4 ou 5) no Sistema Nacional de Avaliação da Educação Superior – SINAES (INEP/MEC), instituído pela Lei federal nº 10.861, de 14 de abril de 2004, e os seguintes termos:~~<br>
+~~Art. 25. O atestado de avaliação positiva a que se refere o inciso III do § 1º do art. 24 deste Decreto e o inciso II do § 1º do art. 10 da [Lei nº 20.957](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103684), de 2021, será concedido pela administração do PROBEM observados o conceito satisfatório (3, 4 ou 5) no Sistema Nacional de Avaliação da Educação Superior – SINAES (INEP/MEC), instituído pela Lei federal nº 10.861, de 14 de abril de 2004, e os seguintes termos:~~
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~Art. 25. O atestado de avaliação positiva a que se refere o inciso III do § 1º do art. 24 deste Decreto e o inciso II do § 1º do art. 10 da [Lei nº 20.957](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103684/lei-20957), de 2021, será concedido pela administração do programa observado o seguinte:~~
 
-I – para a aferição do conceito referido no _caput_ deste artigo, serão considerados:<br>
+I – para a aferição do conceito referido no _caput_ deste artigo, serão considerados:
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~I – obtenção pela IES de Conceito Preliminar de Curso – CPC igual ou superior a 2 (dois), divulgado pelo MEC antes da celebração do convênio;~~
 
-a) Conceito Preliminar de Curso – CPC e Índice Geral de Cursos – IGC; ou<br>
+a) Conceito Preliminar de Curso – CPC e Índice Geral de Cursos – IGC; ou
+
 \- [Acrescida pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
-b) apenas o IGC se o curso não possuir o CPC; e<br>
+b) apenas o IGC se o curso não possuir o CPC; e
+
 \- [Redação dada pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-~~b) apenas o IGC se o curso não possuir o CPC;~~<br>
+~~b) apenas o IGC se o curso não possuir o CPC;~~
+
 \- [Acrescida pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
-c) Enamed, no caso dos cursos de medicina;<br>
+c) Enamed, no caso dos cursos de medicina;
+
 \- [Acrescida pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-II - a instituição de ensino superior - IES que não possuir avaliação nos conceitos apresentados nas alíneas ‘a’, ‘b’ e ‘c’ do inciso I deste artigo poderá ser cadastrada no programa até obter os indicadores e, a partir disso, passará a ser regulamentada como dispõe o inciso III também deste artigo;<br>
+II - a instituição de ensino superior - IES que não possuir avaliação nos conceitos apresentados nas alíneas ‘a’, ‘b’ e ‘c’ do inciso I deste artigo poderá ser cadastrada no programa até obter os indicadores e, a partir disso, passará a ser regulamentada como dispõe o inciso III também deste artigo;
+
 \- [Redação dada pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-~~II – a instituição de ensino superior – IES que não possuir avaliação nos conceitos apresentados nas alíneas 'a' e 'b' do inciso I deste artigo poderá ser cadastrada no programa até obter os indicadores e, a partir disso, passará a ser regulamentada como dispõe o inciso III também deste artigo;~~<br>
+~~II – a instituição de ensino superior – IES que não possuir avaliação nos conceitos apresentados nas alíneas 'a' e 'b' do inciso I deste artigo poderá ser cadastrada no programa até obter os indicadores e, a partir disso, passará a ser regulamentada como dispõe o inciso III também deste artigo;~~
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~II – os cursos da IES que não tiverem o CPC divulgados serão avaliados com base no Índice Geral de Cursos – IGC atribuído pelo MEC, até a divulgação do CPC, com índice igual ou superior a 2 (dois);~~
 
-III - a IES já cadastrada no programa que não alcançar conceito igual ou superior a três no IGC e o curso que não obtiver conceito igual ou superior a três no CPC ou no Enamed, conforme o Cadastro e- MEC, poderão permanecer no programa até a próxima avaliação pelo Ministério da  Educação - MEC, mas, se não atingirem nesse intervalo o referido conceito, deverão ser excluídos do programa;/<br>
+III - a IES já cadastrada no programa que não alcançar conceito igual ou superior a três no IGC e o curso que não obtiver conceito igual ou superior a três no CPC ou no Enamed, conforme o Cadastro e- MEC, poderão permanecer no programa até a próxima avaliação pelo Ministério da  Educação - MEC, mas, se não atingirem nesse intervalo o referido conceito, deverão ser excluídos do programa;/
+
 \- [Redação dada pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-~~III – a IES já cadastrada no programa que não alcançar conceito igual ou superior a três no IGC e o curso que não obtiver CPC também igual ou superior a três, conforme o Cadastro e– MEC, poderão permanecer no programa até a próxima avaliação pelo Ministério da Educação – MEC, mas, se não atingirem nesse intervalo o referido conceito, deverão ser excluídos do programa;~~<br>
+~~III – a IES já cadastrada no programa que não alcançar conceito igual ou superior a três no IGC e o curso que não obtiver CPC também igual ou superior a três, conforme o Cadastro e– MEC, poderão permanecer no programa até a próxima avaliação pelo Ministério da Educação – MEC, mas, se não atingirem nesse intervalo o referido conceito, deverão ser excluídos do programa;~~
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~III – após 3 (três) anos de vigência deste Decreto, deverá ser excluída do programa a IES que não apresentar IGC igual ou superior a 3 (três), sem prejuízo do disposto no inciso I deste artigo;~~
 
-IV – o atestado de avaliação positiva será emitido pela administração do programa, até 60 dias após a divulgação pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – INEP e valerá até a próxima avaliação;<br>
+IV – o atestado de avaliação positiva será emitido pela administração do programa, até 60 dias após a divulgação pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – INEP e valerá até a próxima avaliação;
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~IV – a IES já conveniada que tiver curso com CPC menor que 2 (dois) poderá permanecer no programa até a próxima publicação de avaliação pelo MEC, mas deverá ser excluída dele, caso não alcance nesse prazo conceito igual ou superior a 2 (dois); e~~
 
-~~V – as avaliações serão realizadas pela administração do programa, no prazo de até 60 (sessenta) dias da data de divulgação pelo INEP do CPC, e valerão até a próxima avaliação e divulgação do CPC.~~<br>
+~~V – as avaliações serão realizadas pela administração do programa, no prazo de até 60 (sessenta) dias da data de divulgação pelo INEP do CPC, e valerão até a próxima avaliação e divulgação do CPC.~~
+
 \- [Revogado pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413), art. 2º
 
-§ 1º No período em que uma IES permanecer com o IGC e o CPC ou, para os cursos de medicina, o Enamed inferior a três, ficará vedada a inclusão de novos beneficiários dela no PROBEM, mas serão assegurados os repasses aos estudantes já beneficiados, para que se mantenham até a conclusão do respectivo curso, observadas as demais condições estabelecidas pelo programa.<br>
+§ 1º No período em que uma IES permanecer com o IGC e o CPC ou, para os cursos de medicina, o Enamed inferior a três, ficará vedada a inclusão de novos beneficiários dela no PROBEM, mas serão assegurados os repasses aos estudantes já beneficiados, para que se mantenham até a conclusão do respectivo curso, observadas as demais condições estabelecidas pelo programa.
+
 \- [Redação dada pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-~~§ 1º No período em que uma IES permanecer com o IGC e o CPC inferior a três, ficará vedada a inclusão de novos beneficiários dela no PROBEM, mas serão assegurados os repasses aos estudantes já beneficiados, para que se mantenham até a conclusão do respectivo curso, observadas as demais condições estabelecidas pelo programa.~~<br>
+~~§ 1º No período em que uma IES permanecer com o IGC e o CPC inferior a três, ficará vedada a inclusão de novos beneficiários dela no PROBEM, mas serão assegurados os repasses aos estudantes já beneficiados, para que se mantenham até a conclusão do respectivo curso, observadas as demais condições estabelecidas pelo programa.~~
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~§ 1º Durante o período em que a IES permanecer com CPC ou IGC menor que 2 (dois), a administração do programa deverá avaliar as medidas adotadas para a melhoria de seu conceito, e poderá excluir do programa a IES que, a seu critério, não estiver adotando as providências para a melhoria da qualidade do curso avaliado.~~
 
-§1º-A No caso de avaliação inferior a três no Enamed, a vedação prevista no parágrafo 1º deste artigo refere-se apenas a alunos do curso de medicina, o que autoriza a inscrição de alunos em outros cursos da IE com avaliação positiva (conceito satisfatório 3, 4 ou 5).<br>
+§1º-A No caso de avaliação inferior a três no Enamed, a vedação prevista no parágrafo 1º deste artigo refere-se apenas a alunos do curso de medicina, o que autoriza a inscrição de alunos em outros cursos da IE com avaliação positiva (conceito satisfatório 3, 4 ou 5).
+
 \- [Acrescido pelo Decreto nº 10.854, de 23-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112403).
 
-~~§ 2º A IES que não tiver o CPC ou o IGC informado pelo MEC será considerada com conceito presumido de 2 (dois), até que o MEC faça a sua avaliação.~~<br>
+~~§ 2º A IES que não tiver o CPC ou o IGC informado pelo MEC será considerada com conceito presumido de 2 (dois), até que o MEC faça a sua avaliação.~~
+
 \- [Revogado pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413), art. 2º
 
-§ 3º Na hipótese de alteração do sistema de avaliação das IES pelo MEC, este Decreto será adequado em até 90 dias.<br>
+§ 3º Na hipótese de alteração do sistema de avaliação das IES pelo MEC, este Decreto será adequado em até 90 dias.
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~§ 3º Na hipótese de alteração do sistema de avaliação das IES pelo MEC, este Decreto será adequado no prazo de até 90 (noventa) dias.~~
 
-§ 4º A exclusão da IES ou curso de que trata o inciso III deste artigo será precedida de procedimento administrativo em que sejam observados os princípios da ampla defesa e do contraditório.<br>
+§ 4º A exclusão da IES ou curso de que trata o inciso III deste artigo será precedida de procedimento administrativo em que sejam observados os princípios da ampla defesa e do contraditório.
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~§ 4º A exclusão da IES de que tratam o inciso IV e o parágrafo 1º deste artigo será precedida de procedimento administrativo em que sejam observados os princípios da ampla defesa e do contraditório, nos termos deste Decreto.~~
 
-§ 5º Na hipótese de exclusão da IES, como dispõe o § 4º deste artigo, deverá ser firmado instrumento específico na IES para o repasse dos recursos referentes aos benefícios dos estudantes ativos<br>
+§ 5º Na hipótese de exclusão da IES, como dispõe o § 4º deste artigo, deverá ser firmado instrumento específico na IES para o repasse dos recursos referentes aos benefícios dos estudantes ativos
+
 \- [Acrescido pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 CAPÍTULO XI
@@ -450,23 +470,28 @@ I – exclusão do PROBEM; e
 
 II – impossibilidade de se inscrever, se cadastrar ou se credenciar no PROBEM pelo período de até 5 (cinco) anos.
 
-§ 1º Constatados indícios de infração pelo beneficiário, a administração do PROBEM suspenderá imediatamente o pagamento dos benefícios e o restabelecerá, integral e retroativamente, ao final do procedimento administrativo, se for comprovada a inexistência de irregularidades.<br>
+§ 1º Constatados indícios de infração pelo beneficiário, a administração do PROBEM suspenderá imediatamente o pagamento dos benefícios e o restabelecerá, integral e retroativamente, ao final do procedimento administrativo, se for comprovada a inexistência de irregularidades.
+
 \- [Redação dada pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 ~~§ 1º Constatados indícios de infração, a administração do PROBEM suspenderá imediatamente o pagamento dos beneficiários e o restabelecerá, integral e retroativamente, ao final do procedimento administrativo, se for comprovada a inexistência de quaisquer irregularidades.~~
 
 § 2º As penalidades serão aplicadas com base no nível de gravidade da infração, após prévio procedimento administrativo em que se assegurem a ampla defesa e o contraditório, nos termos do art. 36 deste Decreto.
 
-§ 3º Constatados indícios de infração pela IES, a administração do PROBEM suspenderá imediatamente os pagamentos e os restabelecerá, integral e retroativamente, ao final do procedimento administrativo, se for comprovada a inexistência de irregularidades.<br>
+§ 3º Constatados indícios de infração pela IES, a administração do PROBEM suspenderá imediatamente os pagamentos e os restabelecerá, integral e retroativamente, ao final do procedimento administrativo, se for comprovada a inexistência de irregularidades.
+
 \- [Acrescido pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
-§ 4º Durante o período em que tramitar o processo administrativo, ficará vedada à IES a participação em processo seletivo do PROBEM para a inclusão de novos beneficiários, mas será assegurado o repasse dos recursos referentes aos benefícios dos estudantes ativos, para que se mantenham até a conclusão do respectivo curso, observadas as demais condições estabelecidas pelo programa.<br>
+§ 4º Durante o período em que tramitar o processo administrativo, ficará vedada à IES a participação em processo seletivo do PROBEM para a inclusão de novos beneficiários, mas será assegurado o repasse dos recursos referentes aos benefícios dos estudantes ativos, para que se mantenham até a conclusão do respectivo curso, observadas as demais condições estabelecidas pelo programa.
+
 \- [Acrescido pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
-§ 5º Nos casos tratados nos §§ 3º e 4º deste artigo, os beneficiários poderão requerer ao PROBEM a transferência, em caráter excepcional, para IES de outras unidades da Federação, previamente aprovadas pelo programa, num raio de até 50 km do município da IES de origem.<br>
+§ 5º Nos casos tratados nos §§ 3º e 4º deste artigo, os beneficiários poderão requerer ao PROBEM a transferência, em caráter excepcional, para IES de outras unidades da Federação, previamente aprovadas pelo programa, num raio de até 50 km do município da IES de origem.
+
 \- [Acrescido pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
-§ 6º Constatado o descumprimento dos termos da parceria firmados entre o PROBEM e as organizações parceiras, a administração do PROBEM suspenderá imediatamente a oferta de atividades para novos beneficiários nessas organizações, mas será garantida aos beneficiários a conclusão das atividades já cadastradas para o semestre, e se restabelecerá a parceria ao final do procedimento administrativo, se for comprovada a inexistência de irregularidades.<br>
+§ 6º Constatado o descumprimento dos termos da parceria firmados entre o PROBEM e as organizações parceiras, a administração do PROBEM suspenderá imediatamente a oferta de atividades para novos beneficiários nessas organizações, mas será garantida aos beneficiários a conclusão das atividades já cadastradas para o semestre, e se restabelecerá a parceria ao final do procedimento administrativo, se for comprovada a inexistência de irregularidades.
+
 \- [Acrescido pelo Decreto nº 10.632, de 27-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110413).
 
 Art. 35. São infrações determinantes da exclusão do PROBEM:

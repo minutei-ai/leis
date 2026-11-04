@@ -1,5 +1,3 @@
-###DEC-000146-0-000-15-06-1991@@@
-
 DECRETO N° 146, DE 15 DE JUNHO DE 1991
 
 Promulga o Acordo Comercial, entre o Governo da República Federativa do Brasil e o Governo do Reino Hashemita da Jordânia.

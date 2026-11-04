@@ -1,5 +1,3 @@
-###DEC-006089-0-000-23-04-2007@@@
-
 DECRETO Nº 6.088, DE 23 DE ABRIL DE 2007.
 
 Distribui os efetivos de Oficiais da Marinha, em tempo de paz, a vigorar em 2007, e fixa os percentuais mínimos dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha, que deverão ser ocupados exclusivamente por oficiais do sexo masculino.
@@ -225,5 +223,3 @@ Distribui os efetivos de Oficiais da Marinha, em tempo de paz, a vigorar em 2007
 LUIZ INÁCIO LULA DA SILVA
 
 Waldir Pires
-
-Este texto não substitui o publicado no DOU de 24.4.2007

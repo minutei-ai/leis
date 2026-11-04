@@ -1,5 +1,3 @@
-###DEC-049604-0-000-28-12-1960@@@
-
 DECRETO Nº 49.604, DE 28 DE DEZEMBRO DE 1960.
 
 Abre ao Tribunal de Contas o crédito especial de Cr$130.000.000,00 para o fim que menciona.

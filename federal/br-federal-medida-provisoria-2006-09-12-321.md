@@ -1,5 +1,3 @@
-###MPV-000321-0-000-12-09-2006@@@
-
 MEDIDA PROVISÓRIA Nº 321, DE 12 DE SETEMBRO DE 2006.
 
 Acresce art. 18-A à Lei no 8.177, de 1o de março de 1991, que estabelece regras para a desindexação da economia.
@@ -19,5 +17,3 @@ Acresce art. 18-A à Lei no 8.177, de 1o de março de 1991, que estabelece regra
 LUIZ INÁCIO LULA DA SILVA
 
        Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 13.9.2006

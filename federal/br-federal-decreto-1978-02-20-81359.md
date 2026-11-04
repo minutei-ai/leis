@@ -1,5 +1,3 @@
-###DEC-081359-0-000-20-02-1978@@@
-
 Decreto nº 81.359, de 20 de fevereiro de 1978
 
 Concede a José Lino Córdova de Liz - firma Individual, o direito de lavrar calcário no Município de Lages, Estado de Santa Catarina.

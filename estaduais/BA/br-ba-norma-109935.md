@@ -2,9 +2,12 @@ LEI Nº 8.885 DE 17 DE NOVEMBRO DE 2003
 
 Institui o Plano Plurianual da Administração Pública Estadual, para o período de 2004-2007, e dá outras providências.
 
-Ver também:<br>
-Art. 3º da Lei nº 9.581 de 12 de julho de 2005: "O Plano Plurianual de 2004/2007, aprovado pela Lei nº 8.885, de 17 de novembro de 2003, fica atualizado, na forma do Anexo III desta Lei."<br>
-Art. 3º da Lei nº 9.283 de 19 de novembro de 2004: " O Plano Plurianual de 2004-2007, aprovado pela Lei nº 8.885, de 17 de novembro de 2003, fica atualizado de acordo com o Anexo III."<br>
+Ver também:
+
+Art. 3º da Lei nº 9.581 de 12 de julho de 2005: "O Plano Plurianual de 2004/2007, aprovado pela Lei nº 8.885, de 17 de novembro de 2003, fica atualizado, na forma do Anexo III desta Lei."
+
+Art. 3º da Lei nº 9.283 de 19 de novembro de 2004: " O Plano Plurianual de 2004-2007, aprovado pela Lei nº 8.885, de 17 de novembro de 2003, fica atualizado de acordo com o Anexo III."
+
 Art. 3º da Lei nº 9.137, de 08 de junho de 2004: "O Plano Plurianual de 2004/2007, aprovado pela Lei nº 8.885, de 17 de novembro de 2003, fica atualizado, na forma do Anexo III desta Lei."
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:

@@ -1,5 +1,3 @@
-###DEC-071665-0-000-05-01-1973@@@
-
 DECRETO Nº 71.665, DE 5 DE JANEIRO DE 1973.
 
 Concede autorização à empresa PRAKLA - Gesellschaft für Praktische Lagerstättenforschaung GMBH, para, juntamente com a sua consorciada PRAKLA- Representações Técnicas de Geofísica S.A., executar, no território nacional, com avião de sua propriedade, levantamento aeromagnetométrico, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

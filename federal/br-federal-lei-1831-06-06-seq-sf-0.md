@@ -1,5 +1,3 @@
-###LEI-000000-0-000-06-06-1831@@@
-
 LEI - DE 6 DE JUNHO DE 1831
 
 Dá providencias para a prompta administração da Justiça e punição dos criminosos.

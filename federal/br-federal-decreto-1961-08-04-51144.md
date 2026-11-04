@@ -1,5 +1,3 @@
-###DEC-051144-0-000-04-08-1961@@@
-
 DECRETO Nº 51.144, DE 4 DE AGÔSTO DE 1961.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional, abaixo descritos.
@@ -16,7 +14,101 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de todos e quaisquer impostos e taxas federais, a importação dos equipamentos novos, a seguir especificados, consignados à emprêsa PRODUTOS ALIMENTÍCIOS DA BAHIA, com sede em Salvador, Estado da Bahia e destinados à ampliação de sua atual capacidade de coleta, beneficiamento e distribuição de leite.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ordem</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Preço</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>US$</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF</span></p></td></tr><tr><td style="width:31.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:347.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Filtro para leite, marca </span><span style="font-style:italic">Silkeborg</span><span>, tipo FUG - 1,5 capacidade 2x3.000 litros/hora, de aço inoxidável ..............................................................................</span></p></td><td style="width:39pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.473</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bomba para leite, marca </span><span style="font-style:italic">Silkeborg</span><span>, tipo 2 M, capacidade 2.000 litros/hora ......</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>596</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Medidor de leite, marca </span><span style="font-style:italic">Bropp</span><span> &amp; </span><span style="font-style:italic">Reuther</span><span>, diâmetro 32mm, capacidade 600/6.000 litros/hora ..........................................................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>564</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Conjunto de tubos, aço inoxidável de 1 1/2", </span><span style="font-style:italic">Silkeborg</span><span> .....................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1.275</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Homogenizador </span><span style="font-style:italic">Rannie</span><span>, tipo </span><span style="font-style:italic">Homo</span><span>-</span><span style="font-style:italic">Mic</span><span>, capacidade de 3.000 litros/hora ........</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10.362</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Preesterilizador </span><span style="font-style:italic">Silkeborg</span><span>, tubular capacidade 2.000 litros/hora .......................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.942</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Painel de instrumentos para contrôle do tratamento, </span><span style="font-style:italic">Silkeborg</span><span> .........................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>849</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Termo-regulador de vapor, marca </span><span style="font-style:italic">kalle</span><span> .............................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>614</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Desnatadeira padronizadora, marca </span><span style="font-style:italic">Titan</span><span>, tipo GR - 370, com capacidade para 3.000 litros/hora ..........................................................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2.893</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquina de lavar garrafas, marca </span><span style="font-style:italic">Pindstofte</span><span>, tipo </span><span style="font-style:italic">Soky </span><span>- 55, automática capacidade 3.500 litros/hora ..............................................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>22.798</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquina, para encher garrafas, marca </span><span style="font-style:italic">Pindstofte</span><span>, tipo 109, automática, aço inoxidável,capacidade 3.500 litros/hora .............................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>12.276</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquinas para fechar garrafas, da marca </span><span style="font-style:italic">Pinstofte</span><span>, automática, tipo rotativo, 6 cabeças, capacidade para 3.500 litros/hora ....................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.541</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Esterilizador contínuo para leite engarrafado, </span><span style="font-style:italic">Dania</span><span>, tipo </span><span style="font-style:italic">Minor </span><span>- 30, equipado com painel de instrumentos, capacidade para 1.800 litros/hora ........................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40.811</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquinas de empacotar manteiga, marca </span><span style="font-style:italic">Simon</span><span> </span><span style="font-style:italic">Frêres</span><span> capacidade de 25/30 pacotes por minuto .............................................................................................</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">8.417</span></p></td></tr><tr><td style="width:31.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:347.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:39pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">115.411</span></p></td></tr></tbody></table>
+Ordem
+
+Especificação
+
+Preço
+
+US$
+
+CIF
+
+1
+
+Filtro para leite, marca Silkeborg, tipo FUG - 1,5 capacidade 2x3.000 litros/hora, de aço inoxidável ..............................................................................
+
+1.473
+
+2
+
+Bomba para leite, marca Silkeborg, tipo 2 M, capacidade 2.000 litros/hora ......
+
+596
+
+3
+
+Medidor de leite, marca Bropp &amp; Reuther, diâmetro 32mm, capacidade 600/6.000 litros/hora ..........................................................................................
+
+564
+
+4
+
+Conjunto de tubos, aço inoxidável de 1 1/2", Silkeborg .....................................
+
+1.275
+
+5
+
+Homogenizador Rannie, tipo Homo-Mic, capacidade de 3.000 litros/hora ........
+
+10.362
+
+6
+
+Preesterilizador Silkeborg, tubular capacidade 2.000 litros/hora .......................
+
+4.942
+
+7
+
+Painel de instrumentos para contrôle do tratamento, Silkeborg .........................
+
+849
+
+8
+
+Termo-regulador de vapor, marca kalle .............................................................
+
+614
+
+9
+
+Desnatadeira padronizadora, marca Titan, tipo GR - 370, com capacidade para 3.000 litros/hora ..........................................................................................
+
+2.893
+
+10
+
+Máquina de lavar garrafas, marca Pindstofte, tipo Soky - 55, automática capacidade 3.500 litros/hora ..............................................................................
+
+22.798
+
+11
+
+Máquina, para encher garrafas, marca Pindstofte, tipo 109, automática, aço inoxidável,capacidade 3.500 litros/hora .............................................................
+
+12.276
+
+12
+
+Máquinas para fechar garrafas, da marca Pinstofte, automática, tipo rotativo, 6 cabeças, capacidade para 3.500 litros/hora ....................................................
+
+7.541
+
+13
+
+Esterilizador contínuo para leite engarrafado, Dania, tipo Minor - 30, equipado com painel de instrumentos, capacidade para 1.800 litros/hora ........................
+
+40.811
+
+14
+
+Máquinas de empacotar manteiga, marca Simon Frêres capacidade de 25/30 pacotes por minuto .............................................................................................
+
+8.417
+
+115.411
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-003980-0-000-24-10-2001@@@
-
 DECRETO Nº 3.980, DE 24 DE OUTUBRO DE 2001
 
 Dá nova redação ao art. 31 do Decreto nº 1.864, de 16 de abril de 1996 que aprova o Regulamento para Promoções de Graduados do Exército (R-196).

@@ -1,5 +1,3 @@
-###DEC-072815-0-000-21-09-1973@@@
-
 Decreto nº 72.815, de 21 de setembro de 1973.
 
 Concede reconhecimento à Faculdade de Educação de Novo Hamburgo, mantida pela Associação Pró Ensino Superior em Novo Hamburgo, com sede na cidade de Novo Hamburgo, Estado do Rio Grande do Sul.

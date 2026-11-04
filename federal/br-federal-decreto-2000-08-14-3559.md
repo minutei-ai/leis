@@ -1,5 +1,3 @@
-###DEC-003559-0-000-14-08-2000@@@
-
 DECRETO Nº 3.559, DE 14 DE AGOSTO DE 2000.
 
 Suspende a exploração da espécie mogno (Swietenia macrophylla King), na Região Amazônica, pelo período de dois anos, e dá outras providências.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.746, DE 30 DE JUNHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de Utilidade pública a Associação de Pais, Mestres e Funcionários do Colégio Militar Dom Pedro II.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de Utilidade pública a Associação de Pais, Mestres e Funcionários do Colégio Militar Dom Pedro II.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

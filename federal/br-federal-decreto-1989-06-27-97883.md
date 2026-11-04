@@ -1,5 +1,3 @@
-###DEC-097883-0-000-26-06-1989@@@
-
 DECRETO N° 97.883, DE 26 DE JUNHO DE 1989
 
 Outorga concessão à RCE TV DE XANXERÊ LIMITADA, para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Xanxerê, Estado de Santa Catarina.

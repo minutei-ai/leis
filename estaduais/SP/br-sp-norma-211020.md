@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211020)<br>
-
 # DECRETO N° 69.585, DE 05 DE JUNHO DE 2025
 
 ### _Reorganiza o São Paulo Sempre Alerta - Plano Estadual de Resiliência à Estiagem, instituído pelo Decreto n° 68.733, de 25 de julho de 2024._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃOPAULO, no uso de suas atribuições legais,
 
 D e c r e t a:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Gerais
 
 **Artigo 1° -** O São Paulo Sempre Alerta - Plano Estadual de Resiliência à Estiagem, instituído pelo [Decreto n° 68.733, de 25 de julho de 2024](https://www.al.sp.gov.br/norma/209783), fica reorganizado nos termos deste decreto, passando a denominar-se São Paulo Sempre Alerta.
@@ -41,12 +40,14 @@ VII- atuação intersetorial nas dimensões epidemiológica, sanitária e labora
 
 **Parágrafo único -** Para fins do disposto na alínea "a" do inciso III deste artigo serão priorizados os Municípios que aderirem ao Programa "Universaliza SP", instituído pelo [Decreto n° 67.814, de 18 de julho de 2023](https://www.al.sp.gov.br/norma/208293).
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Eixos de Atuação Integrada e Contínua
 
 **Artigo 4° -** As ações e medidas do São Paulo Sempre Alerta serão estruturadas nos eixos de prevenção, preparação, resposta e recuperação, conforme classificação constante do [Decreto n° 64.592, de 14 de novembro de 2019](https://www.al.sp.gov.br/norma/192244), bem como no eixo de comunicação.
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Das Ações e Medidas de Prevenção e Preparação
 
 **Artigo 5° -** Para os fins deste decreto, são ações e medidas de prevenção e preparação voltadas à redução dos riscos e à mitigação dos impactos relacionados a eventos climáticos extremos:
@@ -95,7 +96,8 @@ XVII- realizar o monitoramento meteorológico, hidrológico e geológico, com en
 
 XVIII- orientar a população acerca de medidas de prevenção de doenças respiratórias e de veiculação hídrica.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Ações e Medidas de Resposta e Recuperação
 
 **Artigo 6° -** Para os fins deste decreto, são ações e medidas de resposta e recuperação voltadas à mitigação dos impactos e ao restabelecimento das condições de normalidade nos Municípios afetados por eventos climáticos extremos:
@@ -130,7 +132,8 @@ b)realização de obras de recuperação em áreas atingidas por desastres;
 
 XIII- combater doenças agudas de interesse de saúde pública relacionadas a eventos climáticos extremos.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Ações e Medidas de Comunicação
 
 **Artigo 7° -** As ações e medidas de comunicação serão implementadas com vistas à conscientização e educação sobre:
@@ -151,7 +154,8 @@ VI-medidas de prevenção de doenças respiratórias e de veiculação hídrica.
 
 **Artigo 8° -** Como parte das medidas de enfrentamento, deverão ser adotadas estratégias de comunicação direta com a população, voltadas à emissão de alertas sobre situações de risco iminente e à divulgação de orientações durante as fases de resposta e recuperação de desastres.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Governança
 
 **Artigo 9° -** O Comitê Gestor da Política Estadual de Mudanças Climáticas acompanhará e monitorará as ações estratégicas de que trata este decreto, no âmbito da governança estabelecida pelo [Decreto n° 68.308, de 16 de janeiro de 2024](https://www.al.sp.gov.br/norma/209079).
@@ -160,7 +164,8 @@ Da Governança
 
 **Parágrafo único -** As ações referentes ao Sistema Estadual de Proteção e Defesa Civil serão coordenadas pela Coordenadoria Estadual de Proteção e Defesa Civil -CEPDEC, nos termos do [Decreto n° 64.592, de 14 de novembro de 2019](https://www.al.sp.gov.br/norma/192244).
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Disposições Finais
 
 **Artigo 11 -** Os representantes do Estado nas empresas públicas, sociedades de economia mista e fundações instituídas ou mantidas pelo Poder Público adotarão as providências necessárias ao cumprimento deste decreto, em seus respectivos âmbitos.

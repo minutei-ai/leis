@@ -1,5 +1,3 @@
-###DEC-069503-0-000-05-11-1971@@@
-
 DECRETO Nº 69.503 - de 5 DE novembro DE 1971
 
 Autoriza a cessão de imóvel da União que menciona, situado no Estado de Santa Catarina.

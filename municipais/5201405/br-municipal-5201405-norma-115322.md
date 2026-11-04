@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.553, DE 06 DE MAIO DE 2020.<br>
+LEI MUNICIPAL Nº 3.553, DE 06 DE MAIO DE 2020.
+
 (Revogado pela Lei Ordinária nº 3.668, de 19 de maio de 2022).
 
 ~~“Dispõe sobre a criação do Conselho Municipal de Política Cultural” .~~
@@ -173,5 +174,6 @@ LEI MUNICIPAL Nº 3.553, DE 06 DE MAIO DE 2020.<br>
 
  
 
-~~GUSTAVO MENDANHA~~<br>
+~~GUSTAVO MENDANHA~~
+
 ~~Prefeito Municipal~~

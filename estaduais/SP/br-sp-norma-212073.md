@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212073)<br>
-
 # DECRETO N° 70.267, DE 22 DE DEZEMBRO DE 2025
 
 ### _Altera o [Decreto n° 69.438, de 26 de março de 2025](https://www.al.sp.gov.br/norma/210808), e dá providências correlatas._
@@ -44,7 +42,8 @@ Arthur Luis Pinho de Lima
 
 Osvaldo Nico Gonçalves
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 2° deste decreto
 
 #### CONVÊNIO GSSP/ATP
@@ -53,7 +52,8 @@ Convênio que entre si celebram o Estado de São Paulo, por intermédio da Secre
 
 O Estado de São Paulo, por intermédio da Secretaria da Segurança Pública, doravante denominada SECRETARIA, neste ato representada pelo Titular da Pasta, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, devidamente autorizado pelo Decreto n° , de de de 2025, e o Município de \_\_\_\_\_\_\_\_\_\_, CNPJ n° \_\_\_\_\_\_\_\_\_\_\_\_, neste ato representado pela(o) Prefeita(o) Municipal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, doravante denominado MUNICÍPIO, com base nos dispositivos constitucionais e legais vigentes, celebram o presente convênio, que se regerá \[pela Lei n° 16.111, de 14 de janeiro de 2016, regulamentada pelo Decreto n° 62.960, de 24 de novembro de 2017, e pelos Decretos n° 69.438, de 26 de março de 2025 e 66.173, de 24 de outubro de 2021\] ou \[pelos Decretos n° 68.828, de 4 de setembro de 2024, 69.438, de 26 de março de 2025 e 66.173, de 24 de outubro de 2021\] ou \[pelos Decretos n° 69.438, de 26 de março de 2025 e 66.173, de 24 de outubro de 2021\] e pelas cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio o repasse de recursos financeiros da SECRETARIA para o MUNICÍPIO, na forma de transferência voluntária decorrente de indicação parlamentar, de autoria da(o) Deputada(o) Estadual \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ - Demanda \_\_\_\_\_\_\_\_\_\_\_\_, com vistas à \[aquisição de bens\] / \[contratação de serviços\] para aparelhamento dos órgãos municipais de segurança pública, nos termos do artigo 1°, inciso \[I\] ou \[II\] ou \[III\], do Decreto n° 69.438, de 26 de março de 2025, de acordo com o Plano de Trabalho que integra este instrumento como Anexo.
@@ -62,7 +62,8 @@ Constitui objeto deste convênio o repasse de recursos financeiros da SECRETARIA
 
 **§ 2° -** As modificações do Plano de Trabalho deverão ser formalizadas mediante termo de aditamento.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução e Fiscalização do Convênio
 
 Para efeito de acompanhamento da execução do presente ajuste, fica instituído o Grupo de Controle e Fiscalização que será constituído pelos representantes dos partícipes na seguinte conformidade:
@@ -83,12 +84,14 @@ II- propor as adequações que se fizerem necessárias;
 
 III- informar os partícipes sobre quaisquer problemas e eventuais desvios detectados durante a execução do convênio.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Da Comunicação entre os Partícipes
 
 Qualquer comunicação, notificação ou aviso entre os partícipes, na vigência deste convênio, deverá ser feita em meio digital e encaminhada aos endereços eletrônicos dos representantes dos partícipes, por eles indicados nos termos da cláusula segunda deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Das obrigações dos Partícipes
 
 Os partícipes terão as seguintes obrigações:
@@ -119,7 +122,8 @@ f) responsabilizar-se exclusivamente pelos eventuais encargos trabalhistas, prev
 
 g) informar à SECRETARIA, no prazo de 30 (trinta) dias, qualquer alteração ou intercorrência relevante decorrente do contrato administrativo celebrado para dar cumprimento ao objeto deste convênio.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Do Valor
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_), sendo R$ \_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_) de responsabilidade do ESTADO, e R$ \_\_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_) de responsabilidade do MUNICÍPIO, em contrapartida.
@@ -128,7 +132,8 @@ O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\
 
 **§ 2° -** O MUNICÍPIO se compromete a arcar com os valores excedentes, na hipótese de os custos com a execução do objeto deste convênio superarem o valor indicado no "caput" desta cláusula.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Dos Recursos Financeiros
 
 Os recursos financeiros indicados na cláusula quinta, de responsabilidade da SECRETARIA, a serem transferidos ao MUNICÍPIO, são provenientes do Programa de Trabalho \_\_\_\_\_\_\_\_\_\_\_\_, e onerarão a unidade orçamentária \_\_\_\_\_\_\_\_\_\_\_\_.
@@ -155,7 +160,8 @@ Os recursos financeiros indicados na cláusula quinta, de responsabilidade da SE
 
 4\. quando o MUNICÍPIO deixar de adotar as medidas saneadoras apontadas pela SECRETARIA ou por integrantes do respectivo sistema de controle interno.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 1 (um) ano, a contar da data de sua assinatura.
@@ -164,19 +170,22 @@ O prazo de vigência do presente convênio é de 1 (um) ano, a contar da data de
 
 **§ 2° -** A mora na liberação dos recursos, quando devidamente comprovada, ensejará a prorrogação deste convênio, desde que autorizada pelo Titular da Pasta, pelo mesmo número de dias de atraso da respectiva liberação, independentemente de termo aditivo.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado, por desinteresse dos partícipes, a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas.
 
 **Parágrafo único -** Ocorrendo a rescisão ou denúncia do presente convênio, cada partícipe responderá pelas obrigações assumidas até a data de assinatura do respectivo termo de encerramento, devendo o MUNICÍPIO apresentar à SECRETARIA, no prazo de até 30 (trinta) dias, a documentação comprobatória do cumprimento das obrigações assumidas até aquela data e a respectiva prestação de contas.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por meio da SECRETARIA, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1°, do artigo 37, da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da prestação de Contas
 
 Observadas as atribuições de cada partícipe, deverá o MUNICÍPIO apresentar prestações de contas parciais, ao final de cada etapa, e prestação de contas final à SECRETARIA, no prazo de 30 (trinta) dias a contar do término do convênio, sem prejuízo do cumprimento de suas obrigações junto ao Tribunal de Contas do Estado, na forma da legislação de regência.
@@ -199,12 +208,14 @@ d) demonstrativo da execução da receita e da despesa, fornecido pelo Banco do 
 
 e) relação dos bens adquiridos e serviços contratados com os recursos da SECRETARIA, devidamente patrimoniados, se o caso.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Publicação
 
 A SECRETARIA providenciará a publicação do extrato deste convênio no Diário Oficial do Estado.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer questões oriundas ou relativas à execução ou interpretação do presente instrumento, não resolvidas na esfera administrativa, com expressa renúncia a qualquer outro, por mais privilegiado que seja ou venha a ser.
@@ -235,7 +246,8 @@ Nome:
 
 CPF:
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 3° deste decreto
 
 #### CONVÊNIO GSSP/ATP
@@ -244,7 +256,8 @@ Convênio que entre si celebram o Estado de São Paulo, por intermédio da Secre
 
 O Estado de São Paulo, por intermédio da Secretaria da Segurança Pública, doravante denominada SECRETARIA, neste ato representada pelo Titular da Pasta, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, devidamente autorizado pelo Decreto n° , de de de 2025, e o Município de \_\_\_\_\_\_\_\_\_\_, CNPJ n° \_\_\_\_\_\_\_\_\_\_\_\_, neste ato representado pela(o) Prefeita(o) Municipal \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, doravante denominado MUNICÍPIO, com base nos dispositivos constitucionais e legais vigentes, celebram o presente convênio, que se regerá \[pela Lei n° 16.111, de 14 de janeiro de 2016, regulamentada pelo Decreto n° 62.960, de 24 de novembro de 2017, e pelos Decretos n° 69.438, de 26 de março de 2025 e 66.173, de 24 de outubro de 2021\] ou \[pelos Decretos n° 68.828, de 4 de setembro de 2024, 69.438, de 26 de março de 2025 e 66.173, de 24 de outubro de 2021\] ou \[pelos Decretos n° 69.438, de 26 de março de 2025 e 66.173, de 24 de outubro de 2021\] e pelas cláusulas e condições seguintes.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio o repasse de bens e serviços da SECRETARIA para o MUNICÍPIO, para aparelhamento dos órgãos municipais de segurança pública, nos termos do artigo 1°, inciso \[I\] ou \[II\] ou \[III\], do Decreto n° 69.438, de 26 de março de 2025, de acordo com o Plano de Trabalho que integra este instrumento como Anexo.
@@ -253,7 +266,8 @@ Constitui objeto deste convênio o repasse de bens e serviços da SECRETARIA par
 
 **§ 2° -** As modificações do Plano de Trabalho deverão ser formalizadas mediante termo de aditamento.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Da Execução e Fiscalização do Convênio
 
 Para efeito de acompanhamento da execução do presente ajuste, fica instituído o Grupo de Controle e Fiscalização que será constituído por um representante da SECRETARIA e dois representantes do MUNICÍPIO.
@@ -270,12 +284,14 @@ II- propor as adequações que se fizerem necessárias;
 
 III- informar os partícipes sobre quaisquer problemas e eventuais desvios detectados durante a execução do convênio.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Da Comunicação entre os Partícipes
 
 Qualquer comunicação, notificação ou aviso entre os partícipes, na vigência deste convênio, deverá ser feita em meio digital e encaminhada aos endereços eletrônicos dos representantes dos partícipes, por eles indicados nos termos da cláusula segunda deste instrumento.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Das obrigações dos Partícipes
 
 Os partícipes terão as seguintes obrigações:
@@ -304,7 +320,8 @@ g) responsabilizar-se pela destinação e custeio dos bens e serviços, observan
 
 h) sempre que cabível, providenciar, logo após o recebimento dos bens e serviços, às suas expensas, a transferência de titularidade e a contratação de seguro total.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio, correspondente ao valor dos bens e serviços a que se refere a cláusula primeira, é de R$ \_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_), de responsabilidade do ESTADO, que onerará o elemento econômico do orçamento da SECRETARIA.
@@ -313,14 +330,16 @@ O valor do presente convênio, correspondente ao valor dos bens e serviços a qu
 
 **§ 2° -** Ao MUNICÍPIO caberá fornecer os meios materiais e humanos necessários à utilização dos bens e serviços transferidos, bem como providenciar, com recursos próprios, a documentação necessária à operação dos bens e serviços.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Do Prazo de Vigência
 
 O prazo de vigência do presente convênio é de 1 (um) ano, a contar da data de sua assinatura.
 
 **Parágrafo único -** Havendo motivo relevante e interesse dos partícipes, devidamente justificado, o presente convênio poderá ter seu prazo de vigência prorrogado, mediante termo aditivo e prévia autorização do Secretário da Segurança Pública, observadas as disposições do Decreto n° 66.173, de 26 de outubro de 2021, e demais normas regulamentares aplicáveis.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Denúncia e da Rescisão
 
 Este convênio poderá ser denunciado, por desinteresse dos partícipes, a qualquer tempo, mediante notificação prévia com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de quaisquer de suas cláusulas.
@@ -329,24 +348,28 @@ Este convênio poderá ser denunciado, por desinteresse dos partícipes, a qualq
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se à SECRETARIA a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento, à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste convênio.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio, deverá ser, obrigatoriamente, consignada a participação do Estado de São Paulo, por meio da SECRETARIA, obedecidos os padrões estipulados por esta última, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1°, do artigo 37, da Constituição Federal.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da prestação de Contas
 
 O MUNICÍPIO, quando solicitado pela SECRETARIA, deverá apresentar documentação hábil a demonstrar a utilização dos bens e serviços transferidos e cumprimento das obrigações deste convênio, sem prejuízo do cumprimento de suas obrigações junto ao Tribunal de Contas do Estado, na forma da legislação de regência.
 
 **Parágrafo único -** A SECRETARIA poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Publicação
 
 A SECRETARIA providenciará a publicação do extrato deste convênio no Diário Oficial do Estado.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer questões oriundas ou relativas à execução ou interpretação do presente instrumento, não resolvidas na esfera administrativa, com expressa renúncia a qualquer outro, por mais privilegiado que seja ou venha a ser.

@@ -1,5 +1,3 @@
-###DEC-072346-0-000-08-06-1973@@@
-
 DECRETO nº 72.346, DE 8 DE JUNHO DE 1973.
 
 Autoriza o funcionamento do curso de Ciências Contábeis, da Faculdade Anhanguera de Ciências Humanas, mantida pela Associação Goiana de Ensino, com sede na cidade de Goiânia, Estado de Goiás.

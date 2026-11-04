@@ -1,5 +1,3 @@
-###DEC-045366-0-000-30-01-1959@@@
-
 Decreto nº 45.366, de 30 de janeiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos imóveis que menciona, situados no Município de Bambuí, no Estado de Minas Gerais.

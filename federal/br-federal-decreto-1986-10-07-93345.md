@@ -1,5 +1,3 @@
-###DEC-093345-0-000-07-10-1986@@@
-
 DECRETO Nº 93.345, DE 7 DE OUTUBRO DE 1986
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Educação Artística do Norte de Minas.

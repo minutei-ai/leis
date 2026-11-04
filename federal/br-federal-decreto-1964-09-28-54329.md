@@ -1,5 +1,3 @@
-###DEC-054329-0-000-28-09-1964@@@
-
 DECRETO Nº 54.329, DE 28 DE SETEMBRO DE 1964.
 
 Autoriza a usina Termelétrica de Figueira S.A (UTELFA) a construir linha de Transmissão.

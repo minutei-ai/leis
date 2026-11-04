@@ -1,5 +1,3 @@
-###DEC-071043-0-000-30-08-1972@@@
-
 DECRETO Nº 71.043, DE 30 DE AGOSTO DE 1972.
 
 Inclui na relação aprovada pelo Decreto nº 70.025, de 24 de janeiro de 1972, a Comissão de Administração ao Programa Nacional de Teleducação (PRONTEL), organismo de natureza transitória, da área do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-080944-0-000-06-12-1977@@@
-
 Decreto nº 80.944, de 06 de dezembro de 1977.
 
 Autoriza a instituição de servidão de solo, em favor de concessão de lavra outorgada à Mineração Morro Agudo S/A pelo Decreto nº 75.604, de 14 de abril de 1975.

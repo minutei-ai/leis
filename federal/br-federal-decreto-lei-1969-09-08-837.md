@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f680c7b0-5994-40a5-8477-55275de5841c/texto#nowhere)
 
-###DEL-000837-0-000-08-09-1969@@@
-
 DECreto-LEI Nº 837, DE 8 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério da Educação e Cultura, em favor de diversos estabelecimentos do Ensino Federal, o crédito especial no valor de NCr$7.753.513,73 (sete milhões, setecentos e cinqüenta e três mil, quinhentos e treze cruzeiros novos e setenta e três centavos), e dá outras providências.

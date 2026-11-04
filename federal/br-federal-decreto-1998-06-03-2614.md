@@ -1,5 +1,3 @@
-###DEC-002614-0-000-03-06-1998@@@
-
 DECRETO Nº 2.614, DE 3 DE JUNHO DE 1998
 
 Altera a redação do Decreto nº 433, de 24 de janeiro de 1992, que dispõe sobre a aquisição de imóveis rurais, para fins de reforma agrária, por meio de compra e venda.

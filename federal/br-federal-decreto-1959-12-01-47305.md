@@ -1,5 +1,3 @@
-###DEC-047305-0-000-01-12-1959@@@
-
 Decreto nº 47.305, de 1º de dezembro de 1959.
 
 Exclui das disposições do parágrafo único do art. 9º do Decreto número 45.363, de 29 de janeiro de 1959.

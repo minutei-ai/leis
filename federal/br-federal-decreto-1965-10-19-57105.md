@@ -1,5 +1,3 @@
-###DEC-057105-0-000-19-10-1965@@@
-
 Decreto nº 57.105, de 19 de outubro de 1965.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 45.974, de 9 de maio de 1959, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Quixabinha”, no município de Mauriti, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-049032-0-000-05-10-1960@@@
-
 DECRETO Nº 49.032, DE 5 DE OUTUBRO DE 1960.
 
 Concede à Mineração Areião Limitada autorização para funcionar como emprêsa de mineração.

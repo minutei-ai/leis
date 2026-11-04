@@ -1,5 +1,3 @@
-###DEC-094376-0-000-26-05-1987@@@
-
 DECRETO Nº 94.376, DE 26 DE MAIO DE 1987.
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Regional de Abertura de Mercados em favor da Bolívia (Acordo nº 1).

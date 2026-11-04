@@ -1,5 +1,3 @@
-###DEC-053790-0-000-20-03-1964@@@
-
 DECRETO Nº 53.790, de 20 de março de 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$8.351.484.593.40 (oito bilhões, trezentos e cinqüenta e um milhões quatrocentos e oitenta e quatro mil quinhentos e noventa a três cruzeiros e quarenta centavos) para o fim que especifica.

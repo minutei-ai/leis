@@ -1,5 +1,3 @@
-###DEC-074859-0-000-08-11-1974@@@
-
 DECRETO Nº 74.859, DE 8 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona destinado ao Ministério do Exército.

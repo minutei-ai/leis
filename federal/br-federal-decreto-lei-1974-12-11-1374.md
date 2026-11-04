@@ -1,5 +1,3 @@
-###DEL-001374-0-000-11-12-1974@@@
-
 # DECRETO-LEI Nº 1.374, DE 11 DE DEZEMBRO DE 1974
 
 Concede isenção do imposto sobre produtos industrializados para os produtos que especifica.

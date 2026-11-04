@@ -1,5 +1,3 @@
-###DEC-094858-0-000-08-09-1987@@@
-
 DECRETO N° 94.858, DE 8 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

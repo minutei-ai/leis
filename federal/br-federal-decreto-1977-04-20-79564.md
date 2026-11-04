@@ -1,5 +1,3 @@
-###DEC-079564-0-000-20-04-1977@@@
-
 Decreto nº 79.564, de 20 de abril de 1977.
 
 Concede a Walter de Andrade Heráclio, Firma Individual, o direito de lavrar caulim no Município de Tupanatinga, Estado de Pernambuco.

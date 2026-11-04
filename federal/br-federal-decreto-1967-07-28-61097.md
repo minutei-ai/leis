@@ -1,5 +1,3 @@
-###DEC-061097-0-000-28-07-1967@@@
-
 DECRETO Nº 61.097, DE 28 DE JULHO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos sem similar no País, neste descritos e consignados à empresa “SACRAFT – Indústria de Celulose do Nordeste S. A.”, de Recife – (Pe..)
@@ -14,7 +12,31 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar no País, a seguir descritos e consignados à empresa “SACRAFT – Indústria de Celulose do Nordeste S. A.”, de Recife ( Pe.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:301.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Item – Especificação</span></p></td><td style="width:56.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quantidade a ser importada</span></p></td><td style="width:60.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CIF US$</span></p></td></tr><tr><td style="width:301.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 Máquina itinerante desfibradora de sisal, marca “ARREUG”, número 5, equipadas com sistema de fluxo de ar para viragem automática da folha, sistema hidráulico para dar tensão às cordas, montada em chassis de ferro, com rodas de jante 20, sem pneus, com transmissões, para acionamento das desfibradoras e deslocações .......................................................................................</span></p></td><td style="width:56.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>154.032</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:301.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 Motores marca Mercedes-Benz, mod. 868, de 8 cílindros em V. de 145 C.V. refrigerados a ar com combustível a gaz-oil, e de fabrico alemão ...................................................................................</span></p></td><td style="width:56.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>6</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">18.798</span></p></td></tr><tr><td style="width:301.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ...............................................................................................</span></p></td><td style="width:56.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>-</span></p></td><td style="width:60.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>172.830</span></p></td></tr></tbody></table>
+Item – Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1 Máquina itinerante desfibradora de sisal, marca “ARREUG”, número 5, equipadas com sistema de fluxo de ar para viragem automática da folha, sistema hidráulico para dar tensão às cordas, montada em chassis de ferro, com rodas de jante 20, sem pneus, com transmissões, para acionamento das desfibradoras e deslocações .......................................................................................
+
+6
+
+154.032
+
+2 Motores marca Mercedes-Benz, mod. 868, de 8 cílindros em V. de 145 C.V. refrigerados a ar com combustível a gaz-oil, e de fabrico alemão ...................................................................................
+
+6
+
+18.798
+
+TOTAL ...............................................................................................
+
+-
+
+172.830
 
 Parágrafo único. Com respeito aos motores que acompanham a maquinaria, fica sua similaridade para efeito da isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino quando de desembaraço aduaneiro na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agosto de 1958, do Senhor Ministro da Fazenda e levando-se em conta o que atesta o Conselho de Política Aduaneira sobre não existir similar para os referidos motores uma vez se apresentem separadamente das máquinas a que se destinam.
 

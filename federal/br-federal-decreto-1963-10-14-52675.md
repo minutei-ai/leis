@@ -1,5 +1,3 @@
-###DEC-052675-0-000-14-10-1963@@@
-
 DECRETO Nº 52.675, DE 14 DE OUTUBRO DE 1963.
 
 Altera o Regulamento para os Quadros Complementares dos Corpos da Armada de Fuzileiros Navais e de Intendentes da Marinha.

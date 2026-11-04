@@ -1,5 +1,3 @@
-###DEC-051548-0-000-06-09-1962@@@
-
 Decreto nº 51.548, de 6 de setembro de 1962.
 
 Dispõe sôbre o exercício por militares, da função de membro do Grupo Executivo de que trata o Decreto número 51.514, de 25 de junho de 1962.

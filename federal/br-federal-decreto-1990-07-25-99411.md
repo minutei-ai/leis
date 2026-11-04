@@ -1,7 +1,3 @@
-1
-
-###DEC-099411-0-000-25-07-1990@@@
-
 # DECRETO N° 99.411, DE 25 DE JULHO DE 1990
 
 Aprova a estrutura regimental e o quadro distributivo de funções de confiança da Secretaria-Geral do Gabinete Militar da Presidência da República e do Gabinete Pessoal do Presidente da República e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002343-0-000-10-07-1987@@@
-
 # DECRETO-LEI Nº 2.343, DE 10 DE JULHO DE 1987
 
 Acrescenta parágrafo ao artigo 8º do Decreto-lei nº 2.335, de 12 de junho de 1987.

@@ -1,5 +1,3 @@
-###DEL-004981-0-000-20-11-1942@@@
-
 DECRETO-LEI N. 4.981 – DE 20 DE NOVEMBRO DE 1942
 
 Retifica o decreto-lei n. 4. 645, de 2 de setembro de 1942

@@ -1,5 +1,3 @@
-###DEC-006541-0-000-21-08-2008@@@
-
 DECRETO Nº 6.541, DE 21 DE AGOSTO DE 2008.
 
 Dispõe sobre a execução do Sexagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica no 18, assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, de 21 de maio de 2008.

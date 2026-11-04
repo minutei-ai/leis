@@ -1,6 +1,7 @@
 LEI Nº 1.022 DE 14 DE AGOSTO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.630](https://www.legislabahia.ba.gov.br/documentos/lei-no-12630-de-07-de-janeiro-de-2013#LO%2012.630) de 07 de janeiro de 2013- Atualiza os limites dos Municípios que integram o Território de Identidade Costa do Descobrimento, na forma da Lei nº 12.057/2011, a saber: Belmonte, Eunápolis, Guaratinga, Itabela, Itagimirim, Itapebi, Porto Seguro, Santa Cruz Cabrália.
 
 &nbs
@@ -91,4 +92,4 @@ Lei nº 1.022 de 14/08/1958,
 
 Repetir na íntegra o artigo 7º: Os funcionários municipais, com mais de dois anos de exercício no território do município criado por esta lei, terão neste assegurados os seus direitos.
 
-* * *
+ *

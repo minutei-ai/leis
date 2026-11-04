@@ -1,7 +1,3 @@
-1
-
-###DEC-097958-0-000-11-07-1989@@@
-
 DECRETO Nº 97.958, DE 11 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “ALIANÇA”, classificado como latifúndio por exploração, situado no Município de Maués, Estado do Amazonas, compreendido na zona prioritária, fixada pelo Decreto nº 92.679, de l9 de maio de 1986, e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-092131-0-000-13-12-1985@@@
-
 Decreto nº 92.131, de 13 de dezembro de 1985
 
 Revoga a concessão outorgada à RÁDIO TABAJARA DA PARAÍBA, (Governo do Estado da Paraíba), para executar serviço de radiodifusão sonora em onda tropical, na cidade de João Pessoa, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-004440-0-000-25-10-2002@@@
-
 DECRETO Nº 4.440, DE 25 DE OUTUBRO DE 2002
 
 Altera dispositivos do Decreto nº 3.591, de 6 de setembro de 2000, que dispõe sobre o Sistema de Controle Interno do Poder Executivo Federal.

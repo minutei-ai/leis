@@ -1,5 +1,3 @@
-###DEL-003756-0-000-24-10-1941@@@
-
 DECRETO-LEI N. 3.756 – DE 24 DE OUTUBRO DE 1941
 
 Extingue o Curso Noturno da Faculdade Nacional de Direito da Universidade do Brasil, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-078667-0-000-04-11-1976@@@
-
 DECRETO Nº 78.667, DE 4 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Jales, com sede na cidade de Jales, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-005620-0-000-15-12-2005@@@
-
 DECRETO Nº 5.620, DE 15 DE DEZEMBRO DE 2005.
 
 Concede indulto condicional, comutação e dá outras providências.       

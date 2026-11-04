@@ -1,5 +1,3 @@
-###DEC-068929-0-000-16-07-1971@@@
-
 DECRETo nº 68.929, de 16 de julho de 1971.
 
 Declara de utilidade pública a Casa da Criança, com sede em Manaus, Estado do Amazonas.

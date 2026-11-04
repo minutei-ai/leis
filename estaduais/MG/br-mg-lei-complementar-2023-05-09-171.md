@@ -89,7 +89,3 @@ Art. 7º – Esta lei complementar entra em vigor na data de sua publicação.
 Belo Horizonte, aos 9 de maio de 2023; 235º da Inconfidência Mineira e 202º da Independência do Brasil.
 
 TADEU MARTINS LEITE
-
-\============================================================
-
-Data da última atualização: 21/10/2025.

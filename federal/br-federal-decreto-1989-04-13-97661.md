@@ -1,7 +1,3 @@
-1
-
-###DEC-097661-0-000-13-04-1989@@@
-
 DECRETO Nº 97.661, DE 13 DE ABRIL DE 1989
 
 Dispõe sobre o reajustamento do Valor Básico de Diárias a que se refere o Decreto n° 94.344, de 19 de maio de 1987.

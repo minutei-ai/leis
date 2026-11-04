@@ -1,5 +1,3 @@
-###DEC-004564-0-000-01-01-2003@@@
-
 DECRETO Nº 4.564, DE 1º JANEIRO DE 2003.
 
 Define o órgão gestor do Fundo de Combate e Erradicação da Pobreza e o funcionamento do seu Conselho Consultivo e de Acompanhamento, dispõe sobre doações de pessoas físicas ou jurídicas, nacionais ou estrangeiras, para o Fundo de Combate e Erradicação da Pobreza, e dá outras providências.
@@ -108,7 +106,10 @@ Define o órgão gestor do Fundo de Combate e Erradicação da Pobreza e o funci
 
         Brasília, 1o de janeiro de 2002; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Márcio Thomaz Bastos<br>
-José Francisco Graziano da Silva<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Márcio Thomaz Bastos
+
+José Francisco Graziano da Silva
+
 José Dirceu de Oliveira e Silva

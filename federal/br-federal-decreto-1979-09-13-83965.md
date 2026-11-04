@@ -1,5 +1,3 @@
-###DEC-083965-0-000-13-09-1979@@@
-
 decreto nº 83.965, de 13 de setembro de 1979.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

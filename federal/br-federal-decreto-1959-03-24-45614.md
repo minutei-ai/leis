@@ -1,5 +1,3 @@
-###DEC-045614-0-000-24-03-1959@@@
-
 Decreto nº 45.614, de 24 de março de 1959.
 
 Autoriza estrangeiro a adquirir o domínio pleno dos terrenos que menciona, situados no Distrito Federal.

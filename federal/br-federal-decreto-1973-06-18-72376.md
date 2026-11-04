@@ -1,5 +1,3 @@
-###DEC-072376-0-000-18-06-1973@@@
-
 DECRETO N° 72.376, DE 18 DE JUNHO DE 1973.
 
 Prorroga o prazo da autorização concedida pelo Decreto n° 68.895, de 8 de julho de 1971, a empresa Offshore International S.A.

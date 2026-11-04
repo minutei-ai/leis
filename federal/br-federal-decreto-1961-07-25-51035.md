@@ -1,5 +1,3 @@
-###DEC-051035-0-000-25-07-1961@@@
-
 Decreto nº 51.035, de 25 de julho de 1961.
 
 Autoriza a Comissão Interestadual da Bacia do Paraná-Uruguai a realizar estudos no rio Uruguai.

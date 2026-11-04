@@ -1,5 +1,3 @@
-###DEC-088064-0-000-26-01-1983@@@
-
 decreto nº 88.064, de 26 de janeiro de 1983.
 
 Declara de utilidade pública, para fins de desapropriação, a área destinada à implantação do Novo Núcleo Urbano de Barcarena, no Estado do Pará, e dá outras providências.

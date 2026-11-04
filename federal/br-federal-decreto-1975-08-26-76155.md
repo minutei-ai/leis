@@ -1,5 +1,3 @@
-###DEC-076155-0-000-26-08-1975@@@
-
 Decreto nº 76.155 - de 26 de agosto de 1975
 
 Concede a Lineu de Carvalho Cruz, firma individual, o direito de lavrar calcário no Município de Iporanga, Estado de São Paulo.

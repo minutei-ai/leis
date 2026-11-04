@@ -1,5 +1,3 @@
-###DEC-003621-0-000-04-10-2000@@@
-
 DECRETO Nº 3.621, DE 4 DE OUTUBRO DE 2000.
 
 Altera a redação do § 3º do art. 1º do Decreto nº 1.947, de 28 de junho de 1956.

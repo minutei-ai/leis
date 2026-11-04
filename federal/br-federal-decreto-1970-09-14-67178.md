@@ -1,5 +1,3 @@
-###DEC-067178-0-000-14-09-1970@@@
-
 DECRETO Nº 67.178, DE 14 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto nº 49.030, de 5 de outubro de 1960.

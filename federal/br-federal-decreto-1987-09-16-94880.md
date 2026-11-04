@@ -1,5 +1,3 @@
-###DEC-094880-0-000-16-09-1987@@@
-
 DECRETO Nº 94.880, DE 16 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Psicologia da União das Faculdades Francanas.

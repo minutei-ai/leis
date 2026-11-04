@@ -1,7 +1,3 @@
-1
-
-###DEC-000346-0-000-20-11-1991@@@
-
 DECRETO Nº 346, DE 20 DE NOVEMBRO DE 1991
 
 Altera dispositivos do Decreto nº 99.659, de 31 de outubro de 1990.

@@ -1,5 +1,3 @@
-###DEC-081552-0-000-10-04-1978@@@
-
 Decreto nº 81.552, de 10 de abril de 1978
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Universidade Federal Rural do Rio de Janeiro, com sede em Itaguaí, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-004759-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.759 – DE 29 DE SETEMBRO DE 1942
 
 Suspende por 8 dias em todo o território da República o vencimento das obrigações resultantes de letras de câmbio e outros títulos comerciais, e dá outras providências.

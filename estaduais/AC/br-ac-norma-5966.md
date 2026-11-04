@@ -1,6 +1,10 @@
 > **LEI Nº 4.327, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Permite ao profissional farmacêutico anotação do endereço completo do paciente no verso da receita dos medicamentos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Permite ao profissional farmacêutico anotação do endereço completo do paciente no verso da receita dos medicamentos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

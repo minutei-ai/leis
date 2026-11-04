@@ -1,5 +1,3 @@
-###DEC-000608-0-000-20-07-1992@@@
-
 DECRETO Nº 608, DE 20 DE JULHO DE 1992
 
 Altera o Decreto nº 22, de 4 de fevereiro de 1991, que dispõe sobre o processo de demarcação das terras indígenas.

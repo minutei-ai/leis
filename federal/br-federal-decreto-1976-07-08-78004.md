@@ -1,5 +1,3 @@
-###DEC-078004-0-000-08-07-1976@@@
-
 DECRETO Nº 78.004, de 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Contábeis e Administrativas, com sede na Cidade de Santa Cruz do Sul, Estado do Rio Grande do Sul.

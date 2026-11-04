@@ -1,5 +1,3 @@
-###DEC-064828-0-000-16-07-1969@@@
-
 Decreto nº 64.828, de 16 de julho de 1969.
 
 Introduz modificações no Decreto nº 63,416, de 11 de outubro de 1968.

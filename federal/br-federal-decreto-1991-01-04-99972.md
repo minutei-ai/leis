@@ -1,5 +1,3 @@
-###DEC-099972-0-000-04-01-1991@@@
-
 DECRETO Nº 99.972, DE 4 DE JANEIRO DE 1991.
 
 Outorga à ELETROGOES S.A. concessão para o aproveitamento de energia hidráulica do Rio Ávila, no Município de Vilhena, Estado de Rondônia, no trecho que menciona, e dá outras providências.

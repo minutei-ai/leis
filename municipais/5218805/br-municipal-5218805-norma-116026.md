@@ -1,23 +1,29 @@
 **LEI N. 6.859, DE 03 DE JULHO DE 2018**
 
-<br>
 Altera a Lei n. 5.558/2009, que instituiu o Programa Bolsa de Produção Cultural no âmbito do Município de Rio Verde.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
 
-<br>
 Art. 1º Esta Lei altera a Lei n. 5.558, de 24 de março de 2009, que instituiu o Programa Bolsa de Produção Cultural, passando a viger com a seguinte redação:
 
-"Art. 1º. .............................................................................................<br>
-Parágrafo Único. O Programa Bolsa de Produção Cultural é composto pelas seguintes categorias:<br>
-I-Orquestra Municipal de Violeiros;<br>
-Il-Banda Municipal "Filadelfo Jorge da Silva"<br>
-III - Coral;<br>
-IV - Corpo de Teatro;<br>
-V - Grupos de Dança;<br>
+"Art. 1º. .............................................................................................
+
+Parágrafo Único. O Programa Bolsa de Produção Cultural é composto pelas seguintes categorias:
+
+I-Orquestra Municipal de Violeiros;
+
+Il-Banda Municipal "Filadelfo Jorge da Silva"
+
+III - Coral;
+
+IV - Corpo de Teatro;
+
+V - Grupos de Dança;
+
 VI - outros projetos desenvolvidos ou aprovados pela Fundação Municipal de Cultura."
 
-...............................................................................................................<br>
+...............................................................................................................
+
 Art. 2º-A O candidato que pleitear a concessão da Bolsa de Produção Cultural deverá preencher, cumulativamente, os seguintes requisitos:
 
 I - ter idade mínima de 16 (dezesseis) anos;

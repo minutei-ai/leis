@@ -195,7 +195,3 @@ Departamento de Obras Públicas do Estado de Minas Gerais – DEOP – MG
 Cargos em Comissão de Chefia e Assessoramento Intermediário
 
 DENOMINAÇÃO DO CARGO Nº DE CARGOS NÍVEL/GRAU ESCOLARIDADE EXIGIDA FATOR DE AJUSTAMENTO REFERÊNCIA P/ CÁLCULO Assessor II 05 1,00 12-I Superior Assessor I 04 1,00 12-C Superior Gerente Executivo III 07 1,00 12-I Superior Gerente Executivo II 34 1,00 12-C Superior Gerente Executivo I 06 1,00 09-G 2º grau Secretária III 03 0,66 12-B 2º grau Secretária II 07 0,59 12-B 2º grau Secretária I 11 0,52 12-B 2º grau Motorista do Diretor-Geral 02 0,34 12-B 1º grau
-
-\===========================
-
-Data da última atualização: 25/1/2011.

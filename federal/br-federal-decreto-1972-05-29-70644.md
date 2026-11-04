@@ -1,5 +1,3 @@
-###DEC-070644-0-000-29-05-1972@@@
-
 DECRETO Nº 70.644, de 29 de maio de 1972.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - da Universidade Federal Fluminense, cargos originários da Extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

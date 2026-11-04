@@ -1,5 +1,3 @@
-###DEC-068654-0-000-24-05-1971@@@
-
 DECRETO Nº 68.654, DE 24 DE MAIO DE 1971.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário, no município de Santo Amaro, Estado da Bahia.

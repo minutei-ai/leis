@@ -1,5 +1,3 @@
-###DEC-057925-0-000-04-03-1966@@@
-
 decreto nº 57.925, de 4 de março de 1966.
 
 Declara de utilidade pública a “Sociedade Paulista para o Desenvolvimento da Medicina”, com sede em São Paulo, Estado de São Paulo.

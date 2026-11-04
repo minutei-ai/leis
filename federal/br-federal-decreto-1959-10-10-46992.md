@@ -1,5 +1,3 @@
-###DEC-046992-0-000-10-10-1959@@@
-
 DECRETO Nº 46.992, DE 10 DE OUTUBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Paulista de Seguros.

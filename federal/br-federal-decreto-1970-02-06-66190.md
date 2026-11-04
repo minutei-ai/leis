@@ -1,5 +1,3 @@
-###DEC-066190-0-000-06-02-1970@@@
-
 DECRETO Nº 66.190 - DE 6 DE FEVEREIRO DE 1970
 
 Retifica o enquadramento de servidores do Ministério da Educação e Cultura amparados pelo parágrafo único do artigo 23 da Lei nº 4.069, de 11 de junho de 1962.

@@ -1,5 +1,3 @@
-###DEC-070076-0-000-28-01-1972@@@
-
 DECRETO Nº 70.076, DE 28 DE JANEIRO DE 1972.
 
 Autoriza a Superintendência de Seguros Privados - SUSEP a expedir normas regulamentares pertinentes à fiscalização de entidades que operam em seguros.

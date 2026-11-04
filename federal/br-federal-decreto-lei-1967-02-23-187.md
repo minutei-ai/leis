@@ -1,5 +1,3 @@
-###DEL-000187-0-000-23-02-1967@@@
-
 DECRETO-LEI Nº 187, DE 23 DE FEVEREIRO DE 1967
 
 Concede pensão especial à cidadã portuguêsa Mary Crispim Galvão, servidora da Delegacia do Tesouro Brasileiro no Exterior.

@@ -1,4 +1,5 @@
-LEI MUNICIPAL 3.326, DE 22 DE JULHO DE 2016.<br>
+LEI MUNICIPAL 3.326, DE 22 DE JULHO DE 2016.
+
 (Revogada pela Lei Ordinária nº 3.567, de 3 de julho de 2020).
 
 ~~“Cria e Denomina o abrigo provisório Dom Fernando Gomes dos Santos neste Município e dá outras providências”.~~
@@ -19,11 +20,14 @@ LEI MUNICIPAL 3.326, DE 22 DE JULHO DE 2016.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, Estado de Goiás, aos 22 dias do mês de julho do ano de 2016.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
-~~LEILIANE ROSA<br>
+~~LEILIANE ROSA
+
 Secretária Municipal de Assistência Social~~

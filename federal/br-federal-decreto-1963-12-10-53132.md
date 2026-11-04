@@ -1,5 +1,3 @@
-###DEC-053132-0-000-10-12-1963@@@
-
 DECRETO Nº 53.132, DE 10 DE DEZEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Beneditinos concessão para distribuir energia elétrica no município,

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210459)<br>
-
 # DECRETO N° 69.235, DE 23 DE DEZEMBRO DE 2024
 
 ### _Dá nova redação a dispositivos do Decreto n° 68.410, de 27 de março de 2024, que declara de utilidade pública, para fins de desapropriação, os imóveis necessários à instalação de unidades administrativas, no âmbito do Projeto PPP Campos Elíseos, no Município de São Paulo, e dá providências correlatas._

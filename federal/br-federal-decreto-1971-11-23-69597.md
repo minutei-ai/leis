@@ -1,5 +1,3 @@
-###DEC-069597-0-000-23-11-1971@@@
-
 DECRETO Nº 69.597 - DE 23 de NOVEMBRO DE 1971
 
 Declara de utilidade pública a Associação Alfenense de Proteção à Criança, com sede em Alfenas, Estado de Minas Gerais.

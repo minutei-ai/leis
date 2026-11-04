@@ -1,5 +1,3 @@
-###DEC-047965-0-000-31-03-1960@@@
-
 decreto nº 47.965, de 31 de março de 1960.
 
 Estende o serviço de praticagem nas vias fluviais dos rios da Prata, baixo e médio Paraná e Paraguai à praticagem civil.

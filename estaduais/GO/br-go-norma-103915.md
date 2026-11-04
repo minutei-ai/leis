@@ -18,7 +18,8 @@ V – Escola do Futuro do Estado de Goiás LUIZ RASSI, sediada na Avenida Rezend
 
 VI – Escola do Futuro do Estado de Goiás JOSÉ LUIZ BITTENCOURT, sediada na Rua BF– 25, esquina com a Avenida JC– 15, APM 10, Bairro Floresta, Goiânia/GO.
 
-VII – Escola do Futuro do Estado de Goiás em Tecnologia e Artes LABIBE FAIAD, sediada na Rua Dona Josefina, nº 1, Setor Nossa Senhora de Fátima, Catalão/GO.<br>
+VII – Escola do Futuro do Estado de Goiás em Tecnologia e Artes LABIBE FAIAD, sediada na Rua Dona Josefina, nº 1, Setor Nossa Senhora de Fátima, Catalão/GO.
+
 \- [Acrescido pela Lei nº 23.533, de 1º-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111008).
 
 Parágrafo Único. Fica criado o Núcleo de Educação a Distância Léo Lince do Carmo Almeida, subordinado à Escola do Futuro do Estado de Goiás JOSÉ LUIZ BITTENCOURT.
@@ -35,7 +36,8 @@ IV – Colégio Tecnológico do Estado de Goiás JERÔNIMO CARLOS DO PRADO, sedi
 
 V – Colégio Tecnológico do Estado de Goiás MARIA SEBASTIANA DA SILVA, sediado na Avenida Mutunópolis, s/nº, Setor Jardim Brasília, Porangatu/GO;
 
-~~VI – Colégio Tecnológico do Estado de Goiás em ARTES LABIBE FAIAD, sediado na Rua Dona Josefina, nº 1, Setor Nossa Senhora de Fátima, Catalão/GO;~~<br>
+~~VI – Colégio Tecnológico do Estado de Goiás em ARTES LABIBE FAIAD, sediado na Rua Dona Josefina, nº 1, Setor Nossa Senhora de Fátima, Catalão/GO;~~
+
 \- [Revogado pela Lei nº 23.533, de 1º-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111008), art. 2º.
 
 VII – Colégio Tecnológico do Estado de Goiás LUIZ HUMBERTO DE MENEZES, sediado na GO– 164, Km 5, Santa Helena de Goiás/GO;
@@ -68,7 +70,8 @@ Parágrafo único. As EFGs funcionarão com os servidores da Secretaria de Estad
 
 Art. 4º Serão transferidos para as EFGs e para os COTECs as competências, a estrutura, os acervos, os sistemas, o pessoal e os demais recursos necessários à execução de seus serviços que pertencem às unidades educacionais instituídas pelas leis mencionadas no art. 5º desta Lei.
 
-Art. 4º-A Serão transferidos para a Escola do Futuro do Estado de Goiás em Tecnologia e Artes LABIBE FAIAD a estrutura e os acervos necessários à execução de seus serviços pertencentes ao então Colégio Tecnológico do Estado de Goiás em ARTES LABIBE FAIAD.<br>
+Art. 4º-A Serão transferidos para a Escola do Futuro do Estado de Goiás em Tecnologia e Artes LABIBE FAIAD a estrutura e os acervos necessários à execução de seus serviços pertencentes ao então Colégio Tecnológico do Estado de Goiás em ARTES LABIBE FAIAD.
+
 \- [Acrescido pela Lei nº 23.533, de 1º-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111008).
 
 Art. 5º Ficam revogadas:

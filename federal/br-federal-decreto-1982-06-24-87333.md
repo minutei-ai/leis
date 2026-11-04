@@ -1,5 +1,3 @@
-###DEC-087333-0-000-24-06-1982@@@
-
 Decreto nº 87.333, de 24 de junho de 1982
 
 Aprova alterações introduzidas no Estatuto da Petróleo Brasileiro S.A. - PETRÓBRAS.

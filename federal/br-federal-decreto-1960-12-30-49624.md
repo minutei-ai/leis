@@ -1,5 +1,3 @@
-###DEC-049624-0-000-30-12-1960@@@
-
 DECRETO Nº 49.624, DE 30 DE DEZEMBO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Navega Trancho a pesquisar feldspato no município de Parati, Estado de Rio de Janeiro.

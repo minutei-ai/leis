@@ -1,6 +1,7 @@
 LEI Nº 5.022 DE 13 DE JUNHO DE 1989
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.355 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro de 2011, os limites dos Municípios de Baixa Grande, Capela do Alto Alegre, Gavião , Mairi , Nova Fátima , Pé de Serra , Pintadas , Riachão do Jacuípe, São José do Jacuípe , Várzea da Roça e Várzea do Poço. 
 
 Cria o Município de Nova Fátima, desmembrado do Município de Riachão do Jacuípe.

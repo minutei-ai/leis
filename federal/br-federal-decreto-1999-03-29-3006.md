@@ -1,5 +1,3 @@
-###DEC-003006-0-000-29-03-1999@@@
-
 DECRETO Nº 3.006, DE 29 DE MARÇO DE 1999.
 
 Dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz e dá outras providências.

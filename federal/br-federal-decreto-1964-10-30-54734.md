@@ -1,5 +1,3 @@
-###DEC-054734-0-000-30-10-1964@@@
-
 DECRETO Nº 54.734, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Almir Moraes a pesquisar quartzo no município de Marabá, Estado do Pará.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209735)<br>
-
 # LEI COMPLEMENTAR N° 1.406, DE 23 DE JULHO DE 2024
 
 ### _Dispõe sobre a criação e extinção de cargos no Quadro de Pessoal do Tribunal de Justiça Militar do Estado de São Paulo._
@@ -54,7 +52,8 @@ Arthur Luis Pinho de Lima  
 
 Secretário-Chefe da Casa Civil    
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 3° desta Lei Complementar.    
 
 #### ANALISTA DE SEGURANÇA DA INFORMAÇÃO JUDICIÁRIO. 

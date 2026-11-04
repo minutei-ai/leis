@@ -1,7 +1,3 @@
-1
-
-###DEC-098233-0-000-02-10-1989@@@
-
 DECRETO Nº 98.233, DE 2 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do Curso de Medicina Veterinária da Faculdade de Veterinária e Agronomia, em São Paulo, Capital.

@@ -1,5 +1,3 @@
-###DEC-077463-0-000-20-04-1976@@@
-
 Decreto nº 77.463 - de 20 de abril de 1976
 
 Regulamenta a Lei nº 6.297, de 15 de dezembro de 1975, que dispõe sobre a dedução do lucro tributável para fins de imposto sobre a renda das pessoa jurídicas, do dobro das despesas realizadas em projetos de formação profissional e dá outras providências.

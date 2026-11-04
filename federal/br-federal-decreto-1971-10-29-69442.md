@@ -1,5 +1,3 @@
-###DEC-069442-0-000-29-10-1971@@@
-
 decreto nº 69.442 - de 29 de outubro de 1971
 
 Institui a Comissão Naval Brasileira na Europa, extingue Comissões de Fiscalização e Recebimento de Submarinos, de Navios Varredores e de Fragatas, sediadas na Inglaterra e na Alemanha, e dá outras providências.

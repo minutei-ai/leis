@@ -1,5 +1,3 @@
-###DEC-047203-0-000-06-11-1959@@@
-
 DECRETO Nº 47.203, DE 06 DE novembro DE 1959.
 
 Autoriza o cidadão brasileiro Angelino Ramos a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001904-0-000-13-05-1996@@@
-
 # DECRETO Nº 1.904, DE 13 DE MAIO DE 1996.
 
 Institui o Programa Nacional de Direitos Humanos - PNDH.

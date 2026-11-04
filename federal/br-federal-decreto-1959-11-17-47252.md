@@ -1,5 +1,3 @@
-###DEC-047252-0-000-17-11-1959@@@
-
 DECRETO Nº 47.252, DE 17 DE NOVEMBRO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$10.000.000,00 para atender às despesas de que trata o art. 7º, § 1º da Lei nº 3.426, de 10 de julho de 1958.

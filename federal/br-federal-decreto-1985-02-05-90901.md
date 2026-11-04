@@ -1,5 +1,3 @@
-###DEC-090901-0-000-05-02-1985@@@
-
 Decreto nº 90.901, de 05 de fevereiro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Morro Agudo da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

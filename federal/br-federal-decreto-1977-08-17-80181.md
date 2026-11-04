@@ -1,5 +1,3 @@
-###DEC-080181-0-000-17-08-1977@@@
-
 DECRETO Nº 80.181, DE 17 DE AGOSTO DE 1977.
 
 Autoriza a transformação do curso de Desenho e Plásticas em curso de Educação Artística, da Faculdade de Filosofia, Ciências e Letras de Tatui, com sede na cidade de Tatui, Estado de São Paulo.

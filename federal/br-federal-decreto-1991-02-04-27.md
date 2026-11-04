@@ -1,5 +1,3 @@
-###DEC-000027-0-000-04-02-1991@@@
-
 DECRETO Nº 27, DE 04 DE FEVEREIRO DE 1991
 
 Confere à Comissão Especial instituída pelo Decreto nº 99.97l, de 3 de janeiro de 1991, atribuições para propor a revisão do Estatuto do índio e da legislação correlata.

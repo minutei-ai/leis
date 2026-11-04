@@ -1,5 +1,3 @@
-###DEC-083752-0-000-19-07-1979@@@
-
 DECRETO 83.752 DE 19 DE JULHO DE 1979
 
 Concede à empresa Expreso General Urquiza S.R.L. autorização para funcionar na república Federativa do Brasil sob a denominação de Expreso General Urquiza S.R.L. para o Brasil.

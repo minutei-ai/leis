@@ -1,5 +1,3 @@
-###DEC-073337-0-000-19-12-1973@@@
-
 decreto nº 73.337 - de 19 de dezembro de 1973
 
 Concede permissão, em caráter permanente á empresa Citrosuco Paulista S.A. - Indústria e Comércio, com sede no Município de Matão, Estado de São Paulo, para funcionar aos domingos e nos dias de feriados civis e religiosos.

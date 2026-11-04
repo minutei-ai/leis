@@ -1,5 +1,3 @@
-###DEC-081560-0-000-13-04-1978@@@
-
 Decreto nº 81.560, de 13 de abril de 1978.
 
 Revoga o Decreto nº 73.457, de 15 de janeiro de 1974, que concedeu à empresa Thomson-CSF autorização para funcionar na República Federativa do Brasil.

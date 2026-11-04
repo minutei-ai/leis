@@ -212,153 +212,277 @@ LUCIANO DE MELLO MOTTA
 
 LUIZ HELVECIO DE SANTIAGO ARAÚJO
 
-**<br>
+**
+
 **
 
 **ANEXO I**
 
 **QUADRO PERMANENTE DO PESSOAL CIVIL DO PODER EXECUTIVO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="586" style="width:439.65pt;margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">CARGO</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NÍVEL</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ASSESSOR JURÍDICO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">318</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ARQUITETO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">19</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ASSISTENTE SOCIAL AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">50</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">BIBLIOTECÁRIO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">13</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">BIOMÉDICO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">11</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ECONOMISTA AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">13</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ENFERMEIRO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">66</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ENGENHEIRO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">66</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">FISIOTERAPEUTA AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">8</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">FARMACJUTICO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">36</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">MÉDICO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">SM-1</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">777</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">NUTRICIONISTA AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">22</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ODONTOLOGISTA AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">235</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PSICÓLOGO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">56</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PESQUISADOR AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">5</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">QUÍMICO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">4</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ADMINISTRADOR AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TÉCNICO DE NÍVEL SUPERIOR AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">680</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">VETERINÁRIO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">7</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ZOOTECNISTA AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">CONTADOR AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TEC. EM RELAÇÕES PÚBLICAS AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">7</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">BIOQUÍMICO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">2</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AGRÔNOMO AUXILIAR</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">2</p></td></tr><tr><td width="56%" style="width:56.04%;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TOTAL:&nbsp;&nbsp;&nbsp;&nbsp;</p></td><td width="19%" style="width:19.44%;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="24%" style="width:24.52%;border:solid windowtext 1.0pt;border-bottom:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">2.414</p></td></tr></tbody></table>
+CARGO
+
+NÍVEL
+
+QUANTITATIVO
+
+ASSESSOR JURÍDICO AUXILIAR
+
+NU-6
+
+318
+
+ARQUITETO AUXILIAR
+
+NU-6
+
+19
+
+ASSISTENTE SOCIAL AUXILIAR
+
+NU-6
+
+50
+
+BIBLIOTECÁRIO AUXILIAR
+
+NU-6
+
+13
+
+BIOMÉDICO AUXILIAR
+
+NU-6
+
+11
+
+ECONOMISTA AUXILIAR
+
+NU-6
+
+13
+
+ENFERMEIRO AUXILIAR
+
+NU-6
+
+66
+
+ENGENHEIRO AUXILIAR
+
+NU-6
+
+66
+
+FISIOTERAPEUTA AUXILIAR
+
+NU-6
+
+8
+
+FARMACJUTICO AUXILIAR
+
+NU-6
+
+36
+
+MÉDICO AUXILIAR
+
+SM-1
+
+777
+
+NUTRICIONISTA AUXILIAR
+
+NU-6
+
+22
+
+ODONTOLOGISTA AUXILIAR
+
+NU-6
+
+235
+
+PSICÓLOGO AUXILIAR
+
+NU-6
+
+56
+
+PESQUISADOR AUXILIAR
+
+NU-6
+
+5
+
+QUÍMICO AUXILIAR
+
+NU-6
+
+4
+
+ADMINISTRADOR AUXILIAR
+
+NU-6
+
+15
+
+TÉCNICO DE NÍVEL SUPERIOR AUXILIAR
+
+NU-6
+
+680
+
+VETERINÁRIO AUXILIAR
+
+NU-6
+
+7
+
+ZOOTECNISTA AUXILIAR
+
+NU-6
+
+1
+
+CONTADOR AUXILIAR
+
+NU-6
+
+1
+
+TEC. EM RELAÇÕES PÚBLICAS AUXILIAR
+
+NU-6
+
+7
+
+BIOQUÍMICO AUXILIAR
+
+NU-6
+
+2
+
+AGRÔNOMO AUXILIAR
+
+NU-6
+
+2
+
+TOTAL:
+
+2.414
 
 Fonte: S.I.G.A.P.
 
-**<br>
+**
+
 **
 
 **QUADRO PERMANENTE DO PESSOAL CIVIL DO PODER EXECUTIVO**
 
 **NÍVEL ADMINISTRATIVO - NA – 1**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="586" style="width:439.45pt;margin-left:.4pt;border-collapse:collapse;border:none"><tbody><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="15%" style="width:15.56%;border:solid black 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PADRÃO</p></td><td width="21%" style="width:21.52%;border:solid black 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE DE SAÚDE</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1.892</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE DE SAÚDE</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">30</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE DE AGROPECUÁRIA</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">59</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE DE AGROPECUÁRIA</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE DE SERV. DE ENG. E ARQUITETURA</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">3</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE ADMINISTRATIVO</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">5.659</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AGENTE ADMINISTRATIVO</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">26</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">DATILOGRAFO</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">4</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">DATILOGRAFO</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">0</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">AUXILIAR DE SERVIÇOS ADMINISTRATIVOS</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">5.713</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">ARTÍFICE DE ELETRICIDADE</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">2</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">ARTÍFICE DE MECÂNICA</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">2</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">ARTÍFICE</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">A</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">85</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">ARTÍFICE</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">B</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">ARTÍFICE</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">C</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">40</p></td></tr><tr><td width="62%" style="width:62.92%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal">TOTAL:&nbsp;&nbsp;&nbsp;&nbsp;</p></td><td width="15%" style="width:15.56%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="21%" style="width:21.52%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">13.517</p></td></tr></tbody></table>
+CARGO
+
+PADRÃO
+
+QUANTITATIVO
+
+AGENTE DE SAÚDE
+
+A
+
+1.892
+
+AGENTE DE SAÚDE
+
+B
+
+30
+
+AGENTE DE AGROPECUÁRIA
+
+A
+
+59
+
+AGENTE DE AGROPECUÁRIA
+
+B
+
+1
+
+AGENTE DE SERV. DE ENG. E ARQUITETURA
+
+-
+
+3
+
+AGENTE ADMINISTRATIVO
+
+A
+
+5.659
+
+AGENTE ADMINISTRATIVO
+
+B
+
+26
+
+DATILOGRAFO
+
+A
+
+4
+
+DATILOGRAFO
+
+B
+
+0
+
+AUXILIAR DE SERVIÇOS ADMINISTRATIVOS
+
+A
+
+5.713
+
+ARTÍFICE DE ELETRICIDADE
+
+A
+
+2
+
+ARTÍFICE DE MECÂNICA
+
+-
+
+2
+
+ARTÍFICE
+
+A
+
+85
+
+ARTÍFICE
+
+B
+
+1
+
+ARTÍFICE
+
+C
+
+40
+
+TOTAL:
+
+13.517
 
 Fonte: S.I.G.A.P
 
@@ -366,85 +490,139 @@ Fonte: S.I.G.A.P
 
 **NÍVEL ADMINISTRATIVO - NA – 3**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="589" style="width:441.75pt;margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="62%" style="width:62.6%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="15%" style="width:15.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">PADRÃO</p></td><td width="21%" style="width:21.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p></td></tr><tr><td width="62%" style="width:62.6%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AGENTE ADMINISTRATIVO</p></td><td width="15%" style="width:15.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">D</p></td><td width="21%" style="width:21.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">12</p></td></tr><tr><td width="62%" style="width:62.6%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">MOTORISTA</p></td><td width="15%" style="width:15.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">-</p></td><td width="21%" style="width:21.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">359</p></td></tr><tr><td width="62%" style="width:62.6%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TOTAL:&nbsp;&nbsp;&nbsp;</p></td><td width="15%" style="width:15.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="21%" style="width:21.74%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">371</p></td></tr></tbody></table>
+CARGO
+
+PADRÃO
+
+QUANTITATIVO
+
+AGENTE ADMINISTRATIVO
+
+D
+
+12
+
+MOTORISTA
+
+-
+
+359
+
+TOTAL:
+
+371
 
 Fonte: S.I.G.A.P.
 
 **QUADRO PERMANENTE DO PESSOAL CIVIL DO PODER EXECUTIVO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="589" style="width:441.75pt;margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NÍVEL/PADRÃO</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS1</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">M</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1.613</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS2</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">N</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">2.759</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS3</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">O</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">530</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS4</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">P</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">192</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS5</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-3</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">279</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS6</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-4</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">119</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS7</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">5.376</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS8</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-7</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1.590</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR FS9</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-8</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">286</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR SEM HAB. ESPECÍFICA FS4</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">P</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">742</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">PROFESSOR PROFISSIONALIZANTE FS5</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-3</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">58</p></td></tr><tr><td width="54%" style="width:54.66%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TOTAL:&nbsp;&nbsp;&nbsp;&nbsp;</p></td><td width="23%" style="width:23.76%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="21%" style="width:21.56%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">13.544</p></td></tr></tbody></table>
+CARGO
+
+NÍVEL/PADRÃO
+
+QUANTITATIVO
+
+PROFESSOR FS1
+
+M
+
+1.613
+
+PROFESSOR FS2
+
+N
+
+2.759
+
+PROFESSOR FS3
+
+O
+
+530
+
+PROFESSOR FS4
+
+P
+
+192
+
+PROFESSOR FS5
+
+NU-3
+
+279
+
+PROFESSOR FS6
+
+NU-4
+
+119
+
+PROFESSOR FS7
+
+NU-6
+
+5.376
+
+PROFESSOR FS8
+
+NU-7
+
+1.590
+
+PROFESSOR FS9
+
+NU-8
+
+286
+
+PROFESSOR SEM HAB. ESPECÍFICA FS4
+
+P
+
+742
+
+PROFESSOR PROFISSIONALIZANTE FS5
+
+NU-3
+
+58
+
+TOTAL:
+
+13.544
 
 Fonte: S.I.G.A.P.
 
 **QUADRO PERMANENTE DO PESSOAL CIVIL DO PODER EXECUTIVO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="593" style="margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="56%" style="width:56.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="21%" style="width:21.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NÍVEL</p></td><td width="22%" style="width:22.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p></td></tr><tr><td width="56%" style="width:56.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ESPECIALISTA EM EDUCAÇÃO FS-IV</p></td><td width="21%" style="width:21.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-6</p></td><td width="22%" style="width:22.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">13</p></td></tr><tr><td width="56%" style="width:56.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ESPECIALISTA EM EDUCAÇÃO FS-IV</p></td><td width="21%" style="width:21.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-7</p></td><td width="22%" style="width:22.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="56%" style="width:56.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">ESPECIALISTA EM EDUCAÇÃO FS-IV</p></td><td width="21%" style="width:21.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NU-8</p></td><td width="22%" style="width:22.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">1</p></td></tr><tr><td width="56%" style="width:56.7%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TOTAL:&nbsp;&nbsp;&nbsp;</p></td><td width="21%" style="width:21.26%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">&nbsp;</p></td><td width="22%" style="width:22.06%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15</p></td></tr></tbody></table>
+CARGO
+
+NÍVEL
+
+QUANTITATIVO
+
+ESPECIALISTA EM EDUCAÇÃO FS-IV
+
+NU-6
+
+13
+
+ESPECIALISTA EM EDUCAÇÃO FS-IV
+
+NU-7
+
+1
+
+ESPECIALISTA EM EDUCAÇÃO FS-IV
+
+NU-8
+
+1
+
+TOTAL:
+
+15
 
 Fonte: Secretaria de Educação.
 
@@ -452,135 +630,261 @@ Fonte: Secretaria de Educação.
 
 **SISTEMA DE IMPRENSA**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="583" style="width:436.95pt;margin-left:.5pt;border:solid windowtext 1.0pt"><tbody><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">CARGOS EFETIVOS</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">NÍVEL</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">QUANTITATIVO</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VENC.</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AUXILIAR DE SERVIÇO</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">III</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">6.761,80</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AGENTE ADMINISTRATIVO A</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">I</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">6.992,01</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AGENTE ADMINISTRATIVO A</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">III</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">8.219,43</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">MOTORISTA</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">I</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">03</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">8.947,36</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">MOTORISTA</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">III</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">10.889,38</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AGENTE ADMINISTRATIVO B</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">I</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">03</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">11.051,00</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">AGENTE ADMINISTRATIVO B</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">III</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">08</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">13.005,84</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA I</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-B</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">14.998,88</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA I</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-C</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">15.748,72</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA I</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-D</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">16.536,15</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA I</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-E</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">17.362,94</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA I</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-F</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">04</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">18.231,02</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA II</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-AB</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">16.536,15</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA II</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-AE</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">19.142,56</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA II</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">15-AF</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">10</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">20.099,68</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA III</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">16-B</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">23</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">22.231,64</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA III</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">16-C</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">23.343,19</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA III</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">16-D</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">08</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">24.510,26</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA III</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">16-E</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">04</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">25.735,76</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA III</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">16-F</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">09</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">27.022,47</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA IV</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">17-B</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">29.792,22</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA IV</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">17-C</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">04</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">31.281,79</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA IV</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">17-D</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">32.845,86</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA IV</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">17-E</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">03</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">34.488,13</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA IV</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">17-F</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">36.212,54</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA V</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">18-B</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">39.924,32</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA V</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">18-D</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">44.016,51</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA VI</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">19-B</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">02</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">53.502,08</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">JORNALISTA VI</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">19-C</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">56.177,19</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TEC. NÍVEL SUPERIOR</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">I</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">19.554,51</p></td></tr><tr><td width="41%" style="width:41.68%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify">TEC. NÍVEL SUPERIOR</p></td><td width="20%" style="width:20.24%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VII</p></td><td width="25%" style="width:25.36%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">03</p></td><td width="12%" style="width:12.72%;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">39.555,34</p></td></tr></tbody></table>
+CARGOS EFETIVOS
+
+NÍVEL
+
+QUANTITATIVO
+
+VENC.
+
+AUXILIAR DE SERVIÇO
+
+III
+
+02
+
+6.761,80
+
+AGENTE ADMINISTRATIVO A
+
+I
+
+02
+
+6.992,01
+
+AGENTE ADMINISTRATIVO A
+
+III
+
+02
+
+8.219,43
+
+MOTORISTA
+
+I
+
+03
+
+8.947,36
+
+MOTORISTA
+
+III
+
+02
+
+10.889,38
+
+AGENTE ADMINISTRATIVO B
+
+I
+
+03
+
+11.051,00
+
+AGENTE ADMINISTRATIVO B
+
+III
+
+08
+
+13.005,84
+
+JORNALISTA I
+
+15-B
+
+02
+
+14.998,88
+
+JORNALISTA I
+
+15-C
+
+02
+
+15.748,72
+
+JORNALISTA I
+
+15-D
+
+01
+
+16.536,15
+
+JORNALISTA I
+
+15-E
+
+01
+
+17.362,94
+
+JORNALISTA I
+
+15-F
+
+04
+
+18.231,02
+
+JORNALISTA II
+
+15-AB
+
+01
+
+16.536,15
+
+JORNALISTA II
+
+15-AE
+
+01
+
+19.142,56
+
+JORNALISTA II
+
+15-AF
+
+10
+
+20.099,68
+
+JORNALISTA III
+
+16-B
+
+23
+
+22.231,64
+
+JORNALISTA III
+
+16-C
+
+02
+
+23.343,19
+
+JORNALISTA III
+
+16-D
+
+08
+
+24.510,26
+
+JORNALISTA III
+
+16-E
+
+04
+
+25.735,76
+
+JORNALISTA III
+
+16-F
+
+09
+
+27.022,47
+
+JORNALISTA IV
+
+17-B
+
+02
+
+29.792,22
+
+JORNALISTA IV
+
+17-C
+
+04
+
+31.281,79
+
+JORNALISTA IV
+
+17-D
+
+01
+
+32.845,86
+
+JORNALISTA IV
+
+17-E
+
+03
+
+34.488,13
+
+JORNALISTA IV
+
+17-F
+
+01
+
+36.212,54
+
+JORNALISTA V
+
+18-B
+
+02
+
+39.924,32
+
+JORNALISTA V
+
+18-D
+
+01
+
+44.016,51
+
+JORNALISTA VI
+
+19-B
+
+02
+
+53.502,08
+
+JORNALISTA VI
+
+19-C
+
+01
+
+56.177,19
+
+TEC. NÍVEL SUPERIOR
+
+I
+
+01
+
+19.554,51
+
+TEC. NÍVEL SUPERIOR
+
+VII
+
+03
+
+39.555,34
 
 FONTE: Secretaria de Imprensa
 

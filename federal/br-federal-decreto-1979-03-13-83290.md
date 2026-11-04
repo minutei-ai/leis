@@ -1,5 +1,3 @@
-###DEC-083290-0-000-13-03-1979@@@
-
 Decreto nº 83.290, de 13 de março de 1979.
 
 Dispõe sobre a Classificação de Produtos Artesanais e Identificação Profissional do Artesão e dá a outras providências.

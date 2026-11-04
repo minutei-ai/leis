@@ -1,6 +1,10 @@
 > **LEI Nº 4.303, DE 03 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre as condições de repouso dos profissionais de saúde do Estado, durante o horário de trabalho.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre as condições de repouso dos profissionais de saúde do Estado, durante o horário de trabalho.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

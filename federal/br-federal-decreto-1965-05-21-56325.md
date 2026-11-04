@@ -1,5 +1,3 @@
-###DEC-056325-0-000-21-05-1965@@@
-
 decreto nº 56.325, de 21 de maio de 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$75.800.000 para o fim que menciona.

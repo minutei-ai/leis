@@ -1,5 +1,3 @@
-###MPV-000204-0-000-02-08-2004@@@
-
 MEDIDA PROVISÓRIA Nº 204, DE 2 DE AGOSTO 2004
 
 Autoriza o Poder Executivo a fornecer ajuda humanitária à República do Paraguai com a finalidade de dar suporte às vítimas do incêndio ocorrido na cidade de Assunção, em 1º de agosto de 2004.

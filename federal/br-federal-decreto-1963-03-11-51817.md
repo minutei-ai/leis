@@ -1,5 +1,3 @@
-###DEC-051817-0-000-11-03-1963@@@
-
 DECRETO Nº 51.817, DE 11 DE MARÇO DE 1963.
 
 Autoriza o cidadão brasileiro Tataounoff Souliman a pesquisar diamante e ouro no município de Diamantina, Estado de Minas Gerais.

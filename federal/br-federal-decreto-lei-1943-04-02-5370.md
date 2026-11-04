@@ -1,5 +1,3 @@
-###DEL-005370-0-000-02-04-1943@@@
-
 DECRETO‑LEI N. 5.370 – DE 2 DE ABRIL DE 1943
 
 Cria o 13º Grupo Movel de Artilharia de Costa, na 1ª Região Militar

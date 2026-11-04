@@ -1,5 +1,3 @@
-###DEC-001896-0-000-06-05-1996@@@
-
 DECRETO N° 1.896, DE 6 DE MAIO DE 1996.
 
 Dá nova redação ao § 2° do artigo 1° do Decreto n° 1.778, de 9 de janeiro de 1996 e dá outras providências.

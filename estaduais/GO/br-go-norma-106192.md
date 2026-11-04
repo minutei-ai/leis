@@ -1,4 +1,5 @@
-DECRETO Nº 10.158, DE 21 DE OUTUBRO DE 2022<br>
+DECRETO Nº 10.158, DE 21 DE OUTUBRO DE 2022
+
 \- [Vide Decreto nº 10.171, de 29-11-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106363/decreto-10171).
 
 Altera a estrutura organizacional da Secretaria de Estado da Educação.
@@ -93,8 +94,6 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação, porém seus ef
 
 Goiânia, 21 de outubro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -103,6 +102,6 @@ ANEXO ÚNICO
 
 “ANEXO I
 
-<table style="height: 238.175px; width: 80.0467%; margin-left: auto; margin-right: auto;"><tbody><tr style="height: 19.019px;"><td style="text-align: center; width: 38.5528%; height: 57.057px;" rowspan="2"><strong>ÓRGÃO OU ENTIDADE/<br>ESTRUTURA BÁSICA E COMPLEMENTAR</strong></td><td style="text-align: center; width: 16.8065%; height: 57.057px;" rowspan="2"><strong>CLASSIFICAÇÃO</strong></td><td style="text-align: center; width: 32.1974%; height: 19.019px;" colspan="4"><strong>CARGOS EM COMISSÃO</strong></td></tr><tr style="height: 38.038px;"><td style="text-align: center; width: 15.1846%; height: 38.038px;"><strong>DENOMINAÇÃO<br>DO CARGO</strong></td><td style="text-align: center; width: 8.16285%; height: 38.038px;"><strong>QTDE.</strong></td><td class="texto-centralizado" style="width: 8.84996%; height: 38.038px;" colspan="2"><strong>SÍMBOLO</strong></td></tr><tr style="height: 19.019px;"><td class="texto-centralizado" style="width: 87.5566%; height: 19.019px;" colspan="6">I – ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO</td></tr><tr style="height: 19.019px;"><td class="texto-centralizado" style="width: 87.5566%; height: 19.019px;" colspan="6">............................................................................</td></tr><tr style="height: 19.019px;"><td class="texto-centralizado" style="width: 87.5566%; height: 19.019px;" colspan="6">p) SECRETARIA DE ESTADO DA EDUCAÇÃO – SEDUC</td></tr><tr style="height: 19.019px;"><td class="texto-centralizado" style="width: 87.5566%; height: 19.019px;" colspan="6">............................................................................</td></tr><tr style="height: 47.9855px;"><td style="width: 38.5528%; height: 47.9855px;">2.4.1. Gerência do Contencioso Especial</td><td style="width: 16.8065%; height: 47.9855px; text-align: center;">.............................</td><td style="width: 15.1846%; height: 47.9855px; text-align: center;">............................</td><td class="texto-centralizado" style="width: 8.16285%; height: 47.9855px; text-align: center;" colspan="2">..............</td><td style="width: 8.84996%; height: 47.9855px; text-align: center;"><p>..............</p></td></tr><tr style="height: 38.038px;"><td style="width: 38.5528%; height: 38.038px;">2.4.2. Gerência do Contencioso Ordinário</td><td style="width: 16.8065%; height: 38.038px; text-align: center;">.............................</td><td style="width: 15.1846%; height: 38.038px; text-align: center;">............................</td><td class="texto-centralizado" style="width: 8.16285%; height: 38.038px; text-align: center;" colspan="2">..............</td><td style="width: 8.84996%; height: 38.038px; text-align: center;">..............</td></tr><tr style="height: 19.019px;"><td class="texto-centralizado" style="width: 87.5566%; height: 19.019px;" colspan="6">............................................................................</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">**ÓRGÃO OU ENTIDADE/ ESTRUTURA BÁSICA E COMPLEMENTAR**</td><td rowspan="2">**CLASSIFICAÇÃO**</td><td colspan="4">**CARGOS EM COMISSÃO**</td></tr><tr><td>**DENOMINAÇÃO DO CARGO**</td><td>**QTDE.**</td><td colspan="2">**SÍMBOLO**</td></tr><tr><td colspan="6">I – ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO</td></tr><tr><td colspan="6">............................................................................</td></tr><tr><td colspan="6">p) SECRETARIA DE ESTADO DA EDUCAÇÃO – SEDUC</td></tr><tr><td colspan="6">............................................................................</td></tr><tr><td>2.4.1. Gerência do Contencioso Especial</td><td>.............................</td><td>............................</td><td colspan="2">..............</td><td> .............. </td></tr><tr><td>2.4.2. Gerência do Contencioso Ordinário</td><td>.............................</td><td>............................</td><td colspan="2">..............</td><td>..............</td></tr><tr><td colspan="6">............................................................................</td></tr></tbody></table>
 
 ” (NR)

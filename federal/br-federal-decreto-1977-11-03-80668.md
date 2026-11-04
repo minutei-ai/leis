@@ -1,5 +1,3 @@
-###DEC-080668-0-000-03-11-1977@@@
-
 DECRETO Nº 80.668, DE 03 DE NOVEMBRO DE 1977.
 
 Altera o Regulamento do Departamento de Material Bélico do Ministério do Exército, aprovado pelo Decreto nº 72.998, de 24 de outubro de 1973, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087006-0-000-10-03-1982@@@
-
 # decreto nº 87.006, de 10 de março de 1982
 
 Dispõe sobre o enquadramento de programa especial de exportação no artigo 6º do Decreto nº 77.065, de 20 de janeiro de 1976.

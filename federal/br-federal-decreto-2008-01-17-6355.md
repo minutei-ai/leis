@@ -1,5 +1,3 @@
-###DEC-006355-0-000-17-01-2008@@@
-
 DECRETO Nº 6.355, DE 17 DE JANEIRO DE 2008.
 
 Promulga o Acordo, por troca de Notas, entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América, com as finalidades de facilitar a transferência da titularidade de imóveis diplomáticos e consulares, inclusive residenciais, de propriedade do Governo dos Estados Unidos da América no território brasileiro, e de estabelecer procedimentos para instalação e funcionamento em território norte-americano de Repartições diplomáticas e consulares brasileiras, celebrado em Brasília, em 1o de junho de 2007.
@@ -22,11 +20,7 @@ Brasília, 17 de janeiro de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 18.1.2008
-
-G/SGEX/SGAP/001/APAT-BRAS-EUA
+Samuel Pinheiro Guimarães NetoG/SGEX/SGAP/001/APAT-BRAS-EUA
 
 Brasília, 01 de junho de 2007.
 

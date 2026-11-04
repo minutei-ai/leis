@@ -1,5 +1,3 @@
-###DEC-095061-0-000-19-10-1987@@@
-
 DECRETO Nº 95.061, DE 19 DE OUTUBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra necessária à construção do Açude Público "ANAGÉ", nos Municípios de Anagé e Tremedal, Estado da Bahia, e dá outras providências.

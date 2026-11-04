@@ -1,5 +1,3 @@
-###DEC-054492-0-000-16-10-1964@@@
-
 Decreto nº 54.492, de 16 de outubro de 1964.
 
 Dispõe sôbre a retribuição de atividades didáticas exercidas na Escola Nacional de Saúde Pública.

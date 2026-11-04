@@ -1,14 +1,12 @@
-###DEC-042756-0-000-07-12-1957@@@
+**DECRETO Nº 42.756, DE 07 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.756, DE 07 DE DEZEMBRO DE 1957.</strong>
+***Cria funções na Parte Suplementar da Tabela Única de Extranumerário-mensalista do Ministério da Educação e Cultura e dá outras providências.***
 
-<em><strong>Cria funções na Parte Suplementar da Tabela Única de Extranumerário-mensalista do Ministério da Educação e Cultura e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o disposto no § 3º do artigo 3º da Lei nº 2.721, de 30 de janeiro de 1956,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o disposto no § 3º do artigo 3º da Lei nº 2.721, de 30 de janeiro de 1956,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam criadas, na Parte Suplementar da Tabela Única de Extranumerário-mensalista do Ministério da Educação e Cultura, as seguintes funções de:
+**Art**. 1º Ficam criadas, na Parte Suplementar da Tabela Única de Extranumerário-mensalista do Ministério da Educação e Cultura, as seguintes funções de:
 
 1 - Assistente Ensino, referência 27;
 
@@ -30,12 +28,12 @@
 
 Parágrafo único. As funções previstas neste artigo destinam-se ao aproveitamento do pessoal administrativo e docente da Faculdade de Direito de Niterói, nos têrmos do § 3º do artigo 3º da Lei nº 2.721, de 30 de janeiro de 1956.
 
-<strong>Art</strong>. 2º Serão expedidas pelo Ministro do Estado da Educação e Cultura as portarias decorrentes do aproveitamento, a que se refere o artigo anterior, cujos efeitos, prevalecerão, na conformidade do disposto no artigo 3º da referida Lei nº 2.721, a partir de 30 de janeiro de 1956, data da vigência da mesma.
+**Art**. 2º Serão expedidas pelo Ministro do Estado da Educação e Cultura as portarias decorrentes do aproveitamento, a que se refere o artigo anterior, cujos efeitos, prevalecerão, na conformidade do disposto no artigo 3º da referida Lei nº 2.721, a partir de 30 de janeiro de 1956, data da vigência da mesma.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clovis Salgado

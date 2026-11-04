@@ -1,5 +1,3 @@
-###DEC-077534-0-000-30-04-1976@@@
-
 DECRETO Nº 77.534 - DE 30 DE ABRIL DE 1976
 
 O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 81, item III, da Constituição, e tendo em vista o que consta do Processo nº 2.760-76-MT,

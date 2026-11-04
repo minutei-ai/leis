@@ -28,6 +28,34 @@ Governador do Estado
 
 ~~DIAS ALUSIVOS~~
 
-<table><tbody><tr><td><p><s>........</s></p></td><td><p><s>......................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr><tr><td><p><s>DIA</s></p></td><td><p><s>ABRIL</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>........</s></p></td><td><p><s>......................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr><tr><td><p><s>12</s></p></td><td><p></p><p><s>Dia Estadual Contra a Psicofobia</s></p><p><s>A data tem como finalidade a promoção de palestras, seminários e ações educativas voluntárias, para conscientizar a população sobre o estigma, o preconceito e a discriminação relacionados às pessoas com sofrimento psicossocial.</s></p><p></p></td><td><p></p></td></tr><tr><td><p><s>........</s></p></td><td><p><s>......................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr></tbody></table>
+~~........~~
+
+~~......................................................................................~~
+
+~~.............................~~
+
+~~DIA~~
+
+~~ABRIL~~
+
+~~LEI ORIGINAL Nº~~
+
+~~........~~
+
+~~......................................................................................~~
+
+~~.............................~~
+
+~~12~~
+
+~~Dia Estadual Contra a Psicofobia~~
+
+~~A data tem como finalidade a promoção de palestras, seminários e ações educativas voluntárias, para conscientizar a população sobre o estigma, o preconceito e a discriminação relacionados às pessoas com sofrimento psicossocial.~~
+
+~~........~~
+
+~~......................................................................................~~
+
+~~.............................~~
 
 ~~” (NR)~~

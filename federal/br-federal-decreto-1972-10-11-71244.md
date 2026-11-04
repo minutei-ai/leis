@@ -1,5 +1,3 @@
-###DEC-071244-0-000-11-10-1972@@@
-
 Decreto nº 71.244, de 11 de outubro de 1972.
 
 Estabelece normas para a concessão de auxílio financeiro aos sistemas estaduais de ensino.

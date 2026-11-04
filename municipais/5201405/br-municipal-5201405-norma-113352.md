@@ -26,19 +26,48 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 12 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil
 
-ANDRE LUIS FERREIRA DA ROSA<br>
-Secretário de Fazenda<br>
+ANDRE LUIS FERREIRA DA ROSA
+
+Secretário de Fazenda
+
  
 
 ANEXO VIII-A
 
-<br>
 CARGOS DE PROVIMENTO EFETIVO DA CARREIRA ÚNICA DA GUARDA CIVIL  MUNICIPAL DE APARECIDA DE GOIÂNIA
 
-<table align="center" class="Table" style="border-collapse:collapse; border:none"><tbody><tr><td style=" width:347px;  height:44px;    "><b>Cargo</b></td><td style=" width:113px;  height:44px;    "><b>GRATIFICAÇÃO ESPECIAL (VALOR)</b></td></tr><tr><td style=" width:347px;  height:44px;   ">Guarda Civil Municipal de Classe II</td><td style=" width:113px;  height:44px;   ">92,09</td></tr><tr><td style=" width:347px;  height:44px;   ">Guarda Civil Municipal de Classe I</td><td style=" width:113px;  height:44px;   ">92,09</td></tr><tr><td style=" width:347px;  height:44px;   ">Guarda Civil Municipal Inspetor de Classe III</td><td style=" width:113px;  height:44px;   ">92,09</td></tr><tr><td style=" width:347px;  height:44px;   ">Guarda Civil Municipal Inspetor de Classe II</td><td style=" width:113px;  height:44px;   ">92,09</td></tr><tr><td style=" width:347px;  height:44px;   ">Guarda Civil Municipal Inspetor de Classe I</td><td style=" width:113px;  height:44px;   ">92,09</td></tr><tr><td style=" width:347px;  height:44px;   ">Guarda Civil Municipal Inspetor de Classe Especial</td><td style=" width:113px;  height:44px;   ">92,09</td></tr></tbody></table>
+**Cargo**
+
+**GRATIFICAÇÃO ESPECIAL (VALOR)**
+
+Guarda Civil Municipal de Classe II
+
+92,09
+
+Guarda Civil Municipal de Classe I
+
+92,09
+
+Guarda Civil Municipal Inspetor de Classe III
+
+92,09
+
+Guarda Civil Municipal Inspetor de Classe II
+
+92,09
+
+Guarda Civil Municipal Inspetor de Classe I
+
+92,09
+
+Guarda Civil Municipal Inspetor de Classe Especial
+
+92,09

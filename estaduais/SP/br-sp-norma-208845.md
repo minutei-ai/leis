@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208845)<br>
-
 # DECRETO N° 68.112, DE 28 DE NOVEMBRO DE 2023
 
 ### _Altera dispositivo do Decreto n° 59.406, de 7 de agosto de 2013, que autorizou a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Fernão, o imóvel que especifica._

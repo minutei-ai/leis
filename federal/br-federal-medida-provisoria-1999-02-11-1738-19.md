@@ -1,5 +1,3 @@
-###MPV-001738-0-019-11-02-1999@@@
-
 medida provisória nº 1.738-19, de 11 de fevereiro de 1999
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

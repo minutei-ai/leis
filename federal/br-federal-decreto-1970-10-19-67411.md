@@ -1,5 +1,3 @@
-###DEC-067411-0-000-19-10-1970@@@
-
 decreto nº 67.411, de 19 de outubro de 1970.
 
 Redistribui, com os respectivos cargos, para o Quadro de Pessoal do Departamento Nacional de Entradas de Rodagem, servidores do Quadro de Pessoal do Ministério do Trabalho e Previdência Social, originários do extinto Serviço de Alimentação da Previdência Social.

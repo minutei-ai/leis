@@ -1,5 +1,3 @@
-###DEC-074976-0-000-26-11-1974@@@
-
 DECRETO Nº 74.976, DE 26 DE NOVEMBRO DE 1974.
 
 Concede à Erich Rehder, firma individual, o direito de lavrar calcário no Município de Adrianópolis, Estado do Paraná.

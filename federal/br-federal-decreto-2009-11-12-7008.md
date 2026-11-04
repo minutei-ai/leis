@@ -1,5 +1,3 @@
-###DEC-007008-0-000-12-11-2009@@@
-
 DECRETO Nº 7.008, DE 12 DE NOVEMBRO DE 2009.
 
 Institui a Operação Arco Verde, no âmbito do Plano de Ação para Prevenção e Controle do Desmatamento na Amazônia Legal, e dá outras providências.

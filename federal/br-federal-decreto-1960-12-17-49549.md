@@ -1,5 +1,3 @@
-###DEC-049549-0-000-17-12-1960@@@
-
 DECFRETO Nº 49.549, DE 17 DE DEZEMBRO DE 1960.
 
 Torna sem efeito o Decreto 49.315, de 21 de novembro de 1960.

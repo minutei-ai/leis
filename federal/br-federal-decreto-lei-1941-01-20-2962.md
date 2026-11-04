@@ -1,5 +1,3 @@
-###DEL-002962-0-000-20-01-1941@@@
-
 DECRETO-LEI N. 2.962 – DE 20 DE JANEIRO DE 1941
 
 Dá aplicação ao saldo da dotação decorrente da extinção de cargos excedentes

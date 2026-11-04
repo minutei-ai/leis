@@ -1,5 +1,3 @@
-###DEC-052079-0-000-30-05-1963@@@
-
 DECRETO Nº 52.079, DE 30 DE MAIO DE 1963.
 
 Declara de utilidade pública o Abrigo Thereza de Jesus com sede no Estado da Guanabara.

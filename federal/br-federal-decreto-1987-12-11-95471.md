@@ -1,5 +1,3 @@
-###DEC-095471-0-000-11-12-1987@@@
-
 DECRETO Nº 95.471, DE 11 DE DEZEMBRO DE 1987
 
 Outorga concessão à RÁDIO CULTURA DE CÂNDIDO DE ABREU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cândido de Abreu, Estado do Paraná.

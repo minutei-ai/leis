@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/15529808-698d-4795-aab6-8a2121460f0a/texto#nowhere)
 
-###DEL-000267-0-000-28-02-1967@@@
-
 DECretO-LEI Nº 267, DE 28 DE FEVEREIRO DE 1967
 
 Introduz alteração no Ministério Público da União junto a Justiça Militar e dá outras providências.

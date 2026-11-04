@@ -1,5 +1,3 @@
-###DEC-060575-0-000-10-04-1967@@@
-
 DECRETO Nº 60.575, DE 10 DE ABRIL DE 1967.
 
 Outorga concessão.

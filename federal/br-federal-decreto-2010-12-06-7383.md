@@ -1,5 +1,3 @@
-###DEC-007383-0-000-06-12-2010-PUB-01@@@
-
 DECRETO Nº 7.383, DE 6 DE DEZEMBRO DE 2010.
 
 Dá nova redação a dispositivos do Decreto no 7.137, de 29 de março de 2010, que autoriza a prorrogação e concede desconto para liquidação de operações de crédito rural contratadas com recursos do Fundo Constitucional de Financiamento do Norte - FNO, de que trata o art. 56 da Lei no 11.775, de 17 de setembro de 2008.

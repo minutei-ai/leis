@@ -1,5 +1,3 @@
-###DEC-064479-0-000-08-05-1969@@@
-
 DECRETO Nº 64.479, DE 8 DE MAIO DE 1969.
 
 Autoriza estrangeiros a obterem o aforamento do terreno de acrescido de marinha, no Estado da Guanabara.

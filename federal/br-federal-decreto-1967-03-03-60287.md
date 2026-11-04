@@ -1,5 +1,3 @@
-###DEC-060287-0-000-03-03-1967@@@
-
 DECRETO Nº 60.287, DE 3 de MARÇO DE 1967.
 
 Outorga concessão à Televisão Goiás S.A. para instalar uma estação de radiodifusão de sons e imagens (Televisão), na cidade de Goiânia, Estado de Goiás.

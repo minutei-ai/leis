@@ -1,5 +1,3 @@
-###DEC-045212-0-000-10-01-1959@@@
-
 decreto nº 45.212, de 10 de janeiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Auriflama, Estado de São Paulo.

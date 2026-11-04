@@ -1,5 +1,3 @@
-###DEC-072136-0-000-26-04-1973@@@
-
 DECRETO Nº 72.136, de 26 de abril de 1973.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na cidade de Ponte Nova, Estado de Minas Gerais, destinado à construção da estação telefônica daquela cidade, pela Companhia Telefônica de Minas Gerais - CTMG.

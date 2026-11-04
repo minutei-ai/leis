@@ -1,5 +1,3 @@
-###DEC-077531-0-000-30-04-1976@@@
-
 DECRETO Nº 77.531 - DE 30 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à ampliação da subestação de Joinvile, da Centrais Elétricas do Sul do Brasil S.A. -ELETROSUL, no Estado de Santa Catarina.

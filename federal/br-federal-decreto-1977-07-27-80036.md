@@ -1,5 +1,3 @@
-###DEC-080036-0-000-27-07-1977@@@
-
 decreto nº 80.036, de 27 de julho de 1977
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Caruarú, Estado de Pernambuco, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 56.583, de 19 de julho de 1965, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decreto nºs 68.085, de 19 de janeiro de 1971, e 75.147, de 27 de dezembro de 1974.

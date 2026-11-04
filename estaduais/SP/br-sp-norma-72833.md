@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72833)
-
 # LEI Nº 12.646, DE 11 DE JULHO DE 2007
 
 ## (Projeto de lei nº 489/2005, do Deputado Luis Carlos Gondim - PL)

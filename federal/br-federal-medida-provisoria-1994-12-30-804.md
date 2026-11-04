@@ -1,7 +1,3 @@
-1
-
-###MPV-000804-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 804, DE 30 DE DEZEMBRO DE 1994
 
 Cria a Gratificação de Desempenho e Produtividade (GDP) das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

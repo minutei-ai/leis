@@ -1,5 +1,3 @@
-###MPV-001802-0-004-22-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.802-4, DE 22 DE ABRIL DE 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

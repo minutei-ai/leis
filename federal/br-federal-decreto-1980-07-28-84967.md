@@ -1,6 +1,4 @@
-###DEC-084967-0-000-28-07-1980@@@
-
- Decreto nº 84.967, de 28 de julho de 1980.
+Decreto nº 84.967, de 28 de julho de 1980.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Italiana.
 
@@ -138,4 +136,12 @@ ARTIGO X
 
 Feito na cidade de Brasília, aos 30 dias do mês de outubro de mil novecentos e setenta e dois, em dois exemplares, nas línguas portuguesa e italiana, ambos os textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA ITALIANA</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+
+</td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA ITALIANA
+
+</td></tr></tbody></table>

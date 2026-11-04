@@ -1,5 +1,3 @@
-###DEC-050204-0-000-28-01-1961@@@
-
 Decreto nº 50.204, de 28 de janeiro de 1961.
 
 Modifica a redação do artigo 53 do R-126 (Regulamento de Preceitos comuns aos Estabelecimentos de Ensino do Exército), aprovado pelo Decreto nº 42.911, de 27 de dezembro de 1957 e modificado pelos de números 45.655, de 25 de março de 1959 e 48.119, de 13 de abril de 1960.

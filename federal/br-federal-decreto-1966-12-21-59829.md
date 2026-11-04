@@ -1,5 +1,3 @@
-###DEC-059829-0-000-21-12-1966@@@
-
 Decreto nº 59.829, de 21 de dezembro de 1966.
 
 Renova a declaração de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas e Rodagem, das áreas de terreno situadas no Estado de Santa Catarina.

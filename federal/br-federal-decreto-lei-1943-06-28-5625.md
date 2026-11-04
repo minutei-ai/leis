@@ -1,5 +1,3 @@
-###DEL-005625-0-000-28-06-1943@@@
-
 DECRETO‑LEI N. 5.625 – DE 28 DE JUNHO DE 1943
 
 Dispõe sôbre as Promoções dos oficiais no Exército

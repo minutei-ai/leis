@@ -1,5 +1,3 @@
-###DEC-002413-0-000-04-12-1997@@@
-
 DECRETO Nº 2.413, DE 4 DE DEZEMBRO DE 1997
 
 Dispõe sobre as atribuições da Comissão Nacional de Energia Nuclear nas atividades de industrialização, importação e exportação de minerais e minérios de lítio e seus derivados.

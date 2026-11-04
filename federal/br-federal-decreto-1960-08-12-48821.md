@@ -1,5 +1,3 @@
-###DEC-048821-0-000-12-08-1960@@@
-
 DECRETO Nº 48.821, DE 12 DE AGôSTO DE 1960.
 
 Desvincula do acervo da Companhia Paulista de Energia Elétrica S.A., um grupo diesel-elétrico e respectivos acessórios.

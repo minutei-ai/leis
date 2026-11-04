@@ -1,5 +1,3 @@
-###DEC-065255-0-000-01-10-1969@@@
-
 decreto nº 65.255 - de 1º de outubro de 1969.
 
 Declara de utilidade pública, para fins de desapropriação, áreas situadas no lugar denominado Ururai, Município de Campos, Estado do Rio de Janeiro, necessárias à instalação da Estação Repetidora de Microondas de Itaóca e respectiva estrada de acesso, integrante do Sistema Nacional de Telecomunicações.

@@ -1,5 +1,3 @@
-###DEC-054771-0-000-30-10-1964@@@
-
 DECRETO Nº 54.771, DE 30 de OUTUBRO DE 1964.
 
 Autoriza a cidadão brasileiro Custódio Netto Júnior a pesquisar carvão, no município de São Félix do Xingu – Estado do Pará.

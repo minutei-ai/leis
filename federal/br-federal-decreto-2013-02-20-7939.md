@@ -1,5 +1,3 @@
-###DEC-007939-0-000-20-02-2013-PUB-01@@@
-
 DECRETO N°\- 7.939, DE 20 DE FEVEREIRO DE 2013
 
 Promulga a Resolução MEPC.165(56), com Emendas à Lista de Substâncias anexa ao Protocolo Relativo à Intervenção em Alto- Mar em Casos de Poluição por Outras Substâncias que não Óleo, adotada em 13 de julho de 2007.

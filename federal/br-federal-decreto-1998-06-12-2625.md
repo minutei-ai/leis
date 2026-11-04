@@ -1,5 +1,3 @@
-###DEC-002625-0-000-12-06-1998@@@
-
 DECRETO Nº 2.625, DE 12 DE JUNHO DE 1998
 
 Autoriza excepcionalmente a contratação temporária de recursos humanos para os órgãos e entidades do Poder Executivo Federal que especifica.

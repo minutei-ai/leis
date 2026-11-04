@@ -1,5 +1,3 @@
-###DEC-052908-0-000-22-11-1963@@@
-
 DECRETO Nº 52.908, DE 22 DE NOVEMBRO DE 1963.
 
 Declara de utilidade pública a “Liga das Senhoras Católicas de São Paulo”, com sede na capital do Estado de São Paulo.

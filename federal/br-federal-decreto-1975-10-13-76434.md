@@ -1,5 +1,3 @@
-###DEC-076434-0-000-13-10-1975@@@
-
 DECRETO Nº 76.434, de 13 de outubro de 1975.
 
 Altera o Decreto nº 72.996, de 24 de outubro de 1973, que autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Morro do Sumaré, Estado do Rio de Janeiro.

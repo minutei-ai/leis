@@ -1,5 +1,3 @@
-###DEC-076114-0-000-13-08-1975@@@
-
 DECRETO Nº 76.114 - DE 13 DE AGOSTO DE 1975
 
 Outorga à Usina Açucareira Paraíso S.A., concessão para o aproveitamento Hidráulico de um trecho do rio Pomba, no local denominado Morro Redondo, no Estado de Minas Gerais, para uso exclusivo.

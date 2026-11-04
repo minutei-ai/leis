@@ -1,5 +1,3 @@
-###DEC-097216-0-000-13-12-1988@@@
-
 DECRETO Nº 97.216, DE 13 DE DEZEMBRO DE 1988
 
 Outorga concessão ao Estado do Piauí, do Porto de Luiz Correia.

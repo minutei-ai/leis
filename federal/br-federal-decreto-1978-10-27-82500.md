@@ -1,5 +1,3 @@
-###DEC-082500-0-000-27-10-1978@@@
-
 Decreto nº 82.500, de 27 de outubro de 1978.
 
 Declara sem efeito o Decreto nº 52.993, de 27 de novembro de 1963, que autorizou o cidadão brasileiro Joseph Nigri a lavrar caulim no Município de São Paulo, Estado de São Paulo.

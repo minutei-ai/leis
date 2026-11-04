@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184080)
-
 # DECRETO Nº 62.949, DE 21 DE NOVEMBRO DE 2017
 
 ### _Autoriza a Fazenda do Estado a permitir o uso a título precário e gratuito e por prazo indeterminado, em favor do Município de Guararema, de parte do imóvel que especifica_
@@ -22,10 +20,16 @@ Palácio dos Bandeirantes, 21 de novembro de 2017
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de novembro de 2017.

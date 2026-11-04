@@ -1,5 +1,3 @@
-###DEC-060350-0-000-10-03-1967@@@
-
 DECRETO Nº 60.350, DE 10 DE MARÇO DE 1967.
 
 Outorga à Central Elétrica de Furnas S.A. concessão para o proveitamento de energia hidráulica, autorização para o estabelecimento de usina termelétrica e dá outras providência.

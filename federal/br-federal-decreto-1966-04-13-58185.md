@@ -1,5 +1,3 @@
-###DEC-058185-0-000-13-04-1966@@@
-
 DECRETO Nº 58.185, DE 13 DE ABRIL DE 1966.
 
 Revoga os §§ 1º e 2º do art. 3º do Decreto nº 57.271, de 16 de novembro de 1965, e dá nova redação ao inciso I do art. 6º do mesmo Decreto.

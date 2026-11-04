@@ -1,5 +1,3 @@
-###DEL-006460-0-000-02-05-1944@@@
-
 DECRETO-LEI N. 6.460 – DE 2 DE MAIO DE 1944
 
 Regula a construção e a exploração de instalações portuárias rudimentares

@@ -1,5 +1,3 @@
-###DEC-077110-0-000-04-02-1976@@@
-
 DECRETO Nº 77.110, DE 4 DE FEVEREIRO DE 1976.
 
 Subordina o Centro de Estudos de Pessoal à Diretoria de Especialização e Extensão do Ministério do Exército e dá outras providências.

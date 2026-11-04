@@ -1,5 +1,3 @@
-###DEC-063973-0-000-09-01-1969@@@
-
 DECRETO Nº 63.973, DE 9 DE JANEIRO DE 1969.
 
 Autoriza a cessão gratuita, do terreno que menciona, situado no Estado do Espírito Santo.

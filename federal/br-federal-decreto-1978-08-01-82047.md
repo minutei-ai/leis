@@ -1,5 +1,3 @@
-###DEC-082047-0-000-01-08-1978@@@
-
 Decreto nº 82.047, de 01 de agosto de 1978.
 
 Regulamenta, para a Aeronáutica, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

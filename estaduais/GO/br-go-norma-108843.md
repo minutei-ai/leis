@@ -14,8 +14,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação, com efeitos a part
 
 Goiânia, 15 de maio de 2024; 136º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

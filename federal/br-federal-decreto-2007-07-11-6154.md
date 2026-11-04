@@ -1,5 +1,3 @@
-###DEC-006154-0-000-11-07-2007@@@
-
 DECRETO Nº 6.154, DE 11 DE JULHO DE 2007.
 
 Dá nova redação ao caput do art. 1o do Decreto no 6.145, de 3 de julho de 2007, que dispõe sobre os valores das diárias no Município do Rio de Janeiro até agosto de 2007, em decorrência dos Jogos Pan-Americanos.
@@ -19,5 +17,3 @@ Brasília, 11 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 12.7.2007

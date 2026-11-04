@@ -1,5 +1,3 @@
-###DEC-086672-0-000-30-11-1981@@@
-
 Decreto nº 86.672 de 30 de novembro de 1981
 
 Autoriza o aumento de potência da REGISTRO - EMISSORAS REGIONAIS DE RADIODIFUSÃO LTDA., na cidade de Registro, Estado de São Paulo.

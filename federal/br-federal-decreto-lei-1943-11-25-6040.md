@@ -1,5 +1,3 @@
-###DEL-006040-0-000-25-11-1943@@@
-
 DECRETO‑LEI N. 6.040 – DE 25 DE NOVEMBRO DE 1943
 
 Autoriza o Ministério da Agricultura a promover convênios com os Governos dos Estados do Rio de janeiro e de Pernambuco, com o Instituto do Açúcar e do Álcool e os produtores de açúcar daqueles Estados para auxiliar e ampliar os trabalhos de investigação e de assistência à lavoura canavieira, por intermédio das Estações Experimentais de Campos e de Curado e dá outras providências

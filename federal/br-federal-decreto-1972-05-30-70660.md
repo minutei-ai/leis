@@ -1,5 +1,3 @@
-###DEC-070660-0-000-30-05-1972@@@
-
 DECRETO-lei 70.660, DE 30 DE MAIO DE 1972.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados e dá outras providências.
@@ -10,7 +8,47 @@ DECRETA:
 
 Art. 1º Ficam reduzidas a 0 (zero) as alíquotas incidentes sobre as mercadorias a seguir especificadas e desdobradas, sob a forma de "ex", dos códigos discriminados e constantes da Tabela de Incidências do Imposto sobre Produtos Industrializados ao Regulamento aprovado pelo Decreto nº 70.162, de 18 de fevereiro de1972:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:81.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código</span></p></td><td style="width:290.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MERCADORIA</span></p></td><td style="width:45.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alíquota</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">92.12.01.00</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Disco comum ou "long-play" (gravado) ..........................................</span></p></td><td style="width:45.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8%</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">"ex"</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Disco comum ou "long-play", gravado com matéria didática .........</span></p></td><td style="width:45.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0%</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">92.12.03.01</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Em cartucho, "cassette" e semelhante, de qualquer largura de fita ..................................................................................................</span></p></td><td style="width:45.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15%</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">"ex"</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Em cartucho, "cassette" e semelhante, de qualquer largura de fita, gravada com matéria didática..................................................</span></p></td><td style="width:45.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0%</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">97.03.99.00</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Outros ............................................................................................</span></p></td><td style="width:45.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18%</span></p></td></tr><tr><td style="width:81.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">"ex"</span></p></td><td style="width:290.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Conjuntos para recreação com caráter educativo, tais como caixas de química, de eletricidade, de imprensa e semelhantes ...</span></p></td><td style="width:45.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0%</span></p></td></tr></tbody></table>
+Código
+
+MERCADORIA
+
+Alíquota
+
+92.12.01.00
+
+Disco comum ou "long-play" (gravado) ..........................................
+
+8%
+
+"ex"
+
+Disco comum ou "long-play", gravado com matéria didática .........
+
+0%
+
+92.12.03.01
+
+Em cartucho, "cassette" e semelhante, de qualquer largura de fita ..................................................................................................
+
+15%
+
+"ex"
+
+Em cartucho, "cassette" e semelhante, de qualquer largura de fita, gravada com matéria didática..................................................
+
+0%
+
+97.03.99.00
+
+Outros ............................................................................................
+
+18%
+
+"ex"
+
+Conjuntos para recreação com caráter educativo, tais como caixas de química, de eletricidade, de imprensa e semelhantes ...
+
+0%
 
 Art. 2º Este Decreto entrará em vigor na data de sua publicação revogada as disposições em contrário.
 

@@ -1,5 +1,3 @@
-###DEC-091059-0-000-07-03-1985@@@
-
 # Decreto nº 91.059, de 07 dE março de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de transição Barra Funda, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

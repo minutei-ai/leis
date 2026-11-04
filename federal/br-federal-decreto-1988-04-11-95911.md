@@ -1,5 +1,3 @@
-###DEC-095911-0-000-11-04-1988@@@
-
 DECRETO N° 95.911, DE 11 DE ABRIL DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessária à implantação do canteiro de obras da Usina Hidrelétrica Manso, da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado de Mato Grosso.

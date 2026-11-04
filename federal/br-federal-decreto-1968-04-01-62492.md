@@ -1,5 +1,3 @@
-###DEC-062492-0-000-01-04-1968@@@
-
 DECRETO Nº 62.492, DE 1º DE ABRIL DE 1968.
 
 Incorpora a Universidade do Maranha a Faculdade de Ciências Econômicas.

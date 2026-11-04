@@ -1,5 +1,3 @@
-###DEL-006747-0-000-28-07-1944@@@
-
 DECRETO-LEI N. 6.747 – DE 28 DE JULHO DE 1944
 
 Autoriza levantamento de caução prestada pela Emprêsa Promotora de Vendas, Ltda.

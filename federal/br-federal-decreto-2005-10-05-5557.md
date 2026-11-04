@@ -1,5 +1,3 @@
-###DEC-005557-0-000-05-10-2005@@@
-
 DECRETO Nº 5.557, DE 5 DE OUTUBRO DE 2005.
 
 Regulamenta o Programa Nacional de Inclusão de Jovens - ProJovem instituído pela Lei no 11.129, de 30 de junho de 2005, e dá outras providências.

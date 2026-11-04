@@ -1,5 +1,3 @@
-###DEC-076757-0-000-09-12-1975@@@
-
 DECRETO Nº 76.757, DE 9 DE DEZEMBRO DE 1975.
 
 Dispõe sobre a retificação da relação nominal que acompanhou o Decreto nº 60.335, de 8 de março de 1967.

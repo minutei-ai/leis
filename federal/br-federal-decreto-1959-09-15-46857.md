@@ -1,5 +1,3 @@
-###DEC-046857-0-000-15-09-1959@@@
-
 decreto nº 46.857, de 15 de setembro de 1959.
 
 Concede autorização para funcionar com emprêsa de energia elétrica à firma Ferreira & Cia. Ltda.

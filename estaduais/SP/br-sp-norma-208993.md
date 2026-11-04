@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208993)<br>
-
 # LEI COMPLEMENTAR N° 1.397, DE 22 DE DEZEMBRO DE 2023
 
 ### _Altera a Lei n° 8.975, de 25 de novembro de 1994, que dispõe sobre a concessão de Prêmio de Incentivo aos servidores em exercício na Secretaria da Saúde, nas condições que especifica, e as Leis Complementares n° 846, de 04 de junho de 1998, que dispõe sobre a qualificação das entidades como organizações sociais, e n° 1.193, de 02 de janeiro de 2013, que institui a carreira de médico e dá providências correlatas_

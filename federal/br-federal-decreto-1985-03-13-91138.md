@@ -1,5 +1,3 @@
-###DEC-091138-0-000-13-03-1985@@@
-
 DECRETO Nº 91.138, DE 13 DE MARÇO DE 1985
 
 Altera a composição do Conselho de Desenvolvimento das micro, Pequena e Média Empresas - COMPEME, criado pelo Decreto nº 9.414, de 07 de novembro de 1984.

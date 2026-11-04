@@ -1,5 +1,3 @@
-###DEC-078683-0-000-08-11-1976@@@
-
 DECRETO Nº 78.683, DE 8 DE NOVEMBRO DE 1976.
 
 Concede à Mineração Andradense Ltda. o direito de lavrar argila, caulim e bauxita, no Município de Cambuí, Estado de Minas Gerais.

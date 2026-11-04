@@ -1,7 +1,3 @@
-1
-
-###MPV-000993-0-000-11-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 993, DE 11 DE MAIO DE 1995
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

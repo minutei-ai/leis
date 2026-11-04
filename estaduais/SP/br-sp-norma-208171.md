@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208171)<br>
-
 # DECRETO N° 67.745, DE 12 DE JUNHO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Triângulo do Sol AutoEstradas S/A, a área necessária à implantação de dispositivo de acesso e retorno no km 336+100m da Rodovia SP-326, no Município de Jaboticabal, e dá providências correlatas._

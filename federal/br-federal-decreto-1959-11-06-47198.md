@@ -1,5 +1,3 @@
-###DEC-047198-0-000-06-11-1959@@@
-
 DECRETO Nº 47.198, DE 06 DE novembro DE 1959.
 
 Autoriza a Representações, Mineração “Cidade do Aço” Ltda., a pesquisar caulim, no município de Itabirito, Estado de Minas Gerais.

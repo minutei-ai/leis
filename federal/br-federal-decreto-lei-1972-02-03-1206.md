@@ -1,7 +1,3 @@
-1
-
-###DEL-001206-0-000-03-02-1972@@@
-
 # DECRETO-LEI Nº 1.206, DE 3 De FEVEREIRO DE 1972
 
 Autoriza o Ministério dos Transportes a prestar assistência técnica em assuntos rodoviários, aquaviários e ferroviários, a países amigos e a construir prédios destinados à instalação de serviços públicos de fronteira, nos terminais respectivos e da outras providências.
@@ -37,8 +33,6 @@ Mário Gibson Barboza
 Antônio Delfim Netto
 
 Mário David Andreazza
-
-###DEL-001206-0-000-03-02-1972@@@RET01+++
 
 # DECRETO-LEI Nº 1.206, DE 3 DE FEVEREIRO DE 1972
 

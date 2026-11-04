@@ -1,5 +1,3 @@
-###DEC-007779-0-000-31-07-2012-PUB-01@@@
-
 DECRETO N°\- 7.779, DE 31 DE JULHO DE 2012
 
 Altera os Decretos n° 6.521, de 30 de julho de 2008, n° 6.191, de 20 de agosto de 2007, e n° 7.659, de 23 de dezembro de 2011, para prorrogar o prazo de remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS.

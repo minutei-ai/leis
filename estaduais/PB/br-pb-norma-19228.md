@@ -14,5 +14,6 @@ Art. 2º Esta Resolução entra em vigor na data de sua publicação.
 
 Paço da Assembleia Legislativa do Estado da Paraíba, “Casa de Epitácio Pessoa”, João Pessoa, 08 de outubro de 2026.
 
-ADRIANO GALDINO<br>
+ADRIANO GALDINO
+
 Presidente

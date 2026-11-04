@@ -1,5 +1,3 @@
-###MPV-001911-0-010-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.911-10, DE 24 DE SETEMBRO DE 1999.
 
 Altera dispositivos da Lei n.º 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da Presidência da  República e dos Ministérios, e dá outras providências.

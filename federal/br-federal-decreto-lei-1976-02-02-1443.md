@@ -1,5 +1,3 @@
-###DEL-001443-0-000-02-02-1976@@@
-
 # DECRETO-LEI Nº 1.443, DE 2 DE FEveREIRO DE 1976
 
 Fixa alíquota para cálculo do imposto incidente sobre o lucro tributável das sociedades civis que menciona e dá outras providências.

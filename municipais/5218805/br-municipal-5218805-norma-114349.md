@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 181, DE 06 DE MAIO DE 2020.
 
-<br>
 Altera a Lei Complementar nº 3.968/2000, Estatuto dos Servidores  do Município de Rio Verde-GO.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
@@ -33,7 +32,8 @@ d) declaração firmada pelo candidato, sob as penas da lei, da qual conste não
 
 § 2º Como meio de aferição do requisito previsto no inciso IX do caput deste artigo, a Administração poderá realizar sindicância que consistirá na coleta de informações sobre a vida pregressa e atual do convocado, podendo o regulamento ou o edital do concurso esclarecer fatos e situações que possam caracterizar inidoneidade moral.
 
-§ 3º A posse do servidor será declarada nula se posteriormente ficar comprovada a falsidade de qualquer declaração ou certidão, sem prejuízo das sanções de outra natureza.<br>
+§ 3º A posse do servidor será declarada nula se posteriormente ficar comprovada a falsidade de qualquer declaração ou certidão, sem prejuízo das sanções de outra natureza.
+
      
 
 § 4º As atribuições do cargo podem justificar a exigência de outros requisitos estabelecidos em lei específica.
@@ -356,7 +356,8 @@ III - investido no mandato de Vereador, havendo compatibilidade de horários, pe
 
 IV - em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para progressão funcional;
 
-V - para efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.<br>
+V - para efeito de benefício previdenciário, no caso de afastamento, os valores serão determinados como se no exercício estivesse.
+
 Parágrafo único. Para fins do inciso III deste artigo, a incompatibilidade de horário poderá ser demonstrada por declaração do servidor eleito que deverá expor as razões que justificam a incompatibilidade.”
 
 “Art. 194. A cada 05 (cinco) anos de efetivo exercício prestado na condição de titular de cargo de provimento efetivo, o funcionário terá direito a licença-prêmio de 90 (noventa) dias, a ser usufruída com todos os direitos e vantagens do cargo.
@@ -485,7 +486,8 @@ LXV – recusar-se a realizar qualquer tarefa inerente a seu cargo, sem apresent
 
 § 1º A transgressão disciplinar de que trata os incisos VI e VII deste artigo só se caracteriza se o exercício das atividades ali descritas implicar em prejuízo ao regular cumprimento da jornada de trabalho do servidor ou se incompatível com o exercício do cargo.
 
-§ 2º A incompatibilidade a que se refere o § 1º deste artigo aplica-se aos fiscais do Município, Guarda Civil Municipal e outras atividades previstas em decreto regulamentar.” (NR)<br>
+§ 2º A incompatibilidade a que se refere o § 1º deste artigo aplica-se aos fiscais do Município, Guarda Civil Municipal e outras atividades previstas em decreto regulamentar.” (NR)
+
     
 
 “Art. 230. ...................................................................................
@@ -580,11 +582,14 @@ II – quando houver possibilidade de prejuízo à regularidade da atividade adm
 
 “Art. 247-A. Não havendo necessidade de modificação da descrição do fato contido na denúncia, o erro na classificação da transgressão poderá ser corrigido de ofício pela Comissão Disciplinar ou pela autoridade julgadora, ainda que, em consequência, tenha de recomendar ou aplicar pena mais grave.”
 
-“Art. 247-B. Se da instrução probatória for verificada a necessidade de modificar a descrição do fato jurídico contido na denúncia por se verificar a existência de novos elementos ou circunstâncias da infração disciplinar dos quais o acusado não se defendeu, a comissão processante fará o aditamento ou determinará que o sindicante o faça, caso em que será reaberto o prazo para o acusado apresentar defesa.<br>
+“Art. 247-B. Se da instrução probatória for verificada a necessidade de modificar a descrição do fato jurídico contido na denúncia por se verificar a existência de novos elementos ou circunstâncias da infração disciplinar dos quais o acusado não se defendeu, a comissão processante fará o aditamento ou determinará que o sindicante o faça, caso em que será reaberto o prazo para o acusado apresentar defesa.
+
 Parágrafo único. Verificada a necessidade de modificar a descrição do fato jurídico após o relatório da comissão, a autoridade julgadora determinará o aditamento na forma prevista no caput deste artigo.”
 
-“Art. 251-A. Salvo disposição expressa em contrário, os prazos processuais serão contados apenas em dias úteis, excluído o dia do começo e incluído o dia do vencimento.<br>
- § 1º Os dias do começo e do vencimento do prazo serão prorrogados para o primeiro dia útil seguinte se coincidirem com dia em que o expediente do órgão público for encerrado antes ou iniciado depois da hora normal.<br>
+“Art. 251-A. Salvo disposição expressa em contrário, os prazos processuais serão contados apenas em dias úteis, excluído o dia do começo e incluído o dia do vencimento.
+
+ § 1º Os dias do começo e do vencimento do prazo serão prorrogados para o primeiro dia útil seguinte se coincidirem com dia em que o expediente do órgão público for encerrado antes ou iniciado depois da hora normal.
+
 § 2º A contagem do prazo terá início no primeiro dia útil que seguir ao da citação ou intimação.”
 
 “Art. 251-B. Nenhum ato processual será declarado nulo se da nulidade não resultar prejuízo para as partes.”
@@ -593,9 +598,12 @@ Parágrafo único. Verificada a necessidade de modificar a descrição do fato j
 
 “Art. 252. Quando a infração disciplinar constituir ilícito penal, a autoridade competente encaminhará cópia dos autos ao Ministério Público ou ao Delegado de Polícia para as providências cabíveis.” (NR).
 
-“Art. 253. No caso de abandono de cargo, a autoridade competente determinará à comissão disciplinar a instauração de processo sumaríssimo iniciando-se:<br>
-I - com a citação do acusado para apresentar defesa no prazo de 7 (sete) dias;<br>
-II – no caso do acusado não ser encontrado por se achar em lugar incerto e não sabido, ou por se ocultar para não receber a citação, será publicado edital de citação com prazo de 15 (quinze) dias, por uma vez no Diário Oficial do Estado, no sítio eletrônico da Prefeitura de Rio Verde-GO eem jornal de grande circulação local, iniciando-se o prazo para defesa a partir do término do prazo da última publicação.<br>
+“Art. 253. No caso de abandono de cargo, a autoridade competente determinará à comissão disciplinar a instauração de processo sumaríssimo iniciando-se:
+
+I - com a citação do acusado para apresentar defesa no prazo de 7 (sete) dias;
+
+II – no caso do acusado não ser encontrado por se achar em lugar incerto e não sabido, ou por se ocultar para não receber a citação, será publicado edital de citação com prazo de 15 (quinze) dias, por uma vez no Diário Oficial do Estado, no sítio eletrônico da Prefeitura de Rio Verde-GO eem jornal de grande circulação local, iniciando-se o prazo para defesa a partir do término do prazo da última publicação.
+
      § 1º Findo os prazos previstos no inciso II deste artigo e não comparecendo o acusado, ser-lhe-á nomeado defensor para, em 7 (sete) dias a contar da ciência da nomeação, apresentar defesa.
 
 ...........................................................................................” (NR).
@@ -642,7 +650,8 @@ VI - julgamento pela autoridade competente em 10 (dez) dias.
 
 § 2º Eventuais efeitos patrimoniais decorrentes da revisão do processo observarão o prazo prescricional de 05 (cinco) anos.” (NR).
 
-“Art. 261-C. A competência para conceder licenças e demais benefícios no âmbito da Administração direta é do Secretário Municipal de Planejamento e Gestão, inclusive em relação aos benefícios previstos no Estatuto de Magistério, no Plano de Cargos e Vencimentos da Saúde e demais leis especiais.<br>
+“Art. 261-C. A competência para conceder licenças e demais benefícios no âmbito da Administração direta é do Secretário Municipal de Planejamento e Gestão, inclusive em relação aos benefícios previstos no Estatuto de Magistério, no Plano de Cargos e Vencimentos da Saúde e demais leis especiais.
+
 Parágrafo único. No caso de férias, licença para interesse particular, licença-prêmio e demais benefícios que dependem de avaliação discricionária, deverá ser colhida previamente a anuência do Secretário da pasta em que o servidor estiver lotado. ”
 
 Art. 2º O servidor que já dispuser do direito adquirido de gozar de uma ou mais licenças-prêmio e com período concessivo vencido quando da entrada em vigor desta lei deverá gozá-las nos seguintes prazos:

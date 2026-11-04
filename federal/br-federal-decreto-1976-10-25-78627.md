@@ -1,5 +1,3 @@
-###DEC-078627-0-000-25-10-1976@@@
-
 DECRETO Nº 78.627, DE 25 DE OUTUBRO DE 1976.
 
 Autoriza o funcionamento do curso de Engenharia Civil da Faculdade de Engenharia de São José do Rio Preto, com sede na Cidade de São José do Rio Preto, Estado de São Paulo.

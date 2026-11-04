@@ -1,5 +1,3 @@
-###DEC-001859-0-000-10-04-1996@@@
-
 DECRETO Nº 1.859, DE 10 DE ABRIL DE 1996
 
 Dispõe sobre a aplicação do Decreto nº 1.805, de 6 do fevereiro de 1996.

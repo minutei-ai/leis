@@ -1,5 +1,3 @@
-###DEL-008471-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.471 – DE 27 DE DEZEMBRO DE 1945
 
 Dispõe sôbre operações do Banco da Prefeitura do Distrito Federal S. A.

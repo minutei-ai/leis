@@ -1,5 +1,3 @@
-###DEC-085724-0-000-16-02-1981@@@
-
 Decreto nº 85.724, de 16 de fevereiro de 1981.
 
 Autoriza o funcionamento das habilitações em Física e em Química do curso de Ciências da Fundação Faculdade Estadual de Filosofia Ciências e Letras de Jacarezinho no Estado do Paraná.

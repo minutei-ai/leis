@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208599)<br>
-
 # LEI N° 17.782, DE 02 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 101/2023, da Deputada Leticia Aguiar – PP)

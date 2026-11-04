@@ -1,5 +1,3 @@
-###DEC-002359-0-000-30-10-1997@@@
-
 DECRETO Nº 2.359, DE 30 DE OUTUBRO DE 1997
 
 Remaneja cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona e dá outras providências.

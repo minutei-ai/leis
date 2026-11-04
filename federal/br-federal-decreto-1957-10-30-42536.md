@@ -1,18 +1,16 @@
-###DEC-042536-0-000-30-10-1957@@@
+**DECRETO Nº 42.536, DE 30 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.536, DE 30 DE OUTUBRO DE 1957.</strong>
+***Declara de utilidade publica uma faixa de terra destinada a passagem da linha de transmissão de 66 KV da linha da Companhia Hidro Elétrica de São Francisco, entre a localidade denominada Pau Ferrro, no Município de São Lourenço da Mata e Limoeiro, no Município, do mesmo nome, Estado de Pernambuco.***
 
-<em><strong>Declara de utilidade publica uma faixa de terra destinada a passagem da linha de transmissão de 66 KV da linha da Companhia Hidro Elétrica de São Francisco, entre a localidade denominada Pau Ferrro, no Município de São Lourenço da Mata e Limoeiro, no Município, do mesmo nome, Estado de Pernambuco.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe oferece o artigo 87, inciso I, da constituição, e tendo em vista o disposto no Decreto-lei n 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe oferece o artigo 87, inciso I, da constituição, e tendo em vista o disposto no Decreto-lei n 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É declarada de utilidade publica a faixa de terra destinada a passagem da linha de transmissão de energia elétrica de 66 KV da Companhia Hidro Elétrica do São Francisco, com 50 metros de largura, de Pau de Ferro, no Km.0, no Município de São Lourenço da Mata e Limoeiro, no km 57 mais 815 metros, no Município do mesmo nome, Estado de Pernambuco.
 
-<strong>Art</strong>. 1º É declarada de utilidade publica a faixa de terra destinada a passagem da linha de transmissão de energia elétrica de 66 KV da Companhia Hidro Elétrica do São Francisco, com 50 metros de largura, de Pau de Ferro, no Km.0, no Município de São Lourenço da Mata e Limoeiro, no km 57 mais 815 metros, no Município do mesmo nome, Estado de Pernambuco.
+**Art**. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes das plantas aprovadas pelo Ministério da Agricultura, no Processo D Ag. 1 536-57, situadas no Estado de Pernambuco, de propriedade atribuída as pessoas a seguir relacionadas na ordem em que se encontram ao longo do traçado da linha.
 
-<strong>Art</strong>. 2º A faixa de terra descrita no artigo anterior compreende as áreas constantes das plantas aprovadas pelo Ministério da Agricultura, no Processo D Ag. 1 536-57, situadas no Estado de Pernambuco, de propriedade atribuída as pessoas a seguir relacionadas na ordem em que se encontram ao longo do traçado da linha.
-
-<em>Municipio de São Lourenco da Mata</em>
+*Municipio de São Lourenco da Mata*
 
 1 - Área de 230.500m<sup>2</sup> (duzentos e trinta mil e quinhentos metros quadrados) de propriedade atribuída a Maria Anita Amazonas McDowell;
 
@@ -22,11 +20,11 @@
 
 4 - Área de 15.000m<sup>2</sup> (quinze mil metros quadrado), de propriedade atribuída a Pedro Augusto Correia  de Araujo;
 
-<em>Municipio de São Lourenao da Mata e Pau D´Alho</em>
+*Municipio de São Lourenao da Mata e Pau D´Alho*
 
 5 - Área de 512.500m<sup>2</sup> (quinhentos e doze mil e quinhentos metros quadrados), de propriedade atribuída a Companhia Usina Tiuma;
 
-<em>Municipio de Pau D´Alho</em>
+*Municipio de Pau D´Alho*
 
 6 - Área de 133.260m<sup>2</sup> (cento e trinta e tres mil duzentos duzentos e sessenta metros quadrados), de propriedade atribuída a Pedro Solon Beltrao e outros;
 
@@ -74,7 +72,7 @@
 
 28 - 29 - 30 - 31 - 32 - 33 - 34 - Área de 56.200m2 (cinquenta e seis mil e duzentos metros quadrados), de propriedade atribuída aos seguintes proprietários: Patrimônio N. S. do Rosario, Aloisio Alves Camelo, Julio Marques da Silva, Dr. Mario e Luiz do Amaral Montenegro e Patrimônio N. S. do Desterro, respectivamente;
 
-<em>Municipio de Carpina</em>
+*Municipio de Carpina*
 
 35 - Área de 49.500m<sup>2</sup> (quarenta e nove mil e quinhentos metros quadrados), de propriedade atribuída a Joaquim Gonçalves Guerra;
 
@@ -162,7 +160,7 @@
 
 79 - Área de 75.500m<sup>2</sup> (setenta e cinco mil e quinhentos metros quadrados), de propriedade atribuída a Eurico Gonçalves Guerra;
 
-<em>Municipio de Limoeiro</em>
+*Municipio de Limoeiro*
 
 80 - Área de 44.500m<sup>2</sup> (quarenta e quatro mil e quinhentos metros quadrados), de propriedade atribuída a Jose Pareira de Lima;
 
@@ -220,22 +218,22 @@
 
 107 - Área de 10.000m<sup>2</sup> (dez mil metros quadrados), de propriedade atribuída a Antônio Fernando Salsa.
 
-<strong>Art</strong>. 3º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
+**Art**. 3º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover a desapropriação do domínio pleno das glebas onde tal se fizer necessário para a passagem da linha de transmissão referida no artigo 1º.
 
-<strong>Art</strong>. 4º Quando não fôr necessário proceder-se a desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Companhia e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso á área da servidão através do prédio serviente, desde que não haja outra via praticável.
+**Art**. 4º Quando não fôr necessário proceder-se a desapropriação do domínio pleno, fica reconhecida a conveniência da constituição de servidão necessária em favor da Companhia e para o fim indicado, a qual compreende o direito atribuído à emprêsa concessionária de praticar todos os atos de construção manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares, bem como suas possíveis alterações e reconstruções, sendo-lhe assegurado ainda o acesso á área da servidão através do prédio serviente, desde que não haja outra via praticável.
 
 § 1º Os proprietários das áreas de terras atingidas pelo ônus limitarão o uso e gozo das mesmas ao que fôr compatível com a existência  da servidão abstendo-se, em conseqüência, de praticar, dentro das mesmas, quaisquer atos que embaracem ou lhe causem dano, incluídos entre êles os de erguer construções ou de fazer plantações de elevado porte.
 
 § 2º A Companhia Hidro Elétrica do São Francisco fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, podendo utilizar-se, inclusive, de processo de desapropriação, nos têrmos do art. 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 5º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei número 2.786 de21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes dêste Decreto, é declarada de caráter urgente.
+**Art**. 5º Nos têrmos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei número 2.786 de21 de maio de 1956, a promoção da servidão ou da desapropriação das áreas de terra constantes dêste Decreto, é declarada de caráter urgente.
 
-<strong>Art</strong>. 6º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 6º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>.7º Revogam-se as disposições em contrário.
+**Art**.7º Revogam-se as disposições em contrário.
 
 Rio de  Janeiro, 30 de outubro de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO</strong> <strong>KUBITSHEK</strong>
+**JUSCELINOKUBITSHEK**
 
 Mário Meneghetti

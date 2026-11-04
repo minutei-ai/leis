@@ -1,5 +1,3 @@
-###DEC-083631-0-000-26-06-1979@@@
-
 Decreto nº 83.631, de 26 de junho de 1979.
 
 Autoriza o funcionamento do curso de Pedagogia do Centro de Estudos Superiores do Carmo, com sede na cidade de Santos, Estado de São Paulo.

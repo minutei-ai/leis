@@ -24,7 +24,8 @@ VI - transferências de contratos do Sistema Financeiro da Habitação - SFH, po
 
 Art. 3º - Os mutuários que desejarem liquidar seus contratos na forma da presente Lei deverão fazê-lo mediante pagamento à vista ou parcelado dos valores respectivos, facultando-se ao Poder Executivo dispensar atualização monetária e juros de mora incidentes sobre os encargos em atraso eventualmente existentes, podendo o pagamento dos referidos encargos em atraso ser feito, igualmente, à vista ou em parcelas.
 
-Redação do caput do art. 3º de acordo com o [art. 1º da Lei nº 7.934, de 03 de outubro de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7934-de-03-de-outubro-de-2001#LO_7_934_Art__1) .<br>
+Redação do caput do art. 3º de acordo com o [art. 1º da Lei nº 7.934, de 03 de outubro de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7934-de-03-de-outubro-de-2001#LO_7_934_Art__1) .
+
 Redação original: "Art. 3º - Os mutuários que desejarem liquidar seus contratos na forma da presente Lei deverão fazê-lo mediante pagamento à vista dos valores respectivos, facultando-se ao Poder Executivo dispensar atualização monetária e juros de mora incidentes sobre os encargos em atraso eventualmente existentes, desde que o pagamento dos ditos encargos em atraso seja feito, igualmente, mediante pagamento à vista dos valores devidos."
 
 Parágrafo único - A faculdade de dispensa de juros de mora e atualização monetária, de que trata o "caput" deste artigo, poderá ser estendida aos mutuários que pretendam reescalonar a dívida vencida, independentemente de efetuarem a liquidação de seus contratos, desde que solicitem formalmente o benefício dentro do prazo de 360 (trezentos e sessenta) dias, contado a partir da data da publicação da presente Lei.

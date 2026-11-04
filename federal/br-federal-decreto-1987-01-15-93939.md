@@ -1,5 +1,3 @@
-###DEC-093939-0-000-15-01-1987@@@
-
 DECRETO Nº 93.939, DE 15 DE JANEIRO DE 1987
 
 Altera a tabela para retenção do imposto de renda na fonte, e dá outras providências.

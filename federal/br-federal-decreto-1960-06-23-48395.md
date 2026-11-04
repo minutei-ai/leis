@@ -1,5 +1,3 @@
-###DEC-048395-0-000-23-06-1960@@@
-
 DECRETO Nº 48.395, DE 23 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Pedro de Sousa a pesquisar água potável de mesa, no município de Junqueirópolis, Estado de São Paulo.

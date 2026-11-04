@@ -1,5 +1,3 @@
-###DEC-066129-0-000-28-01-1970@@@
-
 Decreto nº 66.129 - de 28 de janeiro de 1970
 
 Declara de utilidade pública a Sociedade de São Vicente de Paulo, com sede em Três Corações, Estado de Minas Gerais.

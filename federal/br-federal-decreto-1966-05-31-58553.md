@@ -1,5 +1,3 @@
-###DEC-058553-0-000-31-05-1966@@@
-
 DECRETO Nº 58.553, DE 31 DE MAIO DE 1966.
 
 Retifica o Decreto nº 54.040, de 23 de julho de 1964, que aprovou o enquadramento do pessoal da Superintendência do Plano de Valorização Econômica da Amazônia.

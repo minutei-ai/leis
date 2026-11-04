@@ -1,5 +1,3 @@
-###DEC-062103-0-000-11-01-1968@@@
-
 DECRETO Nº 62.103, DE 11 DE JANEIRO DE 1968.
 
 Considera de caráter permanente, no exterior, as funções exercidas por militares na Comissão Mista Brasil-Equador.

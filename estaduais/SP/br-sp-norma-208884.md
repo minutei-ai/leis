@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208884)<br>
-
 # DECRETO N° 68.144, DE 05 DE DEZEMBRO DE 2023
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itapirapuã Paulista, que declarou Situação de Emergência em áreas do Município._

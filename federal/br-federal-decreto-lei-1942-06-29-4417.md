@@ -1,5 +1,3 @@
-###DEL-004417-0-000-29-06-1942@@@
-
 DECRETO-LEI N. 4.417 – DE 29 DE JUNHO DE 1942
 
 Autoriza a permuta de terrenos entre a Rede Mineira de Viação e a Prefeitura Municipal de Lavras.

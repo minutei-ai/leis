@@ -1,5 +1,3 @@
-###DEC-058335-0-000-03-05-1966@@@
-
 DECRETO Nº 58.335, DE 3 DE MAIO DE 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica do Rio Grande do Sul concessão para distribuir energia elétrica.

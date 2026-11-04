@@ -1,5 +1,3 @@
-###DEC-061429-0-000-03-10-1967@@@
-
 DECRETO Nº 61.429, DE 3 DE OUTUBRO DE 1967.
 
 Declara sem utilidade pública para fins de desapropriação, as áreas de 133.598 m2 e 81.760 m2 situadas no Município de Itaquaquecetuba, Estação de Manoel Feio, do ramal de São Paulo, da Estrada de Ferro Central do Brasil, e renova a declaração de utilidade pública da área de 9.736,11 m2 na mesma localidade.

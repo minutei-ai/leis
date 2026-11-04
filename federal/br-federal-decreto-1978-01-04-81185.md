@@ -1,5 +1,3 @@
-###DEC-081185-0-000-04-01-1978@@@
-
 Decreto nº 81 185, de 4 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia Dom José, com sede na cidade de Sobral, Estado do Ceará.

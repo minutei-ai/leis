@@ -1,5 +1,3 @@
-###DEC-054652-0-000-29-10-1964@@@
-
 DECRETO Nº 54.652, DE 29 DE OUTUBRO DE 1964.
 
 Concede à Mineração Ferreira Ltda. autorização para funcionar como emprêsa de mineração.

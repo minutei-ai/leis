@@ -1,5 +1,3 @@
-###DEC-003586-0-000-05-09-2000@@@
-
 DECRETO Nº 3.586, DE 5 DE SETEMBRO DE 2000.
 
 Dispõe sobre o imposto de exportação incidente sobre os produtos que menciona.

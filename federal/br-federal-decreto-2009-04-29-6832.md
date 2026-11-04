@@ -1,5 +1,3 @@
-###DEC-006832-0-000-29-04-2009@@@
-
 DECRETO Nº 6.832, DE 29 DE ABRIL DE 2009.
 
 Promulga o Tratado entre o Governo da República Federativa do Brasil e o Governo da República do Suriname sobre Assistência Jurídica Mútua em Matéria Penal, celebrado em Paramaribo, em 16 de fevereiro de 2005.

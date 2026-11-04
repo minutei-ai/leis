@@ -1,5 +1,3 @@
-###DEC-092557-0-000-15-04-1986@@@
-
 # DECRETO Nº 92.557, DE 15 DE ABRIL DE 1986
 
 Transfere da Prefeitura Municipal de São Francisco do Glória para a Companhia Energética de Minas Gerais - CEMIG a concessão para o aproveitamento da energia hidráulica no rio Glória, no Município de São Francisco da Glória, Estado de Minas Gerais.

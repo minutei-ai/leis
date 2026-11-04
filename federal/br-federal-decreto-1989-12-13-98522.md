@@ -1,5 +1,3 @@
-###DEC-098522-0-000-13-12-1989@@@
-
 DECRETO Nº 98.522, DE 13 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia do Centro de Estudos Superiores do Médio Amazonas.

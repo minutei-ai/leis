@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b0024ebb-ae5f-446e-9c0f-ce942cbe1437/texto#nowhere)
 
-###DEL-001270-0-000-02-05-1973@@@
-
 # DECRETO-LEI Nº 1.270, DE 2 DE MAIO DE 1973
 
 Altera percentagem de incidência da cota de previdência que indica.

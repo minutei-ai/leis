@@ -1,5 +1,3 @@
-###DEC-064948-0-000-06-08-1969@@@
-
 DECRETO Nº 64.948 - DE 6 DE AGÔSTO DE 1969.
 
 Transfere a sede da 3ª Companhia de Comunicações, provisoriamente.

@@ -1,5 +1,3 @@
-###DEC-086296-0-000-17-08-1981@@@
-
 DECRETO Nº 86.296, DE 17 DE AGOSTO DE 1981
 
 Autoriza aumento do capital social da Empresa Brasileira de Filmes S.A. - EMBRAFILME.

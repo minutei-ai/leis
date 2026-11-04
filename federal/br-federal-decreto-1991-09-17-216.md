@@ -1,5 +1,3 @@
-###DEC-000216-0-000-17-09-1991@@@
-
 DECRETO Nº 216, DE 17 DE SETEMBRO DE 1991
 
 Institui o Programa Nacional de Tecnologia da Habitação - PRONATH, e dá outras providências.

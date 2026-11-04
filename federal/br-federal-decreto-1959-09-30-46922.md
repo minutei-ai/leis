@@ -1,5 +1,3 @@
-###DEC-046922-0-000-30-09-1959@@@
-
 DECRETO Nº 46.922, DE 30 DE setembro DE 1959.
 
 Autoriza a Prefeitura Municipal de Guaira a pesquisar água mineral no município de Guaira ,Estado de São Paulo.

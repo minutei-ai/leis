@@ -26,8 +26,10 @@ Parágrafo único. O remembramento referido no “caput” está em conformidade
 
 Aparecida de Goiânia, Estado de Goiás, aos 19 de novembro de 2024.
 
-ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

@@ -1,16 +1,14 @@
-###DEC-033932-0-000-28-09-1953@@@
+**DECRETO Nº 33.932, DE 28 DE SETEMBRO DE 1953**
 
-<strong>DECRETO Nº 33.932, DE 28 DE SETEMBRO DE 1953</strong>
+***Modifica os artigos 55 e 70, do regulamento da Indústria Farmacêutica no Brasil.***
 
-<em><strong>Modifica os artigos 55 e 70, do regulamento da Indústria Farmacêutica no Brasil.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87 ,nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87 ,nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Os artigos 55 e 70, do Regulamento da Indústria Farmacêutica no Brasil, aprovado pelo Decreto de número 20.397, de 14 de janeiro de 1946, passam a ter a seguinte redação:
 
-<strong>Art</strong>. 1º Os artigos 55 e 70, do Regulamento da Indústria Farmacêutica no Brasil, aprovado pelo Decreto de número 20.397, de 14 de janeiro de 1946, passam a ter a seguinte redação:
-
-<strong>Art</strong>. 55 Os laboratórios industriais farmacêuticos, devidamente licenciados, só poderão fabricar as especialidades farmacêuticas de sua propriedade; as de seus sócios técnicos, aquelas cuja fabricação e propaganda sejam de sua responsabilidade e mais as previstas no parágrafo 2º.
+**Art**. 55 Os laboratórios industriais farmacêuticos, devidamente licenciados, só poderão fabricar as especialidades farmacêuticas de sua propriedade; as de seus sócios técnicos, aquelas cuja fabricação e propaganda sejam de sua responsabilidade e mais as previstas no parágrafo 2º.
 
 § 1º As fórmulas que não forem propriedades dos laboratórios farmacêuticos devidamente licenciados, poderão ser por êstes exploradas como especialidades farmacêuticas mediante contrato ao arrendamento com seu proprietário devidamente arquivado no Serviço Nacional de Fiscalização da Medicina e na qual fiquem assegurados ao laboratório industrial farmacêutico a inteira e exclusiva responsabilidade de sua fabricação e propaganda.
 
@@ -34,10 +32,10 @@ c) prova oficial de constituição legal da firma proprietária da especialidade
 
 § 3.º Todos documentos exigidos devem ser legalizados pelas autoridades competentes, traduzidos em vernáculo por tradutor juramento, ficando apensos ao processo de Licenciatura juntamente com os originais”.
 
-<strong>Art</strong>. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 e setembro de 1953;132.º da Independência e 65.º Republica.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Antônio Balbino

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211248)<br>
-
 # DECRETO N° 69.749, DE 28 DE JULHO DE 2025
 
 ### _Dispõe sobre a outorga da "Medalha Luiz Gonzaga"._

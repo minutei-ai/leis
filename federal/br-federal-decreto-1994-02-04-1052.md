@@ -1,7 +1,3 @@
-1
-
-###DEC-001052-0-000-04-02-1994@@@
-
 DECRETO Nº 1.052, DE 4 DE FEVEREIRO DE 1994
 
 Dispõe sobre a direção civil do transporte marítimo em situações de tensão internacional ou guerra, e dá outras providências.

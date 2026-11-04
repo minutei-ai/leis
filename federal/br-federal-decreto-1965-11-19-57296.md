@@ -1,5 +1,3 @@
-###DEC-057296-0-000-19-11-1965@@@
-
 DECRETO Nº 57.296, de 19 de novembro de 1965.
 
 Aprova o regimento do Conselho do Plano Mestre Decenal para Avaliação dos Recursos Minerais do Brasil.

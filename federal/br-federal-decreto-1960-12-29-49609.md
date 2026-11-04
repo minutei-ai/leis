@@ -1,5 +1,3 @@
-###DEC-049609-0-000-29-12-1960@@@
-
 DECRETO Nº 49.609, DE 29 DE DEZEMBRO DE 1960.
 
 Outorga concessão à Emissora Televisão Continental S.A. - TV Continental para estabelecer uma estação de radiotelevisão.

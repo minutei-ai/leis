@@ -10,7 +10,8 @@ Autoriza o Poder Executivo a contratar operação de crédito interno junto ao B
 
 **Art. 2º** - Fica o Poder Executivo autorizado a vincular, como contragarantia à garantia da União, à operação de crédito de que trata esta Lei, em caráter irrevogável e irretratável, a modo _pro solvendo_, as receitas discriminadas no § 4º do art. 167 da Constituição Federal, no que couber, bem como outras garantias admitidas em direito.
 
-Redação de acordo com a Lei 14.808 de 26 de dezembro de 2024.<br>
+Redação de acordo com a Lei 14.808 de 26 de dezembro de 2024.
+
 Redação original: Art. 2º - "Fica o Poder Executivo autorizado a vincular, como contragarantia à garantia da União, à operação de crédito de que trata esta Lei, em caráter irrevogável e irretratável, a modo pro solvendo, as receitas a que se referem o art. 157, a alínea "a” do inciso I e o inciso II do art. 159, complementadas pelas receitas tributárias estabelecidas no art. 155, e nos termos do § 4º do art. 167, todos da Constituição Federal, bem como outras garantias admitidas em direito."
 
 **Art. 3º** - Os recursos provenientes da operação de crédito a que se refere esta Lei deverão ser consignados como receita no orçamento ou em créditos adicionais, nos termos do inciso II do § 1º do art. 32 da Lei Complementar Federal nº 101, de 04 de maio de 2000.

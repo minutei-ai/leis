@@ -1,5 +1,3 @@
-###DEC-072964-0-000-19-10-1973@@@
-
 DECRETO Nº 72.964, DE 19 DE OUTUBRO DE 1973.
 
 Retifica decreto que alterou enquadramento de cargos e funções do Ministério da Marinha, e dá outras providências

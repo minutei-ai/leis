@@ -1,5 +1,3 @@
-###DEC-058175-0-000-13-04-1966@@@
-
 decreto nº 58.175, de 13 de abril de 1966.
 
 Concede autorização à Companhia Brasileira de Fibras Sintéticas “Nailonsix” para o trabalho contínuo, em caráter permanente, na forma estabelecida neste decreto.

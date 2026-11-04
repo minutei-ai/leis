@@ -1,5 +1,3 @@
-###DEC-051783-0-000-04-03-1963@@@
-
 Decreto nº 51.783, de 4 de março de 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Nordeste de Eletrificação de Fortaleza (CONEFOR).

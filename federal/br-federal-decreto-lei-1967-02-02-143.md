@@ -1,5 +1,3 @@
-###DEL-000143-0-000-02-02-1967@@@
-
 decreto-lei nº 143, de 2 De feVErEIRO DE 1967
 
 Estabelece modificações no Plano Ferroviário Nacional do Plano Nacional de Viação, aprovado pela Lei nº 4.592, de 29 de dezembro de 1964 e dá outras providências.

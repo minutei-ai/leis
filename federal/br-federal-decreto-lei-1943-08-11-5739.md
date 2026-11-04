@@ -1,5 +1,3 @@
-###DEL-005739-0-000-11-08-1943@@@
-
 DECRETO–LEI N. 5.739 – DE 11 DE AgÔsto de 1943
 
 Modifica a disposição do art. 2º do decreto–lei n. 2.369, de 3 de junho de 1940,

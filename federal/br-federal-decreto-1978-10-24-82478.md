@@ -1,5 +1,3 @@
-###DEC-082478-0-000-24-10-1978@@@
-
 Decreto nº 82.478, de 24 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia Brasileira de Alumínio pelo Decreto nº 2.231, de 22 de janeiro de 1963, retificado pelo Decreto nº 54.654, de 29 de outubro de 1964.

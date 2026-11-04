@@ -1,5 +1,3 @@
-###DEC-000577-0-000-24-06-1992@@@ 
-
 DECRETO N° 577, DE 24 DE JUNHO DE 1992
 
 Dispõe sobre a expropriação das glebas, onde forem encontradas culturas ilegais de plantas psicotrópicas, e dá outras providencias.

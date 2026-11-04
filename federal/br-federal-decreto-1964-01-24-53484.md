@@ -1,5 +1,3 @@
-###DEC-053484-0-000-24-01-1964@@@
-
 DECRETO Nº 53.484, DE 24 DE JANEIRO DE 1964.
 
 Concede autorização para o funcionamento da Escola de Engenharia de Lins, no Estado de São Paulo.

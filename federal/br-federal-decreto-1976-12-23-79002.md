@@ -1,5 +1,3 @@
-###DEC-079002-0-000-23-12-1976@@@
-
 DECRETO Nº 79.002, de 23 DE DEZEMBRO DE 1976.
 
 Autoriza o funcionamento do Curso de Administração, do Centro Cibernético Gay-Lussac, do Gay-Lussac - Instituto de Ensino Superior, com sede na cidade de Niterói, Estado do Rio de Janeiro.

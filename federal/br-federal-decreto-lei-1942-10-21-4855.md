@@ -1,5 +1,3 @@
-###DEL-004855-0-000-21-10-1942@@@
-
 DECRETO-LEI N. 4.855 – DE 21 DE OUTUBRO DE 1942
 
 Altera, sem aumento de despesa, o Anexo 14 – Ministério da Agricultura do Orçamento Geral da República

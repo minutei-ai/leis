@@ -1,6 +1,10 @@
 > **LEI Nº 3.474, DE 17 DE MAIO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Revoga, integralmente, a Lei nº 2.138, de 23 de julho de 2009, que autoriza as entidades da Administração Indireta do Estado do Acre a realizar a defesa técnica e/ou jurídica dos seus dirigentes, nas causas decorrentes de atos de gestão.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Revoga, integralmente, a Lei nº 2.138, de 23 de julho de 2009, que autoriza as entidades da Administração Indireta do Estado do Acre a realizar a defesa técnica e/ou jurídica dos seus dirigentes, nas causas decorrentes de atos de gestão.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

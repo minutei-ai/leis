@@ -1,5 +1,3 @@
-###DEC-005853-0-000-19-07-2006@@@
-
 DECRETO Nº 5.853, DE 19 DE JULHO DE 2006.
 
 Promulga o Tratado de Extradição entre a República Federativa do Brasil e a República do Peru, celebrado em Lima, em 25 de agosto de 2003.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 20.7.2006
-
-Tratado de Extradição entre a República Federativa
+        Celso Luiz Nunes AmorimTratado de Extradição entre a República Federativa
 
 do Brasil e a República do Peru
 

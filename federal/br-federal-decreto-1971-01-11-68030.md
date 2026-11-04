@@ -1,5 +1,3 @@
-###DEC-068030-0-000-11-01-1971@@@
-
 DECRETO Nº 68.030, DE 11 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Fundação Sanatório São Paulo, com sede em Campos do Jordão, Estado de São Paulo.

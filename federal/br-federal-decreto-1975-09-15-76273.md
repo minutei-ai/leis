@@ -1,5 +1,3 @@
-###DEC-076273-0-000-15-09-1975@@@
-
 DECRETO Nº 76.273 - DE 15 DE SETEMBRO DE 1975
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário no Município de Salvador, Estado da Bahia.

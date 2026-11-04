@@ -1,5 +1,3 @@
-###DEC-067744-0-000-08-12-1970@@@
-
 DECRETO Nº 67.744, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à Cimentos do Brasil S.A. CIBRASA o direito de lavrar argila no município de Capanema, Estado do Pará.

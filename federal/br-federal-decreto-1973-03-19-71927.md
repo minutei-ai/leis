@@ -1,5 +1,3 @@
-###DEC-071927-0-000-19-03-1973@@@
-
 Decreto Nº 71.927, DE 19 DE MARÇO DE 1973.
 
 Autoriza o funcionamento da Faculdade Francana de Filosofia.

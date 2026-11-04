@@ -1,5 +1,3 @@
-###DEL-002242-0-000-05-02-1985@@@
-
 # Decreto-LEI nº 2.242, de 5 de Fevereiro de 1985
 
 Acrescenta disposições do Artigo 1º do Decreto-lei nº 2212, de 31 de dezembro de 1984.

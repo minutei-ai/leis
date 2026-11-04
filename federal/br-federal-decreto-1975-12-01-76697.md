@@ -1,5 +1,3 @@
-###DEC-076697-0-000-01-12-1975@@@
-
 decreto nº 76.697, de 1 de dezembro de 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas Mato-Grossenses S.A. - CEMAT, no Estado de Mato Grosso.

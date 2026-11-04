@@ -1,5 +1,3 @@
-###DEC-097019-0-000-25-10-1988@@@
-
 DECRETO N° 97.019, DE 25 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da subestação do sistema de distribuição Ilha da Madeira, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

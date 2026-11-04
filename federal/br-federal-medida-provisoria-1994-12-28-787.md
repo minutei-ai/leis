@@ -1,7 +1,3 @@
-1
-
-###MPV-000787-0-000-28-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 787, DE 28 DE DEZEMBRO DE 1994
 
 Dispõe sobre a remuneração dos recursos do Fundo Nacional de Desenvolvimento (FND), repassados, sob a forma de empréstimo, à Financiadora de Estudos e Projetos (Finep).

@@ -1,5 +1,3 @@
-###MPV-001911-0-009-27-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.911-9, DE 27 DE agosto DE 1999.
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

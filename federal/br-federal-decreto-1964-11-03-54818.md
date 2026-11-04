@@ -1,5 +1,3 @@
-###DEC-054818-0-000-03-11-1964@@@
-
 DECRETO Nº 54.818, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Gilberto Santos Silva a pesquisar minérios de ferro e de manganês, no município de Corumbá, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-067301-0-000-30-09-1970@@@
-
 DECRETO Nº 67.301, DE 30 DE SETEMBRO DE 1970.
 
 Concede autorização a companhia "Arthur Levy Boat Service Inc" par substituir a embarcação M/V "Guaricema" pela M/V "Pe Foote" na operação de que trata o Decreto nº67.116, de 27-8-1970.

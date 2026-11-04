@@ -12,8 +12,10 @@ Goiânia, 10 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-TALLES BARRETO<br>
+TALLES BARRETO
+
 Deputado

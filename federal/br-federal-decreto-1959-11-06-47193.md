@@ -1,5 +1,3 @@
-###DEC-047193-0-000-06-11-1959@@@
-
 DECRETO Nº 47.193, DE 6 DE NOVEMBRO DE 1959
 
 Autoriza o cidadão brasileiro Fábio de Mello a lavrar argila, no município de Suzano, Estado de São Paulo.

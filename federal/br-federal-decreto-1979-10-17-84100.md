@@ -1,5 +1,3 @@
-###DEC-084100-0-000-17-10-1979@@@
-
 Decreto nº 84.100, de 17 de outubro de 1979.
 
 Fixa o fator de reajustamento salarial relativo a outubro de 1979.

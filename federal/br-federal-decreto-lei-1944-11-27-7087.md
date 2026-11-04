@@ -1,5 +1,3 @@
-###DEL-007087-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.087 – DE 27 DE NOVEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção de impostos predial e territorial aos clubes desportivos, na forma que menciona

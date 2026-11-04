@@ -1,5 +1,3 @@
-###DEC-002127-0-000-17-01-1997@@@
-
 DECRETO Nº 2.127, DE 17 DE JANEIRO DE 1997
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica Nº 35, entre Brasil, Argentina, Paraguai, Uruguai e Chile, de 23 de outubro de 1996.

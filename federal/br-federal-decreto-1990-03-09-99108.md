@@ -1,7 +1,3 @@
-1
-
-###DEC-099108-0-000-09-03-1990@@@
-
 DECRETO Nº. 99.108, DE 9 DE MARÇO DE 1990
 
 Cria, no Estado do Amazonas, a Flo­resta Nacional Içana‑Aiari com os limites que especifica e dá outras providências.

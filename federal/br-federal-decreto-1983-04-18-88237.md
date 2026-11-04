@@ -1,5 +1,3 @@
-###DEC-088237-0-000-18-04-1983@@@
-
 DECRETO nº 88.237, de 18 de abril de 1983
 
 Outorga concessão ao SISTEMA SUL MATOGROSSENSE DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ponta Porã, Estado de Mato Grosso do Sul.

@@ -1,5 +1,3 @@
-###DEC-066717-0-000-15-06-1970@@@
-
 DECRETO Nº 66.717, DE 15 DE JUNHO DE 1970.
 
 Complementa o Decreto nº 64.345, de 10 de abril de 1969, que instituiu normas para a contratação de serviços, objetivando o desenvolvimento da Engenharia Nacional.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/370945b3-a306-428a-916f-a96c3afd9061/texto#nowhere)
 
-###DEL-000802-0-000-28-08-1969@@@
-
 DECRETO-LEI Nº 802, de 28 de AGÔSTo DE 1969
 
 Declara a Rêde Ferroviária Federal S. A. e as demais ferrovias existentes no País isentas das obrigações estabelecidas no Decreto-lei nº 73, de 21 de novembro de 1966.

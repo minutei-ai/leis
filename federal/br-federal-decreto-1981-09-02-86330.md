@@ -1,5 +1,3 @@
-###DEC-086330-0-000-02-09-1981@@@
-
 Decreto nº 86.330, de 02 de setembro de 1981
 
 Altera o Estatuto da Fundação Instituto Brasileiro de Geografia e Estatística e dá outras providências.

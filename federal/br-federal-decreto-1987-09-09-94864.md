@@ -1,5 +1,3 @@
-###DEC-094864-0-000-09-09-1987@@@
-
 DECRETO N° 94.864, DE 9 DE SETEMBRO DE 1987
 
 Declara luto oficial.

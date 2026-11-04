@@ -1,5 +1,3 @@
-###DEC-055930-0-000-19-04-1965@@@
-
 Decreto nº 55.930, de 19 de abril de 1965.
 
 Renova concessão à Rêde Paranaense de Emissoras S.A., para executar serviço de radiodifusão sonora.

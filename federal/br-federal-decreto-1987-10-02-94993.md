@@ -1,5 +1,3 @@
-###DEC-094993-0-000-02-10-1987@@@
-
 DECRETO Nº 94.993, DE 2 DE OUTUBRO DE 1987
 
 Dispõe sobre a classificação dos servidores no Plano Único de Classificação e Retribuição de Cargos e Empregos a que se refere a Lei nº 7.596, de 10 e abril de 1987.

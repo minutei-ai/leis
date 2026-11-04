@@ -1,7 +1,3 @@
-1
-
-###DEL-002451-0-000-29-07-1988@@@
-
 # DECRETO-LEI N° 2.451, DE 29 DE JULHO DE 1988
 
 Altera o Decreto-Lei n° 2.433, de 19 de maio de 1988.

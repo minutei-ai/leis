@@ -1,5 +1,3 @@
-###DEC-058699-0-000-22-06-1966@@@
-
 DECRETO Nº 58.699, de 22 de junho de 1966.
 
 Declara caduca autorização outorgada pelo Decreto nº 27.686, de 11 de Janeiro de 1950, à Aristiliano Lauriano Ramos, para lavrar jazidas de rochas pirobetuminosas - classe IX - no município de Lajes, Estado de Santa Catarina.

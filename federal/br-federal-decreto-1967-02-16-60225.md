@@ -1,5 +1,3 @@
-###DEC-060225-0-000-16-02-1967@@@
-
 DECRETO Nº 60.225, DE 16 DE FEVEREIRO DE 1967.
 
 Prorroga o prazo para conclusão dos Trabalhos da Comissão Especial constituída pelo Decreto nº 59.578, de 23 de novembro de 1966.

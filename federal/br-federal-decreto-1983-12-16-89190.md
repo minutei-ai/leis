@@ -1,5 +1,3 @@
-###DEC-089190-0-000-16-12-1983@@@
-
 DECRETO Nº 89.190, de 16 de dezemBro de 1983.
 
 Altera dispositivo do Regimento dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 83.500, de 28 de maio de 1979.

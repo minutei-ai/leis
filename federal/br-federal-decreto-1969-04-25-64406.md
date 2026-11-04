@@ -1,5 +1,3 @@
-###DEC-064406-0-000-25-04-1969@@@
-
 DECRETO Nº 64.406, de 25 de abril de 1969.
 
 Muda a subordinação da Diretoria de Finanças do Ministério do Exército e dá outras providências.

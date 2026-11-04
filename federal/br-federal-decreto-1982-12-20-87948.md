@@ -1,5 +1,3 @@
-###DEC-087948-0-000-20-12-1982@@@
-
 decreto nº 87.948, de 20 de dezembro de 1982
 
 Autoriza o aumento do Capital Social de FURNAS - Centrais Elétricas S.A.

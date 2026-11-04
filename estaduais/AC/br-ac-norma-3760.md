@@ -1,6 +1,10 @@
 > **LEI Nº 3.625, DE 12 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Extingue o Fundo de Financiamento para Água e Esgoto do Estado do Acre - FAEAC, instituído pela Lei nº 568, de 5 de novembro de 1975 e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Extingue o Fundo de Financiamento para Água e Esgoto do Estado do Acre - FAEAC, instituído pela Lei nº 568, de 5 de novembro de 1975 e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-095683-0-000-28-01-1988@@@
-
 DECRETO N° 95.683, DE 28 DE JANEIRO DE 1988
 
 Estabelece normas complementares ao Regulamento da Lei n° 7.596, de 10 de abril de 1987, e dá outras providências.

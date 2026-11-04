@@ -27,7 +27,6 @@ sha256_markdown: "49034018fb58231c48e77b12f84860ec90df03f001b6999dca119551ee4e3d
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 54, DE 20 DE SETEMBRO DE 2007
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > Referência de catálogo da Câmara (não usada como fonte principal nesta entrega): https://www2.camara.leg.br/legin/fed/emecon/2007/emendaconstitucional-54-20-setembro-2007-559896-publicacaooriginal-82340-pl.html.
 >
-> Este texto não substitui o publicado no DOU de 21.9.2007
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2007-09-20-54.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -86,8 +84,4 @@ Brasília, em 20 de setembro de 2007
 | Deputado Osmar Serraglio 1º Secretário | Senador EFRAIM MORAIS 1º Secretário |
 | Deputado Ciro Nogueira 2º Secretário | Senador Gerson Camata 2º Secretário |
 | Deputado Waldemir Moka 3º Secretário | Senador César Borges 3º Secretário |
-| Deputado José Carlos Machado 4º Secretário | Senador Magno Malta 4º Secretário |
-
-Este texto não substitui o publicado no DOU 21.9.2007
-
-\*
+| Deputado José Carlos Machado 4º Secretário | Senador Magno Malta 4º Secretário |\*

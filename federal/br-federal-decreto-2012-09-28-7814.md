@@ -1,5 +1,3 @@
-###DEC-007814-0-000-28-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.814, DE 28 DE SETEMBRO DE 2012
 
 Altera o art. 12 e os Anexos VII, VIII e X do Decreto nº 7.680, de 17 de fevereiro de 2012, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2012 e dá outras providências.

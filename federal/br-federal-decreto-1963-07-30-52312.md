@@ -1,5 +1,3 @@
-###DEC-052312-0-000-30-07-1963@@@
-
 DECRETO Nº 52.312, DE 30 DE JULHO DE 1963.
 
 Dispõe sôbre a Delegação Permanente do Brasil junto à Associação Latino-Americana de livre Comércio (ALALC).

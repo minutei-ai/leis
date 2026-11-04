@@ -1,5 +1,3 @@
-###DEC-062545-0-000-16-04-1968@@@
-
 DECRETO Nº 62.545, DE 16 DE ABRIL DE 1968.
 
 Transfere da Indústria de Luz e Fôrça de Limoeiro Ltda. para a Companhia de Eletricidade de Pernambuco – CELPE, as concessões para distribuir energia elétrica nos municípios de Cumaru e Passira, Estado de Pernambuco.

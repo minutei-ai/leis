@@ -1,7 +1,3 @@
-1
-
-###DEL-002330-0-000-22-05-1987@@@
-
 # DECRETO-LEI Nº 2.330, DE 22 DE MAIO DE 1987
 
 Altera o limite percentual da Gratificação de Segurança de Vôo instituída pelo art. 5º da Lei nº 7.139, de 7 de novembro de 1983, e dá outras providências.

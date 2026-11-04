@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211304)<br>
-
 # DECRETO N° 69.782, DE 11 DE AGOSTO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título gratuito e por prazo determinado, do Município de Rubiácea, o imóvel que especifica._

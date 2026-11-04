@@ -60,11 +60,14 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 23 de janeiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-DIVINO ETERNO<br>
+DIVINO ETERNO
+
 Secretário Municipal de Educação
 
-FÁBIO PASSAGLIA<br>
-Secretário de Governo<br>
+FÁBIO PASSAGLIA
+
+Secretário de Governo

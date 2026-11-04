@@ -1,5 +1,3 @@
-###DEC-067215-0-000-17-09-1970@@@
-
 DECRETO Nº 67.215, dE 17 DE SETEMBRO DE 1970.
 
 Fixa o formato fundamental para papéis de expediente de uso no Serviço Público Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081709-0-000-23-05-1978@@@
-
 Decreto nº 81.709, de 23 de maio de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha transmissão da Companhia Brasileira de Energia Elétrica - CBEE, no Estado do Rio de Janeiro.

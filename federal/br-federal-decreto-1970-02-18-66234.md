@@ -1,5 +1,3 @@
-###DEC-066234-0-000-18-02-1970@@@
-
 DECRETO Nº 66.234 - DE 18 DE FEVEREIRO DE 1970
 
 Altera o enquadramento dos cargos e funções do Quadro de Pessoal - Parte Permanente - do Ministério da Marinha, de que trata o Decreto nº 51.527, de 31 de julho de 1962.

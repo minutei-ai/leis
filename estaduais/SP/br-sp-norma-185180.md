@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185180)
-
 # DECRETO Nº 63.208, DE 08 DE FEVEREIRO DE 2018
 
 ### _Dispõe sobre a isenção e redução de base de cálculo do ICMS em operação com bens ou mercadorias destinadas às atividades de exploração ou produção de petróleo e gás natural_
@@ -110,13 +108,18 @@ Palácio dos Bandeirantes, 8 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
+Helcio Tokeshi
+
 Secretário da Fazenda
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 8 de fevereiro de 2018.
 
 OFÍCIO GS-CAT
@@ -131,7 +134,10 @@ Helcio Tokeshi
 
 Secretário da Fazenda
 
-A Sua Excelência o Senhor<br>
-GERALDO ALCKMIN<br>
-Governador do Estado de São Paulo<br>
+A Sua Excelência o Senhor
+
+GERALDO ALCKMIN
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

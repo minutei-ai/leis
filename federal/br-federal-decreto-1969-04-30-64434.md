@@ -1,5 +1,3 @@
-###DEC-064434-0-000-30-04-1969@@@
-
 DECRETO nº 64.434, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Patronato Santo Antônio de Coxipó, da Fonte, com sede em Coxipó da Ponte, Cuiabá, Estado de Mato Grosso.

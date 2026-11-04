@@ -1,5 +1,3 @@
-###DEL-007035-0-000-09-11-1944@@@
-
 DECRETO-LEI N. 7.035 – DE 9 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 8.000,00, à verba que especifica

@@ -1,16 +1,14 @@
-###DEC-037500-0-000-17-06-1955@@@
+**DECRETO Nº 37.500, DE 17 DE JUNHO DE 1955.**
 
-<strong>DECRETO Nº 37.500, DE 17 DE JUNHO DE 1955.</strong>
+***Autoriza o Ministério da Viação e Obras Públicas a ceder à Companhia Hidro Elétrica de São Francisco a Usina Termo Elétrica de Cotegipe e o Parque Elétrico Lauro de Freitas, onde se acha localizada a referida Usina, no sub-distrito de Categipe, município de Salvador, Estado da Bahia.***
 
-<em><strong>Autoriza o Ministério da Viação e Obras Públicas a ceder à Companhia Hidro Elétrica de São Francisco a Usina Termo Elétrica de Cotegipe e o Parque Elétrico Lauro de Freitas, onde se acha localizada a referida Usina, no sub-distrito de Categipe, município de Salvador, Estado da Bahia.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, I, da Constituição Federal, e tendo em vista o disposto nos artigos 125 e 126 do Decreto-lei número 9.760, de 5 de setembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, I, da Constituição Federal, e tendo em vista o disposto nos artigos 125 e 126 do Decreto-lei número 9.760, de 5 de setembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica o Ministério da Viação e Obras Públicas Hidro Elétrica do São Francisco, pelo prazo de duração de sua concessão, a Usina Termo-Elétrica de Cotegipe, com a capacidade de 20.000kw (duas unidades de 4.000 e uma de 12.000kw), e o Parque Elétrico Lauro de Freitas, onde se acha instalada a referida Usina, situado no subdistrito de Cotegipe, município de Salvador, Estado da Bahia, ora administrado pela Viação Férrea Federal Leste Brasileiro.
 
-<strong>Art</strong>. 1º Fica o Ministério da Viação e Obras Públicas Hidro Elétrica do São Francisco, pelo prazo de duração de sua concessão, a Usina Termo-Elétrica de Cotegipe, com a capacidade de 20.000kw (duas unidades de 4.000 e uma de 12.000kw), e o Parque Elétrico Lauro de Freitas, onde se acha instalada a referida Usina, situado no subdistrito de Cotegipe, município de Salvador, Estado da Bahia, ora administrado pela Viação Férrea Federal Leste Brasileiro.
-
-<strong>Art</strong>. 2º A cessão abrangerá ainda:
+**Art**. 2º A cessão abrangerá ainda:
 
 a) as instalações e todo o material inclusive em depósito, da Usina de Cotegipe;
 
@@ -22,7 +20,7 @@ d) linha de transmissão de energia elétrica de Cotegipe a Alagoinhas, com dupl
 
 e) subestação abaixadora de 2.400KVA de Alagoinhas de 33/11KV, inclusive edifício, equipamentos e material em depósito.
 
-<strong>Art</strong>. 3º A presente cessão a ser feita sem quaisquer ônus para a Companhia Hidro Elétrica do São Francisco, além dos indicados neste artigo, obedecerá as seguintes condições:
+**Art**. 3º A presente cessão a ser feita sem quaisquer ônus para a Companhia Hidro Elétrica do São Francisco, além dos indicados neste artigo, obedecerá as seguintes condições:
 
 a) A Companhia Hidro Elétrica do São Francisco fará a Viação Férrea Federal Leste Brasileiro do Ministério da Viação e Obras Públicas o necessário fornecimento de energia elétrica para os seus serviços de oficina e tração;
 
@@ -34,12 +32,12 @@ d) quaisquer importâncias devidas pela Viação Férrea Federal Leste Brasileir
 
 e) caberá ainda à Viação Federal Leste Brasileiro, até a data em que for efetivada a cessão ora autorizada, a responsabilidade do pagamento pelo consumo do gás natural de Aratu que lhe é fornecido para o acionamento da Usina Termo-Elétrica de Cotegipe.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 17 de junho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Octavio Marcondes Ferraz

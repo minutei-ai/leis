@@ -1,8 +1,11 @@
 LEI Nº 22.813, DE 27 DE JUNHO DE 2024
 
-\- [Vide Decreto nº 10.915, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114774) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado no Município de Trindade.<br>
-\- [Vide Decreto nº 10.708, de 16-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110963/decreto-10708) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade<br>
-\- [Vide Decreto nº 10.491, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109159/decreto-10491) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado no Município de Trindade.<br>
+\- [Vide Decreto nº 10.915, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114774) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado no Município de Trindade.
+
+\- [Vide Decreto nº 10.708, de 16-6-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110963/decreto-10708) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade
+
+\- [Vide Decreto nº 10.491, de 4-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109159/decreto-10491) - Dispõe sobre o funcionamento da sede simbólica da Capital do Estado no Município de Trindade.
+
  
 
 Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.

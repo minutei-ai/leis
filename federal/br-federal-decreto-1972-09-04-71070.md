@@ -1,5 +1,3 @@
-###DEC-071070-0-000-04-09-1972@@@
-
 DECRETO Nº 71.070, DE 4 DE SETEMBRO DE 1972.
 
 Concede indulto e comuta penas impostas a sentenciados primários e dá providências correlatas.

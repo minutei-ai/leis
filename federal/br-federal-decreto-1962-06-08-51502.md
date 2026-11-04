@@ -1,5 +1,3 @@
-###DEC-051502-0-000-08-06-1962@@@
-
 Decreto nº 51.502, de 8 de junho de 1962.
 
 Altera o Decreto nº 51.419, de 23 de fevereiro de 1962 e dá outras providências.

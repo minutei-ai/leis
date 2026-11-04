@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e6df1736-1ffb-4686-b241-e43f208bbaab/texto#nowhere)
 
-###DEL-000834-0-000-08-09-1969@@@
-
 Decreto-lei nº 834, DE 8 DE setembro de 1969
 
 Dispõe sôbre a entrega das parcelas, pertencentes aos Municípios, do produto da arrecadação do impôsto sôbre circulação de mercadoria, estabelece normas gerais sôbre conflito da competência tributaria, sôbre o impôsto de serviços e dá outras providências.

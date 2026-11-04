@@ -1,5 +1,3 @@
-###DEC-002702-0-000-30-07-1998@@@
-
 DECRETO Nº 2.702, DE 30 DE JULHO DE 1998
 
 Remaneja cargo em comissão do Grupo  Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

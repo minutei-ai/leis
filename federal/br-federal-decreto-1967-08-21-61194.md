@@ -1,5 +1,3 @@
-###DEC-061194-0-000-21-08-1967@@@
-
 DECRETO Nº 61.194, DE 21 DE AGÔSTO DE 1967.
 
 Concede reconhecimento a Faculdade de Direito de Presidente Prudente, São Paulo.

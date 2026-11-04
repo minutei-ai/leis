@@ -1,5 +1,3 @@
-###DEC-056931-0-000-01-10-1965@@@
-
 DECRETO Nº 56.931, DE 1 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro José Passos de Resende a pesquisar cassiterita no município de Coronel Xavier Chaves, Estado de Minas Gerais.

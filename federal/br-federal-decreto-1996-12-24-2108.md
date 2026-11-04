@@ -1,7 +1,3 @@
-1
-
-###DEC-002108-0-000-24-12-1996@@@
-
 DECRETO Nº 2.108, DE 24 DE DEZEMBRO DE 1996.
 
 Altera dispositivos do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, e modificado por disposições posteriores.

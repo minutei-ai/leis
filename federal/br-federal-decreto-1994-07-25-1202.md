@@ -1,7 +1,3 @@
-1
-
-###DEC-001202-0-000-25-07-1994@@@
-
 DECRETO N° 1.202, DE 25 DE JULHO DE 1994
 
 Dá nova redação ao inciso XI do art. 1° do Decreto n° 702, de 22 de dezembro de 1992.

@@ -1,5 +1,3 @@
-###DEC-067311-0-000-01-10-1970@@@
-
 DECRETO Nº 67.311, DE 1 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 35.607 de 2-6-54.

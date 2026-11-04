@@ -1,5 +1,3 @@
-###DEC-076296-0-000-18-09-1975@@@
-
 DECRETO Nº 76.296 - DE 18 DE SETEMBRO DE 1975
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, sem benfeitorias, a ser desmembrada de maior porção, situada à Rua Duque de Caxias, cidade de Santa Bárbara D'Oeste, Estado de São Paulo, destinada à construção da estação telefônica local, pela Telecomunicações de São Paulo S.A. - TELESP.

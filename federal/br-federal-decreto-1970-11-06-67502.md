@@ -1,5 +1,3 @@
-###DEC-067502-0-000-06-11-1970@@@
-
 DECRETO Nº 67.502, DE 6 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional - e Companhia Nacional de Navegação Costeira.

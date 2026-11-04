@@ -1,5 +1,3 @@
-###DEC-073484-0-000-17-01-1974@@@
-
 deCRETO N.º 73.484, DE 17 DE JANEIRO DE 1974.
 
 Concede reconhecimento à Faculdade de Educação Física do Instituto Educacional Piracicabano, com sede na cidade de Piracicaba, Estado de São Paulo.

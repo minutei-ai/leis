@@ -1,5 +1,3 @@
-###DEL-001516-0-000-31-12-1976@@@
-
 # DECRETO-LEI Nº 1.516, DE 31 DE DEZEMBRO DE 1976
 
 Dá nova redação a dispositivos do Decreto-lei nº 1.370, de 9 de dezembro de 1974, que dispõe sobre a tributação dos rendimentos auferidos por garimpeiros matriculados e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51251)
-
 # LEI Nº 11.773, DE 07 DE JULHO DE 2004
 
 ## (PL 1078/2003 - Carlinhos Almeida)

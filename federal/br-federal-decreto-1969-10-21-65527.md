@@ -1,5 +1,3 @@
-###DEC-065527-0-000-21-10-1969@@@
-
 DECRETO Nº 65.527 - DE 21 DE OUTUBRO DE 1969.
 
 Institui, no Ministério da Fazenda, a Comissão de Coordenação da Política de Compras no Exterior.

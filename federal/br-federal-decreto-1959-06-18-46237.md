@@ -1,5 +1,3 @@
-###DEC-046237-0-000-18-06-1959@@@
-
 DECRETO Nº 46.237, DE 18 DE JUNHO DE 1959.
 
 Regula o publicação de atos relativos a pessoal da administração descentralizada e dá outras providências.

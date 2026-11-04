@@ -1,5 +1,3 @@
-###DEC-068105-0-000-22-01-1971@@@
-
 DECRETO Nº 68.105, DE 22 DE JANEIRO DE 1971
 
 Dispõe sobre o emprego de Grupos-Tarefa no Conselho Nacional de Siderurgia (CONSIDER) e no Conselho de Desenvolvimento Industrial (CDI) e dá outras providências.

@@ -1,16 +1,14 @@
-###DEC-018887-0-000-15-06-1945@@@
+**DECRETO Nº 18.887, DE 15 DE JUNHO DE 1945.**
 
-<strong>DECRETO Nº 18.887, DE 15 DE JUNHO DE 1945.</strong>
+***Dispõe sÔbre o fornecimento de energia Elétrica à estância hidro-mineral de Lindoia, Estado de São Paulo, e dá outras providências.***
 
-<em><strong>Dispõe sÔbre o fornecimento de energia Elétrica à estância hidro-mineral de Lindoia, Estado de São Paulo, e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e nos têrmos do art. 1º, item II e § 2º do Decreto-lei nº 4.295, de 13 de maio de 1942:
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e nos têrmos do art. 1º, item II e § 2º do Decreto-lei nº 4.295, de 13 de maio de 1942:
 
 CONSIDERANDO que a medida foi julgada conveniente pelo Conselho Nacional de Águas e Energia Elétrica;
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º A Empresa Elétrica de Amparo S. A, concessionária dos serviços de eletricidade em Lindoia, Estado de São Paulo, deverá, para a prestação dos referidos serviços, tomar as seguintes providencias:
+**Art**. 1º A Empresa Elétrica de Amparo S. A, concessionária dos serviços de eletricidade em Lindoia, Estado de São Paulo, deverá, para a prestação dos referidos serviços, tomar as seguintes providencias:
 
 I - Reforme e re-isolação da linha existente entre Serra Negra e Lindoia, a fim de que possa trabalhar sob tensão de 11.000 volts.
 
@@ -20,7 +18,7 @@ III - Modificação dos transformadores existentes no trecho Serra Negra Lindoia
 
 IV- Instalação, em Serra Negra, de um regulador de voltagem, de 2.200 volts - 25 ampéres, e de um transformador de 150 KVA, 2.200-11.000 volts.
 
-<strong>Art</strong>. 2º Sob pena de multa diária de mil cruzeiros (Cr$1.000,00), a interessada obriga-se a:
+**Art**. 2º Sob pena de multa diária de mil cruzeiros (Cr$1.000,00), a interessada obriga-se a:
 
 I - Registrar êste Decreto na Divisao de Águas, do Departamento Nacional da Produção Mineral do Ministerio da Agricultura, dentro de 30 (trinta) dias a partir de sua publicação.
 
@@ -30,10 +28,10 @@ III - Iniciar e concluir as obras nos prazos que forem determinados pelo Minist�
 
 Parágrafo único. Os prazo, a que se refere êste artigo, poderão ser prorrogados, por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º O presente Decreto torna sem efeito o de nº 15.705, de 30 de maio de 1944, e entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto torna sem efeito o de nº 15.705, de 30 de maio de 1944, e entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de junho de 1945, 124º da Independência e 5º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolonio Salles

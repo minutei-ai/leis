@@ -1,5 +1,3 @@
-###DEC-004919-0-000-17-12-2003@@@
-
 DECRETO Nº 4.919 DE 17 DE DEZEMBRO DE 2003.
 
 Acresce e altera dispositivo do Decreto nº 4.885, de 20 de novembro de 2003, que dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional de Promoção da Igualdade Racial - CNPIR.

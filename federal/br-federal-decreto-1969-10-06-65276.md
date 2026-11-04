@@ -1,5 +1,3 @@
-###DEC-065276-0-000-06-10-1969@@@
-
 DECRETO Nº 65.276 - DE 6 DE OUTUBRO DE 1969.
 
 Aprova o Estatuto da Fundação Universidade de Uberlândia.

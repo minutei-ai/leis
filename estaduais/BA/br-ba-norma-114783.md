@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir, na Secretaria da Fazenda, 
 
 Art. 2º - As despesas decorrentes da presente lei correrão à conta dos recursos  previstos no artigo 43, inciso II, da Lei  Federal nº 4.320, de 17 de março de 1964.
 
-Redação de acordo com a Lei nº 2.122, de 08 de janeiro de 1965.<br>
+Redação de acordo com a Lei nº 2.122, de 08 de janeiro de 1965.
+
 Redação original: "Art. 2º - As despesas decorrentes da presente Lei correrão à conta da verba 3.05.08, subconsignação 1.6.21.(1) do Orçamento vigente."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -21,4 +22,4 @@ Governador
 
 Ivo Braga
 
-* * *
+ *

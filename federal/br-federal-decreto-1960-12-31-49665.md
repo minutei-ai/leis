@@ -1,5 +1,3 @@
-###DEC-049665-0-000-31-12-1960@@@
-
 DECRETO Nº 49.665, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Chaffir Ferreira a pesquisar carvão mineral, no município de Cricíuma, Estado de Santa Catarina.

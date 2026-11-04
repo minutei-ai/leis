@@ -1,5 +1,3 @@
-###DEC-086130-0-000-17-06-1981@@@
-
 Decreto nº 86.130, de 17 DE junho de 1981.
 
 Autoriza a Goiás Fertilizantes S.A. - GOIASFÉRTIL a proceder ao aumento do limite do seu Capital Social.

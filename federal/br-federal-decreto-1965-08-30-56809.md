@@ -1,5 +1,3 @@
-###DEC-056809-0-000-30-08-1965@@@
-
 DECRETO Nº 56.809, DE 30 DE AGôSTO DE 1965.
 
 Declara de utilidade pública, o “Patronato Operário da Gávea”, com sede no Estado da Guanabara.

@@ -4,10 +4,12 @@ Define a estrutura e estabelece atribuições dos órgãos que compõem o Sistem
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 NORMAS GERAIS
 
-Seção I<br>
+Seção I
+
 Do Sistema Municipal de Proteção e Defesa Civil
 
 Art. 1° Fica criado o Sistema Municipal de Proteção e Defesa Civil – SIMPDEC, formado pelo Conselho Municipal de Defesa Civil – COMUDEC, pelo Fundo Municipal de Proteção e Defesa Civil – FUMPDEC, pela Superintendência Municipal de Proteção e Defesa Civil – SUMPDEC, e pela Unidade Gestora do Orçamento, o qual tem por finalidade coordenar, no âmbito municipal, todas as ações de defesa civil, nos períodos de normalidade e anormalidade, possuindo como objetivos:
@@ -54,7 +56,8 @@ II - Conselho Municipal de Proteção e Defesa Civil;
 
 III - Fundo Municipal de Proteção e Defesa Civil;
 
-Seção II<br>
+Seção II
+
 Da Superintendência Municipal de Proteção e Defesa Civil
 
 Art. 7° A Superintendência Municipal de Proteção e Defesa Civil – SUMPDEC, órgão ligado à Secretaria de Governo e Integração Institucional, responsável pelas ações de defesa civil e segurança global da comunidade, funcionará de forma permanente e integral , e será composta por:
@@ -225,7 +228,8 @@ j) supervisionar e fiscalizar os recursos empregados pelo Fundo Municipal de Def
 
 k) realizar prestações de contas periódicas para apreciação dos órgãos de controle.
 
-Seção III<br>
+Seção III
+
 Do Conselho Municipal de Defesa Civil
 
 Art. 11 O Conselho Municipal de Defesa Civil – COMUDEC será composto por representantes do Poder Público e da Sociedade Civil, nos seguintes termos:
@@ -352,7 +356,8 @@ VIII - aprovar critérios técnicos para análise e aprovação de obras e servi
 
 IX - elaborar e submeter à aprovação do Chefe do Poder Executivo o seu regimento interno.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO FUNDO MUNICIPAL DA DEFESA CIVIL
 
 Art. 13 Fica criado o Fundo Municipal de Proteção e Defesa Civil – FUMPDEC, órgão captador e aplicador dos recursos financeiros apurados com a finalidade de prover as ações e as medidas de Defesa Civil.
@@ -393,7 +398,8 @@ Art. 20 O Fundo Municipal de Proteção e Defesa Civil- FUMPDEC constituir-se-á
 
 Art. 21 O Poder Executivo providenciará as necessárias adequações na Lei de Diretrizes Orçamentárias e na Lei do Plano Plurianual em vigor, ficando autorizado a abrir créditos adicionais e especiais necessários à instituição orçamentária própria para o Fundo Municipal de Proteção e Defesa Civil – FUMPDEC.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 22 Fica instituída a Semana Municipal de Redução de Desastres, a ser comemorada na segunda semana de outubro de cada ano, destinada a aumentar o senso de percepção de risco da sociedade aparecidense, principalmente das comunidades que vivem em áreas de riscos.
@@ -426,10 +432,12 @@ Art. 27 Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 11 dias do mês de janeiro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 Secretario Municipal de Governo e Integração Institucional
 
 [ANEXOS](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19057/anexo)

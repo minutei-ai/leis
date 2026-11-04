@@ -1,5 +1,3 @@
-###DEC-059809-0-000-19-12-1966@@@
-
 DECRETO Nº 59.809, DE 19 DE DEZEMBRO DE 1966.
 
 Dá nova redação aos artigos 128 e 326 e suprime o parágrafo único do artigo 326, todos do Regulamento-Geral dos Transportes para as estradas de ferro brasileiras, aprovado pelo Decreto n.º 51.813, de 8 de março de 1963.

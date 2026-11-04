@@ -1,5 +1,3 @@
-###DEC-094506-0-000-23-06-1987@@@
-
 DECRETO N° 94.506, DE 23 DE JUNHO DE 1987.
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

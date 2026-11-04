@@ -1,5 +1,3 @@
-###DEC-069102-0-000-19-08-1971@@@
-
 DECRETO Nº 69.102, DE 19 DE AGôSTO DE 1971.
 
 Fixa a Jurisdição das Auditorias da 3ª Circunscrição Judiciária Militar (Rio Grande do Sul).

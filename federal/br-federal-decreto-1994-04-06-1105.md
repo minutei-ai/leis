@@ -1,7 +1,3 @@
-1
-
-###DEC-001105-0-000-06-04-1994@@@
-
 DECRETO N° 1.105, DE 06 DE ABRIL DE 1994
 
 Dispõe sobre o Sistema Nacional de Auditoria do Sistema Único de Saúde e dá outras providências.

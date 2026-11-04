@@ -1,5 +1,3 @@
-###MPV-001853-0-009-25-08-1999@@@
-
 Medida Provisória nº 1.853-9, de 25 de agosto de 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

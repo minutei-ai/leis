@@ -1,5 +1,3 @@
-###DEL-002086-0-000-22-12-1983@@@
-
 # Decreto-lei nº 2.086, de 22 de dezembro de 1983.
 
 Reajusta o valor do soldo base de cálculo da remuneração dos militares da Polícia-Militar e do Corpo de Bombeiros do Distrito Federal.

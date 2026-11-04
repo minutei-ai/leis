@@ -1,5 +1,3 @@
-###DEL-004041-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.041 – DE 19 DE JANEIRO DE 1942
 
 Exonera do imposto territorial, nas condições que estabelece, os lotes de terreno em curso de venda a prestações, em que hajam sido erigidas construções sujeitas ao pagamento do imposto predial

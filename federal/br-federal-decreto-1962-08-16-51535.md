@@ -1,5 +1,3 @@
-###DEC-051535-0-000-16-08-1962@@@
-
 DECRETO Nº 51.535, de 16 de agôsto de 1962.
 
 Altera o Decreto nº 50.562, de 8 de maio de 1961

@@ -1,5 +1,3 @@
-###DEC-053323-0-000-18-12-1963@@@
-
 decreto nº 53.323, de 18 de dezembro de 1963.
 
 Declara de utilidade pública para efeito de desapropriação, o imóvel que menciona situado na Cidade do Salvador, Estado da Bahia e destinado à instalação e funcionamento da Escola Técnica de Comércio, mantida pela Fundação Visconde de Cayrú.
@@ -19,8 +17,6 @@ Brasília, 18 de dezembro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Julio Furquim Sambaquy
-
-###DEC-053323-0-000-18-12-1963@@@RET01+++
 
 Decreto Nº 53.323, DE 18 DE DEZEMBRO DE 1963.
 

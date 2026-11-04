@@ -1,5 +1,3 @@
-###DEC-089764-0-000-07-06-1984@@@
-
 Decreto nº 89.764, de 07 de junho de 1984
 
 Autoriza a transferência direta da concessão outorgada à RAULAND BELÉM SOM LTDA., para a RÁDIO RAULAND AM CASTANHAL LTDA.

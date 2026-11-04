@@ -1,5 +1,3 @@
-###DEC-059377-0-000-11-10-1966@@@
-
 Decreto nº 59.377, de 11 de outubro de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Nôvo Horizonte, Estado de São Paulo.

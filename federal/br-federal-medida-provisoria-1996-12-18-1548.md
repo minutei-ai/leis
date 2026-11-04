@@ -1,7 +1,3 @@
-1
-
-###MPV-001548-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.548, DE 18 DE DEZEMBRO DE 1996.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

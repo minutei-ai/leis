@@ -1,5 +1,3 @@
-###DEC-082464-0-000-23-10-1978@@@
-
 Decreto nº 82.464, de 23 de outubro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz -CPFL, no Estado de São Paulo.

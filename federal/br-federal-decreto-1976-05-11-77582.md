@@ -1,5 +1,3 @@
-###DEC-077582-0-000-11-05-1976@@@
-
 DECRETO Nº 77.582 - DE 11 DE MAIO DE 1976
 
 Autoriza o funcionamento dos cursos de Engenharia Agrícola e Superior de Zootecnia, mantidos pela Faculdade de Ciências Médicas e Biológicas de Botucatu, com sede na Cidade de Botucatu, Estado de São Paulo.

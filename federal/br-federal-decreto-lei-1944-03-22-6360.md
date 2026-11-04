@@ -1,5 +1,3 @@
-###DEL-006360-0-000-22-03-1944@@@
-
 DECRETO-LEI N. 6.360 – DE 22 DE MARÇO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2.829.612,80, para obras e aparelhamento do pôrto de Laguna

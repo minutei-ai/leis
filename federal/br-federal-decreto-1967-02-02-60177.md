@@ -1,5 +1,3 @@
-###DEC-060177-0-000-02-02-1967@@@
-
 DECRETO Nº 60.177, DE 2 DE FEVEREIRO DE 1967.
 
 Suprime o despacho consular de embarcações.

@@ -1,5 +1,3 @@
-###DEC-004106-0-000-28-01-2002@@@
-
 DECRETO Nº 4.106, DE 28 DE JANEIRO DE 2002.
 
 Dispõe sobre a execução do Trigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 12 de outubro de 2001.
@@ -54,4 +52,28 @@ A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual en
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos doze dias do mês de outubro de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:253.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Argentina</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Carlos Onis Vigil</span></p></td><td style="width:283.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:253.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República do Paraguai</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">José María Casal</span></p></td><td style="width:283.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Oriental do Uruguai</span></p><p style="margin-top:6pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Elbio Rosselli Frieri</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:253.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República Argentina
+
+Carlos Onis Vigil
+
+</td><td style="width:283.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+José Artur Denot Medeiros
+
+</td></tr><tr><td style="width:253.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República do Paraguai
+
+José María Casal
+
+</td><td style="width:283.5pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República Oriental do Uruguai
+
+Elbio Rosselli Frieri
+
+</td></tr></tbody></table>

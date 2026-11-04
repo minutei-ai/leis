@@ -1,5 +1,3 @@
-###DEC-065388-0-000-13-10-1969@@@
-
 Decreto nº 65.388 - de 13 de Outubro de 1969.
 
 Extingue o Consulado Honorário do Brasil em Abidjan - Costa do Marfim.

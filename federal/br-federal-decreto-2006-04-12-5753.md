@@ -1,5 +1,3 @@
-###DEC-005753-0-000-12-04-2006@@@
-
 DECRETO Nº 5.753, DE 12 DE ABRIL DE 2006.
 
 Promulga a Convenção para a Salvaguarda do Patrimônio Cultural Imaterial, adotada em Paris, em 17 de outubro de 2003, e assinada em 3 de novembro de 2003.

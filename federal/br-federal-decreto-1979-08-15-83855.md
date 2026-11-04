@@ -1,5 +1,3 @@
-###DEC-083855-0-000-15-08-1979@@@
-
 Decreto nº 83.855, de 15 de agosto de 1979.
 
 Altera os itens I e II do artigo 1º, do Decreto nº 83.323, de 11 de abril de 1979.

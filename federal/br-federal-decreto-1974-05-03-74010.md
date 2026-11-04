@@ -1,5 +1,3 @@
-###DEC-074010-0-000-03-05-1974@@@
-
 DECRETO Nº 74.010, DE 3 DE MAIO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Uirapuru de Fortaleza Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Fortaleza, Estado do Ceará.

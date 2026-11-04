@@ -1,5 +1,3 @@
-###DEC-048724-0-000-04-08-1960@@@
-
 DECRETO Nº 48.724, DE 4 DE AGÔSTO DE 1960.
 
 Suprime cargas extintos do Quadro Suplementar do Ministério do Trabalho, Indústria e Comércio.

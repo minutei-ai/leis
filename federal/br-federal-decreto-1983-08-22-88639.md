@@ -1,5 +1,3 @@
-###DEC-088639-0-000-22-08-1983@@@
-
 Decreto nº 88.639, de 22 de agosto de 1983
 
 Altera a redação do Caput e o parágrafo 1º do Art. 1º do Decreto nº 84.595, de 25 de março de 1980, quanto à Constituição do Conselho de Não-Ferrosos e de Siderurgia - CONSIDER, e dá outras providências.

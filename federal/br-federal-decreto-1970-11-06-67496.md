@@ -1,5 +1,3 @@
-###DEC-067496-0-000-06-11-1970@@@
-
 decreto nº 67.496, de 6 de novembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional - e Companhia Nacional de Navegação Costeira e dá outras providências.

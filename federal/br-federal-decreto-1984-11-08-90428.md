@@ -1,5 +1,3 @@
-###DEC-090428-0-000-08-11-1984@@@
-
 Decreto nº 90.428, de 08 de novembro de 1984
 
 Concede à Usinas Siderúrgicas de Minas Gerais S.A. - USIMINAS (GRUPO SIDERBRÁS) autorização para.proceder a aumento do seu capital social.

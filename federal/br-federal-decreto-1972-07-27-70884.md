@@ -1,5 +1,3 @@
-###DEC-070884-0-000-27-07-1972@@@
-
 DECRETO Nº 70.884, DE 27 DE JULHO DE 1972.
 
 Cria, sem ônus para o Tesouro Nacional, o Consulado Honorário do Brasil em Stuttgart.

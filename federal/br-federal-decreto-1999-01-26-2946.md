@@ -1,5 +1,3 @@
-###DEC-002946-0-000-26-01-1999@@@
-
 DECRETO Nº 2.946, DE 26 DE JANEIRO DE 1999.
 
 Da nova redação ao art. 15 do Anexo I ao Decreto nº 2.599, de 19 de maio de 1998, e dispõe sobre a competência e as finalidades da Comissão de Cinema.

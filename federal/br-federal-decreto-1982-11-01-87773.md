@@ -1,5 +1,3 @@
-###DEC-087773-0-000-01-11-1982@@@
-
 DECRETO Nº 87.773, de 01 de novembro de 1982
 
 Eleva o capital da Empresa pública Financiadora de Estudos e Projetos - FINEP.

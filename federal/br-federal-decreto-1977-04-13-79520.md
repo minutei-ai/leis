@@ -1,5 +1,3 @@
-###DEC-079520-0-000-13-04-1977@@@
-
 DECRETO nº 79.520, de 13 de abril de 1977.
 
 Concede à Mineração Morro Grande S.A. o direito de lavrar minério de ferro no Município de Santa Barbara, Estado de Minas Gerais.

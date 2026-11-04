@@ -1,5 +1,3 @@
-###DEC-051818-0-000-12-03-1963@@@
-
 DECRETO Nº 51.818, DE 12 DE MARÇO DE 1963.
 
 Concede à Brumafer Mineração Ltda. autorização para funcionar como emprêsa de mineração.

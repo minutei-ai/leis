@@ -1,5 +1,3 @@
-###DEC-001849-0-000-29-03-1996@@@
-
 DECRETO Nº 1.849, DE 29 DE MARÇO DE 1996
 
 Delega competência ao Ministro de Estado da Fazenda para a prática do ato que menciona.

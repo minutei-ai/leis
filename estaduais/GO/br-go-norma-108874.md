@@ -20,6 +20,6 @@ Art. 4º Esta Lei entra em vigor em 1º de janeiro do ano letivo posterior ao de
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 14 de maio de 2024.
 
-<br>
-Deputado BRUNO PEIXOTO<br>
+Deputado BRUNO PEIXOTO
+
 \- PRESIDENTE -

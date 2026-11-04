@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/189222)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2019/compilacao-lei-16927-16.01.2019.html)
 
 # LEI N° 16.927, DE 16 DE JANEIRO DE 2019

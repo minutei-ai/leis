@@ -1,5 +1,3 @@
-###DEC-078082-0-000-19-07-1976@@@
-
 DECRETO Nº 78.082, de 19 de JULHO DE 1976.
 
 Declara a caducidade da concessão de lavra que menciona.

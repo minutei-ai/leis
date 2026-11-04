@@ -1,5 +1,3 @@
-###DEC-045044-0-000-11-12-1958@@@
-
 DECRETO Nº 45.044, DE 11 DE DEZEMBRO DE 1958.
 
 Dá nova redação no art. 2º do Decreto nº44.600, de 27 de setembro de 1958.

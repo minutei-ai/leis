@@ -1,5 +1,3 @@
-###DEL-008706-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.706 – DE 17 DE JANEIRO DE 1946
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei número 6. 403, de 5 de abril de 1944.

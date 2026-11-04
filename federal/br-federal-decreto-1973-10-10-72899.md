@@ -1,5 +1,3 @@
-###DEC-072899-0-000-10-10-1973@@@
-
 DECRETO Nº 72.899, de 10 de outubro de 1973.
 
 Concede permissão, em caráter permanente, à empresa EQUIPESCA - Equipamentos de Pesca S.A, com sede em Campinas, no Estado de São Paulo, para funcionar, aos domingos e nos dias feriados civis e religiosos, na Divisão de Fibras Sintéticas dos seus estabelecimentos fabris.

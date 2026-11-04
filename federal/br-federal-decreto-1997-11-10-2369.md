@@ -1,5 +1,3 @@
-###DEC-002369-0-000-10-11-1997@@@
-
 DECRETO Nº 2.369, DE 10 DE NOVEMBRO DE 1997
 
 Regulamenta a Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação, e dá outras providências.

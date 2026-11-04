@@ -1,5 +1,3 @@
-###DEC-080765-0-000-21-11-1977@@@
-
 DECRETO Nº 80.765, DE 21 DE NOVEMBRO DE 1977.
 
 Concede à Mineração Tejucana S/A o direito de lavrar diamante e minério de ouro nos Municípios de Diamantina e Bocaiúva, Estado de Minas Gerais.

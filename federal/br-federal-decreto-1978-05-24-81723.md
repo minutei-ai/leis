@@ -1,5 +1,3 @@
-###DEC-081723-0-000-24-05-1978@@@
-
 DECRETO Nº 81.723, DE 24 DE MAIO DE 1978.
 
 Concede reconhecimento ao curso de Economia Doméstica da Universidade Federal do Ceará, com sede na cidade de Fortaleza, Estado do Ceará.

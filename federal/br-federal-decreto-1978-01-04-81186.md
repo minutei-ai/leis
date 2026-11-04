@@ -1,5 +1,3 @@
-###DEC-081186-0-000-04-01-1978@@@
-
 Decreto nº 81 186, de 4 de janeiro de 1978.
 
 Aprova a transformação do curso de Desenho e Plástica em curso de Educação Artística, da Faculdade de Ciências e Letras de Araras, com sede na cidade de Araras, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-003765-0-000-27-10-1941@@@
-
 DECRETO-LEI N. 3.765 – DE 27 DE OUTUBRO DE 1941
 
 Torna sem aplicação 2.000:000$0, em dotação orçamentária do Ministério da Viação e Obras Públicas, e abre crédito especial de importância idêntica.

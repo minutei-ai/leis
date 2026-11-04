@@ -1,5 +1,3 @@
-###DEC-005546-0-000-22-09-2005@@@
-
 DECRETO Nº 5.546, DE 22 DE SETEMBRO DE 2005
 
 Altera o art. 2º do Regimento Interno do Conselho de Recursos do Sistema Nacional de Seguros Privados, de Previdência Privada Aberta e de Capitalização, aprovado pelo Decreto n o 2.824, de 27 de outubro de 1998.

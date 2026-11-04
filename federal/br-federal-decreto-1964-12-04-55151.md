@@ -1,5 +1,3 @@
-###DEC-055151-0-000-04-12-1964@@@
-
 DECRETO Nº 55.151, DE 4 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia Prata de Eletricidade a vender bens e instalações utilizados na produção de energia elétrica.

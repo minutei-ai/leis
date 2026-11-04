@@ -1,5 +1,3 @@
-###DEL-000033-0-000-01-12-1937@@@
-
 DECRETO-LEI N. 33 – DE 1 DE DEZEMBRO DE 1937
 
 Aprova o contrato firmado pelo Tesouro Nacional com o Banco do Brasil para as operações da Carteira de Redescontos

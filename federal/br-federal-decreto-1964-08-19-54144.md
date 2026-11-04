@@ -1,5 +1,3 @@
-###DEC-054144-0-000-19-08-1964@@@
-
 DECRETO Nº 54.144, DE 19 DE AGÔSTO DE 1964.
 
 Prorroga o prazo fixado para os trabalhos do Grupo Executivo da Siderúrgica de Santa Catarina.

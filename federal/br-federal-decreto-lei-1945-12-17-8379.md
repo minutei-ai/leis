@@ -1,5 +1,3 @@
-###DEL-008379-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.379 – DE 17 DE DEZEMBRO DE 1945
 
 Cria a função gratificada de Auxiliar de Comissão, no Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-058497-0-000-24-05-1966@@@
-
 Decreto nº 58.497, de 24 de maio de 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 46.520, de 27 de julho de 1959, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “PATAXÓ”, no Município de Angicos, Estado do Rio Grande do Norte.

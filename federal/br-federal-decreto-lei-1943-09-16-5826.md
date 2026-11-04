@@ -1,5 +1,3 @@
-###DEL-005826-0-000-16-09-1943@@@
-
 DECRETO–LEI N. 5.826 – DE 16 DE SETEMBRO DE 1943
 
 Prorroga o prazo para o pagamento sem multa da "Cota Especial” sobre algodão

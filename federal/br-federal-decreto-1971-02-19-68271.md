@@ -1,5 +1,3 @@
-###DEC-068271-0-000-19-02-1971@@@
-
 DECRETO Nº 68.271,DE 19 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública a Ação Social Nossa Senhora de Fátima, com sede em Brasília, Distrito Federal.

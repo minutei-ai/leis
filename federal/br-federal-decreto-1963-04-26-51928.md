@@ -1,5 +1,3 @@
-###DEC-051928-0-000-26-04-1963@@@
-
 DECRETO Nº 51.928, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão Antônio Rodrigues Pimentel, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-002864-0-000-07-12-1998@@@
-
 DECRETO Nº 2.864, DE 7 DE DEZEMBRO DE 1998.
 
 Promulga o Tratado sobre a Não-Proliferação de Armas Nucleares, assinado em Londres, Moscou e Washington, em 1º de julho de 1968.

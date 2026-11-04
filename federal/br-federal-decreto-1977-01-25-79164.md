@@ -1,5 +1,3 @@
-###DEC-079164-0-000-25-01-1977@@@
-
 DECRETO Nº 79.164, DE 25 DE JANEIRO DE 1977.
 
 Autoriza a permuta de imóveis que menciona, situadas no Distrito Federal.

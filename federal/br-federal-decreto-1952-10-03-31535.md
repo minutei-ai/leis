@@ -1,8 +1,6 @@
-###DEC-031535-0-000-03-10-1952@@@
+**DECRETO Nº 31.535, DE 3 DE OUTUBRO DE 1952.**
 
-<strong>DECRETO Nº 31.535, DE 3 DE OUTUBRO DE 1952.</strong>
-
-<em><strong>Dá nova redação ao artigo 1º do Decreto nº 25.442, de 3 de setembro de 1948.</strong></em>
+***Dá nova redação ao artigo 1º do Decreto nº 25.442, de 3 de setembro de 1948.***
 
 Artigo 1º. O artigo 1º do Decreto nº 25.442, de 3 de setembro de 1948 passa a ter a seguinte redação:
 
@@ -12,7 +10,7 @@ Artigo 2º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de outubro 1952; 131º da Independência e 64º da República
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Neves de Fontoura
 

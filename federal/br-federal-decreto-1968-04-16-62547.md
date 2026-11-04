@@ -1,5 +1,3 @@
-###DEC-062547-0-000-16-04-1968@@@
-
 DECRETO Nº 62.547, DE 16 DE ABRIL DE 1968.
 
 Concede à sociedade City of San Paulo Improvements and Freehold Land Company Limited autorização para continuar a funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-053228-0-000-12-12-1963@@@
-
 DECRETO Nº 53.228, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Benedito Ferraz dos Santos a pesquisar calcário no município de Capão Bonito, Estado de São Paulo.

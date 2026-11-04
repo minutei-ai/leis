@@ -1,5 +1,3 @@
-###DEC-053652-0-000-03-03-1964@@@
-
 DECRETO Nº 53.652, de 3 DE MARÇO DE 1964.
 
 Cria o Núcleo Colonial de Andrada em terras situadas nos Municípios de Cascavel, Catanduvas e Laranjeiras do Sul, no Estado do Paraná.

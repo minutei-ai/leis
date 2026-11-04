@@ -1,7 +1,3 @@
-1
-
-###MPV-001375-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.375, DE 11 DE ABRIL DE 1996.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências.

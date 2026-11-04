@@ -1,5 +1,3 @@
-###DEC-081937-0-000-11-07-1978@@@
-
 Decreto nº 81.937, de 11 de julho de 1978.
 
 Concede a Mineradora Rancharia Ltda. o direito de lavrar gipsita no Município de Araripina, Estado de Pernambuco.

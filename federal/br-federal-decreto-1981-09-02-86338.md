@@ -1,5 +1,3 @@
-###DEC-086338-0-000-02-09-1981@@@
-
 Decreto nº 86.338, de 02 de setembro de 1981
 
 Autoriza empresas de telecomunicações controladas pela Telecomunicações Brasileiras S.A. - TELEBRÁS a promover aumento de capital.

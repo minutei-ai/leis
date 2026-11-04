@@ -1,5 +1,3 @@
-###DEC-002298-0-000-12-08-1997@@@
-
 DECRETO Nº 2.298, DE 12 DE AGOSTO DE 1997
 
 Acresce §2º ao art. 5º do Decreto nº 1.605, de 25 de agosto de 1995, que regulamenta o Fundo Nacional de assistência Social, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096778-0-000-27-09-1988@@@
-
 DECRETO N° 96.778, DE 27 DE SETEMBRO DE 1988
 
 Outorga concessão a TELEVISÃO VALE DO PARÁIBA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Resende, Estado do Rio de Janeiro.

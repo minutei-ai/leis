@@ -1,5 +1,3 @@
-###DEC-055601-0-000-20-01-1965@@@
-
 decreto nº 55.601, de 20 de janeiro de 1965.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “Companhia de Cimento Portland Goiás”, de Ipubi, Estado de Pernambuco.
@@ -14,7 +12,35 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação do equipamento nôvo, sem similar nacional registrado, a seguir descrito e consignado à “Companhia de Cimento Portland Goiás”, de Ipubi, Estado de Pernambuco:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIFICAÇÃO</span></p></td><td style="width:35.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quant. a ser import.</span></p></td><td style="width:28.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor CIF</span></p></td><td style="width:24pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>US$</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Trator, sôbre esteira Allis-Chalmers, mod. HD-6G, acionado por motor Diesel, modêdo AG-6.000, de 72 HP, à velocidade de 1.800 rpm Equipado com: Carregadeira de comando hidráulico, modêlo TS-6, com caçamba de 1 1/2 jardas cubicas de capacidade; escarificador Allis-Chalmers, mod. TR-6, de comando hidráulico, com capacidade de penetração de 13 1/2" a lâmina, tipo “Buldozer” com 8’de largura .......................................</span></p></td><td style="width:35.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:28.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td><td style="width:24pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>566</span></p></td></tr><tr><td style="width:24.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:290.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>TOTAL .....................................................................</span></p></td><td style="width:35.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:28.45pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td><td style="width:24pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>566</span></p></td></tr></tbody></table>
+Item
+
+ESPECIFICAÇÃO
+
+Quant. a ser import.
+
+Valor CIF
+
+Total
+
+US$
+
+1
+
+Trator, sôbre esteira Allis-Chalmers, mod. HD-6G, acionado por motor Diesel, modêdo AG-6.000, de 72 HP, à velocidade de 1.800 rpm Equipado com: Carregadeira de comando hidráulico, modêlo TS-6, com caçamba de 1 1/2 jardas cubicas de capacidade; escarificador Allis-Chalmers, mod. TR-6, de comando hidráulico, com capacidade de penetração de 13 1/2" a lâmina, tipo “Buldozer” com 8’de largura .......................................
+
+1
+
+20
+
+566
+
+TOTAL .....................................................................
+
+-
+
+20
+
+566
 
 Art. 2º A isenção referida no artigo 1º dêste Decreto, fica condicionada à constituição prévia, por parte da titular, de uma emprêsa com sede no Nordeste, jurìdicamente independente e com autonomia administrativa, embora o contrôle acionário continue pertencendo às companhias que compõem o grupo industrial Severino Pereira da Silva e de que faz parte a emprêsa beneficiada.
 

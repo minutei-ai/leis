@@ -1,5 +1,3 @@
-###DEC-046649-0-000-17-08-1959@@@
-
 DECRETO Nº 46.649, DE 17 DE AGôSTO DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Marques da Silva a pesquisar diamantes, no município de Conceição do Mato Dentro, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001548-0-000-05-07-1995@@@
-
 DECRETO Nº 1.548, DE 05 DE JULHO DE 1995.
 
 Dispõe sobre a transferência dos cargos em comissão que menciona.

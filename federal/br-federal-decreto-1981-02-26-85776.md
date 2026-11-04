@@ -1,5 +1,3 @@
-###DEC-085776-0-000-26-02-1981@@@
-
 Decreto nº 85.776, de 26 de fevereiro de 1981.
 
 Dá nova redação ao artigo 1º do Decreto nº 83.323, de 11 de abril de 1979, alterado pelo Decreto nº 83.855, de 15 de agosto de 1979, e dá outras providências.

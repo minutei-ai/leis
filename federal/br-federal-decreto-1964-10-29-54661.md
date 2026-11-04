@@ -1,5 +1,3 @@
-###DEC-054661-0-000-29-10-1964@@@
-
 DECRETO Nº 54.661, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Pedro Rodrigues da Silva a pesquisar dolomita, caulim, e minérios de ferro e manganês, no município de Barra do Piraí, Estado do Rio de Janeiro.
@@ -21,8 +19,6 @@ Brasília, 29 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054661-0-000-29-10-1964@@@RET01+++
 
 DECRETO Nº 54.661, DE 29 DE OUTUBRO DE 1964.
 

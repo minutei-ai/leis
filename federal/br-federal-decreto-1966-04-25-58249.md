@@ -1,5 +1,3 @@
-###DEC-058249-0-000-25-04-1966@@@
-
 decreto nº 58.249, de 25 de abril de 1966.
 
 Outorga à Rádio Novo Andirá Ltda., para instalar uma estação de radiodifusão sonora na cidade de Rio Branco - Acre.

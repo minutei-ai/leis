@@ -1,5 +1,3 @@
-###DEC-048274-0-000-08-06-1960@@@
-
 DECRETO Nº 48.274, DE 8 DE JUNHO DE 1960.
 
 Dispõe sôbre exame médico de menores empregados em embarcações da Marinha Mercante.

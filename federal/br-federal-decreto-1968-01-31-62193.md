@@ -1,5 +1,3 @@
-###DEC-062193-0-000-31-01-1968@@@
-
 DECRETO Nº 62.193, DE 31 DE JANEIRO DE 1968.
 
 Transfere para a competência do Ministro da Agricultura a prática dos atos que menciona.

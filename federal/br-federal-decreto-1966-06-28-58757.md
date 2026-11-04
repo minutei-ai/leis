@@ -1,5 +1,3 @@
-###DEC-058757-0-000-28-06-1966@@@
-
 DECRETO Nº 58.757, DE 28 DE JUNHO DE 1966.
 
 Autoriza a cessão, sob forma de utilização gratuita, da Ilha do Cabo Frio, à Universidade Federal do Rio de Janeiro, para o fim que especifica.

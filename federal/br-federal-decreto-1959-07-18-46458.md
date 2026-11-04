@@ -1,5 +1,3 @@
-###DEC-046458-0-000-18-07-1959@@@
-
 DECRETO Nº 46.458, de 18 de julho de 1959.
 
 Concede reconhecimento ao curso de auxiliar de enfermagem da Escola de Auxiliar de Enfermagem Maria Pia Matarazzo.

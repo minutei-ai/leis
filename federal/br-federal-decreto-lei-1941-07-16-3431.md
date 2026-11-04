@@ -1,5 +1,3 @@
-###DEL-003431-0-000-16-07-1941@@@
-
 DECRETO-LEI N. 3.431 – DE 16 DE JULHO DE 1941
 
 Dispõe sobre a aplicação do crédito aberto pelo decreto-lei nº 3.123, de  19 de março de 1941

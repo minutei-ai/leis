@@ -1,5 +1,3 @@
-###DEC-070568-0-000-18-05-1972@@@
-
 DECRETO Nº 70.568, DE 18 DE MAIO DE 1972.
 
 Dispõe sobre o Conselho Nacional de Telecomunicações, cria o Conselho Nacional de Comunicações e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-073168-0-000-20-11-1973@@@
-
 DECRETO Nº 73.168 - DE 20 DE NOVEMBRO DE 1973
 
 Autoriza a permuta dos imóveis que menciona, situados em Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-006272-0-000-23-11-2007@@@
-
 DECRETO Nº 6.272, DE 23 DE NOVEMBRO DE 2007.
 
 Dispõe sobre as competências, a composição e o funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA.
@@ -205,5 +203,3 @@ Brasília, 23 de novembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 26.11.2007

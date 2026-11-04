@@ -1,5 +1,3 @@
-###DEC-045039-0-000-05-12-1958@@@
-
 decreto nº 45.039, de 5 de dezembro de 1958.
 
 Cria a Comissão de Supervisão de Órgãos Autônomos e dá outras providências.

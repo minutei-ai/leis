@@ -1,5 +1,3 @@
-###DEC-083196-0-000-23-02-1979@@@
-
 Decreto nº 83.196, de 23 de fevereiro de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-070919-0-000-03-08-1972@@@
-
 DECRETO Nº 70.919, DE 3 DE AGOSTO DE 1972.
 
 Declara sem efeito o Decreto número 59.555, de 11 de novembro de 1966.

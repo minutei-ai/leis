@@ -1,5 +1,3 @@
-###DEC-075726-0-000-13-05-1975@@@
-
 DECRETO Nº 75.726, DE 13 DE MAIO DE 1975.
 
 Autoriza a transformação do curso de Desenho e Plástica para curso de Educação Artística, da Faculdade de Ciências da Fundação Educacional de Bauru, com sede na cidade de Bauru, Estado de São Paulo.

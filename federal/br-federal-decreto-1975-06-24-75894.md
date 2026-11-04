@@ -1,5 +1,3 @@
-###DEC-075894-0-000-24-06-1975@@@
-
 DECRETO Nº 75.894, DE 24 DE JUNHO DE 1975.
 
 Autoriza a cessão, sob a forma de utilização gratuita, dos terrenos que menciona, situados no Município de Cachoeira do Sul, Estado do Rio Grande do Sul.

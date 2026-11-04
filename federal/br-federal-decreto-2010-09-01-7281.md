@@ -1,5 +1,3 @@
-###DEC-007281-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.281, DE 1º DE SETEMBRO DE 2010.
 
 Promulga o Convênio de Previdência Social entre a República Federativa do Brasil e a República do Chile, firmado em Santiago, em 26 de abril de 2007, e dá outras providências
@@ -446,8 +444,24 @@ Prazo de Vigência
 
 Feito em Santiago, Chile, em 26 de abril de 2007, em dois exemplares originais, em português e espanhol, sendo ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:288.7pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">PELA REPÚBLICA FEDERATIVA DO BRASIL: ______________________________ CELSO AMORIM Ministro das Relações Exteriores</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; font-size:0.83em">____________________________ LUIZ MARINHO Ministro da Previdência Social</span></p></td><td style="width:223.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELA REPÚBLICA DO CHILE: _________________________________ ALEJANDRO FOXLEY RIOSECO Ministro de Relações Exteriores _____________________________ OSVALDO ANDRADE Ministro do Trabalho e Previdência Social</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:288.7pt; vertical-align:top">
+
+PELA REPÚBLICA FEDERATIVA DO BRASIL: ______________________________ CELSO AMORIM Ministro das Relações Exteriores ____________________________ LUIZ MARINHO Ministro da Previdência Social
+
+</td><td style="width:223.55pt; vertical-align:top">
+
+PELA REPÚBLICA DO CHILE: _________________________________ ALEJANDRO FOXLEY RIOSECO Ministro de Relações Exteriores _____________________________ OSVALDO ANDRADE Ministro do Trabalho e Previdência Social
+
+</td></tr></tbody></table>
 
 Feito em Santiago, Chile, em 26 de abril de 2007, em dois exemplares originais, em português e espanhol, sendo ambos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:297.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELA REPÚBLICA FEDERATIVA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">DO BRASIL:</span></p></td><td style="width:160.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial Unicode MS Western'">PELA REPÚBLICA DO CHI</span><span style="font-family:'Arial Unicode MS'">LE:</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:297.75pt; vertical-align:top">
+
+PELA REPÚBLICA FEDERATIVA&nbsp; DO BRASIL:
+
+</td><td style="width:160.5pt; vertical-align:top">
+
+PELA REPÚBLICA DO CHILE:
+
+</td></tr></tbody></table>

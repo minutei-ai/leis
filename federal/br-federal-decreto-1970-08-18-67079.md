@@ -1,5 +1,3 @@
-###DEC-067079-0-000-18-08-1970@@@
-
 DECRETO Nº 67.079, DE 18 DE AGôSTO DE 1970.
 
 Declara caduco o Decreto nº 35.028, de 10 de fevereiro de 1954.

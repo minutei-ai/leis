@@ -1,5 +1,3 @@
-###DEC-052910-0-000-22-11-1963@@@
-
 DECRETO Nº 52.910, DE 22 DE NOVEMBRO DE 1963.
 
 Declara de utilidade pública o Instituto de Formação Doméstica e Social Campineiro, com sede em Campinas, Estado de são Paulo.

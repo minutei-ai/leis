@@ -1,5 +1,3 @@
-###DEC-073569-0-000-25-01-1974@@@
-
 DECRETO Nº 73.569, DE 25 DE JANEIRO DE 1974.
 
 Cancela a autorização de funcionamento concedida á faculdade de Música "Sagrado Coração de Jesus", de São Paulo, SP.

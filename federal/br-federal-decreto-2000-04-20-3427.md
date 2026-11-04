@@ -1,5 +1,3 @@
-###DEC-003427-0-000-20-04-2000@@@
-
 DECRETO Nº 3.427, DE 20 DE ABRIL DE 2000.
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional (regime de origem transitório) ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do MERCOSUL, e o Governo da República da Bolívia, de 30 de dezembro de 1999.

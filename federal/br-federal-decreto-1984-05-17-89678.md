@@ -1,5 +1,3 @@
-###DEC-089678-0-000-17-05-1984@@@
-
 Decreto nº 89.678, de 17 de maio de 1984.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

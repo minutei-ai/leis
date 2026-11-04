@@ -1,7 +1,3 @@
-1
-
-###DEC-095780-0-000-04-03-1988@@@
-
 DECRETO N.° 95.780, DE 4 DE MARÇO DE 1988
 
 Fixa para o exercício de 1988, o limite global de importação pela Zona Franca de Manaus e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075716-0-000-12-05-1975@@@
-
 DECRETO Nº 75.716, DE 12 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Fisiologia, Ciências e Letras "Tibiriça", mantida pela Associação Tibiriça de Educação, com sede na cidade de São Paulo, Estado de São Paulo.

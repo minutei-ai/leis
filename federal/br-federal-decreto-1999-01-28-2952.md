@@ -1,5 +1,3 @@
-###DEC-002952-0-000-28-01-1999@@@
-
 DECRETO Nº 2.952, DE 28 DE JANEIRO DE 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores – DAS que menciona, e dá outras providências.

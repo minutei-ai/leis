@@ -1,14 +1,12 @@
-###DEC-028334-0-000-04-07-1950@@@
+**DECRETO Nº 28.334, DE 4 DE JULHO DE 1950.**
 
-<strong>DECRETO Nº 28.334, DE 4 DE JULHO DE 1950.</strong>
+***Altera a redação do art. 2º do Regulamento para Conselho do Almirantado, aprovado pelo Decreto nº 22.070, de 10 de novembro de 1932.***
 
-<em><strong>Altera a redação do art. 2º do Regulamento para Conselho do Almirantado, aprovado pelo Decreto nº 22.070, de 10 de novembro de 1932.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 2.º do Regulamento para o Conselho do Almirantado, aprovado pelo Decreto nº 22.070, de 10 de novembro de 1932, passa a vigorar com a seguinte redação:
+**Art**. 1º O art. 2.º do Regulamento para o Conselho do Almirantado, aprovado pelo Decreto nº 22.070, de 10 de novembro de 1932, passa a vigorar com a seguinte redação:
 
 “Art. 2º O Conselho do Almirantado será constituído dos Almirantes que ocuparem os cargos de:
 
@@ -48,10 +46,10 @@ Consultor Jurídico do Ministério da Marinha.
 
 § 3º Sempre que o assunto a tratar fôr de natureza que exija elucidação especial, poderá o Conselho, por intermédio de seu vice-presidente, convidar chefes dos órgãos da administração Naval, ou profissionais especializados no assunto, para emitirem opinião a respeito, sem que tenham, entretanto, direito de voto na decisão em plenário”.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 4 de julho de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha

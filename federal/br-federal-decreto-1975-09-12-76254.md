@@ -1,5 +1,3 @@
-###DEC-076254-0-000-12-09-1975@@@
-
 DECRETO Nº 76.254, DE 12 DE SETEMBRO DE 1975.
 
 Concede à Mineração Santa Patrícia Ltda, o direito de lavrar calcário no Município de Monte Alegre, Estado do Pará.

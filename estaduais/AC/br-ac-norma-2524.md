@@ -1,6 +1,10 @@
 > **LEI Nº 3.232, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a estrutura da carreira dos cargos de agente de atividade agropecuária, técnico agroflorestal e técnico em defesa agropecuária e florestal da administração direta e indireta do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a estrutura da carreira dos cargos de agente de atividade agropecuária, técnico agroflorestal e técnico em defesa agropecuária e florestal da administração direta e indireta do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -104,20 +108,6 @@ Rio Branco – Acre, 15 de março de 2017, 129º da República, 115º do Tratado
 
 Governador do Estado do Acre
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 **ANEXO ÚNICO**
 
-<br>
-
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"><p><span><strong><span>VENCIMENTO BÁSICO</span></strong></span></p></td></tr><tr><td><p><span><strong><span>NÍVEL</span></strong></span></p></td><td><p><span><strong><span>A partir de 1º de janeiro de 2018</span></strong></span></p></td><td><p><span><strong><span>A partir de 1º de junho de 2018</span></strong></span></p></td></tr><tr><td><p><span><span>A</span></span></p></td><td><p><span><span>2.205,78</span></span></p></td><td><p><span><span>4.411,56</span></span></p></td></tr><tr><td><p><span><span>B</span></span></p></td><td><p><span><span>2.426,35</span></span></p></td><td><p><span><span>4.852,71</span></span></p></td></tr><tr><td><p><span><span>C</span></span></p></td><td><p><span><span>2.646,93</span></span></p></td><td><p><span><span>5.293,86</span></span></p></td></tr><tr><td><p><span><span>D</span></span></p></td><td><p><span><span>2.867,50</span></span></p></td><td><p><span><span>5.735,01</span></span></p></td></tr><tr><td><p><span><span>E</span></span></p></td><td><p><span><span>3.088,08</span></span></p></td><td><p><span><span>6.176,16</span></span></p></td></tr><tr><td><p><span><span>F</span></span></p></td><td><p><span><span>3.308,65</span></span></p></td><td><p><span><span>6.617,31</span></span></p></td></tr><tr><td><p><span><span>G</span></span></p></td><td><p><span><span>3.529,23</span></span></p></td><td><p><span><span>7.058,46</span></span></p></td></tr><tr><td><p><span><span>H</span></span></p></td><td><p><span><span>3.749,80</span></span></p></td><td><p><span><span>7.499,61</span></span></p></td></tr><tr><td><p><span><span>I</span></span></p></td><td><p><span><span>3.970,38</span></span></p></td><td><p><span><span>7.940,76</span></span></p></td></tr><tr><td><p><span><span>J</span></span></p></td><td><p><span><span>4.190,95</span></span></p></td><td><p><span><span>8.381,91</span></span></p></td></tr></tbody></table>
-
-<br>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> **VENCIMENTO BÁSICO** </td></tr><tr><td> **NÍVEL** </td><td> **A partir de 1º de janeiro de 2018** </td><td> **A partir de 1º de junho de 2018** </td></tr><tr><td> A </td><td> 2.205,78 </td><td> 4.411,56 </td></tr><tr><td> B </td><td> 2.426,35 </td><td> 4.852,71 </td></tr><tr><td> C </td><td> 2.646,93 </td><td> 5.293,86 </td></tr><tr><td> D </td><td> 2.867,50 </td><td> 5.735,01 </td></tr><tr><td> E </td><td> 3.088,08 </td><td> 6.176,16 </td></tr><tr><td> F </td><td> 3.308,65 </td><td> 6.617,31 </td></tr><tr><td> G </td><td> 3.529,23 </td><td> 7.058,46 </td></tr><tr><td> H </td><td> 3.749,80 </td><td> 7.499,61 </td></tr><tr><td> I </td><td> 3.970,38 </td><td> 7.940,76 </td></tr><tr><td> J </td><td> 4.190,95 </td><td> 8.381,91 </td></tr></tbody></table>

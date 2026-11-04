@@ -1,5 +1,3 @@
-###DEC-056268-0-000-06-05-1965@@@
-
 DECRETO Nº 56.268, DE 6 DE MAIO DE 1965.
 
 Autoriza, em caráter excepcional, a permanência do pessoal que especifica.

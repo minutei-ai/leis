@@ -1,7 +1,3 @@
-1
-
-###MPV-000802-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 802, de 30 de DEZEMBRO de 1994
 
 Institui a Taxa de Juros de Longo Prazo (TJLP), dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

@@ -1,18 +1,16 @@
-###LEI-000247-0-000-15-12-1894@@@
+**LEI N. 247 – DE 15 DE DEZEMBRO DE 1894**
 
-<strong>LEI N. 247 – DE 15 DE DEZEMBRO DE 1894</strong>
-
-<em><strong>Regula a soldo e etapa dos officiaes effectivos e praças do Exercito e da Armada.</strong></em>
+***Regula a soldo e etapa dos officiaes effectivos e praças do Exercito e da Armada.***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decreta e eu sancciono a seguinte lei:
 
-<strong>Art.</strong> 1º O soldo e etapa dos officiaes effectivos e praças do Exercito e Armada serão regulados pelas tabellas que acompanham a presente lei.
+**Art.** 1º O soldo e etapa dos officiaes effectivos e praças do Exercito e Armada serão regulados pelas tabellas que acompanham a presente lei.
 
-<strong>Art.</strong> 2º Os vencimentos dos medicos adjuntos ficam augmentados de 30 % e o dos pharmaceuticos de 20%.
+**Art.** 2º Os vencimentos dos medicos adjuntos ficam augmentados de 30 % e o dos pharmaceuticos de 20%.
 
-<strong>Art.</strong> 3º Fica o Governo autorisado:
+**Art.** 3º Fica o Governo autorisado:
 
 1º, a discriminar em regulamento especial todas as disposições relativas ao soldo, etapa e gratificações diversas que competem aos officiaes do Exercito e da Armada, classes annexas e praças de pret;
 
@@ -22,17 +20,17 @@ Faço saber que o Congresso Nacional decreta e eu sancciono a seguinte lei:
 
 4º, a decretar os necessarios creditos no exercicio vigente e no de 1895 para execução da presente lei.
 
-<strong>Art.</strong> 4º O official de marinha embarcado e bem assim o das classes annexas recebe em dinheiro a differença entre a etapa diaria e a importancia da ração do paiol.
+**Art.** 4º O official de marinha embarcado e bem assim o das classes annexas recebe em dinheiro a differença entre a etapa diaria e a importancia da ração do paiol.
 
-<strong>Art.</strong> 5º Ficam remidas as dividas á Fazenda Nacional deixadas pelos funccionarios civis e militares que succumbiram no serviço da defesa da Republica.
+**Art.** 5º Ficam remidas as dividas á Fazenda Nacional deixadas pelos funccionarios civis e militares que succumbiram no serviço da defesa da Republica.
 
-<strong>Art.</strong> 6º Ficam revogadas as disposições em contrario.
+**Art.** 6º Ficam revogadas as disposições em contrario.
 
 O Almirante Elisiario José Barbosa e o General de Divisão Bernardo Vasques, Ministros de Estado dos Negocios da Marinha e da Guerra, assim o tenham entendido e façam executar.
 
 Capital Federal, 15 de dezembro de 1894, 6º da Republica.
 
-<strong>PRUDENTE J. DE MORAES BARROS.</strong>
+**PRUDENTE J. DE MORAES BARROS.**
 
 Elisiario José Barbosa.
 
@@ -40,7 +38,65 @@ Bernardo Vasques.
 
 N. 1 – Tabella do soldo e etapa que devem perceber os officiaes do Exercito, Armada e classes annexas a que se refere a lei n. 247 desta data.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>SOLDO MENSAL</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt"><span>ETAPA DIARIA</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Etapa de praça de pret</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Marechal ou almirante..............................................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1:000$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>14</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp; </span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>General de divisão ou vice almirante........................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>800$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>12</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>General de brigada ou contra-almirante...................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>600$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>10</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Coronel ou capitão de mar e guerra.........................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>400$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>8</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Tenente-coronel ou capitão de fragata.....................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>320$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>7</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp; </span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Major ou capitão-tenente..........................................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>280$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>6</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Capitão ou 1º tenente da Armada............................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>200$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>5</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>1º tenente ou 2º tenente da Armada........................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>140$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>4 </span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>1</sup></span></span><span style="font-size:10pt"><span>/</span></span><span style="font-size:6.67pt; vertical-align:sub"><span><sub>2</sub></span></span><span style="font-size:6.67pt; vertical-align:sub; -aw-import:spaces"><span><sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </sub></span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr><tr><td style="width:272.95pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Alferes ou guarda-marinha.......................................................</span></span></p></td><td style="width:85.1pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>120$</span></span></p></td><td style="width:109.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>4</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span></p></td></tr></tbody></table>
+SOLDO MENSAL
+
+ETAPA DIARIA
+
+Etapa de praça de pret
+
+Marechal ou almirante..............................................................
+
+1:000$
+
+14        »              »
+
+General de divisão ou vice almirante........................................
+
+800$
+
+12         »             »
+
+General de brigada ou contra-almirante...................................
+
+600$
+
+10         »             »
+
+Coronel ou capitão de mar e guerra.........................................
+
+400$
+
+8           »             »
+
+Tenente-coronel ou capitão de fragata.....................................
+
+320$
+
+7           »             »
+
+Major ou capitão-tenente..........................................................
+
+280$
+
+6           »             »
+
+Capitão ou 1º tenente da Armada............................................
+
+200$
+
+5           »             »
+
+1º tenente ou 2º tenente da Armada........................................
+
+140$
+
+4 <sup>1</sup>/<sub>2</sub><sub>          </sub>»             »
+
+Alferes ou guarda-marinha.......................................................
+
+120$
+
+4           »             »
 
 OBSERVAÇÕES
 
@@ -52,7 +108,65 @@ Capital Federal, 15 de dezembro de 1894. – Elisiario José Barbosa. – Bernar
 
 N. 2 –Tabella do soldo que devem perceber as praças de pret do Exercito e da Armada a que se refere a lei n. 247 desta data
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Sargento ajudante..........................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Sargento quartel-mestre................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>1º sargento.....................................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$250</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>2º sargento.....................................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Forriel.............................................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$750</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cabo, clarim, corneta e tambor......................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Anspeçadas e marinheiros de 1ª classe........................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$400</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Soldados e marinheiros de 2ª classe.............................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$360</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Grumete.........................................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$300</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Mestre de musica...........................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Musicos de 1ª classe......................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Musicos de 2ª classe......................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$750</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Musicos de 3ª classe.....................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Telegraphistas................................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:421.75pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Mandadores...................................................................................................................................</span></span></p></td><td style="width:53.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr></tbody></table>
+Sargento ajudante..........................................................................................................................
+
+2$000
+
+Sargento quartel-mestre................................................................................................................
+
+2$000
+
+1º sargento.....................................................................................................................................
+
+1$250
+
+2º sargento.....................................................................................................................................
+
+1$000
+
+Forriel.............................................................................................................................................
+
+$750
+
+Cabo, clarim, corneta e tambor......................................................................................................
+
+$500
+
+Anspeçadas e marinheiros de 1ª classe........................................................................................
+
+$400
+
+Soldados e marinheiros de 2ª classe.............................................................................................
+
+$360
+
+Grumete.........................................................................................................................................
+
+$300
+
+Mestre de musica...........................................................................................................................
+
+2$000
+
+Musicos de 1ª classe......................................................................................................................
+
+1$000
+
+Musicos de 2ª classe......................................................................................................................
+
+$750
+
+Musicos de 3ª classe.....................................................................................................................
+
+$500
+
+Telegraphistas................................................................................................................................
+
+2$000
+
+Mandadores...................................................................................................................................
+
+2$000
 
 OBSERVAÇÕES
 

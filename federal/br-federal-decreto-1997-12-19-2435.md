@@ -1,5 +1,3 @@
-###DEC-002435-0-000-19-12-1997@@@
-
 DECRETO Nº 2.435, DE 19 DE DEZEMBRO DE 1997
 
 Prorroga o prazo estabelecido no Art. 1º do Decreto Nº 1.858, de 10 de abril de 1996.

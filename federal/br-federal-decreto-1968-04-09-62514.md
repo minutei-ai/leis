@@ -1,5 +1,3 @@
-###DEC-062514-0-000-09-04-1968@@@
-
 DECRETO Nº 62.514, DE 9 DE ABRIL DE 1968.
 
 Delega competência ao Ministro da Indústria e do Comércio para autorizar o funcionamento e aprovar os estatutos sociais das sociedades de seguros.

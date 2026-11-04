@@ -1,7 +1,3 @@
-1
-
-###DEC-098956-0-000-15-02-1990@@@
-
 DECRETO N° 98.956, DE 15 DE FEVEREIRO DE 1990
 
 Autoriza o funcionamento dos cursos de Letras, Geografia, História e Ciências da Faculdade de Educação, Ciências e Letras de Morrinhos.

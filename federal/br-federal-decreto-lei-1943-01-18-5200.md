@@ -1,5 +1,3 @@
-###DEL-005200-0-000-18-01-1943@@@
-
 DECRETO‑LEI N. 5.200 – DE 18 DE JANEIRO DE 1943
 
 Define atribuições do Instituto Agronômico do Norte e subordina‑o diretamente ao Gabinete do Ministro da Agricultura

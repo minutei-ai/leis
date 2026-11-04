@@ -1,5 +1,3 @@
-###DEC-080781-0-000-22-11-1977@@@
-
 Decreto nº 80.781, de 22 de novembro de 1977.
 
 Concede reconhecimento aos cursos de Formação de Tecnólogo em Eletricidade, em Construções, em Processamento de Dados, e em Produção Industrial, ministrados pela União das Faculdades Francanas, com sede na cidade de Franca, Estado de São Paulo.

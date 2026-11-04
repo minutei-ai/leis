@@ -1,5 +1,3 @@
-###DEC-092564-0-000-17-04-1986@@@
-
 DECRETO Nº 92.564, DE 17 DE ABRIL DE 1986
 
 Renova a concessão outorgada à TELEVISÃO BORBOREMA LTDa., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Campina Grande, Estado da Paraíba.

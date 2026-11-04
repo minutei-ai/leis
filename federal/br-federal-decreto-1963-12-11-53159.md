@@ -1,5 +1,3 @@
-###DEC-053159-0-000-11-12-1963@@@
-
 DECRETO Nº 53.159, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a emprêsa de mineração Magnesita S.A. a pesquisar dolomita, no município de Itararé, Estado de São Paulo.

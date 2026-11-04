@@ -1,7 +1,3 @@
-1
-
-###DEC-098598-0-000-19-12-1989@@@
-
 DECRETO N° 98.598, DE 19 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linhas de distribuição da Companhia de Eletricidade do Estado do Rio de Janeiro - Cerj, Município de Niterói, Estado do Rio de Janeiro.

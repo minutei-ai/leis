@@ -1,7 +1,3 @@
-1
-
-###DEC-099519-0-000-11-09-1990@@@
-
 DECRETO Nº 99.519, DE 11 DE SETEMBRO DE 1990
 
 Institui a Comissão do Programa Nacional de Alfabetização e Cidadania.

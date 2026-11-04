@@ -1,5 +1,3 @@
-###DEC-044960-0-000-01-12-1958@@@
-
 decreto nº 44.960, de 1 de dezembro de 1958.
 
 Autoriza a firma Machado & Companhia Ltda., a pesquisar argila, caulim no Município de Magé, Estado do Rio de Janeiro.

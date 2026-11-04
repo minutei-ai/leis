@@ -1,5 +1,3 @@
-###DEC-059352-0-000-04-10-1966@@@
-
 Decreto nº 59.352, de 4 de Outubro de 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$90.000.000 (noventa milhões de cruzeiros) para atender às despesas urgentes de pessoal com a Comissão Mista Ferroviária Brasileiro-Boliviana.

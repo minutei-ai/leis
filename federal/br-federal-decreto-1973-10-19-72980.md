@@ -1,5 +1,3 @@
-###DEC-072980-0-000-19-10-1973@@@
-
 DECRETO Nº 72.980, DE 19 DE OUTUBRO DE 1973.
 
 Transfere para o Quadro de Pessoal do IPASE funcionário, com o respectivo cargo, do Quadro em extinção da Fundação IBGE.

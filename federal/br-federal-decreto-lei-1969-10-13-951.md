@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bef60cf4-9545-4f5c-9e98-fa5a4a6f651d/texto#nowhere)
 
-###DEL-000951-0-000-13-10-1969@@@
-
 DecretO-LEI Nº 951, De 13 de Outubro de 1969
 
 Altera Quadros de Pessoal dos Ministérios da Aeronáutica e da Educação e Cultura e dá outras providências.

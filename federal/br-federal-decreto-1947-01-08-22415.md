@@ -1,14 +1,12 @@
-###DEC-022415-0-000-08-01-1947@@@
+**DECRETO Nº 22.415, DE 8 DE JANEIRO DE 1947.**
 
-<strong>DECRETO Nº 22.415, DE 8 DE JANEIRO DE 1947.</strong>
+***Cria o estandarte-distintivo para o Regimento Gomes Carneiro***
 
-<em><strong>Cria o estandarte-distintivo para o Regimento Gomes Carneiro</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criado o estandarte-distintivo para o Regimento Gomes Carneiro, de acôrdo com o modelo que acompanha o presente Decreto e as seguintes características:
+**Art**. 1º Fica criado o estandarte-distintivo para o Regimento Gomes Carneiro, de acôrdo com o modelo que acompanha o presente Decreto e as seguintes características:
 
 a) Campo franchado de azul e vermelho.
 
@@ -26,10 +24,10 @@ g) Laço militar com o título: 7º Regimento de Infantaria.
 
 h) Dimensões: - 0m,80 x 1m,10
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 8 de janeiro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

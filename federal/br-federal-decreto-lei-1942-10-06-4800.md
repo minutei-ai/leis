@@ -1,5 +1,3 @@
-###DEL-004800-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.800 – DE 6 DE OUTUBRO DE 1942
 
 Torna obrigatório o ensino da defesa passiva e dá outras providências

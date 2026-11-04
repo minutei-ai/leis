@@ -1,5 +1,3 @@
-###DEL-007987-0-000-22-09-1945@@@
-
 DECRETO-LEI N. 7.987 – DE 22 DE SETEMBRO DE 1945
 
 Autoriza a aquisição, pela União, do domínio útil de um terreno, em Niterói, Estado, do Rio de Janeiro.

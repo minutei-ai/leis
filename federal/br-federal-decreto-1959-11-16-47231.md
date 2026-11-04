@@ -1,5 +1,3 @@
-###DEC-047231-0-000-16-11-1959@@@
-
 DECRETO Nº 47.231, DE 16 DE NOVEMBRO DE 1959.
 
 Retifica o Decreto nº 44.682, de 20 de outubro de 1958, que transferiu, sem aumento de despesa função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEC-003253-0-000-17-11-1999@@@
-
 DECRETO Nº 3.253, DE 17 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a execução do Décimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do Mercado Comum do Sul (MERCOSUL), e o Governo da republica do Chile, de 20 de novembro de 1999.

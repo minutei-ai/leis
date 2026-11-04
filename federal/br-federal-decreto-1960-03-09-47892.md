@@ -1,5 +1,3 @@
-###DEC-047892-0-000-09-03-1960@@@
-
 DECRETO Nº 47.892, DE 9 DE MARço DE 1960.
 
 Constitui um Grupo de Trabalho incumbido de dar andamento aos estudos sôbre a situação econômica da zona do reservatório de Furnas e de propor as medidas necessárias ao desenvolvimento daquela região.

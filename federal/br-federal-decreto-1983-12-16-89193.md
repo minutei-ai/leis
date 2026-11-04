@@ -1,5 +1,3 @@
-###DEC-089193-0-000-16-12-1983@@@
-
 Decreto nº 89.193, de 16 de dezembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias, necessária à implantação da subestação Quixadá, da Companhia de Eletricidade do Ceará-COELCE, no Estado do Ceará.

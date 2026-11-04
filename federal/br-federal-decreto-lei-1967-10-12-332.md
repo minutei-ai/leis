@@ -1,5 +1,3 @@
-###DEL-000332-0-000-12-10-1967@@@
-
 DECRETO-LEI Nº 332, DE 12 DE OUTUBRO DE 1967
 
 Dispõe sôbre estímulos ao aumento de produtividade dos artigos que especifica.

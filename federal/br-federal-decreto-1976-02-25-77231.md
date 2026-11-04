@@ -1,5 +1,3 @@
-###DEC-077231-0-000-25-02-1976@@@
-
 decreto nº 77.231, de 25 de fevereiro de 1976.
 
 Revoga por 10 (dez) anos a concessão outorgada à Fundação Casper Líbero para executar serviço de radiodifusão sonora em onda curta, na Cidade de São Paulo, Estado de São Paulo.

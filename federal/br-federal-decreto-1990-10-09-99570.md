@@ -1,5 +1,3 @@
-###DEC-099570-0-000-09-10-1990@@@
-
 DECRETO Nº 99.570, DE 9 DE OUTUBRO DE 1990
 
 Desvincula da Administração Pública Federal o Centro Brasileiro de Apoio à Pequena e Média Empresa - CEBRAE, transformando-o em serviço social autônomo.

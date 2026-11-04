@@ -1,5 +1,3 @@
-###DEL-003444-0-000-21-07-1941@@@
-
 DECRETO-LEI N. 3.444 – DE 21 DE JULHO DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 327:640$4, para atender a compromissos do Serviço de Alimentação da Previdência Social (SAPS).

@@ -1,5 +1,3 @@
-###DEC-083149-0-000-08-02-1979@@@
-
 Decreto nº 83.149, de 08 de fevereiro de 1979
 
 Aprova o Estatuto da Fundação Nacional do Bem-Estar do Menor - FUNABEM.

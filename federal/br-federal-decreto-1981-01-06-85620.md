@@ -1,5 +1,3 @@
-###DEC-085620-0-000-06-01-1981@@@
-
 Decreto nº 85.620, de 06 de janeiro de 1981
 
 Autoriza o aumento de potência da RÁDIO JORNAL SUL DE MINAS LTDA., na cidade de Bueno Brandão, Estado de Minas Gerais.

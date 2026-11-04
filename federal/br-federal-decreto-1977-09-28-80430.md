@@ -1,5 +1,3 @@
-###DEC-080430-0-000-28-09-1977@@@
-
 DECRETO Nº 80.430, DE 28 SETEMBRO DE 1977.
 
 Cria e extingue Consulados.

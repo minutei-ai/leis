@@ -1,5 +1,3 @@
-###DEC-069616-0-000-30-11-1971@@@
-
 DECRETO Nº 69.616 - DE 30 DE novEMBRO de 1971
 
 Redistribui, com o respectivo ocupante, cargo do Instituto Nacional da Previdência Social para o Departamento Nacional de Estradas de Rodagem, e dá providências.

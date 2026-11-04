@@ -1,5 +1,3 @@
-###DEC-072862-0-000-27-09-1973@@@
-
 DECRETO Nº 72.862, DE 27 DE SETEMBRO DE 1973.
 
 Dispõe sobre a autonomia administrativa e financeira do Centro de Aperfeiçoamento criado pelo artigo 121, do Decreto-lei nº 200, de 25 de fevereiro de 1967, e dá outras providências.

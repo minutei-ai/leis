@@ -1,5 +1,3 @@
-###DEC-048476-0-000-07-07-1960@@@
-
 DECRETO Nº 48.476, DE 7 DE JULHO DE 1960.
 
 Suprime cargo extinto.

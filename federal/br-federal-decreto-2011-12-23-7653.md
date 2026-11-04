@@ -1,5 +1,3 @@
-###DEC-007653-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.653, DE 23 DE DEZEMBRO DE 2011
 
 Autoriza o aumento do capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e da Caixa Econômica Federal - CEF, e dá outras providências.

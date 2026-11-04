@@ -1,5 +1,3 @@
-###DEC-044919-0-000-01-12-1958@@@
-
 DECRETO Nº 44.919, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Ubirajara Keutenedjian a lavrar mármore no município de Cerro Azul, Estado do Paraná.

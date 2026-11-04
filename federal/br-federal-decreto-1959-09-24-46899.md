@@ -1,5 +1,3 @@
-###DEC-046899-0-000-24-09-1959@@@
-
 DECRETO Nº 46.899, DE 24 DE SETEMBRO DE 1959.
 
 Outorga concessão à Rádio Baré Limitada para instalar uma estação radiodifusora.

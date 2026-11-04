@@ -1,5 +1,3 @@
-###DEC-004114-0-000-06-02-2002@@@
-
 DECRETO Nº 4.114, DE 6 DE FEVEREIRO DE 2002.
 
 Altera o Estatuto Social da Empresa Gestora de Ativos - EMGEA, aprovado pelo Decreto no 3.848, de 26 de junho de 2001.

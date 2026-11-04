@@ -1,5 +1,3 @@
-###DEC-088023-0-000-05-01-1983@@@
-
 Decreto nº 88.023, de 05 de janeiro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno situada no Município de São Paulo, Estado de São Paulo, destinada à instalação de Central Telefônica e Escritório de Serviço, a cargo da Telecomunicações de São Paulo S.A. - TELESP.

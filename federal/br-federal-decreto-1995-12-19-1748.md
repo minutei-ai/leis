@@ -1,7 +1,3 @@
-1
-
-###DEC-001748-0-000-19-12-1995@@@
-
 DECRETO Nº 1.748, DE 19 DE DEZEMBRO DE 1995.
 
 Altera o Regulamento para o Corpo Auxiliar Feminino da Reserva da Marinha, aprovado pelo Decreto nº 95.660, de 25 de janeiro de 1988.
@@ -37,8 +33,6 @@ Brasília, 19 de dezembro de 1995; 174º da Independência e 107º da República
 MARCO ANTONIO DE OLIVEIRA MACIEL
 
 Mauro César Rodrigues Pereira
-
-###DEC-001748-0-000-19-12-1995@@@RET01+++
 
 DECRETO N° 1.748, DE 19 DE DEZEMBRO DE 1995.
 

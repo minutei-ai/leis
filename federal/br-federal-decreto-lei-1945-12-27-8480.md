@@ -1,5 +1,3 @@
-###DEL-008480-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.480 – DE 27 DE DEZEMBRO DE 1945
 
 Altera as carreiras de Médico Sanitarista dos Quadros Permanente e Especial do Ministério da Educação e Saúde.

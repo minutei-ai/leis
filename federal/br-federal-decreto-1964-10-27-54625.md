@@ -1,5 +1,3 @@
-###DEC-054625-0-000-27-10-1964@@@
-
 DECRETO Nº 54.625, DE 27 DE OUTUBRO DE 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Continental de Seguros, inclusive aumento do capital social.

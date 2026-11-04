@@ -1,5 +1,3 @@
-###DEC-092882-0-000-02-07-1986@@@
-
 DECRETO Nº 92.882, DE 2 DE JULHO DE 1986
 
 Outorga concessão ao SISTEMA MERIDIONAL DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Porto Velho, Estado de Rondônia.

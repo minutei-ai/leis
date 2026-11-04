@@ -1,5 +1,3 @@
-###DEC-087980-0-000-23-12-1982@@@
-
 Decreto nº 87.980, de 23 de dezembro de 1982.
 
 Dispõe sobre a autonomia limitada assegurada a Secretaria Especial de Informática - SEI e dá outras providências.

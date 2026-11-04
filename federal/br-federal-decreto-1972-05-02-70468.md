@@ -1,5 +1,3 @@
-###DEC-070468-0-000-02-05-1972@@@
-
 decreto nº 70.468, de 2 de maio de 1972.
 
 Retifica o Decreto nº 70.110, de 3 de fevereiro de 1972, que redistribuiu cargo, com o respectivo ocupante, para o Ministério da Aeronáutica.

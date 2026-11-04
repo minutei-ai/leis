@@ -1,5 +1,3 @@
-###DEC-070483-0-000-09-05-1972@@@
-
 DECRETO Nº 70.483, DE 9 DE MAIO DE 1972.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério da Marinha.

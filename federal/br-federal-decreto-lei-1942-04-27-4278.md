@@ -1,5 +1,3 @@
-###DEL-004278-0-000-27-04-1942@@@
-
 DECRETO-LEI N. 4.278 – DE 27 DE ABRIL DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 600:000$0, para despesas no exterior

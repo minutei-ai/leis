@@ -1,5 +1,3 @@
-###DEC-088370-0-000-07-06-1983@@@
-
 # Decreto nº 88.370, de 07 de Junho de 1983
 
 Altera dispositivo do Decreto nº 75.911 de 26 de junho de 1975, que fixa a lotação dos Adidos Militares junto às representações diplomáticas no exterior, alterado pelos Decretos nºs 86.780, de 23 de dezembro de 1981, e 88.313 de 18 de maio de 1983.

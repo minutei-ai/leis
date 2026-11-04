@@ -1,5 +1,3 @@
-###DEC-007943-0-000-05-03-2013-PUB-01@@@
-
 DECRETO N° 7.943, DE 5 DE MARÇO DE 2013
 
 Institui a Política Nacional para os Trabalhadores Rurais Empregados.

@@ -1,5 +1,3 @@
-###DEC-061625-0-000-03-11-1967@@@
-
 decreto nº 61.625, de 3 de novembro de 1967.
 
 Abre, ao Ministério da Indústria e do Comércio, o crédito suplementar de NCr$63.000,00, para refôrço de dotações orçamentária.

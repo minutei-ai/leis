@@ -1,5 +1,3 @@
-###DEC-005016-0-000-12-03-2004@@@
-
 DECRETO Nº 5.016,  DE 12 DE MARÇO DE 2004.
 
 Promulga o Protocolo Adicional à Convenção das Nações Unidas contra o Crime Organizado Transnacional, relativo ao Combate ao Tráfico de Migrantes por Via Terrestre, Marítima e Aérea.

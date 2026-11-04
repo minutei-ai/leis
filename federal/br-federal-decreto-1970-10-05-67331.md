@@ -1,5 +1,3 @@
-###DEC-067331-0-000-05-10-1970@@@
-
 DECRETO Nº 67.331, DE 5 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 18.002 de 7 de março de 1945.

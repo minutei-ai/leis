@@ -1,5 +1,3 @@
-###DEL-004831-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.831 – DE 15 DE OUTUBRO DE  1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 4:000$0. à verba que especifica

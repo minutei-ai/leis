@@ -1,5 +1,3 @@
-###DEC-047771-0-000-09-02-1960@@@
-
 DECRETO Nº 47.771, DE 9 DE FEVEREIRO DE 1960.
 
 Abre, pelo Ministério da Viação e obras Públicas, o crédito especial de Cr$60.000,00 para o fim que menciona.

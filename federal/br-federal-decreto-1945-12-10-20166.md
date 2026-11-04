@@ -1,14 +1,12 @@
-###DEC-020166-0-000-10-12-1945@@@
+**DECRETO Nº 20.166,DE 10 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.166,DE 10 DE DEZEMBRO DE 1945.</strong>
+***Altera dispositivos do regulamento da Inspeção Federal de Carnes e Derivados, aprovado pelo Decreto nº 24.550, de 3 de julho de 1934.***
 
-<em><strong>Altera dispositivos do regulamento da Inspeção Federal de Carnes e Derivados, aprovado pelo Decreto nº 24.550, de 3 de julho de 1934.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da sua atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da sua atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O § 2.º do artigo 188 do Regulamento da Inspeção Federal de Carnes e Derivados, aprovado pelo 1934, passa a vigorar com a seguinte redação:
+**Art**. 1º O § 2.º do artigo 188 do Regulamento da Inspeção Federal de Carnes e Derivados, aprovado pelo 1934, passa a vigorar com a seguinte redação:
 
 § 2º Multa de quinhentos cruzeiros (Cr$500,00), dobrada na reincidência, além da inutilização imediata do produto, quando couber, aos responsáveis pelos estabelecimentos que:
 
@@ -32,10 +30,10 @@ b) alterarem projetos aprovados sem prévia autorização da D. I. P. O. A. ou d
 
 § 7.º A aplicação da multa não inseta o infrator do cumprimento das exigências que lhe tenham sido determinadas.
 
-<strong>Art.</strong> 2.º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 2.º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 10 de dezembro de 1945; 124.º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Theodureto de Camargo

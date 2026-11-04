@@ -1,28 +1,26 @@
-###DEC-020974-0-000-12-04-1946@@@
+**DECRETO Nº 20.974, DE 12 DE ABRIL DE 1946.**
 
-<strong>DECRETO Nº 20.974, DE 12 DE ABRIL DE 1946.</strong>
+***Aprova e manda executar novo Regulamento para a Diretoria do Pessoal da Armada.***
 
-<em><strong>Aprova e manda executar novo Regulamento para a Diretoria do Pessoal da Armada.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição.
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição.
 
 Resolve aprovar e mandar executar novo Regulamento para a Diretoria do Pessoal da Armada, que a este acompanha, assinado pelo Vice-Almirante Jorge Dodsworth Martins, Ministro do Estado  dos Negócios da Marinha.
 
 Rio de Janeiro, 12 de Abril de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Jorge Dodsworth Martins
 
-<strong>REGULAMENTO PARA A DIRETORIA DO PESSOAL DA ARMADA A QUE SE REFERE O DECRETO NÚMERO 20.974, DE 12 DE ABRIL DE 1946</strong>
+**REGULAMENTO PARA A DIRETORIA DO PESSOAL DA ARMADA A QUE SE REFERE O DECRETO NÚMERO 20.974, DE 12 DE ABRIL DE 1946**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A. Diretoria do Pessoal da Armada (D.P.) é o órgão da Administração Naval, diretamente subordinado ao Ministro da Marinha, que tem por finalidade tratar dos assuntos referentes ao pessoal militar e civil do Ministério da Marinha, excetuados os que, por força de disposições especiais, estiverem afetos a outros órgãos da Administração Naval.
+**Art**. 1º A. Diretoria do Pessoal da Armada (D.P.) é o órgão da Administração Naval, diretamente subordinado ao Ministro da Marinha, que tem por finalidade tratar dos assuntos referentes ao pessoal militar e civil do Ministério da Marinha, excetuados os que, por força de disposições especiais, estiverem afetos a outros órgãos da Administração Naval.
 
-<strong>Art</strong>. 2º As principais atividades da D.P. são as seguintes:
+**Art**. 2º As principais atividades da D.P. são as seguintes:
 
 a) estudar a organização do pessoal militar, especialmente no que se refere aos seus efetivos, lotações e carreira, bem como as condições de sua admissão, sua adaptação racional ao trabalho da Marinha e retirada do serviço ativo;
 
@@ -44,9 +42,9 @@ i) efetuar o pagamento do pessoal lotado na Diretoria;
 
 j) manter os serviços necessários a administração da Diretoria.
 
-<strong>Art</strong>. 3º No exercício de sua autoridade e para a realização dos seus objetivos, a D.P. manterá relações de coordenação e cooperação com as demais Diretorias e outros ramos da administração naval.
+**Art**. 3º No exercício de sua autoridade e para a realização dos seus objetivos, a D.P. manterá relações de coordenação e cooperação com as demais Diretorias e outros ramos da administração naval.
 
-<strong>Art</strong>. 4º À D.P. ficam subordinados técnica e administrativa os seguintes órgãos e serviços:
+**Art**. 4º À D.P. ficam subordinados técnica e administrativa os seguintes órgãos e serviços:
 
 a) Reserva Naval;
 
@@ -62,11 +60,11 @@ f) Outros que venham a ser criados e que por sua natureza lhe devam ser integral
 
 Parágrafo único. À D.P. ficarão subordinados técnica ou administrativamente, conforme o caso, órgãos e serviços existentes ou que venham a ser criados e que por sua natureza, lhe devam ser subordinados naquelas condições.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 5º Para a realização dos seus fins e exercício de sua atividades, a D.P. terá um Diretor, auxiliado por um Vice-Diretor e um Gabinete e os pessoal necessário aos seus serviços que serão distribuídos pelas divisões seguintes:
+**Art**. 5º Para a realização dos seus fins e exercício de sua atividades, a D.P. terá um Diretor, auxiliado por um Vice-Diretor e um Gabinete e os pessoal necessário aos seus serviços que serão distribuídos pelas divisões seguintes:
 
 1ª Divisão (D.P 1) – Organização.
 
@@ -86,13 +84,13 @@ Parágrafo único. À D.P. ficarão subordinados técnica ou administrativamente
 
 9ª Divisão (D.P. 9) – Administração
 
-<strong>Art</strong>. 6º As Divisões serão subdivididas em Seções, de acordo com as necessidades dos serviços, na forma do Regimento Interno.
+**Art**. 6º As Divisões serão subdivididas em Seções, de acordo com as necessidades dos serviços, na forma do Regimento Interno.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 7º À D.P. terá o seguinte pessoal:
+**Art**. 7º À D.P. terá o seguinte pessoal:
 
 a) Um (1) diretor geral (D.G.P.), Vice-Almirante da ativa, do Corpo da Armada;
 
@@ -114,28 +112,28 @@ h) Tantos oficiais intermediários ou subalternos, da ativa, da reserva, ou refo
 
 § 2º Os efetivos necessários aos serviços da repartição serão fixados na Lotação da Diretoria.
 
-<strong>Art</strong>. 8º O pessoal da Diretoria será nomeado ou designado de acôrdo com a legislação em vigor.
+**Art**. 8º O pessoal da Diretoria será nomeado ou designado de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 9º As Divisões deverão manter mútua cooperação necessária a perfeita execução dos respectivos trabalhos e indispensável a maior eficiência dos serviços da Diretoria.
+**Art**. 9º As Divisões deverão manter mútua cooperação necessária a perfeita execução dos respectivos trabalhos e indispensável a maior eficiência dos serviços da Diretoria.
 
-<strong>Art</strong>. 10. Os casos omissos serão resolvidos pelo D.G.P. que os submeterá à consideração do Ministério da Marinha quando julgar conveniente.
+**Art**. 10. Os casos omissos serão resolvidos pelo D.G.P. que os submeterá à consideração do Ministério da Marinha quando julgar conveniente.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 11. O D.G.P. deverá expedir instruções especiais para adaptar os serviços da Diretoria à disposições do presente Regulamento, de modo a manter a normalidade de sua execução.
+**Art**. 11. O D.G.P. deverá expedir instruções especiais para adaptar os serviços da Diretoria à disposições do presente Regulamento, de modo a manter a normalidade de sua execução.
 
-<strong>Art</strong>. 12. Dentro de noventa (90) dias, a contar do dia da publicação deste Regulamento, o D.G.P. deverá apresentar ao Ministro da Marinha o projeto do Regulamento Interno da D.P.
+**Art**. 12. Dentro de noventa (90) dias, a contar do dia da publicação deste Regulamento, o D.G.P. deverá apresentar ao Ministro da Marinha o projeto do Regulamento Interno da D.P.
 
-<strong>Art</strong>. 13. Passam a ser integralmente subordinadas à Diretoria do Pessoal, a Reserva Naval, a Caixa de Construções de Casas para o pessoal do Ministério da Marinha e a Casa do Marinheiro, na forma do artigo 4º deste Regulamento.
+**Art**. 13. Passam a ser integralmente subordinadas à Diretoria do Pessoal, a Reserva Naval, a Caixa de Construções de Casas para o pessoal do Ministério da Marinha e a Casa do Marinheiro, na forma do artigo 4º deste Regulamento.
 
 Rio de Janeiro, 27 de maio de 1946,
 
-<strong>JORGE DODSWORTH MARTINS</strong>
+**JORGE DODSWORTH MARTINS**
 
 Vice-Almirante, Ministro da Marinha

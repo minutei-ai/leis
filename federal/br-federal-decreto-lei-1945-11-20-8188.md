@@ -1,5 +1,3 @@
-###DEL-008188-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.188 – DE 20 DE NOVEMBRO DE 1945
 
 Dispõe sôbre o afastamento de Prefeitos municipais.

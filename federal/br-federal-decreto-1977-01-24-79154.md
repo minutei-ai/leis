@@ -1,5 +1,3 @@
-###DEC-079154-0-000-24-01-1977@@@
-
 DECRETO Nº 79.154, DE 24 JANEIRO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita do terreno que menciona, situado no Município de Sirinhaém, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183995)
-
 # DECRETO Nº 62.937, DE 13 DE NOVEMBRO DE 2017
 
 ### _Suspende o expediente nas repartições públicas estaduais no dia 20 de novembro de 2017, e dá providências correlatas_
@@ -20,50 +18,96 @@ Palácio dos Bandeirantes, 13 de novembro de 2017
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Márcio Luiz França Gomes<br>
-Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Jose Luiz de França Penna<br>
-Secretário da Cultura<br>
-José Renato Nalini<br>
-Secretário da Educação<br>
-Benedito Braga<br>
-Secretário de Saneamento e Recursos Hídricos<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Rodrigo Garcia<br>
-Secretário da Habitação<br>
-Laurence Casagrande Lourenço<br>
-Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Eduardo Trani<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria do Meio Ambiente<br>
-Antonio Floriano Pereira Pesaro<br>
-Secretário de Desenvolvimento Social<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-David Everson Uip<br>
-Secretário da Saúde<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Lourival Gomes<br>
-Secretário da Administração Penitenciária<br>
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-José Luiz Ribeiro<br>
-Secretário do Emprego e Relações do Trabalho<br>
-Paulo Gustavo Maiurino<br>
-Secretário de Esporte, Lazer e Juventude<br>
-João Carlos de Souza Meirelles<br>
-Secretário de Energia e Mineração<br>
-Fabrício Cobra Arbex<br>
-Secretário-Adjunto da Casa Civil, Respondendo pelo Expediente da Secretaria de Turismo<br>
-Linamara Rizzo Battistella<br>
-Secretária dos Direitos da Pessoa com Deficiência<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+Márcio Luiz França Gomes
+
+Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Jose Luiz de França Penna
+
+Secretário da Cultura
+
+José Renato Nalini
+
+Secretário da Educação
+
+Benedito Braga
+
+Secretário de Saneamento e Recursos Hídricos
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Rodrigo Garcia
+
+Secretário da Habitação
+
+Laurence Casagrande Lourenço
+
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes
+
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Eduardo Trani
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria do Meio Ambiente
+
+Antonio Floriano Pereira Pesaro
+
+Secretário de Desenvolvimento Social
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+David Everson Uip
+
+Secretário da Saúde
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Lourival Gomes
+
+Secretário da Administração Penitenciária
+
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+José Luiz Ribeiro
+
+Secretário do Emprego e Relações do Trabalho
+
+Paulo Gustavo Maiurino
+
+Secretário de Esporte, Lazer e Juventude
+
+João Carlos de Souza Meirelles
+
+Secretário de Energia e Mineração
+
+Fabrício Cobra Arbex
+
+Secretário-Adjunto da Casa Civil, Respondendo pelo Expediente da Secretaria de Turismo
+
+Linamara Rizzo Battistella
+
+Secretária dos Direitos da Pessoa com Deficiência
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 13 de novembro de 2017.

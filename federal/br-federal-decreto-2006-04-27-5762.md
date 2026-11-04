@@ -1,5 +1,3 @@
-###DEC-005762-0-000-27-04-2006@@@
-
 DECRETO Nº 5.762, DE 27 DE ABRIL DE 2006.
 
 Prorroga, por sessenta dias, o prazo previsto para expedição da norma complementar de que trata o art. 2º do Decreto nº 5.645, de 28 de dezembro de 2005.

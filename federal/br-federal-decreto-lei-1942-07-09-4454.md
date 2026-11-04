@@ -1,5 +1,3 @@
-###DEL-004454-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.454 – DE 9 DE JULHO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção do imposto predial à Associação Comercial do Rio de Janeiro, referente à parte do imovel que menciona, situado à rua da Candelária n. 9, nas condições que menciona

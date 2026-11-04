@@ -1,5 +1,3 @@
-###DEC-079312-0-000-28-02-1977@@@
-
 DECRETO Nº 79.312, DE 28 DE FEVEREIRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado da Bahia.

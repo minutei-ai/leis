@@ -1,5 +1,3 @@
-###DEC-002250-0-000-11-06-1997@@@
-
 DECRETO Nº 2.250, DE 11 DE JUNHO DE 1997
 
 Dispõe sobre a vistoria em imóvel rural destinado a reforma agrária e dá outras providências.

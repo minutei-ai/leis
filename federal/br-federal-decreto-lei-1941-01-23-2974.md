@@ -1,5 +1,3 @@
-###DEL-002974-0-000-23-01-1941@@@
-
 DECRETO-LEI N. 2.974 – DE 23 DE JANEIRO DE 1941
 
  Reorganiza o Museu Nacional e dá outras providências

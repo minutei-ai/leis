@@ -48,7 +48,8 @@ QUADRO DE PESSOAL PERMANENTE DE SERVIDORES EFETIVOS DO GRUPO OCUPACIONAL TÉCNIC
 
 | GRUPO OCUPACIONAL | CARGO | QUANTITATIVO | NÍVEL DE ESCOLARIDADE | REQUISITOS |
 | --- | --- | --- | --- | --- |
-| Técnico-Governamental | Técnico em Gestão Pública | 2.100 | Ensino Superior completo | 1 – diploma de graduação em curso superior reconhecido pelo Ministério da Educação e fornecido por instituição autorizada por ele; e<br>
+| Técnico-Governamental | Técnico em Gestão Pública | 2.100 | Ensino Superior completo | 1 – diploma de graduação em curso superior reconhecido pelo Ministério da Educação e fornecido por instituição autorizada por ele; e
+
 2 – registro regular no conselho profissional, quando for obrigatório para a atuação na respectiva área de conhecimento. |
 
 ” (NR)

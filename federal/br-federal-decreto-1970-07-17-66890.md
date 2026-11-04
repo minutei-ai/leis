@@ -1,5 +1,3 @@
-###DEC-066890-0-000-17-07-1970@@@
-
 DECRETO Nº 66.890, DE 17 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 15.844, de 14 de junho de 1944.

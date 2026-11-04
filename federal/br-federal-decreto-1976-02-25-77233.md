@@ -1,5 +1,3 @@
-###DEC-077233-0-000-25-02-1976@@@
-
 DECRETO Nº 77.233, DE 25 DE FEVEREIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Bandeirantes S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de São Paulo.

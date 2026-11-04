@@ -1,5 +1,3 @@
-###DEL-004054-0-000-27-01-1942@@@
-
 DECRETO-LEI N. 4.054 – DE 27 DE JANEIRO DE 1942
 
 Cria cargos na carreira de Engenheiro (D.N.E.F., – D.N.E.R.), do Quadro I do Ministério da Viação e Obras Públicas e dá outras providências

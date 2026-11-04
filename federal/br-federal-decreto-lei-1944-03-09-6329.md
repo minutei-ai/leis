@@ -1,5 +1,3 @@
-###DEL-006329-0-000-09-03-1944@@@
-
 DECRETO-LEI N. 6.329 – DE 9 DE MARÇO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 23.340,00 para pagamento a Adutora Ribeirão das Lages S.A., de excesso sôbre fornecimento de água.

@@ -1,5 +1,3 @@
-###DEL-002054-0-000-16-08-1983@@@
-
 # DECRETO-LEI Nº 2.054, DE 16 DE AGOSTO DE 1983
 
 Restabelece o incentivo fiscal de que trata o Decreto-lei nº 1.932,de 30 de março de 1982 e dá outras providências.

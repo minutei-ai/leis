@@ -1,5 +1,3 @@
-###DEC-007190-0-000-31-05-2010@@@
-
 DECRETO Nº 7.190, DE 31 DE MAIO DE 2010.
 
 Altera o art. 1o do Decreto no 43.195, de 20 de fevereiro de 1958, que permite o uso nos uniformes militares da condecoração da “Ordem do Mérito Jurídico Militar”, e a letra “d” do art. 2o do Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares.

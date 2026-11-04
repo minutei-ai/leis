@@ -1,5 +1,3 @@
-###DEC-079152-0-000-21-01-1977@@@
-
 DECRETO Nº 79.152, 21 DE JANEIRO DE 1977.
 
 Altera o Regimento Interno dos Gabinetes da Presidência da República, aprovado pelo Decreto número 75.200, de 9 de janeiro de 1975 e alterado pelo Decreto nº 77.000, de 9 de janeiro de 1976.

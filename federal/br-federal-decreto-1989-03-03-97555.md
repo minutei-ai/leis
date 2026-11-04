@@ -1,5 +1,3 @@
-###DEC-097555-0-000-03-03-1989@@@
-
 DECRETO N° 97.555, DE 3 DE MARÇO DE 1989
 
 Autoriza o funcionamento do curso de Secretariado Executivo Bilingüe da Faculdade de Secretariado Executivo Tiradentes, em Aracaju, Sergipe.

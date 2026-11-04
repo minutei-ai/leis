@@ -1,5 +1,3 @@
-###DEL-004292-0-000-07-05-1942@@@
-
 DECRETO-LEI N. 4.292 – DE 7 DE MAIO DE 1942
 
 Dispõe sobre o abastecimento e o racionamento do consumo do petróleo e seus derivados

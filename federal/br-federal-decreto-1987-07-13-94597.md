@@ -1,5 +1,3 @@
-###DEC-094597-0-000-13-07-1987@@@
-
 DECRETO Nº 94.597, DE 13 DE JULHO DE 1987
 
 Autoriza o funcionamento do curso de Farmácia do Instituto de Odontologia Paulista.

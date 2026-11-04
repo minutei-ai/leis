@@ -1,5 +1,3 @@
-###DEC-006816-0-000-07-04-2009@@@
-
 DECRETO Nº 6.816, DE 7 DE ABRIL DE 2009.
 
 Dá nova redação ao inciso II do art. 1o do Decreto no 6.256, de 13 de novembro de 2007, que dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do Trem de Alta Velocidade - TAV e de trecho da BR-040 MG.

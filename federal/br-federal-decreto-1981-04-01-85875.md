@@ -1,5 +1,3 @@
-###DEC-085875-0-000-01-04-1981@@@
-
 Decreto nº 85.875, de 01 de abril de 1981.
 
 Autoriza o funcionamento da habilitação em Biologia no curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Uruguaiana, com sede na cidade de Uruguaiana, Estado do Rio Grande do Sul.

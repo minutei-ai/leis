@@ -1,5 +1,3 @@
-###DEC-003437-0-000-25-04-2000@@@
-
 DECRETO Nº 3.437, DE 25 de ABRIL DE 2000.
 
 Promulgo o Protocolo IV sobre Armas Cegantes a Laser, adicional à Convenção sobre Proibições ou Restrições ao Emprego de Certas Armas Convencionais que podem ser Consideradas Excessivamente Lesivas ou Geradoras de Efeitos Indiscriminados.

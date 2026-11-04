@@ -1,5 +1,3 @@
-###DEC-061832-0-000-05-12-1967@@@
-
 DECRETO Nº 61.832, DE 5 DE DEZEMBRO DE 1967.
 
 Declara sem efeito o decreto número 44.084, de 24 de julho de 1958.

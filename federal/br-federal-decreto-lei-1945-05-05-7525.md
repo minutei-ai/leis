@@ -1,5 +1,3 @@
-###DEL-007525-0-000-05-05-1945@@@
-
 DECRETO-LEI N. 7.525 – DE 5 DE MAIO DE 1945
 
 Transfere para o Corpo da Armada os Oficiais do Corpo de Engenheiros Navais, e dá outras providências

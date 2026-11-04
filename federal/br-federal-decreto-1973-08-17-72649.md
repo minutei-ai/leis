@@ -1,5 +1,3 @@
-###DEC-072649-0-000-17-08-1973@@@
-
 DECRETO Nº 72.649, DE 17 DE AGOSTO DE 1973.
 
 Concede a Indústrias Brasileiras de Artigos Refratários S.A. "IBAR" o direito de lavrar nos Municípios de Mogi das Cruzes e Biritiba Mirim, Estado de São Paulo.

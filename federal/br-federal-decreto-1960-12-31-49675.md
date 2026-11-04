@@ -1,5 +1,3 @@
-###DEC-049675-0-000-31-12-1960@@@
-
 DECRETO Nº 49.675, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Geraldo Barbosa a pesquisar água mineral no município de Londrina, Estado do Paraná.

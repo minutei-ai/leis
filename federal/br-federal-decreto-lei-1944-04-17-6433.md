@@ -1,5 +1,3 @@
-###DEL-006433-0-000-17-04-1944@@@
-
 DECRETO-LEI N. 6.433 – DE 17 DE ABRIL DE 1944
 
 Regula a situação das ex-praças da Armada, que tiveram baixa por invalidez definitivas, não podendo prover os meias de subsistência

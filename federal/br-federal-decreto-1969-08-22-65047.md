@@ -1,5 +1,3 @@
-###DEC-065047-0-000-22-08-1969@@@
-
 DECRETO Nº 65.047 - DE 22 DE AGôSTO DE 1969.
 
 Atribuições de Vice-Chefes de Departamentos no Ministério do Exército.

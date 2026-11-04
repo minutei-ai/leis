@@ -1,5 +1,3 @@
-###DEC-096860-0-000-29-09-1988@@@
-
 DECRETO N° 96.860, DE 29 DE SETEMBRO DE 1988
 
 Autoriza o aumento de capital social da Centrais Elétricas Brasileiras S.A.  ELETROBRÁS.

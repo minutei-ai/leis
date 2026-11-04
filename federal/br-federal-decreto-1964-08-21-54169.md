@@ -1,5 +1,3 @@
-###DEC-054169-0-000-21-08-1964@@@
-
 Decreto nº 54.169, de 21 de agôsto de 1964.
 
 Revoga o Decreto nº 614, de 30 de janeiro de 1936 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079901-0-000-04-07-1977@@@
-
 DECRETO Nº 79.901, DE 4 DE JULHO DE 1977
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Mangaratiba, Estado do Rio de Janeiro.

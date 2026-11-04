@@ -1,5 +1,3 @@
-###DEC-060662-0-000-02-05-1967@@@
-
 decreto Nº 60.662, de 2 de maio de 1967.
 
 Retifica o Decreto nº 59.691, de 8 de dezembro de 1966.

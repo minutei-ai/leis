@@ -1,5 +1,3 @@
-###DEC-061717-0-000-22-11-1967@@@
-
 DECRETO Nº 61.717, DE 22 DE NOVEMBRO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no distrito de Entre Folhas, município de Caratinga, Estado de Minas Gerais.

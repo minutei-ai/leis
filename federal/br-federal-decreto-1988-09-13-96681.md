@@ -1,5 +1,3 @@
-###DEC-096681-0-000-13-09-1988@@@
-
 DECRETO N° 96.681, DE 13 DE SETEMBRO DE 1988
 
 Outorga concessão a RÁDIO PRINCESA MONTE AZUL LTDA. para explorar serviço de radiodifusão sonora em onda média, na Ci­dade de Monte Azul Paulista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-077195-0-000-19-02-1976@@@
-
 DECRETO Nº 77.195, DE 19 DE FEVEREIRO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Montenegro, Estado do Rio Grande o Sul.

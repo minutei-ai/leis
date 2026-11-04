@@ -1,5 +1,3 @@
-###DEC-084840-0-000-24-06-1980@@@
-
 Decreto nº 84.840, de 24 de junho de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

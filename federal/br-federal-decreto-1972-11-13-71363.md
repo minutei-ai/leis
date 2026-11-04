@@ -1,5 +1,3 @@
-###DEC-071363-0-000-13-11-1972@@@
-
 DECRETO Nº 71.363 - DE 13 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento aos Cursos de Letras, Pedagogia, Estudos Sociais, Ciências Físicas e Naturais da Faculdade de Filosofia, Ciências e Letras de Avaré - SP.

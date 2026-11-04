@@ -1,5 +1,3 @@
-###DEC-083232-0-000-06-03-1979@@@
-
 Decreto nº 83.232, de 06 de março de 1979
 
 Autoriza a permuta de imóveis que menciona, situados no Distrito Federal.

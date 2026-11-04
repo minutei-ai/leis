@@ -1,5 +1,3 @@
-###DEC-056638-0-000-04-08-1965@@@
-
 DECRETO Nº 56.638, DE 4 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Jair Ribeiro de Carvalho a lavrar cassiterita, no município de Cassiterita, Estado de Minas Gerais.

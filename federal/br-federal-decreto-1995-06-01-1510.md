@@ -1,7 +1,3 @@
-1
-
-###DEC-001510-0-000-01-06-1995@@@
-
 DECRETO Nº 1.510, DE 1º DE JUNHO DE 1995
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia Vale do Rio do Doce - CVRD

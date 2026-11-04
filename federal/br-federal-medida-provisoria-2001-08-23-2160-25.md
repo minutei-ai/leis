@@ -1,5 +1,3 @@
-###MPV-002160-0-025-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.160-25, DE 23 DE AGOSTO DE 2001
 
  Dispõe sobre a Cédula de Crédito Bancário e acresce dispositivo à Lei nº 4.728, de 14 de julho de 1965, para instituir a alienação fiduciária em garantia de coisa fungível ou de direito.

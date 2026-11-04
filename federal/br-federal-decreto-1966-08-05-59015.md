@@ -1,5 +1,3 @@
-###DEC-059015-0-000-05-08-1966@@@
-
 DECRETO Nº 59.015, DE 5 DE AGÔSTO DE 1966.
 
 Dispõe sôbre a classificação do Plenário da Junta Comercial do Distrito Federal.

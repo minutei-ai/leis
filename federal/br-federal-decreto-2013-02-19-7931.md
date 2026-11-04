@@ -1,5 +1,3 @@
-###DEC-007931-0-000-19-02-2013-PUB-01@@@
-
 DECRETO Nº 7.931, DE 19 DE FEVEREIRO DE 2013
 
 Altera o Decreto nº 5.209, de 17 de setembro de 2004, que regulamenta a Lei nº 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

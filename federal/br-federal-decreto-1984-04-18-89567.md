@@ -1,5 +1,3 @@
-###DEC-089567-0-000-18-04-1984@@@
-
 DecReto nº 89.567, de 18 de abRIL de 1984
 
 Convoca as Polícias Militares do Estado de Goiás e do Distrito Federal e dá outras providências.

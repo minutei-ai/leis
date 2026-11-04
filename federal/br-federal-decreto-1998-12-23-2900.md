@@ -1,5 +1,3 @@
-###DEC-002900-0-000-23-12-1998@@@
-
 DECRETO Nº 2.900, DE 23 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.239, de 27 de maio de 1997.

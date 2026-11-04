@@ -1,7 +1,3 @@
-1
-
-###DEC-000886-0-000-04-08-1993@@@
-
 DECRETO N° 886, de 4 DE AGOSTO DE 1993
 
 Altera o inciso II do art. 27 do Decreto n° 92.512, de 2 de abril de 1986, que estabelece normas, condições de atendimento e indenizações para assistência médico‑hospitalar ao militar e seus dependentes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004228-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.228 – DE 2 DE ABRIL DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 7.970:000$0, para despesas com a execução de obras rodoviárias

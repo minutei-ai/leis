@@ -1,5 +1,3 @@
-###DEC-080287-0-000-05-09-1977@@@
-
 DECRETO Nº 80.287, DE 5 DE SETEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada à COPACAL S.A. - Mineração e Comércio, pelo Decreto nº 64.504, de 14 de maio de 1969.

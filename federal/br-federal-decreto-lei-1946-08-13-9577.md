@@ -1,5 +1,3 @@
-###DEL-009577-0-000-13-08-1946@@@
-
 DECRETO-LEI N. 9.577 – DE 13 AGÔSTO DE 1946
 
 Altera, com redução de despesas, os Quadros Permanente e Suplementar, do Ministério da Agricultura e dá outras providências.

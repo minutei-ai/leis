@@ -1,5 +1,3 @@
-###MPV-001745-0-012-11-02-1999@@@
-
 MEDIDA PrOVISÓRIA Nº 1.745-12, DE 11 DE FEVEREIRO DE 1999.
 
 Altera a redação dos arts. 26, 27, 31, 44 e 59 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998.

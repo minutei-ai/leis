@@ -1,5 +1,3 @@
-###DEC-082212-0-000-04-09-1978@@@
-
 Decreto nº 82.212, de 04 de setembro de 1978.
 
 Autoriza a conversão do curso de Matemática, ministrado pela Faculdade de Ciências e Letras de Mafra, com sede na cidade de Mafra, Estado de Santa Catarina.

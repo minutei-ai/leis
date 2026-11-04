@@ -1,5 +1,3 @@
-###DEC-068165-0-000-04-02-1971@@@
-
 decreto nº 68.165, de 4 de Fevereiro de 1971.
 
 Retifica decreto de redistribuição de cargos para a Agência Nacional.

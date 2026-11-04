@@ -1,5 +1,3 @@
-###DEC-060599-0-000-20-04-1967@@@
-
 DECRETO Nº 60.599, DE 20 DE ABRIL DE 1967.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Políticas e Econômicas de Cachoeira do Sul.

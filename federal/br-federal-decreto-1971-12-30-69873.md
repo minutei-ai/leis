@@ -1,5 +1,3 @@
-###DEC-069873-0-000-30-12-1971@@@
-
 decreto nº 69.873 - de 30 de dezembro de 1971
 
 Redistribui cargos, com os respectivos ocupantes, do Quadro de Pessoal da Superintendência do Desenvolvimento do Nordeste para o do Ministério da Aeronáutica, e dá outras providências.

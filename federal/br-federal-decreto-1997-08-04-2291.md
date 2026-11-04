@@ -1,5 +1,3 @@
-###DEC-002291-0-000-04-08-1997@@@
-
 DECRETO Nº 2.291, DE 4 DE AGOSTO DE 1997
 
 Aprova o Estatuto da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA.

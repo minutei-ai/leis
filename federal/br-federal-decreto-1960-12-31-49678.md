@@ -1,5 +1,3 @@
-###DEC-049678-0-000-31-12-1960@@@
-
 DECRETO Nº 49.678, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir uma linha de transmissão entre o distrito sede do município de Itabirito e a localidade de Saramenha, município de Ouro Prêto, Estado de Minas Gerais, e dá outras providências.

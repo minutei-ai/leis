@@ -1,7 +1,3 @@
-1
-
-###DEC-002093-0-000-11-12-1996@@@
-
 DECRETO Nº 2.093, DE 11 DE DEZEMBRO DE 1996.
 
 Cria o Grupo Executivo para a Redução de Acidentes de Trânsito.

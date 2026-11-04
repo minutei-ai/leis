@@ -1,5 +1,3 @@
-###DEL-006850-0-000-04-09-1944@@@
-
 DECRETO-LEI N. 6.850 – DE 4 DE SETEMBRO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 59.104,90, para atender as despesas decorrentes da concentração, nesta Capital, dos alemães embarcados no “Cabo de Buena Esperanza”.

@@ -1,5 +1,3 @@
-###DEC-094014-0-000-11-02-1987@@@
-
 DECRETO Nº 94.014, DE 11 DE FEVEREIRO DE 1987.
 
 Homologa a demarcação administrativa da Área Indígena MERURE, localizada nos Municípios de General Carneiro e Barra do Garças, Estado de Mato Grosso.

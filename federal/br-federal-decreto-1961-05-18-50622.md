@@ -1,5 +1,3 @@
-###DEC-050622-0-000-18-05-1961@@@
-
 DECRETO Nº 50.622, DE 18 DE MAIO DE 1961.
 
 Declara de utilidade pública as Associações de Crédito e Assistência Rural que menciona.

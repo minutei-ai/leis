@@ -1,5 +1,3 @@
-###DEC-007253-0-000-02-08-2010@@@
-
 DECRETO Nº 7.253, DE 2 DE AGOSTO DE 2010.
 
 Acrescenta o parágrafo único ao art. 1º do Decreto nº 5.664, de 10 de janeiro de 2006, que delega competência ao Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior para autorizar o funcionamento no Brasil de sociedade estrangeira, bem como suas alterações estatutárias ou contratuais, nacionalização e cassação da autorização

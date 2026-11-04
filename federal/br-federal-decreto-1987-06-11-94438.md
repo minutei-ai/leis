@@ -1,5 +1,3 @@
-###DEC-094438-0-000-11-06-1987@@@
-
 DECRETO Nº 94.438, DE 11 DE JUNHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras, com as respectivas benfeitorias, pertencentes à área de influência das obras de retificação do Rio Mearim, nos Municípios de Pedreiras e São Luís Gonzaga do Maranhão, e dá outras providências.

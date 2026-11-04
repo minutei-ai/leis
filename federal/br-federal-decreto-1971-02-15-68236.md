@@ -1,5 +1,3 @@
-###DEC-068236-0-000-15-02-1971@@@
-
 DECRETO Nº 68.236, DE 15 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada a passagem da linha de transmissão que se estenderá desde a subestação de Diorama até a subestação de Montes Claros de Goiás, no Estado de Goiás.

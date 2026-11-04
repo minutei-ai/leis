@@ -1,5 +1,3 @@
-###DEC-095516-0-000-18-12-1987@@@
-
 DECRETO Nº 95.516, DE 18 DE DEZEMBRO DE 1987
 
 Altera o Regulamento de Promoções de Graduados do Exército aprovado pelo Decreto nº 77.920, de 28 de junho de 1976.

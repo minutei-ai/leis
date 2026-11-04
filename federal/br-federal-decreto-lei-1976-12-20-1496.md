@@ -1,5 +1,3 @@
-###DEL-001496-0-000-20-12-1976@@@
-
 # DECRETO-LEI Nº 1.496, DE 20 DE DEZEMBRO DE 1976
 
 Altera a redação do artigo 4º do Decreto-lei nº 1.083, de 6 de fevereiro de 1970, “que dispõe sobre a incidência e cobrança do Imposto Único sobre Minerais, concede isenções e dá outras providências”, modificado pelo Decreto-lei nº 1.402, de 23 de maio de 1975.

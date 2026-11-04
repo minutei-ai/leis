@@ -1,5 +1,3 @@
-###DEC-071635-0-000-29-12-1972@@@
-
 Decreto Nº 71.635 - de 29 de dezembro de 1972
 
 Dispõe sobre o recolhimento das parcelas deduzidas do imposto de renda pelas pessoas jurídicas, a título de incentivos fiscais ou como contribuições para Programas Especiais, e dá outras providências.

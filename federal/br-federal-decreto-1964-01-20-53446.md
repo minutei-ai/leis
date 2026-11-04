@@ -1,5 +1,3 @@
-###DEC-053446-0-000-20-01-1964@@@
-
 DECRETO Nº 53.446, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Levindo Alves Carajáu a pesquisar quartzo e pedras coradas, no município de Novo Cruzeiro Estado de Minas Gerais.

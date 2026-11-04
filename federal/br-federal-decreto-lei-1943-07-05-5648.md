@@ -1,5 +1,3 @@
-###DEL-005648-0-000-05-07-1943@@@
-
 DECRETO‑LEI N.  5.648 – DE 5 DE JULHO DE 1943
 
 Altera a redação do artigo 2º do decreto‑lei n. 4.575, de 12 de  agôsto de 1942

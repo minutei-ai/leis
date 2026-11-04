@@ -1,5 +1,3 @@
-###DEC-048588-0-000-22-07-1960@@@
-
 DECRETO Nº 48.588, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Ivo Felisberto de Souza a lavrar minério de manganês nos municípios de Iúna e Muniz Freire, Estado do Espírito Santo.

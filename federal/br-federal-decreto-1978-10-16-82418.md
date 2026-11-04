@@ -1,5 +1,3 @@
-###DEC-082418-0-000-16-10-1978@@@
-
 Decreto nº 82.418, de 16 de outubro de 1978.
 
 Concede à CESACA - Cerâmica Santa Catarina S.A. o direito de lavrar argila no Município de Jaguaruna, Estado de Santa Catarina.

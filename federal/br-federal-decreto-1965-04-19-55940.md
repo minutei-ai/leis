@@ -1,5 +1,3 @@
-###DEC-055940-0-000-19-04-1965@@@
-
 Decreto Nº 55.940, DE 19 DE ABRIL DE 1965.
 
 Concede à sociedade estrangeira Banco Ítalo Belga S.A. autorização para aumentar o seu capital.

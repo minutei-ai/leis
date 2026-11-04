@@ -1,5 +1,3 @@
-###DEC-059181-0-000-06-09-1966@@@
-
 Decreto nº 59.181, de 6 de setembro 1966.
 
 Autoriza a Mineração Água Limpa S/A a pesquisar argila no Município de Itabirito, Estado de Minas Gerais.

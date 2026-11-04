@@ -1,36 +1,34 @@
-###DEC-020284-0-000-28-12-1945@@@
+**DECRETO Nº 20.284, DE 28 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.284, DE 28 DE DEZEMBRO DE 1945.</strong>
+***Aprova o Regimento do Departamento Nacional de Obras Contra as Sêcas (D.N.O.C.S.) do Ministério da Viação e Obras Pública.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Obras Contra as Sêcas (D.N.O.C.S.) do Ministério da Viação e Obras Pública.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Obras Contra as Sêcas, que, assinado pelo Ministro da Viação e Obras Públicas, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Obras Contra as Sêcas, que, assinado pelo Ministro da Viação e Obras Públicas, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SÊCAS</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SÊCAS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Departamento Nacional de Obras Contra as Sêcas (D.N.O.C.S.) tem por finalidade a realização de tôdas as obras destinadas a prevenir e atenuar os efeitos das sêcas na região a que se refere o artigo 2º da Lei nº 175, de 7 de janeiro de 1936, e em outras zonas do país, a que a lei venha a estender o seu campo de ação.
+**Art**. 1º O Departamento Nacional de Obras Contra as Sêcas (D.N.O.C.S.) tem por finalidade a realização de tôdas as obras destinadas a prevenir e atenuar os efeitos das sêcas na região a que se refere o artigo 2º da Lei nº 175, de 7 de janeiro de 1936, e em outras zonas do país, a que a lei venha a estender o seu campo de ação.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O D.N.O.C.S. compõe-se de:
+**Art**. 2º O D.N.O.C.S. compõe-se de:
 
 1 Divisão Técnica (D.T.)
 
@@ -48,25 +46,25 @@ Maurício Joppert da Silva
 
 Parágrafo único. O Diretor Geral do D.N.O.C.S. poderá constituir comissões de estudos e obras, de caráter transitório, com sede e fins definidos em cada caso especial.
 
-<strong>Art</strong>. 3º O D.N.O.C.S. terá um diretor geral engenheiro civil, nomeado, em comissão, pelo Presidente da República.
+**Art**. 3º O D.N.O.C.S. terá um diretor geral engenheiro civil, nomeado, em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 4º A Divisão Técnica terá um diretor e os Distritos e os Serviços do Estudos, Agro-Industrial e de Puscicultura terão chefes, àqueles e êstes nomeados, em comissão, pelo Presidente da República; o Serviço de Administração e de Documentação terão chefes, designados pelo Ministro da Viação e Obras públicas, mediante indicação do Diretor Geral.
+**Art**. 4º A Divisão Técnica terá um diretor e os Distritos e os Serviços do Estudos, Agro-Industrial e de Puscicultura terão chefes, àqueles e êstes nomeados, em comissão, pelo Presidente da República; o Serviço de Administração e de Documentação terão chefes, designados pelo Ministro da Viação e Obras públicas, mediante indicação do Diretor Geral.
 
-<strong>Art</strong>. 5º As Seções da Divisão Técnica e do Serviço de Administração serão chefiadas por funcionários em exercício no D.N.O.C.S. e designados pelo Diretor Geral mediante indicação do respectivo Diretor ou Chefe.
+**Art**. 5º As Seções da Divisão Técnica e do Serviço de Administração serão chefiadas por funcionários em exercício no D.N.O.C.S. e designados pelo Diretor Geral mediante indicação do respectivo Diretor ou Chefe.
 
-<strong>Art</strong>. 6º As funções gratificadas de Secretário do Diretor Geral e de Chefe de Portaria do D.N.O.C.S. serão exercidas por funcionários escolhidos e designados pelo Diretor Geral, dentre os que estiverem em exercício no mesmo D.N.O.C.S., devendo a escolha para função de Chefe de Portaria recair em ocupantes de cargo da carreira de contínuo ou da de servente, na falta daquele. As funções gratificadas de Secretário do Diretor da Divisão Técnica e do Chefe do Serviço de Administração serão providas por funcionários designados pelo Diretor ou pelo Chefe respectivo.
+**Art**. 6º As funções gratificadas de Secretário do Diretor Geral e de Chefe de Portaria do D.N.O.C.S. serão exercidas por funcionários escolhidos e designados pelo Diretor Geral, dentre os que estiverem em exercício no mesmo D.N.O.C.S., devendo a escolha para função de Chefe de Portaria recair em ocupantes de cargo da carreira de contínuo ou da de servente, na falta daquele. As funções gratificadas de Secretário do Diretor da Divisão Técnica e do Chefe do Serviço de Administração serão providas por funcionários designados pelo Diretor ou pelo Chefe respectivo.
 
-<strong>Art</strong>. 7º As funções gratificadas de Ajudante do Chefe serão exercidas, nos Distritos e no Serviço de Estudos, por funcionário pertencente à carreira de engenheiro e, nos Serviços Agro-Industrial e de Piscicultura, por funcionário especializado; as de Chefe de Secretaria e de Chefe de Contabilidade, por funcionários.
+**Art**. 7º As funções gratificadas de Ajudante do Chefe serão exercidas, nos Distritos e no Serviço de Estudos, por funcionário pertencente à carreira de engenheiro e, nos Serviços Agro-Industrial e de Piscicultura, por funcionário especializado; as de Chefe de Secretaria e de Chefe de Contabilidade, por funcionários.
 
 Parágrafo único. Tôdas essas funções gratificadas do Diretor Geral, mediante proposta do Chefe do Distrito ou do Serviço respectivo.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da D.T.</em>
+*Da D.T.*
 
-<strong>Art</strong>. 8º A Divisão Técnica (D.T.) compõe-se de:
+**Art**. 8º A Divisão Técnica (D.T.) compõe-se de:
 
 Seção de Estudos e Projetos (S.E.P.)
 
@@ -74,7 +72,7 @@ Seção de Obras e Equipamentos (S.O.E.).
 
 Seção de Conservação, Exploração e Patrimônio (S.C.E.P.).
 
-<strong>Art</strong>. 9º À Seção e Estudos e Projetos (S.E.P. ) incumbe:
+**Art**. 9º À Seção e Estudos e Projetos (S.E.P. ) incumbe:
 
 I - Manter-se em dia com o progresso da técnica de estudos e projetos relacionados com as atribuições do Departamento e, quando conveniente, promover a introdução de novos métodos nos seus trabalhos.
 
@@ -92,7 +90,7 @@ VII - Rever ou coligir, comentar e elaborar, para publicação ou utilização, 
 
 VIII - Organizar projetos de instruções relativas aos serviços a seu cargo.
 
-<strong>Art</strong>. 10 À Seção de Obras e Equipamentos (S.O.E.), incumbe:
+**Art**. 10 À Seção de Obras e Equipamentos (S.O.E.), incumbe:
 
 I - Acompanhar por meio de fôlhas de medição e de perfis de avançamento, boletins, etc; o andamento das obras a cargo do Departamento.
 
@@ -112,7 +110,7 @@ VIII - Rever ou coligir comentar elaborar, para publicação ou utilização, os
 
 IX - Organizar projetos de instruções relativas aos serviços a seu cargo.
 
-<strong>Art</strong>. 11. À Seção de Conservação, Exploração e Patrimônio (S.C.E.P.) incumbe:
+**Art**. 11. À Seção de Conservação, Exploração e Patrimônio (S.C.E.P.) incumbe:
 
 I - Manter-se em dia com o andamento dos serviços de conservação de tôdas as obras e próprios da União a cargo do Departamento.
 
@@ -126,11 +124,11 @@ V - Rever ou coligir comentar e elaborar, para publicação ou utilização, os 
 
 VI - Organizar projetos de instruções relativas aos trabalhos a seu cargo.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do S.A.</em>
+*Do S.A.*
 
-<strong>Art</strong>. 12. O Serviço de Administração (S.A.) compõem-se de:
+**Art**. 12. O Serviço de Administração (S.A.) compõem-se de:
 
 Seção de Comunicações (S.C.)
 
@@ -140,7 +138,7 @@ Seção de Material (S.M.)
 
 Seção de Orçamento (S.O.):
 
-<strong>Art</strong>. 13. À Seção de Comunicações (S.C.), incumbe:
+**Art**. 13. À Seção de Comunicações (S.C.), incumbe:
 
 I - Receber e distribuir papéis.
 
@@ -154,7 +152,7 @@ V - Superintender os trabalho da Portaria, por intermédio do respectivo Chefe.
 
 VI - Atender, também, por intermédio do Chefe da Portaria, às despesas de pronto pagamento.
 
-<strong>Art</strong>. 14. À Seção de Pessoal (S.R.P. - 8), incumbe:
+**Art**. 14. À Seção de Pessoal (S.R.P. - 8), incumbe:
 
 I - Encaminhar à Divisão do Pessoal do Departamento de Administração do M.V.O.P., devidamente instruídas, as questões referentes aos funcionários e extranumerários lotados ou com exercício no Departamento e ao seu pessoal de obras.
 
@@ -166,7 +164,7 @@ IV - Coligir e encaminhar à mesma Divisão Pessoal os dados referentes a pessoa
 
 V - Providenciar a fim de que sejam, pelo Departamento, oportunamente desempenhados todos os encargos e obrigações referentes ao pessoal que a legislação lhe atribua, bem como indicar ao Diretor do Serviço de Administração as medidas que, para êsse fim, devam ser solicitadas aos dirigentes dos órgãos divisionários ou regionais.
 
-<strong>Art</strong>. 15. À Seção de Material (S.M.), incumbe:
+**Art**. 15. À Seção de Material (S.M.), incumbe:
 
 I - Efetuar, em conformidade com as leis e as instruções vigentes, tôdas as providências necessárias à aquisição de material determinada pelo Diretor Geral.
 
@@ -186,7 +184,7 @@ VIII - Organizar periodicamente balancetes de todo material renovado ou recupera
 
 IX - Providenciar a fim de que sejam pelo Departamento oportunamente desempenhadas todos os encargos e obrigações referentes ao pessoal que a legislação lhe atribua, bem como indicar ao Diretor do Serviço de Administração as medidas que, para êsse fim, devam ser solicitadas aos dirigentes dos órgãos divisionários ou regionais.
 
-<strong>Art</strong>. 15. À Seção de Material (S.M.), incumbe:
+**Art**. 15. À Seção de Material (S.M.), incumbe:
 
 I - Efetuar, em conformidade com as leis e as instruções vigentes, tôdas as providências necessárias à aquisição de material determinada pelo Diretor Geral.
 
@@ -206,7 +204,7 @@ VIII - Organizar periodicamente balancetes de todo material renovado ou recupera
 
 IX - Providenciar a fim de que sejam pelo Departamento oportunamente desempenhados todos os encargos e obrigações que a legislação lhe atribua, referentes a material, indicando, para isso, ao Chefe do Serviço de Administração as medidas que devam ser solicitadas aos dirigentes dos órgãos divisionários ou regionais.
 
-<strong>Art</strong>. 16. À Seção de Orçamento (S.O.) incumbe:
+**Art**. 16. À Seção de Orçamento (S.O.) incumbe:
 
 I - Manter em dia a escrituração das dotações orçamentárias ou extraorçamentárias do Departamento.
 
@@ -218,11 +216,11 @@ IV - Desempenhar todos os trabalhos que pelo Diretor Geral, lhe forem cometidos,
 
 V - Providenciar a fim de que pôr este oportunamente desempenhados todos os encargos e obrigações que as leis e instruções vigentes lhe atribuem, referente a contabilidade pública, bem como indicar ao Chefe do Serviço de Administração as medidas que, para êsse fim, devem ser solicitadas aos dirigentes dos órgãos divisionários ou regionais.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do S. D.</em>
+*Do S. D.*
 
-<strong>Art</strong>. 17. Ao Serviço de Documentação (S. D.) incumbe:
+**Art**. 17. Ao Serviço de Documentação (S. D.) incumbe:
 
 I - Receber dos órgãos divisionários ou regionais, coligir, ordenar e classificar documentos ou textos documentários que se relacionem com as atividades do Departamento.
 
@@ -244,11 +242,11 @@ IX - Coligir e classificar dados para a elaboração do relatório anual do Dire
 
 X - Organizar instruções referentes à coleta de dados informativos e documentários que a Divisão Administrativa deverá receber de todos os órgãos divisionários ou regionais.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos Distritos</em>
+*Dos Distritos*
 
-<strong>Art</strong>. 18. Aos Distritos (D.) incumbe:
+**Art**. 18. Aos Distritos (D.) incumbe:
 
 I - Locar e construir as obras que devam ser executadas por administração e fiscalizar as que tenham sido contratadas.
 
@@ -272,11 +270,11 @@ X - Realizar estudos de conformidade com os programas de trabalho aprovados pelo
 
 XI - Receber e encaminhar, devidamente informados os requerimentos dirigidos a autoridades superiores e concernentes às suas atividades.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do S. E.</em>
+*Do S. E.*
 
-<strong>Art</strong>. 19. Ao serviço de Estudos (S.E.) incumbe:
+**Art**. 19. Ao serviço de Estudos (S.E.) incumbe:
 
 I - Realizar os trabalhos geodésicos e os estudos topográficos, geológicos, hidrográficos e hidrológico, indispensáveis à execução do plano de obras do Departamento.
 
@@ -298,11 +296,11 @@ IX - Contabilizar as despesas que houver efetuado.
 
 X - Receber e encaminhar, devidamente informados, os requerimentos dirigidos a autoridade e concernente a suas atividades.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Do S.A.I.</em>
+*Do S.A.I.*
 
-<strong>Art</strong>. 20. Ao Serviço Agro-Industrial (S.A.I.) incumbe:
+**Art**. 20. Ao Serviço Agro-Industrial (S.A.I.) incumbe:
 
 I - Conservar e explorar as obras de açudagem e irrigação a cargo do Departamento, salvo as que, por conveniência do serviço, forem cometidas, excepcional e transitoriamente aos Distritos.
 
@@ -324,11 +322,11 @@ IX - Contabilizar as despesas que houver efetuado.
 
 X - Receber e encaminhar devidamente informados, os requerimentos dirigidos a autoridades superiores e concernentes a suas atividades.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Do S. P.</em>
+*Do S. P.*
 
-<strong>Art</strong>. 21. Ao Serviço de Piscicultura (S.P.) incumbe:
+**Art**. 21. Ao Serviço de Piscicultura (S.P.) incumbe:
 
 I - Proceder a estudos para o desenvolvimento da piscicultura e da pesca nos açudes e propor as medidas que forem necessárias para êsse fim.
 
@@ -348,11 +346,11 @@ VIII - Dar parecer sôbre todos os assuntos relativos as suas especialidades.
 
 IX - Receber e encaminhar devidamente informados, os requerimentos dirigidos a autoridades superiores e concernentes a suas atividades.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 1º Ao Diretor Geral compete:
+**Art**. 1º Ao Diretor Geral compete:
 
 I - Dirigir, coordenar e fiscalizar as atividades do Departamento e representá-lo em suas relações externas.
 
@@ -400,7 +398,7 @@ XXII - Autorizar a publicação de trabalhos.
 
 XXIII - Autorizar a aquisição de material permanente.
 
-<strong>Art</strong>. 23 Ao Diretor da Divisão Técnica e aos Chefes dos Serviços de Administração e de Documentação compete:
+**Art**. 23 Ao Diretor da Divisão Técnica e aos Chefes dos Serviços de Administração e de Documentação compete:
 
 I - Orientar, dirigir e coordenar os trabalhos a cargo da Divisão ou dos Serviços, respectivamente.
 
@@ -414,7 +412,7 @@ V - Desempenhar, estritamente dentro dos prazos devidos, todos os encargos que �
 
 VI - Apresentar anualmente ao Diretor o relatório das atividades da Divisão ou dos Serviços, respectivamente.
 
-<strong>Art</strong>. 24 Aos Chefes de Distritos e dos Serviços de Estudos, Agro-Industria e de Piscicultura compete:
+**Art**. 24 Aos Chefes de Distritos e dos Serviços de Estudos, Agro-Industria e de Piscicultura compete:
 
 I - Organizar, dirigir e coordenar os trabalhos a cargo do Distrito ou Serviço.
 
@@ -434,7 +432,7 @@ VIII - Autorizar, dentro das limitações dêste Regimento e das leis, a admiss�
 
 IX - Apresentar anualmente ao Diretor Geral o relatório das atividades do respectivo Distrito ou Serviço.
 
-<strong>Art</strong>. 25 - Aos Chefes de Seção compete:
+**Art**. 25 - Aos Chefes de Seção compete:
 
 I - Orientar, dirigir e coordenar os trabalhos a cargo da Seção.
 
@@ -448,7 +446,7 @@ V - Desempenhar, estritamente dentro dos prazos devidos, todos os encargos que a
 
 VI - Apresentar anualmente ao seu chefe imediato o relatório das atividades da Seção.
 
-<strong>Art</strong>. 26 - Ao Secretário do Diretor Geral compete:
+**Art**. 26 - Ao Secretário do Diretor Geral compete:
 
 I - Atender às pessoas que desejarem comunicar-se com o Diretor Geral, encaminhando-as a êste ou inteirando-o do assunto de que desejem tratar.
 
@@ -456,7 +454,7 @@ II - Representar o Diretor Geral, quando para isso fôr designado.
 
 III - Coligir dados e apontamentos de que necessite o Diretor Geral e redigir o expediente que por êste lhe fôr determinado.
 
-<strong>Art</strong>. 27 - Aos Secretários do Diretor da Divisão Técnica do Chefe do Serviço de Administração compete:
+**Art**. 27 - Aos Secretários do Diretor da Divisão Técnica do Chefe do Serviço de Administração compete:
 
 I - Atender às pessoas que desejarem comunicar-se com o respectivo Diretor ou Chefe.
 
@@ -466,7 +464,7 @@ III - Coligir dados e apontamentos de que necessite o Diretor da Divisão ou Che
 
 IV - Responder pelos trabalhos das turmas de funcionários e extranumerários, cuja direção lhe fôr incumbida.
 
-<strong>Art</strong>. 28 - Aos Ajudantes dos Chefes de Distritos ou Serviços de Estados, Agro-Industrial e de Piscicultura compete:
+**Art**. 28 - Aos Ajudantes dos Chefes de Distritos ou Serviços de Estados, Agro-Industrial e de Piscicultura compete:
 
 I - Coadjuvar o Chefe do Distrito ou Serviço em todos os encargos concernentes à direção dos respectivos trabalhos
 
@@ -474,7 +472,7 @@ II - Substituí-los nos seus impedimentos eventuais.
 
 III - Representar o Distrito ou Serviço e inspecionar-lhe os serviços, por delegação do respectivo Chefe.
 
-<strong>Art</strong>. 29 - Aos Chefes de Secretaria dos Distritos e dos Serviços de Estudos, Agro-Industrial e de Piscicultura compete:
+**Art**. 29 - Aos Chefes de Secretaria dos Distritos e dos Serviços de Estudos, Agro-Industrial e de Piscicultura compete:
 
 I - Dirigir os trabalhos da Secretaria do Distrito ou Serviços, inclusive os de expediente, protocolo e arquivos, bem como superintender os da respectiva portaria.
 
@@ -482,7 +480,7 @@ II - Encaminhar, por cópia, à sede do Departamento tôda a documentação, que
 
 III - Colaborar com o Chefe do Distrito ou Serviço e respectivo ajudante em todos os encargos concernentes à direção dos trabalhos, no setor administrativo.
 
-<strong>Art</strong>. 30 - Aos chefes de Contabilidade dos Distritos e dos Serviços de Estudos, Agro-Industrial e de Piscicultura compete:
+**Art**. 30 - Aos chefes de Contabilidade dos Distritos e dos Serviços de Estudos, Agro-Industrial e de Piscicultura compete:
 
 I - Dirigir os trabalhos da turma encarregada dos serviços de contabilidade a cargo do Distrito ou Serviço.
 
@@ -490,7 +488,7 @@ II - Elaborar resumos, balancetes, balanços, demonstrações de despesas e quai
 
 III - Providenciar para a execução de quaisquer trabalhos de contabilidade que lhes sejam incumbidos pelo Chefe do Distrito ou Serviço.
 
-<strong>Art</strong>. 31 - Ao Assistente Jurídico, diretamente subordinado ao Diretor Geral, compete, quando lhe fôr incumbido:
+**Art**. 31 - Ao Assistente Jurídico, diretamente subordinado ao Diretor Geral, compete, quando lhe fôr incumbido:
 
 I - Prestar assistência Jurídica aos trabalhos dos vários órgãos do Departamento.
 
@@ -504,7 +502,7 @@ V - Examinar o aspecto legal das questões relativas a acidentes do trabalho.
 
 VI - Manter, sempre atualizado, um fichário da legislação e jurisprudência referentes à administração em geral.
 
-<strong>Art</strong>. 32 - Ao Chefe de Portaria compete:
+**Art**. 32 - Ao Chefe de Portaria compete:
 
 I - Dirigir e fiscalizar a execução de todos os trabalhos a cargo da portaria, fazendo, para isso, observar nesses trabalhos, as instruções e ordens do Chefe da Seção de Comunicações.
 
@@ -514,29 +512,29 @@ III - Fiscalizar pessoalmente os trabalhos a cargo da portaria e realizados por 
 
 IV - Impôr aos seus subordinados a pena disciplinar de advertência a quando a penalidade não couber na sua alçada, representar ao Chefe da Seção de Comunicações.
 
-<strong>Art</strong>. 33 - Aos servidores que não tenham atribuições especificadas neste Regimento compete executar os trabalhos que forem determinados pelo respectivo Chefe.
+**Art**. 33 - Aos servidores que não tenham atribuições especificadas neste Regimento compete executar os trabalhos que forem determinados pelo respectivo Chefe.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 34 - Os serviços a cargo do Departamento serão executados pelos ocupantes das carreiras D.N.O.C.S., pelos demais funcionários pertencentes à sua lotação, pelos legalmente requisitados e por extranumerários e pessoal de obras, admitidos na forma da legislação em vigor.
+**Art**. 34 - Os serviços a cargo do Departamento serão executados pelos ocupantes das carreiras D.N.O.C.S., pelos demais funcionários pertencentes à sua lotação, pelos legalmente requisitados e por extranumerários e pessoal de obras, admitidos na forma da legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DE HORÁRIO</em>
+*DE HORÁRIO*
 
-<strong>Art</strong>. 35 - O horário normal de trabalho no Departamento será fixado pelo Diretor Geral, observado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 35 - O horário normal de trabalho no Departamento será fixado pelo Diretor Geral, observado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 36 - A freqüência do pessoal em serviço fora das sedes do Departamento será verificada por boletins diários de produção, controlados pelo superior imediato.
+**Art**. 36 - A freqüência do pessoal em serviço fora das sedes do Departamento será verificada por boletins diários de produção, controlados pelo superior imediato.
 
-<strong>Art</strong>. 37 - O Diretor Geral, o Diretor da Divisão Técnica e dos Serviços de Administração e de Documentação, os Chefes de Distritos e os de Serviços de Estudos, Agro-Industrial e de Piscicultura não ficam sujeitos a ponto, devendo, porém, tanto quanto possível, observar o horário fixado.
+**Art**. 37 - O Diretor Geral, o Diretor da Divisão Técnica e dos Serviços de Administração e de Documentação, os Chefes de Distritos e os de Serviços de Estudos, Agro-Industrial e de Piscicultura não ficam sujeitos a ponto, devendo, porém, tanto quanto possível, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 38 - Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias;
+**Art**. 38 - Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias;
 
 I - O Diretor Geral, pelo Diretor da Divisão Técnica ou pelo Chefe do Serviço de Administração, mediante designação do Ministro de Estado da Viação e Obras Públicas, por sua indicação.
 
@@ -550,127 +548,125 @@ V - O Chefe de Portaria por um contínuo ou servente designado pelo Chefe do Ser
 
 Parágrafo único. Haverá sempre servidores previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 39 - Os casos omissos ou duvidosos que, na aplicação dêste Regimento, surgirem com respeito à organização interna dos serviços, serão resolvidos pelo Diretor Geral.
+**Art**. 39 - Os casos omissos ou duvidosos que, na aplicação dêste Regimento, surgirem com respeito à organização interna dos serviços, serão resolvidos pelo Diretor Geral.
 
-<strong>Art</strong>. 40 - Os demais casos omissos duvidosos, também referentes à aplicação dêste Regimento, serão revolvidos pelo Ministro da Viação e obras Públicas.
+**Art**. 40 - Os demais casos omissos duvidosos, também referentes à aplicação dêste Regimento, serão revolvidos pelo Ministro da Viação e obras Públicas.
 
 Rio de Janeiro, 28 de dezembro de 1945.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**
 
-###DEC-020284-0-000-29-12-1945@@@ret01+++
+**DECRETO Nº 20.284, DE 29 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.284, DE 29 DE DEZEMBRO DE 1945.</strong>
+***Aprova o Regimento de Departamento Nacional de Obras Contra as Sêcas (D.N.O.C.S.) do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Aprova o Regimento de Departamento Nacional de Obras Contra as Sêcas (D.N.O.C.S.) do Ministério da Viação e Obras Públicas.</strong></em>
+**RETIFICAÇÕES**
 
-<strong>RETIFICAÇÕES</strong>
-
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 O.D.N.O.C.S. terá um Diretor Geral, Engenheiro civil, nomeado, em comissão, pelo Presidente da República,
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 O.D.N.O.C.S. terá um Diretor Geral, Engenheiro civil, nomeado, em comissão, pelo Presidente da República.
 
 No art. 4º, mesma coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Puscicultura
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Piscicultura
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 áqueles e estês
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 aqueles e estês
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 O serviço de Ad-
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Os serviços de Ad-
 
 No art. 9º, item VI, 4º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 eleborados
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 elaborados
 
 Na pág. 66, art. 11, item V, 2º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Conservaão
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Conservação
 
 No art. 12, mesma coluna, 2º linha:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 (S.A.) compõem-se de:
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 (S.A.) compõe-se de:
 
 No art. 13, 3º coluna, 2º linha:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 (S.C), incumbe:
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 (S.C) incumbe:
 
 No art. 14, item V, 4º coluna, 6º linha:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ao Diretor do Serviço
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ao Chefe do Serviço
 
 À pág. 67, item VII, do art. 15,
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Coligir mensalmente o balancete
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Coligir mensalmente os balancetes
 
 No mesmo art. 15, item IX:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...referentes ao pessoal que a legislação lhe atribua, bem como indicar ao Diretor do Serviço de Administração, as medidas que, para esse fim devam ser solicitadas...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...obrigações que a legislação lhe atribua, referentes a material, indicando para isso, ao Chefe do Serviço de Administração, as medidas que devam ser solicitadas...
 
@@ -680,201 +676,201 @@ NÃO SE LEIA NADA
 
 No art. 15, item V, 1ª coluna, pág. 67,
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Providenciar a fim de que por...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Providenciar a fim de que seja por...
 
 No mesmo art. 16, item V:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...os encargões
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...os encargos
 
 Ainda no mesmo art. 16, mesmo item, 2º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...as leis e instruções vigentes que lhe atribuem,
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...as leis e instruções vigentes que lhe atribuam,
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...que, para êsse fim, devem ser...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...que, para êsse fim, devam ser...
 
 No art. 17, item III, 2º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 digam respeito a açudagem irrigação...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 digam respeito a açudagem, irrigação...
 
 No item VII do mesmo art. 17:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 atualizados
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 atualizadas
 
 No item X do art. 17,
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...a Divisão Administrativa
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...o Serviço de Documentação
 
 No art. 18, item V, 3º coluna - (pág. 67):
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 V - Conservas e reparar...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 V - Conservar e reparar...
 
 No item IX,
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...nos têrmo da lei.
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...nos têrmos da lei.
 
 No art. 20, item VII, 4º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ferramentos e aparelhagem
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ferramentas e aparelhagem
 
 No art. 21, item VI, 4º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...de materiais, fôlha...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...de materiais, fôlhas...
 
 No art. 22, item XIV, 1º coluna, pág. 68:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Assegurar a colaboração dos serviços...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Assegurar a colaboração dos diversos...
 
 No art. 23, item IV:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...que execederem...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...que excederem...
 
 No mesmo art. 23, item V:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...e as leis lhe atribuem.
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...e as leis lhes atribuem.
 
 No art. 24, item III, 2º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 que este Regimento lhe atribui,
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 que este Regimento lhes atribui,
 
 No item III:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...do Distritos ou Serviço
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...do Distrito ou Serviço
 
 No item V:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 exceder a sua competência.
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 exceder à sua competência.
 
 No art. 29, item I, 3º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...do Distrito ou Serviços, inclusive
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...do Distrito ou Serviço, inclusive
 
 No art. 31, item II, 3ªcoluna
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ...de textos legais sôbre quaisquer...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ...de têxtos legais sôbre quaisquer
 
 Na 4º coluna:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Capítulo VII
 
 Las Substituições
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Capítulo VII
 
@@ -882,36 +878,36 @@ Das Substituições
 
 No item II, do art. 38:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 o Chefe de Serviço de Administração, por um...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 o Chefe de Serviço de Administração, por um...
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ,mediante indicação do substituído e o Chefe...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ,mediante indicação ao substituído, e o Chefe...
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Serviço de Documentação por funcionário...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Serviço de Documentação, por funcionário...
 
 No item V, do mesmo art. 38:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 O Chefe de Portaria por um...
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 O Chefe de Portaria, por um...

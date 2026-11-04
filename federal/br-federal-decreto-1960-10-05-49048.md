@@ -1,5 +1,3 @@
-###DEC-049048-0-000-05-10-1960@@@
-
 DECRETO Nº 49.048, DE 5 DE OUTUBRO DE 1960.
 
 Renova o Decreto nº 43.363, de 12 de março de 1958.

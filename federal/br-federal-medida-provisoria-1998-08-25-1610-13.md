@@ -1,5 +1,3 @@
-###MPV-001610-0-013-25-08-1998@@@
-
 Medida provisória nº 1.610-13, de 25 De Agosto de 1998
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

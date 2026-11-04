@@ -1,5 +1,3 @@
-###MPV-002003-0-001-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.003-1, DE 14 DE DEZEMBRO DE 1999.
 
 Cria a Agência Nacional de Saúde Suplementar - ANS e dá outras providências.

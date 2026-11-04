@@ -1,5 +1,3 @@
-###DEL-004704-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.704 - DE 17 DE SETEMBRO DE 1942
 
 Extingue a 3ª Brigada de Infantaria com sede em Fortaleza.

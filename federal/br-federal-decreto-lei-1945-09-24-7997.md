@@ -1,5 +1,3 @@
-###DEL-007997-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.997 – DE 24 DE SETEMBRO DE 1945
 
 Dispõe sôbre a aposentadoria dos serventuários e funcionários da Justiça do Distrito Federal e dá outras providências

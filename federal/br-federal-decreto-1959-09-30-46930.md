@@ -1,5 +1,3 @@
-###DEC-046930-0-000-30-09-1959@@@
-
 DECRETO Nº 46.930, DE 30 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública o Solar Bezerra de Menezes, com sede no Distrito Federal.

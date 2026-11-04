@@ -1,5 +1,3 @@
-###DEC-098480-0-000-07-12-1989@@@
-
 DECRETO N° 98.480, DE 7 DE DEZEMBRO DE 1989
 
 Revoga o Decreto n° 64.461, de 05 de maio de 1969, que aprova o Regulamento para a Diretoria-Geral do Pessoal da Marinha.

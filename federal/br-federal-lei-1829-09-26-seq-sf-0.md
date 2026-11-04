@@ -1,5 +1,3 @@
-###LEI-000000-0-000-26-09-1829@@@
-
 LEI - DE 26 DE SETEMBRO DE 1829
 
 Declara o ordenado dos Vice-Presidentes das provincias, quando servirem de Presidentes, e marca a época da eleição dos Conselheiros do Governo.

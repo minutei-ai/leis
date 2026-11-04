@@ -1,7 +1,3 @@
-1
-
-###DEC-000317-0-000-30-10-1991@@@
-
 DECRETO N° 317, DE 30 DE OUTUBRO DE 1991
 
 Regulamenta as disposições da Lei n° 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesou­ro Nacional (NTN) e dá outras providências .

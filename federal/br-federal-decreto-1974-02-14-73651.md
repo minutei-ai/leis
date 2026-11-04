@@ -1,5 +1,3 @@
-###DEC-073651-0-000-14-02-1974@@@
-
 DECRETO Nº 73.651, DE 14 DE FEVEREIRO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia Dom Aureliano Matos, com os cursos de Pedagogia, Letras, Geografia e História, mantida pelo Governo do Estado do Ceará, com sede na Cidade de Limoeiro do Norte, Estado do Ceará.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099765-0-000-04-12-1990@@@
-
 # DECRETO N° 99.765, DE 4 DE DEZEMBRO DE 1990
 
 Abre à Justiça Federal, em favor do Tribunal Regional Federal da 1ª Região, crédito suplementar no valor de Cr$ 291.265.000,00, para reforço de dotações consignadas no vigente orçamento.

@@ -1,5 +1,3 @@
-###DEC-070596-0-000-23-05-1972@@@
-
 DECRETO Nº 70.596, DE 23 DE MAIO DE 1972.
 
 Concede reconhecimento à Faculdade de Engenharia de Bauru - São Paulo.

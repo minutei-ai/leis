@@ -1,5 +1,3 @@
-###DEC-091453-0-000-19-07-1985@@@
-
 DECRETO Nº 91.453, DE 19 DE JULHO DE 1985
 
 Altera o Art. 1º do Decreto nº 89.384, de 15 de fevereiro de 1984, que "autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Educação e Ciências Humanas Professor Laerte de Carvalho".

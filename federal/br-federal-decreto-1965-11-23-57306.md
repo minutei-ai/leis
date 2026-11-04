@@ -1,5 +1,3 @@
-###DEC-057306-0-000-23-11-1965@@@
-
 DECRETO Nº 57.306, DE 23 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Companhia Vale do Rio Doce, áreas de terras situadas nos Municípios de Santa Bárbara e Mariana, no Estado de Minas Gerais.

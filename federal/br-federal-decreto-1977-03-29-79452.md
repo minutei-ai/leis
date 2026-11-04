@@ -1,5 +1,3 @@
-###DEC-079452-0-000-29-03-1977@@@
-
 DECRETO Nº 79.452, DE 29 DE MARÇO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação dos terrenos que menciona, situados no Município de Goiânia, Estado de Goiás.

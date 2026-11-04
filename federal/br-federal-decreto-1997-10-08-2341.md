@@ -1,5 +1,3 @@
-###DEC-002341-0-000-08-10-1997@@@
-
 DECRETO Nº 2.341, DE 8 DE OUTUBRO DE 1997
 
 Estabelece prazos para o exercício de chefia de posto no exterior para integrantes da Carreira de Diplomata.

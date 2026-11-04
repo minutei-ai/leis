@@ -1,5 +1,3 @@
-###DEC-003652-0-000-07-11-2000@@@
-
 DECRETO Nº 3.652, DE 7 DE NOVEMBRO DE 2000.
 
 Dispõe sobre a organização do Departamento Logístico, altera dispositivo do Decreto nº 78.724, de 12 de novembro de 1976, e dá outras providências.

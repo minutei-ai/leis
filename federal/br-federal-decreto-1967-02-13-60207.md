@@ -1,5 +1,3 @@
-###DEC-060207-0-000-13-02-1967@@@
-
 DECRETO Nº 60.207, DE 13 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública o “Colégio Sacré Coeur de Jesus”, com sede em Belo Horizonte, Estado de Minas Gerais.

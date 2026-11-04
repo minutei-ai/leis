@@ -1,6 +1,10 @@
 > **LEI Nº 3.686, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a destinação de bens, direitos e valores oriundos de ilícitos penais para os órgãos que integram a segurança pública do Estado do Acre, conforme preceitua o § 1º do art. 7º da Lei Federal n. 9.613 de 03 de março de 1998.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a destinação de bens, direitos e valores oriundos de ilícitos penais para os órgãos que integram a segurança pública do Estado do Acre, conforme preceitua o § 1º do art. 7º da Lei Federal n. 9.613 de 03 de março de 1998.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE** 
 

@@ -1,5 +1,3 @@
-###DEC-056263-0-000-06-05-1965@@@
-
 DECRETO Nº 56.263, DE 6 DE MAIO DE 1965.
 
 Aprova o Regimento do Departamento Nacional de Segurança e Higiene do Trabalho (D.N.S.H.T.).

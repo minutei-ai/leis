@@ -1,7 +1,3 @@
-1
-
-###DEC-099916-0-000-24-12-1990@@@
-
 # DECRETO N° 99.916, DE 24 DE DEZEMBRO DE 1990
 
 Aprova a Estrutura Regimental do Ministério da Ação Social e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071193-0-000-04-10-1972@@@
-
 DECRETO Nº 71.193, DE 4 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias, nos Estados de Minas Gerais e São Paulo, destinadas ao canteiro de obras do aproveitamento hidrelétrico de Água Vermelha.

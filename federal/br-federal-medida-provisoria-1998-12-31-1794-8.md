@@ -1,5 +1,3 @@
-###MPV-001794-0-008-31-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.794-8, DE 31 DE DEZEMBRO DE 1998
 
 Altera as Leis nºs 6.368(1), de 21 de outubro de 1976, e 8.112(2), de 11 de dezembro de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085730-0-000-17-02-1981@@@
-
 Decreto nº 85.730, de 17 de fevereiro de 1981.
 
 Autoriza o funcionamento do curso Emergencial de Graduação de Professores para a parte de Formação Especial do Currículo do Ensino de 2º grau, na Universidade Federal do Espírito Santo.

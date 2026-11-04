@@ -1,5 +1,3 @@
-###DEC-048119-0-000-13-04-1960@@@
-
 DECRETO Nº 48.119, DE 13 DE ABRIL DE 1960.
 
 Introduz o “parágrafo único” ao Artigo 54 do R-126 (Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército), aprovado pelo Decreto 42.911, de 27 de dezembro de 1957, e modificado pelo Decreto 45.655, de 25 de março de 1959.

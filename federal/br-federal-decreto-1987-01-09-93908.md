@@ -1,5 +1,3 @@
-###DEC-093908-0-000-09-01-1987@@@
-
 DECRETO Nº 93.908, DE 09 DE JANEIRO DE 1987
 
 Altera dispositivos do Decreto nº 81.659, de 15 de maio de 1978.

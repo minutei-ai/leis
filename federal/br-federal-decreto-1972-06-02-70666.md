@@ -1,5 +1,3 @@
-###DEC-070666-0-000-02-06-1972@@@
-
 Decreto Nº 70.666, DE 2 DE JUNHO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Educação e Cultura, cargo do Território Federal de Rondônia, e dá outras providências.

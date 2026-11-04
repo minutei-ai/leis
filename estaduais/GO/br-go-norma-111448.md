@@ -14,8 +14,10 @@ Goiânia, 22 de outubro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
+RONALDO CAIADO
+
+Governador do Estado
+
  
 
 TRIBUNAL DE CONTAS DO ESTADO DE GOIÁS
@@ -37,7 +39,6 @@ CARGOS EM COMISSÃO – ASSESSORAMENTO
 
 " (NR)
 
-<br>
 ANEXO II
 
 (Altera o Anexo IV da [Lei nº 15.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023), de 2005)
@@ -78,7 +79,8 @@ ANEXO IV
 
 FUNÇÕES DE CONFIANÇA
 
-(Art. 4º)<br>
+(Art. 4º)
+
  
 
 | FUNÇÕES | REFERÊNCIA | QUANTIDADE | GRATIFICAÇÃO |

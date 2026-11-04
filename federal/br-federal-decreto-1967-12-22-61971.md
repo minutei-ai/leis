@@ -1,5 +1,3 @@
-###DEC-061971-0-000-22-12-1967@@@
-
 DECRETO Nº 61.971, DE 22 DE DEZEMBRO DE 1967.
 
 Aprova a incorporação de diversas emprêsas concessionárias de serviços públicos pela Centrais Elétricas Fluminenses S. A. - CELF, transfere direitos e obrigações e dá outras providências.

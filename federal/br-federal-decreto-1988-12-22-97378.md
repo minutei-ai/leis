@@ -1,5 +1,3 @@
-###DEC-097378-0-000-22-12-1988@@@
-
 DECRETO Nº 97.378, DE 22 DE DEZEMBRO DE 1988
 
 Promulga o Acordo sobre Cooperação Cultural entre a República Federativa do Brasil e a União das Repúblicas Socialistas Soviéticas.

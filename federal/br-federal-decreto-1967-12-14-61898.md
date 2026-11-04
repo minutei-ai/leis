@@ -1,5 +1,3 @@
-###DEC-061898-0-000-14-12-1967@@@
-
 decreto Nº 61.898, de 14 de dezembro de 1967.
 
 Extingue o Consulado Honorário do Brasil em San Antônio, Chile.

@@ -1,5 +1,3 @@
-###DEC-047655-0-000-18-01-1960@@@
-
 DECRETO Nº 47.655, DE 18 DE JANEIRO DE 1960.
 
 Altera o Regulamento da Diretoria de Subsistência (DS), aprovado por Decreto nº 45.476, de 26 de fevereiro de 1959, para acrescentar o Artigo 21.

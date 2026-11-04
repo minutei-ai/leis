@@ -1,5 +1,3 @@
-###DEC-002271-0-000-07-07-1997@@@
-
 DECRETO Nº 2.271, DE 7 DE JULHO, DE 1997
 
 Dispõe sobre a contratação de serviços pela Administração Pública Federal direta, autárquica e fundacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054971-0-000-11-11-1964@@@
-
 decreto nº 54.971, de 11 de novembro de 1964.
 
 Estabelece o nome de Irineu Evangelista de Souza, Barão e Visconde de Mauá, como “Patrono do Ministério da Viação e Obras Públicas” e institui o “Dia de Mauá”.

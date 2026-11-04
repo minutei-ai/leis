@@ -1,20 +1,18 @@
-###DEC-022833-0-000-28-03-1947@@@
+**DECRETO Nº 22.833, DE 28 DE MARÇO DE 1947.**
 
-<strong>DECRETO Nº 22.833, DE 28 DE MARÇO DE 1947.</strong>
+***Outorga a Antônio Mourão Guimarães, ou à emprêsa que organizar concessão para o aproveitamento progressivo de energia hidráulica das cachoeiras Corríola e Fraga, no distrito da sede do município do Rio das Contas, e da cachoeira Brumado no distrito da sede do município de Livramento de Brumado, situadas no rio Brumado, Estado da Bahia.***
 
-<em><strong>Outorga a Antônio Mourão Guimarães, ou à emprêsa que organizar concessão para o aproveitamento progressivo de energia hidráulica das cachoeiras Corríola e Fraga, no distrito da sede do município do Rio das Contas, e da cachoeira Brumado no distrito da sede do município de Livramento de Brumado, situadas no rio Brumado, Estado da Bahia.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 164, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 164, do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada a  Antônio Mourão Guimarães, ou a emprêsa que organizar concessão para o aproveitamento progressivo de energia hidráulica das cachoeiras Corriola e Fraga, no distrito da sede do município do Rio das Contas, e da cachoeira Brumado, no distrito da sede do município de Livramento de Brumado, situadas no rio Brumado, Estado da Bahia.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada a  Antônio Mourão Guimarães, ou a emprêsa que organizar concessão para o aproveitamento progressivo de energia hidráulica das cachoeiras Corriola e Fraga, no distrito da sede do município do Rio das Contas, e da cachoeira Brumado, no distrito da sede do município de Livramento de Brumado, situadas no rio Brumado, Estado da Bahia.
 
 § 1º - Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de quéda a aproveitar, bem como a descarga e a potência concedidas.
 
 § 2º - O aproveitamento destina-se à produção, transmissão, traformação e distribuição de energia elétrica para serviços públicos e de utilidade pública, e para comércio de energia nas cidades de Livramento do Brumado, Rio das Contas e bom Jesus dos Meiras, no Estado da Bahia.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, o concessionário obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, o concessionário obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, dentro de 30 (trinta) dias, após a sua publicação.
 
@@ -68,34 +66,34 @@ V - Obedecer, em todos os projetos, as prescrições de ordem técnica determina
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Mniitro da Agricultura;
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Mniitro da Agricultura;
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de 30 (trinta) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4º A presente concessão vigorará pelo prazo de 30 (trinta) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5º O concessionário fica obrigado a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 5º O concessionário fica obrigado a construir e manter, nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 6<strong>º</strong> Ao concessionário é assegurado durante a vigência da presente concessão e respeitados os direitos de terceiros anteriormente adquiridos, a autorização para fazer comércio de energia elétrica na zona discriminada no § 2º do art. 1º do presente decreto.
+**Art**. 6**º** Ao concessionário é assegurado durante a vigência da presente concessão e respeitados os direitos de terceiros anteriormente adquiridos, a autorização para fazer comércio de energia elétrica na zona discriminada no § 2º do art. 1º do presente decreto.
 
-<strong>Art</strong>. 7<strong>º</strong> O capital a ser remunerado será o efetivamente invertido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção transmissão, transformação e distribuição de energia elétrica.
+**Art**. 7**º** O capital a ser remunerado será o efetivamente invertido nas instalações do concessionário, em função de sua indústria, concorrendo, de forma permanente, para a produção transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 8º As tabelas de prêço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o dispôsto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (ítem III do citado art. 180), dentro de limites que deverão ser estipulados no contrato disciplinar da presente concessão.
+**Art**. 8º As tabelas de prêço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas de acôrdo com o dispôsto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (ítem III do citado art. 180), dentro de limites que deverão ser estipulados no contrato disciplinar da presente concessão.
 
-<strong>Art</strong>. 9º Para a manutenção da integridade do capital a que se refere o art. 7º do presente decreto será criado um fundo especial de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 9º Para a manutenção da integridade do capital a que se refere o art. 7º do presente decreto será criado um fundo especial de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por cotas especiais que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas tendo-se em vista a duração média do material a cuja renovação o dito fundo terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 10. Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição da energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado da Bahia em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9º dêste decreto.
+**Art**. 10. Findo o prazo da concessão, tôda a propriedade do concessionário que, no momento existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição da energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado da Bahia em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 9º dêste decreto.
 
 § 1º Se o Estado da Bahia não fizer uso do seu direito a essa reversão, o concessionário poderá requerer ao Governo Federal, que a concessão seja renovada pela forma que no respectivo contrato, deverá estar prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, o concessionário dará conhecimento ao Governo Federal da decisão do Estado da Bahia e entrará com o requerimento de prorrogação da concessão ou o de desistência desta, até seis (6) mêses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11. O concessionário gozará, desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11. O concessionário gozará, desde a data do registro de que trata o art. 4º e enquanto vigorar esta concessão dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 12. Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de março de 1947, 126º da Indepedência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

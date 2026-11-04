@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183442)
-
 # DECRETO Nº 62.846, DE 02 DE OUTUBRO DE 2017
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Renovias Concessionária S.A., imóveis necessários às obras de implantação do Dispositivo de Retorno e Acesso à UNESP, km 225+000m da Rodovia Governador Adhemar Pereira de Barros, SP-342, Município e Comarca de São João da Boa Vista, no trecho que especifica e dá providências correlatas_
@@ -42,8 +40,12 @@ Palácio dos Bandeirantes, 2 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 2 de outubro de 2017.

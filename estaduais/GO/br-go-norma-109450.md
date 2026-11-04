@@ -60,14 +60,16 @@ II – realizar autuação por infração ambiental, nos termos das Leis estadua
 
 III – conduzir coercitivamente os infratores, quando em flagrante delito, para a oitiva deles pelas autoridades policiais;
 
-~~IV – realizar a busca e a apreensão de materiais usados para provocar incêndios criminosos;~~<br>
+~~IV – realizar a busca e a apreensão de materiais usados para provocar incêndios criminosos;~~
+
 \- [Declarado inconstitucional pelo TJGO na ADI nº 5866915-47.2024.8.09.0000](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18913).
 
 V – promover o indiciamento dos infratores por crimes eventualmente cometidos na ocorrência do ilícito;
 
 VI – identificar os infratores e verificar, com o cruzamento de dados, quais deles são beneficiados por incentivos no contexto de políticas públicas estaduais;
 
-~~VII – requerer, nos termos da lei, o afastamento de sigilos e a busca domiciliar, quando forem necessários à efetivação da política pública;~~<br>
+~~VII – requerer, nos termos da lei, o afastamento de sigilos e a busca domiciliar, quando forem necessários à efetivação da política pública;~~
+
 \- [Declarado inconstitucional pelo TJGO na ADI nº 5866915-47.2024.8.09.0000](http://legisla.casacivil.go.gov.br/api/v1/arquivos/18913).
 
 VIII – promover medidas judiciais para a responsabilização civil dos infratores;
@@ -148,15 +150,20 @@ Art. 14. Poderão colaborar com o Poder Executivo, para a execução da polític
 
 Art. 15. Permanece suspenso, em todo o território estadual, enquanto vigorar a situação de emergência pública reconhecida pelo Decreto nº 10.503, de 24 de julho de 2024, o uso de fogo na vegetação, ressalvados os casos expressamente autorizados pela SEMAD.
 
-~~Art. 16. Provocar incêndio em florestas, matas, demais formas de vegetação, pastagens, lavouras ou outras culturas, durante a vigência de situação de emergência ambiental ou calamidade decretada, expondo a perigo a vida, a integridade física, o patrimônio público ou privado, a ordem pública e a coletividade:~~<br>
-**Pena – reclusão, de 4 (quatro) a 7 (sete) anos, e multa.**<br>
+~~Art. 16. Provocar incêndio em florestas, matas, demais formas de vegetação, pastagens, lavouras ou outras culturas, durante a vigência de situação de emergência ambiental ou calamidade decretada, expondo a perigo a vida, a integridade física, o patrimônio público ou privado, a ordem pública e a coletividade:~~
+
+**Pena – reclusão, de 4 (quatro) a 7 (sete) anos, e multa.**
+
 \- [Declarado Inconstitucional pelo STF - ADI nº 7712](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18605).
 
-~~Parágrafo único. Se do incêndio resulta morte, lesão corporal grave, comprometimento do funcionamento de serviços públicos, prejuízo econômico relevante ou se ele decorre de ação coordenada:~~<br>
-**Pena – reclusão, de 10 (dez) anos, e multa.**<br>
+~~Parágrafo único. Se do incêndio resulta morte, lesão corporal grave, comprometimento do funcionamento de serviços públicos, prejuízo econômico relevante ou se ele decorre de ação coordenada:~~
+
+**Pena – reclusão, de 10 (dez) anos, e multa.**
+
 \- [Declarado Inconstitucional pelo STF - ADI nº 7712](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18605).
 
-~~Art. 17. O crime previsto no art. 16 desta lei é inafiançável.~~<br>
+~~Art. 17. O crime previsto no art. 16 desta lei é inafiançável.~~
+
 \- [Declarado Inconstitucional pelo STF - ADI nº 7712](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18605). 
 
 Art. 18. Esta Lei entra em vigor na data de sua publicação.

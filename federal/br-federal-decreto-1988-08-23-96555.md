@@ -1,5 +1,3 @@
-###DEC-096555-0-000-23-08-1988@@@
-
 DECRETO N° 96.555, DE 23 DE AGOSTO DE 1988
 
 Transfere a Secretaria de Controle de Empresas Estatais  SEST e o Conselho Interministerial de Salários de Empresas Estatais  CISE do Ministério da Fazenda para a Secretaria de Planejamento e Coordenação da Presidência da República, e dá outras providências.

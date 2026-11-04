@@ -1,7 +1,3 @@
-1
-
-###DEC-001514-0-000-05-06-1995@@@
-
 DECRETO Nº 1.514, DE 05 DE JUNHO DE 1995
 
 Altera os arts. 115, 116 e 117 do Regulamento da Organização e do Custeio da Seguridade Social, aprovado pelo Decreto nº 612, de 21 de julho de 1992, alterados pelos Decretos nºs 656, de 24 de setembro de 1992, e 944, de 30 de setembro de 1993, e dá outras providências.

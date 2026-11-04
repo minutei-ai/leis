@@ -1,5 +1,3 @@
-###DEC-004829-0-000-03-09-2003@@@
-
 DECRETO Nº 4.829, DE 3 DE SETEMBRO DE 2003.
 
        Dispõe sobre a criação do Comitê Gestor da Internet no Brasil - CGIbr, sobre o modelo de governança da Internet no Brasil, e dá outras providências.
@@ -156,7 +154,10 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 3 de setembro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-José Dirceu de Oliveira e Silva<br>
-Miro Teixeira<br>
+LUIZ INÁCIO LULA DA SILVA
+
+José Dirceu de Oliveira e Silva
+
+Miro Teixeira
+
 Roberto Átila Amaral Vieira

@@ -1,5 +1,3 @@
-###LEI-000000-0-000-07-11-1831@@@
-
 LEI - DE 7 DE NOVEMBRO DE 1831
 
 Declara livres todos os escravos vindos de fóra do Imperio, e impõe penas aos importadores dos mesmos escravos.

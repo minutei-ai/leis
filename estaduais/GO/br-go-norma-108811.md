@@ -60,13 +60,16 @@ Art. 6º O Estado de Goiás estimulará o consumo de biocombustíveis e a utiliz
 
 Art. 7º O Estado de Goiás poderá firmar parcerias com entidades públicas e privadas, nacionais e internacionais, para estudo, pesquisa e desenvolvimento de tecnologias relacionadas à utilização eficiente e sustentável de biocombustíveis.
 
-Art. 7º-A O Estado de Goiás atuará, no âmbito de sua competência, para coibir a comercialização, no território estadual, de combustíveis líquidos ou gasosos em desconformidade com os padrões legais de composição, qualidade ou proporção mínima de biocombustíveis, especialmente quanto à adição obrigatória de etanol anidro à gasolina e de biodiesel ao óleo diesel, nos termos da legislação federal vigente.<br>
+Art. 7º-A O Estado de Goiás atuará, no âmbito de sua competência, para coibir a comercialização, no território estadual, de combustíveis líquidos ou gasosos em desconformidade com os padrões legais de composição, qualidade ou proporção mínima de biocombustíveis, especialmente quanto à adição obrigatória de etanol anidro à gasolina e de biodiesel ao óleo diesel, nos termos da legislação federal vigente.
+
 \- [Acrescido pela Lei nº 23.644, de 8-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111231).
 
-§ 1º A atuação do Estado se dará em articulação com os órgãos federais responsáveis, inclusive a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), e poderá compreender a lavratura de autos de infração, a comunicação imediata aos órgãos de persecução penal e a adoção de medidas cautelares e sancionatórias no âmbito estadual.<br>
+§ 1º A atuação do Estado se dará em articulação com os órgãos federais responsáveis, inclusive a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), e poderá compreender a lavratura de autos de infração, a comunicação imediata aos órgãos de persecução penal e a adoção de medidas cautelares e sancionatórias no âmbito estadual.
+
 \- [Acrescido pela Lei nº 23.644, de 8-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111231).
 
-§ 2º O Estado de Goiás adotará medidas para a capacitação técnica de seus órgãos de fiscalização ambiental e de defesa do consumidor, com o objetivo de assegurar a rastreabilidade da origem do combustível comercializado e a responsabilização dos infratores, inclusive por meio de convênios com entidades públicas e privadas, especialmente com a ANP.<br>
+§ 2º O Estado de Goiás adotará medidas para a capacitação técnica de seus órgãos de fiscalização ambiental e de defesa do consumidor, com o objetivo de assegurar a rastreabilidade da origem do combustível comercializado e a responsabilização dos infratores, inclusive por meio de convênios com entidades públicas e privadas, especialmente com a ANP.
+
 \- [Acrescido pela Lei nº 23.644, de 8-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111231).
 
 Art. 8º Esta Lei entra em vigor na data de sua publicação.

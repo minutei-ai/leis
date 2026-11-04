@@ -28,6 +28,24 @@ Presidente da Assembleia Legislativa, no exercício do cargo de Governador do Es
 
 ~~FESTIVIDADES ALUSIVAS~~
 
-<table><tbody><tr><td><p><s>..........................................................................................................</s></p></td><td><p><s>...............................</s></p></td></tr><tr><td><p><s>MARÇO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>..........................................................................................................</s></p></td><td><p><s>...............................</s></p></td></tr><tr><td><p><s>Vindima de Altitude dos Municípios que compõem a área geográfica da indicação de procedência dos vinhos de altitude.</s></p><p></p><p><s>Referida área geográfica abrange os Municípios de Água Doce, Anitápolis, Arroio Trinta, Bom Jardim da Serra, Bom Retiro, Brunópolis, Caçador, Campo Belo do Sul, Campos Novos, Capão Alto, Cerro Negro, Curitibanos, Fraiburgo, Frei Rogério, Ibiam, Iomerê, Lages, Macieira, Painel, Pinheiro Preto, Rancho Queimado, Rio das Antas, Salto Veloso, São Joaquim, São José do Cerrito, Tangará, Treze Tílias, Urubici, Urupema, Vargem Bonita e Videira.</s></p></td><td><p></p></td></tr><tr><td><p><s>..........................................................................................................</s></p></td><td><p><s>...............................</s></p></td></tr></tbody></table>
+~~..........................................................................................................~~
+
+~~...............................~~
+
+~~MARÇO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~..........................................................................................................~~
+
+~~...............................~~
+
+~~Vindima de Altitude dos Municípios que compõem a área geográfica da indicação de procedência dos vinhos de altitude.~~
+
+~~Referida área geográfica abrange os Municípios de Água Doce, Anitápolis, Arroio Trinta, Bom Jardim da Serra, Bom Retiro, Brunópolis, Caçador, Campo Belo do Sul, Campos Novos, Capão Alto, Cerro Negro, Curitibanos, Fraiburgo, Frei Rogério, Ibiam, Iomerê, Lages, Macieira, Painel, Pinheiro Preto, Rancho Queimado, Rio das Antas, Salto Veloso, São Joaquim, São José do Cerrito, Tangará, Treze Tílias, Urubici, Urupema, Vargem Bonita e Videira.~~
+
+~~..........................................................................................................~~
+
+~~...............................~~
 
 ~~” (NR)~~

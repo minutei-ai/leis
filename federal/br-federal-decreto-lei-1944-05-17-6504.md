@@ -1,5 +1,3 @@
-###DEL-006504-0-000-17-05-1944@@@
-
 DECRETO-LEI N. 6.504 – DE 17 DE MAIO DE 1944
 
 Dispõe sobre a administração da Estrada de Ferro Madeira-Mamoré e dá outras providências

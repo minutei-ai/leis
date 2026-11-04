@@ -1,5 +1,3 @@
-###DEC-084508-0-000-25-02-1980@@@
-
 Decreto nº 84.508, de 25 de fevereiro de 1980.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

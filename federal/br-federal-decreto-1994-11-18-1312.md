@@ -1,7 +1,3 @@
-1
-
-###DEC-001312-0-000-18-11-1994@@@
-
 DECRETO Nº 1.312, DE 18 DE NOVEMBRO DE 1994
 
 Regulamenta o Capítulo V, arts. 29 a 35, da Medida Provisória nº 681, de 27 de outubro de 1994, que institui o Fundo de Amortização da Dívida Pública Mobiliária Federal, e dá outras providências.

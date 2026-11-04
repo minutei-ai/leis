@@ -1,5 +1,3 @@
-###DEC-070658-0-000-30-05-1972@@@
-
 DECRETO Nº 70.658, DE 30 DE MAIO DE 1972.
 
 Concede à Mineração Angelim S.A. o direito de lavrar cassiterita no município de Novo Aripuanã, Estado do Amazonas.

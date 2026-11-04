@@ -189,7 +189,3 @@ ANEXO III
 QUANTITATIVO DOS CARGOS RESULTANTES DE EFETIVAÇÃO PELA EMENDA Nº 49/2001 E DAS FUNÇÕES PÚBLICAS NÃO EFETIVADAS DO GRUPO DE ATIVIDADES DE SAÚDE
 
 Órgão Cargo ou Função Pública Quantitativo Secretaria de Estado de Saúde Auxiliar de Apoio à Gestão e Atenção à Saúde 714 Técnico de Atenção à Saúde 585 Técnico de Gestão da Saúde 479 Analista de Atenção à Saúde 626 Especialista em Políticas e Gestão de Saúde 244 TOTAL 2.648 FHEMIG Auxiliar de Apoio da Saúde 915 Técnico Operacional da Saúde 267 Analista de Gestão e Assistência à Saúde 288 Profissional de Enfermagem 104 Médico 147 TOTAL 1.721 HEMOMINAS Auxiliar de Hematologia e Hemoterapia 39 Assistente Técnico de Hematologia e Hemoterapia 64 Analista de Hematologia e Hemoterapia 14 Médico da Área de Hematologia e Hemoterapia 6 TOTAL 123 FUNED e ESP/MG Técnico de Saúde e Tecnologia 49 Analista de Saúde e Tecnologia 59 FUNED Auxiliar de Saúde e Tecnologia 89 TOTAL 197 TOTAL - GRUPO DE ATIVIDADES DE SAÚDE 4.689
-
-\======================================
-
-Data da última atualização: 29/7/2016.

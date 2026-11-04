@@ -1,5 +1,3 @@
-###DEL-006240-0-000-03-02-1944@@@
-
 DECRETO-LEI N. 6.240 – DE 3 DE FEVEREIRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a conceder a exploração do serviço de transporte coletivo do Plano Inclinado do Outeiro da Glória

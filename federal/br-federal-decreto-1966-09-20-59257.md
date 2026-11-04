@@ -1,5 +1,3 @@
-###DEC-059257-0-000-20-09-1966@@@
-
 decreto nº 59.257, de 20 de setembro de 1966.
 
 Retifica enquadramento de cargo, do Ministério da Educação e Cultura.

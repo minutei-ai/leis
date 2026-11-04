@@ -1,5 +1,3 @@
-###DEC-046346-0-000-02-07-1959@@@
-
 Decreto nº 46.346, de 2 de julho de 1959.
 
 Outorga concessão à Lins Rádio Clube Sociedade Anônima para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-054707-0-000-29-10-1964@@@
-
 DECRETO Nº 54.707, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a S. A. Mineração da Trindade a pesquisar minérios de ferro e de manganês no município de Mariana, Estado de Minas Gerais.

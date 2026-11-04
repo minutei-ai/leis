@@ -1,5 +1,3 @@
-###DEC-055603-0-000-20-01-1965@@@
-
 DECRETO Nº 55.603, DE 20 DE JANEIRO DE 1965.
 
 Autoriza estrangeiros a adquirirem, em transferência de aforamento, o domínio útil de fração ideal do terreno acrescido de marinha que menciona, no Estado do Rio de Janeiro.

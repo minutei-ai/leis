@@ -1,5 +1,3 @@
-###DEC-081690-0-000-22-05-1978@@@
-
 Decreto nº 81.690, de 22 de maio de 1978.
 
 Prorroga prazo fixado no artigo 2º do Decreto nº 78.308, de 24 de agosto de 1976, que autoriza a cessão, sob o regime de aforamento, de terreno situado no município de Cabo Frio (RJ).

@@ -1,5 +1,3 @@
-###DEC-062070-0-000-05-01-1968@@@
-
 dECRETO nº 62.070, DE 5 DE JANEIRO DE 1968.
 
 Declara caduco o Decreto n.º 24.168, de 4 de dezembro de 1947.

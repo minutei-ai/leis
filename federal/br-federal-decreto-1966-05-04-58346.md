@@ -1,5 +1,3 @@
-###DEC-058346-0-000-04-05-1966@@@
-
 DECRETO Nº 58.346, DE 4 DE MAIO DE 1966.
 
 Modifica o Decreto nº 55.159, de 4 de dezembro de 1964, de intervenção Federal na Companhia Nacional de Navegação Costeira. - A.F.

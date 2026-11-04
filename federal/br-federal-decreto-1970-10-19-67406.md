@@ -1,5 +1,3 @@
-###DEC-067406-0-000-19-10-1970@@@
-
 Decreto Nº 67.406, de 19 de outubro de 1970.
 
 Declara caduco o Decreto número 10.104, de 30 de julho de 1970.

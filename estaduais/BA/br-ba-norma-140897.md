@@ -4,7 +4,8 @@ Reestrutura o Projeto Primeiro Emprego - PPE, instituído pela Lei nº 13.459, d
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Fica reestruturado o Projeto Estadual de Incentivo à Concessão de Estágio e Primeira Experiência Profissional, instituído pela Lei nº 13.459, de 10 de dezembro de 2015, que passa a ser denominado Projeto Estadual de Incentivo à Primeira Experiência Profissional - Estágio, Aprendizagem e Ocupação Formal - Projeto Primeiro Emprego - PPE, destinado a estudantes e egressos dos cursos técnicos de nível médio da Rede Estadual de Educação Profissional e egressos do ensino médio e fundamental público estadual, qualificados por programas governamentais executados pelo Estado da Bahia e sem experiência formal de trabalho na habilitação cursada, que será regido pelos princípios, objetivos, diretrizes e instrumentos estabelecidos nesta Lei.
@@ -15,10 +16,12 @@ DAS DISPOSIÇÕES GERAIS
 
 **§ 3**º - Para fins de participação no PPE deve ser observada a proibição de trabalho noturno, perigoso ou insalubre a menores de 18 (dezoito) anos e de qualquer trabalho a menores de 16 (dezesseis) anos, salvo na condição de aprendiz, a partir de 14 (quatorze) anos, conforme disposto na Constituição Federal.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PROJETO ESTADUAL DE INCENTIVO À PRIMEIRA EXPERIÊNCIA PROFISSIONAL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Princípios
 
 **Art. 2º** - O PPE será conduzido pelos seguintes princípios:
@@ -37,7 +40,8 @@ Dos Princípios
 
 **VII -** direito à educação pública, gratuita, integral, de qualidade, integrada às políticas de geração de emprego e renda.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Diretrizes
 
 **Art. 3º** - As ações do PPE devem observar as seguintes diretrizes interrelacionadas:
@@ -56,7 +60,8 @@ Das Diretrizes
 
 **VII -** convocação e alocação dos beneficiários do PPE vinculadas ao seu desempenho durante todo o curso.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Dos Objetivos
 
 **Art. 4º** - O PPE tem como objetivos:
@@ -75,7 +80,8 @@ Dos Objetivos
 
 **VII -** utilizar o espaço público estadual como espaço educativo e de inovação, que  propicie a aquisição de experiência profissional na habilitação cursada.
 
-Seção IV<br>
+Seção IV
+
 Do Público Beneficiário
 
 **Art. 5º** - O público beneficiário do PPE é formado por:
@@ -90,10 +96,12 @@ Do Público Beneficiário
 
 **c)** do Ensino Médio e fundamental da Rede Pública Estadual, que tenham finalizado com aproveitamento cursos de qualificação ofertados por programas governamentais executados pelo Estado, deficientes ou que estejam submetidos a medida socioeducativa ou privação de liberdade.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA EXECUÇÃO DO PROJETO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Do Comitê Gestor
 
 **Art. 6º** - O PPE será gerido por um Comitê Gestor, instância de caráter  consultivo e propositivo, com a seguinte composição:
@@ -198,14 +206,16 @@ Do Comitê Gestor
 
 **XVI -** orientar e acompanhar as eleições anuais de representantes do PPE.
 
-Seção II<br>
+Seção II
+
 Do Banco de Dados
 
 **Art. 9º** - Observados os princípios da impessoalidade e da publicidade, a SETRE/ SINEBAHIA manterá banco de dados, por curso e Município ou Território, atualizado periodicamente.
 
 **Parágrafo único -** A atualização periódica dos dados dos beneficiários do PPE, a serem alimentados no sistema de gestão da SETRE/SINEBAHIA, será feita com base no banco de dados elaborado pela SEC, sendo as informações relativas ao rendimento escolar fornecidas exclusivamente por esta Secretaria e pelo órgão público responsável pela gestão e execução dos cursos de qualificação.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Participação e da Convocação dos Beneficiários do Projeto
 
 **Art. 10** - A participação dos beneficiários do PPE está condicionada exclusivamente à previsão dos _rankings_ de notas validados e atualizados periodicamente pela SEC.
@@ -226,7 +236,8 @@ Da Participação e da Convocação dos Beneficiários do Projeto
 
 **§ 7**º - O Comitê Gestor articulará com a Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS ações que contribuam para maior participação do estudante e egresso com deficiência no PPE.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS MODALIDADES DO PROJETO
 
 **Art. 12** - O PPE contemplará as seguintes modalidades:
@@ -243,7 +254,8 @@ DAS MODALIDADES DO PROJETO
 
 **Art. 13** - O quantitativo de egressos e aprendizes contratados para o PPE na Administração direta, autárquica e fundacional do Poder Executivo Estadual, observará o percentual máximo de 15% (quinze por cento) sobre o número de servidores públicos civis ativos  do Estado, cujas funções demandem formação profissional, observado o Regulamento específico.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Do Estágio
 
 **Art. 14** - O estágio nos cursos técnicos de nível médio, de acordo com legislação específica, é um ato educativo e complementar à formação teórico-prática.
@@ -278,7 +290,8 @@ Do Estágio
 
 **Parágrafo único -** Os dias de recesso, previstos neste artigo, serão concedidos de maneira proporcional, no caso do estágio ter duração inferior a 01 (um) ano.
 
-Seção II<br>
+Seção II
+
 Da Aprendizagem
 
 **Art. 25** - Aprendiz é o maior de 14 (quatorze) anos e menor de 24 (vinte e quatro) anos que celebra contrato de aprendizagem, nos termos do art. 428 do Decreto-Lei Federal nº 5.452, de 01 de maio de 1943, que aprovou a Consolidação das Leis do Trabalho - CLT.
@@ -319,7 +332,8 @@ Da Aprendizagem
 
 **Art. 31** - A contratante deverá observar as regras dispostas nos arts. 424 e seguintes do Decreto-Lei Federal nº 5.452, de 01 de maio de 1943, que aprovou a CLT referentes ao contrato de aprendizagem, além das disposições desta Lei e de seu Regulamento.
 
-Seção III<br>
+Seção III
+
 Da Ocupação Formal no Espaço Público
 
 **Art. 32** - A experiência profissional poderá ser desenvolvida no espaço público, entendido como espaços da administração direta e das entidades autárquicas e fundacionais que possuam adequação física e servidor experiente e capacitado, considerado como ponto focal, para acompanhar o desenvolvimento dos beneficiários do PPE por meio de atividades teóricas e práticas vinculadas à sua habilitação, a serem desenvolvidas no local de trabalho, com a devida formalização legal.
@@ -354,12 +368,14 @@ Da Ocupação Formal no Espaço Público
 
 **§ 9**º - Órgãos públicos de outros níveis da Federação, de outros poderes estaduais e seus consórcios poderão aderir ao projeto mediante instrumento específico a ser celebrado com o Estado, sem ônus para o Tesouro Estadual.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA PARTICIPAÇÃO DAS EMPRESAS
 
 **Art. 36** - Os estabelecimentos de qualquer natureza são obrigados a empregar número de aprendizes equivalente a 05% (cinco por cento), no mínimo, e 15% (quinze por cento), no máximo, dos trabalhadores existentes em cada estabelecimento, cujas funções demandem formação profissional, nos termos do art. 429 do Decreto-Lei Federal nº 5.452, de 01 de maio de 1943, que aprovou a CLT.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Empresas Públicas e Sociedades de Economia Mista
 
 **Art. 37** - Para os fins indicados no art. 36 desta Lei, às empresas públicas e sociedades de economia mista do Estado será assegurado o acesso gratuito ao banco de dados mantido pelo SINEBAHIA, cabendo-lhes:
@@ -370,7 +386,8 @@ Das Empresas Públicas e Sociedades de Economia Mista
 
 **III -** assegurar o cumprimento das cotas estabelecidas nos §§ 1º e 2º do art. 30 desta Lei.
 
-Seção II<br>
+Seção II
+
 Das Empresas Privadas
 
 **Art. 38** - O Poder Público estimulará as empresas privadas beneficiárias de incentivo do Estado e as demais empresas privadas e entidades do Terceiro Setor a utilizarem, de   forma gratuita, o banco de dados mantido pelo SINEBAHIA, para fins de cumprimento do disposto no art. 429 do Decreto-Lei Federal nº 5.452, de 01 de maio de 1943, que aprovou a CLT.
@@ -379,7 +396,8 @@ Das Empresas Privadas
 
 **§ 2**º - Os instrumentos jurídicos a serem firmados ou renovados pelos empreendimentos privados beneficiários ou solicitantes de incentivo do Estado deverão conter explicitamente a contratação na modalidade da ocupação formal no percentual mínimo de 10% (dez por cento) da mão de obra adicional prevista nos documentos legais que viabilizaram o referido incentivo.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 39** - Os beneficiários do PPE, dentre aqueles com contrato ativo, deverão eleger seus representantes para interlocução com o Comitê Gestor, na forma estabelecida em regulamento.

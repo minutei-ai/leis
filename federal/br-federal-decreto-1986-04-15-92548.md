@@ -1,5 +1,3 @@
-###DEC-092548-0-000-15-04-1986@@@
-
 DECRETO Nº 92.548, DE 15 DE ABRIL DE 1986
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Internacional S.A. - BRASPETRO.

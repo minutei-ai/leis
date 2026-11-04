@@ -1,5 +1,3 @@
-###DEC-047867-0-000-07-03-1960@@@
-
 DECRETO Nº 47.867, de 7 de março de 1960.
 
 Autoriza a Sociedade Termoelétrica de Capivari a constituir hipoteca a favor do Banco Nacional do Desenvolvimento Econômico.

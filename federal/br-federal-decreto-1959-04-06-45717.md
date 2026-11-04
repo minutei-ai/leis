@@ -1,5 +1,3 @@
-###DEC-045717-0-000-06-04-1959@@@
-
 DECRETO Nº 45.717, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Manoel Gonçalves Soares a pesquisar quartzo e pedras coradas no município de Teófilo Otôni, Estado de Minas Gerais.

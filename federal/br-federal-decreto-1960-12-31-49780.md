@@ -1,5 +1,3 @@
-###DEC-049780-0-000-31-12-1960@@@
-
 DECRETO Nº 49.780, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Wilson Gabriel Giannetti a pesquisar minério de manganês no município de Iporanga, Estado de São Paulo.

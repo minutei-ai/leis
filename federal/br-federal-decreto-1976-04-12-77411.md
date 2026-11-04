@@ -1,5 +1,3 @@
-###DEC-077411-0-000-12-04-1976@@@
-
 Decreto nº 77.411 - de 12 de abril de 1976
 
 Altera o Regulamento e Regras para Determinação de Borda Livre Nacional, aprovado pelo Decreto número 68.984 de 26 de julho de 1971.

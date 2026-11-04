@@ -1,5 +1,3 @@
-###DEC-002230-0-000-21-05-1997@@@
-
 DECRETO Nº 2.230, DE 21 DE MAIO DE 1997
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República do Chile, de 17 de fevereiro de 1997.

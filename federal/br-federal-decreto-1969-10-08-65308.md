@@ -1,5 +1,3 @@
-###DEC-065308-0-000-08-10-1969@@@
-
 DECRETO Nº 65.308 - DE 8 DE OUTUBRO de 1969.
 
 Outorga concessão à Rádio Difusora de Poços de Caldas Ltda., para estabelecer uma estação de radiodifusão sonora, na cidade de Poços de Caldas, Estado de Minas Gerais.

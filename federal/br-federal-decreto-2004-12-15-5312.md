@@ -1,5 +1,3 @@
-###DEC-005312-0-000-15-12-2004@@@
-
 DECRETO Nº 5.312 DE 15 DE DEZEMBRO DE 2004
 
 Dá nova redação ao art. 7º do Decreto nº 4.703, de 21 de maio de 2003, que dispõe sobre o Programa Nacional da Diversidade Biológica - PRONABIO e a Comissão Nacional de Biodiversidade.

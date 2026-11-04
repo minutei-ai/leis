@@ -1,5 +1,3 @@
-###DEC-070620-0-000-25-05-1972@@@
-
 DECRETO Nº 70.620, DE 25 DE MAIO DE 1972.
 
 Retifica o artigo 1º do Decreto número 59.250, de 19 de setembro de 1966.

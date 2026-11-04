@@ -18,10 +18,12 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 15 de junho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-ANEXO ÚNICO<br>
+ANEXO ÚNICO
+
 TABELA DE COORDENADAS
 
 | POLIGONAL DO PARQUE ESTADUAL DA SERRA DE CALDAS NOVAS |

@@ -1,5 +1,3 @@
-###DEC-046493-0-000-30-07-1959@@@
-
 DECRETO Nº 46.493, DE 30 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro José Américo a pesquisar fluorita no município de Orleães, Estado de Santa Catarina.

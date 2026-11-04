@@ -1,5 +1,3 @@
-###DEC-090496-0-000-12-11-1984@@@
-
 DECRETO Nº 90.496, DE 12 DE NOVEMBRO DE 1984
 
 Extingue a Pagadoria Central do Pessoal no Ministério do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005162-0-000-29-07-2004@@@
-
 DECRETO Nº 5.162, DE 29 DE JULHO DE 2004
 
 Fixa coeficiente para redução das alíquotas específicas do PIS/PASEP e da COFINS de que tratam os arts. 51 e 52 da Lei nº 10.833, de 29 de dezembro 2003, nos casos em que especifica.

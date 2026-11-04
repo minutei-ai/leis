@@ -1,5 +1,3 @@
-###DEL-001265-0-000-14-03-1973@@@
-
 DECRETO-LEI N 1.265 – DE 14 DE MARÇO DE 1973
 
 Autoriza o Tesouro Nacional a promover  o aumento do capital da Companhia Siderúrgica Nacional e dá outras providências.

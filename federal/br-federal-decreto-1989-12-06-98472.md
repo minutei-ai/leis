@@ -1,7 +1,3 @@
-1
-
-###DEC-098472-0-000-06-12-1989@@@
-
 DECRETO N° 98.472, DE 06 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Odontologia de Cuiabá.

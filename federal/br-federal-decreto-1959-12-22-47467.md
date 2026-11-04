@@ -1,5 +1,3 @@
-###DEC-047467-0-000-22-12-1959@@@
-
 DECRETO Nº 47.467. DE 22 DE DEZEMBRO DE 1959.
 
 Inclui função na Parte Permanente da Tabela do Pessoal da Administração do Pôrto do Rio de Janeiro (A.P.R.J.).

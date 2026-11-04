@@ -1,5 +1,3 @@
-###DEC-082019-0-000-20-07-1978@@@
-
 Decreto nº 82.019, de 20 de julho de 1978.
 
 Retifica a concessão de lavra outorga da à S.A. Mineração da Trindade pelo Decreto nº 64.084, de 11 de fevereiro de 1969.

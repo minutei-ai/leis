@@ -1,5 +1,3 @@
-###DEC-047416-0-000-11-12-1959@@@
-
 DECRETO Nº 47.416, DE 11 DE Dezembro DE 1959.
 
 Cria o Colégio Militar do Recife.

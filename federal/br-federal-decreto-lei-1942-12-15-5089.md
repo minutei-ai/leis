@@ -1,5 +1,3 @@
-###DEL-005089-0-000-15-12-1942@@@
-
 DECRETO-LEI N. 5.089 – DE 15 DE DEZEMBRO DE 1942
 
 Dispõe sobre a aplicação do decreto-lei n. 241, de 4 de fevereiro de 1938, e dá outras providências

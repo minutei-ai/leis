@@ -1,5 +1,3 @@
-###DEC-076941-0-000-30-12-1975@@@
-
 DECRETO Nº 76.941, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento aos cursos de licenciatura em Química, Física, Matemática, Ciências Sociais e Ciências Biológicas, da Universidade Estadual de Campinas, Estado de São Paulo.

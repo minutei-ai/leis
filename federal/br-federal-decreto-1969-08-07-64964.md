@@ -1,5 +1,3 @@
-###DEC-064964-0-000-07-08-1969@@@
-
 DECRETO Nº 64.964 - DE 7 DE AGÔSTO DE 1969.
 
 Concede à Emprêsa de Caolim Limitada o direito de lavrar caulim, no Município de Mar de Espanha Estado de  Minas Gerais.

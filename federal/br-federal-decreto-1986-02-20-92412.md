@@ -1,5 +1,3 @@
-###DEC-092412-0-000-20-02-1986@@@
-
 DECRETO Nº 92.412, DE 20 DE FEVEREIRO DE 1986
 
 Outorga concessão a ALAGAMAR RÁDIO SOCIEDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Macau, Estado do Rio Grande do Norte.

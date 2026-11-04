@@ -1,5 +1,3 @@
-###DEC-059165-0-000-01-09-1966@@@
-
 Decreto nº 59.165, de 1º de Setembro de 1966.
 
 Transfere, para o sistema de ensino do Estado do Ceará, as escolas estaduais e municipais de grau médio.

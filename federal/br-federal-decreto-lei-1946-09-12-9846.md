@@ -1,5 +1,3 @@
-###DEL-009846-0-000-12-09-1946@@@
-
 DECRETO-LEI N. 9.846 – DE 12 DE SETEMBRO DE 1946
 
 Cria o Fundo de Assistência Hospitalar, e dá outras providências

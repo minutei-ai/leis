@@ -1,5 +1,3 @@
-###DEL-004747-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.747 – DE 25 DE SETEMBRO DE 1942
 
 Dispõe Sobre o ingresso no Quadro de Radiotelegrafistas do Exército

@@ -1,5 +1,3 @@
-###DEC-070021-0-000-21-01-1972@@@
-
 DECRETO Nº 70.021, DE 21 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Casa da Criança Pão de Santo Antônio com sede em Brasília, Distrito Federal.

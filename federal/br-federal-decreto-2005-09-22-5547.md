@@ -1,5 +1,3 @@
-###DEC-005547-0-000-22-09-2005@@@
-
 DECRETO Nº 5.547, DE 22 DE SETEMBRO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Tcheca sobre Isenção Parcial de Vistos, celebrado em Praga, em 29 de abril de 2004.

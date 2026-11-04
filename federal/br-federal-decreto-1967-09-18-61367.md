@@ -1,5 +1,3 @@
-###DEC-061367-0-000-18-09-1967@@@
-
 Decreto nº 61.367, de 18 de Setembro de 1967.
 
 Outorga à Emprêsa Luz e Fôrça Santa Maria S. A. autorização para o estudo dos recursos hidráulicos de trecho do rio São José, município de Gabriel da Palha, Estado do Espírito Santo.

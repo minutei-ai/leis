@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50959)
-
 # LEI Nº 11.705, DE 21 DE MAIO DE 2004
 
 ## (PL 1057/2003 - João Caramez)

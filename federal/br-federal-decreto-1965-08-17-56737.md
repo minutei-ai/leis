@@ -1,5 +1,3 @@
-###DEC-056737-0-000-17-08-1965@@@
-
 DECRETO Nº 56.737, DE 17 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio Depetris a pesquisar calcário, no município de Apiaí, Estado de São Paulo.

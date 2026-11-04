@@ -1,7 +1,3 @@
-1
-
-###DEL-001203-0-000-18-01-1972@@@
-
 # DECRETO-LEI Nº 1.203, De 18 DE JAneiro de 1972
 
 Dispõe sôbre a entrega das parcelas pertencentes aos Municípios no produto da arrecadação do imposto sôbre circulação de mercadorias

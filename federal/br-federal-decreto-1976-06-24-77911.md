@@ -1,5 +1,3 @@
-###DEC-077911-0-000-24-06-1976@@@
-
 DECRETO Nº 77.911, DE 24 DE JUNHO DE 1976.
 
 Altera a redação do artigo 3º do Regulamento aprovado pelo Decreto nº 76.022, de 24 de julho de 1975.

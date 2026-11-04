@@ -1,5 +1,3 @@
-###DEC-076529-0-000-03-11-1975@@@
-
 DECRETO Nº 76.529, DE 3 DE NOVEMBRO DE 1975.
 
 Concede à Mineração Rio do Norte S.A., o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-074644-0-000-03-10-1974@@@
-
 DECRETO nº 74.644, DE 3 DE OUTUBRO DE 1974.
 
 Concede à Mineração Corumbaense Reunida S.A. o direito de lavrar minério de ferro, nos Municípios de Ladário e Corumbá, Estado de Mato Grosso.

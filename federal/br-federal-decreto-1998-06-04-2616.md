@@ -1,5 +1,3 @@
-###DEC-002616-0-000-04-06-1998@@@
-
 DECRETO 2.616, DE 4 DE JUNHO DE 1998
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

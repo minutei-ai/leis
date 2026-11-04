@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:33:35.000Z"
 sha256_fonte: "20c54a14c11bf66dc9cd1b4ea7f69c8d396178dd1c3ac47d065e799abd24b1b9"
 sha256_markdown: "9d6b2a1995ae0157041d6e22d47a6410c352378c7a85069f0758ff2fd41066b3"
 ---
-
 # LEI Nº 642, DE 17 DE JUNHO DE 1986.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,16 +20,18 @@ Declara de Utilidade Pública o Programa Douradense de Ação Comunitária, com 
 
 Publicada no Diário Oficial nº 1.839, de 18 de junho de 1986.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública Estadual o Programa Douradense de Ação Comunitária "PRODAC", com sede na cidadede Dourados.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 17 de junho de 1986.<br>
-<br>
-RAMEZ TEBET<br>
-Governador<br>
-<br>
-FRANCISCO LEAL DE QUEIROZ<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública Estadual o Programa Douradense de Ação Comunitária "PRODAC", com sede na cidadede Dourados.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Campo Grande, 17 de junho de 1986.
+
+RAMEZ TEBET
+
+Governador
+
+FRANCISCO LEAL DE QUEIROZ
+
 Secretário de Estado de Justiça

@@ -1,5 +1,3 @@
-###DEC-050870-0-000-27-06-1961@@@
-
 decreto nº 50.870, de 27 de junho de 1961.
 
 Dá nova redação a dispositivos ao Decreto nº 50.293, de 23 de fevereiro de 1961, que criou o Conselho Nacional de Cultura.

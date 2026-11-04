@@ -1,5 +1,3 @@
-###DEL-009091-0-000-26-03-1946@@@
-
 DECRETO-LEI N. 9.091 – DE 26 DE MARÇO DE 1946
 
 Autoriza o Ministério da Educação e Saúde a delegar competência ao Estado de São Paulo para execução, em seu território, das leis referentes ao ensino secundário, na parte relativa à educação física.

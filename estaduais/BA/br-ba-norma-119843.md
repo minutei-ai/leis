@@ -8,8 +8,10 @@ Art. 1º - Fica o Poder Executivo autorizado a assumir, em nome do Estado da Bah
 
 Art. 2º - O Estado assumirá, perante a União, as dívidas de que trata esta Lei, oferecendo em garantia os créditos referidos no art. 159, incisos I, alínea "a", e II, da Constituição Federal.
 
-Redação do art. 2º de acordo com o [art. 1º da Lei nº 8.641, de 21 de julho de 2003](https://www.legislabahia.ba.gov.br/documentos/lei-no-8641-de-21-de-julho-de-2003#LO_8_641_Art__1) .<br>
-Redação anterior de acordo com o [art. 2º da Lei nº 7.246, de 12 de dezembro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7246-de-12-de-dezembro-de-1997#LO_7_246_Art__2) : "Art. 2º - O Estado assumirá, perante a União, as dívidas de que trata esta Lei, nos termos e condições em que foram repactuadas, oferecendo em garantias e contragarantias os créditos, de parcelas necessárias e suficientes, das cotas de repartição constitucional das receitas tributárias estabelecidas nos arts. 157 e 159, completadas por recursos próprios, nos termos do art. 167, inciso IV, todos da Constituição Federal, ou outras garantias em direito admitidas."<br>
+Redação do art. 2º de acordo com o [art. 1º da Lei nº 8.641, de 21 de julho de 2003](https://www.legislabahia.ba.gov.br/documentos/lei-no-8641-de-21-de-julho-de-2003#LO_8_641_Art__1) .
+
+Redação anterior de acordo com o [art. 2º da Lei nº 7.246, de 12 de dezembro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7246-de-12-de-dezembro-de-1997#LO_7_246_Art__2) : "Art. 2º - O Estado assumirá, perante a União, as dívidas de que trata esta Lei, nos termos e condições em que foram repactuadas, oferecendo em garantias e contragarantias os créditos, de parcelas necessárias e suficientes, das cotas de repartição constitucional das receitas tributárias estabelecidas nos arts. 157 e 159, completadas por recursos próprios, nos termos do art. 167, inciso IV, todos da Constituição Federal, ou outras garantias em direito admitidas."
+
 Redação original: "Art. 2º - O Estado assumirá, perante a União, as dívidas de que trata esta Lei, nos termos e condições em que foram repactuadas, oferecendo em garantia os créditos referidos no art. 159, incisos I, alínea "a", e II, da Constituição Federal."
 
 Art. 3º - Esta Lei entrará em vigor na data de sua publicação.

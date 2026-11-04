@@ -1,5 +1,3 @@
-###DEC-048335-0-000-21-06-1960@@@
-
 DECRETO Nº 48.335, DE 21 DE JUNHO DE 1960.
 
 Retifica o art. 1º do Decreto-lei nº 46.735, de 26 de agôsto de 1959.

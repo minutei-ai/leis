@@ -1,5 +1,3 @@
-###DEC-085269-0-000-20-10-1980@@@
-
 decreto nº 85.269, de 20 de outubro de 1980
 
 Altera a subordinação de Organização Militar no Ministério do Exército.

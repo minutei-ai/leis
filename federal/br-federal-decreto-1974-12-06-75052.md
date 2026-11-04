@@ -1,5 +1,3 @@
-###DEC-075052-0-000-06-12-1974@@@
-
 DECRETO Nº 75.052, DE 6 DE DEZEMBRO de 1974.
 
 Concede reconhecimento ao curso de Direito da Faculdade de Direito de Bagé, mantida pela Fundação Attila Taborda, com Sede na cidade de Bagé, Estado do Rio Grande do Sul.

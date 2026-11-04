@@ -1,5 +1,3 @@
-###DEC-069215-0-000-17-09-1971@@@
-
 DECRETO Nº 69.215, DE 17 DE SETEMBRO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro, e dá outras providências.

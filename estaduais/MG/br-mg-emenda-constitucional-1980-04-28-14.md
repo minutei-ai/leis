@@ -29,7 +29,3 @@ O 2º Secretário - Neif Jabur
 O 3º Secretário - Nelson Carvalho
 
 O 4º Secretário - Fábio Vasconcellos
-
-\-------------------------------------------------------------------------
-
-Data da última atualização: 17/2/2006.

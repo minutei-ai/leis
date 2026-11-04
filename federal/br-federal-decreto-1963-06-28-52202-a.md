@@ -1,5 +1,3 @@
-###DEC-052202-A-000-28-06-1963@@@
-
 DECRETO Nº 52.202-A, de 28 de junho de 1963.
 
 Declara de utilidade pública a Venerável Ordem Terceira dos Mínimos de São Francisco de Paula, com sede nos Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-002812-0-000-22-10-1998@@@
-
 DECRETO Nº 2.812, DE 22 DE OUTUBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.353, de 20 de outubro de 1997.

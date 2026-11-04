@@ -1,5 +1,3 @@
-###DEC-047188-0-000-06-11-1959@@@
-
 DECRETO Nº 47.188, DE 6 DE novembro DE 1959.
 
 Autoriza o cidadão brasileiro Pedro de Araújo Lima a pesquisar mármore no município de Cantagalo, Estado do Rio de Janeiro.

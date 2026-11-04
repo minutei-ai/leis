@@ -50,887 +50,1012 @@ ANEXO I
 
 RELAÇÃO DAS ESTRADAS A SEREM CONSTRUÍDAS PARA LIGAÇÃO DAS SEDES MUNICIPAIS REFERIDAS NO ARTIGO 1º DO PROJETO
 
-<table border="1" cellspacing="0" cellpadding="0" width="527" style="width:395.2pt;
- margin-left:49.65pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Alcobaça à BR-5<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>50 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Andaraí - Mucugê<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Angical à BR-28<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barra à BA-3<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barreiras - Ibipetuba<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>140 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Belmonte à BR-5<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>79 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>7-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Brotas de Macaúbas a Oliveira de Brejinhos<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cruza a BR-28<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Caculé - BA-12 (Brumado-Caetité)<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>36 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Passando por Ibiassucê<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Condeúba - BA-26<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cairú - Valença<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>11-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Camamú - BA-78<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Caravelas - Ba-13<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cotegipe - Br-28<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>34 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>14-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Chorrochó - BR-13<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Carinhanha - Palmas de Monte Alto<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>70 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>16-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Curaçá - Poço de Fóra<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>17-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Encruzilhada - Itambé<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>51 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>18-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Gentio do Ouro - Ba-3<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>19-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibipetuba - Barra<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>140 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Via Mansidão e Buritirama.<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibitiara - Br-28<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>21-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Itacaré - Poirí<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>22-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barra da Estiva - Ituassú<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ituassú - Tanhuassú (Ba-1)<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Jaguaripe - BA-125<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Jandaíra - Br-11<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>26-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Jiquiriçá - Mutuipe<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>27-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>`Mucurí - Br-5<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>28-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Macaúbas - Livramento do Brumado<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>120 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>29-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nazaré - São Felipe<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Paratinga - Macaúbas (BA-2)<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>68 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>31-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Piatã - Mucugê<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>66 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Piatã - Abaíra - João Correia<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>32-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Pilão Arcado - Remanso<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>33-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Potiraguá - Itapetinga<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>35 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Pelo vale da Palmeira<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>34-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Prado à BA-13<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>35-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Rio Real - BR-11<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>36-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Santana - Santa Maria<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>72 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>37-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Santa Cruz Cabrália - BA-87<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>38-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Tremedal - BA-28<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>50 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Passando p/ Caraíbas.<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>39-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Urandi - Caculé<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>60 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Passando p/ Tauape<quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40-<quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Utinga - Ruy Barbosa<quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24 Km.<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="38" valign="top" style="width:1.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="255" valign="top" style="width:191.35pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="66" valign="top" style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.837 Km<quebra></quebra></span></p></td><td width="168" valign="top" style="width:125.9pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+1-<quebra></quebra>
+
+Alcobaça à BR-5<quebra></quebra>
+
+50 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+2-<quebra></quebra>
+
+Andaraí - Mucugê<quebra></quebra>
+
+23 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+3-<quebra></quebra>
+
+Angical à BR-28<quebra></quebra>
+
+30 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+4-<quebra></quebra>
+
+Barra à BA-3<quebra></quebra>
+
+60 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+5-<quebra></quebra>
+
+Barreiras - Ibipetuba<quebra></quebra>
+
+140 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+6-<quebra></quebra>
+
+Belmonte à BR-5<quebra></quebra>
+
+79 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+7-<quebra></quebra>
+
+Brotas de Macaúbas a Oliveira de Brejinhos<quebra></quebra>
+
+60 Km.<quebra></quebra>
+
+Cruza a BR-28<quebra></quebra>
+
+8-<quebra></quebra>
+
+Caculé - BA-12 (Brumado-Caetité)<quebra></quebra>
+
+36 Km.<quebra></quebra>
+
+Passando por Ibiassucê<quebra></quebra>
+
+9-<quebra></quebra>
+
+Condeúba - BA-26<quebra></quebra>
+
+60 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+10-<quebra></quebra>
+
+Cairú - Valença<quebra></quebra>
+
+15 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+11-<quebra></quebra>
+
+Camamú - BA-78<quebra></quebra>
+
+23 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+12-<quebra></quebra>
+
+Caravelas - Ba-13<quebra></quebra>
+
+25 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+13-<quebra></quebra>
+
+Cotegipe - Br-28<quebra></quebra>
+
+34 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+14-<quebra></quebra>
+
+Chorrochó - BR-13<quebra></quebra>
+
+12 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+15-<quebra></quebra>
+
+Carinhanha - Palmas de Monte Alto<quebra></quebra>
+
+70 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+16-<quebra></quebra>
+
+Curaçá - Poço de Fóra<quebra></quebra>
+
+60 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+17-<quebra></quebra>
+
+Encruzilhada - Itambé<quebra></quebra>
+
+51 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+18-<quebra></quebra>
+
+Gentio do Ouro - Ba-3<quebra></quebra>
+
+40 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+19-<quebra></quebra>
+
+Ibipetuba - Barra<quebra></quebra>
+
+140 Km.<quebra></quebra>
+
+Via Mansidão e Buritirama.<quebra></quebra>
+
+20-<quebra></quebra>
+
+Ibitiara - Br-28<quebra></quebra>
+
+30 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+21-<quebra></quebra>
+
+Itacaré - Poirí<quebra></quebra>
+
+30 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+22-<quebra></quebra>
+
+Barra da Estiva - Ituassú<quebra></quebra>
+
+23 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+23-<quebra></quebra>
+
+Ituassú - Tanhuassú (Ba-1)<quebra></quebra>
+
+30 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+24-<quebra></quebra>
+
+Jaguaripe - BA-125<quebra></quebra>
+
+12 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+25-<quebra></quebra>
+
+Jandaíra - Br-11<quebra></quebra>
+
+10 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+26-<quebra></quebra>
+
+Jiquiriçá - Mutuipe<quebra></quebra>
+
+10 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+27-<quebra></quebra>
+
+`Mucurí - Br-5<quebra></quebra>
+
+40 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+28-<quebra></quebra>
+
+Macaúbas - Livramento do Brumado<quebra></quebra>
+
+120 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+29-<quebra></quebra>
+
+Nazaré - São Felipe<quebra></quebra>
+
+23 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+30-<quebra></quebra>
+
+Paratinga - Macaúbas (BA-2)<quebra></quebra>
+
+68 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+31-<quebra></quebra>
+
+Piatã - Mucugê<quebra></quebra>
+
+66 Km.<quebra></quebra>
+
+Piatã - Abaíra - João Correia<quebra></quebra>
+
+32-<quebra></quebra>
+
+Pilão Arcado - Remanso<quebra></quebra>
+
+60 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+33-<quebra></quebra>
+
+Potiraguá - Itapetinga<quebra></quebra>
+
+35 Km.<quebra></quebra>
+
+Pelo vale da Palmeira<quebra></quebra>
+
+34-<quebra></quebra>
+
+Prado à BA-13<quebra></quebra>
+
+30 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+35-<quebra></quebra>
+
+Rio Real - BR-11<quebra></quebra>
+
+24 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+36-<quebra></quebra>
+
+Santana - Santa Maria<quebra></quebra>
+
+72 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+37-<quebra></quebra>
+
+Santa Cruz Cabrália - BA-87<quebra></quebra>
+
+12 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+38-<quebra></quebra>
+
+Tremedal - BA-28<quebra></quebra>
+
+50 Km.<quebra></quebra>
+
+Passando p/ Caraíbas.<quebra></quebra>
+
+39-<quebra></quebra>
+
+Urandi - Caculé<quebra></quebra>
+
+60 Km.<quebra></quebra>
+
+Passando p/ Tauape<quebra></quebra>
+
+40-<quebra></quebra>
+
+Utinga - Ruy Barbosa<quebra></quebra>
+
+24 Km.<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+1.837 Km<quebra></quebra>
+
+<quebra></quebra>
 
 ANEXO II
 
 ESQUEMA DE EXECUÇÃO E PREVISÃO DE CUSTOS:
 
-<table border="1" cellspacing="0" cellpadding="0" width="454" style="width:12.0cm;
- margin-left:63.8pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Estradas<quebra></quebra></span></p><p class="Tabela-Texto"><span>(1º ano)<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Kms.<quebra></quebra></span></p><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Custo provável p/ Km.<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Custo provável - TOTAL<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Alcobaça à BR-5<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barra à BA-3<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barreira - Ibipetuba<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Belmonte à BR-5<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Caculé - BA-12<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Camamú - BA-78<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Caravelas - BA-13<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Chorrochó - BR-13<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.200.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Encruzilhada - Itambé<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibipetuba - Barra<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Itacaré - Poirí<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Jaguaripe - BA-125<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.400.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Jandaíra - BR-11<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Jiquiriça - Mutuipe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Macaúbas - Livr. de Brumado<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Nazaré - São Felipe<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Pilão Arcado - Remanso<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Potiraguá - Itapetinga<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>35<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Prado à BA-13<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Santa Cruz Cabrália - BA 87<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>12<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.400.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Urandi - Caculé<quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="161" valign="top" style="width:120.5pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="94" valign="top" style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>457 Kms<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="104" valign="top" style="width:77.95pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>76.200.000,00<quebra></quebra></span></p></td></tr></tbody></table>
+Estradas<quebra></quebra>
 
-<table border="1" cellspacing="0" cellpadding="0" width="520" style="width:389.85pt;
- margin-left:1.0cm;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Estradas (2º ano)<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Kms.<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cr$<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Alcobaça à BR-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Andaraí - Mucugê<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barra à Ba-3<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barreiras - Ibipetuba<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Belmonte à BR-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Caculé - Ba-12<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>16<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.400.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Condeúba - Ba-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Encruzilhada - Itambé<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>26<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibipetuba - Barra<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Itacaré - Poirí<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ituassú - Tanhuassú (Ba-1)<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Mucurí - BR-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Macaúbas - Livr. do Brumado<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Piatã - Mucugê<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Pilão Arcado - Remanso<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Prado à BA-13<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Rio Real - BR-11<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.400.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Santana - Santa Maria<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Tremedal - BA-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Urandi - Caculé<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>468 Kms<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>72.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Alcobaça à BR-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Angical - BR-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barra à BA-3<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barreiras - Ibipetuba<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Belmonte - BR-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Brotas de Macaúbas a Oliveira de Brejinhos<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.300.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Condeúba à Ba-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Carinhanha - Palmas de Monte Alto<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Curaçá - Poço de Fóra<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Gentil do Ouro - BA-3<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibipetuba - Barra<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barra da Estiva - Ituassú<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>23<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Mucurí - Br-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Macaúbas - Livr. de Brumado<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Paratinga - Macaúbas (BA-2)<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Piatã - Mucugê<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Santana - Santa Maria<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Tremedal - BA-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>25<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Utinga - Ruy Barbosa<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2.400.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>496 Kms.<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>69.100.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Barreiras - Ibipetuba<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Belmonte à BR-5<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>19<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.700.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Brotas de Macúbas a Oliveira de Brejinhos<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cairú - Valença<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>15<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cotegipe - BR-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>34<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.400.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Carinhanha - Palmas de M. Alto<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Curaçá - Poço de Fóra<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Gentil do Ouro - BA-3<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibipetuba - Barra<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>40<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>100.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Ibitiara - BR-28<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6.000.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Macaúbas - Livr. de Brumado<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>30<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Paratinga - Macaúbas (BA-2)<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>38<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.700.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Piatã - Mucugê<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>26<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5.200.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Santana - Santa Maria<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>24<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>150.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>416 Kms<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>59.600.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TOTAL<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1.837 Kms<quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>277.500.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Despesa com estudos, locação, etc...<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>8.266.500,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Eventuais de construções (15%)<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>41.625.000,00<quebra></quebra></span></p></td></tr><tr><td width="227" valign="top" style="width:6.0cm;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>TOTAL GERAL<quebra></quebra></span></p></td><td width="85" valign="top" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>327.391.500,00<quebra></quebra></span></p></td></tr></tbody></table>
+(1º ano)<quebra></quebra>
 
-* * *
+Kms.<quebra></quebra>
+
+<quebra></quebra>
+
+Custo provável p/ Km.<quebra></quebra>
+
+Custo provável - TOTAL<quebra></quebra>
+
+Alcobaça à BR-5<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Barra à BA-3<quebra></quebra>
+
+20<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Barreira - Ibipetuba<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Belmonte à BR-5<quebra></quebra>
+
+20<quebra></quebra>
+
+300.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+Caculé - BA-12<quebra></quebra>
+
+20<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Camamú - BA-78<quebra></quebra>
+
+23<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.600.000,00<quebra></quebra>
+
+Caravelas - BA-13<quebra></quebra>
+
+25<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+5.000.000,00<quebra></quebra>
+
+Chorrochó - BR-13<quebra></quebra>
+
+12<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+1.200.000,00<quebra></quebra>
+
+Encruzilhada - Itambé<quebra></quebra>
+
+25<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+2.500.000,00<quebra></quebra>
+
+Ibipetuba - Barra<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Itacaré - Poirí<quebra></quebra>
+
+20<quebra></quebra>
+
+300.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+Jaguaripe - BA-125<quebra></quebra>
+
+12<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+2.400.000,00<quebra></quebra>
+
+Jandaíra - BR-11<quebra></quebra>
+
+10<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+1.000.000,00<quebra></quebra>
+
+Jiquiriça - Mutuipe<quebra></quebra>
+
+10<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+2.000.000,00<quebra></quebra>
+
+Macaúbas - Livr. de Brumado<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Nazaré - São Felipe<quebra></quebra>
+
+23<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.600.000,00<quebra></quebra>
+
+Pilão Arcado - Remanso<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Potiraguá - Itapetinga<quebra></quebra>
+
+35<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.500.000,00<quebra></quebra>
+
+Prado à BA-13<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Santa Cruz Cabrália - BA 87<quebra></quebra>
+
+12<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+2.400.000,00<quebra></quebra>
+
+Urandi - Caculé<quebra></quebra>
+
+30<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+457 Kms<quebra></quebra>
+
+<quebra></quebra>
+
+76.200.000,00<quebra></quebra>
+
+Estradas (2º ano)<quebra></quebra>
+
+Kms.<quebra></quebra>
+
+Cr$<quebra></quebra>
+
+Cr$<quebra></quebra>
+
+Alcobaça à BR-5<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Andaraí - Mucugê<quebra></quebra>
+
+23<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.600.000,00<quebra></quebra>
+
+Barra à Ba-3<quebra></quebra>
+
+20<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Barreiras - Ibipetuba<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Belmonte à BR-5<quebra></quebra>
+
+20<quebra></quebra>
+
+300.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+Caculé - Ba-12<quebra></quebra>
+
+16<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+2.400.000,00<quebra></quebra>
+
+Condeúba - Ba-28<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Encruzilhada - Itambé<quebra></quebra>
+
+26<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+2.600.000,00<quebra></quebra>
+
+Ibipetuba - Barra<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Itacaré - Poirí<quebra></quebra>
+
+10<quebra></quebra>
+
+300.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Ituassú - Tanhuassú (Ba-1)<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Mucurí - BR-5<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Macaúbas - Livr. do Brumado<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Piatã - Mucugê<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Pilão Arcado - Remanso<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Prado à BA-13<quebra></quebra>
+
+10<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+2.000.000,00<quebra></quebra>
+
+Rio Real - BR-11<quebra></quebra>
+
+24<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+2.400.000,00<quebra></quebra>
+
+Santana - Santa Maria<quebra></quebra>
+
+24<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.600.000,00<quebra></quebra>
+
+Tremedal - BA-28<quebra></quebra>
+
+25<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+2.500.000,00<quebra></quebra>
+
+Urandi - Caculé<quebra></quebra>
+
+30<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+468 Kms<quebra></quebra>
+
+<quebra></quebra>
+
+72.600.000,00<quebra></quebra>
+
+Alcobaça à BR-5<quebra></quebra>
+
+10<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+2.000.000,00<quebra></quebra>
+
+Angical - BR-28<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Barra à BA-3<quebra></quebra>
+
+20<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Barreiras - Ibipetuba<quebra></quebra>
+
+40<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Belmonte - BR-5<quebra></quebra>
+
+20<quebra></quebra>
+
+300.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+Brotas de Macaúbas a Oliveira de Brejinhos<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.300.000,00<quebra></quebra>
+
+Condeúba à Ba-28<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Carinhanha - Palmas de Monte Alto<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Curaçá - Poço de Fóra<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Gentil do Ouro - BA-3<quebra></quebra>
+
+20<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Ibipetuba - Barra<quebra></quebra>
+
+40<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Barra da Estiva - Ituassú<quebra></quebra>
+
+23<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.600.000,00<quebra></quebra>
+
+Mucurí - Br-5<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Macaúbas - Livr. de Brumado<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Paratinga - Macaúbas (BA-2)<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Piatã - Mucugê<quebra></quebra>
+
+20<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Santana - Santa Maria<quebra></quebra>
+
+24<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.600.000,00<quebra></quebra>
+
+Tremedal - BA-28<quebra></quebra>
+
+25<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+2.500.000,00<quebra></quebra>
+
+Utinga - Ruy Barbosa<quebra></quebra>
+
+24<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+2.400.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+496 Kms.<quebra></quebra>
+
+<quebra></quebra>
+
+69.100.000,00<quebra></quebra>
+
+Barreiras - Ibipetuba<quebra></quebra>
+
+40<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Belmonte à BR-5<quebra></quebra>
+
+19<quebra></quebra>
+
+300.000,00<quebra></quebra>
+
+5.700.000,00<quebra></quebra>
+
+Brotas de Macúbas a Oliveira de Brejinhos<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Cairú - Valença<quebra></quebra>
+
+15<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Cotegipe - BR-28<quebra></quebra>
+
+34<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.400.000,00<quebra></quebra>
+
+Carinhanha - Palmas de M. Alto<quebra></quebra>
+
+40<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Curaçá - Poço de Fóra<quebra></quebra>
+
+30<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Gentil do Ouro - BA-3<quebra></quebra>
+
+20<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.000.000,00<quebra></quebra>
+
+Ibipetuba - Barra<quebra></quebra>
+
+40<quebra></quebra>
+
+100.000,00<quebra></quebra>
+
+4.000.000,00<quebra></quebra>
+
+Ibitiara - BR-28<quebra></quebra>
+
+30<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+6.000.000,00<quebra></quebra>
+
+Macaúbas - Livr. de Brumado<quebra></quebra>
+
+30<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+4.500.000,00<quebra></quebra>
+
+Paratinga - Macaúbas (BA-2)<quebra></quebra>
+
+38<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+5.700.000,00<quebra></quebra>
+
+Piatã - Mucugê<quebra></quebra>
+
+26<quebra></quebra>
+
+200.000,00<quebra></quebra>
+
+5.200.000,00<quebra></quebra>
+
+Santana - Santa Maria<quebra></quebra>
+
+24<quebra></quebra>
+
+150.000,00<quebra></quebra>
+
+3.600.000,00<quebra></quebra>
+
+<quebra></quebra>
+
+416 Kms<quebra></quebra>
+
+<quebra></quebra>
+
+59.600.000,00<quebra></quebra>
+
+TOTAL<quebra></quebra>
+
+1.837 Kms<quebra></quebra>
+
+<quebra></quebra>
+
+277.500.000,00<quebra></quebra>
+
+Despesa com estudos, locação, etc...<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+8.266.500,00<quebra></quebra>
+
+Eventuais de construções (15%)<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+41.625.000,00<quebra></quebra>
+
+TOTAL GERAL<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+327.391.500,00<quebra></quebra>
+
+ *

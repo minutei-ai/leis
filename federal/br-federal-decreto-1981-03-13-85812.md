@@ -1,5 +1,3 @@
-###DEC-085812-0-000-13-03-1981@@@
-
 Decreto nº 85.812, de 13 de março de 1981.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que menciona, situados no Município de Iaçu, no Estado da Bahia, compreendido na área prioritária de reforma agrária fixada pelo Decreto nº 85.811, de 13.03.81.

@@ -1,5 +1,3 @@
-###DEL-005135-0-000-24-12-1942@@@
-
 DECRETO-LEI N. 5.135 – DE 24 DE DEZEMBRO DE 1942
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei n. 3.390, de 7 de julho de 1941

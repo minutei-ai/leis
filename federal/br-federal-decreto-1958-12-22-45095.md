@@ -1,5 +1,3 @@
-###DEC-045095-0-000-22-12-1958@@@
-
 DECRETO Nº 45.095, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza Victor Romeo Sudbrack a comprar pedras preciosas.

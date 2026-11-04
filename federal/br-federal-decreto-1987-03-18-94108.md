@@ -1,5 +1,3 @@
-###DEC-094108-0-000-18-03-1987@@@
-
 DECRETO N° 94.108, DE 18 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte de imóvel rural, sem denominação, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por dimensão, situado no Município de Manaus, no Estado do Amazonas, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.679, de 19 de maio de 1986, e dá outras providências.

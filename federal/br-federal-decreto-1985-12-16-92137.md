@@ -1,5 +1,3 @@
-###DEC-092137-0-000-16-12-1985@@@
-
 Decreto nº 92.137, de 16 de dezembro de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitorias, necessárias à criação e melhoramentos de centros populacionais, seu abastecimento regular de meios de subsistência e planos hidroagrícolas, destinadas à execução do Programa denominado APROVEITAMENTOS HIDROAGRÍCOLAS DECORRENTES DO PROJETO PLATÔS DE GUADALUPE, Estado do Piauí, e dá outras providências.

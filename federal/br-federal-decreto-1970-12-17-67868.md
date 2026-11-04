@@ -1,5 +1,3 @@
-###DEC-067868-0-000-17-12-1970@@@
-
 Decreto nº 67.868, de 17 de dezembro de 1970.
 
 Aproveita servidor em disponibilidade e o distribui.

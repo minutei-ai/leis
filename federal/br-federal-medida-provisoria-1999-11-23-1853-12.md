@@ -1,5 +1,3 @@
-###MPV-001853-0-012-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.853-12, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

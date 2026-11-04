@@ -1,5 +1,3 @@
-###DEC-059422-0-000-27-10-1966@@@
-
 Decreto nº 59.422, de 27 de outubro de 1966.
 
 Torna sem efeito o Decreto nº 58.387, de 10 de maio de 1966.

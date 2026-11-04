@@ -1,5 +1,3 @@
-###MPV-001705-0-003-28-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.705-43, DE 28 DE setembro DE 1998.
 
 Da nova redação ao art. 57 da Lei nº 4.878, de 3 de dezembro de 1965, que dispõe sobre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048224-0-000-13-05-1960@@@
-
 DECRETO Nº 48.224, DE 13 DE MAIO DE 1960.
 
 Autoriza a Mineração Jutaí Ltda. a pesquisar minério de alumínio no município de Almeirim, Estado do Pará.

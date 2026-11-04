@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212669)<br>
-
 # LEI N° 18.470, DE 27 DE MAIO DE 2026
 
 ### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica._

@@ -1,5 +1,3 @@
-###DEC-058031-0-000-22-03-1966@@@
-
 DECRETO Nº 58.031, DE 22 DE MARÇO DE 1966.
 
 Concede reconhecimento ao curso de Nutricionista da Universidade do Recife.

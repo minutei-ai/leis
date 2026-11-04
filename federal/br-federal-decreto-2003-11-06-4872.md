@@ -1,5 +1,3 @@
-###DEC-004872-0-000-06-11-2003@@@
-
 DECRETO Nº 4.872,  DE 6 DE NOVEMBRO DE 2003.
 
        Dá nova redação aos arts. 4o, 8o e 9o do Decreto no 4.376, de 13 de setembro de 2002, que dispõe sobre a organização e o funcionamento do Sistema Brasileiro de Inteligência, instituído pela Lei no 9.883, de 7 de dezembro de 1999.
@@ -66,6 +64,8 @@ VII \- Centro Gestor e Operacional do Sistema de Proteção da Amazônia - CEN
 
         Brasília, 6 de novembro de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-José Dirceu de oliveira e Silva<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+José Dirceu de oliveira e Silva
+
 Jorge Armando Felix

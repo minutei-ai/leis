@@ -1,5 +1,3 @@
-###DEC-002473-0-000-26-01-1998@@@
-
 DECRETO Nº 2.473, DE 26 DE JANEIRO DE 1998
 
 Cria o Programa Florestas Nacionais, e dá outras providências.

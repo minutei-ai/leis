@@ -1,5 +1,3 @@
-###DEC-064019-0-000-23-01-1969@@@
-
 DECRETO Nº 64.019, DE 23 DE JANEIRO DE 1969.
 
 Concede a Sidnei Mineração Comércio e Indústria Ltda., o direito de lavrar minério de manganês, no município de Itaberaí, Estado de Goiás.

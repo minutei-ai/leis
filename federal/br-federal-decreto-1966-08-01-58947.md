@@ -1,5 +1,3 @@
-###DEC-058947-0-000-01-08-1966@@@
-
 DECRETO Nº 58.947, DE 1 DE AGÔSTO DE 1966.
 
 Concede à Sociedade Mineradora Januarense Ltda. autorização para funcionar como emprêsa de mineração.

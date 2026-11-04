@@ -1,5 +1,3 @@
-###DEL-005215-0-000-21-01-1943@@@
-
 DECRETO‑LEI N. 5.215 – DE 21 DE JANEIRO DE 1943
 
 Considera de carater essencialmente militar a Fábrica Nacional de Motores e sua Comissão Construtora, e dá outras providências

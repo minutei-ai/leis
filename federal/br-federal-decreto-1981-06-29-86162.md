@@ -1,5 +1,3 @@
-###DEC-086162-0-000-29-06-1981@@@
-
 Decreto Nº 86.162, de 29 de junho de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Pradópolis da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-073536-0-000-23-01-1974@@@
-
 DECRETO Nº 73.536, DE 23 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Educação e Letras São Judas Tadeu, com os cursos de Pedagogia e de Letras, mantida pela Associação de Ensino Superior São Judas Tadeu, com sede na Cidade do Rio de Janeiro - Estado da Guanabara.

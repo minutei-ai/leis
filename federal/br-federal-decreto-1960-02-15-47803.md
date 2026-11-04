@@ -1,5 +1,3 @@
-###DEC-047803-0-000-15-02-1960@@@
-
 DECRETO Nº 47.803, DE 15 DE FEVEREIRO DE 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Companhia Manga Industrial e Exportadora S. A.

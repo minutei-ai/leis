@@ -1,5 +1,3 @@
-###DEC-006215-0-000-26-09-2007@@@
-
 DECRETO Nº 6.215, DE 26 DE SETEMBRO DE 2007.
 
 Estabelece o Compromisso pela Inclusão das Pessoas com Deficiência, com vistas à implementação de ações de inclusão das pessoas com deficiência, por parte da União Federal, em regime de cooperação com Municípios, Estados e Distrito Federal, institui o Comitê Gestor de Políticas de Inclusão das Pessoas com Deficiência - CGPD, e dá outras providências.
@@ -63,5 +61,3 @@ Estabelece o Compromisso pela Inclusão das Pessoas com Deficiência, com vistas
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 28.9.2007

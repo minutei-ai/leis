@@ -8,7 +8,8 @@ Autoriza o Poder Executivo a contratar operação de crédito interno junto à C
 
 **Parágrafo único -** Os recursos de que trata o _caput_ deste artigo destinam-se à viabilização de contrapartidas de financiamentos e de termos de compromisso para investimentos nas áreas de infraestrutura urbana, infraestrutura hídrica, mobilidade urbana, saúde e cultura
 
-Redação de acordo com a Lei [15.163](https://www.legislabahia.ba.gov.br/documentos/lei-no-15163-de-27-de-maio-de-2026) de 27 de maio de 2026.<br>
+Redação de acordo com a Lei [15.163](https://www.legislabahia.ba.gov.br/documentos/lei-no-15163-de-27-de-maio-de-2026) de 27 de maio de 2026.
+
 Redação original: Parágrafo único - "Os recursos de que trata o caput deste artigo destinam-se à viabilização de contrapartidas de financiamentos e de termos de compromisso para investimentos nas áreas de infraestrutura urbana, de infraestrutura hídrica e de mobilidade urbana."
 
 **Art. 2º** - Fica o Poder Executivo autorizado a vincular, como contragarantia à garantia da União, a operação de crédito de que trata esta Lei, em caráter irrevogável e irretratável, a modo _pro solvendo_, as receitas discriminadas no § 4º do art. 167 da Constituição Federal, bem como outras garantias admitidas em direito.

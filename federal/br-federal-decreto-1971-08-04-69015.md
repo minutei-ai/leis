@@ -1,5 +1,3 @@
-###DEC-069015-0-000-04-08-1971@@@
-
 DECRETO Nº 69.015, DE 4 DE AGôSTO DE 1971.
 
 Declara extintas as concessões outorgadas à Organização Telefônica do Paraná - ORTEPA, Companhia Telefônica de Jacarezinho, Companhia Telefônica Santo Antônio da Platina e Companhia de Telecomunicações Umuarama - COTUSA e dá outras providências.

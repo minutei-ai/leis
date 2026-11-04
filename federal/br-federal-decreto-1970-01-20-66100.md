@@ -1,5 +1,3 @@
-###DEC-066100-0-000-20-01-1970@@@
-
 Decreto nº 66.100 - de 20 de janeiro de 1970
 
 Altera dispositivo do Decreto número 65.390, de 13 de outubro de 1969 que aprova o Regulamento do Comando de Zona Aérea.

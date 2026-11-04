@@ -1,5 +1,3 @@
-###DEC-075502-0-000-18-03-1975@@@
-
 DECRETO Nº 75.502, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Contábeis e Administração, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

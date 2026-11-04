@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212003)<br>
-
 # DECRETO N° 70.212, DE 16 DE DEZEMBRO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação, o imóvel situado na Rua Conselheiro Crispiniano, n°s 393, 399, 401 e 403, Distrito da República, Subprefeitura da Sé, no Município de São Paulo, necessário à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._

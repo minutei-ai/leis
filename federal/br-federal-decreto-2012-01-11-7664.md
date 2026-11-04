@@ -1,5 +1,3 @@
-###DEC-007664-0-000-11-01-2012-PUB-01@@@
-
 DECRETO Nº 7.664, DE 11 DE JANEIRO DE 2012
 
 Dá nova redação ao art. 4º do Decreto nº 5.113, de 22 de junho de 2004, que regulamenta o art. 20, inciso XVI, da Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço - FGTS.

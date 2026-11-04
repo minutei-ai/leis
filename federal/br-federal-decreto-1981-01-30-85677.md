@@ -1,5 +1,3 @@
-###DEC-085677-0-000-30-01-1981@@@
-
 DECRETO Nº 85.677, dE 30 de JANEIRO de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado da Bahia.

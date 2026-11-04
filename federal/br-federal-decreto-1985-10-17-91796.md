@@ -1,5 +1,3 @@
-###DEC-091796-0-000-17-10-1985@@@
-
 Decreto nº 91.796, de 17 de outubro de 1985
 
 Altera disposições do Decreto nº 88.374, de 07 de junho de 1983, e dá outras providências.

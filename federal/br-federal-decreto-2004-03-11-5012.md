@@ -1,5 +1,3 @@
-###DEC-005012-0-000-11-03-2004@@@
-
 DECRETO Nº 5.012,  DE 11 DE MARÇO DE 2004.
 
 Dá nova redação ao inciso II do art. 2° do Decreto n° 4.744, de 16 de junho de 2003, que dispõe sobre a composição e funcionamento do Conselho de Desenvolvimento Econômico e Social - CDES.

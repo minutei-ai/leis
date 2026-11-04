@@ -1,5 +1,3 @@
-###DEC-046701-0-000-21-08-1959@@@
-
 DECRETO Nº 46.701, DE 21 DE AGôSTO DE 1959.
 
 Inclui, funções gratificadas no Ministério da Educação e Cultura e dá outras providências.

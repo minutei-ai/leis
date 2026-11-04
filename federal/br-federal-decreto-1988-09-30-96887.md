@@ -1,5 +1,3 @@
-###DEC-096887-0-000-30-09-1988@@@
-
 DECRETO N° 96.887, DE 30 DE SETEMBRO DE 1988
 
 Outorga concessão a RÁDIO E TELEVISÃO DE UBERLÂNDIA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Ituiutaba, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-076589-0-000-11-11-1975@@@
-
 DECRETO Nº 76.589, de 11 de novembro de 1975.
 
 Transfere a sede do 3º Batalhão de Comunicações do Exército, cria o 6º Batalhão de Comunicações Divisionária e dá outras providências.

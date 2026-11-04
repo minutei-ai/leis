@@ -1,5 +1,3 @@
-###DEC-057301-0-000-22-11-1965@@@
-
 DECRETO Nº 57.301, DE 22 DE NOVEMBRO DE 1965.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$2.500.000.000 (dois bilhões e quinhentos milhões de cruzeiros), para o combate à malária na região dos Vales dos Rios Araguaia e Tocantins e da Estrada Belém - Brasília.

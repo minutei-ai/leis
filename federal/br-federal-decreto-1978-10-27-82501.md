@@ -1,5 +1,3 @@
-###DEC-082501-0-000-27-10-1978@@@
-
 Decreto nº 82 501, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia Siderúrgica Cruzeiro do Sul - CRUZUL pelo Decreto n º 51.779, de 04 de março de 1963.

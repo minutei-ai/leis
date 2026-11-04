@@ -1,5 +1,3 @@
-###DEL-004581-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.581 – DE 13 DE AGOSTO DE 1942
 
 Abre ao Ministério da Agricultura o crédito suplementar de 30:000$0, à verba que especifica

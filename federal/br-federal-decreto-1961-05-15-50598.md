@@ -1,5 +1,3 @@
-###DEC-050598-0-000-15-05-1961@@@
-
 DECRETO Nº 50.598, DE 15 DE MAIO DE 1961
 
 Dispõe sôbre a equiparação de escolas de Saúde Pública e dá outras providências.

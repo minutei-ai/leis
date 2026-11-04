@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9e7943c2-6e9b-4e39-aab7-a85621ceff6f/texto#nowhere)
 
-###DEL-001202-0-000-17-01-1972@@@
-
 # DECRETO-LEI Nº 1.202, DE 17 DE JANEIRO DE 1972
 
 Reajusta os vencimentos dos servidores civis e militares do Poder Executivo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067174-0-000-11-09-1970@@@
-
 DECRETO Nº 67.174, DE 11 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel nº 303 da rua Vigário José Ignácio, na cidade de Pôrto Alegre, Estado do Rio Grande do Sul, necessário à instalação das repartições que integram a Delegacia Federal de Saúde, do Ministério da Saúde.

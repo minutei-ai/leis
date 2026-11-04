@@ -1,5 +1,3 @@
-###DEL-000155-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 155, DE 10 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a extinção da autarquia federal denominada Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará; autoriza a constituição da Emprêsa de Navegação da Amazônia S.A., e da Companhia das Docas do Pará, e dá outras providências.

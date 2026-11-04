@@ -1,5 +1,3 @@
-###DEC-055353-0-000-31-12-1964@@@
-
 decreto nº 55.353, de 31 de dezembro de 1964.
 
 Concede à Mineração Pedroza Ribeiro Ltda. autorização para funcionar como emprêsa de mineração.

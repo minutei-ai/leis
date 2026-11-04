@@ -1,5 +1,3 @@
-###DEC-079086-0-000-04-01-1977@@@
-
 dECRETO Nº 79.086, DE 4 DE Janeiro DE 1977.
 
 Revoga o Decreto nº 75.786, de 28 de maio de 1975, que declara de utilização pública imóvel situado em Campos Elísios, Distrito do Município de Duque de Caxias, no Estado do Rio de Janeiro.

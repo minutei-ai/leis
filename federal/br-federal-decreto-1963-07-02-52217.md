@@ -1,5 +1,3 @@
-###DEC-052217-0-000-02-07-1963@@@
-
 DECRETO Nº 52.217, DE 2 DE JULHO DE 1963.
 
 Retifica o Decreto nº 51.481, de 1 de junho de 1962.

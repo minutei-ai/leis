@@ -1,5 +1,3 @@
-###DEC-075409-0-000-25-02-1975@@@
-
 DECRETO Nº 75.409, DE 25 DE FEVEREIRO DE 1975.
 
 Convoca a V Conferência Nacional de Saúde e dá outras providências.

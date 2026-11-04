@@ -1,5 +1,3 @@
-###DEC-061571-0-000-19-10-1967@@@
-
 DECRETO Nº 61.571, DE 19 DE OUTUBRO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no distrito de Barra do Cuité, município de Conselheiro Pena, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-091887-0-000-05-11-1985@@@
-
 Decreto nº 91.887, de 05 de novembro de 1985
 
 Declara como Área de Relevante Interesse Ecológico - ARIE as ilhas de Queimada Pequena e Queimada Grande, no litoral de São Paulo, e dá outras providências.

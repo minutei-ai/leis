@@ -1,5 +1,3 @@
-###DEC-077304-0-000-17-03-1976@@@
-
 DECRETO Nº 77.304, DE 17 DE MARÇO DE 1976.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

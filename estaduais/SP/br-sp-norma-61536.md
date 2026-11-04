@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61536)
-
 # LEI Nº 12.293, DE 02 DE MARÇO DE 2006
 
 ## (Projeto de lei nº267/2005, do Deputado Sebastião Almeida - PT)

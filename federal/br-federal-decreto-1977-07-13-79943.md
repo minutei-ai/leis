@@ -1,5 +1,3 @@
-###DEC-079943-0-000-13-07-1977@@@
-
 Decreto nº 79.943, de 13 de julho de 1977
 
 Concede reconhecimento aos cursos de Letras, de Ciências, de Ciências Sociais, de Matemática e de Pedagogia de Lages, com sede na cidade de Lages, Estado de Santa Catarina.

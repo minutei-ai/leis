@@ -1,5 +1,3 @@
-###DEC-004423-0-000-14-10-2002@@@
-
 DECRETO Nº 4.423, DE 14 DE OUTUBRO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia sobre a Cooperação na Pesquisa e nos Usos do Espaço Exterior para Fins Pacíficos, celebrado em Brasília, em 21 de novembro de 1997.
@@ -194,7 +192,9 @@ Cláusulas Finais
 
 Feito em Brasília, em 21 de novembro de 1997, em dois exemplares, nas línguas portuguesa, russa e inglesa, sendo todos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:238.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL LUIZ FELIPE LAMPREIA Ministro de Estado das Relações Exteriores</span></p></td><td style="width:199.9pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PELO GOVERNO DA FEDERAÇÃO DA RÚSSIA Ievgueni Primakov Ministro dos Negócios Estrangeiros</span></p></td></tr><tr style="height:0pt"><td style="width:6.25pt"></td><td style="width:240.25pt"></td><td style="width:201.4pt"></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL LUIZ FELIPE LAMPREIA Ministro de Estado das Relações Exteriores
+
+PELO GOVERNO DA FEDERAÇÃO DA RÚSSIA Ievgueni Primakov Ministro dos Negócios Estrangeiros
 
 ANEXO
 

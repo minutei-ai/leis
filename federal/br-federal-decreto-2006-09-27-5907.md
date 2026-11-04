@@ -1,5 +1,3 @@
-###DEC-005907-0-000-27-09-2006@@@
-
 DECRETO Nº 5.907, DE 27 DE SETEMBRO DE 2006.
 
 Reabre o prazo referido no § 2o do art. 4o do Decreto no 4.810, de 19 de agosto de 2003, por dois anos a partir da publicação deste Decreto, e dá outras providências.
@@ -19,5 +17,3 @@ Brasília, 27 de setembro de 2006; 185o da Independência e 118o da República.
  LUIZ INÁCIO LULA DA SILVA
 
       Dilma Rousseff
-
-Este texto não substitui o publicado no D.O.U. de 28.9.2006

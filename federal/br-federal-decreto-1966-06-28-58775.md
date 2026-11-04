@@ -1,5 +1,3 @@
-###DEC-058775-0-000-28-06-1966@@@
-
 DECRETO Nº 58.775, DE 28 DE JUNHO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Solidez Companhia Nacional de Seguros, inclusive aumento do capital social.

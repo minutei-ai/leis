@@ -1,5 +1,3 @@
-###DEC-078280-0-000-17-08-1976@@@
-
 Decreto nº 78.280, de 17 de agosto de 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Santa Catarina.

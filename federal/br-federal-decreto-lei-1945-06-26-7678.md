@@ -1,5 +1,3 @@
-###DEL-007678-0-000-26-06-1945@@@
-
 DECRETO-LEI N. 7.678 – DE 26 DE JUNHO DE 1945
 
 Altera o enunciado de rubricas do Plano de Obras e Equipamentos

@@ -1,5 +1,3 @@
-###DEC-059579-0-000-23-11-1966@@@
-
 decreto nº 59.579, de 23 de novembro de 1966.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

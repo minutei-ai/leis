@@ -1,5 +1,3 @@
-###DEC-092348-0-000-29-01-1986@@@
-
 DECRETO Nº 92.348, DE 29 DE JANEIRO DE 1986
 
 Modifica a denominação do "Prêmio Nacional de Ciência e Tecnologia" em "Prêmio Almirante Álvaro Alberto para a Ciência e Tecnologia" e dá outras providências.

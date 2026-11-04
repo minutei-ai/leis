@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2ea22026-e200-4b97-aea5-2365b032bab3/texto#nowhere)
 
-###DEL-001859-0-000-17-02-1981@@@
-
 # dECRETO-LEI Nº 1.859, DE 17 DE FEVEREIRO DE 1981.
 
 Extingue o Fundo Nacional de Desenvolvimento, e dá outras providências.

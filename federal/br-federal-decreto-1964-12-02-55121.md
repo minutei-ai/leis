@@ -1,5 +1,3 @@
-###DEC-055121-0-000-02-12-1964@@@
-
 DECRETO Nº 55.121, DE 2 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Alberto Debona Sartor a lavrar fluorita, no município de Urussanga, Estado de Santa Catarina.

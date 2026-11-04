@@ -439,7 +439,3 @@ Art. 50 – Os casos omissos no presente Regulamento será resolvidos pelo Chefe
 Belo Horizonte, 28 de fevereiro de 1943.
 
 Luiz Martins Soares, Chefe de Polícia.
-
-\===========================
-
-Data da última atualização: 12/11/2007

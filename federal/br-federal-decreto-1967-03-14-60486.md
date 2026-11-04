@@ -1,5 +1,3 @@
-###DEC-060486-0-000-14-03-1967@@@
-
 DECRETO Nº 60.486, DE 14 DE MARÇO DE 1967.
 
 Abre ao Ministério da Justiça e Negócios Interiores o Crédito Suplementar de NCr$160.000 destinado ao Serviço de Estatística Demográfica, Moral e Política.

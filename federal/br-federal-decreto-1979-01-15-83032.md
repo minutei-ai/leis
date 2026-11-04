@@ -1,5 +1,3 @@
-###DEC-083032-0-000-15-01-1979@@@
-
 DECRETO Nº 83.032, DE 15 DE JANEIRO DE 1979
 
 Dá nova redação ao Artigo 10 do Decreto nº 78.549, de 11 de outubro de 1976, que altera os Estatutos da Empresa Brasileira de Turismo, aprovados pelo Decreto nº 60.362, de 10 de março de 1967.

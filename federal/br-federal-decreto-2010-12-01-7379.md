@@ -1,5 +1,3 @@
-###DEC-007379-0-000-01-12-2010-PUB-01@@@
-
 DECRETO Nº 7.379, DE 1º DE DEZEMBRO DE 2010
 
 Dá nova redação e acresce dispositivos ao Decreto nº 6.555, de 8 de setembro de 2008, que dispõe sobre as ações de comunicação do Poder Executivo Federal e dá outras providências.

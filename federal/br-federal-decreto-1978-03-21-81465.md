@@ -1,5 +1,3 @@
-###DEC-081465-0-000-21-03-1978@@@
-
 Decreto nº 81.465, de 21 de março de 1978.
 
 Concede reconhecimento à habilitação em Supervisão Escolar de 1º e 2º graus do curso de Pedagogia, ministrado pela Faculdade de Filosofia, Ciências e Letras de Lavras, com sede na cidade de Lavras, Estado de Minas Gerais.

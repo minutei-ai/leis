@@ -1,5 +1,3 @@
-###DEC-097551-0-000-03-03-1989@@@
-
 DECRETO N° 97.551, DE 3 DE MARÇO DE 1989
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Fisioterapia de Uberlândia, Minas Gerais.

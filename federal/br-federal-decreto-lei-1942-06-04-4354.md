@@ -1,5 +1,3 @@
-###DEL-004354-0-000-04-06-1942@@@
-
 DECRETO-LEI N. 4.354 – DE 4 DE JUNHO DE 1942
 
 Abre ao Ministério da Aeronáutica o crédito especial de 2.052:476$0, para pagamento de subvenções atrasadas

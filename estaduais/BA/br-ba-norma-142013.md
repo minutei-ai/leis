@@ -44,7 +44,8 @@ Dispõe sobre a destinação da primeira parcela recebida pelo Estado da Bahia e
 
 **§ 2º** - Na hipótese de apresentação de alvará judicial sem a indicação do valor ou percentual a ser levantado em favor de cada requerente, com a indicação de valor superior ao apurado pela Administração Pública ou, ainda, contendo inconsistência que gere incerteza quanto ao adequado pagamento do abono, o Poder Executivo fica autorizado a realizar o depósito integral dos valores em juízo, na forma da legislação pertinente.
 
-Redação de acordo com a Lei nº [14.592](https://www.legislabahia.ba.gov.br/documentos/lei-no-14592-de-25-de-agosto-de-2023) de 25 de agosto de 2023.<br>
+Redação de acordo com a Lei nº [14.592](https://www.legislabahia.ba.gov.br/documentos/lei-no-14592-de-25-de-agosto-de-2023) de 25 de agosto de 2023.
+
 Redação original: "Art. 9º - Os herdeiros dos profissionais do Magistério ativos e inativos habilitados na forma do art. 5º desta Lei deverão requerer a percepção do abono, mediante apresentação de alvará judicial autorizando o levantamento parcial ou integral do valor, na forma e prazo a serem definidos em Regulamento. "
 
 **Art. 10** - Os valores remanescentes em razão da ausência de identificação ou de requerimento do respectivo beneficiário serão rateados com os demais profissionais do magistério indicados no art. 5º desta Lei, na forma e prazo estabelecidos em Regulamento.

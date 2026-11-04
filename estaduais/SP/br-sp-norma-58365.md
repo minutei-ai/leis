@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58365)
-
 # LEI Nº 12.102, DE 11 DE OUTUBRO DE 2005
 
 ## ( PL 244/2004 - Valdomiro Lopes)

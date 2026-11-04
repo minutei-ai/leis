@@ -1,5 +1,3 @@
-###DEL-000576-0-000-08-05-1969@@@
-
 DECRETO-LEI Nº 576, DE 8 DE MAIO DE 1969
 
 Altera a redação do artigo 21, da Lei nº 5.365, de 1º de dezembro de 1967, e do parágrafo único do artigo 13, do Decreto-lei nº 301, de 28 de fevereiro de 1967.

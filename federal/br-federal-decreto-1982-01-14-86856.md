@@ -1,5 +1,3 @@
-###DEC-086856-0-000-14-01-1982@@@
-
 Decreto nº 86.856, de 14 de janeiro de 1982
 
 Altera a composição do Conselho Federal de Entorpecentes.

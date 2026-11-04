@@ -1,5 +1,3 @@
-###MPV-002036-0-082-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.036-82, DE 25 DE agosto DE 2000.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outros providências.

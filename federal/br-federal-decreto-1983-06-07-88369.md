@@ -1,5 +1,3 @@
-###DEC-088369-0-000-07-06-1983@@@
-
 # Decreto nº 88.369, de 07 de junho de 1983
 
 Declara de interesse social, para fins de desapropriação, o imóvel que menciona, situado no Município de Mazagão, no Território Federal do Amapá, compreendido na área prioritária para fins de reforma agrária criada pelo Decreto nº 86.235, de 29 de julho de 1981, ampliado pelo Decreto nº 88.368, de 07 de junho de 1983.

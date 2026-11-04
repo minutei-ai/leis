@@ -1,5 +1,3 @@
-###DEC-069602-0-000-24-11-1971@@@
-
 DECRETO Nº 69.602 - DE 24 de NOVEMBRO DE 1971
 
 Revoga o Decreto nº 8.245, de 22 de setembro de 1910, que concedeu à empresa The Brazilian Hardwood Corporation autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEL-006707-0-000-18-07-1944@@@
-
 DECRETO-LEI N. 6.707 – DE 18 DE JULHO DE 1944
 
 Determinar a aceitação da carteira profissional para prova do registro civil, nos institutos de previdência social, e dá outras providências

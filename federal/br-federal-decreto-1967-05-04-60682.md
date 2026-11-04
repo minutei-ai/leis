@@ -1,5 +1,3 @@
-###DEC-060682-0-000-04-05-1967@@@
-
 DECRETO Nº 60.682, DE 4 DE MAIO DE 1967.
 
 Dispõe sôbre a viagem da “Missão Comercial Rubem Berta à Italia”.

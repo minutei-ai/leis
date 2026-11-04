@@ -1,5 +1,3 @@
-###DEC-065086-0-000-04-09-1969@@@
-
 DECRETO Nº 65.086 - DE 4 DE SETEMBRO DE 1969.
 
 Altera o Decreto nº 58.193, de 14 de abril de 1966, modificado pelos Decretos números 58.250, 58.664 e 59.703, respectivamente de 25 de abril de 1966, 16 de junho de 1966 e 9 de dezembro de 1966.

@@ -1,5 +1,3 @@
-###DEC-081365-0-000-20-02-1978@@@
-
 Decreto nº 81.365, de 20 de fevereiro de 1978.
 
 Reduz as alíquotas do Imposto sobre Produtos Industrializados relativas aos produtos que indica.

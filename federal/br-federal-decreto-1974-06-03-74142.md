@@ -1,5 +1,3 @@
-###DEC-074142-0-000-03-06-1974@@@
-
 DECRETO Nº 74.142, DE 3 DE JUNHO DE 1974.
 
 Exclui Cargo do relacionamento de disponibilidade e dá outras providências.

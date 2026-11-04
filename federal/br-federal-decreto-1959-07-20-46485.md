@@ -1,5 +1,3 @@
-###DEC-046485-0-000-20-07-1959@@@
-
 DECRETO Nº 46.485, de 20 de julho de 1959.
 
 Renova o Decreto nº 40.958, de 14 de fevereiro de 1957.

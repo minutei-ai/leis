@@ -1,5 +1,3 @@
-###DEC-047601-0-000-06-01-1960@@@
-
 DECRETO Nº 47.601, DE 6 DE JANEIRO 1960.
 
 Autoriza o cidadão brasileiro Sebastião Curimbaba a pesquisar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

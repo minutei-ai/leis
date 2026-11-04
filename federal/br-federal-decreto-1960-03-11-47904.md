@@ -1,5 +1,3 @@
-###DEC-047904-0-000-11-03-1960@@@
-
 DECRETO Nº 47.904, DE 11 DE MARÇO DE 1960.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Distrito Federal.

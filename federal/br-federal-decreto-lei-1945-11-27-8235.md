@@ -1,5 +1,3 @@
-###DEL-008235-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.235 – DE 27 DE NOVEMBRO DE 1945
 
 Prorroga-se a vigência do credito especial aberto pelo Decreto-lei número 7.070, de 23 de novembro de 1944.

@@ -1,5 +1,3 @@
-###DEC-083534-0-000-30-05-1979@@@
-
 DECRETO Nº 83.534, DE 30 DE MAIO DE 1979.
 
 Concede honras de Ministro de Estado ao General de Exército RRm Orlando Geisel.

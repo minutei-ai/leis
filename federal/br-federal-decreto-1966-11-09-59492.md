@@ -1,5 +1,3 @@
-###DEC-059492-0-000-09-11-1966@@@
-
 Decreto nº 59.492, de 9 de novembro de 1966.
 
 Autoriza o cidadão brasileiro Athos Fontes Ferreira a pesquisar dolomita e calcário no município de Itararé, Estado de São Paulo.

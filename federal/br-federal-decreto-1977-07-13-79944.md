@@ -1,5 +1,3 @@
-###DEC-079944-0-000-13-07-1977@@@
-
 Decreto nº 79.944, de 13 de julho de 1977
 
 Autoriza a inclusão da habilitação de Formação de Psicólogo, no curso de Psicologia, da Faculdade Paulistana de Ciências e Letras, com sede na cidade de São Paulo, Estado de São Paulo.

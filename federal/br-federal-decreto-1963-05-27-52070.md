@@ -1,5 +1,3 @@
-###DEC-052070-0-000-27-05-1963@@@
-
 decreto nº 52.070, de 27 de maio de 1963.
 
 Declara de utilidade pública a Associação da União Este Brasileira dos Adventistas do Sétimo Dia, com sede no Estado da Guanabara.

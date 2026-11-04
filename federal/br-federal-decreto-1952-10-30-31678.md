@@ -1,14 +1,12 @@
-###DEC-031678-0-000-30-10-1952@@@
+**DECRETO Nº 31.678, DE 30 DE OUTUBRO DE 1952.**
 
-<strong>DECRETO Nº 31.678, DE 30 DE OUTUBRO DE 1952.</strong>
+***Aprova, com modificação, alterações introduzidas nos Estatutos da Companhia de Seguros Minas-Brasil.***
 
-<em><strong>Aprova, com modificação, alterações introduzidas nos Estatutos da Companhia de Seguros Minas-Brasil.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei nº 2.063, de 7 de março de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei nº 2.063, de 7 de março de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam aprovadas as alterações introduzidas nos Estatutos da “Companhia de Seguros Minas-Brasil”, com sede na Capital do Estado de Minas Gerais, autorizada a funcionar pelo Decreto nº 3.297, de 24 de novembro de 1938, conforme deliberação da Assembléia Geral Extraordinária realizada em 31 de março de 1952, mediante as seguintes condições.
+**Art**. 1º Ficam aprovadas as alterações introduzidas nos Estatutos da “Companhia de Seguros Minas-Brasil”, com sede na Capital do Estado de Minas Gerais, autorizada a funcionar pelo Decreto nº 3.297, de 24 de novembro de 1938, conforme deliberação da Assembléia Geral Extraordinária realizada em 31 de março de 1952, mediante as seguintes condições.
 
 I - Supressão da expressão “e suplentes” do artigo 36º;
 
@@ -16,6 +14,6 @@ II - A alteração consignada na cláusula precedente deverá ser aprovada em As
 
 Rio de Janeiro, 30 de outubro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Segadas Viana

@@ -1,5 +1,3 @@
-###DEC-005082-0-000-17-05-2004@@@
-
 DECRETO Nº 5.082, DE 17 DE MAIO DE 2004.
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República da Colômbia, da República Bolivariana da Venezuela, da República do Equador e da República do Peru (países-membros da Comunidade Andina) e da República Federativa do Brasil, de 10 de março de 2004.
@@ -22,11 +20,7 @@ Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de 
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 18.5.2004
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 39, ASSINADO ENTRE AS
+        Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 39, ASSINADO ENTRE AS
 
 REPÚBLICAS DA COLÔMBIA, DO EQUADOR, DO PERU E DA VENEZUELA, PAÍSES-MEMBROS DA COMUNIDADE ANDINA, E A REPÚBLICA FEDERATIVA DO BRASIL
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-095871-0-000-24-03-1988@@@
-
 DECRETO N° 95.871, DE 24 DE MARÇO DE 1988
 
 Altera o Decreto n° 87.569, de 16 de setembro de 1982 que regula as condições de pagamento da Indenização de Tropa, especifica as Organizações Militares consideradas Corpo de Tropa, Base ou Navio de Guerra e dá outras providências.

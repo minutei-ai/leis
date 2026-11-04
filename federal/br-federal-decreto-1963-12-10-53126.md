@@ -1,5 +1,3 @@
-###DEC-053126-0-000-10-12-1963@@@
-
 DECRETO Nº 53.126, DE 10 DE DEZEMBRO DE 1963.
 
 Outorga a Centrais Elétricas do Rio das Contas S.A. concessão para produção, transmissão e distribuição de energia elétrica nos municípios de Ilhéus, Itabuna e Uruçuca, no Estado da Bahia, e dá outras providências.
@@ -33,8 +31,6 @@ Brasília, 10 de dezembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-053126-0-000-10-12-1963@@@RET01+++
 
 DECRETO Nº 53.126, DE 10 DE DEZEMBRO DE 1963.
 

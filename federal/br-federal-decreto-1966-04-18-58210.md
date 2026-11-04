@@ -1,5 +1,3 @@
-###DEC-058210-0-000-18-04-1966@@@
-
 DECRETO Nº 58.210, de 18 de abril de 1966.
 
 Denominação de Organização Militar.

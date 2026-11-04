@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209874)<br>
-
 # LEI N° 18.017, DE 23 DE AGOSTO DE 2024
 
 ## (Projeto de lei n° 762/2023, da Deputada Leticia Aguiar - PP)

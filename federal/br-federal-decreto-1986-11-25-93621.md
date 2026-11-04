@@ -1,5 +1,3 @@
-###DEC-093621-0-000-25-11-1986@@@
-
 DECRETO Nº 93.621, DE 25 DE NOVEMBRO DE 1986.
 
 Dispõe sobre o afastamento, a serviço dos servidores da empresa que indica.

@@ -1,5 +1,3 @@
-###DEC-048903-0-000-27-08-1960@@@
-
 decreto nº 48.903, de 27 de Agôsto de 1960.
 
 Concede reconhecimento a cursos.

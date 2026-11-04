@@ -1,5 +1,3 @@
-###DEC-064737-0-000-25-06-1969@@@
-
 DECRETO Nº 64.737, DE 25 de JUNHO DE 1969.
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial do Ministério da Justiça, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

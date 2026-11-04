@@ -1,7 +1,3 @@
-1
-
-###MPV-001428-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.428, DE 9 DE MAIO DE 1996.
 
 Dispõe sobre medidas reguladoras do abastecimento do mercado interno de produtos do setor sucroalcooleiro.

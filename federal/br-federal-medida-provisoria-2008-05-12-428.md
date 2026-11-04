@@ -1,5 +1,3 @@
-###MPV-000428-0-000-12-05-2008@@@
-
 MEDIDA PROVISÓRIA Nº 428, DE 12 DE MAIO DE 2008.
 
 Altera a legislação tributária federal e dá outras providências.
@@ -249,5 +247,3 @@ Brasília, 12 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 13.5.2008

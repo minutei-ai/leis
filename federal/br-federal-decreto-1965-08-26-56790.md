@@ -1,5 +1,3 @@
-###DEC-056790-0-000-26-08-1965@@@
-
 DECRETO Nº 56.790, DE 26 DE AGÔSTO DE 1965.
 
 Institui normas para a Programação Financeira do exercício de 1966.

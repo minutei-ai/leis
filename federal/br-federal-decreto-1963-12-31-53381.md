@@ -1,5 +1,3 @@
-###DEC-053381-0-000-31-12-1963@@@
-
 decreto nº 53.381, de 31 de dezembro de 1963.
 
 Declara de utilidade pública a “Sociedade Civil “Irmãs da Santa Cruz”, com sede em São Paulo Estado de São Paulo.

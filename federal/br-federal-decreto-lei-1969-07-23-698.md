@@ -1,5 +1,3 @@
-###DEL-000698-0-000-23-07-1969@@@
-
 DECRETO-LEI Nº 698, DE 23 DE JULHO DE 1969
 
 Dissolve a DEFPRO - Defensora de Investimentos em Promissórias, com sede em São Paulo e dá outras providências.

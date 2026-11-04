@@ -1,18 +1,16 @@
-###DEC-028103-0-000-10-05-1950@@@
+**DECRETO Nº 28.103, DE 10 DE MAIO DE 1950.**
 
-<strong>DECRETO Nº 28.103, DE 10 DE MAIO DE 1950.</strong>
+***Amplia a zona de fornecimento da Companhia Sul Mineira de Eletricidade e dá outras providências.***
 
-<em><strong>Amplia a zona de fornecimento da Companhia Sul Mineira de Eletricidade e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-leis ns. 2.059, de 5 de março de março de 1940, e 5.764 de 19 de agosto de 1943,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-leis ns. 2.059, de 5 de março de março de 1940, e 5.764 de 19 de agosto de 1943,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica ampliada a zona de fornecimento de energia elétrica da Companhia Sul Mineira de Eletricidade, com a inclusão do município de Cristina, cujo serviço era feito pela Prefeitura Municipal.
+**Art**. 1º Fica ampliada a zona de fornecimento de energia elétrica da Companhia Sul Mineira de Eletricidade, com a inclusão do município de Cristina, cujo serviço era feito pela Prefeitura Municipal.
 
 Parágrafo único. As tarifas para fornecimento de energia elétrica, na região de que trata este artigo, serão as vigorantes na zona de fornecimento da Companhia Sul Mineira de Eletricidade.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a interessada não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a interessada não satisfizer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, a partir de sua publicação.
 
@@ -22,12 +20,12 @@ III - Iniciar e concluir as obras nos prazos que forem determinadas pelo Ministr
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário
+**Art**. 4º Revogam-se as disposições em contrário
 
 Rio de Janeiro, em 10 de maio de 1950, 129º da Independência e 62º da República
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho

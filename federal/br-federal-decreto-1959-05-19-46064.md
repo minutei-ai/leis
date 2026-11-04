@@ -1,5 +1,3 @@
-###DEC-046064-0-000-19-05-1959@@@
-
 DECRETO Nº 46.064, DE 19 DE maio DE 1959.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista da Escola Industrial de Teresina, para idêntica tabela da Diretoria do Ensino Industrial, ambas do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEL-003532-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.532 – DE 21 DE AGOSTO DE 1941
 
 Altera dispositivos do decreto-lei nº 2.722, de 30 de outubro de 1940, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-000058-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 58, DE 21 DE NOVEMBRO DE 1966
 
 Delimita os efeitos do artigo 2º da Lei nº 5.097, de 2 de setembro de 1966, estabelece nôvo critério para contribuição e dá outras providências.

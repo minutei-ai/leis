@@ -1,5 +1,3 @@
-###DEC-049914-0-000-12-01-1961@@@
-
 DECRETO Nº 49.914, DE 12 DE JANEIRO DE 1961.
 
 Dispõe sôbre a instalação e o funcionamento do Centro de Processamento de Dados do Govêrno.

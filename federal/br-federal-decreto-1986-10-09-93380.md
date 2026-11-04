@@ -1,5 +1,3 @@
-###DEC-093380-0-000-09-10-1986@@@
-
 DECRETO Nº 93.380, DE 9 DE OUTUBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Pitanga" ou "Tabatinga", situado no Município de Igarassu, no Estado de Pernambuco, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.683, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094914-0-000-18-09-1987@@@
-
 DECRETO N° 94.914, DE 18 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Marrecas", constituído dos lotes nos 6,18 (parte) e 18-B, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Turvo, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.

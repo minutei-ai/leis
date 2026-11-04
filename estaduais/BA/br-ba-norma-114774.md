@@ -22,8 +22,10 @@ Art. 4º - Os cargos em comissão de Diretor da Biblioteca Infantil Monteiro Lob
 
 Art. 5º - As despesas decorrentes da abertura do presente crédito correrão à conta da  rubrica 3.5.08 - 3.1.4.17 do orçamento em vigor.
 
-Redação de acordo com a Lei nº 2.333, de 23 de maio de 1966.<br>
-Redação anterior de acordo com a Lei nº 2.278, de 28 de dezembro de 1965: "As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08 - verba 3.1.4.19 - 1, do orçamento de 1965."<br>
+Redação de acordo com a Lei nº 2.333, de 23 de maio de 1966.
+
+Redação anterior de acordo com a Lei nº 2.278, de 28 de dezembro de 1965: "As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08 - verba 3.1.4.19 - 1, do orçamento de 1965."
+
 Redação original: "Art. 5º - Fica o Poder Executivo autorizado a abrir, na Secretaria da Fazenda à Secretaria de Educação e Cultura, o crédito especial de duzentos e setenta e quatro milhões seiscentos e quarenta e seis mil cruzeiros (Cr$274.646.000,00), a ser custeado com os recursos resultantes da anulação da dotação - 3.04.01 - Gabinete do Secretário - verba 1.6.21 - 2/a, do orçamento vigente, de acordo com o inciso III § 1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964."
 
 Parágrafo único - Os encargos resultantes desta lei e referentes a exercícios anteriores, correrão à conta do crédito especial autorizado pela [Lei nº 1.998, de 03 de janeiro de 1964](https://www.legislabahia.ba.gov.br/documentos/lei-no-1998-de-03-de-janeiro-de-1964#LO_1_998) .
@@ -62,4 +64,4 @@ ONDE SE LÊ: Mosteiro Lobato,
 
 LEIA-SE: Monteiro Lobato.
 
-* * *
+ *

@@ -10,11 +10,14 @@ Art. 2º Revogadas as disposições em contrario, esta Lei entrara em vigor na d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos primeiros dias do mês de julho de hum mil novecentos e noventa e oito.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC.EXECUTIVO
 
-FRANCISCO GOMES DE ABREU<br>
+FRANCISCO GOMES DE ABREU
+
 SEC.DE EDUCAÇÃO

@@ -1,5 +1,3 @@
-###DEL-004916-0-000-05-11-1942@@@
-
 DECRETO-LEI N. 4.916 – DE 5 DE NOVEMBRO DE 1942
 
 Cria a Base Aérea de Salvador (Baía), na 2ª Zona Aérea

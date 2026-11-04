@@ -1,5 +1,3 @@
-###DEL-008177-0-000-16-11-1945@@@
-
 DECRETO-LEI N. 8.177 – DE  16 DE NOVEMBRO DE 1945
 
 Dá atribuição aos juizes eleitorais

@@ -1,5 +1,3 @@
-###DEC-061516-0-000-12-10-1967@@@
-
 decreto 61.516, de 12 de outubro de 1967.
 
 Declara de utilidade pública a “Cruzada Pró Infância”, com sede em São Paulo, Estado de São Paulo.

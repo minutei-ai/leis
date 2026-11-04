@@ -1,5 +1,3 @@
-###DEL-004737-0-000-24-09-1942@@@
-
 decreto-lei n. 4.737 - de 24 de setembro de 1942
 
 Dispõe sobre o reconhecimento de filhos naturais

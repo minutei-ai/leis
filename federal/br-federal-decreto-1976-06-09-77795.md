@@ -1,5 +1,3 @@
-###DEC-077795-0-000-09-06-1976@@@
-
 DECRETO Nº 77.795, DE 9 DE JUNHO DE 1976.
 
 Dispõe sobre a formalização e deduções do salário-educação devido pelas empresas que menciona.

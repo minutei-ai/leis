@@ -1,5 +1,3 @@
-###DEC-001891-0-000-02-05-1996@@@
-
 DECRETO Nº 1.891, DE 2 DE MAIO DE 1996.
 
 Remaneja cargos em comissão e funções gratificadas que menciona e dá outras providências.

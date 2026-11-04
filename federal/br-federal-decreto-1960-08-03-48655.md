@@ -1,5 +1,3 @@
-###DEC-048655-0-000-03-08-1960@@@
-
 DECRETO Nº 48.655, de 3 DE agôsto DE 1960.
 
 Extingue o Destacamento de Base Aérea de Brasília e dá outras providências.

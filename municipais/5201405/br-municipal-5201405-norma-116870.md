@@ -4,14 +4,16 @@ Dispõe sobre a regulamentação do Agente de Trânsito e Transportes no Municí
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º A Atividade de Agente de Trânsito e Transportes no Município de Aparecida de Goiânia será regulamentada por esta Lei.
 
 Art. 2º O Agente de Trânsito e Transportes, cargo público provido por concurso público específico, é o servidor vinculado ao Órgão ou Entidade de Trânsito Municipal para todos os efeitos e consectários legais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 O AGENTE DE TRÂNSITO E TRANSPORTES
 
 Art. 3º É Agente de Trânsito e Transportes o servidor civil ingresso em cargo público específico correspondente a este, constante de quadro próprio do Órgão ou Entidade Executivo de Trânsito do Município, descritos na Lei Municipal nº 2.520, de 5 de agosto de 2005, em seu anexo III, com nomenclatura descrita neste título.
@@ -22,7 +24,8 @@ Art. 3º É Agente de Trânsito e Transportes o servidor civil ingresso em cargo
 
 § 3º É vedada qualquer norma ou hermenêutica que tenha o sentido de atribuir função de Agente de Trânsito e Transportes a qualquer outro cargo, emprego, carreira ou função pública ou privada, diversos dos previstos nesta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 INVESTIDURA NO CARGO DE AGENTE DE TRÂNSITO E TRANSPORTES
 
 Art. 4º O ingresso para o cargo de Agente de Trânsito e Transportes far-se-á por meio de concurso público específico para este fim.
@@ -69,7 +72,8 @@ V-    Investigação social, eliminatória, concomitante a aprovação no cur
 
 Art. 7º Após 5 (cinco) anos de atividade profissional, no exercício das funções de Agente de Trânsito e Transportes, poderá ser submetido a curso de atualização profissional com carga horária mínima de 40 (quarenta) horas.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS ATRIBUIÇÕES
 
 Art. 8º O Agente de Trânsito e Transportes está vinculado ao Órgão de Trânsito responsável pela segurança viária, conforme incisos I e II do parágrafo 10 do artigo 144 da Constituição Federal e regulamentado pela Lei Municipal 2.520 de 2005 e todas as alterações posteriores, ou Lei que a revogue.
@@ -138,7 +142,8 @@ Parágrafo Único – Os AIT’s lavrados deverão ser encaminhados ao Órgão o
 
 Art. 13 As infrações constatadas e registradas pelos Agentes de Trânsito e Transportes deverão ser remetidas ao Órgão ou Entidade Executivo de Trânsito ou ao Órgão Executivo Rodoviário de Trânsito competente para que tome todas as providências no sentido de garantir ao usuário o direito ao contraditório e ampla defesa.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 14 Presenciando fato que configure crime de trânsito previsto na Lei Federal 9.503 de 1997, Código de Trânsito Brasileiro, poderá o Agente de Trânsito e Transportes proceder à lavratura de Termo de Constatação de Crime de Trânsito que será encaminhado á Delegacia de Polícia competente.
@@ -161,14 +166,18 @@ Art. 19 Esta Lei entrará em vigor na data de sua publicação, revogando-se as 
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 14 dias do mês de abril do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-FRANKLIN PEREIRA DE OLIVEIRA JUNIOR<br>
+FRANKLIN PEREIRA DE OLIVEIRA JUNIOR
+
 Presidente da SMTA
 
-[ANEXO](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19054/anexo)<br>
+[ANEXO](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19054/anexo)
+
 (Acrescentado pela Lei Complementar nº 183, de 4 de janeiro de 2021).

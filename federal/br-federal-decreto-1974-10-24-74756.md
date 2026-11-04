@@ -1,5 +1,3 @@
-###DEC-074756-0-000-24-10-1974@@@
-
 Decreto nº 74.756, de 24 de outubro de 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Mossoró Rádio Sociedade Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Mossoró, Estado do Rio Grande do Norte.

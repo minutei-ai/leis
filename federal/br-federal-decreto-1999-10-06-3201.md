@@ -1,5 +1,3 @@
-###DEC-003201-0-000-06-10-1999@@@
-
 DECRETO Nº 3.201, DE 6 DE OUTUBRO DE 1999.
 
 Dispõe sobre a concessão, de  ofício, de licença compulsória nos casos de emergência nacional e de interesse público de que trata o art. 71 da Lei nº 9.279, de 14 de maio de 1996.

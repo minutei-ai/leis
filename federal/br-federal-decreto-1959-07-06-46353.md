@@ -1,5 +1,3 @@
-###DEC-046353-0-000-06-07-1959@@@
-
 DECRETO Nº 46.353, DE 6 DE JULHO DE 1959.
 
 Atribui à Companhia Urbanizadora da Nova Capital do Brasil a instalação de uma rêde de telecomunicações de interêsse do futuro do Distrito Federal.

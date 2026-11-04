@@ -1,5 +1,3 @@
-###DEC-070322-0-000-23-03-1972@@@
-
 DECRETO Nº 70.322, DE 23 DE MARÇO DE 1972.
 
 Aprova incorporação de empresa de Energia Elétrica no Estado de São Paulo, outorga concessão para uso exclusivo de aproveitamento hidráulico e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008171-0-000-14-11-1945@@@
-
 DECRETO-LEI N. 8.171 – DE 14 DE NOVEMBRO DE 1945
 
 Cria cargos isolados de provimento efetivo e suprime funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências.

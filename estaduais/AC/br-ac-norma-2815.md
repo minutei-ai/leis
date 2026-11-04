@@ -1,6 +1,10 @@
 > **LEI Nº 3.301, DE 30 DE NOVEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Dia da Conscientização e Prevenção da Síndrome Alcoólica Fetal.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Dia da Conscientização e Prevenção da Síndrome Alcoólica Fetal.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

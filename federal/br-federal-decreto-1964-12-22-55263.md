@@ -1,5 +1,3 @@
-###DEC-055263-0-000-22-12-1964@@@
-
 DECRETO Nº 55.263, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza a Marmoaria Brasil Ltda., a pesquisar mármore, no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

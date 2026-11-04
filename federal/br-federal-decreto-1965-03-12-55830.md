@@ -1,5 +1,3 @@
-###DEC-055830-0-000-12-03-1965@@@
-
 DECRETO Nº 55.830, DE 12 DE MARÇO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar uma área de terreno em Lapa - PR, destinada ao Ministério da Guerra.

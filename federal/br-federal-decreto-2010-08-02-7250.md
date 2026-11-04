@@ -1,5 +1,3 @@
-###DEC-007250-0-000-02-08-2010@@@
-
 DECRETO Nº 7.250, DE 2 DE AGOSTO DE 2010
 
 Dispõe sobre a execução do Sexagésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 18 (69PA-ACE18), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, em 19 de maio de 2010.

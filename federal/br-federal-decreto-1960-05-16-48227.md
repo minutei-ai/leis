@@ -1,5 +1,3 @@
-###DEC-048227-0-000-16-05-1960@@@
-
 DECRETO Nº 48.227, DE 16 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Simplício Vieira Celos a pesquisar diamante no município de Arenápolis, Estado de Mato Grosso.

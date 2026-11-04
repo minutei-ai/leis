@@ -1,5 +1,3 @@
-###DEL-003644-0-000-23-09-1941@@@
-
 DECRETO-LEI N. 3.644 – DE 23 DE SETEMBRO DE 1941
 
 Dispõe sobre a produção, importação e distribuição de ovos do bicho da seda e dá outras providências

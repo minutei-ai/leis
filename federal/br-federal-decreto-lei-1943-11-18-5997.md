@@ -1,5 +1,3 @@
-###DEL-005997-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 5.997 – DE 18 DE NOVEMBRO DE 1943
 
 Dá nova redação aos artigos 5.º e 6º do decreto‑lei n. 3.038, de 10 de fevereiro de 1941

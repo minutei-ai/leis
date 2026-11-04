@@ -1,5 +1,3 @@
-###DEC-048400-0-000-23-06-1960@@@
-
 decreto nº 48.400, de 23 de junho de 1960.
 
 Dispõe sôbre a futura utilização do Edifício-sede do Ministério da Educação e Cultura, situado na Cidade do Rio de Janeiro.

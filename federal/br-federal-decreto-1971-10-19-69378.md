@@ -1,5 +1,3 @@
-###DEC-069378-0-000-19-10-1971@@@
-
 DECRETO nº 69.378, DE 19 DE OUTUBRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Instituto Nacional de Colonização e Reforma Agrária - INCRA - cargos originários da Extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

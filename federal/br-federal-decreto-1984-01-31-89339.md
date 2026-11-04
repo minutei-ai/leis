@@ -1,5 +1,3 @@
-###DEC-089339-0-000-31-01-1984@@@
-
 Decreto nº 89.339 de 31 de janeiro de1984
 
 Regulamenta o disposto nos artigos 5º, § 2º, 9º §§ 1º a 4º e 12 da Lei nº 7.064, de 6 de dezembro de 1982, que dispõe sobre a situação de trabalhadores contratados ou transferidos para prestar serviços no exterior.
@@ -51,8 +49,6 @@ Mailson Ferreira da Nóbrega
 João Camilo Penna
 
 Mário David Andreazza
-
-###DEC-089339-0-000-31-01-1984@@@RET01+++
 
 DECRETO nº 89.339, DE 31 DE JANEIRO DE 1984
 

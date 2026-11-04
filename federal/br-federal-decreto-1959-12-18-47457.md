@@ -1,5 +1,3 @@
-###DEC-047457-0-000-18-12-1959@@@
-
 Decreto nº 47.457, de 18 de dezembro de 1959.
 
 Autoriza concessão de suprimento de recursos à Comissão de Marinha Mercante.

@@ -1,5 +1,3 @@
-###DEC-007879-0-000-27-12-2012-PUB-01@@@
-
 DECRETO N°\- 7.879, DE 27 DE DEZEMBRO DE 2012
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.

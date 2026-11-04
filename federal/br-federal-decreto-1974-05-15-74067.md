@@ -1,5 +1,3 @@
-###DEC-074067-0-000-15-05-1974@@@
-
 DECRETO Nº 74.067, DE 15 DE MAIO DE 1974.
 
 Autoriza o funcionamento dos cursos de Artes Práticas e de Formação de Professores para as Disciplinas Profissionais do Ensino Técnico da Faculdade de Educação e Ciências Humanas "Prof. Laerte de Carvalho", mantida pelo Centro de Estudos Unificados Bandeirante, com sede na Cidade de Santos, Estado de São Paulo.

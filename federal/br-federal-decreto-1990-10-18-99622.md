@@ -1,5 +1,3 @@
-###DEC-099622-0-000-18-10-1990@@@
-
 DECRETO N.° 99.622, DE 18 DE OUTUBRO DE 1990
 
 Concede à empresa Air Aruba S.A. autorização para funcionar no Brasil.

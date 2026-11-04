@@ -1,5 +1,3 @@
-###DEC-088705-0-000-15-09-1983@@@
-
 DECRETO Nº 88.705, DE 15 DE SETEMBRO DE 1983
 
 Fixa o limite a que se refere o artigo 11 da Lei 6.708, de 30 de outubro de 1979.

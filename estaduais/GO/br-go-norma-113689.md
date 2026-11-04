@@ -34,10 +34,12 @@ Goiânia, 27 de março de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 (Alteração do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023)
 
 “ANEXO I
@@ -59,10 +61,12 @@ ANEXO I<br>
 | 4.21. Assessoria Técnica | Básica | Assessor Técnico | 6 | DAS-4 |
 | ..................................................................... |
 
-ANEXO II<br>
+ANEXO II
+
 (Alteração do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023)
 
-“ANEXO III<br>
+“ANEXO III
+
 CARGOS DE PROVIMENTO EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
 | TIPO | SÍMBOLO | SUBSÍDIO | QUANTIDADE |

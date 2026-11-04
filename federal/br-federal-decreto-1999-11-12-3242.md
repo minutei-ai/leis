@@ -1,5 +1,3 @@
-###DEC-003242-0-000-12-11-1999@@@
-
 DECRETO N° 3.242, DE 12 DE NOVEMBRO DE 1999.
 
 Revoga os decretos que menciona.

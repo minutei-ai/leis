@@ -1,5 +1,3 @@
-###DEC-079604-0-000-28-04-1977@@@
-
 DECRETO Nº 79.604, DE 28 DE ABRIL DE 1977.
 
 Dispõe sobre a criação de funções de confiança no Quadro Permanente da Comissão de Valores Mobiliários, e dá outras providências.

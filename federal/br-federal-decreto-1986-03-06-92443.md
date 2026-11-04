@@ -1,5 +1,3 @@
-###DEC-092443-0-000-06-03-1986@@@
-
 DECRETO Nº 92.443, DE 06 DE MARÇO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à EMISSORAS REUNIDAS RÁDIO CULTURA S.A., para a RÁDIO SANTO ÂNGELO LTDA.

@@ -1,5 +1,3 @@
-###DEC-091983-0-000-25-11-1985@@@
-
 DECReto Nº 91.983, De 25 DE NovEmbRo DE 1985.
 
 Aprova o Regulamento para o ingresso no Corpo de Engenheiros e Técnicos Navais - CETN, em decorrência da Lei nº 7.326 de 18 de junho de 1985.

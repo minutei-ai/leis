@@ -1,5 +1,3 @@
-###DEC-058959-0-000-01-08-1966@@@
-
 decreto nº 58.959, de 1º de agôsto de 1966.
 
 Retifica, na parte a que se refere, o Decreto nº 52.037, de 22 de maio de 1963.

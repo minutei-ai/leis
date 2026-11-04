@@ -1,5 +1,3 @@
-###DEC-048295-0-000-17-06-1960@@@
-
 DECRETO Nº 48.295, DE 17 DE JUNHO DE 1960.
 
 Renova o Decreto nº 43.247, de 24 de fevereiro de 1958.

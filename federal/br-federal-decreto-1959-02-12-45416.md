@@ -1,5 +1,3 @@
-###DEC-045416-0-000-12-02-1959@@@
-
 DECRETO Nº 45.416, DE 12 DE FEVEREIRO DE 1959.
 
 Autoriza a Prefeitura Municipal de Maricá, Estado do Rio de Janeiro, a reformar o sistema de distribuição de energia elétrica daquela cidade.

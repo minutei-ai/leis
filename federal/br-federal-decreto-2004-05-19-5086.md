@@ -1,5 +1,3 @@
-###DEC-005086-0-000-19-05-2004@@@
-
 DECRETO Nº 5.086,  DE 19 DE MAIO DE 2004
 
 Altera o inciso V do § 1º do art. 8º do Decreto nº 3.937, de 25 de setembro de 2001, que dispõe sobre o Seguro de Crédito à Exportação.

@@ -1,5 +1,3 @@
-###DEL-005705-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.705 – DE 29 DE JULHO DE 1943
 
 Dispõe sôbre a aposertadoria de Augusto Alíredo Barbosa Carneiro Farias

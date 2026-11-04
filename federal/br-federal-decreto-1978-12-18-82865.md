@@ -1,5 +1,3 @@
-###DEC-082865-0-000-18-12-1978@@@
-
 Decreto nº 82.865, de 18 de dezembro de 1978
 
 Concede à CARIRI - Carvalho Irmãos Industrial Ltda. o direito de lavrar calcário no Município de Pendências, Estado do Rio Grande do Norte.

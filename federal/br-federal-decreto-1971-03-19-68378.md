@@ -1,5 +1,3 @@
-###DEC-068378-0-000-19-03-1971@@@
-
 decreto nº 68.378, de 19 de março de 1971.
 
 Disciplina a situação dos servidores pertencentes ao Quadro de Pessoal do Ministério da Agricultura que se achavam lotados no Serviço de Proteção aos Índios, no Conselho Nacional de Proteção aos Índios e no Parque Nacional do Xingu e dá outras providências.

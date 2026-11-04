@@ -1,5 +1,3 @@
-###DEL-004970-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.970 – DE 19 DE NOVEMBRO DE 1942
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Viação e Obras Públicas

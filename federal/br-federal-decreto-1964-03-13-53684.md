@@ -1,5 +1,3 @@
-###DEC-053684-0-000-13-03-1964@@@
-
 DECRETO Nº 53.684, DE 13 DE março DE 1964.
 
 Altera dispositivo do decreto nº 52.900, de 21 de novembro de 1963, modificado pelo de nº 53.402, de 9 de janeiro de 1964, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078198-0-000-04-08-1976@@@
-
 DECRETO Nº 78.198, DE 4 DE AGOSTO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Benjamim Constant, Estado do Amazonas.

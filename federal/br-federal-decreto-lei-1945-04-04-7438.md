@@ -1,5 +1,3 @@
-###DEL-007438-0-000-04-04-1945@@@
-
 DECRETO-LEI N. 7.438 – DE 4 DE ABRIL DE 1945
 
 Dispõe  sôbre caução de ações de estabelecimentos bancários de depósito

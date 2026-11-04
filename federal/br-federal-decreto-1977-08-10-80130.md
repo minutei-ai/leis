@@ -1,5 +1,3 @@
-###DEC-080130-0-000-10-08-1977@@@
-
 DECRETO N° 80.130, DE 10 DE AGOSTO DE 1977.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado de Mato Grosso.

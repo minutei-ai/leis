@@ -1,5 +1,3 @@
-###DEC-051961-A-000-26-04-1963@@@
-
 decreto nº 51.961-a, de 26 de abril de 1963.
 
 Outorga à Emprêsa Fôrça e Luz de Pontalina concessão para o aproveitamento de energia hidráulica do salto do Ribeirão do Lôbo, distrito e município de Pontalina, Estado de Goiás.

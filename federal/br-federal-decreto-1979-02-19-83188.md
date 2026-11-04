@@ -1,5 +1,3 @@
-###DEC-083188-0-000-19-02-1979@@@
-
 decreto nº 83.188, de 19 de fevereiro de 1979
 
 Aprova a modificação do Estatuto da Empresa Brasileira dos Transportes Urbanos - EBTU.

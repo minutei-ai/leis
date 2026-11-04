@@ -1,7 +1,3 @@
-1
-
-###DEC-096174-0-000-16-06-1988@@@
-
 # DECRETO N° 96.174, DE 16 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, situado na Cidade de Teresópolis, Estado do Rio de Janeiro, destinada à instalação de Estação Telefônica da Telecomunicações do Rio de Janeiro S.A. - TELERJ, e dá outras providências.

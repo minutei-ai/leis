@@ -1,5 +1,3 @@
-###DEC-003548-0-000-21-07-2000@@@
-
 DECRETO Nº 3.548, DE 21 DE JULHO DE 2000.
 
 Promulga o Acordo de Integração Cultural entre o Governo da República Federativa do Brasil e o Governo da República Argentina, celebrado em Brasília, em 10 de novembro de 1997.
@@ -162,10 +160,64 @@ As Partes poderão estabelecer emendas ao presente Acordo por meio de acordos qu
 
 Feito em Brasília, em 10 de novembro de 1997, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Guido Di Tella</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Argentina
+
+Luiz Felipe Lampreia
+
+Guido Di Tella
+
+Ministro de Estado das Relações Exteriores
+
+Ministro de Relações Exteriores
 
 Anexo I
 
 Código de Atividades
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Código</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Áreas</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Sub-áreas</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Artes Cênicas</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01. Circo 02. Dança 03. Pantomina 04. Ópera 05. Teatro 05. Marionetes</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">02</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Produção Audiovisual Cinematográfica, Videográfica, discográfica e de Rádio e de Televisão Educativo/Cultural de caráter não comercial</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01. Cinema 02. Rádio 03. Televisão 04. Vídeo 05. Multimídia</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">03</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Música</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01. Clássica, Popular, Folclórica, Étnica, de Vanguarda (Erudita) 02. Eletroacústica 03. Discografia</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">04</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Artes plásticas, Visuais, gráficas, filatelia e numismática</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">05</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Patrimônio Cultural, Culturas Negras e Indígenas, Culturas Regionais, Artesanatos, Museologia e Arquivos</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01. Artesanato 02. Culturas regionais 03. Culturas indígenas 04. Folclore 05. Patrimônio Cultural 06. Museus 07. Bobliotecas, Arquivos e Acervos 08. Livros e incentivos à leitura</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">06</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Literatura e Humanidades</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01. De referência 02. Didática 03. Letras e Artes 04. Co-produção editorial 05. Filosofia e Ciências Sociais 06. CiênciasExatas 07. Periódicos</span></p></td></tr><tr><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">07</span></p></td><td style="width:139.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Áreas Integradas</span></p></td><td style="width:139.45pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01. Feiras Culturais 02. Turismo Cultural 03. Ecoturismo 04. Seminários e Conferências</span></p></td></tr></tbody></table>
+Código
+
+Áreas
+
+Sub-áreas
+
+01
+
+Artes Cênicas
+
+01. Circo 02. Dança 03. Pantomina 04. Ópera 05. Teatro 05. Marionetes
+
+02
+
+Produção Audiovisual Cinematográfica, Videográfica, discográfica e de Rádio e de Televisão Educativo/Cultural de caráter não comercial
+
+01. Cinema 02. Rádio 03. Televisão 04. Vídeo 05. Multimídia
+
+03
+
+Música
+
+01. Clássica, Popular, Folclórica, Étnica, de Vanguarda (Erudita) 02. Eletroacústica 03. Discografia
+
+04
+
+Artes plásticas, Visuais, gráficas, filatelia e numismática
+
+05
+
+Patrimônio Cultural, Culturas Negras e Indígenas, Culturas Regionais, Artesanatos, Museologia e Arquivos
+
+01. Artesanato 02. Culturas regionais 03. Culturas indígenas 04. Folclore 05. Patrimônio Cultural 06. Museus 07. Bobliotecas, Arquivos e Acervos 08. Livros e incentivos à leitura
+
+06
+
+Literatura e Humanidades
+
+01. De referência 02. Didática 03. Letras e Artes 04. Co-produção editorial 05. Filosofia e Ciências Sociais 06. CiênciasExatas 07. Periódicos
+
+07
+
+Áreas Integradas
+
+01. Feiras Culturais 02. Turismo Cultural 03. Ecoturismo 04. Seminários e Conferências

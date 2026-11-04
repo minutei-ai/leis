@@ -1,5 +1,3 @@
-###DEC-073531-0-000-22-01-1974@@@
-
 DECRETO Nº 73.531, DE 22 DE JANEIRO DE 1974.
 
 Concede reconhecimento aos cursos de Licenciatura em Filosofia, de Licenciatura em História, de Licenciatura em Letras, de Pedagogia: Licenciatura plena e Licenciatura de 1º Grau, da Faculdade de Filosofia, Ciências e Letras das Faculdades Associadas do Ipiranga, mantidas pelo Instituto Educacional Seminário Paulopolitano, com sede na cidade de São Paulo, Estado de São Paulo.

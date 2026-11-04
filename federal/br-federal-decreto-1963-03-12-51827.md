@@ -1,5 +1,3 @@
-###DEC-051827-0-000-12-03-1963@@@
-
 DECRETO Nº 51.827, DE 12 DE MARÇO DE 1963.
 
 Concede à Indústria de Cal Ituaçu Ltda., autorização para funcionar como emprêsa de mineração.

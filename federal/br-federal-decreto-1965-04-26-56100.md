@@ -1,5 +1,3 @@
-###DEC-056100-0-000-26-04-1965@@@
-
 DECRETO Nº 56.100, DE 26 DE ABRIL DE 1965.
 
 Amplia a Zona de Concessão da Companhia de Eletrificação Centro-Norte do Ceará.

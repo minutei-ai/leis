@@ -1,5 +1,3 @@
-###DEC-090795-0-000-10-01-1985@@@
-
 DECRETO Nº 90.795, DE 10 DE JANEIRO DE 1985.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói e Angra dos Reis, Estado do Rio de Janeiro; Salvador, Estado da Bahia e Olinda, Estado de Pernambuco.

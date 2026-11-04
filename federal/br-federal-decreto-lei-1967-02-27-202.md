@@ -1,5 +1,3 @@
-###DEL-000202-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 202, DE 27 DE fEVEREIRO DE 1967
 
 Incorpora ao Fundo Rotativo Habitacional de Brasília saldos de dotações orçamentárias, consignados a favor do Grupo de Trabalho de Brasília.

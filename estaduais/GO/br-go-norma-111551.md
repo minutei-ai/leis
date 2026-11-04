@@ -16,56 +16,434 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO)</td><td style=" width:12%;    ">10 303 1043 2501</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 2.253.353,48</td><td style=" width:12%;    ">R$ 1.595.147,04</td><td style=" width:12%;    ">R$ 3.848.500,52</td></tr><tr><td style=" width:12%;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:12%;    ">10 302 1043 2516</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">50</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 1.026.814,75</td><td style=" width:12%;    ">R$ 3.695.386,08</td><td style=" width:12%;    ">R$ 4.722.200,83</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR &nbsp;</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:12%;    ">04 122 4200 4243</td><td style=" width:12%;    ">17590141</td><td style=" width:12%;    ">91</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 1,00</td><td style=" width:12%;    ">R$ 2.051.761,67</td><td style=" width:12%;    ">R$ 2.051.762,67</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3350-FUNDO DE PARTICIPAÇÃO E FOMENTO A INDUSTRIALIZAÇÃO DO ESTADO DE GOIÁS - FOMENTAR &nbsp;</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:12%;    ">22 122 4200 4243</td><td style=" width:12%;    ">17590141</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 2.999,00</td><td style=" width:12%;    ">R$ 739.539,01</td><td style=" width:12%;    ">R$ 742.538,01</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3161-FUNDAÇÃO DE AMPARO À&nbsp; PESQUISA DO ESTADO DE GOIÁS - FAPEG</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:12%;    ">19 571 1054 2397</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 942.121,04</td><td style=" width:12%;    ">R$ 1.339.932,22</td><td style=" width:12%;    ">R$ 2.282.053,26</td></tr><tr><td style=" width:12%;    ">CONCESSÃO DE AUXÍLIO EM CTI</td><td style=" width:12%;    ">19 571 1054 2397</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 258.327,00</td><td style=" width:12%;    ">R$ 741.683,00</td><td style=" width:12%;    ">R$ 1.000.010,00</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">PROJETOS TURÍSTICOS ESPECIAIS</td><td style=" width:12%;    ">23 695 1028 2559</td><td style=" width:12%;    ">27000290</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 4.066,94</td><td style=" width:12%;    ">R$ 4.066,94</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO)
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 7.372.148,34</td></tr><tr><td style=" width:50%;    ">17590141 - RECURSOS VINCULADOS A FUNDOS</td><td style=" width:50%;    ">R$ 2.791.300,68</td></tr><tr><td style=" width:50%;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 4.066,94</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 10.167.515,96</td></tr></tbody></table>
+10 303 1043 2501
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.253.353,48
+
+R$ 1.595.147,04
+
+R$ 3.848.500,52
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 1.026.814,75
+
+R$ 3.695.386,08
+
+R$ 4.722.200,83
+
+**3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+17590141
+
+91
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1,00
+
+R$ 2.051.761,67
+
+R$ 2.051.762,67
+
+**3350-FUNDO DE PARTICIPAÇÃO E FOMENTO A INDUSTRIALIZAÇÃO DO ESTADO DE GOIÁS - FOMENTAR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+22 122 4200 4243
+
+17590141
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.999,00
+
+R$ 739.539,01
+
+R$ 742.538,01
+
+**3161-FUNDAÇÃO DE AMPARO À  PESQUISA DO ESTADO DE GOIÁS - FAPEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 942.121,04
+
+R$ 1.339.932,22
+
+R$ 2.282.053,26
+
+CONCESSÃO DE AUXÍLIO EM CTI
+
+19 571 1054 2397
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 258.327,00
+
+R$ 741.683,00
+
+R$ 1.000.010,00
+
+**4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PROJETOS TURÍSTICOS ESPECIAIS
+
+23 695 1028 2559
+
+27000290
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 4.066,94
+
+R$ 4.066,94
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.372.148,34
+
+17590141 - RECURSOS VINCULADOS A FUNDOS
+
+R$ 2.791.300,68
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 4.066,94
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 10.167.515,96
 
 QUADRO 2
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192</td><td style=" width:12%;    ">10 302 1043 2510</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 14.492.052,00</td><td style=" width:12%;    ">R$ 5.290.533,12</td><td style=" width:12%;    ">R$ 5.290.533,12</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR &nbsp;</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">RESERVA DE CONTINGÊNCIA</td><td style=" width:12%;    ">99 999 9999 9000</td><td style=" width:12%;    ">17590141</td><td style=" width:12%;    ">99</td><td style=" width:12%;    ">9 - RESERVA DE CONTINGÊNCIA</td><td style=" width:12%;    ">R$ 27.825.224,41</td><td style=" width:12%;    ">R$ 2.051.761,67</td><td style=" width:12%;    ">R$ 2.051.761,67</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3350-FUNDO DE PARTICIPAÇÃO E FOMENTO A INDUSTRIALIZAÇÃO DO ESTADO DE GOIÁS - FOMENTAR &nbsp;</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">RESERVA DE CONTINGÊNCIA</td><td style=" width:12%;    ">99 999 9999 9000</td><td style=" width:12%;    ">17590141</td><td style=" width:12%;    ">99</td><td style=" width:12%;    ">9 - RESERVA DE CONTINGÊNCIA</td><td style=" width:12%;    ">R$ 7.827.000,00</td><td style=" width:12%;    ">R$ 739.539,01</td><td style=" width:12%;    ">R$ 739.539,01</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3161-FUNDAÇÃO DE AMPARO À&nbsp; PESQUISA DO ESTADO DE GOIÁS - FAPEG</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">CONCESSÃO DE BOLSA DE CTI</td><td style=" width:12%;    ">19 571 1054 2398</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 2.581.867,45</td><td style=" width:12%;    ">R$ 2.081.615,22</td><td style=" width:12%;    ">R$ 2.081.615,22</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">PROJETOS TURÍSTICOS ESPECIAIS</td><td style=" width:12%;    ">23 695 1028 2559</td><td style=" width:12%;    ">27000290</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 151.600,06</td><td style=" width:12%;    ">R$ 4.066,94</td><td style=" width:12%;    ">R$ 4.066,94</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 7.372.148,34</td></tr><tr><td style=" width:50%;    ">17590141 - RECURSOS VINCULADOS A FUNDOS</td><td style=" width:50%;    ">R$ 2.791.300,68</td></tr><tr><td style=" width:50%;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 4.066,94</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 10.167.515,96</td></tr></tbody></table>
+10 302 1043 2510
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 7.372.148,34</td></tr><tr><td style=" width:50%;    ">17590141 - RECURSOS VINCULADOS A FUNDOS</td><td style=" width:50%;    ">R$ 2.791.300,68</td></tr><tr><td style=" width:50%;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:50%;    ">R$ 4.066,94</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 10.167.515,96</td></tr></tbody></table>
+90
+
+4 - INVESTIMENTOS
+
+R$ 14.492.052,00
+
+R$ 5.290.533,12
+
+R$ 5.290.533,12
+
+**3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+RESERVA DE CONTINGÊNCIA
+
+99 999 9999 9000
+
+17590141
+
+99
+
+9 - RESERVA DE CONTINGÊNCIA
+
+R$ 27.825.224,41
+
+R$ 2.051.761,67
+
+R$ 2.051.761,67
+
+**3350-FUNDO DE PARTICIPAÇÃO E FOMENTO A INDUSTRIALIZAÇÃO DO ESTADO DE GOIÁS - FOMENTAR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+RESERVA DE CONTINGÊNCIA
+
+99 999 9999 9000
+
+17590141
+
+99
+
+9 - RESERVA DE CONTINGÊNCIA
+
+R$ 7.827.000,00
+
+R$ 739.539,01
+
+R$ 739.539,01
+
+**3161-FUNDAÇÃO DE AMPARO À  PESQUISA DO ESTADO DE GOIÁS - FAPEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONCESSÃO DE BOLSA DE CTI
+
+19 571 1054 2398
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.581.867,45
+
+R$ 2.081.615,22
+
+R$ 2.081.615,22
+
+**4261-GOIÁS TURISMO - AGÊNCIA ESTADUAL DE TURISMO**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PROJETOS TURÍSTICOS ESPECIAIS
+
+23 695 1028 2559
+
+27000290
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 151.600,06
+
+R$ 4.066,94
+
+R$ 4.066,94
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.372.148,34
+
+17590141 - RECURSOS VINCULADOS A FUNDOS
+
+R$ 2.791.300,68
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 4.066,94
+
+**TOTAL**
+
+R$ 10.167.515,96
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.372.148,34
+
+17590141 - RECURSOS VINCULADOS A FUNDOS
+
+R$ 2.791.300,68
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 4.066,94
+
+**TOTAL**
+
+R$ 10.167.515,96

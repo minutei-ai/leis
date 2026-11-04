@@ -1,5 +1,3 @@
-###DEC-077503-0-000-27-04-1976@@@
-
 DECRETO Nº 77.503 - DE 27 DE ABRIL DE 1976
 
 Concede reconhecimento aos cursos de Ciências e de Letras da Faculdade de Ciências e Letras de Bragança Paulista, com sede na cidade de Bragança Paulista, Estado de São Paulo.

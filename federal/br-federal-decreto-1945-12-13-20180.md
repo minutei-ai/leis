@@ -1,30 +1,28 @@
-###DEC-020180-0-000-13-12-1945@@@
+**DECRETO Nº 20.180, DE 13 DE DEZEMBRO DE1945.**
 
-<strong>DECRETO Nº 20.180, DE 13 DE DEZEMBRO DE1945.</strong>
+***Aprova o Regime do Serviço Atuarial(S.At.) do Ministério do Trabalho, Industria e Comércio.***
 
-<em><strong>Aprova o Regime do Serviço Atuarial(S.At.) do Ministério do Trabalho, Industria e Comércio.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 74,letra ‘’*a*’’, da Constituição, e nos têrmos do art. 7º do Decreto-lei nº 3.941, de 16 de dezembro de 1941,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 74,letra ‘’<em>a</em>’’, da Constituição, e nos têrmos do art. 7º do Decreto-lei nº 3.941, de 16 de dezembro de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Atuarial(S.At.) do Ministério do Trabalho, Indústria e Comércio, que a êste acompanha, assinado pelo Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Atuarial(S.At.) do Ministério do Trabalho, Indústria e Comércio, que a êste acompanha, assinado pelo Ministro do Trabalho, Indústria e Comércio.
-
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 13 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 R. Carneiro de Mendonça
 
-<strong>ANTEPROJETO DE REGIMENTO DO SERVIÇO ATUARIAL</strong>
+**ANTEPROJETO DE REGIMENTO DO SERVIÇO ATUARIAL**
 
-<strong>CAPÌTULO I</strong>
+**CAPÌTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço Atuarial (S.At.),criado pelo Decreto-lei nº 3.941, de 16 de setembro de 1941, é órgão integrante do Ministério do Trabalho, Indústria e Comércio, subordinado diretamente ao respectivo Ministro de Estado, e tem por fim:
+**Art**. 1º O Serviço Atuarial (S.At.),criado pelo Decreto-lei nº 3.941, de 16 de setembro de 1941, é órgão integrante do Ministério do Trabalho, Indústria e Comércio, subordinado diretamente ao respectivo Ministro de Estado, e tem por fim:
 
 a) orientar, sob o aspecto técnico-atuarial, as operações de seguro e capitalização;
 
@@ -46,11 +44,11 @@ i) promover o desenvolvimento da técnica atuarial, no país, mantendo, para ês
 
 j) manter relações e intercâmbio com as repartições e instituições de estatística e atuária, nacionais e estrangeiras.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O S.At., cuja ação se estende a todo o país, será dirigido por um diretor, nomeado, em comissão, pelo Presidente da República e compor-se-à de:
+**Art**. 2º O S.At., cuja ação se estende a todo o país, será dirigido por um diretor, nomeado, em comissão, pelo Presidente da República e compor-se-à de:
 
 a) Seção de Seguros Sociais (Sc.S.);
 
@@ -62,7 +60,7 @@ d) Seção de Pesquisas Atuariais (Sc. P.).
 
 Parágrafo único. Cada Seção terá um chefe, designado pelo diretor, dentre os atuários do Quadro Permanente do Ministério do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 3º O S.At. terá ainda, os seguintes órgãos de deliberação coletiva:
+**Art**. 3º O S.At. terá ainda, os seguintes órgãos de deliberação coletiva:
 
 a) Conselho Atuarial (C.A.);
 
@@ -92,19 +90,19 @@ b) Comissão Permanente de Tarifas (C.P.T.).
 
 § 6º O regimento interno das câmaras o regimento interno das Câmaras será por elas elaborado e submetido à aprovação do diretor do S.At.
 
-<strong>Art</strong>. 4º Das decisões das Câmaras haverá recurso, com efeito suspensivo, para o diretor do S.At.,
+**Art**. 4º Das decisões das Câmaras haverá recurso, com efeito suspensivo, para o diretor do S.At.,
 
-<strong>Art</strong>. 5º O diretor do S.At. terá um secretário, por êle designado dentre os funcionários do Ministério do Trabalho, Indústria e Comércio, e sob cuja chefia ficará a turma administrativa (T.A.).
+**Art**. 5º O diretor do S.At. terá um secretário, por êle designado dentre os funcionários do Ministério do Trabalho, Indústria e Comércio, e sob cuja chefia ficará a turma administrativa (T.A.).
 
-<strong>Art</strong>. 6º A Seção de Pesquisas terá uma turma de mecanização (T.M.), diretamente subordinada ao chefe da Seção.
+**Art**. 6º A Seção de Pesquisas terá uma turma de mecanização (T.M.), diretamente subordinada ao chefe da Seção.
 
-<strong>Art</strong>. 7º O diretor do S.At. deverá ser escolhido dentre os atuários do Quadro Permanente do Ministério do Trabalho, Indústria e Comércio, contando pelo menos três anos de exercício na respectiva carreira.
+**Art**. 7º O diretor do S.At. deverá ser escolhido dentre os atuários do Quadro Permanente do Ministério do Trabalho, Indústria e Comércio, contando pelo menos três anos de exercício na respectiva carreira.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 8º. A Sc.S. compete:
+**Art**. 8º. A Sc.S. compete:
 
 a) realizar os estudos atuais referentes às instituições de previdência social, levantar os balanços atuirias das que não disponham de serviço atuarial próprio e verificar os das que o tenham;
 
@@ -118,7 +116,7 @@ e) emitir parecer nos processos referentes ao seguro social e informar os papéi
 
 f) cooperar com os outros órgãos do S.At. no estudo das questões técnicas de ordem geral.
 
-<strong>Art</strong>. 9º À Sc. A., compete:
+**Art**. 9º À Sc. A., compete:
 
 a) examinar, sob o aspecto técnico, os balanços e processos das instituições e sociedades que operem em seguros de acidentes do trabalho e emitir parecer sôbre os mesmos;
 
@@ -148,7 +146,7 @@ n) emitir parecer nos processos referentes a seguros de acidentes e informar os 
 
 o) cooperar com os outros órgãos do S.At. no estudo das questões técnicas de ordem geral.
 
-<strong>Art</strong>. 10. À Sc. C., compete:
+**Art**. 10. À Sc. C., compete:
 
 a) examinar, sob o aspecto técnico, os planos de seguros privados e capitazação e emitir parecer sôbre os mesmos;
 
@@ -170,7 +168,7 @@ i) efetuar os estudos referentes aos seguros privados e que forem necessários �
 
 j) cooperar com os outros órgãos do S. At. no estudo das questões técnicas de ordem geral;
 
-<strong>Art</strong>. 11. À Sc. P. compete:
+**Art**. 11. À Sc. P. compete:
 
 a) coordenar todos os elementos estatísticos do S. At. ou que interessam à repartição;
 
@@ -184,7 +182,7 @@ e) superintender os trabalhos da T.M.;
 
 f) promover a publicação da Revista Brasileira de Atuária, órgão do S.At.;
 
-g) opinar sôbre os trabalhos técnicos que mereçam ser publicados por conta do Ministério do Trabalho, Indústria e Comércio, nos têrmos do art. 12 alínea <em>e</em>;
+g) opinar sôbre os trabalhos técnicos que mereçam ser publicados por conta do Ministério do Trabalho, Indústria e Comércio, nos têrmos do art. 12 alínea *e*;
 
 h) realizar diligências, verificações e exames técnicos que se tornarem necessários aos seus serviços;
 
@@ -192,7 +190,7 @@ i) efetuar os estudos que forem necessários ao C.A.;
 
 j) emitir parecer nos processos referentes a questões de natureza técnico-atuarial, de ordem geral, submetidas ao exame do S. At., e informar os papéis que lhe forem encaminhados pelo diretor dêste ou em virtude de instruções dêle.
 
-<strong>Art</strong>. 12. Ao C.A. compete:
+**Art**. 12. Ao C.A. compete:
 
 a) responder às consultas de natureza técnico-atuarial que forem feitas ao S. At. pelos poderes públicos;
 
@@ -214,23 +212,23 @@ i) elaborar o seu regimento interno, o qual deverá ser submetido à aprovação
 
 Parágrafo único. O C.A. reunir-se-á, obrigatòriamente, uma vez por mês e, extraordinàriamente, quando convocado pelo seu presidente.
 
-<strong>Art</strong>. 13. Compete à 1.ª Câmara da C.P.T., fixar, em relação aos diferentes riscos e de acordo com respectiva estatística, as tarifas gerais de prêmios e as tarifações especiais de seguros de acidentes do trabalho, revê-las anualmente e estabelecer a padronização das apólices desses seguros, das respectivas propostas, dos registros exigidos pelas leis e regulamentos, e dos métodos estatísticos que devem ser empregados na apuração do custo do risco, bem como dar parecer sôbre os casos omissos.
+**Art**. 13. Compete à 1.ª Câmara da C.P.T., fixar, em relação aos diferentes riscos e de acordo com respectiva estatística, as tarifas gerais de prêmios e as tarifações especiais de seguros de acidentes do trabalho, revê-las anualmente e estabelecer a padronização das apólices desses seguros, das respectivas propostas, dos registros exigidos pelas leis e regulamentos, e dos métodos estatísticos que devem ser empregados na apuração do custo do risco, bem como dar parecer sôbre os casos omissos.
 
-<strong>Art</strong>. 14. Compete à 2.ª Câmara da C.P.T. fixar, em relação aos diferentes riscos e de acordo com a respectiva estatísticas, as tarifas gerais de prêmios e as tarifações especiais dos seguros dos ramos elementares, revê-las anualmente e estabelecer a padronização das apólices desses seguros, das respectivas propostas, dos registros exigidos pelas leis e regulamentos e exigidos pelas leis e regulamentos e dos métodos estatísticos que devem ser empregados na apuração do custo do risco, bem como dar parecer sôbre os casos omissos.
+**Art**. 14. Compete à 2.ª Câmara da C.P.T. fixar, em relação aos diferentes riscos e de acordo com a respectiva estatísticas, as tarifas gerais de prêmios e as tarifações especiais dos seguros dos ramos elementares, revê-las anualmente e estabelecer a padronização das apólices desses seguros, das respectivas propostas, dos registros exigidos pelas leis e regulamentos e exigidos pelas leis e regulamentos e dos métodos estatísticos que devem ser empregados na apuração do custo do risco, bem como dar parecer sôbre os casos omissos.
 
-<strong>Art</strong>. 15. Cada Câmara reunir-se-á, obrigatòriamente, o número de vezes que for fixado no respectivo regimento interno e, extraordinàriamente, quando convocada pelo seu presidente.
+**Art**. 15. Cada Câmara reunir-se-á, obrigatòriamente, o número de vezes que for fixado no respectivo regimento interno e, extraordinàriamente, quando convocada pelo seu presidente.
 
-<strong>Art</strong>. 16. Servirão de secretários do C.A., da C.P.T. e das duas Câmaras desta os servidores do S. At. que forem designados pelos seus respectivos presidentes.
+**Art**. 16. Servirão de secretários do C.A., da C.P.T. e das duas Câmaras desta os servidores do S. At. que forem designados pelos seus respectivos presidentes.
 
-<strong>Art</strong>. 17. À T.A. compete controlar o movimento de papéis e a distribuição de material no S. At., dirigir a biblioteca especializada da repartição, organizar os resumos de freqüência do pessoal, preparar o expediente a ser assinado pelo diretor e providenciar para a sua publicação no <em>Diário Oficial</em> bem como efetuar os demais serviços complementares que lhe forem atribuídos pelo Secretário do diretor.
+**Art**. 17. À T.A. compete controlar o movimento de papéis e a distribuição de material no S. At., dirigir a biblioteca especializada da repartição, organizar os resumos de freqüência do pessoal, preparar o expediente a ser assinado pelo diretor e providenciar para a sua publicação no *Diário Oficial* bem como efetuar os demais serviços complementares que lhe forem atribuídos pelo Secretário do diretor.
 
-<strong>Art</strong>. 18. À T.M. compete efetuar todos os trabalhos de preparação, apuração e cálculo que lhe fôrem distribuídos pelo chefe da Sc. P.
+**Art**. 18. À T.M. compete efetuar todos os trabalhos de preparação, apuração e cálculo que lhe fôrem distribuídos pelo chefe da Sc. P.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 19. Ao diretor incumbe;
+**Art**. 19. Ao diretor incumbe;
 
 a) orientar e coordenar as atividades do serviço;
 
@@ -302,7 +300,7 @@ ll) determinar o arquivamento de processo e papéis.
 
 Parágrafo único. O Diretor poderá delegar atribuições aos Chefes de Seção, para assinarem os expedientes referentes á diligências necessárias ao rápido andamento dos processos e para arquivamento destes, e ao Secretário, para distribuir pelos vários órgãos do S. At., segundo a sua competência, os papéis e processos entrados na Repartição.
 
-<strong>Art</strong>. 20. Aos chefes de seção incumbe:
+**Art**. 20. Aos chefes de seção incumbe:
 
 a) dirigir e fiscalizar os trabalhos da respectiva seção;
 
@@ -334,7 +332,7 @@ o) proferir despachos interlocutórios tendentes a esclarecer e instruir os proc
 
 p) opinar nos processos em que das suas decisões haja sido interposto recurso para o Diretor;
 
-<strong>Art</strong>. 21. Ao Secretário do Diretor incumbe:
+**Art**. 21. Ao Secretário do Diretor incumbe:
 
 a) atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -346,29 +344,29 @@ d) dirigir, orientar e fiscalizar a T. A.;
 
 e) executar os trabalhos suplementares que lhe forem distribuídos.
 
-<strong>Art</strong>. 22. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 22. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA DOTAÇÃO</em>
+*DA DOTAÇÃO*
 
-<strong>Art</strong>. 23. O Serviço Atuarial terá a lotação aprovada em decreto.
+**Art**. 23. O Serviço Atuarial terá a lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, o Serviço poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 24. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 24. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 25. Não estão sujeitos a ponto o Diretor e os atuários, devendo, porém, estar presentes ao serviço durante o período normal de trabalho e sempre que sua presença se tornar necessária.
+**Art**. 25. Não estão sujeitos a ponto o Diretor e os atuários, devendo, porém, estar presentes ao serviço durante o período normal de trabalho e sempre que sua presença se tornar necessária.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 26. Serão substituídos, automáticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 26. Serão substituídos, automáticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 a) o Diretor por um dos Chefes de Seção de sua indicação e designado pelo Ministro de Estado;
 
@@ -376,18 +374,18 @@ b) os Chefes de Seção e o Secretário, por servidores indicados por êles e de
 
 Parágrafo único. Haverá sempre servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 27. Mediante instruções de serviço do respectivo chefe, as seções poderão desdobrar-se em turmas.
+**Art**. 27. Mediante instruções de serviço do respectivo chefe, as seções poderão desdobrar-se em turmas.
 
-<strong>Art</strong>. 28. Nenhum servidor poderá fazer publicações e conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades funcionais do S. At., sem autorização escrita do Diretor.
+**Art**. 28. Nenhum servidor poderá fazer publicações e conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades funcionais do S. At., sem autorização escrita do Diretor.
 
-<strong>Art</strong>. 29. Os trabalhos realizados pelo S. At. deverão ser publicados ‘’Revista Brasileira de Atuária’’, a critério do Diretor, ou, mediante autorização dêste, em revistas nacionais ou estrangeiras, com citação porém obrigatória de sua origem.
+**Art**. 29. Os trabalhos realizados pelo S. At. deverão ser publicados ‘’Revista Brasileira de Atuária’’, a critério do Diretor, ou, mediante autorização dêste, em revistas nacionais ou estrangeiras, com citação porém obrigatória de sua origem.
 
-<strong>Art</strong>. 30. Os trabalhos técnicos de nacionais estranhos ao S. At., ou de estrangeiros, a serem publicado na ‘’Revista Brasileira de Atuária’’ estão sujeitos a prévio exame do Diretor.
+**Art**. 30. Os trabalhos técnicos de nacionais estranhos ao S. At., ou de estrangeiros, a serem publicado na ‘’Revista Brasileira de Atuária’’ estão sujeitos a prévio exame do Diretor.
 
 Rio de Janeiro, 13 de dezembro de 1945.
 
-<strong>R. CARNEIRO DA CUNHA</strong>
+**R. CARNEIRO DA CUNHA**

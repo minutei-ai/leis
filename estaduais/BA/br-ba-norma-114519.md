@@ -1,6 +1,7 @@
 LEI Nº 1.638 DE 10 DE MARÇO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.720](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#_GoBack) , de 27 de abril de 2017. Atualiza, na forma da Lei 12.057/2011, os limites dos municípios de Acajutiba, Alagoinhas, Aporá, Araçás, Aramari, Cardeal da Silva, Catu, Conde, Crisópolis, Entre Rios, Esplanada, Inhambupe, Itanagra, Itapicuru, Jandaíra, Olindina, Ouriçangas, Pedrão, Pojuca e Rio Real.
 
 Inclui ligações rodoviárias no Plano Rodoviário Estadual.
@@ -43,7 +44,7 @@ Leia-se:
 
 Juracy Magalhães, Vieira de Melo, Josaphat Marinho.
 
-* * *
+ *
 
 LEI Nº 1.638 DE 12 DE MARÇO DE 1962
 
@@ -107,4 +108,4 @@ Onde se lê: Lei nº 1638, de 12.3.1962.
 
 Leia-se: Lei nº 1639, de 12.3.1962.
 
-* * *
+ *

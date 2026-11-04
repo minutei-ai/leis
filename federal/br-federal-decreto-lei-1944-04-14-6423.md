@@ -1,5 +1,3 @@
-###DEL-006423-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.423 – DE 14 DE ABRIL DE 1944
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção do impôsto territorial incidente sôbre terreno de propriedade da Sociedade Nacional de Agricultura, nas condições que menciona

@@ -1,5 +1,3 @@
-###DEC-045653-0-000-25-03-1959@@@
-
 DECRETO Nº 45.653, DE 25 DE MARÇO DE 1959.
 
 Suprime a alínea g do art. 11 do Regulamento para a Secretaria Geral da Marinha.

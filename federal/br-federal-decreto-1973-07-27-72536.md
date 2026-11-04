@@ -1,5 +1,3 @@
-###DEC-072536-0-000-27-07-1973@@@
-
 decreto nº 72.536, de 27 de julho de 1973.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Município de Campo Grande, Estado de Mato Grosso.

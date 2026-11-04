@@ -1,5 +1,3 @@
-###DEC-062264-0-000-14-02-1968@@@
-
 Decreto nº 62.264, de 14 de fevereiro de 1968.
 
 Declara sem efeito o Decreto número 57.538, de 29 de dezembro de 1965.

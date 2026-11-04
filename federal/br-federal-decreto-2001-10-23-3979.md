@@ -1,5 +1,3 @@
-###DEC-003979-0-000-23-10-2001@@@
-
 DECRETO Nº 3.979 , DE 23 DE OUTUBRO DE 2001
 
 Prorroga por mais trinta dias a assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras, conforme o disposto na Medida Provisória nº 2, de 24 de setembro de 2001, e dá outras providências.

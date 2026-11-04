@@ -1,5 +1,3 @@
-###DEC-090790-0-000-09-01-1985@@@
-
 Decreto nº 90.790, de 09 de janeiro de 1985
 
 Disciplina a atuação da Companhia Hidro Elétrica do São Francisco - CHESF em área de concessionário de distribuição de energia elétrica, e dá outras providências.

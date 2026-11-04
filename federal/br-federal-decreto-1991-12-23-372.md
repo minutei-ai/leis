@@ -1,7 +1,3 @@
-1
-
-###DEC-000372-0-000-23-12-1991@@@
-
 DECRETO N° 372, DE 23 DE DEZEMBRO DE 1991
 
 Estabelece o valor máximo do conjunto das deduções, relativas a doações ou patrocínios em favor de projetos culturais.

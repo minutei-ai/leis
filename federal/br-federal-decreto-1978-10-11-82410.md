@@ -1,5 +1,3 @@
-###DEC-082410-0-000-11-10-1978@@@
-
 Decreto nº 82.410, de 11 de outubro de 1978.
 
 Revoga os Decretos que, respectivamente, aprova e altera o Regulamento da Pagadoria de Inativos e Pensionistas da Marinha.

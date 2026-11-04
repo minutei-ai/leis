@@ -1,5 +1,3 @@
-###DEC-060438-0-000-13-03-1967@@@
-
 DECRETO Nº 60.438, DE 13 DE MARÇO DE 1967.
 
 Cria na Secretaria-Geral da Marinha o “Grupo Executivo de Coordenação e Controle do Plano Diretor”, e dá outras providências.

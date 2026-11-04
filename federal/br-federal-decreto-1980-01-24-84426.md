@@ -1,5 +1,3 @@
-###DEC-084426-0-000-24-01-1980@@@
-
 Decreto nº 84.426, de 24 de janeiro de 1980.
 
 Dispõe sobre a estrutura básica do Departamento Nacional de Obras de Saneamento - DNOS.

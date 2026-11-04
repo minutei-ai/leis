@@ -1,5 +1,3 @@
-###DEC-064957-0-000-07-08-1969@@@
-
 DECRETO Nº 64.957 - DE 7 DE AGôSTO DE 1969.
 
 Eleva à categoria de Colégio o Ginásio Agrícola de Belo Jardim, no Estado de Pernambuco.

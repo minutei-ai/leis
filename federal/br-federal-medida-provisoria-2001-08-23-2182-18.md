@@ -1,5 +1,3 @@
-###MPV-002182-0-018-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.182-18, DE 23 DE AGOSTO DE 2001
 
  Institui, no âmbito da União, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências.

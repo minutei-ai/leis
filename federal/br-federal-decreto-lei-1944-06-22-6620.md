@@ -1,5 +1,3 @@
-###DEL-006620-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.620 – DE 22 DE JUNHO DE 1944
 
 Altera dispositivo do Decreto-lei nº 5.570, de 10 de junho de 1943, que estabeleceu a coordenação dos orçamentos e balanços das autarquias federais

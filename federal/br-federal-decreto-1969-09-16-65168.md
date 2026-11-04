@@ -1,5 +1,3 @@
-###DEC-065168-0-000-16-09-1969@@@
-
 DECRETO Nº 65.168 - DE 16 SETEMBRO DE 1969.
 
 Declara de utilidades pública a Associação das Ex-Alunas das Irmãs de Santa Catarina, com sede em Novo Hamburgo, Estado Rio Grande do Sul.

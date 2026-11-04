@@ -1,5 +1,3 @@
-###DEC-049044-0-000-05-10-1960@@@
-
 DECRETO Nº 49.044, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alcenor de Oliveira Corrêa a pesquisar calcário no município de Matosinhos, Estado de Minas Gerais.

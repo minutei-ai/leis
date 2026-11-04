@@ -28,5 +28,6 @@ Deputado LISSAUER VIEIRA
 
 – PRESIDENTE –
 
-AMAURI RIBEIRO<br>
+AMAURI RIBEIRO
+
 Deputado Estadual

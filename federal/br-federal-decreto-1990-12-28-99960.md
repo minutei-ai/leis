@@ -1,7 +1,3 @@
-1
-
-###DEC-099960-0-000-28-12-1990@@@
-
 # DECRETO Nº 99.960, DE 28 DE DEZEMBRO DE 1990
 
 Autoriza a Telecomunicações Brasileiras S.A (Telebrás} a promover aumento de capital social.

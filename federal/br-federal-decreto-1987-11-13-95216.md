@@ -1,5 +1,3 @@
-###DEC-095216-0-000-13-11-1987@@@
-
 DECRETO N° 95.216, DE 13 DE NOVEMBRO DE 1987
 
 Declara de utilidade pública para fins de desapropriação imóvel situado em Sabará, MG.

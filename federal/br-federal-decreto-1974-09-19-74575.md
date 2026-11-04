@@ -1,5 +1,3 @@
-###DEC-074575-0-000-19-09-1974@@@
-
 DECRETO Nº 74.575, DE 19 DE SETEMBRO DE 1974.
 
 Declara a cessação da exploração de serviços públicos de energia elétrica, outorga concessão à Companhia Força e Luz Cataguazes - Leopoldina e dá outras providências.

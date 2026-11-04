@@ -1,5 +1,3 @@
-###DEC-004698-0-000-16-05-2003@@@
-
 DECRETO Nº 4.698, DE 16 DE MAIO DE 2003.
 
        Mantém remanejado, até 30 de junho de 2003, em caráter excepcional, o cargo que menciona, e dá outras providências.
@@ -18,5 +16,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
 Brasília, 16 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

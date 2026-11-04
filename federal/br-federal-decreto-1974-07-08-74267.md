@@ -1,5 +1,3 @@
-###DEC-074267-0-000-08-07-1974@@@
-
 DECRETO Nº 74.267 - DE 8 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Patos S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Patos de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-005233-0-000-08-02-1943@@@
-
 DECRETO‑LEI N. 5.233 – DE 8 DE FEVEREIRO DE 1943
 
 Transfere cargo no Quadro Suplementar do Ministério da Fazenda, e dá outras providências

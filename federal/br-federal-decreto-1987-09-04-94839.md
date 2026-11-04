@@ -1,5 +1,3 @@
-###DEC-094839-0-000-04-09-1987@@@
-
 DECRETO Nº 94.839, DE 4 DE SETEMBRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Butiá", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Mafra, no Estado de Santa Catarina, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.693, de 19 de maio de 1986, e dá outras providências.

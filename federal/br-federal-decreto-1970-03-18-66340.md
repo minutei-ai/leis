@@ -1,5 +1,3 @@
-###DEC-066340-0-000-18-03-1970@@@
-
 DECRETO Nº 66.340 - DE 18 DE março DE 1970
 
 Dá nova redação ao artigo 7º do Decreto nº 51.860, de 22 de março de 1963.

@@ -4,17 +4,20 @@ Dispõe sobre a organização dos Serviços Técnicos e Auxiliares do Juizado de
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÃO PRELIMINAR
 
 Art. 1º - Ficam organizados, na forma indicada nesta Lei, os Serviços Técnicos e Auxiliares do Juizado de Menores da Comarca de Salvador.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 FINALIDADE
 
 Art. 2º - Os Serviços Técnicos e Auxiliares do Juizado de Menores têm como finalidade prestar assistência técnica e administrativa às Varas de Menores, bem como prestar serviços específicos à coletividade.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 ESTRUTURA
 
 Art. 3º - Os Serviços Técnicos e Auxiliares do Juizado de Menores têm a seguinte estrutura:
@@ -37,7 +40,8 @@ VII - Serviço de Fiscalização.
 
 §2º - Os demais órgãos referidos neste artigo terão as subdivisões estruturais estabelecidas ou detalhadas, com as respectivas competências, no Regimento do Juizado de Menores, segundo as conveniências do serviço.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 COMPETÊNCIA DOS ÓRGÃOS DO JUIZADO
 
 Art. 4º - Ao Gabinete, que presta assistência ao Juiz que administra o Juizado de Menores, compete:
@@ -120,7 +124,8 @@ VI - conduzir o menor ao destino determinado em decisão judicial;
 
 VII - exercer outras atividades correlatas.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 §1º - Os cargos de direção e assessoramento serão providos pelo Presidente do Tribunal de Justiça do Estado, mediante proposta do Juiz de Menores, administrador do Juizado.

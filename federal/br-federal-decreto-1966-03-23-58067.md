@@ -1,5 +1,3 @@
-###DEC-058067-0-000-23-03-1966@@@
-
 DECRETO Nº 58.067, DE 23 DE MARÇO DE 1966.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

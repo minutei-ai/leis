@@ -1,5 +1,3 @@
-###DEC-068509-0-000-15-04-1971@@@
-
 DECRETO Nº 68.509 - DE 15 de ABRIL DE 1971.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Guarabira. PB.

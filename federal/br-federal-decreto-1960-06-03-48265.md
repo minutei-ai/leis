@@ -1,5 +1,3 @@
-###DEC-048265-0-000-03-06-1960@@@
-
 Decreto nº 48.265, de 03 de junho de 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Salvador de Seguros.

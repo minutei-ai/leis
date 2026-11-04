@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210131)<br>
-
 # DECRETO N° 68.984, DE 21 DE OUTUBRO DE 2024
 
 ### _Cria a 3ª Delegacia de Polícia de Crimes contra os Animais, da Divisão de Investigações sobre Infrações contra o Meio Ambiente, do Departamento de Polícia de Proteção à Cidadania "Dr. Luiz Lasserre Gomes" - DPPC, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e dá providências correlatas._

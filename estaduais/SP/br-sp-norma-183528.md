@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183528)
-
 # DECRETO Nº 62.868, DE 04 DE OUTUBRO DE 2017
 
 ### _Autoriza a abertura de licitação e aprova o Regulamento da Concessão Onerosa dos Serviços Públicos de Exploração do Sistema Rodoviário definido por Lote Rodoanel Norte, na forma que especifica_
@@ -42,14 +40,20 @@ Palácio dos Bandeirantes, 4 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 4 de outubro de 2017.
 
-#### <br>
-ANEXO<br>
+####
+
+ANEXO
+
 a que se refere o artigo 3° do [Decreto Nº 62.868, de 4 de outubro de 2017](http://www.al.sp.gov.br/norma?id=183528)
 
 #### REGULAMENTO DA CONCESSÃO ONEROSA DOS SERVIÇOS PÚBLICOS DE EXPLORAÇÃO DO SISTEMA RODOVIÁRIO DEFINIDO POR LOTE RODOANEL NORTE

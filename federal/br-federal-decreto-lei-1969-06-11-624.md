@@ -1,5 +1,3 @@
-###DEL-000624-0-000-11-06-1969@@@
-
 decreto-Lei nº 624, de 11 de Junho de 1969
 
 Autoriza a inclusão de dotações nos projetos dos Orçamentos Anuais para os exercícios de 1970, 1971 e 1972 e fixa os respectivos montantes para o fim indicado.

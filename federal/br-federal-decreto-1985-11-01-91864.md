@@ -1,5 +1,3 @@
-###DEC-091864-0-000-01-11-1985@@@
-
 Decreto nº 91.864, de 01 de novembro de 1985
 
 Renova a concessão outorgada à RÁDIO CACIQUE DE SOROCABA LTDA., para explorar serviço de radiodifusão sonora em ondas tropicais, na cidade de Sorocaba, Estado de São Paulo.

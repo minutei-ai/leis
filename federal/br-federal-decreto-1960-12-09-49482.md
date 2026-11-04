@@ -1,5 +1,3 @@
-###DEC-049482-0-000-09-12-1960@@@
-
 DECRETO Nº 49.482, DE 9 DE DEZEMBRO DE 1960.
 
 Concede à Cerâmica Martini S.A. autorização para funcionar como emprêsa de mineração.

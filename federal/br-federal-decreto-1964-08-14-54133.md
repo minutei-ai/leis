@@ -1,5 +1,3 @@
-###DEC-054133-0-000-14-08-1964@@@
-
 DECRETO Nº 54.133, DE 14 DE AGÔSTO DE 1964.
 
 Autoriza o cidadão brasileiro José Torres de Freitas a pesquisar ouro no município de Pitangui, Estado de Minas Gerais.

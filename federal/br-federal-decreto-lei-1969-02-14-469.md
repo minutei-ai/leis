@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/49a3930a-eb85-493d-9efc-374ce2f9b90a/texto#nowhere)
 
-###DEL-000469-0-000-14-02-1969@@@
-
 DECRETO-LEI Nº 469, DE 14 DE FEVEREIRO DE 1969
 
 Modifica dispositivos da Lei nº 4.048, de 29 de dezembro de 1961, que dispõe sôbre a organização do Ministério da Indústria e do Comércio e dá outras providências.

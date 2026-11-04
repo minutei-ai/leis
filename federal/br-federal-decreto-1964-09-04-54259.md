@@ -1,5 +1,3 @@
-###DEC-054259-0-000-04-09-1964@@@
-
 DECRETO Nº 54.259, DE 4 DE SETEMBRO DE 1964.
 
 Dá nova redação aos arts. 2º e 18 do Regimento do Serviço de Meteorologia do Ministério da Agricultura.

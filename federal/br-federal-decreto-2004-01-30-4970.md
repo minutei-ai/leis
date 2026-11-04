@@ -1,5 +1,3 @@
-###DEC-004970-0-000-30-01-2004@@@
-
 DECRETO Nº 4.970,  DE 30 DE JANEIRO DE 2004.
 
 Dá nova redação ao art. 1º do Decreto nº 4.932, de 23 de dezembro de 2003, que dispõe sobre a delegação de competências à Agência Nacional de Energia Elétrica - ANEEL previstas na Medida Provisória nº 144, de 11 de dezembro de 2003, e define o índice de atualização monetária das quotas de que trata o § 1º do art. 13 da Lei nº 10.438, de 26 de abril de 2002.

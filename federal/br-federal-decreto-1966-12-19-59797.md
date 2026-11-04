@@ -1,5 +1,3 @@
-###DEC-059797-0-000-19-12-1966@@@
-
 DECRETO Nº 59.797, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Francisco Augusto Werner Filho a pesquisar calcário no Município de Vidal Ramos, Estado de Santa Catarina.

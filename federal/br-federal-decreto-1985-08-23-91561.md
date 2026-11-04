@@ -1,5 +1,3 @@
-###DEC-091561-0-000-23-08-1985@@@
-
 DECRETO nº 91.561, dE 23 de agosto 1985
 
 Renova a concessão outorgada à RÁDIO PRINCESA LTDA., para explorar serviços de radiodifusão sonora em onda média, na cidade de Lages, Estado de Santa Catarina.

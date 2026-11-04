@@ -1,5 +1,3 @@
-###DEC-059435-0-000-27-10-1966@@@
-
 DECRETO Nº 59.435, DE 27 DE OUTUBRO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terrenos que menciona, situados no Município de Belo Horizonte, em Minas Gerais.

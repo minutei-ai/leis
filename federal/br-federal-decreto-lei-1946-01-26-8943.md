@@ -1,5 +1,3 @@
-###DEL-008943-0-000-26-01-1946@@@
-
 DECRETO-LEI  N. 8.943 – DE 26 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a vender ao Banco da Prefeitura do Distrito Federal S. A. o imóvel que menciona.

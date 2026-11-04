@@ -1,5 +1,3 @@
-###DEL-006894-0-000-22-09-1944@@@
-
 DECRETO-LEI N. 6.894 – DE 22 DE SETEMBRO DE 1944
 
 Autoriza a aquisição da um imóvel para o serviço do Comando Naval do Nordeste

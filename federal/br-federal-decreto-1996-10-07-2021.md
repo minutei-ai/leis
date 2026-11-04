@@ -1,7 +1,3 @@
-1
-
-###DEC-002021-0-000-07-10-1996@@@
-
 DECRETO Nº 2.021, DE 7 DE OUTUBRO DE 1996.
 
 Transfere a cumulatividade da Embaixada do Brasil na República de Seychelles para a Embaixada do Brasil em Moçambique.

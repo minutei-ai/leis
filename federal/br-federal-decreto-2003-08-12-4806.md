@@ -1,5 +1,3 @@
-###DEC-004806-0-000-12-08-2003@@@
-
 DECRETO Nº 4.806, DE 12 DE AGOSTO DE 2003.
 
        Promulga o Protocolo Relativo a uma Emenda ao Artigo 50 a), da Convenção sobre Aviação Civil Internacional.
@@ -22,7 +20,8 @@ DECRETO Nº 4.806, DE 12 DE AGOSTO DE 2003.
 
         Brasília, 12 de agosto de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 PROTOCOLO RELATIVO A UMA EMENDA
@@ -67,9 +66,12 @@ A Assembléia da Organização de Aviação Civil Internacional,
 
         Feito em Montreal, no dia vinte e seis de outubro de mil novecentos e noventa, em um exemplar único, redigido nos idiomas espanhol, francês, inglês e russo, sendo cada um dos quatro igualmente autêntico. O presente Protocolo ficará depositado nos arquivos da Organização de Aviação Civil Internacional e o Secretário-Geral da Organização transmitirá cópias autenticadas do mesmo a todos os Estados partes na Convenção de Aviação Civil Internacional, feita em Chicago, no dia 7 de dezembro de 1944.
 
-Assad Kotaite<br>
-Presidente do 28º Período<br>
+Assad Kotaite
+
+Presidente do 28º Período
+
 (Extraordinário) de Sessões da Assembléia
 
-S. S. Sidhu<br>
+S. S. Sidhu
+
 Secretário-Geral

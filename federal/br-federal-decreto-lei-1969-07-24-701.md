@@ -1,5 +1,3 @@
-###DEL-000701-0-000-24-07-1969@@@
-
 DECRETO-LEI Nº 701, DE 24 DE JULHO DE 1969
 
 Autoriza o Poder Executivo a instituir um fundo especial, denominado Fundo Nacional de Saúde (FNS) e dá outras providências

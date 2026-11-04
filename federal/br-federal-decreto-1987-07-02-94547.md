@@ -1,5 +1,3 @@
-###DEC-094547-0-000-02-07-1987@@@
-
 DECRETO N° 94.547, DE 2 DE JULHO DE 1987
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Complementação Econômica subscrito entre o Brasil e o Uruguai (N° 2).

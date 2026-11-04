@@ -1,5 +1,3 @@
-###DEC-074379-0-000-08-08-1974@@@
-
 DECRETO Nº 74.379 - DE 8 DE AGOSTO DE 1974.
 
 Dispõe sobre atribuições de Telecomunicações Brasileiras S.A. - TELEBRÁS, com as prerrogativas de concessionária de serviço público, para executar, através de subsidiárias ou associadas, a implantação e exploração de serviços públicos de telecomunicações e dá outras providencias.

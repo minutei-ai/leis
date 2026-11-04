@@ -1,5 +1,3 @@
-###DEC-089550-0-000-11-04-1984@@@
-
 Decreto nº 89.550, de 11 de abril de 1984
 
 Autoriza o funcionamento dos cursos de Ciências, Administração, Ciências Contábeis e Ciências Econômicas da Fundação do Ensino Superior de Rio Verde, Goiás.

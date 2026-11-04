@@ -1,5 +1,3 @@
-###MPV-000785-0-000-23-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 785, DE 23 DE DEZEMBRO DE 1994
 
 Dispõe  sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do REAL e os critérios para conversão das obrigações para o REAL, e dá outras providências.

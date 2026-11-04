@@ -1,5 +1,3 @@
-###DEC-065479-0-000-21-10-1969@@@
-
 DECRETO Nº 65.479 - DE 21 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que especifica, no Município de Pau dos Ferros, no Estado do Rio Grande do Norte.

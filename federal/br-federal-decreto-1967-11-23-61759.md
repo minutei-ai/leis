@@ -1,5 +1,3 @@
-###DEC-061759-0-000-23-11-1967@@@
-
 DECRETO Nº 61.759, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza a Companhia de Mineração Novalimense a lavrar minérios de ferro, manganês e dolomita no município de Nova Lima, Estado de Minas Gerais.

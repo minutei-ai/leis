@@ -1,5 +1,3 @@
-###DEC-007959-0-000-13-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.959, DE 13 DE MARÇO DE 2013
 
 Dispõe sobre o Plano Nacional de Políticas para as Mulheres, para o período de 2013 a 2015, altera o Decreto nº 5.390, de 8 de março de 2005, e dá outras providências.

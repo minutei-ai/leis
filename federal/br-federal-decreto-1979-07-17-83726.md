@@ -1,5 +1,3 @@
-###DEC-083726-0-000-17-07-1979@@@
-
 Decreto nº 83.726, de 17 de julho de 1979.
 
 Aprova o Estatuto da Empresa Brasileira  de Correios e Telégrafos - ECT.

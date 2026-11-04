@@ -1,5 +1,3 @@
-###DEC-066171-0-000-04-02-1970@@@
-
 DECRETO Nº 66.171 - DE 4 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Jaguari até a Fazenda Pealton, no município de Pedreira, Estado de São Paulo.

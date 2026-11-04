@@ -1,5 +1,3 @@
-###DEL-009521-0-000-26-07-1946@@@
-
 DECRETO-LEI N. 9.521 – DE 26 DE JULHO DE 1946
 
 Modifica os Decretos-leis ns. 4.648, de 2 de Setembro de 1942, e 7.024, de 6 de Novembro de 1944, regula o destino dos bens deixados por Henrique Lage, e dá outras providências..

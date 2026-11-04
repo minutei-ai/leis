@@ -1,5 +1,3 @@
-###DEC-005202-0-000-02-09-2004@@@
-
 DECRETO Nº 5.202 DE 2 DE SETEMBRO DE 2004
 
 Cria Escritório de Representação do Brasil em Ramalá, na Cisjordânia, e dá outras providências.

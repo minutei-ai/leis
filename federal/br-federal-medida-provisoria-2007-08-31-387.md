@@ -1,5 +1,3 @@
-###MPV-000387-0-000-31-08-2007@@@
-
 MEDIDA PROVISÓRIA Nº 387, DE 31 DE AGOSTO DE 2007.
 
 Dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e sobre a forma de operacionalização do Programa de Subsídio à Habitação de Interesse Social - PSH nos exercícios de 2007 e 2008.                   
@@ -65,5 +63,3 @@ Guido Mantega
 Paulo Bernardo Silva
 
 Dilma Reoussef
-
-Este texto não substitui o publicado no DOU de 3.9.2007

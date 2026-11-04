@@ -1,5 +1,3 @@
-###MPV-001920-0-001-21-10-1999@@@
-
 medida provisória nº 1.920-1, de 21 de outubro de 1999.
 
 Dispõe sobre a realização de contratos de financiamento de projetos de estruturação dos assentados e colonos nos programas oficiais de assentamento, colonização e reforma agrária, aprovados pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, com risco para o Tesouro Nacional ou para Fundos Constitucionais das Regiões Norte, Nordeste e Centro-Oeste.

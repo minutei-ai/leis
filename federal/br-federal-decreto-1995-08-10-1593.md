@@ -1,7 +1,3 @@
-1
-
-###DEC-001593-0-000-10-08-1995@@@
-
 DECRETO Nº 1.593, DE 10 DE AGOSTO DE 1995.
 
 Dá nova redação ao art. 4º do Regulamento da Comissão Nacional para Assuntos Antárticos, aprovado pelo Decreto nº 123, de 20 de maio de 1991.

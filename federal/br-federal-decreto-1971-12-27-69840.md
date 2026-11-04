@@ -1,5 +1,3 @@
-###DEC-069840-0-000-27-12-1971@@@
-
 decreto nº 69.840 - de 27 DE DEZEMBRO de 1971
 
 Aproveita, no Quadro de Pessoal do Ministério da Marinha, servidores em disponibilidade e dá outras providências.

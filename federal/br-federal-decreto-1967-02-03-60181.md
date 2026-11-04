@@ -1,5 +1,3 @@
-###DEC-060181-0-000-03-02-1967@@@
-
 DECRETO Nº 60.181, DE 3 DE FEVEREIRO DE 1967.
 
 Autoriza o cidadão brasileiro José Thomaz de Aquino Pereira a pesquisar diamantes no município de Diamantina, no Estado de Minas Gerais.

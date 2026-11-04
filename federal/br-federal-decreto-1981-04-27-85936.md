@@ -1,5 +1,3 @@
-###DEC-085936-0-000-27-04-1981@@@
-
 Decreto nº 85.936, De 27 de abRIL de 1981.
 
 Dispõe sobre o capital da Caixa Econômica Federal-CEF.

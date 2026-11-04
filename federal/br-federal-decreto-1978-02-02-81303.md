@@ -1,5 +1,3 @@
-###DEC-081303-0-000-02-02-1978@@@
-
 Decreto nº 81 303, de 2 de fevereiro de 1978.
 
 Concede à Empresa de Mineração Horii Ltda. o direito de lavrar calcário no Município de Guapiara, Estado de São Paulo.

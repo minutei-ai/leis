@@ -1,5 +1,3 @@
-###DEC-006495-0-000-30-06-2008@@@
-
 DECRETO Nº 6.495, DE 30 DE JUNHO DE 2008.
 
 Institui o Programa de Extensão Universitária - PROEXT.

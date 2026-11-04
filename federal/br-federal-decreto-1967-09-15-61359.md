@@ -1,5 +1,3 @@
-###DEC-061359-0-000-15-09-1967@@@
-
 DECRETO Nº 61.359, DE 15 DE SETEMBRO DE 1967.
 
 Autoriza estrangeiros a adquiri, em transferência de aforamento, o domínio útil do terreno nacional interior que menciona, no Estado da Bahia.

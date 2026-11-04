@@ -206,8 +206,6 @@ Art. 4º Este Decreto entra em vigor no dia 14 de fevereiro de 2022.
 
 Goiânia, 9 de fevereiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

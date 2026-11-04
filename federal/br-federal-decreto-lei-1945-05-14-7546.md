@@ -1,5 +1,3 @@
-###DEL-007546-0-000-14-05-1945@@@
-
 (\*) DECRETO-LEI N. 7.546 – DE 14 DE MAIO DE 1945
 
 Dispõe sôbre o afastamento de servidores brasileiros para trabalho junto à U. N. R. R. A.

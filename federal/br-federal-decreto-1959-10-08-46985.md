@@ -1,5 +1,3 @@
-###DEC-046985-0-000-08-10-1959@@@
-
 DECRETO Nº 46.985, DE 8 DE OUTUBRO DE 1959.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$31.400.237,30, para o fim que menciona.

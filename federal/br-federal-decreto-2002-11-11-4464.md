@@ -1,5 +1,3 @@
-###DEC-004464-0-000-11-11-2002@@@
-
 DECRETO Nº 4.464, DE 11 DE NOVEMBRO DE 2002 - 1ª PARTE
 
 Altera o Programa de Dispêndios Globais -PDG de diversas empresas estatais federais, aprovado pelo Decreto nº 4.068, de 27 de dezembro de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047425-0-000-14-12-1959@@@
-
 DECRETO Nº 47.425, DE 14 DE Dezembro DE 1959.
 
 Transfere, sem aumento de despesas, funções de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra.

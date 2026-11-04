@@ -1,5 +1,3 @@
-###DEC-081860-0-000-27-06-1978@@@
-
 Decreto nº 81.860, de 27 de junho de 1978.
 
 Concede à Itagipe S.A. - Empresa Brasileira de Mineração o direito de lavrar calcário no Município de Lagarto, Estado de Sergipe.

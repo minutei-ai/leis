@@ -1,5 +1,3 @@
-###DEC-092627-0-000-02-05-1986@@@
-
 DECRETO Nº 92.627, DE 2 DE MAIO DE 1986
 
 Dispõe sobre a estrutura básica do Instituto Nacional de Colonização e Reforma Agrária - INCRA e dá outras providências.

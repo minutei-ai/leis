@@ -1,5 +1,3 @@
-###DEC-070310-0-000-21-03-1972@@@
-
 DECRETO Nº 70.310, DE 21 DE MARÇO DE 1972.
 
 Classifica os órgãos de deliberação coletiva existente na área do Ministério da Indústria e do Comércio.

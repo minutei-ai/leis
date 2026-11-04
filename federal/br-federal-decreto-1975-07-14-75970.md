@@ -1,5 +1,3 @@
-###DEC-075970-0-000-14-07-1975@@@
-
 DECRETO Nº 75.970 - DE 14 DE JULHO DE 1975.
 
 Cria a Embaixada do Brasil na República de Malta.

@@ -1,5 +1,3 @@
-###DEL-004879-0-000-27-10-1942@@@
-
 DECRETO-LEI N. 4.879 – DE 27 DE OUTUBRO DE 1942
 
 Dispõe sobre atribuições do Conselho de Imprensa

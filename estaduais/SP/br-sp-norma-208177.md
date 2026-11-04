@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208177)<br>
-
 # DECRETO N° 67.740, DE 12 DE JUNHO DE 2023
 
 ### _Altera a denominação da Escola Estadual Escola Agrovila I, localizada no Município de Itapeva, para Escola Estadual ‘’Idalicio Mendes Lima, o Sr. Baiano da Agrovila I’’_

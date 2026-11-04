@@ -1,5 +1,3 @@
-###DEC-002810-0-000-22-10-1998@@@
-
 DECRETO Nº 2.810, DE 22 DE OUTUBRO DE 1998
 
 Dá nova redação ao art. 2º do Decreto nº 1.415, de 10 março de 1995, que cria a Assessoria de Estudos e Atividades Especiais no Estado-Maior das Forças Armadas.

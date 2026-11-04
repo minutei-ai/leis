@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59870)
-
 # LEI Nº 12.191, DE 06 DE JANEIRO DE 2006
 
 ### _Declara de utilidade pública entidade que especifica_

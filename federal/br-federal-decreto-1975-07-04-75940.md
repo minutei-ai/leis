@@ -1,5 +1,3 @@
-###DEC-075940-0-000-04-07-1975@@@
-
 DECRETO Nº 75.940 - DE 4 DE JULHO DE 1975.
 
 Altera dispositivo do Regulamento do Ministério Público da União junto à Justiça do Trabalho e dá outras providências.

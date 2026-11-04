@@ -1,5 +1,3 @@
-###DEC-069139-0-000-30-08-1971@@@
-
 Decreto nº 69.139, de 30 de agôsto de 1971.
 
 Concede à firma individual José Duarte Irmão o direito de lavrar mármore, no município de Curaçá, Estado da Bahia.

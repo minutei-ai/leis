@@ -1,5 +1,3 @@
-###DEC-084986-0-000-31-07-1980@@@
-
 Decreto nº 84.986, de 31 de julho de 1980.
 
 Cria, no Ministério da Aeronáutica o Hospital de Força Aérea do Galeão e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089673-0-000-16-05-1984@@@
-
 Decreto nº 89.673, de 16 de maio de 1984
 
 Autoriza o funcionamento do curso de Psicologia, da Faculdade de Psicologia de Joinville, Estado de Santa Catarina.

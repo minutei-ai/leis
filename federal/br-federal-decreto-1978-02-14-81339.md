@@ -1,5 +1,3 @@
-###DEC-081339-0-000-14-02-1978@@@
-
 Decreto nº 81.339, de 14 de fevereiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de São João dos Patos, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-082771-0-000-30-11-1978@@@
-
 Decreto nº 82.771, de 30 de novembro de 1978.
 
 Suspende a execução de disposições da Constituição do Estado do Rio de Janeiro.

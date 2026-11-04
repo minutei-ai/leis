@@ -1,5 +1,3 @@
-###DEC-094679-0-000-24-07-1987@@@
-
 DECRETO N° 94.679, DE 24 DE JULHO DE 1987
 
 Altera a composição da Comissão Nacional para os Assuntos Antárticos (CONANTAR).

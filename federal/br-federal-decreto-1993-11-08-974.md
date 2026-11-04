@@ -1,5 +1,3 @@
-###DEC-000974-0-000-08-11-1993@@@
-
 DECRETO N° 974, DE 8 DE NOVEMBRO DE 1993
 
 Regulamenta a Lei n° 8.685, de 20 de julho de 1993, que cria mecanismos de fomento à atividade audiovisual, e dá outras providências.

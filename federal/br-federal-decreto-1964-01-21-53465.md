@@ -1,5 +1,3 @@
-###DEC-053465-0-000-21-01-1964@@@
-
 Decreto nº 53.465, de 21 de janeiro de 1964.
 
 Institui o Programa Nacional de Alfabetização do Ministério da Educação e Cultura e dá outras providências.

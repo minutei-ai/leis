@@ -1,5 +1,3 @@
-###DEC-058770-0-000-28-06-1966@@@
-
 Decreto nº 58.770, de 28 de junho de 1966.
 
 Fixa os preços mínimos básicos relativos à safra do amendoim da sêca do ano de 1966, para o produto das Regiões Central e Meridional

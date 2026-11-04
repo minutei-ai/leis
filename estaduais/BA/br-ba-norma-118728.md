@@ -1,6 +1,7 @@
 LEI Nº 6.359 DE 30 DE DEZEMBRO DE 1991
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique. 
 
 Retifica os limites do Município de Cafarnaum, desmembrado do Município de Morro do Chapéu, estabelecidos pela [Lei nº 1.719/62](https://www.legislabahia.ba.gov.br/documentos/lei-no-1719-de-16-de-julho-de-1962#LO_1_719) .

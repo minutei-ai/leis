@@ -1,7 +1,3 @@
-1
-
-###DEC-000905-0-000-26-08-1993@@@
-
 DECRETO N° 905, DE 26 DE AGOSTO DE 1993
 
 Determina a alienação das participações societárias minoritárias, detidas pelas entidades da Administração Federal que menciona, e estabelece outras providências.

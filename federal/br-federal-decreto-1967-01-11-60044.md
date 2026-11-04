@@ -1,5 +1,3 @@
-###DEC-060044-0-000-11-01-1967@@@
-
 DECRETO Nº 60.044, DE 11 DE JANEIRO DE 1967.
 
 Autoriza a Paraná Comércio Administração S.A. a pesquisar calcário no município de Bocaiuva do Sul, Estado do Paraná.

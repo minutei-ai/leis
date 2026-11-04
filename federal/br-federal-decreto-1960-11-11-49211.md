@@ -1,5 +1,3 @@
-###DEC-049211-0-000-11-11-1960@@@
-
 DECRETO Nº 49.211, DE 11 DE novembro DE 1960.
 
 Aprova alteração introduzidas nos Estatutos, inclusive aumento do Capital social da Companhia de Seguros Minas Brasil .

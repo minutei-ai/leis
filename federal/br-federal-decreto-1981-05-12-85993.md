@@ -1,5 +1,3 @@
-###DEC-085993-0-000-12-05-1981@@@
-
 Decreto nº 85.993, de 12 de maio de 1981.
 
 Autoriza o funcionamento do curso de Graduação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º Grau, da Faculdade de Ciências Humanas do Cabo, com sede na cidade do Cabo, Estado de Pernambuco.

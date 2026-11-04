@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211163)<br>
-
 # LEI N° 18.173, DE 08 DE JULHO DE 2025
 
 ## (Projeto de lei n° 829/2024, do Deputado Sebastião Santos - REPUBLICANOS)

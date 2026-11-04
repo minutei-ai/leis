@@ -1,5 +1,3 @@
-###DEC-003725-0-000-10-01-2001@@@
-
 DECRETO Nº 3.725, DE 10 DE JANEIRO DE 2001
 
 Regulamenta a Lei nº 9.636, de 15 de maio de 1998, que dispõe sobre a regularização, administração, aforamento e alienação de bens imóveis de domínio da União, e dá outras providências.

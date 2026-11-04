@@ -1,5 +1,3 @@
-###DEL-000367-0-000-19-12-1968@@@
-
 DECRETO-LEI Nº 367, dE 19 de DEZEMBRO DE 1968
 
 Dispõe sôbre a contagem do tempo de serviço dos funcionários públicos civis da União e das Autarquias.

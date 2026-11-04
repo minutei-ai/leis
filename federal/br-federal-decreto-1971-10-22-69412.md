@@ -1,5 +1,3 @@
-###DEC-069412-0-000-22-10-1971@@@
-
 DECRETO Nº 69.412 - DE 22 DE OUTUBRO DE 1971
 
 Declara de interêsse social, para fins de desapropriação, área de terras no Estado do Paraná.

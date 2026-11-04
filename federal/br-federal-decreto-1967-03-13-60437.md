@@ -1,5 +1,3 @@
-###DEC-060437-0-000-13-03-1967@@@
-
 decreto nº 60.437, de 13 de março de 1967.
 
 Abre ao Ministério da Saúde o crédito especial de NCr$942.142,83 (novecentos e quarenta e dois mil, cento e quarenta e dois cruzeiros novos e oitenta e três centavos) destinado ao encargos de desapropriação de prédio ocupado pelo Laboratório Central de Contrôle de Drogas, Medicamentos e Alimentos.

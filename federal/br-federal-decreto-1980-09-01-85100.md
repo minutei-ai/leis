@@ -1,5 +1,3 @@
-###DEC-085100-0-000-01-09-1980@@@
-
 Decreto nº 85.100, de 1º de setembro de 1980.
 
 Dispõe sobre execução de operação de crédito externo e dá outras providências.

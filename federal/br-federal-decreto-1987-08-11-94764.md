@@ -1,5 +1,3 @@
-###DEC-094764-0-000-11-08-1987@@@
-
 DECRETO Nº 94.764, DE 11 DE AGOSTO DE 1987.
 
 Altera o Decreto nº 88.351, de 1º de junho de 1983, que regulamenta a Lei nº 6.938, de 31 de agosto de 1981, e a Lei nº 6.902, de 27 de abril de 1981, que dispõem, respectivamente, sobre a Política Nacional do Meio Ambiente e sobre a criação de Estações Ecológicas e Áreas de Proteção Ambiental, e dá outras providências.

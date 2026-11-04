@@ -1,5 +1,3 @@
-###DEC-084733-0-000-26-05-1980@@@
-
 decreto nº 84.733, de 26 de maio de 1980
 
 Autoriza o funcionamento do curso de Direito da Faculdade de Direito Tiradentes, em Aracaju, Estado de Sergipe.

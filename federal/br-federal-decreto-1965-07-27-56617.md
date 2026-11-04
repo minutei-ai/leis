@@ -1,5 +1,3 @@
-###DEC-056617-0-000-27-07-1965@@@
-
 DECRETO Nº 56.617, DE 27 DE JULHO DE 1965.
 
 Prorroga o prazo de vigência do Decreto nº 55.309, de 30 de dezembro de 1964.

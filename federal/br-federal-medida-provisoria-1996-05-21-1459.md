@@ -1,7 +1,3 @@
-1
-
-###MPV-001459-0-000-21-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.459, DE 21 DE MAIO DE 1996.
 
 Altera a legislação do imposto de renda e da contribuição social sobre o lucro.

@@ -1,5 +1,3 @@
-###DEC-071535-0-000-13-12-1972@@@
-
 DECRETO Nº 71.535, DE 13 DE DEZEMBRO DE 1972.
 
 Dispõe sobre a progressão funcional na carreira de Diplomata.

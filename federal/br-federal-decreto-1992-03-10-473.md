@@ -1,7 +1,3 @@
-1
-
-###DEC-000473-0-000-10-03-1992@@@
-
 DECRETO N° 473, DE 10 DE MARÇO DE 1992
 
 Dispõe sobre inclusão, no Programa Nacional de Desestatização - PND, da Rede Ferroviária Federal S.A.  \- RFFSA, da AGEF -  Rede Federal de Armazéns Gerais Ferroviários S.A. e da VALEC - Engenharia, Construções e Ferrovias S.A.

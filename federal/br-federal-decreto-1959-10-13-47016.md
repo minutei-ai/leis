@@ -1,5 +1,3 @@
-###DEC-047016-0-000-13-10-1959@@@
-
 DECRETO Nº 47.016, de 13 de outubro de 1959.
 
 Cria um cargo de Tesoureiro-Auxiliar no Hospital Alcides Carneiro, do Instituto de Previdência e Assistência dos Servidores do Estado.

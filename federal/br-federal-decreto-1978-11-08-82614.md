@@ -1,5 +1,3 @@
-###DEC-082614-0-000-08-11-1978@@@
-
 Decreto nº 82.614, de 8 de novembro de 1978.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos municípios de Itabaiana e de Salgado de São Félix, no Estado da Paraíba, compreendidos na área prioritária de Reforma Agrária, de que trata o Decreto nº 56.583, de 19/7/65, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs. 60.465, de 14/03/67, 68.085, de 19/1/71, e 75.147, de 27/12/74.

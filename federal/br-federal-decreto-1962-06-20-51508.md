@@ -1,5 +1,3 @@
-###DEC-051508-0-000-20-06-1962@@@
-
 Decreto nº 51.508, de 20 de junho de 1962.
 
 Declara luto oficial pelo falecimento do Ministro de Estado Gabriel de Rezende Passos e dispõe sôbre seus funerais.

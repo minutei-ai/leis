@@ -1,5 +1,3 @@
-###DEL-005403-0-000-13-04-1943@@@
-
 DECRETO‑LEI N. 5.403 – DE 13 DE ABRIL DE 1943
 
 Aprova acordo firmado entre a Superintendência de Abastecimento do Vale Amazônico (SAVA) e a Rubber Development Corporation

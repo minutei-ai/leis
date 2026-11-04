@@ -1,5 +1,3 @@
-###DEC-091125-0-000-13-03-1985@@@
-
 Decreto nº 91.125, de 13 de março de 1985
 
 Outorga concessão à RÁDIO VOZ DE ITABAIANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itabaiana, Estado de Sergipe.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000821-0-000-05-01-1995@@@
-
 # MEDIDA PROVISÓRIA N° 821, DE 5 DE JANEIRO DE 1995
 
 Estabelece normas de controle e fiscalização sobre produtos e insumos químicos que possam ser destinados à elaboração da cocaína em suas diversas formas e de outras substâncias entorpecentes ou que determinem dependência física ou psíquica.

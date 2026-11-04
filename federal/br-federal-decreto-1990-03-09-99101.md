@@ -1,7 +1,3 @@
-1
-
-###DEC-099101-0-000-09-03-1990@@@
-
 DECRETO N° 99.101, DE 9 DE MARÇO DE 1990
 
 Homologa a demarcação administrati­va da Área Indígena Içana‑Rio Negro, no Estado do Amazonas.

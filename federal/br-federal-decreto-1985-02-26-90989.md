@@ -1,5 +1,3 @@
-###DEC-090989-0-000-26-02-1985@@@
-
 Decreto nº 90.989, de 26 de fevereiro de 1985.
 
 Altera dispositivos do Decreto nº 77.272, de 09 de março de 1976, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais.

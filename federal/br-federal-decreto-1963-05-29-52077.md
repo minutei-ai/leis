@@ -1,5 +1,3 @@
-###DEC-052077-0-000-29-05-1963@@@
-
 DECRETO Nº 52.077, DE 29 DE MAIO DE 1963.
 
 Oficializa o VII Congresso Internacional de Leprologia, a realizar-se na cidade do Rio de Janeiro, no mês de setembro de 1963.

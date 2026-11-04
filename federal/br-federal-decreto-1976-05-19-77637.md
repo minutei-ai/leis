@@ -1,5 +1,3 @@
-###DEC-077637-0-000-19-05-1976@@@
-
 DECRETO Nº 77.637, DE 19 DE MAIO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à E. Princesa Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Lages, Estado de Santa Catarina.

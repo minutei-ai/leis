@@ -1,5 +1,3 @@
-###DEC-060594-0-000-13-04-1967@@@
-
 Decreto nº 60.594, de 13 de abril de 1967.
 
 Modifica o artigo 1º do Decreto número 60.205, de 10 de fevereiro de 1967.

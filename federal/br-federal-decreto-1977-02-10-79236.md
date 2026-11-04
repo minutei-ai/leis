@@ -1,5 +1,3 @@
-###DEC-079236-0-000-10-02-1977@@@
-
 DECRETO Nº 79.236, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Educação Artística da Faculdade de Música Marcelo Tupinambá com sede na cidade de São Paulo, Estado de São Paulo.

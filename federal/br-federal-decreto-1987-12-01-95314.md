@@ -1,5 +1,3 @@
-###DEC-095314-0-000-01-12-1987@@@
-
 DECRETO Nº 95.314, DE 1º DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Contábeis e Administrativas de Sorocaba, São Paulo.

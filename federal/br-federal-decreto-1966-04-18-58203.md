@@ -1,5 +1,3 @@
-###DEC-058203-0-000-18-04-1966@@@
-
 DECRETO Nº 58.203, DE 18 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Antônio Calaça Figueiredo a lavrar apatita no município de Jacupiranga, Estado de São Paulo.

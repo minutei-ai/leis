@@ -1,5 +1,3 @@
-###DEC-053995-0-000-03-07-1964@@@
-
 DECRETO Nº 53.995, DE 3 DE JULHO DE 1964.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Estadual de Energia Elétrica.

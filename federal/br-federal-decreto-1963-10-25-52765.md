@@ -1,5 +1,3 @@
-###DEC-052765-0-000-25-10-1963@@@
-
 Decreto nº 52.765, de 25 de outubro de 1963.
 
 Outorga à Prefeitura Municipal de Salmourão concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 25 de outubro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052765-0-000-25-10-1963@@@RET01+++
 
 DECRETO Nº 52.765, DE 25 DE OUTUBRO DE 1963.
 

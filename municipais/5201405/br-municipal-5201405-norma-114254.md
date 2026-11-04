@@ -26,11 +26,14 @@ Município de Aparecida de Goiânia, aos 20 de maio de 2024.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-MARLUCIO PEREIRA DA SILVA<br>
+MARLUCIO PEREIRA DA SILVA
+
 Secretário

@@ -1,5 +1,3 @@
-###DEC-002825-0-000-28-10-1998@@@
-
 DECRETO Nº 1.825, DE 28 DE OUTUBRO DE 1998
 
 Promulga o Acordo para o Estabelecimento da Representação da UIT em Brasília, celebrado entre o Governo da República Federativa do Brasil e a União Internacional de Telecomunicações, em Genebra, em 8 de outubro de 1991.
@@ -60,7 +58,21 @@ Artigo VI
 
 Feito em Genebra, aos 08 dias de outubro de 1991, em duas cópias, em português e em inglês, sendo ambos os textos igualmente autênticos. Em caso de qualquer divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela União Internacional</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">de Telecomunicações</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Celso Luiz Nunes Amorim</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pekka Tarjanne</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Embaixador</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Secretário-Geral</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pela União Internacional
+
+Federativa do Brasil
+
+de Telecomunicações
+
+Celso Luiz Nunes Amorim
+
+Pekka Tarjanne
+
+Embaixador
+
+Secretário-Geral
 
 Carta de Compromisso entre a Telebrás e a União Internacional de Telecomunicações
 
@@ -96,9 +108,19 @@ Esta carta de Compromisso, sendo parte integrante do Acordo, terá vigência enq
 
 Feito em Genebra, aos 8 dias de outubro de 1991, em duas cópias, em português e em inglês, sendo ambos os textos igualmente autênticos. Em caso de qualquer divergência de interpretação, prevalecerá o texto em inglês.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela TELEBRÁS</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela União Internacional de</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Telecomunicações</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Ignácio Ferreira</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pekka Tarjanne</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Presidente</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Secretário-Geral</span></p></td></tr></tbody></table>
+Pela TELEBRÁS
 
-###DEC-002825-0-000-28-10-1998@@@RET01+++
+Pela União Internacional de
+
+Telecomunicações
+
+José Ignácio Ferreira
+
+Pekka Tarjanne
+
+Presidente
+
+Secretário-Geral
 
 RETIFICAÇÃO
 

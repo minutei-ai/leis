@@ -1,5 +1,3 @@
-###DEC-066280-0-000-27-02-1970@@@
-
 DECRETO Nº 66.280 - de 27 DE FEVEREIRO DE 1970
 
 Dispõe sôbre condições para o trabalho de menores de 12 a 14 anos.

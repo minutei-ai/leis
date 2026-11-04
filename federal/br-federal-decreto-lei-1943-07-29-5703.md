@@ -1,5 +1,3 @@
-###DEL-005703-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.703 – DE 29 DE JULHO DE 1943
 
 Abre, ao Ministério, da Educação e Saúde, o crédito suplementar de Cr$ 200.000,00 (duzentos mil cruzeiros)

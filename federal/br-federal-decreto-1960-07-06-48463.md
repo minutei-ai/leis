@@ -1,5 +1,3 @@
-###DEC-048463-0-000-06-07-1960@@@
-
 DECRETO Nº 48.463, DE 6 DE JULHO DE 1960.
 
 Altera o Quadro de Pessoal do Hospital dos Servidores do Estado.

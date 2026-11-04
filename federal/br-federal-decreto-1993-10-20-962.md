@@ -1,7 +1,3 @@
-1
-
-###DEC-000962-0-000-20-10-1993@@@
-
 DECRETO N° 962, DE 20 DE OUTUBRO DE 1993
 
 Dispõe sobre a transferência de cargo em comissão que menciona.

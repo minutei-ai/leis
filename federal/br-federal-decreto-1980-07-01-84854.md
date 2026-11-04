@@ -1,5 +1,3 @@
-###DEC-084854-0-000-01-07-1980@@@
-
 DECRETO Nº 84.854, DE 01 DEJULHO DE 1980.
 
 Fixa prazo para a regularização de funcionamento de estações repetidoras e retransmissoras de televisão, e dá outras providências.

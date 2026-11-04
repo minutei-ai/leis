@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/72976)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12680-16.07.2007.html)
 
 # LEI N° 12.680, DE 16 DE JULHO DE 2007
@@ -7,14 +6,22 @@
 
 ### _Dispõe sobre a revisão anual de vencimentos e proventos dos servidores do quadro da Secretaria do Tribunal de Contas do Estado de São Paulo._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**<br>
-Artigo 1° -** É fixada em 1° de março de cada ano a data-base para revisão de valores de vencimentos e proventos dos servidores públicos, ativos e inativos, do Quadro da Secretaria do Tribunal de Contas do Estado de São Paulo, nos termos do artigo 37, inciso X, da Constituição Federal, bem como para deliberação sobre o conjunto de reivindicações desses servidores públicos.**<br>
-Artigo 2° -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 16 de julho de 2007.<br>
-JOSÉ SERRA<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**
+
+Artigo 1° -** É fixada em 1° de março de cada ano a data-base para revisão de valores de vencimentos e proventos dos servidores públicos, ativos e inativos, do Quadro da Secretaria do Tribunal de Contas do Estado de São Paulo, nos termos do artigo 37, inciso X, da Constituição Federal, bem como para deliberação sobre o conjunto de reivindicações desses servidores públicos.**
+
+Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 16 de julho de 2007.
+
+JOSÉ SERRA
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 16 de julho de 2007.
 
 _~~\- Vide [Lei Complementar n° 1.244, de 18/06/2014](https://www.al.sp.gov.br/norma/173048), com efeitos a partir de 01/03/2014.~~_

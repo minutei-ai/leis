@@ -1,5 +1,3 @@
-###DEC-046368-0-000-07-07-1959@@@
-
 DECRETO Nº 46.368, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre a valorização econômica e social do vale do rio Jaguaribe, no Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-096867-0-000-29-09-1988@@@
-
 DECRETO N° 96.867, DE 29 DE SETEMBRO DE 1988
 
 Renova concessão outorgada à RÁDIO CURIMATAU DE NOVA CRUZ LTDA., para explo­rar serviço de radiodifusão sonora em onda média, na Cidade de Nova Cruz, Estado do Rio Grande do Norte.

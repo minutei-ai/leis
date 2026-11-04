@@ -1,5 +1,3 @@
-###DEC-005621-0-000-16-12-2005@@@
-
 DECRETO Nº 5.621, DE 16 DE DEZEMBRO DE 2005.
 
 Regulamenta a Lei nº 5.917, de 10 de setembro de 1973, que dispõe sobre o Plano Nacional de Viação, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###LCP-000065-0-000-15-04-1991@@@
-
 # LEI COMPLEMENTAR N° 65, DE 15 DE ABRIL de 1991
 
 Define, na forma da alínea a do inciso X do art. 155 da Constituição, os produtos semi-elaborados que podem ser tributados pelos Estados e Distrito Federal, quando de sua exportação para o exterior.

@@ -1,5 +1,3 @@
-###DEC-079573-0-000-26-04-1977@@@
-
 Decreto nº 79.573, de 26 de abril de 1977.
 
 Cancela a autorização para funcionamento do curso de Letras da Faculdade de Letras de Tiradentes, com sede na cidade de São Paulo, Estado de São Paulo.

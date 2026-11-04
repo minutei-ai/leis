@@ -1,5 +1,3 @@
-###DEC-066913-0-000-20-07-1970@@@
-
 decreto nº 66.913, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 21.618, de 13 de agôsto de 1946.

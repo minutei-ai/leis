@@ -1,5 +1,3 @@
-###DEL-009020-0-000-25-02-1946@@@
-
 DECRETO-LEI N. 9.020 – DE 25 DE FEVEREIRO DE 1946
 
 Transfere para o Departamento Nacional da Produção Vegetal a representação mantida pela Coordenação da Mobilização Econômica na Comissão de Organização Cooperativa dos Produtos de Mate e dá outras providências.

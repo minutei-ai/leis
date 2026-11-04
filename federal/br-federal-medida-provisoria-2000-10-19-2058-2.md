@@ -1,5 +1,3 @@
-###MPV-002058-0-002-19-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.058-2, DE 19 DE outubro DE 2000.
 
 Altera a legislação do imposto sobre a renda no que se refere aos incentivos fiscais de isenção e de redução, define diretrizes para os incentivos fiscais de aplicação de parcela do imposto sobre a renda nos Fundos de Investimentos Regionais, e dá outras providências.

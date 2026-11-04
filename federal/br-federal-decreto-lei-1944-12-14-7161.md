@@ -1,5 +1,3 @@
-###DEL-007161-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.161 – DE 14 DE DEZEMBRO DE 1944
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

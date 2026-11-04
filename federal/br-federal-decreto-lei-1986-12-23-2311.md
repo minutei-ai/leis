@@ -1,5 +1,3 @@
-###DEL-002311-0-000-23-12-1986@@@
-
 # DECRETO-LEI Nº 2.311, DE 23 DE DEZEMBRO DE 1986
 
 Dá nova redação ao parágrafo único do artigo 6º e ao artigo 12 do Decreto-lei nº 2.284, de 10 de março de 1986 e ao § 3º, do artigo 2º do Decreto-lei nº 2.290, de 21 de novembro de 1986.

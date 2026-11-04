@@ -1,7 +1,3 @@
-1
-
-###DEC-001100-0-000-30-03-1994@@@
-
 DECRETO N° 1.100, DE 30 DE MARÇO DE 1994
 
 Reduz a zero a alíquota do IPI incidente sobre os produtos que menciona.

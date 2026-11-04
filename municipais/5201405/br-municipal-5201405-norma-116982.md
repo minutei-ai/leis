@@ -2,7 +2,8 @@ DECRETO “N” Nº 25, DE 19 DE JANEIRO DE 2018
 
 Regulamenta a Lei Municipal nº 3.017, de 21 de dezembro de 2011, que autoriza o Poder Executivo a outorgar concessões remuneradas para a exploração do serviço funerário no Município de Aparecida de Goiânia e dá outras providências.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS SERVIÇOS FUNERÁRIOS
 
 Art. 1º As concessões remuneradas para a exploração do serviço funerário no Município de Aparecida de Goiânia serão deferidas às empresas que atenderem as condições estabelecidas na Lei nº 3.017, de 21 de dezembro de 2011.
@@ -31,7 +32,8 @@ Art. 3º A concessionária deverá exercer rigoroso controle sobre a atuação d
 
 §2º. A concessionária deverá apresentar a Tabela de Preços e o Catálogo das Urnas por ocasião da solicitação dos serviços, além de fixar a referida tabela em local visível junto ao mostruário.
 
-Art. 4º As concessionárias deverão prestar os serviços póstumos assistenciais no prazo máximo de 24 (vinte e quatro) horas, contado do recebimento da requisição expedida pela Central de Óbitos.<br>
+Art. 4º As concessionárias deverão prestar os serviços póstumos assistenciais no prazo máximo de 24 (vinte e quatro) horas, contado do recebimento da requisição expedida pela Central de Óbitos.
+
 (Redação alterada pelo Decreto "N" Nº 543, de 9 de outubro de 2026).
 
 ~~Art. 4º A concessionária deverá atender os serviços funerários gratuitos às famílias carentes no prazo de 24 (vinte e quatro) horas, quando requisitado pela Central de Óbitos do Município.~~
@@ -64,7 +66,8 @@ Art. 7º É vedada a toda e qualquer funerária de outros municípios prestarem 
 
 Art. 8º O corpo será recolhido pelo Serviço de Verificação de Óbitos – SVO quando ocorrer morte natural em hospitais, clínicas, casas de saúde, residências e vias públicas e não houver a liberação da Declaração de Óbito por profissional habilitado.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PROIBIÇÕES
 
 Art. 9º - É vedado às empresas funerárias, além de outras proibições previstas em lei e no termo de concessão:
@@ -81,7 +84,8 @@ II - permitir em suas dependências propaganda de estabelecimentos prestadores d
 
 Parágrafo único. Os hospitais e casas de saúde, públicos ou particulares devem comunicar à Central de Óbitos a ocorrência de óbito interno, cujo corpo não tenha sido reclamado em até 24 (vinte e quatro) horas após o falecimento.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA CENTRAL DE ÓBITOS E CONTROLE DE SEPULTAMENTOS
 
 Art. 11 O documento de Cadastro de Óbitos será composto pelos seguintes requisitos:
@@ -130,7 +134,8 @@ Art. 15 É facultado ao responsável pelo sepultamento a livre escolha da empres
 
 Art. 16 A liberação de corpos nos hospitais, clínicas, Instituto Médico Legal e demais locais onde estiverem e os sepultamentos nos Cemitérios de Aparecida de Goiânia ficam condicionados à apresentação da Guia de Autorização para Liberação, Transporte e Sepultamento de Corpos emitidos pela Central de Óbitos.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO RODIZIO
 
 Art. 17 O sistema de rodízio funcionará na forma dos artigos seguintes, que utilizará duas relações que conterão todas as empresas concessionárias de serviços funerários cadastradas e autorizadas no município, sendo uma para a prestação de serviços remunerados e outra lista para a prestação de serviços à comunidade carente atendida pelo município.
@@ -153,7 +158,8 @@ II - ocorrendo a prestação do serviço pela empresa do topo da lista, o próxi
 
 Art. 20 As funerárias concessionárias deverão emitir nota fiscal especificando o tipo de serviço adotado.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS SERVIÇOS PRESTADOS À COMUNIDADE CARENTE
 
 Art. 21. A prestação dos serviços póstumos assistenciais às pessoas ou às famílias em situação de vulnerabilidade, reconhecidas pela Secretaria Municipal de Assistência Social, assegurada a gratuidade das taxas, tarifas e serviços, compreende:
@@ -168,12 +174,14 @@ IV – remoção para o velório;
 
 V – traslado de corpos de pacientes falecidos em outros municípios para Aparecida de Goiânia; e
 
-VI – sepultamento em cemitério público.<br>
+VI – sepultamento em cemitério público.
+
 (Redação alterada pelo Decreto "N" Nº 543, de 9 de outubro de 2026).
 
 ~~Art. 21 O atendimento gratuito a pessoas carentes, assim reconhecidos pela Secretaria Municipal de Assistência Social, compreende o fornecimento de urna popular, a remoção para o velório em cemitério público ou residência, a critério dos familiares, ornamentação e velas.~~
 
-Parágrafo único. Considera-se em situação de vulnerabilidade, para efeito do disposto no caput, a pessoa ou família residente no Município de Aparecida de Goiânia, atendida por um dos programas assistenciais do Governo Federal, Estadual ou Municipal, ou reconhecida pela Secretaria Municipal de Assistência Social.<br>
+Parágrafo único. Considera-se em situação de vulnerabilidade, para efeito do disposto no caput, a pessoa ou família residente no Município de Aparecida de Goiânia, atendida por um dos programas assistenciais do Governo Federal, Estadual ou Municipal, ou reconhecida pela Secretaria Municipal de Assistência Social.
+
 (Redação alterada pelo Decreto "N" Nº 543, de 9 de outubro de 2026).
 
 ~~Parágrafo único. Considera-se carente para os fins de obtenção de atendimento gratuito previsto no caput a família que seja atendida por um dos programas assistenciais do Governo Federal, Estadual ou Municipal, ou com declaração da Assistência Social do Município de Aparecida de Goiânia que comprove a carência.~~
@@ -186,7 +194,8 @@ II – manto protetor (envol); e
 
 III – traslado e sepultamento em cemitério público.
 
-Parágrafo único. Consideram-se indigentes ou ignorados, para efeito do disposto no caput, as pessoas em situação de extrema vulnerabilidade não atendidas por um dos programas assistenciais do Governo Federal, Estadual ou Municipal e os corpos não reclamados no Instituto Médico Legal.<br>
+Parágrafo único. Consideram-se indigentes ou ignorados, para efeito do disposto no caput, as pessoas em situação de extrema vulnerabilidade não atendidas por um dos programas assistenciais do Governo Federal, Estadual ou Municipal e os corpos não reclamados no Instituto Médico Legal.
+
 (Redação alterada pelo Decreto "N" Nº 543, de 9 de outubro de 2026).
 
 ~~Art. 22 O sepultamento de indigente consiste em fornecimento de urna estilo reto, tecido ou material similar para envolver o cadáver e traslado direto para o cemitério.~~
@@ -195,19 +204,22 @@ Parágrafo único. Consideram-se indigentes ou ignorados, para efeito do dispost
 
 ~~§2º. O serviço descrito no caput será executado por funerária indicada pela Central de Óbitos e Controle de Sepultamentos, no sistema de rodízio de serviços prestados às pessoas carentes.~~
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 23 A fiscalização das funerárias realizar-se-á pelos órgãos municipais em suas atribuições de poder de polícia.
 
 Art. 24 - Os processos com as infrações e penalidades cometidas pelas concessionárias serão enviados para o órgão julgador de 1º instância do Município, garantindo-se o contraditório e ampla defesa, nos termos do Código de Processo Administrativo Tributário e Fiscal do Município de Aparecida de Goiânia.
 
-Art. 25 - O reajuste das tarifas dos Serviços Funerários serão corrigidos anualmente pelo IGPM-FGV ou similar que vier substituí-lo, sendo aplicada a correção no primeiro dia útil de cada ano.<br>
+Art. 25 - O reajuste das tarifas dos Serviços Funerários serão corrigidos anualmente pelo IGPM-FGV ou similar que vier substituí-lo, sendo aplicada a correção no primeiro dia útil de cada ano.
+
 (Redação alterada pelo Decreto "N" nº 281, de 2 de agosto de 2019).
 
 ~~Art. 25 - O reajuste das tarifas dos Serviços Funerários serão fixados por ato do Chefe do Poder Executivo, sendo corrigidos anualmente pelo IGPM-FGV ou similar que vier substituí-lo, sendo aplicada a correção no primeiro dia útil de cada ano, ou através de planilha de custo apresentada, quando necessária, para assegurar a justa remuneração do capital, o melhoramento e expansão dos serviços e o equilíbrio econômico-financeiro para a atividade.~~
 
-Parágrafo único. A tabela de tarifa citada no caput será corrigida anualmente e publicada através de Portaria expedida pela Secretaria Municipal de Planejamento e Regulação Urbana.<br>
+Parágrafo único. A tabela de tarifa citada no caput será corrigida anualmente e publicada através de Portaria expedida pela Secretaria Municipal de Planejamento e Regulação Urbana.
+
 (Redação alterada pelo Decreto "N" nº 281, de 2 de agosto de 2019).
 
 ~~Parágrafo único. A tabela de tarifas citadas no caput é aquela definida no Anexo Único deste Decreto.~~
@@ -226,13 +238,16 @@ Art. 30 Fica revogado o Decreto “N” nº 01, de 07 de janeiro de 2013.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, 19 DE JANEIRO DE 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-RAUL COUTINHO NETO<br>
+RAUL COUTINHO NETO
+
 Secretário de Planejamento e Regulação Urbana
 
 ANEXO ÚNICO DO DECRETO “N” Nº 25/2018

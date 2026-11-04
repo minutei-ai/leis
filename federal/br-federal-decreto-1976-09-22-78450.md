@@ -1,5 +1,3 @@
-###DEC-078450-0-000-22-09-1976@@@
-
 DECRETO Nº 78.450, DE 22 DE SETEMBRO DE 1976.
 
 Regulamenta o regime de entreposto aduaneiro na importação e na exportação e dá outras providências.

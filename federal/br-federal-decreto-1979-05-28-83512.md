@@ -1,5 +1,3 @@
-###DEC-083512-0-000-28-05-1979@@@
-
 DECRETO Nº 83.512, DE 28 DE MAIO DE 1979.
 
 Concede reconhecimento ao curso de Nutrição da Faculdade de Ciências da Saúde São Camilo, com sede na cidade de São Paulo, Estado de São Paulo.

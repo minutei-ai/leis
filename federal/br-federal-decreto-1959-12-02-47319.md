@@ -1,5 +1,3 @@
-###DEC-047319-0-000-02-12-1959@@@
-
 decreto nº 47.319, de 2 de dezembro de 1959.
 
 Renova o Decreto nº 42.094, de 19 de agôsto de 1957.

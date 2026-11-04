@@ -1,5 +1,3 @@
-###DEC-074681-0-000-10-10-1974@@@
-
 DECRETO Nº 74.681, DE 10 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento dos cursos de Psicologia e de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Santos, mantida pela Sociedade Visconde de São Leopoldo, com sede na cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049531-0-000-14-12-1960@@@
-
 DECRETO Nº 49.531, DE 14 DE dezEMBRO DE 1960.
 
 Altera o Decreto nº 47.693, de 20 janeiro de 1960.

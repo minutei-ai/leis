@@ -1,5 +1,3 @@
-###DEC-090274-0-000-02-10-1984@@@
-
 DECRETO nº 90.274, dE 02 de outubro de 1984
 
 Ficam as Universidades Federais de Sergipe, Pelotas, Amazonas, Mato Grosso, Uberlândia, Rio Grande, e do Maranhão autorizadas a alienar imóvel.

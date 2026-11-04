@@ -1,5 +1,3 @@
-###DEC-001945-0-000-28-06-1996@@@
-
 DECRETO Nº 1.945, DE 28 DE JUNHO DE 1996.
 
 Dispõe sobre a Comissão Federal de Transportes Ferroviários - COFER e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081822-0-000-23-06-1978@@@
-
 Decreto nº 81.822, de 23 de junho de 1978.
 
 Concede à S.A. Indústrias Votorantim O direto de lavrar calcário e dolomito no Município de Salto de Pirapora, Estado de São Paulo.

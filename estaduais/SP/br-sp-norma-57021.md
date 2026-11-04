@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57021)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2005/compilacao-lei-11977-25.08.2005.html)
 
 # LEI Nº 11.977, DE 25 DE AGOSTO DE 2005
@@ -13,7 +12,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8º, da Constituição do Estado, a seguinte lei:
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Das Disposições Preliminares
 
 **Artigo 1º-** Institui o Código Estadual de Proteção aos Animais, estabelecendo normas para a proteção, defesa e preservação dos animais no Estado.
@@ -58,7 +58,8 @@ IX - qualquer forma de divulgação e propaganda que estimule ou sugira qualquer
 
 _\- Incisos I ao III e VII com_ _eficácia suspensa por força de medida cautelar deferida pelo Tribunal de Justiça do Estado de São Paulo nos autos da [ADI nº](https://www.tjsp.jus.br/)_ _[9028836-54.2005.8.26.0000](https://www.tjsp.jus.br/)._
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Dos Animais Silvestres
 
 **Artigo 3º-** Os animais silvestres deverão, prioritariamente, permanecer em seu habitat natural.
@@ -71,7 +72,8 @@ Dos Animais Silvestres
 
 **Artigo 5º-** Fica proibida a introdução de animais pertencentes à fauna silvestre exótica dentro do território do Estado.
 
-#### Seção I<br>
+#### Seção I
+
 Programa de Proteção à Fauna Silvestre
 
 **Artigo 6º-** Fica instituído o Programa de Proteção à Fauna Silvestre do Estado.
@@ -106,7 +108,8 @@ Programa de Proteção à Fauna Silvestre
 
 **Artigo 7º -** A Administração Pública Estadual, através de órgão competente, publicará a cada 4 (quatro) anos a lista atualizada de Espécies da Fauna Silvestre Ameaçadas de Extinção e as Provavelmente Ameaçadas de Extinção no Estado, e subsidiará campanhas educativas visando sua divulgação e preservação.
 
-#### Seção II<br>
+#### Seção II
+
 Caça
 
 **Artigo 8º-** São vedadas, em todo território do Estado, as seguintes modalidades de caça:
@@ -117,23 +120,25 @@ II - amadorista ou esportiva, aquela praticada por prazer, sem finalidade lucrat
 
 **Parágrafo único -** O abate de manejo ou controle populacional, quando único e último recurso viável, só poderá ser autorizado por órgão governamental competente e realizado por meios próprios ou por quem o órgão eleger.
 
-#### Seção III<br>
+#### Seção III
+
 Pesca
 
 **Artigo 9º -** Para os efeitos deste Código define-se por pesca todo ato tendente a capturar ou extrair elementos animais ou vegetais que tenham na água seu normal ou mais freqüente meio de vida.
 
 **Artigo 10 -** É vedado pescar em épocas e locais do Estado interditados pelo órgão competente.
 
-#### Capítulo III<br>
-Dos Animais Domésticos<br>
-Seção I<br>
+#### Capítulo III
+
+Dos Animais Domésticos
+
+Seção I
+
 ~~Controle de Zoonoses e Controle Reprodutivo de Cães e Gatos~~
 
 #### Controle de Zoonoses, Controle Reprodutivo de Cães e Gatos e Registro Único de Tutor (NR)
 
 _\- Seção I redenominada pela [Lei nº 17.497, de 27/12/2021](https://www.al.sp.gov.br/norma/201520)._
-
-<br>
 
 **Artigo 11 -** Os Municípios do Estado devem manter programas permanentes de controle de zoonoses, através de vacinação e controle de reprodução de cães e gatos, ambos acompanhados de ações educativas para propriedade ou guarda responsável.
 
@@ -143,37 +148,48 @@ _\- Seção I redenominada pela [Lei nº 17.497, de 27/12/2021](https://www.al.s
 
 **Artigo 12-A** - Fica o Poder Público autorizado a criar o Registro Único de Tutor (RUT) no Estado.
 
-**§1º -** O RUT é instrumento de identificação e responsabilização dos tutores de cães e gatos a ser utilizado obrigatoriamente para a regularização e manutenção da propriedade do animal.<br>
-**§2º -** Os dados e as informações coletados serão processados numa base única a ser criada pelo Poder Executivo, de forma a garantir:<br>
-1\. a unicidade das informações cadastrais;<br>
-2\. a racionalização do processo de cadastramento pelos órgãos públicos.<br>
-**§3º -** Será atribuído a cada indivíduo cadastrado um número de identificação ao qual será vinculado o número do Registro Geral Animal (RGA) ou número de cadastro equivalente de cada animal sob a sua tutela.<br>
+**§1º -** O RUT é instrumento de identificação e responsabilização dos tutores de cães e gatos a ser utilizado obrigatoriamente para a regularização e manutenção da propriedade do animal.
+
+**§2º -** Os dados e as informações coletados serão processados numa base única a ser criada pelo Poder Executivo, de forma a garantir:
+
+1\. a unicidade das informações cadastrais;
+
+2\. a racionalização do processo de cadastramento pelos órgãos públicos.
+
+**§3º -** Será atribuído a cada indivíduo cadastrado um número de identificação ao qual será vinculado o número do Registro Geral Animal (RGA) ou número de cadastro equivalente de cada animal sob a sua tutela.
+
 **§4º -** Apenas maiores de 18 (dezoito) anos poderão ser registrados como tutores de cães e gatos. (NR)
 
 _\- Artigo 12-A acrescentado_ _pela [Lei nº 17.497, de 27/12/2021](https://www.al.sp.gov.br/norma/201520)._
-
-<br>
 
 #### Seção I-A
 
 #### Programa de Proteção e Bem-Estar dos Animais Domésticos.
 
-<br>
+**Artigo 12-B -** Fica instituído o Programa de Proteção e Bem-Estar dos Animais Domésticos:
 
-**Artigo 12-B -** Fica instituído o Programa de Proteção e Bem-Estar dos Animais Domésticos:<br>
-**§1º -** Todos os Municípios do Estado, por meio de projetos e políticas públicas específicas, deverão:<br>
-1\. promover a integração dos serviços de normatização e fiscalização dos órgãos responsáveis pela execução de políticas públicas de proteção e bem-estar dos animais domésticos;<br>
-2\. colaborar no combate e na prevenção aos maus-tratos contra os animais domésticos;<br>
-3\. promover parcerias e convênios com o Poder Público, associações e entidades públicas e privadas.<br>
-**§2º -** Todos os Municípios do Estado poderão viabilizar a implantação de centros de proteção e bem-estar dos animais domésticos para:<br>
-1\. atender, prioritariamente, os animais domésticos vítimas de maus-tratos;<br>
-2\. prestar atendimento médico-veterinário aos animais domésticos;<br>
-3\. dar apoio aos órgãos de normatização e fiscalização no combate aos maus-tratos e na promoção do bem-estar animal;<br>
+**§1º -** Todos os Municípios do Estado, por meio de projetos e políticas públicas específicas, deverão:
+
+1\. promover a integração dos serviços de normatização e fiscalização dos órgãos responsáveis pela execução de políticas públicas de proteção e bem-estar dos animais domésticos;
+
+2\. colaborar no combate e na prevenção aos maus-tratos contra os animais domésticos;
+
+3\. promover parcerias e convênios com o Poder Público, associações e entidades públicas e privadas.
+
+**§2º -** Todos os Municípios do Estado poderão viabilizar a implantação de centros de proteção e bem-estar dos animais domésticos para:
+
+1\. atender, prioritariamente, os animais domésticos vítimas de maus-tratos;
+
+2\. prestar atendimento médico-veterinário aos animais domésticos;
+
+3\. dar apoio aos órgãos de normatização e fiscalização no combate aos maus-tratos e na promoção do bem-estar animal;
+
 4\. promover ações educativas e de conscientização em favor de políticas públicas que visem o bem-estar animal. (NR)
 
 _\- Seção I-A e artigo 12-B acrescentados_ _pela [Lei nº 17.497, de 27/12/2021](https://www.al.sp.gov.br/norma/201520)._
 
-#### Seção II<br>
+#### Seção II
+
 Das Atividades de Tração e Carga
 
 **Artigo 13 -** Só é permitida a tração animal de veículo ou instrumentos agrícolas e industriais, por bovinos e eqüídeos, que compreende os eqüinos, muares e asininos.
@@ -200,7 +216,8 @@ VI - atrelar animais a veículos sem os apetrechos indispensáveis ou com excess
 
 VII - prender animais atrás dos veículos ou atados a caudas de outros.
 
-#### Seção III<br>
+#### Seção III
+
 Do Transporte de Animais
 
 **Artigo 16 -** É vedado:
@@ -227,7 +244,8 @@ _\- Inciso VI com eficácia suspensa por força de medida cautelar deferida pelo
 
 VII - transportar animais de qualquer espécie sem condições de segurança para quem os transporta.
 
-#### Seção IV<br>
+#### Seção IV
+
 Dos Animais Criados para Consumo
 
 **Artigo 17 -** São animais criados para o consumo aqueles utilizados para o consumo humano e criados com essa finalidade em cativeiro devidamente regulamentado e abatidos em estabelecimentos sob supervisão médico-veterinária.
@@ -244,7 +262,8 @@ Dos Animais Criados para Consumo
 
 _\- Artigo 18 com eficácia suspensa por força de medida cautelar deferida pelo Tribunal de Justiça do Estado de São Paulo nos autos da [ADI nº 9028836-54.2005.8.26.0000](https://www.tjsp.jus.br/)._
 
-#### Seção V<br>
+#### Seção V
+
 Do Abate de Animais
 
 ~~Artigo 19 - É obrigatório em todos os matadouros, matadouros-frigoríficos e abatedouros, estabelecidos no Estado, o emprego de métodos científicos modernos de insensibilização aplicados antes da sangria por instrumentos de percussão mecânica, por processamento químico, choque elétrico (eletronarcose) ou, ainda, por outros métodos modernos que impeçam o abate cruel de qualquer tipo de animal destinado ao consumo.~~
@@ -255,7 +274,8 @@ Do Abate de Animais
 
 _\- Artigo 19 com eficácia suspensa por força de medida cautelar deferida pelo Tribunal de Justiça do Estado de São Paulo nos autos da [ADI nº 9028836-54.2005.8.26.0000](https://www.tjsp.jus.br/)._
 
-#### Seção VI<br>
+#### Seção VI
+
 Das Atividades de Diversão, Cultura e Entretenimento
 
 **Artigo 20 -** É vedado realizar ou promover lutas entre animais da mesma espécie ou de espécies diferentes, touradas, simulacros de tourada e vaquejadas, em locais públicos e privados.
@@ -268,7 +288,8 @@ Das Atividades de Diversão, Cultura e Entretenimento
 
 _\- Artigo 22 com eficácia suspensa por força de medida cautelar deferida pelo Tribunal de Justiça do Estado de São Paulo nos autos da [ADI nº 9028836-54.2005.8.26.0000](https://www.tjsp.jus.br/)._
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Da Experimentação Animal
 
 **Artigo 23 -** Considera-se experimentação animal a utilização de animais vivos em atividade de pesquisa científica, teste de produto e no ensino.
@@ -289,7 +310,8 @@ Da Experimentação Animal
 
 7\. laboratório de experimentação animal: local provido de condições ambientais adequadas, bem como de equipamentos e materiais indispensáveis à realização de experimentos em animais, que não podem ser deslocados para um biotério.
 
-#### Seção I<br>
+#### Seção I
+
 Das Condições para Criação e Uso de Animais para Pesquisa Científica
 
 **Artigo 24 -** Os estabelecimentos de pesquisa científica devem estar registrados nos órgãos competentes e supervisionados por profissionais de nível superior, nas áreas afins, devidamente registrados em seus Conselhos de classe e nos órgãos competentes.
@@ -356,7 +378,8 @@ II - compatibilizar suas instalações físicas, no prazo máximo de 90 (noventa
 
 **§ 2º** - Os laboratórios mencionados no parágrafo anterior poderão exibir nos rótulos das embalagens de seus produtos a expressão "produto não testado em animais".
 
-#### Seção II<br>
+#### Seção II
+
 Das Condições de Criação e Uso de Animais para Pesquisa Científica
 
 **Artigo 30 -** Serão utilizados, em atividades de pesquisa e ensino, animais criados em centros de criação ou biotérios.
@@ -379,7 +402,8 @@ Das Condições de Criação e Uso de Animais para Pesquisa Científica
 
 **Artigo 38 -** O número de animais a serem utilizados para a execução de um projeto e o tempo de duração de cada experimento será o mínimo indispensável para produzir o resultado conclusivo, poupando-se, ao máximo, o animal de sofrimento.
 
-#### Seção III<br>
+#### Seção III
+
 Da Escusa ou Objeção de Consciência
 
 **Artigo 39 -** Fica estabelecida no Estado a cláusula de escusa de consciência à experimentação animal.
@@ -404,7 +428,8 @@ Da Escusa ou Objeção de Consciência
 
 **§ 3º** - No âmbito dos cursos deverão ser previstas, a partir do início do ano acadêmico, sucessivo à data de vigência da presente lei, modalidades alternativas de ensino que não prevejam atividades ou intervenções de experimentação animal, a fim de estimular a progressiva substituição do uso de animais.
 
-#### Capítulo V<br>
+#### Capítulo V
+
 Das Penalidades
 
 **Artigo 43 -** Constitui infração, para os efeitos desta lei, toda ação ou omissão que importe na inobservância de preceitos estabelecidos ou na desobediência às determinações de caráter normativo dos órgãos das autoridades administrativas competentes.
@@ -435,15 +460,18 @@ I - advertência;
 
 II - multa e pagamento das despesas com transporte, hospedagem, alimentação, serviços veterinários e demais despesas advindas do cuidado com o animal;
 
-III - perda da guarda, posse ou propriedade do animal, se doméstico ou exótico e proibição de aquisição da tutela de animais pelo prazo de 5 (cinco) anos.<br>
-**§1º -** Nos casos de reincidência, caracterizados pelo cometimento de nova infração da mesma natureza, a multa corresponderá ao dobro da anteriormente imposta, cumulativamente.<br>
+III - perda da guarda, posse ou propriedade do animal, se doméstico ou exótico e proibição de aquisição da tutela de animais pelo prazo de 5 (cinco) anos.
+
+**§1º -** Nos casos de reincidência, caracterizados pelo cometimento de nova infração da mesma natureza, a multa corresponderá ao dobro da anteriormente imposta, cumulativamente.
+
 **§2º -** Penalidade prevista no inciso III deste artigo será imposta pela autoridade policial ou pela autoridade competente - devidamente acompanhada por médico veterinário - que lavrará o auto de apreensão e depositará o animal para órgãos públicos ou associações privadas de proteção e defesa dos animais. (NR)
 
 _\- Incisos II e III e §§1º e 2º com redação dada pela_ _[Lei nº 17.497, de 27/12/2021](https://www.al.sp.gov.br/norma/201520)._
 
 **Artigo 46 -** As multas poderão ter sua exigibilidade suspensa quando o infrator, nos termos e condições aceitas e aprovadas pelas autoridades competentes, se obrigar à adoção de medidas específicas para fazer cessar e corrigir a infração.
 
-**Artigo 46-A -** A guarda, a posse ou a propriedade do animal poderá ser readquirida quando o infrator, nos termos e condições aceitas e aprovadas pelas autoridades competentes, se obrigar à adoção de medidas específicas para fazer cessar e corrigir a infração.<br>
+**Artigo 46-A -** A guarda, a posse ou a propriedade do animal poderá ser readquirida quando o infrator, nos termos e condições aceitas e aprovadas pelas autoridades competentes, se obrigar à adoção de medidas específicas para fazer cessar e corrigir a infração.
+
 **Parágrafo único -** Constatada a reincidência na prática de maus-tratos animais, o autor perderá imediatamente a guarda a posse ou a propriedade do animal e será apenado nos termos dos §§1º e 1º-A do artigo 45 desta lei. (NR)
 
 _\- Artigo 46-A acrescentado pela [Lei nº 17.497, de 27/12/2021](https://www.al.sp.gov.br/norma/201520)._
@@ -482,7 +510,8 @@ IV - interdição definitiva para o exercício da atividade regulada nesta Lei.
 
 **Artigo 53 -** A autoridade, funcionário ou servidor que deixar de cumprir a obrigação de que trata esta lei ou agir para impedir, dificultar ou retardar o seu cumprimento, incorrerá nas mesmas responsabilidades do infrator, sem prejuízo das demais penalidades administrativas e penais.
 
-#### Capítulo VI<br>
+#### Capítulo VI
+
 Disposições Gerais e Transitórias
 
 **Artigo 54 -** A fiscalização das atividades e a aplicação das multas decorrentes de infração fica a cargo dos órgãos competentes da Administração Pública Estadual, previstos em regulamento, nas suas respectivas áreas de atribuição.
@@ -524,5 +553,3 @@ Secretário-Chefe da Casa Civil
 Publicada na Assessoria Técnico-Legislativa, aos 25 de agosto de 2005.
 
 _\- Texto retificado no [Diário Oficial do Executivo I de 27/08/2005](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20050827&Caderno=DOE-I&NumeroPagina=1)._
-
-<br>

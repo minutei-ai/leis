@@ -1,5 +1,3 @@
-###DEC-094867-0-000-09-09-1987@@@
-
 DECRETO N° 94.867, DE 9 DE SETEMBRO DE 1987
 
 Regula o recrutamento de Médicos, Farmacêuticos e Dentistas para o ingresso no Corpo de Oficiais da Ativa da Aeronáutica.

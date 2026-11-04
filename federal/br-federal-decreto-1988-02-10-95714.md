@@ -1,7 +1,3 @@
-1
-
-###DEC-095714-0-000-10-02-1988@@@
-
 DECRETO Nº 95.714, DE 10 DE FEVEREIRO DE 1988
 
 Dá nova regulamentação à emissão dos Títulos da Dívida Agrária.

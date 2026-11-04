@@ -1,5 +1,3 @@
-###DEL-001659-0-000-24-01-1979@@@
-
 # Decreto-lei nº 1.659, de 24 de janeiro de 1979
 
 Fixa o valor do soldo base do cálculo da remuneração dos militares.

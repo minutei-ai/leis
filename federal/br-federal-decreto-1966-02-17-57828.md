@@ -1,5 +1,3 @@
-###DEC-057828-0-000-17-02-1966@@@
-
 DECRETO Nº 57.828, DE 17 DE FEVEREIRO DE 1966.
 
 Abre ao Poder Judiciário - Tribunal Superior Eleitoral, o crédito especial de Cr$519.550, para o fim que especifica.

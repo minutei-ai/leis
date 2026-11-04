@@ -1,5 +1,3 @@
-###DEC-078987-0-000-21-12-1976@@@
-
 DECRETO Nº 78.987, DE 21 DE DEZEMBRO DE 1976.
 
 Suspende as proibições de aquisição estabelecidas no artigo 7º do Decreto nº 76.986, de 6 de janeiro de 1976, relativamente a produtos destinado à alimentação animal, originários de Países-Membros da ALALC e GATT e negociados antes da vigência do Decreto em referência.

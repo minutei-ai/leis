@@ -1,5 +1,3 @@
-###DEC-064662-0-000-06-06-1969@@@
-
 DECRETO Nº 64.662, DE 6 DE JUNHO DE 1969.
 
 Altera o Regulamento do Impôsto sôbre Produtos Industrializados aprovado pelo Decreto nº 61.514, de 12 de outubro de 1967.

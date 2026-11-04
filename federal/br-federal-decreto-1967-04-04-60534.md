@@ -1,5 +1,3 @@
-###DEC-060534-0-000-04-04-1967@@@
-
 DECRETO Nº 60.534, DE 4 DE ABRIL DE 1967.
 
 Aprova a Resolução da Assembléia Geral Extraordinária de Acionistas da Petróleo Brasileiro S.A. – PETROBRÁS, de 8 de março de 1967 e dá outras providências.

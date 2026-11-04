@@ -1,5 +1,3 @@
-###DEC-070266-0-000-08-03-1972@@@
-
 DECRETO Nº 70.266, DE 8 DE MARÇO DE 1972.
 
 Declara de utilidade pública o Instituto Nossa Senhora Auxiliadora, com sede em Araras, Estado de São Paulo.

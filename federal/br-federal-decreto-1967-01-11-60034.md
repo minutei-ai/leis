@@ -1,5 +1,3 @@
-###DEC-060034-0-000-11-01-1967@@@
-
 decreto nº 60.034, de 11 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Luiz Pires de Moraes a pesquisar argila no município de Socorro, Estado de São Paulo.

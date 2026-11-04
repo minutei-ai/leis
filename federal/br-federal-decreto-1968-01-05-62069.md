@@ -1,5 +1,3 @@
-###DEC-062069-0-000-05-01-1968@@@
-
 DECRETO Nº 62.069, DE 5 DE JANEIRO DE 1968.
 
 Transfere do Departamento de Águas e Energia do Estado de Pernambuco para a Companhia de Eletricidade de Pernambuco, a concessão para distribuir energia elétrica no município de Tacaratu, Estado de Pernambuco.

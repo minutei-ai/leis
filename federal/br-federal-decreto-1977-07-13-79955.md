@@ -1,5 +1,3 @@
-###DEC-079955-0-000-13-07-1977@@@
-
 DECRETO Nº 79.955, DE 13 DE JULHO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Jornal de Goiás Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Goiânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-055818-0-000-08-03-1965@@@
-
 Decreto nº 55.818, de 8 de março de 1965.
 
 Transfere com os respectivos cargos, para o Conselho Nacional de Telecomunicações, servidores em exercício na Comissão Técnica de Rádio.

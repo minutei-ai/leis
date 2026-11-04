@@ -1,5 +1,3 @@
-###DEL-008928-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.928 – DE 26 DE JANEIRO 1946
 
 Cria cargo no Quadro Permanente do Ministério da Marinha.

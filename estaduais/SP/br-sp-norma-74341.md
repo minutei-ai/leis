@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74341)
-
 # LEI COMPLEMENTAR Nº 1.016, DE 15 DE OUTUBRO DE 2007
 
 ### _Institui Bônus Merecimento aos servidores do Quadro da Secretaria da Educação - QSE e do Quadro de Apoio Escolar - QAE, em exercício na Secretaria da Educação, e dá outras providências._

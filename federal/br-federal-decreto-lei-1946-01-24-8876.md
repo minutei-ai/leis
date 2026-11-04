@@ -1,5 +1,3 @@
-###DEL-008876-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.876 – DE 24 DE JANEIRO DE 1946
 
 Autoriza, aumento de salários e gratificações dos servidores e membros da Comissão de Marinha Mercante.
@@ -24,11 +22,11 @@ Mauricio Joppert da Silva.
 
 Gratificação mensal concedida aos membros militares ou funcionários públicos da Comissão de Marinha Mercante (Decreto nº 20.083, de 3-12-45)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhQAAAABCAYAAACG/jfkAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAHUlEQVR4nGNgYGD4P4pH8SgexaN4FI/iUUwmBgMA7jMQDWsPBc4AAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAC0lEQVR4nGNgAAIAAAUAAXpeqz8AAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC) 
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/6c2c524e95b0c478d587cb6839968c42281e6cbf1b0015fe033a318af01dd2a9.png)![](../assets/md-inline/600f5c08f55015795ccfb70973406ff89edfb98fff3741b954c60be0c6d03e74.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png) 
 
       ATUAL                            Proposto
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAScAAAABCAYAAACc2GjeAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAF0lEQVR4nGNgYGD4P4pH8SgexYMIgwEAOoQj65Wnr8IAAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAACZCAYAAADuIFCnAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAFUlEQVR4nGNgYGD4zzBKjBIjioAAANqNlmpO+uduAAAAAElFTkSuQmCC)      Mensal      Anual        Mensal    Anual
+![](../assets/md-inline/51f18f353fca7a11cfe27b1240d623dcb9775f14616f956cd7b082408c85c39c.png)![](../assets/md-inline/0af9b326a421f434976431730a1971818da5a800d207a3ca44b1b52ebb2ba8f0.png)      Mensal      Anual        Mensal    Anual
 
         Cr$         Cr$               Cr$             Cr$
 
@@ -38,4 +36,4 @@ Gratificação mensal concedida aos membros militares ou funcionários públicos
 
                     Dr. Silvestre Gomes de Araújo    4.000,00   48.000,00     6.000,00     72.000,00
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhQAAAABCAYAAACG/jfkAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAHUlEQVR4nGNgYGD4P4pH8SgexaN4FI/iUUwmBgMA7jMQDWsPBc4AAAAASUVORK5CYII=)
+![](../assets/md-inline/6c2c524e95b0c478d587cb6839968c42281e6cbf1b0015fe033a318af01dd2a9.png)

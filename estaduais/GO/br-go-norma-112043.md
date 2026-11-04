@@ -2,8 +2,8 @@ LEI Nº 24.019, DE 6 DE JANEIRO DE 2026
 
 Estima a receita e ﬁxa a despesa do Estado de Goiás para o exercício de 2026. 
 
-<br>
-\- [Vide Lei nº 23.246, de 25-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412/lei-23246) - Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2025.<br>
+\- [Vide Lei nº 23.246, de 25-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110412/lei-23246) - Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2025.
+
 \- [Vide Lei nº 23.570, de 10-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111087/lei-23570) - Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2026.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba"), decreta e eu sanciono a seguinte Lei:
@@ -326,12 +326,14 @@ Goiânia, 6 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
-<br>
-<br>
-[ANEXOS DA LOA](https://transparencia.go.gov.br/wp-content/uploads/sites/2/2026/01/Orcamento-Geral-do-Estado-2026.pdf)<br>
-\- [Vide Lei nº 24.400, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115995).<br>
-\- [Vide Lei nº 24.218, de 9-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113781).<br>
-<br>
+RONALDO CAIADO
+
+Governador do Estado
+
+[ANEXOS DA LOA](https://transparencia.go.gov.br/wp-content/uploads/sites/2/2026/01/Orcamento-Geral-do-Estado-2026.pdf)
+
+\- [Vide Lei nº 24.400, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115995).
+
+\- [Vide Lei nº 24.218, de 9-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113781).
+
 Os anexos da Lei nº 24.019, de 6 de janeiro de 2026, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2026, serão disponibilizados no sítio eletrônico da Secretaria de Estado da Economia ([https://www.economia.go.gov.br](https://goias.gov.br/economia/)), conforme dispõem os arts. 16 e 92 da [Lei nº 23.570](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111087), de 10 de julho de 2025.

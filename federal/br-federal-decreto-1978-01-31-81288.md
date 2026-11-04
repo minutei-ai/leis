@@ -1,5 +1,3 @@
-###DEC-081288-0-000-31-01-1978@@@
-
 Decreto nº 81 288, de 31 de janeiro de 1978.
 
 Concede autorização à PENNZOIL DO BRASIL INC. para operar no mar territorial do Brasil ,fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A.- PETROBRÁS.

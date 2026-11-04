@@ -1,5 +1,3 @@
-###DEC-053168-0-000-11-12-1963@@@
-
 DECRETO Nº 53.168, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza construção de linha de transmissão para suprir de energia elétrica as localidades de São Martinho d’Oeste e Jatobá, no Estado de São Paulo.

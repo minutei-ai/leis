@@ -1,5 +1,3 @@
-###DEC-006010-0-000-03-01-2007@@@
-
 DECRETO No- 6.010, DE 3 DE JANEIRO DE 2007
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Ministério da Agricultura, Pecuária e Abastecimento.

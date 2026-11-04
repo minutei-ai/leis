@@ -1,5 +1,3 @@
-###DEL-000429-0-000-22-01-1969@@@
-
 DECRETO-LEI Nº 429, dE 22 DE JANEIRO DE 1969
 
 Autoriza o Ministério da Fazenda a regularizar despesa realizadas com base nos artigos 46 e 48 do Código de Contabilidade da União, e dá outras providências.

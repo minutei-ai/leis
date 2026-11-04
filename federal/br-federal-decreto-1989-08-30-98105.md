@@ -1,5 +1,3 @@
-###DEC-098105-0-000-30-08-1989@@@
-
 DECRETO Nº 98.105, DE 30 DE AGOSTO DE 1989
 
 Cria o Comitê Organizador do XVIII Congresso Panamericano de Estradas de Ferro, e dá outras providências.

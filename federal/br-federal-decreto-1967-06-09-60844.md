@@ -1,5 +1,3 @@
-###DEC-060844-0-000-09-06-1967@@@
-
 DECRETO Nº 60.844, DE 9 DE JUNHO DE 1967
 
 Autoriza o funcionamento dos “lojistas do comércio” aos domingos e feriados, até às 12 horas, nos municípios de Petrópolis, Teresópolis e Nova Friburgo.

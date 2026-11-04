@@ -1,5 +1,3 @@
-###DEC-053453-0-000-20-01-1964@@@
-
 DECRETO Nº 53.453, DE 20 DE JANEIRO DE 1964.
 
 Dispõe sôbre o ensino primário gratuito a ser prestado pelas emprêsas industriais, comerciais e agrícolas em que trabalhem mas de cem pessoas, e dá outras providências.

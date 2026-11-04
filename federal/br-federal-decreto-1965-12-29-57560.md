@@ -1,5 +1,3 @@
-###DEC-057560-0-000-29-12-1965@@@
-
 DECRETO nº 57.560, DE 29 DE DEZEMBRO DE 1965.
 
 Transfere do Município de Anchieta à Espirito Santo Centra Elétricas S.A concessão para distribuir energia elétrica.

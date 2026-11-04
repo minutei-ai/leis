@@ -1,5 +1,3 @@
-###DEC-007610-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.610, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 2002, de 29 de julho de 2011, adotada pelo Conselho de Segurança das Nações Unidas, que especifica duas novas práticas para a aplicação das medidas seletivas previstas na Resolução nº1844, de 20 de novembro de 2008, do Conselho de Segurança das Nações Unidas.

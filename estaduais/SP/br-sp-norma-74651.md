@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74651)
-
 # LEI COMPLEMENTAR Nº 1.023, DE 28 DE NOVEMBRO DE 2007
 
 ### _Institui Bônus Mérito aos servidores técnicos, administrativos e docentes do Centro Estadual da Educação Tecnológica Paula Souza - CEETEPS_

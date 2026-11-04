@@ -1,5 +1,3 @@
-###DEC-051041-0-000-25-07-1961@@@
-
 Decreto nº 51.041, de 25 de julho de 1961.
 
 Declara sem efeito o Decreto nº 47.014, de 13 de outubro de 1959.

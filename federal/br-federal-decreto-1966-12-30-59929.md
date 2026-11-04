@@ -1,5 +1,3 @@
-###DEC-059929-0-000-30-12-1966@@@
-
 DECRETO Nº 59.929, DE 30 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Astério Conrado da Silva a pesquisar diamantes, no município de Diamantina, Estado de Minas Gerais.

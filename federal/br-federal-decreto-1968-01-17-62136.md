@@ -1,5 +1,3 @@
-###DEC-062136-0-000-17-01-1968@@@
-
 DECRETO Nº 62.136, DE 17 DE JANEIRO DE 1968.
 
 Declara de utilidade pública o “Liceu Salesiano do Salvador”, com sede em Salvador Estado da Bahia.

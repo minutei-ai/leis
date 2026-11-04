@@ -1,5 +1,3 @@
-###DEL-000002-0-000-14-01-1966@@@
-
 DEcreTO-LEI Nº 2, dE 14 DE JANeiRO DE 1966
 
 Autoriza a requisição de bens ou serviços essenciais ao abastecimento da população e dá outras providências.

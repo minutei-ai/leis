@@ -1,5 +1,3 @@
-###DEC-082000-0-000-19-07-1978@@@
-
 Decreto nº 82.000, de 19 de julho de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação da Faculdade de Engenharia de Operação, com sede na cidade de São João Del Rei, Estado de Minas Gerais.

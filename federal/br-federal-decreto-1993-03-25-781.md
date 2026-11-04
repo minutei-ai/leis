@@ -1,7 +1,3 @@
-1
-
-###DEC-000781-0-000-25-03-1993@@@
-
 DECRETO N° 781, DE 25 DE MARÇO DE 1993
 
 Cria Comissão para apreciar procedimentos de análise e implantação de projetos .

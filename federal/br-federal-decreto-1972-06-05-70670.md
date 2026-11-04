@@ -1,5 +1,3 @@
-###DEC-070670-0-000-05-06-1972@@@
-
 DECRETO Nº 70.670, DE 5 DE JUNHO DE 1972.
 
 Aprova o Estatuto da Fundação Alexandre de Gusmão.

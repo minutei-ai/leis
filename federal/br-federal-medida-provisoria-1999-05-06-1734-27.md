@@ -1,5 +1,3 @@
-###MPV-001734-0-027-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.734-27, DE 6 DE MaIO DE 1999
 
 Estabelecer multa em operações de importação e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076027-0-000-25-07-1975@@@
-
 DECRETO Nº 76.027 - DE 25 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciência e Letras "Tibiriçá" , mantida pela Associação "Tibiriçá" de Educação, com sede na cidade de São Paulo, Estado de São Paulo,

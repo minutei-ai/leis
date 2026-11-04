@@ -1,5 +1,3 @@
-###DEL-004286-0-000-30-04-1942@@@
-
 DECRETO-LEI N. 4.286 – DE 30 DE ABRIL DE 1942
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de 111:300$0 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-003422-0-000-20-04-2000@@@
-
 DECRETO Nº 3.422, DE 20 DE ABRIL DE 2000.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República da Colômbia sobre Sanidade Animal em Áreas de Fronteira, celebrado em Bogotá, em 16 de julho de 1985.
@@ -110,4 +108,24 @@ Artigo VIII
 
 Feito em Bogotá, aos 16 dias do mês de julho de 1985, em dois exemplares, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República Federativa do Brasil</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Carlos Alberto Leite Barbosa</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Embaixador Extraordinário e Plenipotenciário</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>da Colômbia</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Augusto Ramirez Ocampo</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Ministro das Relações</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+Carlos Alberto Leite Barbosa
+
+Embaixador Extraordinário e Plenipotenciário
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República
+
+da Colômbia
+
+Augusto Ramirez Ocampo
+
+Ministro das Relações
+
+Exteriores
+
+</td></tr></tbody></table>

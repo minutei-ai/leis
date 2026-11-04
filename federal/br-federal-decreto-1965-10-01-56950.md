@@ -1,5 +1,3 @@
-###DEC-056950-0-000-01-10-1965@@@
-
 DECRETO Nº 56.950, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Companhia Central Brasileira de Fôrça Elétrica a construir linha de transmissão, e dá outras providências.

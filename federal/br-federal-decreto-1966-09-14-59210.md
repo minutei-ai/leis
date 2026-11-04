@@ -1,5 +1,3 @@
-###DEC-059210-0-000-14-09-1966@@@
-
 DECRETO Nº 59.210, DE 14 DE SETEMBRO DE 1966.
 
 Declara de interesse social para fins de desapropriação, imóveis rurais situados nos Municípios de Ribeirão e Amaraji, no Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-070138-0-000-10-02-1972@@@
-
 DECRETO Nº 70.138, DE 10 DE FEVEREIRO DE 1972.
 
 Outorga à Companhia Hidro Elétrica do São Francisco, concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio São Francisco.

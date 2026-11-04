@@ -1,5 +1,3 @@
-###DEC-065554-0-000-21-10-1969@@@
-
 DECRETO Nº 65.554 - DE 21 DE OUTUBRO DE 1969.
 
 Autoriza o Departamento de Águas e Energia Elétrica, de São Paulo, a encampar instalações de produção de energia hidrelétrica.

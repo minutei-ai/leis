@@ -1,5 +1,3 @@
-###DEC-058697-0-000-22-06-1966@@@
-
 decreto nº 58.697, de 22 de junho de 1966.
 
 Altera a lotação numérica do Quadro de Pessoal, Parte Permanente do Ministério da Fazenda.

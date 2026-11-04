@@ -1,5 +1,3 @@
-###DEC-078589-0-000-18-10-1976@@@
-
 DECRETO Nº 78.589, DE 18 DE OUTUBRO DE 1976
 
 Concede à Brumafer Mineração Limitada o direito de lavrar minério de ferro no Município de Sabará, Estado de Minas Gerais.

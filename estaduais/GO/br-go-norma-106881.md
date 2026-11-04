@@ -118,7 +118,8 @@ Parágrafo único. Na programação de veículos, o órgão ou a entidade poder�
 
 CAPÍTULO II
 
-DOS CRITÉRIOS PARA A CONTRATAÇÃO DOS VEÍCULOS<br>
+DOS CRITÉRIOS PARA A CONTRATAÇÃO DOS VEÍCULOS
+
 DE COMUNICAÇÃO EM MÍDIAS DIGITAIS
 
 Art. 6º Para a contratação dos veículos de comunicação no âmbito dos contratos de publicidade em mídias digitais por meio de _websites,_ portais de notícias, _blogs,_ aplicativos e similares, os referidos veículos deverão observar os seguintes critérios mínimos:
@@ -150,8 +151,6 @@ Art. 11. A SECOM poderá editar normas e orientações complementares para o cum
 Art. 12. Este Decreto entra em vigor na data de sua publicação e produz efeitos a partir de 15 de abril de 2023 quanto aos arts. 6º e 7º, nos termos especificados no art. 8º.
 
 Goiânia, 4 de abril de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

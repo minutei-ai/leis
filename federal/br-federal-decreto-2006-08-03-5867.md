@@ -1,5 +1,3 @@
-###DEC-005867-0-000-03-08-2006@@@
-
 DECRETO Nº 5.867, DE 3 DE AGOSTO DE 2006.
 
 Promulga o Acordo de Extradição entre os Estados Partes do Mercosul e a República da Bolívia e a República do Chile, de 10 de dezembro de 1998.
@@ -22,11 +20,7 @@ Brasília, 3 de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no D.O.U. de 5.8.2006
-
-ACORDO DE EXTRADIÇÃO ENTRE OS ESTADOS PARTES DO MERCOSUL
+         Samuel Pinheiro Guimarães NetoACORDO DE EXTRADIÇÃO ENTRE OS ESTADOS PARTES DO MERCOSUL
 
 E A REPÚBLICA DA BOLÍVIA E A REPÚBLICA DO CHILE
 

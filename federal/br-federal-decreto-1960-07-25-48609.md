@@ -1,5 +1,3 @@
-###DEC-048609-0-000-25-07-1960@@@
-
 DECRETO Nº 48.609, DE 25 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Sebastião Geraldo da Silva a pesquisar diamantes no município de Diamantina, Estado de Minas Gerais.

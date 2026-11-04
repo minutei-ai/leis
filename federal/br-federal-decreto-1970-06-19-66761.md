@@ -1,5 +1,3 @@
-###DEC-066761-0-000-19-06-1970@@@
-
 DECRETO Nº 66.761 - DE 19 DE JUNHO DE 1970
 
 Declara de utilidade pública a Escola Profissional Santo Adolfo, com sede no Estado da Guanabara.

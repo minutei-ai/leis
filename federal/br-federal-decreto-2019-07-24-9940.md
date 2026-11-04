@@ -34,4 +34,4 @@ Sérgio Moro
 
 Antonio Paulo Vogel de Medeiros
 
-Ricardo de Aquino Salles<br>
+Ricardo de Aquino Salles

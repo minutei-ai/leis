@@ -1,5 +1,3 @@
-###DEC-074875-0-000-12-11-1974@@@
-
 DECRETO Nº 74.875, DE 12 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos, a outorga deferida à Rádio Difusora Brasileira S. A., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Uberlândia, Estado de Minas Gerais.

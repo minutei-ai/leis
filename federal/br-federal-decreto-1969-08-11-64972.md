@@ -1,5 +1,3 @@
-###DEC-064972-0-000-11-08-1969@@@
-
 DECRETO Nº 64.972 - DE 11 DE AGÔSTO DE 1969.
 
 Altera o enquadramento do Pessoal do Ministério da Exército beneficiado pelo artigo 2º da Lei nº 3.967, de 5 outubro de 1961.

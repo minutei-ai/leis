@@ -1,5 +1,3 @@
-###DEC-095484-0-000-14-12-1987@@@
-
 DECRETO Nº 95.484, DE 14 DE DEZEMBRO DE 1987
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

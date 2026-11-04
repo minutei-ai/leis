@@ -6,15 +6,16 @@ Dá denominação ao prédio do Fórum da Comarca de Maracaju.
 
 Publicada no Diário Oficial nº 8.393, de 15 de março de 2013, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado <i>Desembargador Assis Pereira da Rosa</i> o prédio do Fórum da Comarca de Maracaju.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado *Desembargador Assis Pereira da Rosa* o prédio do Fórum da Comarca de Maracaju.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 14 de março de 2013.
 
-<br>
-ANDRÉ PUCCINELLI<br>
+ANDRÉ PUCCINELLI
+
 Governador do Estado

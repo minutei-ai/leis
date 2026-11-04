@@ -1,5 +1,3 @@
-###DEC-087198-0-000-19-05-1982@@@
-
 Decreto nº 87.198, de 19 de maio de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

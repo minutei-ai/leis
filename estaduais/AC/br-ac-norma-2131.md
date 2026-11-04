@@ -1,6 +1,10 @@
 > **LEI Nº 3.374, DE 20 DE FEVEREIRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a compensação de débitos com a Fazenda Pública com créditos decorrentes de precatórios do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a compensação de débitos com a Fazenda Pública com créditos decorrentes de precatórios do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -32,6 +36,6 @@
 
 Rio Branco-Acre, 28 de fevereiro de 2018, 130º da República, 116º do Tratado de Petrópolis e 57º do Estado do Acre.
 
-**T****ião Viana**
+**Tião Viana**
 
 Governador do Estado do Acre

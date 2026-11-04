@@ -1,5 +1,3 @@
-###DEC-081189-0-000-05-01-1978@@@
-
 Decreto nº 81.189, de 5 de janeiro de 1978
 
 Fixa, para o exercício de 1978, o limite global de importação, através da Zona Franca de Manaus, e dá outras providências.

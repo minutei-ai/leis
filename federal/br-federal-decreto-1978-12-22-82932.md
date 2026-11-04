@@ -1,5 +1,3 @@
-###DEC-082932-0-000-22-12-1978@@@
-
 Decreto nº 82 932, de 22 de dezembro de 1978
 
 Cria a Delegacia Regional do Trabalho no Estado de Mato Grosso do Sul.

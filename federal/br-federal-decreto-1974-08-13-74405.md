@@ -1,5 +1,3 @@
-###DEC-074405-0-000-13-08-1974@@@
-
 decreto nº 74.405, de 13 de agosto de 1974.
 
 Retifica a concessão de lavra outorgada à Magnesita S. A., pelo Decreto nº 40.957, de 14 de fevereiro de 1957.

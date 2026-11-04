@@ -1,5 +1,3 @@
-###DEC-077309-0-000-17-03-1976@@@
-
 DECRETO Nº 77.309, DE 17 DE MARÇO DE 1976
 
 Autoriza o funcionamento da Faculdade de Arquitetura e Urbanismo, com sede na Cidade de Porto Alegre, Estado do Rio Grande do Sul.

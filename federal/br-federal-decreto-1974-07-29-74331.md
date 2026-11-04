@@ -1,5 +1,3 @@
-###DEC-074331-0-000-29-07-1974@@@
-
 DECRETO Nº 74.331 - DE 29 DE JULHO DE 1974.
 
 Autoriza o funcionamento dos cursos de Administração (habilitações em Administração Pública e em Administração de Empresas), de Ciências Contábeis e de Ciências Econômicas das Faculdades Integradas da Sociedade Civil Colégio Moderno, com sede na Cidade de Belém, Estado do Pará.

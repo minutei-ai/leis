@@ -1,5 +1,3 @@
-###DEC-095312-0-000-01-12-1987@@@
-
 DECRETO Nº 95.312, DE 1º DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Desenho Industrial e do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Tecnologia de Birigüi, São Paulo.

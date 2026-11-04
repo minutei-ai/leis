@@ -1,5 +1,3 @@
-###DEC-097549-0-000-02-03-1989@@@
-
 DECRETO N° 97.549, DE 2 DE MARÇO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, como benfeitorias, situada no Município e Comarca de São Paulo, Estado de São Paulo, destinada a instalação de Posto de Serviço da Telecomunicações de São Paulo S.A.  TELESP, e dá outras providências.

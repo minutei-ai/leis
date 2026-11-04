@@ -1,5 +1,3 @@
-###DEC-059020-0-000-08-08-1966@@@
-
 DECRETO Nº 59.020, DE 8 DE AGôSTO DE 1966.
 
 Altera a redação do artigo 10 do Regulamento aprovado pelo Decreto nº 47.890, de 9 de março de 1960.

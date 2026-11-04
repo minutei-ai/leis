@@ -1,5 +1,3 @@
-###MPV-000228-0-000-09-12-2004@@@
-
 MEDIDA PROVISÓRIA Nº 228, DE 9 DE DEZEMBRO DE 2004
 
 Regulamenta a parte final do disposto no inciso XXXIII do art. 5o da Constituição e dá outras providências.

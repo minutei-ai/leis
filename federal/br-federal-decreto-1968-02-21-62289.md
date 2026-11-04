@@ -1,5 +1,3 @@
-###DEC-062289-0-000-21-02-1968@@@
-
 DECRETO Nº 62.289, DE 21 DE FEVEREIRO DE1968.
 
 Dá nova redação, a dispositivos do Decreto nº 59.905, de 30 de dezembro de 1966, que regulamenta a Lei nº 4.822, de 29 de outubro de 1965, alterada pela Lei nº 5.141, de 14 de outubro de 1966, que estabelece princípios, condições e critérios básicos para promoções de oficiais da Marinha de Guerra.

@@ -1,5 +1,3 @@
-###DEC-070081-0-000-31-01-1972@@@
-
 decreto nº 70.081, de 31 de janeiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas com os Cursos de Contabilidade e Administração - Minas Gerais.

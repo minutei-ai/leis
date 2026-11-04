@@ -1,5 +1,3 @@
-###DEC-068909-0-000-13-07-1971@@@
-
 decreto nº 68.909, de 13 de julho de 1971.
 
 Altera os limites do Parque Nacional do Xingu, criado pelo Decreto número 50.445, de 14 de abril de 1961, regulamentado pelo Decreto número 51.084 de 31 de julho de 1961 e alterado pelo Decreto nº 63.082, de 16 de agôsto de 1968.

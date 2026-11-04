@@ -1,5 +1,3 @@
-###DEC-004116-0-000-06-02-2002@@@
-
 DECRETO Nº 4.116, DE 6 DE FEVEREIRO DE 2002.
 
 Dispõe sobre a execução do Quinquagésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica no 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 9 de novembro de 2001.

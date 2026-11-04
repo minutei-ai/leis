@@ -1,5 +1,3 @@
-###DEC-060058-0-000-13-01-1967@@@
-
 DECRETO Nº 60.058, DE 13 DE JANEIRO DE 1967.
 
 Abre, pelo Ministério da Guerra o crédito especial de Cr$300.000.000 (trezentos milhões de cruzeiros), para os fins que específica.

@@ -27,7 +27,6 @@ sha256_markdown: "cd263ce917b87f463849ea38959bc88ae78a0846e8f0f328a7dd768bf49836
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 97, DE 4 DE OUTUBRO DE 2017
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 5.10.2017
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2017-10-04-97.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -132,8 +130,4 @@ Senador GLADSON CAMELI 2º Secretário
 
 Senador ANTONIO CARLOS VALADARES 3º Secretário
 
-Senador ZEZE PERRELLA 4º Secretário
-
-Este texto não substitui o publicado no DOU 5.10.2017
-
-\*
+Senador ZEZE PERRELLA 4º Secretário\*

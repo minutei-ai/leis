@@ -1,5 +1,3 @@
-###DEC-045297-0-000-27-01-1959@@@
-
 Decreto nº 45.297, de 27 de janeiro de 1959.
 
 Autoriza Piccoli & Cia. a pesquisar água mineral no município de Alegrete, Estado do Rio Grande do Sul.

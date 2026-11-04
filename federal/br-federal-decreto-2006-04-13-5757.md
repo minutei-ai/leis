@@ -1,5 +1,3 @@
-###DEC-005757-0-000-13-04-2006@@@
-
 DECRETO Nº 5.757, DE 13 DE ABRIL DE 2006.
 
 Dá nova redação ao art. 3º do Decreto nº 5.717, de 13 de março de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria de Imprensa e Porta-Voz da Presidência da República.

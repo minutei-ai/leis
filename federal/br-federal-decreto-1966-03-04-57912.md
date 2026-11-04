@@ -1,5 +1,3 @@
-###DEC-057912-0-000-04-03-1966@@@
-
 DECRETO Nº 57.912, DE 4 DE MARÇO DE 1966.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão e dá outras providências.

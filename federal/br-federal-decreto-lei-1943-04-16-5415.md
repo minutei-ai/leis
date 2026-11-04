@@ -1,5 +1,3 @@
-###DEL-005415-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.415 – DE 16 DE ABRiL DE 1943
 
 Modifica o art. 13 do Regulamento das Caixas Econômicas Federais, baixado com o decreto n. 24.427, de 19 de junho de 1934, e dá outras providências.

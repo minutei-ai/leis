@@ -1,5 +1,3 @@
-###DEC-056962-0-000-01-10-1965@@@
-
 DECRETO Nº 56.962, DE 1º DE OUTUBRO DE 1965.
 
 Revoga o Decreto nº 52.356, de 14 de agôsto de 1963, e dá outras providências.

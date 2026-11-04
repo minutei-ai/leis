@@ -1,5 +1,3 @@
-###DEL-002265-0-000-12-03-1985@@@
-
 # DECRETO-LEI Nº 2.265, DE 12 DE março DE 1985.
 
 Dispõe sobre o recolhimento dos débitos previdenciários das Fundações e Autarquias Educacionais de Ensino Superior, mantidas com recursos do Poder Público.

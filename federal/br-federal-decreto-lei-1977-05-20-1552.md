@@ -1,5 +1,3 @@
-###DEL-001552-0-000-20-05-1977@@@
-
 # DECRETO-LEI Nº 1.552, DE 20 DE MAIO DE 1977
 
 Autoriza o Poder Executivo a antecipar recursos para os Fundos Especiais, e dá outras providências.

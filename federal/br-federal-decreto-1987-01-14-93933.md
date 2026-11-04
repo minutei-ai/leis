@@ -1,5 +1,3 @@
-###DEC-093933-0-000-14-01-1987@@@
-
 DECRETO N° 93.933, DE 14 DE JANEIRO DE 1987
 
 Dispõe sobre a organização e atribuições do Conselho Nacional de Saúde, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093846-0-000-22-12-1986@@@
-
 DECRETO Nº 93.846, DE 22 DE DEZEMBRO DE 1986
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

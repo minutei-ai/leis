@@ -1,5 +1,3 @@
-###DEL-002129-0-000-25-06-1984@@@
-
 # Decreto-lei nº 2.129, de 25 de junho de 1984.
 
 Reajusta o valor do soldo base do cálculo da remuneração dos militares.

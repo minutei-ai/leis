@@ -1,5 +1,3 @@
-###DEL-009356-0-000-13-06-1946@@@
-
 DECRETO-LEI N. 9.356 – DE 13 DE JUNHO DE 1946
 
 Cria, no Ministério da Marinha, a Diretoria de Hidrografia e Navegação.

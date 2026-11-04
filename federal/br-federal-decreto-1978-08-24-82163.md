@@ -1,5 +1,3 @@
-###DEC-082163-0-000-24-08-1978@@@
-
 Decreto nº 82.163, de 24 de agosto de 1978.
 
 Altera o Decreto nº 79.257, de 14 de fevereiro de 1977, que concede reconhecimento aos cursos de Pedagogia, de Letras e de Psicologia da Faculdade de Filosofia, Ciências e Letras "Tuiuti", de Curitiba, Paraná.

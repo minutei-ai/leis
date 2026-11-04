@@ -1,5 +1,3 @@
-###DEC-094239-0-000-21-04-1987@@@
-
 DECRETO Nº 94.239, DE 21 DE ABRIL DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Caixeta", classificado no cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado nos Municípios de Presidente Kennedy e Itapemirim, no Estado do Espírito Santo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.618, de 2 de maio de 1986, e dá outras providências.

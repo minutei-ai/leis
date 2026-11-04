@@ -1,5 +1,3 @@
-###DEC-064992-0-000-14-08-1969@@@
-
 DECRETO Nº 64.992 - DE 14 DE AGôSTO DE 1969.
 
 Fixa os valôres da Gratificação de Função Militar - Categoria II, da Gratificação de Localidade Especial, de Indenização de Representação e da Indenização para a moradia referentes ao ano de 1969.

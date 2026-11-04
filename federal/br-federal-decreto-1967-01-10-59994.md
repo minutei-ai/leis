@@ -1,5 +1,3 @@
-###DEC-059994-0-000-10-01-1967@@@
-
 DECRETO Nº 59.994, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Domingos Cardoso da Mata a pesquisar minério de tungstênio no município de Guabiruba, Estado de Santa Catarina.

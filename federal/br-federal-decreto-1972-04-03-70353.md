@@ -1,5 +1,3 @@
-###DEC-070353-0-000-03-04-1972@@@
-
 DECRETO Nº 70.353, DE 3 de ABRIL DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Estado do Rio Grande do Sul.

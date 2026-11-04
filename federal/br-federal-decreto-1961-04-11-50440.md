@@ -1,5 +1,3 @@
-###DEC-050440-0-000-11-04-1961@@@
-
 DECRETO Nº 50.440, DE 11 DE ABRIL DE 1961.
 
 Dispõe sôbre os serviços de fiscalização atribuídos às Repartições Aduaneiras do País.

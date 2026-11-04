@@ -1,5 +1,3 @@
-###DEC-051683-0-000-30-01-1963@@@
-
 DECRETO Nº 51.683, DE 30 DE JANEIRO DE 1963.
 
 Transfere, sem aumento de despesa, um cargo do Quadro de Pessoal - Parte Permanente do Território Federal de Rondônia para idênticos Quadro e Parte do Ministério da Justiça e Negócios Interiores.

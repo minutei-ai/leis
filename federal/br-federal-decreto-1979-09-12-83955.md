@@ -1,5 +1,3 @@
-###DEC-083955-0-000-12-09-1979@@@
-
 Decreto nº 83.955, de 12 de setembro de 1979.
 
 Cria a Secretaria-Executiva do CONCEX e dá outras providências.

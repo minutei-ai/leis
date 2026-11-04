@@ -1,5 +1,3 @@
-###DEC-052831-0-000-14-11-1963@@@
-
 Decreto nº 52.831, de 14 de novembro de 1963.
 
 Concede reconhecimento à faculdade de Direito de Uberlândia.

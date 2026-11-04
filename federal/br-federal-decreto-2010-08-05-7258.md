@@ -1,5 +1,3 @@
-###DEC-007258-0-000-05-08-2010@@@
-
 DECRETO Nº 7.258, DE 5 DE AGOSTO DE 2010.
 
 Cria a Empresa Brasileira de Legado Esportivo S.A. - BRASIL 2016, especifica a constituição inicial de seu capital social, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049785-0-000-31-12-1960@@@
-
 DECRETO Nº 49.785, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à Indústria de Calcários Caçapava Limitada autorização para funcionar como emprêsa de mineração.

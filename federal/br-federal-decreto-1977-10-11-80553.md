@@ -1,5 +1,3 @@
-###DEC-080553-0-000-11-10-1977@@@
-
 DECRETO Nº 80.553, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza o funcionamento dos Cursos de Enfermagem e Obstetrícia e de Ciências, do Centro Integrado de Ensino de Concórdia, com sede na cidade de Concórdia, Estado de Santa Catarina.

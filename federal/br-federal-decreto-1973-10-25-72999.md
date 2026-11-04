@@ -1,5 +1,3 @@
-###DEC-072999-0-000-25-10-1973@@@
-
 DECRETO Nº 72.999, DE 25 DE OUTUBRO DE 1973.
 
 Torna sem efeito redistribuição de cargo do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura para o da Superintendência Nacional do Abastecimento.

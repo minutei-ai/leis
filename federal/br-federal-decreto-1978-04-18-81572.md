@@ -1,5 +1,3 @@
-###DEC-081572-0-000-18-04-1978@@@
-
 Decreto nº 81.572, de 18 de abril de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

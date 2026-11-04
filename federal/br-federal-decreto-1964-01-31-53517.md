@@ -1,5 +1,3 @@
-###DEC-053517-0-000-31-01-1964@@@
-
 DECRETO Nº 53.517, DE 31 DE JANEIRO DE 1964.
 
 Reconhece a Confederação Nacional dos Trabalhadores na Agricultura.
@@ -373,8 +371,6 @@ Rio de Janeiro, 27 de dezembro de 1963.
 Lyndolpho Silva
 
 PRESIDENTE
-
-###DEC-053517-0-000-31-01-1964@@@RET01+++
 
 DECRETO Nº 53.517, de 31 DE JANEIRO DE 1964.
 

@@ -1,7 +1,3 @@
-1
-
-###DEC-000946-0-000-01-10-1993@@@
-
 DECRETO Nº 946, DE 1º DE OUTUBRO DE 1993
 
 Regulamenta a Lei nº 8.623, de 28 de janeiro de 1993, que dispõe sobre a profissão de Guia de Turismo e dá outras providências.

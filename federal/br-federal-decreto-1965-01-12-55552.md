@@ -1,5 +1,3 @@
-###DEC-055552-0-000-12-01-1965@@@
-
 DECRETO Nº 55.552, DE 12 DE JANEIRO DE 1965.
 
 Atribui ao Ministério da Guerra, mediante convênio com o Ministério da Viação e Obras Públicas, os encargos de implantação, melhoramentos e pavimentação em trechos de Rodovias Nacionais.

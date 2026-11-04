@@ -1,5 +1,3 @@
-###DEC-003945-0-000-28-09-2001@@@
-
 DECRETO Nº 3.945, DE 28 DE SETEMBRO DE 2001
 
 Define a composição do Conselho de Gestão do Patrimônio Genético e estabelece as normas para o seu funcionamento, mediante a regulamentação dos arts. 10, 11, 12, 14, 15, 16, 18 e 19 da Medida Provisória nº 2.186-16, de 23 de agosto de 2001, que dispõe sobre o acesso ao patrimônio genético, a proteção e o acesso ao conhecimento tradicional associado, a repartição de benefícios e o acesso à tecnologia e transferência de tecnologia para sua conservação e utilização, e dá outras providências.

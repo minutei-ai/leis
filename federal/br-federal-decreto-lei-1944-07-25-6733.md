@@ -1,5 +1,3 @@
-###DEL-006733-0-000-25-07-1944@@@
-
 DECRETO-LEI N. 6.733 – DE 25 DE JULHO DE 1944
 
 Fixa normas para apuração de antiguidade de classe

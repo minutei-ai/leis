@@ -1,5 +1,3 @@
-###DEC-068293-0-000-26-02-1971@@@
-
 Decreto nº 68.293, de 26 de fevereiro de 1971.
 
 Declara sem efeito o Decreto número 35.978, de 4 de agosto de 1954.

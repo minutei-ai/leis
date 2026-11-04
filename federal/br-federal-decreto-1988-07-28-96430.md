@@ -1,5 +1,3 @@
-###DEC-096430-0-000-28-07-1988@@@
-
 DECRETO N° 96.430, DE 28 DE JULHO DE 1988
 
 Promulga o Acordo de Cooperação Sa­nitária entre a República Federativa do Brasil e a República Cooperativista da Guiana.

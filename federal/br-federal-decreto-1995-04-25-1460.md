@@ -1,7 +1,3 @@
-1
-
-###DEC-001460-0-000-25-04-1995@@@
-
 DECRETO Nº 1.460, DE 25 DE ABRIL DE 1995
 
 Altera o valor constante do Anexo ao Decreto nº 1.385, de 6 de fevereiro de 1995, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1995.

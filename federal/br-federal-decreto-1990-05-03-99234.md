@@ -1,7 +1,3 @@
-1
-
-###DEC-099234-0-000-03-05-1990@@@
-
 DECRETO N° 99.234, DE 3 DE MAIO DE 1990
 
 Dispõe sobre a criação da Comissão de Ciência e Tecnologia para o Desenvolvimento do Nordeste, e dá outras providências.

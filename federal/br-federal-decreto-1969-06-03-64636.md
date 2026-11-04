@@ -1,5 +1,3 @@
-###DEC-064636-0-000-03-06-1969@@@
-
 DECRETO Nº 64.636, DE 3 DE JUNHO DE 1969.
 
 Declara sem efeito o Decreto número 59.954, de 9 janeiro de 1967.

@@ -1,5 +1,3 @@
-###DEC-078269-0-000-17-08-1976@@@
-
 DECRETO Nº 78.269, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Itararé, com sede na cidade de Itararé, Estado de São Paulo.

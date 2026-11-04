@@ -1,5 +1,3 @@
-###DEC-066639-0-000-27-05-1970@@@
-
 Decreto nº 66.639, de 27 de maio de 1970.
 
 Autoriza o funcionamento de Cursos.

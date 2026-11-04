@@ -1,5 +1,3 @@
-###DEC-073318-0-000-18-12-1973@@@
-
 Decreto nº 73.318 - de 18 de dezembro de 1973
 
 Transfere da Prefeitura Municipal de Mineiros para as Centrais Elétricas de Goiás S.A. a concessão para produzir, transmitir e distribuir energia elétrica no Município de Mineiros, Estado de Goiás.

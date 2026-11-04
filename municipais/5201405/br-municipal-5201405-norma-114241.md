@@ -31,19 +31,24 @@ III - SITUAÇÃO PROPOSTA/DESMEMBRAMENTO 
 | Lote 07A | 240,00 |
 | Lote 08 | 240,00 |
 
-Parágrafo único. O desmembramento/remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.215.900, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único, deste Decreto.<br>
- <br>
+Parágrafo único. O desmembramento/remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.215.900, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único, deste Decreto.
+
+ 
+
 Art. 3º - A presente regularização fundiária é a título gratuito na modalidade de interesse social, nos termos do inciso I do art. 13 da Lei nº 13.465/2017.
 
 Art. 4º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 18 de Janeiro de 2024. 
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

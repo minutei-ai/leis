@@ -1,5 +1,3 @@
-###DEC-003646-0-000-30-10-2000@@@
-
 DECRETO Nº 3.646, DE 30 DE OUTUBRO DE 2000.
 
 Dispõe sobre o Imposto de Exportação incidente sobre os produtos que menciona.

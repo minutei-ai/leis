@@ -4,7 +4,8 @@ Cria o Fundo de Crédito ao Trabalhador - FUNCRED, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO OBJETIVO, VINCULAÇÃO E ADMINISTRAÇÃO
 
 Art. 1º - Fica criado o Fundo de Crédito ao Trabalhador - FUNCRED, destinado ao apoio financeiro a micro e pequenos empreendedores econômicos, a micro e pequenas empresas, ao incremento dos níveis de emprego e renda e ao estímulo à formação de cooperativas, no Estado da Bahia, através do Programa BNDES - TRABALHADOR.
@@ -27,7 +28,8 @@ II - um representante do BANEB;
 
 III - um representante da Comissão Municipal de Emprego.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS RECURSOS, DESPESAS E CONTABILIDADE
 
 Art. 5º - Os municípios que aderirem à participação no FUNCRED serão co-patrocinadores e terão asseguradas aplicações em empreendimentos localizados em suas bases territoriais no mínimo equivalentes a 5 (cinco) vezes o montante de recursos alocados, diretamente, ou mobilizados pelo município.
@@ -84,7 +86,8 @@ Art. 11- Os recursos do FUNCRED não poderão ser destinados à cobertura de des
 
 Parágrafo único - Através de convênio a ser firmado entre o Estado, os municípios e o agente financeiro, devem ser estabelecidos os critérios de cobertura dos custos administrativos e de serviços bancários, inerentes à operacionalização do Fundo.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DISPOSIÇÕES GERAIS
 
 Art. 12 - Fica o Poder Executivo autorizado a abrir, ao Orçamento Fiscal vigente, nos Encargos Gerais do Estado, crédito especial, no valor de até R$10.000.000,00 (dez milhões de reais), destinado à integralização do FUNCRED.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000776-0-000-20-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 776, DE 20 DE DEZEMBRO de 1994
 
 Dispõe sobre alteração do Decreto-Lei nº 1.804, de 3 de setembro de 1980.

@@ -1,5 +1,3 @@
-###DEC-048280-0-000-09-06-1960@@@
-
 Decreto nº 48.280, de 9 de junho de 1960.
 
 Outorga concessão à Rádio Difusora de Iguape Limitada, para instalar uma estação radiodifusora.

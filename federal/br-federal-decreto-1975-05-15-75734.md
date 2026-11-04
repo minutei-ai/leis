@@ -1,5 +1,3 @@
-###DEC-075734-0-000-15-05-1975@@@
-
 DECRETO Nº 75.734, DE 15 DE MAIO DE 1975.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Valinhos, estado de São Paulo.

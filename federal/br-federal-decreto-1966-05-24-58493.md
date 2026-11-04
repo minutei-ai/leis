@@ -1,5 +1,3 @@
-###DEC-058493-0-000-24-05-1966@@@
-
 DECRETO Nº 58.493, DE 24 DE MAIO DE 1966.
 
 Determina intervenção administrativa no Consórcio Intermunicipal de Eletricidade, com sede no Município de São Miguel do Oeste, Estado de Santa Catarina.

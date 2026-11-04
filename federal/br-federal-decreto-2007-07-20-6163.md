@@ -1,5 +1,3 @@
-###DEC-006163-0-000-20-07-2007@@@
-
 DECRETO Nº 6.163, DE 20 DE JULHO DE 2007.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Turismo, e dá outras providências.
@@ -28,11 +26,7 @@ LUIZ INÁCIO LULA DA SILVA
 
          Paulo Bernardo Silva
 
-         Marta Suplicy
-
-Este texto não substitui o publicado no DOU de 23.7.2007
-
-ANEXO I
+         Marta SuplicyANEXO I
 
 ESTRUTURA REGIMENTAL DO MINISTÉRIO DO TURISMO
 

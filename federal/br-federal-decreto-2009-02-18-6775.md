@@ -1,5 +1,3 @@
-###DEC-006775-0-000-18-02-2009@@@
-
 DECRETO Nº 6.775, DE 18 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a criação da Embaixada do Brasil na Comunidade da Dominica, com sede em Roseau.

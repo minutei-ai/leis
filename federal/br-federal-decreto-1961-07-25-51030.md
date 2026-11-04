@@ -1,5 +1,3 @@
-###DEC-051030-0-000-25-07-1961@@@
-
 DECRETO Nº 51.030, DE 25 DE JULHO DE 1961.
 
 Cria a Reserva Florestal da Mundu-rucânia e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-096834-0-000-28-09-1988@@@
-
 DECRETO Nº 96.834, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO EMISSORA DE EDUCAÇÃO RURAL SANTARÉM LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na Cidade de Santarém, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-055937-0-000-19-04-1965@@@
-
 DECRETO Nº 55.937, DE 19 DE ABRIL DE 1965.
 
 Autoriza a cessão, sob a forma de utilização gratuita, à Administração do Pôrto do Rio de Janeiro do terreno que menciona situado no Estado da Guanabara.

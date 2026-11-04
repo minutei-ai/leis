@@ -1,5 +1,3 @@
-###DEC-002247-0-000-06-06-1997@@@
-
 DECRETO Nº 2.247, DE 6 DE JUNHO DE 1997
 
 Acrescenta inciso ao art. 3º e altera a redação do art. 4º do Decreto nº 2.184, de 24 de março de 1997.

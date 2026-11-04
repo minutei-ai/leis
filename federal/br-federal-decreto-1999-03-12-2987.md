@@ -1,5 +1,3 @@
-###DEC-002987-0-000-12-03-1999@@@
-
 DECRETO Nº 2.987, DE 12 DE MARÇO DE 1999.
 
 Altera a redação do art. 4º do Decreto nº 2.701, de 30 de julho de 1998, que estabelece as características dos Títulos da Dívida Pública Mobiliária Federal interna e dá outras providências.

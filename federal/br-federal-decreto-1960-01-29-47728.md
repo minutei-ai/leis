@@ -1,5 +1,3 @@
-###DEC-047728-0-000-29-01-1960@@@
-
 DECRETO Nº 47.728, DE 29 DE JANEIRO DE 1960.
 
 Autoriza Serrana S.A. de Mineração a pesquisar apatita no município de Jacupiranga, Estado de São Paulo.

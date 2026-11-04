@@ -1,5 +1,3 @@
-###DEL-009855-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.855 – DE 13 DE SETEMBRO DE 1946
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 6.643, de 29 de junho de 1944.

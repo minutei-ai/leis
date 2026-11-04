@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9773c807-e3b2-429f-9acc-7dd1057d34bf/texto#nowhere)
 
-###DEL-001065-0-000-24-10-1969@@@
-
 Decreto-lei nº 1.065, de 24 de OuTUBRO de 1969
 
 Aprova a participação da República Federativa do Brasil no “Fundo de Pré-lnvestimento para a integração da América Latina”, sob administração do Banco Interamericano de Desenvolvimento, e dá outras providências.

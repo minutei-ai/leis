@@ -2,10 +2,12 @@ Decreto Numerado n° 9.767 / 2020
 
 ![](/assets/brasao_goias.gif)
 
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
-**DECRETO Nº 9.767, DE 17 DE DEZEMBRO DE 2020.<br>
+**DECRETO Nº 9.767, DE 17 DE DEZEMBRO DE 2020.
+
 **[\- Revogado pelo Decreto nº 9.847, de 13-04-2021, art. 2º, II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103939/decreto-9847)
 
 ~~[Altera o Estatuto da Universidade Estadual de Goiás - UEG, aprovado pelo Decreto nº 9.593, de 17 de janeiro de 2020.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72508/decreto-9593)~~
@@ -33,5 +35,3 @@ Decreto Numerado n° 9.767 / 2020
 ~~RONALDO CAIADO~~
 
 ~~Governador do Estado~~
-
-_Este texto não substitui o publicado no D.O. de 18-12-2020_ _._

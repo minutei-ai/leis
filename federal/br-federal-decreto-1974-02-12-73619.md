@@ -1,5 +1,3 @@
-###DEC-073619-0-000-12-02-1974@@@
-
 DECRETO Nº 73.619, DE 12 DE FEVEREIRO DE 1974.
 
 Regula o condomínio do reservatório Paraíbuna - Paraitinga e dá outras providências.

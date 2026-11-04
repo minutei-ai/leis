@@ -1,5 +1,3 @@
-###DEC-051157-0-000-07-08-1961@@@
-
 Decreto nº 51.157, de 7 de agôsto de 1961.
 
 Concede reconhecimento ao curso que indica.

@@ -1,5 +1,3 @@
-###DEL-004986-0-000-21-11-1942@@@
-
 DECRETO-LEI N. 4.986 – DE 21 DE NOVEMBRO DE 1942
 
 Dispõe sobre o escoamento da safra cafeeira de 1942-1943, e dá outras providências

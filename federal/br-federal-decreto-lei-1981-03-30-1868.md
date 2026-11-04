@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4a32bc6e-55f6-461b-a35c-9373936082f9/texto#nowhere)
 
-###DEL-001868-0-000-30-03-1981@@@
-
 # decreto-lei nº 1.868, de 30 DE março DE 1981.
 
 Altera dispositivo do Decreto-lei nº 1.164, de 1º de abril de 1971, que declara indispensáveis à segurança e ao desenvolvimento nacionais terras devolutas situadas na faixa de cem quilômetros de largura em cada lado do eixo de rodovias na Amazônia Legal.

@@ -1,5 +1,3 @@
-###DEC-090747-0-000-20-12-1984@@@
-
 Decreto nº 90.747, de 20 de dezembro de 1984
 
 Autoriza o aumento do capital Social da Companhia de Desenvolvimento do Amapá - CODEASA.

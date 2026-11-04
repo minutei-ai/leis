@@ -1,5 +1,3 @@
-###DEC-002995-0-000-19-03-1999@@@
-
 DECRETO Nº 2.995, DE 19 DE MARÇO DE 1999.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados – IPI incidente sobre produtos vinculados à área médica.

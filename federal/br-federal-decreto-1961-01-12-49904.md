@@ -1,5 +1,3 @@
-###DEC-049904-0-000-12-01-1961@@@
-
 DECRETO Nº 49.904, DE 12 DE JANEIRO DE 1961.
 
 Altera o art. 1º do Decreto nº 47.193, de 6 de novembro de 1959.

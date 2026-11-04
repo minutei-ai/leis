@@ -1,5 +1,3 @@
-###DEC-059539-0-000-11-11-1966@@@
-
 DECRETO Nº 59.539, DE 11 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Jorge Francisco de Amorim a pesquisar diamantes no município de Marabá, Estado do Pará.

@@ -142,5 +142,6 @@ Aparecida de Goiânia, 21 de fevereiro de 2025.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

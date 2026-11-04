@@ -1,5 +1,3 @@
-###DEC-051222-0-000-22-08-1961@@@
-
 DECRETO Nº 51.222, DE 22 DE AGôSTO DE 1961.
 
 Institui a Mobilização Nacional contra o Analfabetismo.

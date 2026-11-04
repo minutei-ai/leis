@@ -1,7 +1,3 @@
-1
-
-###DEC-098160-0-000-21-09-1989@@@
-
 DECRETO Nº 98.160, DE 21 DE SETEMBRO DE 1989
 
 Aprova o Estatuto da Empresa Gerencial de Projetos Navais – EMGEPRON

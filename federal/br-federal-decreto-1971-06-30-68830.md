@@ -1,5 +1,3 @@
-###DEC-068830-0-000-30-06-1971@@@
-
 DECRETO Nº 68.830 - DE 30 DE JUNHO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro e dá outras providências.

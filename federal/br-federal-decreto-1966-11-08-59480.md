@@ -1,5 +1,3 @@
-###DEC-059480-0-000-08-11-1966@@@
-
 decreto Nº 59.480, DE 8 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Seraphim Tavarone a pesquisar argila, no município de Suzano, estado de São Paulo.

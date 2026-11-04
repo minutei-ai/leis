@@ -1,5 +1,3 @@
-###DEC-075505-0-000-18-03-1975@@@
-
 DECRETO Nº 75.505, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras, mantida pelo Instituto Cultural Newton Paiva Ferreira, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

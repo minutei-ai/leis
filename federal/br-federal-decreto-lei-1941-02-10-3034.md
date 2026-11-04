@@ -1,5 +1,3 @@
-###DEL-003034-0-000-10-02-1941@@@
-
 DECRETO-LEI N. 3.034 – DE 10 DE FEVEREIRO DE 1941
 
 Altera a redação do artigo 13 do decreto-lei nº 1.545, de 25 de agosto de 1939.

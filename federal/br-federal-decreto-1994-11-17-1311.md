@@ -1,7 +1,3 @@
-1
-
-###DEC-001311-0-000-17-11-1994@@@
-
 DECRETO Nº 1.311, DE 17 DE NOVEMBRO DE 1994
 
 Reduz as alíquotas do Imposto sobre Produtos Industrializados (IPI), incidentes sobre os produtos que menciona.

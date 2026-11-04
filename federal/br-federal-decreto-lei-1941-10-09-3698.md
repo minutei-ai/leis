@@ -1,5 +1,3 @@
-###DEL-003698-0-000-09-10-1941@@@
-
 DECRETO-LEI N. 3.698 – DE 9 DE OUTUBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas.

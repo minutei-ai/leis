@@ -1,5 +1,3 @@
-###DEL-003045-0-000-12-02-1941@@@
-
 DECRETO-LEI N. 3.045 – de 12 DE FEVEREIRO DE 1941
 
 Dispõe sobre o funcionamento dos entrepostos de pesca.

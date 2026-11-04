@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212332)<br>
-
 # DECRETO N° 70.438, DE 10 DE MARÇO DE 2026
 
 ### _Institui a Medalha do Décimo Nono Batalhão de Polícia Militar do Interior e dá providências correlatas._

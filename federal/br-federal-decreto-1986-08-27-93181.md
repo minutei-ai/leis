@@ -1,5 +1,3 @@
-###DEC-093181-0-000-27-08-1986@@@
-
 DECRETO Nº 93.181, DE 27 DE AGOSTO DE 1986
 
 Concede à Companhia Siderúrgica de Tubarão - CST autorização para proceder a aumento do seu Capital Social.

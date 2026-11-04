@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/015e1c00-7a0e-4db4-a52d-6768c2dd2282/texto#nowhere)
 
-###DEL-000439-0-000-27-01-1969@@@
-
 DECRETO-LEI Nº 439, DE 27 DE JANEIRO DE 1969
 
 Dispõe sôbre a subscrição, pela União, das ações necessárias ao aumento de capital da Companhia Eletromecânica - CELMA.

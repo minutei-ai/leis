@@ -1,5 +1,3 @@
-###DEC-059807-0-000-19-12-1966@@@
-
 DECRETO Nº 59.807, DE 19 DE DEZEMBRO DE 1966
 
 Outorga concessão para distribuir energia elétrica e dá outra providências.

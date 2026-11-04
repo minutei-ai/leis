@@ -1,5 +1,3 @@
-###DEC-046464-0-000-20-07-1959@@@
-
 decreto nº 46.464, de 20 de julho de 1959.
 
 Declara de utilidade pública a Organização Religiosa Israelita do Rio de Janeiro, com sede no Distrito Federal.

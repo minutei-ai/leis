@@ -1,5 +1,3 @@
-###DEC-053242-0-000-12-12-1963@@@
-
 DECRETO Nº 53.242, DE 12 DE DEZEMBRO DE 1963.
 
 Cria uma Embaixada do Brasil junto ao Govêrno da Jamaica, cumulativa com a Embaixada do Brasil em Bogotá.

@@ -1,5 +1,3 @@
-###DEC-091614-0-000-04-09-1985@@@
-
 Decreto nº 91.614, de 4 de setembro de 1985.
 
 Institui o Projeto FALA-CIDADÃO e dá outras providências.

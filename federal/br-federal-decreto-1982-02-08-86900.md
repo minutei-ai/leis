@@ -1,5 +1,3 @@
-###DEC-086900-0-000-08-02-1982@@@
-
 Decreto nº 86.900, de 08 de fevereiro de 1982
 
 Autoriza o Ministro de Estado das Comunicações a designar Comissão para promover a complementação do arrolamento e avaliação dos bens a serem incorporados ao Patrimônio da Empresa Brasileira de Radiodifusão - RADIOBRÁS.

@@ -1,5 +1,3 @@
-###DEC-073768-0-000-07-03-1974@@@
-
 decreto nº 73.768, de 7 de março de 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

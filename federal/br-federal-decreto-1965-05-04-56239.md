@@ -1,5 +1,3 @@
-###DEC-056239-0-000-04-05-1965@@@
-
 DECRETO Nº 56.239, DE 4 DE MAIO DE 1965.
 
 Revoga o Decreto nº 40.735, de 9 de janeiro de 1957.

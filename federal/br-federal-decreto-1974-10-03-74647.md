@@ -1,7 +1,5 @@
 ,
 
-###DEC-074647-0-000-03-10-1974@@@
-
 DECRETO nº 74.647, DE 3 DE OUTUBRO DE 1974.
 
 Dispõe sobre a dispensa de ponto de servidores públicos federais para comparecimento a congressos ou reuniões similares, no País ou no exterior, e dá outras providências.

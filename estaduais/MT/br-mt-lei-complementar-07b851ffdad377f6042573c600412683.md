@@ -1,32 +1,29 @@
-**LEI COMPLEMENTAR N° 295, DE 28 DE DEZEMBRO DE 2007.**<br>
-<br>
-Autor: Poder Executivo<br>
+**LEI COMPLEMENTAR N° 295, DE 28 DE DEZEMBRO DE 2007.**
+
+Autor: Poder Executivo
+
 Publicada no DOE de 28/12/2007, p. 01.
 
 **Dispõe sobre o Sistema Integrado de Controle Interno do Estado de Mato Grosso e dá outras providências.**
 
-<br>
-
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o Art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
-<br>
 **CAPÍTULO-I**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Disposições Preliminares**
 
-<br>
 **Art. 1º** Fica instituído, nos termos do [Art. 74](https://app1.sefaz.mt.gov.br/Sistema/legislacao/constituicaof.nsf/9733a1d3f5bb1ab384256710004d4754/8da17659a8452dc20325675400649370?OpenDocument#Art.%2074.%20Os%20Poderes%20Legislativo%2C), da Constituição Federal e [Art. 52](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/21d395975fe6b2f003256755005cc67b?OpenDocument#Art.%2052%20-%20Os%20Poderes%20Legislativo%2C), da Constituição Estadual, o Sistema Integrado de Controle Interno do Estado de Mato Grosso, compreendendo os Poderes Legislativo, Executivo e Judiciário, e os órgãos Ministério Público, Defensoria Pública e Tribunal de Contas do Estado.
 
 § 1º Entende-se por Sistema Integrado de Controle Interno, o conjunto de ações e soluções realizadas de forma compartilhada entre os poderes e órgãos referidos no _caput,_ visando assegurar a legalidade, legitimidade, transparência e efetividade dos gastos públicos.
 
 § 2º A integração entre os Sistemas de Controle Interno dos Poderes e Órgãos mencionados no _caput_ se dará através da realização de seminários, conferências, capacitações, treinamentos, troca de experiências, simetria de normas e compartilhamento dos sistemas informatizados corporativos.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das Conceituações**
 
-<br>
 **Art. 2º** Entende-se por Sistema de Controle Interno o conjunto de atividades de controle, realizadas no âmbito de cada um dos Poderes, Legislativo, Executivo e Judiciário, bem como do Ministério Público, Defensoria Pública e Tribunal de Contas, visando assegurar a legalidade, legitimidade, transparência e efetividade dos gastos públicos, compreendendo particularmente:
 
 I – o controle exercido diretamente pelos diversos níveis de chefia objetivando o cumprimento das diretrizes, metas e orçamentos e a observância à legislação e às normas que orientam a atividade específica da unidade controlada;
@@ -55,14 +52,14 @@ Parágrafo único. No Poder Executivo do Estado de Mato Grosso, a Unidade de Con
 
 **Art. 5º** Entende-se por Unidades Executoras do Sistema de Controle Interno todas as unidades da estrutura organizacional, sejam de funções finalísticas ou de caráter administrativo.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **DA COMPETÊNCIA, DAS RESPONSABILIDADES DOS SISTEMAS DE CONTROLES INTERNOS, DAS GARANTIAS**
 
-**Seção I**<br>
+**Seção I**
+
 **Das Competências e Responsabilidades**
 
-<br>
 **Art. 6º** Respeitadas as normas e procedimentos adotados pelos órgãos e Poderes mencionados no _caput_ do Art. 1º desta lei complementar, e disposições dos Artigos 74, da Constituição Federal, e 52 da Constituição Estadual, são competências da Unidade de Controle Interno, no que couber, as seguintes:
 
 I – coordenar as atividades relacionadas com o Sistema de Controle Interno do correspondente Poder ou Órgão mencionados no _caput_ do Art. 1° desta lei complementar, incluindo suas administrações Direta e Indireta, promover a integração operacional, orientar a elaboração dos atos normativos sobre procedimentos de controle e zelar pela condução do Sistema de Controle Interno, preservando o interesse público e a probidade na guarda e aplicação de dinheiro, valores e outros bens do Estado, ou a ele confiados;
@@ -121,11 +118,10 @@ IV – exercer o controle sobre a execução dos contratos, convênios e instrum
 
 V – comunicar à Unidade de Controle Interno do respectivo Poder ou Órgão indicado no _caput_ do Art. 1° desta lei complementar, qualquer irregularidade ou ilegalidade de que tenha conhecimento, sob pena de responsabilidade solidária.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das Garantias**
 
-<br>
 **Art. 8º** Nenhum processo, documento ou informação poderá ser sonegado na realização das atividades de controle interno, no exercício das atribuições inerentes às atividades de auditoria, fiscalização e avaliação de gestão.
 
 Parágrafo único. O agente público que, por ação ou omissão, causar embaraço, constrangimento ou obstáculo à atuação do sistema de controle interno no desempenho de suas funções institucionais, ficará sujeito à responsabilização administrativa, civil e penal.
@@ -136,25 +132,44 @@ Parágrafo único. O agente público que, por ação ou omissão, causar embara�
 
 Palácio Paiaguás, em Cuiabá, 28 de dezembro de 2007, 186º da Independência e 119º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CARLOS BRITO DE LIMA<br>
-ORESTES TEODORO DE OLIVEIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-EDMILSON JOSÉ DOS SANTOS<br>
-JOÃO ANTÔNIO CUIABANO MALHEIROS<br>
-JOSÉ GONÇALVES BOTELHO DO PRADO<br>
-NELDO EGON WEIRICH<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-PEDRO JAMIL NADAF<br>
-VILCEU FRANCISCO MARCHETTI<br>
-SÁGUAS MORAES SOUZA<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-AUGUSTINHO MORO<br>
-LUIS HENRIQUE CHAVES DALDEGAN<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
-FRANCISCO TARQUÍNIO DALTRO<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CARLOS BRITO DE LIMA
+
+ORESTES TEODORO DE OLIVEIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+EDMILSON JOSÉ DOS SANTOS
+
+JOÃO ANTÔNIO CUIABANO MALHEIROS
+
+JOSÉ GONÇALVES BOTELHO DO PRADO
+
+NELDO EGON WEIRICH
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+PEDRO JAMIL NADAF
+
+VILCEU FRANCISCO MARCHETTI
+
+SÁGUAS MORAES SOUZA
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+AUGUSTINHO MORO
+
+LUIS HENRIQUE CHAVES DALDEGAN
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
+FRANCISCO TARQUÍNIO DALTRO

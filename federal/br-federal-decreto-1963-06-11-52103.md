@@ -1,40 +1,38 @@
-###DEC-052103-0-000-11-06-1963@@@
+**DECRETO Nº 52.103, DE 11 DE JUNHO DE 1963.**
 
-<strong>DECRETO Nº 52.103, DE 11 DE JUNHO DE 1963.</strong>
+***Estabelece regimento para o Serviço Nacional dos Municípios (SENAM).***
 
-<em><strong>Estabelece regimento para o Serviço Nacional dos Municípios (SENAM).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição Federal, e considerando a reestruturação do Serviço Nacional dos Municípios (SENAM), a ausência de normas disciplinadoras das atividades e do funcionamento do órgão e a impériosa da necessidade do estabelecimento de regimento adequado e compatível com as altas finalidades dêsse Serviço,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição Federal, e considerando a reestruturação do Serviço Nacional dos Municípios (SENAM), a ausência de normas disciplinadoras das atividades e do funcionamento do órgão e a impériosa da necessidade do estabelecimento de regimento adequado e compatível com as altas finalidades dêsse Serviço,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Nacional dos Municípios (SENAM), que assinado pelo respectivo Diretor-Geral com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Nacional dos Municípios (SENAM), que assinado pelo respectivo Diretor-Geral com êste baixa.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Brasília, Distrito Federal, 11 de junho de 1963; 142º da Independência e 75º da Republica.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
-<strong>SERVIÇO NACIONAL DOS MUNICÍPIOS SENAM</strong>
+**SERVIÇO NACIONAL DOS MUNICÍPIOS SENAM**
 
 REGIMENTO INTERNO
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Finalidade</em>
+*Finalidade*
 
-<strong>Art</strong>. 1º O Serviço Nacional dos Municípios (SENAM), criado pelo Decreto nº 50.334, de 11 de março de 1961, modificado pelos Decretos ns. 283, de 4 de dezembro de 1961, 1.196, de 19 de junho de 1962 e 1.486, de 7 de novembro de 1962, tem por finalidades, em estrita articulação com os demais órgãos federais e estaduais, estudar e propor diretrizes para o desenvolvimento dos municípios podendo, para isto, elaborar projetos que lhe forem atribuídos ou solicitados.
+**Art**. 1º O Serviço Nacional dos Municípios (SENAM), criado pelo Decreto nº 50.334, de 11 de março de 1961, modificado pelos Decretos ns. 283, de 4 de dezembro de 1961, 1.196, de 19 de junho de 1962 e 1.486, de 7 de novembro de 1962, tem por finalidades, em estrita articulação com os demais órgãos federais e estaduais, estudar e propor diretrizes para o desenvolvimento dos municípios podendo, para isto, elaborar projetos que lhe forem atribuídos ou solicitados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>Art</strong>. 2º Incumbe ao Serviço Nacional dos Municípios (SENAM):
+**Art**. 2º Incumbe ao Serviço Nacional dos Municípios (SENAM):
 
 I - Estabelecer contatos entre as autoridades municipais e os órgãos dos Poderes Executivos e Legislativos, da União e dos Estados - tendo em vista colaborar na solução dos problemas fundamentais das comunas;
 
@@ -74,11 +72,11 @@ XVIII - Orientar as autoridades municipais quanto à tramitação dos processos 
 
 XIX - Colaborar com os Governos dos Estados, quando solicitado.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Organização</em>
+*Organização*
 
-<strong>Art</strong>. 3º O Serviço Nacional dos Municípios (SENAM), dirigido por um Diretor-Geral, é constituído dos seguintes órgãos:
+**Art**. 3º O Serviço Nacional dos Municípios (SENAM), dirigido por um Diretor-Geral, é constituído dos seguintes órgãos:
 
 I - Gabinete do Diretor-Geral (GDG);
 
@@ -90,9 +88,9 @@ IV- Divisão de relações Públicas (DRP);
 
 V - Delegacias (DEL).
 
-<strong>Art</strong>. 4º A Direção-Geral do Serviço Nacional dos Municípios (SENAM) se compõe do Diretor-Geral, do gabinete da Divisão Administrativa da Divisão Técnica e da Divisão de Relações Públicas.
+**Art**. 4º A Direção-Geral do Serviço Nacional dos Municípios (SENAM) se compõe do Diretor-Geral, do gabinete da Divisão Administrativa da Divisão Técnica e da Divisão de Relações Públicas.
 
-<strong>Art</strong>. 5º Ao Diretor-Geral incumbe:
+**Art**. 5º Ao Diretor-Geral incumbe:
 
 I - Dirigir os trabalhos do órgão;
 
@@ -114,27 +112,27 @@ IX - Regulamentar as atividades da Casa dos municípios.
 
 Parágrafo único. O Diretor-Geral terá 5 (cinco) Assistentes, cujas atribuições fixará em ordem de serviço.
 
-<strong>Art</strong>. 6º Os órgãos integrantes do Serviço Nacional dos Municípios (SENAM) funcionarão perfeitamente articulados em regime, de mútua cooperação, com a coordenação do Gabinete e sob a orientação do Diretor-Geral.
+**Art**. 6º Os órgãos integrantes do Serviço Nacional dos Municípios (SENAM) funcionarão perfeitamente articulados em regime, de mútua cooperação, com a coordenação do Gabinete e sob a orientação do Diretor-Geral.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Estrutura e Atribuições dos Órgãos</em>
+*Estrutura e Atribuições dos Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Gabinete</em>
+*Gabinete*
 
-<strong>Art</strong>. 7º O Gabinete do Diretor-Geral do SENAM tem por finalidade a coordenação geral dos estudos e questões de interêsse dos municípios e do SENAM.
+**Art**. 7º O Gabinete do Diretor-Geral do SENAM tem por finalidade a coordenação geral dos estudos e questões de interêsse dos municípios e do SENAM.
 
-<strong>Art</strong>. 8º O Gabinete compor-se-à do Chefe, do Subchefe em Brasília.- do Subchefe na Guanabara, da Assessoria Jurídica, da Assessoria Parlamentar e da Secretaria-Geral.
+**Art**. 8º O Gabinete compor-se-à do Chefe, do Subchefe em Brasília.- do Subchefe na Guanabara, da Assessoria Jurídica, da Assessoria Parlamentar e da Secretaria-Geral.
 
-<strong>Art</strong>. 9º Ao Chefe de Gabinete incumbe:
+**Art**. 9º Ao Chefe de Gabinete incumbe:
 
 I - Coordenar as atividades do SENAM e entrosar todos os seus órgãos dentro das diretrizes traçadas pelo Diretor-Geral;
 
 II - Substituir o Diretor-Geral em seus impedimentos.
 
-<strong>Art</strong>. 10. À Subchefia do Gabinete em Brasília incumbe:
+**Art**. 10. À Subchefia do Gabinete em Brasília incumbe:
 
 I - Chefiar a Secretaria-Geral.
 
@@ -142,7 +140,7 @@ II - Examinar a correspondência recebida pelo ENAM;
 
 III - Substituir o Chefe de Gabinete em seus impedimentos;
 
-<strong>Art</strong>. 11. À Secretaria-Geral incumbe:
+**Art**. 11. À Secretaria-Geral incumbe:
 
 I - Centralizar todo o Serviço de recepção e de expedição da correspondência do SENAM;
 
@@ -152,13 +150,13 @@ IV - Protocolar todo o expediente recebido e expedido pelo SENAM;
 
 V - Arquivar cópia de todos os documentos de interêsse do SENAM.
 
-<strong>Art</strong>. 12. A Secretaria-Geral compreende as seguintes Seções:
+**Art**. 12. A Secretaria-Geral compreende as seguintes Seções:
 
 I - Seção de Expediente;
 
 II - Seção de Comunicações.
 
-<strong>Art</strong>. 13. À Seção de Expediente incumbe:
+**Art**. 13. À Seção de Expediente incumbe:
 
 I - Distribuir a correspondência dirigida ao SENAM;
 
@@ -166,21 +164,21 @@ II - Confecção do expediente de interêsse do Diretor-Geral ou do Gabinete:
 
 III - Abertura e distribuição dos processos de interêsses dos municípios e do SENAM, e a fiscalização do seu andamento;
 
-IV - Providenciaram a publicação no <em>Diário Oficial</em> do expediente do SENAM, após exame e assinatura do Diretor-Geral ou do Chefe de Gabinete.
+IV - Providenciaram a publicação no *Diário Oficial* do expediente do SENAM, após exame e assinatura do Diretor-Geral ou do Chefe de Gabinete.
 
-<strong>Art</strong>. 14. A Seção de Comunicações incumbe:
+**Art**. 14. A Seção de Comunicações incumbe:
 
 I - Protocolar tôda a correspondência e os processos recebidos e expedidos pelo SENAM;
 
 II- Guardar e conservar em Arquivo-Geral cópia da correspondência expedida pelo SENAM e outros documentos e processos de seu interêsse.
 
-<strong>Art</strong>. 15. A Subchefia do Gabinete no Estado da Guanabara criada em virtude das condições especiais existentes na atualidade com referência a estrutura e funcionamento do Govêrno Federal, será dirigida por um Subchefe de Gabinete.
+**Art**. 15. A Subchefia do Gabinete no Estado da Guanabara criada em virtude das condições especiais existentes na atualidade com referência a estrutura e funcionamento do Govêrno Federal, será dirigida por um Subchefe de Gabinete.
 
-<strong>Art</strong>. 16. À Subchefia do Gabinete Estado da Guanabara incumbe:
+**Art**. 16. À Subchefia do Gabinete Estado da Guanabara incumbe:
 
 I - Representar o SENAM perante ao órgão dos Poderes Executivo e Legislativo, da União e do Estado, respeitada a orientação da Direção Geral, as instruções dêste Regimento e as finalidades do órgão.
 
-<strong>Art</strong>. 17. À Subchefia do Gabinete no Estado da Guanabara terá no máximo as seguintes dependências:
+**Art**. 17. À Subchefia do Gabinete no Estado da Guanabara terá no máximo as seguintes dependências:
 
 I - Um Gabinete para o Subchefe de Gabinete;
 
@@ -188,7 +186,7 @@ II - Uma sala para escritório e confecção de expediente do interêsse das aut
 
 III - Uma sala para recepção às autoridades.
 
-<strong>Art</strong>. 18. À Assessoria Jurídica do Gabinete do Diretor-Geral incumbe:
+**Art**. 18. À Assessoria Jurídica do Gabinete do Diretor-Geral incumbe:
 
 I - Emitir parecer sôbre questões jurídicas submetidas ao seu exame pelo Diretor-Geral ou pelo Chefe de Gabinete;
 
@@ -196,7 +194,7 @@ II - Elaborar, quando solicitado pelo Diretor-Geral ou pelo Chefe de Gabinete an
 
 III - Assessorar o Diretor-Geral ou Chefe de Gabinete em todos os assuntos de natureza jurídica ligados as atividades do SENAM;
 
-<strong>Art</strong>. 19. À Assessoria Parlamentar do Gabinete do Diretor-Geral incumbe:
+**Art**. 19. À Assessoria Parlamentar do Gabinete do Diretor-Geral incumbe:
 
 I - Acompanhar o andamento das proposições de interêsse dos municípios e do SENAM em tramitações no Congresso Nacional;
 
@@ -204,11 +202,11 @@ II - Informar mensalmente ou quando necessário ao Gabinete, do andamento de seu
 
 III - Assessorar o Diretor-Geral ou o Chefe de Gabinete nos assuntos de natureza parlamentar ligados às atividades do SENAM.
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Divisão Administrativa</em>
+*Divisão Administrativa*
 
-<strong>Art</strong>. 20. À Divisão Administrativa, órgão da Direção Geral do SENAM, incumbe:
+**Art**. 20. À Divisão Administrativa, órgão da Direção Geral do SENAM, incumbe:
 
 I - Supervisionar o preparo dos planos de aplicação das dotações consignadas ao SENAM no Orçamento Geral da União.
 
@@ -228,7 +226,7 @@ VIII - Apresentar plano anual de administração da sede do SENAM, da casa dos M
 
 IX - Executar todo o serviço de limpeza e de conservação da sede do SENAM e da Casa dos Municípios.
 
-<strong>Art</strong>. 21. A Divisão Administrativa é dirigida por um Chefe, ao qual compete:
+**Art**. 21. A Divisão Administrativa é dirigida por um Chefe, ao qual compete:
 
 I - Superintender, orientar, dirigir e fiscalizar os trabalhos da Divisão de acôrdo com as instruções contidas neste Regulamento e as diretrizes do Diretor-Geral;
 
@@ -236,7 +234,7 @@ II - Sugerir ao Diretor-Geral as medidas de caráter administrativo e do pessoal
 
 III - Submeter a aprovação do Diretor-Geral, dentre os Chefes de Seção da Divisão, seu substituto efetivo ou eventual.
 
-<strong>Art</strong>. 22. A Divisão Administrativa compreende as seguintes Seções:
+**Art**. 22. A Divisão Administrativa compreende as seguintes Seções:
 
 I - Seção Financeira;
 
@@ -244,7 +242,7 @@ II - Seção de Pessoal;
 
 III - Seção de Serviços Gerais.
 
-<strong>Art</strong>. 23. À Seção Financeira incumbe:
+**Art**. 23. À Seção Financeira incumbe:
 
 I - Preparar o plano de aplicação das dotações consignadas ao SENAM e a proposta orçamentária para o exercício seguinte;
 
@@ -256,7 +254,7 @@ IV - Executar o contrôle da situação financeira e patrimonial do SENAM, na fo
 
 V - Efetuar pagamentos autorizados, inclusive vencimentos e salários do pessoal.
 
-<strong>Art</strong>. 24. À Seção de Pessoal incumbe:
+**Art**. 24. À Seção de Pessoal incumbe:
 
 I - Apreciar questões relativas a direitos, vantagens, deveres e responsabilidades do pessoal do SENAM, bem como a ação disciplinar que sôbre os mesmos possa cindir e conforme o caso, orientar e fiscalizar a aplicação de legislação vigente;
 
@@ -282,7 +280,7 @@ XI - Elaborar estudo anual sôbre o rendimento funcional do pessoal do SENAM, me
 
 XI I- Prestar informação ao público sôbre o local em que trabalha o pessoal do SENAM.
 
-<strong>Art</strong>. 25. À Seção de Serviços Gerais incumbe:
+**Art**. 25. À Seção de Serviços Gerais incumbe:
 
 I - Lavrar em livro próprio, para assinatura do Diretor-Geral, os contratos relativos à aquisição de material;
 
@@ -304,11 +302,11 @@ IX - Manter a indispensável segurança da sede do SENAM e da Casa dos Municípi
 
 X - Providenciar a execução dos serviços de limpeza e conservação das pendências da sede do SENAM e seu mobiliário.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Divisão Técnica</em>
+*Divisão Técnica*
 
-<strong>Art</strong>. 26. À Divisão Técnica, órgão da Direção-Geral do SENAM incumbe:
+**Art**. 26. À Divisão Técnica, órgão da Direção-Geral do SENAM incumbe:
 
 I - Estudar, informar e emitir parecer nos processos recebidos do Gabinete;
 
@@ -326,7 +324,7 @@ VII - Apresentar planos para a Constituição de Grupos de Estudo nas Delegacias
 
 VIII - Remeter em tempo hábil à Divisão Administrativa, todos os elementos concernentes à Divisão Técnica e solicitados para instruir o plano de aplicação das dotações a proposta orçamentária e outros créditos adicionais para o SENAM;
 
-<strong>Art</strong>. 27. À Divisão Técnica é dirigida por um Chefe, ao qual incumbe:
+**Art**. 27. À Divisão Técnica é dirigida por um Chefe, ao qual incumbe:
 
 I - Superintender, orientar, dirigir e fiscalizar os trabalhos da Divisão, de acôrdo com as instruções contidas neste Regulamento e as diretrizes do Diretor-Geral;
 
@@ -334,7 +332,7 @@ II - Sugerir ao Diretor-Geral as medidas de caráter técnico que julgar necess�
 
 III - Submeter à aprovação do Diretor-Geral, dentre os Chefes de Serviço da Divisão, seu substituto seletivo ou eventual;
 
-<strong>Art</strong>. 28. À Divisão Técnica compreende as seguintes seções:
+**Art**. 28. À Divisão Técnica compreende as seguintes seções:
 
 I - Seção de Expediente;
 
@@ -346,7 +344,7 @@ IV - Seção de Cadastro Técnico;
 
 V - Seção de Estatística.
 
-<strong>Art</strong>. 29. À Seção de Expediente incumbe:
+**Art**. 29. À Seção de Expediente incumbe:
 
 I - Realizar os serviços de secretaria e escritório da Divisão;
 
@@ -354,7 +352,7 @@ II - Propor organizar e providenciar o que se fizer necessário em relação aos
 
 III - Organizar e conservar em boa ordem o Protocolo e o Arquivo da Divisão;
 
-<strong>Art</strong>. 30. À Seção de Planejamento incumbe:
+**Art**. 30. À Seção de Planejamento incumbe:
 
 I - Elaborar planos e projetos para os municípios, relativos a administração, sistemas tributários e fiscais, aplicação de verbas e outros recursos;
 
@@ -370,13 +368,13 @@ VI - Elaborar pareces técnicos dos projetos de Lei, apresentados no Congresso N
 
 VII - Apresentar planos para a constituição de Grupos de Estudo que farão a adaptação de projetos de planos às características regionais;
 
-<strong>Art</strong>. 31. À Seção de Orçamentos incumbe;
+**Art**. 31. À Seção de Orçamentos incumbe;
 
 I - Analisar os Orçamentos Oficiais, interpretando-os e fornecendo elementos da Seção de Cadastro Técnico;
 
 II - Elaborar planos de aplicação, formulários de orientação e outros documentos necessários à liberação das dotações, créditos e subvenções destinadas aos municípios e a entidades particulares de âmbito municipal.
 
-<strong>Art</strong>. 32. À Seção de Cadastro Técnico incumbe:
+**Art**. 32. À Seção de Cadastro Técnico incumbe:
 
 I - Coletar ordenar, e arquivar os dados e documentos relativos aos aspectos geográficos, geólogos, econômicos, políticos e educacionais e culturais, indispensáveis ao estudo da estrutura, organização e funcionamento das unidades municipais, considerada a necessidade de integração no âmbito estadual, regional e nacional;
 
@@ -384,7 +382,7 @@ II - Manter registro das verbas, dotações e subvenções consignadas não só 
 
 III - Manter catálogos e organizar cadastro de preços de aparelhamento e equipamento de interêsse das Prefeituras.
 
-<strong>Art</strong>. 33. A Seção da Estatística, incumbe:
+**Art**. 33. A Seção da Estatística, incumbe:
 
 I - Coordenar, planejar e executar os trabalhos de natureza estatística do SENAM, organizando arquivo;
 
@@ -392,11 +390,11 @@ II - Manter dados estastiticos relativos à situação econômica, demográfica,
 
 III - Assessorar todos os setores do SENAM com referencia à execução de trabalhos de natureza estatística, para uma melhor planificação dos serviços;
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Divisão de Relações Públicas</em>
+*Divisão de Relações Públicas*
 
-<strong>Art</strong>. 34. À Divisão de Relações Públicas, órgão da Direção Geral do SENAM, incumbe:
+**Art**. 34. À Divisão de Relações Públicas, órgão da Direção Geral do SENAM, incumbe:
 
 I - Encaminhar aos órgãos e entidades competentes, em forma de processo, sempre organizado pela Secretaria Geral do Gabinete, as reivindicações de interêsse dos municípios e do SENAM;
 
@@ -424,7 +422,7 @@ XII - Recepcionar e orientar as autoridades municipais e outras de interêsse do
 
 XIII - Remeter em tempo hábil à Divisão Administrativa todos os elementos concernentes à Divisão de Relações Públicas e necessários e instruções do plano de aplicação da proposta orçamentaria ou dos créditos suplementares ou adicionais, para o SENAM;
 
-<strong>Art</strong>. 35. A Divisão de Relações Publicas é dirigida por um Chefe, ao qual compete:
+**Art**. 35. A Divisão de Relações Publicas é dirigida por um Chefe, ao qual compete:
 
 I - Superintender, orientar, dirigir e fiscalizar os trabalhos da Divisão, de acôrdo com as instruções contidas neste Regimento e as diretrizes do Diretor-Geral;
 
@@ -432,7 +430,7 @@ II - Sugerir ao Diretor-Geral as medidas que julgar necessárias ao bom andament
 
 III - Submeter à aprovação de Diretor-Geral dentre os Chefes da Seção da Divisão, seu substituto efetivo ou eventual;
 
-<strong>Art</strong>. 36. A Divisão de Relações Publicas compreende as seguintes Seções:
+**Art**. 36. A Divisão de Relações Publicas compreende as seguintes Seções:
 
 I - Seção de Expediente;
 
@@ -442,7 +440,7 @@ III - Seção de Divulgação;
 
 IV – Biblioteca.
 
-<strong>Art</strong>. 37. À Seção de Expediente incumbe:
+**Art**. 37. À Seção de Expediente incumbe:
 
 I - Realizar os serviços de secretaria e escritório da Divisão;
 
@@ -452,7 +450,7 @@ III - Propor, organizar e providenciar o que se fizer necessário em relação a
 
 IV - Planejar, organizar, e manter atualizado um calendário das atividades de interêsse do SENAM.
 
-<strong>Art</strong>. 38. À Seção de Promoções , Representações e Contatos incumbe:
+**Art**. 38. À Seção de Promoções , Representações e Contatos incumbe:
 
 I - Recepcionar e orientar as autoridades municipais e outras de interêsse do SENAM, chegadas à Brasília, e sempre com aprovação do Chefe da Divisão;
 
@@ -464,7 +462,7 @@ IV - Acompanhar a tramitação dos processos e projetos de interêsse dos munic�
 
 V - Manter registro da tramitação dos processos e projetos citados no item anterior, com o nome do funcionário do SENAM encarregado do seu acompanhamento.
 
-<strong>Art</strong>. 39. À Seção de Divulgação incumbe:
+**Art**. 39. À Seção de Divulgação incumbe:
 
 I - Manter intercâmbio com os órgãos da imprensa de todo o país em estreita obediência às finalidades e atribuições do órgão, às instruções dêste Regimento e determinações do Diretor-Geral;
 
@@ -474,7 +472,7 @@ III - Preparar as noticias de interêsse dos municípios e do SENAM, difundindo-
 
 IV - Recortar e recolecionar os assuntos de interêsse dos Municípios e do SENAM, publicados nos jornais, revistas e em outras publicações, encaminhando-os diàriamente ao Chefe de Gabinete.
 
-<strong>Art</strong>. 40. A Biblioteca do SENAM, dirigida, por um Encarregado, subordinado diretamente ao Chefe da Divisão de Relações Públicas, incumbe:
+**Art**. 40. A Biblioteca do SENAM, dirigida, por um Encarregado, subordinado diretamente ao Chefe da Divisão de Relações Públicas, incumbe:
 
 I - Registrar, classificar, catalogar, guardar, conservar livros, revistas, jornais e outras publicações de interêsse dos municípios e do SENAM;
 
@@ -482,15 +480,15 @@ II - Organizar e manter a Mapoteca do SENAM;
 
 III - Propor a aquisição de obras nacionais e estrangeiras, assinaturas de jornais, revistas e outras publicações de interêsse dos municípios do SENAM.
 
-<strong>SEÇ</strong><strong>Ã</strong><strong>0 V</strong>
+**SEÇÃ0 V**
 
-<em>Delegacias</em>
+*Delegacias*
 
-<strong>Art</strong>. 41. Terá o SENAM Delegacias na capital de cada Estado da Federação, dirigida por um Delegado e subordinada ao Diretor-Geral.
+**Art**. 41. Terá o SENAM Delegacias na capital de cada Estado da Federação, dirigida por um Delegado e subordinada ao Diretor-Geral.
 
-<strong>Art</strong>. 42. O cargo do Delegado será exercido sob a forma de comissão ou função gratificada.
+**Art**. 42. O cargo do Delegado será exercido sob a forma de comissão ou função gratificada.
 
-<strong>Art</strong>. 43. As Delegacias incumbe:
+**Art**. 43. As Delegacias incumbe:
 
 I - Representar o SENAM perante os Poderes Executivo e Legislativo dos Estados da Federação, respeitada a orientação da Direção-Geral, as instruções dêste Regimento e as finalidades do órgão.
 
@@ -506,9 +504,9 @@ VI - Instalar e coordenar os Grupos de Estudo para adaptação dos planos e proj
 
 VII - Indicar nomes de pessoas para comporem os Grupos de Estudo previstos no item anterior.
 
-<strong>Art</strong>. 44. As reações das Delegacias com a Direção-Geral serão sempre por intermédio do Gabinete do Diretor-Geral.
+**Art**. 44. As reações das Delegacias com a Direção-Geral serão sempre por intermédio do Gabinete do Diretor-Geral.
 
-<strong>Art</strong>. 45. Aos Delegados incumbe:
+**Art**. 45. Aos Delegados incumbe:
 
 I - Organizar, superintender, orientar, dirigir e fiscalizar os trabalhos da Delegacia, respeitada a orientação da Direção Geral, as instruções dêste Regimento e as finalidades do órgão;
 
@@ -530,11 +528,11 @@ d) infomar à Direção-Geral sempre em tempo habil principalmente com relação
 
 VI - Instalar e coordenar os Grupos de Estudo.
 
-<strong>Art</strong>. 46. Ao secretário da Delegacia incumbe:
+**Art**. 46. Ao secretário da Delegacia incumbe:
 
 I - Dirigir todos os serviços de escritório da Delegacia, inclusive os assuntos relativos ao seu pessoal;
 
-<strong>Art</strong>. 47. Aos Assessores de Assuntos Gerais incumbe:
+**Art**. 47. Aos Assessores de Assuntos Gerais incumbe:
 
 I - Conhecer as peculiaridades de cada Prefeitura do Estado sempre dentro das características regionais e o desenvolvimento harmônico da estrutura econômico-social, político administrativa, educacional e cultural do País, para melhor entrossamento dos planos e trabalhos dos governos Estadual e federal com as diretrizes do Diretor-Geral do SENAM;
 
@@ -544,13 +542,13 @@ a) nos estudos e medidas pendentes à melhoria dos serviços da Delegacia e ao a
 
 b) em seus contatos com os órgãos e autoridades dos Poderes Executivo e Legislativo, e público em geral na área de sua jurisdição.
 
-<strong>Art</strong>. 48. Aos Assessores de Imprensa incumbe:
+**Art**. 48. Aos Assessores de Imprensa incumbe:
 
 I - Assessorar o Delegado na preparação e difusão de notícias de interêsse dos municípios e do SENAM sempre respeitadas as instruções dêste Regimento, as diretrizes do Diretor-Geral e as finalidades do órgão;
 
 II - Proceder a leitura diária dos jornais, revistas e outras publicações, recortando e selecionando os assunto de interêsse dos municípios e do SENAM, encaminhando-os ao Delegado.
 
-<strong>Art</strong>. 49. As Delegacias terão no máximo as seguintes dependências:
+**Art**. 49. As Delegacias terão no máximo as seguintes dependências:
 
 I - Um gabinete para o Delegado;
 
@@ -558,44 +556,44 @@ II - Uma sala para escritório e confecção de expediente do interêsse das aut
 
 III - Uma sala para recepção às autoridades.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 50. Os Chefes de Divisão e os Delegados despacharão com o Diretor-Geral, dando conhecimento ao Chefe de Gabinete, dos assuntos tratados, para a necessária coordenação geral e para evitar a solução de continuidade administrativa.
+**Art**. 50. Os Chefes de Divisão e os Delegados despacharão com o Diretor-Geral, dando conhecimento ao Chefe de Gabinete, dos assuntos tratados, para a necessária coordenação geral e para evitar a solução de continuidade administrativa.
 
-<strong>Art</strong>. 51. Os Chefes de Divisão, os Delegados e o Subchefe de Gabinete no Estado da Guanabara remeterão, mensalmente, ao Gabinete do Diretor-Geral, quadro “sinótico” do Departamento sob sua chefia e outros dados necessários à confecção do Boletim Mensal do SENAM
+**Art**. 51. Os Chefes de Divisão, os Delegados e o Subchefe de Gabinete no Estado da Guanabara remeterão, mensalmente, ao Gabinete do Diretor-Geral, quadro “sinótico” do Departamento sob sua chefia e outros dados necessários à confecção do Boletim Mensal do SENAM
 
-<strong>Art</strong>. 52. O Diretor-Geral, o Chefe de Gabinete, os Chefes de Divisão, os Delegados e o Subchefe de Gabinete no Estado da Guanabara reunirão, periodicamente, os elementos que lhes forem subordinados a fim de assentarem providências ou discutirem assuntos de interêsse dos municípios, do SENAM ou do serviço em particular.
+**Art**. 52. O Diretor-Geral, o Chefe de Gabinete, os Chefes de Divisão, os Delegados e o Subchefe de Gabinete no Estado da Guanabara reunirão, periodicamente, os elementos que lhes forem subordinados a fim de assentarem providências ou discutirem assuntos de interêsse dos municípios, do SENAM ou do serviço em particular.
 
-<strong>Art</strong>. 53. No desempenho de suas atividades, o SENAM considerará as atribuições próprias dos Ministérios e demais órgãos e entidades federais, bem como as das Secretarias e órgãos Estaduais, a fim de evitar o dobramento de serviços ou a execução de tarefas que não lhe cabem.
+**Art**. 53. No desempenho de suas atividades, o SENAM considerará as atribuições próprias dos Ministérios e demais órgãos e entidades federais, bem como as das Secretarias e órgãos Estaduais, a fim de evitar o dobramento de serviços ou a execução de tarefas que não lhe cabem.
 
-<strong>Art</strong>. 54. Os servidores requisitados dos demais órgãos da União, dos Estados, dos Municípios, das Autarquias e das Sociedades de Economia Mista, que não sejam designados para exercer funções previstas nas tabelas de pessoal, serão mantidos à disposição do Diretor-Geral.
+**Art**. 54. Os servidores requisitados dos demais órgãos da União, dos Estados, dos Municípios, das Autarquias e das Sociedades de Economia Mista, que não sejam designados para exercer funções previstas nas tabelas de pessoal, serão mantidos à disposição do Diretor-Geral.
 
-<strong>Art</strong>. 55. As funções de chefia serão exercidas por pessoas de reconhecida capacidade e idoneidade, por designação do Diretor-Geral.
+**Art**. 55. As funções de chefia serão exercidas por pessoas de reconhecida capacidade e idoneidade, por designação do Diretor-Geral.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Disposições Transitórias</em>
+*Disposições Transitórias*
 
-<strong>Art</strong>. 56. A Subchefia de Gabinete no Estado da Guanabara subsistirá enquanto permanecerem as condições citadas no artigo 15 dêste Regimento.
+**Art**. 56. A Subchefia de Gabinete no Estado da Guanabara subsistirá enquanto permanecerem as condições citadas no artigo 15 dêste Regimento.
 
-<strong>Art</strong>. 57. As Delegacias serão instaladas de acôrdo com as necessidades dos municípios e as possibilidades do SENAM, por iniciativa do Diretor-Geral.
+**Art**. 57. As Delegacias serão instaladas de acôrdo com as necessidades dos municípios e as possibilidades do SENAM, por iniciativa do Diretor-Geral.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Casos Omissos</em>
+*Casos Omissos*
 
-<strong>Art</strong>. 58. Os casos omissos que envolvam matéria regimental serão resolvidos pelo Diretor-Geral.
+**Art**. 58. Os casos omissos que envolvam matéria regimental serão resolvidos pelo Diretor-Geral.
 
 Brasília, DF., 11 de julho de 1963.
 
-<strong>CEL. AV. HERNAM HILÁRIO FITTIPALDI</strong>
+**CEL. AV. HERNAM HILÁRIO FITTIPALDI**
 
 Diretor-Geral do SENAM

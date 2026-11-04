@@ -1,7 +1,3 @@
-1
-
-###DEC-000661-0-000-25-09-1992@@@
-
 DECRETO Nº 661, DE 25 DE SETEMBRO DE 1992
 
 Altera dispositivos do Regulamento Aduaneiro, aprovado pelo Decreto nº 91 030, de 5 de março de 1985.

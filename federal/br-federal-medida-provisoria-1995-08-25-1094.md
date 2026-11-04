@@ -1,7 +1,3 @@
-1
-
-###MPV-001094-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.094, DE 25 DE AGOSTO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

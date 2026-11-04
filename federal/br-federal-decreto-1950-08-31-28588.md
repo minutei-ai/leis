@@ -1,12 +1,10 @@
-###DEC-028588-0-000-31-08-1950@@@
+**DECRETO Nº 28.588, DE 31 DE AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.588, DE 31 DE AGÔSTO DE 1950.</strong>
+***Altera dispositivo do Decreto número 27.918, de 24 de março de 1950.***
 
-<em><strong>Altera dispositivo do Decreto número 27.918, de 24 de março de 1950.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo 1º - Ao artigo 11 do Decreto nº 27.918, de 24 de março de 1950, acrescente-se o parágrafo seguinte:
 
@@ -16,7 +14,7 @@ Artigo 2º - O presente Decreto entra em vigor na data de sua publicação, revo
 
 Rio de Janeiro, 31 de agôsto de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 José Francisco Bias Fortes
 

@@ -8,28 +8,34 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Este Decreto regulamenta, no Poder Executivo estadual, a [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495/lei-21162), de 16 de novembro de 2021, que institui o Programa Bolsa Estudo, da Secretaria de Estado da Educação - SEDUC, o qual objetiva incentivar a aprendizagem e a permanência dos estudantes em sala de aula, também atenuar os efeitos econômicos adversos da pandemia de Covid-19, com a transferência de renda.
 
-Art. 2º Fica implantada, nos termos da [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495 "Abrir Lei Ordinária nº 21162, de 2021 em nova aba"), de 2021, a transferência de renda pelo Programa Bolsa Estudo, com o valor mensal de 130,00 (cento e trinta reais) por estudante regularmente matriculado em escola da rede pública estadual de ensino regular e de R$ 150,00 (cento e cinquenta reais) por estudante matriculado em escola de tempo integral, a partir de dezembro de 2025 e durante o ano letivo 2026, aos alunos do 9º ano do Ensino Fundamental e aos do Ensino Médio da rede pública do Estado de Goiás.<br>
+Art. 2º Fica implantada, nos termos da [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495 "Abrir Lei Ordinária nº 21162, de 2021 em nova aba"), de 2021, a transferência de renda pelo Programa Bolsa Estudo, com o valor mensal de 130,00 (cento e trinta reais) por estudante regularmente matriculado em escola da rede pública estadual de ensino regular e de R$ 150,00 (cento e cinquenta reais) por estudante matriculado em escola de tempo integral, a partir de dezembro de 2025 e durante o ano letivo 2026, aos alunos do 9º ano do Ensino Fundamental e aos do Ensino Médio da rede pública do Estado de Goiás.
+
 \- [Redação dada pelo Decreto nº 10.841, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111901/decreto-10841).
 
 ~~Art. 2º Fica implantada, nos termos da [Lei nº 21.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104495/lei-21162), de 2021, a transferência de renda pelo Programa Bolsa Estudo, com o valor mensal de R$ 111,92 (cento e onze reais e noventa e dois centavos), exclusivamente nos meses de fevereiro a junho e agosto a dezembro de 2024 e 2025 aos alunos do 9º ano do Ensino Fundamental e Ensino Médio da rede pública do Estado de Goiás.~~
 
-§ 1º ~~Parágrafo único.~~ O repasse do valor da Bolsa Estudo será operacionalizado por sistema bancário e conforme a disposição da SEDUC em portaria.<br>
+§ 1º ~~Parágrafo único.~~ O repasse do valor da Bolsa Estudo será operacionalizado por sistema bancário e conforme a disposição da SEDUC em portaria.
+
 \- [Constituído § 1º pelo Decreto nº 10.724, de 8-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111042/decreto-10724).
 
-§ 2º Farão jus ao recebimento do benefício de que trata o _caput_ deste artigo, a partir de fevereiro de 2025, os alunos do 9º (nono) ano do Ensino Fundamental e os do Ensino Médio matriculados em unidades escolares conveniadas.<br>
+§ 2º Farão jus ao recebimento do benefício de que trata o _caput_ deste artigo, a partir de fevereiro de 2025, os alunos do 9º (nono) ano do Ensino Fundamental e os do Ensino Médio matriculados em unidades escolares conveniadas.
+
 \- [Acrescido pelo Decreto nº 10.724, de 8-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111042/decreto-10724).
 
-Art. 3º O recebimento do valor do Programa Bolsa Estudo ficará condicionado à observância dos seguintes critérios:<br>
+Art. 3º O recebimento do valor do Programa Bolsa Estudo ficará condicionado à observância dos seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.841, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111901/decreto-10841).
 
 ~~Art. 3º Nos anos de 2024 e 2025, o recebimento do valor do Programa Bolsa Estudo ficará condicionado à observância dos seguintes critérios:~~
 
-I – frequência mensal mínima de 75% (setenta e cinco por cento) em todas as disciplinas;<br>
+I – frequência mensal mínima de 75% (setenta e cinco por cento) em todas as disciplinas;
+
 \- [Redação dada pelo Decreto nº 10.724, de 8-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111042/decreto-10724).
 
 ~~I – frequência mensal mínima de 75% (setenta e cinco por cento) em todas as disciplinas, com a suspensão do pagamento do benefício após três meses consecutivos de descumprimento;~~
 
-II – média escolar superior ou igual a 6,0 (seis) em cada disciplina, a cada bimestre; e<br>
+II – média escolar superior ou igual a 6,0 (seis) em cada disciplina, a cada bimestre; e
+
 \- [Redação dada pelo Decreto nº 10.724, de 8-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111042/decreto-10724).
 
 ~~II – nota bimestral mínima em todas as disciplinas para a aprovação na unidade escolar; e~~

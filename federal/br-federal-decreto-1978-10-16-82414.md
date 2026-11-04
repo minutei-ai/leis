@@ -1,5 +1,3 @@
-###DEC-082414-0-000-16-10-1978@@@
-
 Decreto n.º 82 414, de 16 de outubro de 1978.
 
 Autoriza o funcionamento do curso de Engenharia do Instituto de Tecnologia de Governador Valadares, Estado de Minas Gerais.

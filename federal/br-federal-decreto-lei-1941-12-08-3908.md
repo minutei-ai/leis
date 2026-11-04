@@ -1,5 +1,3 @@
-###DEL-003908-0-000-08-12-1941@@@
-
 DECRETO-LEI N. 3.908 – DE 8 DE DEZEMBrO DE 1941
 
  Dispõe sobre as sociedades mútuas de seguros

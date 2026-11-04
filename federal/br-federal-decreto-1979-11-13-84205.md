@@ -1,5 +1,3 @@
-###DEC-084205-0-000-13-11-1979@@@
-
 DECRETO Nº 84.205, DE 13 DE NOVEMBRO DE 1979.
 
 Altera o parágrafo único, do art. 1º, do Decreto nº 82.614, de 08 de novembro de 1978, que declara de interesse social, para fins de desapropriação, imóveis rurais situados nos municípios de Itabaiana e de Salgado de São Félix, no Estado da Paraíba, e dá outras providências.

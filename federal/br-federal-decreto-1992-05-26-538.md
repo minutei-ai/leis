@@ -1,7 +1,3 @@
-1
-
-###DEC-000538-0-000-26-05-1992@@@
-
 DECRETO Nº 538, DE 26 DE MAIO DE 1992
 
 Altera os arts. 2º, 15, 23 e 35 do Decreto nº 70.951, de 9 de agosto de 1972, no que se refere à distribuição gratuita de prêmios, mediante sorteio, vale-brinde ou concurso, a título de propaganda.

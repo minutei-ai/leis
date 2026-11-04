@@ -1,5 +1,3 @@
-###DEC-094681-0-000-24-07-1987@@@
-
 DECRETO N° 94.681, DE 24 DE JULHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de transição Tamoio, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

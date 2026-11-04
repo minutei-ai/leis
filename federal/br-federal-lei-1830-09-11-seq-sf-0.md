@@ -1,5 +1,3 @@
-###LEI-000000-0-000-11-09-1830@@@
-
 LEI - DE 11 DE SETEMBRO DE 1830
 
 Estatue que os presos, ou afiançados, possam ser citados, demandados, sob certas providencias, por qualquer feito civel.

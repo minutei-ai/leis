@@ -1,5 +1,3 @@
-###DEC-074598-0-000-23-09-1974@@@
-
 DECRETO Nº 74.598, DE 23 DE SETEMBRO DE 1974.
 
 Renova 10 (dez) anos a concessão deferida à Rádio Clube de Conquista Ltda., para executar serviço de radiodifusão sonora em onda tropical na cidade de Vitória da Conquista, Estado da Bahia.

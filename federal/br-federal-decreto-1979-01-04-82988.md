@@ -1,5 +1,3 @@
-###DEC-082988-0-000-04-01-1979@@@
-
 DECRETO Nº 82.988, DE 04 DE JANEIRO DE 1979
 
 Promulga o Convênio de Cooperação Cultural e Científica Brasil-Chile

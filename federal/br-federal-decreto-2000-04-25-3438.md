@@ -1,5 +1,3 @@
-###DEC-003438-0-000-25-04-2000@@@
-
 DECRETO Nº 3.438, DE 25 DE ABRIL DE 2000.
 
 Altera as características da Nota do Tesouro Nacional série F - NTN-F e cria o Certificado Financeiro do Tesouro, série F-CFT-F.

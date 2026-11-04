@@ -1,5 +1,3 @@
-###DEC-084198-0-000-13-11-1979@@@
-
 Decreto nº 84.198, de 13 de novembro de 1979
 
 Cria, na estrutura do Ministério da Educação e Cultura, a Secretaria do Patrimônio Histórico e Artístico Nacional, por transformação do Instituto do Patrimônio Histórico e Artístico Nacional, e dá outras providências.

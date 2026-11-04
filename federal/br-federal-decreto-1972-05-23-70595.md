@@ -1,5 +1,3 @@
-###DEC-070595-0-000-23-05-1972@@@
-
 DECRETO Nº 70.595, DE 23 DE MAIO DE 1972.
 
 Autoriza o funcionamento  da Faculdade Olindense de Administração - Olinda - PE.

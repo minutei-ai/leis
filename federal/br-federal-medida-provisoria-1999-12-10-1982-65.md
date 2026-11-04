@@ -1,5 +1,3 @@
-###MPV-001982-0-065-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.982-65, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045440-0-000-20-02-1959@@@
-
 decreto nº 54.440, de 20 de fevereiro de 1959.
 
 Concede o abono provisório aos servidores do Instituto de Aposentadoria e Pensões dos Marítimos.

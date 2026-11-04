@@ -1,5 +1,3 @@
-###DEC-005516-0-000-22-08-2005@@@
-
 DECRETO Nº  5.516, DE 22 DE AGOSTO DE 2005
 
 Altera os Anexos V, VI, IX, X e XI do Decreto n o 5.379, de 25 de fevereiro de 2005, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2005, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053550-0-000-06-02-1964@@@
-
 Decreto nº 53.550, de 6 de fevereiro de 1964.
 
 Concede à Companhia de Navegação “Norsul” autorização para funcionar como emprêsa de navegação de cabotagem.

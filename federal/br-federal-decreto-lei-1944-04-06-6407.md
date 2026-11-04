@@ -1,5 +1,3 @@
-###DEL-006407-0-000-06-04-1944@@@
-
 DECRETO- LEI N. 6.407 – DE 6 DE ABRIL 1944
 
 Dispõe sôbre transferência para a Reserva de Coronéis das Armas e Serviços do Exército e Capitães do Mar e Guerra dos  Corpos e Quadros da Armada

@@ -1,5 +1,3 @@
-###DEL-006211-0-000-20-01-1944@@@
-
 DECRETO-LEI N. 6.211 – DE 20 DE JANEIRO DE 1944
 
 Cria cargo e funções gratificadas no Quadro Permanente do Ministério da Fazenda e dá outras providências

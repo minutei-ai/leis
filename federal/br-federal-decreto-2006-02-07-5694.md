@@ -1,5 +1,3 @@
-###DEC-005694-0-000-07-02-2006@@@
-
 DECRETO Nº 5.694, DE 7 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução, no Território Nacional da Resolução no 1.643, de 15 de dezembro de 2005, do Conselho de Segurança das Nações Unidas, que, entre outras providências, renova, por um ano, o embargo de armas à Costa do Marfim, bem como as restrições de viagem e o congelamento de fundos, ativos financeiros e recursos econômicos de determinados indivíduos e entidades.

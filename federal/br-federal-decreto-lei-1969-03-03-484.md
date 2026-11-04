@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0bb5c4fc-5be8-4581-a0d9-c629f0e33b30/texto#nowhere)
 
-###DEL-000484-0-000-03-03-1969@@@
-
 DECRETO-LEI Nº 484, DE 3 DE MARÇO DE 1969
 
 Altera dispositivos do Decreto-lei nº 401, e dá outras providências.

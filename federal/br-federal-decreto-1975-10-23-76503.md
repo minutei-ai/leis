@@ -1,5 +1,3 @@
-###DEC-076503-0-000-23-10-1975@@@
-
 Decreto nº 76.503, de 23 de outubro de 1975.
 
 Outorga concessão à Rádio Hertz de Franca Ltda., para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Franca, Estado de São Paulo.

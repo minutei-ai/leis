@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/123d7bca-9de9-4e46-8590-4bdb31f160ed/texto#nowhere)
 
-###DEL-000504-0-000-18-03-1969@@@
-
 DECRETO-LEI Nº 504, DE 18 DE MARÇO DE 1969
 
 Modifica a redação do artigo 624 do Decreto-lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal)

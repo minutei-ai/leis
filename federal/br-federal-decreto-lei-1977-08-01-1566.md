@@ -1,5 +1,3 @@
-###DEL-001566-0-000-01-08-1977@@@
-
 # DECRETO-LEI Nº 1.566, DE 1º DE AGOSTO DE 1977
 
 Autoriza a subscrição, pelo Tesouro Nacional, de ações da Siderurgia Brasileira S.A. - SIDERBRÁS e dá outras providências.

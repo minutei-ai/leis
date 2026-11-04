@@ -1,5 +1,3 @@
-###DEC-053642-0-000-28-02-1964@@@
-
 Decreto nº 53.642, de 28 de fevereiro de 1964.
 
 Dispõe sôbre a duplicação de matrículas no primeiro ano das escolas superiores.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001106-0-000-29-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.106, DE 29 DE AGOSTO DE 1995.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001950-0-066-26-07-2000@@@
-
 MEDIDA provisória nº 1.950-66, de 26 de julho de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

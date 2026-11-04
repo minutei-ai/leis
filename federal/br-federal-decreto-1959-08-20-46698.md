@@ -1,5 +1,3 @@
-###DEC-046698-0-000-20-08-1959@@@
-
 Decreto nº 46.698, de 20 de Agôsto de 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista da Escola Preparatória de Fortaleza, para idêntica Tabela do Hospital Central do Exército, ambas do Ministério da Guerra.

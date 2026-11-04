@@ -1,5 +1,3 @@
-###DEC-064501-0-000-14-05-1969@@@
-
 DECRETO Nº 64.501, DE 14 de MAIO DE 1969.
 
 Concede a E. Aranha & Cia, o direito de lavrar água mineral no município de Duas Estradas no Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-050935-0-000-11-07-1961@@@
-
 Decreto nº 50.935, de 11 de julho de 1961.
 
 Revoga o Decreto número 46.238, de 18 de junho de 1959.

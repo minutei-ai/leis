@@ -1,5 +1,3 @@
-###DEC-049016-0-000-04-10-1960@@@
-
 DECRETO Nº 49.016, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco Alvarenga a pesquisar caulim no município de Piedade, Estado de São Paulo.

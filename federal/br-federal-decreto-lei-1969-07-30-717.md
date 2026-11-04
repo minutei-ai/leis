@@ -1,7 +1,3 @@
-1
-
-###DEL-000717-0-000-30-07-1969@@@
-
 DECRETO-LEI Nº 717, DE 30 DE JULHO DE 1969
 
 Modifica textos legislativos que menciona e dá outras providências.
@@ -24,7 +20,25 @@ a) 15% (quinze por cento) sôbre a emissão de bilhetes da Loteria Federal, incl
 
 b) A percentagem sôbre a renda líquida auferida pelas entidades turfísticas em cada reunião hípica, em prados de corrida, sub-sedes e outras dependências, calculada de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Movimento Geral das Apostas por Reunião Hípica</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Percentagem sôbre a renda Líquida</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>%</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até NCr$150.000,00 ..................................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De NCr$150.000,00 a NCr$250.000,00.........................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Acima de NCr$250.000,00 ..........................................</span></p></td><td style="width:161.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td></tr></tbody></table>
+Movimento Geral das Apostas por Reunião Hípica
+
+Percentagem sôbre a renda Líquida
+
+NCr$
+
+%
+
+Até NCr$150.000,00 ..................................................
+
+5
+
+De NCr$150.000,00 a NCr$250.000,00.........................
+
+10
+
+Acima de NCr$250.000,00 ..........................................
+
+30
 
 § 1º Considera-se renda líquida auferida pela entidade a diferença entre a importância por ela retirada do movimento geral das apostas e o valor da contribuição da previdência social; entende-se por movimento geral das apostas a importância correspondente ao valor do total de bilhetes de apostas apregoado ao público para efeito de cálculo de rateio, acrescido das importâncias constantes das demais modalidades de apostas recebidas diretamente do público apostador nos prados de corrida, sub-sedes e outras dependências.
 
@@ -43,8 +57,6 @@ Brasília, 30 de julho de 1969; 148º da Independência e 81º da República.
 A. CosTA E SiLvA
 
 Antônio Delfim Netto
-
-###DEL-000717-0-000-30-07-1969@@@REP01+++
 
 (\*) DECRETO-LEI Nº 717, DE 30 DE JULHO DE 1969
 
@@ -68,7 +80,25 @@ a) 15% (quinze por cento) sôbre a emissão de bilhetes da Loteria Federal, incl
 
 b) A percentagem sôbre a renda líquida auferida pelas entidades turfísticas em cada reunião hípica, em prados de corrida, sub-sedes e outras dependências, calculada de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Movimento Geral das Apostas por Reunião Hípica</span></p></td><td style="width:58.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Percentagem sôbre a renda Líquida</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td><td style="width:58.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>%</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até NCr$150.000,00....................................................................................</span></p></td><td style="width:58.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De NCr$150.000,00 a NCr$250.000,00..........................................................</span></p></td><td style="width:58.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Acima de NCr$250.000,00............................................................................</span></p></td><td style="width:58.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td></tr></tbody></table>
+Movimento Geral das Apostas por Reunião Hípica
+
+Percentagem sôbre a renda Líquida
+
+NCr$
+
+%
+
+Até NCr$150.000,00....................................................................................
+
+5
+
+De NCr$150.000,00 a NCr$250.000,00..........................................................
+
+10
+
+Acima de NCr$250.000,00............................................................................
+
+30
 
 § 1º Considera-se renda líquida auferida pela entidade a diferença entre a importância por ela retirada do movimento geral das apostas e o valor da contribuição da previdência social; entende-se por movimento geral das apostas a importância correspondente ao valor do total de bilhões de apostas apregoado ao público para efeito de cálculo de rateio, acrescido das importâncias constantes das demais modalidades de apostas recebidas diretamente ao público apostador nos prados de corrida, sub-sedes e outras dependências.
 

@@ -1,5 +1,3 @@
-###DEL-005915-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.915 – DE 25 DE OUTUBRO DE 1943
 
 Concede pensão especial à viúva de José Caetano dos Santos

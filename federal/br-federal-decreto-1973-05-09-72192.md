@@ -1,5 +1,3 @@
-###DEC-072192-0-000-09-05-1973@@@
-
 DECRETO Nº 72.192, DE 9 DE MAIO DE 1973.
 
 Declara a caducidade dos Decretos que menciona.

@@ -1,5 +1,3 @@
-###DEL-005906-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.906 – DE 21 DE OUTUBRO DE 1943
 
 Destaca a importância de Cr$ 417.343,10 para liquidação de, dívidas relacionadas

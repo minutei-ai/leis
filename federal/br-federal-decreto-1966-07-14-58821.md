@@ -1,5 +1,3 @@
-###DEC-058821-0-000-14-07-1966@@@
-
 DECRETO Nº 58.821, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção nº 104 concernente à abolição das sanções penais.
@@ -98,4 +96,20 @@ O texto que precede é o texto autêntico da convenção devidamente adotada pel
 
 Em fé do que apuserem suas assinaturas, neste décimo nono dia de julho de 1955.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- O Presidente da Conferência</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>F. Garcia Oldini</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- O Diretor-Geral da Repartição Internacional do Trabalho</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>David A. Morse</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+- O Presidente da Conferência
+
+</td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+F. Garcia Oldini
+
+</td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+- O Diretor-Geral da Repartição Internacional do Trabalho
+
+</td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+David A. Morse
+
+</td></tr></tbody></table>

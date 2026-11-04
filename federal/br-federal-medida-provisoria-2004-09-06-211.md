@@ -1,5 +1,3 @@
-###MPV-000211-0-000-06-09-2004@@@
-
 MEDIDA PROVISÓRIA Nº 211, DE 6 DE SETEMBRO DE 2004
 
 Abre, em favor dos Ministérios dos Transportes e da Integração Nacional, crédito extraordinário no valor de R$ 60.000.000,00, para os fins que especifica.

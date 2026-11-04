@@ -1,5 +1,3 @@
-###DEC-070225-0-000-02-03-1972@@@
-
 DECRETO Nº 70.225, DE 2 DE MARÇO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis do Litoral Santista.

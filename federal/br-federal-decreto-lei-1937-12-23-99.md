@@ -1,5 +1,3 @@
-###DEL-000099-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 99 – DE 23 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 29.000:000$ (vinte e nove mil contos de réis), para pagamento de juros de títulos da Dívida Interna Fundada

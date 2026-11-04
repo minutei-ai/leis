@@ -1,5 +1,3 @@
-###DEC-058262-0-000-26-04-1966@@@
-
 DECRETO Nº 58.262, DE 26 DE ABRIL DE 1966.
 
 Transforma o Consulado de carreira em Tânger em Consulado Honorário.

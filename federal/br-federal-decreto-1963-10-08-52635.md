@@ -1,5 +1,3 @@
-###DEC-052635-0-000-08-10-1963@@@
-
 DECRETO Nº 52.635, DE 8 DE OUTUBRO DE 1963.
 
 Declara protetoras de acôrdo com o artigo 11 e seu parágrafo único, do Decreto número 23.793, de 23 de janeiro de 1934, as florestas que indica.

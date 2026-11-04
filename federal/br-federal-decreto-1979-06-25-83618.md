@@ -1,5 +1,3 @@
-###DEC-083618-0-000-25-06-1979@@@
-
 Decreto nº 83.618, de 25 de junho de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio pleno da área de terra situada na Avenida Presidente Costa e Silva nº 538, antiga Avenida Silves, na cidade de Manaus, Estado do Amazonas, destinada à ampliação da área onde está sendo construído o edifício-sede da Diretoria Regional do Departamento Nacional de Telecomunicações, do Ministério das Comunicações.

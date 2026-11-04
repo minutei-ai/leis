@@ -1,5 +1,3 @@
-###DEC-075600-0-000-11-04-1975@@@
-
 DECRETO Nº 75.600, DE 11 DE ABRIL DE 1975.
 
 Concede reconhecimento ao Curso de Educação Física da Escola Superior de Educação Física e Desportos de Joinville, mantida pela Fundação Joinvillense de Ensino, com sede na cidade de Joinville, Estado de Santa Catarina.

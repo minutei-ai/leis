@@ -1,5 +1,3 @@
-###DEC-004577-0-000-17-01-2003@@@
-
 DECRETO N. 4.577 – DE 17 DE JANEIRO DE 2003
 
 Altera a Estrutura Regimental do Departamento Nacional de Infra-Estrutura de Transportes – DNIT, aprovada pelo Decreto nº 4.129, de 13 de fevereiro de 2002.

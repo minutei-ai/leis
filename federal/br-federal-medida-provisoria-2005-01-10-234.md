@@ -1,5 +1,3 @@
-###MPV-000234-0-000-10-01-2005@@@
-
 MEDIDA PROVISÓRIA Nº 234, DE 10 DE JANEIRO DE 2005
 
 Dá nova redação ao caput do art. 2.031 da Lei nº 10.406, de 10 de janeiro de 2002, que institui o Código Civil.

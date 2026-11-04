@@ -1,7 +1,3 @@
-1
-
-###DEC-000496-0-000-20-04-1992@@@
-
 DECRETO Nº 496, DE 20 DE ABRIL DE 1992
 
 Dispõe sobre a execução orçamentária e financeira dos Ministérios criados pela Medida Provisória nº 302, de 10 de abril de 1992.

@@ -1,5 +1,3 @@
-###DEC-069431-0-000-27-10-1971@@@
-
 DECRETO Nº 69.431 - DE 27 DE OUTUBRO DE 1971
 
 Torna sem efeito aproveitamento de disponíveis no Departamento Nacional de Estradas de Ferro e cassa a disponibilidade dos mesmos.

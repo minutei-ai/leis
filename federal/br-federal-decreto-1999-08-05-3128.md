@@ -1,5 +1,3 @@
-###DEC-003128-0-000-05-08-1999@@@
-
 DECRETO Nº 3.128, DE 5 DE AGOSTO DE 1999.
 
 Promulga a Convenção sobre a Proibição do Uso, Armazenamento, Produção e Transferência de Minas Antipessoal e sobre sua Destruição, aberta a assinaturas em Ottawa, em 3 de dezembro de 1997.

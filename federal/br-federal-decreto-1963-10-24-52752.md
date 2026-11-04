@@ -1,5 +1,3 @@
-###DEC-052752-0-000-24-10-1963@@@
-
 DECRETO Nº 52.752, DE 24 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública a “Comunidade Franciscana da Bahia” com sede em Salvador, Estado da Bahia.

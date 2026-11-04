@@ -1,5 +1,3 @@
-###DEL-004795-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.795 – DE 6 DE OUTUBRO DE 1942
 
 Cria o 18º Regimento de Infantaria, com sede em Salvador

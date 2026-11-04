@@ -1,5 +1,3 @@
-###DEL-008742-0-000-19-01-1946@@@
-
 DECRETO-LEI N. 8.742 – DE 19 DE JANEIRO DE 1946
 
 Transforma o Departamento de Previdência Social do Conselho Nacional do Trabalho em Departamento Nacional da Previdência Social e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057011-0-000-11-10-1965@@@
-
 decreto nº 57.011, de 11 de outubro de 1965.
 
 Transfere para a jurisdição do Departamento de Pesquisas e Experimentação Agropecuárias a Fazenda de Campo Grande, Estado de Mato Grosso, do Ministério da Agricultura.

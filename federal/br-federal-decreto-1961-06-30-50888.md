@@ -1,5 +1,3 @@
-###DEC-050888-0-000-30-06-1961@@@
-
 DECRETO Nº 50.888, de 30 de junho de1961.
 
 Submete a regime de intervenção federal o Serviço Social da Indústria (SESI) e o Serviço Nacional de Aprendizagem Industrial (SENAI) e dá outras providências.

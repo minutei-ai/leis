@@ -1,5 +1,3 @@
-###DEC-006797-0-000-17-03-2009@@@
-
 DECRETO Nº 6.797, DE 17 DE MARÇO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte para Evitar a Dupla Tributação dos Lucros Decorrentes do Transporte Marítimo e Aéreo, firmado em Brasília, em 27 de julho de 2005.          

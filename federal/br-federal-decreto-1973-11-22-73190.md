@@ -1,5 +1,3 @@
-###DEC-073190-0-000-22-11-1973@@@
-
 DECRETO Nº 73.190 - DE 22 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública as instituições que menciona.

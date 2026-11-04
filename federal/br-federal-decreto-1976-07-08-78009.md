@@ -1,5 +1,3 @@
-###DEC-078009-0-000-08-07-1976@@@
-
 DECRETO Nº 78.009, DE 8 DE JULHO DE 1976.
 
 Concede à Mineração São Gabriel Limitada, o direito de lavrar calcário no Município de São Sepé, Estado do Rio de Grande do Sul.

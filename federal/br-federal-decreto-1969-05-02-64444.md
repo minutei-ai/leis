@@ -1,5 +1,3 @@
-###DEC-064444-0-000-02-05-1969@@@
-
 DECRETO Nº 64.444, DE 2 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, no Estado da Guanabara, necessário ao Ministério da Marinha.

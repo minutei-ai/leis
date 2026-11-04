@@ -1,5 +1,3 @@
-###DEC-055277-0-000-22-12-1964@@@
-
 decreto nº 55.277, de 22 de dezembro de 1964.
 
 Cria o 4º Batalhão de Comunicações de Exército.

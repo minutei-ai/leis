@@ -1,5 +1,3 @@
-###DEC-087911-0-000-07-12-1982@@@
-
 Decreto nº 87.911, dE 07 dE dezembro de 1982
 
 Regulamenta o artigo 47 da Lei nº 5540, de 28 de novembro de 1968, e dá outras providências.

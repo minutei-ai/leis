@@ -1,5 +1,3 @@
-###DEC-067314-0-000-02-10-1970@@@
-
 DECRETO Nº 67.314, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 1.819 de 4-12-1962.

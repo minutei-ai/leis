@@ -1,5 +1,3 @@
-###DEC-062015-0-000-29-12-1967@@@
-
 DECRETO Nº 62.015, DE 29 DE DEZEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica no distrito-sede do município de Caxias, Estado do Maranhão e outorga concessão à Prefeitura Municipal de Caxias e dá outras providências.

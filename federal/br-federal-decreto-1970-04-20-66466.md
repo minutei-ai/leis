@@ -1,5 +1,3 @@
-###DEC-066466-0-000-20-04-1970@@@
-
 decreto nº 66.466, de 20 de abril de 1970.
 
 Declara de utilidade pública o Colégio Dom Bosco, com sede em Tupã, Estado de São Paulo.

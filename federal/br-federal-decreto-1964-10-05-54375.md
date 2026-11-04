@@ -1,5 +1,3 @@
-###DEC-054375-0-000-05-10-1964@@@
-
 decreto nº 54.375, de 5 de outubro de 1964.
 
 Autoriza Centrais Elétricas de Goiás S.A. a suprir grandes consumidores localizados em sua zona de influência.
@@ -25,8 +23,6 @@ Brasília, 5 de outubro de 1964; 143º da Independência e 76º da República.
 h. castello branco
 
 Mauro Thibau
-
-###DEC-054375-0-000-05-10-1964@@@RET01+++
 
 Decreto nº 54.375, de 5 de outubro de 1964.
 

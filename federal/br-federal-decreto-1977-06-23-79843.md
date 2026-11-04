@@ -1,5 +1,3 @@
-###DEC-079843-0-000-23-06-1977@@@
-
 DECRETO Nº 79.843, DE 23 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação da subestação Santa Bárbara D'Oeste, da Centrais Elétricas de São Paulo S.A. - CESP.

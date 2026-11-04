@@ -1,5 +1,3 @@
-###DEC-053079-0-000-04-12-1963@@@
-
 DECRETO Nº 53.079, DE 04 DE DEZEMBRO DE 1963.
 
 Organiza no Ministério da Aeronáutica, a Base Aérea de Brasília.

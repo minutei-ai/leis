@@ -1,5 +1,3 @@
-###DEC-082933-0-000-22-12-1978@@@
-
 Decreto nº 82 933, de 22 de dezembro de 1978
 
 Autoriza o Ministro da Fazenda a conceder a garantia do Tesouro Nacional a operações de crédito externo da Companhia Docas do Rio de Janeiro.

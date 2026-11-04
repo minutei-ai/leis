@@ -1,5 +1,3 @@
-###DEC-071329-0-000-07-11-1972@@@
-
 DECRETO nº 71.329, DE 7 DE NOVEMBRO DE 1972.
 
 Aprova o Regulamento do Centro de Computação da Aeronáutica e dá outras providências.

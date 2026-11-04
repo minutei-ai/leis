@@ -1,5 +1,3 @@
-###MPV-000510-0-000-28-10-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 510, DE 28 DE OUTUBRO DE 2010.
 
 Regula o cumprimento de obrigações tributárias por consórcios que realizem negócios jurídicos em nome próprio; dá nova redação ao art. 31 da Medida Provisória no 497, de 27 de julho de 2010, que promove desoneração tributária de subvenções governamentais destinadas ao fomento das atividades de pesquisa tecnológica e desenvolvimento de inovação tecnológica nas empresas e institui o Regime Especial de Tributação para construção, ampliação, reforma ou modernização de estádios de futebol - RECOM; acresce dispositivos à Lei no 10.168, de 29 de dezembro de 2000, que institui contribuição de intervenção de domínio econômico destinada a financiar o Programa de Estímulo à Interação Universidade-Empresa para o Apoio à Inovação; e dá outras providências.

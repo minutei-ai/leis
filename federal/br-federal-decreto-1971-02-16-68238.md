@@ -1,5 +1,3 @@
-###DEC-068238-0-000-16-02-1971@@@
-
 DECRETO Nº 68.238, DE 16 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública a Associação Hospital Oswaldo Cruz, com sede em São Paulo, Estado de São Paulo.

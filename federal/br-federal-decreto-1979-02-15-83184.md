@@ -1,5 +1,3 @@
-###DEC-083184-0-000-15-02-1979@@@
-
 DECRETO Nº 83.184, DE 15 DE FEVEREIRO DE 1979
 
 Autoriza o funcionamento dos cursos de Administração, de Ciências Contábeis e de Ciências Econômicas da Fundação de Ensino Superior do Município de Campo Mourão, com sede na cidade de Campo Mourão, Estado do Paraná.

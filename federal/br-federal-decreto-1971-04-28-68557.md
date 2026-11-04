@@ -1,5 +1,3 @@
-###DEC-068557-0-000-28-04-1971@@@
-
 DECRETO Nº 68.557, DE 28 de ABRIL DE 1971.
 
 Declara de utilidade pública a Casa do Ceará, em Brasília, com sede Brasília, no Distrito Federal.

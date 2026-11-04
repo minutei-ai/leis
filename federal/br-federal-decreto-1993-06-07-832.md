@@ -1,7 +1,3 @@
-1
-
-###DEC-000832-0-000-07-06-1993@@@
-
 DECRETO N° 832, DE 7 DE JUNHO DE 1993
 
 Dispõe sobre a contribuição empresarial devida à Seguridade Social por clube de futebol profissional e o parcelamento de débitos, de acordo com a Lei n° 8.641, de 31 de março de 1993.

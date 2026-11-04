@@ -1,5 +1,3 @@
-###DEC-098552-0-000-14-12-1989@@@
-
 DECRETO Nº 98.552, DE 14 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do plano de curso de Formação de Executivos, da Faculdade de Administração, Ciências Econômicas e Contábeis, em Natal, Rio Grande do Norte.

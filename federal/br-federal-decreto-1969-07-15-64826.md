@@ -1,5 +1,3 @@
-###DEC-064826-0-000-15-07-1969@@@
-
 DECRETO Nº 64.826 - DE 15 DE JULHO DE 1969.
 
 Suprime cargos vagos nos Quadros de Pessoal do Ministério da Justiça.

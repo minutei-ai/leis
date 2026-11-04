@@ -1,7 +1,3 @@
-1
-
-###DEC-001326-0-000-05-12-1994@@@
-
 DECRETO Nº 1.326, DE 5 DE DEZEMBRO DE 1994
 
 Cria o passador e a barreta de quatro âncoras em prata e ouro para a Medalha Mérito Anfíbio.

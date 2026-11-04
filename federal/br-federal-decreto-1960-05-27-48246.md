@@ -1,5 +1,3 @@
-###DEC-048246-0-000-27-05-1960@@@
-
 decreto nº 48.246, de 27 de maio de 1960.
 
 Revoga o art. 3º do Decreto nº 48.143, de 27 de abril de 1960.

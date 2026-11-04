@@ -41,25 +41,44 @@ Presidente
 **ANEXO ÚNICO**
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="206" valign="top" style="width:154.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">CARGO</span></p></td><td width="406" valign="top" style="width:304.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">ATRIBUIÇÕES</span></p></td></tr><tr><td width="206" valign="top" style="width:154.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Assessor de Magistrado (Símbolo APJC)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="406" valign="top" style="width:304.75pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+CARGO
+
+</td><td width="406" valign="top" style="width:304.75pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+ATRIBUIÇÕES
+
+</td></tr><tr><td width="206" valign="top" style="width:154.25pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+Assessor de Magistrado (Símbolo APJC)
+
+&nbsp;
+
+</td><td width="406" valign="top" style="width:304.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">- Auxiliar Juízes (as) de Direito em matéria jurídica;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">- controlar o trâmite dos processos no âmbito do gabinete dos (as) Juízes (as);</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">- auxiliar os (as) magistrados (as) na realização de audiências de conciliação e mediação;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">- realizar atividades de atendimento às partes, aos advogados (as) e ao público em geral;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">- acompanhar as diversas fases dos processos, bem como a manutenção e a consulta a bancos de dados e a indexação de documentos;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">- executar outras atividades correlatas.</span></p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt">
+
+- Auxiliar Juízes (as) de Direito em matéria jurídica;
+
+- controlar o trâmite dos processos no âmbito do gabinete dos (as) Juízes (as);
+
+- auxiliar os (as) magistrados (as) na realização de audiências de conciliação e mediação;
+
+- realizar atividades de atendimento às partes, aos advogados (as) e ao público em geral;
+
+- acompanhar as diversas fases dos processos, bem como a manutenção e a consulta a bancos de dados e a indexação de documentos;
+
+- executar outras atividades correlatas.
+
+</td></tr></tbody></table>

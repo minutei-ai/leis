@@ -1,5 +1,3 @@
-###DEC-084364-0-000-04-01-1980@@@
-
 Decreto nº 84.364, de 04 de janeiro de 1980.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia, da Faculdade de Ciências da Saúde, em Ribeirão Preto, Estado de São Paulo.
@@ -15,8 +13,6 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas
 Brasília, em 04 de janeiro de 1980; 159º da Independência e 92º da República.
 
 JOÃO FIGUEIREDO
-
-###DEC-084364-0-000-04-01-1980@@@RET01+++
 
 DECRETO Nº 84.364, DE 04 DE JANEIRO DE 1980
 

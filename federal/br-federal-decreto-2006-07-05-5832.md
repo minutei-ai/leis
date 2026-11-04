@@ -1,5 +1,3 @@
-###DEC-005832-0-000-05-07-2006@@@
-
 DECRETO Nº 5.832, DE 5 DE JULHO DE 2006.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República do Equador na Área de Defesa Civil, celebrado em Quito, em 1o de outubro de 2001.
@@ -24,11 +22,7 @@ Brasília, 5 de julho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no D.O.U. de 6.7.2006
-
-MEMORANDO DE ENTENDIMENTO NA ÁREA DE DEFESA CIVIL
+        Samuel Pinheiro Guimarães NetoMEMORANDO DE ENTENDIMENTO NA ÁREA DE DEFESA CIVIL
 
 O Governo da República Federativa do Brasil
 

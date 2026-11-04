@@ -1,5 +1,3 @@
-###DEC-097597-0-000-30-03-1989@@@
-
 DECRETO N° 97.597, DE 30 DE MARÇO DE 1989
 
 Dá nova redação ao artigo 3° do Decreto n° 74.557, de 12 de setembro de 1974, que criou a Comissão Interministerial para os Recursos do Mar -CIRM.

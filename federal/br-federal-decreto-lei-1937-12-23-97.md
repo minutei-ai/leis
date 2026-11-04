@@ -1,5 +1,3 @@
-###DEL-000097-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 97 – DE 23 DE DEZEMBRO DE 1937
 
 Regula as vendas de Letras de exportação e dá outras providências

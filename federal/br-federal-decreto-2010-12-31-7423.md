@@ -1,5 +1,3 @@
-###DEC-007423-0-000-31-12-2010-PUB-01@@@
-
 DECRETO Nº 7.423, DE 31 DE DEZEMBRO DE 2010.
 
 Regulamenta a Lei no 8.958, de 20 de dezembro de 1994, que dispõe sobre as relações entre as instituições federais de ensino superior e de pesquisa científica e tecnológica e as fundações de apoio, e revoga o Decreto no 5.205, de 14 de setembro de 2004.

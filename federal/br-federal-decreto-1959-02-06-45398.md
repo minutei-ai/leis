@@ -1,5 +1,3 @@
-###DEC-045398-0-000-06-02-1959@@@
-
 decreto nº 45.398, de 6 de fevereiro de 1959.
 
 Suprime o Consulado honorário do Brasil em Georgetown, Guiana Britânica.

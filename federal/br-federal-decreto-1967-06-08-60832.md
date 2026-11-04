@@ -1,5 +1,3 @@
-###DEC-060832-0-000-08-06-1967@@@
-
 DECRETO Nº 60.832, DE 8 DE JUNHO DE 1967.
 
 Aprova o enquadramento dos professôres da Universidade Federal de Santa Catarina em cargos de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar do Ministério da Educação e Cultura e dá outras providências.

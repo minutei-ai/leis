@@ -1,5 +1,3 @@
-###DEC-089818-0-000-20-06-1984@@@
-
 Decreto nº 89.818, de 20 de junho de 1984
 
 Cria a Comissão Nacional de Facilitação do Comércio Exterior (CONFAC) e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048927-0-000-08-09-1960@@@
-
 Decreto nº 48.927, de 8 de setembro de 1960.
 
 Constitui comissão destinada a elaborar o “Regulamento Geral da Previdência Social”.

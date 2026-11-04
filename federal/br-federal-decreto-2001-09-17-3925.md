@@ -1,5 +1,3 @@
-###DEC-003925-0-000-17-09-2001@@@
-
 DECRETO Nº 3.925, DE 17 DE SETEMBRO DE 2001
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Romênia sobre Cooperação na Área do Combate à Produção e ao Tráfico Ilícito de Entorpecentes e Substâncias Psicotrópicas, ao Uso Indevido e à Farmacodependência, celebrado em Bucareste, em 22 de outubro de 1999.

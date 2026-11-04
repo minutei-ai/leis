@@ -1,5 +1,3 @@
-###DEC-060421-0-000-11-03-1967@@@
-
 DECRETO Nº 60.421, DE 11 DE MARÇO DE 1967.
 
 Autoriza Metais de Goiás S.A. - “METAGO” a pesquisar cristal de rocha no município de Cristalina, Estado de Goiás.

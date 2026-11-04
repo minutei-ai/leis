@@ -1,5 +1,3 @@
-###DEC-078626-0-000-25-10-1976@@@
-
 DECRETO Nº 78.626, DE 25 DE OUTUBRO DE 1976.
 
 Autoriza o funcionamento do curso de Formação de Professores das Disciplinas Profissionalizantes do ensino de 2º graus, da Faculdade de Filosofia, Ciências e Letras de Umuarama, com sede na Cidade de Umuarama, Estado do Paraná.

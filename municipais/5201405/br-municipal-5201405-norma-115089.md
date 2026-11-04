@@ -32,5 +32,6 @@ Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal de Aparecida de Goiânia, 19 de maio de 2023.
 
-ANDRÉ LUIS CARLOS DA SILVA<br>
+ANDRÉ LUIS CARLOS DA SILVA
+
 Presidente da Câmara

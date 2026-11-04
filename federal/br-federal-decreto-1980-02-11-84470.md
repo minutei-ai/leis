@@ -1,5 +1,3 @@
-###DEC-084470-0-000-11-02-1980@@@
-
 Decreto nº 84.470, de 11 de fevereiro de 1980.
 
 Concede autorização à Citco Brasil Petroleum Corporation, Chevron Amazon Petroleum Company, Unionoil Amazonas, Ltd. e Canam Offshore Limited para operarem no mar territorial do Brasil.

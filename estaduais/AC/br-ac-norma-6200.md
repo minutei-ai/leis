@@ -1,6 +1,10 @@
 > **LEI Nº 4.421, DE 24 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Declara de utilidade pública Federação das Associações Comerciais e Empresariais do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Declara de utilidade pública Federação das Associações Comerciais e Empresariais do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

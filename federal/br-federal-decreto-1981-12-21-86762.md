@@ -1,5 +1,3 @@
-###DEC-086762-0-000-21-12-1981@@@
-
 Decreto nº 86.762, de 21 de dezembro de 1981
 
 Autoriza o aumento de potência da RÁDIO JORNAL FLUMINENSE DE CAMPOS LTDA.,na cidade de Campos, Estado do Rio de Janeiro.

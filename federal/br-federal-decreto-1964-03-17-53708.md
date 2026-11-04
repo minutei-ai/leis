@@ -1,5 +1,3 @@
-###DEC-053708-0-000-17-03-1964@@@
-
 DECRETO Nº 53.708, DE 17 DE MARÇO DE 1964.
 
 Autoriza o Grupo de Trabalho criado pelo Decreto nº 43.285, a ceder à Caixa Econômica Federal de Brasília, as unidades habitacionais por si adquiridas ou construídas  na Nova Capital.

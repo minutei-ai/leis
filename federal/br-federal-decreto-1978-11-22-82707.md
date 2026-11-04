@@ -1,5 +1,3 @@
-###DEC-082707-0-000-22-11-1978@@@
-
 Decreto nº 82.707, de 22 de novembro de 1978.
 
 Autoriza a conversão do curso de Engenharia de Operação em curso de Engenharia, ministrado pela Faculdade de Engenharia de Operação de São João Del Rei, com sede na cidade de São João Del Rei, Estado de Minas Gerais.

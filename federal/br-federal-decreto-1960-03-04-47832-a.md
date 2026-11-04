@@ -1,5 +1,3 @@
-###DEC-047832-A-000-04-03-1960@@@
-
 decreto nº 47.832-A, de 4 de Março de 1960.
 
 Institui a Fundação Educacional Brasília.

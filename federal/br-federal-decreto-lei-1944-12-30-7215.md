@@ -1,5 +1,3 @@
-###DEL-007215-0-000-30-12-1944@@@
-
 DECRETO-LEI N. 7.215 – DE 30 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 62.400,00, à verba que especifica

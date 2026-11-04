@@ -1,5 +1,3 @@
-###DEC-064021-0-000-23-01-1969@@@
-
 DECRETO Nº 64.021, DE 23 DE JANEIRO DE 1969.
 
 Retifica o art. 1º do Decreto número 60.013, de 10 de janeiro de 1967.

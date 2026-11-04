@@ -1,5 +1,3 @@
-###DEC-080046-0-000-28-07-1977@@@
-
 DECRETO Nº 80.046, DE 28 DE JULHO DE 1977.
 
 Concede à Mineração Matheus Leme Ltda. o direito de lavrar agalmatolito no Município de Mateus Leme, Estado de Minas Gerais.

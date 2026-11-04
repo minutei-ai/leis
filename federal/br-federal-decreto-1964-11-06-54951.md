@@ -1,5 +1,3 @@
-###DEC-054951-0-000-06-11-1964@@@
-
 DECRETO Nº 54.951, DE 6 de novembro de 1964.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 3ª Região - o crédito dito especial de Cr$167.344.800,00 para execução da Lei nº 4.192, de 24 de dezembro de 1962.

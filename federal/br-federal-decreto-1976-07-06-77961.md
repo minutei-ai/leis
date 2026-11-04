@@ -1,5 +1,3 @@
-###DEC-077961-0-000-06-07-1976@@@
-
 DECRETO Nº 77.961, DE 6 DE JULHO DE 1976.
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Administração, da Faculdade de Educação, Ciências e Letras de Cascavel, com sede na Cidade de Cascavel - Estado do Paraná.

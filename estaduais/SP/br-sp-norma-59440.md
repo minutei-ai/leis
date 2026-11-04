@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59440)
-
 # LEI Nº 12.169, DE 20 DE DEZEMBRO DE 2005
 
 ## (Projeto de Lei nº 185/2005, do Deputado Afanasio Jazadji - PFL)

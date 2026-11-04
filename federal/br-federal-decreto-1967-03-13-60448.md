@@ -1,5 +1,3 @@
-###DEC-060448-0-000-13-03-1967@@@
-
 DECRETO Nº 60.448, DE 13 DE MARÇO DE 1967.
 
 Aprova o Regimento do Conselho Federal de Cultura.

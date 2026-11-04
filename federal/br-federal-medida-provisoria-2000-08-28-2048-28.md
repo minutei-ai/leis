@@ -1,5 +1,3 @@
-###MPV-002048-0-028-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.048-28, DE 28 DE agosto DE 2000.
 
 Dispõe sobre a criação, reestruturação e organização de carreiras, cargos e funções comissionadas técnicas no âmbito da Administração Pública Federal direta, autárquica e funcional, dá nova redação ao art. 57 da Lei nº 4.878, de 3 de dezembro de 1965, que dispõe sobre o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal, e dá outras providências.
@@ -524,113 +522,1439 @@ ANEXO I
 
 ESTRUTURA DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:432.35pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:315.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:315.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Especialista em Políticas Públicas e Gestão Governamental, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa e demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada IPEA</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td></tr><tr><td style="width:315.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista de Comércio Exterior</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td></tr><tr><td style="width:315.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Fiscal Federal Agropecuário</span></p><p class="Tabela" style="text-indent:0pt"><span>Inspetor e Analista da CVM</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista Técnico da SUSEP</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td></tr><tr><td style="width:315.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:53.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> CARGO </td><td> PADRÃO </td><td> CLASSE </td></tr><tr><td> Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Especialista em Políticas Públicas e Gestão Governamental, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa e demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada IPEA </td><td> III II I </td><td> ESPECIAL </td></tr><tr><td> Analista de Comércio Exterior </td><td> VI V IV III II I </td><td> C </td></tr><tr><td> Fiscal Federal Agropecuário Inspetor e Analista da CVM Analista Técnico da SUSEP </td><td> VI V IV III II I </td><td> B </td></tr><tr><td> Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA </td><td> V IV III II I </td><td> A </td></tr></tbody></table>
 
 ANEXO II
 
 a) ESTRUTURA DE CARGOS DA CARREIRA DE PESQUISA EM CIÊNCIA E TECNOLOGIA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NÍVEL</span></p></td><td style="width:177.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:63.9pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:67.4pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:177.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TITULAR</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NS</span></p></td><td style="width:177.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pesquisador</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSOCIADO</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:177.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ADJUNTO</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:177.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE DE PESQUISA</span></p></td></tr></tbody></table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+III
+
+II
+
+I
+
+TITULAR
+
+NS
+
+Pesquisador
+
+III
+
+II
+
+I
+
+ASSOCIADO
+
+III
+
+II
+
+I
+
+ADJUNTO
+
+III
+
+II
+
+I
+
+ASSISTENTE DE PESQUISA
 
 b) ESTRUTURA DE CARGOS DA CARREIRA DE DESENVOLVIMENTO TECNOLÓGICO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NÍVEL</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIOR</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 3</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NS</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tecnologista</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 2</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 1</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 3</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NI</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Técnico</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 2</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 1</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NA</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar Técnico</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR TÉCNICO 2</span></p></td></tr><tr><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR TÉCNICO 1</span></p></td></tr></tbody></table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+III
+
+II
+
+I
+
+SÊNIOR
+
+III
+
+II
+
+I
+
+PLENO 3
+
+NS
+
+Tecnologista
+
+III
+
+II
+
+I
+
+PLENO 2
+
+III
+
+II
+
+I
+
+PLENO 1
+
+III
+
+II
+
+I
+
+JÚNIOR
+
+III
+
+II
+
+I
+
+TÉCNICO 3
+
+NI
+
+Técnico
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+TÉCNICO 2
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+TÉCNICO 1
+
+NA
+
+Auxiliar Técnico
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+AUXILIAR TÉCNICO 2
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+AUXILIAR TÉCNICO 1
 
 c) ESTRUTURA DE CARGOS DA CARREIRA DE GESTÃO, PLANEJAMENTO E INFRA-ESTRUTURA EM CIÊNCIA E TECNOLOGIA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NÍVEL</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIOR</span></p></td></tr><tr><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 3</span></p></td></tr><tr><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NS</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista em Ciência e Tecnologia</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 2</span></p></td></tr><tr><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 1</span></p></td></tr><tr><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 3</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NI</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente em Ciência e Tecnologia</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 2</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 1</span></p></td></tr><tr><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 2</span></p></td></tr><tr><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NA</span></p></td><td style="width:102.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar em Ciência e Tecnologia</span></p></td><td style="width:102.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 1</span></p></td></tr></tbody></table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+III
+
+II
+
+I
+
+SÊNIOR
+
+III
+
+II
+
+I
+
+PLENO 3
+
+NS
+
+Analista em Ciência e Tecnologia
+
+III
+
+II
+
+I
+
+PLENO 2
+
+III
+
+II
+
+I
+
+PLENO 1
+
+III
+
+II
+
+I
+
+JÚNIOR
+
+III
+
+II
+
+I
+
+ASSISTENTE 3
+
+NI
+
+Assistente em Ciência e Tecnologia
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+ASSISTENTE 2
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+ASSISTENTE 1
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+AUXILIAR 2
+
+NA
+
+Auxiliar em Ciência e Tecnologia
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+AUXILIAR 1
 
 ANEXO III
 
 ESTRUTURA DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:209.15pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:106.4pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:102.8pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CATEGORIA</span></p></td></tr><tr><td style="width:209.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td></tr><tr><td style="width:209.15pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Procurador Federal</span></p></td><td style="width:106.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PRIMEIRA</span></p></td></tr><tr><td style="width:209.15pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:106.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SEGUNDA</span></p></td></tr></tbody></table>
+CARGO
+
+PADRÃO
+
+CATEGORIA
+
+III
+
+II
+
+I
+
+ESPECIAL
+
+Procurador Federal
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+PRIMEIRA
+
+VII
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+SEGUNDA
 
 ANEXO IV
 
 TABELA DE CORRELAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO ATUAL</span></p></td><td colspan="3" style="width:166.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cargo</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cargo</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>A</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>ESPECIAL</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>C</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Fiscal de Defesa Agropecuária</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Médico Veterinário</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>D</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>III</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>III</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fiscal Federal Agropecuário</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> SITUAÇÃO ATUAL </td><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> Cargo </td><td> Classe </td><td> Padrão </td><td> Padrão </td><td> Classe </td><td> Cargo </td></tr><tr><td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td><td> &nbsp; A &nbsp; &nbsp; &nbsp; B </td><td> III II I VI V IV III II I </td><td> III II I VI V IV III II I </td><td> ESPECIAL &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; </td><td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td></tr><tr><td> Fiscal de Defesa Agropecuária Médico Veterinário </td><td> &nbsp; &nbsp; D </td><td> V IV III </td><td> V IV III </td><td> &nbsp; &nbsp; A </td><td> Fiscal Federal Agropecuário </td></tr></tbody></table>
 
 ANEXO V
 
 a) TABELA DE CORRELAÇÃO DE CARGOS DA CARREIRA DE PESQUISA EM CIÊNCIA E TECNOLOGIA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação Atual</span></p></td><td colspan="2" style="width:166.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação Nova</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TITULAR</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TITULAR</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSOCIADO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSOCIADO</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ADJUNTO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ADJUNTO</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE DE PESQUISA</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE DE PESQUISA</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> Situação Atual </td><td colspan="2"> Situação Nova </td></tr><tr><td> CLASSE </td><td> PADRÃO </td><td> PADRÃO </td><td> CLASSE </td></tr><tr><td> TITULAR </td><td> III II I </td><td> III II I </td><td> TITULAR </td></tr><tr><td> ASSOCIADO </td><td> III II I </td><td> III II I </td><td> ASSOCIADO </td></tr><tr><td> ADJUNTO </td><td> III II I </td><td> III II I </td><td> ADJUNTO </td></tr><tr><td> ASSISTENTE DE PESQUISA </td><td> III II I </td><td> III II I </td><td> ASSISTENTE DE PESQUISA </td></tr></tbody></table>
 
 b) TABELA DE CORRELAÇÃO DE CARGOS DA CARREIRA DE DESENVOLVIMENTO TECNÓLOGICO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação Atual</span></p></td><td colspan="2" style="width:166.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação Nova</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIOR</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 3</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 3</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 2</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 2</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 1</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 3</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 3</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 2</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 2</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TÉCNICO 1</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR TÉCNICO 2</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR TÉCNICO 2</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR TÉCNICO 1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR TÉCNICO 1</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> Situação Atual </td><td colspan="2"> Situação Nova </td></tr><tr><td> CLASSE </td><td> PADRÃO </td><td> PADRÃO </td><td> CLASSE </td></tr><tr><td> SÊNIO </td><td> III II I </td><td> III II I </td><td> SÊNIOR </td></tr><tr><td> PLENO 3 </td><td> III II I </td><td> III II I </td><td> PLENO 3 </td></tr><tr><td> PLENO 2 </td><td> III II I </td><td> III II I </td><td> PLENO 2 </td></tr><tr><td> PLENO 1 </td><td> III II I </td><td> III II I </td><td> PLENO 1 </td></tr><tr><td> JÚNIOR </td><td> III II I </td><td> III II I </td><td> JÚNIOR </td></tr><tr><td> TÉCNICO 3 </td><td> III II I </td><td> III II I </td><td> TÉCNICO 3 </td></tr><tr><td> TÉCNICO 2 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> TÉCNICO 2 </td></tr><tr><td> TÉCNICO 1 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> TÉCNICO 1 </td></tr><tr><td> AUXILIAR TÉCNICO 2 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> AUXILIAR TÉCNICO 2 </td></tr><tr><td> AUXILIAR TÉCNICO 1 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> AUXILIAR TÉCNICO 1 </td></tr></tbody></table>
 
 c) TABELA DE CORRELAÇÃO DE CARGOS DA CARREIRA DE GESTÃO, PLANEJAMENTO E INFRA-ESTRUTURA EM CIÊNCIA E TECNOLOGIA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação Atual</span></p></td><td colspan="2" style="width:166.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Situação Nova</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIOR</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIOR</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 3</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 3</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 2</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 2</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PLENO 1</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 3</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 3</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 2</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 2</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 1</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 2</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 2</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 1</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:81.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 1</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> Situação Atual </td><td colspan="2"> Situação Nova </td></tr><tr><td> CLASSE </td><td> PADRÃO </td><td> PADRÃO </td><td> CLASSE </td></tr><tr><td> SÊNIOR </td><td> III II I </td><td> III II I </td><td> SÊNIOR </td></tr><tr><td> PLENO 3 </td><td> III II I </td><td> III II I </td><td> PLENO 3 </td></tr><tr><td> PLENO 2 </td><td> III II I </td><td> III II I </td><td> PLENO 2 </td></tr><tr><td> PLENO 1 </td><td> III II I </td><td> III II I </td><td> PLENO 1 </td></tr><tr><td> JÚNIOR </td><td> III II I </td><td> III II I </td><td> JÚNIOR </td></tr><tr><td> ASSISTENTE 3 </td><td> III II I </td><td> III II I </td><td> ASSISTENTE 3 </td></tr><tr><td> ASSISTENTE 2 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> ASSISTENTE 2 </td></tr><tr><td> ASSISTENTE 1 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> ASSISTENTE 1 </td></tr><tr><td> AUXILIAR 2 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> AUXILIAR 2 </td></tr><tr><td> AUXILIAR 1 </td><td> VI V IV III II I </td><td> VI V IV III II I </td><td> AUXILIAR 1 </td></tr></tbody></table>
 
 ANEXO VI
 
 TABELA DE CORRELAÇÃO E TRANSPOSIÇÃO DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:212.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO ATUAL</span></p></td><td colspan="3" style="width:212.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cargos</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Categoria</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Categoria</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cargo</span></p></td></tr><tr><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Procurador Autárquico</span></p><p class="Tabela" style="text-indent:0pt"><span>Procurador</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Advogado</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PRIMEIRA</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente Jurídico de Autarquias e Fundações Públicas Federais</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VII</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Procurador Federal</span></p></td></tr><tr><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador e Advogado da Superintendência de Seguros Privados e da Comissão de Valores Mobiliários</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>D</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>V</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SEGUNDA</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> SITUAÇÃO ATUAL </td><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> Cargos </td><td> Categoria </td><td> Padrão </td><td> Padrão </td><td> Categoria </td><td> Cargo </td></tr><tr><td> &nbsp; </td><td> A </td><td> III II I </td><td> III II I </td><td> ESPECIAL </td><td> &nbsp; </td></tr><tr><td> Procurador Autárquico Procurador Advogado </td><td> B </td><td> VI V IV III II I </td><td> V IV III II I </td><td> PRIMEIRA </td><td> &nbsp; </td></tr><tr><td> Assistente Jurídico de Autarquias e Fundações Públicas Federais </td><td> C </td><td> VI V IV III II I </td><td> VII </td><td> &nbsp; </td><td> Procurador Federal </td></tr><tr><td> Procurador e Advogado da Superintendência de Seguros Privados e da Comissão de Valores Mobiliários </td><td> D </td><td> V IV III II I </td><td> VI V </td><td> SEGUNDA </td><td> &nbsp; </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> IV III II I </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
 ANEXO VII
 
 TABELA DE VENCIMENTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR (EMR$)</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VII</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.490,21</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.359,01</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.232,05</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.108,78</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.950,75</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Analista de Finanças e Controle,</span></p><p class="Tabela" style="text-indent:0pt"><span>Analista de Planejamento e</span></p><p class="Tabela" style="text-indent:0pt"><span>Orçamento,</span></p><p class="Tabela" style="text-indent:0pt"><span>Analista de Comércio Exterior,</span></p><p class="Tabela" style="text-indent:0pt"><span>Especialista em Políticas Públicas e Gestão Governamental,</span></p><p class="Tabela" style="text-indent:0pt"><span>Técnico de Planejamento P-1501 do Grupo P-1500,</span></p><p class="Tabela" style="text-indent:0pt"><span>Técnico de Planejamento e</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pesquisa,</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.835,68</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.723,96</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.615,50</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.510,19</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.407,95</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.308,69</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Demais cargos de nível superior do Instituto de Pesquisa Econômica</span></p><p class="Tabela" style="text-indent:0pt"><span>Aplicada - IPEA</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Inspetor e Analista da CVM</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.181,44</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.112,95</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.045,94</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.980,37</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.916,22</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.853,44</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.792,02</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista Técnico da SUSEP</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.684,63</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.603,91</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.515,85</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.244,21</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.366,84</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.295,67</span></p></td></tr></tbody></table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EMR$)
+
+ESPECIAL
+
+IV
+
+III
+
+II
+
+I
+
+VII
+
+4.490,21
+
+4.359,01
+
+4.232,05
+
+4.108,78
+
+3.950,75
+
+Analista de Finanças e Controle,
+
+Analista de Planejamento e
+
+Orçamento,
+
+Analista de Comércio Exterior,
+
+Especialista em Políticas Públicas e Gestão Governamental,
+
+Técnico de Planejamento P-1501 do Grupo P-1500,
+
+Técnico de Planejamento e
+
+Pesquisa,
+
+C
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+3.835,68
+
+3.723,96
+
+3.615,50
+
+3.510,19
+
+3.407,95
+
+3.308,69
+
+Demais cargos de nível superior do Instituto de Pesquisa Econômica
+
+Aplicada - IPEA
+
+Inspetor e Analista da CVM
+
+B
+
+VII
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+3.181,44
+
+3.112,95
+
+3.045,94
+
+2.980,37
+
+2.916,22
+
+2.853,44
+
+2.792,02
+
+Analista Técnico da SUSEP
+
+A
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+2.684,63
+
+2.603,91
+
+2.515,85
+
+3.244,21
+
+2.366,84
+
+2.295,67
 
 ANEXO VIII
 
 TABELA DE VENCIMENTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR (EM R$)</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.467,80</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.441,85</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.417,75</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.395,42</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.362,72</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.338,62</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.316,25</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.295,25</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.276,37</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.258,75</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.241,37</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.211,09</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.189,68</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.168,64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.147,98</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.127,68</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.107,74</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.088.15</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.056,46</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.032,71</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.008,50</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>985,83</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>963,67</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>943,00</span></p></td></tr></tbody></table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R$)
+
+ESPECIAL
+
+IV
+
+III
+
+II
+
+I
+
+1.467,80
+
+1.441,85
+
+1.417,75
+
+1.395,42
+
+Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA
+
+C
+
+VII
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.362,72
+
+3.338,62
+
+1.316,25
+
+1.295,25
+
+1.276,37
+
+1.258,75
+
+1.241,37
+
+B
+
+VII
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.211,09
+
+1.189,68
+
+1.168,64
+
+1.147,98
+
+1.127,68
+
+1.107,74
+
+1.088.15
+
+A
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.056,46
+
+1.032,71
+
+1.008,50
+
+985,83
+
+963,67
+
+943,00
 
 ANEXO IX
 
 TABELA DE VENCIMENTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NÍVEL</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR EM R$</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>TITULAR</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SÊNIOR</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.387,96</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.291,71</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.199,34</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pesquisador</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSOCIADO PLENO 3</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.070,94</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.987,46</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.907,36</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NS</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tecnologista</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ADJUNTO PLENO 2</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.796,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.723,61</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.654,14</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista em Ciência e Tecnologia</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE DE PESQUISA PLENO 1</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.557,57</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.494,79</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.434,54</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>JÚNIOR</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.350,79</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.296,34</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.244,09</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 3 TÉCNICO 3</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.196,52</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.151,01</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.107,15</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NI</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Técnico</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente em Ciência e Tecnologia</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 2 TÉCNICO 2</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.064,84</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.024,03</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>984,63</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>946,62</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>909,85</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>874,33</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ASSISTENTE 1 TÉCNICO 1</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>840,11</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>806,97</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>774,96</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>743,98</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>714,05</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>685,01</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar Técnico</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 2 AUXILIAR TÉCNICO 2</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>530,32</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>516,88</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>503,79</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>491,02</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>478,58</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>466,45</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>NA</span></p></td><td style="width:163.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar em Ciência e Tecnologia</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>AUXILIAR 1 AUXILIAR TÉCNICO 1</span></p></td><td style="width:74.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>446,36</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>435,05</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>424,03</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>413,28</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>402,81</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>392,60</span></p></td></tr></tbody></table>
+NÍVEL
+
+CARGO
+
+PADRÃO
+
+CLASSE
+
+VALOR EM R$
+
+III
+
+II
+
+I
+
+TITULAR
+
+SÊNIOR
+
+2.387,96
+
+2.291,71
+
+2.199,34
+
+Pesquisador
+
+III
+
+II
+
+I
+
+ASSOCIADO PLENO 3
+
+2.070,94
+
+1.987,46
+
+1.907,36
+
+NS
+
+Tecnologista
+
+III
+
+II
+
+I
+
+ADJUNTO PLENO 2
+
+1.796,00
+
+1.723,61
+
+1.654,14
+
+Analista em Ciência e Tecnologia
+
+III
+
+II
+
+I
+
+ASSISTENTE DE PESQUISA PLENO 1
+
+1.557,57
+
+1.494,79
+
+1.434,54
+
+III
+
+II
+
+I
+
+JÚNIOR
+
+1.350,79
+
+1.296,34
+
+1.244,09
+
+III
+
+II
+
+I
+
+ASSISTENTE 3 TÉCNICO 3
+
+1.196,52
+
+1.151,01
+
+1.107,15
+
+NI
+
+Técnico
+
+Assistente em Ciência e Tecnologia
+
+IV
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+ASSISTENTE 2 TÉCNICO 2
+
+1.064,84
+
+1.024,03
+
+984,63
+
+946,62
+
+909,85
+
+874,33
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+ASSISTENTE 1 TÉCNICO 1
+
+840,11
+
+806,97
+
+774,96
+
+743,98
+
+714,05
+
+685,01
+
+Auxiliar Técnico
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+AUXILIAR 2 AUXILIAR TÉCNICO 2
+
+530,32
+
+516,88
+
+503,79
+
+491,02
+
+478,58
+
+466,45
+
+NA
+
+Auxiliar em Ciência e Tecnologia
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+AUXILIAR 1 AUXILIAR TÉCNICO 1
+
+446,36
+
+435,05
+
+424,03
+
+413,28
+
+402,81
+
+392,60
 
 ANEXO X
 
 TABELA DE VENCIMENTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR (EM R$)</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.400,55</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.288,34</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.179,82</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.017,65</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.918,07</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.821,77</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.728,65</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.638,61</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.551,53</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fiscal Federal Agropecuário</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.421,40</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.341,50</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.264,23</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.189,51</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.117,26</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.047,39</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.942,97</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.878,85</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.816,85</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.756,89</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.698,92</span></p></td></tr></tbody></table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R$)
+
+ESPECIAL
+
+III
+
+II
+
+I
+
+3.400,55
+
+3.288,34
+
+3.179,82
+
+C
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+3.017,65
+
+2.918,07
+
+2.821,77
+
+2.728,65
+
+2.638,61
+
+2.551,53
+
+Fiscal Federal Agropecuário
+
+B
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+2.421,40
+
+2.341,50
+
+2.264,23
+
+2.189,51
+
+2.117,26
+
+2.047,39
+
+A
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+1.942,97
+
+1.878,85
+
+1.816,85
+
+1.756,89
+
+1.698,92
 
 ANEXO XI
 
 TABELA DE VENCIMENTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CATEGORIA</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR (EM REAIS)</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador Federal</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5.446,34</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5.309,16</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.176,14</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Advogado da União</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PRIMEIRA</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.883,15</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.749,68</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.619,86</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.493,59</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.370,77</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Assistente Jurídico da Advocacia-Geral da União</span></p><p class="Tabela" style="text-indent:0pt"><span>Defensor Público da União</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador da Procuradoria Especial da Marinha</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SEGUNDA</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4.123,37</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.927,02</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.740,02</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.561,92</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.392,31</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.230,77</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.076,92</span></p></td></tr></tbody></table>
+CARGO
+
+CATEGORIA
+
+PADRÃO
+
+VALOR (EM REAIS)
+
+Procurador Federal
+
+ESPECIAL
+
+III
+
+II
+
+I
+
+5.446,34
+
+5.309,16
+
+5.176,14
+
+Advogado da União
+
+PRIMEIRA
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+4.883,15
+
+4.749,68
+
+4.619,86
+
+4.493,59
+
+4.370,77
+
+Assistente Jurídico da Advocacia-Geral da União
+
+Defensor Público da União
+
+Procurador da Procuradoria Especial da Marinha
+
+SEGUNDA
+
+VII
+
+VI
+
+V
+
+IV
+
+III
+
+II
+
+I
+
+4.123,37
+
+3.927,02
+
+3.740,02
+
+3.561,92
+
+3.392,31
+
+3.230,77
+
+3.076,92
 
 ANEXO XII
 
 TABELA DE VENCIMENTO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CLASSE</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PADRÃO</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VALOR (EM R$)</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(40h semanais)</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.903,30</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.614,10</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.361,24</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.144,29</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista do Banco Central</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.957,24</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.796,44</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.658,85</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.541,92</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.443,57</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.362,08</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.296,06</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.244,44</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>D</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.206,38</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.150,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.007,78</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.165,01</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.130,69</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.087,01</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.045,20</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Técnico do Banco Central</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.004,95</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>966,26</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>920,09</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>876,10</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>834,29</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>794,35</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>749,11</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>706,68</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>D</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>666,43</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>628,68</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>592,80</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.903,30</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.614,10</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3.361,24</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.144,29</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador do Banco Central</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.957,24</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.796,44</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.658,85</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.541,92</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.443,57</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.362,08</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.296,06</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.244,44</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>D</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.206,38</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.150,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.105,27</span></p></td></tr></tbody></table>
+CARGO
+
+CLASSE
+
+PADRÃO
+
+VALOR (EM R$)
+
+(40h semanais)
+
+A
+
+IV
+
+III
+
+II
+
+I
+
+3.903,30
+
+3.614,10
+
+3.361,24
+
+3.144,29
+
+Analista do Banco Central
+
+B
+
+IV
+
+III
+
+II
+
+I
+
+2.957,24
+
+2.796,44
+
+2.658,85
+
+2.541,92
+
+C
+
+IV
+
+III
+
+II
+
+I
+
+2.443,57
+
+2.362,08
+
+2.296,06
+
+2.244,44
+
+D
+
+III
+
+II
+
+I
+
+2.206,38
+
+2.150,00
+
+2.007,78
+
+A
+
+IV
+
+III
+
+II
+
+I
+
+1.165,01
+
+1.130,69
+
+1.087,01
+
+1.045,20
+
+Técnico do Banco Central
+
+B
+
+IV
+
+III
+
+II
+
+I
+
+1.004,95
+
+966,26
+
+920,09
+
+876,10
+
+C
+
+IV
+
+III
+
+II
+
+I
+
+834,29
+
+794,35
+
+749,11
+
+706,68
+
+D
+
+III
+
+II
+
+I
+
+666,43
+
+628,68
+
+592,80
+
+A
+
+IV
+
+III
+
+II
+
+I
+
+3.903,30
+
+3.614,10
+
+3.361,24
+
+3.144,29
+
+Procurador do Banco Central
+
+B
+
+IV
+
+III
+
+II
+
+I
+
+2.957,24
+
+2.796,44
+
+2.658,85
+
+2.541,92
+
+C
+
+IV
+
+III
+
+II
+
+I
+
+2.443,57
+
+2.362,08
+
+2.296,06
+
+2.244,44
+
+D
+
+III
+
+II
+
+I
+
+2.206,38
+
+2.150,00
+
+2.105,27
 
 ANEXO XIII
 
 FUNÇÕES COMISSIONADAS TÉCNICAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>FUNÇÃO</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>COMISSIONADA</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>QUANTITATIVO</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DE FUNÇÕES</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VALOR UNITÁRIO</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(EM REAIS)</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VALOR DA OPÇÃO</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(EM REAIS)</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 1</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>131</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.800,00</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.140,00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 2</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>191</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.187,20</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>956,16</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 3</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>252</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.673,22</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>855,43</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 4</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>313</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.242,13</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>762,32</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 5</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>374</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.880,55</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>695,80</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 6</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>435</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.577,29</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>630,91</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 7</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>496</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.322,93</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>582,09</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 8</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>557</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.109,59</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>543,70</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 9</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>618</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>930,65</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>511,86</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 10</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>679</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>780,57</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>483,95</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 11</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>740</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>654,69</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>458,28</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 12</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>801</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>549,12</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>439,29</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 13</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>862</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>460,56</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>414,51</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 14</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>923</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>386,29</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>386,29</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>FCT 15</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1331</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>324,00</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>324,00</span></p></td></tr><tr><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>TOTAL</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8703</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+FUNÇÃO
+
+COMISSIONADA
+
+QUANTITATIVO
+
+DE FUNÇÕES
+
+VALOR UNITÁRIO
+
+(EM REAIS)
+
+VALOR DA OPÇÃO
+
+(EM REAIS)
+
+FCT 1
+
+131
+
+3.800,00
+
+1.140,00
+
+FCT 2
+
+191
+
+3.187,20
+
+956,16
+
+FCT 3
+
+252
+
+2.673,22
+
+855,43
+
+FCT 4
+
+313
+
+2.242,13
+
+762,32
+
+FCT 5
+
+374
+
+1.880,55
+
+695,80
+
+FCT 6
+
+435
+
+1.577,29
+
+630,91
+
+FCT 7
+
+496
+
+1.322,93
+
+582,09
+
+FCT 8
+
+557
+
+1.109,59
+
+543,70
+
+FCT 9
+
+618
+
+930,65
+
+511,86
+
+FCT 10
+
+679
+
+780,57
+
+483,95
+
+FCT 11
+
+740
+
+654,69
+
+458,28
+
+FCT 12
+
+801
+
+549,12
+
+439,29
+
+FCT 13
+
+862
+
+460,56
+
+414,51
+
+FCT 14
+
+923
+
+386,29
+
+386,29
+
+FCT 15
+
+1331
+
+324,00
+
+324,00
+
+TOTAL
+
+8703
 
 ANEXO XIV
 
 TABELA DE CORRELAÇÃO DE CARGOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:168.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO ATUAL</span></p></td><td colspan="3" style="width:256.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cargos</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Categoria</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cargos</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>III</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECIAL</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Advogado da União</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Advogado da União</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PRIMEIRA</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>PRIMEIRA</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Assistente Jurídico da Advocacia-Geral da União</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Assistente Jurídico da Advocacia-Geral da União</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Defensor Público da União</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SEGUNDA</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SEGUNDA</span></p></td><td style="width:80.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Assistente Jurídico da Advocacia-Geral da União</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Defensor Público da União</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> SITUAÇÃO ATUAL </td><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> Cargos </td><td> Classe </td><td> Padrão </td><td> Categoria </td><td> Cargos </td></tr><tr><td> &nbsp; </td><td> ESPECIAL </td><td> III </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> II I </td><td> ESPECIAL </td><td> Advogado da União </td></tr><tr><td> Advogado da União </td><td> PRIMEIRA </td><td> V IV III II I </td><td> PRIMEIRA </td><td> Assistente Jurídico da Advocacia-Geral da União &nbsp; </td></tr><tr><td> Assistente Jurídico da Advocacia-Geral da União &nbsp; Defensor Público da União </td><td> SEGUNDA </td><td> VII VI V IV III II I </td><td> SEGUNDA </td><td> Assistente Jurídico da Advocacia-Geral da União &nbsp; Defensor Público da União </td></tr></tbody></table>
 
 ANEXO XV
 
 TABELA DE CORRELAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO ATUAL</span></p></td><td colspan="3" style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CARGO</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CLASSE</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PADRÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PADRÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CLASSE</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CARGO</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="3" style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>ESPECIAL</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td rowspan="3" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>ESPECIAL</span></p></td><td rowspan="15" style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>Advogado da União</span></p><p class="Tabela" style="text-indent:0pt"><span>Assistente Jurídico da Advocacia-Geral da União</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Defensor Público da União</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMEIRA</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V</span></p></td><td rowspan="5" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PRIMEIRA</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>SEGUNDA</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII</span></p></td><td rowspan="7" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Partenome" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal">SEGUNDA</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> SITUAÇÃO ATUAL </td><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> CARGO </td><td> CLASSE </td><td> PADRÃO </td><td> PADRÃO </td><td> CLASSE </td><td> CARGO </td></tr><tr><td> &nbsp; </td><td rowspan="3"> &nbsp; A </td><td> ESPECIAL </td><td> III </td><td rowspan="3"> &nbsp; ESPECIAL </td><td rowspan="15"> &nbsp; &nbsp; &nbsp; &nbsp; Advogado da União Assistente Jurídico da Advocacia-Geral da União &nbsp; Defensor Público da União </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> II </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> I </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> PRIMEIRA </td><td> V </td><td rowspan="5"> &nbsp; &nbsp; PRIMEIRA </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> IV </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> III </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> II </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> I </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> SEGUNDA </td><td> VII </td><td rowspan="7"> &nbsp; &nbsp; &nbsp; SEGUNDA </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> VI </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> V </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> IV </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> III </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> II </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> I </td></tr></tbody></table>
 
 ANEXO XV
 
 TABELA DE CORRELAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:202.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO ATUAL</span></p></td><td colspan="3" style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CARGO</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CLASSE</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PADRÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>PADRÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CLASSE</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CARGO</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td rowspan="2" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="4" style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td rowspan="4" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td rowspan="16" style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>Analista do Banco Central do Brasil</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procurador do Banco Central</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="5" style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Partenome" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal">B</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td><td rowspan="5" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td rowspan="2" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="4" style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>C</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td rowspan="7" style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Partenome" style="text-indent:0pt"><span style="font-style:normal">C</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal; -aw-import:ignore">&nbsp;</span></p><p class="Partenome" style="margin-top:6pt; text-indent:0pt"><span style="font-style:normal">D</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="4" style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>D</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II</span></p></td></tr><tr><td style="width:55.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:76.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> SITUAÇÃO ATUAL </td><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> CARGO </td><td> CLASSE </td><td> PADRÃO </td><td> PADRÃO </td><td> CLASSE </td><td> CARGO </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> IV </td><td rowspan="2"> IV </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td> &nbsp; </td><td rowspan="4"> &nbsp; A </td><td> III </td><td rowspan="4"> A </td><td rowspan="16"> &nbsp; &nbsp; &nbsp; &nbsp; Analista do Banco Central do Brasil &nbsp; &nbsp; Procurador do Banco Central </td></tr><tr><td> &nbsp; </td><td> II </td><td> III </td></tr><tr><td> &nbsp; </td><td> I </td><td> II </td></tr><tr><td> &nbsp; </td><td> IV </td><td> I </td></tr><tr><td> &nbsp; </td><td rowspan="5"> &nbsp; &nbsp; B </td><td> III </td><td> IV </td><td rowspan="5"> &nbsp; &nbsp; B </td></tr><tr><td> &nbsp; </td><td> II </td><td> III </td></tr><tr><td> &nbsp; </td><td> I </td><td rowspan="2"> II </td></tr><tr><td> &nbsp; </td><td> IV </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td> &nbsp; </td><td rowspan="4"> C </td><td> III </td><td> I </td><td rowspan="7"> C &nbsp; &nbsp; &nbsp; &nbsp; D </td></tr><tr><td> &nbsp; </td><td> II </td><td> IV </td></tr><tr><td> &nbsp; </td><td> I </td><td> III </td></tr><tr><td> &nbsp; </td><td> III </td><td> II </td></tr><tr><td> &nbsp; </td><td rowspan="4"> D </td><td> II </td><td> I </td></tr><tr><td> &nbsp; </td><td> I </td><td> III </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> II </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> I </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
 ANEXO XVI
 
@@ -638,14 +1962,46 @@ TABELA DE REMUNERAÇÃO
 
 a) GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES – DAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:212.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR UNITÁRIO (EM REAIS)</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>101,3 e 102,3</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1390,19</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>101,2 e 102,2</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,240,45</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>101,1 e 102,1</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,120,14</span></p></td></tr></tbody></table>
+CARGO
+
+VALOR UNITÁRIO (EM REAIS)
+
+101,3 e 102,3
+
+1390,19
+
+101,2 e 102,2
+
+1,240,45
+
+101,1 e 102,1
+
+1,120,14
 
 b) CARGOS DE DIREÇÃO DAS INSTITUIÇÕES FEDERAIS DE ENSINO –
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CARGO</span></p></td><td style="width:212.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VALOR UNITÁRIO (EM REAIS)</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CD-1</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.600,00</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CD-2</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.800,00</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CD-3</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.800,00</span></p></td></tr><tr><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CD-4</span></p></td><td style="width:212.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.800,00</span></p></td></tr></tbody></table>
+CARGO
+
+VALOR UNITÁRIO (EM REAIS)
+
+CD-1
+
+5.600,00
+
+CD-2
+
+4.800,00
+
+CD-3
+
+3.800,00
+
+CD-4
+
+2.800,00
 
 ANEXO XVII
 
 TABELA DE CORRELAÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="3" style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO ATUAL</span></p></td><td colspan="3" style="width:166.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>SITUAÇÃO NOVA</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Cargo</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Padrão</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cargo</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Especialista em Políticas Públicas e Gestão Governamental, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa e demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada - IPEA</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>C</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VII</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>VI</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>ESPECIAL</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>C</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>B</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Especialista em Políticas Públicas e Gestão Govername-ntal, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa e demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada - IPEA</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>A</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>V</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>I</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>VI</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>V</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>A</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista de Comércio Exterior</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>V</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista de Comércio Exterior</span></p></td></tr><tr><td style="width:173.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Inspetor e Analista da CVM</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista Técnico da SUSEP</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:35.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>IV</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>III</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>II</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>I</span></p></td><td style="width:50.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Inspetor e Analista da CVM</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Analista Técnico da SUSEP</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> SITUAÇÃO ATUAL </td><td colspan="3"> SITUAÇÃO NOVA </td></tr><tr><td> Cargo </td><td> Classe </td><td> Padrão </td><td> Padrão </td><td> Classe </td><td> Cargo </td></tr><tr><td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Especialista em Políticas Públicas e Gestão Governamental, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa e demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada - IPEA </td><td> &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; &nbsp; &nbsp; &nbsp; B </td><td> III II I VI V IV III II I VI V IV III II I </td><td> IV III II I VII VI V IV III II I VII VI V VI </td><td> ESPECIAL &nbsp; &nbsp; &nbsp; &nbsp; C &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B </td><td> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Analista de Finanças e Controle, Analista de Planejamento e Orçamento, Especialista em Políticas Públicas e Gestão Govername-ntal, Técnico de Planejamento P-1501 do Grupo P-1500, Técnico de Planejamento e Pesquisa e demais cargos de nível superior do Instituto de Pesquisa Econômica Aplicada - IPEA </td></tr><tr><td> Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA </td><td> A &nbsp; &nbsp; </td><td> V IV III II I &nbsp; </td><td> III II I VI V </td><td> &nbsp; &nbsp; A </td><td> Técnico de Finanças e Controle, Técnico de Planejamento e Orçamento e cargos de nível intermediário do Instituto de Pesquisa Econômica Aplicada - IPEA </td></tr><tr><td> Analista de Comércio Exterior </td><td> &nbsp; </td><td> I </td><td> V </td><td> &nbsp; </td><td> Analista de Comércio Exterior </td></tr><tr><td> Inspetor e Analista da CVM Analista Técnico da SUSEP </td><td> &nbsp; </td><td> &nbsp; &nbsp; </td><td> IV III II I </td><td> &nbsp; </td><td> Inspetor e Analista da CVM Analista Técnico da SUSEP </td></tr></tbody></table>

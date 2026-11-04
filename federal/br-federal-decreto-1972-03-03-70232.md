@@ -1,5 +1,3 @@
-###DEC-070232-0-000-03-03-1972@@@
-
 DECRETO Nº 70.232, DE 3 DE MARÇO DE 1972.
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado "Fazenda Sarandi", situado no Município de Sarandi, Estado do Rio Grande do Sul.

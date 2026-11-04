@@ -1,5 +1,3 @@
-###DEC-068512-0-000-15-04-1971@@@
-
 DECRETO Nº 68.512 - DE 15 DE ABRIL DE 1971.
 
 Declara de utilidade pública o instituto de Estudos de Combate às Doenças Tropicais Araxá, com sede em Araxá, Estado de Minas Gerais.

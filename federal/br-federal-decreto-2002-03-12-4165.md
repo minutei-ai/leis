@@ -1,5 +1,3 @@
-###DEC-004165-0-000-12-03-2002@@@
-
 DECRETO Nº 4.165, DE 12 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Vigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República do Chile, de 28 de setembro de 2001.

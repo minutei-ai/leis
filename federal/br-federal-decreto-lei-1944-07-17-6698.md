@@ -1,5 +1,3 @@
-###DEL-006698-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.698 – DE 17 DE JULHO DE 1944
 
 Autoriza a modificação do contrato de arrendamento assinado com a “The Great Western of Brazil Railway Company, Limited”

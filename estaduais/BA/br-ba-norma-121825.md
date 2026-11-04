@@ -4,7 +4,8 @@ Cria a carreira de Professor Indígena, no Grupo Ocupacional Educação, do Quad
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º -** Fica criada a carreira de Professor Indígena, no Grupo Ocupacional Educação, do Quadro do Magistério Público do Estado da Bahia.
@@ -41,7 +42,8 @@ Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-
 
 **XIII -** garantia de tratamento isonômico com relação aos direitos, assim como às vantagens e gratificações, atribuídas aos demais professores integrantes do Grupo Ocupacional Educação, do Quadro do Magistério Público do Estado da Bahia.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA CARREIRA DO PROFESSOR INDÍGENA
 
 **Art. 4º -** Ao Professor Indígena é atribuída a docência em unidades escolares indígenas, cabendo-lhe, ainda, sob coordenação da Secretaria de Educação do Estado - SEC, o exercício das seguintes atribuições:
@@ -82,15 +84,18 @@ DA CARREIRA DO PROFESSOR INDÍGENA
 
 **<REVOGADO>Art. 5º -** O ingresso na carreira de Professor Indígena dar-se-á no Nível inicial da Classe correspondente à habilitação prevista no § 1º do art. 7º desta Lei, mediante aprovação em concurso público de provas e títulos, no qual seja exigido o domínio da língua materna da comunidade indígena e do português.
 
-Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.<br>
-Redação de acordo com o art. 16 da Lei nº 12.567, de 08 de março de 2012.<br>
+Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.
+
+Redação de acordo com o art. 16 da Lei nº 12.567, de 08 de março de 2012.
+
 Redação original: "Art. 5º - O ingresso na carreira de Professor Indígena dar-se-á no Nível 1 da Classe correspondente à habilitação prevista no §1º do art. 7º desta Lei, mediante aprovação em concurso público de provas e títulos, onde seja exigido o domínio da língua mate
 
 **§ 1º -** Constituem requisitos para a investidura na carreira de Professor Indígena:
 
 **I -** ser indígena e pertencer, prioritariamente, à etnia da aldeia onde deverá exercer as suas atividades, comprovada mediante declaração de sua identidade étnica indígena e do grupo ao qual pertence;  
 
-Redação de acordo com a Lei nº [13.728](https://www.legislabahia.ba.gov.br/documentos/lei-no-13728-de-05-de-julho-de-2017) , de 05 de julho de 2017.<br>
+Redação de acordo com a Lei nº [13.728](https://www.legislabahia.ba.gov.br/documentos/lei-no-13728-de-05-de-julho-de-2017) , de 05 de julho de 2017.
+
 Redação original: "I-ser indígena e pertencer, prioritariamente, à etnia da aldeia onde deverá exercer as suas atividades, comprovada mediante declaração de sua identidade étnica indígena expedida pela FUNAI; "
 
 **II -**      conhecimento dos processos de produção e dos processos econômicos próprios da comunidade e dos métodos de ensino-aprendizagem para que possam desenvolver a interlocução cultural e a prática da cidadania.
@@ -115,25 +120,30 @@ Redação original: "I-ser indígena e pertencer, prioritariamente, à etnia da 
 
 **<REVOGADO>Art. 7º -** A carreira de Professor Indígena é estruturada em 05 (cinco) Classes e 10 (dez) Níveis.
 
-Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.<br>
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.
+
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "Art. 7º - A carreira de Professor Indígena é estruturada em 03 (três) Classes e 06 (seis) Níveis."
 
 **§ 1º -** As Classes são definidas em função da titulação do Professor Indígena, a seguir estabelecidas:
 
 **I -**       Classe A - Titulação de Nível Médio, com formação em Magistério Indígena;
 
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "I - Classe A - Professor Indígena com titulação de Nível Médio, com formação em Magistério Indígena;"
 
 **II -**      Classe B - Titulação em Licenciatura Plena Intercultural em Educação Indígena;
 
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "II - Classe B - Professor Indígena com titulação em Licenciatura Plena Intercultural em Educação Indígena;"
 
 **III -**    Classe C - Titulação em Licenciatura Plena Intercultural em Educação Indígena e Pós-Graduação, em nível de Especialização, a partir de 360 (trezentos e sessenta) horas ou Titulação em Licenciatura Plena e Pós Graduação, em nível de Especialização, a partir de 360 (trezentas e sessenta) horas em Educação Indígena;
 
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "III - Classe C - Professor Indígena com titulação em Licenciatura Plena Intercultural em Educação Indígena e Pós Graduação, em nível de Especialização, a partir de 360 (trezentos e sessenta) horas."
 
 **IV** -     Classe D - Titulação em Licenciatura Plena Intercultural em Educação Indígena e Pós-Graduação, em nível de Mestrado, ou Titulação em Licenciatura Plena e Pós Graduação, em nível de Mestrado, em Educação Indígena;
@@ -146,20 +156,24 @@ Inciso V acrescido ao § 1º do art. 7º pela Lei nº 12.916, de 31 de outubro d
 
 **§ 2º -** Cada Classe fica subdividida em 10 (dez) Níveis, designados pelos algarismos 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, de acordo com os critérios estabelecidos para o desenvolvimento do servidor na carreira
 
-Redação de acordo com a Lei nº [12.916](https://www.legislabahia.ba.gov.br/documentos/lei-no-12916-de-31-de-outubro-de-2013), de 31 de outubro de 2013.<br>
-Redação anterior de acordo com o art. 16 da Lei nº 12.567, de 08 de março de 2012: "§ 2º - Com exceção da Classe A, subdividida em 05 (cinco) Níveis, designados pelos algarismos 2, 3, 4, 5 e 6, as demais Classes serão subdividas em 06 (seis) Níveis, designados pelos algarismos 1, 2, 3, 4, 5 e 6, de acordo com os critérios estabelecidos para o desenvolvimento do servidor na carreira."<br>
+Redação de acordo com a Lei nº [12.916](https://www.legislabahia.ba.gov.br/documentos/lei-no-12916-de-31-de-outubro-de-2013), de 31 de outubro de 2013.
+
+Redação anterior de acordo com o art. 16 da Lei nº 12.567, de 08 de março de 2012: "§ 2º - Com exceção da Classe A, subdividida em 05 (cinco) Níveis, designados pelos algarismos 2, 3, 4, 5 e 6, as demais Classes serão subdividas em 06 (seis) Níveis, designados pelos algarismos 1, 2, 3, 4, 5 e 6, de acordo com os critérios estabelecidos para o desenvolvimento do servidor na carreira."
+
 Redação original: "§ 2º - Cada Classe fica subdividida em 06 (seis) Níveis, designados pelos algarismos 1, 2, 3, 4, 5 e 6, de acordo com os critérios estabelecidos para o desenvolvimento do servidor na carreira."
 
 **Art. 8º** - Somente poderão exercer os cargos em comissão do Magistério Público Estadual do Ensino Fundamental e Médio nas unidades escolares indígenas os ocupantes de cargo efetivo de Professor Indígena, prioritariamente, dentro da mesma etnia.
 
 **<REVOGADO>Parágrafo único** - Pelo exercício dos cargos em comissão de Diretor, Vice-Diretor e Secretário Escolar, o servidor terá acrescido à remuneração o valor resultante da aplicação dos coeficientes definidos no Anexo IV desta Lei sobre o subsídio fixado para o primeiro nível da classe inicial da jornada de trabalho de 40 (quarenta) horas semanais da carreira de Professor Indígena.
 
-Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.<br>
+Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.
+
 Parágrafo único acrescido ao art. 8º pela Lei nº 12.916, de 31 de outubro de 2013.
 
 **Art. 9º -** Aos Professores Indígenas serão asseguradas oportunidades de formação continuada, inclusive em nível de especialização, pelas instituições educacionais públicas ou conveniadas, conforme dispuser o Regulamento.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO DESENVOLVIMENTO NA CARREIRA
 
 **Art. 10** - O desenvolvimento do professor indígena nas classes e níveis dar-se-á por meio de promoção e progressão.
@@ -170,7 +184,8 @@ DO DESENVOLVIMENTO NA CARREIRA
 
 **I -**        interstício mínimo de 24 (vinte e quatro) meses no nível em que se encontra, desde que em efetivo exercício.
 
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "I - interstício mínimo de 36 (trinta e seis) meses no nível em que se encontra, desde que em efetivo exercício;"
 
 **II -**      frequência regular;
@@ -223,16 +238,20 @@ Redação original: "I - interstício mínimo de 36 (trinta e seis) meses no ní
 
 **§ 6º -** Nos casos de afastamentos previstos neste artigo, a contagem do interstício será retomada na data em que o servidor reassumir o exercício.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA REMUNERAÇÃO POR SUBSÍDIO
 
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "CAPÍTULO IV - DOS VENCIMENTOS E VANTAGENS"
 
 **<REVOGADO>Art. 11 -** O servidor ocupante da carreira de Professor Indígena será remunerado por subsídio, fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio e verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto nos incisos X e XI do art. 37 da Constituição Federal.
 
-Revogado pela Lei 14.668 de 23 de Abril de 2024.<br>
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
+Revogado pela Lei 14.668 de 23 de Abril de 2024.
+
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
 Redação original: "Art. 11 - Os vencimentos dos cargos de Professor Indígena, observado o regime de trabalho, são os constantes do Anexo II desta Lei."
 
 **<REVOGADO>Art. 12** - A remuneração por subsídio não exclui a percepção de vantagens de natureza indenizatória e das verbas a seguir:
@@ -257,12 +276,16 @@ Redação original: "Art. 11 - Os vencimentos dos cargos de Professor Indígena,
 
 **X** \-      salário-família.
 
-Revogado pela Lei 14.668 de 23 de Abril de 2024.<br>
-Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.<br>
-Redação anterior de acordo com o art. 22 da Lei nº 12.204, de 18 de março de 2011: "Art. 12 - O Professor Indígena fará jus às gratificações concedidas aos ocupantes dos cargos de Professor do Quadro do Magistério Público do Estado da Bahia, nas mesmas condições a estes previstas."<br>
+Revogado pela Lei 14.668 de 23 de Abril de 2024.
+
+Redação de acordo com a Lei nº 12.916, de 31 de outubro de 2013.
+
+Redação anterior de acordo com o art. 22 da Lei nº 12.204, de 18 de março de 2011: "Art. 12 - O Professor Indígena fará jus às gratificações concedidas aos ocupantes dos cargos de Professor do Quadro do Magistério Público do Estado da Bahia, nas mesmas condições a estes previstas."
+
 Redação original: "Art. 12 - O Professor Indígena faz jus à percepção das gratificações previstas na Lei nº 8.261, de 29 de maio de 2002, que dispõe sobre o Estatuto do Magistério Público do Ensino Fundamental e Médio do Estado da Bahia."
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO REGIME DE TRABALHO
 
 **Art. 13 -** O Professor Indígena será submetido a um dos seguintes regimes de trabalho:
@@ -319,7 +342,8 @@ DO REGIME DE TRABALHO
 
 **III -**    as atividades de livre escolha, destinadas à preparação de aulas e à avaliação de trabalhos de alunos.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS NORMAS FUNCIONAIS ESPECIAIS
 
 **Art. 18** - O período de férias anuais do Professor Indígena é de 30 (trinta) dias consecutivos, considerando-se como de recesso escolar os dias excedentes a este prazo, nos quais não haja exercício de atividade docente, segundo o calendário da respectiva unidade escolar indígena.
@@ -336,7 +360,8 @@ DAS NORMAS FUNCIONAIS ESPECIAIS
 
 **Parágrafo único -**  Não existindo vaga em unidade escolar da localidade, o Professor Indígena deverá ficar em licença sem vencimentos.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 22** - Os Professores Indígenas serão lotados na SEC e distribuídos, por ato competente, entre as diversas comunidades indígenas, observada a área, o grau, a disciplina e a função.
@@ -375,47 +400,20 @@ Osvaldo Barreto Filho
 
 Secretário da Educação
 
-**<REVOGADO>****ANEXO I (**<br>
-Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.<br>
+**<REVOGADO>ANEXO I (**
+
+Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.
+
 Redação do Anexo I de acordo com a Lei nº 12.916, de 31 de outubro de 2013.)
 
 **QUADRO DE CARGOS DO MAGISTÉRIO PÚBLICO INDÍGENA**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:270.75pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:11.45pt"><td colspan="4" style="width:270.75pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="361"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">QUADRO DE CARGOS DA CARREIRA DE PROFESSOR INDÍGENA</span></b></p></td></tr><tr style="height:11.45pt"><td style="width:115.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">NOMENCLATURA</span></p></td><td style="width:43.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">CLASSE</span></p></td><td style="width:111.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">NUMERO DE CARGOS</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td style="width:115.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="153"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">PROFESSOR INDÍGENA</span></p></td><td style="width:43.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">A</span></p></td><td style="width:111.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">400</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td style="width:115.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="153"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:43.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">B</span></p></td><td style="width:111.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">300</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td style="width:115.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="153"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:43.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">C</span></p></td><td style="width:111.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">200</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td style="width:115.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="153"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:43.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">D</span></p></td><td style="width:111.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">100</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td style="width:115.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="153"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:43.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">E</span></p></td><td style="width:111.0pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="134"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">50</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="0"><p class="MsoNormal">&nbsp;</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> **QUADRO DE CARGOS DA CARREIRA DE PROFESSOR INDÍGENA** </td></tr><tr><td valign="top"> NOMENCLATURA </td><td valign="top"> CLASSE </td><td valign="top"> NUMERO DE CARGOS </td><td> &nbsp; </td></tr><tr><td valign="top"> PROFESSOR INDÍGENA </td><td valign="top"> A </td><td valign="top"> 400 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> B </td><td valign="top"> 300 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> C </td><td valign="top"> 200 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> D </td><td valign="top"> 100 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> E </td><td valign="top"> 50 </td><td> &nbsp; </td></tr></tbody></table>
 
-**<REVOGADO>****ANEXO II** **(**<br>
-Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.<br>
+**<REVOGADO>ANEXO II(**
+
+Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.
+
 **Anexo de acordo com a Lei nº 14.569 de 17 de maio de 2023)**
 
 **PROFESSOR INDÍGENA**
@@ -424,148 +422,12 @@ Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-
 
 **VIGÊNCIA A PARTIR DE 01 DE MARÇO DE 2023**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:518.35pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="11" style="width:518.35pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="760"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">REGIME DE 20 HORAS SEMANAIS</span></b></p></td></tr><tr><td rowspan="2" style="width:42.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Classe</span></p></td><td colspan="10" style="width:475.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="704"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Nível</span></p></td></tr><tr><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">A</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.253,12</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.329,93</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.412,10</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.500,03</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.594,10</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.694,77</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.802,49</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.917,74</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.041,08</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.173,03</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">B</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.874,64</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.993,08</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.119,79</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.255,38</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.400,50</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.555,74</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.721,84</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.899,61</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.089,77</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.293,26</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">C</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.128,45</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.264,64</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.410,37</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.566,30</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.733,16</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.911,68</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.102,71</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.307,13</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.525,84</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.759,86</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">D</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.420,29</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.576,93</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.744,51</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.923,85</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.115,71</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.321,03</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.540,74</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.775,78</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.027,28</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.296,43</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">E</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.755,93</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.936,07</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.128,80</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.335,04</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.555,67</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.791,80</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.044,41</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.314,74</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.604,00</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.913,49</span></p></td></tr><tr><td colspan="11" style="width:518.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="760"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">REGIME DE 40 HORAS SEMANAIS</span></b></p></td></tr><tr><td rowspan="2" style="width:42.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Classe</span></p></td><td colspan="10" style="width:475.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="704"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Nível</span></p></td></tr><tr><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:49.55pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">A</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.506,24</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.659,86</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.824,20</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.000,06</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.188,20</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.389,54</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.604,98</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.835,48</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.082,16</span></p></td><td style="width:49.55pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.346,06</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">B</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.749,28</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.986,16</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.239,58</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.510,76</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.801,00</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.111,48</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.443,68</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.799,22</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.179,54</span></p></td><td style="width:49.55pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.586,52</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">C</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.256,90</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.529,28</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.820,74</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.132,60</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.466,32</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.823,36</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.205,42</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.614,26</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.051,68</span></p></td><td style="width:49.55pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.519,73</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">D</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.840,58</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.153,86</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.489,02</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.847,70</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.231,42</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.642,06</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.081,48</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.551,56</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.054,56</span></p></td><td style="width:49.55pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.592,86</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">E</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.511,86</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.872,14</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.257,60</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.670,08</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.111,34</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.583,60</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.088,82</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.629,48</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">9.208,00</span></p></td><td style="width:49.55pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">9.826,98</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="11"> **REGIME DE 20 HORAS SEMANAIS** </td></tr><tr><td rowspan="2"> Classe </td><td colspan="10"> Nível </td></tr><tr><td> 1 </td><td> 2 </td><td> 3 </td><td> 4 </td><td> 5 </td><td> 6 </td><td> 7 </td><td> 8 </td><td> 9 </td><td> 10 </td></tr><tr><td> A </td><td> 1.253,12 </td><td> 1.329,93 </td><td> 1.412,10 </td><td> 1.500,03 </td><td> 1.594,10 </td><td> 1.694,77 </td><td> 1.802,49 </td><td> 1.917,74 </td><td> 2.041,08 </td><td> 2.173,03 </td></tr><tr><td> B </td><td> 1.874,64 </td><td> 1.993,08 </td><td> 2.119,79 </td><td> 2.255,38 </td><td> 2.400,50 </td><td> 2.555,74 </td><td> 2.721,84 </td><td> 2.899,61 </td><td> 3.089,77 </td><td> 3.293,26 </td></tr><tr><td> C </td><td> 2.128,45 </td><td> 2.264,64 </td><td> 2.410,37 </td><td> 2.566,30 </td><td> 2.733,16 </td><td> 2.911,68 </td><td> 3.102,71 </td><td> 3.307,13 </td><td> 3.525,84 </td><td> 3.759,86 </td></tr><tr><td> D </td><td> 2.420,29 </td><td> 2.576,93 </td><td> 2.744,51 </td><td> 2.923,85 </td><td> 3.115,71 </td><td> 3.321,03 </td><td> 3.540,74 </td><td> 3.775,78 </td><td> 4.027,28 </td><td> 4.296,43 </td></tr><tr><td> E </td><td> 2.755,93 </td><td> 2.936,07 </td><td> 3.128,80 </td><td> 3.335,04 </td><td> 3.555,67 </td><td> 3.791,80 </td><td> 4.044,41 </td><td> 4.314,74 </td><td> 4.604,00 </td><td> 4.913,49 </td></tr><tr><td colspan="11"> **REGIME DE 40 HORAS SEMANAIS** </td></tr><tr><td rowspan="2"> Classe </td><td colspan="10"> Nível </td></tr><tr><td> 1 </td><td> 2 </td><td> 3 </td><td> 4 </td><td> 5 </td><td> 6 </td><td> 7 </td><td> 8 </td><td> 9 </td><td> 10 </td></tr><tr><td> A </td><td> 2.506,24 </td><td> 2.659,86 </td><td> 2.824,20 </td><td> 3.000,06 </td><td> 3.188,20 </td><td> 3.389,54 </td><td> 3.604,98 </td><td> 3.835,48 </td><td> 4.082,16 </td><td> 4.346,06 </td></tr><tr><td> B </td><td> 3.749,28 </td><td> 3.986,16 </td><td> 4.239,58 </td><td> 4.510,76 </td><td> 4.801,00 </td><td> 5.111,48 </td><td> 5.443,68 </td><td> 5.799,22 </td><td> 6.179,54 </td><td> 6.586,52 </td></tr><tr><td> C </td><td> 4.256,90 </td><td> 4.529,28 </td><td> 4.820,74 </td><td> 5.132,60 </td><td> 5.466,32 </td><td> 5.823,36 </td><td> 6.205,42 </td><td> 6.614,26 </td><td> 7.051,68 </td><td> 7.519,73 </td></tr><tr><td> D </td><td> 4.840,58 </td><td> 5.153,86 </td><td> 5.489,02 </td><td> 5.847,70 </td><td> 6.231,42 </td><td> 6.642,06 </td><td> 7.081,48 </td><td> 7.551,56 </td><td> 8.054,56 </td><td> 8.592,86 </td></tr><tr><td> E </td><td> 5.511,86 </td><td> 5.872,14 </td><td> 6.257,60 </td><td> 6.670,08 </td><td> 7.111,34 </td><td> 7.583,60 </td><td> 8.088,82 </td><td> 8.629,48 </td><td> 9.208,00 </td><td> 9.826,98 </td></tr></tbody></table>
 
-**<REVOGADO>****ANEXO II (**<br>
-Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.<br>
+**<REVOGADO>ANEXO II (**
+
+Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-14668-de-23-de-abril-de-2024) de 23 de Abril de 2024.
+
 **Anexo de acordo com o art. 4º da Lei nº 14.569 de 17 de maio de 2023: O** Anexo II da Lei nº 12.046, de 04 de janeiro de 2011, passa a vigorar na forma do Anexo IV desta Lei, a partir de 01 de julho de 2023. )
 
 **PROFESSOR INDÍGENA**
@@ -574,524 +436,18 @@ Revogado pela Lei [14.668](https://www.legislabahia.ba.gov.br/documentos/lei-no-
 
 **VIGÊNCIA A PARTIR DE 01 DE JULHO DE 2023**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:518.35pt;border-collapse:collapse;border:none" width="0"><tbody><tr><td colspan="11" style="width:518.35pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="784"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">REGIME DE 20 HORAS SEMANAIS</span></b></p></td></tr><tr><td rowspan="2" style="width:42.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Classe</span></p></td><td colspan="10" style="width:475.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="728"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Nível</span></p></td></tr><tr><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">A</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.253,12</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.329,93</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.412,10</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.500,03</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.594,10</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.694,77</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.802,49</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">1.917,74</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.041,08</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.173,03</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">B</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.210,28</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.349,92</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.499,31</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.659,18</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.830,28</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.013,32</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.209,16</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.418,75</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.642,96</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.882,89</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">C</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.509,53</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.670,09</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.841,93</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.025,77</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.222,50</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.432,99</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.658,22</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.899,24</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.157,10</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.433,03</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">D</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.853,62</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.038,30</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.235,88</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.447,33</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.673,55</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.915,63</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.174,67</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.451,80</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.748,33</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.065,66</span></p></td></tr><tr><td style="width:42.85pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">E</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.249,35</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.461,74</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.688,97</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.932,14</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.192,27</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.470,69</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.768,52</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.087,25</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.428,29</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.793,20</span></p></td></tr><tr><td colspan="11" style="width:518.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="784"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">REGIME DE 40 HORAS SEMANAIS</span></b></p></td></tr><tr><td rowspan="2" style="width:42.75pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Classe</span></p></td><td colspan="10" style="width:475.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" width="728"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">Nível</span></p></td></tr><tr><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">5</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">7</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">8</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">9</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">10</span></p></td></tr><tr><td style="width:42.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">A</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.506,24</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.659,86</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">2.824,20</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.000,06</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.188,20</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.389,54</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.604,98</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">3.835,48</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.082,16</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.346,06</span></p></td></tr><tr><td style="width:42.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">B</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.420,56</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.699,84</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">4.998,62</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.318,36</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.660,56</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.026,64</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.418,32</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.837,50</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.285,92</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.765,78</span></p></td></tr><tr><td style="width:42.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">C</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.019,06</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.340,18</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.683,86</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.051,54</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.445,00</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.865,98</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.316,44</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.798,48</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.314,20</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.866,06</span></p></td></tr><tr><td style="width:42.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">D</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">5.707,24</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.076,60</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.471,76</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.894,66</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.347,10</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.831,26</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.349,34</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.903,60</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">9.496,66</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">10.131,32</span></p></td></tr><tr><td style="width:42.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt" width="56"><p align="center" class="MsoNormal" style="margin-bottom:10.0pt;text-align:center"><span style="font-size:12.0pt">E</span></p></td><td style="width:52.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.498,70</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">6.923,48</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.377,94</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">7.864,28</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.384,54</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">8.941,38</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="70"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">9.537,04</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">10.174,50</span></p></td><td style="width:45.0pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">10.856,58</span></p></td><td style="width:49.5pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt" width="78"><p align="right" class="MsoNormal" style="text-align:right"><span style="font-size:12.0pt">11.586,40</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="11"> **REGIME DE 20 HORAS SEMANAIS** </td></tr><tr><td rowspan="2"> Classe </td><td colspan="10"> Nível </td></tr><tr><td> 1 </td><td> 2 </td><td> 3 </td><td> 4 </td><td> 5 </td><td> 6 </td><td> 7 </td><td> 8 </td><td> 9 </td><td> 10 </td></tr><tr><td> A </td><td> 1.253,12 </td><td> 1.329,93 </td><td> 1.412,10 </td><td> 1.500,03 </td><td> 1.594,10 </td><td> 1.694,77 </td><td> 1.802,49 </td><td> 1.917,74 </td><td> 2.041,08 </td><td> 2.173,03 </td></tr><tr><td> B </td><td> 2.210,28 </td><td> 2.349,92 </td><td> 2.499,31 </td><td> 2.659,18 </td><td> 2.830,28 </td><td> 3.013,32 </td><td> 3.209,16 </td><td> 3.418,75 </td><td> 3.642,96 </td><td> 3.882,89 </td></tr><tr><td> C </td><td> 2.509,53 </td><td> 2.670,09 </td><td> 2.841,93 </td><td> 3.025,77 </td><td> 3.222,50 </td><td> 3.432,99 </td><td> 3.658,22 </td><td> 3.899,24 </td><td> 4.157,10 </td><td> 4.433,03 </td></tr><tr><td> D </td><td> 2.853,62 </td><td> 3.038,30 </td><td> 3.235,88 </td><td> 3.447,33 </td><td> 3.673,55 </td><td> 3.915,63 </td><td> 4.174,67 </td><td> 4.451,80 </td><td> 4.748,33 </td><td> 5.065,66 </td></tr><tr><td> E </td><td> 3.249,35 </td><td> 3.461,74 </td><td> 3.688,97 </td><td> 3.932,14 </td><td> 4.192,27 </td><td> 4.470,69 </td><td> 4.768,52 </td><td> 5.087,25 </td><td> 5.428,29 </td><td> 5.793,20 </td></tr><tr><td colspan="11"> **REGIME DE 40 HORAS SEMANAIS** </td></tr><tr><td rowspan="2"> Classe </td><td colspan="10"> Nível </td></tr><tr><td> 1 </td><td> 2 </td><td> 3 </td><td> 4 </td><td> 5 </td><td> 6 </td><td> 7 </td><td> 8 </td><td> 9 </td><td> 10 </td></tr><tr><td> A </td><td> 2.506,24 </td><td> 2.659,86 </td><td> 2.824,20 </td><td> 3.000,06 </td><td> 3.188,20 </td><td> 3.389,54 </td><td> 3.604,98 </td><td> 3.835,48 </td><td> 4.082,16 </td><td> 4.346,06 </td></tr><tr><td> B </td><td> 4.420,56 </td><td> 4.699,84 </td><td> 4.998,62 </td><td> 5.318,36 </td><td> 5.660,56 </td><td> 6.026,64 </td><td> 6.418,32 </td><td> 6.837,50 </td><td> 7.285,92 </td><td> 7.765,78 </td></tr><tr><td> C </td><td> 5.019,06 </td><td> 5.340,18 </td><td> 5.683,86 </td><td> 6.051,54 </td><td> 6.445,00 </td><td> 6.865,98 </td><td> 7.316,44 </td><td> 7.798,48 </td><td> 8.314,20 </td><td> 8.866,06 </td></tr><tr><td> D </td><td> 5.707,24 </td><td> 6.076,60 </td><td> 6.471,76 </td><td> 6.894,66 </td><td> 7.347,10 </td><td> 7.831,26 </td><td> 8.349,34 </td><td> 8.903,60 </td><td> 9.496,66 </td><td> 10.131,32 </td></tr><tr><td> E </td><td> 6.498,70 </td><td> 6.923,48 </td><td> 7.377,94 </td><td> 7.864,28 </td><td> 8.384,54 </td><td> 8.941,38 </td><td> 9.537,04 </td><td> 10.174,50 </td><td> 10.856,58 </td><td> 11.586,40 </td></tr></tbody></table>
 
-**ANEXO III<br>
+**ANEXO III
+
  (**Redação do Anexo III de acordo com a Lei nº 12.916, de 31 de outubro de 2013.)
 
 **DISTRIBUIÇÃO DE CARGA HORÁRIA DO PROFESSOR**
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:475.5pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:11.45pt"><td colspan="10" style="width:475.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="632"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">DISTRIBUIÇÃO DE CARGA HORARIA DO PROFESSOR INDÍGENA</span></b><br>&nbsp;</p></td><td style="border:none;border-bottom:solid black 1.0pt" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td colspan="2" style="width:111.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="147"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">Jornada Obrigatória</span></b></p></td><td colspan="4" style="width:178.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="237"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">PROFESSOR 20 HORAS</span></p></td><td colspan="5" style="width:187.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="250"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">PROFESSOR 40 HORAS</span></p></td></tr><tr style="height:11.45pt"><td style="width:110.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="146"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Clientela</span></p></td><td colspan="2" style="width:55.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Regência de Classe</span></p></td><td colspan="2" style="width:122.35pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="163"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Atividade Pedagógica</span></p></td><td colspan="2" style="width:61.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Regência de Classe</span></p></td><td colspan="3" style="width:126.0pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="168"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Atividade Pedagógica</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="1"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:11.45pt"><td style="width:110.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="146"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">&nbsp;</span></b></p></td><td colspan="2" style="width:55.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="74"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:61.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Na UEE</span></p></td><td style="width:61.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.45pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Livre Escolha</span></p></td><td colspan="2" style="width:61.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:61.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:11.45pt" valign="top" width="81"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Na UEE</span></p></td><td style="width:64.5pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:11.45pt" valign="top" width="86"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Livre Escolha</span></p></td><td colspan="2" style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:37.5pt"><td style="width:110.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt" valign="top" width="146"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">Educação Especial e Séries iniciais do Ensino Fundamental</span></p></td><td colspan="2" style="width:55.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt" valign="top" width="74"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">20 horas/<br>semanais</span></p></td><td style="width:61.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp;</span></p></td><td style="width:61.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:37.5pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp;</span></p></td><td colspan="2" style="width:61.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">40 horas/<br>semanais</span></p></td><td style="width:61.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp;</span></p></td><td rowspan="2" style="width:64.5pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:37.5pt" valign="top" width="86"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><br><br><br><span style="font-size:12.0pt">04 horas semanais</span></p></td><td colspan="2" style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:42.75pt"><td style="width:110.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top" width="146"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">Séries Finais do Ensino Fundamental e Ensino Médio</span></b></p></td><td colspan="2" style="width:55.8pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top" width="74"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">13 horas/<br>semanais</span></p></td><td style="width:61.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">05 horas/<br>semanais</span></p></td><td style="width:61.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:42.75pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">02 horas/<br>semanais</span></p></td><td colspan="2" style="width:61.15pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">26 horas/<br>semanais</span></p></td><td style="width:61.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:42.75pt" valign="top" width="81"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">10 horas/<br>semanais</span></p></td><td colspan="2" style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="10" valign="top"> **DISTRIBUIÇÃO DE CARGA HORARIA DO PROFESSOR INDÍGENA** &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **Jornada Obrigatória** </td><td colspan="4" valign="top"> PROFESSOR 20 HORAS </td><td colspan="5" valign="top"> PROFESSOR 40 HORAS </td></tr><tr><td valign="top"> Clientela </td><td colspan="2" valign="top"> Regência de Classe </td><td colspan="2" valign="top"> Atividade Pedagógica </td><td colspan="2" valign="top"> Regência de Classe </td><td colspan="3" valign="top"> Atividade Pedagógica </td><td> &nbsp; </td></tr><tr><td valign="top"> **&nbsp;** </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> Na UEE </td><td valign="top"> Livre Escolha </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> Na UEE </td><td valign="top"> Livre Escolha </td><td colspan="2"> &nbsp; </td></tr><tr><td valign="top"> Educação Especial e Séries iniciais do Ensino Fundamental </td><td colspan="2" valign="top"> 20 horas/ semanais </td><td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; </td><td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; </td><td colspan="2" valign="top"> 40 horas/ semanais </td><td valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -&nbsp;&nbsp; </td><td rowspan="2" valign="top"> 04 horas semanais </td><td colspan="2"> &nbsp; </td></tr><tr><td valign="top"> **Séries Finais do Ensino Fundamental e Ensino Médio** </td><td colspan="2" valign="top"> 13 horas/ semanais </td><td valign="top"> 05 horas/ semanais </td><td valign="top"> 02 horas/ semanais </td><td colspan="2" valign="top"> 26 horas/ semanais </td><td valign="top"> 10 horas/ semanais </td><td colspan="2"> &nbsp; </td></tr><tr height="0"></tr></tbody></table>
 
-**<REVOGADO>****ANEXO IV (**Revogado pela Lei 14.668 de 23 de Abril de 2024.
+**<REVOGADO>ANEXO IV (**Revogado pela Lei 14.668 de 23 de Abril de 2024.
 
 Anexo IV acrescido pela Lei nº [12.916](https://www.legislabahia.ba.gov.br/documentos/lei-no-12916-de-31-de-outubro-de-2013), de 31 de outubro de 2013.)
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:295.85pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="page-break-inside:avoid"><td colspan="4" style="width:295.85pt;border:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="394"><p align="center" class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;
-  margin-bottom:0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:center"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black">TABELA DE COEFICIENTES PARA OS CARGOS COMISSIONADOS DE SECRETÁRIO ESCOLAR, VICE-DIRETOR E DIRETOR (EM R$)</span></b></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><b><span style="font-size:8.0pt;font-family:&quot;Calibri&quot;,sans-serif;
-  color:black">Cargo</span></b></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Símbolo</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-right:3.1pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Classe</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Coeficiente</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">SP</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">-</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,3300</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">SM</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">-</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,3500</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">SG</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">-</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,4700</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">SE</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">-</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,5900</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">VP</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,2500</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,2800</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">VM</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,3200</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,4000</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">VG</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,4500</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,5400</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">VE</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,5700</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,6000</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">DP</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,5000</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,5500</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">DM</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,7000</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,8000</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">DG</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">0,9000</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">1,0500</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">DE</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">A</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">1,1100</span></p></td></tr><tr style="page-break-inside:avoid"><td style="width:84.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="108"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:48.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="77"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="113"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">Demais Classes</span></p></td><td style="width:70.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="97"><p class="MsoNormal" style="margin-top:0cm;margin-right:3.1pt;margin-bottom:
-  0cm;margin-left:3.1pt;margin-bottom:.0001pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="font-size:12.0pt">1,1900</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> **TABELA DE COEFICIENTES PARA OS CARGOS COMISSIONADOS DE SECRETÁRIO ESCOLAR, VICE-DIRETOR E DIRETOR (EM R$)** </td></tr><tr><td valign="top"> **Cargo** </td><td valign="top"> Símbolo </td><td valign="top"> Classe </td><td valign="top"> Coeficiente </td></tr><tr><td valign="top"> Secretário Escolar </td><td valign="top"> SP </td><td valign="top"> - </td><td valign="top"> 0,3300 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> SM </td><td valign="top"> - </td><td valign="top"> 0,3500 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> SG </td><td valign="top"> - </td><td valign="top"> 0,4700 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> SE </td><td valign="top"> - </td><td valign="top"> 0,5900 </td></tr><tr><td valign="top"> Vice-Diretor </td><td valign="top"> VP </td><td valign="top"> A </td><td valign="top"> 0,2500 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 0,2800 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> VM </td><td valign="top"> A </td><td valign="top"> 0,3200 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 0,4000 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> VG </td><td valign="top"> A </td><td valign="top"> 0,4500 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 0,5400 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> VE </td><td valign="top"> A </td><td valign="top"> 0,5700 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 0,6000 </td></tr><tr><td valign="top"> Diretor </td><td valign="top"> DP </td><td valign="top"> A </td><td valign="top"> 0,5000 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 0,5500 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> DM </td><td valign="top"> A </td><td valign="top"> 0,7000 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 0,8000 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> DG </td><td valign="top"> A </td><td valign="top"> 0,9000 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 1,0500 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> DE </td><td valign="top"> A </td><td valign="top"> 1,1100 </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td><td valign="top"> Demais Classes </td><td valign="top"> 1,1900 </td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEL-003519-0-000-19-08-1941@@@
-
 DECRETO-LEI N. 3.519 – DE 19 DE AGOSTO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas.

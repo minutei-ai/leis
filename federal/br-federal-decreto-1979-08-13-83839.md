@@ -1,5 +1,3 @@
-###DEC-083839-0-000-13-08-1979@@@
-
 DECRETO nº 83.839, de 13 de agosto de 1979.
 
 Dispõe sobre a estrutura básica do Ministério do Interior e dá outras providências.

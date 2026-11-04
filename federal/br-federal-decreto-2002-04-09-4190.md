@@ -1,5 +1,3 @@
-###DEC-004190-0-000-09-04-2002@@@
-
 DECRETO Nº 4.190, DE 9 DE ABRIL DE 2002
 
 Dispõe sobre a execução do Qüinquagésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 2 de janeiro de 2002.

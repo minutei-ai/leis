@@ -1,5 +1,3 @@
-###DEC-081542-0-000-10-04-1978@@@
-
 Decreto nº 81.542, de 10 de abril de 1978.
 
 Concede à Alcir Tarrago Mattos & Cia. Ltda. o direito de lavrar cassiterita no Município de Encruzilhada do Sul, Estado do Rio Grande do Sul.

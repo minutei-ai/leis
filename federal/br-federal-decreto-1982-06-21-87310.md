@@ -1,6 +1,4 @@
-###DEC-087310-0-000-21-06-1982@@@
-
-  Decreto nº 87.310, de 21 de junho de 1982
+Decreto nº 87.310, de 21 de junho de 1982
 
 Regulamenta a Lei nº 6.545, de 30 de junho de 1978, e dá outras providências.
 

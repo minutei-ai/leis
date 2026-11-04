@@ -1,5 +1,3 @@
-###DEC-049778-0-000-31-12-1960@@@
-
 DECRETO Nº 49.778, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Mário Minamoto a pesquisar minério de ouro no município de Eldorado, Estado de São Paulo.

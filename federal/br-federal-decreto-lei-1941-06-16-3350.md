@@ -1,5 +1,3 @@
-###DEL-003350-0-000-16-06-1941@@@
-
 DECRETO-LEI N. 3.350 – DE 16 DE JUNHO DO 1941
 
 Autoriza a Rede Viação Paraná-Santa Catarina a permutar terrenos

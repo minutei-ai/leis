@@ -1,5 +1,3 @@
-###DEC-060311-0-000-07-03-1967@@@
-
 DECRETO Nº 60.311, DE 7 DE MARÇO DE 1967.
 
 Declara de interêsse social, para fins de desapropriação, imóvel rural situado no Município de Lajedo, no Estado de Pernambuco.

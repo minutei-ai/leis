@@ -1,5 +1,3 @@
-###DEC-068102-0-000-22-01-1971@@@
-
 DECRETO Nº 68.102, DE 22 DE JANEIRO DE 1971.
 
 Autorização para o funcionamento da Faculdade Porto Alegrense de Ciências Contábeis e Administrativas, mantida pela Sociedade Universitária Sul Riograndense.

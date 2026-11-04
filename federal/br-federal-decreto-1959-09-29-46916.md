@@ -1,5 +1,3 @@
-###DEC-046916-0-000-29-09-1959@@@
-
 DECRETO Nº 46.916, DE 29 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública a Real e a Benemérita Sociedade Portuguêsa de Beneficiência, com sede em São Paulo, Estado de São Paulo.

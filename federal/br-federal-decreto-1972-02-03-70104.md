@@ -1,5 +1,3 @@
-###DEC-070104-0-000-03-02-1972@@@
-
 DECRETO Nº 70.104, DE 3 DE FEVEREIRO DE 1972.
 
 Redistribui, com os respectivos ocupantes, cargos da extinta Comissão do Vale do São Francisco, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

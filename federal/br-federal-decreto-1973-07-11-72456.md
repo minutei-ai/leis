@@ -1,5 +1,3 @@
-###DEC-072456-0-000-11-07-1973@@@
-
 DECRETO Nº 72.456, DE 11 DE JULHO DE 1973.
 
 Autoriza o funcionamento do Curso de Ciências Contábeis da Faculdade de Ciências Contábeis, Econômicas e de Administração, mantida pela Fundação Educacional do Alto Vale do Rio do Peixe, com sede na Cidade de Videira, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-044860-0-000-21-11-1958@@@
-
 DECRETO Nº 44.860, DE 21 DE NOVEMBRO DE 1958.
 
 Outorga concessão à Rádio Sociedade Gaúcha Sociedade Anônima para instalar uma estação radiodifusora.

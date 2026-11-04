@@ -92,4 +92,4 @@ Brasília, 27 de junho de 2019; 198º da Independência e 131º da República.
 
 ANTÔNIO HAMILTON MARTINS MOURÃO
 
-Paulo Guedes<br>
+Paulo Guedes

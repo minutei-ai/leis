@@ -1,7 +1,3 @@
-1
-
-###DEC-098241-0-000-04-10-1989@@@
-
 DECRETO Nº 98.241, DE 4 DE OUTUBRO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA BREJO GRANDE”, situado no Município de Santana do Mundaú, Estado de Alagoas, e dá outras providências.

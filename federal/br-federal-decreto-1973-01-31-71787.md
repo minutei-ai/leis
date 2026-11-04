@@ -1,5 +1,3 @@
-###DEC-071787-0-000-31-01-1973@@@
-
 Decreto nº 71.787, de 31 de janeiro de 1973.
 
 Aprova o Regulamento da Diretoria de Cadastro e Avaliação, do Departamento Geral do Pessoal do Ministério do Exército, e dá outras providências.

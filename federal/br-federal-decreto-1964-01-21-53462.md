@@ -1,5 +1,3 @@
-###DEC-053462-0-000-21-01-1964@@@
-
 Decreto nº 53.462, de 21 de janeiro de 1964.
 
 Concede à Acosta Irmãos Ltda. autorização para funcionar como emprêsa de mineração.

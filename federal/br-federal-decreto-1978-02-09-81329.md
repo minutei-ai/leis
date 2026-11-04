@@ -1,5 +1,3 @@
-###DEC-081329-0-000-09-02-1978@@@
-
 Decreto nº 81.329, de 9 de fevereiro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Distrito Federal e Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEL-005305-0-000-05-03-1943@@@
-
 DECRETO‑LEI N. 5.305 – DE 5 DE MARÇO DE 1943
 
 Entende aos Capitães de Mar e Guerra da Armada, as disposições do de­creto‑lei n. 5.281, de 26‑2‑943

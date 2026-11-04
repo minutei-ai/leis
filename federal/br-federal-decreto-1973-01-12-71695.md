@@ -1,5 +1,3 @@
-###DEC-071695-0-000-12-01-1973@@@
-
 Decreto nº 71.695, de 12 de janeiro de 1973.
 
 Confisca bem do cidadão José Cavalcante da Silva, domiciliado no Estado da Paraíba, para a reparação de danos causados ao patrimônio público, e dá outras providências.

@@ -1,20 +1,18 @@
-###DEC-019818-0-000-17-10-1945@@@
+**DECRETO Nº 19.818, DE 17 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19.818, DE 17 DE OUTUBRO DE 1945.</strong>
+***Aprova as especificações e tabela para a classificação e fiscalização da exportação do tabaco em fôlha do Estado do Rio Grande do Sul.***
 
-<em><strong>Aprova as especificações e tabela para a classificação e fiscalização da exportação do tabaco em fôlha do Estado do Rio Grande do Sul.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, alínea “a”, da Constituição, e tendo em vista o que dispõem o artigo 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94 do regulamento aprovado pelo Decreto número 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, alínea “a”, da Constituição, e tendo em vista o que dispõem o artigo 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94 do regulamento aprovado pelo Decreto número 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as especificações e tabela para a classificação e fiscalização da exportação do tabaco em fôlha do Estado do Rio Grande do Sul.
 
-<strong>Art</strong>. 1º Ficam aprovadas as especificações e tabela para a classificação e fiscalização da exportação do tabaco em fôlha do Estado do Rio Grande do Sul.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 17 de outubro de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolonio Sales
 
@@ -142,6 +140,26 @@ XX - Os certificados de classificação, respeitadas as disposições do artigo 
 
 XXI - As taxas relativas à classificação e fiscalização e fiscalização da exportação do tabaco em fôlha do Estado do Rio Grande do Sul, e, em assim, aquelas previstas no Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 19405.739, de 29 de maio de 1940, para trabalhos realizados a requerimento ou por solicitação da parte ou partes interessantes, serão compradas de acordo com a seguinte tabela, por quinze (15) quilos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:407.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em; -aw-import:ignore"><span>&nbsp;</span></span></p></td><td style="width:17.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>Cr$</span></span></p></td></tr><tr><td style="width:407.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>I - Classificação (art.80), inclusive emissão de certificados ....................................................................................................................</span></span></p></td><td style="width:17.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>0,20</span></span></p></td></tr><tr><td style="width:407.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>II - Reciclação (art. 39), inclusive emissão de certificado .......................................................................................................................</span></span></p></td><td style="width:17.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>0,25</span></span></p></td></tr><tr><td style="width:407.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>III - Arbitragem (parágrafo único do art. 84) ...........................................................................................................................................</span></span></p></td><td style="width:17.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>0,40</span></span></p></td></tr><tr><td style="width:407.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>IV - Insperção para os fins indicados nas alíneas </span></span><span style="font-size:0.7em; font-style:italic"><span><em>c</em></span></span><span style="font-size:0.7em"><span> e </span></span><span style="font-size:0.7em; font-style:italic"><span><em>d</em></span></span><span style="font-size:0.7em"><span> do art. 79 .........................................................................................................</span></span></p></td><td style="width:17.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>0,12</span></span></p></td></tr><tr><td style="width:407.6pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.7em"><span>V - Fiscalização da exportação (art. 5º do Decreto-lei nº 334, de 15 de março de 1938 e arts. 70, 81 e 82 do Regulamento aprovado pelo Decreto número 5.739, de 29 de 1940) inclusive emissão de certificados .....................................................................</span></span></p></td><td style="width:17.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.7em"><span>0,10</span></span></p></td></tr></tbody></table>
+Cr$
+
+I - Classificação (art.80), inclusive emissão de certificados ....................................................................................................................
+
+0,20
+
+II - Reciclação (art. 39), inclusive emissão de certificado .......................................................................................................................
+
+0,25
+
+III - Arbitragem (parágrafo único do art. 84) ...........................................................................................................................................
+
+0,40
+
+IV - Insperção para os fins indicados nas alíneas *c* e *d* do art. 79 .........................................................................................................
+
+0,12
+
+V - Fiscalização da exportação (art. 5º do Decreto-lei nº 334, de 15 de março de 1938 e arts. 70, 81 e 82 do Regulamento aprovado pelo Decreto número 5.739, de 29 de 1940) inclusive emissão de certificados .....................................................................
+
+0,10
 
 XXII - Os casos omissos serão resolvidos pelo Serviço de Economia Rural, com aprovados do Ministro da Agricultura.

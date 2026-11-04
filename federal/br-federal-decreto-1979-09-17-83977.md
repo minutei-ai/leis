@@ -1,5 +1,3 @@
-###DEC-083977-0-000-17-09-1979@@@
-
 Decreto nº 83.977, de 17 de setembro de 1979.
 
 Autoriza aumento da potência diurna da Rádio Progresso Ltda., na cidade de São Leopoldo, Estado do Rio Grande do Sul.

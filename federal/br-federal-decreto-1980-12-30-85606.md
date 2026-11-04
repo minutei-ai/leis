@@ -1,5 +1,3 @@
-###DEC-085606-0-000-30-12-1980@@@
-
 Decreto nº 85.606, de 30 de dezembro de 1980.
 
 Concede à TELECOMUNICAÇÕES DO PIAUÍ S.A. - TELEPISA, empresa controlada da TELECOMUNICAÇÕES BRASILEIRAS S.A. - TELEBRÁS, autorização para promover o aumento do seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-064170-0-000-06-03-1969@@@
-
 DECRETO Nº 64.170, DE 6 DE MARÇO DE 1969.
 
 Altera o enquadramento do pessoal do Instituto do Açúcar e do Álcool abrangido pelo artigo 2º da Lei número 3.967, de 5 de outubro de 1961, e da outras providências.

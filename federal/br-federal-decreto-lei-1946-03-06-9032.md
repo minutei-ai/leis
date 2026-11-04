@@ -1,5 +1,3 @@
-###DEL-009032-0-000-06-03-1946@@@
-
 DECRETO-LEI N. 9.032 – DE 6 DE MARÇO DE 1946
 
 Dispõe sôbre o ingresso na carreira de Diplomata e o aperfeiçoamento de funcionários da referida carreira, e dá outras providências.

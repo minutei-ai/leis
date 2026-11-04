@@ -1,5 +1,3 @@
-###MPV-001975-0-025-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.975-25, DE 4 DE maio DE 2000.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

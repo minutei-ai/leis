@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211695)<br>
-
 # DECRETO N° 70.002, DE 20 DE OUTUBRO DE 2025
 
 ### _Altera o Decreto n° 53.051, de 3 de junho de 2008, que institui o Programa de Incentivo ao Investimento pelo Fabricante de Veículo Automotor - ProVeículo._

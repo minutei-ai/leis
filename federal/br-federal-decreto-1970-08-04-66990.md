@@ -1,5 +1,3 @@
-###DEC-066990-0-000-04-08-1970@@@
-
 DECRETO Nº 66.990, DE 4 DE AgÔSTO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Divinópolis, no Estado de Minas Gerais.

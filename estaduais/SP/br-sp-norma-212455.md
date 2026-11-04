@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212455)<br>
-
 # DECRETO N° 70.523, DE 07 DE ABRIL DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, em comodato, da empresa Himalaia Agropecuária Ltda., parte do imóvel que especifica._

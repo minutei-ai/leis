@@ -1,5 +1,3 @@
-###DEC-074409-0-000-14-08-1974@@@
-
 DECRETO Nº 74.409, DE 14 DE AGOSTO DE 1974.
 
 Dispõe sobre a avaliação de bens imóveis para aquisição ou locação pela União.

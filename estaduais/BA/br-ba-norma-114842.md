@@ -10,19 +10,75 @@ Art. 2º - A despesa será efetuada nos limites que se indicam nos quadros const
 
 2 - PODER LEGISLATIVO
 
-<table style="width: 411.05pt; margin-left: 21.3pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 212.6pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>2.1 - Assembléia Legislativa</span></p></td><td style="width: 99.25pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$2.601.139.000</span></p></td><td style="width: 99.2pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$2.601.139.000</span></p></td></tr></tbody></table>
+2.1 - Assembléia Legislativa
+
+Cr$2.601.139.000
+
+Cr$2.601.139.000
 
 3- PODER EXECUTIVO
 
-<table style="width: 411.05pt; margin-left: 21.3pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 212.6pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.1 - Governo do Estado</span></p></td><td style="width: 99.25pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$10.167.790.000</span></p></td><td style="width: 99.2pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.2 - Secretaria do Governo do Estado</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$2.762.520.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.3 - Secretaria da Agricultura, Indústria e Comércio</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto"><span>Cr$8.914.301.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.4 - Secretaria de Educação e Cultura</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$34.925.712.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.5 - Secretaria da Fazenda</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$37.288.741.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.6 - Secretaria do Interior e Justiça</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$9.850.983.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.7 - Secretaria da Segurança Pública</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$17.989.796.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.8 - Secretaria de Viação e Obras Públicas</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$31.692.759.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>3.9 - Secretaria de Saúde Pública e Assistência Social</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$17.276.889.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$170.869.491.000</span></p></td></tr></tbody></table>
+3.1 - Governo do Estado
+
+Cr$10.167.790.000
+
+3.2 - Secretaria do Governo do Estado
+
+Cr$2.762.520.000
+
+3.3 - Secretaria da Agricultura, Indústria e Comércio
+
+Cr$8.914.301.000
+
+3.4 - Secretaria de Educação e Cultura
+
+Cr$34.925.712.000
+
+3.5 - Secretaria da Fazenda
+
+Cr$37.288.741.000
+
+3.6 - Secretaria do Interior e Justiça
+
+Cr$9.850.983.000
+
+3.7 - Secretaria da Segurança Pública
+
+Cr$17.989.796.000
+
+3.8 - Secretaria de Viação e Obras Públicas
+
+Cr$31.692.759.000
+
+3.9 - Secretaria de Saúde Pública e Assistência Social
+
+Cr$17.276.889.000
+
+Cr$170.869.491.000
 
 4 -PODER JUDICIÁRIO
 
-<table style="width: 411.05pt; margin-left: 21.3pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 212.6pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>4.1 - Tribunal de Justiça</span></p></td><td style="width: 99.25pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$770.856.000</span></p></td><td style="width: 99.2pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>4.2 - Corregedoria Geral da Justiça</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$111.166.000</span></p></td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$882.022.000</span></p></td></tr></tbody></table>
+4.1 - Tribunal de Justiça
+
+Cr$770.856.000
+
+4.2 - Corregedoria Geral da Justiça
+
+Cr$111.166.000
+
+Cr$882.022.000
 
 5 - ÓRGÃO AUXILIAR
 
-<table style="width: 411.05pt; margin-left: 21.3pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 212.6pt; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>5.1 - Tribunal de Contas</span></p></td><td style="width: 99.25pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$568.339.000</span></p></td><td style="width: 99.2pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$568.339.000</span></p></td></tr><tr><td style="width: 212.6pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="283"><p class="Tabela-Texto"><span>TOTAL GERAL DA DESPESA</span></p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132">&nbsp;</td><td style="width: 99.2pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="132"><p class="Tabela-Texto"><span>Cr$174.920.991.000</span></p></td></tr></tbody></table>
+5.1 - Tribunal de Contas
+
+Cr$568.339.000
+
+Cr$568.339.000
+
+TOTAL GERAL DA DESPESA
+
+Cr$174.920.991.000
 
 § 1º - A despesa, dentro das limitações estabelecidas nesta lei, será especificada, por sub-elementos, através de um Orçamento Analítico, que será aprovado pelo Poder Executivo.
 
@@ -34,11 +90,39 @@ Art. 3º - A receita será realizada mediante arrecadação dos tributos, rendas
 
 RECEITAS CORRENTES
 
-<table style="width: 411.0pt; margin-left: 21.3pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 6.0cm; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>Receita Tributária</span></p></td><td style="width: 139.5pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Cr$118.915.313.000</span></p></td><td style="width: 101.4pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="135">&nbsp;</td></tr><tr><td style="width: 6.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>Receita Patrimonial</span></p></td><td style="width: 139.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Cr$157.400.000</span></p></td><td style="width: 101.4pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="135">&nbsp;</td></tr><tr><td style="width: 6.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>Receita Industrial</span></p></td><td style="width: 139.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Cr$160.000.000</span></p></td><td style="width: 101.4pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="135">&nbsp;</td></tr><tr><td style="width: 6.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>Transferências Correntes</span></p></td><td style="width: 139.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Cr$27.056.000.000</span></p></td><td style="width: 101.4pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="135">&nbsp;</td></tr><tr><td style="width: 6.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>Receitas Diversas</span></p></td><td style="width: 139.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="186"><p class="Tabela-Texto"><span>Cr$1.462.500.000</span></p></td><td style="width: 101.4pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="135"><p class="Tabela-Texto"><span>147.751.213.000</span></p></td></tr></tbody></table>
+Receita Tributária
+
+Cr$118.915.313.000
+
+Receita Patrimonial
+
+Cr$157.400.000
+
+Receita Industrial
+
+Cr$160.000.000
+
+Transferências Correntes
+
+Cr$27.056.000.000
+
+Receitas Diversas
+
+Cr$1.462.500.000
+
+147.751.213.000
 
 RECEITAS DE CAPITAL
 
-<table style="width: 411.05pt; margin-left: 21.3pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="548" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 6.0cm; border: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>Alienação de Bens Móveis e Imóveis</span></p></td><td style="width: 134.65pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="180"><p class="Tabela-Texto"><span>Cr$40.000.000</span></p></td><td style="width: 106.3pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>40.000.000</span></p></td></tr><tr><td style="width: 6.0cm; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="227"><p class="Tabela-Texto"><span>TOTAL GERAL DA RECEITA</span></p></td><td style="width: 134.65pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="180">&nbsp;</td><td style="width: 106.3pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="142"><p class="Tabela-Texto"><span>Cr$147.791.213.000</span></p></td></tr></tbody></table>
+Alienação de Bens Móveis e Imóveis
+
+Cr$40.000.000
+
+40.000.000
+
+TOTAL GERAL DA RECEITA
+
+Cr$147.791.213.000
 
 Art. 4º - Fica o Poder Executivo autorizado a realizar Operações de crédito até a importância de Cr$47.163.308.000, dentro ou fora do País, observados os lucros e condições dos mercados, devendo as operações de créditos externos atender ao inciso II do artigo 63, da Constituição Federal.
 
@@ -70,4 +154,4 @@ Fúlvio José Alice
 
 Vitor C. Gradim
 
-* * *
+ *

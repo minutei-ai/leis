@@ -1,5 +1,3 @@
-###DEC-002893-0-000-22-12-1998@@@
-
 DECRETO Nº 2.893, DE 22 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.733. de 11 de agosto de 1998.

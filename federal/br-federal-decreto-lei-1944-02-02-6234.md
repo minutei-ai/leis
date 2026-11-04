@@ -1,5 +1,3 @@
-###DEL-006234-0-000-02-02-1944@@@
-
 DECRETO-LEI N. 6.234 – DE 2 DE FEVEREIRO DE 1944
 
 Concede subvenções a instituições assistenciais e culturais, correspondentes ao exercício de 1943, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-007296-0-000-10-09-2010-PUB-01@@@
-
 DECRETO Nº 7.296, DE 10 DE SETEMBRO DE 2010
 
 Acresce dispositivo ao Decreto no 6.759, de 5 de fevereiro de 2009, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.

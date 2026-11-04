@@ -1,5 +1,3 @@
-###DEC-067613-0-000-19-11-1970@@@
-
 DECRETO Nº 67.613, DE 19 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Instituto Brasileiro de Desenvolvimento florestal, cargos do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

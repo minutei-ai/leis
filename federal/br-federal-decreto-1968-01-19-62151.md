@@ -1,5 +1,3 @@
-###DEC-062151-0-000-19-01-1968@@@
-
 DECRETO Nº 62.151, DE 19 DE JANEIRO DE 1968.
 
 Promulga a Convenção da OIT número 115 sôbre a proteção contra as radiações ionizantes.

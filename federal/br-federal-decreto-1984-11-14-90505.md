@@ -1,5 +1,3 @@
-###DEC-090505-0-000-14-11-1984@@@
-
 Decreto nº 90.505, de 14 de novembro de 1984
 
 Decreta a intervenção federal nos bens e instalações de serviços de energia elétrica, situados nos Municípios de Itabaiana, Mogeiro e Salgado de São Felix, Estado da Paraíba, implantados e explorados pela Prefeitura Municipal de Itabaiana, e dá outras providências.

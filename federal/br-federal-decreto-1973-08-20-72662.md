@@ -1,5 +1,3 @@
-###DEC-072662-0-000-20-08-1973@@@
-
 DECRETO Nº 72.662, DE 20 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento da Escola de Educação Física de |Novo Hamburgo, mantida pela Associação Pró ensino Superior em Novo Hamburgo, com sede na Cidade de Novo Hamburgo, Estado do Rio Grande do Sul.

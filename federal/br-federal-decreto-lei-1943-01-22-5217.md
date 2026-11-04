@@ -1,5 +1,3 @@
-###DEL-005217-0-000-22-01-1943@@@
-
 DECRETO‑LEI N. 5.217 – DE 22 DE JANEIRO DE 1943
 
 Abre ao Ministério da Educação e Saude o crédito espacial de Cr$ 15.000,00 para pagamento de subvenção

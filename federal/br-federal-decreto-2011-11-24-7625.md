@@ -1,5 +1,3 @@
-###DEC-007625-0-000-24-11-2011-PUB-01@@@
-
 DECRETO Nº 7.625, DE 24 DE NOVEMBRO DE 2011
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

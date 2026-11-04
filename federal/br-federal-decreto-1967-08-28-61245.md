@@ -1,5 +1,3 @@
-###DEC-061245-0-000-28-08-1967@@@
-
 DECRETO Nº 61.245, DE 28 DE AGÔSTO DE 1967.
 
 Aprova o Regimento para a Inspetoria-Geral das Policias Militares (R-187).

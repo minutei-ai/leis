@@ -1,5 +1,3 @@
-###DEC-002715-0-000-10-08-1998@@@
-
 DECRETO Nº 2.715, DE 10 DE AGOSTO DE 1998
 
 Dispõe sobre a execução do Vigésimo Quinto Protocolo Adicional ao Acordo de Comercial nº 21, Setor da Indústria Química, entre Brasil, Argentina e Uruguai, de 30 de dezembro de 1994.
@@ -56,7 +54,15 @@ Néstor G. Cosentino
 
 PREFERÊNCIAS OUTORGADAS PELOS PAÍSES SIGNATÁRIOS PARA A IMPORTAÇÃO DOS PRODUTOS NEGOCIADOS
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Página</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">A - Pactuadas entre a Argentina e o Brasil ..................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">B - Pactuadas entre o Brasil e o Uruguai ....................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">23</span></p></td></tr></tbody></table>
+Página
+
+A - Pactuadas entre a Argentina e o Brasil ..................................................................
+
+6
+
+B - Pactuadas entre o Brasil e o Uruguai ....................................................................
+
+23
 
 Abreviaturas
 

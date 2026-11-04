@@ -1,5 +1,3 @@
-###DEC-068754-0-000-16-06-1971@@@
-
 DECRETO Nº 68.754 - DE 16 DE JUNHO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à construção de uma subestação no município de Campos, no Estado do Rio de Janeiro.

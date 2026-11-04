@@ -1,5 +1,3 @@
-###DEC-045976-0-000-11-05-1959@@@
-
 DECRETO Nº 45.976, DE 11 DE maio DE 1959.
 
 Concede o abono provisório aos Servidores do Conselho Regional de Engenharia e Arquitetura - 4º Região ( Minas Gerais e Goiás).

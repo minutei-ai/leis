@@ -1,5 +1,3 @@
-###DEC-046047-0-000-18-05-1959@@@
-
 DECRETO Nº 46.047, DE 18 DE MAIO DE 1959.
 
 Autoriza Abilio Pedro & Filho Ltda. a lavrar calcário no município de Rio Claro, Estado de São Paulo.

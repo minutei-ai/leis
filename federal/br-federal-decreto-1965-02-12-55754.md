@@ -1,5 +1,3 @@
-###DEC-055754-0-000-12-02-1965@@@
-
 decreto nº 55.754, de 12 de fevereiro de 1965.
 
 Concede reconhecimento à Faculdade de Direito de Campos, com sede em Campos, Estado do Rio de Janeiro.

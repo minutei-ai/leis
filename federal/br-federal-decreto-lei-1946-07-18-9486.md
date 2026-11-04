@@ -1,5 +1,3 @@
-###DEL-009486-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.486 –  DE 18 DE JULHO DE 1946
 
 Eleva a taxa  de Educação  e  Saúde para Cr$ 0,80 e dá outras providências.

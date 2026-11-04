@@ -144,11 +144,14 @@ Art. 9º Este Decreto entrará em vigor na data de sua publicação, revogando o
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 23 de outubro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-###DEL-007797-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.797 – DE 30 DE JULHO DE 1945
 
 Dispõe sôbre o procedimento fiscal tendente a reprimir a prática ilegal de operações de câmbio

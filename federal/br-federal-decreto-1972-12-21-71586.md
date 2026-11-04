@@ -1,5 +1,3 @@
-###DEC-071586-0-000-21-12-1972@@@
-
 DECRETO Nº 71.586 - DE 21 DE DEZEMBRO DE 1972
 
 Cria, no Ministério do Exército a Diretoria Patrimonial de Brasília.

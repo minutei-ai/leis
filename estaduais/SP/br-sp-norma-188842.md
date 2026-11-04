@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188842)
-
 # DECRETO Nº 63.933, DE 17 DE DEZEMBRO DE 2018
 
 ### _Autoriza a Secretaria da Educação a representar o Estado na celebração de termos de colaboração, com organizações da sociedade civil, sem fins lucrativos, atuantes em educação especial, selecionadas por chamamento público ou previamente credenciadas pela Pasta e dá providências correlatas_
@@ -20,7 +18,8 @@ Decreta:
 
 **III** - o cálculo da quantia a ser transferida dar-se-á mediante a multiplicação da quantidade de avaliações realizadas pela entidade parceira pelo valor individual da avaliação diagnóstica fixado pela Secretaria da Educação, a ser estimado no mês de setembro do ano anterior ao do exercício a que se destina o correspondente repasse, por meio de pesquisa de preços.
 
-**Artigo 3º -** A transferência de recursos financeiros, de que trata o inciso II do artigo 2º deste decreto, será efetuada em parcelas entre os meses de fevereiro e novembro e os referidos recursos não sofrerão reajustes durante o exercício.<br>
+**Artigo 3º -** A transferência de recursos financeiros, de que trata o inciso II do artigo 2º deste decreto, será efetuada em parcelas entre os meses de fevereiro e novembro e os referidos recursos não sofrerão reajustes durante o exercício.
+
 **Artigo 4º -** Os Termos de Colaboração a que alude o artigo 1º deste decreto deverão obedecer a minuta-padrão constante do seu Anexo, podendo o Titular da Pasta promover as adaptações que se tornarem necessárias, vedada a alteração do objeto.
 
 **Artigo 5º -** A entidade parceira poderá propor alteração do plano de trabalho a ser executado no ano subsequente.
@@ -53,13 +52,9 @@ Secretário de Governo
 
 Publicado na Secretaria de Governo, aos 17 de dezembro de 2018.
 
-<br>
-
 **ANEXO**
 
 **a que se refere o artigo 4º do [Decreto nº 63.933, de 17 de dezembro de 2018](https://www.al.sp.gov.br/norma/188842)**
-
-<br>
 
 TERMO DE COLABORAÇÃO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERMÉDIO DA SECRETARIA DA EDUCAÇÃO, E , VISANDO A AVALIAÇÃO DIAGNÓSTICA, POR MEIO DE EQUIPE MULTIPROFISSIONAL, DOS ALUNOS PÚBLICO-ALVO DA EDUCAÇÃO ESPECIAL DO ESTADO DE SÃO PAULO.
 
@@ -67,25 +62,17 @@ TERMO DE COLABORAÇÃO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERM�
 
 O ESTADO DE SÃO PAULO, por intermédio da SECRETARIA DA EDUCAÇÃO, representada neste ato pelo seu Titular, , nos termos do artigo 6º, inciso II, § 2º do [Decreto nº 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), doravante designada SECRETARIA, e a ORGANIZAÇÃO DA SOCIEDADE CIVIL - OSC , inscrita no CNPJ sob nº , com sede , representada, de acordo com o seu ato constitutivo, por , portador do R.G. nº , doravante denominada OSC, observadas as disposições da Lei federal nº 13.019, de 31 de julho de 2014, alterada pela Lei federal n° 13.204, de 14 de dezembro de 2015, bem como pelo [Decreto n° 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342), resolvem firmar o presente Termo de Colaboração mediante as cláusulas e condições seguintes:
 
-<br>
-
 #### CLÁUSULA PRIMEIRA
 
 #### Do Objeto
-
-<br>
 
 O presente Termo de Colaboração, decorrente de chamamento público nº , ou de declaração de dispensa de chamamento público, nos termos do inciso VI do artigo 30 da Lei federal nº 13.019, de 31 de julho de 2014, tem por objeto a transferência de recursos financeiros, do Estado a OSC, visando a realização de avaliação diagnóstica por equipe multiprofissional para elaboração de relatório multidisciplinar, individualizado, objetivando detectar as funcionalidades dos alunos público-alvo da educação especial, envolvendo nesse processo a proposição de métodos e atividades com o objetivo de melhoria de desempenho e aprendizagem dos alunos, nos termos das normas do Conselho Estadual de Educação e consoante plano de trabalho de fls , do Processo nº , o qual, aprovado pela SECRETARIA, passa a fazer parte integrante indissociável deste ajuste, independentemente de sua transcrição.
 
 **Parágrafo único -** O plano de trabalho poderá ser revisto para alteração de valores, mediante termo aditivo, respeitada a legislação vigente e após proposta previamente justificada pela OSC, acolhida por parecer técnico favorável do órgão competente e ratificado pelo Titular da Secretaria, vedada a alteração do objeto.
 
-<br>
-
 #### CLÁUSULA SEGUNDA
 
 #### Das Responsabilidades e Obrigações
-
-<br>
 
 São responsabilidades e obrigações, além de outros compromissos assumidos por meio deste termo e respectivo plano de trabalho, os previstos na Lei federal nº 13.019, de 31 de julho de 2014, no Decreto estadual nº 61.981, de 20 de maio de 2016, e legislação e regulamentação aplicáveis à espécie:
 
@@ -171,23 +158,15 @@ s) utilizar os bens, materiais e serviços custeados com recursos públicos vinc
 
 t) permitir e facilitar o acesso de agentes do ESTADO, membros dos conselhos gestores da política pública, quando houver, da CMA e demais órgãos de fiscalização interna e externa a todos os documentos relativos à execução do objeto da parceria, prestando-lhes todas e quaisquer informações solicitadas, bem como aos locais de execução do objeto.
 
-<br>
-
 #### CLÁUSULA TERCEIRA
 
 #### Da Responsabilidade da OSC
 
-<br>
-
 Não se estabelecerá nenhum vínculo de natureza trabalhista ou de qualquer espécie entre a SECRETARIA e o pessoal contratado pela OSC para a execução das ações descritas neste Termo de Colaboração, sendo de responsabilidade exclusiva da OSC a contratação, o pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais, não implicando a responsabilidade solidária ou subsidiária da SECRETARIA em caso de inadimplência da OSC em relação ao referido pagamento, os ônus incidentes sobre o objeto da parceria ou os danos decorrentes de restrição à sua execução.
-
-<br>
 
 #### CLÁUSULA QUARTA
 
 #### Do Gestor da Parceria
-
-<br>
 
 O gestor fará a interlocução técnica com a OSC, bem como o acompanhamento e a fiscalização da execução do objeto da parceria, devendo zelar pelo seu adequado cumprimento e manter a SECRETARIA informada sobre o andamento das atividades, competindo-lhe em especial:
 
@@ -211,13 +190,9 @@ O gestor fará a interlocução técnica com a OSC, bem como o acompanhamento e 
 
 **§ 4º** - Em caso de vacância da função de gestor, o Secretário da Educação ou quem ele indicar assumirá interinamente a gestão da parceria, por meio de simples apostilamento, até a indicação de novo gestor.
 
-<br>
-
 #### CLÁUSULA QUINTA
 
 #### os Recursos Financeiros
-
-<br>
 
 O valor anual estimado da presente parceria é de R$ ( ), programa de trabalho , onerando a U.O (nomenclatura da U.O), U.G.O U.G.E, natureza de despesa (nomenclatura da natureza de despesa).
 
@@ -237,13 +212,9 @@ O valor anual estimado da presente parceria é de R$ ( ), programa de trabalho ,
 
 **§ 8º** - Para fazer jus ao repasse da primeira parcela do ano seguinte, a OSC deverá ter as prestações de contas das verbas recebidas no ano anterior aprovadas.
 
-<br>
-
 #### CLÁUSULA SEXTA
 
 #### Da Prestação de Contas
-
-<br>
 
 A OSC elaborará e apresentará à SECRETARIA a prestação de contas na forma discriminada nesta cláusula, observando-se o Capítulo IV da Lei federal nº 13.019, de 31 de julho de 2014, o artigo 8º do Decreto estadual nº 61.981, de 20 de maio de 2016, e demais legislação e regulamentação aplicáveis.
 
@@ -273,13 +244,9 @@ A OSC elaborará e apresentará à SECRETARIA a prestação de contas na forma d
 
 **§ 8º** \- A falta de prestação de contas nas condições estabelecidas nesta cláusula e na legislação aplicável, ou a sua desaprovação pelos órgãos competentes da SECRETARIA, implicará na suspensão das liberações subsequentes, até a correção das impropriedades ocorridas.
 
-<br>
-
 #### CLÁUSULA SÉTIMA
 
 #### Da cessão e da administração dos bens públicos
-
-<br>
 
 Durante o período de vigência desta parceria, poderão ser destinados à OSC bens públicos necessários ao seu cumprimento, os quais poderão ser disponibilizados por meio de disposição constante do plano de trabalho, de permissão de uso ou de instrumento equivalente em que se transfira a responsabilidade pelo seu uso e guarda, na forma da lei.
 
@@ -287,13 +254,9 @@ Durante o período de vigência desta parceria, poderão ser destinados à OSC b
 
 **§ 2º** - Extinto o ajuste por realização integral de seu objeto, os bens adquiridos com recursos da parceria poderão ser doados à própria OSC, de acordo com o interesse público, mediante justificativa formal do Secretário da Educação, atendidas as normas legais e regulamentares aplicáveis à espécie.
 
-<br>
-
 #### CLÁUSULA OITAVA
 
 #### Das Alterações
-
-<br>
 
 O Termo de Colaboração poderá ser alterado, mediante termo aditivo, em qualquer de suas cláusulas e condições, exceto no que tange ao seu objeto, de comum acordo, desde que tal interesse seja manifesto por qualquer dos partícipes, previamente e por escrito, observado o disposto no parágrafo único da Cláusula Primeira.
 
@@ -301,13 +264,9 @@ O Termo de Colaboração poderá ser alterado, mediante termo aditivo, em qualqu
 
 **§ 2º** - Aprovada a alteração prevista no § 1º desta cláusula, será formalizado termo aditivo ou apostila, firmada pelo Secretário da Educação, com a juntada aos autos dos documentos necessários, na forma a ser estabelecida pela SECRETARIA.
 
-<br>
-
 #### CLÁUSULA NONA
 
 #### Da Denúncia e Rescisão
-
-<br>
 
 A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos partícipes mediante notificação escrita com antecedência mínima de 90 (noventa) dias e será rescindida, por infração legal ou convencional, em especial na hipótese de interrupção, paralisação ou insuficiência técnica na prestação dos serviços da parceria.
 
@@ -325,19 +284,13 @@ A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos p
 
 #### Da Vigência
 
-<br>
-
 O presente Termo de Colaboração vigorará a partir da data de sua assinatura até de de , podendo ser prorrogado por períodos de 12 (doze) meses, até o limite de 60 (sessenta) meses, mediante termo aditivo, a ser firmado pelo titular da SECRETARIA, após proposta justificada e plano de trabalho, apresentados pela OSC, no prazo mínimo de 30 (trinta) dias antes do termo inicialmente previsto.
 
 **Parágrafo único -** A SECRETARIA prorrogará de ofício a vigência da parceria quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-<br>
-
 #### CLÁUSULA DÉCIMA PRIMEIRA
 
 #### Da ação promocional
-
-<br>
 
 Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente, seguidas as orientações contidas no Manual de Identidade Visual do Governo do Estado de São Paulo.
 
@@ -347,23 +300,15 @@ Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente,
 
 **§ 3º** - A divulgação de resultados técnicos, bem como todo e qualquer ato promocional relacionado ao desenvolvimento ou inovação tecnológica e/ou metodológica, decorrentes de trabalhos realizados no âmbito da presente parceria, deverá apresentar a marca do Governo do Estado de São Paulo, sendo vedada a sua divulgação total ou parcial sem o consentimento prévio e formal da SECRETARIA.
 
-<br>
-
 #### CLÁUSULA DÉCIMA SEGUNDA
 
 #### Do Monitoramento e da Avaliação de Resultados
 
-<br>
-
 Os resultados alcançados com a execução do objeto da parceria devem ser monitorados e avaliados sistematicamente por meio de relatórios técnicos emitidos por responsável designado pelo Secretário da Educação em ato próprio, na forma do artigo 59, da Lei federal nº 13.019, de 31 de julho de 2014. Parágrafo único - A periodicidade e a quantidade dos relatórios técnicos previstos no “caput” desta cláusula serão estipuladas pela CMA.
-
-<br>
 
 #### CLÁUSULA DÉCIMA TERCEIRA
 
 #### Da Comissão de Monitoramento e Avaliação
-
-<br>
 
 Compete à CMA:
 
@@ -381,13 +326,9 @@ Compete à CMA:
 
 **Parágrafo único -** A CMA será composta por representantes da Equipe de Supervisão de Ensino e do Núcleo de Finanças da Diretoria de Ensino responsável pela área em que se localizar a OSC, e seus membros serão designados pelo Dirigente Regional de Ensino competente.
 
-<br>
-
 #### CLÁUSULA DÉCIMA QUARTA
 
 #### Das Responsabilizações e das Sanções
-
-<br>
 
 Pela execução da parceria em desacordo com o plano de trabalho e com as normas da Lei federal nº 13.019, de 31 de julho de 2014, e legislação específica, a SECRETARIA poderá, garantida a prévia defesa, aplicar à OSC as sanções previstas no artigo 73 da Lei federal nº 13.019, de 31 de julho de 2014, observado o disposto no artigo 9º do [Decreto nº 61.981, de 20 de maio de 2016](https://www.al.sp.gov.br/norma/178342).
 
@@ -397,13 +338,9 @@ Pela execução da parceria em desacordo com o plano de trabalho e com as normas
 
 **§ 3º** - Aplicadas as sanções previstas nos incisos II e III do artigo 73 da Lei n° 13.019, de 31 de julho de 2014, a OSC será automaticamente excluída do credenciamento a que se refere à Resolução SE nº (colocar número da resolução correspondente).
 
-<br>
-
 #### CLÁUSULA DÉCIMA QUINTA
 
 #### Do Foro
-
-<br>
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer questões resultantes da execução ou da interpretação deste instrumento e que não puderem ser resolvidas administrativamente.
 

@@ -1,5 +1,3 @@
-###DEC-077002-0-000-09-01-1976@@@
-
 DECRETO Nº 77.02, DE 9 DE JANEIRO DE 1976
 
 Renova o prazo da concessão para o uso exclusivo da energia hidráulica de um trecho do rio Leão, no Município de Campos Novos, Estado de Santa Catarina, outorgada à empresa Comércio e Indústria Saulle Pagnonceli S.A., e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002006-0-000-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.006, DE 14 DE DEZEMBRO DE 1999.
 
 Altera e acresce dispositivos à Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, e dá outras providências.

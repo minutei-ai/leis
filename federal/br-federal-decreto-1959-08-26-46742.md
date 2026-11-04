@@ -1,5 +1,3 @@
-###DEC-046742-0-000-26-08-1959@@@
-
 DECRETO Nº 46.742, DE 26 DE AGOSTO DE 1959.
 
 Concede à siderúrgica Pinheiros Ltda. autorização para funcionar como emprêsa de mineração.

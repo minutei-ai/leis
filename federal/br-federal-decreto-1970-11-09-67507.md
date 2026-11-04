@@ -1,5 +1,3 @@
-###DEC-067507-0-000-09-11-1970@@@
-
 DECRETO Nº 67.507, DE 9 DE NOVEMBRO DE 1970.
 
 Concede permissão, em caráter permanente, às empresas que menciona, componentes de um só grupo industrial, para funcionar aos domingos e nos dias feriados civis e religiosos.

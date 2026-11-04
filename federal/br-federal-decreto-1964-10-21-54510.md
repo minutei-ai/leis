@@ -1,5 +1,3 @@
-###DEC-054510-0-000-21-10-1964@@@
-
 DECRETO Nº 54.510, DE 21 DE OUTUbRO DE 1964.
 
 Autoriza o cidadão brasileiro Paul Ribeiro Jardim a lavrar água mineral, no município de Petrópolis, Estado do Rio de Janeiro.

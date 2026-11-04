@@ -1,5 +1,3 @@
-###DEC-073061-0-000-31-10-1973@@@
-
 DECRETO Nº 73.061, DE 31 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a outorga deferida à Radio Relógio Federal Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade do Rio de Janeiro, Estado da Guanabara.

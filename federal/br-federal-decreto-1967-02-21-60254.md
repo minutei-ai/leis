@@ -1,5 +1,3 @@
-###DEC-060254-0-000-21-02-1967@@@
-
 DECRETO Nº 60.254, DE 21 DE FEVEREIRO DE 1967.
 
 Concede à SOMAG - Sociedade Industrial Mineira e Agrícola Limitada, autorização para funcionar como emprêsa de mineração.

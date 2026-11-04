@@ -1,5 +1,3 @@
-###MPV-000117-0-000-03-04-2003@@@
-
 MEDIDA PROVISÓRIA Nº 117, DE 3 DE ABRIL 2003.
 
 Altera dispositivos da Lei no 10.420, de 10 de abril de 2002, que cria o Fundo Seguro-Safra e institui o benefício Seguro-Safra.

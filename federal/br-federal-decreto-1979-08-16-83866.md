@@ -1,5 +1,3 @@
-###DEC-083866-0-000-16-08-1979@@@
-
 DECRETO Nº 83.866, DE 16 DE AGOSTO DE 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora São José Ltda. para a sociedade "Z - Publicidade do Amapá Ltda." passe a executar serviço de radiodifusão sonora em onda tropical, na cidade de Macapá, Território Federal do Amapá.

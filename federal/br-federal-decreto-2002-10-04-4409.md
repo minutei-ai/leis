@@ -1,5 +1,3 @@
-###DEC-004409-0-000-04-10-2002@@@
-
 DECRETO Nº 4.409, DE 4 DE OUTUBRO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Ministério da Saúde e para a Fundação Nacional de Saúde - FUNASA.

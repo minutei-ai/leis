@@ -1,5 +1,3 @@
-###DEC-077785-0-000-08-06-1976@@@
-
 DECRETO Nº 77.785, DE 08 DE JUNHO DE 1976
 
 Concede autorização á Companhia Japan Odeco S.A para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A - PETROBRAS.

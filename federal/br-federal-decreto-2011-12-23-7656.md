@@ -1,5 +1,3 @@
-###DEC-007656-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.656, DE 23 DE DEZEMBRO DE 2011
 
 Altera o Decreto nº 7.520, de 8 de julho de 2011, que institui o Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - "LUZ PARA TODOS", para o período de 2011 a 2014.

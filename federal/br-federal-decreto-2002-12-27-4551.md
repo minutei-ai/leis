@@ -1,5 +1,3 @@
-###DEC-004551-0-000-27-12-2002@@@
-
 DECRETO N. 4.551 – DE 27 DE DEZEMBRO DE 2002
 
 Dá nova redação ao art. 4º do Decreto nº 4.102, de 24 de janeiro de 2002, que dispõe sobre o Programa Auxílio-Gás.

@@ -72,5 +72,6 @@ Raul Jungmann
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

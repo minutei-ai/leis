@@ -1,5 +1,3 @@
-###DEC-082498-0-000-27-10-1978@@@
-
 Decreto nº 82 498, de 27 de outubro de 1978
 
 Retifica a autorização de lavra conferida à Mineração e Usina Wigg S.A. pelo Decreto nº 63 303, de 27 de setembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-089402-0-000-22-02-1984@@@
-
 Decreto nº 89.402, de 22 de fevereiro de 1984
 
 Autoriza o funcionamento do curso de Graduação de Professores da Parte de Formação Especial do Currículo do Ensino de 2º Grau, a ser ministrado pela Faculdade de Educação Osório Campos, Rio de Janeiro.

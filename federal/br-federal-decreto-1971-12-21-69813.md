@@ -1,5 +1,3 @@
-###DEC-069813-0-000-21-12-1971@@@
-
 decreto nº 69.813 - de 21 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Associação Brasileira de Alimentação Escolar - ABAE, com sede no Estado da Guanabara.

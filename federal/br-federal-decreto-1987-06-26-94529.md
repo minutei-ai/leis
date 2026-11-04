@@ -1,5 +1,3 @@
-###DEC-094529-0-000-26-06-1987@@@
-
 DECRETO N° 94.529, DE 26 JUNHO DE 1987.
 
 Renova a concessão outorgada à RÁDIO ALVORADA DO SUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rebouças, Estado do Paraná.

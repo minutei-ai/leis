@@ -1,5 +1,3 @@
-###DEC-080136-0-000-11-08-1977@@@
-
 DECRETO Nº 80.136, DE 11 DE AGOSTO DE 1977.
 
 Suspende a execução da Lei número 8.025, de 27 de novembro de 1975, do Estado de Goiás.

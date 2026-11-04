@@ -1,5 +1,3 @@
-###DEC-079495-0-000-13-04-1977@@@
-
 DECRETO Nº 79.495,DE 13 DE ABRIL DE 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

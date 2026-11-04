@@ -1,7 +1,3 @@
-1
-
-###MPV-001263-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.263, DE 12 DE JANEIRO DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

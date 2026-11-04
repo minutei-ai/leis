@@ -1,5 +1,3 @@
-###DEL-006926-0-000-05-10-1944@@@
-
 DECRETO-LEI N. 6.926 – DE 5 DE OUTUBRO DE 1944
 
 Cria Unidades de Aviação e dá outras providências

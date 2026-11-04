@@ -1,5 +1,3 @@
-###DEC-077660-0-000-24-05-1976@@@
-
 DECRETO Nº 77.660, DE 24 DE MAIO DE 1976
 
 Concede à Oxford S.A. Indústria e Comércio - OSAICO o direito de lavrar argila no Município de Campo Alegre, Estado de Santa Catarina.

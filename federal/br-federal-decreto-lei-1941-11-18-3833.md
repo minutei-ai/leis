@@ -1,5 +1,3 @@
-###DEL-003833-0-000-18-11-1941@@@
-
 DECRETO-LEI N. 3.833 – DE 18 DE NOVEMBRO DE 1941
 
  Abre  pelo Ministério da Educação e Saúde, o credito suplementar de 2:486$8, á  verba que especifica.

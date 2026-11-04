@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209756)<br>
-
 # LEI N° 18.002, DE 23 DE JULHO DE 2024
 
 ## (Projeto de lei n° 123/2024, da Deputada Valeria Bolsonaro - PL)

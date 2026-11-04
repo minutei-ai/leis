@@ -1,5 +1,3 @@
-###DEC-078517-0-000-30-09-1976@@@
-
 DECRETO Nº 78.517, DE 30 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Econômicas, Administrativas e Contábeis, com sede na Cidade de São Sebastião do Paraíso, Estado de Minas Gerais.

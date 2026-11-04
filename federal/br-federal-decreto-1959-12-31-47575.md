@@ -1,5 +1,3 @@
-###DEC-047575-0-000-31-12-1959@@@
-
 DECRETO Nº 47.575, DE 31 DE Dezembro DE 1959.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços e dá outras providencias.

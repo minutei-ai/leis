@@ -1,5 +1,3 @@
-###DEC-081361-0-000-20-02-1978@@@
-
 Decreto nº 81.361, de 20 de fevereiro de 1978.
 
 Concede à S.A. de Cimento Mineração e Cabotagem - CIMIMAR, o direito de lavrar calcário no Município de João Pessoa, Estado da Paraíba.

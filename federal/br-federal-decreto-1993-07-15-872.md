@@ -1,7 +1,3 @@
-1
-
-###DEC-000872-0-000-15-07-1993@@@
-
 DECRETO N° 872, DE 15 DE JULHO DE 1993
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação n° 10, Revisado, entre Brasil e Colômbia, de 23/03/93.

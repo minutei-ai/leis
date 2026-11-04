@@ -1,5 +1,3 @@
-###DEC-051196-0-000-14-08-1961@@@
-
 DECRETO Nº 51.196, DE 14 DE AGÔSTO DE 1961.
 
 Dispõe sôbre a cessão de edifícios á Universidade Nacional do Trabalho.

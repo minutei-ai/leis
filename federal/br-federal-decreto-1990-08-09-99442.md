@@ -1,7 +1,3 @@
-1
-
-###DEC-099442-0-000-09-08-1990@@@
-
 DECRETO N° 99.442, DE 9 DE AGOSTO DE 1990
 
 Altera o Decreto n° 77.919, de 25 de junho de 1976, que regulamenta a Lei n° 6.265, de 19 de novembro de 1975 - Lei do Ensino no Exército).

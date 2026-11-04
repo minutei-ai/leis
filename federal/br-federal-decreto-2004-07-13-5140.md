@@ -1,5 +1,3 @@
-###DEC-005140-0-000-13-07-2004@@@
-
 DECRETO Nº 5.140, DE 13 DE JULHO DE 2004.
 
        Regulamenta o art. 31 da Lei no 10.893, de 13 de julho de 2004, que trata da subvenção ao prêmio do seguro-garantia modalidade executante construtor para construção de embarcações e dá outras providências.
@@ -96,6 +94,8 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 13 de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antônio Palocci Filho<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antônio Palocci Filho
+
 Alfredo Nascimento

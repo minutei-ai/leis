@@ -1,6 +1,10 @@
 > **LEI Nº 4.742, DE 18 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece Auxílio Extraordinário aos servidores do quadro de pessoal do Ministério Público do Estado do Acre - MPAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece Auxílio Extraordinário aos servidores do quadro de pessoal do Ministério Público do Estado do Acre - MPAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

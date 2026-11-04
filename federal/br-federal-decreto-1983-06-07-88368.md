@@ -1,5 +1,3 @@
-###DEC-088368-0-000-07-06-1983@@@
-
 # DECRETO Nº 88.368, DE 07 DE JUNHO DE 1983.
 
 Dispõe sobre a ampliação da área prioritária para fins de reforma agrária, fixada pelo Decreto nº 86.235, de 29 de julho de 1981, localizada no Município de Mazagão, no Território Federal do Amapá.

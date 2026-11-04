@@ -1,5 +1,3 @@
-###DEL-005643-0-000-05-07-1943@@@
-
 DECRETO‑LEI N.  5.643 – DE 5 DE JULHO DE 1943
 
 Dispõe sôbre a acumulação de pensões e proventos de aposentadoria

@@ -1,5 +1,3 @@
-###DEL-006523-0-000-24-05-1944@@@
-
 DECRETO-LEI  N. 6.523 - DE 24 DE MAIO DE 1944
 
 Cria função gratificada no Quadro III - Parte Permanente, do Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEC-079259-0-000-14-02-1977@@@
-
 DECRETO Nº 79.259, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento à habilitação em Orientação Educacional, do curso de Pedagogia, das Faculdades Unidas de Bagé, com sede na cidade de Bagé, Estado do Rio Grande do Sul.

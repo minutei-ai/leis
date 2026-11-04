@@ -1,5 +1,3 @@
-###DEC-004432-0-000-18-10-2002@@@
-
 DECRETO Nº 4.432, DE 18 DE OUTUBRO DE 2002
 
 Estabelece os requisitos básicos para a regulamentação da Gratificação de Incentivo à Docência - GID e dá outras providências.

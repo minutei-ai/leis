@@ -1,5 +1,3 @@
-###DEC-075731-0-000-15-05-1975@@@
-
 DECRETO Nº 75.731, DE 15 DE MAIO DE 1975.
 
 Institui a "Semana Nacional Comemorativa do Sesquicentenário do Sistema Braille"

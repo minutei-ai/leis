@@ -1,5 +1,3 @@
-###DEC-055050-0-000-23-11-1964@@@
-
 DECRETO Nº 55.050, DE 23 DE NOVEMBRO DE 1964.
 
 Abre, pelo Ministério da Fazenda o crédito especial de Cr$1.000.000.000,00 (um bilhão de cruzeiros) para atender às despesas que específica.

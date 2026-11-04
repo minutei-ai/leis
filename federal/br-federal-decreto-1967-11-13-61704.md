@@ -1,5 +1,3 @@
-###DEC-061704-0-000-13-11-1967@@@
-
 DECRETO Nº 61.704, DE 13 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública a Sociedade Corporação Musical “Lyra Paracatuense”, com sede em Paracatu, Estado de Minas Gerais.

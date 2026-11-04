@@ -38,11 +38,14 @@ Art. 3º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 19 dias do mês de outubro de 2011.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO
 
-JÓRIO COELHO RIOS<br>
+JÓRIO COELHO RIOS
+
 SECRETÁRIO DE ADMINISTRAÇÃO

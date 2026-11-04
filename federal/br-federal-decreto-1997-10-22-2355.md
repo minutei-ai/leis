@@ -1,5 +1,3 @@
-###DEC-002355-0-000-22-10-1997@@@
-
 DECRETO Nº 2.355, DE 22 DE OUTUBRO DE 1997
 
 Altera dispositivos do Decreto nº 967, de 29 de outubro de 1993, e do Regulamento aprovado pelo Decreto nº 2.013, de 26 de setembro de 1996.

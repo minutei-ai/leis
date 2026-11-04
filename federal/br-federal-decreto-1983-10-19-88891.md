@@ -1,5 +1,3 @@
-###DEC-088891-0-000-19-10-1983@@@
-
 Decreto nº 88.891, de 19 de outubro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO CULTURAL CELINAUTA-RÁDIO CELINAUTA; para explorar serviço de radiodifusão sonora em onda média, na cidade de Pato Branco, Estado do Paraná.
